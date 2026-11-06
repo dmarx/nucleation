@@ -1,17 +1,29 @@
 ---
 number: 1485
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpm618c
-promote_when: >-
-  The counts are confirmed from a clean copy of the paper: 35 experiments,
-  21 conclusive, 13 positive and 8 negative (Table 1 and Appendix 1); 10 of
-  12 conclusive laboratory and 3 of 9 conclusive field experiments positive
-  (Table 1); and 3 positive of 15 non-recovery tests (Table 2). The text's
-  statements of these counts were read; Table 2 extracted cleanly, Table 1
-  with its columns scrambled, and Appendix 1 garbled.
 title: 'On Schröder, Persson and De Roos, of 35 manipulation experiments testing for alternative stable states, 21 were conclusive over at least one turnover of the longest-lived organisms, 13 of them showing bistability and 8 its absence; positives came mostly from laboratory rather than field systems, and only 3 of 15 tests of non-recovery after a pressure was removed were positive'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports the review's
+    counts, each stated in the abstract or body that NOTE-1666
+    reads, the non-recovery count also in Table 2, which extracted
+    cleanly. The condition asked that the counts be re-confirmed
+    from a clean copy of the tables, with no discrepancy named (the
+    readable cells of Table 1 agree with the text), and is dropped
+    under ADR-065 §4; NOTE-1666 keeps the check as an open question.
+    It read: 'The counts are confirmed from a clean copy of the
+    paper: 35 experiments, 21 conclusive, 13 positive and 8 negative
+    (Table 1 and Appendix 1); 10 of 12 conclusive laboratory and 3
+    of 9 conclusive field experiments positive (Table 1); and 3
+    positive of 15 non-recovery tests (Table 2). The text's
+    statements of these counts were read; Table 2 extracted cleanly,
+    Table 1 with its columns scrambled, and Appendix 1 garbled.'
 tags:
 - ecology
 - complex-systems
@@ -20,7 +32,7 @@ source:
 - LIT-2167
 summary: >-
   Schröder, Persson & De Roos (2005), [LIT-2167](../literature.d/LIT-2167.md), read in [NOTE-1666](../notes.d/NOTE-1666.md).
-  Proposed only because the per-experiment tables extracted garbled: the
+  The per-experiment tables extracted garbled; the
   counts are stated in the abstract and body, and the non-recovery count
   also in Table 2, which extracted cleanly; Table 1's readable laboratory
   and field cells agree with the text, but its columns are scrambled and

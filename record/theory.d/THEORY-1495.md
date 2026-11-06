@@ -1,19 +1,38 @@
 ---
 number: 1495
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpw0b45
-promote_when: >-
-  Table 1 is checked against its sources and shows hatchery salmonids'
-  relative fitness in the wild generally below one and lowest, at lifetime
-  0.02–0.37, for nonlocal segregated stocks; and Eqn (3) with Figs 2–3 is
-  reproduced, showing that on one trait a decline of more than 30% per
-  generation needs strong truncation, high heritability and strong wild
-  selection together (LT ≤ 0.5, ω2 > 5 or h2 ≤ 0.2 each failing). The
-  multi-trait half is filed as the authors' argument of plausibility and
-  needs no computation beyond showing the paper makes it.
-title: 'Araki, Berejikian, Ford and Blouin find hatchery salmonids generally less fit in the wild than wild fish, worst for nonlocal segregated stocks (lifetime relative fitness 0.02–0.37), and show by a quantitative-genetic model that domestication selection on a single trait can explain a decline of more than 30% per hatchery generation only when selection is strong in both captivity and the wild and heritability is high, while arguing it plausible when selection acts on several traits across the life cycle'
-version: 1
+title: 'Araki, Berejikian, Ford and Blouin find hatchery salmonids generally less fit in the wild than wild fish, worst for nonlocal segregated stocks (lifetime relative fitness 0.02–0.37), and find in a quantitative-genetic model that domestication selection on a single trait can explain a decline of more than 30% per hatchery generation only when selection is strong in both captivity and the wild and heritability is high, while arguing it plausible when selection acts on several traits across the life cycle'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings); ADR-065, ADR-047: NOTE-1668 reads the
+    paper in full. The title read 'Araki, Berejikian, Ford and
+    Blouin find hatchery salmonids generally less fit in the wild
+    than wild fish, worst for nonlocal segregated stocks (lifetime
+    relative fitness 0.02–0.37), and show by a quantitative-genetic
+    model that domestication selection on a single trait can explain
+    a decline of more than 30% per hatchery generation only when
+    selection is strong in both captivity and the wild and
+    heritability is high, while arguing it plausible when selection
+    acts on several traits across the life cycle'; 'show by'
+    asserted the model's result rather than reporting it (kind 3,
+    note only). The condition, a check of Table 1 against its
+    sources and a reproduction of the model, moves unchanged to
+    QUESTION-tmpcfetq: 'Table 1 is checked against its sources and
+    shows hatchery salmonids' relative fitness in the wild generally
+    below one and lowest, at lifetime 0.02–0.37, for nonlocal
+    segregated stocks; and Eqn (3) with Figs 2–3 is reproduced,
+    showing that on one trait a decline of more than 30% per
+    generation needs strong truncation, high heritability and strong
+    wild selection together (LT ≤ 0.5, ω2 > 5 or h2 ≤ 0.2 each
+    failing). The multi-trait half is filed as the authors' argument
+    of plausibility and needs no computation beyond showing the
+    paper makes it.'
 tags:
 - natural-sciences
 - ecology
@@ -22,7 +41,7 @@ source:
 - LIT-2192
 summary: >-
   Araki, Berejikian, Ford & Blouin (2008), [LIT-2192](../literature.d/LIT-2192.md), read in full in
-  [NOTE-1668](../notes.d/NOTE-1668.md). Proposed: the review is of 14 studies, nine on steelhead,
+  [NOTE-1668](../notes.d/NOTE-1668.md). The sharp edges: the review is of 14 studies, nine on steelhead,
   with low power below a 10–15% difference, and the model is one
   generation and one trait. The >30% target is the paper's reading of the
   Hood River result, which it also gives as about 30% and 30–40%, and
@@ -32,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Araki et al. (2008) as open -->
 
-# THEORY-1495: Araki, Berejikian, Ford and Blouin find hatchery salmonids generally less fit in the wild than wild fish, worst for nonlocal segregated stocks (lifetime relative fitness 0.02–0.37), and show by a quantitative-genetic model that domestication selection on a single trait can explain a decline of more than 30% per hatchery generation only when selection is strong in both captivity and the wild and heritability is high, while arguing it plausible when selection acts on several traits across the life cycle
+# THEORY-1495: Araki, Berejikian, Ford and Blouin find hatchery salmonids generally less fit in the wild than wild fish, worst for nonlocal segregated stocks (lifetime relative fitness 0.02–0.37), and find in a quantitative-genetic model that domestication selection on a single trait can explain a decline of more than 30% per hatchery generation only when selection is strong in both captivity and the wild and heritability is high, while arguing it plausible when selection acts on several traits across the life cycle
 
 ## Source
 

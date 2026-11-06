@@ -1,26 +1,35 @@
 ---
 number: 1491
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmptef2i
-promote_when: >-
-  The published Handbook chapter (Elsevier, 2015, pp. 1197–1287) is read
-  and found to carry the same review findings as the 2014 working paper:
-  in its conclusion, that "even the most positive evidence on their
-  effectiveness does not establish that they create self-sustaining
-  economic gains", with gains seen at most while incentives are in force;
-  that zone gains are often relocation from nearby areas or capitalized
-  into land and house values; and, in its summary of Kline and Moretti
-  (2014), manufacturing growth in the TVA counties continuing after the
-  1960 end of transfers through agglomeration, a direct effect
-  significant only in 1940–1960, and the agglomeration benefits offset by
-  negative effects elsewhere. Whether the summarized studies are right is
-  not asked for: the title asserts what the review finds. Refuted if the
-  chapter reports the TVA's post-1960 manufacturing gains as absent or as
-  a continuing direct effect, or reports some policy shown to leave
-  self-sustaining gains.
 title: "Neumark and Simpson's review finds that the US and European evidence on place-based policy shows gains at most while incentives are in force, often offset by relocation from nearby areas or captured in land and house values, and that the one program shown to leave gains after its funding ended, the Tennessee Valley Authority, did so through manufacturing agglomeration while its direct effect faded, with its agglomeration gains estimated to net to about zero nationally"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the review
+    finds, and NOTE-1656 reads the 2014 working paper in full. The
+    condition asked only for the published chapter, with no
+    discrepancy named, and is dropped under ADR-065 §4. It read:
+    'The published Handbook chapter (Elsevier, 2015, pp. 1197–1287)
+    is read and found to carry the same review findings as the 2014
+    working paper: in its conclusion, that "even the most positive
+    evidence on their effectiveness does not establish that they
+    create self-sustaining economic gains", with gains seen at most
+    while incentives are in force; that zone gains are often
+    relocation from nearby areas or capitalized into land and house
+    values; and, in its summary of Kline and Moretti (2014),
+    manufacturing growth in the TVA counties continuing after the
+    1960 end of transfers through agglomeration, a direct effect
+    significant only in 1940–1960, and the agglomeration benefits
+    offset by negative effects elsewhere. Whether the summarized
+    studies are right is not asked for: the title asserts what the
+    review finds. Refuted if the chapter reports the TVA's post-1960
+    manufacturing gains as absent or as a continuing direct effect,
+    or reports some policy shown to leave self-sustaining gains.'
 tags:
 - social-science
 - society-and-governance
@@ -33,8 +42,8 @@ summary: >-
   This is the authors' summary of other studies, not a finding of their
   own: the TVA results are Kline and Moretti's (2014), the relocation and
   capitalization results those of the zone evaluations they review, and
-  none of those primaries was read here. Proposed until the version of
-  record is checked. It does not say that support never leaves lasting
+  none of those primaries was read here. The published chapter is unchecked,
+  with no discrepancy named. It does not say that support never leaves lasting
   gains, only that the evidence reviewed has almost never measured
   outcomes after support ended.
 ---

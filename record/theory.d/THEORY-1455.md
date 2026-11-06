@@ -1,23 +1,35 @@
 ---
 number: 1455
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpz96qc
-promote_when: >-
-  An independent study, or one testing more than one high-off-target
-  sequence per design, reproduces the ordering at fixed design and
-  protocol: scaffold sequences scored high in off-target staple–scaffold,
-  scaffold–scaffold, staple–staple and hairpin binding, with fully
-  complementary staples, give fewer well-folded objects than sequences
-  scored low, with the well-folded fractions counted.
 title: 'Shirt-Ediss, Torelli and colleagues report that, for four DNA origami designs each folded from three scaffold sequences with fully complementary staples under one protocol, the sequence that their energy model scored highest in off-target staple–scaffold, scaffold–scaffold, staple–staple and hairpin binding gave the fewest well-folded AFM objects in every design (0–20% against up to about 66–75%), and they attribute the loss to kinetic trapping and scaffold aggregation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what Shirt-Ediss, Torelli
+    and colleagues measured and their attribution, and NOTE-1627 reads
+    the version of record in full. The condition asked for an
+    independent study or more exemplars per design, and it moves
+    unchanged to QUESTION-tmpdtizm, which lists it under this entry's
+    code; this entry bears_on it: 'An independent study, or one testing
+    more than one high-off-target sequence per design, reproduces the
+    ordering at fixed design and protocol: scaffold sequences scored
+    high in off-target staple–scaffold, scaffold–scaffold, staple–staple
+    and hairpin binding, with fully complementary staples, give fewer
+    well-folded objects than sequences scored low, with the well-folded
+    fractions counted.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2123
+bears_on:
+- QUESTION-tmpdtizm
 summary: >-
   Shirt-Ediss, Torelli, Navarro, Khamis, Kaplan, Trewby, Elezgaray,
   Moradzadeh, Haydell, Keppner, Famulok, Armstrong and Krasnogor (2026),

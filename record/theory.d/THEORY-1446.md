@@ -1,23 +1,44 @@
 ---
 number: 1446
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpcfriw
-promote_when: >-
-  An independent study of several designs of one DNA origami shape, under
-  its own anneal conditions and quality measure, finds defectivity or
-  yield ordered by the skew of the first-fold loop-entropy penalty
-  distribution (or an equivalent fold-distance metric) together with melt
-  temperature, and finds a design that adds short folds at the expense of
-  medium ones performing worse.
-title: 'Majikes and colleagues find, across 34 designs of one 2D DNA origami rectangle annealed under deliberately poor conditions and scored by AFM classification, that defectivity tracks design-level aggregates: the skew of the distribution of loop-entropy penalties each fold would pay if it bound first and the measured melt temperature are its principal correlates, a linear combination of these with a staple-blocking metric collapses it onto one trend, and designs with more short folds at the expense of medium folds are more defective'
-version: 1
+title: 'Majikes and colleagues find, across 34 designs of one 2D DNA origami rectangle annealed under deliberately poor conditions and scored by AFM classification, that defectivity tracks design-level aggregates: the skew of the distribution of loop-entropy penalties each fold would pay if it bound first and the measured melt temperature are its principal correlates, a linear combination of these with a staple-blocking metric collapses 28 of the designs onto one trend, and designs with more short folds at the expense of medium folds are more defective'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: the title reports what
+    Majikes and colleagues find for one shape, and NOTE-1639 reads the
+    version of record in full. The collapse is narrowed to the 28
+    designs it was fitted on (ADR-047 kind 3). The old title was
+    'Majikes and colleagues find, across 34 designs of one 2D DNA
+    origami rectangle annealed under deliberately poor conditions and
+    scored by AFM classification, that defectivity tracks design-level
+    aggregates: the skew of the distribution of loop-entropy penalties
+    each fold would pay if it bound first and the measured melt
+    temperature are its principal correlates, a linear combination of
+    these with a staple-blocking metric collapses it onto one trend, and
+    designs with more short folds at the expense of medium folds are
+    more defective'. The condition asked for an independent study, and
+    it moves unchanged to QUESTION-tmp1jy98, which lists it under this
+    entry's code; this entry bears_on it: 'An independent study of
+    several designs of one DNA origami shape, under its own anneal
+    conditions and quality measure, finds defectivity or yield ordered
+    by the skew of the first-fold loop-entropy penalty distribution (or
+    an equivalent fold-distance metric) together with melt temperature,
+    and finds a design that adds short folds at the expense of medium
+    ones performing worse.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2127
+bears_on:
+- QUESTION-tmp1jy98
 summary: >-
   Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle (2026),
   [LIT-2127](../literature.d/LIT-2127.md), read in [NOTE-1639](../notes.d/NOTE-1639.md). Defectivity is a class-weighted AFM
@@ -30,7 +51,7 @@ summary: >-
   funnel-like rather than path-like is their interpretation of the fit.
 ---
 
-# THEORY-1446: Majikes and colleagues find, across 34 designs of one 2D DNA origami rectangle annealed under deliberately poor conditions and scored by AFM classification, that defectivity tracks design-level aggregates: the skew of the distribution of loop-entropy penalties each fold would pay if it bound first and the measured melt temperature are its principal correlates, a linear combination of these with a staple-blocking metric collapses it onto one trend, and designs with more short folds at the expense of medium folds are more defective
+# THEORY-1446: Majikes and colleagues find, across 34 designs of one 2D DNA origami rectangle annealed under deliberately poor conditions and scored by AFM classification, that defectivity tracks design-level aggregates: the skew of the distribution of loop-entropy penalties each fold would pay if it bound first and the measured melt temperature are its principal correlates, a linear combination of these with a staple-blocking metric collapses 28 of the designs onto one trend, and designs with more short folds at the expense of medium folds are more defective
 
 ## Source
 

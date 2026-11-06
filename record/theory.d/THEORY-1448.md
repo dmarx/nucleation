@@ -1,16 +1,36 @@
 ---
 number: 1448
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpnu25d
-promote_when: >-
-  An independent group reproduces, for DNA origami tiles tethered on a
-  template, the melting-temperature shift attributed to raised effective
-  concentration and the model's prediction of melting temperatures across
-  assembly sizes, or reports per-cycle replication rates for the
-  cross-tile system matching these within error.
-title: 'Ni and colleagues show that, in DNA origami cross-tile self-replication, binding a monomer tile to a template raises the effective concentration of its tethered sticky ends from about 1 nM to about 0.8 mM and shifts their melting temperature by about 50 °C, that a two-state model with three entropy terms, fitted once, predicts the melting temperatures of 1- to 4-tile assemblies to about 2 °C, and that with externally supplied tiles, a thermal cycle and UV crosslinking the per-cycle replication rate falls from about 1.9 for dimers to 1.6 for tetramers'
-version: 1
+title: 'Ni and colleagues show that, in DNA origami cross-tile self-replication, binding a monomer tile to a template raises the effective concentration of its tethered sticky ends from about 1 nM to about 0.8 mM by their estimate, about 0.2 mM by a FRET fit, and shifts their melting temperature by about 50 °C, that a two-state model with three entropy terms, fitted once, predicts the melting temperatures of 1- to 4-tile assemblies to about 2 °C, and that with externally supplied tiles, a thermal cycle and UV crosslinking the per-cycle replication rate falls from about 1.9 for dimers to 1.6 for tetramers'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: the title reports what Ni
+    and colleagues find, and NOTE-1630 reads the version of record in
+    full. The effective-concentration figure is narrowed to their
+    estimate beside the FRET fit (ADR-047 kind 3). The old title was 'Ni
+    and colleagues show that, in DNA origami cross-tile
+    self-replication, binding a monomer tile to a template raises the
+    effective concentration of its tethered sticky ends from about 1 nM
+    to about 0.8 mM and shifts their melting temperature by about 50 °C,
+    that a two-state model with three entropy terms, fitted once,
+    predicts the melting temperatures of 1- to 4-tile assemblies to
+    about 2 °C, and that with externally supplied tiles, a thermal cycle
+    and UV crosslinking the per-cycle replication rate falls from about
+    1.9 for dimers to 1.6 for tetramers'. The condition asked for an
+    independent reproduction, and it moves unchanged to
+    QUESTION-tmpmnl4c, which lists it under this entry's code; this
+    entry bears_on it: 'An independent group reproduces, for DNA origami
+    tiles tethered on a template, the melting-temperature shift
+    attributed to raised effective concentration and the model's
+    prediction of melting temperatures across assembly sizes, or reports
+    per-cycle replication rates for the cross-tile system matching these
+    within error.'
 tags:
 - natural-sciences
 - thermodynamics
@@ -18,6 +38,8 @@ tags:
 date: '2026-11-05'
 source:
 - LIT-2124
+bears_on:
+- QUESTION-tmpmnl4c
 summary: >-
   Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin (2026),
   [LIT-2124](../literature.d/LIT-2124.md), read in [NOTE-1630](../notes.d/NOTE-1630.md). The effective-concentration figure
@@ -29,7 +51,7 @@ summary: >-
   in experiment tetramers barely separated before the tiles unravelled.
 ---
 
-# THEORY-1448: Ni and colleagues show that, in DNA origami cross-tile self-replication, binding a monomer tile to a template raises the effective concentration of its tethered sticky ends from about 1 nM to about 0.8 mM and shifts their melting temperature by about 50 °C, that a two-state model with three entropy terms, fitted once, predicts the melting temperatures of 1- to 4-tile assemblies to about 2 °C, and that with externally supplied tiles, a thermal cycle and UV crosslinking the per-cycle replication rate falls from about 1.9 for dimers to 1.6 for tetramers
+# THEORY-1448: Ni and colleagues show that, in DNA origami cross-tile self-replication, binding a monomer tile to a template raises the effective concentration of its tethered sticky ends from about 1 nM to about 0.8 mM by their estimate, about 0.2 mM by a FRET fit, and shifts their melting temperature by about 50 °C, that a two-state model with three entropy terms, fitted once, predicts the melting temperatures of 1- to 4-tile assemblies to about 2 °C, and that with externally supplied tiles, a thermal cycle and UV crosslinking the per-cycle replication rate falls from about 1.9 for dimers to 1.6 for tetramers
 
 ## Source
 

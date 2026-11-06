@@ -1,23 +1,45 @@
 ---
 number: 1505
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmplod57
-promote_when: >-
-  The QJE version of record (127(2), 2012) read and found to report, as WP
-  11-38 does, that the portage effect on density is larger in the late
-  20th century than in the 19th relative to 1850, that the portage
-  coefficient conditional on lagged density falls to insignificance by the
-  mid-20th century, and that conditional on density portage sites show no
-  differences in the age, price or quantity of housing and other sunk
-  assets; or an independent re-estimate on US portage and fall-line sites
-  that finds the same. Refuted if the effect is shown to decay toward the
-  comparison sites, or a durable sunk factor oversupplied at portages is
-  found. Whether the sites sit in a second stable equilibrium is the
-  authors' reading, which they say is not directly shown, and is not
-  asked for.
-title: 'Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital'
-version: 1
+title: 'Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital, while granting that their results are not direct evidence of multiple equilibria'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings); ADR-065, ADR-047: NOTE-1697 reads the
+    post-referee working paper in full. The title read 'Bleakley and
+    Lin find that US cities at historical portage sites, whose
+    transport advantage ended with canals and railroads by about
+    1900, remain 60–100% denser than comparable sites in the same
+    river watersheds, increasingly so relative to 1850, are neither
+    oversupplied nor cheap in housing, infrastructure or other sunk
+    assets conditional on density, and grow like comparably dense
+    places from about 1930, with no effect where the upstream
+    watershed was smallest; they read this as path dependence under
+    strong local increasing returns, with portage a coordination
+    device that selected the high-density equilibrium, rather than
+    slow reversion through sunk capital', which dropped the authors'
+    hedge that the results are not direct evidence of multiple
+    equilibria (kind 3, note only). The version-of-record route
+    names no discrepancy and is dropped (ADR-065 §4); the
+    re-estimate route moves to QUESTION-tmphc3cr. It read: 'The QJE
+    version of record (127(2), 2012) read and found to report, as WP
+    11-38 does, that the portage effect on density is larger in the
+    late 20th century than in the 19th relative to 1850, that the
+    portage coefficient conditional on lagged density falls to
+    insignificance by the mid-20th century, and that conditional on
+    density portage sites show no differences in the age, price or
+    quantity of housing and other sunk assets; or an independent
+    re-estimate on US portage and fall-line sites that finds the
+    same. Refuted if the effect is shown to decay toward the
+    comparison sites, or a durable sunk factor oversupplied at
+    portages is found. Whether the sites sit in a second stable
+    equilibrium is the authors' reading, which they say is not
+    directly shown, and is not asked for.'
 tags:
 - social-science
 - complex-systems
@@ -26,7 +48,7 @@ source:
 - LIT-2206
 summary: >-
   Bleakley & Lin (2012), [LIT-2206](../literature.d/LIT-2206.md), read from Philadelphia Fed WP 11-38
-  and NBER w16314 in [NOTE-1697](../notes.d/NOTE-1697.md), not from the QJE text. Proposed: the
+  and NBER w16314 in [NOTE-1697](../notes.d/NOTE-1697.md), not from the QJE text. The sharp edges: the
   identification is cross-sectional within watersheds; the rise relative
   to 1850 may partly be late adjustment to the old advantage; the sunk
   assets checked are many but not all; and the authors say their results
@@ -35,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-600 — Proposed, Skimmed or new; cited from the reading of Bleakley and Lin (2012) as open -->
 
-# THEORY-1505: Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital
+# THEORY-1505: Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital, while granting that their results are not direct evidence of multiple equilibria
 
 ## Source
 

@@ -1,21 +1,31 @@
 ---
 number: 1456
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpzb4hv
-promote_when: >-
-  An independent group folds one of the published designs from its
-  published staple set in a single anneal at comparable staple excess and
-  reports a well-formed yield of at least 70% by AFM or another counted
-  method.
 title: 'Rothemund shows that a 7-kilobase single-stranded scaffold routed through a shape, with about 200 unpurified staple strands in excess designed to bind only the scaffold, folds in one two-hour anneal from 95 °C to 20 °C into designed shapes about 100 nm across, with AFM-judged yields of well-formed structures from about 1% to 90% by design and at least 70% for rigid designs on circular scaffold; he proposes, without testing, that strand invasion, staple excess and cooperative staple binding account for this'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what Rothemund
+    demonstrated and what he proposes, and NOTE-1631 reads the article
+    in full. The condition asked for an independent reproduction, and it
+    moves unchanged to QUESTION-tmpdtizm, which lists it under this
+    entry's code; this entry bears_on it: 'An independent group folds
+    one of the published designs from its published staple set in a
+    single anneal at comparable staple excess and reports a well-formed
+    yield of at least 70% by AFM or another counted method.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2120
+bears_on:
+- QUESTION-tmpdtizm
 summary: >-
   Rothemund (2006), [LIT-2120](../literature.d/LIT-2120.md), read in [NOTE-1631](../notes.d/NOTE-1631.md). The folding is
   demonstrated; the yields are judged fractions of AFM fields with small

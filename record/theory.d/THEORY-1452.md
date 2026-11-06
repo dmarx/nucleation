@@ -1,22 +1,44 @@
 ---
 number: 1452
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpy8h1y
-promote_when: >-
-  An independent experiment shows, in folded DNA origami, that free staples
-  are incorporated selectively at toehold-exposing defects and not at intact
-  sites; that a matching staple pool preserves structural integrity under
-  low-rate nuclease damage beyond what non-matching DNA gives; and that this
-  advantage vanishes at a higher damage rate.
-title: 'Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show that folded DNA origami can be repaired from strands supplied in solution, transiently bound labels regenerating indiscriminately after photobleaching and staples being taken up selectively where damage or design exposes a scaffold toehold, so that a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum against 12 % without; such self-healing fails to outpace damage at higher nuclease levels, and damage to the scaffold cannot be repaired'
-version: 1
+title: 'Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show that folded DNA origami can be repaired from strands supplied in solution, transiently bound labels regenerating indiscriminately after photobleaching and added staples being taken up only where shorter staples left a scaffold toehold of 4 or 8 nt, which they take to be how damaged sites are repaired, so that a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum against 12 % without; such self-healing fails to outpace damage at higher nuclease levels, and damage to the scaffold cannot be repaired'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: the title reports what
+    Scheckenbach and colleagues show, and NOTE-1636 reads the main text
+    in full. Selective uptake at damage-made toeholds is inferred, not
+    observed, and is narrowed to the toeholds made by design, with the
+    inference attributed (ADR-047 kind 3). The old title was
+    'Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show
+    that folded DNA origami can be repaired from strands supplied in
+    solution, transiently bound labels regenerating indiscriminately
+    after photobleaching and staples being taken up selectively where
+    damage or design exposes a scaffold toehold, so that a matching
+    staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 %
+    serum against 12 % without; such self-healing fails to outpace
+    damage at higher nuclease levels, and damage to the scaffold cannot
+    be repaired'. The condition asked for an independent experiment, and
+    it moves unchanged to QUESTION-tmpdtizm, which lists it under this
+    entry's code; this entry bears_on it: 'An independent experiment
+    shows, in folded DNA origami, that free staples are incorporated
+    selectively at toehold-exposing defects and not at intact sites;
+    that a matching staple pool preserves structural integrity under
+    low-rate nuclease damage beyond what non-matching DNA gives; and
+    that this advantage vanishes at a higher damage rate.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2139
+bears_on:
+- QUESTION-tmpdtizm
 summary: >-
   Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld (2021),
   [LIT-2139](../literature.d/LIT-2139.md), read in [NOTE-1636](../notes.d/NOTE-1636.md) from the main text; the Supporting
@@ -26,7 +48,7 @@ summary: >-
   every damaged structure: missing staples were replaced in about half.
 ---
 
-# THEORY-1452: Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show that folded DNA origami can be repaired from strands supplied in solution, transiently bound labels regenerating indiscriminately after photobleaching and staples being taken up selectively where damage or design exposes a scaffold toehold, so that a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum against 12 % without; such self-healing fails to outpace damage at higher nuclease levels, and damage to the scaffold cannot be repaired
+# THEORY-1452: Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show that folded DNA origami can be repaired from strands supplied in solution, transiently bound labels regenerating indiscriminately after photobleaching and added staples being taken up only where shorter staples left a scaffold toehold of 4 or 8 nt, which they take to be how damaged sites are repaired, so that a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum against 12 % without; such self-healing fails to outpace damage at higher nuclease levels, and damage to the scaffold cannot be repaired
 
 ## Source
 

@@ -1,0 +1,46 @@
+---
+status: Open
+title: 'Do the graduation-programme results of Banerjee and colleagues'' six-country trials and of Banerjee, Duflo and Sharma''s West Bengal follow-up hold elsewhere: does a further randomized evaluation of a time-limited asset-and-support programme for ultra-poor households, at another site, find effects on consumption and income still significant a year or more after all support ended, with no fall in working time, and does a long-term follow-up there find effects significant at least seven years after the transfer, not shrinking after the third year, carried mainly by wage employment or migration rather than by the transferred activity?'
+version: 1
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-06'
+line: readiness
+bears_on:
+- QUESTION-398
+summary: >-
+  The promotion conditions formerly on THEORY-1486 and THEORY-1493,
+  merged here when the twenty-eighth status review promoted both under
+  ADR-065, since both ask whether the same graduation-programme results
+  hold elsewhere. THEORY-1486's read: 'A further randomized evaluation
+  of a time-limited asset-and-support program for ultra-poor households,
+  at a site not in this study, finds treatment effects on consumption
+  and income that remain significant one year or more after all program
+  support has ended, with no fall in the recipients' working time
+  relative to controls.' THEORY-1493's read: 'A randomized long-term
+  follow-up of a time-limited graduation program, at another site, finds
+  treatment effects on consumption or income that remain significant at
+  least seven years after the asset transfer and do not shrink between
+  the third year and the last wave; and a decomposition there finds the
+  persistent gain carried mainly by wage employment or migration rather
+  than by the transferred activity.' Both entries bear on this question.
+---
+
+# QUESTION-tmp5ca3z: Do the graduation-programme results of Banerjee and colleagues' six-country trials and of Banerjee, Duflo and Sharma's West Bengal follow-up hold elsewhere: does a further randomized evaluation of a time-limited asset-and-support programme for ultra-poor households, at another site, find effects on consumption and income still significant a year or more after all support ended, with no fall in working time, and does a long-term follow-up there find effects significant at least seven years after the transfer, not shrinking after the third year, carried mainly by wage employment or migration rather than by the transferred activity?
+
+## Why it is a question
+
+THEORY-1486 reports gains that held a year after exit across six trials,
+with large differences between sites. THEORY-1493 reports effects that
+grew for seven years at the India site, the most favourable of the six.
+Neither is a test at a site outside those studies, and the authors keep
+open that the persistence is a poverty flat rather than an escaped trap.
+
+## What would answer it
+
+A randomized evaluation at another site whose effects remain significant a
+year or more after support ends, with no fall in working time, would
+answer the first part; a long-run follow-up there whose effects hold seven
+years on, carried mainly by wage employment or migration, would answer the
+second. Fade-out after exit, or controls catching up, would count against.

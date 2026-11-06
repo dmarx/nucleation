@@ -76,3 +76,11 @@ industries settling at a lower level.
   investment.
 - **Why places recover.** Fundamentals, surviving land claims, labour and
   infrastructure acting as a focal point are offered, not separated.
+
+## Note of 2026-11-06: what holds it back
+
+NOTE-1690 read the working paper only in part: §III, §IV.B–C and the tables, which carry
+the Schwarz-criterion comparisons and the intercept-ordering results the title reports,
+were not read. A full reading of that copy is what is missing; once it is done, the
+version-of-record demand drops under ADR-065 unless a discrepancy is named, and the
+independent threshold test moves to a QUESTION.

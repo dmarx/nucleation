@@ -1,21 +1,32 @@
 ---
 number: 1453
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpyfhtk
-promote_when: >-
-  An experiment shows the predicted design dependence: origami that differ
-  only in staples per crossover column or in breakpoint stacking strength
-  (for example three-domain against two-domain maximum-crossover designs,
-  or monodisperse against disparate staple energies) show a nucleation
-  signature, such as a lag in isothermal folding just below the melting
-  temperature or ramp hysteresis, only in the high-stacking design, and the
-  signature disappears a few degrees below the melting temperature; or an
-  independent model, such as oxDNA or a kinetic domain-level model,
-  reproduces the same presence and absence of the barrier and its control
-  by stacking rather than hybridization strength.
 title: 'Cumberworth, Frenkel and Reinhardt show, in Monte Carlo free-energy calculations of a domain-level lattice model of small planar DNA origami, that typical designs with two-domain staples and edge or single-domain staples assemble downhill with no nucleation barrier, that a maximum-crossover design with three-domain staples has a barrier of about 10 kBT, about 20 kBT at domain resolution, at its melting temperature which vanishes a few degrees below it, and that the presence and height of the barrier are set mainly by coaxial stacking between adjacent staples, not by hybridization strength'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what Cumberworth, Frenkel
+    and Reinhardt's free-energy calculations show, and NOTE-1638 reads
+    the published main text in full, with the supplementary captions
+    that carry the stacking and hybridization controls. The condition
+    asked for an experiment or an independent model, and it moves
+    unchanged to QUESTION-tmp1jy98, which lists it under this entry's
+    code; this entry bears_on it: 'An experiment shows the predicted
+    design dependence: origami that differ only in staples per crossover
+    column or in breakpoint stacking strength (for example three-domain
+    against two-domain maximum-crossover designs, or monodisperse
+    against disparate staple energies) show a nucleation signature, such
+    as a lag in isothermal folding just below the melting temperature or
+    ramp hysteresis, only in the high-stacking design, and the signature
+    disappears a few degrees below the melting temperature; or an
+    independent model, such as oxDNA or a kinetic domain-level model,
+    reproduces the same presence and absence of the barrier and its
+    control by stacking rather than hybridization strength.'
 tags:
 - natural-sciences
 - complex-systems
@@ -23,6 +34,8 @@ tags:
 date: '2026-11-05'
 source:
 - LIT-2134
+bears_on:
+- QUESTION-tmp1jy98
 summary: >-
   Cumberworth, Frenkel and Reinhardt (2022), [LIT-2134](../literature.d/LIT-2134.md), read in
   [NOTE-1638](../notes.d/NOTE-1638.md). Equilibrium simulation of four designs of at most 27

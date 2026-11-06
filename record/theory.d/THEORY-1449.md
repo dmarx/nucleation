@@ -1,24 +1,35 @@
 ---
 number: 1449
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpnzxug
-promote_when: >-
-  An independent replication of mutant takeover in a templated, enzyme-free
-  origami replicator fed monomers each cycle, or a fit of the species
-  fractions over cycles by a first-order master equation in growth and
-  mutation rates published with its parameters, showing that a species
-  produced only by mutation of a few percent per copy reaches dominance
-  within about ten cycles when it grows faster, and that species growing
-  alike approach equal shares.
 title: 'Zhou, Sha, Ni, Seeman and Chaikin show that, in a non-enzymatic DNA origami dimer replicator fed fresh monomers each thermal and UV cycle, a species arising only by a designed mutation of about 3.5% per copy reaches parity within five cycles and dominates after about nine when its growth rate per cycle is higher, growth rate being the only fitness the system has, while two species that grow alike approach equal shares'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports one run that Zhou and
+    colleagues measured, and NOTE-1628 reads the version of record in
+    full. The condition asked for an independent replication or a
+    published fit, and it moves unchanged to QUESTION-tmpmnl4c, which
+    lists it under this entry's code; this entry bears_on it: 'An
+    independent replication of mutant takeover in a templated,
+    enzyme-free origami replicator fed monomers each cycle, or a fit of
+    the species fractions over cycles by a first-order master equation
+    in growth and mutation rates published with its parameters, showing
+    that a species produced only by mutation of a few percent per copy
+    reaches dominance within about ten cycles when it grows faster, and
+    that species growing alike approach equal shares.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2126
+bears_on:
+- QUESTION-tmpmnl4c
 summary: >-
   Zhou, Sha, Ni, Seeman and Chaikin (2021), [LIT-2126](../literature.d/LIT-2126.md), read in
   [NOTE-1628](../notes.d/NOTE-1628.md), as the stand-in for He et al. (2017), [LIT-2132](../literature.d/LIT-2132.md),
