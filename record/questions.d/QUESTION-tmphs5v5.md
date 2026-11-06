@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside CLAIM-568''s four, or a kind of control limitation, and what repairs it?'
+title: 'Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside the four obstructions the record''s account of failed transitions names, or a kind of control limitation, and what repairs it?'
 version: 1
 tags:
 - control-theory
@@ -20,7 +20,7 @@ summary: >-
   a policy needs where acceptable actions differ.
 ---
 
-# QUESTION-tmphs5v5: Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside [CLAIM-568](../claims.d/CLAIM-568.md)'s four, or a kind of control limitation, and what repairs it?
+# QUESTION-tmphs5v5: Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside the four obstructions the record's account of failed transitions names, or a kind of control limitation, and what repairs it?
 
 ## Why it is a question
 
