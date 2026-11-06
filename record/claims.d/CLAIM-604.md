@@ -55,6 +55,7 @@ summary: >-
   signatures. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpbzli4 — Skimmed; a reading of the persistence filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmp5d91s — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-597 THEORY-072 — Proposed; entries this claim extends or rests its reading on, cited as open -->
 
@@ -159,6 +160,10 @@ The model's three signatures are therefore what to test for, not what to expect.
 - **That a flame-like organization is better.** It is cheaper to keep
   once lit and harder to light and to restore. Which is preferable depends
   on how often the flux fails and for how long.
+
+## Note of 2026-11-05: the readings on persistence after shocks
+
+Qualified at city scale. Davis and Weinstein's search fits models with one to four equilibria to Japanese cities after bombing and finds no lower equilibrium ([NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md)). No collapse or hysteresis followed the destruction of about half of all structures, so any threshold lies beyond the observed shocks. Bleakley and Lin's account of portage persistence ([NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)) has a locally stable low equilibrium, consistent with the claim's form, but they say their results do not directly show multiple equilibria. In Moving to Opportunity ([NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) the dose response is roughly linear, and the authors find little evidence of a "critical age" below which children must move to benefit. No status changes.
 
 ## Note of 2026-11-06: the readings on solitons
 
