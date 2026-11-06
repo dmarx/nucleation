@@ -1,0 +1,115 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-06 (NOTE-tmp3nwf3) from the authors' accepted
+  manuscript on HAL (hal-04901011, CC BY 4.0), which carries revision marks
+  and is not the typeset article; worth reading as a short statement, by two
+  of the concept's main authors, of what separates a dissipative soliton from
+  a conservative one: a single attractor fixed by the equation's parameters,
+  held by an exact gain–loss balance with a continuous exchange and an
+  internal flow of energy, rather than one member of a family selected by the
+  initial data. Its main limits: it is a review of mode-locked lasers, with
+  no new results; it gives no pump existence threshold and never discusses
+  bistability or hysteresis; it says nothing on merger or annihilation; and
+  its reach into biology is a citation only.
+title: 'Dissipative solitons for mode-locked lasers'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Registered and read on 2026-11-06 at the owner's suggestion that soliton
+    dynamics bear on the record's questions of individuation and persistence
+    (works chosen by the assistant). Citation checked against Crossref (no
+    mailto): Philippe Grelu and Nail Akhmediev, Nature Photonics 6(2), 84–92,
+    a Review, published online 2012-02-01, which is `published:`, print issue
+    February 2012; OpenAlex gives 2012-02-01 too. Copy from HAL: the authors'
+    accepted manuscript, hal-04901011v1 (https://hal.science/hal-04901011),
+    deposited 2025-01-29 under CC BY 4.0, found through the HAL search API and
+    OpenAlex: 32 PDF pages, of which 25 are text and references and 6 are
+    figures, with some sentences in blue as revision marks. It is the author
+    version, so its wording may differ from the journal's. The text was
+    extracted by pdftotext; the model equation on manuscript p. 6 is garbled
+    in extraction and was taken from the rendered page, and Fig. 1a (p. 26)
+    was read from the rendered image.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-06'
+published: '2012-02-01'
+doi: '10.1038/nphoton.2011.345'
+first_author: 'Grelu'
+keywords:
+- 'dissipative solitons'
+- 'mode-locked lasers'
+- 'complex Ginzburg–Landau equation'
+- 'soliton molecules'
+- 'soliton explosions'
+- 'soliton rain'
+- 'cavity solitons'
+- 'dissipative soliton resonance'
+implementations: []
+summary: >-
+  Grelu & Akhmediev (2012). A review defining dissipative solitons against
+  conservative ones and applying the idea to passively mode-locked lasers.
+  A conservative soliton comes from a "single balance between nonlinearity
+  and dispersion" and is one of "a family comprising an infinity of soliton
+  solutions"; a dissipative soliton is "a fixed localised solution", an
+  attractor whose energy, profile and chirp are "predetermined by the
+  equation parameters, rather than by the initial conditions", kept by an
+  exact gain–loss balance, a "continuous energy exchange with the
+  environment" and an internal flow from regions that gain energy to regions
+  that lose it. The master model is the cubic–quintic complex
+  Ginzburg–Landau equation. It surveys pulse shapes, high-energy designs,
+  robust soliton molecules, pulsating and exploding solitons, soliton rain
+  nucleating from noise above a fluctuation threshold, and cavity solitons
+  switched on and off by a transient writing beam. Theory, simulation and
+  experiment surveyed; no new results.
+---
+<!-- inactive-ok-file: LIT-1642 LIT-524 LIT-tmp7lcfh LIT-tmpwjm3u THEORY-tmphrwgv CLAIM-604 — Proposed, Unfetched, Unavailable or new; cited from the reading of Grelu and Akhmediev (2012) as open -->
+
+# LIT-tmp8ut7r: Dissipative solitons for mode-locked lasers
+
+Grelu, P. & Akhmediev, N. (2012). Dissipative solitons for mode-locked lasers. *Nature Photonics* 6(2): 84–92. doi:10.1038/nphoton.2011.345. Author manuscript: https://hal.science/hal-04901011.
+
+## Key takeaways
+
+*From the reading, NOTE-tmp3nwf3. Page numbers are the manuscript's.*
+
+- **Family against attractor.** Where a conservative system gives "a family
+  comprising an infinity of soliton solutions", "the attractor in a
+  dissipative system is a fixed localised solution", its energy, profile
+  and chirp set by the parameters, not the initial conditions (p. 4).
+- **Supplied and exact.** "the balance between gain and loss, which should
+  be exact in order to produce stationary localised solutions, plays a
+  dominant role in the dynamics" (p. 3); the soliton needs internal regions
+  that take energy in and others that lose it (p. 5).
+- **Robust bound states.** Higher-order NLSE solitons "are easily destroyed
+  by external perturbations"; dissipative soliton molecules are robust and
+  their energy grows with the number of constituents (p. 12).
+- **Return after catastrophe.** Exploding solitons "return to their original
+  shapes after bursting" (p. 14).
+- **Written by a transient input.** In cavity soliton lasers, "A transient
+  writing beam enables on and off switching of cavity solitons" (p. 17).
+
+## Standing in the record
+
+Filed with LIT-tmp7lcfh (Purwins, Bödeker & Amiranashvili 2010) and
+LIT-tmpwjm3u (Akhmediev & Ankiewicz 2008), which it cites as refs. 6 and 8
+and which were not reached, and beside Herr et al. (2014) on temporal
+solitons in microresonators, filed in parallel. Its account is
+THEORY-tmphrwgv.
+
+**Corrections the reading makes to the brief it was read against.** Keeping
+shape and velocity through collisions is said of the solitons of integrable
+systems (p. 2), not of conservative ones in general: conservative
+structures outside integrability are fragile here (higher-order NLSE
+solitons; Kerr solitons in more than two dimensions, which expand or
+collapse, p. 16). Bistability, hysteresis and a pump existence threshold are
+not discussed; the only threshold is on fluctuations, in soliton rain
+(pp. 15–16). That a soliton of its model needs a finite seed, which would
+match CLAIM-604's ignition threshold, is the reader's inference from the
+model's linear loss, not the authors' statement. The missing points would
+come from Purwins et al., the Akhmediev–Ankiewicz chapter or LIT-1642
+(Knobloch). The review names Prigogine's open systems as a source of the
+concept and cites Nicolis & Prigogine 1977, held as LIT-524.
