@@ -327,3 +327,7 @@ The reader checked the totals. A9: "The first expands effective capability relat
 **Unremarked by A9.** A tolerance τ ≥ 1 admits u = 0 with no sensing, so renegotiation can be made free.
 
 No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after CLAIM-361 went Active (2026-11-06) and after the readings of 2026-10-31 and 2026-11-01. None is a premise or bears on what holds it. The claim is still held by its ground THEORY-070, Proposed because no fit in the record shows control intensity falling with its cost (note of 2026-10-29).

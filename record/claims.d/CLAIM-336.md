@@ -275,3 +275,7 @@ joint prediction of the pragmatic-transport and will-organization lines
 has been derived through the mapping ([QUESTION-088](../questions.d/QUESTION-088.md)'s test of
 compression), and the lab's v2.9, its one version with frames, operators
 and a governor, predicts exactly as a one-feature selector.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after the ADR-070 vocabulary revisions of ARG-036 and CLAIM-286 (2026-11-04), which change no content. Its premise CLAIM-286 is still Proposed, and no joint prediction of the two lines has been derived through the mapping, as on 2026-10-29.

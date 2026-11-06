@@ -81,3 +81,7 @@ without a criterion for when an organized whole is a subject
 ([QUESTION-046](../questions.d/QUESTION-046.md)), "not a subject" is a stipulation, as that question says of
 this claim. [CLAIM-175](CLAIM-175.md)'s objection is written in (version 2) and is not
 what holds it.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after QUESTION-046's note of 2026-11-01, from Metzinger's contraction principle. It leaves that question Open and supplies no criterion for when an organized whole is a subject, so "not a subject" is still a stipulation, as the note of 2026-10-30 says.

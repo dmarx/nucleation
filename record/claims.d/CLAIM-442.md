@@ -139,3 +139,7 @@ Proposed, and so is [TERM-076](../terms.d/TERM-076.md), the account's valence it
 side. Its sharp edge, that suspending a motive's hold on action leaves the
 motive's emotion as it was, rests on "the report usually given" of mindful
 attention, which no reading in the record measures.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after TERM-076's ADR-070 vocabulary revision (2026-11-04), which changes no content. TERM-076 and the premise CLAIM-437 are still Proposed, and no reading measures whether suspending a motive's hold on action leaves its emotion as it was.

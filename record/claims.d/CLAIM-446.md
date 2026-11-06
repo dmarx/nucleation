@@ -430,3 +430,7 @@ No status changes.
 ## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
 
 Gershman, Blei & Niv (2010), [LIT-2011](../literature.d/LIT-2011.md), read in [NOTE-1547](../notes.d/NOTE-1547.md), offer a belief-level route by which repeated safety leaves a threat estimate standing. Safety trials can be assigned to a new latent cause, so the threat cause's statistics are never corrected, and threat returns when context points back to it. That is a rival to this claim's governance-maintained route, for the same observation. The paper models conditioning, not avoidance, so it does not show which route operates in anxiety. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after CLAIM-549 went Active (2026-11-06) and Gershman, Blei and Niv (LIT-2011) were read (2026-11-04). LIT-2011 adds a belief-level rival, latent-cause assignment, that leaves a threat estimate standing after safety; like THEORY-910, THEORY-915 and THEORY-914 it is not excluded. Every premise and ground is Active and nothing objects, so promotion needs one of two things: a ruling that the title's "may be" asserts only a possibility, or a result that measures defensive authority apart from threat belief.

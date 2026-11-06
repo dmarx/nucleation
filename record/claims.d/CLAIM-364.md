@@ -204,3 +204,7 @@ promoting it would reject [ARG-030](../arguments.d/ARG-030.md) on the authentici
 **What A10 adds.** Only the object that differs: *who sets the tolerances* and whether they can be reopened. That ties this objection to [CLAIM-534](CLAIM-534.md)'s allocation part and to the note of 2026-11-03 on [CLAIM-545](CLAIM-545.md). A10's own measures were "whether the requirement becomes legible, whether it can influence decisions, whether a fitting revision is attempted, who bears its cost, and whether the system can restore coordination afterward."
 
 The case is not filed separately. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after CLAIM-534 went Active and CLAIM-545's grounds were corrected (2026-11-06). Neither bears on what holds it. Promoting the drafted narrowing would still reject ARG-030 on the authenticity line, whose reopening is the owner's call (note of 2026-10-30).

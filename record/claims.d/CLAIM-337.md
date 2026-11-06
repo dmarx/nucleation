@@ -144,3 +144,7 @@ Proposed, beside [CLAIM-162](CLAIM-162.md) and [CLAIM-358](CLAIM-358.md).
 ## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
 
 Gershman, Blei & Niv (2010), [LIT-2011](../literature.d/LIT-2011.md), read in [NOTE-1547](../notes.d/NOTE-1547.md), formalise the same problem, inferring that a new hidden state exists, differently. They use a Chinese restaurant process prior admitting an unbounded number of latent causes, inferred online by a particle filter, rather than a fixed pool of spare hidden-state slots. It is a rival formalisation, not a test, and it says nothing about mental action or internal loops. It leaves open whether the two differ in prediction when the states needed exceed the spare pool. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after the unread grounds of CLAIM-162 and CLAIM-541 were removed (2026-10-30, 2026-11-06), CLAIM-358's vocabulary revision (2026-11-04), and the reading of Gershman, Blei and Niv (LIT-2011, 2026-11-04). None touches its grounds: THEORY-662 and THEORY-564 are still Proposed, for want of a fitted test of fluency inference and for resting on one simulation of structure learning.

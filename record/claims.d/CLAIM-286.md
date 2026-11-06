@@ -151,3 +151,7 @@ detecting and resolving problems", and that attention and control are
 
 The wording is A's, sharpened by the reader; adopting it is the owner's
 call. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after CLAIM-551 went Active (2026-11-06) and after the ADR-070 sweep (ARG-036, CASE-153, TERM-053; 2026-11-04). CLAIM-551's prediction tells two organizational readings of cognitive dysregulation apart, for one phenomenon. It does not set the shared organizational variables against phenomenon-specific or central-executive models with flexibility penalized, which the defeated_if and QUESTION-088's test still need.

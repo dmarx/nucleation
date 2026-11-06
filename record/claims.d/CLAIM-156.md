@@ -191,3 +191,7 @@ this claim.
   apart" already asks, not from reports of noticing.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after Metzinger's LIT-1941 and LIT-1942 were read on 2026-11-01. They describe meditation as cultivating a veto over trains of thought and measure neither discounting nor choice under temptation. The wait of the note of 2026-10-30 stands: CLAIM-169 is Proposed until THEORY-067's bundling by self-prediction is tested, and no study read asks whether discounting mediates a change in self-control after practice.

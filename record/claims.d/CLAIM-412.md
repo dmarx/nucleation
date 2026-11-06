@@ -472,3 +472,7 @@ places. None of them meets the defeater.
 The evidence for the minimal case is retrospective report, and the 2024
 book grants that such reports cannot show that the state was selfless when
 it occurred ([THEORY-1295](../theory.d/THEORY-1295.md)). No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after the Metzinger readings and QUESTION-254's note of 2026-11-01. Metzinger's modelled tonic alertness is a candidate organization of the right form, stated without report-independent evidence, so QUESTION-254 stays Open. The two objections the note of 2026-10-30 names, eliminativism (THEORY-868) and the circularity, are still unanswered.

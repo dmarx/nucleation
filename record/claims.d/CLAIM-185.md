@@ -314,3 +314,7 @@ Read at the owner's invitation to add readings to the DNA origami filing; the wo
 **Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers".** Qualifies. In the origami simulated, a nucleation threshold is not what makes structure persist: most designs have no barrier at all and still assemble downhill. Where a barrier exists, the barrier-top cluster is a threshold for growth only near Tm. Left open: larger designs may have other barriers.
 
 No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after CLAIM-595 went Active and TERM-117 was adopted (2026-11-06). CLAIM-595 separates persistence from productivity; a persisting trap is still built on, so it does not meet the second defeater. CASE-183's inbound references per code were counted on 2026-11-06 by scratch/formal/claim184_185_counts.py, which has a control: distinct citing files per code, with a NOTE's `paper:` link left out. Almost every code is cited. The uncited are none of the 346 Active CLAIMs, 2 of 209 Proposed ones, 14 of 774 Proposed THEORYs, 1 of 1,611 Active LITs, 5 of 119 Unfetched ones and 5 of 47 Proposed or Rejected ARGs. So no trigger of persistence reliably leaves its structure unused, and the second defeater is not met on this record. The count cannot reach the first: content that never persisted has no code to count, so it still needs a comparison with structure restated afresh, and ARG-028's question, whether the record's own grammar can show anchoring, is still open.

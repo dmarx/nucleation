@@ -163,3 +163,7 @@ first condition exactly, but the incentive is not guaranteed there.
 Raising a grant to an ally nearer than the decision moved the
 decision toward the granting operator in 1,772 of 2,141 trials
 (p19/claim282_loo.py, C6b).
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after the ADR-070 vocabulary revisions of CLAIM-375 and CLAIM-502 (2026-11-04), which change no content. Still missing: a population model in which operators bound by the two conditions delegate, and delegate to aligned others rather than at random.

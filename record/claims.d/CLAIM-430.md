@@ -266,3 +266,7 @@ about the formation of groups, and this claim is about an encounter's
 effect on its participants' perspectives.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after LIT-1913 (Tsoukas and Chia) and LIT-1902 were filed on 2026-10-31 and NOTE-173 was re-read on 2026-11-01. They offer a mechanism and a parallel. Neither is a within-study test of either defeat condition, and none has been run.
