@@ -65,6 +65,7 @@ summary: >-
   Azam et al.'s; the second and third are not in their paper. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6t2vz — new; the assistant's capability-trap claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-604 — Proposed or new; claims this one rests on or extends, cited as open -->
 <!-- inactive-ok-file: NOTE-1647 — new; readings of the aid-dependency filing, cited as open -->
 
@@ -192,3 +193,8 @@ C = 0.769, an output of 1.15, more than demand.
   upkeep does ([CLAIM-604](CLAIM-604.md)), full substitution long enough leaves a
   capacity that does not regrow when the supply stops, the shape of a
   capability trap.
+
+## Note of 2026-11-05: the threshold case, modelled
+
+The assistant's, filling gaps the supplied-maintenance filing left. This claim's "That a threshold is absent" named the case it did not model: capacity that grows only once enough of it exists, the shape of Azam et al.'s trap. [CLAIM-tmp6t2vz](CLAIM-tmp6t2vz.md) models it, with learning by doing that needs capacity already present. Full substitution then has a deadline (3.10 time units in the example) after which withdrawal no longer restores capacity. A slow taper of substitutive support is worse than an abrupt cut. Capacity-first support needs no taper but cannot lift a party below the threshold. No status changes.
+
