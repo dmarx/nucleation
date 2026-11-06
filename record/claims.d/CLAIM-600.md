@@ -94,6 +94,7 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpbzli4 — Skimmed; a reading of the persistence filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -298,3 +299,16 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   regenerates its own parts is a further step: the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
+
+## Note of 2026-11-05: the readings on persistence after shocks and support, and on people against places
+
+Read to fill a gap the supplied-maintenance filing left: whether persistence after withdrawal is self-sustaining or slow reversion. The works were chosen by the assistant.
+
+- **Both poles, now on the record.**
+  - Japanese cities returned to their pre-war relative size within 15–20 years of WWII bombing, Hiroshima and Nagasaki included (Davis and Weinstein, [NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md)). The companion search for multiple equilibria finds "no support for the existence of multiple equilibria" ([NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md)).
+  - US cities at historical portage sites are still 60–100 % denser than comparable sites a century after portage stopped mattering, with no decay (Bleakley and Lin, [NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)). The case passes their tests against slow reversion: matching on past density, the age of housing stock, and prices.
+  - Against these two, the Tennessee Valley Authority ([NOTE-1646](../notes.d/NOTE-1646.md)) is the ambiguous case. The claim's caution that slow reversion can mimic persistence now has its contrast cases.
+- **Size, again.** Bleakley and Lin find almost no effect at the smallest watersheds, an echo of the condition on size.
+- **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
+
+No status changes.
