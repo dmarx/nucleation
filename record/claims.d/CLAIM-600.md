@@ -96,6 +96,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1690 — Skimmed; a reading of the persistence filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
+<!-- inactive-ok-file: LIT-tmp1tvad LIT-tmp0xw48 — Unavailable; registered by the medicine filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -321,3 +322,14 @@ Supports and sharpens the caution that slow reversion can mimic persistence ([CL
 ## Note of 2026-11-06: Suding, Gross & Houseman, "Alternative states and positive feedbacks in restoration ecology", read
 
 Read in full ([LIT-2169](../literature.d/LIT-2169.md), [NOTE-1700](../notes.d/NOTE-1700.md)), the review, previously among the originals read only through neighbours, bears on two of the claim's points. On combined interventions, actions on several constraints at once "(e.g. burning and adding native seeds) often prove more successful than would either approach alone", and those on strong feedbacks may have to come first; the evidence is cited cases, and comparisons of sequence are "limited". On withdrawal, it expects "little or no further management intervention" only where a single constraint existed; otherwise a successful shift leads to maintenance by "very different actions than those required to shift states", a management that partly stops (the shifting work ends, upkeep of the regime such as fire or hydrology continues), not a withdrawal. It measures no case after withdrawal, so the claim's persistence test is untouched; its recommended repeated characterization after the constraints are addressed is the nearest thing to it. No status changes.
+
+## Note of 2026-11-05: the readings in medicine, on suppression, disuse and weaning
+
+Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
+
+- **Doing the work has an upper bound.** The diaphragm needs effort within a band (Goligher et al., [NOTE-tmpkraoh](../notes.d/NOTE-tmpkraoh.md)): too little atrophies it, and too much may injure it. The condition that the party did the work throughout needs that qualification.
+- **Withdrawal is tested, not assumed.** In weaning from ventilation, readiness is tested by a short, reversible spontaneous breathing trial. Success is judged only after a window following extubation (Shah, Hart and Kaltsakas, [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md)). Ventilation can be stopped abruptly in about 75 % of patients whose underlying cause has improved, and immediate extubation after a successful trial is the recommended course (Alía and Esteban, [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md)).
+- **Tapers, where the evidence exists.** Among patients who fail the first trial, the method that tapers machine breaths did worst in both trials Alía and Esteban review ([NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md)). For corticosteroids, the authors of the meta-analysis find "insufficient evidence to prove any withdrawal scheme after steroid use to be efficient or safe" ([NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md)). The guideline's schedule is consensus.
+- **Recovery is slow and graded.** Adrenal recovery takes from months to about four years, and a minority never fully recover ([NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md)).
+
+The original consensus statement on weaning, Boles et al. 2007 ([LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md)), and Levine et al. 2008 on diaphragm atrophy ([LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md)) were not reached. No status changes.

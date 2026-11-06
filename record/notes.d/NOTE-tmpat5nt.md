@@ -1,0 +1,167 @@
+---
+status: Read
+paper: 'LIT-tmp0huzr'
+title: 'Jaber et al. — Ventilator-induced diaphragmatic dysfunction in humans'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from Europe PMC's open-access full-text XML
+    for PMC3219309, converted to text. Read: the abstract, introduction,
+    the review of animal data, the human function and structure sections,
+    the ventilatory and pharmacological strategies, and the implications and
+    conclusions, with the figure legend. Not read: the reference list,
+    except to identify cited studies. Read as its own work and as a
+    stand-in for the unread Levine et al. (2008), LIT-tmp0xw48. The text has
+    no page numbers; sections are named.
+date: '2026-11-05'
+summary: >-
+  A review by authors of one of the human biopsy studies. Fully controlled
+  ventilation lowers diaphragm force within hours in animals, through
+  oxidative stress, less protein synthesis and more proteolysis; human
+  biopsies from brain-dead donors show the same atrophy, injury and
+  markers, correlated with how long ventilation lasted, and twitch pressure
+  in patients fell by about a third in six days. Keeping spontaneous effort
+  lessens the loss in animals without abolishing it. Recovery after
+  ventilation is unstudied.
+---
+<!-- inactive-ok-file: LIT-tmp0xw48 THEORY-tmp2eczh THEORY-tmpfuiq1 CLAIM-600 CLAIM-602 CLAIM-603 CLAIM-604 CLAIM-597 CLAIM-558 — Unavailable, Proposed or new; cited from the reading of Jaber et al. (2011) as open -->
+
+# NOTE-tmpat5nt: Jaber et al. — Ventilator-induced diaphragmatic dysfunction in humans
+
+## Contribution
+
+It gathers the first human studies of ventilator-induced diaphragmatic
+dysfunction (VIDD), published 2008–2011, and sets them beside two decades
+of animal work, arguing that they agree. Before these studies the damage
+was shown only in animals, and controlled ventilation was used to rest the
+diaphragm.
+
+## Key insight
+
+Ventilation that does all of the diaphragm's work removes the diaphragm's
+capacity to do it, quickly, and by an active process: inactivity raises
+oxidative stress and switches on proteolysis, so the muscle is broken down,
+not merely left unused. The authors say the doctrine of "diaphragmatic
+rest" "has now been completely turned on its head" (introduction).
+
+## Assumptions
+
+- **Brain-dead donors stand in for ICU patients.** They are "often
+  relatively free of the confounding effects of multiple organ system
+  failure" and screened for sepsis (structure and biochemistry); brain
+  death itself is not discussed as a confound.
+- **Surgical patients ventilated for 2–4 hours are the baseline.** They
+  have lung lesions or cancer.
+- **Twitch tracheal pressure stands in for diaphragm force** in intubated
+  patients (human function).
+- **Animals are previously healthy**, unlike ICU patients, which the
+  authors concede (implications and conclusions).
+
+## Key results
+
+- **Speed, animals (animal data).** "a few hours of totally controlled MV
+  (without any spontaneous breathing cycles) promotes decreases of
+  diaphragmatic contractile force"; oxidative stress "by 6 hours after MV
+  initiation in rats".
+- **Mechanism, animals (animal data).** Atrophy is "the consequence of
+  decreased protein synthesis ... as well as increased proteolysis", by the
+  calpain, caspase and ubiquitin-proteasome systems. In animals leupeptin
+  given at the start of ventilation blocked atrophy (pharmacological
+  approaches).
+- **Function, humans (human function).** In the authors' patients
+  ventilated about a week, twitch tracheal pressure "decreased
+  progressively ... with a mean reduction of 32 ± 6% at 6 days"; overall,
+  weakness "appears to be directly correlated with the duration of MV".
+- **Levine 2008 restated (human structure).** 14 donors ventilated 18 to
+  69 hours against 8 surgical controls ventilated 2 to 3 hours: atrophy of
+  slow and fast fibres, "whereas no such differences were observed in the
+  pectoralis muscle", with lower glutathione and raised caspase-3,
+  atrogin-1 and MuRF-1.
+- **Follow-up and other series (human structure).** Levine's group, 18
+  donors ventilated 18–72 hours: marker changes "significantly correlated
+  with the duration of MV". Hussain and colleagues, 9 donors ventilated
+  15–276 hours: protein oxidation and autophagy. The authors' own study, 15
+  donors ventilated 24–249 hours in fully controlled mode: ultrastructural
+  injury "five to six times greater frequency" than in controls, with
+  atrophy and injury "significantly correlated with the total duration of
+  MV".
+- **Partial support (ventilation approaches).** In animals "maintaining
+  spontaneous respiratory efforts during mechanical ventilation alleviates
+  VIDD"; the "optimal level of diaphragmatic effort" is unknown.
+- **The caveat (pharmacological approaches).** "even when using partial
+  support modes ... animal studies have found evidence of persistent
+  oxidative stress ... as well as a residual deficit of diaphragmatic force
+  production".
+- **Weaning (abstract).** "Diaphragmatic function is a major determinant
+  of the ability to successfully wean patients", asserted with citations,
+  not shown here.
+- **Recovery (implications).** "Further studies are also needed to
+  evaluate the recovery response of the diaphragm ... once spontaneous
+  respiratory efforts have resumed".
+
+## Concepts
+
+- **VIDD**: ventilation-induced loss of diaphragm function arising outside
+  the nervous system, Vassilakopoulos and Petrof's term (introduction).
+- **Fully controlled ventilation**: ventilation without spontaneous
+  breathing efforts, the diaphragm wholly inactive.
+- **Diaphragmatic rest**: the doctrine of the 1980s and early 1990s that
+  suppressing the diaphragm with controlled ventilation would let a
+  fatigued muscle recover.
+
+## Connections
+
+It restates Levine et al. (2008), [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md): the design, both fibre
+types atrophied, the oxidative and proteolytic markers, and the pectoralis
+control, which the abstract lacks. It does not restate the original's
+percentages, P values, per-subject durations or any analysis of duration
+within 18–69 hours; the duration correlation it reports is from the
+follow-up study of 18 donors. It also summarizes Hussain et al. (2010) and
+Jaber et al. (2011, AJRCCM), neither read here. Goligher et al. (2020),
+[LIT-tmpisk9r](../literature.d/LIT-tmpisk9r.md), build on these studies to argue for a band of effort (see
+[THEORY-tmpfuiq1](../theory.d/THEORY-tmpfuiq1.md)). Alía and Esteban (2000), [NOTE-tmp2yypk](NOTE-tmp2yypk.md), written before
+the human studies, still treat rest with ventilation as "the only method of
+treating muscle fatigue": the doctrine this review calls reversed.
+
+## Bearing on the record
+
+- **[CLAIM-600](../claims.d/CLAIM-600.md).** Supports the condition that the party could do the work
+  and did it throughout: fully controlled ventilation breaks it, and the
+  capacity is lost within days, which makes withdrawal (weaning) hazardous.
+  Qualifies it: kept effort only mitigates the loss in animals, so doing
+  some of the work is not enough to keep all of the capacity.
+- **[CLAIM-602](../claims.d/CLAIM-602.md).** Supports it by analogy, in tissue rather than an
+  organization: supply that does the work lowers the capacity kept, more
+  with longer supply. The claim's prediction about recovery time is not
+  tested; recovery is unstudied.
+- **[CLAIM-558](../claims.d/CLAIM-558.md).** Supports it and extends it from procedural skill to
+  muscle: capacity decays with time since use, on a scale of hours to days,
+  and use in the interval slows the decay (animal data).
+- **[CLAIM-603](../claims.d/CLAIM-603.md).** Loosely: the unused muscle is broken down, saving its
+  upkeep, and the loss is punished at withdrawal. The analogy is the
+  filer's, not the authors'.
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-604](../claims.d/CLAIM-604.md).** None: ventilation replaces the muscle's output,
+  not its upkeep, and no threshold, collapse or hysteresis is shown.
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** By contrast: here dependence on the support grows with
+  its duration, the reverse of a nucleus becoming unnecessary.
+- Filed: [THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- A narrative review; the human studies are small, non-randomized biopsy
+  series in brain-dead donors and observational studies of force.
+- Confounding is conceded: "it is generally impossible for the practicing
+  clinician to assign a definitive diagnosis of VIDD to any given patient"
+  (implications); sedation and illness severity go with duration.
+- Causal evidence for the pathways, and all evidence for partial support,
+  is from animals.
+- No outcome data: the link from atrophy to failed weaning is asserted.
+
+## Open questions
+
+- Does the diaphragm recover once effort resumes, and how fast? A serial
+  study of force or thickness after ventilation would tell.
+- What level of effort during ventilation keeps the capacity? Goligher et
+  al. (2020) propose one; a trial would test it.

@@ -116,3 +116,6 @@ Read at the owner's suggestion to look to reintroduction and ecological recovery
 
 No status changes.
 
+## Note of 2026-11-05: the readings in medicine, on disuse
+
+Extended from skill to tissue. Under full ventilatory support the diaphragm's fibres atrophy within 18–69 hours of inactivity, and force falls by about a third by day 6 in Jaber's group's measurements ([NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md)). Jaber et al. note that resting the diaphragm under full support was once thought restorative, a view since "completely turned on its head". No status changes.

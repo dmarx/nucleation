@@ -198,3 +198,13 @@ C = 0.769, an output of 1.15, more than demand.
 
 The assistant's, filling gaps the supplied-maintenance filing left. This claim's "That a threshold is absent" named the case it did not model: capacity that grows only once enough of it exists, the shape of Azam et al.'s trap. [CLAIM-605](CLAIM-605.md) models it, with learning by doing that needs capacity already present. Full substitution then has a deadline (3.10 time units in the example) after which withdrawal no longer restores capacity. A slow taper of substitutive support is worse than an abrupt cut. Capacity-first support needs no taper but cannot lift a party below the threshold. No status changes.
 
+## Note of 2026-11-05: the readings in medicine, on suppression, disuse and weaning
+
+Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant. The links from physiology to organizations are analogies.
+
+- **Supply that does a gland's work suppresses the gland.** Adrenal suppression after corticosteroids affects 48.7 % of oral users in Broersen et al.'s meta-analysis ([NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md)). It rises with dose and with duration: 1.4 % for courses under a month, 27.4 % over a year. The cross-study gradient is confounded.
+- **The cure is capacity-first.** The 2024 guideline ([NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md)) asks that replacement give "a sufficient stimulus for recovery (meaning avoiding any over-replacement)": cover the shortfall, not the work.
+- **Full support atrophies the muscle it replaces.** Under full mechanical ventilation the diaphragm atrophies within 18–69 hours, while a control muscle in the same patients does not (Jaber et al., [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md)). Keeping the patient's own breathing efforts lessens the loss, on animal evidence. Goligher et al. ([NOTE-tmpkraoh](../notes.d/NOTE-tmpkraoh.md)) frame a band, not a floor: too little effort atrophies the diaphragm and too much may injure it.
+- **A partial contradiction.** Full support is prescribed as rest for a fatigued muscle (Alía and Esteban, [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md)). Whether supply erodes capacity may depend on whether the capacity is fatigued or merely unused.
+
+No status changes.

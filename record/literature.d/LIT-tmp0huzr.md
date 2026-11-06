@@ -1,0 +1,90 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md)) from the open-access full text in
+  Europe PMC (PMC3219309); worth reading as a compact account, by authors
+  of one of the biopsy studies, of how fully controlled mechanical
+  ventilation weakens, shrinks and injures the human diaphragm within days,
+  and as the stand-in for the unread Levine et al. (2008). Its limits: a
+  narrative review; the human evidence is small case-control biopsy series
+  in brain-dead donors and observational twitch-pressure studies, with
+  confounding by sedation and illness conceded; the evidence that partial
+  support protects is from animals; recovery after ventilation is unstudied.
+title: 'Clinical review: Ventilator-induced diaphragmatic dysfunction - human studies confirm animal model findings!'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to fill the
+    gaps the supplied-maintenance filing left (works chosen by the
+    assistant), as a stand-in for Levine et al. (2008), LIT-tmp0xw48, whose
+    full text is behind a bot check. Citation taken from the article's
+    Europe PMC record and full-text XML (PMID 21457528): Samir Jaber, Boris
+    Jung, Stefan Matecki and Basil J. Petrof, Critical Care 15(2), 206,
+    review; published 2011-03-11, which is `published:`. Not separately
+    checked against Crossref. Copy from Europe PMC's open-access full text
+    (PMC3219309).
+tags:
+- natural-sciences
+date: '2026-11-05'
+published: '2011-03-11'
+doi: '10.1186/cc10023'
+first_author: 'Jaber'
+keywords:
+- 'ventilator-induced diaphragmatic dysfunction'
+- 'mechanical ventilation'
+- 'diaphragm'
+- 'atrophy'
+- 'oxidative stress'
+- 'proteolysis'
+implementations: []
+summary: >-
+  Jaber, Jung, Matecki & Petrof (2011). A review of ventilator-induced
+  diaphragmatic dysfunction (VIDD): in animals a few hours of fully
+  controlled ventilation lower diaphragm force, with atrophy from less
+  synthesis and more proteolysis driven by oxidative stress; in humans,
+  biopsies from brain-dead donors (Levine 2008 and its follow-up, Hussain
+  2010, the authors' own study) show the same atrophy, injury and
+  proteolytic markers, correlated with ventilation's duration, while the
+  pectoralis is unchanged, and twitch tracheal pressure fell by 32% over
+  six days. Keeping spontaneous effort lessens VIDD in animals but leaves a
+  residual deficit. The earlier doctrine of "diaphragmatic rest" is
+  reversed.
+---
+<!-- inactive-ok-file: LIT-tmp0xw48 THEORY-tmp2eczh CLAIM-600 CLAIM-602 CLAIM-558 — Unavailable, Proposed or new; the unread original, the account filed from this reading, and the claims it bears on, cited as open -->
+
+# LIT-tmp0huzr: Clinical review: Ventilator-induced diaphragmatic dysfunction - human studies confirm animal model findings!
+
+Jaber, S., Jung, B., Matecki, S. & Petrof, B. J. (2011). Clinical review: Ventilator-induced diaphragmatic dysfunction - human studies confirm animal model findings! *Critical Care* 15(2): 206. doi:10.1186/cc10023.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md). Sections are the review's.*
+
+- **Fast.** In animals "a few hours of totally controlled MV (without any
+  spontaneous breathing cycles) promotes decreases of diaphragmatic
+  contractile force" (animal data).
+- **The same in humans.** Donor diaphragms atrophied "whereas no such
+  differences were observed in the pectoralis muscle" (Levine 2008,
+  restated); in ventilated patients twitch pressure fell "with a mean
+  reduction of 32 ± 6% at 6 days" (human function).
+- **Dose.** Atrophy and injury "significantly correlated with the total
+  duration of MV" (the authors' own biopsy study).
+- **Partial support helps, not fully.** Keeping effort "alleviates VIDD" in
+  animals, but partial modes leave "a residual deficit of diaphragmatic
+  force production" (therapeutic strategies).
+- **A doctrine reversed.** The belief that "a period of 'diaphragmatic rest'" by controlled ventilation might help
+  "has now been completely turned on its head" (introduction).
+
+## Standing in the record
+
+Filed as the stand-in for Levine et al. (2008), [LIT-tmp0xw48](LIT-tmp0xw48.md). It restates
+that study's design and result, adds the pectoralis control the abstract
+lacks, and reports the same group's follow-up and two other biopsy series;
+it gives none of the original's tables or analyses. For the record it is
+the physiological case of support that does the work removing the
+capacity it replaces: it bears on [CLAIM-600](../claims.d/CLAIM-600.md)'s condition that the party did
+the work throughout, supports [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-558](../claims.d/CLAIM-558.md) by analogy, and
+qualifies them, since kept effort only mitigates. Filed from it:
+[THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md).
