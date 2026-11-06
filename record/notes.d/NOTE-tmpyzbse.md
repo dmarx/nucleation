@@ -36,6 +36,7 @@ summary: >-
   authors concede is rarely possible, and none measures withdrawal after a
   shift.
 ---
+<!-- inactive-ok-file: ADR-064 — Superseded by ADR-074, which keeps its rule unchanged; cited as the ruling in force when written -->
 <!-- inactive-ok-file: CLAIM-604 CLAIM-597 CLAIM-566 CLAIM-600 CLAIM-602 CLAIM-603 CLAIM-558 LIT-720 LIT-2179 THEORY-128 THEORY-1468 THEORY-1485 THEORY-tmph89ue TERM-117 — Unavailable, Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
 
 # NOTE-tmpyzbse: Suding, Gross & Houseman — Alternative states and positive feedbacks in restoration ecology

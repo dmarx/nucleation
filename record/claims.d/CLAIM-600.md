@@ -95,6 +95,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-tmpbzli4 — Skimmed; a reading of the persistence filing, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmp5d91s — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -312,6 +313,10 @@ Read to fill a gap the supplied-maintenance filing left: whether persistence aft
 - **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
 
 No status changes.
+
+## Note of 2026-11-06: the readings on solitons
+
+Supports and sharpens the caution that slow reversion can mimic persistence ([CLAIM-tmp5d91s](CLAIM-tmp5d91s.md)). An oscillon shows almost no outflow for 10³–10⁴ times the linear lifetime and then ends abruptly (Copeland, Gleiser and Müller, [NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md)). A damped soliton keeps its shape while its amplitude runs down at a rate set by the kind of loss (Grimshaw, Smyth and Stepanyants, [NOTE-tmp2gykh](../notes.d/NOTE-tmp2gykh.md)). A cavity soliton switched on by a transient writing beam then persists on its standing supply (Grelu and Akhmediev, [NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md)): founding support withdrawn, feeding support kept. No status changes.
 
 ## Note of 2026-11-06: Suding, Gross & Houseman, "Alternative states and positive feedbacks in restoration ecology", read
 
