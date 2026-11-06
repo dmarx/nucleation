@@ -1,32 +1,39 @@
 ---
 number: 1379
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8atfa
-promote_when: >-
-  The Basic Theorem (that the concepts of any formal context form a
-  complete lattice and that every complete lattice is isomorphic to some
-  concept lattice) is checked against a proof, in Ganter & Wille or
-  re-derived in the record, since the tutorial states it without one. The
-  other parts of the title are re-derived in this reading.
 title: 'Wille''s formal concept analysis, as restated by Ignatov: for any relation between objects and attributes, the two derivation operators form an antitone Galois connection whose closed pairs form a complete lattice, every complete lattice arises so, and an attribute implication A → B holds exactly when every object with all of A has all of B, that is, when B lies in the closure of A'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), on the full reading
+    of Ignatov (NOTE-1593) and the re-derivation of the Basic Theorem
+    recorded there, the alternative the promote_when names ("re-derived in
+    the record"): extents are closed under arbitrary intersection, so the
+    concepts form a complete lattice with Theorem 1's meet and join, and x ↦
+    (↓x, ↑x) is an isomorphism L ≅ B(L, L, ≤). The coordinator of the review
+    checked the re-derivation step by step and re-ran its script
+    (scratch/formal/fca_basic_theorem_check.py). Ganter & Wille (LIT-344)
+    remains unread. promote_when deleted on promotion.
 tags:
 - mathematics
 date: '2026-11-05'
 source:
 - LIT-2083
 summary: >-
-  Ignatov (2015), [LIT-2083](../literature.d/LIT-2083.md), read in part in [NOTE-1593](../notes.d/NOTE-1593.md) (the theory
-  sections and conclusion), restating Wille 1982 and Ganter & Wille
-  ([LIT-344](../literature.d/LIT-344.md)). Proposed: the tutorial gives the Basic Theorem without proof;
-  the Galois property and the closure form of implications were re-derived
-  for this reading. Implications hold relative to the given objects, not by
-  logical entailment, and include vacuous ones. It does not say that a
-  concept lattice's existence tells anything about the system it describes:
-  every relation has one.
+  Ignatov (2015), LIT-2083, read in full in NOTE-1593, restating Wille 1982
+  and Ganter & Wille (LIT-344). Active: the tutorial gives the Basic Theorem
+  without proof; it, the Galois property and the closure form of
+  implications were re-derived for this reading (NOTE-1593). Implications
+  hold relative to the given objects, not by logical entailment, and include
+  vacuous ones. It does not say that a concept lattice's existence tells
+  anything about the system it describes: every relation has one.
 ---
-<!-- inactive-ok-file: NOTE-1593 LIT-344 — Skimmed and new, Unavailable, or Proposed; cited from the reading of Ignatov (2015) as open -->
+<!-- inactive-ok-file: LIT-344 — Skimmed and new, Unavailable, or Proposed; cited from the reading of Ignatov (2015) as open -->
 
 # THEORY-1379: Wille's formal concept analysis, as restated by Ignatov: for any relation between objects and attributes, the two derivation operators form an antitone Galois connection whose closed pairs form a complete lattice, every complete lattice arises so, and an attribute implication A → B holds exactly when every object with all of A has all of B, that is, when B lies in the closure of A
 
@@ -45,6 +52,8 @@ Ignatov (2015), [LIT-2083](../literature.d/LIT-2083.md); read in [NOTE-1593](../
 - **The Basic Theorem** (Theorem 1, p. 9): "Concept lattice B(G, M, I) is a
   complete lattice." and "In particular, L is isomorphic to B(L, L, ≤)."
   Stated with credit to Wille 1982 and Ganter & Wille; no proof given.
+  Re-derived in NOTE-1593 (the reader's, checked by the coordinator of
+  the twenty-seventh status review).
 - **Implications** (Definition 17, p. 15): A → B holds when A′ ⊆ B′, "i.e.,
   each object having all attributes from A also has all attributes from
   B." That this is B ⊆ A′′ was re-derived: if A′ ⊆ B′ then B ⊆ B′′ ⊆ A′′;

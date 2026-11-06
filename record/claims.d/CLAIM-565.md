@@ -1,10 +1,10 @@
 ---
 number: 565
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp84a10
 title: 'For Boolean constraint languages with constants and single-variable flips, the language fixes whether deciding that one solution reaches another is polynomial or PSPACE-complete, by a boundary that cuts across the clones of polymorphisms that fix the complexity of satisfiability, so the algebra of the satisfiability dichotomy does not by itself predict the complexity of navigating a solution space'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,21 @@ history:
     THEORY-1407 and THEORY-1413 stay, as premises the pair needs, and the
     directive no longer says nothing rests on them. The body adds that
     positive 1-in-3 SAT is safely tight. No status change.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its note of
+    2026-11-06 waited on a full reading of the PSPACE-hardness for positive
+    NAE-3SAT (Gopalan et al. §§3.2–3.3) or of Schwerdtfeger's proofs; both
+    are now read in full (NOTE-1584, NOTE-1613), and THEORY-1407 and
+    THEORY-1413 are Active at the same review. The filer's Post-lattice step
+    was rechecked by script
+    (scratch/formal/gopalan_schwerdtfeger_checks.py). Body corrected under
+    "What it does not say": it said that for formulas without constants
+    "Gopalan et al. leave the question open"; their §5 reports that the
+    st-connectivity dichotomy extends, and leaves only connectivity open. No
+    objection is filed, and nothing in the record meets its defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -61,7 +76,6 @@ summary: >-
   it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1555 NOTE-1572 THEORY-1380 THEORY-1382 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
-<!-- inactive-ok-file: NOTE-1584 NOTE-1613 THEORY-1407 THEORY-1413 — Proposed or Skimmed; the classification the pair rests on, cited as open -->
 
 # CLAIM-565: For Boolean constraint languages with constants and single-variable flips, the language fixes whether deciding that one solution reaches another is polynomial or PSPACE-complete, by a boundary that cuts across the clones of polymorphisms that fix the complexity of satisfiability, so the algebra of the satisfiability dichotomy does not by itself predict the complexity of navigating a solution space
 
@@ -140,7 +154,8 @@ the pair shows.
   satisfiability does not fix navigation.
 - **Anything beyond Boolean domains, other moves, languages without
   constants, or budgets.** Those are [QUESTION-376](../questions.d/QUESTION-376.md); for formulas
-  without constants Gopalan et al. leave the question open.
+  without constants Gopalan et al. report, without proof, that the
+  st-connectivity dichotomy extends (§5), and leave connectivity open.
 - **That A's Pol–Inv connection is wrong.** It is the standard one,
   Γ ⊆ Inv(F) ⟺ F ⊆ Pol(Γ); neither proof names it a Galois connection, a
   naming the field's and not these papers'.
@@ -148,3 +163,9 @@ the pair shows.
 ## Note of 2026-11-06: what holds it back
 
 The pair rests on Gopalan et al.'s classification of positive 1-in-3 SAT and positive NAE-3SAT ([THEORY-1407](../theory.d/THEORY-1407.md)) and on Schwerdtfeger's correction leaving them on their sides ([THEORY-1413](../theory.d/THEORY-1413.md)), and both readings are skimmed: the PSPACE-hardness for NAE-3SAT (§3.2–3.3 of Gopalan et al.) and Schwerdtfeger's own proofs were not checked. A full reading of either, or a checked re-derivation of NAE-3SAT's hardness, is what is missing.
+
+## Note of 2026-11-06: Claude, read
+
+The PSPACE-hardness for positive NAE-3SAT (Gopalan et al. §§3.2–3.3) and Schwerdtfeger's §3 are read in full (NOTE-1584, NOTE-1613), so the hold-back of the note above is met. The filer's Post-lattice step was rechecked: neither relation is closed under conjunction, disjunction, majority or minority, and of the 64 idempotent ternary operations only the three projections preserve either relation (scratch/formal/gopalan_schwerdtfeger_checks.py).
+
+One correction, made in the body: Gopalan et al. do not leave formulas without constants open for navigation. Their §5: "We can extend our dichotomy theorem for st-connectivity to CNF(S)-formulas without constants; the complexity of connectivity for CNF(S)-formulas without constants is open." Schwerdtfeger's §6 reports the st-connectivity and diameter dichotomies without constants from his thesis, which was not read. The claim's scope, "with constants", is unaffected.

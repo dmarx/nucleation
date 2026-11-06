@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpxcbet
 title: 'Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex''s configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,17 @@ history:
     THEORY-032 and TERM-114, are Active, no objection is filed, and the
     bound on the distance between enriched profiles was re-checked.
     Nothing in the record meets its defeated_if.
+- version: 4
+  date: '2026-11-06'
+  note: >-
+    Corrected at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), on the full reading
+    of Lawvere (NOTE-1585): the body credited the max base to the readings'
+    quantale check and said "The max case is the filer's"; Lawvere gives
+    R_cart (p. 152) and states the Yoneda Lemma for any closed V (p. 154),
+    so the filer's argument re-derives a case of his theorem. THEORY-1376,
+    Active at the same review, is added to corroborated_by (ADR-058). No
+    status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -55,6 +66,8 @@ rests_on:
 grounds:
 - CASE-206
 - THEORY-032
+corroborated_by:
+- THEORY-1376
 complements:
 - CLAIM-574
 - CLAIM-583
@@ -80,7 +93,7 @@ summary: >-
   Checked by the filer with python3 -I. The construction is the filer's,
   from A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-204 CASE-206 NOTE-1585 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-204 NOTE-1606 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-590: Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex's configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities
 
@@ -118,8 +131,8 @@ Yoneda ([THEORY-032](../theory.d/THEORY-032.md)) Y(A) ≅ Y(B) for all A and B. 
 A from B, nor either from the flat state.
 
 **Category 2: enriched in peak footprint.** Take the base
-([0, ∞], ≥, max, 0), which the readings of Lawvere and of Marsden and
-Zwart check is a commutative quantale ([NOTE-1585](../notes.d/NOTE-1585.md); [CLAIM-563](CLAIM-563.md)).
+([0, ∞], ≥, max, 0), Lawvere's R_cart (1973, p. 152), which the readings of
+Lawvere and of Marsden and Zwart check is a commutative quantale ([NOTE-1585](../notes.d/NOTE-1585.md); [CLAIM-563](CLAIM-563.md)).
 Let the hom from q to q′ ≠ q be [CLAIM-571](CLAIM-571.md)'s bottleneck,
 d(q, q′) = inf over paths of the largest footprint along the path, and let
 d(q, q) = 0, the identity process costing the unit, as in the free
@@ -144,7 +157,9 @@ d(X, B) > d(X, A) it is at most d(A, B). So the distance between profiles
 is d(A, B) = 1.866: the threshold survives as the distance between
 relational profiles. [QUESTION-031](../questions.d/QUESTION-031.md) records the additive case: "For Lawvere
 metric spaces the Yoneda embedding is an isometry (Lawvere 1973)". The
-max case is the filer's, by the argument above.
+max case is a case of Lawvere's Yoneda Lemma, stated "for any closed V and
+any V-category A" (p. 154); the argument above is the filer's
+re-derivation of it.
 
 **Between the two, a filtration.** For each budget b, the groupoid of the
 sublevel set {q : r(q) ≤ b} has A ≅ B exactly when b ≥ 1.866; at 1.5 it
@@ -206,3 +221,7 @@ one hub and four paths, as contractibility requires.
 ## Note of 2026-11-06: what holds it back
 
 It takes the vertex's configuration space, two folding modes meeting only at the flat state, and the folded states' coordinates from [CASE-206](../cases.d/CASE-206.md), which is Proposed and rests on Foschi, Hull and Ku's equations as read in part in [NOTE-1606](../notes.d/NOTE-1606.md). The filer's check samples those branches but does not derive them; [CASE-206](../cases.d/CASE-206.md) held, or the two-mode structure re-derived here, is what is missing.
+
+## Note of 2026-11-06: Claude, read
+
+Lawvere states the Yoneda Lemma "for any closed V and any V-category A" (1973, p. 154; NOTE-1585), and says of R_cart, his max base, that "all of our general results may be reinterpreted as applying to ultrametric spaces" (p. 152). The internal hom used here, [a, b] = b if b > a and 0 otherwise, is his Hom for R_cart. So the max-enriched Yoneda step is a case of his theorem, and the filer's argument re-derives it; the body is corrected. THEORY-1376 corroborates. No status change.

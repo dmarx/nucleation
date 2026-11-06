@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpq06t8
 title: 'Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -21,6 +21,13 @@ history:
     persistence, and the argument does not use it. CLAIM-571 and CLAIM-563
     are promoted in the same review. The argument was re-derived step by
     step. No objection is on file, and nothing meets the defeat condition.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Dated note added at the twenty-seventh status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings), on the full
+    reading of Lawvere (NOTE-1585); THEORY-1376, Active at the same review,
+    is added to corroborated_by (ADR-058). No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -46,6 +53,7 @@ complements:
 - CLAIM-590
 corroborated_by:
 - THEORY-1420
+- THEORY-1376
 summary: >-
   The assistant's own proposition, filed on 2026-11-05 at the owner's
   invitation to contribute. Take configurations joined by reversible moves,
@@ -67,7 +75,6 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CASE-206 CLAIM-585 CLAIM-590 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 
 # CLAIM-581: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists
 
@@ -206,3 +213,7 @@ Read at the owner's invitation to add readings to the DNA origami filing; the wo
 - He's protocol was not read.
 
 No status changes.
+
+## Note of 2026-11-06: Claude, read
+
+Lawvere: "An R_cart-category is just an ultrametric space" (1973, p. 152; NOTE-1585), where R_cart is [0, ∞] with max as tensor and the metric spaces are his generalized ones, without symmetry, separation or finiteness. That is independent support for reading the peak-cost threshold as an extended pseudo-ultrametric. THEORY-1376 corroborates. No status change.

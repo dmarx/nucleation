@@ -1,10 +1,24 @@
 ---
 number: 607
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpp0p4d
 title: 'Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its note of
+    2026-11-06 waited on a reading of the PSPACE-completeness proof for
+    positive NAE-3SAT and of the tractable side for positive 1-in-3 SAT
+    under the safely tight boundary. Gopalan et al. and Schwerdtfeger are
+    now read in full (NOTE-1584, NOTE-1613), and THEORY-1407 and THEORY-1413
+    are Active at the same review; the safe tightness of positive 1-in-3 SAT
+    and the non-tightness of positive NAE-3SAT were checked by script
+    (scratch/formal/gopalan_schwerdtfeger_checks.py). No objection is filed,
+    and nothing in the record meets its defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,7 +50,6 @@ summary: >-
   demonstration from the cited classifications; Proposed while both
   readings are.
 ---
-<!-- inactive-ok-file: THEORY-1407 THEORY-1413 NOTE-1584 NOTE-1613 — Proposed or Skimmed; the readings this claim is grounded in, cited as its grounds -->
 
 # CLAIM-607: Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT
 
@@ -68,3 +81,7 @@ solution, opposite in the complexity of navigating between solutions.
 ## Note of 2026-11-06: what holds it back
 
 [THEORY-1407](../theory.d/THEORY-1407.md) and [THEORY-1413](../theory.d/THEORY-1413.md) are Proposed: Gopalan et al. and Schwerdtfeger were skimmed ([NOTE-1584](../notes.d/NOTE-1584.md), [NOTE-1613](../notes.d/NOTE-1613.md)), and the hard side's proofs were read only in outline. A reading of the PSPACE-completeness proof for positive NAE-3SAT and of the tractable side for positive 1-in-3 SAT, under the safely tight boundary, would meet it.
+
+## Note of 2026-11-06: Claude, read
+
+Gopalan et al. and Schwerdtfeger are now read in full (NOTE-1584, NOTE-1613). Positive 1-in-3 SAT is tight by the text (§2) and polynomial by Corollary 4.4's greedy flip, read with its proof; it is also safely tight in Schwerdtfeger's sense (Definition 4), checked by script (scratch/formal/gopalan_schwerdtfeger_checks.py), so the correction leaves it in P. Positive NAE-3SAT is not tight (checked by the same script), so not safely tight, and PSPACE-complete by Lemma 3.4, read in all four steps, with Lemma 3.6, read in full. The hold-back of the note above is met.
