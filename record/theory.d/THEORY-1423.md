@@ -1,16 +1,32 @@
 ---
 number: 1423
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmps6lqg
-promote_when: >-
-  An independent derivation or simulation confirming that, for small
-  positive vertex curvature and fold angles held in (−π, π), the popped-up
-  and popped-down nappes of a single rigid origami vertex near the flat
-  state are disconnected, and that for small negative curvature they are
-  connected.
-title: 'Berry, Lee-Trimble and Santangelo show that near the flat state a non-intersecting rigid origami vertex with positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while a negative-curvature vertex''s components stay joined by a neck'
-version: 1
+title: 'Berry, Lee-Trimble and Santangelo find that near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two stay joined by a neck, except at a degree-four vertex, which is split for both signs'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the twenty-fifth status review (ADR-057,
+    ADR-065), at the status review's ruling (the owner delegated these
+    rulings). Old title: "Berry, Lee-Trimble and Santangelo show that near
+    the flat state a non-intersecting rigid origami vertex with positive
+    Gaussian curvature has a configuration space split into two components
+    (popped up and popped down) that no rigid, non-tearing motion joins,
+    while a negative-curvature vertex's components stay joined by a neck".
+    'Show' becomes 'find', and the curvature is small, as the paper's
+    expansion requires. The negative clause is corrected for degree four,
+    which §II finds split for both signs (ADR-047 kind 3, a mis-statement:
+    noted here only). The old condition, "An independent derivation or
+    simulation confirming that, for small positive vertex curvature and
+    fold angles held in (−π, π), the popped-up and popped-down nappes of a
+    single rigid origami vertex near the flat state are disconnected, and
+    that for small negative curvature they are connected.", asks for an
+    independent test of a result the source asserts. It moves word for
+    word to THEORY-tmpi4xzs, which extends this entry (ADR-047 kind 1).
+    Read in full in NOTE-1605 (arXiv v1).
 tags:
 - mathematics
 - natural-sciences
@@ -19,7 +35,8 @@ source:
 - LIT-2024
 summary: >-
   Berry, Lee-Trimble and Santangelo (2020), [LIT-2024](../literature.d/LIT-2024.md), read in full in
-  [NOTE-1605](../notes.d/NOTE-1605.md) (arXiv v1). Proposed: the single-vertex result follows from
+  [NOTE-1605](../notes.d/NOTE-1605.md) (arXiv v1). Active on its reading (ADR-065); whether the
+  result holds is THEORY-tmpi4xzs's. The single-vertex result follows from
   the second-order condition hᵀQh = K, whose proof to quadratic order the
   authors call somewhat involved, and is confirmed numerically on one
   symmetric 5-fold vertex. It does not say anything far from the flat state
@@ -27,7 +44,7 @@ summary: >-
   other, and its multi-vertex extension is conditional.
 ---
 
-# THEORY-1423: Berry, Lee-Trimble and Santangelo show that near the flat state a non-intersecting rigid origami vertex with positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while a negative-curvature vertex's components stay joined by a neck
+# THEORY-1423: Berry, Lee-Trimble and Santangelo find that near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two stay joined by a neck, except at a degree-four vertex, which is split for both signs
 
 ## Source
 

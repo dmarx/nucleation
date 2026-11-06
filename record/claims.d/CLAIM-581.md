@@ -1,10 +1,26 @@
 ---
 number: 581
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpq06t8
 title: 'Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-fifth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Step 2 now
+    defines identification within b by a path whose peak is at most b,
+    which equals d ≤ b where the least peak is attained; before, its
+    statement that the classes are components failed on infinite move
+    graphs. A bullet says that the transitive closure under addition still
+    gives a single-linkage tree, of classes that are not within-b
+    identifications. THEORY-1420 moves from grounds to corroborated_by
+    (ADR-058): step 3 cites Mirth et al. as what the merge tree is in
+    persistence, and the argument does not use it. CLAIM-571 and CLAIM-563
+    are promoted in the same review. The argument was re-derived step by
+    step. No objection is on file, and nothing meets the defeat condition.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -28,7 +44,7 @@ rests_on:
 - CLAIM-563
 complements:
 - CLAIM-590
-grounds:
+corroborated_by:
 - THEORY-1420
 summary: >-
   The assistant's own proposition, filed on 2026-11-05 at the owner's
@@ -73,8 +89,11 @@ identities free, and the hom of the max-enriched category of
    an extended pseudo-ultrametric; it is an ultrametric only when distinct
    states are always separated by a positive cost. Nothing below needs more
    than the strong triangle inequality.
-2. **Equivalence at every budget.** For each b, the relation x ≈_b y iff
-   d(x, y) ≤ b is reflexive, symmetric and, by 1, transitive. Its classes
+2. **Equivalence at every budget.** For each b, let x ≈_b y iff some
+   path joins x and y whose largest move cost is at most b; on a finite
+   move graph, where the least peak is attained, this is d(x, y) ≤ b. It
+   is reflexive, symmetric and, since two such paths concatenate into one
+   whose peak is the larger of theirs (as in 1), transitive. Its classes
    are the connected components of the graph of moves costing at most b.
 3. **Nesting.** If b ≤ b′ then ≈_b refines ≈_b′. The classes form one tree
    as b runs from 0 up: the merge tree, or single-linkage dendrogram, which
@@ -142,6 +161,10 @@ inequality and stands.
   multiparameter structure, not a tree.
 - It says nothing about which semantics a given organization obeys; that is
   empirical.
+- That additive costs give no hierarchy at all. The transitive closure of
+  budgeted identification under addition does nest into a single-linkage
+  tree, but its classes join states more than b apart, so they are not
+  classes of what can be turned into one another within b.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 

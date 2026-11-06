@@ -1,10 +1,33 @@
 ---
 number: 571
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbi4ca
-title: 'For a fixed architecture, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 1
+title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the twenty-fifth status review (ADR-057), at
+    the status review's ruling (the owner delegated these rulings). Old
+    title: "For a fixed architecture, the resource threshold for reaching
+    a target configuration need not equal the resource requirement of the
+    target: it is the least, over admissible transition paths, of the peak
+    requirement along the path, and it is infinite when no admissible path
+    joins the two". It now says 'one resource that must be held at each
+    moment', which its defeat condition and 'What it does not say' already
+    meant: for a cumulative expenditure the threshold is the least
+    integral, not the least peak (ADR-047 kind 3, noted here only).
+    THEORY-1423 and THEORY-1420 move from grounds to corroborated_by
+    (ADR-058): the body cites them as a case where the threshold is
+    infinite and as the merge level it equals, and the construction uses
+    neither. TERM-106 leaves uses: the claim is not stated in it, and the
+    term is defined from this claim's B*; the body still cites it. The
+    construction was re-derived step by step at the review: r(1/2) = 1.3,
+    every path from 0 to 1 passes 1/2, and the sublevel set at 1.0 has two
+    components with roots (1 ± √½)/2. No objection is on file, and nothing
+    meets the defeat condition.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,19 +47,18 @@ line:
 - readiness
 - realizability
 - formal-apparatus
-grounds:
+corroborated_by:
 - THEORY-1423
 - THEORY-1420
 complements:
 - CLAIM-567
-uses:
-- TERM-106
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency
   readiness whose share link could not be fetched), Part 4. A's wording,
   with A's own definition of the threshold, B*(A, B) = inf over paths of
-  max r along the path, written into it. Demonstrated by A's example
+  max r along the path, written into it, and narrowed at the status review of 2026-11-06 to one
+  capacity, as its defeat condition already said. Demonstrated by A's example
   r(q) = 0.7 + 2.4q(1 − q), checked: both endpoints cost 0.7, the
   threshold is 1.3, and at 1.0 the feasible set has two components.
   Mirth et al. show the threshold is the zero-dimensional merge level of
@@ -48,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-204 CASE-206 CASE-207 CASE-208 CASE-211 CLAIM-569 TERM-105 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1585 CLAIM-563 NOTE-1581 CLAIM-591 CLAIM-560 CLAIM-586 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
-# CLAIM-571: For a fixed architecture, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two
+# CLAIM-571: For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two
 
 ## The claim
 

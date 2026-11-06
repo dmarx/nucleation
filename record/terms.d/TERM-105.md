@@ -1,10 +1,19 @@
 ---
 number: 105
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp26wo4
 title: 'resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the twenty-fifth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its settle
+    condition, a claim of the record's own stated in it, is met by
+    CLAIM-563, CLAIM-569 and CLAIM-601, and each names which type it
+    means. The definition is unchanged.
 tags:
 - operations-research
 - control-theory

@@ -1,10 +1,21 @@
 ---
 number: 100
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp8spbn
 title: 'provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (what it was made from, the sense the descent term holds)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the twenty-fifth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Every use has its
+    sense fixed. CLAIM-022 and CLAIM-522 state theirs (formation and
+    maintenance). The term assigns CLAIM-329, CLAIM-404, CLAIM-532,
+    CLAIM-544 and CLAIM-545 to formation provenance by code. CLAIM-356's
+    provenance is formation provenance of an objective the system comes to
+    realize. The definition is unchanged.
 tags:
 - agency
 - free-will

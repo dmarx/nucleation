@@ -1,10 +1,22 @@
 ---
 number: 99
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp8cp5q
 title: 'self-formation, of an agent: the production, by the agent''s own activity on a discrepancy it cannot yet resolve, of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the twenty-fifth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), as the record's
+    stipulated sense. Whether it captures TERM-023's transformation
+    dimension stays with CLAIM-532. CLAIM-532, CLAIM-534, CLAIM-540 and
+    CLAIM-544 say which sense they mean. CLAIM-533, which is about Kane's
+    self-forming actions, no longer uses the term, and the sentence saying
+    it 'sets the two side by side', which its text does not do, now says
+    it is stated in Kane's sense. The definition is unchanged.
 tags:
 - agency
 - self-governance
@@ -54,7 +66,7 @@ Self-formation is the production of a capacity, with four parts:
   afterwards, so whether a capacity was self-formed is a question about
   formation provenance.
 - **Kane's self-forming action** ([LIT-1985](../literature.d/LIT-1985.md)), which is an undetermined
-  choice. [CLAIM-533](../claims.d/CLAIM-533.md) sets the two side by side.
+  choice. [CLAIM-533](../claims.d/CLAIM-533.md) is stated in Kane's sense, not this one.
 
 ## What it leaves open
 

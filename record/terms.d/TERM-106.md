@@ -125,3 +125,7 @@ its endpoints' requirements is measured. Adopting it is the owner's call.
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 [CASE-206](../cases.d/CASE-206.md) gives a geometric instance, a slack of about 0.99, and shows the slack depends on the declared resource: under crease energy instead of footprint it is 0. [TERM-105](TERM-105.md) sorts resources by type where this term's three reserves sort them by purpose, so one reserve can be of several types. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Its uses do not yet share one sense: CLAIM-577 measures slack against the current configuration alone, B*(q, q′) − r(q), not against the costlier endpoint as defined here, and CLAIM-579's summary calls reconfiguration slack a field over configurations, which is where a reconfiguration reserve can be applied, not σ. The several-resource form, "the set of budgets that suffice, less what holding requires", is not yet defined, and no claim stated in the term has been adopted, its own settle condition.

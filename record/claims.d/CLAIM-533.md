@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpex9rg
 title: 'The sensitivity that formal chaos gives a will''s dynamics is not control over them: in Kane''s self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent''s efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent''s is how its own control couples to the amplifying directions, relative to noise and to other parties'' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,16 @@ history:
     status-review README: both are Unavailable and no NOTE reads them, so
     they take no edge. The body keeps the citations, and Kane's position
     is checked from the 2009 paper (NOTE-1518). No status change.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the twenty-fifth status review, at the status review's ruling (the
+    owner delegated these rulings). TERM-099 leaves uses: the claim is
+    about Kane's self-forming actions, not the record's self-formation,
+    and its one uncoded 'self-formation', in 'the leverage that makes
+    self-formation cheap', now reads 'a self-forming action'. The note of
+    2026-11-06 no longer names TERM-099 as holding the claim back. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,8 +54,6 @@ complements:
 - CLAIM-478
 bears_on:
 - QUESTION-071
-uses:
-- TERM-099
 summary: >-
   The owner's, at U16 and U20 of the exchange "Assess SDT Coverage"
   (2026-11-02). U16: "I think there's an intuitive control theoretic
@@ -102,7 +110,7 @@ The owner's connection puts that gap in control terms:
   sensitivity supplies no control, and [CLAIM-478](CLAIM-478.md)'s constraints, though her
   constraint is a boundary, not a feedback channel.
 - **Reflexive control is the test case** (U19). The leverage that makes
-  self-formation cheap makes outside steering cheap. Comparing the agent's
+  a self-forming action cheap makes outside steering cheap. Comparing the agent's
   channel with an outsider's for the same transition, by their Gramians, is
   one measurable part of whose the outcome is (A20 §4; [QUESTION-071](../questions.d/QUESTION-071.md)'s note
   of 2026-11-02).
@@ -171,4 +179,4 @@ this claim only.
 
 ## Note of 2026-11-06: what holds it back
 
-Its premise CLAIM-354, the dimensions of freedom of will, is Proposed, and so is TERM-099, which it uses. Kane's 1996 book (LIT-1985) is still unread, but his 2009 reply, read in NOTE-1518, concedes the claim's point about control, so the book no longer holds it back.
+Its premise CLAIM-354, the dimensions of freedom of will, is Proposed, and the claim waits on its promotion; that is now the only thing holding it back. Kane's 1996 book (LIT-1985) is still unread, but his 2009 reply, read in NOTE-1518, concedes the claim's point about control, so the book no longer holds it back.
