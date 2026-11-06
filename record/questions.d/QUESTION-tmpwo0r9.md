@@ -9,9 +9,9 @@ date: '2026-11-06'
 line:
 - realizability
 summary: >-
-  The promotion condition formerly on THEORY-1428, moved here when the
+  The promotion condition formerly on [THEORY-1428](../theory.d/THEORY-1428.md), moved here when the
   thirtieth status review narrowed and promoted that reading under
-  ADR-065. Evans, Silverberg and Santangelo predict the edge modes and the
+  [ADR-065](../decisions.d/ADR-065.md). Evans, Silverberg and Santangelo predict the edge modes and the
   perimeter scaling, and check decay lengths on one 8 × 8 paper sheet;
   whether another group's experiment or calculation agrees is this
   question.
@@ -21,11 +21,11 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1428 reports what Evans, Silverberg and Santangelo's lattice theory predicts (NOTE-1587). The prediction was checked against decay lengths on a single 8 × 8 paper Miura-ori, and for a pop-through defect the decay length "can be estimated to within 100%". The record holds no other group's test.
+[THEORY-1428](../theory.d/THEORY-1428.md) reports what Evans, Silverberg and Santangelo's lattice theory predicts ([NOTE-1587](../notes.d/NOTE-1587.md)). The prediction was checked against decay lengths on a single 8 × 8 paper Miura-ori, and for a pop-through defect the decay length "can be estimated to within 100%". The record holds no other group's test.
 
 ## What would answer it
 
-The condition as it stood on THEORY-1428:
+The condition as it stood on [THEORY-1428](../theory.d/THEORY-1428.md):
 
 > An independent experiment or calculation on finite Miura-ori sheets finds soft deformations decaying from the boundaries with the predicted wavenumber-dependent decay length, and a count of degrees of freedom that scales with the perimeter rather than the area.
 

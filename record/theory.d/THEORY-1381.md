@@ -38,12 +38,12 @@ date: '2026-11-05'
 source:
 - LIT-2055
 summary: >-
-  Foschi, Hull and Ku (2022), LIT-2055, read in full in NOTE-1606 from the
+  Foschi, Hull and Ku (2022), [LIT-2055](../literature.d/LIT-2055.md), read in full in [NOTE-1606](../notes.d/NOTE-1606.md) from the
   arXiv source of v2, with the equations checked numerically against an
   independent construction. Active as a report of what the paper derives,
   with its three misprints corrected below. Degree 4 only. The wider claim,
   that the modes are disconnected whenever the sector angles do not sum to
-  2π, is held Proposed in THEORY-tmp0i15x, which extends this one.
+  2π, is held Proposed in [THEORY-tmp0i15x](THEORY-tmp0i15x.md), which extends this one.
 ---
 <!-- inactive-ok-file: THEORY-tmp0i15x — Proposed; the wider clause this narrowing set aside -->
 
@@ -51,7 +51,7 @@ summary: >-
 
 ## Source
 
-Foschi, Hull and Ku (2022), LIT-2055; read in full in NOTE-1606.
+Foschi, Hull and Ku (2022), [LIT-2055](../literature.d/LIT-2055.md); read in full in [NOTE-1606](../notes.d/NOTE-1606.md).
 
 ## What was actually shown
 
@@ -72,7 +72,7 @@ The arXiv v2 copy prints three relations wrongly. Its other results use the corr
 
 - Anything about vertices of degree other than 4.
 - Which parts of each curve avoid self-intersection; the paper draws those parts, it does not exclude them.
-- That the modes are disconnected for every non-Euclidean vertex. With passes through ±π allowed, the elliptic example is one connected loop; that wider claim is THEORY-tmp0i15x.
+- That the modes are disconnected for every non-Euclidean vertex. With passes through ±π allowed, the elliptic example is one connected loop; that wider claim is [THEORY-tmp0i15x](THEORY-tmp0i15x.md).
 
 ## Note of 2026-11-06: reader J, the misprints
 

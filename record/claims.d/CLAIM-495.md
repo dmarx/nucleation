@@ -94,6 +94,6 @@ No status changes.
 
 ## Note of 2026-11-06: Foschi, Hull and Ku, read
 
-Read in full (NOTE-1606). The note of 2026-11-05 should read "at every rigidly folded state of a developable vertex". The identity-product closure is stated for a crease pattern on a flat sheet, and a vertex whose sector angles do not sum to 2π has no flat crease directions to rotate about.
+Read in full ([NOTE-1606](../notes.d/NOTE-1606.md)). The note of 2026-11-05 should read "at every rigidly folded state of a developable vertex". The identity-product closure is stated for a crease pattern on a flat sheet, and a vertex whose sector angles do not sum to 2π has no flat crease directions to rotate about.
 
 The check was on developable states only. There the product is the identity to rounding and the rotations do not commute (scratch/formal/foschi_closure_check.py, second-checked by the coordinator on 2026-11-06). The clause the reading supports stands. No status change.

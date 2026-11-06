@@ -25,18 +25,18 @@ source:
 extends:
 - THEORY-1381
 summary: >-
-  The wide form of Foschi, Hull and Ku (2022), LIT-2055, kept here when the
-  thirtieth status review narrowed THEORY-1381 to what the paper derives
-  and promoted it (ADR-047, kind 1). The paper asserts it in §V B from one
+  The wide form of Foschi, Hull and Ku (2022), [LIT-2055](../literature.d/LIT-2055.md), kept here when the
+  thirtieth status review narrowed [THEORY-1381](THEORY-1381.md) to what the paper derives
+  and promoted it ([ADR-047](../decisions.d/ADR-047.md), kind 1). The paper asserts it in §V B from one
   worked example (Example 1), with no theorem and no stated convention for
-  folding angles at ±π. Read in full in NOTE-1606.
+  folding angles at ±π. Read in full in [NOTE-1606](../notes.d/NOTE-1606.md).
 ---
 
 # THEORY-tmp0i15x: Foschi, Hull and Ku hold that the two folding modes of a degree-4 rigid origami vertex whose sector angles do not sum to 2π are disconnected, because such a vertex has no state with every folding angle zero
 
 ## Source
 
-Foschi, Hull and Ku (2022), LIT-2055; read in full in NOTE-1606.
+Foschi, Hull and Ku (2022), [LIT-2055](../literature.d/LIT-2055.md); read in full in [NOTE-1606](../notes.d/NOTE-1606.md).
 
 ## What the paper says
 

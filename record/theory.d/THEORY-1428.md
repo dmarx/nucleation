@@ -36,22 +36,22 @@ date: '2026-11-05'
 source:
 - LIT-2070
 summary: >-
-  Evans, Silverberg & Santangelo (2015), LIT-2070, read in full in
-  NOTE-1587 from the arXiv v2 source, with the step from J0 and D(q) to
+  Evans, Silverberg & Santangelo (2015), [LIT-2070](../literature.d/LIT-2070.md), read in full in
+  [NOTE-1587](../notes.d/NOTE-1587.md) from the arXiv v2 source, with the step from J0 and D(q) to
   the dispersion relation and decay length checked. Active as a report of
   what the theory predicts. A linear theory about one ground state, with
   facet bending coarse-grained as folds, checked on one 8 × 8 paper sheet,
   with the decay length for a pop-through defect estimated only to within
   100%. Registered as a stand-in for Silverberg et al. (2014); it does not
   carry that paper's claims of bistable cells or crystal-like defects.
-  Whether another group's test agrees is QUESTION-tmpwo0r9.
+  Whether another group's test agrees is [QUESTION-tmpwo0r9](../questions.d/QUESTION-tmpwo0r9.md).
 ---
 
 # THEORY-1428: Evans, Silverberg and Santangelo show that a lattice theory of origami tessellations predicts that the inhomogeneous soft deformations of a Miura-ori sheet are edge modes decaying from its boundaries with an analytic decay length, so that its number of degrees of freedom scales with its perimeter, not its area
 
 ## Source
 
-Evans, Silverberg & Santangelo, "Lattice Mechanics of Origami Tessellations", Physical Review E (2015), LIT-2070. Read in full from the arXiv 1503.05756v2 source, in NOTE-1587.
+Evans, Silverberg & Santangelo, "Lattice Mechanics of Origami Tessellations", Physical Review E (2015), [LIT-2070](../literature.d/LIT-2070.md). Read in full from the arXiv 1503.05756v2 source, in [NOTE-1587](../notes.d/NOTE-1587.md).
 
 ## What was actually shown
 

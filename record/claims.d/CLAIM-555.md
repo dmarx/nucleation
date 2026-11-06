@@ -139,7 +139,7 @@ Mirth et al. ([NOTE-1616](../notes.d/NOTE-1616.md)), from the pasted synthesis o
 
 ## Note of 2026-11-06: what holds it back
 
-Every ground is now held: CASE-197 went Active in the thirtieth status
+Every ground is now held: [CASE-197](../cases.d/CASE-197.md) went Active in the thirtieth status
 review. That case is a construction, though, and adopting it is the
 owner's call: its promotion is listed for the owner's assent in that
 pass's pull request. This claim is interpretive and rests on it as its

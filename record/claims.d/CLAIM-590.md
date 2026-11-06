@@ -228,4 +228,4 @@ Lawvere states the Yoneda Lemma "for any closed V and any V-category A" (1973, p
 
 ## Note of 2026-11-06: its blockers spent
 
-The note of 2026-11-06 headed "what holds it back" names two things to wait for, and both are now met. CASE-206 has been Active since the twenty-seventh status review. NOTE-1606, Foschi, Hull and Ku's equations, is now Read: the reading is complete and its equations are checked. No status change.
+The note of 2026-11-06 headed "what holds it back" names two things to wait for, and both are now met. [CASE-206](../cases.d/CASE-206.md) has been Active since the twenty-seventh status review. [NOTE-1606](../notes.d/NOTE-1606.md), Foschi, Hull and Ku's equations, is now Read: the reading is complete and its equations are checked. No status change.

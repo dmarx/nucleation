@@ -36,21 +36,21 @@ date: '2026-11-05'
 source:
 - LIT-2121
 summary: >-
-  Cumberworth and Reinhardt (2025), LIT-2121, read in full in NOTE-1626
+  Cumberworth and Reinhardt (2025), [LIT-2121](../literature.d/LIT-2121.md), read in full in [NOTE-1626](../notes.d/NOTE-1626.md)
   from the submitted version. Active as a report of the review's synthesis
   of coarse-grained simulations, mostly the authors' own, of small 2D
   designs. The authors note evidence that staples do not bind fully once
   started in a larger 3D-lattice-based design, and that their lattice
   model's loop costs are fixed only up to a constant. The experimental
   evidence on origami hysteresis they report is mixed. Whether experiment
-  bears the account out is QUESTION-tmpkd7a1.
+  bears the account out is [QUESTION-tmpkd7a1](../questions.d/QUESTION-tmpkd7a1.md).
 ---
 
 # THEORY-1437: Cumberworth and Reinhardt review simulation results indicating that, in DNA origami, a staple's later domains bind without a second translational entropy penalty once its first domain is bound, while each loop closed with the scaffold adds a penalty that depends on the order of binding, and that in the small designs simulated the first effect outweighs the second, so that staples tend to bind fully once started, while assembly is mostly downhill and needs no nucleation barrier, unlike DNA bricks
 
 ## Source
 
-Cumberworth and Reinhardt (2025), LIT-2121; read in full in NOTE-1626.
+Cumberworth and Reinhardt (2025), [LIT-2121](../literature.d/LIT-2121.md); read in full in [NOTE-1626](../notes.d/NOTE-1626.md).
 
 ## What was actually shown
 

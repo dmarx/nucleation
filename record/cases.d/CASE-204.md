@@ -129,7 +129,7 @@ it is not available at all.
 
 ## Note of 2026-11-06: Foschi, Hull and Ku, read
 
-Read in full (NOTE-1606). This case cites the sentence that degree-4 modes are disconnected whenever the sector angles do not sum to 2π. That sentence is the paper's generalization from its Example 1, with no theorem behind it.
+Read in full ([NOTE-1606](../notes.d/NOTE-1606.md)). This case cites the sentence that degree-4 modes are disconnected whenever the sector angles do not sum to 2π. That sentence is the paper's generalization from its Example 1, with no theorem behind it.
 
 A numerical check of that example supports the case as it is filed, with faces forbidden to pass through each other. The check is scratch/formal/foschi_deg4_turning.py and scratch/formal/foschi_deg4_monodromy.py; neither script is yet second-checked. It finds:
 
