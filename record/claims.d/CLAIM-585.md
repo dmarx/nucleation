@@ -1,10 +1,10 @@
 ---
 number: 585
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpuk8gq
 title: 'With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,19 @@ history:
     uses: the claim is not stated in it, and the term's several-resource
     form is defined from this claim's S(A, B), as CLAIM-571 left uses at
     the twenty-fifth review.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its one premise,
+    CLAIM-571, is Active, and no objection is filed. The construction was
+    re-checked step by step: the sufficient budgets are the union of the
+    up-sets of the admissible paths' peak vectors; with finitely many peak
+    vectors the minimal elements are the minimal peak vectors; the
+    infinite example has no minimum; and in the toy (2, 2) covers neither
+    (3, 1) nor (1, 3) while being their midpoint, so the set is not convex
+    and no half-space {b : w·b ≥ θ} equals it. Nothing in the record meets
+    its defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

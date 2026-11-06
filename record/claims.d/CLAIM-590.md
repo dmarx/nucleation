@@ -1,10 +1,10 @@
 ---
 number: 590
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpxcbet
 title: 'Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex''s configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,19 @@ history:
     and for the additive case, an attribution, and the max case and its
     quantale check are the filer's and CLAIM-563's, as CLAIM-563 ruled on
     2026-11-06. No status change.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its note of
+    2026-11-06 waited on "CASE-206 held, or the two-mode structure
+    re-derived here"; CASE-206 now derives that the two folding modes are
+    the whole configuration space and is Active at the same review, so the
+    space is two arcs crossing at the flat state, contractible, as the
+    claim takes it. Its premises, CLAIM-571, CLAIM-563, CASE-206,
+    THEORY-032 and TERM-114, are Active, no objection is filed, and the
+    bound on the distance between enriched profiles was re-checked.
+    Nothing in the record meets its defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

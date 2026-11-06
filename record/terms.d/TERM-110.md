@@ -143,3 +143,7 @@ In the constructed [CASE-200](../cases.d/CASE-200.md), any cut on unspent funds 
 ## Note of 2026-11-05: a test for the pinning claim
 
 [CLAIM-577](../claims.d/CLAIM-577.md) gives a ratchet's effect on reachability in its pure form: a budget set to last period's peak spending falls to the holding cost and stays there, so every transition that needs reconfiguration slack is lost without any choice to give it up. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+No claim of the record's own is stated in it, its settle condition, and Freixas, Guesnerie and Tirole (LIT-2062) are Unfetched; CLAIM-577 left its uses at this review because its spend-matching organization does not anticipate the rule. TERM-106 ("a rule by which a principal cuts what goes unspent") and CASE-200 cite the principal's cut alone, without the agent's distortion the definition makes the effect, so its uses do not yet say which half they mean.

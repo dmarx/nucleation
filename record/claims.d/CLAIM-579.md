@@ -1,10 +1,10 @@
 ---
 number: 579
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpov8rf
 title: 'A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -15,12 +15,28 @@ history:
     field over configurations", which is what a reserve held is, not the
     slack a transition needs; it now names TERM-106's reconfiguration
     reserve, and the body ties the reserve to the term's one-sided slack.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings); an interpretive
+    thesis, listed for the owner. Its premises, THEORY-1418 and TERM-106,
+    are Active, no objection is filed, and nothing in the record meets its
+    defeated_if: no entry shows the cited cases to be nonfungibility and
+    nothing more, and no organizational case shows slack reaching the
+    bottleneck whenever its total suffices. Its defeat clause and its
+    section on nonfungibility cited TERM-105 for a vector of resource
+    types; TERM-105 sorts constraints by what function of a path they
+    bound, not resources by kind, so both now name the separately held
+    resources of CLAIM-585. The old clause read: "A showing that the cases
+    cited are all cases of nonfungible resources and nothing more, so that
+    a vector of resource types (TERM-105) already says what location adds".
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A showing that the cases cited are all cases of nonfungible resources and
-  nothing more, so that a vector of resource types (TERM-105) already
-  says what location adds; or an organizational case in which slack reaches
+  nothing more, so that a vector of separately held resources, as in
+  CLAIM-585, already says what location adds; or an organizational case in which slack reaches
   the bottleneck whenever its total suffices, across differences in where it
   sits, how it is coupled and who can direct it. Not defeated by mechanical
   cases in which location does not matter, since the claim is that it can.
@@ -92,8 +108,9 @@ varies.
 
 ## What it adds beyond nonfungibility
 
-A vector of resource types ([TERM-105](../terms.d/TERM-105.md)) says what kinds of resource there
-are. Location says where each can act. Two organizations with the same
+A vector of separately held resources, as in CLAIM-585, says what kinds of
+resource there are; TERM-105's types, which sort constraints by what
+function of a path they bound, are a different question. Location says where each can act. Two organizations with the same
 vector of reserves can differ in whether any of it reaches the bottleneck:
 trained staff on the wrong shift or in the wrong station, money that a rule
 lets be spent only on operations, authority held by someone not present. On

@@ -1,10 +1,38 @@
 ---
 number: 206
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpe48yq
 title: 'A single flat-foldable degree-4 vertex under a footprint budget: its two folding modes meet only at the flat state, so passing between folded states needs the full flat footprint of 1.866, more than twice what either folded state at 150° takes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings): a construction
+    whose facts are its definition (ADR-042). That the two folding modes
+    are the whole configuration space is now derived in the case, by
+    placing crease 3's tip on two circles of the sphere, so the case no
+    longer takes Corollary 1 from NOTE-1606, which is Skimmed; the
+    reading's unread appendices prove theorems the case does not use, and
+    the sentence "the proofs are in appendices it did not read" is
+    corrected. Its computations (closure on both modes, the footprints
+    0.75, 0.875 and 1 + √3/2, the crossings of 1.5 at 54.736°, the maximum
+    at flat, the acting and observing classes and the agreement window
+    under both cost orders, and no self-intersection) were re-run by a
+    second checker in scratch/formal/case206_check.py, with controls, and
+    re-run by the coordinator. That check found a mis-statement, corrected
+    here with a dated record only (ADR-047 kind 3): the case said "On each
+    half-branch the footprint falls steadily from flat (checked at 3,000
+    states per half-branch)", but on mode A the footprint stays at 0.75
+    from about 125° to about 164° of the largest fold, and on both modes it
+    rises again towards the flat-folded limit, to about 0.933. Its maximum
+    on each half-branch is still at flat, and between the shallow and deep
+    states it never exceeds the shallow state's, so no number the case or
+    its dependents use changes. CLAIM-572 and CLAIM-592, which use the
+    vertex as an instance, now take it under illustrates rather than
+    grounds. Standing fictional is kept.
 standing: fictional
 kind: construction
 tags:
@@ -18,6 +46,8 @@ line:
 illustrates:
 - CLAIM-571
 - CLAIM-567
+- CLAIM-572
+- CLAIM-592
 summary: >-
   Filed at the owner's request on 2026-11-05, to file "one or more CASEs
   for origami as a toy model of a resource bounded constraint
@@ -29,9 +59,10 @@ summary: >-
   flat state, which costs 1 + √3/2 ≈ 1.866, so the bottleneck budget is
   1.866 and the reconfiguration slack 0.991. At a budget of 1.5 the
   sublevel set cuts each branch near flat and both states are held but
-  neither reaches the other. It rests on Foschi, Hull and Ku's
-  equations as read in [NOTE-1606](../notes.d/NOTE-1606.md), with coefficients the filer
-  computed and checked, Abel et al. ([NOTE-1589](../notes.d/NOTE-1589.md)), Chen and Santangelo
+  neither reaches the other. Its form follows Foschi, Hull and Ku's
+  equations as read in NOTE-1606, with coefficients the filer computed
+  and checked and the two-mode structure derived in the case; it also
+  draws on Abel et al. ([NOTE-1589](../notes.d/NOTE-1589.md)), Chen and Santangelo
   ([NOTE-1614](../notes.d/NOTE-1614.md)), Stern, Pinson and Murugan ([NOTE-1571](../notes.d/NOTE-1571.md)) and Mirth et
   al. ([NOTE-1616](../notes.d/NOTE-1616.md)). A mechanical toy; its organizational reading is an
   analogy. The construction is the filer's. Adopting it is the owner's
@@ -58,8 +89,10 @@ in Abel et al.'s definition of rigid origami ([NOTE-1589](../notes.d/NOTE-1589.m
 rigid-foldable degree-4 vertex has exactly two folding modes, two curves
 of fold-angle vectors (Corollary 1). For a flat-foldable one, opposite
 fold angles are equal up to sign and adjacent ones are linear in
-tan(ρ/2) (Theorem 1). The reading does not give the coefficients, and the
-proofs are in appendices it did not read. The filer's coefficients, for
+tan(ρ/2) (Theorem 1). The reading does not give the coefficients. It cites
+Theorem 1's proof to Hull's Origametry and to Tachi and Hull; its unread
+appendices prove its Theorems 2 and 3, which this case does not use, and
+Corollary 1 is derived below for this vertex. The filer's coefficients, for
 sector angles α, β, π − α, π − β in order:
 
 - **Mode A**: ρ3 = −ρ1, ρ4 = ρ2, and
@@ -77,6 +110,20 @@ flat-foldable vertices and fold angles, both modes: the largest entry of
 the product minus the identity was 2 × 10⁻¹⁵. For this vertex the
 coefficients are sin 75°/sin(−15°) = −(2 + √3) for mode A and
 −cos 75°/cos 15° = −(2 − √3) for mode B.
+
+**Only these two modes.** Derived here for this vertex, so that the case
+does not rest on the reading's Corollary 1. Fix ρ1. The base face fixes
+c_4 and c_1, and ρ1 fixes c_2, which stays 60° from c_1. The tip c_3 must
+lie 90° from c_2 (sector β) and 120° from c_4 (sector π − α), so it lies
+on two circles of the unit sphere. Their centres are between 30° and 150°
+apart, never equal or antipodal, so the circles meet in at most two
+points. With c_3 placed, every face is placed, and so are ρ2, ρ3 and ρ4.
+Each ρ1 therefore admits at most two configurations. For ρ1 ≠ 0, modes A
+and B give two, distinct because ρ3 = −ρ1 on one and ρ3 = ρ1 on the
+other. At ρ1 = 0 the centres are 150° apart and 90° + 120° = 360° − 150°,
+so the circles touch only at c_3's flat position. The configuration space
+is exactly the two modes. Solving the closure condition from 125 starts at
+each of 35 values of ρ1 found no other root (scratch/formal/case206_check.py).
 
 **The modes meet only at flat.** A state on both has ρ3 = −ρ1 and
 ρ3 = ρ1, so ρ1 = 0, and either relation then gives ρ2 = 0. Each relation
@@ -155,8 +202,13 @@ ones are (−30°, 90°, 30°, 90°) on mode A and (90°, −30°, 90°, 30°) o
 B, with their mirror images; each closes to 10⁻¹⁵.
 
 **Acting.** Peak footprint, identities free. On each half-branch the
-footprint falls steadily from flat (checked at 3,000 states per
-half-branch), so the shallow-to-deep threshold on a branch is the shallow
+footprint does not rise from flat to the deep state, and between the
+shallow and the deep state it never exceeds the shallow state's (checked
+at 3,000 states per half-branch, and again at 4,000 on 2026-11-06).
+Beyond the deep state it does not keep falling: on mode A it stays at 0.75
+to about 164° of the largest fold, on mode B it is least at 150°, and on
+both it rises again towards the flat-folded limit, to about 0.933. So the
+shallow-to-deep threshold on a branch is the shallow
 state's footprint: 1.000 on mode A, 1.125 on mode B (deep: 0.750 and
 0.875). Every path between half-branches, and every path to F, passes flat,
 at 1.866. So mutual reachability has 9 classes below a = 1, 7 from 1 (each
@@ -237,7 +289,9 @@ and an exhaustive comparison of the two partitions over all budget pairs.
   flat state, so a second resource would give one peak vector and a
   frontier of one point; [CLAIM-585](../claims.d/CLAIM-585.md)'s non-convexity needs at least two
   routes, which this vertex does not have.
-- **More than one vertex, or a proof.** The coefficients are the filer's,
-  checked numerically, not derived in closed form here, and the reading
-  they extend is Skimmed. For a vertex whose modes do not meet at all, see
+- **More than one vertex, or the coefficients in closed form.** The
+  coefficients are the filer's, checked numerically against the closure
+  condition, not derived in closed form here. That the two modes are the
+  whole configuration space is derived above, and nothing here rests on
+  the part of the reading left unread. For a vertex whose modes do not meet at all, see
   [CASE-204](CASE-204.md).

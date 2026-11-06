@@ -1,10 +1,10 @@
 ---
 number: 577
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmplo4ca
 title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,19 @@ history:
     B*(q, q') − r(q), not the term's threshold less the costlier endpoint;
     they now name the one-sided form, the slack from q, which TERM-106
     defines in the same change. The construction is unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). TERM-110 leaves
+    uses: the claim is not stated in it. TERM-110's ratchet effect is an
+    agent's distortion of its performance under a principal that cannot
+    commit, while the organization here does not respond to the rule, and
+    the term itself sets aside "one-way mechanisms with no strategic
+    party"; a sentence under "What it does not say" now says so. Its
+    premises, CLAIM-571 and TERM-106, are Active, no objection is filed,
+    and the construction was re-checked step by step. Nothing in the
+    record meets its defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -41,7 +54,6 @@ complements:
 - CLAIM-079
 uses:
 - TERM-106
-- TERM-110
 summary: >-
   The assistant's own proposition, offered at the owner's invitation on
   2026-11-05 after the constraint-architecture and emergency-readiness
@@ -125,6 +137,12 @@ carry-over rule, under which the transition survives.
   ([TERM-105](../terms.d/TERM-105.md)) need their own treatment, and several resources at once
   bring in [CLAIM-585](CLAIM-585.md).
 - It says nothing about whether the lost transitions were worth keeping.
+- It is not a ratchet effect in TERM-110's incentive sense. The rule is a
+  principal's revision of the budget on what spending reveals, but the
+  organization here does not anticipate it. One that did, and could reach
+  a configuration costing its whole budget, would occupy it each period
+  and so keep the budget from falling, which is the over-spending TERM-110
+  describes.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
