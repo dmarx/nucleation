@@ -68,3 +68,7 @@ Gopalan et al. (2009), [LIT-2114](../literature.d/LIT-2114.md), skimmed in [NOTE
   existence of a path and its length.
 - That navigation is always harder than finding: for positive 1-in-3 SAT
   it is easier.
+
+## Note of 2026-11-06: what holds it back
+
+Both sources are Skimmed (NOTE-1584, NOTE-1613). The hard side of the dichotomy, the faithful-expressibility proof and the PSPACE-hardness and exponential-diameter constructions of Gopalan et al. §§3.2–3.3, was read only in outline, and the corrected boundary rests on Schwerdtfeger's §3 with the rest of his §3.2 and his §4 unread. The missing result is a full reading of those sections; the SIAM comparison is owed only if that version differs in a statement, and NOTE-1584 names only a change of term.

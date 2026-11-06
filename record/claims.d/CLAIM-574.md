@@ -1,10 +1,24 @@
 ---
 number: 574
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpg7w69
 title: 'Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review of 2026-11-06, at the status review's
+    ruling (the owner delegated these rulings), under ADR-057's four
+    criteria. Its premises CLAIM-264, THEORY-032, TERM-069 and TERM-065 are
+    Active, no objection is filed, and nothing in the record meets its
+    defeater: the DNA origami readings of 2026-11-05 bear on whether
+    physical probe families are nested, which the claim takes as its
+    hypothesis. The reviewer rechecked the one-line proof and the
+    averaged-distortion counterexample step by step. THEORY-354 moved from
+    grounds to corroborated_by (ADR-058): the body cites its access result
+    as one of the record's instances, and the proof does not use it.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -29,6 +43,7 @@ rests_on:
 - CLAIM-264
 grounds:
 - THEORY-032
+corroborated_by:
 - THEORY-354
 complements:
 - CLAIM-302

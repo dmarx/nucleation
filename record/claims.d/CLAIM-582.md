@@ -1,10 +1,24 @@
 ---
 number: 582
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpr4sof
 title: 'Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    The robustness witness repaired and the claim promoted at the status
+    review of 2026-11-06, at the status review's ruling (the owner
+    delegated these rulings), under ADR-057. Against w ≡ 1 the feedback
+    "u = −sign(y), with u = 0 at y = 0" has no Carathéodory solution from
+    y = 0, so the witness held only for Filippov solutions, which the claim
+    does not state. The Lipschitz feedback u = −sat(10y) keeps |y| ≤ 0.1
+    under every |w| ≤ 1; the conclusion is unchanged. The new witness is
+    checked in scratch/formal/claim582_witness.py, with the control w ≡ 2,
+    re-run by the coordinator before the ruling. The claim has no premise,
+    no objection is filed, and nothing in the record meets its defeater.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -84,10 +98,14 @@ party's options weakens the requirement.
 - **Robustness.** Take ẏ = u + w with |u| ≤ 1 and a disturbance |w| ≤ 2,
   starting at y = 0. The task: keep |y| ≤ 0.1 on [0, 1] whatever w does.
   No policy achieves it: against w ≡ 2, ẏ ≥ 1 and y(1) ≥ 1. Add the hard
-  constraint |w| ≤ 1, a barrier that caps the disturbance. Then u =
-  −sign(y), with u = 0 at y = 0, keeps ẏ ≤ 0 where y > 0 and ẏ ≥ 0 where
-  y < 0, so |y| never grows from 0. The robust property, ∃π ∀w, is gained,
-  while what the controller alone can reach is unchanged.
+  constraint |w| ≤ 1, a barrier that caps the disturbance. Then the
+  feedback u = −sat(10y), with sat clipping to [−1, 1], is Lipschitz, so
+  every disturbance gives a solution; it sets u = −1 where y ≥ 0.1 and
+  u = 1 where y ≤ −0.1, so ẏ ≤ 0 above 0.1 and ẏ ≥ 0 below −0.1, and from
+  y = 0, |y| never exceeds 0.1. The robust property, ∃π ∀w, is gained,
+  while what the controller alone can reach is unchanged. Checked in
+  scratch/formal/claim582_witness.py, which asserts the bound against
+  eight disturbance laws and asserts that w ≡ 2 exceeds it.
 - **Reliability.** [CLAIM-567](CLAIM-567.md)'s fork: a flat state branches into a path
   to the target and a path to a distractor, and unbiased actuation ends at
   the target with probability 1/2. A constraint that blocks the

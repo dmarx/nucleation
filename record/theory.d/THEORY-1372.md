@@ -1,14 +1,27 @@
 ---
 number: 1372
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp34oop
-promote_when: >-
-  A second reading, of the journal version or of arXiv 2410.07666,
-  confirms the statements of Theorems 1, 2, 4, 5 and 7 as given here, and
-  no later erratum withdraws one of them.
 title: 'Eppstein shows that folding problems split by question: deciding whether a finite crease pattern folds flat is fixed-parameter tractable in ply and treewidth with an ETH-optimal dependence on treewidth, reaching one flat state from another in a hinged-square toy model is PSPACE-complete and counting its states #P-complete, and flat-foldability of self-similar crease patterns with infinitely many creases on a finite square is undecidable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review of 2026-11-06, at the status review's
+    ruling (the owner delegated these rulings), under ADR-065 §§2 and 4.
+    The title reports what the source shows: the theorems Eppstein's paper
+    states, which NOTE-1611 read in the journal version in full, every
+    theorem statement included, with quotes checked by string match.
+    Nothing in the record contradicts it. The gadget constructions behind
+    Theorems 6 and 7, and the proofs of Lemmas 7–10, were skimmed; the
+    title reports those theorems as the paper states them. The old
+    promote_when: "A second reading, of the journal version or of arXiv
+    2410.07666, confirms the statements of Theorems 1, 2, 4, 5 and 7 as
+    given here, and no later erratum withdraws one of them." The journal
+    version is the copy read and no discrepancy between versions is named,
+    so the demand is dropped (ADR-065 §4).
 tags:
 - mathematics
 - operations-research
@@ -18,7 +31,7 @@ source:
 summary: >-
   Eppstein (2025), [LIT-2063](../literature.d/LIT-2063.md), read in [NOTE-1611](../notes.d/NOTE-1611.md) (main text and all
   theorem statements in full; the §6 gadgets and the proofs of Lemmas 7–10
-  skimmed). Proposed: the gadget constructions behind Theorems 6 and 7
+  skimmed). Not checked: the gadget constructions behind Theorems 6 and 7
   were not checked. It does not say that flat folding is NP-complete
   because of this paper (that is earlier work), nor anything about
   continuous rigid folding of one sheet, since the PSPACE result is for a
