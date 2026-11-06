@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**823 documents cited without acknowledgement.** Not listed: 18707 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**823 documents cited without acknowledgement.** Not listed: 18786 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -8650,7 +8650,7 @@ The sensitivity that formal chaos gives a will's dynamics is not control over th
 
 1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1984.md:84`](../../record/literature.d/LIT-1984.md)
+- [`record/literature.d/LIT-1984.md:85`](../../record/literature.d/LIT-1984.md)
 
 ### [CLAIM-557](../../record/claims.d/CLAIM-557.md) — Proposed
 
@@ -8834,7 +8834,7 @@ Origins and functions of positive and negative affect: A control-process view
 
 1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1445.md:79`](../../record/literature.d/LIT-1445.md)
+- [`record/literature.d/LIT-1445.md:80`](../../record/literature.d/LIT-1445.md)
 
 ### [LIT-1557](../../record/literature.d/LIT-1557.md) — Unfetched
 
@@ -10263,4 +10263,5 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
+- record/decisions.d/ADR-064.md:24: annotation no longer applies — nothing in scope cites ADR-064
 - record/questions.d/QUESTION-374.md:31: annotation no longer applies — nothing in scope cites CLAIM-572

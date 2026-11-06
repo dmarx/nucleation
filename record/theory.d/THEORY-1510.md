@@ -1,5 +1,8 @@
 ---
+number: 1510
 status: Proposed
+formerly:
+- THEORY-tmph89ue
 promote_when: >-
   A second reader of pp. 47–50 of the paper confirms that it presents at
   least one case in which restoring the historical conditions or reducing
@@ -19,7 +22,7 @@ date: '2026-11-06'
 source:
 - LIT-2169
 summary: >-
-  Suding, Gross & Houseman (2004), [LIT-2169](../literature.d/LIT-2169.md), read in [NOTE-tmpyzbse](../notes.d/NOTE-tmpyzbse.md). The
+  Suding, Gross & Houseman (2004), [LIT-2169](../literature.d/LIT-2169.md), read in [NOTE-1700](../notes.d/NOTE-1700.md). The
   account is the authors' review, illustrated by cases and effect sizes
   from cited studies, with no data of its own. The sharp edge: the authors
   concede that rigorous tests of whether a degraded system is an
@@ -33,11 +36,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1468 THEORY-1485 CLAIM-604 CLAIM-600 — Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
 
-# THEORY-tmph89ue: On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice
+# THEORY-1510: On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice
 
 ## Source
 
-Suding, Gross & Houseman (2004), [LIT-2169](../literature.d/LIT-2169.md); read in full in [NOTE-tmpyzbse](../notes.d/NOTE-tmpyzbse.md),
+Suding, Gross & Houseman (2004), [LIT-2169](../literature.d/LIT-2169.md); read in full in [NOTE-1700](../notes.d/NOTE-1700.md),
 from the typeset.io (SciSpace) copy of the published version. Page numbers
 are the journal's.
 

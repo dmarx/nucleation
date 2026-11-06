@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [6 Nov 00:33 — Works filed Unavailable that ADR-053 files as Unfetched, swept; Suding et al. 2004 read from a copy ADR-064 admits](2026-11.md#works-filed-unavailable-that-adr-053-files-as-unfetched-swept-suding-et-al-2004-read-from-a-copy-adr-064-admits)
 - [6 Nov 00:25 — Solitons, for the record's questions on individuation and persistence: three routes to persistence and a correction to the signatures of self-maintenance](2026-11.md#solitons-for-the-records-questions-on-individuation-and-persistence-three-routes-to-persistence-and-a-correction-to-the-signatures-of-self-maintenance)
 - [5 Nov 23:51 — Gap-filling, persistence and place: reversion after bombing, lock-in at portage sites, and gains carried by people](2026-11.md#gap-filling-persistence-and-place-reversion-after-bombing-lock-in-at-portage-sites-and-gains-carried-by-people)
 - [5 Nov 23:38 — Gap-filling, the models: the capability trap and tapering, after the supplied-maintenance filing](2026-11.md#gap-filling-the-models-the-capability-trap-and-tapering-after-the-supplied-maintenance-filing)
@@ -30,10 +31,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-218 entries across 3 books, newest first.
+219 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 21 | 2026-11-01 | 2026-11-06 |
+| [2026-11](2026-11.md) | 22 | 2026-11-01 | 2026-11-06 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

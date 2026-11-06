@@ -6,7 +6,7 @@
 
 **process**.
 
-1 of 73 decisions. Back to the [full index](../README.md).
+1 of 74 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
