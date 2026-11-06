@@ -31,8 +31,8 @@ history:
   note: >-
     CLAIM-518's version 3 of this date concedes this objection's broad
     horn and drops its clause that the diachronic relations add to
-    CLAIM-363's relata. That clause is filed as CLAIM-tmpp3odb, which takes
-    the broad horn as its condition, and objects_to gains CLAIM-tmpp3odb
+    CLAIM-363's relata. That clause is filed as CLAIM-608, which takes
+    the broad horn as its condition, and objects_to gains CLAIM-608
     (ADR-059, ADR-047 kind 2), at the status review's ruling (the owner
     delegated these rulings). Version 3's "Its broad horn stands against
     the narrowed thesis and is what holds CLAIM-518 back." no longer
@@ -46,7 +46,7 @@ line:
 - will-organization
 objects_to:
 - 'CLAIM-518'
-- 'CLAIM-tmpp3odb'
+- 'CLAIM-608'
 summary: >-
   The objection to [CLAIM-518](CLAIM-518.md), put by the assistant itself in A26 §6 and A27
   §10 of the exchange "Analyze nucleation concepts" (2026-10-31): "If we
@@ -55,7 +55,7 @@ summary: >-
   terms without learning much", and "A judgment that suffering is bad, for
   instance, is not obviously about organizational persistence". Conceded
   by CLAIM-518 at its versions 2 and 3. Its broad horn is the condition
-  CLAIM-tmpp3odb must meet. A27's three tests are the form an answer would take.
+  CLAIM-608 must meet. A27's three tests are the form an answer would take.
 ---
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, cited for the standard it needs and disclaims -->
 
@@ -96,7 +96,7 @@ earn its place:
 - **counterfactual discrimination:** it separates cases the standard alone
   does not, as [CASE-110](../cases.d/CASE-110.md) does for coarse-grainings.
 
-None was carried out. The broad horn is the condition [CLAIM-tmpp3odb](CLAIM-tmpp3odb.md) must meet,
+None was carried out. The broad horn is the condition [CLAIM-608](CLAIM-608.md) must meet,
 and it stands until one of the three tests is carried out.
 
 ## Note of 2026-10-31: the parent paper's ethics on both horns, and a pair of cases that does not answer

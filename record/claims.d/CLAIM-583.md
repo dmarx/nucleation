@@ -15,7 +15,7 @@ history:
     The clause on constraint languages stands on THEORY-1407 and
     THEORY-1413, whose sources are Skimmed in NOTE-1584 and NOTE-1613,
     and the construction does not use it; it moves, with the paragraph
-    that argued it and its defeat clause, to CLAIM-tmpp0p4d, Proposed and
+    that argued it and its defeat clause, to CLAIM-607, Proposed and
     grounded in both readings, the record's own conditional demonstration
     (ADR-047's routing; README §2). The old defeat clause: "or an error in the cited classifications, so that deciding whether two solutions of a positive 1-in-3 SAT formula are joined by single flips is not polynomial, or that of a positive NAE-3SAT formula not PSPACE-complete".
     The grounds THEORY-1407 and THEORY-1413 are removed. Its premise
@@ -44,7 +44,7 @@ rests_on:
 complements:
 - CLAIM-567
 - CLAIM-560
-- CLAIM-tmpp0p4d
+- CLAIM-607
 uses:
 - TERM-114
 summary: >-
@@ -56,7 +56,7 @@ summary: >-
   between two demands, moves by single flips within the set; the complexes
   agree and only the second is connected. The version across languages,
   from Gopalan et al., was split off at the status review of 2026-11-06
-  into [CLAIM-tmpp0p4d](CLAIM-tmpp0p4d.md). The construction is the filer's, from A's
+  into [CLAIM-607](CLAIM-607.md). The construction is the filer's, from A's
   separation of the configuration layer from the process layer; adopting
   it is the owner's call.
 ---
@@ -96,7 +96,7 @@ reachability: A's "sharper possibility".
 **Across languages.** A version at the level of constraint languages,
 from Gopalan, Kolaitis, Maneva and Papadimitriou ([THEORY-1407](../theory.d/THEORY-1407.md)) with
 Schwerdtfeger's correction ([THEORY-1413](../theory.d/THEORY-1413.md)), was split off at the status
-review of 2026-11-06 into [CLAIM-tmpp0p4d](CLAIM-tmpp0p4d.md): positive 1-in-3 SAT and positive
+review of 2026-11-06 into [CLAIM-607](CLAIM-607.md): positive 1-in-3 SAT and positive
 NAE-3SAT are both NP-complete to satisfy, and navigation between
 solutions is polynomial for the first and PSPACE-complete for the second.
 It stands on readings that are Proposed; the instance above does not.

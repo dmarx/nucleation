@@ -1,5 +1,8 @@
 ---
+number: 404
 status: Open
+formerly:
+- QUESTION-tmphs5v5
 title: 'Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside the four obstructions the record''s account of failed transitions names, or a kind of control limitation, and what repairs it?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   a policy needs where acceptable actions differ.
 ---
 
-# QUESTION-tmphs5v5: Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside the four obstructions the record's account of failed transitions names, or a kind of control limitation, and what repairs it?
+# QUESTION-404: Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside the four obstructions the record's account of failed transitions names, or a kind of control limitation, and what repairs it?
 
 ## Why it is a question
 

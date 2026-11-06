@@ -1,5 +1,8 @@
 ---
+number: 608
 status: Proposed
+formerly:
+- CLAIM-tmpp3odb
 title: 'The histories that judgments about an organization''s continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description''s contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown'
 version: 1
 role: thesis
@@ -31,7 +34,7 @@ summary: >-
   its condition.
 ---
 
-# CLAIM-tmpp3odb: The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown
+# CLAIM-608: The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown
 
 ## The claim
 

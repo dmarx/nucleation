@@ -41,7 +41,7 @@ history:
     recoverable from the standard alone, adding nothing to CLAIM-363's
     relata". The body's sentence "That is the owner's insight, beside
     CLAIM-363's standpoint, standard, scale and context." is replaced, and
-    the dropped clause is filed as CLAIM-tmpp3odb, a Proposed interpretive
+    the dropped clause is filed as CLAIM-608, a Proposed interpretive
     claim resting on this one (ADR-047, kind 2). Both premises, CLAIM-363
     and CLAIM-350, are Active, and nothing in the record meets the
     remaining defeat condition: present attribution, ARG-043's rival,
@@ -83,7 +83,7 @@ summary: >-
   CLAIM-512, is conceded whole: the narrow horn and the distinction at
   version 2, the broad horn at version 3. The clause the broad horn
   removed, that the diachronic relations add to CLAIM-363's relata, is
-  CLAIM-tmpp3odb.
+  CLAIM-608.
 ---
 
 # CLAIM-518: Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment
@@ -143,7 +143,7 @@ does not need one.
   description of a history earns a place beside the standard only by
   causal specificity, transfer or counterfactual discrimination (A27
   §10), and none of these has been shown. This is [CLAIM-512](CLAIM-512.md)'s broad horn,
-  which the claim concedes. The dropped clause is [CLAIM-tmpp3odb](CLAIM-tmpp3odb.md).
+  which the claim concedes. The dropped clause is [CLAIM-608](CLAIM-608.md).
 - **That persistence is privileged.** Which continuation is warranted is
   the standard's question. The whole's persistence cannot outweigh its
   constituents' claims by being the whole's ([CLAIM-348](CLAIM-348.md)).

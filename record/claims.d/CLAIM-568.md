@@ -20,7 +20,7 @@ history:
     under none of the four", made the four exhaustive, which the body
     disclaims; it is removed as a mis-statement (ADR-047 kind 3), and
     whether a failure of information is a fifth obstruction, as CASE-194's
-    observational arm and CLAIM-556 suggest, goes to QUESTION-tmphs5v5
+    observational arm and CLAIM-556 suggest, goes to QUESTION-404
     (ADR-047 kind 4). The body now says that paths are directed where moves
     are one-way, so a deadlock (CLAIM-591) is a disconnection. No objection
     is on file.
@@ -56,7 +56,7 @@ complements:
 - CLAIM-586
 bears_on:
 - QUESTION-392
-- QUESTION-tmphs5v5
+- QUESTION-404
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

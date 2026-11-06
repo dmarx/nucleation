@@ -1,5 +1,8 @@
 ---
+number: 607
 status: Proposed
+formerly:
+- CLAIM-tmpp0p4d
 title: 'Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT'
 version: 1
 role: thesis
@@ -35,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1407 THEORY-1413 NOTE-1584 NOTE-1613 — Proposed or Skimmed; the readings this claim is grounded in, cited as its grounds -->
 
-# CLAIM-tmpp0p4d: Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT
+# CLAIM-607: Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT
 
 ## The claim
 
