@@ -9,8 +9,8 @@ date: '2026-11-06'
 line:
 - readiness
 summary: >-
-  Moved from THEORY-1412's promotion condition at the thirtieth status
-  review (ADR-065). Guigues, Kleywegt and Nascimento (LIT-2066) report
+  Moved from [THEORY-1412](../theory.d/THEORY-1412.md)'s promotion condition at the thirtieth status
+  review ([ADR-065](../decisions.d/ADR-065.md)). Guigues, Kleywegt and Nascimento ([LIT-2066](../literature.d/LIT-2066.md)) report
   that their policy had the lowest mean allocation cost in most of their
   simulated configurations; read from their figures, at 38 of 46 fleet
   sizes. They report no dispersion, assume the costs, and implement the
@@ -25,8 +25,8 @@ summary: >-
 
 One study, an unrefereed preprint, scored every policy on the allocation
 cost that the proposed policy optimizes, with costs the authors call
-examples, and reported no replication counts or intervals (THEORY-1412,
-NOTE-1567). The promotion condition THEORY-1412 carried until the
+examples, and reported no replication counts or intervals ([THEORY-1412](../theory.d/THEORY-1412.md),
+[NOTE-1567](../notes.d/NOTE-1567.md)). The promotion condition [THEORY-1412](../theory.d/THEORY-1412.md) carried until the
 thirtieth status review read: "An independent simulation, or the
 authors' released code rerun on their data, reproduces lower mean
 allocation cost for the Markov preparedness policy than for the nine

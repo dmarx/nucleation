@@ -158,9 +158,9 @@ A's [CLAIM-587](CLAIM-587.md) and [TERM-115](../terms.d/TERM-115.md) (both Propo
 ## Note of 2026-11-06: the hypercube reading, now from the full text
 
 The note of 2026-11-04 cites the hypercube model from Larson and Odoni
-"prose only". NOTE-1620 is now Read: §5.4 with its equations, tables and
+"prose only". [NOTE-1620](../notes.d/NOTE-1620.md) is now Read: §5.4 with its equations, tables and
 figures, the three-server example re-derived from the book's inputs
 (scratch/formal/larson_odoni_hypercube_check.py). De Oliveira, de Sá and
-Martins (NOTE-1621) are also read in full. In both, a busy unit is
+Martins ([NOTE-1621](../notes.d/NOTE-1621.md)) are also read in full. In both, a busy unit is
 present but not deployable, as that note says; nothing read since changes
 it. No status changes.

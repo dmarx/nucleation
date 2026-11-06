@@ -91,7 +91,7 @@ paper confirming the construction there. Adopting it is the owner's call.
 
 ## Note of 2026-11-06: Larson and Odoni, read
 
-NOTE-1620 now reads §5.4 with its equations, and the quotations above
+[NOTE-1620](../notes.d/NOTE-1620.md) now reads §5.4 with its equations, and the quotations above
 check. The model handles a unit of last resort only through its place in
 the preference lists: its workload and response frequencies come out of
 the same steady state as every other unit's, and nothing in §5.4 assigns

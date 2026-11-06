@@ -35,9 +35,9 @@ date: '2026-11-04'
 source:
 - LIT-2053
 summary: >-
-  Larson and Odoni (1981), LIT-2053, chapter 5, §5.4, read with its
-  equations in NOTE-1620; the textbook restatement of the model introduced
-  in Larson (1974), LIT-2105, which could not be read. Active: the book
+  Larson and Odoni (1981), [LIT-2053](../literature.d/LIT-2053.md), chapter 5, §5.4, read with its
+  equations in [NOTE-1620](../notes.d/NOTE-1620.md); the textbook restatement of the model introduced
+  in Larson (1974), [LIT-2105](../literature.d/LIT-2105.md), which could not be read. Active: the book
   states the model in general-N notation and works N = 3 in full, and a
   re-derivation reproduces its numbers. A unit's own mean travel time is
   an approximation, the others exact. It says nothing about valuing a
