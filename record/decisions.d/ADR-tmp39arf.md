@@ -1,0 +1,74 @@
+---
+status: Proposed
+title: 'The Pages site deploys at most once every two hours: a merge still triggers it, a gate skips the build when the last deploy is under two hours old or already published the commit, and a scheduled run every two hours publishes what the gate skipped'
+version: 1
+tags:
+- record
+date: '2026-11-07'
+summary: >-
+  Every Docs run on main triggered a full Pages build, and the build takes
+  a long time. Merges come in runs, so most builds were superseded before
+  they finished. A gate job now reads the last deploy to the
+  `github-pages` environment. It skips the build when that deploy is under
+  two hours old, or when it already published the commit; a manual run
+  always builds. A scheduled run every two hours applies the same gate,
+  so a skipped merge is published by the next one, at most about two
+  hours late. Rejected: a schedule alone, which drops publish-on-merge; a
+  concurrency group alone, which still builds after every merge; and
+  counting the workflow's own runs, which would count the runs the gate
+  skipped.
+---
+
+# ADR-tmp39arf: The Pages site deploys at most once every two hours: a merge still triggers it, a gate skips the build when the last deploy is under two hours old or already published the commit, and a scheduled run every two hours publishes what the gate skipped
+
+## Context
+
+`.github/workflows/pages.yml` builds the site with `luria site` and Quartz,
+then deploys it. It ran on every completed Docs run on `main`, so every
+merge started a build. The build is slow. Merges often come several in an
+hour, and each build was queued behind the last and then superseded. The
+owner asked, on 2026-11-07, for publishing to stay triggered by merges but
+to run at most once every two hours.
+
+## Decision
+
+- **A `gate` job decides whether to build.**
+  - A manual run (`workflow_dispatch`) always builds.
+  - Otherwise the gate reads the latest deployment to the `github-pages`
+    environment, which `deploy-pages` writes.
+  - It skips if that deployment already published this commit, or if it is
+    less than two hours old (`MIN_INTERVAL`, 7,200 seconds). Otherwise it
+    builds.
+  - If no deployment is found, or the API call fails, it builds. Failing
+    open publishes too often, never too rarely.
+- **Merges still trigger the workflow.** The `workflow_run` trigger is
+  unchanged, and a failed Docs run still builds nothing.
+- **A scheduled run every two hours** (`23 */2 * * *`, off the hour)
+  applies the same gate. A merge the gate skipped is published by the next
+  scheduled run, at most about two hours late, or sooner by a later merge.
+- **Deploys, not runs, are counted.** A run the gate skipped writes no
+  deployment, so it cannot hold off the next build.
+
+## Alternatives considered
+
+- **A schedule alone.** Simpler, but a merge would never publish at once,
+  even after hours of quiet, and the owner wanted merges to trigger it.
+- **A concurrency group alone.** The existing `pages` group already keeps
+  one build at a time, but it still builds after every merge, one after
+  another.
+- **Counting the workflow's own successful runs.** A run whose build the
+  gate skipped also concludes successfully, so it would reset the clock and
+  could defer publishing indefinitely.
+
+## Consequences
+
+- The site can lag `main` by up to about two hours, plus GitHub's delay on
+  scheduled runs.
+- The gate has not run against the live API. Its branches were checked
+  locally against a stand-in for `gh`: a manual run, a recent deploy, an
+  old deploy, a commit already published, and no deployment found. The
+  first runs on `main` will show whether the deployments API returns what
+  the gate expects; if not, the gate fails open and the site builds as
+  before.
+- Changing the interval is one value, `MIN_INTERVAL`, with the cron beside
+  it.
