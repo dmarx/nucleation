@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpyk3it
 title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-18'
@@ -37,6 +37,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 6
+  date: '2026-11-07'
+  note: >-
+    At the third synthesis review of 2026-11-07: the summary called the organizational-affect
+    line Deferred. The owner reopened it on 2026-10-23, and CLAIM-039 is
+    Proposed. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,9 +83,8 @@ summary: >-
   supersedes in substance the distress-first formulations of A28–A32,
   which were never filed. The sharp edge: it says what to start from, not
   that a frustrated organization is distressed or feels anything. The
-  claim bears on the organizational-affect line, which is Deferred
-  ([CLAIM-039](CLAIM-039.md)); whether that line reopens is the owner's decision, not
-  made here.
+  claim bears on the organizational-affect line, which the owner reopened on 2026-10-23
+  ([CLAIM-039](CLAIM-039.md), Proposed).
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->

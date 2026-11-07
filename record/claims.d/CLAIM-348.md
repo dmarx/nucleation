@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp679hm
 title: 'No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution''s performance can merge states its members'' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified solely by the description that preserves it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -32,15 +32,24 @@ history:
     preserves it" and than the circularity argument, which shows only
     that much. Its premises and ground are Active and nothing objects
     to it.
+- version: 5
+  date: '2026-11-07'
+  note: >-
+    At the third synthesis review of 2026-11-07: the defeater asked for a target-free
+    criterion that preserves every judgment in a declared class, which the
+    identity description meets as worded. It now asks for a criterion
+    choosing a coarse-graining that merges some states, and names the
+    identity as not defeating. Title unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A criterion for choosing a coarse-graining, stated without reference to
+  A criterion for choosing a coarse-graining that merges some states,
+  stated without reference to
   any evaluative target (by stability, predictive sufficiency, effective
   information, aggregate performance or another target-free property),
   shown to preserve every judgment in a declared class that includes
-  judgments about members, not only judgments about the whole. Not
-  defeated by a coarse-graining fitted to one named judgment, which is
+  judgments about members, not only judgments about the whole. Not defeated by the identity description, which merges nothing, nor by a
+  coarse-graining fitted to one named judgment, which is
   what the claim says adequacy requires, nor by a richer institution in
   which the member's claim bears on the whole's persistence.
 tags:

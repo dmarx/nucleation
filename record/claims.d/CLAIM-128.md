@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0d575
 title: 'No single ranking of translations holds across tasks: where distortion profiles trade off, only a task''s priorities rank them, and the theory of fidelity fixes no weighting'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -21,6 +21,14 @@ history:
     interpretive. The title is restated to lead with the thesis; the
     defeat condition, which was already about the thesis, is unchanged.
     The status stays Proposed.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At the third synthesis review of 2026-11-07: the body cited CLAIM-033 for the
+    possibility that a translation broadens readings along one dimension
+    while narrowing them along another. Since CLAIM-033's version 3 that is
+    its prior statement, THEORY-170's; CLAIM-033 itself claims prevalence.
+    The citation now says so.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,6 +59,7 @@ summary: >-
   matters. It does not say how the components are measured, nor that
   they are independent.
 ---
+<!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's point, CLAIM-033's prior statement -->
 <!-- inactive-ok-file: CLAIM-033 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CLAIM-128: No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting
@@ -79,9 +88,11 @@ trade-offs possible.
 The claim recurs. A151 §5: "two translations can preserve different
 structures without being forced into a universal ranking." A178 Ch9.7:
 "Partial orders on fidelity profiles". A203 §22: "no universal weighting is
-assumed". It complements [CLAIM-033](CLAIM-033.md), which found at A75 that a translation can
-broaden the readings along one dimension while narrowing them along
-another: that is one trade-off, in the region picture.
+assumed". It complements [CLAIM-033](CLAIM-033.md), which claims at A75 that such trade-offs are
+prevalent in published translations. That a translation can broaden the
+readings along one dimension while narrowing them along another is
+[CLAIM-033](CLAIM-033.md)'s prior statement, [THEORY-170](../theory.d/THEORY-170.md)'s: one trade-off, in the region
+picture.
 
 ## What it does not say
 
