@@ -1,8 +1,15 @@
 ---
 status: Proposed
 title: 'The organized possibility in which the record''s account locates an individual is dispositional: what a declared bearer would manifest across declared conditions, grounded in its actual organization and persisting while unmanifested; so disposition is a dimension of the capacities, perspectives, concepts and will-organizations the record already names, not a further layer or object, and an individual''s dispositional profile is its character, not its identity; and its dispositional equivalence to another, its historical continuity, its numerical identity and its autonomy are four properties, none following from another'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Layer 1 gains A58 §10's three dimensions of the repertoire
+    (discriminative, practical, transformative), from the second share's
+    U26, with the reader's correction that A drops CASE-194's third
+    repair, authority. The integrating claim is unchanged.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -89,6 +96,7 @@ summary: >-
   possibility and history. The integration's wording is A's, corrected
   by the filer; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-194 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed; the owner's U16 study, credited -->
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpcdshj CLAIM-tmpnjz70 CLAIM-tmp7fzb9 TERM-tmp6ersv — filed from the same exchange, Proposed; premises, the thesis reframed, a dropped component and the owner's term -->
 <!-- inactive-ok-file: TERM-086 TERM-104 THEORY-670 ARG-025 CLAIM-329 — Proposed; components and competitors, cited with their standing -->
@@ -115,6 +123,18 @@ The architecture, in layers:
    manifest. Vetter's split between "fragile" and "breakable" is the
    record's source for the two ([THEORY-670](../theory.d/THEORY-670.md), Proposed; [LIT-109](../literature.d/LIT-109.md) and [NOTE-125](../notes.d/NOTE-125.md),
    Read).
+
+   The repertoire has three dimensions (A58 §10, second share, answering
+   the owner's U26): the **discriminative**, "What circumstances can the
+   organization distinguish?", which is TERM-064's legibility; the
+   **practical**, "What actions can it undertake in those circumstances?";
+   and the **transformative**, "How can it revise its distinctions,
+   actions, and the relationships governing them?", which is TERM-023's
+   transformation, with CLAIM-025 and CLAIM-532. "The first two jointly
+   determine which tasks it can perform", as CLAIM-535 and CLAIM-572 do:
+   a hedge can stand in for a distinction. *The reader's correction:* A
+   drops CASE-194's third repair, authority, which lies between the
+   practical and the transformative.
 2. **It persists while unmanifested.** A47 §9: "a disposition provides a way
    of describing continuity through nonmanifestation". The record holds it.
    A perspective's enactment can stop while its dispositions remain

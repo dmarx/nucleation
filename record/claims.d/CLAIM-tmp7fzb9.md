@@ -55,7 +55,7 @@ summary: >-
   succession, and drops the point. The wording is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp6ersv — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-tmp6ersv CLAIM-tmpcdshj — filed from the same exchange, Proposed; the term used and the thesis whose fission correction this follows -->
 <!-- inactive-ok-file: THEORY-152 — Proposed; Hirschman's exit and voice, cited as the neighbouring account -->
 
 # CLAIM-tmp7fzb9: A fork can be the construction of a new organization through which a disposition that the parent's governance kept ineffective gains efficacy, and not only one of several successors of the parent

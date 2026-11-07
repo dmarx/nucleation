@@ -74,6 +74,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpjw473 CASE-tmpcr92d — filed from the same exchange, Proposed; premise, component and the owner's study -->
 <!-- inactive-ok-file: ARG-tmpvxtof — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
+<!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
 <!-- inactive-ok-file: CLAIM-tmpnjz70 CLAIM-tmp340im — filed from the same exchange, Proposed; the later theses that rest on this one -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
 
