@@ -199,6 +199,13 @@ say what they filed, not what they were never asked to file. Every item
 must end up in one of three places: filed, mapped to a held code, or
 listed as left with a reason.
 
+**Then list the support judgements.** Go through the filed entries and
+notes for every place that says one entry supports, illustrates,
+qualifies or fails to support another: a case grounding a claim, a theory
+applied to it, a citation found to carry less. Each is an ARG (step 9),
+filed before the curation entry. A brief for filers carries step 9's ARG
+rule; one that leaves it out gets entries without their arguments.
+
 Write a curation entry (`luria new curation`) with three parts:
 
 - **where the record already held it**: the map from step 2;
