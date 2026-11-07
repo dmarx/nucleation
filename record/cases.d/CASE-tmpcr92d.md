@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community''s own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    A55 §4 of the second share of the exchange proposes Freenode and
+    Libera, Redis and Valkey, and RethinkDB as cases of their own,
+    "Standing: documented", and adds dated facts. The facts are added as
+    A's, unverified, under a new section of things to check; the
+    instances stay in this study until checked. The study is otherwise
+    unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -132,6 +142,40 @@ Redis's AGPLv3 option of May 2025; RethinkDB's company closure (October
 recalls a later date); and a January 2026 study of `data.table`, given
 without author or title (+200% recruitment, threefold retention, pull
 request resolution from over 700 days to under a week).
+
+## A55's additions, as A reports them (second share)
+
+A55 §4 of the exchange's second share
+(https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c),
+answering the owner's U25, proposes Freenode and Libera, Redis and Valkey,
+and RethinkDB as three CASEs, each "Standing: documented · Kind:
+specimen". Its sources are web searches that were not exported, so every
+fact below is A's report, unverified here, and the instances stay in this
+study until they are checked. To check:
+
+- **Freenode and Libera.** "On May 19, former Freenode staff announced
+  Libera Chat and explicitly expressed an intention to continue Freenode's
+  legacy." "On May 25, the Free Software Foundation Europe announced that
+  it would migrate its IRC presence to Libera".
+- **Redis and Valkey.** "In March 2024, a change in Redis licensing
+  prompted the Linux Foundation to establish Valkey from Redis 7.2.4,
+  initially preserving its permissive BSD license."
+- **RethinkDB.** "In February 2017, CNCF purchased the code rights and
+  transferred them to the Linux Foundation under Apache 2.0." A55 drops
+  A36's "that July" for the first community release, and adds that
+  RethinkDB "should not be called a case of proven long-term success
+  without separate longitudinal evidence".
+- **GIMP and SourceForge.** A55 agrees with A's earlier caveat: a dispute
+  about a distribution project, "not a transfer of ownership of GIMP
+  itself".
+
+A55 says the cases illustrate CLAIM-287; the record's entry for plural
+successors of a collective is CLAIM-328, which this study illustrates. It
+says RethinkDB illustrates "the productive-provenance distinction in
+TERM-100"; TERM-100's senses are formation, maintenance and source
+provenance, and in those terms RethinkDB's code keeps its formation
+provenance (the company) and moves its maintenance provenance (the
+community). That reading is the reader's.
 
 ## What it can show
 

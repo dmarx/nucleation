@@ -1,7 +1,19 @@
 ---
 status: Proposed
-title: 'The organized possibility in which the record''s account locates an individual is dispositional: what a declared bearer would manifest across declared conditions, grounded in its actual organization and persisting while unmanifested; so disposition is a dimension of the capacities, perspectives, concepts and will-organizations the record already names, not a further layer or object, and an individual''s dispositional profile is its character, not its identity'
-version: 1
+title: 'The organized possibility in which the record''s account locates an individual is dispositional: what a declared bearer would manifest across declared conditions, grounded in its actual organization and persisting while unmanifested; so disposition is a dimension of the capacities, perspectives, concepts and will-organizations the record already names, not a further layer or object, and an individual''s dispositional profile is its character, not its identity; and its dispositional equivalence to another, its historical continuity, its numerical identity and its autonomy are four properties, none following from another'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    A55 §11 of the second share of the exchange gives a further version.
+    Its new clause, that dispositional equivalence, historical continuity,
+    numerical identity and organizational autonomy "remain distinct
+    properties", is added to the title; its success test is added to
+    defeated_if; CLAIM-593 is added to rests_on for the identity clause;
+    the owner's turns that A55 §11 tells as what the work "taught us" are
+    credited; the statement is added under Versions. The claim is
+    otherwise unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -19,7 +31,16 @@ defeated_if: >-
   §16 concedes the risk: "The novel contribution cannot be simply renaming
   those phenomena." Not defeated by an observed behaviour that misleads
   about the disposition (masking, mimicking, finks), which the claim
-  expects.
+  expects. Also defeated if the dispositional account tells apart no pair
+  of organizations matched under ordinary observation that CLAIM-414,
+  CLAIM-407, CLAIM-521 and CLAIM-522 do not already tell apart. A55 §11
+  states that test: "whether the enriched theory can distinguish
+  organizations that look the same under ordinary observation but differ
+  in what they are capable of doing, what determines whether those
+  capacities become effective, how those capacities are maintained, and
+  what survives when the organization changes". And defeated in its last
+  clause by a case in which one of the four properties follows from
+  another, as identity would from an identical profile.
 tags:
 - metaphysics
 - individuation
@@ -34,6 +55,7 @@ rests_on:
 - CLAIM-421
 - CLAIM-047
 - CLAIM-287
+- CLAIM-593
 grounds:
 - THEORY-670
 - LIT-109
@@ -59,15 +81,19 @@ summary: >-
   integration is A's, from A47 §8 and §9. A52 §2 makes dispositional
   organization a layer of its own, against A47 and A50; the claim takes
   A47's form. The audit finds it the thinnest of the exchange's
-  syntheses, mostly a renaming of held distinctions. It reframes the
+  syntheses, mostly a renaming of held distinctions. Version 2 takes
+  A55 §11's four-way independence clause and success test, from the second
+  share; A55 tells the owner's U4, U6, U14 to U16, U18 and U22 as what the
+  work "taught us", and they are credited here. It reframes the
   thesis on meaning and will ([CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)) and rests on the two on
   possibility and history. The integration's wording is A's, corrected
   by the filer; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed; the owner's U16 study, credited -->
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpcdshj CLAIM-tmpnjz70 CLAIM-tmp7fzb9 TERM-tmp6ersv — filed from the same exchange, Proposed; premises, the thesis reframed, a dropped component and the owner's term -->
 <!-- inactive-ok-file: TERM-086 TERM-104 THEORY-670 ARG-025 CLAIM-329 — Proposed; components and competitors, cited with their standing -->
 
-# CLAIM-tmp340im: The organized possibility in which the record's account locates an individual is dispositional: what a declared bearer would manifest across declared conditions, grounded in its actual organization and persisting while unmanifested; so disposition is a dimension of the capacities, perspectives, concepts and will-organizations the record already names, not a further layer or object, and an individual's dispositional profile is its character, not its identity
+# CLAIM-tmp340im: The organized possibility in which the record's account locates an individual is dispositional: what a declared bearer would manifest across declared conditions, grounded in its actual organization and persisting while unmanifested; so disposition is a dimension of the capacities, perspectives, concepts and will-organizations the record already names, not a further layer or object, and an individual's dispositional profile is its character, not its identity; and its dispositional equivalence to another, its historical continuity, its numerical identity and its autonomy are four properties, none following from another
 
 ## The claim
 
@@ -148,6 +174,24 @@ perspective, concept and will terms.
   more ambitious formulation". The terms it rests on are Proposed
   ([TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md), [TERM-086](../terms.d/TERM-086.md), [TERM-104](../terms.d/TERM-104.md), [THEORY-670](../theory.d/THEORY-670.md)).
 
+- **Correction (attribution), version 2.** A55 §11 tells the inquiry's
+  course as what the work "taught us", crediting no turn. "The synergetic
+  and coordination-dynamics work" is the owner's U4 laboratory
+  ("synchronization phenomena might be a useful laboratory") and U6's
+  timescale question. "The software-project examples taught us" is the
+  owner's U14 (software product), U15 (PyTorch, and "a form of
+  Structuralism") and U16 (the contested succession, CASE-tmpcr92d). "The
+  meaning inquiry" is joined at the owner's U18 ("connect this to
+  Nuckeation's inquiry examining how meaning works"). "the dispositional
+  turn" is the owner's U22, uncredited again, as in A52 §1. Its first
+  clause, that productive organization "can survive implementation
+  replacement", is CLAIM-280 (Active), held before the exchange.
+- **Correction (standing), version 2.** The four-way clause is held
+  piecewise: isomorphism is not persistence (CLAIM-593, Active), persistence
+  is by transmission (CLAIM-329, Proposed), and autonomy is a sense of its
+  own (TERM-088). It generalizes layer 4, "character, not identity", and
+  is a guard rather than a new integration.
+
 ## What it does not say
 
 - **That dispositions are a new ontological primitive**, per A47 §9.
@@ -168,5 +212,23 @@ which a distinguishable repertoire of possible activities and
 transformations is sustained.**" A50 §11: "**An individual is a historically
 continuous organization whose causal relationships realize, regulate, and
 transform a structured repertoire of dispositions.**" A52 §1 and §17 are
-the version filed. Its clauses on meaning and will restate [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md),
+the version filed for version 1. Its clauses on meaning and will restate [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md),
 which this claim reframes and does not replace.
+
+A55 §11 (second share,
+https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), the
+"candidate synthesis statement", is the source of version 2: "**Organizational
+individuation may be understood through the historical production,
+regulation, and transmission of structured dispositions.**" "These
+capabilities can remain latent, become effective, be suppressed, lose
+their productive basis, or be transformed into new capacities." "Concepts
+and perspectives can be reproduced across changing bearers, while their
+historical continuities may diverge from the continuity of symbols,
+institutions, or individual agents." "**Dispositional equivalence,
+historical continuity, numerical identity, and organizational autonomy
+remain distinct properties.** None follows automatically from the others."
+A: "It prevents the dispositional vocabulary from becoming another
+universal identity criterion that silently resolves questions we've
+explicitly left open." Its integrating sentence is A50 §11's, and its
+clauses on meaning and will restate CLAIM-tmpnjz70 and on transmission
+CLAIM-tmpcdshj.

@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'A proposed study: two communities that agree in their present use of a category are shown evidence that it conflates two phenomena, and one revises the distinction while the other reinterprets the evidence as irrelevant, with their understanding of the evidence and their incentives controlled, to tell agreement in a concept from similarity in the organization that maintains and revises it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    A third arm added, from A55 §4's CASE E in the second share of the
+    exchange: both communities recognize the contrary evidence, and an
+    intervention on revision authority alone decides whether it reaches
+    the classification, so that an epistemic disposition is separated
+    from revision authority. The study is otherwise unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -53,6 +62,26 @@ agreement gives no evidence either way. If, with those controls met, one
 revises and the other does not, "the experiment could distinguish
 conceptual agreement from similarity of the organization that maintains
 and revises concepts."
+
+**A third arm: recognition held fixed (A55 §4, CASE E).** The controls
+above, on understanding and incentives, do not separate an epistemic
+disposition from the authority to revise. A55 §4 of the second share
+(https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) isolates
+it. Both systems "possess processes capable of recognizing relevant
+contrary evidence". "In system A, the contrary evidence can activate
+review, alter the classification, and change future applications." "In
+system B, the same review process is activated but a governance mechanism
+prevents it from influencing the classification." "Under ordinary
+conditions, the systems have matching judgments. Under an intervention on
+revision authority, their responses diverge." Holding recognition fixed
+and intervening on authority alone tells a difference in what a community
+can see from a difference in who may act on it. It is CLAIM-414's part 1,
+efficacy allocated differently under matched ordinary output, at the level
+of a concept, and CLAIM-407's hidden governance (CASE-125). A: "**What it
+doesn't show:** that the two systems necessarily possess different
+concepts. The contrast may concern their organizational perspectives or
+will-governance rather than concept identity." That agrees with this
+case's reading and with TERM-098.
 
 ## What it can show
 

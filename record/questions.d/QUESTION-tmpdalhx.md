@@ -1,7 +1,17 @@
 ---
 status: Open
 title: 'When rival communities use one expression with different application rules, inferences, practical responses and conditions of revision, is there one concept with context-dependent extension, several historically related concepts sharing an expression, or an organization of the rivalry among the uses; what observations tell these apart; and in which sense of individuation, if any, is the concept or the symbol individuated?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    The reader's qualification, from A54 and A55 §3 and §6 of the second
+    share of the exchange: a difference in conditions of revision alone is
+    no evidence of several concepts, since TERM-098 keeps a concept apart
+    from its corrigibility. Added under "What bears on it" and "What would
+    count as an answer", with A55 §6's two discriminators. The question is
+    otherwise unchanged and stays Open.
 tags:
 - philosophy-of-language
 - individuation
@@ -21,7 +31,7 @@ summary: >-
   them is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-098 CLAIM-329 TERM-104 — Proposed; terms and claims cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-tmpb16ru CLAIM-tmpnza8k — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-tmpb16ru CLAIM-tmpnza8k CLAIM-tmpnjz70 CASE-tmphkso5 CASE-tmpsdfol — filed from the same exchange, Proposed -->
 
 # QUESTION-tmpdalhx: When rival communities use one expression with different application rules, inferences, practical responses and conditions of revision, is there one concept with context-dependent extension, several historically related concepts sharing an expression, or an organization of the rivalry among the uses; what observations tell these apart; and in which sense of individuation, if any, is the concept or the symbol individuated?
 
@@ -71,6 +81,25 @@ A41 §10 found the fourth sense, organizational autonomy, "Not established".
   across communities needs a correspondence, so [CLAIM-249](../claims.d/CLAIM-249.md)'s relativity
   applies (the reader's qualification).
 - Lineage is [CLAIM-329](../claims.d/CLAIM-329.md)'s question, not this one.
+- **A difference in revision alone does not decide for option 2.** The
+  reader's qualification, from TERM-098 and A54 of the second share
+  (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c):
+  TERM-098 "deliberately **does not make corrigibility part of being a
+  concept**—so our earlier four-part concept profile should not treat
+  different revision policies as automatically different concepts". A55
+  §3 rewrites the profile as (A, I, R), with U, the "revision
+  organization", kept apart: "**Two communities can realize effectively
+  the same concept while having different capacities to correct its
+  use.**" So the title's "conditions of revision" is no evidence of
+  several concepts on its own. It may be a difference of perspective, as
+  A41 §14 put corrigibility in the perspective (CLAIM-tmpnjz70, layer 2),
+  or of will-governance (A55 §4's CASE E, in CASE-tmphkso5).
+- **Two discriminators for option 2** (A55 §6, which re-asks it as
+  "conceptual fission"): telling "historical descent from independent
+  convergence" by "tracing transmission pathways", and not defining
+  conceptual identity "by simple similarity of embeddings, symbol
+  persistence, or any one numerical divergence threshold unless that
+  criterion is independently defended".
 - A41 §12's vignette design measures the profile by telling participants
   about cases, a do(I) in [CLAIM-130](../claims.d/CLAIM-130.md)'s sense, so it cannot reach the
   effects of the classification on those classified.
@@ -79,4 +108,6 @@ A41 §10 found the fourth sense, organizational autonomy, "Not established".
 
 For a stated expression, which option holds under a stated correspondence
 between communities' profiles, and on what evidence; and, separately, which
-of [TERM-088](../terms.d/TERM-088.md)'s senses, if any, the expression or the concept meets.
+of [TERM-088](../terms.d/TERM-088.md)'s senses, if any, the expression or the concept meets. A
+difference in U alone does not decide for option 2 (TERM-098). The study
+that would measure the profiles is CASE-tmpsdfol.
