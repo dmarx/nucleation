@@ -84,7 +84,8 @@ For each, read the candidate and every component in full. Then:
   Superseded by it. Then audit the relations pointing at the CLAIM:
   - repoint those that describe the current account (an ARG's `concludes`,
     a CASE's `illustrates`, a reading's `corroborates`, a synthesis's
-    `integrates` and `premises`);
+    `integrates` and `premises`, and a claim's `rests_on`, which may name a
+    synthesis (ADR-tmp1304r));
   - leave those that record history;
   - leave `complements` until dmarx/luria#358 is fixed.
 - **Arm A, not admitted.** It stays a CLAIM. Record the verdict.

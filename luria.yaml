@@ -1207,7 +1207,7 @@ schemes:
         blurb: another of the record's own claims this one could not stand without — the spine of the
           argument, walked as the `argument` chain. Retired, it leaves this claim needing another route
           (ADR-032)
-        scheme: CLAIM
+        scheme: [CLAIM, SYNTHESIS]
         required: false
         many: true
         converse: supports
@@ -1741,6 +1741,14 @@ schemes:
         many: true
         converse: used_by
         explain: cited
+      supports:
+        label: Supports
+        blurb: the record's own claims that rest on this synthesis, derived from their `rests_on`
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: rests_on
+        derived: true
       corroborated_by:
         label: Corroborated by
         blurb: the claims and readings that give the integration independent evidence without its
@@ -1972,6 +1980,14 @@ patterns:
   # the conclusion is the ARG's `concludes`, the premises its `rests_on`. So
   # the `argument` chain walks it beside `rests_on`, and each step it adds
   # names the argument it went through. A Rejected argument draws no step.
+  # A claim and the claims it rests on. `rests_on` may also name a
+  # SYNTHESIS, a claim's premise that moved into that scheme, and a chain
+  # stays within one scheme, so the `argument` chain walks this pattern,
+  # the claim-to-claim steps, in place of the field.
+  rests_on_claim:
+    match: >-
+      (c:CLAIM)-[:rests_on]->(p:CLAIM)
+    blurb: A claim and the claims it rests on, leaving out the syntheses it rests on.
   argued_from:
     match: >-
       (c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM)
@@ -2028,7 +2044,7 @@ chains:
   argument:
     scheme: CLAIM
     relation:
-    - rests_on
+    - rests_on_claim
     - argued_from
     invariant: line
     output: docs/argument-lines.md
