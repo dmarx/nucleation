@@ -43,8 +43,6 @@ rests_on:
 - CLAIM-264
 grounds:
 - THEORY-032
-corroborated_by:
-- THEORY-354
 complements:
 - CLAIM-302
 - CLAIM-564

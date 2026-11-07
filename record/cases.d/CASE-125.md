@@ -35,11 +35,6 @@ summary: >-
   parameters of [CLAIM-122](../claims.d/CLAIM-122.md)'s supervisory test, which the exchange of
   2026-10-17 gave only in words. Fictional by construction; K is a
   mechanism parameter, not an agent's governance.
-supports:
-- CLAIM-407
-- CLAIM-399
-variants:
-- CASE-164
 ---
 <!-- inactive-ok-file: CLAIM-336 — Proposed; named as the test this case cannot be, open -->
 

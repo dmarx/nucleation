@@ -38,8 +38,6 @@ summary: >-
   infant evidence and Authority no infant evidence, the foundations were
   matched to existing evolutionary models rather than derived, and the
   disgust findings behind Sanctity were later disputed.
-extended_by:
-- THEORY-613
 ---
 
 # THEORY-539: Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation

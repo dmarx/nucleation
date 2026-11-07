@@ -36,9 +36,6 @@ summary: >-
   does. It is defined without experience, so unconscious perception, a
   classifier or a regulator interprets in this sense. That is the cost
   [CLAIM-411](../claims.d/CLAIM-411.md) names. Adopted 2026-10-29, with significance kept apart from efficacy.
-used_by:
-- CLAIM-412
-- CLAIM-414
 ---
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 

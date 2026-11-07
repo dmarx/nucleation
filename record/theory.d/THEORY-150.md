@@ -28,8 +28,6 @@ summary: >-
   blocked interoperability and monopoly widen what users will bear. The
   remedy is end-to-end delivery and freedom of exit. Proposed: an
   essayistic thesis argued from cases, not a study.
-extended_by:
-- THEORY-470
 corroborates:
 - CLAIM-060
 ---

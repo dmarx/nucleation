@@ -37,9 +37,6 @@ summary: >-
   A22 §7 and A23 §XI, a simulation not yet built. It is how [QUESTION-100](../questions.d/QUESTION-100.md) would
   be answered and [CLAIM-297](../claims.d/CLAIM-297.md) tested, and what [CLAIM-278](../claims.d/CLAIM-278.md) asks of the operator
   framework: a prediction a simpler model does not make.
-variants:
-- CASE-099
-- CASE-153
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

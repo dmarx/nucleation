@@ -35,6 +35,8 @@ summary: >-
   of the habitat threat perpetuates reliance, and that "both must be
   alleviated in tandem". Active as a report of what the authors argue; one population, and the threshold is a
   conceptual figure, not a measured one.
+corroborates:
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Mussmann et al. (2017) as open -->
 

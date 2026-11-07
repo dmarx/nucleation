@@ -71,9 +71,6 @@ grounds:
 - THEORY-419
 - LIT-1196
 - LIT-1188
-corroborated_by:
-- THEORY-593
-- THEORY-454
 complements:
 - CLAIM-336
 - CLAIM-342

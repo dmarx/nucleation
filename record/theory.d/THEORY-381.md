@@ -22,8 +22,6 @@ summary: >-
   structure matches on Cayley graphs; low-contention dynamic structures need
   update time at least Φr(τ, 1/(4t²)) over poly(t). Tight only for constant t;
   nothing about worst-case or structured data, workloads or build time.
-presupposed_by:
-- THEORY-372
 bears_on:
 - QUESTION-114
 ---

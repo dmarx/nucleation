@@ -30,8 +30,6 @@ summary: >-
   pupil's coming to believe it. Not shown: how often labels work this way;
   A39: "That's a possible self-fulfilling process, not a universal
   consequence of stigmatizing labels."
-variants:
-- CASE-142
 ---
 
 # CASE-141: The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight

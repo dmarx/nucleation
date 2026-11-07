@@ -10,14 +10,6 @@ tags:
 - complex-systems
 date: '2026-10-04'
 line: will-organization
-used_by:
-- CLAIM-025
-- CLAIM-099
-- CLAIM-184
-- CLAIM-339
-- CLAIM-349
-- CLAIM-445
-- CLAIM-446
 summary: >-
   A protective regime that, by reorganizing ordinary activity, generates
   the conditions that justify its own continuation and reduces the

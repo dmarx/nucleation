@@ -61,6 +61,8 @@ summary: >-
   the evidence. The generalization from an individual's motor skill to a
   capability an organization keeps for rare events is the filer's. The
   wording is the filer's; adopting it is the owner's call.
+corroborates:
+- CLAIM-600
 ---
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation

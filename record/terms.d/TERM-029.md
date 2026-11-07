@@ -15,8 +15,6 @@ superseded_by:
 summary: >-
   The owner's sense at U6: the frame "from which it is being delivered".
   Silently narrowed at A11 to an interpretive lens, and restored at U7.
-used_by:
-- CLAIM-006
 ---
 <!-- inactive-ok-file: CLAIM-006 TERM-005 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

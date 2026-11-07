@@ -34,15 +34,6 @@ summary: >-
   the workbench reconstructions of 2026-10-09 and 2026-10-10. Filed on
   2026-10-11 as the first premise of the manuscript. Two exchanges with
   one owner and one assistant family, so Proposed.
-supports:
-- CLAIM-176
-- CLAIM-178
-- CLAIM-186
-- CLAIM-185
-- CLAIM-182
-- CLAIM-180
-- CLAIM-191
-- CLAIM-192
 bears_on:
 - QUESTION-037
 ---

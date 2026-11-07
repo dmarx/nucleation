@@ -32,8 +32,6 @@ summary: >-
   a process that can generate alternatives. It refines [QUESTION-041](QUESTION-041.md), which asks what
   channels keep a whole's course correctable. This asks when using such a
   channel helps.
-bearing:
-- CLAIM-281
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 THEORY-151 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

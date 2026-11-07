@@ -92,15 +92,6 @@ summary: >-
   kernel-to-Hilbert-space construction as GNS and state its minimal
   realizations unique up to a unitary (proof left as an exercise). This is the GNS connection the owner
   asked about, stated.
-extended_by:
-- THEORY-008
-- THEORY-017
-presupposed_by:
-- THEORY-002
-- THEORY-723
-supports:
-- CLAIM-148
-- CLAIM-379
 ---
 
 # THEORY-004: A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels

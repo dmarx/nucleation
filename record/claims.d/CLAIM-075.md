@@ -19,8 +19,6 @@ summary: >-
   Viability licenses conditional functional judgment only.
 complements:
 - CLAIM-352
-supports:
-- CLAIM-363
 ---
 <!-- inactive-ok-file: LIT-1915 — Unavailable; Letiche and Moriceau, cited from its abstract as a doubt in this claim's direction -->
 

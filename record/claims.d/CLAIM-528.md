@@ -47,8 +47,6 @@ grounds:
 - THEORY-1288
 - THEORY-1293
 - CASE-189
-corroborated_by:
-- THEORY-1294
 complements:
 - CLAIM-522
 - CLAIM-515

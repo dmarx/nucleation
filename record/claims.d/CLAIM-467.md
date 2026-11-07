@@ -48,8 +48,6 @@ bears_on:
 grounds:
 - CASE-158
 - CASE-162
-corroborated_by:
-- THEORY-937
 undercuts:
 - ARG-036
 summary: >-

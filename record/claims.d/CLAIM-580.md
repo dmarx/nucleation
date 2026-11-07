@@ -39,8 +39,6 @@ rests_on:
 - CLAIM-571
 complements:
 - CLAIM-585
-corroborated_by:
-- THEORY-1420
 summary: >-
   The assistant's own proposition, offered at the owner's invitation on
   2026-11-05. The threshold of [CLAIM-571](CLAIM-571.md) is the least, over admissible

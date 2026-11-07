@@ -23,8 +23,6 @@ summary: >-
   minimum, while the limiting dynamics assume a quadratic minimum.
   Nothing in the record relates them. Drawn by the assistant from the
   reading of Kunin et al., and filed at the owner's request.
-bearing:
-- THEORY-211
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-085 THEORY-210 THEORY-286 — Proposed; the two pictures of the end of training and the readings that bear on relating them, open -->
 

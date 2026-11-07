@@ -48,8 +48,6 @@ summary: >-
   (semantic, static pragmatic and trajectory similarity), which was gone
   by A52, with human receivers. A proposal, untested. It does not say
   the functionalist rivals are wrong.
-illustrated_by:
-- CASE-055
 bears_on:
 - QUESTION-002
 ---

@@ -85,8 +85,6 @@ grounds:
 - LIT-1438
 - THEORY-027
 - THEORY-101
-corroborated_by:
-- THEORY-056
 summary: >-
   The owner's, 2026-10-23, in the discussion of [THEORY-101](../theory.d/THEORY-101.md) that followed
   the corporate psychopathy filing: "what if the 'appraisal' is the
@@ -97,16 +95,6 @@ summary: >-
   ordering dominates the dynamics." Worked through the same day: potential
   read through Frijda's marks of control precedence, the kind of ordering
   fixed as one over the system's own states, and five consequences drawn.
-supports:
-- CLAIM-435
-- CLAIM-439
-- CLAIM-437
-objected_by:
-- CLAIM-438
-- CLAIM-448
-- CLAIM-449
-- CLAIM-441
-- CLAIM-468
 ---
 <!-- inactive-ok-file: CLAIM-437 — Proposed; the owner's relativizing claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-433 — Proposed; the reply filed with this batch, cited as open -->

@@ -21,20 +21,11 @@ works:
 uses:
 - TERM-023
 - TERM-020
-argued_by:
-- ARG-007
 summary: >-
   The paper's main result (Section 6.11), concluded by [ARG-007](../arguments.d/ARG-007.md) from
   [CLAIM-079](CLAIM-079.md) and [CLAIM-025](CLAIM-025.md). The audit's "strong conditional
   argument". Canguilhem interprets it ([CLAIM-018](CLAIM-018.md)) and is deliberately
   not a premise.
-illustrated_by:
-- CASE-111
-supports:
-- CLAIM-344
-- CLAIM-462
-corroborated_by:
-- THEORY-153
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 

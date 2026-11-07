@@ -32,8 +32,6 @@ summary: >-
   without transport, kind with descent, and a transport, on documented
   material, for [CLAIM-210](../claims.d/CLAIM-210.md). Partial: independence is a fact of
   geography no source states, and the kind is an analyst's.
-supports:
-- CLAIM-210
 ---
 <!-- inactive-ok-file: CLAIM-137 CLAIM-217 — Proposed; the work-identity claim, the kind thesis and the uptake standard this case sits beside, open -->
 

@@ -24,10 +24,6 @@ summary: >-
   shows that the obstruction is in the supports, not in the event sheaf.
   It appears three times (A129 §2, A161, A178's negative control), so it
   gets a code.
-supports:
-- CLAIM-201
-- CLAIM-319
-- CLAIM-320
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-105 CLAIM-009 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

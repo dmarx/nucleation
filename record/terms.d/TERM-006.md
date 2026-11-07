@@ -10,8 +10,6 @@ tags:
 - social-ontology
 date: '2026-10-04'
 line: authenticity
-used_by:
-- CLAIM-016
 summary: >-
   A graded property: how far an agent's operative commitments arise
   through, remain integrated with, and are answerable to its own

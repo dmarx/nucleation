@@ -46,8 +46,6 @@ rests_on:
 - CLAIM-538
 grounds:
 - THEORY-1417
-corroborated_by:
-- THEORY-1414
 uses:
 - TERM-060
 bears_on:

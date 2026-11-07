@@ -14,8 +14,6 @@ line: distributed-agency
 date: '2026-10-04'
 superseded_by:
 - CASE-025
-substituted_by:
-- CASE-025
 summary: >-
   The owner's case at U13: employees largely concerned about climate, a
   company whose datacenters, sited where energy is cheap, induce fossil

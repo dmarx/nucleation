@@ -37,11 +37,6 @@ summary: >-
   encoder to prunings of a fixed tree; nothing in the record says when it
   holds without that restriction. Rate–distortion theory's answer is
   successive refinability (Equitz and Cover, registered unread).
-refined_by:
-- QUESTION-244
-- QUESTION-291
-bearing:
-- THEORY-751
 ---
 # QUESTION-220: Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y), beyond Y a function of X or X and Y both binary, guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?
 

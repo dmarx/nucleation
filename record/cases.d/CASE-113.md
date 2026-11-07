@@ -29,8 +29,6 @@ summary: >-
   say where a regulatory condition sits. Stipulated: the outcomes of the
   interventions are not known, except the optimizer arm in [THEORY-253](../theory.d/THEORY-253.md)'s
   solvable model.
-supports:
-- CLAIM-367
 ---
 <!-- inactive-ok-file: CLAIM-367 CLAIM-157 — Proposed; the claim this case grounds and the claims and reading it uses, cited as open -->
 

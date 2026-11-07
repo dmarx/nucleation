@@ -61,16 +61,11 @@ summary: >-
   Γ and the exact condition for Γ = 0. It is an application of ordinary
   causal sufficiency, not new information theory, and it does not say
   the system governs itself.
-illustrated_by:
-- CASE-125
-- CASE-152
-- CASE-164
-supports:
-- CLAIM-409
-- CLAIM-399
 complements:
 - CLAIM-414
 - CLAIM-450
+corroborates:
+- CLAIM-122
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; the earlier, unparameterized appearances of this result, cited as its history, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-174 — Proposed; named as what this result does not test, open -->

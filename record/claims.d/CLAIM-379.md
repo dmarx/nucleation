@@ -43,8 +43,6 @@ summary: >-
   orthogonal transformation ([CLAIM-290](CLAIM-290.md), [THEORY-004](../theory.d/THEORY-004.md)). For b = 0, K_X is the
   projection onto the column space, which fixes X only up to an invertible
   linear map, as for a softmax layer ([THEORY-723](../theory.d/THEORY-723.md)).
-supports:
-- CLAIM-269
 ---
 
 # CLAIM-379: On a finite set of stimuli, regularized linear readouts with ridge b > 0 cannot tell apart two centred representations of the same width exactly when one is an orthogonal transformation of the other, and the unregularized CCA member cannot tell apart representations with the same column space, which differ by an invertible linear map

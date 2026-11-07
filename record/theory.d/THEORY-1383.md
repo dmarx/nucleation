@@ -24,6 +24,8 @@ summary: >-
   proved. It is about one idealised model; it does not say that every
   passive walker's basin is shaped this way, nor anything about McGeer's
   own walkers.
+corroborates:
+- CLAIM-568
 ---
 <!-- inactive-ok-file: LIT-2108 — Unavailable and new; the original Obayashi et al. (2016) stand in for, cited as open -->
 

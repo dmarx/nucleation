@@ -35,8 +35,6 @@ summary: >-
   them descriptively: [CLAIM-085](CLAIM-085.md)'s split of normative from descriptive,
   applied to the thesis rather than to model judges. It does not say the
   thesis is empty.
-objected_by:
-- CLAIM-252
 ---
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-139 — Proposed; open, cited for the task family Q, the negative clause and the later thesis, not as settled -->

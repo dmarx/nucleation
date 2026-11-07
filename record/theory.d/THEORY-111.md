@@ -59,9 +59,6 @@ summary: >-
   image classification only. The regularity outside image
   classification, and the step to many-model averages such as soups and
   SWA, are QUESTION-318.
-supports:
-- CLAIM-187
-- CLAIM-263
 bears_on:
 - QUESTION-318
 ---

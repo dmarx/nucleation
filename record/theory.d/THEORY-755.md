@@ -40,8 +40,6 @@ summary: >-
   partition-based aggregation only. It says nothing about approximate
   aggregation, the Simon–Ando case, or nonlinear systems, where the paper
   itself shows aggregations with no linear counterpart.
-supports:
-- CLAIM-386
 bears_on:
 - QUESTION-218
 ---

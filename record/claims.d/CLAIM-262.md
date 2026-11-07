@@ -41,10 +41,6 @@ answers:
 - QUESTION-079
 grounds:
 - THEORY-068
-illustrated_by:
-- CASE-075
-- CASE-074
-- CASE-160
 summary: >-
   The owner's answer to [QUESTION-079](../questions.d/QUESTION-079.md): both forms are possible, and
   which one an agent shows depends on its constitution. An agent made of
@@ -53,8 +49,6 @@ summary: >-
   best in democracy mode with the tally visible as votes arrive. The consequence for [CLAIM-163](CLAIM-163.md)'s transition test is
   that it must be stated per constitution. A missing switch counts
   against coordination only in an agent built to switch.
-corroborated_by:
-- CLAIM-453
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection whose test this claim bears on -->
 

@@ -48,8 +48,6 @@ summary: >-
   elimination no support. The ontological thesis needs its own
   conceptual argument; the mathematics and the experiments cannot
   supply it.
-supports:
-- CLAIM-206
 ---
 <!-- inactive-ok-file: CLAIM-615 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; cited in the note of 2026-11-07 -->

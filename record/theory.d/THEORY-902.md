@@ -51,8 +51,6 @@ summary: >-
   controlled. Supports the individual step and some structural trends; the
   predicted end state, one closed member and consensus on that member's
   view, was not reached.
-supports:
-- CLAIM-448
 ---
 <!-- inactive-ok-file: THEORY-1212 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: THEORY-916 — Proposed or Deferred; the claim, account and companion work this bears on, named, nothing here rests on them -->

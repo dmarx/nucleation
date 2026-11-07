@@ -34,8 +34,6 @@ summary: >-
   λ_k(G₁) for every k, in any network, trained or not. That G₁ carries the
   outliers of trained networks is measured, not derived, and stays
   Proposed in [THEORY-078](THEORY-078.md).
-extended_by:
-- THEORY-078
 ---
 <!-- inactive-ok-file: THEORY-078 — Proposed; the measured attribution this was split from and that extends it, cited as open -->
 

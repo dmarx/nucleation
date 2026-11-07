@@ -39,10 +39,6 @@ line:
 - formal-apparatus
 grounds:
 - THEORY-1375
-corroborated_by:
-- THEORY-1372
-- THEORY-1407
-- THEORY-1380
 complements:
 - CLAIM-567
 bears_on:

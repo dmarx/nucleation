@@ -18,8 +18,6 @@ summary: >-
   turns on whether sound means the vibration or the hearing. Nothing in
   it was made for anyone, and that is the respect the storage variant
   changes.
-variants:
-- CASE-043
 ---
 
 # CASE-049: A tree falls in the woods with no one to hear it

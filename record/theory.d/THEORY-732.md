@@ -40,8 +40,6 @@ summary: >-
   patterns, and with shared patterns the hidden features are linear along
   the path. It says nothing about when the conditions hold. That trained
   pairs satisfy them is [THEORY-111](THEORY-111.md)'s empirical claim.
-extended_by:
-- THEORY-111
 ---
 <!-- inactive-ok-file: THEORY-116 — Proposed; named in Connections, nothing here rests on it -->
 

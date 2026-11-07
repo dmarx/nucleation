@@ -45,18 +45,9 @@ works:
 - what-survives-translation
 grounds:
 - THEORY-159
-corroborated_by:
-- THEORY-175
-- THEORY-182
-- THEORY-185
 summary: >-
   The manuscript's structuralist premise (§2), citing Saussure and Lévi-
   Strauss. [CLAIM-072](CLAIM-072.md) corrects how it states Saussure.
-supports:
-- CLAIM-115
-- CLAIM-036
-illustrated_by:
-- CASE-019
 complements:
 - CLAIM-242
 - CLAIM-489

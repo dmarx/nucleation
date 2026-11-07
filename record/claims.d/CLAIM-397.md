@@ -40,8 +40,6 @@ summary: >-
   autocovariance, and gives the structural reason for [CLAIM-389](CLAIM-389.md)'s "not
   conversely": the memory is a functional of the coarse variable's own law,
   so it cannot register dependence on the rest of the system.
-supports:
-- CLAIM-401
 bears_on:
 - QUESTION-222
 ---

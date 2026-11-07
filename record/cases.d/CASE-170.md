@@ -21,9 +21,6 @@ summary: >-
   the merits but its injunction was stayed. Not shown: that the demolition
   was unlawful, or that the security concerns were pretextual; the court
   history is the exchange's.
-supports:
-- CLAIM-462
-- CLAIM-464
 ---
 
 # CASE-170: The East Wing of the White House, 2025–2026: the wing demolished for a ballroom before the legal challenge to the project was decided, so that the remedy still available was to stop new construction, not to keep the old building

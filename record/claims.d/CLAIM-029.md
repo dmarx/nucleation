@@ -38,16 +38,12 @@ uses:
 - TERM-025
 grounds:
 - LIT-460
-corroborated_by:
-- THEORY-490
 summary: >-
   The owner at U17, offered as a motivating example "maybe even just for
   notational purposes". The assistant made it the primary formal example
   (A43), then one running case of three (A52). Its formal statement,
   frame as a parameterized family of contexts, did not survive outline
   v4.
-supports:
-- ARG-008
 ---
 <!-- inactive-ok-file: THEORY-490 — Proposed; the role-play framing's statement, a ground of this Proposed claim, cited as open -->
 <!-- inactive-ok-file: THEORY-251 — Proposed; filed today, cited as a qualification of the defeater, not leaned on -->

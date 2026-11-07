@@ -21,8 +21,6 @@ tags:
 date: '2026-10-26'
 source:
 - LIT-1541
-extended_by:
-- THEORY-982
 summary: >-
   Lindsey et al. (2025), [LIT-1541](../literature.d/LIT-1541.md), read in [NOTE-1181](../notes.d/NOTE-1181.md). A target word
   represented before the text that leads to it, and used causally: it is

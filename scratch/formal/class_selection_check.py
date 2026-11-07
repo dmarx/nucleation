@@ -1,5 +1,5 @@
 # scratch/formal/class_selection_check.py
-# Check of CLAIM-tmpkvgmj (needs numpy, scipy, networkx; run with python3 -I).
+# Check of CLAIM-628 (needs numpy, scipy, networkx; run with python3 -I).
 # For a class C of disturbances an agent cannot tell apart, one x with
 # |Dx - a0 - w| <= delta for every w in C exists iff r_e <= delta_e on every
 # overlap and CLAIM-538's cycle condition holds for offsets a0 + m and

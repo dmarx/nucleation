@@ -21,8 +21,6 @@ summary: >-
   Long-surviving institutions share eight design principles that failed
   ones lack. The principles are correlates of survival, not tested
   causes, and their reach beyond common-pool resources is not shown.
-supports:
-- CLAIM-410
 bears_on:
 - QUESTION-041
 ---

@@ -17,8 +17,6 @@ summary: >-
   drift ([LIT-1079](../literature.d/LIT-1079.md)). An agent that rewrites its own task can drift in the question.
   The nucleating-argument line studies drift in concepts ([CLAIM-177](../claims.d/CLAIM-177.md)); this is drift
   in what is being asked.
-used_by:
-- CLAIM-301
 ---
 <!-- inactive-ok-file: CLAIM-189 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

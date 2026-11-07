@@ -56,8 +56,6 @@ rests_on:
 - CLAIM-414
 grounds:
 - CASE-101
-illustrated_by:
-- CASE-165
 uses:
 - TERM-072
 - TERM-074

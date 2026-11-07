@@ -72,8 +72,6 @@ summary: >-
   QUESTION-243, Answered. An answer here recovers known boundaries
   and timescales in controlled models and reports where the criteria
   part.
-refined_by:
-- QUESTION-243
 ---
 
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?

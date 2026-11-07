@@ -34,8 +34,6 @@ summary: >-
   on one architecture, two synthetic trees and one table without variance,
   and the paper does not separate a real failure to order levels from the
   origin's arbitrariness under losses that see only pairwise distances.
-extended_by:
-- THEORY-825
 ---
 <!-- inactive-ok-file: THEORY-825 — Proposed; the general claim this measurement was narrowed from, filed to carry it -->
 <!-- inactive-ok-file: THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->

@@ -38,9 +38,6 @@ summary: >-
   partition. The sharp edge: it says when a description keeps a
   judgment, never whether the judgment is right. A21's probabilistic and
   causal versions are recorded in the body, not claimed.
-supports:
-- CLAIM-348
-- CLAIM-407
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 

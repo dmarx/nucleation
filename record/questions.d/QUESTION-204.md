@@ -44,8 +44,6 @@ summary: >-
   have higher EI than the micro one. Whether that gain survives a single
   intervention distribution, and whether the EI peak marks where
   causation happens, is open.
-answered_by:
-- THEORY-787
 ---
 <!-- inactive-ok-file: THEORY-787 — Rejected on 2026-10-30; the causal thesis this question was filed to test, cited as such -->
 <!-- inactive-ok-file: ARG-041 — Proposed or Open; the record's own answer, its argument and the case split off, cited in the note of 2026-10-30 -->

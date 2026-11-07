@@ -39,6 +39,8 @@ summary: >-
   2000 estimates are imprecise. It says nothing about the displaced,
   the neighbourhoods cleared or local self-organization, and its weak
   county effects leave open that gains were drawn from surrounding areas.
+corroborates:
+- CLAIM-600
 ---
 <!-- inactive-ok-file: NOTE-1680 — Skimmed; cited from the reading of Collins and Shester (2013) as open -->
 

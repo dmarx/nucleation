@@ -24,14 +24,6 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md) and [QUESTION-025](QUESTION-025.md).
   [THEORY-197](../theory.d/THEORY-197.md) and [THEORY-206](../theory.d/THEORY-206.md) answer it in part; the body gives each one's
   limit.
-refined_by:
-- QUESTION-157
-- QUESTION-294
-bearing:
-- THEORY-274
-- THEORY-241
-- THEORY-256
-- THEORY-206
 ---
 <!-- inactive-ok-file: THEORY-241 THEORY-274 — Proposed; partial answers filed today, cited with their limits -->
 

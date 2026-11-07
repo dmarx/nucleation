@@ -23,8 +23,6 @@ summary: >-
 illustrates:
 - CLAIM-262
 - CLAIM-025
-variants:
-- CASE-074
 ---
 
 # CASE-075: Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs

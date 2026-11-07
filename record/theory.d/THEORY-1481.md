@@ -35,6 +35,8 @@ summary: >-
   long a trap lasts (that estimate is the companion paper's), nor anything
   about own revenue, aid volume or what happens when aid is withdrawn.
   Whether the argument holds is THEORY-1524.
+corroborates:
+- CLAIM-602
 ---
 
 # THEORY-1481: Andrews, Pritchett and Woolcock argue that when external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and that it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)

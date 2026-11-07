@@ -50,8 +50,6 @@ summary: >-
   incompatible causal pasts on a common event, is reported as the source's.
   Its proof was not read, and it is QUESTION-143. It does not say any
   physical or quantum data display the effect.
-supports:
-- CLAIM-038
 ---
 
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor, whose sheaf claim this account corrects -->

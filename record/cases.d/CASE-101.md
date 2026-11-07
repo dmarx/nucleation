@@ -32,8 +32,6 @@ summary: >-
   [CLAIM-157](../claims.d/CLAIM-157.md). The common-input arm is Bourrat's "reconstructed entity"
   ([LIT-005](../literature.d/LIT-005.md)), which the record already holds and the exchange did not
   cite. Not run.
-supports:
-- CLAIM-454
 ---
 
 # CASE-101: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members

@@ -23,9 +23,6 @@ summary: >-
   algorithms under an access-cost model. It does not say that top-k queries
   are cheap: the absolute cost depends on the data, and is linear in N for
   some conjunctive queries.
-supports:
-- CLAIM-311
-- CLAIM-312
 bears_on:
 - QUESTION-114
 ---

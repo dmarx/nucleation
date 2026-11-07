@@ -22,13 +22,6 @@ summary: >-
   and not in the paper, which leaves cross-scale relations to future work.
 complements:
 - CLAIM-351
-supports:
-- CLAIM-348
-corroborated_by:
-- THEORY-141
-- THEORY-135
-- THEORY-025
-- THEORY-150
 grounds:
 - CASE-172
 ---

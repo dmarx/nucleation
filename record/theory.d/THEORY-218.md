@@ -40,11 +40,12 @@ summary: >-
   data cannot reveal cooperation, conflict or affiliation. One artwork; the
   link from forum power to placements is "unclear" by the authors' account;
   their "instruction" is Reddit's rules, not planners' orders.
-supports:
-- CLAIM-272
 bears_on:
 - QUESTION-084
 - QUESTION-306
+corroborates:
+- CLAIM-274
+- CLAIM-279
 ---
 <!-- inactive-ok-file: THEORY-224 — Proposed; open claims and sister readings, cited as what this bears on, nothing here rests on their being settled -->
 

@@ -23,8 +23,6 @@ summary: >-
   inconsistently in humans so far. Documented, with the evidence graded in
   [LIT-903](../literature.d/LIT-903.md) and [LIT-915](../literature.d/LIT-915.md). Used as the case of drive from a lower
   level that is itself a collective.
-supports:
-- CLAIM-166
 reported_in:
 - LIT-903
 - LIT-915

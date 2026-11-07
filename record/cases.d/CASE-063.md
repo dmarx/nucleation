@@ -23,8 +23,6 @@ summary: >-
   first, Alexander O. Smith, states the criterion for re-performance.
   The reception is contested on record. No reader has been asked a
   report question and a re-performance question about the same lines.
-supports:
-- CLAIM-212
 ---
 <!-- inactive-ok-file: CLAIM-212 CLAIM-258 — Proposed; the reply this case is filed for and the objection it answers, both open and cited as open -->
 <!-- inactive-ok-file: CLAIM-091 CLAIM-240 CLAIM-201 — Proposed; the compensation claim, the weighting claim and the change-of-cover claim, cited as open -->

@@ -29,10 +29,6 @@ summary: >-
   regenerates them in each new population. Stipulated: the record holds
   no data on program persistence. The proposed test is residual
   persistence of performance across seasons with no player overlap.
-supports:
-- CLAIM-327
-- CLAIM-329
-- CLAIM-331
 ---
 
 <!-- inactive-ok-file: LIT-005 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

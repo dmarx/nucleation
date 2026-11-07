@@ -50,13 +50,6 @@ date: '2026-11-05'
 line:
 - readiness
 - realizability
-corroborated_by:
-- THEORY-1483
-- THEORY-1460
-- THEORY-1459
-- THEORY-1480
-- THEORY-1481
-- THEORY-1492
 complements:
 - CLAIM-597
 - CLAIM-604

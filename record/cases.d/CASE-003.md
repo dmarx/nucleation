@@ -14,9 +14,6 @@ date: '2026-10-05'
 line: will-organization
 variant_of:
 - CASE-023
-supports:
-- ARG-009
-- CLAIM-122
 summary: >-
   Two versions held constant in attitudes, policy, monitoring and
   evidence, differing only in whether a specialist's objection suspends

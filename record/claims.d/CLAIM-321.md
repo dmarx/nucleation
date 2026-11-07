@@ -64,8 +64,6 @@ grounds:
 - LIT-770
 - THEORY-522
 - THEORY-405
-corroborated_by:
-- THEORY-678
 corroborates:
 - CLAIM-123
 summary: >-

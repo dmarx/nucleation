@@ -66,10 +66,6 @@ summary: >-
   manipulation at all. Asked on the will line so that the question can be
   worked on without reopening the set-aside authenticity line, where
   [CLAIM-016](../claims.d/CLAIM-016.md)'s manipulation defeater sits.
-bearing:
-- THEORY-047
-- THEORY-040
-- THEORY-121
 ---
 <!-- inactive-ok-file: NOTE-1504 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->

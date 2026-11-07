@@ -66,6 +66,8 @@ summary: >-
 rivals:
 - THEORY-433
 - THEORY-538
+corroborates:
+- CLAIM-174
 ---
 <!-- inactive-ok-file: THEORY-433 THEORY-538 — Proposed; the behavioural criteria filed as rivals, named where this account said it would answer them -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; the account whose mimicry clause this one bears on, named in prose, nothing here rests on it -->

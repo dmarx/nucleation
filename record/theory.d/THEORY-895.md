@@ -57,9 +57,6 @@ summary: >-
   [CLAIM-433](../claims.d/CLAIM-433.md) need is the sensitization result: a ranking whose
   strength is re-keyed to cues, cut loose from both pleasure and the
   person's goals, and lasting.
-supports:
-- CLAIM-437
-- CLAIM-447
 bears_on:
 - QUESTION-267
 - QUESTION-268

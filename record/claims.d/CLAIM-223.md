@@ -45,9 +45,6 @@ summary: >-
   survive for those receivers; one usable but unidentifiable survived
   without evidence of it. Read so, `complements` is right on content. A
   proposal: it is a reading of [CLAIM-139](CLAIM-139.md), not what A218 says.
-supports:
-- CLAIM-204
-- CLAIM-450
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; the two theses this reading relates, read as worded, which is what it reads -->
 

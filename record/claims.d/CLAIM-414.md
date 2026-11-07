@@ -64,13 +64,6 @@ summary: >-
   by [CLAIM-395](CLAIM-395.md)'s minimal slow–fast closure, the other is reset from
   outside. These are [CLAIM-407](CLAIM-407.md)'s lesson about governance and [CLAIM-194](CLAIM-194.md)'s
   about boundaries, applied to interpretation.
-illustrated_by:
-- CASE-126
-- CASE-161
-- CASE-163
-supports:
-- CLAIM-427
-- CLAIM-454
 ---
 <!-- inactive-ok-file: CASE-210 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 

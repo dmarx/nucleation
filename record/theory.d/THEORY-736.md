@@ -35,8 +35,6 @@ summary: >-
   statement about dropout-stable solutions only: whether training
   produces them is [THEORY-109](THEORY-109.md)'s open question, and Theorem 4 of the same
   paper builds disconnected global minima.
-extended_by:
-- THEORY-109
 ---
 <!-- inactive-ok-file: THEORY-109 — Proposed; the synthesis this theorem was split from and that extends it, cited as open -->
 

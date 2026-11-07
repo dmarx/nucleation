@@ -39,6 +39,8 @@ summary: >-
   amortization, and its reaction times are simulation run times.
 bears_on:
 - QUESTION-313
+corroborates:
+- CLAIM-443
 ---
 <!-- inactive-ok-file: THEORY-062 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 

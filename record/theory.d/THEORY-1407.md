@@ -35,6 +35,9 @@ summary: >-
   does not say that algebra is irrelevant to navigation (polymorphisms do
   make every Schaefer language easy to navigate), nor anything about
   non-Boolean domains, other move sets or resource budgets.
+corroborates:
+- CLAIM-573
+- CLAIM-578
 ---
 
 # THEORY-1407: Gopalan, Kolaitis, Maneva and Papadimitriou show that, for Boolean constraint languages with constants, deciding whether two solutions are joined by single-variable flips through solutions is either in polynomial time with components of linear diameter or PSPACE-complete with components of possibly exponential diameter, according to a property of the language that properly contains Schaefer's tractable classes and does not follow the boundaries of Boolean clones, a boundary Schwerdtfeger later corrected slightly toward the hard side

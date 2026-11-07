@@ -25,29 +25,6 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-086](../theory.d/THEORY-086.md),
   [THEORY-187](../theory.d/THEORY-187.md), [THEORY-200](../theory.d/THEORY-200.md), [THEORY-204](../theory.d/THEORY-204.md) and [THEORY-039](../theory.d/THEORY-039.md) answer it in part; the
   body gives each one's limit.
-refined_by:
-- QUESTION-081
-- QUESTION-158
-- QUESTION-166
-- QUESTION-176
-- QUESTION-175
-- QUESTION-193
-- QUESTION-275
-bearing:
-- THEORY-521
-- THEORY-481
-- THEORY-279
-- THEORY-212
-- THEORY-039
-- THEORY-200
-- THEORY-973
-- THEORY-293
-- THEORY-283
-- THEORY-253
-- THEORY-229
-- THEORY-204
-- THEORY-187
-- THEORY-086
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-279 — Proposed; partial answers filed in the last two days, cited with their limits -->

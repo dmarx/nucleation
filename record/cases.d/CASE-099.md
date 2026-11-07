@@ -28,15 +28,6 @@ summary: >-
   the symmetric state is unstable exactly when βγ > (1 − α)(1 − δ), and
   the unstable direction mixes meaning and authority. Checked here. A
   construction about a linearization, not a fitted or simulated result.
-supports:
-- CLAIM-330
-- CLAIM-338
-- CLAIM-400
-variants:
-- CASE-106
-- CASE-123
-- CASE-124
-- CASE-155
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

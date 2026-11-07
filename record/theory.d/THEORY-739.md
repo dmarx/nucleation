@@ -32,8 +32,6 @@ summary: >-
   eigenbasis and reduces each mode to a logistic equation. It does not say
   that word2vec, or the proxy from random initialisation, behaves this
   way; that is [THEORY-182](THEORY-182.md)'s.
-extended_by:
-- THEORY-182
 ---
 <!-- inactive-ok-file: THEORY-182 — Proposed; the account this core was split from and that extends it, cited as open -->
 

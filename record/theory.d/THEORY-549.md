@@ -34,8 +34,6 @@ summary: >-
   are strong given the criteria; the criteria rest on single cases, and the
   positive view is a four-page sketch with no persistence conditions. It
   says nothing about agency or minds.
-extended_by:
-- THEORY-575
 ---
 <!-- inactive-ok-file: LIT-391 — Unavailable; List & Pettit's Group Agency, named for its "over and above" claim, which this account bears on but does not discuss -->
 <!-- inactive-ok-file: THEORY-575 — Proposed; the account that extends this one, filed in the same batch -->

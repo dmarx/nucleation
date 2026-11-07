@@ -47,8 +47,6 @@ summary: >-
   It does not say the closed sum is one system ([QUESTION-218](../questions.d/QUESTION-218.md)), and it
   is about partitions of the units: in the eigenbasis of A the same system
   is exactly decomposable, which is the point.
-illustrated_by:
-- CASE-120
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # CLAIM-388: Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them

@@ -30,9 +30,6 @@ summary: >-
   the record has no study of a particular rivalry. It shows a relation
   with its own continuity; it does not show that the relation is a system,
   an agent, or constitutive of either fandom.
-supports:
-- CLAIM-329
-- CLAIM-331
 ---
 
 <!-- inactive-ok-file: CLAIM-157 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

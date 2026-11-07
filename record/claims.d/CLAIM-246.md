@@ -43,8 +43,6 @@ summary: >-
   ([CLAIM-106](CLAIM-106.md)) and identity partly a matter of transmission ([CLAIM-002](CLAIM-002.md)).
   The objection is open; it does not say descent must be part of
   fidelity, only that the kind criterion cannot state it.
-objected_by:
-- CLAIM-210
 ---
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history for its transfer disjunct -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-137 — Proposed; open, and cited as the claims this objection is to -->

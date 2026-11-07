@@ -35,8 +35,6 @@ summary: >-
   distributions, where AtP with the softmax fix or plain AtP is cheapest.
   It says nothing about coarser nodes, other model families, effect
   magnitudes or false positives.
-extended_by:
-- THEORY-1000
 ---
 <!-- inactive-ok-file: THEORY-1000 THEORY-997 — Proposed; the wider thesis and a neighbouring account, cited as open -->
 <!-- inactive-ok-file: THEORY-1021 — Proposed; the method author's own map of where the estimate fails, cited as open -->

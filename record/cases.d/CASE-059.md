@@ -22,8 +22,6 @@ summary: >-
   which the source decides a relational question that a rendering makes
   undecidable. The texts are attested and the loss is visible; native
   attestation is thin and there is no evidence on English readers.
-supports:
-- CLAIM-201
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
 

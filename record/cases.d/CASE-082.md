@@ -19,9 +19,6 @@ summary: >-
   in the set". It grounds the redundancy half of [CLAIM-300](../claims.d/CLAIM-300.md) and one of [CLAIM-299](../claims.d/CLAIM-299.md)'s
   separations. A6's reserve case, revising the model class, is where it stops holding,
   and [CASE-087](CASE-087.md) is that case.
-supports:
-- CLAIM-299
-- CLAIM-300
 ---
 
 # CASE-082: The sufficient posterior without its history: a Bayesian agent that keeps only its current posterior updates as well as one that keeps everything, and cannot say how it got there

@@ -31,8 +31,6 @@ summary: >-
   metaphorically it bounds what any information structure could produce.
   It assumes commitment, a designer who picks the equilibrium, and
   Bayesian players; it says nothing about bounded receivers.
-supports:
-- CLAIM-404
 ---
 <!-- inactive-ok-file: THEORY-853 — Proposed; filed from the same reading, the incentive order, cited as open -->
 

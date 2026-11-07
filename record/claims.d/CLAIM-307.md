@@ -29,8 +29,6 @@ grounds:
 complements:
 - CLAIM-154
 - CLAIM-309
-illustrated_by:
-- CASE-094
 summary: >-
   From [MOM-CLM-166](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-166.md), which reads the owner's LEGO parable ([CASE-094](../cases.d/CASE-094.md)) against
   a formalism that cited it with the sign reversed. [CLAIM-154](CLAIM-154.md) says when a distinction

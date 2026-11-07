@@ -65,16 +65,11 @@ summary: >-
   accounts but grade it. It is the empirical counterpart of [THEORY-029](THEORY-029.md)'s
   negative claim. It is not shown that integration can be measured apart
   from endorsement, and it does not escape Velleman's dilemma.
-extended_by:
-- THEORY-047
 rivals:
 - THEORY-120
-presupposed_by:
-- THEORY-077
-supports:
-- CLAIM-016
 corroborates:
 - CLAIM-354
+- CLAIM-356
 ---
 <!-- inactive-ok-file: LIT-1973 LIT-1996 THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->

@@ -57,8 +57,6 @@ summary: >-
   than practice. So this is Proposed.
 extends:
 - THEORY-731
-extended_by:
-- THEORY-085
 corroborates:
 - CLAIM-164
 ---

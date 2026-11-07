@@ -17,9 +17,6 @@ summary: >-
   "character" literally only for the trace character of a specified
   representation, otherwise "character-like structural signature". None
   has yet been constructed for any communicative case.
-used_by:
-- CLAIM-137
-- CLAIM-249
 ---
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited only to rule out a name clash -->
 

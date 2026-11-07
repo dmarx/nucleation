@@ -63,10 +63,6 @@ summary: >-
   reading, and the flow literature is registered unread. It says that
   in flow there is nothing for will to do. It does not say flow is the
   best or the normal way to act as one.
-illustrated_by:
-- CASE-051
-supports:
-- CLAIM-441
 ---
 <!-- inactive-ok-file: CLAIM-169 ARG-016 — Proposed; the premise and the open objection, cited as open -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->

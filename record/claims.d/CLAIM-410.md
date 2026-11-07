@@ -55,8 +55,6 @@ rests_on:
 - CLAIM-282
 grounds:
 - THEORY-149
-corroborated_by:
-- THEORY-470
 complements:
 - CLAIM-352
 - CLAIM-354
@@ -75,10 +73,6 @@ summary: >-
   from a constraint to its removal. The sharp edge: it says nothing about
   whether any deregulation is good, or about what any actual reform did.
   A18: "This doesn't establish that deregulation is good or bad."
-supports:
-- CLAIM-404
-illustrated_by:
-- CASE-176
 ---
 <!-- inactive-ok-file: THEORY-470 THEORY-429 — Proposed; open claims and a reading this claim complements or cites as the transfer case, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-841 — Proposed; Hayek's argument, cited as context for the transfer case, nothing here rests on it -->

@@ -17,9 +17,6 @@ summary: >-
   the need for maintenance explicit. T falls over the event as uninvested
   participants leave. Which placements count as unaffiliated is relative to
   the plans in play, so the field is defined against a set of plans.
-used_by:
-- CLAIM-273
-- CLAIM-274
 ---
 <!-- inactive-ok-file: CLAIM-274 — Proposed; claims and readings cited as open -->
 

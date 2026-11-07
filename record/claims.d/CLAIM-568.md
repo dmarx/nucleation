@@ -46,11 +46,6 @@ line:
 - readiness
 rests_on:
 - CLAIM-571
-corroborated_by:
-- THEORY-1423
-- THEORY-1417
-- THEORY-1427
-- THEORY-1383
 complements:
 - CLAIM-567
 - CLAIM-586

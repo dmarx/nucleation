@@ -19,10 +19,6 @@ summary: >-
   effect of computation-storage tradeoffs". A11 posed filing as a decision under
   uncertainty about future use. [QUESTION-038](QUESTION-038.md) asks how an anchor works. This asks
   when one is worth making.
-answered_by:
-- CLAIM-303
-refined_by:
-- QUESTION-095
 ---
 <!-- inactive-ok-file: CLAIM-185 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

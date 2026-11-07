@@ -35,8 +35,6 @@ summary: >-
   is a single-peaked function of the ratio, which is a preference, not a discriminability.
   [MOM-CLM-166](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-166.md) found the same kind of reversal in the formal reading of the LEGO
   parable. MOM's record never mentions the smoothie note.
-illustrated_by:
-- CASE-096
 ---
 
 # CLAIM-309: How good a mixture is and how discriminable it is from its diluent come apart: under linear mixing a smoothie's distance from milk only shrinks as milk is added, so a preference that rises and then falls with milk is over the ratio and cannot be a d′, and the signal-detection reading of the owner's smoothie line reverses one of its directions

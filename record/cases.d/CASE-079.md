@@ -30,12 +30,6 @@ date: '2026-10-13'
 line: distributed-agency
 illustrates:
 - CLAIM-285
-supports:
-- CLAIM-279
-- CLAIM-280
-- CLAIM-272
-- CLAIM-273
-- CLAIM-274
 summary: >-
   The owner proposed it at U8 of the 2026-10-13 exchange: "every user can
   modify a single pixel once, and different subreddits coordinated to

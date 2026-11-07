@@ -66,6 +66,7 @@ bears_on:
 - QUESTION-087
 corroborates:
 - CLAIM-363
+- CLAIM-288
 ---
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; compared, nothing here rests on them -->
 

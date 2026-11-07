@@ -44,10 +44,6 @@ summary: >-
   ensemble, read in full in NOTE-655, and the title claims no more. No
   transient perturbation has been shown to have a lasting effect in
   cells; that experiment is QUESTION-172.
-supports:
-- CLAIM-184
-extended_by:
-- THEORY-780
 ---
 <!-- inactive-ok-file: THEORY-780 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 

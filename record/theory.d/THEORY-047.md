@@ -54,10 +54,10 @@ summary: >-
   is a historical condition on autonomy of the kind [THEORY-040](THEORY-040.md) asks
   about, with empirical support, but it has not been tested against
   matched present endorsement or applied to manipulation.
-supports:
-- CLAIM-016
 bears_on:
 - QUESTION-071
+corroborates:
+- CLAIM-356
 ---
 <!-- inactive-ok-file: THEORY-054 LIT-1973 — new, Proposed or Deferred; cited as open -->
 <!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->

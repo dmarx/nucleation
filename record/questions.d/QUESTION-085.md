@@ -18,8 +18,6 @@ summary: >-
   keeps it. A recursively self-maintaining one switches among ways of
   keeping itself going. An answer says which rung an artwork reaches, by a
   test that could fail on the placement and forum records.
-answered_by:
-- CLAIM-274
 ---
 <!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-274 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->

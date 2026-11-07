@@ -10,18 +10,11 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-031
 summary: >-
   A38–A39: a pragmatic frame is a configuration of the social and
   interpretive conditions of an utterance, c = (u, s, a, k, n, g, h),
   "more than an analyst's interpretive label", and distinct from any
   intervention that changes those conditions.
-used_by:
-- CLAIM-083
-- CLAIM-127
-- CLAIM-130
-- CLAIM-160
 ---
 
 # TERM-030: frame, as a configuration of the communicative situation

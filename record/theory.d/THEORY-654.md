@@ -20,8 +20,6 @@ summary: >-
   shows a controllable, observable plant whose one-sensor observer-based
   design has gain margin below 10⁻². The result is Kalman's and standard;
   the notes are an adequate free citation for it.
-supports:
-- CLAIM-354
 ---
 
 <!-- inactive-ok-file: THEORY-325 — Proposed; named in Connections for contrast, not leaned on -->

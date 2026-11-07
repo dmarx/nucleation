@@ -27,16 +27,6 @@ summary: >-
   spectrum of kinds (top-down, bidirectional, emergent) and holds that the
   answer changes over time. It sharpens [QUESTION-009](QUESTION-009.md) by asking about
   drive before asking about agency.
-answered_by:
-- CLAIM-158
-refined_by:
-- QUESTION-213
-bearing:
-- THEORY-612
-- CLAIM-316
-- THEORY-410
-- CLAIM-166
-- CLAIM-159
 ---
 <!-- inactive-ok-file: CLAIM-158 CLAIM-166 CLAIM-167 — Proposed; the owner's claims and the reply this question follows from, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question this sharpens -->

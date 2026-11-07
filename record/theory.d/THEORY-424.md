@@ -32,8 +32,6 @@ summary: >-
   1 bit and Â = 0. Â itself depends on an intervention distribution the
   paper leaves open, and neither it nor the paper's two ETI criteria is
   computed on any system.
-supports:
-- CLAIM-407
 ---
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; LIT-005 is the source this account was read from, and its NOTE places it; LIT-049 is named as its ancestor -->
 <!-- inactive-ok-file: THEORY-497 THEORY-607 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->

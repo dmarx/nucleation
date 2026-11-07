@@ -17,11 +17,6 @@ summary: >-
   (A16 to A19, and A23 §II) under "available", "accessible" and "deployable". The
   term separates the deployability of a resource from its presence and from knowing
   it is present ([CLAIM-296](../claims.d/CLAIM-296.md)).
-used_by:
-- CLAIM-296
-- CLAIM-306
-- CLAIM-312
-- CLAIM-421
 complements:
 - TERM-064
 - TERM-085

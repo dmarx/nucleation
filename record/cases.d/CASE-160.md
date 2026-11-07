@@ -46,8 +46,6 @@ summary: >-
   concentration and the balance [THEORY-068](../theory.d/THEORY-068.md)'s, a combination no source
   makes. Checked when filed, and the reply's nonlinear transition
   corrected.
-supports:
-- CLAIM-453
 ---
 <!-- inactive-ok-file: THEORY-916 — Proposed; the reflected-appraisal reading named as where endogenous influence enters, nothing here rests on it -->
 

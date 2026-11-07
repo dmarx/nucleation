@@ -24,9 +24,6 @@ illustrates:
 - CLAIM-025
 variant_of:
 - CASE-023
-supports:
-- ARG-007
-- CLAIM-025
 summary: >-
   A service failure activates emergency governance whose restrictions
   defer maintenance, generating anomalies that satisfy the emergency

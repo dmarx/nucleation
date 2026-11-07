@@ -28,8 +28,6 @@ summary: >-
   covariances of sampled grammars. A statement about the statistics of the
   generative model only: it says nothing about what a trained network
   learns, or when, and nothing about natural language.
-extended_by:
-- THEORY-201
 ---
 <!-- inactive-ok-file: THEORY-201 THEORY-673 — Proposed; the account that extends this one, and the split this one follows -->
 

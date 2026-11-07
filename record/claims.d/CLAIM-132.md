@@ -47,8 +47,6 @@ summary: >-
   complete because the category is semisimple. Granted, because it bounds
   the owner's analogy: priority for classifying kinds up to isomorphism,
   in the most favourable setting, and no further.
-supports:
-- CLAIM-249
 ---
 <!-- inactive-ok-file: LIT-893 — Unavailable; registered unread as the standard source for results checked here by reasoning -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-136 — Proposed; the owner's two theses this entry bounds, both open -->

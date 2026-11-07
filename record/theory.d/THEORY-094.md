@@ -47,8 +47,6 @@ summary: >-
   subjects detected at chance, is the one such design Block offers. The
   method is specific to rivalry so far, and Block says there may be no
   general solution.
-presupposed_by:
-- THEORY-098
 bears_on:
 - QUESTION-048
 ---

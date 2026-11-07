@@ -20,8 +20,6 @@ summary: >-
   calibration. It is a measurement on causal GPT models and text
   classification, with the transfer analysis resting on one example set,
   and the paper finds no property of an order that predicts its effect.
-supports:
-- CLAIM-248
 ---
 <!-- inactive-ok-file: THEORY-251 — Proposed; a qualification of this measurement, named, not leaned on -->
 

@@ -27,8 +27,6 @@ summary: >-
   across afternoons, here effort in the work is held high in both. It is
   used for [CLAIM-358](../claims.d/CLAIM-358.md). Stipulated, so it shows what the claim
   distinguishes, not that people differ this way.
-supports:
-- CLAIM-449
 ---
 <!-- inactive-ok-file: CLAIM-162 THEORY-070 CLAIM-358 CLAIM-362 CLAIM-364 — Proposed; the claims and reading the case is set beside, open -->
 

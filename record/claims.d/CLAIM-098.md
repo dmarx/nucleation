@@ -46,16 +46,12 @@ works:
 - what-survives-translation
 rests_on:
 - CLAIM-035
-supersedes:
-- CLAIM-102
 uses:
 - TERM-004
 summary: >-
   Manuscript §4. The one trace the relativity analogy left: symmetry and
   equivariance for exact preservation, a semigroup of stochastic maps
   for the rest.
-objected_by:
-- CLAIM-260
 complements:
 - CLAIM-318
 ---

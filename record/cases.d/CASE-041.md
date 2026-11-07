@@ -31,11 +31,6 @@ summary: >-
   FID's features are ImageNet class evidence, and Kynkäänniemi et al.
   show that such a generator can match FID while doing worse in an
   independent feature space and with human judges.
-supports:
-- CLAIM-149
-- CLAIM-266
-variants:
-- CASE-071
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-005 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

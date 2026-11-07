@@ -53,13 +53,6 @@ summary: >-
   claim. It answers [QUESTION-001](../questions.d/QUESTION-001.md) in part, by naming a failure that
   question did not. It does not say identified factors are never kinds,
   or that the second step is open.
-illustrated_by:
-- CASE-040
-supports:
-- CLAIM-139
-- CLAIM-206
-- CLAIM-204
-- CLAIM-454
 bears_on:
 - QUESTION-001
 ---

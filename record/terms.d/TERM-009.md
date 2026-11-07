@@ -19,15 +19,11 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-032
 summary: >-
   The owner at U28: the levels (linguistic, conceptual, pragmatic,
   interactional, dynamical) organize observables, not objects, and may
   form a partial order. Manuscript §2: "These observations are not
   ordered into one strict ontological ladder."
-used_by:
-- CLAIM-042
 ---
 
 # TERM-009: levels, as levels at which observables exist

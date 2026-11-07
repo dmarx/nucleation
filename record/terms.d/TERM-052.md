@@ -15,11 +15,6 @@ summary: >-
   a discussion, as matured as it has yet become. "Crystallization" is that
   maturing. Asking for the crystallized argument asks for a readout of the
   current terminal state, not for a new act of formation.
-used_by:
-- CLAIM-178
-- CLAIM-186
-- CLAIM-189
-- CLAIM-324
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-185 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->
 

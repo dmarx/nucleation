@@ -17,8 +17,6 @@ summary: >-
   A19's question, after the owner tied the represented / recoverable / actionable
   distinction to QKV attention and Kanerva's sparse distributed memory at U19. The
   record already holds that attention approximates SDM ([LIT-269](../literature.d/LIT-269.md)).
-bearing:
-- CLAIM-298
 ---
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; held without a reading, cited as such -->

@@ -15,10 +15,6 @@ summary: >-
   mapping-then-interpreting, T_τ(f) Φ ≈ Φ T_f. Adds to distribution
   matching rather than replacing it. The origin of the manuscript's
   intertwining defects (§9).
-used_by:
-- CLAIM-117
-- CLAIM-055
-- CLAIM-253
 ---
 
 # TERM-007: fidelity, as preserving the dynamics of interpretation

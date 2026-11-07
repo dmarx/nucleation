@@ -32,8 +32,6 @@ summary: >-
   certifies it optimal, because under step imbalance its off-diagonal
   entries are negative. It does not say that gradient descent or trained
   networks reach this geometry, which is [THEORY-286](THEORY-286.md)'s.
-extended_by:
-- THEORY-286
 ---
 <!-- inactive-ok-file: THEORY-286 — Proposed; the account this core was split from and that extends it, cited as open -->
 

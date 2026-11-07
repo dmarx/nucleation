@@ -106,13 +106,6 @@ summary: >-
   nothing has been measured. One-way drive passes, rightly
   (CLAIM-167), and the direction of coupling gives the system's
   architecture.
-illustrated_by:
-- CASE-045
-objected_by:
-- CLAIM-173
-- CLAIM-194
-supports:
-- CLAIM-174
 ---
 <!-- inactive-ok-file: LIT-1642 — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->

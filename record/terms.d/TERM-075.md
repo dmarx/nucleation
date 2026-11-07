@@ -41,9 +41,6 @@ summary: >-
   owner's request, gathering two phrases from the exchange of that day
   ("socially operative identity" and "recursive social self-modeling")
   that were first left unfiled. Adopted 2026-10-29.
-used_by:
-- CLAIM-425
-- CLAIM-426
 ---
 <!-- inactive-ok-file: LIT-1370 LIT-1394 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-355 CLAIM-415 CLAIM-425 — Proposed; claims, cases, questions and terms cited as open, nothing here rests on their being settled -->

@@ -37,8 +37,6 @@ summary: >-
   the record did not already hold. It separates continuity of an
   organization from continuity of any person in it. Not shown: anything
   about whether the response is experienced.
-variants:
-- CASE-166
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

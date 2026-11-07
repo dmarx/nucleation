@@ -23,8 +23,6 @@ date: '2026-10-22'
 line: will-organization
 illustrates:
 - CLAIM-403
-supports:
-- CLAIM-422
 summary: >-
   The owner's case at U25 of the exchange of 2026-10-22: NASA's mechanisms
   for documenting and learning from mistakes, with Challenger as the

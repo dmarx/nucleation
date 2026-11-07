@@ -20,10 +20,6 @@ summary: >-
   proportionalities. Staleness here is priced as refresh traffic: the source
   guarantees validity, so a stale read is imprecise but never wrong, and there
   is no build cost and no cost of a wrong or imprecise answer.
-extended_by:
-- THEORY-377
-supports:
-- CLAIM-303
 bears_on:
 - QUESTION-114
 ---

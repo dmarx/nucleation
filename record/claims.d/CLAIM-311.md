@@ -28,8 +28,6 @@ summary: >-
   hold. That meets [CLAIM-306](CLAIM-306.md)'s own defeat condition, and the claim is conceded:
   [CLAIM-312](CLAIM-312.md) restates it. Where the arrangement gives no bound, as in
   similarity search in high dimension, [CLAIM-306](CLAIM-306.md)'s asymmetry stands.
-supports:
-- CLAIM-312
 ---
 
 # CLAIM-311: A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists

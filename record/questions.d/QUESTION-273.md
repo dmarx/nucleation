@@ -44,8 +44,6 @@ summary: >-
   opportunities to modify a shared state, and separated nominal access,
   its use and its counterfactual effect. The owner took up the build from
   U37.
-bearing:
-- THEORY-958
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 CLAIM-336 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->

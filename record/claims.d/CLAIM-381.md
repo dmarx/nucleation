@@ -47,8 +47,6 @@ summary: >-
   linear programme. Its restriction to finitely many decision problems is a
   finite computation. It does not say the measure is informative, which is
   [CLAIM-228](CLAIM-228.md)'s empirical question.
-supports:
-- CLAIM-228
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the proposal this was split from, cited as open -->
 

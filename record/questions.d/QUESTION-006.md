@@ -18,8 +18,6 @@ summary: >-
   invariant under which communicative transformations?" The manuscript
   keeps the criterion (§4) and one sub-question, at what stage an
   invariant stops being conserved.
-refined_by:
-- QUESTION-027
 ---
 
 # QUESTION-006: Which pragmatic observables are conserved, exactly or within a bounded defect, by actual reconstruction kernels, and how does that depend on frame, genre and adaptation?

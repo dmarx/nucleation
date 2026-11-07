@@ -42,11 +42,6 @@ summary: >-
   it ("The structural measurements are more informative than lexical
   comparisons alone") and §10 keeps independent responses and split
   annotators; the blinding to condition is not stated.
-objected_by:
-- CLAIM-227
-illustrated_by:
-- CASE-030
-- CASE-032
 ---
 
 # CLAIM-084: Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition, once a measure of footing and stance has been shown reliable

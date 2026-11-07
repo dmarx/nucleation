@@ -40,6 +40,8 @@ summary: >-
   model, so it is a consequence of that model, not a fact about language
   models. It is filed Proposed under the owner's ruling, with the
   condition in the title.
+corroborates:
+- CLAIM-543
 ---
 
 <!-- inactive-ok-file: CLAIM-029 — Proposed; named for the reading it uses, not leaned on -->

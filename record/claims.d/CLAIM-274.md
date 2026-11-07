@@ -34,8 +34,6 @@ answers:
 grounds:
 - CASE-079
 - THEORY-216
-corroborated_by:
-- THEORY-218
 uses:
 - TERM-054
 complements:

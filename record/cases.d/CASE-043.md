@@ -20,8 +20,6 @@ summary: >-
   expect, and it is never read. Unlike the tree, the write was made for
   someone. Used to separate when a message's intended meaning is fixed
   from when its fidelity is measured.
-supports:
-- CLAIM-160
 ---
 <!-- inactive-ok-file: CLAIM-160 — Proposed; the claims this case is used for, open -->
 

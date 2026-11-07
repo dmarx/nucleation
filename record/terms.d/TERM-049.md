@@ -16,16 +16,6 @@ summary: >-
   stated target while it clears the threshold criterion of
   [CLAIM-157](../claims.d/CLAIM-157.md). The record's neutral word for what such a whole is,
   used before asking whether it is an agent or a self.
-used_by:
-- CLAIM-152
-- CLAIM-157
-- CLAIM-165
-- CLAIM-167
-- CLAIM-170
-- CLAIM-172
-- CLAIM-174
-- CLAIM-175
-- CLAIM-166
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the criterion this term defers to and the claims that shaped it, open -->
 

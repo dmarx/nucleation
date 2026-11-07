@@ -38,8 +38,6 @@ summary: >-
   clones itself only if it is non-contextual. No-signalling models on
   finite scenarios only. Which maps are simulations is [THEORY-174](THEORY-174.md)'s open
   half.
-extended_by:
-- THEORY-174
 ---
 
 # THEORY-720: Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned

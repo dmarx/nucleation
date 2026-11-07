@@ -31,8 +31,6 @@ summary: >-
   with contexts indexed by framing order. Active, because it is
   elementary and checkable. It does not say the state-model account is
   wrong, and it does not identify the defects.
-illustrated_by:
-- CASE-065
 ---
 <!-- inactive-ok-file: CLAIM-063 CLAIM-117 — Proposed; the commutator thesis and the dynamics thesis this restates on observations, cited as open -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the procedure-level measure that fixes the kernel across items, cited as open -->

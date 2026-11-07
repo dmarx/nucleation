@@ -12,9 +12,6 @@ tags:
 - individuation
 date: '2026-10-18'
 line: distributed-agency
-supports:
-- CLAIM-327
-- CLAIM-331
 illustrates:
 - CLAIM-287
 - CLAIM-329

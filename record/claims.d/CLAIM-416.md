@@ -48,8 +48,6 @@ complements:
 - CLAIM-402
 grounds:
 - CASE-130
-corroborated_by:
-- THEORY-854
 summary: >-
   From the owner's case at U35 of the exchange of 2026-10-22, rival
   schools of martial arts vying for dominance, and A35–A37's development

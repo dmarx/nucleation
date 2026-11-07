@@ -47,8 +47,6 @@ summary: >-
   safe when the full pass finishes in time. In [CASE-085](../cases.d/CASE-085.md) the EMT knew the drug was
   stocked, which is exactly where Reiter shows the closed-world assumption inconsistent.
   So there it was a decision to stop, not an inference.
-objected_by:
-- CLAIM-311
 ---
 
 # CLAIM-306: Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline

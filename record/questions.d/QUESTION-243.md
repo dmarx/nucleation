@@ -19,9 +19,6 @@ summary: >-
   ways, neither needs the parts to interact, and neither prices a
   feature's size ([THEORY-764](../theory.d/THEORY-764.md)). The joint search for boundary, timescale
   and macrostate, and its test on [CASE-101](../cases.d/CASE-101.md), stay with [QUESTION-115](QUESTION-115.md).
-answered_by:
-- THEORY-424
-- THEORY-764
 ---
 
 # QUESTION-243: Does temporal information retention track causal propagation, do the ΦID criterion Ψ and dynamical independence agree, and does either of those two detect interaction among the parts or price the size of a feature?

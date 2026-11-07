@@ -49,6 +49,8 @@ summary: >-
   small or one-time transfers; the dependable, permanent support the
   record's dependency claims concern is the case the authors leave
   untested.
+corroborates:
+- CLAIM-600
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
 

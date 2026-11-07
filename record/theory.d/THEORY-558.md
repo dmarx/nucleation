@@ -28,8 +28,6 @@ summary: >-
   predicts the condemnation better than perceived harm. The author calls it
   "a plausible alternative", not "an established fact". The disgust
   manipulations that were its direct causal evidence were later disputed.
-presupposed_by:
-- THEORY-539
 ---
 
 # THEORY-558: Moral judgment is usually caused by quick affective intuitions, and moral reasoning is usually a post-hoc search for supporting reasons that changes judgments mainly by triggering intuitions in other people

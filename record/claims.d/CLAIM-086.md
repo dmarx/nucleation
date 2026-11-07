@@ -30,19 +30,12 @@ works:
 - self-as-recursive-ecology
 uses:
 - TERM-017
-argued_by:
-- ARG-001
-- ARG-003
 summary: >-
   The structural lesson the paper takes from Fraenkel (Section 5.6), with
   two independent lines of support: the historical analogy and the
   constructed Northstar case. The audit's "strong conceptual refinement".
 complements:
 - CLAIM-272
-supports:
-- CLAIM-410
-corroborated_by:
-- THEORY-223
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 

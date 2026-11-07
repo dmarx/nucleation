@@ -33,8 +33,6 @@ summary: >-
   two-variable process with nothing hidden shows it is not enough: a acts
   on b within one step, a is Granger-noncausal for b, and setting a(t)
   changes the mean of b(t + 1) by ργ. Checked by hand and by simulation.
-supports:
-- CLAIM-334
 complements:
 - CLAIM-335
 ---

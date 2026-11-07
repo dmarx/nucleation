@@ -58,10 +58,6 @@ summary: >-
   No test needs a kind that outruns every family. A proposal, resting on
   a Proposed premise. It does not touch [CLAIM-139](CLAIM-139.md)'s ontological clause,
   which the programme does not test.
-supports:
-- CLAIM-204
-objected_by:
-- CLAIM-241
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-139 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->

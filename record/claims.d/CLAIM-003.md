@@ -16,8 +16,6 @@ tags:
 - cognition
 date: '2026-10-04'
 line: organizational-affect
-illustrated_by:
-- CASE-033
 summary: >-
   The owner's point at U26: an organization's permission structure plays
   the role functional connectivity plays in a brain, and the daydreaming

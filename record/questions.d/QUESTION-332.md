@@ -12,8 +12,6 @@ date: '2026-10-29'
 line: pragmatic-transport
 refines:
 - QUESTION-055
-answered_by:
-- CLAIM-038
 summary: >-
   The first remaining part of [QUESTION-055](QUESTION-055.md), split off by the fourteenth
   status review under [ADR-049](../decisions.d/ADR-049.md) because [CLAIM-038](../claims.d/CLAIM-038.md) (Active since

@@ -24,11 +24,6 @@ summary: >-
   linear readout of the full density ratio suffices for redundant labels
   ([THEORY-319](../theory.d/THEORY-319.md)). Other spans can tie. Nonlinear decisions, and what picks
   one signature out, stay with [QUESTION-052](QUESTION-052.md).
-answered_by:
-- THEORY-007
-- THEORY-228
-- THEORY-239
-- THEORY-319
 ---
 
 # QUESTION-245: For linear decisions at the population level, if a kind's admissible transformations are given as a distribution over pairs of its realizations, is the top eigenspace of the pair operator a stable, decision-sufficient span, and what span takes that role when the pairs are directed?

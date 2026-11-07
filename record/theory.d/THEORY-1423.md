@@ -42,6 +42,10 @@ summary: >-
   symmetric 5-fold vertex. It does not say anything far from the flat state
   or at large curvature, it does not hold when faces may pass through each
   other, and its multi-vertex extension is conditional.
+corroborates:
+- CLAIM-567
+- CLAIM-568
+- CLAIM-571
 ---
 
 # THEORY-1423: Berry, Lee-Trimble and Santangelo find that near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two stay joined by a neck, except at a degree-four vertex, which is split for both signs

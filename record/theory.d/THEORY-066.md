@@ -26,11 +26,6 @@ summary: >-
   graphical (Pearl) blankets and the 2013 procedure. It does not cover
   the later sparse-coupling definitions at nonequilibrium steady state,
   which the record has not read.
-extended_by:
-- THEORY-073
-supports:
-- CLAIM-152
-- CLAIM-194
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the wider claims this one supports or sits beside, not leaned on -->
 

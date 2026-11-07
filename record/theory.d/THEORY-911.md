@@ -49,8 +49,6 @@ summary: >-
   be unlawful". Descriptive counts and weak logits; nothing here shows that
   emergency measures outlive the emergency. Active as a report (ADR-065);
   the abstract's thesis is THEORY-1198, Proposed.
-supports:
-- CLAIM-445
 ---
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the claim this bears on, named, nothing here rests on it -->
 

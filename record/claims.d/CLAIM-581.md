@@ -51,9 +51,6 @@ rests_on:
 - CLAIM-563
 complements:
 - CLAIM-590
-corroborated_by:
-- THEORY-1420
-- THEORY-1376
 summary: >-
   The assistant's own proposition, filed on 2026-11-05 at the owner's
   invitation to contribute. Take configurations joined by reversible moves,

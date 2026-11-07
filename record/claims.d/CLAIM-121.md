@@ -31,10 +31,6 @@ summary: >-
   Proposition I of A84, Proposition B1 of C6, the manuscript's
   Proposition 1. It concerns marginal consistency, not global
   noncontextuality.
-supports:
-- CLAIM-100
-- CLAIM-125
-- CLAIM-207
 ---
 <!-- ref::uses-file: TERM-008 — stated in "transport"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 

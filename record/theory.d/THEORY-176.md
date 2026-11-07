@@ -36,10 +36,6 @@ summary: >-
   the paper intends, and it meets Blackwell's order only where the fitted
   map reproduces the replaced layers exactly. The relations are this
   record's derivations from the paper's definitions, not the paper's.
-supports:
-- CLAIM-126
-- CLAIM-225
-- CLAIM-199
 ---
 
 # THEORY-176: A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced

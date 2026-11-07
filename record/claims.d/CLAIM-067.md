@@ -25,8 +25,6 @@ summary: >-
   objected that fidelity is similarity within ε, not equivalence. Its
   rationale, test generators and infer trajectories, lives on in the
   drift bound.
-objected_by:
-- CLAIM-106
 ---
 <!-- ref::uses-file: TERM-033 — stated in "fidelity, as observational equivalence over response trajectories"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

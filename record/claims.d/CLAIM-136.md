@@ -22,12 +22,11 @@ grounds:
 - LIT-045
 - LIT-154
 - LIT-895
+- THEORY-032
 complements:
 - CLAIM-137
 uses:
 - TERM-040
-corroborated_by:
-- THEORY-032
 summary: >-
   The owner's U54 position, its second part: "Individuated objects exist,
   but only in so far as they are differentiated by their relata." Filed
@@ -36,11 +35,6 @@ summary: >-
   saying so, from "only in so far as differentiated" to numerical
   plurality without differentiation (A194 §5, A198 §3, A203 §2). The owner
   has not chosen between the two versions.
-objected_by:
-- CLAIM-134
-- CLAIM-138
-illustrated_by:
-- CASE-060
 ---
 <!-- inactive-ok-file: CLAIM-477 LIT-1647 — the general frame (Proposed) and a registered, unread source (Deferred), cited as open -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-134 CLAIM-138 — Proposed; the companion thesis and the two objections to this one, all open -->

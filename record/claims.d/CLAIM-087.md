@@ -51,8 +51,6 @@ summary: >-
 complements:
 - CLAIM-076
 - CLAIM-199
-objected_by:
-- CLAIM-238
 rests_on:
 - CLAIM-225
 ---

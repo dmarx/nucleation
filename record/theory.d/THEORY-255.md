@@ -45,8 +45,6 @@ summary: >-
   emergent sector are models with free parameters, not tests. Negation
   appears only as the orthocomplement used to derive the conjunction
   model from the disjunction model; no negated concept is measured.
-extended_by:
-- THEORY-807
 ---
 <!-- inactive-ok-file: THEORY-807 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-119 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->

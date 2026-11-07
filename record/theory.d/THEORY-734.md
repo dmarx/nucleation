@@ -34,8 +34,6 @@ summary: >-
   trees, fixed-point coordinates in the Poincaré disk, deg_max ≥ 15 and
   ε ≤ 1. It says nothing about H^r for r > 2, or about whether any tree
   needs fewer bits under another number system.
-extended_by:
-- THEORY-196
 ---
 <!-- inactive-ok-file: THEORY-196 — Proposed; the account this was split from and that extends it, cited as open -->
 

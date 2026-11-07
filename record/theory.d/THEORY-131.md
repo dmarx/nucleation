@@ -40,9 +40,6 @@ summary: >-
   test.
 answers:
 - QUESTION-009
-supports:
-- CLAIM-271
-- CLAIM-432
 ---
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit's account, named for comparison -->
 

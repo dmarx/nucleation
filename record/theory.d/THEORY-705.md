@@ -23,8 +23,6 @@ summary: >-
   1 rows reproduce, except two entries that conflict with the paper's own
   Proposition 18. Under this measure, the record's transfer-entropy
   examples split exactly as under I_min.
-supports:
-- CLAIM-335
 ---
 
 

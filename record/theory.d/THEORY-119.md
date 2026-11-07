@@ -57,8 +57,6 @@ summary: >-
   from the prior sign, flickers of freedom, general abilities, and the
   case's oddity. None is settled, and the record has read the replies
   only in survey.
-extended_by:
-- THEORY-121
 answers:
 - QUESTION-068
 ---

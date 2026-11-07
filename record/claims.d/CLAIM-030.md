@@ -34,9 +34,6 @@ grounds:
 - CASE-138
 - THEORY-725
 - THEORY-127
-illustrated_by:
-- CASE-006
-- CASE-025
 summary: >-
   The owner's thesis at U12, and the one that ran through the whole
   exchange. List and Pettit's result that a group judging proposition by
@@ -44,14 +41,8 @@ summary: >-
   formal anchor, proved for the court agenda ([THEORY-725](../theory.d/THEORY-725.md)); the general
   impossibility is [THEORY-127](../theory.d/THEORY-127.md), still Proposed. The fictional cases
   illustrate it.
-supports:
-- CLAIM-192
-- CLAIM-271
 complements:
 - CLAIM-332
-corroborated_by:
-- THEORY-144
-- THEORY-140
 ---
 <!-- inactive-ok-file: THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->

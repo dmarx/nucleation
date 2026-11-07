@@ -22,8 +22,6 @@ summary: >-
   [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, by changing what is attainable, not by weakening a
   demand. The construction says such relief is possible; whether
   specialization produces it is [QUESTION-133](../questions.d/QUESTION-133.md).
-supports:
-- CLAIM-449
 ---
 <!-- inactive-ok-file: CLAIM-553 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

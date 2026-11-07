@@ -36,9 +36,6 @@ summary: >-
   relativity analogy. It fell out with the relativity section, which the
   manuscript omits, not by refutation. The manuscript's four-way split
   (§4) names structural reorganization but gives no criterion.
-supports:
-- CLAIM-129
-- CLAIM-224
 ---
 <!-- ref::uses-file: TERM-030 — the passive/active distinction is between a change in the configuration of the communicative situation and a change in the act configured, which is TERM-030's sense; until 2026-10-27 it used TERM-016, now Superseded -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->

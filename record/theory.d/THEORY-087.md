@@ -70,13 +70,6 @@ summary: >-
   The volume reading of λ is in Watanabe's book, which is unread.
 extends:
 - THEORY-718
-extended_by:
-- THEORY-080
-presupposed_by:
-- THEORY-079
-supports:
-- CLAIM-188
-- CLAIM-450
 ---
 <!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->
 <!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; an account that presupposes this one and one that extends it, named in Connections -->

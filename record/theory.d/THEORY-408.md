@@ -20,9 +20,6 @@ summary: >-
   The maximization theorem needs non-negative total effects on others; for
   harming traits the change only points uphill. r is exact only for loci not
   under selection, and Hamilton could not bound the error (§4).
-extended_by:
-- THEORY-567
-- THEORY-655
 ---
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the kin domain it credits to "Hamilton, 1964" -->

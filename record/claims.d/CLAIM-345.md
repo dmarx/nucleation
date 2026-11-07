@@ -40,8 +40,6 @@ summary: >-
   for it. The sharp edge: the cost is relative to a fixed input norm, and
   rescaling the input makes every b cost the same, so comparing costs
   across systems needs inputs in common units.
-supports:
-- CLAIM-354
 ---
 <!-- inactive-ok-file: CASE-214 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 

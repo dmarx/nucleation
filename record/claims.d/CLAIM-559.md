@@ -39,8 +39,6 @@ uses:
 - TERM-109
 bears_on:
 - QUESTION-394
-illustrated_by:
-- CASE-213
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),

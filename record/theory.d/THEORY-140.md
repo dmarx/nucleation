@@ -39,10 +39,9 @@ summary: >-
   reconstructed after the fact. The title states the Board's finding;
   whether the pattern is general and causal, which is Vaughan's theory in
   a book the record has not read, is QUESTION-334.
-reports:
-- CASE-138
 corroborates:
 - CLAIM-030
+- CLAIM-422
 bears_on:
 - QUESTION-334
 ---

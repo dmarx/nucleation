@@ -42,14 +42,6 @@ summary: >-
   for a place in the argument. It bears on [QUESTION-035](QUESTION-035.md), [QUESTION-033](QUESTION-033.md),
   [CLAIM-172](../claims.d/CLAIM-172.md), [CLAIM-167](../claims.d/CLAIM-167.md) and [CLAIM-158](../claims.d/CLAIM-158.md). [THEORY-129](../theory.d/THEORY-129.md) and [THEORY-130](../theory.d/THEORY-130.md) answer it
   in part; the body gives each one's limit.
-refined_by:
-- QUESTION-084
-- QUESTION-186
-- QUESTION-263
-bearing:
-- THEORY-891
-- THEORY-130
-- THEORY-129
 ---
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?

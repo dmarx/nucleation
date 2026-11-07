@@ -23,9 +23,6 @@ summary: >-
   definitions rather than the stored data, for equivalent rewritings under
   set semantics only; they do not say recognizing reuse is costly in
   practice, and they do not cover contained (partial) rewritings.
-supports:
-- CLAIM-303
-- CLAIM-314
 bears_on:
 - QUESTION-114
 ---

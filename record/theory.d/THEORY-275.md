@@ -59,8 +59,6 @@ summary: >-
   not test an unrecorded drive shared by both units, and it does not
   claim that the measures reveal coupling architecture. Whether the
   same holds in other reciprocally coupled systems is QUESTION-186.
-supports:
-- CLAIM-396
 ---
 <!-- inactive-ok-file: CLAIM-167 THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
 <!-- inactive-ok-file: CLAIM-396 — Proposed; the record's generalization this entry's narrowing dropped, filed apart under ADR-047 v4 with this entry in its grounds -->

@@ -16,13 +16,6 @@ summary: >-
   needed to make the relevant distinctions about the communicative
   situation. Made operational by Blackwell's order; the manuscript's
   decision term (§5, §6).
-used_by:
-- CLAIM-026
-- CLAIM-050
-- CLAIM-218
-- CLAIM-230
-- CLAIM-235
-- CLAIM-259
 ---
 
 # TERM-028: fidelity, as inferential sufficiency

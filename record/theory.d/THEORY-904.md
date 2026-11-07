@@ -43,6 +43,8 @@ summary: >-
   response becomes the wrong one.
 bears_on:
 - QUESTION-314
+corroborates:
+- CLAIM-443
 ---
 <!-- inactive-ok-file: ADR-047 THEORY-1176 — ADR-047 Superseded by ADR-057, which keeps its evidence rulings; THEORY-1176 Proposed, the reading that keeps the general clause of the old title -->
 

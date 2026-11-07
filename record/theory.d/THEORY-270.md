@@ -39,8 +39,6 @@ summary: >-
   O(log|Θ| / (α·min(m,|T|))) is tight up to a constant. Information-
   theoretic only. The prior substitutes for parallel data in learning the
   decoder, not for information in a message.
-extended_by:
-- THEORY-806
 ---
 <!-- inactive-ok-file: THEORY-806 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-170 CLAIM-054 — Proposed; theories and claim this account bears on, open -->

@@ -38,6 +38,8 @@ summary: >-
   indefinitely. Filed as a stand-in reading for Suding, Gross & Houseman
   (2004), [LIT-2169](../literature.d/LIT-2169.md), for its framing only. Active as a report of the
   authors' account.
+corroborates:
+- CLAIM-600
 ---
 
 # THEORY-1468: On Kadowaki and colleagues, restoring the pressure-free conditions of a degraded ecosystem can fail because the degraded phase leaves a reinforcing legacy of its own, such as hardwoods that stop fire spreading, sludge that favours a floating competitor, or eroded beaver sites, so recovery needs direct biotic manipulation, by removal or by reintroduction in the right order, besides abiotic restoration

@@ -23,8 +23,6 @@ date: '2026-10-22'
 line: will-organization
 illustrates:
 - CLAIM-027
-supports:
-- CLAIM-422
 summary: >-
   The owner's class of case, a fireground mayday inside an escalating
   response organized under the National Incident Management System (U23 of

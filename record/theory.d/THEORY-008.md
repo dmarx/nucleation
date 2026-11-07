@@ -63,10 +63,6 @@ summary: >-
   G = C_X.
 extends:
 - THEORY-004
-supports:
-- CLAIM-193
-- CLAIM-269
-- CLAIM-379
 ---
 
 # THEORY-008: On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement

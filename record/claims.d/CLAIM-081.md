@@ -52,8 +52,6 @@ summary: >-
   manuscript §11 keeps it in one line ("converge in surface form while
   diverging in ancestral information"); the named profiles and the
   synthetic construction are gone.
-illustrated_by:
-- CASE-017
 ---
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -62,15 +62,6 @@ summary: >-
   identity is not exhausted by any probe profile. It makes [TERM-014](../terms.d/TERM-014.md)'s
   equivalence class probe-relative, and puts a realist reading over
   [CLAIM-046](CLAIM-046.md)'s methodological ordering.
-illustrated_by:
-- CASE-041
-supports:
-- CLAIM-129
-- CLAIM-133
-- CLAIM-139
-- CLAIM-204
-objected_by:
-- CLAIM-206
 ---
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the definition the Yoneda reading restates, not as current -->
 <!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; the objection that prompted version 2 and the record's reply to it, both open -->

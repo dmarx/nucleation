@@ -16,8 +16,6 @@ tags:
 - philosophy-of-language
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- CLAIM-124
 superseded_by:
 - CLAIM-048
 uses:

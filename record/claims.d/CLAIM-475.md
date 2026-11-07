@@ -46,8 +46,6 @@ rests_on:
 - CLAIM-470
 complements:
 - CLAIM-478
-corroborated_by:
-- THEORY-1072
 uses:
 - TERM-065
 - TERM-064

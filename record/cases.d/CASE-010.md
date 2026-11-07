@@ -17,11 +17,6 @@ summary: >-
   English thieves' slang, refrain "Booze and the blowens cop the lot"
   (U3). Already a radical translation, and deliberately opaque. The
   source of the manuscript's refrain family (§1, §10).
-variants:
-- CASE-012
-- CASE-026
-supports:
-- CLAIM-147
 ---
 
 # CASE-010: Henley's rendering of Villon, "Booze and the blowens cop the lot"

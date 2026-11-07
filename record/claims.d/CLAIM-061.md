@@ -46,10 +46,6 @@ grounds:
 - CASE-027
 - CASE-018
 - CASE-056
-corroborated_by:
-- THEORY-162
-supersedes:
-- CLAIM-006
 uses:
 - TERM-030
 summary: >-
@@ -64,18 +60,6 @@ complements:
 - CLAIM-054
 - CLAIM-084
 - CLAIM-486
-illustrated_by:
-- CASE-012
-- CASE-027
-supports:
-- CLAIM-115
-- CLAIM-129
-- CLAIM-151
-- CLAIM-220
-objected_by:
-- CLAIM-053
-- CLAIM-227
-- CLAIM-229
 ---
 <!-- inactive-ok-file: LIT-766 — Unavailable; Hofstadter, unread here, named as the reading the necessity candidate waits on -->
 

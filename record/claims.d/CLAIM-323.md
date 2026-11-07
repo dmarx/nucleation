@@ -38,8 +38,6 @@ summary: >-
   Z = 1" (the reverse) show neither experiment dominates. It is an
   existence result by construction. It does not say this is the normal
   translation case, which is [CLAIM-258](CLAIM-258.md)'s reading and is interpretive.
-supports:
-- CLAIM-258
 ---
 <!-- inactive-ok-file: CLAIM-258 CLAIM-212 CLAIM-091 — Proposed; the objection this case was split from, the reply that reads it as a report case, and the compensation claim the objection applies it through, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->

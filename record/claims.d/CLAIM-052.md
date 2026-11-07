@@ -50,19 +50,13 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
-supersedes:
-- CLAIM-073
 uses:
 - TERM-024
 - TERM-026
-corroborated_by:
-- THEORY-166
 summary: >-
   A30's H1, "pragmatic noncommutativity", what the owner's U13 claim
   became. Manuscript §9: order-dependent framing "is central to
   pragmatic reconstruction".
-supports:
-- CLAIM-117
 ---
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

@@ -40,12 +40,6 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-154](../claims.d/CLAIM-154.md), [CLAIM-188](../claims.d/CLAIM-188.md),
   [CLAIM-152](../claims.d/CLAIM-152.md) and [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-080](../theory.d/THEORY-080.md) and [THEORY-028](../theory.d/THEORY-028.md) answer it in part;
   the body gives each one's limit.
-refined_by:
-- QUESTION-196
-bearing:
-- THEORY-080
-- THEORY-318
-- THEORY-028
 ---
 
 # QUESTION-040: When the reification rule prices a candidate found in the same data, among many directions the data only partly determine, what must its Occam term count, and how far does the search inflate the candidate's d'?

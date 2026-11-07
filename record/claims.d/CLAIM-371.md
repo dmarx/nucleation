@@ -35,8 +35,6 @@ summary: >-
   componentwise order of [TERM-043](../terms.d/TERM-043.md), a trade-off is incomparability, that a
   trade-off can be resolved either way by positive weights, and that a
   dominance cannot.
-supports:
-- CLAIM-128
 ---
 <!-- inactive-ok-file: CLAIM-128 — Proposed; the thesis this claim was split from and that rests on it, cited as open -->
 

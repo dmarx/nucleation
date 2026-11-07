@@ -50,9 +50,6 @@ summary: >-
   way is argued, and the précis concedes it is hard to test directly. It
   is a claim about how control is achieved, not about whose control is
   self-governance.
-supports:
-- CLAIM-169
-- CLAIM-198
 corroborates:
 - CLAIM-344
 ---

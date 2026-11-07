@@ -66,10 +66,6 @@ summary: >-
   for the targets of individuation to be justified too. It narrows [QUESTION-046](QUESTION-046.md) to the constitutive thesis,
   [CLAIM-412](../claims.d/CLAIM-412.md). An answer is that thesis's missing sufficiency
   condition, which [CLAIM-411](../claims.d/CLAIM-411.md) presses.
-bearing:
-- THEORY-883
-- THEORY-882
-- THEORY-876
 ---
 <!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-412 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->

@@ -14,8 +14,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
-supersedes:
-- CLAIM-109
 uses:
 - TERM-031
 summary: >-

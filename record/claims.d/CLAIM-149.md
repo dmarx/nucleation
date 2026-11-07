@@ -47,8 +47,6 @@ summary: >-
   the exchange did not know of. The documented support is one training
   case, in image generation, and one selection case, in translation
   (CASE-071).
-illustrated_by:
-- CASE-071
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

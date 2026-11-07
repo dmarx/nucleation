@@ -40,6 +40,8 @@ summary: >-
   mediators. The authors' gloss is "instant habits".
 bears_on:
 - QUESTION-308
+corroborates:
+- CLAIM-443
 ---
 <!-- inactive-ok-file: CLAIM-358 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 

@@ -36,11 +36,6 @@ summary: >-
   equivalence at the center of the formal theory". The manuscript is
   built on it: observables are operational, no latent coordinate is
   primitive, and latents are validated by prediction (§2–3).
-supports:
-- CLAIM-142
-- CLAIM-206
-- CLAIM-247
-- CLAIM-253
 complements:
 - CLAIM-217
 ---

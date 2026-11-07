@@ -65,8 +65,6 @@ uses:
 - TERM-040
 - TERM-043
 - TERM-084
-supersedes:
-- CLAIM-139
 summary: >-
   The record's restatement, on 2026-10-10, of [CLAIM-139](CLAIM-139.md) after the
   audit's objections to it ([CLAIM-233](CLAIM-233.md), [CLAIM-232](CLAIM-232.md),
@@ -78,10 +76,6 @@ summary: >-
   is always met or undecidable) with an observable comparison on
   transfer. It supersedes [CLAIM-139](CLAIM-139.md), by the owner's delegated ruling of
   2026-10-29. A proposal, not a finding.
-illustrated_by:
-- CASE-055
-objected_by:
-- CLAIM-216
 ---
 <!-- ref::uses-file: TERM-040 — the claim's subject, named in its title: a communicative kind in this term's sense -->
 <!-- ref::uses-file: TERM-043 — listed by the claim's author and not named in the body; whether the fidelity clause is stated in this sense was raised for the owner when the branch was reconciled with main on 2026-10-12 -->

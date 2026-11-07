@@ -38,8 +38,6 @@ summary: >-
   transformations but cites neither Descola nor the computational work.
 complements:
 - CLAIM-146
-supports:
-- CLAIM-145
 ---
 <!-- inactive-ok-file: LIT-775 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 

@@ -47,8 +47,6 @@ summary: >-
   role, E_i(j, r, c, t), lets i back j as an error detector without
   backing j's authority over the final choice. [CASE-080](../cases.d/CASE-080.md) is the worked
   example. It does not say role boundaries hold under pressure.
-illustrated_by:
-- CASE-080
 bears_on:
 - QUESTION-089
 ---

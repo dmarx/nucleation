@@ -51,8 +51,6 @@ summary: >-
   manipulations. The record objects that the analysis is Propp's and
   Lévi-Strauss's, and that the catalogue cannot validate it
   ([CLAIM-145](CLAIM-145.md)).
-illustrated_by:
-- CASE-038
 bears_on:
 - QUESTION-002
 ---

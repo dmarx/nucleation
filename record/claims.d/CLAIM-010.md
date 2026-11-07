@@ -15,9 +15,6 @@ line: will-organization
 objects_to:
 - CLAIM-012
 - CLAIM-027
-objected_by:
-- CLAIM-062
-- CLAIM-116
 summary: >-
   The permissiveness objection. Raised by the assistant at A112, and
   re-derived at least six times afterwards as though new. Answered by

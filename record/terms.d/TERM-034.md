@@ -15,12 +15,6 @@ summary: >-
   conclusion"). The manuscript never defines fidelity in a sentence: §6
   gives a "flexible directed fidelity functional" and §5 the decision
   comparison.
-used_by:
-- CLAIM-140
-- CLAIM-225
-- CLAIM-244
-- CLAIM-199
-- CLAIM-220
 complements:
 - TERM-064
 ---

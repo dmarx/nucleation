@@ -18,8 +18,6 @@ line: formal-apparatus
 illustrates:
 - CLAIM-037
 - CLAIM-131
-supports:
-- CLAIM-310
 summary: >-
   The example the owner's LEGO monograph (Mathematics of Meaning, "The Lego Parable")
   uses for contextuality, rebuilt. As descriptions the two sortings always share

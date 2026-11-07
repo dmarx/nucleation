@@ -53,6 +53,8 @@ summary: >-
   through the theory's authors, reported without data, and the account's
   stronger claim, that the self is generated rather than stored, is not
   part of it.
+corroborates:
+- CLAIM-491
 ---
 <!-- inactive-ok-file: LIT-1726 LIT-1767 — Unavailable; the primary studies, filed unread, named as what promotion needs -->
 <!-- inactive-ok-file: LIT-1723 — Unavailable; the 1987 book that first stated the account, named, not leaned on -->

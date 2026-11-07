@@ -21,8 +21,6 @@ tags:
 date: '2026-10-21'
 source:
 - LIT-1335
-extended_by:
-- THEORY-838
 summary: >-
   McCombs and Shaw (1972), [LIT-1335](../literature.d/LIT-1335.md), read in [NOTE-1046](../notes.d/NOTE-1046.md). An aggregate
   correlation between a public's ranking of issues and the media's, in one

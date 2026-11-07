@@ -22,8 +22,6 @@ summary: >-
   dictionary equivalent vous differ in coldness. A documented instance
   of the compensation mechanism; the evidence on what readers recover is
   translators' and the author's, not readers'.
-supports:
-- CLAIM-091
 ---
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as the claim this case is filed for, not as settled -->
 

@@ -46,10 +46,6 @@ summary: >-
   creates the conditions under which a particular interpretation becomes
   available." The first filing left both out. It does not say
   interpretation never comes first.
-supports:
-- CLAIM-297
-- CLAIM-341
-- CLAIM-430
 uses:
 - TERM-094
 ---

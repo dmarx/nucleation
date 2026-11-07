@@ -51,11 +51,6 @@ summary: >-
   are the boundary. Whether most of the barrier goes at standard width
   on ImageNet or a language corpus under data-free alignment, and whether
   the barrier left rises with depth, is QUESTION-317.
-extended_by:
-- THEORY-110
-supports:
-- CLAIM-187
-- CLAIM-263
 bears_on:
 - QUESTION-317
 ---

@@ -35,9 +35,6 @@ summary: >-
   balanced, that the result carries to more than two options or to
   non-stationary evidence, or that the primacy and recency seen in six
   participants are explained by it.
-supports:
-- CLAIM-262
-- CLAIM-453
 bears_on:
 - QUESTION-062
 ---

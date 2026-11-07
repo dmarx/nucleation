@@ -49,8 +49,6 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-corroborated_by:
-- THEORY-447
 complements:
 - CLAIM-161
 - CLAIM-280
@@ -70,10 +68,6 @@ summary: >-
   second half is Parfit's branching argument (THEORY-447) applied to
   organizational continuity. It
   uses [TERM-045](../terms.d/TERM-045.md)'s persisting sense.
-illustrated_by:
-- CASE-116
-supports:
-- CLAIM-361
 bears_on:
 - QUESTION-043
 ---

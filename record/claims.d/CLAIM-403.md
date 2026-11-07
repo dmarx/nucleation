@@ -68,14 +68,8 @@ summary: >-
   own signals. This carries it to contributors and adds the top rung,
   Longino's tempered equality and [QUESTION-041](../questions.d/QUESTION-041.md)'s channel. It does not say
   that every contribution is owed uptake.
-illustrated_by:
-- CASE-132
-- CASE-138
 complements:
 - CLAIM-448
-corroborated_by:
-- THEORY-151
-- THEORY-834
 ---
 <!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, a reading that corroborates this claim, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->

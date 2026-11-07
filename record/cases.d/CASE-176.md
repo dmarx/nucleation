@@ -35,9 +35,6 @@ summary: >-
   relations did not. And enforcement settled who held the building before
   any court settled who held the authority. Not shown: what was lost for
   good, or the legal outcome, which is pending.
-supports:
-- CLAIM-462
-- CLAIM-464
 ---
 
 # CASE-176: The United States Institute of Peace, 2025–2026: its board removed and its building entered by DOGE staff with police assistance before any court ruled, nearly all staff dismissed, a district court's judgment that the takeover was unlawful stayed on appeal, and the institution renamed while its legal identity continued

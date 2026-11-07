@@ -743,6 +743,7 @@ schemes:
         required: false
         many: true
         converse: extends
+        derived: true
       compared_against:
         label: Measured against
         blurb: this paper evaluated itself against that one. Somebody ran the comparison; a shared topic
@@ -775,6 +776,7 @@ schemes:
         required: false
         many: true
         converse: corrects
+        derived: true
       supports:
         label: Cited in support by
         blurb: the record's own claims and arguments that rest on this work without a reading of it, written
@@ -783,6 +785,7 @@ schemes:
         required: false
         many: true
         converse: grounds
+        derived: true
       reports:
         label: Reports
         blurb: the cases the record took from this work, written by `luria link --fix` from their `reported_in`
@@ -791,6 +794,7 @@ schemes:
         required: false
         many: true
         converse: reported_in
+        derived: true
       superseded_by:
         scheme:
         - LIT
@@ -858,6 +862,7 @@ schemes:
         required: false
         many: true
         converse: reported_in
+        derived: true
       superseded_by:
         scheme: NOTE
         many: true
@@ -919,6 +924,7 @@ schemes:
         required: false
         many: true
         converse: extends
+        derived: true
       rivals:
         label: Rival account
         blurb: another account of the same phenomenon that cannot also be right, where neither yet corrects
@@ -942,6 +948,7 @@ schemes:
         required: false
         many: true
         converse: corrects
+        derived: true
       presupposes:
         label: Presupposes
         blurb: this account takes the other's conclusion as a premise for a claim about something else.
@@ -958,6 +965,7 @@ schemes:
         required: false
         many: true
         converse: presupposes
+        derived: true
       answers:
         label: Answers
         blurb: a question of the record's own that this account answers, so the question's page shows
@@ -982,6 +990,7 @@ schemes:
         required: false
         many: true
         converse: grounds
+        derived: true
       corroborates:
         label: Corroborates
         blurb: a claim of the record's own that this account gives independent evidence for, without the
@@ -999,6 +1008,7 @@ schemes:
         required: false
         many: true
         converse: reported_in
+        derived: true
       superseded_by:
         scheme: THEORY
         many: true
@@ -1119,6 +1129,7 @@ schemes:
         required: false
         many: true
         converse: refines
+        derived: true
       answered_by:
         label: Answered by
         blurb: the record's own claims and the literature's accounts that answer it, written by `luria
@@ -1127,6 +1138,7 @@ schemes:
         required: false
         many: true
         converse: answers
+        derived: true
       bearing:
         label: Bearing on it
         blurb: the claims and accounts that bear on this question without answering it, written by `luria
@@ -1135,6 +1147,7 @@ schemes:
         required: false
         many: true
         converse: bears_on
+        derived: true
       superseded_by:
         scheme: QUESTION
         many: true
@@ -1214,6 +1227,7 @@ schemes:
         required: false
         many: true
         converse: rests_on
+        derived: true
       argued_by:
         label: Argued by
         blurb: the arguments concluding this claim, written by `luria link --fix` from their `concludes`.
@@ -1222,6 +1236,7 @@ schemes:
         required: false
         many: true
         converse: concludes
+        derived: true
       objects_to:
         label: Objects to
         blurb: the claim this one denies — a rebuttal, or an undermining if that claim is a premise. Walked
@@ -1238,6 +1253,7 @@ schemes:
         required: false
         many: true
         converse: objects_to
+        derived: true
       undercuts:
         label: Undercuts
         blurb: the argument whose inference this claim denies, leaving its premises and its conclusion
@@ -1263,6 +1279,7 @@ schemes:
         required: false
         many: true
         converse: superseded_by
+        derived: true
       complements:
         label: Complements
         blurb: answers a different part of the same question, so the two belong together rather than
@@ -1291,6 +1308,7 @@ schemes:
         required: false
         many: true
         converse: corroborates
+        derived: true
       uses:
         label: Uses the term
         blurb: the TERM this claim is stated in, so that a term's revision finds the claims built on it
@@ -1306,6 +1324,7 @@ schemes:
         required: false
         many: true
         converse: illustrates
+        derived: true
       countered_by:
         label: Countered by
         blurb: the converse of a case's `counterexample_to`, written by `luria link --fix`.
@@ -1313,6 +1332,7 @@ schemes:
         required: false
         many: true
         converse: counterexample_to
+        derived: true
     fields:
       status:
         vocabulary: theory-statuses
@@ -1364,6 +1384,7 @@ schemes:
         required: false
         many: true
         converse: grounds
+        derived: true
       illustrates:
         label: Illustrates
         blurb: a claim this case makes vivid without bearing its weight. Losing the case costs the claim
@@ -1394,6 +1415,7 @@ schemes:
         required: false
         many: true
         converse: variant_of
+        derived: true
       substitutes_for:
         label: Stands in for
         blurb: the case this one replaces in the argument — usually a fictional company standing in for
@@ -1409,6 +1431,7 @@ schemes:
         required: false
         many: true
         converse: substitutes_for
+        derived: true
       reported_in:
         label: Reported in
         blurb: where the record got this case — the work that reports it, the reading that describes
@@ -1469,6 +1492,7 @@ schemes:
         required: false
         many: true
         converse: uses
+        derived: true
       superseded_by:
         label: Superseded by
         blurb: the term whose definition replaced this one's (ADR-032)
@@ -1483,6 +1507,7 @@ schemes:
         required: false
         many: true
         converse: superseded_by
+        derived: true
       rivals:
         label: Rival definition
         blurb: 'another definition of the same concept that cannot be adopted beside this one for the same
@@ -1516,6 +1541,7 @@ schemes:
         required: false
         many: true
         converse: refines
+        derived: true
     fields:
       status:
         vocabulary: statuses
@@ -1574,6 +1600,7 @@ schemes:
         required: false
         many: true
         converse: undercuts
+        derived: true
       uses:
         label: Uses the term
         blurb: the TERM this inference is stated in, so that a term's revision finds the arguments built
@@ -1591,6 +1618,7 @@ schemes:
         required: false
         many: true
         converse: superseded_by
+        derived: true
       superseded_by:
         scheme: ARG
         many: true
@@ -1721,6 +1749,7 @@ schemes:
         required: false
         many: true
         converse: corroborates
+        derived: true
       illustrated_by:
         label: Illustrated by
         blurb: the converse of a case's `illustrates`, written by `luria link --fix`
@@ -1728,6 +1757,7 @@ schemes:
         required: false
         many: true
         converse: illustrates
+        derived: true
       argued_by:
         label: Argued by
         blurb: the arguments concluding this synthesis, written by `luria link --fix` from their
@@ -1736,6 +1766,7 @@ schemes:
         required: false
         many: true
         converse: concludes
+        derived: true
       bears_on:
         label: Bears on
         blurb: a question the synthesis bears on
@@ -1750,6 +1781,7 @@ schemes:
         required: false
         many: true
         converse: superseded_by
+        derived: true
       superseded_by:
         label: Superseded by
         blurb: the synthesis that replaced this one

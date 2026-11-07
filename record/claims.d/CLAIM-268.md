@@ -54,8 +54,6 @@ summary: The general content of [CLAIM-126](CLAIM-126.md), filed alone under [AD
   through a fixed head, orders neither representation, and is not invariant
   under reparametrisation. In both forms a failure says only that no map in
   the class works.
-supports:
-- CLAIM-126
 ---
 
 # CLAIM-268: Model stitching certifies an order of information only in its reconstruction form: a map fitted to reproduce the target layers shows the source representation is at least as informative for every decision on the label, task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency

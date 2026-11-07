@@ -28,10 +28,6 @@ summary: >-
   the student has. Active because each step is checkable in the two
   texts. The claim that the Fisher is the only invariant metric is
   Chentsov's, cited and not held.
-supports:
-- CLAIM-188
-- CLAIM-366
-- CLAIM-450
 ---
 <!-- inactive-ok-file: LIT-354 THEORY-078 — Proposed or Unavailable; named in Connections, nothing here rests on them -->
 

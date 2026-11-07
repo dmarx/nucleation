@@ -37,9 +37,6 @@ summary: >-
 complements:
 - CLAIM-088
 - CLAIM-146
-supports:
-- CLAIM-233
-- CLAIM-202
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->

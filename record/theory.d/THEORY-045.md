@@ -62,9 +62,6 @@ summary: >-
   consciousness, not about affect. Friston ([LIT-526](../literature.d/LIT-526.md)) supports neither.
   Proposed: both sources are theoretical syntheses, and neither tests the
   claim.
-extended_by:
-- THEORY-090
-- THEORY-093
 rivals:
 - THEORY-570
 ---

@@ -92,8 +92,6 @@ summary: >-
   mechanisms. It does not say that any regulator, newsroom or expert body
   is captured. The replies' empirical works, read on 2026-10-21, ground
   the two routes and give nothing to the loop between institutions.
-illustrated_by:
-- CASE-123
 ---
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->

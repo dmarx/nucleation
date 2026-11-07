@@ -23,11 +23,6 @@ summary: >-
   answer; only spacelike-separated events change order between frames,
   and there the frames are reconciled by a Lorentz transformation.
   Standard special relativity; the scenario is the owner's.
-supports:
-- ARG-010
-- CLAIM-143
-- CLAIM-144
-- CLAIM-265
 ---
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this case was offered for, which two claims undercut -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the relativity analogy, which this case does not revive -->

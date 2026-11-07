@@ -28,8 +28,6 @@ summary: >-
   disambiguation entry could save substantial rediscovery"), and at A12,
   A13 and A14, on the owner's U11 and U13. Adopted by the owner on
   2026-10-21. It adopts no definition the record does not already hold.
-used_by:
-- CLAIM-409
 ---
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and agency readings that use organizational closure, cited as open -->

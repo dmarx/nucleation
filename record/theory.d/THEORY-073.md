@@ -44,9 +44,6 @@ summary: >-
   formulation and the applications held. The later steady-state
   definitions have not been read, and the unrestricted claim is
   THEORY-1097, Proposed.
-supports:
-- CLAIM-152
-- CLAIM-194
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 THEORY-043 — Proposed; named as the accounts this one bears on, not leaned on -->
 

@@ -17,8 +17,6 @@ tags:
 - probabilistic-modeling
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- CLAIM-026
 superseded_by:
 - CLAIM-036
 uses:

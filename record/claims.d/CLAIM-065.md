@@ -16,8 +16,6 @@ tags:
 - representation-learning
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- CLAIM-083
 superseded_by:
 - CLAIM-101
 uses:

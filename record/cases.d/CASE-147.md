@@ -20,8 +20,6 @@ tags:
 - moral-psychology
 date: '2026-10-22'
 line: distributed-agency
-supports:
-- CLAIM-430
 summary: >-
   Cited at A4 of the exchange of 2026-10-22, "Ben Franklin Effect
   Explained", as "suggestive evidence" for the prediction that cooperative

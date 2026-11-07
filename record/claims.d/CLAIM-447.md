@@ -40,8 +40,6 @@ complements:
 grounds:
 - THEORY-062
 - THEORY-895
-corroborated_by:
-- THEORY-893
 summary: >-
   The owner's, 2026-10-23, asking what the record's account of wanting is:
   "i just found myself characterizing it as a kind of a prediction about a

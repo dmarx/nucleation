@@ -81,9 +81,6 @@ grounds:
 - THEORY-064
 - THEORY-691
 - THEORY-125
-corroborated_by:
-- THEORY-563
-- THEORY-872
 complements:
 - CLAIM-165
 - CLAIM-155
@@ -112,10 +109,6 @@ summary: >-
   would rest on, [CLAIM-039](CLAIM-039.md), is Deferred, and whether that line reopens is
   the owner's decision, not made here. The sharp edge: it says nothing
   about whether the integrated state is felt.
-illustrated_by:
-- CASE-114
-- CASE-134
-- CASE-137
 bears_on:
 - QUESTION-053
 ---

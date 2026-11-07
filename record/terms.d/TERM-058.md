@@ -17,10 +17,6 @@ summary: >-
   to an information set, predictive, and interventional only under the
   conditions of [THEORY-704](../theory.d/THEORY-704.md). Defined from Barnett, Barrett and Seth,
   Seth, and Eichler and Didelez; Granger (1969) itself is Unavailable.
-used_by:
-- CLAIM-333
-- CLAIM-334
-- CLAIM-335
 ---
 
 # TERM-058: Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention

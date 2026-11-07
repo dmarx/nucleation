@@ -42,8 +42,6 @@ bears_on:
 - QUESTION-380
 complements:
 - CLAIM-594
-corroborated_by:
-- THEORY-1457
 summary: >-
   The assistant's, from A's second synthesis on DNA origami, pasted by the
   owner on 2026-11-05. In A's branching model of assembly, the chance of

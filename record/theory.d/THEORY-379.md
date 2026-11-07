@@ -35,8 +35,6 @@ summary: >-
   not a uniform distribution of grades. For two lists the bound is
   √(Nk). It does not hold for anti-correlated attributes, where any
   algorithm can need about half the objects.
-extended_by:
-- THEORY-832
 ---
 <!-- inactive-ok-file: LIT-1108 — Unavailable or unread; the source of the bound, cited as reported by LIT-1115 -->
 <!-- inactive-ok-file: THEORY-832 — Proposed; the lower bound this entry dropped when it was narrowed, open -->

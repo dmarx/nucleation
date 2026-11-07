@@ -38,8 +38,6 @@ summary: >-
   stored; the paper sets itself against caching.
   Promoted 2026-10-20 on the timing and Table 1 alone (ADR-047 v3); the
   epistemic-action reading is held as THEORY-823.
-extended_by:
-- THEORY-823
 bears_on:
 - QUESTION-095
 ---

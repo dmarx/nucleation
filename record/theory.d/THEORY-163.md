@@ -39,10 +39,6 @@ summary: >-
   what IB optima look like. It does not show that languages are driven to
   the bound by any process, and the need distribution that makes the fit
   best is estimated from the naming data themselves.
-supports:
-- CLAIM-092
-extended_by:
-- THEORY-791
 ---
 <!-- inactive-ok-file: THEORY-791 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 

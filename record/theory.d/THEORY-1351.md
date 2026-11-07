@@ -27,6 +27,7 @@ source:
 - LIT-2003
 corroborates:
 - SYNTHESIS-006
+- CLAIM-474
 summary: >-
   West et al. (2015), [LIT-2003](../literature.d/LIT-2003.md), read in [NOTE-1538](../notes.d/NOTE-1538.md). A colloquium
   review: the definition and the two steps are the authors' framework, and

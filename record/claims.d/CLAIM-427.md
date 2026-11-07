@@ -83,8 +83,6 @@ summary: >-
   the grades and the rule "not to use the framework itself to define
   experimental success". [CLAIM-414](CLAIM-414.md) already meets the first grade for two
   constructions. Nothing in the record meets the third.
-illustrated_by:
-- CASE-166
 ---
 <!-- inactive-ok-file: ARG-025 CLAIM-417 — Proposed; the argument this claim moved to and its conclusion, open -->
 # CLAIM-427: Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms

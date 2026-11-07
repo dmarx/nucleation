@@ -27,8 +27,6 @@ summary: >-
   whether the pairwise distributions are marginals of one global
   distribution. Replaced in the manuscript by a deterministic parity
   example.
-variants:
-- CASE-035
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

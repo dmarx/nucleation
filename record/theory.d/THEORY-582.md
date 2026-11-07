@@ -22,11 +22,6 @@ summary: >-
   "coupling-constitution fallacy". The point is that coupling does not
   entail parthood. It is not shown that coupling never accompanies
   parthood, nor that the extended-mind authors relied on coupling alone.
-presupposed_by:
-- THEORY-591
-supports:
-- CLAIM-172
-- CLAIM-173
 ---
 <!-- inactive-ok-file: THEORY-591 THEORY-528 THEORY-512 — Proposed; accounts that accept or answer this point, named in Connections, not leaned on -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 CLAIM-173 — Proposed or Rejected; the record's claims this objection bears on, named in Connections, not leaned on -->

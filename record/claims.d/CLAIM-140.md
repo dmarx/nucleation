@@ -24,9 +24,6 @@ summary: >-
   Filed by the record's reading of A218; no turn of the exchange says it.
   It objects to [CLAIM-139](CLAIM-139.md) as stated, not to its truth, and it is
   granted because it is a comparison of texts.
-supports:
-- CLAIM-211
-- CLAIM-223
 ---
 <!-- inactive-ok-file: CLAIM-139 CLAIM-115 — Proposed; open, and cited as open: the theses compared and the receiver-side claim are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the earlier thesis that still kept the receiver -->

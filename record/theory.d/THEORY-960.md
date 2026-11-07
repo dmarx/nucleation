@@ -31,8 +31,6 @@ summary: >-
   their periods. It is not about how much each member trusts itself. The
   weights are fixed and no evidence enters, so nothing here says the
   consensus is right, and the periodic failure is a discrete-time one.
-supports:
-- CLAIM-453
 ---
 <!-- inactive-ok-file: CLAIM-262 — Proposed; named for the exchange's reading of influence, nothing here rests on it -->
 # THEORY-960: In DeGroot's model, where each member repeatedly replaces its opinion by a fixed weighted average of all members' current opinions, F⁽ⁿ⁾ = PⁿF, the group reaches a consensus from every starting set of opinions exactly when the chain P has a single closed class of communicating members and that class is aperiodic; the consensus is then Σπᵢ Fᵢ with π the unique stationary vector, πP = π, which gives members outside the closed class no weight; two closed classes, or one periodic class, give no consensus

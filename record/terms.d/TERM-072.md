@@ -73,13 +73,6 @@ summary: >-
   Self-maintaining organizational perspective is a narrower subclass, not
   the definition. Adopted 2026-10-29, with character and lineage read as
   relations among realizations.
-used_by:
-- CLAIM-412
-- CLAIM-417
-- CLAIM-424
-- CLAIM-418
-- CLAIM-430
-- CLAIM-454
 ---
 <!-- inactive-ok-file: TERM-118 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->

@@ -40,10 +40,6 @@ summary: >-
   individuate them. The self's intertemporal multiplicity is then a
   variable, not a constant. It does not say that all multiplicity of
   self is intertemporal.
-supports:
-- CLAIM-156
-- CLAIM-162
-- CLAIM-198
 bears_on:
 - QUESTION-034
 ---

@@ -47,8 +47,6 @@ summary: >-
   "ontological agency", not a test. The authors read the inaction as
   coping that lets securitisation reproduce itself, not as resistance to
   it.
-supports:
-- CLAIM-445
 ---
 <!-- inactive-ok-file: CLAIM-445 CLAIM-446 — Proposed; the claims this bears on, named, nothing here rests on them -->
 

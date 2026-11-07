@@ -20,8 +20,6 @@ summary: >-
   its micro, in systems that maintain nothing and with a grouping an
   analyst chose. Which criteria a higher-level agent needs stays with
   [QUESTION-093](QUESTION-093.md).
-answered_by:
-- THEORY-222
 ---
 
 # QUESTION-250: Can a macro description of a known mechanism have interventional autonomy, an effective-information advantage over its micro description, without organizational closure or self-individuation?

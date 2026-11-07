@@ -40,8 +40,6 @@ summary: >-
   ([LIT-1079](../literature.d/LIT-1079.md)). An agent that rewrites its own task adds [TERM-056](../terms.d/TERM-056.md), which
   A21 judged "arguably more consequential". The exchange did this itself between
   A2 and A13.
-objected_by:
-- CLAIM-292
 bears_on:
 - QUESTION-107
 ---

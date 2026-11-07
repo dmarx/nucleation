@@ -35,10 +35,6 @@ illustrates:
 - CLAIM-158
 - CLAIM-122
 - CLAIM-261
-supports:
-- CLAIM-272
-variants:
-- CASE-160
 ---
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in

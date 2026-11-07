@@ -34,10 +34,6 @@ summary: >-
   higher-level relations are typically insensitive to their realizers is
   an observation about scientific practice, and Pernu disputes the paper's
   main example. Which systems meet the condition is [QUESTION-213](../questions.d/QUESTION-213.md).
-supports:
-- CLAIM-158
-presupposed_by:
-- THEORY-410
 ---
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->
 

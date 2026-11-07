@@ -41,6 +41,8 @@ summary: >-
   [NOTE-1652](../notes.d/NOTE-1652.md); the SI was not read. Active as a report of what the authors show, with the hedge that the hatchery advantage is significant only with 1995 excluded; one population, and the per-year results and the 1995 release details rest on SI tables not read. It does
   not identify the traits selected, does not show crowding is the
   pressure (one year), and does not say other taxa respond as fast.
+corroborates:
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Christie et al. (2012) as open -->
 

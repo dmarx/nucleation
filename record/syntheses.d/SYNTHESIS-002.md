@@ -68,8 +68,6 @@ bears_on:
 - QUESTION-441
 - QUESTION-129
 - QUESTION-041
-supersedes:
-- CLAIM-624
 summary: >-
   A's answer to the owner's U27 and U28 in the second share of the
   exchange "Individuation, Possibility, and Disposition" (2026-11-06 to

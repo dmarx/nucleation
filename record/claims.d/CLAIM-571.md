@@ -65,10 +65,6 @@ line:
 - readiness
 - realizability
 - formal-apparatus
-corroborated_by:
-- THEORY-1423
-- THEORY-1420
-- THEORY-1376
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

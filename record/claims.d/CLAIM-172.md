@@ -125,15 +125,8 @@ summary: >-
   new system by its collective variable. It does not cover a passive
   store like Otto's notebook, which is coupled across time by writing
   and reading, not by timing.
-objected_by:
-- CLAIM-165
-illustrated_by:
-- CASE-050
 complements:
 - CLAIM-157
-corroborated_by:
-- THEORY-265
-- THEORY-069
 ---
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->

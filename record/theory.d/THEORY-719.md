@@ -32,8 +32,6 @@ summary: >-
   negative classes by the log-odds log K⁺, so its exponentiated score is
   K⁺. Population optima over unconstrained functions only; not what an
   encoder reaches, and not InfoNCE, which is [THEORY-001](THEORY-001.md)'s open part.
-extended_by:
-- THEORY-001
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the three-way account this half was split from and that extends it, cited as open -->
 

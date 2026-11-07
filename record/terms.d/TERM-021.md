@@ -10,18 +10,10 @@ tags:
 - probabilistic-modeling
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-013
 summary: >-
   A24: D(τ) = Σ_C w_C d(e_C^source, e_τ(C)^target), the weighted
   distance between judgement distributions in corresponding contexts.
   The origin of the manuscript's L_obs (§6).
-used_by:
-- CLAIM-005
-- CLAIM-207
-- CLAIM-256
-- CLAIM-228
-- CLAIM-257
 ---
 
 # TERM-021: fidelity, as context-indexed distribution matching

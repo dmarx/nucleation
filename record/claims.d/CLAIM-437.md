@@ -54,8 +54,6 @@ summary: >-
   Scherer's micro-valences already do, makes the system's valence the
   prevailing perspective's, and answers two problems the readings of
   incentive sensitization left open.
-supports:
-- CLAIM-447
 ---
 <!-- inactive-ok-file: CLAIM-440 CLAIM-433 THEORY-893 THEORY-895 TERM-076 CLAIM-439 — Proposed or Open; the claims, readings, term and questions this reading bears on, cited as open -->
 

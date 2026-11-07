@@ -45,8 +45,6 @@ summary: >-
   only the exact half.
   Promoted on 2026-10-20 on the exact half, re-derived. The SGD half is
   QUESTION-206.
-extended_by:
-- THEORY-781
 bears_on:
 - QUESTION-058
 ---

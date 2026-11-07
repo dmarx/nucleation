@@ -50,9 +50,6 @@ summary: >-
   does not say judges track descent.
 grounds:
 - CASE-054
-illustrated_by:
-- CASE-121
-- CASE-122
 ---
 <!-- inactive-ok-file: CLAIM-246 — Rejected; the objection this claim answers, cited as answered -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-139 — Proposed; the theses this claim reads and sits beside, cited as open, not settled -->

@@ -37,8 +37,6 @@ summary: >-
   1/n with contextual fractions 1 and 0. For n = 3 it is [CASE-037](../cases.d/CASE-037.md) with one
   observable relabelled. It answers how small the local change can be; it
   says nothing about whether any data are contextual.
-supports:
-- CLAIM-201
 ---
 <!-- ref::uses-file: TERM-043 — applied unnamed: the weighted observational distortion D_obs computed in the example is the observational component of the profile this term defines -->
 <!-- inactive-ok-file: CLAIM-201 CLAIM-105 — Proposed; the narrowing that rests on this and the headline it bears on, cited as open -->

@@ -21,9 +21,6 @@ summary: >-
   [CLAIM-296](../claims.d/CLAIM-296.md) and is the source of [TERM-055](../terms.d/TERM-055.md). Stipulated, not documented:
   the event is real, and the only source is the owner's retrospective account, which
   a reader cannot check.
-supports:
-- CLAIM-306
-- CLAIM-312
 ---
 
 # CASE-085: The medication in the ambulance: a drug the EMT knew was stocked could not be found during a resuscitation, the paramedic changed the request, and afterwards said "If I can't find it, it isn't there"

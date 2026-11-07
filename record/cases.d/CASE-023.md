@@ -14,12 +14,6 @@ date: '2026-10-04'
 line: will-organization
 illustrates:
 - CLAIM-027
-variants:
-- CASE-002
-- CASE-003
-- CASE-036
-- CASE-134
-- CASE-166
 summary: >-
   A fictional software company whose stated policy gives reliability
   priority over release speed, and whose escalation and authority

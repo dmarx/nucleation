@@ -20,8 +20,6 @@ summary: >-
   gpt-4.1-mini at temperature 0.7, seed 1729. Only a dry run was
   executed: "No model-generated observations were recorded." The design
   is the manuscript's Case II.
-supports:
-- CLAIM-028
 ---
 
 # CASE-020: E3: the controlled inference harness, dry run only (C5)

@@ -28,8 +28,6 @@ summary: >-
   individual topics, which are recovered only by privileging the
   nonnegative representation, and uniquely only under separability or
   anchor-word conditions.
-illustrated_by:
-- CASE-042
 ---
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history of an earlier prior-art retraction -->
 

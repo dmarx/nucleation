@@ -30,8 +30,6 @@ summary: >-
   subadditivity and Hrbacek's Closure principle. A result inside the
   framework: it says nothing about whether belief has levels, and any
   explicit level boundary collapses the model back to a fixed threshold.
-extended_by:
-- THEORY-647
 ---
 <!-- inactive-ok-file: THEORY-647 — Proposed; the thesis this result was split from, cited for what it argues -->
 

@@ -35,8 +35,6 @@ summary: >-
   coverage moves against it. Hungary under right-wing governments only;
   left-wing favoritism is not settled, and the reduced form does not say
   whether content favors were bought or shared.
-supports:
-- CLAIM-404
 ---
 
 # THEORY-850: In Hungary, 1994–2016, state-owned firms' advertising, and not private firms', shifted sharply toward print and online outlets when they became connected to the governing right and away when the 2015 Orbán–Simicska fallout ended a connection, at all five such events studied; and the outlets' share of articles on corruption scandals moved the opposite way at the three events with content data

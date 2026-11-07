@@ -67,8 +67,6 @@ summary: >-
   The edge is A37's: "the capacity to revise the standards of evaluation is
   not equivalent to the capacity to revise them well", which keeps
   [CLAIM-288](CLAIM-288.md)'s objection standing.
-illustrated_by:
-- CASE-127
 ---
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

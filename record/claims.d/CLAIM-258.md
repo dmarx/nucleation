@@ -40,8 +40,6 @@ summary: >-
   then, but typically leaves source and target incomparable, and the
   direction the manuscript uses says nothing. It does not say
   decision-relative fidelity is wrong.
-objected_by:
-- CLAIM-212
 ---
 <!-- inactive-ok-file: CLAIM-091 CLAIM-034 — Proposed; the compensation, interpreter and adaptive-translation claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-128 — Proposed; the theses that rest on CLAIM-050, the open problem beside this one and the profile claim, cited as open -->

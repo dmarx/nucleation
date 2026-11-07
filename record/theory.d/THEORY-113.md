@@ -37,9 +37,6 @@ summary: >-
   ImageNet-1k, ZipIt! is no better than permutation (8.6%). No same-task
   control separates the effect of task difference from that of depth;
   that is QUESTION-316.
-supports:
-- CLAIM-187
-- CLAIM-263
 bears_on:
 - QUESTION-316
 ---

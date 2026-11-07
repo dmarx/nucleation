@@ -24,10 +24,6 @@ summary: >-
   refuted for operations by a classical counterexample (A30) that the
   owner never contested, so Rejected; what replaced it is pragmatic
   noncommutativity, which the manuscript keeps.
-countered_by:
-- CASE-001
-objected_by:
-- CLAIM-041
 ---
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

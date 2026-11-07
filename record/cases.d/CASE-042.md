@@ -30,11 +30,6 @@ summary: >-
   nonnegativity plus separability or anchor-word conditions. It shows that
   recovery is possible and limited, not that a recovered component is a
   communicative kind.
-supports:
-- CLAIM-135
-- CLAIM-146
-- CLAIM-226
-- CLAIM-230
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as claims this case bears on, not as settled -->
 <!-- inactive-ok-file: LIT-677 THEORY-182 — Proposed; cited as readings the record already held that bear on the case -->

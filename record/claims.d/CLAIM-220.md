@@ -47,8 +47,6 @@ complements:
 - CLAIM-252
 uses:
 - TERM-034
-supersedes:
-- CLAIM-115
 works:
 - what-survives-translation
 bears_on:
@@ -64,8 +62,6 @@ summary: >-
   2026-10-29. It is a proposal, not a finding. It does
   not claim the line's distinctive machinery is needed: that is
   [CLAIM-202](CLAIM-202.md).
-illustrated_by:
-- CASE-055
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-082 — the thesis this supersedes, and the premises it keeps or drops, cited as they stand -->
 <!-- inactive-ok-file: CLAIM-202 CLAIM-242 — Proposed; the record's other replies of 2026-10-10, open, cited for the parts of the thesis they carry -->

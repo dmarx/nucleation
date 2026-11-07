@@ -37,8 +37,6 @@ summary: >-
   the same time. Named because the exchange used the object in four turns (A7 to A10)
   under "remedial reach", "effective remedial capacity", "effective
   answerability" and "correctability frontier". Adopted 2026-10-29.
-used_by:
-- CLAIM-462
 
 ---
 

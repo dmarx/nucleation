@@ -33,9 +33,6 @@ summary: >-
   communicative object is such a presheaf is QUESTION-332, Answered
   by CLAIM-038. Over which base, and whether probes split it into
   sectors, stays with [QUESTION-055](QUESTION-055.md).
-answered_by:
-- THEORY-037
-- THEORY-516
 ---
 
 # QUESTION-247: If the communicative object is a presheaf of propositions over a category of contexts, is the negation its topos logic gives an orthocomplement or a Heyting pseudo-complement, and what fixes it?

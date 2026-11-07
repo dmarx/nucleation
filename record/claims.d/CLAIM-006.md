@@ -25,12 +25,6 @@ summary: >-
   speech-act terms over A11–A14, losing "the main thing" on the way, and
   replaced by the manuscript's weaker claim that proposition
   preservation is neither necessary nor sufficient.
-illustrated_by:
-- CASE-012
-objected_by:
-- CLAIM-004
-supports:
-- ARG-004
 ---
 <!-- ref::uses-file: TERM-029 — stated in "frame, as the position a rendering is delivered from", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

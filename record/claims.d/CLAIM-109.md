@@ -24,8 +24,6 @@ summary: >-
   A21's "preferred formulation", reached by the quantum-cognition
   analogy. Withdrawn over A24–A30 as the inference was undercut, and
   replaced by a hypothesis held open for test.
-argued_by:
-- ARG-002
 ---
 <!-- ref::uses-file: TERM-016 — stated in "frame, as a pragmatic frame of reference", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->

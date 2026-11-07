@@ -20,9 +20,6 @@ summary: >-
   designate the successor fandom. The lineages are documented; how
   supporters actually distributed their loyalties is not, and the case
   does not show that a fandom's identity branched.
-supports:
-- CLAIM-329
-- CLAIM-328
 ---
 
 <!-- inactive-ok-file: LIT-1140 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

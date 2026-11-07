@@ -10,17 +10,11 @@ tags:
 - philosophy-of-language
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-016
 summary: >-
   A24: a communicative situation C = (u, s, a, k, g) indexing the
   distribution of pragmatic judgements, P(J = j | C). Footing becomes
   one coordinate of the context. Survives as the manuscript's
   measurement contexts (§3).
-used_by:
-- CLAIM-009
-- CLAIM-091
-- CLAIM-336
 superseded_by:
 - TERM-030
 ---

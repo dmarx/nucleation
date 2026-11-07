@@ -29,8 +29,6 @@ summary: >-
   commuting condition. It does not make the coarse endogenous state carry
   the high-level context, which is what governance-response sufficiency
   would need.
-supports:
-- CLAIM-399
 ---
 
 # THEORY-849: For deterministic causal models with a countable set of allowed interventions, a high-level model reproduces the coarse-grained interventional law of a low-level one for every distribution on contexts exactly when some map τ_U on contexts commutes with every allowed intervention, τ(M_L(u, i)) = M_H(τ_U(u), ω(i)); exactness for one distribution is strictly weaker, since a well-chosen distribution lets unrelated models match, and τ-abstraction and strong abstraction are strictly stronger; the context map is only required to exist, so high-level exogenous variables may carry what the coarse state drops

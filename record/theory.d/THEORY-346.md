@@ -23,8 +23,6 @@ summary: >-
   rival model. Errors in the 2004 study differed only against a group that
   memorized under several other changes, and the 2006 model has no wrong
   retrievals, no precomputation, no reuse across trials and no staleness.
-supports:
-- CLAIM-296
 bears_on:
 - QUESTION-095
 ---

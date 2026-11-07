@@ -42,8 +42,6 @@ rests_on:
 - CLAIM-542
 grounds:
 - THEORY-1432
-corroborated_by:
-- THEORY-1390
 complements:
 - CLAIM-354
 - CLAIM-567

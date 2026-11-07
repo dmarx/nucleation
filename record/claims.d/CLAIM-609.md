@@ -56,8 +56,6 @@ tags:
 date: '2026-11-06'
 line:
 - realizability
-corroborated_by:
-- THEORY-1414
 summary: >-
   The status review's own result, from reading Rocks and Mehta in full
   ([NOTE-1557](../notes.d/NOTE-1557.md)). It sharpens [THEORY-1414](../theory.d/THEORY-1414.md): there, prestress redirects and

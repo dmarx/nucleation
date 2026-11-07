@@ -19,9 +19,6 @@ summary: >-
   proposition kept, but the speaker made to sound like an academic
   sociologist. Something fundamental has changed, so keeping the
   proposition is not sufficient.
-supports:
-- CLAIM-061
-- CLAIM-229
 ---
 
 # CASE-027: Henley translated perfectly in the voice of an academic sociologist

@@ -54,11 +54,6 @@ summary: >-
   Proposed: the evidence is pairs and small complexes of CIFAR classifiers.
 extends:
 - THEORY-736
-extended_by:
-- THEORY-110
-- THEORY-112
-- THEORY-114
-- THEORY-557
 bears_on:
 - QUESTION-069
 ---

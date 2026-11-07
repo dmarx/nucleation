@@ -51,8 +51,6 @@ summary: >-
   under class imbalance. The paper's further claim, that the Hessian's
   class outliers are a symptom of collapse, is argued and not measured,
   and is left to [THEORY-078](THEORY-078.md).
-extended_by:
-- THEORY-788
 bears_on:
 - QUESTION-051
 ---

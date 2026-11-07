@@ -19,8 +19,6 @@ summary: >-
   says the uniqueness theorem for H is "in no way necessary" to the
   theory. The theorems assume ergodic, finite-state sources and channels
   and say nothing about meaning.
-supports:
-- CLAIM-050
 ---
 
 <!-- inactive-ok-file: LIT-317 — Unavailable; named for what it adds to this paper, not leaned on -->

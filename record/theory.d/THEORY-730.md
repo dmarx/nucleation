@@ -32,8 +32,6 @@ summary: >-
   positive and negative parts of M* to be translation invariant
   separately (Assumption B.1), not M* alone. It says nothing about whether
   any corpus or model satisfies these conditions, which is [THEORY-183](THEORY-183.md).
-extended_by:
-- THEORY-183
 ---
 <!-- inactive-ok-file: THEORY-183 THEORY-182 — Proposed; the empirical account this was split from, and the premise about trained embeddings that this result does not assume -->
 

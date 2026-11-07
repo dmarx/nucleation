@@ -25,8 +25,6 @@ summary: >-
   against storing the base view alone, not on query cost, and it holds only with
   no updates: once upkeep enters the objective it is proved only for AND graphs
   in which every view is queried more often than it is updated.
-extended_by:
-- THEORY-350
 bears_on:
 - QUESTION-114
 ---

@@ -19,8 +19,6 @@ tags:
 - social-ontology
 line: distributed-agency
 date: '2026-10-28'
-supports:
-- CLAIM-277
 summary: >-
   Filed by the fourth status review ([ADR-057](../decisions.d/ADR-057.md)) for [CLAIM-277](../claims.d/CLAIM-277.md), whose two
   loops the record had stated and not constructed. Two operators share one

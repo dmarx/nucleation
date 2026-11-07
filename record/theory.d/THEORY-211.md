@@ -49,10 +49,6 @@ summary: >-
   above a critical temperature. The law is re-derived here (2026-10-19)
   within the SDE model; the tests are small synthetic networks, and
   whether it holds in deep networks on real data is QUESTION-164.
-supports:
-- CLAIM-093
-extended_by:
-- THEORY-790
 bears_on:
 - QUESTION-080
 - QUESTION-069

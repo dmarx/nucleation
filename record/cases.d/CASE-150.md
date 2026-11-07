@@ -20,8 +20,6 @@ tags:
 - social-science
 date: '2026-10-22'
 line: distributed-agency
-supports:
-- CLAIM-428
 summary: >-
   Cited at A6 of the exchange of 2026-10-22, "Ben Franklin Effect
   Explained", after the owner's U6 on trade and peace, as "a paper that

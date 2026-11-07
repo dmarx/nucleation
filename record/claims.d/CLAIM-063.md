@@ -61,10 +61,6 @@ summary: >-
   A34 §4, made approximate at A40 §6.4 and stated in the manuscript §9
   as the commutator-distortion identity. Its argument is an ARG because
   A40 limited the inference: the conclusion holds of Φ's image only.
-argued_by:
-- ARG-006
-objected_by:
-- CLAIM-253
 complements:
 - CLAIM-231
 - CLAIM-117

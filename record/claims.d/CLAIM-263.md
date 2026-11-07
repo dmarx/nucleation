@@ -65,8 +65,6 @@ summary: >-
   test cannot run where features have no counterpart ([THEORY-113](../theory.d/THEORY-113.md)) or the
   objectives share no structure ([THEORY-115](../theory.d/THEORY-115.md)). It is the first claim in
   the learned-structure line.
-supports:
-- CLAIM-187
 complements:
 - CLAIM-366
 ---

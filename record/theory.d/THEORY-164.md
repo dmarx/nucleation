@@ -45,6 +45,8 @@ summary: >-
   mechanism supported by lagged association, not manipulation. It says
   nothing yet about natural communities, where size travels with network
   density and second-language learners.
+corroborates:
+- CLAIM-068
 ---
 
 

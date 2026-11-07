@@ -35,14 +35,6 @@ summary: >-
   coarse-grainings Y = LX of a stable VAR with non-degenerate Gaussian
   innovations only. It says nothing about near-independence, about the
   multimodality of the dynamical-dependence cost, or about nonlinear maps.
-extended_by:
-- THEORY-257
-supports:
-- CLAIM-388
-- CLAIM-389
-- CLAIM-390
-- CLAIM-394
-- CLAIM-398
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account this was split from and that extends it, cited as open -->
 

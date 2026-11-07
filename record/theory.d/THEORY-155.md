@@ -40,11 +40,8 @@ summary: >-
   reach the prior, and Kirby, Cornish & Smith's laboratory chains,
   [LIT-771](../literature.d/LIT-771.md), are consistent with it without testing it. Whether human
   chains do is [QUESTION-137](../questions.d/QUESTION-137.md).
-supports:
-- CLAIM-066
-- CLAIM-090
-- CLAIM-234
-- CLAIM-191
+corroborates:
+- CLAIM-049
 ---
 
 <!-- inactive-ok-file: NOTE-596 — Skimmed; cited for what Kirby, Cornish & Smith's chains do and do not test, not leaned on -->

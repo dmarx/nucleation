@@ -97,8 +97,6 @@ grounds:
 - THEORY-1088
 - THEORY-1090
 - CASE-179
-corroborated_by:
-- THEORY-1351
 uses:
 - TERM-088
 - TERM-093

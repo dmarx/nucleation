@@ -27,8 +27,6 @@ summary: >-
   u_t), "an interesting middle position between our original
   relativistic account and the later dynamical account". Dropped at
   outline v3 without critique.
-objected_by:
-- CLAIM-236
 complements:
 - CLAIM-214
 ---

@@ -31,8 +31,6 @@ summary: >-
   It separates two things the locked-in case runs together: evidence the
   loop did not select, which a paralysed person still receives, and
   contingency between intention and outcome, which they lose.
-refined_by:
-- QUESTION-239
 ---
 
 # QUESTION-121: Within a single mind, what plays the part of the operator model's independent scoring: what evidence reaches a judgement–observation loop, or what scores it, without passing through the interpretation it tests, and does any of it survive the loss of all action?

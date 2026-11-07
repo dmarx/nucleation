@@ -13,15 +13,10 @@ date: '2026-10-05'
 line: will-organization
 works:
 - organization-of-will
-supports:
-- ARG-009
-- CLAIM-027
 summary: >-
   The supposition that scopes the whole paper (Sections 1, 2, 7.4).
   Everything resting on it is conditional on it; Northstar is assumed to
   be an agent "for purposes of analysis".
-supersedes:
-- CLAIM-062
 ---
 <!-- inactive-ok-file: THEORY-1280 THEORY-1277 THEORY-1284 QUESTION-009 — Proposed or Open; the readings set against and beside this supposition, and the questions it leaves open -->
 

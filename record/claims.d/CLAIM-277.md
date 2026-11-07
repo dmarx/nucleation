@@ -64,13 +64,6 @@ summary: >-
   forget. A5 added
   the converse: the same loop turns an early lead into durable authority.
   The claim does not say which of the two a given organization does.
-supports:
-- CLAIM-297
-- CLAIM-344
-- CLAIM-406
-- CLAIM-443
-illustrated_by:
-- CASE-162
 rests_on:
 - CLAIM-282
 grounds:

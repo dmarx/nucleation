@@ -17,8 +17,6 @@ works:
 - what-survives-translation
 objects_to:
 - CLAIM-001
-supersedes:
-- CLAIM-120
 summary: >-
   A97's own two limits, which the manuscript §7 keeps. They became the
   whole of the claim once generation was demoted from realization to

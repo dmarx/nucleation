@@ -18,15 +18,10 @@ tags:
 - agency
 date: '2026-10-04'
 line: authenticity
-answered_by:
-- CLAIM-016
-- THEORY-121
 summary: >-
   The ownership question. The authenticity line was built to answer it and
   was set aside with it at the audit of 2026-10-05; the paper now
   disclaims it ([CLAIM-022](../claims.d/CLAIM-022.md)).
-refined_by:
-- QUESTION-057
 ---
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, set beside this question -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; set aside, and cited to say what was set aside with it -->

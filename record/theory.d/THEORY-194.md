@@ -67,10 +67,6 @@ summary: >-
   chains. The general equivalence of the objective with a short-ranged
   effective Hamiltonian is argued, not proved, and no system with unknown
   relevant variables was tried.
-supports:
-- CLAIM-152
-extended_by:
-- THEORY-789
 ---
 
 <!-- inactive-ok-file: THEORY-789 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

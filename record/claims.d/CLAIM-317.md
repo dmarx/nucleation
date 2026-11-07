@@ -39,8 +39,6 @@ summary: >-
   documented with interviews and examples, not measured, and the
   Carmichael case reaches the record secondhand, so it stays Proposed. It
   says nothing about overlaps, covers or gluing; that is [CLAIM-196](CLAIM-196.md)'s.
-supports:
-- CLAIM-196
 ---
 <!-- inactive-ok-file: THEORY-406 — Proposed; the reading of boyd this claim grounds in, resting on the same skim -->
 <!-- inactive-ok-file: CLAIM-196 — Proposed; the claim this was split from, which rests on it, cited as open -->

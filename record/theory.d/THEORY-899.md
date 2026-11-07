@@ -41,8 +41,6 @@ summary: >-
   decoupled from evaluation. Each member is one parallel action sample,
   α = 1/N plays the learning rate, and the macro-policy is a stateless
   bandit policy over the members' types.
-supports:
-- CLAIM-444
 ---
 
 # THEORY-899: In an infinite, well-mixed population whose members each sample the quality of their own type, imitation of success has the expected update of a single Cross Learning bandit agent (the Taylor replicator dynamic), and the weighted voter model, in which members broadcast their type in proportion to their sample and adopt the first type they perceive, has the expected update of Maynard-Cross Learning, π_a ← π_a + (r_k / v^π)(1[a = k] − π_a), the Maynard-Smith replicator dynamic; the population vector is the policy and no member learns

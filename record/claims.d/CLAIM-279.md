@@ -60,9 +60,6 @@ line:
 - distributed-agency
 grounds:
 - CASE-079
-corroborated_by:
-- THEORY-218
-- THEORY-214
 complements:
 - CLAIM-152
 - CLAIM-369
@@ -75,8 +72,6 @@ summary: >-
   pixel is denoising for the group whose image it is and destruction for
   the group overwriting it. The claim does not say specialization always
   emerges.
-supports:
-- CLAIM-336
 bears_on:
 - QUESTION-083
 ---

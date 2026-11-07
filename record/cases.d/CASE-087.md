@@ -18,8 +18,6 @@ summary: >-
   A10 §2's paired construction, which A10 recommended filing ("That single paired
   construction makes the dependence of sufficiency on the task and model very easy
   to see"). It grounds the relativity half of [CLAIM-300](../claims.d/CLAIM-300.md).
-supports:
-- CLAIM-300
 ---
 
 # CASE-087: The discredited instrument and the second population: two pairs of readings with the same mean that the mean cannot tell apart once one instrument is discredited or a mixture is considered

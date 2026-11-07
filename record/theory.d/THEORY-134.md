@@ -30,11 +30,6 @@ summary: >-
   viability kernel is the largest viable subset of K; from outside it
   every evolution exits K. The notes do not compare viability with
   stability; that contrast is a further step.
-supports:
-- CLAIM-079
-- CLAIM-185
-- CLAIM-195
-- CLAIM-354
 ---
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for a parallel -->
 <!-- inactive-ok-file: LIT-738 — Unavailable, unread; Aubin's monograph, named as the general theory the notes restrict -->

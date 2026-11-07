@@ -52,13 +52,8 @@ summary: >-
   much of the measured breakage is forgetting at the endpoint, not a
   barrier, and FedAvg models from one random start under one global
   objective are separated by a barrier that grows with heterogeneity.
-extended_by:
-- THEORY-105
 presupposes:
 - THEORY-114
-supports:
-- CLAIM-187
-- CLAIM-263
 ---
 <!-- inactive-ok-file: LIT-676 — Proposed; Li et al. on GNNs, named as a limit on scope, not leaned on -->
 

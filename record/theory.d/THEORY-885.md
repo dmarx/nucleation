@@ -32,8 +32,6 @@ summary: >-
   health-care reforms, 1993–96). It extends North's claim for institutions
   in general ([THEORY-429](THEORY-429.md)) to a claim about politics as a domain. It does not
   show that any political outcome was locked in by an early contingent event.
-supports:
-- CLAIM-445
 ---
 <!-- inactive-ok-file: THEORY-429 CLAIM-423 CLAIM-184 — Proposed; the accounts and claims it bears on, named, not leaned on -->
 

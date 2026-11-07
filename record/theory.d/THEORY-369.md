@@ -42,8 +42,6 @@ summary: >-
   bounds are not rigorous as stated. The asymptotic statement, at fixed N
   and for clusters of two or more points, is proved by the record by a
   concentration argument.
-supports:
-- CLAIM-311
 bears_on:
 - QUESTION-114
 ---

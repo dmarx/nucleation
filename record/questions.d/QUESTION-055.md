@@ -55,11 +55,6 @@ summary: >-
   presheaf over contexts is QUESTION-332, Answered by CLAIM-038. Over
   which base, and whether probes split it into sectors, is open. [THEORY-041](../theory.d/THEORY-041.md) and [THEORY-042](../theory.d/THEORY-042.md) bear on it; the body
   gives each one's limit.
-refined_by:
-- QUESTION-247
-bearing:
-- THEORY-042
-- THEORY-041
 ---
 
 # QUESTION-055: If communicative categories form a non-Boolean lattice, and the communicative object is a presheaf over contexts, over which base category is it one, and does some probe family split it into sectors that no probe connects?

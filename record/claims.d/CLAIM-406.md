@@ -67,8 +67,6 @@ rests_on:
 - CLAIM-330
 grounds:
 - THEORY-327
-corroborated_by:
-- THEORY-854
 summary: >-
   The owner's, U24 of the exchange of 2026-10-20, on A23's closing thesis:
   "this seems to me reminiscent of themes in feminist philosophy, e.g.

@@ -61,8 +61,6 @@ rests_on:
 - CLAIM-342
 complements:
 - CLAIM-412
-corroborated_by:
-- THEORY-095
 summary: >-
   The owner's premise at U1, that sensory apparatus is necessary for
   grounded experience, as A1, A3, A5 and A7 restated it. A1: "grounding

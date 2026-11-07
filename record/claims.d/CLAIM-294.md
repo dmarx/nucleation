@@ -41,8 +41,6 @@ summary: >-
   marginal merges histories that need different updates. It does not say a full
   posterior falls short ([CLAIM-300](CLAIM-300.md)), or that a dependency graph is the fix
   ([CLAIM-293](CLAIM-293.md)).
-supports:
-- CLAIM-295
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

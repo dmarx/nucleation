@@ -85,13 +85,6 @@ summary: >-
   (QUESTION-100). If the influence field adds nothing to ordinary adaptive
   retrieval, the objection once filed as CLAIM-278, now ARG-036, stands
   against it.
-supports:
-- CLAIM-341
-- CLAIM-336
-- CLAIM-338
-- CLAIM-429
-illustrated_by:
-- CASE-162
 bears_on:
 - QUESTION-100
 ---

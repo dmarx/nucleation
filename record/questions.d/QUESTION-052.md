@@ -35,19 +35,6 @@ summary: >-
   QUESTION-245. Open here: nonlinear decisions, and what makes one
   span the signature when other spans tie. The body gives each reading's
   limit.
-refined_by:
-- QUESTION-141
-- QUESTION-182
-- QUESTION-183
-- QUESTION-245
-bearing:
-- THEORY-565
-- THEORY-320
-- THEORY-005
-- THEORY-001
-- THEORY-009
-- THEORY-006
-- THEORY-003
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

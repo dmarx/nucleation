@@ -45,15 +45,9 @@ summary: >-
   "If I can't find it, it isn't there" is false of the inventory and right of the
   decision. [TERM-055](../terms.d/TERM-055.md) names the relation. A19 added the cue: the same memory
   under a different request may retrieve it.
-illustrated_by:
-- CASE-085
-- CASE-094
 complements:
 - CLAIM-306
 - CLAIM-312
-corroborated_by:
-- CLAIM-310
-- THEORY-351
 bears_on:
 - QUESTION-101
 ---

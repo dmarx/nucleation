@@ -30,15 +30,6 @@ summary: >-
   ([CLAIM-139](../claims.d/CLAIM-139.md)) has a question to answer while [CLAIM-115](../claims.d/CLAIM-115.md) goes on answering
   [QUESTION-002](QUESTION-002.md). Scoped to communicative acts; the exchange states it about
   "objects" and never argues the general version.
-answered_by:
-- CLAIM-139
-- CLAIM-204
-- CLAIM-215
-refined_by:
-- QUESTION-036
-- QUESTION-050
-bearing:
-- CLAIM-160
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of the thesis, whose earlier changes went unannounced -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-115 CLAIM-151 CLAIM-136 CLAIM-134 CLAIM-138 CLAIM-137 CLAIM-142 — Proposed; open, and cited as open: the theses and objections that bear on this question are under test, not settled -->

@@ -36,10 +36,6 @@ summary: >-
   in scratch/formal/valence.py.
 uses:
 - TERM-077
-supports:
-- CLAIM-451
-corroborated_by:
-- THEORY-896
 ---
 <!-- inactive-ok-file: TERM-076 — Proposed; the second-hand reading of Monderer and Shapley and the term this claim underwrites, cited as open -->
 <!-- inactive-ok-file: LIT-1462 — Unavailable, no lawful copy reached; Monderer and Shapley, whose lemma part 1 proves for itself -->

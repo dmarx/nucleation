@@ -28,8 +28,6 @@ tags:
 date: '2026-10-21'
 source:
 - LIT-1315
-extended_by:
-- THEORY-852
 summary: >-
   Szeidl and Szucs (2021), [LIT-1315](../literature.d/LIT-1315.md), read in [NOTE-1039](../notes.d/NOTE-1039.md). A
   necessary condition on equilibrium slant, not a closed form: masⱼ depends

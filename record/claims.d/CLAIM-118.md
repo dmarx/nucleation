@@ -75,14 +75,10 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
-corroborated_by:
-- THEORY-481
 summary: >-
   A43's first point about the U17 proposal, developed at A44–A45 into
   three sources of change (evidence, transient computation, parameters).
   The manuscript §5 keeps it in two sentences.
-supports:
-- CLAIM-074
 ---
 
 # CLAIM-118: Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter

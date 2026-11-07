@@ -17,18 +17,6 @@ summary: >-
   already made in separate places (workbench 2026/10/11). An answer has
   to say what stops an argument from settling, what the record adds that a
   draft does not, and what that addition costs.
-answered_by:
-- CLAIM-176
-- CLAIM-178
-- CLAIM-179
-- CLAIM-183
-- CLAIM-186
-- CLAIM-185
-refined_by:
-- QUESTION-038
-bearing:
-- CLAIM-324
-- CLAIM-177
 ---
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-178 CLAIM-181 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->

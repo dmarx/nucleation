@@ -29,8 +29,6 @@ summary: >-
   the novel labelling's 0–1 linear-probe error by twice this residual. It
   is about the exact rank-k factorization of a population graph, not
   about trained networks.
-extended_by:
-- THEORY-320
 ---
 <!-- inactive-ok-file: THEORY-320 — Proposed; the toy help-and-harm account this was split from and that extends it, cited as open -->
 

@@ -15,8 +15,6 @@ source:
 - LIT-1851
 extends:
 - THEORY-069
-supports:
-- CLAIM-172
 summary: >-
   What the Haken–Kelso–Bunz paper proposes and what the first report of
   critical fluctuations measured, split from [THEORY-069](THEORY-069.md) by the

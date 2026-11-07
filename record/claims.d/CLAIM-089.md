@@ -25,8 +25,6 @@ date: '2026-10-05'
 line: will-organization
 objects_to:
 - CLAIM-027
-objected_by:
-- CLAIM-122
 summary: >-
   The redescription objection (Sections 1, 3.5). The paper answers the
   individual-attitude version; the aggregate revealed-preference version

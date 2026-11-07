@@ -16,18 +16,6 @@ summary: >-
   Opened at A18 as "the deepest question in your line of thought". The
   manuscript takes the second horn in practice ([CLAIM-115](../claims.d/CLAIM-115.md)) but
   never argues against the first.
-answered_by:
-- CLAIM-111
-- CLAIM-137
-- CLAIM-151
-refined_by:
-- QUESTION-001
-- QUESTION-008
-- QUESTION-028
-- QUESTION-029
-- QUESTION-030
-bearing:
-- CLAIM-115
 ---
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

@@ -33,14 +33,6 @@ summary: >-
   cost, and whose policy would adapt if its actions' consequences changed.
   The general tier, wider than a willed agent and narrower than a control
   system.
-used_by:
-- CLAIM-155
-- CLAIM-168
-- CLAIM-170
-- CLAIM-174
-- CLAIM-157
-- CLAIM-167
-- CLAIM-418
 rivals:
 - TERM-063
 ---

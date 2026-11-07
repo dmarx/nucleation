@@ -45,8 +45,6 @@ line:
 - formal-apparatus
 grounds:
 - CASE-212
-corroborated_by:
-- THEORY-1379
 complements:
 - CLAIM-586
 - CLAIM-347

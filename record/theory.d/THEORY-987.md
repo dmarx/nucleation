@@ -21,8 +21,6 @@ tags:
 date: '2026-10-26'
 source:
 - LIT-1533
-extended_by:
-- THEORY-965
 summary: >-
   Templeton et al. (2024), [LIT-1533](../literature.d/LIT-1533.md), read in [NOTE-1178](../notes.d/NOTE-1178.md): Features
   as Computational Intermediates and the appendix on ablations and

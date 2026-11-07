@@ -10,16 +10,11 @@ tags:
 - mathematics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-033
 summary: >-
   U20 and A50: fidelity is how little a transport distorts selected
   structure, within ε, and need not be symmetric or transitive;
   equivalence is its zero-distortion limit. The manuscript's graded
   fidelity (§6, §12).
-used_by:
-- CLAIM-106
-- CLAIM-124
 ---
 
 # TERM-015: fidelity, as graded, directed transport distortion

@@ -35,8 +35,6 @@ summary: >-
   for reading such agreement as evidence. It is an argument, not a theorem,
   so it is interpretive. It does not say which probes to choose, or that
   held-out probes are neutral.
-supports:
-- CLAIM-142
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the exact half this rests on, the application that first drew the rule, and the anchored-correspondence remedy, cited as open -->
 

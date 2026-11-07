@@ -37,8 +37,6 @@ summary: >-
   causal-decoupling terms separate the kinds, and in proportional
   causation ([THEORY-133](../theory.d/THEORY-133.md)), which makes a higher level the cause system by
   system.
-illustrated_by:
-- CASE-074
 ---
 <!-- ref::uses-file: TERM-046 — stated in "notation for the threshold, drive and unity criteria"; the body applies the term without naming it -->
 

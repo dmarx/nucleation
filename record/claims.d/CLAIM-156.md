@@ -59,9 +59,6 @@ uses:
 complements:
 - CLAIM-162
 - CLAIM-442
-corroborated_by:
-- THEORY-051
-- THEORY-064
 summary: >-
   The record's own conjecture, made in answer to the owner's prompt of
   2026-10-11. It places mindfulness among [CLAIM-027](CLAIM-027.md)'s conditions of
@@ -69,6 +66,8 @@ summary: >-
   individual-scale instance of that thesis. The one direct study read
   as summarised ([LIT-906](../literature.d/LIT-906.md)) points the other way, and the claim says
   so. It does not say mindfulness never changes valuation.
+corroborates:
+- CLAIM-349
 ---
 <!-- ref::uses-file: TERM-050 — stated in "intrapersonal synchronization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 CLAIM-162 CLAIM-169 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

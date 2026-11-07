@@ -35,8 +35,6 @@ date: '2026-11-05'
 line:
 - realizability
 - distributed-agency
-corroborated_by:
-- THEORY-1398
 complements:
 - CLAIM-516
 - CLAIM-079

@@ -39,8 +39,6 @@ line:
 - realizability
 grounds:
 - THEORY-1418
-corroborated_by:
-- THEORY-1368
 complements:
 - CLAIM-345
 - CLAIM-567

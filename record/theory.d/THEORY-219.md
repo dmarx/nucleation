@@ -55,6 +55,8 @@ summary: >-
   antecedent rule is not made precise.
 bears_on:
 - QUESTION-092
+corroborates:
+- CLAIM-288
 ---
 <!-- inactive-ok-file: CLAIM-285 THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1031 — Unavailable; Benthall and Salge, named as the neighbouring enactive argument about legal responsibility, not leaned on -->

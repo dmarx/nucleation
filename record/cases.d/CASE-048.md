@@ -31,9 +31,6 @@ summary: >-
   is the person in the sense of numerical identity. Only the receiver's
   state has changed. It is a test for whether meaning is fixed at the
   write or made at the read.
-supports:
-- CLAIM-160
-- CLAIM-171
 ---
 <!-- inactive-ok-file: CLAIM-251 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; the claims this case tests, open -->

@@ -116,15 +116,6 @@ grounds:
 - THEORY-901
 - THEORY-920
 - THEORY-903
-corroborated_by:
-- THEORY-897
-- THEORY-900
-- THEORY-907
-- THEORY-910
-- THEORY-912
-- THEORY-921
-- THEORY-962
-- THEORY-963
 summary: >-
   The owner's, 2026-10-23, quoting "A governance prior can become
   self-protecting by reducing the access of the processes most likely to
@@ -134,10 +125,6 @@ summary: >-
   anxiety, not of anxiety in general, filed as a candidate answer to
   [QUESTION-045](../questions.d/QUESTION-045.md). Its evidence is model-level and adjacent; nothing here
   measures authority in patients.
-illustrated_by:
-- CASE-153
-supports:
-- CLAIM-445
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 

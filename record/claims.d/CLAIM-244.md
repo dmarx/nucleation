@@ -40,8 +40,6 @@ summary: >-
   line's own theses say fidelity needs. [CLAIM-140](CLAIM-140.md) is its neighbour: that
   one moves the criterion to the analyst, and neither says it is
   task-free.
-objected_by:
-- CLAIM-240
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-128 — Proposed; open, and cited as the line's own theses the defeat conditions are inconsistent with, not as settled -->

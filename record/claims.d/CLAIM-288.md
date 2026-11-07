@@ -71,10 +71,6 @@ grounds:
 - THEORY-1119
 - LIT-1017
 - THEORY-1166
-corroborated_by:
-- THEORY-219
-- THEORY-220
-- THEORY-221
 tags:
 - self-governance
 - agency
@@ -97,8 +93,6 @@ summary: >-
   revised by the organization.
 complements:
 - CLAIM-367
-objected_by:
-- CLAIM-356
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, named in the history as the reading the grounds moved from -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument this claim undercuts, split from it under ADR-061 -->

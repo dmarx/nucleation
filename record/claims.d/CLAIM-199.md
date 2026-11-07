@@ -63,11 +63,6 @@ summary: >-
   usable-information literature was not held when it was filed; Xu et
   al.'s V-information is now read (note of 2026-10-21). It does not say
   which rule class real readers have.
-illustrated_by:
-- CASE-062
-- CASE-154
-supports:
-- CLAIM-450
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-076 — Proposed; the manuscript's thesis and the blind-captioner design, cited as open -->

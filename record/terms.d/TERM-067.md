@@ -44,9 +44,6 @@ summary: >-
   response of every state (CLAIM-399). It is a fixed-target,
   state-conditional sufficiency. Adopted by the owner on 2026-10-21. It
   names what CLAIM-407 is stated in; it replaces nothing.
-used_by:
-- CLAIM-407
-- CLAIM-399
 ---
 
 # TERM-067: governance-response profile, of a state for a declared family of interventions on the mechanisms that govern efficacy: the tuple of its response kernels, J_I(s) = (K_i(· | s))_{i∈I} with K_i(y | s) = P(Y^(i) = y | S = s); a description is governance-response sufficient for (I, Y) when the profile factors through it

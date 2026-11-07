@@ -23,12 +23,6 @@ summary: >-
   Gelfand widths, and its sharp location on face counting ([THEORY-391](../theory.d/THEORY-391.md)).
   Random features, superposition and expand-and-threshold stay with
   [QUESTION-120](QUESTION-120.md).
-answered_by:
-- THEORY-390
-- THEORY-391
-- THEORY-395
-- THEORY-397
-- THEORY-399
 ---
 
 # QUESTION-251: Do the Johnson–Lindenstrauss threshold for distances and the k log(N/k) threshold for sparse recovery rest on one concentration-of-measure argument, a tail bound for each fixed vector's norm with a union bound over a family, both for sufficiency and for necessity?

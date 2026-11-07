@@ -20,8 +20,6 @@ summary: >-
   proper group of units is a block. It is the closure-without-block cell
   of A5's two-by-two table, and the system [QUESTION-218](../questions.d/QUESTION-218.md) would test
   for compensation and entrainment. Fictional by construction.
-supports:
-- CLAIM-388
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # CASE-120: Six units with uniform coupling, A = αI + β(11ᵀ − I): their sum is exactly dynamically independent at every coupling tried, while a single unit and the sum of three are not, and no grouping of the units is a weakly coupled block

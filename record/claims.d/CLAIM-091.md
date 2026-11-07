@@ -26,8 +26,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 grounds:
 - CASE-066
-illustrated_by:
-- CASE-018
 complements:
 - CLAIM-061
 uses:
@@ -37,8 +35,6 @@ summary: >-
   turns U1–U13; the manuscript keeps its consequence ("change almost
   every word while preserving the interpersonal relation") but not the
   mechanism. Apparently dropped inadvertently, never refuted.
-supports:
-- CLAIM-258
 ---
 
 # CLAIM-091: A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity

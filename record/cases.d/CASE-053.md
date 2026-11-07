@@ -24,9 +24,6 @@ summary: >-
   Mansfield's Winograd schemas have the right content but a violation of
   about one standard deviation. No contextual pragmatic data are
   documented; "none in behavioural data" is too broad.
-supports:
-- CLAIM-201
-- CLAIM-325
 reported_in:
 - LIT-264
 - NOTE-235

@@ -54,8 +54,6 @@ summary: >-
   intention is not its members' intentions. The question asks whether
   manipulation can then belong to the whole, with no manipulative intent in
   any member.
-bearing:
-- THEORY-139
 ---
 <!-- inactive-ok-file: THEORY-627 — Proposed; filed from the first case, named in What the record holds, not an answer -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->

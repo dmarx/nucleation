@@ -38,8 +38,6 @@ summary: >-
   drift. Proposed from the synthesis review.
 grounds:
 - CASE-071
-illustrated_by:
-- CASE-084
 ---
 <!-- inactive-ok-file: ARG-028 — Proposed; the argument this claim moved to under ADR-061 -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-186 — Proposed; open, the theses this objection was to and the argument now concludes -->

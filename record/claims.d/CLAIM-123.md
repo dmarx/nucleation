@@ -72,10 +72,6 @@ summary: >-
   The manuscript's §7, citing Composable Diffusion, T2I-CompBench and
   Schrödinger bridges. The readings support it, and the manuscript is
   more careful than the paper it cites.
-illustrated_by:
-- CASE-004
-corroborated_by:
-- CLAIM-321
 ---
 
 # CLAIM-123: In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require

@@ -31,8 +31,6 @@ summary: >-
   uniform starting densities; the paper itself uses near-uniformity. It
   says nothing about which macrostates a real many-body system can be
   divided into with the other two terms equal.
-extended_by:
-- THEORY-412
 ---
 <!-- inactive-ok-file: THEORY-412 THEORY-671 THEORY-673 — Proposed; the account this one is split from, the maximum-entropy-production contrast, and the earlier split it follows -->
 

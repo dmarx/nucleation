@@ -22,8 +22,6 @@ summary: >-
   The paper uses the case to bound instance optimality. That it explains
   linear conjunction-search slopes in human vision is the record's
   analogy, not the paper's claim.
-supports:
-- CLAIM-310
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; the rival account of visual search, named as unread -->
 

@@ -28,25 +28,6 @@ summary: >-
   once a task fixes weights. Supersedes [TERM-010](TERM-010.md)'s weighted scalar as the
   foundation; [TERM-015](TERM-015.md) and [TERM-021](TERM-021.md) stay in force as what the components
   measure.
-used_by:
-- CLAIM-128
-- CLAIM-133
-- CLAIM-139
-- CLAIM-147
-- CLAIM-218
-- CLAIM-256
-- CLAIM-201
-- CLAIM-204
-- CLAIM-210
-- CLAIM-228
-- CLAIM-231
-- CLAIM-240
-- CLAIM-257
-- CLAIM-259
-- CLAIM-319
-- CLAIM-371
-refined_by:
-- TERM-010
 ---
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the restatements of the components, cited as open -->

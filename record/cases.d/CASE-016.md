@@ -11,8 +11,6 @@ tags:
 - society-and-governance
 date: '2026-10-04'
 line: will-organization
-supports:
-- ARG-003
 summary: >-
   Fraenkel's analysis: ordinary legal norms kept governing large domains
   while a prerogative order held authority over whether they bound at all.

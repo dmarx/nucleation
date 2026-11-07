@@ -57,8 +57,6 @@ summary: >-
   dilemma is sound, and it does not say eliminative OSR survives; the
   chapter itself leaves eliminative OSR untouched. Whether the founding
   texts are of the target kind is QUESTION-336.
-supports:
-- CLAIM-134
 bears_on:
 - QUESTION-336
 ---

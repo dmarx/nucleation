@@ -43,8 +43,6 @@ summary: >-
   to e^(−σ‖ω‖₁), with Lipschitz densities. It does not cover centred
   kernels, or similarity measures that compare Gram matrices of
   representations.
-extended_by:
-- THEORY-811
 ---
 
 <!-- inactive-ok-file: THEORY-811 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

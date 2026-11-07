@@ -17,8 +17,6 @@ summary: >-
   demoted deliberately at A39–A40 to an "optional refinement" whose
   usefulness "must be justified". Absent from the manuscript. Set aside,
   not answered.
-refined_by:
-- QUESTION-190
 ---
 <!-- inactive-ok-file: CLAIM-034 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

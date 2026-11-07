@@ -23,18 +23,6 @@ summary: >-
   of A40 §VIII. Recovered: the manuscript keeps the intertwining
   identity but states neither limit nor remedy, apparently by
   inadvertence.
-supports:
-- CLAIM-077
-- CLAIM-133
-- CLAIM-138
-- CLAIM-142
-- CLAIM-143
-- CLAIM-149
-- CLAIM-249
-- CLAIM-228
-- CLAIM-381
-illustrated_by:
-- CASE-041
 ---
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-138 — Proposed; open, and cited as the later uses of this claim, not as settled -->

@@ -18,12 +18,6 @@ summary: >-
   intrinsic to the organization could tell entrenched authority from
   merited trust. Organizational accounts of malfunction are the nearest
   literature.
-refined_by:
-- QUESTION-100
-bearing:
-- THEORY-628
-- THEORY-220
-- THEORY-217
 ---
 
 # QUESTION-087: Can an authority structure that reproduces itself be pathological by a standard grounded in the organization's own organization, and not in goals assigned to it from outside?

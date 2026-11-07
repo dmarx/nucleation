@@ -16,8 +16,6 @@ source:
 - LIT-403
 extends:
 - THEORY-579
-supports:
-- CLAIM-175
 summary: >-
   What the extended-mind paper argues, split from [THEORY-579](THEORY-579.md) by the
   sixteenth status review on [THEORY-1110](THEORY-1110.md)'s pattern ([ADR-058](../decisions.d/ADR-058.md)'s route), so

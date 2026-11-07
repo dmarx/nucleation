@@ -40,6 +40,8 @@ summary: >-
   and folding islands offered as a heuristic, not a necessary and
   sufficient condition. The authors limit the difficulty to the flat
   state. The analogy to SAT and protein folding carries no hardness proof.
+corroborates:
+- CLAIM-567
 ---
 <!-- inactive-ok-file: THEORY-1528 — Proposed and new; the authors' generalization split off at the status review of 2026-11-06, cited as open -->
 

@@ -20,8 +20,6 @@ summary: >-
   exactly dynamically independent at every stable coupling strength,
   while every partition couples as strongly across its edges as within
   them. The forward bound stays with [QUESTION-221](QUESTION-221.md).
-answered_by:
-- CLAIM-388
 ---
 
 # QUESTION-242: Does exact dynamical closure of an aggregate require a nearly decomposable block, or can a collective variable be exactly dynamically independent when no partition of the units is weakly coupled?

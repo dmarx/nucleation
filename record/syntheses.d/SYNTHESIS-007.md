@@ -64,8 +64,6 @@ premises:
 bears_on:
 - QUESTION-364
 - QUESTION-071
-supersedes:
-- CLAIM-545
 summary: >-
   A26 of "Assess SDT Coverage" (2026-11-02), written at the owner's
   request for the synthesis "without all the hedging" (U26), after

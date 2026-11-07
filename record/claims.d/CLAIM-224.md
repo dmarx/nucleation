@@ -36,10 +36,6 @@ summary: >-
   fixed. [CLAIM-138](CLAIM-138.md) spares [CLAIM-151](CLAIM-151.md); this applies its point to [CLAIM-151](CLAIM-151.md)
   through translation. The objection is open. It does not say acts never
   survive translation.
-illustrated_by:
-- CASE-064
-- CASE-061
-- CASE-073
 ---
 <!-- inactive-ok-file: CLAIM-212 — Proposed; re-performance fidelity, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->

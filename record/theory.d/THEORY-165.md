@@ -34,11 +34,6 @@ summary: >-
   own derivation, now CLAIM-372. The Lipschitz
   constant depends on the scenario and is not bounded here. Nothing here
   applies to signalling data, where CF is undefined.
-supports:
-- CLAIM-105
-- CLAIM-235
-- CLAIM-319
-- CLAIM-320
 ---
 
 # THEORY-165: Within a fixed measurement scenario, the non-contextual fraction is the value of a linear programme whose constraint vector is the empirical model's probability table, and the contextual fraction is convex under mixing

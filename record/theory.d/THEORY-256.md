@@ -43,8 +43,6 @@ summary: >-
   factored form before expansion. It does not show that the preference is
   architectural rather than a feature of training, a question the paper
   leaves open, and it varies neither the objective nor the data domain.
-extended_by:
-- THEORY-808
 bears_on:
 - QUESTION-060
 ---

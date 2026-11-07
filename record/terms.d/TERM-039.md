@@ -17,11 +17,6 @@ summary: >-
   elicited. In A129 §1's model it enters the judgement, not the
   interpreter's state. It appears five times, so it gets a code. Its
   name collides with [TERM-031](TERM-031.md)'s.
-used_by:
-- CLAIM-127
-- CLAIM-341
-- CLAIM-336
-- CLAIM-450
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

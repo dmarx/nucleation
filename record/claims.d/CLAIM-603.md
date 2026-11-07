@@ -65,6 +65,8 @@ summary: >-
   community, as Burning Man's is meant to, and both sit beside a demand
   for self-reliance. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+corroborates:
+- CLAIM-600
 ---
 <!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
 

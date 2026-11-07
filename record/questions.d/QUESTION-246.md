@@ -21,12 +21,6 @@ summary: >-
   representation, and Leibnizian representations within classical
   realism. The generalized notion is strictly broader. Which notion a
   test of pragmatic judgements can reach stays with [QUESTION-067](QUESTION-067.md).
-answered_by:
-- THEORY-011
-- THEORY-015
-- THEORY-016
-- THEORY-231
-- THEORY-559
 ---
 
 # QUESTION-246: In quantum theory, what does a failure of Kochen–Specker noncontextuality refute, as against a failure of Spekkens's generalized noncontextuality, and which of the two notions is broader?

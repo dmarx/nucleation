@@ -28,9 +28,6 @@ summary: >-
   product is derived at the data distribution and applied at every noise
   level, which [NOTE-597](../notes.d/NOTE-597.md) notes is in general not the score of the noised
   product.
-supports:
-- CLAIM-123
-- CLAIM-321
 ---
 <!-- inactive-ok-file: THEORY-678 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
 

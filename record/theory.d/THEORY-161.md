@@ -37,8 +37,6 @@ summary: >-
   to I(S;X) − I(S;Y), making the function the information bottleneck
   ([LIT-338](../literature.d/LIT-338.md)), and for TV bounds the extra Bayes risk of every bounded loss.
   The two identities are this record's derivations, not the papers'.
-supports:
-- CLAIM-088
 ---
 
 

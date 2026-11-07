@@ -35,8 +35,6 @@ summary: >-
   instant has a negative exponent. A switched undamped oscillator, neutral
   at every instant, has a positive exponent. The stochastic genericity
   results are [THEORY-325](THEORY-325.md)'s, still Proposed.
-extended_by:
-- THEORY-325
 ---
 <!-- inactive-ok-file: THEORY-325 — Proposed; the stochastic account this half was split from and that extends it, cited as open -->
 

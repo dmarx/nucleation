@@ -20,8 +20,6 @@ summary: >-
   exists only "in the eye of an observer", that representation is the
   wrong unit for most of intelligence, and that the method scales are
   assertion or labelled hypothesis.
-supports:
-- CLAIM-045
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-056 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-429 — Unavailable; a related work named by the reading, not leaned on for its content -->

@@ -18,8 +18,6 @@ summary: >-
   A30: on a two-state classical system, A resets to state 1 and B to
   state 2; AB = A and BA = B, so AB ≠ BA, and every state is an ordinary
   probability vector. Order dependence without nonclassical probability.
-supports:
-- CLAIM-041
 ---
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 

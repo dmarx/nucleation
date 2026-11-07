@@ -43,12 +43,6 @@ summary: >-
   overwriting throughout, and some failures look like successes until a late
   collapse. The recovery is validated only against final artworks, the
   lifecycles are ten examples, and nothing here observes plans.
-supports:
-- CLAIM-280
-- CLAIM-273
-- CLAIM-274
-extended_by:
-- THEORY-795
 ---
 <!-- inactive-ok-file: THEORY-795 — Proposed; the population thesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 

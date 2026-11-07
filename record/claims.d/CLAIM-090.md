@@ -43,10 +43,6 @@ summary: >-
   The manuscript's §8, citing Bartlett, Griffiths and Kalish, and Kirby,
   Cornish and Smith together as showing the same thing. [CLAIM-066](CLAIM-066.md)
   separates what each shows.
-supports:
-- CLAIM-068
-illustrated_by:
-- CASE-068
 ---
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, cited from the manuscript and said to be unread, no ground here -->
 

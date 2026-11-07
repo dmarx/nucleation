@@ -78,8 +78,6 @@ grounds:
 - THEORY-139
 - THEORY-892
 - CASE-151
-corroborated_by:
-- THEORY-125
 summary: >-
   The record's reading of Bakan's "institutional psychopath" (LIT-1430, unread), filed at the
   owner's request on 2026-10-23 and revised the same day when the owner
@@ -93,8 +91,6 @@ summary: >-
   functional fear). A corporation with only the second is functionally
   psychopathic across the construct, not in part. Wells Fargo's sales
   practices ([CASE-151](../cases.d/CASE-151.md)) are its documented case.
-objected_by:
-- CLAIM-431
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-892 — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
 <!-- inactive-ok-file: LIT-1426 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->

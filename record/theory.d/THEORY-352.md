@@ -23,9 +23,6 @@ summary: >-
   over to non-uniform adversaries is the reading's inference, not the paper's
   statement. Everything is asymptotic. Goldreich states the theorem and does not
   prove it.
-supports:
-- CLAIM-302
-- CLAIM-304
 ---
 
 # THEORY-352: A pseudorandom generator exists if and only if a one-way function exists, where both are secure against uniform adversaries and every reduction is an oracle Turing machine, as statements about ensembles indexed by n; the construction from an arbitrary one-way function is only weak-preserving, so security at one length is bought at a much greater one

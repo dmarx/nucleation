@@ -39,8 +39,6 @@ summary: >-
   (2026/10/09/025539, 2026/10/10/040457). One exchange, reconstructed
   turn by turn by the record's own readers; it says nothing about drafts
   in general.
-supports:
-- CLAIM-178
 bears_on:
 - QUESTION-037
 ---

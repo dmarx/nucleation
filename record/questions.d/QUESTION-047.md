@@ -24,18 +24,6 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-030](../claims.d/CLAIM-030.md), [CLAIM-060](../claims.d/CLAIM-060.md), CLAIM-192
   and [QUESTION-049](QUESTION-049.md). [THEORY-143](../theory.d/THEORY-143.md), [THEORY-148](../theory.d/THEORY-148.md), [THEORY-146](../theory.d/THEORY-146.md) and
   [THEORY-151](../theory.d/THEORY-151.md) answer it in part; the body gives each one's limit.
-refined_by:
-- QUESTION-151
-- QUESTION-173
-- QUESTION-184
-- QUESTION-212
-bearing:
-- THEORY-151
-- THEORY-146
-- THEORY-148
-- THEORY-143
-- THEORY-855
-- THEORY-321
 ---
 
 # QUESTION-047: Can a community of individually sound inquirers settle on a belief none of them reasoned their way to, as an organized whole can settle on a course none of its members intends, and which community-level mechanisms set it?

@@ -56,8 +56,6 @@ uses:
 summary: >-
   The manuscript's §4, citing Baez and Fong. [CLAIM-094](CLAIM-094.md) says what
   the cited theorem needs that the discrete-time criterion leaves out.
-objected_by:
-- CLAIM-094
 complements:
 - CLAIM-093
 ---

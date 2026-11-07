@@ -37,6 +37,8 @@ summary: >-
   the 16 that need intermediate states stay unachievable.
 bears_on:
 - QUESTION-405
+corroborates:
+- CLAIM-568
 ---
 
 # THEORY-1417: Zang, Zhao, Misseroni and Paulino show that prestressing Kresling origami cells with controllable springs tunes each cell's energy barrier and stability continuously, so that reordering the barriers of cells in an assembly makes folding sequences feasible that the unprestressed assembly cannot follow

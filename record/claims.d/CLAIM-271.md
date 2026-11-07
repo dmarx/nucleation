@@ -50,8 +50,6 @@ summary: >-
   two can disagree. A poll aggregates conclusions. It does not say that
   polling is illegitimate, nor that the collective knows better than its
   members.
-supports:
-- CLAIM-432
 bears_on:
 - QUESTION-082
 ---

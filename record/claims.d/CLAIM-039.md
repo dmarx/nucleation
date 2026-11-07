@@ -36,8 +36,6 @@ tags:
 - social-ontology
 date: '2026-10-04'
 line: organizational-affect
-corroborated_by:
-- THEORY-125
 summary: >-
   The owner's move at U19–U20: an organization can be "angry" or "blind"
   as a system is "happy" in a stable orbit, mapped through Frijda's action
@@ -46,9 +44,6 @@ summary: >-
   Huebner ([THEORY-125](../theory.d/THEORY-125.md)) argues the same possibility independently. The
   objection to answer first is [THEORY-101](../theory.d/THEORY-101.md)'s identity of valence with a
   felt state.
-supports:
-- CLAIM-432
-- CLAIM-440
 uses:
 - TERM-094
 ---

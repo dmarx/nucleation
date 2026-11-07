@@ -35,8 +35,6 @@ summary: >-
   says "neither necessary nor sufficient". Its own example shows only
   insufficiency. The case against necessity is A12's asymmetry and A24's
   compensation hypothesis, neither in the manuscript.
-supports:
-- CLAIM-229
 ---
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-021 ARG-020 — Rejected; the arguments this claim moved to -->

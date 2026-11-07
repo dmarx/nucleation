@@ -28,13 +28,6 @@ summary: >-
   measures cardinal inconsistency and can reverse an ordinal comparison
   ([CLAIM-434](../claims.d/CLAIM-434.md), part 4), and from a real-valued currency
   ([CLAIM-436](../claims.d/CLAIM-436.md)).
-refined_by:
-- TERM-078
-used_by:
-- CLAIM-434
-- CLAIM-440
-- CLAIM-448
-- CLAIM-451
 ---
 <!-- inactive-ok-file: TERM-076 — Proposed; the terms built on this one, the second-hand reading of Monderer and Shapley, and the currency result it is distinguished from, cited as open -->
 

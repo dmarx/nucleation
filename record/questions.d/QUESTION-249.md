@@ -19,8 +19,6 @@ summary: >-
   output and A. A deterministic map gets there only when the concept
   groups' distributions are permutations of one another. Chains, and
   relations as against a categorical label, stay with [QUESTION-010](QUESTION-010.md).
-answered_by:
-- THEORY-281
 ---
 <!-- inactive-ok-file: THEORY-199 — Proposed; named as the partial answer that stays with the parent, not leaned on -->
 

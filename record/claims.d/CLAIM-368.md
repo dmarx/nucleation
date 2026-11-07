@@ -66,10 +66,6 @@ complements:
 - CLAIM-451
 uses:
 - TERM-060
-corroborated_by:
-- THEORY-232
-- THEORY-052
-- THEORY-217
 bears_on:
 - QUESTION-131
 summary: >-
@@ -84,9 +80,6 @@ summary: >-
   claim bears on the organizational-affect line, which is Deferred
   ([CLAIM-039](CLAIM-039.md)); whether that line reopens is the owner's decision, not
   made here.
-supports:
-- CLAIM-347
-- CLAIM-357
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->

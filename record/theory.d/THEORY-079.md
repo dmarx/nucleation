@@ -59,6 +59,8 @@ summary: >-
   test on reduced-rank regression would settle it.
 presupposes:
 - THEORY-087
+corroborates:
+- CLAIM-188
 ---
 
 # THEORY-079: Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n

@@ -61,8 +61,6 @@ bears_on:
 - QUESTION-393
 - QUESTION-118
 - QUESTION-284
-supersedes:
-- CLAIM-615
 summary: >-
   The thesis of U14 to U17 of the exchange "Individuation, Possibility,
   and Disposition" (2026-11-06 to 07), from A32 §12 to A37's "synthesis

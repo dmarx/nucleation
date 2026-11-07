@@ -47,11 +47,6 @@ summary: >-
   preserving it could buy. The cases make the first half exact ([CLAIM-294](CLAIM-294.md),
   [CLAIM-300](CLAIM-300.md)). The second half, that real inquiries change their questions in
   ways that make the purchase worth its cost, is not shown.
-illustrated_by:
-- CASE-086
-- CASE-090
-objected_by:
-- CLAIM-293
 bears_on:
 - QUESTION-108
 - QUESTION-112

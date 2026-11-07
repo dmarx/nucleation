@@ -56,8 +56,6 @@ summary: >-
   magnitude depends on units (A36 §2D).
 grounds:
 - CASE-115
-supports:
-- CLAIM-357
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

@@ -49,8 +49,6 @@ summary: >-
   explicitly not necessary and sufficient. Proposed: the step from causal
   coupling to parthood is the open point. The thesis is about vehicles of
   standing beliefs, not about consciousness.
-extended_by:
-- THEORY-512
 rivals:
 - THEORY-528
 - THEORY-591

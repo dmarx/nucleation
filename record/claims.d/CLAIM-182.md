@@ -40,9 +40,6 @@ summary: >-
   were re-derived inside them anyway. Their moves became citable only
   when the workbench reconstructions gave each turn a label. Two
   exchanges, and the comparison is not controlled, so Proposed.
-supports:
-- CLAIM-180
-- CLAIM-191
 complements:
 - CLAIM-303
 - CLAIM-185

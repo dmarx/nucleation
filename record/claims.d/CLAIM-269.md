@@ -87,8 +87,6 @@ summary: The general content of [CLAIM-193](CLAIM-193.md), filed alone under [AD
 rests_on:
 - CLAIM-379
 - CLAIM-385
-supports:
-- CLAIM-193
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-193 — Proposed; cited for what each holds or applies, open, not settled -->
 

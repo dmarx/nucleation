@@ -21,8 +21,6 @@ summary: >-
   metric formulation obscured". The manuscript keeps the bound and a
   soft form of the limit (§8: invariants, decision risks and
   compatibility structures "need not coincide").
-corroborated_by:
-- THEORY-203
 ---
 
 # CLAIM-031: A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act

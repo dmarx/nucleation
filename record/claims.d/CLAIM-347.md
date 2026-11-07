@@ -60,8 +60,6 @@ complements:
 - CLAIM-365
 uses:
 - TERM-060
-corroborated_by:
-- THEORY-232
 summary: >-
   The owner's correction, U37 of the exchange of 2026-10-17: "We can do
   quite a lot with access to an ordering, even if it doesn't give us a
@@ -76,9 +74,6 @@ summary: >-
   demands, so a reorganization that deletes a demand is not compared at
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
-supports:
-- CLAIM-361
-- CLAIM-440
 ---
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->

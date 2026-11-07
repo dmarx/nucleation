@@ -22,8 +22,6 @@ tags:
 - learning-theory
 date: '2026-10-18'
 line: distributed-agency
-supports:
-- CLAIM-369
 summary: >-
   From the synthesis the owner relayed on 2026-10-18, checked. The
   two-component Lotka–Volterra system with symmetric overlap ρ: invasion

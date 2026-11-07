@@ -41,9 +41,6 @@ summary: >-
   .02 for them. In these displays the informative-speaker learner and a
   plain size-principle learner coincide by construction, so the fit does
   not show that learners reason about the speaker.
-extended_by:
-- THEORY-172
-- THEORY-816
 ---
 <!-- inactive-ok-file: THEORY-816 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: LIT-1041 — Unavailable; Grice 1975, read only at pp. 45–47, named as the informal ancestor and not leaned on -->

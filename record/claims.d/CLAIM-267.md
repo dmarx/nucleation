@@ -51,10 +51,6 @@ summary: 'The general content of [CLAIM-056](CLAIM-056.md), filed alone under [A
   Three regimes follow. For stochastic kernels in total variation, contraction
   coefficients do not exceed one, so amplification needs another metric or
   a nonlinear, adaptive state.'
-supports:
-- CLAIM-056
-- CLAIM-191
-- CLAIM-059
 ---
 <!-- inactive-ok-file: CLAIM-068 CLAIM-191 — Proposed; cited for what each holds or applies, open, not settled -->
 

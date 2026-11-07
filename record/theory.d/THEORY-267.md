@@ -39,8 +39,6 @@ summary: >-
   whether traders came to believe the shocked price. Its evidence that
   more traders or an outside estimate reduce persistence is
   correlational and weak.
-extended_by:
-- THEORY-810
 ---
 
 <!-- inactive-ok-file: THEORY-810 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

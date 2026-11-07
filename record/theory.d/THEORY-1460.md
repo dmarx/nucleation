@@ -28,6 +28,8 @@ summary: >-
   hold that a state becomes self-sufficient by learning to tax. Proposed:
   the authors call the aid–revenue evidence negative on balance but "not
   a conclusive result", and their own analysis is bivariate.
+corroborates:
+- CLAIM-602
 ---
 
 # THEORY-1460: Large aid sustained over decades can weaken a recipient state's institutions: it substitutes for taxation, grants and not loans going with lower revenue, and it decouples the state's revenue from its performance, weakening its accountability to citizens

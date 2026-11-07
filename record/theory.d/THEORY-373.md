@@ -22,8 +22,6 @@ summary: >-
   (Theorem 4.3). It is a sufficiency result for revisions that re-annotate
   existing inputs, not a minimality result, and it excludes added facts and
   every nonmonotone operation.
-extended_by:
-- THEORY-380
 bears_on:
 - QUESTION-105
 ---

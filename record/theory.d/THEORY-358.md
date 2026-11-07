@@ -22,8 +22,6 @@ summary: >-
   similarity account of Duncan and Humphreys ([LIT-1081](../literature.d/LIT-1081.md)), which the
   record could not obtain, and it does not follow that any item unique in
   one attribute pops out in a real pile.
-supports:
-- CLAIM-310
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; the rival account, cited as unread -->
 

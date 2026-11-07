@@ -62,11 +62,6 @@ summary: >-
   of features into a search for one feature within each bin, which Treisman and Gelade
   (LIT-1082, read) show is the difference between a serial scan and one found
   at a glance.
-illustrated_by:
-- CASE-094
-- CASE-132
-objected_by:
-- CLAIM-313
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->

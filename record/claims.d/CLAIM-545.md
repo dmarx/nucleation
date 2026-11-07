@@ -59,8 +59,6 @@ uses:
 - TERM-086
 complements:
 - CLAIM-352
-corroborated_by:
-- THEORY-988
 bears_on:
 - QUESTION-364
 - QUESTION-071

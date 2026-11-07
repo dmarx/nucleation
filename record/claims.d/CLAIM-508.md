@@ -34,8 +34,6 @@ line:
 grounds:
 - THEORY-1104
 - THEORY-1105
-corroborated_by:
-- THEORY-1100
 bears_on:
 - QUESTION-277
 summary: >-

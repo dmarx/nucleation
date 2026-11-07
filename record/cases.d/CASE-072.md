@@ -22,8 +22,6 @@ summary: >-
   instance of the half of a change of cover in which the rendering
   decides what the source left open. The disagreement on the source is
   among translators and scholars; no reader agreement has been measured.
-supports:
-- CLAIM-201
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
 

@@ -19,9 +19,6 @@ summary: >-
   form is everything, translated dozens of ways by Hofstadter and
   others. The exchange's founding case, and the manuscript's opening one
   (§1).
-variants:
-- CASE-011
-- CASE-019
 ---
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-766 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->

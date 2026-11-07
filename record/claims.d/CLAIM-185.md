@@ -57,8 +57,6 @@ summary: >-
   others. The readings fit the reframing: a physical nucleus is defined by
   persistence, and seeds that do not persist lose their power. Proposed:
   the generalization is stated, not tested.
-supports:
-- CLAIM-176
 complements:
 - CLAIM-303
 - CLAIM-195

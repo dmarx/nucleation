@@ -42,11 +42,6 @@ summary: >-
   Built over A21–A30, against the assistant's quantum move and then the
   owner's U13. The manuscript §9 states it. Its strongest ground, the
   record's [THEORY-013](../theory.d/THEORY-013.md), is not cited in the manuscript.
-illustrated_by:
-- CASE-017
-corroborated_by:
-- THEORY-010
-- THEORY-013
 ---
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->

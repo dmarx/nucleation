@@ -28,8 +28,6 @@ summary: >-
   worst-case bound by existence with an untracked constant. It is not a
   phase transition, and the paper notes that ε-incoherent sets fit in
   o(ε⁻² lg n) dimensions for small enough ε.
-extended_by:
-- THEORY-399
 ---
 
 # THEORY-395: For ε between about lg^0.5001 n/√min{n, d} and 1, some n-point set in ℝ^d needs Ω(ε⁻² lg(ε²n)) dimensions under any map, linear or not, that keeps its pairwise squared distances within 1 ± ε, so a random projection with a union bound is optimal up to a constant for the worst set; nearly orthogonal sets can need fewer, and the bound says nothing about typical data

@@ -17,13 +17,6 @@ summary: >-
   recognizable while drifting. Shows similarity, not equivalence, as the
   working notion, and opened the serial-reconstruction line (A50,
   outline v4's running case B, the manuscript's §8 and Case II).
-supports:
-- CLAIM-106
-- CLAIM-191
-variants:
-- CASE-020
-- CASE-030
-- CASE-009
 ---
 
 # CASE-015: The telephone game

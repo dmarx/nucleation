@@ -19,8 +19,6 @@ superseded_by:
 - CLAIM-027
 uses:
 - TERM-003
-objected_by:
-- CLAIM-010
 summary: >-
   The account of will as the exchange first stated it, with the owner's
   operational definition at U34. Superseded by the agent-indexed

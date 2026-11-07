@@ -16,11 +16,6 @@ summary: >-
   individuated as that will-organization's jurisdiction ([TERM-047](TERM-047.md)).
   The middle tier between agency and selfhood; the owner's name,
   2026-10-11.
-used_by:
-- CLAIM-155
-- CLAIM-159
-- CLAIM-170
-- CLAIM-174
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the will paper's thesis listing the governed relations, and the tiers claim, open -->
 

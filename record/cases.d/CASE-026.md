@@ -19,9 +19,6 @@ summary: >-
   poem intelligible while making the speaker sound like an outsider, so
   the audience understands the observation and loses the complicity.
   Interpretive fidelity kept, performative fidelity lost.
-supports:
-- CLAIM-054
-- CLAIM-226
 ---
 <!-- inactive-ok-file: CLAIM-054 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

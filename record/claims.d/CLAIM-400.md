@@ -70,11 +70,6 @@ summary: >-
   third mode: a lean in the regime can hold interpretation and authority
   off symmetry after they would have relaxed, which no two-variable
   parameters reproduce.
-illustrated_by:
-- CASE-124
-- CASE-156
-supports:
-- CLAIM-444
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-936 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->

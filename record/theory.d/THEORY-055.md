@@ -46,11 +46,6 @@ summary: >-
   function, but the appraisal account puts the unity in the agent's
   readiness and the constructionist account puts it in the perceiver's
   concept. Proposed.
-presupposed_by:
-- THEORY-126
-supports:
-- CLAIM-432
-- CLAIM-440
 answers:
 - QUESTION-044
 ---

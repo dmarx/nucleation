@@ -31,8 +31,6 @@ summary: >-
   dually equivalent to a full subcategory of D. Pontrjagin duality is the
   example. That most dualities are of this form is [THEORY-604](THEORY-604.md)'s thesis,
   still Proposed.
-extended_by:
-- THEORY-604
 ---
 <!-- inactive-ok-file: THEORY-604 — Proposed; the breadth thesis this construction was split from and that extends it, cited as open -->
 

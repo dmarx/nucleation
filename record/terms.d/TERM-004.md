@@ -15,14 +15,6 @@ summary: >-
   invariance the case ρ_g = identity. "equivariance may be the more
   general principle for translation", as when irony in a text becomes
   posture in an image. The manuscript §4.
-used_by:
-- CLAIM-108
-- CLAIM-113
-- CLAIM-143
-- CLAIM-144
-- CLAIM-035
-- CLAIM-036
-- CLAIM-098
 ---
 
 # TERM-004: equivariance

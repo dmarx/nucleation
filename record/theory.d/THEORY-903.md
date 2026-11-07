@@ -30,8 +30,6 @@ summary: >-
   increase studies could not be tested for bias. It says nothing about
   the mechanism by which safety behaviours act, and diagnosed anxiety
   disorders are thinly represented.
-supports:
-- CLAIM-446
 ---
 <!-- inactive-ok-file: CLAIM-446 THEORY-058 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 

@@ -60,12 +60,6 @@ summary: >-
   takes the half A38 called "substantially safer": not every organization
   of practical significance is an agent. It leaves A38's other half, that
   every rich exercise of agency involves such an organization, as open.
-supports:
-- CLAIM-431
-illustrated_by:
-- CASE-166
-- CASE-169
-- CASE-175
 ---
 <!-- inactive-ok-file: CLAIM-417 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
 

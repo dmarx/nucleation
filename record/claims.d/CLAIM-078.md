@@ -45,9 +45,6 @@ summary: >-
   to be shown, recovered. The manuscript keeps half (Case I: incremental
   prediction of held-out judgements) and drops the disclaimer and the
   compositional half.
-objected_by:
-- CLAIM-208
-- CLAIM-244
 complements:
 - CLAIM-202
 ---

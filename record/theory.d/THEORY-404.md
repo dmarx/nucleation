@@ -28,8 +28,6 @@ summary: >-
   designed to convict convicts 60 percent of defendants when 70 percent
   are innocent. The paper does not analyse manipulation, does not compute
   the receiver's welfare and does not cite Blackwell.
-supports:
-- CLAIM-404
 ---
 <!-- inactive-ok-file: THEORY-414 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-040 — Proposed; accounts of manipulation and present structure named as neighbours, not leaned on -->

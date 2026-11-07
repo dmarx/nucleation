@@ -76,12 +76,6 @@ summary: >-
   along a chain, as its measure. The manuscript keeps the thesis as its
   Abstract's last sentence but drops the measure and the worked examples
   (at C6, per the chunk-5 reader).
-illustrated_by:
-- CASE-037
-objected_by:
-- CLAIM-219
-- CLAIM-235
-- CLAIM-238
 complements:
 - CLAIM-201
 bears_on:

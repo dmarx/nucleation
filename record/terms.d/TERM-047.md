@@ -23,9 +23,6 @@ summary: >-
   under which they acquire, retain, lose or alter efficacy. Its outer
   reach, as distinct from [TERM-017](TERM-017.md)'s jurisdiction, which is one relation
   inside a will-organization.
-used_by:
-- CLAIM-170
-- CLAIM-174
 ---
 <!-- inactive-ok-file: CLAIM-170 — Proposed; the owner's thesis this term is stated for, open -->
 

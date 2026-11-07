@@ -42,6 +42,8 @@ summary: >-
   other mechanisms could bridge the same gap.
 bears_on:
 - QUESTION-311
+corroborates:
+- CLAIM-443
 ---
 
 # THEORY-909: As reviewed by Gerstner et al. (2018) from five papers, mostly in slices and one laboratory per region, pairing pre- and postsynaptic activity changed the synapse when a neuromodulator or plateau potential followed within about 1 s in striatum, within 5 s (noradrenaline, LTP after pre-before-post pairing) or 2.5 s (serotonin, LTD after post-before-pre pairing) in visual and prefrontal cortex, and within about 2 s in CA1, and not at longer delays; the reviewers read this as a decaying synaptic eligibility trace and as experimental support for three-factor learning rules on behavioural time scales

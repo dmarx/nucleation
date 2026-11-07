@@ -59,8 +59,6 @@ tags:
 - translation
 date: '2026-10-10'
 line: 'pragmatic-transport'
-supersedes:
-- CLAIM-133
 answers:
 - QUESTION-029
 - QUESTION-002
@@ -86,15 +84,6 @@ summary: >-
   communicative kinds. No draft carries it, so it does not supersede the
   manuscript's thesis; on the fidelity clause it is that thesis's rival
   (CLAIM-211).
-objected_by:
-- CLAIM-140
-- CLAIM-206
-- CLAIM-211
-- CLAIM-222
-- CLAIM-238
-- CLAIM-244
-- CLAIM-246
-- CLAIM-216
 ---
 <!-- inactive-ok-file: CLAIM-133 CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-115 — Proposed; open, and cited as open: the premises and the manuscript's thesis are under test, not settled -->

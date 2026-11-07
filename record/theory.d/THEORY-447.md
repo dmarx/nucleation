@@ -47,8 +47,8 @@ summary: >-
   matters more than continuity, which Parfit asserts for lack of space, or
   that a copy or a transcript is a survivor: the dependence q-memory needs
   is left "(whatever that is)".
-presupposed_by:
-- THEORY-464
+corroborates:
+- CLAIM-287
 ---
 <!-- inactive-ok-file: THEORY-464 THEORY-476 THEORY-531 THEORY-546 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->

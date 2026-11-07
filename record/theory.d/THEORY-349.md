@@ -24,8 +24,6 @@ summary: >-
   of the class. Adequacy here is relative to the class, the outcome and the features,
   and is not unique; it is not closeness to the truth, and the papers say nothing
   about signal detection.
-extended_by:
-- THEORY-354
 bears_on:
 - QUESTION-104
 - QUESTION-103

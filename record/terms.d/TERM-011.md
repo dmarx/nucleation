@@ -15,8 +15,6 @@ summary: >-
   evidence, P(z | c), between the frame that obtains (a property of the
   situation) and the intervention that tells or asks. The middle of
   three operations A45 said "should not be conflated".
-used_by:
-- CLAIM-111
 ---
 
 # TERM-011: frame, as inferred from evidence

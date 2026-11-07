@@ -40,8 +40,6 @@ summary: >-
   matrices sit about one transition width low at small N. The title states
   only what was measured. Whether the agreement is a limit theorem is
   QUESTION-168.
-extended_by:
-- THEORY-812
 ---
 
 <!-- inactive-ok-file: THEORY-812 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

@@ -36,21 +36,6 @@ summary: >-
   Asked from the first day (A8, A11) and never answered. The will paper
   sets it aside by supposing its agent ([CLAIM-080](../claims.d/CLAIM-080.md)), which is what
   made the paper writable.
-answered_by:
-- CLAIM-170
-- THEORY-065
-- THEORY-131
-- THEORY-536
-- THEORY-583
-- THEORY-520
-bearing:
-- CLAIM-172
-refined_by:
-- QUESTION-035
-- QUESTION-033
-- QUESTION-032
-- QUESTION-049
-- QUESTION-093
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: THEORY-232 — Proposed; the comparative criterion filed today, which bears on this question without answering it -->

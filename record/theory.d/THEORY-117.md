@@ -45,8 +45,6 @@ summary: >-
   are fixed by seen pairs connecting every value, as the paper's k = 2
   cycle does. Honest selection, other architectures and more concepts are
   [QUESTION-207](../questions.d/QUESTION-207.md).
-extended_by:
-- THEORY-794
 bears_on:
 - QUESTION-025
 ---

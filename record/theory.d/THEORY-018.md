@@ -49,11 +49,6 @@ summary: >-
   positive-definite M. So the paper's remark that most inner products are
   ruled out holds only once the true concept directions are known. Under
   superposition ([LIT-323](../literature.d/LIT-323.md)) no inner product can make all features orthogonal.
-supports:
-- CLAIM-193
-- CLAIM-269
-extended_by:
-- THEORY-234
 ---
 <!-- inactive-ok-file: THEORY-1016 — Proposed; the sparse-autoencoder resolution account, cited as open -->
 

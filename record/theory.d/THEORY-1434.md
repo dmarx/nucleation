@@ -36,6 +36,8 @@ summary: >-
   capacities. It does not say anything about durations, energies or costs
   beyond feasibility. The bound is exact at a vertex of minimal spare
   capacity and only a lower bound elsewhere.
+corroborates:
+- CLAIM-591
 ---
 # THEORY-1434: Raussen shows that for a concurrent PV program on shared resources of given capacities, a spare capacity computed from the program text bounds from below the connectivity of every space of executions to the target, so that spare capacity zero marks deadlocks, at least one excludes them, and at least two makes all executions equivalent
 

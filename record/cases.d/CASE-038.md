@@ -33,9 +33,6 @@ summary: >-
   keeps it as Study 5. The first time the thing turns up in the
   record. The catalogue is documented; the experiments on it are
   proposals.
-supports:
-- CLAIM-147
-- CLAIM-222
 ---
 <!-- inactive-ok-file: CLAIM-147 CLAIM-034 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->

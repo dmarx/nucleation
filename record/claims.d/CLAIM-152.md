@@ -69,13 +69,6 @@ summary: >-
   caution on every boundary criterion filed beside it ([CLAIM-154](CLAIM-154.md),
   [CLAIM-161](CLAIM-161.md)). It does not say boundaries are arbitrary, only that
   each is relative to a stated target.
-supports:
-- CLAIM-157
-- CLAIM-348
-- CLAIM-363
-- CLAIM-367
-- CLAIM-401
-- CLAIM-405
 grounds:
 - THEORY-194
 - THEORY-202
