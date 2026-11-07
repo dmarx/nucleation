@@ -7,14 +7,14 @@ tags:
 date: '2026-11-07'
 summary: >-
   Two synthesis reviews moved claims into the SYNTHESIS scheme that other
-  live claims rested on: CLAIM-544 on CLAIM-545, and CLAIM-338 on
-  CLAIM-336. A claim's `rests_on` accepted only CLAIMs, so those
+  live claims rested on: [CLAIM-544](../claims.d/CLAIM-544.md) on [CLAIM-545](../claims.d/CLAIM-545.md), and [CLAIM-338](../claims.d/CLAIM-338.md) on
+  [CLAIM-336](../claims.d/CLAIM-336.md). A claim's `rests_on` accepted only CLAIMs, so those
   dependencies stayed on Superseded entries. This decision lets a claim's
   `rests_on` name a SYNTHESIS, with SYNTHESIS gaining the derived converse
   `supports`. The `argument` chain walked `rests_on`, and a luria chain
   stays within one scheme. So the chain now walks a named pattern,
   `rests_on_claim`, the claim-to-claim steps, in its place. Its
-  demonstration repoints CLAIM-338 and CLAIM-544. Rejected: leaving the
+  demonstration repoints [CLAIM-338](../claims.d/CLAIM-338.md) and [CLAIM-544](../claims.d/CLAIM-544.md). Rejected: leaving the
   dependencies on Superseded claims; a separate field such as `presupposes`
   for a dependency on a synthesis; replacing the chain with a hand-written
   view.
@@ -27,14 +27,14 @@ summary: >-
 
 ## Context
 
-ADR-077 moves a claim that passes admission into the SYNTHESIS scheme and
+[ADR-077](ADR-077.md) moves a claim that passes admission into the SYNTHESIS scheme and
 supersedes the claim. The reviews repoint the relations that describe the
 current account. One kind could not be repointed. A claim's `rests_on`
 accepted only CLAIMs, so a live claim that rested on a moved claim kept
 resting on a Superseded entry:
 
-- CLAIM-544 on CLAIM-545, moved in the first review as SYNTHESIS-007;
-- CLAIM-338 on CLAIM-336, moved in the second as SYNTHESIS-tmprnoj1.
+- [CLAIM-544](../claims.d/CLAIM-544.md) on [CLAIM-545](../claims.d/CLAIM-545.md), moved in the first review as [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md);
+- [CLAIM-338](../claims.d/CLAIM-338.md) on [CLAIM-336](../claims.d/CLAIM-336.md), moved in the second as [SYNTHESIS-tmprnoj1](../syntheses.d/SYNTHESIS-tmprnoj1.md).
 
 Both reviews left these for the owner.
 
@@ -48,7 +48,7 @@ pointed out that a pattern can carry what is too complex for a chain.
 - **A claim's `rests_on` may name a SYNTHESIS.** It keeps its meaning, a
   premise the claim could not stand without, whichever scheme now holds
   the premise. SYNTHESIS gains `supports`, derived from those `rests_on`
-  (ADR-tmp53l4u), so a synthesis's page shows the claims resting on it.
+  ([ADR-tmp53l4u](ADR-tmp53l4u.md)), so a synthesis's page shows the claims resting on it.
 - **The `argument` chain walks a named pattern in place of the field.** The
   pattern `rests_on_claim`, `(c:CLAIM)-[:rests_on]->(p:CLAIM)`, gives
   exactly the claim-to-claim steps the chain walked before, beside
@@ -60,8 +60,8 @@ pointed out that a pattern can carry what is too complex for a chain.
   on it needing another route, as a retracted claim would.
 - **The synthesis review repoints a claim's `rests_on`** when it moves the
   claim rested on. The `synthesis-review` skill says so.
-- **Demonstration (ADR-071).** CLAIM-338's `rests_on` now names
-  SYNTHESIS-tmprnoj1, and CLAIM-544's names SYNTHESIS-007. Each has a
+- **Demonstration ([ADR-071](ADR-071.md)).** [CLAIM-338](../claims.d/CLAIM-338.md)'s `rests_on` now names
+  [SYNTHESIS-tmprnoj1](../syntheses.d/SYNTHESIS-tmprnoj1.md), and [CLAIM-544](../claims.d/CLAIM-544.md)'s names [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md). Each has a
   history note.
 
 ## Alternatives considered
@@ -84,4 +84,4 @@ pointed out that a pattern can carry what is too complex for a chain.
 - The `argument` chain renders as before; its source line now names
   `rests_on_claim`.
 - A Current synthesis can be rested on by a Proposed claim, as any premise
-  can. ADR-076's lint rules on a synthesis's own premises are unaffected.
+  can. [ADR-076](ADR-076.md)'s lint rules on a synthesis's own premises are unaffected.
