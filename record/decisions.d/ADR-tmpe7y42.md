@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: 'A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At A's review of the pull request, pasted by the owner, and as the
+    owner refined it: filing is gated by an admission test. A synthesis is
+    filed as a CLAIM only if its integration can fail while every
+    component holds, shown by a stated case. Otherwise it stays in the
+    curation entry with its audit. The skill's ARG rule is narrowed to
+    support that bears load or is contested. The test was applied to the
+    six synthesis CLAIMs this filing had made.
 tags:
 - record
 date: '2026-11-07'
@@ -21,6 +32,8 @@ summary: >-
   fidelity, standing and integration. The latest version of each distinct
   proposed or supposed thesis is filed as one CLAIM, with its components
   in `rests_on` or the body, and revised in place when it returns.
+  A synthesis is admitted only if a stated case shows its integration can
+  fail while every component holds (version 2).
   Rejected: a new scheme for positions, until a synthesis CLAIM strains;
   filing every version; and the status quo.
 ---
@@ -84,22 +97,46 @@ ledger and before the curation entry.
      established;
    - **integration**: what the synthesis claims beyond its components.
      If that is nothing but labels, it is a recap.
-5. **File the latest version of each distinct proposed or supposed
-   thesis** as one CLAIM, Proposed, with role `thesis` or `supposed`.
+5. **Admit it, or don't** (version 2). A synthesis is filed as a CLAIM
+   only if its integration can fail while every component holds. The
+   audit must state a coherent case, stipulated if need be, in which
+   every component the synthesis rests on or names is true and the
+   integrating claim is false. That case becomes the core of its
+   `defeated_if`. Each of the three ways a synthesis can add to its
+   components passes this test: a distinct integrative proposition, an
+   explanatory dependency between components, or a discriminating
+   prediction. A synthesis for which no such case can be stated is
+   exhausted by its components. It is not filed. It and its audit stay in
+   the curation entry, linked to the components. Two failures are
+   guarded against:
+   - **Salience without work.** The record's own legibility depends on
+     how it files. A broad synthesis filed as one more CLAIM gains
+     salience it has not earned, and it makes the distinctions it
+     integrates harder to find.
+   - **Losing a real integration to loose wording.** If a narrower
+     integrating sentence passes where the stated one doesn't, the
+     narrower one is filed.
+
+   A synthesis CLAIM already filed that fails the test is retired by
+   status, Rejected, with a status note giving the reason. Its audit
+   stays.
+6. **File the latest version of each admitted thesis** as one CLAIM,
+   Proposed, with role `thesis` or `supposed`.
    - Its title states the integrating claim, not a label.
    - Its body gives the layers, each with its codes, voice and status,
      and the audit's corrections marked as corrections.
    - Its `rests_on` holds the component CLAIMs that are premises.
      Components that only illustrate are named in the body.
-   - Its `defeated_if` targets the integration, and includes the
-     objection that it only restates its components.
+   - Its `defeated_if` states the admission case (step 5) and includes
+     the objection that it only restates its components.
    - Earlier versions are listed in the body, not filed.
    - A descriptive synthesis is audited, not filed. The audit is the
      check it gets.
-6. **Revise, don't duplicate.** When the record already holds a
+7. **Revise, don't duplicate.** When the record already holds a
    synthesis CLAIM for the account, a returning synthesis revises it as
-   a new version.
-7. **The curation entry gets a section, "Syntheses audited"**: each
+   a new version. A version that adds nothing that passes step 5 revises
+   nothing; its audit goes in the curation entry.
+8. **The curation entry gets a section, "Syntheses audited"**: each
    synthesis, its classification, what was filed or why it was left, and
    the findings by check.
 
@@ -109,9 +146,11 @@ The load-bearing parts:
   exchange mixes the owner's ideas, A's and the record's. Adopting it is
   the owner's call. The audit makes plain what the owner would be
   adopting, and from whom.
-- **The integration is the claim.** A synthesis CLAIM that adds nothing
-  beyond its components is defeated by its own `defeated_if`, and the
-  audit says so instead of filing it.
+- **The integration is the claim, and it must be able to fail on its
+  own.** The admission case is what makes a synthesis CLAIM answerable
+  as a synthesis. Without one, the CLAIM can only be defeated by
+  defeating a component, and it adds nothing a reader of the components
+  lacks.
 
 ## Alternatives considered
 
@@ -130,6 +169,14 @@ The load-bearing parts:
 - **File only the owner's syntheses.** The owner rarely writes one. The
   owner asks for them, and A writes them. Leaving A's means leaving the
   integration, which is the problem.
+- **Admit on the audit's judgement of "not exhausted"** (version 2). A's
+  review proposed filing a synthesis "only when the audit identifies a
+  distinct integrative proposition, explanatory dependency, or
+  discriminating prediction that is not exhausted by its components".
+  That is the right aim, but "not exhausted" is a judgement two auditors
+  can make differently, and a filer who wrote the synthesis will tend to
+  find it unexhausted. Requiring the case makes the judgement checkable:
+  a reviewer can test the case.
 - **Status quo.** Each synthesis is mapped and left. The record keeps
   paying to reconstruct its own account. Assistants keep being asked to
   do it from scratch, and their drift goes unrecorded.

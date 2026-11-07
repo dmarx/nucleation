@@ -221,15 +221,24 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **File the latest version of each distinct thesis** as one CLAIM,
+- **Admit it, or don't.** File a synthesis as a CLAIM only if you can
+  state a coherent case, stipulated if need be, in which every component
+  it rests on or names holds and its integrating claim is false. That is
+  what shows the integration (a proposition, an explanatory dependency, or
+  a discriminating prediction) is not exhausted by its parts. If no case
+  can be stated, don't file it: keep the synthesis and its audit in the
+  curation entry, linked to the components. If a narrower integrating
+  sentence passes where the stated one fails, file the narrower one. A
+  filed synthesis CLAIM that fails is retired as Rejected, with the reason.
+- **File the latest version of each admitted thesis** as one CLAIM,
   Proposed:
   - the title states the integrating claim;
   - the body gives the layers, each with its codes, voice and status,
     and the audit's corrections marked as corrections;
   - `rests_on` holds the components that are premises; components that
     only illustrate are named in the body;
-  - `defeated_if` targets the integration, including the objection that
-    it only restates its components;
+  - `defeated_if` states the admission case, and the objection that it
+    only restates its components;
   - earlier versions are listed in the body.
 - **Revise, don't duplicate.** Where a synthesis CLAIM for the account
   is held, revise it as a new version.
@@ -246,11 +255,19 @@ must end up in one of three places: filed, mapped to a held code, or
 listed as left with a reason.
 
 **Then list the support judgements.** Go through the filed entries and
-notes for every place that says one entry supports, illustrates,
-qualifies or fails to support another: a case grounding a claim, a theory
-applied to it, a citation found to carry less. Each is an ARG (step 9),
-filed before the curation entry. A brief for filers carries step 9's ARG
-rule; one that leaves it out gets entries without their arguments.
+notes for every place that says one entry supports, qualifies or fails to
+support another. A support relation needs an ARG (step 9) when it is
+**load-bearing** or **contested**:
+- *load-bearing*: a status, a `grounds` entry or a conclusion depends on
+  it, for example a case grounding a claim, or a theory applied to one;
+- *contested*: the filing doubts it, narrows it, or finds that a reading
+  carries less than it was cited for.
+
+A plain `illustrates` link, with nothing said about how much it supports,
+needs none: an ARG there is recording overhead with no gain in
+discrimination. File the ARGs before the curation entry. A brief for
+filers carries step 9's rule; a brief that leaves it out gets entries
+without their arguments.
 
 Write a curation entry (`luria new curation`) with three parts:
 
