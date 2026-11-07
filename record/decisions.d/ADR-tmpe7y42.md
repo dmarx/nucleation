@@ -25,7 +25,6 @@ summary: >-
   filing every version; and the status quo.
 ---
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
-<!-- inactive-ok-file: ADR-068 — Proposed; the decision whose skill this one extends -->
 
 # ADR-tmpe7y42: A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 

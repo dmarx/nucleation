@@ -35,7 +35,7 @@ institution-level reading and the claims slid between them.
 
 ## Note of 2026-11-07: the word returns, in another sense, from "Individuation, Possibility, and Disposition"
 
-<!-- inactive-ok-block: TERM-tmp6ersv — Proposed; filed from the same exchange -->
 A47 §8 reads the replacement correctly and supports it: "I think that change was justified." "An action-generating regime specifies an organized process capable of producing characteristic action. A disposition specifies a modal property or capacity associated with a bearer." This term's own summary is already dispositional in that sense ("capable of producing a characteristic pattern of agent-level action under appropriate conditions").
 
+<!-- inactive-ok-block: TERM-tmp6ersv — Proposed; filed from the same exchange -->
 A50 and A52 then use the word without mentioning this entry, for a person's anger and for "An open-source community can possess a disposition to reject unilateral governance changes" (A50 §6), and A52 §2 makes "dispositional organization" a layer of its own. That is the slide this entry was made to prevent. [TERM-tmp6ersv](TERM-tmp6ersv.md) brings the word back only as a property of a declared bearer within a declared boundary, not as the regime. This term stands unchanged.
