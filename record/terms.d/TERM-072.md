@@ -81,6 +81,9 @@ used_by:
 - CLAIM-430
 - CLAIM-454
 ---
+<!-- inactive-ok-file: CASE-tmpb16ru — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpxe1ih — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-104 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: ADR-050 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
@@ -310,3 +313,7 @@ intervention. In the record "PSM" also abbreviates Metzinger's phenomenal
 self-model ([NOTE-460](../notes.d/NOTE-460.md)), so the Persona Selection Model is named in full.
 
 The term is unchanged.
+
+## Note of 2026-11-07: perspectives with many carriers again, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §1, §3 and §5 and A43 §4 and §12 used this term without saying which object they meant. A41 §1's table gave the perspective's criterion of continuity as "Dynamical and historical continuity of interpretive organization", which runs realization and lineage together. A41 §3's rows ("Public-health research", "Polemical public debate", "Some vaccine-refusal communities", "Clinical care") are kinds whose realizations are particular newsrooms, clinics and forums, and its "Perspectival stability" is a character recurring across realizations, or a lineage. A43 §12 dropped efficacy from sense 1: "Organizational perspective concerns the organization through which those interpretations become available, mutually conditioned, and revisable." Sense 1 conditions efficacy too; TERM-104's motivating perspective is the bridge to the will-organization, as A43 §2 itself said. This is the case the note of 2026-10-22 (later) anticipated: such claims should say kind or lineage. CASE-tmpb16ru and CLAIM-tmpxe1ih are filed with the correction. The term is unchanged.

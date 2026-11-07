@@ -85,3 +85,7 @@ which is A14's "combined meaning–authority mode".
 - That it is new mathematics. It is the standard instability condition for
   a nonnegative 2×2 linear map. Whether reflected-appraisal models
   already contain the circuit is [QUESTION-117](../questions.d/QUESTION-117.md).
+
+## Note of 2026-11-07: a restatement that loosens the conditions, from "Individuation, Possibility, and Disposition"
+
+A45 §VII restates the condition as "Under nonnegative coupling, with \(\alpha,\delta<1\), the symmetric state becomes unstable when" βγ > (1 − α)(1 − δ). The claim needs all four entries nonnegative. The reader's rerun (200,000 random draws) found no mismatch under the claim's conditions, and 33,115 under A45's wording; with α = δ = −0.9 and β = γ = 0.2 the map is unstable (spectral radius 1.1) though βγ = 0.04 < 3.61. A52 §9 states the conditions correctly. The claim stands; A45's restatement is wrong as worded.

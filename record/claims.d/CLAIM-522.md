@@ -121,3 +121,7 @@ the criterion ([LIT-1930](../literature.d/LIT-1930.md), [LIT-1931](../literature
   distinguishes a part's output from one the modeller supplies.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-07: a test A proposed that this claim limits, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A16 §4 cites this claim rightly: "identical state trajectories under interventions on state can conceal different maintenance mechanisms". A14 §10's third test, for two systems with equivalent effective dynamics, one internally maintained and one externally supplied, is to "Extend the horizon and intervene on the production mechanisms." By this claim the first half does nothing when the outside supply is the production law given as state feedback: no horizon separates the two. Only the intervention on production does. No change.

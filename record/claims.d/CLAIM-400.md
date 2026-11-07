@@ -168,3 +168,7 @@ learners ([THEORY-936](../theory.d/THEORY-936.md)) are where that happens. This 
 linearization at a stable symmetric state and stands as it is. Borkar's
 two-timescale stochastic approximation was named with no work cited, and
 is not registered.
+
+## Note of 2026-11-07: the three-variable matrix reused, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §8's 3×3 matrix [[α, β, ν], [γ, δ, μ], [0, ε, λ]] is this claim's. The reader checked on 50,000 random draws that its det(I − J) equals this claim's expression and that the effective-coupling threshold predicts the spectral radius crossing 1 every time. A's reading, "A slowly changing legibility regime could keep reproducing that framing even as individual beliefs and participants turn over", is this claim's "a lean in the regime can outlast the advantages it was built from", applied to a label. No status changes.

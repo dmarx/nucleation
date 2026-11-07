@@ -186,3 +186,7 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A suggests that a productive nucleus in a developing organization "might need some analogous separation: relations stable enough to serve as a scaffold, combined with processes that can revise other relations as the organization develops". A adds the limit: "A DNA staple can dissociate without recognizing an error or adopting a policy of correction." Reversible binding, which Dunn et al. find helps recovery, corrects without governing.
 
 No status changes.
+
+## Note of 2026-11-07: a restatement in synergetic terms, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A restates this claim in the language of slaving. A16 §6: "a self-governing system might require the capacity to weaken, suspend, or reorganize its own slaving relations". A18 §12 separates *operative*, *productive* and *transformative* organization, the last being "relationships governing how the system can change its own operative and productive organization". A18 §7 sketches competing modes q₁, q₂ with an internal control g that changes which mode can dominate. This illustrates the claim's separability; it adds no case. No change.

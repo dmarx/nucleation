@@ -25,6 +25,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: CLAIM-tmpg7aqc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-1642 LIT-1664 — Deferred; registered from the same exchange, unread -->
@@ -266,3 +267,7 @@ status changes.
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Berry, Lee-Trimble and Santangelo ([NOTE-1605](../notes.d/NOTE-1605.md)), from the pasted synthesis on constraint architectures, qualify the question by contrast. For a vertex with nonzero curvature the two nappes of configuration space split near the flat state, and no energy suffices to cross between them without tearing. That separation is kinematic, not energetic, and none of the question's listed transitions, nucleation across a finite barrier among them, describes passing it: it points to a further kind of separation between forms, fixed by the admitted motions. The paper concerns one vertex's configuration space and says nothing of how distinctions come into being or pass away. No status changes.
+
+## Note of 2026-11-07: synchronization onset as an individuation transition, from "Individuation, Possibility, and Disposition"
+
+At U4 of the exchange (2026-11-06 to 07) the owner proposed that "entrainment and phase locking can probably be understood as kinds of individuation transitions". Synchronization onset is not among this question's listed routes. A12 §11 separates it from the transition to self-maintenance: "The transition from externally organized coherence to internally maintained organization is not necessarily a synchronization transition. It is a transition in the causal organization responsible for producing and sustaining the synchronized regime." A12 §5.4 proposes forcing-seeded formation with separate formation and maintenance thresholds and hysteresis, which CASE-191, CASE-189 and QUESTION-398 already hold. The owner's programme is CLAIM-tmpg7aqc. The question stays open.

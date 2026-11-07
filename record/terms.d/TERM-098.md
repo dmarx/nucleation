@@ -41,6 +41,7 @@ summary: >-
   corrigibility, a further achievement it does not require. A candidate,
   not adopted: [QUESTION-360](../questions.d/QUESTION-360.md) asks what would settle it.
 ---
+<!-- inactive-ok-file: CASE-tmpb16ru — filed from the same exchange, Proposed -->
 
 # TERM-098: concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies
 
@@ -94,3 +95,12 @@ conceptual."
 Whether reuse and counterfactual reach arrive together, and whether
 corrigibility comes with them or separately, in a learning system ([QUESTION-360](../questions.d/QUESTION-360.md)).
 If reuse and reach come apart, the term may need to split.
+
+## Note of 2026-11-07: the owner asks whether concepts individuate, from "Individuation, Possibility, and Disposition"
+
+At U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e) the owner asked that the individuation framework be applied to "symbols and concepts themselves", with "anti-vax" as the example (CASE-tmpb16ru). That is the first owner turn found that tests this term's clause "Not a thing or entity. A thing is an individuated organization." A did not cite the clause. A41 §6 used "individuated concept" for what this term calls conceptual organization, answering with this term's marks (reuse, systematic inference, correction as a further achievement). A41 §10 found the concept's organizational autonomy "Not established", which is TERM-088's fourth sense, and A41 §11 proposed a profile of application, inferential role, response and update to be measured before deciding concept identity. A41 §6's "Individuation of a concept and adequacy of a concept are separate properties" supports the corrigibility clause. The "thing" clause is left open, as QUESTION-tmpdalhx. The term is unchanged.
+
+## Note of 2026-11-07: concepts as capacities, and the correction, from "Individuation, Possibility, and Disposition"
+
+<!-- inactive-ok-block: CASE-tmphkso5 — Proposed; filed from the same exchange -->
+A45 §IV says "we should regard concepts partly as **capacities**", which runs the concept together with the organization that realizes it, a distinction this term keeps. A47 §8 corrects it: "an abstract concept need not itself be a causal bearer of dispositions. The dispositions are realized in its interpreters and the organizations sustaining its use." A50 §7 adds a proposed study of this term's split between a concept and its corrigibility, two communities that agree on a category and differ in revising it (CASE-tmphkso5). Supports the term's distinction; no status change.

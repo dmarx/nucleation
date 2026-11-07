@@ -73,3 +73,8 @@ terms they differ in readiness for one contingency.
 - **That observation can never tell them apart.** Inventories, training
   records and drills would. What fails is the record of completed
   interventions alone.
+
+## Note of 2026-11-07: restated as a result to be shown, from "Individuation, Possibility, and Disposition"
+
+<!-- inactive-ok-block: CASE-209 CASE-210 — Proposed; the constructions A restates -->
+A50 §10 and A52 §10 restate as a result still to be shown for dispositions: "A collection of locally demonstrated capacities is not necessarily a jointly exercisable capacity." CASE-209 already constructs that repertoire broader than simultaneous capacity, and CASE-210 the two departments matched in ordinary operation that split under a deadline-constrained demand. A cites neither. No change.

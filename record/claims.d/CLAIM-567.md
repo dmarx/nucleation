@@ -294,3 +294,7 @@ Left open: neither gives the reliability as a function of resource.
 - Left open: how the unseeded rate (0.0007 dimers/monomer cycle) scales.
 
 No status changes.
+
+## Note of 2026-11-07: compatible, buildable, deployable, maintainable, from "Individuation, Possibility, and Disposition"
+
+A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), gives this claim's chain in software: Compatible ⇏ Buildable ⇏ Deployable ⇏ Maintainable. "A feature combination can be logically valid without being buildable using the current toolchain. It can be buildable without being deployable." A then adds: "These are not proposed universal implications in the reverse direction either". This claim's form is that each property is implied by the next. The reader doubts A's denial for at least the first pair, since a configuration that can be built should be one the feature model admits; A's second clause asks that each judgement be tied to "a specified configuration, environment, and target", which may be what A meant. No status changes.

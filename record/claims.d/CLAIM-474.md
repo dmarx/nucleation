@@ -297,3 +297,7 @@ then transforming it, are a sequence, but they say the steps "may not have
 clear borders", and between species specialization can come before the
 group forms. No conflict with this claim. No status, title or warrant
 changes.
+
+## Note of 2026-11-07: cited for something it does not say, from "Individuation, Possibility, and Disposition"
+
+A, at A37 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), cites this claim for the target-dependence of identity verdicts: "What is target-dependent is the interpretation of those continuities as sufficient for a particular identity judgment." The content A gives is right, but it is CLAIM-152's (sufficiency is target-relative) and CLAIM-328's (plural successors in different respects). This claim's partial order of achievements, from interconnection to individuation, is not about successors. No status changes.

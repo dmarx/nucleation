@@ -104,3 +104,7 @@ representation."
 - No repair-hazard analysis of the released 2022 data has been done here.
   The case's "documented" standing covers the event and the data, not the
   regime.
+
+## Note of 2026-11-07: the software product as a model of an individual, from "Individuation, Possibility, and Disposition"
+
+The owner, at U14 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), verbatim: "I'm wondering if the model of an individual as a software product might be insightful here". The owner proposed a direction for inquiry, not a claim. A, at A32 §1, cited this claim rightly for the split between a persistent product and the organization producing it, and divided product identity into five levels: running instance, release, deployed service, lineage and producing organization. The levels refine the producer side without changing the claim. No status changes.

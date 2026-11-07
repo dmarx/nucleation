@@ -102,3 +102,12 @@ among non-antiparallel demands the minimal obstruction needs three, as
 here. This is the shape only. Set incompatibility supplies no torsor and no
 cycle class, and A37: "Not every optimization conflict has a cohomology
 class." The two senses of frustration are kept apart in [TERM-060](../terms.d/TERM-060.md).
+
+## Note of 2026-11-07: the frustrated triangle in A12, from "Individuation, Possibility, and Disposition"
+
+A12 §2.3 of the exchange (2026-11-06 to 07) studies three phase demands: A and B in phase, B and C in phase, C and A in antiphase (offsets 0, 0, π). That is this claim's three-context minimal obstruction at Φ = π. A's compromise configuration (0, π/3, 2π/3) has energy 3/2, which is this claim's closed form min_k 3(1 − cos((2πk − Φ)/3)) at Φ = π. The reader reran it: gradient descent from 60 random starts always ends at 1.5, with two mirror minima (k = 1, 2) and each edge violated by π/3. A did not cite this claim, and A12 §2.4 calls the circle-valued case "a natural next step", though the record holds it here and in THEORY-1082. Supports; no status change.
+
+## Note of 2026-11-07: two contexts can suffice outside a sheaf, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CLAIM-tmprmy7a CASE-tmpdwka1 — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §4 gives a presheaf of realizable observations in which two contexts that agree on their overlap fail to glue (CASE-tmpdwka1, CLAIM-tmprmy7a). This claim's result, that two contexts always glue and an obstruction needs three, is for its torsor sheaf and stands. The case shows only that outside a sheaf two contexts can suffice. No status changes.

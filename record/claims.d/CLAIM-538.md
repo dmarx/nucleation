@@ -50,6 +50,7 @@ summary: >-
   Checked by linear programming against brute-force cycle enumeration on
   random graphs.
 ---
+<!-- inactive-ok-file: CLAIM-tmpk1015 — filed from the same exchange, Proposed -->
 
 # CLAIM-538: On a finite graph of contexts whose overlaps carry preferred real offsets a and tolerances δ_e ≥ 0, an assignment within every tolerance, |Dx − a| ≤ δ, exists exactly when no cycle's holonomy exceeds the sum of its tolerances; with every δ_e > 0 the least uniform enlargement of the tolerances that admits one is the largest ratio, over simple cycles, of holonomy to summed tolerance, so the obstruction is certified by a cycle; the feasible allocations of tolerance depend on the offsets only through their class in H¹, so local adjustment can move a mismatch among the overlaps of a cycle and never remove it; and an evaluation that omits one overlap of every witnessing cycle reports a compatibility that does not hold
 
@@ -137,3 +138,7 @@ Two readings from the pasted synthesis on constraint architectures bear on the c
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability glosses this claim as showing that "the obstruction can remain invariant even as the mismatch is redistributed among edges". That is the claim's own result: local re-centring "redistributes an obstruction and never removes it". [CLAIM-588](CLAIM-588.md) makes redistribution a design target of its own. A adds a caution for origami: rigid origami closure involves noncommuting spatial rotations and is not the additive scalar cohomology of this claim. The reading of Akitaya et al. ([NOTE-1579](../notes.d/NOTE-1579.md)) holds both sides: loop closure is a product of rotations about different crease axes equal to the identity, and near flat the paper's face condition, in logarithms, is this claim's cycle condition with δ = 0, on the reader's inference. A credits the record with the warning that "A shared vocabulary of gluing does not make them one mathematical obstruction." No status changes.
+
+## Note of 2026-11-07: tolerances on the circle, from "Individuation, Possibility, and Disposition"
+
+A9 and A12 §2.4 of the exchange (2026-11-06 to 07) cite this claim rightly, as a result for real offsets with tolerances. A12 adds that phases live on the circle, so that "winding numbers and branch choices enter" and "A real-valued convex feasibility test cannot simply be transferred unchanged." That names this claim's open extension: tolerances on S¹. The exact circle case, without tolerances, is CLAIM-153 and THEORY-1082. CLAIM-tmpk1015, filed from the same exchange, uses circle-valued acceptance sets with tolerances and leaves their feasibility test unstated. No status change.

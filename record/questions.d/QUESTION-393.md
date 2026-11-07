@@ -25,6 +25,8 @@ summary: >-
   five questions are mapped to the record's entries. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-134 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CLAIM-136 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-573 CLAIM-576 — Proposed; the record's open theses and term on individuation and realized constraints, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: ARG-023 — Rejected; cited as the inference the question is framed to avoid -->
 
@@ -142,3 +144,17 @@ stated in one setting, as A proposes.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 A's fourth paste sorts the question three ways: categorical identification ("Yes, by Yoneda"), effective individuation ("A computational question") and ontological constitution ("Requires an additional philosophical argument"), held as [THEORY-032](../theory.d/THEORY-032.md), [CLAIM-150](../claims.d/CLAIM-150.md), [ARG-023](../arguments.d/ARG-023.md) and [QUESTION-284](QUESTION-284.md), and puts the new research in the second. Its mathematical conjecture, that "resource-graded relational profiles admit compositional representations that preserve the distinctions relevant to bounded reachability, observation, and architectural reconfiguration", narrows the one recorded here toward [CLAIM-576](../claims.d/CLAIM-576.md), to be pursued as "evidence relevant to, but not decisive of" the philosophical one. [QUESTION-384](QUESTION-384.md) and [QUESTION-382](QUESTION-382.md) refine this question; [CLAIM-557](../claims.d/CLAIM-557.md) adds that the descriptive and reachable partitions move in opposite directions with resources, and [QUESTION-374](QUESTION-374.md) asks about the pair. No status changes.
+
+## Note of 2026-11-07: identity as a maintained set of commitments, from "Individuation, Possibility, and Disposition"
+
+The owner, at U15 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), quoting two lines of A32 and answering them, verbatim:
+
+> > The second is much stronger, and ordinary software products generally do not satisfy it.
+>
+> open source ecosystem then. consider pytorch as a concrete example.
+>
+> > A product's identity may be a maintained set of commitments, not an invariant implementation
+>
+> sounds like we might be developing an argument for a form of Structuralism
+
+The quoted lines are A's; the building on them is the owner's. The owner's observation, that identity as "a maintained set of commitments" is "a form of Structuralism", carries this question's transformations "of time" from the individuation of objects and kinds to an individual's persistence. The record's structuralism (CLAIM-136, CLAIM-134) comes from the translation and realizability lines and is about communicative kinds and objects, not persistence. A34 §3 gives the obstacle: the structure itself changes, S_0 → S_1 → … under maps that are not isomorphisms. A34 §4 gives the fork, where two structurally equivalent repositories become two individuals; that is CLAIM-134's point that numerical plurality without relational differentiation concedes a non-relational ground. Open.

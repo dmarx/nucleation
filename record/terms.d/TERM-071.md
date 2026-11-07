@@ -93,3 +93,12 @@ A15, A16, A21–A23, A25 and A26.
 - **Not a criterion of individuality.** [QUESTION-086](../questions.d/QUESTION-086.md) and [QUESTION-093](../questions.d/QUESTION-093.md) stay
   open. A14: "A boundary that performs well for one target must not
   automatically be described as the individual's true physical boundary."
+
+## Note of 2026-11-07: conditional persistence, a sense the term lacks, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CLAIM-tmp7cpzx — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A22 §2 separates state, regime and organizational persistence, which fall under this term's senses. A22 §5 adds three more: "**Conditional persistence:** what the system looks like while it continues to exist", "**Survival persistence:** the probability it continues to exist over a specified horizon", and "**Regenerative persistence:**", restoring capabilities or preventing failures from becoming terminal. The second and third are near this term's viable and reinstatable senses. The first, the statistics of the survivors (a quasi-stationary distribution), is a sense the term lacks; CLAIM-tmp7cpzx holds that it is no evidence of the others. Whether to revise the term is the owner's call. No change.
+
+## Note of 2026-11-07: the senses re-derived again, from "Individuation, Possibility, and Disposition"
+
+A, at A37 §4 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), tabulates "different kinds of persistence" as operative stability, repertoire stability, statistical persistence, viability, productive persistence and transformative continuity, and says "these properties can diverge". These are this term's senses under other names, assembled from earlier turns of the same exchange, and the term is not cited. The exchange of 2026-10-20 had already re-derived them, as this term's summary records. No change.

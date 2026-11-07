@@ -103,3 +103,7 @@ supervenience and says it needs neither downward nor circular causation
 boundary's properties "are macro-level ones" (p. 20), and it offers no
 intervention on the macro level that holds the base fixed. So the note
 stands: the premise is denied, not refuted ([THEORY-1314](../theory.d/THEORY-1314.md)).
+
+## Note of 2026-11-07: A reaches this claim's point for synergetics, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A16 §5 argues that circular causality in synergetics does not by itself establish downward causation: if the order parameter is q = M(x₁, …, x_N), changing q "independently of its constituents may not be a physically meaningful intervention." That is this claim's point, that supervenience leaves no intervention on the macro variable holding its base fixed. A cites CLAIM-150 for it instead, which concerns whether identifying a system through its relations shows those relations constitute it. Schmietendorf 2026, "How causal is “circular causality”?" (Front. Netw. Physiol., doi:10.3389/fnetp.2026.1858616; unread), is said by A to reach the same conclusion for synergetics and network physiology. No change.

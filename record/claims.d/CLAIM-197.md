@@ -134,3 +134,8 @@ notion, and the entries are not related; that is left to the owner.
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
 The interlocutor's reading of 2026-10-12 says this claim "supplies an essential mathematical correction, but it does not necessarily defeat the transport proposal", and that the operational notion of [CLAIM-201](CLAIM-201.md) should get "a different formal name until an explicit functorial or sheaf-theoretic relationship is established". Filed as the counter [CLAIM-251](CLAIM-251.md). Recorded as advice.
+
+## Note of 2026-11-07: agreeing sections that fail to glue in a non-sheaf presheaf, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CLAIM-tmprmy7a CASE-tmpdwka1 — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §4 gives a presheaf in which two sections agree on their overlap and do not glue: the observations realizable by a system with a hidden mode fixed for a run (CASE-tmpdwka1, CLAIM-tmprmy7a). This claim's "a failure needs an overlap carrying sections that disagree" holds for sheaves, and the presheaf of realizable observations is not one. This qualifies the claim's wording, which reads as general; it does not touch the diagnosis the claim is used for. No status changes.

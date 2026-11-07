@@ -129,3 +129,7 @@ needs.
 ## Note of 2026-11-06: what holds it back
 
 [CLAIM-583](CLAIM-583.md), narrowed and promoted at this review, shows that the compatibility complex does not carry reachability; its two systems have different sets of configurations, and with a fixed move rule the configurations and their moves do carry it, so it does not show what "The state space is not enough" draws from it. No comparison is on file that the repertoire makes and a costed configuration space with its moves ([TERM-114](../terms.d/TERM-114.md)) does not, which is what the first and novelty clauses of the defeat condition ask, and the observational way is held only through [CASE-194](../cases.d/CASE-194.md), which is Proposed.
+
+## Note of 2026-11-07: a feature flag against a release, from "Individuation, Possibility, and Disposition"
+
+A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07): "A feature flag changes which existing behavior is operative. A new release can change which behaviors exist at all." That is this claim's distinction between selecting within a repertoire of realizable processes and an architecture change that alters the repertoire. A34 §10 adds that the possibility space is itself constructed. A does not cite this claim. No status changes.

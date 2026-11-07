@@ -137,3 +137,8 @@ not test it. The term is unchanged.
 In the exchange "Assess SDT Coverage" (2026-11-02), A21 §9 (four matched systems) and A22 §10 proposed the
 matched-populations test again. Neither cited this term's note of
 2026-10-25, and it is still not run.
+
+## Note of 2026-11-07: a disposition read through the profile, from "Individuation, Possibility, and Disposition"
+
+<!-- inactive-ok-block: TERM-tmp6ersv — Proposed; filed from the same exchange -->
+A47 §6 offers D^T_{O,s}(c,i) = L(Y_[0,T] | s, do(c), do(i)) as an "operational characterization" of an organizational disposition, "not a philosophical reduction of dispositions to probability kernels". That is this profile with an imposed context and a path-valued outcome over a horizon, and A50 §4 and A52 §5 repeat it. It suggests the profile is the record's operational reading of a disposition in the tendency sense (TERM-tmp6ersv), which QUESTION-268 asks about for potential. Vetter (LIT-109), whom A50 cites for it, individuates a disposition by its manifestation alone and so is the rival of a conditional profile, not its support. No change.

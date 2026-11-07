@@ -52,6 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
+<!-- inactive-ok-file: CLAIM-tmpwp3ru — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1532 THEORY-1306 — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
@@ -371,3 +372,15 @@ Read at the owner's invitation to add readings to the DNA origami filing; the wo
 **Winfree and Bekbolatov, "Proofreading tile sets".** Supports. The error rate is set by the ratio of two time scales, the dissociation of a mismatched tile against its coverage by growth. The covered tile becomes a constraint on all later growth. In Scheckenbach et al. ([LIT-2139](../literature.d/LIT-2139.md)), on the reader's reading, the unrepairable scaffold is the slow constraint against which staples exchange fast. Left open: neither varies the separation systematically.
 
 No status changes.
+
+## Note of 2026-11-07: individuation and the synchronization lens, from "Individuation, Possibility, and Disposition"
+
+The owner returned to this claim's topic at U6 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e): "I wonder if this perspective might also be informative regarding the role of (time)scale separation in structural emergence and individuation". "This perspective" is the synchronization lens of the exchange's earlier turns. What U6 adds is individuation, and synchronization as the setting where separation is made. Both are already held: individuation in this claim's "What it does not say" (a constraint so made is not thereby an individual), synchronization in CLAIM-481 and its notes. The addition is the owner's; the rest of this note is A's (A14 to A20), which the owner did not endorse.
+
+A14 §3 and A18 §2 rebuild the claim's first half (A: "I would call this *dynamical constraint formation*") and cite the claim rightly. Three additions qualify it without changing it.
+
+- **Separation can be non-monotonic.** A14 §8, from Yadav, Chandrasekar and Senthilkumar 2026 (Phys. Rev. E, doi:10.1103/v1vq-skr1; unread): "More separation need not imply more emergence, more coherence, or greater autonomy." In their adaptive networks slow adaptation leaves contrarian oscillators incoherent, while fast adaptation can let them synchronize. Unverified until read.
+- **A further candidate for defeater (a).** A18 §5 names Ott and Antonsen's 2008 reduction (arXiv:0806.0004; unread), which "produces exact low-dimensional equations on a special invariant manifold" for certain infinite populations of globally coupled phase oscillators: a low-dimensional law without rapid transverse relaxation. Like CLAIM-394's reversible case and strong lumpability, it bears on (a) only if typical.
+- **A forcing floor.** A20 §3: under a bounded disturbance |η| ≤ η_max the deviation settles at about η_max/λ⊥, not zero. So "approximately enforced" needs λ⊥H ≫ 1 over the horizon H and a small η_max/λ⊥ as well.
+
+Critical slowing in different modes, which bears oppositely on the reduction this claim describes, is CLAIM-tmpwp3ru, filed from the same exchange. No status change.

@@ -91,3 +91,7 @@ past a bifurcation it would have tipped at under slow change.
 - **That any real system has R-tipped.** The climate example is a
   zero-dimensional energy balance model; applications beyond climate are
   suggested, not shown (p. 19).
+
+## Note of 2026-11-07: chronotaxicity as tracking, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A22 §8 invokes chronotaxicity, "stability relative to time-dependent attracting structures rather than a fixed attractor", after Stefanovska ("Temporal organization in living systems: toward a physics of life", EPJ ST 2026, doi:10.1140/epjs/s11734-026-02588-1; not registered). It is the tracking of a moving attractor this reading holds. No change.

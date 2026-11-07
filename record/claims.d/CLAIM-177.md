@@ -127,3 +127,7 @@ claim did not cite:
 
 Six exchanges, one owner and one assistant family. The title says that
 and no more.
+
+## Note of 2026-11-07: a further instance, from "Individuation, Possibility, and Disposition"
+
+Across A32 to A37 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A reintroduces as new what the record holds: hysteresis of trust, "a subtle concept we haven't explored enough" (CLAIM-463, demonstrated); plural succession, as "fission" (CLAIM-328); the persistence senses (TERM-071); and it re-asks QUESTION-118 without its code. A32 §10 cites this claim for the record's structure, while A's own later turns show the phenomenon it describes. No status changes.

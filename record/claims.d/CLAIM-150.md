@@ -51,6 +51,7 @@ summary: >-
 supports:
 - CLAIM-206
 ---
+<!-- inactive-ok-file: CLAIM-417 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-472 — Proposed; the claims that name this guard, cited as open -->
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
@@ -190,3 +191,12 @@ common-cause model that fits all the manipulation data equally well,
 even under ideal conditions. Interventional evidence underdetermines
 constitution, and only a further inference settles it. No status,
 title or warrant changes.
+
+## Note of 2026-11-07: cited as the guard on ontic structuralism, from "Individuation, Possibility, and Disposition"
+
+A, at A34 §8 and A37 §9 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), cites this claim rightly as the reason a structuralist account of software ecosystems stops short of "Strong ontic structural realism — not yet established": "A metaphysics of independently individuated objects with relational properties could still reproduce the same operational findings." No status changes.
+
+## Note of 2026-11-07: cited for numerical identity, from "Individuation, Possibility, and Disposition"
+
+<!-- inactive-ok-block: CLAIM-329 — Proposed; where the caution about numerical identity is held -->
+A52 §16 says this claim "already establishes this caution", that "the model must not assume that operationally indistinguishable organizations are numerically identical or metaphysically constituted by the same relations". The claim holds the second half only: identification underdetermines constitution. The caution about numerical identity is CLAIM-329, CLAIM-287 and CLAIM-417's A40 line. The claim is interpretive, so "establishes" also overstates it. Unchanged.

@@ -50,6 +50,9 @@ summary: >-
 refined_by:
 - QUESTION-290
 ---
+<!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CLAIM-tmpjw473 — filed from the same exchange, Proposed -->
 
 <!-- inactive-ok-file: THEORY-221 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1141 — Unavailable since 2026-10-29; a candidate material cited as not reached, nothing here rests on it -->
@@ -232,3 +235,7 @@ says so. Three points the earlier connection did not record:
   within a group generation. Neither is analysed for persistence.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-07: the question re-asked for software, from "Individuation, Possibility, and Disposition"
+
+A36 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) ends on this question without its code: "When a project changes hands, what exactly must be transmitted for the successor to count as a continuation of the same organization—and what happens when the code, the community, and the authority to define the project no longer travel together?" A's partial answer is that what must be transmitted includes the productive relations: who can review, release and replace maintainers. Bearing on it, filed from the same exchange: CASE-tmpcr92d, a proposed study of contested against accepted succession, whose key measure is the lag between lost legitimacy and lost productive capability; and CLAIM-tmpjw473, that participants' verdicts help make the succession. Under CLAIM-329, the Freenode case (A's report) would pick Libera. Open.

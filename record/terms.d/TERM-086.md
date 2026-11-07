@@ -153,3 +153,10 @@ No status, title or warrant changes.
 ## Note of 2026-11-06: what holds it back
 
 The two entries that use it name no mode: [CLAIM-514](../claims.d/CLAIM-514.md) calls producing, maintaining and revising world-modeling capabilities "further achievements" without saying which mode each is, and [CLAIM-545](../claims.d/CLAIM-545.md) cites only A26's line that freedom is an organizational achievement, with no target or mode. And the definition does not say whether revising a capacity is its reproductive mode, which includes "adapting the relations the capacity depends on", or, as [QUESTION-362](../questions.d/QUESTION-362.md) says of a modeling repertoire, "a fourth thing, distinct from reproduction".
+
+## Note of 2026-11-07: which sense of "dispositional", and a fourth mode, from "Individuation, Possibility, and Disposition"
+
+<!-- inactive-ok-block: TERM-tmp6ersv — Proposed; filed from the same exchange -->
+A47 §1 (answering the owner's U22) calls the three modes "remarkably close to exactly what we've been trying to articulate" and reads them correctly. A47 §2 then separates a disposition ("What is this system characteristically disposed to manifest across relevant circumstances?") from a capacity ("What can it actually accomplish under specified conditions?"). This term's dispositional mode is the second of those: it "sustains a capacity for J across a declared family of conditions, exercised or not". It is the ability sense, sense 1 of TERM-tmp6ersv, not the tendency sense.
+
+A49, A50 §9 and A52 §3 read this term's note of 2026-11-06 correctly and propose a fourth, "Transformative" row: "Transformation might be a special reproductive process in some systems, but not by definition." "A system can also be excellent at faithfully reproducing an old capacity while unable to invent or adapt it." That second point is CLAIM-025, which the earlier note did not cite, with CLAIM-018's norm-changing capacity; a capability brought in from outside is TERM-099's "Installation" (CASE-191). The open question therefore has held material on the side of a separate thing: CLAIM-025, CLAIM-018 and QUESTION-362. No status or title changes.

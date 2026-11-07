@@ -66,3 +66,7 @@ negative answer is as useful: holonomy that adds nothing once the pairwise
 couplings and the connection Laplacian's spectrum are known. [CASE-179](../cases.d/CASE-179.md) is
 the natural place to run it, as an added readout of its frustrated-maps
 regime.
+
+## Note of 2026-11-07: a temporal extension that drops the first condition, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A25 §7 cites this question rightly, holonomy as error or as maintained feature, and extends it to drifting relations over time. A's extension omits this question's first condition, "The transports must not be the modeller's": in A's temporal story the offsets are chosen, not fitted from data. No change.
