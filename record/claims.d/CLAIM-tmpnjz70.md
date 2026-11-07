@@ -117,10 +117,10 @@ The architecture, in layers:
    organizational sense (Active). The owner's [CLAIM-417](CLAIM-417.md) (Proposed) recast
    the record's selves as organizational perspectives, and this claim
    complements it. **(Version 2.)** What a perspective makes available is
-   realized by a maintained legibility regime, TERM-064's "maintained
+   realized by a maintained legibility regime, [TERM-064](../terms.d/TERM-064.md)'s "maintained
    organization of observation channels, classifications, attention and
    interpretive procedures" (Active, the owner's term). A58 §4 gives the
-   same definition. CLAIM-400 (Active, demonstrated) gives the regime a
+   same definition. [CLAIM-400](CLAIM-400.md) (Active, demonstrated) gives the regime a
    state of its own in the linear model.
 3. **Will.** Which distinctions become effective: [TERM-023](../terms.d/TERM-023.md) (Active), with
    claimed precedence apart from granted authority ([CLAIM-283](CLAIM-283.md), Active).
@@ -145,18 +145,18 @@ The architecture, in layers:
    policy is chosen**". A58 §3: "The available actions shape which
    distinctions an adequate perspective must recognize. But the recognized
    distinctions also constrain which policies can be enacted." This is
-   CLAIM-535 (Active, demonstrated): where acceptable actions overlap, the
+   [CLAIM-535](CLAIM-535.md) (Active, demonstrated): where acceptable actions overlap, the
    coarsest sufficient observations are several and incomparable, so the
    action the will commits to fixes which distinctions the perspective
    must make legible. The arrow runs back from layer 3 to layer 2. A
    shortfall can be relieved from either side, by a new distinction or a
-   new channel (CLAIM-532, Active), and the action route needs an action
-   acceptable across what is merged (ARG-tmp77psp; CLAIM-572's hedge). At
-   the individual's scale, the owner's CLAIM-553 (Proposed) holds the same
+   new channel ([CLAIM-532](CLAIM-532.md), Active), and the action route needs an action
+   acceptable across what is merged ([ARG-tmp77psp](../arguments.d/ARG-tmp77psp.md); [CLAIM-572](CLAIM-572.md)'s hedge). At
+   the individual's scale, the owner's [CLAIM-553](CLAIM-553.md) (Proposed) holds the same
    dependence the other way round: a perspective's demand is observed only
    if the discrepancy is legible and a channel carries it, so a perspective
    that does not intervene has not thereby endorsed. One consequence for
-   comparing perspectives is filed as CLAIM-tmpo48w1.
+   comparing perspectives is filed as [CLAIM-tmpo48w1](CLAIM-tmpo48w1.md).
 
 What the integration adds to the owner's [CLAIM-336](CLAIM-336.md) is layer 5. The loop
 between meaning and will runs through what is transmitted. So it can make
@@ -207,26 +207,26 @@ individuals under the same criterion.
 
 ## Corrections to A58 (version 2)
 
-- **Correction (coverage).** A58 drops the owner's CLAIM-553, the
+- **Correction (coverage).** A58 drops the owner's [CLAIM-553](CLAIM-553.md), the
   legibility factor in observed intervention, which is layer 6 at the
-  individual's scale. It also drops CLAIM-403's ladder (access,
-  recognition, credibility, uptake), CLAIM-404's informational and
-  evaluative routes, and CLAIM-572 and CASE-194 on the action route.
-- **Correction (attribution).** TERM-064 is the owner's, raised at U22 of
-  2026-10-20, and A58 tells it as "Nucleation already has". CLAIM-523 is
+  individual's scale. It also drops [CLAIM-403](CLAIM-403.md)'s ladder (access,
+  recognition, credibility, uptake), [CLAIM-404](CLAIM-404.md)'s informational and
+  evaluative routes, and [CLAIM-572](CLAIM-572.md) and [CASE-194](../cases.d/CASE-194.md) on the action route.
+- **Correction (attribution).** [TERM-064](../terms.d/TERM-064.md) is the owner's, raised at U22 of
+  2026-10-20, and A58 tells it as "Nucleation already has". [CLAIM-523](CLAIM-523.md) is
   the owner's synthesis, told as what "Nucleation calls".
 - **Correction (fidelity).** A58 §1's fourth stage, "Interpretive
-  significance", replaces TERM-064's standing, whether a recognized
+  significance", replaces [TERM-064](../terms.d/TERM-064.md)'s standing, whether a recognized
   distinction gets credibility or authority. A56's "allowed to matter" is
   the better reading.
 - **Correction (standing).** A57: "another shows that a coherent
   institutional decision record can be produced by selectively excluding
-  dissent". CLAIM-448 is an objection (role counter, warrant
+  dissent". [CLAIM-448](CLAIM-448.md) is an objection (role counter, warrant
   interpretive), and its settling model is not built. Its formal support,
-  THEORY-916's special case, carries only the weaker half (ARG-tmpr43gg).
-  TERM-098 is cited without its Proposed status, and A58 §4's reading of
-  CLAIM-400 as "a possible mechanism for institutional memory" has no case
-  in the record, as CLAIM-400 itself warns.
+  [THEORY-916](../theory.d/THEORY-916.md)'s special case, carries only the weaker half ([ARG-tmpr43gg](../arguments.d/ARG-tmpr43gg.md)).
+  [TERM-098](../terms.d/TERM-098.md) is cited without its Proposed status, and A58 §4's reading of
+  [CLAIM-400](CLAIM-400.md) as "a possible mechanism for institutional memory" has no case
+  in the record, as [CLAIM-400](CLAIM-400.md) itself warns.
 
 ## What it does not say
 
@@ -255,6 +255,6 @@ owner's U26 asked about "our framework's accounts in the neighborhood of";
 A57's two-sentence frame and A58 §11's "The synthesis I'd propose" answer
 it. A58 §11: "**Legibility is the operative accessibility of distinctions
 to an observer under a specified task, representation, and resource
-regime.**" Its synthesis paragraph recaps layers 1 to 3 and CLAIM-532. Its
+regime.**" Its synthesis paragraph recaps layers 1 to 3 and [CLAIM-532](CLAIM-532.md). Its
 one integrating clause, layer 6, is stated in A57 and A58 §3, not in the
 paragraph itself.

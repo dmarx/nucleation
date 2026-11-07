@@ -20,7 +20,7 @@ summary: >-
   Disposition" (2026-11-06 to 07): A41 §12's vignette study, with the two
   factors and the adoption measure A55 §5 adds in the second share,
   answering the owner's U25 ("propose additions and/or updates to the
-  Nucleation record"). The example is the owner's, from U19 (CASE-tmpb16ru).
+  Nucleation record"). The example is the owner's, from U19 ([CASE-tmpb16ru](CASE-tmpb16ru.md)).
   Descriptions of vaccination-related positions are crossed with the
   label's presence, the classifier's authority and a chance to reconsider;
   what is measured is where the label is applied, what is inferred, how the
@@ -62,28 +62,28 @@ to reclassification?"). Its purpose is "to discriminate among descriptive
 classification, external labeling effects, internal identification, and
 practical resistance".
 
-**Kept apart.** The positions CASE-tmpb16ru records: "It would be important
+**Kept apart.** The positions [CASE-tmpb16ru](CASE-tmpb16ru.md) records: "It would be important
 to distinguish generalized opposition to vaccination, uncertainty
 concerning a particular vaccine, opposition to a mandate, and barriers to
 access. They should not be stipulated to constitute one attitude."
 
 ## What it can show
 
-- **The classifier's authority bears on CLAIM-tmpxe1ih.** The reader's
+- **The classifier's authority bears on [CLAIM-tmpxe1ih](../claims.d/CLAIM-tmpxe1ih.md).** The reader's
   reading: if the same description is reclassified when the classifier
   lacks authority and not when it has it, jurisdiction is acting on the
   conditions of interpretation, not only on its outputs.
-- **The adoption measure is CASE-141's point at population scale.** A55:
-  CASE-141 "establishes why adoption of a label is not necessary for its
+- **The adoption measure is [CASE-141](CASE-141.md)'s point at population scale.** A55:
+  [CASE-141](CASE-141.md) "establishes why adoption of a label is not necessary for its
   use to affect someone's circumstances". If treatment of the labelled
-  changes whether or not they adopt the label, the label acts as CLAIM-402
+  changes whether or not they adopt the label, the label acts as [CLAIM-402](../claims.d/CLAIM-402.md)
   says a classification can, through others' use of it.
 
 ## What it cannot show
 
 - **The vignettes reach interpreters, not the classified.** The reader's
   qualification: telling participants about cases is a do(I) intervention
-  in CLAIM-130's sense (as QUESTION-360's note of 2026-11-07 says of A41
+  in [CLAIM-130](../claims.d/CLAIM-130.md)'s sense (as [QUESTION-360](../questions.d/QUESTION-360.md)'s note of 2026-11-07 says of A41
   §12). The vignette arms measure interpreters' profiles. The effects of the
   classification on those classified need the longitudinal arm or field
   data.
@@ -93,7 +93,7 @@ access. They should not be stipulated to constitute one attitude."
   evidence about vaccines."
 - **Not several concepts from revision alone.** The reader's
   qualification: a difference in what leads to reclassification is not by
-  itself evidence that the communities hold two concepts, since TERM-098
-  keeps a concept apart from its corrigibility (QUESTION-tmpdalhx).
+  itself evidence that the communities hold two concepts, since [TERM-098](../terms.d/TERM-098.md)
+  keeps a concept apart from its corrigibility ([QUESTION-tmpdalhx](../questions.d/QUESTION-tmpdalhx.md)).
 
 As a stipulated design it has no results.

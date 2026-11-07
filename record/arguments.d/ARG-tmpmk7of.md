@@ -14,9 +14,9 @@ date: '2026-11-07'
 line:
 - distributed-agency
 summary: >-
-  From the reader's construction CASE-tmp3l0hh to CLAIM-448's existence
+  From the reader's construction [CASE-tmp3l0hh](../cases.d/CASE-tmp3l0hh.md) to [CLAIM-448](../claims.d/CLAIM-448.md)'s existence
   half. Filed from the second share of the exchange "Individuation,
-  Possibility, and Disposition" (U26), where A57 said CLAIM-448 "shows"
+  Possibility, and Disposition" (U26), where A57 said [CLAIM-448](../claims.d/CLAIM-448.md) "shows"
   what it only argues. The construction is coherent and separates the two
   things the claim says come apart, a coherent record and integrated
   perspectives. The persistence clause and the prediction about
@@ -29,13 +29,13 @@ summary: >-
 
 ## The inference
 
-1. In CASE-tmp3l0hh, three perspectives' pairwise majorities form a
+1. In [CASE-tmp3l0hh](../cases.d/CASE-tmp3l0hh.md), three perspectives' pairwise majorities form a
    cycle, so their winning-move relation has no ordinal potential.
 2. The chair, standing for the legibility regime, admits only two of the
    three contests. The admitted relation has the potential x, y, z.
 3. So the record is coherent while the perspectives are not integrated,
    and the coherence comes from which contests were admitted. That is
-   CLAIM-448's existence half.
+   [CLAIM-448](../claims.d/CLAIM-448.md)'s existence half.
 
 ## Critical questions
 
@@ -49,12 +49,12 @@ summary: >-
   which is what the existence half needs. It does not separate a
   *persistent* potential from integration, since it is one round. Nor
   does it bear on the prediction that improving legibility raises
-  recorded conflict, except in the toy itself. Those parts of CLAIM-448
+  recorded conflict, except in the toy itself. Those parts of [CLAIM-448](../claims.d/CLAIM-448.md)
   stand as interpretive, as before.
 
 ## What it does not show
 
-The construction does not make CLAIM-448 demonstrated as a whole. It
+The construction does not make [CLAIM-448](../claims.d/CLAIM-448.md) demonstrated as a whole. It
 moves its existence half from argued to constructed, and leaves the rest
-as it was. THEORY-916 stays a corroborating account, as CLAIM-448's
+as it was. [THEORY-916](../theory.d/THEORY-916.md) stays a corroborating account, as [CLAIM-448](../claims.d/CLAIM-448.md)'s
 version 2 placed it.

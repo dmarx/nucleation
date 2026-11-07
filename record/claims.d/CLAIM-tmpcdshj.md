@@ -110,11 +110,11 @@ The architecture, in layers:
    2026-11-05) from kinds to
    individuals. Both of this layer's directions, two structurally
    identical copies that are two and one individual through a change
-   that is not an isomorphism, are CLAIM-593's for mechanisms (Active),
+   that is not an isomorphism, are [CLAIM-593](CLAIM-593.md)'s for mechanisms (Active),
    which the exchange's first share does not cite; A55 §1 of the second
    share does. The first carries over whole; the second only as
    consistency, since for mechanisms it rests on a stipulation and here
-   on CLAIM-329's criterion (ARG-tmpvxtof). It also extends the owner's [CLAIM-136](CLAIM-136.md) (Proposed), which
+   on [CLAIM-329](CLAIM-329.md)'s criterion ([ARG-tmpvxtof](../arguments.d/ARG-tmpvxtof.md)). It also extends the owner's [CLAIM-136](CLAIM-136.md) (Proposed), which
    is synchronic and scoped to communicative acts.
 4. **Transmission may be external.** A32 §12: "A product can be a coherent
    historical individual even though almost all the processes sustaining
@@ -143,8 +143,8 @@ neither cited in the exchange.
   "Organizational identity can fission", and its "organizational
   continuity may branch". [CLAIM-328](CLAIM-328.md) holds "plural successor relations, not
   branching identity". Which successor relation, if any, is the
-  persistence is QUESTION-118 (Open); that succession can be plural
-  without identity branching is CLAIM-328, answering QUESTION-290. The title says different successors continue different respects.
+  persistence is [QUESTION-118](../questions.d/QUESTION-118.md) (Open); that succession can be plural
+  without identity branching is [CLAIM-328](CLAIM-328.md), answering [QUESTION-290](../questions.d/QUESTION-290.md). The title says different successors continue different respects.
 - **Correction (fidelity): the transmission is causal.** A37's "historically
   connected" is weaker than its own next clause and than [CLAIM-329](CLAIM-329.md). The
   title keeps "causal transmission".

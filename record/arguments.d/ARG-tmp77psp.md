@@ -20,15 +20,15 @@ line:
 - will-organization
 summary: >-
   From A58 §8 of the second share of the exchange "Individuation,
-  Possibility, and Disposition" (2026-11-06 to 07), which reads CLAIM-532's
+  Possibility, and Disposition" (2026-11-06 to 07), which reads [CLAIM-532](../claims.d/CLAIM-532.md)'s
   new distinction and new channel as two routes past one limitation: "An
   organization can overcome a limitation by changing what it can do, not
-  only by improving what it can see." CASE-194 supports the two routes as
+  only by improving what it can see." [CASE-194](../cases.d/CASE-194.md) supports the two routes as
   separate repairs. It also qualifies A's reading: where no action is
   acceptable in both circumstances an organization cannot tell apart, as
-  for CASE-194's observational organization, no enlargement of action
-  repairs it. The qualification is the reader's, from CLAIM-535 and
-  CLAIM-572's hedge. The wording is the reader's; adopting it is the
+  for [CASE-194](../cases.d/CASE-194.md)'s observational organization, no enlargement of action
+  repairs it. The qualification is the reader's, from [CLAIM-535](../claims.d/CLAIM-535.md) and
+  [CLAIM-572](../claims.d/CLAIM-572.md)'s hedge. The wording is the reader's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CASE-194 — Proposed; the stipulated construction argued from -->
@@ -37,21 +37,21 @@ summary: >-
 
 ## The inference
 
-1. CASE-194: one task, output y = c for a fair context c ∈ {−1, +1}, and
+1. [CASE-194](../cases.d/CASE-194.md): one task, output y = c for a fair context c ∈ {−1, +1}, and
    three organizations at 50%. S has one shared actuator setting, E an
    observation identical in both contexts, G an authority rule that always
    selects the process proposing +1. Revealing the context repairs E and
    not S; enlarging actuation repairs S, given the context; revising
    authority repairs G only.
 2. So a new distinction (E's repair) and a new channel of action (S's) are
-   separate repairs, which is CLAIM-532's "a new distinction it can make
+   separate repairs, which is [CLAIM-532](../claims.d/CLAIM-532.md)'s "a new distinction it can make
    legible or a new channel by which it can act" read as two routes.
 3. A58 §8 (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c)
    adds that an organization "can change its available actions or
    capacities so that one response becomes acceptable across circumstances
-   it previously had to distinguish". By CLAIM-535's criterion that needs a
+   it previously had to distinguish". By [CLAIM-535](../claims.d/CLAIM-535.md)'s criterion that needs a
    hedge, an action acceptable in every circumstance the observation
-   merges (CLAIM-572: "a hedge"). For E the task is y = c, so A(−1) = {−1}
+   merges ([CLAIM-572](../claims.d/CLAIM-572.md): "a hedge"). For E the task is y = c, so A(−1) = {−1}
    and A(+1) = {+1} share nothing, and no enlargement of actuation gives an
    acceptable policy on E's observation. Only observation repairs E.
 
@@ -66,9 +66,9 @@ summary: >-
   stipulated construction (standing fictional), and its repairs come from
   outside, not from the organization's own activity.
 
-**Verdict.** It supports CLAIM-532's two routes as separate repairs. It
+**Verdict.** It supports [CLAIM-532](../claims.d/CLAIM-532.md)'s two routes as separate repairs. It
 does not bear on what makes a repair self-formation: its interventions are
-installed, which CLAIM-532's second test excludes. It qualifies A58 §8:
+installed, which [CLAIM-532](../claims.d/CLAIM-532.md)'s second test excludes. It qualifies A58 §8:
 the action route is open only where a hedge exists. A's "The second
 possibility is easy to overlook" is wrong of the record, which prices that
-route against observation on one budget in CLAIM-572.
+route against observation on one budget in [CLAIM-572](../claims.d/CLAIM-572.md).
