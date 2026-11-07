@@ -21,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-076 ADR-077 ADR-078 ADR-079 — Proposed; the scheme, the move rule, the review and the relation storage this amends -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-545 — Superseded by their syntheses -->
-<!-- inactive-ok-file: SYNTHESIS-007 SYNTHESIS-tmprnoj1 CLAIM-338 CLAIM-544 — Proposed; the syntheses now rested on, and the claims that rest on them -->
+<!-- inactive-ok-file: SYNTHESIS-007 SYNTHESIS-011 CLAIM-338 CLAIM-544 — Proposed; the syntheses now rested on, and the claims that rest on them -->
 
 # ADR-tmp1304r: A claim's rests_on may name a SYNTHESIS, so a claim whose premise moved into that scheme keeps its dependency; the argument chain walks the claim-to-claim steps through a pattern
 
@@ -34,7 +34,7 @@ accepted only CLAIMs, so a live claim that rested on a moved claim kept
 resting on a Superseded entry:
 
 - [CLAIM-544](../claims.d/CLAIM-544.md) on [CLAIM-545](../claims.d/CLAIM-545.md), moved in the first review as [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md);
-- [CLAIM-338](../claims.d/CLAIM-338.md) on [CLAIM-336](../claims.d/CLAIM-336.md), moved in the second as [SYNTHESIS-tmprnoj1](../syntheses.d/SYNTHESIS-tmprnoj1.md).
+- [CLAIM-338](../claims.d/CLAIM-338.md) on [CLAIM-336](../claims.d/CLAIM-336.md), moved in the second as SYNTHESIS-011.
 
 Both reviews left these for the owner.
 
@@ -61,7 +61,7 @@ pointed out that a pattern can carry what is too complex for a chain.
 - **The synthesis review repoints a claim's `rests_on`** when it moves the
   claim rested on. The `synthesis-review` skill says so.
 - **Demonstration ([ADR-071](ADR-071.md)).** [CLAIM-338](../claims.d/CLAIM-338.md)'s `rests_on` now names
-  [SYNTHESIS-tmprnoj1](../syntheses.d/SYNTHESIS-tmprnoj1.md), and [CLAIM-544](../claims.d/CLAIM-544.md)'s names [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md). Each has a
+  SYNTHESIS-011, and [CLAIM-544](../claims.d/CLAIM-544.md)'s names [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md). Each has a
   history note.
 
 ## Alternatives considered

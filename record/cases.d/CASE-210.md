@@ -27,7 +27,7 @@ summary: >-
   near-duplicate claim; it illustrates that claim for a capability. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: SYNTHESIS-tmpfp6zi — Proposed; the synthesis the note of 2026-11-07 points to -->
+<!-- inactive-ok-file: SYNTHESIS-009 — Proposed; the synthesis the note of 2026-11-07 points to -->
 <!-- inactive-ok-file: ARG-053 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CASE-210: Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention
@@ -82,4 +82,4 @@ A50 §10 and A52 §10 restate as a result still to be shown for dispositions: "A
 
 ## Note of 2026-11-07: what the records would show, from the second synthesis review
 
-This case says "Inventories, training records and drills would" tell the two departments apart. [SYNTHESIS-tmpfp6zi](../syntheses.d/SYNTHESIS-tmpfp6zi.md) says how far. Records kept per capacity fix only each capacity's probability, so they settle presence against absence, as here, where one department has no equipment and its readiness is zero. For the level of readiness they give only bounds, between the sum of the capacities' probabilities less one less their number and the weakest of them; a required level is refuted by the weakest capacity and certified only when the shortfalls stay within its margin, and between those only joint evidence, such as a deadline-bound exercise, decides. No status change.
+This case says "Inventories, training records and drills would" tell the two departments apart. SYNTHESIS-009 says how far. Records kept per capacity fix only each capacity's probability, so they settle presence against absence, as here, where one department has no equipment and its readiness is zero. For the level of readiness they give only bounds, between the sum of the capacities' probabilities less one less their number and the weakest of them; a required level is refuted by the weakest capacity and certified only when the shortfalls stay within its margin, and between those only joint evidence, such as a deadline-bound exercise, decides. No status change.
