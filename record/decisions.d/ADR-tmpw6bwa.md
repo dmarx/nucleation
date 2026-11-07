@@ -1,0 +1,107 @@
+---
+status: Proposed
+title: 'The record is reviewed periodically for synthesis opportunities: CLAIMs that are syntheses filed as claims are moved into the SYNTHESIS scheme, and integrations whose parts the record holds are filed when they pass admission'
+version: 1
+tags:
+- record
+date: '2026-11-07'
+summary: >-
+  ADR-075 audits the syntheses a source brings, and ADR-076 gives them a
+  scheme and a current-account view. Neither looks at what the record
+  already holds. Some CLAIMs are syntheses filed before the scheme existed,
+  CLAIM-545 among them. Some integrations sit in the record as parts, such
+  as `complements` clusters, questions with several answers and deep
+  chains, that no entry states. This decision adds a periodic synthesis
+  review, carried by the `synthesis-review` skill. Its first stage is
+  mechanical: scratch/formal/synthesis_candidates.py ranks candidates in
+  two arms, migration and opportunity, and decides nothing. A reviewer then
+  shortlists a dozen at most, preferring in-force components and lines the
+  current-account view does not cover. Each is audited with ADR-075's five
+  checks and admitted by one of its three routes or not at all. An
+  admitted migration moves into the scheme, with its relations audited. An
+  admitted opportunity is filed as a Proposed SYNTHESIS in the assistant's
+  voice. Nothing is set Current, and what is not admitted is recorded with
+  its reason. Rejected: reviewing only at filing time; filing every
+  candidate the ranking finds; leaving the sweep ad hoc.
+---
+<!-- inactive-ok-file: ADR-075 ADR-076 — Proposed; the audit and the scheme this review applies -->
+<!-- inactive-ok-file: CLAIM-545 — Proposed; the legacy synthesis CLAIM the review was first asked to consider -->
+
+# ADR-tmpw6bwa: The record is reviewed periodically for synthesis opportunities: CLAIMs that are syntheses filed as claims are moved into the SYNTHESIS scheme, and integrations whose parts the record holds are filed when they pass admission
+
+## Context
+
+ADR-075 audits the syntheses a source brings to a filing. ADR-076 gives
+them a scheme, a closed admission route and a current-account view. Both
+act when something arrives. Neither looks at what the record already
+holds, and the record holds two kinds of unstated integration.
+
+- **Syntheses filed as claims.** CLAIM-545, which its filing's changelog
+  calls "A Proposed thesis from the synthesis the owner asked for",
+  predates the scheme. ADR-076 names it,
+  and earlier filings' left syntheses, as a sweep to do once the scheme was
+  accepted.
+- **Integrations held only as parts.** The record's `complements` relation
+  means "answers a different part of the same question". So a cluster of
+  claims joined by it is a question answered in parts, with no entry saying
+  what the parts add up to. The same holds for an open question with
+  several in-force answers from different lines, and for a deep `rests_on`
+  chain ending in a thesis.
+
+On 2026-11-07, with the SYNTHESIS scheme merged, the owner asked for a
+general procedure for finding both kinds, and for it to be applied.
+
+## Decision
+
+- **A synthesis review**, run at the owner's request, at a status review,
+  or after a run of filings in one line. It is carried by the
+  `synthesis-review` skill.
+- **Stage 1 is mechanical and decides nothing.**
+  `scratch/formal/synthesis_candidates.py` ranks four kinds of candidate:
+  - **A:** CLAIMs whose three or more premises span two or more lines;
+  - **B1:** `complements` clusters of three to twelve in-force claims
+    within one line. Across lines the relation joins most of the record
+    into one component, which says nothing;
+  - **B2:** open questions with three or more unintegrated answers or
+    bearings across lines;
+  - **B3:** Active theses at `rests_on` depth three or more.
+
+  The reviewer adds what the script cannot see: syntheses that curation
+  entries left, and integrations the owner named.
+- **Stages 2 to 4 are judgement.**
+  - **Shortlist** a dozen at most, preferring in-force components and
+    uncovered lines.
+  - **Audit** each with ADR-075's five checks. Admit it by one of the three
+    routes, or not at all.
+  - **Act.** An admitted migration moves into the scheme, with its
+    relations audited as ADR-076 did for the first five. An admitted
+    opportunity becomes a Proposed SYNTHESIS in the assistant's voice, its
+    components keeping theirs. Nothing is filed for a candidate that is not
+    admitted, and the reason is recorded.
+- **Adoption stays the owner's.** No review sets a synthesis Current.
+- **Each review is one contribution**, with a curation entry. It records
+  the ranking, the shortlist and verdicts, the relations repointed, and
+  which lines the current-account view still lacks.
+- **The first review is this decision's demonstration (ADR-071).**
+
+## Alternatives considered
+
+- **Review only at filing time.** That is ADR-075, and it never reaches
+  what was filed before it, or integrations that build up across filings.
+  No single source holds them.
+- **File every candidate the ranking finds.** The ranking is a list of
+  places to look. Filing from it would flood the scheme with weakly
+  differentiated integrations, the salience-without-work failure ADR-075
+  guards against.
+- **Leave the sweep ad hoc.** ADR-076 named it as a follow-up and gave it
+  no procedure. A procedure keeps reviews comparable and makes their
+  misses visible.
+
+## Consequences
+
+- The candidate script is a heuristic and will miss integrations that
+  leave no trace in the relations. The hand-added candidates are there for
+  that, and each review's curation entry can say what the ranking missed.
+- The current-account view grows only by admitted syntheses, so a line can
+  stay uncovered for good if nothing in it integrates. That is a finding,
+  not a gap to fill.
