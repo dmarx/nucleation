@@ -6,4 +6,4 @@
 ### Changed
 
 - ADR codes are now minted as temporary codes and numbered at merge (`allocate: merge` in `luria.yaml`), like the record's other schemes. ADRs were the one scheme still numbered at filing, which is why this decision was first filed as ADR-075.
-- ADR-071, version 2: a decision goes with a demonstration of its effects, in the same pull request, so it is approved by what it does and git blame leads from it to what it changed. CLAUDE.md says so. The synthesis audit is the first instance: first opened alone as dmarx/nucleation#423, then folded into the filing that applies it.
+- [ADR-071](record/decisions.d/ADR-071.md), version 2: a decision goes with a demonstration of its effects, in the same pull request, so it is approved by what it does and git blame leads from it to what it changed. CLAUDE.md says so. The synthesis audit is the first instance: first opened alone as dmarx/nucleation#423, then folded into the filing that applies it.
