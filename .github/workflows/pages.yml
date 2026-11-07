@@ -18,7 +18,8 @@
 # can turn it on, and until it is on the `deploy` job fails with "Pages is
 # not enabled" while `build` stays green.
 #
-# At most one deploy every two hours (ADR-tmp39arf): the build takes long,
+# At most one deploy every two hours (the decision on the Pages cadence of
+# 2026-11-07, in record/decisions.d): the build takes long,
 # and merges come in runs. A merge still triggers this workflow, but the
 # `gate` job skips the build when the last deploy to the `github-pages`
 # environment is less than two hours old, or already published this commit.
