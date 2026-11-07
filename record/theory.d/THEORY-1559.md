@@ -1,5 +1,8 @@
 ---
+number: 1559
 status: Proposed
+formerly:
+- THEORY-tmpunb0u
 promote_when: >-
   An intervention on the population-level pattern itself: a perturbation of
   prefrontal or premotor activity along the task-defined subspace (the axis
@@ -41,7 +44,7 @@ summary: >-
   with no intervention on the pattern.
 ---
 
-# THEORY-tmpunb0u: Training forms a task-defined, low-dimensional subregion of prefrontal and premotor population activity (a preparatory subspace, an axis of choice organized as a line attractor) that constrains a monkey's delayed response top down, holding behavior to what the task requires while the trial's cue and evidence select within it
+# THEORY-1559: Training forms a task-defined, low-dimensional subregion of prefrontal and premotor population activity (a preparatory subspace, an axis of choice organized as a line attractor) that constrains a monkey's delayed response top down, holding behavior to what the task requires while the trial's cue and evidence select within it
 
 ## Source
 

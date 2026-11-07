@@ -25,7 +25,7 @@ history:
     boundaries with the predicted wavenumber-dependent decay length, and a
     count of degrees of freedom that scales with the perimeter rather than
     the area." It asked for replication, and it moved word for word to
-    QUESTION-tmpwo0r9. The source was read in full (NOTE-1587, Read). Its
+    QUESTION-447. The source was read in full (NOTE-1587, Read). Its
     step from J0 and D(q) to Eqs. 16 and 24 was checked by
     scratch/formal/evans_miura_check.py, second-checked by the coordinator
     on 2026-11-06.
@@ -44,7 +44,7 @@ summary: >-
   with the decay length for a pop-through defect estimated only to within
   100%. Registered as a stand-in for Silverberg et al. (2014); it does not
   carry that paper's claims of bistable cells or crystal-like defects.
-  Whether another group's test agrees is [QUESTION-tmpwo0r9](../questions.d/QUESTION-tmpwo0r9.md).
+  Whether another group's test agrees is [QUESTION-447](../questions.d/QUESTION-447.md).
 ---
 
 # THEORY-1428: Evans, Silverberg and Santangelo show that a lattice theory of origami tessellations predicts that the inhomogeneous soft deformations of a Miura-ori sheet are edge modes decaying from its boundaries with an analytic decay length, so that its number of degrees of freedom scales with its perimeter, not its area

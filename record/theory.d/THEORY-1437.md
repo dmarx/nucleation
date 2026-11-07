@@ -25,7 +25,7 @@ history:
     domains or staples during annealing (FRET, or oligomer inclusion),
     shows that most staples bind fully soon after their first domain binds,
     and that assembly proceeds without a measurable nucleation barrier." It
-    moved word for word to QUESTION-tmpkd7a1, which refines QUESTION-410.
+    moved word for word to QUESTION-445, which refines QUESTION-410.
     The source was read in full (NOTE-1626, Read), with the quoted passages
     checked against the text.
 tags:
@@ -43,7 +43,7 @@ summary: >-
   started in a larger 3D-lattice-based design, and that their lattice
   model's loop costs are fixed only up to a constant. The experimental
   evidence on origami hysteresis they report is mixed. Whether experiment
-  bears the account out is [QUESTION-tmpkd7a1](../questions.d/QUESTION-tmpkd7a1.md).
+  bears the account out is [QUESTION-445](../questions.d/QUESTION-445.md).
 ---
 
 # THEORY-1437: Cumberworth and Reinhardt review simulation results indicating that, in DNA origami, a staple's later domains bind without a second translational entropy penalty once its first domain is bound, while each loop closed with the scaffold adds a penalty that depends on the order of binding, and that in the small designs simulated the first effect outweighs the second, so that staples tend to bind fully once started, while assembly is mostly downhill and needs no nucleation barrier, unlike DNA bricks

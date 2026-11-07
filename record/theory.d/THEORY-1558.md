@@ -1,5 +1,8 @@
 ---
+number: 1558
 status: Proposed
+formerly:
+- THEORY-tmppu8h2
 promote_when: >-
   A model or measurement in which a slower variable's constraining effect on
   faster components is quantified as a function of the ratio of their time
@@ -41,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim it is prior art for, cited as open -->
 
-# THEORY-tmppu8h2: In hierarchically organized systems, levels are demarcated by sharp discontinuities in characteristic process and relaxation rates, the embedding level being slower than its components, and a level controls another by constraint only while their rates stay separated: when the cycling rates converge, the control asymmetry and the distinction between the levels are lost, whatever the signal amplitude
+# THEORY-1558: In hierarchically organized systems, levels are demarcated by sharp discontinuities in characteristic process and relaxation rates, the embedding level being slower than its components, and a level controls another by constraint only while their rates stay separated: when the cycling rates converge, the control asymmetry and the distinction between the levels are lost, whatever the signal amplitude
 
 ## Source
 

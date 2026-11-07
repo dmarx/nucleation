@@ -52,7 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
-<!-- inactive-ok-file: THEORY-tmppu8h2 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
+<!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
@@ -378,7 +378,7 @@ No status changes.
 The thirtieth status review read chapter 12 of Juarrero 2023 in full
 ([LIT-1995](../literature.d/LIT-1995.md), [NOTE-1532](../notes.d/NOTE-1532.md), now Read). Its account of rate-demarcated levels is
 now held, Active, as what the book holds ([THEORY-1306](../theory.d/THEORY-1306.md)); the thesis itself
-stays Proposed in [THEORY-tmppu8h2](../theory.d/THEORY-tmppu8h2.md), which extends it. One addition to the note
+stays Proposed in [THEORY-1558](../theory.d/THEORY-1558.md), which extends it. One addition to the note
 of 2026-11-03: the book has inter-level control "muted or lost" by an
 enabling constraint with no change of rates (p. 188), so for it rate
 separation is a condition of control, not what makes a relation a

@@ -19,7 +19,7 @@ summary: >-
   for a dependency on a synthesis; replacing the chain with a hand-written
   view.
 ---
-<!-- inactive-ok-file: ADR-076 ADR-077 ADR-078 ADR-tmp53l4u — Proposed; the scheme, the move rule, the review and the relation storage this amends -->
+<!-- inactive-ok-file: ADR-076 ADR-077 ADR-078 ADR-079 — Proposed; the scheme, the move rule, the review and the relation storage this amends -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-545 — Superseded by their syntheses -->
 <!-- inactive-ok-file: SYNTHESIS-007 SYNTHESIS-tmprnoj1 CLAIM-338 CLAIM-544 — Proposed; the syntheses now rested on, and the claims that rest on them -->
 
@@ -48,7 +48,7 @@ pointed out that a pattern can carry what is too complex for a chain.
 - **A claim's `rests_on` may name a SYNTHESIS.** It keeps its meaning, a
   premise the claim could not stand without, whichever scheme now holds
   the premise. SYNTHESIS gains `supports`, derived from those `rests_on`
-  ([ADR-tmp53l4u](ADR-tmp53l4u.md)), so a synthesis's page shows the claims resting on it.
+  (ADR-079), so a synthesis's page shows the claims resting on it.
 - **The `argument` chain walks a named pattern in place of the field.** The
   pattern `rests_on_claim`, `(c:CLAIM)-[:rests_on]->(p:CLAIM)`, gives
   exactly the claim-to-claim steps the chain walked before, beside

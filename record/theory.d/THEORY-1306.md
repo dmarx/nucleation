@@ -25,7 +25,7 @@ history:
     signal amplitude; Juarrero's statement of Salthe's and Allen and Starr's
     hierarchy theory. The wide form, which the book asserts ("reflects the
     absence of control constraint by one on the other", p. 190), is kept as
-    THEORY-tmppu8h2, Proposed, which extends this entry and inherits its
+    THEORY-1558, Proposed, which extends this entry and inherits its
     promote_when (ADR-047, kind 1). The promote_when deleted here read: A
     model or measurement in which a slower variable's constraining effect on
     faster components is quantified as a function of the ratio of their time
@@ -52,10 +52,10 @@ summary: >-
   closest prior art the record holds for [CLAIM-478](../claims.d/CLAIM-478.md). Active as a statement of what the book
   holds, read in full and checked. It does not say that the thesis is true:
   the book has no model, and the loss of control on convergence is
-  asserted, not shown. That thesis is kept, Proposed, in THEORY-tmppu8h2, which
+  asserted, not shown. That thesis is kept, Proposed, in THEORY-1558, which
   extends this one.
 ---
-<!-- inactive-ok-file: CLAIM-478 CLAIM-477 THEORY-tmppu8h2 — Proposed or new; the claims it bears on and the wide form that extends it, cited as open -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-477 THEORY-1558 — Proposed or new; the claims it bears on and the wide form that extends it, cited as open -->
 
 # THEORY-1306: Juarrero, restating the hierarchy theory of Salthe, Allen and Starr, and Allen, O'Neill and Hoekstra, holds that boundaries between levels of organization are typically marked by sharp discontinuities in order parameters and average process and relaxation rates, overarching levels being usually slower than their components; that levels relate by constraint, not energy exchange, because the faster level's dynamics complete before the slower level's feedback arrives; and that a lack of asymmetry in cycling rates between levels reflects the absence of control constraint by one on the other, regardless of signal amplitude, and of qualitative difference between them
 
