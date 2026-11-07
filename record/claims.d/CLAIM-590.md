@@ -93,7 +93,7 @@ summary: >-
   Checked by the filer with python3 -I. The construction is the filer's,
   from A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-204 NOTE-1606 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-204 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-590: Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex's configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities
 
@@ -225,3 +225,7 @@ It takes the vertex's configuration space, two folding modes meeting only at the
 ## Note of 2026-11-06: Claude, read
 
 Lawvere states the Yoneda Lemma "for any closed V and any V-category A" (1973, p. 154; [NOTE-1585](../notes.d/NOTE-1585.md)), and says of R_cart, his max base, that "all of our general results may be reinterpreted as applying to ultrametric spaces" (p. 152). The internal hom used here, [a, b] = b if b > a and 0 otherwise, is his Hom for R_cart. So the max-enriched Yoneda step is a case of his theorem, and the filer's argument re-derives it; the body is corrected. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.
+
+## Note of 2026-11-06: its blockers spent
+
+The note of 2026-11-06 headed "what holds it back" names two things to wait for, and both are now met. [CASE-206](../cases.d/CASE-206.md) has been Active since the twenty-seventh status review. [NOTE-1606](../notes.d/NOTE-1606.md), Foschi, Hull and Ku's equations, is now Read: the reading is complete and its equations are checked. No status change.

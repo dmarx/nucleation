@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - TERM-tmpbxjmx
 title: "ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Provenance only: NOTE-1599 went to Read in the twenty-ninth status
+    review, so "skimmed in" becomes "read in" (1 place). The sense is
+    unchanged.
 tags:
 - game-theory
 - society-and-governance
@@ -66,7 +73,7 @@ inability to commit about how it will use what it learns.
 ## What the readings add
 
 - **It can stop learning altogether.** Gerardi and Maestri ([LIT-2046](../literature.d/LIT-2046.md),
-  skimmed in [NOTE-1599](../notes.d/NOTE-1599.md); [THEORY-1378](../theory.d/THEORY-1378.md)): "The ratchet effect is in place
+  read in [NOTE-1599](../notes.d/NOTE-1599.md); [THEORY-1378](../theory.d/THEORY-1378.md)): "The ratchet effect is in place
   since the firm has the incentive to change the terms of trade and offer
   more demanding contracts when it learns that the worker is highly
   productive." With patient parties, "If the prior probability of the

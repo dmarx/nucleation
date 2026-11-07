@@ -60,7 +60,6 @@ summary: >-
   it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-1420 CLAIM-555 — Proposed; A's proposals of 2026-11-04 and a reading's account, cited as filed, nothing here rests on their being settled beyond the rests_on -->
-<!-- inactive-ok-file: NOTE-1609 NOTE-1568 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-585: With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it
 

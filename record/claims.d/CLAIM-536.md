@@ -39,7 +39,6 @@ summary: >-
   categories that mixture weights. The agreement formula, derived here and
   checked by simulation, shows that both readings of H1 are limits of H2.
 ---
-<!-- inactive-ok-file: NOTE-1505 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 
 # CLAIM-536: A categorical model of perspectives and an LDA-style model differ in where the mixture lives: the first draws every act's perspective from one fixed categorical distribution, the second gives each episode its own mixture, drawn from a Dirichlet, and draws each act from it; the Dirichlet is a distribution over mixtures, not the perspectives themselves, and with symmetric concentration a over K perspectives two acts in one episode share a perspective with probability (a + 1)/(Ka + 1) against 1/K across episodes, so the concentration runs from one perspective per episode, as in persona selection (a → 0), to a fresh independent draw for every act (a → ∞)
 
@@ -118,3 +117,16 @@ following the latest user message within a conversation (R² 0.53–0.77 against
 0.10), neither limit: the switching model this claim's defeater names. So
 persona selection read as one persona per conversation does not fit what
 either source describes. The derivation stands.
+
+## Note of 2026-11-06: what the Assistant Axis's 0.10 measures
+
+The note of 2026-11-03 cites the Assistant Axis as finding the persona
+following the latest user message "(R² 0.53–0.77 against 0.10)". The 0.10
+is the user-message embeddings' prediction of the change in position from
+the previous response, not a fit of the previous position; the paper never
+tests the previous position as a predictor ([NOTE-1505](../notes.d/NOTE-1505.md), now Read;
+[THEORY-1339](../theory.d/THEORY-1339.md)). What the note needs stands: position changes within a
+conversation and follows the user's messages, so one persona per
+conversation does not fit. Whether the process carries state (a switching
+model) or is driven by input alone is not settled by that analysis; it is
+[QUESTION-tmp0eghp](../questions.d/QUESTION-tmp0eghp.md)'s. The derivation and the status are unchanged.

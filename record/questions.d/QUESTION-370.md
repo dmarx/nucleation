@@ -25,7 +25,6 @@ summary: >-
   mixture, and the workspace's privilege is selective, where an LDA topic
   mediates every word.
 ---
-<!-- inactive-ok-file: NOTE-1505 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: THEORY-1226 THEORY-490 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-370: Do the concepts a language model's workspace makes reportable across an Assistant episode share an episode-level mixture, so that an LDA-style admixture over J-lens readouts predicts their co-occurrence better than one persona selected per conversation and better than independent draws per position; does intervening on the inferred mixture change which concepts reach report while leaving the consumers that bypass the workspace unchanged; and if two models matched on persona distribution and mixture differ under such interventions, whose will-organization is that difference: the simulated Assistant's, the network's or the deployed system's?
@@ -89,3 +88,11 @@ drift: the Assistant Axis finds persona following the latest user message
 model. The Persona Selection Model distinguishes more bearers than the three
 listed: persona, actor, author or narrative, router and the network
 ([NOTE-1512](../notes.d/NOTE-1512.md)).
+
+## Note of 2026-11-06: the replication, filed
+
+The human-user test of persona drift, and whether a per-turn state model
+beats an episode-fixed persona, is now its own question ([QUESTION-tmp0eghp](QUESTION-tmp0eghp.md),
+filed from [THEORY-1339](../theory.d/THEORY-1339.md)'s narrowing). The R² 0.10 in the Assistant Axis
+paper is the user-message embeddings' fit to the change in position, not
+evidence about the previous position ([NOTE-1505](../notes.d/NOTE-1505.md)).

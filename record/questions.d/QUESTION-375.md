@@ -25,7 +25,7 @@ summary: >-
   multiparameter, sees connectivity across budgets and not direction or
   path length. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1568 NOTE-1609 THEORY-1420 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: THEORY-1420 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-375: Can a resource-indexed topological summary of a solution space, such as its persistence or the diameter of its components, detect whether navigating it is computationally easy or hard?
 
@@ -70,3 +70,7 @@ which would show the summary cannot.
 
 An alignment on one family or one instance, or a summary that detects
 hardness only because it encodes the solution graph itself.
+
+## Note of 2026-11-06: Botnan and Lesnick, read
+
+The thirtieth status review read the survey's §6.1 in full ([NOTE-1568](../notes.d/NOTE-1568.md)). The hardness this question cites is stated in §1.2 for n ≥ 2 parameters, and more exactly in Theorem 6.9, from Bjerkevik, Botnan and Kerber (2019): over a finite field, approximating the interleaving distance between 2-parameter modules within a factor of 3 is NP-hard, even for indecomposable modules. The matching distance is the survey's computable surrogate (§6.2, not read). The question is unchanged.
