@@ -11,7 +11,7 @@ history:
   note: >-
     CLAIM-545, which this claim rests on, moved into the SYNTHESIS scheme as
     SYNTHESIS-007 at the first synthesis review of 2026-11-07; `rests_on` now
-    names the synthesis (ADR-tmp1304r). No other change.
+    names the synthesis (ADR-080). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed, Open, Deferred or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-545 CLAIM-329 — Proposed, Superseded, Open or new; cited as open -->
-<!-- inactive-ok-file: SYNTHESIS-007 ADR-tmp1304r — Proposed; the synthesis this claim rests on, and the decision that let it -->
+<!-- inactive-ok-file: SYNTHESIS-007 ADR-080 — Proposed; the synthesis this claim rests on, and the decision that let it -->
 
 # CLAIM-544: If a willed agent is the jurisdiction of its will-organization, then governing one's own governability is in part governing one's own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent's states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance
 

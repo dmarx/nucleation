@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**848 documents cited without acknowledgement.** Not listed: 17489 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**849 documents cited without acknowledgement.** Not listed: 17518 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1692,7 +1692,7 @@ For a named population of receivers and a stated family of tasks, what survives 
 
 A claim moved into the SYNTHESIS scheme keeps its standing and its relations: an admitted Active claim becomes a Current synthesis, and the scheme gains grounds, uses and corroborated_by so that nothing is dropped
 
-34 citations in 33 files await a look; 4 other citations of it are acknowledged.
+34 citations in 33 files await a look; 5 other citations of it are acknowledged.
 
 - [`.claude/skills/synthesis-review/SKILL.md:82`](../../.claude/skills/synthesis-review/SKILL.md)
 - [`record/arguments.d/ARG-065.md:12`](../../record/arguments.d/ARG-065.md)
@@ -1809,8 +1809,8 @@ Active inference already runs an internal loop: mental action selects among high
 28 citations in 18 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:123`](../../record/cases.d/CASE-107.md)
-- [`record/claims.d/CLAIM-338.md:61`](../../record/claims.d/CLAIM-338.md)
-- [`record/claims.d/CLAIM-338.md:129`](../../record/claims.d/CLAIM-338.md)
+- [`record/claims.d/CLAIM-338.md:67`](../../record/claims.d/CLAIM-338.md)
+- [`record/claims.d/CLAIM-338.md:136`](../../record/claims.d/CLAIM-338.md)
 - [`record/claims.d/CLAIM-341.md:25`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:53`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:155`](../../record/claims.d/CLAIM-341.md)
@@ -3312,7 +3312,7 @@ In the coupled meaning–authority model, is authority's effect on what becomes 
 
 - [`record/cases.d/CASE-124.md:68`](../../record/cases.d/CASE-124.md)
 - [`record/claims.d/CLAIM-338.md:15`](../../record/claims.d/CLAIM-338.md)
-- [`record/claims.d/CLAIM-338.md:145`](../../record/claims.d/CLAIM-338.md)
+- [`record/claims.d/CLAIM-338.md:152`](../../record/claims.d/CLAIM-338.md)
 - [`record/claims.d/CLAIM-400.md:13`](../../record/claims.d/CLAIM-400.md)
 - [`record/claims.d/CLAIM-400.md:62`](../../record/claims.d/CLAIM-400.md)
 - [`record/claims.d/CLAIM-400.md:120`](../../record/claims.d/CLAIM-400.md)
@@ -3425,7 +3425,7 @@ A frame can change a judgement by changing which of an interpreter's stored dist
 - [`record/claims.d/CLAIM-315.md:30`](../../record/claims.d/CLAIM-315.md)
 - [`record/claims.d/CLAIM-315.md:39`](../../record/claims.d/CLAIM-315.md)
 - [`record/claims.d/CLAIM-315.md:55`](../../record/claims.d/CLAIM-315.md)
-- [`record/claims.d/CLAIM-338.md:127`](../../record/claims.d/CLAIM-338.md)
+- [`record/claims.d/CLAIM-338.md:134`](../../record/claims.d/CLAIM-338.md)
 - [`record/literature.d/LIT-1075.md:24`](../../record/literature.d/LIT-1075.md)
 - [`record/questions.d/QUESTION-323.md:30`](../../record/questions.d/QUESTION-323.md)
 
@@ -4417,7 +4417,7 @@ Goldreich — Foundations of Cryptography, Vol. 1 (1995 fragments): computationa
 
 The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
-6 citations in 3 files await a look.
+6 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-065.md:12`](../../record/arguments.d/ARG-065.md)
 - [`record/claims.d/CLAIM-336.md:53`](../../record/claims.d/CLAIM-336.md)
@@ -4784,9 +4784,9 @@ Blackwell's order compares experiments about one parameter, so it does not reach
 
 Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
 
-5 citations in 5 files await a look; 13 other citations of it are acknowledged.
+5 citations in 5 files await a look; 14 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-366.md:143`](../../record/claims.d/CLAIM-366.md)
+- [`record/claims.d/CLAIM-366.md:144`](../../record/claims.d/CLAIM-366.md)
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-043.md:234`](../../record/decisions.d/ADR-043.md)
 - [`record/notes.d/NOTE-712.md:120`](../../record/notes.d/NOTE-712.md)
@@ -5426,7 +5426,7 @@ A slowly changing collective variable, such as a reputation, a rivalry or a stan
 
 The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
-4 citations in 4 files await a look; 30 other citations of it are acknowledged.
+4 citations in 4 files await a look; 33 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1185.md:54`](../../record/literature.d/LIT-1185.md)
 - [`record/notes.d/NOTE-950.md:223`](../../record/notes.d/NOTE-950.md)
@@ -7440,7 +7440,7 @@ On WMT22 News MQM, xCOMET's error spans are more coherent with its own regressio
 
 Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-2 citations in 2 files await a look; 49 other citations of it are acknowledged.
+2 citations in 2 files await a look; 52 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-077.md:105`](../../record/decisions.d/ADR-077.md)
 - [`record/terms.d/TERM-086.md:155`](../../record/terms.d/TERM-086.md)
@@ -8025,7 +8025,7 @@ If the record's hypotheses held, agency and autonomy would be further organizati
 
 Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-2 citations in 2 files await a look; 8 other citations of it are acknowledged.
+2 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-545.md:21`](../../record/claims.d/CLAIM-545.md)
 - [`record/decisions.d/ADR-077.md:105`](../../record/decisions.d/ADR-077.md)
@@ -8664,9 +8664,17 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 
 Syntheses get a scheme of their own, SYNTHESIS, with statuses about the integration, a closed admission route, components whose standing is derived, and a generated current-account view
 
-1 citation in 1 file awaits a look; 35 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 36 other citations of it are acknowledged.
 
 - [`docs/README.md:8`](../README.md)
+
+### [ADR-080](../../record/decisions.d/ADR-080.md) — Proposed
+
+A claim's rests_on may name a SYNTHESIS, so a claim whose premise moved into that scheme keeps its dependency; the argument chain walks the claim-to-claim steps through a pattern
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`.claude/skills/synthesis-review/SKILL.md:88`](../../.claude/skills/synthesis-review/SKILL.md)
 
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
@@ -9024,7 +9032,7 @@ Measurement can establish, and not only estimate, a correspondence among local d
 
 If a willed agent is the jurisdiction of its will-organization, then governing one's own governability is in part governing one's own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent's states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-099.md:16`](../../record/terms.d/TERM-099.md)
 

@@ -158,7 +158,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 - `answers` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.CLAIM.references.answers) — *the question this claim is an answer to*
 - `bears_on` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.CLAIM.references.bears_on) — *a question this claim is evidence for or against, or a premise of, without answering it or a part it settles exactly; `answers` is for an answer, held or offered (ADR-060)*
-- `rests_on` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CLAIM.references.rests_on) — *another of the record's own claims this one could not stand without — the spine of the argument, walked as the `argument` chain. Retired, it leaves this claim needing another route (ADR-032)*
+- `rests_on` — optional, one or more `CLAIM` or `SYNTHESIS` codes when present (luria.yaml: schemes.CLAIM.references.rests_on) — *another of the record's own claims this one could not stand without — the spine of the argument, walked as the `argument` chain. Retired, it leaves this claim needing another route (ADR-032)*
 - `grounds` — optional, one or more `THEORY` or `CASE` or `LIT` codes when present (luria.yaml: schemes.CLAIM.references.grounds) — *evidence from outside the record's own argument — an account it has read (THEORY), a case, or a work cited without a reading (LIT), which is the weakest. The split from `rests_on` is THEORY's own, between `presupposes` and `source` (ADR-032)*
 - `supports` — optional, one or more `CLAIM` or `ARG` codes when present (luria.yaml: schemes.CLAIM.references.supports) — *the converse of `rests_on`, written by `luria link --fix`.*
 - `argued_by` — optional, one or more `ARG` codes when present (luria.yaml: schemes.CLAIM.references.argued_by) — *the arguments concluding this claim, written by `luria link --fix` from their `concludes`. Two of them is two independent lines of support*
@@ -233,6 +233,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 - `premises` — optional, one or more `CLAIM` or `SYNTHESIS` codes when present (luria.yaml: schemes.SYNTHESIS.references.premises) — *the components the integration could not stand without, a subset of `integrates`*
 - `grounds` — optional, one or more `THEORY` or `CASE` or `LIT` codes when present (luria.yaml: schemes.SYNTHESIS.references.grounds) — *evidence from outside the record's own argument that the integration needs, a reading (THEORY), a case or a work cited without a reading (LIT), as on a CLAIM; kept when a claim moves into the scheme (the decision on migration standing)*
 - `uses` — optional, one or more `TERM` codes when present (luria.yaml: schemes.SYNTHESIS.references.uses) — *the TERM the integration is stated in, so that a term's revision finds it, as on a CLAIM*
+- `supports` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.SYNTHESIS.references.supports) — *the record's own claims that rest on this synthesis, derived from their `rests_on`*
 - `corroborated_by` — optional, one or more `CLAIM` or `THEORY` codes when present (luria.yaml: schemes.SYNTHESIS.references.corroborated_by) — *the claims and readings that give the integration independent evidence without its resting on them; the converse of `corroborates`, written by `luria link --fix`*
 - `illustrated_by` — optional, one or more `CASE` codes when present (luria.yaml: schemes.SYNTHESIS.references.illustrated_by) — *the converse of a case's `illustrates`, written by `luria link --fix`*
 - `argued_by` — optional, one or more `ARG` codes when present (luria.yaml: schemes.SYNTHESIS.references.argued_by) — *the arguments concluding this synthesis, written by `luria link --fix` from their `concludes`*
@@ -329,6 +330,7 @@ Everything not listed here is at Luria's default.
 | `patterns.read_but_unreached` | *3 keys set* | *unset* |
 | `patterns.read_but_unfetched` | *3 keys set* | *unset* |
 | `patterns.read_but_unreviewed` | *3 keys set* | *unset* |
+| `patterns.rests_on_claim` | *2 keys set* | *unset* |
 | `patterns.argued_from` | *2 keys set* | *unset* |
 | `patterns.undercuts_support_of` | *2 keys set* | *unset* |
 | `patterns.argued_for` | *5 keys set* | *unset* |
