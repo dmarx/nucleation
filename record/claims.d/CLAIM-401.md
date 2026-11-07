@@ -116,7 +116,7 @@ The kinds, with the record's support:
   property of the coarse variable's own law ([CLAIM-397](CLAIM-397.md)) under a chosen
   projection. A5 wrote that "Memory closure and dynamical autonomy remain
   genuine structural conditions". That is not quite so for memory:
-  THEORY-752's result "holds only for the conditional-expectation
+  [THEORY-752](../theory.d/THEORY-752.md)'s result "holds only for the conditional-expectation
   projection", so it shows that split is specific to that projection, not
   how other projections split. [QUESTION-222](../questions.d/QUESTION-222.md) keeps the caution that the split into
   drift, memory and noise depends on the projection, so "an arbitrary norm
