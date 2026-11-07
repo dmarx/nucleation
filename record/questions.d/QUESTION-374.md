@@ -103,3 +103,7 @@ Three things bear on the two-budget structure.
 - **Observing can act.** In Rothemund's AFM ([NOTE-1631](../notes.d/NOTE-1631.md)), the settings that resolve a single missing staple also damage the sample: "repeated scanning created holes difficult to distinguish from holes due to missing strands". There the observing budget is spent partly out of the system's own integrity, so the two budgets are not separable, which is the converse of the dual-control case that [CLAIM-572](../claims.d/CLAIM-572.md) excludes. Whether the frontier survives an observer whose probes change the states they sort is open.
 
 No status changes.
+
+## Note of 2026-11-07: a shared budget for agreement, from the second synthesis review
+
+The second synthesis review found the integration this question asks for already held by CLAIM-592, CLAIM-570, CLAIM-572 and CLAIM-594, and added one corollary, noted on CLAIM-572: on CASE-206's vertex, a non-trivial agreement between the observer's and the system's partitions needs a shared budget of 4.125, more than the cheapest readiness (1.866) and more than full observation (4). Whether the module of the meet O_o ∧ A_a, monotone in opposite senses in the two budgets, decomposes into intervals is a further question the review did not settle.

@@ -59,6 +59,7 @@ summary: >-
   training trajectories ([QUESTION-127](../questions.d/QUESTION-127.md)). The practice corollary, not
   to diagnose task conflict by gradient cosine, is the anthology's.
 ---
+<!-- inactive-ok-file: CLAIM-tmpqvtgm — Proposed; the corollary the note of 2026-11-07 points to -->
 
 # CLAIM-366: Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back
 
@@ -189,3 +190,7 @@ non-invariant objects. Whether a common direction exists is unchanged by
 positive rescaling of the gradients, while the direction of the
 minimum-norm combination is not, and the author leaves the choice of
 scaling open. The claim is unchanged.
+
+## Note of 2026-11-07: function-preserving symmetries that are diffeomorphisms, from the second synthesis review
+
+This claim's "What it does not say" leaves out "Anything about function-preserving symmetries", because "the map need not be a diffeomorphism of the whole space". That reason holds for blow-ups (CLAIM-305). It does not hold for permuting units, rescaling across a ReLU or an orthogonal map on the residual stream, the three QUESTION-127 names, each a linear isomorphism of the parameters. For those, CLAIM-tmpqvtgm, filed from the second synthesis review, derives from this claim's criterion and the chain rule that common descent is constant on the symmetry's orbits, while CLAIM-365's residual in a fixed Euclidean norm is not. This claim's statement is unchanged; the disclaimer now covers only symmetries that are not diffeomorphisms.
