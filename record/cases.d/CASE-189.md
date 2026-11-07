@@ -14,10 +14,6 @@ date: '2026-10-31'
 line: distributed-agency
 variant_of:
 - CASE-111
-supports:
-- 'CLAIM-516'
-- 'CLAIM-522'
-- 'CLAIM-521'
 illustrates:
 - CLAIM-463
 - CLAIM-456
