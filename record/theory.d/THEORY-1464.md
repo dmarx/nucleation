@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5qpsj
 title: "Christie, Marine, French and Blouin show in Hood River steelhead that one generation of hatchery rearing selects for traits that raise reproductive success in captivity and lower it in the wild: offspring of the wild broodstock most successful in the hatchery have about 71% lower per capita reproductive success in the wild, and first-generation hatchery fish nearly double wild fish's success as hatchery broodstock, a difference significant only with one run-year, whose releases were treated very differently, excluded"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -30,6 +30,11 @@ history:
     wild, the F1 hatchery broodstock's advantage over wild broodstock
     in 4 of 5 run-years, and the treatment of run-year 1995 that
     justifies its exclusion, as the main text states them.'
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - natural-sciences
 - ecology
@@ -42,7 +47,7 @@ summary: >-
   not identify the traits selected, does not show crowding is the
   pressure (one year), and does not say other taxa respond as fast.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Christie et al. (2012) as open -->
 

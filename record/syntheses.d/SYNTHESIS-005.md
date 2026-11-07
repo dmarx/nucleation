@@ -4,12 +4,18 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmprmcy0
 title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
   note: >-
     Moved from CLAIM-620 (version 3) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-620, now Superseded by this entry.
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    CLAIM-336 moved into the SYNTHESIS scheme as SYNTHESIS-tmprnoj1 (ADR-077),
+    so its integrates, premises and defeated_if now name the synthesis.
+    The body's citations of CLAIM-336 are left as they were. No other change.
 role: thesis
 admission: admitted
 route: hypothesis
@@ -23,7 +29,7 @@ defeated_if: >-
   (A43 §10's design), leave the system's concepts and organizations
   unchanged over the horizon studied, so that the conditioning runs one
   way only. Also defeated as a thesis of its own if it only restates the
-  owner's CLAIM-336 (meaning and will as one model) with CLAIM-402's
+  owner's SYNTHESIS-tmprnoj1 (meaning and will as one model) with CLAIM-402's
   categories confirmed through use, adding nothing about individuation.
   Not defeated by a concept that persists though it is false, which the
   claim allows.
@@ -38,7 +44,7 @@ line:
 - distributed-agency
 integrates:
 - SYNTHESIS-001
-- CLAIM-336
+- SYNTHESIS-tmprnoj1
 - CLAIM-283
 - CLAIM-402
 - CLAIM-330
@@ -55,7 +61,7 @@ integrates:
 - TERM-064
 premises:
 - SYNTHESIS-001
-- CLAIM-336
+- SYNTHESIS-tmprnoj1
 - CLAIM-283
 - CLAIM-402
 - CLAIM-330

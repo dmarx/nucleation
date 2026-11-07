@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpia26b
 title: "Brown, Donner, Ribic and Bocetti project that the Kirtland's Warbler, recovered on plantation habitat that replaces suppressed wildfire, settles at a lower plateau when the supplied breeding habitat is cut, without going extinct from habitat loss alone, so that the species remains reliant on humans to keep its breeding habitat at its current quantity"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,11 @@ history:
     that area is reduced and not returning to the earlier level
     without the area being restored, with winter conditions
     accounted for.'
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - ecology
 - natural-sciences
@@ -36,7 +41,7 @@ summary: >-
   The sharp edges: a single-sex model whose ceiling density dependence builds in
   that population tracks habitat, with no scenario ending the supply.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Brown et al. (2019) as open -->
 

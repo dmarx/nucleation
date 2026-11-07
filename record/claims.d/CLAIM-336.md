@@ -1,10 +1,10 @@
 ---
 number: 336
-status: Proposed
+status: Superseded
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -47,6 +47,13 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 8
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmprnoj1, the same synthesis moved into the SYNTHESIS
+    scheme at the synthesis review of 2026-11-07 (ADR-078), keeping its
+    standing (ADR-077). Corrections are marked there; the content here is
+    unchanged, and the claim is kept so that what cites it still resolves.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -57,6 +64,8 @@ defeated_if: >-
   regimes to act without passing through any shared state. Or the mapping
   shown to be relabelling only: the two lines, so mapped, make no joint
   prediction that either makes alone (QUESTION-088's test of compression).
+superseded_by:
+- SYNTHESIS-tmprnoj1
 tags:
 - agency
 - pragmatics

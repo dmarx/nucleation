@@ -61,8 +61,8 @@ summary: >-
   the record's age and a refutation does not. The inference leans mainly on
   CLAIM-587; its integrating work is joining it with TERM-115, CASE-210's
   list of evidence and CLAIM-558 to answer the question's "identify or
-  bound" half. Filed at the synthesis review of 2026-11-07, the readiness
-  line's first synthesis. The integration's wording is the assistant's
+  bound" half. Filed at the synthesis review of 2026-11-07, with
+  SYNTHESIS-tmpfupae one of the readiness line's first two syntheses. The integration's wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->
