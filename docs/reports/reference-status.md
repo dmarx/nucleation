@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**849 documents cited without acknowledgement.** Not listed: 17545 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**848 documents cited without acknowledgement.** Not listed: 17560 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1607,7 +1607,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 37 citations in 17 files await a look; 45 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-184.md:144`](../../record/claims.d/CLAIM-184.md)
+- [`record/claims.d/CLAIM-184.md:151`](../../record/claims.d/CLAIM-184.md)
 - [`record/claims.d/CLAIM-185.md:267`](../../record/claims.d/CLAIM-185.md)
 - [`record/claims.d/CLAIM-418.md:222`](../../record/claims.d/CLAIM-418.md)
 - [`record/claims.d/CLAIM-430.md:253`](../../record/claims.d/CLAIM-430.md)
@@ -1733,7 +1733,7 @@ A claim moved into the SYNTHESIS scheme keeps its standing and its relations: an
 
 Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed
 
-30 citations in 15 files await a look; 15 other citations of it are acknowledged.
+30 citations in 15 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1100.md:16`](../../record/literature.d/LIT-1100.md)
 - [`record/literature.d/LIT-1100.md:68`](../../record/literature.d/LIT-1100.md)
@@ -2713,7 +2713,7 @@ A collective that replaces all its members persists, when it does, by causal tra
 - [`record/cases.d/CASE-105.md:63`](../../record/cases.d/CASE-105.md)
 - [`record/cases.d/CASE-116.md:89`](../../record/cases.d/CASE-116.md)
 - [`record/cases.d/CASE-148.md:47`](../../record/cases.d/CASE-148.md)
-- [`record/claims.d/CLAIM-177.md:116`](../../record/claims.d/CLAIM-177.md)
+- [`record/claims.d/CLAIM-177.md:124`](../../record/claims.d/CLAIM-177.md)
 - [`record/claims.d/CLAIM-328.md:87`](../../record/claims.d/CLAIM-328.md)
 - [`record/claims.d/CLAIM-517.md:76`](../../record/claims.d/CLAIM-517.md)
 - [`record/questions.d/QUESTION-361.md:84`](../../record/questions.d/QUESTION-361.md)
@@ -2852,8 +2852,8 @@ The bearer of communicative identity reversed, from an operational object define
 10 citations in 7 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-046.md:16`](../../record/claims.d/CLAIM-046.md)
-- [`record/claims.d/CLAIM-177.md:88`](../../record/claims.d/CLAIM-177.md)
 - [`record/claims.d/CLAIM-177.md:96`](../../record/claims.d/CLAIM-177.md)
+- [`record/claims.d/CLAIM-177.md:104`](../../record/claims.d/CLAIM-177.md)
 - [`record/claims.d/CLAIM-192.md:100`](../../record/claims.d/CLAIM-192.md)
 - [`record/claims.d/CLAIM-204.md:103`](../../record/claims.d/CLAIM-204.md)
 - [`record/claims.d/CLAIM-217.md:51`](../../record/claims.d/CLAIM-217.md)
@@ -3715,7 +3715,7 @@ A system persists as the same self over an interval when a coherence measure is 
 
 The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
 
-7 citations in 6 files await a look; 67 other citations of it are acknowledged.
+7 citations in 6 files await a look; 70 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1926.md:43`](../../record/literature.d/LIT-1926.md)
 - [`record/notes.d/NOTE-1483.md:198`](../../record/notes.d/NOTE-1483.md)
@@ -5228,7 +5228,7 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 
 Inbound references per code and turns per filed entry show which structures anchor and that drift falls as anchoring keeps up with arrival
 
-4 citations in 2 files await a look; 4 other citations of it are acknowledged.
+4 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-185.md:218`](../../record/claims.d/CLAIM-185.md)
 - [`record/claims.d/CLAIM-185.md:227`](../../record/claims.d/CLAIM-185.md)
@@ -7386,7 +7386,7 @@ Generated views of the record, fed back into the exchange, become instruments of
 
 The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply
 
-2 citations in 2 files await a look; 18 other citations of it are acknowledged.
+2 citations in 2 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:184`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-061.md:87`](../../record/decisions.d/ADR-061.md)
@@ -7408,15 +7408,6 @@ Material interdependence couples parties' outcomes without fixing the perspectiv
 
 - [`record/cases.d/CASE-150.md:54`](../../record/cases.d/CASE-150.md)
 - [`record/cases.d/CASE-150.md:65`](../../record/cases.d/CASE-150.md)
-
-### [CLAIM-483](../../record/claims.d/CLAIM-483.md) — Proposed
-
-An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family
-
-2 citations in 1 file await a look; 3 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-177.md:17`](../../record/claims.d/CLAIM-177.md)
-- [`record/claims.d/CLAIM-177.md:105`](../../record/claims.d/CLAIM-177.md)
 
 ### [CLAIM-500](../../record/claims.d/CLAIM-500.md) — Proposed
 
@@ -10298,7 +10289,7 @@ Organizations that espouse revising their governing values characteristically fa
 
 1 citation in 1 file awaits a look; 26 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-177.md:114`](../../record/claims.d/CLAIM-177.md)
+- [`record/claims.d/CLAIM-177.md:122`](../../record/claims.d/CLAIM-177.md)
 
 ### [THEORY-1459](../../record/theory.d/THEORY-1459.md) — Proposed
 
