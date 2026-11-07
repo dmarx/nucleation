@@ -17,16 +17,16 @@ history:
   note: >-
     At A's second review of the pull request: the admission section had
     attributed to the owner the position that reproducing an unavoidable
-    blindness is a wrong. That rested on a filer's clause in CLAIM-
-    tmpagkxi, not on the owner's U27, so it is restated as open.
+    blindness is a wrong. That rested on a filer's clause in CLAIM-614,
+    not on the owner's U27, so it is restated as open.
 - version: 3
   date: '2026-11-07'
   note: >-
     ADR-075's admission test (version 2), applied at A's review of
     the pull request: admitted on a narrower title, the beyond-harm
     wrong as a feasibility-bounded duty of answerability. Its old first
-    defeater, non-reduction to the harm, was the owner's CLAIM-
-    tmpagkxi's own; defeated_if now states the cases that would defeat
+    defeater, non-reduction to the harm, was the owner's CLAIM-614's
+    own; defeated_if now states the cases that would defeat
     this claim's integration. The divergence from the owner's thesis on
     unavoidable projections is stated in the body.
 - version: 2
@@ -45,8 +45,8 @@ warrant: interpretive
 defeated_if: >-
   A case meeting A62 §3's conditions 1 to 4 in which the organization
   had no feasible alternative, which the record must still count as
-  wronging those affected beyond the harm, as one reading of CLAIM-
-  tmpagkxi would, so that condition 5 does no work; or a case meeting
+  wronging those affected beyond the harm, as one reading of CLAIM-614
+  would, so that condition 5 does no work; or a case meeting
   all five in which what is wrong beyond the harm is not answerability,
   being unchanged when means for violations to become knowable,
   contestable and correctable are restored (another's capacity to govern

@@ -15,8 +15,8 @@ admission: admitted
 route: hypothesis
 warrant: interpretive
 defeated_if: >-
-  A concept whose persistence the transmission criterion of CLAIM-
-  tmpcdshj gets wrong, continuing where nothing of its organization of
+  A concept whose persistence the transmission criterion of CLAIM-615
+  gets wrong, continuing where nothing of its organization of
   distinctions was transmitted or ending where it was, so that concepts
   need a criterion of their own; or a reflexive social system in which
   interventions on will-organization, with interpretation held fixed
@@ -83,9 +83,8 @@ summary: >-
   which distinctions must be legible ([CLAIM-535](../claims.d/CLAIM-535.md)). A58's corrections are
   marked, the owner's [CLAIM-553](../claims.d/CLAIM-553.md) among them. The integration's wording is
   A's, corrected by the filer; adopting it is the owner's call. Moved
-  from [CLAIM-620](../claims.d/CLAIM-620.md) into the SYNTHESIS scheme on 2026-11-07 (ADR-
-  tmptu1vn); it was admitted as an independent hypothesis under ADR-
-  tmpe7y42.
+  from [CLAIM-620](../claims.d/CLAIM-620.md) into the SYNTHESIS scheme on 2026-11-07 (ADR-076);
+  it was admitted as an independent hypothesis under ADR-075.
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Superseded -->

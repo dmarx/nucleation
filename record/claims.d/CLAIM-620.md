@@ -41,8 +41,8 @@ history:
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A concept whose persistence the transmission criterion of CLAIM-
-  tmpcdshj gets wrong, continuing where nothing of its organization of
+  A concept whose persistence the transmission criterion of CLAIM-615
+  gets wrong, continuing where nothing of its organization of
   distinctions was transmitted or ending where it was, so that concepts
   need a criterion of their own; or a reflexive social system in which
   interventions on will-organization, with interpretation held fixed
