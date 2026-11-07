@@ -110,12 +110,12 @@ apart.
 - **One account per scope, not one per line (version 1 said one per
   line).** A scope is a line or a part of one: a group of its components
   that answer one of its questions. Two accounts never cover the same
-  scope; a later review or filing revises the one there is (ADR-075 step
+  scope; a later review or filing revises the one there is ([ADR-075](ADR-075.md) step
   7), and an admitted synthesis that later covers a scope supersedes its
   unadmitted account.
 - **Accounts can be built over accounts.** A line's synthesis may take its
   parts' syntheses as `premises`, which the scheme already allows, and
-  ADR-076's lint already requires a Current synthesis's premise syntheses
+  [ADR-076](ADR-076.md)'s lint already requires a Current synthesis's premise syntheses
   to be Current. The links between parts are where an integration the
   parts leave open can live, so the line's synthesis is tested for
   admission on its own: it may be admitted where its parts are not.
@@ -126,9 +126,9 @@ apart.
   account. The split is a decision about the lines vocabulary, taken
   separately, and the review never forces one account over parts that do
   not hang together.
-- **Demonstration (ADR-071).** The nucleating-argument line was first given
+- **Demonstration ([ADR-071](ADR-071.md)).** The nucleating-argument line was first given
   one account. The counts showed that two of its five parts barely related
-  to the rest, and the line was split (ADR-tmpyb8vm). Each of the three
+  to the rest, and the line was split ([ADR-tmpyb8vm](ADR-tmpyb8vm.md)). Each of the three
   lines now has its synthesis, and nucleating-argument's is built over the
   syntheses of its three parts.
 
