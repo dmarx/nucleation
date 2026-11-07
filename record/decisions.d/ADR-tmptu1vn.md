@@ -35,7 +35,7 @@ summary: >-
 
 ## Context
 
-ADR-tmpe7y42 began filing a source's syntheses as CLAIMs, after an audit
+[ADR-tmpe7y42](ADR-tmpe7y42.md) began filing a source's syntheses as CLAIMs, after an audit
 and an admission test. It chose CLAIM over a scheme of its own, "until a
 synthesis CLAIM strains". In the same pull request, dmarx/nucleation#422,
 it strained four ways.
@@ -45,7 +45,7 @@ it strained four ways.
   CLAIM it can list them only in `rests_on`, `grounds` and `uses`, and say
   their status in its body. The body was written once, and the components'
   statuses move.
-- **The route has no field.** ADR-tmpe7y42's third version admits a
+- **The route has no field.** [ADR-tmpe7y42](ADR-tmpe7y42.md)'s third version admits a
   synthesis by one of three routes: independent hypothesis, derived result
   or explanatory integration. Each has its own test and kind of defeat. On
   a CLAIM the route is a sentence in the body, so nothing can check that a
@@ -74,7 +74,7 @@ it strained four ways.
     - `Rejected`: the integrating claim was tested and failed;
     - `Superseded`: a later synthesis covers the same integration.
   - **`route`, required, from `synthesis-routes`:** `hypothesis`,
-    `derived` or `integration`, the routes of ADR-tmpe7y42 step 5.
+    `derived` or `integration`, the routes of [ADR-tmpe7y42](ADR-tmpe7y42.md) step 5.
   - **`role`, `warrant`, `defeated_if`, `tags` and `line`**, as on CLAIM.
     `defeated_if` is required, and states the defeat by the route.
   - **`integrates`, required:** every entry the synthesis puts together,
@@ -82,7 +82,7 @@ it strained four ways.
     without, CLAIMs or other syntheses. **`bears_on`:** questions.
     **`supersedes` and `superseded_by`:** between syntheses, and from the
     CLAIMs a synthesis replaces. CLAIM's `superseded_by` accepts SYNTHESIS.
-- **Components' standing is derived, never copied (DP-2).** The voice of
+- **Components' standing is derived, never copied ([DP-2](../../docs/design-principles.md#dp-2)).** The voice of
   each component, which no field records, stays in the body. Its status is
   read from the component.
 - **A current-account view**, `docs/current-account.md`, rendered by
@@ -97,17 +97,17 @@ it strained four ways.
   - The page ends each entry with what would defeat the integration.
 - **Filing.** The read-and-file skill's step 9b files an admitted
   synthesis as a SYNTHESIS, not a CLAIM. A synthesis found exhausted after
-  merge becomes `Unadmitted`, which removes the gap ADR-tmpe7y42 version 4
+  merge becomes `Unadmitted`, which removes the gap [ADR-tmpe7y42](ADR-tmpe7y42.md) version 4
   left open.
-- **The demonstration (ADR-071).** The five syntheses admitted in #422
+- **The demonstration ([ADR-071](ADR-071.md)).** The five syntheses admitted in [#422](https://github.com/dmarx/nucleation/issues/422)
   are moved into the scheme. Each SYNTHESIS entry carries the claim's
   title, route, defeater and body unchanged. Each CLAIM becomes Superseded
   by its entry, so that what cites it still resolves:
-  - CLAIM-tmp6xhn3 becomes SYNTHESIS-tmpg2eh2;
-  - CLAIM-tmp2ka9y becomes SYNTHESIS-tmpj2lnj;
-  - CLAIM-tmpcdshj becomes SYNTHESIS-tmp46moy;
-  - CLAIM-tmpnjz70 becomes SYNTHESIS-tmprmcy0;
-  - CLAIM-tmptfuky becomes SYNTHESIS-tmp73anp.
+  - [CLAIM-tmp6xhn3](../claims.d/CLAIM-tmp6xhn3.md) becomes [SYNTHESIS-tmpg2eh2](../syntheses.d/SYNTHESIS-tmpg2eh2.md);
+  - [CLAIM-tmp2ka9y](../claims.d/CLAIM-tmp2ka9y.md) becomes [SYNTHESIS-tmpj2lnj](../syntheses.d/SYNTHESIS-tmpj2lnj.md);
+  - [CLAIM-tmpcdshj](../claims.d/CLAIM-tmpcdshj.md) becomes [SYNTHESIS-tmp46moy](../syntheses.d/SYNTHESIS-tmp46moy.md);
+  - [CLAIM-tmpnjz70](../claims.d/CLAIM-tmpnjz70.md) becomes [SYNTHESIS-tmprmcy0](../syntheses.d/SYNTHESIS-tmprmcy0.md);
+  - [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) becomes [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md).
 
   The view renders them under four lines.
 
@@ -132,18 +132,18 @@ it strained four ways.
 ## Consequences
 
 - **ARGs about syntheses.** ARG's `rests_on` and `concludes` accept only
-  CLAIMs. Two ARGs from #422 conclude claims now superseded:
-  ARG-tmpvxtof concludes CLAIM-tmpcdshj, and ARG-tmp0fc4y concludes
-  CLAIM-tmptfuky. They still resolve. Letting ARG conclude a SYNTHESIS,
+  CLAIMs. Two ARGs from [#422](https://github.com/dmarx/nucleation/issues/422) conclude claims now superseded:
+  [ARG-tmpvxtof](../arguments.d/ARG-tmpvxtof.md) concludes [CLAIM-tmpcdshj](../claims.d/CLAIM-tmpcdshj.md), and [ARG-tmp0fc4y](../arguments.d/ARG-tmp0fc4y.md) concludes
+  [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md). They still resolve. Letting ARG conclude a SYNTHESIS,
   with `argued_by` on SYNTHESIS, is a follow-up, to be done when an ARG
   is first filed against a synthesis.
-- **The sweep.** CLAIM-545 and the syntheses left unaudited in earlier
-  filings (ADR-tmpe7y42's Context) are audited and, where admitted, moved
+- **The sweep.** [CLAIM-545](../claims.d/CLAIM-545.md) and the syntheses left unaudited in earlier
+  filings ([ADR-tmpe7y42](ADR-tmpe7y42.md)'s Context) are audited and, where admitted, moved
   into the scheme in a contribution of their own.
 - **Adoption is the owner's.** No synthesis is Current until the owner
   makes it so. Until then the view says what is offered, not what is held.
 - **The view is only as good as `integrates`.** A component left out of
   that field is invisible on the page, though the body may name it.
-  ADR-tmpe7y42's coverage check is where it is caught.
-- **This pull request is stacked on #422.** It needs #422's syntheses and
-  its temporary ADR codes. It merges after #422, or with it.
+  [ADR-tmpe7y42](ADR-tmpe7y42.md)'s coverage check is where it is caught.
+- **This pull request is stacked on [#422](https://github.com/dmarx/nucleation/issues/422).** It needs [#422](https://github.com/dmarx/nucleation/issues/422)'s syntheses and
+  its temporary ADR codes. It merges after [#422](https://github.com/dmarx/nucleation/issues/422), or with it.

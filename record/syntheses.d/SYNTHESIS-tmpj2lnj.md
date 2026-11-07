@@ -57,16 +57,16 @@ summary: >-
   for the supposition and stated none of its content. A7 calls it "my
   proposed reconstruction, not a thesis already established in that
   complete form by the repository", so it is filed in the supposed
-  voice. Its parts are held: CLAIM-474's partial order, CLAIM-405's
-  criterion-relative individuation, CLAIM-329's transmission,
-  CLAIM-027's will-organization and CLAIM-545's governance of one's own
+  voice. Its parts are held: [CLAIM-474](../claims.d/CLAIM-474.md)'s partial order, [CLAIM-405](../claims.d/CLAIM-405.md)'s
+  criterion-relative individuation, [CLAIM-329](../claims.d/CLAIM-329.md)'s transmission,
+  [CLAIM-027](../claims.d/CLAIM-027.md)'s will-organization and [CLAIM-545](../claims.d/CLAIM-545.md)'s governance of one's own
   governability, this last A's phrase from an earlier exchange resting
   on two of the owner's claims. What it adds is the relation between the
   levels: each organizes the conditions of the one below. Two
   corrections are made and marked. The integration's wording is A's,
   corrected by the filer; adopting it is the owner's call. Moved from
-  CLAIM-tmp2ka9y into the SYNTHESIS scheme on 2026-11-07 (ADR-tmptu1vn);
-  it was admitted as an independent hypothesis under ADR-tmpe7y42.
+  [CLAIM-tmp2ka9y](../claims.d/CLAIM-tmp2ka9y.md) into the SYNTHESIS scheme on 2026-11-07 ([ADR-tmptu1vn](../decisions.d/ADR-tmptu1vn.md));
+  it was admitted as an independent hypothesis under [ADR-tmpe7y42](../decisions.d/ADR-tmpe7y42.md).
 ---
 <!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp2ka9y — filed from the same exchange, Superseded -->
@@ -77,7 +77,7 @@ summary: >-
 
 # SYNTHESIS-tmpj2lnj: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
 
-*Moved from CLAIM-tmp2ka9y, where its development up to version 2 is recorded. Admitted as an independent hypothesis (ADR-tmpe7y42).*
+*Moved from [CLAIM-tmp2ka9y](../claims.d/CLAIM-tmp2ka9y.md), where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-tmpe7y42](../decisions.d/ADR-tmpe7y42.md)).*
 
 ## The claim
 
@@ -96,41 +96,41 @@ The supposition is the record's own hypotheses taken as demonstrated. The
 architecture, layer by layer:
 
 1. **Individuality.** Relational but not arbitrary: "These criteria are
-   not arbitrary once specified." This is CLAIM-405 (Active, A's wording on
-   the owner's U8 question), with the senses of TERM-088 (Active).
+   not arbitrary once specified." This is [CLAIM-405](../claims.d/CLAIM-405.md) (Active, A's wording on
+   the owner's U8 question), with the senses of [TERM-088](../terms.d/TERM-088.md) (Active).
    Detecting, maintaining and constituting a boundary are kept apart, as in
-   QUESTION-284 (Open), which A7 cites rightly.
+   [QUESTION-284](../questions.d/QUESTION-284.md) (Open), which A7 cites rightly.
 2. **Persistence.** Transmission, not resemblance: "It would depend on how
    organizational capacities and constraints are causally transmitted,
-   reproduced, or regenerated across time." This is CLAIM-329 (Proposed,
-   A's) and TERM-071 (Active). Formation and maintenance provenance come
-   apart (CLAIM-522, Active, demonstrated), and present coupling can stay
-   strong as maintenance fails (CLAIM-521, Active, demonstrated, cited
+   reproduced, or regenerated across time." This is [CLAIM-329](../claims.d/CLAIM-329.md) (Proposed,
+   A's) and [TERM-071](../terms.d/TERM-071.md) (Active). Formation and maintenance provenance come
+   apart ([CLAIM-522](../claims.d/CLAIM-522.md), Active, demonstrated), and present coupling can stay
+   strong as maintenance fails ([CLAIM-521](../claims.d/CLAIM-521.md), Active, demonstrated, cited
    rightly). These illustrate the layer and are not premises.
 3. **Agency.** Will-organization, "maintained relations governing which
    available processes are accessible, which have priority, which exercise
-   authority": TERM-023 and CLAIM-027 (Active, record), with CLAIM-030 for
+   authority": [TERM-023](../terms.d/TERM-023.md) and [CLAIM-027](../claims.d/CLAIM-027.md) (Active, record), with [CLAIM-030](../claims.d/CLAIM-030.md) for
    collective intention.
-4. **Autonomy.** "**governance of one's own governability**": CLAIM-545
-   (Proposed, A's phrase, resting on the owner's CLAIM-354 and CLAIM-523),
-   with CLAIM-025's separability of regime, governance and transformation,
-   and the readiness results (CLAIM-567, CLAIM-602, Active).
+4. **Autonomy.** "**governance of one's own governability**": [CLAIM-545](../claims.d/CLAIM-545.md)
+   (Proposed, A's phrase, resting on the owner's [CLAIM-354](../claims.d/CLAIM-354.md) and [CLAIM-523](../claims.d/CLAIM-523.md)),
+   with [CLAIM-025](../claims.d/CLAIM-025.md)'s separability of regime, governance and transformation,
+   and the readiness results ([CLAIM-567](../claims.d/CLAIM-567.md), [CLAIM-602](../claims.d/CLAIM-602.md), Active).
 
-The order is CLAIM-474's (Active), a partial order in which "none implies
+The order is [CLAIM-474](../claims.d/CLAIM-474.md)'s (Active), a partial order in which "none implies
 the next". What this claim adds is the relation between the levels. Each
 level is an organization of the conditions under which the one below is
 effective. Agency organizes which of an individual's interventions take
 effect, and autonomy governs the conditions of that organizing. A7's
-emergency-response pair shows the levels parting: CLAIM-414, CLAIM-558 and
-CLAIM-602. The cross-realizer reach ("a single explanatory framework that
-applies, with different realizations") is CLAIM-487 (Proposed), which this
+emergency-response pair shows the levels parting: [CLAIM-414](../claims.d/CLAIM-414.md), [CLAIM-558](../claims.d/CLAIM-558.md) and
+[CLAIM-602](../claims.d/CLAIM-602.md). The cross-realizer reach ("a single explanatory framework that
+applies, with different realizations") is [CLAIM-487](../claims.d/CLAIM-487.md) (Proposed), which this
 claim complements and does not rest on.
 
 ## Corrections to A's version
 
 - **Correction: the stack is a partial order.** A7's "Agency arises where
   … More sophisticated agency arises … Autonomy arises" reads as a ladder.
-  CLAIM-474, which A7 draws on through A5, says "a later one need not
+  [CLAIM-474](../claims.d/CLAIM-474.md), which A7 draws on through A5, says "a later one need not
   require every earlier one". The title keeps "none implied by the one
   before" and the defeater allows a level without the one below.
 - **Correction: "nucleation" is not the thesis term.** A7 §1: "*Nucleation*
@@ -150,18 +150,18 @@ agency"; "Organizational success would not imply constituent welfare";
 - **That the hypotheses hold.** It is supposed, and its role says so.
 - **That relations constitute the individual.** A7 §8: "The stronger
   constitutive interpretation would require an argument showing why
-  relations partly constitute the individual". QUESTION-284 stays open.
+  relations partly constitute the individual". [QUESTION-284](../questions.d/QUESTION-284.md) stays open.
 - **That a self is a fifth level.** A7 names "being a self" among the
-  accomplishments, but the self-governing sense is CLAIM-284 and CLAIM-424,
+  accomplishments, but the self-governing sense is [CLAIM-284](../claims.d/CLAIM-284.md) and [CLAIM-424](../claims.d/CLAIM-424.md),
   and the record's owner has recast selves as organizational perspectives
-  (CLAIM-417). The claim leaves the self out.
+  ([CLAIM-417](../claims.d/CLAIM-417.md)). The claim leaves the self out.
 
 ## Later versions
 
-The exchange's proposed theses (SYNTHESIS-tmpg2eh2 and its successors) are not
+The exchange's proposed theses ([SYNTHESIS-tmpg2eh2](SYNTHESIS-tmpg2eh2.md) and its successors) are not
 versions of this one. They integrate different components, and they put
 the account forward instead of supposing it.
 
 ## Admission
 
-Under ADR-tmpe7y42's admission test, the integration must be able to fail while every component holds. Two of the three links between levels cannot: "persistence is the transmission of what produces the individual" is CLAIM-329, and "autonomy governs the conditions of agency's efficacy" is CLAIM-545 by definition. The third can. CLAIM-405 lets differently fixed criteria pick out units whose boundaries cross. A firm's precedence and jurisdiction relations, which CLAIM-027 says the firm has, decide which of a worker's interventions become effective, and they belong to a unit whose boundary crosses the worker's under every criterion that picks out the worker. Every component holds, and agency is not a further organization of the individual whose interventions it orders. The claim is admitted on that link alone, and the title says so.
+Under [ADR-tmpe7y42](../decisions.d/ADR-tmpe7y42.md)'s admission test, the integration must be able to fail while every component holds. Two of the three links between levels cannot: "persistence is the transmission of what produces the individual" is [CLAIM-329](../claims.d/CLAIM-329.md), and "autonomy governs the conditions of agency's efficacy" is [CLAIM-545](../claims.d/CLAIM-545.md) by definition. The third can. [CLAIM-405](../claims.d/CLAIM-405.md) lets differently fixed criteria pick out units whose boundaries cross. A firm's precedence and jurisdiction relations, which [CLAIM-027](../claims.d/CLAIM-027.md) says the firm has, decide which of a worker's interventions become effective, and they belong to a unit whose boundary crosses the worker's under every criterion that picks out the worker. Every component holds, and agency is not a further organization of the individual whose interventions it orders. The claim is admitted on that link alone, and the title says so.
