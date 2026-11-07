@@ -779,7 +779,7 @@ schemes:
         label: Cited in support by
         blurb: the record's own claims and arguments that rest on this work without a reading of it, written
           by `luria link --fix` from their `grounds`. A THEORY drawn from the work is the stronger footing
-        scheme: [CLAIM, ARG]
+        scheme: [CLAIM, ARG, SYNTHESIS]
         required: false
         many: true
         converse: grounds
@@ -978,7 +978,7 @@ schemes:
         label: Supports
         blurb: the record's own claims and arguments resting on this account, written by `luria link --fix`
           from their `grounds`. Rejecting this account leaves each of them needing another route
-        scheme: [CLAIM, ARG]
+        scheme: [CLAIM, ARG, SYNTHESIS]
         required: false
         many: true
         converse: grounds
@@ -987,7 +987,7 @@ schemes:
         blurb: a claim of the record's own that this account gives independent evidence for, without the
           claim resting on it. Rejecting this account leaves the claim with less support, not without its
           footing; a claim that needs the account names it in `grounds` (ADR-058)
-        scheme: CLAIM
+        scheme: [CLAIM, SYNTHESIS]
         required: false
         many: true
         converse: corroborated_by
@@ -1278,7 +1278,7 @@ schemes:
         blurb: a claim of the record's own that this one gives independent evidence for, without that
           claim depending on it. If this one is retired, the other loses support, not its footing. Not
           walked by the `argument` chain or by retraction; a dependency is `rests_on` (ADR-044)
-        scheme: CLAIM
+        scheme: [CLAIM, SYNTHESIS]
         required: false
         many: true
         converse: corroborated_by
@@ -1360,7 +1360,7 @@ schemes:
         label: Supports
         blurb: the claims and arguments grounded in this case, written by `luria link --fix` from their
           `grounds`.
-        scheme: [CLAIM, ARG]
+        scheme: [CLAIM, ARG, SYNTHESIS]
         required: false
         many: true
         converse: grounds
@@ -1465,7 +1465,7 @@ schemes:
         label: Used by
         blurb: the claims and arguments stated in this term, written by `luria link --fix` from their
           `uses`.
-        scheme: [CLAIM, ARG]
+        scheme: [CLAIM, ARG, SYNTHESIS]
         required: false
         many: true
         converse: uses
@@ -1696,6 +1696,31 @@ schemes:
         scheme: [CLAIM, SYNTHESIS]
         required: false
         many: true
+      grounds:
+        label: Grounded in
+        blurb: evidence from outside the record's own argument that the integration needs, a reading
+          (THEORY), a case or a work cited without a reading (LIT), as on a CLAIM; kept when a claim
+          moves into the scheme (the decision on migration standing)
+        scheme: [THEORY, CASE, LIT]
+        required: false
+        many: true
+        converse: supports
+      uses:
+        label: Uses the term
+        blurb: the TERM the integration is stated in, so that a term's revision finds it, as on a CLAIM
+        scheme: TERM
+        required: false
+        many: true
+        converse: used_by
+        explain: cited
+      corroborated_by:
+        label: Corroborated by
+        blurb: the claims and readings that give the integration independent evidence without its
+          resting on them; the converse of `corroborates`, written by `luria link --fix`
+        scheme: [CLAIM, THEORY]
+        required: false
+        many: true
+        converse: corroborates
       illustrated_by:
         label: Illustrated by
         blurb: the converse of a case's `illustrates`, written by `luria link --fix`
