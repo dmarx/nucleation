@@ -9,7 +9,7 @@ history:
     Fission language replaced with CLAIM-328's plural succession, per
     CLAIM-tmpcdshj's correction and A54 of the second share of the
     exchange: the title's "the division of one lineage into two" becomes
-    "one of several successors of the parent", defeated_if's "forks that
+    one of several successors of the parent, defeated_if's "forks that
     are also fission" becomes forks that also leave plural successors,
     CLAIM-328 is added to complements, and the body's "continuity of an
     organization can branch" now separates CLAIM-328's collectives from
