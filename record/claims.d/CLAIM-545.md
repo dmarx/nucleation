@@ -1,11 +1,19 @@
 ---
 number: 545
-status: Proposed
+status: Superseded
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmpsw5k6, the same synthesis moved into the
+    SYNTHESIS scheme at the synthesis review of 2026-11-07 (ADR-tmpw6bwa),
+    admitted as an independent hypothesis. Four corrections are marked
+    there; the content here is unchanged, and the claim is kept so that
+    what cites it still resolves.
 - version: 2
   date: '2026-11-06'
   note: >-
@@ -25,6 +33,8 @@ defeated_if: >-
   control and revisability under matched interference who differ in
   freedom on a ground this profile cannot register. Not defeated by a
   free agent whose governance is unwise, which the claim allows.
+superseded_by:
+- SYNTHESIS-tmpsw5k6
 tags:
 - free-will
 - self-governance
