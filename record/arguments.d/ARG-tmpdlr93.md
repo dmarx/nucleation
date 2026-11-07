@@ -1,55 +1,35 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
 title: 'A two-regime reporting construction shows that a harmful outcome and the regime that keeps it unrecorded can sustain each other without intent, separating actual from recorded violation, and shows nothing normative'
-
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: existence
+grounds:
+- CASE-tmpnlf5c
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-tmptfuky
 tags:
-- agency
+- society-and-governance
+- self-governance
+- ethics
 date: '2026-11-07'
-# line: will-organization
-
+line:
+- distributed-agency
+summary: >-
+  From A's two-regime reporting construction (CASE-tmpnlf5c), as corrected by the reader, to the possibility CLAIM-tmptfuky needs, from A62 §4 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: the construction is coherent and separates actual from recorded violation, with the aggregate regime self-stable without intent; it shows nothing normative. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
-
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CASE-tmpnlf5c CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 
 # ARG-tmpdlr93: A two-regime reporting construction shows that a harmful outcome and the regime that keeps it unrecorded can sustain each other without intent, separating actual from recorded violation, and shows nothing normative
 
+From the second share of the exchange "Individuation, Possibility, and Disposition" (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c).
+
 ## The inference
 
-How the premises yield the conclusion.
+1. CASE-tmpnlf5c: with the score V_r(u) = 12 + κ·1[u = b] − λ·r·1[u = b], λ > κ, and regimes selected by scores computed under the current regime, the aggregate regime r = 0 is always self-stable, and at it actual violation = 1 and recorded violation = 0.
+2. No agent in the construction intends the violation or its concealment.
+3. So a harmful outcome and the regime that keeps it unrecorded can sustain each other without intent, which CLAIM-tmptfuky says is possible.
 
 ## Critical questions
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+- **Is the case coherent?** Yes. The reader reran it with exact rationals over a grid: the aggregate regime is self-stable in every case, and the adequate regime is self-stable exactly when λ > κ + c (the 120 mismatches are all at the tie λ = κ + c).
+- **Does it separate the very things the conclusion says can come apart?** It separates actual from recorded violation, and makes the aggregate regime self-stable with no intent. It does not separate harm from a second-order wrong: the construction holds no duty and no standing, so it shows nothing normative. And because the adequate regime also keeps itself when λ > κ + c, it shows path dependence, not that self-scoring makes the bad regime win.

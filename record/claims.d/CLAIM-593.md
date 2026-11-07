@@ -65,6 +65,9 @@ summary: >-
   question of continuation, not of resemblance". The construction is the filer's, from
   A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmpvxtof — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CLAIM-tmpcdshj — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-134 CLAIM-170 CLAIM-544 — Proposed; the record's open theses on structural identity and willed agents, its open term for the senses of individuation, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-593: Isomorphism is not persistence, in either direction: two separately made mechanisms with the same costed transformation structure are isomorphic and still two, and one mechanism whose hinge is replaced can persist while its costed structure becomes non-isomorphic to the earlier one, so which morphisms count as continuations is structure added by assumptions about the domain, not read off the category
@@ -179,3 +182,7 @@ under addition give the tables above; a search over all six bijections of
 - **Anything about the Grothendieck construction** of A's §6 ([TERM-114](../terms.d/TERM-114.md)'s
   changes of architecture as moves); the second example compares two
   architectures' categories, not a total category.
+
+## Note of 2026-11-07: cited rightly, and carried to organized individuals, from the second share of "Individuation, Possibility, and Disposition"
+
+In A55 §1 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, A cites this claim rightly as already stating "the objection that identical structures need not be the same historical individual", and says the software-fork discussion "supplies new illustrations, not a fundamentally new theorem". The fork of A34 §4, recorded on CLAIM-329, is this claim's first direction outside mechanisms: two repositories identical at the fork instant become two projects. A55 §1's "one individual can survive changes that destroy structural isomorphism" drops the stipulation the second direction rests on. CLAIM-tmpcdshj, filed from the same exchange, states both directions for organized individuals; it did not cite this claim, and now rests on it, with ARG-tmpvxtof as the analogy, which carries the first direction whole and the second only as consistency. No status change.

@@ -100,3 +100,7 @@ families serves, an extension [TERM-065](TERM-065.md)'s note of 2026-10-27 decli
 defeater (a) the askable, its §7 ("questions that can meaningfully be
 investigated") and defeater (b) ("formulate and pursue") the investigable.
 Adoption once [CLAIM-475](../claims.d/CLAIM-475.md) says which set its defeater (b) tests.
+
+## Note of 2026-11-07: the frontier and legibility, from the second share of "Individuation, Possibility, and Disposition"
+
+A58 §9's link from the frontier to legibility is this term's "From legibility". Its example, a software community that lacks "a conceptual distinction between temporary operational failure and degradation of reproductive capacity", is CLAIM-521's dissociation, which a community could not investigate without the concept. The term is unchanged.

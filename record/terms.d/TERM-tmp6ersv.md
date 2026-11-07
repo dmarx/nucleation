@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    The finking row named no entry ("No entry names this case"). From A62
+    §10 of the second share, answering the owner's U27 and U28, it now
+    names CLAIM-tmplgp4k, A's counter-corrective disposition: a credible
+    challenge that lowers the chance of effective future challenge finks
+    the disposition to be corrected. The definition is unchanged.
 tags:
 - metaphysics
 - agency
@@ -26,6 +35,7 @@ summary: >-
   person and institution, the reason [TERM-019](TERM-019.md) retired it. The wording is
   A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmplgp4k — filed from the same exchange, Proposed; the case the finking row names -->
 <!-- inactive-ok-file: TERM-086 TERM-104 CLAIM-553 CLAIM-417 THEORY-670 CLAIM-445 TERM-098 — Proposed; the entries whose uses of the word this term sorts, cited as open -->
 
 # TERM-tmp6ersv: disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked
@@ -89,8 +99,12 @@ that.
   holds this in [CLAIM-522](../claims.d/CLAIM-522.md) and [CASE-126](../cases.d/CASE-126.md).
 - "**Finking or destruction: the triggering event changes the disposition
   itself.**" Its example: "a crisis abolishes the very review mechanism
-  that would otherwise have been invoked." No entry names this case; the
-  nearest is [CLAIM-445](../claims.d/CLAIM-445.md).
+  that would otherwise have been invoked." For the disposition to be
+  corrected, the case is CLAIM-tmplgp4k (A62 §10 of the second share): a
+  credible challenge answered by reducing the capacity for future
+  challenge, so that the trigger of correction removes the disposition to
+  correct. Version 1 said "No entry names this case"; the nearest held
+  entry remains [CLAIM-445](../claims.d/CLAIM-445.md).
 
 A47 §2 had already said "So a disposition is not simply a reliable observed
 input-output association." Masks and finks are discussed in [LIT-109](../literature.d/LIT-109.md) and

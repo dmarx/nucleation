@@ -81,6 +81,9 @@ summary: >-
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
 ---
+<!-- inactive-ok-file: ARG-tmpgxas4 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpagkxi — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed -->
 
 # CLAIM-445: A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
 
@@ -189,3 +192,7 @@ declines, with the residue divided among genuine risk, switching costs and
 the regime's control of evidence, has not been run on any case the record
 holds; Bjørnskov, Voigt and Khesali ([THEORY-911](../theory.d/THEORY-911.md)) state the prolongation
 mechanism as a hypothesis and do not test it.
+
+## Note of 2026-11-07: a reproductive structure called new, from the second share of "Individuation, Possibility, and Disposition"
+
+The owner's U27 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) asks what wrong is committed by a self-maintaining organization that reproduces the projections hiding its harm (CLAIM-tmpagkxi). A60 §3's dynamics have this claim's form: the regime's evidence and authority are moved by its own outputs. A did not cite this claim, and A60 §12 called "putting these mechanisms into one reproductive causal structure" the new contribution. It is held here, with TERM-020. What A adds is a normative predicate in place of the evidence of continued need, and a second-order duty (CLAIM-tmptfuky); the analogy is ARG-tmpgxas4. Unchanged.

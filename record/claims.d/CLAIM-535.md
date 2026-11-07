@@ -43,6 +43,9 @@ summary: >-
   sets, legibility is relative to policy. A positive characterization of
   what legibility must supply for action.
 ---
+<!-- inactive-ok-file: ARG-tmp77psp — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpnjz70 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpo48w1 — filed from the same exchange, Proposed -->
 
 # CLAIM-535: An organization that acts on what it observes has a policy acceptable in every circumstance exactly when, for each observation, the circumstances it cannot tell apart share an acceptable action; so every circumstance having an acceptable action does not give a policy, a finer observation never removes one, and where acceptable actions overlap the coarsest observations that suffice are several and incomparable, so which distinctions must be made legible depends on which acceptable action the organization commits to
 
@@ -96,3 +99,7 @@ The moral-hazard case Ratliff et al. (2019), [LIT-2097](../literature.d/LIT-2097
 ## Note of 2026-11-04: observations that arrive in sequence
 
 A's [CLAIM-559](CLAIM-559.md) (Proposed) carries this claim to two stages: as the first unit's report arrives, the acceptable action changes from dispatch to cancel under one objective, so a reversal is not by itself evidence of error. The claim is unchanged.
+
+## Note of 2026-11-07: what follows for will and for perspectives, from the second share of "Individuation, Possibility, and Disposition"
+
+A57 reads this claim rightly: "the **distinctions needed for adequate action depend on which acceptable policy is chosen**". A58 §3 adds that the theorem "doesn't justify those sets, and whoever controls that standard can influence which distinctions the organization is required to recognize". That is this claim's "That the acceptable sets are the right ones" joined to TERM-064's caution on the loss and CLAIM-404's evaluative route. A58 §8's route of changing what the organization can do is CLAIM-572's hedge, and it is open only where a hedge exists (ARG-tmp77psp). Two consequences are filed: for comparing perspectives, CLAIM-tmpo48w1; for the synthesis of meaning, perspective and will, layer 6 of CLAIM-tmpnjz70, version 2. The claim is unchanged.

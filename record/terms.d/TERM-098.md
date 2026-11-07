@@ -41,6 +41,7 @@ summary: >-
   corrigibility, a further achievement it does not require. A candidate,
   not adopted: [QUESTION-360](../questions.d/QUESTION-360.md) asks what would settle it.
 ---
+<!-- inactive-ok-file: CASE-tmpsdfol — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-tmpb16ru — filed from the same exchange, Proposed -->
 
 # TERM-098: concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies
@@ -104,3 +105,7 @@ At U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06
 
 <!-- inactive-ok-block: CASE-tmphkso5 — Proposed; filed from the same exchange -->
 A45 §IV says "we should regard concepts partly as **capacities**", which runs the concept together with the organization that realizes it, a distinction this term keeps. A47 §8 corrects it: "an abstract concept need not itself be a causal bearer of dispositions. The dispositions are realized in its interpreters and the organizations sustaining its use." A50 §7 adds a proposed study of this term's split between a concept and its corrigibility, two communities that agree on a category and differ in revising it ([CASE-tmphkso5](../cases.d/CASE-tmphkso5.md)). Supports the term's distinction; no status change.
+
+## Note of 2026-11-07: corrigibility kept apart, from the second share of "Individuation, Possibility, and Disposition"
+
+A54 and A55 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, read this term's corrigibility clause rightly. A54: this term "deliberately does not make corrigibility part of being a concept". A55 §3 rewrites A41 §11's four-part profile as (A, I, R), with U, the "revision organization", kept apart, and: "A concept can be rigid, corrigible, or transformable without ceasing to qualify as a concept." It proposes this as "a proposed operational clarification to TERM-098, leaving the definition and Proposed status intact". A55 calls it stronger than "our earlier suggestion that a difference in update procedure necessarily means a different concept"; no earlier turn says "necessarily", and A41 §11 declined to choose. The consequence, that a difference in conditions of revision alone is no evidence of several concepts, is now in QUESTION-tmpdalhx, and the contested-label study is CASE-tmpsdfol, both filed from the same exchange. Unchanged.

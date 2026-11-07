@@ -69,6 +69,8 @@ summary: >-
   chains, discrepancy to discrimination to response to maintained
   capacity to revised governance, are not a sequence ([CLAIM-474](CLAIM-474.md)).
 ---
+<!-- inactive-ok-file: ARG-tmp77psp — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
 
 # CLAIM-532: Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent's own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it
@@ -138,3 +140,7 @@ sets these out.
 - **That every new capacity is self-formed.** Installation and outside upkeep
   are what the tests exclude.
 - **That the steps form a developmental sequence** ([CLAIM-474](CLAIM-474.md)).
+
+## Note of 2026-11-07: the action route, from the second share of "Individuation, Possibility, and Disposition"
+
+A58 §8 reads this claim rightly. Its second route, "**An organization can overcome a limitation by changing what it can do, not only by improving what it can see.**", is this claim's new channel. A calls it "easy to overlook", but CLAIM-572 prices it against observation on one budget. CASE-194 supports the two routes as separate repairs, and limits the action route to cases with a hedge (ARG-tmp77psp). No status changes.

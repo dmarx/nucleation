@@ -70,6 +70,11 @@ illustrated_by:
 - CASE-154
 - CASE-156
 ---
+<!-- inactive-ok-file: ARG-tmpmk7of — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: ARG-tmpr43gg — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-tmp3l0hh — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-11-07 -->
 
 # CLAIM-448: An ordinal potential describes only the winning-move relation it is computed on; where an organization's legibility regime selects which contests are admitted or recorded, an acyclic record, even a persistent potential, can be the product of selective contestation, so observed coherence is not evidence that the organization's perspectives are integrated, and an intervention that improves its self-governance may at first increase the disagreement observed
 
@@ -128,3 +133,9 @@ Self-reinforcing authority is not itself new, and the DeGroot–Friedkin model o
 - That a potential is uninformative. It is informative about the relation
   it was computed on.
 - That every coherent record conceals dissent.
+
+## Note of 2026-11-07: cited as a showing, and its individual-scale counterpart, from the second share of "Individuation, Possibility, and Disposition"
+
+A57 cites this claim as a result that "shows that a coherent institutional decision record can be produced by selectively excluding dissent". It is an objection, argued, and its settling model was unbuilt. THEORY-916's special case carries only the weaker half (ARG-tmpr43gg). The reader's agenda construction, CASE-tmp3l0hh with ARG-tmpmk7of, builds the existence half; it does not test the prediction about interventions. A58 §6 quotes the prediction rightly.
+
+The owner's CLAIM-553 makes the same point at the scale of one individual. Silence is not endorsement, because observed intervention carries a legibility factor: the chance that the discrepancy is legible and a channel carries it. Here coherence is not integration, because the record admits only what its regime makes legible. Neither entry cites the other. No status changes.

@@ -33,6 +33,7 @@ bearing:
 - THEORY-152
 - THEORY-149
 ---
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed -->
 
 # QUESTION-041: When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization?
 
@@ -69,3 +70,7 @@ channels is losing the capacity to transform, asked of recognition rather
 than of intention. A23 did not cite it. [QUESTION-089](QUESTION-089.md) is its companion.
 [CLAIM-403](../claims.d/CLAIM-403.md), filed from A24, bears on it without answering it. No
 answer is added.
+
+## Note of 2026-11-07: cited, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §6 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cites this question correctly, for whether losing effective feedback from members destroys an organization's capacity to transform its own course. A's CLAIM-tmptfuky bears on it: an organization that reproduces the conditions of its own unanswerability is one in which that feedback is kept ineffective by the organization's own success. Still open.

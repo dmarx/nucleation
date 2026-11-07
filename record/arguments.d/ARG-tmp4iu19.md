@@ -1,55 +1,37 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
 title: 'If the second-order duty of answerability were unconditional it would entail that a self-maintaining organization ought to preserve its corrigibility, which the record disclaims, so the duty must be bounded by obligation, capability and reasonable alternatives'
-
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
+form: reductio
 rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+- CLAIM-520
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-tmptfuky
 tags:
-- agency
+- ethics
+- self-governance
+- control-theory
 date: '2026-11-07'
-# line: will-organization
-
+line:
+- will-organization
+summary: >-
+  From the conditional value of a corrective capacity (CLAIM-520) to the bounded form of A's second-order duty in CLAIM-tmptfuky, from A60 §6 and A62 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: an unconditional duty of answerability would entail CLAIM-511, which the record disclaims; so the duty must be bounded, as condition 5 bounds it. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
-
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
+<!-- inactive-ok-file: ARG-042 CLAIM-511 — Proposed, Rejected; cited with their standing -->
 
 # ARG-tmp4iu19: If the second-order duty of answerability were unconditional it would entail that a self-maintaining organization ought to preserve its corrigibility, which the record disclaims, so the duty must be bounded by obligation, capability and reasonable alternatives
 
+From the second share of the exchange "Individuation, Possibility, and Disposition" (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c).
+
 ## The inference
 
-How the premises yield the conclusion.
+1. Suppose the second-order duty were unconditional: every organization must maintain means for every relevant violation to become knowable, contestable and correctable.
+2. Then a self-maintaining organization ought to preserve its corrigibility whatever it costs, which is CLAIM-511, filed as disclaimed (Proposed; ARG-042 Rejected).
+3. CLAIM-520: keeping a corrective capacity is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when its cost is large or the decisions it bears on are few. So an unconditional duty would sometimes require what is worse by the duty's own lights.
+4. So the duty is bounded by the organization's "obligations, capabilities, and reasonable alternatives" (A62 §3, condition 5), as A60 §6 also says: "That duty is not an unconditional command to maximize transparency or investigate every conceivable harm."
 
 ## Critical questions
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+- **Is the consequence really unacceptable, or merely surprising?** The record disclaims CLAIM-511 rather than rejecting it as false; it is a boundary the record declines to cross. So the reductio shows the unconditional duty goes beyond what the record holds, not that it is refuted. CLAIM-520's model gives the stronger point, that the unconditional duty can require a net loss.
+- **Is the premise the one to blame?** Yes: the premise to drop is the unconditional form, not the duty itself. A bounded duty does not entail CLAIM-511, and A's own statements of it (A60 §6, A62 §3) are already bounded. The remaining risk is the other horn of CLAIM-tmptfuky's defeat condition: a bound so loose that every organization is excused.

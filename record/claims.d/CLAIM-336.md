@@ -92,6 +92,7 @@ complements:
 supports:
 - CLAIM-338
 ---
+<!-- inactive-ok-file: ARG-tmpjv8nc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
@@ -283,3 +284,7 @@ Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of
 ## Note of 2026-11-07: further schematic extensions, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A39 §4 and A41 §8 used this claim's equations, which match its body, and A43 §6 extended them with an allocation of efficacy (Π) and response terms (H, F). The extensions are schematic, with the functions unspecified and no result derived. The reader confirmed [CLAIM-330](CLAIM-330.md)'s linear-stability condition on 50,000 draws, unchanged by A41's added noise terms. No status changes.
+
+## Note of 2026-11-07: a test for the blocker, and an ARG that carries nothing yet, from the second share of "Individuation, Possibility, and Disposition"
+
+A55 §7 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, cites this claim as the record's and as Proposed, and reads its blocker rightly: "Our discussion does not remove that blocker." It proposes the test the defeated_if asks for: evaluate on "held-out compositions of context changes and governance interventions", against separate interpretation and governance models "under matched complexity and training information", and especially on "history-dependent responses after an intervention that changes which processes can influence later interpretation". "If a simpler independent model predicts just as well, the proposed integration gains little support." That is QUESTION-088's held-out comparison with flexibility penalized, given a target. A also proposed an ARG to this claim from CLAIM-297, CLAIM-407, CLAIM-414, CLAIM-421 and CLAIM-330; it is filed as ARG-tmpjv8nc, an abduction, Proposed, and carries nothing until the test is run, since on the record separate models explain its premises as well. The claim stays Proposed.

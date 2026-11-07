@@ -1,55 +1,38 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
 title: "A label that produces the conduct confirming it carries over to a response to challenge that produces the absence of challenge confirming it, though one loop runs through the labelled person's conduct and the other through the challenger's access"
-
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
 form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+grounds:
+- CASE-141
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-tmplgp4k
+uses:
+- TERM-tmp6ersv
 tags:
-- agency
+- self-governance
+- epistemology
+- social-ontology
 date: '2026-11-07'
-# line: will-organization
-
+line:
+- will-organization
+summary: >-
+  From the self-confirming label (CASE-141) to A's counter-corrective disposition (CLAIM-tmplgp4k), from A62 §5 and §10 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: the self-confirmation transfers; the route differs, through the labelled person's conduct in one and the challenger's access in the other. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
-
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-tmplgp4k TERM-tmp6ersv — filed from the same exchange, Proposed or Deferred; cited as filed -->
 
 # ARG-tmp50j2n: A label that produces the conduct confirming it carries over to a response to challenge that produces the absence of challenge confirming it, though one loop runs through the labelled person's conduct and the other through the challenger's access
 
+From the second share of the exchange "Individuation, Possibility, and Disposition" (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c).
+
 ## The inference
 
-How the premises yield the conclusion.
+1. CASE-141: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight.
+2. A62 §5 and §10: a complaint is classified as disruption, the complainant's credibility or access is reduced, future complaints become less effective, and their absence is read as success.
+3. So the response to a challenge can produce the evidence that confirms it, which is CLAIM-tmplgp4k, a fink of the disposition to be corrected in TERM-tmp6ersv's sense.
 
 ## Critical questions
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+- **In what respect are they alike, and is it the respect the conclusion needs?** In both, a classification acted on produces the outcomes by which it is judged (CLAIM-402). That is the self-certifying part of the conclusion.
+- **What relevant difference is there?** CASE-141's loop runs through the labelled person's conduct: the label makes the misconduct real. CLAIM-tmplgp4k's runs through the challenger's access: the response removes the challenges, and nothing need change in the challenger's conduct. CASE-141 is also a label, not a response to a challenge, so it does not carry the control comparison of A62 §10.
+- **What transfers, and what does not?** The self-confirmation transfers. The causal diagnostic, Pr(effective future challenge | do(c)) against do(c₀), does not: CASE-141 offers no control, and the claim's test has to be met on its own.
