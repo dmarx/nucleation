@@ -20,6 +20,7 @@ summary: >-
   answer says, for a stated kind, what evidence would tell constitution
   from characterization and from ordinary causal modification.
 ---
+<!-- inactive-ok-file: CLAIM-476 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-157 — Proposed or Open; the partial answers and neighbouring questions, cited as open -->
 
 # QUESTION-284: In any domain, when do the constraints on an entity's relations only characterize an entity individuated without them, and when do they partly constitute its identity, its boundary or what it can do; and are a boundary a process detects, one it maintains and one it constitutes three different things?
@@ -159,3 +160,13 @@ The question is unchanged and stays Open. No status, title or warrant changes.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 A's fourth paste states this question's constitutive half as a philosophical conjecture, that in some domains the processes that stabilize relational distinctions "participate in the formation and persistence of the objects themselves", and says it "requires additional arguments about constitution, historical continuity, and the ontology of the particular systems studied", kept apart from the mathematical conjecture in [QUESTION-393](QUESTION-393.md). [CLAIM-593](../claims.d/CLAIM-593.md) shows structural isomorphism and persistence of one token come apart in both directions. No status changes.
+
+## Note of 2026-11-07: three relations under one word, from the third synthesis review
+
+The answers on the record address three different relations, all called constitution:
+
+- **[TERM-088](../terms.d/TERM-088.md)'s constitutive individuation:** an entity's relational organization helps fix its identity and boundary ([CLAIM-529](../claims.d/CLAIM-529.md), [CLAIM-477](../claims.d/CLAIM-477.md)).
+- **The mechanists' synchronic part–whole constitution** ([CLAIM-528](../claims.d/CLAIM-528.md)).
+- **Dependence on an arrangement or apparatus:** this question's second half, "detected, maintained, constituted", and [CLAIM-476](../claims.d/CLAIM-476.md).
+
+The question already flags the gap between the second and its own relation: "The form of the evidential problem carries over; that it is the same problem has not been shown." The third synthesis review found no integration of the answers because the sense of "constitute" absorbs every case. An answer should say which of the three it is about.

@@ -25,6 +25,7 @@ summary: >-
   from the information decomposition's downward-causation and
   causal-decoupling terms. A profile is time-indexed.
 ---
+<!-- inactive-ok-file: CLAIM-158 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the claim that made direction an architecture, open -->
 <!-- inactive-ok-file: CLAIM-155 — Proposed; its tier names are why one rejected name would blur, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question kept apart -->
@@ -86,3 +87,17 @@ nae question." The name is kept.
   the nesting in [CLAIM-155](../claims.d/CLAIM-155.md). The name would blur both.
 - **"Causal regime"** was rejected. "Regime" is the will paper's
   action-generating regime ([TERM-019](TERM-019.md)), a different thing.
+
+## Note of 2026-11-07: top-down against bidirectional, from the third synthesis review
+
+The summary reads the kinds "from the information decomposition's downward-causation and causal-decoupling terms". Those terms do not separate top-down from bidirectional.
+
+- **Both kinds have D > 0.** Bidirectional adds "D > 0 while V is itself produced by the parts' joint activity".
+- **V is always produced by the parts in the predictive sense.** V supervenes on the parts in every kind, and [CLAIM-158](../claims.d/CLAIM-158.md) says top-down "cannot mean that the higher level drives without its parts, because it is realized by them". Since V at t is a function of the parts' state at t, the data-processing inequality gives I(X_t; V_{t+1}) ≥ I(V_t; V_{t+1}): the parts' state always carries at least as much information about V's next value as V's own state does. The reader checked this on 5,000 random Markov chains over three binary parts; the least margin was 0 to rounding.
+
+So the decomposition as stated separates three regions, aggregate, D > 0 and G > 0, not four. Telling bidirectional from top-down needs a criterion this term does not name:
+
+- a named quantity of upward causation; or
+- production over time at a declared time resolution, in which case [CLAIM-528](../claims.d/CLAIM-528.md)'s third part makes the boundary between the two move with that resolution.
+
+The definition is unchanged; this note marks what it does not yet fix.
