@@ -21,12 +21,12 @@ first_author: 'Manik'
 keywords: []
 implementations: []
 summary: >-
-  Manik, Timme & Witthaut (2017), ARXIV-1611.09825 / DOI-10.1063/1.4994177. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§2 and its reading table). It bears on CLAIM-153 and THEORY-1082 (frustration around a cycle), LIT-1668 and QUESTION-282. A says it formulates phase-locked states of oscillator networks through flows around cycles, so that geometric constraints on the cycles give coexisting locked states. What A says of it is unverified until read.
+  Manik, Timme & Witthaut (2017), [ARXIV-1611.09825](https://arxiv.org/abs/1611.09825) / DOI-10.1063/1.4994177. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§2 and its reading table). It bears on [CLAIM-153](../claims.d/CLAIM-153.md) and [THEORY-1082](../theory.d/THEORY-1082.md) (frustration around a cycle), [LIT-1668](LIT-1668.md) and [QUESTION-282](../questions.d/QUESTION-282.md). A says it formulates phase-locked states of oscillator networks through flows around cycles, so that geometric constraints on the cycles give coexisting locked states. What A says of it is unverified until read.
 ---
 
 # LIT-tmpuvlyp: Cycle flows and multistability in oscillatory networks
 
-Debsankha Manik, Marc Timme and Dirk Witthaut (2017). "Cycle flows and multistability in oscillatory networks." *Chaos* 27(8): 083123. ARXIV-1611.09825 DOI-10.1063/1.4994177.
+Debsankha Manik, Marc Timme and Dirk Witthaut (2017). "Cycle flows and multistability in oscillatory networks." *Chaos* 27(8): 083123. [ARXIV-1611.09825](https://arxiv.org/abs/1611.09825) DOI-10.1063/1.4994177.
 
 ## Key takeaways
 
@@ -34,4 +34,4 @@ Debsankha Manik, Marc Timme and Dirk Witthaut (2017). "Cycle flows and multistab
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§2 and its reading table). It bears on CLAIM-153 and THEORY-1082 (frustration around a cycle), LIT-1668 and QUESTION-282.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§2 and its reading table). It bears on [CLAIM-153](../claims.d/CLAIM-153.md) and [THEORY-1082](../theory.d/THEORY-1082.md) (frustration around a cycle), [LIT-1668](LIT-1668.md) and [QUESTION-282](../questions.d/QUESTION-282.md).

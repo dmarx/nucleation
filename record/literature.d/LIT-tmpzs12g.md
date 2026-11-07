@@ -19,7 +19,7 @@ first_author: 'White'
 keywords: []
 implementations: []
 summary: >-
-  White & O'Doherty (2023), DOI-10.1111/jtsb.12379. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A41 (§3). It bears on the owner's "anti-vax" case (U19): TERM-098, CLAIM-423 and CASE-133. A says the category "anti-vaxxer" acquired, in deliberation, attributes not entailed by not vaccinating. What A says of it is unverified until read.
+  White & O'Doherty (2023), DOI-10.1111/jtsb.12379. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A41 (§3). It bears on the owner's "anti-vax" case (U19): [TERM-098](../terms.d/TERM-098.md), [CLAIM-423](../claims.d/CLAIM-423.md) and [CASE-133](../cases.d/CASE-133.md). A says the category "anti-vaxxer" acquired, in deliberation, attributes not entailed by not vaccinating. What A says of it is unverified until read.
 ---
 
 # LIT-tmpzs12g: Constructing the Anti‐Vaxxer: Discursive analysis of public deliberations on childhood vaccination
@@ -32,4 +32,4 @@ Jessica B. C. White and Kieran C. O'Doherty (2023). "Constructing the Anti‐Vax
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A41 (§3). It bears on the owner's "anti-vax" case (U19): TERM-098, CLAIM-423 and CASE-133.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A41 (§3). It bears on the owner's "anti-vax" case (U19): [TERM-098](../terms.d/TERM-098.md), [CLAIM-423](../claims.d/CLAIM-423.md) and [CASE-133](../cases.d/CASE-133.md).

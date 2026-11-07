@@ -20,12 +20,12 @@ first_author: 'Wang'
 keywords: []
 implementations: []
 summary: >-
-  Wang & Tang (2019), ARXIV-1809.06997 / DOI-10.1038/s41467-019-13573-9. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§6 and its reading table). It bears on CLAIM-480 (composition that yields a constraint no part has) and CLAIM-172. A says a population of cells none of which oscillates alone can generate a sustained collective oscillation through communication via a shared signal, past a threshold A states as Nα₁R̃_aR̃_s = 1. What A says of it is unverified until read.
+  Wang & Tang (2019), [ARXIV-1809.06997](https://arxiv.org/abs/1809.06997) / DOI-10.1038/s41467-019-13573-9. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§6 and its reading table). It bears on [CLAIM-480](../claims.d/CLAIM-480.md) (composition that yields a constraint no part has) and [CLAIM-172](../claims.d/CLAIM-172.md). A says a population of cells none of which oscillates alone can generate a sustained collective oscillation through communication via a shared signal, past a threshold A states as Nα₁R̃_aR̃_s = 1. What A says of it is unverified until read.
 ---
 
 # LIT-tmpjs4y9: Emergence of collective oscillations in adaptive cells
 
-Shou-Wen Wang and Lei-Han Tang (2019). "Emergence of collective oscillations in adaptive cells." *Nature Communications* 10: 5613. ARXIV-1809.06997 DOI-10.1038/s41467-019-13573-9.
+Shou-Wen Wang and Lei-Han Tang (2019). "Emergence of collective oscillations in adaptive cells." *Nature Communications* 10: 5613. [ARXIV-1809.06997](https://arxiv.org/abs/1809.06997) DOI-10.1038/s41467-019-13573-9.
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Shou-Wen Wang and Lei-Han Tang (2019). "Emergence of collective oscillations in 
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§6 and its reading table). It bears on CLAIM-480 (composition that yields a constraint no part has) and CLAIM-172.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§6 and its reading table). It bears on [CLAIM-480](../claims.d/CLAIM-480.md) (composition that yields a constraint no part has) and [CLAIM-172](../claims.d/CLAIM-172.md).

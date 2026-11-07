@@ -20,7 +20,7 @@ first_author: 'Schmietendorf'
 keywords: []
 implementations: []
 summary: >-
-  Schmietendorf (2026), DOI-10.3389/fnetp.2026.1858616. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A16 and A18. It bears on CLAIM-478, LIT-923 and LIT-1671 (synergetics) and CLAIM-526. A says it separates the explanatory use of order parameters, which it takes as established, from an ontological reading of "circular causality" as downward causation, which it questions. What A says of it is unverified until read.
+  Schmietendorf (2026), DOI-10.3389/fnetp.2026.1858616. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A16 and A18. It bears on [CLAIM-478](../claims.d/CLAIM-478.md), [LIT-923](LIT-923.md) and [LIT-1671](LIT-1671.md) (synergetics) and [CLAIM-526](../claims.d/CLAIM-526.md). A says it separates the explanatory use of order parameters, which it takes as established, from an ontological reading of "circular causality" as downward causation, which it questions. What A says of it is unverified until read.
 ---
 
 # LIT-tmp060xy: How causal is “circular causality”?
@@ -33,4 +33,4 @@ Katrin Schmietendorf (2026). "How causal is “circular causality”?." *Frontie
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A16 and A18. It bears on CLAIM-478, LIT-923 and LIT-1671 (synergetics) and CLAIM-526.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A16 and A18. It bears on [CLAIM-478](../claims.d/CLAIM-478.md), [LIT-923](LIT-923.md) and [LIT-1671](LIT-1671.md) (synergetics) and [CLAIM-526](../claims.d/CLAIM-526.md).

@@ -19,7 +19,7 @@ first_author: 'Righetti'
 keywords: []
 implementations: []
 summary: >-
-  Righetti, Buchli & Ijspeert (2006), DOI-10.1016/j.physd.2006.02.009. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1, §5 and its reading table). It bears on QUESTION-398 (when a partial organization becomes independent of the intervention that set it up) and CLAIM-600. A says its oscillators retain a frequency learned under forcing after the forcing stops, a clean model of the difference between transient entrainment and a lasting change. What A says of it is unverified until read.
+  Righetti, Buchli & Ijspeert (2006), DOI-10.1016/j.physd.2006.02.009. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1, §5 and its reading table). It bears on [QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the intervention that set it up) and [CLAIM-600](../claims.d/CLAIM-600.md). A says its oscillators retain a frequency learned under forcing after the forcing stops, a clean model of the difference between transient entrainment and a lasting change. What A says of it is unverified until read.
 ---
 
 # LIT-tmp58iml: Dynamic Hebbian learning in adaptive frequency oscillators
@@ -32,4 +32,4 @@ Ludovic Righetti, Jonas Buchli and Auke Jan Ijspeert (2006). "Dynamic Hebbian le
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1, §5 and its reading table). It bears on QUESTION-398 (when a partial organization becomes independent of the intervention that set it up) and CLAIM-600.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1, §5 and its reading table). It bears on [QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the intervention that set it up) and [CLAIM-600](../claims.d/CLAIM-600.md).

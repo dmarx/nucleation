@@ -20,7 +20,7 @@ first_author: 'Pickering'
 keywords: []
 implementations: []
 summary: >-
-  Pickering & Garrod (2004), DOI-10.1017/S0140525X04000056. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A39 (§3). It bears on LIT-571 (participatory sense-making) and TERM-098 (concept as realized by an organization). A cites it as an empirical foothold: it describes mechanisms through which interlocutors' linguistic representations become aligned during conversation. What A says of it is unverified until read.
+  Pickering & Garrod (2004), DOI-10.1017/S0140525X04000056. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A39 (§3). It bears on [LIT-571](LIT-571.md) (participatory sense-making) and [TERM-098](../terms.d/TERM-098.md) (concept as realized by an organization). A cites it as an empirical foothold: it describes mechanisms through which interlocutors' linguistic representations become aligned during conversation. What A says of it is unverified until read.
 ---
 
 # LIT-tmpym1po: Toward a mechanistic psychology of dialogue
@@ -33,4 +33,4 @@ Martin J. Pickering and Simon Garrod (2004). "Toward a mechanistic psychology of
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A39 (§3). It bears on LIT-571 (participatory sense-making) and TERM-098 (concept as realized by an organization).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A39 (§3). It bears on [LIT-571](LIT-571.md) (participatory sense-making) and [TERM-098](../terms.d/TERM-098.md) (concept as realized by an organization).

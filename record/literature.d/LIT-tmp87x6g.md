@@ -21,12 +21,12 @@ first_author: 'Caprioglio'
 keywords: []
 implementations: []
 summary: >-
-  Caprioglio & Berthouze (2024), ARXIV-2405.14542 / DOI-10.3389/fnetp.2024.1436046. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A14. It bears on CLAIM-481 (coupling does not by itself separate timescales), CLAIM-405 and CLAIM-157. A says metastable and chimera regimes arise in these networks according to modular structure, slow Laplacian eigenmodes and the separation between characteristic timescales. What A says of it is unverified until read.
+  Caprioglio & Berthouze (2024), [ARXIV-2405.14542](https://arxiv.org/abs/2405.14542) / DOI-10.3389/fnetp.2024.1436046. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A14. It bears on [CLAIM-481](../claims.d/CLAIM-481.md) (coupling does not by itself separate timescales), [CLAIM-405](../claims.d/CLAIM-405.md) and [CLAIM-157](../claims.d/CLAIM-157.md). A says metastable and chimera regimes arise in these networks according to modular structure, slow Laplacian eigenmodes and the separation between characteristic timescales. What A says of it is unverified until read.
 ---
 
 # LIT-tmp87x6g: Emergence of metastability in frustrated oscillatory networks: the key role of hierarchical modularity
 
-Enrico Caprioglio and Luc Berthouze (2024). "Emergence of metastability in frustrated oscillatory networks: the key role of hierarchical modularity." *Frontiers in Network Physiology* 4: 1436046. ARXIV-2405.14542 DOI-10.3389/fnetp.2024.1436046.
+Enrico Caprioglio and Luc Berthouze (2024). "Emergence of metastability in frustrated oscillatory networks: the key role of hierarchical modularity." *Frontiers in Network Physiology* 4: 1436046. [ARXIV-2405.14542](https://arxiv.org/abs/2405.14542) DOI-10.3389/fnetp.2024.1436046.
 
 ## Key takeaways
 
@@ -34,4 +34,4 @@ Enrico Caprioglio and Luc Berthouze (2024). "Emergence of metastability in frust
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A14. It bears on CLAIM-481 (coupling does not by itself separate timescales), CLAIM-405 and CLAIM-157.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A14. It bears on [CLAIM-481](../claims.d/CLAIM-481.md) (coupling does not by itself separate timescales), [CLAIM-405](../claims.d/CLAIM-405.md) and [CLAIM-157](../claims.d/CLAIM-157.md).

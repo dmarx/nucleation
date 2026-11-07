@@ -19,12 +19,12 @@ first_author: 'Augustsson'
 keywords: []
 implementations: []
 summary: >-
-  Augustsson et al. (2026), ARXIV-2608.20517. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1, §5 and its reading table). It bears on QUESTION-281 (the transitions by which individuating distinctions arise) and CLAIM-172. A says a minimal model in which adaptive coupling produces self-organizing clusters and chimeras, multiple attractors and different paths of collective reorganization. What A says of it is unverified until read.
+  Augustsson et al. (2026), [ARXIV-2608.20517](https://arxiv.org/abs/2608.20517). Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1, §5 and its reading table). It bears on [QUESTION-281](../questions.d/QUESTION-281.md) (the transitions by which individuating distinctions arise) and [CLAIM-172](../claims.d/CLAIM-172.md). A says a minimal model in which adaptive coupling produces self-organizing clusters and chimeras, multiple attractors and different paths of collective reorganization. What A says of it is unverified until read.
 ---
 
 # LIT-tmp8yh1s: Self-organizing Chimera States in Adaptive Networks
 
-Felix Augustsson, Rok Cestnik, Matthias Wolfrum, Christian Bick, Serhiy Yanchuk and Erik Andreas Martens (2026). "Self-organizing Chimera States in Adaptive Networks." arXiv preprint. ARXIV-2608.20517.
+Felix Augustsson, Rok Cestnik, Matthias Wolfrum, Christian Bick, Serhiy Yanchuk and Erik Andreas Martens (2026). "Self-organizing Chimera States in Adaptive Networks." arXiv preprint. [ARXIV-2608.20517](https://arxiv.org/abs/2608.20517).
 
 ## Key takeaways
 
@@ -32,4 +32,4 @@ Felix Augustsson, Rok Cestnik, Matthias Wolfrum, Christian Bick, Serhiy Yanchuk 
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1, §5 and its reading table). It bears on QUESTION-281 (the transitions by which individuating distinctions arise) and CLAIM-172.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1, §5 and its reading table). It bears on [QUESTION-281](../questions.d/QUESTION-281.md) (the transitions by which individuating distinctions arise) and [CLAIM-172](../claims.d/CLAIM-172.md).

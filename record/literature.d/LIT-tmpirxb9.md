@@ -21,12 +21,12 @@ first_author: 'Bačić'
 keywords: []
 implementations: []
 summary: >-
-  Bačić et al. (2026), ARXIV-2510.05831 / DOI-10.1038/s41467-026-75565-w. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1, §2 and its reading table). It bears on CLAIM-153 and THEORY-1082 (circle-valued frustration), LIT-1668 and LIT-091. A says it extends nonlinear Kirchhoff consistency conditions to cell complexes, where higher-dimensional winding structure organizes coexisting phase-locked states, and calls it "remarkably close" to the record's machinery. What A says of it is unverified until read.
+  Bačić et al. (2026), [ARXIV-2510.05831](https://arxiv.org/abs/2510.05831) / DOI-10.1038/s41467-026-75565-w. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1, §2 and its reading table). It bears on [CLAIM-153](../claims.d/CLAIM-153.md) and [THEORY-1082](../theory.d/THEORY-1082.md) (circle-valued frustration), [LIT-1668](LIT-1668.md) and [LIT-091](LIT-091.md). A says it extends nonlinear Kirchhoff consistency conditions to cell complexes, where higher-dimensional winding structure organizes coexisting phase-locked states, and calls it "remarkably close" to the record's machinery. What A says of it is unverified until read.
 ---
 
 # LIT-tmpirxb9: Phase locking and multistability in the topological Kuramoto model on cell complexes
 
-Iva Bačić, Michael T. Schaub, Jürgen Kurths and Dirk Witthaut (2026). "Phase locking and multistability in the topological Kuramoto model on cell complexes." *Nature Communications* 17: 7409. ARXIV-2510.05831 DOI-10.1038/s41467-026-75565-w.
+Iva Bačić, Michael T. Schaub, Jürgen Kurths and Dirk Witthaut (2026). "Phase locking and multistability in the topological Kuramoto model on cell complexes." *Nature Communications* 17: 7409. [ARXIV-2510.05831](https://arxiv.org/abs/2510.05831) DOI-10.1038/s41467-026-75565-w.
 
 ## Key takeaways
 
@@ -34,4 +34,4 @@ Iva Bačić, Michael T. Schaub, Jürgen Kurths and Dirk Witthaut (2026). "Phase 
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1, §2 and its reading table). It bears on CLAIM-153 and THEORY-1082 (circle-valued frustration), LIT-1668 and LIT-091.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1, §2 and its reading table). It bears on [CLAIM-153](../claims.d/CLAIM-153.md) and [THEORY-1082](../theory.d/THEORY-1082.md) (circle-valued frustration), [LIT-1668](LIT-1668.md) and [LIT-091](LIT-091.md).

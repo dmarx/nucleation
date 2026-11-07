@@ -20,12 +20,12 @@ first_author: 'Lee'
 keywords: []
 implementations: []
 summary: >-
-  Lee et al. (2026), ARXIV-2511.11815 / DOI-10.1103/tq6h-f5ws. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A22 (§9). It bears on QUESTION-281 (the transitions by which distinctions arise). A says it represents structural configurations topologically and describes movement among them as a flowscape, picking up changes in collective organization a static description misses. What A says of it is unverified until read.
+  Lee et al. (2026), [ARXIV-2511.11815](https://arxiv.org/abs/2511.11815) / DOI-10.1103/tq6h-f5ws. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A22 (§9). It bears on [QUESTION-281](../questions.d/QUESTION-281.md) (the transitions by which distinctions arise). A says it represents structural configurations topologically and describes movement among them as a flowscape, picking up changes in collective organization a static description misses. What A says of it is unverified until read.
 ---
 
 # LIT-tmpwvd6l: Topological Flowscape Reveals State Transitions in Nonreciprocal Living Matter
 
-Hyunseok Lee, EliseAnne Koskelo, Shreyas Gokhale and seven others (2026). "Topological Flowscape Reveals State Transitions in Nonreciprocal Living Matter." *Physical Review X* 16(3): 031061. ARXIV-2511.11815 DOI-10.1103/tq6h-f5ws.
+Hyunseok Lee, EliseAnne Koskelo, Shreyas Gokhale and seven others (2026). "Topological Flowscape Reveals State Transitions in Nonreciprocal Living Matter." *Physical Review X* 16(3): 031061. [ARXIV-2511.11815](https://arxiv.org/abs/2511.11815) DOI-10.1103/tq6h-f5ws.
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Hyunseok Lee, EliseAnne Koskelo, Shreyas Gokhale and seven others (2026). "Topol
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A22 (§9). It bears on QUESTION-281 (the transitions by which distinctions arise).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A22 (§9). It bears on [QUESTION-281](../questions.d/QUESTION-281.md) (the transitions by which distinctions arise).

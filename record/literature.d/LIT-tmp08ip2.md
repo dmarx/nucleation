@@ -20,7 +20,7 @@ first_author: 'Dörfler'
 keywords: []
 implementations: []
 summary: >-
-  Dörfler & Bullo (2014), DOI-10.1016/j.automatica.2014.04.012. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table). It bears on the synchronization line the exchange opened: CLAIM-172 (mutual entrainment as the mark of a combined form), QUESTION-147 (clusters against computed orbits) and LIT-1668. A lists it as the standard survey of locking conditions on networks of phase oscillators, and of how graph structure bears on their stability. What A says of it is unverified until read.
+  Dörfler & Bullo (2014), DOI-10.1016/j.automatica.2014.04.012. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table). It bears on the synchronization line the exchange opened: [CLAIM-172](../claims.d/CLAIM-172.md) (mutual entrainment as the mark of a combined form), [QUESTION-147](../questions.d/QUESTION-147.md) (clusters against computed orbits) and [LIT-1668](LIT-1668.md). A lists it as the standard survey of locking conditions on networks of phase oscillators, and of how graph structure bears on their stability. What A says of it is unverified until read.
 ---
 
 # LIT-tmp08ip2: Synchronization in complex networks of phase oscillators: A survey
@@ -33,4 +33,4 @@ Florian Dörfler and Francesco Bullo (2014). "Synchronization in complex network
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table). It bears on the synchronization line the exchange opened: CLAIM-172 (mutual entrainment as the mark of a combined form), QUESTION-147 (clusters against computed orbits) and LIT-1668.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table). It bears on the synchronization line the exchange opened: [CLAIM-172](../claims.d/CLAIM-172.md) (mutual entrainment as the mark of a combined form), [QUESTION-147](../questions.d/QUESTION-147.md) (clusters against computed orbits) and [LIT-1668](LIT-1668.md).

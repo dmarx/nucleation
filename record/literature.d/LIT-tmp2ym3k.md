@@ -19,7 +19,7 @@ first_author: 'Koseska'
 keywords: []
 implementations: []
 summary: >-
-  Koseska, Volkov & Kurths (2013), DOI-10.1016/j.physrep.2013.06.001. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table, under "Suppression"). It bears on the suppression row of the exchange's regime table: CLAIM-522 and CLAIM-602 (suppression against disuse decay). A cites it for amplitude death and oscillation death as distinct mechanisms by which coupling quenches oscillation. A attributed the DOI to Saxena, Prasad and Ramaswamy; Crossref gives Koseska, Volkov and Kurths. What A says of it is unverified until read.
+  Koseska, Volkov & Kurths (2013), DOI-10.1016/j.physrep.2013.06.001. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table, under "Suppression"). It bears on the suppression row of the exchange's regime table: [CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-602](../claims.d/CLAIM-602.md) (suppression against disuse decay). A cites it for amplitude death and oscillation death as distinct mechanisms by which coupling quenches oscillation. A attributed the DOI to Saxena, Prasad and Ramaswamy; Crossref gives Koseska, Volkov and Kurths. What A says of it is unverified until read.
 ---
 
 # LIT-tmp2ym3k: Oscillation quenching mechanisms: Amplitude vs. oscillation death
@@ -32,4 +32,4 @@ Aneta Koseska, Evgeny Volkov and Jürgen Kurths (2013). "Oscillation quenching m
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table, under "Suppression"). It bears on the suppression row of the exchange's regime table: CLAIM-522 and CLAIM-602 (suppression against disuse decay).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table, under "Suppression"). It bears on the suppression row of the exchange's regime table: [CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-602](../claims.d/CLAIM-602.md) (suppression against disuse decay).

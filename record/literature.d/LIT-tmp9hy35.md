@@ -20,12 +20,12 @@ first_author: 'Ko'
 keywords: []
 implementations: []
 summary: >-
-  Ko (2026), ARXIV-2605.29529 / DOI-10.1016/j.physa.2026.132013. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1 and its reading table). It bears on QUESTION-063 (shared drive against coupling) and CASE-179. A says observed synchrony between groups can be wholly exogenous: common noise synchronizes groups that are not coupled to each other. What A says of it is unverified until read.
+  Ko (2026), [ARXIV-2605.29529](https://arxiv.org/abs/2605.29529) / DOI-10.1016/j.physa.2026.132013. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (§1 and its reading table). It bears on [QUESTION-063](../questions.d/QUESTION-063.md) (shared drive against coupling) and [CASE-179](../cases.d/CASE-179.md). A says observed synchrony between groups can be wholly exogenous: common noise synchronizes groups that are not coupled to each other. What A says of it is unverified until read.
 ---
 
 # LIT-tmp9hy35: Common noise-induced group-level synchronization between uncoupled groups of oscillators
 
-Tae-Wook Ko (2026). "Common noise-induced group-level synchronization between uncoupled groups of oscillators." *Physica A* 701: 132013. ARXIV-2605.29529 DOI-10.1016/j.physa.2026.132013.
+Tae-Wook Ko (2026). "Common noise-induced group-level synchronization between uncoupled groups of oscillators." *Physica A* 701: 132013. [ARXIV-2605.29529](https://arxiv.org/abs/2605.29529) DOI-10.1016/j.physa.2026.132013.
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Tae-Wook Ko (2026). "Common noise-induced group-level synchronization between un
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1 and its reading table). It bears on QUESTION-063 (shared drive against coupling) and CASE-179.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (§1 and its reading table). It bears on [QUESTION-063](../questions.d/QUESTION-063.md) (shared drive against coupling) and [CASE-179](../cases.d/CASE-179.md).

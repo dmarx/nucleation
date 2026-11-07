@@ -19,7 +19,7 @@ first_author: 'Foster'
 keywords: []
 implementations: []
 summary: >-
-  Foster & Germonprez (2026), DOI-10.1111/isj.70060. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A36. It bears on CLAIM-280 (a pattern persisting through replacement), QUESTION-393 and CASE-133 (succession under a kept name). A says it compares vendor relicensing events and the community hard forks that followed, Redis and Valkey among them, and quotes contributor figures from it. What A says of it is unverified until read.
+  Foster & Germonprez (2026), DOI-10.1111/isj.70060. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A36. It bears on [CLAIM-280](../claims.d/CLAIM-280.md) (a pattern persisting through replacement), [QUESTION-393](../questions.d/QUESTION-393.md) and [CASE-133](../cases.d/CASE-133.md) (succession under a kept name). A says it compares vendor relicensing events and the community hard forks that followed, Redis and Valkey among them, and quotes contributor figures from it. What A says of it is unverified until read.
 ---
 
 # LIT-tmpt3e5o: Freeriding and Rebellion: An Investigation of Open Source Vendor Relicensing and Member Hard Forking Events
@@ -32,4 +32,4 @@ Dawn Foster and Matt Germonprez (2026). "Freeriding and Rebellion: An Investigat
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A36. It bears on CLAIM-280 (a pattern persisting through replacement), QUESTION-393 and CASE-133 (succession under a kept name).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A36. It bears on [CLAIM-280](../claims.d/CLAIM-280.md) (a pattern persisting through replacement), [QUESTION-393](../questions.d/QUESTION-393.md) and [CASE-133](../cases.d/CASE-133.md) (succession under a kept name).

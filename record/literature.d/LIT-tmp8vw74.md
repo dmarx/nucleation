@@ -19,7 +19,7 @@ first_author: 'Star'
 keywords: []
 implementations: []
 summary: >-
-  Star & Griesemer (1989), DOI-10.1177/030631289019003001. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A41 (§10). It bears on TERM-027 (cultural attractor), TERM-098 and LIT-1631 (Bowker and Star). A sets the boundary object, which supports coordination across perspectives, beside a cultural attractor and its own proposed category for a perpetuated symbol. What A says of it is unverified until read.
+  Star & Griesemer (1989), DOI-10.1177/030631289019003001. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A41 (§10). It bears on [TERM-027](../terms.d/TERM-027.md) (cultural attractor), [TERM-098](../terms.d/TERM-098.md) and [LIT-1631](LIT-1631.md) (Bowker and Star). A sets the boundary object, which supports coordination across perspectives, beside a cultural attractor and its own proposed category for a perpetuated symbol. What A says of it is unverified until read.
 ---
 
 # LIT-tmp8vw74: Institutional Ecology, `Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39
@@ -32,4 +32,4 @@ Susan Leigh Star and James R. Griesemer (1989). "Institutional Ecology, `Transla
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A41 (§10). It bears on TERM-027 (cultural attractor), TERM-098 and LIT-1631 (Bowker and Star).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A41 (§10). It bears on [TERM-027](../terms.d/TERM-027.md) (cultural attractor), [TERM-098](../terms.d/TERM-098.md) and [LIT-1631](LIT-1631.md) (Bowker and Star).

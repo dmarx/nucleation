@@ -20,12 +20,12 @@ first_author: 'Bosca'
 keywords: []
 implementations: []
 summary: >-
-  Bosca & Ghrist (2026), ARXIV-2601.22431. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A29 (§6). It bears on THEORY-1088 and LIT-1646 (Hansen and Ghrist's discourse sheaves). A says it extends discourse-sheaf dynamics to selective rigidity in agents' opinions and selective adaptation of communication maps. What A says of it is unverified until read.
+  Bosca & Ghrist (2026), [ARXIV-2601.22431](https://arxiv.org/abs/2601.22431). Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A29 (§6). It bears on [THEORY-1088](../theory.d/THEORY-1088.md) and [LIT-1646](LIT-1646.md) (Hansen and Ghrist's discourse sheaves). A says it extends discourse-sheaf dynamics to selective rigidity in agents' opinions and selective adaptation of communication maps. What A says of it is unverified until read.
 ---
 
 # LIT-tmprg80n: Selective Adaptation of Beliefs and Communication on Cellular Sheaves
 
-Vicente Bosca and Robert Ghrist (2026). "Selective Adaptation of Beliefs and Communication on Cellular Sheaves." arXiv preprint. ARXIV-2601.22431.
+Vicente Bosca and Robert Ghrist (2026). "Selective Adaptation of Beliefs and Communication on Cellular Sheaves." arXiv preprint. [ARXIV-2601.22431](https://arxiv.org/abs/2601.22431).
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Vicente Bosca and Robert Ghrist (2026). "Selective Adaptation of Beliefs and Com
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A29 (§6). It bears on THEORY-1088 and LIT-1646 (Hansen and Ghrist's discourse sheaves).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A29 (§6). It bears on [THEORY-1088](../theory.d/THEORY-1088.md) and [LIT-1646](LIT-1646.md) (Hansen and Ghrist's discourse sheaves).

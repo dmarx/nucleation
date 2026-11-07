@@ -20,7 +20,7 @@ first_author: 'Ocampo-Espindola'
 keywords: []
 implementations: []
 summary: >-
-  Ocampo-Espindola et al. (2024), DOI-10.1063/5.0205480. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table, under "Experimental control"). It bears on CLAIM-167 (one-way drive) and QUESTION-063. A lists it as an experimental demonstration that entrainment can select a phase in real oscillators. What A says of it is unverified until read.
+  Ocampo-Espindola et al. (2024), DOI-10.1063/5.0205480. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table, under "Experimental control"). It bears on [CLAIM-167](../claims.d/CLAIM-167.md) (one-way drive) and [QUESTION-063](../questions.d/QUESTION-063.md). A lists it as an experimental demonstration that entrainment can select a phase in real oscillators. What A says of it is unverified until read.
 ---
 
 # LIT-tmp04umi: Optimal phase-selective entrainment of electrochemical oscillators with different phase response curves
@@ -33,4 +33,4 @@ Jorge Luis Ocampo-Espindola, Bharat Singhal, Jr-Shin Li and István Z. Kiss (202
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table, under "Experimental control"). It bears on CLAIM-167 (one-way drive) and QUESTION-063.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table, under "Experimental control"). It bears on [CLAIM-167](../claims.d/CLAIM-167.md) (one-way drive) and [QUESTION-063](../questions.d/QUESTION-063.md).

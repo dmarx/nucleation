@@ -20,12 +20,12 @@ first_author: 'Bumpus'
 keywords: []
 implementations: []
 summary: >-
-  Bumpus et al. (2026), ARXIV-2402.00206 / DOI-10.1007/s10485-026-09860-4. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25 and A29. It bears on QUESTION-379 and the temporal-sheaf candidate of the exchange. A says it introduces categories of narratives, sheaf-based structures for temporal graphs and other mathematical objects that change over time. What A says of it is unverified until read.
+  Bumpus et al. (2026), [ARXIV-2402.00206](https://arxiv.org/abs/2402.00206) / DOI-10.1007/s10485-026-09860-4. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25 and A29. It bears on [QUESTION-379](../questions.d/QUESTION-379.md) and the temporal-sheaf candidate of the exchange. A says it introduces categories of narratives, sheaf-based structures for temporal graphs and other mathematical objects that change over time. What A says of it is unverified until read.
 ---
 
 # LIT-tmp6qrxe: Towards a Unified Theory of Time-Varying Data
 
-Benjamin Merlin Bumpus, Wilmer Leal, James Fairbanks, Martti Karvonen and Frédéric Simard (2026). "Towards a Unified Theory of Time-Varying Data." *Applied Categorical Structures* 34(3): 23. ARXIV-2402.00206 DOI-10.1007/s10485-026-09860-4.
+Benjamin Merlin Bumpus, Wilmer Leal, James Fairbanks, Martti Karvonen and Frédéric Simard (2026). "Towards a Unified Theory of Time-Varying Data." *Applied Categorical Structures* 34(3): 23. [ARXIV-2402.00206](https://arxiv.org/abs/2402.00206) DOI-10.1007/s10485-026-09860-4.
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Benjamin Merlin Bumpus, Wilmer Leal, James Fairbanks, Martti Karvonen and Fréd�
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25 and A29. It bears on QUESTION-379 and the temporal-sheaf candidate of the exchange.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25 and A29. It bears on [QUESTION-379](../questions.d/QUESTION-379.md) and the temporal-sheaf candidate of the exchange.

@@ -20,12 +20,12 @@ first_author: 'Schultz'
 keywords: []
 implementations: []
 summary: >-
-  Schultz & Spivak (2017), ARXIV-1710.10258. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25. It bears on QUESTION-379 and QUESTION-143. A says its objects represent types of possible behaviour, so that a temporal logic internal to the topos can reason about them. What A says of it is unverified until read.
+  Schultz & Spivak (2017), [ARXIV-1710.10258](https://arxiv.org/abs/1710.10258). Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25. It bears on [QUESTION-379](../questions.d/QUESTION-379.md) and [QUESTION-143](../questions.d/QUESTION-143.md). A says its objects represent types of possible behaviour, so that a temporal logic internal to the topos can reason about them. What A says of it is unverified until read.
 ---
 
 # LIT-tmp3k9zv: Temporal Type Theory: A topos-theoretic approach to systems and behavior
 
-Patrick Schultz and David I. Spivak (2017). "Temporal Type Theory: A topos-theoretic approach to systems and behavior." arXiv preprint. ARXIV-1710.10258.
+Patrick Schultz and David I. Spivak (2017). "Temporal Type Theory: A topos-theoretic approach to systems and behavior." arXiv preprint. [ARXIV-1710.10258](https://arxiv.org/abs/1710.10258).
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Patrick Schultz and David I. Spivak (2017). "Temporal Type Theory: A topos-theor
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25. It bears on QUESTION-379 and QUESTION-143.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25. It bears on [QUESTION-379](../questions.d/QUESTION-379.md) and [QUESTION-143](../questions.d/QUESTION-143.md).

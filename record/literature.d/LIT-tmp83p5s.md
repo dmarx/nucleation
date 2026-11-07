@@ -20,12 +20,12 @@ first_author: 'Battiston'
 keywords: []
 implementations: []
 summary: >-
-  Battiston et al. (2026), ARXIV-2510.05253 / DOI-10.1038/s42254-025-00916-3. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table). It bears on LIT-091 (the same group's 2020 review, a different work) and CLAIM-153. A lists it as the current review of collective dynamics on hypergraphs and simplicial complexes. What A says of it is unverified until read.
+  Battiston et al. (2026), [ARXIV-2510.05253](https://arxiv.org/abs/2510.05253) / DOI-10.1038/s42254-025-00916-3. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table). It bears on [LIT-091](LIT-091.md) (the same group's 2020 review, a different work) and [CLAIM-153](../claims.d/CLAIM-153.md). A lists it as the current review of collective dynamics on hypergraphs and simplicial complexes. What A says of it is unverified until read.
 ---
 
 # LIT-tmp83p5s: Collective dynamics on higher-order networks
 
-Federico Battiston, Christian Bick, Maxime Lucas, Ana P. Millán, Per Sebastian Skardal and Yuanzhao Zhang (2026). "Collective dynamics on higher-order networks." *Nature Reviews Physics* 8(3): 146–159. ARXIV-2510.05253 DOI-10.1038/s42254-025-00916-3.
+Federico Battiston, Christian Bick, Maxime Lucas, Ana P. Millán, Per Sebastian Skardal and Yuanzhao Zhang (2026). "Collective dynamics on higher-order networks." *Nature Reviews Physics* 8(3): 146–159. [ARXIV-2510.05253](https://arxiv.org/abs/2510.05253) DOI-10.1038/s42254-025-00916-3.
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Federico Battiston, Christian Bick, Maxime Lucas, Ana P. Millán, Per Sebastian 
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table). It bears on LIT-091 (the same group's 2020 review, a different work) and CLAIM-153.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table). It bears on [LIT-091](LIT-091.md) (the same group's 2020 review, a different work) and [CLAIM-153](../claims.d/CLAIM-153.md).

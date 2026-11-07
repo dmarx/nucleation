@@ -21,12 +21,12 @@ first_author: 'Schultz'
 keywords: []
 implementations: []
 summary: >-
-  Schultz, Spivak & Vasilakopoulou (2019), ARXIV-1609.08086 / DOI-10.1007/s10485-019-09565-x. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25, A27, A29 and A45. It bears on QUESTION-379, QUESTION-143 and THEORY-171 (the record's sheaf-theoretic line). A says it models dynamical systems as sheaves of behaviours over time, with inputs and outputs and an algebra for composing open systems. What A says of it is unverified until read.
+  Schultz, Spivak & Vasilakopoulou (2019), [ARXIV-1609.08086](https://arxiv.org/abs/1609.08086) / DOI-10.1007/s10485-019-09565-x. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25, A27, A29 and A45. It bears on [QUESTION-379](../questions.d/QUESTION-379.md), [QUESTION-143](../questions.d/QUESTION-143.md) and [THEORY-171](../theory.d/THEORY-171.md) (the record's sheaf-theoretic line). A says it models dynamical systems as sheaves of behaviours over time, with inputs and outputs and an algebra for composing open systems. What A says of it is unverified until read.
 ---
 
 # LIT-tmpr9ilj: Dynamical Systems and Sheaves
 
-Patrick Schultz, David I. Spivak and Christina Vasilakopoulou (2019). "Dynamical Systems and Sheaves." *Applied Categorical Structures* 28(1): 1–57. ARXIV-1609.08086 DOI-10.1007/s10485-019-09565-x.
+Patrick Schultz, David I. Spivak and Christina Vasilakopoulou (2019). "Dynamical Systems and Sheaves." *Applied Categorical Structures* 28(1): 1–57. [ARXIV-1609.08086](https://arxiv.org/abs/1609.08086) DOI-10.1007/s10485-019-09565-x.
 
 ## Key takeaways
 
@@ -34,4 +34,4 @@ Patrick Schultz, David I. Spivak and Christina Vasilakopoulou (2019). "Dynamical
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25, A27, A29 and A45. It bears on QUESTION-379, QUESTION-143 and THEORY-171 (the record's sheaf-theoretic line).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25, A27, A29 and A45. It bears on [QUESTION-379](../questions.d/QUESTION-379.md), [QUESTION-143](../questions.d/QUESTION-143.md) and [THEORY-171](../theory.d/THEORY-171.md) (the record's sheaf-theoretic line).

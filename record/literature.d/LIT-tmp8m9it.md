@@ -20,12 +20,12 @@ first_author: 'Avitabile'
 keywords: []
 implementations: []
 summary: >-
-  Avitabile et al. (2016), ARXIV-1512.08224 / DOI-10.1007/s00422-016-0691-9. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A29. It bears on LIT-588 and THEORY-1227 (the HKB model). A says it studies the full four-dimensional coupled-oscillator system of the HKB model of joint action, not only the reduced relative-phase equation. What A says of it is unverified until read.
+  Avitabile et al. (2016), [ARXIV-1512.08224](https://arxiv.org/abs/1512.08224) / DOI-10.1007/s00422-016-0691-9. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A29. It bears on [LIT-588](LIT-588.md) and [THEORY-1227](../theory.d/THEORY-1227.md) (the HKB model). A says it studies the full four-dimensional coupled-oscillator system of the HKB model of joint action, not only the reduced relative-phase equation. What A says of it is unverified until read.
 ---
 
 # LIT-tmp8m9it: Beyond in-phase and anti-phase coordination in a model of joint action
 
-Daniele Avitabile, Piotr Słowiński, Benoit Bardy and Krasimira Tsaneva-Atanasova (2016). "Beyond in-phase and anti-phase coordination in a model of joint action." *Biological Cybernetics* 110(2–3): 201–216. ARXIV-1512.08224 DOI-10.1007/s00422-016-0691-9.
+Daniele Avitabile, Piotr Słowiński, Benoit Bardy and Krasimira Tsaneva-Atanasova (2016). "Beyond in-phase and anti-phase coordination in a model of joint action." *Biological Cybernetics* 110(2–3): 201–216. [ARXIV-1512.08224](https://arxiv.org/abs/1512.08224) DOI-10.1007/s00422-016-0691-9.
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Daniele Avitabile, Piotr Słowiński, Benoit Bardy and Krasimira Tsaneva-Atanaso
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A29. It bears on LIT-588 and THEORY-1227 (the HKB model).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A29. It bears on [LIT-588](LIT-588.md) and [THEORY-1227](../theory.d/THEORY-1227.md) (the HKB model).

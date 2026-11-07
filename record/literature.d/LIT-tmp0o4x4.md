@@ -19,7 +19,7 @@ first_author: 'Silverman'
 keywords: []
 implementations: []
 summary: >-
-  Silverman et al. (2026), DOI-10.1038/s41563-026-02767-4. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A20 (§7). It bears on CLAIM-478 and QUESTION-398. A offers it as an example platform in which control parameters become internal variables, in three layers (mechanical, productive, regulatory), and says itself that it shows no closure. What A says of it is unverified until read.
+  Silverman et al. (2026), DOI-10.1038/s41563-026-02767-4. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A20 (§7). It bears on [CLAIM-478](../claims.d/CLAIM-478.md) and [QUESTION-398](../questions.d/QUESTION-398.md). A offers it as an example platform in which control parameters become internal variables, in three layers (mechanical, productive, regulatory), and says itself that it shows no closure. What A says of it is unverified until read.
 ---
 
 # LIT-tmp0o4x4: Gene-driven self-morphing microtubule-based active matter
@@ -32,4 +32,4 @@ Rochelle Silverman, Erez Zerbib, David Garenne, Hillel Aharoni, Vincent Noireaux
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A20 (§7). It bears on CLAIM-478 and QUESTION-398.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A20 (§7). It bears on [CLAIM-478](../claims.d/CLAIM-478.md) and [QUESTION-398](../questions.d/QUESTION-398.md).

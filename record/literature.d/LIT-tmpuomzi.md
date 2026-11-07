@@ -19,7 +19,7 @@ first_author: 'Hancock'
 keywords: []
 implementations: []
 summary: >-
-  Hancock et al. (2024), DOI-10.1038/s41583-024-00883-1. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18. It bears on QUESTION-281 and LIT-601 (Kelso's metastability through HKB). A cites it for metastability as the coexistence of integrating and segregating tendencies in brain dynamics. What A says of it is unverified until read.
+  Hancock et al. (2024), DOI-10.1038/s41583-024-00883-1. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18. It bears on [QUESTION-281](../questions.d/QUESTION-281.md) and [LIT-601](LIT-601.md) (Kelso's metastability through HKB). A cites it for metastability as the coexistence of integrating and segregating tendencies in brain dynamics. What A says of it is unverified until read.
 ---
 
 # LIT-tmpuomzi: Metastability demystified — the foundational past, the pragmatic present and the promising future
@@ -32,4 +32,4 @@ Fran Hancock, Fernando E. Rosas, Andrea I. Luppi and eight others (2024). "Metas
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18. It bears on QUESTION-281 and LIT-601 (Kelso's metastability through HKB).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18. It bears on [QUESTION-281](../questions.d/QUESTION-281.md) and [LIT-601](LIT-601.md) (Kelso's metastability through HKB).

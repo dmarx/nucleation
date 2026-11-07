@@ -20,12 +20,12 @@ first_author: 'Leal'
 keywords: []
 implementations: []
 summary: >-
-  Leal et al. (2026), ARXIV-2609.09056. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25. It bears on QUESTION-379 and THEORY-1088. A calls it a follow-up that applies the narrative formalism to multi-agent systems whose communication networks change. What A says of it is unverified until read.
+  Leal et al. (2026), [ARXIV-2609.09056](https://arxiv.org/abs/2609.09056). Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A25. It bears on [QUESTION-379](../questions.d/QUESTION-379.md) and [THEORY-1088](../theory.d/THEORY-1088.md). A calls it a follow-up that applies the narrative formalism to multi-agent systems whose communication networks change. What A says of it is unverified until read.
 ---
 
 # LIT-tmpsvf96: Time-Varying Data as Sheaves: an Invitation to Narratives
 
-Wilmer Leal, Benjamin Merlin Bumpus, Jana K. Nickel, Johan García, James Fairbanks and Warren Dixon (2026). "Time-Varying Data as Sheaves: an Invitation to Narratives." arXiv preprint. ARXIV-2609.09056.
+Wilmer Leal, Benjamin Merlin Bumpus, Jana K. Nickel, Johan García, James Fairbanks and Warren Dixon (2026). "Time-Varying Data as Sheaves: an Invitation to Narratives." arXiv preprint. [ARXIV-2609.09056](https://arxiv.org/abs/2609.09056).
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Wilmer Leal, Benjamin Merlin Bumpus, Jana K. Nickel, Johan García, James Fairba
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25. It bears on QUESTION-379 and THEORY-1088.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A25. It bears on [QUESTION-379](../questions.d/QUESTION-379.md) and [THEORY-1088](../theory.d/THEORY-1088.md).

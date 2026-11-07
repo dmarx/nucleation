@@ -83,4 +83,4 @@ literature A cites for oscillation quenching is a 2013 *Physics Reports*
 review, doi:10.1016/j.physrep.2013.06.001, which A attributes to Saxena,
 Prasad and Ramaswamy. Crossref gives that DOI to Koseska, Volkov and
 Kurths, "Oscillation quenching mechanisms", registered unread as
-LIT-tmp2ym3k.
+[LIT-tmp2ym3k](../literature.d/LIT-tmp2ym3k.md).

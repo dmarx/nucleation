@@ -20,12 +20,12 @@ first_author: 'Ott'
 keywords: []
 implementations: []
 summary: >-
-  Ott & Antonsen (2008), ARXIV-0806.0004 / DOI-10.1063/1.2930766. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18 (§5). It bears on CLAIM-474, QUESTION-252 (which conditions on an effective description can fail while the others hold) and CLAIM-394; it is mentioned inside NOTE-057. A says the reduction gives exact low-dimensional equations on an invariant manifold for certain infinite populations, so a low-dimensional law need not come from slaving by fast and slow scales. What A says of it is unverified until read.
+  Ott & Antonsen (2008), [ARXIV-0806.0004](https://arxiv.org/abs/0806.0004) / DOI-10.1063/1.2930766. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18 (§5). It bears on [CLAIM-474](../claims.d/CLAIM-474.md), [QUESTION-252](../questions.d/QUESTION-252.md) (which conditions on an effective description can fail while the others hold) and [CLAIM-394](../claims.d/CLAIM-394.md); it is mentioned inside [NOTE-057](../notes.d/NOTE-057.md). A says the reduction gives exact low-dimensional equations on an invariant manifold for certain infinite populations, so a low-dimensional law need not come from slaving by fast and slow scales. What A says of it is unverified until read.
 ---
 
 # LIT-tmpbp1jb: Low Dimensional Behavior of Large Systems of Globally Coupled Oscillators
 
-Edward Ott and Thomas M. Antonsen (2008). "Low Dimensional Behavior of Large Systems of Globally Coupled Oscillators." *Chaos* 18(3): 037113. ARXIV-0806.0004 DOI-10.1063/1.2930766.
+Edward Ott and Thomas M. Antonsen (2008). "Low Dimensional Behavior of Large Systems of Globally Coupled Oscillators." *Chaos* 18(3): 037113. [ARXIV-0806.0004](https://arxiv.org/abs/0806.0004) DOI-10.1063/1.2930766.
 
 ## Key takeaways
 
@@ -33,4 +33,4 @@ Edward Ott and Thomas M. Antonsen (2008). "Low Dimensional Behavior of Large Sys
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18 (§5). It bears on CLAIM-474, QUESTION-252 (which conditions on an effective description can fail while the others hold) and CLAIM-394; it is mentioned inside NOTE-057.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18 (§5). It bears on [CLAIM-474](../claims.d/CLAIM-474.md), [QUESTION-252](../questions.d/QUESTION-252.md) (which conditions on an effective description can fail while the others hold) and [CLAIM-394](../claims.d/CLAIM-394.md); it is mentioned inside [NOTE-057](../notes.d/NOTE-057.md).

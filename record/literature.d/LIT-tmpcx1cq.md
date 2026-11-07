@@ -19,7 +19,7 @@ first_author: 'Stewart'
 keywords: []
 implementations: []
 summary: >-
-  Stewart (2007), DOI-10.1017/S0305004107000345. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A20 (§2). It bears on QUESTION-147, LIT-1674 and THEORY-1065 (balanced equivalence relations and patterns of synchrony). A says the balanced partitions of a coupled cell network form a lattice, and suggests comparing it with the attractors realized. What A says of it is unverified until read.
+  Stewart (2007), DOI-10.1017/S0305004107000345. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A20 (§2). It bears on [QUESTION-147](../questions.d/QUESTION-147.md), [LIT-1674](LIT-1674.md) and [THEORY-1065](../theory.d/THEORY-1065.md) (balanced equivalence relations and patterns of synchrony). A says the balanced partitions of a coupled cell network form a lattice, and suggests comparing it with the attractors realized. What A says of it is unverified until read.
 ---
 
 # LIT-tmpcx1cq: The lattice of balanced equivalence relations of a coupled cell network
@@ -32,4 +32,4 @@ Ian Stewart (2007). "The lattice of balanced equivalence relations of a coupled 
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A20 (§2). It bears on QUESTION-147, LIT-1674 and THEORY-1065 (balanced equivalence relations and patterns of synchrony).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A20 (§2). It bears on [QUESTION-147](../questions.d/QUESTION-147.md), [LIT-1674](LIT-1674.md) and [THEORY-1065](../theory.d/THEORY-1065.md) (balanced equivalence relations and patterns of synchrony).

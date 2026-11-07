@@ -20,7 +20,7 @@ first_author: 'Stefanovska'
 keywords: []
 implementations: []
 summary: >-
-  Stefanovska (2026), DOI-10.1140/epjs/s11734-026-02588-1. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A22 (§8). It bears on THEORY-1079 (tipping relative to a moving attractor). A says it argues that living systems are better understood through dynamically maintained timing relationships, and A reads its chronotaxicity as stability relative to a moving attracting structure. What A says of it is unverified until read.
+  Stefanovska (2026), DOI-10.1140/epjs/s11734-026-02588-1. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A22 (§8). It bears on [THEORY-1079](../theory.d/THEORY-1079.md) (tipping relative to a moving attractor). A says it argues that living systems are better understood through dynamically maintained timing relationships, and A reads its chronotaxicity as stability relative to a moving attracting structure. What A says of it is unverified until read.
 ---
 
 # LIT-tmp84ol5: Temporal organization in living systems: toward a physics of life
@@ -33,4 +33,4 @@ Aneta Stefanovska (2026). "Temporal organization in living systems: toward a phy
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A22 (§8). It bears on THEORY-1079 (tipping relative to a moving attractor).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A22 (§8). It bears on [THEORY-1079](../theory.d/THEORY-1079.md) (tipping relative to a moving attractor).

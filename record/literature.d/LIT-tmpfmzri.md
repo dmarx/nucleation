@@ -19,12 +19,12 @@ first_author: 'Widder'
 keywords: []
 implementations: []
 summary: >-
-  Widder & Schilling (2026), ARXIV-2604.20453. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18 (§5). It bears on QUESTION-252 and the Mori–Zwanzig works the record holds (LIT-1259, LIT-1307). A says it shows that memory terms need careful interpretation: their presence and meaning depend on the projection, and they should not be equated with one simple physical timescale. What A says of it is unverified until read.
+  Widder & Schilling (2026), [ARXIV-2604.20453](https://arxiv.org/abs/2604.20453). Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18 (§5). It bears on [QUESTION-252](../questions.d/QUESTION-252.md) and the Mori–Zwanzig works the record holds ([LIT-1259](LIT-1259.md), [LIT-1307](LIT-1307.md)). A says it shows that memory terms need careful interpretation: their presence and meaning depend on the projection, and they should not be equated with one simple physical timescale. What A says of it is unverified until read.
 ---
 
 # LIT-tmpfmzri: Generalised Langevin Dynamics: Significance and Limitations of the Projection Operator Formalism
 
-Christoph Widder and Tanja Schilling (2026). "Generalised Langevin Dynamics: Significance and Limitations of the Projection Operator Formalism." arXiv preprint. ARXIV-2604.20453.
+Christoph Widder and Tanja Schilling (2026). "Generalised Langevin Dynamics: Significance and Limitations of the Projection Operator Formalism." arXiv preprint. [ARXIV-2604.20453](https://arxiv.org/abs/2604.20453).
 
 ## Key takeaways
 
@@ -32,4 +32,4 @@ Christoph Widder and Tanja Schilling (2026). "Generalised Langevin Dynamics: Sig
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18 (§5). It bears on QUESTION-252 and the Mori–Zwanzig works the record holds (LIT-1259, LIT-1307).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18 (§5). It bears on [QUESTION-252](../questions.d/QUESTION-252.md) and the Mori–Zwanzig works the record holds ([LIT-1259](LIT-1259.md), [LIT-1307](LIT-1307.md)).

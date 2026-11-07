@@ -19,7 +19,7 @@ first_author: 'Pecora'
 keywords: []
 implementations: []
 summary: >-
-  Pecora & Carroll (1990), DOI-10.1103/PhysRevLett.64.821. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A20. It bears on CLAIM-172 and CLAIM-167 (drive and mutual entrainment) and LIT-960. A says it showed how conditional Lyapunov exponents establish synchronization of a chaotic response system to its drive. What A says of it is unverified until read.
+  Pecora & Carroll (1990), DOI-10.1103/PhysRevLett.64.821. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A20. It bears on [CLAIM-172](../claims.d/CLAIM-172.md) and [CLAIM-167](../claims.d/CLAIM-167.md) (drive and mutual entrainment) and [LIT-960](LIT-960.md). A says it showed how conditional Lyapunov exponents establish synchronization of a chaotic response system to its drive. What A says of it is unverified until read.
 ---
 
 # LIT-tmpuiz3t: Synchronization in chaotic systems
@@ -32,4 +32,4 @@ Louis M. Pecora and Thomas L. Carroll (1990). "Synchronization in chaotic system
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A20. It bears on CLAIM-172 and CLAIM-167 (drive and mutual entrainment) and LIT-960.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A20. It bears on [CLAIM-172](../claims.d/CLAIM-172.md) and [CLAIM-167](../claims.d/CLAIM-167.md) (drive and mutual entrainment) and [LIT-960](LIT-960.md).

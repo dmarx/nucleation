@@ -20,7 +20,7 @@ first_author: 'Müller'
 keywords: []
 implementations: []
 summary: >-
-  Müller (2026), DOI-10.3389/fnetp.2026.1776969. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18. It bears on LIT-571 (participatory sense-making) and CLAIM-526 (persons and organizations as coexisting levels). A says it proposes a multilayer network account of social interaction grounded in synergetic self-organization and circular causation. What A says of it is unverified until read.
+  Müller (2026), DOI-10.3389/fnetp.2026.1776969. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18. It bears on [LIT-571](LIT-571.md) (participatory sense-making) and [CLAIM-526](../claims.d/CLAIM-526.md) (persons and organizations as coexisting levels). A says it proposes a multilayer network account of social interaction grounded in synergetic self-organization and circular causation. What A says of it is unverified until read.
 ---
 
 # LIT-tmphdq26: Self-organization and circular causation as synergetic foundations of social interaction: a multilayer network perspective
@@ -33,4 +33,4 @@ Viktor Müller (2026). "Self-organization and circular causation as synergetic f
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18. It bears on LIT-571 (participatory sense-making) and CLAIM-526 (persons and organizations as coexisting levels).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18. It bears on [LIT-571](LIT-571.md) (participatory sense-making) and [CLAIM-526](../claims.d/CLAIM-526.md) (persons and organizations as coexisting levels).

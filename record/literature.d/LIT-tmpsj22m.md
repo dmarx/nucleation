@@ -18,7 +18,7 @@ first_author: 'Choi'
 keywords: []
 implementations: []
 summary: >-
-  Choi & Fara, Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/dispositions/. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A50 (§2). It bears on LIT-109 and NOTE-125 (Vetter) and TERM-071 (reinstatable persistence). A cites it for the distinctions among masked, mimicked and finkish dispositions, which A adapts for organizations. What A says of it is unverified until read.
+  Choi & Fara, Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/dispositions/. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A50 (§2). It bears on [LIT-109](LIT-109.md) and [NOTE-125](../notes.d/NOTE-125.md) (Vetter) and [TERM-071](../terms.d/TERM-071.md) (reinstatable persistence). A cites it for the distinctions among masked, mimicked and finkish dispositions, which A adapts for organizations. What A says of it is unverified until read.
 ---
 
 # LIT-tmpsj22m: Dispositions
@@ -31,4 +31,4 @@ Sungho Choi and Michael Fara (2006). "Dispositions." *Stanford Encyclopedia of P
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A50 (§2). It bears on LIT-109 and NOTE-125 (Vetter) and TERM-071 (reinstatable persistence).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A50 (§2). It bears on [LIT-109](LIT-109.md) and [NOTE-125](../notes.d/NOTE-125.md) (Vetter) and [TERM-071](../terms.d/TERM-071.md) (reinstatable persistence).

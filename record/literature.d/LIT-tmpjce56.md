@@ -20,7 +20,7 @@ first_author: 'Haken'
 keywords: []
 implementations: []
 summary: >-
-  Haken (1975), DOI-10.1103/RevModPhys.47.67. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A16 and A18. It bears on LIT-923 and LIT-1671 (Haken's Synergetics and the slaving principle, both Unavailable) and CLAIM-478 (scale separation in making structure). A names it the starting point for synergetics: order parameters, critical modes near instability, and the laser as the model of self-organized ordering. What A says of it is unverified until read.
+  Haken (1975), DOI-10.1103/RevModPhys.47.67. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A16 and A18. It bears on [LIT-923](LIT-923.md) and [LIT-1671](LIT-1671.md) (Haken's Synergetics and the slaving principle, both Unavailable) and [CLAIM-478](../claims.d/CLAIM-478.md) (scale separation in making structure). A names it the starting point for synergetics: order parameters, critical modes near instability, and the laser as the model of self-organized ordering. What A says of it is unverified until read.
 ---
 
 # LIT-tmpjce56: Cooperative phenomena in systems far from thermal equilibrium and in nonphysical systems
@@ -33,4 +33,4 @@ H. Haken (1975). "Cooperative phenomena in systems far from thermal equilibrium 
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A16 and A18. It bears on LIT-923 and LIT-1671 (Haken's Synergetics and the slaving principle, both Unavailable) and CLAIM-478 (scale separation in making structure).
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A16 and A18. It bears on [LIT-923](LIT-923.md) and [LIT-1671](LIT-1671.md) (Haken's Synergetics and the slaving principle, both Unavailable) and [CLAIM-478](../claims.d/CLAIM-478.md) (scale separation in making structure).

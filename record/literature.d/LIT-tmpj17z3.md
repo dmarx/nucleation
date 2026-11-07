@@ -19,7 +19,7 @@ first_author: 'Yadav'
 keywords: []
 implementations: []
 summary: >-
-  Yadav, Chandrasekar & Senthilkumar (2026), DOI-10.1103/v1vq-skr1. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A14. It bears on CLAIM-478 (scale separation in making structure) and THEORY-1079. A says slow adaptation leaves the contrarians incoherent while sufficiently fast adaptation can let them synchronize through feedback with the changing network, under further population and coupling conditions. What A says of it is unverified until read.
+  Yadav, Chandrasekar & Senthilkumar (2026), DOI-10.1103/v1vq-skr1. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A14. It bears on [CLAIM-478](../claims.d/CLAIM-478.md) (scale separation in making structure) and [THEORY-1079](../theory.d/THEORY-1079.md). A says slow adaptation leaves the contrarians incoherent while sufficiently fast adaptation can let them synchronize through feedback with the changing network, under further population and coupling conditions. What A says of it is unverified until read.
 ---
 
 # LIT-tmpj17z3: Timescale-induced synchronization of contrarians in adaptive dynamical networks
@@ -32,4 +32,4 @@ Akash Yadav, V. K. Chandrasekar and D. V. Senthilkumar (2026). "Timescale-induce
 
 ## Standing in the record
 
-Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A14. It bears on CLAIM-478 (scale separation in making structure) and THEORY-1079.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A14. It bears on [CLAIM-478](../claims.d/CLAIM-478.md) (scale separation in making structure) and [THEORY-1079](../theory.d/THEORY-1079.md).
