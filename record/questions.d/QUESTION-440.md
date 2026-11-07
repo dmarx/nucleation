@@ -23,7 +23,7 @@ summary: >-
   slower controls and faster interrupts, without the question. The wording
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1306 CLAIM-423 CLAIM-478 — Proposed; the record's statements that the slower level holds control, cited as open -->
+<!-- inactive-ok-file: CLAIM-423 CLAIM-478 — Proposed; the record's statements that the slower level holds control, cited as open -->
 
 # QUESTION-440: Can a relation of dynamical slaving realize the precedence, jurisdiction or suspension one process has over others in an organization, and does the authority it realizes go with the slower variable, the faster one, or neither?
 

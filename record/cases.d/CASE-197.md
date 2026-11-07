@@ -1,10 +1,25 @@
 ---
 number: 197
-status: Proposed
+status: Active
 formerly:
 - CASE-tmps4kry
 title: 'The toy model of superposition with six features in two dimensions, with each feature''s reconstruction loss taken as a demand: at the 5-gon critical point five features are met at 0.0158 and the dropped one only at 1/3, at the 6-gon every feature is met at 0.0482, so the posterior''s 5 → 6 transition strictly enlarges the compatibility complex for common tolerances from 0.0482 to 1/3, loses its five-feature face below 0.0482, and at the critical points changes no Betti number, only which features can be met at all'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the thirtieth status review, under the owner's delegation
+    of 2026-10-29. It had been kept Proposed "because the neighbourhood
+    results are sampled, not exhaustive", but its title claims only the
+    critical-point results, which are computed, not sampled. The
+    coordinator re-ran scratch/formal/tms_compatibility.py, which gave the
+    figures in the tables above, and checked the 5-gon's per-feature loss
+    by hand from Table 1's mean: (6 × 0.06874 − 1/3)/5 = 0.0158. Its
+    source reading, NOTE-1462, went to Read in the twenty-ninth pass. The
+    neighbourhood results stay what the body calls them, sample minima.
+    The demands and the common tolerance remain stipulated, and adoption
+    of the construction is listed for the owner's assent.
 standing: stipulated
 kind: construction
 tags:
@@ -30,7 +45,7 @@ summary: >-
   Bayesian transition counts as relief depends on the tolerance. Where it
   does, the change adds a vertex rather than filling a hole. The
   stipulated part is the choice of demands and of one common tolerance.
-  Proposed, because the neighbourhood results are sampled, not exhaustive.
+  The title's results are the critical points'; the neighbourhood ones are sampled.
   The construction is A's, run and sharpened by the reader; adopting it is
   the owner's call.
 ---

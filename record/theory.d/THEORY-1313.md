@@ -19,7 +19,6 @@ summary: >-
   mechanism of persona change, which the authors leave open, or that the
   method finds personas it was not told to look for.
 ---
-<!-- inactive-ok-file: NOTE-1524 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 
 # THEORY-1313: In two 7–8B chat models, the shift that finetuning induces along a difference-of-means persona vector correlates with how strongly the finetuned model then expresses that trait, r = 0.76–0.97 across synthetic datasets for evil, sycophancy and hallucination, above cross-trait baselines of 0.34–0.86; the last-prompt-token projection predicts a response's trait at r = 0.75–0.83 overall but mainly by telling prompt types apart
 

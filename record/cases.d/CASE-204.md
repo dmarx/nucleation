@@ -38,7 +38,6 @@ summary: >-
   mechanical specimen; its organizational reading is an analogy.
   Adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1606 — Skimmed; Foschi, Hull and Ku, read in part -->
 <!-- inactive-ok-file: CASE-207 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
 
 # CASE-204: A positively curved origami vertex: its popped-up and popped-down states lie in components that no rigid, non-self-intersecting motion joins, so no budget reaches one from the other, and only widening the admissible moves reconnects them
@@ -127,3 +126,14 @@ it is not available at all.
 - **What a widening of the moves would cost.** Tearing or
   self-intersection is not priced; the case only shows that the budget
   is the wrong lever.
+
+## Note of 2026-11-06: Foschi, Hull and Ku, read
+
+Read in full ([NOTE-1606](../notes.d/NOTE-1606.md)). This case cites the sentence that degree-4 modes are disconnected whenever the sector angles do not sum to 2π. That sentence is the paper's generalization from its Example 1, with no theorem behind it.
+
+A numerical check of that example supports the case as it is filed, with faces forbidden to pass through each other. The check is scratch/formal/foschi_deg4_turning.py and scratch/formal/foschi_deg4_monodromy.py; neither script is yet second-checked. It finds:
+
+- **Elliptic perturbation.** The popped-up and popped-down pieces lie in different components while every fold angle stays inside (−π, π). Letting a crease pass ±π joins them into one loop. That is the degree-4 instance of the case's "only widening the admissible moves reconnects them".
+- **Hyperbolic perturbation.** The two modes stay in disjoint loops even when creases may pass ±π, so there that widening does not reconnect them.
+
+No status change.

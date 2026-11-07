@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - TERM-tmpexd3x
 title: 'unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    A dated note added at the thirtieth status review, after NOTE-1620 was
+    read with its equations. The definition is unchanged.
 tags:
 - operations-research
 - agency
@@ -23,8 +29,7 @@ summary: >-
   filer's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the paper the book stands in for, nothing here rests on it -->
-<!-- inactive-ok-file: NOTE-1620 — Skimmed; the reading the quotations come from -->
-<!-- inactive-ok-file: THEORY-1394 TERM-107 — Proposed; the hypercube account and the terms of the same filing, cited as filed -->
+<!-- inactive-ok-file: TERM-107 — Proposed; a term of the same filing, cited as filed -->
 
 # TERM-112: unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth
 
@@ -83,3 +88,12 @@ the cut would show. That inference is the filer's, not the book's.
 
 A claim of the record's own stated in it, or a reading of Larson's 1974
 paper confirming the construction there. Adopting it is the owner's call.
+
+## Note of 2026-11-06: Larson and Odoni, read
+
+[NOTE-1620](../notes.d/NOTE-1620.md) now reads §5.4 with its equations, and the quotations above
+check. The model handles a unit of last resort only through its place in
+the preference lists: its workload and response frequencies come out of
+the same steady state as every other unit's, and nothing in §5.4 assigns
+it, or any unit, a value. The definition and the filer's inference stand
+as filed. No status changes.
