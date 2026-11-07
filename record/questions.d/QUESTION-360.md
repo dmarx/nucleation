@@ -92,3 +92,7 @@ but that the system using it cannot revise, such as a frozen component
 reused across tasks. The record's working answer is that this is an
 incorrigible concept, not something that has stopped being a concept. A
 reason to answer otherwise would need to be shown.
+
+## Note of 2026-11-07: measure the profile first, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §11 proposed measuring a concept-in-perspective profile, of application rule, inferential role, response structure and update organization, before deciding whether two uses are one concept: "We can measure the differences first." A41 §12 added a vignette design (boundaries, inferences and revision, with the label and without, then longitudinal). Under [CLAIM-130](../claims.d/CLAIM-130.md) the vignettes are do(I) interventions: they measure an interpreter's profile, not the classification's effects on those classified, which need field data. The question for rival uses of one expression is [QUESTION-439](QUESTION-439.md), which refines this one. The question stays Open.

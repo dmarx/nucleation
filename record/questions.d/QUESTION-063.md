@@ -159,3 +159,17 @@ emotion read off synchrony alone ([CLAIM-355](../claims.d/CLAIM-355.md)'s "integ
 pattern") would not tell the two apart.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-07: common drive in oscillator models, from "Individuation, Possibility, and Disposition"
+
+A9 §3, §5 and A12 §3 of the exchange (2026-11-06 to 07) bear on this question three ways.
+
+1. A12 cites Ko (Tae-Wook) 2026 (doi:10.1016/j.physa.2026.132013; not held, unread) for group-level synchrony induced by common noise without coupling between groups. If it holds, it is the shared unrecorded drive this question leaves untested.
+2. A9's "collective phase freedom": in a system whose interactions depend only on phase differences, a common phase shift is neutral, and "An external periodic drive usually breaks that symmetry by establishing a preferred phase relative to its own clock." That is a candidate observational readout for an unseen drive. A's caveat: it "is not, by itself, a sufficient test of autonomy", since an internal pacemaker also sets a phase reference. The reader adds that this makes the readout boundary-relative: a pacemaker inside the declared boundary breaks the symmetry only for the subsystem without it, so the test asks whether there is a phase reference outside the boundary ([CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-522](../claims.d/CLAIM-522.md)).
+3. A12 proposes as a standing baseline "a group of uncoupled oscillators with a common drive". That is [CASE-179](../cases.d/CASE-179.md)'s row "common drive, no reciprocal coupling".
+
+The question stays open.
+
+## Note of 2026-11-07: generalized synchronization as a negative control, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A20 §6 proposes generalized synchronization, a chaotic drive with a response converging to y ≈ H(x), as slaving without reciprocity: "I would use generalized synchronization as a formal adversarial test for any proposed operational definition of organizational autonomy." That is this question's one-sided drive with a strong functional relation ([CLAIM-172](../claims.d/CLAIM-172.md): one-way drive makes a combined form with a hierarchical architecture). A test of architecture that credits autonomy here is too permissive. The test is A's; the question stays open.

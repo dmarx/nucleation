@@ -25,6 +25,8 @@ summary: >-
   incentives realigned. Whether the firm so synchronized is a self is
   the open question, not something the case settles.
 ---
+<!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-160 CLAIM-162 — Proposed; the claims this case illustrates or is set beside, open -->
 <!-- inactive-ok-file: THEORY-126 THEORY-043 — Proposed; the readings the case draws on, with their standing as it is -->
 
@@ -87,3 +89,7 @@ at the individual scale:
 - **That one message reaches everyone the same way.** Each team receives
   the strategy against its own common ground. The pragmatic-transport
   line would predict one write and several decodings.
+
+## Note of 2026-11-07: the forcing metaphor has a literal counterpart, from "Individuation, Possibility, and Disposition"
+
+This case says the all-hands "works like periodic forcing rather than permanent coupling", as a metaphor. The exchange of 2026-11-06 to 07 gives the metaphor a literal counterpart. At U4 the owner proposed that support and dependence "can be reframed through the lens of external forcing" ([CLAIM-616](../claims.d/CLAIM-616.md)). A9 §2 separates mutual synchronization, where "Internal relationships maintain a common rhythm", from external entrainment, where "An outside signal determines the observed timing", and [CASE-225](CASE-225.md) separates dependence on a drive for timing from dependence for performance. Read that way, the case's prediction, that firms whose units drift faster hold such events more often, is the forced-oscillator expectation that a weaker locking, or a greater detuning, needs a stronger or more frequent drive. Whether the event entrains teams that keep their own rhythm, or supplies a coordination they would not produce, is the timing/performance split this case does not yet draw. It remains an illustration; no status change.

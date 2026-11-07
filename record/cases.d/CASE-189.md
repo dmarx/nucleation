@@ -200,3 +200,8 @@ own frustration.
 ## Note of 2026-11-04: Freidlin and Wentzell, "Random Perturbations of Dynamical Systems", read (front matter)
 
 The case's quasi-potential for a maintained organization's persistence applies the authors' own notion, which they say they "introduced more than forty years ago". Their Introduction ([NOTE-1562](../notes.d/NOTE-1562.md)) outlines exit times from a domain of attraction as set by the infimum of an action functional, which supports the construction as an application. Only the front matter was read and the book's theorems were not checked; Berglund's Theorem 2.2 ([NOTE-1590](../notes.d/NOTE-1590.md)) restates the exit-time one. No status changes.
+
+## Note of 2026-11-07: Construction 1 in one variable, coupled to HKB, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CASE-227 — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §2's maintenance law, ċ = ε(2.2c²/(1 + c²) − c), is Construction 1 on its symmetric diagonal, 3c²/(1 + c²) − (1 + d)c, with gain 2.2 for 3/(1 + d) (d ≈ 0.364). Its unstable level 0.642 plays the part of the saddle at 0.382, and positive equilibria exist iff the gain is at least twice the decay, the same fold as d = 0.5 here. [CASE-227](CASE-227.md) couples it to the Haken–Kelso–Bunz relative phase. No change.

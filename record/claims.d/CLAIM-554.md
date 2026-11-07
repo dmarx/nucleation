@@ -175,3 +175,8 @@ undifferentiated one.**"
   "an ecological coexistence threshold is not automatically an SLT phase
   boundary". [CLAIM-555](CLAIM-555.md) is the claim about learners.
 - **That persisting together is cooperating.** It is not ([CLAIM-546](CLAIM-546.md)).
+
+## Note of 2026-11-07: temporal joint realizability already held, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CASE-209 — Proposed; cited as holding the separate, simultaneous and sequential distinction -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A25 §5: "A temporal sheaf framework could represent that distinction more naturally than a purely static compatibility complex." The distinction is demands satisfiable at one instant with no jointly admissible continuation. This claim already takes each demand's acceptance set as "a set of viable histories, not of instantaneous states", and [CASE-209](../cases.d/CASE-209.md) separates separate, simultaneous and sequential feasibility, so the temporal point is held. A sheaf over intervals would add only the restriction structure between horizons. No status changes.

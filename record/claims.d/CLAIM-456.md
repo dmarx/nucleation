@@ -84,3 +84,7 @@ on the outside.
   and 40) are grid points under these laws, as the case says.
 - **Anything beyond the stipulated population.** The case is an executed
   study in a lab model.
+
+## Note of 2026-11-07: repairable losses as a change in what is absorbing, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A22 §6 gives two routes to robustness: lower the hazard, or "acquire a mechanism that makes formerly terminal failures recoverable". The second is this claim's "which losses are repairable", seen as a change in which states are absorbing. No status changes.

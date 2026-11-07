@@ -29,6 +29,7 @@ refined_by:
 bearing:
 - CLAIM-115
 ---
+<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; answers proposed on 2026-10-10, cited as open -->
 
@@ -79,3 +80,7 @@ defines formally, so the question stays Open. Two later
 questions refine it: which interventions tell constitutive relations from
 diagnostic ones ([QUESTION-030](QUESTION-030.md)), and when relational structure warrants
 treating a communicative category as a real kind ([QUESTION-028](QUESTION-028.md)).
+
+## Note of 2026-11-07: how a kind's relations are reproduced, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A39 §10 proposed "a useful third emphasis": "How are the relations that make a communicative kind recognizable causally reproduced and transformed across its successive realizations?" That is [CLAIM-002](../claims.d/CLAIM-002.md)'s descent that is not similarity and [CLAIM-329](../claims.d/CLAIM-329.md)'s transmission criterion, so it supports the second horn, identity constituted by a family of realizations. The question stays Open.

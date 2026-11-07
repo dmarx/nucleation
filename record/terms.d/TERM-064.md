@@ -50,6 +50,8 @@ used_by:
 - CLAIM-448
 - CLAIM-450
 ---
+<!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-841 THEORY-857 — Proposed; Hayek's argument and James et al.'s bidirectionality, cited as readings that bear on the term, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1321 LIT-1328 — Unavailable; Scott and Lan, named as works the term's sources lean on that no lawful copy reached -->
 
@@ -266,3 +268,7 @@ question, how much controllable state is legibly controllable, is answered
 by [TERM-085](TERM-085.md)'s note of 2026-10-31.
 
 The term is unchanged.
+
+## Note of 2026-11-07: the record's accounts surveyed, from the second share of "Individuation, Possibility, and Disposition"
+
+The owner's U26 asked what the framework holds on the legibility of distinctions. A58 surveyed this term rightly: the operationalization, the regime, the direction and the XOR case. Its stage box adds correctability ([TERM-085](TERM-085.md)) as a sixth stage, the step this term's note of 2026-10-29 records. It replaces the fourth stage, standing, with "Interpretive significance". A56's "allowed to matter" is the better reading. A58 omits [CLAIM-403](../claims.d/CLAIM-403.md)'s ladder and the owner's [CLAIM-553](../claims.d/CLAIM-553.md), whose legibility factor is this term applied to observed intervention. The synthesis it closes with is filed as version 2 of [CLAIM-620](../claims.d/CLAIM-620.md). The term is unchanged.

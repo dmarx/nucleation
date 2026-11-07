@@ -194,3 +194,7 @@ dispositional potential.
 
 A measure of how strongly a system pursues one goal, without the
 conflicts it wins against the others.
+
+## Note of 2026-11-07: manifest, would manifest, mechanism, from "Individuation, Possibility, and Disposition"
+
+A47 §6 separates three questions: "What does the system currently manifest?" "What would it manifest across relevant circumstances?" "What mechanisms give it those dispositions, and how are they maintained?" It adds: "The third cannot always be inferred from the first two." The first two restate this question's second half, whether potential measured on conflicts won agrees with potential read as a disposition. No answer is added; it stays open.

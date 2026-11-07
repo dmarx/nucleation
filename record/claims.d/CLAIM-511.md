@@ -41,6 +41,8 @@ summary: >-
   It would be argued from a declared standard, which is where [QUESTION-128](../questions.d/QUESTION-128.md)
   and [QUESTION-129](../questions.d/QUESTION-129.md) ask.
 ---
+<!-- inactive-ok-file: ARG-058 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 
 # CLAIM-511: A self-maintaining organization ought to preserve its corrigibility
 
@@ -88,3 +90,7 @@ A normative argument, from a declared standard, that an organization of a
 stated kind ought to keep a stated corrective capacity. That is
 [QUESTION-128](../questions.d/QUESTION-128.md)'s and [QUESTION-129](../questions.d/QUESTION-129.md)'s territory, and viability alone cannot
 supply it ([CLAIM-075](CLAIM-075.md)).
+
+## Note of 2026-11-07: kept to, and bounded, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §8 and A62 §12 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly and keep to it. A's second-order duty of answerability ([CLAIM-624](CLAIM-624.md)) is conditional, "not an unconditional command to maximize transparency or investigate every conceivable harm" (A60 §6), bounded by its condition 5, so it does not reintroduce this proposition. [ARG-058](../arguments.d/ARG-058.md) is the reductio from the unconditional form to this claim. Unchanged.

@@ -138,3 +138,7 @@ switching model and a continuous one on the same data, which is what
 presupposes. The continuous example is the owner's reading: nobody has
 fitted Twitch Plays Pokémon's input logs ([CASE-075](../cases.d/CASE-075.md)) with a drift process
 against a switching model.
+
+## Note of 2026-11-07: an exact continuous case, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §3's Adler equation, φ̇ = Δ − K sin φ with Δ > K, coordinates by continuous drift with a preferred phase and no stable or metastable state: the density is proportional to 1/(Δ − K sin φ) and the current is constant. The reader checked it. It is an exact instance of the continuous kind this claim says occurs. No status changes.

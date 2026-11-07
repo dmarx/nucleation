@@ -11,7 +11,13 @@ promote_when: >-
   formal model of between-species transitions, which the authors say is
   missing, in which these modes of group formation remove conflict.
 title: 'In West, Fisher, Gardner and Kiers''s account, a transition in individuality is defined by two separable conditions, mutual dependence (parts that once replicated alone can replicate only within the larger unit) and negligible within-group conflict, and proceeds by forming a cooperative group and then transforming it, with no clear border between the steps; across transitions what explains them is an ecological benefit to cooperation together with group formation that unites the members'' interests (clonal bottlenecks, lifetime monogamy, vertical transmission of clonal symbionts), while kin discrimination and the repression of competition played relatively minor roles'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-tmp6m3wy (ADR-tmpdne5p),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - philosophy-of-biology
 - individuation
@@ -20,7 +26,7 @@ date: '2026-11-04'
 source:
 - LIT-2003
 corroborates:
-- CLAIM-474
+- SYNTHESIS-tmp6m3wy
 summary: >-
   West et al. (2015), [LIT-2003](../literature.d/LIT-2003.md), read in [NOTE-1538](../notes.d/NOTE-1538.md). A colloquium
   review: the definition and the two steps are the authors' framework, and

@@ -63,6 +63,7 @@ summary: >-
 complements:
 - CLAIM-445
 ---
+<!-- inactive-ok-file: LIT-2251 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
@@ -186,3 +187,11 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A suggests that a productive nucleus in a developing organization "might need some analogous separation: relations stable enough to serve as a scaffold, combined with processes that can revise other relations as the organization develops". A adds the limit: "A DNA staple can dissociate without recognizing an error or adopting a policy of correction." Reversible binding, which Dunn et al. find helps recovery, corrects without governing.
 
 No status changes.
+
+## Note of 2026-11-07: a restatement in synergetic terms, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A restates this claim in the language of slaving. A16 §6: "a self-governing system might require the capacity to weaken, suspend, or reorganize its own slaving relations". A18 §12 separates *operative*, *productive* and *transformative* organization, the last being "relationships governing how the system can change its own operative and productive organization". A18 §7 sketches competing modes q₁, q₂ with an internal control g that changes which mode can dominate. This illustrates the claim's separability; it adds no case. No change.
+
+## Note of 2026-11-07: organized ignorance a second time, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §9 and A62 §6 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) give "second-order illegibility" and "maintained meta-ignorance": an organization that corrects within its representation but not the representation itself. That is this claim's note "Organized ignorance" (A24 of 2026-10-20) a second time, now with Medina's meta-blindness ([LIT-2251](../literature.d/LIT-2251.md), registered Deferred from this filing). [THEORY-145](../theory.d/THEORY-145.md) holds it too. Unchanged.

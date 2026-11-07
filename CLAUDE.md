@@ -98,4 +98,8 @@ changelog fragment goes in the same contribution.
 branch, and its own pull request** ([ADR-071](record/decisions.d/ADR-071.md)): the filing of one source,
 one decision with what it changes, one tooling bump, one sweep. This holds
 even when a session was started on one designated branch; that decision is
-the standing permission to open others.
+the standing permission to open others. **A decision goes with a
+demonstration of its effects**: the pull request that proposes an ADR
+carries its first application, which cites the ADR by its temporary code.
+The reviewer approves the rule by what it does, and git blame later leads
+from the ADR to what it changed.

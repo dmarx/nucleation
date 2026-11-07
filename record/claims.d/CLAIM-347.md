@@ -80,6 +80,7 @@ supports:
 - CLAIM-361
 - CLAIM-440
 ---
+<!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
@@ -382,3 +383,11 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A's third synthesis draws an analogy with this claim: "pairwise compatibility need not settle joint compatibility", and "the effects of several candidate interventions need not be determined by their separate effects". The assistant's [CLAIM-599](CLAIM-599.md) marks where the analogy stops. The jointly satisfiable sets are closed downward, so their minimal non-faces describe them. The sets of relations that are productive nuclei are closed in neither direction, since adding a relation can turn a nucleus into a trap.
 
 No status changes.
+
+## Note of 2026-11-07: silencing an oscillator, from "Individuation, Possibility, and Disposition"
+
+A9 §4 of the exchange (2026-11-06 to 07): "Silencing an oscillator is not the same as satisfying its synchronization demand." A cites [CLAIM-549](CLAIM-549.md), rightly. This claim's last clause, that dropping or suppressing a demand is not relief, is the same point, and A did not cite it. A9's "consensus produced by silencing dissent" is an illustration, not a result. [CLAIM-618](CLAIM-618.md), filed from the same exchange, rests on this claim's complex, indexed by a system's control parameters. Supports; no status change.
+
+## Note of 2026-11-07: a product line's admissible feature combinations, from "Individuation, Possibility, and Disposition"
+
+A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), defines the admissible feature combinations of a product version, K_v, and says: "When the feature constraints are purely permissive and downward-closed, this is a simplicial complex. With mandatory features and other nonmonotonic configuration requirements, the admissible configurations are better represented directly by a constraint system rather than assuming simplicial structure." That is this claim's complex of jointly satisfiable demands, for a product line. The reader checked it on {offline, e2e, collab} with offline and collab in conflict: the faces are the empty set, the three vertices, {e2e, offline} and {collab, e2e}, so the minimal non-face is the conflict. A's caution about mandatory features is right. A does not cite this claim. No status changes.

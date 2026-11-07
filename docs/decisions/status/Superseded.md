@@ -4,7 +4,7 @@
 
 **Superseded** — no longer in force because something replaced it; the successor is named in the field, not the prose.
 
-2 of 74 decisions. Back to the [full index](../README.md).
+2 of 76 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

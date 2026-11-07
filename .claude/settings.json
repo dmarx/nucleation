@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl * https://chatgpt.com/share/*)"
+    ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "Fetching a public ChatGPT share link (https://chatgpt.com/share/...) with curl, including with a browser-like User-Agent header, to file a shared exchange on the record. The owner authorized this on 2026-11-07."
+    ]
+  }
+}

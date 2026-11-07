@@ -113,3 +113,7 @@ interaction producing a new correspondence, and [CLAIM-516](../claims.d/CLAIM-51
 condition.
 
 The question stays open.
+
+## Note of 2026-11-07: a formal entry point for change of the operator, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A20 §5 separates "Change within an organization" from change of the organization. If the collective coordinate is q = L(c)x, then q̇ = L(c)ẋ + DL(c)[ċ]x, and the second term is change of the organization. With adaptive offsets on a graph, ṙ = −κDDᵀr − Da(c)[ċ]; a drift of the offsets in the cycle space is untouched by relaxation (the reader checked it on a triangle), which separates a tracking limit from a compatibility obstruction ([CLAIM-556](../claims.d/CLAIM-556.md)). It does not say how interactions change the operator, which is what this question asks. The question stays open.

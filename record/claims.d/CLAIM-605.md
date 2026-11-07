@@ -77,6 +77,7 @@ summary: >-
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 
 # CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
 
@@ -158,3 +159,7 @@ and let capacity-first support withdraw itself.
 - **That substitutive support should never be tapered.** A taper shorter
   than the limit recovered. The point is that the limit exists, and that
   lengthening a taper "to be safe" can cross it.
+
+## Note of 2026-11-07: A12's capability trap, from "Individuation, Possibility, and Disposition"
+
+A12 §7 of the exchange (2026-11-06 to 07) writes this claim's model without the cap on practice, ċ = λ(1 − s)τc²(1 − c) − μc, and says it is "the kind of effect Nucleation already models" here. The reader reran it with λ = 1, τ = 1.5, μ = 0.3: threshold 0.2764 (unstable) and kept state 0.7236 (stable), against this claim's 0.276 and 0.7. The kept state differs because this claim caps practice at demand. The deadline is 3.21 from 0.7236 and 3.10 from 0.7, matching this claim. A12 proposes to measure "**how much of the system's own generative work is displaced by external forcing**, rather than treating forcing amplitude as equivalent to substitution", which is [CLAIM-602](CLAIM-602.md)'s point that the order of use, not the amount of supply, decides dependence. [CASE-225](../cases.d/CASE-225.md), filed from the same exchange, separates suppression from this claim's disuse decay. Supports; no status change.

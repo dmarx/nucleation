@@ -24,6 +24,7 @@ summary: >-
   it. An answer is a principled constraint on which standpoints have
   authority that does not presuppose a normative standard.
 ---
+<!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 
 <!-- inactive-ok-file: QUESTION-007 CLAIM-104 CLAIM-096 — Deferred; set aside with the authenticity line, cited to say what this question meets there -->
 
@@ -101,3 +102,7 @@ we hoped to explain."
   the rest. A18: "some contextual judgments may be equally legitimate,
   others merely compatible, and others genuinely in conflict—with reasons
   to reject one of them."
+
+## Note of 2026-11-07: narrowed by a gloss, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §12 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cites this question as the open problem, but glosses it as which standards deserve authority "when the organization's own criteria of success conflict with justified claims made by those affected". That presupposes what the question asks: whether such judgments can be objective about the standards themselves. A's [CLAIM-624](../claims.d/CLAIM-624.md) rests on an independently justified standard the record does not have ([TERM-059](../terms.d/TERM-059.md)). The owner's [QUESTION-441](QUESTION-441.md) refines this question for a wrong that consists in keeping a standard from taking hold. Still open.

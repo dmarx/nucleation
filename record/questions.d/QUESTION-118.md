@@ -50,6 +50,10 @@ summary: >-
 refined_by:
 - QUESTION-290
 ---
+<!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
 
 <!-- inactive-ok-file: THEORY-221 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1141 — Unavailable since 2026-10-29; a candidate material cited as not reached, nothing here rests on it -->
@@ -232,3 +236,11 @@ says so. Three points the earlier connection did not record:
   within a group generation. Neither is analysed for persistence.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-07: the question re-asked for software, from "Individuation, Possibility, and Disposition"
+
+A36 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) ends on this question without its code: "When a project changes hands, what exactly must be transmitted for the successor to count as a continuation of the same organization—and what happens when the code, the community, and the authority to define the project no longer travel together?" A's partial answer is that what must be transmitted includes the productive relations: who can review, release and replace maintainers. Bearing on it, filed from the same exchange: [CASE-223](../cases.d/CASE-223.md), a proposed study of contested against accepted succession, whose key measure is the lag between lost legitimacy and lost productive capability; and [CLAIM-617](../claims.d/CLAIM-617.md), that participants' verdicts help make the succession. Under [CLAIM-329](../claims.d/CLAIM-329.md), the Freenode case (A's report) would pick Libera. Open.
+
+## Note of 2026-11-07: forks and stewardship transfers as tests of the criterion, from the second share of "Individuation, Possibility, and Disposition"
+
+A54 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25: "QUESTION-118 already contains branching succession, so the open-source cases should test its missing identity criterion rather than create a duplicate branching thesis." The conclusion is right. Since version 4 the plural-successor part is [QUESTION-290](QUESTION-290.md), Answered by [CLAIM-328](../claims.d/CLAIM-328.md), and this question keeps the criterion. A55 §2 says the Senators example "distinguishes franchise, city, name, and supporters"; the body has franchise, city and supporters, and "name" is A's. The open-source cases, Freenode and Libera, Redis and Valkey, RethinkDB and GIMP's Windows installers, are gathered as a proposed study in [CASE-223](../cases.d/CASE-223.md), all A's reports and unverified. Open.

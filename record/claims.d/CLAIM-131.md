@@ -98,3 +98,8 @@ in which some locally admissible section belongs to no compatible family
 (possibilistic contextuality, Hardy's kind) passes A129's first question and
 fails its second. So A129's two questions do not separate the possibilistic
 grade from the probabilistic one.
+
+## Note of 2026-11-07: the split carried to time, and a case outside it, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CLAIM-625 CLAIM-623 CASE-224 — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A25 §3 cites this claim rightly: the event sheaf glues, and the obstruction lies in supports and distributions. [CLAIM-625](CLAIM-625.md) carries its split between gluing and extension from contexts to time intervals, where extension is a viable future. [CLAIM-623](CLAIM-623.md), with [CASE-224](../cases.d/CASE-224.md), is a case this framing does not cover: there the union of two overlapping intervals is itself observed, so the presheaf of realizable observations fails the gluing axiom itself, not extension past the observed contexts. No status changes.

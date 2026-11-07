@@ -109,3 +109,7 @@ second.
 - **Not A21's "multiscale relational normative realism"** as a separate
   term. A21 and A22 use that name for the same position with scale
   stressed. It is this term.
+
+## Note of 2026-11-07: misnamed, and its open half passed over, from "Individuation, Possibility, and Disposition"
+
+A45 §V calls it "Nucleation's proposed form of contextual normative realism". It is relational normative realism, and Active. A45 states only its first half, that a judgment indexed to organization, perspective and standard can still be "objectively mistaken", and does not notice that its anti-vax example turns on the second, unestablished half: whether the choice of classification rule can itself be wrong ([QUESTION-129](../questions.d/QUESTION-129.md)). Unchanged.

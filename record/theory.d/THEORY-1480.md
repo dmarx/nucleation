@@ -35,7 +35,7 @@ date: '2026-11-05'
 source:
 - LIT-2174
 bears_on:
-- QUESTION-tmp2s2ai
+- QUESTION-432
 summary: >-
   Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-2174](../literature.d/LIT-2174.md), read in
   NOTE-1647. Active as a report of the authors' account. The mechanism is
@@ -107,4 +107,4 @@ Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-2174](../literature.d/LIT-21
 which the earlier note named as missing. Of Ch. 7, the parts on
 sustainability and ownership are read; the rest is Sida's internal
 organization, which the title does not report. Nothing read qualifies the
-title. Whether the account holds across projects is [QUESTION-tmp2s2ai](../questions.d/QUESTION-tmp2s2ai.md).
+title. Whether the account holds across projects is [QUESTION-432](../questions.d/QUESTION-432.md).

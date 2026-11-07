@@ -39,7 +39,7 @@ date: '2026-11-04'
 source:
 - LIT-2079
 bears_on:
-- QUESTION-tmpec8ky
+- QUESTION-433
 summary: >-
   Tatel (2023), [LIT-2079](../literature.d/LIT-2079.md), the PhD dissertation behind Tatel & Ackerman
   (2025), [LIT-2088](../literature.d/LIT-2088.md); read in NOTE-1560. A random-effects
@@ -113,4 +113,4 @@ Tatel & Ackerman (2025), [LIT-2088](../literature.d/LIT-2088.md), unread.
 The slopes survive a change of effect-size formula (§5.5), and the author
 judges publication bias not substantial (§5.6). The practice clause is
 narrowed to accuracy, as the earlier note asked. Whether an independent
-synthesis agrees is [QUESTION-tmpec8ky](../questions.d/QUESTION-tmpec8ky.md).
+synthesis agrees is [QUESTION-433](../questions.d/QUESTION-433.md).

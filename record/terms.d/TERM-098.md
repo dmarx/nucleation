@@ -41,6 +41,8 @@ summary: >-
   corrigibility, a further achievement it does not require. A candidate,
   not adopted: [QUESTION-360](../questions.d/QUESTION-360.md) asks what would settle it.
 ---
+<!-- inactive-ok-file: CASE-230 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 
 # TERM-098: concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies
 
@@ -94,3 +96,16 @@ conceptual."
 Whether reuse and counterfactual reach arrive together, and whether
 corrigibility comes with them or separately, in a learning system ([QUESTION-360](../questions.d/QUESTION-360.md)).
 If reuse and reach come apart, the term may need to split.
+
+## Note of 2026-11-07: the owner asks whether concepts individuate, from "Individuation, Possibility, and Disposition"
+
+At U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e) the owner asked that the individuation framework be applied to "symbols and concepts themselves", with "anti-vax" as the example ([CASE-222](../cases.d/CASE-222.md)). That is the first owner turn found that tests this term's clause "Not a thing or entity. A thing is an individuated organization." A did not cite the clause. A41 §6 used "individuated concept" for what this term calls conceptual organization, answering with this term's marks (reuse, systematic inference, correction as a further achievement). A41 §10 found the concept's organizational autonomy "Not established", which is [TERM-088](TERM-088.md)'s fourth sense, and A41 §11 proposed a profile of application, inferential role, response and update to be measured before deciding concept identity. A41 §6's "Individuation of a concept and adequacy of a concept are separate properties" supports the corrigibility clause. The "thing" clause is left open, as [QUESTION-439](../questions.d/QUESTION-439.md). The term is unchanged.
+
+## Note of 2026-11-07: concepts as capacities, and the correction, from "Individuation, Possibility, and Disposition"
+
+<!-- inactive-ok-block: CASE-226 — Proposed; filed from the same exchange -->
+A45 §IV says "we should regard concepts partly as **capacities**", which runs the concept together with the organization that realizes it, a distinction this term keeps. A47 §8 corrects it: "an abstract concept need not itself be a causal bearer of dispositions. The dispositions are realized in its interpreters and the organizations sustaining its use." A50 §7 adds a proposed study of this term's split between a concept and its corrigibility, two communities that agree on a category and differ in revising it ([CASE-226](../cases.d/CASE-226.md)). Supports the term's distinction; no status change.
+
+## Note of 2026-11-07: corrigibility kept apart, from the second share of "Individuation, Possibility, and Disposition"
+
+A54 and A55 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, read this term's corrigibility clause rightly. A54: this term "deliberately does not make corrigibility part of being a concept". A55 §3 rewrites A41 §11's four-part profile as (A, I, R), with U, the "revision organization", kept apart, and: "A concept can be rigid, corrigible, or transformable without ceasing to qualify as a concept." It proposes this as "a proposed operational clarification to TERM-098, leaving the definition and Proposed status intact". A55 calls it stronger than "our earlier suggestion that a difference in update procedure necessarily means a different concept"; no earlier turn says "necessarily", and A41 §11 declined to choose. The consequence, that a difference in conditions of revision alone is no evidence of several concepts, is now in [QUESTION-439](../questions.d/QUESTION-439.md), and the contested-label study is [CASE-230](../cases.d/CASE-230.md), both filed from the same exchange. Unchanged.

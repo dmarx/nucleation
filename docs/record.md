@@ -26,6 +26,7 @@ A code — `ADR-012` — resolves to a document, and every reference to it in th
 | `CASE-001` | `record/cases.d/` | `docs/cases/README.md` + tag pages | `Active` |
 | `TERM-001` | `record/terms.d/` | `docs/terms/README.md` + tag pages | `Active` |
 | `ARG-001` | `record/arguments.d/` | `docs/arguments/README.md` + tag pages | `Active` |
+| `SYNTHESIS-001` | `record/syntheses.d/` | `docs/syntheses/README.md` + tag pages | `Current` |
 
 ## What each family is
 
@@ -70,6 +71,10 @@ A concept the record defines and uses, versioned by supersession. A term says wh
 **`ARG`** — Arguments
 
 What the record says about support between its entries: that these premises do, or do not, establish this conclusion (ADR-061). Its status is the verdict on the inference, not on the conclusion. "X does not show Y" is the ARG from X to Y, Rejected, with the form's critical questions answered in its body.
+
+**`SYNTHESIS`** — Syntheses
+
+An integration of the record's own entries into one account: what its components add up to, admitted by a route a reviewer can check, and versioned as the account develops. Its components keep their own status and voice; the current-account view derives them (the decision proposing this scheme).
 
 ## What an entry must carry
 
@@ -160,7 +165,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 - `objects_to` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CLAIM.references.objects_to) — *the claim this one denies — a rebuttal, or an undermining if that claim is a premise. Walked as the `dialectic` chain, so an objection, its reply and the reply to that read as one thread (ADR-032)*
 - `objected_by` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CLAIM.references.objected_by) — *the converse of `objects_to`, written by `luria link --fix`.*
 - `undercuts` — optional, one or more `ARG` codes when present (luria.yaml: schemes.CLAIM.references.undercuts) — *the argument whose inference this claim denies, leaving its premises and its conclusion standing. Kept for a claim about the subject matter that defeats an inference; a claim whose content is only "that does not follow" is the ARG's status and body instead (ADR-061)*
-- `superseded_by` — optional, one or more `CLAIM` or `ARG` codes when present (luria.yaml: schemes.CLAIM.references.superseded_by) — *the claim that replaced this one, or the ARG a claim about support moved to (ADR-061). Declared here rather than left to the built-in, so it has a converse and the `revisions` chain can walk how a thesis changed (ADR-032)*
+- `superseded_by` — optional, one or more `CLAIM` or `ARG` or `SYNTHESIS` codes when present (luria.yaml: schemes.CLAIM.references.superseded_by) — *the claim that replaced this one, or the ARG a claim about support moved to (ADR-061). Declared here rather than left to the built-in, so it has a converse and the `revisions` chain can walk how a thesis changed (ADR-032)*
 - `supersedes` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CLAIM.references.supersedes) — *the claim this one replaced, written by `luria link --fix` from its `superseded_by`*
 - `complements` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CLAIM.references.complements) — *answers a different part of the same question, so the two belong together rather than competing. The relation the record had no word for when three accounts were wrongly set up as rivals (ADR-032). Between the record's own claims for now; THEORY joins it once luria reads a symmetric relation across schemes correctly (dmarx/luria#358)*
 - `corroborates` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CLAIM.references.corroborates) — *a claim of the record's own that this one gives independent evidence for, without that claim depending on it. If this one is retired, the other loses support, not its footing. Not walked by the `argument` chain or by retraction; a dependency is `rests_on` (ADR-044)*
@@ -179,7 +184,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 **`CASE`**
 
 - `supports` — optional, one or more `CLAIM` or `ARG` codes when present (luria.yaml: schemes.CASE.references.supports) — *the claims and arguments grounded in this case, written by `luria link --fix` from their `grounds`.*
-- `illustrates` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CASE.references.illustrates) — *a claim this case makes vivid without bearing its weight. Losing the case costs the claim an example, not a premise; that is what separates this from `grounds`*
+- `illustrates` — optional, one or more `CLAIM` or `SYNTHESIS` codes when present (luria.yaml: schemes.CASE.references.illustrates) — *a claim this case makes vivid without bearing its weight. Losing the case costs the claim an example, not a premise; that is what separates this from `grounds`. A synthesis too (ADR-076)*
 - `counterexample_to` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CASE.references.counterexample_to) — *a claim this case shows false as stated*
 - `variant_of` — optional, one or more `CASE` codes when present (luria.yaml: schemes.CASE.references.variant_of) — *the case this one alters in a stated respect, as Northstar-B alters Northstar-A*
 - `variants` — optional, one or more `CASE` codes when present (luria.yaml: schemes.CASE.references.variants) — *the converse of `variant_of`, written by `luria link --fix`.*
@@ -210,7 +215,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 - `rests_on` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.ARG.references.rests_on) — *the record's own claims the inference starts from. The premises of one argument work together; a claim with two arguments has two independent lines of support*
 - `grounds` — optional, one or more `THEORY` or `CASE` or `LIT` codes when present (luria.yaml: schemes.ARG.references.grounds) — *the readings, cases and works the inference starts from, as on a CLAIM*
-- `concludes` — required, one or more `CLAIM` codes (luria.yaml: schemes.ARG.references.concludes) — *the claim or claims the inference arrives at. One inference may conclude several theses when the same premises bear on each in the same way, so that one verdict is filed once (ADR-061)*
+- `concludes` — required, one or more `CLAIM` or `SYNTHESIS` codes (luria.yaml: schemes.ARG.references.concludes) — *the claim or claims the inference arrives at. One inference may conclude several theses when the same premises bear on each in the same way, so that one verdict is filed once (ADR-061), or the synthesis whose integration it argues (ADR-076)*
 - `undercut_by` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.ARG.references.undercut_by) — *claims denying this inference, written by `luria link --fix` from their `undercuts`.*
 - `uses` — optional, one or more `TERM` codes when present (luria.yaml: schemes.ARG.references.uses) — *the TERM this inference is stated in, so that a term's revision finds the arguments built on it (ADR-061)*
 - `supersedes` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.ARG.references.supersedes) — *the claim about support this argument replaced, written by `luria link --fix` from its `superseded_by` (ADR-061)*
@@ -221,6 +226,24 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 - `line` — required, one or more of `distributed-agency`, `will-organization`, `organizational-affect`, `authenticity`, `pragmatic-transport`, `nucleating-argument`, `evidence-for-experience`, `learned-structure`, `formal-apparatus`, `readiness`, `realizability` (luria.yaml: schemes.ARG.fields.line; vocabulary 'lines': values) — *A named line of the record's own argument, so that a line can be set aside as a whole and what depends on it can be found. Retracting a line is a status change on its members, never a deletion (ADR-032).*
 - `works` — optional, one or more of `organization-of-will`, `what-survives-translation`, `luria-nucleating-an-argument`, `self-as-recursive-ecology`, `organization-of-perspective`, `self-without-a-sovereign`, `who-gets-to-say-stop`, `character-that-changed-parties`, `who-makes-the-promise` (luria.yaml: schemes.ARG.fields.works; vocabulary 'works': values) — *A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
 - `premises` — at least one of `rests_on`, `grounds` (luria.yaml: schemes.ARG.field_groups.premises)
+
+**`SYNTHESIS`**
+
+- `integrates` — required, one or more `CLAIM` or `TERM` or `CASE` or `THEORY` or `QUESTION` or `ARG` or `SYNTHESIS` codes (luria.yaml: schemes.SYNTHESIS.references.integrates) — *every entry the synthesis puts together, premises and illustrations alike; the current-account view shows each with its own status*
+- `premises` — optional, one or more `CLAIM` or `SYNTHESIS` codes when present (luria.yaml: schemes.SYNTHESIS.references.premises) — *the components the integration could not stand without, a subset of `integrates`*
+- `illustrated_by` — optional, one or more `CASE` codes when present (luria.yaml: schemes.SYNTHESIS.references.illustrated_by) — *the converse of a case's `illustrates`, written by `luria link --fix`*
+- `argued_by` — optional, one or more `ARG` codes when present (luria.yaml: schemes.SYNTHESIS.references.argued_by) — *the arguments concluding this synthesis, written by `luria link --fix` from their `concludes`*
+- `bears_on` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.SYNTHESIS.references.bears_on) — *a question the synthesis bears on*
+- `supersedes` — optional, one or more `CLAIM` or `SYNTHESIS` codes when present (luria.yaml: schemes.SYNTHESIS.references.supersedes) — *the claim or synthesis this one replaced, written by `luria link --fix` from its `superseded_by`*
+- `superseded_by` — required when `status` is `Superseded`, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.SYNTHESIS.references.superseded_by) — *the synthesis that replaced this one*
+- `status` — optional, one of `Current`, `Proposed`, `Rejected`, `Superseded` (luria.yaml: schemes.SYNTHESIS.fields.status; vocabulary 'synthesis-statuses': values) — *Where a synthesis stands as the record's account of how its components fit together, which is a different question from whether each component is believed. A component's own standing is its own status, derived, never copied here (ADR-075, and the decision proposing this scheme).*
+- `role` — required, one of `thesis`, `counter`, `granted`, `disclaimed`, `supposed` (luria.yaml: schemes.SYNTHESIS.fields.role; vocabulary 'claim-roles': values) — *Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes it, which is the status: the two vary independently, and the mismatched pairs are the information (ADR-032).*
+- `admission` — required, one of `admitted`, `unadmitted` (luria.yaml: schemes.SYNTHESIS.fields.admission; vocabulary 'synthesis-admission': values) — *Whether a synthesis earned an entry of its own (ADR-075, step 5), judged apart from whether its integrating claim is believed, which is its status.*
+- `route` — required when `admission` is `admitted`, one of `hypothesis`, `derived`, `integration`; forbidden when `admission` is `unadmitted` (luria.yaml: schemes.SYNTHESIS.fields.route; vocabulary 'synthesis-routes': values) — *How a synthesis earned its entry (ADR-075, step 5). Each route has its own test and its own kind of defeat.*
+- `warrant` — required, one of `demonstrated`, `empirical`, `interpretive` (luria.yaml: schemes.SYNTHESIS.fields.warrant; vocabulary 'claim-warrants': values) — *How a CLAIM as stated is supported, apart from whether the record accepts it (status) and in whose voice (role). Attached to the claim, never inherited along `rests_on` or `corroborates` (ADR-043).*
+- `tags` — required, one or more of `quantum-foundations`, `contextuality`, `mathematics`, `game-theory`, `network-science`, `complex-systems`, `probabilistic-modeling`, `neuroscience`, `natural-sciences`, `ecology`, `endosymbiosis`, `thermodynamics`, `operations-research`, `society-and-governance`, `information-theory`, `representation-learning`, `learning-theory`, `compositionality`, `mathematical-statistics`, `information-retrieval`, `databases`, `design-rationale`, `social-science`, `causality`, `pragmatics`, `myth-and-folklore`, `translation`, `linguistics`, `metaphysics`, `mereology`, `agency`, `individuation`, `self`, `personhood`, `behavioral-integration`, `phenomenal-unity`, `narrative-unity`, `self-governance`, `phenomenology`, `social-ontology`, `social-identity`, `altruism`, `future-generations`, `moral-psychology`, `psychopathology-and-treatment`, `motivation`, `well-being`, `learning-and-conditioning`, `psychometrics`, `philosophy-of-biology`, `embodied-cognition`, `free-will`, `model-comparison`, `information-geometry`, `loss-landscapes`, `control-theory`, `ethics`, `consciousness`, `cognition`, `emotion-and-affect`, `philosophy-of-science`, `epistemology`, `logic`, `philosophy-of-mathematics`, `philosophy-of-language`, `religion`, `anthology-candidate` (luria.yaml: schemes.SYNTHESIS.fields.tags; vocabulary 'topics': values) — *What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+- `line` — required, one or more of `distributed-agency`, `will-organization`, `organizational-affect`, `authenticity`, `pragmatic-transport`, `nucleating-argument`, `evidence-for-experience`, `learned-structure`, `formal-apparatus`, `readiness`, `realizability` (luria.yaml: schemes.SYNTHESIS.fields.line; vocabulary 'lines': values) — *A named line of the record's own argument, so that a line can be set aside as a whole and what depends on it can be found. Retracting a line is a status change on its members, never a deletion (ADR-032).*
+- `defeated_if` — required (luria.yaml: schemes.SYNTHESIS.fields.defeated_if) — *what would defeat the integration by its route - the case, the error in the derivation, or the outcome - beyond the failure of any component*
 
 ## Journals
 
@@ -271,6 +294,7 @@ Every kind this project scaffolds, straight from the dispatch table `luria new` 
 | `luria new --kind migration --title "…"` | a migration spec |
 | `luria new --kind note --title "…"` | a document in the `NOTE` scheme, numbered for you |
 | `luria new --kind question --title "…"` | a document in the `QUESTION` scheme, numbered for you |
+| `luria new --kind synthesis --title "…"` | a document in the `SYNTHESIS` scheme, numbered for you |
 | `luria new --kind term --title "…"` | a document in the `TERM` scheme, numbered for you |
 | `luria new --kind theory --title "…"` | a document in the `THEORY` scheme, numbered for you |
 | `luria new --kind workbench --title "…"` | a dated entry in the `workbench` journal |
@@ -289,6 +313,12 @@ Everything not listed here is at Luria's default.
 | `chains.dialectic` | *6 keys set* | *unset* |
 | `chains.revisions` | *6 keys set* | *unset* |
 | `chains.term-revisions` | *6 keys set* | *unset* |
+| `patterns.premise_outside_integrates` | *3 keys set* | *unset* |
+| `patterns.synthesis_premise_outside_integrates` | *3 keys set* | *unset* |
+| `patterns.current_on_premise_not_in_force` | *3 keys set* | *unset* |
+| `patterns.current_on_synthesis_not_current` | *3 keys set* | *unset* |
+| `patterns.current_but_unadmitted` | *3 keys set* | *unset* |
+| `patterns.derived_not_demonstrated` | *3 keys set* | *unset* |
 | `patterns.inverted_premise` | *3 keys set* | *unset* |
 | `patterns.inverted_ground` | *3 keys set* | *unset* |
 | `patterns.answered_but_open` | *3 keys set* | *unset* |
@@ -300,16 +330,20 @@ Everything not listed here is at Luria's default.
 | `patterns.undercuts_support_of` | *2 keys set* | *unset* |
 | `patterns.argued_for` | *5 keys set* | *unset* |
 | `patterns.argued_for_undercut` | *2 keys set* | *unset* |
+| `views.current-account` | *2 keys set* | *unset* |
 | `stale_days` | `14` | `90` |
 | `reliance` | `rests_on`, `grounds`, `uses`, `presupposes` | *empty* |
 | `load_bearing` | `5` | `None` |
-| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch`, `inverted_premise`, `inverted_ground`, `answered_but_open`, `answered_but_open_reading`, `read_but_unreached`, `read_but_unfetched`, `read_but_unreviewed` | *empty* |
+| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch`, `inverted_premise`, `inverted_ground`, `premise_outside_integrates`, `synthesis_premise_outside_integrates`, `current_on_premise_not_in_force`, `derived_not_demonstrated`, `current_on_synthesis_not_current`, `current_but_unadmitted`, `answered_but_open`, `answered_but_open_reading`, `read_but_unreached`, `read_but_unfetched`, `read_but_unreviewed` | *empty* |
 | `lint.mute` | `inert-status`, `acknowledged-uniformity` | *empty* |
 | `lint.baseline` | *1 key set* | *empty* |
 | `vocabularies.topics` | *4 keys set* | *unset* |
 | `vocabularies.lit-statuses` | *4 keys set* | *unset* |
 | `vocabularies.note-statuses` | *4 keys set* | *unset* |
 | `vocabularies.theory-statuses` | *4 keys set* | *unset* |
+| `vocabularies.synthesis-statuses` | *4 keys set* | *unset* |
+| `vocabularies.synthesis-admission` | *4 keys set* | *unset* |
+| `vocabularies.synthesis-routes` | *4 keys set* | *unset* |
 | `vocabularies.statuses` | *5 keys set* | *unset* |
 | `vocabularies.adr-tags` | *3 keys set* | *unset* |
 | `vocabularies.claim-roles` | *4 keys set* | *unset* |

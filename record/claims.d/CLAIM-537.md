@@ -107,3 +107,7 @@ budget in the same way. If this index is filed, it is a sibling of this
 claim's index by legibility, not a consequence of it. The wording is A's,
 sharpened by the reader; adopting it is the owner's call. No status
 changes.
+
+## Note of 2026-11-07: drifting offsets, in time, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A25 §7 proposes that an organization under drifting preferred relations may be "a **viable history of adjustments**, with persistent frustration but a maintained capacity to manage it". A uses "frustration" for the residual mismatch, not [TERM-060](../terms.d/TERM-060.md)'s joint unrealizability; with the tolerances as the demands, deviations within tolerance are no frustration. Read so, A's case is this claim's condition I without condition II, put in time: a compatible configuration at each time by re-adjustment, though no fixed configuration serves all times. What it adds is a question this claim lacks: whether the adjustment rate can keep up with the drift. Unchecked. No status changes.

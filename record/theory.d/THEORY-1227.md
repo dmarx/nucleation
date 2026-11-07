@@ -86,3 +86,8 @@ transition" (p. 283).
   whose relative phase has its own attractors, fluctuations and switch.
 - [THEORY-069](THEORY-069.md) is the general account, Proposed, with the promote_when this
   entry does not meet.
+
+## Note of 2026-11-07: the anti-phase threshold, rechecked, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CASE-227 — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §1 and A29 §2 use the relative-phase equation φ̇ = −a sin φ − 2b sin 2φ with anti-phase stable iff 4b > a. The reader rechecked it: the anti-phase eigenvalue is a − 4b. [CASE-227](../cases.d/CASE-227.md) sets a = 1, b = c/2 and makes c a maintained variable, so anti-phase is stable iff c > ½ and its escape barrier is (2c − 1)²/(4c). No change.

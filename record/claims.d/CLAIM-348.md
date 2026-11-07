@@ -75,6 +75,9 @@ supports:
 illustrated_by:
 - CASE-169
 ---
+<!-- inactive-ok-file: CASE-228 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1328 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
 # CLAIM-348: No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified solely by the description that preserves it
@@ -198,3 +201,7 @@ prioritize conflicting objectives." So an outcome that disregards a
 member's claim is not by itself evidence for this claim; the evidence is
 a decision record showing the distinction absent, not seen and set
 aside.
+
+## Note of 2026-11-07: a normative predicate on the merged fibre, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §2 and A62 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly for a "normatively inadequate projection", and A60 §1's records that "need not be fraudulent" are this claim's point. A62 §4 extends [CASE-110](../cases.d/CASE-110.md) into [CASE-228](../cases.d/CASE-228.md). The owner's [CLAIM-614](CLAIM-614.md) and A's [CLAIM-624](CLAIM-624.md) rest on this claim. Unchanged.

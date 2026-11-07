@@ -93,3 +93,7 @@ and an agent again ends up lying.
 - **Anything about the knowledge-sheaf case directly.** The zero section
   is common to both ([THEORY-299](THEORY-299.md)), but there the maps are trained against
   negatives, and here there are none.
+
+## Note of 2026-11-07: cited rightly; an extension not registered, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §4 and A29 §6 cite this reading rightly, including learning to lie. A29 §6 reports an extension by Bosca and Ghrist, "Selective Adaptation of Beliefs and Communication on Cellular Sheaves" (2026, arXiv:2601.22431), to "selective rigidity in agents' opinions and selective adaptation of communication maps", with rate bounds. Not registered or read. No change.

@@ -70,6 +70,7 @@ summary: >-
 bears_on:
 - QUESTION-278
 ---
+<!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1607 LIT-1614 LIT-1615 — Unavailable since 2026-10-29; works that may already hold the claim, cited as not reached, nothing here rests on them -->
 
 # CLAIM-462: An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second
@@ -165,3 +166,7 @@ His account fits [CASE-176](../cases.d/CASE-176.md), one of the claim's grounds,
 police and the security contractor acted on the executive's papers, and a
 court's word could become a deed only if they would act on its. The claim
 is unchanged and stays Proposed.
+
+## Note of 2026-11-07: restated uncited, from the second share of "Individuation, Possibility, and Disposition"
+
+A62 §9 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) restates this claim without citing it: "The institution might continually improve its productive capability while degrading the structures that support answerability." Its chart is, in A's caption, "Conceptual illustration only, not empirical measurements". [CLAIM-624](CLAIM-624.md) uses "answerability" in this claim's sense. Unchanged.

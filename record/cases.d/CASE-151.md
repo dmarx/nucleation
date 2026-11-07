@@ -32,6 +32,9 @@ reported_in:
 supports:
 - CLAIM-432
 ---
+<!-- inactive-ok-file: ARG-071 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-432 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; the accounts and the claim this case bears on, cited as open -->
 
 # CASE-151: Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them
@@ -205,3 +208,7 @@ came to the board from the regulators.
   "ongoing" (p. 87, n. 26).
 - **Anything about corporations in general.** It is one firm, one business
   line, one decade.
+
+## Note of 2026-11-07: cited through its note, not as a case, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §7 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cites [NOTE-1095](../notes.d/NOTE-1095.md), correctly, as "useful evidence of possible institutional mechanisms", and says the reproduction is not shown. It did not cite this case or [CLAIM-432](../claims.d/CLAIM-432.md). [ARG-071](../arguments.d/ARG-071.md), from this case to the reproductive layer of A's [CLAIM-624](../claims.d/CLAIM-624.md), is Rejected for that reason: the report shows occlusion and blocked uptake, not a regime reproducing its representation through its success. Unchanged.

@@ -81,6 +81,10 @@ used_by:
 - CLAIM-430
 - CLAIM-454
 ---
+<!-- inactive-ok-file: TERM-118 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-627 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-104 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: ADR-050 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
@@ -310,3 +314,11 @@ intervention. In the record "PSM" also abbreviates Metzinger's phenomenal
 self-model ([NOTE-460](../notes.d/NOTE-460.md)), so the Persona Selection Model is named in full.
 
 The term is unchanged.
+
+## Note of 2026-11-07: perspectives with many carriers again, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §1, §3 and §5 and A43 §4 and §12 used this term without saying which object they meant. A41 §1's table gave the perspective's criterion of continuity as "Dynamical and historical continuity of interpretive organization", which runs realization and lineage together. A41 §3's rows ("Public-health research", "Polemical public debate", "Some vaccine-refusal communities", "Clinical care") are kinds whose realizations are particular newsrooms, clinics and forums, and its "Perspectival stability" is a character recurring across realizations, or a lineage. A43 §12 dropped efficacy from sense 1: "Organizational perspective concerns the organization through which those interpretations become available, mutually conditioned, and revisable." Sense 1 conditions efficacy too; [TERM-104](TERM-104.md)'s motivating perspective is the bridge to the will-organization, as A43 §2 itself said. This is the case the note of 2026-10-22 (later) anticipated: such claims should say kind or lineage. [CASE-222](../cases.d/CASE-222.md) and [CLAIM-627](../claims.d/CLAIM-627.md) are filed with the correction. The term is unchanged.
+
+## Note of 2026-11-07: a dormant perspective, from the second share of "Individuation, Possibility, and Disposition"
+
+A55 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, proposes cross-referencing [CLAIM-421](../claims.d/CLAIM-421.md) and [CLAIM-417](../claims.d/CLAIM-417.md) here, so that a "dormant perspective" is not "mistaken for an actually operating perspective". This term cites [CLAIM-417](../claims.d/CLAIM-417.md) and has not cited [CLAIM-421](../claims.d/CLAIM-421.md). Sense 1 is "A dynamically realized regime"; [CLAIM-421](../claims.d/CLAIM-421.md) (Active) holds that its enactment can cease while "the dispositions, capacities or reproductive relationships from which it can be reinstated" remain. A claim about a perspective that is not running is a claim about those dispositions, which [TERM-118](TERM-118.md), filed from the same exchange, calls the bearer's standing repertoire (its sense 3), not about a sense-1 perspective. The term is unchanged.

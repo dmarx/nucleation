@@ -115,3 +115,7 @@ conformational change, not a rewrite of the rule. It sits below a system
 with internal feedback.
 
 No status changes.
+
+## Note of 2026-11-07: a ladder of self-modification in software, from "Individuation, Possibility, and Disposition"
+
+A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) ("The hard question: can the software maintain its own transformation machinery?"), gives a ladder: a service that updates on an external schedule; one that repairs its deployment and selects configurations; one that diagnoses failures in its own updating mechanisms and builds replacements. "But even this is not automatically self-governance. The capacity to modify a rule is different from maintaining a reliable process for determining *when, why, and under what constraints* the rule should change." That extends this question's distinction into software, and places the line where the question does. A does not cite it. Open.

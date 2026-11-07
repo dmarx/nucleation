@@ -31,7 +31,7 @@ history:
     slower where industries were hit hardest, chiefly in Hiroshima'.
     The condition's version-of-record route is dropped under ADR-065
     section 4 (no discrepancy named); its independent-test route,
-    with its refutation clause, moves to QUESTION-tmpsd6a0, which
+    with its refutation clause, moves to QUESTION-436, which
     quotes it word for word.
 tags:
 - social-science
@@ -40,7 +40,7 @@ date: '2026-11-05'
 source:
 - LIT-2201
 bears_on:
-- QUESTION-tmpsd6a0
+- QUESTION-436
 summary: >-
   Davis & Weinstein (2004 working paper; J. Regional Science 2008),
   [LIT-2201](../literature.d/LIT-2201.md), read in full from NBER w10252 in [NOTE-1690](../notes.d/NOTE-1690.md). Limits:
