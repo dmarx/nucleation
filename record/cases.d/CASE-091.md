@@ -6,14 +6,21 @@ formerly:
 title: 'A memory ablation for revision: synthetic inquiries with known ground truth,
   run under six kinds of persistent memory, with information and token budget controlled
   separately'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
 - epistemology
 - design-rationale
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 summary: >-
   A6's fifth case, refined from A3, A4 §4 and A5. The design [QUESTION-108](../questions.d/QUESTION-108.md) asks
   for. Not run.

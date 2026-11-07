@@ -1,7 +1,15 @@
 ---
 status: Proposed
-title: 'A line whose account the record holds only in parts gets an unadmitted SYNTHESIS that restates it, so the account has an address: it adds nothing, cannot be set Current, and the current-account view lists it apart from the admitted integrations'
-version: 1
+title: 'An account the record holds only in parts, for a line or a part of one, gets an unadmitted SYNTHESIS that restates it, so the account has an address: it adds nothing, cannot be set Current, and is listed apart from the admitted integrations; there is one account per scope, an account may integrate the syntheses of its parts, and a line whose parts barely relate is a candidate to split'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Before merge, at the owner's review: one account per scope, not per
+    line; accounts may be built over part syntheses; a line whose parts
+    barely relate is a candidate to split (ADR-tmpyb8vm), and the
+    demonstration is the split line's syntheses.
 tags:
 - record
 date: '2026-11-07'
@@ -21,14 +29,19 @@ summary: >-
   components'. The view lists these accounts under "Accounts held in
   parts". The review files one when a candidate fails admission only
   because the record already holds its integration, and never when it
-  fails on a free parameter, an error or a contradiction. The
-  demonstration is the nucleating-argument line's account. Rejected:
+  fails on a free parameter, an error or a contradiction. There is one
+  account per scope, a line or a part of one, not one per line, and a
+  line's account may take its parts' syntheses as premises. When a line's
+  parts barely relate, that is a signal to split the line, which is
+  decided separately. The demonstration is the former nucleating-argument
+  line: its account, split into part syntheses and a line synthesis over
+  them, after the split of the line (ADR-tmpyb8vm). Rejected:
   treating lines without a synthesis as findings only; admitting such
   accounts; a separate scheme.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-076 ADR-077 ADR-078 — Proposed; the audit, the scheme, the move rule and the review this amends -->
+<!-- inactive-ok-file: ADR-075 ADR-076 ADR-077 ADR-078 ADR-tmpyb8vm — Proposed; the audit, the scheme, the move rule and the review this amends -->
 
-# ADR-tmpyihxy: A line whose account the record holds only in parts gets an unadmitted SYNTHESIS that restates it, so the account has an address: it adds nothing, cannot be set Current, and the current-account view lists it apart from the admitted integrations
+# ADR-tmpyihxy: An account the record holds only in parts, for a line or a part of one, gets an unadmitted SYNTHESIS that restates it, so the account has an address: it adds nothing, cannot be set Current, and is listed apart from the admitted integrations; there is one account per scope, an account may integrate the syntheses of its parts, and a line whose parts barely relate is a candidate to split
 
 ## Context
 
@@ -94,12 +107,30 @@ apart.
   - a free parameter;
   - a component stated wrongly;
   - a contradiction with a component.
-- **Revise, don't duplicate ([ADR-075](ADR-075.md) step 7).** A line has at most one line
-  account. A later review or filing that changes the line revises it as a
-  new version. If an admitted synthesis later covers the line, the line
-  account is Superseded by it.
-- **Demonstration ([ADR-071](ADR-071.md)):** the nucleating-argument line's account, filed
-  with this decision.
+- **One account per scope, not one per line (version 1 said one per
+  line).** A scope is a line or a part of one: a group of its components
+  that answer one of its questions. Two accounts never cover the same
+  scope; a later review or filing revises the one there is (ADR-075 step
+  7), and an admitted synthesis that later covers a scope supersedes its
+  unadmitted account.
+- **Accounts can be built over accounts.** A line's synthesis may take its
+  parts' syntheses as `premises`, which the scheme already allows, and
+  ADR-076's lint already requires a Current synthesis's premise syntheses
+  to be Current. The links between parts are where an integration the
+  parts leave open can live, so the line's synthesis is tested for
+  admission on its own: it may be admitted where its parts are not.
+- **A line that wants several unrelated accounts is a candidate to split.**
+  When a line's parts barely relate, counted by the relations among their
+  components (`scratch/formal/line_parts.py`), the review reports the line
+  as a candidate for splitting into lines of its own, each with its own
+  account. The split is a decision about the lines vocabulary, taken
+  separately, and the review never forces one account over parts that do
+  not hang together.
+- **Demonstration (ADR-071).** The nucleating-argument line was first given
+  one account. The counts showed that two of its five parts barely related
+  to the rest, and the line was split (ADR-tmpyb8vm). Each of the three
+  lines now has its synthesis, and nucleating-argument's is built over the
+  syntheses of its three parts.
 
 ## Alternatives considered
 
@@ -110,6 +141,9 @@ apart.
 - **Admit such accounts.** A route that admits "already held" would give a
   recap the salience the admission test exists to withhold, and would let
   it be set Current.
+- **One account per line (this decision's version 1).** That forces an
+  either-or where a line holds several inquiries. Choosing one account
+  hides the others; merging them hides that they barely relate.
 - **A separate scheme for line accounts.** The SYNTHESIS scheme already
   separates the account's status from its admission ([ADR-076](ADR-076.md), version 2).
   A second scheme would duplicate the components, relations and view.

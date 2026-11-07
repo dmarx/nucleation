@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-090
 title: 'relational vocabulary, of a class of descriptions: the arities and kinds of relation it can state (pairwise or higher-order, among states or among histories, of which declared types), and so which constraints are expressible in it at all'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -22,12 +22,18 @@ history:
     relational vocabulary. 'Grammar' and 'scheme' name a luria
     record's vocabulary only, which is the third dimension here. The
     definition is unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - compositionality
 - mathematics
 - design-rationale
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 summary: >-
   What [QUESTION-283](../questions.d/QUESTION-283.md) asks about: whether composition can force a
   description to adopt relations its parts never needed. A sheaf on a

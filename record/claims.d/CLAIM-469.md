@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp0yhlm
 title: 'Luria is an apparatus for a record''s objects in the operational sense: through its schemes, vocabularies, validators and generated views it realizes a system of distinctions that fixes what counts as a referable and governable object within the record, so that a split scheme makes one object two and a promoted vocabulary makes a value an entity; it keeps, enforces and propagates those distinctions; and its distinctions are revised through the record''s own use'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,11 @@ history:
     luria's, the warrant section no longer says the claim is Proposed
     while CLAIM-419 is, and a limit on what the grammar decides is added.
     The title and condition are unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,7 +45,7 @@ tags:
 - epistemology
 date: '2026-10-27'
 line:
-- nucleating-argument
+- record-as-apparatus
 rests_on:
 - CLAIM-479
 - CLAIM-419

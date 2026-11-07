@@ -6,7 +6,7 @@ formerly:
 title: Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a sufficient
   state for updating on evidence about what it depended on
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,11 @@ history:
     description, agency and legibility: A2 and A5 read this claim as a case
     for provenance, which its own "What it does not say" rules out. The
     claim is unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -26,7 +31,7 @@ tags:
 - probabilistic-modeling
 date: '2026-10-15'
 line:
-- nucleating-argument
+- records-of-inquiry
 - formal-apparatus
 answers:
 - QUESTION-289

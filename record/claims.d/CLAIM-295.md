@@ -7,7 +7,7 @@ title: 'A record of an inquiry''s justifications adds nothing for decisions its
   current state already suffices for: what it can add is a wider family of decisions
   for which what is kept suffices, and decisions a bounded agent can make that it
   otherwise could not'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,11 @@ history:
     assert and "What it does not say" disclaims; it is QUESTION-098's.
     The second disjunct, on computational value, is kept. Title and
     status unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,7 +39,8 @@ tags:
 - epistemology
 - design-rationale
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 rests_on:
 - CLAIM-294
 - CLAIM-300

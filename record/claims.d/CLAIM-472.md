@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdr90u
 title: 'Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -18,6 +18,11 @@ history:
     CLAIM-476, on which the first half rests. The body keeps the
     citation. CLAIM-363 moves from complements to rests_on: the second
     half is its indexing applied. The text is unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,7 +37,8 @@ tags:
 - epistemology
 - design-rationale
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 rests_on:
 - CLAIM-476
 - CLAIM-363

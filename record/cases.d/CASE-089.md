@@ -5,14 +5,21 @@ formerly:
 - CASE-tmpnz3p8
 title: 'The compensating evidence problem: two records with the same support graph
   in which discounting one support leaves odds of 20:1 or of 1.1:1'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: stipulated
 kind: construction
 tags:
 - probabilistic-modeling
 - epistemology
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 summary: >-
   A6's second case. It grounds [CLAIM-293](../claims.d/CLAIM-293.md): the same edges E₁ → H ← E₂, different
   Bayes factors for E₂, different revisions when E₁ fails.

@@ -4,12 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmp5fubd
 title: 'Is delete-and-rederive correct for recursive Datalog views with stratified negation and aggregation, and how large is its overestimate of deletions against the deletions actually needed?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - databases
 - logic
 date: '2026-10-19'
-line: 'nucleating-argument'
+line:
+- records-of-inquiry
 refines:
 - QUESTION-105
 summary: >-

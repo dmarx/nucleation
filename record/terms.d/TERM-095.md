@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmppwzer
 title: 'inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -17,11 +17,17 @@ history:
     At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
     the summary still ended "Proposed.". The term has been Active since
     version 2. No other change.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - cognition
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 complements:
 - TERM-092
 - TERM-065

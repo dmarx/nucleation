@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpqou64
 title: 'The record''s own rates: over its first fifty days, measured from git, an entry''s prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers'' event rates are ordered as the exchange guessed, but only after the first day, when all of them change together, and the grammar is slow to revise without being slow to grow'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -15,6 +15,11 @@ history:
     distinguishes what the rates show from a dynamical hierarchy, and the
     "What it shows" bullets are worded as rates. The measurements are
     unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: documented
 kind: executed-study
 tags:
@@ -24,7 +29,8 @@ date: '2026-10-27'
 illustrates:
 - CLAIM-479
 - CLAIM-478
-line: nucleating-argument
+line:
+- record-as-apparatus
 summary: >-
   Run on 2026-10-27 at the owner's request ("run your measurements against
   the record"), for the rate reading A12 and A13 gave luria's layers and

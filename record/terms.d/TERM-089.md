@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-087
 title: 'apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -21,12 +21,18 @@ history:
     At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
     the summary still began its reason "Proposed:". The term has been
     Active since version 2 (2026-10-27). No other change.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - philosophy-of-science
 - epistemology
 - design-rationale
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 summary: >-
   The sense of "apparatus" the exchange of 2026-10-27 converged on from
   U19 to U23, stated so that no observer and no constitutive metaphysics

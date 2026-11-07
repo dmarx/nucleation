@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpl228b
 title: 'Beyond what it does operationally, luria is an apparatus in Barad''s constitutive sense for the objects of a record, and only for them: the record''s objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record''s own inquiry reconstitutes the apparatus that constitutes them'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -46,6 +46,11 @@ history:
     NOTE-1458). It confirms the cut but gives no general account of
     an apparatus, so it takes no edge (ADR-058). Title, status and edges
     unchanged.
+- version: 5
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,7 +69,8 @@ tags:
 - epistemology
 - metaphysics
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 rests_on:
 - CLAIM-469
 - CLAIM-419

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -35,6 +35,11 @@ history:
     keeps the citation. LIT-1652, now Active and read in NOTE-1231,
     leaves the body's acknowledgement directive for inactive works.
     The text is unchanged.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,7 +59,7 @@ tags:
 - design-rationale
 date: '2026-10-27'
 line:
-- nucleating-argument
+- record-as-apparatus
 complements:
 - CLAIM-476
 corroborates:

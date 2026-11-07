@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp0est4
 title: 'cut, and which sense: a Cartesian cut, Pattee''s epistemic cut, or Barad''s agential cut, enacted by an apparatus'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -22,12 +22,18 @@ history:
     unavailable" corrected, in place, as the term is unadopted, at the
     status review's ruling (the owner delegated these rulings; ADR-057).
     The definition's content is unchanged.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - philosophy-of-science
 - metaphysics
 - quantum-foundations
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 summary: >-
   Three senses of "cut" the exchange of 2026-10-27 used, which A9 §4 said
   "are not interchangeable concepts". The Cartesian cut is a separation of

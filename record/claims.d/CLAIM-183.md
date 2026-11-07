@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpors2p
 title: 'Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,11 @@ history:
     fifteenth status review (ADR-057), at the status review's ruling
     (the owner delegated these rulings); the note of 2026-10-11 added
     it by analogy. The claim is unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -23,7 +28,8 @@ tags:
 - design-rationale
 - epistemology
 date: '2026-10-11'
-line: nucleating-argument
+line:
+- record-as-apparatus
 works:
 - luria-nucleating-an-argument
 answers:

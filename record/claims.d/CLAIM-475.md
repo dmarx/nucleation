@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,11 @@ history:
     Its premise CLAIM-470 and the terms it uses are Active, TERM-092
     adopted at this review; nothing objects to it, and nothing in the
     record meets either defeater.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,7 +46,7 @@ tags:
 - design-rationale
 date: '2026-10-27'
 line:
-- nucleating-argument
+- record-as-apparatus
 rests_on:
 - CLAIM-470
 complements:

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5o4dd
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,6 +14,11 @@ history:
     of what its grammar held. The title says such losses become
     visible only against a record, not that all do, so it is
     unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,7 +31,8 @@ tags:
 - design-rationale
 - epistemology
 date: '2026-10-11'
-line: nucleating-argument
+line:
+- records-of-inquiry
 works:
 - luria-nucleating-an-argument
 answers:

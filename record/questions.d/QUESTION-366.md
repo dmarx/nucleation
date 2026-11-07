@@ -4,13 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmptu1u2
 title: "Does an inquiry need the record of its own development to know its object, as Simondon's method and its organization-studies readers hold, or only to revise its conclusions, which is what the record has shown?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - individuation
 - philosophy-of-science
 date: '2026-10-31'
-line: 'nucleating-argument'
+line:
+- record-as-apparatus
 summary: >-
   Bencherki, Brummans and Vézy (2024, p. 1366), quoting Simondon, hold
   that research "consists in following the being in its genesis, in

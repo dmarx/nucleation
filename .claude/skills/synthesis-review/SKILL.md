@@ -107,7 +107,20 @@ out, or ask for strictness or leniency. Then:
 
   It has no `route`, and its `defeated_if` is fidelity: a component
   misstated, an in-force component left out, or a link no component
-  states. A line has at most one; revise it as a new version.
+  states. There is one account per scope, a line or a part of one; revise
+  the one there is as a new version.
+- **When a line's account falls into parts,** give each part its own
+  synthesis, tested for admission on its own, and make the line's synthesis
+  one over them, with the part syntheses as `premises`. The links between
+  parts are where an integration the parts leave open can live, so test the
+  line's synthesis for admission separately.
+- **When the parts barely relate,** run
+  `python3 -I scratch/formal/line_parts.py --sections <the account>`, or
+  with the part syntheses as arguments. If two or more parts are mostly
+  closed (most of their relations inside, little pointing in), report the
+  line as a candidate to split. The split is a decision about the lines
+  vocabulary, for the owner (ADR-tmpyb8vm is the first). Do not force one
+  account over parts that do not hang together.
 - **Arm B, not admitted for any other reason** (a free parameter, a
   component stated wrongly, a contradiction): file nothing. Record the
   candidate and the reason.

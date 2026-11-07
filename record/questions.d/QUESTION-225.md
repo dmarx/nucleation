@@ -12,14 +12,21 @@ formerly:
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Are why-provenance and, for traceable queries, where-provenance preserved by Buneman, Khanna and Tan's rewrite system, and is traceability necessary for where-provenance to be preserved?"
 
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - databases
 - logic
 date: '2026-10-20'
 
 # REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line: 'nucleating-argument'
+line:
+- records-of-inquiry
 
 # refines: [QUESTION-000]   # the broader question this sharpens
 

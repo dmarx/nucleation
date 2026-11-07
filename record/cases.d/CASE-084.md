@@ -5,14 +5,21 @@ formerly:
 - CASE-tmp96sdo
 title: 'The perfectly accountable false theory: a community whose record traces
   every commitment and whose vocabulary leaves out the right explanation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
 - epistemology
 - philosophy-of-science
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 illustrates:
 - CLAIM-181
 - CLAIM-190

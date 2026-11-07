@@ -7,7 +7,7 @@ complements:
 - TERM-065
 - TERM-064
 title: 'inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -34,11 +34,17 @@ history:
     uses the askable set ('Askable without answerable'), so each claim
     stated in it uses one of its sets, which is its settle condition. The
     definition is unchanged.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - cognition
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 summary: >-
   The object of [CLAIM-475](../claims.d/CLAIM-475.md), from A17 §§2 and 7 of the exchange of
   2026-10-27. A question is on an agent's frontier if some procedure

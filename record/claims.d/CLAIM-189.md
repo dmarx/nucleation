@@ -4,14 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmpkkx3m
 title: 'Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: counter
 warrant: interpretive
 tags:
 - design-rationale
 - epistemology
 date: '2026-10-11'
-line: nucleating-argument
+line:
+- records-of-inquiry
 works:
 - luria-nucleating-an-argument
 objects_to:

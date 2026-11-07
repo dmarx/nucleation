@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpas8q0
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -39,13 +39,19 @@ history:
     structure that results belongs to the system and not to them", which
     goes beyond the text. No edge: the claim's evidence is the record's
     own, and the paper is a parallel. The title is unchanged.
+- version: 5
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: counter
 warrant: interpretive
 tags:
 - design-rationale
 - epistemology
 date: '2026-10-11'
-line: nucleating-argument
+line:
+- record-as-apparatus
 works:
 - luria-nucleating-an-argument
 objects_to:

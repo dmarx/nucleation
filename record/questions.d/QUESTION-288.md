@@ -4,12 +4,19 @@ status: Answered
 formerly:
 - QUESTION-tmpgjyn2
 title: 'Can preserving an inquiry''s justificatory history improve decisions beyond a current state that is sufficient for those decisions, and can such a state stop being sufficient when a source, the model or the decision family changes?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - mathematical-statistics
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- records-of-inquiry
 refines:
 - QUESTION-112
 summary: >-

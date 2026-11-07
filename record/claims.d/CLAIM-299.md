@@ -5,7 +5,7 @@ formerly:
 - CLAIM-tmpb7qd9
 title: Decision sufficiency, historical accountability and correctness are three
   properties of a record of inquiry, and each can hold while the other two fail
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -14,6 +14,11 @@ history:
     the body cited CLAIM-190 as a current claim; it is Superseded by
     ARG-028, which carries its point. The citation now says so. No other
     change.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -23,7 +28,8 @@ tags:
 - epistemology
 - design-rationale
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 grounds:
 - CASE-093
 - CASE-084

@@ -5,14 +5,21 @@ formerly:
 - CASE-tmpziral
 title: 'Same marginal, different updates: two joint distributions over a hypothesis
   and a condition that agree on the hypothesis and disagree on how to revise it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: stipulated
 kind: construction
 tags:
 - probabilistic-modeling
 - epistemology
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 summary: >-
   A6's first case, made exact at A8. It grounds [CLAIM-294](../claims.d/CLAIM-294.md).
 ---

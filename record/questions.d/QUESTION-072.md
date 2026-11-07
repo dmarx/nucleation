@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpihzdz
 title: 'Does a project memory distribute credibility among an argument''s contributors, by making some contributors'' moves addressable and leaving others'' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -37,12 +37,18 @@ history:
     drew its feedback chain for the record's own registry and filing, which
     is CLAIM-181 and CLAIM-182; CLAIM-406 connects the Fricker readings
     to the distributed-agency line. Extended the same day from the readings of Kay et al. and Collins, neither of which tests the question. The question is unchanged.
+- version: 5
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - design-rationale
 - ethics
 date: '2026-10-12'
-line: 'nucleating-argument'
+line:
+- record-as-apparatus
 works:
 - luria-nucleating-an-argument
 summary: >-

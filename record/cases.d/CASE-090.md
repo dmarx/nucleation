@@ -6,14 +6,21 @@ formerly:
 title: 'The rehabilitated hypothesis: an objection that displaced a hypothesis turns
   out to rest on a faulty measurement, and the hypothesis can be reopened because
   its defeat was recorded'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
 - epistemology
 - philosophy-of-science
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 illustrates:
 - CLAIM-295
 - CLAIM-250
