@@ -12,12 +12,15 @@ of argument at a time. Generated from the SYNTHESIS entries in
 
 A synthesis says what its components add up to, and which admission route it
 passed: an independent hypothesis, a derived result or an explanatory
-integration (ADR-tmpe7y42). Its components keep their own standing. The status
+integration (ADR-075). Its components keep their own standing. The status
 beside each component, with its kind, is read from the component when this
 page is built, so a component retired since the synthesis was written shows as
 retired here. An `Open` QUESTION, an `Active` TERM and a `Proposed` CLAIM are
-different kinds of standing, which is why the kind is shown. Only admitted
-syntheses appear; an unadmitted one is kept in its file, not set out here.
+different kinds of standing, which is why the kind is shown. The sections
+by line set out admitted syntheses only. A line whose account the record
+holds only in parts, stated across its components' bodies and notes, has an
+unadmitted synthesis that restates it; those are listed last, under
+"Accounts held in parts", and earn no standing of their own.
 A synthesis marked *Current* is the account the owner has adopted for its
 line; *Proposed* is admitted and argued, not yet adopted. A synthesis that
 spans several lines is set out under its first and pointed to from the
@@ -61,3 +64,33 @@ others.
 {% endfor %}
 {%- endif %}
 {% endfor %}
+
+{%- set held = docs("SYNTHESIS", status="Proposed", admission="unadmitted") %}
+{%- if held %}
+
+## Accounts held in parts
+
+*Each of these restates a line's account as the record already holds it,
+with every component mapped, so that the account has an address: it can be
+revised when a component changes and checked when a later synthesis returns
+to it. None was admitted. It adds nothing its components do not state, has
+no admission route, and cannot be set Current; its standing is its
+components', read below when this page is built.*
+{% for s in held %}
+{%- set premises = s.premises | map(attribute="code") | list %}
+
+### {{ s.code }}: {{ s.title }}
+
+*Proposed · held in parts · lines {{ s.line | join(", ") }} · version {{ s.version }}*
+
+{{ s.summary }}
+
+| component | kind | its status | what it holds |
+|---|---|---|---|
+{% for c in s.integrates -%}
+| {{ c.code }}{% if c.code in premises %} (premise){% endif %} | {{ c.code.split("-")[0] }} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
+{% endfor %}
+
+**What would show the account wrong:** {{ s.defeated_if }}
+{% endfor %}
+{%- endif %}
