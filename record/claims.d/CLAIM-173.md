@@ -40,8 +40,6 @@ summary: >-
   entrainment claim excluded exactly this case. Rejected on the owner's
   challenge (CLAIM-167): they should pass, and direction gives a
   system's architecture, not its membership.
-objected_by:
-- CLAIM-167
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the reply that rejected this objection -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the target of this objection and the claim whose mutuality condition would answer it, open -->

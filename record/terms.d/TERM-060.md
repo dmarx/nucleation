@@ -29,16 +29,6 @@ summary: >-
   where the demands are jointly realizable at a cost, and from distress, a
   possible integrated response to either. It is not [CLAIM-153](../claims.d/CLAIM-153.md)'s physics
   sense, though it shares that sense's three-demand minimal obstruction.
-used_by:
-- CLAIM-346
-- CLAIM-347
-- CLAIM-351
-- CLAIM-357
-- CLAIM-365
-- CLAIM-366
-- CLAIM-368
-- CLAIM-440
-- CLAIM-449
 complements:
 - TERM-076
 ---

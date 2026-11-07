@@ -33,8 +33,6 @@ summary: >-
   stationarity only. It gives no finite augmentation with a bounded error
   in general: the NARMAX step is the paper's uncontrolled approximation,
   exact only in the linear Gaussian class shown here.
-supports:
-- CLAIM-397
 bears_on:
 - QUESTION-222
 ---

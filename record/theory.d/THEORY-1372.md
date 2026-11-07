@@ -36,6 +36,9 @@ summary: >-
   because of this paper (that is earlier work), nor anything about
   continuous rigid folding of one sheet, since the PSPACE result is for a
   toy model of hinged squares with discrete moves.
+corroborates:
+- CLAIM-573
+- CLAIM-578
 ---
 
 # THEORY-1372: Eppstein shows that folding problems split by question: deciding whether a finite crease pattern folds flat is fixed-parameter tractable in ply and treewidth with an ETH-optimal dependence on treewidth, reaching one flat state from another in a hinged-square toy model is PSPACE-complete and counting its states #P-complete, and flat-foldability of self-similar crease patterns with infinitely many creases on a finite square is undecidable

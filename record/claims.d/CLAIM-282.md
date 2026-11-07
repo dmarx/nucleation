@@ -51,16 +51,6 @@ summary: >-
   grant.
 complements:
 - CLAIM-277
-supports:
-- CLAIM-277
-- CLAIM-285
-- CLAIM-359
-- CLAIM-375
-- CLAIM-410
-illustrated_by:
-- CASE-077
-objected_by:
-- CLAIM-502
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

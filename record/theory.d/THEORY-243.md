@@ -41,8 +41,6 @@ summary: >-
   reply rests its on the interventions performed. Shown exactly for one
   constructed network only; whether trained networks have such ties is
   open (QUESTION-234).
-extended_by:
-- THEORY-802
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

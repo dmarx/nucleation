@@ -17,8 +17,6 @@ summary: >-
   A38 §10.1 and A40 §13.1. The manuscript's conclusion keeps it: the
   question is "neither whether a translation duplicates an invariant
   semantic substance nor whether all meanings are endlessly fluid".
-supports:
-- CLAIM-247
 ---
 
 # CLAIM-112: The operational account does not say that meaning is nothing but observable behaviour, nor that no stable content exists because interpretation is context-dependent

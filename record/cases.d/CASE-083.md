@@ -20,9 +20,6 @@ summary: >-
   and, by the record's own reduction, [CLAIM-304](../claims.d/CLAIM-304.md).
   Checked against Goldreich (note of 2026-10-15): the definitions match, and the
   separation needs the generator only for samplability.
-supports:
-- CLAIM-302
-- CLAIM-304
 ---
 
 # CASE-083: A pseudorandom generator's output against uniform strings: almost disjoint in total variation, indistinguishable to every efficient test if the generator is secure

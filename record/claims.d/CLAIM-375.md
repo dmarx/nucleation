@@ -40,6 +40,7 @@ rests_on:
 uses:
 - TERM-103
 - TERM-101
+- TERM-053
 summary: >-
   The demonstrated core of [CLAIM-285](CLAIM-285.md). Under A3's one-hop rule
   I_j = I_j⁰ + Σ_(k≠j) b_k E_kj, with budgets and baselines fixed within an
@@ -50,8 +51,6 @@ summary: >-
   policy. So the reward for realized policy, and not for held authority,
   pays for delegating. It does not say operators behave so, or that any
   rule beyond one hop keeps both conditions.
-supports:
-- CLAIM-285
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->

@@ -34,6 +34,8 @@ summary: >-
   that the verdict on selves turns on criteria. Its one candidate for a
   self-model that misdescribes is a dissociative case better compressed by
   two narrative selves.
+corroborates:
+- CLAIM-355
 ---
 <!-- inactive-ok-file: CLAIM-355 THEORY-064 THEORY-691 THEORY-563 THEORY-877 — Proposed; claims and readings cited as open, nothing here rests on them -->
 

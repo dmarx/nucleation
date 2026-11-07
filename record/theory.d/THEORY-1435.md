@@ -37,6 +37,8 @@ summary: >-
   whose componentwise join loses a Pareto frontier of budgets, nor about
   costs that depend on the order of operations, nor about graded
   categories that keep every morphism with its grade.
+corroborates:
+- CLAIM-563
 ---
 <!-- inactive-ok-file: THEORY-1527 — Proposed and new; the closure result split off at the status review of 2026-11-06, cited as open -->
 

@@ -65,8 +65,6 @@ bears_on:
 - QUESTION-379
 - QUESTION-284
 - QUESTION-437
-supersedes:
-- CLAIM-611
 summary: >-
   A's thesis of the exchange "Individuation, Possibility, and
   Disposition" (2026-11-06 to 07) across U6 to U13, stated eight times

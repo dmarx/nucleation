@@ -36,6 +36,7 @@ source:
 corroborates:
 - CLAIM-368
 - CLAIM-361
+- CLAIM-347
 summary: >-
   Watson (2023), [LIT-990](../literature.d/LIT-990.md), read in full in [NOTE-747](../notes.d/NOTE-747.md). A perspective
   essay's definition, argued and illustrated, not proved: agency of a whole

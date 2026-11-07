@@ -19,8 +19,6 @@ superseded_by:
 - CLAIM-080
 objects_to:
 - CLAIM-010
-countered_by:
-- CASE-034
 summary: >-
   The owner's reply at U34: minimal wills for simple systems are no
   reductio, and corporations can coherently act freely or have their hand

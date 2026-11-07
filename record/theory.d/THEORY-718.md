@@ -37,8 +37,6 @@ summary: >-
   a positive-definite matrix and w_MP stays bounded, the log Occam factor
   is −(k/2) log n + O(1). Exact for this model class only. The general
   regular case and the singular case are [THEORY-087](THEORY-087.md), which is Proposed.
-extended_by:
-- THEORY-087
 ---
 
 # THEORY-718: In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n

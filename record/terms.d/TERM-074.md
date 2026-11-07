@@ -39,8 +39,6 @@ summary: >-
   2026-10-22 asked for the senses to be listed, with the first as the
   default in "organizational perspective". A claim using "organization"
   or "organized" should say which.
-used_by:
-- CLAIM-454
 ---
 <!-- inactive-ok-file: TERM-063 — Proposed; the rival criterion of agency, cited as open -->
 

@@ -50,10 +50,6 @@ rests_on:
 - CLAIM-604
 complements:
 - CLAIM-600
-corroborated_by:
-- THEORY-1483
-- THEORY-1492
-- THEORY-1465
 bears_on:
 - QUESTION-398
 summary: >-

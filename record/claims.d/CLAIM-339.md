@@ -57,8 +57,6 @@ summary: >-
   minimum arises with action available, so the counter now claims only
   that losing action removes one source of evidence the loop did not
   select. [CLAIM-342](CLAIM-342.md) answers it.
-objected_by:
-- CLAIM-342
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; named in the history as the reading the grounds moved from -->
 

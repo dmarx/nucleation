@@ -35,8 +35,6 @@ summary: >-
   It is about the training signal and a fixed function space. It says
   nothing about test data, about a generative model, about invariance as
   opposed to slowness, or about learning dynamics.
-supports:
-- CLAIM-394
 bears_on:
 - QUESTION-217
 ---

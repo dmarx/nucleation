@@ -42,10 +42,6 @@ summary: >-
   could not do was offered as if it settled what could be done. Not
   shown: whether any official was in contempt, or intent; the later
   proceedings are the exchange's.
-supports:
-- CLAIM-457
-- CLAIM-462
-- CLAIM-464
 ---
 
 # CASE-175: CECOT, 2025: people removed from the United States into Salvadoran custody despite court orders, the US saying it could not bring them back and El Salvador's president that he could not send them, until coordinated transfers out showed the two governments together could

@@ -32,8 +32,6 @@ summary: >-
   invertible u : A → B gives Aut(A) ≅ Aut(B), which corrects A198 §8. It
   does not say what symmetries are for: that they supply the yardstick for
   non-symmetric transports is [CLAIM-103](CLAIM-103.md)'s, and interpretive.
-supports:
-- CLAIM-103
 ---
 <!-- inactive-ok-file: CLAIM-103 — Proposed; the semigroup claim this complements and the claim this was split from, cited as open -->
 

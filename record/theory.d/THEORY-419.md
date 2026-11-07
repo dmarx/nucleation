@@ -33,10 +33,6 @@ summary: >-
   belongs to which variable. The excerpts state the three rules of the
   do-calculus without derivation, and contain no three-level hierarchy of
   association, intervention and counterfactual.
-supports:
-- CLAIM-127
-- CLAIM-130
-- CLAIM-341
 ---
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading this account rests on, as it says -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; the claims that cite this account, named in Connections -->

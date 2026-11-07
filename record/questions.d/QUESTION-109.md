@@ -15,11 +15,6 @@ summary: >-
   A20's question, after the owner tied addressing to anchoring bias at U20. The
   same selectivity that makes retrieval cheap can make the evidence a judgement
   sees depend on where it started.
-refined_by:
-- QUESTION-107
-bearing:
-- CLAIM-315
-- THEORY-335
 ---
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited for what it would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

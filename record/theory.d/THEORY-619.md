@@ -23,8 +23,6 @@ summary: >-
   element of G, is a sieve-valued valuation obeying FUNC; a state's supports
   qualify. Both theorems are close to definitional. Nothing here builds
   Heyting operations on clopen sub-objects.
-presupposed_by:
-- THEORY-037
 ---
 
 <!-- inactive-ok-file: LIT-380 — Superseded by LIT-382; named as the paper that introduced the base category and asserted the isomorphism this account states as proved -->

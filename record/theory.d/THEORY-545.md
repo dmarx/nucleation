@@ -23,8 +23,6 @@ summary: >-
   its lattice structure is supposed, not derived. The model as printed is
   also infeasible in two cells. It does not say that no quantum model of
   concepts does better.
-supports:
-- CLAIM-041
 ---
 <!-- inactive-ok-file: LIT-270 — Rejected; named as the later programme whose error this account traces, not as support -->
 <!-- inactive-ok-file: THEORY-013 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->

@@ -60,23 +60,6 @@ summary: >-
   persisting, narrative, self-governing, integrated and presented. A
   claim that leaves the sense
   open is stated in this term's words as "self (sense open)".
-used_by:
-- CLAIM-153
-- CLAIM-155
-- CLAIM-161
-- CLAIM-165
-- CLAIM-166
-- CLAIM-157
-- CLAIM-167
-- CLAIM-169
-- CLAIM-172
-- CLAIM-175
-- CLAIM-198
-- CLAIM-196
-- CLAIM-284
-- CLAIM-317
-- CLAIM-355
-- CLAIM-417
 complements:
 - TERM-075
 ---

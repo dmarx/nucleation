@@ -61,9 +61,6 @@ rests_on:
 grounds:
 - THEORY-134
 - THEORY-654
-corroborated_by:
-- THEORY-054
-- THEORY-411
 complements:
 - CLAIM-128
 - CLAIM-122

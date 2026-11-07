@@ -21,10 +21,6 @@ summary: >-
   what separates a collective-level stance or effect from amplification
   by an unrepresentative few, and whether "publicly attributable
   orientation" is weaker than [CLAIM-030](../claims.d/CLAIM-030.md)'s operative intention.
-answered_by:
-- CLAIM-332
-refined_by:
-- QUESTION-261
 ---
 
 <!-- inactive-ok-file: CLAIM-192 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

@@ -16,14 +16,6 @@ summary: >-
   it is evaluated within that horizon. The course then becomes effective
   without any regime being overridden, bargained with or suspended. The
   regimes are desynchronized where their valuations cross.
-used_by:
-- CLAIM-156
-- CLAIM-162
-- CLAIM-169
-- CLAIM-163
-- CLAIM-198
-- CLAIM-261
-- CLAIM-441
 complements:
 - TERM-061
 ---

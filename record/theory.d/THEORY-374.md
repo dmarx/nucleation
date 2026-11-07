@@ -36,9 +36,6 @@ summary: >-
   (ADR-047 v2); the primary papers they come from are unread.
   None of it prices recognition for definitions outside conjunctive queries
   and datalog, or says how costly recognition is on typical queries.
-supports:
-- CLAIM-314
-- CLAIM-312
 bears_on:
 - QUESTION-114
 ---

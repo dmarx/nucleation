@@ -23,11 +23,6 @@ summary: >-
   morning, you're broke again", "The party always gets its cut", "The
   high life eats your paycheck". Two survive as the manuscript's opening
   example (§1).
-supports:
-- ARG-004
-- CLAIM-222
-- CLAIM-227
-- CLAIM-229
 ---
 <!-- inactive-ok-file: CLAIM-036 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

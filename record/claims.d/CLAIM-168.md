@@ -27,8 +27,6 @@ summary: >-
   identified system". To identify agents by will-organization reverses an
   order of explanation that was chosen deliberately. Open: [CLAIM-174](CLAIM-174.md)
   replies that the test is run on candidate factors, not on agents.
-objected_by:
-- CLAIM-174
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the criterion and the reply this objection is set against, open -->

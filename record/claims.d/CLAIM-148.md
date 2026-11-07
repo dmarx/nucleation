@@ -63,9 +63,6 @@ summary: >-
   and why identifiability must come before automorphisms and characters.
   It does not say latent axes are meaningless, or that observed data have
   non-trivial automorphisms.
-illustrated_by:
-- CASE-042
-- CASE-097
 ---
 <!-- inactive-ok-file: THEORY-180 — Proposed; named as the parents of the Active entries now cited, not leaned on -->
 

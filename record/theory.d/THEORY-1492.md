@@ -51,6 +51,9 @@ summary: >-
   no comparison group and confounds drought with project, so the division
   along the four factors and the manner of withdrawal is the authors'
   reading of contrasts within one country.
+corroborates:
+- CLAIM-602
+- CLAIM-605
 ---
 <!-- inactive-ok-file: LIT-2151 — Unavailable or new; cited from the reading of Coates et al. (2016) as open -->
 

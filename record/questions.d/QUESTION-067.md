@@ -58,10 +58,6 @@ summary: >-
   broader, is [QUESTION-246](QUESTION-246.md), Answered. Whether a pragmatic test's
   probes make renderings operationally equivalent, so that the
   generalized kind applies, is open.
-refined_by:
-- QUESTION-246
-bearing:
-- THEORY-315
 ---
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

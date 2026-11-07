@@ -46,8 +46,6 @@ summary: >-
   (4t/N)^(1/4), and their ratios tend to 1. That is NC1 and NC2, and NC3–NC4
   follow. Not shown: that ordinary training is this flow, or anything for
   cross-entropy or with weight decay.
-extended_by:
-- THEORY-797
 bears_on:
 - QUESTION-051
 ---

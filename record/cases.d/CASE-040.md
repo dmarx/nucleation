@@ -24,12 +24,6 @@ summary: >-
   with lexical, judgement, uptake and intervention data, several
   factorizations, and four outcomes reported separately. A210 §5 gives a
   cross-corpus version. Proposed by the assistant; not run.
-supports:
-- CLAIM-129
-- CLAIM-203
-- CLAIM-222
-- CLAIM-230
-- CLAIM-232
 ---
 <!-- inactive-ok-file: CLAIM-129 CLAIM-127 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
 

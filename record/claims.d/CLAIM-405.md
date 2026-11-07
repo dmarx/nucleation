@@ -44,8 +44,6 @@ complements:
 grounds:
 - THEORY-820
 - CASE-110
-corroborated_by:
-- CLAIM-387
 summary: >-
   The individuation counterpart of the owner's normative thesis [CLAIM-363](CLAIM-363.md)
   ("once they are fixed, the judgment can be false"), as A8 and A9 of the
@@ -59,9 +57,6 @@ summary: >-
   [CLAIM-152](CLAIM-152.md) gives the relativity; this claim adds that relativity is not
   arbitrariness. It bears on QUESTION-065 without answering it. It does not say which
   criterion is right.
-illustrated_by:
-- CASE-175
-- CASE-176
 bears_on:
 - QUESTION-065
 ---

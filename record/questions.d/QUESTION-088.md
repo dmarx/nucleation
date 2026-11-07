@@ -37,8 +37,6 @@ summary: >-
   such a description implements the will-organization account or replaces
   it. This asks whether it predicts anything. [CLAIM-024](../claims.d/CLAIM-024.md)'s objection, that
   every mechanism has its own literature, applies here too.
-bearing:
-- CLAIM-286
 ---
 <!-- inactive-ok-file: CLAIM-024 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

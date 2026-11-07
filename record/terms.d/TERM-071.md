@@ -28,8 +28,6 @@ summary: >-
   for "self". On the owner's U13 ("definitions we've crystallized that are
   not currently in conflict"). Adopted by the owner on 2026-10-21. The
   exchange's name "organizational reconstitution" is not adopted.
-used_by:
-- CLAIM-421
 complements:
 - TERM-074
 ---

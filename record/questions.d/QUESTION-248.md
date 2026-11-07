@@ -20,8 +20,6 @@ summary: >-
   many coordinates, built from Y's own past and innovations, carry it
   exactly. Other classes, error in terms of the eliminated spectrum, and
   the ruling on levels stay with [QUESTION-222](QUESTION-222.md).
-answered_by:
-- CLAIM-398
 ---
 
 # QUESTION-248: In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose reduced dynamics carry memory admit an exact finite-dimensional Markovian augmentation?

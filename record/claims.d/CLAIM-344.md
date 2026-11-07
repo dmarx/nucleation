@@ -49,8 +49,6 @@ rests_on:
 - CLAIM-099
 grounds:
 - THEORY-688
-corroborated_by:
-- THEORY-067
 summary: >-
   The owner's frame, U37 of the exchange of 2026-10-17: "I think emergence
   of "resolve" could be an interesting frame within which to examine our
@@ -63,8 +61,6 @@ summary: >-
   form, placed in [CLAIM-159](CLAIM-159.md)'s will-organization cell. The sharp edge: the
   standard for when revision is warranted is not supplied, and is
   [QUESTION-087](../questions.d/QUESTION-087.md)'s open problem.
-illustrated_by:
-- CASE-128
 complements:
 - CLAIM-443
 ---

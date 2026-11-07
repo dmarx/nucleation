@@ -11,8 +11,6 @@ tags:
 - philosophy-of-science
 date: '2026-10-27'
 line: distributed-agency
-refined_by:
-- QUESTION-030
 summary: >-
   Asked three times in the exchange of 2026-10-27 (A5 §5, A6 §8, A10 §8)
   once the owner had set the record's scope as unrestricted (U6). It is

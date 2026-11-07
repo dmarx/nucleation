@@ -25,9 +25,6 @@ summary: >-
   not for Pa ∨ Pb. Soundness here is relative to the completion, not to
   the world, and neither paper says anything about a search cut short by
   time.
-supports:
-- CLAIM-306
-- CLAIM-312
 ---
 
 # THEORY-341: Inferring not-P from failure to prove P is a deduction only under two separate conditions: Clark shows that when every branch of the search for a proof of P ends in failure, not-P is a theorem of the completed database, and a search that does not finish licenses nothing; Reiter's closed-world assumption, adding the negation of every ground atom the database does not entail, keeps a consistent Horn database consistent and can make a disjunctive one inconsistent

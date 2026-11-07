@@ -48,11 +48,10 @@ summary: >-
   (2017), [LIT-733](../literature.d/LIT-733.md), found the effect only where inquiry is hard:
   close alternatives, small groups, small batches. Proposed: all of it is
   simulation, and real communities' place in parameter space is unknown.
-extended_by:
-- THEORY-148
-- THEORY-422
 bears_on:
 - QUESTION-047
+corroborates:
+- CLAIM-276
 ---
 <!-- inactive-ok-file: LIT-751 — Unavailable; Holman and Bruner, reported second-hand in the note of 2026-10-21 -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account filed in this batch -->

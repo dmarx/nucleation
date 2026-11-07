@@ -10,8 +10,6 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-005
 superseded_by:
 - TERM-016
 summary: >-

@@ -42,8 +42,6 @@ grounds:
 - THEORY-187
 - THEORY-195
 - THEORY-206
-corroborated_by:
-- THEORY-200
 summary: >-
   The owner's, U38 of the exchange of 2026-10-17, on A37's proposed
   experiment: "I think we may already have an empirical demonstration that
@@ -56,8 +54,6 @@ summary: >-
   separation at fixed neuron count. The sharp edge: which effect a result
   shows depends on the budget, and A38 warned against "depth produces
   individuation while width merely provides redundant capacity".
-illustrated_by:
-- CASE-115
 ---
 
 <!-- inactive-ok-file: THEORY-186 THEORY-200 THEORY-212 — Proposed; readings cited with their stated limits, and an open claim -->

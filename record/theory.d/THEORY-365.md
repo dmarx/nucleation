@@ -44,8 +44,6 @@ summary: >-
   QUESTION-187. The
   paper gives no worst-case bound and no recall guarantee. Construction is
   argued to cost about N searches.
-extended_by:
-- THEORY-815
 bears_on:
 - QUESTION-114
 ---

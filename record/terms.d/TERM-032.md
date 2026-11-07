@@ -17,8 +17,6 @@ summary: >-
   pragmatic operation and communicative configuration, z(u, c) = (z_lex,
   z_concept, z_act, z_social), with the relational configuration on top.
   Replaced at U28 by levels of observables.
-used_by:
-- CLAIM-008
 ---
 
 # TERM-032: levels, as a hierarchy of latent representations

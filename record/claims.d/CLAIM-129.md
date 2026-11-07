@@ -58,8 +58,6 @@ summary: >-
   family of measurements, stated for factorizations. It does not say
   lexical structure is irrelevant to the act, or that a richer
   factorization cannot capture acts.
-illustrated_by:
-- CASE-040
 ---
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->

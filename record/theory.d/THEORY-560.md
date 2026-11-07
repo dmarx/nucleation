@@ -33,8 +33,6 @@ summary: >-
   one meta-analysis of healthy volunteers and trials with nulls. Proposed
   because the source is a narrative industry review; the gap it describes
   runs against its authors' interest.
-supports:
-- CLAIM-166
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's claim this account grounds -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading named as the bridge, untested -->

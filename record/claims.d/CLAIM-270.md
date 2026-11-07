@@ -45,10 +45,6 @@ summary: The general content of [CLAIM-081](CLAIM-081.md), filed alone under [AD
   A contractive chain loses information about its initial state while converging
   to a stationary distribution that can be far from the start. The data-processing
   inequality bounds the first and says nothing about the second.
-supports:
-- CLAIM-081
-- CLAIM-189
-- CLAIM-191
 ---
 <!-- inactive-ok-file: CLAIM-189 CLAIM-191 — Proposed; cited for what each holds or applies, open, not settled -->
 

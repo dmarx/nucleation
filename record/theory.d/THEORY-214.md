@@ -42,9 +42,8 @@ summary: >-
   speeding up both occur. About a quarter of overthrows are unpredictable at
   the 20-minute range. The social readings of the precursors are the
   authors' conjecture from SHAP curves; nothing here measures plans.
-supports:
-- CLAIM-280
-- CLAIM-273
+corroborates:
+- CLAIM-279
 ---
 <!-- inactive-ok-file: CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and accounts, cited as what this bears on, nothing here rests on their being settled -->
 

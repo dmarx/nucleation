@@ -17,8 +17,6 @@ summary: >-
   is two identities and was checked. Sample agreement depends on the
   entropy estimator. Both quantities are predictive; the authors keep
   them apart from physical causation.
-extended_by:
-- THEORY-641
 ---
 
 # THEORY-700: For jointly Gaussian stationary processes, Granger causality in Geweke's generalized-variance form is exactly twice the transfer entropy, conditional and multivariate, at the regressions' lags, because least-squares residual covariance is the partial covariance and a Gaussian's conditional entropy is half its log-determinant plus a constant

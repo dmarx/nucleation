@@ -59,8 +59,6 @@ summary: >-
   procedures is a non-contextuality question on a hom scenario,
   re-derived here. No-signalling models
   only, and nothing about information preserved.
-supports:
-- CLAIM-100
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this theory bears on -->

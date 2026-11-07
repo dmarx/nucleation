@@ -15,8 +15,6 @@ date: '2026-10-27'
 reported_in:
 - LIT-692
 - NOTE-545
-supports:
-- CLAIM-047
 summary: >-
   Frankfurt (1971), [LIT-692](../literature.d/LIT-692.md), read in full in [NOTE-545](../notes.d/NOTE-545.md), p. 12. Filed by the
   status review of 2026-10-27 ([ADR-057](../decisions.d/ADR-057.md)). [CLAIM-047](../claims.d/CLAIM-047.md) is grounded in this case

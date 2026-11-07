@@ -40,8 +40,6 @@ summary: >-
   and SwAV only. The effect is shown with batches of two to eight
   ImageNet classes, one run per cell, not with natural long tails; the
   open half is QUESTION-171.
-extended_by:
-- THEORY-805
 ---
 <!-- inactive-ok-file: THEORY-805 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

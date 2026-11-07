@@ -24,8 +24,6 @@ summary: >-
   on the context poset. No choice among the candidate value objects is
   made, and the state-dependent reading of the spread is cited, not
   proved.
-presupposed_by:
-- THEORY-585
 ---
 
 

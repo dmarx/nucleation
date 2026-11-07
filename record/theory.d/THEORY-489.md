@@ -21,9 +21,8 @@ summary: >-
   not established. It supports the claim that human transmission chains
   settle on what learners favour in this task, not that they reach the
   Bayesian prior, and it cannot tell sampling learners from MAP learners.
-supports:
-- CLAIM-090
-- CLAIM-234
+corroborates:
+- CLAIM-049
 ---
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett's serial reproduction, named as the experimental lineage, not leaned on -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; the theorem this result is offered for and a claim that cites it, named in Connections, not leaned on -->

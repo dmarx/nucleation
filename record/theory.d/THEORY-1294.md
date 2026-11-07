@@ -31,6 +31,8 @@ summary: >-
   operationalization and no case from practice, which the authors say
   themselves. It does not say how far a variable set must be expanded,
   and it takes parthood as given.
+corroborates:
+- CLAIM-528
 ---
 <!-- inactive-ok-file: CLAIM-477 — Open or Proposed; cited as open -->
 

@@ -36,8 +36,6 @@ summary: >-
   The authors infer that people deduce danger without experiencing it,
   perhaps counterfactually, from having avoided; they also say the signal
   that avoidance is available may itself be read as a danger cue.
-supports:
-- CLAIM-446
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and companion reading this bears on, named -->
 <!-- inactive-ok-file: LIT-1498 — Deferred; the work on danger inferred from safety behaviour, named for comparison -->

@@ -33,8 +33,6 @@ summary: >-
   same data relaxes every mode exponentially on the one timescale τ. It
   does not say that random starts follow the solution, which is
   [THEORY-186](THEORY-186.md)'s.
-extended_by:
-- THEORY-186
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this core was split from and that extends it, and the depth account set beside it, cited as open -->
 

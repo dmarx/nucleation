@@ -50,13 +50,6 @@ summary: >-
   implies d_O(Φ(s_1), Φ(s_2)) > δ′. The owner's U19 strategy at work:
   define rather than defend. One bullet in outline v4; absent from the
   manuscript.
-supports:
-- CLAIM-133
-- CLAIM-139
-- CLAIM-147
-- CLAIM-204
-objected_by:
-- CLAIM-238
 ---
 <!-- inactive-ok-file: CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

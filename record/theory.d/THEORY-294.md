@@ -39,8 +39,6 @@ summary: >-
   no lower, and for ReLU higher; whether lazy training leaves NC1 in place
   there is [QUESTION-192](../questions.d/QUESTION-192.md). The inference that collapse requires feature
   learning is the reading's, not proved.
-extended_by:
-- THEORY-813
 bears_on:
 - QUESTION-051
 ---

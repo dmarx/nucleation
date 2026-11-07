@@ -26,8 +26,6 @@ summary: >-
   Replaced by the manuscript's directed, lossy transformations once the
   analogy's group structure was undercut and the frame-independent act
   dropped.
-argued_by:
-- ARG-004
 ---
 <!-- ref::uses-file: TERM-013 — stated in "fidelity, as matching pragmatic signatures", the definition current when this claim was written; it has since been superseded -->
 <!-- ref::uses-file: TERM-016 — stated in "frame, as a pragmatic frame of reference", the definition current when this claim was written; it has since been superseded -->

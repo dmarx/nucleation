@@ -41,9 +41,6 @@ line:
 - realizability
 uses:
 - TERM-105
-corroborated_by:
-- THEORY-1465
-- THEORY-1486
 complements:
 - CLAIM-600
 - CLAIM-604

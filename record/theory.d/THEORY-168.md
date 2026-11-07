@@ -56,8 +56,6 @@ summary: >-
   other. The authors present the representation as the analyst's choice,
   not as a defect. What the record does not get from these papers is any
   rule for choosing it.
-supports:
-- CLAIM-069
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; its scope is what this theory bears on -->

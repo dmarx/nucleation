@@ -24,8 +24,6 @@ summary: >-
   regulation and Damasio's internal "as if body loop" survive paralysis,
   so the case never removes every contingency between intention and
   outcome.
-supports:
-- CLAIM-339
 reported_in:
 - LIT-1183
 - LIT-1193

@@ -35,8 +35,6 @@ summary: >-
   made operational, so a failure can always be read as too few. The
   advocate's own verdict: "no one would argue that MEP is well
   established".
-presupposed_by:
-- THEORY-517
 ---
 
 <!-- inactive-ok-file: THEORY-412 THEORY-532 THEORY-492 THEORY-517 — Proposed; named as accounts that reject or build on this one, not leaned on -->

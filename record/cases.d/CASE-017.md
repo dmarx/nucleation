@@ -21,9 +21,6 @@ summary: >-
   abstract states, seed 20261008, "not fitted to text, pretrained
   models, or human measurements". Executed; results are exact properties
   of the chosen matrices. None reached a later draft.
-supports:
-- CLAIM-028
-- CLAIM-270
 ---
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

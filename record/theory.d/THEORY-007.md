@@ -62,9 +62,6 @@ summary: >-
   eigenfunctions is not shown.
 extends:
 - THEORY-001
-extended_by:
-- THEORY-005
-- THEORY-009
 answers:
 - QUESTION-245
 ---

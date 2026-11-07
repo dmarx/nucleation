@@ -26,8 +26,6 @@ summary: >-
   admit no All-vs-Nothing argument over any ring, by Thm 21 read
   contrapositively. The witness is possibilistic, so it cannot grade
   anything below strong contextuality.
-extended_by:
-- THEORY-524
 ---
 
 

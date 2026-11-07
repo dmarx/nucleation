@@ -43,9 +43,9 @@ That cost showed in three ways.
 - **Stored copies could disagree.** 129 values were written only on the
   converse side, most of them CLAIM `corroborated_by` naming a reading whose
   `corroborates` lacked the claim. Four more named codes that no longer exist
-  (LIT-862, LIT-863, LIT-1542 and LIT-1171 carried old-style codes for
-  LIT-860, LIT-002 and LIT-048).
-- **A new scheme widened every target.** ADR-077 gave SYNTHESIS
+  ([LIT-862](../literature.d/LIT-862.md), [LIT-863](../literature.d/LIT-863.md), [LIT-1542](../literature.d/LIT-1542.md) and [LIT-1171](../literature.d/LIT-1171.md) carried old-style codes for
+  [LIT-860](../literature.d/LIT-860.md), [LIT-002](../literature.d/LIT-002.md) and [LIT-048](../literature.d/LIT-048.md)).
+- **A new scheme widened every target.** [ADR-077](ADR-077.md) gave SYNTHESIS
   `grounds`, `uses` and `corroborated_by`, and had to widen six stored
   converses on five other schemes to accept it.
 
@@ -74,8 +74,8 @@ The owner asked for the switch on 2026-11-07.
   `link --fix` still writes both ends.
 - **A derived field is still declared,** so the converse names every scheme
   that may hold the relation. A new scheme still widens those declarations,
-  as ADR-077 did; what changes is that nothing is stored there.
-- **The sweep is the demonstration (ADR-071).** This pull request changes
+  as [ADR-077](ADR-077.md) did; what changes is that nothing is stored there.
+- **The sweep is the demonstration ([ADR-071](ADR-071.md)).** This pull request changes
   only the config and fixes the four broken codes. CI's `luria repair` then
   drops the stored converses that the primary side already holds, and
   moves the 129 that it does not onto the primary side of the entry

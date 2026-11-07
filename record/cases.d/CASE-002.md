@@ -14,8 +14,6 @@ date: '2026-10-05'
 line: will-organization
 variant_of:
 - CASE-023
-supports:
-- ARG-001
 summary: >-
   A severe-incident rule with strong precedence, whose force depends on
   which team controls severity classification, plus a business-critical

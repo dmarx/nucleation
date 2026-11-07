@@ -35,9 +35,6 @@ summary: >-
   4.2, Prop 4.3 — proved. Spekkens's odd-d stabilizer Wigner representation
   ([LIT-007](../literature.d/LIT-007.md)) is a worked instance. The theorem gives no test for whether a
   positive representation exists.
-extended_by:
-- THEORY-014
-- THEORY-015
 answers:
 - QUESTION-246
 ---

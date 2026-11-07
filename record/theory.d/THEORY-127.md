@@ -67,12 +67,8 @@ summary: >-
   stated connectedness conditions: the record re-derived Proposition 3
   (and Proposition 2 as a corollary) itself. The extension to corporate
   attitudes in general is QUESTION-152.
-presupposed_by:
-- THEORY-139
 extends:
 - THEORY-725
-supports:
-- CLAIM-030
 ---
 <!-- inactive-ok-file: THEORY-536 — Proposed; the authors' replies, named in Connections, not leaned on -->
 <!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->

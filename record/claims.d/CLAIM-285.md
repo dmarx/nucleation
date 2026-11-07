@@ -61,6 +61,7 @@ rests_on:
 uses:
 - TERM-103
 - TERM-101
+- TERM-053
 summary: >-
   The owner's design at U2 of the 2026-10-13 exchange: operators vote on
   one another's influence, cannot significantly manipulate their own, and
@@ -71,9 +72,6 @@ summary: >-
   them, empowering a better-placed ally is a way to get one's policies
   realized without becoming more powerful. It does not say such schemes
   resist collusion, or that alignment makes delegation wise.
-illustrated_by:
-- CASE-079
-- CASE-080
 complements:
 - CLAIM-272
 - CLAIM-281

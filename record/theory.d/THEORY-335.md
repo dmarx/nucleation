@@ -44,9 +44,6 @@ summary: >-
   never moved (BF01 ≈ 21), but the same tasks missed direct picture priming.
   So the direct evidence is removed, not reversed; the account is neither
   refuted nor shown. Mussweiler & Strack 1999 ([LIT-1078](../literature.d/LIT-1078.md)) is Unavailable.
-supports:
-- CLAIM-298
-- CLAIM-315
 bears_on:
 - QUESTION-109
 - QUESTION-323

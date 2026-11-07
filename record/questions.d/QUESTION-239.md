@@ -27,8 +27,6 @@ summary: >-
   interpretation bends the reading of the evidence no more than it bends
   the predictions. Which source in one mind does the scoring stays with
   [QUESTION-121](QUESTION-121.md).
-answered_by:
-- CLAIM-340
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

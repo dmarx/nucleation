@@ -10,8 +10,6 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-035
 superseded_by:
 - TERM-031
 - TERM-026
@@ -21,9 +19,6 @@ summary: >-
   and made of public conventions. Built for the relativity analogy, and
   given up twice: at A24 for a measurement context, at A30 for an
   operator.
-used_by:
-- CLAIM-102
-- CLAIM-109
 ---
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 

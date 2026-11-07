@@ -29,16 +29,6 @@ summary: >-
   relevance and acquisition as three relations and asks when they agree.
   An answer is a theorem giving sufficient conditions for a common chain,
   or a minimal family of counterexamples.
-refined_by:
-- QUESTION-220
-bearing:
-- THEORY-759
-- CLAIM-394
-- THEORY-775
-- THEORY-774
-- THEORY-758
-- THEORY-746
-- THEORY-745
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->

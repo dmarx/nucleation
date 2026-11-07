@@ -17,8 +17,6 @@ summary: >-
   dimensions (semantic, formal, rhyme, tone, pragmatic), traded off on a
   Pareto frontier. Undercut in the same reply by the mother's
   translation.
-used_by:
-- CLAIM-020
 ---
 <!-- inactive-ok-file: CLAIM-020 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: TERM-013 — Superseded; replaced, and cited as the history this entry answers or replaces -->

@@ -31,8 +31,6 @@ summary: >-
   organization become unable to recognize or act upon evidence that its
   own organization of interpretation and authority has rendered
   inconsequential?" Not run.
-variants:
-- CASE-158
 ---
 
 # CASE-144: The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent

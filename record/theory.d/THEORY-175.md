@@ -44,10 +44,6 @@ summary: >-
   0.10–0.39. It does not say the maps between trained spaces are
   isometries, which the source never measures ([QUESTION-211](../questions.d/QUESTION-211.md)), nor that
   the transfer needs no paired data: the anchors are paired data.
-supports:
-- CLAIM-126
-extended_by:
-- THEORY-798
 ---
 <!-- inactive-ok-file: THEORY-798 — Proposed; the wider hypothesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 

@@ -56,12 +56,6 @@ summary: >-
   from when fidelity is measured (at a read, relative to an actual one),
   which the line had left unsettled. It does not say what a text means
   to a given reader is fixed.
-illustrated_by:
-- CASE-048
-objected_by:
-- CLAIM-171
-corroborated_by:
-- THEORY-444
 bears_on:
 - QUESTION-029
 ---

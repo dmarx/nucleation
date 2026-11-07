@@ -17,9 +17,6 @@ summary: >-
   conclusion are said to follow by the same reasoning; the front-door
   proof is deferred. All conditions are sufficient, and Assumption 2.3 is
   untestable from observational data. Two worked effects were checked.
-supports:
-- CLAIM-333
-- CLAIM-334
 ---
 
 # THEORY-704: In a stationary multivariate time series whose components include every relevant process, with interventions that are isolated exogenous changes and no instantaneous causation, a missing Granger-causal edge from a to b means intervening on a has no effect on b at the next step, non-ancestry means no effect at any horizon, and a set whose observed past blocks every back-door path into b's ancestors identifies the effect from observational data, as a multi-step linear-predictor coefficient in the Gaussian case

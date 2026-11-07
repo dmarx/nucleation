@@ -49,8 +49,6 @@ summary: >-
   needs from them is prevalence and magnitude, which none states. Granted:
   each point is read off the texts. It does not say the theses are false
   or untestable in principle.
-objected_by:
-- CLAIM-239
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-087 CLAIM-105 CLAIM-033 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-147 CLAIM-128 CLAIM-117 CLAIM-044 CLAIM-054 CLAIM-137 CLAIM-095 — Proposed; open, cited for the wording of their defeat conditions or their place in the chain, not as settled -->

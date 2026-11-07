@@ -38,10 +38,6 @@ summary: >-
   depends on the source–source marginal, are argued, not proved. Whether it is
   the right redundancy measure is open (QUESTION-223). It meets Rauh et al.'s −1-bit bound
   exactly on XORCOPY.
-supports:
-- CLAIM-343
-extended_by:
-- THEORY-804
 ---
 <!-- inactive-ok-file: THEORY-804 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

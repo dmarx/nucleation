@@ -71,10 +71,6 @@ summary: >-
 complements:
 - CLAIM-174
 - CLAIM-155
-objected_by:
-- CLAIM-168
-supports:
-- CLAIM-367
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-166 CLAIM-168 CLAIM-174 — Proposed; the owner's drive claim, the open objection and the admission test, open -->

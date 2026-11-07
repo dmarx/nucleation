@@ -43,8 +43,6 @@ summary: >-
   the temporal regularity of grants that then steers grants. It
   does not say that such a variable individuates one collective: five
   slow variables sharing a referent may be five processes.
-illustrated_by:
-- CASE-098
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1840 LIT-1828 — Unavailable since 2026-10-29; the two Flack 2006 papers, cited in the note of that date as not reached, nothing here rests on them -->

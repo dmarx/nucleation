@@ -20,10 +20,6 @@ summary: >-
   doorway-option agents never used it (mean 11.79 against 9.73 steps). It
   is a result about the model. That people or brains work this way is the
   separate, proposed account [THEORY-484](THEORY-484.md).
-presupposed_by:
-- THEORY-484
-supports:
-- CLAIM-344
 ---
 <!-- inactive-ok-file: THEORY-062 THEORY-484 — Proposed; named in Connections, not leaned on -->
 

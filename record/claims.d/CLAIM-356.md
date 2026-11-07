@@ -56,9 +56,6 @@ objects_to:
 complements:
 - CLAIM-174
 - CLAIM-367
-corroborated_by:
-- THEORY-047
-- THEORY-054
 uses:
 - TERM-100
 summary: >-

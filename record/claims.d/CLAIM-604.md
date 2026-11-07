@@ -63,8 +63,6 @@ complements:
 - CLAIM-516
 grounds:
 - THEORY-1270
-corroborated_by:
-- THEORY-072
 bears_on:
 - QUESTION-085
 - QUESTION-399

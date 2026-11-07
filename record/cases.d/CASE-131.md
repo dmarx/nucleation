@@ -12,8 +12,6 @@ tags:
 - epistemology
 date: '2026-10-22'
 line: nucleating-argument
-supports:
-- CLAIM-419
 illustrates:
 - CLAIM-181
 summary: >-

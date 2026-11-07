@@ -39,8 +39,6 @@ summary: >-
   rendering with the same literal content can carry a different
   posterior. Granted, because it follows from the model as the record
   states it. It does not say the model is wrong or [CLAIM-111](CLAIM-111.md) false.
-objected_by:
-- CLAIM-214
 ---
 <!-- inactive-ok-file: CLAIM-111 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; the central theses, cited only to say this claim is not their premise -->

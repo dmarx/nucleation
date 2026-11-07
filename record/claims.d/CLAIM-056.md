@@ -68,13 +68,6 @@ summary: >-
   The manuscript later restricts the expansive regime: for stochastic
   kernels in total variation, contraction coefficients do not exceed
   one.
-supports:
-- CLAIM-081
-- CLAIM-114
-- CLAIM-059
-objected_by:
-- CLAIM-031
-- CLAIM-208
 ---
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

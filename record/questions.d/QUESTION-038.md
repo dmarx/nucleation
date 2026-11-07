@@ -26,14 +26,6 @@ summary: >-
   as an anchor. The first is not enough for the second. An answer names
   what availability takes, and how a record could tell an anchor from a
   structure that merely persists.
-answered_by:
-- CLAIM-182
-refined_by:
-- QUESTION-064
-- QUESTION-098
-- QUESTION-108
-bearing:
-- CLAIM-180
 ---
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->

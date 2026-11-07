@@ -10,16 +10,12 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-001
 superseded_by:
 - TERM-021
 summary: >-
   A18: a rendering is faithful when its pragmatic signature in the
   target frame matches the source's in its own frame, I_g(u_g) ≈
   I_f(u_f). Replaced at A24 by distribution matching over contexts.
-used_by:
-- CLAIM-102
 ---
 <!-- inactive-ok-file: TERM-001 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

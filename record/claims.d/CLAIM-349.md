@@ -78,10 +78,6 @@ rests_on:
 - CLAIM-027
 uses:
 - TERM-020
-corroborated_by:
-- CLAIM-156
-- THEORY-050
-- THEORY-051
 summary: >-
   The owner's idea, U42 of the exchange of 2026-10-17, on A41's line that
   an organization "could become extremely resistant to internal changes
@@ -95,13 +91,6 @@ summary: >-
   from human treatment, the organizational classes are A42's proposals,
   not diagnoses, and RO-DBT's own evidence is "promising but not
   definitive".
-supports:
-- CLAIM-403
-- CLAIM-425
-- CLAIM-446
-illustrated_by:
-- CASE-127
-- CASE-129
 complements:
 - CLAIM-432
 - CLAIM-443

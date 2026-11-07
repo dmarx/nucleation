@@ -38,8 +38,6 @@ grounds:
 - CASE-015
 objects_to:
 - CLAIM-067
-supersedes:
-- CLAIM-067
 uses:
 - TERM-015
 - TERM-008
@@ -48,13 +46,6 @@ summary: >-
   correction") and made the thesis of outline v4. The manuscript §12:
   "stochastic transport generalizes exact equivalence to graded
   fidelity."
-supports:
-- CLAIM-056
-- CLAIM-101
-- CLAIM-128
-- CLAIM-246
-objected_by:
-- CLAIM-218
 complements:
 - CLAIM-210
 - CLAIM-259

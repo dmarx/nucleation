@@ -19,9 +19,6 @@ summary: >-
   A97 §6: compare text-only, image-only, alternating, and alternating
   with explicit preservation of pragmatic constraints. The manuscript's
   Case III keeps alternating against text-only. Proposed, not run.
-supports:
-- CLAIM-208
-- CLAIM-222
 ---
 <!-- inactive-ok-file: CLAIM-076 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

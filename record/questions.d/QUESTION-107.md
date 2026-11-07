@@ -19,8 +19,6 @@ summary: >-
   information retrieval: query expansion, relevance feedback, intent classification
   and slot filling. Classical IR named query drift ([LIT-1079](../literature.d/LIT-1079.md), unread). An agent
   that rewrites its own task adds [TERM-056](../terms.d/TERM-056.md).
-bearing:
-- CLAIM-301
 ---
 <!-- inactive-ok-file: CLAIM-301 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

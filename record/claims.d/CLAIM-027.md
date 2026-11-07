@@ -53,29 +53,12 @@ rests_on:
 uses:
 - TERM-023
 - TERM-019
-argued_by:
-- ARG-005
-- ARG-009
-objected_by:
-- CLAIM-010
-- CLAIM-089
-illustrated_by:
-- CASE-023
-- CASE-135
 summary: >-
   The paper's central thesis, Active since the status review of
   2026-10-28. The audit called it the strongest original contribution.
   The comparison with planning, executive control and institutional
   decision procedures it owed is now owed by [CLAIM-487](CLAIM-487.md), the gain
   claim, which stays Proposed.
-supersedes:
-- CLAIM-012
-supports:
-- CLAIM-156
-- CLAIM-352
-- CLAIM-353
-- CLAIM-367
-- CLAIM-368
 complements:
 - CLAIM-159
 - CLAIM-283

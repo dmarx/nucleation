@@ -49,8 +49,6 @@ summary: >-
   threshold images only, sparse right-lateralised frontal coverage, one
   frequency band; it does not show the code tracks experience rather than
   input.
-extended_by:
-- THEORY-830
 bears_on:
 - QUESTION-061
 ---

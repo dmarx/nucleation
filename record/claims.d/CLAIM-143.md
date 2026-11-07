@@ -72,12 +72,6 @@ summary: >-
   descriptions extend jointly. A173 proposed it as a design principle;
   it is a thesis of the line. The relativity example motivates it and
   is not evidence for it.
-illustrated_by:
-- CASE-039
-supports:
-- CLAIM-133
-objected_by:
-- CLAIM-238
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-037 CLAIM-044 CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the same analogy, which this claim does not revive -->

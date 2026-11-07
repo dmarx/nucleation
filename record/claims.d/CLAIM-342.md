@@ -75,10 +75,6 @@ summary: >-
   locks in with action available, because its own sampling policy
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
-supports:
-- CLAIM-402
-- CLAIM-404
-- CLAIM-413
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->

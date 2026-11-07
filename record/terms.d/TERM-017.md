@@ -10,14 +10,6 @@ tags:
 - society-and-governance
 date: '2026-10-04'
 line: will-organization
-used_by:
-- CLAIM-057
-- CLAIM-086
-- CLAIM-156
-- CLAIM-283
-- CLAIM-367
-- CLAIM-410
-- CLAIM-442
 summary: >-
   Three relations among rules that are easily conflated: precedence orders
   applicable constraints, jurisdiction governs which apply, suspension

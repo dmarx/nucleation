@@ -67,10 +67,6 @@ summary: >-
   political revolution are not the same kind of forgetting, and the claim
   says only that both separate a capacity's existence from the
   availability of the conditions for exercising it.
-illustrated_by:
-- CASE-136
-- CASE-169
-- CASE-172
 ---
 
 # CLAIM-421: The cessation of an organizational perspective's enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition

@@ -46,9 +46,6 @@ summary: >-
   and that higher organisational levels run slower, are assertion and
   "probably true". The watchmaker argument is a model whose numbers he
   says not to take seriously.
-supports:
-- CLAIM-157
-- CLAIM-331
 ---
 <!-- inactive-ok-file: LIT-1127 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; claims that rest on this result and neighbouring accounts, named for context -->

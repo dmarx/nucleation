@@ -75,12 +75,6 @@ summary: >-
   to "may be better guides to its kind". Since version 2 it says the
   realizations must share a symmetry group anchored on the situation
   (CLAIM-249).
-objected_by:
-- CLAIM-132
-- CLAIM-246
-- CLAIM-249
-illustrated_by:
-- CASE-057
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-136 — Proposed; the constitution claim this rests on and the individuation claim beside it, both open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as the manuscript's thesis this claim was filed beside -->

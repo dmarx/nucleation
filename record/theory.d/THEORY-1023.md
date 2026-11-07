@@ -28,8 +28,6 @@ summary: >-
   linear and so additive, and its blind spots follow from linearity:
   saturation, interaction between features, and LayerNorm's scale
   invariance.
-extended_by:
-- THEORY-1021
 ---
 <!-- inactive-ok-file: THEORY-1021 — Proposed; the post's empirical account of where the estimate is reliable, cited as open -->
 # THEORY-1023: Attribution patching estimates the effect of patching an activation from a clean run into a corrupted run as the difference between the two activations dotted with the gradient of the metric on the corrupted run, so the estimates for every activation come from two forward passes and one backward pass and add over sub-components; the estimate is exact when the metric is affine in the activation, gives no effect for a nonlinearity in saturation whatever the true change, and through LayerNorm ignores the component of a patch along the vector being normalized

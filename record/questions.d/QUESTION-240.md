@@ -18,9 +18,6 @@ summary: >-
   for overlap consistency and [CLAIM-070](../claims.d/CLAIM-070.md) for global extendability. Both
   are sufficient conditions. Whether they are necessary, and what
   transports that change the cover do, stays with [QUESTION-022](QUESTION-022.md).
-answered_by:
-- CLAIM-070
-- CLAIM-121
 ---
 
 # QUESTION-240: Does a transport whose local kernels commute with restriction preserve overlap consistency, and does a transport induced by one global stochastic kernel preserve global extendability?

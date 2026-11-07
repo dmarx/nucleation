@@ -12,8 +12,6 @@ date: '2026-10-04'
 line: will-organization
 superseded_by:
 - TERM-023
-used_by:
-- CLAIM-012
 summary: >-
   Will defined dynamically: a higher-order attractor that stabilizes which
   first-order regimes govern action. The owner's operational definition at

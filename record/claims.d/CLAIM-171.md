@@ -24,8 +24,6 @@ summary: >-
   for the reader, not in what it was made to do) works only if the
   writer's frame is itself recoverable, and that is [QUESTION-031](../questions.d/QUESTION-031.md)'s
   problem.
-illustrated_by:
-- CASE-048
 ---
 <!-- inactive-ok-file: CLAIM-111 CLAIM-160 — Proposed; the support and the target, both open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->

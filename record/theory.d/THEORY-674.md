@@ -38,8 +38,6 @@ summary: >-
   regressions over different subsamples and is not part of this claim.
   Promoted 2026-10-20 on the measurement alone (ADR-047 v3); the economics
   claim is held as THEORY-824.
-extended_by:
-- THEORY-824
 ---
 <!-- inactive-ok-file: THEORY-451 — Proposed; Cartwright's account, named as a neighbour, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-079 — Proposed by its close reading for edges never validated against human labels; the only source, and the narrowed title states that limit -->

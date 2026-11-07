@@ -17,20 +17,6 @@ summary: >-
   [CLAIM-132](../claims.d/CLAIM-132.md), [CLAIM-148](../claims.d/CLAIM-148.md), [CLAIM-135](../claims.d/CLAIM-135.md) and [CLAIM-193](../claims.d/CLAIM-193.md). [THEORY-022](../theory.d/THEORY-022.md),
   [THEORY-181](../theory.d/THEORY-181.md), [THEORY-021](../theory.d/THEORY-021.md) and [THEORY-184](../theory.d/THEORY-184.md) answer it in part; the body gives
   each one's limit.
-refined_by:
-- QUESTION-145
-- QUESTION-199
-- QUESTION-206
-bearing:
-- THEORY-288
-- THEORY-210
-- THEORY-022
-- THEORY-445
-- THEORY-284
-- THEORY-213
-- THEORY-184
-- THEORY-021
-- THEORY-181
 ---
 <!-- inactive-ok-file: THEORY-288 — Proposed; partial answers filed today, cited with their limits -->
 

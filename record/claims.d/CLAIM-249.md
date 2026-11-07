@@ -33,8 +33,6 @@ summary: >-
   chooses, with its action on each medium fixed independently: [CLAIM-011](CLAIM-011.md)'s
   anchoring once more. Granted, because the argument is elementary.
   [CLAIM-132](CLAIM-132.md) and [TERM-041](../terms.d/TERM-041.md) hold neighbouring limits, not this one.
-illustrated_by:
-- CASE-057
 ---
 <!-- inactive-ok-file: CLAIM-137 — Proposed; the owner's thesis, open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-103 — Proposed; cited for the semigroup of transformations and the invertible core of stochastic maps, open -->

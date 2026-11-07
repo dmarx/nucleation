@@ -42,11 +42,6 @@ summary: >-
   precedence ([THEORY-055](../theory.d/THEORY-055.md)); the kind of ordering is one over the system's
   own states by their bearing on its maintenance. Functional: it says
   nothing about whether the regime is felt.
-used_by:
-- CLAIM-440
-- CLAIM-449
-- CLAIM-441
-- CLAIM-442
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1462 — Unavailable or Proposed; Monderer and Shapley, read second-hand, and its reading -->

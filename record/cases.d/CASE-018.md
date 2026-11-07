@@ -17,13 +17,9 @@ summary: >-
   one teases, another reproaches, another condemns, another entertains.
   Words held fixed, act changed. Survives as the joke/reprimand contrast
   (§2) and the social-alignment manipulation of Case III (§10).
-supports:
-- ARG-002
-- CLAIM-061
+illustrates:
+- CLAIM-091
 - CLAIM-151
-- CLAIM-221
-- CLAIM-224
-- CLAIM-229
 ---
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

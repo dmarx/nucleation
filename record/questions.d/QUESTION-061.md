@@ -34,13 +34,6 @@ tags:
 - cognition
 date: '2026-10-12'
 line: 'organizational-affect'
-answered_by:
-- THEORY-096
-bearing:
-- THEORY-098
-- THEORY-102
-- THEORY-103
-- THEORY-245
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-003](../claims.d/CLAIM-003.md). [THEORY-096](../theory.d/THEORY-096.md),

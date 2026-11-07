@@ -16,8 +16,6 @@ grounds:
 - LIT-436
 - THEORY-069
 - LIT-439
-objected_by:
-- CLAIM-045
 summary: >-
   The assistant's framing at A8: three accounts of distributed agency as
   three rival pictures of the whole. Rejected after the owner's objection

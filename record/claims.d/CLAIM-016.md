@@ -20,9 +20,6 @@ answers:
 uses:
 - TERM-006
 - TERM-012
-supports:
-- CLAIM-096
-- CLAIM-104
 grounds:
 - THEORY-054
 - THEORY-047

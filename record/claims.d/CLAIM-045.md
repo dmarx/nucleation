@@ -32,8 +32,6 @@ summary: >-
   The owner's correction at U7: the three views are "perfectly mutually
   compatible ... complementary components of one theory". The case that
   made the record want a `complements` relation.
-corroborated_by:
-- THEORY-069
 ---
 
 # CLAIM-045: Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question

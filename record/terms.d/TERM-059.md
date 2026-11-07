@@ -22,8 +22,6 @@ summary: >-
   standards themselves. The indexing is
   [CLAIM-363](../claims.d/CLAIM-363.md)'s thesis, and the realism about standards is
   [QUESTION-129](../questions.d/QUESTION-129.md)'s open question.
-used_by:
-- CLAIM-363
 ---
 
 # TERM-059: relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: the position that a normative judgment indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard is correct or incorrect whatever the judge prefers, and that which frames, perspectives and standards are admissible is itself constrained, the second of which the record has not established

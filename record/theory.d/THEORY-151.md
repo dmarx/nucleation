@@ -40,6 +40,8 @@ summary: >-
   and the norms' epistemic benefit is argued rather than shown.
 bears_on:
 - QUESTION-047
+corroborates:
+- CLAIM-403
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account filed in this batch -->

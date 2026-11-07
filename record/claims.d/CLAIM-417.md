@@ -68,12 +68,6 @@ summary: >-
   across several, a recognizable character shared by many, a causal lineage
   of realizations, and representations of any of these. The exchange ran these together; the claim
   does not.
-illustrated_by:
-- CASE-130
-- CASE-133
-- CASE-134
-- CASE-137
-- CASE-139
 ---
 <!-- inactive-ok-file: CLAIM-137 CLAIM-196 CLAIM-329 CLAIM-355 CLAIM-412 CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

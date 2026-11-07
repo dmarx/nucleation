@@ -21,8 +21,6 @@ summary: >-
   with different interpersonal configurations. Conditions A and B are
   the manuscript's §7 example; condition C, the natural control, was
   dropped.
-variants:
-- CASE-040
 ---
 <!-- inactive-ok-file: CLAIM-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

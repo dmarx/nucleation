@@ -43,11 +43,6 @@ summary: >-
   manuscripts drafted from them (workbench 2026/10/09/025539,
   2026/10/10/040457). Proposed: the record is kept beside the manuscript,
   and nothing generates a manuscript from it.
-objected_by:
-- CLAIM-181
-supports:
-- CLAIM-183
-- CLAIM-189
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->

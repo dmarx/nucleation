@@ -51,11 +51,6 @@ line:
 rests_on:
 - CLAIM-152
 - CLAIM-075
-corroborated_by:
-- THEORY-162
-- THEORY-220
-- THEORY-665
-- THEORY-625
 uses:
 - TERM-059
 summary: >-

@@ -31,9 +31,6 @@ summary: >-
   respond to funding. A merit-based independent funder worsens it; one
   ignoring industry-funded trials counters it. Held as what the model
   shows; whether real fields work this way is QUESTION-315.
-supports:
-- CLAIM-276
-- CLAIM-404
 bears_on:
 - QUESTION-047
 - QUESTION-315

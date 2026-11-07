@@ -80,9 +80,6 @@ summary: >-
   Watanabe's singular learning are given different jobs in one modelling
   architecture, alongside bounded legibility and the communicative-act
   account, rather than read as rival characterizations.
-illustrated_by:
-- CASE-152
-- CASE-159
 ---
 <!-- inactive-ok-file: THEORY-665 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 

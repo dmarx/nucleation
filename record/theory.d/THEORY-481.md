@@ -82,6 +82,8 @@ summary: >-
 bears_on:
 - QUESTION-039
 - QUESTION-305
+corroborates:
+- CLAIM-118
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the two-layer random-start claim, the analogue of QUESTION-305, cited not leaned on -->
 <!-- inactive-ok-file: THEORY-212 — Proposed; the claim this reading corroborates and neighbouring accounts, named in Connections, not leaned on -->

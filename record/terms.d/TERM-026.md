@@ -10,16 +10,10 @@ tags:
 - philosophy-of-language
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-016
 summary: >-
   A30: applying a frame transforms the interpretive state that later
   frames act on, so frames can fail to commute. Survives as the
   manuscript's stochastic framing operations (§9).
-used_by:
-- CLAIM-052
-- CLAIM-127
-- CLAIM-341
 superseded_by:
 - TERM-018
 complements:

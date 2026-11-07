@@ -50,8 +50,6 @@ summary: >-
   rhetorical styles, reaches the record secondhand through Meyrowitz, who
   is unread. Proposed because it rests on a skim and on unmeasured
   evidence.
-supports:
-- CLAIM-317
 ---
 <!-- inactive-ok-file: NOTE-710 NOTE-1432 — Skimmed; the readings this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: CLAIM-196 CLAIM-317 — Proposed; the record's own claims that ground in this reading, named in Connections -->

@@ -48,11 +48,6 @@ summary: 'The general content of [CLAIM-149](CLAIM-149.md), filed alone under [A
   of what was preserved. [CASE-041](../cases.d/CASE-041.md) is a documented instance: a Projected FastGAN
   trained against ImageNet features matches StyleGAN2''s FID, also computed
   in ImageNet features, while doing worse in CLIP space and with human judges.'
-illustrated_by:
-- CASE-071
-supports:
-- CLAIM-149
-- CLAIM-190
 ---
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 

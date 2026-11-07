@@ -93,9 +93,6 @@ summary: >-
   a slow variable is thereby a level, a system or an individual.
 complements:
 - CLAIM-327
-supports:
-- CLAIM-344
-- CLAIM-423
 ---
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->

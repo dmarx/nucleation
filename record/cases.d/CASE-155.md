@@ -42,12 +42,6 @@ summary: >-
   replicator dynamic. Evidence-tracking authority is then Bayesian, and
   authority-dependent scoring gives lock-in with an explicit correction
   threshold.
-supports:
-- CLAIM-444
-- CLAIM-453
-variants:
-- CASE-157
-- CASE-162
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed, filed in this pull request -->
 

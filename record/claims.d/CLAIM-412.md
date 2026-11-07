@@ -113,10 +113,6 @@ summary: >-
   The step from organization to experience is an identity to be defended,
   not a theorem. Its open edge is the sufficiency condition, which
   [CLAIM-411](CLAIM-411.md) presses and [QUESTION-254](../questions.d/QUESTION-254.md) asks for.
-objected_by:
-- CLAIM-411
-corroborated_by:
-- THEORY-871
 ---
 <!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-355 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->

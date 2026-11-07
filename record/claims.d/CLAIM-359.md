@@ -70,11 +70,6 @@ summary: >-
   look alike. The sharp edge: Byzantine fault tolerance protects a fixed
   specification; this claim is about protecting the capacity to change it,
   which no protocol of that kind supplies.
-illustrated_by:
-- CASE-108
-corroborated_by:
-- THEORY-135
-- THEORY-141
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

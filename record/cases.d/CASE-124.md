@@ -47,12 +47,6 @@ summary: >-
   checked: one in which the two-variable loop is stable and the
   three-variable one is not, and one in which the system is stable but r
   holds a lean long after m and a would have decayed without it.
-supports:
-- CLAIM-400
-- CLAIM-448
-- CLAIM-444
-variants:
-- CASE-156
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

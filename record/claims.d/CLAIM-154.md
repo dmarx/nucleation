@@ -74,12 +74,6 @@ summary: >-
   when its gap beats its Occam factor. Re-checked here in the conjugate case.
   Narrowed to candidates whose model stays regular where they are switched
   off; where it is singular the rule overcharges (CLAIM-188).
-supports:
-- CLAIM-157
-- CLAIM-174
-- CLAIM-332
-objected_by:
-- CLAIM-188
 grounds:
 - THEORY-081
 - THEORY-087

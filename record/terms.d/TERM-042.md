@@ -10,8 +10,6 @@ tags:
 - philosophy-of-language
 date: '2026-10-10'
 line: pragmatic-transport
-supersedes:
-- TERM-002
 summary: >-
   The assistant found [TERM-002](TERM-002.md) vacuous at A125 §2. At the owner's U41
   request ("double click on this") it rewrote the definition at A129 §2.
@@ -19,12 +17,6 @@ summary: >-
   distributions with their restrictions. Whether it is compatible on
   overlaps and whether it extends globally are things to find out, not
   part of the definition.
-used_by:
-- CLAIM-038
-- CLAIM-044
-- CLAIM-131
-- CLAIM-133
-- CLAIM-247
 ---
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
 

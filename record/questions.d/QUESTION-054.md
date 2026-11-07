@@ -25,12 +25,6 @@ summary: >-
   (the expected value of control is computed in a distinct specification
   system) asserts one. [CLAIM-025](../claims.d/CLAIM-025.md) and [CLAIM-099](../claims.d/CLAIM-099.md) speak of a governing
   organization among regimes, so the answer matters to this line.
-bearing:
-- THEORY-878
-- CLAIM-358
-- THEORY-153
-- THEORY-062
-- THEORY-056
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

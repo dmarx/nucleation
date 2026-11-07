@@ -55,8 +55,6 @@ grounds:
 - CASE-124
 - THEORY-902
 - LIT-1482
-corroborated_by:
-- THEORY-916
 summary: >-
   From the exchange of 2026-10-24 (workbench entry of 2026-10-24, U19–U21),
   after the owner pointed to [CASE-124](../cases.d/CASE-124.md) ("i think we already have a three
@@ -66,9 +64,6 @@ summary: >-
   wins on which [CLAIM-440](CLAIM-440.md) reads valence can be acyclic for the wrong
   reason. Objects to reading a prevailing potential as an integrated
   organization's valence without a check on what was admitted.
-illustrated_by:
-- CASE-154
-- CASE-156
 ---
 <!-- inactive-ok-file: ARG-066 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-073 — filed from the same exchange, Proposed -->

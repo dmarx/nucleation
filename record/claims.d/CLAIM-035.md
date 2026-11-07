@@ -30,9 +30,6 @@ summary: >-
   A18's own limit on its analogy: "the physics analogy has a hard
   limit." Accepted at once. Its content reached the manuscript as the
   semigroup of §4.
-supports:
-- CLAIM-098
-- CLAIM-143
 complements:
 - CLAIM-144
 ---

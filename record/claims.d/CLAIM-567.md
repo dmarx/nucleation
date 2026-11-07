@@ -40,11 +40,6 @@ line:
 - formal-apparatus
 rests_on:
 - CLAIM-571
-corroborated_by:
-- THEORY-1423
-- THEORY-1418
-- THEORY-1427
-- THEORY-1409
 complements:
 - CLAIM-357
 - CLAIM-347

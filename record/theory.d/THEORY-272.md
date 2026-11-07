@@ -39,8 +39,6 @@ summary: >-
   is simulation at N = 30 and 100. It does not say that spurious states
   come only from overload: they appear at a low load too. Nor does it say
   anything about addressed memory.
-extended_by:
-- THEORY-800
 ---
 <!-- inactive-ok-file: THEORY-800 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-179 CLAIM-180 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->

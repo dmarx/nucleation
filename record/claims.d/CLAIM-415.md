@@ -89,12 +89,6 @@ summary: >-
   collective attitude itself is already held (List's falsely attributed
   common attitudes, [CASE-104](../cases.d/CASE-104.md)); what is new is its place in a person's own
   organization.
-illustrated_by:
-- CASE-140
-- CASE-141
-- CASE-142
-supports:
-- CLAIM-425
 ---
 <!-- inactive-ok-file: LIT-1370 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

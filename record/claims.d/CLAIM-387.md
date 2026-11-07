@@ -30,8 +30,8 @@ summary: >-
   laminar, so no fixed tree holds both as prunings, and [NOTE-676](../notes.d/NOTE-676.md)'s nesting
   is bought by its tree restriction. It says nothing about stochastic
   encoders, where finite-β optima generally live ([THEORY-743](../theory.d/THEORY-743.md)).
-supports:
-- CLAIM-392
+corroborates:
+- CLAIM-405
 ---
 # CLAIM-387: Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other
 

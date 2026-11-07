@@ -86,9 +86,6 @@ summary: >-
   record meets "causal-organizational continuity": [CLAIM-280](CLAIM-280.md) noted A10
   §4.3's of 2026-10-13 and did not file it. It does not say what must be
   transmitted, or settle branching successors.
-illustrated_by:
-- CASE-116
-- CASE-133
 ---
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->

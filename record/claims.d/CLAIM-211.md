@@ -38,8 +38,6 @@ summary: >-
   [CLAIM-139](CLAIM-139.md) answers only [QUESTION-029](../questions.d/QUESTION-029.md). Granted: it is a comparison of
   texts and of the record's relations. It does not say which criterion is
   right.
-objected_by:
-- CLAIM-223
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; the two theses compared, as worded -->
 

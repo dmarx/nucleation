@@ -32,8 +32,6 @@ summary: >-
   introspective models attributing primitive relations of acquaintance, is
   "closer to a fleshed-out explanandum" than an explanation, and the data
   the programme needs mostly do not exist.
-supports:
-- CLAIM-337
 bears_on:
 - QUESTION-048
 ---

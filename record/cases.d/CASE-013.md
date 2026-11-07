@@ -12,17 +12,10 @@ tags:
 - self-governance
 date: '2026-10-04'
 line: will-organization
-supports:
-- ARG-005
-- CLAIM-122
 summary: >-
   A writer sincerely committed to finishing an article while avoidance
   governs the afternoon; who later blocks distracting websites. The
   individual-scale case (Sections 1, 3.5).
-variants:
-- CASE-051
-- CASE-109
-- CASE-128
 illustrates:
 - CLAIM-261
 ---

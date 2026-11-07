@@ -38,10 +38,6 @@ summary: >-
   nothing in the coupling makes that form a subject, which [ADR-024](../decisions.d/ADR-024.md)
   reserves "self" for. Open: whether that is the sense of "self" worth
   asking about is itself in question.
-illustrated_by:
-- CASE-050
-objected_by:
-- CLAIM-175
 complements:
 - CLAIM-355
 ---

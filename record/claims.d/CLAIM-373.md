@@ -37,9 +37,6 @@ summary: >-
   in the two intertwining defects. [ARG-006](../arguments.d/ARG-006.md) is the exact case. It says nothing
   about whether the defects can be identified from data ([CLAIM-253](CLAIM-253.md)), or what
   bounds an observed order effect ([CLAIM-231](CLAIM-231.md)).
-supports:
-- ARG-006
-- CLAIM-063
 ---
 <!-- inactive-ok-file: CLAIM-063 — Proposed; the thesis this identity was split from and that rests on it, cited as open -->
 <!-- ref::uses-file: TERM-024 — the commutator is the noncommutativity of operations the term names -->

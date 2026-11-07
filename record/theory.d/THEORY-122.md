@@ -44,8 +44,6 @@ summary: >-
   wrong. The claim is a necessary condition. It does not by itself say
   whether the ability must include being able to do otherwise; that is
   [THEORY-118](THEORY-118.md).
-extended_by:
-- THEORY-118
 rivals:
 - THEORY-120
 answers:

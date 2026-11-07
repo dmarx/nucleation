@@ -32,6 +32,8 @@ summary: >-
   hold relative to the given objects, not by logical entailment, and include
   vacuous ones. It does not say that a concept lattice's existence tells
   anything about the system it describes: every relation has one.
+corroborates:
+- CLAIM-564
 ---
 <!-- inactive-ok-file: LIT-344 — Skimmed and new, Unavailable, or Proposed; cited from the reading of Ignatov (2015) as open -->
 

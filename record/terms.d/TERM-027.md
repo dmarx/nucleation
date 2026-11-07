@@ -15,10 +15,6 @@ summary: >-
   decoding convention rather than a preserved historical object" (A110
   §20). Used from A82 to C6 (whose §8 heading has it); the word does not
   appear in the manuscript.
-used_by:
-- CLAIM-068
-- CLAIM-107
-- CLAIM-276
 ---
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

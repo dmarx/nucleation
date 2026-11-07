@@ -61,13 +61,9 @@ summary: >-
   contextuality readings, which the assistant said it "couldn't reopen".
   The manuscript §3: "an empirical model can remain well-defined even
   without a global hidden meaning state."
-supports:
-- CLAIM-105
 complements:
 - CLAIM-043
 - CLAIM-131
-argued_by:
-- ARG-010
 ---
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-119 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; the definition version 1 was stated in, cited as history -->

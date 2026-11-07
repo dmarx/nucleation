@@ -28,8 +28,6 @@ summary: >-
   questions (A110 §IX). Propositions 1 and 2 give sufficient conditions,
   and that part is [QUESTION-240](QUESTION-240.md), Answered. Necessary conditions, and
   transports that change the cover, are open.
-refined_by:
-- QUESTION-240
 ---
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -21,8 +21,6 @@ tags:
 - individuation
 date: '2026-10-22'
 line: distributed-agency
-supports:
-- CLAIM-416
 illustrates:
 - CLAIM-417
 summary: >-

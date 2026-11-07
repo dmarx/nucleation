@@ -35,8 +35,6 @@ summary: >-
   or test a mixture. Sufficiency was always relative to the model and the family.
   [CLAIM-152](CLAIM-152.md) says the same of individuation by target; this says it of a retained
   state over time.
-supports:
-- CLAIM-295
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

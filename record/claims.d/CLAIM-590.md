@@ -66,8 +66,6 @@ rests_on:
 grounds:
 - CASE-206
 - THEORY-032
-corroborated_by:
-- THEORY-1376
 complements:
 - CLAIM-574
 - CLAIM-583

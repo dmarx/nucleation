@@ -51,8 +51,6 @@ summary: >-
   predictive, max-entropy-action and efficient agents are disjoint. The
   claim is an ensemble average, not a per-operation floor. Whether the
   bound fails without the two conditions is [QUESTION-191](../questions.d/QUESTION-191.md).
-extended_by:
-- THEORY-817
 ---
 <!-- inactive-ok-file: THEORY-817 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

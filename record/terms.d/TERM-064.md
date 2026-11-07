@@ -44,11 +44,6 @@ summary: >-
   is filed, with the regime and the direction in its body. Its formal core
   is [CLAIM-199](../claims.d/CLAIM-199.md)'s usable information. [CLAIM-081](../claims.d/CLAIM-081.md) holds the record's earlier
   use. Adopted by the owner on 2026-10-21. It recurs through A23 to A27.
-used_by:
-- CLAIM-404
-- CLAIM-400
-- CLAIM-448
-- CLAIM-450
 ---
 <!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed -->

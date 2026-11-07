@@ -39,10 +39,6 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
-corroborated_by:
-- THEORY-1434
-- THEORY-1376
-- THEORY-1415
 complements:
 - CLAIM-560
 - CLAIM-571

@@ -47,6 +47,10 @@ summary: >-
   correspondences the paper states and illustrates; the closed form is its
   Theorems 1 and 2. It treats one scalar energy only: nothing here covers
   several resources at once, which would need multi-parameter persistence.
+corroborates:
+- CLAIM-571
+- CLAIM-580
+- CLAIM-581
 ---
 
 # THEORY-1420: The sublevelset persistent homology of an energy landscape contains its disconnectivity graph as the zero-dimensional part and also records alternative transition paths and higher critical points, and for the alkane torsional landscape it has a closed form in every dimension

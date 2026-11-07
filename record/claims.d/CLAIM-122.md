@@ -57,14 +57,8 @@ uses:
 summary: >-
   The reply to [CLAIM-089](CLAIM-089.md) (Section 3.5), by precommitment in a person
   and escalation authority in a firm.
-illustrated_by:
-- CASE-074
-- CASE-112
-- CASE-125
 complements:
 - CLAIM-354
-corroborated_by:
-- CLAIM-407
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-120 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->

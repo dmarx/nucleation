@@ -33,8 +33,6 @@ summary: >-
   and [CLAIM-139](CLAIM-139.md)'s third disjunct is either always met or never decidable.
   It does not say kinds are unreal, and it is not [CLAIM-150](CLAIM-150.md)'s
   underdetermination of the ontology.
-objected_by:
-- CLAIM-217
 ---
 <!-- inactive-ok-file: CLAIM-139 CLAIM-142 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-137 — Proposed; open, cited as the premises the dilemma uses and a sibling defeat condition, not as settled -->

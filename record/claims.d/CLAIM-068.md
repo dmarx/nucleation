@@ -41,16 +41,11 @@ rests_on:
 - CLAIM-090
 uses:
 - TERM-027
-corroborated_by:
-- THEORY-173
-- THEORY-164
 summary: >-
   A50 §3 and §6, A52 §5.5 and §7.4–7.5, recovered. The manuscript keeps
   the stable conventional endpoint and one stance-drift example, but not
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
-illustrated_by:
-- CASE-068
 ---
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

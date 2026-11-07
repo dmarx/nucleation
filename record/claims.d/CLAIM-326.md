@@ -83,8 +83,6 @@ summary: >-
   symmetrization. It does not say this is the right decision term, which is
   [CLAIM-259](CLAIM-259.md)'s proposal, and it does not state the prior-free relation to Le
   Cam's deficiency.
-supports:
-- CLAIM-259
 ---
 <!-- inactive-ok-file: CLAIM-258 — Proposed; the proposal this was split from, the objection whose worked case it measures, and the directed-fidelity thesis, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named for the constants and not leaned on -->

@@ -56,8 +56,6 @@ uses:
 grounds:
 - LIT-1952
 - LIT-1948
-corroborated_by:
-- THEORY-614
 complements:
 - CLAIM-029
 bears_on:

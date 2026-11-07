@@ -21,10 +21,6 @@ summary: >-
   institutions with different powers, interests and jurisdictions, where
   correction may need several of them and none governs the rest. An answer
   names relations that could be checked in a case and could fail.
-bearing:
-- CLAIM-464
-- CLAIM-462
-- CLAIM-457
 ---
 
 # QUESTION-278: When several institutions can together produce an outcome, what relations among them must hold for a challenge to it to produce authorized, timely and effective correction, without their forming one collective agent?

@@ -33,8 +33,6 @@ summary: >-
   network fitting y = Qx. Spare width lets every minimum be moved, along
   segments of minima, to one a common centre can reach. No permutation
   symmetry is used, and nothing is claimed about trained networks.
-extended_by:
-- THEORY-110
 ---
 <!-- inactive-ok-file: THEORY-110 THEORY-109 — Proposed; the conjecture this was split from, and the precedent named in its history, neither leaned on -->
 

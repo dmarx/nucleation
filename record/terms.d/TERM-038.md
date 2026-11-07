@@ -16,10 +16,6 @@ summary: >-
   conditions, and relations that make an act the kind of act it is. It
   recurs at A203 §16 and A218 §2, and A191 §4 pairs it with three kinds
   of identification. None of the three entails the next.
-used_by:
-- CLAIM-130
-- CLAIM-150
-- CLAIM-151
 ---
 
 # TERM-038: descriptive, causal and constitutive relations of a communicative act

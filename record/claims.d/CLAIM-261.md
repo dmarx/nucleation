@@ -40,10 +40,6 @@ tags:
 - motivation
 date: '2026-10-12'
 line: will-organization
-illustrated_by:
-- CASE-013
-- CASE-051
-- CASE-074
 complements:
 - CLAIM-162
 - CLAIM-198
@@ -59,8 +55,6 @@ summary: >-
   divided, so synchronization is not what acting as one consists in.
   Synchronization is still better when it is available: nothing has to
   be overridden, and [CLAIM-162](CLAIM-162.md) says that is why flow is effortless.
-supports:
-- CLAIM-358
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-198 — Proposed; the record's open claims on synchronization and division, set beside this one -->
 

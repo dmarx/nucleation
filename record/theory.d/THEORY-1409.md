@@ -24,6 +24,8 @@ summary: >-
   the authors' 2016 criteria, not checked here. It does not say anything
   about stiffness, bending energy or noisy actuators, which the model
   leaves out, or about tessellations beyond monohedral quadrilateral ones.
+corroborates:
+- CLAIM-567
 ---
 
 # THEORY-1409: Hull and Tachi show that the Miura-ori and Chicken Wire origami tessellations cannot be uniquely self-folded by crease-local driving forces, while generic quadrilateral tessellations rotationally symmetric about the midpoints of the tile's sides, which have only two folding modes, can be

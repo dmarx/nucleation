@@ -59,8 +59,6 @@ summary: The general content of [CLAIM-143](CLAIM-143.md), filed alone under [AD
   and the sort cannot be made until a class of admissible transition maps is given. Inertial
   frames ([CASE-039](../cases.d/CASE-039.md)) show disagreement with no obstruction once the maps are
   known.
-supports:
-- CLAIM-143
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; cited for what each holds or applies, open, not settled -->
 

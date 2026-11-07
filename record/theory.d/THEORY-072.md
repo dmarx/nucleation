@@ -88,6 +88,7 @@ summary: >-
   Neither paper says closure defines an organism.
 corroborates:
 - CLAIM-194
+- CLAIM-604
 ---
 <!-- inactive-ok-file: LIT-536 LIT-529 LIT-524 — Unfetched or Unavailable; Biological Autonomy (Unfetched for its chapters; the Introduction is read in NOTE-1437), Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->

@@ -16,8 +16,6 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- CLAIM-055
 superseded_by:
 - CLAIM-065
 uses:

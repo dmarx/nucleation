@@ -21,8 +21,6 @@ summary: >-
   remain invariant": "symmetry is a kind of invariance, no? isn't that
   part of the point of Noether Theory?" Conceded at A105. Its Noether
   half was limited by the assistant in the same reply.
-supports:
-- CLAIM-113
 ---
 
 # CLAIM-040: Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation

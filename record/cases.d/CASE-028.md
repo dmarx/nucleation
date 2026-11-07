@@ -14,8 +14,6 @@ line: distributed-agency
 date: '2026-10-04'
 superseded_by:
 - CASE-006
-substituted_by:
-- CASE-006
 summary: >-
   The owner's case at U12: a company founded by researchers and
   open-source developers that churned almost its whole staff in a year and

@@ -21,10 +21,9 @@ tags:
 - representation-learning
 date: '2026-10-10'
 line: pragmatic-transport
-supports:
-- CLAIM-190
 illustrates:
 - CLAIM-149
+- CLAIM-266
 variant_of:
 - CASE-041
 summary: >-

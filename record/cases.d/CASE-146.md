@@ -12,9 +12,6 @@ tags:
 - moral-psychology
 date: '2026-10-22'
 line: distributed-agency
-supports:
-- CLAIM-429
-- CLAIM-430
 summary: >-
   From the exchange of 2026-10-22, "Ben Franklin Effect Explained", A4
   and A5, on the owner's U4 about intergroup contact. A4: "A prejudiced

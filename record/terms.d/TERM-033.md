@@ -16,12 +16,6 @@ summary: >-
   responses, P_o(Y_1:k | a_1:k) ≈ P_t(Y'_1:k | a'_1:k), with no shared
   latent state required. Put "at the center of the formal theory" at
   A39.
-used_by:
-- CLAIM-046
-- CLAIM-051
-- CLAIM-083
-- CLAIM-065
-- CLAIM-067
 superseded_by:
 - TERM-015
 ---

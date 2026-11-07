@@ -23,8 +23,6 @@ summary: >-
   too small, and every optimal radius assumes random patterns and
   addresses. The GPT-2 "confirmation" and the cerebellar implementation of
   attention are argument, not demonstration.
-supports:
-- CLAIM-298
 ---
 <!-- inactive-ok-file: CLAIM-180 CLAIM-298 — Proposed; the record's own claims that use this reading, named in Connections -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, named as the source of the critical distance, unread -->

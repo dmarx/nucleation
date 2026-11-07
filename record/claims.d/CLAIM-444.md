@@ -69,10 +69,6 @@ summary: >-
   population–policy duality fits the record's authority dynamics with one
   identification. Read as a reduction, it says what [CASE-124](../cases.d/CASE-124.md)'s extra
   states are for.
-illustrated_by:
-- CASE-155
-- CASE-157
-- CASE-159
 ---
 <!-- inactive-ok-file: CLAIM-451 — cited as the tools the reduction brings in -->
 

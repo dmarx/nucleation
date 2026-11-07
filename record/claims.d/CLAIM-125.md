@@ -63,8 +63,6 @@ grounds:
 - LIT-845
 - THEORY-1096
 - THEORY-177
-supersedes:
-- CLAIM-100
 summary: >-
   [CLAIM-100](CLAIM-100.md) narrowed. Simulations between empirical models already give
   directed stochastic transport between scenarios whose covers change,
@@ -73,10 +71,6 @@ summary: >-
 complements:
 - CLAIM-126
 - CLAIM-127
-objected_by:
-- CLAIM-207
-- CLAIM-237
-- CLAIM-245
 ---
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history this entry narrows -->

@@ -43,8 +43,6 @@ rests_on:
 - CLAIM-287
 grounds:
 - CASE-115
-corroborated_by:
-- THEORY-232
 summary: >-
   The owner's prompt, U38 of the exchange of 2026-10-17, on A37's line
   that deleting a demand "has changed the comparison problem": "it might

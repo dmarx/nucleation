@@ -29,8 +29,6 @@ summary: >-
   not selected. It is a property of a stylized model, which the authors
   call "how-potentially"; it does not show that any real audience was
   misled this way, nor that an audience aware of the selection would be.
-supports:
-- CLAIM-404
 bears_on:
 - QUESTION-047
 ---

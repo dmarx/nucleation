@@ -43,10 +43,6 @@ summary: >-
   or self-individuation is QUESTION-250, Answered. Which criteria are
   necessary, and whether the others come apart, is open, and r/place
   ([CASE-079](../cases.d/CASE-079.md)) offers coalitions on which to test it.
-refined_by:
-- QUESTION-204
-- QUESTION-250
-- QUESTION-260
 ---
 <!-- inactive-ok-file: CLAIM-174 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 

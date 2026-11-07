@@ -80,6 +80,7 @@ rests_on:
 grounds:
 - LIT-482
 - CASE-069
+- CASE-018
 complements:
 - CLAIM-477
 - CLAIM-130
@@ -89,8 +90,6 @@ complements:
 uses:
 - TERM-038
 - TERM-040
-illustrated_by:
-- CASE-018
 summary: >-
   The assistant at A187 §3, after the owner's U52 question about ontic
   structural realism, restated at A191 §1, A203 §3, A214 §13 and A218 §2.
@@ -101,14 +100,6 @@ summary: >-
   [CLAIM-004](CLAIM-004.md)'s distinction re-derived, which it cites.
   Searle's status functions ([LIT-482](../literature.d/LIT-482.md)) are
   the nearer held prior art, and "moderate OSR" is the wrong name for it.
-supports:
-- CLAIM-137
-- CLAIM-139
-- CLAIM-204
-- CLAIM-217
-objected_by:
-- CLAIM-221
-- CLAIM-224
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the general frame this claim is a domain case of, cited as open -->
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->

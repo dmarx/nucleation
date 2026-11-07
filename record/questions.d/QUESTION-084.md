@@ -26,8 +26,6 @@ summary: >-
   A8 on r/place: from placements alone "endorsement remains a latent
   explanatory hypothesis". It refines [QUESTION-063](QUESTION-063.md), which asks the same
   about drive, coupling and internal routes for collective outcomes.
-bearing:
-- THEORY-218
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

@@ -53,9 +53,6 @@ summary: >-
   to be held responsible under three conditions, which corporations meet.
   Proposed: it is an argument, and its empirical premise about corporate
   procedure is asserted rather than shown.
-supports:
-- CLAIM-271
-- CLAIM-432
 bears_on:
 - QUESTION-049
 - QUESTION-070

@@ -27,8 +27,6 @@ works:
 - what-survives-translation
 rests_on:
 - CLAIM-040
-supersedes:
-- CLAIM-015
 uses:
 - TERM-004
 summary: >-
@@ -36,11 +34,6 @@ summary: >-
   transformations help identify structure through what they preserve",
   with a four-way split of exact, equivariant, approximate and
   reorganizing transformations.
-supports:
-- CLAIM-108
-- CLAIM-017
-- CLAIM-103
-- CLAIM-147
 complements:
 - CLAIM-148
 ---

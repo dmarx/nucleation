@@ -22,8 +22,6 @@ summary: >-
   interactions 0.81–0.99. Human ratings cover only six 2023-era models; the
   2024–25 generation is ranked by automatic judges validated on the older
   ones, so the ordering is not established for it.
-supports:
-- CLAIM-321
 ---
 <!-- inactive-ok-file: CLAIM-013 — Proposed; the record's own claims that cite these readings, named in Connections -->
 <!-- inactive-ok-file: THEORY-250 THEORY-678 — Proposed; neighbouring accounts named in Connections and in what this does not say, nothing here rests on them -->

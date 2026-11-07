@@ -18,10 +18,6 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-157](../claims.d/CLAIM-157.md), [CLAIM-154](../claims.d/CLAIM-154.md) and
   [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-124](../theory.d/THEORY-124.md), [THEORY-097](../theory.d/THEORY-097.md) and [THEORY-088](../theory.d/THEORY-088.md) answer it in part; the
   body gives each one's limit.
-bearing:
-- THEORY-088
-- THEORY-097
-- THEORY-124
 ---
 <!-- inactive-ok-file: THEORY-262 — Proposed; a reading listed with its limit, not an answer -->
 <!-- inactive-ok-file: THEORY-1196 — Proposed; the wide form of THEORY-124, which now carries the wording quoted below -->

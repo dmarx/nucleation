@@ -39,10 +39,6 @@ summary: >-
   Platonic hypothesis means; that is [THEORY-002](THEORY-002.md).
 presupposes:
 - THEORY-004
-extended_by:
-- THEORY-002
-supports:
-- CLAIM-379
 ---
 <!-- inactive-ok-file: THEORY-002 — Proposed; the Platonic-hypothesis reading this core was split from and that extends it, cited as open -->
 

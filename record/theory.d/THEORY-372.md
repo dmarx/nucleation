@@ -28,9 +28,6 @@ summary: >-
   Optimality for data-dependent schemes, for more probes, and for
   d = Θ(log n) is not shown. The curve prices space against per-query time
   for one query at a time; it has no workload and no build cost beyond space.
-supports:
-- CLAIM-310
-- CLAIM-313
 bears_on:
 - QUESTION-114
 ---

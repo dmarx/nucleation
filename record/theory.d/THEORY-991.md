@@ -20,8 +20,6 @@ tags:
 date: '2026-10-26'
 source:
 - LIT-1545
-extended_by:
-- THEORY-1016
 summary: >-
   Bricken et al. (2023), [LIT-1545](../literature.d/LIT-1545.md), read in [NOTE-1191](../notes.d/NOTE-1191.md): the detailed
   investigations, the global analysis and the appendices, for run A/1 of

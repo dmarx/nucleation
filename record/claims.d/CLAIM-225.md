@@ -61,8 +61,6 @@ summary: >-
   ideal receiver against an actual one.
 rests_on:
 - CLAIM-270
-supports:
-- CLAIM-087
 ---
 <!-- inactive-ok-file: CLAIM-087 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for its receiver and its defeat condition, open -->

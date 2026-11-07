@@ -31,20 +31,11 @@ tags:
 - emotion-and-affect
 date: '2026-10-12'
 line: 'will-organization'
-answered_by:
-- CLAIM-446
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-099](../claims.d/CLAIM-099.md)
   and [CLAIM-018](../claims.d/CLAIM-018.md). [THEORY-058](../theory.d/THEORY-058.md), [THEORY-050](../theory.d/THEORY-050.md), [THEORY-052](../theory.d/THEORY-052.md) and [THEORY-053](../theory.d/THEORY-053.md) answer
   it in part; the body gives each one's limit.
-refined_by:
-- QUESTION-292
-bearing:
-- THEORY-285
-- THEORY-052
-- THEORY-050
-- THEORY-058
 ---
 
 # QUESTION-045: Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and does cutting the maintaining link, with the regime's content held fixed, produce lasting change?

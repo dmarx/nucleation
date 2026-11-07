@@ -27,6 +27,8 @@ summary: >-
   that argues from European history and others' cross-national evidence,
   convincing for oil and, by the author's own account, weak and possibly
   reverse-caused for aid.
+corroborates:
+- CLAIM-602
 ---
 
 # THEORY-1459: The source of a state's revenue shapes its capacity and accountability: revenue earned by taxing citizens obliges the state to build a bureaucracy, stay present on the ground and bargain with taxpayers, while unearned income from natural-resource rents or aid does not, and lets those capacities decay

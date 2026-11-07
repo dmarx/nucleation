@@ -49,8 +49,6 @@ grounds:
 - THEORY-073
 - THEORY-066
 - THEORY-1119
-corroborated_by:
-- THEORY-072
 summary: >-
   A counter to the block criterion and to the agency test's first
   condition, found by two separate reviews of the unlinked THEORYs in the

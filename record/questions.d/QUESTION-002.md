@@ -15,30 +15,6 @@ summary: >-
   fixed across the transformation — wording, proposition, or something
   relational — and how preservation can be measured rather than
   asserted.
-answered_by:
-- CLAIM-115
-- CLAIM-133
-- CLAIM-204
-- CLAIM-220
-refined_by:
-- QUESTION-021
-- QUESTION-023
-- QUESTION-005
-- QUESTION-017
-- QUESTION-014
-- QUESTION-016
-- QUESTION-020
-- QUESTION-012
-- QUESTION-003
-- QUESTION-006
-- QUESTION-013
-- QUESTION-018
-- QUESTION-022
-- QUESTION-029
-- QUESTION-075
-bearing:
-- CLAIM-147
-- CLAIM-202
 ---
 <!-- inactive-ok-file: THEORY-226 — Proposed; a measured case held for this question, which it does not answer -->
 

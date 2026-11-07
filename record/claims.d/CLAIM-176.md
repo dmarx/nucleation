@@ -63,8 +63,6 @@ summary: >-
 complements:
 - CLAIM-179
 - CLAIM-186
-objected_by:
-- CLAIM-181
 ---
 <!-- inactive-ok-file: CLAIM-483 — Proposed; the comparative premise split from CLAIM-177 on 2026-10-27 -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->

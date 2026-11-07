@@ -27,9 +27,6 @@ summary: >-
   does. Applied to the hidden governance bit, the coarse-graining that
   [CLAIM-407](../claims.d/CLAIM-407.md) shows to lose the response to h is exact. It does not say
   that the coarse model keeps any one system's response.
-supports:
-- CLAIM-399
-- CLAIM-407
 ---
 
 # THEORY-848: In an acyclic structural equation model, marginalising a variable that no declared intervention sets is an exact transformation, provided the coarse model's exogenous noises may be dependent; so exactness does not require the dropped variable to be causally idle, and it can drop a variable that decides how its children respond to an intervention that is declared

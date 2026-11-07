@@ -31,8 +31,6 @@ summary: >-
   nonzero but reversible: under the model's assumptions the stationary
   process is time-reversible once velocities are flipped, so it is
   "broken detailed balance" only in the paper's sense, a nonzero current.
-extended_by:
-- THEORY-209
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-673 — Proposed; the account this one is split from, and the earlier split it follows -->
 

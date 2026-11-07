@@ -30,6 +30,8 @@ summary: >-
   layer norm (which enters as a per-path rescaling), no biases, and
   attention frozen. It does not say the terms are small, interpretable or
   independent in what they compute.
+corroborates:
+- CLAIM-545
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the basis-relative account this is set beside, cited as open -->
 

@@ -13,8 +13,6 @@ tags:
 - pragmatics
 date: '2026-10-10'
 line: pragmatic-transport
-supports:
-- CLAIM-142
 summary: >-
   Two English-to-Russian subtitle translation systems score the same
   BLEU (32.40 and 32.38, not significantly different). On a contrastive

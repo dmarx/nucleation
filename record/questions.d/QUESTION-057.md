@@ -12,8 +12,6 @@ date: '2026-10-12'
 line: 'authenticity'
 refines:
 - QUESTION-011
-answered_by:
-- THEORY-074
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-016](../claims.d/CLAIM-016.md) and [QUESTION-011](QUESTION-011.md).

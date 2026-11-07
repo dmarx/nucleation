@@ -25,6 +25,8 @@ summary: >-
   observed (39 of 48 single-defect states were), that the readout
   identifies every state, or that loading alone can create a defect in a
   decoupled stack.
+corroborates:
+- CLAIM-591
 ---
 
 # THEORY-1415: A series stack of decoupled bistable Kresling barrels is a Preisach memory whose reachable states are fixed by the order of the switching thresholds, while hidden elastic degrees of freedom admit defect states that the loading protocol cannot reach and can leave only irreversibly

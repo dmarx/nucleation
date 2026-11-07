@@ -33,9 +33,6 @@ summary: >-
   one model reaches them all only if the system is noncontextual. It says
   nothing about contextuality beyond the bound that a rank-2 system with Δ
   ≥ 2 cannot be contextual, and identifies no particular causal model.
-supports:
-- CLAIM-125
-- CLAIM-245
 ---
 
 

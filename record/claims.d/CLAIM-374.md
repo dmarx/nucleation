@@ -42,8 +42,6 @@ summary: >-
   sense ([LIT-016](../literature.d/LIT-016.md), [THEORY-012](../theory.d/THEORY-012.md)). Conversely, a global section gives such a
   coupling. The two criteria come apart only when marginals shift with
   context.
-supports:
-- CLAIM-037
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the methodological thesis this result was split from and that rests on it, cited as open -->
 

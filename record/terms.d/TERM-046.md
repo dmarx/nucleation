@@ -16,14 +16,6 @@ summary: >-
   a spectral gap against off-block coupling and a posterior effect against
   its uncertainty, and that treating them as one is an assumption carried
   over from [MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-160.md).
-used_by:
-- CLAIM-153
-- CLAIM-154
-- CLAIM-157
-- CLAIM-158
-- CLAIM-161
-- CLAIM-164
-- CLAIM-174
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-161 CLAIM-158 — claims whose symbols this term fixes, cited for their notation -->
 

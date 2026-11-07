@@ -20,8 +20,6 @@ summary: >-
   conditional diffusion literature has us covered here." Accepted for
   compositional conditioning and transport between distributions; never
   shown for changing covers, and limited by A97 itself.
-objected_by:
-- CLAIM-071
 ---
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

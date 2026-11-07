@@ -60,6 +60,9 @@ summary: >-
   weak grounds. The conceptual account of the self is [THEORY-044](THEORY-044.md).
 presupposes:
 - THEORY-050
+corroborates:
+- CLAIM-156
+- CLAIM-349
 ---
 <!-- inactive-ok-file: LIT-543 — Unavailable, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this presupposes and the conceptual account of the self -->

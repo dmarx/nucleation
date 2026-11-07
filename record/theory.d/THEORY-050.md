@@ -44,10 +44,10 @@ summary: >-
   mostly from the model's authors, and the meta-analysis that would test it
   ([LIT-543](../literature.d/LIT-543.md)) is unread, so Proposed. It is compatible with the loop account
   of disorder, not a rival to it.
-presupposed_by:
-- THEORY-051
 bears_on:
 - QUESTION-045
+corroborates:
+- CLAIM-349
 ---
 <!-- inactive-ok-file: LIT-543 LIT-551 LIT-549 — Unavailable; the 2024 meta-analysis, the 1996 avoidance paper and the RFT book, named as unread sources of the model or tests of it, none leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-048 THEORY-044 — Proposed; the loop account, the implementation account and the account of the self, named as neighbours -->

@@ -32,8 +32,6 @@ summary: >-
   S^(d−1), the same exponent at every depth. Active for the kernel regime
   on uniform spherical data, where every step is proved. It says nothing
   about networks whose kernel moves.
-presupposed_by:
-- THEORY-084
 bears_on:
 - QUESTION-039
 ---

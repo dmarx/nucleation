@@ -45,12 +45,6 @@ summary: >-
   kinds ([CLAIM-279](../claims.d/CLAIM-279.md)). Nothing has been run. An answer is a population
   model with no role primitives, and whether durable differentiated
   authority forms.
-refined_by:
-- QUESTION-295
-- QUESTION-132
-- QUESTION-135
-bearing:
-- CLAIM-279
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; cited as the reading the synthesis recommended, not reached, nothing here rests on it -->

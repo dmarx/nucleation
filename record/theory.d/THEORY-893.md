@@ -44,10 +44,6 @@ summary: >-
   "without any subjective pleasure feeling at all". Filed because it
   bears directly on the record's reading of valence as ordering-potential
   ([CLAIM-440](../claims.d/CLAIM-440.md)).
-supports:
-- CLAIM-438
-- CLAIM-433
-- CLAIM-437
 corroborates:
 - CLAIM-447
 bears_on:

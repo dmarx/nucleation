@@ -18,16 +18,6 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-154](../claims.d/CLAIM-154.md),
   [CLAIM-157](../claims.d/CLAIM-157.md), [CLAIM-164](../claims.d/CLAIM-164.md) and [QUESTION-035](QUESTION-035.md). [THEORY-198](../theory.d/THEORY-198.md), [THEORY-205](../theory.d/THEORY-205.md) and
   [THEORY-157](../theory.d/THEORY-157.md) answer it in part; the body gives each one's limit.
-refined_by:
-- QUESTION-115
-- QUESTION-154
-- QUESTION-221
-bearing:
-- CLAIM-405
-- THEORY-257
-- THEORY-157
-- THEORY-205
-- THEORY-198
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; a reading listed with its limits, an answer in part -->
 

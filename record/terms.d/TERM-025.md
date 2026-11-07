@@ -15,8 +15,6 @@ summary: >-
   context c_0, inducing Q_θ,f,u(y) = P_θ(y | Γ(f, c_0), u). Formalizes
   the owner's U17 "parameterized frame". Gone by outline v4, which
   returned to the tuple; absent from the manuscript.
-used_by:
-- CLAIM-029
 ---
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

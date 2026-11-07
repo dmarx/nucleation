@@ -35,8 +35,6 @@ summary: >-
   the input. Whether such ties occur in trained networks, or are ruled
   out for some class up to a symmetry, was the old promote_when, and it
   moves here.
-answered_by:
-- THEORY-802
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the answer this question is set beside, cited for its dated note, not leaned on -->
 

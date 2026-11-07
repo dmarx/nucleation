@@ -44,10 +44,8 @@ summary: >-
   it are noncontextual, so it is evidence for a constraint on order effects,
   not for nonclassical probability or contextuality. A preregistered test
   with a constrained classical rival is [QUESTION-210](../questions.d/QUESTION-210.md).
-supports:
-- CLAIM-041
-extended_by:
-- THEORY-796
+corroborates:
+- CLAIM-052
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; named as the neighbouring account this one is consistent with -->

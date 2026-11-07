@@ -41,9 +41,6 @@ summary: >-
   being affinely independent ([CLAIM-452](../claims.d/CLAIM-452.md)). The general stochastic,
   decision-relative case, where the target or the outcome laws are not
   linear in a common state, stays with [QUESTION-031](QUESTION-031.md).
-answered_by:
-- THEORY-962
-- CLAIM-452
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the four-class classification as Bartók et al. state it, cited for context beside THEORY-963 (Active), nothing here rests on it -->
 

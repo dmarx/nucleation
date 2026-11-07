@@ -20,10 +20,6 @@ summary: >-
   The manuscript's §3 version: S = M, M = H and H ≠ S are each
   satisfiable in its own context but admit no global assignment. Stated
   to demonstrate an obstruction, not to describe actual judgements.
-supports:
-- CLAIM-141
-variants:
-- CASE-037
 ---
 <!-- inactive-ok-file: CASE-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

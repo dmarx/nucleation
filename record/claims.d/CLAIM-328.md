@@ -50,8 +50,6 @@ summary: >-
   of [QUESTION-118](../questions.d/QUESTION-118.md) at the owner's word. It concerns plural successor
   relations, not branching identity, and rests on one documented case
   with no data on how supporters divided.
-illustrated_by:
-- CASE-176
 ---
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->

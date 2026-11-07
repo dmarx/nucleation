@@ -39,6 +39,8 @@ summary: >-
   figure of d = .65 from 94 tests, which had no bias correction.
 bears_on:
 - QUESTION-310
+corroborates:
+- CLAIM-443
 ---
 
 # THEORY-918: Across 642 experimental tests to September 2019, forming implementation intentions improved outcomes, with uncorrected effects on behaviour (d = .27), cognitive performance (.47), affect regulation (.66) and social judgement (.52), but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, which still found extreme evidence of an effect (BF10 = 319), with large heterogeneity

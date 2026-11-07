@@ -16,8 +16,6 @@ summary: >-
   manuscript §6 keeps the three terms, drops the rate constraint, swaps
   the weights and demotes it to "a flexible directed fidelity
   functional".
-used_by:
-- CLAIM-048
 refines:
 - TERM-043
 ---

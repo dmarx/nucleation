@@ -38,10 +38,6 @@ summary: >-
   dimension. (c) Over ℝ it fails: ℂ as a real algebra, with multiplication
   scaled by 1/√2, is a commutative special †-Frobenius algebra with no
   nonzero copyable vector.
-extended_by:
-- THEORY-017
-supports:
-- CLAIM-148
 ---
 
 # THEORY-721: On a complex Hilbert space no orthonormal basis or tensor factorisation of given dimensions is distinguished by the space alone, and orthonormal bases correspond exactly to commutative special †-Frobenius algebras; over the reals that correspondence fails

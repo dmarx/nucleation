@@ -41,17 +41,6 @@ summary: >-
   coarse variable's own history, so memory is not by itself a failure of
   them, and [CLAIM-327](../claims.d/CLAIM-327.md) already locates a collective in a variable members
   read from the past.
-refined_by:
-- QUESTION-248
-- QUESTION-287
-bearing:
-- THEORY-818
-- CLAIM-397
-- THEORY-819
-- THEORY-762
-- THEORY-760
-- THEORY-752
-- CLAIM-389
 ---
 <!-- inactive-ok-file: LIT-1251 — Unavailable; a work registered and not read, cited as open, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->

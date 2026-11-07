@@ -40,8 +40,6 @@ summary: >-
   that convergence is not preservation ([CLAIM-081](CLAIM-081.md)). A code supplies
   [CLAIM-002](CLAIM-002.md)'s continuity of transmission. Proposed from a synthesis
   review; the counter is [CLAIM-189](CLAIM-189.md).
-objected_by:
-- CLAIM-189
 complements:
 - CLAIM-301
 ---

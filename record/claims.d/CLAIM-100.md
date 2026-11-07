@@ -25,8 +25,6 @@ summary: >-
   A93 §1's "Research opportunity" and A94's bridge question, which the
   owner quoted at U34. The manuscript concedes the gap ("cover-changing
   or incompatible maps demand separate analysis", §6) without posing it.
-objected_by:
-- CLAIM-001
 superseded_by:
 - CLAIM-125
 ---

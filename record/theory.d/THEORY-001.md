@@ -66,8 +66,6 @@ summary: >-
   reaches.
 extends:
 - THEORY-719
-extended_by:
-- THEORY-007
 bears_on:
 - QUESTION-052
 ---

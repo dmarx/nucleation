@@ -29,8 +29,6 @@ summary: >-
 reported_in:
 - LIT-1425
 - NOTE-1095
-supports:
-- CLAIM-432
 ---
 <!-- inactive-ok-file: ARG-071 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; cited in the note of 2026-11-07 -->

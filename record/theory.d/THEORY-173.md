@@ -45,6 +45,8 @@ summary: >-
 rivals:
 - THEORY-208
 - THEORY-616
+corroborates:
+- CLAIM-068
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 <!-- inactive-ok-file: THEORY-226 — Proposed; named in promote_when as partial evidence, not leaned on -->

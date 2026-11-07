@@ -21,8 +21,6 @@ summary: >-
   and on group emotion (Huebner, List), but nothing on the clinical
   construct and no claim joining them. The question asks which reading of
   the thesis survives.
-answered_by:
-- CLAIM-432
 ---
 <!-- inactive-ok-file: CLAIM-271 THEORY-125 THEORY-131 THEORY-139 THEORY-147 THEORY-892 — Proposed; open, and cited as open: nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-698 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->

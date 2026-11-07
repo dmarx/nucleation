@@ -38,8 +38,6 @@ summary: >-
   distance of 1.
 complements:
 - CLAIM-319
-supports:
-- CLAIM-105
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the claim this was split from, cited as open -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of CLAIM-105's headline, cited as open -->

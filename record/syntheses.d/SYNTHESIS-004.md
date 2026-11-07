@@ -64,8 +64,6 @@ premises:
 - SYNTHESIS-007
 bears_on:
 - QUESTION-284
-supersedes:
-- CLAIM-610
 summary: >-
   A7 of the exchange "Individuation, Possibility, and Disposition"
   (2026-11-06 to 07), answering the owner's U3: "what might the

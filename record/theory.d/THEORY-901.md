@@ -36,8 +36,6 @@ summary: >-
   studies. Healthy volunteers, shock or noise. The authors' explanation,
   that effective avoidance leaves fewer chances to detect a change, is
   marked "putatively".
-supports:
-- CLAIM-446
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 

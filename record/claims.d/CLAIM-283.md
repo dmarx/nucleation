@@ -53,11 +53,6 @@ summary: >-
   distinction between *claimed precedence* and *endorsed authority* may be
   essential to modeling internal conflict." It joins [THEORY-055](../theory.d/THEORY-055.md) to the
   grant scheme. It does not say which wins.
-supports:
-- CLAIM-368
-- CLAIM-440
-- CLAIM-446
-- CLAIM-442
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-055 THEORY-056 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

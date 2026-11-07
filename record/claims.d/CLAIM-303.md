@@ -36,10 +36,6 @@ summary: >-
   about the record: that its second-occurrence rule ([ADR-032](../decisions.d/ADR-032.md)) and the nucleation
   threshold of [CLAIM-185](CLAIM-185.md) are approximations to this trade, and can fail in both
   directions.
-illustrated_by:
-- CASE-088
-objected_by:
-- CLAIM-308
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

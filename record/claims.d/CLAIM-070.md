@@ -31,10 +31,6 @@ summary: >-
   Proposition 2. Without a common global kernel preservation is not
   automatic, which leaves open whether transport can create or destroy
   contextuality.
-supports:
-- CLAIM-100
-- CLAIM-125
-- CLAIM-207
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

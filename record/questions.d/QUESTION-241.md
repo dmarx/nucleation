@@ -26,8 +26,6 @@ summary: >-
   loop can destabilize it, and independent scoring (γ ≈ 0) removes the
   instability. The nonlinear regime, and whether capture costs fidelity,
   stay with [QUESTION-100](QUESTION-100.md).
-answered_by:
-- CLAIM-330
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

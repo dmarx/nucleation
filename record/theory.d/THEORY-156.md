@@ -53,9 +53,6 @@ summary: >-
   which the paper claims through a quoted 1951 result, are QUESTION-321.
 extends:
 - THEORY-717
-supports:
-- CLAIM-259
-- CLAIM-326
 bears_on:
 - QUESTION-321
 ---

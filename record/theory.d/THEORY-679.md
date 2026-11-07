@@ -21,8 +21,6 @@ summary: >-
   not proved, and on an internal-entropy term set "arbitrarily". It prices
   finite-time irreversibility, not information, and draws no line between
   living and non-living replicators.
-presupposed_by:
-- THEORY-412
 ---
 
 <!-- inactive-ok-file: THEORY-072 THEORY-412 THEORY-492 — Proposed; named as accounts this bound is checked against or contrasted with, not leaned on -->

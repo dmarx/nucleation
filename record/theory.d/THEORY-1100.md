@@ -71,6 +71,8 @@ summary: >-
   symbiont has been found at all. So the route to an organelle is import,
   and the endosymbiont's genes need not move. The origins are stated in
   summary, not counted, and the import mechanisms are unknown.
+corroborates:
+- CLAIM-508
 ---
 <!-- inactive-ok-file: THEORY-1228 — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
 <!-- inactive-ok-file: CASE-174 CASE-167 — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->

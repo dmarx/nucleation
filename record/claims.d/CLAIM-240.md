@@ -55,8 +55,6 @@ summary: >-
   is itself empirical. The objection is right that the stated defeat
   conditions name neither task nor receivers; [CLAIM-220](CLAIM-220.md),
   [CLAIM-204](CLAIM-204.md) and [QUESTION-075](../questions.d/QUESTION-075.md) address that.
-illustrated_by:
-- CASE-067
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-115 CLAIM-139 — Proposed; open, and cited as the relativity thesis this reconciles and the theses whose conditions it bears on, not as settled -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; the objection this entry answers, left open until the owner decides on the revised theses -->

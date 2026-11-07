@@ -44,8 +44,6 @@ tags:
 date: '2026-11-06'
 source:
 - LIT-2197
-extended_by:
-- THEORY-1555
 summary: >-
   Fodor (2019), [LIT-2197](../literature.d/LIT-2197.md), read in [NOTE-1698](../notes.d/NOTE-1698.md) (Chapter 2, the introduction and
   the summary). What the review derives: the family result, the

@@ -40,8 +40,6 @@ summary: >-
   the authors cannot explain.
   Promoted 2026-10-20 on the probe-loss comparisons measured (ADR-047
   v3); the geometric thesis is THEORY-828.
-extended_by:
-- THEORY-828
 bears_on:
 - QUESTION-069
 ---

@@ -29,10 +29,6 @@ summary: >-
   timing. Neither alone decides where the next step lands. Used to ask
   what the pair is while dancing, and only after that whether it is a
   self.
-supports:
-- CLAIM-175
-variants:
-- CASE-045
 ---
 <!-- inactive-ok-file: LIT-902 — Unavailable; Kelso et al. 1984, named as the source of the signature, unread and not leaned on -->
 

@@ -19,8 +19,6 @@ summary: >-
   is logarithmic in the aspect ratio ∆, which can exceed n by far, and has
   a per-step cost exponential in the doubling dimension. HNSW and NSG
   prune with α = 1 and are not covered.
-supports:
-- CLAIM-310
 ---
 
 # THEORY-384: A nearest-neighbour graph built by pruning each point's links against all other points with a factor α > 1, so that from every point some link is α times closer to any other point, lets greedy search from any start reach a ((α+1)/(α−1) + ε)-approximate nearest neighbour in O(log_α(∆/((α−1)ε))) steps of cost O((4α)^d log ∆), for doubling dimension d and aspect ratio ∆; the ratio is tight and the dependence on ∆ cannot be replaced by one on n, and the build takes O(n³) time done naively

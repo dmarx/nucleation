@@ -46,18 +46,6 @@ grounds:
 - CASE-112
 uses:
 - TERM-020
-supports:
-- CLAIM-485
-- ARG-007
-- CLAIM-284
-- CLAIM-349
-- CLAIM-354
-- CLAIM-359
-- CLAIM-422
-- CLAIM-424
-illustrated_by:
-- CASE-036
-- CASE-075
 summary: >-
   Section 6.2, from the emergency variant of Northstar.
 complements:

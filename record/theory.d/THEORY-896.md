@@ -50,8 +50,6 @@ summary: >-
   of the longest improvement path into each profile. It is the precise
   form of "an ordering prevails" ⇔ "no improvement cycles", and it is
   ordinal.
-supports:
-- CLAIM-444
 corroborates:
 - CLAIM-434
 ---

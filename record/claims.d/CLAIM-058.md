@@ -33,8 +33,6 @@ summary: >-
   studies, positioning the former as controlled computational tests and
   the latter as external validation." The conclusion of the U17 analogy,
   limited by the circularity objection.
-argued_by:
-- ARG-008
 ---
 
 # CLAIM-058: Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies

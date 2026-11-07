@@ -47,8 +47,6 @@ summary: >-
   since "any causal descendant" is too much. An answer gives a criterion
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
-refined_by:
-- QUESTION-290
 ---
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->

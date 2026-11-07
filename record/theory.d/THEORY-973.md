@@ -36,8 +36,6 @@ summary: >-
   lets one layer express induction moves the jump. It says nothing causal
   about models with MLPs or large models, and nothing about few-shot task
   learning, which the score does not measure.
-extended_by:
-- THEORY-990
 bears_on:
 - QUESTION-039
 ---

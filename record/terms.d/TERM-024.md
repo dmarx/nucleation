@@ -30,14 +30,6 @@ summary: >-
   P_A), which rule out a joint distribution for sharp measurements,
   versus noncommuting operations on probability states, which classical
   stochastic maps also show.
-used_by:
-- CLAIM-041
-- CLAIM-052
-- CLAIM-073
-- CLAIM-063
-- CLAIM-117
-- CLAIM-127
-- CLAIM-373
 ---
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 

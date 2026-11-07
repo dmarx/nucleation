@@ -47,10 +47,6 @@ summary: >-
   one fitted ODE; a derivation and a trained-network test are QUESTION-193.
   Sequential onset caused by dependency between skills is a
   separate experiment, not part of this account.
-supports:
-- CLAIM-367
-extended_by:
-- THEORY-783
 bears_on:
 - QUESTION-039
 ---

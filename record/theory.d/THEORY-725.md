@@ -36,12 +36,6 @@ summary: >-
   group's (weak discontinuity), and under the distributed procedure they
   need not enter (strong discontinuity, Proposition 5). The general
   impossibility for proposition-wise rules is [THEORY-127](THEORY-127.md), still Proposed.
-extended_by:
-- THEORY-127
-supports:
-- CLAIM-030
-- CLAIM-192
-- CLAIM-271
 ---
 
 # THEORY-725: On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter

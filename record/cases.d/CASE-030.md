@@ -21,11 +21,6 @@ summary: >-
   assistant from a modernized Villon seed, scored by content-word
   Jaccard against the seed. The texts are authored with their intended
   trajectories; the numbers are exact properties of those texts.
-supports:
-- CLAIM-028
-- CLAIM-229
-variants:
-- CASE-032
 ---
 <!-- inactive-ok-file: CLAIM-084 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

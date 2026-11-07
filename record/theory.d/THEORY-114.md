@@ -43,8 +43,6 @@ summary: >-
   initialization; Ferbach et al. (2024), [LIT-680](../literature.d/LIT-680.md), show the width that
   needs grows recursively exponentially with depth, far past practical
   widths, which is why the two are consistent.
-presupposed_by:
-- THEORY-115
 bears_on:
 - QUESTION-069
 - QUESTION-312

@@ -38,8 +38,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1277
-corrected_by:
-- THEORY-766
 summary: >-
   Botvinick & Cohen (1998), [LIT-1277](../literature.d/LIT-1277.md), read in full in [NOTE-1006](../notes.d/NOTE-1006.md).
   Ten subjects affirmed referred touch and ownership after ten minutes of

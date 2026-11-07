@@ -76,8 +76,6 @@ grounds:
 - LIT-781
 - LIT-764
 - THEORY-602
-supersedes:
-- CLAIM-051
 uses:
 - TERM-028
 summary: >-
@@ -85,25 +83,12 @@ summary: >-
   Blackwell comparison (restricted to a family Q of communicative
   decision problems) makes fidelity operational, and decoder side
   information is a Wyner–Ziv problem.
-supports:
-- CLAIM-115
-- CLAIM-014
-- CLAIM-126
-- CLAIM-133
-- CLAIM-139
-- CLAIM-204
-- CLAIM-220
 complements:
 - CLAIM-142
 - CLAIM-199
 - CLAIM-212
 - CLAIM-259
 - CLAIM-488
-objected_by:
-- CLAIM-218
-- CLAIM-225
-- CLAIM-230
-- CLAIM-258
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
 <!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-488 -->

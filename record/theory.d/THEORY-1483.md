@@ -29,6 +29,9 @@ summary: >-
   phase diagrams, which were not re-derived. It is a model with unit
   slopes, tax inefficiency the reciprocal of experience and fixed
   spending; it says nothing measured about any country.
+corroborates:
+- CLAIM-602
+- CLAIM-605
 ---
 
 # THEORY-1483: In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid

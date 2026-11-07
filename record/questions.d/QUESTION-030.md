@@ -21,18 +21,13 @@ date: '2026-10-10'
 line: pragmatic-transport
 refines:
 - QUESTION-021
+- QUESTION-284
 summary: >-
   Proposed as a QUESTION in these words at A191 §13, and asked again as
   A218's RQ5 and in its Chapter 10. It has an empirical half, which
   relations predict responses to independently specified interventions,
   and a conceptual half, which of those are constitutive. A218 concedes
   that causal tests do not settle the second.
-refined_by:
-- QUESTION-073
-- QUESTION-200
-- QUESTION-296
-bearing:
-- CLAIM-130
 ---
 <!-- inactive-ok-file: LIT-485 — Unavailable; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
 <!-- inactive-ok-file: THEORY-287 — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->

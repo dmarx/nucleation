@@ -42,8 +42,6 @@ summary: >-
   the strategy mix. The consensus is memoryless, scientists hold no
   beliefs, and an equal strategy mix is shown only never to be the
   worst, not best.
-extended_by:
-- THEORY-814
 ---
 
 <!-- inactive-ok-file: THEORY-814 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

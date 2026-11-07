@@ -47,8 +47,6 @@ summary: >-
   reviews read the same day. The routes exist, and the effects are
   causal in rodents. The human evidence is modest: associations, small
   effects on subjective stress, and nulls.
-illustrated_by:
-- CASE-047
 bears_on:
 - QUESTION-033
 ---

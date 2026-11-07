@@ -19,10 +19,6 @@ summary: >-
   state and three model classes (A35), matched and divergent stimulus
   pairs (A38), pilot validation, classical baselines first and five
   falsifiers (A40). Proposed, not run.
-variants:
-- CASE-005
-supports:
-- CLAIM-238
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-052 CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

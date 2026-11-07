@@ -32,8 +32,6 @@ summary: >-
   case for [CLAIM-151](../claims.d/CLAIM-151.md) in which the act follows a relation among the
   parties, and for [CLAIM-138](../claims.d/CLAIM-138.md), since the exchange relations alone match and
   the acts still differ.
-supports:
-- CLAIM-151
 illustrates:
 - CLAIM-138
 ---

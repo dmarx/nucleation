@@ -22,10 +22,6 @@ summary: >-
   acting on it are kept up by the organization or by something outside
   it. Fictional by construction, with production relations stipulated,
   not shown.
-supports:
-- CLAIM-414
-variants:
-- CASE-161
 ---
 
 # CASE-126: Represented, authorized, self-authorized and self-maintained: three one-bit systems that agree while the interpretation is 0 and part under an intervention that sets it to 1, and two two-constraint systems with the same constant trajectory, one closed and one reset from outside, that part under one perturbation

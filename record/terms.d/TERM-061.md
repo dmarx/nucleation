@@ -22,9 +22,6 @@ summary: >-
   not a special case of it: agreement in rankings needs no coupling, and
   coupling needs no agreement. The two are separate dimensions, and
   [TERM-050](TERM-050.md) stays Active beside it.
-used_by:
-- CLAIM-358
-- CLAIM-441
 ---
 <!-- inactive-ok-file: CLAIM-163 CLAIM-358 CLAIM-364 CLAIM-362 — Proposed or Open; the objection, questions and claims this term is set beside -->
 

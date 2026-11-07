@@ -58,8 +58,6 @@ summary: >-
   weight on the reading of evidence ([CLAIM-340](../claims.d/CLAIM-340.md)). This asks whether
   legibility adds a third state or renames the weight. It is the place
   where the record's mathematics can test the owner's new concept.
-answered_by:
-- CLAIM-400
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-838 — Proposed; readings of 2026-10-21 named as static candidates, not answers -->

@@ -29,9 +29,6 @@ summary: >-
   (Abramsky and Brandenburger). Granted, because it is elementary; it is
   used against [TERM-002](../terms.d/TERM-002.md)'s wording, not against [CLAIM-038](CLAIM-038.md)'s thesis, which
   version 2 restates to agree with it.
-illustrated_by:
-- CASE-037
-- CASE-095
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the wording this claim corrects -->

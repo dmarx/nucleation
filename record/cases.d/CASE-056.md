@@ -31,8 +31,6 @@ summary: >-
   judgement rather than reader evidence. The same handbooks document the
   sufficiency half: where kissing is amorous, a literal "kiss" changes the
   act.
-supports:
-- CLAIM-061
 reported_in:
 - LIT-791
 - LIT-1864

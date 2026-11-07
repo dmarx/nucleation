@@ -57,11 +57,6 @@ summary: >-
   linearly connected pairs have features that blend layer by layer. The
   stated direction rests on experiments with synthetic cues and on a
   one-layer sufficiency argument.
-extended_by:
-- THEORY-111
-supports:
-- CLAIM-187
-- CLAIM-263
 ---
 # THEORY-116: A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 

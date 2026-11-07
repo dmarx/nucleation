@@ -28,8 +28,6 @@ summary: >-
   ([THEORY-337](../theory.d/THEORY-337.md)); its second is the selective-accessibility account
   ([THEORY-335](../theory.d/THEORY-335.md)), whose direct test failed to replicate with a measure that also
   missed direct priming. [CLAIM-298](CLAIM-298.md) now rests on it.
-supports:
-- CLAIM-298
 bears_on:
 - QUESTION-109
 ---

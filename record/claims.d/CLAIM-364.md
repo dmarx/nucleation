@@ -61,8 +61,6 @@ summary: >-
   It does not say the criterion fails, only that cost cannot certify it.
   The authenticity line was set aside on 2026-10-05; whether it reopens
   is the owner's call.
-illustrated_by:
-- CASE-129
 complements:
 - CLAIM-443
 - CLAIM-448

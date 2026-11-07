@@ -23,8 +23,6 @@ summary: >-
   is a kind of invariance, no?") and conceded at A105: "My earlier
   contrast between structural invariance and structural transport was
   too sharp."
-objected_by:
-- CLAIM-040
 ---
 
 # CLAIM-015: Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant

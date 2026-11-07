@@ -84,8 +84,6 @@ summary: >-
   "loading-in" and a circularity worry; neither is argued in full in the
   record. The claim says what the account must choose between, not which
   choice is wrong.
-supports:
-- CLAIM-016
 bears_on:
 - QUESTION-071
 ---

@@ -36,12 +36,7 @@ summary: >-
   filed narrowed: it has content only for decisions about unobserved
   probes, interventions and transported targets. As A203 states it, it is
   not well posed.
-answered_by:
-- CLAIM-209
 
-refined_by:
-- QUESTION-052
-- QUESTION-216
 ---
 <!-- inactive-ok-file: CLAIM-137 THEORY-116 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-092 — Proposed; open, and cited as the claims and reading this question is set beside, not as settled -->

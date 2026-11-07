@@ -46,12 +46,6 @@ summary: >-
   carry sections that disagree there. Which families count as covering
   is the piece that decides whether anything glues, and a sheaf picture
   of meaning that does not state it has decided nothing.
-illustrated_by:
-- CASE-048
-- CASE-052
-supports:
-- CLAIM-198
-- CLAIM-196
 ---
 <!-- inactive-ok-file: ARG-074 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-251 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->

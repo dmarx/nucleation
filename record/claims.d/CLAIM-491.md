@@ -81,12 +81,6 @@ summary: >-
   its best evidence; Batson et al.'s rejoinder and the risk of trivial
   truth are its objections. It does not say people are self-centred, or
   that groups have no good of their own.
-corroborated_by:
-- THEORY-655
-- THEORY-1114
-objected_by:
-- CLAIM-492
-- CLAIM-494
 ---
 <!-- inactive-ok-file: CLAIM-494 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1706 LIT-1782 LIT-1759 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
 

@@ -29,9 +29,6 @@ summary: >-
   against [CLAIM-252](CLAIM-252.md)). It reads the tension as mostly reconcilable and
   moves the fidelity object from propositions to justificatory relations.
   Proposed and not adopted.
-illustrated_by:
-- CASE-086
-- CASE-090
 ---
 <!-- inactive-ok-file: CLAIM-189 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
 # CLAIM-250: What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes

@@ -26,8 +26,6 @@ summary: >-
   marks which beliefs are held in their own right and recomputes the rest; it is
   not a record of reasons, sources or defeated alternatives, and the survey gives
   no result that bases handle iterated revision better.
-supports:
-- CLAIM-294
 ---
 
 # THEORY-347: Belief bases with the same logical closure can revise to opposite conclusions on the same input, so a closed belief set does not fix its own revision; partial meet contraction of a base need not satisfy Recovery, and bases keep distinct inconsistent states apart, while a belief-set model reproduces the base difference only by attaching a different selection mechanism to the same set

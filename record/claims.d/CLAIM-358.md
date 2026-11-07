@@ -63,12 +63,6 @@ complements:
 - CLAIM-451
 uses:
 - TERM-061
-corroborated_by:
-- THEORY-056
-- THEORY-062
-- THEORY-149
-illustrated_by:
-- CASE-109
 summary: >-
   The owner's, U45 of the exchange of 2026-10-17: "processes which can
   navigate disagreement amongst themselves require fewer resources from

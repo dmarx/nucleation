@@ -39,6 +39,9 @@ summary: >-
   authors themselves say "the average effects are not very large" and keep
   a "poverty flat" open. It does not say which component matters, nor
   anything about aid to states.
+corroborates:
+- CLAIM-600
+- CLAIM-601
 ---
 
 # THEORY-1486: Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert and Udry find, in six randomized trials, that a time-limited bundle of a productive asset, temporary consumption support, training and coaching raised the consumption, assets, income and working time of the poorest households, and that these gains held one year after all support ended; they read the durability as consistent with the program having unlocked a poverty trap, while noting that persistent but modest effects also fit a 'poverty flat' without one

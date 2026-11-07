@@ -19,9 +19,6 @@ summary: >-
   on one four-state source with binary Y. Raising the budget can
   reorganize the optimum rather than split it. What condition on P(X, Y)
   guarantees nesting stays with [QUESTION-220](QUESTION-220.md).
-answered_by:
-- CLAIM-387
-- CLAIM-392
 ---
 
 # QUESTION-244: Must the optimal representations of an information-bottleneck objective at two budgets be nested, so that the coarser optimum is a (possibly noisy) function of the finer?

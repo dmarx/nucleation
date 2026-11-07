@@ -49,8 +49,6 @@ summary: >-
   x ↦ (λ_j^m ψ_j(x))_{j≥1} turns the m-step diffusion distance, weighted by
   1/π, into Euclidean distance exactly. Truncation gives a lower bound. It
   says nothing about the continuum limit, which is [THEORY-565](THEORY-565.md).
-extended_by:
-- THEORY-565
 ---
 <!-- inactive-ok-file: THEORY-565 — Proposed; the analytic half this was split from and that extends it, cited as open -->
 <!-- inactive-ok-file: NOTE-784 — Superseded; the skim the construction was first filed from, named as such -->

@@ -31,8 +31,6 @@ summary: >-
   partially manufactures the evidence it uses to justify itself." Not
   shown: that resistance always confirms; the person can also answer the
   judgement without the answer being read as evidence for it.
-supports:
-- CLAIM-425
 ---
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-621 — filed from the same exchange, Proposed -->

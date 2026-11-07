@@ -34,9 +34,6 @@ summary: >-
   instructed matching, so "none in behavioural data" is too broad, and the
   absence is [LIT-264](../literature.d/LIT-264.md)'s working hypothesis, not a proof that such data
   cannot exist.
-supports:
-- CLAIM-201
-- CLAIM-219
 ---
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; the headline and its narrowing this premise bears on, open -->
 

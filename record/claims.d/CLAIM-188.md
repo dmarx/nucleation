@@ -59,10 +59,6 @@ grounds:
 - THEORY-087
 - THEORY-031
 - THEORY-082
-corroborated_by:
-- THEORY-079
-illustrated_by:
-- CASE-152
 summary: >-
   A narrowing of [CLAIM-154](CLAIM-154.md), filed on 2026-10-11 from a synthesis review
   that found the record already held the readings that limit it.

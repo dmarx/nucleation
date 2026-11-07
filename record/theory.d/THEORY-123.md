@@ -43,9 +43,6 @@ summary: >-
   correlational process effects.
   Promoted 2026-10-20 on what the manuscript measured (ADR-047 v3); the
   wider claim is THEORY-826.
-extended_by:
-- THEORY-126
-- THEORY-826
 bears_on:
 - QUESTION-053
 ---

@@ -30,8 +30,6 @@ summary: >-
   about how well the t-model predicts, gives no error bound, and holds
   only for the conditional-expectation projection; the true conditional
   mean's effective energy need not decrease.
-supports:
-- CLAIM-401
 bears_on:
 - QUESTION-222
 ---

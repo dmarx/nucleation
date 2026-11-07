@@ -16,9 +16,6 @@ summary: >-
   operational criterion, relative to a selected class of observables,
   not a universal identity". The manuscript states it in §4, beside the
   §6 functional rather than in it.
-used_by:
-- CLAIM-108
-- CLAIM-103
 ---
 
 # TERM-036: fidelity, as preservation of selected observables and structural symmetries

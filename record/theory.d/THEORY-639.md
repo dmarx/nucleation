@@ -20,8 +20,6 @@ summary: >-
   figure is cited from Finkel (1988) and Greenlee et al. (1991). This is
   the descriptive half of the paper; the claim that values are therefore
   required is [THEORY-442](THEORY-442.md).
-presupposed_by:
-- THEORY-442
 ---
 <!-- inactive-ok-file: THEORY-442 — Proposed; the normative claim built on this finding, filed in the same batch -->
 

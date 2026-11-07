@@ -41,15 +41,6 @@ summary: >-
   components. A partial answer to [QUESTION-100](../questions.d/QUESTION-100.md)'s "when the symmetric state
   is unstable", for the linearization only; it says nothing about the
   nonlinear attractors or about fidelity.
-supports:
-- CLAIM-342
-- CLAIM-340
-- CLAIM-404
-- CLAIM-406
-- CLAIM-400
-- CLAIM-429
-illustrated_by:
-- CASE-123
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

@@ -35,18 +35,6 @@ summary: >-
   apportioned ([QUESTION-033](QUESTION-033.md)), which blocks are agents? It sharpens
   [QUESTION-009](QUESTION-009.md) by making the answer relative to a level and a target, as
   the owner proposed on 2026-10-11, and asks for a test that can fail.
-answered_by:
-- CLAIM-170
-- CLAIM-174
-refined_by:
-- QUESTION-228
-bearing:
-- THEORY-801
-- THEORY-624
-- THEORY-616
-- THEORY-208
-- THEORY-071
-- CLAIM-155
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->

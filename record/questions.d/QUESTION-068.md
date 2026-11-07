@@ -11,11 +11,6 @@ tags:
 - agency
 date: '2026-10-12'
 line: 'authenticity'
-answered_by:
-- THEORY-118
-- THEORY-119
-- THEORY-122
-- THEORY-147
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-011](QUESTION-011.md), [CLAIM-022](../claims.d/CLAIM-022.md) and

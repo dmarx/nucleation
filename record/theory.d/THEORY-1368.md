@@ -26,6 +26,8 @@ summary: >-
   which was not read; the thresholds are numerical, and the rigidity
   threshold is a peak of a second derivative with a heuristic explanation.
   Planar quad kirigami and infinitesimal rigidity only; no experiments.
+corroborates:
+- CLAIM-562
 ---
 
 # THEORY-1368: Chen, Choi and Mahadevan show that in a quad kirigami sheet read as a linkage the fewest links that rigidify the sheet always outnumber the fewest that connect it, and that under random links the maximum of internal mechanisms, connectivity percolation and rigidity percolation fall at distinct link densities in that order

@@ -23,8 +23,6 @@ tags:
 date: '2026-10-26'
 source:
 - LIT-1532
-extended_by:
-- THEORY-1014
 summary: >-
   Marks et al. (2025), [LIT-1532](../literature.d/LIT-1532.md), read in [NOTE-1187](../notes.d/NOTE-1187.md): §§2–3.2,
   Figure 3 and Appendices A, B and H. Faithfulness is (m(C) − m(∅))/(m(M) −

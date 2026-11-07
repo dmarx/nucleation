@@ -23,8 +23,6 @@ summary: >-
   multivariate split use I_min, which the record has not read argued for.
   The one-parameter family and the three corners of the two-source family
   were recomputed. The text mislabels the synergistic corner.
-supports:
-- CLAIM-335
 ---
 
 

@@ -36,8 +36,6 @@ summary: >-
   reversible one-parameter groups and an observable–generator map; it says
   nothing about dissipative or stochastic dynamics, nor about the
   Lagrangian form of Noether's theorem.
-supports:
-- CLAIM-094
 ---
 
 

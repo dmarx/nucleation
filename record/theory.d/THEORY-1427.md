@@ -41,6 +41,9 @@ summary: >-
   without a general guarantee; and only patterns with four boundary
   vertices are treated. It does not say how the branches join away from
   the flat state, or that a real sheet misfolds at any measured rate.
+corroborates:
+- CLAIM-567
+- CLAIM-568
 ---
 
 # THEORY-1427: Chen and Santangelo find that a flat triangulated rigid origami sits at a singular point of its configuration space, where it admits more first-order motions than its generic dimension; in numerical root-finding on random triangulations with four boundary vertices and 2 to 8 internal vertices, 2^Vi folding branches meet there with a few exceptions, two for each pair of a vertex popping pattern and its global reversal, which they prove for triangulations built by Henneberg-1 moves, and they conclude that a generic self-folding structure is likely to become trapped in a misfolded state

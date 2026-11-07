@@ -23,10 +23,6 @@ summary: >-
   since the dynamics build irreversibility in, and they say nothing about
   extremum principles for steady states. Their practical reach is work
   fluctuations of order k_BT.
-presupposed_by:
-- THEORY-412
-extended_by:
-- THEORY-482
 ---
 
 <!-- inactive-ok-file: THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->

@@ -55,8 +55,6 @@ summary: >-
   answers [QUESTION-063](../questions.d/QUESTION-063.md) in part: separate interventions on drive and
   channel do discriminate, and a timing-only measure does not. Direction
   of coupling, and a perturbation of one member, are not in it.
-reports:
-- CASE-149
 bears_on:
 - QUESTION-063
 ---

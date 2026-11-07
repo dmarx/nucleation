@@ -31,8 +31,6 @@ date: '2026-10-15'
 line: distributed-agency
 uses:
 - TERM-055
-supersedes:
-- CLAIM-306
 rests_on:
 - CLAIM-311
 grounds:

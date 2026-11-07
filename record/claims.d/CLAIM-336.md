@@ -77,6 +77,7 @@ uses:
 - TERM-039
 - TERM-103
 - TERM-101
+- TERM-053
 summary: >-
   The owner's, U2 of the exchange of 2026-10-16: the pragmatic-transport
   model and the will-organization model are "both manifestations of the
@@ -89,8 +90,6 @@ summary: >-
 complements:
 - CLAIM-341
 - CLAIM-450
-supports:
-- CLAIM-338
 ---
 <!-- inactive-ok-file: ARG-065 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->

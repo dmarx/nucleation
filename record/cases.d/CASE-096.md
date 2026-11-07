@@ -23,8 +23,6 @@ summary: >-
   by scaling everything together. Its second reading, in signal detection terms,
   has the direction wrong ([CLAIM-309](../claims.d/CLAIM-309.md)). Stipulated: the preference is the owner's,
   taken on the owner's word.
-supports:
-- CLAIM-309
 ---
 
 # CASE-096: The smoothie: milk makes it better for a while and then worse, unless there is more of everything else

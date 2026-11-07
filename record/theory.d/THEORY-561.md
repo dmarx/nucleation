@@ -33,8 +33,6 @@ summary: >-
   contributions, the threshold's value is left open, and so the line
   between distributed morality and a sum of loaded acts is a free
   parameter. Responsibility for such outcomes is not given here.
-presupposed_by:
-- THEORY-207
 ---
 <!-- inactive-ok-file: THEORY-207 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the open question this account bears on, cited as such -->

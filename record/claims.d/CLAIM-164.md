@@ -64,11 +64,6 @@ summary: >-
 complements:
 - CLAIM-154
 - CLAIM-377
-supports:
-- CLAIM-157
-corroborated_by:
-- THEORY-084
-- THEORY-078
 ---
 
 # CLAIM-164: What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide

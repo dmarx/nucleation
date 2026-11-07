@@ -27,9 +27,6 @@ summary: >-
   and it can enter the process that produces its own evidence. It is a
   case for regulative attribution ([THEORY-137](../theory.d/THEORY-137.md), [QUESTION-049](../questions.d/QUESTION-049.md)) beyond mental
   states. Stipulated; it shows no particular reputation was self-fulfilling.
-supports:
-- CLAIM-327
-- CLAIM-402
 ---
 
 # CASE-103: A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it

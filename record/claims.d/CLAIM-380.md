@@ -42,9 +42,6 @@ line:
 - formal-apparatus
 grounds:
 - THEORY-717
-supports:
-- CLAIM-259
-- CLAIM-326
 summary: >-
   The finite-outcome part of [CLAIM-326](CLAIM-326.md). Define
   D⁺_Q(U → V; π) = sup over q in Q of [r_q,π(V) − r_q,π(U)]⁺, with losses in

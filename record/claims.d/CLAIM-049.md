@@ -27,9 +27,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-074
-corroborated_by:
-- THEORY-155
-- THEORY-489
 summary: >-
   A110 §22, recovered, with its case: a translator familiar with an
   underworld genre conserves its affiliative humour, a naive one turns

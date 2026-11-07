@@ -50,8 +50,6 @@ summary: >-
   is not settled.
   Promoted 2026-10-20 on the report differences measured ([ADR-047](../decisions.d/ADR-047.md) v3);
   the perceptual reading is [THEORY-827](THEORY-827.md).
-extended_by:
-- THEORY-827
 ---
 <!-- inactive-ok-file: THEORY-827 — Proposed; the perceptual reading this entry leaves open, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-765 — Rejected; the account this one corrects, named -->

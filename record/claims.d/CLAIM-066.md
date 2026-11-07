@@ -31,8 +31,6 @@ summary: >-
   From the readings of Griffiths and Kalish ([NOTE-599](../notes.d/NOTE-599.md)) and Kirby,
   Cornish and Smith ([NOTE-596](../notes.d/NOTE-596.md), Skimmed). The manuscript cites them as
   showing one thing; they show different things.
-supports:
-- CLAIM-234
 ---
 <!-- inactive-ok-file: ARG-035 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; the claim this objection was to, open -->

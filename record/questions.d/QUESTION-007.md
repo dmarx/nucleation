@@ -20,10 +20,6 @@ tags:
 - social-ontology
 date: '2026-10-05'
 line: authenticity
-answered_by:
-- CLAIM-096
-- THEORY-075
-- THEORY-027
 summary: >-
   The owner's question at U75: authenticity, if it gives normativity at
   all, gives it downward from an agent to its constituents, and not

@@ -30,8 +30,8 @@ summary: >-
   illocutionary acts, and its extension to timeless and sentence meaning
   is "a first shot" with the red light admitted as awkward. Strawson's
   watcher case ([LIT-1043](../literature.d/LIT-1043.md)) shows its three intentions are not sufficient.
-extended_by:
-- THEORY-511
+corroborates:
+- CLAIM-160
 ---
 <!-- inactive-ok-file: CLAIM-221 THEORY-511 THEORY-665 — Proposed; the objection, the rational-speech-act account and the neighbouring accounts of illocution and assertion, cited as open -->
 

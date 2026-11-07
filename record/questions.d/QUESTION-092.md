@@ -26,11 +26,6 @@ summary: >-
   a difference that matters to self-governance at all. The record's thesis
   answers yes ([CLAIM-284](../claims.d/CLAIM-284.md)), and [CLAIM-116](../claims.d/CLAIM-116.md) warns that regulation, even
   of regulation, does not establish a will.
-answered_by:
-- CLAIM-485
-- CLAIM-284
-bearing:
-- THEORY-219
 ---
 
 # QUESTION-092: Is endogenous governance part of what makes a system self-governing: can an organization that allocates authority among its own processes be self-governing in a stronger sense than a behaviourally equivalent one whose allocation an external scheduler sets?

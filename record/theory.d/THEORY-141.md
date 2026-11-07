@@ -45,6 +45,7 @@ rivals:
 - THEORY-607
 corroborates:
 - CLAIM-060
+- CLAIM-359
 ---
 <!-- inactive-ok-file: THEORY-1351 — new; West et al.'s account, cited in the note of 2026-11-04 -->
 <!-- inactive-ok-file: LIT-721 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->

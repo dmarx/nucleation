@@ -42,8 +42,6 @@ summary: >-
   tens of tokens, the fitted exponent overlaps γ/(2β), best near the start
   of the envelope; γ is estimated from trained models' own n-gram losses.
   Whether the horizon is why is open (QUESTION-233).
-extended_by:
-- THEORY-784
 bears_on:
 - QUESTION-039
 ---

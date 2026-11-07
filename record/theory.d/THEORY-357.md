@@ -22,8 +22,6 @@ summary: >-
   and statistically far by an image count (§3.3.1). That a samplable such pair
   exists only if one-way functions do is cited to Goldreich 1990, not read. The
   book's statistical difference has no factor ½, so it is twice total variation.
-supports:
-- CLAIM-302
 bears_on:
 - QUESTION-103
 ---

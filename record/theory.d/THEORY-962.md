@@ -48,10 +48,8 @@ summary: >-
   estimated, not how fast; the rates are [THEORY-964](THEORY-964.md).
 answers:
 - QUESTION-272
-extended_by:
-- THEORY-961
-presupposed_by:
-- THEORY-963
+corroborates:
+- CLAIM-446
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification this lemma feeds, filed from the same reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is worked here, nothing here rests on it -->

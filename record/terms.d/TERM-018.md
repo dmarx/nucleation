@@ -10,16 +10,11 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-026
 summary: >-
   A39 §3.2: an action that changes the conditions under which an
   utterance is interpreted. Telling a reader who the speaker is and
   asking the reader to take the utterance a certain way are different
   interventions. Splits the A30 operator sense of frame.
-used_by:
-- CLAIM-127
-- CLAIM-130
 ---
 
 # TERM-018: framing intervention

@@ -26,8 +26,6 @@ summary: >-
   owner's decision, not made here. An answer is a model that defines
   function from the dynamics and tells it from mere contribution to
   persistence, and an account of what a standard needs beyond it.
-refined_by:
-- QUESTION-129
 ---
 
 <!-- inactive-ok-file: QUESTION-007 — Deferred; set aside with the authenticity line, and cited to say where the cross-agent half went -->

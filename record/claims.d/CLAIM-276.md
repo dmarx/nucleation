@@ -47,8 +47,6 @@ complements:
 - CLAIM-297
 - CLAIM-351
 - CLAIM-359
-corroborated_by:
-- THEORY-143
 ---
 <!-- inactive-ok-file: THEORY-143 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

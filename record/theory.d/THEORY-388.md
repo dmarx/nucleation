@@ -24,10 +24,6 @@ summary: >-
   STOC text states 1/ε and only for ε > 1. Grid bucketing gives Õ(d) queries
   for n·O(1/ε)^d preprocessing. Preprocessing is counted as space. Nothing is
   proved about whether these exponents can be beaten.
-extended_by:
-- THEORY-372
-supports:
-- CLAIM-313
 ---
 
 # THEORY-388: Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy

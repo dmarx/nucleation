@@ -41,8 +41,6 @@ summary: >-
   the round trip Y → rest → Y, dependence the inward leg alone. Not about
   VAR(p ≥ 2), where the reading reports that an independent variable can
   carry memory, nor about nonlinear systems.
-supports:
-- CLAIM-398
 bears_on:
 - QUESTION-222
 ---

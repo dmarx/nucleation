@@ -41,10 +41,6 @@ summary: >-
   The manuscript's §10, Case III, which calls T2I-CompBench and GenEval
   object-centered baselines. [CLAIM-097](CLAIM-097.md) qualifies that for
   T2I-CompBench.
-objected_by:
-- CLAIM-097
-illustrated_by:
-- CASE-004
 ---
 <!-- inactive-ok-file: THEORY-250 — Proposed; filed today, cited for what LIT-938 measures, not leaned on -->
 

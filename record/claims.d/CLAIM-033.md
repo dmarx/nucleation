@@ -51,8 +51,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-042
-corroborated_by:
-- THEORY-170
 summary: >-
   A75, recovered: transport maps region to region, and "the translation
   can broaden conceptual possibilities while narrowing interpersonal
@@ -61,8 +59,6 @@ summary: >-
 complements:
 - CLAIM-128
 - CLAIM-214
-objected_by:
-- CLAIM-238
 ---
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->
 

@@ -16,8 +16,6 @@ tags:
 - contextuality
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- CLAIM-101
 superseded_by:
 - CLAIM-026
 uses:

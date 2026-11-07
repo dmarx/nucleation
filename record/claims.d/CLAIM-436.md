@@ -66,8 +66,6 @@ summary: >-
   admits no ordering at all (Luce; Tversky). Across instants,
   representations need not be related, so a sequence of currencies need
   not be one currency.
-supports:
-- CLAIM-435
 ---
 <!-- inactive-ok-file: THEORY-101 THEORY-090 — Proposed; the two accounts whose distinction the result draws formally, cited as open -->
 <!-- inactive-ok-file: LIT-1454 — Unavailable, no lawful full text; Debreu 1954, cited for the theorem as Debreu restates it in LIT-1435 -->

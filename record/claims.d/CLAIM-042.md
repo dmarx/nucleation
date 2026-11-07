@@ -34,8 +34,6 @@ works:
 - what-survives-translation
 objects_to:
 - CLAIM-008
-supersedes:
-- CLAIM-008
 uses:
 - TERM-009
 - TERM-042
@@ -44,10 +42,6 @@ summary: >-
   formulation". The manuscript §2: observations "are not ordered into
   one strict ontological ladder", and "An identified communicative
   object may be represented by an intersection of such regions."
-supports:
-- CLAIM-033
-- CLAIM-038
-- CLAIM-119
 ---
 <!-- ref::uses-file: TERM-009 — stated in "levels, as levels at which observables exist"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-042 — TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case the title names last (the manuscript keeps it as that special case, §2); until 2026-10-27 it used TERM-022, now Superseded -->

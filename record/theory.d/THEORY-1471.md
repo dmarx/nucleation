@@ -36,6 +36,8 @@ summary: >-
   is about small (4–20% of consumption), weakly means-tested transfers
   still being paid, one to two years in; it says nothing about work after
   transfers stop, nor about state-level aid.
+corroborates:
+- CLAIM-600
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
 

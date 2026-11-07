@@ -20,8 +20,6 @@ summary: >-
   A fictional cooperative founded for openness and public benefit whose
   sustaining mechanisms come to outweigh its mission as it grows (A31):
   persistence through turnover with the founding intentions lost.
-supports:
-- CLAIM-280
 ---
 
 # CASE-006: Open Horizon

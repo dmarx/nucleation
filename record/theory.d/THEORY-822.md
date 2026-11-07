@@ -27,8 +27,6 @@ source:
 - LIT-1242
 summary: >-
   Rosas et al. (arXiv 2024), [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md), on Kemeny–Snell lumpability, joined to Shpak et al.'s column-equitable partitions ([LIT-1242](../literature.d/LIT-1242.md), [THEORY-755](THEORY-755.md)). Exact closure of a block label in a Markov chain is a condition on transition rows, a symmetry, and not weak coupling. The converse needs the label to be Markov: a closed label can have memory. Exact results only, with no bound for nearly lumpable partitions.
-supports:
-- CLAIM-409
 bears_on:
 - QUESTION-218
 ---

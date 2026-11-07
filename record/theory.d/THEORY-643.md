@@ -31,8 +31,6 @@ summary: >-
   part. Several sub-arguments are provisional by the author's own account,
   and Müller's reply in the same volume disputes extraction, coordination
   and the resultative argument.
-presupposed_by:
-- THEORY-588
 ---
 <!-- inactive-ok-file: THEORY-588 — Proposed; the account that presupposes this one, cited as open -->
 

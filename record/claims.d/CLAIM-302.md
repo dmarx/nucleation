@@ -37,8 +37,6 @@ summary: >-
   on at most 2^(n/2) strings that no circuit of size 2^(n/8) tells from uniform.
   Only an efficiently samplable witness needs an assumption, and a secure pseudorandom
   generator supplies one. All of it is asymptotic, about ensembles indexed by n.
-supports:
-- CLAIM-304
 ---
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 

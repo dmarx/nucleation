@@ -12,8 +12,6 @@ date: '2026-10-28'
 line: pragmatic-transport
 refines:
 - QUESTION-030
-answered_by:
-- CLAIM-130
 summary: >-
   The part of [QUESTION-030](QUESTION-030.md)'s empirical half that [CLAIM-130](../claims.d/CLAIM-130.md) settles, split
   off by the status review of 2026-10-28 under [ADR-049](../decisions.d/ADR-049.md). No: telling an

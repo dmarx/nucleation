@@ -55,8 +55,6 @@ summary: >-
   intervention distribution at both levels is QUESTION-204.
 answers:
 - QUESTION-250
-extended_by:
-- THEORY-787
 ---
 
 <!-- inactive-ok-file: THEORY-787 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

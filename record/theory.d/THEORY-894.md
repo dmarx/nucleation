@@ -22,9 +22,6 @@ summary: >-
   Both read from arXiv; the proofs were followed. Settled as mathematics.
   Whether its shares measure a negotiation's potential depends on
   cardinal assumptions that the record's orderings do not supply.
-supports:
-- CLAIM-434
-- CLAIM-444
 ---
 <!-- inactive-ok-file: TERM-076 CLAIM-440 — Proposed, Open or draft; the term, claims and question this result bears on, and the ordinal result filed with it -->
 

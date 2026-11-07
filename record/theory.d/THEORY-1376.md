@@ -33,6 +33,12 @@ summary: >-
   whose categories are the ultrametric spaces. It does not say anything
   about algorithms, or about resources whose cost depends on the order of
   operations.
+corroborates:
+- CLAIM-563
+- CLAIM-571
+- CLAIM-581
+- CLAIM-590
+- CLAIM-591
 ---
 
 # THEORY-1376: Lawvere shows that a generalized metric space is exactly a category enriched in the extended non-negative reals under addition, with the triangle inequality as composition, so that dropping symmetry and finiteness is natural and enriched-category constructions specialise to metric-space theory

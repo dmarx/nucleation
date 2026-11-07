@@ -49,6 +49,8 @@ summary: >-
   images is an analogy.
 bears_on:
 - QUESTION-039
+corroborates:
+- CLAIM-360
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed or open; cited as the account this one extends and those it is set beside -->
 

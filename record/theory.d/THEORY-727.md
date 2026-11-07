@@ -35,8 +35,6 @@ summary: >-
   κ(E)/dist(iω, Λ(A)), with the ε-pseudospectrum marking where eigenvalues
   of A + Δ, ‖Δ‖ < ε, can go. All in a chosen norm. The white-noise variance
   result is [THEORY-323](THEORY-323.md)'s, still Proposed.
-extended_by:
-- THEORY-323
 ---
 <!-- inactive-ok-file: THEORY-323 THEORY-325 — Proposed; the account this was split from and its companions, cited as open -->
 

@@ -39,8 +39,6 @@ summary: >-
   Promoted on 2026-10-20 with both constructions re-derived. Whether the
   trace condition suffices inside Kadanoff's kernel families is
   QUESTION-205.
-supports:
-- CLAIM-152
 ---
 
 # THEORY-202: In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition

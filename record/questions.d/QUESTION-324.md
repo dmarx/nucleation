@@ -12,8 +12,6 @@ date: '2026-10-29'
 line: formal-apparatus
 refines:
 - QUESTION-252
-answered_by:
-- CLAIM-401
 summary: >-
   The last clause of [QUESTION-252](QUESTION-252.md), split off by the thirteenth status
   review under [ADR-049](../decisions.d/ADR-049.md) because [CLAIM-401](../claims.d/CLAIM-401.md) (Active) settles it: they are not

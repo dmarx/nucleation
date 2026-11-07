@@ -63,8 +63,6 @@ premises:
 bears_on:
 - QUESTION-439
 - QUESTION-360
-supersedes:
-- CLAIM-620
 summary: >-
   The thesis of U18 to U21 of the exchange "Individuation, Possibility,
   and Disposition" (2026-11-06 to 07), from A39 §12 to A45 §XVI, the

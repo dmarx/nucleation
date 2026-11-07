@@ -19,8 +19,6 @@ illustrates:
 summary: >-
   A6's third case. Accountability without correctness, one of [CLAIM-299](../claims.d/CLAIM-299.md)'s three
   separations, and A6's "direct companion to [CLAIM-181](../claims.d/CLAIM-181.md) and [CLAIM-190](../claims.d/CLAIM-190.md)".
-supports:
-- CLAIM-299
 ---
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

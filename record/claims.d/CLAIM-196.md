@@ -48,9 +48,6 @@ summary: >-
   disjoint, and they script the occasions where audiences must meet.
   Broadcast and networked media collapse contexts, which creates overlaps
   the person did not choose (boyd 2008, after Meyrowitz 1985).
-illustrated_by:
-- CASE-052
-- CASE-064
 uses:
 - TERM-045
 ---

@@ -59,8 +59,6 @@ works:
 - what-survives-translation
 answers:
 - QUESTION-002
-supersedes:
-- CLAIM-017
 rests_on:
 - CLAIM-082
 - CLAIM-050
@@ -71,17 +69,9 @@ summary: >-
   every relation must survive, or that there is one privileged set of
   observables: the choice of observables and decision tasks is stated to
   be normative and contestable (§11).
-illustrated_by:
-- CASE-031
 complements:
 - CLAIM-133
 - CLAIM-223
-objected_by:
-- CLAIM-222
-- CLAIM-226
-- CLAIM-238
-- CLAIM-243
-- CLAIM-244
 bears_on:
 - QUESTION-021
 ---

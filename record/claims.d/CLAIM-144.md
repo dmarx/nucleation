@@ -29,8 +29,6 @@ summary: >-
   marker). And it described frames as patches glued by a cocycle, which
   they are not: each inertial frame charts all of spacetime, and the
   frames are related by the Poincaré group.
-illustrated_by:
-- CASE-039
 ---
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->
 

@@ -16,8 +16,6 @@ line: nucleating-argument
 summary: >-
   A6's second case. It grounds [CLAIM-293](../claims.d/CLAIM-293.md): the same edges E₁ → H ← E₂, different
   Bayes factors for E₂, different revisions when E₁ fails.
-supports:
-- CLAIM-293
 ---
 
 # CASE-089: The compensating evidence problem: two records with the same support graph in which discounting one support leaves odds of 20:1 or of 1.1:1

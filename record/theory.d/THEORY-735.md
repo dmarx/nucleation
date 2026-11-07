@@ -32,8 +32,6 @@ summary: >-
   expected decrease. It says nothing about whether real training meets
   those assumptions, or how well the noise scale predicts the measured
   critical batch, which is [THEORY-033](THEORY-033.md).
-extended_by:
-- THEORY-033
 ---
 <!-- inactive-ok-file: THEORY-033 — Proposed; the measured account this derivation was split from, not leaned on -->
 

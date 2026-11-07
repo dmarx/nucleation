@@ -60,8 +60,6 @@ summary: >-
   reach staleness, which the theorem forbids rather than prices, or drifting
   costs, and where reuse can be forecast an expected-reuse rule can do better,
   so [CLAIM-303](CLAIM-303.md)'s criterion survives there.
-objected_by:
-- CLAIM-314
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-185 — Proposed; the claim objected to, and an open claim cited as open -->
 

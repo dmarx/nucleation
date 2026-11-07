@@ -13,8 +13,6 @@ date: '2026-10-23'
 line: distributed-agency
 refines:
 - QUESTION-063
-answered_by:
-- THEORY-275
 summary: >-
   The negative part of [QUESTION-063](QUESTION-063.md), split off under [ADR-049](../decisions.d/ADR-049.md) at the
   owner's request in the exchange of 2026-10-23, "Framework Overview

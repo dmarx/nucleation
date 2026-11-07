@@ -56,11 +56,6 @@ summary: 'The general content of [CLAIM-142](CLAIM-142.md), filed alone under [A
   a morphism the probes see as invertible is invertible, but objects with
   isomorphic profiles need not be isomorphic. Matching every probe''s marginal
   leaves the joint unconstrained. The evidential rule is [CLAIM-322](CLAIM-322.md)''s.'
-supports:
-- CLAIM-142
-- CLAIM-190
-- CLAIM-187
-- CLAIM-322
 complements:
 - CLAIM-302
 ---

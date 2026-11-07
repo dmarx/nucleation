@@ -53,8 +53,6 @@ grounds:
 - LIT-1452
 - LIT-1468
 - LIT-1451
-corroborated_by:
-- THEORY-873
 bears_on:
 - QUESTION-059
 summary: >-

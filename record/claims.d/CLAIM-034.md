@@ -22,11 +22,6 @@ summary: >-
   inadvertence; the manuscript keeps only that transport is directed.
 complements:
 - CLAIM-147
-illustrated_by:
-- CASE-038
-- CASE-122
-supports:
-- CLAIM-189
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 

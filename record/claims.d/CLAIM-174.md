@@ -111,8 +111,6 @@ grounds:
 - LIT-911
 - LIT-909
 - LIT-398
-corroborated_by:
-- THEORY-092
 summary: >-
   The assistant's admission test for the owner's thesis, filed at the
   owner's request. It has three tests on a candidate factor, at a level
@@ -124,13 +122,6 @@ summary: >-
   circularity objection by running on candidates whose boundaries come
   from (1), not from agency, and it answers the permissiveness objection
   without the will paper's supposition.
-illustrated_by:
-- CASE-044
-objected_by:
-- CLAIM-194
-- CLAIM-393
-supports:
-- CLAIM-367
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->

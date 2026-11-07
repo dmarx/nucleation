@@ -20,8 +20,6 @@ summary: >-
   Hofstadter's starting criterion, as A4 reports it, and the Pareto-
   frontier picture of fidelity around it. Refuted in the same reply by
   the mother's translation.
-countered_by:
-- CASE-011
 ---
 <!-- ref::uses-file: TERM-001 — stated in "fidelity, as the number of preserved constraints", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: LIT-766 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->

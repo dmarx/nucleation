@@ -10,15 +10,11 @@ tags:
 - philosophy-of-language
 date: '2026-10-08'
 line: pragmatic-transport
-supersedes:
-- TERM-022
 summary: >-
   A78, after the owner's U29 pointer to the record: an object is a
   compatible family of local sections of the event presheaf over a cover
   of jointly accessible observables, with no global assignment
   presupposed. The manuscript §3.
-used_by:
-- CLAIM-124
 superseded_by:
 - TERM-042
 ---

@@ -25,8 +25,6 @@ summary: >-
   a relational configuration, with D_prag, D_dyn and local versus global
   distances. Superseded at U28 when the owner made the levels levels of
   observables.
-objected_by:
-- CLAIM-042
 ---
 <!-- ref::uses-file: TERM-032 — stated in "levels, as a hierarchy of latent representations", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: TERM-032 — Superseded; replaced, and cited as the history this entry answers or replaces -->

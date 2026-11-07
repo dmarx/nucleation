@@ -19,8 +19,6 @@ tags:
 - moral-psychology
 date: '2026-10-22'
 line: distributed-agency
-supports:
-- CLAIM-430
 illustrates:
 - CLAIM-275
 summary: >-

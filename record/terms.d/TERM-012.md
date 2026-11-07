@@ -10,8 +10,6 @@ tags:
 - ethics
 date: '2026-10-04'
 line: authenticity
-used_by:
-- CLAIM-016
 summary: >-
   A graded relational property of how an encompassing agent's governing
   organization stands to the capacities of its constituents and

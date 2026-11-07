@@ -24,13 +24,6 @@ summary: >-
   is for a fixed finite set, on squared distances, and it rests on entries
   being zero-mean. It says nothing about maps that go up in dimension or are
   followed by a threshold.
-extended_by:
-- THEORY-395
-presupposed_by:
-- THEORY-390
-- THEORY-392
-- THEORY-394
-- THEORY-396
 ---
 <!-- inactive-ok-file: LIT-1158 — Unavailable; the fly paper, named as the case this account does not cover -->
 

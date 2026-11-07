@@ -27,11 +27,6 @@ summary: >-
   copy count and frequency of use as what decides whether a bin is worth making,
   and exhaustive search as the reason presence is never in doubt. Stipulated: the
   collection is real, and its facts are taken on the owner's account.
-supports:
-- CLAIM-307
-- CLAIM-310
-- CLAIM-306
-- CLAIM-312
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
 

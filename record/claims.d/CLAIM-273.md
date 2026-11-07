@@ -100,8 +100,6 @@ summary: >-
   It fails for the other half, since a copied artwork's order comes from its
   design, not from an instability (CASE-079; Adams et al. corroborate). No
   thermodynamic quantity is defined.
-corroborated_by:
-- THEORY-224
 ---
 <!-- inactive-ok-file: CLAIM-274 THEORY-224 CLAIM-163 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-913 — Unavailable; no copy could be obtained, cited as the precedent still to read and marked unread in the text -->

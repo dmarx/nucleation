@@ -20,8 +20,6 @@ summary: >-
   dropping it permits ψ-epistemic models. The theorem excludes overlap,
   not every reading of ψ as knowledge, and it does not reach theories
   outside the ontological-models framework.
-presupposed_by:
-- THEORY-586
 ---
 
 <!-- inactive-ok-file: THEORY-485 THEORY-586 THEORY-621 THEORY-630 THEORY-631 — Proposed; accounts that read or answer this theorem, named, not leaned on -->

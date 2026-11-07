@@ -42,10 +42,6 @@ summary: >-
   precision-lowering drug only suppresses symptoms. No data are fitted,
   parameters are unreported, and the two intervention arms differ in
   environment as well as mechanism.
-supports:
-- CLAIM-339
-- CLAIM-342
-- CLAIM-446
 bears_on:
 - QUESTION-045
 - QUESTION-303

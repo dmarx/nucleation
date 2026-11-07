@@ -35,6 +35,8 @@ summary: >-
   learning that exposure produces need not change together. That is the
   basis of their case against habituation-based exposure. The paper
   reports no data, and the cited studies are mostly analog samples.
+corroborates:
+- CLAIM-446
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this corroborates, named, nothing here rests on it -->
 

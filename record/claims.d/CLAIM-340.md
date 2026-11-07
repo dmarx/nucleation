@@ -42,10 +42,6 @@ summary: >-
   fail by oscillation when |βγ| ≥ 1 − αδ. Revising predictions after the
   evidence sets γ = 0 but also stops authority from tracking who predicts
   well. Linear, at the symmetric state, for squared-error scoring.
-illustrated_by:
-- CASE-123
-supports:
-- CLAIM-404
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

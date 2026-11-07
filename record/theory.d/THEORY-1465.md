@@ -43,6 +43,9 @@ summary: >-
   health and stress are not ruled out; the asset came bundled with
   consumption support, health support and training; and crossing the
   threshold is no guarantee.
+corroborates:
+- CLAIM-601
+- CLAIM-605
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed; cited from the reading of Balboni et al. (2022) as open -->
 

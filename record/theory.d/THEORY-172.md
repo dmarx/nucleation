@@ -56,14 +56,6 @@ summary: >-
   states the framework. Shown for artificial games with given alternatives,
   by fits of condition means with no rival fitted; a test against named
   rivals on trial-level data is [QUESTION-209](../questions.d/QUESTION-209.md).
-supports:
-- CLAIM-111
-- CLAIM-221
-- CLAIM-236
-- CLAIM-214
-- CLAIM-242
-extended_by:
-- THEORY-785
 ---
 
 <!-- inactive-ok-file: THEORY-785 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

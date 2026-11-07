@@ -78,9 +78,6 @@ summary: >-
   before it. Many effectors act as one through a collective variable,
   with no controller choosing the pattern. Proposed, because the
   relaxation-time and hysteresis data are not read first-hand.
-supports:
-- CLAIM-110
-- CLAIM-163
 corroborates:
 - CLAIM-045
 - CLAIM-172

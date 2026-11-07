@@ -18,8 +18,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-113
-supersedes:
-- CLAIM-036
 superseded_by:
 - CLAIM-017
 uses:

@@ -66,8 +66,6 @@ summary: >-
   unaccessed, not that any is inaccessible.
 rivals:
 - THEORY-096
-presupposed_by:
-- THEORY-098
 bears_on:
 - QUESTION-061
 ---

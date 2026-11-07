@@ -72,16 +72,12 @@ uses:
 - TERM-093
 - TERM-090
 - TERM-092
-corroborated_by:
-- THEORY-1351
 bears_on:
 - QUESTION-282
 - QUESTION-283
 - QUESTION-285
 - QUESTION-281
 - QUESTION-115
-supersedes:
-- CLAIM-474
 summary: >-
   Filed as [CLAIM-474](../claims.d/CLAIM-474.md) at the owner's review of 2026-10-27, which asked for
   a synthesis "From Interconnection to Individuation: A Relational

@@ -42,6 +42,8 @@ summary: >-
   domains. It does not say anything about infinite domains, where the
   author shows CSPs can be undecidable, about quantified CSPs, or about the
   connectivity of the solution space.
+corroborates:
+- CLAIM-578
 ---
 <!-- inactive-ok-file: NOTE-1555 — Skimmed and new; cited from the reading of Zhuk (2020) as open -->
 

@@ -25,9 +25,6 @@ summary: >-
   dropped symmetry and the triangle inequality for distortion. The
   tension was never resolved; the manuscript states its recursion "in
   the chosen metric".
-refined_by:
-- QUESTION-074
-- QUESTION-293
 ---
 <!-- inactive-ok-file: CLAIM-059 CLAIM-186 — listed as material that may bear on this question, not as settled -->
 

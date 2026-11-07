@@ -39,9 +39,6 @@ summary: >-
   record's [TERM-053](../terms.d/TERM-053.md) sense, so h is called a higher-order volition. It
   models authority between regimes; it does not revive will as an
   attractor ([TERM-003](../terms.d/TERM-003.md), Superseded). Fictional by construction.
-supports:
-- CLAIM-025
-- CLAIM-408
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->

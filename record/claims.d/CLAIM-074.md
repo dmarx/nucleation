@@ -53,8 +53,6 @@ summary: >-
   A44 §4 and A48 §5.5, recovered. Kept to outline v4 (§9.5); absent from
   the manuscript, which keeps the context/interpreter split but not its
   consequence for fidelity. Apparently dropped by inadvertence.
-supports:
-- CLAIM-049
 ---
 
 # CLAIM-074: Fidelity is relative to the interpreter's learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities

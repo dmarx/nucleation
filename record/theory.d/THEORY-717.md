@@ -34,15 +34,6 @@ summary: >-
   exactly when Q = PM for some Markov matrix M. The arbitrary-outcome
   extension is [THEORY-156](THEORY-156.md), still Proposed. A qualitative order: most pairs
   are incomparable, and it says nothing about how far apart they are.
-extended_by:
-- THEORY-156
-supports:
-- CLAIM-237
-- CLAIM-323
-- CLAIM-326
-- CLAIM-380
-- CLAIM-381
-- CLAIM-409
 ---
 <!-- inactive-ok-file: LIT-778 — Unavailable; named as where the quantitative question lives, not read -->
 

@@ -36,8 +36,6 @@ summary: >-
   assistant read the term-revisions chain as evidence about the
   manuscript, and made five moves in reply. One of them was "Nucleation
   itself is a case study". One instance, so Proposed.
-corroborated_by:
-- THEORY-137
 ---
 <!-- inactive-ok-file: THEORY-137 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the history of a thesis or term, whose change is the point -->

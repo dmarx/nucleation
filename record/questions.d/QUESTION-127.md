@@ -29,8 +29,6 @@ summary: >-
   preserving symmetries, which are not charts of one space, and training
   trajectories, where "same current function ≠ same learning dynamics".
   An answer sorts each diagnosis by what it is a property of.
-refined_by:
-- QUESTION-286
 ---
 
 # QUESTION-127: Which diagnoses of frustration among a learner's demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?

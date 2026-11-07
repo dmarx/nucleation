@@ -16,8 +16,6 @@ works:
 - organization-of-will
 objects_to:
 - CLAIM-010
-illustrated_by:
-- CASE-034
 summary: >-
   The boundary the paper draws against its own most-repeated objection:
   thermostats, adaptive controllers and organizationally closed systems

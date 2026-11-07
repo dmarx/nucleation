@@ -41,10 +41,6 @@ summary: >-
   that, isometry of the product of layers, is argued and simulated, not
   derived. It says nothing about nonlinear networks' learning time, and it
   is not advice on how to initialise.
-supports:
-- CLAIM-360
-extended_by:
-- THEORY-792
 bears_on:
 - QUESTION-039
 ---

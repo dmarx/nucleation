@@ -40,6 +40,8 @@ summary: >-
   the pattern is "also consistent with there being persistent effects
   without actually getting out of a trap", and that by year 10 the treated
   "have barely escaped poverty". It says nothing about aid to states.
+corroborates:
+- CLAIM-600
 ---
 
 # THEORY-1493: Banerjee, Duflo and Sharma find, in a randomized trial in West Bengal, that the treatment effects of a one-time Targeting the Ultra Poor package on household consumption, income and health grew for seven years after the asset transfer and persisted to year ten, although the implementer had no contact with households after eighteen months; they attribute the persistence mainly to treated households taking better advantage of wage employment and migration, and hold it consistent with, but not proof of, escape from a poverty trap

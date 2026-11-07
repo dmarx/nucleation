@@ -69,14 +69,6 @@ complements:
 - CLAIM-364
 - CLAIM-444
 - CLAIM-358
-corroborated_by:
-- THEORY-913
-- THEORY-904
-- THEORY-918
-- THEORY-908
-- THEORY-922
-- THEORY-923
-- THEORY-909
 summary: >-
   The owner's, 2026-10-23, on whether practice could reconstruct relations
   of practical authority: "what if we just treat this as a kind of momentum
@@ -85,11 +77,6 @@ summary: >-
   Hebbian prior as a learned bias over allocations of authority, and two
   limits are kept: persistence is not amortization, and a prior over
   authority must be told from a prior over actions.
-illustrated_by:
-- CASE-153
-- CASE-155
-supports:
-- CLAIM-446
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

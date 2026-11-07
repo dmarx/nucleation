@@ -69,9 +69,6 @@ grounds:
 - LIT-1478
 - LIT-1487
 - LIT-1489
-corroborated_by:
-- THEORY-919
-- THEORY-906
 summary: >-
   The owner's, 2026-10-23, on the account of governance-maintained anxiety
   ([CLAIM-446](CLAIM-446.md)): "this seems like it would also be supported political

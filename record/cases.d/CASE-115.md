@@ -13,10 +13,6 @@ tags:
 - mathematics
 date: '2026-10-18'
 line: distributed-agency
-supports:
-- CLAIM-351
-- CLAIM-365
-- CLAIM-361
 illustrates:
 - CLAIM-360
 summary: >-

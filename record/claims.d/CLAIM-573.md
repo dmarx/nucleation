@@ -36,9 +36,6 @@ tags:
 date: '2026-11-05'
 line:
 - realizability
-corroborated_by:
-- THEORY-1372
-- THEORY-1407
 uses:
 - TERM-111
 - TERM-114

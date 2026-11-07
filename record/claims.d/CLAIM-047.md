@@ -22,8 +22,6 @@ grounds:
 - CASE-181
 uses:
 - TERM-019
-supports:
-- CLAIM-027
 summary: >-
   The distinction the paper inherits from Frankfurt ([THEORY-120](../theory.d/THEORY-120.md)) and
   generalizes beyond desires: the audit's "established foundation".

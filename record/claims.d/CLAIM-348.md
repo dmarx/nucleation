@@ -69,11 +69,6 @@ summary: >-
   distributed-agency because its case is a whole against its members.
   The sharp edge: it does not say which target is right, and it denies
   that the description can settle it.
-supports:
-- CLAIM-401
-- CLAIM-404
-illustrated_by:
-- CASE-169
 ---
 <!-- inactive-ok-file: CASE-228 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->

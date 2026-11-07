@@ -41,6 +41,8 @@ summary: >-
   large spreads in a growth subset of 87, not adjusted contrasts; and the
   soft-release result runs against the abstract of Resende et al. (2021),
   [LIT-2173](../literature.d/LIT-2173.md), unread.
+corroborates:
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2173 — Unavailable; cited from the reading of Morris et al. (2021) as open -->
 

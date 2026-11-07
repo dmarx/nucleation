@@ -71,9 +71,6 @@ summary: >-
   [NOTE-263](../notes.d/NOTE-263.md) (Sen's lecture) and [NOTE-259](../notes.d/NOTE-259.md) (Robeyns). The sharp edge:
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
-corroborated_by:
-- THEORY-025
-- THEORY-411
 ---
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 

@@ -31,8 +31,6 @@ summary: >-
   than the reading of the evidence, null when equally, capturing when
   less. Checked symbolically, and the stability conditions against
   200,000 random draws. Fictional by construction.
-supports:
-- CLAIM-340
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

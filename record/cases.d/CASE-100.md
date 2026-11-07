@@ -27,8 +27,6 @@ summary: >-
   and no procedure behind it. Documented as to the sequence; the route by
   which the parody reached the decision, and whether the spreaders were
   X-Men fans or the internet at large, is not.
-supports:
-- CLAIM-332
 reported_in:
 - LIT-1142
 ---
