@@ -91,7 +91,7 @@ summary: >-
   Corrections are marked. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2ka9y CLAIM-tmp340im CLAIM-tmp6xhn3 CLAIM-tmpcdshj — filed from the same exchange, Proposed or Deferred; cited as filed -->
+<!-- inactive-ok-file: CLAIM-tmp2ka9y CLAIM-tmp6xhn3 CLAIM-tmpcdshj — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-446 TERM-086 — Deferred, Proposed; cited with their standing -->
 <!-- inactive-ok-file: CLAIM-tmpagkxi CLAIM-tmplgp4k CASE-tmpnlf5c CLAIM-tmpnjz70 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->
 <!-- inactive-ok-file: CASE-tmppdl5x ARG-tmp0fc4y — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
@@ -298,7 +298,7 @@ self-immunization and reflexive counter-normativity; A62 §3 gives the
 criterion; A62 §13 is the version filed. A62 §12 positions the contribution
 against the literature and is descriptive, not filed. Distinct from the
 five synthesis claims filed from the first share ([CLAIM-tmp2ka9y](CLAIM-tmp2ka9y.md),
-[CLAIM-tmp6xhn3](CLAIM-tmp6xhn3.md), [CLAIM-tmpcdshj](CLAIM-tmpcdshj.md), [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md), [CLAIM-tmp340im](CLAIM-tmp340im.md)), none of which
+[CLAIM-tmp6xhn3](CLAIM-tmp6xhn3.md), [CLAIM-tmpcdshj](CLAIM-tmpcdshj.md), [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md), and the since-withdrawn dispositional reframing), none of which
 is normative; [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)'s last clause is this claim's descriptive base.
 
 ## Admission

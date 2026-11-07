@@ -88,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpjw473 CASE-tmpcr92d — filed from the same exchange, Proposed; premise, component and the owner's study -->
 <!-- inactive-ok-file: ARG-tmpvxtof — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
-<!-- inactive-ok-file: CLAIM-tmpnjz70 CLAIM-tmp340im — filed from the same exchange, Proposed; the later theses that rest on this one -->
+<!-- inactive-ok-file: CLAIM-tmpnjz70 — filed from the same exchange, Proposed; the later theses that rest on this one -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
 
 # CLAIM-tmpcdshj: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
@@ -205,7 +205,7 @@ succession: "**The historical identity of an organized individual depends
 on the causal continuity of relationships that realize and reproduce its
 defining capacities.**" A37 is the version filed. A45 §XI and §XVI and A52
 §11 restate it inside the theses on meaning and will ([CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)) and
-on disposition ([CLAIM-tmp340im](CLAIM-tmp340im.md)), which rest on it.
+on disposition (the dispositional reframing, since withdrawn), which rest on it.
 
 ## Admission
 

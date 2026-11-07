@@ -1,8 +1,17 @@
 ---
 status: Proposed
 title: 'A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left'
-version: 3
+version: 4
 history:
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    At the owner's direction: a synthesis CLAIM that passes no route and
+    has not merged is withdrawn before merge, with its text and audit
+    moved into the curation entry, rather than retired as Rejected, since
+    Rejected says the content is wrong. The dispositional reframing filed
+    with this decision is the first case. A merged one waits for its first
+    occurrence.
 - version: 3
   date: '2026-11-07'
   note: >-
@@ -49,7 +58,6 @@ summary: >-
   Rejected: a new scheme for positions, until a synthesis CLAIM strains;
   filing every version; and the status quo.
 ---
-<!-- inactive-ok-file: CLAIM-tmp340im — filed from the same exchange, Rejected -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
 
 # ADR-tmpe7y42: A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
@@ -141,14 +149,22 @@ ledger and before the curation entry.
    - **A free parameter.** A synthesis with an open slot, such as "a
      declared bearer", can absorb every case by choosing the slot, so no
      case can be stated. Fixing the slot can then turn it against its own
-     premises. [CLAIM-tmp340im](../claims.d/CLAIM-tmp340im.md) failed this way, and it passes neither of
+     premises. The dispositional reframing filed with this decision failed this way, and it passes neither of
      the other routes.
 
-   A synthesis CLAIM already filed that passes no route is retired by
-   status, with a status note saying that it was not independently
-   admitted and why. Not admitted is not refuted: the note says its
-   content may be true and is held by the entries it names. Its audit
-   stays.
+   A synthesis CLAIM filed in a contribution that has not yet merged, and
+   that passes no route, is **withdrawn before merge**. Its file is
+   removed, and its text and audit move into the curation entry.
+   Retire-by-status protects codes that have merged, because others may
+   depend on them. A temporary code has no dependants outside its own
+   contribution, and the contribution repoints those it has. A synthesis
+   CLAIM that has merged and is later found not admitted is retired by
+   status, with a note saying it was not independently admitted and why.
+   Not admitted is not refuted: its content may be true, and is held by
+   the entries the note names. The status vocabulary has no value for
+   this, so a merged case is left until it first happens. The proposal for
+   a synthesis scheme, where "not admitted" would be a status of its own,
+   is the likely answer.
 6. **File the latest version of each admitted thesis** as one CLAIM,
    Proposed, with role `thesis` or `supposed`.
    - Its title states the integrating claim, not a label.

@@ -97,7 +97,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpcdshj CASE-tmpb16ru CLAIM-tmpnza8k CLAIM-tmpxe1ih CASE-tmphkso5 — filed from the same exchange, Proposed; premise, the owner's case and A's components -->
-<!-- inactive-ok-file: CLAIM-tmp340im — filed from the same exchange, Proposed; the reframing of this thesis -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-417 TERM-098 CLAIM-276 — Proposed; components, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-553 ARG-tmpr43gg CLAIM-tmpo48w1 CASE-tmp3l0hh ARG-tmpmk7of ARG-tmp77psp — the owner's construct, Proposed, and the argument and claim filed from the second share of the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 THEORY-916 — Proposed; the stipulated construction and the special case, cited in the version 2 corrections with their standing -->
@@ -260,7 +259,7 @@ or practice.**" A41 §13 and §14 add concepts as historically reproduced
 organizations. A43 §12: "**A sufficiently organized will does not merely
 choose among possibilities already made meaningful.**" A45 §I, §XV and
 §XVI are the version filed. A52 §17 restates its clauses in dispositional
-terms, which is the separate reframing in [CLAIM-tmp340im](CLAIM-tmp340im.md).
+terms, which is the separate dispositional reframing, since withdrawn; its text and audit are in the curation entry of 2026-11-07.
 
 Version 2 is from the exchange's second share
 (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c). The

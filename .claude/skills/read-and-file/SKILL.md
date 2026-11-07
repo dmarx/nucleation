@@ -238,9 +238,10 @@ synthesis as well.
   the curation entry, linked to the components. If a narrower sentence
   passes where the stated one fails, file the narrower one. Watch for a
   free parameter ("a declared bearer"): it absorbs every case, and fixing
-  it can contradict the synthesis's own premises. A filed synthesis CLAIM
-  that passes no route is retired by status with a note saying it was not
-  independently admitted. That is not a finding that it is false.
+  it can contradict the synthesis's own premises. A synthesis CLAIM filed
+  in your own unmerged contribution that passes no route is withdrawn:
+  remove the file, move its text and audit into the curation entry, and
+  repoint what cites it. Not admitted is not a finding that it is false.
 - **File the latest version of each admitted thesis** as one CLAIM,
   Proposed:
   - the title states the integrating claim;
