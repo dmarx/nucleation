@@ -14,7 +14,7 @@
 - Thirty-six cited works registered unread, every identifier checked; the checks corrected A's attribution of one review and the dates of two works.
 - The second share of the exchange (U25–U28, the owner's extension): the owner's thesis of counter-normativity ([CLAIM-tmpagkxi](record/claims.d/CLAIM-tmpagkxi.md)) and question ([QUESTION-tmpuveq0](record/questions.d/QUESTION-tmpuveq0.md)); A's second-order wrong of answerability, counter-corrective disposition, incomparable-distinctions claim, contested-label study and [CASE-110](record/cases.d/CASE-110.md) extension; the reader's agenda-cycle construction for [CLAIM-448](record/claims.d/CLAIM-448.md), at the owner's direction; twelve ARGs; revisions of six of this filing's entries and two synthesis CLAIMs; five works registered unread; notes on 27 more entries.
 
-- At A's review of the pull request: the matched-harm construction separating the second-order wrong from the harm (CASE-tmppdl5x, with its ARG); three failures of occlusion kept apart in the answerability claim; the counter-corrective disposition no longer identified with a fink; the anti-vax case's title made provisional; A's qualification beside the owner's counter-normativity claim.
+- At A's review of the pull request: the matched-harm construction separating the second-order wrong from the harm ([CASE-tmppdl5x](record/cases.d/CASE-tmppdl5x.md), with its ARG); three failures of occlusion kept apart in the answerability claim; the counter-corrective disposition no longer identified with a fink; the anti-vax case's title made provisional; A's qualification beside the owner's counter-normativity claim.
 
 ### Changed
 

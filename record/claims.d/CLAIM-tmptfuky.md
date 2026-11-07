@@ -296,11 +296,11 @@ is normative; [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)'s last clause is this claim's 
 
 ## Admission
 
-Under ADR-tmpe7y42's admission test, the integration must be able to fail while every component holds. Two cases show it can.
+Under [ADR-tmpe7y42](../decisions.d/ADR-tmpe7y42.md)'s admission test, the integration must be able to fail while every component holds. Two cases show it can.
 
-- **Condition 5 idle.** Take a projection that is unavoidable but reproduced. The owner's CLAIM-tmpagkxi counts it a wrong ("Not defeated by a case where the projection is unavoidable, since the claim needs the reproduction"). If the record must count it a wrong too, the feasibility bound fails, though every component holds.
-- **Not answerability.** Take a case meeting all five conditions in which the wrong beyond the harm lies wholly in another's capacity to govern those affected, CLAIM-545's domination clause, and persists unchanged once means of knowledge, contest and correction are restored.
+- **Condition 5 idle.** Take a projection that is unavoidable but reproduced. The owner's [CLAIM-tmpagkxi](CLAIM-tmpagkxi.md) counts it a wrong ("Not defeated by a case where the projection is unavoidable, since the claim needs the reproduction"). If the record must count it a wrong too, the feasibility bound fails, though every component holds.
+- **Not answerability.** Take a case meeting all five conditions in which the wrong beyond the harm lies wholly in another's capacity to govern those affected, [CLAIM-545](CLAIM-545.md)'s domination clause, and persists unchanged once means of knowledge, contest and correction are restored.
 
-The claim is admitted on the narrower title. Its non-reduction to the harm is CLAIM-tmpagkxi's thesis and CASE-tmppdl5x's construction, not this claim's integration.
+The claim is admitted on the narrower title. Its non-reduction to the harm is [CLAIM-tmpagkxi](CLAIM-tmpagkxi.md)'s thesis and [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md)'s construction, not this claim's integration.
 
-**A divergence from the owner's thesis.** On unavoidable projections this claim and CLAIM-tmpagkxi disagree: the owner's counts reproduction of an unavoidable blindness as a wrong, and condition 5 here excuses it. Which to keep is the owner's call.
+**A divergence from the owner's thesis.** On unavoidable projections this claim and [CLAIM-tmpagkxi](CLAIM-tmpagkxi.md) disagree: the owner's counts reproduction of an unavoidable blindness as a wrong, and condition 5 here excuses it. Which to keep is the owner's call.

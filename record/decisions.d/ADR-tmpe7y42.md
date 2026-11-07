@@ -122,7 +122,7 @@ ledger and before the curation entry.
    - **A free parameter.** A synthesis with an open slot, such as "a
      declared bearer", can absorb every case by choosing the slot, so no
      case can be stated. Fixing the slot can then turn it against its own
-     premises. Either way it is not admitted. CLAIM-tmp340im, the first
+     premises. Either way it is not admitted. [CLAIM-tmp340im](../claims.d/CLAIM-tmp340im.md), the first
      synthesis retired under this test, failed this way.
 
    A synthesis CLAIM already filed that fails the test is retired by
