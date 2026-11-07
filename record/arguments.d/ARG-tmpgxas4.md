@@ -1,12 +1,20 @@
 ---
 status: Proposed
 title: 'A self-maintaining protective regime, whose interventions shift the evidence and authority that judge it, carries over to a harm-producing organization once a normative predicate replaces the evidence of continued need: the reproductive mechanism transfers and the verdict does not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Its `concludes` now points to SYNTHESIS-tmp73anp, the synthesis
+    CLAIM-tmptfuky was moved into (ADR-tmptu1vn), because it is about
+    the current account and not its archived predecessor. The text is
+    unchanged and still names the claim where it was written against it.
 form: analogy
 rests_on:
 - CLAIM-445
 concludes:
-- CLAIM-tmptfuky
+- SYNTHESIS-tmp73anp
 uses:
 - TERM-020
 tags:
@@ -20,6 +28,7 @@ line:
 summary: >-
   From the record's self-maintaining protective regime ([CLAIM-445](../claims.d/CLAIM-445.md), with [TERM-020](../terms.d/TERM-020.md)'s protective lock-in) to A's second-order wrong of answerability ([CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)), from A60 §3 and A62 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). A did not cite [CLAIM-445](../claims.d/CLAIM-445.md), and called the reproductive structure new. Proposed: the mechanism transfers, the verdict does not. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; cited with their standing -->
 

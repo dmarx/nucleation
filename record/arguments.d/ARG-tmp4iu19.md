@@ -1,12 +1,20 @@
 ---
 status: Proposed
 title: 'If the second-order duty of answerability were unconditional it would entail that a self-maintaining organization ought to preserve its corrigibility, which the record disclaims, so the duty must be bounded by obligation, capability and reasonable alternatives'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Its `concludes` now points to SYNTHESIS-tmp73anp, the synthesis
+    CLAIM-tmptfuky was moved into (ADR-tmptu1vn), because it is about
+    the current account and not its archived predecessor. The text is
+    unchanged and still names the claim where it was written against it.
 form: reductio
 rests_on:
 - CLAIM-520
 concludes:
-- CLAIM-tmptfuky
+- SYNTHESIS-tmp73anp
 tags:
 - ethics
 - self-governance
@@ -17,6 +25,7 @@ line:
 summary: >-
   From the conditional value of a corrective capacity ([CLAIM-520](../claims.d/CLAIM-520.md)) to the bounded form of A's second-order duty in [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md), from A60 §6 and A62 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: an unconditional duty of answerability would entail [CLAIM-511](../claims.d/CLAIM-511.md), which the record disclaims; so the duty must be bounded, as condition 5 bounds it. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: ARG-042 CLAIM-511 — Proposed, Rejected; cited with their standing -->
 

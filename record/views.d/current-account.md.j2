@@ -3,7 +3,7 @@
     line, each with its components and their own status, read from the
     components when the page is built (DP-2: derived, never copied). Codes are
     written bare; the link fixer spells them. -#}
-{%- set live = docs("SYNTHESIS", status="Current") + docs("SYNTHESIS", status="Proposed") -%}
+{%- set live = docs("SYNTHESIS", status="Current", admission="admitted") + docs("SYNTHESIS", status="Proposed", admission="admitted") -%}
 # The current account
 
 *What the record now holds about how its own claims fit together, one line
@@ -13,8 +13,11 @@ of argument at a time. Generated from the SYNTHESIS entries in
 A synthesis says what its components add up to, and which admission route it
 passed: an independent hypothesis, a derived result or an explanatory
 integration (ADR-tmpe7y42). Its components keep their own standing. The status
-beside each component is read from the component when this page is built, so
-a component retired since the synthesis was written shows as retired here.
+beside each component, with its kind, is read from the component when this
+page is built, so a component retired since the synthesis was written shows as
+retired here. An `Open` QUESTION, an `Active` TERM and a `Proposed` CLAIM are
+different kinds of standing, which is why the kind is shown. Only admitted
+syntheses appear; an unadmitted one is kept in its file, not set out here.
 A synthesis marked *Current* is the account the owner has adopted for its
 line; *Proposed* is admitted and argued, not yet adopted. A synthesis that
 spans several lines is set out under its first and pointed to from the
@@ -44,10 +47,10 @@ others.
 
 {{ s.summary }}
 
-| component | its status | what it holds |
-|---|---|---|
+| component | kind | its status | what it holds |
+|---|---|---|---|
 {% for c in s.integrates -%}
-| {{ c.code }}{% if c.code in premises %} (premise){% endif %} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
+| {{ c.code }}{% if c.code in premises %} (premise){% endif %} | {{ c.code.split("-")[0] }} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
 {% endfor %}
 
 **What would defeat the integration:** {{ s.defeated_if }}

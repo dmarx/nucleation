@@ -1,13 +1,21 @@
 ---
 status: Proposed
 title: 'The Challenger-to-Columbia history is evidence that an organization can reproduce the conditions that keep a known hazard from constraining it, reforms undone included, though it says nothing of a second-order wrong'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Its `concludes` now points to SYNTHESIS-tmp73anp, the synthesis
+    CLAIM-tmptfuky was moved into (ADR-tmptu1vn), because it is about
+    the current account and not its archived predecessor. The text is
+    unchanged and still names the claim where it was written against it.
 form: evidence
 grounds:
 - THEORY-140
 - CASE-138
 concludes:
-- CLAIM-tmptfuky
+- SYNTHESIS-tmp73anp
 tags:
 - society-and-governance
 - self-governance
@@ -18,6 +26,7 @@ line:
 summary: >-
   From the Columbia Accident Investigation Board's account ([THEORY-140](../theory.d/THEORY-140.md)) and the Challenger-to-Columbia history ([CASE-138](../cases.d/CASE-138.md)) to the reproductive layer of A's [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md), filed from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). A did not cite either. Proposed: the history is the record's best documented instance of the loop, reforms undone included, and it says nothing of a second-order wrong. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; cited with their standing -->
 

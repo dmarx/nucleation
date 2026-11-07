@@ -8,6 +8,7 @@ history:
   note: >-
     Moved from CLAIM-tmp2ka9y (version 2) into the SYNTHESIS scheme, as ADR-tmptu1vn's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-tmp2ka9y, now Superseded by this entry.
 role: supposed
+admission: admitted
 route: hypothesis
 warrant: interpretive
 defeated_if: >-

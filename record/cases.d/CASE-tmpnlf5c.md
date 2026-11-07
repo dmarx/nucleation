@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Reporting by total output against reporting that also records breaches of the hours cap: under self-scored regime selection the aggregate regime is always kept and records no violation while one occurs, and the adequate regime keeps itself only when the penalty on a recorded breach exceeds the convenience of breaching plus the cost of reporting'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Its `illustrates` now points to SYNTHESIS-tmp73anp, the synthesis
+    CLAIM-tmptfuky was moved into (ADR-tmptu1vn), because it is about
+    the current account and not its archived predecessor. The text is
+    unchanged and still names the claim where it was written against it.
 standing: fictional
 kind: construction
 tags:
@@ -14,7 +22,7 @@ line:
 variant_of:
 - CASE-110
 illustrates:
-- CLAIM-tmptfuky
+- SYNTHESIS-tmp73anp
 summary: >-
   A62 §4 of the second share of the exchange "Individuation, Possibility,
   and Disposition" (2026-11-06 to 07), extending [CASE-110](CASE-110.md)'s two workers
@@ -28,6 +36,7 @@ summary: >-
   history decides. The construction is A's, corrected by the reader;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed; the thesis this case illustrates -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form -->
 
