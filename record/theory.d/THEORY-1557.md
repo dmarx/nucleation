@@ -1,5 +1,8 @@
 ---
+number: 1557
 status: 'Proposed'
+formerly:
+- THEORY-tmp0i15x
 promote_when: >-
   The derivation in Appendix A checked, or the equations verified
   numerically against the closure condition for random degree-4 vertices
@@ -32,7 +35,7 @@ summary: >-
   folding angles at ±π. Read in full in [NOTE-1606](../notes.d/NOTE-1606.md).
 ---
 
-# THEORY-tmp0i15x: Foschi, Hull and Ku hold that the two folding modes of a degree-4 rigid origami vertex whose sector angles do not sum to 2π are disconnected, because such a vertex has no state with every folding angle zero
+# THEORY-1557: Foschi, Hull and Ku hold that the two folding modes of a degree-4 rigid origami vertex whose sector angles do not sum to 2π are disconnected, because such a vertex has no state with every folding angle zero
 
 ## Source
 

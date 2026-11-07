@@ -1,5 +1,8 @@
 ---
+number: 445
 status: 'Open'
+formerly:
+- QUESTION-tmpkd7a1
 title: 'Does an experiment on a 2D DNA origami, resolving domains or staples during annealing, show that most staples bind fully soon after their first domain binds and that assembly proceeds without a measurable nucleation barrier?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   [QUESTION-410](QUESTION-410.md), on DNA-origami results reproduced independently.
 ---
 
-# QUESTION-tmpkd7a1: Does an experiment on a 2D DNA origami, resolving domains or staples during annealing, show that most staples bind fully soon after their first domain binds and that assembly proceeds without a measurable nucleation barrier?
+# QUESTION-445: Does an experiment on a 2D DNA origami, resolving domains or staples during annealing, show that most staples bind fully soon after their first domain binds and that assembly proceeds without a measurable nucleation barrier?
 
 ## Why it is a question
 

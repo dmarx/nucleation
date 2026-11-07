@@ -19,7 +19,7 @@ history:
     classification unchanged (3.5%, SM §6.1) and exemplar generation not
     reliably worse, degrading only the generation of new characters. The
     independent replication the promote_when asked for moves to
-    QUESTION-tmpn1jcn. The old title: Lake, Salakhutdinov and Tenenbaum show
+    QUESTION-446. The old title: Lake, Salakhutdinov and Tenenbaum show
     that a model representing handwritten characters as probabilistic
     programs, composing strokes from primitives learned on other alphabets
     into types whose executions produce tokens, classifies new characters from
@@ -48,7 +48,7 @@ summary: >-
   and 14.0% and were easier to detect, while removing the type-level priors
   left classification at 3.5%. Active as the reported measurements, read
   with the Supplementary Materials' lesions and controls. Independent
-  replication is QUESTION-tmpn1jcn's. The wording is the reader's; adopting it is the
+  replication is QUESTION-446's. The wording is the reader's; adopting it is the
   owner's call.
 ---
 
