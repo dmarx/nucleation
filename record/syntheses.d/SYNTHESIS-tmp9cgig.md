@@ -40,11 +40,11 @@ bears_on:
 - QUESTION-109
 summary: >-
   The costs part of the nucleating-argument line, restated so that it has
-  an address: entrenchment (CLAIM-184) and retrieval-made premises
-  (CLAIM-301), with the granted limit CLAIM-292 (Active); agent filing
-  moving the cost of capture (CLAIM-179); and the trade of filing against
-  reconstruction with its objection thread (CLAIM-303, CLAIM-308,
-  CLAIM-314). All but CLAIM-292 are Proposed. Unadmitted: its links are
+  an address: entrenchment ([CLAIM-184](../claims.d/CLAIM-184.md)) and retrieval-made premises
+  ([CLAIM-301](../claims.d/CLAIM-301.md)), with the granted limit [CLAIM-292](../claims.d/CLAIM-292.md) (Active); agent filing
+  moving the cost of capture ([CLAIM-179](../claims.d/CLAIM-179.md)); and the trade of filing against
+  reconstruction with its objection thread ([CLAIM-303](../claims.d/CLAIM-303.md), [CLAIM-308](../claims.d/CLAIM-308.md),
+  [CLAIM-314](../claims.d/CLAIM-314.md)). All but [CLAIM-292](../claims.d/CLAIM-292.md) are Proposed. Unadmitted: its links are
   held as relations and notes. The wording is the assistant's (Claude, in
   this session); it states what the record holds and adds nothing to it;
   adopting it is the owner's call.
@@ -53,40 +53,40 @@ summary: >-
 
 # SYNTHESIS-tmp9cgig: Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
 
-*A part account of the nucleating-argument line (ADR-tmpyihxy, version 2); the line's synthesis is built over it and its two sibling parts.*
+*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's synthesis is built over it and its two sibling parts.*
 
 ## The account
 
 **Costs.**
 
-- CLAIM-184 (the assistant's; counter, interpretive, Proposed): anchors
+- [CLAIM-184](../claims.d/CLAIM-184.md) (the assistant's; counter, interpretive, Proposed): anchors
   entrench. Its note of 2026-11-06 reports the count: superseded anchors stop
   attracting new structure on this record. Its first half is unshown.
-- CLAIM-301 (A's; thesis, interpretive, Proposed): iterative retrieval can
-  turn a provisional interpretation into a premise, giving CLAIM-184 a route.
-- CLAIM-292 (A's; granted, demonstrated, Active): adaptive search is not
-  biased in itself, filed against CLAIM-301.
-- QUESTION-109 (A's, Open) sets CLAIM-184's cost against CLAIM-182's
-  benefit, and QUESTION-107 (A's, Open) refines it from one retrieval to a
-  sequence. QUESTION-172 (Open) is here because CLAIM-184 grounds on
-  THEORY-178.
+- [CLAIM-301](../claims.d/CLAIM-301.md) (A's; thesis, interpretive, Proposed): iterative retrieval can
+  turn a provisional interpretation into a premise, giving [CLAIM-184](../claims.d/CLAIM-184.md) a route.
+- [CLAIM-292](../claims.d/CLAIM-292.md) (A's; granted, demonstrated, Active): adaptive search is not
+  biased in itself, filed against [CLAIM-301](../claims.d/CLAIM-301.md).
+- [QUESTION-109](../questions.d/QUESTION-109.md) (A's, Open) sets [CLAIM-184](../claims.d/CLAIM-184.md)'s cost against [CLAIM-182](../claims.d/CLAIM-182.md)'s
+  benefit, and [QUESTION-107](../questions.d/QUESTION-107.md) (A's, Open) refines it from one retrieval to a
+  sequence. [QUESTION-172](../questions.d/QUESTION-172.md) (Open) is here because [CLAIM-184](../claims.d/CLAIM-184.md) grounds on
+  [THEORY-178](../theory.d/THEORY-178.md).
 
 **Price.**
 
-- CLAIM-179 (the assistant's; thesis, interpretive, Proposed): agent filing
+- [CLAIM-179](../claims.d/CLAIM-179.md) (the assistant's; thesis, interpretive, Proposed): agent filing
   moves the cost of capture to the party that would re-derive; "The
   disparity does not disappear. It moves."
-- CLAIM-303 (A's; thesis, interpretive, Proposed): filing moves work across
-  time, and recurrence "is evidence of reuse, not the criterion". CASE-088
+- [CLAIM-303](../claims.d/CLAIM-303.md) (A's; thesis, interpretive, Proposed): filing moves work across
+  time, and recurrence "is evidence of reuse, not the criterion". [CASE-088](../cases.d/CASE-088.md)
   (A's, Active) works its arithmetic.
-- CLAIM-308 (counter, demonstrated, Proposed), against CLAIM-303: where reuse
+- [CLAIM-308](../claims.d/CLAIM-308.md) (counter, demonstrated, Proposed), against [CLAIM-303](../claims.d/CLAIM-303.md): where reuse
   cannot be forecast, the break-even rule is within 2 − (c_a + u)/c_r of
-  hindsight. It concedes CLAIM-314.
-- CLAIM-314 (counter, interpretive, Proposed), against CLAIM-308:
+  hindsight. It concedes [CLAIM-314](../claims.d/CLAIM-314.md).
+- [CLAIM-314](../claims.d/CLAIM-314.md) (counter, interpretive, Proposed), against [CLAIM-308](../claims.d/CLAIM-308.md):
   recognizing what a filed argument answers has a cost that grows with what
   is stored, so per-item decisions are not independent.
-- QUESTION-098 (the owner's U11 and A11, Open) asks when filing is worth
-  it. QUESTION-237 (Open) is a promotion condition moved from THEORY-376.
+- [QUESTION-098](../questions.d/QUESTION-098.md) (the owner's U11 and A11, Open) asks when filing is worth
+  it. [QUESTION-237](../questions.d/QUESTION-237.md) (Open) is a promotion condition moved from [THEORY-376](../theory.d/THEORY-376.md).
 
 ## Admission
 
@@ -94,20 +94,20 @@ Unadmitted: the links are held as `complements`, `objects_to`, `refines`
 and `illustrates` relations and in the bodies cited. Two candidates were
 tested.
 
-- **CLAIM-184's count against CLAIM-303's second defeater** ("upkeep and
+- **[CLAIM-184](../claims.d/CLAIM-184.md)'s count against [CLAIM-303](../claims.d/CLAIM-303.md)'s second defeater** ("upkeep and
   stale reuse are negligible"): one step from the count, reaching neither
-  upkeep nor stale entries never retired. A note on CLAIM-303, not a
+  upkeep nor stale entries never retired. A note on [CLAIM-303](../claims.d/CLAIM-303.md), not a
   synthesis.
-- **CLAIM-314's store-level cost as the basis of the second-occurrence
+- **[CLAIM-314](../claims.d/CLAIM-314.md)'s store-level cost as the basis of the second-occurrence
   throttle:** the throttle is itself an item-by-item rule, and nothing shows
-  it bounds the cost CLAIM-314 says such rules cannot see.
+  it bounds the cost [CLAIM-314](../claims.d/CLAIM-314.md) says such rules cannot see.
 
 ## Not stated on the record
 
-- What CLAIM-184's count does to CLAIM-303's staleness term.
-- Whether the second-occurrence throttle bounds CLAIM-314's store-level
+- What [CLAIM-184](../claims.d/CLAIM-184.md)'s count does to [CLAIM-303](../claims.d/CLAIM-303.md)'s staleness term.
+- Whether the second-occurrence throttle bounds [CLAIM-314](../claims.d/CLAIM-314.md)'s store-level
   cost.
-- Which claim QUESTION-237 bears on.
+- Which claim [QUESTION-237](../questions.d/QUESTION-237.md) bears on.
 
 ## What it does not say
 

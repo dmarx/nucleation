@@ -1,17 +1,17 @@
 ### Added
 
-- ADR-tmpyihxy (Proposed, version 2): an account the record holds only in parts, for a line or a part of one, gets an unadmitted SYNTHESIS that restates it, giving the account an address.
+- [ADR-tmpyihxy](record/decisions.d/ADR-tmpyihxy.md) (Proposed, version 2): an account the record holds only in parts, for a line or a part of one, gets an unadmitted SYNTHESIS that restates it, giving the account an address.
   - An unadmitted account adds nothing, has no admission route and cannot be set Current.
   - There is one account per scope, and a line's synthesis may be built over its parts' syntheses.
   - A line whose parts barely relate is reported as a candidate to split.
   - `docs/current-account.md` lists unadmitted accounts last, under "Accounts held in parts".
-- ADR-tmpyb8vm (Proposed): the nucleating-argument line is split in three, on the relations among its parts' components. Two lines are added, `records-of-inquiry` and `record-as-apparatus`, and 43 entries move to them, each with a history note.
+- [ADR-tmpyb8vm](record/decisions.d/ADR-tmpyb8vm.md) (Proposed): the nucleating-argument line is split in three, on the relations among its parts' components. Two lines are added, `records-of-inquiry` and `record-as-apparatus`, and 43 entries move to them, each with a history note.
 - The demonstration, six syntheses:
   - **nucleating-argument:**
-    - SYNTHESIS-tmpllsy7, its synthesis over its three parts, admitted by derivation: when filing costs at least twice a reconstruction's overpayment, the break-even filing rule and the drift-catching second-occurrence rule part, and the competitive guarantee prices none of the drift between them;
-    - three unadmitted part accounts: drift (SYNTHESIS-tmp7nvem), anchors (SYNTHESIS-tmp5p7lm) and the costs of anchoring (SYNTHESIS-tmp9cgig).
-  - **records-of-inquiry:** an unadmitted account, SYNTHESIS-tmpnakke.
-  - **record-as-apparatus:** an unadmitted account, SYNTHESIS-tmp4csi2.
+    - [SYNTHESIS-tmpllsy7](record/syntheses.d/SYNTHESIS-tmpllsy7.md), its synthesis over its three parts, admitted by derivation: when filing costs at least twice a reconstruction's overpayment, the break-even filing rule and the drift-catching second-occurrence rule part, and the competitive guarantee prices none of the drift between them;
+    - three unadmitted part accounts: drift ([SYNTHESIS-tmp7nvem](record/syntheses.d/SYNTHESIS-tmp7nvem.md)), anchors ([SYNTHESIS-tmp5p7lm](record/syntheses.d/SYNTHESIS-tmp5p7lm.md)) and the costs of anchoring ([SYNTHESIS-tmp9cgig](record/syntheses.d/SYNTHESIS-tmp9cgig.md)).
+  - **records-of-inquiry:** an unadmitted account, [SYNTHESIS-tmpnakke](record/syntheses.d/SYNTHESIS-tmpnakke.md).
+  - **record-as-apparatus:** an unadmitted account, [SYNTHESIS-tmp4csi2](record/syntheses.d/SYNTHESIS-tmp4csi2.md).
 - `scratch/formal/line_parts.py` counts the relations among a line's parts.
 
 ### Changed
@@ -22,4 +22,4 @@
   - reports lines whose parts barely relate.
 
   Readers' briefs now state the tests neutrally.
-- The current-account template cites ADR-075 by number.
+- The current-account template cites [ADR-075](record/decisions.d/ADR-075.md) by number.
