@@ -75,7 +75,7 @@ to the record.
 
 ## How far "no evidence" holds
 
-Argued at the owner's review (ARG-tmp0q5sw), rerunning CASE-tmpyzdwh's
+Argued at the owner's review ([ARG-tmp0q5sw](../arguments.d/ARG-tmp0q5sw.md)), rerunning [CASE-tmpyzdwh](../cases.d/CASE-tmpyzdwh.md)'s
 script. Stationarity and the speed of settling carry no information about
 the hazard. The values of the quasi-stationary distribution carry a
 trace of it, of order ε/(8k): from (0.5, 0.5) at ε = 0 to

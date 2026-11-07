@@ -105,12 +105,12 @@ test "cannot simply be transferred unchanged" to the circle.
 
 ## Two premises the claim needs
 
-Argued at the owner's review (ARG-tmp7idjd). The inclusion of T_S in C_S
+Argued at the owner's review ([ARG-tmp7idjd](../arguments.d/ARG-tmp7idjd.md)). The inclusion of T_S in C_S
 holds under any dynamics. Two further statements need a premise the
 claim does not state. The ordinary 1:1 tongue is the degenerate case
 C_S = T_S only if Q(λ), the admissible configurations, are the locked
 ones; if Q(λ) is the whole torus, C_S does not depend on λ at all.
-And THEORY-1087 witnesses strictness only for demands of zero tolerance,
+And [THEORY-1087](../theory.d/THEORY-1087.md) witnesses strictness only for demands of zero tolerance,
 since Sakaguchi–Kuramoto coupling does not define consistent offset
 demands; the two-oscillator antiphase witness above is clean. The result
 covers 1:1 locking and assumes phase reduction.

@@ -18,14 +18,14 @@ summary: >-
   From A29 §4 of the exchange "Individuation, Possibility, and
   Disposition" (2026-11-06 to 07), with A27 §2, answering the owner's U12
   and U13. The inference from the hidden-mode construction of
-  CASE-tmpdwka1 to CLAIM-tmprmy7a. Proposed. The case is coherent, and an
+  [CASE-tmpdwka1](../cases.d/CASE-tmpdwka1.md) to [CLAIM-tmprmy7a](../claims.d/CLAIM-tmprmy7a.md). Proposed. The case is coherent, and an
   enumeration rerun for this argument confirms it. It separates what the
   claim says comes apart: sections that agree on an overlap, and a
-  realization of their union. It shows that CLAIM-197's "a failure needs
+  realization of their union. It shows that [CLAIM-197](../claims.d/CLAIM-197.md)'s "a failure needs
   an overlap carrying sections that disagree" holds only under the sheaf
   hypothesis, and on the same enumeration so does its first clause, that
   sections over contexts that do not overlap always glue. It leaves
-  CLAIM-197 standing for sheaves, and leaves its clause on covers alone.
+  [CLAIM-197](../claims.d/CLAIM-197.md) standing for sheaves, and leaves its clause on covers alone.
   Filed at the owner's review of the filing, which asked for the ARGs it
   omitted. The construction is A's (ChatGPT's). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -36,7 +36,7 @@ summary: >-
 
 ## The inference
 
-1. CASE-tmpdwka1: "Imagine a system with one hidden organizational mode,
+1. [CASE-tmpdwka1](../cases.d/CASE-tmpdwka1.md): "Imagine a system with one hidden organizational mode,
    \(m\in\{\alpha,\beta\}\), that cannot change during the experiment."
    Mode α produces 1, 0, 0 over periods 1–3 and mode β produces 0, 0, 1.
 2. The realizable observations of periods 1–2 are {(1, 0), (0, 0)}, and
@@ -47,7 +47,7 @@ summary: >-
    context.
 4. So the presheaf of realizable observations fails the gluing axiom on a
    cover whose overlap carries agreeing sections, while the sheaf of full
-   histories, mode included, glues (CLAIM-tmprmy7a).
+   histories, mode included, glues ([CLAIM-tmprmy7a](../claims.d/CLAIM-tmprmy7a.md)).
 
 ## Critical questions
 
@@ -62,17 +62,17 @@ summary: >-
   apart?** Yes. The claim says two observed histories "can each be
   realizable and agree on their overlap with no realization of their
   union", where the union is observed. The case has exactly that, on the
-  cover {1–2, 2–3} of 1–3. It is not CLAIM-131's kind of obstruction,
+  cover {1–2, 2–3} of 1–3. It is not [CLAIM-131](../claims.d/CLAIM-131.md)'s kind of obstruction,
   where the union of the contexts is never measured. There a compatible
   family glues by definition, and what fails is extension past the
   observed contexts.
-- **What it shows about CLAIM-197's wording.** CLAIM-197's "a failure
+- **What it shows about [CLAIM-197](../claims.d/CLAIM-197.md)'s wording.** [CLAIM-197](../claims.d/CLAIM-197.md)'s "a failure
   needs an overlap carrying sections that disagree" is, for a sheaf, the
-  contrapositive of the gluing axiom, and CLAIM-197 states it of sheaves.
+  contrapositive of the gluing axiom, and [CLAIM-197](../claims.d/CLAIM-197.md) states it of sheaves.
   The case shows that the sheaf hypothesis carries it. Read as a statement
   about any family of realizable observations, the clause is false: here
   the overlap carries sections that agree and they fail to glue. The case
-  reaches CLAIM-197's first clause as well. On the same enumeration,
+  reaches [CLAIM-197](../claims.d/CLAIM-197.md)'s first clause as well. On the same enumeration,
   (1) on period 1 and (0, 1) on periods 2–3 cover 1–3 with no overlap at
   all and paste to (1, 0, 1), which neither mode produces. So "Sections
   over contexts that do not overlap always glue" also fails for this
@@ -83,7 +83,7 @@ summary: >-
   and the other 0, 0, has failures only on the disjoint cover {1}, {2}.
   The claim's title says less than the case shows: a gluing failure need
   not show a disagreement on an overlap, and need not have an overlap.
-- **What it does not touch.** CLAIM-197 as a theorem about sheaves. Its
+- **What it does not touch.** [CLAIM-197](../claims.d/CLAIM-197.md) as a theorem about sheaves. Its
   argument, that for a cover with empty overlap "the compatibility
   hypothesis has nothing to compare, and the sheaf condition gives a
   unique section", stands. Its verdict on "tall", one global section with
@@ -93,7 +93,7 @@ summary: >-
   here exists because {1–2, 2–3} counts as a cover of 1–3. What the case
   bears on is the scope of a reading. Where the record models
   observations of a system with a hidden mechanism, the object is the
-  image presheaf. CLAIM-197 does not reach it, nor does CLAIM-153's
+  image presheaf. [CLAIM-197](../claims.d/CLAIM-197.md) does not reach it, nor does [CLAIM-153](../claims.d/CLAIM-153.md)'s
   "two locally consistent personas that agree on their overlap always
   glue", until a sheaf is shown.
 
@@ -105,6 +105,6 @@ failure holds on discrete periods.
 
 - How often such failures occur in systems that are not stipulated.
 - Whether a given failure reveals an omitted capacity or a modelling
-  error (QUESTION-tmp2p196). A: "inconsistency can also come from modeling
+  error ([QUESTION-tmp2p196](../questions.d/QUESTION-tmp2p196.md)). A: "inconsistency can also come from modeling
   errors or an incorrect assumption that two observations belong to the
   same system".

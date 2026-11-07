@@ -91,10 +91,10 @@ fixes.
 
 ## The case it was grounded on
 
-CASE-002 was this claim's ground as filed. At the owner's review the
-inference was argued and rejected (ARG-tmp2ia3c): the case shows
+[CASE-002](../cases.d/CASE-002.md) was this claim's ground as filed. At the owner's review the
+inference was argued and rejected ([ARG-tmp2ia3c](../arguments.d/ARG-tmp2ia3c.md)): the case shows
 jurisdiction changing which section is acted on, the rival this claim's
 defeated_if names, with one classifier at a time and outcomes measured
-rather than the compatibility of uses. The claim now rests on CLAIM-197
-and CLAIM-057 with no ground, and stays Proposed. The ARG sketches a
-variant of CASE-002 that would bear on it.
+rather than the compatibility of uses. The claim now rests on [CLAIM-197](CLAIM-197.md)
+and [CLAIM-057](CLAIM-057.md) with no ground, and stays Proposed. The ARG sketches a
+variant of [CASE-002](../cases.d/CASE-002.md) that would bear on it.

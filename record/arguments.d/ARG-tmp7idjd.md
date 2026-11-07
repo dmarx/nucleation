@@ -21,14 +21,14 @@ summary: >-
   (2026-11-06 to 07): the owner's conjecture at U4, that the
   compatibility complex generalizes an Arnold tongue, and A's
   construction at A9 §1 and A12 §2.1–2.2. The inference from the cycle
-  criterion for phase relations (THEORY-1082) and the Sakaguchi–Kuramoto
-  motif (THEORY-1087) to CLAIM-tmpk1015. Proposed. The inclusion holds
+  criterion for phase relations ([THEORY-1082](../theory.d/THEORY-1082.md)) and the Sakaguchi–Kuramoto
+  motif ([THEORY-1087](../theory.d/THEORY-1087.md)) to [CLAIM-tmpk1015](../claims.d/CLAIM-tmpk1015.md). Proposed. The inclusion holds
   under any dynamics, as A says, once the admissible configurations
   contain the locked states. The mapping holds for 1:1 demands on phase
   differences in a phase-reduced model. Two of the claim's further
   statements need a premise it does not state: the ordinary tongue is
   the degenerate case only if the admissible configurations are the
-  locked ones, and THEORY-1087 witnesses strictness only for demands of
+  locked ones, and [THEORY-1087](../theory.d/THEORY-1087.md) witnesses strictness only for demands of
   zero tolerance. Filed at the owner's review of the filing, which asked
   for the ARGs it omitted. The construction is A's (ChatGPT's). The
   wording is the assistant's (Claude, in this session); adopting it is
@@ -53,19 +53,19 @@ summary: >-
    configurations that meet S. If those configurations lie in Q(λ), then
    λ ∈ C_S. So T_S ⊆ C_S, "For the same admissible state space and fixed
    dynamics".
-4. THEORY-1082 gives the compatibility side for demands of zero
+4. [THEORY-1082](../theory.d/THEORY-1082.md) gives the compatibility side for demands of zero
    tolerance: exact offsets on the edges of a connected graph are jointly
-   met exactly when every cycle's holonomy is 0 mod 2π. THEORY-1087 gives
+   met exactly when every cycle's holonomy is 0 mod 2π. [THEORY-1087](../theory.d/THEORY-1087.md) gives
    a locked branch that exists and is unstable over a range of the lag,
    which is the locking side failing where the compatibility side holds.
 5. So each locking region lies inside the compatibility region of the same
-   demands and need not equal it (CLAIM-tmpk1015).
+   demands and need not equal it ([CLAIM-tmpk1015](../claims.d/CLAIM-tmpk1015.md)).
 
 ## Critical questions
 
 - **Does the mapping premise hold?** For the inclusion, yes. A demand
   that a phase difference lie within δ_e of a_e is an acceptance set of
-  configurations, which is TERM-060's form and CLAIM-347's complex.
+  configurations, which is [TERM-060](../terms.d/TERM-060.md)'s form and [CLAIM-347](../claims.d/CLAIM-347.md)'s complex.
   Step 3 uses nothing about the dynamics. Two of the claim's further
   statements need more than the mapping gives.
   - **What Q(λ) is.** The acceptance sets do not depend on λ, so λ enters
@@ -79,7 +79,7 @@ summary: >-
     only if Q(λ) is the set of locked configurations, the equilibria of
     the phase difference in the drive's frame. Then C_S is where a locked
     state meeting S exists and T_S is where an attracting one does. That
-    is CLAIM-567's feasible and reliably reached, as the claim says. The
+    is [CLAIM-567](../claims.d/CLAIM-567.md)'s feasible and reliably reached, as the claim says. The
     claim should state the premise.
   - **What "locking to the drive" is as a demand.** It is not an
     acceptance set with a preferred offset. With an offset a and a
@@ -93,17 +93,17 @@ summary: >-
   - **Phase reduction.** The construction is stated for phase oscillators.
     That is sound for weakly coupled limit-cycle oscillators. It fails
     where amplitudes matter, and amplitudes are what the suppression arm
-    of CASE-tmpecdgv works through. A demand on phase differences is
+    of [CASE-tmpecdgv](../cases.d/CASE-tmpecdgv.md) works through. A demand on phase differences is
     undefined for an oscillator held at rest.
   - **1:1 locking.** The acceptance sets constrain θ_j − θ_i, so they
     describe 1:1 relations only. A p:q tongue needs demands on
     pθ_j − qθ_i, and the claim's "an Arnold tongue is a locking region"
     covers the 1:1 tongue.
   - **The coupling form.** The inclusion does not depend on it. The
-    premises do. THEORY-1082's criterion is for the relaxed linear
+    premises do. [THEORY-1082](../theory.d/THEORY-1082.md)'s criterion is for the relaxed linear
     problem of the gauge-coupled model, whose lag reverses with the edge.
     Among what it does not say is "Anything about the unit-modulus phase
-    dynamics directly". THEORY-1087's motif is the Sakaguchi–Kuramoto
+    dynamics directly". [THEORY-1087](../theory.d/THEORY-1087.md)'s motif is the Sakaguchi–Kuramoto
     model, "where the same phase lag α appears in both interaction
     directions". There the coupling does not define consistent offset
     demands, since each end of an edge prefers its neighbour α ahead. So
@@ -113,7 +113,7 @@ summary: >-
     common rotation. It exists on (αc, π/3] and is not attracting there,
     so those values of α lie in C_S and not in T_S. With a positive
     tolerance the witness is not secured: whatever attracting state the
-    branch hands over to at αc ≃ 1.0164 may lie within δ, and THEORY-1087
+    branch hands over to at αc ≃ 1.0164 may lie within δ, and [THEORY-1087](../theory.d/THEORY-1087.md)
     does not say what it is.
   - **The reader's two-oscillator witness** needs none of this. Two
     identical oscillators coupled attractively, with relative phase
@@ -123,14 +123,14 @@ summary: >-
 
 Proposed. The inclusion is sound, and strictness has a clean witness. The
 claim's degenerate case for the ordinary tongue rests on an unstated
-choice of Q(λ), and THEORY-1087 witnesses strictness only for demands of
+choice of Q(λ), and [THEORY-1087](../theory.d/THEORY-1087.md) witnesses strictness only for demands of
 zero tolerance. Stating Q(λ) as the locked configurations would make the
 claim's statements hold together, and would make it plainer that this is
-CLAIM-567's split carried over control parameters.
+[CLAIM-567](../claims.d/CLAIM-567.md)'s split carried over control parameters.
 
 ## What it does not show
 
 - When a change in the complex coincides with a bifurcation of the
-  locked states. That is QUESTION-tmp71nlk.
+  locked states. That is [QUESTION-tmp71nlk](../questions.d/QUESTION-tmp71nlk.md).
 - Anything about reachability or basin size, which are further
-  conditions beyond attraction (CLAIM-567).
+  conditions beyond attraction ([CLAIM-567](../claims.d/CLAIM-567.md)).

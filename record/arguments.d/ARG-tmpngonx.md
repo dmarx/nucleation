@@ -19,8 +19,8 @@ line:
 summary: >-
   From A50 §6 of the exchange "Individuation, Possibility, and
   Disposition" (2026-11-06 to 07), answering the owner's U23. A does not
-  cite Hirschman; the filing named THEORY-152 as the obvious neighbouring
-  literature for CLAIM-tmp7fzb9, and this is the analogy that naming
+  cite Hirschman; the filing named [THEORY-152](../theory.d/THEORY-152.md) as the obvious neighbouring
+  literature for [CLAIM-tmp7fzb9](../claims.d/CLAIM-tmp7fzb9.md), and this is the analogy that naming
   implies. Proposed. The condition transfers: where voice is held below
   the floor an organization needs, and managers favour the response least
   threatening to their hold on power, exit is what is left. The claim's
@@ -41,7 +41,7 @@ summary: >-
 
 ## The inference
 
-1. THEORY-152: when an organization deteriorates, its members' exit and
+1. [THEORY-152](../theory.d/THEORY-152.md): when an organization deteriorates, its members' exit and
    voice are both recuperation mechanisms. An organization needs floor
    levels of both for feedback, and its managers "may encourage the
    response least dangerous to their power rather than the one that gives
@@ -55,7 +55,7 @@ summary: >-
    exit.
 4. So a fork can be exit that builds a new organization through which the
    disposition the parent kept ineffective gains efficacy
-   (CLAIM-tmp7fzb9).
+   ([CLAIM-tmp7fzb9](../claims.d/CLAIM-tmp7fzb9.md)).
 
 ## Critical questions
 
@@ -69,7 +69,7 @@ summary: >-
   needs a second premise for the second.
 - **What relevant difference is there?** Three.
   - **Exit to what.** Hirschman's exit is to an existing alternative: a
-    competing supplier or another party. THEORY-152 has
+    competing supplier or another party. [THEORY-152](../theory.d/THEORY-152.md) has
     dissatisfied customers who "churn among equally bad suppliers". The
     claim's fork is exit into an organization the leavers found, "**the
     construction of a new organization through which a previously
@@ -93,19 +93,19 @@ summary: >-
   defeat condition, forks "in which the forking party's objections were
   already effective in the parent". What does not transfer is the claim's
   distinctive clause, that the exit builds an organization in which the
-  disposition governs. The claim stands on CLAIM-047 and CLAIM-287 for
+  disposition governs. The claim stands on [CLAIM-047](../claims.d/CLAIM-047.md) and [CLAIM-287](../claims.d/CLAIM-287.md) for
   that, not on Hirschman. Hirschman's loyalty, which raises the cost of
   exit so that members voice rather than exit, has no counterpart in the
   claim, and the reading says nothing about what loyalty does in a split.
 
 Proposed. The analogy gives the claim its condition and leaves its
 distinctive clause on its other premises. It could become a fuller
-second line if a reading of LIT-748, the 1970 book, found exit into a new
-organization there. THEORY-152 is itself Proposed and argued from
+second line if a reading of [LIT-748](../literature.d/LIT-748.md), the 1970 book, found exit into a new
+organization there. [THEORY-152](../theory.d/THEORY-152.md) is itself Proposed and argued from
 examples.
 
 ## What it does not show
 
 - That a fork succeeds, or that gaining efficacy is gaining legitimacy.
 - Which bearer holds the disposition, the community or its dissenters.
-  TERM-tmp6ersv requires a claim to declare it.
+  [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md) requires a claim to declare it.
