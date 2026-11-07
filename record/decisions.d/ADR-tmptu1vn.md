@@ -1,8 +1,20 @@
 ---
 status: Proposed
 title: 'Syntheses get a scheme of their own, SYNTHESIS, with statuses about the integration, a closed admission route, components whose standing is derived, and a generated current-account view'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At A's fourth review, pasted by the owner. Two consistency rules.
+    First, a Current synthesis must be admitted
+    (`current_but_unadmitted`), and `route` is forbidden once a
+    synthesis is unadmitted. Second, the premise-status rules exempt a
+    synthesis whose role is `supposed`, since adopting a conditional
+    account does not adopt its premises, and the view labels such a
+    synthesis conditional. The fixture grows to eleven syntheses. Every
+    rule fires on its case and only there, and the exemption leaves the
+    same rule firing on a non-supposed case.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -118,8 +130,9 @@ it strained four ways.
       CLAIMs a synthesis replaces.
 - **`route`**, from `synthesis-routes`: `hypothesis`, `derived` or
   `integration`, the routes of [ADR-tmpe7y42](ADR-tmpe7y42.md) step 5. It is required while
-  `admission` is `admitted`. An unadmitted entry's former route, if it had
-  one, is in its history.
+  `admission` is `admitted`, and forbidden once it is `unadmitted`
+  (version 3). An unadmitted entry's former route, if it had one, is in
+  its history.
 - **`role`, required, `warrant`, `defeated_if`, required, `tags` and
   `line`**, as on CLAIM. `defeated_if` states the defeat by the route.
 - **Relations into the scheme.** CLAIM's `superseded_by`, ARG's
@@ -131,6 +144,12 @@ it strained four ways.
     claim that is not Active;
   - `current_on_synthesis_not_current`: a Current synthesis resting on a
     synthesis that is not Current;
+  - both exempt a synthesis whose `role` is `supposed` (version 3).
+    Adopting a supposed synthesis adopts the conditional ("if these hold,
+    this is the account"), not its premises. The view labels it
+    conditional;
+  - `current_but_unadmitted`: a Current synthesis that is not admitted,
+    which the view would leave out (version 3);
   - `derived_not_demonstrated`: a derived synthesis whose warrant is not
     `demonstrated`.
 - **Components' standing is derived, never copied ([DP-2](../../docs/design-principles.md#dp-2)).** The voice of
@@ -170,9 +189,12 @@ it strained four ways.
     Historical relations stay: the claims' own `superseded_by`, and the
     history notes.
   - **The fixture.** `scratch/formal/synthesis_fixture.py` builds a
-    throwaway record from this `luria.yaml`, with eight syntheses: a
-    derived result, an explanatory integration, an unadmitted synthesis,
-    and one case for each lint rule. It checks that each rule fires on its
+    throwaway record from this `luria.yaml`, with eleven syntheses:
+    - a derived result, an explanatory integration and an unadmitted
+      synthesis;
+    - a supposed Current synthesis on a Proposed premise;
+    - an unadmitted synthesis keeping a route;
+    - one case for each lint rule. It checks that each rule fires on its
     case and nowhere else. It checks that the view shows the admitted
     syntheses and hides the unadmitted one, shows each component's kind,
     and shows a component's status change on the next render. All checks

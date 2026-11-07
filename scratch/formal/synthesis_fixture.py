@@ -11,6 +11,9 @@ directory, holding a few components and six syntheses:
   S6  derived, but warrant interpretive                              -> derived_not_demonstrated
   S7  Current, resting on the Proposed synthesis S2                  -> current_on_synthesis_not_current
   S8  a synthesis premise not among what it integrates               -> synthesis_premise_outside_integrates
+  S9  Current but unadmitted                                         -> current_but_unadmitted
+  S10 supposed and Current, on a Proposed premise                    -> clean: the premise rule exempts it
+  S11 unadmitted but keeping a route                                 -> refused: route is forbidden once unadmitted
 
 It runs `luria lint` on the fixture and checks each rule fires where it should
 and nowhere else, then renders the current-account view, checks what it shows,
@@ -38,8 +41,8 @@ def term(code, title):
     return entry(code, ["status: Active", f"title: '{title}'", "version: 1", "tags:\n- individuation",
                         "date: '2026-11-07'", "line: distributed-agency", "summary: >-\n  Fixture term."])
 
-def synthesis(code, title, status, admission, route, warrant, integrates, premises):
-    fm = [f"status: {status}", f"title: '{title}'", "version: 1", "role: thesis", f"admission: {admission}"]
+def synthesis(code, title, status, admission, route, warrant, integrates, premises, role="thesis"):
+    fm = [f"status: {status}", f"title: '{title}'", "version: 1", f"role: {role}", f"admission: {admission}"]
     if route:
         fm.append(f"route: {route}")
     fm += [f"warrant: {warrant}", "defeated_if: >-\n  a fixture case", "tags:\n- individuation",
@@ -69,6 +72,9 @@ def build(root: Path):
         ("SYNTHESIS-006", "S6 derived but interpretive", "Proposed", "admitted", "derived", "interpretive", ["CLAIM-001"], ["CLAIM-001"]),
         ("SYNTHESIS-007", "S7 current on a proposed synthesis", "Current", "admitted", "hypothesis", "interpretive", ["SYNTHESIS-002", "CLAIM-001"], ["SYNTHESIS-002", "CLAIM-001"]),
         ("SYNTHESIS-008", "S8 synthesis premise outside integrates", "Proposed", "admitted", "hypothesis", "interpretive", ["CLAIM-001"], ["SYNTHESIS-001"]),
+        ("SYNTHESIS-009", "S9 current but unadmitted", "Current", "unadmitted", None, "interpretive", ["CLAIM-001"], []),
+        ("SYNTHESIS-010", "S10 supposed and current on a proposed premise", "Current", "admitted", "hypothesis", "interpretive", ["CLAIM-002"], ["CLAIM-002"], "supposed"),
+        ("SYNTHESIS-011", "S11 unadmitted but keeping a route", "Proposed", "unadmitted", "hypothesis", "interpretive", ["CLAIM-001"], []),
     ]
     for code, *rest in S:
         w(f"record/syntheses.d/{code}.md", synthesis(code, *rest))
@@ -100,7 +106,8 @@ def main():
                   "premise_outside_integrates": "SYNTHESIS-005",
                   "derived_not_demonstrated": "SYNTHESIS-006",
                   "current_on_synthesis_not_current": "SYNTHESIS-007",
-                  "synthesis_premise_outside_integrates": "SYNTHESIS-008"}
+                  "synthesis_premise_outside_integrates": "SYNTHESIS-008",
+                  "current_but_unadmitted": "SYNTHESIS-009"}
         def matches(rule):
             # the documents listed under "N match(es) of the pattern `rule`"
             found, on = [], False
@@ -116,9 +123,15 @@ def main():
         for rule, code in expect.items():
             got = matches(rule)
             check(got == [code], f"{rule} fires on {code} and nothing else (got {got})")
+        check(not any("SYNTHESIS-010" in l for r in ("current_on_premise_not_in_force",) for l in matches(r)),
+              "a supposed Current synthesis on a Proposed premise is exempt from the premise rule")
+        route_lines = [l for l in lines if "SYNTHESIS-011" in l and "route" in l]
+        check(bool(route_lines), "an unadmitted synthesis that keeps a route is refused" + (f" ({route_lines[0].strip()[:90]})" if route_lines else ""))
         page = render(root)
         check("SYNTHESIS-001" in page and "SYNTHESIS-002" in page, "the view shows the admitted syntheses")
-        check("SYNTHESIS-003" not in page, "the view hides the unadmitted synthesis")
+        check("SYNTHESIS-003" not in page and "SYNTHESIS-009" not in page, "the view hides the unadmitted syntheses")
+        s10 = page[page.find("SYNTHESIS-010"):][:1500]
+        check("SYNTHESIS-010" in page and "**Conditional.**" in s10, "the view labels a supposed synthesis as conditional")
         check("| TERM |" in page and "| CLAIM |" in page, "the view shows each component's kind")
         claim_file = root / "record/claims.d/CLAIM-001.md"
         claim_file.write_text(claim_file.read_text().replace("status: Active", "status: Superseded", 1))

@@ -15,3 +15,4 @@
 
   `scratch/formal/synthesis_fixture.py` fires each rule on a throwaway record and checks the view.
 - The view gives each component's kind, and shows only admitted syntheses. CASE's `illustrates` accepts a SYNTHESIS. The ARGs and the case that described the current account now point to the syntheses.
+- ADR-tmptu1vn, version 3: a Current synthesis must be admitted, and an unadmitted one may not keep a `route`. A `supposed` synthesis, whose adoption adopts a conditional account, is exempt from the premise-status rules and labelled conditional in the view. The fixture covers all three.

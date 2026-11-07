@@ -1657,7 +1657,11 @@ schemes:
         required_when:
           admission:
           - admitted
-        blurb: the admission route it passed (ADR-tmpe7y42, step 5); required while it is admitted
+        forbidden_when:
+          admission:
+          - unadmitted
+        blurb: the admission route it passed (ADR-tmpe7y42, step 5); required while it is admitted, and
+          absent once it is not, its former route then kept in its history
       warrant:
         vocabulary: claim-warrants
         required: true
@@ -1832,6 +1836,7 @@ lint:
   - current_on_premise_not_in_force
   - derived_not_demonstrated
   - current_on_synthesis_not_current
+  - current_but_unadmitted
   - answered_but_open
   - answered_but_open_reading
   # A close reading of a work the record says it never reached (ADR-069).
@@ -1856,13 +1861,17 @@ patterns:
     report: true
     blurb: A synthesis premise not listed among what it integrates; `premises` is a subset of `integrates`.
   current_on_premise_not_in_force:
-    match: "(s:SYNTHESIS {status: 'Current'})-[:premises]->(p:CLAIM WHERE p.status <> 'Active')"
+    match: "(s:SYNTHESIS {status: 'Current'} WHERE s.role <> 'supposed')-[:premises]->(p:CLAIM WHERE p.status <> 'Active')"
     report: true
-    blurb: An adopted synthesis resting on a claim that is not in force; re-argue it, or it is no longer the current account.
+    blurb: An adopted synthesis resting on a claim that is not in force; re-argue it, or it is no longer the current account. A supposed synthesis is exempt, since adopting it adopts the conditional, not its premises.
   current_on_synthesis_not_current:
-    match: "(s:SYNTHESIS {status: 'Current'})-[:premises]->(p:SYNTHESIS WHERE p.status <> 'Current')"
+    match: "(s:SYNTHESIS {status: 'Current'} WHERE s.role <> 'supposed')-[:premises]->(p:SYNTHESIS WHERE p.status <> 'Current')"
     report: true
-    blurb: An adopted synthesis resting on a synthesis that is not adopted.
+    blurb: An adopted synthesis resting on a synthesis that is not adopted. A supposed synthesis is exempt.
+  current_but_unadmitted:
+    match: "(s:SYNTHESIS {status: 'Current', admission: 'unadmitted'})"
+    report: true
+    blurb: A synthesis adopted as the current account but not admitted, which the current-account view would leave out; adopting it needs an admission route.
   derived_not_demonstrated:
     match: "(s:SYNTHESIS {route: 'derived'} WHERE s.warrant <> 'demonstrated')"
     report: true
