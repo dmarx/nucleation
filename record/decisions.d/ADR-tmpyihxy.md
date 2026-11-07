@@ -6,10 +6,10 @@ tags:
 - record
 date: '2026-11-07'
 summary: >-
-  ADR-075 began from a filing gap: an integration left with no address, so
+  [ADR-075](ADR-075.md) began from a filing gap: an integration left with no address, so
   the record could not say what its current account is, nor check a later
   synthesis for drift. The admission test it added guards against importing
-  a source's broad summary as one more claim. ADR-078's review reused that
+  a source's broad summary as one more claim. [ADR-078](ADR-078.md)'s review reused that
   test to backfill the current-account view. There the common verdict was
   that a candidate's integration was already stated in its components'
   bodies and notes, and nothing was filed. That recreates the original gap:
@@ -32,25 +32,25 @@ summary: >-
 
 ## Context
 
-ADR-075 named two costs of filing a source's syntheses as recaps mapped to
+[ADR-075](ADR-075.md) named two costs of filing a source's syntheses as recaps mapped to
 their turns: the record "can't say what its current account is", and "later
 syntheses can't be checked for drift". Its admission test (versions 2 and 3)
 was added against salience without work. A broad source summary filed as
 one more claim gains standing it has not earned. For imports, which are
 mostly recaps, a high rejection rate is the point.
 
-ADR-078 reused the test to backfill the current-account view (ADR-076) from
+[ADR-078](ADR-078.md) reused the test to backfill the current-account view ([ADR-076](ADR-076.md)) from
 what the record already holds. Over three rounds on 2026-11-07, six of 36
 candidates were admitted. The most common verdict on the opportunity arm was
 that the integration is already stated in a component's body or dated
 notes. The nucleating-argument line was audited in all three rounds, and
-each time its account was found held in prose (CLAIM-185's notes, CLAIM-250's
-note of 2026-10-15, CLAIM-469 and CLAIM-476), so the view shows nothing for
+each time its account was found held in prose ([CLAIM-185](../claims.d/CLAIM-185.md)'s notes, [CLAIM-250](../claims.d/CLAIM-250.md)'s
+note of 2026-10-15, [CLAIM-469](../claims.d/CLAIM-469.md) and [CLAIM-476](../claims.d/CLAIM-476.md)), so the view shows nothing for
 it.
 
-That is the gap ADR-075 was written to close. The record has made the
+That is the gap [ADR-075](ADR-075.md) was written to close. The record has made the
 integration and given it no address. The scheme already has the slot: an
-unadmitted SYNTHESIS (ADR-076, version 2) keeps its components' standing
+unadmitted SYNTHESIS ([ADR-076](ADR-076.md), version 2) keeps its components' standing
 derived, takes revisions and cannot be Current. The view left such entries
 out.
 
@@ -79,7 +79,7 @@ apart.
   - a link it states that no component states.
 
   Its standing is its components'.
-- **It cannot be set Current.** ADR-076's `current_but_unadmitted` already
+- **It cannot be set Current.** [ADR-076](ADR-076.md)'s `current_but_unadmitted` already
   enforces this. A line account that should become the adopted account has
   to be admitted first, by a route.
 - **The view lists it apart.** `docs/current-account.md` gains a closing
@@ -94,24 +94,24 @@ apart.
   - a free parameter;
   - a component stated wrongly;
   - a contradiction with a component.
-- **Revise, don't duplicate (ADR-075 step 7).** A line has at most one line
+- **Revise, don't duplicate ([ADR-075](ADR-075.md) step 7).** A line has at most one line
   account. A later review or filing that changes the line revises it as a
   new version. If an admitted synthesis later covers the line, the line
   account is Superseded by it.
-- **Demonstration (ADR-071):** the nucleating-argument line's account, filed
+- **Demonstration ([ADR-071](ADR-071.md)):** the nucleating-argument line's account, filed
   with this decision.
 
 ## Alternatives considered
 
 - **Lines without a synthesis are findings only.** This is the earlier
   reading, under which a line held in parts shows nothing. It keeps the view
-  strict, but leaves exactly the accounts ADR-075 set out to give an address
+  strict, but leaves exactly the accounts [ADR-075](ADR-075.md) set out to give an address
   without one. Nothing then catches a later synthesis that drifts from them.
 - **Admit such accounts.** A route that admits "already held" would give a
   recap the salience the admission test exists to withhold, and would let
   it be set Current.
 - **A separate scheme for line accounts.** The SYNTHESIS scheme already
-  separates the account's status from its admission (ADR-076, version 2).
+  separates the account's status from its admission ([ADR-076](ADR-076.md), version 2).
   A second scheme would duplicate the components, relations and view.
 
 ## Consequences
