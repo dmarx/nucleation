@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptw11r
 title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,14 @@ history:
     bench is Ostwald's (LIT-920, read in NOTE-709), which stays in
     grounds with THEORY-132, THEORY-136 and THEORY-178. The body keeps
     the citation. The text is unchanged.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the summary still gave Dunitz and Bernstein as a ground, which left the
+    grounds in version 3, and posed the test the note of 2026-11-06 ran. It
+    no longer restates the grounds, which the field holds, and reports the
+    test's result. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -49,9 +57,8 @@ summary: >-
   The cost side of the owner's reframing ([CLAIM-185](CLAIM-185.md)), proposed by
   the assistant on 2026-10-11 and filed at the owner's request. If
   persistence is what lets structure grow, it also lets early framings
-  grow structure that is costly to undo. Grounded on Dunitz & Bernstein
-  (unread) and Ostwald (read). The test: do Superseded entries keep
-  drawing new citations?
+  grow structure that is costly to undo. The test, whether Superseded entries keep drawing new
+  citations, was run on 2026-11-06: they do not (note of that date).
 complements:
 - CLAIM-301
 ---
