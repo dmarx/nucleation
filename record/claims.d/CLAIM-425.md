@@ -92,8 +92,8 @@ The claim has three parts.
 It complements [CLAIM-424](CLAIM-424.md), reflexive governance of an organization's
 perspectival arrangements. That claim is about governing the arrangements
 that decide which signals count; this one is the analogous regulation, in
-CLAIM-349's sense, for the judgements others hold of a person. It keeps
-access and conditions authority on grounds; unlike CLAIM-424, it does not
+[CLAIM-349](CLAIM-349.md)'s sense, for the judgements others hold of a person. It keeps
+access and conditions authority on grounds; unlike [CLAIM-424](CLAIM-424.md), it does not
 require the standards themselves to be revised.
 
 ## What it does not say
