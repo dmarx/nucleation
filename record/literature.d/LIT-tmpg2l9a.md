@@ -24,7 +24,7 @@ keywords:
 - 'active ignorance'
 implementations: []
 summary: >-
-  José Medina (2013). The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations. Oxford University Press, DOI-10.1093/acprof:oso/9780199929023.001.0001. A names no work; the identification is the reader's. A60 §9: "José Medina's account of *meta-blindness*, a form of insensitivity to one's own epistemic insensitivity". Medina appears on the record only as an editor of LIT-1048. Unread here; cited by A in the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07).
+  José Medina (2013). The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations. Oxford University Press, DOI-10.1093/acprof:oso/9780199929023.001.0001. A names no work; the identification is the reader's. A60 §9: "José Medina's account of *meta-blindness*, a form of insensitivity to one's own epistemic insensitivity". Medina appears on the record only as an editor of [LIT-1048](LIT-1048.md). Unread here; cited by A in the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07).
 ---
 <!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited with their standing -->
@@ -35,8 +35,8 @@ José Medina (2013). *The Epistemology of Resistance: Gender and Racial Oppressi
 
 ## Key takeaways
 
-*Not read; as A or the reader describes it.* A names no work; the identification is the reader's. A60 §9: "José Medina's account of *meta-blindness*, a form of insensitivity to one's own epistemic insensitivity". Medina appears on the record only as an editor of LIT-1048.
+*Not read; as A or the reader describes it.* A names no work; the identification is the reader's. A60 §9: "José Medina's account of *meta-blindness*, a form of insensitivity to one's own epistemic insensitivity". Medina appears on the record only as an editor of [LIT-1048](LIT-1048.md).
 
 ## Standing in the record
 
-Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A60 §9 for meta-blindness, an insensitivity to one's own insensitivity, as the individual analogue of an organization that cannot see that it cannot see. It bears on CLAIM-tmptfuky's second-order illegibility, which the record holds as CLAIM-025's note "Organized ignorance" and THEORY-145.
+Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A60 §9 for meta-blindness, an insensitivity to one's own insensitivity, as the individual analogue of an organization that cannot see that it cannot see. It bears on [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s second-order illegibility, which the record holds as [CLAIM-025](../claims.d/CLAIM-025.md)'s note "Organized ignorance" and [THEORY-145](../theory.d/THEORY-145.md).

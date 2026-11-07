@@ -204,4 +204,4 @@ aside.
 
 ## Note of 2026-11-07: a normative predicate on the merged fibre, from the second share of "Individuation, Possibility, and Disposition"
 
-A60 §2 and A62 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly for a "normatively inadequate projection", and A60 §1's records that "need not be fraudulent" are this claim's point. A62 §4 extends CASE-110 into CASE-tmpnlf5c. The owner's CLAIM-tmpagkxi and A's CLAIM-tmptfuky rest on this claim. Unchanged.
+A60 §2 and A62 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly for a "normatively inadequate projection", and A60 §1's records that "need not be fraudulent" are this claim's point. A62 §4 extends [CASE-110](../cases.d/CASE-110.md) into [CASE-tmpnlf5c](../cases.d/CASE-tmpnlf5c.md). The owner's [CLAIM-tmpagkxi](CLAIM-tmpagkxi.md) and A's [CLAIM-tmptfuky](CLAIM-tmptfuky.md) rest on this claim. Unchanged.

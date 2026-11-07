@@ -17,7 +17,7 @@ illustrates:
 - CLAIM-tmptfuky
 summary: >-
   A62 §4 of the second share of the exchange "Individuation, Possibility,
-  and Disposition" (2026-11-06 to 07), extending CASE-110's two workers
+  and Disposition" (2026-11-06 to 07), extending [CASE-110](CASE-110.md)'s two workers
   with a convenience benefit κ for the over-cap allocation, a penalty λ
   on a recorded breach, an administrative cost c for adequate reporting,
   and regime selection by scores computed under the current regime. The
@@ -38,7 +38,7 @@ summary: >-
 A, at A62 §4 of the exchange "Individuation, Possibility, and Disposition",
 second share (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c):
 "We can extend Nucleation's worker-hours example into a small model."
-CASE-110's two workers produce 12 units, by a = (6, 6), within the
+[CASE-110](CASE-110.md)'s two workers produce 12 units, by a = (6, 6), within the
 eight-hour cap, or b = (10, 2), past it. The institution's decision score
 is
 
@@ -78,8 +78,8 @@ same self-scoring, and there are two equilibria; where κ + c > λ the
 aggregate regime is the only one.
 
 So the construction shows bistability: history decides which regime an
-institution is in, as in CLAIM-463's hysteresis, and the regime is judged
-by evidence that passes through it, the condition CLAIM-342 names. A
+institution is in, as in [CLAIM-463](../claims.d/CLAIM-463.md)'s hysteresis, and the regime is judged
+by evidence that passes through it, the condition [CLAIM-342](../claims.d/CLAIM-342.md) names. A
 one-off move to adequate reporting can sustain itself when λ > κ + c.
 
 ## What it cannot show
@@ -88,7 +88,7 @@ It is fictional, so it shows what is coherent, not what is common. A's
 own hedge: "This is a **candidate self-maintaining harmful equilibrium**,
 conditional on the specified governance and reproduction rules." The
 reproduction is one comparison of scores, not a productive cycle, so it
-does not show organizational closure (TERM-070, CLAIM-516). Nor does it
+does not show organizational closure ([TERM-070](../terms.d/TERM-070.md), [CLAIM-516](../claims.d/CLAIM-516.md)). Nor does it
 show anything normative: that b is a wrong is stipulated by the cap. Its
-form is held in CLAIM-445's protective regime, which shifts the evidence
+form is held in [CLAIM-445](../claims.d/CLAIM-445.md)'s protective regime, which shifts the evidence
 used to judge it.

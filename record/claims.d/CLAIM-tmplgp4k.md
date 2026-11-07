@@ -42,13 +42,13 @@ summary: >-
   U27 and U28. Normative inversion (§5) turns a complaint into evidence
   against the complainant; the counter-corrective disposition (§10) is the
   standing tendency to answer challenges that way, with a causal
-  diagnostic. It is the case TERM-tmp6ersv's finking row said no entry
+  diagnostic. It is the case [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s finking row said no entry
   named, for the disposition to be corrected; that row now names this
-  claim. Held nearby: CLAIM-402, CLAIM-406, CASE-141's self-confirming
-  label and CLAIM-464's pre-emptive intervention. The wording is A's;
+  claim. Held nearby: [CLAIM-402](CLAIM-402.md), [CLAIM-406](CLAIM-406.md), [CASE-141](../cases.d/CASE-141.md)'s self-confirming
+  label and [CLAIM-464](CLAIM-464.md)'s pre-emptive intervention. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp6ersv CLAIM-tmptfuky QUESTION-tmpuveq0 CLAIM-tmpagkxi — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
+<!-- inactive-ok-file: TERM-tmp6ersv CLAIM-tmptfuky CLAIM-tmpagkxi — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: CLAIM-445 LIT-1311 — Proposed or Unavailable; cited with their standing -->
 
 # CLAIM-tmplgp4k: An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the trigger of its correction removes the disposition to correct and the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control
@@ -57,7 +57,7 @@ summary: >-
 
 A, in the second share of the exchange "Individuation, Possibility, and
 Disposition" (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c),
-answering the owner's U27 (CLAIM-tmpagkxi). A62 §5 separates occlusion
+answering the owner's U27 ([CLAIM-tmpagkxi](CLAIM-tmpagkxi.md)). A62 §5 separates occlusion
 from **normative inversion**: "Under inversion, the fact's surviving
 representation acquires a significance that works *against* the claim it
 should support." "**The response to harm can be represented as a new
@@ -77,11 +77,11 @@ unsupported demands or protect itself against harassment."
 
 ## Why it is its own claim and also a fink
 
-In TERM-tmp6ersv's terms, a disposition is finked when "the triggering
+In [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s terms, a disposition is finked when "the triggering
 event changes the disposition itself". Here the triggering event is the
 challenge and the disposition is the organization's disposition to be
 corrected. That row said "No entry names this case"; it now names this
-claim (TERM-tmp6ersv, version 2). The claim has content beyond the label:
+claim ([TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md), version 2). The claim has content beyond the label:
 the mechanism (inversion), the self-certifying absence of later
 challenges, and a test against a control. So it is filed as a claim, and
 the term points to it.
@@ -89,22 +89,22 @@ the term points to it.
 ## What is already held
 
 - That acting on a classification produces the outcomes that confirm it
-  is CLAIM-402; CASE-141 is the pupil labelled disruptive, whose label
+  is [CLAIM-402](CLAIM-402.md); [CASE-141](../cases.d/CASE-141.md) is the pupil labelled disruptive, whose label
   confirms itself. There the loop runs through the labelled person's
   conduct; here it runs through the challenger's access to the channels
   of challenge.
 - That an exclusion can keep itself going with no continuing prejudiced
-  act is CLAIM-406.
+  act is [CLAIM-406](CLAIM-406.md).
 - That an intervention can change what it would take to correct it, before
-  review, is CLAIM-464. Here it is the response to a correction that does
+  review, is [CLAIM-464](CLAIM-464.md). Here it is the response to a correction that does
   it, after the challenge.
-- THEORY-140's "hierarchy that kept dissent from rising" is a documented
+- [THEORY-140](../theory.d/THEORY-140.md)'s "hierarchy that kept dissent from rising" is a documented
   instance of the result, though not of the response-to-challenge test.
 - A62 §5 says the pattern "resembles" Pohlhaus's willful hermeneutical
-  ignorance (LIT-1311, Unavailable, unread). The record cannot check that.
+  ignorance ([LIT-1311](../literature.d/LIT-1311.md), Unavailable, unread). The record cannot check that.
 
 ## What it does not say
 
 That every reduction in challenges after a challenge is suppression: the
 challenge must be independently judged credible, which needs a standard
-(QUESTION-129). Nor that anyone intends it.
+([QUESTION-129](../questions.d/QUESTION-129.md)). Nor that anyone intends it.

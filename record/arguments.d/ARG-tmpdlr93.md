@@ -15,7 +15,7 @@ date: '2026-11-07'
 line:
 - distributed-agency
 summary: >-
-  From A's two-regime reporting construction (CASE-tmpnlf5c), as corrected by the reader, to the possibility CLAIM-tmptfuky needs, from A62 §4 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: the construction is coherent and separates actual from recorded violation, with the aggregate regime self-stable without intent; it shows nothing normative. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
+  From A's two-regime reporting construction ([CASE-tmpnlf5c](../cases.d/CASE-tmpnlf5c.md)), as corrected by the reader, to the possibility [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) needs, from A62 §4 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: the construction is coherent and separates actual from recorded violation, with the aggregate regime self-stable without intent; it shows nothing normative. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpnlf5c CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 
@@ -25,9 +25,9 @@ From the second share of the exchange "Individuation, Possibility, and Dispositi
 
 ## The inference
 
-1. CASE-tmpnlf5c: with the score V_r(u) = 12 + κ·1[u = b] − λ·r·1[u = b], λ > κ, and regimes selected by scores computed under the current regime, the aggregate regime r = 0 is always self-stable, and at it actual violation = 1 and recorded violation = 0.
+1. [CASE-tmpnlf5c](../cases.d/CASE-tmpnlf5c.md): with the score V_r(u) = 12 + κ·1[u = b] − λ·r·1[u = b], λ > κ, and regimes selected by scores computed under the current regime, the aggregate regime r = 0 is always self-stable, and at it actual violation = 1 and recorded violation = 0.
 2. No agent in the construction intends the violation or its concealment.
-3. So a harmful outcome and the regime that keeps it unrecorded can sustain each other without intent, which CLAIM-tmptfuky says is possible.
+3. So a harmful outcome and the regime that keeps it unrecorded can sustain each other without intent, which [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) says is possible.
 
 ## Critical questions
 

@@ -17,7 +17,7 @@ date: '2026-11-07'
 line:
 - will-organization
 summary: >-
-  From the self-confirming label (CASE-141) to A's counter-corrective disposition (CLAIM-tmplgp4k), from A62 §5 and §10 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: the self-confirmation transfers; the route differs, through the labelled person's conduct in one and the challenger's access in the other. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
+  From the self-confirming label ([CASE-141](../cases.d/CASE-141.md)) to A's counter-corrective disposition ([CLAIM-tmplgp4k](../claims.d/CLAIM-tmplgp4k.md)), from A62 §5 and §10 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Proposed: the self-confirmation transfers; the route differs, through the labelled person's conduct in one and the challenger's access in the other. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmplgp4k TERM-tmp6ersv — filed from the same exchange, Proposed or Deferred; cited as filed -->
 
@@ -27,12 +27,12 @@ From the second share of the exchange "Individuation, Possibility, and Dispositi
 
 ## The inference
 
-1. CASE-141: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight.
+1. [CASE-141](../cases.d/CASE-141.md): a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight.
 2. A62 §5 and §10: a complaint is classified as disruption, the complainant's credibility or access is reduced, future complaints become less effective, and their absence is read as success.
-3. So the response to a challenge can produce the evidence that confirms it, which is CLAIM-tmplgp4k, a fink of the disposition to be corrected in TERM-tmp6ersv's sense.
+3. So the response to a challenge can produce the evidence that confirms it, which is [CLAIM-tmplgp4k](../claims.d/CLAIM-tmplgp4k.md), a fink of the disposition to be corrected in [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s sense.
 
 ## Critical questions
 
-- **In what respect are they alike, and is it the respect the conclusion needs?** In both, a classification acted on produces the outcomes by which it is judged (CLAIM-402). That is the self-certifying part of the conclusion.
-- **What relevant difference is there?** CASE-141's loop runs through the labelled person's conduct: the label makes the misconduct real. CLAIM-tmplgp4k's runs through the challenger's access: the response removes the challenges, and nothing need change in the challenger's conduct. CASE-141 is also a label, not a response to a challenge, so it does not carry the control comparison of A62 §10.
-- **What transfers, and what does not?** The self-confirmation transfers. The causal diagnostic, Pr(effective future challenge | do(c)) against do(c₀), does not: CASE-141 offers no control, and the claim's test has to be met on its own.
+- **In what respect are they alike, and is it the respect the conclusion needs?** In both, a classification acted on produces the outcomes by which it is judged ([CLAIM-402](../claims.d/CLAIM-402.md)). That is the self-certifying part of the conclusion.
+- **What relevant difference is there?** [CASE-141](../cases.d/CASE-141.md)'s loop runs through the labelled person's conduct: the label makes the misconduct real. [CLAIM-tmplgp4k](../claims.d/CLAIM-tmplgp4k.md)'s runs through the challenger's access: the response removes the challenges, and nothing need change in the challenger's conduct. [CASE-141](../cases.d/CASE-141.md) is also a label, not a response to a challenge, so it does not carry the control comparison of A62 §10.
+- **What transfers, and what does not?** The self-confirmation transfers. The causal diagnostic, Pr(effective future challenge | do(c)) against do(c₀), does not: [CASE-141](../cases.d/CASE-141.md) offers no control, and the claim's test has to be met on its own.

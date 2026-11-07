@@ -100,7 +100,7 @@ that.
 - "**Finking or destruction: the triggering event changes the disposition
   itself.**" Its example: "a crisis abolishes the very review mechanism
   that would otherwise have been invoked." For the disposition to be
-  corrected, the case is CLAIM-tmplgp4k (A62 §10 of the second share): a
+  corrected, the case is [CLAIM-tmplgp4k](../claims.d/CLAIM-tmplgp4k.md) (A62 §10 of the second share): a
   credible challenge answered by reducing the capacity for future
   challenge, so that the trigger of correction removes the disposition to
   correct. Version 1 said "No entry names this case"; the nearest held

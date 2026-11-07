@@ -38,4 +38,4 @@ Tammy L. MacLean and Michael Behnam (2010). "The Dangers of Decoupling: The Rela
 
 ## Standing in the record
 
-Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A62 §1 for decoupling of compliance programmes from practice, as organizational sociology the reflexive wrong extends. It bears on CLAIM-tmptfuky, whose procedural containment (A62 §5) is decoupling, and on ARG-tmpoq76a, which defers the comparison until it is read.
+Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A62 §1 for decoupling of compliance programmes from practice, as organizational sociology the reflexive wrong extends. It bears on [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md), whose procedural containment (A62 §5) is decoupling, and on [ARG-tmpoq76a](../arguments.d/ARG-tmpoq76a.md), which defers the comparison until it is read.

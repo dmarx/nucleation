@@ -23,7 +23,7 @@ keywords:
 - 'epistemic oppression'
 implementations: []
 summary: >-
-  Nora Berenstain (2016). "Epistemic Exploitation." Ergo, an Open Access Journal of Philosophy 3, DOI-10.3998/ergo.12405314.0003.022. A names no work; the identification is the reader's. A62 §12: "Nora Berenstain's account of *epistemic exploitation* examines how disadvantaged people can be compelled to do burdensome work explaining their oppression to more privileged audiences." The record cites a Berenstain 2020 in NOTE-1049, not this paper. Unread here; cited by A in the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07).
+  Nora Berenstain (2016). "Epistemic Exploitation." Ergo, an Open Access Journal of Philosophy 3, DOI-10.3998/ergo.12405314.0003.022. A names no work; the identification is the reader's. A62 §12: "Nora Berenstain's account of *epistemic exploitation* examines how disadvantaged people can be compelled to do burdensome work explaining their oppression to more privileged audiences." The record cites a Berenstain 2020 in [NOTE-1049](../notes.d/NOTE-1049.md), not this paper. Unread here; cited by A in the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07).
 ---
 <!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 
@@ -33,8 +33,8 @@ Nora Berenstain (2016). "Epistemic Exploitation." *Ergo, an Open Access Journal 
 
 ## Key takeaways
 
-*Not read; as A or the reader describes it.* A names no work; the identification is the reader's. A62 §12: "Nora Berenstain's account of *epistemic exploitation* examines how disadvantaged people can be compelled to do burdensome work explaining their oppression to more privileged audiences." The record cites a Berenstain 2020 in NOTE-1049, not this paper.
+*Not read; as A or the reader describes it.* A names no work; the identification is the reader's. A62 §12: "Nora Berenstain's account of *epistemic exploitation* examines how disadvantaged people can be compelled to do burdensome work explaining their oppression to more privileged audiences." The record cites a Berenstain 2020 in [NOTE-1049](../notes.d/NOTE-1049.md), not this paper.
 
 ## Standing in the record
 
-Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A62 §12 for epistemic exploitation, the unpaid labour the marginalized are made to do to educate the privileged, among what the reflexive wrong does not newly claim; A60 §10 makes the matching point that the cost of correction is shifted to the harmed. It bears on CLAIM-tmptfuky and on CLAIM-348's note of 2026-10-21, on who pays to become legible.
+Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A62 §12 for epistemic exploitation, the unpaid labour the marginalized are made to do to educate the privileged, among what the reflexive wrong does not newly claim; A60 §10 makes the matching point that the cost of correction is shifted to the harmed. It bears on [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) and on [CLAIM-348](../claims.d/CLAIM-348.md)'s note of 2026-10-21, on who pays to become legible.

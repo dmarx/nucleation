@@ -143,4 +143,4 @@ sets these out.
 
 ## Note of 2026-11-07: the action route, from the second share of "Individuation, Possibility, and Disposition"
 
-A58 §8 reads this claim rightly. Its second route, "**An organization can overcome a limitation by changing what it can do, not only by improving what it can see.**", is this claim's new channel. A calls it "easy to overlook", but CLAIM-572 prices it against observation on one budget. CASE-194 supports the two routes as separate repairs, and limits the action route to cases with a hedge (ARG-tmp77psp). No status changes.
+A58 §8 reads this claim rightly. Its second route, "**An organization can overcome a limitation by changing what it can do, not only by improving what it can see.**", is this claim's new channel. A calls it "easy to overlook", but [CLAIM-572](CLAIM-572.md) prices it against observation on one budget. [CASE-194](../cases.d/CASE-194.md) supports the two routes as separate repairs, and limits the action route to cases with a hedge ([ARG-tmp77psp](../arguments.d/ARG-tmp77psp.md)). No status changes.

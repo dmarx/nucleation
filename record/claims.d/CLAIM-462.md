@@ -169,4 +169,4 @@ is unchanged and stays Proposed.
 
 ## Note of 2026-11-07: restated uncited, from the second share of "Individuation, Possibility, and Disposition"
 
-A62 §9 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) restates this claim without citing it: "The institution might continually improve its productive capability while degrading the structures that support answerability." Its chart is, in A's caption, "Conceptual illustration only, not empirical measurements". CLAIM-tmptfuky uses "answerability" in this claim's sense. Unchanged.
+A62 §9 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) restates this claim without citing it: "The institution might continually improve its productive capability while degrading the structures that support answerability." Its chart is, in A's caption, "Conceptual illustration only, not empirical measurements". [CLAIM-tmptfuky](CLAIM-tmptfuky.md) uses "answerability" in this claim's sense. Unchanged.
