@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmp4hpm7
 title: 'The anchoring measures: inbound references per code and turns per filed entry, counted in the record''s own grammar'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the summary and body said neither measure had been computed. Inbound
+    references per code were counted on 2026-11-06 (scratch/formal/
+    claim184_185_counts.py; CLAIM-185's note of that date); turns per filed
+    entry are still uncounted. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -18,7 +27,8 @@ summary: >-
   references per code would tell an anchor from a structure that only
   persists ([QUESTION-038](../questions.d/QUESTION-038.md)). Turns per filed entry would be set against the
   drift the workbench records ([CLAIM-186](../claims.d/CLAIM-186.md)). Both are counted in codes,
-  relations and statuses. Neither has been computed.
+  relations and statuses. Inbound references per code were counted on 2026-11-06 (CLAIM-185's note
+  of that date); turns per filed entry have not been computed.
 ---
 <!-- inactive-ok-file: CLAIM-185 CLAIM-186 CLAIM-181 — Proposed; open, cited as the claims the measures are proposed for and the worry about the grammar, not as settled -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; the claim about these measures, moved to an ARG under ADR-061 -->
@@ -57,7 +67,9 @@ re-derivations ([CLAIM-186](../claims.d/CLAIM-186.md)).
 
 ## What it cannot show
 
-It has not been computed. And both sides of each comparison are read in
+Inbound references per code were counted on 2026-11-06, by
+scratch/formal/claim184_185_counts.py, as [CLAIM-185](../claims.d/CLAIM-185.md)'s note of that date
+records; turns per filed entry have not been computed. And both sides of each comparison are read in
 the grammar that shapes the argument ([CLAIM-181](../claims.d/CLAIM-181.md)). A rise in coding and
 linking registers as more anchoring whether or not the participants, by
 their own standards, drifted less. That is the threat [CLAIM-190](../claims.d/CLAIM-190.md) named,

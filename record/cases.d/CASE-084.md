@@ -20,6 +20,7 @@ summary: >-
   A6's third case. Accountability without correctness, one of [CLAIM-299](../claims.d/CLAIM-299.md)'s three
   separations, and A6's "direct companion to [CLAIM-181](../claims.d/CLAIM-181.md) and [CLAIM-190](../claims.d/CLAIM-190.md)".
 ---
+<!-- inactive-ok-file: ARG-028 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CASE-084: The perfectly accountable false theory: a community whose record traces every commitment and whose vocabulary leaves out the right explanation
@@ -45,3 +46,7 @@ computed in it.
 A6: "That accountability lacks instrumental value. An accountable record
 may help identify errors once the excluded possibility is made
 available."
+
+## Note of 2026-11-07: the illustration of [CLAIM-190](../claims.d/CLAIM-190.md) is history
+
+This case's `illustrates` still names [CLAIM-190](../claims.d/CLAIM-190.md), which is Superseded by [ARG-028](../arguments.d/ARG-028.md). A case cannot illustrate an argument, so the edge is kept as history. The point it illustrated, that the record's own measures cannot certify correctness, is now [ARG-028](../arguments.d/ARG-028.md)'s, which cites this case. No status change.

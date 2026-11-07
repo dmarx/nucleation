@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-087
 title: 'apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -15,6 +15,12 @@ history:
     term and separate the claims"), as the sense in which CLAIM-469
     states luria's operational role. Proposed to Active; the definition is
     unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the summary still began its reason "Proposed:". The term has been
+    Active since version 2 (2026-10-27). No other change.
 tags:
 - philosophy-of-science
 - epistemology
@@ -27,8 +33,8 @@ summary: >-
   is presupposed. An apparatus makes some differences in a system produce
   distinct outcomes in another (differentiation), and may keep them
   (retention), let them change what happens next (enforcement), and
-  change its own criteria of discrimination (revision). Proposed: the
-  record uses "apparatus" in [CLAIM-476](../claims.d/CLAIM-476.md) and [TERM-087](TERM-087.md) in Barad's
+  change its own criteria of discrimination (revision). Adopted on
+  2026-10-27 because the record uses "apparatus" in [CLAIM-476](../claims.d/CLAIM-476.md) and [TERM-087](TERM-087.md) in Barad's
   sense, and needed a weaker one that a thermometer, a bacterium, a
   sensor network and luria all fall under without argument.
 ---

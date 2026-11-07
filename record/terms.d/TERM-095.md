@@ -4,13 +4,19 @@ status: Active
 formerly:
 - TERM-tmppwzer
 title: 'inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
   note: >-
     Adopted by the owner on 2026-10-27 at the ruling on the status
     review that filed it.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the summary still ended "Proposed.". The term has been Active since
+    version 2. No other change.
 tags:
 - epistemology
 - cognition
@@ -30,7 +36,7 @@ summary: >-
   interventions, observations and criteria, with the language and the
   resource bounds A16 added. It is a construct, not a thesis. That inquiry
   is a form of specification is [CLAIM-470](../claims.d/CLAIM-470.md)'s claim, stated in this term and
-  not built into it. Proposed.
+  not built into it.
 ---
 
 # TERM-095: inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpze74h
 title: 'Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the body called CLAIM-308's guarantee "twice the hindsight optimum".
+    CLAIM-308's version 3 states it as 2 − (c_a + u)/c_r, of which twice
+    is the limit. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -38,8 +46,8 @@ summary: >-
 
 [CLAIM-308](CLAIM-308.md) applies the rent-or-buy rule to one filed argument at a time.
 Its per-use cost once filed is c_a + u, access and verification plus
-upkeep, fixed and known, and its guarantee of twice the hindsight
-optimum needs exactly that. [CLAIM-308](CLAIM-308.md) already names the condition and
+upkeep, fixed and known, and its guarantee, within 2 − (c_a + u)/c_r of the hindsight optimum and at
+most twice, needs exactly that. [CLAIM-308](CLAIM-308.md) already names the condition and
 says reconstruction costs drift. This objection says one cost drifts in a
 particular direction, and for a structural reason.
 
