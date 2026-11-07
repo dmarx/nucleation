@@ -1,76 +1,36 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Unfetched | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041). `Unfetched` is one whose lawful free copy was
-# located at an exact address that this client could not fetch; the status
-# note gives the address and the obstacle (ADR-053).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp08ip2:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-11-07, not read. Registered from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table) for "synchronization fundamentals": network locking conditions, stability and graph structure. No reading was attempted.
 title: 'Synchronization in complex networks of phase oscillators: A survey'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Filed, not read, from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Checked against Crossref on 2026-11-07. Crossref gives Florian Dörfler and Francesco Bullo, Automatica 50(6): 1539–1564, issued June 2014 with no day, so `published:` is the first of the month (ADR-002). No arXiv copy was found by title on the arXiv API. The summary is how A describes the work; a reading should check it first.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- network-science
+- control-theory
+- complex-systems
 date: '2026-11-07'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
+published: '2014-06-01'
+doi: '10.1016/j.automatica.2014.04.012'
+first_author: 'Dörfler'
 keywords: []
-
-# Optional. Models or codebases known to use this work.
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Dörfler & Bullo (2014), DOI-10.1016/j.automatica.2014.04.012. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A12 (its reading table). It bears on the synchronization line the exchange opened: CLAIM-172 (mutual entrainment as the mark of a combined form), QUESTION-147 (clusters against computed orbits) and LIT-1668. A lists it as the standard survey of locking conditions on networks of phase oscillators, and of how graph structure bears on their stability. What A says of it is unverified until read.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp08ip2: Synchronization in complex networks of phase oscillators: A survey
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Florian Dörfler and Francesco Bullo (2014). "Synchronization in complex networks of phase oscillators: A survey." *Automatica* 50(6): 1539–1564. DOI-10.1016/j.automatica.2014.04.012.
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*Seeded from the exchange, not read.* A lists it as the standard survey of locking conditions on networks of phase oscillators, and of how graph structure bears on their stability. Unverified until read.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A12 (its reading table). It bears on the synchronization line the exchange opened: CLAIM-172 (mutual entrainment as the mark of a combined form), QUESTION-147 (clusters against computed orbits) and LIT-1668.

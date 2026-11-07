@@ -26,6 +26,7 @@ summary: >-
   numbers. A's caveat is kept: none of this says whether the control is
   coercive. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp2ym3k — filed from the same exchange, Deferred -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited for its domination clause -->
 
 # CASE-tmpecdgv: A forced Stuart–Landau oscillator: a self-sustained and a damped one give the same drive-locked output; an inhibitory control above μ holds the self-sustained one at rest while it still answers the drive with amplitude about F/√((u − μ)² + (Ω − ω)²); withdrawing the drive alone lets the output die, withdrawing drive and control restores the limit cycle of radius √μ, so dependence for timing, dependence for performance and suppression of a latent capacity are three things
@@ -78,5 +79,8 @@ It is fictional by construction: it shows what is coherent, not what is
 common. It does not say whether a control is coercive. A12 §4.3: "The
 dynamics alone do not establish the normative relationship." Whether control
 is legitimate is [CLAIM-545](../claims.d/CLAIM-545.md)'s question of domination, not the model's. The
-literature A cites for oscillation quenching, Saxena, Prasad and Ramaswamy
-2013 (doi:10.1016/j.physrep.2013.06.001), is not held by the record.
+literature A cites for oscillation quenching is a 2013 *Physics Reports*
+review, doi:10.1016/j.physrep.2013.06.001, which A attributes to Saxena,
+Prasad and Ramaswamy. Crossref gives that DOI to Koseska, Volkov and
+Kurths, "Oscillation quenching mechanisms", registered unread as
+LIT-tmp2ym3k.

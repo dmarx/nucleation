@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-07, not read. Registered from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A29 (§6) for an extension of discourse-sheaf dynamics to selective rigidity of opinions and selective adaptation of communication maps. No reading was attempted.
+title: 'Selective Adaptation of Beliefs and Communication on Cellular Sheaves'
+version: 1
+history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Filed, not read, from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Checked against the arXiv API on 2026-11-07. The arXiv API gives 2601.22431 v1 submitted 2026-01-30 (v2 2026-03-18), Vicente Bosca and Robert Ghrist, no journal reference. The summary is how A describes the work; a reading should check it first.
+tags:
+- mathematics
+- network-science
+- social-science
+date: '2026-11-07'
+published: '2026-01-30'
+arxiv: '2601.22431'
+first_author: 'Bosca'
+keywords: []
+implementations: []
+summary: >-
+  Bosca & Ghrist (2026), ARXIV-2601.22431. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A29 (§6). It bears on THEORY-1088 and LIT-1646 (Hansen and Ghrist's discourse sheaves). A says it extends discourse-sheaf dynamics to selective rigidity in agents' opinions and selective adaptation of communication maps. What A says of it is unverified until read.
+---
+
+# LIT-tmprg80n: Selective Adaptation of Beliefs and Communication on Cellular Sheaves
+
+Vicente Bosca and Robert Ghrist (2026). "Selective Adaptation of Beliefs and Communication on Cellular Sheaves." arXiv preprint. ARXIV-2601.22431.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* A says it extends discourse-sheaf dynamics to selective rigidity in agents' opinions and selective adaptation of communication maps. Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A29 (§6). It bears on THEORY-1088 and LIT-1646 (Hansen and Ghrist's discourse sheaves).

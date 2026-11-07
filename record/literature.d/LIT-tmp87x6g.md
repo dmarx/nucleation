@@ -1,0 +1,37 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-07, not read. Registered from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A14 for metastable and chimera regimes in hierarchical networks of frustrated Kuramoto–Sakaguchi oscillators, set by modular structure, slow eigenmodes and timescale separation. No reading was attempted.
+title: 'Emergence of metastability in frustrated oscillatory networks: the key role of hierarchical modularity'
+version: 1
+history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Filed, not read, from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Checked against the arXiv API and Crossref on 2026-11-07. A named "a 2024 paper by Caprioglio and Berthouze" with no title or identifier. The arXiv API gives 2405.14542 v1 submitted 2024-05-23, Enrico Caprioglio and Luc Berthouze, with DOI 10.3389/fnetp.2024.1436046 linked; Crossref gives Frontiers in Network Physiology 4: 1436046, published 2024-08-21. Hierarchical frustrated Kuramoto–Sakaguchi networks with metastable regimes match A's description; it is the only 2024 paper by the pair found on the topic. The summary is how A describes the work; a reading should check it first.
+tags:
+- network-science
+- complex-systems
+- neuroscience
+date: '2026-11-07'
+published: '2024-05-23'
+arxiv: '2405.14542'
+doi: '10.3389/fnetp.2024.1436046'
+first_author: 'Caprioglio'
+keywords: []
+implementations: []
+summary: >-
+  Caprioglio & Berthouze (2024), ARXIV-2405.14542 / DOI-10.3389/fnetp.2024.1436046. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A14. It bears on CLAIM-481 (coupling does not by itself separate timescales), CLAIM-405 and CLAIM-157. A says metastable and chimera regimes arise in these networks according to modular structure, slow Laplacian eigenmodes and the separation between characteristic timescales. What A says of it is unverified until read.
+---
+
+# LIT-tmp87x6g: Emergence of metastability in frustrated oscillatory networks: the key role of hierarchical modularity
+
+Enrico Caprioglio and Luc Berthouze (2024). "Emergence of metastability in frustrated oscillatory networks: the key role of hierarchical modularity." *Frontiers in Network Physiology* 4: 1436046. ARXIV-2405.14542 DOI-10.3389/fnetp.2024.1436046.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* A says metastable and chimera regimes arise in these networks according to modular structure, slow Laplacian eigenmodes and the separation between characteristic timescales. Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A14. It bears on CLAIM-481 (coupling does not by itself separate timescales), CLAIM-405 and CLAIM-157.
