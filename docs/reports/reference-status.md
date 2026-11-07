@@ -1789,7 +1789,7 @@ Learned local accommodation can reduce the amortized cost of recurrent arbitrati
 
 19 citations in 11 files await a look; 24 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-153.md:123`](../../record/cases.d/CASE-153.md)
+- [`record/cases.d/CASE-153.md:129`](../../record/cases.d/CASE-153.md)
 - [`record/cases.d/CASE-156.md:73`](../../record/cases.d/CASE-156.md)
 - [`record/claims.d/CLAIM-163.md:132`](../../record/claims.d/CLAIM-163.md)
 - [`record/claims.d/CLAIM-261.md:22`](../../record/claims.d/CLAIM-261.md)
@@ -2272,7 +2272,7 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 
 - [`record/cases.d/CASE-144.md:70`](../../record/cases.d/CASE-144.md)
 - [`record/cases.d/CASE-144.md:89`](../../record/cases.d/CASE-144.md)
-- [`record/cases.d/CASE-153.md:112`](../../record/cases.d/CASE-153.md)
+- [`record/cases.d/CASE-153.md:118`](../../record/cases.d/CASE-153.md)
 - [`record/claims.d/CLAIM-444.md:122`](../../record/claims.d/CLAIM-444.md)
 - [`record/claims.d/CLAIM-445.md:166`](../../record/claims.d/CLAIM-445.md)
 - [`record/claims.d/CLAIM-446.md:276`](../../record/claims.d/CLAIM-446.md)
@@ -7223,7 +7223,7 @@ The governance-induced kind of frustration is not idle: some failures of an orga
 2 citations in 1 file await a look.
 
 - [`record/claims.d/CLAIM-357.md:51`](../../record/claims.d/CLAIM-357.md)
-- [`record/claims.d/CLAIM-357.md:190`](../../record/claims.d/CLAIM-357.md)
+- [`record/claims.d/CLAIM-357.md:196`](../../record/claims.d/CLAIM-357.md)
 
 ### [CLAIM-507](../../record/claims.d/CLAIM-507.md) — Proposed
 
