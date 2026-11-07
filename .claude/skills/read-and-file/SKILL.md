@@ -223,13 +223,16 @@ synthesis as well.
     only labels, it is a recap; say so.
 - **Admit it, or don't.** File a synthesis as a CLAIM only if you can
   state a coherent case, stipulated if need be, in which every component
-  it rests on or names holds and its integrating claim is false. That is
+  it rests on or names holds (no component's own `defeated_if` is met)
+  and its integrating claim is false. That is
   what shows the integration (a proposition, an explanatory dependency, or
   a discriminating prediction) is not exhausted by its parts. If no case
   can be stated, don't file it: keep the synthesis and its audit in the
   curation entry, linked to the components. If a narrower integrating
   sentence passes where the stated one fails, file the narrower one. A
   filed synthesis CLAIM that fails is retired as Rejected, with the reason.
+  Watch for a free parameter ("a declared bearer"): it absorbs every case,
+  and fixing it can contradict the synthesis's own premises.
 - **File the latest version of each admitted thesis** as one CLAIM,
   Proposed:
   - the title states the integrating claim;

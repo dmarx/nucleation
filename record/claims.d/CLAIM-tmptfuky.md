@@ -1,8 +1,18 @@
 ---
 status: Proposed
-title: 'An organization subject to a justified standard can commit a second-order wrong of answerability beyond violating it, by reproducing, through the feedback that sustains its activity, representations that merge or discredit the distinctions the standard needs and allocations of authority that deny relevant claims corrective force, so that the standard cannot constrain it; the wrong needs no intent, is not reducible to the loss it causes, and is a verdict only given an independently justified standard and a feasible alternative'
-version: 2
+title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    ADR-tmpe7y42's admission test (version 2), applied at A's review of
+    the pull request: admitted on a narrower title, the beyond-harm
+    wrong as a feasibility-bounded duty of answerability. Its old first
+    defeater, non-reduction to the harm, was the owner's CLAIM-
+    tmpagkxi's own; defeated_if now states the cases that would defeat
+    this claim's integration. The divergence from the owner's thesis on
+    unavoidable projections is stated in the body.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -17,18 +27,19 @@ history:
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  An organization meeting all five conditions of A62 §3 of which no wrong
-  beyond the first-order violation can be said once the violation's own
-  continuation is counted, so that the second-order wrong is the loss it
-  causes and nothing more. Or a showing that the second-order duty is
-  either unconditional, in which case CLAIM-511 would follow and the record
-  disclaims it, or empty, every feasibility bound excusing it. Also
-  defeated as a thesis of its own if it only restates CLAIM-445's
-  reproductive regime with CLAIM-523's three achievements and CLAIM-462's
-  divergence of action from correctability: it stands only if the duty,
-  condition 5 and the non-reducibility to the loss difference do work that
-  none of those does. Not defeated by an organization whose blindness is
-  unavoidable, which condition 5 excuses.
+  A case meeting A62 §3's conditions 1 to 4 in which the organization
+  had no feasible alternative, which the record must still count as
+  wronging those affected beyond the harm, as CLAIM-tmpagkxi allows for
+  an unavoidable projection, so that condition 5 does no work; or a case
+  meeting all five in which what is wrong beyond the harm is not
+  answerability, being unchanged when means for violations to become
+  knowable, contestable and correctable are restored (another's capacity
+  to govern those affected, CLAIM-545's domination clause, or their
+  standing as knowers). Or a showing that the duty is unconditional, so
+  that CLAIM-511 would follow, or empty. Also defeated as a thesis of
+  its own if it only restates CLAIM-tmpagkxi's distinct wrong with
+  CLAIM-445, CLAIM-523 and CLAIM-462. Not defeated by unavoidable
+  blindness, which condition 5 excuses.
 tags:
 - ethics
 - self-governance
@@ -80,7 +91,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-tmpe7y42 — Proposed; the synthesis audit this filing follows -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed or Deferred; components and boundaries, cited with their standing -->
 
-# CLAIM-tmptfuky: An organization subject to a justified standard can commit a second-order wrong of answerability beyond violating it, by reproducing, through the feedback that sustains its activity, representations that merge or discredit the distinctions the standard needs and allocations of authority that deny relevant claims corrective force, so that the standard cannot constrain it; the wrong needs no intent, is not reducible to the loss it causes, and is a verdict only given an independently justified standard and a feasible alternative
+# CLAIM-tmptfuky: The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
 
 ## The claim
 
@@ -282,3 +293,14 @@ against the literature and is descriptive, not filed. Distinct from the
 five synthesis claims filed from the first share ([CLAIM-tmp2ka9y](CLAIM-tmp2ka9y.md),
 [CLAIM-tmp6xhn3](CLAIM-tmp6xhn3.md), [CLAIM-tmpcdshj](CLAIM-tmpcdshj.md), [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md), [CLAIM-tmp340im](CLAIM-tmp340im.md)), none of which
 is normative; [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)'s last clause is this claim's descriptive base.
+
+## Admission
+
+Under ADR-tmpe7y42's admission test, the integration must be able to fail while every component holds. Two cases show it can.
+
+- **Condition 5 idle.** Take a projection that is unavoidable but reproduced. The owner's CLAIM-tmpagkxi counts it a wrong ("Not defeated by a case where the projection is unavoidable, since the claim needs the reproduction"). If the record must count it a wrong too, the feasibility bound fails, though every component holds.
+- **Not answerability.** Take a case meeting all five conditions in which the wrong beyond the harm lies wholly in another's capacity to govern those affected, CLAIM-545's domination clause, and persists unchanged once means of knowledge, contest and correction are restored.
+
+The claim is admitted on the narrower title. Its non-reduction to the harm is CLAIM-tmpagkxi's thesis and CASE-tmppdl5x's construction, not this claim's integration.
+
+**A divergence from the owner's thesis.** On unavoidable projections this claim and CLAIM-tmpagkxi disagree: the owner's counts reproduction of an unavoidable blindness as a wrong, and condition 5 here excuses it. Which to keep is the owner's call.

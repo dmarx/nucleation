@@ -1,8 +1,19 @@
 ---
 status: Proposed
-title: 'Meaning, perspective and will are organized by the same historical processes that individuate organizations, and in reflexive social systems the two condition each other: a concept persists as a transmitted organization of distinctions and their consequences under the criterion that governs any organized individual, a perspective organizes, through a maintained legibility regime, which distinctions are available and authoritative, a will-organization decides which become effective, the acceptable action it commits to fixes in turn which distinctions must be made legible, and the activity that results can remake the concepts, perspectives and organizations that made it possible, without that persistence showing truth, consensus or autonomy'
-version: 2
+title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    ADR-tmpe7y42's admission test (version 2), applied at A's review of
+    the pull request: admitted on a narrower title. Its integration,
+    concepts individuated by the transmission criterion so that the
+    meaning–will coupling runs through what is transmitted, can fail
+    while every component holds (a concept reinvented with no contact
+    and counted one; a loop that runs one way). Layer 6, CLAIM-535's
+    back-arrow, is CLAIM-535 relabelled: it leaves the title and
+    defeated_if and stays in the body as a component.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -21,22 +32,18 @@ history:
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A concept whose persistence the transmission criterion of CLAIM-tmpcdshj
-  gets wrong, continuing where nothing of its organization of distinctions
-  was transmitted or ending where it was, so that concepts need a
-  criterion of their own; or a reflexive social system in which
+  A concept whose persistence the transmission criterion of CLAIM-
+  tmpcdshj gets wrong, continuing where nothing of its organization of
+  distinctions was transmitted or ending where it was, so that concepts
+  need a criterion of their own; or a reflexive social system in which
   interventions on will-organization, with interpretation held fixed
   (A43 §10's design), leave the system's concepts and organizations
   unchanged over the horizon studied, so that the conditioning runs one
   way only. Also defeated as a thesis of its own if it only restates the
   owner's CLAIM-336 (meaning and will as one model) with CLAIM-402's
   categories confirmed through use, adding nothing about individuation.
-  Layer 6 is defeated by a case in which the acceptable action an
-  organization commits to leaves unchanged which distinctions it must make
-  legible though its acceptable sets overlap, which CLAIM-535's example
-  rules out for its policies; and it adds nothing of its own if it only
-  restates CLAIM-535's policy-relativity. Not defeated by a concept that
-  persists though it is false, which the claim allows.
+  Not defeated by a concept that persists though it is false, which the
+  claim allows.
 tags:
 - individuation
 - philosophy-of-language
@@ -88,13 +95,14 @@ summary: >-
   integration's wording is A's, corrected by the filer; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpcdshj CASE-tmpb16ru CLAIM-tmpnza8k CLAIM-tmpxe1ih CASE-tmphkso5 — filed from the same exchange, Proposed; premise, the owner's case and A's components -->
 <!-- inactive-ok-file: CLAIM-tmp340im — filed from the same exchange, Proposed; the reframing of this thesis -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-417 TERM-098 CLAIM-276 — Proposed; components, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-553 ARG-tmpr43gg CLAIM-tmpo48w1 CASE-tmp3l0hh ARG-tmpmk7of ARG-tmp77psp — the owner's construct, Proposed, and the argument and claim filed from the second share of the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 THEORY-916 — Proposed; the stipulated construction and the special case, cited in the version 2 corrections with their standing -->
 
-# CLAIM-tmpnjz70: Meaning, perspective and will are organized by the same historical processes that individuate organizations, and in reflexive social systems the two condition each other: a concept persists as a transmitted organization of distinctions and their consequences under the criterion that governs any organized individual, a perspective organizes, through a maintained legibility regime, which distinctions are available and authoritative, a will-organization decides which become effective, the acceptable action it commits to fixes in turn which distinctions must be made legible, and the activity that results can remake the concepts, perspectives and organizations that made it possible, without that persistence showing truth, consensus or autonomy
+# CLAIM-tmpnjz70: Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy
 
 ## The claim
 
@@ -263,3 +271,7 @@ to an observer under a specified task, representation, and resource
 regime.**" Its synthesis paragraph recaps layers 1 to 3 and [CLAIM-532](CLAIM-532.md). Its
 one integrating clause, layer 6, is stated in A57 and A58 §3, not in the
 paragraph itself.
+
+## Admission
+
+Under ADR-tmpe7y42's admission test, the integration must be able to fail while every component holds. Its defeated_if already states two such cases: two communities with no contact arrive independently at a concept that every criterion the record uses counts as one, though nothing was transmitted; and a reflexive social system in which the meaning–will coupling holds (CLAIM-336, CLAIM-330) but interventions on will-organization leave concepts and organizations unchanged. The claim is admitted. Layer 6, the back-arrow from the committed action to the distinctions that must be legible, is CLAIM-535 with the chosen policy relabelled as the will's commitment. It fails only where the action is fixed from outside, so it is a component, not part of the integration. It stays in the body and leaves the title and defeated_if.

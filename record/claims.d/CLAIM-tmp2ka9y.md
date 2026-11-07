@@ -1,21 +1,30 @@
 ---
 status: Proposed
-title: 'If the record''s hypotheses held, being an individual, persisting, being an agent and being autonomous would be separable achievements of one kind of organization, each a further organization of the conditions under which the one before it is effective: an individual a coherent organization of constraints relative to a stated criterion, persistence the transmission of what produces it, agency the organization of which interventions become effective, and autonomy the governance of the conditions of that efficacy, none implied by the one before'
-version: 1
+title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    ADR-tmpe7y42's admission test (version 2), applied at A's review of
+    the pull request: admitted on a narrower title, one bearer for
+    agency and individuality. Two of its links between levels restate
+    CLAIM-329 and CLAIM-545; the third can fail while every component
+    holds. defeated_if replaced by that case. The old exemption for a
+    level holding without the one below is dropped: under CLAIM-545
+    autonomy has nothing to govern without the will-organization below
+    it.
 role: supposed
 warrant: interpretive
 defeated_if: >-
-  A level of the stack that is not an organization of the conditions of
-  the level below it: an agent whose organizing of which interventions
-  become effective owes nothing to any coherent organization of
-  constraints individuated under a stated criterion, or an autonomous
-  system whose governance acts on nothing that conditions its own
-  efficacy. Or a pair of systems matched at every level the stack names
-  that differ in agency or autonomy on a ground it cannot register. Also
-  defeated as a thesis of its own if it only restates CLAIM-474's partial
-  order with TERM-023 and CLAIM-545 placed on top, adding nothing about
-  how the levels relate. Not defeated by a level that holds without the
-  one below it, which the supposition allows.
+  A case in which every component holds and the will-organization that
+  decides which of an individual's interventions become effective
+  belongs to a unit whose boundary crosses that individual's under every
+  criterion that picks the individual out, as CLAIM-405 allows, so that
+  agency is not a further organization of the individual. Also defeated
+  as a thesis of its own if it only restates CLAIM-474's order,
+  CLAIM-329, CLAIM-027 and CLAIM-545, adding nothing about which bearer
+  holds the levels.
 tags:
 - individuation
 - agency
@@ -56,11 +65,12 @@ summary: >-
   marked. The integration's wording is A's, corrected by the filer;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 — Proposed; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->
 
-# CLAIM-tmp2ka9y: If the record's hypotheses held, being an individual, persisting, being an agent and being autonomous would be separable achievements of one kind of organization, each a further organization of the conditions under which the one before it is effective: an individual a coherent organization of constraints relative to a stated criterion, persistence the transmission of what produces it, agency the organization of which interventions become effective, and autonomy the governance of the conditions of that efficacy, none implied by the one before
+# CLAIM-tmp2ka9y: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
 
 ## The claim
 
@@ -144,3 +154,7 @@ agency"; "Organizational success would not imply constituent welfare";
 The exchange's proposed theses ([CLAIM-tmp6xhn3](CLAIM-tmp6xhn3.md) and its successors) are not
 versions of this one. They integrate different components, and they put
 the account forward instead of supposing it.
+
+## Admission
+
+Under ADR-tmpe7y42's admission test, the integration must be able to fail while every component holds. Two of the three links between levels cannot: "persistence is the transmission of what produces the individual" is CLAIM-329, and "autonomy governs the conditions of agency's efficacy" is CLAIM-545 by definition. The third can. CLAIM-405 lets differently fixed criteria pick out units whose boundaries cross. A firm's precedence and jurisdiction relations, which CLAIM-027 says the firm has, decide which of a worker's interventions become effective, and they belong to a unit whose boundary crosses the worker's under every criterion that picks out the worker. Every component holds, and agency is not a further organization of the individual whose interventions it orders. The claim is admitted on that link alone, and the title says so.

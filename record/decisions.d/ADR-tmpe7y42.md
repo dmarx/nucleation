@@ -37,6 +37,7 @@ summary: >-
   Rejected: a new scheme for positions, until a synthesis CLAIM strains;
   filing every version; and the status quo.
 ---
+<!-- inactive-ok-file: CLAIM-tmp340im — filed from the same exchange, Rejected -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
 
 # ADR-tmpe7y42: A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
@@ -105,7 +106,9 @@ ledger and before the curation entry.
    `defeated_if`. Each of the three ways a synthesis can add to its
    components passes this test: a distinct integrative proposition, an
    explanatory dependency between components, or a discriminating
-   prediction. A synthesis for which no such case can be stated is
+   prediction. "Every component holds" means that no component's own
+   `defeated_if` is met: a case that defeats a premise tests the premise,
+   not the integration. A synthesis for which no such case can be stated is
    exhausted by its components. It is not filed. It and its audit stay in
    the curation entry, linked to the components. Two failures are
    guarded against:
@@ -116,6 +119,11 @@ ledger and before the curation entry.
    - **Losing a real integration to loose wording.** If a narrower
      integrating sentence passes where the stated one doesn't, the
      narrower one is filed.
+   - **A free parameter.** A synthesis with an open slot, such as "a
+     declared bearer", can absorb every case by choosing the slot, so no
+     case can be stated. Fixing the slot can then turn it against its own
+     premises. Either way it is not admitted. CLAIM-tmp340im, the first
+     synthesis retired under this test, failed this way.
 
    A synthesis CLAIM already filed that fails the test is retired by
    status, Rejected, with a status note giving the reason. Its audit

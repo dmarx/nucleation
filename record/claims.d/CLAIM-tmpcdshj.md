@@ -1,8 +1,17 @@
 ---
 status: Proposed
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    ADR-tmpe7y42's admission test (version 2), applied at A's review of
+    the pull request: admitted. Its integration, CLAIM-329's
+    transmission criterion generalized past collectives, can fail while
+    every component holds. defeated_if's second clause is widened from
+    an invariant structure to continuity of constituents, which is the
+    case that would defeat it.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -19,17 +28,20 @@ warrant: interpretive
 defeated_if: >-
   A succession in which the relations that kept the predecessor's
   repertoire realizable were transmitted to a successor, and every
-  criterion the record uses counts it not a continuation; or one in which
-  nothing of that organization was transmitted and it must still be
-  counted the same individual, as by an invariant structure alone. Also
-  defeated as a thesis of its own if it only restates CLAIM-329 (a
-  collective persists by transmission, not resemblance) with CLAIM-328
-  (plural successors) and CLAIM-tmp6xhn3, with CLAIM-593's two directions
-  carried from mechanisms, adding nothing about structural change: that is, if no individual the record holds continues through a
-  change of structure CLAIM-329 does not already cover by member
-  replacement. Not defeated by a community's verdict that disagrees with
-  the transmission criterion, which the claim treats as a cause
-  (CLAIM-tmpjw473), not a criterion.
+  criterion the record uses counts it not a continuation; or one in
+  which nothing of that organization was transmitted and it must still
+  be counted the same individual, as by continuity of constituents or by
+  an invariant structure, the maintaining organization having been
+  replaced by one with no causal tie to it. Also defeated as a thesis of
+  its own if it only restates CLAIM-329 (a collective persists by
+  transmission, not resemblance) with CLAIM-328 (plural successors) and
+  CLAIM-tmp6xhn3, with CLAIM-593's two directions carried from
+  mechanisms, adding nothing about structural change: that is, if no
+  individual the record holds continues through a change of structure
+  CLAIM-329 does not already cover by member replacement. Not defeated
+  by a community's verdict that disagrees with the transmission
+  criterion, which the claim treats as a cause (CLAIM-tmpjw473), not a
+  criterion.
 tags:
 - individuation
 - metaphysics
@@ -72,6 +84,7 @@ summary: >-
   cited are named. The integration's wording is A's, corrected by the
   filer; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpjw473 CASE-tmpcr92d — filed from the same exchange, Proposed; premise, component and the owner's study -->
 <!-- inactive-ok-file: ARG-tmpvxtof — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
@@ -193,3 +206,7 @@ on the causal continuity of relationships that realize and reproduce its
 defining capacities.**" A37 is the version filed. A45 §XI and §XVI and A52
 §11 restate it inside the theses on meaning and will ([CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)) and
 on disposition ([CLAIM-tmp340im](CLAIM-tmp340im.md)), which rest on it.
+
+## Admission
+
+Under ADR-tmpe7y42's admission test, the integration must be able to fail while every component holds. It can. A mechanism maintained by one workshop loses a part and passes to an unrelated workshop that maintains it from then on, with nothing of the first workshop's maintaining organization transmitted; let the domain's continuation morphisms, which CLAIM-593 says must be stipulated, count it the same mechanism by continuity of its remaining parts. CLAIM-329 (about collectives), CLAIM-593, CLAIM-280 and CLAIM-tmp6xhn3 all hold, and identity runs through continuity of constituents, not transmission. Generalizing CLAIM-329 beyond collectives is a step that can fail, so the claim is admitted. Its last three title clauses are components, marked as such in the body.

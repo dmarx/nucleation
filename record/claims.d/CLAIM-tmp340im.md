@@ -1,8 +1,26 @@
 ---
-status: Proposed
+status: Rejected
+status_note: >-
+  Rejected under ADR-tmpe7y42's admission test: no case has its
+  components hold and its integration fail. Disposition as a dimension
+  is TERM-tmp6ersv's reframing; character, not identity, and the four-
+  way independence are CLAIM-593, CLAIM-329 and TERM-088; with the
+  bearer left free every case is absorbed by declaring a wider bearer,
+  and with the bearer fixed as the individual its grounding clause
+  contradicts CLAIM-tmp6xhn3 and CLAIM-522. The audit stays in the
+  curation entry, linked to TERM-tmp6ersv and the components.
 title: 'The organized possibility in which the record''s account locates an individual is dispositional: what a declared bearer would manifest across declared conditions, grounded in its actual organization and persisting while unmanifested; so disposition is a dimension of the capacities, perspectives, concepts and will-organizations the record already names, not a further layer or object, and an individual''s dispositional profile is its character, not its identity; and its dispositional equivalence to another, its historical continuity, its numerical identity and its autonomy are four properties, none following from another'
-version: 3
+version: 4
 history:
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    ADR-tmpe7y42's admission test (version 2), applied at A's review of
+    the pull request: not admitted, so retired by status, Rejected.
+    Every clause is held elsewhere, and its one candidate, the grounding
+    clause, is either absorbed by a free bearer or, with the bearer
+    fixed, contradicted by its own premises. A58 §10's three dimensions
+    (version 3) belong in TERM-tmp6ersv or the curation entry.
 - version: 3
   date: '2026-11-07'
   note: >-
@@ -96,6 +114,7 @@ summary: >-
   possibility and history. The integration's wording is A's, corrected
   by the filer; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed; the owner's U16 study, credited -->
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpcdshj CLAIM-tmpnjz70 CLAIM-tmp7fzb9 TERM-tmp6ersv — filed from the same exchange, Proposed; premises, the thesis reframed, a dropped component and the owner's term -->
@@ -252,3 +271,7 @@ universal identity criterion that silently resolves questions we've
 explicitly left open." Its integrating sentence is A50 §11's, and its
 clauses on meaning and will restate [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md) and on transmission
 [CLAIM-tmpcdshj](CLAIM-tmpcdshj.md).
+
+## Admission
+
+Under ADR-tmpe7y42's admission test, a synthesis is filed only if its integration can fail while every component holds. This one cannot. "Persists while unmanifested" is CLAIM-421, CLAIM-287 and CLAIM-047; "character, not identity" is CLAIM-593 with CLAIM-tmpcdshj; the four-way independence is held piecewise by CLAIM-593, CLAIM-329 and TERM-088; and "a dimension, not a layer" is the vocabulary TERM-tmp6ersv already chose. The one candidate is the grounding clause. Left free ("a declared bearer"), it absorbs any externally grounded possibility by declaring a wider bearer, so no case can be stated. Fixed as the individual, it is defeated by CLAIM-522's outside controller, which keeps a repertoire realizable that is not grounded in the individual's own organization, and that construction is a premise of this claim through CLAIM-tmp6xhn3. Its success test names no pair the dispositional account separates and CLAIM-414, CLAIM-407, CLAIM-521 and CLAIM-522 do not. Retired by status, Rejected; the record keeps it and its audit.

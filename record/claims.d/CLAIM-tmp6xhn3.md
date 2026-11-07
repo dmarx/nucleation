@@ -1,24 +1,35 @@
 ---
 status: Proposed
-title: 'What persists when an organized individual persists through changes of state and mode can be the organization that keeps a repertoire of modes, histories and transitions realizable, not any one state, mode or boundary: present coordination, the repertoire available to it, the maintenance of that repertoire and its transformation are separable layers, and the maintaining organization may lie inside the individual or outside it'
-version: 1
+title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    ADR-tmpe7y42's admission test (version 2), applied at A's review of
+    the pull request: admitted on a narrower title. The old title's "can
+    be" made the claim existential, so no single case could defeat it;
+    the narrower title says what persists is the particular maintaining
+    organization, and defeated_if's first clause is replaced by the case
+    that would defeat that: CLAIM-522's outside controller swapped in,
+    with the system counted one individual through the swap.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Two organizations that agree in present coordination and in the
-  repertoire of modes, histories and transitions realizable for them, and
-  that differ in maintenance and transformation, yet must be counted the
-  same individual on every criterion the record uses, so that the lower
-  layers fix individuation and the upper add nothing to it; or a case
-  where an individual persists through a change in what is realizable for
-  it, with no organization keeping anything realizable across the change,
-  so that the repertoire is not what persisted. Also defeated as a thesis
-  of its own if it only restates CLAIM-576 (a constrained system is
-  characterized by its repertoire of realizable processes), CLAIM-025 (the
-  operative, governing and transforming layers part) and TERM-071's senses
-  of persistence, saying nothing about where individuation lies. Not
-  defeated by an individual that persists in one mode throughout, which
-  the claim allows.
+  One system whose maintaining organization is replaced by an unrelated
+  one that keeps the same repertoire realizable (CLAIM-522's outside
+  controller swapped in), which every criterion the record uses counts
+  as the same individual through the swap, so that the repertoire and
+  not its maintainer is what persisted; or a case where an individual
+  persists through a change in what is realizable for it, with no
+  organization keeping anything realizable across the change, so that
+  the repertoire is not what persisted. Also defeated as a thesis of its
+  own if it only restates CLAIM-576 (a constrained system is
+  characterized by its repertoire of realizable processes), CLAIM-025
+  (the operative, governing and transforming layers part) and TERM-071's
+  senses of persistence, saying nothing about where individuation lies.
+  Not defeated by an individual that persists in one mode throughout,
+  which the claim allows.
 tags:
 - individuation
 - complex-systems
@@ -64,11 +75,12 @@ summary: >-
   restored. The integration's wording is A's, corrected by the filer;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmptwm5l CLAIM-tmp7cpzx CLAIM-tmprmy7a CLAIM-tmpg7aqc CLAIM-tmpk1015 CASE-tmpecdgv CASE-tmpyzdwh CASE-tmpdwka1 — filed from the same exchange, Proposed; components and restored owner contributions -->
 <!-- inactive-ok-file: CLAIM-tmpcdshj — filed from the same exchange, Proposed; the later thesis that rests on this one -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 — Proposed; components, cited with their standing -->
 
-# CLAIM-tmp6xhn3: What persists when an organized individual persists through changes of state and mode can be the organization that keeps a repertoire of modes, histories and transitions realizable, not any one state, mode or boundary: present coordination, the repertoire available to it, the maintenance of that repertoire and its transformation are separable layers, and the maintaining organization may lie inside the individual or outside it
+# CLAIM-tmp6xhn3: When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
 
 ## The claim
 
@@ -174,3 +186,7 @@ organized possibility". A27 §8, "a repertoire-generating organization".
 A29 §11 is the version filed. A9's and A12 §11's syntheses are the
 laboratory's method, held in [CLAIM-tmpg7aqc](CLAIM-tmpg7aqc.md). The historical-structuralist
 thesis ([CLAIM-tmpcdshj](CLAIM-tmpcdshj.md)) rests on this one.
+
+## Admission
+
+Under ADR-tmpe7y42's admission test, the integration must be able to fail while every component holds. As first titled, "can be" made it existential, and read as a role ("whatever keeps the repertoire realizable") no case could defeat it. Read as a particular, it can fail: replace the system's internal production by CLAIM-522's ideal outside controller, supplying the same production law, so that the same repertoire stays realizable and every trajectory is unchanged, and let every criterion count it one individual through the swap. CLAIM-280 and CLAIM-576 hold, and what persisted is the repertoire, not its maintainer. The claim is admitted in the particular reading, and the title now states it.
