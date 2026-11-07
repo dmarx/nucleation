@@ -53,14 +53,14 @@ summary: >-
   filed and the exchange's last account. The reframing is the owner's:
   U22 asked whether "disposition" might be "a clarifying tool (not
   necessarily a new thing, could be an improved reframing of a term of art
-  we've already adopted)", and the term filed from it is TERM-tmp6ersv.
+  we've already adopted)", and the term filed from it is [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md).
   A52 tells it as "The recent turn to dispositions" and uses the owner's
-  TERM-086 phrase "organizational achievement" without citing it. The
+  [TERM-086](../terms.d/TERM-086.md) phrase "organizational achievement" without citing it. The
   integration is A's, from A47 §8 and §9. A52 §2 makes dispositional
   organization a layer of its own, against A47 and A50; the claim takes
   A47's form. The audit finds it the thinnest of the exchange's
   syntheses, mostly a renaming of held distinctions. It reframes the
-  thesis on meaning and will (CLAIM-tmpnjz70) and rests on the two on
+  thesis on meaning and will ([CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)) and rests on the two on
   possibility and history. The integration's wording is A's, corrected
   by the filer; adopting it is the owner's call.
 ---
@@ -83,26 +83,26 @@ manifest.**"
 
 The architecture, in layers:
 
-1. **What is dispositional.** The repertoire CLAIM-tmp6xhn3 (Proposed, A's)
-   says persists. In TERM-tmp6ersv's terms (Proposed, the owner's U22, A's
+1. **What is dispositional.** The repertoire [CLAIM-tmp6xhn3](CLAIM-tmp6xhn3.md) (Proposed, A's)
+   says persists. In [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s terms (Proposed, the owner's U22, A's
    wording) it is an ability across declared conditions, or a tendency to
    manifest. Vetter's split between "fragile" and "breakable" is the
-   record's source for the two (THEORY-670, Proposed; LIT-109 and NOTE-125,
+   record's source for the two ([THEORY-670](../theory.d/THEORY-670.md), Proposed; [LIT-109](../literature.d/LIT-109.md) and [NOTE-125](../notes.d/NOTE-125.md),
    Read).
 2. **It persists while unmanifested.** A47 §9: "a disposition provides a way
    of describing continuity through nonmanifestation". The record holds it.
    A perspective's enactment can stop while its dispositions remain
-   (CLAIM-421, Active). What persists through inactivity is the capacity to
-   reinstate (CLAIM-287, Active). Possessing a regime is not its being
-   effective (CLAIM-047, Active).
+   ([CLAIM-421](CLAIM-421.md), Active). What persists through inactivity is the capacity to
+   reinstate ([CLAIM-287](CLAIM-287.md), Active). Possessing a regime is not its being
+   effective ([CLAIM-047](CLAIM-047.md), Active).
 3. **A dimension of the existing terms.** The motivating perspective is
-   "motivating as a disposition" (TERM-104, Proposed, the owner's U28 of
+   "motivating as a disposition" ([TERM-104](../terms.d/TERM-104.md), Proposed, the owner's U28 of
    2026-11-04). The dispositional mode of an organizational achievement is
-   TERM-086's (Proposed, the owner's term). A disposition is read through a
-   governance-response profile (TERM-067, Active).
+   [TERM-086](../terms.d/TERM-086.md)'s (Proposed, the owner's term). A disposition is read through a
+   governance-response profile ([TERM-067](../terms.d/TERM-067.md), Active).
 4. **Character, not identity.** A52 §11 and A47 §7: an identical profile in
    a fork does not give one individual. Identity over time stays with
-   CLAIM-tmpcdshj (Proposed).
+   [CLAIM-tmpcdshj](CLAIM-tmpcdshj.md) (Proposed).
 
 What the integration adds is A52's "And now we can see how these are
 connected through dispositions": the claim that one modal notion, borne by
@@ -117,12 +117,12 @@ perspective, concept and will terms.
   so, this goes against A47 §9 ("not as a new ontological primitive") and
   against A50 §11: "This seems preferable to introducing *disposition* as
   one more object alongside all the others." The title takes A47's form.
-- **Correction (fidelity): the declared bearer.** TERM-019 (Active) retired
+- **Correction (fidelity): the declared bearer.** [TERM-019](../terms.d/TERM-019.md) (Active) retired
   "disposition" because it "had been carrying both the person-level and the
   institution-level reading". A47 §8 respected that, and A50 and A52 do
   not mention it. A50 §6 then gives a community a "disposition to reject
   unilateral governance changes". The title says "a declared bearer", as
-  TERM-tmp6ersv does.
+  [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md) does.
 - **Correction (fidelity): ability and tendency.** A47 §2 separates them
   ("A person may know how to perform a task and be disposed to avoid
   performing it"). A47 §9's "modal dimension of organizational capacity"
@@ -131,22 +131,22 @@ perspective, concept and will terms.
   that each disposition must be defined by one specified stimulus followed
   by one specified response". It then models dispositions as
   stimulus-conditioned kernels, the conditional conception Vetter argues
-  against (NOTE-125). A's profile is TERM-067's kind of characterization,
+  against ([NOTE-125](../notes.d/NOTE-125.md)). A's profile is [TERM-067](../terms.d/TERM-067.md)'s kind of characterization,
   and Vetter is its rival, not its support.
-- **Correction (fidelity): numerical identity.** A52 §16 says CLAIM-150
+- **Correction (fidelity): numerical identity.** A52 §16 says [CLAIM-150](CLAIM-150.md)
   "already establishes this caution" that indistinguishable organizations
-  need not be numerically identical. CLAIM-150 is about constitution.
-  Numerical identity is CLAIM-329 and CLAIM-287.
+  need not be numerically identical. [CLAIM-150](CLAIM-150.md) is about constitution.
+  Numerical identity is [CLAIM-329](CLAIM-329.md) and [CLAIM-287](CLAIM-287.md).
 - **Correction (attribution and coverage).** A52 §1's "The recent turn to
   dispositions" is the owner's U22, and the owner guessed right that the
-  word reframes an adopted term. A52 drops A47's TERM-019 warning, A50's
+  word reframes an adopted term. A52 drops A47's [TERM-019](../terms.d/TERM-019.md) warning, A50's
   mimicking case, the fork as a new channel for a suppressed disposition
-  (CLAIM-tmp7fzb9, Proposed), Swidler and habitus (LIT-1367, LIT-1377;
-  ARG-025's competitor), and A50 §3's caution that an intervention can
+  ([CLAIM-tmp7fzb9](CLAIM-tmp7fzb9.md), Proposed), Swidler and habitus ([LIT-1367](../literature.d/LIT-1367.md), [LIT-1377](../literature.d/LIT-1377.md);
+  [ARG-025](../arguments.d/ARG-025.md)'s competitor), and A50 §3's caution that an intervention can
   change the disposition it probes.
 - **Correction (standing).** A52 §1: "we have reached a more precise and
   more ambitious formulation". The terms it rests on are Proposed
-  (TERM-tmp6ersv, TERM-086, TERM-104, THEORY-670).
+  ([TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md), [TERM-086](../terms.d/TERM-086.md), [TERM-104](../terms.d/TERM-104.md), [THEORY-670](../theory.d/THEORY-670.md)).
 
 ## What it does not say
 
@@ -155,7 +155,7 @@ perspective, concept and will terms.
   not itself be a causal bearer of dispositions. The dispositions are
   realized in its interpreters and the organizations sustaining its use".
 - **That a profile measured on conflicts actually won reads the
-  disposition.** That is QUESTION-268 (Open).
+  disposition.** That is [QUESTION-268](../questions.d/QUESTION-268.md) (Open).
 
 ## Versions
 
@@ -168,5 +168,5 @@ which a distinguishable repertoire of possible activities and
 transformations is sustained.**" A50 §11: "**An individual is a historically
 continuous organization whose causal relationships realize, regulate, and
 transform a structured repertoire of dispositions.**" A52 §1 and §17 are
-the version filed. Its clauses on meaning and will restate CLAIM-tmpnjz70,
+the version filed. Its clauses on meaning and will restate [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md),
 which this claim reframes and does not replace.

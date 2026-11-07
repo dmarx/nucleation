@@ -49,12 +49,12 @@ summary: >-
   statement", the version filed. Much of it is the owner's. The owner
   proposed the software product as a model of an individual (U14), PyTorch
   and "a form of Structuralism" (U15), and the contested-succession study
-  (U16, CASE-tmpcr92d). A37 tells the structuralism as joint ("What sort
+  (U16, [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md)). A37 tells the structuralism as joint ("What sort
   of structuralism have we arrived at?") and drops the owner's study
   design. The integration is A's: the owner's synchronic structural realism
-  (CLAIM-136) is carried to persistence by CLAIM-329's transmission
-  criterion, applied to what CLAIM-tmp6xhn3 says persists. Corrections
-  are marked: "fission" becomes plural succession (CLAIM-328), the owner's
+  ([CLAIM-136](CLAIM-136.md)) is carried to persistence by [CLAIM-329](CLAIM-329.md)'s transmission
+  criterion, applied to what [CLAIM-tmp6xhn3](CLAIM-tmp6xhn3.md) says persists. Corrections
+  are marked: "fission" becomes plural succession ([CLAIM-328](CLAIM-328.md)), the owner's
   contributions are credited, and the held entries the exchange never
   cited are named. The integration's wording is A's, corrected by the
   filer; adopting it is the owner's call.
@@ -79,53 +79,53 @@ working proposal rather than a settled philosophical position."
 The architecture, in layers:
 
 1. **What is transmitted.** The organization that keeps a repertoire
-   realizable (CLAIM-tmp6xhn3, Proposed, A's), and not a state space fixed
+   realizable ([CLAIM-tmp6xhn3](CLAIM-tmp6xhn3.md), Proposed, A's), and not a state space fixed
    in advance. A34 §10: "The space of possibilities is itself constructed
-   and reconstructed." The record's form of that is CLAIM-576 (Proposed,
+   and reconstructed." The record's form of that is [CLAIM-576](CLAIM-576.md) (Proposed,
    A's), on a change of architecture altering which transformations are
    possible.
-2. **The criterion.** Transmission, not resemblance (CLAIM-329, Proposed,
+2. **The criterion.** Transmission, not resemblance ([CLAIM-329](CLAIM-329.md), Proposed,
    A's): "an organization of the same kind that arises independently is
    not its continuation". The fork fits it (A34 §4). Two repositories that
    are identical at the fork become two projects.
 3. **Structure may change.** A34 §3: "The maps \(f_i\) are not generally
-   isomorphisms." This is the step beyond CLAIM-329, whose case is member
+   isomorphisms." This is the step beyond [CLAIM-329](CLAIM-329.md), whose case is member
    replacement. It is the owner's U15: identity as "a maintained set of
-   commitments" is "a form of Structuralism". That carries QUESTION-393's
+   commitments" is "a form of Structuralism". That carries [QUESTION-393](../questions.d/QUESTION-393.md)'s
    transformations "of time" (Open, A's, from the owner's paste of
    2026-11-05) from kinds to
-   individuals. It also extends the owner's CLAIM-136 (Proposed), which
+   individuals. It also extends the owner's [CLAIM-136](CLAIM-136.md) (Proposed), which
    is synchronic and scoped to communicative acts.
 4. **Transmission may be external.** A32 §12: "A product can be a coherent
    historical individual even though almost all the processes sustaining
-   and transforming it lie outside its boundary." That is CLAIM-280 (Active)
+   and transforming it lie outside its boundary." That is [CLAIM-280](CLAIM-280.md) (Active)
    on the owner's U14. Whether PyTorch maintains itself depends on the
    boundary: "The boundary of the individual is not incidental to the
    self-maintenance claim. It determines what that claim means." (A34 §10;
-   CLAIM-152).
+   [CLAIM-152](CLAIM-152.md)).
 5. **Succession can be plural.** Different successors can continue
-   different respects (CLAIM-328, Active), and descent need not be an
-   equivalence relation (CLAIM-287, Active). The Senators are the record's
-   case (CASE-105). The owner's U16 study is the test (CASE-tmpcr92d,
+   different respects ([CLAIM-328](CLAIM-328.md), Active), and descent need not be an
+   equivalence relation ([CLAIM-287](CLAIM-287.md), Active). The Senators are the record's
+   case ([CASE-105](../cases.d/CASE-105.md)). The owner's U16 study is the test ([CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md),
    Proposed), and participants' verdicts can move the producers
-   (CLAIM-tmpjw473, Proposed, A's).
+   ([CLAIM-tmpjw473](CLAIM-tmpjw473.md), Proposed, A's).
 
 The three questions A37 ends on are already held: "Identity asks what makes
 this a distinguishable individual. Continuity asks what makes its successive
 realizations belong to one historical organization. Autonomy asks how much
 of the production and governance of that organization is realized through
-its own processes." They are TERM-088's senses and TERM-071's (Active),
+its own processes." They are [TERM-088](../terms.d/TERM-088.md)'s senses and [TERM-071](../terms.d/TERM-071.md)'s (Active),
 neither cited in the exchange.
 
 ## Corrections to A's version
 
 - **Correction (fidelity): plural succession, not fission.** A37 §12C,
   "Organizational identity can fission", and its "organizational
-  continuity may branch". CLAIM-328 holds "plural successor relations, not
-  branching identity". Whether identity itself branches is QUESTION-118
+  continuity may branch". [CLAIM-328](CLAIM-328.md) holds "plural successor relations, not
+  branching identity". Whether identity itself branches is [QUESTION-118](../questions.d/QUESTION-118.md)
   (Open). The title says different successors continue different respects.
 - **Correction (fidelity): the transmission is causal.** A37's "historically
-  connected" is weaker than its own next clause and than CLAIM-329. The
+  connected" is weaker than its own next clause and than [CLAIM-329](CLAIM-329.md). The
   title keeps "causal transmission".
 - **Correction (attribution).** A37 §9 asks "What sort of structuralism
   have we arrived at?". A45 §XI: "Our original structuralist insight". The
@@ -138,25 +138,25 @@ neither cited in the exchange.
   "died when its maintainer stopped attending to it", was revived by a
   new owner, and drew "it's not the same thing that it was" from the
   community, "measurably", with acquisition and decline as a variant.
-  The design is CASE-tmpcr92d's. The exchange never cites CLAIM-328,
-  CLAIM-287, QUESTION-118, QUESTION-393 or CLAIM-136. A36 §8 closes on
-  QUESTION-118's question without citing it.
-- **Correction (fidelity): target-relativity.** A37 §8 cites CLAIM-474 for
-  identity judgements being target-dependent. CLAIM-474 is about
-  achievements forming a partial order. Target-relativity is CLAIM-152 and
-  CLAIM-405.
-- **Correction (standing).** A cites CLAIM-329 "never as Proposed" (its
+  The design is [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md)'s. The exchange never cites [CLAIM-328](CLAIM-328.md),
+  [CLAIM-287](CLAIM-287.md), [QUESTION-118](../questions.d/QUESTION-118.md), [QUESTION-393](../questions.d/QUESTION-393.md) or [CLAIM-136](CLAIM-136.md). A36 §8 closes on
+  [QUESTION-118](../questions.d/QUESTION-118.md)'s question without citing it.
+- **Correction (fidelity): target-relativity.** A37 §8 cites [CLAIM-474](CLAIM-474.md) for
+  identity judgements being target-dependent. [CLAIM-474](CLAIM-474.md) is about
+  achievements forming a partial order. Target-relativity is [CLAIM-152](CLAIM-152.md) and
+  [CLAIM-405](CLAIM-405.md).
+- **Correction (standing).** A cites [CLAIM-329](CLAIM-329.md) "never as Proposed" (its
   note of 2026-11-07), and the succession instances are A's reports,
   unverified.
 
 ## What it does not say
 
 - **That relations constitute the individual.** A37 §9: "these commitments
-  do not yet prove strong ontic structural realism", per CLAIM-150. Layer 3
+  do not yet prove strong ontic structural realism", per [CLAIM-150](CLAIM-150.md). Layer 3
   says what individuates it over time, not what it is made of
-  (QUESTION-284).
+  ([QUESTION-284](../questions.d/QUESTION-284.md)).
 - **That identity judgements fix identity.** They are causes of what is
-  transmitted (CLAIM-tmpjw473), not the criterion (CASE-105).
+  transmitted ([CLAIM-tmpjw473](CLAIM-tmpjw473.md)), not the criterion ([CASE-105](../cases.d/CASE-105.md)).
 
 ## Versions
 
@@ -169,5 +169,5 @@ and §10 add constructed possibility and the boundary point. A36 §8 adds
 succession: "**The historical identity of an organized individual depends
 on the causal continuity of relationships that realize and reproduce its
 defining capacities.**" A37 is the version filed. A45 §XI and §XVI and A52
-§11 restate it inside the theses on meaning and will (CLAIM-tmpnjz70) and
-on disposition (CLAIM-tmp340im), which rest on it.
+§11 restate it inside the theses on meaning and will ([CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)) and
+on disposition ([CLAIM-tmp340im](CLAIM-tmp340im.md)), which rest on it.
