@@ -35,7 +35,7 @@ history:
 - version: 4
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - natural-sciences
@@ -43,7 +43,7 @@ date: '2026-11-05'
 source:
 - LIT-2216
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 summary: >-
   Goligher et al. (2020), [LIT-2216](../literature.d/LIT-2216.md), read in [NOTE-1704](../notes.d/NOTE-1704.md). A
   consensus-style review: the atrophy side rests on biopsy and ultrasound

@@ -50,7 +50,7 @@ history:
 - version: 8
   date: '2026-11-07'
   note: >-
-    Superseded by SYNTHESIS-tmprnoj1, the same synthesis moved into the SYNTHESIS
+    Superseded by SYNTHESIS-011, the same synthesis moved into the SYNTHESIS
     scheme at the synthesis review of 2026-11-07 (ADR-078), keeping its
     standing (ADR-077). Corrections are marked there; the content here is
     unchanged, and the claim is kept so that what cites it still resolves.
@@ -65,7 +65,7 @@ defeated_if: >-
   shown to be relabelling only: the two lines, so mapped, make no joint
   prediction that either makes alone (QUESTION-088's test of compression).
 superseded_by:
-- SYNTHESIS-tmprnoj1
+- SYNTHESIS-011
 tags:
 - agency
 - pragmatics

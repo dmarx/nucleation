@@ -30,7 +30,7 @@ history:
 - version: 3
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - society-and-governance
@@ -51,7 +51,7 @@ summary: >-
   it gives no threshold or rate for when an aided organization stops
   needing the aid.
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 - CLAIM-602
 ---
 

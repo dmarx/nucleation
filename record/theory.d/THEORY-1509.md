@@ -18,7 +18,7 @@ history:
 - version: 2
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - natural-sciences
@@ -28,7 +28,7 @@ date: '2026-11-06'
 source:
 - LIT-2198
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 summary: >-
   Grimshaw, Smyth & Stepanyants (2018), [LIT-2198](../literature.d/LIT-2198.md), read in full in
   [NOTE-1687](../notes.d/NOTE-1687.md), for the Benjamin–Ono equation with six kinds of weak loss,

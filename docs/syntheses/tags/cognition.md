@@ -6,8 +6,8 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-0 of 8 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 11 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-011](../../../record/syntheses.d/SYNTHESIS-011.md) | The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them | The owner's, U2 of the exchange of 2026-10-16: the pragmatic-transport model and the will-organization model are "both manifestations of the same underlying model". The mapping is the assistant's, A6, filed at the owner's request ("address the still open stuff"). At U8 the owner endorsed it as filed ("Yes, as filed"). It reads both lines into [CLAIM-297](../../../record/claims.d/CLAIM-297.md)'s operator model. The sharp edge: it says the lines share one model, not that either line's results transfer to the other unchanged. Each mapping is a hypothesis until a result on one line is shown to hold, through it, on the other. Moved into the SYNTHESIS scheme on 2026-11-07 ([ADR-078](../../../record/decisions.d/ADR-078.md)); the thesis is the owner's and the mapping the assistant's, as filed. | Proposed |

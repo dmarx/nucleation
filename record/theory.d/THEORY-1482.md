@@ -23,7 +23,7 @@ history:
 - version: 3
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - ecology
@@ -41,7 +41,7 @@ summary: >-
   The sharp edges: a single-sex model whose ceiling density dependence builds in
   that population tracks habitat, with no scenario ending the supply.
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Brown et al. (2019) as open -->
 

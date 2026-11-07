@@ -29,7 +29,7 @@ history:
 - version: 3
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - ecology
@@ -47,7 +47,7 @@ summary: >-
   soft-release result runs against the abstract of Resende et al. (2021),
   [LIT-2173](../literature.d/LIT-2173.md), unread.
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 ---
 <!-- inactive-ok-file: LIT-2173 — Unavailable; cited from the reading of Morris et al. (2021) as open -->
 

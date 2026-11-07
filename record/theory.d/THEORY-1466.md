@@ -37,7 +37,7 @@ history:
 - version: 3
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - social-science
@@ -55,7 +55,7 @@ summary: >-
   record's dependency claims concern is the case the authors leave
   untested.
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
 

@@ -36,7 +36,7 @@ history:
 - version: 3
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - natural-sciences
@@ -54,7 +54,7 @@ summary: >-
   which. It does not say that hatcheries cannot raise numbers, that local
   broodstock prevents the loss, or that the mechanism was measured.
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Araki et al. (2008) as open -->
 

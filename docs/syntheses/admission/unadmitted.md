@@ -6,7 +6,7 @@
 
 **Exhausted by its components** — passed no route, or lost the one it passed; its content is held by its components, and it is kept and not refuted. The route it once held, if any, is in its history.
 
-0 of 8 SYNTHESIS documents. Back to the [full index](../README.md).
+0 of 11 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

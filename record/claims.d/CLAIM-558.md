@@ -30,7 +30,7 @@ history:
 - version: 4
   date: '2026-11-07'
   note: >-
-    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 role: thesis
 warrant: interpretive
@@ -67,7 +67,7 @@ summary: >-
   capability an organization keeps for rare events is the filer's. The
   wording is the filer's; adopting it is the owner's call.
 corroborates:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 ---
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation

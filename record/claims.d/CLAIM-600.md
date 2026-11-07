@@ -66,7 +66,7 @@ history:
 - version: 4
   date: '2026-11-07'
   note: >-
-    Superseded by SYNTHESIS-tmpfupae, the same synthesis moved into the SYNTHESIS
+    Superseded by SYNTHESIS-010, the same synthesis moved into the SYNTHESIS
     scheme at the synthesis review of 2026-11-07 (ADR-078), keeping its
     standing (ADR-077). Corrections are marked there; the content here is
     unchanged, and the claim is kept so that what cites it still resolves.
@@ -89,7 +89,7 @@ defeated_if: >-
   length. Not defeated by a single case in which chance or a change of
   conditions decides the outcome.
 superseded_by:
-- SYNTHESIS-tmpfupae
+- SYNTHESIS-010
 tags:
 - complex-systems
 - ecology

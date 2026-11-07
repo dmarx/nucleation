@@ -1,5 +1,8 @@
 ---
+number: 9
 status: Proposed
+formerly:
+- SYNTHESIS-tmpfp6zi
 title: 'Records kept of each capacity a response needs bound a reserve''s readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities'' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities'' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not'
 version: 1
 role: thesis
@@ -62,14 +65,14 @@ summary: >-
   [CLAIM-587](../claims.d/CLAIM-587.md); its integrating work is joining it with [TERM-115](../terms.d/TERM-115.md), [CASE-210](../cases.d/CASE-210.md)'s
   list of evidence and [CLAIM-558](../claims.d/CLAIM-558.md) to answer the question's "identify or
   bound" half. Filed at the synthesis review of 2026-11-07, with
-  [SYNTHESIS-tmpfupae](SYNTHESIS-tmpfupae.md) one of the readiness line's first two syntheses. The integration's wording is the assistant's
+  [SYNTHESIS-010](SYNTHESIS-010.md) one of the readiness line's first two syntheses. The integration's wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; the inference from use counts this replaces -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that filed this entry -->
 
-# SYNTHESIS-tmpfp6zi: Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
+# SYNTHESIS-009: Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
 
 *Filed at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) as an opportunity: [QUESTION-395](../questions.d/QUESTION-395.md) had several in-force answers and no entry saying which records identify readiness and which bound it.*
 

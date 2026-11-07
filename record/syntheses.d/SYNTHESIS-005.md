@@ -13,7 +13,7 @@ history:
 - version: 2
   date: '2026-11-07'
   note: >-
-    CLAIM-336 moved into the SYNTHESIS scheme as SYNTHESIS-tmprnoj1 (ADR-077),
+    CLAIM-336 moved into the SYNTHESIS scheme as SYNTHESIS-011 (ADR-077),
     so its integrates, premises and defeated_if now name the synthesis.
     The body's citations of CLAIM-336 are left as they were. No other change.
 role: thesis
@@ -29,7 +29,7 @@ defeated_if: >-
   (A43 §10's design), leave the system's concepts and organizations
   unchanged over the horizon studied, so that the conditioning runs one
   way only. Also defeated as a thesis of its own if it only restates the
-  owner's SYNTHESIS-tmprnoj1 (meaning and will as one model) with CLAIM-402's
+  owner's SYNTHESIS-011 (meaning and will as one model) with CLAIM-402's
   categories confirmed through use, adding nothing about individuation.
   Not defeated by a concept that persists though it is false, which the
   claim allows.
@@ -44,7 +44,7 @@ line:
 - distributed-agency
 integrates:
 - SYNTHESIS-001
-- SYNTHESIS-tmprnoj1
+- SYNTHESIS-011
 - CLAIM-283
 - CLAIM-402
 - CLAIM-330
@@ -61,7 +61,7 @@ integrates:
 - TERM-064
 premises:
 - SYNTHESIS-001
-- SYNTHESIS-tmprnoj1
+- SYNTHESIS-011
 - CLAIM-283
 - CLAIM-402
 - CLAIM-330

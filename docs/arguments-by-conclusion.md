@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 73 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 72 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -111,8 +111,6 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
 - [CLAIM-286](../record/claims.d/CLAIM-286.md) — Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed *(Proposed, thesis)*
   - [ARG-036](../record/arguments.d/ARG-036.md) — The lab's restricted models, whose predictions could have failed, support the shared-organization thesis *(Proposed, evidence)*
     - [CLAIM-467](../record/claims.d/CLAIM-467.md) — Under full-information, independent audits, a learned allocation of influence among specialists is no better than a contextual router trained on the same audits, which is a mixture of experts whose experts earn responsibility by fitting better; whatever governance adds over routing has to be shown where evaluation fails, and the record has not yet found such a regime *(Active, thesis)*
-- [CLAIM-336](../record/claims.d/CLAIM-336.md) — The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them *(Proposed, thesis)*
-  - [ARG-065](../record/arguments.d/ARG-065.md) — That ordinary interpretation and response can hide a system's dispositions, their governance and their maintenance, and that interpretation and authority act on each other, favour one model of meaning and will only if that model predicts responses to combined interventions that separate models of matched complexity miss *(Proposed, abduction)*
 - [CLAIM-362](../record/claims.d/CLAIM-362.md) — Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential *(Proposed, thesis)*
   - [ARG-030](../record/arguments.d/ARG-030.md) — Low supervisory cost shows that an organization does not dominate its processes *(Proposed, evidence)*
     - [CLAIM-364](../record/claims.d/CLAIM-364.md) — Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history *(Proposed, counter)*
