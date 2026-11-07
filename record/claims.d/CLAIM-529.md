@@ -173,3 +173,7 @@ kinds, and only one kind avoids the circle.
 - **That a declared candidate can be chosen without bias.** [CLAIM-405](CLAIM-405.md)
   makes the verdict objective once the criterion is fixed, not the choice
   of criterion or candidate.
+
+## Note of 2026-11-07: what knockout can test, from the third synthesis review
+
+This claim counts knockout of interaction types among the first three criteria, which it says "test constitutive individuation". Knockout is an intervention. By CLAIM-528 and THEORY-1288, intervention data can show that an organization depends on an interaction type. It cannot show whether the organization consists in that interaction or is produced through it. So the claim holds as stated only if TERM-088's "helps fix" is read as neutral between consisting in and being produced through, and this note records that reading. If TERM-088's constitutive sense is meant to exclude causal production, knockout tests dependence, not constitution, and the claim's item should be narrowed. No status change.
