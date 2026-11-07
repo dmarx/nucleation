@@ -128,13 +128,13 @@ participant." Its proposed statement:
 
 So the harm that "cannot be recognized" in the owner's title is
 unrecognizable in the organization's operative representation and
-procedures, which is TERM-064's directed legibility: legible to whom. Some
+procedures, which is [TERM-064](../terms.d/TERM-064.md)'s directed legibility: legible to whom. Some
 participants "may correctly recognize the harm", and "The organization's
 pathology can persist because these perspectives are denied the
 conditions needed to become practically effective." The record holds the
-parts. CLAIM-403 separates a contribution's admission, recognition,
+parts. [CLAIM-403](CLAIM-403.md) separates a contribution's admission, recognition,
 credibility, uptake and part in revising the standards, each possible
-without the later ones; CLAIM-523 separates legibility from volitional
+without the later ones; [CLAIM-523](CLAIM-523.md) separates legibility from volitional
 efficacy and correctability. A: "This keeps us from mistaking organized
 exclusion of knowledge for universal ignorance", and it "creates a
 concrete empirical distinction between representational incapacity and

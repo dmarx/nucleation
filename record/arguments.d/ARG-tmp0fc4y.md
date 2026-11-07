@@ -18,12 +18,12 @@ summary: >-
   From A's (ChatGPT's) item 3 of its review of the pull request
   dmarx/nucleation#422, pasted by the owner on 2026-11-07 and accepted as
   written. The inference from the matched-harm construction of
-  CASE-tmppdl5x to CLAIM-tmptfuky's non-reducibility: the second-order
+  [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md) to [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s non-reducibility: the second-order
   wrong is not the first-order harm or its continuation under another
   description. Proposed. The case is coherent and separates the harm, the
   breach of a justified procedural duty and the reproduction of the
   breach, but only given the stipulated duty, so the conclusion it
-  supports is CLAIM-tmptfuky's conditional one. The wording is A's;
+  supports is [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s conditional one. The wording is A's;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmptfuky CASE-tmppdl5x — filed from the same exchange and its review, Proposed; the conclusion and the construction -->
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-1. CASE-tmppdl5x: Institutions A and B are bound by the same stipulated,
+1. [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md): Institutions A and B are bound by the same stipulated,
    justified and feasible duty to maintain independent review. Both cause
    the same harm and the affected person receives the same remedy; no
    further harm occurs in either over the period. A keeps its challenge
@@ -49,7 +49,7 @@ summary: >-
 4. So, given such a duty, there is a wrong of B's beyond its first-order
    harm and beyond that harm's continuation, and a further feature,
    reproduction, beyond the breach. That is the separation
-   CLAIM-tmptfuky's first defeater asks for, and the claim's layer 6: "a
+   [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s first defeater asks for, and the claim's layer 6: "a
    second-order wrong need not always be reducible to this loss
    difference". With the later harm stipulated equal, the loss difference
    between A and B is zero while the wrong is not.
@@ -60,12 +60,12 @@ summary: >-
   institution can owe a procedure and fail to keep it, an outside body can
   supply the remedy the procedure would have supplied, and governance can
   undo a reform once oversight ends, which is the record's documented
-  pattern in THEORY-140 and CASE-138 (reforms undone). The stipulation
+  pattern in [THEORY-140](../theory.d/THEORY-140.md) and [CASE-138](../cases.d/CASE-138.md) (reforms undone). The stipulation
   that no further harm occurs is what keeps the match exact; without it,
   B's missing procedure would raise the risk of later harm, and the
   difference could be read as a difference in expected loss after all.
 - **Does it separate the very things the conclusion says can come
-  apart?** Yes, for the conclusion as CLAIM-tmptfuky states it: a wrong
+  apart?** Yes, for the conclusion as [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) states it: a wrong
   that "is not reducible to the loss it causes" and is a verdict "only
   given an independently justified standard and a feasible alternative".
   The case holds the first-order harm and the expected loss fixed and
@@ -73,7 +73,7 @@ summary: >-
   reproduction. It does not separate the wrong from the duty: the breach
   is a wrong only because the duty is stipulated. A: "The construction
   cannot establish that every organization has such a duty." So the ARG
-  supports the conditional claim and nothing toward CLAIM-511's
+  supports the conditional claim and nothing toward [CLAIM-511](../claims.d/CLAIM-511.md)'s
   unconditional duty.
 - **What it leaves open.** That the extra wrong is a wrong of
   answerability, a deprivation of standing within a relationship of
@@ -89,7 +89,7 @@ non-reducibility needs, on its stipulated duty.
 ## What it does not show
 
 - That any real organization bears such a duty, or behaves like B
-  (QUESTION-129 for which standards justify one).
+  ([QUESTION-129](../questions.d/QUESTION-129.md) for which standards justify one).
 - That the reproduction is a wrong over and above the breach it sustains.
   The case shows it is a further feature; that it aggravates the wrong is
-  CLAIM-tmptfuky's grades (layer 8), not something the case decides.
+  [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s grades (layer 8), not something the case decides.

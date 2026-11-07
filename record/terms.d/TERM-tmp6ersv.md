@@ -112,7 +112,7 @@ that.
 - "**Finking or destruction: the triggering event changes the disposition
   itself.**" Its example: "a crisis abolishes the very review mechanism
   that would otherwise have been invoked." For the disposition to be
-  corrected, CLAIM-tmplgp4k (A62 §10 of the second share), a credible
+  corrected, [CLAIM-tmplgp4k](../claims.d/CLAIM-tmplgp4k.md) (A62 §10 of the second share), a credible
   challenge answered by reducing the capacity for future challenge, is one
   possible realization, not one its diagnostic establishes. A's review of
   the pull request dmarx/nucleation#422, item 2: "A credible challenge
@@ -127,7 +127,7 @@ that.
   the declared bearer remains intact". Which of the three a case is turns
   on the declared bearer and boundary, as below. The wording is A's;
   adopting it is the owner's call. Version 1 said "No entry names this
-  case"; the nearest held entry remains CLAIM-445.
+  case"; the nearest held entry remains [CLAIM-445](../claims.d/CLAIM-445.md).
 
 A47 §2 had already said "So a disposition is not simply a reliable observed
 input-output association." Masks and finks are discussed in [LIT-109](../literature.d/LIT-109.md) and

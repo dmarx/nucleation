@@ -176,20 +176,20 @@ layers above run three failures together, and they can come apart:
    reporting process was incapable of registering it."
 3. **Reproductive self-immunization.** A: "That apparent adequacy helps
    sustain the representation and governance relations responsible for
-   the failure." This is layer 2, CLAIM-445's form, now with its
+   the failure." This is layer 2, [CLAIM-445](CLAIM-445.md)'s form, now with its
    input named: what the regime is rewarded on is the absence that tier 2
    misreads.
 
-**The connection to CLAIM-342.** Tier 2 is the case CLAIM-342 names. What
+**The connection to [CLAIM-342](CLAIM-342.md).** Tier 2 is the case [CLAIM-342](CLAIM-342.md) names. What
 keeps a judgement–observation loop from confirming itself is "evidence
 whose arrival or scoring does not pass through the interpretation it
 tests", and the records of an occluding projection are scored by the very
 projection whose adequacy is in question. Their silence is therefore no
 evidence of adequacy, and an organization that reads it as evidence is the
-loop that "selects its own evidence". A60 drew the link itself: CLAIM-342
+loop that "selects its own evidence". A60 drew the link itself: [CLAIM-342](CLAIM-342.md)
 "explains why self-confirming judgment–observation loops need evidential
 constraints whose admission or scoring does not pass exclusively through
-the interpretation being tested". CLAIM-446 is held nearby.
+the interpretation being tested". [CLAIM-446](CLAIM-446.md) is held nearby.
 
 Each tier can hold without the next (the reader's qualification). An organization can occlude without
 certifying itself, if it does not read its records' silence as evidence;
@@ -258,13 +258,13 @@ separately. The intervention that separates internal from external
 maintenance of the blindness is on the production mechanism, not the state
 ([CLAIM-522](CLAIM-522.md)); A60 §11's "Change the reproductive feedback" is that.
 
-**The matched-harm construction** (A's review, item 3). CASE-tmppdl5x holds
+**The matched-harm construction** (A's review, item 3). [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md) holds
 the first-order harm and its remedy fixed between two institutions under a
 stipulated duty to maintain independent review, and varies whether the
 duty was kept and whether its breach is reproduced. A: "If the claim can
 survive a case in which the first-order harms are held constant, its
 proposed non-reducibility becomes much easier to evaluate." The argument
-from it to layer 6 is ARG-tmp0fc4y. It is a construction on a stipulated
+from it to layer 6 is [ARG-tmp0fc4y](../arguments.d/ARG-tmp0fc4y.md). It is a construction on a stipulated
 duty: "The construction cannot establish that every organization has such
 a duty." The wording is A's; adopting it is the owner's call.
 

@@ -16,7 +16,7 @@ summary: >-
   A's (ChatGPT's) item 3 of its review of the pull request
   dmarx/nucleation#422, pasted by the owner on 2026-11-07 and accepted as
   written: a matched-harm construction isolating the second-order wrong of
-  CLAIM-tmptfuky from the primary harm. Two institutions with the same
+  [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) from the primary harm. Two institutions with the same
   first-order outcome differ in whether they kept a challenge procedure
   that a stipulated, justified duty required; then B's governance
   reinstates the defect whenever oversight ends. It separates the
@@ -52,7 +52,7 @@ institutional duty to maintain independent review." Here it is a duty, on
 each institution, to maintain an independently accessible procedure by
 which those it affects can challenge its decisions. It is justified by
 stipulation, and keeping it is stipulated to be feasible for both, so
-CLAIM-tmptfuky's condition 5 is met by construction.
+[CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s condition 5 is met by construction.
 
 **What is held fixed.** The first-order harm, its remedy, and so the
 first-order outcome: "The first-order outcome is matched. The
@@ -84,21 +84,21 @@ episode of harm runs together. A lists them:
   breached once.
 
 So a wrong can be said of B beyond its first-order harm and beyond that
-harm's continuation, which is what CLAIM-tmptfuky's first defeater asks
+harm's continuation, which is what [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s first defeater asks
 for. A: "If the claim can survive a case in which the first-order harms
 are held constant, its proposed non-reducibility becomes much easier to
-evaluate." The argument from the case to the claim is ARG-tmp0fc4y.
+evaluate." The argument from the case to the claim is [ARG-tmp0fc4y](../arguments.d/ARG-tmp0fc4y.md).
 
 ## What it cannot show
 
 - **That every organization has such a duty.** A: "The construction
   cannot establish that every organization has such a duty." The case
   holds only where an independently justified procedural duty does, so it
-  leaves CLAIM-tmptfuky conditional and does not lead to CLAIM-511's
+  leaves [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) conditional and does not lead to [CLAIM-511](../claims.d/CLAIM-511.md)'s
   unconditional duty, which the record disclaims. Which standards justify
-  such a duty is QUESTION-129.
+  such a duty is [QUESTION-129](../questions.d/QUESTION-129.md).
 - **That the extra wrong is a wrong of answerability in A62 §7's
-  relational sense** (CLAIM-tmptfuky's layer 7, at home in CLAIM-545),
+  relational sense** ([CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s layer 7, at home in [CLAIM-545](../claims.d/CLAIM-545.md)),
   rather than a breach of contract. The case shows a wrong beyond the
   harm; what kind of wrong it is, it leaves to the claim.
 - **Anything about a real institution.** It is stipulated; no

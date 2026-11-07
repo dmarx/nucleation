@@ -106,8 +106,8 @@ The review names three routes to the same fall in effective challenges:
 the challenge "destroys the underlying corrective capacity", "the capacity
 remains but is masked by governance", or "access and incentives change
 while the disposition of the declared bearer remains intact". Only the
-first is a fink. The second is TERM-tmp6ersv's masking row, held in
-CLAIM-047, CLAIM-283 and CASE-127. In the third nothing happens to the
+first is a fink. The second is [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s masking row, held in
+[CLAIM-047](CLAIM-047.md), [CLAIM-283](CLAIM-283.md) and [CASE-127](../cases.d/CASE-127.md). In the third nothing happens to the
 declared bearer's disposition at all; the challenges stop reaching it.
 Which route a case takes turns on the declared bearer and boundary, and
 telling them apart needs evidence about the disposition's causal basis,
