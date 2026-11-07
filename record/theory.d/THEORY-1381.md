@@ -18,7 +18,7 @@ history:
     are disconnected when the sector angles do not sum to 2π".
 
     The last clause is the source's generalization from one example (§V B).
-    It holds only when no crease may pass ±π, and it moves to THEORY-tmp0i15x,
+    It holds only when no crease may pass ±π, and it moves to THEORY-1557,
     which extends this entry and keeps the old condition (kind 1). The title
     now also records the misprint in Eq. 4, which the old title had asserted
     as describing the configuration space (kind 3, dated note).
@@ -43,9 +43,9 @@ summary: >-
   independent construction. Active as a report of what the paper derives,
   with its three misprints corrected below. Degree 4 only. The wider claim,
   that the modes are disconnected whenever the sector angles do not sum to
-  2π, is held Proposed in [THEORY-tmp0i15x](THEORY-tmp0i15x.md), which extends this one.
+  2π, is held Proposed in [THEORY-1557](THEORY-1557.md), which extends this one.
 ---
-<!-- inactive-ok-file: THEORY-tmp0i15x — Proposed; the wider clause this narrowing set aside -->
+<!-- inactive-ok-file: THEORY-1557 — Proposed; the wider clause this narrowing set aside -->
 
 # THEORY-1381: Foschi, Hull and Ku give closed-form equations in the tangents of half the folding angles, one for opposite and one for adjacent folding angles, that describe the full configuration space of any degree-4 rigid origami vertex, Euclidean or non-Euclidean, as two folding modes, the two branches of a square root, which meet at the flat state of a developable vertex and cannot meet there when the sector angles do not sum to 2π; the arXiv copy prints the opposite-angle equation with two signs wrong
 
@@ -72,7 +72,7 @@ The arXiv v2 copy prints three relations wrongly. Its other results use the corr
 
 - Anything about vertices of degree other than 4.
 - Which parts of each curve avoid self-intersection; the paper draws those parts, it does not exclude them.
-- That the modes are disconnected for every non-Euclidean vertex. With passes through ±π allowed, the elliptic example is one connected loop; that wider claim is [THEORY-tmp0i15x](THEORY-tmp0i15x.md).
+- That the modes are disconnected for every non-Euclidean vertex. With passes through ±π allowed, the elliptic example is one connected loop; that wider claim is [THEORY-1557](THEORY-1557.md).
 
 ## Note of 2026-11-06: reader J, the misprints
 

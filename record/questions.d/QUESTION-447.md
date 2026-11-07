@@ -1,5 +1,8 @@
 ---
+number: 447
 status: 'Open'
+formerly:
+- QUESTION-tmpwo0r9
 title: 'Does an independent experiment or calculation on finite Miura-ori sheets find soft deformations decaying from the boundaries with the predicted wavenumber-dependent decay length, and a count of degrees of freedom that scales with the perimeter rather than the area?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   question.
 ---
 
-# QUESTION-tmpwo0r9: Does an independent experiment or calculation on finite Miura-ori sheets find soft deformations decaying from the boundaries with the predicted wavenumber-dependent decay length, and a count of degrees of freedom that scales with the perimeter rather than the area?
+# QUESTION-447: Does an independent experiment or calculation on finite Miura-ori sheets find soft deformations decaying from the boundaries with the predicted wavenumber-dependent decay length, and a count of degrees of freedom that scales with the perimeter rather than the area?
 
 ## Why it is a question
 

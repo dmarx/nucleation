@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**839 documents cited without acknowledgement.** Not listed: 17556 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**838 documents cited without acknowledgement.** Not listed: 17445 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-1122 citations in 816 files await a look; 44 other citations of it are acknowledged.
+1136 citations in 825 files await a look; 44 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-165.md:50`](../../record/cases.d/CASE-165.md)
 - [`record/cases.d/CASE-206.md:26`](../../record/cases.d/CASE-206.md)
@@ -243,6 +243,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/questions.d/QUESTION-337.md:16`](../../record/questions.d/QUESTION-337.md)
 - [`record/questions.d/QUESTION-348.md:16`](../../record/questions.d/QUESTION-348.md)
 - [`record/questions.d/QUESTION-404.md:20`](../../record/questions.d/QUESTION-404.md)
+- [`record/questions.d/QUESTION-443.md:15`](../../record/questions.d/QUESTION-443.md)
 - [`record/theory.d/THEORY-002.md:66`](../../record/theory.d/THEORY-002.md)
 - [`record/theory.d/THEORY-009.md:69`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-014.md:20`](../../record/theory.d/THEORY-014.md)
@@ -424,9 +425,18 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-127.md:257`](../../record/theory.d/THEORY-127.md)
 - [`record/theory.d/THEORY-1276.md:26`](../../record/theory.d/THEORY-1276.md)
 - [`record/theory.d/THEORY-1282.md:19`](../../record/theory.d/THEORY-1282.md)
+- [`record/theory.d/THEORY-1306.md:13`](../../record/theory.d/THEORY-1306.md)
+- [`record/theory.d/THEORY-1306.md:29`](../../record/theory.d/THEORY-1306.md)
 - [`record/theory.d/THEORY-133.md:13`](../../record/theory.d/THEORY-133.md)
+- [`record/theory.d/THEORY-1339.md:13`](../../record/theory.d/THEORY-1339.md)
+- [`record/theory.d/THEORY-1339.md:18`](../../record/theory.d/THEORY-1339.md)
+- [`record/theory.d/THEORY-1340.md:13`](../../record/theory.d/THEORY-1340.md)
+- [`record/theory.d/THEORY-1340.md:30`](../../record/theory.d/THEORY-1340.md)
 - [`record/theory.d/THEORY-135.md:113`](../../record/theory.d/THEORY-135.md)
+- [`record/theory.d/THEORY-1357.md:13`](../../record/theory.d/THEORY-1357.md)
+- [`record/theory.d/THEORY-1357.md:16`](../../record/theory.d/THEORY-1357.md)
 - [`record/theory.d/THEORY-137.md:130`](../../record/theory.d/THEORY-137.md)
+- [`record/theory.d/THEORY-1381.md:12`](../../record/theory.d/THEORY-1381.md)
 - [`record/theory.d/THEORY-1390.md:22`](../../record/theory.d/THEORY-1390.md)
 - [`record/theory.d/THEORY-1392.md:19`](../../record/theory.d/THEORY-1392.md)
 - [`record/theory.d/THEORY-1395.md:19`](../../record/theory.d/THEORY-1395.md)
@@ -524,6 +534,10 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-1553.md:28`](../../record/theory.d/THEORY-1553.md)
 - [`record/theory.d/THEORY-1554.md:18`](../../record/theory.d/THEORY-1554.md)
 - [`record/theory.d/THEORY-1556.md:21`](../../record/theory.d/THEORY-1556.md)
+- [`record/theory.d/THEORY-1557.md:18`](../../record/theory.d/THEORY-1557.md)
+- [`record/theory.d/THEORY-1557.md:33`](../../record/theory.d/THEORY-1557.md)
+- [`record/theory.d/THEORY-1558.md:24`](../../record/theory.d/THEORY-1558.md)
+- [`record/theory.d/THEORY-1559.md:23`](../../record/theory.d/THEORY-1559.md)
 - [`record/theory.d/THEORY-156.md:23`](../../record/theory.d/THEORY-156.md)
 - [`record/theory.d/THEORY-158.md:14`](../../record/theory.d/THEORY-158.md)
 - [`record/theory.d/THEORY-158.md:16`](../../record/theory.d/THEORY-158.md)
@@ -1476,7 +1490,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 - [`record/questions.d/QUESTION-118.md:206`](../../record/questions.d/QUESTION-118.md)
 - [`record/questions.d/QUESTION-281.md:230`](../../record/questions.d/QUESTION-281.md)
 - [`record/syntheses.d/SYNTHESIS-006.md:276`](../../record/syntheses.d/SYNTHESIS-006.md)
-- [`record/terms.d/TERM-070.md:75`](../../record/terms.d/TERM-070.md)
+- [`record/terms.d/TERM-070.md:74`](../../record/terms.d/TERM-070.md)
 
 ### [CLAIM-220](../../record/claims.d/CLAIM-220.md) — Proposed
 
@@ -1899,7 +1913,7 @@ An interaction can make available a way of relating that its participants' opera
 
 Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
-17 citations in 12 files await a look; 109 other citations of it are acknowledged.
+17 citations in 12 files await a look; 110 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-526.md:128`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1632.md:59`](../../record/literature.d/LIT-1632.md)
@@ -1994,7 +2008,7 @@ A regime of valence is felt, in the sense of attended and available to the syste
 
 Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 
-16 citations in 16 files await a look; 44 other citations of it are acknowledged.
+16 citations in 16 files await a look; 45 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-405.md:193`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-471.md:24`](../../record/claims.d/CLAIM-471.md)
@@ -5395,17 +5409,6 @@ van Rooyen — On Experiments
 - [`record/claims.d/CLAIM-503.md:118`](../../record/claims.d/CLAIM-503.md)
 - [`record/claims.d/CLAIM-503.md:127`](../../record/claims.d/CLAIM-503.md)
 
-### [NOTE-1606](../../record/notes.d/NOTE-1606.md) — Skimmed
-
-Foschi, Hull and Ku — Closed-form kinematics of degree-4 origami vertices
-
-4 citations in 2 files await a look; 7 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-2055.md:7`](../../record/literature.d/LIT-2055.md)
-- [`record/literature.d/LIT-2055.md:71`](../../record/literature.d/LIT-2055.md)
-- [`record/theory.d/THEORY-1381.md:20`](../../record/theory.d/THEORY-1381.md)
-- [`record/theory.d/THEORY-1381.md:32`](../../record/theory.d/THEORY-1381.md)
-
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
 The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
@@ -6470,16 +6473,6 @@ Sarkar, Mukherjee and Sato — Relational composition as parallel transport
 - [`record/literature.d/LIT-1803.md:7`](../../record/literature.d/LIT-1803.md)
 - [`record/literature.d/LIT-1803.md:79`](../../record/literature.d/LIT-1803.md)
 - [`record/theory.d/THEORY-1140.md:33`](../../record/theory.d/THEORY-1140.md)
-
-### [NOTE-1532](../../record/notes.d/NOTE-1532.md) — Skimmed
-
-Juarrero — Context Changes Everything
-
-3 citations in 3 files await a look; 15 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-191.md:175`](../../record/cases.d/CASE-191.md)
-- [`record/claims.d/CLAIM-533.md:200`](../../record/claims.d/CLAIM-533.md)
-- [`record/theory.d/THEORY-1314.md:92`](../../record/theory.d/THEORY-1314.md)
 
 ### [NOTE-198](../../record/notes.d/NOTE-198.md) — Superseded
 
@@ -8621,7 +8614,7 @@ Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner 
 
 A positively curved origami vertex: its popped-up and popped-down states lie in components that no rigid, non-self-intersecting motion joins, so no budget reaches one from the other, and only widening the admissible moves reconnects them
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-106.md:24`](../../record/terms.d/TERM-106.md)
 
@@ -9985,6 +9978,14 @@ On Kane's account, self-forming actions occur under motivational conflict, when 
 
 - [`record/literature.d/LIT-1984.md:40`](../../record/literature.d/LIT-1984.md)
 
+### [THEORY-1334](../../record/theory.d/THEORY-1334.md) — Proposed
+
+Persona shifts induced by prompting and by finetuning are mediated by the same linear trait directions, so finetuning on data that implies a trait moves the model along the trait's persona vector as a system prompt would; Chen et al. suspect personas are latent factors that persist across many tokens
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1524.md:30`](../../record/notes.d/NOTE-1524.md)
+
 ### [THEORY-135](../../record/theory.d/THEORY-135.md) — Proposed
 
 Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters
@@ -10542,12 +10543,13 @@ None. Every scanned file is checked. ✅
 
 - record/arguments.d/ARG-050.md:34: annotation no longer applies — nothing in scope cites CASE-163
 - record/cases.d/CASE-192.md:30: annotation no longer applies — nothing in scope cites CLAIM-286
+- record/claims.d/CLAIM-312.md:58: annotation no longer applies — nothing in scope cites LIT-2075, LIT-2098, LIT-2105
 - record/decisions.d/ADR-064.md:24: annotation no longer applies — nothing in scope cites ADR-064
 - record/decisions.d/ADR-070.md:22: annotation no longer applies — nothing in scope cites CLAIM-553
 - record/literature.d/LIT-1976.md:61: annotation no longer applies — nothing in scope cites LIT-1987, THEORY-1314
 - record/literature.d/LIT-2158.md:83: annotation no longer applies — nothing in scope cites THEORY-919
-- record/notes.d/NOTE-1505.md:34: annotation no longer applies — nothing in scope cites THEORY-1339
 - record/notes.d/NOTE-1514.md:32: annotation no longer applies — nothing in scope cites THEORY-1336
 - record/notes.d/NOTE-1517.md:31: annotation no longer applies — nothing in scope cites THEORY-1314
-- record/notes.d/NOTE-1524.md:32: annotation no longer applies — nothing in scope cites THEORY-614
+- record/notes.d/NOTE-1524.md:43: annotation no longer applies — nothing in scope cites THEORY-614
 - record/terms.d/TERM-090.md:48: annotation no longer applies — nothing in scope cites CLAIM-478
+- record/theory.d/THEORY-1335.md:23: annotation no longer applies — nothing in scope cites LIT-1990

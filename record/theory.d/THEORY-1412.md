@@ -14,7 +14,7 @@ history:
     reports what one study proposes and found, with its hedges, and
     NOTE-1567 v2 reads it in full, the figures checked by
     scratch/formal/guigues_figures_check.py. The promotion condition
-    asked for replication, and it moves unchanged to QUESTION-tmpfh08i.
+    asked for replication, and it moves unchanged to QUESTION-444.
     It read: 'An independent simulation, or the authors' released code
     rerun on their data, reproduces lower mean allocation cost for the
     Markov preparedness policy than for the nine comparators in most of
@@ -35,9 +35,9 @@ summary: >-
   programming, which was not compared, that it holds when ambulances are
   few relative to demand, where it lost, or that it gives the shortest
   response times, which it seldom did. Whether the result reproduces is
-  [QUESTION-tmpfh08i](../questions.d/QUESTION-tmpfh08i.md).
+  [QUESTION-444](../questions.d/QUESTION-444.md).
 bears_on:
-- QUESTION-tmpfh08i
+- QUESTION-444
 ---
 # THEORY-1412: Guigues, Kleywegt and Nascimento propose that a per-station steady-state Markov-chain preparedness metric, used inside a one-step integer program for ambulance selection and reassignment, gives a real-time EMS policy whose mean allocation cost is lower than nine published dispatch policies in most simulated Rio de Janeiro configurations
 

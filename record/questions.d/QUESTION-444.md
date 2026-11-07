@@ -1,5 +1,8 @@
 ---
+number: 444
 status: Open
+formerly:
+- QUESTION-tmpfh08i
 title: "Does an independent simulation, or a rerun of the released code on the authors' data, reproduce the Markov preparedness policy's lower mean allocation cost against nine published ambulance dispatch policies in most simulated Rio de Janeiro configurations?"
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   reports the comparison with its variability.
 ---
 
-# QUESTION-tmpfh08i: Does an independent simulation, or a rerun of the released code on the authors' data, reproduce the Markov preparedness policy's lower mean allocation cost against nine published ambulance dispatch policies in most simulated Rio de Janeiro configurations?
+# QUESTION-444: Does an independent simulation, or a rerun of the released code on the authors' data, reproduce the Markov preparedness policy's lower mean allocation cost against nine published ambulance dispatch policies in most simulated Rio de Janeiro configurations?
 
 ## Why it is a question
 

@@ -6,7 +6,7 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-118 of 1556 THEORY documents. Back to the [full index](../README.md).
+118 of 1559 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

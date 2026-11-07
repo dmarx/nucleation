@@ -1,5 +1,8 @@
 ---
+number: 446
 status: Open
+formerly:
+- QUESTION-tmpn1jcn
 title: 'Does an independent replication on the Omniglot one-shot task, or on a comparable held-out set of characters, confirm that a program-induction model of handwritten characters reaches human one-shot classification accuracy and produces exemplars and new characters that judges cannot tell from people''s, and that removing compositionality or its learned priors makes it worse?'
 version: 1
 history:
@@ -24,7 +27,7 @@ summary: >-
   holds no replication.
 ---
 
-# QUESTION-tmpn1jcn: Does an independent replication on the Omniglot one-shot task, or on a comparable held-out set of characters, confirm that a program-induction model of handwritten characters reaches human one-shot classification accuracy and produces exemplars and new characters that judges cannot tell from people's, and that removing compositionality or its learned priors makes it worse?
+# QUESTION-446: Does an independent replication on the Omniglot one-shot task, or on a comparable held-out set of characters, confirm that a program-induction model of handwritten characters reaches human one-shot classification accuracy and produces exemplars and new characters that judges cannot tell from people's, and that removing compositionality or its learned priors makes it worse?
 
 ## Why it is a question
 
