@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -39,6 +39,12 @@ history:
     no objection is filed, and nothing in the record meets the
     defeated_if; Szeidl and Szucs's endogenous ownership, the nearest,
     runs from resources through ownership to criteria, as the body says.
+- version: 6
+  date: '2026-11-07'
+  note: >-
+    At the synthesis review of 2026-11-07: the quotation of CLAIM-348 is
+    brought to CLAIM-348's version 4, which narrowed "cannot be justified by"
+    to "cannot be justified solely by" on 2026-10-29. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -188,8 +194,8 @@ The record holds each half without the split. [CLAIM-342](CLAIM-342.md) is the
 informational one: what keeps a loop from confirming itself is "evidence
 whose arrival or scoring does not pass through the interpretation it
 tests". [CLAIM-348](CLAIM-348.md) is the evaluative one: adequacy "is fixed by the
-evaluative target, and the target cannot be justified by the description
-that preserves it." Between them sits the reading of evidence, [CLAIM-340](CLAIM-340.md)'s
+evaluative target, and the target cannot be justified solely by the
+description that preserves it." Between them sits the reading of evidence, [CLAIM-340](CLAIM-340.md)'s
 κ′: how far the prevailing interpretation bends what the evidence is taken
 to show, the place A22 §4 put legibility. "**An evaluator can be formally
 independent yet epistemically dependent on categories, measurements, or
