@@ -6,17 +6,17 @@ tags:
 - record
 date: '2026-11-07'
 summary: >-
-  ADR-075 audits the syntheses a source brings, and ADR-076 gives them a
+  [ADR-075](ADR-075.md) audits the syntheses a source brings, and [ADR-076](ADR-076.md) gives them a
   scheme and a current-account view. Neither looks at what the record
   already holds. Some CLAIMs are syntheses filed before the scheme existed,
-  CLAIM-545 among them. Some integrations sit in the record as parts, such
+  [CLAIM-545](../claims.d/CLAIM-545.md) among them. Some integrations sit in the record as parts, such
   as `complements` clusters, questions with several answers and deep
   chains, that no entry states. This decision adds a periodic synthesis
   review, carried by the `synthesis-review` skill. Its first stage is
   mechanical: scratch/formal/synthesis_candidates.py ranks candidates in
   two arms, migration and opportunity, and decides nothing. A reviewer then
   shortlists a dozen at most, preferring in-force components and lines the
-  current-account view does not cover. Each is audited with ADR-075's five
+  current-account view does not cover. Each is audited with [ADR-075](ADR-075.md)'s five
   checks and admitted by one of its three routes or not at all. An
   admitted migration moves into the scheme, with its relations audited. An
   admitted opportunity is filed as a Proposed SYNTHESIS in the assistant's
@@ -31,14 +31,14 @@ summary: >-
 
 ## Context
 
-ADR-075 audits the syntheses a source brings to a filing. ADR-076 gives
+[ADR-075](ADR-075.md) audits the syntheses a source brings to a filing. [ADR-076](ADR-076.md) gives
 them a scheme, a closed admission route and a current-account view. Both
 act when something arrives. Neither looks at what the record already
 holds, and the record holds two kinds of unstated integration.
 
-- **Syntheses filed as claims.** CLAIM-545, which its filing's changelog
+- **Syntheses filed as claims.** [CLAIM-545](../claims.d/CLAIM-545.md), which its filing's changelog
   calls "A Proposed thesis from the synthesis the owner asked for",
-  predates the scheme. ADR-076 names it,
+  predates the scheme. [ADR-076](ADR-076.md) names it,
   and earlier filings' left syntheses, as a sweep to do once the scheme was
   accepted.
 - **Integrations held only as parts.** The record's `complements` relation
@@ -71,10 +71,10 @@ general procedure for finding both kinds, and for it to be applied.
 - **Stages 2 to 4 are judgement.**
   - **Shortlist** a dozen at most, preferring in-force components and
     uncovered lines.
-  - **Audit** each with ADR-075's five checks. Admit it by one of the three
+  - **Audit** each with [ADR-075](ADR-075.md)'s five checks. Admit it by one of the three
     routes, or not at all.
   - **Act.** An admitted migration moves into the scheme, with its
-    relations audited as ADR-076 did for the first five. An admitted
+    relations audited as [ADR-076](ADR-076.md) did for the first five. An admitted
     opportunity becomes a Proposed SYNTHESIS in the assistant's voice, its
     components keeping theirs. Nothing is filed for a candidate that is not
     admitted, and the reason is recorded.
@@ -82,18 +82,18 @@ general procedure for finding both kinds, and for it to be applied.
 - **Each review is one contribution**, with a curation entry. It records
   the ranking, the shortlist and verdicts, the relations repointed, and
   which lines the current-account view still lacks.
-- **The first review is this decision's demonstration (ADR-071).**
+- **The first review is this decision's demonstration ([ADR-071](ADR-071.md)).**
 
 ## Alternatives considered
 
-- **Review only at filing time.** That is ADR-075, and it never reaches
+- **Review only at filing time.** That is [ADR-075](ADR-075.md), and it never reaches
   what was filed before it, or integrations that build up across filings.
   No single source holds them.
 - **File every candidate the ranking finds.** The ranking is a list of
   places to look. Filing from it would flood the scheme with weakly
-  differentiated integrations, the salience-without-work failure ADR-075
+  differentiated integrations, the salience-without-work failure [ADR-075](ADR-075.md)
   guards against.
-- **Leave the sweep ad hoc.** ADR-076 named it as a follow-up and gave it
+- **Leave the sweep ad hoc.** [ADR-076](ADR-076.md) named it as a follow-up and gave it
   no procedure. A procedure keeps reviews comparable and makes their
   misses visible.
 
