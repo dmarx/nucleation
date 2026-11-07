@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpj2lnj
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-07'
@@ -17,6 +17,12 @@ history:
     into the scheme as SYNTHESIS-tmpsw5k6, so its integrates, premises, defeated_if and summary now name the
     synthesis. The body's citations of CLAIM-545 are left as they were.
     No other change.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-tmp6m3wy (ADR-tmpdne5p),
+    so its integrates, premises and defeated_if now name the synthesis. The
+    body's citations of CLAIM-474 are left as they were. No other change.
 role: supposed
 admission: admitted
 route: hypothesis
@@ -27,7 +33,7 @@ defeated_if: >-
   belongs to a unit whose boundary crosses that individual's under every
   criterion that picks the individual out, as CLAIM-405 allows, so that
   agency is not a further organization of the individual. Also defeated
-  as a thesis of its own if it only restates CLAIM-474's order,
+  as a thesis of its own if it only restates SYNTHESIS-tmp6m3wy's order,
   CLAIM-329, CLAIM-027 and SYNTHESIS-tmpsw5k6, adding nothing about which bearer
   holds the levels.
 tags:
@@ -39,7 +45,7 @@ line:
 - distributed-agency
 - will-organization
 integrates:
-- CLAIM-474
+- SYNTHESIS-tmp6m3wy
 - CLAIM-405
 - CLAIM-329
 - CLAIM-027
@@ -50,7 +56,7 @@ integrates:
 - TERM-088
 - TERM-071
 premises:
-- CLAIM-474
+- SYNTHESIS-tmp6m3wy
 - CLAIM-405
 - CLAIM-329
 - CLAIM-027

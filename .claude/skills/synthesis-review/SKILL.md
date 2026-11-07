@@ -76,10 +76,14 @@ For each, read the candidate and every component in full. Then:
 
 - **Arm A, admitted.** File a SYNTHESIS carrying the claim's title, body
   and defeater, with `admission: admitted`, its route, its role, every
-  component in `integrates` and its premises in `premises`. Set the CLAIM
-  to Superseded by it. Then audit the relations pointing at the CLAIM:
+  component in `integrates` and its premises in `premises`. Carry its
+  `grounds`, `uses` and `corroborated_by` unchanged, and keep its standing
+  (ADR-tmpdne5p): an Active claim becomes Current, a Proposed one stays
+  Proposed, and a Deferred or Rejected one is not moved. Set the CLAIM to
+  Superseded by it. Then audit the relations pointing at the CLAIM:
   - repoint those that describe the current account (an ARG's `concludes`,
-    a CASE's `illustrates`);
+    a CASE's `illustrates`, a reading's `corroborates`, a synthesis's
+    `integrates` and `premises`);
   - leave those that record history;
   - leave `complements` until dmarx/luria#358 is fixed.
 - **Arm A, not admitted.** It stays a CLAIM. Record the verdict.
@@ -89,7 +93,8 @@ For each, read the candidate and every component in full. Then:
   Its components keep their own voices, named in the body.
 - **Arm B, not admitted.** File nothing. Record the candidate and the
   reason.
-- **Never set a status to Current.** Adoption is the owner's.
+- **Never set a new synthesis Current.** Adoption is the owner's; only a
+  move carries Current, from a claim that was Active.
 
 File the ARGs that step 10 of `read-and-file` requires: support that is
 load-bearing or contested.

@@ -1,10 +1,10 @@
 ---
 number: 474
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmpgubhp
 title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -52,6 +52,14 @@ history:
     count is changed. THEORY-1351, which already corroborated it, is
     added as corroborated_by, the converse the entry lacked. Title,
     warrant and defeated_if are unchanged.
+- version: 5
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmp6m3wy, the same synthesis moved into the SYNTHESIS
+    scheme with its standing kept (ADR-tmpdne5p); admitted by hypothesis
+    at the synthesis review of 2026-11-07. Its defeater's exemption for
+    special classes is bounded there. The content here is unchanged, and
+    the claim is kept so that what cites it still resolves.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,6 +73,8 @@ defeated_if: >-
   steps coincide, such as dissipative Laplacian flows in which
   compatibility and attraction go together (CLAIM-481); the claim is
   that no step implies the next in general.
+superseded_by:
+- SYNTHESIS-tmp6m3wy
 tags:
 - complex-systems
 - individuation
