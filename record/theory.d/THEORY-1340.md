@@ -26,7 +26,7 @@ history:
     2012 and Mante, Sussillo et al. 2013 as governing constraints and as
     neural correlates of prior and proximate intentions. The wide form, which
     the book asserts ("controls", p. 223; "proves", p. 229), is kept as
-    THEORY-tmpunb0u, Proposed, which extends this entry and inherits its
+    THEORY-1559, Proposed, which extends this entry and inherits its
     promote_when (ADR-047, kind 1). The promote_when deleted here read: An
     intervention on the population-level pattern itself: a perturbation of
     prefrontal or premotor activity along the task-defined subspace (the axis
@@ -54,9 +54,9 @@ summary: >-
   in full and checked. The step from prediction to top-down control is
   hers, and the evidence reported is dimensionality reduction, prediction
   and a network simulation, with no intervention on the pattern; that
-  thesis is kept, Proposed, in THEORY-tmpunb0u, which extends this one.
+  thesis is kept, Proposed, in THEORY-1559, which extends this one.
 ---
-<!-- inactive-ok-file: THEORY-1314 THEORY-tmpunb0u — Proposed or new; the entry it bears on and the wide form that extends it, cited as open -->
+<!-- inactive-ok-file: THEORY-1314 THEORY-1559 — Proposed or new; the entry it bears on and the wide form that extends it, cited as open -->
 
 # THEORY-1340: Juarrero reads the delayed-response studies of Churchland, Shenoy and colleagues and of Mante, Sussillo and colleagues, as she reports them, as showing that training forms a task-defined, low-dimensional subregion of motor, premotor and prefrontal population activity (a preparatory subspace whose end state predicts reaction time and movement; an axis of choice organized as a line attractor) that acts as top-down governing constraints on a monkey's delayed response while the trial's cue and evidence select within it, and suggests that the axis of choice might be considered the neural correlate of a prior intention and the selection vector, found in a simulation, that of a proximate intention
 
