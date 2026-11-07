@@ -21,7 +21,7 @@ summary: >-
   choosing the derived side pair by pair on a different principle; a
   partial switch.
 ---
-<!-- inactive-ok-file: ADR-076 ADR-tmpdne5p — Proposed or new; the scheme and the decision whose converse widening prompted this -->
+<!-- inactive-ok-file: ADR-076 ADR-077 — Proposed or new; the scheme and the decision whose converse widening prompted this -->
 
 # ADR-tmp53l4u: Each directed relation is stored on one side only, the side a filer writes, and its converse is derived when the record is read; the sweep that removes the stored converses is this decision's demonstration
 
@@ -45,7 +45,7 @@ That cost showed in three ways.
   `corroborates` lacked the claim. Four more named codes that no longer exist
   (LIT-862, LIT-863, LIT-1542 and LIT-1171 carried old-style codes for
   LIT-860, LIT-002 and LIT-048).
-- **A new scheme widened every target.** ADR-tmpdne5p gave SYNTHESIS
+- **A new scheme widened every target.** ADR-077 gave SYNTHESIS
   `grounds`, `uses` and `corroborated_by`, and had to widen six stored
   converses on five other schemes to accept it.
 
@@ -74,7 +74,7 @@ The owner asked for the switch on 2026-11-07.
   `link --fix` still writes both ends.
 - **A derived field is still declared,** so the converse names every scheme
   that may hold the relation. A new scheme still widens those declarations,
-  as ADR-tmpdne5p did; what changes is that nothing is stored there.
+  as ADR-077 did; what changes is that nothing is stored there.
 - **The sweep is the demonstration (ADR-071).** This pull request changes
   only the config and fixes the four broken codes. CI's `luria repair` then
   drops the stored converses that the primary side already holds, and

@@ -55,8 +55,8 @@ history:
 - version: 5
   date: '2026-11-07'
   note: >-
-    Superseded by SYNTHESIS-tmp6m3wy, the same synthesis moved into the SYNTHESIS
-    scheme with its standing kept (ADR-tmpdne5p); admitted by hypothesis
+    Superseded by SYNTHESIS-006, the same synthesis moved into the SYNTHESIS
+    scheme with its standing kept (ADR-077); admitted by hypothesis
     at the synthesis review of 2026-11-07. Its defeater's exemption for
     special classes is bounded there. The content here is unchanged, and
     the claim is kept so that what cites it still resolves.
@@ -74,7 +74,7 @@ defeated_if: >-
   compatibility and attraction go together (CLAIM-481); the claim is
   that no step implies the next in general.
 superseded_by:
-- SYNTHESIS-tmp6m3wy
+- SYNTHESIS-006
 tags:
 - complex-systems
 - individuation

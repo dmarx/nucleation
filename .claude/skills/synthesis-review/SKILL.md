@@ -1,9 +1,9 @@
 ---
 name: synthesis-review
-description: A periodic review of the record for synthesis opportunities - CLAIMs that are syntheses filed as claims and should move into the SYNTHESIS scheme, and integrations whose parts the record holds but no entry states. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-tmpw6bwa holds the invariants; ADR-075 the audit and admission test it applies; ADR-076 the scheme it files into.
+description: A periodic review of the record for synthesis opportunities - CLAIMs that are syntheses filed as claims and should move into the SYNTHESIS scheme, and integrations whose parts the record holds but no entry states. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-078 holds the invariants; ADR-075 the audit and admission test it applies; ADR-076 the scheme it files into.
 ---
 <!-- .claude/skills/synthesis-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-tmpw6bwa ADR-075 ADR-076 — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-078 ADR-075 ADR-076 — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Synthesis review
 
@@ -79,7 +79,7 @@ For each, read the candidate and every component in full. Then:
   component in `integrates` and its premises in `premises`. Carry its
   `grounds` and `uses` unchanged (a reading's `corroborates` comes with it,
   being stored on the reading), and keep its standing
-  (ADR-tmpdne5p): an Active claim becomes Current, a Proposed one stays
+  (ADR-077): an Active claim becomes Current, a Proposed one stays
   Proposed, and a Deferred or Rejected one is not moved. Set the CLAIM to
   Superseded by it. Then audit the relations pointing at the CLAIM:
   - repoint those that describe the current account (an ARG's `concludes`,

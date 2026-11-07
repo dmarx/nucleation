@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [7 Nov 07:03 — Synthesis review of 2026-11-07: twelve candidates audited, two admitted and filed (CLAIM-545 moved into the scheme, and a met-or-quiet criterion answering part of QUESTION-131), one admitted with its move left to the owner, nine not admitted](2026-11.md#synthesis-review-of-2026-11-07-twelve-candidates-audited-two-admitted-and-filed-claim-545-moved-into-the-scheme-and-a-met-or-quiet-criterion-answering-part-of-question-131-one-admitted-with-its-move-left-to-the-owner-nine-not-admitted)
 - [7 Nov 01:51 — The exchange "Individuation, Possibility, and Disposition" filed: most of it already held; the owner's synchronization laboratory, Arnold-tongue conjecture, succession study, "anti-vax" case and question, and the disposition term; sixteen of A's claims, questions and cases; eight ARGs; eighty-one dated notes; and the cited works with verifiable identifiers registered unread](2026-11.md#the-exchange-individuation-possibility-and-disposition-filed-most-of-it-already-held-the-owners-synchronization-laboratory-arnold-tongue-conjecture-succession-study-anti-vax-case-and-question-and-the-disposition-term-sixteen-of-as-claims-questions-and-cases-eight-args-eighty-one-dated-notes-and-the-cited-works-with-verifiable-identifiers-registered-unread)
 - [6 Nov 00:33 — Works filed Unavailable that ADR-053 files as Unfetched, swept; Suding et al. 2004 read from a copy ADR-064 admits](2026-11.md#works-filed-unavailable-that-adr-053-files-as-unfetched-swept-suding-et-al-2004-read-from-a-copy-adr-064-admits)
 - [6 Nov 00:25 — Solitons, for the record's questions on individuation and persistence: three routes to persistence and a correction to the signatures of self-maintenance](2026-11.md#solitons-for-the-records-questions-on-individuation-and-persistence-three-routes-to-persistence-and-a-correction-to-the-signatures-of-self-maintenance)
@@ -35,10 +36,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-223 entries across 3 books, newest first.
+224 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 26 | 2026-11-01 | 2026-11-07 |
+| [2026-11](2026-11.md) | 27 | 2026-11-01 | 2026-11-07 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

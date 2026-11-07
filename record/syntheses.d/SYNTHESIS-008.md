@@ -1,5 +1,8 @@
 ---
+number: 8
 status: Proposed
+formerly:
+- SYNTHESIS-tmpxwffr
 title: 'Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all'
 version: 1
 role: thesis
@@ -55,16 +58,16 @@ summary: >-
   checked exhaustively on small instances. It is a necessary condition of
   thwarting, not an identification of thwarting, which still needs the
   causal evidence [CLAIM-357](../claims.d/CLAIM-357.md) and [QUESTION-131](../questions.d/QUESTION-131.md) ask for. Filed at the
-  synthesis review of 2026-11-07 ([ADR-tmpw6bwa](../decisions.d/ADR-tmpw6bwa.md)). The integration's wording
+  synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)). The integration's wording
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-tmpw6bwa — Proposed; the audit applied and the review that filed this entry -->
+<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that filed this entry -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed, the owner's; used only for the scalar corollary -->
 
-# SYNTHESIS-tmpxwffr: Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
+# SYNTHESIS-008: Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
 
-*Filed at the synthesis review of 2026-11-07 ([ADR-tmpw6bwa](../decisions.d/ADR-tmpw6bwa.md)) as an opportunity: [QUESTION-131](../questions.d/QUESTION-131.md) had several in-force answers and no entry stating what they add up to.*
+*Filed at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) as an opportunity: [QUESTION-131](../questions.d/QUESTION-131.md) had several in-force answers and no entry stating what they add up to.*
 
 ## The integration
 

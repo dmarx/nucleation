@@ -1,5 +1,8 @@
 ---
+number: 628
 status: Proposed
+formerly:
+- CLAIM-tmpkvgmj
 title: 'In tolerance-bounded compatibility on a graph with disturbed offsets, one configuration serves every disturbance in a class the agent cannot tell apart exactly when, on each overlap, the class''s half-range of disturbance is within tolerance, and the cycle condition for compatibility holds for the class''s midpoint offsets with each tolerance reduced by that half-range; whether a compatible configuration exists depends on a disturbance only through its cohomology class, but whether one can be selected depends on its edgewise spread, so an agent that reads the cohomology class exactly need not be able to select one'
 version: 1
 role: thesis
@@ -38,7 +41,7 @@ summary: >-
   call.
 ---
 
-# CLAIM-tmpkvgmj: In tolerance-bounded compatibility on a graph with disturbed offsets, one configuration serves every disturbance in a class the agent cannot tell apart exactly when, on each overlap, the class's half-range of disturbance is within tolerance, and the cycle condition for compatibility holds for the class's midpoint offsets with each tolerance reduced by that half-range; whether a compatible configuration exists depends on a disturbance only through its cohomology class, but whether one can be selected depends on its edgewise spread, so an agent that reads the cohomology class exactly need not be able to select one
+# CLAIM-628: In tolerance-bounded compatibility on a graph with disturbed offsets, one configuration serves every disturbance in a class the agent cannot tell apart exactly when, on each overlap, the class's half-range of disturbance is within tolerance, and the cycle condition for compatibility holds for the class's midpoint offsets with each tolerance reduced by that half-range; whether a compatible configuration exists depends on a disturbance only through its cohomology class, but whether one can be selected depends on its edgewise spread, so an agent that reads the cohomology class exactly need not be able to select one
 
 ## The claim
 

@@ -18,8 +18,8 @@ history:
 - version: 3
   date: '2026-11-07'
   note: >-
-    Superseded by SYNTHESIS-tmpsw5k6, the same synthesis moved into the
-    SYNTHESIS scheme at the synthesis review of 2026-11-07 (ADR-tmpw6bwa),
+    Superseded by SYNTHESIS-007, the same synthesis moved into the
+    SYNTHESIS scheme at the synthesis review of 2026-11-07 (ADR-078),
     admitted as an independent hypothesis. Four corrections are marked
     there; the content here is unchanged, and the claim is kept so that
     what cites it still resolves.
@@ -34,7 +34,7 @@ defeated_if: >-
   freedom on a ground this profile cannot register. Not defeated by a
   free agent whose governance is unwise, which the claim allows.
 superseded_by:
-- SYNTHESIS-tmpsw5k6
+- SYNTHESIS-007
 tags:
 - free-will
 - self-governance

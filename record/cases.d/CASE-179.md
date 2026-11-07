@@ -18,7 +18,7 @@ history:
 - version: 3
   date: '2026-11-07'
   note: >-
-    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-tmp6m3wy (ADR-tmpdne5p),
+    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-006 (ADR-077),
     so `illustrates` names the synthesis. No other change.
 standing: stipulated
 kind: proposed-study
@@ -27,7 +27,7 @@ tags:
 - mathematics
 date: '2026-10-27'
 illustrates:
-- SYNTHESIS-tmp6m3wy
+- SYNTHESIS-006
 - CLAIM-471
 line: distributed-agency
 summary: >-

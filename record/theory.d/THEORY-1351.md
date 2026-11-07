@@ -16,7 +16,7 @@ history:
 - version: 2
   date: '2026-11-07'
   note: >-
-    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-tmp6m3wy (ADR-tmpdne5p),
+    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-006 (ADR-077),
     so `corroborates` names the synthesis. No other change.
 tags:
 - philosophy-of-biology
@@ -26,7 +26,7 @@ date: '2026-11-04'
 source:
 - LIT-2003
 corroborates:
-- SYNTHESIS-tmp6m3wy
+- SYNTHESIS-006
 summary: >-
   West et al. (2015), [LIT-2003](../literature.d/LIT-2003.md), read in [NOTE-1538](../notes.d/NOTE-1538.md). A colloquium
   review: the definition and the two steps are the authors' framework, and

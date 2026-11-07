@@ -6,7 +6,7 @@
 
 **Explanatory integration** — a dependency, mechanism or discriminating prediction the components leave open.
 
-0 of 5 SYNTHESIS documents. Back to the [full index](../README.md).
+0 of 8 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
