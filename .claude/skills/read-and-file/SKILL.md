@@ -4,6 +4,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 ---
 <!-- .claude/skills/read-and-file/SKILL.md -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
 
 # Reading and filing
 
@@ -190,6 +191,51 @@ not a finding.
 - **A QUESTION** needs a `line:`.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
+
+## 9b. Audit the syntheses (ADR-075)
+
+A synthesis is any turn, section or pasted text that states an overall
+account: an executive summary of the record, "the positive account I
+would propose", a recap or "refreshed synthesis", "what is genuinely
+new". The idea ledger maps its items to their source turns. That finds
+new content but leaves the integration with no address, so audit the
+synthesis as well.
+
+- **Find and group.** List every synthesis by turn and section. A later
+  synthesis that revises an earlier one is a new version of the same
+  thesis. A thesis is distinct when it integrates a different set of
+  components or makes a different integrating claim.
+- **Classify** each distinct thesis:
+  - *descriptive*: it says what the record holds. Audit it, don't file
+    it;
+  - *supposed*: conditional on hypotheses holding. File it with role
+    `supposed`;
+  - *proposed*: it puts an account forward. File it with role `thesis`.
+- **Decompose.** Map each component to a code, with its status and voice.
+- **Audit each version** for:
+  - **attribution**: an owner contribution told as joint, as A's, or as
+    the argument's own logic, and A's sentence told as the owner's;
+  - **coverage**: what the source contributed that the synthesis drops,
+    the owner's contributions first;
+  - **fidelity**: components misstated against their codes;
+  - **standing**: Proposed or unverified components told as established;
+  - **integration**: what it claims beyond its components. If that is
+    only labels, it is a recap; say so.
+- **File the latest version of each distinct thesis** as one CLAIM,
+  Proposed:
+  - the title states the integrating claim;
+  - the body gives the layers, each with its codes, voice and status,
+    and the audit's corrections marked as corrections;
+  - `rests_on` holds the components that are premises; components that
+    only illustrate are named in the body;
+  - `defeated_if` targets the integration, including the objection that
+    it only restates its components;
+  - earlier versions are listed in the body.
+- **Revise, don't duplicate.** Where a synthesis CLAIM for the account
+  is held, revise it as a new version.
+- **Account for it.** The curation entry gets a section, "Syntheses
+  audited": each synthesis, its classification, what was filed or why
+  not, and the findings by check.
 
 ## 10. Account for everything
 
