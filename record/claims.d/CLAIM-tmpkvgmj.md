@@ -25,11 +25,11 @@ rests_on:
 summary: >-
   A by-product of the synthesis review of 2026-11-07, where the reader
   of the formal-apparatus cluster found that the cluster did not
-  integrate and that one inference from it is new. CLAIM-537's condition
+  integrate and that one inference from it is new. [CLAIM-537](CLAIM-537.md)'s condition
   III says an agent can select a configuration from what it observes
   exactly when the static condition holds within each class of
   disturbances it cannot tell apart; this claim says what that condition
-  is for a given class, using CLAIM-538's cycle condition, and draws the
+  is for a given class, using [CLAIM-538](CLAIM-538.md)'s cycle condition, and draws the
   consequence for an agent that reads the disturbance's cohomology class.
   The coboundary observation is the reader's; the criterion for a class
   is the filer's, checked by linear programming on 1,480 random graphs
@@ -42,7 +42,7 @@ summary: >-
 
 ## The claim
 
-Take CLAIM-537's model: overlaps e of a graph with nominal offsets a₀,
+Take [CLAIM-537](CLAIM-537.md)'s model: overlaps e of a graph with nominal offsets a₀,
 tolerances δ, disturbances w, and the requirement |Dx − a₀ − w| ≤ δ. An agent
 that observes o = h(w) must choose one x for the whole class C = h⁻¹(o).
 
@@ -53,20 +53,20 @@ centred at a₀_e + m_e with half-width δ_e − r_e. So the class is selectable
 exactly when
 
 - r_e ≤ δ_e on every overlap, and
-- CLAIM-538's cycle condition holds for offsets a₀ + m and tolerances
+- [CLAIM-538](CLAIM-538.md)'s cycle condition holds for offsets a₀ + m and tolerances
   δ − r: on every cycle c, |cᵀ(a₀ + m)| ≤ Σ (δ_e − r_e)|c_e|.
 
-This is CLAIM-537's condition II with the class's spread in place of the
+This is [CLAIM-537](CLAIM-537.md)'s condition II with the class's spread in place of the
 disturbance bound η, and its midpoint in place of the nominal offset.
 
-**Existence against selection.** By CLAIM-538, whether a world w has a
+**Existence against selection.** By [CLAIM-538](CLAIM-538.md), whether a world w has a
 compatible configuration depends on a₀ + w only through its class in
 H¹(G; ℝ), its holonomies. Selection depends on the edgewise spread of the
 class, which the H¹ class does not fix. So an agent whose observation is
 exactly the cohomology class of the disturbance, h(w) = [w], can be unable to
 select a compatible configuration in a class where every world has one.
 
-**The triangle.** CLAIM-537's own example shows it: a₀ = 0, δ_e = 0.3, and
+**The triangle.** [CLAIM-537](CLAIM-537.md)'s own example shows it: a₀ = 0, δ_e = 0.3, and
 the worlds w = (0.6, −0.6, 0) and (−0.6, 0.6, 0). Both are coboundaries, of
 holonomy 0, so they lie in one H¹ class and each has an exact solution. Edge
 12 would need x₂ − x₁ in both [0.3, 0.9] and [−0.9, −0.3]: the half-range
@@ -82,10 +82,10 @@ and 335 instances were selectable. It then reproduces the triangle.
 ## What it does not say
 
 - **That reading the cohomology class is useless.** It fixes whether
-  compatibility is possible world by world, which is CLAIM-537's condition I.
+  compatibility is possible world by world, which is [CLAIM-537](CLAIM-537.md)'s condition I.
   It does not fix what the agent can do about it.
 - **Which observation is the least that suffices.** Observing w exactly
   always does when condition I holds; the coarsest observation that makes
   every class selectable is not characterized here.
 - **Anything about feedback over time, or beyond scalar overlaps**, the
-  limits CLAIM-537 states.
+  limits [CLAIM-537](CLAIM-537.md) states.
