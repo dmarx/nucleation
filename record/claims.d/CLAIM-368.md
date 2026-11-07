@@ -84,7 +84,7 @@ summary: >-
   which were never filed. The sharp edge: it says what to start from, not
   that a frustrated organization is distressed or feels anything. The
   claim bears on the organizational-affect line, which the owner reopened on 2026-10-23
-  (CLAIM-039, Proposed).
+  ([CLAIM-039](CLAIM-039.md), Proposed).
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->

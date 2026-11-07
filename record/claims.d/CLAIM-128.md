@@ -88,10 +88,10 @@ trade-offs possible.
 The claim recurs. A151 §5: "two translations can preserve different
 structures without being forced into a universal ranking." A178 Ch9.7:
 "Partial orders on fidelity profiles". A203 §22: "no universal weighting is
-assumed". It complements CLAIM-033, which claims at A75 that such trade-offs are
+assumed". It complements [CLAIM-033](CLAIM-033.md), which claims at A75 that such trade-offs are
 prevalent in published translations. That a translation can broaden the
 readings along one dimension while narrowing them along another is
-CLAIM-033's prior statement, THEORY-170's: one trade-off, in the region
+[CLAIM-033](CLAIM-033.md)'s prior statement, [THEORY-170](../theory.d/THEORY-170.md)'s: one trade-off, in the region
 picture.
 
 ## What it does not say

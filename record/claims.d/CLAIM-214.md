@@ -100,7 +100,7 @@ correspondence. It shows the criterion working.
 **The target inventory bounds fidelity.** In this target language every
 utterance gives P_L(m₁ | ·) = 1/2, because there is only one. So no
 rendering of *a* passes the criterion: the target language cannot say what
-the source said by implicature. That is Jakobson's point (THEORY-170), which CLAIM-033 keeps as its prior
+the source said by implicature. That is Jakobson's point ([THEORY-170](../theory.d/THEORY-170.md)), which [CLAIM-033](CLAIM-033.md) keeps as its prior
 statement,
 "Languages differ in what they must convey", met here for what a language
 *can* convey by implicature. It is a consequence of the criterion, not a gap
