@@ -121,4 +121,4 @@ perspective that persisted dormant between its active periods.
 
 ## Note of 2026-11-07: the owner's "anti-vax" filed, from "Individuation, Possibility, and Disposition"
 
-At U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) the owner named "anti-vax" again, one of the U29 cases this entry's "What it does not show" left unfiled for want of sources. A41 analysed it and cited sources, still unregistered and unread; it is filed as CASE-tmpb16ru, Proposed. This case is unchanged.
+At U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) the owner named "anti-vax" again, one of the U29 cases this entry's "What it does not show" left unfiled for want of sources. A41 analysed it and cited sources, still unregistered and unread; it is filed as [CASE-tmpb16ru](CASE-tmpb16ru.md), Proposed. This case is unchanged.

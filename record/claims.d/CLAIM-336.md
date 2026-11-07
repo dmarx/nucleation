@@ -282,4 +282,4 @@ Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of
 
 ## Note of 2026-11-07: further schematic extensions, from "Individuation, Possibility, and Disposition"
 
-In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A39 §4 and A41 §8 used this claim's equations, which match its body, and A43 §6 extended them with an allocation of efficacy (Π) and response terms (H, F). The extensions are schematic, with the functions unspecified and no result derived. The reader confirmed CLAIM-330's linear-stability condition on 50,000 draws, unchanged by A41's added noise terms. No status changes.
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A39 §4 and A41 §8 used this claim's equations, which match its body, and A43 §6 extended them with an allocation of efficacy (Π) and response terms (H, F). The extensions are schematic, with the functions unspecified and no result derived. The reader confirmed [CLAIM-330](CLAIM-330.md)'s linear-stability condition on 50,000 draws, unchanged by A41's added noise terms. No status changes.

@@ -200,4 +200,4 @@ read an absence of conflict as an absence of signal.
 
 ## Note of 2026-11-07: cited for silence, without legibility, from "Individuation, Possibility, and Disposition"
 
-A47 §4 cites this claim for "observed acquiescence does not establish dispositional agreement", which is its "a perspective that does not intervene has not thereby endorsed". A47 drops the legibility factor ("the chance that the discrepancy is legible") and adds a stage of granted authority, which is CLAIM-283's, not this claim's. No change.
+A47 §4 cites this claim for "observed acquiescence does not establish dispositional agreement", which is its "a perspective that does not intervene has not thereby endorsed". A47 drops the legibility factor ("the chance that the discrepancy is legible") and adds a stage of granted authority, which is [CLAIM-283](CLAIM-283.md)'s, not this claim's. No change.

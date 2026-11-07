@@ -101,4 +101,4 @@ a case like this one is the NOTE's open question. The case is unchanged.
 
 ## Note of 2026-11-07: the label confirmed by resistance, at population scale, from "Individuation, Possibility, and Disposition"
 
-In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §5's symbol kept alive by those who reject it, and A43 §8's "Practical resistance" pathway, in which the person or their community "attempts to change the classification's authority or consequences", are this case at the scale of a population (CASE-tmpb16ru, CLAIM-tmpnza8k). A cited CASE-141 only.
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §5's symbol kept alive by those who reject it, and A43 §8's "Practical resistance" pathway, in which the person or their community "attempts to change the classification's authority or consequences", are this case at the scale of a population ([CASE-tmpb16ru](CASE-tmpb16ru.md), [CLAIM-tmpnza8k](../claims.d/CLAIM-tmpnza8k.md)). A cited [CASE-141](CASE-141.md) only.

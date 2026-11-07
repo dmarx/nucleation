@@ -75,9 +75,9 @@ can cross between attractors."
 
 ## Note of 2026-11-07: candidates for two of the three regions, from "Individuation, Possibility, and Disposition"
 
-From A14 §2 and A20 §4 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), filed as CLAIM-tmpwp3ru:
+From A14 §2 and A20 §4 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), filed as [CLAIM-tmpwp3ru](../claims.d/CLAIM-tmpwp3ru.md):
 
 - **The gap closes where the regime loses stability.** Two detuned phase oscillators: the restoring rate √(4K² − Δω²) of the locked relative phase vanishes at the locking saddle-node |Δω| = 2K. A horizon-relative boundary (λ⊥H ≫ 1) is lost earlier, while the locked state still exists.
-- **The regime goes with the gap intact.** CLAIM-521: the maintenance fails at its fold while the coupling's gap stays near its full value.
+- **The regime goes with the gap intact.** [CLAIM-521](../claims.d/CLAIM-521.md): the maintenance fails at its fold while the coupling's gap stays near its full value.
 
 The third region, a gap closing with the regime and its behaviour intact, still has no case. The filer adds: the locking example's early loss of the horizon-relative boundary comes near it, but there the gap is shrinking toward the bifurcation, not closing apart from it. The question stays open.

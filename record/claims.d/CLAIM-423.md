@@ -194,4 +194,4 @@ consequence, deciding which component holds authority.
 
 ## Note of 2026-11-07: one U29 case filed, from "Individuation, Possibility, and Disposition"
 
-Of the owner's U29 "super stable" perspectives that this claim's note declined to file as cases from the replies' summaries, "anti-vax" came back at U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), with sources cited by A41. It is filed as CASE-tmpb16ru, Proposed until they are read. It bears on this claim's subject only through the label's persistence, not through components of different speeds. No status changes.
+Of the owner's U29 "super stable" perspectives that this claim's note declined to file as cases from the replies' summaries, "anti-vax" came back at U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), with sources cited by A41. It is filed as [CASE-tmpb16ru](../cases.d/CASE-tmpb16ru.md), Proposed until they are read. It bears on this claim's subject only through the label's persistence, not through components of different speeds. No status changes.
