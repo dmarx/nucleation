@@ -6,14 +6,6 @@ formerly:
 title: 'A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized'
 version: 3
 history:
-- version: 3
-  date: '2026-11-07'
-  note: >-
-    At A's second review of the pull request: the clause that this claim
-    is not defeated by an unavoidable projection was the filer's
-    reading, not the owner's, and it had been cited as the owner's
-    position. The owner's U27 does not settle it, so the clause now
-    leaves it open.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -23,6 +15,14 @@ history:
     operative legibility and governance regime, not to every
     participant's knowledge (CLAIM-403, CLAIM-523). It is A's, beside the
     owner's thesis. The owner's thesis and its wording are unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At A's second review of the pull request: the clause that this claim
+    is not defeated by an unavoidable projection was the filer's
+    reading, not the owner's, and it had been cited as the owner's
+    position. The owner's U27 does not settle it, so the clause now
+    leaves it open.
 role: thesis
 warrant: interpretive
 defeated_if: >-

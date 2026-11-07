@@ -6,23 +6,6 @@ formerly:
 title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
 version: 4
 history:
-- version: 4
-  date: '2026-11-07'
-  note: >-
-    Superseded by SYNTHESIS-005, the same synthesis moved into the
-    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
-    is kept so that what cites it still resolves.
-- version: 3
-  date: '2026-11-07'
-  note: >-
-    ADR-075's admission test (version 2), applied at A's review of
-    the pull request: admitted on a narrower title. Its integration,
-    concepts individuated by the transmission criterion so that the
-    meaning–will coupling runs through what is transmitted, can fail
-    while every component holds (a concept reinvented with no contact
-    and counted one; a loop that runs one way). Layer 6, CLAIM-535's
-    back-arrow, is CLAIM-535 relabelled: it leaves the title and
-    defeated_if and stays in the body as a component.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -38,11 +21,28 @@ history:
     lacked "through a maintained legibility regime" and the clause "the
     acceptable action it commits to fixes in turn which distinctions must
     be made legible"; otherwise the content of version 1 is kept.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    ADR-075's admission test (version 2), applied at A's review of
+    the pull request: admitted on a narrower title. Its integration,
+    concepts individuated by the transmission criterion so that the
+    meaning–will coupling runs through what is transmitted, can fail
+    while every component holds (a concept reinvented with no contact
+    and counted one; a loop that runs one way). Layer 6, CLAIM-535's
+    back-arrow, is CLAIM-535 relabelled: it leaves the title and
+    defeated_if and stays in the body as a component.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-005, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A concept whose persistence the transmission criterion of CLAIM-
-  tmpcdshj gets wrong, continuing where nothing of its organization of
+  A concept whose persistence the transmission criterion of CLAIM-615
+  gets wrong, continuing where nothing of its organization of
   distinctions was transmitted or ending where it was, so that concepts
   need a criterion of their own; or a reflexive social system in which
   interventions on will-organization, with interpretation held fixed
