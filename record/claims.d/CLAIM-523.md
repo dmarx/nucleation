@@ -59,6 +59,7 @@ summary: >-
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
 
 # CLAIM-523: For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed
@@ -186,3 +187,11 @@ No status, title or warrant changes.
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Jules et al. ([NOTE-1617](../notes.d/NOTE-1617.md)), from the pasted synthesis on constraint architectures, separate three properties of a mechanical memory, stability in time, writability by outside action and non-destructive readout, and in their stack writing and reading fail separately: height and stiffness do not identify states unequivocally while the states themselves hold. That has the shape of the claim's three separable achievements, loosely and as an analogy only. It is a mechanical memory with nothing normative in it, and its properties do not map one to one onto legibility, volitional efficacy and correctability. No status changes.
+
+## Note of 2026-11-07: cited, with a fourth intervention, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §5 and A62 §1 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly, though A60 §5's "independently necessary" is a little strong: the claim says each achievement is needed and any can fail while the others hold. A60 §11 and A62 §11 add a fourth intervention, on the feedback that reproduces the failures, tested by withdrawing support; that is [CLAIM-522](CLAIM-522.md) and [CLAIM-600](CLAIM-600.md). [CLAIM-tmptfuky](CLAIM-tmptfuky.md) rests on this claim. Unchanged.
+
+## Note of 2026-11-07: surveyed, from the second share of "Individuation, Possibility, and Disposition"
+
+A58 §5 reads this claim rightly, including its "normative efficacy". It tells it as what "Nucleation calls", where it is the owner's synthesis of 2026-10-31. A58 §11's "Nucleation already has exact examples demonstrating several of the differences" is true of [CLAIM-455](CLAIM-455.md), [CLAIM-535](CLAIM-535.md) and [CLAIM-400](CLAIM-400.md), not of this claim, whose warrant is interpretive. No status changes.

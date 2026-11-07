@@ -1,0 +1,41 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-07, not read. Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A60 §4 and §10 for contributory injustice, beside Fricker and Pohlhaus, as the epistemic-injustice literature the reflexive wrong extends. No reading was attempted.
+title: 'A Cautionary Tale: On Limiting Epistemic Oppression'
+version: 1
+history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Filed, not read, from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Checked on 2026-11-07: the arXiv API did not answer (timeouts and HTTP 429), and no preprint is expected for this work; Crossref gives Kristie Dotson, Frontiers: A Journal of Women Studies 33(1), first page 24, 2012 (Project MUSE); doi.org resolves the DOI. No email address was sent to any service. The summary is how A and the reader describe the work; a reading should check it first.
+tags:
+- epistemology
+- ethics
+- social-ontology
+date: '2026-11-07'
+published: '2012-01-01'
+doi: '10.5250/fronjwomestud.33.1.0024'
+first_author: 'Dotson'
+keywords:
+- 'contributory injustice'
+- 'epistemic oppression'
+- 'hermeneutical injustice'
+implementations: []
+summary: >-
+  Kristie Dotson (2012). "A Cautionary Tale: On Limiting Epistemic Oppression." Frontiers: A Journal of Women Studies 33(1): 24, DOI-10.5250/fronjwomestud.33.1.0024. A names no work; the identification is the reader's. A60 §4 groups Dotson's contributory injustice with Pohlhaus as addressing "cases in which marginalized people have relevant interpretive resources but dominant participants fail to recognize or use them", and A60 §10 says it "emphasizes the resulting impairment of marginalized people's capacity to contribute to shared understanding". The record holds Dotson 2014 ([LIT-1329](LIT-1329.md), Unavailable), not this paper. Unread here; cited by A in the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07).
+---
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
+<!-- inactive-ok-file: LIT-1329 — Unavailable; cited with their standing -->
+
+# LIT-tmpsug73: A Cautionary Tale: On Limiting Epistemic Oppression
+
+Kristie Dotson (2012). "A Cautionary Tale: On Limiting Epistemic Oppression." *Frontiers: A Journal of Women Studies* 33(1): 24. DOI-10.5250/fronjwomestud.33.1.0024.
+
+## Key takeaways
+
+*Not read; as A or the reader describes it.* A names no work; the identification is the reader's. A60 §4 groups Dotson's contributory injustice with Pohlhaus as addressing "cases in which marginalized people have relevant interpretive resources but dominant participants fail to recognize or use them", and A60 §10 says it "emphasizes the resulting impairment of marginalized people's capacity to contribute to shared understanding". The record holds Dotson 2014 ([LIT-1329](LIT-1329.md), Unavailable), not this paper.
+
+## Standing in the record
+
+Registered from the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A60 §4 and §10 for contributory injustice, beside Fricker and Pohlhaus, as the epistemic-injustice literature the reflexive wrong extends. It bears on [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md), A's second-order wrong of answerability, and on [CLAIM-025](../claims.d/CLAIM-025.md)'s note "Organized ignorance", which already cites Dotson.

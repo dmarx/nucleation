@@ -91,3 +91,8 @@ realizable systems is not given in advance.
 - **Representability in a category of all mathematical models.** The
   question is about a category of what can be built or sustained, and the
   answer turns on which category that is.
+
+## Note of 2026-11-07: a worked instance, a refinement and a negative answer, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CASE-tmpdwka1 CLAIM-tmprmy7a — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §2 and A29 §4 give a worked instance of this question ([CASE-tmpdwka1](../cases.d/CASE-tmpdwka1.md), [CLAIM-tmprmy7a](../claims.d/CLAIM-tmprmy7a.md)): observations that are each realizable, agree on their overlap and paste into a coherent string, with no realization of the whole. [QUESTION-tmp2p196](QUESTION-tmp2p196.md) refines this question to the case of a reduced variable: does such a failure diagnose a capacity the reduction omitted? A29 §10 states a fair negative answer to keep in view: "If every claim reduces immediately to a conventional reachability calculation without providing new compositional methods, invariants, or cross-scale predictions, the sheaf framework may not earn its added complexity." The question stays open.

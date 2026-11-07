@@ -46,3 +46,7 @@ Before the rewrite the name was reused for at least six different scenarios
 (incident response, an unwilling addict, product suspension, an extractive
 culture, a Goodhart metric). Each variant is its own entry now, so a claim
 says which Northstar it means.
+
+## Note of 2026-11-07: cited for its variant, from "Individuation, Possibility, and Disposition"
+
+A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), cites this case for "a company whose stated commitment to reliability can diverge from the authority structures that actually determine release decisions", in a passage on error budgets as the governance of release authority. That divergence is the variant [CASE-003](CASE-003.md) ("same policy, same evidence, different escalation authority"); this case is its root scenario. No change.

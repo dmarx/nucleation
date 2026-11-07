@@ -1,0 +1,104 @@
+---
+status: Proposed
+title: 'A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Concludes SYNTHESIS-tmp73anp, the synthesis CLAIM-tmptfuky was moved
+    into (ADR-tmptu1vn), now that an ARG may conclude a SYNTHESIS. The
+    argument is unchanged.
+form: existence
+grounds:
+- CASE-tmppdl5x
+concludes:
+- SYNTHESIS-tmp73anp
+tags:
+- ethics
+- self-governance
+date: '2026-11-07'
+line:
+- will-organization
+- distributed-agency
+summary: >-
+  From A's (ChatGPT's) item 3 of its review of the pull request
+  dmarx/nucleation#422, pasted by the owner on 2026-11-07 and accepted as
+  written. The inference from the matched-harm construction of
+  [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md) to SYNTHESIS-tmp73anp's non-reducibility: the second-order
+  wrong is not the first-order harm or its continuation under another
+  description. Proposed. The case is coherent and separates the harm, the
+  breach of a justified procedural duty and the reproduction of the
+  breach, but only given the stipulated duty, so the conclusion it
+  supports is SYNTHESIS-tmp73anp's conditional one. The wording is A's;
+  adopting it is the owner's call.
+---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Superseded -->
+<!-- inactive-ok-file: SYNTHESIS-tmp73anp CASE-tmppdl5x — filed from the same exchange and its review, Proposed; the conclusion and the construction -->
+<!-- inactive-ok-file: CLAIM-511 — Proposed; the unconditional duty the record disclaims, cited with its standing -->
+
+# ARG-tmp0fc4y: A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation
+
+## The inference
+
+1. [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md): Institutions A and B are bound by the same stipulated,
+   justified and feasible duty to maintain independent review. Both cause
+   the same harm and the affected person receives the same remedy; no
+   further harm occurs in either over the period. A keeps its challenge
+   procedure. B has disabled it, and an outside intervention supplies the
+   remedy.
+2. So the first-order outcome is matched, and B alone has breached the
+   procedural duty. A: "The first-order outcome is matched. The
+   second-order conduct differs."
+3. Add reproduction: B's governance reinstates the defective procedure
+   whenever outside oversight ends, beside a B that breached once. The
+   harm, the remedy and the breach are matched between the two Bs; only
+   the reproductive organization differs.
+4. So, given such a duty, there is a wrong of B's beyond its first-order
+   harm and beyond that harm's continuation, and a further feature,
+   reproduction, beyond the breach. That is the separation
+   [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md)'s first defeater asks for, and the claim's layer 6: "a
+   second-order wrong need not always be reducible to this loss
+   difference". With the later harm stipulated equal, the loss difference
+   between A and B is zero while the wrong is not.
+
+## Critical questions
+
+- **Is the case coherent?** Yes. Nothing in it is inconsistent: an
+  institution can owe a procedure and fail to keep it, an outside body can
+  supply the remedy the procedure would have supplied, and governance can
+  undo a reform once oversight ends, which is the record's documented
+  pattern in [THEORY-140](../theory.d/THEORY-140.md) and [CASE-138](../cases.d/CASE-138.md) (reforms undone). The stipulation
+  that no further harm occurs is what keeps the match exact; without it,
+  B's missing procedure would raise the risk of later harm, and the
+  difference could be read as a difference in expected loss after all.
+- **Does it separate the very things the conclusion says can come
+  apart?** Yes, for the conclusion as [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md) states it: a wrong
+  that "is not reducible to the loss it causes" and is a verdict "only
+  given an independently justified standard and a feasible alternative".
+  The case holds the first-order harm and the expected loss fixed and
+  varies the breach; then holds the breach fixed and varies its
+  reproduction. It does not separate the wrong from the duty: the breach
+  is a wrong only because the duty is stipulated. A: "The construction
+  cannot establish that every organization has such a duty." So the ARG
+  supports the conditional claim and nothing toward [CLAIM-511](../claims.d/CLAIM-511.md)'s
+  unconditional duty.
+- **What it leaves open.** That the extra wrong is a wrong of
+  answerability, a deprivation of standing within a relationship of
+  governance (layer 7), and not merely a breach of whatever made the duty
+  binding. And that the claim survives a reader who counts being denied a
+  procedure as a harm of its own: the case then shows the procedural wrong
+  apart from the first-order harm and its remedy, not apart from every
+  loss.
+
+Proposed. The case is coherent and separates what the claim's
+non-reducibility needs, on its stipulated duty.
+
+## What it does not show
+
+- That any real organization bears such a duty, or behaves like B
+  ([QUESTION-129](../questions.d/QUESTION-129.md) for which standards justify one).
+- That the reproduction is a wrong over and above the breach it sustains.
+  The case shows it is a further feature; that it aggravates the wrong is
+  [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md)'s grades (layer 8), not something the case decides.

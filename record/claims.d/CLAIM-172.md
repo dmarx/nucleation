@@ -135,6 +135,7 @@ corroborated_by:
 - THEORY-265
 - THEORY-069
 ---
+<!-- inactive-ok-file: CLAIM-tmpg7aqc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the general HKB account, corroborating only: its relaxation-time and hysteresis data are unread -->
@@ -210,3 +211,7 @@ mechanism.
   ([THEORY-275](../theory.d/THEORY-275.md), [LIT-947](../literature.d/LIT-947.md), [NOTE-788](../notes.d/NOTE-788.md)). The criterion "each side's
   timing shifts with the other's" therefore needs an intervention on one
   member ([QUESTION-063](../questions.d/QUESTION-063.md)), not observed flow, to tell peers from a hierarchy.
+
+## Note of 2026-11-07: selective synchronization, from "Individuation, Possibility, and Disposition"
+
+A9 §3 of the exchange (2026-11-06 to 07) cites this claim rightly: "Individuation may sometimes be associated with selective synchronization, rather than maximal synchronization." That restates version 5's sharpening, that synchrony matched to the strong couplings, not shared timing alone, is the mark ([THEORY-265](../theory.d/THEORY-265.md)). The owner's U4 proposes oscillators as a laboratory for this and related distinctions ([CLAIM-tmpg7aqc](CLAIM-tmpg7aqc.md)). Supports; no status change.

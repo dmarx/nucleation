@@ -54,6 +54,8 @@ summary: >-
   autonomy is [TERM-070](TERM-070.md)'s closure, named here as the sense it is not.
   Adopted 2026-11-06 at the status review's ruling.
 ---
+<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: TERM-098 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed, Open or new; the entries this term serves -->
 
@@ -207,3 +209,7 @@ A's fourth paste proposes a division of labour among the senses: Yoneda characte
 ## Note of 2026-11-06: what holds it back
 
 Every entry that uses this term now names its sense: [CLAIM-474](../claims.d/CLAIM-474.md), [CLAIM-529](../claims.d/CLAIM-529.md) (since its version 2 of today, for both its routes), [CLAIM-544](../claims.d/CLAIM-544.md), and [CLAIM-606](../claims.d/CLAIM-606.md), whose three grounds of identity (history, conditions, conserved charge) sit within the dynamical sense and add no new one. The definition was edited on 2026-11-06 (version 2) to exclude the genetic sense of Simondon's readers, which names the process and is not a claim about a candidate. Adoption waits for the next pass to confirm that the edited definition has settled.
+
+## Note of 2026-11-07: "individuated concept", from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §6 asked "When does “anti-vax” become an individuated concept?" and answered with [TERM-098](TERM-098.md)'s marks of a concept: reuse, systematic inference, and correction as a further achievement. A41 §10 concluded "A concept can be individuated without being autonomous". In this term's senses, being a concept ([TERM-098](TERM-098.md)) is not being individuated, and [TERM-098](TERM-098.md) says a concept is not "a thing", which is "an individuated organization". Read in this term, the owner's U19 splits three ways: whether a realization has conceptual organization ([TERM-098](TERM-098.md)), whether a conceptual lineage persists by transmission ([CLAIM-329](../claims.d/CLAIM-329.md)), and whether anything is individuated in one of the four senses here. The plausible candidate for the last is the expression as a recurrent pattern of use, individuated descriptively or dynamically while sustained from outside, like the convection roll in the definition. A41 §10's verdict on self-maintenance, "Not established", is this term's organizational-autonomy sense, rightly used. The question is [QUESTION-tmpdalhx](../questions.d/QUESTION-tmpdalhx.md). The term is unchanged.

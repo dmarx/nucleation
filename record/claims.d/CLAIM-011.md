@@ -97,3 +97,7 @@ commutators themselves." It is the last appearance before the manuscript, whose
 
 Under [ADR-040](../decisions.d/ADR-040.md) (group C, decided by the owner) this claim also holds
 `formal-apparatus`. It rests on no claim, and its two limits and remedy hold for any intertwining with a correspondence, so setting pragmatic-transport aside would leave it standing, without the dependents it has in that line.
+
+## Note of 2026-11-07: the migration square, from "Individuation, Possibility, and Disposition"
+
+A, at A32 §6 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), requires that a data migration commute with the product's behaviour across versions, m_v(f_v(d)) ≃ f_{v+1}(m_v(d)), "where \(\simeq\) means equivalence relative to declared observable commitments". That is an intertwining condition, and the declared commitments are this claim's requirement that the correspondence be anchored to independently measured distinctions: with an uninformative equivalence the square commutes vacuously. A does not cite this claim. No status changes.

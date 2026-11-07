@@ -251,3 +251,7 @@ folding (p. 22). With the brick forming nothing in 48 hours at 56 °C (p. 25), t
 two measurements, not an inference, though the thesis does not pair them at one temperature and gives the
 brick's melting temperature only in a figure. [THEORY-1440](../theory.d/THEORY-1440.md) is narrowed to say so. The paragraph on Sobczak
 above stands otherwise; no status change.
+
+## Note of 2026-11-07: technical debt as a transition cost, from "Individuation, Possibility, and Disposition"
+
+A, at A32 §7 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), cites this claim rightly for a viable product with no affordable path to a successor, and adds a gloss: "This suggests that *technical debt* can sometimes be understood as an increase in the cost or decrease in the reliability of organizational transitions, rather than simply a reduction in current software quality." That is this claim's requirement to move into or out of a form, named in software terms: cheap to keep, dear to change. A says it "isn't a complete definition of technical debt". The wording is A's. No status changes.

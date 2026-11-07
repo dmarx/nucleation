@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-07, not read. Registered from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A16 for a modern bridge from coordination dynamics to agency: how intention and fluctuations reshape the coordination landscape. No reading was attempted.
+title: 'On Intention and Fluctuations in the Coordination Dynamics of Animate Movement'
+version: 1
+history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Filed, not read, from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Checked against Crossref on 2026-11-07. Crossref gives Amaury Dechaux, Aliza T. Sloan and J. A. Scott Kelso, Entropy 28(5): 556, published online 2026-05-15. The summary is how A describes the work; a reading should check it first.
+tags:
+- complex-systems
+- agency
+- embodied-cognition
+date: '2026-11-07'
+published: '2026-05-15'
+doi: '10.3390/e28050556'
+first_author: 'Dechaux'
+keywords: []
+implementations: []
+summary: >-
+  Dechaux, Sloan & Kelso (2026), DOI-10.3390/e28050556. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A16. It bears on [LIT-588](LIT-588.md) and [THEORY-1227](../theory.d/THEORY-1227.md) (the HKB model), [LIT-1992](LIT-1992.md) and [LIT-1132](LIT-1132.md) (irruption theory on HKB). A says intention enters coordination dynamics as something that reshapes the HKB potential landscape, with fluctuations playing a part. What A says of it is unverified until read.
+---
+
+# LIT-tmp45pjk: On Intention and Fluctuations in the Coordination Dynamics of Animate Movement
+
+Amaury Dechaux, Aliza T. Sloan and J. A. Scott Kelso (2026). "On Intention and Fluctuations in the Coordination Dynamics of Animate Movement." *Entropy* 28(5): 556. DOI-10.3390/e28050556.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* A says intention enters coordination dynamics as something that reshapes the HKB potential landscape, with fluctuations playing a part. Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A16. It bears on [LIT-588](LIT-588.md) and [THEORY-1227](../theory.d/THEORY-1227.md) (the HKB model), [LIT-1992](LIT-1992.md) and [LIT-1132](LIT-1132.md) (irruption theory on HKB).

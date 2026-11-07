@@ -67,6 +67,10 @@ summary: >-
   restored: the sense is operational, the claim is descriptive, and it is
   open to the manipulation objection.
 ---
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-07 -->
+<!-- inactive-ok-file: CASE-tmpecdgv — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpg7aqc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-545: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
@@ -175,3 +179,11 @@ Three premises are Proposed, [CLAIM-354](CLAIM-354.md), [CLAIM-404](CLAIM-404.md
 ## Note of 2026-11-06: what holds it back
 
 [CLAIM-354](CLAIM-354.md) and [CLAIM-533](CLAIM-533.md) are Active since the twenty-seventh status review, and [CLAIM-404](CLAIM-404.md) and [TERM-100](../terms.d/TERM-100.md) are Active too, [CLAIM-404](CLAIM-404.md) since the twenty-eighth; so of what the note above names, only [TERM-086](../terms.d/TERM-086.md) remains unheld, and the claim waits on it alone.
+
+## Note of 2026-11-07: dynamical subordination, from "Individuation, Possibility, and Disposition"
+
+A12 §4.3 of the exchange (2026-11-06 to 07) names "**dynamical subordination**: the degree to which one process controls another process's accessible rhythms, amplitudes, or responses", and says the oscillator setting "separates the *location of control* from its *legitimacy* and from the *capacity being controlled*". That is a dynamical reading of this claim's domination clause, with one difference: A's measure is control exercised, while this claim's domination is a capacity, used or not. A's caveat, "The dynamics alone do not establish the normative relationship", is kept in [CLAIM-tmpg7aqc](CLAIM-tmpg7aqc.md) and [CASE-tmpecdgv](../cases.d/CASE-tmpecdgv.md). Leaves the claim as it was; no status change.
+
+## Note of 2026-11-07: a relational wrong as domination, from the second share of "Individuation, Possibility, and Disposition"
+
+A60 §6 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cites this claim correctly, as Proposed, "on governance of governability". A62 §7's relational wrong, "a deprivation of normative standing within a relationship of governance", is a normative reading of this claim's domination clause, which A does not use. [CLAIM-tmptfuky](CLAIM-tmptfuky.md) complements this claim and names the clause. The standing meant is standing to place claims on an organization that governs one, not [TERM-083](../terms.d/TERM-083.md)'s moral standing. Unchanged.

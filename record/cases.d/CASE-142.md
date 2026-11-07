@@ -34,6 +34,8 @@ summary: >-
 supports:
 - CLAIM-425
 ---
+<!-- inactive-ok-file: CASE-tmpb16ru — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpnza8k — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1394 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-415 CLAIM-425 — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
 
@@ -96,3 +98,7 @@ so the case combines the two routes: the accusation provokes the
 conduct, and the conduct is read as proof whatever it is. Merton names
 both routes and does not join them. Whether the two can be told apart in
 a case like this one is the NOTE's open question. The case is unchanged.
+
+## Note of 2026-11-07: the label confirmed by resistance, at population scale, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §5's symbol kept alive by those who reject it, and A43 §8's "Practical resistance" pathway, in which the person or their community "attempts to change the classification's authority or consequences", are this case at the scale of a population ([CASE-tmpb16ru](CASE-tmpb16ru.md), [CLAIM-tmpnza8k](../claims.d/CLAIM-tmpnza8k.md)). A cited [CASE-141](CASE-141.md) only.

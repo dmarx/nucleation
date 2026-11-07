@@ -72,3 +72,8 @@ the model, and at low SNR the experimental SD is smaller (p. 15, fn. 17).
 - That the trial-to-trial variability in the experiments arises from
   spread of initial conditions, as the model's statistics do.
 - Anything about the mind. That is [THEORY-1302](THEORY-1302.md).
+
+## Note of 2026-11-07: the potential with a maintained parameter, from "Individuation, Possibility, and Disposition"
+<!-- inactive-ok-block: CASE-tmpn5x96 — filed from the same exchange, Proposed -->
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §3 takes this potential with a = 1, b = c/2 and lets c evolve under its own production and decay ([CASE-tmpn5x96](../cases.d/CASE-tmpn5x96.md)). The barrier against escape from anti-phase is (2c − 1)²/(4c), rechecked by the reader against A's nine chart values. Where this reading switches the parameters by hand, the case has them decline by the system's own maintenance. No change.

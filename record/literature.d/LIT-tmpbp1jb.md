@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-07, not read. Registered from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18 (§5) for an exact low-dimensional reduction of globally coupled phase oscillators, as closure without strong timescale separation. No reading was attempted.
+title: 'Low Dimensional Behavior of Large Systems of Globally Coupled Oscillators'
+version: 1
+history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Filed, not read, from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). Checked against the arXiv API and Crossref on 2026-11-07. The arXiv API gives 0806.0004 v1 submitted 2008-06-02, Edward Ott and Thomas M. Antonsen, with DOI 10.1063/1.2930766 linked; Crossref gives Chaos 18(3): 037113, September 2008. A named the reduction with no identifier. `published:` is the arXiv date (ADR-002). The summary is how A describes the work; a reading should check it first.
+tags:
+- complex-systems
+- mathematics
+date: '2026-11-07'
+published: '2008-06-02'
+arxiv: '0806.0004'
+doi: '10.1063/1.2930766'
+first_author: 'Ott'
+keywords: []
+implementations: []
+summary: >-
+  Ott & Antonsen (2008), [ARXIV-0806.0004](https://arxiv.org/abs/0806.0004) / DOI-10.1063/1.2930766. Here because A cited it in the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) at A18 (§5). It bears on [CLAIM-474](../claims.d/CLAIM-474.md), [QUESTION-252](../questions.d/QUESTION-252.md) (which conditions on an effective description can fail while the others hold) and [CLAIM-394](../claims.d/CLAIM-394.md); it is mentioned inside [NOTE-057](../notes.d/NOTE-057.md). A says the reduction gives exact low-dimensional equations on an invariant manifold for certain infinite populations, so a low-dimensional law need not come from slaving by fast and slow scales. What A says of it is unverified until read.
+---
+
+# LIT-tmpbp1jb: Low Dimensional Behavior of Large Systems of Globally Coupled Oscillators
+
+Edward Ott and Thomas M. Antonsen (2008). "Low Dimensional Behavior of Large Systems of Globally Coupled Oscillators." *Chaos* 18(3): 037113. [ARXIV-0806.0004](https://arxiv.org/abs/0806.0004) DOI-10.1063/1.2930766.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* A says the reduction gives exact low-dimensional equations on an invariant manifold for certain infinite populations, so a low-dimensional law need not come from slaving by fast and slow scales. Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-07 from the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), where A cited it at A18 (§5). It bears on [CLAIM-474](../claims.d/CLAIM-474.md), [QUESTION-252](../questions.d/QUESTION-252.md) (which conditions on an effective description can fail while the others hold) and [CLAIM-394](../claims.d/CLAIM-394.md); it is mentioned inside [NOTE-057](../notes.d/NOTE-057.md).

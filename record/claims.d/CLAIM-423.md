@@ -55,6 +55,7 @@ summary: >-
 complements:
 - CLAIM-445
 ---
+<!-- inactive-ok-file: CASE-tmpb16ru — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-423: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
@@ -190,3 +191,7 @@ precursor, so the path-dependence half of the defeat condition is checked
 only against the precursor. No case in the record shows a component's
 temporal horizon, rather than the formal rule that gives an event its
 consequence, deciding which component holds authority.
+
+## Note of 2026-11-07: one U29 case filed, from "Individuation, Possibility, and Disposition"
+
+Of the owner's U29 "super stable" perspectives that this claim's note declined to file as cases from the replies' summaries, "anti-vax" came back at U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), with sources cited by A41. It is filed as [CASE-tmpb16ru](../cases.d/CASE-tmpb16ru.md), Proposed until they are read. It bears on this claim's subject only through the label's persistence, not through components of different speeds. No status changes.

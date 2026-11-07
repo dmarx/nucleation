@@ -38,6 +38,7 @@ summary: >-
   and this term says nothing about determinism. [ADR-056](../decisions.d/ADR-056.md)'s proposed kinds
   would class it as a construct.
 ---
+<!-- inactive-ok-file: CLAIM-174 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: LIT-1985 — Proposed, Open, Deferred or new; cited as open -->
 
 # TERM-099: self-formation, of an agent: the production, by the agent's own activity on a discrepancy it cannot yet resolve, of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones
@@ -73,3 +74,11 @@ Self-formation is the production of a capacity, with four parts:
 Whether a reweighting of existing regimes with no new distinction or
 channel, [TERM-023](TERM-023.md)'s precedence, should count. [CLAIM-532](../claims.d/CLAIM-532.md)'s defeater
 names this as the case that would make the definition too narrow.
+
+## Note of 2026-11-07: a community's new vocabulary, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A43 §9 applied this term to a community building a finer vocabulary: "concept formation can be an achievement of practical organization". The term is of an agent, so that use needs the community to be warranted as one ([CLAIM-418](../claims.d/CLAIM-418.md), [CLAIM-174](../claims.d/CLAIM-174.md)). Otherwise the right description is a perspective's reflexive governance ([CLAIM-424](../claims.d/CLAIM-424.md)). The term is unchanged.
+
+## Note of 2026-11-07: the caution against always-disposed explanations, from "Individuation, Possibility, and Disposition"
+
+A52 §13: "We should not explain every novelty by claiming that the system was always disposed to produce exactly that novelty." "That would render the theory unfalsifiable." This supports the term's "Installation" exclusion and its requirement of formation provenance ([CASE-191](../cases.d/CASE-191.md)). A52 states the definition correctly. A45 §XIII and §XVI drift from it, dropping "on a discrepancy it cannot yet resolve" and the service to a class of later demands. Unchanged.

@@ -90,6 +90,8 @@ illustrated_by:
 - CASE-116
 - CASE-133
 ---
+<!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpjw473 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1381 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
@@ -292,3 +294,12 @@ no causal path from the original club, is the test its defeat condition
 names, and nothing in the record says whether the league, the club or its
 supporters count it as continuation. The note of 2026-10-22 limited the
 criterion to a carrier's persistence, and the title does not say so.
+
+## Note of 2026-11-07: re-derived, and two new tests, from "Individuation, Possibility, and Disposition"
+
+Across A32 §2 and §9, A34 §4 and A37 §1 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A cites this claim correctly on content, never as Proposed. Two new tests:
+
+- **The fork** (A34 §4): two repositories identical at the fork instant become two projects. That fits "an organization of the same kind that arises independently is not its continuation"; what separates them is their carriers, not their structure.
+- **Freenode and Libera Chat, 2021** (A36 §1, in [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md), A's report, unverified): the volunteer staff, the producing organization, moved to Libera, so this claim's criterion picks Libera as the persisting network. A calls it "organizational reconstruction across a change of substrate and institutional boundary"; in this claim's terms it is a transmission, not an independent reconstitution, and A did not draw the verdict.
+
+A36 closes on this claim's open question without citing it: "When a project changes hands, what exactly must be transmitted for the successor to count as a continuation of the same organization" ([QUESTION-118](../questions.d/QUESTION-118.md)). [CLAIM-tmpjw473](CLAIM-tmpjw473.md) adds that participants' verdicts can move the producers, and so the persistence. Unchanged; stays Proposed.

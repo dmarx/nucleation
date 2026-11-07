@@ -96,3 +96,7 @@ Two points bear on the definition itself.
   definition would be needed, as a new version here.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-07: will-organization is not a higher-order disposition, from the second share of "Individuation, Possibility, and Disposition"
+
+A55 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, proposes a clarification here: "A will-organization can realize standing dispositions to inhibit, enable, prioritize, suspend, or transform the efficacy of action-generating regimes. But its definition concerns the actual maintained causal organization of efficacy-governing relationships, not merely the existence of higher-order dispositions." That is already this term's "maintained organization", and its "not another desire, an inner executive, or a causal substance". A52 §8's regress, "we should not then insist that every such disposition requires another disposition governing it, indefinitely", is answered in [CLAIM-424](../claims.d/CLAIM-424.md) ("There need not be one reviser"). A55's point that "a latent disposition to veto and an actually effective veto mechanism are different things" is [CLAIM-047](../claims.d/CLAIM-047.md)'s, and [CLAIM-421](../claims.d/CLAIM-421.md)'s for perspectives. Cited rightly; it adds nothing, and the term is unchanged.

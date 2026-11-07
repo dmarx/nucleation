@@ -46,6 +46,8 @@ corroborates:
 bears_on:
 - QUESTION-334
 ---
+<!-- inactive-ok-file: ARG-tmpdf15p — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, which the chapter applies -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for comparison -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
@@ -121,3 +123,7 @@ post-Challenger reforms might have held. The Board found neither.
   justifies the next flight reproduces the conditions that justify it.
   §8.4: the Board's remedy is externalized governance, a safety
   organization independent of the program.
+
+## Note of 2026-11-07: the documented instance of the loop, from the second share of "Individuation, Possibility, and Disposition"
+
+Not cited in the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), whose A60 and A62 describe a harm-producing organization reproducing the conditions that keep its harm from constraining it ([CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)). This account, with [CASE-138](../cases.d/CASE-138.md), is the record's documented instance of that loop: anomalies reinterpreted as acceptable, "a safety organization dependent on the program it oversaw" (A62 §5's reproductive exclusion), and reforms undone. [ARG-tmpdf15p](../arguments.d/ARG-tmpdf15p.md) is the evidence argument, Proposed: it shows the mechanism, and says nothing of a second-order wrong. Unchanged.
