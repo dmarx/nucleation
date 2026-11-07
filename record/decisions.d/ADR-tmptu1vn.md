@@ -136,9 +136,9 @@ it strained four ways.
 
 ## Consequences
 
-- **ARGs about syntheses.** The two ARGs from #422 that concluded
-  synthesis claims now conclude the syntheses: ARG-tmpvxtof concludes
-  SYNTHESIS-tmp46moy, and ARG-tmp0fc4y concludes SYNTHESIS-tmp73anp. ARG's
+- **ARGs about syntheses.** The two ARGs from [#422](https://github.com/dmarx/nucleation/issues/422) that concluded
+  synthesis claims now conclude the syntheses: [ARG-tmpvxtof](../arguments.d/ARG-tmpvxtof.md) concludes
+  [SYNTHESIS-tmp46moy](../syntheses.d/SYNTHESIS-tmp46moy.md), and [ARG-tmp0fc4y](../arguments.d/ARG-tmp0fc4y.md) concludes [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md). ARG's
   `rests_on` still takes only CLAIMs. An argument resting on a synthesis
   as a premise has not been needed yet.
 - **The sweep.** [CLAIM-545](../claims.d/CLAIM-545.md) and the syntheses left unaudited in earlier

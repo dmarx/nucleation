@@ -58,7 +58,7 @@ summary: >-
 4. So, given such a duty, there is a wrong of B's beyond its first-order
    harm and beyond that harm's continuation, and a further feature,
    reproduction, beyond the breach. That is the separation
-   SYNTHESIS-tmp73anp's first defeater asks for, and the claim's layer 6: "a
+   [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md)'s first defeater asks for, and the claim's layer 6: "a
    second-order wrong need not always be reducible to this loss
    difference". With the later harm stipulated equal, the loss difference
    between A and B is zero while the wrong is not.
@@ -74,7 +74,7 @@ summary: >-
   B's missing procedure would raise the risk of later harm, and the
   difference could be read as a difference in expected loss after all.
 - **Does it separate the very things the conclusion says can come
-  apart?** Yes, for the conclusion as SYNTHESIS-tmp73anp states it: a wrong
+  apart?** Yes, for the conclusion as [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md) states it: a wrong
   that "is not reducible to the loss it causes" and is a verdict "only
   given an independently justified standard and a feasible alternative".
   The case holds the first-order harm and the expected loss fixed and
@@ -101,4 +101,4 @@ non-reducibility needs, on its stipulated duty.
   ([QUESTION-129](../questions.d/QUESTION-129.md) for which standards justify one).
 - That the reproduction is a wrong over and above the breach it sustains.
   The case shows it is a further feature; that it aggravates the wrong is
-  SYNTHESIS-tmp73anp's grades (layer 8), not something the case decides.
+  [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md)'s grades (layer 8), not something the case decides.
