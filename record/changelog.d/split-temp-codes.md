@@ -1,3 +1,3 @@
 ### Fixed
 
-- Four temporary codes that a line break had split in folded prose, which the merge-time numbering therefore missed, now carry their numbers: CLAIM-614 in SYNTHESIS-002 and CLAIM-624, CLAIM-615 in SYNTHESIS-005 and CLAIM-620, and ADR-076 and ADR-075 in SYNTHESIS-005. Found by the first synthesis review.
+- Four temporary codes that a line break had split in folded prose, which the merge-time numbering therefore missed, now carry their numbers: [CLAIM-614](record/claims.d/CLAIM-614.md) in [SYNTHESIS-002](record/syntheses.d/SYNTHESIS-002.md) and [CLAIM-624](record/claims.d/CLAIM-624.md), [CLAIM-615](record/claims.d/CLAIM-615.md) in [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md) and [CLAIM-620](record/claims.d/CLAIM-620.md), and [ADR-076](record/decisions.d/ADR-076.md) and [ADR-075](record/decisions.d/ADR-075.md) in [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md). Found by the first synthesis review.
