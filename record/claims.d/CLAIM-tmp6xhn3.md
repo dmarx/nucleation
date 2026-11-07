@@ -1,8 +1,14 @@
 ---
-status: Proposed
+status: Superseded
 title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmpg2eh2, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-tmptu1vn). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -30,6 +36,8 @@ defeated_if: >-
   senses of persistence, saying nothing about where individuation lies.
   Not defeated by an individual that persists in one mode throughout,
   which the claim allows.
+superseded_by:
+- SYNTHESIS-tmpg2eh2
 tags:
 - individuation
 - complex-systems
@@ -75,6 +83,7 @@ summary: >-
   restored. The integration's wording is A's, corrected by the filer;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmptwm5l CLAIM-tmp7cpzx CLAIM-tmprmy7a CLAIM-tmpg7aqc CLAIM-tmpk1015 CASE-tmpecdgv CASE-tmpyzdwh CASE-tmpdwka1 — filed from the same exchange, Proposed; components and restored owner contributions -->
 <!-- inactive-ok-file: CLAIM-tmpcdshj — filed from the same exchange, Proposed; the later thesis that rests on this one -->

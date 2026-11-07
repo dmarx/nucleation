@@ -1,0 +1,57 @@
+{#- record/views.d/current-account.md.j2
+    The record's current account: every synthesis in force or offered, line by
+    line, each with its components and their own status, read from the
+    components when the page is built (DP-2: derived, never copied). Codes are
+    written bare; the link fixer spells them. -#}
+{%- set live = docs("SYNTHESIS", status="Current") + docs("SYNTHESIS", status="Proposed") -%}
+# The current account
+
+*What the record now holds about how its own claims fit together, one line
+of argument at a time. Generated from the SYNTHESIS entries in
+`record/syntheses.d/`: edit those, not this page.*
+
+A synthesis says what its components add up to, and which admission route it
+passed: an independent hypothesis, a derived result or an explanatory
+integration (ADR-tmpe7y42). Its components keep their own standing. The status
+beside each component is read from the component when this page is built, so
+a component retired since the synthesis was written shows as retired here.
+A synthesis marked *Current* is the account the owner has adopted for its
+line; *Proposed* is admitted and argued, not yet adopted. A synthesis that
+spans several lines is set out under its first and pointed to from the
+others.
+{% if not live %}
+
+*No synthesis is filed yet.*
+{% endif %}
+{% for t in vocabulary("lines") %}
+{%- set ns = namespace(any=false) -%}
+{%- for s in live %}{% if t.value in s.line %}{% set ns.any = true %}{% endif %}{% endfor -%}
+{%- if ns.any %}
+
+## {{ t.label }}
+
+{{ t.blurb }}
+{% for s in live if t.value in s.line %}
+{%- if s.line[0] != t.value %}
+
+- {{ s.code }}, set out under its first line: {{ s.title }}
+{%- else %}
+{%- set premises = s.premises | map(attribute="code") | list %}
+
+### {{ s.code }}: {{ s.title }}
+
+*{{ s.status }} · {{ s.route }}{% if s.role %} · {{ s.role }}{% endif %} · warrant {{ s.warrant }} · version {{ s.version }}*
+
+{{ s.summary }}
+
+| component | its status | what it holds |
+|---|---|---|
+{% for c in s.integrates -%}
+| {{ c.code }}{% if c.code in premises %} (premise){% endif %} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
+{% endfor %}
+
+**What would defeat the integration:** {{ s.defeated_if }}
+{%- endif %}
+{% endfor %}
+{%- endif %}
+{% endfor %}
