@@ -93,11 +93,11 @@ nae question." The name is kept.
 The summary reads the kinds "from the information decomposition's downward-causation and causal-decoupling terms". Those terms do not separate top-down from bidirectional.
 
 - **Both kinds have D > 0.** Bidirectional adds "D > 0 while V is itself produced by the parts' joint activity".
-- **V is always produced by the parts in the predictive sense.** V supervenes on the parts in every kind, and CLAIM-158 says top-down "cannot mean that the higher level drives without its parts, because it is realized by them". Since V at t is a function of the parts' state at t, the data-processing inequality gives I(X_t; V_{t+1}) ≥ I(V_t; V_{t+1}): the parts' state always carries at least as much information about V's next value as V's own state does. The reader checked this on 5,000 random Markov chains over three binary parts; the least margin was 0 to rounding.
+- **V is always produced by the parts in the predictive sense.** V supervenes on the parts in every kind, and [CLAIM-158](../claims.d/CLAIM-158.md) says top-down "cannot mean that the higher level drives without its parts, because it is realized by them". Since V at t is a function of the parts' state at t, the data-processing inequality gives I(X_t; V_{t+1}) ≥ I(V_t; V_{t+1}): the parts' state always carries at least as much information about V's next value as V's own state does. The reader checked this on 5,000 random Markov chains over three binary parts; the least margin was 0 to rounding.
 
 So the decomposition as stated separates three regions, aggregate, D > 0 and G > 0, not four. Telling bidirectional from top-down needs a criterion this term does not name:
 
 - a named quantity of upward causation; or
-- production over time at a declared time resolution, in which case CLAIM-528's third part makes the boundary between the two move with that resolution.
+- production over time at a declared time resolution, in which case [CLAIM-528](../claims.d/CLAIM-528.md)'s third part makes the boundary between the two move with that resolution.
 
 The definition is unchanged; this note marks what it does not yet fix.

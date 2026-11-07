@@ -165,8 +165,8 @@ A's fourth paste states this question's constitutive half as a philosophical con
 
 The answers on the record address three different relations, all called constitution:
 
-- **TERM-088's constitutive individuation:** an entity's relational organization helps fix its identity and boundary (CLAIM-529, CLAIM-477).
-- **The mechanists' synchronic part–whole constitution** (CLAIM-528).
-- **Dependence on an arrangement or apparatus:** this question's second half, "detected, maintained, constituted", and CLAIM-476.
+- **[TERM-088](../terms.d/TERM-088.md)'s constitutive individuation:** an entity's relational organization helps fix its identity and boundary ([CLAIM-529](../claims.d/CLAIM-529.md), [CLAIM-477](../claims.d/CLAIM-477.md)).
+- **The mechanists' synchronic part–whole constitution** ([CLAIM-528](../claims.d/CLAIM-528.md)).
+- **Dependence on an arrangement or apparatus:** this question's second half, "detected, maintained, constituted", and [CLAIM-476](../claims.d/CLAIM-476.md).
 
 The question already flags the gap between the second and its own relation: "The form of the evidential problem carries over; that it is the same problem has not been shown." The third synthesis review found no integration of the answers because the sense of "constitute" absorbs every case. An answer should say which of the three it is about.
