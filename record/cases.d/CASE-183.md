@@ -68,7 +68,7 @@ re-derivations ([CLAIM-186](../claims.d/CLAIM-186.md)).
 ## What it cannot show
 
 Inbound references per code were counted on 2026-11-06, by
-scratch/formal/claim184_185_counts.py, as CLAIM-185's note of that date
+scratch/formal/claim184_185_counts.py, as [CLAIM-185](../claims.d/CLAIM-185.md)'s note of that date
 records; turns per filed entry have not been computed. And both sides of each comparison are read in
 the grammar that shapes the argument ([CLAIM-181](../claims.d/CLAIM-181.md)). A rise in coding and
 linking registers as more anchoring whether or not the participants, by

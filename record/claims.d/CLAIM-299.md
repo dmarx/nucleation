@@ -75,8 +75,8 @@ non-implication needs nothing more.
 - [CLAIM-189](CLAIM-189.md) says fidelity is the wrong measure of a developing argument,
   and what a record can secure is traceability. This says traceability
   is not sufficiency either.
-- CLAIM-190 said the record's own anchoring measures cannot certify drift
-fell; it is Superseded by ARG-028, which carries that point. [CASE-084](../cases.d/CASE-084.md) is the same point about correctness, and A6 called it "a
+- [CLAIM-190](CLAIM-190.md) said the record's own anchoring measures cannot certify drift
+fell; it is Superseded by [ARG-028](../arguments.d/ARG-028.md), which carries that point. [CASE-084](../cases.d/CASE-084.md) is the same point about correctness, and A6 called it "a
   direct companion" to [CLAIM-181](CLAIM-181.md) and [CLAIM-190](CLAIM-190.md).
 - [CLAIM-250](CLAIM-250.md) is about accountability. A note of 2026-10-15 there records
   which of the three it concerns.

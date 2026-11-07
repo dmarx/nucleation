@@ -47,6 +47,6 @@ A6: "That accountability lacks instrumental value. An accountable record
 may help identify errors once the excluded possibility is made
 available."
 
-## Note of 2026-11-07: the illustration of CLAIM-190 is history
+## Note of 2026-11-07: the illustration of [CLAIM-190](../claims.d/CLAIM-190.md) is history
 
-This case's `illustrates` still names CLAIM-190, which is Superseded by ARG-028. A case cannot illustrate an argument, so the edge is kept as history. The point it illustrated, that the record's own measures cannot certify correctness, is now ARG-028's, which cites this case. No status change.
+This case's `illustrates` still names [CLAIM-190](../claims.d/CLAIM-190.md), which is Superseded by [ARG-028](../arguments.d/ARG-028.md). A case cannot illustrate an argument, so the edge is kept as history. The point it illustrated, that the record's own measures cannot certify correctness, is now [ARG-028](../arguments.d/ARG-028.md)'s, which cites this case. No status change.
