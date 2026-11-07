@@ -117,7 +117,7 @@ it strained four ways.
     - `supersedes` and `superseded_by`: between syntheses, and from the
       CLAIMs a synthesis replaces.
 - **`route`**, from `synthesis-routes`: `hypothesis`, `derived` or
-  `integration`, the routes of ADR-tmpe7y42 step 5. It is required while
+  `integration`, the routes of [ADR-tmpe7y42](ADR-tmpe7y42.md) step 5. It is required while
   `admission` is `admitted`. An unadmitted entry's former route, if it had
   one, is in its history.
 - **`role`, required, `warrant`, `defeated_if`, required, `tags` and
@@ -133,7 +133,7 @@ it strained four ways.
     synthesis that is not Current;
   - `derived_not_demonstrated`: a derived synthesis whose warrant is not
     `demonstrated`.
-- **Components' standing is derived, never copied (DP-2).** The voice of
+- **Components' standing is derived, never copied ([DP-2](../../docs/design-principles.md#dp-2)).** The voice of
   each component, which no field records, stays in the body. Its status is
   read from the component.
 - **A current-account view**, `docs/current-account.md`, rendered by
@@ -153,20 +153,20 @@ it strained four ways.
   SYNTHESIS that loses its admission becomes `unadmitted`, with the reason
   in its history. A synthesis held only as a legacy CLAIM is revised by
   filing a SYNTHESIS that supersedes it.
-- **The demonstration (ADR-071).**
-  - **The five syntheses admitted in #422 move into the scheme.** Each
+- **The demonstration ([ADR-071](ADR-071.md)).**
+  - **The five syntheses admitted in [#422](https://github.com/dmarx/nucleation/issues/422) move into the scheme.** Each
     SYNTHESIS entry carries the claim's title, route, defeater and body
     unchanged, and each CLAIM becomes Superseded by its entry:
-    - CLAIM-tmp6xhn3 becomes SYNTHESIS-tmpg2eh2;
-    - CLAIM-tmp2ka9y becomes SYNTHESIS-tmpj2lnj;
-    - CLAIM-tmpcdshj becomes SYNTHESIS-tmp46moy;
-    - CLAIM-tmpnjz70 becomes SYNTHESIS-tmprmcy0;
-    - CLAIM-tmptfuky becomes SYNTHESIS-tmp73anp.
+    - [CLAIM-tmp6xhn3](../claims.d/CLAIM-tmp6xhn3.md) becomes [SYNTHESIS-tmpg2eh2](../syntheses.d/SYNTHESIS-tmpg2eh2.md);
+    - [CLAIM-tmp2ka9y](../claims.d/CLAIM-tmp2ka9y.md) becomes [SYNTHESIS-tmpj2lnj](../syntheses.d/SYNTHESIS-tmpj2lnj.md);
+    - [CLAIM-tmpcdshj](../claims.d/CLAIM-tmpcdshj.md) becomes [SYNTHESIS-tmp46moy](../syntheses.d/SYNTHESIS-tmp46moy.md);
+    - [CLAIM-tmpnjz70](../claims.d/CLAIM-tmpnjz70.md) becomes [SYNTHESIS-tmprmcy0](../syntheses.d/SYNTHESIS-tmprmcy0.md);
+    - [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) becomes [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md).
   - **Relations describing the current account are repointed.** Seven
-    ARGs and one CASE pointed at the moved claims. ARG-tmpvxtof now
-    concludes SYNTHESIS-tmp46moy. ARG-tmp0fc4y, ARG-tmp4iu19,
-    ARG-tmpdf15p, ARG-tmpdlr93, ARG-tmpgxas4 and ARG-tmpovvgn now
-    conclude, and CASE-tmpnlf5c illustrates, SYNTHESIS-tmp73anp.
+    ARGs and one CASE pointed at the moved claims. [ARG-tmpvxtof](../arguments.d/ARG-tmpvxtof.md) now
+    concludes [SYNTHESIS-tmp46moy](../syntheses.d/SYNTHESIS-tmp46moy.md). [ARG-tmp0fc4y](../arguments.d/ARG-tmp0fc4y.md), [ARG-tmp4iu19](../arguments.d/ARG-tmp4iu19.md),
+    [ARG-tmpdf15p](../arguments.d/ARG-tmpdf15p.md), [ARG-tmpdlr93](../arguments.d/ARG-tmpdlr93.md), [ARG-tmpgxas4](../arguments.d/ARG-tmpgxas4.md) and [ARG-tmpovvgn](../arguments.d/ARG-tmpovvgn.md) now
+    conclude, and [CASE-tmpnlf5c](../cases.d/CASE-tmpnlf5c.md) illustrates, [SYNTHESIS-tmp73anp](../syntheses.d/SYNTHESIS-tmp73anp.md).
     Historical relations stay: the claims' own `superseded_by`, and the
     history notes.
   - **The fixture.** `scratch/formal/synthesis_fixture.py` builds a
@@ -176,7 +176,7 @@ it strained four ways.
     case and nowhere else. It checks that the view shows the admitted
     syntheses and hides the unadmitted one, shows each component's kind,
     and shows a component's status change on the next render. All checks
-    pass (DP-4).
+    pass ([DP-4](../../docs/design-principles.md#dp-4)).
 
 ## Alternatives considered
 
@@ -202,8 +202,8 @@ it strained four ways.
   and luria mishandles a symmetric relation across schemes
   (dmarx/luria#358, which CLAIM's `complements` already cites). The two
   CLAIMs that complement moved syntheses keep pointing at the superseded
-  CLAIMs until that is fixed. CLAIM-tmpagkxi complements CLAIM-tmpnjz70,
-  and CLAIM-tmplgp4k complements CLAIM-tmptfuky. The links resolve, and
+  CLAIMs until that is fixed. [CLAIM-tmpagkxi](../claims.d/CLAIM-tmpagkxi.md) complements [CLAIM-tmpnjz70](../claims.d/CLAIM-tmpnjz70.md),
+  and [CLAIM-tmplgp4k](../claims.d/CLAIM-tmplgp4k.md) complements [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md). The links resolve, and
   the superseded CLAIMs name their successors.
 - **ARG's `rests_on`** still takes only CLAIMs. An argument resting on a
   synthesis as a premise has not been needed yet.
