@@ -6,5 +6,5 @@
 
 ### Changed
 
-- CLAIM's `superseded_by` accepts a SYNTHESIS.
+- CLAIM's `superseded_by` accepts a SYNTHESIS, and ARG's `concludes` does too, with `argued_by` as its converse. The two ARGs that concluded the moved claims now conclude their syntheses.
 - The `read-and-file` skill's step 9b files an admitted synthesis as a SYNTHESIS.

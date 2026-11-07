@@ -21,6 +21,7 @@ summary: >-
   the component when the page is built. The five syntheses filed from
   "Individuation, Possibility, and Disposition" are moved into it as the
   demonstration, and their CLAIMs are Superseded by the new entries.
+  ARG's `concludes` accepts a synthesis.
   Rejected: a route field on CLAIM; a CLAIM-only status vocabulary; DP's
   document rendering; the status quo.
 ---
@@ -82,6 +83,10 @@ it strained four ways.
     without, CLAIMs or other syntheses. **`bears_on`:** questions.
     **`supersedes` and `superseded_by`:** between syntheses, and from the
     CLAIMs a synthesis replaces. CLAIM's `superseded_by` accepts SYNTHESIS.
+  - **`argued_by`:** the ARGs concluding it. ARG's `concludes` accepts a
+    SYNTHESIS, so an argument for or against an integration is filed
+    against the integration, under step 10's rule for load-bearing or
+    contested support.
 - **Components' standing is derived, never copied ([DP-2](../../docs/design-principles.md#dp-2)).** The voice of
   each component, which no field records, stays in the body. Its status is
   read from the component.
@@ -131,12 +136,11 @@ it strained four ways.
 
 ## Consequences
 
-- **ARGs about syntheses.** ARG's `rests_on` and `concludes` accept only
-  CLAIMs. Two ARGs from [#422](https://github.com/dmarx/nucleation/issues/422) conclude claims now superseded:
-  [ARG-tmpvxtof](../arguments.d/ARG-tmpvxtof.md) concludes [CLAIM-tmpcdshj](../claims.d/CLAIM-tmpcdshj.md), and [ARG-tmp0fc4y](../arguments.d/ARG-tmp0fc4y.md) concludes
-  [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md). They still resolve. Letting ARG conclude a SYNTHESIS,
-  with `argued_by` on SYNTHESIS, is a follow-up, to be done when an ARG
-  is first filed against a synthesis.
+- **ARGs about syntheses.** The two ARGs from #422 that concluded
+  synthesis claims now conclude the syntheses: ARG-tmpvxtof concludes
+  SYNTHESIS-tmp46moy, and ARG-tmp0fc4y concludes SYNTHESIS-tmp73anp. ARG's
+  `rests_on` still takes only CLAIMs. An argument resting on a synthesis
+  as a premise has not been needed yet.
 - **The sweep.** [CLAIM-545](../claims.d/CLAIM-545.md) and the syntheses left unaudited in earlier
   filings ([ADR-tmpe7y42](ADR-tmpe7y42.md)'s Context) are audited and, where admitted, moved
   into the scheme in a contribution of their own.

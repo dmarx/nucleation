@@ -1,12 +1,19 @@
 ---
 status: Proposed
 title: 'A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Concludes SYNTHESIS-tmp73anp, the synthesis CLAIM-tmptfuky was moved
+    into (ADR-tmptu1vn), now that an ARG may conclude a SYNTHESIS. The
+    argument is unchanged.
 form: existence
 grounds:
 - CASE-tmppdl5x
 concludes:
-- CLAIM-tmptfuky
+- SYNTHESIS-tmp73anp
 tags:
 - ethics
 - self-governance
@@ -18,15 +25,17 @@ summary: >-
   From A's (ChatGPT's) item 3 of its review of the pull request
   dmarx/nucleation#422, pasted by the owner on 2026-11-07 and accepted as
   written. The inference from the matched-harm construction of
-  [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md) to [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s non-reducibility: the second-order
+  [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md) to SYNTHESIS-tmp73anp's non-reducibility: the second-order
   wrong is not the first-order harm or its continuation under another
   description. Proposed. The case is coherent and separates the harm, the
   breach of a justified procedural duty and the reproduction of the
   breach, but only given the stipulated duty, so the conclusion it
-  supports is [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s conditional one. The wording is A's;
+  supports is SYNTHESIS-tmp73anp's conditional one. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmptfuky CASE-tmppdl5x — filed from the same exchange and its review, Proposed; the conclusion and the construction -->
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Superseded -->
+<!-- inactive-ok-file: SYNTHESIS-tmp73anp CASE-tmppdl5x — filed from the same exchange and its review, Proposed; the conclusion and the construction -->
 <!-- inactive-ok-file: CLAIM-511 — Proposed; the unconditional duty the record disclaims, cited with its standing -->
 
 # ARG-tmp0fc4y: A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation
@@ -49,7 +58,7 @@ summary: >-
 4. So, given such a duty, there is a wrong of B's beyond its first-order
    harm and beyond that harm's continuation, and a further feature,
    reproduction, beyond the breach. That is the separation
-   [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s first defeater asks for, and the claim's layer 6: "a
+   SYNTHESIS-tmp73anp's first defeater asks for, and the claim's layer 6: "a
    second-order wrong need not always be reducible to this loss
    difference". With the later harm stipulated equal, the loss difference
    between A and B is zero while the wrong is not.
@@ -65,7 +74,7 @@ summary: >-
   B's missing procedure would raise the risk of later harm, and the
   difference could be read as a difference in expected loss after all.
 - **Does it separate the very things the conclusion says can come
-  apart?** Yes, for the conclusion as [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md) states it: a wrong
+  apart?** Yes, for the conclusion as SYNTHESIS-tmp73anp states it: a wrong
   that "is not reducible to the loss it causes" and is a verdict "only
   given an independently justified standard and a feasible alternative".
   The case holds the first-order harm and the expected loss fixed and
@@ -92,4 +101,4 @@ non-reducibility needs, on its stipulated duty.
   ([QUESTION-129](../questions.d/QUESTION-129.md) for which standards justify one).
 - That the reproduction is a wrong over and above the breach it sustains.
   The case shows it is a further feature; that it aggravates the wrong is
-  [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md)'s grades (layer 8), not something the case decides.
+  SYNTHESIS-tmp73anp's grades (layer 8), not something the case decides.

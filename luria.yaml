@@ -1552,8 +1552,8 @@ schemes:
         label: Concludes
         blurb: the claim or claims the inference arrives at. One inference may conclude several
           theses when the same premises bear on each in the same way, so that one verdict is filed once
-          (ADR-061)
-        scheme: CLAIM
+          (ADR-061), or the synthesis whose integration it argues (ADR-tmptu1vn)
+        scheme: [CLAIM, SYNTHESIS]
         required: true
         many: true
         converse: argued_by
@@ -1675,6 +1675,14 @@ schemes:
         scheme: [CLAIM, SYNTHESIS]
         required: false
         many: true
+      argued_by:
+        label: Argued by
+        blurb: the arguments concluding this synthesis, written by `luria link --fix` from their
+          `concludes`
+        scheme: ARG
+        required: false
+        many: true
+        converse: concludes
       bears_on:
         label: Bears on
         blurb: a question the synthesis bears on
