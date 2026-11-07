@@ -1,394 +1,181 @@
 ---
 status: Proposed
-title: 'An argument developed with collaborators who keep no memory goes wrong at identity, settles only on structures that persist and can be pointed at, and is worth filing where later reuse repays it; what a record of it can secure is traceable change, not preservation, and its current conclusions do not fix its revisions; and the record that keeps it is itself an apparatus that its own inquiry revises'
-version: 1
+title: 'Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Restructured before merge, at the owner's review: version 1 was the
+    unadmitted account of the whole line before it was split (ADR-
+    tmpyb8vm). Its parts are now the accounts SYNTHESIS-tmp7nvem,
+    SYNTHESIS-tmp5p7lm and SYNTHESIS-tmp9cgig, and the two new lines'
+    accounts SYNTHESIS-tmpnakke and SYNTHESIS-tmp4csi2. Version 2 is the
+    line's synthesis over its three parts, admitted by derivation; its
+    regime is corrected to F ≥ 2d.
 role: thesis
-admission: unadmitted
-warrant: interpretive
+admission: admitted
+route: derived
+warrant: demonstrated
 defeated_if: >-
-  As an account, not by a route: a component misstated or misattributed
-  here; an in-force component whose line is nucleating-argument left out
-  without a reason given; or a link this account states that no component
-  states. Its standing is its components': a component retired or demoted
-  takes its clause with it, and nothing here holds the clause up.
+  An error in the derivation or a premise it needs: CLAIM-308's rule does
+  not file at use ⌊F/d⌋ + 1, or its identification of ADR-032's rule with
+  the break-even rule when F is about d is wrong, so that the two rules do
+  not part at F ≥ 2d; or a reconstruction counted as a use before filing
+  cannot redefine silently, for instance because counting it needs a
+  record that already anchors it (CLAIM-182), so that nothing between the
+  two filing times is unanchored; or CLAIM-176's premise fails, that each
+  failure CLAIM-177 lists needs a second occurrence and coding at it
+  catches each one the first time it can happen. Also defeated as a
+  synthesis of its own if a component or note already states that the
+  break-even rule leaves drift unpriced, or if it only places CLAIM-176
+  beside CLAIM-308.
 tags:
 - design-rationale
 - epistemology
-- philosophy-of-science
 date: '2026-11-07'
 line:
 - nucleating-argument
 integrates:
+- SYNTHESIS-tmp7nvem
+- SYNTHESIS-tmp5p7lm
+- SYNTHESIS-tmp9cgig
 - CLAIM-176
 - CLAIM-177
-- CLAIM-178
-- CLAIM-179
-- CLAIM-180
-- CLAIM-181
-- CLAIM-182
-- CLAIM-183
-- CLAIM-184
 - CLAIM-185
 - CLAIM-186
-- CLAIM-189
-- CLAIM-191
-- CLAIM-192
-- CLAIM-195
-- CLAIM-250
-- CLAIM-292
-- CLAIM-293
-- CLAIM-294
-- CLAIM-295
-- CLAIM-299
-- CLAIM-300
-- CLAIM-301
 - CLAIM-303
 - CLAIM-308
-- CLAIM-314
-- CLAIM-324
-- CLAIM-419
-- CLAIM-469
-- CLAIM-470
-- CLAIM-472
-- CLAIM-475
-- CLAIM-476
-- CLAIM-479
-- CLAIM-483
-- CLAIM-595
-- TERM-052
-- TERM-056
-- TERM-087
-- TERM-089
-- TERM-091
-- TERM-092
-- TERM-095
-- TERM-117
-- CASE-082
-- CASE-084
-- CASE-086
-- CASE-088
-- CASE-089
-- CASE-090
-- CASE-091
-- CASE-093
-- CASE-131
-- CASE-178
-- CASE-180
-- CASE-183
-- ARG-028
-- QUESTION-037
-- QUESTION-038
-- QUESTION-064
-- QUESTION-072
-- QUESTION-098
-- QUESTION-099
-- QUESTION-105
-- QUESTION-107
-- QUESTION-108
-- QUESTION-109
-- QUESTION-112
-- QUESTION-172
-- QUESTION-188
-- QUESTION-201
-- QUESTION-225
-- QUESTION-229
-- QUESTION-237
-- QUESTION-258
-- QUESTION-288
-- QUESTION-289
-- QUESTION-366
+premises:
+- CLAIM-176
+- CLAIM-308
+- CLAIM-177
 bears_on:
-- QUESTION-037
-- QUESTION-038
 - QUESTION-098
-- QUESTION-105
-- QUESTION-112
-- QUESTION-366
+- QUESTION-037
 summary: >-
-  The nucleating-argument line's account, restated from its components so
-  that it has an address: identity drift in memoryless collaboration
-  ([CLAIM-177](../claims.d/CLAIM-177.md)), persistence and addressability as what an argument settles
-  on ([CLAIM-185](../claims.d/CLAIM-185.md), [CLAIM-182](../claims.d/CLAIM-182.md)), the costs and price of anchoring ([CLAIM-184](../claims.d/CLAIM-184.md),
-  [CLAIM-303](../claims.d/CLAIM-303.md)), traceable change as what a record of it can secure, beside
-  what current conclusions cannot fix ([CLAIM-189](../claims.d/CLAIM-189.md), [CLAIM-294](../claims.d/CLAIM-294.md), [CLAIM-299](../claims.d/CLAIM-299.md),
-  [CLAIM-295](../claims.d/CLAIM-295.md)), and the record as an apparatus its inquiry revises
-  ([CLAIM-469](../claims.d/CLAIM-469.md), [CLAIM-419](../claims.d/CLAIM-419.md)). Unadmitted: three synthesis reviews of
-  2026-11-07 found each of its integrations already stated in a
-  component's body or notes. Of its 33 CLAIMs 11 are Active and 22
-  Proposed, so most of the account is Proposed. The account's wording is
-  the assistant's (Claude, in this session); it states what the record
-  holds and adds nothing to it; adopting it is the owner's call.
+  The nucleating-argument line's synthesis, over the accounts of its three
+  parts: drift (SYNTHESIS-tmp7nvem), anchors (SYNTHESIS-tmp5p7lm) and the
+  costs of anchoring (SYNTHESIS-tmp9cgig). It joins the anchors part's
+  reason for coding at the second occurrence, CLAIM-176's that the drift
+  CLAIM-177 records needs a second occurrence, to the costs part's break-
+  even rule, CLAIM-308's, which files at use ⌊F/d⌋ + 1 and so matches the
+  second-occurrence rule only while filing costs between one and two
+  reconstructions' overpayment. When filing costs more, the cost rule
+  files later, and the reconstructions it pays for in between are where
+  redefinition creeps in; no term of its guarantee prices them. Admitted
+  by derivation; its premises CLAIM-176 and CLAIM-308 are Proposed and
+  CLAIM-177 is Active. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-028 CLAIM-176 CLAIM-178 CLAIM-179 CLAIM-180 CLAIM-181 CLAIM-182 CLAIM-183 CLAIM-184 CLAIM-185 CLAIM-186 CLAIM-189 CLAIM-191 CLAIM-192 CLAIM-250 CLAIM-295 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-314 CLAIM-472 CLAIM-476 CLAIM-483 TERM-087 — Proposed; components and citations, with their standing -->
-<!-- inactive-ok-file: CLAIM-190 — Superseded; components and citations, with their standing -->
-<!-- inactive-ok-file: QUESTION-288 QUESTION-289 — Answered; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-tmpyb8vm ADR-tmpyihxy CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-303 CLAIM-308 SYNTHESIS-tmp4csi2 SYNTHESIS-tmp5p7lm SYNTHESIS-tmp7nvem SYNTHESIS-tmp9cgig SYNTHESIS-tmpnakke — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmpllsy7: An argument developed with collaborators who keep no memory goes wrong at identity, settles only on structures that persist and can be pointed at, and is worth filing where later reuse repays it; what a record of it can secure is traceable change, not preservation, and its current conclusions do not fix its revisions; and the record that keeps it is itself an apparatus that its own inquiry revises
+# SYNTHESIS-tmpllsy7: Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them
 
-## The account
+*The synthesis of the nucleating-argument line, over the syntheses of its three parts (ADR-tmpyihxy, version 2). Its version 1 was the unadmitted account of the whole line before the line was split (ADR-tmpyb8vm).*
 
-In the record's exchanges with collaborators who keep no memory, the
-argument loses identity: concepts are redefined silently, objections and
-readings come back as though new, and the thesis moves with no turn
-arguing it ([CLAIM-177](../claims.d/CLAIM-177.md), [CLAIM-324](../claims.d/CLAIM-324.md)); that this, and not missing structure,
-is the main failure beyond one owner and one assistant family is
-Proposed ([CLAIM-483](../claims.d/CLAIM-483.md)). An argument's nucleation threshold is whatever
-makes a structure persist, because later structure grows only on anchors
-([CLAIM-185](../claims.d/CLAIM-185.md)). What persisting means is fixed by the record's amendable
-decision ([CLAIM-195](../claims.d/CLAIM-195.md)), recurrence is the trigger the record is built
-around ([CLAIM-176](../claims.d/CLAIM-176.md)), and what turns a kept structure into an anchor is
-that its parts can be pointed at ([CLAIM-182](../claims.d/CLAIM-182.md)): a memoryless collaborator
-retrieves by content and a code by name ([CLAIM-180](../claims.d/CLAIM-180.md)), which restores
-continuity of transmission ([CLAIM-191](../claims.d/CLAIM-191.md)). Drift is held to track how fast
-material arrives against how fast it is anchored ([CLAIM-186](../claims.d/CLAIM-186.md)). Anchoring
-has costs: early anchors can entrench ([CLAIM-184](../claims.d/CLAIM-184.md)), and iterative
-retrieval can turn a framing into a premise ([CLAIM-301](../claims.d/CLAIM-301.md)), though adaptive
-search is not biased in itself ([CLAIM-292](../claims.d/CLAIM-292.md)). Filing is worth what reuse
-repays ([CLAIM-303](../claims.d/CLAIM-303.md)); where reuse cannot be forecast, recurrence weighted
-by reconstruction cost is the criterion ([CLAIM-308](../claims.d/CLAIM-308.md)), and recognizing
-what a filed argument answers has a cost that grows with what is stored
-([CLAIM-314](../claims.d/CLAIM-314.md)). What a record of a developing argument can secure is
-traceable change, not preservation ([CLAIM-189](../claims.d/CLAIM-189.md)), over its accountability
-structure ([CLAIM-250](../claims.d/CLAIM-250.md)); current conclusions do not fix revisions, though
-a richer current state can, with no history ([CLAIM-294](../claims.d/CLAIM-294.md)), sufficiency,
-accountability and correctness come apart ([CLAIM-299](../claims.d/CLAIM-299.md)), and what kept
-justifications can buy is a wider family of decisions and decisions a
-bounded agent could not otherwise make ([CLAIM-295](../claims.d/CLAIM-295.md)). A manuscript is a
-view checked against such a record ([CLAIM-178](../claims.d/CLAIM-178.md)). The record that does
-this is an apparatus in the operational sense ([CLAIM-469](../claims.d/CLAIM-469.md)): its grammar
-is fixed at any moment ([CLAIM-181](../claims.d/CLAIM-181.md)) and has repeatedly been amended when
-a misfit was noticed ([CLAIM-419](../claims.d/CLAIM-419.md)), its typed relations are more rigid
-than their relata without being sound for it ([CLAIM-479](../claims.d/CLAIM-479.md)), and its
-revising of its own grammar by decision illustrates inquiry as
-specification ([CLAIM-470](../claims.d/CLAIM-470.md), through [CASE-178](../cases.d/CASE-178.md)), which specifying under
-resource bounds extends ([CLAIM-475](../claims.d/CLAIM-475.md)). That it constitutes its objects in
-Barad's sense is Proposed ([CLAIM-476](../claims.d/CLAIM-476.md)).
+## The integration
 
-[QUESTION-037](../questions.d/QUESTION-037.md)'s body names the candidate answer this account expands:
-"[CLAIM-177](../claims.d/CLAIM-177.md), [CLAIM-185](../claims.d/CLAIM-185.md) and [CLAIM-178](../claims.d/CLAIM-178.md) taken together, with [CLAIM-176](../claims.d/CLAIM-176.md) as the
-record's own trigger of persistence", with [CLAIM-181](../claims.d/CLAIM-181.md) as "The objection to
-watch". The order of its first five clauses is the assistant's reading of
-the owner's title in the workbench entry of 2026-10-11 (075607).
+ADR-032's rule, coding a thing the second time it turns up, has two
+justifications on the record, from different parts of the line.
 
-## Drift: what goes wrong is identity
+- **Drift-catching, from the anchors part (SYNTHESIS-tmp5p7lm) and the drift
+  part (SYNTHESIS-tmp7nvem).** CLAIM-176: "Every failure CLAIM-177 lists needs
+  a second occurrence, so coding at the second occurrence catches each
+  failure the first time it could happen." The mechanism is CLAIM-186's: "proposals that are never coded have to
+  be restated, and restating is where redefinition creeps in". CLAIM-185 says
+  the same of "A claim with no persistent premise". CLAIM-176's own defeater
+  compares rules by drift for a given filing cost, so it treats drift and
+  cost as separate axes.
+- **Cost, from the costs part (SYNTHESIS-tmp9cgig).** CLAIM-308 prices filing
+  at F against an overpayment d per reconstruction. Its rule "reconstructs k
+  = ⌊F/d⌋ times and files at use k + 1", and "ADR-032's second-occurrence rule
+  is the break-even rule when F is about one reconstruction's overpayment".
 
-The record's observation is that memoryless collaboration loses the
-identity of what was said, not its structure; the comparative and general
-form is Proposed, and two readings of drift sit beside it.
+**The derivation.**
 
-- [CLAIM-177](../claims.d/CLAIM-177.md), the record's finding ([ADR-032](../decisions.d/ADR-032.md)'s readers; workbench
-  reconstructions), thesis, empirical, Active.
-- [CLAIM-324](../claims.d/CLAIM-324.md), the record's (workbench reconstructions of the translation
-  exchange), thesis, empirical, Active: the case [CLAIM-178](../claims.d/CLAIM-178.md) argues from.
-- [CLAIM-483](../claims.d/CLAIM-483.md), the record's (split from [CLAIM-177](../claims.d/CLAIM-177.md) version 1), thesis,
-  empirical, Proposed: identity over structure, and beyond one owner.
-- [CLAIM-180](../claims.d/CLAIM-180.md), the assistant's (filed at the owner's request), thesis,
-  interpretive, Proposed: drift as retrieval failure outside a critical
-  distance; rests on [CLAIM-177](../claims.d/CLAIM-177.md) and [CLAIM-182](../claims.d/CLAIM-182.md).
-- [CLAIM-191](../claims.d/CLAIM-191.md), the assistant's (from a synthesis review), thesis,
-  interpretive, Proposed: drift as iterated transport toward the
-  collaborators' framings. Its body says [CLAIM-180](../claims.d/CLAIM-180.md)'s reading "by itself
-  has no direction".
-- [CLAIM-192](../claims.d/CLAIM-192.md), the assistant's (from the synthesis review), thesis,
-  interpretive, Proposed: an unargued thesis move as an organized whole's
-  course coming apart from its members' ([CLAIM-030](../claims.d/CLAIM-030.md)); its own defeater is
-  the owner's unrecorded change of mind.
-- [TERM-052](../terms.d/TERM-052.md), the owner's term, Active: a crystallized argument is a
-  readout, and "Maturing drops things legitimately".
-- [TERM-056](../terms.d/TERM-056.md), A's (A21), Active: question drift, distinct from query drift
-  and from [CLAIM-177](../claims.d/CLAIM-177.md)'s concept drift.
-- [QUESTION-037](../questions.d/QUESTION-037.md), the assistant's reading of the owner's title, Open; the
-  line's root question.
-- [QUESTION-099](../questions.d/QUESTION-099.md), A's (A14), Open: history recoverable in principle but
-  infeasible to reconstruct, offered as a further reading of [CLAIM-191](../claims.d/CLAIM-191.md).
+1. The second-occurrence rule files at use 2. The break-even rule files at
+   use ⌊F/d⌋ + 1. The two coincide exactly when ⌊F/d⌋ = 1, that is, for
+   d ≤ F < 2d, which is CLAIM-308's case of F about d.
+2. For F ≥ 2d, ⌊F/d⌋ ≥ 2, so the break-even rule reconstructs at the second
+   occurrence and at every use up to the ⌊F/d⌋-th with nothing filed.
+3. Each of those reconstructions is a restatement with no persistent premise
+   to check it against, which CLAIM-185 and CLAIM-186 name as where
+   redefinition creeps in. Counting a reconstruction as a recurrence
+   does not stop that: CLAIM-177's redefinitions were of things recognized
+   as the same ("will" redefined five or more times). Recognition guards
+   only against an item being re-derived as though new.
+4. So for F ≥ 2d the break-even rule leaves open, at each item reused that
+   often, failures that the second-occurrence rule catches the first time
+   they can happen. The two rules choose different filing times exactly when
+   filing is that dear.
+5. CLAIM-308's guarantee is stated over F, c_r, c_a and u, with staleness
+   left out. A silently redefined reconstruction costs the same effort as a
+   faithful one, so no term prices it. The guarantee bounds effort, not
+   drift: the drift the second-occurrence rule catches and the break-even
+   rule does not lies outside it.
+6. For F < d, ⌊F/d⌋ = 0 and the break-even rule files at the first use,
+   sooner than the second-occurrence rule. The two then part only on
+   ADR-032's throttle, which CLAIM-308 sets aside ("Anything about ADR-032's
+   other reason").
 
-## Anchors: what an argument settles on
+**Consequences.**
 
-Persistence is the threshold and addressability what makes a kept
-structure an anchor; the line's own measures were proposed to test this,
-and one has since been counted.
+- CLAIM-308's title clause, that recurrence weighted by reconstruction cost
+  "is the filing criterion, not only evidence for one", holds for effort.
+  For a record whose reason for the rule is CLAIM-176's, it is not the whole
+  criterion.
+- The same holds for CLAIM-303. It prices reusing a stale filed argument
+  ("the cost of incorrectly reusing an obsolete argument may exceed the cost
+  of recomputing it"), not reconstructing an unfiled one wrongly.
+- It answers part of QUESTION-098: when filing is dear, a cost rule
+  under-files relative to drift.
+- Folding drift into c_r would keep CLAIM-308's guarantee only if drift had a
+  fixed, known cost per restatement, which no component states.
 
-- [CLAIM-185](../claims.d/CLAIM-185.md), the owner's reframing, thesis, interpretive, Proposed. Its
-  notes carry the line's links: viability's constraint set (2026-10-11),
-  persistence is not correctness ([CLAIM-075](../claims.d/CLAIM-075.md)), and, on 2026-11-05 and
-  2026-11-06, that persistence is not productivity: "a persisting trap is
-  still built on".
-- [CLAIM-176](../claims.d/CLAIM-176.md), the assistant's reading of [ADR-032](../decisions.d/ADR-032.md)'s rule, thesis,
-  interpretive, Proposed: recurrence as one trigger of persistence.
-- [CLAIM-182](../claims.d/CLAIM-182.md), the assistant's (at the owner's request), thesis, empirical,
-  Proposed: storage is not anchoring, addressability is.
-- [CLAIM-195](../claims.d/CLAIM-195.md), the record's (filing workbench notes of 2026-10-11), thesis,
-  interpretive, Active: the constraint set persistence is relative to is
-  stipulated by amendable decision.
-- [CLAIM-186](../claims.d/CLAIM-186.md), the assistant's (at the owner's request), thesis,
-  interpretive, Proposed: drift tracks arrival against anchoring.
-- [CLAIM-595](../claims.d/CLAIM-595.md), A's with the assistant's general reason (primary line
-  realizability), thesis, demonstrated, Active; and [TERM-117](../terms.d/TERM-117.md), A's
-  (primary line realizability), Active: persistence and productivity vary
-  independently, and a productive nucleus is judged against a comparator.
-- [QUESTION-038](../questions.d/QUESTION-038.md), raised by the owner's reframing, Open. Its note of
-  2026-11-07 keeps addressability as the standing candidate for the
-  question as asked, and [TERM-117](../terms.d/TERM-117.md) and [CLAIM-595](../claims.d/CLAIM-595.md) for its refinement.
-- [QUESTION-064](../questions.d/QUESTION-064.md), the record's (from Clark and Chalmers), Open: does an
-  anchor need endorsement.
-- [CASE-183](../cases.d/CASE-183.md), the record's proposed study, Active: inbound references per
-  code and turns per filed entry.
-- [ARG-028](../arguments.d/ARG-028.md), the record's (from [CLAIM-190](../claims.d/CLAIM-190.md) by the [ADR-061](../decisions.d/ADR-061.md) migration),
-  Proposed: whether measures counted in the record's grammar can show
-  anchoring.
-- [QUESTION-201](../questions.d/QUESTION-201.md), a promotion condition moved from [THEORY-272](../theory.d/THEORY-272.md) (Hopfield),
-  Open; [THEORY-272](../theory.d/THEORY-272.md) corrects [CLAIM-180](../claims.d/CLAIM-180.md)'s capacity point.
+## The line it sits in
 
-## The costs and price of anchoring
+The three part accounts state the rest of the line. Drift
+(SYNTHESIS-tmp7nvem) says what fails at a restatement. Anchors
+(SYNTHESIS-tmp5p7lm) says that coding at the second occurrence stops it. Costs
+(SYNTHESIS-tmp9cgig) says when filing pays. This synthesis is where they meet.
+The line's other two former parts are now lines of their own, with accounts
+SYNTHESIS-tmpnakke and SYNTHESIS-tmp4csi2.
 
-What lets structure grow can lock it in, and filing is a trade of work
-now against reconstruction later.
+## Admission
 
-- [CLAIM-184](../claims.d/CLAIM-184.md), the assistant's (at the owner's request), counter,
-  interpretive, Proposed: anchors entrench. Its note of 2026-11-06 finds
-  superseded anchors stop attracting new structure on this record; its
-  first half and [TERM-020](../terms.d/TERM-020.md)'s loop are unshown.
-- [CLAIM-301](../claims.d/CLAIM-301.md), A's (A21), thesis, interpretive, Proposed: retrieval can turn
-  a provisional interpretation into a premise. Its body reads the exchange's
-  drift from A2 to A14 as "the drift [CLAIM-191](../claims.d/CLAIM-191.md) predicts".
-- [CLAIM-292](../claims.d/CLAIM-292.md), A's (A21), granted, demonstrated, Active, against [CLAIM-301](../claims.d/CLAIM-301.md).
-- [QUESTION-109](../questions.d/QUESTION-109.md), A's (A20), Open: when cue-dependent retrieval helps and
-  when it entrenches; its body sets [CLAIM-184](../claims.d/CLAIM-184.md)'s cost against [CLAIM-182](../claims.d/CLAIM-182.md)'s
-  benefit. [QUESTION-107](../questions.d/QUESTION-107.md), A's (A21), Open, refines it.
-- [QUESTION-172](../questions.d/QUESTION-172.md), a promotion condition moved from [THEORY-178](../theory.d/THEORY-178.md), Open; filed
-  in the line because [CLAIM-184](../claims.d/CLAIM-184.md) grounds on [THEORY-178](../theory.d/THEORY-178.md).
-- [CLAIM-179](../claims.d/CLAIM-179.md), the assistant's, thesis, interpretive, Proposed: agent filing
-  moves the cost of capture to the party that would re-derive.
-- [CLAIM-303](../claims.d/CLAIM-303.md), A's (A11, at the owner's request), thesis, interpretive,
-  Proposed: "recurrence is evidence of reuse, not the criterion". Its body
-  sets it beside [CLAIM-185](../claims.d/CLAIM-185.md): the threshold says what persists, this says
-  what makes persisting worth it.
-- [CLAIM-308](../claims.d/CLAIM-308.md), filed at the owner's request from [THEORY-348](../theory.d/THEORY-348.md), counter,
-  demonstrated, Proposed, against [CLAIM-303](../claims.d/CLAIM-303.md); it concedes [CLAIM-314](../claims.d/CLAIM-314.md).
-- [CLAIM-314](../claims.d/CLAIM-314.md), filed at the owner's request from the readings on views,
-  counter, interpretive, Proposed, against [CLAIM-308](../claims.d/CLAIM-308.md).
-- [CASE-088](../cases.d/CASE-088.md), A's (A11), Active: the arithmetic of [CLAIM-303](../claims.d/CLAIM-303.md), and an anchor
-  that works and does not pay.
-- [QUESTION-098](../questions.d/QUESTION-098.md), the owner's U11 and A11, Open: when filing is worth it.
-- [QUESTION-237](../questions.d/QUESTION-237.md), a promotion condition moved from [THEORY-376](../theory.d/THEORY-376.md), Open; no
-  component states which claim it bears on.
+Derived route (ADR-075 step 5).
 
-## What a record of a developing argument keeps, and what that buys
+- **Valid.** It follows from CLAIM-308's own statement of the rule and its
+  regime, CLAIM-176's statement of what the second-occurrence code catches,
+  and CLAIM-177's kind of failure.
+- **Nontrivial.** Two justifications the record gives for one rule recommend
+  different filing times in a stated regime, and CLAIM-308's title clause is
+  limited by it.
+- **Not held.** CLAIM-308's disclaimers name staleness, drifting costs,
+  recognition and the throttle, not drift. CLAIM-176 never mentions the
+  break-even rule. No entry joins the two; the reader searched record/ on
+  2026-11-07.
+- **Corrected at filing.** The reader's draft put the parting at F greater
+  than about d. By CLAIM-308's own formula the rules coincide for
+  d ≤ F < 2d, and part from F ≥ 2d.
 
-A record cannot secure preservation, since maturing drops things; it can
-secure traceable change over the argument's accountability structure,
-and the demonstrated cases say what that is and is not worth.
-
-- [CLAIM-178](../claims.d/CLAIM-178.md), the assistant's, thesis, interpretive, Proposed: a manuscript
-  is a view over the argument, not its only copy.
-- [CLAIM-189](../claims.d/CLAIM-189.md), the assistant's (filed with [CLAIM-191](../claims.d/CLAIM-191.md) as its counter),
-  counter, interpretive, Proposed: what a record secures is traceability,
-  "change that is announced and located, not preservation".
-- [CLAIM-250](../claims.d/CLAIM-250.md), the interlocutor's reading relayed by the owner, thesis,
-  interpretive, Proposed: the fidelity object is the accountability
-  structure. Its note of 2026-10-15 places [CLAIM-294](../claims.d/CLAIM-294.md), [CLAIM-300](../claims.d/CLAIM-300.md),
-  [CLAIM-293](../claims.d/CLAIM-293.md), [CLAIM-299](../claims.d/CLAIM-299.md) and [CLAIM-295](../claims.d/CLAIM-295.md) against it.
-- [CLAIM-294](../claims.d/CLAIM-294.md), A's (A5, A8), thesis, demonstrated, Active.
-- [CLAIM-300](../claims.d/CLAIM-300.md), A's (A10; primary line formal-apparatus), thesis,
-  demonstrated, Active.
-- [CLAIM-293](../claims.d/CLAIM-293.md), A's (A6; primary line formal-apparatus), granted,
-  demonstrated, Active: topology does not fix revision.
-- [CLAIM-299](../claims.d/CLAIM-299.md), A's (A8, A5), thesis, demonstrated, Active.
-- [CLAIM-295](../claims.d/CLAIM-295.md), A's (A10), thesis, interpretive, Proposed: "justificatory
-  history is not extra information beyond a sufficient state", and its
-  value is a wider decision family or feasibility.
-- [CASE-082](../cases.d/CASE-082.md), [CASE-084](../cases.d/CASE-084.md), [CASE-089](../cases.d/CASE-089.md), [CASE-091](../cases.d/CASE-091.md) and [CASE-093](../cases.d/CASE-093.md), A's (A6), Active;
-  [CASE-086](../cases.d/CASE-086.md) and [CASE-090](../cases.d/CASE-090.md), A's (A7), Active.
-- [QUESTION-289](../questions.d/QUESTION-289.md) and [QUESTION-288](../questions.d/QUESTION-288.md), Answered (by [CLAIM-294](../claims.d/CLAIM-294.md) with [THEORY-347](../theory.d/THEORY-347.md)
-  and [THEORY-353](../theory.d/THEORY-353.md), and by [CLAIM-300](../claims.d/CLAIM-300.md)).
-- [QUESTION-105](../questions.d/QUESTION-105.md), A's (A5, A2, A4), Open, with [QUESTION-188](../questions.d/QUESTION-188.md) and
-  [QUESTION-225](../questions.d/QUESTION-225.md), promotion conditions refining it, Open.
-- [QUESTION-108](../questions.d/QUESTION-108.md), A's (A5), Open; [QUESTION-112](../questions.d/QUESTION-112.md), the owner's U10 on A8,
-  Open.
-- [QUESTION-258](../questions.d/QUESTION-258.md), the owner's (U3), Open: what a manuscript's choice of
-  claims should preserve.
-- [QUESTION-229](../questions.d/QUESTION-229.md), a promotion condition moved from [THEORY-548](../theory.d/THEORY-548.md), Open; no
-  component states which claim it bears on.
-
-## The record as its own apparatus
-
-The record's grammar shapes what can anchor, is amended when a misfit is
-caught, and is an apparatus in the operational sense; that it constitutes
-its objects, and what inquiry as specification commits the record to, are
-the open parts.
-
-- [CLAIM-181](../claims.d/CLAIM-181.md), the assistant's, narrowed on the owner's correction, counter,
-  interpretive, Proposed: the record fixes the grammar, not the shape. Its
-  note of 2026-10-11 says "the grammar decides what can anchor".
-- [CLAIM-419](../claims.d/CLAIM-419.md), the owner's (U18), counter, empirical, Active, against
-  [CLAIM-181](../claims.d/CLAIM-181.md): misfits have repeatedly been answered by amending the
-  grammar.
-- [CASE-131](../cases.d/CASE-131.md), the record's documented specimen, Active; [CASE-178](../cases.d/CASE-178.md) and
-  [CASE-180](../cases.d/CASE-180.md), the record's executed studies at the owner's direction,
-  Active.
-- [CLAIM-479](../claims.d/CLAIM-479.md), the owner's (U6), thesis, demonstrated, Active.
-- [CLAIM-469](../claims.d/CLAIM-469.md), the owner's split at review, thesis, demonstrated, Active;
-  rests on [CLAIM-479](../claims.d/CLAIM-479.md) and [CLAIM-419](../claims.d/CLAIM-419.md).
-- [CLAIM-476](../claims.d/CLAIM-476.md), the owner's (U7), thesis, interpretive, Proposed; rests on
-  [CLAIM-469](../claims.d/CLAIM-469.md), [CLAIM-419](../claims.d/CLAIM-419.md), [CLAIM-195](../claims.d/CLAIM-195.md) and [CLAIM-479](../claims.d/CLAIM-479.md).
-- [CLAIM-472](../claims.d/CLAIM-472.md), A's (A6, A10, at the owner's U6), thesis, interpretive,
-  Proposed; rests on [CLAIM-476](../claims.d/CLAIM-476.md).
-- [CLAIM-183](../claims.d/CLAIM-183.md), from A125 of the translation exchange, filed by the
-  assistant, thesis, empirical, Proposed: fed-back views as instruments.
-- [CLAIM-470](../claims.d/CLAIM-470.md), the owner's (U15), thesis, interpretive, Active; its body
-  calls itself the general form of [CLAIM-476](../claims.d/CLAIM-476.md).
-- [CLAIM-475](../claims.d/CLAIM-475.md), the owner's (U17), thesis, interpretive, Active; rests on
-  [CLAIM-470](../claims.d/CLAIM-470.md).
-- [TERM-089](../terms.d/TERM-089.md), A's (A19, A23), adopted by the owner, Active; [TERM-087](../terms.d/TERM-087.md), the
-  exchange's senses (A9 §4), Proposed; [TERM-091](../terms.d/TERM-091.md), the record's, Active; [TERM-092](../terms.d/TERM-092.md), A's (A17),
-  Active; [TERM-095](../terms.d/TERM-095.md), A's tuple (A15, A16), Active.
-- [QUESTION-072](../questions.d/QUESTION-072.md), at the owner's request, Open: whether addressability
-  ([CLAIM-182](../claims.d/CLAIM-182.md)) and the grammar ([CLAIM-181](../claims.d/CLAIM-181.md)) distribute credibility.
-- [QUESTION-366](../questions.d/QUESTION-366.md), the record's (from the Simondon readings), Open; it names
-  [CLAIM-476](../claims.d/CLAIM-476.md)'s unanswered first defeater.
-
-## Not stated on the record
-
-Integrations the components leave open. Each would need admission by a
-route to be filed.
-
-- **One criterion for nucleation.** That a structure nucleates an
-  argument when it persists, is addressable and is reused. The second
-  review found the reuse clause fails on [CLAIM-303](../claims.d/CLAIM-303.md)'s null case ([CASE-088](../cases.d/CASE-088.md)).
-- **The two senses of anchor joined.** Built on ([CLAIM-182](../claims.d/CLAIM-182.md)) and
-  productive ([TERM-117](../terms.d/TERM-117.md), [CLAIM-595](../claims.d/CLAIM-595.md)). [QUESTION-038](../questions.d/QUESTION-038.md)'s note of 2026-11-07:
-  no integration, since the record declares no target, comparator or
-  horizon for an argument.
-- **Keeping the accountability structure as worth its cost.** [CLAIM-250](../claims.d/CLAIM-250.md)
-  with [CLAIM-295](../claims.d/CLAIM-295.md)'s decision family; the third review found "worth
-  keeping" disclaimed or left open, and turning on cost, a free
-  parameter ([CLAIM-295](../claims.d/CLAIM-295.md), [QUESTION-098](../questions.d/QUESTION-098.md)).
-- **Views as what catches grammar misfits.** [CLAIM-183](../claims.d/CLAIM-183.md) joined to
-  [CLAIM-419](../claims.d/CLAIM-419.md); the first review found it against [CASE-178](../cases.d/CASE-178.md), where each
-  refinement came with the documents that needed it.
-- **[CLAIM-186](../claims.d/CLAIM-186.md)'s rates and the grammar's rates as one account.** [CASE-178](../cases.d/CASE-178.md)
-  says the grammar is settling while the record grows; no component
-  reads that as anchoring keeping up with arrival.
-- **[CLAIM-184](../claims.d/CLAIM-184.md)'s count carried to [CLAIM-475](../claims.d/CLAIM-475.md).** [CLAIM-475](../claims.d/CLAIM-475.md) reads its
-  entrenchment clause as [CLAIM-184](../claims.d/CLAIM-184.md)'s, but no entry says whether the count
-  of 2026-11-06 bears on it.
-- **[CLAIM-191](../claims.d/CLAIM-191.md) and [CLAIM-192](../claims.d/CLAIM-192.md) together.** Drift toward the collaborators'
-  framings and a thesis moving apart from every member's intention are
-  not set against each other by either entry.
+Its premises keep their own standing: CLAIM-176 and CLAIM-308 are Proposed,
+and CLAIM-177 is Active.
 
 ## What it does not say
 
-- That the line's theses are tested. Twenty-two of its 33 CLAIMs are
-  Proposed, among them its central thesis, [CLAIM-185](../claims.d/CLAIM-185.md).
-- That measures counted in the record's grammar certify that drift fell
-  ([ARG-028](../arguments.d/ARG-028.md)).
-- That the record is an agent or maintains itself ([CLAIM-192](../claims.d/CLAIM-192.md), [CLAIM-195](../claims.d/CLAIM-195.md),
-  [CLAIM-469](../claims.d/CLAIM-469.md)).
-- That the record constitutes its objects in Barad's sense ([CLAIM-476](../claims.d/CLAIM-476.md) is
-  Proposed).
-- That the crystal, viability or memory models are evidence about
-  arguments; the components cite them as analogy ([CLAIM-185](../claims.d/CLAIM-185.md), [CLAIM-186](../claims.d/CLAIM-186.md),
-  [CLAIM-180](../claims.d/CLAIM-180.md)).
-- That this is the argument of the owner's manuscript: the workbench of
-  2026-10-11 left open "Whether this is the argument the owner meant".
-- Anything with standing of its own.
+- How much drift the break-even rule lets through, or that filing that dear
+  is common on this record. Neither is measured.
+- That the second-occurrence rule is right. It says only that CLAIM-308's
+  guarantee does not cover CLAIM-176's reason for the rule.
+- **Links across the parts it does not make**, each tested and not admitted:
+  - CLAIM-191 with CLAIM-192: a free parameter, what counts as beyond the
+    members;
+  - built-on with productive anchors, and one criterion of persisting, being
+    addressable and being reused: a free parameter, the target, comparator
+    and horizon;
+  - CLAIM-186's damping with CLAIM-595's deadline: the same free parameter;
+  - CLAIM-301's case for CLAIM-192: a scope mismatch, question drift within
+    one exchange;
+  - CASE-183's count as silent on productivity: trivial.
