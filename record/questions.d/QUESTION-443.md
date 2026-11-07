@@ -1,5 +1,8 @@
 ---
+number: 443
 status: Open
+formerly:
+- QUESTION-tmp0eghp
 title: 'Does a chat model''s position along a persona axis follow the latest user message in conversations with human users not chosen by domain, and does its previous position add to the prediction once the message is known, so that a sequential model of persona position predicts held-out trajectories better than both an episode-fixed persona and independent per-turn draws?'
 version: 1
 history:
@@ -25,7 +28,7 @@ summary: >-
   answer it is below.
 ---
 
-# QUESTION-tmp0eghp: Does a chat model's position along a persona axis follow the latest user message in conversations with human users not chosen by domain, and does its previous position add to the prediction once the message is known, so that a sequential model of persona position predicts held-out trajectories better than both an episode-fixed persona and independent per-turn draws?
+# QUESTION-443: Does a chat model's position along a persona axis follow the latest user message in conversations with human users not chosen by domain, and does its previous position add to the prediction once the message is known, so that a sequential model of persona position predicts held-out trajectories better than both an episode-fixed persona and independent per-turn draws?
 
 ## Why it is a question
 
