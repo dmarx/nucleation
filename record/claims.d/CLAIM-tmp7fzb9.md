@@ -76,7 +76,7 @@ organizational nucleation."
 It rests on held claims. [CLAIM-047](CLAIM-047.md): possessing a regime is not the
 same as its being practically effective, so the dissenters' disposition
 can be real while the parent grants it nothing ([CLAIM-283](CLAIM-283.md)). An organization can have several successors, each in a different respect
-(CLAIM-328), and a self's continuity can branch ([CLAIM-287](CLAIM-287.md)), so the fork
+([CLAIM-328](CLAIM-328.md)), and a self's continuity can branch ([CLAIM-287](CLAIM-287.md)), so the fork
 can carry the parent's lineage and still be a different organization. What the claim
 adds is that the two meet: when voice inside the whole is denied a channel,
 building a new whole is a way to efficacy, and the new organization is

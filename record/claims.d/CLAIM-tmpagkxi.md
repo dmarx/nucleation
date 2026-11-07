@@ -46,8 +46,8 @@ summary: >-
   owner's presupposition, filed here as their claim. The owner's word
   "system" names a kind of organization (the owner's correction of
   2026-11-07). The word "counter-normativity" is new to the record and
-  the owner did not define it; what it is, is QUESTION-tmpuveq0. A's
-  answers are CLAIM-tmptfuky and CLAIM-tmplgp4k, which are A's and not
+  the owner did not define it; what it is, is [QUESTION-tmpuveq0](../questions.d/QUESTION-tmpuveq0.md). A's
+  answers are [CLAIM-tmptfuky](CLAIM-tmptfuky.md) and [CLAIM-tmplgp4k](CLAIM-tmplgp4k.md), which are A's and not
   the owner's.
 ---
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form, credited as on the record -->
@@ -70,12 +70,12 @@ The turn asks a question, and the question presupposes a thesis. Its parts:
 1. **The bearer** is a self-maintaining organization. The owner's "system"
    is, in the record's framework, a kind of organization, as an
    institution is. Self-maintaining is meant in the record's sense: its
-   maintenance regenerates its own constraints (TERM-070, CLAIM-516,
-   CLAIM-566).
+   maintenance regenerates its own constraints ([TERM-070](../terms.d/TERM-070.md), [CLAIM-516](CLAIM-516.md),
+   [CLAIM-566](CLAIM-566.md)).
 2. **Two acts.** It harms, and it reproduces the representational
    projections that make the harm non-legible. The projections are the
-   record's coarse-grainings (CLAIM-348, CLAIM-350, CASE-110), and
-   legibility is TERM-064's, which is directed: legible to whom. Because
+   record's coarse-grainings ([CLAIM-348](CLAIM-348.md), [CLAIM-350](CLAIM-350.md), [CASE-110](../cases.d/CASE-110.md)), and
+   legibility is [TERM-064](../terms.d/TERM-064.md)'s, which is directed: legible to whom. Because
    the reproduction is part of the organization's self-maintenance, what
    it keeps going includes the conditions of its own blindness.
 3. **The thesis.** In doing both, the organization commits a
@@ -97,22 +97,22 @@ organizations accordingly.
 The parts are on the record; the wrong is not. That a coarse-graining
 adequate for an organization's performance can merge states its members'
 claims must distinguish, and need not be a false representation, is
-CLAIM-348, with CASE-110 as its case. That a regime can shift the evidence
+[CLAIM-348](CLAIM-348.md), with [CASE-110](../cases.d/CASE-110.md) as its case. That a regime can shift the evidence
 used to judge it and the authority of those who judge it, without bad
-faith, is CLAIM-445 and TERM-020's protective lock-in. That legibility,
+faith, is [CLAIM-445](CLAIM-445.md) and [TERM-020](../terms.d/TERM-020.md)'s protective lock-in. That legibility,
 volitional efficacy and correctability are separate achievements is
-CLAIM-523. What the owner adds is the normative step: reproducing the
-blindness is itself a wrong. CLAIM-tmpnjz70's last clause, that the
+[CLAIM-523](CLAIM-523.md). What the owner adds is the normative step: reproducing the
+blindness is itself a wrong. [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)'s last clause, that the
 activity can remake the concepts and organizations that made it possible,
 is the descriptive base it complements.
 
 ## What it does not say
 
 - What the wrong is. That is the question the owner asked
-  (QUESTION-tmpuveq0). A's answer, a second-order wrong of answerability,
-  is CLAIM-tmptfuky; A's counter-corrective disposition is CLAIM-tmplgp4k.
-- Which standard fixes what counts as harm. That is QUESTION-129, and
-  TERM-059 says the record has not established which standards are
+  ([QUESTION-tmpuveq0](../questions.d/QUESTION-tmpuveq0.md)). A's answer, a second-order wrong of answerability,
+  is [CLAIM-tmptfuky](CLAIM-tmptfuky.md); A's counter-corrective disposition is [CLAIM-tmplgp4k](CLAIM-tmplgp4k.md).
+- Which standard fixes what counts as harm. That is [QUESTION-129](../questions.d/QUESTION-129.md), and
+  [TERM-059](../terms.d/TERM-059.md) says the record has not established which standards are
   admissible.
 - That the organization is an agent, or that each member is culpable
-  (CLAIM-418).
+  ([CLAIM-418](CLAIM-418.md)).

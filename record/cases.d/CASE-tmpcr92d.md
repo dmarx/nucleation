@@ -169,10 +169,10 @@ study until they are checked. To check:
   about a distribution project, "not a transfer of ownership of GIMP
   itself".
 
-A55 says the cases illustrate CLAIM-287; the record's entry for plural
-successors of a collective is CLAIM-328, which this study illustrates. It
+A55 says the cases illustrate [CLAIM-287](../claims.d/CLAIM-287.md); the record's entry for plural
+successors of a collective is [CLAIM-328](../claims.d/CLAIM-328.md), which this study illustrates. It
 says RethinkDB illustrates "the productive-provenance distinction in
-TERM-100"; TERM-100's senses are formation, maintenance and source
+[TERM-100](../terms.d/TERM-100.md)"; [TERM-100](../terms.d/TERM-100.md)'s senses are formation, maintenance and source
 provenance, and in those terms RethinkDB's code keeps its formation
 provenance (the company) and moves its maintenance provenance (the
 community). That reading is the reader's.

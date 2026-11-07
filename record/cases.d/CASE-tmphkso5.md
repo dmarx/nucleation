@@ -75,13 +75,13 @@ prevents it from influencing the classification." "Under ordinary
 conditions, the systems have matching judgments. Under an intervention on
 revision authority, their responses diverge." Holding recognition fixed
 and intervening on authority alone tells a difference in what a community
-can see from a difference in who may act on it. It is CLAIM-414's part 1,
+can see from a difference in who may act on it. It is [CLAIM-414](../claims.d/CLAIM-414.md)'s part 1,
 efficacy allocated differently under matched ordinary output, at the level
-of a concept, and CLAIM-407's hidden governance (CASE-125). A: "**What it
+of a concept, and [CLAIM-407](../claims.d/CLAIM-407.md)'s hidden governance ([CASE-125](CASE-125.md)). A: "**What it
 doesn't show:** that the two systems necessarily possess different
 concepts. The contrast may concern their organizational perspectives or
 will-governance rather than concept identity." That agrees with this
-case's reading and with TERM-098.
+case's reading and with [TERM-098](../terms.d/TERM-098.md).
 
 ## What it can show
 

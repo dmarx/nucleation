@@ -82,9 +82,9 @@ A41 §10 found the fourth sense, organizational autonomy, "Not established".
   applies (the reader's qualification).
 - Lineage is [CLAIM-329](../claims.d/CLAIM-329.md)'s question, not this one.
 - **A difference in revision alone does not decide for option 2.** The
-  reader's qualification, from TERM-098 and A54 of the second share
+  reader's qualification, from [TERM-098](../terms.d/TERM-098.md) and A54 of the second share
   (https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c):
-  TERM-098 "deliberately **does not make corrigibility part of being a
+  [TERM-098](../terms.d/TERM-098.md) "deliberately **does not make corrigibility part of being a
   concept**—so our earlier four-part concept profile should not treat
   different revision policies as automatically different concepts". A55
   §3 rewrites the profile as (A, I, R), with U, the "revision
@@ -92,8 +92,8 @@ A41 §10 found the fourth sense, organizational autonomy, "Not established".
   the same concept while having different capacities to correct its
   use.**" So the title's "conditions of revision" is no evidence of
   several concepts on its own. It may be a difference of perspective, as
-  A41 §14 put corrigibility in the perspective (CLAIM-tmpnjz70, layer 2),
-  or of will-governance (A55 §4's CASE E, in CASE-tmphkso5).
+  A41 §14 put corrigibility in the perspective ([CLAIM-tmpnjz70](../claims.d/CLAIM-tmpnjz70.md), layer 2),
+  or of will-governance (A55 §4's CASE E, in [CASE-tmphkso5](../cases.d/CASE-tmphkso5.md)).
 - **Two discriminators for option 2** (A55 §6, which re-asks it as
   "conceptual fission"): telling "historical descent from independent
   convergence" by "tracing transmission pathways", and not defining
@@ -109,5 +109,5 @@ A41 §10 found the fourth sense, organizational autonomy, "Not established".
 For a stated expression, which option holds under a stated correspondence
 between communities' profiles, and on what evidence; and, separately, which
 of [TERM-088](../terms.d/TERM-088.md)'s senses, if any, the expression or the concept meets. A
-difference in U alone does not decide for option 2 (TERM-098). The study
-that would measure the profiles is CASE-tmpsdfol.
+difference in U alone does not decide for option 2 ([TERM-098](../terms.d/TERM-098.md)). The study
+that would measure the profiles is [CASE-tmpsdfol](../cases.d/CASE-tmpsdfol.md).

@@ -126,14 +126,14 @@ The architecture, in layers:
 
    The repertoire has three dimensions (A58 §10, second share, answering
    the owner's U26): the **discriminative**, "What circumstances can the
-   organization distinguish?", which is TERM-064's legibility; the
+   organization distinguish?", which is [TERM-064](../terms.d/TERM-064.md)'s legibility; the
    **practical**, "What actions can it undertake in those circumstances?";
    and the **transformative**, "How can it revise its distinctions,
-   actions, and the relationships governing them?", which is TERM-023's
-   transformation, with CLAIM-025 and CLAIM-532. "The first two jointly
-   determine which tasks it can perform", as CLAIM-535 and CLAIM-572 do:
+   actions, and the relationships governing them?", which is [TERM-023](../terms.d/TERM-023.md)'s
+   transformation, with [CLAIM-025](CLAIM-025.md) and [CLAIM-532](CLAIM-532.md). "The first two jointly
+   determine which tasks it can perform", as [CLAIM-535](CLAIM-535.md) and [CLAIM-572](CLAIM-572.md) do:
    a hedge can stand in for a distinction. *The reader's correction:* A
-   drops CASE-194's third repair, authority, which lies between the
+   drops [CASE-194](../cases.d/CASE-194.md)'s third repair, authority, which lies between the
    practical and the transformative.
 2. **It persists while unmanifested.** A47 §9: "a disposition provides a way
    of describing continuity through nonmanifestation". The record holds it.
@@ -200,16 +200,16 @@ perspective, concept and will terms.
   ("synchronization phenomena might be a useful laboratory") and U6's
   timescale question. "The software-project examples taught us" is the
   owner's U14 (software product), U15 (PyTorch, and "a form of
-  Structuralism") and U16 (the contested succession, CASE-tmpcr92d). "The
+  Structuralism") and U16 (the contested succession, [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md)). "The
   meaning inquiry" is joined at the owner's U18 ("connect this to
   Nuckeation's inquiry examining how meaning works"). "the dispositional
   turn" is the owner's U22, uncredited again, as in A52 §1. Its first
   clause, that productive organization "can survive implementation
-  replacement", is CLAIM-280 (Active), held before the exchange.
+  replacement", is [CLAIM-280](CLAIM-280.md) (Active), held before the exchange.
 - **Correction (standing), version 2.** The four-way clause is held
-  piecewise: isomorphism is not persistence (CLAIM-593, Active), persistence
-  is by transmission (CLAIM-329, Proposed), and autonomy is a sense of its
-  own (TERM-088). It generalizes layer 4, "character, not identity", and
+  piecewise: isomorphism is not persistence ([CLAIM-593](CLAIM-593.md), Active), persistence
+  is by transmission ([CLAIM-329](CLAIM-329.md), Proposed), and autonomy is a sense of its
+  own ([TERM-088](../terms.d/TERM-088.md)). It generalizes layer 4, "character, not identity", and
   is a guard rather than a new integration.
 
 ## What it does not say
@@ -250,5 +250,5 @@ remain distinct properties.** None follows automatically from the others."
 A: "It prevents the dispositional vocabulary from becoming another
 universal identity criterion that silently resolves questions we've
 explicitly left open." Its integrating sentence is A50 §11's, and its
-clauses on meaning and will restate CLAIM-tmpnjz70 and on transmission
-CLAIM-tmpcdshj.
+clauses on meaning and will restate [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md) and on transmission
+[CLAIM-tmpcdshj](CLAIM-tmpcdshj.md).
