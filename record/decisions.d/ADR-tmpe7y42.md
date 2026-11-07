@@ -1,5 +1,4 @@
 ---
-number: 75
 status: Proposed
 title: 'A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left'
 version: 1
@@ -25,9 +24,10 @@ summary: >-
   Rejected: a new scheme for positions, until a synthesis CLAIM strains;
   filing every version; and the status quo.
 ---
+<!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision whose skill this one extends -->
 
-# ADR-075: A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
+# ADR-tmpe7y42: A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 
 ## Context
 
@@ -141,8 +141,10 @@ The load-bearing parts:
   The filer's brief carries the protocol, as it carries step 9's ARG
   rule.
 - The exchange "Individuation, Possibility, and Disposition" is the
-  first filing under it, in the same week. Its synthesis CLAIMs and audit
-  are filed in its own pull request.
+  first filing under it. Its synthesis CLAIMs and audit are filed in the
+  same contribution as this decision. The decision is proposed with its
+  first application, so the filing can cite it and the application shows
+  what the decision does.
 - **Follow-up:** the filings listed under Context left syntheses
   unaudited. A sweep would audit them, file any distinct thesis, and
   revise rather than duplicate where an account recurs. That is a

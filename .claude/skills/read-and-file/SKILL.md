@@ -4,7 +4,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 ---
 <!-- .claude/skills/read-and-file/SKILL.md -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-tmpe7y42 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
 
 # Reading and filing
 
@@ -192,7 +192,7 @@ not a finding.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
 
-## 9b. Audit the syntheses (ADR-075)
+## 9b. Audit the syntheses (ADR-tmpe7y42)
 
 A synthesis is any turn, section or pasted text that states an overall
 account: an executive summary of the record, "the positive account I

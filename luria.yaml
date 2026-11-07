@@ -990,6 +990,7 @@ schemes:
     output: docs/decisions
     active: Active
     render: index
+    allocate: merge
     successor: superseded_by
     retires_on: Superseded
     fields:
