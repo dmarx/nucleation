@@ -6,7 +6,14 @@ formerly:
 title: When does iterative query reformulation improve access to relevant evidence,
   and when does it entrench an initial interpretation by narrowing what is encountered
   next?
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the summary called LIT-1079 unread; it was read in NOTE-1460 (CLAIM-301's
+    note of 2026-10-30). No other change.
 tags:
 - information-retrieval
 - epistemology
@@ -17,7 +24,7 @@ refines:
 summary: >-
   A21's question. The owner suspected at U21 that agent harnesses rediscover old
   information retrieval: query expansion, relevance feedback, intent classification
-  and slot filling. Classical IR named query drift ([LIT-1079](../literature.d/LIT-1079.md), unread). An agent
+  and slot filling. Classical IR named query drift (LIT-1079, read in NOTE-1460). An agent
   that rewrites its own task adds [TERM-056](../terms.d/TERM-056.md).
 ---
 <!-- inactive-ok-file: CLAIM-301 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

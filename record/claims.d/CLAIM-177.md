@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4qgbo
 title: 'In the record''s exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -15,6 +15,12 @@ history:
     general form, that such arguments fail at identity rather than at
     structure beyond one owner and one assistant family, is
     CLAIM-483, Proposed, with version 1's defeater.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the summary still called the claim Proposed on two exchanges. It has
+    been Active since version 2 (2026-10-27), on six. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -32,11 +38,13 @@ summary: >-
   Stated as a finding in [ADR-032](../decisions.d/ADR-032.md), from seven readers coding the will
   exchange, and found again in the What Survives Translation? exchange by
   the workbench reconstructions of 2026-10-09 and 2026-10-10. Filed on
-  2026-10-11 as the first premise of the manuscript. Two exchanges with
-  one owner and one assistant family, so Proposed.
+  2026-10-11 as the first premise of the manuscript. Active since version 2 (2026-10-27), when the body counted six
+  exchanges; the general form beyond one owner and one assistant family is
+  CLAIM-483, Proposed.
 bears_on:
 - QUESTION-037
 ---
+<!-- inactive-ok-file: CLAIM-483 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-024 CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->

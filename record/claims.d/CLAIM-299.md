@@ -5,7 +5,15 @@ formerly:
 - CLAIM-tmpb7qd9
 title: Decision sufficiency, historical accountability and correctness are three
   properties of a record of inquiry, and each can hold while the other two fail
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
+    the body cited CLAIM-190 as a current claim; it is Superseded by
+    ARG-028, which carries its point. The citation now says so. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -31,6 +39,7 @@ summary: >-
   [CLAIM-189](CLAIM-189.md) and [CLAIM-190](CLAIM-190.md) hold neighbouring points about measuring an argument.
   This names the three predicates so the others can say which they mean.
 ---
+<!-- inactive-ok-file: ARG-028 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-189 CLAIM-190 CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-299: Decision sufficiency, historical accountability and correctness are three properties of a record of inquiry, and each can hold while the other two fail
@@ -66,8 +75,8 @@ non-implication needs nothing more.
 - [CLAIM-189](CLAIM-189.md) says fidelity is the wrong measure of a developing argument,
   and what a record can secure is traceability. This says traceability
   is not sufficiency either.
-- [CLAIM-190](CLAIM-190.md) says the record's own anchoring measures cannot certify drift
-  fell. [CASE-084](../cases.d/CASE-084.md) is the same point about correctness, and A6 called it "a
+- CLAIM-190 said the record's own anchoring measures cannot certify drift
+fell; it is Superseded by ARG-028, which carries that point. [CASE-084](../cases.d/CASE-084.md) is the same point about correctness, and A6 called it "a
   direct companion" to [CLAIM-181](CLAIM-181.md) and [CLAIM-190](CLAIM-190.md).
 - [CLAIM-250](CLAIM-250.md) is about accountability. A note of 2026-10-15 there records
   which of the three it concerns.
