@@ -6,6 +6,14 @@ formerly:
 title: 'disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked'
 version: 3
 history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    The finking row named no entry ("No entry names this case"). From A62
+    §10 of the second share, answering the owner's U27 and U28, it now
+    names CLAIM-619, A's counter-corrective disposition: a credible
+    challenge that lowers the chance of effective future challenge finks
+    the disposition to be corrected. The definition is unchanged.
 - version: 3
   date: '2026-11-07'
   note: >-
@@ -18,14 +26,6 @@ history:
     third route is named, a change in access and incentives with the
     declared bearer's disposition intact. A fall in observed challenges
     does not tell them apart. The definition is unchanged.
-- version: 2
-  date: '2026-11-07'
-  note: >-
-    The finking row named no entry ("No entry names this case"). From A62
-    §10 of the second share, answering the owner's U27 and U28, it now
-    names CLAIM-619, A's counter-corrective disposition: a credible
-    challenge that lowers the chance of effective future challenge finks
-    the disposition to be corrected. The definition is unchanged.
 tags:
 - metaphysics
 - agency

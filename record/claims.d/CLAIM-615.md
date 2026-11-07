@@ -6,21 +6,6 @@ formerly:
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
 version: 4
 history:
-- version: 4
-  date: '2026-11-07'
-  note: >-
-    Superseded by SYNTHESIS-001, the same synthesis moved into the
-    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
-    is kept so that what cites it still resolves.
-- version: 3
-  date: '2026-11-07'
-  note: >-
-    ADR-075's admission test (version 2), applied at A's review of
-    the pull request: admitted. Its integration, CLAIM-329's
-    transmission criterion generalized past collectives, can fail while
-    every component holds. defeated_if's second clause is widened from
-    an invariant structure to continuity of constituents, which is the
-    case that would defeat it.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -32,6 +17,21 @@ history:
     place of "Whether identity itself branches", and the restatement
     objection in defeated_if names CLAIM-593. The claim is otherwise
     unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    ADR-075's admission test (version 2), applied at A's review of
+    the pull request: admitted. Its integration, CLAIM-329's
+    transmission criterion generalized past collectives, can fail while
+    every component holds. defeated_if's second clause is widened from
+    an invariant structure to continuity of constituents, which is the
+    case that would defeat it.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-001, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 role: thesis
 warrant: interpretive
 defeated_if: >-

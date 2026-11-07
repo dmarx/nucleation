@@ -6,12 +6,6 @@ formerly:
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
 version: 3
 history:
-- version: 3
-  date: '2026-11-07'
-  note: >-
-    Superseded by SYNTHESIS-004, the same synthesis moved into the
-    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
-    is kept so that what cites it still resolves.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -23,6 +17,12 @@ history:
     level holding without the one below is dropped: under CLAIM-545
     autonomy has nothing to govern without the will-organization below
     it.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-004, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 role: supposed
 warrant: interpretive
 defeated_if: >-
