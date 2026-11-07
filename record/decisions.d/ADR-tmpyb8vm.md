@@ -6,7 +6,7 @@ tags:
 - record
 date: '2026-11-07'
 summary: >-
-  The nucleating-argument line's first account (ADR-tmpyihxy) fell into
+  The nucleating-argument line's first account ([ADR-tmpyihxy](ADR-tmpyihxy.md)) fell into
   five parts. Counting the relations among their components showed three
   of them, drift, anchors and the costs of anchoring, linked densely to
   each other. The other two barely linked to anything. "What a record of
@@ -28,12 +28,12 @@ summary: >-
 
 A line in this record is "a named line of the record's own argument, so
 that a line can be set aside as a whole and what depends on it can be
-found" (the `lines` vocabulary, ADR-032). nucleating-argument was named for
+found" (the `lines` vocabulary, [ADR-032](ADR-032.md)). nucleating-argument was named for
 "how an argument developed across stateless sessions settles into stable,
 addressable structure, and what a project memory contributes — the record
 itself as the case".
 
-Its first account, the unadmitted line account of ADR-tmpyihxy, organized
+Its first account, the unadmitted line account of [ADR-tmpyihxy](ADR-tmpyihxy.md), organized
 its 74 in-force entries into five parts:
 
 1. drift;
@@ -65,11 +65,11 @@ record keeps) or to each other (three of six from the record as
 apparatus), and almost nothing points into them. The content says the same:
 
 - **What a record keeps** rests on demonstrated results about records of
-  inquiry in general: CLAIM-294, CLAIM-299, CLAIM-300 and CLAIM-293, the
+  inquiry in general: [CLAIM-294](../claims.d/CLAIM-294.md), [CLAIM-299](../claims.d/CLAIM-299.md), [CLAIM-300](../claims.d/CLAIM-300.md) and [CLAIM-293](../claims.d/CLAIM-293.md), the
   last two of which already have formal-apparatus as their primary line.
   These are not about arguments made across sessions.
 - **The record as apparatus** is about luria and inquiry as specification:
-  CLAIM-469, CLAIM-470, CLAIM-475 and CLAIM-476, with TERM-089 and TERM-095.
+  [CLAIM-469](../claims.d/CLAIM-469.md), [CLAIM-470](../claims.d/CLAIM-470.md), [CLAIM-475](../claims.d/CLAIM-475.md) and [CLAIM-476](../claims.d/CLAIM-476.md), with [TERM-089](../terms.d/TERM-089.md) and [TERM-095](../terms.d/TERM-095.md).
   It is about what a record's grammar makes determinate, not about how an
   argument nucleates.
 
@@ -86,10 +86,10 @@ it, which is the opposite of what a line is for.
 - **nucleating-argument keeps** drift, anchors and the costs of anchoring.
   Its blurb now names those, and points to the two new lines.
 - **The 43 entries of the two parts move.** In each, `line` changes
-  nucleating-argument to the new line. Other lines are kept: CLAIM-293 and
-  CLAIM-300 stay primarily formal-apparatus. Each entry gets a history note.
+  nucleating-argument to the new line. Other lines are kept: [CLAIM-293](../claims.d/CLAIM-293.md) and
+  [CLAIM-300](../claims.d/CLAIM-300.md) stay primarily formal-apparatus. Each entry gets a history note.
   No status, title or relation changes.
-- **Each line gets its synthesis** (ADR-tmpyihxy, version 2):
+- **Each line gets its synthesis** ([ADR-tmpyihxy](ADR-tmpyihxy.md), version 2):
   - nucleating-argument gets one for each of its three parts, and a line
     synthesis over them;
   - each new line gets one of its own.
@@ -104,13 +104,13 @@ it, which is the opposite of what a line is for.
 ## Alternatives considered
 
 - **One account over all five parts.** That is the first version of
-  ADR-tmpyihxy. It would hide that two parts are separate inquiries, and keep
+  [ADR-tmpyihxy](ADR-tmpyihxy.md). It would hide that two parts are separate inquiries, and keep
   them tied to a line whose setting aside they should not follow.
 - **One line, with parts tagged by a new field.** A part field would add a
   second axis beside `line` doing a line's job. It would also leave "set the
   line aside" retiring all three inquiries together.
 - **Split into five.** Drift, anchors and costs are densely linked, and
-  QUESTION-037, the line's root question, is theirs in common. Separate lines would make most of
+  [QUESTION-037](../questions.d/QUESTION-037.md), the line's root question, is theirs in common. Separate lines would make most of
   their relations cross-line and lose the cluster the counts show.
 
 ## Consequences
