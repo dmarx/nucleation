@@ -35,7 +35,7 @@ summary: >-
 A29 §2 of the exchange "Individuation, Possibility, and Disposition"
 (https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e) starts
 from φ̇ = −a sin φ − 2b sin 2φ, where anti-phase is stable iff 4b > a
-(THEORY-1227), and sets a = 1, b = c/2:
+([THEORY-1227](../theory.d/THEORY-1227.md)), and sets a = 1, b = c/2:
 
 - φ̇ = −sin φ − c sin 2φ. Anti-phase is stable iff c > ½.
 - ċ = ε(α c²/(1 + c²) − δc + u_ext), with α = 2.2, δ = 1 and no external
@@ -64,23 +64,23 @@ and an unsustained organization reads as a separation of time scales only
 for ε about 0.1 or less. A29 §5 notes that the relaxation time diverges near ½ but does
 not set ε.
 
-**What is held.** The maintenance law is CASE-189's Construction 1 on its
+**What is held.** The maintenance law is [CASE-189](CASE-189.md)'s Construction 1 on its
 symmetric diagonal, 3c²/(1 + c²) − (1 + d)c, with gain 2.2 for 3/(1 + d);
 positive equilibria exist iff the gain is at least twice the decay. Its
-unstable level is CLAIM-604's ignition threshold. New here are the HKB
+unstable level is [CLAIM-604](../claims.d/CLAIM-604.md)'s ignition threshold. New here are the HKB
 coupling b = c/2 and the barrier as a function of the maintained capacity.
 
 ## What it can show
 
 That a coordination mode can be stable now while the capacity keeping it
-stable is not maintained, given ε small. It has CLAIM-521's shape, a
+stable is not maintained, given ε small. It has [CLAIM-521](../claims.d/CLAIM-521.md)'s shape, a
 currently effective pattern over an unsustained maintenance, though by
 another mechanism: decline from below an unstable threshold, not a
 recovery rate vanishing at a saddle-node.
 
 As a proposed study, A29 §10 sets four arms with matched short-term phase
 dynamics: c held fixed, c slowly decaying, c kept by an outside controller,
-and c kept by internal production (compare CLAIM-522 and CLAIM-456). None
+and c kept by internal production (compare [CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-456](../claims.d/CLAIM-456.md)). None
 has been run.
 
 It cannot show anything about biological closure. A: "This is an

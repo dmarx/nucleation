@@ -33,7 +33,7 @@ summary: >-
   the owner's U12 and U13. A: "each local observation may have a valid
   hidden realization, while no single hidden realization supports the
   combined observed history." The contrast with contextuality, and the
-  qualification of CLAIM-197's wording and of CLAIM-153's scope, are the
+  qualification of [CLAIM-197](CLAIM-197.md)'s wording and of [CLAIM-153](CLAIM-153.md)'s scope, are the
   reader's qualification from the record. The wording is A's; adopting it
   is the owner's call.
 ---
@@ -50,21 +50,21 @@ the presheaf 𝒪(I) of observations realizable on each interval. "It is
 tempting to assume that \(\mathcal O\) is also a sheaf." It need not be:
 "each local observation may have a valid hidden realization, while no
 single hidden realization supports the combined observed history."
-CASE-tmpdwka1 is the finite example. A27 §2: "The apparent macroscopic
+[CASE-tmpdwka1](../cases.d/CASE-tmpdwka1.md) is the finite example. A27 §2: "The apparent macroscopic
 histories agree on their overlap but possess no common microscopic
 realization."
 
 **The reader's qualification.** The image is separated, since it is a
 subpresheaf of the sheaf of observed strings; gluing is what fails. This
-differs from CLAIM-131's case. There the union of the contexts is never
+differs from [CLAIM-131](CLAIM-131.md)'s case. There the union of the contexts is never
 measured, so a compatible family of supports glues by definition and the
 obstruction is a local section with no global extension. Here the union
 interval is itself an observable context, and the gluing axiom fails on
 it.
 
 So two statements on the record hold for sheaves and do not reach this
-presheaf. CLAIM-197 says "a failure needs an overlap carrying sections that
-disagree". CLAIM-153 says "two locally consistent personas that agree on
+presheaf. [CLAIM-197](CLAIM-197.md) says "a failure needs an overlap carrying sections that
+disagree". [CLAIM-153](CLAIM-153.md) says "two locally consistent personas that agree on
 their overlap always glue", for its torsor sheaf. Here two contexts that
 agree on their overlap suffice for an obstruction. Both claims stand for
 the sheaves they are about.
@@ -74,4 +74,4 @@ the sheaves they are about.
 - That the full-history sheaf fails. It glues: hidden states must agree.
 - That every such failure reveals a hidden capacity. A's guard: "inconsistency
   can also come from modeling errors or an incorrect assumption that two
-  observations belong to the same system" (QUESTION-tmp2p196).
+  observations belong to the same system" ([QUESTION-tmp2p196](../questions.d/QUESTION-tmp2p196.md)).

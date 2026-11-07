@@ -19,14 +19,14 @@ summary: >-
   The owner's case, named twice: first at U29 of the exchange of
   2026-10-22, among the "super stable" organizational perspectives, where
   it went unfiled for want of sources (workbench 2026/10/22/103821,
-  CASE-133, CLAIM-423); then at U19 of the exchange "Individuation,
+  [CASE-133](CASE-133.md), [CLAIM-423](../claims.d/CLAIM-423.md)); then at U19 of the exchange "Individuation,
   Possibility, and Disposition" (2026-11-06 to 07). The analysis is A41's,
   with the works A cited named in the body and not yet registered or read
   here; the reader's qualifications from the record are marked. Proposed,
   because no source is read. The analysis's wording is A's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnza8k QUESTION-tmpdalhx — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpnza8k — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-423 — Proposed; cited for its note declining the owner's U29 cases, nothing here rests on it -->
 
 # CASE-tmpb16ru: The label "anti-vax": one expression applied polemically to positions that differ by vaccine, mandate, access and evidence, rejected by many it is applied to and embraced by some, so that the expression circulates while its extension, inferences and practical consequences differ between communities
@@ -35,9 +35,9 @@ summary: >-
 
 The owner has named this example twice. At U29 of the exchange of
 2026-10-22 it was one of the "super stable" organizational perspectives
-(workbench 2026/10/22/103821). It was not filed then: CASE-133's "What it
+(workbench 2026/10/22/103821). It was not filed then: [CASE-133](CASE-133.md)'s "What it
 does not show" says of the owner's other U29 cases, "No sources for them
-were registered, and none is filed", and CLAIM-423's note says they "are
+were registered, and none is filed", and [CLAIM-423](../claims.d/CLAIM-423.md)'s note says they "are
 not filed as cases from the replies' summaries". At U19 of the exchange
 "Individuation, Possibility, and Disposition"
 (https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e) the owner
@@ -82,18 +82,18 @@ real classification. A41 §2: "The label's stability is not evidence that
 the extension or inferential role of the concept is stable." A41 §4: "So
 the label can function as an unwanted external attribution, an embraced
 social identity, and a symbol of opposition—all while apparently naming
-one category." It is CASE-141's and CASE-142's mechanisms at the scale of
-a population, and it illustrates CLAIM-tmpnza8k and CLAIM-402.
+one category." It is [CASE-141](CASE-141.md)'s and [CASE-142](CASE-142.md)'s mechanisms at the scale of
+a population, and it illustrates [CLAIM-tmpnza8k](../claims.d/CLAIM-tmpnza8k.md) and [CLAIM-402](../claims.d/CLAIM-402.md).
 
 ## What it does not show
 
 - **Any causal loop.** A says so itself: "The full causal loop therefore
   remains a research hypothesis" (A41 §9).
-- **That the perspectives A41 §3 tabulates are perspectives in TERM-072's
+- **That the perspectives A41 §3 tabulates are perspectives in [TERM-072](../terms.d/TERM-072.md)'s
   sense 1.** Its rows (public-health research, polemical debate, some
   refusal communities, clinical care) are kinds whose realizations are
   particular newsrooms, clinics and forums (the reader's qualification).
-- **That the expression names one concept.** That is QUESTION-tmpdalhx.
+- **That the expression names one concept.** That is [QUESTION-tmpdalhx](../questions.d/QUESTION-tmpdalhx.md).
 - **Anything about vaccine safety or efficacy.** A41 §2: "Context-dependent
   meaning does not make clinical facts relative."
 - **Anything from its sources yet.** None is registered or read; the case

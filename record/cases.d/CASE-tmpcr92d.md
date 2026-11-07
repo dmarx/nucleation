@@ -69,7 +69,7 @@ discussions, surveys); behavioural migration (fork participation,
 downstream adoption); recovery after intervention (policy reversals,
 rejoining). The key measure, in A's words: "the delay between a loss of
 recognized legitimacy and a loss of productive capability". A ties it to
-CLAIM-521: the official project may keep its code, release machinery and
+[CLAIM-521](../claims.d/CLAIM-521.md): the official project may keep its code, release machinery and
 users "long after contributors begin migrating".
 
 **The main threat to inference, which A names.** "contributor migration is
@@ -77,7 +77,7 @@ insufficient on its own. We would need contemporaneous statements or surveys
 explicitly addressing legitimacy, continuity, or betrayal, and should
 distinguish those judgments from cost-driven migration." For Redis and
 Valkey A adds that "some major Valkey participants had clear commercial
-reasons to oppose the Redis licensing decision". This is CLAIM-342's
+reasons to oppose the Redis licensing decision". This is [CLAIM-342](../claims.d/CLAIM-342.md)'s
 discipline: the verdict must be measured by evidence that does not pass
 through the migration it is meant to explain.
 
@@ -135,26 +135,26 @@ request resolution from over 700 days to under a week).
 
 ## What it can show
 
-- **A second kind of case for CLAIM-328.** The record's succession cases,
-  CASE-105 and CASE-133, separate the bundled continuities by a relocation
+- **A second kind of case for [CLAIM-328](../claims.d/CLAIM-328.md).** The record's succession cases,
+  [CASE-105](CASE-105.md) and [CASE-133](CASE-133.md), separate the bundled continuities by a relocation
   or a realignment. Here a change of steward separates them, and the
-  community's own verdict is a measured variable. CLAIM-328 records that a
+  community's own verdict is a measured variable. [CLAIM-328](../claims.d/CLAIM-328.md) records that a
   second case is what would move it.
-- **A verdict for QUESTION-118 in a given instance.** The reader's reading:
-  under CLAIM-329's criterion, causal transmission of the producing
+- **A verdict for [QUESTION-118](../questions.d/QUESTION-118.md) in a given instance.** The reader's reading:
+  under [CLAIM-329](../claims.d/CLAIM-329.md)'s criterion, causal transmission of the producing
   organization, the Freenode case picks Libera, because the volunteer staff
   moved. A calls Libera a "reconstruction"; in the record's sense that is a
   transmission, not an independent reconstitution.
-- **A test of CLAIM-tmpjw473.** The reader notes it costs little: compare
+- **A test of [CLAIM-tmpjw473](../claims.d/CLAIM-tmpjw473.md).** The reader notes it costs little: compare
   the timing of identity statements with the timing of contributor moves.
   Verdicts that precede migration and predict it beyond cost and incentive
   support the claim. Statements that follow the move and add nothing to a
   cost model defeat it.
 - **The lag.** A long interval in which the contested project keeps
-  releasing while its contributors leave would be CLAIM-521's hidden
+  releasing while its contributors leave would be [CLAIM-521](../claims.d/CLAIM-521.md)'s hidden
   fragility in a social key. Recovery after a reversal (Redis's AGPLv3
   option, SourceForge under BIZX) that does not bring the contributors back
-  would be a putative instance of CLAIM-463; A says so only as a suggestion,
+  would be a putative instance of [CLAIM-463](../claims.d/CLAIM-463.md); A says so only as a suggestion,
   and adds "We should not claim SourceForge's reputation was or was not
   completely repaired without longitudinal evidence".
 

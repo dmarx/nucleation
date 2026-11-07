@@ -35,7 +35,7 @@ uses:
 summary: >-
   A43 §4 of the exchange "Individuation, Possibility, and Disposition"
   (2026-11-06 to 07), answering the owner's U20 on how will takes part in
-  the perpetuation of concepts. Joined with CLAIM-197 and CASE-002, it
+  the perpetuation of concepts. Joined with [CLAIM-197](CLAIM-197.md) and [CASE-002](../cases.d/CASE-002.md), it
   says that authority over the cover is partly authority over
   compatibility. The reader's qualification: jurisdiction belongs to the
   will-organization's relations, not to the perspective's. The wording is
@@ -49,7 +49,7 @@ summary: >-
 A43 §4 of the exchange "Individuation, Possibility, and Disposition"
 (https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), after the
 owner's U20 ("I think this becomes especially compelling if we revisit how
-'will' participates in this"), applies TERM-017's relations to a contested
+'will' participates in this"), applies [TERM-017](../terms.d/TERM-017.md)'s relations to a contested
 concept. Jurisdiction asks "When does this category count as relevant to
 the decision?"; precedence asks which distinction governs when they
 conflict; suspension asks when its ordinary consequences can be withheld.
@@ -59,14 +59,14 @@ which rules prevail at their overlaps". So "will does not merely select an
 output after semantic interpretation has finished": it can help organize
 the "contextual architecture within which interpretation occurs".
 
-CLAIM-197 holds that "which families count as covers decides whether
-anything glues". CLAIM-143 holds that correspondences must be independently
+[CLAIM-197](CLAIM-197.md) holds that "which families count as covers decides whether
+anything glues". [CLAIM-143](CLAIM-143.md) holds that correspondences must be independently
 validated, not admitted because they remove a disagreement. Neither asks
-who chooses. CASE-002 shows that moving classification to another group
+who chooses. [CASE-002](../cases.d/CASE-002.md) shows that moving classification to another group
 "changes outcomes without changing the rule". Joined, they give this claim:
 whoever holds jurisdiction over a concept's contexts partly fixes the
 cover, and so partly settles whether the concept's uses are compatible.
-CLAIM-057's independence of jurisdiction and precedence lets the two act on
+[CLAIM-057](CLAIM-057.md)'s independence of jurisdiction and precedence lets the two act on
 different parts of the cover: which contexts there are, and which rule holds
 on their overlaps.
 
@@ -79,13 +79,13 @@ fixes.
 
 - **That compatibility is a matter of will.** Once the cover is fixed,
   gluing is a fact, as an individuation's verdict can be false once its
-  criterion is fixed (CLAIM-405).
+  criterion is fixed ([CLAIM-405](CLAIM-405.md)).
 - **That the perspective holds jurisdiction.** A43 §4 split the work as
   "The organizational perspective establishes how a distinction is
   interpreted. The will-organization governs the conditions under which
   that interpretation becomes practically operative". The reader's
   qualification: jurisdiction belongs to the will-organization's relations
-  (TERM-023), while the perspective in TERM-072's sense 1 already conditions
+  ([TERM-023](../terms.d/TERM-023.md)), while the perspective in [TERM-072](../terms.d/TERM-072.md)'s sense 1 already conditions
   the efficacy of interpretations.
-- **That a cover chosen by jurisdiction is admissible.** CLAIM-143's
+- **That a cover chosen by jurisdiction is admissible.** [CLAIM-143](CLAIM-143.md)'s
   validation requirement still applies to it.

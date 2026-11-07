@@ -60,9 +60,9 @@ one."
 
 That stationary statistics among survivors, reached on the mixing time,
 coexist with certain extinction on a time longer by the ratio of the gap
-to the hazard (CLAIM-tmp7cpzx). It extends CLAIM-079 from stability to
+to the hazard ([CLAIM-tmp7cpzx](../claims.d/CLAIM-tmp7cpzx.md)). It extends [CLAIM-079](../claims.d/CLAIM-079.md) from stability to
 statistics conditioned on survival.
 
 It cannot show anything about repair or regeneration, since nothing
 leaves D. A's third sense of persistence, "Regenerative persistence", needs
-a chain in which some failures are recoverable (CLAIM-456).
+a chain in which some failures are recoverable ([CLAIM-456](../claims.d/CLAIM-456.md)).

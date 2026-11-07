@@ -33,7 +33,7 @@ summary: >-
   further"). Contributors who object without the capacity to change a
   decision can found a new organization in which their objection governs.
   The record holds that possessing a regime is not its being effective
-  (CLAIM-047) and that continuity can branch (CLAIM-287), but no entry says
+  ([CLAIM-047](CLAIM-047.md)) and that continuity can branch ([CLAIM-287](CLAIM-287.md)), but no entry says
   that one route from the first to efficacy is to found a new organization.
   A52 §11 treats forks only as fission and drops the point. The wording is
   A's; adopting it is the owner's call.
@@ -56,17 +56,17 @@ of a new organization through which a previously constrained disposition
 gains efficacy**." A: "That is a powerful bridge from disposition to
 organizational nucleation."
 
-It rests on two held claims. CLAIM-047: possessing a regime is not the
+It rests on two held claims. [CLAIM-047](CLAIM-047.md): possessing a regime is not the
 same as its being practically effective, so the dissenters' disposition
-can be real while the parent grants it nothing (CLAIM-283). CLAIM-287:
+can be real while the parent grants it nothing ([CLAIM-283](CLAIM-283.md)). [CLAIM-287](CLAIM-287.md):
 continuity of an organization can branch, so the fork can carry the
 parent's lineage and still be a different organization. What the claim
 adds is that the two meet: when voice inside the whole is denied a channel,
 building a new whole is a way to efficacy, and the new organization is
 individuated partly by the disposition it lets govern.
 
-It bears on QUESTION-041, which asks what channels from the members keep a
-whole's course correctable. A fork is the exit side of THEORY-152's exit
+It bears on [QUESTION-041](../questions.d/QUESTION-041.md), which asks what channels from the members keep a
+whole's course correctable. A fork is the exit side of [THEORY-152](../theory.d/THEORY-152.md)'s exit
 and voice, read as a channel that founds an organization rather than one
 that signals to the old one.
 
@@ -78,11 +78,11 @@ that signals to the old one.
 - **That the forking disposition is the community's.** In A's example the
   disposition is attributed to "An open-source community" and then
   exercised by some contributors against the rest. Which bearer holds it is
-  what TERM-tmp6ersv requires a claim to declare; read as the dissenters'
+  what [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md) requires a claim to declare; read as the dissenters'
   disposition, the parent's governance masked it.
 - **That the new organization succeeds or is better.** Gaining efficacy is
   not gaining legitimacy or viability.
 
 No case is filed for it. Hirschman's exit and voice is the obvious
-literature, and the record holds it: THEORY-152, Hirschman's 1974 revisiting
+literature, and the record holds it: [THEORY-152](../theory.d/THEORY-152.md), Hirschman's 1974 revisiting
 of his 1970 book. A does not cite it.

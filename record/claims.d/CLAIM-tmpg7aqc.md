@@ -67,10 +67,10 @@ oscillation, suppression of oscillation, etc), entrainment and phase locking
 can probably be understood as kinds of individuation transitions..."
 
 The owner proposes literal oscillators as model systems, not an analogy for
-interests. That is how this differs from CLAIM-163's objection, that
+interests. That is how this differs from [CLAIM-163](CLAIM-163.md)'s objection, that
 "synchronization" among valuations is analogy without mechanism, which
-ARG-016 answered. The first mapping is CLAIM-tmpk1015. The second and third
-are held in CASE-tmpecdgv. The fourth is a dated note on QUESTION-281, whose
+[ARG-016](../arguments.d/ARG-016.md) answered. The first mapping is [CLAIM-tmpk1015](CLAIM-tmpk1015.md). The second and third
+are held in [CASE-tmpecdgv](../cases.d/CASE-tmpecdgv.md). The fourth is a dated note on [QUESTION-281](../questions.d/QUESTION-281.md), whose
 listed transitions do not include synchronization onset.
 
 **A's qualification (A9, A12).** Forcing is not coercion. A9: "I would not
@@ -78,22 +78,22 @@ identify these directly with autonomy, dependence, or coercion." A12 §4.3:
 "The dynamics alone do not establish the normative relationship." What the
 dynamics can describe is what A calls dynamical subordination, and A12 says
 it "separates the *location of control* from its *legitimacy* and from the
-*capacity being controlled*". The reader ties this to CLAIM-545, whose
+*capacity being controlled*". The reader ties this to [CLAIM-545](CLAIM-545.md), whose
 domination is another's capacity to govern an agent's relations, used or
-not, and to TERM-061's caveat that conformity under coercion can resemble
+not, and to [TERM-061](../terms.d/TERM-061.md)'s caveat that conformity under coercion can resemble
 synchronization. On individuation, A9 says it "may sometimes be associated
 with selective synchronization, rather than maximal synchronization", which
-CLAIM-172 and THEORY-265 already hold.
+[CLAIM-172](CLAIM-172.md) and [THEORY-265](../theory.d/THEORY-265.md) already hold.
 
 **The first project.** A12 proposes a "forced adaptive oscillator network
-with frustration and reciprocal maintenance variables". It is CASE-179's
+with frustration and reciprocal maintenance variables". It is [CASE-179](../cases.d/CASE-179.md)'s
 proposed study with three arms added: forcing withdrawal, suppression of
 oscillation, and adaptive capacities.
 
 ## What it does not say
 
 - That forcing is coercion, or that an undriven group maintains itself.
-- That synchrony alone marks an individual. CLAIM-474 keeps the
+- That synchrony alone marks an individual. [CLAIM-474](CLAIM-474.md) keeps the
   achievements apart, and A12 §11 says the move from externally organized
   coherence to internal maintenance "is not necessarily a synchronization
   transition".

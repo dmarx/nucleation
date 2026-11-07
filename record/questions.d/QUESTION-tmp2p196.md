@@ -16,9 +16,9 @@ summary: >-
   Disposition" (2026-11-06 to 07), answering the owner's U13. A: "Can the
   failure of locally realizable macro-histories to admit a common
   microscopic realization diagnose organizational capacities that a
-  proposed coarse-graining has omitted?" It refines QUESTION-379 to the
+  proposed coarse-graining has omitted?" It refines [QUESTION-379](QUESTION-379.md) to the
   temporal case, where the presheaf is one of realizable observations of a
-  reduced variable. CASE-tmpdwka1 is one instance where the answer is yes.
+  reduced variable. [CASE-tmpdwka1](../cases.d/CASE-tmpdwka1.md) is one instance where the answer is yes.
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpdwka1 CLAIM-tmprmy7a CASE-tmpn5x96 — filed from the same exchange, Proposed -->
@@ -35,13 +35,13 @@ proposed coarse-graining has omitted?" A's own guard: "The answer is not
 always yes; inconsistency can also come from modeling errors or an
 incorrect assumption that two observations belong to the same system."
 
-CLAIM-tmprmy7a holds that such failures occur, and CASE-tmpdwka1 is one in
+[CLAIM-tmprmy7a](../claims.d/CLAIM-tmprmy7a.md) holds that such failures occur, and [CASE-tmpdwka1](../cases.d/CASE-tmpdwka1.md) is one in
 which the failure is witnessed by an omitted variable, the hidden mode.
-QUESTION-379 asks when a coherent family of local observations has a
+[QUESTION-379](QUESTION-379.md) asks when a coherent family of local observations has a
 realizable object at all. This asks what a failure tells about the
 reduction that produced it.
 
-A29 §10 proposes the test on an adaptive HKB system (CASE-tmpn5x96): check
+A29 §10 proposes the test on an adaptive HKB system ([CASE-tmpn5x96](../cases.d/CASE-tmpn5x96.md)): check
 "whether locally realizable histories of the observed relative phase can
 be assembled into a globally realizable history of the full system", and
 if not, "investigate which omitted variables explain the obstruction".

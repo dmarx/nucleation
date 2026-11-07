@@ -62,7 +62,7 @@ edge e = (i, j) has a preferred offset a_e and a tolerance δ_e, and its
 acceptance set is A_e = {θ : d_S¹(θ_j − θ_i, a_e) ≤ δ_e}. For a parameter
 vector λ with admissible configurations Q(λ):
 
-- K(λ) = {S : Q(λ) ∩ ⋂_{e∈S} A_e ≠ ∅}, CLAIM-347's complex at each λ;
+- K(λ) = {S : Q(λ) ∩ ⋂_{e∈S} A_e ≠ ∅}, [CLAIM-347](CLAIM-347.md)'s complex at each λ;
 - the compatibility region of S is C_S = {λ : S ∈ K(λ)};
 - the locking region T_S is the set of λ at which the dynamics admit an
   attracting phase-locked trajectory meeting every demand in S.
@@ -74,7 +74,7 @@ special case of the second kind."
 
 **Strictness (the reader's witness).** Two attractively coupled phase
 oscillators with the demand "antiphase": the demand is feasible, and the
-configuration meeting it is an unstable equilibrium. THEORY-1087 is a held
+configuration meeting it is an unstable equilibrium. [THEORY-1087](../theory.d/THEORY-1087.md) is a held
 instance of the two coming apart in a seven-node motif: the locked branch
 loses stability before the cycle mismatch is greatest.
 
@@ -88,16 +88,16 @@ locking coincide. The gap opens with several demands, or with demands met
 only on an unstable branch. In that sense the owner's "generalization"
 holds.
 
-**Where it sits.** This is CLAIM-567's feasible/reliably-reached split
-carried over a space of control parameters. CLAIM-555 indexes the complex by
+**Where it sits.** This is [CLAIM-567](CLAIM-567.md)'s feasible/reliably-reached split
+carried over a space of control parameters. [CLAIM-555](CLAIM-555.md) indexes the complex by
 the parameters being trained, which is a different space. The circle-valued
-obstruction is CLAIM-153's, and its spectral form is THEORY-1082. CLAIM-538
+obstruction is [CLAIM-153](CLAIM-153.md)'s, and its spectral form is [THEORY-1082](../theory.d/THEORY-1082.md). [CLAIM-538](CLAIM-538.md)
 gives tolerances only for real offsets; A12 §2.4 is right that its convex
 test "cannot simply be transferred unchanged" to the circle.
 
 ## What it does not say
 
 - That locking regions are the only realization geometry. Reachability and
-  basin size are further conditions, CLAIM-567's.
+  basin size are further conditions, [CLAIM-567](CLAIM-567.md)'s.
 - When changes in the complex coincide with bifurcations of the locked
-  states. That is QUESTION-tmp71nlk.
+  states. That is [QUESTION-tmp71nlk](../questions.d/QUESTION-tmp71nlk.md).

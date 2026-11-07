@@ -32,8 +32,8 @@ summary: >-
   whether the inquiry was "circling back towards some of the
   sheaf/topos-theoretic machinery". A: "gluing is about agreement on
   overlaps; continuation is about whether a history has an admissible
-  future". It is the temporal case of CLAIM-131's split between gluing and
-  extension. The identification of extension with THEORY-134's viability
+  future". It is the temporal case of [CLAIM-131](CLAIM-131.md)'s split between gluing and
+  extension. The identification of extension with [THEORY-134](../theory.d/THEORY-134.md)'s viability
   kernel over the remaining horizon is the reader's qualification of A's
   "promising formal bridge". The wording is A's; adopting it is the
   owner's call.
@@ -62,11 +62,11 @@ conditions, these viable histories inherit the usual gluing properties."
 bridge" to viability kernels. Made exact: for time-invariant dynamics, a
 viable history on [0, t] extends to a viable history on [0, T] exactly
 when its endpoint lies in the set of states from which some evolution
-stays in K for time T − t, the finite-horizon form of THEORY-134's
+stays in K for time T − t, the finite-horizon form of [THEORY-134](../theory.d/THEORY-134.md)'s
 viability kernel. Time-invariance is what lets the remaining horizon be
 shifted to start at 0.
 
-This is CLAIM-131's distinction carried from contexts to time intervals.
+This is [CLAIM-131](CLAIM-131.md)'s distinction carried from contexts to time intervals.
 In both, a compatible family glues and the obstruction is that a
 restriction map is not onto. For contexts the missing extension is a
 global section; for intervals it is a future.
@@ -74,7 +74,7 @@ global section; for intervals it is a future.
 ## What it does not say
 
 - That the sheaf of viable histories says how likely continuation is. On
-  the A ↔ B → D chain of CASE-tmpyzdwh every finite horizon has surviving
+  the A ↔ B → D chain of [CASE-tmpyzdwh](../cases.d/CASE-tmpyzdwh.md) every finite horizon has surviving
   histories, while surviving forever has probability zero (A25 §3).
 - Anything about time-dependent constraints or conditions on whole
   histories, where gluing itself can fail.

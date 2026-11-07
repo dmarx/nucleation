@@ -35,7 +35,7 @@ summary: >-
   owner's U10. A: "The conditional organization can be extraordinarily
   stable while its unconditional survival is not." The general statement
   over finite chains is the reader's framing of A's worked model,
-  CASE-tmpyzdwh, whose numbers the reader reran. The wording is A's;
+  [CASE-tmpyzdwh](../cases.d/CASE-tmpyzdwh.md), whose numbers the reader reran. The wording is A's;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpyzdwh — filed from the same exchange, Proposed -->
@@ -51,16 +51,16 @@ unconditional survival is not." And: "The existence of a compelling,
 low-dimensional, statistically stable description tells us little by
 itself about the permanence of the process it describes."
 
-In CASE-tmpyzdwh the survivors' law reaches its quasi-stationary value
+In [CASE-tmpyzdwh](../cases.d/CASE-tmpyzdwh.md) the survivors' law reaches its quasi-stationary value
 within about five time units and the mean lifetime is about 100.5. The
 ratio of the two times is about 4k/ε, so it grows without bound as the
 hazard falls, and the survivors' statistics look the same throughout.
 
-It extends CLAIM-079's note of 2026-11-04 (under small noise "every stable
+It extends [CLAIM-079](CLAIM-079.md)'s note of 2026-11-04 (under small noise "every stable
 state is only metastable") from deterministic stability to statistics
-conditioned on survival. It separates what CLAIM-566 calls persistence
+conditioned on survival. It separates what [CLAIM-566](CLAIM-566.md) calls persistence
 over a horizon from the stationarity of what the survivors do. It also
-names a sense TERM-071 lacks. A22 §5 distinguishes "Conditional
+names a sense [TERM-071](../terms.d/TERM-071.md) lacks. A22 §5 distinguishes "Conditional
 persistence", "Survival persistence" and "Regenerative persistence"; the
 first, "what the system looks like while it continues to exist", is new
 to the record.
@@ -70,4 +70,4 @@ to the record.
 - That stable statistics are evidence against persistence. They are no
   evidence either way; the hazard has to be estimated separately.
 - Anything about regeneration. With a way out of the failure state, the
-  failure is not absorbing (CLAIM-456 on which losses are repairable).
+  failure is not absorbing ([CLAIM-456](CLAIM-456.md) on which losses are repairable).

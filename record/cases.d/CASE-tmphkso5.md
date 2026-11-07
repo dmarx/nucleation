@@ -17,7 +17,7 @@ summary: >-
   conflates two phenomena, one revises it and the other explains the
   evidence away. With understanding and incentives controlled, the
   difference shows dispositions to revise the concept that their agreement
-  concealed. It would test TERM-098's separation of a concept from its
+  concealed. It would test [TERM-098](../terms.d/TERM-098.md)'s separation of a concept from its
   corrigibility. A52 drops it. The wording is A's; adopting it is the
   owner's call.
 ---
@@ -56,16 +56,16 @@ and revises concepts."
 
 ## What it can show
 
-- **A test of TERM-098's split.** The term keeps a concept apart from
+- **A test of [TERM-098](../terms.d/TERM-098.md)'s split.** The term keeps a concept apart from
   conceptual corrigibility, "the further capacity to find and revise its
   inadequacies". Matched present use with different revision is that split
-  observed. In TERM-tmp6ersv's terms, the communities share a present
+  observed. In [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s terms, the communities share a present
   concept and differ in a disposition (sense 1 or 2, the study does not
   say which) to revise it.
-- **The concept-level counterpart of CASE-188**, which separates
+- **The concept-level counterpart of [CASE-188](CASE-188.md)**, which separates
   corrigible resolve from entrenchment in two agents who decide alike under
   ordinary conditions.
-- **Bears on QUESTION-360**, when a learned distinction is a concept.
+- **Bears on [QUESTION-360](../questions.d/QUESTION-360.md)**, when a learned distinction is a concept.
 
 As a stipulated design it has no results. It says which outcome would
 count, not which is common, and whose disposition it is (the members', or

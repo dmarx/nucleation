@@ -38,25 +38,25 @@ governance".
 
 The record holds both sides without the question:
 
-- THEORY-1306 (Juarrero's statement of hierarchy theory): the slower level
+- [THEORY-1306](../theory.d/THEORY-1306.md) (Juarrero's statement of hierarchy theory): the slower level
   controls by constraint only while rates stay separated.
-- CLAIM-423: in a political collective, different temporal horizons affect
+- [CLAIM-423](../claims.d/CLAIM-423.md): in a political collective, different temporal horizons affect
   which component holds authority over the others.
-- CLAIM-344: resolve keeps a temporally extended policy effective against
+- [CLAIM-344](../claims.d/CLAIM-344.md): resolve keeps a temporally extended policy effective against
   locally dominant evaluations, though "mere slowness or persistence is not
   resolve".
-- Against slowness as authority: CASE-116's arm A, a slow register no member
-  reads (CLAIM-478: slowness makes a constraint available, not effective),
-  and TERM-094's control precedence, which claims control by interrupting
+- Against slowness as authority: [CASE-116](../cases.d/CASE-116.md)'s arm A, a slow register no member
+  reads ([CLAIM-478](../claims.d/CLAIM-478.md): slowness makes a constraint available, not effective),
+  and [TERM-094](../terms.d/TERM-094.md)'s control precedence, which claims control by interrupting
   and taking priority.
-- CLAIM-283 separates the precedence a motive claims from the authority the
+- [CLAIM-283](../claims.d/CLAIM-283.md) separates the precedence a motive claims from the authority the
   organization grants it.
 
 ## What would count as an answer
 
 A construction in which an order parameter slaves fast processes and is, or
-is not, granted authority in CLAIM-283's sense; and one in which a fast
+is not, granted authority in [CLAIM-283](../claims.d/CLAIM-283.md)'s sense; and one in which a fast
 process that interrupts holds precedence over a slow mode that slaves it.
 The reader suggests the question might instead be posed as a contrast
-between THEORY-1306 and TERM-094 on one construction; that is the owner's
+between [THEORY-1306](../theory.d/THEORY-1306.md) and [TERM-094](../terms.d/TERM-094.md) on one construction; that is the owner's
 choice.

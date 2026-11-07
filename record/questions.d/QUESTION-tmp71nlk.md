@@ -14,7 +14,7 @@ summary: >-
   and Disposition" (2026-11-06 to 07): a change in the compatibility
   complex need not coincide with a bifurcation of the attractor structure,
   and A asks for theorems saying when they agree and counterexamples where
-  they do not. It is QUESTION-125's sibling for the complex. The wording
+  they do not. It is [QUESTION-125](QUESTION-125.md)'s sibling for the complex. The wording
   is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpk1015 — filed from the same exchange, Proposed -->
@@ -30,11 +30,11 @@ coincide with a bifurcation of the attractor structure. One can change
 without the other." A12 §10 wants "theorems specifying when those structures
 agree and counterexamples where they do not".
 
-CLAIM-tmpk1015 gives the two objects: the compatibility region of each set of
+[CLAIM-tmpk1015](../claims.d/CLAIM-tmpk1015.md) gives the two objects: the compatibility region of each set of
 demands, and the locking region inside it. This question asks how their
-boundaries relate. It is the sibling of QUESTION-125, which pairs a block's
+boundaries relate. It is the sibling of [QUESTION-125](QUESTION-125.md), which pairs a block's
 gap with a bifurcation; this one pairs the complex with a bifurcation.
-THEORY-1087 answers it once, for one seven-node motif: the locked branch
+[THEORY-1087](../theory.d/THEORY-1087.md) answers it once, for one seven-node motif: the locked branch
 loses stability at a lag below the one at which the cycle mismatch is
 greatest.
 

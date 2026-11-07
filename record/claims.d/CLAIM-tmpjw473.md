@@ -32,9 +32,9 @@ summary: >-
   A's, at A36 §5 of the exchange "Individuation, Possibility, and
   Disposition" (2026-11-06 to 07), restated at A37 §8: "community
   judgments about identity can be causally productive of the
-  organizational differences they describe". It complements CLAIM-328's
+  organizational differences they describe". It complements [CLAIM-328](CLAIM-328.md)'s
   plural succession with a mechanism for how the respects come apart:
-  the verdict moves the producers, and under CLAIM-329 moving the
+  the verdict moves the producers, and under [CLAIM-329](CLAIM-329.md) moving the
   producers moves the persistence. The defeat condition is the reader's.
   Proposed and untested; the study that would test it is filed from the
   same exchange. The wording is A's; adopting it is the owner's call.
@@ -58,20 +58,20 @@ not merely reflect an existing structure. Through coordinated
 participation, it can help constitute a new one." Exchange share link:
 https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e.
 
-**Relation to held entries.** CLAIM-328 holds that when bundled
+**Relation to held entries.** [CLAIM-328](CLAIM-328.md) holds that when bundled
 continuities separate, several successors can each be genuine in a
 different respect; it says how the respects are carried, not what moves
-them. CLAIM-426 holds that a judgement whose circulation helps bring about
+them. [CLAIM-426](CLAIM-426.md) holds that a judgement whose circulation helps bring about
 what it says is evidence about what it will bring about; it is about
-judgements of what something will become, not about succession. CLAIM-329
+judgements of what something will become, not about succession. [CLAIM-329](CLAIM-329.md)
 makes persistence through turnover a matter of transmitting the producing
 organization. This claim joins them: a verdict on succession that moves the
-producers moves what CLAIM-329 counts as the persistence, so the verdict is
+producers moves what [CLAIM-329](CLAIM-329.md) counts as the persistence, so the verdict is
 partly self-fulfilling. Which successor, if any, then is the project
-persisting stays QUESTION-118's question.
+persisting stays [QUESTION-118](../questions.d/QUESTION-118.md)'s question.
 
 **Its evidence.** None yet. A's instances (Freenode and Libera Chat, Redis
-and Valkey) are A's reports, unverified, gathered in CASE-tmpcr92d with the
+and Valkey) are A's reports, unverified, gathered in [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md) with the
 study that would test the claim.
 
 ## What it does not say
@@ -80,8 +80,8 @@ study that would test the claim.
   cost and control of the name and infrastructure act too; A notes that
   Valkey's backers had commercial reasons.
 - **That identity branches.** A37 §12C, "Organizational identity can
-  fission", goes further than this; CLAIM-328 and CLAIM-287 hold that
+  fission", goes further than this; [CLAIM-328](CLAIM-328.md) and [CLAIM-287](CLAIM-287.md) hold that
   succession can be plural while numerical identity does not branch.
 - **That migration shows a verdict.** A, at A36 §7: "contributor migration
   is insufficient on its own". Testing the claim needs verdicts measured
-  independently of the move (CLAIM-342).
+  independently of the move ([CLAIM-342](CLAIM-342.md)).

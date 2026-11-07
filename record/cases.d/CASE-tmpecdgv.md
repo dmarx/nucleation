@@ -57,19 +57,19 @@ against √μ ≈ 0.7071.
 
 **It separates dependences.** A12 §4 lists five: timing, performance,
 maintenance, formation and governance. Maintenance and formation are
-TERM-100's senses of provenance, and governance from outside is CLAIM-404's.
+[TERM-100](../terms.d/TERM-100.md)'s senses of provenance, and governance from outside is [CLAIM-404](../claims.d/CLAIM-404.md)'s.
 The case adds two that come apart. A self-sustained oscillator under drive
 depends on the drive for its phase, not for its capacity. A damped one
 depends on it for its performance. A suppressed one has a capacity that is
 latent, not lost.
 
-**It is CLAIM-414's and CLAIM-522's point in an oscillator.** The output
+**It is [CLAIM-414](../claims.d/CLAIM-414.md)'s and [CLAIM-522](../claims.d/CLAIM-522.md)'s point in an oscillator.** The output
 under drive does not tell the three apart; only the withdrawals do.
 
 **Suppression is not atrophy.** A12: "If the suppressive intervention also
 changes a slow capacity variable, however, temporary inhibition could become
 a lasting loss of capability." "That would move from **suppression** to
-**atrophy**." That is CLAIM-602's and CLAIM-605's disuse decay, which this
+**atrophy**." That is [CLAIM-602](../claims.d/CLAIM-602.md)'s and [CLAIM-605](../claims.d/CLAIM-605.md)'s disuse decay, which this
 model, with no slow variable, lacks.
 
 ## What it cannot show
@@ -77,6 +77,6 @@ model, with no slow variable, lacks.
 It is fictional by construction: it shows what is coherent, not what is
 common. It does not say whether a control is coercive. A12 §4.3: "The
 dynamics alone do not establish the normative relationship." Whether control
-is legitimate is CLAIM-545's question of domination, not the model's. The
+is legitimate is [CLAIM-545](../claims.d/CLAIM-545.md)'s question of domination, not the model's. The
 literature A cites for oscillation quenching, Saxena, Prasad and Ramaswamy
 2013 (doi:10.1016/j.physrep.2013.06.001), is not held by the record.

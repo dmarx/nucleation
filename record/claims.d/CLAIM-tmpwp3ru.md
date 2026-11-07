@@ -35,8 +35,8 @@ summary: >-
   U6 to U9 (U6 asked whether the synchronization perspective informs the
   role of timescale separation in structural emergence and individuation;
   U7 to U9 asked for more). A calls the triad "an original synthesis";
-  each arm is a computation, two of them already held (CLAIM-478's second
-  half, CLAIM-521), and the transverse arm and the dissociation are new.
+  each arm is a computation, two of them already held ([CLAIM-478](CLAIM-478.md)'s second
+  half, [CLAIM-521](CLAIM-521.md)), and the transverse arm and the dissociation are new.
   Recomputed by the reader. The wording is A's; adopting it is the owner's
   call.
 ---
@@ -56,7 +56,7 @@ three-part classification in the literature."
 
 - **Collective.** Near a pattern-forming instability a few modes slow and
   become order parameters, and reduction to them improves. This is
-  CLAIM-478's second half, Haken's setting.
+  [CLAIM-478](CLAIM-478.md)'s second half, Haken's setting.
 - **Transverse.** For θ̇₁ = ω₁ + K sin(θ₂ − θ₁), θ̇₂ = ω₂ + K sin(θ₁ − θ₂),
   the relative phase φ = θ₂ − θ₁ obeys φ̇ = Δω − 2K sin φ, and the
   collective phase is neutral. A stable locked state exists for every
@@ -68,15 +68,15 @@ three-part classification in the literature."
   so it is lost before the locked state is. A20 §4: "critical slowing within
   the constraint relationship may undermine the reduction that critical
   slowing of the collective mode would support."
-- **Maintenance.** In CASE-189, and in A18 §4's version of it with Adler
+- **Maintenance.** In [CASE-189](../cases.d/CASE-189.md), and in A18 §4's version of it with Adler
   phase coupling, the maintenance eigenvalue goes to zero at the fold while
-  the coupling's restoring rate stays near its full value (CLAIM-521). A20
+  the coupling's restoring rate stays near its full value ([CLAIM-521](CLAIM-521.md)). A20
   §4: "The reduced collective description remains excellent over short
   horizons."
 
 So an observed slow mode does not say, by itself, whether organization is
 forming, a reduction is failing, or a maintained capacity is failing. This
-answers part of QUESTION-125. The locking case is the region where the gap
+answers part of [QUESTION-125](../questions.d/QUESTION-125.md). The locking case is the region where the gap
 closes where the regime loses stability, though a horizon-relative boundary
 is lost earlier. The maintenance case is the region where the regime goes
 with the gap intact.
@@ -89,9 +89,9 @@ export, so that definition (presumably A20 §1) is missing.
 ## What it does not say
 
 - That early-warning signals can tell the three apart. Why such signals are
-  weak evidence is THEORY-136's and THEORY-214's point; see also CLAIM-478's
+  weak evidence is [THEORY-136](../theory.d/THEORY-136.md)'s and [THEORY-214](../theory.d/THEORY-214.md)'s point; see also [CLAIM-478](CLAIM-478.md)'s
   note of 2026-11-03 on Scheffer et al.
 - That the three kinds are exhaustive.
-- That the maintenance arm holds without its caveats: CLAIM-521's
+- That the maintenance arm holds without its caveats: [CLAIM-521](CLAIM-521.md)'s
   dissociation is built in when coupling does not feed maintenance, and in
   a finite system the coupling is lost at escape, before the fold.

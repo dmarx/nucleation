@@ -56,10 +56,10 @@ The reader enumerated both modes and confirmed every set above.
 ## What it can show
 
 That a presheaf of realizable observations can fail to glue over two
-overlapping intervals whose union is itself observed (CLAIM-tmprmy7a). It
-is a worked instance of QUESTION-379: locally realizable, compatible on
+overlapping intervals whose union is itself observed ([CLAIM-tmprmy7a](../claims.d/CLAIM-tmprmy7a.md)). It
+is a worked instance of [QUESTION-379](../questions.d/QUESTION-379.md): locally realizable, compatible on
 the overlap, a coherent string globally, and no realization.
 
 It cannot show how often such failures occur in systems that are not
 stipulated, or tell an omitted capacity from a modelling error
-(QUESTION-tmp2p196).
+([QUESTION-tmp2p196](../questions.d/QUESTION-tmp2p196.md)).
