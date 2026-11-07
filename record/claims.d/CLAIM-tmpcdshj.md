@@ -1,7 +1,19 @@
 ---
 status: Proposed
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    From A54 and A55 §1 of the second share of the exchange. CLAIM-593
+    (Active), which holds both directions for mechanisms and which this
+    claim did not cite, is added to rests_on, with ARG-tmpvxtof as the
+    analogy; layer 3 says so. The fission correction now names
+    QUESTION-118's criterion and CLAIM-328's answer to QUESTION-290 in
+    place of "Whether identity itself branches", and the restatement
+    objection in defeated_if names CLAIM-593. The claim is otherwise
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -12,8 +24,8 @@ defeated_if: >-
   counted the same individual, as by an invariant structure alone. Also
   defeated as a thesis of its own if it only restates CLAIM-329 (a
   collective persists by transmission, not resemblance) with CLAIM-328
-  (plural successors) and CLAIM-tmp6xhn3, adding nothing about structural
-  change: that is, if no individual the record holds continues through a
+  (plural successors) and CLAIM-tmp6xhn3, with CLAIM-593's two directions
+  carried from mechanisms, adding nothing about structural change: that is, if no individual the record holds continues through a
   change of structure CLAIM-329 does not already cover by member
   replacement. Not defeated by a community's verdict that disagrees with
   the transmission criterion, which the claim treats as a cause
@@ -28,6 +40,7 @@ line:
 rests_on:
 - CLAIM-tmp6xhn3
 - CLAIM-329
+- CLAIM-593
 - CLAIM-328
 - CLAIM-287
 - CLAIM-280
@@ -60,6 +73,7 @@ summary: >-
   filer; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpjw473 CASE-tmpcr92d — filed from the same exchange, Proposed; premise, component and the owner's study -->
+<!-- inactive-ok-file: ARG-tmpvxtof — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
 <!-- inactive-ok-file: CLAIM-tmpnjz70 CLAIM-tmp340im — filed from the same exchange, Proposed; the later theses that rest on this one -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
 
@@ -94,7 +108,13 @@ The architecture, in layers:
    commitments" is "a form of Structuralism". That carries [QUESTION-393](../questions.d/QUESTION-393.md)'s
    transformations "of time" (Open, A's, from the owner's paste of
    2026-11-05) from kinds to
-   individuals. It also extends the owner's [CLAIM-136](CLAIM-136.md) (Proposed), which
+   individuals. Both of this layer's directions, two structurally
+   identical copies that are two and one individual through a change
+   that is not an isomorphism, are CLAIM-593's for mechanisms (Active),
+   which the exchange's first share does not cite; A55 §1 of the second
+   share does. The first carries over whole; the second only as
+   consistency, since for mechanisms it rests on a stipulation and here
+   on CLAIM-329's criterion (ARG-tmpvxtof). It also extends the owner's [CLAIM-136](CLAIM-136.md) (Proposed), which
    is synchronic and scoped to communicative acts.
 4. **Transmission may be external.** A32 §12: "A product can be a coherent
    historical individual even though almost all the processes sustaining
@@ -122,8 +142,9 @@ neither cited in the exchange.
 - **Correction (fidelity): plural succession, not fission.** A37 §12C,
   "Organizational identity can fission", and its "organizational
   continuity may branch". [CLAIM-328](CLAIM-328.md) holds "plural successor relations, not
-  branching identity". Whether identity itself branches is [QUESTION-118](../questions.d/QUESTION-118.md)
-  (Open). The title says different successors continue different respects.
+  branching identity". Which successor relation, if any, is the
+  persistence is QUESTION-118 (Open); that succession can be plural
+  without identity branching is CLAIM-328, answering QUESTION-290. The title says different successors continue different respects.
 - **Correction (fidelity): the transmission is causal.** A37's "historically
   connected" is weaker than its own next clause and than [CLAIM-329](CLAIM-329.md). The
   title keeps "causal transmission".
