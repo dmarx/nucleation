@@ -9,7 +9,7 @@
 #              would replace or add, and what would settle it
 #   Active     adopted: the argument may be stated in it
 #   Deferred   a candidate whose adoption is put off
-#   Superseded adopted, then replaced; the successor's `supersedes` names it
+#   Superseded adopted, then replaced; its `superseded_by` names the successor
 #   Rejected   a candidate declined, or retired with nothing in its place
 status: Active
 
@@ -21,8 +21,8 @@ status: Active
 # - TERM-NNN
 # refines:      # a special case of this broader term; both stay in force
 # - TERM-NNN
-# supersedes:   # adopted in place of this term, which goes Superseded
-# - TERM-NNN
+# superseded_by: # the term adopted in place of this one, which goes Superseded;
+# - TERM-NNN     # the successor's `supersedes` is derived from it, never written
 
 # The term itself.
 title: the term

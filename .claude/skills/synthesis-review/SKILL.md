@@ -77,7 +77,8 @@ For each, read the candidate and every component in full. Then:
 - **Arm A, admitted.** File a SYNTHESIS carrying the claim's title, body
   and defeater, with `admission: admitted`, its route, its role, every
   component in `integrates` and its premises in `premises`. Carry its
-  `grounds`, `uses` and `corroborated_by` unchanged, and keep its standing
+  `grounds` and `uses` unchanged (a reading's `corroborates` comes with it,
+  being stored on the reading), and keep its standing
   (ADR-tmpdne5p): an Active claim becomes Current, a Proposed one stays
   Proposed, and a Deferred or Rejected one is not moved. Set the CLAIM to
   Superseded by it. Then audit the relations pointing at the CLAIM:
