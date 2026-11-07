@@ -1,0 +1,144 @@
+---
+status: Proposed
+title: 'disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked'
+version: 1
+tags:
+- metaphysics
+- agency
+- social-ontology
+date: '2026-11-07'
+line: will-organization
+complements:
+- TERM-019
+- TERM-086
+- TERM-104
+summary: >-
+  The owner's U22 of the exchange "Individuation, Possibility, and
+  Disposition" (2026-11-06 to 07): "I'm wondering if the notion of a
+  "disposition" might be a clarifying tool (not necessarily a new thing,
+  could be an improved reframing of a term of art we've already adopted)".
+  The record already uses the word, in senses no entry separates; the
+  reader compiled them from the record's usage. A47 §2 split disposition
+  from capacity and §8 kept TERM-019's replacement; A50 §2 (after the
+  owner's U23, "flesh this out further") added masking, mimicking and
+  finking. The requirement that the bearer and boundary be declared is the
+  reader's qualification, made so that the word cannot slide again between
+  person and institution, the reason TERM-019 retired it. The wording is
+  A's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: TERM-086 TERM-104 CLAIM-553 CLAIM-417 THEORY-670 CLAIM-445 TERM-098 — Proposed; the entries whose uses of the word this term sorts, cited as open -->
+
+# TERM-tmp6ersv: disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked
+
+## Definition
+
+The owner, at U22 of the exchange "Individuation, Possibility, and
+Disposition" (https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e):
+"I'm wondering if the notion of a "disposition" might be a clarifying tool
+(not necessarily a new thing, could be an improved reframing of a term of
+art we've already adopted)". U22 names no term. A47 answered that a
+disposition is "**a property concerning possible manifestations**, rather
+than a report of a manifestation currently occurring", and advised: "I
+would make the dispositional dimension explicit across those existing
+concepts."
+
+A **disposition** is a modal property of a declared bearer, within a
+declared boundary: what that bearer can or characteristically would
+manifest across a declared family of conditions, whether or not it
+manifests it now. A use of the word says which bearer (a person, a
+regime, a perspective, an institution), where its boundary is drawn, and
+which of these senses it means. The senses are compiled from the record's
+usage by the reader:
+
+1. **Ability (capacity).** What the bearer can do across the declared
+   conditions, exercised or not. TERM-086's dispositional mode "sustains a
+   capacity for J across a declared family of conditions, exercised or
+   not"; CLAIM-422's maintained capacity is "The organization's continuing
+   disposition"; CLAIM-421's "dispositions, capacities". In Vetter's terms
+   this is 'breakable', "plain possibility" (THEORY-670).
+2. **Tendency (propensity).** What the bearer characteristically
+   manifests across relevant circumstances. TERM-104's "motivating as a
+   disposition"; CLAIM-553's "propensity to mobilize"; QUESTION-268's
+   "potential read as a disposition"; QUESTION-362's "reliably answering a
+   declared family of queries". In Vetter's terms this is 'fragile',
+   "manifestation in a sufficient proportion of cases" (THEORY-670).
+3. **Standing repertoire.** TERM-045's sense 2, "standing beliefs and
+   coupled resources", which CLAIM-417 turns into "a perspective's
+   dispositional repertoire". Whether that repertoire is Wacquant's habitus
+   or Swidler's toolkit is CLAIM-417's note of 2026-10-22, still open.
+
+Senses 1 and 2 come apart. A47 §2: "A person may know how to perform a
+task and be disposed to avoid performing it." "Likewise, a system may have
+the capacity to act but lack the disposition to exercise it under ordinary
+conditions." Neither is action readiness (TERM-094), "Which response is
+currently prepared or mobilized?", or practical efficacy, "Which response
+can actually influence what happens?" (A47 §2; CLAIM-047, CLAIM-283). On
+Vetter's view the two senses differ in degree, a proportion against at
+least one case, not in kind; the term keeps them apart without deciding
+that.
+
+**How an attribution from behaviour fails.** A50 §2:
+
+- "**Masking: a disposition exists but cannot manifest.**" Its example: a
+  disposition to object is kept while "an institutional rule prevents
+  objections from being heard". The record holds this content in CLAIM-047,
+  CLAIM-283, CLAIM-421's enactment interruption and CASE-127.
+- "**Mimicking: a manifestation occurs without the attributed
+  disposition.**" Its example: corrections "imposed by an external auditor
+  rather than generated by its own corrective procedures". The record
+  holds this in CLAIM-522 and CASE-126.
+- "**Finking or destruction: the triggering event changes the disposition
+  itself.**" Its example: "a crisis abolishes the very review mechanism
+  that would otherwise have been invoked." No entry names this case; the
+  nearest is CLAIM-445.
+
+A47 §2 had already said "So a disposition is not simply a reliable observed
+input-output association." Masks and finks are discussed in LIT-109 and
+NOTE-125, where Vetter's account "is not going to solve" them.
+
+## How it guards against the slide TERM-019 retired
+
+TERM-019 replaced the word because it "had been carrying both
+the person-level and the institution-level reading and the claims slid
+between them". A47 §8 agreed: "I think that change was justified." "An
+action-generating regime specifies an organized process capable of
+producing characteristic action. A disposition specifies a modal property
+or capacity associated with a bearer." So this term does not bring the
+word back for the regime. It names a property, and the property has no
+level of its own: it belongs to whichever bearer the claim declares.
+
+The declared boundary is what stops the slide. Whether an episode is a
+mask, a mimic or a fink depends on it. A disposition of a regime masked
+by withheld grant is, at the level of the agent, the will-organization
+(TERM-023) doing its work, and the agent's disposition is then not to act.
+An outside auditor's corrections mimic the institution's disposition only
+if the auditor is outside the declared boundary. A claim that moves an
+attribution from one bearer to another, a person's to an institution's or
+a regime's to its agent's, says so and argues it.
+
+## What it is not
+
+- **Not an action-generating regime** (TERM-019), which is what competes
+  for control; a disposition is a property of a bearer, which may be a
+  regime.
+- **Not a layer or a further object** of an organization. A47 §8 would
+  "**not replace action-generating regime, organizational perspective, or
+  will-organization with disposition**".
+- **Not borne by a concept.** A47 §8: "an abstract concept need not itself
+  be a causal bearer of dispositions. The dispositions are realized in its
+  interpreters and the organizations sustaining its use." That agrees with
+  TERM-098, which keeps the concept apart from the organization that
+  realizes it.
+- **Not a response profile, though read through one.** A sense-2
+  disposition is measured by a profile such as TERM-067, or TERM-115 for one
+  contingency. A47 §6 calls its kernel "an **operational characterization**,
+  not a philosophical reduction of dispositions to probability kernels."
+  Vetter individuates a disposition by its manifestation alone, so she is
+  the rival of a conditional profile, not its support.
+
+## What would settle it
+
+Adopting it would mean that each use of "disposition" or "dispositional"
+in the record says which bearer and which sense. It would be shown idle if
+every such use already fixes its sense from context, so that no claim
+reads differently once the sense is named.
