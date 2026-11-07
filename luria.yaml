@@ -316,6 +316,56 @@ vocabularies:
       Superseded:
         label: Replaced
         blurb: a later account covers the same ground better, and this one names it
+  synthesis-statuses:
+    label: Synthesis statuses
+    blurb: Where a synthesis stands as the record's account of how its components fit together, which is
+      a different question from whether each component is believed. A component's own standing is its
+      own status, derived, never copied here (ADR-tmpe7y42, and the decision proposing this scheme).
+    alert: Closed. Whether a synthesis earned its entry is not a status; it is `admission`, a field of its
+      own, so a synthesis can be unadmitted without being judged false.
+    terms:
+      Current:
+        label: The current account
+        blurb: the integration the record now holds for its line; the current-account view leads with it
+      Proposed:
+        label: Offered
+        blurb: argued and not yet adopted by the owner
+      Rejected:
+        label: Disbelieved
+        blurb: its integrating claim was tested and failed, or contradicted, though its components may
+          stand
+      Superseded:
+        label: Replaced
+        blurb: a later synthesis covers the same integration better, and this one names it
+  synthesis-admission:
+    label: Admission
+    blurb: Whether a synthesis earned an entry of its own (ADR-tmpe7y42, step 5), judged apart from whether
+      its integrating claim is believed, which is its status.
+    alert: Closed.
+    terms:
+      admitted:
+        label: Admitted
+        blurb: passed one of the three admission routes, which `route` names
+      unadmitted:
+        label: Exhausted by its components
+        blurb: passed no route, or lost the one it passed; its content is held by its components, and it is
+          kept and not refuted. The route it once held, if any, is in its history
+  synthesis-routes:
+    label: Admission routes
+    blurb: How a synthesis earned its entry (ADR-tmpe7y42, step 5). Each route has its own test and its own
+      kind of defeat.
+    alert: Closed.
+    terms:
+      hypothesis:
+        label: Independent hypothesis
+        blurb: a coherent case has every component hold and the integration fail
+      derived:
+        label: Derived result
+        blurb: a valid, nontrivial inference from the components that no claim already holds; warrant
+          demonstrated
+      integration:
+        label: Explanatory integration
+        blurb: a dependency, mechanism or discriminating prediction the components leave open
   statuses:
     Active:
       blurb: in force — the current answer, and what a citation should normally point at
@@ -1202,7 +1252,7 @@ schemes:
         blurb: the claim that replaced this one, or the ARG a claim about support moved to (ADR-061).
           Declared here rather than left to the built-in, so it has a converse and the `revisions` chain
           can walk how a thesis changed (ADR-032)
-        scheme: [CLAIM, ARG]
+        scheme: [CLAIM, ARG, SYNTHESIS]
         required: false
         many: true
         converse: supersedes
@@ -1317,8 +1367,9 @@ schemes:
       illustrates:
         label: Illustrates
         blurb: a claim this case makes vivid without bearing its weight. Losing the case costs the claim
-          an example, not a premise; that is what separates this from `grounds`
-        scheme: CLAIM
+          an example, not a premise; that is what separates this from `grounds`. A synthesis too
+          (ADR-tmptu1vn)
+        scheme: [CLAIM, SYNTHESIS]
         required: false
         many: true
         converse: illustrated_by
@@ -1511,8 +1562,8 @@ schemes:
         label: Concludes
         blurb: the claim or claims the inference arrives at. One inference may conclude several
           theses when the same premises bear on each in the same way, so that one verdict is filed once
-          (ADR-061)
-        scheme: CLAIM
+          (ADR-061), or the synthesis whose integration it argues (ADR-tmptu1vn)
+        scheme: [CLAIM, SYNTHESIS]
         required: true
         many: true
         converse: argued_by
@@ -1577,6 +1628,113 @@ schemes:
     axis: tags
     retires_on: Superseded
     successor: superseded_by
+  SYNTHESIS:
+    title: Syntheses
+    blurb: >-
+      An integration of the record's own entries into one account: what its components
+      add up to, admitted by a route a reviewer can check, and versioned as the account
+      develops. Its components keep their own status and voice; the current-account view
+      derives them (the decision proposing this scheme).
+    dir: record/syntheses.d
+    output: docs/syntheses
+    active: Current
+    render: index
+    allocate: merge
+    fields:
+      status:
+        vocabulary: synthesis-statuses
+      role:
+        vocabulary: claim-roles
+        required: true
+        blurb: whose voice the integration is put forward in; `supposed` for an account conditional on
+          hypotheses holding
+      admission:
+        vocabulary: synthesis-admission
+        required: true
+        blurb: whether it earned an entry of its own, apart from whether it is believed
+      route:
+        vocabulary: synthesis-routes
+        required_when:
+          admission:
+          - admitted
+        forbidden_when:
+          admission:
+          - unadmitted
+        blurb: the admission route it passed (ADR-tmpe7y42, step 5); required while it is admitted, and
+          absent once it is not, its former route then kept in its history
+      warrant:
+        vocabulary: claim-warrants
+        required: true
+        blurb: how the integration is supported; a derived synthesis is demonstrated
+      defeated_if:
+        required: true
+        blurb: what would defeat the integration by its route - the case, the error in the derivation, or
+          the outcome - beyond the failure of any component
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+        many: true
+        required: true
+    axis: line
+    retires_on: Superseded
+    successor: superseded_by
+    references:
+      integrates:
+        label: Integrates
+        blurb: every entry the synthesis puts together, premises and illustrations alike; the
+          current-account view shows each with its own status
+        scheme: [CLAIM, TERM, CASE, THEORY, QUESTION, ARG, SYNTHESIS]
+        required: true
+        many: true
+      premises:
+        label: Premises
+        blurb: the components the integration could not stand without, a subset of `integrates`
+        scheme: [CLAIM, SYNTHESIS]
+        required: false
+        many: true
+      illustrated_by:
+        label: Illustrated by
+        blurb: the converse of a case's `illustrates`, written by `luria link --fix`
+        scheme: CASE
+        required: false
+        many: true
+        converse: illustrates
+      argued_by:
+        label: Argued by
+        blurb: the arguments concluding this synthesis, written by `luria link --fix` from their
+          `concludes`
+        scheme: ARG
+        required: false
+        many: true
+        converse: concludes
+      bears_on:
+        label: Bears on
+        blurb: a question the synthesis bears on
+        scheme: QUESTION
+        required: false
+        many: true
+      supersedes:
+        label: Supersedes
+        blurb: the claim or synthesis this one replaced, written by `luria link --fix` from its
+          `superseded_by`
+        scheme: [CLAIM, SYNTHESIS]
+        required: false
+        many: true
+        converse: superseded_by
+      superseded_by:
+        label: Superseded by
+        blurb: the synthesis that replaced this one
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: supersedes
+        required_when:
+          status:
+          - Superseded
 remotes:
   ARXIV:
     name: arXiv
@@ -1672,6 +1830,13 @@ lint:
   # `pattern-ok:` in the first node's document says why it is deliberate.
   - inverted_premise
   - inverted_ground
+  # The SYNTHESIS scheme's own promises (ADR-tmptu1vn).
+  - premise_outside_integrates
+  - synthesis_premise_outside_integrates
+  - current_on_premise_not_in_force
+  - derived_not_demonstrated
+  - current_on_synthesis_not_current
+  - current_but_unadmitted
   - answered_but_open
   - answered_but_open_reading
   # A close reading of a work the record says it never reached (ADR-069).
@@ -1686,6 +1851,31 @@ lint:
   - inert-status
   - acknowledged-uniformity
 patterns:
+  # What the SYNTHESIS scheme promises and its fields cannot say (ADR-tmptu1vn).
+  premise_outside_integrates:
+    match: "(s:SYNTHESIS)-[:premises]->(p:CLAIM) WHERE NOT (s)-[:integrates]->(p)"
+    report: true
+    blurb: A synthesis premise not listed among what it integrates; `premises` is a subset of `integrates`.
+  synthesis_premise_outside_integrates:
+    match: "(s:SYNTHESIS)-[:premises]->(p:SYNTHESIS) WHERE NOT (s)-[:integrates]->(p)"
+    report: true
+    blurb: A synthesis premise not listed among what it integrates; `premises` is a subset of `integrates`.
+  current_on_premise_not_in_force:
+    match: "(s:SYNTHESIS {status: 'Current'} WHERE s.role <> 'supposed')-[:premises]->(p:CLAIM WHERE p.status <> 'Active')"
+    report: true
+    blurb: An adopted synthesis resting on a claim that is not in force; re-argue it, or it is no longer the current account. A supposed synthesis is exempt, since adopting it adopts the conditional, not its premises.
+  current_on_synthesis_not_current:
+    match: "(s:SYNTHESIS {status: 'Current'} WHERE s.role <> 'supposed')-[:premises]->(p:SYNTHESIS WHERE p.status <> 'Current')"
+    report: true
+    blurb: An adopted synthesis resting on a synthesis that is not adopted. A supposed synthesis is exempt.
+  current_but_unadmitted:
+    match: "(s:SYNTHESIS {status: 'Current', admission: 'unadmitted'})"
+    report: true
+    blurb: A synthesis adopted as the current account but not admitted, which the current-account view would leave out; adopting it needs an admission route.
+  derived_not_demonstrated:
+    match: "(s:SYNTHESIS {route: 'derived'} WHERE s.warrant <> 'demonstrated')"
+    report: true
+    blurb: A synthesis admitted as a derived result whose warrant is not demonstrated; a derivation is shown or it is not that route.
   # The credence checks of ADR-057, as warning classes (`report: true`). An
   # ARG's premises are not among them: its status is credence in its
   # inference (ADR-059). Quoted, because a property map puts `: ` in the value.
@@ -1823,3 +2013,7 @@ chains:
       in the exchange that prompted these schemes was here (ADR-032).
     facet_by:
     - status
+views:
+  current-account:
+    template: record/views.d/current-account.md.j2
+    output: docs/current-account.md

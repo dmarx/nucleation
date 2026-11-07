@@ -1,8 +1,14 @@
 ---
-status: Proposed
+status: Superseded
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmpj2lnj, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-tmptu1vn). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -25,6 +31,8 @@ defeated_if: >-
   as a thesis of its own if it only restates CLAIM-474's order,
   CLAIM-329, CLAIM-027 and CLAIM-545, adding nothing about which bearer
   holds the levels.
+superseded_by:
+- SYNTHESIS-tmpj2lnj
 tags:
 - individuation
 - agency
@@ -65,6 +73,7 @@ summary: >-
   marked. The integration's wording is A's, corrected by the filer;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 — Proposed; parts of the supposed account, cited as held -->

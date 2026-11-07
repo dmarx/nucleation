@@ -1,8 +1,14 @@
 ---
-status: Proposed
+status: Superseded
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 4
+version: 5
 history:
+- version: 5
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmp73anp, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-tmptu1vn). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 - version: 4
   date: '2026-11-07'
   note: >-
@@ -47,6 +53,8 @@ defeated_if: >-
   if it only restates CLAIM-tmpagkxi's distinct wrong with CLAIM-445,
   CLAIM-523 and CLAIM-462. Not defeated by unavoidable blindness, which
   condition 5 excuses.
+superseded_by:
+- SYNTHESIS-tmp73anp
 tags:
 - ethics
 - self-governance
@@ -91,6 +99,7 @@ summary: >-
   Corrections are marked. The wording is A's; adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp2ka9y CLAIM-tmp6xhn3 CLAIM-tmpcdshj — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-446 TERM-086 — Deferred, Proposed; cited with their standing -->
 <!-- inactive-ok-file: CLAIM-tmpagkxi CLAIM-tmplgp4k CASE-tmpnlf5c CLAIM-tmpnjz70 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->

@@ -1,8 +1,14 @@
 ---
-status: Proposed
+status: Superseded
 title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
-version: 3
+version: 4
 history:
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmprmcy0, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-tmptu1vn). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 - version: 3
   date: '2026-11-07'
   note: >-
@@ -44,6 +50,8 @@ defeated_if: >-
   categories confirmed through use, adding nothing about individuation.
   Not defeated by a concept that persists though it is false, which the
   claim allows.
+superseded_by:
+- SYNTHESIS-tmprmcy0
 tags:
 - individuation
 - philosophy-of-language
@@ -95,6 +103,7 @@ summary: >-
   integration's wording is A's, corrected by the filer; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpcdshj CASE-tmpb16ru CLAIM-tmpnza8k CLAIM-tmpxe1ih CASE-tmphkso5 — filed from the same exchange, Proposed; premise, the owner's case and A's components -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-417 TERM-098 CLAIM-276 — Proposed; components, cited with their standing -->

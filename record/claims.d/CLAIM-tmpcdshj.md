@@ -1,8 +1,14 @@
 ---
-status: Proposed
+status: Superseded
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 3
+version: 4
 history:
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmp46moy, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-tmptu1vn). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 - version: 3
   date: '2026-11-07'
   note: >-
@@ -42,6 +48,8 @@ defeated_if: >-
   by a community's verdict that disagrees with the transmission
   criterion, which the claim treats as a cause (CLAIM-tmpjw473), not a
   criterion.
+superseded_by:
+- SYNTHESIS-tmp46moy
 tags:
 - individuation
 - metaphysics
@@ -84,6 +92,7 @@ summary: >-
   cited are named. The integration's wording is A's, corrected by the
   filer; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-tmpe7y42 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6xhn3 CLAIM-tmpjw473 CASE-tmpcr92d — filed from the same exchange, Proposed; premise, component and the owner's study -->
 <!-- inactive-ok-file: ARG-tmpvxtof — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->

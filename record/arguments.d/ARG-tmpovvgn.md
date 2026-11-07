@@ -1,12 +1,20 @@
 ---
 status: Rejected
 title: "The Wells Fargo directors' report shows occlusion by a narrow construal of harm and blocked uptake of concerns, and does not show a performance regime reproducing that representation through its own success"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Its `concludes` now points to SYNTHESIS-tmp73anp, the synthesis
+    CLAIM-tmptfuky was moved into (ADR-tmptu1vn), because it is about
+    the current account and not its archived predecessor. The text is
+    unchanged and still names the claim where it was written against it.
 form: evidence
 grounds:
 - CASE-151
 concludes:
-- CLAIM-tmptfuky
+- SYNTHESIS-tmp73anp
 tags:
 - society-and-governance
 - ethics
@@ -17,6 +25,7 @@ line:
 summary: >-
   From Wells Fargo's Community Bank ([CASE-151](../cases.d/CASE-151.md), reported in [NOTE-1095](../notes.d/NOTE-1095.md)) to the reproductive layer of A's [CLAIM-tmptfuky](../claims.d/CLAIM-tmptfuky.md), from A60 §7 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07). A cited [NOTE-1095](../notes.d/NOTE-1095.md), not the case. Rejected as to reproduction, as A60 §7 itself says: the report shows occlusion and blocked uptake, not a performance regime reproducing its representation through its success. The judgement of support is the reader's, filed by the filer (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmptu1vn — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed or Deferred; cited as filed -->
 
 # ARG-tmpovvgn: The Wells Fargo directors' report shows occlusion by a narrow construal of harm and blocked uptake of concerns, and does not show a performance regime reproducing that representation through its own success

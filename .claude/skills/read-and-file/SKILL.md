@@ -5,6 +5,8 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- .claude/skills/read-and-file/SKILL.md -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-tmpe7y42 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-tmptu1vn — Proposed; the SYNTHESIS scheme, step 9b, until the owner adopts it -->
+<!-- inactive-ok-file: CLAIM-545 — Proposed; the legacy synthesis CLAIM step 9b names -->
 
 # Reading and filing
 
@@ -221,7 +223,7 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **Admit it, or don't.** File a synthesis as a CLAIM only if it passes
+- **Admit it, or don't.** File a synthesis as a SYNTHESIS only if it passes
   one of three routes, and say which:
   - *independent hypothesis*: a coherent case, stipulated if need be, in
     which every component holds (no component's own `defeated_if` met)
@@ -238,23 +240,33 @@ synthesis as well.
   the curation entry, linked to the components. If a narrower sentence
   passes where the stated one fails, file the narrower one. Watch for a
   free parameter ("a declared bearer"): it absorbs every case, and fixing
-  it can contradict the synthesis's own premises. A synthesis CLAIM filed
-  in your own unmerged contribution that passes no route is withdrawn:
-  remove the file, move its text and audit into the curation entry, and
-  repoint what cites it. Not admitted is not a finding that it is false.
-- **File the latest version of each admitted thesis** as one CLAIM,
-  Proposed:
+  it can contradict the synthesis's own premises. A SYNTHESIS filed in
+  your own unmerged contribution that passes no route is withdrawn: remove
+  the file, move its text and audit into the curation entry, and repoint
+  what cites it. A merged SYNTHESIS that loses its admission keeps its
+  file and its status, and its `admission` becomes `unadmitted`, with the
+  reason in its history. Not admitted is not a finding that it is false.
+- **File the latest version of each admitted thesis** as one SYNTHESIS
+  (`luria new synthesis`; ADR-tmptu1vn), Proposed, with `admission:
+  admitted`, `route` set to the route it passed, a `role`, and every
+  component in `integrates`. The
+  current-account view derives each component's standing from that
+  field, so a component left out of it is invisible there:
   - the title states the integrating claim;
   - the body gives the layers, each with its codes, voice and status,
     and the audit's corrections marked as corrections;
-  - `rests_on` holds the components that are premises; components that
-    only illustrate are named in the body;
+  - `premises` holds the components that are premises; components that
+    only illustrate go in `integrates` alone;
   - `defeated_if` states what would defeat it by its route (the case,
     the error in the derivation, or the outcome), and the objection that
     it only restates its components;
   - earlier versions are listed in the body.
-- **Revise, don't duplicate.** Where a synthesis CLAIM for the account
-  is held, revise it as a new version.
+- **Revise, don't duplicate.** Where a SYNTHESIS for the account is held,
+  revise it as a new version. Where only a legacy synthesis CLAIM holds it
+  (filed before ADR-tmptu1vn, such as CLAIM-545), file the revision as a
+  SYNTHESIS and set the CLAIM to Superseded by it, its history kept on the
+  CLAIM. Then repoint the relations that describe the current account to
+  the SYNTHESIS, and leave those that record history.
 - **Account for it.** The curation entry gets a section, "Syntheses
   audited": each synthesis, its classification, what was filed or why
   not, and the findings by check.
