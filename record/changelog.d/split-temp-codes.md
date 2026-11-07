@@ -1,5 +1,5 @@
 ### Fixed
 
 - Four temporary codes that a line break had split in folded prose, which the merge-time numbering therefore missed, now carry their numbers: [CLAIM-614](record/claims.d/CLAIM-614.md) in [SYNTHESIS-002](record/syntheses.d/SYNTHESIS-002.md) and [CLAIM-624](record/claims.d/CLAIM-624.md), [CLAIM-615](record/claims.d/CLAIM-615.md) in [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md) and [CLAIM-620](record/claims.d/CLAIM-620.md), and [ADR-076](record/decisions.d/ADR-076.md) and [ADR-075](record/decisions.d/ADR-075.md) in [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md). Found by the first synthesis review.
-- The `history:` lists of nine entries filed or revised in dmarx/nucleation#422 and #424 are in ascending order, so each ends at the document's version as lint requires; they had been written newest first.
-- `docs/README.md` links the current-account view, which ADR-076 added without an index entry.
+- The `history:` lists of nine entries filed or revised in dmarx/nucleation#422 and [#424](https://github.com/dmarx/nucleation/issues/424) are in ascending order, so each ends at the document's version as lint requires; they had been written newest first.
+- `docs/README.md` links the current-account view, which [ADR-076](record/decisions.d/ADR-076.md) added without an index entry.
