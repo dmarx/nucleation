@@ -6,6 +6,10 @@ formerly:
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
 version: 2
 history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Moved from CLAIM-624 (version 4) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-624, now Superseded by this entry.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -13,10 +17,6 @@ history:
     into the scheme as SYNTHESIS-tmpsw5k6, so its integrates and defeated_if now name the
     synthesis. The body's citations of CLAIM-545 are left as they were.
     No other change.
-- version: 1
-  date: '2026-11-07'
-  note: >-
-    Moved from CLAIM-624 (version 4) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-624, now Superseded by this entry.
 role: thesis
 admission: admitted
 route: hypothesis

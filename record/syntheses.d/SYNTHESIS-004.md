@@ -6,6 +6,10 @@ formerly:
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
 version: 2
 history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Moved from CLAIM-610 (version 2) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-610, now Superseded by this entry.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -13,10 +17,6 @@ history:
     into the scheme as SYNTHESIS-tmpsw5k6, so its integrates, premises, defeated_if and summary now name the
     synthesis. The body's citations of CLAIM-545 are left as they were.
     No other change.
-- version: 1
-  date: '2026-11-07'
-  note: >-
-    Moved from CLAIM-610 (version 2) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-610, now Superseded by this entry.
 role: supposed
 admission: admitted
 route: hypothesis
