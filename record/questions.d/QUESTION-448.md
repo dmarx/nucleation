@@ -1,5 +1,8 @@
 ---
+number: 448
 status: Open
+formerly:
+- QUESTION-tmp416y5
 title: 'Where does the criterion that a faithful translation preserves the source''s distribution over communicative situations sit in the fidelity profile: is it one component of the profile, a weighting of several, or a rival to the profile; and does the divergence and tolerance it needs fix a ranking of failing renderings that the theory of fidelity is said not to fix?'
 version: 1
 tags:
@@ -22,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-111 CLAIM-128 CLAIM-220 — Proposed; the criterion, the task-relativity claim and the line's thesis, cited with their standing -->
 
-# QUESTION-tmp416y5: Where does the criterion that a faithful translation preserves the source's distribution over communicative situations sit in the fidelity profile: is it one component of the profile, a weighting of several, or a rival to the profile; and does the divergence and tolerance it needs fix a ranking of failing renderings that the theory of fidelity is said not to fix?
+# QUESTION-448: Where does the criterion that a faithful translation preserves the source's distribution over communicative situations sit in the fidelity profile: is it one component of the profile, a weighting of several, or a rival to the profile; and does the divergence and tolerance it needs fix a ranking of failing renderings that the theory of fidelity is said not to fix?
 
 ## Why it is a question
 

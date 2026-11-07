@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**849 documents cited without acknowledgement.** Not listed: 17518 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**849 documents cited without acknowledgement.** Not listed: 17545 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1649,7 +1649,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force
 
-36 citations in 12 files await a look; 35 other citations of it are acknowledged.
+36 citations in 12 files await a look; 36 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-019.md:12`](../../record/arguments.d/ARG-019.md)
 - [`record/arguments.d/ARG-019.md:13`](../../record/arguments.d/ARG-019.md)
@@ -2204,7 +2204,7 @@ A regime of valence is felt, in the sense of attended and available to the syste
 
 Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 
-16 citations in 16 files await a look; 45 other citations of it are acknowledged.
+16 citations in 16 files await a look; 46 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-405.md:188`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-471.md:24`](../../record/claims.d/CLAIM-471.md)
@@ -2377,27 +2377,6 @@ Some persistent anxiety may be governance-maintained rather than belief-maintain
 - [`record/questions.d/QUESTION-271.md:68`](../../record/questions.d/QUESTION-271.md)
 - [`record/questions.d/QUESTION-325.md:17`](../../record/questions.d/QUESTION-325.md)
 
-### [CLAIM-476](../../record/claims.d/CLAIM-476.md) — Proposed
-
-Beyond what it does operationally, luria is an apparatus in Barad's constitutive sense for the objects of a record, and only for them: the record's objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record's own inquiry reconstitutes the apparatus that constitutes them
-
-14 citations in 13 files await a look; 33 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-477.md:74`](../../record/claims.d/CLAIM-477.md)
-- [`record/claims.d/CLAIM-479.md:100`](../../record/claims.d/CLAIM-479.md)
-- [`record/literature.d/LIT-1636.md:58`](../../record/literature.d/LIT-1636.md)
-- [`record/literature.d/LIT-1650.md:60`](../../record/literature.d/LIT-1650.md)
-- [`record/literature.d/LIT-1653.md:71`](../../record/literature.d/LIT-1653.md)
-- [`record/literature.d/LIT-1657.md:70`](../../record/literature.d/LIT-1657.md)
-- [`record/literature.d/LIT-1661.md:93`](../../record/literature.d/LIT-1661.md)
-- [`record/literature.d/LIT-1665.md:62`](../../record/literature.d/LIT-1665.md)
-- [`record/literature.d/LIT-1669.md:62`](../../record/literature.d/LIT-1669.md)
-- [`record/literature.d/LIT-1672.md:71`](../../record/literature.d/LIT-1672.md)
-- [`record/notes.d/NOTE-1484.md:344`](../../record/notes.d/NOTE-1484.md)
-- [`record/notes.d/NOTE-1484.md:345`](../../record/notes.d/NOTE-1484.md)
-- [`record/questions.d/QUESTION-284.md:74`](../../record/questions.d/QUESTION-284.md)
-- [`record/questions.d/QUESTION-360.md:65`](../../record/questions.d/QUESTION-360.md)
-
 ### [NOTE-737](../../record/notes.d/NOTE-737.md) — Skimmed
 
 Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inference
@@ -2479,6 +2458,26 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 - [`record/questions.d/QUESTION-264.md:57`](../../record/questions.d/QUESTION-264.md)
 - [`record/questions.d/QUESTION-268.md:45`](../../record/questions.d/QUESTION-268.md)
 - [`record/questions.d/QUESTION-278.md:77`](../../record/questions.d/QUESTION-278.md)
+
+### [CLAIM-476](../../record/claims.d/CLAIM-476.md) — Proposed
+
+Beyond what it does operationally, luria is an apparatus in Barad's constitutive sense for the objects of a record, and only for them: the record's objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record's own inquiry reconstitutes the apparatus that constitutes them
+
+13 citations in 12 files await a look; 35 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-477.md:74`](../../record/claims.d/CLAIM-477.md)
+- [`record/claims.d/CLAIM-479.md:100`](../../record/claims.d/CLAIM-479.md)
+- [`record/literature.d/LIT-1636.md:58`](../../record/literature.d/LIT-1636.md)
+- [`record/literature.d/LIT-1650.md:60`](../../record/literature.d/LIT-1650.md)
+- [`record/literature.d/LIT-1653.md:71`](../../record/literature.d/LIT-1653.md)
+- [`record/literature.d/LIT-1657.md:70`](../../record/literature.d/LIT-1657.md)
+- [`record/literature.d/LIT-1661.md:93`](../../record/literature.d/LIT-1661.md)
+- [`record/literature.d/LIT-1665.md:62`](../../record/literature.d/LIT-1665.md)
+- [`record/literature.d/LIT-1669.md:62`](../../record/literature.d/LIT-1669.md)
+- [`record/literature.d/LIT-1672.md:71`](../../record/literature.d/LIT-1672.md)
+- [`record/notes.d/NOTE-1484.md:344`](../../record/notes.d/NOTE-1484.md)
+- [`record/notes.d/NOTE-1484.md:345`](../../record/notes.d/NOTE-1484.md)
+- [`record/questions.d/QUESTION-360.md:65`](../../record/questions.d/QUESTION-360.md)
 
 ### [NOTE-829](../../record/notes.d/NOTE-829.md) — Skimmed
 
@@ -2651,6 +2650,24 @@ Saussure's value, as the record reads it, supports transport of relational ident
 - [`record/claims.d/CLAIM-489.md:59`](../../record/claims.d/CLAIM-489.md)
 - [`record/theory.d/THEORY-159.md:98`](../../record/theory.d/THEORY-159.md)
 
+### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Proposed
+
+Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
+
+11 citations in 8 files await a look; 28 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-368.md:33`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:44`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:87`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:189`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-437.md:208`](../../record/claims.d/CLAIM-437.md)
+- [`record/decisions.d/ADR-039.md:36`](../../record/decisions.d/ADR-039.md)
+- [`record/notes.d/NOTE-1488.md:183`](../../record/notes.d/NOTE-1488.md)
+- [`record/questions.d/QUESTION-265.md:54`](../../record/questions.d/QUESTION-265.md)
+- [`record/terms.d/TERM-094.md:19`](../../record/terms.d/TERM-094.md)
+- [`record/theory.d/THEORY-055.md:62`](../../record/theory.d/THEORY-055.md)
+- [`record/theory.d/THEORY-892.md:101`](../../record/theory.d/THEORY-892.md)
+
 ### [CLAIM-053](../../record/claims.d/CLAIM-053.md) — Superseded
 
 The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out
@@ -2794,23 +2811,6 @@ Nothing here is new but a question: planning theory, control theory, executive c
 - [`record/questions.d/QUESTION-056.md:36`](../../record/questions.d/QUESTION-056.md)
 - [`record/questions.d/QUESTION-056.md:49`](../../record/questions.d/QUESTION-056.md)
 
-### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Proposed
-
-Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
-
-10 citations in 8 files await a look; 28 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-368.md:33`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:81`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:184`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-437.md:208`](../../record/claims.d/CLAIM-437.md)
-- [`record/decisions.d/ADR-039.md:36`](../../record/decisions.d/ADR-039.md)
-- [`record/notes.d/NOTE-1488.md:183`](../../record/notes.d/NOTE-1488.md)
-- [`record/questions.d/QUESTION-265.md:54`](../../record/questions.d/QUESTION-265.md)
-- [`record/terms.d/TERM-094.md:19`](../../record/terms.d/TERM-094.md)
-- [`record/theory.d/THEORY-055.md:62`](../../record/theory.d/THEORY-055.md)
-- [`record/theory.d/THEORY-892.md:101`](../../record/theory.d/THEORY-892.md)
-
 ### [CLAIM-069](../../record/claims.d/CLAIM-069.md) — Superseded
 
 The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts
@@ -2837,7 +2837,7 @@ The record's iterated-learning readings bear on lexical, structural and function
 - [`record/cases.d/CASE-068.md:36`](../../record/cases.d/CASE-068.md)
 - [`record/cases.d/CASE-068.md:117`](../../record/cases.d/CASE-068.md)
 - [`record/claims.d/CLAIM-059.md:22`](../../record/claims.d/CLAIM-059.md)
-- [`record/claims.d/CLAIM-191.md:107`](../../record/claims.d/CLAIM-191.md)
+- [`record/claims.d/CLAIM-191.md:115`](../../record/claims.d/CLAIM-191.md)
 - [`record/decisions.d/ADR-061.md:119`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:327`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:332`](../../record/decisions.d/ADR-061.md)
@@ -3040,7 +3040,7 @@ Kirby, Cornish and Smith show structure emerging under transmission with an expe
 
 - [`record/claims.d/CLAIM-068.md:85`](../../record/claims.d/CLAIM-068.md)
 - [`record/claims.d/CLAIM-090.md:44`](../../record/claims.d/CLAIM-090.md)
-- [`record/claims.d/CLAIM-191.md:92`](../../record/claims.d/CLAIM-191.md)
+- [`record/claims.d/CLAIM-191.md:100`](../../record/claims.d/CLAIM-191.md)
 - [`record/decisions.d/ADR-061.md:102`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:327`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:332`](../../record/decisions.d/ADR-061.md)
@@ -3715,7 +3715,7 @@ A system persists as the same self over an interval when a coherence measure is 
 
 The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
 
-7 citations in 6 files await a look; 66 other citations of it are acknowledged.
+7 citations in 6 files await a look; 67 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1926.md:43`](../../record/literature.d/LIT-1926.md)
 - [`record/notes.d/NOTE-1483.md:198`](../../record/notes.d/NOTE-1483.md)
@@ -3988,7 +3988,7 @@ Persons and organizations can be described not as successive stages, with the co
 - [`record/claims.d/CLAIM-526.md:21`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1922.md:119`](../../record/literature.d/LIT-1922.md)
 - [`record/notes.d/NOTE-1483.md:131`](../../record/notes.d/NOTE-1483.md)
-- [`record/questions.d/QUESTION-284.md:99`](../../record/questions.d/QUESTION-284.md)
+- [`record/questions.d/QUESTION-284.md:100`](../../record/questions.d/QUESTION-284.md)
 - [`record/terms.d/TERM-088.md:150`](../../record/terms.d/TERM-088.md)
 
 ### [THEORY-142](../../record/theory.d/THEORY-142.md) — Proposed
@@ -4029,8 +4029,8 @@ A whole can be compared in agency with its parts, relative to a chosen decomposi
 - [`record/claims.d/CLAIM-347.md:255`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-347.md:283`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-368.md:29`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:140`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:210`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:145`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:215`](../../record/claims.d/CLAIM-368.md)
 - [`record/terms.d/TERM-060.md:119`](../../record/terms.d/TERM-060.md)
 
 ### [THEORY-257](../../record/theory.d/THEORY-257.md) — Proposed
@@ -5123,8 +5123,8 @@ A trait malfunctions when its operation does not correlate positively with the n
 5 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-368.md:30`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:144`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:211`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:149`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:216`](../../record/claims.d/CLAIM-368.md)
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:90`](../../record/questions.d/QUESTION-128.md)
 
@@ -5294,7 +5294,7 @@ Pragmatic fidelity requires preserving the dynamics of interpretation, not only 
 
 No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting
 
-4 citations in 2 files await a look; 30 other citations of it are acknowledged.
+4 citations in 2 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:76`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-347.md:247`](../../record/claims.d/CLAIM-347.md)
@@ -5871,7 +5871,7 @@ Constitution is best inferred, and only abductively, from the failure to break a
 - [`record/claims.d/CLAIM-405.md:222`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-514.md:108`](../../record/claims.d/CLAIM-514.md)
 - [`record/literature.d/LIT-1939.md:12`](../../record/literature.d/LIT-1939.md)
-- [`record/questions.d/QUESTION-284.md:135`](../../record/questions.d/QUESTION-284.md)
+- [`record/questions.d/QUESTION-284.md:136`](../../record/questions.d/QUESTION-284.md)
 
 ### [THEORY-130](../../record/theory.d/THEORY-130.md) — Proposed
 
@@ -7278,7 +7278,7 @@ What survives translation is the invariants, and approximately preserved relatio
 
 In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional
 
-2 citations in 1 file await a look; 5 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-170.md:22`](../../record/theory.d/THEORY-170.md)
 - [`record/theory.d/THEORY-170.md:24`](../../record/theory.d/THEORY-170.md)
@@ -7323,7 +7323,7 @@ Northstar simply prefers speed: the governing relations are revealed preferences
 
 Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
 
-2 citations in 2 files await a look; 15 other citations of it are acknowledged.
+2 citations in 2 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1895.md:65`](../../record/literature.d/LIT-1895.md)
 - [`record/literature.d/LIT-768.md:45`](../../record/literature.d/LIT-768.md)
@@ -8920,7 +8920,7 @@ A trope is a family of observational profiles joined by admissible transformatio
 
 Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between
 
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:43`](../../record/questions.d/QUESTION-063.md)
 
@@ -8936,7 +8936,7 @@ Identifying agents by their will-organization is circular: will-organization is 
 
 Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
 
-1 citation in 1 file awaits a look; 26 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 27 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-064.md:55`](../../record/questions.d/QUESTION-064.md)
 
@@ -8944,7 +8944,7 @@ Drift is retrieval failure outside a critical distance: a restatement close enou
 
 Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
-1 citation in 1 file awaits a look; 24 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-184.md:18`](../../record/claims.d/CLAIM-184.md)
 
@@ -9458,7 +9458,7 @@ Three Problems for the Mutual Manipulability Account of Constitutive Relevance i
 
 1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-284.md:142`](../../record/questions.d/QUESTION-284.md)
+- [`record/questions.d/QUESTION-284.md:143`](../../record/questions.d/QUESTION-284.md)
 
 ### [LIT-1933](../../record/literature.d/LIT-1933.md) — Unfetched
 
