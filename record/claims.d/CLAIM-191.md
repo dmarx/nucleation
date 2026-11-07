@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpnf0d8
 title: 'Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators'' own framings rather than at random, and a code restores continuity of transmission'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the third synthesis review of 2026-11-07: CLAIM-090, on which the direction
+    clause depends and which the body cites, joins rests_on. Title and
+    defeater unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,6 +32,7 @@ rests_on:
 - CLAIM-002
 - CLAIM-270
 - CLAIM-267
+- CLAIM-090
 grounds:
 - THEORY-155
 - CASE-015

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpy6y22
 title: 'Whether a system''s own reachable classes ever coincide with what an observer can tell apart depends on the order of the observer''s probe costs as well as on the mechanism: the two partitions agree exactly at partitions common to the observer''s refinement chain and the system''s merge tree, a level of the merge tree can be made to agree under some cost order exactly when it is the common refinement of some set of the available probes, and the cost order decides which of those levels actually appear'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,14 @@ history:
     objection is filed, and the argument and the vertex's two cost orders
     were re-checked, the latter in scratch/formal/case206_check.py.
     Nothing in the record meets its defeated_if.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At the third synthesis review of 2026-11-07: the summary's cost order at CASE-206's
+    vertex held only with flatness and mode at the case's costs. Over all 24
+    orders of the four probes the middle level appears in 8, exactly when
+    depth is dearer than both mode and side; the summary now says so. Title
+    and defeater unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -53,8 +61,9 @@ summary: >-
   under some cost order exactly when it is the common refinement of some
   set of the available probes (put that set first), and the actual order
   decides which such levels appear. On the vertex, flat and the four
-  half-branches agree when side is cheaper to observe than depth and never
-  when it is dearer. Checked on 1,500 random systems over every cost
+  half-branches agree exactly when depth is dearer to observe than both
+  mode and side, in 8 of the 24 orders of the four probes; with flatness
+  and mode at CASE-206's costs, that is when side is cheaper than depth. Checked on 1,500 random systems over every cost
   order. So whether a mechanism's own kinds are visible as individuals is a
   joint fact about what it can become, what can be measured, and what is
   cheap to measure first. The wording is the assistant's (Claude, in this
