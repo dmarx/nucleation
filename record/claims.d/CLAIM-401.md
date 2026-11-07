@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpcrdhj
 title: 'The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-26'
@@ -25,6 +25,14 @@ history:
     on QUESTION-252's remainder (ADR-060): the leave-one-out cells are
     facts once the regime is fixed. Status Proposed to Active. The claim
     is unchanged.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    At the synthesis review of 2026-11-07: the citation of THEORY-752 is
+    narrowed to what it shows, that its result is specific to its
+    projection, with QUESTION-222 carrying the projection-relativity; and
+    THEORY-820 and THEORY-733, on which the dynamical-independence cell
+    rests, join grounds. Title and defeater unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +61,8 @@ rests_on:
 - CLAIM-304
 grounds:
 - THEORY-752
+- THEORY-820
+- THEORY-733
 uses:
 - TERM-065
 summary: >-
@@ -106,8 +116,9 @@ The kinds, with the record's support:
   property of the coarse variable's own law ([CLAIM-397](CLAIM-397.md)) under a chosen
   projection. A5 wrote that "Memory closure and dynamical autonomy remain
   genuine structural conditions". That is not quite so for memory:
-  different projections give different splits into Markov term and
-  memory ([THEORY-752](../theory.d/THEORY-752.md)). [QUESTION-222](../questions.d/QUESTION-222.md) keeps the caution that the split into
+  THEORY-752's result "holds only for the conditional-expectation
+  projection", so it shows that split is specific to that projection, not
+  how other projections split. [QUESTION-222](../questions.d/QUESTION-222.md) keeps the caution that the split into
   drift, memory and noise depends on the projection, so "an arbitrary norm
   of the memory kernel is not, by itself, a representation-invariant
   measure of emergence"; [CLAIM-397](CLAIM-397.md) is "Not about other projections".

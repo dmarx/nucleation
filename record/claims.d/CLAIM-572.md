@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpcyj43
 title: 'When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,12 @@ history:
     CLAIM-570 and CLAIM-574, are Active, no objection is filed, and the
     triage table and the vertex's totals and ready splits were re-checked.
     Nothing in the record meets its defeated_if.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At the synthesis review of 2026-11-07: the summary's rate of greedy
+    stopping is scoped to the systems checked, since a reader's generator
+    gave about half where the filer's gave a quarter. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -61,8 +67,8 @@ summary: >-
   intelligence can pass through splits where it has paid for observation
   it cannot yet use and given up response it still needs. And a probe's
   worth depends on the probes after it, so stopping when the next one
-  does not pay misses the least total in about a quarter of random
-  systems. The wording is the assistant's (Claude, in this session);
+  does not pay misses the least total in about a quarter of the random
+  systems checked. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 
