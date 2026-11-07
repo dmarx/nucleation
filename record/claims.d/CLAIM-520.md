@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmpnxn4o
 title: 'The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker''s expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange''s model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Provenance only: NOTE-1577, NOTE-1604 went to Read in the
+    twenty-ninth status review, so "Skimmed in" becomes "Read in" (2
+    places). What the entry says is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -75,11 +82,11 @@ In a POMDP an audit is an information action, and the model computes its worth f
 
 ## Note of 2026-11-04: van Leeuwaarden, Mathijsen and Zwart, "Economies-of-Scale in Many-Server Queueing Systems", read
 
-Skimmed in [NOTE-1577](../notes.d/NOTE-1577.md) as the stand-in for Halfin and Whitt (1981). It supports the claim in kind: in §4, headroom over mean load is set by trading a cost of capacity against a cost of delay, with an optimum β*, so how much spare capacity to keep depends on both. It also cautions that in the QED regime utilization tends to one, and pooled systems need proportionally less spare capacity; the capacity it sizes is busy, not held idle for rare events. No status changes.
+Read in [NOTE-1577](../notes.d/NOTE-1577.md) as the stand-in for Halfin and Whitt (1981). It supports the claim in kind: in §4, headroom over mean load is set by trading a cost of capacity against a cost of delay, with an optimum β*, so how much spare capacity to keep depends on both. It also cautions that in the QED regime utilization tends to one, and pooled systems need proportionally less spare capacity; the capacity it sizes is busy, not held idle for rare events. No status changes.
 
 ## Note of 2026-11-04: Chou, Chua, Teo and Zheng, "Design for Process Flexibility", read
 
-Skimmed in [NOTE-1604](../notes.d/NOTE-1604.md) as the stand-in for Jordan and Graves (1995). It supports the claim in kind. Full flexibility is costly, and a sparse long chain keeps at least 89% (uniform demand) or 96% (normal demand) of its expected sales, so the cheaper design is preferred. That comparison is of standing re-routing capacity under independent demand. It leaves open capacities kept for rare events, and under correlated demand a sparse design can lose almost everything. No status changes.
+Read in [NOTE-1604](../notes.d/NOTE-1604.md) as the stand-in for Jordan and Graves (1995). It supports the claim in kind. Full flexibility is costly, and a sparse long chain keeps at least 89% (uniform demand) or 96% (normal demand) of its expected sales, so the cheaper design is preferred. That comparison is of standing re-routing capacity under independent demand. It leaves open capacities kept for rare events, and under correlated demand a sparse design can lose almost everything. No status changes.
 
 ## Note of 2026-11-04: the same conditionality for a dispatched resource
 

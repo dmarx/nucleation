@@ -4,13 +4,19 @@ status: Proposed
 formerly:
 - TERM-tmpexd3x
 title: 'unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
   note: >-
     A dated note added at the thirtieth status review, after NOTE-1620 was
     read with its equations. The definition is unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Provenance only: NOTE-1620 went to Read in the twenty-ninth and
+    thirtieth status reviews, so "read Skimmed in" or "skimmed in"
+    becomes "read in" (1 place). What the entry says is unchanged.
 tags:
 - operations-research
 - agency
@@ -37,7 +43,7 @@ summary: >-
 
 A **unit of last resort** is a response unit that a dispatch policy puts
 last in every preference list, so that it is sent only when every regular
-unit able to respond is busy. Larson and Odoni ([LIT-2053](../literature.d/LIT-2053.md), skimmed in
+unit able to respond is busy. Larson and Odoni ([LIT-2053](../literature.d/LIT-2053.md), read in
 [NOTE-1620](../notes.d/NOTE-1620.md); [THEORY-1394](../theory.d/THEORY-1394.md)), §5.4.1: "These units would not ordinarily be
 used in the routine assignment of units to service requests; however,
 they would be called upon during heavy workload conditions to avoid the

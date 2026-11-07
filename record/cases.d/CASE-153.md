@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpo8uso
 title: 'The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -17,6 +17,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Provenance only: NOTE-1563 went to Read in the twenty-ninth status
+    review, so "Skimmed in" becomes "Read in" (1 place). What the entry
+    says is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -173,4 +179,4 @@ The owner's U27 asked to "numerically simulate a dynamically maintained will org
 
 ## Note of 2026-11-04: Kaelbling, Littman and Cassandra, "Planning and acting in partially observable stochastic domains", read
 
-Skimmed in [NOTE-1563](../notes.d/NOTE-1563.md) as the stand-in for Smallwood and Sondik (1973). The sentry's structure is a POMDP of the kind this paper formalizes: a hidden binary world, and an inspection that reveals it with 90% accuracy at a small cost. The paper's tiger problem has the same shape, a hidden two-valued state and a costly, noisy listening action, and there the optimal two-step policy "never chooses to act, only to listen" (§5.2, p. 120). The paper gives the case a standard formal reference: the belief state as sufficient statistic, and information actions valued within the model. It leaves open the sentry process's power to block inspection, which a single-agent POMDP does not represent. No status changes.
+Read in [NOTE-1563](../notes.d/NOTE-1563.md) as the stand-in for Smallwood and Sondik (1973). The sentry's structure is a POMDP of the kind this paper formalizes: a hidden binary world, and an inspection that reveals it with 90% accuracy at a small cost. The paper's tiger problem has the same shape, a hidden two-valued state and a costly, noisy listening action, and there the optimal two-step policy "never chooses to act, only to listen" (§5.2, p. 120). The paper gives the case a standard formal reference: the belief state as sufficient statistic, and information actions valued within the model. It leaves open the sentry process's power to block inspection, which a single-agent POMDP does not represent. No status changes.

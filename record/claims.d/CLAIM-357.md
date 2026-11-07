@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpl8vsy
 title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-18'
@@ -50,6 +50,12 @@ history:
     nor by cases where the two kinds occur together." That thesis, the
     record's own, is filed as CLAIM-500 (ADR-047 kind 2) with the old
     condition.
+- version: 6
+  date: '2026-11-07'
+  note: >-
+    Provenance only: NOTE-1599 went to Read in the twenty-ninth and
+    thirtieth status reviews, so "read Skimmed in" or "skimmed in"
+    becomes "read in" (1 place). What the entry says is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -254,7 +260,7 @@ Ratliff et al. (2019), [LIT-2097](../literature.d/LIT-2097.md), read in [NOTE-15
 
 ## Note of 2026-11-04: Gerardi and Maestri, "Dynamic contracting with limited commitment and the ratchet effect", read
 
-Gerardi and Maestri (2020), [LIT-2046](../literature.d/LIT-2046.md), skimmed in [NOTE-1599](../notes.d/NOTE-1599.md), add what this claim lacks: a subordinate who anticipates the governor's revision of demands and hides information to avoid more demanding ones, which in a long relationship can stop the governor learning altogether. That qualifies any reading of regret as fixed by what is declared, since declared requirements can themselves respond strategically. The claim's construction is untouched. No status changes.
+Gerardi and Maestri (2020), [LIT-2046](../literature.d/LIT-2046.md), read in [NOTE-1599](../notes.d/NOTE-1599.md), add what this claim lacks: a subordinate who anticipates the governor's revision of demands and hides information to avoid more demanding ones, which in a long relationship can stop the governor learning altogether. That qualifies any reading of regret as fixed by what is declared, since declared requirements can themselves respond strategically. The claim's construction is untouched. No status changes.
 
 ## Note of 2026-11-05: the constraint-architecture readings
 
