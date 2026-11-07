@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**832 documents cited without acknowledgement.** Not listed: 17456 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**834 documents cited without acknowledgement.** Not listed: 17463 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3660,7 +3660,7 @@ The wrong beyond violation that an organization commits by reproducing represent
 - [`record/arguments.d/ARG-064.md:12`](../../record/arguments.d/ARG-064.md)
 - [`record/arguments.d/ARG-071.md:12`](../../record/arguments.d/ARG-071.md)
 - [`record/cases.d/CASE-228.md:12`](../../record/cases.d/CASE-228.md)
-- [`record/claims.d/CLAIM-624.md:12`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-624.md:40`](../../record/claims.d/CLAIM-624.md)
 
 ### [THEORY-056](../../record/theory.d/THEORY-056.md) — Proposed
 
@@ -8345,6 +8345,14 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 - [`record/questions.d/QUESTION-360.md:54`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:77`](../../record/terms.d/TERM-098.md)
 
+### [ADR-076](../../record/decisions.d/ADR-076.md) — Proposed
+
+Syntheses get a scheme of their own, SYNTHESIS, with statuses about the integration, a closed admission route, components whose standing is derived, and a generated current-account view
+
+1 citation in 1 file awaits a look; 25 other citations of it are acknowledged.
+
+- [`docs/README.md:8`](../README.md)
+
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
 Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants
@@ -8704,6 +8712,14 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 1 citation in 1 file awaits a look; 42 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-086.md:155`](../../record/terms.d/TERM-086.md)
+
+### [CLAIM-615](../../record/claims.d/CLAIM-615.md) — Superseded
+
+An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
+
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-005.md:18`](../../record/syntheses.d/SYNTHESIS-005.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -9567,7 +9583,7 @@ An organized individual's identity over time is carried by the causal transmissi
 
 1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-615.md:12`](../../record/claims.d/CLAIM-615.md)
+- [`record/claims.d/CLAIM-615.md:32`](../../record/claims.d/CLAIM-615.md)
 
 ### [SYNTHESIS-003](../../record/syntheses.d/SYNTHESIS-003.md) — Proposed
 
@@ -9575,7 +9591,7 @@ When an organized individual persists through changes of state and mode, in the 
 
 1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-611.md:12`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:22`](../../record/claims.d/CLAIM-611.md)
 
 ### [SYNTHESIS-004](../../record/syntheses.d/SYNTHESIS-004.md) — Proposed
 
@@ -9583,7 +9599,7 @@ If the record's hypotheses held, agency and autonomy would be further organizati
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-610.md:12`](../../record/claims.d/CLAIM-610.md)
+- [`record/claims.d/CLAIM-610.md:23`](../../record/claims.d/CLAIM-610.md)
 
 ### [SYNTHESIS-005](../../record/syntheses.d/SYNTHESIS-005.md) — Proposed
 
@@ -9591,7 +9607,7 @@ Concepts are individuated over time by the transmission criterion that governs o
 
 1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-620.md:12`](../../record/claims.d/CLAIM-620.md)
+- [`record/claims.d/CLAIM-620.md:38`](../../record/claims.d/CLAIM-620.md)
 
 ### [TERM-002](../../record/terms.d/TERM-002.md) — Superseded
 
