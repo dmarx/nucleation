@@ -33,7 +33,8 @@ history:
     At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
     the summary still gave Dunitz and Bernstein as a ground, which left the
     grounds in version 3, and posed the test the note of 2026-11-06 ran. It
-    now says both. No other change.
+    no longer restates the grounds, which the field holds, and reports the
+    test's result. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -56,8 +57,7 @@ summary: >-
   The cost side of the owner's reframing ([CLAIM-185](CLAIM-185.md)), proposed by
   the assistant on 2026-10-11 and filed at the owner's request. If
   persistence is what lets structure grow, it also lets early framings
-  grow structure that is costly to undo. Grounded on Ostwald (read); Dunitz and Bernstein left the grounds in
-  version 3. The test, whether Superseded entries keep drawing new
+  grow structure that is costly to undo. The test, whether Superseded entries keep drawing new
   citations, was run on 2026-11-06: they do not (note of that date).
 complements:
 - CLAIM-301
