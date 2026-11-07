@@ -6,12 +6,6 @@ formerly:
 title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
 version: 3
 history:
-- version: 3
-  date: '2026-11-07'
-  note: >-
-    Superseded by SYNTHESIS-003, the same synthesis moved into the
-    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
-    is kept so that what cites it still resolves.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -22,6 +16,12 @@ history:
     organization, and defeated_if's first clause is replaced by the case
     that would defeat that: CLAIM-522's outside controller swapped in,
     with the system counted one individual through the swap.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-003, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 role: thesis
 warrant: interpretive
 defeated_if: >-

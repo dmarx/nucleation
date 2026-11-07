@@ -6,29 +6,6 @@ formerly:
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
 version: 5
 history:
-- version: 5
-  date: '2026-11-07'
-  note: >-
-    Superseded by SYNTHESIS-002, the same synthesis moved into the
-    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
-    is kept so that what cites it still resolves.
-- version: 4
-  date: '2026-11-07'
-  note: >-
-    At A's second review of the pull request: the admission section had
-    attributed to the owner the position that reproducing an unavoidable
-    blindness is a wrong. That rested on a filer's clause in CLAIM-614,
-    not on the owner's U27, so it is restated as open.
-- version: 3
-  date: '2026-11-07'
-  note: >-
-    ADR-075's admission test (version 2), applied at A's review of
-    the pull request: admitted on a narrower title, the beyond-harm
-    wrong as a feasibility-bounded duty of answerability. Its old first
-    defeater, non-reduction to the harm, was the owner's CLAIM-614's
-    own; defeated_if now states the cases that would defeat
-    this claim's integration. The divergence from the owner's thesis on
-    unavoidable projections is stated in the body.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -40,6 +17,29 @@ history:
     self-immunization, connected to CLAIM-342. The matched-harm
     construction CASE-229 is added to grounds, with ARG-055 from
     it to the non-reducibility. The thesis is unchanged.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    ADR-075's admission test (version 2), applied at A's review of
+    the pull request: admitted on a narrower title, the beyond-harm
+    wrong as a feasibility-bounded duty of answerability. Its old first
+    defeater, non-reduction to the harm, was the owner's CLAIM-614's
+    own; defeated_if now states the cases that would defeat
+    this claim's integration. The divergence from the owner's thesis on
+    unavoidable projections is stated in the body.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    At A's second review of the pull request: the admission section had
+    attributed to the owner the position that reproducing an unavoidable
+    blindness is a wrong. That rested on a filer's clause in CLAIM-614,
+    not on the owner's U27, so it is restated as open.
+- version: 5
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-002, the same synthesis moved into the
+    SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
+    is kept so that what cites it still resolves.
 role: thesis
 warrant: interpretive
 defeated_if: >-
