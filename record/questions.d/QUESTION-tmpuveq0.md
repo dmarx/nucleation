@@ -37,7 +37,7 @@ characterize the precise nature of counter-normativity being committed by a
 self-maintaining system that not only harms but reproduces the
 representational projections that make the harm non-legible." The owner's
 "system" is a kind of organization (the owner's correction of 2026-11-07,
-"within our framework, a 'system' is just a kind of 'organization'").
+"I'm reasonably confident that within our framework, a 'system' is just a kind of 'organization'").
 
 It asks three things.
 

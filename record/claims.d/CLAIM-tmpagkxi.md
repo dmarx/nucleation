@@ -88,8 +88,8 @@ blindness to a wrong committed by maintaining it.
 
 **Correction (the owner's, 2026-11-07).** The reader's report set the
 owner's "system" against "an organization or an institution", as if the
-bearer were wider. The owner rejects that contrast: "within our framework,
-a 'system' is just a kind of 'organization'." The claim is stated for
+bearer were wider. The owner rejects that contrast: "I'm reasonably confident that within our framework,
+a 'system' is just a kind of 'organization'". The claim is stated for
 organizations accordingly.
 
 ## What is already held

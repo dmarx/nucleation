@@ -169,8 +169,8 @@ challenge as such is A's companion claim CLAIM-tmplgp4k.
   absent records are read as absent harm (CLAIM-342, CLAIM-446).
 - **Withdrawn coverage finding (the owner's correction, 2026-11-07).** The
   reader's audit said A narrowed the owner's "system" to "organization" or
-  "institution". The owner rejects that: "within our framework, a 'system'
-  is just a kind of 'organization'." A's restatement for organizations
+  "institution". The owner rejects that: "I'm reasonably confident that
+  within our framework, a 'system' is just a kind of 'organization'". A's restatement for organizations
   drops nothing.
 - **Fidelity, minor.** A60 §5 says CLAIM-523's achievements are
   "independently necessary"; the claim says each is needed and any can

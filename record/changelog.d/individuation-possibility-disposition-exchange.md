@@ -12,6 +12,7 @@
 - Eight ARGs, filed at the owner's review: six Proposed and two Rejected, one of which removes [CASE-002](record/cases.d/CASE-002.md) from a claim's grounds.
 - Eighty-one dated notes of 2026-11-07 on the entries the readings bear on.
 - Thirty-six cited works registered unread, every identifier checked; the checks corrected A's attribution of one review and the dates of two works.
+- The second share of the exchange (U25–U28, the owner's extension): the owner's thesis of counter-normativity (CLAIM-tmpagkxi) and question (QUESTION-tmpuveq0); A's second-order wrong of answerability, counter-corrective disposition, incomparable-distinctions claim, contested-label study and CASE-110 extension; the reader's agenda-cycle construction for CLAIM-448, at the owner's direction; twelve ARGs; revisions of six of this filing's entries and two synthesis CLAIMs; five works registered unread; notes on 27 more entries.
 
 ### Changed
 
