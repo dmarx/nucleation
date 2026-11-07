@@ -4,12 +4,25 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpj2lnj
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
-version: 1
+version: 3
 history:
 - version: 1
   date: '2026-11-07'
   note: >-
     Moved from CLAIM-610 (version 2) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-610, now Superseded by this entry.
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the synthesis review of 2026-11-07 (ADR-tmpw6bwa), CLAIM-545 moved
+    into the scheme as SYNTHESIS-tmpsw5k6, so its integrates, premises, defeated_if and summary now name the
+    synthesis. The body's citations of CLAIM-545 are left as they were.
+    No other change.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-tmp6m3wy (ADR-tmpdne5p),
+    so its integrates, premises and defeated_if now name the synthesis. The
+    body's citations of CLAIM-474 are left as they were. No other change.
 role: supposed
 admission: admitted
 route: hypothesis
@@ -20,8 +33,8 @@ defeated_if: >-
   belongs to a unit whose boundary crosses that individual's under every
   criterion that picks the individual out, as CLAIM-405 allows, so that
   agency is not a further organization of the individual. Also defeated
-  as a thesis of its own if it only restates CLAIM-474's order,
-  CLAIM-329, CLAIM-027 and CLAIM-545, adding nothing about which bearer
+  as a thesis of its own if it only restates SYNTHESIS-tmp6m3wy's order,
+  CLAIM-329, CLAIM-027 and SYNTHESIS-tmpsw5k6, adding nothing about which bearer
   holds the levels.
 tags:
 - individuation
@@ -32,23 +45,23 @@ line:
 - distributed-agency
 - will-organization
 integrates:
-- CLAIM-474
+- SYNTHESIS-tmp6m3wy
 - CLAIM-405
 - CLAIM-329
 - CLAIM-027
 - CLAIM-025
-- CLAIM-545
+- SYNTHESIS-tmpsw5k6
 - CLAIM-487
 - TERM-023
 - TERM-088
 - TERM-071
 premises:
-- CLAIM-474
+- SYNTHESIS-tmp6m3wy
 - CLAIM-405
 - CLAIM-329
 - CLAIM-027
 - CLAIM-025
-- CLAIM-545
+- SYNTHESIS-tmpsw5k6
 bears_on:
 - QUESTION-284
 supersedes:
@@ -63,7 +76,7 @@ summary: >-
   complete form by the repository", so it is filed in the supposed
   voice. Its parts are held: [CLAIM-474](../claims.d/CLAIM-474.md)'s partial order, [CLAIM-405](../claims.d/CLAIM-405.md)'s
   criterion-relative individuation, [CLAIM-329](../claims.d/CLAIM-329.md)'s transmission,
-  [CLAIM-027](../claims.d/CLAIM-027.md)'s will-organization and [CLAIM-545](../claims.d/CLAIM-545.md)'s governance of one's own
+  [CLAIM-027](../claims.d/CLAIM-027.md)'s will-organization and SYNTHESIS-tmpsw5k6's governance of one's own
   governability, this last A's phrase from an earlier exchange resting
   on two of the owner's claims. What it adds is the relation between the
   levels: each organizes the conditions of the one below. Two
@@ -76,7 +89,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-610 — filed from the same exchange, Superseded -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-003 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
-<!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 — Proposed; parts of the supposed account, cited as held -->
+<!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 SYNTHESIS-tmpsw5k6 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->
 
 # SYNTHESIS-004: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next

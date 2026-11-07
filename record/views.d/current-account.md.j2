@@ -44,10 +44,9 @@ others.
 ### {{ s.code }}: {{ s.title }}
 
 *{{ s.status }} · {{ s.route }}{% if s.role %} · {{ s.role }}{% endif %} · warrant {{ s.warrant }} · version {{ s.version }}*
-{%- if s.role == "supposed" %}
-
+{% if s.role == "supposed" %}
 **Conditional.** This account holds if its premises do. Adopting it adopts the conditional, not the premises, whose own status is in the table.
-{%- endif %}
+{% endif %}
 
 {{ s.summary }}
 

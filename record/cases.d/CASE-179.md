@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpl995z
 title: 'A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -15,6 +15,11 @@ history:
     enforces other relations is added. A positive spectral gap is
     distinguished from one large enough for a useful separation of time
     scales.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-tmp6m3wy (ADR-tmpdne5p),
+    so `illustrates` names the synthesis. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -22,7 +27,7 @@ tags:
 - mathematics
 date: '2026-10-27'
 illustrates:
-- CLAIM-474
+- SYNTHESIS-tmp6m3wy
 - CLAIM-471
 line: distributed-agency
 summary: >-

@@ -4,12 +4,19 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp73anp
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
   note: >-
     Moved from CLAIM-624 (version 4) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-624, now Superseded by this entry.
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the synthesis review of 2026-11-07 (ADR-tmpw6bwa), CLAIM-545 moved
+    into the scheme as SYNTHESIS-tmpsw5k6, so its integrates and defeated_if now name the
+    synthesis. The body's citations of CLAIM-545 are left as they were.
+    No other change.
 role: thesis
 admission: admitted
 route: hypothesis
@@ -22,7 +29,7 @@ defeated_if: >-
   all five in which what is wrong beyond the harm is not answerability,
   being unchanged when means for violations to become knowable,
   contestable and correctable are restored (another's capacity to govern
-  those affected, CLAIM-545's domination clause, or their standing as
+  those affected, SYNTHESIS-tmpsw5k6's domination clause, or their standing as
   knowers). Or a showing that the duty is unconditional, so that
   CLAIM-511 would follow, or empty. Also defeated as a thesis of its own
   if it only restates CLAIM-614's distinct wrong with CLAIM-445,
@@ -46,7 +53,7 @@ integrates:
 - CASE-228
 - THEORY-140
 - CASE-229
-- CLAIM-545
+- SYNTHESIS-tmpsw5k6
 - SYNTHESIS-005
 - CLAIM-472
 - TERM-064
@@ -86,7 +93,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-614 CLAIM-619 CASE-228 SYNTHESIS-005 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->
 <!-- inactive-ok-file: CASE-229 ARG-055 — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit this filing follows -->
-<!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed or Deferred; components and boundaries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 SYNTHESIS-tmpsw5k6 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed, Deferred or Superseded; components and boundaries, cited with their standing -->
 
 # SYNTHESIS-002: The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
 
