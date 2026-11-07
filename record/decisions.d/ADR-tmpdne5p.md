@@ -6,17 +6,17 @@ tags:
 - record
 date: '2026-11-07'
 summary: >-
-  The first synthesis review admitted CLAIM-474 and could not move it. A
+  The first synthesis review admitted [CLAIM-474](../claims.d/CLAIM-474.md) and could not move it. A
   review files every synthesis as Proposed, so an Active claim would have
   been demoted, and SYNTHESIS lacked grounds, uses and corroborated_by,
   so moving it would have dropped its readings, terms and corroboration.
-  This decision amends ADR-076 and the review's decision. A move keeps
+  This decision amends [ADR-076](ADR-076.md) and the review's decision. A move keeps
   the claim's standing: an admitted Active CLAIM becomes a Current
   SYNTHESIS and a Proposed one stays Proposed, since the move changes
   the scheme that holds the entry, not the record's credence in it. The
   scheme gains the three fields, with their converses widened to match.
   A review still never sets a new synthesis Current. Its demonstration
-  is CLAIM-474's move. Rejected: moving as Proposed and asking for
+  is [CLAIM-474](../claims.d/CLAIM-474.md)'s move. Rejected: moving as Proposed and asking for
   re-adoption; exempting adopted claims from the move; the owner setting
   each moved synthesis Current by hand.
 ---
@@ -27,22 +27,22 @@ summary: >-
 
 ## Context
 
-ADR-076 gave syntheses a scheme. ADR-tmpw6bwa set up a periodic review that
+[ADR-076](ADR-076.md) gave syntheses a scheme. [ADR-tmpw6bwa](ADR-tmpw6bwa.md) set up a periodic review that
 moves into it the CLAIMs that are syntheses filed as claims, and files every
 synthesis as Proposed: "Adoption stays the owner's. No review sets a
 synthesis Current."
 
-The first review, on 2026-11-07, admitted CLAIM-474 by the hypothesis route
+The first review, on 2026-11-07, admitted [CLAIM-474](../claims.d/CLAIM-474.md) by the hypothesis route
 and stopped there, for two reasons.
 
-- **Standing.** CLAIM-474 was Active, promoted at the status review of
-  2026-11-06 under the rulings the owner delegated (ADR-057). Filed as
+- **Standing.** [CLAIM-474](../claims.d/CLAIM-474.md) was Active, promoted at the status review of
+  2026-11-06 under the rulings the owner delegated ([ADR-057](ADR-057.md)). Filed as
   Proposed, it would have been demoted by a change of scheme alone, and the
   current-account view, which leads with Current syntheses, would have left
   out the one integration the record had adopted.
 - **Relations.** SYNTHESIS had no `grounds`, `uses` or `corroborated_by`.
-  CLAIM-474 grounds on four readings and a case, is stated in four terms and
-  is corroborated by THEORY-1351. Moving it would have dropped all of them,
+  [CLAIM-474](../claims.d/CLAIM-474.md) grounds on four readings and a case, is stated in four terms and
+  is corroborated by [THEORY-1351](../theory.d/THEORY-1351.md). Moving it would have dropped all of them,
   and THEORY's `corroborates` could not point at a synthesis.
 
 The owner was offered this decision, a variant in which the owner sets the
@@ -56,7 +56,7 @@ moved synthesis Current by hand, and two lesser options, and directed this one.
   holds the entry, not the record's credence in it, so it needs no new
   adoption.
 - **Only a move carries Current.** A review still never sets a new synthesis
-  Current, and never raises a moved one above the claim's standing. ADR-076's
+  Current, and never raises a moved one above the claim's standing. [ADR-076](ADR-076.md)'s
   lint still applies: a Current synthesis must be admitted, and its premises
   in force.
 - **The scheme gains `grounds`, `uses` and `corroborated_by`,** with the same
@@ -64,16 +64,16 @@ moved synthesis Current by hand, and two lesser options, and directed this one.
   `supports` of LIT, THEORY and CASE, TERM's `used_by`, and the
   `corroborates` of THEORY and CLAIM now accept a SYNTHESIS. A move carries
   these relations unchanged, so nothing is dropped.
-- **The demonstration is CLAIM-474's move (ADR-071).**
-  - CLAIM-474 becomes SYNTHESIS-tmp6m3wy, Current, admitted by hypothesis.
+- **The demonstration is [CLAIM-474](../claims.d/CLAIM-474.md)'s move ([ADR-071](ADR-071.md)).**
+  - [CLAIM-474](../claims.d/CLAIM-474.md) becomes [SYNTHESIS-tmp6m3wy](../syntheses.d/SYNTHESIS-tmp6m3wy.md), Current, admitted by hypothesis.
     Its title, body, grounds, terms and corroboration are carried over.
   - The exemption for special classes in its defeater is bounded, as the
     review found it must be: a class is special only if it is narrower than
     the class the record applies the step to.
-  - CASE-179's `illustrates`, THEORY-1351's `corroborates`, and
-    SYNTHESIS-004's `integrates`, `premises` and `defeated_if` now name the
+  - [CASE-179](../cases.d/CASE-179.md)'s `illustrates`, [THEORY-1351](../theory.d/THEORY-1351.md)'s `corroborates`, and
+    [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md)'s `integrates`, `premises` and `defeated_if` now name the
     synthesis. `complements` stays on the claim (dmarx/luria#358), as does
-    CLAIM-610's `rests_on`, which is history.
+    [CLAIM-610](../claims.d/CLAIM-610.md)'s `rests_on`, which is history.
 
 ## Alternatives considered
 
@@ -99,5 +99,5 @@ moved synthesis Current by hand, and two lesser options, and directed this one.
   stays wrongly promoted after its move. The guard is the one it had as a
   claim: a status review can demote it.
 - The `synthesis-review` skill's stage 4 is amended to match.
-- Moves of earlier syntheses (CLAIM-545 to SYNTHESIS-tmpsw5k6, the five of
-  ADR-076) were of Proposed claims and are unaffected.
+- Moves of earlier syntheses ([CLAIM-545](../claims.d/CLAIM-545.md) to [SYNTHESIS-tmpsw5k6](../syntheses.d/SYNTHESIS-tmpsw5k6.md), the five of
+  [ADR-076](ADR-076.md)) were of Proposed claims and are unaffected.
