@@ -38,6 +38,7 @@ summary: >-
   [CASE-tmpyzdwh](../cases.d/CASE-tmpyzdwh.md), whose numbers the reader reran. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmp0q5sw — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-tmpyzdwh — filed from the same exchange, Proposed -->
 
 # CLAIM-tmp7cpzx: Statistics conditioned on survival can be stationary and quickly reached while absorption is certain: in a finite chain whose viable states all lead to an absorbing failure, the distribution of the survivors settles on the mixing time and the survivors die out on a time longer by the ratio of the spectral gap to the hazard, so a surviving organization's stable statistics are no evidence that it persists
@@ -71,3 +72,12 @@ to the record.
   evidence either way; the hazard has to be estimated separately.
 - Anything about regeneration. With a way out of the failure state, the
   failure is not absorbing ([CLAIM-456](CLAIM-456.md) on which losses are repairable).
+
+## How far "no evidence" holds
+
+Argued at the owner's review (ARG-tmp0q5sw), rerunning CASE-tmpyzdwh's
+script. Stationarity and the speed of settling carry no information about
+the hazard. The values of the quasi-stationary distribution carry a
+trace of it, of order ε/(8k): from (0.5, 0.5) at ε = 0 to
+(0.5249, 0.4751) at ε = 0.2. "No evidence" is exact for the first two and
+nearly so for the third.

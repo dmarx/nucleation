@@ -1,0 +1,108 @@
+---
+status: Rejected
+title: "A coordination mode held stable by a capacity declining from below its maintenance threshold is an instance of the dissociation between a coupling's strength and the stability of the saddle-node maintaining it"
+version: 1
+form: evidence
+grounds:
+- CASE-tmpn5x96
+concludes:
+- CLAIM-521
+tags:
+- complex-systems
+- mathematics
+date: '2026-11-07'
+line:
+- distributed-agency
+- formal-apparatus
+summary: >-
+  A's (ChatGPT's) inference, at A29 §2 of the exchange "Individuation,
+  Possibility, and Disposition" (2026-11-06 to 07), answering the owner's
+  U12: the adaptive Haken–Kelso–Bunz system of CASE-tmpn5x96 is "an
+  explicit example of the distinction Nucleation develops in" CLAIM-521.
+  Rejected. The shape matches and the mechanism does not. CLAIM-521's
+  maintenance sits at a stable equilibrium whose recovery rate goes to
+  zero at a saddle-node, while the coupling's gap stays high. In
+  CASE-tmpn5x96 the capacity starts below an unstable threshold, CLAIM-604's
+  ignition threshold and the counterpart of CASE-189's saddle, so it is at
+  no maintained equilibrium and declines, and the coordination's own
+  stability falls with it. The same model would give an instance at its
+  upper branch near the fold, which A29 does not use. Filed at the owner's
+  review of the filing, which asked for the ARGs it omitted, after
+  checking the reader's verdict against CLAIM-521, CLAIM-604, CASE-189
+  and CASE-tmpn5x96. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CASE-tmpn5x96 — filed from the same exchange, Proposed -->
+
+# A coordination mode held stable by a capacity declining from below its maintenance threshold is an instance of the dissociation between a coupling's strength and the stability of the saddle-node maintaining it
+
+## The inference
+
+1. CASE-tmpn5x96: relative phase obeys φ̇ = −sin φ − c sin 2φ, so
+   anti-phase is stable iff c > ½. The capacity obeys
+   ċ = ε(2.2c²/(1 + c²) − c), with equilibria 0 (stable), c₋ ≈ 0.642
+   (unstable) and c₊ ≈ 1.558 (stable).
+2. From c(0) = 0.6, "At that moment, anti-phase coordination is stable
+   because \(0.6>0.5\)." Since 0.6 < c₋, the capacity decays, crosses ½ at
+   t ≈ 2.88/ε, and the mode is lost.
+3. A29 §2: "**The collective coordination pattern is stable, but the
+   organization sustaining its stability is not.**" "That's an explicit
+   example of the distinction Nucleation develops in" CLAIM-521.
+4. So the case is evidence for CLAIM-521's dissociation.
+
+## Critical questions
+
+- **Would the evidence be expected if the conclusion were false?** The
+  conclusion here is that the case instances CLAIM-521's dissociation.
+  CLAIM-521's own example stays true whatever this case shows, since it is
+  an existence claim. What fails is the instance. A pattern that is stable
+  now over a capacity in decline is expected in any system whose coupling
+  is set by a variable that is not at equilibrium. That needs no
+  saddle-node and no vanishing recovery rate. So the observation does not
+  pick out CLAIM-521's mechanism.
+- **Does it tell the hypothesis apart from its rivals?** No. The rival is
+  CLAIM-604's ignition threshold: a capacity started below an unstable
+  maintenance level goes out with nothing removed. CASE-tmpn5x96's c₋ is
+  that threshold. CASE-189's note of 2026-11-07 places it as Construction
+  1's saddle on the symmetric diagonal: "Its unstable level 0.642 plays
+  the part of the saddle at 0.382". The decline from 0.6 is the transient
+  of a state in the basin of c = 0. CLAIM-521's maintenance is at a stable
+  equilibrium, "the recovery rate of the maintenance goes to zero at its
+  saddle-node". At c = 0.6 there is no equilibrium, so there is no
+  recovery rate to vanish. The decline also speeds up, from −0.0176ε at
+  0.6 to −0.06ε at 0.5, whereas CLAIM-521's slowest eigenvalue goes to zero.
+  The case fits the threshold and not the fold.
+- **Does the measure measure what it is said to?** No, and this is the
+  question that fails. CLAIM-521 measures the coupling's strength by a
+  quantity that stays near 0.989 to the fold: "The coupled units are as
+  tightly integrated at the edge of collapse as well inside the regime."
+  CASE-tmpn5x96's measure of the coordination is its stability at the
+  present c, and that stability is a function of c that falls as c falls.
+  The relaxation time 1/(2c − 1) grows from 5 at c = 0.6 without bound at
+  c = ½, and the barrier (2c − 1)²/(4c) closes. So the coordination
+  measure does track the decline of the capacity, and critical slowing
+  shows in the coordination itself. In CLAIM-521 critical slowing "appears
+  in the maintenance, not in the coupling". The two cases dissociate
+  different things. In CASE-tmpn5x96, an instant's stability is
+  dissociated from the trend of its cause. In CLAIM-521, a coupling's
+  strength is dissociated from the stability of its maintenance, right up
+  to the loss.
+
+Rejected. The case has CLAIM-521's shape, a currently effective pattern
+over a maintenance that does not sustain it, by another mechanism, as
+CLAIM-521's note of 2026-11-07 and CASE-tmpn5x96 already say. The reader's
+verdict stands after checking against CLAIM-521, CLAIM-604, CASE-189 and
+CASE-tmpn5x96.
+
+## What would bear on the conclusion
+
+The same model at its upper branch near the fold. Let the production gain
+α fall toward 2, twice the decay. Then c₊ falls toward 1, and the
+maintenance eigenvalue at c₊, −(c₊² − 1)/(c₊² + 1) times ε, goes to zero.
+Anti-phase stays stable throughout, with relaxation time 1/(2c₊ − 1)
+approaching 1 and barrier approaching ¼. Recomputed for this argument:
+at α = 2.01, c₊ ≈ 1.105, the maintenance eigenvalue is about −0.10ε and the
+relaxation time 0.83. At α = 2.001 they are about −0.03ε and 0.94. That
+would be CLAIM-521's dissociation with an HKB coupling. It is close to
+A18 §4's rebuild with Adler coupling, which CLAIM-521's other note of
+2026-11-07 records. A29 does not use it.

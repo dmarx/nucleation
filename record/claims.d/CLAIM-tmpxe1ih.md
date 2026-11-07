@@ -27,8 +27,6 @@ rests_on:
 complements:
 - CLAIM-143
 - CLAIM-404
-grounds:
-- CASE-002
 uses:
 - TERM-017
 - TERM-023
@@ -41,6 +39,7 @@ summary: >-
   will-organization's relations, not to the perspective's. The wording is
   A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmp2ia3c — filed from the same exchange, Rejected -->
 
 # CLAIM-tmpxe1ih: Whether a contested concept's uses are compatible is partly settled by who has jurisdiction over its contexts: which contexts count as relevant to a decision and which rule governs where they overlap fix part of the cover on which its uses must glue, so a will-organization's jurisdiction and precedence act on the conditions of interpretation and not only on its outputs
 
@@ -89,3 +88,13 @@ fixes.
   the efficacy of interpretations.
 - **That a cover chosen by jurisdiction is admissible.** [CLAIM-143](CLAIM-143.md)'s
   validation requirement still applies to it.
+
+## The case it was grounded on
+
+CASE-002 was this claim's ground as filed. At the owner's review the
+inference was argued and rejected (ARG-tmp2ia3c): the case shows
+jurisdiction changing which section is acted on, the rival this claim's
+defeated_if names, with one classifier at a time and outcomes measured
+rather than the compatibility of uses. The claim now rests on CLAIM-197
+and CLAIM-057 with no ground, and stays Proposed. The ARG sketches a
+variant of CASE-002 that would bear on it.

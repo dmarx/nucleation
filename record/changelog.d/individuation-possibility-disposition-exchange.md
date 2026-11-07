@@ -8,9 +8,11 @@
   - the term "disposition", of a declared bearer within a declared boundary, raised at U22 ([TERM-tmp6ersv](record/terms.d/TERM-tmp6ersv.md), wording A's);
   - dated notes carrying U6, U14 and U15.
 - Sixteen of A's entries, all Proposed: three kinds of critical slowing; survival-conditioned statistics as no evidence of persistence, with its chain; viable-history sheaves whose restriction need not be onto; hidden mechanisms leaving a non-sheaf presheaf, with its construction and question; adaptive HKB; the forced and suppressed Stuart–Landau oscillator and its question; slaving and precedence; succession made by participants' verdicts; rival uses of an expression; jurisdiction over a concept's contexts; the fork; and a two-community category-revision study.
+- Eight ARGs, filed at the owner's review: six Proposed and two Rejected, one of which removes CASE-002 from a claim's grounds.
 - Eighty-one dated notes of 2026-11-07 on the entries the readings bear on.
 - Thirty-six cited works registered unread, every identifier checked; the checks corrected A's attribution of one review and the dates of two works.
 
 ### Changed
 
 - `.claude/settings.json` (dmarx/nucleation#421, merged separately) lets the session fetch public ChatGPT share links; this filing is the first to use it.
+- The `read-and-file` skill's step 10 now asks the filer to list the filing's support judgements and file each as an ARG before the curation entry; this filing's brief left the rule out.

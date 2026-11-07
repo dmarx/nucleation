@@ -53,6 +53,7 @@ supports:
 - CLAIM-198
 - CLAIM-196
 ---
+<!-- inactive-ok-file: ARG-tmpshw5w — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-251 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the consequence drawn from this claim, cited forward -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -139,3 +140,11 @@ The interlocutor's reading of 2026-10-12 says this claim "supplies an essential 
 <!-- inactive-ok-block: CLAIM-tmprmy7a CASE-tmpdwka1 — filed from the same exchange, Proposed -->
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §4 gives a presheaf in which two sections agree on their overlap and do not glue: the observations realizable by a system with a hidden mode fixed for a run ([CASE-tmpdwka1](../cases.d/CASE-tmpdwka1.md), [CLAIM-tmprmy7a](CLAIM-tmprmy7a.md)). This claim's "a failure needs an overlap carrying sections that disagree" holds for sheaves, and the presheaf of realizable observations is not one. This qualifies the claim's wording, which reads as general; it does not touch the diagnosis the claim is used for. No status changes.
+
+The enumeration behind ARG-tmpshw5w, filed at the owner's review, adds
+one point to the note above. In CASE-tmpdwka1 the cover {1} and {2–3}
+has no overlap and still fails to paste to (1, 0, 1), so for presheaves
+of realizable observations this claim's first clause fails too, not only
+its wording about overlaps. That failure depends on the periods being
+discrete. The claim as a theorem about sheaves, its verdict on "tall",
+and its clause that the choice of cover decides gluing are untouched.

@@ -44,6 +44,7 @@ summary: >-
   tongue are the reader's. The conjecture is the owner's; the wording of
   the construction is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmp7idjd — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed; cited as the parameter-space nerve this claim is set beside -->
 
 # CLAIM-tmpk1015: Indexed by a system's control parameters, the compatibility complex of its synchronization demands gives each set of demands a region where they can be met together; an Arnold tongue is a locking region, where a demand is met by an attracting state, and each locking region lies inside the compatibility region of the same demands without needing to equal it
@@ -101,3 +102,15 @@ test "cannot simply be transferred unchanged" to the circle.
   basin size are further conditions, [CLAIM-567](CLAIM-567.md)'s.
 - When changes in the complex coincide with bifurcations of the locked
   states. That is [QUESTION-tmp71nlk](../questions.d/QUESTION-tmp71nlk.md).
+
+## Two premises the claim needs
+
+Argued at the owner's review (ARG-tmp7idjd). The inclusion of T_S in C_S
+holds under any dynamics. Two further statements need a premise the
+claim does not state. The ordinary 1:1 tongue is the degenerate case
+C_S = T_S only if Q(λ), the admissible configurations, are the locked
+ones; if Q(λ) is the whole torus, C_S does not depend on λ at all.
+And THEORY-1087 witnesses strictness only for demands of zero tolerance,
+since Sakaguchi–Kuramoto coupling does not define consistent offset
+demands; the two-oscillator antiphase witness above is clean. The result
+covers 1:1 locking and assumes phase reduction.
