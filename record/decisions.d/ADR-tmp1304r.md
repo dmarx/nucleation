@@ -48,7 +48,7 @@ pointed out that a pattern can carry what is too complex for a chain.
 - **A claim's `rests_on` may name a SYNTHESIS.** It keeps its meaning, a
   premise the claim could not stand without, whichever scheme now holds
   the premise. SYNTHESIS gains `supports`, derived from those `rests_on`
-  (ADR-079), so a synthesis's page shows the claims resting on it.
+  ([ADR-079](ADR-079.md)), so a synthesis's page shows the claims resting on it.
 - **The `argument` chain walks a named pattern in place of the field.** The
   pattern `rests_on_claim`, `(c:CLAIM)-[:rests_on]->(p:CLAIM)`, gives
   exactly the claim-to-claim steps the chain walked before, beside
