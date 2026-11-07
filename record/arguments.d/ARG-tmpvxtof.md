@@ -29,7 +29,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpcdshj CASE-tmpcr92d — filed from the same exchange, Proposed; the thesis this argument concludes and the study that would apply its criterion -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; the criterion of continuation for collectives, cited as open -->
 
-# Two separately made mechanisms of one design are isomorphic and two, and a mechanism can be stipulated to persist through a change that breaks isomorphism; the first carries over to organized individuals and the second only as consistency, so whether such an individual continues needs a criterion of continuation
+# ARG-tmpvxtof: Two separately made mechanisms of one design are isomorphic and two, and a mechanism can be stipulated to persist through a change that breaks isomorphism; the first carries over to organized individuals and the second only as consistency, so whether such an individual continues needs a criterion of continuation
 
 ## The inference
 

@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpxe1ih — filed from the same exchange, Proposed -->
 
-# A rule whose outcomes change when classification moves to another group, with the rule unchanged, is evidence that jurisdiction over a concept's contexts partly fixes whether its uses are compatible
+# ARG-tmp2ia3c: A rule whose outcomes change when classification moves to another group, with the rule unchanged, is evidence that jurisdiction over a concept's contexts partly fixes whether its uses are compatible
 
 ## The inference
 

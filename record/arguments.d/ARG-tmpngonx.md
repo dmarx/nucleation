@@ -37,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-152 — Proposed; Hirschman's exit and voice, the source of the analogy, argued from examples -->
 <!-- inactive-ok-file: LIT-748 — Unavailable, unread; the 1970 book whose account of exit might say more -->
 
-# Hirschman's exit and voice, in which members denied effective voice can still exit, carries over to a fork as the construction of a new organization through which a disposition the parent kept ineffective gains efficacy
+# ARG-tmpngonx: Hirschman's exit and voice, in which members denied effective voice can still exit, carries over to a fork as the construction of a new organization through which a disposition the parent kept ineffective gains efficacy
 
 ## The inference
 

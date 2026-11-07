@@ -32,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmprmy7a CASE-tmpdwka1 — filed from the same exchange, Proposed -->
 
-# A hidden mode fixed for a run, whose observations over two overlapping periods agree on the overlap and do not paste into a realizable history, shows that a presheaf of realizable observations can fail to glue
+# ARG-tmpshw5w: A hidden mode fixed for a run, whose observations over two overlapping periods agree on the overlap and do not paste into a realizable history, shows that a presheaf of realizable observations can fail to glue
 
 ## The inference
 

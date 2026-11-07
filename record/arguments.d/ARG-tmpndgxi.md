@@ -34,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpn5x96 — filed from the same exchange, Proposed -->
 
-# A coordination mode held stable by a capacity declining from below its maintenance threshold is an instance of the dissociation between a coupling's strength and the stability of the saddle-node maintaining it
+# ARG-tmpndgxi: A coordination mode held stable by a capacity declining from below its maintenance threshold is an instance of the dissociation between a coupling's strength and the stability of the saddle-node maintaining it
 
 ## The inference
 

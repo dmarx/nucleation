@@ -34,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp7cpzx CASE-tmpyzdwh — filed from the same exchange, Proposed -->
 
-# A three-state chain whose survivors settle in a few time units while all of them die out on a time a hundred times longer shows that stable statistics conditioned on survival come apart from persistence
+# ARG-tmp0q5sw: A three-state chain whose survivors settle in a few time units while all of them die out on a time a hundred times longer shows that stable statistics conditioned on survival come apart from persistence
 
 ## The inference
 

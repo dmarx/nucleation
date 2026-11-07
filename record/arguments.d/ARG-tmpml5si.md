@@ -35,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-329 — Proposed; its criterion is the rival this argument has to tell the claim apart from -->
 <!-- inactive-ok-file: CLAIM-426 — Proposed; the reflexive mechanism the claim combines with CLAIM-329 -->
 
-# Contested open-source successions, in which participants who judged a new steward illegitimate moved their work to another successor, are evidence that the participants' verdicts help make the succession
+# ARG-tmpml5si: Contested open-source successions, in which participants who judged a new steward illegitimate moved their work to another successor, are evidence that the participants' verdicts help make the succession
 
 ## The inference
 

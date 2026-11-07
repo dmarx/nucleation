@@ -36,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpk1015 CASE-tmpecdgv — filed from the same exchange, Proposed -->
 
-# The inclusion of a locking region in the compatibility region of the same demands follows from the phase-oscillator setting once a demand is an acceptance set of phase differences and the admissible configurations are the locked ones
+# ARG-tmp7idjd: The inclusion of a locking region in the compatibility region of the same demands follows from the phase-oscillator setting once a demand is an acceptance set of phase differences and the admissible configurations are the locked ones
 
 ## The inference
 
