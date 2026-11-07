@@ -1,5 +1,8 @@
 ---
+number: 6
 status: Current
+formerly:
+- SYNTHESIS-tmp6m3wy
 title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
 version: 1
 history:
@@ -7,7 +10,7 @@ history:
   date: '2026-11-07'
   note: >-
     Moved from CLAIM-474 (version 4) at the decision that a migration keeps
-    the claim's standing and relations (ADR-tmpdne5p), as its
+    the claim's standing and relations (ADR-077), as its
     demonstration. Admitted by hypothesis at the synthesis review of
     2026-11-07; Active as a claim since the status review of 2026-11-06, so
     Current here. Title, body, grounds, terms and corroboration carried
@@ -89,15 +92,15 @@ summary: >-
   achievement does not yield the next, each with a source the record has
   read. Its premises, [CLAIM-471](../claims.d/CLAIM-471.md), [CLAIM-480](../claims.d/CLAIM-480.md), [CLAIM-481](../claims.d/CLAIM-481.md), [CLAIM-470](../claims.d/CLAIM-470.md) and
   [CLAIM-475](../claims.d/CLAIM-475.md), are Active. The central experiment is [CASE-179](../cases.d/CASE-179.md). Moved into
-  the SYNTHESIS scheme on 2026-11-07 ([ADR-tmpdne5p](../decisions.d/ADR-tmpdne5p.md)), keeping the standing
+  the SYNTHESIS scheme on 2026-11-07 ([ADR-077](../decisions.d/ADR-077.md)), keeping the standing
   the status review of 2026-11-06 gave it under the rulings the owner
   delegated.
 ---
 <!-- inactive-ok-file: CLAIM-474 — Superseded by this entry, which it was -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1351 — Proposed; components and a corroborating reading, cited with their standing -->
-<!-- inactive-ok-file: ADR-075 ADR-tmpw6bwa ADR-tmpdne5p — Proposed; the audit, the review and the decision that moved this entry -->
+<!-- inactive-ok-file: ADR-075 ADR-078 ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
 
-# SYNTHESIS-tmp6m3wy: From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
+# SYNTHESIS-006: From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
 
 *Moved from [CLAIM-474](../claims.d/CLAIM-474.md), where its development up to version 4 is recorded.*
 
@@ -191,7 +194,7 @@ apart, and so does this claim.
 
 ## Admission
 
-Admitted at the synthesis review of 2026-11-07 ([ADR-tmpw6bwa](../decisions.d/ADR-tmpw6bwa.md)) by [ADR-075](../decisions.d/ADR-075.md)'s
+Admitted at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) by [ADR-075](../decisions.d/ADR-075.md)'s
 hypothesis route: the integration can fail while every component holds.
 
 **The case.** Stipulate a theorem T: every persistent organization with a

@@ -1,5 +1,8 @@
 ---
+number: 7
 status: Proposed
+formerly:
+- SYNTHESIS-tmpsw5k6
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
 version: 1
 history:
@@ -74,17 +77,17 @@ summary: >-
   identification. The domination clause has no coded component; its home
   is [CLAIM-354](../claims.d/CLAIM-354.md)'s note of 2026-11-02. The integration's wording is A's,
   corrected by the filer; adopting it is the owner's call. Moved from
-  [CLAIM-545](../claims.d/CLAIM-545.md) at the synthesis review of 2026-11-07 ([ADR-tmpw6bwa](../decisions.d/ADR-tmpw6bwa.md)),
+  [CLAIM-545](../claims.d/CLAIM-545.md) at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)),
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
-<!-- inactive-ok-file: ADR-075 ADR-tmpw6bwa — Proposed; the audit applied and the review that moved this entry -->
+<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that moved this entry -->
 <!-- inactive-ok-file: CLAIM-545 — Superseded by this entry, which it was -->
 <!-- inactive-ok-file: CLAIM-624 CASE-225 CLAIM-616 TERM-083 — Proposed or Superseded; cited in dated notes carried over from CLAIM-545 -->
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->
 
-# SYNTHESIS-tmpsw5k6: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
+# SYNTHESIS-007: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-*Moved from [CLAIM-545](../claims.d/CLAIM-545.md), where its development up to version 2 is recorded, at the synthesis review of 2026-11-07 ([ADR-tmpw6bwa](../decisions.d/ADR-tmpw6bwa.md)). Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*Moved from [CLAIM-545](../claims.d/CLAIM-545.md), where its development up to version 2 is recorded, at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)). Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The integration
 
