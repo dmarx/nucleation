@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmp9negs
 title: 'The distribution-over-situations criterion compares each language''s own listener posterior, so it needs no correspondence of alternative sets; that a literal rendering can fail it is the criterion detecting a lost implicature, and a target language may admit no rendering that passes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the third synthesis review of 2026-11-07: the body called Jakobson's point
+    CLAIM-033's. Since CLAIM-033's version 3 it is that claim's prior
+    statement, THEORY-170; the citation now names it. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,6 +43,7 @@ summary: >-
   the criterion's form and checked by arithmetic. It does not say the
   model is right or that the criterion applies to poems.
 ---
+<!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's point, CLAIM-033's prior statement -->
 <!-- inactive-ok-file: CLAIM-236 — Rejected; the objection this claim answers, cited as answered -->
 <!-- inactive-ok-file: CLAIM-111 CLAIM-033 — Proposed; the criterion this claim reads and Jakobson's point it extends, cited as open, not settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; the central theses, cited only to say this claim is not their premise -->
@@ -92,7 +100,8 @@ correspondence. It shows the criterion working.
 **The target inventory bounds fidelity.** In this target language every
 utterance gives P_L(m₁ | ·) = 1/2, because there is only one. So no
 rendering of *a* passes the criterion: the target language cannot say what
-the source said by implicature. That is [CLAIM-033](CLAIM-033.md)'s point from Jakobson,
+the source said by implicature. That is Jakobson's point (THEORY-170), which CLAIM-033 keeps as its prior
+statement,
 "Languages differ in what they must convey", met here for what a language
 *can* convey by implicature. It is a consequence of the criterion, not a gap
 in it: a fidelity criterion should report that some source posteriors have
