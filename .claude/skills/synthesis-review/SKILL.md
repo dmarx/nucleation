@@ -54,7 +54,9 @@ restatements.
 
 ## 3. Stage 3: audit each shortlisted candidate
 
-For each, read the candidate and every component in full. Then:
+For each, read the candidate and every component in full. A reader's
+brief states the tests neutrally: it does not say how earlier rounds came
+out, or ask for strictness or leniency. Then:
 
 - **State the integrating claim in one sentence, apart from its
   components.** If no such sentence can be written, the candidate is not a
@@ -93,8 +95,22 @@ For each, read the candidate and every component in full. Then:
   the reviewer's, so its summary ends: "The integration's wording is the
   assistant's (Claude, in this session); adopting it is the owner's call."
   Its components keep their own voices, named in the body.
-- **Arm B, not admitted.** File nothing. Record the candidate and the
-  reason.
+- **Arm B, not admitted because the record already holds the
+  integration** (stated in a component's body or notes), on a line, or a
+  major part of one, with no admitted synthesis: file or revise that line's
+  **line account** (ADR-tmpyihxy). This is an unadmitted SYNTHESIS that
+  restates the account as the record holds it:
+  - every component in `integrates`, with voice and status in the body;
+  - each link it states attributed to the entry that states it;
+  - nothing added. A link no component states goes under "Not stated on
+    the record".
+
+  It has no `route`, and its `defeated_if` is fidelity: a component
+  misstated, an in-force component left out, or a link no component
+  states. A line has at most one; revise it as a new version.
+- **Arm B, not admitted for any other reason** (a free parameter, a
+  component stated wrongly, a contradiction): file nothing. Record the
+  candidate and the reason.
 - **Never set a new synthesis Current.** Adoption is the owner's; only a
   move carries Current, from a claim that was Active.
 
@@ -111,7 +127,8 @@ Write a curation entry, "Synthesis review of DATE", with four parts:
   integrating sentence, whether and by which route it was admitted, and the
   code filed or the reason not;
 - **relations repointed**, for each migration;
-- **what the current-account view now shows**: lines covered, and lines
-  still without a synthesis.
+- **what the current-account view now shows**: lines covered by an
+  admitted synthesis, lines with only a line account, and lines with
+  neither.
 
 Add a changelog fragment. One review is one contribution (ADR-071).
