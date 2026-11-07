@@ -153,3 +153,6 @@ No status changes.
 
 A's review of the pull request that filed the DNA origami readings asks which route a helpful nucleus takes. It may move the system to a more advanced state under the same rates, or change the rates of later steps among components outside it. That question is filed separately as [QUESTION-397](QUESTION-397.md), since this question asks when a small compatible subsystem helps, not by which route. A's decisive measurement is downstream reaction hazards in matched partial assemblies, not final yield. No status changes.
 
+## Note of 2026-11-07: monotone predictors, from the second synthesis review
+
+The second synthesis review found the relational, interventional reading of this question held by [TERM-117](../terms.d/TERM-117.md), [CLAIM-599](../claims.d/CLAIM-599.md), [CLAIM-595](../claims.d/CLAIM-595.md) and [CLAIM-596](../claims.d/CLAIM-596.md), and the narrow point, that a predictor monotone in the established relations misclassifies wherever adding one can hurt, held by [CLAIM-599](../claims.d/CLAIM-599.md) with [CLAIM-562](../claims.d/CLAIM-562.md). It noted on [CLAIM-562](../claims.d/CLAIM-562.md) that UFI, the predictor this question's "What would answer it" names as an example, is itself monotone in the actuator set, so it cannot flag the supersets that lower the chance.

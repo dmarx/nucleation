@@ -191,3 +191,7 @@ The assistant's reading across the eight DNA origami readings filed on the owner
 Two readings touch the shared budget, neither within its scope. Wagenbauer, Wachauf and Dietz ([NOTE-1637](../notes.d/NOTE-1637.md)) spent on a quality assay and used it to replace a 16-hour ramp with a 1.5-hour three-step schedule of matched quality, observing bought cheaper acting, but across experiments, not within one decision. Rothemund's AFM ([NOTE-1631](../notes.d/NOTE-1631.md)) is an observation that acts on the sample, the converse of the dual-control case the claim excludes, so there the split between the budgets is not even defined.
 
 No status changes.
+
+## Note of 2026-11-07: the price of agreement, from the second synthesis review
+
+On [CASE-206](../cases.d/CASE-206.md)'s vertex the observer's and the system's partitions agree, beyond the trivial corners, only in the window 3 ≤ o < 4, 1.125 ≤ a < 1.866 ([CASE-206](../cases.d/CASE-206.md)'s frontiers; [CLAIM-592](CLAIM-592.md)'s agreement). Under one shared budget o + a ≤ B, the least total that reaches that window is 3 + 1.125 = 4.125. That is more than this claim's cheapest readiness, 1.866, and more than full observation, 4: at B = 4 none of the ready splits lies in the window. So a budget that buys readiness, or one that buys complete observation, need not buy the agreement between outside and inside that picks out the half-branches as individuals. One step from this claim and [CASE-206](../cases.d/CASE-206.md); noted, not filed. No status change.
