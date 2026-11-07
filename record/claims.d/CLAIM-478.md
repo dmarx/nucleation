@@ -54,7 +54,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmppu8h2 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: NOTE-1532 THEORY-1306 — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->
