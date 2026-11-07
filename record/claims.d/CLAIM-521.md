@@ -36,8 +36,8 @@ summary: >-
   the regime changes while the block's gap does not. All numbers were
   recomputed.
 ---
-<!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-tmpwp3ru — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 
 # CLAIM-521: An organization's present coupling strength need not reveal the stability of the process maintaining it: in a constructed system whose maintained connector and capacities set a three-unit coupling, the recovery rate of the maintenance goes to zero at its saddle-node while the coupling's spectral gap there stays near 0.989
 
@@ -109,13 +109,13 @@ A cites this claim rightly in content (A14 §6; A18 §4, "a particularly clear e
 - the dissociation is built in: with no feedback from the coupled units to maintenance, the coupling depends on the equilibrium's value and not on its stability, so any such fold at nonzero value gives it (see the note of 2026-11-01 on the SCN, where coupling does feed maintenance and the dissociation fails);
 - in a finite system the regime is metastable and the coupling is lost at escape, before the fold ([THEORY-1273](../theory.d/THEORY-1273.md)).
 
-A's version adds the phase-locking arm only. The construction is the basis of the maintenance arm of [CLAIM-tmpwp3ru](CLAIM-tmpwp3ru.md), filed from the same exchange. No change.
+A's version adds the phase-locking arm only. The construction is the basis of the maintenance arm of [CLAIM-626](CLAIM-626.md), filed from the same exchange. No change.
 
 ## Note of 2026-11-07: the same shape by another mechanism, from "Individuation, Possibility, and Disposition"
-<!-- inactive-ok-block: CASE-tmpn5x96 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CASE-227 — filed from the same exchange, Proposed -->
 
-In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §2 cites this claim for its adaptive HKB system ([CASE-tmpn5x96](../cases.d/CASE-tmpn5x96.md)): "That's an explicit example of the distinction Nucleation develops in" this claim. The shape matches: a currently effective coordination pattern over an unsustained maintenance. The mechanism differs. Here the capacity declines from below an unstable maintenance threshold ([CLAIM-604](CLAIM-604.md)'s ignition threshold); in this claim the maintenance's recovery rate goes to zero at a saddle-node. The contrast also holds as a separation of time scales only for a slow maintenance rate, ε about 0.1 or less. No status changes.
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §2 cites this claim for its adaptive HKB system ([CASE-227](../cases.d/CASE-227.md)): "That's an explicit example of the distinction Nucleation develops in" this claim. The shape matches: a currently effective coordination pattern over an unsustained maintenance. The mechanism differs. Here the capacity declines from below an unstable maintenance threshold ([CLAIM-604](CLAIM-604.md)'s ignition threshold); in this claim the maintenance's recovery rate goes to zero at a saddle-node. The contrast also holds as a separation of time scales only for a slow maintenance rate, ε about 0.1 or less. No status changes.
 
 ## Note of 2026-11-07: the lag between lost legitimacy and lost productive capability, from "Individuation, Possibility, and Disposition"
 
-A, at A32 §5 and A36 §7 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), cites this claim without its code, rightly, as "Nucleation's observation that an organization can remain tightly integrated while the mechanisms maintaining its integration approach collapse". A36 §7 proposes its social counterpart as the key measure of a study, "the delay between a loss of recognized legitimacy and a loss of productive capability": a contested project may keep its code, releases and users while its contributors leave. Filed as [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md). No status changes.
+A, at A32 §5 and A36 §7 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), cites this claim without its code, rightly, as "Nucleation's observation that an organization can remain tightly integrated while the mechanisms maintaining its integration approach collapse". A36 §7 proposes its social counterpart as the key measure of a study, "the delay between a loss of recognized legitimacy and a loss of productive capability": a contested project may keep its code, releases and users while its contributors leave. Filed as [CASE-223](../cases.d/CASE-223.md). No status changes.

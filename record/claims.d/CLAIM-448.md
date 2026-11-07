@@ -70,9 +70,9 @@ illustrated_by:
 - CASE-154
 - CASE-156
 ---
-<!-- inactive-ok-file: ARG-tmpmk7of — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: ARG-tmpr43gg — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CASE-tmp3l0hh — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: ARG-066 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: ARG-073 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-221 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-11-07 -->
 
@@ -136,6 +136,6 @@ Self-reinforcing authority is not itself new, and the DeGroot–Friedkin model o
 
 ## Note of 2026-11-07: cited as a showing, and its individual-scale counterpart, from the second share of "Individuation, Possibility, and Disposition"
 
-A57 cites this claim as a result that "shows that a coherent institutional decision record can be produced by selectively excluding dissent". It is an objection, argued, and its settling model was unbuilt. [THEORY-916](../theory.d/THEORY-916.md)'s special case carries only the weaker half ([ARG-tmpr43gg](../arguments.d/ARG-tmpr43gg.md)). The reader's agenda construction, [CASE-tmp3l0hh](../cases.d/CASE-tmp3l0hh.md) with [ARG-tmpmk7of](../arguments.d/ARG-tmpmk7of.md), builds the existence half; it does not test the prediction about interventions. A58 §6 quotes the prediction rightly.
+A57 cites this claim as a result that "shows that a coherent institutional decision record can be produced by selectively excluding dissent". It is an objection, argued, and its settling model was unbuilt. [THEORY-916](../theory.d/THEORY-916.md)'s special case carries only the weaker half ([ARG-073](../arguments.d/ARG-073.md)). The reader's agenda construction, [CASE-221](../cases.d/CASE-221.md) with [ARG-066](../arguments.d/ARG-066.md), builds the existence half; it does not test the prediction about interventions. A58 §6 quotes the prediction rightly.
 
 The owner's [CLAIM-553](CLAIM-553.md) makes the same point at the scale of one individual. Silence is not endorsement, because observed intervention carries a legibility factor: the chance that the discrepancy is legible and a channel carries it. Here coherence is not integration, because the record admits only what its regime makes legible. Neither entry cites the other. No status changes.

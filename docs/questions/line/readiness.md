@@ -6,7 +6,7 @@
 
 **Readiness and slack** — what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up (ADR-073).
 
-33 of 436 QUESTION documents. Back to the [full index](../README.md).
+33 of 441 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

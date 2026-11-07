@@ -51,7 +51,7 @@ summary: >-
 supports:
 - CLAIM-206
 ---
-<!-- inactive-ok-file: CLAIM-tmpcdshj — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-615 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-472 — Proposed; the claims that name this guard, cited as open -->
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
@@ -204,4 +204,4 @@ A52 §16 says this claim "already establishes this caution", that "the model mus
 
 ## Note of 2026-11-07: the three tiers, from the second share of "Individuation, Possibility, and Disposition"
 
-A55 §2 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, says this claim "distinguishes operational identification, causal explanation, and constitutive metaphysics", and that a philosophical label "should not silently collapse those distinctions into a new definition". This claim's three are categorical identification, operational identification and constitution; the causal tier is [TERM-038](../terms.d/TERM-038.md)'s, which this claim pairs with. A's point stands. A55 §8's "methodological and causal structuralism with explicitly open constitutive questions" is the guard this claim provides, and [CLAIM-tmpcdshj](CLAIM-tmpcdshj.md)'s "What it does not say" already applies it. Unchanged.
+A55 §2 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, says this claim "distinguishes operational identification, causal explanation, and constitutive metaphysics", and that a philosophical label "should not silently collapse those distinctions into a new definition". This claim's three are categorical identification, operational identification and constitution; the causal tier is [TERM-038](../terms.d/TERM-038.md)'s, which this claim pairs with. A's point stands. A55 §8's "methodological and causal structuralism with explicitly open constitutive questions" is the guard this claim provides, and [CLAIM-615](CLAIM-615.md)'s "What it does not say" already applies it. Unchanged.

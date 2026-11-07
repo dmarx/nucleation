@@ -77,7 +77,7 @@ supports:
 bears_on:
 - QUESTION-043
 ---
-<!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the parallel this claim restates, cited as open -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
@@ -151,4 +151,4 @@ arm C.
 
 ## Note of 2026-11-07: cited for collectives, from the second share of "Individuation, Possibility, and Disposition"
 
-A55 §2 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, says this claim "already explicitly permits organizational histories to branch, merge, and overlap", and A55 §4 has the Freenode and Redis successions illustrate it. The words are in this claim's body, from A10, but the claim is about a self that persists through inactivity. For collectives the record's entry is [CLAIM-328](CLAIM-328.md) (Active), with plural successors and no branching identity, answering [QUESTION-290](../questions.d/QUESTION-290.md); A55 does not cite either. The succession instances are gathered in [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md), which illustrates [CLAIM-328](CLAIM-328.md). Unchanged.
+A55 §2 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, says this claim "already explicitly permits organizational histories to branch, merge, and overlap", and A55 §4 has the Freenode and Redis successions illustrate it. The words are in this claim's body, from A10, but the claim is about a self that persists through inactivity. For collectives the record's entry is [CLAIM-328](CLAIM-328.md) (Active), with plural successors and no branching identity, answering [QUESTION-290](../questions.d/QUESTION-290.md); A55 does not cite either. The succession instances are gathered in [CASE-223](../cases.d/CASE-223.md), which illustrates [CLAIM-328](CLAIM-328.md). Unchanged.

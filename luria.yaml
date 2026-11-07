@@ -320,7 +320,7 @@ vocabularies:
     label: Synthesis statuses
     blurb: Where a synthesis stands as the record's account of how its components fit together, which is
       a different question from whether each component is believed. A component's own standing is its
-      own status, derived, never copied here (ADR-tmpe7y42, and the decision proposing this scheme).
+      own status, derived, never copied here (ADR-075, and the decision proposing this scheme).
     alert: Closed. Whether a synthesis earned its entry is not a status; it is `admission`, a field of its
       own, so a synthesis can be unadmitted without being judged false.
     terms:
@@ -339,7 +339,7 @@ vocabularies:
         blurb: a later synthesis covers the same integration better, and this one names it
   synthesis-admission:
     label: Admission
-    blurb: Whether a synthesis earned an entry of its own (ADR-tmpe7y42, step 5), judged apart from whether
+    blurb: Whether a synthesis earned an entry of its own (ADR-075, step 5), judged apart from whether
       its integrating claim is believed, which is its status.
     alert: Closed.
     terms:
@@ -352,7 +352,7 @@ vocabularies:
           kept and not refuted. The route it once held, if any, is in its history
   synthesis-routes:
     label: Admission routes
-    blurb: How a synthesis earned its entry (ADR-tmpe7y42, step 5). Each route has its own test and its own
+    blurb: How a synthesis earned its entry (ADR-075, step 5). Each route has its own test and its own
       kind of defeat.
     alert: Closed.
     terms:
@@ -1368,7 +1368,7 @@ schemes:
         label: Illustrates
         blurb: a claim this case makes vivid without bearing its weight. Losing the case costs the claim
           an example, not a premise; that is what separates this from `grounds`. A synthesis too
-          (ADR-tmptu1vn)
+          (ADR-076)
         scheme: [CLAIM, SYNTHESIS]
         required: false
         many: true
@@ -1562,7 +1562,7 @@ schemes:
         label: Concludes
         blurb: the claim or claims the inference arrives at. One inference may conclude several
           theses when the same premises bear on each in the same way, so that one verdict is filed once
-          (ADR-061), or the synthesis whose integration it argues (ADR-tmptu1vn)
+          (ADR-061), or the synthesis whose integration it argues (ADR-076)
         scheme: [CLAIM, SYNTHESIS]
         required: true
         many: true
@@ -1660,7 +1660,7 @@ schemes:
         forbidden_when:
           admission:
           - unadmitted
-        blurb: the admission route it passed (ADR-tmpe7y42, step 5); required while it is admitted, and
+        blurb: the admission route it passed (ADR-075, step 5); required while it is admitted, and
           absent once it is not, its former route then kept in its history
       warrant:
         vocabulary: claim-warrants
@@ -1830,7 +1830,7 @@ lint:
   # `pattern-ok:` in the first node's document says why it is deliberate.
   - inverted_premise
   - inverted_ground
-  # The SYNTHESIS scheme's own promises (ADR-tmptu1vn).
+  # The SYNTHESIS scheme's own promises (ADR-076).
   - premise_outside_integrates
   - synthesis_premise_outside_integrates
   - current_on_premise_not_in_force
@@ -1851,7 +1851,7 @@ lint:
   - inert-status
   - acknowledged-uniformity
 patterns:
-  # What the SYNTHESIS scheme promises and its fields cannot say (ADR-tmptu1vn).
+  # What the SYNTHESIS scheme promises and its fields cannot say (ADR-076).
   premise_outside_integrates:
     match: "(s:SYNTHESIS)-[:premises]->(p:CLAIM) WHERE NOT (s)-[:integrates]->(p)"
     report: true

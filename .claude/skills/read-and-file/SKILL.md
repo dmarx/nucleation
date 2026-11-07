@@ -4,8 +4,8 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 ---
 <!-- .claude/skills/read-and-file/SKILL.md -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-tmpe7y42 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-tmptu1vn — Proposed; the SYNTHESIS scheme, step 9b, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-076 — Proposed; the SYNTHESIS scheme, step 9b, until the owner adopts it -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; the legacy synthesis CLAIM step 9b names -->
 
 # Reading and filing
@@ -194,7 +194,7 @@ not a finding.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
 
-## 9b. Audit the syntheses (ADR-tmpe7y42)
+## 9b. Audit the syntheses (ADR-075)
 
 A synthesis is any turn, section or pasted text that states an overall
 account: an executive summary of the record, "the positive account I
@@ -247,7 +247,7 @@ synthesis as well.
   file and its status, and its `admission` becomes `unadmitted`, with the
   reason in its history. Not admitted is not a finding that it is false.
 - **File the latest version of each admitted thesis** as one SYNTHESIS
-  (`luria new synthesis`; ADR-tmptu1vn), Proposed, with `admission:
+  (`luria new synthesis`; ADR-076), Proposed, with `admission:
   admitted`, `route` set to the route it passed, a `role`, and every
   component in `integrates`. The
   current-account view derives each component's standing from that
@@ -263,7 +263,7 @@ synthesis as well.
   - earlier versions are listed in the body.
 - **Revise, don't duplicate.** Where a SYNTHESIS for the account is held,
   revise it as a new version. Where only a legacy synthesis CLAIM holds it
-  (filed before ADR-tmptu1vn, such as CLAIM-545), file the revision as a
+  (filed before ADR-076, such as CLAIM-545), file the revision as a
   SYNTHESIS and set the CLAIM to Superseded by it, its history kept on the
   CLAIM. Then repoint the relations that describe the current account to
   the SYNTHESIS, and leave those that record history.

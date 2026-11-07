@@ -80,7 +80,7 @@ supports:
 - CLAIM-361
 - CLAIM-440
 ---
-<!-- inactive-ok-file: CLAIM-tmpk1015 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
@@ -386,7 +386,7 @@ No status changes.
 
 ## Note of 2026-11-07: silencing an oscillator, from "Individuation, Possibility, and Disposition"
 
-A9 §4 of the exchange (2026-11-06 to 07): "Silencing an oscillator is not the same as satisfying its synchronization demand." A cites [CLAIM-549](CLAIM-549.md), rightly. This claim's last clause, that dropping or suppressing a demand is not relief, is the same point, and A did not cite it. A9's "consensus produced by silencing dissent" is an illustration, not a result. [CLAIM-tmpk1015](CLAIM-tmpk1015.md), filed from the same exchange, rests on this claim's complex, indexed by a system's control parameters. Supports; no status change.
+A9 §4 of the exchange (2026-11-06 to 07): "Silencing an oscillator is not the same as satisfying its synchronization demand." A cites [CLAIM-549](CLAIM-549.md), rightly. This claim's last clause, that dropping or suppressing a demand is not relief, is the same point, and A did not cite it. A9's "consensus produced by silencing dissent" is an illustration, not a result. [CLAIM-618](CLAIM-618.md), filed from the same exchange, rests on this claim's complex, indexed by a system's control parameters. Supports; no status change.
 
 ## Note of 2026-11-07: a product line's admissible feature combinations, from "Individuation, Possibility, and Disposition"
 

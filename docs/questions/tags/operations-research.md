@@ -6,7 +6,7 @@
 
 **Operations research** — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-12 of 436 QUESTION documents. Back to the [full index](../README.md).
+12 of 441 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

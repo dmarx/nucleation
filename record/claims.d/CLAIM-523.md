@@ -59,7 +59,7 @@ summary: >-
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
-<!-- inactive-ok-file: CLAIM-tmptfuky — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
 
 # CLAIM-523: For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed
@@ -190,7 +190,7 @@ Jules et al. ([NOTE-1617](../notes.d/NOTE-1617.md)), from the pasted synthesis o
 
 ## Note of 2026-11-07: cited, with a fourth intervention, from the second share of "Individuation, Possibility, and Disposition"
 
-A60 §5 and A62 §1 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly, though A60 §5's "independently necessary" is a little strong: the claim says each achievement is needed and any can fail while the others hold. A60 §11 and A62 §11 add a fourth intervention, on the feedback that reproduces the failures, tested by withdrawing support; that is [CLAIM-522](CLAIM-522.md) and [CLAIM-600](CLAIM-600.md). [CLAIM-tmptfuky](CLAIM-tmptfuky.md) rests on this claim. Unchanged.
+A60 §5 and A62 §1 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly, though A60 §5's "independently necessary" is a little strong: the claim says each achievement is needed and any can fail while the others hold. A60 §11 and A62 §11 add a fourth intervention, on the feedback that reproduces the failures, tested by withdrawing support; that is [CLAIM-522](CLAIM-522.md) and [CLAIM-600](CLAIM-600.md). [CLAIM-624](CLAIM-624.md) rests on this claim. Unchanged.
 
 ## Note of 2026-11-07: surveyed, from the second share of "Individuation, Possibility, and Disposition"
 

@@ -53,8 +53,8 @@ summary: >-
 illustrated_by:
 - CASE-176
 ---
-<!-- inactive-ok-file: CASE-tmpcr92d — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-tmpjw473 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
 
 # CLAIM-328: When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity
 
@@ -123,4 +123,4 @@ countries each continuing a part.
 
 ## Note of 2026-11-07: successions at a change of steward, from "Individuation, Possibility, and Disposition"
 
-A, at A36 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), offers software successions as instances of this claim, with a change of steward, not a relocation, as the separating event: Freenode and Libera Chat, Redis and Valkey, GIMP and SourceForge, OpenOffice and LibreOffice. All are A's reports, unverified, and are gathered in a proposed study, [CASE-tmpcr92d](../cases.d/CASE-tmpcr92d.md); this claim names a second case as what would move it. A36 §1: "The legal and nominal continuity followed Freenode." "Much of the operational, social, and normative continuity followed Libera." A36 §8 stays close to this claim ("need not admit one unambiguous continuing individual"). A37 §12C, "Organizational identity can fission", asserts the branching this claim says it does not, and A36 §5's "Organizational fission" misreads plural succession as branching identity. [CLAIM-tmpjw473](CLAIM-tmpjw473.md), filed from the same exchange, complements this claim with a mechanism for how the respects part. No status changes.
+A, at A36 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), offers software successions as instances of this claim, with a change of steward, not a relocation, as the separating event: Freenode and Libera Chat, Redis and Valkey, GIMP and SourceForge, OpenOffice and LibreOffice. All are A's reports, unverified, and are gathered in a proposed study, [CASE-223](../cases.d/CASE-223.md); this claim names a second case as what would move it. A36 §1: "The legal and nominal continuity followed Freenode." "Much of the operational, social, and normative continuity followed Libera." A36 §8 stays close to this claim ("need not admit one unambiguous continuing individual"). A37 §12C, "Organizational identity can fission", asserts the branching this claim says it does not, and A36 §5's "Organizational fission" misreads plural succession as branching identity. [CLAIM-617](CLAIM-617.md), filed from the same exchange, complements this claim with a mechanism for how the respects part. No status changes.

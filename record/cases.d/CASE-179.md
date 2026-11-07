@@ -37,8 +37,8 @@ summary: >-
   the structure, and whether revision improves prediction on interventions
   the apparatus did not choose. Not run.
 ---
-<!-- inactive-ok-file: CASE-tmpecdgv — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-tmpg7aqc — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-251 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 
 # CASE-179: A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish
@@ -158,4 +158,4 @@ The study is still proposed.
 
 ## Note of 2026-11-07: A12's elaboration of this design, from "Individuation, Possibility, and Disposition"
 
-A12 §8 and §10 of the exchange (2026-11-06 to 07) call its programme "a direct elaboration" of this case. It adds three arms: withdrawal of an external periodic forcing, suppression of oscillation by an inhibitory control ([CASE-tmpecdgv](CASE-tmpecdgv.md)), and adaptive capacities whose production can be knocked out. A12 §10's further extension, correspondence maps that "adapt through plasticity or emerge from interaction delays" rather than being assigned by the experimenter, is [QUESTION-282](../questions.d/QUESTION-282.md). A12's first project, a "forced adaptive oscillator network with frustration and reciprocal maintenance variables", is in [CLAIM-tmpg7aqc](../claims.d/CLAIM-tmpg7aqc.md). No status change.
+A12 §8 and §10 of the exchange (2026-11-06 to 07) call its programme "a direct elaboration" of this case. It adds three arms: withdrawal of an external periodic forcing, suppression of oscillation by an inhibitory control ([CASE-225](CASE-225.md)), and adaptive capacities whose production can be knocked out. A12 §10's further extension, correspondence maps that "adapt through plasticity or emerge from interaction delays" rather than being assigned by the experimenter, is [QUESTION-282](../questions.d/QUESTION-282.md). A12's first project, a "forced adaptive oscillator network with frustration and reciprocal maintenance variables", is in [CLAIM-616](../claims.d/CLAIM-616.md). No status change.

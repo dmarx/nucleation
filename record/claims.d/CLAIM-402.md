@@ -79,7 +79,7 @@ illustrated_by:
 bears_on:
 - QUESTION-028
 ---
-<!-- inactive-ok-file: CASE-tmpb16ru — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->
 <!-- inactive-ok-file: THEORY-273 — Proposed; corroborates this claim, cited under what it does not say -->
@@ -195,4 +195,4 @@ pass should rule on it.
 
 ## Note of 2026-11-07: the loop as an equation, and a third reading, from "Individuation, Possibility, and Disposition"
 
-In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §4 and §9 set Hacking's loop into the meaning–authority model as a fourth equation, z_{t+1} = Q(…), in which the classified population responds, and cited survey and qualitative evidence for parts of the loop (named in [CASE-tmpb16ru](../cases.d/CASE-tmpb16ru.md), not registered). A41 §9 added a third reading of later evidence beside prediction and causation: "the label is applied retrospectively to behavior that had independent causes." This supports the claim's warning; it does not test it, since no study cited separates the readings, and A says "The full causal loop therefore remains a research hypothesis." A did not cite this claim. No status changes.
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §4 and §9 set Hacking's loop into the meaning–authority model as a fourth equation, z_{t+1} = Q(…), in which the classified population responds, and cited survey and qualitative evidence for parts of the loop (named in [CASE-222](../cases.d/CASE-222.md), not registered). A41 §9 added a third reading of later evidence beside prediction and causation: "the label is applied retrospectively to behavior that had independent causes." This supports the claim's warning; it does not test it, since no study cited separates the readings, and A says "The full causal loop therefore remains a research hypothesis." A did not cite this claim. No status changes.

@@ -6,7 +6,7 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-19 of 117 TERM documents. Back to the [full index](../README.md).
+19 of 118 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

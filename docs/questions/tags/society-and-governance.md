@@ -6,7 +6,7 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-38 of 436 QUESTION documents. Back to the [full index](../README.md).
+38 of 441 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

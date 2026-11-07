@@ -6,7 +6,7 @@
 
 **In the anthology** — worth reading, whether or not an account was drawn from it.
 
-1611 of 2229 LIT documents. Back to the [full index](../README.md).
+1611 of 2270 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

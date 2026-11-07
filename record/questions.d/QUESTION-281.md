@@ -25,7 +25,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
-<!-- inactive-ok-file: CLAIM-tmpg7aqc — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-1642 LIT-1664 — Deferred; registered from the same exchange, unread -->
@@ -270,4 +270,4 @@ Berry, Lee-Trimble and Santangelo ([NOTE-1605](../notes.d/NOTE-1605.md)), from t
 
 ## Note of 2026-11-07: synchronization onset as an individuation transition, from "Individuation, Possibility, and Disposition"
 
-At U4 of the exchange (2026-11-06 to 07) the owner proposed that "entrainment and phase locking can probably be understood as kinds of individuation transitions". Synchronization onset is not among this question's listed routes. A12 §11 separates it from the transition to self-maintenance: "The transition from externally organized coherence to internally maintained organization is not necessarily a synchronization transition. It is a transition in the causal organization responsible for producing and sustaining the synchronized regime." A12 §5.4 proposes forcing-seeded formation with separate formation and maintenance thresholds and hysteresis, which [CASE-191](../cases.d/CASE-191.md), [CASE-189](../cases.d/CASE-189.md) and [QUESTION-398](QUESTION-398.md) already hold. The owner's programme is [CLAIM-tmpg7aqc](../claims.d/CLAIM-tmpg7aqc.md). The question stays open.
+At U4 of the exchange (2026-11-06 to 07) the owner proposed that "entrainment and phase locking can probably be understood as kinds of individuation transitions". Synchronization onset is not among this question's listed routes. A12 §11 separates it from the transition to self-maintenance: "The transition from externally organized coherence to internally maintained organization is not necessarily a synchronization transition. It is a transition in the causal organization responsible for producing and sustaining the synchronized regime." A12 §5.4 proposes forcing-seeded formation with separate formation and maintenance thresholds and hysteresis, which [CASE-191](../cases.d/CASE-191.md), [CASE-189](../cases.d/CASE-189.md) and [QUESTION-398](QUESTION-398.md) already hold. The owner's programme is [CLAIM-616](../claims.d/CLAIM-616.md). The question stays open.

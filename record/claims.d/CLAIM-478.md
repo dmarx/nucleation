@@ -52,7 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwp3ru — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1532 THEORY-1306 — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
@@ -383,4 +383,4 @@ A14 §3 and A18 §2 rebuild the claim's first half (A: "I would call this *dynam
 - **A further candidate for defeater (a).** A18 §5 names Ott and Antonsen's 2008 reduction (arXiv:0806.0004; unread), which "produces exact low-dimensional equations on a special invariant manifold" for certain infinite populations of globally coupled phase oscillators: a low-dimensional law without rapid transverse relaxation. Like [CLAIM-394](CLAIM-394.md)'s reversible case and strong lumpability, it bears on (a) only if typical.
 - **A forcing floor.** A20 §3: under a bounded disturbance |η| ≤ η_max the deviation settles at about η_max/λ⊥, not zero. So "approximately enforced" needs λ⊥H ≫ 1 over the horizon H and a small η_max/λ⊥ as well.
 
-Critical slowing in different modes, which bears oppositely on the reduction this claim describes, is [CLAIM-tmpwp3ru](CLAIM-tmpwp3ru.md), filed from the same exchange. No status change.
+Critical slowing in different modes, which bears oppositely on the reduction this claim describes, is [CLAIM-626](CLAIM-626.md), filed from the same exchange. No status change.

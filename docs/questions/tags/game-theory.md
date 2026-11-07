@@ -6,7 +6,7 @@
 
 **Game theory** — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
-5 of 436 QUESTION documents. Back to the [full index](../README.md).
+5 of 441 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -50,7 +50,7 @@ summary: >-
   Checked by linear programming against brute-force cycle enumeration on
   random graphs.
 ---
-<!-- inactive-ok-file: CLAIM-tmpk1015 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 
 # CLAIM-538: On a finite graph of contexts whose overlaps carry preferred real offsets a and tolerances δ_e ≥ 0, an assignment within every tolerance, |Dx − a| ≤ δ, exists exactly when no cycle's holonomy exceeds the sum of its tolerances; with every δ_e > 0 the least uniform enlargement of the tolerances that admits one is the largest ratio, over simple cycles, of holonomy to summed tolerance, so the obstruction is certified by a cycle; the feasible allocations of tolerance depend on the offsets only through their class in H¹, so local adjustment can move a mismatch among the overlaps of a cycle and never remove it; and an evaluation that omits one overlap of every witnessing cycle reports a compatibility that does not hold
 
@@ -141,4 +141,4 @@ The second paste of the pasted synthesis on resource-bounded realizability gloss
 
 ## Note of 2026-11-07: tolerances on the circle, from "Individuation, Possibility, and Disposition"
 
-A9 and A12 §2.4 of the exchange (2026-11-06 to 07) cite this claim rightly, as a result for real offsets with tolerances. A12 adds that phases live on the circle, so that "winding numbers and branch choices enter" and "A real-valued convex feasibility test cannot simply be transferred unchanged." That names this claim's open extension: tolerances on S¹. The exact circle case, without tolerances, is [CLAIM-153](CLAIM-153.md) and [THEORY-1082](../theory.d/THEORY-1082.md). [CLAIM-tmpk1015](CLAIM-tmpk1015.md), filed from the same exchange, uses circle-valued acceptance sets with tolerances and leaves their feasibility test unstated. No status change.
+A9 and A12 §2.4 of the exchange (2026-11-06 to 07) cite this claim rightly, as a result for real offsets with tolerances. A12 adds that phases live on the circle, so that "winding numbers and branch choices enter" and "A real-valued convex feasibility test cannot simply be transferred unchanged." That names this claim's open extension: tolerances on S¹. The exact circle case, without tolerances, is [CLAIM-153](CLAIM-153.md) and [THEORY-1082](../theory.d/THEORY-1082.md). [CLAIM-618](CLAIM-618.md), filed from the same exchange, uses circle-valued acceptance sets with tolerances and leaves their feasibility test unstated. No status change.

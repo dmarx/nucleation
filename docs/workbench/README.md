@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [November 2026](2026-11.md)
 
+- [7 Nov 01:51 — The exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07, U1–U24): from the record's core synthesis, through synchronization as a laboratory, timescale separation and slaving, metastability and absorbing states, viable-history sheaves, software products and contested succession, to meaning, "anti-vax", will and disposition; what each run of turns found, and what was filed](2026-11.md#the-exchange-individuation-possibility-and-disposition-2026-11-06-to-07-u1u24-from-the-records-core-synthesis-through-synchronization-as-a-laboratory-timescale-separation-and-slaving-metastability-and-absorbing-states-viable-history-sheaves-software-products-and-contested-succession-to-meaning-anti-vax-will-and-disposition-what-each-run-of-turns-found-and-what-was-filed)
 - [6 Nov 06:33 — The twenty-ninth status review: the skimmed sources behind held readings read further, twenty NOTEs to Read and twenty-two entries promoted](2026-11.md#the-twenty-ninth-status-review-the-skimmed-sources-behind-held-readings-read-further-twenty-notes-to-read-and-twenty-two-entries-promoted)
 - [6 Nov 05:14 — The twenty-eighth status review: sixty-three of the week's readings promoted under ADR-065, CLAIM-600's grounds sorted, and Rocks and Mehta read in full](2026-11.md#the-twenty-eighth-status-review-sixty-three-of-the-weeks-readings-promoted-under-adr-065-claim-600s-grounds-sorted-and-rocks-and-mehta-read-in-full)
 - [6 Nov 04:44 — The twenty-seventh status review: seventeen claims and twelve readings promoted, and four skimmed sources read in full](2026-11.md#the-twenty-seventh-status-review-seventeen-claims-and-twelve-readings-promoted-and-four-skimmed-sources-read-in-full)
@@ -16,9 +17,9 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-128 entries across 2 books, newest first.
+129 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 7 | 2026-11-03 | 2026-11-06 |
+| [2026-11](2026-11.md) | 8 | 2026-11-03 | 2026-11-07 |
 | [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |

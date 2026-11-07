@@ -63,7 +63,7 @@ summary: >-
 complements:
 - CLAIM-445
 ---
-<!-- inactive-ok-file: LIT-tmpg2l9a — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-2251 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
@@ -194,4 +194,4 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 
 ## Note of 2026-11-07: organized ignorance a second time, from the second share of "Individuation, Possibility, and Disposition"
 
-A60 §9 and A62 §6 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) give "second-order illegibility" and "maintained meta-ignorance": an organization that corrects within its representation but not the representation itself. That is this claim's note "Organized ignorance" (A24 of 2026-10-20) a second time, now with Medina's meta-blindness ([LIT-tmpg2l9a](../literature.d/LIT-tmpg2l9a.md), registered Deferred from this filing). [THEORY-145](../theory.d/THEORY-145.md) holds it too. Unchanged.
+A60 §9 and A62 §6 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) give "second-order illegibility" and "maintained meta-ignorance": an organization that corrects within its representation but not the representation itself. That is this claim's note "Organized ignorance" (A24 of 2026-10-20) a second time, now with Medina's meta-blindness ([LIT-2251](../literature.d/LIT-2251.md), registered Deferred from this filing). [THEORY-145](../theory.d/THEORY-145.md) holds it too. Unchanged.

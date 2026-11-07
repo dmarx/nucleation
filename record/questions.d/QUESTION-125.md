@@ -23,7 +23,7 @@ summary: >-
   with the behaviour unchanged, with what each shows about regime,
   individual and function.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwp3ru — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 
 # QUESTION-125: When a candidate block gains or loses the gap that isolates it as a parameter varies, does the change in its identifiable boundary coincide with a bifurcation of its dynamics, and what does each way of their coming apart show?
 
@@ -75,7 +75,7 @@ can cross between attractors."
 
 ## Note of 2026-11-07: candidates for two of the three regions, from "Individuation, Possibility, and Disposition"
 
-From A14 §2 and A20 §4 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), filed as [CLAIM-tmpwp3ru](../claims.d/CLAIM-tmpwp3ru.md):
+From A14 §2 and A20 §4 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), filed as [CLAIM-626](../claims.d/CLAIM-626.md):
 
 - **The gap closes where the regime loses stability.** Two detuned phase oscillators: the restoring rate √(4K² − Δω²) of the locked relative phase vanishes at the locking saddle-node |Δω| = 2K. A horizon-relative boundary (λ⊥H ≫ 1) is lost earlier, while the locked state still exists.
 - **The regime goes with the gap intact.** [CLAIM-521](../claims.d/CLAIM-521.md): the maintenance fails at its fold while the coupling's gap stays near its full value.

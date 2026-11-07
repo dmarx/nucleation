@@ -211,6 +211,6 @@ Read at the owner's suggestion to look to reintroduction and ecological recovery
 No status changes.
 
 ## Note of 2026-11-07: persistence against the stationarity of survivors, from "Individuation, Possibility, and Disposition"
-<!-- inactive-ok-block: CASE-tmpyzdwh CLAIM-tmp7cpzx — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CASE-231 CLAIM-612 — filed from the same exchange, Proposed -->
 
-In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A22 §5's quasi-stationary model ([CASE-tmpyzdwh](../cases.d/CASE-tmpyzdwh.md), [CLAIM-tmp7cpzx](CLAIM-tmp7cpzx.md)) separates persistence over a horizon from the stationarity of what the survivors do: the survivors' law settles within about five time units while the mean lifetime is about 100.5. It supports this claim's separation of persistence from assembly. No status changes.
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A22 §5's quasi-stationary model ([CASE-231](../cases.d/CASE-231.md), [CLAIM-612](CLAIM-612.md)) separates persistence over a horizon from the stationarity of what the survivors do: the survivors' law settles within about five time units while the mean lifetime is about 100.5. It supports this claim's separation of persistence from assembly. No status changes.
