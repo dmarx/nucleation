@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    A section added, "A qualification from A's review", from A's review
+    of the pull request dmarx/nucleation#422, item 7, accepted by the
+    owner as written: the failure is indexed to the organization's
+    operative legibility and governance regime, not to every
+    participant's knowledge (CLAIM-403, CLAIM-523). It is A's, beside the
+    owner's thesis. The owner's thesis and its wording are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -105,6 +115,31 @@ volitional efficacy and correctability are separate achievements is
 blindness is itself a wrong. [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)'s last clause, that the
 activity can remake the concepts and organizations that made it possible,
 is the descriptive base it complements.
+
+## A qualification from A's review
+
+This section is A's, not the owner's, and it leaves the owner's thesis as
+worded. A's review of the pull request dmarx/nucleation#422 (item 7) asks
+that the counter-normativity claim say explicitly: "The organization can
+maintain the blindness without maintaining the ignorance of every
+participant." Its proposed statement:
+
+> The failure is indexed to the organization's operative legibility and governance regime, not necessarily to the knowledge of its participants. A violation may be understood by affected people and dissenting members while remaining unavailable or ineffective within the procedures governing organizational action.
+
+So the harm that "cannot be recognized" in the owner's title is
+unrecognizable in the organization's operative representation and
+procedures, which is TERM-064's directed legibility: legible to whom. Some
+participants "may correctly recognize the harm", and "The organization's
+pathology can persist because these perspectives are denied the
+conditions needed to become practically effective." The record holds the
+parts. CLAIM-403 separates a contribution's admission, recognition,
+credibility, uptake and part in revising the standards, each possible
+without the later ones; CLAIM-523 separates legibility from volitional
+efficacy and correctability. A: "This keeps us from mistaking organized
+exclusion of knowledge for universal ignorance", and it "creates a
+concrete empirical distinction between representational incapacity and
+selective practical authority". The wording is A's; adopting it is the
+owner's call.
 
 ## What it does not say
 

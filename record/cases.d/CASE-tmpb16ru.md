@@ -1,7 +1,19 @@
 ---
 status: Proposed
-title: 'The label "anti-vax": one expression applied polemically to positions that differ by vaccine, mandate, access and evidence, rejected by many it is applied to and embraced by some, so that the expression circulates while its extension, inferences and practical consequences differ between communities'
-version: 1
+title: 'The contested expression "anti-vax": reported variation in its application, framing, identification and practical consequences, with its conceptual identity and any causal feedback unresolved'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    From A's review of the pull request dmarx/nucleation#422, item 5,
+    accepted by the owner as written. The title asserted what the record
+    holds only on A41's reports of unread studies, that the label is
+    rejected by many it is applied to and embraced by others; it is now
+    provisional, after the review's suggested wording: the variation is
+    reported, and conceptual identity and causal feedback are unresolved.
+    No source was registered or fetched. The body is unchanged but for
+    its heading.
 standing: documented
 kind: specimen
 tags:
@@ -29,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpnza8k — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-423 — Proposed; cited for its note declining the owner's U29 cases, nothing here rests on it -->
 
-# CASE-tmpb16ru: The label "anti-vax": one expression applied polemically to positions that differ by vaccine, mandate, access and evidence, rejected by many it is applied to and embraced by some, so that the expression circulates while its extension, inferences and practical consequences differ between communities
+# CASE-tmpb16ru: The contested expression "anti-vax": reported variation in its application, framing, identification and practical consequences, with its conceptual identity and any causal feedback unresolved
 
 ## The case
 

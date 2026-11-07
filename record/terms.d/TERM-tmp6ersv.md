@@ -1,8 +1,20 @@
 ---
 status: Proposed
 title: 'disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    From A's review of the pull request dmarx/nucleation#422, item 2,
+    accepted by the owner as written. The finking row no longer
+    identifies CLAIM-tmplgp4k's counter-corrective response with a fink:
+    it is a fink only when the challenge changes or destroys the causal
+    basis of the disposition to be corrected, masking or suppression when
+    that disposition persists and its manifestation is blocked, and a
+    third route is named, a change in access and incentives with the
+    declared bearer's disposition intact. A fall in observed challenges
+    does not tell them apart. The definition is unchanged.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -100,11 +112,22 @@ that.
 - "**Finking or destruction: the triggering event changes the disposition
   itself.**" Its example: "a crisis abolishes the very review mechanism
   that would otherwise have been invoked." For the disposition to be
-  corrected, the case is [CLAIM-tmplgp4k](../claims.d/CLAIM-tmplgp4k.md) (A62 §10 of the second share): a
-  credible challenge answered by reducing the capacity for future
-  challenge, so that the trigger of correction removes the disposition to
-  correct. Version 1 said "No entry names this case"; the nearest held
-  entry remains [CLAIM-445](../claims.d/CLAIM-445.md).
+  corrected, CLAIM-tmplgp4k (A62 §10 of the second share), a credible
+  challenge answered by reducing the capacity for future challenge, is one
+  possible realization, not one its diagnostic establishes. A's review of
+  the pull request dmarx/nucleation#422, item 2: "A credible challenge
+  that reduces future corrective capacity may constitute a finking
+  intervention when it changes or destroys the causal basis of the
+  relevant disposition. Where the disposition persists but its
+  manifestation is blocked, the mechanism is masking or suppression
+  instead. A reduction in observed future challenges alone does not
+  distinguish these cases." The review names a third route, in which
+  neither happens to the declared bearer: fewer effective challenges
+  arrive "because access and incentives change while the disposition of
+  the declared bearer remains intact". Which of the three a case is turns
+  on the declared bearer and boundary, as below. The wording is A's;
+  adopting it is the owner's call. Version 1 said "No entry names this
+  case"; the nearest held entry remains CLAIM-445.
 
 A47 §2 had already said "So a disposition is not simply a reliable observed
 input-output association." Masks and finks are discussed in [LIT-109](../literature.d/LIT-109.md) and

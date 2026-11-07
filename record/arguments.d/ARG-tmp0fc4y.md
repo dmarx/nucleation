@@ -1,55 +1,95 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
-title: 'y'
-
+title: 'A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation'
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: existence
+grounds:
+- CASE-tmppdl5x
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-tmptfuky
 tags:
-- agency
+- ethics
+- self-governance
 date: '2026-11-07'
-# line: will-organization
-
+line:
+- will-organization
+- distributed-agency
+summary: >-
+  From A's (ChatGPT's) item 3 of its review of the pull request
+  dmarx/nucleation#422, pasted by the owner on 2026-11-07 and accepted as
+  written. The inference from the matched-harm construction of
+  CASE-tmppdl5x to CLAIM-tmptfuky's non-reducibility: the second-order
+  wrong is not the first-order harm or its continuation under another
+  description. Proposed. The case is coherent and separates the harm, the
+  breach of a justified procedural duty and the reproduction of the
+  breach, but only given the stipulated duty, so the conclusion it
+  supports is CLAIM-tmptfuky's conditional one. The wording is A's;
+  adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmptfuky CASE-tmppdl5x — filed from the same exchange and its review, Proposed; the conclusion and the construction -->
+<!-- inactive-ok-file: CLAIM-511 — Proposed; the unconditional duty the record disclaims, cited with its standing -->
 
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
-
-# ARG-tmp0fc4y: y
+# ARG-tmp0fc4y: A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation
 
 ## The inference
 
-How the premises yield the conclusion.
+1. CASE-tmppdl5x: Institutions A and B are bound by the same stipulated,
+   justified and feasible duty to maintain independent review. Both cause
+   the same harm and the affected person receives the same remedy; no
+   further harm occurs in either over the period. A keeps its challenge
+   procedure. B has disabled it, and an outside intervention supplies the
+   remedy.
+2. So the first-order outcome is matched, and B alone has breached the
+   procedural duty. A: "The first-order outcome is matched. The
+   second-order conduct differs."
+3. Add reproduction: B's governance reinstates the defective procedure
+   whenever outside oversight ends, beside a B that breached once. The
+   harm, the remedy and the breach are matched between the two Bs; only
+   the reproductive organization differs.
+4. So, given such a duty, there is a wrong of B's beyond its first-order
+   harm and beyond that harm's continuation, and a further feature,
+   reproduction, beyond the breach. That is the separation
+   CLAIM-tmptfuky's first defeater asks for, and the claim's layer 6: "a
+   second-order wrong need not always be reducible to this loss
+   difference". With the later harm stipulated equal, the loss difference
+   between A and B is zero while the wrong is not.
 
 ## Critical questions
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+- **Is the case coherent?** Yes. Nothing in it is inconsistent: an
+  institution can owe a procedure and fail to keep it, an outside body can
+  supply the remedy the procedure would have supplied, and governance can
+  undo a reform once oversight ends, which is the record's documented
+  pattern in THEORY-140 and CASE-138 (reforms undone). The stipulation
+  that no further harm occurs is what keeps the match exact; without it,
+  B's missing procedure would raise the risk of later harm, and the
+  difference could be read as a difference in expected loss after all.
+- **Does it separate the very things the conclusion says can come
+  apart?** Yes, for the conclusion as CLAIM-tmptfuky states it: a wrong
+  that "is not reducible to the loss it causes" and is a verdict "only
+  given an independently justified standard and a feasible alternative".
+  The case holds the first-order harm and the expected loss fixed and
+  varies the breach; then holds the breach fixed and varies its
+  reproduction. It does not separate the wrong from the duty: the breach
+  is a wrong only because the duty is stipulated. A: "The construction
+  cannot establish that every organization has such a duty." So the ARG
+  supports the conditional claim and nothing toward CLAIM-511's
+  unconditional duty.
+- **What it leaves open.** That the extra wrong is a wrong of
+  answerability, a deprivation of standing within a relationship of
+  governance (layer 7), and not merely a breach of whatever made the duty
+  binding. And that the claim survives a reader who counts being denied a
+  procedure as a harm of its own: the case then shows the procedural wrong
+  apart from the first-order harm and its remedy, not apart from every
+  loss.
+
+Proposed. The case is coherent and separates what the claim's
+non-reducibility needs, on its stipulated duty.
+
+## What it does not show
+
+- That any real organization bears such a duty, or behaves like B
+  (QUESTION-129 for which standards justify one).
+- That the reproduction is a wrong over and above the breach it sustains.
+  The case shows it is a further feature; that it aggravates the wrong is
+  CLAIM-tmptfuky's grades (layer 8), not something the case decides.

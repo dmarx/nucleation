@@ -1,7 +1,19 @@
 ---
 status: Proposed
-title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the trigger of its correction removes the disposition to correct and the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control'
-version: 1
+title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers'' access and incentives'
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    From A's review of the pull request dmarx/nucleation#422, item 2,
+    accepted by the owner as written. The claim no longer equates the
+    counter-corrective response with a fink of the disposition to be
+    corrected. The title drops "the trigger of its correction removes
+    the disposition to correct" and says the test does not tell a fink
+    from masking or a change of access; defeated_if says the claim does
+    not rest on which; the body's section on finking is rewritten. The
+    mechanism, inversion and the test are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -14,7 +26,10 @@ defeated_if: >-
   response to a challenge. Also defeated as a claim of its own if it only
   restates CLAIM-402 (acting on a classification produces its confirming
   outcomes) and CLAIM-406 (self-reproducing testimonial exclusion) for
-  complaints.
+  complaints. Not defeated by a case meeting the test in which the
+  organization's disposition to be corrected persists and is masked, or
+  in which only the challengers' access and incentives changed: the claim
+  is of the counter-corrective response, not of its being a fink.
 tags:
 - self-governance
 - epistemology
@@ -42,16 +57,16 @@ summary: >-
   U27 and U28. Normative inversion (§5) turns a complaint into evidence
   against the complainant; the counter-corrective disposition (§10) is the
   standing tendency to answer challenges that way, with a causal
-  diagnostic. It is the case [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s finking row said no entry
-  named, for the disposition to be corrected; that row now names this
-  claim. Held nearby: [CLAIM-402](CLAIM-402.md), [CLAIM-406](CLAIM-406.md), [CASE-141](../cases.d/CASE-141.md)'s self-confirming
+  diagnostic. TERM-tmp6ersv's finking row names it as one possible
+  realization of a fink of the disposition to be corrected, not one the
+  diagnostic establishes (A's review of the pull request, item 2). Held nearby: CLAIM-402, CLAIM-406, CASE-141's self-confirming
   label and [CLAIM-464](CLAIM-464.md)'s pre-emptive intervention. The wording is A's;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-tmp6ersv CLAIM-tmptfuky CLAIM-tmpagkxi — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: CLAIM-445 LIT-1311 — Proposed or Unavailable; cited with their standing -->
 
-# CLAIM-tmplgp4k: An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the trigger of its correction removes the disposition to correct and the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control
+# CLAIM-tmplgp4k: An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers' access and incentives
 
 ## The claim
 
@@ -75,16 +90,34 @@ provide evidence of a **counter-corrective disposition**." The
 qualification is A's own: "A system may legitimately reject repeated
 unsupported demands or protect itself against harassment."
 
-## Why it is its own claim and also a fink
+## Why it is its own claim, and when it is a fink
 
 In [TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md)'s terms, a disposition is finked when "the triggering
-event changes the disposition itself". Here the triggering event is the
-challenge and the disposition is the organization's disposition to be
-corrected. That row said "No entry names this case"; it now names this
-claim ([TERM-tmp6ersv](../terms.d/TERM-tmp6ersv.md), version 2). The claim has content beyond the label:
-the mechanism (inversion), the self-certifying absence of later
-challenges, and a test against a control. So it is filed as a claim, and
-the term points to it.
+event changes the disposition itself". Here the triggering event would be
+the challenge and the disposition the organization's disposition to be
+corrected. Version 1 of this claim said the response was such a fink. A's
+review of the pull request dmarx/nucleation#422 (item 2) calls that "one
+possible realization, not something the proposed diagnostic establishes
+by itself", and proposes:
+
+> A credible challenge that reduces future corrective capacity may constitute a finking intervention when it changes or destroys the causal basis of the relevant disposition. Where the disposition persists but its manifestation is blocked, the mechanism is masking or suppression instead. A reduction in observed future challenges alone does not distinguish these cases.
+
+The review names three routes to the same fall in effective challenges:
+the challenge "destroys the underlying corrective capacity", "the capacity
+remains but is masked by governance", or "access and incentives change
+while the disposition of the declared bearer remains intact". Only the
+first is a fink. The second is TERM-tmp6ersv's masking row, held in
+CLAIM-047, CLAIM-283 and CASE-127. In the third nothing happens to the
+declared bearer's disposition at all; the challenges stop reaching it.
+Which route a case takes turns on the declared bearer and boundary, and
+telling them apart needs evidence about the disposition's causal basis,
+not the count of later challenges (the reader's gloss). The claim is of
+the counter-corrective response, whichever route realizes it. The
+wording of the qualification is A's; adopting it is the owner's call.
+
+The claim has content beyond any of these labels: the mechanism
+(inversion), the self-certifying absence of later challenges, and a test
+against a control. So it is filed as a claim, and the term points to it.
 
 ## What is already held
 

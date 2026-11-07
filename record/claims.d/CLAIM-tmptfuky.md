@@ -1,7 +1,19 @@
 ---
 status: Proposed
 title: 'An organization subject to a justified standard can commit a second-order wrong of answerability beyond violating it, by reproducing, through the feedback that sustains its activity, representations that merge or discredit the distinctions the standard needs and allocations of authority that deny relevant claims corrective force, so that the standard cannot constrain it; the wrong needs no intent, is not reducible to the loss it causes, and is a verdict only given an independently justified standard and a feasible alternative'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    From A's review of the pull request dmarx/nucleation#422, items 3 and
+    4, accepted by the owner as written. The three failures A60 ran
+    together and A62 §13 partly dropped are kept apart: normative
+    occlusion, self-certifying occlusion (the invalid inference from no
+    recorded violations to no violations) and reproductive
+    self-immunization, connected to CLAIM-342. The matched-harm
+    construction CASE-tmppdl5x is added to grounds, with ARG-tmp0fc4y from
+    it to the non-reducibility. The thesis is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +51,7 @@ grounds:
 - CASE-110
 - CASE-tmpnlf5c
 - THEORY-140
+- CASE-tmppdl5x
 uses:
 - TERM-064
 - TERM-020
@@ -63,6 +76,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmp2ka9y CLAIM-tmp340im CLAIM-tmp6xhn3 CLAIM-tmpcdshj — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-446 TERM-086 — Deferred, Proposed; cited with their standing -->
 <!-- inactive-ok-file: CLAIM-tmpagkxi CLAIM-tmplgp4k CASE-tmpnlf5c CLAIM-tmpnjz70 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->
+<!-- inactive-ok-file: CASE-tmppdl5x ARG-tmp0fc4y — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
 <!-- inactive-ok-file: ADR-tmpe7y42 — Proposed; the synthesis audit this filing follows -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed or Deferred; components and boundaries, cited with their standing -->
 
@@ -142,6 +156,50 @@ held twice: [CLAIM-025](CLAIM-025.md)'s note "Organized ignorance" and [THEORY-1
 (Argyris's single-loop learning). The response of an organization to
 challenge as such is A's companion claim [CLAIM-tmplgp4k](CLAIM-tmplgp4k.md).
 
+## Three failures, kept apart (A's review, item 4)
+
+A's review of the pull request dmarx/nucleation#422 asks that A60's
+"self-certifying ignorance" be "an explicit part of the mechanism". The
+layers above run three failures together, and they can come apart:
+
+1. **Normative occlusion.** A: "The representation excludes a relevant
+   distinction." This is layer 1: h_r(w₀) = h_r(w₁) while N(w₀) ≠ N(w₁),
+   so "The projection cannot preserve a distinction required by the
+   normative standard."
+2. **Self-certifying occlusion.** A: "The organization treats the
+   resulting absence of recognized violations as evidence of its own
+   adequacy." The failure is inferential, not representational: from no
+   recorded violations to no violations. "That implication is invalid
+   when the recording mechanism cannot reliably identify the relevant
+   violations." A60 had put it so: "The absence of recorded harm is now
+   being treated as evidence of the absence of harm, even though the
+   reporting process was incapable of registering it."
+3. **Reproductive self-immunization.** A: "That apparent adequacy helps
+   sustain the representation and governance relations responsible for
+   the failure." This is layer 2, CLAIM-445's form, now with its
+   input named: what the regime is rewarded on is the absence that tier 2
+   misreads.
+
+**The connection to CLAIM-342.** Tier 2 is the case CLAIM-342 names. What
+keeps a judgement–observation loop from confirming itself is "evidence
+whose arrival or scoring does not pass through the interpretation it
+tests", and the records of an occluding projection are scored by the very
+projection whose adequacy is in question. Their silence is therefore no
+evidence of adequacy, and an organization that reads it as evidence is the
+loop that "selects its own evidence". A60 drew the link itself: CLAIM-342
+"explains why self-confirming judgment–observation loops need evidential
+constraints whose admission or scoring does not pass exclusively through
+the interpretation being tested". CLAIM-446 is held nearby.
+
+Each tier can hold without the next (the reader's qualification). An organization can occlude without
+certifying itself, if it does not read its records' silence as evidence;
+and it can certify itself without reproduction, if the certification
+moves nothing in its governance. A: "The most interesting organization is
+one that uses the apparent absence of violations to reward and reproduce
+the reporting mechanism responsible for that absence." That organization
+has all three, and it is the one this claim is about. The wording of the
+tiers is A's; adopting it is the owner's call.
+
 ## Corrections to A's version
 
 - **Correction (integration).** A60 §12: "The new contribution would be
@@ -167,6 +225,7 @@ challenge as such is A's companion claim [CLAIM-tmplgp4k](CLAIM-tmplgp4k.md).
   [CASE-132](../cases.d/CASE-132.md), [CASE-141](../cases.d/CASE-141.md), [THEORY-145](../theory.d/THEORY-145.md), [CLAIM-566](CLAIM-566.md) and [CLAIM-522](CLAIM-522.md). A62 §13 also
   drops A60's inferential failure, "self-certifying ignorance", in which
   absent records are read as absent harm ([CLAIM-342](CLAIM-342.md), [CLAIM-446](CLAIM-446.md)).
+  A's review restores it, as tier 2 of "Three failures, kept apart".
 - **Withdrawn coverage finding (the owner's correction, 2026-11-07).** The
   reader's audit said A narrowed the owner's "system" to "organization" or
   "institution". The owner rejects that: "I'm reasonably confident that
@@ -198,6 +257,16 @@ experiment" intervening on representation, authority and reproduction
 separately. The intervention that separates internal from external
 maintenance of the blindness is on the production mechanism, not the state
 ([CLAIM-522](CLAIM-522.md)); A60 §11's "Change the reproductive feedback" is that.
+
+**The matched-harm construction** (A's review, item 3). CASE-tmppdl5x holds
+the first-order harm and its remedy fixed between two institutions under a
+stipulated duty to maintain independent review, and varies whether the
+duty was kept and whether its breach is reproduced. A: "If the claim can
+survive a case in which the first-order harms are held constant, its
+proposed non-reducibility becomes much easier to evaluate." The argument
+from it to layer 6 is ARG-tmp0fc4y. It is a construction on a stipulated
+duty: "The construction cannot establish that every organization has such
+a duty." The wording is A's; adopting it is the owner's call.
 
 ## Versions
 
