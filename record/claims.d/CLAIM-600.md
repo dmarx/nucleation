@@ -1,10 +1,10 @@
 ---
 number: 600
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmpc3x0c
 title: "Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -63,6 +63,13 @@ history:
     support that fails these leaves dependence or decay, and persistence
     after withdrawal is needed to tell which, though slow reversion can
     mimic it".
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Superseded by SYNTHESIS-tmpfupae, the same synthesis moved into the SYNTHESIS
+    scheme at the synthesis review of 2026-11-07 (ADR-078), keeping its
+    standing (ADR-077). Corrections are marked there; the content here is
+    unchanged, and the claim is kept so that what cites it still resolves.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,6 +88,8 @@ defeated_if: >-
   that the damage done by substitutive support does not grow with its
   length. Not defeated by a single case in which chance or a change of
   conditions decides the outcome.
+superseded_by:
+- SYNTHESIS-tmpfupae
 tags:
 - complex-systems
 - ecology

@@ -13,7 +13,13 @@ promote_when: >-
   tropical moist forest, and that the outward spread of planted nuclei,
   measured beyond their edges, is slow and variable across sites.
 title: 'Planted tree nuclei facilitate forest recovery because, once established, they keep attracting seed dispersers and improving microsites, whereas bird perches and bat boxes leave no improved conditions and decay within years; nuclei must also spread, which is slow, unpredictable and rarely measured, and in tropical moist forest a nucleus needs about 64 m² to attract birds and shade out grass'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - ecology
 - complex-systems
@@ -30,7 +36,7 @@ summary: >-
   minimum is cited from Zahawi & Augspurger (2006) and Holl et al. (2020),
   and it says itself that spread is rarely measured.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 ---
 <!-- inactive-ok-file: LIT-2179 LIT-2145 — Unavailable; cited from the reading of Holl et al. (2024) as open -->
 

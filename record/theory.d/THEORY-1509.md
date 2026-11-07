@@ -13,7 +13,13 @@ promote_when: >-
   beyond Benjamin–Ono, the corresponding KdV laws found in a read source
   (such as Ott and Sudan 1970) rather than only cited.
 title: 'A soliton of an integrable wave equation under weak loss does not break up but shrinks along its family of shapes at a rate set by energy balance, exponentially under linear damping and algebraically under viscous, Landau, boundary-layer and friction losses, while a shelf of non-soliton wave forms behind it wherever the loss does not conserve mass'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -22,7 +28,7 @@ date: '2026-11-06'
 source:
 - LIT-2198
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 summary: >-
   Grimshaw, Smyth & Stepanyants (2018), [LIT-2198](../literature.d/LIT-2198.md), read in full in
   [NOTE-1687](../notes.d/NOTE-1687.md), for the Benjamin–Ono equation with six kinds of weak loss,

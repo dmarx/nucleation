@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6ihw6
 title: 'Cohen and Levinthal argue that a firm''s ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and that because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances; with 1975–1977 data on 1,719 business units they test only the static part, that R&D intensity rises more with the relevance of harder-to-learn, less targeted knowledge'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -30,13 +30,18 @@ history:
     2026-11-06 writes in the party's own work kept up after withdrawal where lockout threatens, drawn from this reading. The edge is
     corroboration, since the qualification narrows that claim's condition
     and nothing in it rests on this reading. No status change.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - social-science
 date: '2026-11-06'
 source:
 - LIT-2228
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 summary: >-
   Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md), read in full in [NOTE-1712](../notes.d/NOTE-1712.md),
   most of Table 1 image-only. Held as a report of what the source holds, its truth left to THEORY-1543; the caveats: the account of capacity built by

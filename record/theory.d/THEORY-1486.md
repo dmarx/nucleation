@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmcnzn
 title: "Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert and Udry find, in six randomized trials, that a time-limited bundle of a productive asset, temporary consumption support, training and coaching raised the consumption, assets, income and working time of the poorest households, and that these gains held one year after all support ended; they read the durability as consistent with the program having unlocked a poverty trap, while noting that persistent but modest effects also fit a 'poverty flat' without one"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -22,6 +22,11 @@ history:
     significant one year or more after all program support has
     ended, with no fall in the recipients' working time relative to
     controls.'
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -40,7 +45,7 @@ summary: >-
   a "poverty flat" open. It does not say which component matters, nor
   anything about aid to states.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 - CLAIM-601
 ---
 

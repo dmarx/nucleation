@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmph35ra
 title: "Ostrom, Gibson, Shivakumar and Andersson hold that predictable aid weakens the recipient's own upkeep, as in the Samaritan's dilemma, so that assets built and repaired from outside decay and are rebuilt from outside, and that benefits outlast the aid only where beneficiaries state the demand, contribute their own assets, receive the benefits and share in deciding whether to continue"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,11 @@ history:
     that the report cites one cross-project claim (Shivakoti et al. 1997),
     and that the ownership conditions are the beneficiaries' rather than
     the government's.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - society-and-governance
 - social-science
@@ -46,7 +51,7 @@ summary: >-
   it gives no threshold or rate for when an aided organization stops
   needing the aid.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 - CLAIM-602
 ---
 

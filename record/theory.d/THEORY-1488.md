@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqkyte
 title: 'In ten southern Costa Rican pasture sites where weeding stopped after 2.5 years, planting six tree islands (86 trees per 0.25 ha) or a full plantation (313) still raised later-successional seedling and sapling recruitment and reduced among-site compositional variability relative to natural regeneration after 16–18 years, yet in every treatment the tree layer remained dominated by a few pioneers and the planted cohort, whose own seedlings seldom reached the sapling layer'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,11 @@ history:
     relative to natural regeneration, while the tree layer in every
     treatment stayed dominated by a few pioneers and the planted
     cohort, whose own seedlings seldom reached the sapling layer.'
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - ecology
 date: '2026-11-05'
@@ -40,7 +45,7 @@ summary: >-
   The sharp edges: eight or nine plots per treatment in one region, planting
   intensity confounded with treatment, and the supporting tables unread.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 ---
 <!-- inactive-ok-file: LIT-2145 — Unavailable; cited from the reading of Schubert et al. (2024) as open -->
 

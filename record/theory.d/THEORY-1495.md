@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpw0b45
 title: 'Araki, Berejikian, Ford and Blouin find hatchery salmonids generally less fit in the wild than wild fish, worst for nonlocal segregated stocks (lifetime relative fitness 0.02–0.37), and find in a quantitative-genetic model that domestication selection on a single trait can explain a decline of more than 30% per hatchery generation only when selection is strong in both captivity and the wild and heritability is high, while arguing it plausible when selection acts on several traits across the life cycle'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -33,6 +33,11 @@ history:
     failing). The multi-trait half is filed as the authors' argument
     of plausibility and needs no computation beyond showing the
     paper makes it.'
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - natural-sciences
 - ecology
@@ -49,7 +54,7 @@ summary: >-
   which. It does not say that hatcheries cannot raise numbers, that local
   broodstock prevents the loss, or that the mechanism was measured.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Araki et al. (2008) as open -->
 

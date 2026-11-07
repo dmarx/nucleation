@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpeqr8u
 title: 'In a global review of 514 conservation translocations of terrestrial vertebrates, practitioner-judged success was similar for captive-bred and wild-sourced stock and for soft and hard release, but population growth after release was negative on average for captive-bred stock and lower for soft than for hard release, and success rose with numbers released up to about 20–50 individuals'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,11 @@ history:
     stock (−2.8 against +2.2 for wild) and lower for soft than for
     hard release (−1.3 against +5.6), and that success rose with
     numbers released up to about 20–50 individuals.'
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - ecology
 - natural-sciences
@@ -42,7 +47,7 @@ summary: >-
   soft-release result runs against the abstract of Resende et al. (2021),
   [LIT-2173](../literature.d/LIT-2173.md), unread.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 ---
 <!-- inactive-ok-file: LIT-2173 — Unavailable; cited from the reading of Morris et al. (2021) as open -->
 

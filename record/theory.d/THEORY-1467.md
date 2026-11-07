@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6gkfy
 title: 'Mussmann and colleagues argue, from greater prairie chickens in Illinois, that supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,11 @@ history:
     whose extrinsic threat was also relieved did not, so that supply
     alone left the population dependent on further supply and relief
     of the threat together with supply did not.'
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-tmpfupae (ADR-077),
+    so `corroborates` names the synthesis. No other change.
 tags:
 - ecology
 - natural-sciences
@@ -36,7 +41,7 @@ summary: >-
   alleviated in tandem". Active as a report of what the authors argue; one population, and the threshold is a
   conceptual figure, not a measured one.
 corroborates:
-- CLAIM-600
+- SYNTHESIS-tmpfupae
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Mussmann et al. (2017) as open -->
 

@@ -1,0 +1,333 @@
+---
+status: Proposed
+title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
+version: 1
+history:
+- version: 1
+  date: '2026-11-07'
+  note: >-
+    Moved from CLAIM-336 (version 7) at the synthesis review of
+    2026-11-07, admitted by hypothesis; Proposed as a claim, so Proposed
+    here (ADR-077). Title, body and terms carried over; TERM-026, used in
+    the table, added to uses; the defeater's second clause is stated as
+    the held-out test of matched complexity that A55 §7 gave and ARG-065
+    holds, marked. The claim's history stays on CLAIM-336.
+role: thesis
+admission: admitted
+route: hypothesis
+warrant: interpretive
+defeated_if: >-
+  A phenomenon central to one line that the model cannot express without a
+  component the other line lacks and the operator model does not have: for
+  example, a fidelity result that needs the interpreter's state to be
+  fixed while it judges, or a will-organization result that needs regimes
+  to act without passing through any shared state. Or the mapping shown to
+  be relabelling only: on held-out compositions of context changes and
+  governance interventions, separate interpretation and governance models
+  of matched complexity and training information predict as well as the
+  joint one (QUESTION-088's test of compression; A55 §7, as ARG-065 holds
+  it). Also defeated as a synthesis of its own if it only places
+  CLAIM-297's model beside CLAIM-286's and CLAIM-279's regimes, saying
+  nothing of how the two lines meet.
+tags:
+- agency
+- pragmatics
+- cognition
+date: '2026-11-07'
+line:
+- distributed-agency
+- pragmatic-transport
+- will-organization
+integrates:
+- CLAIM-297
+- CLAIM-286
+- CLAIM-279
+- CLAIM-341
+- CLAIM-330
+- CLAIM-450
+- TERM-031
+- TERM-039
+- TERM-026
+- TERM-019
+- TERM-023
+- TERM-103
+premises:
+- CLAIM-297
+- CLAIM-286
+- CLAIM-279
+uses:
+- TERM-019
+- TERM-023
+- TERM-031
+- TERM-039
+- TERM-103
+- TERM-101
+- TERM-053
+- TERM-026
+bears_on:
+- QUESTION-088
+summary: >-
+  The owner's, U2 of the exchange of 2026-10-16: the pragmatic-transport
+  model and the will-organization model are "both manifestations of the
+  same underlying model". The mapping is the assistant's, A6, filed at the
+  owner's request ("address the still open stuff"). At U8 the owner
+  endorsed it as filed ("Yes, as filed"). It reads both lines into
+  [CLAIM-297](../claims.d/CLAIM-297.md)'s operator model. The sharp edge: it says the lines share one
+  model, not that either line's results transfer to the other unchanged.
+  Each mapping is a hypothesis until a result on one line is shown to
+  hold, through it, on the other. Moved into the SYNTHESIS scheme on
+  2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)); the thesis is the owner's and the mapping the
+  assistant's, as filed.
+---
+<!-- inactive-ok-file: CLAIM-336 — Superseded by this entry, which it was -->
+<!-- inactive-ok-file: CLAIM-286 ARG-065 — Proposed; a premise and the argument that concludes this, cited with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that moved this entry -->
+
+# SYNTHESIS-tmprnoj1: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
+
+*Moved from [CLAIM-336](../claims.d/CLAIM-336.md), where its development up to version 7 is recorded.*
+
+## The integration
+
+The pragmatic-transport and will-organization lines are the outside and
+inside views of one coupled meaning–influence operator model, [CLAIM-297](../claims.d/CLAIM-297.md)'s.
+They meet at [CLAIM-341](../claims.d/CLAIM-341.md)'s loop: a judgement made under a context changes the
+shared state, and through conferral it changes which operators act under
+the next context. So the joint model predicts responses to combined
+context-and-governance interventions that separate models of matched
+complexity miss. The thesis is the owner's (U2), the mapping the
+assistant's (A6), endorsed by the owner as filed at U8.
+
+- [CLAIM-297](../claims.d/CLAIM-297.md) (A22's, Active): the operator model. Premise.
+- [CLAIM-286](../claims.d/CLAIM-286.md) (A7's, Proposed): regimes as one organization's. Premise.
+- [CLAIM-279](../claims.d/CLAIM-279.md) (the owner's, Active): regimes as frame-relative. Premise.
+- [CLAIM-341](../claims.d/CLAIM-341.md) (the owner's, Active): the loop where the lines meet.
+- [CLAIM-330](../claims.d/CLAIM-330.md) (Active, demonstrated): the only joint result in the coupled
+  model so far. [CLAIM-450](../claims.d/CLAIM-450.md) (Active).
+
+None of the premises mentions pragmatic transport; how the two lines fit is
+what this entry adds.
+
+## The claim
+
+The owner, at U2, asked whether "our model" meant the pragmatic-transport
+model (judgements as responses in measurement contexts) or the
+will-organization model (regimes and how influence is allocated among
+them): "those are both manifestations of the same underlying model."
+
+The record's nearest statement of a model common to both is the operator
+model of the distributed-agency line. [CLAIM-297](../claims.d/CLAIM-297.md) writes it as meaning,
+influence and query processes:
+
+- meaning: x_{t+1} = Σᵢ w_{i,t} P_i(q_t)ᵀ x_t;
+- influence: w_{t+1} = G(w_t, x_t, o_t, E_t);
+- queries: q_{t+1} = Q(x_{t+1}, w_{t+1}, g).
+
+The owner has already said that what the operators do are "just different
+regimes in the dynamics of our general process" ([CLAIM-279](../claims.d/CLAIM-279.md)). [CLAIM-286](../claims.d/CLAIM-286.md)
+holds that habit, akrasia, rumination, rigidity and insight are regimes of
+one such organization.
+
+The mapping, A6's:
+
+| pragmatic transport | operator model | will-organization |
+|---|---|---|
+| measurement context, frame ([TERM-031](../terms.d/TERM-031.md), [TERM-039](../terms.d/TERM-039.md)) | query q under which operators act | the situation a regime is cued by |
+| interpretive state ([TERM-026](../terms.d/TERM-026.md)) | meaning state x | — |
+| judgement, response J | the state P(q)ᵀx the operators yield, read out | — |
+| — | operator, or coalition of operators | action-generating regime ([TERM-019](../terms.d/TERM-019.md)) |
+| — | influence w, and its update G with conferral E ([TERM-103](../terms.d/TERM-103.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
+| transport between two interpreters | a map between two such organizations | — |
+
+Read this way, the pragmatic-transport line studies the model from the
+outside, one interpreter at a time. It asks which responses an
+organization yields under which contexts, and what a translation must
+keep. The will-organization line studies it from the inside. It asks which
+operators get to act, and what keeps that allocation the agent's own. The
+loop [CLAIM-341](../claims.d/CLAIM-341.md) puts at the centre, judgement reshaping the observer,
+is where the two meet. A judgement under a context changes x, and through
+conferral changes w and so which operators act under the next context.
+
+## Admission
+
+Admitted at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) by [ADR-075](../decisions.d/ADR-075.md)'s
+hypothesis route, narrowly.
+
+**The case.** A population whose operators' authority is updated by their
+performance on the dominant interpretation, so [CLAIM-297](../claims.d/CLAIM-297.md)'s amplification
+occurs. Habit and rumination behave as regimes of the one organization,
+which a phenomenon-specific model does not beat ([CLAIM-286](../claims.d/CLAIM-286.md)), and each
+regime's role is relative to its frame ([CLAIM-279](../claims.d/CLAIM-279.md)). But the
+pragmatic-transport observables, which distinctions a receiver recovers
+from a rendering, are fixed by the receiver's state at reading time, so a
+context-response model that ignores the influence weights predicts them on
+held-out compositions, at matched complexity, exactly as well as the joint
+model. No premise's defeater is met, and the integration fails: by its own
+terms, the mapping is relabelling only.
+
+**The free parameter, closed.** With the operator model's components left
+unspecified, the defeater's first clause can be absorbed by choosing them.
+Its second clause is a real test only under A55's operationalization,
+which the defeater now states.
+
+## Correction at the move (2026-11-07)
+
+- **The defeater's second clause** is stated as the held-out test of
+  matched complexity and training information.
+- **[TERM-026](../terms.d/TERM-026.md)**, used in the table, is added to `uses`.
+- **Added to "What it does not say":** the mapping does not yet place
+  [CLAIM-220](../claims.d/CLAIM-220.md), the pragmatic-transport line's account of what a translation
+  must keep.
+
+## What it does not say
+
+- It does not transfer results. Contextuality results on judgements and
+  efficacy results on regimes stay on their lines until a result is shown
+  to hold through the mapping.
+- The blank cells are the gaps. Pragmatic transport has no counterpart of
+  influence allocation. Will-organization has no counterpart of a
+  measurement context or a read-out response. The claim says both are
+  partial views of one model, not that either is complete.
+- It does not decide [QUESTION-056](../questions.d/QUESTION-056.md), whether a mechanism-level description
+  implements the will-organization account or replaces it. The operator
+  model is one such description.
+- The mapping was proposed by the assistant and endorsed by the owner at
+  U8. The endorsement is of the mapping, not of any transfer of results.
+
+- **Added at the move:** it does not map [CLAIM-220](../claims.d/CLAIM-220.md).
+
+## Note of 2026-10-21: proposed as a test, then dropped
+
+A15 of the exchange of 2026-10-20 proposed as "our next substantive test"
+a system "in which a coarse description perfectly predicts ordinary
+behavior but loses a governance response to an intervention", and then
+compare descriptions that keep meaning, authority, or both. The
+construction A16 gave ([CASE-125](../cases.d/CASE-125.md)) has no meaning state, so it cannot
+show the joint prediction this claim's `defeated_if` asks for. A16 §13
+proposed the comparison as a simulation; A17 dropped it: "the paper's
+principal argument does not depend on proving it." The claim stays
+untested. A15's equations are [CLAIM-297](../claims.d/CLAIM-297.md)'s, quoted here.
+
+## Note of 2026-10-24: information geometry and singular learning
+
+The owner: "let's connect back to the communicative act stuff and
+amari/watanabe theory" (workbench entry of 2026-10-24, U27). The
+connection is filed as [CLAIM-450](../claims.d/CLAIM-450.md): Amari's Fisher metric measures which
+changes of an interpreter's organization the probes detect; Watanabe's
+theory says what follows when different organizations give the same
+responses ([CASE-152](../cases.d/CASE-152.md)). Belief, wanting, liking and feeling as the
+exchange characterized them are states of organized interpreters, not
+speech acts: assertion, request, praise and disclosure can each come apart
+from the state they seem to express, and saying "I am afraid" can report,
+warn or appeal. What links them is that communicating about such a state
+can change the audience's interpretation, the speaker's standing, and the
+authority of later contributions, so the meaning–authority–legibility
+feedback can run between participants as well as within one. The bearing
+on [QUESTION-031](../questions.d/QUESTION-031.md) is when observable responses suffice to separate the
+organizations relevant to a task.
+
+## Note of 2026-10-25: a running instance, and a typed workspace
+
+The exchange of 2026-10-24, continued, built a running instance of this
+claim's model, the "Perspective Population Lab" from v0.2 to v1.0, none of
+it held. A42 cited this claim for its proposal of a typed workspace.
+
+- A43's workspace (evidence, interpretations, policies, artifact,
+  governance, commitments and an event log) refines the two dual canvases
+  ([TERM-053](../terms.d/TERM-053.md)): interpretations and artifact on the meaning side, governance
+  on the influence side. The commitments domain is reserved for the
+  communicative-act line.
+- In A45–A47's diffusion version, a perspective's conditioning prompt plays
+  the frame, its low-rank adapter the operator, its mask and weight its
+  allocated influence, and the single scheduler step the update of the
+  shared state.
+- A45: distinguish "a population with multiple genuinely specialized
+  operators from a population with different interpretations of one shared
+  operator". The two published works read on 2026-10-25 are its two
+  sides. MultiDiffusion ([LIT-1522](../literature.d/LIT-1522.md), [NOTE-1158](../notes.d/NOTE-1158.md)) is different
+  interpretations of one shared operator: one network, many frames or
+  prompts, masks as influence. Multi-LoRA composition ([LIT-1529](../literature.d/LIT-1529.md),
+  [NOTE-1160](../notes.d/NOTE-1160.md)) is several specialized operators under one shared frame,
+  with uniform influence (Composite) or influence sliced in time (Switch).
+  A caution for the typed-workspace mapping above: in Multi-LoRA the
+  shared prompt carries each LoRA's trigger words, so an operator acts
+  partly through the frame, and prompt-as-frame and LoRA-as-operator do
+  not separate cleanly.
+
+No joint prediction of the two lines was derived, so the claim stays
+untested. The claim is unchanged.
+
+## Note of 2026-10-26: the lab held, and its later versions
+
+
+The Perspective Population Lab of the note of 2026-10-25 is now held:
+v1.0 as dmarx/PerspectiveLab@41e56df, and its successors at @7e2edc2
+(v1.1–v1.8) and @9f82bfd (v1.9–v2.2). The later versions build out the
+influence side of this claim's model: authority allocated under
+self-scoring and selected evidence ([CASE-162](../cases.d/CASE-162.md)), exact closure
+verdicts on a 192-state organization ([CASE-164](../cases.d/CASE-164.md)), and governing
+rules maintained by members and identified by probes ([CASE-161](../cases.d/CASE-161.md),
+[CASE-163](../cases.d/CASE-163.md)). None has a frame, a judgement or a meaning state beyond a
+record of which of two alternatives the evidence favours, so none can
+derive a joint prediction of the two lines. The claim stays untested
+and is unchanged.
+
+## Note of 2026-10-26 (later): frames in the lab
+
+The note of 2026-10-26 said that no version of the lab to v2.2 has a
+frame, a judgement or a meaning state. Its v2.8
+(dmarx/PerspectiveLab@c54617e experiments/perspective_engine/) is the
+first that does. A frame maps a retained log of raw events to semantic
+features. Each perspective holds a frame, an operator and a concern of its
+own, and proposes values for named concepts in one shared workspace. A
+governor combines the proposals by nominal grants, either in one convex
+step from a frozen snapshot or in sequence. That is this claim's model in
+executable form: the frame is the context under which an operator acts,
+and the governor allocates influence among operators.
+
+In its study three perspectives read one refusal and a later-contact cue
+over 12 updates. At update 4 one of five arms is applied: nothing, a
+raised grant for the reframer, revised operators under the old frame, a
+frame written by hand that reads the cue as evidence for a new concept, or
+all three together. The raw evidence and the first four updates are the
+same in every arm, and only the arms with the new frame use the cue. With
+all three changes, the forecast's Brier score is 0.135 where the cue
+agrees with the outcome 85% of the time and 0.583 where it agrees 15%.
+Every other arm and world scores worse than a constant forecast of one
+half (0.25). The study has no arm with the frame and the raised grant
+alone, so the interaction of meaning with influence is not isolated.
+
+In v2.9 (experiments/endogenous_frames/) the frame is chosen, not
+written. One proposer searches single raw fields and another products of
+two, each fitting the sign of a candidate on 200 training labels. A
+critic admits at most one candidate on 120 validation labels, against a
+threshold calibrated on 320 null worlds. The engine's output equals that
+of the selected feature's predictor exactly, as the lab's tests check.
+
+So the claim's model is now implemented, and in v2.9 it reduces to a
+feature selector. Neither version derives a joint prediction of the
+pragmatic-transport and will-organization lines, which is what the
+claim's defeater asks of the mapping. The claim stays untested and is
+unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-286](../claims.d/CLAIM-286.md) is Proposed, held because no prediction follows
+from the shared variables that phenomenon-specific models lack
+([ARG-036](../arguments.d/ARG-036.md)). The second half of its own defeated_if is unanswered: no
+joint prediction of the pragmatic-transport and will-organization lines
+has been derived through the mapping ([QUESTION-088](../questions.d/QUESTION-088.md)'s test of
+compression), and the lab's v2.9, its one version with frames, operators
+and a governor, predicts exactly as a one-feature selector.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of [ARG-036](../arguments.d/ARG-036.md) and [CLAIM-286](../claims.d/CLAIM-286.md) (2026-11-04), which change no content. Its premise [CLAIM-286](../claims.d/CLAIM-286.md) is still Proposed, and no joint prediction of the two lines has been derived through the mapping, as on 2026-10-29.
+
+## Note of 2026-11-07: further schematic extensions, from "Individuation, Possibility, and Disposition"
+
+In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A39 §4 and A41 §8 used this claim's equations, which match its body, and A43 §6 extended them with an allocation of efficacy (Π) and response terms (H, F). The extensions are schematic, with the functions unspecified and no result derived. The reader confirmed [CLAIM-330](../claims.d/CLAIM-330.md)'s linear-stability condition on 50,000 draws, unchanged by A41's added noise terms. No status changes.
+
+## Note of 2026-11-07: a test for the blocker, and an ARG that carries nothing yet, from the second share of "Individuation, Possibility, and Disposition"
+
+A55 §7 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, cites this claim as the record's and as Proposed, and reads its blocker rightly: "Our discussion does not remove that blocker." It proposes the test the defeated_if asks for: evaluate on "held-out compositions of context changes and governance interventions", against separate interpretation and governance models "under matched complexity and training information", and especially on "history-dependent responses after an intervention that changes which processes can influence later interpretation". "If a simpler independent model predicts just as well, the proposed integration gains little support." That is [QUESTION-088](../questions.d/QUESTION-088.md)'s held-out comparison with flexibility penalized, given a target. A also proposed an ARG to this claim from [CLAIM-297](../claims.d/CLAIM-297.md), [CLAIM-407](../claims.d/CLAIM-407.md), [CLAIM-414](../claims.d/CLAIM-414.md), [CLAIM-421](../claims.d/CLAIM-421.md) and [CLAIM-330](../claims.d/CLAIM-330.md); it is filed as [ARG-065](../arguments.d/ARG-065.md), an abduction, Proposed, and carries nothing until the test is run, since on the record separate models explain its premises as well. The claim stays Proposed.
