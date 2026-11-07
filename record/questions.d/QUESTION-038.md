@@ -27,6 +27,7 @@ summary: >-
   what availability takes, and how a record could tell an anchor from a
   structure that merely persists.
 ---
+<!-- inactive-ok-file: CLAIM-180 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
@@ -80,3 +81,7 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A's third synthesis answers part of this question: what turns a persisting structure into a usable anchor is not its persistence but its effect on later formation. That effect is measured against a comparator in which it is absent, disrupted or replaced ([TERM-117](../terms.d/TERM-117.md), [CLAIM-595](../claims.d/CLAIM-595.md)). A distinguishes "Fragile", "Productively persistent" and "Kinetically trapping" partial organizations: the first dissipates before it matters, the third persists in a configuration that blocks the target.
 
 No status changes.
+
+## Note of 2026-11-07: two senses of anchor, from the third synthesis review
+
+The note of 2026-11-05 answers a narrower question than this one asks: what makes an anchor productive, one that improves later formation against a comparator ([TERM-117](../terms.d/TERM-117.md), [CLAIM-595](../claims.d/CLAIM-595.md)). This question asks what makes a persisting structure something later structure is built on. [CLAIM-185](../claims.d/CLAIM-185.md)'s note of 2026-11-06 shows the two come apart: "a persisting trap is still built on". So addressability ([CLAIM-182](../claims.d/CLAIM-182.md), with [CLAIM-180](../claims.d/CLAIM-180.md)) remains the standing candidate for the question as asked, and [TERM-117](../terms.d/TERM-117.md) and [CLAIM-595](../claims.d/CLAIM-595.md) answer its refinement. The third synthesis review found no integration of the two, because carrying the committor to an argument needs a target, comparator and horizon the record does not declare.
