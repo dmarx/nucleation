@@ -24,8 +24,8 @@ warrant: interpretive
 defeated_if: >-
   A case meeting A62 §3's conditions 1 to 4 in which the organization
   had no feasible alternative, which the record must still count as
-  wronging those affected beyond the harm, as one reading of CLAIM-
-  tmpagkxi would, so that condition 5 does no work; or a case meeting
+  wronging those affected beyond the harm, as one reading of CLAIM-614
+  would, so that condition 5 does no work; or a case meeting
   all five in which what is wrong beyond the harm is not answerability,
   being unchanged when means for violations to become knowable,
   contestable and correctable are restored (another's capacity to govern
