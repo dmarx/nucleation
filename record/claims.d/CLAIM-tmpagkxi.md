@@ -1,8 +1,16 @@
 ---
 status: Proposed
 title: 'A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At A's second review of the pull request: the clause that this claim
+    is not defeated by an unavoidable projection was the filer's
+    reading, not the owner's, and it had been cited as the owner's
+    position. The owner's U27 does not settle it, so the clause now
+    leaves it open.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -15,17 +23,19 @@ history:
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A showing that, in every such organization, whatever is wrong beyond the
-  harm reduces to the harm's continuation, so that an organization that
-  reproduces the projections hiding its harm and one that merely continues
-  the same harm wrong those affected identically. Also defeated as a
-  thesis of its own if it only restates what CLAIM-348 (a coarse-graining
-  adequate for performance can merge states members' claims must
-  distinguish) and CLAIM-445 (a protective regime that shifts the evidence
-  and authority judging it) already hold, adding nothing about a wrong. Not
-  defeated by a case where the projection is unavoidable, since the claim
-  needs the reproduction and not the omission, nor by showing that no
-  standard of harm has been established, which is QUESTION-129's matter.
+  A showing that, in every such organization, whatever is wrong beyond
+  the harm reduces to the harm's continuation, so that an organization
+  that reproduces the projections hiding its harm and one that merely
+  continues the same harm wrong those affected identically. Also
+  defeated as a thesis of its own if it only restates what CLAIM-348 (a
+  coarse-graining adequate for performance can merge states members'
+  claims must distinguish) and CLAIM-445 (a protective regime that
+  shifts the evidence and authority judging it) already hold, adding
+  nothing about a wrong. Whether a case where the projection is
+  unavoidable defeats it is left open: the owner's U27 does not say
+  whether reproducing an unavoidable blindness can be a further wrong
+  (QUESTION-tmpuveq0). Not defeated by showing that no standard of harm
+  has been established, which is QUESTION-129's matter.
 tags:
 - ethics
 - self-governance

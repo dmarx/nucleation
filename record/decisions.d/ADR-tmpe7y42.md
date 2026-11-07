@@ -1,8 +1,19 @@
 ---
 status: Proposed
 title: 'A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At A's second review of the pull request, pasted by the owner: the
+    admission test of version 2 excluded valid derivations, which have no
+    countermodel relative to their premises. Admission now has three
+    routes with their own tests and warrants: an independent hypothesis
+    (the countermodel test), a derived result (a valid, nontrivial,
+    unrecorded inference) and an explanatory integration (a dependency,
+    mechanism or discriminating prediction the components leave open).
+    Not admitted is no longer equated with Rejected.
 - version: 2
   date: '2026-11-07'
   note: >-
@@ -32,8 +43,9 @@ summary: >-
   fidelity, standing and integration. The latest version of each distinct
   proposed or supposed thesis is filed as one CLAIM, with its components
   in `rests_on` or the body, and revised in place when it returns.
-  A synthesis is admitted only if a stated case shows its integration can
-  fail while every component holds (version 2).
+  A synthesis is admitted as an independent hypothesis, a derived result
+  or an explanatory integration, each with its own test (versions 2 and
+  3).
   Rejected: a new scheme for positions, until a synthesis CLAIM strains;
   filing every version; and the status quo.
 ---
@@ -98,20 +110,27 @@ ledger and before the curation entry.
      established;
    - **integration**: what the synthesis claims beyond its components.
      If that is nothing but labels, it is a recap.
-5. **Admit it, or don't** (version 2). A synthesis is filed as a CLAIM
-   only if its integration can fail while every component holds. The
-   audit must state a coherent case, stipulated if need be, in which
-   every component the synthesis rests on or names is true and the
-   integrating claim is false. That case becomes the core of its
-   `defeated_if`. Each of the three ways a synthesis can add to its
-   components passes this test: a distinct integrative proposition, an
-   explanatory dependency between components, or a discriminating
-   prediction. "Every component holds" means that no component's own
+5. **Admit it, or don't** (versions 2 and 3). A synthesis is filed as
+   a CLAIM only if it earns an entry by one of three routes. Each route
+   has its own test, and the audit says which route it passed:
+
+   | route | test | warrant |
+   |---|---|---|
+   | **independent hypothesis** | a coherent case, stipulated if need be, in which every component holds and the integrating claim is false | `interpretive` or `empirical`; the case is the core of its `defeated_if` |
+   | **derived result** | the integrating claim follows from the components by a valid inference that is not trivial and is not already held as a CLAIM | `demonstrated`; the body gives the derivation, and `defeated_if` names an error in it or a premise it needs |
+   | **explanatory integration** | it states a dependency, mechanism or discriminating prediction that juxtaposing the components does not: an intervention or comparison whose outcome it settles and they leave open | per its evidence; `defeated_if` names that outcome going the other way |
+
+   The second route is there because a valid derivation has no
+   countermodel relative to its premises. From A ⇒ B and B ⇒ C, the
+   inference to A ⇒ C can be a contribution, and no case has both
+   premises hold and the conclusion fail. A's second review of the pull
+   request made this point against version 2, which had only the first
+   test. "Every component holds" means that no component's own
    `defeated_if` is met: a case that defeats a premise tests the premise,
-   not the integration. A synthesis for which no such case can be stated is
-   exhausted by its components. It is not filed. It and its audit stay in
-   the curation entry, linked to the components. Two failures are
-   guarded against:
+   not the integration. A synthesis that passes no route is exhausted by
+   its components. It is not filed. It and its audit stay in the
+   curation entry, linked to the components. Three failures are guarded
+   against:
    - **Salience without work.** The record's own legibility depends on
      how it files. A broad synthesis filed as one more CLAIM gains
      salience it has not earned, and it makes the distinctions it
@@ -122,11 +141,13 @@ ledger and before the curation entry.
    - **A free parameter.** A synthesis with an open slot, such as "a
      declared bearer", can absorb every case by choosing the slot, so no
      case can be stated. Fixing the slot can then turn it against its own
-     premises. Either way it is not admitted. [CLAIM-tmp340im](../claims.d/CLAIM-tmp340im.md), the first
-     synthesis retired under this test, failed this way.
+     premises. CLAIM-tmp340im failed this way, and it passes neither of
+     the other routes.
 
-   A synthesis CLAIM already filed that fails the test is retired by
-   status, Rejected, with a status note giving the reason. Its audit
+   A synthesis CLAIM already filed that passes no route is retired by
+   status, with a status note saying that it was not independently
+   admitted and why. Not admitted is not refuted: the note says its
+   content may be true and is held by the entries it names. Its audit
    stays.
 6. **File the latest version of each admitted thesis** as one CLAIM,
    Proposed, with role `thesis` or `supposed`.
@@ -154,11 +175,12 @@ The load-bearing parts:
   exchange mixes the owner's ideas, A's and the record's. Adopting it is
   the owner's call. The audit makes plain what the owner would be
   adopting, and from whom.
-- **The integration is the claim, and it must be able to fail on its
-  own.** The admission case is what makes a synthesis CLAIM answerable
-  as a synthesis. Without one, the CLAIM can only be defeated by
-  defeating a component, and it adds nothing a reader of the components
-  lacks.
+- **The integration is the claim, and it must earn its entry by a route
+  a reviewer can check.** A conjectured integration earns it by a case in
+  which it can fail on its own, a derived one by a derivation, and an
+  explanatory one by an outcome it settles. Without one of these, the
+  CLAIM can only be defeated by defeating a component, and it adds
+  nothing a reader of the components lacks.
 
 ## Alternatives considered
 

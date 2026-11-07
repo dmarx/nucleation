@@ -221,18 +221,26 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **Admit it, or don't.** File a synthesis as a CLAIM only if you can
-  state a coherent case, stipulated if need be, in which every component
-  it rests on or names holds (no component's own `defeated_if` is met)
-  and its integrating claim is false. That is
-  what shows the integration (a proposition, an explanatory dependency, or
-  a discriminating prediction) is not exhausted by its parts. If no case
-  can be stated, don't file it: keep the synthesis and its audit in the
-  curation entry, linked to the components. If a narrower integrating
-  sentence passes where the stated one fails, file the narrower one. A
-  filed synthesis CLAIM that fails is retired as Rejected, with the reason.
-  Watch for a free parameter ("a declared bearer"): it absorbs every case,
-  and fixing it can contradict the synthesis's own premises.
+- **Admit it, or don't.** File a synthesis as a CLAIM only if it passes
+  one of three routes, and say which:
+  - *independent hypothesis*: a coherent case, stipulated if need be, in
+    which every component holds (no component's own `defeated_if` met)
+    and the integrating claim is false;
+  - *derived result*: a valid, nontrivial inference from the components
+    that no CLAIM already holds. Warrant `demonstrated`; give the
+    derivation. A derivation has no such countermodel, which is why it is
+    a route of its own;
+  - *explanatory integration*: a dependency, mechanism or discriminating
+    prediction the components leave open, with the outcome that would go
+    against it.
+
+  If it passes none, don't file it: keep the synthesis and its audit in
+  the curation entry, linked to the components. If a narrower sentence
+  passes where the stated one fails, file the narrower one. Watch for a
+  free parameter ("a declared bearer"): it absorbs every case, and fixing
+  it can contradict the synthesis's own premises. A filed synthesis CLAIM
+  that passes no route is retired by status with a note saying it was not
+  independently admitted. That is not a finding that it is false.
 - **File the latest version of each admitted thesis** as one CLAIM,
   Proposed:
   - the title states the integrating claim;
@@ -240,8 +248,9 @@ synthesis as well.
     and the audit's corrections marked as corrections;
   - `rests_on` holds the components that are premises; components that
     only illustrate are named in the body;
-  - `defeated_if` states the admission case, and the objection that it
-    only restates its components;
+  - `defeated_if` states what would defeat it by its route (the case,
+    the error in the derivation, or the outcome), and the objection that
+    it only restates its components;
   - earlier versions are listed in the body.
 - **Revise, don't duplicate.** Where a synthesis CLAIM for the account
   is held, revise it as a new version.

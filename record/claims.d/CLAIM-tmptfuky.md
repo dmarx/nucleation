@@ -1,8 +1,15 @@
 ---
 status: Proposed
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 3
+version: 4
 history:
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    At A's second review of the pull request: the admission section had
+    attributed to the owner the position that reproducing an unavoidable
+    blindness is a wrong. That rested on a filer's clause in CLAIM-
+    tmpagkxi, not on the owner's U27, so it is restated as open.
 - version: 3
   date: '2026-11-07'
   note: >-
@@ -29,17 +36,17 @@ warrant: interpretive
 defeated_if: >-
   A case meeting A62 §3's conditions 1 to 4 in which the organization
   had no feasible alternative, which the record must still count as
-  wronging those affected beyond the harm, as CLAIM-tmpagkxi allows for
-  an unavoidable projection, so that condition 5 does no work; or a case
-  meeting all five in which what is wrong beyond the harm is not
-  answerability, being unchanged when means for violations to become
-  knowable, contestable and correctable are restored (another's capacity
-  to govern those affected, CLAIM-545's domination clause, or their
-  standing as knowers). Or a showing that the duty is unconditional, so
-  that CLAIM-511 would follow, or empty. Also defeated as a thesis of
-  its own if it only restates CLAIM-tmpagkxi's distinct wrong with
-  CLAIM-445, CLAIM-523 and CLAIM-462. Not defeated by unavoidable
-  blindness, which condition 5 excuses.
+  wronging those affected beyond the harm, as one reading of CLAIM-
+  tmpagkxi would, so that condition 5 does no work; or a case meeting
+  all five in which what is wrong beyond the harm is not answerability,
+  being unchanged when means for violations to become knowable,
+  contestable and correctable are restored (another's capacity to govern
+  those affected, CLAIM-545's domination clause, or their standing as
+  knowers). Or a showing that the duty is unconditional, so that
+  CLAIM-511 would follow, or empty. Also defeated as a thesis of its own
+  if it only restates CLAIM-tmpagkxi's distinct wrong with CLAIM-445,
+  CLAIM-523 and CLAIM-462. Not defeated by unavoidable blindness, which
+  condition 5 excuses.
 tags:
 - ethics
 - self-governance
@@ -298,9 +305,9 @@ is normative; [CLAIM-tmpnjz70](CLAIM-tmpnjz70.md)'s last clause is this claim's 
 
 Under [ADR-tmpe7y42](../decisions.d/ADR-tmpe7y42.md)'s admission test, the integration must be able to fail while every component holds. Two cases show it can.
 
-- **Condition 5 idle.** Take a projection that is unavoidable but reproduced. The owner's [CLAIM-tmpagkxi](CLAIM-tmpagkxi.md) counts it a wrong ("Not defeated by a case where the projection is unavoidable, since the claim needs the reproduction"). If the record must count it a wrong too, the feasibility bound fails, though every component holds.
+- **Condition 5 idle.** Take a projection that is unavoidable but reproduced. If the record must count its reproduction a wrong, the feasibility bound fails, though every component holds. Whether it must is open (below).
 - **Not answerability.** Take a case meeting all five conditions in which the wrong beyond the harm lies wholly in another's capacity to govern those affected, [CLAIM-545](CLAIM-545.md)'s domination clause, and persists unchanged once means of knowledge, contest and correction are restored.
 
 The claim is admitted on the narrower title. Its non-reduction to the harm is [CLAIM-tmpagkxi](CLAIM-tmpagkxi.md)'s thesis and [CASE-tmppdl5x](../cases.d/CASE-tmppdl5x.md)'s construction, not this claim's integration.
 
-**A divergence from the owner's thesis.** On unavoidable projections this claim and [CLAIM-tmpagkxi](CLAIM-tmpagkxi.md) disagree: the owner's counts reproduction of an unavoidable blindness as a wrong, and condition 5 here excuses it. Which to keep is the owner's call.
+**Open: unavoidable reproduction.** The owner's formulation does not explicitly settle whether unavoidable reproduction can constitute a further wrong. The proposed feasibility-bounded answerability account excludes such cases; whether that limitation captures the owner's intended counter-normativity remains open. (A's second review of the pull request, which corrected an earlier version of this section that had attributed the opposite position to the owner. That attribution rested on a clause a filer had written into CLAIM-tmpagkxi's `defeated_if`.)
