@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj10k0
 title: 'The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston''s self-confirming sampling the model''s authority-to-interpretation arrow and his agent a coupled loop run without independent scoring'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -20,6 +20,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    CLAIM-336, which this claim rests on, moved into the SYNTHESIS scheme as
+    SYNTHESIS-011 at the synthesis review of 2026-11-07; `rests_on` now
+    names the synthesis (ADR-tmp1304r). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,7 +47,7 @@ line:
 - pragmatic-transport
 rests_on:
 - CLAIM-297
-- CLAIM-336
+- SYNTHESIS-011
 grounds:
 - LIT-1181
 - CASE-099
@@ -61,6 +67,7 @@ summary: >-
   is [CLAIM-337](CLAIM-337.md)'s move reversed, and it holds only if the agent's own
   store can surprise it as the world can.
 ---
+<!-- inactive-ok-file: SYNTHESIS-011 ADR-tmp1304r CLAIM-336 — Proposed or Superseded; the synthesis this claim rests on, the decision that let it, and the claim it was -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-338: The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston's self-confirming sampling the model's authority-to-interpretation arrow and his agent a coupled loop run without independent scoring

@@ -27,6 +27,7 @@ summary: >-
   near-duplicate claim; it illustrates that claim for a capability. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: SYNTHESIS-009 — Proposed; the synthesis the note of 2026-11-07 points to -->
 <!-- inactive-ok-file: ARG-053 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CASE-210: Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention
@@ -78,3 +79,7 @@ terms they differ in readiness for one contingency.
 
 <!-- inactive-ok-block: CASE-209 CASE-210 — Proposed; the constructions A restates -->
 A50 §10 and A52 §10 restate as a result still to be shown for dispositions: "A collection of locally demonstrated capacities is not necessarily a jointly exercisable capacity." [CASE-209](CASE-209.md) already constructs that repertoire broader than simultaneous capacity, and CASE-210 the two departments matched in ordinary operation that split under a deadline-constrained demand. A cites neither. No change.
+
+## Note of 2026-11-07: what the records would show, from the second synthesis review
+
+This case says "Inventories, training records and drills would" tell the two departments apart. [SYNTHESIS-009](../syntheses.d/SYNTHESIS-009.md) says how far. Records kept per capacity fix only each capacity's probability, so they settle presence against absence, as here, where one department has no equipment and its readiness is zero. For the level of readiness they give only bounds, between the sum of the capacities' probabilities less one less their number and the weakest of them; a required level is refuted by the weakest capacity and certified only when the shortfalls stay within its margin, and between those only joint evidence, such as a deadline-bound exercise, decides. No status change.

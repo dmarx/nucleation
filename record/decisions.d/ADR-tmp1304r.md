@@ -1,0 +1,87 @@
+---
+status: Proposed
+title: 'A claim''s rests_on may name a SYNTHESIS, so a claim whose premise moved into that scheme keeps its dependency; the argument chain walks the claim-to-claim steps through a pattern'
+version: 1
+tags:
+- record
+date: '2026-11-07'
+summary: >-
+  Two synthesis reviews moved claims into the SYNTHESIS scheme that other
+  live claims rested on: [CLAIM-544](../claims.d/CLAIM-544.md) on [CLAIM-545](../claims.d/CLAIM-545.md), and [CLAIM-338](../claims.d/CLAIM-338.md) on
+  [CLAIM-336](../claims.d/CLAIM-336.md). A claim's `rests_on` accepted only CLAIMs, so those
+  dependencies stayed on Superseded entries. This decision lets a claim's
+  `rests_on` name a SYNTHESIS, with SYNTHESIS gaining the derived converse
+  `supports`. The `argument` chain walked `rests_on`, and a luria chain
+  stays within one scheme. So the chain now walks a named pattern,
+  `rests_on_claim`, the claim-to-claim steps, in its place. Its
+  demonstration repoints [CLAIM-338](../claims.d/CLAIM-338.md) and [CLAIM-544](../claims.d/CLAIM-544.md). Rejected: leaving the
+  dependencies on Superseded claims; a separate field such as `presupposes`
+  for a dependency on a synthesis; replacing the chain with a hand-written
+  view.
+---
+<!-- inactive-ok-file: ADR-076 ADR-077 ADR-078 ADR-079 — Proposed; the scheme, the move rule, the review and the relation storage this amends -->
+<!-- inactive-ok-file: CLAIM-336 CLAIM-545 — Superseded by their syntheses -->
+<!-- inactive-ok-file: SYNTHESIS-007 SYNTHESIS-011 CLAIM-338 CLAIM-544 — Proposed; the syntheses now rested on, and the claims that rest on them -->
+
+# ADR-tmp1304r: A claim's rests_on may name a SYNTHESIS, so a claim whose premise moved into that scheme keeps its dependency; the argument chain walks the claim-to-claim steps through a pattern
+
+## Context
+
+[ADR-077](ADR-077.md) moves a claim that passes admission into the SYNTHESIS scheme and
+supersedes the claim. The reviews repoint the relations that describe the
+current account. One kind could not be repointed. A claim's `rests_on`
+accepted only CLAIMs, so a live claim that rested on a moved claim kept
+resting on a Superseded entry:
+
+- [CLAIM-544](../claims.d/CLAIM-544.md) on [CLAIM-545](../claims.d/CLAIM-545.md), moved in the first review as [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md);
+- [CLAIM-338](../claims.d/CLAIM-338.md) on [CLAIM-336](../claims.d/CLAIM-336.md), moved in the second as [SYNTHESIS-011](../syntheses.d/SYNTHESIS-011.md).
+
+Both reviews left these for the owner.
+
+Widening `rests_on` alone is refused by luria's config check: the `argument`
+chain walks `rests_on`, and in the check's words "a chain is a sequence
+within one scheme". The owner
+pointed out that a pattern can carry what is too complex for a chain.
+
+## Decision
+
+- **A claim's `rests_on` may name a SYNTHESIS.** It keeps its meaning, a
+  premise the claim could not stand without, whichever scheme now holds
+  the premise. SYNTHESIS gains `supports`, derived from those `rests_on`
+  ([ADR-079](ADR-079.md)), so a synthesis's page shows the claims resting on it.
+- **The `argument` chain walks a named pattern in place of the field.** The
+  pattern `rests_on_claim`, `(c:CLAIM)-[:rests_on]->(p:CLAIM)`, gives
+  exactly the claim-to-claim steps the chain walked before, beside
+  `argued_from`. A step to a synthesis is not a step in a line of argument
+  within CLAIM, and it shows on the claim's and the synthesis's own pages
+  instead.
+- **Reliance is unchanged.** `rests_on` is already in the record's
+  `reliance` set, so a synthesis that is retracted leaves the claims resting
+  on it needing another route, as a retracted claim would.
+- **The synthesis review repoints a claim's `rests_on`** when it moves the
+  claim rested on. The `synthesis-review` skill says so.
+- **Demonstration ([ADR-071](ADR-071.md)).** [CLAIM-338](../claims.d/CLAIM-338.md)'s `rests_on` now names
+  [SYNTHESIS-011](../syntheses.d/SYNTHESIS-011.md), and [CLAIM-544](../claims.d/CLAIM-544.md)'s names [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md). Each has a
+  history note.
+
+## Alternatives considered
+
+- **Leave the dependencies on Superseded claims,** with an `inactive-ok`
+  note. That keeps a dependency the record knows is stale, and every
+  future move adds another.
+- **A separate field for a dependency on a synthesis,** such as
+  `presupposes`, which the record already counts as reliance. This was
+  tried first, and it loads. But it splits one relation into two fields by
+  the scheme of the target, which luria's own guidance warns against: it
+  "would put the type system's job in the field name".
+- **Replace the chain with a hand-written view.** A view could walk claims
+  and syntheses together. But the chain's rendering, its line invariant and
+  its reports of steps that cross lines would all have to be rebuilt, and
+  nothing is lost by keeping the chain within CLAIM.
+
+## Consequences
+
+- The `argument` chain renders as before; its source line now names
+  `rests_on_claim`.
+- A Current synthesis can be rested on by a Proposed claim, as any premise
+  can. [ADR-076](ADR-076.md)'s lint rules on a synthesis's own premises are unaffected.

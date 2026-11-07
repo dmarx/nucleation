@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpcyj43
 title: 'When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,12 @@ history:
     CLAIM-570 and CLAIM-574, are Active, no objection is filed, and the
     triage table and the vertex's totals and ready splits were re-checked.
     Nothing in the record meets its defeated_if.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    At the synthesis review of 2026-11-07: the summary's rate of greedy
+    stopping is scoped to the systems checked, since a reader's generator
+    gave about half where the filer's gave a quarter. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -61,8 +67,8 @@ summary: >-
   intelligence can pass through splits where it has paid for observation
   it cannot yet use and given up response it still needs. And a probe's
   worth depends on the probes after it, so stopping when the next one
-  does not pay misses the least total in about a quarter of random
-  systems. The wording is the assistant's (Claude, in this session);
+  does not pay misses the least total in about a quarter of the random
+  systems checked. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 
@@ -185,3 +191,7 @@ The assistant's reading across the eight DNA origami readings filed on the owner
 Two readings touch the shared budget, neither within its scope. Wagenbauer, Wachauf and Dietz ([NOTE-1637](../notes.d/NOTE-1637.md)) spent on a quality assay and used it to replace a 16-hour ramp with a 1.5-hour three-step schedule of matched quality, observing bought cheaper acting, but across experiments, not within one decision. Rothemund's AFM ([NOTE-1631](../notes.d/NOTE-1631.md)) is an observation that acts on the sample, the converse of the dual-control case the claim excludes, so there the split between the budgets is not even defined.
 
 No status changes.
+
+## Note of 2026-11-07: the price of agreement, from the second synthesis review
+
+On [CASE-206](../cases.d/CASE-206.md)'s vertex the observer's and the system's partitions agree, beyond the trivial corners, only in the window 3 ≤ o < 4, 1.125 ≤ a < 1.866 ([CASE-206](../cases.d/CASE-206.md)'s frontiers; [CLAIM-592](CLAIM-592.md)'s agreement). Under one shared budget o + a ≤ B, the least total that reaches that window is 3 + 1.125 = 4.125. That is more than this claim's cheapest readiness, 1.866, and more than full observation, 4: at B = 4 none of the ready splits lies in the window. So a budget that buys readiness, or one that buys complete observation, need not buy the agreement between outside and inside that picks out the half-branches as individuals. One step from this claim and [CASE-206](../cases.d/CASE-206.md); noted, not filed. No status change.

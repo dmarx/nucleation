@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpmxjti
 title: 'A perspective governs itself with respect to social judgement to the extent that it keeps access to others'' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    At the synthesis review of 2026-11-07: "the same achievement" as
+    CLAIM-424 is softened to the analogous regulation (CLAIM-349), since the
+    title keeps access and conditions authority on grounds without
+    requiring the standards themselves to be revised, which is CLAIM-424's
+    achievement. Title and defeater unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,8 +91,10 @@ The claim has three parts.
 
 It complements [CLAIM-424](CLAIM-424.md), reflexive governance of an organization's
 perspectival arrangements. That claim is about governing the arrangements
-that decide which signals count; this one is the same achievement for the
-judgements others hold of a person.
+that decide which signals count; this one is the analogous regulation, in
+[CLAIM-349](CLAIM-349.md)'s sense, for the judgements others hold of a person. It keeps
+access and conditions authority on grounds; unlike [CLAIM-424](CLAIM-424.md), it does not
+require the standards themselves to be revised.
 
 ## What it does not say
 
