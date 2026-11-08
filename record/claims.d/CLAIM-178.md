@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5o4dd
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,14 @@ history:
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-tmpyb8vm). No other change.
+- version: 4
+  date: '2026-11-08'
+  note: >-
+    Carries nucleating-argument again beside its new line, at ADR-
+    tmpyb8vm's rule (version 2): an entry the split moved keeps the old
+    line when it answers, refines or objects to one of that line's
+    entries, and it answers QUESTION-037, the line's root question, and
+    rests on CLAIM-177 and CLAIM-324. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +41,7 @@ tags:
 date: '2026-10-11'
 line:
 - records-of-inquiry
+- nucleating-argument
 works:
 - luria-nucleating-an-argument
 answers:

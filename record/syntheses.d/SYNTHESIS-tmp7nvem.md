@@ -27,6 +27,9 @@ integrates:
 - TERM-056
 - QUESTION-037
 - QUESTION-099
+- CLAIM-178
+- CLAIM-183
+- CLAIM-189
 premises:
 - CLAIM-177
 bears_on:
@@ -80,6 +83,23 @@ assistant's, interpretive and Proposed:
 becoming infeasible to reconstruct. [QUESTION-037](../questions.d/QUESTION-037.md) (Open) is the line's root
 question; its body names [CLAIM-177](../claims.d/CLAIM-177.md), with [CLAIM-185](../claims.d/CLAIM-185.md) and [CLAIM-178](../claims.d/CLAIM-178.md), as the
 candidate answer.
+
+Three entries of the lines split from this one carry this line as well
+(ADR-tmpyb8vm, version 2), because they answer its root question or object
+to one of its readings:
+
+- **CLAIM-178** (thesis, interpretive, Proposed; records-of-inquiry) answers
+  QUESTION-037 and rests on CLAIM-177 and CLAIM-324: a manuscript drafted
+  straight from an exchange drops commitments and changes its thesis without
+  saying so, which shows only against a record that keeps status and
+  inclusion apart.
+- **CLAIM-183** (thesis, empirical, Proposed; record-as-apparatus) answers
+  QUESTION-037: generated views fed back into the exchange show where its
+  terms evolved faster than its formalism.
+- **CLAIM-189** (counter, interpretive, Proposed; records-of-inquiry)
+  objects to CLAIM-191: fidelity is the wrong measure of a developing
+  argument, since maturing drops and changes things legitimately (TERM-052),
+  so what a record can secure is traceability.
 
 ## Admission
 

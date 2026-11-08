@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'The nucleating-argument line is split in three: nucleating-argument keeps how an argument drifts, anchors and pays for anchoring; what a record of inquiry keeps and the record as its own apparatus become lines of their own, because their parts barely relate to the rest'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Before merge, at the owner's review, who pointed out that `line`
+    takes several values: a moved entry keeps nucleating-argument beside
+    its new line when it answers, refines or objects to one of that
+    line's entries. Five do (CLAIM-178, CLAIM-183, CLAIM-189, CLAIM-181,
+    QUESTION-108), and the drift and anchors accounts integrate them.
 tags:
 - record
 date: '2026-11-07'
@@ -16,7 +25,8 @@ summary: >-
   signal that it holds several inquiries. This decision adds two lines,
   `records-of-inquiry` and `record-as-apparatus`, and moves those two
   parts' 43 entries to them. Each entry keeps its other lines, with a
-  history note. nucleating-argument keeps the three linked parts. Each
+  history note, and five that answer, refine or object to an entry of
+  nucleating-argument keep that line too. nucleating-argument keeps the three linked parts. Each
   line gets its synthesis. Rejected: one account over all five parts;
   keeping one line and tagging parts by a new field; a split into five.
 ---
@@ -89,6 +99,17 @@ it, which is the opposite of what a line is for.
   nucleating-argument to the new line. Other lines are kept: [CLAIM-293](../claims.d/CLAIM-293.md) and
   [CLAIM-300](../claims.d/CLAIM-300.md) stay primarily formal-apparatus. Each entry gets a history note.
   No status, title or relation changes.
+- **An entry that argues within nucleating-argument keeps it (version 2).**
+  `line` takes several values. A moved entry carries nucleating-argument
+  beside its new line when it answers, refines or objects to one of that
+  line's entries, because it is then part of that line's argument and
+  should go with it if the line is set aside. An entry that only rests on
+  or uses one drops it: it depends on the line from outside, and the
+  argument chain reports the step across lines. Five keep it: CLAIM-178
+  and CLAIM-183 answer QUESTION-037, CLAIM-189 objects to CLAIM-191,
+  CLAIM-181 objects to CLAIM-176, and QUESTION-108 refines QUESTION-038.
+  CLAIM-476 rests on CLAIM-195 and TERM-095 complements TERM-056, so both
+  drop it. No relation points from the line into the moved entries.
 - **Each line gets its synthesis** ([ADR-tmpyihxy](ADR-tmpyihxy.md), version 2):
   - nucleating-argument gets one for each of its three parts, and a line
     synthesis over them;
