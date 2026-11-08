@@ -90,15 +90,15 @@ summary: >-
   grammar cannot by themselves certify that drift fell.
 
 Two entries of the lines split from this one carry this line as well
-(ADR-tmpyb8vm, version 2):
+([ADR-tmpyb8vm](../decisions.d/ADR-tmpyb8vm.md), version 2):
 
-- **CLAIM-181** (counter, interpretive, Proposed; record-as-apparatus)
-  objects to CLAIM-176: the record fixes the grammar an argument is
+- **[CLAIM-181](../claims.d/CLAIM-181.md)** (counter, interpretive, Proposed; record-as-apparatus)
+  objects to [CLAIM-176](../claims.d/CLAIM-176.md): the record fixes the grammar an argument is
   expressed in, so a move that fits no scheme or relation is forced into
   one or lost until the grammar is amended. Its evidence includes
-  literature roles that "recurred" and stay in prose, because ADR-032
+  literature roles that "recurred" and stay in prose, because [ADR-032](../decisions.d/ADR-032.md)
   gave them no role to be coded in.
-- **QUESTION-108** (Open; records-of-inquiry) refines QUESTION-038: when a
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** (Open; records-of-inquiry) refines [QUESTION-038](../questions.d/QUESTION-038.md): when a
   structured record does better on revision tasks, is it because it
   retains more, because what it keeps is easier to reach, or because the
   reviser's operations are easier to perform on it?
