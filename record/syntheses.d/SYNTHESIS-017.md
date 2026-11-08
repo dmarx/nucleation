@@ -1,5 +1,8 @@
 ---
+number: 17
 status: Proposed
+formerly:
+- SYNTHESIS-tmpnakke
 title: 'What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make'
 version: 1
 role: thesis
@@ -76,7 +79,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as A6 cited it -->
 <!-- inactive-ok-file: QUESTION-288 QUESTION-289 — Answered; components and citations, with their standing -->
 
-# SYNTHESIS-tmpnakke: What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make
+# SYNTHESIS-017: What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make
 
 ## The account
 

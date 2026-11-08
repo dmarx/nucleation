@@ -75,14 +75,6 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-387](../record/claims.d/CLAIM-387.md) — Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other *(Active)*
   - [CLAIM-392](../record/claims.d/CLAIM-392.md) — Stochastic information-bottleneck optima at two budgets need not be nested: for X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the unique optima at β = 8 and β = 12 admit no Markov chain X → T₂ → T₁, so raising the budget reorganizes the optimum even with noisy encoders *(Active)*
 
-## nucleating-argument
-
-### From Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on
-
-- [CLAIM-294](../record/claims.d/CLAIM-294.md) — Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on *(Active)*
-  - [CLAIM-295](../record/claims.d/CLAIM-295.md) — A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not *(Proposed)* — also rests on claim CLAIM-300
-- [CLAIM-300](../record/claims.d/CLAIM-300.md) — A state sufficient for a family of decisions under a model makes the rest of an inquiry's history worthless for those decisions, and it can stop being sufficient when a source is discredited, the model is revised or the decisions change *(Active)*
-
 ## pragmatic-transport
 
 ### From Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor
@@ -198,6 +190,14 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-578](../record/claims.d/CLAIM-578.md) — Computational complexity belongs to a family of problems posed over configuration spaces, with an encoding and permitted operations, and not to a configuration space: one fixed finite space has none, and over the same instances finding a solution and navigating between solutions can fall in different classes *(Active)*
   - [CLAIM-575](../record/claims.d/CLAIM-575.md) — Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity *(Active)*
+
+## records-of-inquiry
+
+### From Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on
+
+- [CLAIM-294](../record/claims.d/CLAIM-294.md) — Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on *(Active)*
+  - [CLAIM-295](../record/claims.d/CLAIM-295.md) — A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not *(Proposed)* — also rests on claim CLAIM-300
+- [CLAIM-300](../record/claims.d/CLAIM-300.md) — A state sufficient for a family of decisions under a model makes the rest of an inquiry's history worthless for those decisions, and it can stop being sufficient when a source is discredited, the model is revised or the decisions change *(Active)*
 
 ## will-organization
 

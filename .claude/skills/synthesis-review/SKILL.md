@@ -98,7 +98,7 @@ out, or ask for strictness or leniency. Then:
 - **Arm B, not admitted because the record already holds the
   integration** (stated in a component's body or notes), on a line, or a
   major part of one, with no admitted synthesis: file or revise that line's
-  **line account** (ADR-tmpyihxy). This is an unadmitted SYNTHESIS that
+  **line account** (ADR-083). This is an unadmitted SYNTHESIS that
   restates the account as the record holds it:
   - every component in `integrates`, with voice and status in the body;
   - each link it states attributed to the entry that states it;
@@ -119,7 +119,7 @@ out, or ask for strictness or leniency. Then:
   with the part syntheses as arguments. If two or more parts are mostly
   closed (most of their relations inside, little pointing in), report the
   line as a candidate to split. The split is a decision about the lines
-  vocabulary, for the owner (ADR-tmpyb8vm is the first). Do not force one
+  vocabulary, for the owner (ADR-082 is the first). Do not force one
   account over parts that do not hang together.
 - **Arm B, not admitted for any other reason** (a free parameter, a
   component stated wrongly, a contradiction): file nothing. Record the

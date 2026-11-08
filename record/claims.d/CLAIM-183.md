@@ -17,7 +17,7 @@ history:
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
-    line (ADR-tmpyb8vm). No other change.
+    line (ADR-082). No other change.
 - version: 4
   date: '2026-11-08'
   note: >-

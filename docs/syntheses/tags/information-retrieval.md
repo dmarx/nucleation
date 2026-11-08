@@ -6,8 +6,8 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-0 of 11 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) | Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored | The costs part of the nucleating-argument line, restated so that it has an address: entrenchment ([CLAIM-184](../../../record/claims.d/CLAIM-184.md)) and retrieval-made premises ([CLAIM-301](../../../record/claims.d/CLAIM-301.md)), with the granted limit [CLAIM-292](../../../record/claims.d/CLAIM-292.md) (Active); agent filing moving the cost of capture ([CLAIM-179](../../../record/claims.d/CLAIM-179.md)); and the trade of filing against reconstruction with its objection thread ([CLAIM-303](../../../record/claims.d/CLAIM-303.md), [CLAIM-308](../../../record/claims.d/CLAIM-308.md), [CLAIM-314](../../../record/claims.d/CLAIM-314.md)). All but [CLAIM-292](../../../record/claims.d/CLAIM-292.md) are Proposed. Unadmitted: its links are held as relations and notes. The wording is the assistant's (Claude, in this session); it states what the record holds and adds nothing to it; adopting it is the owner's call. | Proposed |

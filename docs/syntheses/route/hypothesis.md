@@ -6,7 +6,7 @@
 
 **Independent hypothesis** — a coherent case has every component hold and the integration fail.
 
-9 of 11 SYNTHESIS documents. Back to the [full index](../README.md).
+9 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

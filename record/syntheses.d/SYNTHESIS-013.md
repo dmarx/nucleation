@@ -1,5 +1,8 @@
 ---
+number: 13
 status: Proposed
+formerly:
+- SYNTHESIS-tmp5p7lm
 title: 'An argument''s nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument'
 version: 1
 role: thesis
@@ -51,11 +54,11 @@ summary: >-
   assistant's (Claude, in this session); it states what the record holds
   and adds nothing to it; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpyihxy ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-083 ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmp5p7lm: An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
+# SYNTHESIS-013: An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
 
-*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's synthesis is built over it and its two sibling parts.*
+*A part account of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md), version 2); the line's synthesis is built over it and its two sibling parts.*
 
 ## The account
 
@@ -90,7 +93,7 @@ summary: >-
   grammar cannot by themselves certify that drift fell.
 
 Two entries of the lines split from this one carry this line as well
-([ADR-tmpyb8vm](../decisions.d/ADR-tmpyb8vm.md), version 2):
+([ADR-082](../decisions.d/ADR-082.md), version 2):
 
 - **[CLAIM-181](../claims.d/CLAIM-181.md)** (counter, interpretive, Proposed; record-as-apparatus)
   objects to [CLAIM-176](../claims.d/CLAIM-176.md): the record fixes the grammar an argument is
