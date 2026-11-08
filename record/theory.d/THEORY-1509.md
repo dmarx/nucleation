@@ -28,7 +28,7 @@ date: '2026-11-06'
 source:
 - LIT-2198
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 summary: >-
   Grimshaw, Smyth & Stepanyants (2018), [LIT-2198](../literature.d/LIT-2198.md), read in full in
   [NOTE-1687](../notes.d/NOTE-1687.md), for the Benjamin–Ono equation with six kinds of weak loss,

@@ -54,7 +54,7 @@ summary: >-
   which. It does not say that hatcheries cannot raise numbers, that local
   broodstock prevents the loss, or that the mechanism was measured.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Araki et al. (2008) as open -->
 

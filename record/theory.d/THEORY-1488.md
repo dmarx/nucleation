@@ -45,7 +45,7 @@ summary: >-
   The sharp edges: eight or nine plots per treatment in one region, planting
   intensity confounded with treatment, and the supporting tables unread.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2145 — Unavailable; cited from the reading of Schubert et al. (2024) as open -->
 

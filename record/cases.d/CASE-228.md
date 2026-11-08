@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpnlf5c
 title: 'Reporting by total output against reporting that also records breaches of the hours cap: under self-scored regime selection the aggregate regime is always kept and records no violation while one occurs, and the adequate regime keeps itself only when the penalty on a recorded breach exceeds the convenience of breaching plus the cost of reporting'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -13,6 +13,12 @@ history:
     CLAIM-624 was moved into (ADR-076), because it is about
     the current account and not its archived predecessor. The text is
     unchanged and still names the claim where it was written against it.
+- version: 3
+  date: '2026-11-08'
+  note: >-
+    The syntheses this pointed at returned to CLAIM at the decision that
+    a SYNTHESIS is an account (ADR-tmp72iro), so `illustrates` names
+    CLAIM-624 for SYNTHESIS-002. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -25,7 +31,7 @@ line:
 variant_of:
 - CASE-110
 illustrates:
-- SYNTHESIS-002
+- CLAIM-624
 summary: >-
   A62 §4 of the second share of the exchange "Individuation, Possibility,
   and Disposition" (2026-11-06 to 07), extending [CASE-110](CASE-110.md)'s two workers

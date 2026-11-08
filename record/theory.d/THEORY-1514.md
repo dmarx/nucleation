@@ -43,7 +43,7 @@ date: '2026-11-05'
 source:
 - LIT-2216
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 summary: >-
   Goligher et al. (2020), [LIT-2216](../literature.d/LIT-2216.md), read in [NOTE-1704](../notes.d/NOTE-1704.md). A
   consensus-style review: the atrophy side rests on biopsy and ultrasound

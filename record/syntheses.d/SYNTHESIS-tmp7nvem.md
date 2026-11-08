@@ -2,11 +2,8 @@
 status: Proposed
 title: 'In the record''s exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators'' framings, and as a whole''s course coming apart from its members'''
 version: 1
-role: thesis
-admission: unadmitted
-warrant: interpretive
 defeated_if: >-
-  As an account, not by a route: a component misstated or misattributed
+  A component misstated or misattributed
   here; an in-force component of the drift part of nucleating-argument
   left out; or a link this account states that no component states. Its
   standing is its components'.
@@ -27,26 +24,12 @@ integrates:
 - TERM-056
 - QUESTION-037
 - QUESTION-099
-premises:
-- CLAIM-177
-bears_on:
-- QUESTION-037
-- QUESTION-099
-summary: >-
-  The drift part of the nucleating-argument line, restated so that it has
-  an address. The observation is [CLAIM-177](../claims.d/CLAIM-177.md) and [CLAIM-324](../claims.d/CLAIM-324.md), both Active, and
-  its general form [CLAIM-483](../claims.d/CLAIM-483.md), Proposed. Three readings sit beside it:
-  [CLAIM-180](../claims.d/CLAIM-180.md), [CLAIM-191](../claims.d/CLAIM-191.md) and [CLAIM-192](../claims.d/CLAIM-192.md), each Proposed. Unadmitted: every
-  link it states is in a component. It is one of the three parts the
-  line's synthesis is built over. The wording is the assistant's (Claude,
-  in this session); it states what the record holds and adds nothing to
-  it; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-tmpyihxy CLAIM-178 CLAIM-180 CLAIM-182 CLAIM-185 CLAIM-191 CLAIM-192 CLAIM-483 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-tmp7nvem: In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members'
 
-*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's synthesis is built over it and its two sibling parts.*
+*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's account is built over it and its two sibling parts.*
 
 ## The account
 
@@ -81,9 +64,9 @@ becoming infeasible to reconstruct. [QUESTION-037](../questions.d/QUESTION-037.m
 question; its body names [CLAIM-177](../claims.d/CLAIM-177.md), with [CLAIM-185](../claims.d/CLAIM-185.md) and [CLAIM-178](../claims.d/CLAIM-178.md), as the
 candidate answer.
 
-## Admission
+## Links tested as claims
 
-Unadmitted: each link above is stated by the entry cited for it. Two
+None is filed as a claim: each link above is stated by the entry cited for it. Two
 integrations within the part were tested, and both fail on a free
 parameter.
 

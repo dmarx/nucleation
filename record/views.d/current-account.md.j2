@@ -1,38 +1,37 @@
 {#- record/views.d/current-account.md.j2
-    The record's current account: every synthesis in force or offered, line by
+    The record's current account: every account in force or offered, line by
     line, each with its components and their own status, read from the
     components when the page is built (DP-2: derived, never copied). Codes are
     written bare; the link fixer spells them. -#}
-{%- set live = docs("SYNTHESIS", status="Current", admission="admitted") + docs("SYNTHESIS", status="Proposed", admission="admitted") -%}
+{%- set live = docs("SYNTHESIS", status="Current") + docs("SYNTHESIS", status="Proposed") -%}
 # The current account
 
-*What the record now holds about how its own claims fit together, one line
-of argument at a time. Generated from the SYNTHESIS entries in
+*What the record now holds about how its own argument fits together, one
+line at a time. Generated from the SYNTHESIS entries in
 `record/syntheses.d/`: edit those, not this page.*
 
-A synthesis says what its components add up to, and which admission route it
-passed: an independent hypothesis, a derived result or an explanatory
-integration (ADR-075). Its components keep their own standing. The status
-beside each component, with its kind, is read from the component when this
-page is built, so a component retired since the synthesis was written shows as
-retired here. An `Open` QUESTION, an `Active` TERM and a `Proposed` CLAIM are
-different kinds of standing, which is why the kind is shown. The sections
-by line set out admitted syntheses only. A line whose account the record
-holds only in parts, stated across its components' bodies and notes, has an
-unadmitted synthesis that restates it; those are listed last, under
-"Accounts held in parts", and earn no standing of their own.
-A synthesis marked *Current* is the account the owner has adopted for its
-line; *Proposed* is admitted and argued, not yet adopted. A synthesis that
+A synthesis is an account of a scope of the record's argument, a line or a
+part of one. It names every component, attributes each link between them to
+the entry that states it, and adds nothing of its own. A claim that adds to
+its components is a CLAIM, and appears here as one of the components. The
+status beside each component, with its kind, is read from the component
+when this page is built, so a component retired since the account was
+written shows as retired here. An `Open` QUESTION, an `Active` TERM and a
+`Proposed` CLAIM are different kinds of standing, which is why the kind is
+shown. An account marked *Current* has had its mapping reviewed by the
+owner. One marked *Proposed* is offered and not yet reviewed. Neither status
+says anything about the components, which keep their own. An account that
 spans several lines is set out under its first and pointed to from the
 others.
 {% if not live %}
 
-*No synthesis is filed yet.*
+*No account is filed yet.*
 {% endif %}
+{%- set ns = namespace(bare=[]) %}
 {% for t in vocabulary("lines") %}
-{%- set ns = namespace(any=false) -%}
-{%- for s in live %}{% if t.value in s.line %}{% set ns.any = true %}{% endif %}{% endfor -%}
-{%- if ns.any %}
+{%- set here = namespace(any=false) -%}
+{%- for s in live %}{% if t.value in s.line %}{% set here.any = true %}{% endif %}{% endfor -%}
+{%- if here.any %}
 
 ## {{ t.label }}
 
@@ -42,55 +41,32 @@ others.
 
 - {{ s.code }}, set out under its first line: {{ s.title }}
 {%- else %}
-{%- set premises = s.premises | map(attribute="code") | list %}
 
 ### {{ s.code }}: {{ s.title }}
 
-*{{ s.status }} · {{ s.route }}{% if s.role %} · {{ s.role }}{% endif %} · warrant {{ s.warrant }} · version {{ s.version }}*
-{% if s.role == "supposed" %}
-**Conditional.** This account holds if its premises do. Adopting it adopts the conditional, not the premises, whose own status is in the table.
-{% endif %}
+*{{ s.status }} · version {{ s.version }}*
 
 {{ s.summary }}
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
 {% for c in s.integrates -%}
-| {{ c.code }}{% if c.code in premises %} (premise){% endif %} | {{ c.code.split("-")[0] }} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
+| {{ c.code }} | {{ c.code.split("-")[0] }} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
 {% endfor %}
 
-**What would defeat the integration:** {{ s.defeated_if }}
+**What would show the account unfaithful:** {{ s.defeated_if }}
 {%- endif %}
 {% endfor %}
+{%- else %}
+{%- set ns.bare = ns.bare + [t.label] %}
 {%- endif %}
 {% endfor %}
+{%- if live and ns.bare %}
 
-{%- set held = docs("SYNTHESIS", status="Proposed", admission="unadmitted") %}
-{%- if held %}
 
-## Accounts held in parts
+## Lines with no account yet
 
-*Each of these restates a line's account as the record already holds it,
-with every component mapped, so that the account has an address: it can be
-revised when a component changes and checked when a later synthesis returns
-to it. None was admitted. It adds nothing its components do not state, has
-no admission route, and cannot be set Current; its standing is its
-components', read below when this page is built.*
-{% for s in held %}
-{%- set premises = s.premises | map(attribute="code") | list %}
-
-### {{ s.code }}: {{ s.title }}
-
-*Proposed · held in parts · lines {{ s.line | join(", ") }} · version {{ s.version }}*
-
-{{ s.summary }}
-
-| component | kind | its status | what it holds |
-|---|---|---|---|
-{% for c in s.integrates -%}
-| {{ c.code }}{% if c.code in premises %} (premise){% endif %} | {{ c.code.split("-")[0] }} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
-{% endfor %}
-
-**What would show the account wrong:** {{ s.defeated_if }}
+{% for b in ns.bare %}
+- {{ b }}
 {% endfor %}
 {%- endif %}

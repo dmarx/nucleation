@@ -51,7 +51,7 @@ summary: >-
   it gives no threshold or rate for when an aided organization stops
   needing the aid.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 - CLAIM-602
 ---
 

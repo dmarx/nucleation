@@ -1,10 +1,10 @@
 ---
 number: 6
-status: Current
+status: Superseded
 formerly:
 - SYNTHESIS-tmp6m3wy
 title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
@@ -16,10 +16,16 @@ history:
     Current here. Title, body, grounds, terms and corroboration carried
     over; the defeater's exemption for special classes is bounded and
     marked; the claim's own history stays on CLAIM-474.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-474, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-474.
+superseded_by:
+- CLAIM-474
 defeated_if: >-
   A general result that collapses two adjacent steps: for instance, that
   for physically interconnected systems compatible configurations are
@@ -55,23 +61,6 @@ integrates:
 - CLAIM-469
 - THEORY-012
 - CASE-179
-premises:
-- CLAIM-471
-- CLAIM-480
-- CLAIM-481
-- CLAIM-470
-- CLAIM-475
-grounds:
-- THEORY-1065
-- THEORY-1087
-- THEORY-1088
-- THEORY-1090
-- CASE-179
-uses:
-- TERM-088
-- TERM-093
-- TERM-090
-- TERM-092
 bears_on:
 - QUESTION-282
 - QUESTION-283

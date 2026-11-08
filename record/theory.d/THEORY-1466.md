@@ -55,7 +55,7 @@ summary: >-
   record's dependency claims concern is the case the authors leave
   untested.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
 

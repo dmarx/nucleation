@@ -42,7 +42,7 @@ summary: >-
   still being paid, one to two years in; it says nothing about work after
   transfers stop, nor about state-level aid.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
 

@@ -1,10 +1,10 @@
 ---
 number: 4
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmpj2lnj
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-07'
@@ -23,10 +23,16 @@ history:
     CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-006 (ADR-077),
     so its integrates, premises and defeated_if now name the synthesis. The
     body's citations of CLAIM-474 are left as they were. No other change.
-role: supposed
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 4
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-610, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-610.
+superseded_by:
+- CLAIM-610
 defeated_if: >-
   A case in which every component holds and the will-organization that
   decides which of an individual's interventions become effective
@@ -55,13 +61,6 @@ integrates:
 - TERM-023
 - TERM-088
 - TERM-071
-premises:
-- SYNTHESIS-006
-- CLAIM-405
-- CLAIM-329
-- CLAIM-027
-- CLAIM-025
-- SYNTHESIS-007
 bears_on:
 - QUESTION-284
 summary: >-

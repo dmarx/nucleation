@@ -1,10 +1,10 @@
 ---
 number: 7
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmpsw5k6
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
@@ -12,10 +12,16 @@ history:
     Moved from CLAIM-545 (version 2) at the synthesis review of
     2026-11-07; title, defeater and body carried over, four corrections
     marked; the claim's own history stays on CLAIM-545.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-545, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-545.
+superseded_by:
+- CLAIM-545
 defeated_if: >-
   An agent whose present organization meets every condition of the title,
   with "relevant" read as CLAIM-523's normatively relevant discrepancies,
@@ -52,15 +58,6 @@ integrates:
 - TERM-064
 - TERM-085
 - TERM-100
-premises:
-- CLAIM-354
-- CLAIM-523
-- CLAIM-485
-- CLAIM-424
-- CLAIM-025
-- CLAIM-027
-- CLAIM-404
-- CLAIM-533
 bears_on:
 - QUESTION-364
 - QUESTION-071

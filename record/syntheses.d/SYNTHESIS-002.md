@@ -1,10 +1,10 @@
 ---
 number: 2
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmp73anp
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-07'
@@ -17,10 +17,16 @@ history:
     into the scheme as SYNTHESIS-007, so its integrates and defeated_if now name the
     synthesis. The body's citations of CLAIM-545 are left as they were.
     No other change.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 3
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-624, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-624.
+superseded_by:
+- CLAIM-624
 defeated_if: >-
   A case meeting A62 §3's conditions 1 to 4 in which the organization
   had no feasible alternative, which the record must still count as
@@ -58,12 +64,6 @@ integrates:
 - CLAIM-472
 - TERM-064
 - TERM-020
-premises:
-- CLAIM-614
-- CLAIM-348
-- CLAIM-523
-- CLAIM-445
-- CLAIM-462
 bears_on:
 - QUESTION-441
 - QUESTION-129

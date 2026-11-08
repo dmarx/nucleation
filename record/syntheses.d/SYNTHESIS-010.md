@@ -1,10 +1,10 @@
 ---
 number: 10
-status: Current
+status: Superseded
 formerly:
 - SYNTHESIS-tmpfupae
 title: 'Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
@@ -16,10 +16,16 @@ history:
     conditions are judged before withdrawal, and the defeater's clause on
     the length of substitutive support, which the title dropped on
     2026-11-05, is removed. The claim's history stays on CLAIM-600.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-600, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-600.
+superseded_by:
+- CLAIM-600
 defeated_if: >-
   A case of support that met the conditions, judged before withdrawal from
   what the support did and what the party was seen to do: a self-
@@ -57,15 +63,6 @@ integrates:
 - CLAIM-603
 - CLAIM-605
 - CLAIM-606
-- THEORY-1465
-- THEORY-1461
-- THEORY-1492
-premises:
-- CLAIM-597
-- CLAIM-604
-- CLAIM-602
-- CLAIM-566
-grounds:
 - THEORY-1465
 - THEORY-1461
 - THEORY-1492

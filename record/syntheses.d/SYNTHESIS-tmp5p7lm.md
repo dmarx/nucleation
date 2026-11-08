@@ -2,11 +2,8 @@
 status: Proposed
 title: 'An argument''s nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument'
 version: 1
-role: thesis
-admission: unadmitted
-warrant: interpretive
 defeated_if: >-
-  As an account, not by a route: a component misstated or misattributed
+  A component misstated or misattributed
   here; an in-force component of the anchors part of nucleating-argument
   left out; or a link this account states that no component states. Its
   standing is its components'.
@@ -31,29 +28,12 @@ integrates:
 - QUESTION-397
 - CASE-183
 - ARG-028
-premises:
-- CLAIM-185
-- CLAIM-182
-bears_on:
-- QUESTION-038
-- QUESTION-064
-- QUESTION-397
-summary: >-
-  The anchors part of the nucleating-argument line, restated so that it
-  has an address: persistence as the threshold ([CLAIM-185](../claims.d/CLAIM-185.md), Proposed),
-  relative to a stipulated constraint set ([CLAIM-195](../claims.d/CLAIM-195.md), Active);
-  addressability as what makes an anchor ([CLAIM-182](../claims.d/CLAIM-182.md), Proposed);
-  persistence and productivity varying independently ([CLAIM-595](../claims.d/CLAIM-595.md), Active;
-  [TERM-117](../terms.d/TERM-117.md)). Unadmitted: its links are in [CLAIM-185](../claims.d/CLAIM-185.md)'s notes,
-  [QUESTION-038](../questions.d/QUESTION-038.md)'s note of 2026-11-07 and [CASE-183](../cases.d/CASE-183.md). The wording is the
-  assistant's (Claude, in this session); it states what the record holds
-  and adds nothing to it; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-tmpyihxy ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-tmp5p7lm: An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
 
-*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's synthesis is built over it and its two sibling parts.*
+*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's account is built over it and its two sibling parts.*
 
 ## The account
 
@@ -87,9 +67,9 @@ summary: >-
   entry are uncounted. [ARG-028](../arguments.d/ARG-028.md) (Proposed): measures counted in the record's
   grammar cannot by themselves certify that drift fell.
 
-## Admission
+## Links tested as claims
 
-Unadmitted: each link above is in the entry cited for it. Three candidates
+None is filed as a claim: each link above is in the entry cited for it. Three candidates
 were tested.
 
 - **Built-on and productive anchors joined:** a free parameter, the target,

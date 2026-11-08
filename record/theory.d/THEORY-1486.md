@@ -45,7 +45,7 @@ summary: >-
   a "poverty flat" open. It does not say which component matters, nor
   anything about aid to states.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 - CLAIM-601
 ---
 

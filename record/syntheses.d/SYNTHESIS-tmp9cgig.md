@@ -2,11 +2,8 @@
 status: Proposed
 title: 'Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored'
 version: 1
-role: thesis
-admission: unadmitted
-warrant: interpretive
 defeated_if: >-
-  As an account, not by a route: a component misstated or misattributed
+  A component misstated or misattributed
   here; an in-force component of the costs part of nucleating-argument
   left out; or a link this account states that no component states. Its
   standing is its components'.
@@ -31,29 +28,12 @@ integrates:
 - CASE-088
 - QUESTION-098
 - QUESTION-237
-premises:
-- CLAIM-184
-- CLAIM-303
-bears_on:
-- QUESTION-098
-- QUESTION-107
-- QUESTION-109
-summary: >-
-  The costs part of the nucleating-argument line, restated so that it has
-  an address: entrenchment ([CLAIM-184](../claims.d/CLAIM-184.md)) and retrieval-made premises
-  ([CLAIM-301](../claims.d/CLAIM-301.md)), with the granted limit [CLAIM-292](../claims.d/CLAIM-292.md) (Active); agent filing
-  moving the cost of capture ([CLAIM-179](../claims.d/CLAIM-179.md)); and the trade of filing against
-  reconstruction with its objection thread ([CLAIM-303](../claims.d/CLAIM-303.md), [CLAIM-308](../claims.d/CLAIM-308.md),
-  [CLAIM-314](../claims.d/CLAIM-314.md)). All but [CLAIM-292](../claims.d/CLAIM-292.md) are Proposed. Unadmitted: its links are
-  held as relations and notes. The wording is the assistant's (Claude, in
-  this session); it states what the record holds and adds nothing to it;
-  adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-tmpyihxy CLAIM-179 CLAIM-182 CLAIM-184 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-314 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-tmp9cgig: Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
 
-*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's synthesis is built over it and its two sibling parts.*
+*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's account is built over it and its two sibling parts.*
 
 ## The account
 
@@ -88,9 +68,9 @@ summary: >-
 - [QUESTION-098](../questions.d/QUESTION-098.md) (the owner's U11 and A11, Open) asks when filing is worth
   it. [QUESTION-237](../questions.d/QUESTION-237.md) (Open) is a promotion condition moved from [THEORY-376](../theory.d/THEORY-376.md).
 
-## Admission
+## Links tested as claims
 
-Unadmitted: the links are held as `complements`, `objects_to`, `refines`
+None is filed as a claim: the links are held as `complements`, `objects_to`, `refines`
 and `illustrates` relations and in the bodies cited. Two candidates were
 tested.
 

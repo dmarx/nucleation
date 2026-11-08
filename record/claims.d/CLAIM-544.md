@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxes2o
 title: 'If a willed agent is the jurisdiction of its will-organization, then governing one''s own governability is in part governing one''s own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent''s states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -12,6 +12,12 @@ history:
     CLAIM-545, which this claim rests on, moved into the SYNTHESIS scheme as
     SYNTHESIS-007 at the first synthesis review of 2026-11-07; `rests_on` now
     names the synthesis (ADR-080). No other change.
+- version: 3
+  date: '2026-11-08'
+  note: >-
+    The syntheses this pointed at returned to CLAIM at the decision that
+    a SYNTHESIS is an account (ADR-tmp72iro), so `rests_on` names
+    CLAIM-545 for SYNTHESIS-007. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,7 +35,7 @@ line:
 - will-organization
 rests_on:
 - CLAIM-170
-- SYNTHESIS-007
+- CLAIM-545
 uses:
 - TERM-100
 - TERM-099

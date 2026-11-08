@@ -1,14 +1,21 @@
 ---
 number: 8
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmpxwffr
 title: 'Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all'
-version: 1
-role: thesis
-admission: admitted
-route: derived
-warrant: demonstrated
+version: 2
+history:
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-tmpt8x7l, the claim its content returns to, at
+    the decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-tmpt8x7l.
+superseded_by:
+- CLAIM-tmpt8x7l
 defeated_if: >-
   An error in the derivation: attainable arrangements, acceptance sets and
   quiet regions for which a set outside the met-or-quiet complex has an
@@ -42,9 +49,6 @@ integrates:
 - CLAIM-361
 - CLAIM-368
 - QUESTION-131
-premises:
-- CLAIM-347
-- CLAIM-549
 bears_on:
 - QUESTION-131
 summary: >-

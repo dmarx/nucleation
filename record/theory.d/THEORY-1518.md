@@ -41,7 +41,7 @@ date: '2026-11-06'
 source:
 - LIT-2228
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 summary: >-
   Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md), read in full in [NOTE-1712](../notes.d/NOTE-1712.md),
   most of Table 1 image-only. Held as a report of what the source holds, its truth left to THEORY-1543; the caveats: the account of capacity built by

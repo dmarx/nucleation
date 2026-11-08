@@ -60,7 +60,7 @@ summary: >-
   residents may be unable to keep the loop going. It says nothing about
   how the advantage moved over time.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 
 # THEORY-1472: Michaels, Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that greenfield neighbourhoods given formal plots, roads and water mains under Tanzania's 1970s–80s Sites and Services projects, on which residents built their own houses, had by the 2010s larger, more regular and better-connected housing and better-preserved roads and water mains than adjacent land unbuilt at the start, while squatter areas given similar infrastructure spending per square metre were, in a comparison the authors call descriptive, no better than comparison areas, which the authors explain by their infrastructure having deteriorated; they attribute the difference to a feedback in which enough owners able to invest keep up the infrastructure that draws their investment
