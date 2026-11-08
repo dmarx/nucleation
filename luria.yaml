@@ -565,17 +565,17 @@ vocabularies:
         label: Nucleating an argument
         blurb: how an argument developed across stateless sessions settles into stable, addressable structure —
           what drifts, what anchors it, and what anchoring costs. What a record of it keeps, and the record as
-          its own apparatus, are lines of their own (ADR-tmpyb8vm)
+          its own apparatus, are lines of their own (ADR-082)
       records-of-inquiry:
         label: What a record of inquiry keeps
         blurb: what a record of a developing argument or inquiry can secure through revision — traceable change,
           accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions;
-          split from nucleating-argument (ADR-tmpyb8vm)
+          split from nucleating-argument (ADR-082)
       record-as-apparatus:
         label: The record as its own apparatus
         blurb: what an apparatus of record-keeping makes determinate, how its grammar is fixed and revised
           through use, and inquiry as specification — the record itself as the case; split from
-          nucleating-argument (ADR-tmpyb8vm)
+          nucleating-argument (ADR-082)
       evidence-for-experience:
         label: Evidence for experience
         blurb: what could show that a system, organized, non-biological or without a cortex, has experience

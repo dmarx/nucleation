@@ -1,5 +1,8 @@
 ---
+number: 16
 status: Proposed
+formerly:
+- SYNTHESIS-tmpllsy7
 title: 'The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule''s drift-catching and cost-competitive justifications part when filing is dear'
 version: 3
 history:
@@ -8,9 +11,9 @@ history:
   note: >-
     Restructured before merge, at the owner's review: version 1 was the
     unadmitted account of the whole line before it was split (ADR-
-    tmpyb8vm). Its parts are now the accounts SYNTHESIS-tmp7nvem,
-    SYNTHESIS-tmp5p7lm and SYNTHESIS-tmp9cgig, and the two new lines'
-    accounts SYNTHESIS-tmpnakke and SYNTHESIS-tmp4csi2. Version 2 is the
+    tmpyb8vm). Its parts are now the accounts SYNTHESIS-014,
+    SYNTHESIS-013 and SYNTHESIS-015, and the two new lines'
+    accounts SYNTHESIS-017 and SYNTHESIS-012. Version 2 is the
     line's synthesis over its three parts, admitted by derivation; its
     regime is corrected to F ≥ 2d.
 - version: 3
@@ -34,9 +37,9 @@ date: '2026-11-07'
 line:
 - nucleating-argument
 integrates:
-- SYNTHESIS-tmp7nvem
-- SYNTHESIS-tmp5p7lm
-- SYNTHESIS-tmp9cgig
+- SYNTHESIS-014
+- SYNTHESIS-013
+- SYNTHESIS-015
 - CLAIM-tmp476gw
 - CLAIM-176
 - CLAIM-177
@@ -49,28 +52,28 @@ bears_on:
 - QUESTION-098
 summary: >-
   The account of the nucleating-argument line, over the accounts of its
-  three parts: drift ([SYNTHESIS-tmp7nvem](SYNTHESIS-tmp7nvem.md)), anchors ([SYNTHESIS-tmp5p7lm](SYNTHESIS-tmp5p7lm.md))
-  and the costs of anchoring ([SYNTHESIS-tmp9cgig](SYNTHESIS-tmp9cgig.md)). They meet at
+  three parts: drift ([SYNTHESIS-014](SYNTHESIS-014.md)), anchors ([SYNTHESIS-013](SYNTHESIS-013.md))
+  and the costs of anchoring ([SYNTHESIS-015](SYNTHESIS-015.md)). They meet at
   [ADR-032](../decisions.d/ADR-032.md)'s rule for when to code an argument, which the anchors part
   justifies by drift ([CLAIM-176](../claims.d/CLAIM-176.md)) and the costs part by effort
   ([CLAIM-308](../claims.d/CLAIM-308.md)). Where the two justifications part is [CLAIM-tmp476gw](../claims.d/CLAIM-tmp476gw.md)'s, a
   derivation in the assistant's voice. The account adds nothing of its
   own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-tmpyb8vm ADR-tmpyihxy ADR-tmp72iro CLAIM-176 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-tmp476gw SYNTHESIS-tmp4csi2 SYNTHESIS-tmp5p7lm SYNTHESIS-tmp7nvem SYNTHESIS-tmp9cgig SYNTHESIS-tmpnakke — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-082 ADR-083 ADR-tmp72iro CLAIM-176 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-tmp476gw SYNTHESIS-012 SYNTHESIS-013 SYNTHESIS-014 SYNTHESIS-015 SYNTHESIS-017 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmpllsy7: The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear
+# SYNTHESIS-016: The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear
 
-*The account of the nucleating-argument line, over the accounts of its three parts ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md)). Version 1 was the account of the whole line before it was split ([ADR-tmpyb8vm](../decisions.d/ADR-tmpyb8vm.md)). Version 2 was a derivation filed as the line's synthesis; it is now [CLAIM-tmp476gw](../claims.d/CLAIM-tmp476gw.md) ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)).*
+*The account of the nucleating-argument line, over the accounts of its three parts ([ADR-083](../decisions.d/ADR-083.md)). Version 1 was the account of the whole line before it was split ([ADR-082](../decisions.d/ADR-082.md)). Version 2 was a derivation filed as the line's synthesis; it is now [CLAIM-tmp476gw](../claims.d/CLAIM-tmp476gw.md) ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)).*
 
 ## The parts
 
 The three part accounts state the rest of the line. Drift
-([SYNTHESIS-tmp7nvem](SYNTHESIS-tmp7nvem.md)) says what fails at a restatement. Anchors
-([SYNTHESIS-tmp5p7lm](SYNTHESIS-tmp5p7lm.md)) says that coding at the second occurrence stops it. Costs
-([SYNTHESIS-tmp9cgig](SYNTHESIS-tmp9cgig.md)) says when filing pays. They meet at [ADR-032](../decisions.d/ADR-032.md)'s rule for when to code an argument.
+([SYNTHESIS-014](SYNTHESIS-014.md)) says what fails at a restatement. Anchors
+([SYNTHESIS-013](SYNTHESIS-013.md)) says that coding at the second occurrence stops it. Costs
+([SYNTHESIS-015](SYNTHESIS-015.md)) says when filing pays. They meet at [ADR-032](../decisions.d/ADR-032.md)'s rule for when to code an argument.
 The line's other two former parts are now lines of their own, with accounts
-[SYNTHESIS-tmpnakke](SYNTHESIS-tmpnakke.md) and [SYNTHESIS-tmp4csi2](SYNTHESIS-tmp4csi2.md).
+[SYNTHESIS-017](SYNTHESIS-017.md) and [SYNTHESIS-012](SYNTHESIS-012.md).
 
 ## Where they meet
 

@@ -41,7 +41,7 @@ history:
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
-    line (ADR-tmpyb8vm). No other change.
+    line (ADR-082). No other change.
 tags:
 - epistemology
 - design-rationale

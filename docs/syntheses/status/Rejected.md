@@ -6,7 +6,7 @@
 
 **Disbelieved** — its integrating claim was tested and failed, or contradicted, though its components may stand.
 
-0 of 11 SYNTHESIS documents. Back to the [full index](../README.md).
+0 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

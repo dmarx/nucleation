@@ -6,7 +6,7 @@
 
 **The current account** — the integration the record now holds for its line; the current-account view leads with it.
 
-2 of 11 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

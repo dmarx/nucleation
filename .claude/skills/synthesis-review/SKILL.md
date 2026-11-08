@@ -1,9 +1,9 @@
 ---
 name: synthesis-review
-description: A periodic review of the record's accounts - that each line, or part of one, has a SYNTHESIS that maps it faithfully; that claims which only map their components become accounts; and that integrations whose parts the record holds are filed as claims when they add something. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-078 holds the invariants; ADR-075 the audit and the test for a claim whose premises are claims; ADR-tmp72iro what a SYNTHESIS is; ADR-tmpyihxy coverage.
+description: A periodic review of the record's accounts - that each line, or part of one, has a SYNTHESIS that maps it faithfully; that claims which only map their components become accounts; and that integrations whose parts the record holds are filed as claims when they add something. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-078 holds the invariants; ADR-075 the audit and the test for a claim whose premises are claims; ADR-tmp72iro what a SYNTHESIS is; ADR-083 coverage.
 ---
 <!-- .claude/skills/synthesis-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-078 ADR-075 ADR-tmp72iro ADR-tmpyihxy ADR-tmpyb8vm — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-078 ADR-075 ADR-tmp72iro ADR-083 ADR-082 — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Synthesis review
 
@@ -95,7 +95,7 @@ out, and it does not ask for strictness or leniency. Then:
 
 - **The scope's account comes first.** For each scope the shortlist
   touches, file its account, or revise the one there is as a new version.
-  There is one account per scope (ADR-tmpyihxy). The account is a
+  There is one account per scope (ADR-083). The account is a
   SYNTHESIS, Proposed:
   - every component in `integrates`, with its voice and status in the body;
   - each link it states attributed to the entry that states it;
@@ -112,7 +112,7 @@ out, and it does not ask for strictness or leniency. Then:
   run it with the part accounts as arguments. If two or more parts are
   mostly closed (most of their relations inside, little pointing in),
   report the line as a candidate to split. The split is a decision about
-  the lines vocabulary, for the owner (ADR-tmpyb8vm is the first). Do not
+  the lines vocabulary, for the owner (ADR-082 is the first). Do not
   force one account over parts that do not hang together.
 - **Arm A: the claim adds nothing.** It fails ADR-072's rule as a claim.
   Fold its mapping into its scope's account, and set the claim to

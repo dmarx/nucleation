@@ -1,5 +1,8 @@
 ---
+number: 15
 status: Proposed
+formerly:
+- SYNTHESIS-tmp9cgig
 title: 'Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored'
 version: 1
 defeated_if: >-
@@ -29,11 +32,11 @@ integrates:
 - QUESTION-098
 - QUESTION-237
 ---
-<!-- inactive-ok-file: ADR-tmpyihxy CLAIM-179 CLAIM-182 CLAIM-184 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-314 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-083 CLAIM-179 CLAIM-182 CLAIM-184 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-314 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmp9cgig: Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
+# SYNTHESIS-015: Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
 
-*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's account is built over it and its two sibling parts.*
+*A part account of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md), version 2); the line's account is built over it and its two sibling parts.*
 
 ## The account
 

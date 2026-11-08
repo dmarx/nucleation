@@ -22,13 +22,13 @@ summary: >-
   that were never claims become new claims. A claim's `rests_on` names
   claims only again, so the patches [ADR-077](ADR-077.md) and [ADR-080](ADR-080.md) made are undone.
   It supersedes [ADR-076](ADR-076.md), [ADR-077](ADR-077.md) and [ADR-080](ADR-080.md), and amends [ADR-075](ADR-075.md), [ADR-078](ADR-078.md)
-  and [ADR-tmpyihxy](ADR-tmpyihxy.md). Rejected: a field telling the two kinds apart within
+  and [ADR-083](ADR-083.md). Rejected: a field telling the two kinds apart within
   one scheme; the status quo; moving the integrations to new claim codes;
   an `integrates` field on CLAIM; making accounts generated views.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-076 ADR-077 ADR-078 ADR-079 ADR-080 ADR-tmpyihxy ADR-tmpyb8vm — Proposed; the decisions this supersedes or amends -->
+<!-- inactive-ok-file: ADR-075 ADR-076 ADR-077 ADR-078 ADR-079 ADR-080 ADR-083 ADR-082 — Proposed; the decisions this supersedes or amends -->
 <!-- inactive-ok-file: SYNTHESIS-001 SYNTHESIS-002 SYNTHESIS-003 SYNTHESIS-004 SYNTHESIS-005 SYNTHESIS-006 SYNTHESIS-007 SYNTHESIS-008 SYNTHESIS-009 SYNTHESIS-010 SYNTHESIS-011 — Superseded by the claims they return to -->
-<!-- inactive-ok-file: SYNTHESIS-tmpllsy7 SYNTHESIS-tmp7nvem SYNTHESIS-tmp5p7lm SYNTHESIS-tmp9cgig — Proposed; the accounts of the demonstration -->
+<!-- inactive-ok-file: SYNTHESIS-016 SYNTHESIS-014 SYNTHESIS-013 SYNTHESIS-015 — Proposed; the accounts of the demonstration -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-545 CLAIM-610 CLAIM-611 CLAIM-615 CLAIM-620 CLAIM-624 CLAIM-628 CLAIM-629 CLAIM-308 CLAIM-176 — Proposed; restored claims and the claims cited as instances -->
 
 # ADR-tmp72iro: A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again
@@ -47,14 +47,14 @@ one that had passed a route, recorded in a `route` field:
 - integration: a dependency, mechanism or prediction the components leave
   open.
 
-[ADR-tmpyihxy](ADR-tmpyihxy.md) then used the scheme's unadmitted entries for accounts held in
+[ADR-083](ADR-083.md) then used the scheme's unadmitted entries for accounts held in
 parts.
 
 The owner asked what the admitted syntheses add. Read one by one, each adds
 one proposition:
 
 - **[SYNTHESIS-008](../syntheses.d/SYNTHESIS-008.md), [SYNTHESIS-009](../syntheses.d/SYNTHESIS-009.md) and the nucleating-argument line's
-  synthesis** ([SYNTHESIS-tmpllsy7](../syntheses.d/SYNTHESIS-tmpllsy7.md)) are short derivations: a third complex
+  synthesis** ([SYNTHESIS-016](../syntheses.d/SYNTHESIS-016.md)) are short derivations: a third complex
   that decides frustration, bounds on readiness, and a regime where two
   filing rules part.
 - **The other eight are hypotheses.** Each adds an identification, a
@@ -91,7 +91,7 @@ Current", is Proposed as though it were a credence, and is called
 ## Decision
 
 - **A SYNTHESIS is an account of a scope.** A scope is a line or a part of
-  one ([ADR-tmpyihxy](ADR-tmpyihxy.md)). The account:
+  one ([ADR-083](ADR-083.md)). The account:
   - names every component in `integrates`, with its voice and status in the
     body;
   - attributes each link it states to the entry that states it;
@@ -174,7 +174,7 @@ Current", is Proposed as though it were a credence, and is called
   - **Arm B** looks for integrations held in parts. If one passes the test
     above, it is filed as a CLAIM. Either way, the scope's account records
     where the link is stated.
-  - **Coverage** is [ADR-tmpyihxy](ADR-tmpyihxy.md)'s: one account per scope.
+  - **Coverage** is [ADR-083](ADR-083.md)'s: one account per scope.
 - **Supersedes and amends.**
   - **Superseded:** [ADR-076](ADR-076.md) (the scheme), [ADR-077](ADR-077.md) (moving a claim into it)
     and [ADR-080](ADR-080.md) (`rests_on` naming a SYNTHESIS). [ADR-079](ADR-079.md)'s derived
@@ -182,12 +182,12 @@ Current", is Proposed as though it were a credence, and is called
   - **Amended, [ADR-075](ADR-075.md):** its step 5 now applies to filing a claim, and
     steps 1 to 4 apply to accounts and to a source's syntheses as before.
   - **Amended, [ADR-078](ADR-078.md):** the review's arms, as above.
-  - **Amended, [ADR-tmpyihxy](ADR-tmpyihxy.md):** an account is no longer "unadmitted", and it
+  - **Amended, [ADR-083](ADR-083.md):** an account is no longer "unadmitted", and it
     can be Current.
 - **Demonstration ([ADR-071](ADR-071.md)).** This decision ships with its first
   application:
   - the eleven syntheses return to CLAIM;
-  - the nucleating-argument line's synthesis, [SYNTHESIS-tmpllsy7](../syntheses.d/SYNTHESIS-tmpllsy7.md), is split
+  - the nucleating-argument line's synthesis, [SYNTHESIS-016](../syntheses.d/SYNTHESIS-016.md), is split
     in two. Its derivation becomes a claim. The synthesis itself becomes
     the line's account over its three part accounts and that claim.
 

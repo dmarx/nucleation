@@ -7,10 +7,10 @@ history:
   date: '2026-11-08'
   note: >-
     Filed at the decision that a SYNTHESIS is an account (ADR-tmp72iro), as its
-    demonstration. This derivation was version 2 of SYNTHESIS-tmpllsy7, the
+    demonstration. This derivation was version 2 of SYNTHESIS-016, the
     nucleating-argument line's synthesis, admitted by the derived route.
     What it adds to its premises is one claim, so it is filed here, and
-    SYNTHESIS-tmpllsy7 becomes the line's account, which integrates it. Title, body,
+    SYNTHESIS-016 becomes the line's account, which integrates it. Title, body,
     defeater and premises are carried over; the correction at filing, F ≥
     2d, is kept.
 role: thesis
@@ -53,26 +53,26 @@ summary: >-
   [CLAIM-177](CLAIM-177.md) is Active. The derivation is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-tmp72iro CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 CLAIM-303 CLAIM-308 SYNTHESIS-tmpllsy7 — Proposed; premises, citations and the account that integrates this claim -->
+<!-- inactive-ok-file: ADR-075 ADR-tmp72iro CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 CLAIM-303 CLAIM-308 SYNTHESIS-016 — Proposed; premises, citations and the account that integrates this claim -->
 
 # CLAIM-tmp476gw: Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them
 
-*Filed from version 2 of [SYNTHESIS-tmpllsy7](../syntheses.d/SYNTHESIS-tmpllsy7.md), the nucleating-argument line's synthesis, at [ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md). That entry is now the line's account, and integrates this claim.*
+*Filed from version 2 of [SYNTHESIS-016](../syntheses.d/SYNTHESIS-016.md), the nucleating-argument line's synthesis, at [ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md). That entry is now the line's account, and integrates this claim.*
 
 ## The claim
 
 [ADR-032](../decisions.d/ADR-032.md)'s rule, coding a thing the second time it turns up, has two
 justifications on the record, from different parts of the line.
 
-- **Drift-catching, from the anchors part ([SYNTHESIS-tmp5p7lm](../syntheses.d/SYNTHESIS-tmp5p7lm.md)) and the drift
-  part ([SYNTHESIS-tmp7nvem](../syntheses.d/SYNTHESIS-tmp7nvem.md)).** [CLAIM-176](CLAIM-176.md): "Every failure [CLAIM-177](CLAIM-177.md) lists needs
+- **Drift-catching, from the anchors part ([SYNTHESIS-013](../syntheses.d/SYNTHESIS-013.md)) and the drift
+  part ([SYNTHESIS-014](../syntheses.d/SYNTHESIS-014.md)).** [CLAIM-176](CLAIM-176.md): "Every failure [CLAIM-177](CLAIM-177.md) lists needs
   a second occurrence, so coding at the second occurrence catches each
   failure the first time it could happen." The mechanism is [CLAIM-186](CLAIM-186.md)'s: "proposals that are never coded have to
   be restated, and restating is where redefinition creeps in". [CLAIM-185](CLAIM-185.md) says
   the same of "A claim with no persistent premise". [CLAIM-176](CLAIM-176.md)'s own defeater
   compares rules by drift for a given filing cost, so it treats drift and
   cost as separate axes.
-- **Cost, from the costs part ([SYNTHESIS-tmp9cgig](../syntheses.d/SYNTHESIS-tmp9cgig.md)).** [CLAIM-308](CLAIM-308.md) prices filing
+- **Cost, from the costs part ([SYNTHESIS-015](../syntheses.d/SYNTHESIS-015.md)).** [CLAIM-308](CLAIM-308.md) prices filing
   at F against an overpayment d per reconstruction. Its rule "reconstructs k
   = ⌊F/d⌋ times and files at use k + 1", and "[ADR-032](../decisions.d/ADR-032.md)'s second-occurrence rule
   is the break-even rule when F is about one reconstruction's overpayment".

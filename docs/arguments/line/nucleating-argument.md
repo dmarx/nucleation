@@ -4,7 +4,7 @@
 
 *Lines of inquiry — A named line of the record's own argument, so that a line can be set aside as a whole and what depends on it can be found. Retracting a line is a status change on its members, never a deletion (ADR-032).*
 
-**Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure, and what a project memory contributes — the record itself as the case.
+**Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure — what drifts, what anchors it, and what anchoring costs. What a record of it keeps, and the record as its own apparatus, are lines of their own (ADR-082).
 
 2 of 75 ARG documents. Back to the [full index](../README.md).
 

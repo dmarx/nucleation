@@ -1,5 +1,8 @@
 ---
+number: 12
 status: Proposed
+formerly:
+- SYNTHESIS-tmp4csi2
 title: 'The record''s grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record''s objects is Proposed; and its revision is the record''s own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds'
 version: 1
 defeated_if: >-
@@ -37,7 +40,7 @@ integrates:
 - QUESTION-366
 ---
 
-# SYNTHESIS-tmp4csi2: The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds
+# SYNTHESIS-012: The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds
 
 ## The account
 

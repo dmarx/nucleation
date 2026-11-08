@@ -1,5 +1,8 @@
 ---
+number: 14
 status: Proposed
+formerly:
+- SYNTHESIS-tmp7nvem
 title: 'In the record''s exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators'' framings, and as a whole''s course coming apart from its members'''
 version: 1
 defeated_if: >-
@@ -28,11 +31,11 @@ integrates:
 - CLAIM-189
 - QUESTION-099
 ---
-<!-- inactive-ok-file: ADR-tmpyihxy CLAIM-178 CLAIM-180 CLAIM-182 CLAIM-185 CLAIM-191 CLAIM-192 CLAIM-483 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-083 CLAIM-178 CLAIM-180 CLAIM-182 CLAIM-185 CLAIM-191 CLAIM-192 CLAIM-483 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmp7nvem: In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members'
+# SYNTHESIS-014: In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members'
 
-*A part account of the nucleating-argument line ([ADR-tmpyihxy](../decisions.d/ADR-tmpyihxy.md), version 2); the line's account is built over it and its two sibling parts.*
+*A part account of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md), version 2); the line's account is built over it and its two sibling parts.*
 
 ## The account
 
@@ -68,7 +71,7 @@ question; its body names [CLAIM-177](../claims.d/CLAIM-177.md), with [CLAIM-185]
 candidate answer.
 
 Three entries of the lines split from this one carry this line as well
-([ADR-tmpyb8vm](../decisions.d/ADR-tmpyb8vm.md), version 2), because they answer its root question or object
+([ADR-082](../decisions.d/ADR-082.md), version 2), because they answer its root question or object
 to one of its readings:
 
 - **[CLAIM-178](../claims.d/CLAIM-178.md)** (thesis, interpretive, Proposed; records-of-inquiry) answers

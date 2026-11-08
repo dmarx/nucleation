@@ -5,7 +5,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- .claude/skills/read-and-file/SKILL.md -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-tmp72iro ADR-tmpyihxy — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-tmp72iro ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
 
 # Reading and filing
 
@@ -244,7 +244,7 @@ synthesis as well.
   premises. If nothing passes, file no claim. Keep the synthesis and its
   audit in the curation entry, linked to the components.
 - **The map goes in the scope's account.** A synthesis of a line, or of a
-  part of one, revises that scope's account (a SYNTHESIS, ADR-tmpyihxy) as
+  part of one, revises that scope's account (a SYNTHESIS, ADR-083) as
   a new version, or files one where there is none:
   - every component in `integrates`, a claim filed from it among them;
   - each link attributed to the entry that states it;
