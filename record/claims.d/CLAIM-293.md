@@ -6,7 +6,13 @@ formerly:
 title: 'The topology of a support graph does not fix how a conclusion should be
   revised when one of its supports fails: two records with the same edges can carry
   evidence of different strength and call for different revisions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -15,7 +21,7 @@ tags:
 date: '2026-10-15'
 line:
 - formal-apparatus
-- nucleating-argument
+- records-of-inquiry
 objects_to:
 - CLAIM-295
 grounds:

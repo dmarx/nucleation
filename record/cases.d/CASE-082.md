@@ -6,14 +6,21 @@ formerly:
 title: 'The sufficient posterior without its history: a Bayesian agent that keeps
   only its current posterior updates as well as one that keeps everything, and cannot
   say how it got there'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: stipulated
 kind: construction
 tags:
 - probabilistic-modeling
 - epistemology
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 summary: >-
   A6's fourth case, which A6 called "probably the most important counterexample
   in the set". It grounds the redundancy half of [CLAIM-300](../claims.d/CLAIM-300.md) and one of [CLAIM-299](../claims.d/CLAIM-299.md)'s

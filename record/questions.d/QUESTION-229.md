@@ -12,14 +12,21 @@ formerly:
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: 'Does the critical delay of a delayed random Lotka–Volterra community still fall with diversity when self-regulation is weak and interactions set the leading eigenvalue, is its Hopf bifurcation supercritical, and is the divergent phase reported past it real under a stiff delay-equation solver?'
 
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - ecology
 - complex-systems
 date: '2026-10-20'
 
 # REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line: 'nucleating-argument'
+line:
+- records-of-inquiry
 summary: >-
   The delay-half promotion condition formerly on [THEORY-548](../theory.d/THEORY-548.md). [THEORY-548](../theory.d/THEORY-548.md)
   was narrowed and promoted on 2026-10-20 ([ADR-047](../decisions.d/ADR-047.md) v2 for the critical

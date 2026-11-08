@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpga1fv
 title: 'What is the least an evolving inquiry must retain, beyond its current conclusions and a closed belief set, which do not fix its revisions, to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -15,11 +15,17 @@ history:
     QUESTION-289, Answered by CLAIM-294, THEORY-347 and THEORY-353.
     This question keeps the least retained state for a family of
     revisions, and its shape.
+- version: 3
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - information-theory
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 refines:
 - QUESTION-003
 summary: >-

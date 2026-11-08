@@ -6,7 +6,13 @@ formerly:
 title: A state sufficient for a family of decisions under a model makes the rest
   of an inquiry's history worthless for those decisions, and it can stop being sufficient
   when a source is discredited, the model is revised or the decisions change
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -19,7 +25,7 @@ tags:
 date: '2026-10-15'
 line:
 - formal-apparatus
-- nucleating-argument
+- records-of-inquiry
 answers:
 - QUESTION-288
 grounds:

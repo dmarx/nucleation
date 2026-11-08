@@ -4,13 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpbzqyb
 title: 'Should a manuscript drawn from the record be chosen as a well-supported connected part of its argument, or as a smallest set of claims that changes what the argument can conclude, and what else must the choice preserve?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - design-rationale
 - epistemology
 - network-science
 date: '2026-10-22'
-line: nucleating-argument
+line:
+- records-of-inquiry
 summary: >-
   The owner's question at U3 of the exchange of 2026-10-22: "whether
   manuscript assembly should optimize for a well-supported connected

@@ -4,12 +4,19 @@ status: Answered
 formerly:
 - QUESTION-tmpiu50n
 title: 'Is an inquiry''s current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - information-theory
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- records-of-inquiry
 refines:
 - QUESTION-105
 summary: >-

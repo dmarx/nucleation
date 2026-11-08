@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CLAIM-tmpoe0v5
 title: 'In the record a typed relation is more constrained than either of its relata: a claim''s content is open prose, while `rests_on` fixes the scheme at both ends, has `supports` written as its converse and says what retiring its target leaves, and none of that moves when either claim''s content does; so a relation''s rigidity is a fact about the grammar, not evidence that the dependency it records is sound'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -17,7 +23,8 @@ tags:
 - epistemology
 - logic
 date: '2026-10-27'
-line: nucleating-argument
+line:
+- record-as-apparatus
 grounds:
 - CASE-131
 complements:

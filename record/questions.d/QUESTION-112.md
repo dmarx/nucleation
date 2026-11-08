@@ -5,7 +5,7 @@ formerly:
 - QUESTION-tmpzf5on
 title: How should the sufficiency of a retained state be judged when the family
   of future decisions can itself change in response to what the inquiry finds?
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -19,11 +19,17 @@ history:
     Status review of 2026-10-27 (ADR-049). A8's question, which A10
     answered, is QUESTION-288, Answered by CLAIM-300. This question
     keeps what A10 left: a decision family that changes with the inquiry.
+- version: 4
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 tags:
 - epistemology
 - mathematical-statistics
 date: '2026-10-15'
-line: nucleating-argument
+line:
+- records-of-inquiry
 summary: >-
   The owner asked at U10 to "double click" on A8's closing question: when does justificatory
   history add value beyond a sufficient current state? A10 answered that, so posed,

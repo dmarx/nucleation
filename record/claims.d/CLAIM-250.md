@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmptwfru
 title: 'What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by records-of-inquiry, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -16,7 +22,8 @@ tags:
 - design-rationale
 - epistemology
 date: '2026-10-12'
-line: nucleating-argument
+line:
+- records-of-inquiry
 works:
 - luria-nucleating-an-argument
 complements:

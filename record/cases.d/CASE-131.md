@@ -4,14 +4,21 @@ status: Active
 formerly:
 - CASE-tmp8jhbm
 title: 'The graph that asserted an inference nobody made: filing one claim as supporting another made the record''s link fixer write that the other rested on it, and the record answered by adding a relation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-07'
+  note: >-
+    Line nucleating-argument replaced by record-as-apparatus, at the split of that
+    line (ADR-tmpyb8vm). No other change.
 standing: documented
 kind: specimen
 tags:
 - design-rationale
 - epistemology
 date: '2026-10-22'
-line: nucleating-argument
+line:
+- record-as-apparatus
 illustrates:
 - CLAIM-181
 summary: >-
