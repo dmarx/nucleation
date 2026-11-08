@@ -105,7 +105,6 @@ summary: >-
   keeping the standing the status review of 2026-11-06 gave it under the
   rulings the owner delegated.
 ---
-<!-- inactive-ok-file: CLAIM-600 — Superseded by this entry, which it was -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 THEORY-1477 THEORY-1509 — Proposed; components and readings cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that moved this entry -->
 

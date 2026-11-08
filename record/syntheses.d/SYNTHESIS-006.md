@@ -81,7 +81,6 @@ summary: >-
   the status review of 2026-11-06 gave it under the rulings the owner
   delegated.
 ---
-<!-- inactive-ok-file: CLAIM-474 — Superseded by this entry, which it was -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1351 — Proposed; components and a corroborating reading, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ADR-078 ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
 

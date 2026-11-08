@@ -130,7 +130,7 @@ preserve ([QUESTION-258](../questions.d/QUESTION-258.md)).
 
 ## Links tested as claims
 
-None is filed as a claim. Each route of the test (ADR-075, step 5) was tried against the components as written.
+None is filed as a claim. Each route of the test ([ADR-075](../decisions.d/ADR-075.md), step 5) was tried against the components as written.
 
 - **Derived.** The valid inferences from the demonstrated claims and
   cases are already held. That what the record secures is not

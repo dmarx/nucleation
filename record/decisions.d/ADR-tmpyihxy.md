@@ -91,7 +91,7 @@ apart.
   - each link it states attributed to the entry that states it.
 
   It adds nothing. A link no component states goes under "Not stated on the
-  record", where filing it would be a claim's, under ADR-075's test.
+  record", where filing it would be a claim's, under [ADR-075](ADR-075.md)'s test.
 - **What shows it wrong is fidelity, not a countermodel.** Its `defeated_if`
   names:
   - a component misstated or misattributed;
@@ -100,7 +100,7 @@ apart.
 
   Its standing is its components'.
 - **It is set Current by the owner (version 3).** Version 2 forbade it,
-  under ADR-076's admission field. Under ADR-tmp72iro an account's status is
+  under [ADR-076](ADR-076.md)'s admission field. Under [ADR-tmp72iro](ADR-tmp72iro.md) an account's status is
   whether its mapping is right: Current once the owner has reviewed it,
   Proposed until then.
 - **The view lists it under its line (version 3).** `docs/current-account.md`
@@ -122,7 +122,7 @@ apart.
 - **Accounts can be built over accounts.** A line's account may integrate
   its parts' accounts. The links between parts are where something the
   parts leave open can live; such a link is filed as a claim if it passes
-  ADR-075's test (ADR-tmp72iro), and the line's account integrates the
+  [ADR-075](ADR-075.md)'s test ([ADR-tmp72iro](ADR-tmp72iro.md)), and the line's account integrates the
   claim.
 - **A line that wants several unrelated accounts is a candidate to split.**
   When a line's parts barely relate, counted by the relations among their
@@ -145,7 +145,7 @@ apart.
   without one. Nothing then catches a later synthesis that drifts from them.
 - **Admit such accounts.** A route that admits "already held" would give a
   recap the salience the admission test exists to withhold. Under
-  ADR-tmp72iro an account earns no standing at all, which is the same
+  [ADR-tmp72iro](ADR-tmp72iro.md) an account earns no standing at all, which is the same
   guard.
 - **One account per line (this decision's version 1).** That forces an
   either-or where a line holds several inquiries. Choosing one account

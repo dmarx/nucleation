@@ -2,7 +2,7 @@
 
 # SYNTHESISs with `role` `disclaimed`
 
-*Voices — Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes it, which is the status: the two vary independently, and the mismatched pairs are the information (ADR-032).*
+*Voices — Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes it, which is the status: the two vary independently, and the mismatched pairs are the information ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **Disclaimed** — something the record explicitly does not claim — "X does not establish Y" — filed so that the boundary has an address and a recurring misreading has somewhere to be pointed.
 

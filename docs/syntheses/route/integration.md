@@ -2,7 +2,7 @@
 
 # SYNTHESISs with `route` `integration`
 
-*Admission routes — How a synthesis earned its entry (ADR-075, step 5). Each route has its own test and its own kind of defeat.*
+*Admission routes — How a synthesis earned its entry ([ADR-075](../../../record/decisions.d/ADR-075.md), step 5). Each route has its own test and its own kind of defeat.*
 
 **Explanatory integration** — a dependency, mechanism or discriminating prediction the components leave open.
 

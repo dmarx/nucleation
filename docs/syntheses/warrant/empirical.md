@@ -2,7 +2,7 @@
 
 # SYNTHESISs with `warrant` `empirical`
 
-*Warrants — How a CLAIM as stated is supported, apart from whether the record accepts it (status) and in whose voice (role). Attached to the claim, never inherited along `rests_on` or `corroborates` (ADR-043).*
+*Warrants — How a CLAIM as stated is supported, apart from whether the record accepts it (status) and in whose voice (role). Attached to the claim, never inherited along `rests_on` or `corroborates` ([ADR-043](../../../record/decisions.d/ADR-043.md)).*
 
 **Empirical** — supported by observation or experiment, and scoped to that evidence.
 

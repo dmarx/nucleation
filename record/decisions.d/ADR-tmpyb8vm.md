@@ -94,7 +94,7 @@ it, which is the opposite of what a line is for.
     synthesis over them;
   - each new line gets one of its own.
 
-  Each is an account (ADR-tmp72iro). The one link between the parts that
+  Each is an account ([ADR-tmp72iro](ADR-tmp72iro.md)). The one link between the parts that
   no part states, where the line's two justifications of its coding rule
   part, is filed as a claim, which the line's account integrates.
 - **The split is not retroactive to the argument chains.** A `rests_on`

@@ -6,8 +6,8 @@ tags:
 - record
 date: '2026-11-08'
 summary: >-
-  ADR-076 gave syntheses a scheme. An entry earned a place in it by passing one of
-  ADR-075's admission routes. Asked what the admitted syntheses add, the
+  [ADR-076](ADR-076.md) gave syntheses a scheme. An entry earned a place in it by passing one of
+  [ADR-075](ADR-075.md)'s admission routes. Asked what the admitted syntheses add, the
   record's answer was one proposition each, with a credence, a voice, a
   warrant and a defeater. Those are a CLAIM's fields. The owner observed
   that such an addition should be a claim, which is atomic however many
@@ -16,30 +16,30 @@ summary: >-
   means. This decision makes SYNTHESIS the scheme of accounts only. Its
   status is whether the mapping is right. Its defeater is fidelity. It has
   no role, warrant, route or premises. Anything that adds to its components
-  is a CLAIM, filed under ADR-072's rule. ADR-075's routes become the way
+  is a CLAIM, filed under [ADR-072](ADR-072.md)'s rule. [ADR-075](ADR-075.md)'s routes become the way
   such a claim shows it has content of its own. The nine claims moved into
   the scheme are restored under their own codes, and the two syntheses
   that were never claims become new claims. A claim's `rests_on` names
-  claims only again, so the patches ADR-077 and ADR-080 made are undone.
-  It supersedes ADR-076, ADR-077 and ADR-080, and amends ADR-075, ADR-078
-  and ADR-tmpyihxy. Rejected: a field telling the two kinds apart within
+  claims only again, so the patches [ADR-077](ADR-077.md) and [ADR-080](ADR-080.md) made are undone.
+  It supersedes [ADR-076](ADR-076.md), [ADR-077](ADR-077.md) and [ADR-080](ADR-080.md), and amends [ADR-075](ADR-075.md), [ADR-078](ADR-078.md)
+  and [ADR-tmpyihxy](ADR-tmpyihxy.md). Rejected: a field telling the two kinds apart within
   one scheme; the status quo; moving the integrations to new claim codes;
   an `integrates` field on CLAIM; making accounts generated views.
 ---
 <!-- inactive-ok-file: ADR-075 ADR-076 ADR-077 ADR-078 ADR-079 ADR-080 ADR-tmpyihxy ADR-tmpyb8vm — Proposed; the decisions this supersedes or amends -->
 <!-- inactive-ok-file: SYNTHESIS-001 SYNTHESIS-002 SYNTHESIS-003 SYNTHESIS-004 SYNTHESIS-005 SYNTHESIS-006 SYNTHESIS-007 SYNTHESIS-008 SYNTHESIS-009 SYNTHESIS-010 SYNTHESIS-011 — Superseded by the claims they return to -->
 <!-- inactive-ok-file: SYNTHESIS-tmpllsy7 SYNTHESIS-tmp7nvem SYNTHESIS-tmp5p7lm SYNTHESIS-tmp9cgig — Proposed; the accounts of the demonstration -->
-<!-- inactive-ok-file: CLAIM-336 CLAIM-545 CLAIM-610 CLAIM-611 CLAIM-615 CLAIM-620 CLAIM-624 CLAIM-628 CLAIM-629 CLAIM-592 CLAIM-308 CLAIM-176 — Proposed; restored claims and the claims cited as instances -->
+<!-- inactive-ok-file: CLAIM-336 CLAIM-545 CLAIM-610 CLAIM-611 CLAIM-615 CLAIM-620 CLAIM-624 CLAIM-628 CLAIM-629 CLAIM-308 CLAIM-176 — Proposed; restored claims and the claims cited as instances -->
 
 # ADR-tmp72iro: A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again
 
 ## Context
 
-ADR-075 began from a gap in filing. An exchange's syntheses were filed as
+[ADR-075](ADR-075.md) began from a gap in filing. An exchange's syntheses were filed as
 recaps mapped to their turns, so the record "can't say what its current
 account is", and later syntheses "can't be checked for drift". It added an
 admission test, so that a source's broad summary would not gain standing as
-one more claim. ADR-076 gave syntheses a scheme. An admitted SYNTHESIS was
+one more claim. [ADR-076](ADR-076.md) gave syntheses a scheme. An admitted SYNTHESIS was
 one that had passed a route, recorded in a `route` field:
 
 - hypothesis: a case where every component holds and the integration fails;
@@ -47,39 +47,39 @@ one that had passed a route, recorded in a `route` field:
 - integration: a dependency, mechanism or prediction the components leave
   open.
 
-ADR-tmpyihxy then used the scheme's unadmitted entries for accounts held in
+[ADR-tmpyihxy](ADR-tmpyihxy.md) then used the scheme's unadmitted entries for accounts held in
 parts.
 
 The owner asked what the admitted syntheses add. Read one by one, each adds
 one proposition:
 
-- **SYNTHESIS-008, SYNTHESIS-009 and the nucleating-argument line's
-  synthesis** (SYNTHESIS-tmpllsy7) are short derivations: a third complex
+- **[SYNTHESIS-008](../syntheses.d/SYNTHESIS-008.md), [SYNTHESIS-009](../syntheses.d/SYNTHESIS-009.md) and the nucleating-argument line's
+  synthesis** ([SYNTHESIS-tmpllsy7](../syntheses.d/SYNTHESIS-tmpllsy7.md)) are short derivations: a third complex
   that decides frustration, bounds on readiness, and a regime where two
   filing rules part.
 - **The other eight are hypotheses.** Each adds an identification, a
   generalization or a claim of joint sufficiency. Admission often narrowed
-  them to one clause: SYNTHESIS-004 was admitted on one link of three.
+  them to one clause: [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md) was admitted on one link of three.
 
 Each has a credence (`status`), a voice (`role`), a warrant and a
-`defeated_if`. Those are a CLAIM's fields (ADR-032, ADR-043), and having many
+`defeated_if`. Those are a CLAIM's fields ([ADR-032](ADR-032.md), [ADR-043](ADR-043.md)), and having many
 premises does not make a claim less atomic. The owner put it so: adding a
 result or a claim should still be a claim, and the unadmitted case is the
 one true to the meaning of "synthesis".
 
 The record already shows the confusion in three ways:
 
-- **The same kind of thing is filed both ways.** CLAIM-628 and CLAIM-629,
-  results derived and checked by script, are claims. SYNTHESIS-008 and 009
-  are the same kind of result in another scheme. CLAIM-592, "one theorem
+- **The same kind of thing is filed both ways.** [CLAIM-628](../claims.d/CLAIM-628.md) and [CLAIM-629](../claims.d/CLAIM-629.md),
+  results derived and checked by script, are claims. [SYNTHESIS-008](../syntheses.d/SYNTHESIS-008.md) and 009
+  are the same kind of result in another scheme. [CLAIM-592](../claims.d/CLAIM-592.md), "one theorem
   with its proof", was refused admission and stayed a claim.
 - **The admission test repeats an existing rule.** "Valid, nontrivial, not
-  held" is ADR-072's rule for every idea: it gets a code when it has
+  held" is [ADR-072](ADR-072.md)'s rule for every idea: it gets a code when it has
   content of its own and is not already held.
 - **The claim graph was cut in two and patched back together.**
-  - Nine of the eleven admitted syntheses began as claims, and ADR-077
+  - Nine of the eleven admitted syntheses began as claims, and [ADR-077](ADR-077.md)
     had to design their move so that it changed nothing.
-  - ADR-080 let a claim's `rests_on` name a SYNTHESIS, and so the
+  - [ADR-080](ADR-080.md) let a claim's `rests_on` name a SYNTHESIS, and so the
     `argument` chain had to walk a pattern.
   - The third review found that a moved claim's objections would be
     stranded, since `objects_to` accepts only CLAIMs.
@@ -91,7 +91,7 @@ Current", is Proposed as though it were a credence, and is called
 ## Decision
 
 - **A SYNTHESIS is an account of a scope.** A scope is a line or a part of
-  one (ADR-tmpyihxy). The account:
+  one ([ADR-tmpyihxy](ADR-tmpyihxy.md)). The account:
   - names every component in `integrates`, with its voice and status in the
     body;
   - attributes each link it states to the entry that states it;
@@ -119,9 +119,9 @@ Current", is Proposed as though it were a credence, and is called
   Rejected leaves the vocabulary, since an unfaithful account is revised,
   not disbelieved. A Current account may integrate Proposed claims: its
   status vouches for the map, not for the territory.
-- **What adds to its components is a CLAIM,** filed under ADR-072's rule
+- **What adds to its components is a CLAIM,** filed under [ADR-072](ADR-072.md)'s rule
   like any other.
-  - **The routes become the test for such a claim.** ADR-075's routes
+  - **The routes become the test for such a claim.** [ADR-075](ADR-075.md)'s routes
     become the way a claim whose premises are claims shows it has content
     of its own: a separating case, a derivation or a discriminating
     prediction. The case or derivation goes in its body, under
@@ -137,14 +137,14 @@ Current", is Proposed as though it were a credence, and is called
     body, defeater, role and warrant as a new version, and the synthesis's
     premises as its `rests_on`. Standing is kept: Current becomes Active,
     and Proposed stays Proposed.
-  - **The two that were never claims are filed new.** SYNTHESIS-008 and
-    SYNTHESIS-009 become new claims.
+  - **The two that were never claims are filed new.** [SYNTHESIS-008](../syntheses.d/SYNTHESIS-008.md) and
+    [SYNTHESIS-009](../syntheses.d/SYNTHESIS-009.md) become new claims.
   - **Each synthesis is Superseded by its claim,** and the relations
     pointing at it are repointed to the claim: an ARG's `concludes`, a
     CASE's `illustrates`, a claim's `rests_on` and `corroborates`, and a
     reading's `corroborates`.
 - **A claim's premises are claims again.**
-  - **The ADR-080 patch is undone.** `rests_on` and `corroborates` on CLAIM
+  - **The [ADR-080](ADR-080.md) patch is undone.** `rests_on` and `corroborates` on CLAIM
     and THEORY name CLAIMs only. The `argument` chain walks `rests_on`
     directly, and the pattern `rests_on_claim` is removed.
   - **The objection gap closes.** A claim that adds to its premises can
@@ -167,27 +167,27 @@ Current", is Proposed as though it were a credence, and is called
 - **The current-account view** sets out each line's accounts, Current
   first, with each component's live standing. It lists the lines that have
   no account.
-- **The review (ADR-078) changes arms.**
+- **The review ([ADR-078](ADR-078.md)) changes arms.**
   - **Arm A** looks for claims that are accounts: claims that add nothing
     beyond their components. The account supersedes such a claim, and the
     claims resting on it are repointed to what it rested on.
   - **Arm B** looks for integrations held in parts. If one passes the test
     above, it is filed as a CLAIM. Either way, the scope's account records
     where the link is stated.
-  - **Coverage** is ADR-tmpyihxy's: one account per scope.
+  - **Coverage** is [ADR-tmpyihxy](ADR-tmpyihxy.md)'s: one account per scope.
 - **Supersedes and amends.**
-  - **Superseded:** ADR-076 (the scheme), ADR-077 (moving a claim into it)
-    and ADR-080 (`rests_on` naming a SYNTHESIS). ADR-079's derived
+  - **Superseded:** [ADR-076](ADR-076.md) (the scheme), [ADR-077](ADR-077.md) (moving a claim into it)
+    and [ADR-080](ADR-080.md) (`rests_on` naming a SYNTHESIS). [ADR-079](ADR-079.md)'s derived
     converses are unaffected.
-  - **Amended, ADR-075:** its step 5 now applies to filing a claim, and
+  - **Amended, [ADR-075](ADR-075.md):** its step 5 now applies to filing a claim, and
     steps 1 to 4 apply to accounts and to a source's syntheses as before.
-  - **Amended, ADR-078:** the review's arms, as above.
-  - **Amended, ADR-tmpyihxy:** an account is no longer "unadmitted", and it
+  - **Amended, [ADR-078](ADR-078.md):** the review's arms, as above.
+  - **Amended, [ADR-tmpyihxy](ADR-tmpyihxy.md):** an account is no longer "unadmitted", and it
     can be Current.
-- **Demonstration (ADR-071).** This decision ships with its first
+- **Demonstration ([ADR-071](ADR-071.md)).** This decision ships with its first
   application:
   - the eleven syntheses return to CLAIM;
-  - the nucleating-argument line's synthesis, SYNTHESIS-tmpllsy7, is split
+  - the nucleating-argument line's synthesis, [SYNTHESIS-tmpllsy7](../syntheses.d/SYNTHESIS-tmpllsy7.md), is split
     in two. Its derivation becomes a claim. The synthesis itself becomes
     the line's account over its three part accounts and that claim.
 
@@ -197,14 +197,14 @@ Current", is Proposed as though it were a credence, and is called
   integration | account`). This was proposed first. It keeps two kinds of
   entry in one scheme, with fields one kind requires and the other forbids,
   which is the admission and route arrangement over again. It also leaves
-  the claim graph cut in two, so ADR-080's patch and the objection gap
+  the claim graph cut in two, so [ADR-080](ADR-080.md)'s patch and the objection gap
   stay.
 - **The status quo.** Every move into the scheme needs repointing, every
   dependency needs a pattern, and the objection gap needs a `dialectic`
   pattern of its own. The accounts keep a status vocabulary written for
   credences.
 - **Moving the integrations to new claim codes.** That gives one
-  proposition three codes (for example CLAIM-474, then SYNTHESIS-006, then
+  proposition three codes (for example [CLAIM-474](../claims.d/CLAIM-474.md), then [SYNTHESIS-006](../syntheses.d/SYNTHESIS-006.md), then
   a third). Restoring keeps the code that readers and other entries already
   cite, and the history notes record the round trip.
 - **An `integrates` field on CLAIM,** so that claims which integrate can

@@ -2,7 +2,7 @@
 
 # SYNTHESISs with `role` `granted`
 
-*Voices — Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes it, which is the status: the two vary independently, and the mismatched pairs are the information (ADR-032).*
+*Voices — Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes it, which is the status: the two vary independently, and the mismatched pairs are the information ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **Granted** — a point that cuts against a thesis and that the record accepts; the thesis has to be stated so that it survives it. A granted claim that is not Active is incoherent.
 

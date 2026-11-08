@@ -2,7 +2,7 @@
 
 # SYNTHESISs with `warrant` `demonstrated`
 
-*Warrants — How a CLAIM as stated is supported, apart from whether the record accepts it (status) and in whose voice (role). Attached to the claim, never inherited along `rests_on` or `corroborates` (ADR-043).*
+*Warrants — How a CLAIM as stated is supported, apart from whether the record accepts it (status) and in whose voice (role). Attached to the claim, never inherited along `rests_on` or `corroborates` ([ADR-043](../../../record/decisions.d/ADR-043.md)).*
 
 **Demonstrated** — follows from stated premises, definitions or a construction, and licenses the conclusion under them. A theorem whose interpretation is disputed is demonstrated and Proposed.
 
