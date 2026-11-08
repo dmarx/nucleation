@@ -58,7 +58,7 @@ history:
   date: '2026-11-08'
   note: >-
     Restored from SYNTHESIS-011 (version 1) at the decision that a
-    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    SYNTHESIS is an account (ADR-084), as its demonstration: what
     the synthesis added to its premises is one claim. Title, body,
     defeater, role, warrant, tags, lines, grounds, terms and bears_on
     are the synthesis's; its premises are `rests_on`, each synthesis
@@ -125,7 +125,7 @@ summary: >-
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
-*Returned to CLAIM from [SYNTHESIS-011](../syntheses.d/SYNTHESIS-011.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+*Returned to CLAIM from [SYNTHESIS-011](../syntheses.d/SYNTHESIS-011.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
 *Moved from CLAIM-336, where its development up to version 7 is recorded.*
 

@@ -2,7 +2,7 @@
 
 # How the claims changed
 
-15 lines, walked from `supersedes:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+15 lines, walked from `supersedes_claim` (`(c:CLAIM)-[:supersedes]->(p:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From What fundamentally distinguishes variations of a translation is the frame from which it is delivered
 

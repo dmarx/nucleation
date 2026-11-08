@@ -30,7 +30,7 @@ history:
   date: '2026-11-08'
   note: >-
     The syntheses this pointed at returned to CLAIM at the decision that
-    a SYNTHESIS is an account (ADR-tmp72iro), so `rests_on` names
+    a SYNTHESIS is an account (ADR-084), so `rests_on` names
     CLAIM-336 for SYNTHESIS-011. No other change.
 role: thesis
 warrant: interpretive

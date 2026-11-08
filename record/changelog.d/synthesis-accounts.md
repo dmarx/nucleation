@@ -1,13 +1,13 @@
 ### Added
 
-- [ADR-tmp72iro](record/decisions.d/ADR-tmp72iro.md) (Proposed): a SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own. Whatever adds to its components is a CLAIM.
+- [ADR-084](record/decisions.d/ADR-084.md) (Proposed): a SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own. Whatever adds to its components is a CLAIM.
   - It supersedes [ADR-076](record/decisions.d/ADR-076.md), [ADR-077](record/decisions.d/ADR-077.md) and [ADR-080](record/decisions.d/ADR-080.md).
   - It amends [ADR-075](record/decisions.d/ADR-075.md), [ADR-078](record/decisions.d/ADR-078.md) and [ADR-083](record/decisions.d/ADR-083.md), which is now at version 3.
 - Two lint rules, both failing the build: `current_account_on_superseded_claim` and `current_account_on_superseded_account`. An account in force must follow its components' revisions.
 - New claims, filed from the syntheses that were never claims:
-  - [CLAIM-tmpt8x7l](record/claims.d/CLAIM-tmpt8x7l.md), the met-or-quiet complex (from [SYNTHESIS-008](record/syntheses.d/SYNTHESIS-008.md));
-  - [CLAIM-tmpupm3q](record/claims.d/CLAIM-tmpupm3q.md), the records' bounds on readiness (from [SYNTHESIS-009](record/syntheses.d/SYNTHESIS-009.md));
-  - [CLAIM-tmp476gw](record/claims.d/CLAIM-tmp476gw.md), where the two justifications of the coding rule part. This was version 2 of the nucleating-argument line's synthesis.
+  - [CLAIM-631](record/claims.d/CLAIM-631.md), the met-or-quiet complex (from [SYNTHESIS-008](record/syntheses.d/SYNTHESIS-008.md));
+  - [CLAIM-632](record/claims.d/CLAIM-632.md), the records' bounds on readiness (from [SYNTHESIS-009](record/syntheses.d/SYNTHESIS-009.md));
+  - [CLAIM-630](record/claims.d/CLAIM-630.md), where the two justifications of the coding rule part. This was version 2 of the nucleating-argument line's synthesis.
 
 ### Changed
 
@@ -21,7 +21,7 @@
 - **A claim's `rests_on` and `corroborates`, and a reading's `corroborates`, name claims only again.**
   - The `argument` chain walks `rests_on` directly.
   - The `revisions` chain walks the new pattern `supersedes_claim`.
-- **[SYNTHESIS-016](record/syntheses.d/SYNTHESIS-016.md) is now the nucleating-argument line's account** (version 3), over its three part accounts and [CLAIM-tmp476gw](record/claims.d/CLAIM-tmp476gw.md).
+- **[SYNTHESIS-016](record/syntheses.d/SYNTHESIS-016.md) is now the nucleating-argument line's account** (version 3), over its three part accounts and [CLAIM-630](record/claims.d/CLAIM-630.md).
 - **The five other accounts from the line-accounts work** drop their claim fields and their "unadmitted" wording.
 - **The current-account view** sets out each line's accounts, and lists the lines with no account.
 - **Skills and scripts:**

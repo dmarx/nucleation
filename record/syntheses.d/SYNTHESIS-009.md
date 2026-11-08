@@ -9,13 +9,13 @@ history:
 - version: 2
   date: '2026-11-08'
   note: >-
-    Superseded by CLAIM-tmpupm3q, the claim its content returns to, at
-    the decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    Superseded by CLAIM-632, the claim its content returns to, at
+    the decision that a SYNTHESIS is an account (ADR-084). What it
     added to its components is one claim. Its claim fields (role,
     warrant, admission, route, premises, grounds and terms) leave this
-    entry with the scheme's, and are on CLAIM-tmpupm3q.
+    entry with the scheme's, and are on CLAIM-632.
 superseded_by:
-- CLAIM-tmpupm3q
+- CLAIM-632
 defeated_if: >-
   An error in the derivation: marginal probabilities for which the
   probability that every capacity holds lies outside

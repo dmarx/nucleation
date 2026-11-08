@@ -1,12 +1,15 @@
 ---
+number: 631
 status: Proposed
+formerly:
+- CLAIM-tmpt8x7l
 title: 'Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all'
 version: 1
 history:
 - version: 1
   date: '2026-11-08'
   note: >-
-    Filed at the decision that a SYNTHESIS is an account (ADR-tmp72iro),
+    Filed at the decision that a SYNTHESIS is an account (ADR-084),
     as its demonstration: SYNTHESIS-008, version 1, was a derived
     result, one claim, and returns to CLAIM under a code of its own.
     Title, body, defeater, role, warrant, lines and bears_on are the
@@ -66,9 +69,9 @@ summary: >-
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that filed this entry -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed, the owner's; used only for the scalar corollary -->
 
-# CLAIM-tmpt8x7l: Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
+# CLAIM-631: Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
 
-*Returned to CLAIM from [SYNTHESIS-008](../syntheses.d/SYNTHESIS-008.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+*Returned to CLAIM from [SYNTHESIS-008](../syntheses.d/SYNTHESIS-008.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
 *Filed at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) as an opportunity: [QUESTION-131](../questions.d/QUESTION-131.md) had several in-force answers and no entry stating what they add up to.*
 

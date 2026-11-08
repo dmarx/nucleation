@@ -5,7 +5,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- .claude/skills/read-and-file/SKILL.md -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-tmp72iro ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-084 ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
 
 # Reading and filing
 
@@ -223,7 +223,7 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **File what it adds as a claim, or nothing** (ADR-tmp72iro). A synthesis
+- **File what it adds as a claim, or nothing** (ADR-084). A synthesis
   is two things: a map of its components, and whatever it adds to them.
   What it adds is filed as a CLAIM only if it passes one of three routes
   (ADR-075, step 5), and the claim's body says which, under "Admission":

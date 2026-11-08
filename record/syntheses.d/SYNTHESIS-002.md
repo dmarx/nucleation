@@ -21,7 +21,7 @@ history:
   date: '2026-11-08'
   note: >-
     Superseded by CLAIM-624, the claim its content returns to, at the
-    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    decision that a SYNTHESIS is an account (ADR-084). What it
     added to its components is one claim. Its claim fields (role,
     warrant, admission, route, premises, grounds and terms) leave this
     entry with the scheme's, and are on CLAIM-624.

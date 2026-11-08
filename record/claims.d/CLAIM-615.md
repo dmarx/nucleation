@@ -36,7 +36,7 @@ history:
   date: '2026-11-08'
   note: >-
     Restored from SYNTHESIS-001 (version 1) at the decision that a
-    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    SYNTHESIS is an account (ADR-084), as its demonstration: what
     the synthesis added to its premises is one claim. Title, body,
     defeater, role, warrant, tags, lines, grounds, terms and bears_on
     are the synthesis's; its premises are `rests_on`, each synthesis
@@ -111,7 +111,7 @@ summary: >-
 
 # CLAIM-615: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
 
-*Returned to CLAIM from [SYNTHESIS-001](../syntheses.d/SYNTHESIS-001.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+*Returned to CLAIM from [SYNTHESIS-001](../syntheses.d/SYNTHESIS-001.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
 *Moved from CLAIM-615, where its development up to version 3 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 

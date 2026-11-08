@@ -36,7 +36,7 @@ history:
   date: '2026-11-08'
   note: >-
     The syntheses this pointed at returned to CLAIM at the decision that
-    a SYNTHESIS is an account (ADR-tmp72iro), so `corroborates` names
+    a SYNTHESIS is an account (ADR-084), so `corroborates` names
     CLAIM-600 for SYNTHESIS-010. No other change.
 role: thesis
 warrant: interpretive

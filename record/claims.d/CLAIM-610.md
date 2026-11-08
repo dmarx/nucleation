@@ -27,7 +27,7 @@ history:
   date: '2026-11-08'
   note: >-
     Restored from SYNTHESIS-004 (version 3) at the decision that a
-    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    SYNTHESIS is an account (ADR-084), as its demonstration: what
     the synthesis added to its premises is one claim. Title, body,
     defeater, role, warrant, tags, lines, grounds, terms and bears_on
     are the synthesis's; its premises are `rests_on`, each synthesis
@@ -91,7 +91,7 @@ summary: >-
 
 # CLAIM-610: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
 
-*Returned to CLAIM from [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+*Returned to CLAIM from [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
 *Moved from CLAIM-610, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 

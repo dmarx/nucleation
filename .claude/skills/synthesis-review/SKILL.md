@@ -1,16 +1,16 @@
 ---
 name: synthesis-review
-description: A periodic review of the record's accounts - that each line, or part of one, has a SYNTHESIS that maps it faithfully; that claims which only map their components become accounts; and that integrations whose parts the record holds are filed as claims when they add something. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-078 holds the invariants; ADR-075 the audit and the test for a claim whose premises are claims; ADR-tmp72iro what a SYNTHESIS is; ADR-083 coverage.
+description: A periodic review of the record's accounts - that each line, or part of one, has a SYNTHESIS that maps it faithfully; that claims which only map their components become accounts; and that integrations whose parts the record holds are filed as claims when they add something. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-078 holds the invariants; ADR-075 the audit and the test for a claim whose premises are claims; ADR-084 what a SYNTHESIS is; ADR-083 coverage.
 ---
 <!-- .claude/skills/synthesis-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-078 ADR-075 ADR-tmp72iro ADR-083 ADR-082 — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-078 ADR-075 ADR-084 ADR-083 ADR-082 — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Synthesis review
 
 A SYNTHESIS is an account of a scope of the record's argument: a line, or a
 part of one. It names every component, attributes each link to the entry
 that states it, and adds nothing. Whatever adds to its components is a CLAIM
-(ADR-tmp72iro). A synthesis review looks across the record and asks three
+(ADR-084). A synthesis review looks across the record and asks three
 questions:
 
 - **Coverage.** Does each line, or each major part of one, have an account?

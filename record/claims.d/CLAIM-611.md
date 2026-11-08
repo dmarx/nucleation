@@ -26,7 +26,7 @@ history:
   date: '2026-11-08'
   note: >-
     Restored from SYNTHESIS-003 (version 1) at the decision that a
-    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    SYNTHESIS is an account (ADR-084), as its demonstration: what
     the synthesis added to its premises is one claim. Title, body,
     defeater, role, warrant, tags, lines, grounds, terms and bears_on
     are the synthesis's; its premises are `rests_on`, each synthesis
@@ -100,7 +100,7 @@ summary: >-
 
 # CLAIM-611: When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
 
-*Returned to CLAIM from [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+*Returned to CLAIM from [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
 *Moved from CLAIM-611, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 

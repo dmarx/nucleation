@@ -9,13 +9,13 @@ history:
 - version: 2
   date: '2026-11-08'
   note: >-
-    Superseded by CLAIM-tmpt8x7l, the claim its content returns to, at
-    the decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    Superseded by CLAIM-631, the claim its content returns to, at
+    the decision that a SYNTHESIS is an account (ADR-084). What it
     added to its components is one claim. Its claim fields (role,
     warrant, admission, route, premises, grounds and terms) leave this
-    entry with the scheme's, and are on CLAIM-tmpt8x7l.
+    entry with the scheme's, and are on CLAIM-631.
 superseded_by:
-- CLAIM-tmpt8x7l
+- CLAIM-631
 defeated_if: >-
   An error in the derivation: attainable arrangements, acceptance sets and
   quiet regions for which a set outside the met-or-quiet complex has an

@@ -27,7 +27,7 @@ history:
   date: '2026-11-08'
   note: >-
     Restored from SYNTHESIS-007 (version 1) at the decision that a
-    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    SYNTHESIS is an account (ADR-084), as its demonstration: what
     the synthesis added to its premises is one claim. Title, body,
     defeater, role, warrant, tags, lines, grounds, terms and bears_on
     are the synthesis's; its premises are `rests_on`, each synthesis
@@ -90,7 +90,7 @@ summary: >-
 
 # CLAIM-545: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-*Returned to CLAIM from [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+*Returned to CLAIM from [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
 *Moved from CLAIM-545, where its development up to version 2 is recorded, at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)). Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 

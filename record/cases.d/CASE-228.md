@@ -17,7 +17,7 @@ history:
   date: '2026-11-08'
   note: >-
     The syntheses this pointed at returned to CLAIM at the decision that
-    a SYNTHESIS is an account (ADR-tmp72iro), so `illustrates` names
+    a SYNTHESIS is an account (ADR-084), so `illustrates` names
     CLAIM-624 for SYNTHESIS-002. No other change.
 standing: fictional
 kind: construction

@@ -19,16 +19,16 @@ history:
 - version: 3
   date: '2026-11-08'
   note: >-
-    At the decision that a SYNTHESIS is an account (ADR-tmp72iro), as its
+    At the decision that a SYNTHESIS is an account (ADR-084), as its
     demonstration. Version 2 was a derivation, one claim, admitted as the
-    line's synthesis; it is now CLAIM-tmp476gw. This entry is the line's account
+    line's synthesis; it is now CLAIM-630. This entry is the line's account
     over its three part accounts and that claim: it maps them and adds
     nothing. Role, warrant, admission, route and premises leave with the
     scheme's fields; the title and defeater are an account's.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the line that no part account integrates; or a
-  link stated here that neither a part account, a component nor CLAIM-tmp476gw
+  link stated here that neither a part account, a component nor CLAIM-630
   states.
 tags:
 - design-rationale
@@ -40,7 +40,7 @@ integrates:
 - SYNTHESIS-014
 - SYNTHESIS-013
 - SYNTHESIS-015
-- CLAIM-tmp476gw
+- CLAIM-630
 - CLAIM-176
 - CLAIM-177
 - CLAIM-185
@@ -56,15 +56,15 @@ summary: >-
   and the costs of anchoring ([SYNTHESIS-015](SYNTHESIS-015.md)). They meet at
   [ADR-032](../decisions.d/ADR-032.md)'s rule for when to code an argument, which the anchors part
   justifies by drift ([CLAIM-176](../claims.d/CLAIM-176.md)) and the costs part by effort
-  ([CLAIM-308](../claims.d/CLAIM-308.md)). Where the two justifications part is [CLAIM-tmp476gw](../claims.d/CLAIM-tmp476gw.md)'s, a
+  ([CLAIM-308](../claims.d/CLAIM-308.md)). Where the two justifications part is [CLAIM-630](../claims.d/CLAIM-630.md)'s, a
   derivation in the assistant's voice. The account adds nothing of its
   own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-082 ADR-083 ADR-tmp72iro CLAIM-176 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-tmp476gw SYNTHESIS-012 SYNTHESIS-013 SYNTHESIS-014 SYNTHESIS-015 SYNTHESIS-017 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-082 ADR-083 ADR-084 CLAIM-176 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-303 CLAIM-308 CLAIM-630 SYNTHESIS-012 SYNTHESIS-013 SYNTHESIS-014 SYNTHESIS-015 SYNTHESIS-017 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-016: The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear
 
-*The account of the nucleating-argument line, over the accounts of its three parts ([ADR-083](../decisions.d/ADR-083.md)). Version 1 was the account of the whole line before it was split ([ADR-082](../decisions.d/ADR-082.md)). Version 2 was a derivation filed as the line's synthesis; it is now [CLAIM-tmp476gw](../claims.d/CLAIM-tmp476gw.md) ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)).*
+*The account of the nucleating-argument line, over the accounts of its three parts ([ADR-083](../decisions.d/ADR-083.md)). Version 1 was the account of the whole line before it was split ([ADR-082](../decisions.d/ADR-082.md)). Version 2 was a derivation filed as the line's synthesis; it is now [CLAIM-630](../claims.d/CLAIM-630.md) ([ADR-084](../decisions.d/ADR-084.md)).*
 
 ## The parts
 
@@ -88,7 +88,7 @@ The rule has two justifications on the record, one from each side.
   rule files at use ⌊F/d⌋ + 1, and is [ADR-032](../decisions.d/ADR-032.md)'s rule when filing costs
   about one reconstruction's overpayment. [CLAIM-303](../claims.d/CLAIM-303.md) prices reusing a stale
   filed argument.
-- **Where they part, [CLAIM-tmp476gw](../claims.d/CLAIM-tmp476gw.md)** (Proposed, the assistant's derivation): the two
+- **Where they part, [CLAIM-630](../claims.d/CLAIM-630.md)** (Proposed, the assistant's derivation): the two
   coincide for d ≤ F < 2d and part from F ≥ 2d, and [CLAIM-308](../claims.d/CLAIM-308.md)'s guarantee
   prices none of the drift between them. It is the one link between the
   parts that no part account states, and it is filed as a claim, not here.
