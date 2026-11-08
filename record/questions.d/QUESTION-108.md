@@ -6,19 +6,27 @@ formerly:
 title: When a structured record does better than a summary, a transcript or a posterior
   on revision tasks, is it because it retains more, because what it retains is easier
   to reach, or because the operations a reviser needs are easier to perform on it?
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-tmpyb8vm). No other change.
+- version: 3
+  date: '2026-11-08'
+  note: >-
+    Carries nucleating-argument again beside its new line, at ADR-
+    tmpyb8vm's rule (version 2): an entry the split moved keeps the old
+    line when it answers, refines or objects to one of that line's
+    entries, and it refines QUESTION-038. No other change.
 tags:
 - epistemology
 - design-rationale
 date: '2026-10-15'
 line:
 - records-of-inquiry
+- nucleating-argument
 refines:
 - QUESTION-038
 summary: >-

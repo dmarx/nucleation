@@ -27,6 +27,8 @@ integrates:
 - QUESTION-201
 - QUESTION-397
 - CASE-183
+- CLAIM-181
+- QUESTION-108
 - ARG-028
 ---
 <!-- inactive-ok-file: ADR-tmpyihxy ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
@@ -66,6 +68,20 @@ integrates:
   counted on 2026-11-06, and almost every code is cited; turns per filed
   entry are uncounted. [ARG-028](../arguments.d/ARG-028.md) (Proposed): measures counted in the record's
   grammar cannot by themselves certify that drift fell.
+
+Two entries of the lines split from this one carry this line as well
+(ADR-tmpyb8vm, version 2):
+
+- **CLAIM-181** (counter, interpretive, Proposed; record-as-apparatus)
+  objects to CLAIM-176: the record fixes the grammar an argument is
+  expressed in, so a move that fits no scheme or relation is forced into
+  one or lost until the grammar is amended. Its evidence includes
+  literature roles that "recurred" and stay in prose, because ADR-032
+  gave them no role to be coded in.
+- **QUESTION-108** (Open; records-of-inquiry) refines QUESTION-038: when a
+  structured record does better on revision tasks, is it because it
+  retains more, because what it keeps is easier to reach, or because the
+  reviser's operations are easier to perform on it?
 
 ## Links tested as claims
 

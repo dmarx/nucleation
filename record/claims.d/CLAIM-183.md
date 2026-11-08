@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpors2p
 title: 'Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -18,6 +18,14 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-tmpyb8vm). No other change.
+- version: 4
+  date: '2026-11-08'
+  note: >-
+    Carries nucleating-argument again beside its new line, at ADR-
+    tmpyb8vm's rule (version 2): an entry the split moved keeps the old
+    line when it answers, refines or objects to one of that line's
+    entries, and it answers QUESTION-037, the line's root question. No
+    other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -30,6 +38,7 @@ tags:
 date: '2026-10-11'
 line:
 - record-as-apparatus
+- nucleating-argument
 works:
 - luria-nucleating-an-argument
 answers:
