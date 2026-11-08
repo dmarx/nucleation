@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split'
+title: 'An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components''; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split'
 version: 3
 history:
 - version: 2
