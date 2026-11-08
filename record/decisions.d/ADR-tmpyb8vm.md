@@ -105,10 +105,10 @@ it, which is the opposite of what a line is for.
   line's entries, because it is then part of that line's argument and
   should go with it if the line is set aside. An entry that only rests on
   or uses one drops it: it depends on the line from outside, and the
-  argument chain reports the step across lines. Five keep it: CLAIM-178
-  and CLAIM-183 answer QUESTION-037, CLAIM-189 objects to CLAIM-191,
-  CLAIM-181 objects to CLAIM-176, and QUESTION-108 refines QUESTION-038.
-  CLAIM-476 rests on CLAIM-195 and TERM-095 complements TERM-056, so both
+  argument chain reports the step across lines. Five keep it: [CLAIM-178](../claims.d/CLAIM-178.md)
+  and [CLAIM-183](../claims.d/CLAIM-183.md) answer [QUESTION-037](../questions.d/QUESTION-037.md), [CLAIM-189](../claims.d/CLAIM-189.md) objects to [CLAIM-191](../claims.d/CLAIM-191.md),
+  [CLAIM-181](../claims.d/CLAIM-181.md) objects to [CLAIM-176](../claims.d/CLAIM-176.md), and [QUESTION-108](../questions.d/QUESTION-108.md) refines [QUESTION-038](../questions.d/QUESTION-038.md).
+  [CLAIM-476](../claims.d/CLAIM-476.md) rests on [CLAIM-195](../claims.d/CLAIM-195.md) and [TERM-095](../terms.d/TERM-095.md) complements [TERM-056](../terms.d/TERM-056.md), so both
   drop it. No relation points from the line into the moved entries.
 - **Each line gets its synthesis** ([ADR-tmpyihxy](ADR-tmpyihxy.md), version 2):
   - nucleating-argument gets one for each of its three parts, and a line

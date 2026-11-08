@@ -68,20 +68,20 @@ question; its body names [CLAIM-177](../claims.d/CLAIM-177.md), with [CLAIM-185]
 candidate answer.
 
 Three entries of the lines split from this one carry this line as well
-(ADR-tmpyb8vm, version 2), because they answer its root question or object
+([ADR-tmpyb8vm](../decisions.d/ADR-tmpyb8vm.md), version 2), because they answer its root question or object
 to one of its readings:
 
-- **CLAIM-178** (thesis, interpretive, Proposed; records-of-inquiry) answers
-  QUESTION-037 and rests on CLAIM-177 and CLAIM-324: a manuscript drafted
+- **[CLAIM-178](../claims.d/CLAIM-178.md)** (thesis, interpretive, Proposed; records-of-inquiry) answers
+  [QUESTION-037](../questions.d/QUESTION-037.md) and rests on [CLAIM-177](../claims.d/CLAIM-177.md) and [CLAIM-324](../claims.d/CLAIM-324.md): a manuscript drafted
   straight from an exchange drops commitments and changes its thesis without
   saying so, which shows only against a record that keeps status and
   inclusion apart.
-- **CLAIM-183** (thesis, empirical, Proposed; record-as-apparatus) answers
-  QUESTION-037: generated views fed back into the exchange show where its
+- **[CLAIM-183](../claims.d/CLAIM-183.md)** (thesis, empirical, Proposed; record-as-apparatus) answers
+  [QUESTION-037](../questions.d/QUESTION-037.md): generated views fed back into the exchange show where its
   terms evolved faster than its formalism.
-- **CLAIM-189** (counter, interpretive, Proposed; records-of-inquiry)
-  objects to CLAIM-191: fidelity is the wrong measure of a developing
-  argument, since maturing drops and changes things legitimately (TERM-052),
+- **[CLAIM-189](../claims.d/CLAIM-189.md)** (counter, interpretive, Proposed; records-of-inquiry)
+  objects to [CLAIM-191](../claims.d/CLAIM-191.md): fidelity is the wrong measure of a developing
+  argument, since maturing drops and changes things legitimately ([TERM-052](../terms.d/TERM-052.md)),
   so what a record can secure is traceability.
 
 ## Links tested as claims
