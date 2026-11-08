@@ -5,11 +5,8 @@ formerly:
 - SYNTHESIS-tmpnakke
 title: 'What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make'
 version: 1
-role: thesis
-admission: unadmitted
-warrant: interpretive
 defeated_if: >-
-  As an account, not by a route: a component misstated or misattributed
+  A component misstated or misattributed
   here; an in-force component whose line is records-of-inquiry left out
   without a reason given; or a link this account states that no component
   states. Its standing is its components': a component retired or demoted
@@ -46,34 +43,6 @@ integrates:
 - QUESTION-258
 - QUESTION-288
 - QUESTION-289
-premises:
-- CLAIM-189
-- CLAIM-250
-- CLAIM-293
-- CLAIM-294
-- CLAIM-295
-- CLAIM-299
-- CLAIM-300
-bears_on:
-- QUESTION-105
-- QUESTION-108
-- QUESTION-112
-- QUESTION-258
-summary: >-
-  The records-of-inquiry line's account, restated from its components so
-  that it has an address: traceable change, not preservation, as what a
-  record of a developing argument can secure ([CLAIM-189](../claims.d/CLAIM-189.md)), over its
-  accountability structure ([CLAIM-250](../claims.d/CLAIM-250.md)); A's demonstrated results that
-  current conclusions and support topology do not fix revisions
-  ([CLAIM-294](../claims.d/CLAIM-294.md), [CLAIM-293](../claims.d/CLAIM-293.md)), that a sufficient state makes history redundant
-  while it stays sufficient ([CLAIM-300](../claims.d/CLAIM-300.md)), and that sufficiency,
-  accountability and correctness come apart ([CLAIM-299](../claims.d/CLAIM-299.md)); and what kept
-  justifications can buy ([CLAIM-295](../claims.d/CLAIM-295.md)). Unadmitted: no route passes, since
-  each link it states is already stated in a component's body, summary
-  or notes. Of its 8 CLAIMs 4 are Active (the demonstrated ones) and 4
-  Proposed, among them both normative proposals. The wording is the
-  assistant's (Claude, in this session); it states what the record holds
-  and adds nothing to it; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-189 CLAIM-250 CLAIM-191 CLAIM-295 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as A6 cited it -->
@@ -162,9 +131,9 @@ preserve ([QUESTION-258](../questions.d/QUESTION-258.md)).
   line cites it or is cited by it; it is listed because its `line` field
   places it here.
 
-## Admission
+## Links tested as claims
 
-Not admitted. Each route was tried against the components as written.
+None is filed as a claim. Each route of the test ([ADR-075](../decisions.d/ADR-075.md), step 5) was tried against the components as written.
 
 - **Derived.** The valid inferences from the demonstrated claims and
   cases are already held. That what the record secures is not

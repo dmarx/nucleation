@@ -54,7 +54,7 @@ summary: >-
   official side withdraws. What it says of Ostrom (1996), [LIT-2140](../literature.d/LIT-2140.md),
   is his summary, not hers.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2140 — Unavailable, Proposed or new; cited from the reading of Evans (1996) as open -->
 

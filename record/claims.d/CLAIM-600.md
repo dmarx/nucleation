@@ -1,10 +1,10 @@
 ---
 number: 600
-status: Superseded
+status: Active
 formerly:
 - CLAIM-tmpc3x0c
-title: "Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it"
-version: 4
+title: 'Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -70,26 +70,39 @@ history:
     scheme at the synthesis review of 2026-11-07 (ADR-078), keeping its
     standing (ADR-077). Corrections are marked there; the content here is
     unchanged, and the claim is kept so that what cites it still resolves.
+- version: 5
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-010 (version 1) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Current becoming Active. The synthesis's own history stays on
+    SYNTHESIS-010.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A case of support that met the conditions, a self-sustaining process
-  on an available flux started by support large enough to pass its
-  threshold, a removed threat, and work the supported party could do and
-  did throughout, in each subtask it must later do alone, at an effort it
-  could bear, and, for a cumulative capacity in a fast-moving field, kept
-  up after withdrawal, with standing inputs still supplied, whose withdrawal
-  still brought decline within a turnover; or support that failed one of them, as supply that
-  does the upkeep, supply against a persisting threat or supply that
-  substitutes for the party's work, after whose withdrawal the party
-  nonetheless persisted through a turnover by a feedback that keeps it
-  going, not by slow return toward a single steady state; or evidence
-  across such cases
-  that the damage done by substitutive support does not grow with its
-  length. Not defeated by a single case in which chance or a change of
-  conditions decides the outcome.
-superseded_by:
-- SYNTHESIS-010
+  A case of support that met the conditions, judged before withdrawal from
+  what the support did and what the party was seen to do: a self-
+  sustaining process on an available flux started by support large enough
+  to pass its threshold, a removed threat, and work the supported party
+  could do and did throughout, in each subtask it must later do alone, at
+  an effort it could bear, and, for a cumulative capacity in a fast-moving
+  field, kept up after withdrawal, with the standing inputs named before
+  withdrawal still supplied, whose withdrawal still brought decline within
+  a turnover; or support that failed one of them, as supply that does the
+  upkeep, supply against a persisting threat or supply that substitutes
+  for the party's work, after whose withdrawal the party nonetheless
+  persisted through a turnover by a feedback that keeps it going, not by
+  slow return toward a single steady state. A subtask or standing input
+  named only after a decline does not save it. Not defeated by a single
+  case in which chance or a change of conditions decides the outcome. Also
+  defeated as a claim of its own if it only restates CLAIM-597's
+  supplied upkeep, CLAIM-604's thresholds, CLAIM-602's substitution and
+  CLAIM-566's separable regeneration, saying nothing of when their
+  conditions jointly suffice.
 tags:
 - complex-systems
 - ecology
@@ -122,39 +135,67 @@ summary: >-
   proposed as cases. It draws together the branch's three domains: DNA
   origami, aid and development, and ecology. Three conditions decide it.
   First, the support starts a self-sustaining process on an ambient flux
-  instead of doing the upkeep. Planted tree islands, weeded for 2.5
-  years, kept their advantage to 16–18 years because established trees
-  keep drawing seed dispersers (Holl et al.; Schubert et al.). Supplied
-  repair, by contrast, never becomes optional ([CLAIM-597](CLAIM-597.md)). Second, the
-  threat it stood in for is gone. Conservation-reliant species stay
-  reliant while fire is suppressed or habitat threats persist (Mussmann
-  et al.; Brown et al.). Third, the party did the work throughout.
-  Support that does the work wears capacity down by disuse
-  ([CLAIM-558](CLAIM-558.md)), by slack effort (Ostrom et al.) or by selection for the
-  supported conditions, which costs hatchery steelhead fitness in the wild
-  within one generation (Christie et al.). Captive-bred translocated
-  stock shows negative population growth (Morris et al.). Persistence
-  must be shown after withdrawal: impact at exit and judged success both
-  overstate it. Revised the same day after two counterpoints the owner
-  asked for. Evidence against the lazy-poor stereotype finds no slack
-  effort in poor households: cash transfers barely change work, and
-  one-off graduation packages raise it. So that route is confined to help
-  that is assured and permanent. A household asset threshold (Balboni et
-  al.) adds a condition on size: support too small decays with no
-  dependence at all. Urban development adds three cautions. Some public
-  inputs are a standing part of a coproduced service (Evans; Watson).
-  Forty years of persistence can be slow reversion (Kline and Moretti).
-  And a place can last while the people it served are dispersed
-  (Collins and Shester; LaVoice). The wording is the assistant's
-  (Claude, in this session); adopting it is the owner's call.
+  instead of doing the upkeep. Planted tree islands, weeded for 2.5 years,
+  kept their advantage to 16–18 years because established trees keep
+  drawing seed dispersers (Holl et al.; Schubert et al.). Supplied repair,
+  by contrast, never becomes optional ([CLAIM-597](CLAIM-597.md)). Second, the threat it
+  stood in for is gone. Conservation-reliant species stay reliant while
+  fire is suppressed or habitat threats persist (Mussmann et al.; Brown et
+  al.). Third, the party did the work throughout. Support that does the
+  work wears capacity down by disuse ([CLAIM-558](CLAIM-558.md)), by slack effort (Ostrom
+  et al.) or by selection for the supported conditions, which costs
+  hatchery steelhead fitness in the wild within one generation (Christie
+  et al.). Captive-bred translocated stock shows negative population
+  growth (Morris et al.). Persistence must be shown after withdrawal:
+  impact at exit and judged success both overstate it. Revised the same
+  day after two counterpoints the owner asked for. Evidence against the
+  lazy-poor stereotype finds no slack effort in poor households: cash
+  transfers barely change work, and one-off graduation packages raise it.
+  So that route is confined to help that is assured and permanent. A
+  household asset threshold (Balboni et al.) adds a condition on size:
+  support too small decays with no dependence at all. Urban development
+  adds three cautions. Some public inputs are a standing part of a
+  coproduced service (Evans; Watson). Forty years of persistence can be
+  slow reversion (Kline and Moretti). And a place can last while the
+  people it served are dispersed (Collins and Shester; LaVoice). The
+  wording is the assistant's (Claude, in this session); adopting it is the
+  owner's call. Moved into the SYNTHESIS scheme on 2026-11-07 ([ADR-077](../decisions.d/ADR-077.md)),
+  keeping the standing the status review of 2026-11-06 gave it under the
+  rulings the owner delegated.
 ---
-<!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
-<!-- inactive-ok-file: LIT-2213 LIT-2212 — Unavailable; registered by the medicine filing, cited as open -->
-<!-- inactive-ok-file: LIT-2221 LIT-2220 — Unavailable; registered by the state-aid filing, cited as open -->
-<!-- inactive-ok-file: LIT-2225 — Unavailable; registered by the assistance filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-603 NOTE-1680 — Proposed, Skimmed or new; claims and a reading that corroborate this synthesis, cited as open -->
+<!-- inactive-ok-file: CLAIM-603 CLAIM-606 THEORY-1477 THEORY-1509 — Proposed; components and readings cited with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that moved this entry -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
+
+*Returned to CLAIM from [SYNTHESIS-010](../syntheses.d/SYNTHESIS-010.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-600, where its development up to version 3 is recorded.*
+
+## The integration
+
+Across ecology, aid and development, and medicine, the same few conditions,
+judged before withdrawal, decide whether ending transient support is safe:
+the support started a self-sustaining process on a lasting flux and carried
+the party past that process's threshold; the threat it stood in for is
+gone; and the party did each part of the work itself, at a bearable effort.
+Lasting inputs stay as a standing part of the arrangement, and only
+persistence through a turnover after withdrawal shows which case held.
+
+- [CLAIM-597](CLAIM-597.md) (the assistant's, Active): supplied upkeep never becomes
+  optional. Premise.
+- [CLAIM-604](CLAIM-604.md) (the assistant's, Active): dependence on a flux against
+  dependence on a provider, and the threshold. Premise.
+- [CLAIM-602](CLAIM-602.md) (the assistant's, Active): support that substitutes for the
+  party's work lengthens recovery. Premise.
+- [CLAIM-566](CLAIM-566.md) (A's, Active): regeneration is a further step. Premise.
+- [CLAIM-558](CLAIM-558.md) (Active) and [CLAIM-603](CLAIM-603.md) (Proposed): disuse and slack effort as
+  routes to decay.
+- [CLAIM-605](CLAIM-605.md) (Active): the deadline. [CLAIM-606](CLAIM-606.md) (Proposed): slow reversion.
+
+No premise states the joint sufficiency. The threat condition and the
+turnover test come from readings (Mussmann et al., Brown et al., Schröder
+et al.), not from premises.
 
 ## The three conditions
 
@@ -355,9 +396,48 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   - Of the ecology, the captive-rearing result rests on one pedigree. The nucleation result rests on one experiment, and the conservation-reliance cases are three species.
   - Several key originals were read only through neighbours: Scott et al. 2010, Araki et al. 2007, Corbin and Holl 2012, Suding et al. 2004 and Rogers and Coates 2015.
 
+## Admission
+
+Admitted at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) by [ADR-075](../decisions.d/ADR-075.md)'s
+hypothesis route.
+
+**The case.** A village water scheme. Residents built it and did every
+listed maintenance subtask throughout, at a bearable load. The trunk supply
+and the spare-parts market, named before withdrawal as standing inputs, stay
+supplied. The drought it was installed against has ended, and the scheme is
+past its break-even scale. The founding NGO withdraws its field officer.
+Nobody listed the officer as an input, but the monthly visit was what made
+each household's contribution to the repair fund common knowledge.
+Contributions unravel, and the scheme fails within one replacement cycle of
+its pumps. Every premise holds and none of their defeaters is met: no part
+is supplied from outside ([CLAIM-597](CLAIM-597.md)), there is no model error and capacity
+was kept by doing ([CLAIM-604](CLAIM-604.md), [CLAIM-602](CLAIM-602.md)), and regeneration's probabilities
+stay separate ([CLAIM-566](CLAIM-566.md)). The integration fails.
+
+**The free parameter, closed.** "Inputs the party cannot produce" and "each
+subtask it must later do alone" could absorb any decline after the fact:
+whatever withdrawal removed was either work the party could have done or a
+standing input. Read so, the sufficiency clause is analytic. The conditions
+are therefore judged before withdrawal, and the defeater says so.
+
+## Correction at the move (2026-11-07)
+
+- **The conditions are judged, and standing inputs named, before
+  withdrawal,** as above.
+- **The defeater's clause "or evidence across such cases that the damage
+  done by substitutive support does not grow with its length" is removed.**
+  It defended the first version's "deepens with its length", which the
+  revision of 2026-11-05 dropped from the title; the body notes it "is not
+  shown for support in general".
+
 ## What it does not say
 
 - **Not yet in the title:** that an available flux is used only in proportion to the party's own capacity to use it (Griffith et al., [NOTE-1709](../notes.d/NOTE-1709.md)), and that early withholding of help is not safe by default (Koedinger and Aleven, [NOTE-1708](../notes.d/NOTE-1708.md)).
+
+- **Added at the move:** how support is withdrawn, taper or cut
+  ([CLAIM-605](CLAIM-605.md)); withdrawal at failure, the hardest case (Bainbridge, read
+  through [NOTE-1713](../notes.d/NOTE-1713.md)); and steady against erratic aid of the same mean
+  (Knack, [NOTE-1707](../notes.d/NOTE-1707.md)).
 
 ## What it adds
 

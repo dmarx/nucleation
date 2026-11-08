@@ -47,7 +47,7 @@ summary: >-
   not identify the traits selected, does not show crowding is the
   pressure (one year), and does not say other taxa respond as fast.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Christie et al. (2012) as open -->
 

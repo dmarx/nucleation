@@ -4,13 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmpqa0qu
 title: "A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
+- version: 3
+  date: '2026-11-08'
+  note: >-
+    The syntheses this pointed at returned to CLAIM at the decision that
+    a SYNTHESIS is an account (ADR-tmp72iro), so `corroborates` names
+    CLAIM-600 for SYNTHESIS-010. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -72,7 +78,7 @@ summary: >-
   for self-reliance. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
 

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj10k0
 title: 'The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston''s self-confirming sampling the model''s authority-to-interpretation arrow and his agent a coupled loop run without independent scoring'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -26,6 +26,12 @@ history:
     CLAIM-336, which this claim rests on, moved into the SYNTHESIS scheme as
     SYNTHESIS-011 at the synthesis review of 2026-11-07; `rests_on` now
     names the synthesis (ADR-080). No other change.
+- version: 5
+  date: '2026-11-08'
+  note: >-
+    The syntheses this pointed at returned to CLAIM at the decision that
+    a SYNTHESIS is an account (ADR-tmp72iro), so `rests_on` names
+    CLAIM-336 for SYNTHESIS-011. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,7 +53,7 @@ line:
 - pragmatic-transport
 rests_on:
 - CLAIM-297
-- SYNTHESIS-011
+- CLAIM-336
 grounds:
 - LIT-1181
 - CASE-099

@@ -2,15 +2,16 @@
 # run: python3 -I scratch/formal/synthesis_candidates.py [--top N]
 """Stage 1 of a synthesis review is mechanical: it ranks places where an
 integration may be hiding. It decides nothing. Stage 2, the audit and the
-admission test of ADR-tmpe7y42, is judgement and is done by reading.
+test of ADR-075 step 5 for a claim whose premises are claims, is judgement
+and is done by reading (ADR-tmp72iro: a SYNTHESIS is an account).
 
-Arm A, migration candidates: CLAIMs that may be syntheses filed as claims.
+Arm A, CLAIMs that may be accounts: claims that may only map their components.
   signals: premises (rests_on) spanning lines; premises that are themselves
   theses; the word "synthesis" or an account-shaped summary; a curation entry
   that says it filed a synthesis as a claim.
 
-Arm B, unpersisted opportunities: integrations the record holds the parts of
-but no entry states.
+Arm B, integrations held in parts: links the record holds the parts of but
+no entry states, to be filed as claims if they add something.
   B1 complements clusters: `complements` means "answers a different part of
      the same question", so a connected cluster of three to twelve in-force
      claims within one line is a synthesis in waiting (across lines the
@@ -20,8 +21,8 @@ but no entry states.
   B3 deep rests_on chains (depth >= 3) ending in an in-force thesis that no
      synthesis integrates.
 
-Anything a SYNTHESIS already integrates is dropped from Arm B, and a CLAIM a
-SYNTHESIS supersedes is dropped from Arm A.
+Anything an account in force (Current or Proposed) already integrates is
+dropped from Arm B.
 """
 import collections
 import re
@@ -51,16 +52,14 @@ def lst(v):
 
 def main(top):
     claims, questions, syns = load("claims.d"), load("questions.d"), load("syntheses.d")
-    integrated = {c for s in syns.values() for c in lst(s.get("integrates"))}
-    superseded_into_syn = {c for s in syns.values() for c in lst(s.get("supersedes"))}
+    integrated = {c for s in syns.values() if s.get("status") in ("Current", "Proposed")
+                  for c in lst(s.get("integrates"))}
     live = {c: d for c, d in claims.items() if d.get("status") in ("Active", "Proposed")}
     line_of = {c: set(lst(d.get("line"))) for c, d in claims.items()}
 
     # ---- Arm A
     a_rows = []
     for c, d in live.items():
-        if c in superseded_into_syn:
-            continue
         prem = [p for p in lst(d.get("rests_on")) if p in claims]
         lines = set().union(*(line_of.get(p, set()) for p in prem)) | line_of[c]
         thesis_prem = [p for p in prem if claims[p].get("role") == "thesis"]
@@ -129,7 +128,7 @@ def main(top):
                      and depth(c) >= 3), reverse=True)
 
     print(f"# Synthesis candidates (stage 1, mechanical)\n\nclaims {len(claims)}, live {len(live)}, syntheses {len(syns)}\n")
-    print(f"## Arm A: CLAIMs that may be syntheses ({len(a_rows)} with >=3 premises across >=2 lines; top {top})\n")
+    print(f"## Arm A: CLAIMs that may be accounts ({len(a_rows)} with >=3 premises across >=2 lines; top {top})\n")
     for r in a_rows[:top]:
         print(f"- {r[1]} [{r[2]}] score {r[0]}: {r[3]} premises, lines {', '.join(r[4])}, account-words {r[5]}: {r[6]}")
     print(f"\n## Arm B1: complements clusters of 3-12 claims within one line, unintegrated ({len(clusters)}; top {top}, by edges)\n")

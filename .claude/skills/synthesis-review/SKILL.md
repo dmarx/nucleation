@@ -1,131 +1,143 @@
 ---
 name: synthesis-review
-description: A periodic review of the record for synthesis opportunities - CLAIMs that are syntheses filed as claims and should move into the SYNTHESIS scheme, and integrations whose parts the record holds but no entry states. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-078 holds the invariants; ADR-075 the audit and admission test it applies; ADR-076 the scheme it files into.
+description: A periodic review of the record's accounts - that each line, or part of one, has a SYNTHESIS that maps it faithfully; that claims which only map their components become accounts; and that integrations whose parts the record holds are filed as claims when they add something. Use it when the owner asks for a synthesis review or a current-account refresh, at a status review, or after a run of filings in one line. ADR-078 holds the invariants; ADR-075 the audit and the test for a claim whose premises are claims; ADR-tmp72iro what a SYNTHESIS is; ADR-083 coverage.
 ---
 <!-- .claude/skills/synthesis-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-078 ADR-075 ADR-076 — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-078 ADR-075 ADR-tmp72iro ADR-083 ADR-082 — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Synthesis review
 
-A synthesis review looks across the record, not at one source. It asks two
+A SYNTHESIS is an account of a scope of the record's argument: a line, or a
+part of one. It names every component, attributes each link to the entry
+that states it, and adds nothing. Whatever adds to its components is a CLAIM
+(ADR-tmp72iro). A synthesis review looks across the record and asks three
 questions:
 
-- **Arm A, migration.** Which CLAIMs are syntheses filed as claims, and
-  should move into the SYNTHESIS scheme?
-- **Arm B, opportunity.** Where does the record hold the parts of an
-  integration that no entry states?
+- **Coverage.** Does each line, or each major part of one, have an account?
+  Is each account faithful to its components as they now stand?
+- **Arm A, claims that are accounts.** Which CLAIMs only map their
+  components, and so are accounts filed as claims?
+- **Arm B, integrations held in parts.** Where does the record hold the
+  parts of a link that no entry states? Does that link add enough to be
+  filed as a claim?
 
-The review files nothing it cannot admit. Most candidates turn out to be
-atomic claims, or integrations already exhausted by their components, and
-the review says so and moves on. The salience a SYNTHESIS entry gives has
-to be earned (ADR-075, step 5).
+An account earns no standing, so filing one needs no admission. A claim
+does. ADR-075's test (step 5) is how a claim whose premises are claims
+shows it has content of its own. Most Arm B candidates turn out to be
+stated already in a component's body or notes. Then the account records
+where, and nothing new is filed.
 
 ## 1. Stage 1: rank candidates mechanically
 
 Run `python3 -I scratch/formal/synthesis_candidates.py --top 12`. It reads
 the record and ranks four kinds of candidate. It decides nothing.
 
-- **A: CLAIMs that may be syntheses.** These are claims whose premises
+- **A: CLAIMs that may be accounts.** These are claims whose premises
   (`rests_on`) number three or more and span two or more lines, scored up
   for premises that are themselves theses and for account-shaped wording.
 - **B1: `complements` clusters.** These are three to twelve in-force claims
   within one line, joined by `complements`, which means "answers a
   different part of the same question".
-- **B2: open questions** with three or more unintegrated answers or
-  bearings across lines.
+- **B2: open questions** with three or more answers or bearings across
+  lines.
 - **B3: deep chains.** These are Active theses at `rests_on` depth three or
-  more that no synthesis integrates.
+  more.
 
 Add by hand what the script cannot see:
 
-- syntheses that curation entries record as left;
-- syntheses the owner asked for, which the workbench entries record;
-- integrations the owner has named.
-
-Entries a SYNTHESIS already integrates or supersedes are out of scope.
+- the lines and parts of lines with no account (the current-account view
+  lists them last);
+- accounts whose components have been revised since the account was
+  written;
+- integrations that curation entries record as left;
+- integrations the owner asked for or named, which the workbench entries
+  record.
 
 ## 2. Stage 2: shortlist
 
-Take the strongest candidates, a dozen at most, across both arms. Prefer
-in-force components to Proposed ones. An integration of Proposed claims is
-Proposed at best. Prefer lines the current-account view does not yet
-cover. Drop a candidate whose components are mostly one entry's
-restatements.
+Take the strongest candidates, a dozen at most, across the arms. Prefer
+in-force components to Proposed ones. Prefer lines the current-account view
+lists as having no account. Drop a candidate whose components are mostly
+one entry's restatements. A claim whose body has an "Admission" section has
+been tested already; leave it unless its premises have changed since.
 
 ## 3. Stage 3: audit each shortlisted candidate
 
 For each, read the candidate and every component in full. A reader's
-brief states the tests neutrally: it does not say how earlier rounds came
-out, or ask for strictness or leniency. Then:
+brief states the tests neutrally. It does not say how earlier rounds came
+out, and it does not ask for strictness or leniency. Then:
 
-- **State the integrating claim in one sentence, apart from its
-  components.** If no such sentence can be written, the candidate is not a
-  synthesis. For Arm A it is an atomic claim and stays a CLAIM. Say so.
-- **Run ADR-075's five checks:**
+- **Run ADR-075's checks:**
   - attribution: whose each component is;
-  - coverage: what the integration leaves out that the record holds;
+  - coverage: what the scope's account leaves out that the record holds;
   - fidelity: whether each component is stated rightly;
   - standing: each component's status;
-  - integration: what it claims beyond the components.
-- **Run the admission test, and say which route it passed:**
-  - *hypothesis*: a coherent case in which every component holds and the
-    integration fails;
-  - *derived*: a valid, nontrivial inference no claim holds;
-  - *integration*: a dependency, mechanism or prediction the components
-    leave open.
+  - integration: what is claimed beyond the components.
+- **State in one sentence what the candidate adds to its components.** If
+  no such sentence can be written, it adds nothing, and it belongs in an
+  account.
+- **Test that sentence as a claim** (ADR-075, step 5). It has content of
+  its own if it passes one of three routes:
+  - *a separating case*: a coherent case in which every premise holds (no
+    premise's `defeated_if` is met) and the sentence fails;
+  - *a derivation*: a valid, nontrivial inference no claim already holds;
+  - *a discriminating prediction*: a dependency, mechanism or outcome the
+    components leave open.
+- **Check a realistic separating case against the claim.** If the case is
+  not stipulated and could plainly occur, check it against the claim's own
+  `defeated_if`. Such a case shows the claim is separate from its
+  premises, and it may also show the claim is false. Say which it does.
+- **Watch for a free parameter.** A word that absorbs every case ("a
+  declared bearer", "relevant") makes the test pass trivially. Close it
+  before testing, or the candidate fails.
 
 ## 4. Stage 4: act on the verdict
 
-- **Arm A, admitted.** File a SYNTHESIS carrying the claim's title, body
-  and defeater, with `admission: admitted`, its route, its role, every
-  component in `integrates` and its premises in `premises`. Carry its
-  `grounds` and `uses` unchanged (a reading's `corroborates` comes with it,
-  being stored on the reading), and keep its standing
-  (ADR-077): an Active claim becomes Current, a Proposed one stays
-  Proposed, and a Deferred or Rejected one is not moved. Set the CLAIM to
-  Superseded by it. Then audit the relations pointing at the CLAIM:
-  - repoint those that describe the current account (an ARG's `concludes`,
-    a CASE's `illustrates`, a reading's `corroborates`, a synthesis's
-    `integrates` and `premises`, and a claim's `rests_on`, which may name a
-    synthesis (ADR-080));
-  - leave those that record history;
-  - leave `complements` until dmarx/luria#358 is fixed.
-- **Arm A, not admitted.** It stays a CLAIM. Record the verdict.
-- **Arm B, admitted.** File a new SYNTHESIS, Proposed. The integration is
-  the reviewer's, so its summary ends: "The integration's wording is the
-  assistant's (Claude, in this session); adopting it is the owner's call."
-  Its components keep their own voices, named in the body.
-- **Arm B, not admitted because the record already holds the
-  integration** (stated in a component's body or notes), on a line, or a
-  major part of one, with no admitted synthesis: file or revise that line's
-  **line account** (ADR-083). This is an unadmitted SYNTHESIS that
-  restates the account as the record holds it:
-  - every component in `integrates`, with voice and status in the body;
+- **The scope's account comes first.** For each scope the shortlist
+  touches, file its account, or revise the one there is as a new version.
+  There is one account per scope (ADR-083). The account is a
+  SYNTHESIS, Proposed:
+  - every component in `integrates`, with its voice and status in the body;
   - each link it states attributed to the entry that states it;
   - nothing added. A link no component states goes under "Not stated on
-    the record".
-
-  It has no `route`, and its `defeated_if` is fidelity: a component
-  misstated, an in-force component left out, or a link no component
-  states. There is one account per scope, a line or a part of one; revise
-  the one there is as a new version.
+    the record";
+  - `defeated_if` is fidelity: a component misstated or misattributed, an
+    in-force component of the scope left out, or a link no component
+    states.
 - **When a line's account falls into parts,** give each part its own
-  synthesis, tested for admission on its own, and make the line's synthesis
-  one over them, with the part syntheses as `premises`. The links between
-  parts are where an integration the parts leave open can live, so test the
-  line's synthesis for admission separately.
+  account, and make the line's account one over them, with the part
+  accounts in `integrates`.
 - **When the parts barely relate,** run
   `python3 -I scratch/formal/line_parts.py --sections <the account>`, or
-  with the part syntheses as arguments. If two or more parts are mostly
-  closed (most of their relations inside, little pointing in), report the
-  line as a candidate to split. The split is a decision about the lines
-  vocabulary, for the owner (ADR-082 is the first). Do not force one
-  account over parts that do not hang together.
-- **Arm B, not admitted for any other reason** (a free parameter, a
-  component stated wrongly, a contradiction): file nothing. Record the
-  candidate and the reason.
-- **Never set a new synthesis Current.** Adoption is the owner's; only a
-  move carries Current, from a claim that was Active.
+  run it with the part accounts as arguments. If two or more parts are
+  mostly closed (most of their relations inside, little pointing in),
+  report the line as a candidate to split. The split is a decision about
+  the lines vocabulary, for the owner (ADR-082 is the first). Do not
+  force one account over parts that do not hang together.
+- **Arm A: the claim adds nothing.** It fails ADR-072's rule as a claim.
+  Fold its mapping into its scope's account, and set the claim to
+  Superseded by that account. Then repoint every claim's `rests_on` that
+  named it to the premises it rested on, with a history note on each.
+- **Arm A: the claim adds something.** It stays a CLAIM. Its scope's
+  account integrates it. If the test turned up a separating case or a
+  derivation the claim lacks, add it to the claim's body under
+  "Admission".
+- **Arm B: the link passes the test.** File it as a new CLAIM, Proposed,
+  with its premises in `rests_on`, and the case or derivation in its body
+  under "Admission". The link is the reviewer's, so the summary ends: "The
+  wording is the assistant's (Claude, in this session); adopting it is the
+  owner's call." Its scope's account integrates it.
+- **Arm B: the link is already stated.** File nothing new. The account
+  records which entry states it.
+- **Arm B: the link fails for another reason** (a free parameter, a
+  component stated wrongly, a contradiction). Record the candidate and the
+  reason. If the account names the link, it goes under "Not stated on the
+  record".
+- **Never set an account Current.** Setting one Current says its mapping
+  has been reviewed by the owner. A Current account must integrate no
+  Superseded claim or account; lint enforces this
+  (`current_account_on_superseded_claim`,
+  `current_account_on_superseded_account`).
 
 File the ARGs that step 10 of `read-and-file` requires: support that is
 load-bearing or contested.
@@ -136,12 +148,11 @@ Write a curation entry, "Synthesis review of DATE", with four parts:
 
 - **the ranking**: the stage-1 output's top rows, and what was added by
   hand;
-- **the shortlist and verdicts**: one row per candidate, giving its arm, its
-  integrating sentence, whether and by which route it was admitted, and the
-  code filed or the reason not;
-- **relations repointed**, for each migration;
-- **what the current-account view now shows**: lines covered by an
-  admitted synthesis, lines with only a line account, and lines with
-  neither.
+- **the shortlist and verdicts**: one row per candidate, giving its arm,
+  the sentence it adds, whether it passed and by which route, and the code
+  filed or the reason not;
+- **accounts filed or revised**, and relations repointed;
+- **what the current-account view now shows**: the lines with an account,
+  and the lines with none.
 
 Add a changelog fragment. One review is one contribution (ADR-071).

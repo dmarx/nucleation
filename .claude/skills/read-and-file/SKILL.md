@@ -5,8 +5,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- .claude/skills/read-and-file/SKILL.md -->
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-076 — Proposed; the SYNTHESIS scheme, step 9b, until the owner adopts it -->
-<!-- inactive-ok-file: CLAIM-545 — Proposed; the legacy synthesis CLAIM step 9b names -->
+<!-- inactive-ok-file: ADR-tmp72iro ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
 
 # Reading and filing
 
@@ -208,11 +207,12 @@ synthesis as well.
   thesis. A thesis is distinct when it integrates a different set of
   components or makes a different integrating claim.
 - **Classify** each distinct thesis:
-  - *descriptive*: it says what the record holds. Audit it, don't file
-    it;
-  - *supposed*: conditional on hypotheses holding. File it with role
-    `supposed`;
-  - *proposed*: it puts an account forward. File it with role `thesis`.
+  - *descriptive*: it says what the record holds. Audit it, and use it to
+    file or revise the scope's account;
+  - *supposed*: conditional on hypotheses holding. What it adds is a claim
+    with role `supposed`;
+  - *proposed*: it puts an account forward. What it adds is a claim with
+    role `thesis`.
 - **Decompose.** Map each component to a code, with its status and voice.
 - **Audit each version** for:
   - **attribution**: an owner contribution told as joint, as A's, or as
@@ -223,50 +223,37 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **Admit it, or don't.** File a synthesis as a SYNTHESIS only if it passes
-  one of three routes, and say which:
-  - *independent hypothesis*: a coherent case, stipulated if need be, in
-    which every component holds (no component's own `defeated_if` met)
-    and the integrating claim is false;
-  - *derived result*: a valid, nontrivial inference from the components
+- **File what it adds as a claim, or nothing** (ADR-tmp72iro). A synthesis
+  is two things: a map of its components, and whatever it adds to them.
+  What it adds is filed as a CLAIM only if it passes one of three routes
+  (ADR-075, step 5), and the claim's body says which, under "Admission":
+  - *a separating case*: a coherent case, stipulated if need be, in which
+    every premise holds (no premise's own `defeated_if` met) and the claim
+    is false. A case that is not stipulated and could plainly occur is
+    checked against the claim's own `defeated_if` first: it may show the
+    claim false, not only separate;
+  - *a derivation*: a valid, nontrivial inference from the components
     that no CLAIM already holds. Warrant `demonstrated`; give the
-    derivation. A derivation has no such countermodel, which is why it is
-    a route of its own;
-  - *explanatory integration*: a dependency, mechanism or discriminating
-    prediction the components leave open, with the outcome that would go
-    against it.
+    derivation;
+  - *a discriminating prediction*: a dependency, mechanism or outcome the
+    components leave open, with the outcome that would go against it.
 
-  If it passes none, don't file it: keep the synthesis and its audit in
-  the curation entry, linked to the components. If a narrower sentence
-  passes where the stated one fails, file the narrower one. Watch for a
-  free parameter ("a declared bearer"): it absorbs every case, and fixing
-  it can contradict the synthesis's own premises. A SYNTHESIS filed in
-  your own unmerged contribution that passes no route is withdrawn: remove
-  the file, move its text and audit into the curation entry, and repoint
-  what cites it. A merged SYNTHESIS that loses its admission keeps its
-  file and its status, and its `admission` becomes `unadmitted`, with the
-  reason in its history. Not admitted is not a finding that it is false.
-- **File the latest version of each admitted thesis** as one SYNTHESIS
-  (`luria new synthesis`; ADR-076), Proposed, with `admission:
-  admitted`, `route` set to the route it passed, a `role`, and every
-  component in `integrates`. The
-  current-account view derives each component's standing from that
-  field, so a component left out of it is invisible there:
-  - the title states the integrating claim;
-  - the body gives the layers, each with its codes, voice and status,
-    and the audit's corrections marked as corrections;
-  - `premises` holds the components that are premises; components that
-    only illustrate go in `integrates` alone;
-  - `defeated_if` states what would defeat it by its route (the case,
-    the error in the derivation, or the outcome), and the objection that
-    it only restates its components;
-  - earlier versions are listed in the body.
-- **Revise, don't duplicate.** Where a SYNTHESIS for the account is held,
-  revise it as a new version. Where only a legacy synthesis CLAIM holds it
-  (filed before ADR-076, such as CLAIM-545), file the revision as a
-  SYNTHESIS and set the CLAIM to Superseded by it, its history kept on the
-  CLAIM. Then repoint the relations that describe the current account to
-  the SYNTHESIS, and leave those that record history.
+  If a narrower sentence passes where the stated one fails, file the
+  narrower one. Watch for a free parameter ("a declared bearer"): it
+  absorbs every case, and fixing it can contradict the synthesis's own
+  premises. If nothing passes, file no claim. Keep the synthesis and its
+  audit in the curation entry, linked to the components.
+- **The map goes in the scope's account.** A synthesis of a line, or of a
+  part of one, revises that scope's account (a SYNTHESIS, ADR-083) as
+  a new version, or files one where there is none:
+  - every component in `integrates`, a claim filed from it among them;
+  - each link attributed to the entry that states it;
+  - nothing added;
+  - `defeated_if` is fidelity: a component misstated, an in-force
+    component left out, or a link no component states.
+
+  The account is Proposed. The owner sets it Current once its mapping is
+  reviewed.
 - **Account for it.** The curation entry gets a section, "Syntheses
   audited": each synthesis, its classification, what was filed or why
   not, and the findings by check.

@@ -1,5 +1,5 @@
 # scratch/formal/line_parts.py
-"""How a line's parts relate: the signal for splitting a line (ADR-tmpyihxy).
+"""How a line's parts relate: the signal for splitting a line (ADR-083).
 
 Counts the relations among the components of a line's parts, part by part,
 so that a review can see whether the parts hang together or are separate

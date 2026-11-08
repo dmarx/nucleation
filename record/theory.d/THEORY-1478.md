@@ -47,7 +47,7 @@ summary: >-
   soft-release result runs against the abstract of Resende et al. (2021),
   [LIT-2173](../literature.d/LIT-2173.md), unread.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2173 — Unavailable; cited from the reading of Morris et al. (2021) as open -->
 

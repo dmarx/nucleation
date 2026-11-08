@@ -41,7 +41,7 @@ summary: >-
   The sharp edges: a single-sex model whose ceiling density dependence builds in
   that population tracks habitat, with no scenario ending the supply.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Brown et al. (2019) as open -->
 

@@ -2,7 +2,7 @@
 
 # SYNTHESISs with `role` `counter`
 
-*Voices — Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes it, which is the status: the two vary independently, and the mismatched pairs are the information (ADR-032).*
+*Voices — Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes it, which is the status: the two vary independently, and the mismatched pairs are the information ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **Counter** — put forward on an opponent's behalf, at full strength — a steelman, or an objection anticipated as devil's advocate. A counter that goes Active means the record was persuaded, and the thesis it opposed needs revisiting.
 

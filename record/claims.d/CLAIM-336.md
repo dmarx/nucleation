@@ -1,10 +1,10 @@
 ---
 number: 336
-status: Superseded
+status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-21'
@@ -54,18 +54,32 @@ history:
     scheme at the synthesis review of 2026-11-07 (ADR-078), keeping its
     standing (ADR-077). Corrections are marked there; the content here is
     unchanged, and the claim is kept so that what cites it still resolves.
+- version: 9
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-011 (version 1) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Proposed becoming Proposed. The synthesis's own history stays on
+    SYNTHESIS-011.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A phenomenon central to one line that the model cannot express without a
-  component the other line lacks and the operator model does not have:
-  for example, a fidelity result that needs the interpreter's state to be
-  fixed while it judges, or a will-organization result that needs
-  regimes to act without passing through any shared state. Or the mapping
-  shown to be relabelling only: the two lines, so mapped, make no joint
-  prediction that either makes alone (QUESTION-088's test of compression).
-superseded_by:
-- SYNTHESIS-011
+  component the other line lacks and the operator model does not have: for
+  example, a fidelity result that needs the interpreter's state to be
+  fixed while it judges, or a will-organization result that needs regimes
+  to act without passing through any shared state. Or the mapping shown to
+  be relabelling only: on held-out compositions of context changes and
+  governance interventions, separate interpretation and governance models
+  of matched complexity and training information predict as well as the
+  joint one (QUESTION-088's test of compression; A55 §7, as ARG-065 holds
+  it). Also defeated as a claim of its own if it only places
+  CLAIM-297's model beside CLAIM-286's and CLAIM-279's regimes, saying
+  nothing of how the two lines meet.
 tags:
 - agency
 - pragmatics
@@ -87,23 +101,54 @@ uses:
 - TERM-103
 - TERM-101
 - TERM-053
+- TERM-026
+complements:
+- CLAIM-341
+- CLAIM-450
+bears_on:
+- QUESTION-088
 summary: >-
   The owner's, U2 of the exchange of 2026-10-16: the pragmatic-transport
   model and the will-organization model are "both manifestations of the
   same underlying model". The mapping is the assistant's, A6, filed at the
   owner's request ("address the still open stuff"). At U8 the owner
-  endorsed it as filed ("Yes, as filed"). It reads both lines into [CLAIM-297](CLAIM-297.md)'s operator model. The
-  sharp edge: it says the lines share one model, not that either line's
-  results transfer to the other unchanged. Each mapping is a hypothesis
-  until a result on one line is shown to hold, through it, on the other.
-complements:
-- CLAIM-341
-- CLAIM-450
+  endorsed it as filed ("Yes, as filed"). It reads both lines into
+  [CLAIM-297](CLAIM-297.md)'s operator model. The sharp edge: it says the lines share one
+  model, not that either line's results transfer to the other unchanged.
+  Each mapping is a hypothesis until a result on one line is shown to
+  hold, through it, on the other. Moved into the SYNTHESIS scheme on
+  2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)); the thesis is the owner's and the mapping the
+  assistant's, as filed.
 ---
-<!-- inactive-ok-file: ARG-065 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- inactive-ok-file: CLAIM-286 ARG-065 — Proposed; a premise and the argument that concludes this, cited with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that moved this entry -->
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
+
+*Returned to CLAIM from [SYNTHESIS-011](../syntheses.d/SYNTHESIS-011.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-336, where its development up to version 7 is recorded.*
+
+## The integration
+
+The pragmatic-transport and will-organization lines are the outside and
+inside views of one coupled meaning–influence operator model, [CLAIM-297](CLAIM-297.md)'s.
+They meet at [CLAIM-341](CLAIM-341.md)'s loop: a judgement made under a context changes the
+shared state, and through conferral it changes which operators act under
+the next context. So the joint model predicts responses to combined
+context-and-governance interventions that separate models of matched
+complexity miss. The thesis is the owner's (U2), the mapping the
+assistant's (A6), endorsed by the owner as filed at U8.
+
+- [CLAIM-297](CLAIM-297.md) (A22's, Active): the operator model. Premise.
+- [CLAIM-286](CLAIM-286.md) (A7's, Proposed): regimes as one organization's. Premise.
+- [CLAIM-279](CLAIM-279.md) (the owner's, Active): regimes as frame-relative. Premise.
+- [CLAIM-341](CLAIM-341.md) (the owner's, Active): the loop where the lines meet.
+- [CLAIM-330](CLAIM-330.md) (Active, demonstrated): the only joint result in the coupled
+  model so far. [CLAIM-450](CLAIM-450.md) (Active).
+
+None of the premises mentions pragmatic transport; how the two lines fit is
+what this entry adds.
 
 ## The claim
 
@@ -145,6 +190,37 @@ loop [CLAIM-341](CLAIM-341.md) puts at the centre, judgement reshaping the obser
 is where the two meet. A judgement under a context changes x, and through
 conferral changes w and so which operators act under the next context.
 
+## Admission
+
+Admitted at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) by [ADR-075](../decisions.d/ADR-075.md)'s
+hypothesis route, narrowly.
+
+**The case.** A population whose operators' authority is updated by their
+performance on the dominant interpretation, so [CLAIM-297](CLAIM-297.md)'s amplification
+occurs. Habit and rumination behave as regimes of the one organization,
+which a phenomenon-specific model does not beat ([CLAIM-286](CLAIM-286.md)), and each
+regime's role is relative to its frame ([CLAIM-279](CLAIM-279.md)). But the
+pragmatic-transport observables, which distinctions a receiver recovers
+from a rendering, are fixed by the receiver's state at reading time, so a
+context-response model that ignores the influence weights predicts them on
+held-out compositions, at matched complexity, exactly as well as the joint
+model. No premise's defeater is met, and the integration fails: by its own
+terms, the mapping is relabelling only.
+
+**The free parameter, closed.** With the operator model's components left
+unspecified, the defeater's first clause can be absorbed by choosing them.
+Its second clause is a real test only under A55's operationalization,
+which the defeater now states.
+
+## Correction at the move (2026-11-07)
+
+- **The defeater's second clause** is stated as the held-out test of
+  matched complexity and training information.
+- **[TERM-026](../terms.d/TERM-026.md)**, used in the table, is added to `uses`.
+- **Added to "What it does not say":** the mapping does not yet place
+  [CLAIM-220](CLAIM-220.md), the pragmatic-transport line's account of what a translation
+  must keep.
+
 ## What it does not say
 
 - It does not transfer results. Contextuality results on judgements and
@@ -159,6 +235,8 @@ conferral changes w and so which operators act under the next context.
   model is one such description.
 - The mapping was proposed by the assistant and endorsed by the owner at
   U8. The endorsement is of the mapping, not of any transfer of results.
+
+- **Added at the move:** it does not map [CLAIM-220](CLAIM-220.md).
 
 ## Note of 2026-10-21: proposed as a test, then dropped
 
@@ -223,7 +301,6 @@ untested. The claim is unchanged.
 
 ## Note of 2026-10-26: the lab held, and its later versions
 
-<!-- inactive-ok-file: CASE-164 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as what has been built, nothing here rests on them -->
 
 The Perspective Population Lab of the note of 2026-10-25 is now held:
 v1.0 as dmarx/PerspectiveLab@41e56df, and its successors at @7e2edc2

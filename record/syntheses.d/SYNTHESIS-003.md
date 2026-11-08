@@ -1,19 +1,25 @@
 ---
 number: 3
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmpg2eh2
 title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
   note: >-
     Moved from CLAIM-611 (version 2) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-611, now Superseded by this entry.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-611, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-611.
+superseded_by:
+- CLAIM-611
 defeated_if: >-
   One system whose maintaining organization is replaced by an unrelated
   one that keeps the same repertoire realizable (CLAIM-522's outside
@@ -51,16 +57,6 @@ integrates:
 - CLAIM-616
 - TERM-071
 - TERM-088
-premises:
-- CLAIM-576
-- CLAIM-025
-- CLAIM-079
-- CLAIM-567
-- CLAIM-566
-- CLAIM-522
-- CLAIM-478
-- CLAIM-625
-- CLAIM-612
 bears_on:
 - QUESTION-379
 - QUESTION-284

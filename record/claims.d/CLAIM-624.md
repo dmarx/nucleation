@@ -1,10 +1,10 @@
 ---
 number: 624
-status: Superseded
+status: Proposed
 formerly:
 - CLAIM-tmptfuky
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-07'
@@ -40,6 +40,17 @@ history:
     Superseded by SYNTHESIS-002, the same synthesis moved into the
     SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
     is kept so that what cites it still resolves.
+- version: 6
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-002 (version 2) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Proposed becoming Proposed. The synthesis's own history stays on
+    SYNTHESIS-002.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,8 +67,6 @@ defeated_if: >-
   if it only restates CLAIM-614's distinct wrong with CLAIM-445,
   CLAIM-523 and CLAIM-462. Not defeated by unavoidable blindness, which
   condition 5 excuses.
-superseded_by:
-- SYNTHESIS-002
 tags:
 - ethics
 - self-governance
@@ -76,23 +85,15 @@ complements:
 - CLAIM-545
 - CLAIM-620
 - CLAIM-472
-grounds:
-- CASE-110
-- CASE-228
-- THEORY-140
-- CASE-229
-uses:
-- TERM-064
-- TERM-020
 bears_on:
 - QUESTION-441
 - QUESTION-129
 - QUESTION-041
 summary: >-
-  A's answer to the owner's U27 and U28 in the second share of the exchange
-  "Individuation, Possibility, and Disposition" (2026-11-06 to 07): A60
-  §6 and §12 to §13, then A62 §3 and §13, one thesis in three versions,
-  filed at its latest (A62 §13) under the synthesis audit of
+  A's answer to the owner's U27 and U28 in the second share of the
+  exchange "Individuation, Possibility, and Disposition" (2026-11-06 to
+  07): A60 §6 and §12 to §13, then A62 §3 and §13, one thesis in three
+  versions, filed at its latest (A62 §13) under the synthesis audit of
   [ADR-075](../decisions.d/ADR-075.md). The question and its presupposition are the owner's
   ([CLAIM-614](CLAIM-614.md)). Most of its components are held: occlusion is
   [CLAIM-348](CLAIM-348.md) with [CASE-110](../cases.d/CASE-110.md), the reproductive structure A calls new is
@@ -100,7 +101,9 @@ summary: >-
   A's is the second-order duty of answerability, the five-condition
   criterion and the claim that the wrong does not reduce to the loss.
   Corrections are marked. The wording is A's; adopting it is the owner's
-  call.
+  call. Moved from CLAIM-624 into the SYNTHESIS scheme on
+  2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)); it was admitted as an independent
+  hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-610 CLAIM-611 CLAIM-615 — filed from the same exchange, Proposed or Deferred; cited as filed -->
@@ -108,9 +111,13 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-614 CLAIM-619 CASE-228 CLAIM-620 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->
 <!-- inactive-ok-file: CASE-229 ARG-055 — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit this filing follows -->
-<!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed or Deferred; components and boundaries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 CLAIM-545 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed, Deferred or Superseded; components and boundaries, cited with their standing -->
 
 # CLAIM-624: The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
+
+*Returned to CLAIM from [SYNTHESIS-002](../syntheses.d/SYNTHESIS-002.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-624, where its development up to version 4 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

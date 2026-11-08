@@ -2,7 +2,7 @@
 
 # SYNTHESISs with `admission` `unadmitted`
 
-*Admission — Whether a synthesis earned an entry of its own (ADR-075, step 5), judged apart from whether its integrating claim is believed, which is its status.*
+*Admission — Whether a synthesis earned an entry of its own ([ADR-075](../../../record/decisions.d/ADR-075.md), step 5), judged apart from whether its integrating claim is believed, which is its status.*
 
 **Exhausted by its components** — passed no route, or lost the one it passed; its content is held by its components, and it is kept and not refuted. The route it once held, if any, is in its history.
 

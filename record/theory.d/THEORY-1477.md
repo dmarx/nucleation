@@ -36,7 +36,7 @@ summary: >-
   minimum is cited from Zahawi & Augspurger (2006) and Holl et al. (2020),
   and it says itself that spread is rarely measured.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: LIT-2179 LIT-2145 — Unavailable; cited from the reading of Holl et al. (2024) as open -->
 

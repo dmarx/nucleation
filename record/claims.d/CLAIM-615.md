@@ -1,10 +1,10 @@
 ---
 number: 615
-status: Superseded
+status: Proposed
 formerly:
 - CLAIM-tmpcdshj
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -32,6 +32,17 @@ history:
     Superseded by SYNTHESIS-001, the same synthesis moved into the
     SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
     is kept so that what cites it still resolves.
+- version: 5
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-001 (version 1) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Proposed becoming Proposed. The synthesis's own history stays on
+    SYNTHESIS-001.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,8 +62,6 @@ defeated_if: >-
   by a community's verdict that disagrees with the transmission
   criterion, which the claim treats as a cause (CLAIM-617), not a
   criterion.
-superseded_by:
-- SYNTHESIS-001
 tags:
 - individuation
 - metaphysics
@@ -67,12 +76,6 @@ rests_on:
 - CLAIM-328
 - CLAIM-287
 - CLAIM-280
-grounds:
-- CASE-105
-- CASE-223
-uses:
-- TERM-071
-- TERM-088
 complements:
 - CLAIM-136
 bears_on:
@@ -80,20 +83,23 @@ bears_on:
 - QUESTION-118
 - QUESTION-284
 summary: >-
-  The thesis of U14 to U17 of the exchange "Individuation, Possibility, and
-  Disposition" (2026-11-06 to 07), from A32 §12 to A37's "synthesis in one
-  statement", the version filed. Much of it is the owner's. The owner
-  proposed the software product as a model of an individual (U14), PyTorch
-  and "a form of Structuralism" (U15), and the contested-succession study
-  (U16, [CASE-223](../cases.d/CASE-223.md)). A37 tells the structuralism as joint ("What sort
-  of structuralism have we arrived at?") and drops the owner's study
-  design. The integration is A's: the owner's synchronic structural realism
-  ([CLAIM-136](CLAIM-136.md)) is carried to persistence by [CLAIM-329](CLAIM-329.md)'s transmission
-  criterion, applied to what [CLAIM-611](CLAIM-611.md) says persists. Corrections
-  are marked: "fission" becomes plural succession ([CLAIM-328](CLAIM-328.md)), the owner's
-  contributions are credited, and the held entries the exchange never
-  cited are named. The integration's wording is A's, corrected by the
-  filer; adopting it is the owner's call.
+  The thesis of U14 to U17 of the exchange "Individuation, Possibility,
+  and Disposition" (2026-11-06 to 07), from A32 §12 to A37's "synthesis
+  in one statement", the version filed. Much of it is the owner's. The
+  owner proposed the software product as a model of an individual (U14),
+  PyTorch and "a form of Structuralism" (U15), and the contested-
+  succession study (U16, [CASE-223](../cases.d/CASE-223.md)). A37 tells the structuralism as
+  joint ("What sort of structuralism have we arrived at?") and drops the
+  owner's study design. The integration is A's: the owner's synchronic
+  structural realism ([CLAIM-136](CLAIM-136.md)) is carried to persistence by
+  [CLAIM-329](CLAIM-329.md)'s transmission criterion, applied to what [CLAIM-611](CLAIM-611.md)
+  says persists. Corrections are marked: "fission" becomes plural
+  succession ([CLAIM-328](CLAIM-328.md)), the owner's contributions are credited, and
+  the held entries the exchange never cited are named. The integration's
+  wording is A's, corrected by the filer; adopting it is the owner's
+  call. Moved from CLAIM-615 into the SYNTHESIS scheme on
+  2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)); it was admitted as an independent
+  hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
@@ -104,6 +110,10 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-329 CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
 
 # CLAIM-615: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
+
+*Returned to CLAIM from [SYNTHESIS-001](../syntheses.d/SYNTHESIS-001.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-615, where its development up to version 3 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

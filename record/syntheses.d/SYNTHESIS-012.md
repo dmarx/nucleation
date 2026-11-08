@@ -5,11 +5,8 @@ formerly:
 - SYNTHESIS-tmp4csi2
 title: 'The record''s grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record''s objects is Proposed; and its revision is the record''s own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds'
 version: 1
-role: thesis
-admission: unadmitted
-warrant: interpretive
 defeated_if: >-
-  As an account, not by a route: a component misstated or misattributed
+  A component misstated or misattributed
   here; an in-force component whose line is record-as-apparatus left out
   without a reason given; or a link this account states that no component
   states. Its standing is its components': a component retired or demoted
@@ -41,30 +38,6 @@ integrates:
 - TERM-095
 - QUESTION-072
 - QUESTION-366
-premises:
-- CLAIM-469
-- CLAIM-419
-- CLAIM-479
-- CLAIM-470
-bears_on:
-- QUESTION-072
-- QUESTION-366
-summary: >-
-  The record-as-apparatus line's account, restated from its components so
-  that it has an address: the record's grammar fixes what can be filed
-  and has repeatedly been amended when a misfit was noticed ([CLAIM-181](../claims.d/CLAIM-181.md),
-  [CLAIM-419](../claims.d/CLAIM-419.md)), its typed relations are rigid without being sound
-  ([CLAIM-479](../claims.d/CLAIM-479.md)), and luria is an apparatus in the operational sense
-  ([CLAIM-469](../claims.d/CLAIM-469.md)), with the constitutive reading Proposed ([CLAIM-476](../claims.d/CLAIM-476.md)); the
-  record's own grammar revisions are the case of inquiry as specification
-  ([CLAIM-470](../claims.d/CLAIM-470.md), [CASE-178](../cases.d/CASE-178.md)), which specifying under resource bounds extends
-  ([CLAIM-475](../claims.d/CLAIM-475.md)). Unadmitted: its integrations are already stated in
-  [CLAIM-469](../claims.d/CLAIM-469.md), [CLAIM-476](../claims.d/CLAIM-476.md) and [CLAIM-470](../claims.d/CLAIM-470.md)'s bodies and notes, and the one link
-  the components leave open, whether the grammar's falling rates are
-  settling or entrenchment, turns on a free parameter. Of its 9 CLAIMs 5
-  are Active and 4 Proposed. The wording is the assistant's (Claude, in
-  this session); it states what the record holds and adds nothing to it;
-  adopting it is the owner's call.
 ---
 
 # SYNTHESIS-012: The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds
@@ -186,14 +159,14 @@ illustrates it. Every stored link between them passes through [CLAIM-470](../cla
 The five components of the second section share 20 stored relations
 with entries outside the line, as many as the fourteen of the first:
 among them [TERM-065](../terms.d/TERM-065.md) (formal-apparatus), [TERM-064](../terms.d/TERM-064.md) and [CLAIM-478](../claims.d/CLAIM-478.md)
-(distributed-agency), and [SYNTHESIS-006](SYNTHESIS-006.md), Current, whose premises include
+(distributed-agency), and [CLAIM-474](../claims.d/CLAIM-474.md), Active, which rests on
 [CLAIM-470](../claims.d/CLAIM-470.md) and [CLAIM-475](../claims.d/CLAIM-475.md). Three components have no stored relation
 to another component of the line: [TERM-091](../terms.d/TERM-091.md), [QUESTION-072](../questions.d/QUESTION-072.md) and
 [QUESTION-366](../questions.d/QUESTION-366.md), each tied to it in its body.
 
-## Admission
+## Links tested as claims
 
-Unadmitted. Each integration the account states is stated by a
+None is filed as a claim. Each integration the account states is stated by a
 component:
 
 - the operational apparatus out of [CLAIM-419](../claims.d/CLAIM-419.md), [CLAIM-479](../claims.d/CLAIM-479.md), [CASE-131](../cases.d/CASE-131.md) and

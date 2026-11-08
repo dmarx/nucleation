@@ -1,10 +1,10 @@
 ---
 number: 474
-status: Superseded
+status: Active
 formerly:
 - CLAIM-tmpgubhp
 title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -60,6 +60,17 @@ history:
     at the synthesis review of 2026-11-07. Its defeater's exemption for
     special classes is bounded there. The content here is unchanged, and
     the claim is kept so that what cites it still resolves.
+- version: 6
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-006 (version 1) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Current becoming Active. The synthesis's own history stays on
+    SYNTHESIS-006.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,12 +80,14 @@ defeated_if: >-
   boundaries and maintains its constraints, or that an apparatus that
   revises its own discriminations always becomes more reliable. Any such
   result, holding beyond a special class, would make the five relationships
-  fewer and the program different. Not defeated by special classes in which
-  steps coincide, such as dissipative Laplacian flows in which
-  compatibility and attraction go together (CLAIM-481); the claim is
-  that no step implies the next in general.
-superseded_by:
-- SYNTHESIS-006
+  fewer and the program different. A class is special only if it is
+  narrower than the class the record applies the step to: dissipative
+  Laplacian flows, in which compatibility and attraction go together
+  (CLAIM-481), are one; every system with a robust boundary is not. Also
+  defeated as a claim of its own if it only lists the separations
+  CLAIM-471, CLAIM-480, CLAIM-481, CLAIM-470 and CLAIM-475 each hold,
+  saying nothing about the order they form. The claim is that no step
+  implies the next in general.
 tags:
 - complex-systems
 - individuation
@@ -88,9 +101,6 @@ rests_on:
 - CLAIM-481
 - CLAIM-470
 - CLAIM-475
-complements:
-- CLAIM-477
-- CLAIM-478
 grounds:
 - THEORY-1065
 - THEORY-1087
@@ -102,31 +112,47 @@ uses:
 - TERM-093
 - TERM-090
 - TERM-092
+complements:
+- CLAIM-477
+- CLAIM-478
+bears_on:
+- QUESTION-282
+- QUESTION-283
+- QUESTION-285
+- QUESTION-281
+- QUESTION-115
 summary: >-
-  Filed at the owner's review of the pull request, which asked for a
-  synthesis "From Interconnection to Individuation: A Relational
+  Filed as CLAIM-474 at the owner's review of 2026-10-27, which asked for
+  a synthesis "From Interconnection to Individuation: A Relational
   Constraint Research Program" that would make the theory "legible as a
   research program with distinct testable transitions, rather than a
   cluster of philosophically suggestive analogies". It references the
-  record's claims rather than restating them. Its content is the list of
-  places where one achievement does not yield the next, each with a
-  source the record has read. The central experiment, in which physical
-  coupling, correspondence maps and apparatus revision are manipulated
-  independently, is [CASE-179](../cases.d/CASE-179.md). The open questions it organizes are
-  [QUESTION-282](../questions.d/QUESTION-282.md), [QUESTION-283](../questions.d/QUESTION-283.md), [QUESTION-285](../questions.d/QUESTION-285.md),
-  [QUESTION-281](../questions.d/QUESTION-281.md) and [QUESTION-115](../questions.d/QUESTION-115.md).
+  record's claims rather than restating them: the places where one
+  achievement does not yield the next, each with a source the record has
+  read. Its premises, [CLAIM-471](CLAIM-471.md), [CLAIM-480](CLAIM-480.md), [CLAIM-481](CLAIM-481.md), [CLAIM-470](CLAIM-470.md) and
+  [CLAIM-475](CLAIM-475.md), are Active. The central experiment is [CASE-179](../cases.d/CASE-179.md). Moved into
+  the SYNTHESIS scheme on 2026-11-07 ([ADR-077](../decisions.d/ADR-077.md)), keeping the standing
+  the status review of 2026-11-06 gave it under the rulings the owner
+  delegated.
 ---
-<!-- inactive-ok-file: CLAIM-477 CLAIM-478 — Proposed or new; the claims this synthesis organizes, cited as open -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1351 — Proposed; components and a corroborating reading, cited with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-078 ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
 
 # CLAIM-474: From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
 
-## The claim
+*Returned to CLAIM from [SYNTHESIS-006](../syntheses.d/SYNTHESIS-006.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-474, where its development up to version 4 is recorded.*
+
+## The integration
 
 The owner's review of the pull request, 2026-10-27, asked for "a concise
 synthesis note distinguishing five relationships", which "should explicitly mark
 where implications fail", so that the theory is "a research program with
-distinct testable transitions". It is filed as a claim because it can be wrong.
-It holds that the five are distinct, and that is a thesis.
+distinct testable transitions". It was filed as a claim because it can be wrong.
+It holds that the five are distinct, and that is a thesis. It moved into the
+SYNTHESIS scheme on 2026-11-07, since what it adds is how the record's held
+separations fit together.
 
 | relationship | central question | where the record holds it |
 |---|---|---|
@@ -205,6 +231,31 @@ degrees of existence. That they exhaust the transitions that matter. Or that
 the analogies between physical, biological, institutional and epistemic cases
 are identities. A23 §XII kept the causal, epistemic and normative mechanisms
 apart, and so does this claim.
+
+## Admission
+
+Admitted at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) by [ADR-075](../decisions.d/ADR-075.md)'s
+hypothesis route: the integration can fail while every component holds.
+
+**The case.** Stipulate a theorem T: every persistent organization with a
+robust boundary, in [TERM-088](../terms.d/TERM-088.md)'s dynamical sense, produces some of its own
+constitutive constraints. Every premise still holds: none of [CLAIM-471](CLAIM-471.md),
+[CLAIM-480](CLAIM-480.md), [CLAIM-481](CLAIM-481.md), [CLAIM-470](CLAIM-470.md) and [CLAIM-475](CLAIM-475.md) says whether a robust boundary
+forces self-production, and [CLAIM-395](CLAIM-395.md)'s closure can still be stated as a
+further condition. No premise's `defeated_if`
+is met. Yet individuation would then imply partial autonomy over a general
+class, and the partial order would lose a separation: the integration fails.
+
+**The free parameter, bounded.** The claim exempted "special classes in which
+steps coincide". Left open, any collapse could be called special. At the move
+the exemption is bounded: a class is special only if it is narrower than the
+class the record applies the step to. [CLAIM-481](CLAIM-481.md)'s dissipative Laplacian flows
+are special; "every system with a robust boundary", T's class, is not.
+
+## Correction at the move (2026-11-07)
+
+- **The exemption in `defeated_if` is bounded,** as above. The rest of the
+  defeater is carried over unchanged, with the restatement objection added.
 
 ## Note of 2026-10-31: the order of the achievements is not a dependency order
 

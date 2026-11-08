@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4g8e1
 title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -32,6 +32,12 @@ history:
   note: >-
     CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
+- version: 5
+  date: '2026-11-08'
+  note: >-
+    The syntheses this pointed at returned to CLAIM at the decision that
+    a SYNTHESIS is an account (ADR-tmp72iro), so `corroborates` names
+    CLAIM-600 for SYNTHESIS-010. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,7 +73,7 @@ summary: >-
   capability an organization keeps for rare events is the filer's. The
   wording is the filer's; adopting it is the owner's call.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation

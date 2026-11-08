@@ -1,14 +1,21 @@
 ---
 number: 9
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmpfp6zi
 title: 'Records kept of each capacity a response needs bound a reserve''s readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities'' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities'' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not'
-version: 1
-role: thesis
-admission: admitted
-route: derived
-warrant: demonstrated
+version: 2
+history:
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-tmpupm3q, the claim its content returns to, at
+    the decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-tmpupm3q.
+superseded_by:
+- CLAIM-tmpupm3q
 defeated_if: >-
   An error in the derivation: marginal probabilities for which the
   probability that every capacity holds lies outside
@@ -43,11 +50,6 @@ integrates:
 - ARG-053
 - CLAIM-584
 - TERM-107
-premises:
-- CLAIM-587
-- CLAIM-558
-uses:
-- TERM-115
 bears_on:
 - QUESTION-395
 summary: >-

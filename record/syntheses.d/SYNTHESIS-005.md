@@ -1,10 +1,10 @@
 ---
 number: 5
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmprmcy0
 title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-07'
@@ -16,10 +16,16 @@ history:
     CLAIM-336 moved into the SYNTHESIS scheme as SYNTHESIS-011 (ADR-077),
     so its integrates, premises and defeated_if now name the synthesis.
     The body's citations of CLAIM-336 are left as they were. No other change.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 3
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-620, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-620.
+superseded_by:
+- CLAIM-620
 defeated_if: >-
   A concept whose persistence the transmission criterion of CLAIM-615
   gets wrong, continuing where nothing of its organization of
@@ -59,13 +65,6 @@ integrates:
 - TERM-023
 - TERM-099
 - TERM-064
-premises:
-- SYNTHESIS-001
-- SYNTHESIS-011
-- CLAIM-283
-- CLAIM-402
-- CLAIM-330
-- CLAIM-535
 bears_on:
 - QUESTION-439
 - QUESTION-360

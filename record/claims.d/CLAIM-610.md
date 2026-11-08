@@ -1,10 +1,10 @@
 ---
 number: 610
-status: Superseded
+status: Proposed
 formerly:
 - CLAIM-tmp2ka9y
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -23,6 +23,17 @@ history:
     Superseded by SYNTHESIS-004, the same synthesis moved into the
     SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
     is kept so that what cites it still resolves.
+- version: 4
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-004 (version 3) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Proposed becoming Proposed. The synthesis's own history stays on
+    SYNTHESIS-004.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -34,8 +45,6 @@ defeated_if: >-
   as a thesis of its own if it only restates CLAIM-474's order,
   CLAIM-329, CLAIM-027 and CLAIM-545, adding nothing about which bearer
   holds the levels.
-superseded_by:
-- SYNTHESIS-004
 tags:
 - individuation
 - agency
@@ -51,10 +60,6 @@ rests_on:
 - CLAIM-027
 - CLAIM-025
 - CLAIM-545
-uses:
-- TERM-023
-- TERM-088
-- TERM-071
 complements:
 - CLAIM-487
 bears_on:
@@ -66,23 +71,29 @@ summary: >-
   and main hypotheses were demonstrated to be correct?" The owner asked
   for the supposition and stated none of its content. A7 calls it "my
   proposed reconstruction, not a thesis already established in that
-  complete form by the repository", so it is filed in the supposed voice.
-  Its parts are held: [CLAIM-474](CLAIM-474.md)'s partial order, [CLAIM-405](CLAIM-405.md)'s
-  criterion-relative individuation, [CLAIM-329](CLAIM-329.md)'s transmission, [CLAIM-027](CLAIM-027.md)'s
-  will-organization and [CLAIM-545](CLAIM-545.md)'s governance of one's own governability,
-  this last A's phrase from an earlier exchange resting on two of the
-  owner's claims. What it adds is the relation between the levels: each
-  organizes the conditions of the one below. Two corrections are made and
-  marked. The integration's wording is A's, corrected by the filer;
-  adopting it is the owner's call.
+  complete form by the repository", so it is filed in the supposed
+  voice. Its parts are held: [CLAIM-474](CLAIM-474.md)'s partial order, [CLAIM-405](CLAIM-405.md)'s
+  criterion-relative individuation, [CLAIM-329](CLAIM-329.md)'s transmission,
+  [CLAIM-027](CLAIM-027.md)'s will-organization and [CLAIM-545](CLAIM-545.md)'s governance of one's own
+  governability, this last A's phrase from an earlier exchange resting
+  on two of the owner's claims. What it adds is the relation between the
+  levels: each organizes the conditions of the one below. Two
+  corrections are made and marked. The integration's wording is A's,
+  corrected by the filer; adopting it is the owner's call. Moved from
+  CLAIM-610 into the SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md));
+  it was admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-611 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
-<!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 — Proposed; parts of the supposed account, cited as held -->
+<!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 CLAIM-545 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->
 
 # CLAIM-610: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
+
+*Returned to CLAIM from [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-610, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

@@ -45,7 +45,7 @@ summary: >-
   the neighbourhoods cleared or local self-organization, and its weak
   county effects leave open that gains were drawn from surrounding areas.
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 ---
 <!-- inactive-ok-file: NOTE-1680 — Skimmed; cited from the reading of Collins and Shester (2013) as open -->
 

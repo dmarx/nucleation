@@ -1,10 +1,10 @@
 ---
 number: 545
-status: Superseded
+status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -23,18 +23,32 @@ history:
     admitted as an independent hypothesis. Four corrections are marked
     there; the content here is unchanged, and the claim is kept so that
     what cites it still resolves.
+- version: 4
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-007 (version 1) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Proposed becoming Proposed. The synthesis's own history stays on
+    SYNTHESIS-007.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  An agent whose present organization meets every condition of the title
+  An agent whose present organization meets every condition of the title,
+  with "relevant" read as CLAIM-523's normatively relevant discrepancies,
   but was installed by manipulation, which the record has reason to count
-  unfree: THEORY-040's case, which would force a historical condition the
-  claim does not state. Or two agents matched on legibility, efficacy,
-  control and revisability under matched interference who differ in
-  freedom on a ground this profile cannot register. Not defeated by a
-  free agent whose governance is unwise, which the claim allows.
-superseded_by:
-- SYNTHESIS-007
+  unfree: THEORY-040's case, with no channel to the agent's relations
+  remaining, which would force a historical condition the claim does
+  not state. Or two agents matched on legibility, efficacy, control and
+  revisability under matched interference who differ in freedom on a
+  ground this profile cannot register. Also defeated as a claim of
+  its own if it only restates CLAIM-354's dimensions, CLAIM-523's three
+  achievements, CLAIM-485's reflexive revision, CLAIM-404 and CLAIM-533,
+  saying nothing about what freedom is. Not defeated by a free agent
+  whose governance is unwise, which the claim allows.
 tags:
 - free-will
 - self-governance
@@ -51,39 +65,36 @@ rests_on:
 - CLAIM-027
 - CLAIM-404
 - CLAIM-533
-uses:
-- TERM-100
-- TERM-023
-- TERM-064
-- TERM-085
-- TERM-086
 complements:
 - CLAIM-352
 bears_on:
 - QUESTION-364
 - QUESTION-071
 summary: >-
-  A26 of the exchange "Assess SDT Coverage" (2026-11-02), written at the
-  owner's request for the synthesis "without all the hedging" (U26),
-  after "synthesize" (U25). The owner asked for the strong form and did
-  not state or endorse its wording; adopting it is the owner's call. The
-  phrase is A's, from A22 §3 ("a will that governs its own
-  governability") through A24 to A26. Its parts are held, two of them the
-  owner's: [CLAIM-354](CLAIM-354.md) and [CLAIM-523](CLAIM-523.md), with [CLAIM-485](CLAIM-485.md) and [CLAIM-404](CLAIM-404.md). What it
-  adds is the identification. The record had dimensions of freedom and no
-  thesis of what freedom is. Three qualifications A26 dropped are
-  restored: the sense is operational, the claim is descriptive, and it is
-  open to the manipulation objection.
+  A26 of "Assess SDT Coverage" (2026-11-02), written at the owner's
+  request for the synthesis "without all the hedging" (U26), after
+  "synthesize" (U25). The owner asked for the strong form and did not
+  state or endorse its wording. The phrase is A's, A22 §3 to A26. Its
+  premises are the owner's [CLAIM-354](CLAIM-354.md), [CLAIM-523](CLAIM-523.md) and [CLAIM-533](CLAIM-533.md), the
+  owner's cases in [CLAIM-404](CLAIM-404.md), the record's [CLAIM-485](CLAIM-485.md), [CLAIM-025](CLAIM-025.md) and
+  [CLAIM-027](CLAIM-027.md), and A's [CLAIM-424](CLAIM-424.md), all Active. What it adds is the
+  identification. The domination clause has no coded component; its home
+  is [CLAIM-354](CLAIM-354.md)'s note of 2026-11-02. The integration's wording is A's,
+  corrected by the filer; adopting it is the owner's call. Moved from
+  CLAIM-545 at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)),
+  admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
-<!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-07 -->
-<!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that moved this entry -->
+<!-- inactive-ok-file: CLAIM-624 CASE-225 CLAIM-616 TERM-083 — Proposed or Superseded; cited in dated notes carried over from CLAIM-545 -->
+<!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->
 
 # CLAIM-545: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-## The claim
+*Returned to CLAIM from [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-545, where its development up to version 2 is recorded, at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)). Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+
+## The integration
 
 A26, headed "Freedom is the governance of one's own governability", put it
 as: "Freedom is not independence from influence. It is the organized
@@ -112,10 +123,44 @@ what it carries ([THEORY-988](../theory.d/THEORY-988.md)), is the owner's U23 an
 separation of legibility from efficacy ([TERM-064](../terms.d/TERM-064.md)'s note of 2026-11-02).
 Pettit's non-domination ([LIT-1614](../literature.d/LIT-1614.md)) supplies the last clause: an agent can be
 unfree because another holds an unaccountable channel to those relations,
-whether or not it is ever used.
+whether or not it is ever used. *(Correction (a) below: [LIT-1614](../literature.d/LIT-1614.md) no longer grounds
+this clause.)*
 
 "Freedom is an organizational achievement", A26's other line, is [TERM-086](../terms.d/TERM-086.md),
 the owner's term, which A26 did not cite.
+
+**Its components, with voice and standing** (all premises Active):
+
+- [CLAIM-354](CLAIM-354.md), the dimensions of freedom of will as a partial order; the owner's, Active. Premise.
+- [CLAIM-523](CLAIM-523.md), normative efficacy's three achievements; the owner's, Active. Premise.
+- [CLAIM-485](CLAIM-485.md), reflexive revision as what endogenous governance adds; the record's, Active. Premise.
+- [CLAIM-424](CLAIM-424.md), A37's; Active. Premise.
+- [CLAIM-025](CLAIM-025.md) and [CLAIM-027](CLAIM-027.md), regime, governing organization and the capacity to transform it as separable; the record's, Active. Premises.
+- [CLAIM-404](CLAIM-404.md), outside governance without decisions, on the owner's cases with A's constructions; Active. Premise.
+- [CLAIM-533](CLAIM-533.md), sensitivity is not control; the owner's U16 and U20, Active. Premise.
+- Not premises: [CLAIM-345](CLAIM-345.md) (the cost of control), [CLAIM-534](CLAIM-534.md) (motivational integration, which places itself among the relations this synthesis says an agent governs), [CLAIM-538](CLAIM-538.md) (the formal object of the "revises" clause, from the note of 2026-11-03), and [TERM-023](../terms.d/TERM-023.md), [TERM-064](../terms.d/TERM-064.md), [TERM-085](../terms.d/TERM-085.md) and [TERM-100](../terms.d/TERM-100.md), all Active. [TERM-100](../terms.d/TERM-100.md) enters through the defeater, a case of formation provenance.
+- The domination clause has no coded component. Its home on the record is [CLAIM-354](CLAIM-354.md)'s note of 2026-11-02: "An agent can be unfree because another holds an effective, unaccountable channel it never uses."
+- [THEORY-988](../theory.d/THEORY-988.md) is the owner's U23 analogy, not a component; it stays on CLAIM-545's `corroborated_by`, since the scheme has no such field. [TERM-086](../terms.d/TERM-086.md) is named only for A26's other line, which this synthesis does not state.
+
+## Corrections at the move (2026-11-07)
+
+Made by the synthesis review of 2026-11-07, which audited the claim under [ADR-075](../decisions.d/ADR-075.md)'s five checks.
+
+- **(a) Standing.** The ground [LIT-1614](../literature.d/LIT-1614.md) was removed at the status review of 2026-11-06, so Pettit no longer "supplies the last clause". The clause rests on [CLAIM-354](CLAIM-354.md)'s note of 2026-11-02.
+- **(b) Standing.** CLAIM-545's second note of 2026-11-06 says [TERM-086](../terms.d/TERM-086.md) "remains unheld, and the claim waits on it alone". [TERM-086](../terms.d/TERM-086.md) is not a component, and every premise is Active; nothing coded holds the synthesis back. That note and the one before it, which shared its heading, are not carried over; both stay on CLAIM-545.
+- **(c) Fidelity.** "The extent to which" is read as [CLAIM-354](CLAIM-354.md)'s partial order, not a scalar.
+- **(d) Fidelity.** "The relevant distinctions" is read as [CLAIM-523](CLAIM-523.md)'s normatively relevant discrepancies. Left open, the slot would absorb the defeater: a manipulated formation history could be called an illegible relevant distinction.
+
+## Admission
+
+Admitted under [ADR-075](../decisions.d/ADR-075.md)'s hypothesis route: the integration can fail while every component holds.
+
+- **Matched agents.** Ann and Bea are matched in present organization on every clause of the title, with "relevant" fixed as in correction (d). Bea's organization was installed by covert conditioning and the manipulator is dead, so no channel to her relations remains and the domination clause is idle ([THEORY-040](../theory.d/THEORY-040.md)'s case, with [TERM-100](../terms.d/TERM-100.md)'s formation provenance). Stipulate a historical condition on freedom, so that Bea is unfree. No premise speaks to formation history and no premise's `defeated_if` is met, yet the identification fails.
+- **The last clause.** An unused, unaccountable channel that leaves freedom intact, the liberal reading against the republican one. No component settles it.
+
+**Free parameter.** "Relevant", left open; correction (d) closes it.
+
+The derived and integration routes were not needed.
 
 ## What it does not say
 
@@ -136,6 +181,10 @@ the owner's term, which A26 did not cite.
 - **That the present profile is enough.** The claim is stated in present
   organization, and [THEORY-040](../theory.d/THEORY-040.md) and [QUESTION-071](../questions.d/QUESTION-071.md) are the objection to any
   such condition. It is the claim's defeater, not something it answers.
+
+## Versions
+
+A22 §3 ("a will that governs its own governability"), A24, and A26 of "Assess SDT Coverage", the version filed. A26 of "Organizational Nucleation and SLT", "Motivational Compatibility and the Organization of the Will", restates [CLAIM-354](CLAIM-354.md), [CLAIM-534](CLAIM-534.md) and [CLAIM-538](CLAIM-538.md) and this synthesis's domination clause, and revises nothing ([ADR-075](../decisions.d/ADR-075.md) step 7).
 
 ## Note of 2026-11-03: tolerance bounds, the owner's next step
 
@@ -179,14 +228,6 @@ A10 also proposed an "accommodation-profile set" of tolerances, cost bearers, le
 **The second appearance of a line.** A10 §2C's "Efficiency can conceal domination" is the second appearance of A29's line, recorded in the note of 2026-11-03 and not filed: "domination occurs when the power to define, conceal, or revise compatibility is exercised without effective accountability". It restates this claim's last clause. If it gets a code, it belongs as a revision of that clause.
 
 The wording of the axes is A's, sharpened by the reader; adopting them is the owner's call. No status changes.
-
-## Note of 2026-11-06: what holds it back
-
-Three premises are Proposed, [CLAIM-354](CLAIM-354.md), [CLAIM-404](CLAIM-404.md) and [CLAIM-533](CLAIM-533.md), and so are [TERM-100](../terms.d/TERM-100.md) and [TERM-086](../terms.d/TERM-086.md), which it uses. Its other premises are Active, [CLAIM-523](CLAIM-523.md) among them since this review.
-
-## Note of 2026-11-06: what holds it back
-
-[CLAIM-354](CLAIM-354.md) and [CLAIM-533](CLAIM-533.md) are Active since the twenty-seventh status review, and [CLAIM-404](CLAIM-404.md) and [TERM-100](../terms.d/TERM-100.md) are Active too, [CLAIM-404](CLAIM-404.md) since the twenty-eighth; so of what the note above names, only [TERM-086](../terms.d/TERM-086.md) remains unheld, and the claim waits on it alone.
 
 ## Note of 2026-11-07: dynamical subordination, from "Individuation, Possibility, and Disposition"
 

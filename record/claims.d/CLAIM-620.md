@@ -1,10 +1,10 @@
 ---
 number: 620
-status: Superseded
+status: Proposed
 formerly:
 - CLAIM-tmpnjz70
 title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -38,6 +38,17 @@ history:
     Superseded by SYNTHESIS-005, the same synthesis moved into the
     SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
     is kept so that what cites it still resolves.
+- version: 5
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-005 (version 2) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Proposed becoming Proposed. The synthesis's own history stays on
+    SYNTHESIS-005.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,8 +64,6 @@ defeated_if: >-
   categories confirmed through use, adding nothing about individuation.
   Not defeated by a concept that persists though it is false, which the
   claim allows.
-superseded_by:
-- SYNTHESIS-005
 tags:
 - individuation
 - philosophy-of-language
@@ -71,16 +80,6 @@ rests_on:
 - CLAIM-402
 - CLAIM-330
 - CLAIM-535
-grounds:
-- CASE-222
-- CASE-142
-uses:
-- TERM-073
-- TERM-098
-- TERM-072
-- TERM-023
-- TERM-099
-- TERM-064
 complements:
 - CLAIM-417
 - CLAIM-553
@@ -88,23 +87,25 @@ bears_on:
 - QUESTION-439
 - QUESTION-360
 summary: >-
-  The thesis of U18 to U21 of the exchange "Individuation, Possibility, and
-  Disposition" (2026-11-06 to 07), from A39 §12 to A45 §XVI, the version
-  filed, with A52 §17's revisions to its clauses. The owner set its
-  course: meaning at U18, symbols and concepts with "anti-vax" and the
-  organizational perspective at U19, and will at U20. Its integrating
-  core, that meaning and will are one model, is the owner's [CLAIM-336](CLAIM-336.md)
-  (2026-10-16). A45 cites it as "foreshadowed" and calls the unification
-  "The crucial advance". What A adds is the step to individuation: concepts
-  persist under the transmission criterion of [CLAIM-615](CLAIM-615.md), and the loop
-  between meaning and will is one way organizations individuate. Four of
-  A45's misstatements are corrected and marked. Version 2 adds A57's and
-  A58's coupling from the second share, at the owner's U26: a perspective's
-  availability is a maintained legibility regime, and the action the will
-  commits to fixes which distinctions must be legible (CLAIM-535). A58's
-  corrections are marked, the owner's CLAIM-553 among them. The
-  integration's wording is A's, corrected by the filer; adopting it is the
-  owner's call.
+  The thesis of U18 to U21 of the exchange "Individuation, Possibility,
+  and Disposition" (2026-11-06 to 07), from A39 §12 to A45 §XVI, the
+  version filed, with A52 §17's revisions to its clauses. The owner set
+  its course: meaning at U18, symbols and concepts with "anti-vax" and
+  the organizational perspective at U19, and will at U20. Its
+  integrating core, that meaning and will are one model, is the owner's
+  [CLAIM-336](CLAIM-336.md) (2026-10-16). A45 cites it as "foreshadowed" and calls the
+  unification "The crucial advance". What A adds is the step to
+  individuation: concepts persist under the transmission criterion of
+  [CLAIM-615](CLAIM-615.md), and the loop between meaning and will is one way
+  organizations individuate. Four of A45's misstatements are corrected
+  and marked. Version 2 adds A57's and A58's coupling from the second
+  share, at the owner's U26: a perspective's availability is a
+  maintained legibility regime, and the action the will commits to fixes
+  which distinctions must be legible ([CLAIM-535](CLAIM-535.md)). A58's corrections are
+  marked, the owner's [CLAIM-553](CLAIM-553.md) among them. The integration's wording is
+  A's, corrected by the filer; adopting it is the owner's call. Moved
+  from CLAIM-620 into the SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md));
+  it was admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
@@ -114,6 +115,10 @@ summary: >-
 <!-- inactive-ok-file: CASE-194 THEORY-916 — Proposed; the stipulated construction and the special case, cited in the version 2 corrections with their standing -->
 
 # CLAIM-620: Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy
+
+*Returned to CLAIM from [SYNTHESIS-005](../syntheses.d/SYNTHESIS-005.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-620, where its development up to version 3 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

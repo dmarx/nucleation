@@ -1,10 +1,10 @@
 ---
 number: 611
-status: Superseded
+status: Proposed
 formerly:
 - CLAIM-tmp6xhn3
 title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -22,6 +22,17 @@ history:
     Superseded by SYNTHESIS-003, the same synthesis moved into the
     SYNTHESIS scheme (ADR-076). The content is unchanged; the claim
     is kept so that what cites it still resolves.
+- version: 4
+  date: '2026-11-08'
+  note: >-
+    Restored from SYNTHESIS-003 (version 1) at the decision that a
+    SYNTHESIS is an account (ADR-tmp72iro), as its demonstration: what
+    the synthesis added to its premises is one claim. Title, body,
+    defeater, role, warrant, tags, lines, grounds, terms and bears_on
+    are the synthesis's; its premises are `rests_on`, each synthesis
+    among them named by the claim it returned to; its standing is kept,
+    Proposed becoming Proposed. The synthesis's own history stays on
+    SYNTHESIS-003.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,8 +50,6 @@ defeated_if: >-
   senses of persistence, saying nothing about where individuation lies.
   Not defeated by an individual that persists in one mode throughout,
   which the claim allows.
-superseded_by:
-- SYNTHESIS-003
 tags:
 - individuation
 - complex-systems
@@ -59,11 +68,6 @@ rests_on:
 - CLAIM-478
 - CLAIM-625
 - CLAIM-612
-grounds:
-- THEORY-1227
-uses:
-- TERM-071
-- TERM-088
 complements:
 - CLAIM-616
 bears_on:
@@ -71,20 +75,22 @@ bears_on:
 - QUESTION-284
 - QUESTION-437
 summary: >-
-  A's thesis of the exchange "Individuation, Possibility, and Disposition"
-  (2026-11-06 to 07) across U6 to U13, stated eight times from A14 §11 to
-  A29 §11, the version filed. The owner set its course: the
-  synchronization laboratory at U4, time-scale separation at U6 (the
+  A's thesis of the exchange "Individuation, Possibility, and
+  Disposition" (2026-11-06 to 07) across U6 to U13, stated eight times
+  from A14 §11 to A29 §11, the version filed. The owner set its course:
+  the synchronization laboratory at U4, time-scale separation at U6 (the
   owner's [CLAIM-478](CLAIM-478.md)), synergetics at U7, "metastability, ergodicity,
-  stationarity, absorbing states" at U10, and the sheaf/topos apparatus at
-  U11. The integration, that an individual's organization lies in what
-  keeps its repertoire realizable, is A's. A22 §10 credited A's own A20
-  sentence to the owner, and A29 §11 credits none of the owner's turns;
-  both are corrected here. Four other corrections are marked in the body:
-  the layers part, statistical persistence is no evidence, the
-  maintaining organization may lie outside, and the owner's laboratory is
-  restored. The integration's wording is A's, corrected by the filer;
-  adopting it is the owner's call.
+  stationarity, absorbing states" at U10, and the sheaf/topos apparatus
+  at U11. The integration, that an individual's organization lies in
+  what keeps its repertoire realizable, is A's. A22 §10 credited A's own
+  A20 sentence to the owner, and A29 §11 credits none of the owner's
+  turns; both are corrected here. Four other corrections are marked in
+  the body: the layers part, statistical persistence is no evidence, the
+  maintaining organization may lie outside, and the owner's laboratory
+  is restored. The integration's wording is A's, corrected by the filer;
+  adopting it is the owner's call. Moved from CLAIM-611 into the
+  SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)); it was admitted as an
+  independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
@@ -93,6 +99,10 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 — Proposed; components, cited with their standing -->
 
 # CLAIM-611: When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
+
+*Returned to CLAIM from [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md) on 2026-11-08 ([ADR-tmp72iro](../decisions.d/ADR-tmp72iro.md)). The notes below that speak of a synthesis are the synthesis's own.*
+
+*Moved from CLAIM-611, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

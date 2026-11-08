@@ -1,10 +1,10 @@
 ---
 number: 11
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmprnoj1
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
@@ -15,10 +15,16 @@ history:
     the table, added to uses; the defeater's second clause is stated as
     the held-out test of matched complexity that A55 §7 gave and ARG-065
     holds, marked. The claim's history stays on CLAIM-336.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-336, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-336.
+superseded_by:
+- CLAIM-336
 defeated_if: >-
   A phenomenon central to one line that the model cannot express without a
   component the other line lacks and the operator model does not have: for
@@ -54,19 +60,6 @@ integrates:
 - TERM-019
 - TERM-023
 - TERM-103
-premises:
-- CLAIM-297
-- CLAIM-286
-- CLAIM-279
-uses:
-- TERM-019
-- TERM-023
-- TERM-031
-- TERM-039
-- TERM-103
-- TERM-101
-- TERM-053
-- TERM-026
 bears_on:
 - QUESTION-088
 summary: >-

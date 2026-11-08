@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpl995z
 title: 'A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -20,6 +20,12 @@ history:
   note: >-
     CLAIM-474 moved into the SYNTHESIS scheme as SYNTHESIS-006 (ADR-077),
     so `illustrates` names the synthesis. No other change.
+- version: 4
+  date: '2026-11-08'
+  note: >-
+    The syntheses this pointed at returned to CLAIM at the decision that
+    a SYNTHESIS is an account (ADR-tmp72iro), so `illustrates` names
+    CLAIM-474 for SYNTHESIS-006. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -27,7 +33,7 @@ tags:
 - mathematics
 date: '2026-10-27'
 illustrates:
-- SYNTHESIS-006
+- CLAIM-474
 - CLAIM-471
 line: distributed-agency
 summary: >-

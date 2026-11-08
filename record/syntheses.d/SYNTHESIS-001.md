@@ -1,19 +1,25 @@
 ---
 number: 1
-status: Proposed
+status: Superseded
 formerly:
 - SYNTHESIS-tmp46moy
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-07'
   note: >-
     Moved from CLAIM-615 (version 3) into the SYNTHESIS scheme, as ADR-076's demonstration. Its integrating claim, route, defeater and body are carried over unchanged; the claim's own history is kept on CLAIM-615, now Superseded by this entry.
-role: thesis
-admission: admitted
-route: hypothesis
-warrant: interpretive
+- version: 2
+  date: '2026-11-08'
+  note: >-
+    Superseded by CLAIM-615, the claim its content returns to, at the
+    decision that a SYNTHESIS is an account (ADR-tmp72iro). What it
+    added to its components is one claim. Its claim fields (role,
+    warrant, admission, route, premises, grounds and terms) leave this
+    entry with the scheme's, and are on CLAIM-615.
+superseded_by:
+- CLAIM-615
 defeated_if: >-
   A succession in which the relations that kept the predecessor's
   repertoire realizable were transmitted to a successor, and every
@@ -50,13 +56,6 @@ integrates:
 - CLAIM-136
 - TERM-071
 - TERM-088
-premises:
-- SYNTHESIS-003
-- CLAIM-329
-- CLAIM-593
-- CLAIM-328
-- CLAIM-287
-- CLAIM-280
 bears_on:
 - QUESTION-393
 - QUESTION-118

@@ -52,7 +52,7 @@ date: '2026-11-05'
 source:
 - LIT-2224
 corroborates:
-- SYNTHESIS-010
+- CLAIM-600
 summary: >-
   Macnamara et al. (2024), [LIT-2224](../literature.d/LIT-2224.md), read in full in [NOTE-1710](../notes.d/NOTE-1710.md). A
   theoretical perspective with no data of its own. The decay with disuse,
