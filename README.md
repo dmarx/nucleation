@@ -1,17 +1,20 @@
-<p align="center">
-  <img src="static/ice-crystal-nucleation.jpeg" width="320" height="240" alt="Link to luria site for this inquiry" href="https://dmarx.github.io/nucleation/">
+<div align="center">
+<p>
+  <img src="static/ice-crystal-nucleation.jpeg" width="480" height="360" alt="Link to luria site for this inquiry" href="https://dmarx.github.io/nucleation/">
 </p>
 
-<h1 align="center">Nucleation</h1>
+<h1>Nucleation</h1> 
 
-<p align="center">
-  you gotta start somewhere, right?
+<p>
+A space for ideas to crystalize amidst an ongoing philosophical inquiry.   
 </p>
+
 
 ---
 
-An ongoing philosophical inquiry
 
 <!-- luria:site -->
 📖 **[dmarx.github.io/nucleation](https://dmarx.github.io/nucleation/)** — Start Here.
 <!-- /luria:site -->
+
+</div>
