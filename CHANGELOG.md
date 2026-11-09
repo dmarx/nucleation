@@ -5590,4 +5590,437 @@ Chalmers and McQueen's consciousness-collapse paper is filed and read in part, t
   counts as live. Fired on main: eight unwritten concessions surface,
   among them [CLAIM-031](record/claims.d/CLAIM-031.md) and [CLAIM-208](record/claims.d/CLAIM-208.md) against [CLAIM-056](record/claims.d/CLAIM-056.md).
 
+- [ADR-074](record/decisions.d/ADR-074.md) supersedes [ADR-064](record/decisions.d/ADR-064.md) at the owner's instruction: the rule on which copies count as lawful to read is unchanged, and now travels in the read-and-file skill's reader brief, with [ADR-053](record/decisions.d/ADR-053.md)'s line between Unfetched and Unavailable, a report of every copy located, and a refusal by the session's own permission system filed as Unfetched and never worked around. The skill's step 5 and reader's brief updated; [ADR-053](record/decisions.d/ADR-053.md) gets a dated note; citations of [ADR-064](record/decisions.d/ADR-064.md) acknowledged.
+
+### Added
+
+- The exchange "Assess SDT Coverage" (2026-11-02, U1–U26) is filed. It went from the record's coverage of self-determination theory, through Jennings on attention as free will, language models as distributions over perspectives and LDA, Frankfurt and Kane, to chaos, controllability, wu-wei, reflexive control and legibility. Six readers read every turn, checked every record code the replies cited and redid their mathematics. A workbench entry records each turn's findings and what was not filed.
+- The owner's own contributions:
+  - a Proposed thesis that a persona distribution is organizationally flat unless its components condition one another, shown by intervention ([CLAIM-543](record/claims.d/CLAIM-543.md), U8);
+  - an Active demonstrated claim stating U12 precisely: categorical against Dirichlet–categorical models of perspectives, with within-episode agreement (a + 1)/(Ka + 1) ([CLAIM-536](record/claims.d/CLAIM-536.md));
+  - a Proposed thesis that the sensitivity chaos gives a will is not control over it, with Kane's self-forming actions as the case ([CLAIM-533](record/claims.d/CLAIM-533.md), U16 and U20);
+  - a Proposed reading of wu-wei as well-timed small control, with Ott–Grebogi–Yorke as a formal instance and three sources of effortlessness ([CLAIM-541](record/claims.d/CLAIM-541.md), U17);
+  - a question on whether a language model's workspace readouts share an episode-level mixture ([QUESTION-370](record/questions.d/QUESTION-370.md), U10 and U12).
+- Two demonstrated claims, each checked by simulation:
+  - sensitivity lowers the cost of control and, without feedback, the controller's share against noise ([CLAIM-542](record/claims.d/CLAIM-542.md));
+  - the reinforcement a Dirichlet–categorical hierarchy gives a run of choices is the observer's learning, not self-formation ([CLAIM-540](record/claims.d/CLAIM-540.md)).
+- A Proposed thesis from the synthesis the owner asked for: freedom as an agent's governance of its own governability, with the qualifications the unhedged version dropped restored ([CLAIM-545](record/claims.d/CLAIM-545.md)).
+- A question on what shows an experience is a basic psychological need rather than a well-being raiser ([QUESTION-369](record/questions.d/QUESTION-369.md)).
+- Forty-seven works registered unread, every identifier checked, and a curation entry.
+- Jennings, "Attention as the Source of a Free Will" (forthcoming in *Synthese*), read in full from the manuscript the owner supplied ([LIT-1963](record/literature.d/LIT-1963.md), [NOTE-1508](record/notes.d/NOTE-1508.md)), with two Proposed THEORYs: the hybrid account of attention ([THEORY-1341](record/theory.d/THEORY-1341.md)) and the contextual emergence of its subject ([THEORY-1314](record/theory.d/THEORY-1314.md)). The owner's "Frankfurt with a hat on" is filed as a Proposed thesis ([CLAIM-539](record/claims.d/CLAIM-539.md)): Frankfurt's architecture, with metacontrol in place of endorsement and the manipulation objection inherited.
+
+- Voigt 2022 and Bishop, Silberstein and Pexton 2022, sources of Jennings 2026, registered at the owner's request.
+- From U27–U33 of the same exchange (a second share), at the owner's request for positive accounts (U33):
+  - three demonstrated claims, checked numerically: tolerance-bounded compatibility on a graph of contexts, certified by a cycle and invariant under the H¹ class ([CLAIM-538](record/claims.d/CLAIM-538.md)); its robust and observation-dependent forms ([CLAIM-537](record/claims.d/CLAIM-537.md)); and legibility as the distinctions a policy needs, relative to the policy ([CLAIM-535](record/claims.d/CLAIM-535.md));
+  - three Proposed positive theses: motivational integration as maintained co-satisfaction within recognized tolerances ([CLAIM-534](record/claims.d/CLAIM-534.md)); what self-formation produces, with two tests ([CLAIM-532](record/claims.d/CLAIM-532.md)); and governing one's governability as governing one's individuation, through [CLAIM-170](record/claims.d/CLAIM-170.md) ([CLAIM-544](record/claims.d/CLAIM-544.md));
+  - Ben-Tal et al. 2004 registered.
+
+- The [CASE-189](record/cases.d/CASE-189.md) extension built at the owner's request: a construction of self-formation ([CASE-191](record/cases.d/CASE-191.md), scratch/formal/self_formation.py). Frustration at two demands one output cannot meet drives production of a sensor and a channel that then maintain each other; the capacity forms past a threshold, outlasts the conflict and transfers within its class. A capacity installed by an outside pulse and then self-maintained is told apart only by a knockout during formation, which narrows [CLAIM-532](record/claims.d/CLAIM-532.md)'s second test, and the construction is tied to the entries on which provenance matters.
+- Two Proposed TERMs at the owner's review, to make that grouping persistent: provenance of a capacity, in three senses, formation, maintenance and source ([TERM-100](record/terms.d/TERM-100.md)), named in `uses` by the claims that turn on it; and self-formation ([TERM-099](record/terms.d/TERM-099.md)).
+- The fifty works registered from the exchange looked for and, where reached, read at the owner's request: thirty-two read (five skimmed) with thirty-two NOTEs and thirty-five THEORYs, twenty-five Active; seven Unfetched and eleven Unavailable. Anastassiou et al. 2011 read from the gwern.net copy at the owner's direction. A curation entry lists them, with what the readings corrected.
+- At the owner's direction: La Guardia et al. 2000 and Kane 2009 read from the copies the session had refused ([NOTE-1523](record/notes.d/NOTE-1523.md), [NOTE-1518](record/notes.d/NOTE-1518.md); three THEORYs), and Juarrero's open-access *Context Changes Everything* (2023) registered and read, skimmed in part, as the stand-in for her 1999 book ([LIT-1995](record/literature.d/LIT-1995.md), [NOTE-1532](record/notes.d/NOTE-1532.md); three THEORYs). Kane's text confirms [CLAIM-533](record/claims.d/CLAIM-533.md)'s attribution and shows his reply concedes its point about control.
+
+### Changed
+
+- Dated notes on [CLAIM-454](record/claims.d/CLAIM-454.md), [TERM-072](record/terms.d/TERM-072.md), [CLAIM-122](record/claims.d/CLAIM-122.md) (Jennings as "Frankfurt with a hat on"), [CLAIM-022](record/claims.d/CLAIM-022.md) (Kane), [CLAIM-027](record/claims.d/CLAIM-027.md), [QUESTION-364](record/questions.d/QUESTION-364.md), [CLAIM-334](record/claims.d/CLAIM-334.md), [THEORY-052](record/theory.d/THEORY-052.md), [THEORY-054](record/theory.d/THEORY-054.md), [QUESTION-131](record/questions.d/QUESTION-131.md), [CLAIM-478](record/claims.d/CLAIM-478.md) (chaos and slow modes), [QUESTION-071](record/questions.d/QUESTION-071.md), [CLAIM-354](record/claims.d/CLAIM-354.md), [TERM-064](record/terms.d/TERM-064.md) (QKV, MVC and legibility), [TERM-067](record/terms.d/TERM-067.md), [CLAIM-337](record/claims.d/CLAIM-337.md) and [LIT-1132](record/literature.d/LIT-1132.md). No status, title or warrant of an existing entry changed.
+- From U27–U33: dated notes on [CASE-179](record/cases.d/CASE-179.md) (the arms the design lacks), [QUESTION-133](record/questions.d/QUESTION-133.md), [QUESTION-282](record/questions.d/QUESTION-282.md), [TERM-088](record/terms.d/TERM-088.md), [CASE-189](record/cases.d/CASE-189.md) and [CLAIM-354](record/claims.d/CLAIM-354.md), and additions to [CLAIM-545](record/claims.d/CLAIM-545.md) and [CLAIM-542](record/claims.d/CLAIM-542.md).
+- From the readings: dated notes on [THEORY-052](record/theory.d/THEORY-052.md), [THEORY-049](record/theory.d/THEORY-049.md) (a correction: Ryan et al. 1983 report a significant contrast), [THEORY-054](record/theory.d/THEORY-054.md), [THEORY-047](record/theory.d/THEORY-047.md), [QUESTION-131](record/questions.d/QUESTION-131.md), [CLAIM-368](record/claims.d/CLAIM-368.md), [NOTE-439](record/notes.d/NOTE-439.md), [NOTE-440](record/notes.d/NOTE-440.md), [NOTE-441](record/notes.d/NOTE-441.md), [NOTE-442](record/notes.d/NOTE-442.md), [LIT-1132](record/literature.d/LIT-1132.md) (an overstated note corrected, and a stale status fixed in passing), [LIT-388](record/literature.d/LIT-388.md), [CLAIM-478](record/claims.d/CLAIM-478.md), [QUESTION-071](record/questions.d/QUESTION-071.md) and [CLAIM-354](record/claims.d/CLAIM-354.md); and on this branch's entries, with in-place corrections to [NOTE-1508](record/notes.d/NOTE-1508.md), [THEORY-1314](record/theory.d/THEORY-1314.md), [CLAIM-536](record/claims.d/CLAIM-536.md) and [TERM-064](record/terms.d/TERM-064.md)'s note. The provenance term enters `uses` on [CLAIM-022](record/claims.d/CLAIM-022.md), [CLAIM-522](record/claims.d/CLAIM-522.md), [CLAIM-404](record/claims.d/CLAIM-404.md), [CLAIM-329](record/claims.d/CLAIM-329.md) and [CLAIM-356](record/claims.d/CLAIM-356.md) (version bumps). No status or title of an existing entry changed.
+- From the last readings: dated notes on [CLAIM-478](record/claims.d/CLAIM-478.md), [TERM-070](record/terms.d/TERM-070.md), [NOTE-1521](record/notes.d/NOTE-1521.md), [CLAIM-022](record/claims.d/CLAIM-022.md) and this branch's [CLAIM-533](record/claims.d/CLAIM-533.md), [CLAIM-542](record/claims.d/CLAIM-542.md), [CASE-191](record/cases.d/CASE-191.md), [THEORY-1314](record/theory.d/THEORY-1314.md), [TERM-100](record/terms.d/TERM-100.md) and [QUESTION-369](record/questions.d/QUESTION-369.md).
+
+- Assistance and skill read to fill a gap the supplied-maintenance filing left: Koedinger & Aleven 2007 on the assistance dilemma; Cohen & Levinthal 1990 on absorptive capacity, with Griffith, Redding & Van Reenen 2004 at industry level; Macnamara et al. 2024, Ahn 2025 and Simkute et al. 2024 standing in for Bainbridge 1983 (Unfetched) on the ironies of automation; Wood, Bruner & Ross 1976 registered Unfetched. Dated notes on [CLAIM-558](record/claims.d/CLAIM-558.md), [CLAIM-600](record/claims.d/CLAIM-600.md), [CLAIM-602](record/claims.d/CLAIM-602.md), [CLAIM-603](record/claims.d/CLAIM-603.md) and [QUESTION-398](record/questions.d/QUESTION-398.md).
+
+At the owner's instruction, each logical unit of work goes on its own branch, cut from the default branch, with its own pull request ([ADR-071](record/decisions.d/ADR-071.md)); CLAUDE.md's Working section says so.
+
+### Changed
+
+- [ADR-079](record/decisions.d/ADR-079.md) (Proposed): each directed relation is stored on one side only, the side a filer writes, and its converse is derived when the record is read. `luria.yaml` marks 32 converse fields `derived` across the nineteen directed pairs. Symmetric relations are unchanged. CI's `luria repair` on this pull request removes the stored converses and moves onto the primary side the 129 values that existed only on the converse side.
+- The TERM template points supersession at `superseded_by` on the replaced term. The `synthesis-review` skill no longer asks for `corroborated_by` to be carried.
+
+### Fixed
+
+- [LIT-862](record/literature.d/LIT-862.md), [LIT-863](record/literature.d/LIT-863.md), [LIT-1542](record/literature.d/LIT-1542.md) and [LIT-1171](record/literature.d/LIT-1171.md) named old-style codes in `extended_by` for [LIT-860](record/literature.d/LIT-860.md), [LIT-002](record/literature.d/LIT-002.md) and [LIT-048](record/literature.d/LIT-048.md).
+
+- DNA origami connected to the realizability inquiry at the owner's request:
+  - read: Rothemund 2006; Wagenbauer, Wachauf and Dietz 2014; Dunn et al. 2015; Dannenberg et al. 2015; Marras et al. 2015; Schneider, Möritz and Dietz 2019; Majikes et al. 2020;
+  - Sobczak et al. 2012 registered Unavailable and read through Sobczak's dissertation;
+  - dated notes on nineteen held entries.
+- The assistant's claim that a resource which sets the costs it pays, as heat does when origami folds, makes reachability within a time budget a window in the resource, with a four-state annealing toy ([CLAIM-594](record/claims.d/CLAIM-594.md), [CASE-216](record/cases.d/CASE-216.md)).
+- Two syntheses on DNA origami by another assistant (A), pasted by the owner, filed with eight further works read: Wah et al. 2016, Majikes et al. 2021 and 2026, Douglas et al. 2009, Douglas, Bachelet & Church 2012, Aksel et al. 2024, Cumberworth & Reinhardt 2025 and Ni et al. 2026. A's question on allocation and nucleation ([QUESTION-400](record/questions.d/QUESTION-400.md)), A's branching model ([CASE-217](record/cases.d/CASE-217.md)) and A's two proposed studies ([CASE-219](record/cases.d/CASE-219.md), [CASE-220](record/cases.d/CASE-220.md)) are filed as A's.
+- The assistant's claim that uniform abundance helps, leaves or hurts an assembly according to whether the competing steps consume it alike ([CLAIM-598](record/claims.d/CLAIM-598.md)), matched by Majikes et al.'s blocked single fold.
+- A's third synthesis on DNA origami filed: A's term "productive nucleus" ([TERM-117](record/terms.d/TERM-117.md)), A's claim that persistence and nucleating productivity vary independently ([CLAIM-595](record/claims.d/CLAIM-595.md)) and A's question on self-maintaining nuclei ([QUESTION-399](record/questions.d/QUESTION-399.md)); Shirt-Ediss et al. 2026 read; the assistant's claim that productive nuclei need not combine ([CLAIM-599](record/claims.d/CLAIM-599.md)).
+- A's fourth synthesis on DNA origami, seven predictions on productive nucleation, filed: A's stabilization toy ([CASE-218](record/cases.d/CASE-218.md)) and A's question on independence from the founding intervention ([QUESTION-398](record/questions.d/QUESTION-398.md)); the assistant's construction of A's equal-cost case with timing at equal integrated exposure ([CASE-215](record/cases.d/CASE-215.md)), a timing point added to [CLAIM-598](record/claims.d/CLAIM-598.md), and [CLAIM-599](record/claims.d/CLAIM-599.md) corrected to rest on [CLAIM-562](record/claims.d/CLAIM-562.md), which it had missed.
+- From A's review of this pull request: the annealing toy's figures relabeled as folded fractions and recomputed as first-passage probabilities (they agree), the committor scoped to eventual success with a deadline counterexample in [CLAIM-595](record/claims.d/CLAIM-595.md), equal integrated exposure distinguished from equal stock, the evidence for combining nuclei narrowed, A's question on generative nucleation ([QUESTION-397](record/questions.d/QUESTION-397.md)), and a reproduction script, scratch/formal/dna_origami_toys.py, which corrected a rounding (90.3 to 90.4 %).
+- From A's second review: [QUESTION-397](record/questions.d/QUESTION-397.md) restated as a conditional effect on downstream transitions, the timing case's "expenditure" corrected to integrated exposure, temperature described as a controlled condition rather than a spent resource, and the annealing optimum qualified as numerical and checked by a bounded continuous search.
+- At the owner's invitation, five works on error correction, repair, replication and nucleation barriers read: Winfree & Bekbolatov's proofreading tile sets, Cumberworth, Frenkel & Reinhardt 2022, Scheckenbach et al. 2021, and He et al. 2017 (Unavailable) through Zhou et al. 2021. The assistant's claims that yields cannot tell a generative nucleus from a head start ([CLAIM-596](record/claims.d/CLAIM-596.md)) and that maintenance supplied from outside never becomes independent of its supply ([CLAIM-597](record/claims.d/CLAIM-597.md)); the filing's earlier statement that no origami read here repairs itself is corrected.
+
+read-and-file: when a work can't be read lawfully, read accessible neighbouring literature that carries the same ideas, and file each neighbour as a work in its own right, saying how far it stands in for the original (step 5 and the reader's brief), at the owner's instruction during the filing of the pasted bibliography on emergency readiness.
+- The owner's pasted bibliography on emergency readiness, rarely exercised capabilities and organizational slack (another assistant's): none of its twenty works was held. Seven read (Oskar et al.; Liebman & Mahoney; Siemroth; Rockafellar & Uryasev; Ratliff et al.; Kuehn; the USFA canceled-en-route guidance) and Freidlin & Wentzell's front matter; twelve registered Unavailable or Unfetched and read through fourteen open neighbours, each filed in its own right. Dated notes on fifteen held claims and cases. The curation entry maps the bibliography and records A's errors.
+- A's proposed additions on rarely exercised capability, filed as A's and Proposed: the heavy-rescue construction and the two-department case; claims on rational provisional dispatch, dispatch then cancel and readiness as a joint property; terms for scenario-conditioned response readiness and provisional commitment; the Rejected inference from low use to waste; and three open questions. A's synthesis THEORY and simulator experiment are left, as A advised.
+- Ideas the readings surfaced that the record lacked, filed Proposed: the ratchet effect in the incentive sense, organizational slack, proxy objective, unit of last resort, the senses of coverage, the NFIRS cancelled-dispatch guidance as a case, and the decay of rarely used procedural skill with disuse.
+- The owner's pasted synthesis on constraint architectures (the same exchange's next turns, filed here at the owner's request): about forty works on Freedom and Constraint Topologies, rigidity and self-stress, compliant-mechanism design, nonholonomic control and passive mechanics, and origami. Twenty-five read; fifteen registered Unavailable or Unfetched, with ten open neighbours read in their place. Dated notes on twenty-four held claims, cases and questions, mostly analogies, each saying so. A's unheld ideas filed as A's and Proposed: reconfiguration slack, the resource threshold of a transition, the separation of feasible, reachable and reliably reached, placement of intervention over its count, budgets over several resources, three constructed cases and six open questions. The curation entry records where A's quotations, attributions and glosses were wrong.
+- read-and-file: keep the source verbatim and brief readers and drafters from that file, not from a condensation, and never check a quotation against the lead's own summary; list the source's own constructions, examples, distinctions and proposals section by section before briefing anyone; and reread the whole source against that list before the curation entry. At the owner's prompting, after the first filing of the constraint-architecture synthesis missed much of A's own modelling and quoted the lead's condensed wording as A's.
+- A second pass over the constraint-architecture synthesis, at the owner's prompting: four origami cases as a toy model of a resource-bounded configuration space (a degree-4 vertex, a curved vertex, a Kresling stack, the square twist), and A's own modelling the first pass missed, namely the budget-indexed compatibility complex, four obstructions to a transition, three resource requirements of a form, six resource types, a hard constraint's inability to enlarge trajectories, permitted against driven motion, three targets for a mismatch, and assembling against persisting against regenerating, with their cases and questions.
+- The assistant's own contributions, at the owner's invitation: that spend-matching budgets pin an organization to the transitions it can make at holding cost (demonstrated); that the transition threshold is stable under cost-estimation error (demonstrated); that a reserve has a location as well as a size (hypothesis); and the question of who supplies the resource that crosses a bottleneck. A's simulator is proposed as the first organizational test.
+- read-and-file: a new step 12, offering the assistant's own contributions once a filing is done. Look for what only the whole filing shows, offer the ideas ranked and labelled as demonstrated or hypothesis, file only what the owner accepts, in the assistant's own voice, and hold them to the record's standards. Added at the owner's request after the first such contribution.
+- The owner's pasted synthesis on resource-bounded realizability (three responses by A, the third on Yoneda and individuation): fifteen works on folding and reconfiguration complexity, the CSP dichotomy, formal concept analysis, resource theories and enrichment, multiparameter persistence and directed topology, with Gopalan et al. and Schwerdtfeger added by the lead; A's glosses of fifty-one held entries checked; A's theory filed as A's, its demonstrable parts proved (budgeted composition, the two filtrations, antitone implications, refinement of probe profiles, the category deciding sameness) and its conjectures interpretive. Each paste was saved verbatim and worked from an idea ledger, under the skill as revised in this pull request.
+- A's fourth paste on a resource-sensitive Yoneda theory of individuation: A's U/L/R toy, a configuration's four relational profiles and the minimum distinguishing budget, the separation of isomorphism from persistence, and questions on Yoneda against bisimulation and on interface individuation; held parts given dated notes.
+- The assistant's own contributions, at the owner's invitation to contribute without waiting: peak-cost thresholds are ultrametric so budgeted identification nests into one tree while additive costs give none; observing and acting budgets individuate in opposite directions; and the question of that two-budget structure.
+- [ADR-073](record/decisions.d/ADR-073.md): two new lines of inquiry, readiness ("Readiness and slack") and realizability ("Resource-bounded realizability and individuation"), added to luria.yaml; the 89 entries of the record's own argument filed in this pull request re-tagged onto them, keeping formal-apparatus on the general results and distributed-agency on the four entries about how an organized whole forms or governs itself.
+- From A's reading of this pull request: the peak-cost threshold of [CLAIM-581](record/claims.d/CLAIM-581.md) corrected to an extended pseudo-ultrametric (and the additive one to an extended pseudometric), with free identity kept apart from the cost of holding a state; and A's two frontiers made exact ([CLAIM-570](record/claims.d/CLAIM-570.md), demonstrated): the budget pairs at which observational indistinguishability implies mutual reachability form an up-set, the converse a down-set, with closed-form boundaries, computed on the U/L/R toy.
+- The two frontiers computed on the degree-4 vertex ([CASE-206](record/cases.d/CASE-206.md)), with nine states and probes for flatness, mode, side and depth: the outside and inside partitions agree non-trivially in one window, on the flat state and the four half-branches, and with the side and depth probe costs swapped only the trivial agreements remain.
+- The assistant's claim that whether a system's reachable classes coincide with what an observer can tell apart depends on the order of probe costs: agreement holds exactly at partitions in both the observer's refinement chain and the merge tree, and a merge-tree level can be brought into view by some cost order exactly when some set of probes refines to it (demonstrated; checked over every cost order on 1,500 random systems).
+- The assistant's claim that when observing and acting draw on one budget the cheapest readiness buys a whole prefix of the probes, the splits a fixed budget affords can be disconnected, and stopping when the next probe does not pay can miss the optimum, with a triage example, the degree-4 vertex and 20,000 random checks ([CLAIM-572](record/claims.d/CLAIM-572.md)), and a note on [QUESTION-374](record/questions.d/QUESTION-374.md).
+
+### Added
+
+- The owner's pasted synthesis "The Evolution of Cooperation: From Coexistence to Symbiosis to Morality" (2026-11-04) was checked against the record. Most of it was already held, and a curation entry maps each section to where.
+- Four works registered unread:
+  - West et al. 2015, "Major evolutionary transitions in individuality" ([LIT-2003](record/literature.d/LIT-2003.md));
+  - Henrich and Muthukrishna 2021 ([LIT-2004](record/literature.d/LIT-2004.md));
+  - Van Lange and Bergmann 2026 ([LIT-2002](record/literature.d/LIT-2002.md));
+  - Maynard Smith and Szathmáry, *The Major Transitions in Evolution* ([LIT-2001](record/literature.d/LIT-2001.md)).
+- A Proposed demonstrated claim: coexistence by frequency dependence is not cooperation, with Hawk–Dove as the exact case ([CLAIM-546](record/claims.d/CLAIM-546.md)).
+- A Proposed interpretive claim: cooperation within groups and the coexistence of groups can trade off. Nowak's group-selection rule is an instance, since its cooperation is bought by group extinction ([CLAIM-547](record/claims.d/CLAIM-547.md)).
+- A question on whether moral norms can be stabilizing mechanisms among groups ([QUESTION-371](record/questions.d/QUESTION-371.md)).
+- Two of the four works read at the owner's request:
+  - West et al. 2015 ([NOTE-1538](record/notes.d/NOTE-1538.md), [THEORY-1351](record/theory.d/THEORY-1351.md)), with notes on [CLAIM-474](record/claims.d/CLAIM-474.md), [QUESTION-277](record/questions.d/QUESTION-277.md) and [THEORY-141](record/theory.d/THEORY-141.md);
+  - Van Lange and Bergmann 2026 ([NOTE-1537](record/notes.d/NOTE-1537.md), [THEORY-1352](record/theory.d/THEORY-1352.md)), with notes on [CLAIM-547](record/claims.d/CLAIM-547.md) and [QUESTION-371](record/questions.d/QUESTION-371.md).
+- Henrich and Muthukrishna 2021 is Unfetched, since the authors' copy refuses this client. Maynard Smith and Szathmáry is Unavailable, with no open copy.
+- A Proposed decision that reading and filing follow a written protocol ([ADR-068](record/decisions.d/ADR-068.md)), at the owner's suggestion. Its eight invariants are in the ADR. Its steps, with the reader's brief, are in a new skill, `.claude/skills/read-and-file/SKILL.md`, which is edited as practice changes, and CLAUDE.md points to it.
+- A Rejected source ARG: Van Lange and Bergmann do not establish [CLAIM-547](record/claims.d/CLAIM-547.md) as titled, only its first link ([ARG-052](record/arguments.d/ARG-052.md)). The review leaves the claim's grounds and corroborates it instead ([THEORY-1352](record/theory.d/THEORY-1352.md)). West et al.'s account corroborates [CLAIM-474](record/claims.d/CLAIM-474.md) ([THEORY-1351](record/theory.d/THEORY-1351.md)).
+- The `read-and-file` skill's step 9 now covers ARGs, `corroborates` and `rivals`. The first pass under it had filed no ARG where [ADR-061](record/decisions.d/ADR-061.md) asks for one.
+- CLAUDE.md, and the `read-and-file` skill, now point to `docs/record.md`, the generated description of `luria.yaml`, and to Luria's configuration reference.
+
+[ADR-072](record/decisions.d/ADR-072.md): the second-time rule now governs only the record's process documents (ADRs and DPs). An idea a source surfaces is filed when it has content of its own and is not already held. CLAUDE.md and read-and-file step 9 point to it, and [ADR-032](record/decisions.d/ADR-032.md) has a dated note. At the owner's direction.
+
+The owner's pasted synthesis on hierarchical probabilistic models in cognitive science, by another assistant: of its thirteen works, HDDM was held ([LIT-563](record/literature.d/LIT-563.md)); the other twelve were registered and read from lawful copies, each with a LIT, a NOTE and a Proposed THEORY (Kemp et al. 2007 and 2010, Lucas & Griffiths 2010, Körding et al. 2007, Collins & Frank 2013, Collins et al. 2014, Gershman et al. 2010, Lake et al. 2015, Baker et al. 2017, Jiang & Lucas 2024, Mathys et al. 2011 and 2014). Dated notes on [QUESTION-276](record/questions.d/QUESTION-276.md), [QUESTION-325](record/questions.d/QUESTION-325.md), [QUESTION-333](record/questions.d/QUESTION-333.md), [CLAIM-543](record/claims.d/CLAIM-543.md), [CLAIM-337](record/claims.d/CLAIM-337.md), [CLAIM-446](record/claims.d/CLAIM-446.md) and [CASE-165](record/cases.d/CASE-165.md). The curation entry maps the synthesis and records A's errors: invented quotations, weak rivals, and 'hierarchical' misapplied.
+
+### Added
+
+- The exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07, U1–U24) is filed. It went from the record's core synthesis, through synchronization as a laboratory, timescale separation and slaving, metastability and absorbing states, sheaves of viable histories and coordination dynamics, software products and contested succession, to meaning, "anti-vax", will and disposition. Seven readers read every turn, checked every record code the replies cited and reran their mathematics. A workbench entry records each run of turns, and a curation entry gives the map, the codes filed and what was left.
+- The owner's own contributions:
+  - synchronization as a laboratory for the record's distinctions ([CLAIM-616](record/claims.d/CLAIM-616.md), U4), and the conjecture that a locking region lies inside the compatibility region of the same demands ([CLAIM-618](record/claims.d/CLAIM-618.md), U4);
+  - a proposed study of contested against accepted succession in open-source projects ([CASE-223](record/cases.d/CASE-223.md), U16);
+  - the label "anti-vax" as a case ([CASE-222](record/cases.d/CASE-222.md)) and the question whether it is one concept, several, or a relation among rival uses ([QUESTION-439](record/questions.d/QUESTION-439.md)), both from U19;
+  - the term "disposition", of a declared bearer within a declared boundary, raised at U22 ([TERM-118](record/terms.d/TERM-118.md), wording A's);
+  - dated notes carrying U6, U14 and U15.
+- Sixteen of A's entries, all Proposed: three kinds of critical slowing; survival-conditioned statistics as no evidence of persistence, with its chain; viable-history sheaves whose restriction need not be onto; hidden mechanisms leaving a non-sheaf presheaf, with its construction and question; adaptive HKB; the forced and suppressed Stuart–Landau oscillator and its question; slaving and precedence; succession made by participants' verdicts; rival uses of an expression; jurisdiction over a concept's contexts; the fork; and a two-community category-revision study.
+- Five synthesis CLAIMs, at the owner's request, under the synthesis audit [ADR-075](record/decisions.d/ADR-075.md) proposes: the supposed account of the record's own lines (A7), possibility organization as what persists (A29), historical structuralism about identity (A37), meaning, perspective and will in the same account (A45), and the dispositional reframing (A52), each with its components mapped, the owner's contributions credited and A's errors corrected. The audit is in the workbench entry, and its findings in the curation entry's "Syntheses audited".
+- Eight ARGs, filed at the owner's review: six Proposed and two Rejected, one of which removes [CASE-002](record/cases.d/CASE-002.md) from a claim's grounds.
+- Eighty-one dated notes of 2026-11-07 on the entries the readings bear on.
+- Thirty-six cited works registered unread, every identifier checked; the checks corrected A's attribution of one review and the dates of two works.
+- The second share of the exchange (U25–U28, the owner's extension): the owner's thesis of counter-normativity ([CLAIM-614](record/claims.d/CLAIM-614.md)) and question ([QUESTION-441](record/questions.d/QUESTION-441.md)); A's second-order wrong of answerability, counter-corrective disposition, incomparable-distinctions claim, contested-label study and [CASE-110](record/cases.d/CASE-110.md) extension; the reader's agenda-cycle construction for [CLAIM-448](record/claims.d/CLAIM-448.md), at the owner's direction; twelve ARGs; revisions of six of this filing's entries and two synthesis CLAIMs; five works registered unread; notes on 27 more entries.
+
+- At A's review of the pull request: the matched-harm construction separating the second-order wrong from the harm ([CASE-229](record/cases.d/CASE-229.md), with its ARG); three failures of occlusion kept apart in the answerability claim; the counter-corrective disposition no longer identified with a fink; the anti-vax case's title made provisional; A's qualification beside the owner's counter-normativity claim.
+
+### Changed
+
+- `.claude/settings.json` (dmarx/nucleation#421, merged separately) lets the session fetch public ChatGPT share links; this filing is the first to use it.
+- The `read-and-file` skill's step 10 now asks the filer to list the filing's support judgements and file each as an ARG before the curation entry; this filing's brief left the rule out.
+
+### Added
+
+- [ADR-083](record/decisions.d/ADR-083.md) (Proposed, version 2): an account the record holds only in parts, for a line or a part of one, gets an unadmitted SYNTHESIS that restates it, giving the account an address.
+  - An unadmitted account adds nothing, has no admission route and cannot be set Current.
+  - There is one account per scope, and a line's synthesis may be built over its parts' syntheses.
+  - A line whose parts barely relate is reported as a candidate to split.
+  - `docs/current-account.md` lists unadmitted accounts last, under "Accounts held in parts".
+- [ADR-082](record/decisions.d/ADR-082.md) (Proposed): the nucleating-argument line is split in three, on the relations among its parts' components. Two lines are added, `records-of-inquiry` and `record-as-apparatus`, and 43 entries move to them, each with a history note. Five of them keep nucleating-argument beside the new line, because they answer, refine or object to one of its entries (version 2): [CLAIM-178](record/claims.d/CLAIM-178.md), [CLAIM-183](record/claims.d/CLAIM-183.md), [CLAIM-189](record/claims.d/CLAIM-189.md), [CLAIM-181](record/claims.d/CLAIM-181.md) and [QUESTION-108](record/questions.d/QUESTION-108.md).
+- The demonstration, six syntheses:
+  - **nucleating-argument:**
+    - [SYNTHESIS-016](record/syntheses.d/SYNTHESIS-016.md), its synthesis over its three parts, admitted by derivation: when filing costs at least twice a reconstruction's overpayment, the break-even filing rule and the drift-catching second-occurrence rule part, and the competitive guarantee prices none of the drift between them;
+    - three unadmitted part accounts: drift ([SYNTHESIS-014](record/syntheses.d/SYNTHESIS-014.md)), anchors ([SYNTHESIS-013](record/syntheses.d/SYNTHESIS-013.md)) and the costs of anchoring ([SYNTHESIS-015](record/syntheses.d/SYNTHESIS-015.md)).
+  - **records-of-inquiry:** an unadmitted account, [SYNTHESIS-017](record/syntheses.d/SYNTHESIS-017.md).
+  - **record-as-apparatus:** an unadmitted account, [SYNTHESIS-012](record/syntheses.d/SYNTHESIS-012.md).
+- `scratch/formal/line_parts.py` counts the relations among a line's parts.
+
+### Changed
+
+- The `synthesis-review` skill:
+  - files or revises an unadmitted account when an opportunity fails only because the record already holds it;
+  - builds a line's synthesis over its parts;
+  - reports lines whose parts barely relate.
+
+  Readers' briefs now state the tests neutrally.
+- The current-account template cites [ADR-075](record/decisions.d/ADR-075.md) by number.
+
+### Changed
+
+- CI pins luria 1.10.0, up from 1.9.0. 1.10.0 adds `luria unconcretize CODE...`, which gives a numbered document its number back as a temporary code, recording the old code under `formerly:` unless `--noformerly`. `concretize` now also rewrites `luria.yaml`. Nothing in CI calls the new command, so the record's checks are unchanged.
+
+### Changed
+
+- CI pins luria 1.9.0, up from 1.7.0. 1.8.0 adds an opt-in `luria repair --prune_stale` and a `repair:` table in `luria.yaml` for repair flags, both off unless set. 1.9.0 renders `docs/record.md` from a template, leaves out a section with nothing to show, and adds a warn-first `undescribed-schemes` lint class. This record's schemes all describe themselves, so the class does not fire here, and `docs/record.md` now gains its "What each family is" section.
+
+### Fixed
+
+- Stale or mis-cited passages that the nucleating-argument line account found, each with a history note:
+  - [CLAIM-177](record/claims.d/CLAIM-177.md)'s summary still called it Proposed.
+  - [CASE-183](record/cases.d/CASE-183.md) said neither measure had been computed; inbound references per code were counted on 2026-11-06.
+  - [CLAIM-184](record/claims.d/CLAIM-184.md)'s summary named a ground that had been removed, and a test that has since been run.
+  - The summaries of [TERM-089](record/terms.d/TERM-089.md) and [TERM-095](record/terms.d/TERM-095.md) still said "Proposed".
+  - [QUESTION-107](record/questions.d/QUESTION-107.md) called [LIT-1079](record/literature.d/LIT-1079.md) unread.
+  - [CLAIM-299](record/claims.d/CLAIM-299.md) cited [CLAIM-190](record/claims.d/CLAIM-190.md), which is Superseded, as current.
+  - [CLAIM-314](record/claims.d/CLAIM-314.md) overstated [CLAIM-308](record/claims.d/CLAIM-308.md)'s bound.
+  - [CASE-084](record/cases.d/CASE-084.md)'s illustration of [CLAIM-190](record/claims.d/CLAIM-190.md) is marked as history.
+
+### Changed
+
+- The `read-and-file` skill now has readers check the record a second time, after reading, with what the reading surfaced: the constructions it rebuilds, the examples it reinvents and the terms of art it involves. The first search can only use the source's own words. This came from the owner, during the filing of "Organizational Nucleation and SLT".
+
+### Added
+
+- The exchange "Organizational Nucleation and SLT" (29 owner turns, continuing "Assess SDT Coverage") is filed. Seven readers read every turn, rechecked the record, and reran A's mathematics and code. A curation entry and a workbench entry record what was found. Most of the exchange was already held.
+- The owner's claims, each Proposed:
+  - the compatibility complex and SLT's singular geometry are two invariants of one object ([CLAIM-555](record/claims.d/CLAIM-555.md), U5);
+  - a perspective's tolerance is its directed endorsement criterion ([CLAIM-552](record/claims.d/CLAIM-552.md), U12);
+  - a per-perspective intervention threshold times channel, so that not intervening is not endorsing ([CLAIM-553](record/claims.d/CLAIM-553.md), U15);
+  - activation does not require expected success ([CLAIM-548](record/claims.d/CLAIM-548.md), U18);
+  - tolerance derived from threshold ([CLAIM-550](record/claims.d/CLAIM-550.md), U15 → U17 → U19).
+- Two of A's claims, each Proposed: niche differentiation as relief of structural frustration ([CLAIM-554](record/claims.d/CLAIM-554.md)), and the quiescent complex is not the requirement complex ([CLAIM-549](record/claims.d/CLAIM-549.md)).
+- At the owner's review, the DBT reading of U29's "cognitive dysregulation" as its own Proposed claim ([CLAIM-551](record/claims.d/CLAIM-551.md)), beside A29's attentional reading, grounded in Crowell, Beauchaine and Linehan (2009), registered and skimmed ([LIT-2005](record/literature.d/LIT-2005.md), [NOTE-1539](record/notes.d/NOTE-1539.md)).
+- Two Proposed terms: higher-order volition ([TERM-102](record/terms.d/TERM-102.md)), the reflective sense of "endorse", kept apart from [TERM-053](record/terms.d/TERM-053.md); and motivating perspective ([TERM-104](record/terms.d/TERM-104.md)).
+- A question holding the owner's U19 chain ([QUESTION-372](record/questions.d/QUESTION-372.md)).
+- Four constructions, with scripts in scratch/formal/:
+  - three species with a bistable band ([CASE-196](record/cases.d/CASE-196.md));
+  - an SLT invariant does not track the complex ([CASE-193](record/cases.d/CASE-193.md));
+  - three organizations at 50% ([CASE-194](record/cases.d/CASE-194.md));
+  - the toy model of superposition's per-feature complex ([CASE-197](record/cases.d/CASE-197.md)).
+- Thirty dated notes on held entries. Where A misread a term of art (nucleation, frustration, the sheaf account, endorsement, psychological flexibility), the entry or note records both the idea as A stated it and what A would have proposed with the term read as intended.
+- At the owner's decision, [ADR-070](record/decisions.d/ADR-070.md) splits and renames [TERM-053](record/terms.d/TERM-053.md)'s "endorsement": conferral ([TERM-103](record/terms.d/TERM-103.md)) is its definition renamed, grant ([TERM-101](record/terms.d/TERM-101.md)) is A14's narrowing to conferral through a maintained relation, and "endorse" is left to higher-order volition ([TERM-102](record/terms.d/TERM-102.md)). [TERM-053](record/terms.d/TERM-053.md) is Superseded; the six claims that used it now use the new terms, and this filing's claims are restated in them.
+- At the owner's review, [CASE-079](record/cases.d/CASE-079.md) v2 (coordination through the canvas as well as off it) and Dong, "The Kinetics of Training", registered unread ([LIT-2006](record/literature.d/LIT-2006.md)).
+- At the owner's review, two constructions for alternative readings: the DBT and attentional readings of U29's "cognitive dysregulation" as two arms ([CASE-192](record/cases.d/CASE-192.md)), and U19's slash read as one property at two scales, organizational flexibility by propagation through a conferral network ([CASE-195](record/cases.d/CASE-195.md)), with scripts in scratch/formal/.
+- The [ADR-070](record/decisions.d/ADR-070.md) sweep: every use of "endorse" in the record's own claims, cases, questions, terms and arguments was read and assigned, in 67 files, to conferral, to grant, or left in the reflective or ordinary sense; quotes are untouched, and readings of others' works and dated journals keep their words. Files citing the Superseded [TERM-053](record/terms.d/TERM-053.md) carry a marker saying so.
+
+### Changed
+
+- [ADR-081](record/decisions.d/ADR-081.md) (Proposed): the Pages site deploys at most once every two hours. A merge still triggers the workflow. A new `gate` job skips the build when the last deploy to `github-pages` is under two hours old, or already published the commit. A scheduled run every two hours publishes what was skipped, and a manual run always builds.
+
+- Persistence after shocks and support, and people against places, read to fill gaps the supplied-maintenance filing left: Davis & Weinstein 2002 and their search for multiple equilibria; Bleakley & Lin 2012 on portage; Chetty, Hendren & Katz 2016 on Moving to Opportunity. Dated notes on [CLAIM-600](record/claims.d/CLAIM-600.md), [CLAIM-604](record/claims.d/CLAIM-604.md) and [QUESTION-398](record/questions.d/QUESTION-398.md).
+
+Dong, "The Kinetics of Training" ([LIT-2006](record/literature.d/LIT-2006.md)), read at the owner's request: [NOTE-1540](record/notes.d/NOTE-1540.md) (Read), [THEORY-1353](record/theory.d/THEORY-1353.md) (Proposed), the LIT corrected to the 1B scale its experiments reach, and dated notes on [QUESTION-281](record/questions.d/QUESTION-281.md), [QUESTION-039](record/questions.d/QUESTION-039.md), [QUESTION-363](record/questions.d/QUESTION-363.md) and [CLAIM-347](record/claims.d/CLAIM-347.md).
+
+### Added
+
+- Three lint checks, `read_but_unreached`, `read_but_unfetched` and `read_but_unreviewed`, fail on a `Read` note whose work is marked `Unavailable`, `Unfetched` or `Deferred` ([ADR-069](record/decisions.d/ADR-069.md)). A `Skimmed` note on such a work is allowed. There are no matches today.
+
+### Changed
+
+- [ADR-080](record/decisions.d/ADR-080.md) (Proposed): a claim's `rests_on` may name a SYNTHESIS, and SYNTHESIS gains the derived converse `supports`. The `argument` chain now walks the named pattern `rests_on_claim`, which keeps its claim-to-claim steps, since a chain stays within one scheme.
+- [CLAIM-338](record/claims.d/CLAIM-338.md) now rests on [SYNTHESIS-011](record/syntheses.d/SYNTHESIS-011.md), and [CLAIM-544](record/claims.d/CLAIM-544.md) on [SYNTHESIS-007](record/syntheses.d/SYNTHESIS-007.md). Each had rested on the claim that moved into the scheme.
+- The `synthesis-review` skill repoints a claim's `rests_on` when it moves the claim rested on.
+
+### Added
+
+- By-products of the second synthesis review, filed at the owner's direction:
+  - [CLAIM-629](record/claims.d/CLAIM-629.md), demonstrated, answers part of [QUESTION-127](record/questions.d/QUESTION-127.md). Common descent is constant on the orbits of every function-preserving symmetry that is a diffeomorphism of the parameters. [CLAIM-365](record/claims.d/CLAIM-365.md)'s residual in a fixed Euclidean norm is constant only where the symmetry's derivative is orthogonal, so it holds across permutations and changes along ReLU rescalings. Checked in `scratch/formal/orbit_descent_check.py`.
+  - Dated notes:
+    - on [CLAIM-572](record/claims.d/CLAIM-572.md) and [QUESTION-374](record/questions.d/QUESTION-374.md): the shared budget of 4.125 that agreement on [CASE-206](record/cases.d/CASE-206.md)'s vertex needs;
+    - on [CLAIM-562](record/claims.d/CLAIM-562.md) and [QUESTION-380](record/questions.d/QUESTION-380.md): UFI is monotone in the actuator set;
+    - on [CASE-210](record/cases.d/CASE-210.md): what records per capacity can show, after [SYNTHESIS-009](record/syntheses.d/SYNTHESIS-009.md);
+    - on [CLAIM-366](record/claims.d/CLAIM-366.md): its disclaimer of function-preserving symmetries now covers only those that are not diffeomorphisms.
+
+### Fixed
+
+- Corrections the second synthesis review found, each with a history note:
+  - [CLAIM-404](record/claims.d/CLAIM-404.md) now quotes [CLAIM-348](record/claims.d/CLAIM-348.md)'s current wording ("cannot be justified solely by").
+  - [CLAIM-572](record/claims.d/CLAIM-572.md)'s summary limits its greedy-stopping rate to the systems checked.
+  - [CLAIM-401](record/claims.d/CLAIM-401.md)'s citation of [THEORY-752](record/theory.d/THEORY-752.md) is narrowed to what it shows, and [THEORY-820](record/theory.d/THEORY-820.md) and [THEORY-733](record/theory.d/THEORY-733.md) join its grounds.
+  - [CLAIM-425](record/claims.d/CLAIM-425.md) calls itself the analogous regulation to [CLAIM-424](record/claims.d/CLAIM-424.md) ([CLAIM-349](record/claims.d/CLAIM-349.md)'s sense), not the same achievement.
+
+### Added
+
+- By-products of the third synthesis review:
+  - [QUESTION-448](record/questions.d/QUESTION-448.md) (Open, pragmatic-transport) asks where [CLAIM-111](record/claims.d/CLAIM-111.md)'s distribution criterion sits in [TERM-043](record/terms.d/TERM-043.md)'s fidelity profile, and whether its choice of divergence fixes a ranking [CLAIM-128](record/claims.d/CLAIM-128.md) says the theory does not fix. Total variation and KL order two failing renderings oppositely.
+  - Dated notes:
+    - on [QUESTION-284](record/questions.d/QUESTION-284.md): its answers use "constitute" in three senses;
+    - on [CLAIM-529](record/claims.d/CLAIM-529.md): knockout tests dependence, so it tests constitution only on a neutral reading of [TERM-088](record/terms.d/TERM-088.md);
+    - on [QUESTION-038](record/questions.d/QUESTION-038.md): built-on against productive anchors;
+    - on [TERM-051](record/terms.d/TERM-051.md): the information decomposition does not separate top-down from bidirectional.
+
+### Fixed
+
+- Fixes the third synthesis review found, each with a history note:
+  - [CLAIM-348](record/claims.d/CLAIM-348.md)'s defeater asks for a coarse-graining that merges some states, so the identity description no longer meets it.
+  - [CLAIM-592](record/claims.d/CLAIM-592.md)'s summary states the cost order at [CASE-206](record/cases.d/CASE-206.md)'s vertex exactly: depth dearer than both mode and side, in 8 of 24 orders.
+  - [CLAIM-410](record/claims.d/CLAIM-410.md)'s title reads "governing positions, among them …", after its own note found more than five.
+  - [CLAIM-191](record/claims.d/CLAIM-191.md) rests on [CLAIM-090](record/claims.d/CLAIM-090.md), which its direction clause needs.
+  - [CLAIM-128](record/claims.d/CLAIM-128.md) and [CLAIM-214](record/claims.d/CLAIM-214.md) cite Jakobson's point as [CLAIM-033](record/claims.d/CLAIM-033.md)'s prior statement ([THEORY-170](record/theory.d/THEORY-170.md)).
+  - [CLAIM-368](record/claims.d/CLAIM-368.md)'s summary no longer calls the organizational-affect line Deferred.
+
+### Changed
+
+- Each of the ten schemes in `luria.yaml` now has a `title` and a `blurb`, saying what the family is for. These are drafted from CLAUDE.md and the ADRs that set the schemes up, for the owner to edit. `docs/record.md` shows them under "What each family is" once it is next regenerated.
+- `code.globs` now covers `.claude/skills/**/*.md`, so luria checks the codes the `read-and-file` skill cites ([ADR-068](record/decisions.d/ADR-068.md) among them) and reports them if one is retired. The skill is scanned and not linked, so it stays plain text for the agent that loads it. Its citation of the Proposed [ADR-068](record/decisions.d/ADR-068.md) is acknowledged.
+
+- A provenance sweep after the twenty-ninth and thirtieth status reviews: eleven entries that still said a neighbour was "read Skimmed in" or "skimmed in" a NOTE now Read say "read in" (fifteen places), each with a history entry; [LIT-2105](record/literature.d/LIT-2105.md) no longer says Larson and Odoni's equations were not seen. The stale `inactive-ok` codes those passes left had already been pruned by the repair step, so no directive needed a change.
+
+- Solitons read at the owner's suggestion that their dynamics bear on individuation and persistence: Herr et al. 2014 (dissipative Kerr solitons); Grelu & Akhmediev 2012 (dissipative solitons); Grimshaw, Smyth & Stepanyants 2018, Zabusky & Porter's Scholarpedia entry, Cui & Wang and Zheng et al. standing in for Kivshar & Malomed 1989, Zabusky & Kruskal 1965 and Satsuma & Yajima 1974; Copeland, Gleiser & Müller 1995 and Fodor 2019 on oscillons; Tong on topological solitons; Purwins et al. and Akhmediev & Ankiewicz registered. The assistant's claim of three routes to persistence ([CLAIM-606](record/claims.d/CLAIM-606.md)), qualifying [CLAIM-604](record/claims.d/CLAIM-604.md)'s signatures. Dated notes on [CLAIM-600](record/claims.d/CLAIM-600.md), [CLAIM-604](record/claims.d/CLAIM-604.md), [QUESTION-085](record/questions.d/QUESTION-085.md) and [QUESTION-398](record/questions.d/QUESTION-398.md).
+
+### Fixed
+
+- Four temporary codes that a line break had split in folded prose, which the merge-time numbering therefore missed, now carry their numbers: [CLAIM-614](record/claims.d/CLAIM-614.md) in [SYNTHESIS-002](record/syntheses.d/SYNTHESIS-002.md) and [CLAIM-624](record/claims.d/CLAIM-624.md), [CLAIM-615](record/claims.d/CLAIM-615.md) in [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md) and [CLAIM-620](record/claims.d/CLAIM-620.md), and [ADR-076](record/decisions.d/ADR-076.md) and [ADR-075](record/decisions.d/ADR-075.md) in [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md). Found by the first synthesis review.
+- The `history:` lists of nine entries filed or revised in dmarx/nucleation#422 and [#424](https://github.com/dmarx/nucleation/issues/424) are in ascending order, so each ends at the document's version as lint requires; they had been written newest first.
+- `docs/README.md` links the current-account view, which [ADR-076](record/decisions.d/ADR-076.md) added without an index entry.
+
+- State-level aid evidence sought to fill a gap the supplied-maintenance filing left: Knack's cross-country tests of aid dependence and governance read (World Bank working paper); Bräutigam & Knack 2004 registered Unfetched and Ahmed 2012 Unavailable; dated notes on [CLAIM-600](record/claims.d/CLAIM-600.md), [CLAIM-602](record/claims.d/CLAIM-602.md) and [CLAIM-603](record/claims.d/CLAIM-603.md).
+
+- The twenty-fifth status review ([ADR-057](record/decisions.d/ADR-057.md)), in six clusters: 36 claims, 10 readings, 6 terms and 3 cases promoted, eight narrowings with their dropped clauses routed to three QUESTIONs and five extending THEORYs, and blocker notes on what stayed Proposed. [CLAIM-582](record/claims.d/CLAIM-582.md)'s witness replaced and checked by scratch/formal/claim582_witness.py; [THEORY-1483](record/theory.d/THEORY-1483.md)'s high-aid stability not reproduced by scratch/formal/azam_stability_check.py.
+
+- The twenty-sixth status review ([ADR-057](record/decisions.d/ADR-057.md)): 16 claims, one reading, one term ([TERM-106](record/terms.d/TERM-106.md)) and one case promoted; forty held entries whose blockers moved rechecked, one released; [CLAIM-518](record/claims.d/CLAIM-518.md) concedes [CLAIM-512](record/claims.d/CLAIM-512.md)'s broad horn; two pass-25 re-derivations second-checked; counts for [CLAIM-184](record/claims.d/CLAIM-184.md) and [CLAIM-185](record/claims.d/CLAIM-185.md) in scratch/formal/claim184_185_counts.py and a barcode check in scratch/formal/theory1420_barcode_check.py.
+
+- The twenty-seventh status review ([ADR-057](record/decisions.d/ADR-057.md) v8): 17 claims, 12 readings, 3 terms ([TERM-088](record/terms.d/TERM-088.md), [TERM-109](record/terms.d/TERM-109.md), [TERM-102](record/terms.d/TERM-102.md)) and 2 cases promoted; Gopalan et al., Schwerdtfeger, Lawvere 1973 and Ignatov read in full, four NOTEs to Read; Lawvere's max base found, correcting five entries; checks for [CASE-206](record/cases.d/CASE-206.md), [CASE-212](record/cases.d/CASE-212.md), the Boolean connectivity results and the Basic Theorem in scratch/formal/.
+
+- The twenty-eighth status review ([ADR-057](record/decisions.d/ADR-057.md) v8): 63 of the week's readings promoted under [ADR-065](record/decisions.d/ADR-065.md), twenty narrowed first, their demands moved to 24 QUESTIONs and 17 extending wide forms; [CLAIM-600](record/claims.d/CLAIM-600.md)'s grounds sorted into premises and corroboration; [CASE-213](record/cases.d/CASE-213.md) and four claims promoted; Rocks and Mehta read in full, with a check in scratch/formal/rocks_mehta_check.py.
+
+- The twenty-ninth status review ([ADR-057](record/decisions.d/ADR-057.md) v8): the skimmed sources behind the last pass's held readings read further. Twenty NOTEs to Read; nineteen THEORYs and three claims promoted, twelve of the THEORYs narrowed first; five QUESTIONs and four wide forms filed. [CLAIM-609](record/claims.d/CLAIM-609.md)'s overstatement corrected; errors fixed in the readings of Connelly and Whiteley, Raussen, Hua et al. and Chou et al.; five check scripts in scratch/formal/.
+
+- The thirtieth status review ([ADR-057](record/decisions.d/ADR-057.md) v8): the fourteen remaining skimmed sources read further. Twelve NOTEs to Read; twelve THEORYs and [CASE-197](record/cases.d/CASE-197.md) promoted, eight narrowed first; three wide forms and five QUESTIONs filed. The record's mis-statements of Lake et al.'s lesion result and Lu et al.'s R² corrected; slips in Vipond's and Foschi, Hull and Ku's proofs and equations recorded, Vipond's second-checked; Larson and Odoni read from the authors' course edition; twelve check scripts in scratch/formal/.
+
+- Supplied maintenance connected to the record's dissipative structures and to aid and development theory, at the owner's request:
+  - read: Moore 2004; Moss, Pettersson & van de Walle 2006; Ostrom, Gibson, Shivakumar & Andersson 2002; Andrews, Pritchett & Woolcock 2013 and Pritchett, Woolcock & Andrews's companion; Azam, Devarajan & O'Connell 1999;
+  - Rogers & Coates 2015 registered Unavailable and read through its Kenya and India summaries;
+  - dated notes on seven held entries.
+- The assistant's claim that upkeep a structure draws in through its own state, as a flame's is, has an ignition threshold, a collapse point in supply and an unrecoverable outage, which supplied upkeep lacks ([CLAIM-604](record/claims.d/CLAIM-604.md)), and its claim that aid used before an organization's own capacity crowds out capacity learned by doing while aid used after it does not ([CLAIM-602](record/claims.d/CLAIM-602.md)), with a reproduction script, scratch/formal/supplied_maintenance_toys.py.
+- The assistant's claim, after the owner's remark linking lost skill to specialization, that a capability lost because another supplies it is the Black Queen's favoured loss, and that one-way supply makes it dependency while reciprocal loss makes it interdependence ([CLAIM-603](record/claims.d/CLAIM-603.md)).
+- At the owner's request, after they linked that claim to Burning Man's gift economy: Mauss's Essai sur le don read; Burning Man's Ten Principles (Unavailable) read through St John 2017; Hattori 2001 (Unavailable) through Heins, Unrau & Avram 2018. [CLAIM-603](record/claims.d/CLAIM-603.md) adds the cost in standing of an unreturned gift and circular and generalized forms of reciprocity.
+- At the owner's suggestion, reintroduction and ecological recovery read for what makes support safe or hazardous to remove: Araki et al. 2008 and Christie et al. 2012 on captive rearing (Araki et al. 2007 Unavailable); Morris et al. 2021 on translocation (Resende et al. 2021 and Gross et al. 2023 Unavailable); Mussmann et al. 2017, Brown et al. 2019 and Underwood et al. 2013 on conservation reliance (Scott et al. 2010 Unavailable); Holl et al. 2024 and Schubert et al. 2024 on applied nucleation (Corbin & Holl 2012 and Holl et al. 2020 Unavailable); Kadowaki et al. 2018 and Schröder, Persson & De Roos 2005 on alternative states (Suding et al. 2004 Unavailable). The assistant's synthesis of when transient support can be withdrawn safely ([CLAIM-600](record/claims.d/CLAIM-600.md)).
+- At the owner's request, a counterpoint to the dependency material from the evidence against the lazy-poor stereotype (Banerjee et al. 2017; Baird et al. 2018; Evans & Popova; Banerjee et al. 2015; Banerjee, Duflo & Sharma 2021; Balboni et al. 2022; Haushofer & Fehr 2014), and urban development (Kline & Moretti 2014; Michaels et al. 2021; Neumark & Simpson 2015; Collins & Shester 2013; LaVoice 2024; Evans 1996; Watson 1995; Ostrom 1996 Unavailable). The synthesis ([CLAIM-600](record/claims.d/CLAIM-600.md)) revised: slack effort confined to assured, permanent help; a condition on size; standing inputs; slow reversion; and the unit of persistence.
+- After the owner read deprivation as time pressure and suggested lottery winners: the assistant's claim that a savings buffer is a stock of time ([CLAIM-601](record/claims.d/CLAIM-601.md)), with scratch/formal/deprivation_horizon_toy.py; Cesarini et al. 2017, Golosov et al. 2024 and Hankins, Hoekstra & Skiba 2011 on windfalls; Shah, Mullainathan & Shafir 2012 (Unavailable) through its working paper and the authors' replications, and Camerer et al. 2018. Time pressure is shown to be one instance of scarcity, not its route.
+
+- Medicine read to fill gaps the supplied-maintenance filing left: Broersen et al. 2015 and the 2024 ESE/Endocrine Society guideline on corticosteroid-induced adrenal suppression and tapering; Jaber et al. 2011 and Goligher et al. 2020 standing in for Levine et al. 2008 (Unavailable) on diaphragm atrophy under ventilation; Shah, Hart & Kaltsakas 2024 and Alía & Esteban 2000 standing in for Boles et al. 2007 (Unavailable) on weaning. Dated notes on [CLAIM-558](record/claims.d/CLAIM-558.md), [CLAIM-597](record/claims.d/CLAIM-597.md), [CLAIM-600](record/claims.d/CLAIM-600.md), [CLAIM-602](record/claims.d/CLAIM-602.md) and [QUESTION-398](record/questions.d/QUESTION-398.md).
+
+- The assistant's claim that, where learning by doing needs capacity already present, support that does the work has a deadline after which withdrawal no longer restores capacity, that a slow taper of such support is worse than an abrupt cut, and that capacity-first support needs no taper but cannot ignite a party below the threshold ([CLAIM-605](record/claims.d/CLAIM-605.md)), reconciling Azam et al.'s up-front cut with the Kenya exit study's gradual exits; reproduction script scratch/formal/capability_trap_toy.py.
+
+### Added
+
+- [ADR-084](record/decisions.d/ADR-084.md) (Proposed): a SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own. Whatever adds to its components is a CLAIM.
+  - It supersedes [ADR-076](record/decisions.d/ADR-076.md), [ADR-077](record/decisions.d/ADR-077.md) and [ADR-080](record/decisions.d/ADR-080.md).
+  - It amends [ADR-075](record/decisions.d/ADR-075.md), [ADR-078](record/decisions.d/ADR-078.md) and [ADR-083](record/decisions.d/ADR-083.md), which is now at version 3.
+- Two lint rules, both failing the build: `current_account_on_superseded_claim` and `current_account_on_superseded_account`. An account in force must follow its components' revisions.
+- New claims, filed from the syntheses that were never claims:
+  - [CLAIM-631](record/claims.d/CLAIM-631.md), the met-or-quiet complex (from [SYNTHESIS-008](record/syntheses.d/SYNTHESIS-008.md));
+  - [CLAIM-632](record/claims.d/CLAIM-632.md), the records' bounds on readiness (from [SYNTHESIS-009](record/syntheses.d/SYNTHESIS-009.md));
+  - [CLAIM-630](record/claims.d/CLAIM-630.md), where the two justifications of the coding rule part. This was version 2 of the nucleating-argument line's synthesis.
+
+### Changed
+
+- **The SYNTHESIS scheme is accounts only.**
+  - `role`, `warrant`, `admission`, `route`, `premises`, `grounds` and `uses` are removed, with their vocabularies.
+  - Its statuses are Current, Proposed and Superseded, and mean whether the mapping is right.
+  - `defeated_if` is fidelity.
+  - A synthesis may be superseded by a claim, and a claim by an account.
+- **Nine claims return under their own codes.** [CLAIM-615](record/claims.d/CLAIM-615.md), [CLAIM-624](record/claims.d/CLAIM-624.md), [CLAIM-611](record/claims.d/CLAIM-611.md), [CLAIM-610](record/claims.d/CLAIM-610.md), [CLAIM-620](record/claims.d/CLAIM-620.md), [CLAIM-474](record/claims.d/CLAIM-474.md), [CLAIM-545](record/claims.d/CLAIM-545.md), [CLAIM-600](record/claims.d/CLAIM-600.md) and [CLAIM-336](record/claims.d/CLAIM-336.md) take back the content of [SYNTHESIS-001](record/syntheses.d/SYNTHESIS-001.md) to 007, 010 and 011, with their standing kept. Each of those syntheses is Superseded by its claim.
+- **35 relations are repointed** from the syntheses to the claims: eight ARGs' `concludes`, two CASEs' `illustrates`, four claims' `rests_on` or `corroborates`, and 21 readings' `corroborates`.
+- **A claim's `rests_on` and `corroborates`, and a reading's `corroborates`, name claims only again.**
+  - The `argument` chain walks `rests_on` directly.
+  - The `revisions` chain walks the new pattern `supersedes_claim`.
+- **[SYNTHESIS-016](record/syntheses.d/SYNTHESIS-016.md) is now the nucleating-argument line's account** (version 3), over its three part accounts and [CLAIM-630](record/claims.d/CLAIM-630.md).
+- **The five other accounts from the line-accounts work** drop their claim fields and their "unadmitted" wording.
+- **The current-account view** sets out each line's accounts, and lists the lines with no account.
+- **Skills and scripts:**
+  - the `synthesis-review` skill and step 9b of `read-and-file` are rewritten for the new arms;
+  - `scratch/formal/synthesis_fixture.py` tests the new rules, and passes;
+  - `scratch/formal/synthesis_candidates.py` counts only accounts in force.
+
+### Removed
+
+- The pattern `rests_on_claim` and the six lint rules on admission, routes and premises.
+
+### Added
+
+- [ADR-075](record/decisions.d/ADR-075.md) (Proposed): a synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, instead of being mapped to its source turns and left. The audit checks attribution, coverage, fidelity, standing and integration; the latest version of each distinct proposed or supposed thesis becomes one Proposed CLAIM, revised in place when the account returns.
+- The `read-and-file` skill's step 9b carries it, and the curation entry gains a "Syntheses audited" section.
+
+### Changed
+
+- ADR codes are now minted as temporary codes and numbered at merge (`allocate: merge` in `luria.yaml`), like the record's other schemes. ADRs were the one scheme still numbered at filing, which is why this decision was first filed as [ADR-075](record/decisions.d/ADR-075.md).
+- [ADR-071](record/decisions.d/ADR-071.md), version 2: a decision goes with a demonstration of its effects, in the same pull request, so it is approved by what it does and git blame leads from it to what it changed. CLAUDE.md says so. The synthesis audit is the first instance: first opened alone as dmarx/nucleation#423, then folded into the filing that applies it.
+- [ADR-075](record/decisions.d/ADR-075.md), version 2, at A's review of the pull request as the owner refined it: a synthesis is filed only if a stated case has every component hold and the integration false. Applied to the six synthesis CLAIMs: five admitted, four on narrower titles, and the dispositional reframing not admitted. The skill's ARG rule is narrowed to load-bearing or contested support.
+- [ADR-075](record/decisions.d/ADR-075.md), versions 3 and 4, at A's second review and the owner's direction: three admission routes (independent hypothesis, derived result, explanatory integration), each with its own test; a synthesis that passes none and has not merged is withdrawn before merge, its text and audit kept in the curation entry, since not admitted is not refuted. The dispositional reframing is the first so withdrawn.
+
+### Added
+
+- [ADR-077](record/decisions.d/ADR-077.md) (Proposed): a claim moved into the SYNTHESIS scheme keeps its standing and its relations. An admitted Active CLAIM becomes a Current SYNTHESIS and a Proposed one stays Proposed. The scheme gains `grounds`, `uses` and `corroborated_by`, and the converses (`supports`, `used_by`, `corroborates`) now accept a SYNTHESIS. A review still never sets a new synthesis Current.
+- Its demonstration: [CLAIM-474](record/claims.d/CLAIM-474.md), the partial order of achievements from interconnection to individuation, moved as [SYNTHESIS-006](record/syntheses.d/SYNTHESIS-006.md). It is Current, the first Current synthesis, on the distributed-agency line, and the exemption for special classes in its defeater is bounded. [CASE-179](record/cases.d/CASE-179.md), [THEORY-1351](record/theory.d/THEORY-1351.md) and [SYNTHESIS-004](record/syntheses.d/SYNTHESIS-004.md) are repointed to it.
+
+### Changed
+
+- The `synthesis-review` skill's stage 4 carries a moved claim's standing, grounds, terms and corroboration.
+- [CLAIM-474](record/claims.d/CLAIM-474.md) is Superseded by [SYNTHESIS-006](record/syntheses.d/SYNTHESIS-006.md).
+
+### Added
+
+- Two by-products of the synthesis review of 2026-11-07, filed at the owner's request, both in the assistant's voice and Proposed or Open:
+  - [CLAIM-628](record/claims.d/CLAIM-628.md), resting on [CLAIM-537](record/claims.d/CLAIM-537.md) and [CLAIM-538](record/claims.d/CLAIM-538.md): the condition for one configuration to serve a class of disturbances an agent cannot tell apart, which is the class's edgewise half-range within tolerance plus the cycle condition at its midpoint offsets. Existence depends on the cohomology class and selection on edgewise spread, so reading the class exactly need not enable selection. It is checked against a linear program in `scratch/formal/class_selection_check.py`.
+  - [QUESTION-442](record/questions.d/QUESTION-442.md), refining [QUESTION-266](record/questions.d/QUESTION-266.md): whether the self-model that makes a valence regime felt ([CLAIM-439](record/claims.d/CLAIM-439.md)) is the one that presents its owner ([CLAIM-355](record/claims.d/CLAIM-355.md)), or whether the two can come apart.
+
+### Added
+
+- A periodic synthesis review, [ADR-078](record/decisions.d/ADR-078.md) (Proposed), carried by the new `synthesis-review` skill. Its first stage is mechanical: `scratch/formal/synthesis_candidates.py` ranks CLAIMs that may be syntheses filed as claims, and integrations the record holds only as parts (`complements` clusters, open questions with several answers, deep `rests_on` chains), and decides nothing. A reviewer then shortlists, audits each candidate with [ADR-075](record/decisions.d/ADR-075.md)'s checks and routes, and files only what is admitted. No synthesis is set Current.
+- The first review, its demonstration. It audited twelve candidates:
+  - [CLAIM-545](record/claims.d/CLAIM-545.md), A's freedom-of-will synthesis, is moved into the scheme as [SYNTHESIS-007](record/syntheses.d/SYNTHESIS-007.md) (admitted by hypothesis, four corrections marked), and [SYNTHESIS-002](record/syntheses.d/SYNTHESIS-002.md) and [SYNTHESIS-004](record/syntheses.d/SYNTHESIS-004.md) are repointed to it.
+  - [SYNTHESIS-008](record/syntheses.d/SYNTHESIS-008.md), in the assistant's voice, answers part of [QUESTION-131](record/questions.d/QUESTION-131.md) by derivation: a met-or-quiet complex, which is neither the requirement complex nor the quiescent complex, decides when structural frustration forces a member that is unmet and acting.
+  - [CLAIM-474](record/claims.d/CLAIM-474.md) is admitted, but stays an Active CLAIM until the owner decides whether to move it.
+  - Nine candidates were not admitted, each with its reason.
+
+  The curation entry "Synthesis review of 2026-11-07" holds the ranking, the verdicts and the lines still without a synthesis.
+
+### Changed
+
+- The current-account template keeps the blank line after a synthesis's status line.
+- [CLAIM-545](record/claims.d/CLAIM-545.md) is Superseded by [SYNTHESIS-007](record/syntheses.d/SYNTHESIS-007.md).
+
+### Added
+
+- The second synthesis review ([ADR-078](record/decisions.d/ADR-078.md)) audited twelve candidates:
+  - [CLAIM-600](record/claims.d/CLAIM-600.md), on when transient support can be withdrawn safely, moved as [SYNTHESIS-010](record/syntheses.d/SYNTHESIS-010.md), admitted by hypothesis. It is Current, keeping its standing ([ADR-077](record/decisions.d/ADR-077.md)). Its conditions are now judged before withdrawal, and a stale defeater clause is removed.
+  - [CLAIM-336](record/claims.d/CLAIM-336.md), the owner's thesis that the pragmatic-transport and will-organization lines describe one model, moved as [SYNTHESIS-011](record/syntheses.d/SYNTHESIS-011.md), Proposed. Its defeat is narrowed to a held-out test of matched complexity.
+  - [SYNTHESIS-009](record/syntheses.d/SYNTHESIS-009.md), in the assistant's voice, answers part of [QUESTION-395](record/questions.d/QUESTION-395.md) by derivation: records kept per capacity bound a reserve's readiness, refute it through the weakest capacity, and certify it only within a margin. With decay, a refutation outlasts the record and a certification does not.
+  - Nine candidates were not admitted, each with its reason.
+
+  The readiness line has its first syntheses. The curation entry "Synthesis review of 2026-11-07, second round" holds the ranking, the verdicts and the fixes found for the owner.
+
+### Changed
+
+- [CLAIM-600](record/claims.d/CLAIM-600.md) and [CLAIM-336](record/claims.d/CLAIM-336.md) are Superseded by their syntheses.
+- [CLAIM-558](record/claims.d/CLAIM-558.md), [CLAIM-603](record/claims.d/CLAIM-603.md) and twenty readings now corroborate [SYNTHESIS-010](record/syntheses.d/SYNTHESIS-010.md).
+- [ARG-065](record/arguments.d/ARG-065.md) now concludes [SYNTHESIS-011](record/syntheses.d/SYNTHESIS-011.md), and [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md) now integrates it.
+
+### Added
+
+- The third synthesis review ([ADR-078](record/decisions.d/ADR-078.md)) audited twelve candidates and admitted none. Six were claims, all atomic or out of scope. Six were opportunities: three `complements` clusters and a deep chain, and three open questions. Each is held by entries the record has, or depends on a free parameter. The curation entry "Synthesis review of 2026-11-07, third round" records:
+  - that nucleating-argument's integrations are held as claims;
+  - a gap: moving a claim that has objections would strand them;
+  - corrections to the first two rounds, among them that organizational-affect was never set aside.
+
+### Added
+
+- [ADR-076](record/decisions.d/ADR-076.md) (Proposed): a SYNTHESIS scheme for the record's integrations of its own entries. Its status (Current, Proposed, Rejected, Superseded) is about the integrating account; whether it earned an entry is a separate `admission` field (admitted, unadmitted). It has a required admission `route` (hypothesis, derived, integration), and `integrates` and `premises` relations whose targets' standing is derived, never copied.
+- A generated current-account view, `docs/current-account.md`, from `record/views.d/current-account.md.j2`. It sets out every Current or Proposed synthesis by line, with each component's live status.
+- The five syntheses admitted from "Individuation, Possibility, and Disposition" are moved into the scheme as the demonstration ([SYNTHESIS-003](record/syntheses.d/SYNTHESIS-003.md), [SYNTHESIS-004](record/syntheses.d/SYNTHESIS-004.md), [SYNTHESIS-001](record/syntheses.d/SYNTHESIS-001.md), [SYNTHESIS-005](record/syntheses.d/SYNTHESIS-005.md), [SYNTHESIS-002](record/syntheses.d/SYNTHESIS-002.md)); their CLAIMs are Superseded by them.
+
+### Changed
+
+- CLAIM's `superseded_by` accepts a SYNTHESIS, and ARG's `concludes` does too, with `argued_by` as its converse. The two ARGs that concluded the moved claims now conclude their syntheses.
+- The `read-and-file` skill's step 9b files an admitted synthesis as a SYNTHESIS.
+- Five lint rules, in `lint.fail_on`, enforce what the SYNTHESIS fields cannot say:
+  - premises within integrates, for claim and synthesis premises;
+  - a Current synthesis resting only on what is in force or adopted;
+  - derived meaning demonstrated.
+
+  `scratch/formal/synthesis_fixture.py` fires each rule on a throwaway record and checks the view.
+- The view gives each component's kind, and shows only admitted syntheses. CASE's `illustrates` accepts a SYNTHESIS. The ARGs and the case that described the current account now point to the syntheses.
+- [ADR-076](record/decisions.d/ADR-076.md), version 3: a Current synthesis must be admitted, and an unadmitted one may not keep a `route`. A `supposed` synthesis, whose adoption adopts a conditional account, is exempt from the premise-status rules and labelled conditional in the view. The fixture covers all three.
+
+- Six works the supplied-maintenance filing registered as Unavailable reclassified as Unfetched under [ADR-053](record/decisions.d/ADR-053.md), each with the copy's address, the blocker and the date; Resende et al. 2021 stays Unavailable for want of an exact address.
+- Suding, Gross & Houseman 2004 read from a copy [ADR-074](record/decisions.d/ADR-074.md) admits ([THEORY-1510](record/theory.d/THEORY-1510.md)), with dated notes on [CLAIM-604](record/claims.d/CLAIM-604.md), [CLAIM-600](record/claims.d/CLAIM-600.md) and the two works read in its place.
+
+- The status-review worklist ([ADR-057](record/decisions.d/ADR-057.md) v8): a concession conceded in part, or contradicted by a later blocker note saying the objection still stands, no longer counts as written in; a new section lists demonstrated claims that ground on readings not held, likely corroboration ([ADR-058](record/decisions.d/ADR-058.md)); `--show` takes several codes in one load. Three tests added. On main it surfaces one case, [CLAIM-512](record/claims.d/CLAIM-512.md)'s broad horn against [CLAIM-518](record/claims.d/CLAIM-518.md).
+
+### Added
+
+- Yang and Abanin (2025), "Integrals of motion as slow modes in dissipative many-body operator dynamics", read in full at the owner's request. It is the record's first work on open quantum many-body dynamics, and comes with two THEORYs, one Active and one Proposed.
+- Dated notes on [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-331](record/claims.d/CLAIM-331.md) and [CLAIM-394](record/claims.d/CLAIM-394.md), on what slowness marks and how weak noise and operator growth make a separation of time scales. A curation entry records the reading.
+
 <!-- luria-insert-here -->

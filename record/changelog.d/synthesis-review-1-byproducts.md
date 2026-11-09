@@ -1,5 +1,0 @@
-### Added
-
-- Two by-products of the synthesis review of 2026-11-07, filed at the owner's request, both in the assistant's voice and Proposed or Open:
-  - [CLAIM-628](record/claims.d/CLAIM-628.md), resting on [CLAIM-537](record/claims.d/CLAIM-537.md) and [CLAIM-538](record/claims.d/CLAIM-538.md): the condition for one configuration to serve a class of disturbances an agent cannot tell apart, which is the class's edgewise half-range within tolerance plus the cycle condition at its midpoint offsets. Existence depends on the cohomology class and selection on edgewise spread, so reading the class exactly need not enable selection. It is checked against a linear program in `scratch/formal/class_selection_check.py`.
-  - [QUESTION-442](record/questions.d/QUESTION-442.md), refining [QUESTION-266](record/questions.d/QUESTION-266.md): whether the self-model that makes a valence regime felt ([CLAIM-439](record/claims.d/CLAIM-439.md)) is the one that presents its owner ([CLAIM-355](record/claims.d/CLAIM-355.md)), or whether the two can come apart.
