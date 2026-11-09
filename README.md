@@ -1,19 +1,17 @@
-# nucleation
+<p align="center">
+  <img src="static/ice-crystal-nucleation.jpeg" width="320" height="240" alt="Link to luria site for this inquiry" href="https://dmarx.github.io/nucleation/">
+</p>
 
-you gotta start somewhere, right?
+<h1 align="center">Nucleation</h1>
 
-The catchall companion to the [Anthology of the SOTA](https://github.com/dmarx/anthology-of-the-sota):
-a record of whatever reading gets filed here, whether or not the anthology
-could also hold it —
-quantum foundations, network science, complex systems, mathematics,
-neuroscience, and whatever else gets read closely enough to be worth
-keeping. Same shape as the anthology's reading list — a note per work, a
-close reading per work actually read, and accounts of what is true — without
-the anthology's practice registry, because most of what lands here carries
-no instruction for anyone to follow.
+<p align="center">
+  you gotta start somewhere, right?
+</p>
 
-Start at [docs/README.md](docs/README.md).
+---
+
+An ongoing philosophical inquiry
 
 <!-- luria:site -->
-📖 **[dmarx.github.io/nucleation](https://dmarx.github.io/nucleation/)** — this record, published by `luria site`.
+📖 **[dmarx.github.io/nucleation](https://dmarx.github.io/nucleation/)** — Start Here.
 <!-- /luria:site -->
