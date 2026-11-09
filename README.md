@@ -14,7 +14,7 @@ A space for ideas to crystalize amidst an ongoing philosophical inquiry.
 
 
 <!-- luria:site -->
-📖 **[dmarx.github.io/nucleation](https://dmarx.github.io/nucleation/)** — Start Here.
+📖 **[dmarx.github.io/nucleation](https://dmarx.github.io/nucleation/)** — this record, published by `luria site`.
 <!-- /luria:site -->
 
 </div>
