@@ -1,5 +1,8 @@
 ---
+number: 22
 status: Proposed
+formerly:
+- SYNTHESIS-tmpkcch3
 title: 'Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model''s construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open'
 version: 1
 defeated_if: >-
@@ -30,9 +33,9 @@ integrates:
 <!-- inactive-ok-file: CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; components of this part, set aside with the line on 2026-10-04 and not moved since -->
 <!-- inactive-ok-file: ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
-# SYNTHESIS-tmpkcch3: Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open
+# SYNTHESIS-022: Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open
 
-*A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): feeling and access. The line's account is built over it and its two sibling parts, [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md) (the potential account of valence) and [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md) (corporate affect). Three of its components, [CLAIM-355](../claims.d/CLAIM-355.md), [CLAIM-439](../claims.d/CLAIM-439.md) and [QUESTION-442](../questions.d/QUESTION-442.md), are also in the line evidence-for-experience, whose account integrates them too.*
+*A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): feeling and access. The line's account is built over it and its two sibling parts, [SYNTHESIS-020](SYNTHESIS-020.md) (the potential account of valence) and [SYNTHESIS-018](SYNTHESIS-018.md) (corporate affect). Three of its components, [CLAIM-355](../claims.d/CLAIM-355.md), [CLAIM-439](../claims.d/CLAIM-439.md) and [QUESTION-442](../questions.d/QUESTION-442.md), are also in the line evidence-for-experience, whose account integrates them too.*
 
 ## The account
 
@@ -44,7 +47,7 @@ real, while the single owner a self-model or collective
 self-description attributes it to is a representational construction;
 the illusion, where there is one, is in the attribution and belongs to
 whichever system adopts it. A27: "The illusion might concern the owner,
-not the binding". It answers [QUESTION-053](../questions.d/QUESTION-053.md) ([SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md)) in part, by
+not the binding". It answers [QUESTION-053](../questions.d/QUESTION-053.md) ([SYNTHESIS-018](SYNTHESIS-018.md)) in part, by
 separating a state of the group from a subject that owns it. It leaves
 open whether the integrated state is felt, and its defeater says so:
 "Not defeated by evidence that the integrated state is felt". Its notes
@@ -53,7 +56,7 @@ objection is answered only conditionally, and [CASE-114](../cases.d/CASE-114.md)
 unified self-model misdescribing who controls what, has not run.
 
 **Felt as modelled.** [CLAIM-439](../claims.d/CLAIM-439.md) (filed at the owner's direction,
-2026-10-23; thesis, interpretive, Proposed; rests on [CLAIM-440](../claims.d/CLAIM-440.md), [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md);
+2026-10-23; thesis, interpretive, Proposed; rests on [CLAIM-440](../claims.d/CLAIM-440.md), [SYNTHESIS-020](SYNTHESIS-020.md);
 second line evidence-for-experience). A regime of valence is felt, "in
 the sense of attended and available to the system's other processes",
 when a deeper process infers which ordering wins the negotiation, which
@@ -67,7 +70,7 @@ potential it models is motivational, "the claim is a theory of felt
 motivation". For an organization the model is its reporting of what
 wins its conflicts to those who govern it, so Wells Fargo's board,
 told that terminations were "in the range of 200-300", had "mis-felt
-valence, not unfelt valence" ([CASE-151](../cases.d/CASE-151.md), [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md)). Its note of 2026-10-24
+valence, not unfelt valence" ([CASE-151](../cases.d/CASE-151.md), [SYNTHESIS-018](SYNTHESIS-018.md)). Its note of 2026-10-24
 records a suggested extension, "not yet the claim", to process-relative
 evaluations prevailing or not; its note of 2026-10-31 says Massumi's
 "felt" is this claim's unfelt.
@@ -83,7 +86,7 @@ the binding thesis [CLAIM-355](../claims.d/CLAIM-355.md) meets [THEORY-101](../t
 the feeling, the claim's illusion empties for that case."
 
 **The two self-models.** [QUESTION-442](../questions.d/QUESTION-442.md) (the assistant's, Open; primary
-line evidence-for-experience; refines [QUESTION-266](../questions.d/QUESTION-266.md), [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md)) asks whether
+line evidence-for-experience; refines [QUESTION-266](../questions.d/QUESTION-266.md), [SYNTHESIS-020](SYNTHESIS-020.md)) asks whether
 the self-model that makes a regime felt in [CLAIM-439](../claims.d/CLAIM-439.md)'s sense is the one
 that presents [CLAIM-355](../claims.d/CLAIM-355.md)'s single owner. The review of 2026-11-07 "tried
 to integrate them and found the link was a new conjecture".
@@ -145,7 +148,7 @@ Three candidates within the part were tried.
 ## What it does not say
 
 - That any organization feels, in any sense. [CLAIM-439](../claims.d/CLAIM-439.md) is a condition,
-  and its test is [QUESTION-266](../questions.d/QUESTION-266.md) ([SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md)).
+  and its test is [QUESTION-266](../questions.d/QUESTION-266.md) ([SYNTHESIS-020](SYNTHESIS-020.md)).
 - That experience is unreal: [CLAIM-355](../claims.d/CLAIM-355.md) refuses that inference.
 - That feeling in the phenomenal sense is settled either way:
   [QUESTION-059](../questions.d/QUESTION-059.md) is Deferred and [CLAIM-439](../claims.d/CLAIM-439.md) declines that sense.

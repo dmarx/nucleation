@@ -1,5 +1,8 @@
 ---
+number: 23
 status: Proposed
+formerly:
+- SYNTHESIS-tmpt247p
 title: 'The authenticity line holds, set aside, that a will is the agent''s own to the degree its commitments arise through, remain integrated with and are answerable to its constitutive organization, and that this grounds normativity from a whole to its constituents but not between peers; it was deferred because its ownership criteria do not survive manipulation, and what it has gained since is a candidate content for "integrated", non-domination of the processes that carry a commitment, with the objection that non-domination cannot be read from low supervisory cost, or from override alone, but only under intervention, when a constituent dissents, or from history'
 version: 1
 defeated_if: >-
@@ -39,7 +42,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-362 CLAIM-364 ARG-030 — Proposed; components on the line, open -->
 <!-- inactive-ok-file: CLAIM-358 CLAIM-428 THEORY-029 THEORY-040 THEORY-047 THEORY-054 THEORY-074 THEORY-075 THEORY-118 THEORY-119 THEORY-122 THEORY-147 THEORY-1283 THEORY-1285 ADR-075 — Proposed; cited as the components cite them, nothing here rests on them -->
 
-# SYNTHESIS-tmpt247p: The authenticity line holds, set aside, that a will is the agent's own to the degree its commitments arise through, remain integrated with and are answerable to its constitutive organization, and that this grounds normativity from a whole to its constituents but not between peers; it was deferred because its ownership criteria do not survive manipulation, and what it has gained since is a candidate content for "integrated", non-domination of the processes that carry a commitment, with the objection that non-domination cannot be read from low supervisory cost, or from override alone, but only under intervention, when a constituent dissents, or from history
+# SYNTHESIS-023: The authenticity line holds, set aside, that a will is the agent's own to the degree its commitments arise through, remain integrated with and are answerable to its constitutive organization, and that this grounds normativity from a whole to its constituents but not between peers; it was deferred because its ownership criteria do not survive manipulation, and what it has gained since is a candidate content for "integrated", non-domination of the processes that carry a commitment, with the objection that non-domination cannot be read from low supervisory cost, or from override alone, but only under intervention, when a constituent dissents, or from history
 
 ## The account
 

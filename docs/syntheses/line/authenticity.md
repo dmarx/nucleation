@@ -6,8 +6,8 @@
 
 **Authenticity and concordance** — what makes a will-organization the agent's own, and normativity across the scales an agent spans. Set aside on 2026-10-05 as future work.
 
-0 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 23 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-023](../../../record/syntheses.d/SYNTHESIS-023.md) | The authenticity line holds, set aside, that a will is the agent's own to the degree its commitments arise through, remain integrated with and are answerable to its constitutive organization, and that this grounds normativity from a whole to its constituents but not between peers; it was deferred because its ownership criteria do not survive manipulation, and what it has gained since is a candidate content for "integrated", non-domination of the processes that carry a commitment, with the objection that non-domination cannot be read from low supervisory cost, or from override alone, but only under intervention, when a constituent dissents, or from history |  | Proposed |

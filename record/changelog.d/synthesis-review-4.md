@@ -1,8 +1,8 @@
 ### Added
 
 - Synthesis review of 2026-11-10 (fourth round, curation entry of that date). It files accounts for the three smallest lines that had none:
-  - authenticity ([SYNTHESIS-tmpt247p](record/syntheses.d/SYNTHESIS-tmpt247p.md));
-  - evidence-for-experience ([SYNTHESIS-tmpdckug](record/syntheses.d/SYNTHESIS-tmpdckug.md));
-  - organizational-affect, as three part accounts ([SYNTHESIS-tmpi664y](record/syntheses.d/SYNTHESIS-tmpi664y.md) valence, [SYNTHESIS-tmpa0kd0](record/syntheses.d/SYNTHESIS-tmpa0kd0.md) corporate affect, [SYNTHESIS-tmpkcch3](record/syntheses.d/SYNTHESIS-tmpkcch3.md) feeling and access) and the line's account over them ([SYNTHESIS-tmpic4aw](record/syntheses.d/SYNTHESIS-tmpic4aw.md)).
+  - authenticity ([SYNTHESIS-023](record/syntheses.d/SYNTHESIS-023.md));
+  - evidence-for-experience ([SYNTHESIS-019](record/syntheses.d/SYNTHESIS-019.md));
+  - organizational-affect, as three part accounts ([SYNTHESIS-020](record/syntheses.d/SYNTHESIS-020.md) valence, [SYNTHESIS-018](record/syntheses.d/SYNTHESIS-018.md) corporate affect, [SYNTHESIS-022](record/syntheses.d/SYNTHESIS-022.md) feeling and access) and the line's account over them ([SYNTHESIS-021](record/syntheses.d/SYNTHESIS-021.md)).
 
   All are Proposed. No integrating link passed [ADR-075](record/decisions.d/ADR-075.md)'s test, so no claim is filed. Twenty-two component defects are recorded for a follow-up.

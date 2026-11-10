@@ -1,5 +1,8 @@
 ---
+number: 18
 status: Proposed
+formerly:
+- SYNTHESIS-tmpa0kd0
 title: 'A corporation can bear functional affect in Frijda''s sense, without its implying experience, and so can be read as lacking remorse when others'' harms reach its decisions only as threats, a reading Wells Fargo''s sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor''s concept is open, and the line''s first framing, what it is like to be a corporation, is retired'
 version: 1
 defeated_if: >-
@@ -35,9 +38,9 @@ integrates:
 <!-- inactive-ok-file: QUESTION-015 — Answered; the question that replaced QUESTION-019 -->
 <!-- inactive-ok-file: ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
-# SYNTHESIS-tmpa0kd0: A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired
+# SYNTHESIS-018: A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired
 
-*A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): corporate affect and responsibility. The line's account is built over it and its two sibling parts, [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md) (the potential account of valence) and [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md) (feeling and access).*
+*A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): corporate affect and responsibility. The line's account is built over it and its two sibling parts, [SYNTHESIS-020](SYNTHESIS-020.md) (the potential account of valence) and [SYNTHESIS-022](SYNTHESIS-022.md) (feeling and access).*
 
 ## The account
 
@@ -112,8 +115,8 @@ affect needs a group subject or only members' convergence ([THEORY-125](../theor
 against [THEORY-126](../theory.d/THEORY-126.md)). Its notes add a third option from Nowak et al., a
 coordinated configuration; record A27's separation of a state of the
 group from a subject that owns it, on which [CLAIM-355](../claims.d/CLAIM-355.md) answers in part
-([SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md)); and, from Massumi, differential attunement, whose nearest held
-account is [CLAIM-437](../claims.d/CLAIM-437.md) ([SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md)), "an analogy and not a shared mechanism".
+([SYNTHESIS-022](SYNTHESIS-022.md)); and, from Massumi, differential attunement, whose nearest held
+account is [CLAIM-437](../claims.d/CLAIM-437.md) ([SYNTHESIS-020](SYNTHESIS-020.md)), "an analogy and not a shared mechanism".
 
 **The first framing, retired.** [QUESTION-019](../questions.d/QUESTION-019.md) (Superseded by [QUESTION-015](../questions.d/QUESTION-015.md);
 the owner's U9), "What is it like to be Microsoft?", and [CASE-014](../cases.d/CASE-014.md)
@@ -172,7 +175,7 @@ Two candidates within the part were tried.
 
 - That a corporation feels anything. The affect is functional ([CLAIM-039](../claims.d/CLAIM-039.md),
   [CLAIM-432](../claims.d/CLAIM-432.md)), and whether functional affect must be felt is [QUESTION-059](../questions.d/QUESTION-059.md)
-  ([SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md)).
+  ([SYNTHESIS-022](SYNTHESIS-022.md)).
 - That the remorse–threat line is drawable for a corporation: [CLAIM-431](../claims.d/CLAIM-431.md)
   is unanswered.
 - That Wells Fargo shows more than "one firm, one business line, one

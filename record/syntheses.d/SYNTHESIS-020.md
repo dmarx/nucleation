@@ -1,5 +1,8 @@
 ---
+number: 20
 status: Proposed
+formerly:
+- SYNTHESIS-tmpi664y
 title: 'In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system''s read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in'
 version: 1
 defeated_if: >-
@@ -48,9 +51,9 @@ integrates:
 <!-- inactive-ok-file: CLAIM-039 CLAIM-162 — Proposed; premises of components, in sibling parts or lines, cited as open -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
-# SYNTHESIS-tmpi664y: In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in
+# SYNTHESIS-020: In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in
 
-*A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): the potential account of valence and its tests. The line's account is built over it and its two sibling parts, [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md) (corporate affect) and [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md) (feeling and access).*
+*A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): the potential account of valence and its tests. The line's account is built over it and its two sibling parts, [SYNTHESIS-018](SYNTHESIS-018.md) (corporate affect) and [SYNTHESIS-022](SYNTHESIS-022.md) (feeling and access).*
 
 ## The account
 
@@ -209,7 +212,7 @@ other relations change valence with the record of wins fixed
 
 - [CLAIM-440](../claims.d/CLAIM-440.md), the owner's (2026-10-23), worked through the same day;
   thesis, interpretive, Proposed; second line distributed-agency. Rests
-  on [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-283](../claims.d/CLAIM-283.md) and [CLAIM-039](../claims.d/CLAIM-039.md) ([SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md)).
+  on [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-283](../claims.d/CLAIM-283.md) and [CLAIM-039](../claims.d/CLAIM-039.md) ([SYNTHESIS-018](SYNTHESIS-018.md)).
 - [TERM-076](../terms.d/TERM-076.md), the owner's reframing, Proposed. [TERM-078](../terms.d/TERM-078.md), the second level
   of the hierarchy a review of PR [#327](https://github.com/dmarx/nucleation/issues/327) proposed, Active.
 - [CLAIM-434](../claims.d/CLAIM-434.md) and [CLAIM-436](../claims.d/CLAIM-436.md), demonstrated, Active; primary line
@@ -301,7 +304,7 @@ Three candidates within the part were tried against [ADR-075](../decisions.d/ADR
   goal-conduciveness valence. No record of wins has been read by
   [QUESTION-268](../questions.d/QUESTION-268.md)'s procedure.
 - That the regime is felt: [CLAIM-440](../claims.d/CLAIM-440.md) and [TERM-076](../terms.d/TERM-076.md) are functional, and
-  feeling is [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md)'s.
+  feeling is [SYNTHESIS-022](SYNTHESIS-022.md)'s.
 - That the account is about pleasure. That was conceded ([CLAIM-438](../claims.d/CLAIM-438.md),
   [CLAIM-433](../claims.d/CLAIM-433.md)).
 - That a potential must exist. [CLAIM-451](../claims.d/CLAIM-451.md): "That a potential is the

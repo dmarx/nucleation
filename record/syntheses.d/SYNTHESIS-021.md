@@ -1,5 +1,8 @@
 ---
+number: 21
 status: Proposed
+formerly:
+- SYNTHESIS-tmpic4aw
 title: 'The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives'' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts'
 version: 1
 defeated_if: >-
@@ -15,9 +18,9 @@ date: '2026-11-10'
 line:
 - organizational-affect
 integrates:
-- SYNTHESIS-tmpi664y
-- SYNTHESIS-tmpa0kd0
-- SYNTHESIS-tmpkcch3
+- SYNTHESIS-020
+- SYNTHESIS-018
+- SYNTHESIS-022
 - CLAIM-039
 - CLAIM-440
 - CLAIM-432
@@ -26,25 +29,25 @@ integrates:
 - QUESTION-059
 summary: >-
   The account of the organizational-affect line, over the accounts of its
-  three parts: the potential account of valence and its tests ([SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md)),
-  corporate affect and responsibility ([SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md)), and feeling and access
-  ([SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md)). They meet at [CLAIM-440](../claims.d/CLAIM-440.md), which rests on [CLAIM-039](../claims.d/CLAIM-039.md) and on which
+  three parts: the potential account of valence and its tests ([SYNTHESIS-020](SYNTHESIS-020.md)),
+  corporate affect and responsibility ([SYNTHESIS-018](SYNTHESIS-018.md)), and feeling and access
+  ([SYNTHESIS-022](SYNTHESIS-022.md)). They meet at [CLAIM-440](../claims.d/CLAIM-440.md), which rests on [CLAIM-039](../claims.d/CLAIM-039.md) and on which
   [CLAIM-439](../claims.d/CLAIM-439.md) rests. No link between the parts that the record does not
   state passed [ADR-075](../decisions.d/ADR-075.md)'s test, so the account adds nothing of its own; its
   standing is its components'.
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-355 CLAIM-431 CLAIM-432 CLAIM-433 CLAIM-435 CLAIM-437 CLAIM-438 CLAIM-439 CLAIM-440 CLAIM-442 CLAIM-527 TERM-076 THEORY-101 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CASE-014 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; components of the parts, set aside -->
-<!-- inactive-ok-file: QUESTION-019 — Superseded; a component of SYNTHESIS-tmpa0kd0, replaced by QUESTION-015 -->
+<!-- inactive-ok-file: QUESTION-019 — Superseded; a component of SYNTHESIS-018, replaced by QUESTION-015 -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
-# SYNTHESIS-tmpic4aw: The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts
+# SYNTHESIS-021: The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts
 
 *The account of the organizational-affect line, over the accounts of its three parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). The line was set aside on 2026-10-04 and reopened by the owner on 2026-10-23 ([CLAIM-039](../claims.d/CLAIM-039.md)'s note of that date); the reviews of 2026-11-07 found it had no account (curation entry of 2026-11-07, 170741).*
 
 ## The parts
 
-- **[SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md), the potential account of valence and its tests** (26
+- **[SYNTHESIS-020](SYNTHESIS-020.md), the potential account of valence and its tests** (26
   components). [CLAIM-440](../claims.d/CLAIM-440.md) and [TERM-076](../terms.d/TERM-076.md): goal-conduciveness valence is a
   persistent potential of the negotiation among an organization's
   perspectives that ranks its own states by their bearing on its
@@ -53,13 +56,13 @@ summary: >-
   'wanting' ([CLAIM-438](../claims.d/CLAIM-438.md), [CLAIM-433](../claims.d/CLAIM-433.md)), valence relative to a perspective
   ([CLAIM-437](../claims.d/CLAIM-437.md)), the claim and grant sides ([CLAIM-442](../claims.d/CLAIM-442.md)), and the objections
   on contest, flow, intensity, admission and cycles.
-- **[SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md), corporate affect and responsibility** (9 components).
+- **[SYNTHESIS-018](SYNTHESIS-018.md), corporate affect and responsibility** (9 components).
   [CLAIM-039](../claims.d/CLAIM-039.md): affect can be a functional property of an organized system.
   [CLAIM-432](../claims.d/CLAIM-432.md) reads corporate psychopathy through it, with Wells Fargo
   ([CASE-151](../cases.d/CASE-151.md)) as its case and [CLAIM-431](../claims.d/CLAIM-431.md)'s objection unanswered; [QUESTION-044](../questions.d/QUESTION-044.md)
   and [QUESTION-053](../questions.d/QUESTION-053.md) ask what fixes such affect; the line's first framing
   ([QUESTION-019](../questions.d/QUESTION-019.md), [CASE-014](../cases.d/CASE-014.md)) is retired, and [CASE-024](../cases.d/CASE-024.md) is held without links.
-- **[SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md), feeling and access** (7 components). [CLAIM-355](../claims.d/CLAIM-355.md): binding real,
+- **[SYNTHESIS-022](SYNTHESIS-022.md), feeling and access** (7 components). [CLAIM-355](../claims.d/CLAIM-355.md): binding real,
   owner constructed. [CLAIM-439](../claims.d/CLAIM-439.md): a regime felt, in the access sense, when
   modelled. [QUESTION-059](../questions.d/QUESTION-059.md), whether functional affect must be felt;
   [QUESTION-442](../questions.d/QUESTION-442.md), whether the two self-models are one; [CLAIM-003](../claims.d/CLAIM-003.md), [CASE-033](../cases.d/CASE-033.md)
@@ -70,7 +73,7 @@ summary: >-
 
 The parts are joined by premises and by readings that components state.
 
-- **[SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md) on [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md).**
+- **[SYNTHESIS-020](SYNTHESIS-020.md) on [SYNTHESIS-018](SYNTHESIS-018.md).**
   - [CLAIM-440](../claims.d/CLAIM-440.md) rests on [CLAIM-039](../claims.d/CLAIM-039.md). [CLAIM-039](../claims.d/CLAIM-039.md)'s summary: "[CLAIM-432](../claims.d/CLAIM-432.md) and
     [CLAIM-440](../claims.d/CLAIM-440.md) rest on it." So the objection that holds [CLAIM-039](../claims.d/CLAIM-039.md) holds
     [CLAIM-440](../claims.d/CLAIM-440.md) too; [CLAIM-440](../claims.d/CLAIM-440.md)'s note of 2026-10-30: "the premise [CLAIM-039](../claims.d/CLAIM-039.md)
@@ -89,21 +92,21 @@ The parts are joined by premises and by readings that components state.
   - [CLAIM-548](../claims.d/CLAIM-548.md) bears on [QUESTION-044](../questions.d/QUESTION-044.md), and "is stated for processes".
     [QUESTION-053](../questions.d/QUESTION-053.md)'s note of 2026-10-31 sets [CLAIM-437](../claims.d/CLAIM-437.md) beside Massumi's
     differential attunement as "an analogy and not a shared mechanism".
-- **[SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md) on [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md).**
+- **[SYNTHESIS-020](SYNTHESIS-020.md) on [SYNTHESIS-022](SYNTHESIS-022.md).**
   - [CLAIM-439](../claims.d/CLAIM-439.md) rests on [CLAIM-440](../claims.d/CLAIM-440.md) and supplies the condition [CLAIM-440](../claims.d/CLAIM-440.md)
     leaves open, when the regime is felt. [CLAIM-440](../claims.d/CLAIM-440.md)'s revision of
     2026-10-23 records the hierarchy that ends there, which [TERM-076](../terms.d/TERM-076.md)
     states as ordinal coherence ([TERM-077](../terms.d/TERM-077.md)), its persistence ([TERM-078](../terms.d/TERM-078.md)),
     goal-conduciveness valence ([TERM-076](../terms.d/TERM-076.md)), "and felt valence as a
     candidate only ([CLAIM-439](../claims.d/CLAIM-439.md))".
-  - The claims of [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md) defer feeling to it: [CLAIM-437](../claims.d/CLAIM-437.md) ("Which valence
+  - The claims of [SYNTHESIS-020](SYNTHESIS-020.md) defer feeling to it: [CLAIM-437](../claims.d/CLAIM-437.md) ("Which valence
     is felt. On [CLAIM-439](../claims.d/CLAIM-439.md), whichever the system models"), [CLAIM-442](../claims.d/CLAIM-442.md) ("That
     either side is felt. That is [CLAIM-439](../claims.d/CLAIM-439.md)'s question."), [CLAIM-527](../claims.d/CLAIM-527.md), and
     [CLAIM-438](../claims.d/CLAIM-438.md), which names [CLAIM-439](../claims.d/CLAIM-439.md)'s self-model as the candidate place
     for hedonic valence and says it makes valence felt, not hedonic.
   - [QUESTION-266](../questions.d/QUESTION-266.md)'s third layer is [CLAIM-439](../claims.d/CLAIM-439.md)'s model, and [QUESTION-442](../questions.d/QUESTION-442.md)
     refines [QUESTION-266](../questions.d/QUESTION-266.md).
-- **[SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md) on [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md).**
+- **[SYNTHESIS-018](SYNTHESIS-018.md) on [SYNTHESIS-022](SYNTHESIS-022.md).**
   - [CLAIM-432](../claims.d/CLAIM-432.md)'s part 2 cites [CLAIM-355](../claims.d/CLAIM-355.md) for the binding of appraisal,
     readiness and governance into one response being real.
   - [CLAIM-355](../claims.d/CLAIM-355.md) would rest on [CLAIM-039](../claims.d/CLAIM-039.md) and answers [QUESTION-053](../questions.d/QUESTION-053.md) in part.
@@ -118,15 +121,15 @@ The parts are joined by premises and by readings that components state.
 **Whether the line falls into parts, and whether they hang together.**
 Counting each pair of the line's 42 components linked by a front-matter
 relation or by a mention in either's body or summary gives 137 pairs: 89
-within [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md), 9 within [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md) and 10 within [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md); 11 between [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md)
-and [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md), 11 between [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md) and [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md), and 7 between [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md) and
-[SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md). Only [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md) is mostly closed. [SYNTHESIS-tmpa0kd0](SYNTHESIS-tmpa0kd0.md) has 18 pairs across and 9
-within, [SYNTHESIS-tmpkcch3](SYNTHESIS-tmpkcch3.md) 18 across and 10 within, and most of their crossings run
+within [SYNTHESIS-020](SYNTHESIS-020.md), 9 within [SYNTHESIS-018](SYNTHESIS-018.md) and 10 within [SYNTHESIS-022](SYNTHESIS-022.md); 11 between [SYNTHESIS-020](SYNTHESIS-020.md)
+and [SYNTHESIS-018](SYNTHESIS-018.md), 11 between [SYNTHESIS-020](SYNTHESIS-020.md) and [SYNTHESIS-022](SYNTHESIS-022.md), and 7 between [SYNTHESIS-018](SYNTHESIS-018.md) and
+[SYNTHESIS-022](SYNTHESIS-022.md). Only [SYNTHESIS-020](SYNTHESIS-020.md) is mostly closed. [SYNTHESIS-018](SYNTHESIS-018.md) has 18 pairs across and 9
+within, [SYNTHESIS-022](SYNTHESIS-022.md) 18 across and 10 within, and most of their crossings run
 through [CLAIM-039](../claims.d/CLAIM-039.md), [CLAIM-432](../claims.d/CLAIM-432.md), [CLAIM-355](../claims.d/CLAIM-355.md), [CLAIM-439](../claims.d/CLAIM-439.md), [CLAIM-440](../claims.d/CLAIM-440.md) and
 [QUESTION-059](../questions.d/QUESTION-059.md), which this account integrates for that reason. Counting
-front-matter relations alone gives 51 pairs, 37 within [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md), 3 within
+front-matter relations alone gives 51 pairs, 37 within [SYNTHESIS-020](SYNTHESIS-020.md), 3 within
 each of the others, and 8 across; seven of the eight touch [CLAIM-440](../claims.d/CLAIM-440.md),
-[CLAIM-355](../claims.d/CLAIM-355.md) or [CLAIM-432](../claims.d/CLAIM-432.md). So the line is not a candidate to split. [SYNTHESIS-tmpi664y](SYNTHESIS-tmpi664y.md)
+[CLAIM-355](../claims.d/CLAIM-355.md) or [CLAIM-432](../claims.d/CLAIM-432.md). So the line is not a candidate to split. [SYNTHESIS-020](SYNTHESIS-020.md)
 does not split further: dividing it into the definition with its formal
 results and objections (15 components) and the wanting, claims-and-grants
 and motivation entries (11) leaves 38 pairs within the first, 20 within

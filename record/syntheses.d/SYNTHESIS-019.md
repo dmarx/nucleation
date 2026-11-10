@@ -1,5 +1,8 @@
 ---
+number: 19
 status: Proposed
+formerly:
+- SYNTHESIS-tmpdckug
 title: 'The owner''s thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line''s one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record''s evidence about experience reaches it through access'
 version: 1
 defeated_if: >-
@@ -45,7 +48,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-059 — Deferred; cited for the sense of "felt" CLAIM-439 declines -->
 <!-- inactive-ok-file: ARG-018 — Rejected; a component, the argument from illusions and reappraisal to CLAIM-412 -->
 
-# SYNTHESIS-tmpdckug: The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access
+# SYNTHESIS-019: The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access
 
 ## The account
 
