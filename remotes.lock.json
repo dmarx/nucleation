@@ -68,6 +68,9 @@
     "ARXIV/1106.5799": {
       "title": "Kramers' law: Validity, derivations and generalisations"
     },
+    "ARXIV/1111.3328": {
+      "title": "On the reality of the quantum state"
+    },
     "ARXIV/1111.3620": {
       "title": "The Cohomology of Non-Locality and Contextuality"
     },
@@ -85,6 +88,9 @@
     },
     "ARXIV/1205.4176": {
       "title": "Stochastic thermodynamics, fluctuation theorems, and molecular machines"
+    },
+    "ARXIV/1205.4265": {
+      "title": "Quantifying synergistic mutual information"
     },
     "ARXIV/1206.5246": {
       "title": "Causal Reasoning in Graphical Time Series Models"
@@ -116,6 +122,9 @@
     "ARXIV/1312.6120": {
       "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks"
     },
+    "ARXIV/1402.3319": {
+      "title": "Flow-based reputation with uncertainty: Evidence-Based Subjective Logic"
+    },
     "ARXIV/1403.3351": {
       "title": "Semantic Unification A sheaf theoretic approach to natural language"
     },
@@ -130,6 +139,9 @@
     },
     "ARXIV/1410.3831": {
       "title": "An exact mapping between the Variational Renormalization Group and Deep Learning"
+    },
+    "ARXIV/1411.1618": {
+      "title": "A complete graphical calculus for Spekkens' toy bit theory"
     },
     "ARXIV/1411.5908": {
       "title": "Understanding image representations by measuring their equivariance and equivalence"
@@ -224,6 +236,9 @@
     "ARXIV/1607.08654": {
       "title": "Characterizing Complex Networks with Forman-Ricci Curvature and Associated Geometric Flows"
     },
+    "ARXIV/1608.03580": {
+      "title": "Optimal Hashing-based Time-Space Trade-offs for Approximate Near Neighbors"
+    },
     "ARXIV/1608.08225": {
       "title": "Why does deep and cheap learning work so well?"
     },
@@ -314,6 +329,9 @@
     "ARXIV/1708.01525": {
       "title": "Language Design as Information Renormalization"
     },
+    "ARXIV/1709.04326": {
+      "title": "Learning with Opponent-Learning Awareness"
+    },
     "ARXIV/1710.05787": {
       "title": "Information loss under coarse-graining: a geometric approach"
     },
@@ -328,6 +346,9 @@
     },
     "ARXIV/1711.08513": {
       "title": "Calibration for the (Computationally-Identifiable) Masses"
+    },
+    "ARXIV/1711.10455": {
+      "title": "Backprop as Functor: A compositional perspective on supervised learning"
     },
     "ARXIV/1712.06199": {
       "title": "Structured Optimal Transport"
@@ -376,6 +397,9 @@
     },
     "ARXIV/1804.04807": {
       "title": "What is quantum in quantum randomness?"
+    },
+    "ARXIV/1805.03620": {
+      "title": "On the Limitations of Unsupervised Bilingual Dictionary Induction"
     },
     "ARXIV/1805.07092": {
       "title": "Bayesian model reduction"
@@ -428,6 +452,9 @@
     "ARXIV/1811.01754": {
       "title": "Back and forth between algebraic geometry, algebraic logic, sheaves and forcing"
     },
+    "ARXIV/1811.07062": {
+      "title": "The Full Spectrum of Deepnet Hessians at Scale: Dynamics with SGD Training and Sample Size"
+    },
     "ARXIV/1812.09935": {
       "title": "Multiparameter Persistence Landscapes"
     },
@@ -452,6 +479,9 @@
     "ARXIV/1906.00425": {
       "title": "The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies"
     },
+    "ARXIV/1906.06247": {
+      "title": "Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets"
+    },
     "ARXIV/1907.03993": {
       "title": "Community Detection on Networks with Ricci Flow"
     },
@@ -463,6 +493,9 @@
     },
     "ARXIV/1908.07725": {
       "title": "Data-driven model reduction, Wiener projections, and the Koopman-Mori-Zwanzig formalism"
+    },
+    "ARXIV/1908.08484": {
+      "title": "Minimum Description Length Revisited"
     },
     "ARXIV/1910.01008": {
       "title": "Topological transitions in the configuration space of non-Euclidean origami"
@@ -515,6 +548,9 @@
     "ARXIV/2006.04120": {
       "title": "Sophisticated Inference"
     },
+    "ARXIV/2006.04200": {
+      "title": "A Review of Incident Prediction, Resource Allocation, and Dispatch Models for Emergency Management"
+    },
     "ARXIV/2006.05013": {
       "title": "A Random Matrix Analysis of Random Fourier Features: Beyond the Gaussian Kernel, a Precise Phase Transition, and the Corresponding Double Descent"
     },
@@ -539,6 +575,9 @@
     "ARXIV/2009.14397": {
       "title": "Deep Equals Shallow for ReLU Networks in Kernel Regimes"
     },
+    "ARXIV/2010.04495": {
+      "title": "Linear Mode Connectivity in Multitask and Continual Learning"
+    },
     "ARXIV/2010.16402": {
       "title": "Why Do Better Loss Functions Lead to Less Transferable Features?"
     },
@@ -553,6 +592,9 @@
     },
     "ARXIV/2012.04728": {
       "title": "Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics"
+    },
+    "ARXIV/2012.14913": {
+      "title": "Transformer Feed-Forward Layers Are Key-Value Memories"
     },
     "ARXIV/2101.03961": {
       "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity"
@@ -632,6 +674,9 @@
     "ARXIV/2111.06518": {
       "title": "Greater than the parts: A review of the information decomposition approach to causal emergence"
     },
+    "ARXIV/2111.13727": {
+      "title": "Why interference phenomena do not capture the essence of quantum theory"
+    },
     "ARXIV/2111.14046": {
       "title": "Neural Tangent Kernel of Matrix Product States: Convergence and Applications"
     },
@@ -707,6 +752,9 @@
     "ARXIV/2208.08345": {
       "title": "Discovering Agents"
     },
+    "ARXIV/2209.04836": {
+      "title": "Git Re-Basin: Merging Models modulo Permutation Symmetries"
+    },
     "ARXIV/2209.10652": {
       "title": "Toy Models of Superposition"
     },
@@ -739,6 +787,9 @@
     },
     "ARXIV/2212.13490": {
       "title": "Efficient method for calculating the eigenvalue of the Zakharov-Shabat system"
+    },
+    "ARXIV/2301.05217": {
+      "title": "Progress measures for grokking via mechanistic interpretability"
     },
     "ARXIV/2301.13826": {
       "title": "Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models"
@@ -875,6 +926,9 @@
     "ARXIV/2402.15054": {
       "title": "Dynamical Reversibility and A New Theory of Causal Emergence based on SVD"
     },
+    "ARXIV/2402.16843": {
+      "title": "Multi-LoRA Composition for Image Generation"
+    },
     "ARXIV/2402.16991": {
       "title": "A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data"
     },
@@ -886,6 +940,9 @@
     },
     "ARXIV/2403.14808": {
       "title": "A Collection of Pragmatic-Similarity Judgments over Spoken Dialog Utterances"
+    },
+    "ARXIV/2403.19647": {
+      "title": "Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models"
     },
     "ARXIV/2404.01413": {
       "title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data"
@@ -944,6 +1001,9 @@
     "ARXIV/2410.02984": {
       "title": "Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient"
     },
+    "ARXIV/2410.06633": {
+      "title": "On the Minimal Theory of Consciousness Implicit in Active Inference"
+    },
     "ARXIV/2410.07666": {
       "title": "Computational Complexities of Folding"
     },
@@ -977,6 +1037,9 @@
     "ARXIV/2502.04403": {
       "title": "Agency Is Frame-Dependent"
     },
+    "ARXIV/2502.06137": {
+      "title": "A Counterexample to the Mizohata-Takeuchi Conjecture"
+    },
     "ARXIV/2502.06709": {
       "title": "Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets"
     },
@@ -992,11 +1055,17 @@
     "ARXIV/2502.20997": {
       "title": "Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence"
     },
+    "ARXIV/2503.03312": {
+      "title": "How manipulable are prediction markets?"
+    },
     "ARXIV/2503.05522": {
       "title": "Post-Hoc Concept Disentanglement: From Correlated to Isolated Concept Representations"
     },
     "ARXIV/2503.10965": {
       "title": "Auditing language models for hidden objectives"
+    },
+    "ARXIV/2503.11718": {
+      "title": "The Relativity of Causal Knowledge"
     },
     "ARXIV/2503.15612": {
       "title": "Unification of observational entropy with maximum entropy principles"
@@ -1031,6 +1100,9 @@
     "ARXIV/2504.12916": {
       "title": "Exact Learning Dynamics of In-Context Learning in Linear Transformers and Its Application to Non-Linear Transformers"
     },
+    "ARXIV/2504.13151": {
+      "title": "MIB: A Mechanistic Interpretability Benchmark"
+    },
     "ARXIV/2504.14501": {
       "title": "How Local Separators Shape Community Structure in Large Networks"
     },
@@ -1051,6 +1123,9 @@
     },
     "ARXIV/2505.12075": {
       "title": "Do different prompting methods yield a common task representation in language models?"
+    },
+    "ARXIV/2505.13900": {
+      "title": "New Evidence of the Two-Phase Learning Dynamics of Neural Networks"
     },
     "ARXIV/2505.15849": {
       "title": "What Lives? A meta-analysis of diverse opinions on the definition of life"
@@ -1103,6 +1178,9 @@
     "ARXIV/2508.08288": {
       "title": "On Experiments"
     },
+    "ARXIV/2508.08548": {
+      "title": "Emergence: from physics to biology, sociology, and computer science"
+    },
     "ARXIV/2508.13559": {
       "title": "Physics-Informed Neural Networks for Programmable Origami Metamaterials with Controlled Deployment"
     },
@@ -1126,6 +1204,9 @@
     },
     "ARXIV/2510.02670": {
       "title": "Topological Invariance and Breakdown in Learning"
+    },
+    "ARXIV/2510.05253": {
+      "title": "Collective dynamics on higher-order networks"
     },
     "ARXIV/2510.05831": {
       "title": "Phase locking and multistability in the topological Kuramoto model on cell complexes"
@@ -1163,6 +1244,9 @@
     "ARXIV/2602.07488": {
       "title": "Deriving Neural Scaling Laws from the statistics of natural language"
     },
+    "ARXIV/2602.07974v2": {
+      "title": "Structural Learning Theory: A Metric-Topology Factorization Approach"
+    },
     "ARXIV/2602.14029": {
       "title": "Why Self-Training Helps and Hurts: Denoising vs. Signal Forgetting"
     },
@@ -1196,6 +1280,9 @@
     "ARXIV/2605.29529": {
       "title": "Common Noise-Induced Group-Level Synchronization Between Uncoupled Groups of Oscillators"
     },
+    "ARXIV/2606.05036": {
+      "title": "An 800-Million-Year-Old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body"
+    },
     "ARXIV/2606.28984": {
       "title": "Compositional Dynamics in Learning and Mechanics"
     },
@@ -1207,6 +1294,9 @@
     },
     "ARXIV/2607.16895": {
       "title": "When Can Safe Controllers Adapt? Information before Commitment"
+    },
+    "ARXIV/2608.20517": {
+      "title": "Self-organizing Chimera States in Adaptive Networks"
     },
     "ARXIV/2608.30366": {
       "title": "Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models"
