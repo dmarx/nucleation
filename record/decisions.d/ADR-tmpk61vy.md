@@ -8,14 +8,14 @@ date: '2026-11-10'
 summary: >-
   `line` takes several values, and a line is "a named line of the record's
   own argument, so that a line can be set aside as a whole and what depends
-  on it can be found" (ADR-032). Nothing said when an entry should carry a
-  second line. ADR-082 answered it for one case, the split of
+  on it can be found" ([ADR-032](ADR-032.md)). Nothing said when an entry should carry a
+  second line. [ADR-082](ADR-082.md) answered it for one case, the split of
   nucleating-argument: a moved entry keeps the old line when it answers,
   refines or objects to one of that line's entries. This decision makes the
   rule general and adds `bears_on`: an entry carries a line when it answers,
   refines, objects to or bears on one of that line's entries. Resting on
   or using one does not count; that is a dependency the `argument` chain
-  reports as a crossing, which is what ADR-032 meant it to do. Neither does
+  reports as a crossing, which is what [ADR-032](ADR-032.md) meant it to do. Neither does
   `complements` alone. The demonstration gives the line to the eleven
   entries among the lint's 79 cross-line steps that bear on a question of
   the premise's line. The other 55 entries the rule reaches record-wide
@@ -30,7 +30,7 @@ summary: >-
 
 A line is "a named line of the record's own argument, so that a line can be
 set aside as a whole and what depends on it can be found" (the `lines`
-vocabulary, ADR-032). Two things follow from that purpose:
+vocabulary, [ADR-032](ADR-032.md)). Two things follow from that purpose:
 
 - **Setting a line aside should take with it the entries that are part of
   its argument.** An entry that answers one of the line's questions, or
@@ -42,12 +42,12 @@ vocabulary, ADR-032). Two things follow from that purpose:
 
 The record had no rule for when an entry carries a second line. The lint
 sweep of 2026-11-10 (dmarx/nucleation#446) found 79 `rests_on` steps
-between claims that share no line. Most are what ADR-032 meant to report:
+between claims that share no line. Most are what [ADR-032](ADR-032.md) meant to report:
 a claim in one line resting on a claim in another. But some of the
 dependent claims also argue inside the premise's line, so they are missing
 a line.
 
-ADR-082 already gave the rule for one case, the split of
+[ADR-082](ADR-082.md) already gave the rule for one case, the split of
 nucleating-argument. A moved entry keeps the old line when it answers,
 refines or objects to one of that line's entries. It drops the old line
 when it only rests on or uses one. The owner pointed out that `line` takes
@@ -72,21 +72,21 @@ several values. Carrying both is legitimate where it is apt.
   through `answers` or `bears_on` if the entry argues it. Counted on its own,
   `complements` would spread lines along chains of complementary claims that
   each sit in their own inquiry.
-- **ADR-082's rule is this rule applied to a split.** It is unchanged.
-- **Demonstration (ADR-071).** The eleven entries among the lint's 79
+- **[ADR-082](ADR-082.md)'s rule is this rule applied to a split.** It is unchanged.
+- **Demonstration ([ADR-071](ADR-071.md)).** The eleven entries among the lint's 79
   crossings that bear on a question of the premise's line now carry that
   line, each with a history note:
-  - CLAIM-532, CLAIM-544, CLAIM-553, CLAIM-554, CLAIM-613 and CLAIM-619
+  - [CLAIM-532](../claims.d/CLAIM-532.md), [CLAIM-544](../claims.d/CLAIM-544.md), [CLAIM-553](../claims.d/CLAIM-553.md), [CLAIM-554](../claims.d/CLAIM-554.md), [CLAIM-613](../claims.d/CLAIM-613.md) and [CLAIM-619](../claims.d/CLAIM-619.md)
     (will-organization) gain distributed-agency;
-  - CLAIM-549 (will-organization, formal-apparatus) gains
+  - [CLAIM-549](../claims.d/CLAIM-549.md) (will-organization, formal-apparatus) gains
     distributed-agency;
-  - CLAIM-586 (realizability, formal-apparatus) gains distributed-agency;
-  - CLAIM-621 (pragmatic-transport) gains distributed-agency;
-  - CLAIM-611 (distributed-agency, realizability) gains formal-apparatus;
-  - CLAIM-615 (distributed-agency) gains realizability.
+  - [CLAIM-586](../claims.d/CLAIM-586.md) (realizability, formal-apparatus) gains distributed-agency;
+  - [CLAIM-621](../claims.d/CLAIM-621.md) (pragmatic-transport) gains distributed-agency;
+  - [CLAIM-611](../claims.d/CLAIM-611.md) (distributed-agency, realizability) gains formal-apparatus;
+  - [CLAIM-615](../claims.d/CLAIM-615.md) (distributed-agency) gains realizability.
 
   That clears twelve of the crossings. The 67 that remain are dependencies,
-  reported as ADR-032 intends.
+  reported as [ADR-032](ADR-032.md) intends.
 
 ## Alternatives considered
 
@@ -97,7 +97,7 @@ several values. Carrying both is legitimate where it is apt.
   meaning.
 - **Count `rests_on`.** Then every crossing would vanish by definition, and
   the argument chain would no longer show how one line reaches into
-  another, which is ADR-032's reason for reporting it.
+  another, which is [ADR-032](ADR-032.md)'s reason for reporting it.
 - **Judge each entry by reading it.** The relations already state the
   participation. A rule over them can be checked, and a reviewer can
   overrule an entry where a relation was filed loosely.
@@ -112,5 +112,5 @@ several values. Carrying both is legitimate where it is apt.
 - **Filing gets a check.** Whoever files an entry that answers, refines,
   objects to or bears on another line's entry adds that line. A pattern
   over these four relations could report a missing line mechanically.
-- **A line's account (ADR-083) may now integrate these entries.** The
+- **A line's account ([ADR-083](ADR-083.md)) may now integrate these entries.** The
   accounts of the lines that gained entries are not changed here.
