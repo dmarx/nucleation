@@ -71,7 +71,7 @@ summary: >-
   makes cheap.
 ---
 <!-- inactive-ok-file: THEORY-1056 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
-<!-- inactive-ok-file: CLAIM-478 CLAIM-476 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1643 LIT-1662 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: TERM-111 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 

@@ -76,7 +76,7 @@ summary: >-
   produces, is a candidate that [CLAIM-522](CLAIM-522.md)'s one-variable model cannot
   express.
 ---
-<!-- inactive-ok-file: LIT-832 LIT-1930 LIT-1931 LIT-1929 THEORY-072 — Unavailable, Unfetched, Open or Proposed; the unread texts that state the criterion, the questions this bears on, and a proposed account of production, cited as open -->
+<!-- inactive-ok-file: LIT-832 LIT-1930 LIT-1931 LIT-1929 — Unavailable, Unfetched, Open or Proposed; the unread texts that state the criterion, the questions this bears on, and a proposed account of production, cited as open -->
 
 # CLAIM-530: Where maintenance is realized is a question of constitutive relevance only through its parthood condition: an internal producer and an outside controller supplying the same production law as state feedback meet mutual manipulability's two manipulability conditions identically, since disabling or stimulating either changes the maintained capacities and intervening on the capacities changes the activity of either, so what puts one inside and the other outside is parthood, a boundary the experiments presuppose and do not find
 

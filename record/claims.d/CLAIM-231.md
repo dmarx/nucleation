@@ -32,7 +32,7 @@ summary: >-
   elementary and checkable. It does not say the state-model account is
   wrong, and it does not identify the defects.
 ---
-<!-- inactive-ok-file: CLAIM-063 CLAIM-117 — Proposed; the commutator thesis and the dynamics thesis this restates on observations, cited as open -->
+<!-- inactive-ok-file: CLAIM-117 — Proposed; the commutator thesis and the dynamics thesis this restates on observations, cited as open -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the procedure-level measure that fixes the kernel across items, cited as open -->
 
 # CLAIM-231: On observed responses, a rendering that keeps the response distribution of each order of two framings within ε of the source's, under an outcome correspondence, keeps the observed order effect within 2ε, a bound identified from data, while the intertwining identity bounds it only through defects of an unidentified state model

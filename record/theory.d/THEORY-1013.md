@@ -55,7 +55,7 @@ summary: >-
   polysemantic neurons as the main obstacle. It gives no count of how much
   of a layer is understood.
 ---
-<!-- inactive-ok-file: THEORY-986 THEORY-802 — Proposed; the companion claim from the same essay and the basis-relative account it is set beside, cited as open -->
+<!-- inactive-ok-file: THEORY-802 — Proposed; the companion claim from the same essay and the basis-relative account it is set beside, cited as open -->
 <!-- inactive-ok-file: THEORY-1022 — Proposed; the Curve Detectors authors' full claim, cited as open -->
 <!-- inactive-ok-file: THEORY-1040 THEORY-1047 — Proposed; the Early Vision and Curve Circuits authors' wider claims, cited as open -->
 

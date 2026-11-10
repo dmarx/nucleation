@@ -24,7 +24,7 @@ summary: >-
 bears_on:
 - QUESTION-091
 ---
-<!-- inactive-ok-file: LIT-1036 LIT-1028 — Unavailable, no lawful full text found; the linear results generalized here, as the source describes them -->
+<!-- inactive-ok-file: LIT-1036 — Unavailable, no lawful full text found; the linear results generalized here, as the source describes them -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-286 — Proposed or open; the codes this result bears on, not settled by it -->
 
 # THEORY-215: A Hawkes process with a Lipschitz rate function and signed kernels has a unique stationary regime, which suitably started versions approach, when the Lipschitz-weighted absolute kernel mass is below one (a spectral radius below one, for a network) or when the rate is bounded

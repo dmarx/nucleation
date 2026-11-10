@@ -49,7 +49,7 @@ summary: >-
   et al. 2011). None of the studies was read here, and no control
   separates the heartbeat from any other periodic signal.
 ---
-<!-- inactive-ok-file: THEORY-765 THEORY-769 THEORY-768 — Proposed; filed from the same batch, named -->
+<!-- inactive-ok-file: THEORY-765 THEORY-769 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-045 THEORY-291 — Proposed; accounts in the interoception cluster this one is joined to, not leaned on -->
 
 # THEORY-767: Body ownership draws on interoceptive as well as exteroceptive signals: a visual cue synchronous with one's heartbeat increases ownership of a virtual hand and identification with a virtual body, and lower interoceptive sensitivity goes with greater susceptibility to the rubber hand illusion

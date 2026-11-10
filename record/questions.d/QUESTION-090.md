@@ -28,7 +28,7 @@ summary: >-
   conditions under which both hold and conditions under which one fails.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-285 THEORY-067 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-090: Under what conditions does a population of heterogeneous processes develop a self-maintaining, internally differentiated governance structure that acts coherently without suppressing the plurality of processes it emerges from?
 

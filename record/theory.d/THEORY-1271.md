@@ -31,7 +31,7 @@ summary: >-
   Proposed. It does not say how large a variation closure can absorb,
   nor that recovery follows whenever the structural condition holds.
 ---
-<!-- inactive-ok-file: THEORY-514 THEORY-072 — Proposed; Baedke's demarcation and the flame contrast, cited as open -->
+<!-- inactive-ok-file: THEORY-514 — Proposed; Baedke's demarcation and the flame contrast, cited as open -->
 
 # THEORY-1271: Mossio, Montévil and Longo argue that closure of constraints both stabilizes and propagates variation: it regenerates each constraint beyond the time scale at which it is conserved, and removes a variation only if the variation does not reach the constraints that regenerate the varied one; when it does reach them, the variation propagates and the system either loses closure and disintegrates or comes to realize a new closure, which they say a rock, a flame or a table cannot do
 

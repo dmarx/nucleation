@@ -55,7 +55,7 @@ summary: >-
   asserted, not shown. That thesis is kept, Proposed, in THEORY-1558, which
   extends this one.
 ---
-<!-- inactive-ok-file: CLAIM-478 CLAIM-477 THEORY-1558 — Proposed or new; the claims it bears on and the wide form that extends it, cited as open -->
+<!-- inactive-ok-file: CLAIM-478 THEORY-1558 — Proposed or new; the claims it bears on and the wide form that extends it, cited as open -->
 
 # THEORY-1306: Juarrero, restating the hierarchy theory of Salthe, Allen and Starr, and Allen, O'Neill and Hoekstra, holds that boundaries between levels of organization are typically marked by sharp discontinuities in order parameters and average process and relaxation rates, overarching levels being usually slower than their components; that levels relate by constraint, not energy exchange, because the faster level's dynamics complete before the slower level's feedback arrives; and that a lack of asymmetry in cycling rates between levels reflects the absence of control constraint by one on the other, regardless of signal amplitude, and of qualitative difference between them
 

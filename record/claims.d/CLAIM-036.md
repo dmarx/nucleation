@@ -28,7 +28,7 @@ summary: >-
   foundation; its contrast with transport was overstated and conceded at
   U37.
 ---
-<!-- inactive-ok-file: CLAIM-015 CLAIM-048 CLAIM-108 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-015 CLAIM-108 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-036: Communicative meaning is constituted through systems of distinctions and relations, and translation transports these systems, selectively preserving or transforming their differential, probabilistic and interactional structure

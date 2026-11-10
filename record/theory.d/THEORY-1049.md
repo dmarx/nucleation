@@ -62,7 +62,7 @@ summary: >-
   mechanisms are, in the paper's word, mysteries.
 ---
 <!-- inactive-ok-file: THEORY-1208 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-<!-- inactive-ok-file: CASE-173 CASE-171 CASE-174 LIT-1559 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-173 CASE-171 CASE-174 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
 # THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
 
 ## Source

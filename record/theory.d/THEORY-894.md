@@ -23,7 +23,7 @@ summary: >-
   Whether its shares measure a negotiation's potential depends on
   cardinal assumptions that the record's orderings do not supply.
 ---
-<!-- inactive-ok-file: TERM-076 CLAIM-440 — Proposed, Open or draft; the term, claims and question this result bears on, and the ordinal result filed with it -->
+<!-- inactive-ok-file: TERM-076 — Proposed, Open or draft; the term, claims and question this result bears on, and the ordinal result filed with it -->
 
 # THEORY-894: A flow of pairwise comparisons on a graph splits orthogonally and uniquely into a gradient part, the l2-best global ranking, and a cyclic part, which splits into curl (local) and harmonic (global) inconsistency; a finite game's flow of unilateral payoff differences has no curl part, so every finite game is uniquely a potential game plus a harmonic game plus a nonstrategic remainder, and potential games are exactly those with no harmonic part; the decomposition is cardinal
 

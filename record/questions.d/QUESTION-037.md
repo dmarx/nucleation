@@ -55,7 +55,7 @@ over time, which is what this question asks.
 
 ## Note of 2026-10-31: the metaphor's ancestor, and who individuates
 
-<!-- inactive-ok-file: LIT-1648 CLAIM-185 — Unavailable, Open or Proposed; Simondon's book unread, the question filed the same day, and the candidate answer -->
+<!-- inactive-ok-file: LIT-1648 — Unavailable, Open or Proposed; Simondon's book unread, the question filed the same day, and the candidate answer -->
 
 This question's metaphor, a supersaturated solution that holds more than
 it fixes until a site forms, is Simondon's paradigm of individuation from

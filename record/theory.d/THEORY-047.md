@@ -60,7 +60,7 @@ corroborates:
 - CLAIM-356
 ---
 <!-- inactive-ok-file: THEORY-054 LIT-1973 — new, Proposed or Deferred; cited as open -->
-<!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
+<!-- inactive-ok-file: THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 
 # THEORY-047: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is
 
