@@ -2,25 +2,35 @@
 status: Deferred
 status_note: >-
   filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: not checked: host returned 203 at check time; author as cited in the conversation. Status stays Deferred until a lawful copy is read.
-title: "Shared mental models (Mathieu et al., 2000)"
-version: 1
+title: 'The influence of shared mental models on team process and performance'
+version: 2
 history:
 - version: 1
   date: '2026-11-10'
   note: "Filed, not read. Identifier check on 2026-11-10: not checked: host returned 203 at check time; author as cited in the conversation. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Dated and identified before merge (2026-11-10): published, doi,
+    title set from the work's own sources under ADR-002. Month
+    precision: J Appl Psych 85(2), April 2000 (Crossref, PubMed). The
+    conversation cited it as "Shared mental models (Mathieu et al.,
+    2000)". The title was "The influence of shared mental models on team process and performance"
+    as cited in the conversation.
 tags:
 - social-science
 date: '2026-11-10'
-url: "https://pubmed.ncbi.nlm.nih.gov/10783543/"
-first_author: "Mathieu"
+published: '2000-04-01'
+doi: '10.1037/0021-9010.85.2.273'
+first_author: 'Mathieu'
 keywords: []
 implementations: []
-summary: "Mathieu (n.d.). Shared mental models (Mathieu et al., 2000). Cited in the shared conversation as a reading; filed as a candidate, not read."
+summary: "Mathieu (2000). The influence of shared mental models on team process and performance. Cited in the shared conversation as a reading; filed as a candidate, not read."
 ---
 
-# LIT-tmpzto1v: Shared mental models (Mathieu et al., 2000)
+# LIT-tmpzto1v: The influence of shared mental models on team process and performance
 
-Mathieu (n.d.). *Shared mental models (Mathieu et al., 2000)*. Source: https://pubmed.ncbi.nlm.nih.gov/10783543/.
+Mathieu (2000). *The influence of shared mental models on team process and performance*. Source: doi:10.1037/0021-9010.85.2.273.
 
 ## Why this is here
 

@@ -3,26 +3,33 @@ status: Deferred
 status_note: >-
   filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: ACL Anthology page; title from its page. Status stays Deferred until a lawful copy is read.
 title: "Belief Revision: The Adaptability of Large Language Models Reasoning"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-10'
   note: "Filed, not read. Identifier check on 2026-11-10: ACL Anthology page; title from its page. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Dated and identified before merge (2026-11-10): published, arxiv,
+    first_author set from the work's own sources under ADR-002. arXiv
+    v1; the EMNLP 2024 version came later.
 tags:
 - logic
 - learning-theory
 - anthology-candidate
 date: '2026-11-10'
-url: "https://aclanthology.org/2024.emnlp-main.586/"
-first_author: "Unknown"
+published: '2024-06-28'
+arxiv: '2406.19764'
+first_author: 'Wilie'
 keywords: []
 implementations: []
-summary: "Unknown (n.d.). Belief Revision: The Adaptability of Large Language Models Reasoning. Cited in the shared conversation as a reading; filed as a candidate, not read."
+summary: "Wilie (2024). Belief Revision: The Adaptability of Large Language Models Reasoning. Cited in the shared conversation as a reading; filed as a candidate, not read."
 ---
 
 # LIT-tmpwncg7: Belief Revision: The Adaptability of Large Language Models Reasoning
 
-Unknown (n.d.). *Belief Revision: The Adaptability of Large Language Models Reasoning*. Source: https://aclanthology.org/2024.emnlp-main.586/.
+Wilie (2024). *Belief Revision: The Adaptability of Large Language Models Reasoning*. Source: arXiv:2406.19764.
 
 ## Why this is here
 

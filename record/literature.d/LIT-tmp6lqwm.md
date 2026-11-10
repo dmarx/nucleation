@@ -2,26 +2,36 @@
 status: Deferred
 status_note: >-
   filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: project page reached; title from its page. Status stays Deferred until a lawful copy is read.
-title: "MEME: Multi-Entity & Evolving Memory Evaluation"
-version: 1
+title: 'MEME: Multi-entity & Evolving Memory Evaluation'
+version: 2
 history:
 - version: 1
   date: '2026-11-10'
   note: "Filed, not read. Identifier check on 2026-11-10: project page reached; title from its page. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Dated and identified before merge (2026-11-10): published, arxiv,
+    first_author, title set from the work's own sources under ADR-002.
+    arXiv v1. The project page's first commit is 2026-05-11, a day
+    earlier; whether it was public then is unknown. The title was "MEME:
+    Multi-Entity & Evolving Memory Evaluation" as cited in the
+    conversation.
 tags:
 - learning-theory
 - anthology-candidate
 date: '2026-11-10'
-url: "https://seokwonjung-jay.github.io/meme-eval/"
-first_author: "Unknown"
+published: '2026-05-12'
+arxiv: '2605.12477'
+first_author: 'Jung'
 keywords: []
 implementations: []
-summary: "Unknown (n.d.). MEME: Multi-Entity & Evolving Memory Evaluation. Cited in the shared conversation as a reading; filed as a candidate, not read."
+summary: "Jung (2026). MEME: Multi-entity & Evolving Memory Evaluation. Cited in the shared conversation as a reading; filed as a candidate, not read."
 ---
 
-# LIT-tmp6lqwm: MEME: Multi-Entity & Evolving Memory Evaluation
+# LIT-tmp6lqwm: MEME: Multi-entity & Evolving Memory Evaluation
 
-Unknown (n.d.). *MEME: Multi-Entity & Evolving Memory Evaluation*. Source: https://seokwonjung-jay.github.io/meme-eval/.
+Jung (2026). *MEME: Multi-entity & Evolving Memory Evaluation*. Source: arXiv:2605.12477.
 
 ## Why this is here
 

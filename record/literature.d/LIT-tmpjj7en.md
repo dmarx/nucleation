@@ -2,26 +2,35 @@
 status: Deferred
 status_note: >-
   filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: ACL Anthology page; title from its page. Status stays Deferred until a lawful copy is read.
-title: "FEVER: a Large-scale Dataset for Fact Extraction and VERification"
-version: 1
+title: 'FEVER: a large-scale dataset for Fact Extraction and VERification'
+version: 2
 history:
 - version: 1
   date: '2026-11-10'
   note: "Filed, not read. Identifier check on 2026-11-10: ACL Anthology page; title from its page. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Dated and identified before merge (2026-11-10): published, arxiv,
+    first_author, title set from the work's own sources under ADR-002.
+    arXiv v1; the NAACL 2018 version (doi 10.18653/v1/N18-1074) came
+    later. The title was "FEVER: a Large-scale Dataset for Fact
+    Extraction and VERification" as cited in the conversation.
 tags:
 - information-retrieval
 - anthology-candidate
 date: '2026-11-10'
-url: "https://aclanthology.org/N18-1074/"
-first_author: "Unknown"
+published: '2018-03-14'
+arxiv: '1803.05355'
+first_author: 'Thorne'
 keywords: []
 implementations: []
-summary: "Unknown (n.d.). FEVER: a Large-scale Dataset for Fact Extraction and VERification. Cited in the shared conversation as a reading; filed as a candidate, not read."
+summary: "Thorne (2018). FEVER: a large-scale dataset for Fact Extraction and VERification. Cited in the shared conversation as a reading; filed as a candidate, not read."
 ---
 
-# LIT-tmpjj7en: FEVER: a Large-scale Dataset for Fact Extraction and VERification
+# LIT-tmpjj7en: FEVER: a large-scale dataset for Fact Extraction and VERification
 
-Unknown (n.d.). *FEVER: a Large-scale Dataset for Fact Extraction and VERification*. Source: https://aclanthology.org/N18-1074/.
+Thorne (2018). *FEVER: a large-scale dataset for Fact Extraction and VERification*. Source: arXiv:1803.05355.
 
 ## Why this is here
 

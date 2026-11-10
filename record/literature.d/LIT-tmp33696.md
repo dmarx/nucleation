@@ -2,26 +2,35 @@
 status: Deferred
 status_note: >-
   filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: project page reached; no citation metadata on it. Status stays Deferred until a lawful copy is read.
-title: "AsynCodeBench"
-version: 1
+title: 'AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering'
+version: 2
 history:
 - version: 1
   date: '2026-11-10'
   note: "Filed, not read. Identifier check on 2026-11-10: project page reached; no citation metadata on it. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Dated and identified before merge (2026-11-10): published, arxiv,
+    first_author, title set from the work's own sources under ADR-002.
+    arXiv v1, which the benchmark's site links. The repository's first
+    commit is 2026-06-30, but whether it was public then is unknown. The
+    title was "AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering" as cited in the conversation.
 tags:
 - agency
 - anthology-candidate
 date: '2026-11-10'
-url: "https://asyncodebench.org/"
-first_author: "Unknown"
+published: '2026-09-26'
+arxiv: '2609.32662'
+first_author: 'Zhang'
 keywords: []
 implementations: []
-summary: "Unknown (n.d.). AsynCodeBench. Cited in the shared conversation as a reading; filed as a candidate, not read."
+summary: "Zhang (2026). AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering. Cited in the shared conversation as a reading; filed as a candidate, not read."
 ---
 
-# LIT-tmp33696: AsynCodeBench
+# LIT-tmp33696: AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering
 
-Unknown (n.d.). *AsynCodeBench*. Source: https://asyncodebench.org/.
+Zhang (2026). *AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering*. Source: arXiv:2609.32662.
 
 ## Why this is here
 
