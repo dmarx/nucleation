@@ -72,6 +72,8 @@ summary: >-
   that composes, as A proposes. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
 ---
+<!-- ref::uses-file: TERM-105 — peak capacity composed by maximum and cumulative expenditure composed by sum, with reserves tracked apart, are TERM-105's resource constraints by type, which the claim shows compose differently -->
+<!-- ref::uses-file: TERM-114 — the processes "costing at most b", whose closure under composition decides whether reachability within a budget composes, are TERM-114's costed processes with budget-indexed reachability -->
 
 # CLAIM-563: When process costs compose by a monotone operation, the processes costing at most b are closed under composition whenever b composed with itself is at most b, and not otherwise once two composable processes each cost b: at every budget for a peak capacity composed by maximum, and for a cumulative expenditure composed by sum only at budgets 0 and infinity
 

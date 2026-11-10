@@ -120,6 +120,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-473 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
+<!-- ref::uses-file: TERM-093 — the "correspondences among local descriptions" that measurement estimates and adaptive apparatuses revise, held apart from physical coupling, are TERM-093's correspondence structure, held as discovered or adapted -->
 
 # CLAIM-471: Physical interconnection can generate effective constraints on joint behaviour; measurement can estimate correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
 

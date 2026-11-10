@@ -54,6 +54,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-090 CLAIM-115 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-078 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- ref::uses-file: TERM-084 — "later entries reach the claim by descent, by its code, not by resemblance" is descent in TERM-084's sense, the continuity of transmission a code restores -->
 
 # CLAIM-191: Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 

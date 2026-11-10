@@ -62,6 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-329 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- ref::uses-file: TERM-084 — later organizations that "descend from their activity", and "causal descent does not imply perspectival inheritance", are TERM-084's causal-descent sense -->
 
 # CLAIM-420: A historical figure's influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone can descend from them without continuing their perspective
 

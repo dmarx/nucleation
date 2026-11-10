@@ -48,6 +48,7 @@ summary: >-
   [CASE-099](../cases.d/CASE-099.md) would test it.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- ref::uses-file: TERM-060 — "governance-induced frustration", demands an admissible update would meet left unmet because of how influence is allocated, is TERM-060's frustration under the organization's governance -->
 
 # CLAIM-500: The governance-induced kind of frustration is not idle: some failures of an organization's actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule
 

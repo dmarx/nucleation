@@ -81,6 +81,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: TERM-053 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- ref::uses-file: TERM-053 — operators' grants of influence to one another, which A2 calls endorsing ("denoiser i may rationally endorse j"), were stated as TERM-053's endorsement, the definition current when this claim was written; since superseded by TERM-103 and TERM-101 -->
 
 # CLAIM-285: A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation
 
