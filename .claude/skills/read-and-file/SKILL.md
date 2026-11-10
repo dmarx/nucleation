@@ -30,6 +30,22 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   assistant's. The owner did not write them and has not endorsed them
   unless the owner says so. The filing assistant's own ideas are a third
   voice, kept apart from both (step 12).
+- **Fetch a share link, then decode it.** The repository's settings allow
+  `curl` to `https://chatgpt.com/share/*`. A plain request may be refused,
+  so send browser headers:
+
+      curl -sS -o share.html \
+        -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36" \
+        -H "Accept: text/html" https://chatgpt.com/share/<id>
+      python3 -I scratch/tools/chatgpt_share.py share.html > exchange.txt
+
+  Save both files in their own new directory in the scratchpad. The
+  decoder writes the shared branch only, as `===== U1 (user) <time> =====`
+  and `===== A1 (assistant) … =====` blocks under a `TITLE:` line. It drops
+  system and tool messages, hidden context and redacted plugin output. If
+  the page has changed shape, it stops with `ShareFormatError`: report
+  that, and do not file from a partial transcript or reconstruct one by
+  hand. Never put an email address in the request (ADR-008).
 - **Keep the source whole.** Save it verbatim to the scratchpad, and point
   every reader and drafter at that file. A condensation written for a
   brief is the lead's own text. Label it so and keep it in a separate
