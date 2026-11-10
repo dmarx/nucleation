@@ -4,23 +4,12 @@ status: Open
 formerly:
 - QUESTION-tmpqzpcd
 title: 'How far is a periodic greedy that switches a capped number of page fragments between caching and materializing, to keep the share of fresh fragments served above a threshold, from the best plan that meets the same threshold?'
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries nucleating-argument as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 3): the entry takes part
-    in that line's argument: nucleating-argument, since it refines
-    QUESTION-114, which gained the line in an earlier round. No other
-    change.
+version: 1
 tags:
 - databases
 - operations-research
 date: '2026-10-19'
-line:
-- 'distributed-agency'
-- nucleating-argument
+line: 'distributed-agency'
 refines:
 - QUESTION-114
 summary: >-

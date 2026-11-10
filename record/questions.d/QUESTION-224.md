@@ -12,25 +12,14 @@ formerly:
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Is Bruno and Chaudhuri's single-index online tuner within some constant, such as 3 + 2f, of the offline optimum on every workload whose per-statement savings and losses are at most a fraction f of the build cost?"
 
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries nucleating-argument as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 3): the entry takes part
-    in that line's argument: nucleating-argument, since it refines
-    QUESTION-114, which gained the line in an earlier round. No other
-    change.
+version: 1
 tags:
 - databases
 - operations-research
 date: '2026-10-20'
 
 # REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line:
-- 'distributed-agency'
-- nucleating-argument
+line: 'distributed-agency'
 
 # refines: [QUESTION-000]   # the broader question this sharpens
 

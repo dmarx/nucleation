@@ -4,16 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpv9vjj
 title: 'A goal''s lowered priority under positive affect need not be a weaker hold of the prevailing ordering: on Carver''s satisficing account the effort released goes to the goal furthest behind, which the prevailing ordering of the system''s states may itself direct'
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: distributed-agency, since it objects to
-    CLAIM-468, which gained the line in an earlier round. No other
-    change.
+version: 1
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -29,7 +20,6 @@ tags:
 date: '2026-10-30'
 line:
 - organizational-affect
-- distributed-agency
 objects_to:
 - CLAIM-468
 grounds:

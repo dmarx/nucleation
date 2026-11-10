@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpc3x0c
 title: 'Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
-version: 6
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -81,12 +81,6 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Current becoming Active. The synthesis's own history stays on
     SYNTHESIS-010.
-- version: 6
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument:
-    distributed-agency, since it bears on QUESTION-399. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -117,7 +111,6 @@ date: '2026-11-05'
 line:
 - realizability
 - readiness
-- distributed-agency
 rests_on:
 - CLAIM-597
 - CLAIM-604

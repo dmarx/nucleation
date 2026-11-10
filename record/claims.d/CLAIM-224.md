@@ -4,16 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcq79k
 title: 'Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside'
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 3): the entry takes part
-    in that line's argument: distributed-agency, since it bears on
-    QUESTION-073, which gained the line in an earlier round. No other
-    change.
+version: 1
 role: counter
 warrant: interpretive
 tags:
@@ -21,9 +12,7 @@ tags:
 - social-ontology
 - individuation
 date: '2026-10-10'
-line:
-- pragmatic-transport
-- distributed-agency
+line: pragmatic-transport
 rests_on:
 - CLAIM-138
 - CLAIM-004

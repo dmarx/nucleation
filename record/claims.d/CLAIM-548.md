@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6zm3v
 title: 'A motivational process can become active, and act, without any expectation that its response will succeed: its activation, the authority the organization grants it and the efficacy of what it does are separate quantities, so a threshold on expected net benefit is one special case of an activation threshold and not its general form'
-version: 3
+version: 2
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,14 +16,6 @@ history:
     NOTE-1117), is cited in the body and takes no edge; the record does
     not make it good on the wall-punch, as the defeater would need, and
     NOTE-1117 leaves a lexicographic reading open.
-- version: 3
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: distributed-agency, since it bears on
-    QUESTION-372, which gained the line in an earlier round. No other
-    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,7 +37,6 @@ date: '2026-11-04'
 line:
 - will-organization
 - organizational-affect
-- distributed-agency
 rests_on:
 - CLAIM-283
 complements:

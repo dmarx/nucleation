@@ -4,24 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmppa8l7
 title: 'Under what conditions do the organization that determines what counts as meaningful, the organization that determines what becomes effective in action, and the organization that reproduces either one through time coincide, diverge, and reorganize one another?'
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries will-organization as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 3): the entry takes part
-    in that line's argument: will-organization, since it refines
-    QUESTION-259, which gained the line in an earlier round. No other
-    change.
+version: 1
 tags:
 - social-ontology
 - individuation
 - self-governance
 date: '2026-10-23'
-line:
-- distributed-agency
-- will-organization
+line: distributed-agency
 works:
 - organization-of-perspective
 refines:

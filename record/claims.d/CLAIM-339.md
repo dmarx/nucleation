@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpki5gp
 title: 'A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle''s reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too'
-version: 4
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -25,12 +25,6 @@ history:
     into objects_to. CLAIM-341 and CLAIM-342 both name this counter as
     an objection to CLAIM-341's judgement–observation loop, and the
     field was missing. The claim is unchanged.
-- version: 4
-  date: '2026-11-10'
-  note: >-
-    Carries will-organization as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument: will-
-    organization, since it objects to CLAIM-341. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -41,7 +35,6 @@ date: '2026-10-16'
 line:
 - distributed-agency
 - pragmatic-transport
-- will-organization
 objects_to:
 - CLAIM-341
 grounds:

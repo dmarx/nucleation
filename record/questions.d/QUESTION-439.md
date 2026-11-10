@@ -18,9 +18,10 @@ history:
 - version: 3
   date: '2026-11-10'
   note: >-
-    Carries learned-structure as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument: learned-
-    structure, since it refines QUESTION-360. No other change.
+    Carries learned-structure as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: learned-structure,
+    since it refines QUESTION-360. No other change.
 tags:
 - philosophy-of-language
 - individuation

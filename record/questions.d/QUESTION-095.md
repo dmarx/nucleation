@@ -12,9 +12,11 @@ history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    Carries nucleating-argument as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument:
-    nucleating-argument, since it refines QUESTION-098. No other change.
+    Carries nucleating-argument as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names:
+    nucleating-argument, since it refines QUESTION-098. No other
+    change.
 tags:
 - cognition
 - embodied-cognition

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp8gbrt
 title: 'goal-conduciveness valence, organizational: a regime in which the negotiation among a system''s perspectives has, approximately, a potential, an ordering of the system''s own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation''s decisions follow it rather than any rival ordering'
-version: 4
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -22,22 +22,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
-- version: 4
-  date: '2026-11-10'
-  note: >-
-    Carries formal-apparatus as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: formal-apparatus, since it refines
-    TERM-078, which gained the line in an earlier round. No other
-    change.
 tags:
 - emotion-and-affect
 - motivation
 - self-governance
 date: '2026-10-23'
-line:
-- organizational-affect
-- formal-apparatus
+line: organizational-affect
 complements:
 - TERM-060
 refines:

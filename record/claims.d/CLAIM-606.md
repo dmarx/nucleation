@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5d91s
 title: "A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on"
-version: 3
+version: 2
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,12 +17,6 @@ history:
     grounds), at the status review's ruling (the owner delegated these
     rulings). The body's citations of NOTE-1688 are unchanged. No status
     changes.
-- version: 3
-  date: '2026-11-10'
-  note: >-
-    Carries readiness as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument:
-    readiness, since it bears on QUESTION-398. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,7 +34,6 @@ date: '2026-11-06'
 line:
 - realizability
 - distributed-agency
-- readiness
 uses:
 - TERM-088
 complements:

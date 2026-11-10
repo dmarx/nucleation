@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpjr6om
 title: 'How do populations of heterogeneous processes generate, reproduce and transform organizational perspectives, and what further conditions let such a perspective become the object of its own effective governance?'
-version: 3
+version: 2
 history:
 - version: 2
   date: '2026-10-26'
@@ -14,22 +14,12 @@ history:
     multilevel Northstar model built from it (CASE-166), and the
     methodological question it raised (QUESTION-276). The question
     is unchanged.
-- version: 3
-  date: '2026-11-10'
-  note: >-
-    Carries will-organization as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: will-organization, since it refines
-    QUESTION-090, which gained the line in an earlier round. No other
-    change.
 tags:
 - individuation
 - self-governance
 - social-ontology
 date: '2026-10-22'
-line:
-- distributed-agency
-- will-organization
+line: distributed-agency
 refines:
 - QUESTION-090
 summary: >-

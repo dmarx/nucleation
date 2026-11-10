@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpwh2jo
 title: 'What separates a language model''s distribution over personas from a distribution over organizational perspectives is not whether the latent model is hierarchical, since a mixture or an LDA-style admixture already is, but whether some latent components condition which others are available or consequential: a model whose components are exchangeable given their weights is organizationally flat however many levels its prior has, and dependencies among components count as organization (organization as relational arrangement) only where interventions, not fit, support them'
-version: 4
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -26,14 +26,6 @@ history:
     intervention is what would separate them, which needs no such
     study to hold. No objection is on file, and nothing in the record
     meets the defeat condition. The claim is unchanged.
-- version: 4
-  date: '2026-11-10'
-  note: >-
-    Carries will-organization as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 4): the entry takes part
-    in that line's argument: will-organization, since it bears on
-    QUESTION-276, which gained the line in an earlier round. No other
-    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,7 +45,6 @@ date: '2026-11-02'
 line:
 - distributed-agency
 - learned-structure
-- will-organization
 rests_on:
 - CLAIM-454
 - CLAIM-135

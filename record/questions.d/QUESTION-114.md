@@ -7,25 +7,14 @@ title: Is sorting a collection amortized search, and does physical database desi
   where a table is stored in one order and every further index is paid for in space
   and upkeep, give the joint cost
   model that the question on amortized retrieval lacks?
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries nucleating-argument as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: nucleating-argument, since it refines
-    QUESTION-095, which gained the line in an earlier round. No other
-    change.
+version: 1
 tags:
 - information-retrieval
 - databases
 - cognition
 - operations-research
 date: '2026-10-15'
-line:
-- distributed-agency
-- nucleating-argument
+line: distributed-agency
 refines:
 - QUESTION-095
 summary: >-

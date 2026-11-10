@@ -12,25 +12,14 @@ formerly:
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Is the subspace-patching effect measured in GPT-2 Small's layer-8 MLP an instance of the dormant-direction construction, rather than two cancelling subspaces in that component, and does its dependence on the disconnected component replicate in a second model family?"
 
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: distributed-agency, since it refines
-    QUESTION-030, which gained the line in an earlier round. No other
-    change.
+version: 1
 tags:
 - causality
 - representation-learning
 date: '2026-10-20'
 
 # REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line:
-- 'pragmatic-transport'
-- distributed-agency
+line: 'pragmatic-transport'
 
 # refines: [QUESTION-000]   # the broader question this sharpens
 

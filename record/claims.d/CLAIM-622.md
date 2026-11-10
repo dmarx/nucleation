@@ -4,22 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpo48w1
 title: 'Two organizations facing the same circumstances with the same acceptable actions can each be minimally adequate while telling apart different and incomparable sets of circumstances, so a difference in the distinctions two perspectives draw is not by itself evidence that either is deficient; which is deficient can be judged only against the policy each commits to'
-version: 3
+version: 2
 history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    Carries pragmatic-transport as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument:
+    Carries pragmatic-transport as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names:
     pragmatic-transport, since it bears on QUESTION-439. No other
-    change.
-- version: 3
-  date: '2026-11-10'
-  note: >-
-    Carries learned-structure as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: learned-structure, since it bears on
-    QUESTION-439, which gained the line in an earlier round. No other
     change.
 role: thesis
 warrant: demonstrated
@@ -41,7 +34,6 @@ line:
 - will-organization
 - distributed-agency
 - pragmatic-transport
-- learned-structure
 rests_on:
 - CLAIM-535
 complements:

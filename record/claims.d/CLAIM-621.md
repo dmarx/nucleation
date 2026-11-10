@@ -16,9 +16,14 @@ history:
 - version: 3
   date: '2026-11-10'
   note: >-
-    Carries learned-structure as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument: learned-
-    structure, since it bears on QUESTION-360. No other change.
+    Carries learned-structure in place of distributed-agency, at
+    ADR-085 version 2 (2026-11-10), which counts only the first line
+    of an entry this one answers, objects to, bears on or refines:
+    learned-structure, since it bears on QUESTION-360;
+    distributed-agency had come from QUESTION-439, whose first line
+    is pragmatic-transport and which carries distributed-agency
+    second. Its resting on distributed-agency claims stays a
+    crossing the argument chain reports. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +42,6 @@ tags:
 date: '2026-11-07'
 line:
 - pragmatic-transport
-- distributed-agency
 - learned-structure
 rests_on:
 - CLAIM-280

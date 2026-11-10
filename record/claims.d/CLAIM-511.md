@@ -19,10 +19,11 @@ history:
 - version: 3
   date: '2026-11-10'
   note: >-
-    Carries will-organization as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument: will-
-    organization, since it bears on QUESTION-128, bears on QUESTION-129.
-    No other change.
+    Carries will-organization as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: will-organization,
+    since it bears on QUESTION-128, bears on QUESTION-129. No other
+    change.
 role: disclaimed
 warrant: interpretive
 tags:

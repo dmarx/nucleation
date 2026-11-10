@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpzi3da
 title: 'Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another''s influence, with trust, specialization and higher-level agency arising from its history and not imposed'
-version: 4
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,14 +23,6 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
-- version: 4
-  date: '2026-11-10'
-  note: >-
-    Carries will-organization as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: will-organization, since it bears on
-    QUESTION-088, bears on QUESTION-090, which gained the line in an
-    earlier round. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,7 +40,6 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-- will-organization
 complements:
 - CLAIM-284
 - CLAIM-551

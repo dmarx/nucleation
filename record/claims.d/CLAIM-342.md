@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 5
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -31,14 +31,6 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
-- version: 5
-  date: '2026-11-10'
-  note: >-
-    Carries will-organization as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: will-organization, since it objects to
-    CLAIM-339, which gained the line in an earlier round. No other
-    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,7 +48,6 @@ date: '2026-10-16'
 line:
 - distributed-agency
 - pragmatic-transport
-- will-organization
 rests_on:
 - CLAIM-330
 - CLAIM-141

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpiyvk1
 title: 'Persistence and nucleating productivity in the committor sense vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state''s exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target''s chance of forming against an admissible alternative'
-version: 3
+version: 2
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,12 +17,6 @@ history:
     Its one premise, TERM-117, was adopted in the same change; the
     committor argument was followed and the deadline table re-run
     (scratch/formal/dna_origami_toys.py, python3 -I).
-- version: 3
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument:
-    distributed-agency, since it bears on QUESTION-380. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -41,7 +35,6 @@ line:
 - realizability
 - nucleating-argument
 - formal-apparatus
-- distributed-agency
 uses:
 - TERM-117
 bears_on:

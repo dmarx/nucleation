@@ -4,23 +4,12 @@ status: Answered
 formerly:
 - QUESTION-tmphmweu
 title: 'Can an intervention on what an interpreter is told about a communicative situation tell the relations that constitute the act from those that only accompany it?'
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: distributed-agency, since it refines
-    QUESTION-030, which gained the line in an earlier round. No other
-    change.
+version: 1
 tags:
 - causality
 - social-ontology
 date: '2026-10-28'
-line:
-- pragmatic-transport
-- distributed-agency
+line: pragmatic-transport
 refines:
 - QUESTION-030
 summary: >-

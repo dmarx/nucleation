@@ -4,28 +4,19 @@ status: Answered
 formerly:
 - QUESTION-tmpiu50n
 title: 'Is an inquiry''s current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory?'
-version: 3
+version: 2
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
-- version: 3
-  date: '2026-11-10'
-  note: >-
-    Carries pragmatic-transport as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: pragmatic-transport, since it refines
-    QUESTION-105, which gained the line in an earlier round. No other
-    change.
 tags:
 - epistemology
 - information-theory
 date: '2026-10-27'
 line:
 - records-of-inquiry
-- pragmatic-transport
 refines:
 - QUESTION-105
 summary: >-

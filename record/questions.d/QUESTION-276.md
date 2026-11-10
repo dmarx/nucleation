@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpixgs8
 title: 'How can overlapping higher-level perspectives be identified from the activity of the members who realize them, without being inserted into the model and without their number being fixed in advance, and told apart from coactivity that a common cause produces; and does a structure so inferred, such as a feature allocation under an Indian buffet prior or a nested topic hierarchy, predict an organization''s responses to interventions on its records, membership and authority better than its communication and authorization relations alone?'
-version: 2
+version: 1
 history:
 - version: 1
   date: '2026-10-26'
@@ -13,23 +13,13 @@ history:
     Review": the methodological question T18–T20 raised about the Northstar
     simulation, merged with the owner's two proposals for answering it,
     hLDA (T21) and the Indian buffet process (T22).
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries will-organization as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 3): the entry takes part
-    in that line's argument: will-organization, since it refines
-    QUESTION-259, which gained the line in an earlier round. No other
-    change.
 tags:
 - social-ontology
 - probabilistic-modeling
 - causality
 - individuation
 date: '2026-10-26'
-line:
-- distributed-agency
-- will-organization
+line: distributed-agency
 refines:
 - QUESTION-259
 summary: >-

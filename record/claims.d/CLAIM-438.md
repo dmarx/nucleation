@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpe0iew
 title: 'An ordering serving as the negotiation''s potential, as the potential account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
-version: 5
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -26,12 +26,6 @@ history:
   note: >-
     The eleventh status review (ADR-057) added a dated note saying what
     holds it back. The claim and its status are unchanged.
-- version: 5
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's rule
-    (2026-11-10): the entry takes part in that line's argument:
-    distributed-agency, since it objects to CLAIM-440. No other change.
 role: counter
 warrant: empirical
 tags:
@@ -40,7 +34,6 @@ tags:
 date: '2026-10-23'
 line:
 - organizational-affect
-- distributed-agency
 objects_to:
 - CLAIM-440
 grounds:

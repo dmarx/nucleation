@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp2i7yj
 title: 'Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s): only a do(S) intervenes on the relations that would constitute an act, and in a vignette or rating study every manipulation is a do(I)'
-version: 5
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -33,14 +33,6 @@ history:
     changing the situation, do(S = s), so the effect of a cue is evidence
     about interpretation under instruction, not about whether the act
     changed'. The body is unchanged.
-- version: 5
-  date: '2026-11-10'
-  note: >-
-    Carries distributed-agency as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 2): the entry takes part
-    in that line's argument: distributed-agency, since it bears on
-    QUESTION-030, which gained the line in an earlier round. No other
-    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,9 +45,7 @@ tags:
 - causality
 - pragmatics
 date: '2026-10-10'
-line:
-- pragmatic-transport
-- distributed-agency
+line: pragmatic-transport
 answers:
 - QUESTION-296
 bears_on:

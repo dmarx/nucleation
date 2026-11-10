@@ -4,22 +4,13 @@ status: Proposed
 formerly:
 - TERM-tmpszrpp
 title: 'motivating perspective: an organizational perspective whose interpretations give circumstances a significance relative to concerns it maintains, and whose significance conditions action readiness, a claim to control that the will-organization may or may not grant; motivating as a disposition, whether or not it is activated, granted or operative'
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries evidence-for-experience as well, at the sweep of ADR-084's
-    rule (2026-11-10): the entry takes part in that line's argument:
-    evidence-for-experience, since it refines TERM-072. No other change.
+version: 1
 tags:
 - motivation
 - emotion-and-affect
 - agency
 date: '2026-11-04'
-line:
-- organizational-affect
-- evidence-for-experience
+line: organizational-affect
 refines:
 - TERM-072
 summary: >-

@@ -4,22 +4,11 @@ status: Open
 formerly:
 - QUESTION-tmpcef4k
 title: 'Does database cracking keep its measured costs against a scan and an upfront sort in another implementation, measured over a long sequence of random range queries?'
-version: 2
-history:
-- version: 2
-  date: '2026-11-10'
-  note: >-
-    Carries nucleating-argument as well, at the sweep of ADR-085's
-    rule followed to its end (2026-11-10, round 3): the entry takes part
-    in that line's argument: nucleating-argument, since it refines
-    QUESTION-114, which gained the line in an earlier round. No other
-    change.
+version: 1
 tags:
 - databases
 date: '2026-10-20'
-line:
-- distributed-agency
-- nucleating-argument
+line: distributed-agency
 summary: >-
   The promotion condition formerly on [THEORY-333](../theory.d/THEORY-333.md), moved unchanged when that
   account was promoted on 2026-10-20 on the one study it rests on ([ADR-047](../decisions.d/ADR-047.md)
