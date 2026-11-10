@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcdshj
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-07'
@@ -43,6 +43,13 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Proposed becoming Proposed. The synthesis's own history stays on
     SYNTHESIS-001.
+- version: 6
+  date: '2026-11-10'
+  note: >-
+    Carries realizability as well, at ADR-tmpk61vy: the entry takes part
+    in that line's argument, since it bears on QUESTION-393, a question
+    of that line. Found by the lint sweep of 2026-11-10 as a `rests_on`
+    step across lines. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +76,7 @@ tags:
 date: '2026-11-07'
 line:
 - distributed-agency
+- realizability
 rests_on:
 - CLAIM-611
 - CLAIM-329

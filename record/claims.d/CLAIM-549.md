@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7oo4d
 title: 'The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-04'
@@ -23,6 +23,13 @@ history:
     region. CLAIM-347, CASE-129, CASE-109, TERM-060 and TERM-094 are
     Active. No objection is on file, and nothing in the record meets
     the defeat condition. The claim is unchanged.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-131, a
+    question of that line. Found by the lint sweep of 2026-11-10 as a
+    `rests_on` step across lines. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,6 +47,7 @@ date: '2026-11-04'
 line:
 - will-organization
 - formal-apparatus
+- distributed-agency
 rests_on:
 - CLAIM-347
 - CLAIM-361

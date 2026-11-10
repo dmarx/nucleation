@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpuxuo4
 title: 'Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is structurally frustrated at every budget, and one inside it but outside the complex at budget b is frustrated only relative to b, short of resources and not structurally frustrated'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,13 @@ history:
     construction is unchanged. The old title: "Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is frustrated at every budget, and one inside it but outside the complex at budget b is short of resources at b, not frustrated". Its premises CLAIM-347
     and TERM-060 are Active, no objection is filed, and nothing in the
     record meets its defeater.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-131, a
+    question of that line. Found by the lint sweep of 2026-11-10 as a
+    `rests_on` step across lines. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -38,6 +45,7 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- distributed-agency
 rests_on:
 - CLAIM-347
 complements:

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpnza8k
 title: 'An expression''s reproduction can come apart from agreement on the concept it carries: communities that use it against one another, and contest whom it describes, can keep it in circulation, so symbolic stability can persist while conceptual stability fails, and a durable dispute over a term shows a durable relation among its uses, not one concept'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-439, a
+    question of that line. Found by the lint sweep of 2026-11-10 as a
+    `rests_on` step across lines. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,6 +31,7 @@ tags:
 date: '2026-11-07'
 line:
 - pragmatic-transport
+- distributed-agency
 rests_on:
 - CLAIM-280
 complements:

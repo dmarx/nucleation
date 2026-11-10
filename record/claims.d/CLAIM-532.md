@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbeh2e
 title: 'Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent''s own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,13 @@ history:
     self-formation (TERM-099 leaves that open), and CASE-191 passes the
     first test in a model. CASE-161, LIT-582 and THEORY-1119 leave grounds:
     the body never uses them, and CASE-161 is reached through CLAIM-522.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-133 and
+    QUESTION-282, a question of that line. Found by the lint sweep of
+    2026-11-10 as a `rests_on` step across lines. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +42,7 @@ tags:
 date: '2026-11-03'
 line:
 - will-organization
+- distributed-agency
 rests_on:
 - CLAIM-025
 - CLAIM-347

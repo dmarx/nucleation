@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpv67b2
 title: 'Niche differentiation matters to an organization''s development as possible relief of structural frustration among its constituents'' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -21,6 +21,13 @@ history:
     CLAIM-361, CLAIM-369, CASE-115, CASE-118, CASE-119 and TERM-060
     are Active. No objection is on file, and nothing in the record
     meets the defeat condition.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-131 to
+    QUESTION-135, a question of that line. Found by the lint sweep of
+    2026-11-10 as a `rests_on` step across lines. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +47,7 @@ tags:
 date: '2026-11-04'
 line:
 - will-organization
+- distributed-agency
 rests_on:
 - CLAIM-347
 - CLAIM-361

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpu69za
 title: 'Give each of an individual''s perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective''s tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-041, a
+    question of that line. Found by the lint sweep of 2026-11-10 as a
+    `rests_on` step across lines. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,6 +31,7 @@ tags:
 date: '2026-11-04'
 line:
 - will-organization
+- distributed-agency
 rests_on:
 - CLAIM-347
 - CLAIM-417
