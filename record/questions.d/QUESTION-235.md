@@ -17,7 +17,7 @@ history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's
+    Carries nucleating-argument as well, at the sweep of ADR-085's
     rule followed to its end (2026-11-10, round 2): the entry takes part
     in that line's argument: nucleating-argument, since it refines
     QUESTION-095, which gained the line in an earlier round. No other

@@ -20,7 +20,7 @@ history:
   date: '2026-11-10'
   note: >-
     Carries distributed-agency and pragmatic-transport as well, at the
-    sweep of ADR-tmpk61vy's rule (2026-11-10): the entry takes part in those
+    sweep of ADR-085's rule (2026-11-10): the entry takes part in those
     lines' argument: distributed-agency, since it bears on QUESTION-284;
     pragmatic-transport, since it bears on QUESTION-029. No other
     change.

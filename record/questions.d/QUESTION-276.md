@@ -16,7 +16,7 @@ history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    Carries will-organization as well, at the sweep of ADR-tmpk61vy's
+    Carries will-organization as well, at the sweep of ADR-085's
     rule followed to its end (2026-11-10, round 3): the entry takes part
     in that line's argument: will-organization, since it refines
     QUESTION-259, which gained the line in an earlier round. No other

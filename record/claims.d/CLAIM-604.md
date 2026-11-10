@@ -40,7 +40,7 @@ history:
 - version: 3
   date: '2026-11-10'
   note: >-
-    Carries readiness as well, at the sweep of ADR-tmpk61vy's rule
+    Carries readiness as well, at the sweep of ADR-085's rule
     (2026-11-10): the entry takes part in that line's argument:
     readiness, since it bears on QUESTION-398. No other change.
 role: thesis

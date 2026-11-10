@@ -16,7 +16,7 @@ history:
 - version: 3
   date: '2026-11-10'
   note: >-
-    Carries will-organization as well, at the sweep of ADR-tmpk61vy's rule
+    Carries will-organization as well, at the sweep of ADR-085's rule
     (2026-11-10): the entry takes part in that line's argument: will-
     organization, since it objects to CLAIM-341. No other change.
 role: counter

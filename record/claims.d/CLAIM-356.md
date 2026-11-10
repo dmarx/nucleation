@@ -33,7 +33,7 @@ history:
 - version: 5
   date: '2026-11-10'
   note: >-
-    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    Carries distributed-agency as well, at the sweep of ADR-085's rule
     (2026-11-10): the entry takes part in that line's argument:
     distributed-agency, since it objects to CLAIM-288. No other change.
 role: thesis

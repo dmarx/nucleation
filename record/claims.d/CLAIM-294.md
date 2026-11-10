@@ -23,7 +23,7 @@ history:
 - version: 4
   date: '2026-11-10'
   note: >-
-    Carries pragmatic-transport as well, at the sweep of ADR-tmpk61vy's
+    Carries pragmatic-transport as well, at the sweep of ADR-085's
     rule followed to its end (2026-11-10, round 3): the entry takes part
     in that line's argument: pragmatic-transport, since it answers
     QUESTION-289, which gained the line in an earlier round. No other

@@ -27,14 +27,14 @@ history:
 - version: 3
   date: '2026-11-10'
   note: >-
-    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    Carries distributed-agency as well, at the sweep of ADR-085's rule
     (2026-11-10): the entry takes part in that line's argument:
     distributed-agency, since it bears on QUESTION-090, bears on
     QUESTION-399. No other change.
 - version: 4
   date: '2026-11-10'
   note: >-
-    Carries will-organization as well, at the sweep of ADR-tmpk61vy's
+    Carries will-organization as well, at the sweep of ADR-085's
     rule followed to its end (2026-11-10, round 2): the entry takes part
     in that line's argument: will-organization, since it bears on
     QUESTION-090, which gained the line in an earlier round. No other

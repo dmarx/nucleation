@@ -21,7 +21,7 @@ history:
   date: '2026-11-10'
   note: >-
     Carries nucleating-argument and distributed-agency as well, at the
-    sweep of ADR-tmpk61vy's rule (2026-11-10): the entry takes part in those
+    sweep of ADR-085's rule (2026-11-10): the entry takes part in those
     lines' argument: nucleating-argument, since it bears on
     QUESTION-397; distributed-agency, since it bears on QUESTION-380. No
     other change.
