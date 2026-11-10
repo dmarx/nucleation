@@ -51,6 +51,7 @@ grounds:
 - THEORY-1117
 complements:
 - CLAIM-027
+- CLAIM-487
 summary: >-
   The assistant's reading, offered in chat on 2026-10-11 and filed at the
   owner's prompt. Ainslie's will has no governor: the person is "just the

@@ -33,6 +33,7 @@ complements:
 - CLAIM-548
 - CLAIM-550
 - CLAIM-549
+- CLAIM-620
 grounds:
 - THEORY-120
 - THEORY-152
@@ -65,6 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- ref::uses-file: TERM-060 — "a structurally frustrated individual", which "can become wholehearted only by changing a demand", is TERM-060's frustration of demands -->
 
 # CLAIM-553: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
 

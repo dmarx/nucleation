@@ -31,7 +31,7 @@ summary: >-
   reportable; the paper does not separate felt from unfelt in any further
   sense.
 ---
-<!-- inactive-ok-file: QUESTION-059 CLAIM-039 — Deferred; the question this work was filed for and the claim it bears on, on a set-aside line -->
+<!-- inactive-ok-file: QUESTION-059 — Deferred; the question this work was filed for and the claim it bears on, on a set-aside line -->
 <!-- inactive-ok-file: THEORY-101 THEORY-045 THEORY-093 THEORY-057 — Proposed; the accounts this reading bears on, open -->
 
 # NOTE-785: Brouillet and Friston — Relative fluency (unfelt vs felt) in active inference

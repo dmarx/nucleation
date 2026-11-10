@@ -37,7 +37,9 @@ concludes:
 tags:
 - agency
 date: '2026-01-01'
-# line: will-organization
+# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
+line:
+- will-organization
 
 summary: >-
   The inference, and its weakest step.

@@ -27,6 +27,7 @@ line: distributed-agency
 complements:
 - TERM-008
 - TERM-071
+- TERM-100
 summary: >-
   "Descent" carries at least four historical senses in the record's
   claims, and they differ in what the claims turn on: whether the relation

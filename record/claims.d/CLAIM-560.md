@@ -46,6 +46,7 @@ rests_on:
 complements:
 - CLAIM-567
 - CLAIM-591
+- CLAIM-583
 uses:
 - TERM-114
 summary: >-
@@ -65,6 +66,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- ref::uses-file: TERM-114 — "an architecture with configurations Q, moves between them, a capacity requirement r and demands", with reachability R(b) indexed by budget, is TERM-114's resource-bounded constraint system -->
 
 # CLAIM-560: The resource-indexed compatibility filtration and the resource-indexed reachability filtration of one architecture both grow with the budget and neither determines the other: a budget can make a transition between configurations already feasible affordable while adding no jointly satisfiable set of demands, and a configuration can be feasible at a budget at which it is unreachable from the start
 

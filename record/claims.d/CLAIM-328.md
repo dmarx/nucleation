@@ -42,6 +42,8 @@ grounds:
 complements:
 - CLAIM-329
 - CLAIM-002
+- CLAIM-613
+- CLAIM-617
 summary: >-
   A4's H5 of the exchange of 2026-10-16, in its weak form, on the
   Washington Senators. The league's successor to the original club is the

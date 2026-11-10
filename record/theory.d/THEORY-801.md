@@ -30,6 +30,8 @@ answers:
 - QUESTION-228
 bears_on:
 - QUESTION-032
+rivals:
+- THEORY-1236
 ---
 <!-- inactive-ok-file: THEORY-249 THEORY-1236 — Proposed; the frame objection and the rival account, cited as open -->
 

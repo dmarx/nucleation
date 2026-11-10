@@ -44,6 +44,8 @@ summary: >-
   (A43), then one running case of three (A52). Its formal statement,
   frame as a parameterized family of contexts, did not survive outline
   v4.
+complements:
+- CLAIM-543
 ---
 <!-- inactive-ok-file: THEORY-490 — Proposed; the role-play framing's statement, a ground of this Proposed claim, cited as open -->
 <!-- inactive-ok-file: THEORY-251 — Proposed; filed today, cited as a qualification of the defeater, not leaned on -->

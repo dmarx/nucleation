@@ -49,6 +49,8 @@ rests_on:
 complements:
 - CLAIM-567
 - CLAIM-586
+- CLAIM-575
+- CLAIM-591
 bears_on:
 - QUESTION-392
 - QUESTION-404

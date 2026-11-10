@@ -83,6 +83,8 @@ rests_on:
 complements:
 - CLAIM-417
 - CLAIM-553
+- CLAIM-614
+- CLAIM-624
 bears_on:
 - QUESTION-439
 - QUESTION-360

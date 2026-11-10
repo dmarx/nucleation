@@ -28,7 +28,7 @@ summary: >-
   or two of those might be handy to keep on hand too"). Tracing descendants of a
   defeated premise, which [CLAIM-295](../claims.d/CLAIM-295.md) says a record of dependencies supports.
 ---
-<!-- inactive-ok-file: CLAIM-250 CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CASE-086: The retracted finding and its descendants: an experiment fails to replicate years after three conclusions were built on it
 

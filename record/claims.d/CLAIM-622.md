@@ -46,6 +46,7 @@ summary: >-
   reader's. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-226 — filed from the same exchange, Proposed; the comparative study this claim bears on -->
+<!-- ref::uses-file: TERM-072 — the "different perspectives on the same circumstances" two organizations develop, the distinctions each draws under its policy, are TERM-072's organizational perspectives -->
 
 # CLAIM-622: Two organizations facing the same circumstances with the same acceptable actions can each be minimally adequate while telling apart different and incomparable sets of circumstances, so a difference in the distinctions two perspectives draw is not by itself evidence that either is deficient; which is deficient can be judged only against the policy each commits to
 

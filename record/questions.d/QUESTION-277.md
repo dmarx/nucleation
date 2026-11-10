@@ -50,8 +50,8 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-603 NOTE-1658 THEORY-1351 — new or Proposed; the assistant's claim on specialization and dependency and a reading it cites, cited as open -->
 <!-- inactive-ok-file: LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 
-<!-- inactive-ok-file: LIT-1559 LIT-1562 LIT-1573 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 LIT-188 — Proposed; accounts the question would test, cited as open -->
+<!-- inactive-ok-file: LIT-1559 LIT-1562 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 — Proposed; accounts the question would test, cited as open -->
 <!-- inactive-ok-file: LIT-1588 LIT-1611 LIT-1616 LIT-1585 LIT-1608 LIT-1603 LIT-1617 LIT-1605 LIT-1597 CASE-173 CASE-171 CASE-177 CASE-174 CASE-167 CASE-168 — Deferred works and Proposed cases of the second pass, cited in the note of 2026-10-27 (later), nothing here rests on them -->
 
 # QUESTION-277: When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host's regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?

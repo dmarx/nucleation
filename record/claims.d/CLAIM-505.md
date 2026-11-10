@@ -38,6 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1445 — Unfetched, unread; Carver 2003, read through Fulford et al.'s restatement -->
 <!-- inactive-ok-file: CLAIM-468 CLAIM-440 — Proposed; the objection this answers and the account it bears on, cited as open -->
+<!-- ref::uses-file: TERM-076 — the "valence" and the "prevailing ordering" of "the system's own states by their bearing on its maintenance", whose hold the claim separates from one goal's priority, are TERM-076's goal-conduciveness valence and its potential -->
 
 # CLAIM-505: A goal's lowered priority under positive affect need not be a weaker hold of the prevailing ordering: on Carver's satisficing account the effort released goes to the goal furthest behind, which the prevailing ordering of the system's states may itself direct
 

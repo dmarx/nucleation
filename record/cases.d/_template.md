@@ -28,7 +28,9 @@ date: '2026-01-01'
 # counterexample_to: [CLAIM-000]  # shows a claim false as stated
 # variant_of: [CASE-000]          # alters another case in a stated respect
 # substitutes_for: [CASE-000]     # stands in for another case
-# line: will-organization
+# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
+line:
+- will-organization
 
 summary: >-
   The case in two sentences, and what it is used to show.

@@ -37,7 +37,7 @@ summary: >-
   parts separated by constancies. New learning destroys old to the degree
   that it uses the same parts.
 ---
-<!-- inactive-ok-file: CLAIM-176 CLAIM-179 CLAIM-180 CLAIM-182 CLAIM-185 THEORY-217 THEORY-153 — Proposed; the claims and accounts this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-176 CLAIM-179 CLAIM-180 CLAIM-185 THEORY-217 THEORY-153 — Proposed; the claims and accounts this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from this reading -->
 <!-- inactive-ok-file: LIT-930 — Unavailable; May's stability bound, named for comparison and not leaned on -->
 

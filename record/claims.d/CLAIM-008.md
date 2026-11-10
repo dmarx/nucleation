@@ -27,7 +27,7 @@ summary: >-
   observables.
 ---
 <!-- ref::uses-file: TERM-032 — stated in "levels, as a hierarchy of latent representations", the definition current when this claim was written; it has since been superseded -->
-<!-- inactive-ok-file: TERM-032 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: TERM-032 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 
 # CLAIM-008: The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones
 

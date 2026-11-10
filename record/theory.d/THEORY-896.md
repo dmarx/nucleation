@@ -54,7 +54,7 @@ corroborates:
 - CLAIM-434
 ---
 <!-- inactive-ok-file: LIT-1462 — Unfetched, unread; Monderer and Shapley 1996, the source this result is attributed to -->
-<!-- inactive-ok-file: TERM-076 CLAIM-440 — Proposed or draft; the term and claims this result bears on, and the cardinal decomposition filed with it -->
+<!-- inactive-ok-file: TERM-076 — Proposed or draft; the term and claims this result bears on, and the cardinal decomposition filed with it -->
 
 # THEORY-896: A finite game in strategic form has the finite improvement property, every path of strict unilateral improvements being finite, exactly when it has a generalized ordinal potential, a real function on strategy profiles that rises with every strict unilateral improvement; so in a finite game an ordering along which every improving move climbs exists exactly when there is no improvement cycle, and every sequence of improving moves ends at a pure equilibrium
 

@@ -67,6 +67,10 @@ rests_on:
 - CLAIM-533
 complements:
 - CLAIM-352
+- CLAIM-532
+- CLAIM-534
+- CLAIM-547
+- CLAIM-624
 bears_on:
 - QUESTION-364
 - QUESTION-071

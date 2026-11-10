@@ -27,7 +27,6 @@ summary: >-
   script is scratch/formal/r3_dysregulation_arms.py. The construction is
   the filer's.
 ---
-<!-- inactive-ok-file: CLAIM-286 — Proposed or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-192: Two organizations equally impaired during an emotional episode, one dysregulated in DBT's sense, its threat perspective's baseline raised by the episode and decaying slowly, the other in the attentional sense, its task sharing a fixed budget with a competing demand: only the first stays impaired after the episode ends, and lowering activation repairs only the first while removing the competing demand repairs only the second
 

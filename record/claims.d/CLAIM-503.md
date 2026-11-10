@@ -47,6 +47,8 @@ summary: >-
   direction composes N's rule with the kernel; the other is one minimax
   step over a bilinear objective. At ε = 0 it is the finite Blackwell
   order ([THEORY-717](../theory.d/THEORY-717.md)).
+complements:
+- CLAIM-517
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the empirical question this result leaves open, cited as open -->
 

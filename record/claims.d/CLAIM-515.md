@@ -40,6 +40,7 @@ complements:
 - CLAIM-414
 - CLAIM-522
 - CLAIM-523
+- CLAIM-528
 bears_on:
 - QUESTION-362
 summary: >-

@@ -21,7 +21,7 @@ summary: >-
   evidence on whether other-directed motivation survives once that extent
   is controlled.
 ---
-<!-- inactive-ok-file: CLAIM-491 CLAIM-494 THEORY-1114 THEORY-1115 THEORY-655 THEORY-464 LIT-1700 LIT-1782 LIT-1683 LIT-1759 — Proposed, Deferred or Unavailable; the candidate answers, objections and works the question is organised around, cited as open -->
+<!-- inactive-ok-file: CLAIM-491 CLAIM-494 THEORY-1114 THEORY-1115 THEORY-655 THEORY-464 LIT-1700 LIT-1782 LIT-1759 — Proposed, Deferred or Unavailable; the candidate answers, objections and works the question is organised around, cited as open -->
 
 # QUESTION-300: Is any motivation aimed at another's good and at the good of no self, however far a self can extend to include others and groups?
 

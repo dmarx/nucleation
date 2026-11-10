@@ -46,6 +46,8 @@ complements:
 - CLAIM-344
 - CLAIM-075
 - CLAIM-464
+- CLAIM-515
+- CLAIM-535
 bears_on:
 - QUESTION-364
 summary: >-

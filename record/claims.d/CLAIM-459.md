@@ -26,6 +26,8 @@ complements:
 - CLAIM-122
 - CLAIM-047
 - CLAIM-463
+- CLAIM-548
+- CLAIM-549
 summary: >-
   Stated in [CASE-112](../cases.d/CASE-112.md)'s title and its first "What it can show" bullet and
   held by no claim, found in the audit of 2026-10-27. In ẇ = μw − w³ + h

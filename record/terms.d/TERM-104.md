@@ -26,6 +26,8 @@ summary: >-
   joins them, with A28's counterfactual criterion. [ADR-056](../decisions.d/ADR-056.md)'s proposed
   kinds would class it as a construct. The wording is A's, sharpened by
   the reader; adopting it is the owner's call.
+complements:
+- TERM-118
 ---
 <!-- inactive-ok-file: ADR-056 CLAIM-430 CLAIM-437 CLAIM-440 CLAIM-442 CLAIM-447 THEORY-055 THEORY-056 THEORY-680 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

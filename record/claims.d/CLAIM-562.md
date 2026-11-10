@@ -42,6 +42,7 @@ grounds:
 complements:
 - CLAIM-345
 - CLAIM-567
+- CLAIM-579
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

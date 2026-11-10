@@ -43,6 +43,8 @@ line:
 complements:
 - CLAIM-354
 - CLAIM-567
+- CLAIM-576
+- CLAIM-589
 bears_on:
 - QUESTION-378
 summary: >-

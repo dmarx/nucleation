@@ -14,8 +14,9 @@ tags:
 - agency
 date: '2026-01-01'
 
-# REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line: will-organization
+# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
+line:
+- will-organization
 
 # refines: [QUESTION-000]   # the broader question this sharpens
 

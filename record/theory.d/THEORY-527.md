@@ -54,6 +54,8 @@ summary: >-
   proposal; the verdicts on thermostats and RL are argued from it, and
   "reliably classifies humans as agents" is asserted. The labels depend on
   the chosen variables, which the paper states.
+rivals:
+- THEORY-1236
 ---
 <!-- inactive-ok-file: THEORY-801 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-1236 — Proposed; the rival account named in this entry's history, which now carries the rivals edge -->

@@ -23,6 +23,7 @@ works:
 - organization-of-will
 complements:
 - CLAIM-024
+- CLAIM-487
 uses:
 - TERM-023
 summary: >-

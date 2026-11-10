@@ -22,8 +22,8 @@ summary: >-
   the mother's translation.
 ---
 <!-- ref::uses-file: TERM-001 — stated in "fidelity, as the number of preserved constraints", the definition current when this claim was written; it has since been superseded -->
-<!-- inactive-ok-file: LIT-766 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
-<!-- inactive-ok-file: TERM-001 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: LIT-766 until 2027-02-10 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was reached, so the grounds it gives are unread; ask again whether this entry still holds -->
+<!-- inactive-ok-file: TERM-001 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 
 # CLAIM-020: A translation's quality is the number of formal and semantic constraints it preserves
 

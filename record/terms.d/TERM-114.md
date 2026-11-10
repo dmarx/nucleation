@@ -25,6 +25,7 @@ line:
 - realizability
 complements:
 - TERM-105
+- TERM-116
 summary: >-
   A's proposal, from the pasted synthesis on resource-bounded realizability
   (three responses, pasted by the owner on 2026-11-05, continuing the

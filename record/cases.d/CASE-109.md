@@ -28,7 +28,7 @@ summary: >-
   used for [CLAIM-358](../claims.d/CLAIM-358.md). Stipulated, so it shows what the claim
   distinguishes, not that people differ this way.
 ---
-<!-- inactive-ok-file: CLAIM-162 THEORY-070 CLAIM-358 CLAIM-362 CLAIM-364 — Proposed; the claims and reading the case is set beside, open -->
+<!-- inactive-ok-file: CLAIM-358 CLAIM-362 CLAIM-364 — Proposed; the claims and reading the case is set beside, open -->
 
 # CASE-109: Two people with the same demanding commitment, the same output and the same effort in the work, who differ in how their intrapersonal conflict is settled: one escalates it to deliberate override, the other's processes accommodate one another
 

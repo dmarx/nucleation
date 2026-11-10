@@ -42,7 +42,9 @@ complements:
 - CLAIM-147
 - CLAIM-210
 - CLAIM-328
+- CLAIM-621
 ---
+<!-- ref::uses-file: TERM-084 — a retelling "recognizably descended" from an original it no longer resembles, and "This claim's continuity is causal descent", are TERM-084's causal descent, kept apart from similarity -->
 
 # CLAIM-002: A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles
 

@@ -35,6 +35,8 @@ summary: >-
   its duration), so meeting one says nothing of another. "These are not
   equivalent problems." The wording is A's; adopting it is the owner's
   call.
+complements:
+- TERM-114
 ---
 <!-- inactive-ok-file: TERM-107 CASE-211 CASE-200 CASE-205 CASE-201 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 

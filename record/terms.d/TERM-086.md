@@ -13,6 +13,7 @@ date: '2026-10-27'
 line: distributed-agency
 complements:
 - TERM-074
+- TERM-118
 summary: >-
   The owner's, U11 of the exchange of 2026-10-26: "we should probably
   engineer a TERM for 'organizational achievement', and/or terms in that
@@ -121,7 +122,7 @@ supplies observations or a construction."
 
 ## Note of 2026-10-31: an augmented ability to act, with no target named
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1280 — Proposed; the readings filed 2026-10-31, cited as context -->
 Bencherki, Brummans and Vézy define agency as "the affective force that
 governs the transition from a lesser to an augmented ability to act"
 ([LIT-1902](../literature.d/LIT-1902.md), p. 1354; [THEORY-1280](../theory.d/THEORY-1280.md)). Massumi's definition, from

@@ -67,6 +67,12 @@ complements:
 - CLAIM-027
 - CLAIM-352
 - CLAIM-410
+- CLAIM-527
+- CLAIM-535
+- CLAIM-537
+- CLAIM-542
+- CLAIM-582
+- CLAIM-589
 summary: >-
   The owner's, U9 of the exchange of 2026-10-17: "controllability of a
   system isn't binary, and neither is sensitivity to perturbation", so

@@ -46,6 +46,9 @@ grounds:
 complements:
 - CLAIM-422
 - CLAIM-462
+- CLAIM-463
+- CLAIM-523
+- CLAIM-619
 summary: >-
   A7 to A9 of the exchange of 2026-10-26, from the owner's U6 and U7: the
   police entry at USIP before any court ruled, the East Wing demolished

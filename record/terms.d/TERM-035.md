@@ -17,7 +17,7 @@ summary: >-
   what position, in what social context, with what attitude, split into
   interpretive, enunciative and performative frames.
 ---
-<!-- inactive-ok-file: TERM-005 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-035: frame, as the delivery frame: interpretive, enunciative and performative
 

@@ -42,6 +42,7 @@ line:
 - distributed-agency
 complements:
 - CLAIM-284
+- CLAIM-551
 summary: >-
   A7's central thesis, the explanatory half of the manuscript, kept apart
   from the constitutive half ([CLAIM-284](CLAIM-284.md)) as A7 itself asked. Its
@@ -56,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-446 CLAIM-447 CLAIM-465 THEORY-050 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
-<!-- inactive-ok-file: CLAIM-278 CLAIM-024 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-278 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-286: Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed
 

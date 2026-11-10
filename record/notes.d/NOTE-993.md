@@ -33,7 +33,7 @@ summary: >-
   hand was owned.
 ---
 <!-- inactive-ok-file: THEORY-765 THEORY-769 THEORY-767 THEORY-768 — Proposed; the batch's accounts this experiment bears on, not leaned on -->
-<!-- inactive-ok-file: THEORY-458 THEORY-322 THEORY-064 — Proposed; accounts of ownership, agency and the self-model this experiment tests in part, not leaned on -->
+<!-- inactive-ok-file: THEORY-458 THEORY-322 — Proposed; accounts of ownership, agency and the self-model this experiment tests in part, not leaned on -->
 
 # NOTE-993: Kalckert & Ehrsson — Moving a rubber hand that feels like your own
 

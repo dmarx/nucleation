@@ -54,6 +54,7 @@ grounds:
 <!-- inactive-ok-file: CLAIM-246 — Rejected; the objection this claim answers, cited as answered -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-139 — Proposed; the theses this claim reads and sits beside, cited as open, not settled -->
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited for its transfer disjunct -->
+<!-- ref::uses-file: TERM-084 — a work individuated by "where it came from", and realizations that "descend from a common ancestor with no transport between them", are TERM-084's provenance and common-ancestry senses -->
 
 # CLAIM-210: Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it
 

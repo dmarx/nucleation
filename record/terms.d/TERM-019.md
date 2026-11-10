@@ -13,6 +13,8 @@ summary: >-
   A relatively stable organization capable of producing a characteristic
   pattern of agent-level action under appropriate conditions — desires,
   habits, plans, policies, institutional operating modes (Section 1).
+complements:
+- TERM-118
 ---
 
 # TERM-019: action-generating regime

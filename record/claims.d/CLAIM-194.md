@@ -62,6 +62,10 @@ summary: >-
 complements:
 - CLAIM-367
 - CLAIM-414
+- CLAIM-522
+- CLAIM-528
+- CLAIM-530
+- CLAIM-531
 ---
 
 # CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs

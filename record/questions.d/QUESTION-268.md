@@ -22,7 +22,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-076 — the demonstrated claim and term filed with this batch -->
 <!-- inactive-ok-file: CLAIM-433 — Proposed; the reply filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-1469 — Unavailable, abstract only; DynAffect, named for its attractor-strength parameter -->
-<!-- inactive-ok-file: TERM-076 CLAIM-440 THEORY-252 — Proposed; the term and claim this asks about, and the dilemma it bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-440 THEORY-252 — Proposed; the term and claim this asks about, and the dilemma it bears on, cited as open -->
 
 # QUESTION-268: What record of an organization's or an animal's conduct shows that one ordering prevails in the negotiation among its perspectives, which conflicts it wins, for how long, and whether it returns after interruption, and does potential measured on conflicts actually won give the same verdicts as potential read as a disposition?
 

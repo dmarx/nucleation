@@ -53,6 +53,7 @@ complements:
 - CLAIM-485
 - CLAIM-475
 - CLAIM-545
+- CLAIM-544
 bears_on:
 - QUESTION-133
 - QUESTION-364
@@ -72,6 +73,9 @@ summary: >-
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
+<!-- ref::uses-file: TERM-064 — "a new distinction it can make legible", one of the three things self-formation produces, is legibility in TERM-064's sense -->
+<!-- ref::uses-file: TERM-099 — the self-formation the claim defines, production by the agent's own activity on a discrepancy it cannot yet resolve, is TERM-099's, which states this claim's definition -->
+<!-- ref::uses-file: TERM-100 — telling self-formation apart from "a capacity installed or upheld from outside" by interventions on what produces and maintains it is TERM-100's formation and maintenance provenance -->
 
 # CLAIM-532: Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent's own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it
 

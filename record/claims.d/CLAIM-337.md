@@ -42,6 +42,8 @@ summary: >-
   relocated. What it does not reach: the diagram. A redescription with no
   action on the world concedes that action on the world is not part of
   the loop.
+complements:
+- CLAIM-541
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-358 CLAIM-541 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 

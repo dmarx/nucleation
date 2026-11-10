@@ -34,6 +34,8 @@ summary: >-
   Leitgeb and Ladyman's edgeless two-node graph is the hard case the
   exchange's examples avoid. The owner's character move answers the
   dilemma for kinds and not for identity.
+complements:
+- CLAIM-593
 ---
 <!-- inactive-ok-file: THEORY-453 — Proposed; the second position THEORY-034's census finds, cited as open -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-137 — Proposed; the owner's theses this objection presses, both open -->

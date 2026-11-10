@@ -61,6 +61,9 @@ complements:
 - CLAIM-037
 - CLAIM-044
 - CLAIM-197
+- CLAIM-471
+- CLAIM-510
+- CLAIM-627
 uses:
 - TERM-008
 - TERM-004
@@ -73,7 +76,7 @@ summary: >-
   it is a thesis of the line. The relativity example motivates it and
   is not evidence for it.
 ---
-<!-- inactive-ok-file: CLAIM-004 CLAIM-037 CLAIM-044 CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-004 CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the same analogy, which this claim does not revive -->
 
 # CLAIM-143: Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only relative to a specified class of admissible correspondences between their observations, independently validated and not admitted because they remove the disagreement

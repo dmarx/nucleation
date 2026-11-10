@@ -32,7 +32,7 @@ summary: >-
   allostatic trade-off. The authors say they do not claim the hypothesis
   is correct.
 ---
-<!-- inactive-ok-file: QUESTION-059 CLAIM-039 — Deferred; the question this work was filed for and the claim it bears on, on a set-aside line -->
+<!-- inactive-ok-file: QUESTION-059 — Deferred; the question this work was filed for and the claim it bears on, on a set-aside line -->
 <!-- inactive-ok-file: THEORY-045 THEORY-057 THEORY-093 THEORY-090 THEORY-101 — Proposed; the accounts this reading bears on, open -->
 
 # NOTE-761: Theriault et al. — Allostasis at the core of brain function

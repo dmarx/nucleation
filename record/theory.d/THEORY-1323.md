@@ -19,7 +19,7 @@ summary: >-
   integral of motion is found (those above size 3–4 are not), or that
   slowness ranks conserved quantities independently of the environment.
 ---
-<!-- inactive-ok-file: THEORY-1343 CLAIM-478 — Proposed; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-1343 — Proposed; neighbours cited as open -->
 
 # THEORY-1323: Under weak local noise a many-body operator decays at a rate proportional to its size, so a Hamiltonian's small-sized integrals of motion, which chaotic dynamics does not spread, decay slowly while generic operators, which it spreads, decay fast; in exact diagonalization of Ising and Heisenberg chains of up to nine sites at weak depolarizing noise, the slowest Lindbladian eigenoperators are linear combinations of the known exact and approximate small integrals of motion, and which approximate ones rank among the slowest moves with the noise strength
 

@@ -67,8 +67,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; the beautiful-loop account, a rival on sufficiency, cited as open -->
-<!-- inactive-ok-file: CLAIM-438 THEORY-893 — Proposed; the objection and reading filed with this batch, cited as open -->
-<!-- inactive-ok-file: CLAIM-440 CLAIM-355 THEORY-662 THEORY-873 THEORY-090 QUESTION-059 — Proposed, Open or Deferred; the account this extends, the readings it is grounded in and the questions it bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-438 — Proposed; the objection and reading filed with this batch, cited as open -->
+<!-- inactive-ok-file: CLAIM-440 THEORY-662 THEORY-873 THEORY-090 QUESTION-059 — Proposed, Open or Deferred; the account this extends, the readings it is grounded in and the questions it bears on, cited as open -->
 
 # CLAIM-439: A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it
 

@@ -45,6 +45,9 @@ uses:
 complements:
 - CLAIM-545
 - CLAIM-153
+- CLAIM-549
+- CLAIM-550
+- CLAIM-554
 grounds:
 - THEORY-134
 bears_on:

@@ -45,6 +45,10 @@ line:
 complements:
 - CLAIM-566
 - CLAIM-516
+- CLAIM-602
+- CLAIM-603
+- CLAIM-604
+- CLAIM-606
 bears_on:
 - QUESTION-398
 - QUESTION-399

@@ -29,7 +29,7 @@ summary: >-
   an alternative when its defeater is defeated. A12's "defeat of a defeater" is
   the same case and is held here, as A12 itself proposed.
 ---
-<!-- inactive-ok-file: CLAIM-184 CLAIM-189 CLAIM-250 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-189 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CASE-090: The rehabilitated hypothesis: an objection that displaced a hypothesis turns out to rest on a faulty measurement, and the hypothesis can be reopened because its defeat was recorded
 

@@ -60,6 +60,7 @@ complements:
 - CLAIM-075
 - CLAIM-354
 - CLAIM-410
+- CLAIM-545
 summary: >-
   The owner's connection, U11 of the exchange of 2026-10-17, quoting A9
   and A10 on viable reachability: "This feels reminiscent of ideas from

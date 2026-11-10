@@ -25,6 +25,9 @@ uses:
 - TERM-070
 complements:
 - CLAIM-395
+- CLAIM-566
+- CLAIM-597
+- CLAIM-604
 grounds:
 - 'CASE-189'
 summary: >-

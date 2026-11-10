@@ -51,9 +51,14 @@ summary: >-
   policy. So the reward for realized policy, and not for held authority,
   pays for delegating. It does not say operators behave so, or that any
   rule beyond one hop keeps both conditions.
+complements:
+- CLAIM-502
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->
+<!-- ref::uses-file: TERM-053 — the grants E_kj, an operator's effect on another's share of authority, were stated as TERM-053's endorsement, the definition current when this claim was written; since superseded by TERM-103 and TERM-101 -->
+<!-- ref::uses-file: TERM-101 — the grants E_kj of the title and the one-hop rule, conferral through a maintained grant relation, are TERM-101's grant -->
+<!-- ref::uses-file: TERM-103 — a grant's effect on the ally's authority, Δ = b_i δ added to I_j and nothing else, is conferral in TERM-103's sense, of which the grant is the case -->
 
 # CLAIM-375: Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together
 

@@ -88,6 +88,7 @@ uses:
 complements:
 - CLAIM-280
 - CLAIM-274
+- CLAIM-604
 summary: >-
   The owner, on reading Wu and Silva's finding that lasting artworks are
   those whose coalitions keep working under continual overwriting: "sounds

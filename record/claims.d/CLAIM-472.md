@@ -51,6 +51,8 @@ summary: >-
   evaluation", and "Practice produces differences ⇏ A particular
   normative obligation". The second half is [CLAIM-363](CLAIM-363.md)'s indexing, which
   A6 named as the bridge. Barad is unread here.
+complements:
+- CLAIM-624
 ---
 <!-- inactive-ok-file: LIT-1631 — Deferred; registered unread -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->

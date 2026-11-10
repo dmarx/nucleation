@@ -28,7 +28,7 @@ summary: >-
   changing no activity and no actual causal interaction. The authors
   read this as a challenge to functionalism, not a refutation.
 ---
-<!-- inactive-ok-file: QUESTION-059 CLAIM-039 — Deferred; the question this work was filed for and the claim it bears on, on a set-aside line -->
+<!-- inactive-ok-file: QUESTION-059 — Deferred; the question this work was filed for and the claim it bears on, on a set-aside line -->
 <!-- inactive-ok-file: THEORY-101 THEORY-045 THEORY-093 THEORY-090 THEORY-023 THEORY-092 THEORY-119 THEORY-043 — Proposed; the accounts this reading bears on, open -->
 
 # NOTE-818: Gidon, Aru and Larkum — Does neural computation feel like something?

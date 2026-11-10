@@ -27,7 +27,7 @@ summary: >-
   frame-relative. Each step is adapted from a cited result. It gives no
   definition of a frame, no proof and no principle for choosing one.
 ---
-<!-- inactive-ok-file: THEORY-249 CLAIM-170 CLAIM-174 THEORY-071 THEORY-232 THEORY-208 — Proposed; the theory filed from this reading and the claims and accounts it bears on, open -->
+<!-- inactive-ok-file: THEORY-249 CLAIM-174 THEORY-071 THEORY-232 THEORY-208 — Proposed; the theory filed from this reading and the claims and accounts it bears on, open -->
 <!-- inactive-ok-file: LIT-430 — Unavailable; Dennett's book, which the paper cites for the puzzle, named and not leaned on -->
 
 # NOTE-793: Abel et al. — Agency Is Frame-Dependent

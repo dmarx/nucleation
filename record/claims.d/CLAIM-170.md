@@ -73,7 +73,7 @@ complements:
 - CLAIM-155
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
-<!-- inactive-ok-file: CLAIM-166 CLAIM-168 CLAIM-174 — Proposed; the owner's drive claim, the open objection and the admission test, open -->
+<!-- inactive-ok-file: CLAIM-168 CLAIM-174 — Proposed; the owner's drive claim, the open objection and the admission test, open -->
 <!-- inactive-ok-file: TERM-063 THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-170: The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization

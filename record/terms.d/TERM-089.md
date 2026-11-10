@@ -5,6 +5,7 @@ formerly:
 - TERM-tmpjdel0
 complements:
 - TERM-087
+- TERM-093
 title: 'apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart'
 version: 4
 history:

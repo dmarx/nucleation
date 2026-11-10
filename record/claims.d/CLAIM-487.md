@@ -26,6 +26,7 @@ bears_on:
 complements:
 - CLAIM-021
 - CLAIM-159
+- CLAIM-610
 summary: >-
   The explanatory-gain claim the paper stakes itself on, filed separately
   by the status review of 2026-10-28. It was carried by [CLAIM-027](CLAIM-027.md)'s

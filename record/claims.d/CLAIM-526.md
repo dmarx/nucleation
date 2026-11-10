@@ -56,6 +56,7 @@ grounds:
 complements:
 - CLAIM-474
 - CLAIM-405
+- CLAIM-529
 summary: >-
   Filed on reading Bencherki & Iliadis 2021 and Bencherki, Brummans &
   Vézy 2024, who hold that the "scaling up" problem "vanishes the moment

@@ -89,6 +89,8 @@ complements:
 - CLAIM-212
 - CLAIM-259
 - CLAIM-488
+- CLAIM-496
+- CLAIM-525
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
 <!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-488 -->

@@ -28,6 +28,7 @@ grounds:
 - THEORY-352
 complements:
 - CLAIM-264
+- CLAIM-574
 summary: >-
   A15's witness for "Complexity changes what we mean by an observable", which the
   owner asked to have developed at U15, corrected by the reading of Goldreich (NOTE

@@ -40,6 +40,8 @@ grounds:
 complements:
 - CLAIM-050
 - CLAIM-106
+- CLAIM-496
+- CLAIM-525
 uses:
 - TERM-028
 - TERM-043

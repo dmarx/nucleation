@@ -201,7 +201,7 @@ Neither reading separates continuation from independent reconstitution.
 The question is unchanged and stays Open.
 
 ## Note of 2026-11-01: Griesemer and Shavit on community reproduction, re-read
-<!-- inactive-ok-block: LIT-188 LIT-1932 THEORY-418 — Deferred, unread; Proposed; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 THEORY-418 — Deferred, unread; Proposed; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 [LIT-188](../literature.d/LIT-188.md) ([NOTE-173](../notes.d/NOTE-173.md), re-read in full on 2026-11-01) bears on this question
 from the side of reproduction, not persistence, and [THEORY-418](../theory.d/THEORY-418.md) already

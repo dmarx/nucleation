@@ -25,6 +25,8 @@ grounds:
 - THEORY-032
 complements:
 - CLAIM-137
+- CLAIM-477
+- CLAIM-615
 uses:
 - TERM-040
 summary: >-

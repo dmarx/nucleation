@@ -77,6 +77,10 @@ summary: >-
   Mirth et al. show the threshold is the zero-dimensional merge level of
   the sublevel sets; Berry, Lee-Trimble and Santangelo give a case where
   it is infinite. The wording is A's; adopting it is the owner's call.
+complements:
+- CLAIM-563
+- CLAIM-575
+- CLAIM-591
 ---
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-204 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->

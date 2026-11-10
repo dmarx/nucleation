@@ -45,6 +45,7 @@ rests_on:
 - CLAIM-581
 complements:
 - CLAIM-557
+- CLAIM-594
 grounds:
 - CASE-199
 bears_on:

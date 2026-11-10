@@ -43,6 +43,14 @@ rests_on:
 complements:
 - CLAIM-357
 - CLAIM-347
+- CLAIM-560
+- CLAIM-562
+- CLAIM-568
+- CLAIM-578
+- CLAIM-582
+- CLAIM-583
+- CLAIM-589
+- CLAIM-618
 bears_on:
 - QUESTION-380
 summary: >-

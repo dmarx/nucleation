@@ -50,6 +50,8 @@ summary: >-
   Section 6.2, from the emergency variant of Northstar.
 complements:
 - CLAIM-445
+- CLAIM-540
+- CLAIM-566
 ---
 <!-- inactive-ok-file: LIT-2251 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->

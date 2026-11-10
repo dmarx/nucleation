@@ -30,6 +30,7 @@ undercuts:
 - ARG-042
 complements:
 - CLAIM-462
+- CLAIM-561
 summary: >-
   From A24 of the exchange "Analyze nucleation concepts" (2026-10-31),
   answering the owner's U24 question whether corrigibility's desirability
