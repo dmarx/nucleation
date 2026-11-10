@@ -66,14 +66,14 @@ integrates:
   benefit, and [QUESTION-107](../questions.d/QUESTION-107.md) (A's, Open) refines it from one retrieval to a
   sequence. [QUESTION-172](../questions.d/QUESTION-172.md) (Open) is here because [CLAIM-184](../claims.d/CLAIM-184.md) grounds on
   [THEORY-178](../theory.d/THEORY-178.md).
-- CLAIM-315 (the record's split of CLAIM-298 under ADR-043; thesis,
+- [CLAIM-315](../claims.d/CLAIM-315.md) (the record's split of [CLAIM-298](../claims.d/CLAIM-298.md) under [ADR-043](../decisions.d/ADR-043.md); thesis,
   empirical, Proposed; first line pragmatic-transport) bears on
-  QUESTION-109. In comparative anchoring tasks an anchor shifts a later
+  [QUESTION-109](../questions.d/QUESTION-109.md). In comparative anchoring tasks an anchor shifts a later
   estimate without adding evidence about the target, and the shift is
   "carried by anchor-consistent knowledge made more accessible"; "the
   shift is established, the accessibility step is inferred and has not
-  been measured". QUESTION-323 (Open; first line pragmatic-transport), a
-  promotion condition moved from THEORY-335, refines QUESTION-109 and asks
+  been measured". [QUESTION-323](../questions.d/QUESTION-323.md) (Open; first line pragmatic-transport), a
+  promotion condition moved from [THEORY-335](../theory.d/THEORY-335.md), refines [QUESTION-109](../questions.d/QUESTION-109.md) and asks
   for that measurement: whether anchor-consistent knowledge is more
   accessible "on a measure first shown sensitive to direct priming", and
   whether the difference goes with the size of the shift.
@@ -94,14 +94,14 @@ integrates:
   is stored, so per-item decisions are not independent.
 - [QUESTION-098](../questions.d/QUESTION-098.md) (the owner's U11 and A11, Open) asks when filing is worth
   it. [QUESTION-237](../questions.d/QUESTION-237.md) (Open) is a promotion condition moved from [THEORY-376](../theory.d/THEORY-376.md).
-- QUESTION-095 (the owner's, 2026-10-15, Open; first line
-  distributed-agency) refines QUESTION-098. It asks whether leaving a
+- [QUESTION-095](../questions.d/QUESTION-095.md) (the owner's, 2026-10-15, Open; first line
+  distributed-agency) refines [QUESTION-098](../questions.d/QUESTION-098.md). It asks whether leaving a
   result where it can be cheaply retrieved is "the same trade as
-  amortizing the computation", with CLAIM-303's filing as one of three
+  amortizing the computation", with [CLAIM-303](../claims.d/CLAIM-303.md)'s filing as one of three
   instances, beside a crew's speed bugs and availability computed before
   a request. Its notes register literatures that price parts of the
   trade, among them an erosion of the internal route under offloading, "a
-  cost CLAIM-303's fixed reconstruction cost leaves out".
+  cost [CLAIM-303](../claims.d/CLAIM-303.md)'s fixed reconstruction cost leaves out".
 
 ## Links tested as claims
 
@@ -123,12 +123,12 @@ tested.
 - Whether the second-occurrence throttle bounds [CLAIM-314](../claims.d/CLAIM-314.md)'s store-level
   cost.
 - Which claim [QUESTION-237](../questions.d/QUESTION-237.md) bears on.
-- Whether CLAIM-315's accessibility step, if QUESTION-323 finds it, is the
-  route by which an early anchor entrenches (CLAIM-184) or by which
-  retrieval turns a framing into a premise (CLAIM-301). No component
+- Whether [CLAIM-315](../claims.d/CLAIM-315.md)'s accessibility step, if [QUESTION-323](../questions.d/QUESTION-323.md) finds it, is the
+  route by which an early anchor entrenches ([CLAIM-184](../claims.d/CLAIM-184.md)) or by which
+  retrieval turns a framing into a premise ([CLAIM-301](../claims.d/CLAIM-301.md)). No component
   names the other.
-- Whether the erosion QUESTION-095's notes record belongs in CLAIM-303's
-  break-even or CLAIM-308's bound.
+- Whether the erosion [QUESTION-095](../questions.d/QUESTION-095.md)'s notes record belongs in [CLAIM-303](../claims.d/CLAIM-303.md)'s
+  break-even or [CLAIM-308](../claims.d/CLAIM-308.md)'s bound.
 
 ## What it does not say
 
