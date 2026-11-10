@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    Carries distributed-agency as well, at ADR-085: the entry takes
     part in that line's argument, since it bears on QUESTION-041, a
     question of that line. Found by the lint sweep of 2026-11-10 as a
     `rests_on` step across lines. No other change.

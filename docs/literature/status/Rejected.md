@@ -6,7 +6,7 @@
 
 **Attic** — retired with a reason — too narrow, too theoretical, or simply not interesting enough to carry.
 
-15 of 2270 LIT documents. Back to the [full index](../README.md).
+15 of 2330 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

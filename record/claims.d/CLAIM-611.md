@@ -36,7 +36,7 @@ history:
 - version: 5
   date: '2026-11-10'
   note: >-
-    Carries formal-apparatus as well, at ADR-tmpk61vy: the entry takes
+    Carries formal-apparatus as well, at ADR-085: the entry takes
     part in that line's argument, since it bears on QUESTION-379 and
     QUESTION-437, a question of that line. Found by the lint sweep of
     2026-11-10 as a `rests_on` step across lines. No other change.

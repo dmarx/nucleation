@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [10 Nov 18:24 — Filing the works cited in the shared ChatGPT conversation](2026-11.md#filing-the-works-cited-in-the-shared-chatgpt-conversation)
 - [7 Nov 17:07 — Synthesis review of 2026-11-07, third round: twelve candidates audited and none admitted; the nucleating-argument line's integrations are held as claims, a gap for moving claims with objections is recorded, and corrections to the earlier rounds](2026-11.md#synthesis-review-of-2026-11-07-third-round-twelve-candidates-audited-and-none-admitted-the-nucleating-argument-lines-integrations-are-held-as-claims-a-gap-for-moving-claims-with-objections-is-recorded-and-corrections-to-the-earlier-rounds)
 - [7 Nov 08:22 — Synthesis review of 2026-11-07, second round: twelve candidates audited; CLAIM-600 moved as the second Current synthesis, CLAIM-336 moved as Proposed, and a readiness criterion for QUESTION-395 filed; nine not admitted](2026-11.md#synthesis-review-of-2026-11-07-second-round-twelve-candidates-audited-claim-600-moved-as-the-second-current-synthesis-claim-336-moved-as-proposed-and-a-readiness-criterion-for-question-395-filed-nine-not-admitted)
 - [7 Nov 07:03 — Synthesis review of 2026-11-07: twelve candidates audited, two admitted and filed (CLAIM-545 moved into the scheme, and a met-or-quiet criterion answering part of QUESTION-131), one admitted with its move left to the owner, nine not admitted](2026-11.md#synthesis-review-of-2026-11-07-twelve-candidates-audited-two-admitted-and-filed-claim-545-moved-into-the-scheme-and-a-met-or-quiet-criterion-answering-part-of-question-131-one-admitted-with-its-move-left-to-the-owner-nine-not-admitted)
@@ -38,10 +39,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-226 entries across 3 books, newest first.
+227 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 29 | 2026-11-01 | 2026-11-07 |
+| [2026-11](2026-11.md) | 30 | 2026-11-01 | 2026-11-10 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
