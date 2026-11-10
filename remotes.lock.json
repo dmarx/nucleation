@@ -11,6 +11,12 @@
     "ARXIV/0805.3850": {
       "title": "Quantum Structure in Cognition"
     },
+    "ARXIV/0809.3275": {
+      "title": "Local information transfer as a spatiotemporal filter for complex systems"
+    },
+    "ARXIV/0811.1067": {
+      "title": "Statistical ranking and combinatorial Hodge theory"
+    },
     "ARXIV/1011.6123": {
       "title": "H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics"
     },
@@ -26,6 +32,9 @@
     "ARXIV/1205.1470": {
       "title": "Random Hyperbolic Graphs: Degree Sequence and Clustering"
     },
+    "ARXIV/1205.2650": {
+      "title": "Correlated Non-Parametric Latent Feature Models"
+    },
     "ARXIV/1206.5246": {
       "title": "Causal Reasoning in Graphical Time Series Models"
     },
@@ -38,14 +47,26 @@
     "ARXIV/1405.5563": {
       "title": "Constructor Theory of Information"
     },
+    "ARXIV/1411.5908": {
+      "title": "Understanding image representations by measuring their equivariance and equivalence"
+    },
     "ARXIV/1502.05944": {
       "title": "Thermodynamic uncertainty relation for biomolecular processes"
     },
     "ARXIV/1503.01140": {
       "title": "Events and the Ontology of Quantum Mechanics"
     },
+    "ARXIV/1503.05671": {
+      "title": "Optimizing Neural Networks with Kronecker-factored Approximate Curvature"
+    },
+    "ARXIV/1503.05756": {
+      "title": "Lattice Mechanics of Origami Tessellations"
+    },
     "ARXIV/1504.07422": {
       "title": "Is there contextuality in behavioral and social systems?"
+    },
+    "ARXIV/1507.01644": {
+      "title": "Rigid Origami Vertices: Conditions and Forcing Sets"
     },
     "ARXIV/1512.08464": {
       "title": "A contraction based, singular perturbation approach to near-decomposability in complex systems"
@@ -71,6 +92,18 @@
     "ARXIV/1611.09825": {
       "title": "Cycle flows and multistabilty in oscillatory networks: an overview"
     },
+    "ARXIV/1701.00656": {
+      "title": "On the Cohomology of Contextuality"
+    },
+    "ARXIV/1703.01252": {
+      "title": "Contextuality in Canonical Systems of Random Variables"
+    },
+    "ARXIV/1704.04289": {
+      "title": "Stochastic Gradient Descent as Approximate Bayesian Inference"
+    },
+    "ARXIV/1704.06279": {
+      "title": "Mutual Information, Neural Networks and the Renormalization Group"
+    },
     "ARXIV/1705.05502": {
       "title": "The power of deeper networks for expressing natural functions"
     },
@@ -83,8 +116,14 @@
     "ARXIV/1801.09088": {
       "title": "Decay of Benjamin - Ono solitons under the influence of dissipation"
     },
+    "ARXIV/1803.03035": {
+      "title": "Input-to-State Safety With Control Barrier Functions"
+    },
     "ARXIV/1805.09112": {
       "title": "Hyperbolic Neural Networks"
+    },
+    "ARXIV/1805.09114": {
+      "title": "Optimal Transport for structured data with application on graphs"
     },
     "ARXIV/1805.12387": {
       "title": "Agents and Devices: A Relative Definition of Agency"
@@ -92,8 +131,14 @@
     "ARXIV/1806.08734": {
       "title": "On the Spectral Bias of Neural Networks"
     },
+    "ARXIV/1809.04221": {
+      "title": "Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions"
+    },
     "ARXIV/1905.06922": {
       "title": "On Variational Bounds of Mutual Information"
+    },
+    "ARXIV/1908.07725": {
+      "title": "Data-driven model reduction, Wiener projections, and the Koopman-Mori-Zwanzig formalism"
     },
     "ARXIV/1910.07090": {
       "title": "Deterministic and stochastic control of kirigami topology"
@@ -101,8 +146,17 @@
     "ARXIV/1911.02536": {
       "title": "Unsupervised Hierarchy Matching with Optimal Transport over Hyperbolic Spaces"
     },
+    "ARXIV/2004.09468": {
+      "title": "Real World Games Look Like Spinning Tops"
+    },
+    "ARXIV/2005.00060": {
+      "title": "Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness"
+    },
     "ARXIV/2005.12798": {
       "title": "Opinion Dynamics on Discourse Sheaves"
+    },
+    "ARXIV/2006.05013": {
+      "title": "A Random Matrix Analysis of Random Fourier Features: Beyond the Gaussian Kernel, a Precise Phase Transition, and the Corresponding Double Descent"
     },
     "ARXIV/2009.14397": {
       "title": "Deep Equals Shallow for ReLU Networks in Kernel Regimes"
@@ -110,17 +164,38 @@
     "ARXIV/2102.11310": {
       "title": "Energetic rigidity I: A unifying theory of mechanical stability"
     },
+    "ARXIV/2106.06511": {
+      "title": "Dynamical independence: discovering emergent macroscopic processes in complex dynamical systems"
+    },
     "ARXIV/2106.08320": {
       "title": "Self-Supervised Learning with Kernel Dependence Maximization"
     },
+    "ARXIV/2107.14589": {
+      "title": "On the Quantum-like Contextuality of Ambiguous Phrases"
+    },
+    "ARXIV/2110.03789": {
+      "title": "Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding"
+    },
+    "ARXIV/2110.11914": {
+      "title": "Effect of delay on the emergent stability patterns in Generalized Lotka-Volterra ecological dynamics"
+    },
     "ARXIV/2111.02080": {
       "title": "An Explanation of In-context Learning as Implicit Bayesian Inference"
+    },
+    "ARXIV/2111.14046": {
+      "title": "Neural Tangent Kernel of Matrix Product States: Convergence and Applications"
+    },
+    "ARXIV/2202.04579": {
+      "title": "Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs"
     },
     "ARXIV/2202.05262": {
       "title": "Locating and Editing Factual Associations in GPT"
     },
     "ARXIV/2203.14289": {
       "title": "An Introduction to Multiparameter Persistence"
+    },
+    "ARXIV/2204.03773": {
+      "title": "Permanence via invasion graphs: Incorporating community assembly into Modern Coexistence Theory"
     },
     "ARXIV/2205.11595": {
       "title": "From the origin of life to pandemics: Emergent phenomena in complex systems"
@@ -140,11 +215,17 @@
     "ARXIV/2303.15438": {
       "title": "On the Stepwise Nature of Self-Supervised Learning"
     },
+    "ARXIV/2305.03053": {
+      "title": "ZipIt! Merging Models from Different Tasks without Training"
+    },
     "ARXIV/2305.16367": {
       "title": "Role-Play with Large Language Models"
     },
     "ARXIV/2305.18962": {
       "title": "Hyperbolic Diffusion Embedding and Distance for Hierarchical Representation Learning"
+    },
+    "ARXIV/2306.01708": {
+      "title": "TIES-Merging: Resolving Interference When Merging Models"
     },
     "ARXIV/2307.04786": {
       "title": "Combining contextuality and causality: a game semantics approach"
@@ -170,6 +251,9 @@
     "ARXIV/2401.00448": {
       "title": "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws"
     },
+    "ARXIV/2401.12631": {
+      "title": "A Reply to Makelov et al. (2023)'s \"Interpretability Illusion\" Arguments"
+    },
     "ARXIV/2402.16991": {
       "title": "A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data"
     },
@@ -179,8 +263,20 @@
     "ARXIV/2404.06391": {
       "title": "Exploring Neural Network Landscapes: Star-Shaped and Geodesic Connectivity"
     },
+    "ARXIV/2404.10727": {
+      "title": "How Deep Networks Learn Sparse and Hierarchical Data: the Sparse Random Hierarchy Model"
+    },
+    "ARXIV/2408.11441": {
+      "title": "Epistemic Injustice in Generative AI"
+    },
     "ARXIV/2410.00535": {
       "title": "The Causal Information Bottleneck and Optimal Causal Variable Abstractions"
+    },
+    "ARXIV/2410.02984": {
+      "title": "Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient"
+    },
+    "ARXIV/2410.13770": {
+      "title": "Probing the Latent Hierarchical Structure of Data via Diffusion Models"
     },
     "ARXIV/2410.23501": {
       "title": "All or None: Identifiable Linear Properties of Next-token Predictors in Language Modeling"
@@ -194,11 +290,20 @@
     "ARXIV/2502.08009": {
       "title": "The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models"
     },
+    "ARXIV/2502.11812": {
+      "title": "Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis"
+    },
+    "ARXIV/2502.12608": {
+      "title": "Unveiling Mode Connectivity in Graph Neural Networks"
+    },
     "ARXIV/2503.15612": {
       "title": "Unification of observational entropy with maximum entropy principles"
     },
     "ARXIV/2503.16348": {
       "title": "Palatable Conceptions of Disembodied Being"
+    },
+    "ARXIV/2503.20098": {
+      "title": "Fundamental Limits of Perfect Concept Erasure"
     },
     "ARXIV/2504.06485": {
       "title": "Cooperative Dilemmas in Rational Debate"
@@ -214,6 +319,18 @@
     },
     "ARXIV/2506.20699v1": {
       "title": "Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment"
+    },
+    "ARXIV/2508.08288": {
+      "title": "On Experiments"
+    },
+    "ARXIV/2509.24914": {
+      "title": "Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws"
+    },
+    "ARXIV/2510.20520": {
+      "title": "Asymptotic versus mesoscopic spectral dimensions in networks and inhomogeneous structures"
+    },
+    "ARXIV/2511.02721": {
+      "title": "PETra: A Multilingual Corpus of Pragmatic Explicitation in Translation"
     },
     "ARXIV/2601.22431": {
       "title": "Selective Adaptation of Beliefs and Communication on Cellular Sheaves"
@@ -238,6 +355,9 @@
     },
     "ARXIV/2608.30366": {
       "title": "Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models"
+    },
+    "ARXIV/2609.09056": {
+      "title": "Time-Varying Data as Sheaves: an Invitation to Narratives"
     },
     "ARXIV/2609.11063": {
       "title": "The information geometry of large language models is shared, learned, and controllable"
