@@ -50,8 +50,8 @@ summary: >-
   evidence and that it is hard to falsify with standard fMRI. It does not
   say why such a model is experienced as a self.
 ---
-<!-- inactive-ok-file: THEORY-765 THEORY-767 THEORY-768 — Proposed; filed from the same batch, named -->
-<!-- inactive-ok-file: THEORY-064 THEORY-322 — Proposed; accounts this one is compared with, not leaned on -->
+<!-- inactive-ok-file: THEORY-765 THEORY-767 — Proposed; filed from the same batch, named -->
+<!-- inactive-ok-file: THEORY-064 — Proposed; accounts this one is compared with, not leaned on -->
 
 # THEORY-769: Ownership of a body part is a graded belief that it is the most probable common cause of correlated multisensory input, so that synchronous stimulation of another object moves some of that belief to the object and away from the real part
 

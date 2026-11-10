@@ -30,7 +30,7 @@ summary: >-
   the receiver's welfare and does not cite Blackwell.
 ---
 <!-- inactive-ok-file: THEORY-414 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
-<!-- inactive-ok-file: THEORY-235 THEORY-040 — Proposed; accounts of manipulation and present structure named as neighbours, not leaned on -->
+<!-- inactive-ok-file: THEORY-235 — Proposed; accounts of manipulation and present structure named as neighbours, not leaned on -->
 
 # THEORY-404: With a common prior, a sender who commits to a signal the receiver observes can induce any distribution of posteriors whose mean is the prior, so an openly designed experiment moves a fully informed Bayesian receiver whenever the concave closure of the sender's value lies above its value at the prior; at the optimum, under the paper's tie-breaking, the receiver is certain when she takes the sender's worst action and indifferent when she takes another
 

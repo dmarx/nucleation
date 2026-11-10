@@ -40,7 +40,7 @@ summary: >-
   the near-linear complexity are argued or observed, not proved for the
   compressed algorithm.
 ---
-<!-- inactive-ok-file: CLAIM-157 THEORY-186 THEORY-257 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
 
 # NOTE-984: Coifman and Maggioni — Diffusion wavelets
 

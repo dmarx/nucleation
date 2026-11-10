@@ -39,7 +39,7 @@ grounds:
 - LIT-613
 - LIT-622
 ---
-<!-- inactive-ok-file: THEORY-085 THEORY-078 THEORY-005 — Proposed; the account this was filed from, which keeps the mechanism, the account it extends, and the precedent named in the history; none is leaned on -->
+<!-- inactive-ok-file: THEORY-085 THEORY-005 — Proposed; the account this was filed from, which keeps the mechanism, the account it extends, and the precedent named in the history; none is leaned on -->
 
 # CLAIM-391: For any classes with weights π_c and per-class factor matrices H_c and Δ_c, the class-wise Kronecker product Σ_c π_c H_c ⊗ Δ_c exceeds the product of the weighted averages H̄ ⊗ Δ̄ by exactly the weighted between-class covariance Σ_c π_c (H_c − H̄) ⊗ (Δ_c − Δ̄), so the two agree when either factor is the same in every class
 

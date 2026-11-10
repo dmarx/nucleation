@@ -53,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-827 — Proposed; the perceptual reading this entry leaves open, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-765 — Rejected; the account this one corrects, named -->
-<!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 THEORY-458 THEORY-064 — Proposed; accounts this finding bears on, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 THEORY-458 — Proposed; accounts this finding bears on, named and not leaned on -->
 
 # THEORY-766: Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them; the standard comparison conditions do not equalise participants' expectations, so whether the stimulation or the expectation produces the report difference is open
 

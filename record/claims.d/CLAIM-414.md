@@ -185,7 +185,7 @@ independence theorem. The claim is unchanged.
 
 ## Note of 2026-11-01: the separating intervention in the mechanism literature
 
-<!-- inactive-ok-file: THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
+<!-- inactive-ok-file: THEORY-1292 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
 <!-- inactive-ok-file: CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
 - **The intervention is the mechanists' "lesion".** The claim's second

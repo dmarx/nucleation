@@ -17,7 +17,7 @@ summary: >-
   target frame matches the source's in its own frame, I_g(u_g) ≈
   I_f(u_f). Replaced at A24 by distribution matching over contexts.
 ---
-<!-- inactive-ok-file: TERM-001 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-013: fidelity, as matching pragmatic signatures
 

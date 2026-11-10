@@ -35,7 +35,7 @@ summary: >-
   cutoff, as DNS does.
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1251 LIT-1252 — Deferred; works registered unread, cited as open -->
+<!-- inactive-ok-file: LIT-1251 — Deferred; works registered unread, cited as open -->
 # NOTE-973: Parish and Duraisamy — Non-Markovian closure for LES via Mori–Zwanzig
 
 ## Contribution

@@ -109,7 +109,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-610 CLAIM-611 CLAIM-615 — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-446 TERM-086 — Deferred, Proposed; cited with their standing -->
-<!-- inactive-ok-file: CLAIM-614 CLAIM-619 CASE-228 CLAIM-620 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->
+<!-- inactive-ok-file: CLAIM-614 CLAIM-619 CLAIM-620 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->
 <!-- inactive-ok-file: CASE-229 ARG-055 — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit this filing follows -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 CLAIM-545 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed, Deferred or Superseded; components and boundaries, cited with their standing -->

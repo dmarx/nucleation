@@ -28,7 +28,7 @@ summary: >-
   answer changes over time. It sharpens [QUESTION-009](QUESTION-009.md) by asking about
   drive before asking about agency.
 ---
-<!-- inactive-ok-file: CLAIM-158 CLAIM-166 CLAIM-167 — Proposed; the owner's claims and the reply this question follows from, open -->
+<!-- inactive-ok-file: CLAIM-158 CLAIM-167 — Proposed; the owner's claims and the reply this question follows from, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question this sharpens -->
 
 # QUESTION-033: In a system described at more than one level, does "who drives?" have an answer at a given level, and what kinds of answer are there?
