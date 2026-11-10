@@ -77,6 +77,9 @@
     "ARXIV/1111.4246": {
       "title": "The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo"
     },
+    "ARXIV/1203.2035": {
+      "title": "A Noether Theorem for Markov Processes"
+    },
     "ARXIV/1203.3271": {
       "title": "The thermodynamics of prediction"
     },
@@ -94,6 +97,9 @@
     },
     "ARXIV/1206.5246": {
       "title": "Causal Reasoning in Graphical Time Series Models"
+    },
+    "ARXIV/1207.2080": {
+      "title": "A Bivariate Measure of Redundant Information"
     },
     "ARXIV/1210.6738": {
       "title": "Nested Hierarchical Dirichlet Processes"
@@ -125,6 +131,9 @@
     "ARXIV/1402.3319": {
       "title": "Flow-based reputation with uncertainty: Evidence-Based Subjective Logic"
     },
+    "ARXIV/1402.4437": {
+      "title": "Learning the Irreducible Representations of Commutative Lie Groups"
+    },
     "ARXIV/1403.3351": {
       "title": "Semantic Unification A sheaf theoretic approach to natural language"
     },
@@ -151,6 +160,9 @@
     },
     "ARXIV/1412.2447": {
       "title": "The Information Theory of Individuality"
+    },
+    "ARXIV/1502.03097": {
+      "title": "Contextuality, Cohomology and Paradox"
     },
     "ARXIV/1502.05944": {
       "title": "Thermodynamic uncertainty relation for biomolecular processes"
@@ -193,6 +205,9 @@
     },
     "ARXIV/1511.05219": {
       "title": "How much does your data exploration overfit? Controlling bias via information usage"
+    },
+    "ARXIV/1512.07942": {
+      "title": "Multi-Level Cause-Effect Systems"
     },
     "ARXIV/1512.08224": {
       "title": "Beyond in-phase and anti-phase coordination in a model of joint action"
@@ -563,6 +578,9 @@
     "ARXIV/2007.01367": {
       "title": "Lecture Notes on Control System Theory and Design"
     },
+    "ARXIV/2008.08186": {
+      "title": "Prevalence of Neural Collapse during the terminal phase of deep learning training"
+    },
     "ARXIV/2008.10150": {
       "title": "Contrastive learning, multi-view redundancy, and linear models"
     },
@@ -605,6 +623,9 @@
     "ARXIV/2101.06436": {
       "title": "Could wavefunctions simultaneously represent knowledge and reality?"
     },
+    "ARXIV/2101.11633": {
+      "title": "Statistical physics through the lens of real-space mutual information"
+    },
     "ARXIV/2102.11310": {
       "title": "Energetic rigidity I: A unifying theory of mechanical stability"
     },
@@ -640,6 +661,9 @@
     },
     "ARXIV/2106.06511": {
       "title": "Dynamical independence: discovering emergent macroscopic processes in complex dynamical systems"
+    },
+    "ARXIV/2106.08243": {
+      "title": "The delicate memory structure of origami switches"
     },
     "ARXIV/2106.08320": {
       "title": "Self-Supervised Learning with Kernel Dependence Maximization"
@@ -911,6 +935,9 @@
     "ARXIV/2402.00206": {
       "title": "Towards a Unified Theory of Time-Varying Data"
     },
+    "ARXIV/2402.03254": {
+      "title": "Minimum Description Length and Generalization Guarantees for Representation Learning"
+    },
     "ARXIV/2402.04362": {
       "title": "Neural Networks Learn Statistics of Increasing Complexity"
     },
@@ -1144,6 +1171,9 @@
     },
     "ARXIV/2506.02970": {
       "title": "Integrals of motion as slow modes in dissipative many-body operator dynamics"
+    },
+    "ARXIV/2506.03784": {
+      "title": "When Does Closeness in Distribution Imply Representational Similarity? An Identifiability Perspective"
     },
     "ARXIV/2506.04434": {
       "title": "Grokking and Generalization Collapse: Insights from \\texttt{HTSR} theory"
