@@ -54,7 +54,7 @@ summary: >-
 complements:
 - CLAIM-502
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->
 
 # CLAIM-375: Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together

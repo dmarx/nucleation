@@ -1788,6 +1788,10 @@ code:
   - .claude/skills/**/*.md
   historical:
   - CHANGELOG.md
+# `luria repair` in CI also drops acknowledgement codes and directives that
+# answer for nothing, so stale ones do not pile up as warnings.
+repair:
+  prune_stale: true
 lint:
   fail_on:
   - workflow-temp-codes
@@ -1806,10 +1810,11 @@ lint:
   - read_but_unreached
   - read_but_unfetched
   - read_but_unreviewed
-  # A count that may fall and may not rise (ADR-057, mechanism 5). `load-bearing`
-  # is left a warning: filing a claim on a Proposed premise is ordinary work.
-  baseline:
-    unbounded-acknowledgements: 41
+  # ADR-057's mechanism 5 held this count under a falling baseline; it reached
+  # zero, so it fails outright now: an acknowledgement of a retired premise
+  # carries `until <date>`. `load-bearing` is left a warning: filing a claim
+  # on a Proposed premise is ordinary work.
+  - unbounded-acknowledgements
   mute:
   - inert-status
   - acknowledged-uniformity
