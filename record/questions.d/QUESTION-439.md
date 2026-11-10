@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdalhx
 title: 'When rival communities use one expression with different application rules, inferences, practical responses and conditions of revision, is there one concept with context-dependent extension, several historically related concepts sharing an expression, or an organization of the rivalry among the uses; what observations tell these apart; and in which sense of individuation, if any, is the concept or the symbol individuated?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -15,6 +15,13 @@ history:
     from its corrigibility. Added under "What bears on it" and "What would
     count as an answer", with A55 §6's two discriminators. The question is
     otherwise unchanged and stays Open.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries learned-structure as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: learned-structure,
+    since it refines QUESTION-360. No other change.
 tags:
 - philosophy-of-language
 - individuation
@@ -22,6 +29,7 @@ date: '2026-11-07'
 line:
 - pragmatic-transport
 - distributed-agency
+- learned-structure
 refines:
 - QUESTION-360
 summary: >-

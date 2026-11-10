@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpqa0qu
 title: "A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -17,6 +17,13 @@ history:
     The syntheses this pointed at returned to CLAIM at the decision that
     a SYNTHESIS is an account (ADR-084), so `corroborates` names
     CLAIM-600 for SYNTHESIS-010. No other change.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: distributed-agency,
+    since it bears on QUESTION-277. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +44,7 @@ date: '2026-11-05'
 line:
 - realizability
 - readiness
+- distributed-agency
 rests_on:
 - CLAIM-602
 complements:

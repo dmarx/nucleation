@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpye2m2
 title: 'Isomorphism is not persistence, in either direction: two separately made mechanisms with the same costed transformation structure are isomorphic and still two, and one mechanism whose hinge is replaced can persist while its costed structure becomes non-isomorphic to the earlier one, so which morphisms count as continuations is structure added by assumptions about the domain, not read off the category'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,15 @@ history:
     the stipulation its second direction rests on, that the mechanism
     with its hinge replaced is the same mechanism, which before was
     said only in the summary and the body's later example.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency and pragmatic-transport as well, at
+    the sweep of ADR-085's rule (2026-11-10): the entry takes part
+    in those lines' argument, through the first line of an entry it
+    names: distributed-agency, since it bears on QUESTION-284;
+    pragmatic-transport, since it bears on QUESTION-029. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,6 +45,8 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- distributed-agency
+- pragmatic-transport
 grounds:
 - THEORY-032
 - CASE-199

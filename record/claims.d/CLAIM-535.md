@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpg1n2c
 title: 'An organization that acts on what it observes has a policy acceptable in every circumstance exactly when, for each observation, the circumstances it cannot tell apart share an acceptable action; so every circumstance having an acceptable action does not give a policy, a finer observation never removes one, and where acceptable actions overlap the coarsest observations that suffice are several and incomparable, so which distinctions must be made legible depends on which acceptable action the organization commits to'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: distributed-agency,
+    since it bears on QUESTION-285, bears on QUESTION-133. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -19,6 +28,7 @@ date: '2026-11-03'
 line:
 - will-organization
 - formal-apparatus
+- distributed-agency
 rests_on:
 - CLAIM-350
 grounds:

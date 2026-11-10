@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6xhn3
 title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-07'
@@ -40,6 +40,16 @@ history:
     part in that line's argument, since it bears on QUESTION-379 and
     QUESTION-437, a question of that line. Found by the lint sweep of
     2026-11-10 as a `rests_on` step across lines. No other change.
+- version: 6
+  date: '2026-11-10'
+  note: >-
+    No longer carries formal-apparatus, at ADR-085 version 2
+    (2026-11-10), which counts only the first line of an entry this
+    one answers, objects to, bears on or refines: the line came from
+    QUESTION-379 and QUESTION-437, whose first line is realizability
+    and which carry formal-apparatus second. Its resting on
+    formal-apparatus claims stays a crossing the argument chain
+    reports. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,7 +75,6 @@ date: '2026-11-07'
 line:
 - distributed-agency
 - realizability
-- formal-apparatus
 rests_on:
 - CLAIM-576
 - CLAIM-025

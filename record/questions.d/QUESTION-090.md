@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplstea
 title: 'Under what conditions does a population of heterogeneous processes develop a self-maintaining, internally differentiated governance structure that acts coherently without suppressing the plurality of processes it emerges from?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,11 +12,20 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: will-organization,
+    since it refines QUESTION-034. No other change.
 tags:
 - self-governance
 - behavioral-integration
 date: '2026-10-13'
-line: distributed-agency
+line:
+- distributed-agency
+- will-organization
 refines:
 - QUESTION-034
 summary: >-

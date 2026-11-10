@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnza8k
 title: 'An expression''s reproduction can come apart from agreement on the concept it carries: communities that use it against one another, and contest whom it describes, can keep it in circulation, so symbolic stability can persist while conceptual stability fails, and a durable dispute over a term shows a durable relation among its uses, not one concept'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -13,6 +13,17 @@ history:
     part in that line's argument, since it bears on QUESTION-439, a
     question of that line. Found by the lint sweep of 2026-11-10 as a
     `rests_on` step across lines. No other change.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries learned-structure in place of distributed-agency, at
+    ADR-085 version 2 (2026-11-10), which counts only the first line
+    of an entry this one answers, objects to, bears on or refines:
+    learned-structure, since it bears on QUESTION-360;
+    distributed-agency had come from QUESTION-439, whose first line
+    is pragmatic-transport and which carries distributed-agency
+    second. Its resting on distributed-agency claims stays a
+    crossing the argument chain reports. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,7 +42,7 @@ tags:
 date: '2026-11-07'
 line:
 - pragmatic-transport
-- distributed-agency
+- learned-structure
 rests_on:
 - CLAIM-280
 complements:

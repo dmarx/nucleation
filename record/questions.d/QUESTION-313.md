@@ -4,13 +4,23 @@ status: Open
 formerly:
 - QUESTION-tmpumzkc
 title: 'When a habit is modelled as a prior over policies that grows by counting, do the counts fitted to an animal''s or a person''s own choice history predict when behaviour becomes insensitive to devaluation, and when it still switches at once?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: distributed-agency,
+    since it refines QUESTION-088. No other change.
 tags:
 - learning-and-conditioning
 - probabilistic-modeling
 - neuroscience
 date: '2026-10-29'
-line: will-organization
+line:
+- will-organization
+- distributed-agency
 refines:
 - QUESTION-088
 summary: >-

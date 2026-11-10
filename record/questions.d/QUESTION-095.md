@@ -7,13 +7,24 @@ title: Is leaving the result of a computation where it can be cheaply retrieved
   the same trade as amortizing the computation, and does one account of when it
   pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused
   inferences?
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names:
+    nucleating-argument, since it refines QUESTION-098. No other
+    change.
 tags:
 - cognition
 - embodied-cognition
 - information-theory
 date: '2026-10-15'
-line: distributed-agency
+line:
+- distributed-agency
+- nucleating-argument
 refines:
 - QUESTION-098
 summary: >-
