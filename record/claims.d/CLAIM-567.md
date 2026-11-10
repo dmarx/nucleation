@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9jvpb
 title: 'That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -18,6 +18,12 @@ history:
     positive curvature, as THEORY-1423's title, narrowed on 2026-11-06,
     does. No objection is on file, and nothing meets the defeat
     condition.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it bears on QUESTION-380. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -38,6 +44,7 @@ line:
 - realizability
 - readiness
 - formal-apparatus
+- distributed-agency
 rests_on:
 - CLAIM-571
 complements:

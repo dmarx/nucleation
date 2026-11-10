@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmpho867
 title: 'In a stationary linear Gaussian VAR(1) that is time-reversible (AΠ = ΠAᵀ, Π the stationary covariance), every slow-feature direction is a left eigenvector of A, so any span of slow features is an exactly dynamically independent coarse-graining; off reversibility a slow feature is in general neither independent nor free of memory'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries learned-structure as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument: learned-
+    structure, since it bears on QUESTION-217. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -20,6 +27,7 @@ date: '2026-10-20'
 line:
 - distributed-agency
 - formal-apparatus
+- learned-structure
 grounds:
 - THEORY-733
 - THEORY-746

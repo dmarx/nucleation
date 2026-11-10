@@ -4,12 +4,21 @@ status: Open
 formerly:
 - QUESTION-tmpgqd0u
 title: 'Does a one-off productive-asset transfer to poor households in another setting or population show a non-concave asset transition with an unstable threshold, households placed above it accumulating assets and moving into self-employment while those below lose assets, surviving controls for baseline ability; and does a design that randomizes transfer size, and so which side of the threshold a household lands on, find the same?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries realizability as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    realizability, since it bears on QUESTION-398. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: readiness
+line:
+- readiness
+- realizability
 bears_on:
 - QUESTION-398
 summary: >-

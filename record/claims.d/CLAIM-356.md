@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkb2i9
 title: 'An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -30,6 +30,12 @@ history:
   date: '2026-11-03'
   note: >-
     uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
+- version: 5
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it objects to CLAIM-288. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,6 +57,7 @@ date: '2026-10-18'
 line:
 - learned-structure
 - will-organization
+- distributed-agency
 objects_to:
 - CLAIM-288
 complements:

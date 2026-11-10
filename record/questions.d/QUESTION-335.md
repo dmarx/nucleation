@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpzfd02
 title: "Does causal emergence of effective information in Hoel, Albantakis and Tononi's temporal and spatio-temporal macros survive a common intervention distribution, or does it come from comparing a macro step that spans several micro steps with a single micro step?"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-30'
@@ -12,11 +12,19 @@ history:
     Filed at the rejection of THEORY-787 on 2026-10-30 (owner's direction),
     for the one case THEORY-1167's bound does not reach. It refines
     QUESTION-204.
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it refines QUESTION-204. No other change.
 tags:
 - causality
 - information-theory
 date: '2026-10-30'
-line: 'formal-apparatus'
+line:
+- 'formal-apparatus'
+- distributed-agency
 refines:
 - QUESTION-204
 summary: >-

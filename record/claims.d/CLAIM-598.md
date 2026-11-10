@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt0fnx
 title: 'Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as Majikes et al. report for a single DNA origami fold that excess staples block'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,12 @@ history:
     by THEORY-1457 (Proposed); it is now an attribution, and
     THEORY-1457 corroborates the claim. CASE-217, its one premise, was
     promoted in the same change.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it bears on QUESTION-380. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -35,6 +41,7 @@ line:
 - realizability
 - readiness
 - formal-apparatus
+- distributed-agency
 grounds:
 - CASE-217
 bears_on:

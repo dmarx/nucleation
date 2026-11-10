@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqlcgm
 title: 'Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so the route is identified by the rate of that later step, compared with and without the nucleus, and not by the yields'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,14 @@ history:
     to yields; what else identifies the route stays with QUESTION-397.
     TERM-117, its one premise, was adopted in the same change; the
     construction was re-run by script and by a direct linear solve.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument and distributed-agency as well, at the
+    sweep of ADR-tmpk61vy's rule (2026-11-10): the entry takes part in those
+    lines' argument: nucleating-argument, since it bears on
+    QUESTION-397; distributed-agency, since it bears on QUESTION-380. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -35,6 +43,8 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- nucleating-argument
+- distributed-agency
 uses:
 - TERM-117
 complements:

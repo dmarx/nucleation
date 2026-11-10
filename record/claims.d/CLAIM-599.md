@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpuv9yj
 title: 'Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -15,6 +15,12 @@ history:
     and its term TERM-117 is Active; no objection is filed, and nothing
     meets its defeater. The reviewer rechecked the three points and the
     numerical example step by step.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it bears on QUESTION-380. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -31,6 +37,7 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- distributed-agency
 uses:
 - TERM-117
 rests_on:

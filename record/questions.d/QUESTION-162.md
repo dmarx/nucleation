@@ -4,11 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpa5vf9
 title: "In hyperbolic neural networks on tree-like data, does the advantage over Euclidean networks go with the Möbius bias translations and the distance-based output layer, the only operations through which curvature acts, or do networks without them keep it?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    pragmatic-transport, since it refines QUESTION-025. No other change.
 tags:
 - representation-learning
 date: '2026-10-19'
-line: 'learned-structure'
+line:
+- 'learned-structure'
+- pragmatic-transport
 refines:
 - QUESTION-025
 summary: >-

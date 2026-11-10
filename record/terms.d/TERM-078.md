@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpuilar
 title: 'persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-24'
@@ -25,12 +25,20 @@ history:
     objects to it, and CLAIM-440, CLAIM-448, CLAIM-451, QUESTION-266
     and QUESTION-268 use it in this sense. How a persistent potential
     is read off a record is QUESTION-268, which stays open.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries formal-apparatus as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument: formal-
+    apparatus, since it refines TERM-077. No other change.
 tags:
 - emotion-and-affect
 - game-theory
 - mathematics
 date: '2026-10-23'
-line: organizational-affect
+line:
+- organizational-affect
+- formal-apparatus
 refines:
 - TERM-077
 summary: >-

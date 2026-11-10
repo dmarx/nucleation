@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpf2p3p
 title: 'The potential account of valence''s first consequence, no frustration, no valence, runs together two relations: perspectives'' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, reported as positive with nothing contested, tests whichever is chosen'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -16,6 +16,12 @@ history:
     The title's "the absorbed writer, valenced with nothing contested"
     now reads "reported as positive with nothing contested": that flow
     is valenced is CLAIM-441's unchecked premise, not this claim's.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it objects to CLAIM-440. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -24,6 +30,7 @@ tags:
 date: '2026-10-23'
 line:
 - organizational-affect
+- distributed-agency
 uses:
 - TERM-060
 - TERM-076

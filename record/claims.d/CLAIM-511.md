@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp025xj
 title: 'A self-maintaining organization ought to preserve its corrigibility'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-31'
@@ -16,6 +16,13 @@ history:
     constructions do not establish it is ARG-042, Rejected. The demonstrated
     reason, that corrigibility's value is conditional, is CLAIM-520. The
     previous body is kept below its new heading.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument: will-
+    organization, since it bears on QUESTION-128, bears on QUESTION-129.
+    No other change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -24,6 +31,7 @@ tags:
 date: '2026-10-31'
 line:
 - distributed-agency
+- will-organization
 complements:
 - CLAIM-462
 bears_on:

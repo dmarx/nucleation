@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpisvzb
 title: 'What characterizes a constrained system is a repertoire of realizable processes, indexed by resources and dependent on its architecture, rather than its set or space of states, and the repertoire changes in three ways an equivalence between such systems must keep apart: a budget makes an existing transformation affordable, observational or computational capability makes an existing possibility discoverable or controllable, and a change of architecture alters which transformations are possible'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries readiness as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    readiness, since it bears on QUESTION-392. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,6 +33,7 @@ tags:
 date: '2026-11-05'
 line:
 - realizability
+- readiness
 rests_on:
 - CLAIM-583
 complements:

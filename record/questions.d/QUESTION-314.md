@@ -4,13 +4,22 @@ status: Open
 formerly:
 - QUESTION-tmpzbq0p
 title: 'Is the response an implementation intention specifies gated by the goal intention it serves, so that with the goal deactivated or weak the cue alone does not produce it, and does the gate survive the plan''s being acted on many times?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it refines QUESTION-088. No other change.
 tags:
 - motivation
 - behavioral-integration
 - self-governance
 date: '2026-10-29'
-line: will-organization
+line:
+- will-organization
+- distributed-agency
 refines:
 - QUESTION-088
 summary: >-

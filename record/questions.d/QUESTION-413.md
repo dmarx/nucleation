@@ -4,12 +4,21 @@ status: Open
 formerly:
 - QUESTION-tmp5ca3z
 title: 'Do the graduation-programme results of Banerjee and colleagues'' six-country trials and of Banerjee, Duflo and Sharma''s West Bengal follow-up hold elsewhere: does a further randomized evaluation of a time-limited asset-and-support programme for ultra-poor households, at another site, find effects on consumption and income still significant a year or more after all support ended, with no fall in working time, and does a long-term follow-up there find effects significant at least seven years after the transfer, not shrinking after the third year, carried mainly by wage employment or migration rather than by the transferred activity?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries realizability as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    realizability, since it bears on QUESTION-398. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: readiness
+line:
+- readiness
+- realizability
 bears_on:
 - QUESTION-398
 summary: >-

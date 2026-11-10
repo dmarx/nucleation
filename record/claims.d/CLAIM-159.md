@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-159
 title: 'The record''s rival accounts of will are claims about drive profiles in different cells: Ainslie''s interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -29,6 +29,12 @@ history:
     which is the defeat condition's test and not a premise, and on the
     précis not choosing between aggregate and emergent, which the
     title's disjunction states. The title is unchanged.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it bears on QUESTION-033. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,7 +47,9 @@ tags:
 - behavioral-integration
 - free-will
 date: '2026-10-11'
-line: will-organization
+line:
+- will-organization
+- distributed-agency
 uses:
 - TERM-051
 - TERM-023

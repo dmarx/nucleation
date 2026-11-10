@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpwa1vj
 title: 'Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -14,11 +14,19 @@ history:
     relations apart is QUESTION-296, Answered by CLAIM-130. This
     question keeps which interventions on the situation itself do, and
     the conceptual half.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it refines QUESTION-284. No other change.
 tags:
 - causality
 - social-ontology
 date: '2026-10-10'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- distributed-agency
 refines:
 - QUESTION-021
 - QUESTION-284

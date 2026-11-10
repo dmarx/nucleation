@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp3bdbx
 title: 'In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    nucleating-argument, since it bears on QUESTION-109. No other
+    change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -16,7 +24,9 @@ defeated_if: >-
 tags:
 - cognition
 date: '2026-10-15'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- nucleating-argument
 grounds:
 - THEORY-337
 - THEORY-335

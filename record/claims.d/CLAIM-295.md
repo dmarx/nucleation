@@ -7,7 +7,7 @@ title: 'A record of an inquiry''s justifications adds nothing for decisions its
   current state already suffices for: what it can add is a wider family of decisions
   for which what is kept suffices, and decisions a bounded agent can make that it
   otherwise could not'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,13 @@ history:
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    nucleating-argument, since it bears on QUESTION-108. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +48,7 @@ tags:
 date: '2026-10-15'
 line:
 - records-of-inquiry
+- nucleating-argument
 rests_on:
 - CLAIM-294
 - CLAIM-300

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpxcbet
 title: 'Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex''s configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -38,6 +38,13 @@ history:
     so the filer's argument re-derives a case of his theorem. THEORY-1376,
     Active at the same review, is added to corroborated_by (ADR-058). No
     status change.
+- version: 5
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    pragmatic-transport, since it bears on QUESTION-031. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -60,6 +67,7 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- pragmatic-transport
 rests_on:
 - CLAIM-571
 - CLAIM-563

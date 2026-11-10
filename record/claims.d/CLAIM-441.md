@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0eikz
 title: 'Flow tells against the potential account''s condition that valence is undefined where no pair is contested: on the record''s own account of flow nothing is overridden because an activity''s immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow''s positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -20,6 +20,12 @@ history:
     (Abuhamdeh 2020), read in full, added to grounds: the objection needs
     the report that flow is positive, and this is the one read source that
     gives it, quoting Csikszentmihalyi. The claim is unchanged.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it objects to CLAIM-440. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +41,7 @@ date: '2026-10-23'
 line:
 - organizational-affect
 - will-organization
+- distributed-agency
 objects_to:
 - CLAIM-440
 rests_on:

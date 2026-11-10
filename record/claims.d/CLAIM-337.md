@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp9cjyo
 title: 'Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,12 @@ history:
     body argues against throughout, written into objects_to, since a
     body citation doing an objection's work goes in the field. The claim
     is unchanged.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument: will-
+    organization, since it objects to CLAIM-341. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -23,6 +29,7 @@ date: '2026-10-16'
 line:
 - distributed-agency
 - pragmatic-transport
+- will-organization
 objects_to:
 - CLAIM-341
 grounds:

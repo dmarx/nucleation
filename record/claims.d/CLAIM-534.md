@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpexvc6
 title: 'A plural will''s motivational integration, a dimension of freedom of will the record names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,13 @@ history:
     nearest rival, Frankfurt's integration by wholehearted identification
     (THEORY-120), is Proposed, so the record has no reason to count an
     agent integrated by ranking its demands.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries evidence-for-experience as well, at the sweep of ADR-084's
+    rule (2026-11-10): the entry takes part in that line's argument:
+    evidence-for-experience, since it bears on QUESTION-255. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +42,7 @@ tags:
 date: '2026-11-03'
 line:
 - will-organization
+- evidence-for-experience
 rests_on:
 - CLAIM-347
 - CLAIM-538

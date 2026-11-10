@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpkkobi
 title: 'Does modelling psychological organization as processes that allocate influence to one another predict habit, rumination, rigidity, akrasia and insight better, with one shared set of organizational variables, than models built for each phenomenon or around a central executive?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-26'
@@ -23,11 +23,19 @@ history:
     phenomenon, and the specific ones win where their phenomenon dominates;
     v2.8 and v2.9 build reframing and predict no phenomenon. The lab is
     still a tool for this comparison. The question is unchanged.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument: will-
+    organization, since it refines QUESTION-056. No other change.
 tags:
 - self-governance
 - behavioral-integration
 date: '2026-10-13'
-line: distributed-agency
+line:
+- distributed-agency
+- will-organization
 refines:
 - QUESTION-056
 summary: >-

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpra2cf
 title: 'Valence intensity need not be the strength of the prevailing ordering''s potential: in Hesp et al.''s model negative valence is a weakening of the preference ordering''s precision with a fall back to habit, and positive affect is reported to lower a goal''s priority, so for either sign stronger valence can go with a weaker hold of the ordering'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -28,6 +28,12 @@ history:
     it does not say" that read "Carver's view. LIT-1445 is registered and
     unread; the positive half of the objection is reported, not read, and
     is why the status is Proposed." is replaced. The title is unchanged.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it objects to CLAIM-440. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +51,7 @@ tags:
 date: '2026-10-27'
 line:
 - organizational-affect
+- distributed-agency
 objects_to:
 - CLAIM-440
 grounds:

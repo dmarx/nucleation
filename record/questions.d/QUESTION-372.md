@@ -4,14 +4,23 @@ status: Open
 formerly:
 - QUESTION-tmpu6o08
 title: 'Does a perspective''s motivational threshold induce its tolerances, do those tolerances induce the organization''s motivational compatibility, and does that compatibility, kept across changing contexts, give psychological flexibility or organizational effectiveness; and are those last two one property named at two scales, or two properties?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it refines QUESTION-090. No other change.
 tags:
 - motivation
 - behavioral-integration
 - self-governance
 - psychopathology-and-treatment
 date: '2026-11-04'
-line: will-organization
+line:
+- will-organization
+- distributed-agency
 refines:
 - QUESTION-090
 summary: >-

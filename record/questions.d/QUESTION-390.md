@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpszc1x
 title: "When origami modules are joined along shared boundaries, which constraint structures does the coupling generate, and does eliminating the interior creases leave a relation among boundary fold angles that the modules' own crease constraints can express, or one that needs higher arity, inequalities or history, and at what cost of representation and elimination?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
+    (2026-11-10): the entry takes part in that line's argument:
+    distributed-agency, since it refines QUESTION-283. No other change.
 tags:
 - mathematics
 - compositionality
@@ -12,6 +19,7 @@ tags:
 date: '2026-11-05'
 line:
 - realizability
+- distributed-agency
 refines:
 - QUESTION-283
 summary: >-
