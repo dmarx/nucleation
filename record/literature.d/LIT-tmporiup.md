@@ -1,0 +1,30 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: Crossref. Status stays Deferred until a lawful copy is read.
+title: "A change language for ontologies and knowledge graphs"
+version: 1
+history:
+- version: 1
+  date: '2026-11-10'
+  note: "Filed, not read. Identifier check on 2026-11-10: Crossref. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+tags:
+- databases
+- logic
+date: '2026-11-10'
+published: '2025-01-22'
+doi: "10.1093/database/baae133"
+first_author: "Hegde"
+keywords: []
+implementations: []
+summary: "Hegde (2025). A change language for ontologies and knowledge graphs. Cited in the shared conversation as a reading; filed as a candidate, not read."
+---
+
+# LIT-tmporiup: A change language for ontologies and knowledge graphs
+
+Hegde (2025). *A change language for ontologies and knowledge graphs*. Source: 10.1093/database/baae133.
+
+## Why this is here
+
+Cited in the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) as recommended reading. Filed as Deferred; the record has not read it. Its claims in that conversation are unverified until read.
+

@@ -1,0 +1,39 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: not checked: host returned 203 at check time; author as cited in the conversation. Status stays Deferred until a lawful copy is read.
+title: 'Twenty-Five Years of Hidden Profiles in Group Decision Making'
+version: 2
+history:
+- version: 1
+  date: '2026-11-10'
+  note: "Filed, not read. Identifier check on 2026-11-10: not checked: host returned 203 at check time; author as cited in the conversation. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Dated and identified before merge (2026-11-10): published, doi,
+    title set from the work's own sources under ADR-002. Published
+    online 2011-09-06 (Crossref, PubMed's epub date agrees); the PSPR
+    print issue is 2012-02. The conversation cited it as "Hidden-profile
+    meta-analysis (Lu, Yuan & McLeod, 2012)". The title was "Hidden-
+    profile meta-analysis (Lu, Yuan & McLeod, 2012)" as cited in the
+    conversation.
+tags:
+- social-science
+date: '2026-11-10'
+published: '2011-09-06'
+doi: '10.1177/1088868311417243'
+first_author: 'Lu'
+keywords: []
+implementations: []
+summary: "Lu (2011). Twenty-Five Years of Hidden Profiles in Group Decision Making. Cited in the shared conversation as a reading; filed as a candidate, not read."
+---
+
+# LIT-tmpfs1a4: Twenty-Five Years of Hidden Profiles in Group Decision Making
+
+Lu (2011). *Twenty-Five Years of Hidden Profiles in Group Decision Making*. Source: doi:10.1177/1088868311417243.
+
+## Why this is here
+
+Cited in the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) as recommended reading. Filed as Deferred; the record has not read it. Its claims in that conversation are unverified until read.
+

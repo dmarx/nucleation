@@ -1,0 +1,30 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: encyclopedia page citation metadata. Status stays Deferred until a lawful copy is read.
+title: "Rudolf Carnap"
+version: 1
+history:
+- version: 1
+  date: '2026-11-10'
+  note: "Filed, not read. Identifier check on 2026-11-10: encyclopedia page citation metadata. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+tags:
+- philosophy-of-science
+- epistemology
+date: '2026-11-10'
+published: '2020-02-24'
+url: "https://plato.stanford.edu/entries/carnap/"
+first_author: "Leitgeb"
+keywords: []
+implementations: []
+summary: "Leitgeb (2020). Rudolf Carnap. Cited in the shared conversation as a reading; filed as a candidate, not read."
+---
+
+# LIT-tmptpg5s: Rudolf Carnap
+
+Leitgeb (2020). *Rudolf Carnap*. Source: https://plato.stanford.edu/entries/carnap/.
+
+## Why this is here
+
+Cited in the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) as recommended reading. Filed as Deferred; the record has not read it. Its claims in that conversation are unverified until read.
+

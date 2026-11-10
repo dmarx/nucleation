@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: PMLR page citation metadata. Status stays Deferred until a lawful copy is read.
+title: "Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs"
+version: 1
+history:
+- version: 1
+  date: '2026-11-10'
+  note: "Filed, not read. Identifier check on 2026-11-10: PMLR page citation metadata. Held check before filing: searched record/literature.d by DOI, arXiv id and title; not held. The work was cited in the shared conversation, not read by this record."
+tags:
+- social-science
+- complex-systems
+- anthology-candidate
+date: '2026-11-10'
+published: '2026-09-29'
+url: "https://proceedings.mlr.press/v306/li26ej.html"
+first_author: "Li"
+keywords: []
+implementations: []
+summary: "Li (2026). Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs. Cited in the shared conversation as a reading; filed as a candidate, not read."
+---
+
+# LIT-tmpfsmnc: Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs
+
+Li (2026). *Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs*. Source: https://proceedings.mlr.press/v306/li26ej.html.
+
+## Why this is here
+
+Cited in the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) as recommended reading. Filed as Deferred; the record has not read it. Its claims in that conversation are unverified until read.
+
