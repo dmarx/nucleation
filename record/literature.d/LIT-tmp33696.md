@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-10 from the shared ChatGPT conversation (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where the work is cited as a reading; not read. Identifier check: project page reached; no citation metadata on it. Status stays Deferred until a lawful copy is read.
-title: 'AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering'
+title: 'AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering'
 version: 2
 history:
 - version: 1
