@@ -30,6 +30,8 @@ summary: >-
   active, passing it resources and suppressing its rivals are all
   endorsement. The term is about authority among processes. It is not
   Frankfurt's identification with a desire.
+complements:
+- TERM-102
 ---
 <!-- inactive-ok-file: CLAIM-553 TERM-006 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-120 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

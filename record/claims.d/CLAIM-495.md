@@ -25,6 +25,7 @@ grounds:
 - THEORY-1140
 complements:
 - CLAIM-471
+- CLAIM-538
 summary: >-
   From A2 and A3 of the exchange "Paper assessment" (2026-10-29), which
   drew it out of [LIT-1820](../literature.d/LIT-1820.md)'s O(d) setting against [THEORY-1082](../theory.d/THEORY-1082.md)'s U(1)

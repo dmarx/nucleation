@@ -61,6 +61,9 @@ complements:
 - CLAIM-037
 - CLAIM-044
 - CLAIM-197
+- CLAIM-471
+- CLAIM-510
+- CLAIM-627
 uses:
 - TERM-008
 - TERM-004

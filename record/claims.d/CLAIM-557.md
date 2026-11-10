@@ -45,6 +45,7 @@ rests_on:
 - CLAIM-581
 complements:
 - CLAIM-577
+- CLAIM-570
 bears_on:
 - QUESTION-393
 summary: >-

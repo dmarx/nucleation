@@ -42,6 +42,7 @@ line:
 - distributed-agency
 complements:
 - CLAIM-284
+- CLAIM-551
 summary: >-
   A7's central thesis, the explanatory half of the manuscript, kept apart
   from the constitutive half ([CLAIM-284](CLAIM-284.md)) as A7 itself asked. Its

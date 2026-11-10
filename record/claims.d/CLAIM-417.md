@@ -55,6 +55,7 @@ complements:
 - CLAIM-418
 - CLAIM-427
 - CLAIM-430
+- CLAIM-620
 works:
 - organization-of-perspective
 - self-without-a-sovereign

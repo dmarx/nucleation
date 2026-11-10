@@ -49,6 +49,7 @@ grounds:
 - THEORY-159
 complements:
 - CLAIM-082
+- CLAIM-489
 summary: >-
   The record's reply, on 2026-10-10, to [CLAIM-254](CLAIM-254.md). It grants the
   objection's premises: value is internal to one language state, and it

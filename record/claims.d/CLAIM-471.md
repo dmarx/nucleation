@@ -92,6 +92,9 @@ line:
 - distributed-agency
 complements:
 - CLAIM-143
+- CLAIM-480
+- CLAIM-495
+- CLAIM-510
 rests_on:
 - CLAIM-480
 grounds:

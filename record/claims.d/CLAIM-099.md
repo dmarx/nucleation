@@ -26,6 +26,8 @@ summary: >-
   [CLAIM-079](CLAIM-079.md) and [CLAIM-025](CLAIM-025.md). The audit's "strong conditional
   argument". Canguilhem interprets it ([CLAIM-018](CLAIM-018.md)) and is deliberately
   not a premise.
+complements:
+- CLAIM-463
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 

@@ -41,6 +41,8 @@ summary: >-
   The objection presses on the owner's individuation thesis only if its
   relations are read extensionally, and it does not touch the "partly"
   of relational constitution.
+complements:
+- CLAIM-249
 ---
 <!-- inactive-ok-file: CLAIM-477 LIT-1633 — the frame the cost is carried to (Proposed) and the primary source, registered unread (Deferred) -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->

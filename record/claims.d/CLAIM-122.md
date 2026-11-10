@@ -59,6 +59,8 @@ summary: >-
   and escalation authority in a firm.
 complements:
 - CLAIM-354
+- CLAIM-459
+- CLAIM-482
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-120 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->

@@ -45,6 +45,8 @@ summary: >-
   by an apparatus, through which boundaries and properties become
   determinate. Proposed: the record had no word for them, and they recur
   in [CLAIM-476](../claims.d/CLAIM-476.md).
+complements:
+- TERM-089
 ---
 <!-- inactive-ok-file: LIT-1653 LIT-1657 — Unavailable or Deferred; Barad's texts, unread; the agential sense is the exchange's account of her and the readings' quotations -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim stated in the agential sense -->

@@ -34,6 +34,7 @@ grounds:
 complements:
 - CLAIM-277
 - CLAIM-331
+- CLAIM-478
 summary: >-
   A9 §3 and §10 of the exchange of 2026-10-16, after Flack 2012
   (LIT-1122, unread). Three stages: an observer finds a stable

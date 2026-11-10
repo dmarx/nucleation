@@ -14,6 +14,8 @@ summary: >-
   Three relations among rules that are easily conflated: precedence orders
   applicable constraints, jurisdiction governs which apply, suspension
   governs when an applicable one may be disabled (Section 5.3).
+complements:
+- TERM-094
 ---
 
 # TERM-017: precedence, jurisdiction and suspension

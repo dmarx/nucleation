@@ -53,6 +53,7 @@ rests_on:
 complements:
 - CLAIM-440
 - CLAIM-156
+- CLAIM-527
 uses:
 - TERM-076
 - TERM-017

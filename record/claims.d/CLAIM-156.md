@@ -59,6 +59,7 @@ uses:
 complements:
 - CLAIM-162
 - CLAIM-442
+- CLAIM-548
 summary: >-
   The record's own conjecture, made in answer to the owner's prompt of
   2026-10-11. It places mindfulness among [CLAIM-027](CLAIM-027.md)'s conditions of

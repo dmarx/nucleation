@@ -47,6 +47,8 @@ summary: >-
   QUESTION-206.
 bears_on:
 - QUESTION-058
+rivals:
+- THEORY-1353
 ---
 <!-- inactive-ok-file: THEORY-781 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 

@@ -17,6 +17,7 @@ summary: >-
   comparison.
 complements:
 - TERM-064
+- TERM-097
 ---
 
 # TERM-034: fidelity, as selective preservation of decision-relevant observational information under a communication constraint, relative to an interpreter

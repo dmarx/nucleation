@@ -30,6 +30,9 @@ summary: >-
   exchange's name "organizational reconstitution" is not adopted.
 complements:
 - TERM-074
+- TERM-084
+- TERM-088
+- TERM-100
 ---
 <!-- inactive-ok-file: CLAIM-329 CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->

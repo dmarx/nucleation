@@ -61,6 +61,8 @@ summary: >-
   acquired, the second acquired and not sustained. The construction is
   the filer's, from A's three resource requirements of a form; adopting
   it is the owner's call.
+complements:
+- CLAIM-594
 ---
 <!-- inactive-ok-file: CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->

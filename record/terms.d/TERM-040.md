@@ -29,6 +29,8 @@ summary: >-
   recurs from A191 through A218, and it replaced "communicative object"
   in A218, which never uses the older phrase. A218 gives it no formal
   definition.
+complements:
+- TERM-098
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-206 — Proposed; the record's reply of 2026-10-10 that this version points to, and the objection that prompted it, both open -->

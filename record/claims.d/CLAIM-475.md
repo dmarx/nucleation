@@ -51,6 +51,7 @@ rests_on:
 - CLAIM-470
 complements:
 - CLAIM-478
+- CLAIM-532
 uses:
 - TERM-065
 - TERM-064

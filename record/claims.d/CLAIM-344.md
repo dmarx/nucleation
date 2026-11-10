@@ -63,6 +63,7 @@ summary: >-
   [QUESTION-087](../questions.d/QUESTION-087.md)'s open problem.
 complements:
 - CLAIM-443
+- CLAIM-523
 ---
 
 <!-- inactive-ok-file: THEORY-067 — Proposed; an open claim this one cites and the reading that corroborates it, cited as open -->

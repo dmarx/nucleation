@@ -18,6 +18,8 @@ objects_to:
 - CLAIM-473
 complements:
 - CLAIM-478
+- CLAIM-521
+- CLAIM-626
 grounds:
 - LIT-1659
 - LIT-1649

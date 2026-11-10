@@ -73,6 +73,8 @@ summary: >-
   account, as his thesis states it, does too (CLAIM-501). Granted, because it is read off the texts. It does
   not say the theses are false, only that their stated tests cannot
   separate them from the positions they claim to improve on.
+complements:
+- CLAIM-232
 ---
 <!-- inactive-ok-file: ARG-026 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->

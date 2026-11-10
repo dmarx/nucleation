@@ -25,6 +25,12 @@ grounds:
 summary: >-
   Applied from viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and the stability/resilience
   distinction ([THEORY-132](../theory.d/THEORY-132.md)) (Section 6.3).
+complements:
+- CLAIM-521
+- CLAIM-566
+- CLAIM-577
+- CLAIM-612
+- CLAIM-625
 ---
 <!-- inactive-ok-file: NOTE-1562 — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 

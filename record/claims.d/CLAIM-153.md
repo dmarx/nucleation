@@ -47,6 +47,8 @@ complements:
 - CLAIM-196
 - CLAIM-347
 - CLAIM-368
+- CLAIM-534
+- CLAIM-618
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this result partly answers -->
 

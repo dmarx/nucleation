@@ -37,6 +37,9 @@ summary: >-
   under one regime. Adopted by the owner on 2026-10-21. It
   would add a name for what [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-302](../claims.d/CLAIM-302.md), [CLAIM-387](../claims.d/CLAIM-387.md) and [THEORY-424](../theory.d/THEORY-424.md)
   each relativize to; it replaces nothing.
+complements:
+- TERM-092
+- TERM-095
 ---
 
 # TERM-065: effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description's adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated

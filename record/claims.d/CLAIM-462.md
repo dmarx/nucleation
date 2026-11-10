@@ -55,6 +55,8 @@ grounds:
 - CASE-170
 complements:
 - CLAIM-464
+- CLAIM-511
+- CLAIM-520
 uses:
 - TERM-085
 summary: >-

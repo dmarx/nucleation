@@ -41,6 +41,7 @@ rests_on:
 - CLAIM-152
 complements:
 - CLAIM-363
+- CLAIM-526
 grounds:
 - THEORY-820
 - CASE-110

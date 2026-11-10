@@ -58,6 +58,9 @@ summary: >-
   multi-parameter persistence, which their paper does not develop. The
   construction is the filer's, from A's multi-resource budgets; adopting
   it is the owner's call.
+complements:
+- CLAIM-563
+- CLAIM-580
 ---
 <!-- inactive-ok-file: THEORY-1420 CLAIM-555 — Proposed; A's proposals of 2026-11-04 and a reading's account, cited as filed, nothing here rests on their being settled beyond the rests_on -->
 

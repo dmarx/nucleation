@@ -30,6 +30,7 @@ rests_on:
 complements:
 - CLAIM-366
 - CLAIM-554
+- CLAIM-618
 uses:
 - TERM-060
 grounds:

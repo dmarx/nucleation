@@ -26,6 +26,7 @@ uses:
 complements:
 - CLAIM-354
 - CLAIM-535
+- CLAIM-551
 grounds:
 - LIT-1975
 bears_on:

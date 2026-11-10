@@ -44,6 +44,7 @@ uses:
 complements:
 - CLAIM-194
 - CLAIM-522
+- CLAIM-529
 bears_on:
 - QUESTION-284
 - QUESTION-093

@@ -13,6 +13,7 @@ date: '2026-10-27'
 line: distributed-agency
 complements:
 - TERM-074
+- TERM-118
 summary: >-
   The owner's, U11 of the exchange of 2026-10-26: "we should probably
   engineer a TERM for 'organizational achievement', and/or terms in that

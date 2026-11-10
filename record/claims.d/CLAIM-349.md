@@ -94,6 +94,7 @@ summary: >-
 complements:
 - CLAIM-432
 - CLAIM-443
+- CLAIM-523
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

@@ -61,6 +61,9 @@ complements:
 - CLAIM-597
 - CLAIM-273
 - CLAIM-516
+- CLAIM-601
+- CLAIM-602
+- CLAIM-606
 grounds:
 - THEORY-1270
 bears_on:

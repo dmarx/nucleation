@@ -64,6 +64,7 @@ summary: >-
 complements:
 - CLAIM-043
 - CLAIM-131
+- CLAIM-247
 ---
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-119 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; the definition version 1 was stated in, cited as history -->

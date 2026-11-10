@@ -64,6 +64,8 @@ complements:
 - CLAIM-283
 - CLAIM-354
 - CLAIM-454
+- CLAIM-465
+- CLAIM-539
 ---
 <!-- inactive-ok-file: CLAIM-156 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->

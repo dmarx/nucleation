@@ -42,6 +42,8 @@ summary: >-
   reaches the optimal allocation.
 bears_on:
 - QUESTION-039
+rivals:
+- THEORY-1353
 ---
 <!-- inactive-ok-file: THEORY-809 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->

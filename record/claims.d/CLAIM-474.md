@@ -115,6 +115,9 @@ uses:
 complements:
 - CLAIM-477
 - CLAIM-478
+- CLAIM-515
+- CLAIM-526
+- CLAIM-616
 bears_on:
 - QUESTION-282
 - QUESTION-283

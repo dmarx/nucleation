@@ -7,6 +7,7 @@ complements:
 - TERM-070
 - TERM-071
 - TERM-074
+- TERM-098
 title: 'individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints'
 version: 3
 history:

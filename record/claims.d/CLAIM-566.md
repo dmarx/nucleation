@@ -39,6 +39,8 @@ complements:
 - CLAIM-516
 - CLAIM-079
 - CLAIM-025
+- CLAIM-597
+- CLAIM-612
 uses:
 - TERM-070
 bears_on:

@@ -23,6 +23,8 @@ summary: >-
   The maintained organization of relations governing the conditions under
   which an agent's available action-generating regimes acquire, retain,
   lose, or alter practical efficacy (Section 3.2).
+complements:
+- TERM-100
 ---
 <!-- inactive-ok-file: TERM-003 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

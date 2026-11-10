@@ -6,6 +6,7 @@ formerly:
 complements:
 - TERM-065
 - TERM-064
+- TERM-095
 title: 'inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers'
 version: 4
 history:

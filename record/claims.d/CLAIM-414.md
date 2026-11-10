@@ -50,6 +50,12 @@ grounds:
 complements:
 - CLAIM-407
 - CLAIM-194
+- CLAIM-456
+- CLAIM-515
+- CLAIM-521
+- CLAIM-522
+- CLAIM-528
+- CLAIM-530
 uses:
 - TERM-070
 - TERM-073

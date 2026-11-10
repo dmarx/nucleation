@@ -40,6 +40,7 @@ rests_on:
 - CLAIM-079
 complements:
 - CLAIM-185
+- CLAIM-477
 grounds:
 - THEORY-134
 - THEORY-132

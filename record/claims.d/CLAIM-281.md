@@ -40,6 +40,7 @@ line:
 complements:
 - CLAIM-285
 - CLAIM-297
+- CLAIM-359
 summary: >-
   A2 §8, on the owner's U2 design. If processes grant influence only to those whose
   policies match their own, the influence structure "risks degenerating

@@ -64,6 +64,8 @@ summary: >-
 complements:
 - CLAIM-414
 - CLAIM-450
+- CLAIM-517
+- CLAIM-522
 corroborates:
 - CLAIM-122
 ---

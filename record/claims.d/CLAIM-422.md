@@ -69,6 +69,8 @@ summary: >-
   correction, not of its maintenance.
 complements:
 - CLAIM-464
+- CLAIM-465
+- CLAIM-587
 ---
 <!-- inactive-ok-file: LIT-2088 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

@@ -5,6 +5,7 @@ formerly:
 - TERM-tmpe6jtq
 complements:
 - TERM-020
+- TERM-100
 title: 'interpretive capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
 version: 7
 history:

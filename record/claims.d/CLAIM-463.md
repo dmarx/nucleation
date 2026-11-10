@@ -29,6 +29,7 @@ grounds:
 complements:
 - CLAIM-099
 - CLAIM-464
+- CLAIM-459
 summary: >-
   A4's claim candidate from the exchange "About the Chagossians" of
   2026-10-26, "Resource restoration does not imply organizational

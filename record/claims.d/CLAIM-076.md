@@ -27,6 +27,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 complements:
 - CLAIM-087
+- CLAIM-256
+- CLAIM-257
 summary: >-
   A110 §21, recovered. The manuscript's Case III keeps the protocol and
   drops the reason for it; C7 Appendix D keeps a related control

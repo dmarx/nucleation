@@ -51,6 +51,8 @@ summary: >-
   policy. So the reward for realized policy, and not for held authority,
   pays for delegating. It does not say operators behave so, or that any
   rule beyond one hop keeps both conditions.
+complements:
+- CLAIM-502
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->

@@ -45,6 +45,7 @@ complements:
 - CLAIM-027
 - CLAIM-432
 - CLAIM-447
+- CLAIM-552
 summary: >-
   A4 §2, reading Frijda through the record: "control precedence also
   suggests a useful addition to our parameterization", a priority p_i

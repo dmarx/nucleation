@@ -25,6 +25,8 @@ uses:
 summary: >-
   The distinction the paper inherits from Frankfurt ([THEORY-120](../theory.d/THEORY-120.md)) and
   generalizes beyond desires: the audit's "established foundation".
+complements:
+- CLAIM-459
 ---
 <!-- inactive-ok-file: CLAIM-484 — Proposed; the claim-grant gap, cited to keep it apart from this claim -->
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->

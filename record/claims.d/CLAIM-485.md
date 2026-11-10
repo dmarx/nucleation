@@ -46,6 +46,7 @@ answers:
 - QUESTION-092
 complements:
 - CLAIM-284
+- CLAIM-532
 summary: >-
   The bridge the owner asked for on 2026-10-28, between Kahl's proposal (THEORY-1165), which
   is about agency in the sense that bears on responsibility, and

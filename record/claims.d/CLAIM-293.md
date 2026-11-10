@@ -32,6 +32,8 @@ summary: >-
   H in both worlds. Discount the first, and posterior odds are 20:1 in one world
   and 1.1:1 in the other. `rests_on` and `grounds` record that support exists, not
   how much.
+complements:
+- CLAIM-479
 ---
 <!-- inactive-ok-file: CLAIM-250 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

@@ -53,6 +53,10 @@ summary: >-
   while reducing the target's formation probability". It is the trap of
   [CLAIM-184](CLAIM-184.md), shown in DNA origami by Dunn et al.'s seams. The wording is
   A's, with the assistant's proof; adopting it is the owner's call.
+complements:
+- CLAIM-596
+- CLAIM-599
+- CLAIM-601
 ---
 <!-- inactive-ok-file: CASE-218 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: CLAIM-184 CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->

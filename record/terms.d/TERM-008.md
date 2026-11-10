@@ -34,6 +34,8 @@ summary: >-
   invertible, required only to get within ε. Renames A48's "state
   correspondence" and A49's "admissible correspondence". The
   manuscript's central term (§6).
+complements:
+- TERM-084
 ---
 
 # TERM-008: transport

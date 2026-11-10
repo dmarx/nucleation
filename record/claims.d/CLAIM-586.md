@@ -42,6 +42,9 @@ rests_on:
 - CLAIM-347
 complements:
 - CLAIM-568
+- CLAIM-564
+- CLAIM-576
+- CLAIM-579
 uses:
 - TERM-060
 bears_on:

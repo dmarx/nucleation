@@ -5,6 +5,8 @@ formerly:
 - TERM-tmpo91ac
 complements:
 - TERM-089
+- TERM-090
+- TERM-097
 title: 'correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted'
 version: 3
 history:
