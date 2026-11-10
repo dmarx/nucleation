@@ -4,6 +4,7 @@
     components when the page is built (DP-2: derived, never copied). Codes are
     written bare; the link fixer spells them. -#}
 {%- set live = docs("SYNTHESIS", status="Current") + docs("SYNTHESIS", status="Proposed") -%}
+{%- set live_codes = live | map(attribute="code") | list -%}
 # The current account
 
 *What the record now holds about how its own argument fits together, one
@@ -22,11 +23,34 @@ shown. An account marked *Current* has had its mapping reviewed by the
 owner. One marked *Proposed* is offered and not yet reviewed. Neither status
 says anything about the components, which keep their own. An account that
 spans several lines is set out under its first and pointed to from the
-others.
+others. An account built over the accounts of its parts is set out once,
+with each part account nested under it in place of a row in its table, so
+every account appears here once.
 {% if not live %}
 
 *No account is filed yet.*
 {% endif %}
+{%- set parts = namespace(codes=[]) -%}
+{%- for s in live %}{% for c in s.integrates %}{% if c.code.startswith("SYNTHESIS-") %}{% set parts.codes = parts.codes + [c.code] %}{% endif %}{% endfor %}{% endfor -%}
+{%- macro account(s, depth) %}
+
+{{ "#" * depth }} {{ s.code }}: {{ s.title }}
+
+*{{ s.status }} · version {{ s.version }}*
+{% if s.summary %}
+
+{{ s.summary }}
+{% endif %}
+
+| component | kind | its status | what it holds |
+|---|---|---|---|
+{% for c in s.integrates if not (c.code.startswith("SYNTHESIS-") and c.code in live_codes) -%}
+| {{ c.code }} | {{ c.code.split("-")[0] }} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
+{% endfor %}
+
+**What would show the account unfaithful:** {{ s.defeated_if }}
+{% for c in s.integrates if c.code.startswith("SYNTHESIS-") and c.code in live_codes %}{{ account(c, depth + 1) }}{% endfor %}
+{%- endmacro %}
 {%- set ns = namespace(bare=[]) %}
 {% for t in vocabulary("lines") %}
 {%- set here = namespace(any=false) -%}
@@ -36,25 +60,12 @@ others.
 ## {{ t.label }}
 
 {{ t.blurb }}
-{% for s in live if t.value in s.line %}
+{% for s in live if t.value in s.line and s.code not in parts.codes %}
 {%- if s.line[0] != t.value %}
 
 - {{ s.code }}, set out under its first line: {{ s.title }}
 {%- else %}
-
-### {{ s.code }}: {{ s.title }}
-
-*{{ s.status }} · version {{ s.version }}*
-
-{{ s.summary }}
-
-| component | kind | its status | what it holds |
-|---|---|---|---|
-{% for c in s.integrates -%}
-| {{ c.code }} | {{ c.code.split("-")[0] }} | {{ c.status }} | {{ c.title | replace("|", "\\|") }} |
-{% endfor %}
-
-**What would show the account unfaithful:** {{ s.defeated_if }}
+{{- account(s, 3) }}
 {%- endif %}
 {% endfor %}
 {%- else %}
