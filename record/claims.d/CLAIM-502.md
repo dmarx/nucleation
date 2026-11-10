@@ -60,6 +60,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction bears on, cited as open -->
+<!-- ref::uses-file: TERM-101 — the grants E_kj along whose paths leave-one-out delegation carries authority are TERM-101's grant -->
+<!-- ref::uses-file: TERM-103 — a grant raising "the authority of every operator its grantee reaches" while leaving its own unchanged is conferral in TERM-103's sense, carried beyond one hop -->
 
 # CLAIM-502: Multi-hop delegation can keep an operator's authority exactly independent of its own grants: under leave-one-out damped delegation, which counts the authority reaching each operator only along paths that have not already passed through it, an operator's grants raise the authority of every operator its grantee reaches and leave its own unchanged
 

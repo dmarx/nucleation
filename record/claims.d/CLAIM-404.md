@@ -107,6 +107,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1324 LIT-1332 — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->
 <!-- inactive-ok-file: TERM-066 — Proposed; cited for the outside standard a verdict of capture would need, not used -->
 <!-- ref::uses-file: TERM-064 — stated in "legible"; the body uses the word in the sense that term defines -->
+<!-- ref::uses-file: TERM-100 — an organization "governed from outside" while its own procedures make every decision is a question of whose processes shape and keep its evidence and criteria, TERM-100's formation and maintenance provenance, not of who issues its decisions -->
 
 # CLAIM-404: An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization's role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator's procedure does not make its evaluation independent
 

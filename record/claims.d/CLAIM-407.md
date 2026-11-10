@@ -71,6 +71,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; the earlier, unparameterized appearances of this result, cited as its history, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-174 — Proposed; named as what this result does not test, open -->
+<!-- ref::uses-file: TERM-023 — the "governance mechanism" an intervention sets, whose "governance-relevant counterfactual distinction" a closed coarse-graining loses, is governance in TERM-023's sense; the body denies that Γ measures will or shows agency -->
 
 # CLAIM-407: A coarse-graining exactly informationally closed under a process's ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T's fibres over the states of positive probability
 

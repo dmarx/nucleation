@@ -48,6 +48,7 @@ summary: >-
   in both systems; only where the mechanism sits relative to the boundary
   differs, which is [CLAIM-194](CLAIM-194.md)'s point about boundaries.
 ---
+<!-- ref::uses-file: TERM-100 — "where maintenance is realized", by the system's own production or by an outside controller, is TERM-100's maintenance provenance, which recovery under interventions on state cannot show -->
 
 # CLAIM-522: Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two
 

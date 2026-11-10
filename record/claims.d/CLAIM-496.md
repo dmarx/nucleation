@@ -41,6 +41,7 @@ summary: >-
   says it measures something [CLAIM-259](CLAIM-259.md)'s directed loss does not, and
   conversely.
 ---
+<!-- ref::uses-file: TERM-034 — fidelity as what a rendering keeps that "a receiver needs", relative to "a declared task", the constant rendering being "perfectly coherent and with no fidelity", is TERM-034's sense -->
 
 # CLAIM-496: Agreement between routes of translation is a measure of coherence, not of fidelity, and the two are independent: a rendering that sends every source utterance to one output makes direct and relay transport agree exactly while a receiver who could tell a promise from a prediction with no error is left at chance, and two routes that keep the act and differ in register disagree completely while losing nothing the act-identification task needs
 

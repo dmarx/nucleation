@@ -70,6 +70,8 @@ summary: >-
 <!-- inactive-ok-file: CASE-221 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-11-07 -->
+<!-- ref::uses-file: TERM-064 — the "legibility regime" that selects which contests are admitted or recorded, and "Raising the legibility of a marginalized perspective", are TERM-064's legibility -->
+<!-- ref::uses-file: TERM-078 — "even a persistent potential", the acyclic record that selective contestation can produce, is TERM-078's persistent potential -->
 
 # CLAIM-448: An ordinal potential describes only the winning-move relation it is computed on; where an organization's legibility regime selects which contests are admitted or recorded, an acyclic record, even a persistent potential, can be the product of selective contestation, so observed coherence is not evidence that the organization's perspectives are integrated, and an intervention that improves its self-governance may at first increase the disagreement observed
 

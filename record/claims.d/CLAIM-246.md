@@ -46,6 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history for its transfer disjunct -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-137 — Proposed; open, and cited as the claims this objection is to -->
+<!-- ref::uses-file: TERM-084 — the "identity through descent" of the title, the one thing that separates T from I being that "T was made from S", is TERM-084's provenance sense -->
 
 # CLAIM-246: Sharing a kind is symmetric and blind to which work is the source, so the October thesis cannot say a translation is of its original, against the line's own directed, graded fidelity and identity through descent
 

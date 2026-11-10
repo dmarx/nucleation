@@ -84,6 +84,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-217 — Proposed; the record's other replies of 2026-10-10, open, on which this restatement rests -->
 <!-- inactive-ok-file: CLAIM-244 CLAIM-206 — Proposed; objections this entry answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-246 — Rejected; the objection on descent, cited as answered -->
+<!-- ref::uses-file: TERM-084 — CLAIM-246's objection that kind-sharing is "blind to descent", and direction "fixed by the design, as a fact of provenance", are descent in TERM-084's provenance sense -->
 
 # CLAIM-204: A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part
 
