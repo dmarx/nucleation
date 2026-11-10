@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpc3sk7
 title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -40,6 +40,15 @@ history:
     uses, and no deterministic rule without foresight does better, under
     fixed known costs and with staleness left out'. The status stays
     Proposed.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Answers QUESTION-098, which asks what the second-occurrence rule
+    approximates; the claim says recurrence weighted by
+    reconstruction cost "is the filing criterion" and that the
+    second-occurrence rule "is the break-even rule" when overpayment
+    is per reconstruction. Found when the costs part was checked for
+    a root question (2026-11-10). No other change.
 role: counter
 warrant: demonstrated
 tags:
@@ -60,6 +69,8 @@ summary: >-
   reach staleness, which the theorem forbids rather than prices, or drifting
   costs, and where reuse can be forecast an expected-reuse rule can do better,
   so [CLAIM-303](CLAIM-303.md)'s criterion survives there.
+answers:
+- QUESTION-098
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-185 — Proposed; the claim objected to, and an open claim cited as open -->
 

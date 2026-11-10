@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpa0kd0
 title: 'A corporation can bear functional affect in Frijda''s sense, without its implying experience, and so can be read as lacking remorse when others'' harms reach its decisions only as threats, a reading Wells Fargo''s sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor''s concept is open, and the line''s first framing, what it is like to be a corporation, is retired'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    CLAIM-432's lines corrected: its first line is distributed-agency and
+    organizational-affect its second, as its `line` field has said since
+    it was filed; version 1 called distributed-agency its second line.
+    Found when the part was checked for a root question. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the corporate-affect part of the organizational-affect line left out
@@ -61,7 +69,7 @@ rated a sketch in [THEORY-101](../theory.d/THEORY-101.md), does not extend to it
 its note of 2026-10-31 says, neither grounds nor defeats it.
 
 **Corporate remorse.** [CLAIM-432](../claims.d/CLAIM-432.md) (thesis, interpretive, Proposed; rests
-on [CLAIM-039](../claims.d/CLAIM-039.md) and [CLAIM-271](../claims.d/CLAIM-271.md); second line distributed-agency), the
+on [CLAIM-039](../claims.d/CLAIM-039.md) and [CLAIM-271](../claims.d/CLAIM-271.md); first line distributed-agency, then this one), the
 record's reading of Bakan's "institutional psychopath", filed at the
 owner's request and revised the same day at the owner's correction. A
 corporation can be an agent (French), fit to be held responsible
@@ -135,7 +143,7 @@ it here.
 - [CLAIM-039](../claims.d/CLAIM-039.md), the owner's (U19–U20); thesis, interpretive, Proposed.
 - [CLAIM-432](../claims.d/CLAIM-432.md), the record's reading of Bakan's thesis, filed and revised
   at the owner's request and correction; thesis, interpretive, Proposed;
-  second line distributed-agency. It answers [QUESTION-265](../questions.d/QUESTION-265.md).
+  first line distributed-agency, then organizational-affect. It answers [QUESTION-265](../questions.d/QUESTION-265.md).
 - [CLAIM-431](../claims.d/CLAIM-431.md), the objection to that reading, revised with it; counter,
   interpretive, Proposed; primary line distributed-agency.
 - [CASE-151](../cases.d/CASE-151.md), documented, from the directors' report read in [NOTE-1095](../notes.d/NOTE-1095.md);

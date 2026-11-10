@@ -6,7 +6,14 @@ formerly:
 title: 'Retrieval that depends on current belief is not a bias in itself: adaptive
   search can be rational when inference accounts for how the evidence was selected,
   and calling a search biased needs a standard outside the search'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Bears on QUESTION-109, whose body cites it: "CLAIM-292 keeps the
+    answer from being 'always bias'". Found when the costs part was
+    checked for a root question (2026-11-10). No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -21,6 +28,8 @@ summary: >-
   it, we'd be using 'anchoring' as a blanket criticism of adaptive search."), and
   said again at A20 §5, A21 §4 and A23 V.E. Sequential experimental design chooses
   its next observation by its current belief and is not thereby biased.
+bears_on:
+- QUESTION-109
 ---
 <!-- inactive-ok-file: CLAIM-190 CLAIM-301 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
