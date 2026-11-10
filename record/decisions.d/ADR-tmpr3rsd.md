@@ -80,9 +80,8 @@ converse when the record is read. Examples are `refined_by`,
 - **It is derived, never stored** (ADR-079). No entry is edited. Every
   page of an integrated entry lists the accounts that integrate it, Current
   or Proposed, once the views are regenerated.
-- **A superseded account still appears.** A version that superseded it
-  appears beside it, with its status. The page shows the account's
-  standing; it does not hide it.
+- **A superseded account still appears, with its status.** The page shows
+  every account that names the entry, and says which are in force.
 
 ## Alternatives considered
 
