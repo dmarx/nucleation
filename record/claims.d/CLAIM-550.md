@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp8e3ye
 title: 'A perspective''s tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,14 @@ history:
     α > 0 that is d ≤ (θ + κ⁻¹ logit ε − b)/α; the bound rises with θ at
     rate 1/α and is negative exactly when b > θ + κ⁻¹ logit ε. That
     raising θ is not relief is CLAIM-347's, its one premise, Active.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 2): the entry takes part
+    in that line's argument: distributed-agency, since it bears on
+    QUESTION-372, which gained the line in an earlier round. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -34,6 +42,7 @@ date: '2026-11-04'
 line:
 - will-organization
 - formal-apparatus
+- distributed-agency
 rests_on:
 - CLAIM-347
 complements:

@@ -4,13 +4,24 @@ status: Open
 formerly:
 - QUESTION-tmpcs4qg
 title: 'Are teasing and reproach individuated by the speaker''s communicative intention, or partly by a frame the parties sustain together and by their standing?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 2): the entry takes part
+    in that line's argument: distributed-agency, since it refines
+    QUESTION-030, which gained the line in an earlier round. No other
+    change.
 tags:
 - pragmatics
 - philosophy-of-language
 - social-ontology
 date: '2026-10-10'
-line: 'pragmatic-transport'
+line:
+- 'pragmatic-transport'
+- distributed-agency
 refines:
 - QUESTION-030
 summary: >-

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpcfxdl
 title: 'Do the process effects of implementation intentions, the immediacy, efficiency under load and running without conscious intent of the planned response and the better detection of its cue, survive correction for publication bias or preregistered replication, and do they mediate goal attainment rather than merely accompany it?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -12,6 +12,14 @@ history:
     Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
     (2026-11-10): the entry takes part in that line's argument:
     distributed-agency, since it refines QUESTION-095. No other change.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 2): the entry takes part
+    in that line's argument: nucleating-argument, since it refines
+    QUESTION-095, which gained the line in an earlier round. No other
+    change.
 tags:
 - motivation
 - cognition
@@ -20,6 +28,7 @@ date: '2026-10-29'
 line:
 - will-organization
 - distributed-agency
+- nucleating-argument
 refines:
 - QUESTION-095
 summary: >-

@@ -6,7 +6,7 @@ formerly:
 title: Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a sufficient
   state for updating on evidence about what it depended on
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -20,6 +20,14 @@ history:
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 3): the entry takes part
+    in that line's argument: pragmatic-transport, since it answers
+    QUESTION-289, which gained the line in an earlier round. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -33,6 +41,7 @@ date: '2026-10-15'
 line:
 - records-of-inquiry
 - formal-apparatus
+- pragmatic-transport
 answers:
 - QUESTION-289
 grounds:

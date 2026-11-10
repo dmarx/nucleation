@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp29kxz
 title: 'When cooperation across a relation''s prevailing perspective changes how one party takes the other, does it change only the state of that party''s interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -26,11 +26,21 @@ history:
     registered Unfetched and noted from its abstract, unread;
     every arm reads a story and none takes part, so the third part
     still has no within-study test. The question is unchanged.
+- version: 5
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 3): the entry takes part
+    in that line's argument: will-organization, since it refines
+    QUESTION-259, which gained the line in an earlier round. No other
+    change.
 tags:
 - social-science
 - complex-systems
 date: '2026-10-22'
-line: distributed-agency
+line:
+- distributed-agency
+- will-organization
 refines:
 - QUESTION-259
 summary: >-

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxuigm
 title: 'A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -36,6 +36,14 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 2): the entry takes part
+    in that line's argument: will-organization, since it bears on
+    QUESTION-090, which gained the line in an earlier round. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +62,7 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
+- will-organization
 rests_on:
 - CLAIM-282
 - CLAIM-375

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbgq5o
 title: 'The record''s grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -32,6 +32,14 @@ history:
     Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's rule
     (2026-11-10): the entry takes part in that line's argument:
     nucleating-argument, since it objects to CLAIM-181. No other change.
+- version: 5
+  date: '2026-11-10'
+  note: >-
+    Carries records-of-inquiry as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 2): the entry takes part
+    in that line's argument: records-of-inquiry, since it objects to
+    CLAIM-181, which gained the line in an earlier round. No other
+    change.
 role: counter
 warrant: empirical
 tags:
@@ -41,6 +49,7 @@ date: '2026-10-22'
 line:
 - record-as-apparatus
 - nucleating-argument
+- records-of-inquiry
 works:
 - luria-nucleating-an-argument
 objects_to:

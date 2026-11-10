@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwi9o5
 title: 'Intending to perform an act, performing it and being recognized as having performed it are distinct, coupled variables: intended meaning is fixed at production, the act partly by roles, standing and norms, and recognition by uptake, so competent uptake is constitutive for some acts, evidential for others and irrelevant to the existence of still others'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -13,6 +13,14 @@ history:
     status review (ADR-057): the title asserts each ("intended meaning is
     fixed at production", "the act partly by roles, standing and norms"),
     so they do a premise's work. The claim is unchanged.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 3): the entry takes part
+    in that line's argument: distributed-agency, since it bears on
+    QUESTION-073, which gained the line in an earlier round. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,7 +33,9 @@ tags:
 - social-ontology
 - pragmatics
 date: '2026-10-12'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- distributed-agency
 rests_on:
 - CLAIM-160
 - CLAIM-151

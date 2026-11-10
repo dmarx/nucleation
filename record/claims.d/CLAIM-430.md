@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmprti7p
 title: 'An interaction can make available a way of relating that its participants'' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 3): the entry takes part
+    in that line's argument: will-organization, since it bears on
+    QUESTION-259, which gained the line in an earlier round. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,6 +31,7 @@ tags:
 date: '2026-10-22'
 line:
 - distributed-agency
+- will-organization
 works:
 - organization-of-perspective
 rests_on:

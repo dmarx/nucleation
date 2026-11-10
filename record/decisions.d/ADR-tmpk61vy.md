@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'An entry carries every line whose argument it takes part in: a line it answers, refines, objects to or bears on through one of that line''s entries; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    At the owner's ruling on the record-wide sweep: the rule is applied
+    until nothing changes. A line an entry gains counts for the entries
+    that answer, refine, object to or bear on it, so the rule cascades.
+    On the record of 2026-11-10 it converged after four rounds (56, 22,
+    12 and 2 entries).
 tags:
 - record
 date: '2026-11-10'
@@ -64,6 +73,10 @@ several values. Carrying both is legitimate where it is apt.
     or a premise of one.
 
   Its first line stays its first, and the added line goes after it.
+- **It is applied until nothing changes (version 2).** A line an entry
+  gains counts like any other, so an entry that refines, answers, objects
+  to or bears on a newly lined entry gains the line too. The owner chose to
+  follow this cascade to its end rather than stop after one step.
 - **Dependency is not participation.** `rests_on`, `grounds` and `uses`
   pointing into another line make a dependency across lines. The `argument`
   chain reports it as a crossing, and it does not add a line.

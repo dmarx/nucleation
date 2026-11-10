@@ -12,14 +12,25 @@ formerly:
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: 'When looking and holding are priced independently and timed per person, do people still prefer re-fetching information that stays in view where it costs more total time?'
 
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 2): the entry takes part
+    in that line's argument: nucleating-argument, since it refines
+    QUESTION-095, which gained the line in an earlier round. No other
+    change.
 tags:
 - embodied-cognition
 - cognition
 date: '2026-10-20'
 
 # REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line: distributed-agency
+line:
+- distributed-agency
+- nucleating-argument
 summary: >-
   The promotion condition formerly on [THEORY-334](../theory.d/THEORY-334.md), moved unchanged when that
   account was narrowed to what Ballard et al. (1997) observed in block

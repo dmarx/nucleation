@@ -12,14 +12,25 @@ formerly:
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Do the released HNSW, NSG and fast-preprocessing DiskANN builds, run independently on Indyk and Xu's published hard instances at the stated parameters, need a search queue of about a tenth of the points before recall@5 rises above zero, and does the same trap appear on natural data with adversarially chosen queries?"
 
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 3): the entry takes part
+    in that line's argument: nucleating-argument, since it refines
+    QUESTION-114, which gained the line in an earlier round. No other
+    change.
 tags:
 - databases
 - information-retrieval
 date: '2026-10-20'
 
 # REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line: 'distributed-agency'
+line:
+- 'distributed-agency'
+- nucleating-argument
 
 # refines: [QUESTION-000]   # the broader question this sharpens
 

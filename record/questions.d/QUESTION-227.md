@@ -12,14 +12,25 @@ formerly:
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Does the widen-on-push, narrow-on-fetch rule for a cached interval's width converge to within a stated factor of the best fixed width, and does it hold its cost against the best fixed width and an adaptive cache-or-not rule on data other than its authors' traces?"
 
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries nucleating-argument as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 3): the entry takes part
+    in that line's argument: nucleating-argument, since it refines
+    QUESTION-114, which gained the line in an earlier round. No other
+    change.
 tags:
 - databases
 - operations-research
 date: '2026-10-20'
 
 # REQUIRED: the line of inquiry, from `lines` in luria.yaml.
-line: 'distributed-agency'
+line:
+- 'distributed-agency'
+- nucleating-argument
 
 summary: >-
   The promotion condition formerly on [THEORY-377](../theory.d/THEORY-377.md). [THEORY-377](../theory.d/THEORY-377.md) was narrowed to

@@ -4,19 +4,28 @@ status: Open
 formerly:
 - QUESTION-tmp5fubd
 title: 'Is delete-and-rederive correct for recursive Datalog views with stratified negation and aggregation, and how large is its overestimate of deletions against the deletions actually needed?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 2): the entry takes part
+    in that line's argument: pragmatic-transport, since it refines
+    QUESTION-105, which gained the line in an earlier round. No other
+    change.
 tags:
 - databases
 - logic
 date: '2026-10-19'
 line:
 - records-of-inquiry
+- pragmatic-transport
 refines:
 - QUESTION-105
 summary: >-

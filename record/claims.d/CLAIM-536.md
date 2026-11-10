@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphbnqm
 title: 'A categorical model of perspectives and an LDA-style model differ in where the mixture lives: the first draws every act''s perspective from one fixed categorical distribution, the second gives each episode its own mixture, drawn from a Dirichlet, and draws each act from it; the Dirichlet is a distribution over mixtures, not the perspectives themselves, and with symmetric concentration a over K perspectives two acts in one episode share a perspective with probability (a + 1)/(Ka + 1) against 1/K across episodes, so the concentration runs from one perspective per episode, as in persona selection (a → 0), to a fresh independent draw for every act (a → ∞)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -12,6 +12,14 @@ history:
     Carries distributed-agency as well, at the sweep of ADR-tmpk61vy's rule
     (2026-11-10): the entry takes part in that line's argument:
     distributed-agency, since it bears on QUESTION-276. No other change.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries will-organization as well, at the sweep of ADR-tmpk61vy's
+    rule followed to its end (2026-11-10, round 4): the entry takes part
+    in that line's argument: will-organization, since it bears on
+    QUESTION-276, which gained the line in an earlier round. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -29,6 +37,7 @@ line:
 - learned-structure
 - formal-apparatus
 - distributed-agency
+- will-organization
 grounds:
 - LIT-1948
 complements:
