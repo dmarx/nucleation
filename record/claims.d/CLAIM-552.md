@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgjdby
 title: 'A perspective''s tolerance for another process''s contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective''s own, so inside its tolerance the perspective''s interventions raise the other''s share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,14 @@ history:
     CLAIM-553 keeps apart from CLAIM-550's activation sense; CLAIM-550's
     non-activation region is "not automatically an endorsement region",
     which this claim does not contradict.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Drops `uses: TERM-064` at the lint sweep of 2026-11-10: the entry
+    never speaks of legibility. What it says of a perspective, that it
+    measures discrepancy by its own priorities, is about which
+    discrepancies count as significant, not whether a distinction can be
+    recovered. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,7 +55,6 @@ uses:
 - TERM-103
 - TERM-101
 - TERM-060
-- TERM-064
 bears_on:
 - QUESTION-270
 summary: >-
@@ -65,6 +72,7 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- ref::uses-file: TERM-060 — "grants can be jointly frustrated" when no attainable arrangement meets every ordered pair's acceptance relation is TERM-060's frustration -->
 
 # CLAIM-552: A perspective's tolerance for another process's contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective's own, so inside its tolerance the perspective's interventions raise the other's share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it
 
