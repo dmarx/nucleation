@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpga1fv
 title: 'What is the least an evolving inquiry must retain, beyond its current conclusions and a closed belief set, which do not fix its revisions, to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -20,12 +20,21 @@ history:
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names:
+    pragmatic-transport, since it refines QUESTION-003. No other
+    change.
 tags:
 - epistemology
 - information-theory
 date: '2026-10-15'
 line:
 - records-of-inquiry
+- pragmatic-transport
 refines:
 - QUESTION-003
 summary: >-

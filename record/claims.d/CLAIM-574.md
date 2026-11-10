@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg7w69
 title: 'Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,14 @@ history:
     averaged-distortion counterexample step by step. THEORY-354 moved from
     grounds to corroborated_by (ADR-058): the body cites its access result
     as one of the record's instances, and the proof does not use it.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names:
+    pragmatic-transport, since it bears on QUESTION-031. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -39,6 +47,7 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- pragmatic-transport
 rests_on:
 - CLAIM-264
 grounds:

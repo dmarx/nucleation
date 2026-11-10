@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpkogzd
 title: 'In tolerance-bounded compatibility on a graph with disturbed offsets, |Dx − a₀ − w| ≤ δ for |w_e| ≤ η_e, a compatible configuration exists for every disturbance exactly when |cᵀa₀| + Σ η_e|c_e| ≤ Σ δ_e|c_e| on every cycle, and one configuration serves every disturbance exactly when η ≤ δ and |cᵀa₀| ≤ Σ(δ_e − η_e)|c_e|; an agent that chooses its configuration from what it observes needs the second condition within each class of disturbances it cannot tell apart, so whether a compatible state can be selected lies between the two and depends on what the agent can read'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: distributed-agency,
+    since it bears on QUESTION-282. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -18,6 +26,7 @@ date: '2026-11-03'
 line:
 - will-organization
 - formal-apparatus
+- distributed-agency
 rests_on:
 - CLAIM-538
 uses:

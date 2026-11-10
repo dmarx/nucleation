@@ -4,12 +4,22 @@ status: Open
 formerly:
 - QUESTION-tmpm85pz
 title: 'Do post-delisting census data for the Kirtland''s Warbler show breeding-male numbers tracking the area of plantation habitat supplied, holding at a lower level when that area is reduced and not returning to the earlier level without the area being restored, with winter conditions accounted for?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries realizability as well, at the sweep of ADR-085's rule
+    (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: realizability,
+    since it bears on QUESTION-398. No other change.
 tags:
 - ecology
 - natural-sciences
 date: '2026-11-06'
-line: readiness
+line:
+- readiness
+- realizability
 bears_on:
 - QUESTION-398
 summary: >-

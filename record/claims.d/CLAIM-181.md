@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpas8q0
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-29'
@@ -52,6 +52,13 @@ history:
     line when it answers, refines or objects to one of that line's
     entries, and it objects to CLAIM-176, so it belongs to that claim's
     thread. No other change.
+- version: 7
+  date: '2026-11-10'
+  note: >-
+    Carries records-of-inquiry as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: records-of-inquiry,
+    since it objects to CLAIM-178. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -61,6 +68,7 @@ date: '2026-10-11'
 line:
 - record-as-apparatus
 - nucleating-argument
+- records-of-inquiry
 works:
 - luria-nucleating-an-argument
 objects_to:

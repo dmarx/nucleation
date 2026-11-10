@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpa8ttt
 title: 'For an organization whose response in each probe context is the authority-weighted mixture of its processes'' known response profiles, the authority shares are identifiable from a set of contexts exactly when the processes'' stacked profiles over those contexts are affinely independent; because the response is linear in the shares, local and global identifiability coincide, the condition is that the Fisher information of any design supported on those contexts is positive definite on the simplex''s tangent space, and with binary outcomes at least one context fewer than there are processes is needed'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -15,6 +15,14 @@ history:
     duplicated and affinely dependent profiles included: the affine
     condition and the positive-definiteness of the design's Fisher
     information agreed in every case.
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names:
+    pragmatic-transport, since it answers QUESTION-272. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -30,6 +38,7 @@ date: '2026-10-25'
 line:
 - formal-apparatus
 - distributed-agency
+- pragmatic-transport
 grounds:
 - CASE-159
 - THEORY-956

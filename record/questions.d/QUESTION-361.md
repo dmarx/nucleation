@@ -4,12 +4,23 @@ status: Open
 formerly:
 - QUESTION-tmp4b001
 title: 'Is an organization''s recursive production usefully understood as self-distillation, each realization generating a specification of its own effective organization that constrains how its successor is built, and if so, what makes the distillation the organization''s own rather than run by an outside optimizer, and what makes a successor a good teacher as well as a faithful student?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Carries pragmatic-transport as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names:
+    pragmatic-transport, since it refines QUESTION-016. No other
+    change.
 tags:
 - individuation
 - learning-theory
 date: '2026-10-31'
-line: distributed-agency
+line:
+- distributed-agency
+- pragmatic-transport
 refines:
 - QUESTION-016
 summary: >-

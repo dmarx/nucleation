@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnjz70
 title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-07'
@@ -49,6 +49,13 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Proposed becoming Proposed. The synthesis's own history stays on
     SYNTHESIS-005.
+- version: 6
+  date: '2026-11-10'
+  note: >-
+    Carries learned-structure as well, at the sweep of ADR-085's
+    rule (2026-11-10): the entry takes part in that line's argument,
+    through the first line of an entry it names: learned-structure,
+    since it bears on QUESTION-360. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,6 +80,7 @@ line:
 - pragmatic-transport
 - will-organization
 - distributed-agency
+- learned-structure
 rests_on:
 - CLAIM-615
 - CLAIM-336
