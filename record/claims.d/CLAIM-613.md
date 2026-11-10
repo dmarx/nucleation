@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7fzb9
 title: "A fork can be the construction of a new organization through which a disposition that the parent's governance kept ineffective gains efficacy, and not only one of several successors of the parent"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -17,6 +17,13 @@ history:
     CLAIM-328 is added to complements, and the body's "continuity of an
     organization can branch" now separates CLAIM-328's collectives from
     CLAIM-287's self. The claim's substance is unchanged.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-041, a
+    question of that line. Found by the lint sweep of 2026-11-10 as a
+    `rests_on` step across lines. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,6 +43,7 @@ tags:
 date: '2026-11-07'
 line:
 - will-organization
+- distributed-agency
 rests_on:
 - CLAIM-047
 - CLAIM-287

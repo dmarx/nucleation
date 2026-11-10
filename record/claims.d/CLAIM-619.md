@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmplgp4k
 title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers'' access and incentives'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -17,6 +17,13 @@ history:
     from masking or a change of access; defeated_if says the claim does
     not rest on which; the body's section on finking is rewritten. The
     mechanism, inversion and the test are unchanged.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Carries distributed-agency as well, at ADR-tmpk61vy: the entry takes
+    part in that line's argument, since it bears on QUESTION-441, a
+    question of that line. Found by the lint sweep of 2026-11-10 as a
+    `rests_on` step across lines. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +47,7 @@ tags:
 date: '2026-11-07'
 line:
 - will-organization
+- distributed-agency
 rests_on:
 - CLAIM-402
 - CLAIM-406
