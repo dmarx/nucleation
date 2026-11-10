@@ -324,9 +324,9 @@ Everything not listed here is at Luria's default.
 | `stale_days` | `14` | `90` |
 | `reliance` | `rests_on`, `grounds`, `uses`, `presupposes` | *empty* |
 | `load_bearing` | `5` | `None` |
-| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch`, `inverted_premise`, `inverted_ground`, `current_account_on_superseded_claim`, `current_account_on_superseded_account`, `answered_but_open`, `answered_but_open_reading`, `read_but_unreached`, `read_but_unfetched`, `read_but_unreviewed` | *empty* |
+| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch`, `inverted_premise`, `inverted_ground`, `current_account_on_superseded_claim`, `current_account_on_superseded_account`, `answered_but_open`, `answered_but_open_reading`, `read_but_unreached`, `read_but_unfetched`, `read_but_unreviewed`, `unbounded-acknowledgements` | *empty* |
 | `lint.mute` | `inert-status`, `acknowledged-uniformity` | *empty* |
-| `lint.baseline` | *1 key set* | *empty* |
+| `repair.prune_stale` | `True` | `False` |
 | `vocabularies.topics` | *4 keys set* | *unset* |
 | `vocabularies.lit-statuses` | *4 keys set* | *unset* |
 | `vocabularies.note-statuses` | *4 keys set* | *unset* |

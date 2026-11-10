@@ -1,6 +1,6 @@
 ### Added
 
-- [ADR-tmpk61vy](record/decisions.d/ADR-tmpk61vy.md) (Proposed): an entry carries every line whose argument it takes part in, meaning a line it answers, refines, objects to or bears on through one of that line's entries. Resting on or using another line's entry is a dependency, still reported as a crossing, and `complements` alone adds no line. [ADR-082](record/decisions.d/ADR-082.md)'s rule for the nucleating-argument split is this rule applied to a split.
+- [ADR-085](record/decisions.d/ADR-085.md) (Proposed): an entry carries every line whose argument it takes part in, meaning a line it answers, refines, objects to or bears on through one of that line's entries. Resting on or using another line's entry is a dependency, still reported as a crossing, and `complements` alone adds no line. [ADR-082](record/decisions.d/ADR-082.md)'s rule for the nucleating-argument split is this rule applied to a split.
 
 ### Changed
 
