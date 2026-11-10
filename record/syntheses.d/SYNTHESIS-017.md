@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpnakke
 title: 'What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    CLAIM-181 added as a component after ADR-085's sweep gave it this
+    line, since it objects to CLAIM-178. Its objection is set out with
+    CLAIM-178, where CLAIM-178's own limit already states it, and the
+    count of pairs within and across the line's two candidate parts is
+    redone with it. Nothing else changes.
 defeated_if: >-
   A component misstated or misattributed
   here; an in-force component whose line is records-of-inquiry left out
@@ -20,6 +29,7 @@ line:
 - records-of-inquiry
 integrates:
 - CLAIM-178
+- CLAIM-181
 - CLAIM-189
 - CLAIM-250
 - CLAIM-293
@@ -44,7 +54,7 @@ integrates:
 - QUESTION-288
 - QUESTION-289
 ---
-<!-- inactive-ok-file: CLAIM-178 CLAIM-189 CLAIM-250 CLAIM-191 CLAIM-295 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-178 CLAIM-181 CLAIM-189 CLAIM-250 CLAIM-191 CLAIM-295 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as A6 cited it -->
 <!-- inactive-ok-file: QUESTION-288 QUESTION-289 — Answered; components and citations, with their standing -->
 
@@ -55,7 +65,11 @@ integrates:
 A developing argument drops things legitimately, so a record of it cannot
 aim at preservation: what it can secure is "change that is announced and
 located" ([CLAIM-189](../claims.d/CLAIM-189.md)), and a manuscript is then a view checked against
-that record rather than the argument's only copy ([CLAIM-178](../claims.d/CLAIM-178.md)). The
+that record rather than the argument's only copy ([CLAIM-178](../claims.d/CLAIM-178.md)). CLAIM-181
+objects that the record's grammar is closed: a move that fits none of its
+schemes or relations "is forced into one or lost until the misfit is
+noticed". CLAIM-178 has taken that in as a limit: "The record shows what
+was dropped only of what it held." The
 interlocutor's reading gives traceability an object: "the relevant
 fidelity object is different", the accountability structure of what was
 asserted, why, how it was challenged and what justified its revision
@@ -96,6 +110,10 @@ preserve ([QUESTION-258](../questions.d/QUESTION-258.md)).
 - [CLAIM-178](../claims.d/CLAIM-178.md), the assistant's, thesis, interpretive, Proposed: a
   manuscript is a view over the argument, not its only copy; rests on
   [CLAIM-177](../claims.d/CLAIM-177.md) and [CLAIM-324](../claims.d/CLAIM-324.md) of nucleating-argument.
+- CLAIM-181, the assistant's, narrowed at the owner's correction of
+  2026-10-11; counter, Proposed; first line record-as-apparatus, and in
+  nucleating-argument. Objects to CLAIM-178 (and CLAIM-176). CLAIM-178's
+  version 2 writes its limit into what CLAIM-178 does not say.
 - [CLAIM-189](../claims.d/CLAIM-189.md), the assistant's (filed with [CLAIM-191](../claims.d/CLAIM-191.md) as its counter),
   counter, interpretive, Proposed: traceability, not preservation.
 - [CLAIM-250](../claims.d/CLAIM-250.md), the interlocutor's reading relayed by the owner, thesis,
@@ -178,11 +196,12 @@ either's body or summary, and splitting the line into the formal results
 (the four demonstrated claims, [CLAIM-295](../claims.d/CLAIM-295.md), [CASE-082](../cases.d/CASE-082.md), [CASE-084](../cases.d/CASE-084.md), [CASE-089](../cases.d/CASE-089.md),
 [CASE-091](../cases.d/CASE-091.md), [CASE-093](../cases.d/CASE-093.md) and the seven questions on retention and sufficiency)
 and the normative and manuscript entries ([CLAIM-178](../claims.d/CLAIM-178.md), [CLAIM-189](../claims.d/CLAIM-189.md),
-[CLAIM-250](../claims.d/CLAIM-250.md), [CASE-086](../cases.d/CASE-086.md), [CASE-090](../cases.d/CASE-090.md), [QUESTION-258](../questions.d/QUESTION-258.md)): 27 pairs within the first,
-7 within the second, and 11 across. The 11 are [CLAIM-250](../claims.d/CLAIM-250.md) with five of
+[CLAIM-250](../claims.d/CLAIM-250.md), [CASE-086](../cases.d/CASE-086.md), [CASE-090](../cases.d/CASE-090.md), [QUESTION-258](../questions.d/QUESTION-258.md), and since version 2
+CLAIM-181): 27 pairs within the first, 8 within the second, and 13
+across. The 13 are [CLAIM-250](../claims.d/CLAIM-250.md) with five of
 the formal claims, [CLAIM-189](../claims.d/CLAIM-189.md) with [CLAIM-299](../claims.d/CLAIM-299.md), [CASE-086](../cases.d/CASE-086.md) and [CASE-090](../cases.d/CASE-090.md) with
-[CLAIM-295](../claims.d/CLAIM-295.md), [CASE-086](../cases.d/CASE-086.md) with [CASE-089](../cases.d/CASE-089.md), and [QUESTION-258](../questions.d/QUESTION-258.md) with [CLAIM-293](../claims.d/CLAIM-293.md) and
-[CLAIM-299](../claims.d/CLAIM-299.md). [QUESTION-188](../questions.d/QUESTION-188.md) and [QUESTION-225](../questions.d/QUESTION-225.md) attach only through
+[CLAIM-295](../claims.d/CLAIM-295.md), [CASE-086](../cases.d/CASE-086.md) with [CASE-089](../cases.d/CASE-089.md), [QUESTION-258](../questions.d/QUESTION-258.md) with [CLAIM-293](../claims.d/CLAIM-293.md) and
+[CLAIM-299](../claims.d/CLAIM-299.md), and CLAIM-181 with CLAIM-299 and CASE-084, which name it. [QUESTION-188](../questions.d/QUESTION-188.md) and [QUESTION-225](../questions.d/QUESTION-225.md) attach only through
 [QUESTION-105](../questions.d/QUESTION-105.md), which they refine. [QUESTION-229](../questions.d/QUESTION-229.md) is in neither part and has
 no link to any component.
 
