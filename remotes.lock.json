@@ -17,11 +17,17 @@
     "ARXIV/0809.3275": {
       "title": "Local information transfer as a spatiotemporal filter for complex systems"
     },
+    "ARXIV/0810.0812": {
+      "title": "A new description of orthogonal bases"
+    },
     "ARXIV/0811.1067": {
       "title": "Statistical ranking and combinatorial Hodge theory"
     },
     "ARXIV/0905.3174": {
       "title": "Angular Synchronization by Eigenvectors and Semidefinite Programming"
+    },
+    "ARXIV/0906.2530": {
+      "title": "Observed Universality of Phase Transitions in High-Dimensional Geometry, with Implications for Modern Data Analysis and Signal Processing"
     },
     "ARXIV/0909.2386": {
       "title": "Localness of energy cascade in hydrodynamic turbulence, I. Smooth coarse-graining"
@@ -98,6 +104,12 @@
     "ARXIV/1308.0554": {
       "title": "Topological Boundary Modes in Isostatic Lattices"
     },
+    "ARXIV/1309.6605": {
+      "title": "Symmetries, Cluster Synchronization, and Isolated Desynchronization in Complex Networks"
+    },
+    "ARXIV/1311.2852": {
+      "title": "Quantifying unique information"
+    },
     "ARXIV/1312.4524": {
       "title": "A Computational Trichotomy for Connectivity of Boolean Satisfiability"
     },
@@ -140,6 +152,9 @@
     "ARXIV/1503.05756": {
       "title": "Lattice Mechanics of Origami Tessellations"
     },
+    "ARXIV/1503.08766": {
+      "title": "A discrete approach to stochastic parametrization and dimensional reduction in nonlinear dynamics"
+    },
     "ARXIV/1504.05625": {
       "title": "A Compositional Framework for Passive Linear Networks"
     },
@@ -148,6 +163,9 @@
     },
     "ARXIV/1506.03022": {
       "title": "The Majority Illusion in Social Networks"
+    },
+    "ARXIV/1506.06374": {
+      "title": "What can ecosystems learn? Expanding evolutionary ecology with learning theory"
     },
     "ARXIV/1507.01644": {
       "title": "Rigid Origami Vertices: Conditions and Forcing Sets"
@@ -320,6 +338,9 @@
     "ARXIV/1801.09088": {
       "title": "Decay of Benjamin - Ono solitons under the influence of dissipation"
     },
+    "ARXIV/1802.03690": {
+      "title": "On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups"
+    },
     "ARXIV/1802.05438": {
       "title": "Mean Field Multi-Agent Reinforcement Learning"
     },
@@ -470,6 +491,9 @@
     "ARXIV/2002.10689": {
       "title": "A Theory of Usable Information Under Computational Constraints"
     },
+    "ARXIV/2004.08220": {
+      "title": "Reconciling emergences: An information-theoretic approach to identify causal emergence in multivariate data"
+    },
     "ARXIV/2004.09468": {
       "title": "Real World Games Look Like Spinning Tops"
     },
@@ -494,11 +518,17 @@
     "ARXIV/2006.05013": {
       "title": "A Random Matrix Analysis of Random Fourier Features: Beyond the Gaussian Kernel, a Precise Phase Transition, and the Corresponding Double Descent"
     },
+    "ARXIV/2006.14741": {
+      "title": "Getting to the Bottom of Noether's Theorem"
+    },
     "ARXIV/2006.15543": {
       "title": "Stable Facts, Relative Facts"
     },
     "ARXIV/2007.01367": {
       "title": "Lecture Notes on Control System Theory and Design"
+    },
+    "ARXIV/2008.10150": {
+      "title": "Contrastive learning, multi-view redundancy, and linear models"
     },
     "ARXIV/2008.11865": {
       "title": "Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra"
@@ -538,6 +568,9 @@
     },
     "ARXIV/2102.13036": {
       "title": "Kochen-Specker Contextuality"
+    },
+    "ARXIV/2102.13042": {
+      "title": "Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling"
     },
     "ARXIV/2103.07469": {
       "title": "General probabilistic theories: An introduction"
@@ -584,6 +617,9 @@
     "ARXIV/2110.03789": {
       "title": "Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding"
     },
+    "ARXIV/2110.06296": {
+      "title": "The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks"
+    },
     "ARXIV/2110.11914": {
       "title": "Effect of delay on the emergent stability patterns in Generalized Lotka-Volterra ecological dynamics"
     },
@@ -610,6 +646,9 @@
     },
     "ARXIV/2202.05262": {
       "title": "Locating and Editing Factual Associations in GPT"
+    },
+    "ARXIV/2202.12837": {
+      "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?"
     },
     "ARXIV/2202.13460": {
       "title": "Conditional Simulation Using Diffusion Schr\u00f6dinger Bridges"
@@ -646,6 +685,9 @@
     },
     "ARXIV/2206.08911": {
       "title": "The Combinatorics of Causality"
+    },
+    "ARXIV/2206.09777": {
+      "title": "Actively learning to learn causal relationships"
     },
     "ARXIV/2206.12691": {
       "title": "Explicit kinematic equations for degree-4 rigid origami vertices, Euclidean and non-Euclidean"
@@ -697,6 +739,9 @@
     },
     "ARXIV/2212.13490": {
       "title": "Efficient method for calculating the eigenvalue of the Zakharov-Shabat system"
+    },
+    "ARXIV/2301.13826": {
+      "title": "Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models"
     },
     "ARXIV/2302.01469": {
       "title": "Ultraviolet superradiance from mega-networks of tryptophan in biological architectures"
@@ -760,6 +805,9 @@
     },
     "ARXIV/2308.06671": {
       "title": "Noise Balance and Stationary Distribution of Stochastic Gradient Descent"
+    },
+    "ARXIV/2308.08708": {
+      "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness"
     },
     "ARXIV/2308.10618": {
       "title": "Linking fast and slow: the case for generative models"
@@ -865,6 +913,9 @@
     },
     "ARXIV/2407.04620": {
       "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States"
+    },
+    "ARXIV/2407.11498": {
+      "title": "Thermodynamic Space of Chemical Reaction Networks"
     },
     "ARXIV/2408.03314": {
       "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters"
@@ -1061,6 +1112,9 @@
     "ARXIV/2509.07999": {
       "title": "The Computational Foundations of Collective Intelligence"
     },
+    "ARXIV/2509.10061": {
+      "title": "Semantic Rate-Distortion Theory with Applications"
+    },
     "ARXIV/2509.11348": {
       "title": "On Linear Mode Connectivity of Mixture-of-Experts Architectures"
     },
@@ -1069,6 +1123,9 @@
     },
     "ARXIV/2510.02649": {
       "title": "Engineering Emergence"
+    },
+    "ARXIV/2510.02670": {
+      "title": "Topological Invariance and Breakdown in Learning"
     },
     "ARXIV/2510.05831": {
       "title": "Phase locking and multistability in the topological Kuramoto model on cell complexes"
@@ -1123,6 +1180,9 @@
     },
     "ARXIV/2604.14848": {
       "title": "Emergence of Open Chemical Reaction Network Thermodynamics within Closed Systems"
+    },
+    "ARXIV/2604.20453": {
+      "title": "Generalised Langevin Dynamics: Significance and Limitations of the Projection Operator Formalism"
     },
     "ARXIV/2605.05421": {
       "title": "Policies for the Operation of an Ambulance Fleet under Uncertainty based on a New Preparedness Metric"
