@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    At the split of readiness (ADR-tmptlkel), the third part became the
+    line transient-support. The introduction and the heading of the links
+    across say so; the components and links are unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the keeping-and-judging part of the readiness line left out without a
@@ -50,8 +57,9 @@ integrates:
 
 *A part account of the readiness line: the part filed from the exchange on
 emergency readiness and its bibliography (2026-11-04), with what later
-filings added to it. The line's account is built over it and its two
-sibling parts.*
+filings added to it. The line's account is built over it and its sibling
+part. A third part, withdrawing transient support, became the line
+transient-support at the split of readiness (ADR-tmptlkel).*
 
 ## The account
 
@@ -176,7 +184,7 @@ them here, and each reaches the part only through a reading.
   TERM-113 calls coverage a proxy objective in TERM-108's sense; TERM-108
   sets misalignment apart from the ratchet of TERM-110.
 
-## Links across to the sibling parts, stated
+## Links across to the sibling part and to transient-support, stated
 
 - **To the reaching part.** CLAIM-572 (Active) complements CLAIM-561:
   "Sending the general response early is the hedge at o = 0." CLAIM-569
@@ -189,7 +197,7 @@ them here, and each reaches the part only through a reading.
   QUESTION-394's note names A's simulator as its cheapest test. TERM-106
   refines TERM-107, and TERM-110's revision rule is what CASE-200's cut
   on unspent funds is.
-- **To the support part.** CLAIM-558 complements CLAIM-602 and
+- **To transient-support (SYNTHESIS-tmprhzl8).** CLAIM-558 complements CLAIM-602 and
   corroborates CLAIM-600. QUESTION-386's note: "In CLAIM-602, funding
   that pays for the work rather than for the organization doing it
   selects substitution, which lowers the capacity kept." CLAIM-632 says a

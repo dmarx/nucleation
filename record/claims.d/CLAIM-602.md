@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoh07b
 title: "Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -29,6 +29,14 @@ history:
     twenty-fifth status review re-ran
     scratch/formal/supplied_maintenance_toys.py and checked the
     shortfall figures it does not assert.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. It keeps readiness beside it, because it bears
+    on QUESTION-386, whose first line is readiness (ADR-085). No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -48,8 +56,9 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- readiness
+- transient-support
 - realizability
+- readiness
 complements:
 - CLAIM-597
 - CLAIM-604

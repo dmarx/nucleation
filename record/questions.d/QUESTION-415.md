@@ -4,11 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmpb1gyb
 title: 'Does an independent study of large, exogenous, unconditional windfalls in US administrative data, from lotteries or another as-good-as-random source, find over a multi-year horizon a marginal propensity to earn out of unearned income of roughly −0.5, the windfall largely smoothed rather than spent at once, a per-dollar earnings response rising with pre-win income and falling with prize size, and no increase in self-employment with profits above about $15,000?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1498](../theory.d/THEORY-1498.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'An

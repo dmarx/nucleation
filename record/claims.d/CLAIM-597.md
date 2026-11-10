@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmps9wa1
 title: 'Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both illustrate'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -31,6 +31,12 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: distributed-agency,
     since it bears on QUESTION-090. No other change.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,7 +53,7 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- readiness
+- transient-support
 - realizability
 - distributed-agency
 complements:

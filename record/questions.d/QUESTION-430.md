@@ -4,12 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpukxgj
 title: 'Does an independent study using randomly sized windfalls, in another lottery, state or period, find that large winners'' lower rate of bankruptcy in the first two years or so after winning is offset by a higher rate later, leaving no detectable difference over about five years, and that large winners who file have net assets and unsecured debt like small winners who file?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1490](../theory.d/THEORY-1490.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'An

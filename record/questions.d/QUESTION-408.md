@@ -4,13 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmp07gio
 title: 'Is the positive interaction of R&D intensity with distance to the productivity frontier on productivity growth replicated in an independent industry or firm panel, or under an external instrument for R&D, with absorption still near or above half of R&D''s return at about half the frontier''s productivity?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 date: '2026-11-06'
 line:
 - realizability
-- readiness
+- transient-support
 summary: >-
   The independent test and the refutation clauses formerly in
   [THEORY-1523](../theory.d/THEORY-1523.md)'s promotion condition, moved here when the twenty-eighth

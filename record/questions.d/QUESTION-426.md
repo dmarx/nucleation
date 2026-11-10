@@ -4,14 +4,21 @@ status: Open
 formerly:
 - QUESTION-tmpl3rft
 title: 'Does a replication or long-run follow-up of Moving to Opportunity, or of another randomized housing-mobility programme, again find adult earnings gains for children who moved young, declining with age at move, and no earnings gain for the adults moved?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
 line:
 - realizability
-- readiness
+- transient-support
 summary: >-
   The independent test and the refutation clauses formerly in
   [THEORY-1508](../theory.d/THEORY-1508.md)'s promotion condition, moved here when the twenty-eighth

@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period''s spending loses every transition that needs slack with no sign in output'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    At the split of readiness (ADR-tmptlkel), the third part became the
+    line transient-support. The introduction and the heading of the links
+    across say so; the components and links are unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the reaching-and-paying part of the readiness line left out without a
@@ -49,7 +56,9 @@ integrates:
 synthesis on constraint architectures (2026-11-04) and the assistant's
 propositions offered after it. Most of its entries also carry
 realizability, where four of its claims are first. The line's account is
-built over it and its two sibling parts.*
+built over it and its sibling part. A third part, withdrawing transient
+support, became the line transient-support at the split of readiness
+(ADR-tmptlkel).*
 
 ## The account
 
@@ -174,7 +183,7 @@ built over it and its two sibling parts.*
   and acting "is a transition with its own threshold, as in CLAIM-571,
   but in budget space rather than configuration space".
 
-## Links across to the sibling parts, stated
+## Links across to the sibling part and to transient-support, stated
 
 - **To the keeping part.** CLAIM-572 complements CLAIM-561; CLAIM-569
   bears on QUESTION-395 and QUESTION-386; CASE-200 is "one mechanism for
@@ -183,7 +192,7 @@ built over it and its two sibling parts.*
   record's case of a deadline-constrained extrication"; TERM-106 sets
   itself apart from TERM-110's revision rule and from TERM-112, and calls
   its operational reserve one input to readiness (TERM-115).
-- **To the support part.** CLAIM-601 uses TERM-105, reading a savings
+- **To transient-support (SYNTHESIS-tmprhzl8).** CLAIM-601 uses TERM-105, reading a savings
   buffer as a replenishable reserve whose depth sets a deadline.
 
 ## Not stated on the record

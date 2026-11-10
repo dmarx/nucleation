@@ -4,14 +4,21 @@ status: Open
 formerly:
 - QUESTION-tmpja1b8
 title: 'Does a replication of Knack''s cross-country estimates, with better-justified instruments and reported first stages, or with country panels and fixed effects, again find that higher aid goes with smaller gains in governance, more so for technical assistance, not depending on initial governance and less so where aid is variable?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - society-and-governance
 - social-science
 date: '2026-11-06'
 line:
 - realizability
-- readiness
+- transient-support
 summary: >-
   The independent test and the refutation clauses formerly in
   [THEORY-1517](../theory.d/THEORY-1517.md)'s promotion condition, moved here when the twenty-eighth

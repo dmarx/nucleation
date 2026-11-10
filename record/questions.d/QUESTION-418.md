@@ -4,12 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpdmspt
 title: 'Does a meta-analysis pooling randomized evaluations of cash transfers in low- and middle-income countries find a pooled effect on household alcohol and tobacco spending that is zero or negative, with an upper confidence bound that excludes more than a trivial increase, and no significant difference between conditional and unconditional programs?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1494](../theory.d/THEORY-1494.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'A

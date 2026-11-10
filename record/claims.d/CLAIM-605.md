@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6t2vz
 title: "Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,12 @@ history:
     re-ran scratch/formal/capability_trap_toy.py and checked by the
     comparison principle that a slower taper never leaves more
     capacity.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,7 +49,7 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- readiness
+- transient-support
 - realizability
 rests_on:
 - CLAIM-602

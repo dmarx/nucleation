@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpqa0qu
 title: "A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -24,6 +24,12 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: distributed-agency,
     since it bears on QUESTION-277. No other change.
+- version: 5
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,7 +49,7 @@ tags:
 date: '2026-11-05'
 line:
 - realizability
-- readiness
+- transient-support
 - distributed-agency
 rests_on:
 - CLAIM-602

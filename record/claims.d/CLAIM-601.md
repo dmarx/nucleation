@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpit7m9
 title: "A savings buffer is a stock of time: where shocks must be absorbed or a household is ruined, an investment that pays only after a delay is worth taking only above a buffer that rises with the delay, so households with the same preferences decline profitable delayed investments below it, a choice that reads as impatience and is the right policy for survival by a deadline; covering needs through the delay buys the time"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,12 @@ history:
     the model fits, move from grounds to corroborated_by (ADR-058).
     The twenty-fifth status review re-ran
     scratch/formal/deprivation_horizon_toy.py.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -37,7 +43,7 @@ tags:
 - society-and-governance
 date: '2026-11-05'
 line:
-- readiness
+- transient-support
 - realizability
 uses:
 - TERM-105
