@@ -21,7 +21,7 @@ summary: >-
   counting body citations as use by text search; `objects_to` or
   `corroborates` stretched to cover it.
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 ADR-090 — Proposed; the reading review, its recurring cases and the view this decision extends -->
+<!-- inactive-ok-file: ADR-093 ADR-090 — Proposed; the reading review, its recurring cases and the view this decision extends -->
 
 # ADR-tmppj46c: A reading that marks the limit of a claim's scope, cited as such in the claim's own text, carries `bounds` to the claim, and the claim's `bounded_by` is derived; it is neither support nor objection
 
@@ -29,20 +29,20 @@ summary: >-
 
 A claim of the record says what it holds and, in its "What it does not
 say" section, its scope statement or its `defeated_if`, what it does not.
-It often cites a reading to mark that limit: CLAIM-342 cites Weatherall,
-O'Connor and Bruner's network model (THEORY-845) to bound its scope;
-CLAIM-276 cites a reading for "regimes where consensus does track the
-truth"; CLAIM-604 and CLAIM-521 cite THEORY-1273's metastability to bound
+It often cites a reading to mark that limit: [CLAIM-342](../claims.d/CLAIM-342.md) cites Weatherall,
+O'Connor and Bruner's network model ([THEORY-845](../theory.d/THEORY-845.md)) to bound its scope;
+[CLAIM-276](../claims.d/CLAIM-276.md) cites a reading for "regimes where consensus does track the
+truth"; [CLAIM-604](../claims.d/CLAIM-604.md) and [CLAIM-521](../claims.d/CLAIM-521.md) cite [THEORY-1273](../theory.d/THEORY-1273.md)'s metastability to bound
 theirs.
 
 The record had no relation for this. A reading reaches a claim by
 `grounds` (the claim needs it) or `corroborates` (independent support,
-ADR-058). A claim reaches another by `objects_to` (rebut or undermine).
+[ADR-058](ADR-058.md)). A claim reaches another by `objects_to` (rebut or undermine).
 A limit is none of these: the claim does not rest on it, is not supported
 by it, and is not defeated by it.
 
 The reading reviews of 2026-11-11 met the gap from the readings' side. A
-reading cited only as a limit took no relation (ADR-093 gives a question
+reading cited only as a limit took no relation ([ADR-093](ADR-093.md) gives a question
 its cautions as premises, `bears_on`, but nothing for a claim), so the
 readings view counted it unused. A count on main found 523 claims with a
 "What it does not say" section and 114 pairs of a claim and a reading in
@@ -62,17 +62,17 @@ not in that count.
    it. A reading that is a rival account, a counterexample the claim has
    not answered, or an attribution takes no `bounds`: a rival or
    counterexample is an objection (a CLAIM with `objects_to`, or an ARG),
-   and an attribution takes no edge (ADR-058).
+   and an attribution takes no edge ([ADR-058](ADR-058.md)).
 3. **`bounded_by` on CLAIM is derived** from `bounds`, never stored, like
    `corroborated_by`.
 4. **It is neither support nor objection.** It is not walked by the
    `argument` chain or by retraction. Retiring the reading leaves the
    claim's support as it was; its stated limit loses its anchor, which a
    sweep reads as a scope statement to check.
-5. **The readings view counts it as use** (ADR-090): a reading that bounds
+5. **The readings view counts it as use** ([ADR-090](ADR-090.md)): a reading that bounds
    a claim serves the claim's first line.
 6. **Cases and terms are not covered.** A case or term that uses a reading
-   still has no relation to it (ADR-093, point 5). That is a separate
+   still has no relation to it ([ADR-093](ADR-093.md), point 5). That is a separate
    decision, to come.
 
 The reading-review and read-and-file skills carry 1 to 3 as instructions.
@@ -87,7 +87,7 @@ The reading-review and read-and-file skills carry 1 to 3 as instructions.
   derived; a field on the claim breaks that and would need a sweep to keep
   current.
 - **Count body citations as use by text search.** It would count
-  attributions and passing mentions too, which ADR-058 says take no edge.
+  attributions and passing mentions too, which [ADR-058](ADR-058.md) says take no edge.
 - **Stretch `objects_to` or `corroborates`.** `objects_to` runs between
   claims and says the target is wrong or unsupported; `corroborates` says
   the reading supports the claim. A limit says neither, and either would
@@ -100,5 +100,5 @@ The reading-review and read-and-file skills carry 1 to 3 as instructions.
 - The readings view's unused list loses the readings used only as limits.
 - A reading's retirement or narrowing can be checked against the claims it
   bounds.
-- The demonstration (ADR-071) writes `bounds` for the claims whose text
+- The demonstration ([ADR-071](ADR-071.md)) writes `bounds` for the claims whose text
   cites a reading as a limit, each with the claim's words quoted.
