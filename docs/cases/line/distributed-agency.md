@@ -6,12 +6,13 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-98 of 231 CASE documents. Back to the [full index](../README.md).
+99 of 231 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-006](../../../record/cases.d/CASE-006.md) | Open Horizon | A fictional cooperative founded for openness and public benefit whose sustaining mechanisms come to outweigh its mission as it grows (A31): persistence through turnover with the founding intentions lost. | Active |
 | [CASE-007](../../../record/cases.d/CASE-007.md) | CoreWeave: a climate-concerned workforce building fossil-powered datacenters | The owner's case at U13: employees largely concerned about climate, a company whose datacenters, sited where energy is cheap, induce fossil fuel demand. Replaced by the fictional [CASE-025](../../../record/cases.d/CASE-025.md) at the owner's suggestion (U15). | Superseded — by [CASE-025](../../../record/cases.d/CASE-025.md) |
+| [CASE-024](../../../record/cases.d/CASE-024.md) v2 | A coral reef | The owner's second holobiont direction (U30): a reef as a coordinated ecological whole. Its job changed four times in the exchange; filed once so that each change is visible. | Active |
 | [CASE-025](../../../record/cases.d/CASE-025.md) | Verdant Compute | A fictional compute company whose decarbonization-minded workforce operates an organization whose market position drives fossil-fuel demand (A31). Shows the whole's operative direction diverging from the average of its members' intentions. | Active |
 | [CASE-028](../../../record/cases.d/CASE-028.md) | Stability AI: well-intentioned founders, near-total churn, generic successor | The owner's case at U12: a company founded by researchers and open-source developers that churned almost its whole staff in a year and became a generic corporate entity. Replaced by the fictional [CASE-006](../../../record/cases.d/CASE-006.md). | Superseded — by [CASE-006](../../../record/cases.d/CASE-006.md) |
 | [CASE-044](../../../record/cases.d/CASE-044.md) | The thermostat: Dennett's knife edge between agent and device | An ordinary thermostat holding a room at a setpoint. Dennett calls it the simplest artifact that can sustain the intentional stance, and Orseau et al. place it "on the knife edge": "if temperature is below the command, start heating" and "make sure the temperature is close to the command" are descriptions of comparable simplicity. It is the permissiveness objection's standard case, here given a code at its second appearance after [CLAIM-010](../../../record/claims.d/CLAIM-010.md). | Active |
