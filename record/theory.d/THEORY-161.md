@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3ijnj
 title: 'In Zhao et al.''s (2025) and Chai et al.''s (2023) semantic rate–distortion frameworks, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; Zhao et al.''s posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss decision'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,14 @@ history:
     QUESTION-177. "A uniform bound on lost decision value" now says
     what was shown: a bound on the expected lost value of every
     bounded-loss decision, at the given prior.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-177
+    added. The question holds this reading's former promote_when
+    (ADR-065), so the reading is its premise (ADR-060). Its text:
+    "Whether frameworks beyond these two share their form is
+    QUESTION-177." No other change.
 tags:
 - information-theory
 - mathematical-statistics
@@ -37,6 +45,8 @@ summary: >-
   to I(S;X) − I(S;Y), making the function the information bottleneck
   ([LIT-338](../literature.d/LIT-338.md)), and for TV bounds the extra Bayes risk of every bounded loss.
   The two identities are this record's derivations, not the papers'.
+bears_on:
+- QUESTION-177
 ---
 
 

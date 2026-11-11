@@ -10,7 +10,16 @@ promote_when: >-
   uniaxial protocol from the main graph reaches and whose exits by erasure
   or shift are not reversed by reversing the load.
 title: 'A series stack of decoupled bistable Kresling barrels is a Preisach memory whose reachable states are fixed by the order of the switching thresholds, while hidden elastic degrees of freedom admit defect states that the loading protocol cannot reach and can leave only irreversibly'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-373, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as its case of a hand: "the
+    defect states are reached only by twisting by hand"; its own text,
+    defect states "reached by twisting by hand", which "the loading
+    protocol cannot reach". No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -27,6 +36,8 @@ summary: >-
   decoupled stack.
 corroborates:
 - CLAIM-591
+bears_on:
+- QUESTION-373
 ---
 
 # THEORY-1415: A series stack of decoupled bistable Kresling barrels is a Preisach memory whose reachable states are fixed by the order of the switching thresholds, while hidden elastic degrees of freedom admit defect states that the loading protocol cannot reach and can leave only irreversibly

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpq2qdv
 title: 'Stern, Pinson and Murugan find, in zero-temperature simulations of idealized rigid-panel crease patterns designed with one folding motion, distractor branches at the flat state whose number grows exponentially with the sheet''s boundary length on random meshes up to 6 × 6, which they trace to frustrated loops of two-branch vertices; and, on one 4 × 4 pattern, that whether the actuated creases'' folding islands cover the sheet predicts folding success much better than the number of actuators, and that an added actuator can ruin a folding that succeeded, without a necessary and sufficient condition'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,14 @@ history:
     predicts folding success better than the number of actuators." The
     published version was not read; no discrepancy with the preprint is
     named (ADR-065 §4).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-391, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as "a second sign": for soft
+    sheets careful actuation "needs to be maintained until a larger
+    folding angle", so how long the flat-state constraint structure
+    governs depends on stiffness. No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -42,6 +50,8 @@ summary: >-
   state. The analogy to SAT and protein folding carries no hardness proof.
 corroborates:
 - CLAIM-567
+bears_on:
+- QUESTION-391
 ---
 <!-- inactive-ok-file: THEORY-1528 — Proposed and new; the authors' generalization split off at the status review of 2026-11-06, cited as open -->
 

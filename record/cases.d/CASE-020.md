@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpkuw2b
 title: 'E3: the controlled inference harness, dry run only (C5)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-014
+    added. Its text: the harness's design "is the manuscript's §10
+    Case II" and "It would answer QUESTION-014." A designed study that
+    tests the question (ADR-092); it was never run, so it bears and
+    does not answer. No other change.
 standing: stipulated
 kind: executed-study
 tags:
@@ -20,7 +29,10 @@ summary: >-
   gpt-4.1-mini at temperature 0.7, seed 1729. Only a dry run was
   executed: "No model-generated observations were recorded." The design
   is the manuscript's Case II.
+bears_on:
+- QUESTION-014
 ---
+<!-- inactive-ok-file: ADR-092 — Proposed; the decision whose relation the history note of 2026-11-11 applies -->
 
 # CASE-020: E3: the controlled inference harness, dry run only (C5)
 

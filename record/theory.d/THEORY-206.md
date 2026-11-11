@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmppv845
 title: 'For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to match the monomial x₁^r₁⋯xₙ^rₙ''s Taylor polynomial at the origin, and a deep network O(Σ log rᵢ), with the upper bounds holding for uniform approximation too, so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,15 @@ history:
     promote_when asked for those two, and it moves unchanged to
     QUESTION-139. The title now says "match its Taylor polynomial at
     the origin", keeping the uniform upper bounds.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-139, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the uniform and biased versions, moved to QUESTION-139
+    on 2026-10-19); a question that holds a reading's moved condition
+    takes its bears_on, the reading being its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - mathematics
 - learning-theory
@@ -37,6 +46,7 @@ summary: >-
   the low-order polynomials [LIT-887](../literature.d/LIT-887.md) calls natural.
 bears_on:
 - QUESTION-060
+- QUESTION-139
 ---
 
 

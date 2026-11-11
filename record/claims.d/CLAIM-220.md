@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpc1o4m
 title: 'For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -18,6 +18,14 @@ history:
     holds here as it did in CLAIM-115's version 2. Version 1's
     condition had "within an equivalence margin fixed in advance and
     at a stated power" and no weights.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question's text: "The record's replies answer part of
+    it": CLAIM-220 "indexes the manuscript's thesis to a named
+    population and stated tasks". It names no general family, so
+    bears_on, not answers. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +60,7 @@ works:
 - what-survives-translation
 bears_on:
 - QUESTION-021
+- QUESTION-075
 summary: >-
   The record's reply, on 2026-10-10, to the audit's objections to the
   tests of the manuscript's thesis ([CLAIM-233](CLAIM-233.md), [CLAIM-232](CLAIM-232.md),

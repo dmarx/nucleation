@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5o4dd
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,15 @@ history:
     line when it answers, refines or objects to one of that line's
     entries, and it answers QUESTION-037, the line's root question, and
     rests on CLAIM-177 and CLAIM-324. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-258
+    added. The question's text: "The record already says it does not
+    generate manuscripts (CLAIM-178)." Its own: a draft written
+    straight from an exchange "drops commitments and changes its
+    thesis without saying so", which bears on what a selection must
+    preserve. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -58,6 +67,8 @@ summary: >-
   manuscripts drafted from them (workbench 2026/10/09/025539,
   2026/10/10/040457). Proposed: the record is kept beside the manuscript,
   and nothing generates a manuscript from it.
+bears_on:
+- QUESTION-258
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->

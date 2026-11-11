@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpucnpz
 title: 'Chen and Santangelo find that a flat triangulated rigid origami sits at a singular point of its configuration space, where it admits more first-order motions than its generic dimension; in numerical root-finding on random triangulations with four boundary vertices and 2 to 8 internal vertices, 2^Vi folding branches meet there with a few exceptions, two for each pair of a vertex popping pattern and its global reversal, which they prove for triangulations built by Henneberg-1 moves, and they conclude that a generic self-folding structure is likely to become trapped in a misfolded state'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,13 @@ history:
     four-boundary-vertex triangulated rigid origami is 2^Vi, and that the
     branches pair with the patterns of vertex popping states up to global
     sign.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-383, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as a place the first-order
+    picture breaks: "the degeneracy of the unfolded state makes a linear
+    approach impossible there". No other change.
 tags:
 - mathematics
 - natural-sciences
@@ -44,6 +51,8 @@ summary: >-
 corroborates:
 - CLAIM-567
 - CLAIM-568
+bears_on:
+- QUESTION-383
 ---
 
 # THEORY-1427: Chen and Santangelo find that a flat triangulated rigid origami sits at a singular point of its configuration space, where it admits more first-order motions than its generic dimension; in numerical root-finding on random triangulations with four boundary vertices and 2 to 8 internal vertices, 2^Vi folding branches meet there with a few exceptions, two for each pair of a vertex popping pattern and its global reversal, which they prove for triangulations built by Henneberg-1 moves, and they conclude that a generic self-folding structure is likely to become trapped in a misfolded state

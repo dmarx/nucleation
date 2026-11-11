@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp99qi9
 title: 'Black-boxing a passive linear circuit, which keeps only the Lagrangian relation its terminals'' potentials and currents can jointly satisfy, is a hypergraph functor from open circuits to Lagrangian relations: the external behaviour of a circuit glued from parts is the relational composite of the parts'' external behaviours, so circuits with the same behaviour are interchangeable in every composite, and the effective relation a composite presents at its boundary is fixed by its parts'' black boxes alone'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-382, at the reading review of 2026-11-11 (by
+    question, ADR-091), as its premise: the question's "What the record
+    holds" is this theorem, black-boxing a functor that is not faithful,
+    so circuits with the same behaviour "are interchangeable in every
+    composite"; "Black-box equality alone ... is the premise, not the
+    answer." No other change.
 tags:
 - compositionality
 - mathematics
@@ -19,6 +29,8 @@ summary: >-
   functor is not faithful, which is the point: circuits with one behaviour
   are identified. It says nothing about nonlinear or active components, and
   nothing in time-domain terms.
+bears_on:
+- QUESTION-382
 ---
 
 # THEORY-1063: Black-boxing a passive linear circuit, which keeps only the Lagrangian relation its terminals' potentials and currents can jointly satisfy, is a hypergraph functor from open circuits to Lagrangian relations: the external behaviour of a circuit glued from parts is the relational composite of the parts' external behaviours, so circuits with the same behaviour are interchangeable in every composite, and the effective relation a composite presents at its boundary is fixed by its parts' black boxes alone

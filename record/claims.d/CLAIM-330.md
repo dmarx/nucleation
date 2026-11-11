@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgnqqb
 title: 'In the coupled meaning–influence model linearized at its symmetric state, with each field stable alone and nonnegative couplings, the coupling destabilizes symmetry exactly when βγ > (1 − α)(1 − δ): only the loop can do it, and the direction that grows mixes meaning and authority'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,15 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-124, from the reading review of 2026-11-11, by
+    question. The question lists it among "the pieces of the second
+    half": the threshold βγ > (1 − α)(1 − δ) beyond which the coupled
+    meaning–influence loop destabilizes the symmetric state, which is
+    a condition on conferral dynamics for a persistent regime, without
+    demands. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,6 +51,8 @@ summary: >-
   components. A partial answer to [QUESTION-100](../questions.d/QUESTION-100.md)'s "when the symmetric state
   is unstable", for the linearization only; it says nothing about the
   nonlinear attractors or about fidelity.
+bears_on:
+- QUESTION-124
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

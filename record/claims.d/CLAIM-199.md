@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp0jq5k
 title: 'Blackwell''s order bounds what a rendering makes possible for any receiver, and a given receiver''s access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -38,6 +38,16 @@ history:
     question holds open, interpreters with side information". The line
     is unchanged under ADR-085: the target's line is already this
     entry's. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-110, at the reading review of 2026-11-11 (by
+    question, ADR-091), as a premise: its own text, "A18 asked for a
+    definition of the cost of recovery that would put this claim's rule-
+    class case and CLAIM-304's budget case on one scale. That is
+    QUESTION-110." An answer must recover this claim's case. Carries
+    formal-apparatus, QUESTION-110's first line, after its own (ADR-085).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,7 +60,9 @@ tags:
 - information-theory
 - philosophy-of-language
 date: '2026-10-10'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 grounds:
 - THEORY-1096
 - THEORY-176
@@ -78,6 +90,7 @@ summary: >-
 bears_on:
 - QUESTION-020
 - QUESTION-016
+- QUESTION-110
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: CLAIM-076 — Proposed; the blind-captioner design, cited as open -->

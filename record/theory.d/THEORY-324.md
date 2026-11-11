@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxwn52
 title: 'A system adapts by trial and error to an environment whose effect on its essential variables it does not know only if a second feedback, through those variables, changes the parameters of its primary feedback; and if that feedback changes them whenever, and for as long as, an essential variable is outside its limits, every equilibrium the whole can reach is an adapted one'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -21,6 +21,14 @@ history:
     effect on the essential variables the system does not know. The
     promote_when's wider form, any system that comes to keep its
     essential variables within limits, moves to QUESTION-170.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-170, from the reading review of 2026-11-11, by
+    question: the question holds the wider half of this reading's
+    former promote_when, "any system which comes to keep its essential
+    variables within limits", so the reading is its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - complex-systems
 - behavioral-integration
@@ -35,6 +43,8 @@ summary: >-
   every part is. The Homeostat shows it in a four-unit linear machine.
   The parameter changes are blind, and the account says nothing about how
   long the search takes, which is the subject of [THEORY-307](THEORY-307.md).
+bears_on:
+- QUESTION-170
 ---
 <!-- inactive-ok-file: THEORY-307 THEORY-217 THEORY-153 — Proposed; the companion account and the accounts that use Ashby's terms, open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpakup2
 title: 'On a finite augmentation space, at the population optimum of the spectral contrastive loss with k ≥ 2r, linear-probe error is bounded, up to constant and logarithmic factors, by the error of recovering the label from an augmentation divided by the squared sparsest-partition conductance of the augmentation graph'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,14 @@ history:
     recovering the label from an augmentation. The promote_when's two
     further results, a proof off a finite space and a measurement showing
     the bound non-vacuous, move to QUESTION-183.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-183
+    added. The question holds this reading's former promote_when
+    (ADR-065), so the reading is its premise (ADR-060). Its text:
+    "Whether it extends off a finite space, and whether it is
+    non-vacuous on a real graph, is QUESTION-183." No other change.
 tags:
 - representation-learning
 - learning-theory
@@ -36,6 +44,8 @@ summary: >-
   infinite-space extension is asserted, not proved.
 answers:
 - QUESTION-245
+bears_on:
+- QUESTION-183
 ---
 <!-- inactive-ok-file: THEORY-005 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 

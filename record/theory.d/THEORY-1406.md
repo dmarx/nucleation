@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmbmox
 title: 'Hopkins (2007) holds that for a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and that for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,16 @@ history:
     (ADR-047 kind 1). It read: "An independent derivation or classification of reciprocal screw systems for ideal pure-force wrenches confirms that a rigid stage's freedom space and its constraint space determine each other one to one, and that the pairs fall into 26 types across one to six non-redundant constraints." Corrected in the body: the
     one-to-one link is asserted in §5.3, by example, and follows from the
     reciprocity of §5.2.5.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-373 and QUESTION-381, at the reading review of
+    2026-11-11 (by question, ADR-091). QUESTION-373 names FACT as its
+    designer case, "the designer chooses the constraints"; QUESTION-381
+    takes it as the mechanical precedent for synthesis from specified
+    motions, and quotes its limit, "some desired degrees of freedom may
+    not be achieved without including other unwanted degrees of freedom".
+    No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -33,6 +43,9 @@ summary: >-
   count holds only for ideal pure-force constraints; the thesis itself
   finds more types once wrenches of any pitch are allowed. It says nothing
   about stiffness, dynamics or actuation. Not peer reviewed.
+bears_on:
+- QUESTION-373
+- QUESTION-381
 ---
 # THEORY-1406: Hopkins (2007) holds that for a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and that for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints
 

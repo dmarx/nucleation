@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqq4es
 title: 'On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-14'
@@ -47,6 +47,15 @@ history:
     finite M". This takes the second. The body already stated everything
     at finite M; the title now says so. The population clause moves,
     unchanged, to QUESTION-136, and the promote_when is removed.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-136, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when ("The population clause moves, unchanged, to
+    QUESTION-136"); a question that holds a reading's moved condition
+    takes its bears_on, the reading being its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - representation-learning
 - mathematics
@@ -63,6 +72,8 @@ summary: >-
   G = C_X.
 extends:
 - THEORY-004
+bears_on:
+- QUESTION-136
 ---
 
 # THEORY-008: On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement

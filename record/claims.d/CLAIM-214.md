@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9negs
 title: 'The distribution-over-situations criterion compares each language''s own listener posterior, so it needs no correspondence of alternative sets; that a literal rendering can fail it is the criterion detecting a lost implicature, and a target language may admit no rendering that passes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -12,6 +12,15 @@ history:
     At the third synthesis review of 2026-11-07: the body called Jakobson's point
     CLAIM-033's. Since CLAIM-033's version 3 it is that claim's prior
     statement, THEORY-170; the citation now names it. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-448
+    added. The question's text: "CLAIM-214 shows that the criterion
+    can fail every rendering", which is where the divergence and
+    tolerance it asks about bite. Its own: "for any tolerance smaller
+    than 1/4" a rendering is unfaithful, and "a target language may
+    admit no rendering that passes". No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,6 +51,8 @@ summary: >-
   content and loses a scalar implicature. Active, because it is read off
   the criterion's form and checked by arithmetic. It does not say the
   model is right or that the criterion applies to poems.
+bears_on:
+- QUESTION-448
 ---
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's point, CLAIM-033's prior statement -->
 <!-- inactive-ok-file: CLAIM-236 — Rejected; the objection this claim answers, cited as answered -->

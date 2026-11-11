@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpk2ltq
 title: 'Fidelity is relative to the interpreter''s learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -36,6 +36,15 @@ history:
     which is how this claim's title already states the split; no
     objection is filed and nothing in the record meets its defeat
     condition. Status Proposed to Active.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-023
+    added. Its text: "The opacity question (QUESTION-023) is one case
+    of it." bears_on QUESTION-075 added. QUESTION-075's text: "How
+    fidelity for one population bears on another ... (CLAIM-074)". Its
+    own separates "Fidelity across different interpreters". No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +62,9 @@ summary: >-
   A44 §4 and A48 §5.5, recovered. Kept to outline v4 (§9.5); absent from
   the manuscript, which keeps the context/interpreter split but not its
   consequence for fidelity. Apparently dropped by inadvertence.
+bears_on:
+- QUESTION-023
+- QUESTION-075
 ---
 
 # CLAIM-074: Fidelity is relative to the interpreter's learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities

@@ -6,7 +6,15 @@ formerly:
 title: 'The medication in the ambulance: a drug the EMT knew was stocked could not
   be found during a resuscitation, the paramedic changed the request, and afterwards
   said "If I can''t find it, it isn''t there"'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-097 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names it as an instance: "In
+    CASE-085 the proposition that the drug was present was available
+    and the action of retrieving it in time was not." No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -21,6 +29,8 @@ summary: >-
   [CLAIM-296](../claims.d/CLAIM-296.md) and is the source of [TERM-055](../terms.d/TERM-055.md). Stipulated, not documented:
   the event is real, and the only source is the owner's retrospective account, which
   a reader cannot check.
+bears_on:
+- QUESTION-097
 ---
 
 # CASE-085: The medication in the ambulance: a drug the EMT knew was stocked could not be found during a resuscitation, the paramedic changed the request, and afterwards said "If I can't find it, it isn't there"

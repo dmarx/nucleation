@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmp33nos
 title: 'In ℓ2-regularized regression held to a fixed training-error tolerance, refitting to one''s own predictions on the same inputs shrinks each eigencomponent of the labels by a factor that falls with its Gram eigenvalue, while the regularization weight needed to meet the tolerance rises as the labels shrink, so repeated rounds amplify regularization and reach the zero function after finitely many; the loss comes from the regularizer acting again, not from information the student lacks'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-361, from the reading review of 2026-11-11, by
+    question. The question cites it for what iterated
+    self-distillation loses round by round when nothing is withheld:
+    "the regularizer acting again shrinks the solution to zero
+    (THEORY-1252)". No other change.
 tags:
 - learning-theory
 date: '2026-10-31'
@@ -18,6 +27,8 @@ summary: >-
   reproduced; the sparsity rate of Theorem 5 is the paper's, proof not
   checked. It does not show that deep networks behave so, and the
   amplification depends on holding the error tolerance fixed.
+bears_on:
+- QUESTION-361
 ---
 
 # THEORY-1252: In ℓ2-regularized regression held to a fixed training-error tolerance, refitting to one's own predictions on the same inputs shrinks each eigencomponent of the labels by a factor that falls with its Gram eigenvalue, while the regularization weight needed to meet the tolerance rises as the labels shrink, so repeated rounds amplify regularization and reach the zero function after finitely many; the loss comes from the regularizer acting again, not from information the student lacks

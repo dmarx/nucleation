@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpii28b
 title: 'The East Wing of the White House, 2025–2026: the wing demolished for a ballroom before the legal challenge to the project was decided, so that the remedy still available was to stop new construction, not to keep the old building'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-279 (ADR-092), from the reading review of
+    2026-11-11, by question. Its own text: "A contrast for search
+    (QUESTION-279) ... here no remedy for that objective exists at
+    all"; the question names it as "a real absence". No other change.
 standing: documented
 kind: specimen
 tags:
@@ -21,6 +29,8 @@ summary: >-
   the merits but its injunction was stayed. Not shown: that the demolition
   was unlawful, or that the security concerns were pretextual; the court
   history is the exchange's.
+bears_on:
+- QUESTION-279
 ---
 
 # CASE-170: The East Wing of the White House, 2025–2026: the wing demolished for a ballroom before the legal challenge to the project was decided, so that the remedy still available was to stop new construction, not to keep the old building

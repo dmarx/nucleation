@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjni98
 title: 'In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and spatial relations and attribute binding failing most, and composing by adding scores does worst on relations'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -42,6 +42,14 @@ history:
     failing most, and composing by adding scores does worst on
     relations'. Every ground is Active and read in full; THEORY-678
     stays corroboration. The defeat condition is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-018
+    added. The question's text: "The manuscript §7 says each condition
+    can be met while the conjunction fails (CLAIM-321)". The claim
+    states that failure, the question's explanandum. A premise of the
+    question. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -74,6 +82,8 @@ summary: >-
   Diffusion losing to an energy-based baseline on relations. It
   corroborates [CLAIM-123](CLAIM-123.md)'s derivation without carrying it, and does not
   say what causes the failures.
+bears_on:
+- QUESTION-018
 ---
 <!-- inactive-ok-file: THEORY-678 — Proposed; the Attend-and-Excite account, which corroborates the omission example without carrying the claim -->
 

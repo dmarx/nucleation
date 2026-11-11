@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqg4nq
 title: 'Under MSE loss, in Han, Papyan and Donoho''s VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -37,6 +37,15 @@ history:
     and its orientation is set by the start of the central path ... That
     is one of the two branches QUESTION-080 distinguishes." No other
     change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-181, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (whether ordinary training follows the renormalized
+    dynamics, moved to QUESTION-181); a question that holds a reading's
+    moved condition takes its bears_on, the reading being its premise
+    (ADR-060, ADR-065). No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -57,6 +66,7 @@ summary: >-
 bears_on:
 - QUESTION-051
 - QUESTION-080
+- QUESTION-181
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
 <!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->

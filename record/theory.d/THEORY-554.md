@@ -15,7 +15,16 @@ promote_when: >-
   conditional into a live conclusion or remove it. Further restatements of
   the premises, or of the retreats to moderation, cannot settle it.
 title: "On the grounds of moral standing now commonly accepted, together with scientific premises that are not unreasonable, the aggregate interests of insects or the interests of near-future AI could outweigh humanity's; no capacity yet proposed secures human priority, and the books that state those grounds retreat to moderate advice without a principle that supplies the stopping point"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-368
+    added. The question's text: "The record's readings give several"
+    grounds of standing, among them "the grounds now commonly
+    accepted, which may extend to near-future AI (THEORY-554)". No
+    other change.
 tags:
 - ethics
 - consciousness
@@ -31,6 +40,8 @@ summary: >-
   endorse" the radical conclusion (p. 38). The scientific premises are
   called "not unreasonable" and not argued, so the account is only as
   strong as they are.
+bears_on:
+- QUESTION-368
 ---
 <!-- inactive-ok-file: THEORY-449 THEORY-699 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-126 — Rejected; cited for the position it states, not leaned on -->

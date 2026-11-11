@@ -6,13 +6,22 @@ formerly:
 title: 'The topology of a support graph does not fix how a conclusion should be
   revised when one of its supports fails: two records with the same edges can carry
   evidence of different strength and call for different revisions'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-258
+    added. The question's text, against a connected, well-supported
+    subgraph: "From CLAIM-293: 'A coherent, connected support graph
+    does not itself establish that the selected argument has adequate
+    evidentiary support.'" Its title: "The topology of a support graph
+    does not fix how a conclusion should be revised". No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -34,6 +43,8 @@ summary: >-
   how much.
 complements:
 - CLAIM-479
+bears_on:
+- QUESTION-258
 ---
 <!-- inactive-ok-file: CLAIM-250 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

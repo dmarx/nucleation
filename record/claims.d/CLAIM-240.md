@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnttsk
 title: 'A holistic fidelity judgement is fidelity under the judges'' default task, a weighting of the profile''s components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test, and across populations with unequal access to the source must fit the weighting only on the components each can perceive'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -27,6 +27,15 @@ history:
     task-relativity, and a defeat condition that uses it must name the
     population and fix the weighting before the test'. Status
     unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question's text: "The record's replies answer part of
+    it": CLAIM-240 "says a holistic judgement is well defined as
+    fidelity under a population's default task". Its own: the
+    conditions name neither task nor receivers, and "CLAIM-220,
+    CLAIM-204 and QUESTION-075 address that." No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +64,8 @@ summary: >-
   is itself empirical. The objection is right that the stated defeat
   conditions name neither task nor receivers; [CLAIM-220](CLAIM-220.md),
   [CLAIM-204](CLAIM-204.md) and [QUESTION-075](../questions.d/QUESTION-075.md) address that.
+bears_on:
+- QUESTION-075
 ---
 <!-- inactive-ok-file: CLAIM-128 — Proposed; open, and cited as the relativity thesis this reconciles, not as settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses whose conditions it bears on, cited as they stood -->

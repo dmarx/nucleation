@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpxb5pl
 title: 'Under a shared linear output head, the cross-entropy gradient of a multi-token-prediction head at its hidden state is exactly the gradient of a forward KL toward the model''s own position-aligned next-token prediction, held fixed, plus the next-token cross-entropy gradient at the aligned state, which alone carries the sampled target; the identity is about gradients and computations, not information, and in heads fed the intervening tokens the student and its teacher condition on the same evidence'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-361, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). The question starts from it: a
+    model's own outputs specify a target that constrains how another
+    part is trained, "the shape of recursive production"; and its
+    finding that "the student and its teacher condition on the same
+    evidence" is the question's "The teacher there knows no more than
+    the student". No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -18,6 +29,8 @@ summary: >-
   value, and it does not by itself make the self-distillation a
   projection onto less information: in the DeepSeek-style heads of the
   paper's main results the student sees the same tokens as its teacher.
+bears_on:
+- QUESTION-361
 ---
 <!-- inactive-ok-file: THEORY-1262 — Proposed; the empirical companion, cited as not established -->
 

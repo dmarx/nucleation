@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwsbib
 title: 'Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error in surface content does not show'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -18,6 +18,15 @@ history:
     first generation at which a different communicative configuration
     dominates, which per-step error does not show'. The status is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-013
+    added. Its text: a pragmatic phase change "which per-step error in
+    surface content does not show", set against the manuscript's
+    trajectories that "need not coincide". A proposed marker of
+    divergence between surface and configuration along a chain, which
+    QUESTION-013 asks about; it does not answer when. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,6 +45,8 @@ summary: >-
   W(q_(i-1), q_i) apart from cumulative departure D_global(i) = W(q_0,
   q_i), and look for the generation at which the configuration flips.
   Dropped when the latents were demoted at U28, without critique.
+bears_on:
+- QUESTION-013
 ---
 <!-- inactive-ok-file: CLAIM-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

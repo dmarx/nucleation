@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-22'
@@ -67,6 +67,15 @@ history:
     so. QUESTION-059, cited in "The objections" as Deferred with its
     line, is Open from 2026-11-11 and the sentence now says so. The
     claim is unchanged. No other change.
+- version: 9
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-442
+    added. The question's text: "The record holds two self-models and
+    does not say whether they are one", CLAIM-439's and CLAIM-355's,
+    which places "the single owner" in a self-model's attribution. A
+    premise of the question, which links the two and does not test
+    either. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -124,9 +133,11 @@ summary: >-
   about whether the integrated state is felt.
 bears_on:
 - QUESTION-053
+- QUESTION-442
 rests_on:
 - CLAIM-039
 ---
+<!-- inactive-ok-file: CLAIM-439 — Proposed; the other self-model QUESTION-442 links, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 — Proposed; the organizational-affect line, reopened by the owner on 2026-10-23: the claim this one rests on, and a claim cited for a note -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->

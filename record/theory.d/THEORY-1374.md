@@ -12,7 +12,15 @@ promote_when: >-
   with the system's constraint space classifies a design correctly as
   exactly, over- or under-constrained.
 title: 'Hopkins (2013) holds that a flexure system''s freedom space is the intersection of its parallel limbs'' freedom spaces and the span of its serial stages'' freedom spaces, so the same finite library of freedom–constraint space types suffices to analyse and synthesize any combination of parallel and serial flexures, and comparing constraint orders with the system''s constraint space classifies a design as exactly, over- or under-constrained'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-383, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question states the duality it asks about from
+    it: "in parallel F = F1∩F2 and C = C1+C2; in series F ≈ F1+F2 in a
+    common frame (Hopkins 2013, THEORY-1374)". No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -26,6 +34,8 @@ summary: >-
   check, and the library's completeness rests on Hopkins (2010),
   [LIT-2042](../literature.d/LIT-2042.md). It excludes interconnected limbs, is kinematic only, and
   its over-constraint test says nothing of misfit stress.
+bears_on:
+- QUESTION-383
 ---
 
 # THEORY-1374: Hopkins (2013) holds that a flexure system's freedom space is the intersection of its parallel limbs' freedom spaces and the span of its serial stages' freedom spaces, so the same finite library of freedom–constraint space types suffices to analyse and synthesize any combination of parallel and serial flexures, and comparing constraint orders with the system's constraint space classifies a design as exactly, over- or under-constrained

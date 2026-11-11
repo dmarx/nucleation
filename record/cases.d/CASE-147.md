@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpa5fgc
 title: 'Conversation against argument: in Kalla and Broockman''s field experiments, canvassers who exchanged personal narratives nonjudgmentally reduced exclusionary attitudes durably, while arguments alone did not produce comparable effects'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,14 @@ history:
     (NOTE-1396); the contrast with arguments is made exact, and
     Experiment 2 weighs against reading the narrative arm as taking
     part. The case is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-262 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names it among the existing
+    evidence that does not separate a change of state from a change of
+    coupling: "narrative exchange outlasts argument (CASE-147)". No
+    other change.
 standing: documented
 kind: reported-study
 tags:
@@ -29,6 +37,8 @@ summary: >-
   is the study's, not the reading's.
 reported_in:
 - LIT-1407
+bears_on:
+- QUESTION-262
 ---
 
 # CASE-147: Conversation against argument: in Kalla and Broockman's field experiments, canvassers who exchanged personal narratives nonjudgmentally reduced exclusionary attitudes durably, while arguments alone did not produce comparable effects

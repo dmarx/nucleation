@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp65fz9
 title: "Ince's I_ccs, the expected local co-information over only those events where every source, the joint source and the overlap change the target's surprisal in the same direction, under the maximum-entropy joint that preserves the source–target and joint-source marginals, is symmetric and self-redundant and satisfies the independent identity property; it fails Harder et al.'s identity and monotonicity, so its atoms can be negative, and, though its paper says otherwise, it fails subset equality"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -24,6 +24,14 @@ history:
     The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-804,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-223: the question was
+    "Filed when the promotion audit (batch 056, ADR-047 v2) corrected
+    and promoted THEORY-714", so the reading is its premise (ADR-060).
+    Reading review of 2026-11-11, moved-condition sweep. No other
+    change.
 tags:
 - information-theory
 - complex-systems
@@ -38,6 +46,8 @@ summary: >-
   depends on the source–source marginal, are argued, not proved. Whether it is
   the right redundancy measure is open (QUESTION-223). It meets Rauh et al.'s −1-bit bound
   exactly on XORCOPY.
+bears_on:
+- QUESTION-223
 ---
 <!-- inactive-ok-file: THEORY-804 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

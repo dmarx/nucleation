@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprzyow
 title: 'The doorway effect: memory for an object carried through a doorway into another room is worse than after walking as far within one, returning to the first room does not restore it, and outside the original laboratory''s set-up the effect has not always appeared'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -30,6 +30,14 @@ history:
     2026-10-22 (NOTE-1079 to NOTE-1084, the note of that date), and
     each place now says so. Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-257 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names it among the cases
+    that "show why that is hard": "the same forgetting has been read
+    as event-model updating and as interference at retrieval". No
+    other change.
 standing: documented
 kind: reported-study
 tags:
@@ -56,6 +64,8 @@ reported_in:
 - NOTE-1081
 - NOTE-1082
 - NOTE-1083
+bears_on:
+- QUESTION-257
 ---
 
 # CASE-136: The doorway effect: memory for an object carried through a doorway into another room is worse than after walking as far within one, returning to the first room does not restore it, and outside the original laboratory's set-up the effect has not always appeared

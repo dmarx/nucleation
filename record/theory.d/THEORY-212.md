@@ -16,7 +16,15 @@ promote_when: >-
   solvable model itself, such as simulations matching the formulas, cannot
   settle it.
 title: 'In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-081, at the reading review of 2026-11-11 (by
+    question, ADR-091). Its own text: "Under SGD the conserved quantity
+    drifts (THEORY-211), which QUESTION-081 takes up", and "QUESTION-081
+    asks what that does to the regimes." No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -36,6 +44,7 @@ summary: >-
   ([THEORY-211](THEORY-211.md)), which [QUESTION-081](../questions.d/QUESTION-081.md) takes up.
 bears_on:
 - QUESTION-039
+- QUESTION-081
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed or Open; the readings this account generalizes or is set beside, and the question it raises, open -->
 

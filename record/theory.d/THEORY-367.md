@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbyiv8
 title: "For SPJU relational queries, which Buneman, Khanna and Tan's tree model encodes, the minimal witnesses of an output tuple, the inclusion-minimal sets of source facts from which the query still derives it, are the minimal sets matched by single derivations and so are the same for every equivalent query, while where-provenance, the source location a value was copied from, can differ between equivalent queries"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -15,6 +15,13 @@ history:
     the promote_when named. The rewrite-system clauses rest on rules the
     paper does not give, and "only for traceable queries" claims more than
     the paper shows. Both leave the title for QUESTION-225.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-225
+    added. The question holds what left this reading's title at its
+    promotion (ADR-065), so the reading is its premise (ADR-060). Its
+    text: the two open points "are QUESTION-225." No other change.
 tags:
 - databases
 - logic
@@ -31,6 +38,8 @@ summary: >-
   conditions; the second is shown by example to depend on how the query is
   written. Proofs are omitted. It is not a theory of revision: additions to
   the source, negation, aggregation and strengths of support are all outside it.
+bears_on:
+- QUESTION-225
 ---
 
 # THEORY-367: For SPJU relational queries, which Buneman, Khanna and Tan's tree model encodes, the minimal witnesses of an output tuple, the inclusion-minimal sets of source facts from which the query still derives it, are the minimal sets matched by single derivations and so are the same for every equivalent query, while where-provenance, the source location a value was copied from, can differ between equivalent queries

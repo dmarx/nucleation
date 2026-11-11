@@ -9,7 +9,16 @@ promote_when: >-
   separating monostable from bistable response that shifts with the ratio
   of bending to crease stiffness.
 title: 'Silverberg and colleagues show that the square-twist origami, whose crease pattern admits no rigid folding motion, folds by bending its facets, and that the ratio of bending to crease stiffness, together with the plane angle, sets a critical transition between monostable and bistable folding'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-383 and QUESTION-391, at the reading review of
+    2026-11-11 (by question, ADR-091). Both name it where the energy scale
+    decides: the number of degrees of freedom is "a variable quantity that
+    changes with the experimental energy scale"; QUESTION-391 takes it as
+    the energetic form it asks about. No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -23,6 +32,9 @@ summary: >-
   general thesis that the number of degrees of freedom changes with the
   energy scale probed is the authors' framing; what was shown is this one
   structure. Tessellations are proposed, not tested.
+bears_on:
+- QUESTION-383
+- QUESTION-391
 ---
 
 # THEORY-1399: Silverberg and colleagues show that the square-twist origami, whose crease pattern admits no rigid folding motion, folds by bending its facets, and that the ratio of bending to crease stiffness, together with the plane angle, sets a critical transition between monostable and bistable folding

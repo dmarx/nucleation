@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxydgv
 title: "The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder; and under lossy compression the bound can stay finite for deterministic continuous encoders, whose lossless bound is infinite"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -28,6 +28,15 @@ history:
     moves to QUESTION-179. The last clause is narrowed: lossy
     compression can keep the bound finite for deterministic continuous
     encoders, as the paper's constructed example shows, not in general.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-179, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (whether the bound is small for a trained encoder, which
+    "moves to QUESTION-179"); a question that holds a reading's moved
+    condition takes its bears_on, the reading being its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - learning-theory
 - information-theory
@@ -45,6 +54,8 @@ summary: >-
   mutual information. The bound is never evaluated, the prior may depend on
   unseen ghost data, and a 2√((K+2)/n) floor remains. It does not prove that
   I(X;U) cannot bound generalization.
+bears_on:
+- QUESTION-179
 ---
 <!-- inactive-ok-file: THEORY-035 LIT-240 — Rejected or Unavailable; the account this one sits beside, and the IB bound it argues against, cited for context -->
 

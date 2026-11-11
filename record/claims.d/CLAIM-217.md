@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpawn12
 title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act''s other constituents diverge from the judges'' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -26,6 +26,14 @@ history:
     clause, as if current; CLAIM-139 was superseded on 2026-10-29 by
     CLAIM-204, which keeps that clause and takes this claim's standard
     into it. They now name CLAIM-204's clause. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question's text: "The record's replies answer part of
+    it": CLAIM-217 "makes competent participants' uptake the standard
+    of a kind, indexed to a population". Its own: "which population is
+    QUESTION-075's." No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -66,6 +74,8 @@ summary: >-
   a Proposed premise. It does not touch the ontological clause of CLAIM-204,
   which superseded CLAIM-139 and keeps that clause, and which the programme
   does not test.
+bears_on:
+- QUESTION-075
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->

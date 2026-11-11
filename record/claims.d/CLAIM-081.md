@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpn361s
 title: 'Retaining information about the ancestor and drifting in the population''s distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -31,6 +31,15 @@ history:
     cannot be met while that reading holds. A chain in which retellers see
     earlier generations is CLAIM-056's defeater, not this claim's. The
     statement is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-013
+    added. The question's text: "CLAIM-081 gives one case of
+    divergence." The claim's: a chain can "converge in surface form
+    while diverging in ancestral information", which is the question's
+    "chain becomes conventionally interpretable while losing ancestral
+    pragmatic structure". A case, not an answer. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +61,8 @@ summary: >-
   manuscript §11 keeps it in one line ("converge in surface form while
   diverging in ancestral information"); the named profiles and the
   synthetic construction are gone.
+bears_on:
+- QUESTION-013
 ---
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

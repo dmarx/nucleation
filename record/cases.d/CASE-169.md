@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpelq9w
 title: 'The Chagossians, 1965 to now: a people expelled from the Chagos Archipelago between 1967 and 1973 for the Diego Garcia base, dispersed to Mauritius, the Seychelles and Britain, whose practices, kinship and political organization continued or arose in exile while sovereignty over the islands was settled between states'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -18,6 +18,14 @@ history:
     Note of 2026-10-29 added: Bancoult No 1 registered, Unfetched
     (LIT-1832); the quotations of the UK files stay at Human
     Rights Watch's remove. The case is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-257 (ADR-092), from the reading review of
+    2026-11-11, by question. Its own text: "It is QUESTION-257's case
+    at the scale of a people", and the question's note of 2026-10-27
+    files it there for its comparison across carriers and its defeater
+    for transmission. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -48,6 +56,8 @@ summary: >-
   identifiable decisions. Not shown: that the Chagossians are one
   persisting agent, or which practices survived; the sources are
   registered unread.
+bears_on:
+- QUESTION-257
 ---
 <!-- inactive-ok-file: LIT-1598 LIT-1620 — Unavailable since 2026-10-29; Jeffery's works, sources of particulars kept as the exchange's, cited in the note of that date as not reached -->
 <!-- inactive-ok-file: LIT-1832 — Unfetched since 2026-10-29; Bancoult No 1, cited in the note of that date as not read, nothing here rests on it -->

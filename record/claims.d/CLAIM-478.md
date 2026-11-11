@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
 title: 'Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-391, at the reading review of 2026-11-11 (by
+    question, ADR-091), as the time-scale form the question asks the
+    energetic form to be compared with. Its own text: "Silverberg et al.'s
+    separation by energy scale is the form QUESTION-391 asks about;
+    whether it reduces to a separation by time scale is open." Carries
+    realizability, QUESTION-391's first line, after its own (ADR-085). No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,6 +38,7 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
+- realizability
 rests_on:
 - CLAIM-477
 - CLAIM-331
@@ -57,6 +69,8 @@ summary: >-
   mechanism for [CLAIM-477](CLAIM-477.md)'s recursion. It does not say that slowness
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
+bears_on:
+- QUESTION-391
 ---
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->

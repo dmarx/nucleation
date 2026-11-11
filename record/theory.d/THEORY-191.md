@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7qz7l
 title: 'In four natural odour sources (strawberry, tomato, blueberry and mouse-urine volatiles), the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube tried, and human odour-descriptor profiles for 127 odorants have that of a full three-dimensional hyperbolic ball'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,15 @@ history:
     Euclidean cube" to "any uniform Euclidean cube tried". The promote_when, which
     asked for a replication and for flat near-spherical nulls, moves
     unchanged to QUESTION-153 and is removed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-153, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the flat-null and replication clause, moved "unchanged
+    to QUESTION-153"); a question that holds a reading's moved condition
+    takes its bears_on, the reading being its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - neuroscience
 - natural-sciences
@@ -34,6 +43,8 @@ summary: >-
   tried. It does not show a tree in the data, and because the fitted
   odour model is a thin shell, it does not separate a hyperbolic metric
   from a sphere in flat space.
+bears_on:
+- QUESTION-153
 ---
 
 

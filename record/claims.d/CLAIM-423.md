@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppkmq0
 title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -21,6 +21,16 @@ history:
     and do not state the claim. A dated note records the check and the
     credit owed to Putnam. Stale directives for LIT-1375 and CLAIM-331,
     both now Active, are corrected. The claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-440, from the reading review of 2026-11-11, by
+    question. Its title holds that components' "different temporal
+    horizons affect which forms of influence each can accumulate,
+    exercise and keep, and so which of them holds authority over the
+    others", and it "denies that slowness alone settles which level
+    governs". It gains will-organization, the question's first line,
+    after its own (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -38,6 +48,7 @@ tags:
 date: '2026-10-22'
 line:
 - distributed-agency
+- will-organization
 rests_on:
 - CLAIM-331
 works:
@@ -54,6 +65,8 @@ summary: >-
   slower, and denies that slowness alone settles which level governs.
 complements:
 - CLAIM-445
+bears_on:
+- QUESTION-440
 ---
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

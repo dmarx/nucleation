@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi5t5f
 title: 'A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow''s impossibility this is not escaped by giving the grant procedure richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -27,6 +27,18 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-094, from the reading review of 2026-11-11, by
+    question. The claim's own text asks the question's question for
+    choice: "Can a distributed will-organization guarantee coherent
+    joint decisions while preserving specified domains of constituent
+    authority", and holds that "the fix is a change in how
+    jurisdiction is allocated or bounded". That is evidence on whether
+    jurisdiction allocated by grant keeps collective decisions
+    consistent. It gains distributed-agency, the question's first
+    line, after its own (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +57,7 @@ tags:
 date: '2026-10-18'
 line:
 - will-organization
+- distributed-agency
 rests_on:
 - CLAIM-027
 grounds:
@@ -63,6 +76,8 @@ summary: >-
   (TERM-101) use richer information, answers Arrow but not jurisdiction. The sharp edge: it
   holds only if operator jurisdiction is pairwise decisiveness, which
   [THEORY-027](../theory.d/THEORY-027.md) leaves open even for persons.
+bears_on:
+- QUESTION-094
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-1283 — Proposed; Massumi's micropolitics, the ideal this result is applied to -->

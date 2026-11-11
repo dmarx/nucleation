@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp99ydy
 title: 'A speaker who chooses words to minimise the information lost about a single intended referent, with words'' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word''s meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers'' word use followed it only weakly (r = .19)'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,14 @@ history:
     The narrowing-loss sweep (batch 072, ADR-047 v4) filed THEORY-816,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-167: the question was
+    "Filed when the promotion audit (batch 025, ADR-047 v3) narrowed and
+    promoted THEORY-472", so the reading is its premise (ADR-060).
+    Reading review of 2026-11-11, moved-condition sweep. No other
+    change.
 tags:
 - pragmatics
 - cognition
@@ -41,6 +49,8 @@ summary: >-
   .02 for them. In these displays the informative-speaker learner and a
   plain size-principle learner coincide by construction, so the fit does
   not show that learners reason about the speaker.
+bears_on:
+- QUESTION-167
 ---
 <!-- inactive-ok-file: THEORY-816 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: LIT-1041 — Unavailable; Grice 1975, read only at pp. 45–47, named as the informal ancestor and not leaned on -->

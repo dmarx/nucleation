@@ -12,7 +12,17 @@ promote_when: >-
   prestress matrix is zero or positive semidefinite, while no general
   implication holds when it has negative eigenvalues.
 title: 'Damavandi, Hagh, Santangelo and Manning show that, for elastic energies quadratic in their constraints, constraint counting predicts energetic rigidity only when the system has no states of self-stress, and that when it has them the spectrum of the prestress matrix decides whether second-order rigidity implies energetic rigidity, with no general result when that matrix has negative eigenvalues'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-383 and QUESTION-389, at the reading review of
+    2026-11-11 (by question, ADR-091). QUESTION-383 names it among the
+    readings that show prestress deciding rigidity; QUESTION-389 as
+    "Existence against load": "The existence of states of self stress only
+    depends on the geometry of the system and does not imply that the
+    system has to be prestressed." No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -25,6 +35,9 @@ summary: >-
   with the hardest case left open by the authors. It does not say that a
   system with states of self-stress is never energetically rigid, nor that
   the shear modulus measures rigidity; and it covers Hookean energies only.
+bears_on:
+- QUESTION-383
+- QUESTION-389
 ---
 
 # THEORY-1419: Damavandi, Hagh, Santangelo and Manning show that, for elastic energies quadratic in their constraints, constraint counting predicts energetic rigidity only when the system has no states of self-stress, and that when it has them the spectrum of the prestress matrix decides whether second-order rigidity implies energetic rigidity, with no general result when that matrix has negative eigenvalues

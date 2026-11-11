@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpv2pte
 title: 'Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,14 @@ history:
     chapters V to VIII and the recommendations) and GAO-02-195 were read
     (NOTE-1090, NOTE-1088). Two of the case's sourced details
     are not in the cited works. The case is otherwise unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-264 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names it as "the record's
+    documented case" of interpretation, authority and persistence
+    coming apart in one organization. It gains distributed-agency, the
+    question's first line, after its own (ADR-085). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -20,7 +28,9 @@ tags:
 - society-and-governance
 - epistemology
 date: '2026-10-22'
-line: will-organization
+line:
+- will-organization
+- distributed-agency
 illustrates:
 - CLAIM-403
 summary: >-
@@ -38,6 +48,8 @@ reported_in:
 - NOTE-1088
 - NOTE-1090
 - THEORY-140
+bears_on:
+- QUESTION-264
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->
 

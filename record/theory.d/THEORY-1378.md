@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6sg3n
 title: 'Gerardi and Maestri show that when a firm can offer a privately informed worker only short-term contracts, then as both become patient the unique limiting outcome is a pooling contract with no learning if the prior that the worker is low-cost is below a threshold, and immediate firing of the high-cost worker if it is above, both inefficient'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-04'
@@ -26,6 +26,13 @@ history:
     pooling with no learning below a prior threshold and firing of the
     high-cost type above it." That is an independent test, moved to
     QUESTION-435.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-435, from the reading review of 2026-11-11, by
+    question: the question holds this reading's former promote_when, a
+    second source, so the reading is its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - game-theory
 date: '2026-11-04'
@@ -38,6 +45,8 @@ summary: >-
   Guesnerie and Tirole (1985), whose own two-period result it does not
   restate. It holds in the limit as patience tends to one, with two types
   and irreversible quitting; with rehiring the conclusion fails.
+bears_on:
+- QUESTION-435
 ---
 <!-- inactive-ok-file: LIT-2062 — Unfetched; the unread original this reading stands in for, cited as open -->
 

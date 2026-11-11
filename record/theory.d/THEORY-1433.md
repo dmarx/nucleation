@@ -11,7 +11,16 @@ promote_when: >-
   parameter raises geometric advantage while lowering mechanical
   advantage.
 title: 'Krishnakumar and Suresh show that compliant mechanisms can be designed by topology optimization without pseudo-densities, by removing material where the topological derivative of a mutual-to-weighted-input-and-output strain-energy objective is lowest, which yields designs without point hinges and lets one parameter trade geometric against mechanical advantage'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-381, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as "a second mechanical
+    precedent" for synthesizing an architecture from what it must do,
+    inverse design "min_G C(G) subject to the demands lying in K(G)". No
+    other change.
 tags:
 - natural-sciences
 - operations-research
@@ -26,6 +35,8 @@ summary: >-
   authors' account of their own method, not of Sigmund's; it does not say
   that the designs stay hinge-free under stress constraints or large
   deformation, or that they were built.
+bears_on:
+- QUESTION-381
 ---
 <!-- inactive-ok-file: LIT-2043 — Unavailable and new; the unread original this neighbour stands in for, cited as open -->
 

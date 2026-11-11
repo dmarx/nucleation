@@ -15,7 +15,15 @@ promote_when: >-
   cannot settle it: more function-vector results of the same kind, or
   accuracy matched across the two forms, which the claim already allows.
 title: 'A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-024
+    added. Its text: "the account bears on QUESTION-024 but does not
+    answer it". The relation it described and did not declare. No
+    other change.
 tags:
 - representation-learning
 - pragmatics
@@ -31,6 +39,8 @@ summary: >-
   [LIT-946](../literature.d/LIT-946.md), read in [NOTE-789](../notes.d/NOTE-789.md), find the same split in representational
   geometry. Neither shows that no common representation exists, only that
   these methods find none; neither varies a pragmatic frame.
+bears_on:
+- QUESTION-024
 ---
 <!-- inactive-ok-file: CLAIM-029 THEORY-251 — Proposed; claims and theories this account bears on, open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo2ib0
 title: 'Schwerdtfeger shows that Gopalan, Kolaitis, Maneva and Papadimitriou''s connectivity dichotomies for Boolean constraint languages overlooked constraints in which a variable occurs twice, and that they hold once tight sets are replaced by safely tight ones, whose relations keep their component properties when variables are identified, which moves the boundary slightly toward the hard side'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,14 @@ history:
     Theorems 2.7–2.10 with safely tight sets, Theorem 13 doing the same for
     connectivity. promote_when deleted on promotion. The trichotomy is read
     but gets no account of its own, by the same ruling.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-377, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question's note of 2026-11-05:
+    "Schwerdtfeger's correction restates the boundary for safely tight
+    languages, and the hard side only grows", part of the partial answer
+    by analogy. No other change.
 tags:
 - mathematics
 - operations-research
@@ -30,6 +38,8 @@ summary: >-
   trichotomy for connectivity the paper also proves, which is read but not
   filed as an account, and it says nothing beyond Boolean domains with
   constants and single-flip moves.
+bears_on:
+- QUESTION-377
 ---
 
 # THEORY-1413: Schwerdtfeger shows that Gopalan, Kolaitis, Maneva and Papadimitriou's connectivity dichotomies for Boolean constraint languages overlooked constraints in which a variable occurs twice, and that they hold once tight sets are replaced by safely tight ones, whose relations keep their component properties when variables are identified, which moves the boundary slightly toward the hard side

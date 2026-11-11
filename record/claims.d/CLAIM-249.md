@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpt76qw
 title: 'Comparing characters across realizations needs one group identified on both, which is fixed only up to automorphism, and automorphisms permute the irreducible characters, so "the same character" is relative to a chosen correspondence: the collapse problem again, at the level of the symmetry group'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-036
+    added. The question's note of 2026-10-12: CLAIM-249 "leans toward
+    the negative answer this question allows for"; its text: "The
+    transformations the line studies are not group elements". No other
+    change.
 role: granted
 warrant: demonstrated
 tags:
@@ -33,6 +42,8 @@ summary: >-
   chooses, with its action on each medium fixed independently: [CLAIM-011](CLAIM-011.md)'s
   anchoring once more. Granted, because the argument is elementary.
   [CLAIM-132](CLAIM-132.md) and [TERM-041](../terms.d/TERM-041.md) hold neighbouring limits, not this one.
+bears_on:
+- QUESTION-036
 ---
 <!-- inactive-ok-file: CLAIM-137 — Proposed; the owner's thesis, open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-103 — Proposed; cited for the semigroup of transformations and the invertible core of stochastic maps, open -->

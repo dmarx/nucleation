@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmp1uzfn
 title: 'The discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named populations in two languages on stated tasks'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question's text: "The record's replies answer part of
+    it": "CASE-055 names populations, tasks and an invariance test for
+    one study." No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -27,6 +35,8 @@ summary: >-
   rival, a behavioural task-indexed criterion, predictors rated by other
   raters, named populations, an interlingual arm and a measurement
   stage. It has not been run, and its margins are not yet fixed.
+bears_on:
+- QUESTION-075
 ---
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 CLAIM-240 CLAIM-228 — Proposed; the record's revised theses and restated measures of 2026-10-10, open, which this design would test -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; an objection this design answers, left open until the owner decides on the revised theses -->

@@ -17,7 +17,17 @@ promote_when: >-
   of whether ethics fixes what matters, which would change how every case
   is read without counting for or against this one.
 title: "In the ethical questions that seem to turn on whether someone is the same person, among them prudential concern, responsibility, abortion, advance directives and the separateness of persons, the relation that decides is usually not numerical identity but one that comes apart from it, so the metaphysics of persistence constrains these questions and rarely settles them"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-302, from the reading review of 2026-11-11, by
+    question. The question uses it for its second half, whether the
+    animal after is the one that learned: "That is a partial
+    connection under biological identity (THEORY-464), not continuity
+    through a wholly rebuilt body". A Proposed reading may bear (the
+    reading-review skill). No other change.
 tags:
 - personhood
 - ethics
@@ -34,6 +44,8 @@ summary: >-
   matters: uniqueness may matter for positional goods, and biological views
   support prohibiting abortion more strongly than psychological ones,
   without forcing it.
+bears_on:
+- QUESTION-302
 ---
 <!-- inactive-ok-file: THEORY-447 — Proposed; the presupposed account, filed in the same batch; if it falls this one needs another premise -->
 <!-- inactive-ok-file: THEORY-448 THEORY-546 THEORY-650 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->

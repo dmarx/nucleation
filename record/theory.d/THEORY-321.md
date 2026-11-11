@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprmrt9
 title: "Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -32,6 +32,13 @@ history:
     "strongly connected" narrowing is stronger than consensus needs; the
     earlier note of the day now cites THEORY-960 for ℓ = π. The
     reading is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-184, from the reading review of 2026-11-11, by
+    question: the question holds this reading's former promote_when, a
+    case outside the model, so the reading is its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - network-science
 - social-science
@@ -48,6 +55,7 @@ summary: >-
   n → ∞. Speed of consensus and its correctness are independent.
 bears_on:
 - QUESTION-047
+- QUESTION-184
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 

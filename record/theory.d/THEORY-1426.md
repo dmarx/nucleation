@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmptcu66
 title: 'Hua, Luo, Swersey and Wen solve the spatial hypercube queueing model with server-specific service rates by an iteration on a birth–death reformulation, and state a proof that, under their Assumption 3.1, a technical bound on how far the rates differ, it converges to the exact stationary distribution at a geometric rate'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-04'
@@ -33,6 +33,15 @@ history:
     checks for equal rates and has a gap for unequal ones. Whether the
     iteration converges for unequal rates, with or without the assumption,
     is QUESTION-434.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-434, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060): the question asks whether the
+    theorem this reading reports holds for unequal rates, and the
+    reading's own text says so ("Whether the theorem holds for unequal
+    rates, and whether the assumption is needed, is QUESTION-434"). No
+    other change.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -49,6 +58,8 @@ summary: >-
   (see the note below). The reported speed-ups against a sparse solver,
   simulation and Larson's own method are not part of the account and were
   not checked.
+bears_on:
+- QUESTION-434
 ---
 
 # THEORY-1426: Hua, Luo, Swersey and Wen solve the spatial hypercube queueing model with server-specific service rates by an iteration on a birth–death reformulation, and state a proof that, under their Assumption 3.1, a technical bound on how far the rates differ, it converges to the exact stationary distribution at a geometric rate

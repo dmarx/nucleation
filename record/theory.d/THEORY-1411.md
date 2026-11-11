@@ -11,7 +11,18 @@ promote_when: >-
   the variance of crease stiffness grows while enlarging the attractors of
   those that remain.
 title: 'Stern, Arinze, Perez, Palmer and Murugan show in simulation that a creased thin sheet trained by repeatedly folding it under example force patterns, with each crease softening when a supervisor judges the fold correct and stiffening otherwise, comes to fold unseen test force patterns into the correct class''s structure, because the heterogeneous stiffness it acquires eliminates most folded structures and enlarges the basins of a few'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-373 and QUESTION-388, at the reading review of
+    2026-11-11 (by question, ADR-091). Both name it as their case of a
+    trainable sheet gated from outside: QUESTION-373, "A supervisor ...
+    the creased sheet rewrites its own stiffnesses, but only on a
+    supervisor's verdict"; QUESTION-388, "the verdict that drives g comes
+    from outside". Its own title: each crease softens "when a supervisor
+    judges the fold correct". No other change.
 tags:
 - natural-sciences
 - learning-theory
@@ -26,6 +37,9 @@ summary: >-
   reason. It is a result about a model: it does not say that any physical
   sheet has been trained, that the sheet learns without an external
   supervisor, or that it scales beyond small two-class tasks.
+bears_on:
+- QUESTION-373
+- QUESTION-388
 ---
 
 # THEORY-1411: Stern, Arinze, Perez, Palmer and Murugan show in simulation that a creased thin sheet trained by repeatedly folding it under example force patterns, with each crease softening when a supervisor judges the fold correct and stiffening otherwise, comes to fold unseen test force patterns into the correct class's structure, because the heterogeneous stiffness it acquires eliminates most folded structures and enlarges the basins of a few

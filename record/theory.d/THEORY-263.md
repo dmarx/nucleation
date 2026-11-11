@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgdeej
 title: "A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -17,6 +17,15 @@ history:
     measure. NOTE-806 followed Theorem 1's proof step by step. The
     promote_when's request for a second source deriving the bound from a
     variable-rate covering outside finite alphabets moves to QUESTION-174.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-174, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the "variable-rate covering outside finite alphabets
+    moves to QUESTION-174"); a question that holds a reading's moved
+    condition takes its bears_on, the reading being its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - learning-theory
 - information-theory
@@ -33,6 +42,8 @@ summary: >-
   construction is proved for finite alphabets only. The general proofs
   are change of measure. The rate is a Shannon code-length difference
   against a prior, not Kolmogorov complexity.
+bears_on:
+- QUESTION-174
 ---
 
 # THEORY-263: A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound

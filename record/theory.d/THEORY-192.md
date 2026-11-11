@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpae88o
 title: 'In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm of exploration time'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,15 @@ history:
     correlation measured (r = 0.85 across days, r = 0.50 within the long
     track). The promote_when, which asked for a replication and for a flat
     multiscale null, moves unchanged to QUESTION-153 and is removed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-153, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the multiscale-null clause, which "moves unchanged to
+    QUESTION-153"); a question that holds a reading's moved condition
+    takes its bears_on, the reading being its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - neuroscience
 - mathematics
@@ -33,6 +42,8 @@ summary: >-
   rose with log exploration time from seconds to days. It does not show
   that the metric, as opposed to the distribution of field scales, is
   hyperbolic, nor that a tree is represented.
+bears_on:
+- QUESTION-153
 ---
 
 # THEORY-192: In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm of exploration time

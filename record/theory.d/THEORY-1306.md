@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4nt8x
 title: 'Juarrero, restating the hierarchy theory of Salthe, Allen and Starr, and Allen, O''Neill and Hoekstra, holds that boundaries between levels of organization are typically marked by sharp discontinuities in order parameters and average process and relaxation rates, overarching levels being usually slower than their components; that levels relate by constraint, not energy exchange, because the faster level''s dynamics complete before the slower level''s feedback arrives; and that a lack of asymmetry in cycling rates between levels reflects the absence of control constraint by one on the other, regardless of signal amplitude, and of qualitative difference between them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,15 @@ history:
     shows when the reduced description is accurate, not that control is lost
     when it fails, so it does not settle this alone; nor do institutional or
     oncological examples.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-440, from the reading review of 2026-11-11, by
+    question. The question names it as one side it holds: "the slower
+    level controls by constraint only while rates stay separated",
+    which is this reading's "levels relate by constraint" and "a lack
+    of asymmetry in cycling rates ... reflects the absence of control
+    constraint". No other change.
 tags:
 - complex-systems
 - philosophy-of-science
@@ -54,6 +63,8 @@ summary: >-
   the book has no model, and the loss of control on convergence is
   asserted, not shown. That thesis is kept, Proposed, in THEORY-1558, which
   extends this one.
+bears_on:
+- QUESTION-440
 ---
 <!-- inactive-ok-file: CLAIM-478 THEORY-1558 — Proposed or new; the claims it bears on and the wide form that extends it, cited as open -->
 

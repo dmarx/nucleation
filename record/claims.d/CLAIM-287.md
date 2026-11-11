@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzkkx2
 title: 'What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -33,6 +33,15 @@ history:
     the summary names, and the body says the claim bears on QUESTION-043,
     as its bears_on edge does (ADR-060), where it said it answers it in
     part. The claim is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-123, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). The question's hard cases "are
+    the ones CLAIM-287 makes possible": the claim holds that the
+    continuity of an organization "can branch and merge, so it is not
+    an identity relation", which is why no one-to-one correspondence
+    between earlier and later demands need exist. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +79,7 @@ summary: >-
   uses [TERM-045](../terms.d/TERM-045.md)'s persisting sense.
 bears_on:
 - QUESTION-043
+- QUESTION-123
 ---
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->

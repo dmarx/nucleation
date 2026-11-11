@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp1rlu5
 title: 'Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source''s questions undecidable for its readers and decides others the source left open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-023
+    added. The question's note of 2026-10-12 says it "filed a proposal
+    that bears on it": CLAIM-201's "Readers inside such a milieu can
+    answer an insider question, who among the speakers belongs, that
+    readers outside it cannot." Whether it answers is left to the
+    owner, so bears_on. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +54,8 @@ summary: >-
   and manuscript §11's "A transport may preserve overlaps but change the
   available measurement cover". A proposal; its test is the discriminating
   study.
+bears_on:
+- QUESTION-023
 ---
 <!-- ref::uses-file: TERM-043 — applied unnamed: the weighted observational distortion D_obs computed in the example is the observational component of the profile this term defines -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the headline this claim narrows, open -->

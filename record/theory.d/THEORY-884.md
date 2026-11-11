@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7q3ne
 title: 'A retained state supports exact answers to a declared family of questions after every finite sequence of a declared family of total deterministic revisions exactly when each of its fibres lies within one class of the coarsest revision-invariant refinement of agreement on current answers; that refinement can be strictly finer than what present answers require, and at most K* − K revision sequences, beyond the current answers, are needed to tell its K* classes apart'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -18,6 +18,15 @@ history:
     criterion and the bound, not that they are the classical
     construction. So the demand that they be tied to Moore or Nerode moves
     to QUESTION-359 (ADR-065 §3). The old promote_when: A second check that ties the result to the classical theorem rather than to this unreviewed web paper alone: a reading of Moore (1956) or Nerode (1958), or a standard automata text, that identifies Proposition 4 as the minimal-machine (Myhill–Nerode, Moore partition-refinement) construction applied to the target family {T_d ∘ J_u}, with its hypotheses (finite state set closed under total deterministic revisions, a state that includes any law needed to make revision Markovian). It is refuted by a finite counterexample: a representation one of whose fibres meets two ≈-classes and that still admits updates and decoders reproducing every target after every revision word, or a system that needs more than K* − K added revision words to separate its classes. Empirical results about agents cannot settle it either way; it is a statement about representations, not about what any reader does with them.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-359, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the tie to Moore and Nerode, moved "to QUESTION-359
+    (ADR-065 §3)"); a question that holds a reading's moved condition
+    takes its bears_on, the reading being its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - information-theory
 - epistemology
@@ -35,6 +44,7 @@ summary: >-
   part, and it is not an efficient construction.
 bears_on:
 - QUESTION-112
+- QUESTION-359
 ---
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; the claims this account bears on, named, not leaned on -->
 

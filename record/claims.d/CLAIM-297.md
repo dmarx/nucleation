@@ -7,7 +7,7 @@ title: When an operator's authority is updated by how well it performs on the in
   it helped make dominant, the coupled meaning and influence of an organization
   can amplify an initial interpretive advantage without any gain in fidelity to
   independent evidence
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-26'
@@ -53,6 +53,15 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-126, from the reading review of 2026-11-11, by
+    question. The question names it for what authority may follow
+    instead of the binding demands: "on CLAIM-297, authority updated
+    on the interpretation it helped make dominant amplifies without
+    fidelity, so the 'something else' may be the dominant
+    interpretation itself". No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -89,6 +98,7 @@ summary: >-
   against it.
 bears_on:
 - QUESTION-100
+- QUESTION-126
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

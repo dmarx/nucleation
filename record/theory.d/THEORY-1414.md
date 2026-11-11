@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo2kzn
 title: 'Rocks and Mehta show that stating Maxwell–Calladine counting in terms of elastic susceptibilities gives an index theorem that holds with prestress and heterogeneous stiffness, in which the zero-displacement tensions are the states of self-stress while the forces that excite each linear zero mode follow the joint symmetry of geometry and energy, and on two worked networks prestress breaking a geometric symmetry redirects those forces and localizes them to the prestressed bonds without changing the mechanisms'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -35,6 +35,14 @@ history:
     modes unchanged. It now corroborates CLAIM-588, from whose grounds it
     moved under ADR-058, and the status review's own sharpening,
     CLAIM-609.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-383 and QUESTION-389, at the reading review of
+    2026-11-11 (by question, ADR-091). QUESTION-383 names it among the
+    readings that "show prestress deciding rigidity that linear counts do
+    not see"; QUESTION-389 takes from it the split it asks about, N_dof −
+    N_c = #LZMs − #SSSs. No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -43,6 +51,8 @@ source:
 - LIT-2112
 bears_on:
 - QUESTION-423
+- QUESTION-383
+- QUESTION-389
 corroborates:
 - CLAIM-588
 - CLAIM-609

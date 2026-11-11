@@ -4,14 +4,26 @@ status: Active
 formerly:
 - CASE-tmpxqgai
 title: 'Three finite-state systems that dissociate slowness, member regeneration and transmission: a slow flip register no member reads (second eigenvalue 0.98), a register members read and rewrite that forgets fast (second eigenvalue 0.2, nonzero intervention effect), and a rule passed through an archive between two episodes that never run together'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-440 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names its arm A, "a slow
+    register no member reads", against slowness as authority: a
+    variable can be slow and govern nothing. It gains
+    will-organization, the question's first line, after its own
+    (ADR-085). No other change.
 standing: fictional
 kind: construction
 tags:
 - complex-systems
 - individuation
 date: '2026-10-18'
-line: distributed-agency
+line:
+- distributed-agency
+- will-organization
 illustrates:
 - CLAIM-287
 - CLAIM-329
@@ -25,6 +37,8 @@ summary: >-
   necessary, and it holds only for weak maintenance, in A4's words. Arm C
   is [CLAIM-287](../claims.d/CLAIM-287.md)'s dormant coalition and does not settle identity.
   Fictional by construction.
+bears_on:
+- QUESTION-440
 ---
 
 # CASE-116: Three finite-state systems that dissociate slowness, member regeneration and transmission: a slow flip register no member reads (second eigenvalue 0.98), a register members read and rewrite that forgets fast (second eigenvalue 0.2, nonzero intervention effect), and a rule passed through an archive between two episodes that never run together

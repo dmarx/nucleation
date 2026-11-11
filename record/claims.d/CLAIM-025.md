@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -28,6 +28,16 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-388, at the reading review of 2026-11-11 (by
+    question, ADR-091). Its own note of 2026-11-05: "QUESTION-388 asks
+    what separates a programmable system from one that governs its own
+    reconfiguration", and the question cites this claim's finding that in
+    the readings "the capacity to transform comes from outside, a robot,
+    rig or supervisor". Carries realizability, QUESTION-388's first line,
+    after its own (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +47,9 @@ tags:
 - agency
 - complex-systems
 date: '2026-10-04'
-line: will-organization
+line:
+- will-organization
+- realizability
 works:
 - organization-of-will
 grounds:
@@ -52,6 +64,8 @@ complements:
 - CLAIM-445
 - CLAIM-540
 - CLAIM-566
+bears_on:
+- QUESTION-388
 ---
 <!-- inactive-ok-file: LIT-2251 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->

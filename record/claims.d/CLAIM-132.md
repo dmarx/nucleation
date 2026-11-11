@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3sn40
 title: 'Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -22,6 +22,13 @@ history:
     paragraph after item 4 derives the general characteristic-zero
     case and reduces the compact case to the compact Lie case. The
     title is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-036
+    added. The question's note: CLAIM-132 and THEORY-019 "both lean
+    toward a negative answer: characters fix neither the group nor its
+    action". No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -47,6 +54,8 @@ summary: >-
   complete because the category is semisimple. Granted, because it bounds
   the owner's analogy: priority for classifying kinds up to isomorphism,
   in the most favourable setting, and no further.
+bears_on:
+- QUESTION-036
 ---
 <!-- inactive-ok-file: LIT-893 — Unavailable; registered unread as the standard source for results checked here by reasoning -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-136 — Proposed; the owner's two theses this entry bounds, both open -->

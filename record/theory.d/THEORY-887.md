@@ -16,7 +16,17 @@ promote_when: >-
   possible. Even if promoted it would be a claim about what nodes can
   observe of their neighbours, not about what people come to believe or do.
 title: "When an attribute is concentrated on well-connected nodes, many nodes can see it in a majority of their neighbours though it is globally rare, and the share that do grows with the correlation between degree and attribute, as the network becomes more disassortative and as its degree distribution becomes heavier-tailed"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-261, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). The question cites this
+    reading's work for how the apparent consensus forms: "Network
+    position can make a rare attribute look like a local majority to
+    most members (LIT-1390)". A Proposed reading may bear (the
+    reading-review skill). No other change.
 tags:
 - network-science
 - social-science
@@ -32,6 +42,8 @@ summary: >-
   distribution predicts the share. The edge: the attributes are assigned by
   the authors on every network, real ones included, so this shows what
   topology permits, and nothing about what people perceive, believe or do.
+bears_on:
+- QUESTION-261
 ---
 <!-- inactive-ok-file: CLAIM-415 — Proposed; the claim and account this one bears on, named, not leaned on -->
 <!-- inactive-ok-file: LIT-1370 — Deferred or Unavailable; cited as a work the source names, not leaned on -->

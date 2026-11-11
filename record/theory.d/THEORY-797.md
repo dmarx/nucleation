@@ -19,7 +19,18 @@ promote_when: >-
   the same renormalized model cannot settle it, nor can NC1–NC4 curves
   alone, which any account of collapse predicts.
 title: 'Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Answers QUESTION-181, as an offered answer (ADR-060: a Proposed entry
+    offers one), at the reading review of 2026-11-11 (by question,
+    ADR-091). Its own text: "The promote_when, which is the narrowed
+    entry's former condition. QUESTION-181 asks it"; its title asserts
+    what the question asks, that trained deep classifiers "move along the
+    central path by the dynamics of continually renormalized gradient
+    flow". No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -36,6 +47,8 @@ summary: >-
   derivation in a renormalized model ([THEORY-278](THEORY-278.md)) under [ADR-047](../decisions.d/ADR-047.md) v4.
   Renormalization is imposed, not measured, and every experiment used weight
   decay, which the derivation excludes.
+answers:
+- QUESTION-181
 ---
 
 # THEORY-797: Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose

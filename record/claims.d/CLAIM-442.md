@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0jfuz
 title: 'Frijda''s emotion and the potential account''s system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective''s valence is read on its claims, and the system''s valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system''s valence and leaves the perspectives'' emotions and valences as they were'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-29'
@@ -50,6 +50,16 @@ history:
     a second record", says what the record of conduct the question asks
     for can and cannot measure. The question's first line is already this
     claim's, so no line is added (ADR-085). No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-269, from the reading review of 2026-11-11, by
+    question. On suspension, the question cites it: it "reads it as
+    changing the system's valence while the perspectives' claims stay
+    fixed". The claim's title: "a change in grants with the claims
+    fixed, as mindfulness is said to make, changes the system's
+    valence". That is the case the question asks for, offered. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -91,6 +101,7 @@ summary: >-
   which is what the mindfulness case must show.
 bears_on:
 - QUESTION-268
+- QUESTION-269
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-484 CLAIM-432 — Proposed; the identification of conflict with the gap, and the claim whose reading of remorse disagrees with this one's, cited as open -->

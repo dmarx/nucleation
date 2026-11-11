@@ -10,7 +10,17 @@ promote_when: >-
   same readout on the raw inputs, and that retaining part of the
   configuration between steps lowers error on a sequential memory task.
 title: 'A multistable origami metamaterial driven by a fixed sequence of tension and compression can serve as the reservoir of a reservoir computer: a trained linear readout of its sequence of stable configurations classifies inputs better than the same readout of the raw inputs, and a retained buffer of cells carries input history'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-388, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as its fixed map with
+    learning elsewhere: the structure is a fixed map and a linear readout,
+    "trained in software, does the learning"; its own title, "a trained
+    linear readout of its sequence of stable configurations". No other
+    change.
 tags:
 - natural-sciences
 - complex-systems
@@ -23,6 +33,8 @@ summary: >-
   and the memory result are simulations with a least-action model; the
   experiment covers ten 5×4-pixel digits on a 4×2-cell prototype. It does
   not say that the material learns: only the linear readout is trained.
+bears_on:
+- QUESTION-388
 ---
 
 # THEORY-1431: A multistable origami metamaterial driven by a fixed sequence of tension and compression can serve as the reservoir of a reservoir computer: a trained linear readout of its sequence of stable configurations classifies inputs better than the same readout of the raw inputs, and a retained buffer of cells carries input history

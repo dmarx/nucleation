@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpcjqgc
 title: "In few-shot classification and multiple choice by language models up to 175B parameters, whether each demonstration's label is correct contributes little to the gain over zero-shot, while the distribution of the inputs, the label space and the paired format carry most of it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-024
+    added. QUESTION-024 was opened from Min et al.: "A prompt can
+    establish a communicative convention without necessarily conveying
+    accurate propositional examples of the task." This reading holds
+    it: whether each label "is correct contributes little", while "the
+    label space and the paired format carry most of it". A premise of
+    the question. No other change.
 tags:
 - representation-learning
 - anthology-candidate
@@ -22,6 +33,8 @@ summary: >-
   datasets, and the authors' reading that the models learn no new
   correspondence at test time is untested on tasks pretraining cannot
   have taught.
+bears_on:
+- QUESTION-024
 ---
 <!-- inactive-ok-file: CLAIM-029 — Proposed; the claim that reads this result as support, named, not leaned on -->
 

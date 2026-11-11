@@ -6,7 +6,7 @@ formerly:
 title: Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a sufficient
   state for updating on evidence about what it depended on
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -28,6 +28,16 @@ history:
     line CLAIM-295's thesis belongs to. Since the split of that
     line (ADR-082) CLAIM-295 and this claim carry records-of-
     inquiry, which the body now names. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-366, from the reading review of 2026-11-11, by
+    question. The question gives it as the record's "one demonstrated
+    reason" for keeping its history: "Two inquiries can agree on every
+    current conclusion and still call for different revisions
+    (CLAIM-294)", the narrow answer, revision only. It gains
+    record-as-apparatus, the question's first line, after its own
+    (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -41,6 +51,7 @@ date: '2026-10-15'
 line:
 - records-of-inquiry
 - formal-apparatus
+- record-as-apparatus
 answers:
 - QUESTION-289
 grounds:
@@ -54,6 +65,8 @@ summary: >-
   marginal merges histories that need different updates. It does not say a full
   posterior falls short ([CLAIM-300](CLAIM-300.md)), or that a dependency graph is the fix
   ([CLAIM-293](CLAIM-293.md)).
+bears_on:
+- QUESTION-366
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

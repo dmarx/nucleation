@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpklgk5
 title: 'Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -15,6 +15,17 @@ history:
     feasibility obstruction, and that is the one part the case
     illustrates. Reported by the synthesis review of 2026-11-11
     (seventh round). No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-097 (ADR-092), from the reading review of
+    2026-11-11, by question. The construction separates an
+    observational limitation from an actuation limitation at equal
+    performance: "Supplying additional observation does not overcome
+    S's physical restriction", and E "can produce either output, but
+    its observation is identical in both contexts". It models the two
+    equivalences the question asks about coming apart. No other
+    change.
 standing: fictional
 kind: construction
 tags:
@@ -43,6 +54,8 @@ summary: >-
   A's meta-learning extension is a proposed study and is not filed here.
   The wording is A's, sharpened by the reader; adopting it is the owner's
   call.
+bears_on:
+- QUESTION-097
 ---
 <!-- inactive-ok-file: ARG-025 CLAIM-427 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

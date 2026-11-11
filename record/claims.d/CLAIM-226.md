@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdwfva
 title: 'The defeat tests pool unnamed judges and treat their disagreement as noise, though the theory makes the act partly constituted by its audience; for historical sources there is no source audience at all, and for interlingual ones population differences are read as distortion'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -14,6 +14,13 @@ history:
     anchor items, and historical sources scoped to a stated modern
     reading; QUESTION-075 holds the open part. Status Proposed to
     Active.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question was "Raised by CLAIM-244 and CLAIM-226". Its
+    version 2 note: "QUESTION-075 holds the open part." A premise of
+    the question. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -39,7 +46,10 @@ summary: >-
   transport. [CLAIM-074](CLAIM-074.md) says fidelity differs across interpreters, as a
   thesis; it is not applied to the tests. It does not say
   cross-population fidelity is meaningless.
+bears_on:
+- QUESTION-075
 ---
+<!-- inactive-ok-file: CLAIM-244 — Proposed; the objection that, with this claim, raised QUESTION-075, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the thesis this objection is to, as worded; the objection stays pointed at it -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the line's own theses the pooled tests are inconsistent with, not as settled -->
