@@ -218,7 +218,7 @@ The account of the distributed-agency line, over the accounts of its ten parts: 
 
 #### [SYNTHESIS-056](../record/syntheses.d/SYNTHESIS-056.md): An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -892,7 +892,7 @@ whether an organization's own dynamics ground norms of function and failure, and
 
 ### [SYNTHESIS-038](../record/syntheses.d/SYNTHESIS-038.md): A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
 
-*Proposed · version 2*
+*Proposed · version 3*
 
 The account of the organizational-normativity line: what the record holds about normative judgment of organizations. The paper disclaims that viability establishes what ought to persist ([CLAIM-075](../record/claims.d/CLAIM-075.md)). The owner's [CLAIM-363](../record/claims.d/CLAIM-363.md) holds that a normative judgment needs fixed relata and can then be false, and [CLAIM-518](../record/claims.d/CLAIM-518.md), narrowed under [CLAIM-512](../record/claims.d/CLAIM-512.md)'s objection, that some judgments need histories. The owner's [CLAIM-614](../record/claims.d/CLAIM-614.md) presupposes a wrong beyond harm in an organization that reproduces what hides its harm; A's [CLAIM-624](../record/claims.d/CLAIM-624.md) (Proposed, admitted) makes it a bounded duty of answerability, and [CLAIM-619](../record/claims.d/CLAIM-619.md) a counter-corrective disposition. The account adds nothing of its own; its standing is its components'.
 
@@ -921,6 +921,7 @@ The account of the organizational-normativity line: what the record holds about 
 | [QUESTION-129](../record/questions.d/QUESTION-129.md) | QUESTION | Open | Can relationally indexed normative judgments be objective about the standards and perspectives themselves, so that some conflicts between standpoints have objectively better resolutions, without presupposing the normativity they were meant to explain? |
 | [QUESTION-256](../record/questions.d/QUESTION-256.md) | QUESTION | Open | What forms of continuity must a person keep to remain capable of governing changes in their own practical organization, and which of those forms can other processes, other people or the environment supply? |
 | [QUESTION-441](../record/questions.d/QUESTION-441.md) | QUESTION | Open | What exactly is the counter-normativity committed by a self-maintaining organization that harms and reproduces the representational projections that make the harm non-legible, what makes it reproductive, and when is it the organization's own rather than its participants'? |
+| [ARG-063](../record/arguments.d/ARG-063.md) | ARG | Proposed | A two-regime reporting construction shows that a harmful outcome and the regime that keeps it unrecorded can sustain each other without intent, separating actual from recorded violation, and shows nothing normative |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the organizational-normativity line left out; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it.
 
