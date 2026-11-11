@@ -28,7 +28,7 @@ summary: >-
 
 ## Context
 
-ADR-091 set up the reading review; its skill carries the steps, and ADR-090
+[ADR-091](ADR-091.md) set up the reading review; its skill carries the steps, and [ADR-090](ADR-090.md)
 derives a reading's lines from the entries that use it. The first by-topic
 run, on 2026-11-11, took the five largest primary topics of the readings
 no line used: 222 readings, read by five readers in parallel. It tied 101,
@@ -36,23 +36,23 @@ raised a question and a claim from 4, and held 117.
 
 Three findings bear on how the record should work, not only on that run:
 
-- **Most of the "unused" readings were named.** QUESTION-271,
-  QUESTION-275, QUESTION-276 and CLAIM-454, among others, named readings
+- **Most of the "unused" readings were named.** [QUESTION-271](../questions.d/QUESTION-271.md),
+  [QUESTION-275](../questions.d/QUESTION-275.md), [QUESTION-276](../questions.d/QUESTION-276.md) and [CLAIM-454](../claims.d/CLAIM-454.md), among others, named readings
   as their evidence in their bodies and dated notes without the relation.
-  QUESTION-271 alone took twelve ties, QUESTION-275 fourteen, CLAIM-454
+  [QUESTION-271](../questions.d/QUESTION-271.md) alone took twelve ties, [QUESTION-275](../questions.d/QUESTION-275.md) fourteen, [CLAIM-454](../claims.d/CLAIM-454.md)
   ten. The view counted them unused because the relation was never
   written when the note was.
 - **The readers met the same unsettled cases.** All five asked whether a
-  claim's "supporting cases" are evidence it does not need (ADR-058's
+  claim's "supporting cases" are evidence it does not need ([ADR-058](ADR-058.md)'s
   corroboration), whether a question's named instruments and cautions are
-  premises (ADR-060), how to count a reading tied to several entries, and
+  premises ([ADR-060](ADR-060.md)), how to count a reading tied to several entries, and
   what to do when the only entry using a reading is one that cannot carry
   a relation to it: a case (which reaches a reading only by `reported_in`,
   provenance), a term (for a definition) or a synthesis. Each answered
   alone; their answers agreed, but nothing held them.
 - **Two parts raised the same question** from readings in different topics
   (constructor theory's laws of possibility as constraints realized by
-  nothing, CLAIM-477's defeater (b)). The second withdrew its duplicate
+  nothing, [CLAIM-477](../claims.d/CLAIM-477.md)'s defeater (b)). The second withdrew its duplicate
   only because the coordinator relayed the first.
 
 ## Decision
@@ -65,12 +65,12 @@ Three findings bear on how the record should work, not only on that run:
 2. **Supporting cases, instances and precedents corroborate.** A claim that
    lists a reading among its supporting cases, or cites it as an instance,
    parallel or precedent it does not need, takes it as `corroborates`
-   (ADR-058). A claim that disclaims a reading as evidence takes nothing. A
+   ([ADR-058](ADR-058.md)). A claim that disclaims a reading as evidence takes nothing. A
    precedent from another domain corroborates only a claim whose scope
    reaches that domain.
 3. **A question's instruments are its premises.** A question that names a
    reading as an instrument, measure or caution for its own test takes it
-   as `bears_on` (ADR-060). So does a reading that qualifies the answer of
+   as `bears_on` ([ADR-060](ADR-060.md)). So does a reading that qualifies the answer of
    an Answered question without answering it alone.
 4. **One verdict per reading.** A reading tied to several entries is one
    tie in a review's count; the account lists every relation.
@@ -84,7 +84,7 @@ Three findings bear on how the record should work, not only on that run:
    reading as `corroborates` where the claim does its own work with the
    result, or as `grounds` where the claim uses it as an unproved premise.
    The claim's LIT edge is moved or dropped by a defect sweep, under
-   ADR-058.
+   [ADR-058](ADR-058.md).
 7. **A split run coordinates its raises.** Each reader checks a shared list
    of the run's raises before filing one, and adds its own. The
    coordinator merges any duplicate left, keeping the first code. Where two
