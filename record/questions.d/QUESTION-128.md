@@ -4,13 +4,23 @@ status: Open
 formerly:
 - QUESTION-tmpowurn
 title: 'Does the record''s organizational account give a path to normativity from first principles: can norms of function and failure be defined from an organization''s own dynamics, and what more do practical and moral authority need?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 tags:
 - ethics
 - philosophy-of-biology
 - agency
 date: '2026-10-18'
-line: will-organization
+line:
+- organizational-normativity
 summary: >-
   The owner's, U16 of the exchange of 2026-10-17: "does our account
   provide or perhaps at least allude to a path towards an account of

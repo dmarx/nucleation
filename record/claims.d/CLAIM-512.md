@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp1l3am
 title: 'The diachronic thesis faces two objections: a dilemma, that read narrowly it fails for judgments not about any organization''s continuation, such as that suffering is bad, and read broadly every judgment is met vacuously as a preference between continuations unless the organizational description adds causal specificity, transfer or counterfactual discrimination; and a distinction, that evaluating a history is not prescribing its continuation, so a judgment can be determinate with no future transformation fixed'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-31'
@@ -37,13 +37,21 @@ history:
     delegated these rulings). Version 3's "Its broad horn stands against
     the narrowed thesis and is what holds CLAIM-518 back." no longer
     holds. The claim is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: counter
 warrant: interpretive
 tags:
 - ethics
 date: '2026-10-31'
 line:
-- will-organization
+- organizational-normativity
 objects_to:
 - 'CLAIM-518'
 - 'CLAIM-608'

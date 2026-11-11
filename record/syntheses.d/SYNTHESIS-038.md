@@ -4,11 +4,19 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmphe0p9
 title: 'A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the split of will-organization (ADR-tmpczmfi), this part's
+    entries became the line organizational-normativity, and this
+    account became that line's account. Its line, defeater and
+    introduction change to say so; its components and the links it
+    states are unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
-  the part of the will-organization line on normative judgment about
-  organizations left out; or a link this account states that no component
+  the organizational-normativity line left out; or a link this account states that no component
   states. Its standing is its components': a component retired or demoted
   takes its clause with it.
 tags:
@@ -17,7 +25,7 @@ tags:
 - self-governance
 date: '2026-11-11'
 line:
-- will-organization
+- organizational-normativity
 integrates:
 - CLAIM-075
 - CLAIM-363
@@ -46,7 +54,7 @@ bears_on:
 - QUESTION-128
 - QUESTION-441
 summary: >-
-  A part account of the will-organization line: what the record holds
+  The account of the organizational-normativity line: what the record holds
   about normative judgment of organizations. The paper disclaims that
   viability establishes what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)). The owner's
   [CLAIM-363](../claims.d/CLAIM-363.md) holds that a normative judgment needs fixed relata and can then
@@ -57,13 +65,13 @@ summary: >-
   answerability, and [CLAIM-619](../claims.d/CLAIM-619.md) a counter-corrective disposition. The
   account adds nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-083 ADR-084 ARG-043 ARG-055 ARG-058 ARG-059 ARG-062 ARG-064 CASE-229 CLAIM-445 CLAIM-511 CLAIM-608 CLAIM-614 CLAIM-619 CLAIM-624 TERM-118 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-043 ARG-055 ARG-058 ARG-059 ARG-062 ARG-064 CASE-229 CLAIM-445 CLAIM-511 CLAIM-608 CLAIM-614 CLAIM-619 CLAIM-624 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-070 — Deferred; components and citations, set aside -->
 <!-- inactive-ok-file: ARG-071 — Rejected; components and citations, with their standing -->
 
 # SYNTHESIS-038: A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
 
-*A part account of the will-organization line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); the line's account is built over it.*
+*The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md)), where it was a part account. Its premises from will-organization, [CLAIM-523](../claims.d/CLAIM-523.md) and [CLAIM-445](../claims.d/CLAIM-445.md), are dependencies across lines.*
 
 ## The account
 

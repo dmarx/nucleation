@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp025xj
 title: 'A self-maintaining organization ought to preserve its corrigibility'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-31'
@@ -24,6 +24,14 @@ history:
     through the first line of an entry it names: will-organization,
     since it bears on QUESTION-128, bears on QUESTION-129. No other
     change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -32,7 +40,7 @@ tags:
 date: '2026-10-31'
 line:
 - distributed-agency
-- will-organization
+- organizational-normativity
 complements:
 - CLAIM-462
 bears_on:

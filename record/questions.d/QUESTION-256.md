@@ -4,13 +4,23 @@ status: Open
 formerly:
 - QUESTION-tmp2kmbr
 title: 'What forms of continuity must a person keep to remain capable of governing changes in their own practical organization, and which of those forms can other processes, other people or the environment supply?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 tags:
 - self-governance
 - neuroscience
 - embodied-cognition
 date: '2026-10-22'
-line: will-organization
+line:
+- organizational-normativity
 summary: >-
   A26's closing question in the exchange of 2026-10-22, drawn from the
   owner's case of Clive Wearing ([CASE-137](../cases.d/CASE-137.md)). Wearing keeps skilled and
