@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpq39lu
 title: "Classifier-free guidance extrapolates between a conditional and an unconditional score learned by one network; with exact scores this equals classifier guidance by the classifier the generative model defines through Bayes' rule, but learned scores need not be conservative, so the guided field is in general the gradient of no density and the tilted distribution that motivates guidance is not shown to be what is sampled"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -24,6 +24,16 @@ history:
     in general the gradient of no density, an estimator-side reason.
     CLAIM-123 cites it as a caveat beyond its thesis, which takes no
     edge (ADR-058). No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Summary corrected, from the by-topic reading review of
+    2026-11-11, at the status review's ruling (the owner delegated
+    these rulings). It said this reading states 'the probabilistic
+    point, which the record's CLAIM-123 uses'. CLAIM-123 cites it
+    only as a caveat beyond its thesis ('A second caveat on adding
+    scores'), as version 3 records, so the summary now says so. The
+    reading is unchanged.
 tags:
 - probabilistic-modeling
 - compositionality
@@ -37,7 +47,8 @@ summary: >-
   shown on class-conditional ImageNet only. [NOTE-603](../notes.d/NOTE-603.md) declined a THEORY
   because the anthology holds the account of what the guidance weight
   does to metrics; this one states only the probabilistic point, which
-  the record's [CLAIM-123](../claims.d/CLAIM-123.md) uses.
+  the record's CLAIM-123 cites as a caveat beyond its thesis and does not
+  use.
 bears_on:
 - QUESTION-018
 ---

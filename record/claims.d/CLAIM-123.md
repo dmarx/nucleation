@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzkhdr
 title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-16'
@@ -54,6 +54,16 @@ history:
     added. Its text: "The open question behind it is QUESTION-018."
     The question's: CLAIM-123 "states the exact condition" for adding
     scores. A premise of the question. No other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    From the by-topic reading review of 2026-11-11, at the status
+    review's ruling (the owner delegated these rulings; ADR-058).
+    LIT-776 leaves grounds. The body cites Schrödinger bridges
+    only as "a path-space view of conditional transport", framing
+    the identity the claim proves; it does not use what
+    THEORY-515, the work's reading, holds. The body keeps the
+    citation. The text is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -71,7 +81,6 @@ works:
 - what-survives-translation
 grounds:
 - LIT-770
-- LIT-776
 - LIT-783
 - LIT-782
 - THEORY-405

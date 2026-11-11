@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp007ve
 title: 'A linear system that is stable at every instant can have a positive Lyapunov exponent: shifting any operator with exponent λ > 0 by −δI lowers its exponent by exactly δ and makes every instantaneous operator stable, so for 0 < δ < λ the shifted system is stable at every instant and unstable'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -16,6 +16,17 @@ history:
     it (NOTE-842). This is the record's own construction that shows it, so
     it is a CLAIM (ADR-032), applied to the paper's switched oscillator
     with the Floquet multipliers computed in closed form.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    From the by-topic reading review of 2026-11-11, at the status
+    review's ruling (the owner delegated these rulings; ADR-058).
+    LIT-929 leaves grounds. The claim proves its own case, a shift
+    by −δI with the switched oscillator's monodromy computed in
+    closed form, so Farrell and Ioannou are cited for attribution
+    and for the oscillator's definition, and their reading
+    THEORY-724 already corroborates this claim. The body keeps the
+    citation. The text is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -28,8 +39,6 @@ tags:
 - complex-systems
 date: '2026-10-19'
 line: formal-apparatus
-grounds:
-- LIT-929
 summary: >-
   The case [THEORY-724](../theory.d/THEORY-724.md)'s source asserts and does not show. If A(t)
   has first Lyapunov exponent λ > 0, the propagator of A(t) − δI is

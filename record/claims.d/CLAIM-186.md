@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpvc1pj
 title: 'How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-11'
@@ -38,6 +38,20 @@ history:
     nucleation review read does not treat morphological instability.
     LIT-931, LIT-932 and LIT-929, read, stay in grounds. The claim and
     its status are unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    From the by-topic reading review of 2026-11-11, at the status
+    review's ruling (the owner delegated these rulings; ADR-058).
+    LIT-931, LIT-932 and LIT-929 leave grounds. The claim uses
+    generalized stability theory only in its note of 2026-10-11,
+    as a qualification read across by analogy ("The bearing is the
+    assistant's reading. Neither paper is about arguments."),
+    which is framing, not evidence the claim stands on; their
+    Active readings (THEORY-727, THEORY-304, THEORY-724) are not
+    evidence that drift tracks turns per anchor either, so none is
+    made to corroborate it. The body keeps the citations. The
+    claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,10 +75,6 @@ uses:
 - TERM-052
 complements:
 - CLAIM-176
-grounds:
-- LIT-931
-- LIT-932
-- LIT-929
 summary: >-
   Proposed by the assistant on 2026-10-11, while correcting its own
   crystal analogy ([CLAIM-181](CLAIM-181.md)), and filed at the owner's request
