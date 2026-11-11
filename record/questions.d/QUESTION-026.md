@@ -4,13 +4,23 @@ status: Open
 formerly:
 - QUESTION-tmpepdzg
 title: 'Does categorical compositional semantics constrain transport between context-indexed empirical models, so that how a whole utterance''s observables are carried is fixed by how its parts'' are, and does the constraint reach past propositional content?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
   note: >-
     The note of 2026-10-11 listed THEORY-017 by a title cut off
     mid-clause; it now gives the whole title. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Narrowed a line of "What the record holds toward an answer", which
+    said "Its obstruction to gluing is inconsistency of literals, not
+    contextuality". NOTE-644's key results give a shared-vocabulary
+    example (§4.2) that fails to glue without inconsistency; the claim
+    holds for the paper's linguistic examples. The question as posed is
+    unchanged. Flagged by the curation entry of the read-and-file pass of
+    2026-11-11.
 tags:
 - compositionality
 - contextuality
@@ -83,8 +93,10 @@ sheaves are both categorical does not.
   Unification ([LIT-841](../literature.d/LIT-841.md), [NOTE-644](../notes.d/NOTE-644.md)) builds a presheaf of discourse
   representations and glues sentence meanings over a cover of anaphoric
   resolutions. It is the record's earliest bridge between the
-  Abramsky–Brandenburger framework and semantics. Its obstruction to gluing
-  is inconsistency of literals, not contextuality, and it has no transport.
+  Abramsky–Brandenburger framework and semantics. In its linguistic
+  examples the obstruction to gluing is inconsistency of literals; its one
+  shared-vocabulary example fails by over-determining a local section.
+  Neither is contextuality, and it has no transport.
 - **Contextuality in phrase meaning.** Wang et al. ([LIT-842](../literature.d/LIT-842.md), [NOTE-645](../notes.d/NOTE-645.md))
   test noun–verb phrases, which are compositional units, for contextuality.
   Their corpus estimates are almost always signalling. So the data on which a

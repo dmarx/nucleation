@@ -91,3 +91,21 @@ it, because the helping was imagined and the reply criticised that
 paradigm. What would settle it is a read result, the reply or a later
 study, in which empathic concern predicts real helping with oneness
 measured as Cialdini et al. measured it.
+
+## Note of 2026-11-11: the count of experiments, and the new reading
+
+The summary gives Batson et al.'s experiments as "two, by the SEP's
+account". No entry in the record now says four, though [NOTE-1274](../notes.d/NOTE-1274.md) and
+[LIT-1700](../literature.d/LIT-1700.md) said the record did; their dated notes of today record that. The
+only count the record holds is the SEP's "a pair of experiments"
+([NOTE-1274](../notes.d/NOTE-1274.md)), at second hand, and [LIT-1700](../literature.d/LIT-1700.md) is unread, so the count is not
+settled and is left as it stands.
+
+The SEP entry now has a reading, [THEORY-1624](../theory.d/THEORY-1624.md), Proposed, filed in the read-
+and-file pass of 2026-11-11. The claim keeps [LIT-1729](../literature.d/LIT-1729.md) in grounds rather than
+moving it there: the reading's title reports that Batson's experiments tell
+against two versions of egoism and that no merging measure tests numerical
+identity, and holds that psychological altruism is not yet established. It
+does not state what this claim needs, that empathy predicted helping with
+merging controlled, which [NOTE-1274](../notes.d/NOTE-1274.md) records only in its body. Moving the
+ground would need a reading that says that.

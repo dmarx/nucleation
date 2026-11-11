@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpjylq8
 title: "No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity"
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-29'
@@ -45,6 +45,23 @@ history:
     and the claim's answer to CLAIM-494 stands on it. A dated note
     records where the reading falls short of the claim's wording. The
     claim is unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    LIT-1735 (Swann et al., identity fusion) and LIT-1703 (Markus and
+    Kitayama) leave grounds, at the status review's ruling (the owner
+    delegated these rulings; ADR-058). Both now have readings, THEORY-1581
+    and THEORY-1590, filed in the read-and-file pass of 2026-11-11. The
+    body cites fusion and interdependent self-construal as two of the
+    kinds of support for inclusive selves, beside self-categorization
+    theory, which left grounds for corroborated_by at the nineteenth
+    review on the same reading; the notes of 2026-10-29 say fusion
+    supplies only a candidate criterion and that Markus and Kitayama
+    "ground the premise, not the conclusion" while denying merging. The
+    claim does not stand on either, so each reading corroborates it.
+    corroborated_by is derived, so the edges belong on THEORY-1581 and
+    THEORY-1590 as corroborates: CLAIM-491, which this change
+    writes. The body keeps both citations. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,8 +86,6 @@ line:
 answers:
 - QUESTION-300
 grounds:
-- LIT-1735
-- LIT-1703
 - LIT-1728
 summary: >-
   The owner's position, from the discussion that raised self-categorization

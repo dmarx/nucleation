@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp3cvly
 paper: 'LIT-841'
 title: 'Semantic Unification'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -17,13 +17,25 @@ history:
     recomputed by hand. The published chapter (LNCS 8222, pp. 1–13) was
     not compared with the preprint. Reference [7] (Dagan and Itai, the
     corpus method of §5) and DRT itself [14] were not read.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Narrowed the summary, which said "the only obstruction to gluing shown
+    is inconsistency". The note's own key results give the R, S example
+    after Proposition 1 (§4.2), which fails to glue without inconsistency,
+    by over-determining a local section; inconsistency is the only
+    obstruction in the linguistic examples, whose vocabularies are
+    disjoint. Flagged by the curation entry of the read-and-file pass of
+    2026-11-11; THEORY-1586's title already says "in their linguistic
+    examples".
 date: '2026-10-09'
 summary: >-
   Puts basic DRT into sheaf form: a DRS is a section of a presheaf of
   consistent literals, an anaphoric resolution is a cover by variable maps,
   and the discourse's meaning is the gluing, unique if it exists
   (Proposition 1). All the interpretive work is in choosing the cover;
-  the only obstruction to gluing shown is inconsistency, so the paper
+  in its linguistic examples the only obstruction to gluing is
+  inconsistency (one shared-vocabulary example fails without it), so the paper
   models context dependence and ambiguity, not contextuality in the
   Abramsky–Brandenburger sense. Its probabilistic section ranks covers by
   summed corpus counts, not by gluing distributions.
@@ -213,3 +225,8 @@ use of vector-space meanings.
 - The extension to full DRS that §6 promises. Later work by Sadrzadeh and
   collaborators on contextuality in ambiguous phrases may take this up; it
   was not checked for this note.
+
+## Note of 2026-11-11: reading filed
+
+
+The line "No THEORY filed" above is out of date. The read-and-file pass of 2026-11-11 filed [THEORY-1586](../theory.d/THEORY-1586.md), Proposed, from this NOTE. The reason given was that the reading's one structural point is a fact about this construction, not a finding about language that the record lacks. The reading's title reports the construction as Abramsky and Sadrzadeh give it and limits its statement about obstructions to "their linguistic examples". The line is left as written.

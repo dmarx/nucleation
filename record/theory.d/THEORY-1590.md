@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpb0q93
 title: 'Markus and Kitayama propose that cultures construe the self as independent or interdependent, that for the interdependent self others are included within the self''s boundaries without a merging of self and other, and that the construal shapes cognition, emotion and motivation'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +17,16 @@ history:
     Promoted at the status review's ruling (the owner delegated these
     rulings): ADR-065 §2, a reported title read in full in NOTE-1275,
     nothing in the record contradicting it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    corroborates CLAIM-491: its text says that interdependent
+    self-construal is a kind of support for inclusive selves, and its
+    notes that Markus and Kitayama "ground the premise, not the
+    conclusion". Defect sweep of 2026-11-11, at the status review's
+    ruling (the owner delegated these rulings; ADR-058): the claim's LIT
+    ground on this work is moved to corroboration by this reading, which
+    the claim does not stand on. No other change.
 tags:
 - self
 - altruism
@@ -32,6 +42,8 @@ summary: >-
   the resulting action as possibly altruistic. Filed from [NOTE-1275](../notes.d/NOTE-1275.md).
 bears_on:
 - QUESTION-300
+corroborates:
+- CLAIM-491
 ---
 <!-- inactive-ok-file: CLAIM-491 — Proposed or Unavailable; the claims and works this reading bears on or cites, named, not leaned on -->
 

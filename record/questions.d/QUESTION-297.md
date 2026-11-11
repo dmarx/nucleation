@@ -4,7 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmp8bttd
 title: "When the effects of trauma reach descendants who did not live through it, by which route do they travel: germline epigenetics, the womb, parenting, or a group's narrative and identity; and on the identity route, does an ancestor's injury become part of the descendant's self?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Corrected the note of 2026-10-29 on Danieli's framework, which said
+    the item on counting the murdered grandparents as one's own "had the
+    largest total effect (.21)". NOTE-1307 gives .21 (direct .09,
+    indirect .12) for broken generational linkages, the mean of two
+    items, of which that is one; the sentence now says so. Found by the
+    status review of the readings filed on 2026-11-11. A dated note of
+    the same day points the question's opening germline examples to the
+    note that corrects their labels.
 tags:
 - psychopathology-and-treatment
 - social-identity
@@ -221,8 +233,9 @@ test its framework on 422 adult children of survivors.
   children without showing harm against Fridman's null ([NOTE-1291](../notes.d/NOTE-1291.md)).
   The two results are compatible.
 - **The ancestor and the injury come apart.** Children who counted their
-  murdered grandparents as their own reported fewer impacts, and this
-  item had the largest total effect (.21). Meanwhile "obsession with the
+  murdered grandparents as their own reported fewer impacts. The
+  two-item broken-generational-linkages scale, of which that is one item,
+  had the largest total effect (.21). Meanwhile "obsession with the
   Holocaust" is scored as part of the harm. Taking in the ancestor went
   with less harm; taking in the injury is part of the harm. The question's
   phrase "an ancestor's injury becomes part of the descendant's self" covers
@@ -231,3 +244,15 @@ test its framework on 422 adult children of survivors.
   milder impacts (total effect −.16). Reading that as the nation's story
   protecting the family is an inference, the third time the record has
   met it (Costa et al., Fridman).
+
+## Note of 2026-11-11: two of the opening examples relabelled
+
+"Why it is a question" lists Överkalix (Pembrey et al.) and the FKBP5 study
+of Holocaust survivors' offspring (Yehuda et al.) under the germline route,
+and the summary counts the Yehuda study among the claims of epigenetic
+transmission. The note of 2026-10-29, "the other routes, read at second
+hand", says both labels are wrong: Överkalix is a male-line nutritional
+case, not a trauma case ([NOTE-1320](../notes.d/NOTE-1320.md)), and the FKBP5 study is
+intergenerational, not a germline test, with the offspring's methylation
+lower than the parents' ([NOTE-1310](../notes.d/NOTE-1310.md)). The question as posed is left as
+written; read those two examples with that note.
