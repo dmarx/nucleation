@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpblgxz
 title: 'Causal scrubbing scores a hypothesis through the partitions of the dataset that its interpretation nodes induce, so two hypotheses that assign different features to a node but induce the same partition on the dataset, such as two features perfectly correlated on it, receive the same score'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -20,6 +20,20 @@ history:
     paren post's measured near-tie, from the companion posts
     registered and read on 2026-10-27, are placed under Connections.
     Title and status unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-234; corroborates CLAIM-454. QUESTION-234's note of
+    2026-10-27 lists it among "four facts about the instruments":
+    "Causal scrubbing ties by construction basis-related hypotheses that
+    induce the same partitions of the data (THEORY-978)". CLAIM-454
+    cites it among "supporting cases and not a test": "Instruments that
+    cannot tell correlated variables apart ... an A-detector and a
+    B-detector perfectly correlated on the data tie (THEORY-978)". The
+    claim grounds on CASE-101, so corroborates (ADR-058). No other
+    change.
 tags:
 - causality
 - representation-learning
@@ -35,6 +49,10 @@ summary: >-
   distinguish between two features that are perfectly correlated on our
   dataset". It does not say that a passing hypothesis is otherwise wrong,
   nor anything about features correlated only imperfectly.
+bears_on:
+- QUESTION-234
+corroborates:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the account and claim this bears on, cited as open -->
 

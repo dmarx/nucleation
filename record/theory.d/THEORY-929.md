@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp56jxv
 title: 'A joint action-value that is a non-decreasing function of per-agent values, each conditioning only on its agent''s own history, makes the profile of the agents'' individually greedy actions a greedy joint action, which suffices for decentralised greedy execution and is strictly more expressive than a sum; it cannot represent a joint value in which an agent''s best action depends on what the others do at the same step'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -24,6 +24,19 @@ history:
     represents a payoff in which an agent's best action depends on the
     others' simultaneous actions. Nothing about StarCraft performance
     bears on it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its text names this reading on the second failure: the
+    "monotone mixing of value decomposition (THEORY-929) state, member
+    by member and ordinally, when a member's own ranking agrees with the
+    collective's". No other change.
 tags:
 - game-theory
 - learning-theory
@@ -39,6 +52,8 @@ summary: >-
   own actions agrees with the collective's whatever the others do, an
   ordinal separability condition. It is Wolpert and Tumer's factoredness
   stated for values.
+bears_on:
+- QUESTION-271
 ---
 
 # THEORY-929: A joint action-value that is a non-decreasing function of per-agent values, each conditioning only on its agent's own history, makes the profile of the agents' individually greedy actions a greedy joint action, which suffices for decentralised greedy execution and is strictly more expressive than a sum; it cannot represent a joint value in which an agent's best action depends on what the others do at the same step

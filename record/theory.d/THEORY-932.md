@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpar5jw
 title: 'The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is, in the small-step limit, the expected dynamics of a learner that updates every action''s value each step, and so of frequency-adjusted Q-learning wherever every action''s probability is at least its adjustment parameter; it is not that of Q-learning, whose expected update carries an extra factor of each action''s selection probability, so that its policy dynamics depend on the Q-values; in Kaisers and Tuyls''s three 2×2 games at one temperature, compared by eye, Q-learning''s trajectories departed from the model depending on initialization and the frequency-adjusted learner''s followed it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -22,6 +22,19 @@ history:
     THEORY-1234, Proposed, which extends this entry and inherits the
     promote_when (ADR-047, kind 1). The old title: The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action's selection probability and whose trajectories in 2×2 games depart from the model depending on initialization. The old
     promote_when: The 2003 derivation (LIT-1501) read and found to assume, as Kaisers and Tuyls say, that every Q-value changes at rate α; and a quantitative comparison, not only plots, of Q-learning and frequency-adjusted Q-learning against the model's predicted trajectories in 2×2 games over a range of temperatures, showing the frequency-adjusted learner within noise of the model and Q-learning off it in an initialization-dependent way. It is refuted if plain Q-learning with small steps matches the model as closely as the frequency-adjusted learner across initializations. Results in multi-state tasks are wider than this and neither promote nor refute it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its text names this reading on the fourth failure: "In
+    Q-learning, updating only the chosen option adds a factor of its own
+    frequency (THEORY-932), and inverse-frequency weighting is the exact
+    correction". No other change.
 tags:
 - game-theory
 - learning-theory
@@ -36,6 +49,8 @@ summary: >-
   frequency adjustment was re-derived and second-checked at the status
   review of 2026-10-30. The experiments are three games, one temperature,
   compared by eye; whether Q-learning departs in general is [THEORY-1234](THEORY-1234.md).
+bears_on:
+- QUESTION-271
 ---
 <!-- inactive-ok-file: LIT-1501 CLAIM-446 — Proposed, Unavailable or new; the sources and the accounts this bears on, named -->
 

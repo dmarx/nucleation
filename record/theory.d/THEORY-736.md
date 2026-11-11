@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpnp4vw
 title: "Two ε-dropout-stable solutions of a multilayer ReLU net, under a loss convex in the output, are joined by a piecewise-linear path whose loss never exceeds the worse endpoint's by more than ε, and joined pairwise paths compose with no higher barrier than their worst"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -18,6 +18,19 @@ history:
     standard THEORY-014 was promoted on, a theorem proved in a work the
     record has read, and no re-derivation was needed. THEORY-109 keeps the
     rest and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-069. QUESTION-069 asks: "Is the connectedness of trained
+    solutions a property of the solutions, or of the path family
+    searched, the shared history that produced them and the regime they
+    were trained in?" This reading is evidence on it: a property of the
+    solutions, ε-dropout stability, guarantees a connecting path of a
+    stated family, piecewise-linear, with no shared history. The
+    question's list of what the record holds does not yet include it. No
+    other change.
 tags:
 - loss-landscapes
 - mathematics
@@ -35,6 +48,8 @@ summary: >-
   statement about dropout-stable solutions only: whether training
   produces them is [THEORY-109](THEORY-109.md)'s open question, and Theorem 4 of the same
   paper builds disconnected global minima.
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-109 — Proposed; the synthesis this theorem was split from and that extends it, cited as open -->
 

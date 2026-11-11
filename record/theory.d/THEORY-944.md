@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxh6cj
 title: "The value of the zero-sum game between two populations' evaluation matrices does not depend on which Nash equilibrium is used, is unchanged by adding agents that behave as mixtures of existing members, and is not positive for a population whose agents are all behavioural mixtures of the other's"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -22,6 +22,18 @@ history:
     agents is a behavioural mixture of Q's, with v(P, Q) > 0. Results on
     how to grow a population, or on PSRO's performance, neither promote
     nor refute it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its text names this reading: "The value between
+    populations (THEORY-944) needs no unique equilibrium, but it ranks
+    coalitions, not members". No other change.
 tags:
 - game-theory
 - mathematics
@@ -36,6 +48,8 @@ summary: >-
   population contained in another's behavioural hull cannot beat it.
   It scores populations, not members, it is cardinal, and populations not
   nested by hull can still beat one another in a cycle.
+bears_on:
+- QUESTION-271
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
