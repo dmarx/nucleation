@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**915 documents cited without acknowledgement.** Not listed: 23570 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**915 documents cited without acknowledgement.** Not listed: 23590 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1164,7 +1164,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-137 citations in 122 files await a look; 14 other citations of it are acknowledged.
+137 citations in 122 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:16`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:28`](../../record/arguments.d/ARG-055.md)
@@ -1488,7 +1488,7 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 
 A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again
 
-77 citations in 43 files await a look; 39 other citations of it are acknowledged.
+78 citations in 44 files await a look; 39 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-055.md:19`](../../record/arguments.d/ARG-055.md)
 - [`record/arguments.d/ARG-055.md:33`](../../record/arguments.d/ARG-055.md)
@@ -1555,6 +1555,7 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 - [`record/decisions.d/ADR-083.md:106`](../../record/decisions.d/ADR-083.md)
 - [`record/decisions.d/ADR-083.md:128`](../../record/decisions.d/ADR-083.md)
 - [`record/decisions.d/ADR-083.md:151`](../../record/decisions.d/ADR-083.md)
+- [`record/decisions.d/ADR-091.md:43`](../../record/decisions.d/ADR-091.md)
 - [`record/syntheses.d/SYNTHESIS-001.md:17`](../../record/syntheses.d/SYNTHESIS-001.md)
 - [`record/syntheses.d/SYNTHESIS-002.md:24`](../../record/syntheses.d/SYNTHESIS-002.md)
 - [`record/syntheses.d/SYNTHESIS-003.md:17`](../../record/syntheses.d/SYNTHESIS-003.md)
@@ -2174,7 +2175,7 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 
 A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 
-32 citations in 11 files await a look; 152 other citations of it are acknowledged.
+33 citations in 12 files await a look; 153 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
@@ -2205,6 +2206,7 @@ A synthesis in a filed source is audited and, when it integrates, filed as a the
 - [`docs/syntheses/warrant/interpretive.md:16`](../syntheses/warrant/interpretive.md)
 - [`docs/syntheses/warrant/interpretive.md:17`](../syntheses/warrant/interpretive.md)
 - [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
+- [`record/decisions.d/ADR-091.md:64`](../../record/decisions.d/ADR-091.md)
 - [`record/syntheses.d/SYNTHESIS-017.md:154`](../../record/syntheses.d/SYNTHESIS-017.md)
 - [`record/syntheses.d/SYNTHESIS-027.md:213`](../../record/syntheses.d/SYNTHESIS-027.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:146`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -3150,6 +3152,28 @@ An appraisal of an event's pertinence to the agent's concerns elicits the emotio
 - [`record/terms.d/TERM-078.md:41`](../../record/terms.d/TERM-078.md)
 - [`record/terms.d/TERM-078.md:53`](../../record/terms.d/TERM-078.md)
 
+### [ADR-078](../../record/decisions.d/ADR-078.md) — Proposed
+
+The record is reviewed periodically for synthesis opportunities: CLAIMs that are syntheses filed as claims are moved into the SYNTHESIS scheme, and integrations whose parts the record holds are filed when they pass admission
+
+15 citations in 9 files await a look; 28 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/admitted.md:19`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:20`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:23`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/role/thesis.md:18`](../syntheses/role/thesis.md)
+- [`docs/syntheses/role/thesis.md:19`](../syntheses/role/thesis.md)
+- [`docs/syntheses/role/thesis.md:22`](../syntheses/role/thesis.md)
+- [`docs/syntheses/route/derived.md:13`](../syntheses/route/derived.md)
+- [`docs/syntheses/route/hypothesis.md:19`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:21`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/warrant/demonstrated.md:13`](../syntheses/warrant/demonstrated.md)
+- [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
+- [`docs/syntheses/warrant/interpretive.md:21`](../syntheses/warrant/interpretive.md)
+- [`record/decisions.d/ADR-091.md:43`](../../record/decisions.d/ADR-091.md)
+- [`record/syntheses.d/SYNTHESIS-002.md:16`](../../record/syntheses.d/SYNTHESIS-002.md)
+- [`record/syntheses.d/SYNTHESIS-004.md:16`](../../record/syntheses.d/SYNTHESIS-004.md)
+
 ### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
 
 The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
@@ -3259,27 +3283,6 @@ A macro feature can supervene on a system's present state and still carry inform
 - [`record/theory.d/THEORY-705.md:104`](../../record/theory.d/THEORY-705.md)
 - [`record/theory.d/THEORY-707.md:80`](../../record/theory.d/THEORY-707.md)
 - [`record/theory.d/THEORY-712.md:86`](../../record/theory.d/THEORY-712.md)
-
-### [ADR-078](../../record/decisions.d/ADR-078.md) — Proposed
-
-The record is reviewed periodically for synthesis opportunities: CLAIMs that are syntheses filed as claims are moved into the SYNTHESIS scheme, and integrations whose parts the record holds are filed when they pass admission
-
-14 citations in 8 files await a look; 28 other citations of it are acknowledged.
-
-- [`docs/syntheses/admission/admitted.md:19`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:20`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:23`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/role/thesis.md:18`](../syntheses/role/thesis.md)
-- [`docs/syntheses/role/thesis.md:19`](../syntheses/role/thesis.md)
-- [`docs/syntheses/role/thesis.md:22`](../syntheses/role/thesis.md)
-- [`docs/syntheses/route/derived.md:13`](../syntheses/route/derived.md)
-- [`docs/syntheses/route/hypothesis.md:19`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:21`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/warrant/demonstrated.md:13`](../syntheses/warrant/demonstrated.md)
-- [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
-- [`docs/syntheses/warrant/interpretive.md:21`](../syntheses/warrant/interpretive.md)
-- [`record/syntheses.d/SYNTHESIS-002.md:16`](../../record/syntheses.d/SYNTHESIS-002.md)
-- [`record/syntheses.d/SYNTHESIS-004.md:16`](../../record/syntheses.d/SYNTHESIS-004.md)
 
 ### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Proposed
 
@@ -4875,7 +4878,7 @@ Anchoring has costs and a price: an early anchor can entrench its framing, and i
 
 A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
 
-8 citations in 4 files await a look; 106 other citations of it are acknowledged.
+8 citations in 4 files await a look; 108 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-016.md:85`](../../record/claims.d/CLAIM-016.md)
 - [`record/questions.d/QUESTION-011.md:44`](../../record/questions.d/QUESTION-011.md)
@@ -4890,7 +4893,7 @@ A condition on free agency stated only in present psychological structure is met
 
 Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency
 
-8 citations in 6 files await a look; 68 other citations of it are acknowledged.
+8 citations in 6 files await a look; 69 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-015.md:12`](../../record/arguments.d/ARG-015.md)
 - [`record/claims.d/CLAIM-194.md:15`](../../record/claims.d/CLAIM-194.md)
@@ -6173,7 +6176,7 @@ Concepts are individuated over time by the transmission criterion that governs o
 
 The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
 
-5 citations in 5 files await a look; 116 other citations of it are acknowledged.
+5 citations in 5 files await a look; 117 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -6589,6 +6592,17 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 - [`record/claims.d/CLAIM-446.md:265`](../../record/claims.d/CLAIM-446.md)
 - [`record/claims.d/CLAIM-451.md:152`](../../record/claims.d/CLAIM-451.md)
 
+### [ADR-090](../../record/decisions.d/ADR-090.md) — Proposed
+
+A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses
+
+4 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`docs/README.md:9`](../README.md)
+- [`record/decisions.d/ADR-091.md:12`](../../record/decisions.d/ADR-091.md)
+- [`record/decisions.d/ADR-091.md:32`](../../record/decisions.d/ADR-091.md)
+- [`record/decisions.d/ADR-091.md:37`](../../record/decisions.d/ADR-091.md)
+
 ### [ARG-022](../../record/arguments.d/ARG-022.md) — Rejected
 
 The 2016 Contextuality-by-Default paper grounds the criterion the manuscript's general observational covers need
@@ -6621,17 +6635,6 @@ Bencherki, Brummans and Vézy's "agency is a matter of perspective" supports the
 - [`record/claims.d/CLAIM-418.md:185`](../../record/claims.d/CLAIM-418.md)
 - [`record/notes.d/NOTE-1484.md:320`](../../record/notes.d/NOTE-1484.md)
 - [`record/theory.d/THEORY-1280.md:102`](../../record/theory.d/THEORY-1280.md)
-
-### [CASE-163](../../record/cases.d/CASE-163.md) — Proposed
-
-Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
-
-4 citations in 4 files await a look; 37 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-186.md:224`](../../record/cases.d/CASE-186.md)
-- [`record/claims.d/CLAIM-336.md:332`](../../record/claims.d/CLAIM-336.md)
-- [`record/claims.d/CLAIM-522.md:83`](../../record/claims.d/CLAIM-522.md)
-- [`record/syntheses.d/SYNTHESIS-011.md:266`](../../record/syntheses.d/SYNTHESIS-011.md)
 
 ### [CASE-223](../../record/cases.d/CASE-223.md) — Proposed
 
@@ -7527,6 +7530,16 @@ A self-maintaining protective regime, whose interventions shift the evidence and
 - [`record/claims.d/CLAIM-614.md:43`](../../record/claims.d/CLAIM-614.md)
 - [`record/claims.d/CLAIM-624.md:77`](../../record/claims.d/CLAIM-624.md)
 - [`record/questions.d/QUESTION-441.md:26`](../../record/questions.d/QUESTION-441.md)
+
+### [CASE-163](../../record/cases.d/CASE-163.md) — Proposed
+
+Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
+
+3 citations in 3 files await a look; 38 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-186.md:224`](../../record/cases.d/CASE-186.md)
+- [`record/claims.d/CLAIM-336.md:332`](../../record/claims.d/CLAIM-336.md)
+- [`record/syntheses.d/SYNTHESIS-011.md:266`](../../record/syntheses.d/SYNTHESIS-011.md)
 
 ### [CASE-174](../../record/cases.d/CASE-174.md) — Proposed
 
@@ -10030,7 +10043,7 @@ Many low-capability states, at their measured pace of improvement, would take ce
 2 citations in 1 file await a look.
 
 - [`record/theory.d/THEORY-1463.md:15`](../../record/theory.d/THEORY-1463.md)
-- [`record/theory.d/THEORY-1463.md:43`](../../record/theory.d/THEORY-1463.md)
+- [`record/theory.d/THEORY-1463.md:55`](../../record/theory.d/THEORY-1463.md)
 
 ### [THEORY-1526](../../record/theory.d/THEORY-1526.md) — Proposed
 
@@ -10247,14 +10260,6 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 
 - [`record/questions.d/QUESTION-360.md:54`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:77`](../../record/terms.d/TERM-098.md)
-
-### [ADR-090](../../record/decisions.d/ADR-090.md) — Proposed
-
-A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses
-
-1 citation in 1 file awaits a look.
-
-- [`docs/README.md:9`](../README.md)
 
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 

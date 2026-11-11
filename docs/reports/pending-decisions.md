@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1262 document(s) awaiting a decision.**
+**1265 document(s) awaiting a decision.**
 
 ## LITs
 
-141 of the 1262.
+141 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -157,7 +157,7 @@
 
 ## THEORYs
 
-697 of the 1262.
+699 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -170,7 +170,7 @@
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 4 | 74 | 9 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-23 | Proposed | [THEORY-895](../../record/theory.d/THEORY-895.md) | 4 | 18 | 11 | Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire, and incentive salience can run without any reportable change in feeling |
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 3 | 117 | 2 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
-| 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 3 | 114 | 8 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
+| 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 3 | 116 | 8 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-10-03 | Proposed | [THEORY-069](../../record/theory.d/THEORY-069.md) | 3 | 54 | 3 | Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning |
 | 2026-10-03 | Proposed | [THEORY-047](../../record/theory.d/THEORY-047.md) | 3 | 41 | 1 | A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is |
 | 2026-10-22 | Proposed | [THEORY-885](../../record/theory.d/THEORY-885.md) | 3 | 17 | 8 | Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change |
@@ -237,7 +237,7 @@
 | 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 0 | 205 | 6 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 0 | 94 | 6 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 0 | 85 | 3 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
-| 2026-10-03 | Proposed | [THEORY-071](../../record/theory.d/THEORY-071.md) | 0 | 76 | 8 | Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency |
+| 2026-10-03 | Proposed | [THEORY-071](../../record/theory.d/THEORY-071.md) | 0 | 77 | 8 | Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency |
 | 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 0 | 59 | 5 | Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 0 | 54 | 14 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 0 | 52 | 6 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
@@ -327,8 +327,8 @@
 | 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 0 | 26 | 0 | Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required |
 | 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 0 | 23 | 0 | Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one |
 | 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 0 | 22 | 2 | Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case |
+| 2026-10-14 | Proposed | [THEORY-328](../../record/theory.d/THEORY-328.md) | 0 | 22 | 0 | An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible |
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 0 | 21 | 0 | Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator |
-| 2026-10-14 | Proposed | [THEORY-328](../../record/theory.d/THEORY-328.md) | 0 | 21 | 0 | An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible |
 | 2026-10-14 | Proposed | [THEORY-323](../../record/theory.d/THEORY-323.md) | 0 | 19 | 0 | Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance |
 | 2026-10-14 | Proposed | [THEORY-326](../../record/theory.d/THEORY-326.md) | 0 | 19 | 4 | Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group |
 | 2026-10-14 | Proposed | [THEORY-288](../../record/theory.d/THEORY-288.md) | 0 | 17 | 0 | In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task |
@@ -858,32 +858,35 @@
 | 2026-11-06 | Proposed | [THEORY-1553](../../record/theory.d/THEORY-1553.md) | 0 | 1 | 1 | Generative AI assistants make easy tasks easier and hard tasks harder for their users, leaving the user the hard share of the work with the added task of evaluating the system's output |
 | 2026-11-06 | Proposed | [THEORY-1554](../../record/theory.d/THEORY-1554.md) | 0 | 0 | 0 | For a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints |
 | 2026-11-06 | Proposed | [THEORY-1556](../../record/theory.d/THEORY-1556.md) | 0 | 0 | 0 | All freedom–constraint space pairs of a flexure-guided rigid body fall into 50 types, only those whose constraint space holds enough pure-force lines can be realised by parallel flexures while the rest need modules stacked in series, and where linear actuators must act to drive the permitted motions without parasitic error is set by the flexures' stiffness and not by the freedom space alone |
+| 2026-11-11 | Proposed | [THEORY-1560](../../record/theory.d/THEORY-1560.md) | 0 | 6 | 0 | Thompson describes a compiler binary that miscompiles the login command to accept a known password and reinserts that Trojan horse, and itself, whenever the compiler is compiled, so that it persists after every source has been cleaned, and concludes that no source-level verification protects a user from code they did not create |
+| 2026-11-11 | Proposed | [THEORY-1561](../../record/theory.d/THEORY-1561.md) | 0 | 3 | 0 | Stute tells, as his own experience, a departed graduate student's compiler Trojan horse that restored a program's hateful subliminal messages on every compile and restored itself when the compiler was rebuilt from clean source, removed only by installing a compiler binary from another machine |
 
 ## ADRs
 
-15 of the 1262.
+16 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-10-22 | Deferred | [ADR-050](../../record/decisions.d/ADR-050.md) | 0 | 5 | 0 | A claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means |
 | 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 7 | 3 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
-| 2026-11-07 | Proposed | [ADR-075](../../record/decisions.d/ADR-075.md) | 0 | 184 | 32 | A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left |
+| 2026-11-07 | Proposed | [ADR-075](../../record/decisions.d/ADR-075.md) | 0 | 186 | 33 | A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left |
 | 2026-11-07 | Proposed | [ADR-082](../../record/decisions.d/ADR-082.md) | 0 | 58 | 47 | The nucleating-argument line is split in three: nucleating-argument keeps how an argument drifts, anchors and pays for anchoring; what a record of inquiry keeps and the record as its own apparatus become lines of their own, because their parts barely relate to the rest |
 | 2026-11-07 | Proposed | [ADR-083](../../record/decisions.d/ADR-083.md) | 0 | 50 | 2 | An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split |
-| 2026-11-07 | Proposed | [ADR-078](../../record/decisions.d/ADR-078.md) | 0 | 42 | 14 | The record is reviewed periodically for synthesis opportunities: CLAIMs that are syntheses filed as claims are moved into the SYNTHESIS scheme, and integrations whose parts the record holds are filed when they pass admission |
+| 2026-11-07 | Proposed | [ADR-078](../../record/decisions.d/ADR-078.md) | 0 | 43 | 15 | The record is reviewed periodically for synthesis opportunities: CLAIMs that are syntheses filed as claims are moved into the SYNTHESIS scheme, and integrations whose parts the record holds are filed when they pass admission |
 | 2026-11-07 | Proposed | [ADR-079](../../record/decisions.d/ADR-079.md) | 0 | 6 | 0 | Each directed relation is stored on one side only, the side a filer writes, and its converse is derived when the record is read; the sweep that removes the stored converses is this decision's demonstration |
 | 2026-11-07 | Proposed | [ADR-081](../../record/decisions.d/ADR-081.md) | 0 | 0 | 0 | The Pages site deploys at most once every two hours: a merge still triggers it, a gate skips the build when the last deploy is under two hours old or already published the commit, and a scheduled run every two hours publishes what the gate skipped |
-| 2026-11-08 | Proposed | [ADR-084](../../record/decisions.d/ADR-084.md) | 0 | 116 | 77 | A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again |
-| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 151 | 137 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
+| 2026-11-08 | Proposed | [ADR-084](../../record/decisions.d/ADR-084.md) | 0 | 117 | 78 | A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again |
+| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 152 | 137 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
 | 2026-11-10 | Proposed | [ADR-087](../../record/decisions.d/ADR-087.md) | 0 | 45 | 45 | The readiness line is split in two: readiness keeps keeping a rare capability and reaching and paying for configurations under budgets; when transient support can be withdrawn becomes the line transient-support, because that part barely relates to the other two |
 | 2026-11-10 | Proposed | [ADR-086](../../record/decisions.d/ADR-086.md) | 0 | 0 | 0 | An entry shows the accounts that integrate it: `integrates` gets a derived converse, `integrated_by`, on every scheme an account can integrate, so a part of a line's argument is visible from its members and not only from the current-account view |
 | 2026-11-11 | Proposed | [ADR-089](../../record/decisions.d/ADR-089.md) | 0 | 35 | 35 | Normative judgment about organizations becomes a line of its own, organizational-normativity, split from will-organization: whether an organization's own dynamics ground norms, and what judging one needs, is a question of its own, while acting as one stays, because its root question refines the line's own |
 | 2026-11-11 | Proposed | [ADR-088](../../record/decisions.d/ADR-088.md) | 0 | 31 | 27 | The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness |
-| 2026-11-11 | Proposed | [ADR-090](../../record/decisions.d/ADR-090.md) | 0 | 1 | 1 | A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses |
+| 2026-11-11 | Proposed | [ADR-090](../../record/decisions.d/ADR-090.md) | 0 | 6 | 4 | A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses |
+| 2026-11-11 | Proposed | [ADR-091](../../record/decisions.d/ADR-091.md) | 0 | 1 | 0 | Readings no line uses are reviewed in a protocol of their own, by line, by topic or by question, and each is tied to an entry that should use it, raised as a question or claim, held with a reason, or flagged |
 
 ## QUESTIONs
 
-6 of the 1262.
+6 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -896,7 +899,7 @@
 
 ## CLAIMs
 
-222 of the 1262.
+222 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1095,7 +1098,7 @@
 | 2026-11-05 | Proposed | [CLAIM-573](../../record/claims.d/CLAIM-573.md) | 0 | 18 | 0 | Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide |
 | 2026-11-06 | Proposed | [CLAIM-606](../../record/claims.d/CLAIM-606.md) | 0 | 31 | 3 | A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on |
 | 2026-11-06 | Proposed | [CLAIM-608](../../record/claims.d/CLAIM-608.md) | 0 | 10 | 7 | The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown |
-| 2026-11-07 | Proposed | [CLAIM-624](../../record/claims.d/CLAIM-624.md) | 0 | 121 | 5 | The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative |
+| 2026-11-07 | Proposed | [CLAIM-624](../../record/claims.d/CLAIM-624.md) | 0 | 122 | 5 | The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative |
 | 2026-11-07 | Proposed | [CLAIM-620](../../record/claims.d/CLAIM-620.md) | 0 | 72 | 5 | Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy |
 | 2026-11-07 | Proposed | [CLAIM-623](../../record/claims.d/CLAIM-623.md) | 0 | 46 | 2 | Forgetting a hidden mechanism can turn a sheaf of histories into a presheaf of realizable observations that is not a sheaf: when the union of two overlapping intervals is itself an observable context, two observed histories can each be realizable and agree on their overlap with no realization of their union, so a gluing failure need not show a disagreement on an overlap or a cycle of three contexts |
 | 2026-11-07 | Proposed | [CLAIM-616](../../record/claims.d/CLAIM-616.md) | 0 | 45 | 0 | Synchronization phenomena can serve as a laboratory for the record's organizational distinctions: locking regions for compatibility, external forcing for support and dependence, the driven and suppressed oscillator for autonomy against coercion, and entrainment and phase locking for individuation transitions; a drive fixes where control lies, not whether it is legitimate |
@@ -1125,12 +1128,12 @@
 
 ## CASEs
 
-43 of the 1262.
+43 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-11-07 | Proposed | [CASE-231](../../record/cases.d/CASE-231.md) | 6 | 35 | 0 | Two viable regimes exchanging at rate 1, one of which fails at rate 0.02 into an absorbing state: conditioned on survival the chain settles within a few time units to (0.5025, 0.4975) and stays there, while survival decays as e^(−0.00995t), a mean lifetime of 100.5 |
-| 2026-10-26 | Proposed | [CASE-163](../../record/cases.d/CASE-163.md) | 2 | 41 | 4 | Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset |
+| 2026-10-26 | Proposed | [CASE-163](../../record/cases.d/CASE-163.md) | 2 | 41 | 3 | Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset |
 | 2026-11-07 | Proposed | [CASE-223](../../record/cases.d/CASE-223.md) | 2 | 37 | 4 | A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community's own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure |
 | 2026-11-07 | Proposed | [CASE-224](../../record/cases.d/CASE-224.md) | 2 | 32 | 3 | One hidden mode fixed for a run, producing 1, 0, 0 over three periods in one setting and 0, 0, 1 in the other: the realizable observations of periods 1–2 and 2–3 include (1, 0) and (0, 1), which agree on period 2, and no run realizes their pasting (1, 0, 1) |
 | 2026-10-26 | Proposed | [CASE-166](../../record/cases.d/CASE-166.md) | 1 | 31 | 1 | Northstar as a multilevel simulation: twelve employees with fixed frames in four departments form overlapping working groups that keep records and can receive delegated authority; as reported, a working group with delegated authority ties a conventional router given the same information and authority, nearly all of its advantage over departmental silos comes from fast authorization, and keeping the incident team's records through a commander handoff improves the company's estimate of its own state about eightfold while barely changing what it does |
@@ -1175,7 +1178,7 @@
 
 ## TERMs
 
-23 of the 1262.
+23 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1205,7 +1208,7 @@
 
 ## ARGs
 
-37 of the 1262.
+37 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1249,7 +1252,7 @@
 
 ## SYNTHESISs
 
-78 of the 1262.
+78 of the 1265.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

@@ -13,7 +13,7 @@ history:
     organizational-normativity): bears_on QUESTION-071, whose summary
     cites THEORY-040 for the same argument ("any condition stated in
     present psychological structure"), of which this entry is the
-    Active reading; and bears_on QUESTION-tmpmus93, raised by the same
+    Active reading; and bears_on QUESTION-449, raised by the same
     review, which asks whether the choice this argument forces for a
     person, present structure or a historical condition, goes the same
     way for an organization that reproduces an installed mechanism.
@@ -39,7 +39,7 @@ summary: >-
   Whether any historical condition escapes the argument stays [THEORY-040](THEORY-040.md)'s
   question, Proposed.
 bears_on:
-- QUESTION-tmpmus93
+- QUESTION-449
 - QUESTION-071
 ---
 <!-- inactive-ok-file: THEORY-040 — Proposed; the account this is split from, which holds the question whether any historical condition escapes -->

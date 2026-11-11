@@ -1,5 +1,8 @@
 ---
+number: 1561
 status: Proposed
+formerly:
+- THEORY-tmpn3ohs
 promote_when: >-
   A reading of the answer in full finds it telling the incident as the
   title states: a compiler that restored a program's malicious source on
@@ -12,18 +15,18 @@ tags:
 - epistemology
 date: '2026-11-11'
 source:
-- LIT-tmp1lu07
+- LIT-2331
 bears_on:
-- QUESTION-tmpmus93
+- QUESTION-449
 summary: >-
-  An anecdote of Thompson's attack ([THEORY-tmpkzkpc](THEORY-tmpkzkpc.md)) met in practice,
-  held as [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md) ([NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)). It bears on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md):
+  An anecdote of Thompson's attack ([THEORY-1560](THEORY-1560.md)) met in practice,
+  held as [CASE-232](../cases.d/CASE-232.md) ([NOTE-1714](../notes.d/NOTE-1714.md)). It bears on [QUESTION-449](../questions.d/QUESTION-449.md):
   a mechanism installed by someone gone, reproduced by the host's own
   routine and hidden from it, which no one counts as the host's doing.
 ---
-<!-- inactive-ok-file: THEORY-tmpkzkpc — Proposed; the readings filed with this entry, cited with their standing -->
+<!-- inactive-ok-file: THEORY-1560 — Proposed; the readings filed with this entry, cited with their standing -->
 
-# THEORY-tmpn3ohs: Stute tells, as his own experience, a departed graduate student's compiler Trojan horse that restored a program's hateful subliminal messages on every compile and restored itself when the compiler was rebuilt from clean source, removed only by installing a compiler binary from another machine
+# THEORY-1561: Stute tells, as his own experience, a departed graduate student's compiler Trojan horse that restored a program's hateful subliminal messages on every compile and restored itself when the compiler was rebuilt from clean source, removed only by installing a compiler binary from another machine
 
 ## The account
 
@@ -36,8 +39,8 @@ compiler" from another machine was installed.
 
 ## Evidence
 
-The answer itself ([NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)), told as first-hand and unverifiable.
+The answer itself ([NOTE-1714](../notes.d/NOTE-1714.md)), told as first-hand and unverifiable.
 
 ## What it bears on
 
-[QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md), through [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md).
+[QUESTION-449](../questions.d/QUESTION-449.md), through [CASE-232](../cases.d/CASE-232.md).
