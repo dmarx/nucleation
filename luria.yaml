@@ -882,6 +882,16 @@ schemes:
     render: index
     allocate: merge
     references:
+      integrated_by:
+        label: Accounted for in
+        blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
+          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          argument it belongs to
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: integrates
+        derived: true
       source:
         label: Evidence
         blurb: 'the work this account comes from. Same test as a practice''s: what the explanation could
@@ -1095,6 +1105,16 @@ schemes:
     render: index
     allocate: merge
     references:
+      integrated_by:
+        label: Accounted for in
+        blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
+          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          argument it belongs to
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: integrates
+        derived: true
       refines:
         label: Narrows
         blurb: the broader question this one is a part or a sharpening of
@@ -1167,6 +1187,16 @@ schemes:
     render: index
     allocate: merge
     references:
+      integrated_by:
+        label: Accounted for in
+        blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
+          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          argument it belongs to
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: integrates
+        derived: true
       answers:
         label: Answers
         blurb: the question this claim is an answer to
@@ -1358,6 +1388,16 @@ schemes:
     render: index
     allocate: merge
     references:
+      integrated_by:
+        label: Accounted for in
+        blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
+          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          argument it belongs to
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: integrates
+        derived: true
       supports:
         label: Supports
         blurb: the claims and arguments grounded in this case, written by `luria link --fix` from their
@@ -1465,6 +1505,16 @@ schemes:
     render: index
     allocate: merge
     references:
+      integrated_by:
+        label: Accounted for in
+        blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
+          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          argument it belongs to
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: integrates
+        derived: true
       used_by:
         label: Used by
         blurb: the claims and arguments stated in this term, written by `luria link --fix` from their
@@ -1550,6 +1600,16 @@ schemes:
     render: index
     allocate: merge
     references:
+      integrated_by:
+        label: Accounted for in
+        blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
+          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          argument it belongs to
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: integrates
+        derived: true
       rests_on:
         label: Premises
         blurb: the record's own claims the inference starts from. The premises of one argument work together;
@@ -1669,6 +1729,16 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
     references:
+      integrated_by:
+        label: Accounted for in
+        blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
+          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          argument it belongs to
+        scheme: SYNTHESIS
+        required: false
+        many: true
+        converse: integrates
+        derived: true
       integrates:
         label: Integrates
         blurb: every entry the account puts together, its part accounts among them; the
@@ -1676,6 +1746,7 @@ schemes:
         scheme: [CLAIM, TERM, CASE, THEORY, QUESTION, ARG, SYNTHESIS]
         required: true
         many: true
+        converse: integrated_by
       bears_on:
         label: Bears on
         blurb: a question the account's scope answers or leaves open
