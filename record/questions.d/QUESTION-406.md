@@ -4,14 +4,21 @@ status: Open
 formerly:
 - QUESTION-tmpe72ii
 title: 'Does an independent or better-powered estimate of manufacturing agglomeration on comparable US county data also find no density range with a higher elasticity, and was the Tennessee Valley Authority region''s 1960–2000 manufacturing gain caused by the TVA?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
 line:
 - realizability
-- readiness
+- transient-support
 summary: >-
   The independent test and the refutation clauses formerly in [THEORY-1461](../theory.d/THEORY-1461.md)'s
   promotion condition, moved here when the twenty-seventh status review

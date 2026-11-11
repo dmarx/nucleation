@@ -4,13 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpwpaqt
 title: 'Does an independent pooled analysis or large cohort of adult corticosteroid users, tested at least 24 hours after the last dose, reproduce the route ordering, the rise of adrenal suppression with dose and duration and a persisting fraction of about 15–25% weeks to months after stopping, and does a comparative trial show any withdrawal scheme effective or safe?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - natural-sciences
 date: '2026-11-06'
 line:
 - realizability
-- readiness
+- transient-support
 summary: >-
   The independent test and the refutation clauses formerly in
   [THEORY-1513](../theory.d/THEORY-1513.md)'s promotion condition, moved here when the twenty-eighth

@@ -4,12 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmph06t3
 title: 'Does an independent re-estimate on Davis and Weinstein''s Japanese city data find 2SLS coefficients on instrumented 1940–47 growth indistinguishable from −1 for 1947–60 without the prewar-trend control and for 1947–65 with it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1499](../theory.d/THEORY-1499.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'The

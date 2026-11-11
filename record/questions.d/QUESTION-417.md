@@ -4,12 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpcfetq
 title: 'Do the primary studies behind Araki, Berejikian, Ford and Blouin''s Table 1 bear out hatchery salmonids'' relative fitness in the wild generally below one and lowest, at lifetime 0.02–0.37, for nonlocal segregated stocks, and does a reproduction of their Eqn (3) and Figs 2–3 show that on one trait a decline of more than 30% per generation needs strong truncation, high heritability and strong wild selection together?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - natural-sciences
 - ecology
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1495](../theory.d/THEORY-1495.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'Table

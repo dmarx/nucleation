@@ -4,12 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmp1dc6w
 title: 'Does an independent pre-registered replication, by a team other than the authors, of Shah, Mullainathan and Shafir''s Angry Blueberries or a Family Feud borrowing experiment find that poor-budget players borrow a larger share of their budget than rich-budget players and score lower with interest-bearing borrowing than without, while rich-budget players do not, and that poor-budget players spend longer aiming each shot?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - cognition
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1484](../theory.d/THEORY-1484.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'An

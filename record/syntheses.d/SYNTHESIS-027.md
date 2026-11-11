@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp78y0i
 title: 'Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    At the split of readiness (ADR-tmptlkel), the third part became the
+    line transient-support. The introduction and the heading of the links
+    across say so; the components and links are unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the keeping-and-judging part of the readiness line left out without a
@@ -53,8 +60,9 @@ integrates:
 
 *A part account of the readiness line: the part filed from the exchange on
 emergency readiness and its bibliography (2026-11-04), with what later
-filings added to it. The line's account is built over it and its two
-sibling parts.*
+filings added to it. The line's account is built over it and its sibling
+part. A third part, withdrawing transient support, became the line
+transient-support at the split of readiness ([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)).*
 
 ## The account
 
@@ -179,7 +187,7 @@ them here, and each reaches the part only through a reading.
   [TERM-113](../terms.d/TERM-113.md) calls coverage a proxy objective in [TERM-108](../terms.d/TERM-108.md)'s sense; [TERM-108](../terms.d/TERM-108.md)
   sets misalignment apart from the ratchet of [TERM-110](../terms.d/TERM-110.md).
 
-## Links across to the sibling parts, stated
+## Links across to the sibling part and to transient-support, stated
 
 - **To the reaching part.** [CLAIM-572](../claims.d/CLAIM-572.md) (Active) complements [CLAIM-561](../claims.d/CLAIM-561.md):
   "Sending the general response early is the hedge at o = 0." [CLAIM-569](../claims.d/CLAIM-569.md)
@@ -192,7 +200,7 @@ them here, and each reaches the part only through a reading.
   [QUESTION-394](../questions.d/QUESTION-394.md)'s note names A's simulator as its cheapest test. [TERM-106](../terms.d/TERM-106.md)
   refines [TERM-107](../terms.d/TERM-107.md), and [TERM-110](../terms.d/TERM-110.md)'s revision rule is what [CASE-200](../cases.d/CASE-200.md)'s cut
   on unspent funds is.
-- **To the support part.** [CLAIM-558](../claims.d/CLAIM-558.md) complements [CLAIM-602](../claims.d/CLAIM-602.md) and
+- **To transient-support ([SYNTHESIS-032](SYNTHESIS-032.md)).** [CLAIM-558](../claims.d/CLAIM-558.md) complements [CLAIM-602](../claims.d/CLAIM-602.md) and
   corroborates [CLAIM-600](../claims.d/CLAIM-600.md). [QUESTION-386](../questions.d/QUESTION-386.md)'s note: "In [CLAIM-602](../claims.d/CLAIM-602.md), funding
   that pays for the work rather than for the organization doing it
   selects substitution, which lowers the capacity kept." [CLAIM-632](../claims.d/CLAIM-632.md) says a

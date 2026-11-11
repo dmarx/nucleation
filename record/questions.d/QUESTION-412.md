@@ -4,12 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmp4tilp
 title: "Does a re-analysis of the Social Sciences Replication Project's data for Study 1 of Shah, Mullainathan and Shafir (2012), or a further independent replication of that study, also find no poor-versus-rich difference in the original direction on the Dots-Mixed task?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - philosophy-of-science
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1469](../theory.d/THEORY-1469.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md): [THEORY-1469](../theory.d/THEORY-1469.md)

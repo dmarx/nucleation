@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpdbsh1
 title: 'Under what conditions does a partial organization become independent of the intervention that originally established it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - complex-systems
 - natural-sciences
@@ -12,7 +19,7 @@ tags:
 date: '2026-11-05'
 line:
 - realizability
-- readiness
+- transient-support
 summary: >-
   A's question, verbatim, from the fourth synthesis on DNA origami pasted
   by the owner on 2026-11-05, Prediction 6 and §10. A's test: establish a

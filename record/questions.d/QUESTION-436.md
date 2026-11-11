@@ -4,12 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpsd6a0
 title: 'Does an independent threshold-regression test of unique against multiple equilibria, on the Japanese bombing data or another large temporary shock to cities, find a preferred multiple-equilibria model whose intercepts satisfy the ordering that larger negative shocks lead to lower equilibria?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1503](../theory.d/THEORY-1503.md), moved here when the
   twenty-ninth status review narrowed and promoted it under [ADR-065](../decisions.d/ADR-065.md). It

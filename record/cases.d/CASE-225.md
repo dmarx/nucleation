@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CASE-tmpecdgv
 title: 'A forced Stuart–Landau oscillator: a self-sustained and a damped one give the same drive-locked output; an inhibitory control above μ holds the self-sustained one at rest while it still answers the drive with amplitude about F/√((u − μ)² + (Ω − ω)²); withdrawing the drive alone lets the output die, withdrawing drive and control restores the limit cycle of radius √μ, so dependence for timing, dependence for performance and suppression of a latent capacity are three things'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -15,7 +22,7 @@ date: '2026-11-07'
 line:
 - realizability
 - distributed-agency
-- readiness
+- transient-support
 illustrates:
 - CLAIM-414
 - CLAIM-522

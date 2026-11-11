@@ -3,12 +3,20 @@ number: 32
 status: Proposed
 formerly:
 - SYNTHESIS-tmprhzl8
-title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the part''s questions are replications of the readings it rests on'
-version: 1
+title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line''s questions are replications of the readings it rests on'
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    At the split of readiness (ADR-tmptlkel), this part's entries became
+    the line transient-support, and this account became that line's
+    account. Its line, defeater, introduction and the heading of its
+    links to the other parts change to say so. Its components and the
+    links it states are unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
-  the support-and-withdrawal part of the readiness line left out without
-  a reason given; or a link this account states that no component
+  the transient-support line left out without a reason given; or a link this account states that no component
   states. Its standing is its components': a component retired or
   demoted takes its clause with it, and nothing here holds the clause up.
 tags:
@@ -17,7 +25,7 @@ tags:
 - ecology
 date: '2026-11-10'
 line:
-- readiness
+- transient-support
 integrates:
 - CLAIM-597
 - CLAIM-602
@@ -53,14 +61,17 @@ integrates:
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CLAIM-632 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
 
-# SYNTHESIS-032: Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the part's questions are replications of the readings it rests on
+# SYNTHESIS-032: Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on
 
-*A part account of the readiness line: the part filed from the DNA
+*The account of the transient-support line, "Withdrawing transient
+support", split from readiness ([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)), where it was a part
+account. It is the part filed from the DNA
 origami, aid and development, ecology, urban, medicine and windfall
 readings of 2026-11-05 and 2026-11-06, on A's [QUESTION-398](../questions.d/QUESTION-398.md). Every entry
 in it that links to another component also carries realizability, where
-[CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CASE-225](../cases.d/CASE-225.md) and [QUESTION-398](../questions.d/QUESTION-398.md) are first. The line's
-account is built over it and its two sibling parts.*
+[CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CASE-225](../cases.d/CASE-225.md) and [QUESTION-398](../questions.d/QUESTION-398.md) are first. [CLAIM-602](../claims.d/CLAIM-602.md)
+also keeps readiness, because it bears on [QUESTION-386](../questions.d/QUESTION-386.md) ([ADR-085](../decisions.d/ADR-085.md)), and
+the readiness line's account integrates it too.*
 
 ## The account
 
@@ -147,7 +158,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   [QUESTION-430](../questions.d/QUESTION-430.md), [QUESTION-431](../questions.d/QUESTION-431.md) and [QUESTION-436](../questions.d/QUESTION-436.md), Open: promotion conditions
   or independent tests moved from the readings at the status reviews of
   2026-11-06 under [ADR-065](../decisions.d/ADR-065.md). Five carry realizability first. None links to
-  a component by a relation or a mention; each reaches the part through a
+  a component by a relation or a mention; each reaches the line through a
   reading that [CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-601](../claims.d/CLAIM-601.md), [CLAIM-602](../claims.d/CLAIM-602.md) or [CLAIM-603](../claims.d/CLAIM-603.md) cites, and
   they are listed because their `line` field places them here.
 
@@ -173,15 +184,15 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   and [CLAIM-604](../claims.d/CLAIM-604.md)'s models and [CLAIM-600](../claims.d/CLAIM-600.md)'s three conditions as answers in
   part.
 
-## Links across to the sibling parts, stated
+## Links across to the readiness line, stated
 
-- **To the keeping part.** [CLAIM-558](../claims.d/CLAIM-558.md) (Active), complementing [CLAIM-602](../claims.d/CLAIM-602.md)
+- **To readiness's keeping part ([SYNTHESIS-027](SYNTHESIS-027.md)).** [CLAIM-558](../claims.d/CLAIM-558.md) (Active), complementing [CLAIM-602](../claims.d/CLAIM-602.md)
   and corroborating [CLAIM-600](../claims.d/CLAIM-600.md), supplies the disuse term; [CLAIM-602](../claims.d/CLAIM-602.md) bears
   on [QUESTION-386](../questions.d/QUESTION-386.md) ("Funding that rewards disbursing, or that pays for the
   work rather than for the organization doing it, selects substitution");
   [CLAIM-632](../claims.d/CLAIM-632.md) (Proposed) cites [CLAIM-605](../claims.d/CLAIM-605.md) for a reserve that may be
   impossible to rebuild below a threshold.
-- **To the reaching part.** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md).
+- **To readiness's reaching part ([SYNTHESIS-024](SYNTHESIS-024.md)).** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md).
 
 ## Not stated on the record
 

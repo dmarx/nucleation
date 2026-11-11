@@ -4,11 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmp3t9hj
 title: 'Does an independent replicated comparison of applied nucleation, plantation and natural regeneration, 15 years or more after maintenance ended, show both planted treatments raising later-successional seedling and sapling recruitment and lowering among-site compositional variability relative to natural regeneration, while the tree layer in every treatment stays dominated by a few pioneers and the planted cohort, whose own seedlings seldom reach the sapling layer?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Moves from readiness to transient-support, at the split of
+    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    part's account. No other change.
 tags:
 - ecology
 date: '2026-11-06'
-line: readiness
+line:
+- transient-support
 summary: >-
   The promotion condition formerly on [THEORY-1488](../theory.d/THEORY-1488.md), moved here when the
   twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'The

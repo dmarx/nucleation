@@ -597,7 +597,15 @@ vocabularies:
         blurb: what it takes to keep, reach and pay for capacities whose value lies in rare circumstances
           — readiness as response capability, slack and reconfiguration slack as different reserves, the
           resource threshold of a transition and its obstructions, and budget rules that remove options no
-          one chose to give up (ADR-073)
+          one chose to give up (ADR-073). When transient support can be withdrawn is a line of its own
+          (ADR-tmptlkel)
+      transient-support:
+        label: Withdrawing transient support
+        blurb: when support that establishes or sustains a party can be withdrawn without its decline — supplied
+          upkeep that never becomes optional, supply that does the party's work and lowers the capacity it
+          keeps, a savings buffer as a stock of time, dependency against division of labour by who supplies,
+          and independence from what founded an organization against independence from what feeds it; split
+          from readiness (ADR-tmptlkel)
       realizability:
         label: Resource-bounded realizability and individuation
         blurb: what a constrained system can realize, reach, tell apart and become under computational and

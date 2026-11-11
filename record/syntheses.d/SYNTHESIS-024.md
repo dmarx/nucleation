@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp1m0vj
 title: 'Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period''s spending loses every transition that needs slack with no sign in output'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    At the split of readiness (ADR-tmptlkel), the third part became the
+    line transient-support. The introduction and the heading of the links
+    across say so; the components and links are unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the reaching-and-paying part of the readiness line left out without a
@@ -52,7 +59,9 @@ integrates:
 synthesis on constraint architectures (2026-11-04) and the assistant's
 propositions offered after it. Most of its entries also carry
 realizability, where four of its claims are first. The line's account is
-built over it and its two sibling parts.*
+built over it and its sibling part. A third part, withdrawing transient
+support, became the line transient-support at the split of readiness
+([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)).*
 
 ## The account
 
@@ -177,7 +186,7 @@ built over it and its two sibling parts.*
   and acting "is a transition with its own threshold, as in [CLAIM-571](../claims.d/CLAIM-571.md),
   but in budget space rather than configuration space".
 
-## Links across to the sibling parts, stated
+## Links across to the sibling part and to transient-support, stated
 
 - **To the keeping part.** [CLAIM-572](../claims.d/CLAIM-572.md) complements [CLAIM-561](../claims.d/CLAIM-561.md); [CLAIM-569](../claims.d/CLAIM-569.md)
   bears on [QUESTION-395](../questions.d/QUESTION-395.md) and [QUESTION-386](../questions.d/QUESTION-386.md); [CASE-200](../cases.d/CASE-200.md) is "one mechanism for
@@ -186,7 +195,7 @@ built over it and its two sibling parts.*
   record's case of a deadline-constrained extrication"; [TERM-106](../terms.d/TERM-106.md) sets
   itself apart from [TERM-110](../terms.d/TERM-110.md)'s revision rule and from [TERM-112](../terms.d/TERM-112.md), and calls
   its operational reserve one input to readiness ([TERM-115](../terms.d/TERM-115.md)).
-- **To the support part.** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md), reading a savings
+- **To transient-support ([SYNTHESIS-032](SYNTHESIS-032.md)).** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md), reading a savings
   buffer as a replenishable reserve whose depth sets a deadline.
 
 ## Not stated on the record
