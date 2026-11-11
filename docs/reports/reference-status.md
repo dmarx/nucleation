@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**918 documents cited without acknowledgement.** Not listed: 23628 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**918 documents cited without acknowledgement.** Not listed: 23648 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2873,7 +2873,7 @@ Learned local accommodation can reduce the amortized cost of recurrent arbitrati
 
 No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
-19 citations in 16 files await a look; 125 other citations of it are acknowledged.
+19 citations in 16 files await a look; 129 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1683.md:54`](../../record/literature.d/LIT-1683.md)
 - [`record/literature.d/LIT-1686.md:13`](../../record/literature.d/LIT-1686.md)
@@ -6433,7 +6433,7 @@ Theory of Value: An Axiomatic Analysis of Economic Equilibrium
 
 Remembrance of Brains Past
 
-5 citations in 3 files await a look.
+5 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1732.md:63`](../../record/literature.d/LIT-1732.md)
 - [`record/literature.d/LIT-1776.md:7`](../../record/literature.d/LIT-1776.md)
@@ -6445,7 +6445,7 @@ Remembrance of Brains Past
 
 The Concept and Psychological Consequences of Symbolic Immortality
 
-5 citations in 3 files await a look.
+5 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1689.md:7`](../../record/literature.d/LIT-1689.md)
 - [`record/literature.d/LIT-1689.md:49`](../../record/literature.d/LIT-1689.md)
@@ -8049,7 +8049,7 @@ Internal conflict is the gap between the precedence a motive claims over action 
 
 Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
 
-3 citations in 1 file await a look; 42 other citations of it are acknowledged.
+3 citations in 1 file await a look; 43 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1700.md:33`](../../record/literature.d/LIT-1700.md)
 - [`record/literature.d/LIT-1700.md:35`](../../record/literature.d/LIT-1700.md)
@@ -9350,7 +9350,7 @@ Rediscovering the Social Group: A Self-Categorization Theory
 
 Death and the Afterlife
 
-2 citations in 2 files await a look; 18 other citations of it are acknowledged.
+2 citations in 2 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1712.md:53`](../../record/literature.d/LIT-1712.md)
 - [`record/literature.d/LIT-1748.md:51`](../../record/literature.d/LIT-1748.md)
@@ -10761,7 +10761,7 @@ A fanbase is a mixture of spectators who relate to the club in different ways, a
 
 When a fanbase is set against an outside party such as its club's owner, its more extreme members become more prototypical of it, so a vocal minority can fix the fanbase's public stance through a group process and not only through biased sampling of who speaks
 
-1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-1114.md:30`](../../record/theory.d/THEORY-1114.md)
 
@@ -10849,7 +10849,7 @@ Visual search and stimulus similarity
 
 Memories of 'The Rivalry': Differences in How Fans of the Winning and Losing Teams Remember the Same Game
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1734.md:56`](../../record/literature.d/LIT-1734.md)
 
@@ -11129,7 +11129,7 @@ A Social Identity Model of Deindividuation Phenomena
 
 Moral Problems of Population
 
-1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1749.md:52`](../../record/literature.d/LIT-1749.md)
 
