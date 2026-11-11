@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdr90u
 title: 'Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -23,6 +23,15 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-072 added. The body: "The record's own version of
+    the last is QUESTION-072", and its second half, that "a cut excludes
+    something fixes no obligation", bears on that question's part 2, whether
+    the asymmetry is a wrong or only a bias. Its first line, record-as-
+    apparatus, is already this claim's (ADR-085). Reading review of
+    2026-11-11, by question. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +62,8 @@ summary: >-
   A6 named as the bridge. Barad is unread here.
 complements:
 - CLAIM-624
+bears_on:
+- QUESTION-072
 ---
 <!-- inactive-ok-file: LIT-1631 — Deferred; registered unread -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->

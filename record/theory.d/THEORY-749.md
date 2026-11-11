@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp99aof
 title: 'A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-20'
@@ -28,6 +28,13 @@ history:
     The summary no longer calls Isett's solutions dissipative or says the
     negative half is unread: it cites THEORY-763 for non-conservation and
     THEORY-776 for strictly decreasing energy. The account is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-219 added. Its Connections: "It does not answer the
+    question ...; it bears on A5's precondition, that a flux is defined by a
+    balance law for a specified quantity". Reading review of 2026-11-11, by
+    question. No other change.
 tags:
 - mathematics
 - natural-sciences
@@ -45,6 +52,8 @@ summary: >-
   later theorem ([THEORY-763](THEORY-763.md)), that it can strictly decrease is Buckmaster,
   De Lellis, Székelyhidi and Vicol's (THEORY-776), both Proposed,
   and some rough solutions conserve energy anyway.
+bears_on:
+- QUESTION-219
 ---
 <!-- inactive-ok-file: THEORY-763 THEORY-776 — Proposed; the negative half, cited as open -->
 <!-- inactive-ok-file: LIT-1252 — Unavailable; Eyink 2005, cited for where finer versions of the same estimate are proved, nothing here rests on it -->

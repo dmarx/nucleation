@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp0fvik
 title: 'Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,13 @@ history:
     fundamentals are the mechanism, and whether temporary subsidies
     could move city size, are the authors' readings, which this
     THEORY reports and does not assert.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-421: the question says it holds "promotion condition formerly on THEORY-1499" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -41,6 +48,8 @@ summary: >-
   locational fundamentals are inferred from the reversion, not measured;
   and reversion within the observed shocks cannot exclude thresholds
   beyond them.
+bears_on:
+- QUESTION-421
 ---
 
 # THEORY-1499: Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals

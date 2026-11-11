@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpye6gw
 title: "For a wide two-layer ReLU network with zero bias on one-dimensional data whose two classes lie on opposite sides of the origin, the tangent kernel is a constant multiple of the initialization kernel, so lazy training leaves the within-class variability of its features, NC1, where initialization put it"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -23,6 +23,14 @@ history:
     THEORY-813, Proposed, to carry what the narrowing dropped. This
     entry's status, title and claims are unchanged; a dated note says what
     moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-192 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "In higher
+    dimensions it is measured no lower, and for ReLU higher; whether
+    lazy training leaves NC1 in place there is QUESTION-192." No other
+    change.
 tags:
 - learning-theory
 - representation-learning
@@ -41,6 +49,7 @@ summary: >-
   learning is the reading's, not proved.
 bears_on:
 - QUESTION-051
+- QUESTION-192
 ---
 
 <!-- inactive-ok-file: THEORY-813 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

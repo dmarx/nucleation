@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp83kni
 title: "For a memory evolving reversibly with its environment, Landauer's bound prices only steps that lose logical distinguishability, at least k ln 2 of entropy per bit lost, exported to the environment and not necessarily as heat, so copying onto a blank register, measuring or evaluating a bit has no minimum cost; learning a label has a floor only in total entropy production, at least the information learnt, which in Goldt and Seifert's perceptron can be paid in the weights' own entropy with vanishing heat"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-01'
@@ -24,6 +24,13 @@ history:
     (Goldt and Seifert's Eq. 16), and what has no floor is the heat. The
     open part of the promote_when (weaker assumptions, Earman and Norton,
     Landauer 1961) moves to QUESTION-215.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-215: the question says it holds "promotion condition formerly on THEORY-030" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - information-theory
 - thermodynamics
@@ -47,6 +54,8 @@ summary: >-
   vanishing heat in their toy model. It does not license a k_BT ln 2 heat
   floor per judgment, per gradient step or per bit learnt. Whether the
   bound survives without reversible dynamics is [QUESTION-215](../questions.d/QUESTION-215.md).
+bears_on:
+- QUESTION-215
 ---
 <!-- inactive-ok-file: LIT-328 — Unavailable; named as unread, nothing here quotes it -->
 

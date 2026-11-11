@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4g8e1
 title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -53,6 +53,16 @@ history:
     this claim's disuse term. Since 2026-11-06 (version 2) the two
     complement each other, and the note now says so (a defect listed in
     the curation entry of 2026-11-10). No other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-433 added. Parts 1 and 2 state Tatel's rates and
+    practice moderator, "the record's rates are still Tatel's", and the note
+    of 2026-11-06 says "Tatel's performance opportunities are mostly an
+    earlier retention test"; QUESTION-433 asks whether an independent
+    synthesis finds the same, with practice other than an earlier test. Its
+    first line, readiness, is already this claim's (ADR-085). Reading review
+    of 2026-11-11, by question. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -91,6 +101,7 @@ corroborates:
 - CLAIM-600
 bears_on:
 - QUESTION-395
+- QUESTION-433
 ---
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation

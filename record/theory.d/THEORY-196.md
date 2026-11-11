@@ -13,7 +13,7 @@ promote_when: >-
   Further experiments in which deep trees need more bits than bushy ones
   cannot settle it, because the upper bound already predicts that.
 title: 'A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -28,6 +28,13 @@ history:
     narrows to that upper bound. Its extension to H^r for r > 2 is not
     claimed by the title, and it moves to QUESTION-150. The claim is
     unchanged, and the status stays Proposed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-150: the question says it holds "promotion condition formerly on THEORY-196" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - mathematics
@@ -46,6 +53,7 @@ extends:
 - THEORY-734
 bears_on:
 - QUESTION-025
+- QUESTION-150
 ---
 <!-- inactive-ok-file: CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 

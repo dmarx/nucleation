@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp62hye
 title: 'In plane Couette and Poiseuille flow, measured in the energy norm, the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -44,6 +44,13 @@ history:
     excludes, not on the linear scalings." Its demand for an independent
     computation of the same scalings moves to QUESTION-358; the
     decision of 2026-10-19 to keep this entry Proposed predates ADR-065.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-358: the question says it holds "promotion condition formerly on THEORY-304" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -58,6 +65,8 @@ summary: >-
   transition to turbulence happens by this linear growth plus nonlinear
   mixing is the paper's conjecture from a 2 × 2 model, and is not part of
   this account.
+bears_on:
+- QUESTION-358
 ---
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim that cites this paper, open -->
 <!-- inactive-ok-file: THEORY-323 — Proposed; the general account this case falls under -->

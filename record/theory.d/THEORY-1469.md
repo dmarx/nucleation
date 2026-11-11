@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6qwmt
 title: "In the Social Sciences Replication Project's pre-registered replication of Study 1 of Shah, Mullainathan and Shafir (2012), 619 online players given fewer guesses in a Wheel of Fortune word game did no worse than players given more on a later attention task (pooled p = 0.71, both stages' estimates in the opposite direction); the project tested no other study of the paper, and the original authors, whose own replications reproduced its over-borrowing result, call Study 1 a false positive"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,13 @@ history:
     Study 1 of Shah, Mullainathan and Shafir (2012), also finds no
     poor-versus-rich difference in the original direction on the
     Dots-Mixed task.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-412: the question says it holds "promotion condition formerly on THEORY-1469" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - philosophy-of-science
@@ -32,6 +39,8 @@ summary: >-
   original authors' comment. Active as a report of what the replication measured: one replication, two stages, one
   design. It says nothing independent about the paper's borrowing and
   focus studies, which only the authors have replicated.
+bears_on:
+- QUESTION-412
 ---
 <!-- inactive-ok-file: LIT-2147 — Unavailable, Proposed or new; cited from the reading of Camerer et al. (2018) as open -->
 

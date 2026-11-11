@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxwps9
 title: "For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -26,6 +26,13 @@ history:
     The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-809,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-176 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "Whether those
+    thresholds are the optimal learner's is QUESTION-176." No other
+    change.
 tags:
 - learning-theory
 - information-theory
@@ -42,6 +49,7 @@ summary: >-
   reaches the optimal allocation.
 bears_on:
 - QUESTION-039
+- QUESTION-176
 rivals:
 - THEORY-1353
 ---

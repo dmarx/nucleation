@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkoi6k
 title: 'Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,15 @@ history:
   date: '2026-10-20'
   note: >-
     The note of 2026-10-20 gains the Markov-chain counterpart, from the reading of Rosas et al. (NOTE-1030): with uniform weights every partition is strongly lumpable. The claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-218 added. The body says "What changes is
+    QUESTION-218: its choice between 'a subset of members' and 'a function
+    of the whole state' leaves out the equitable partition", and
+    QUESTION-218 rests on this claim's split ("CLAIM-388 makes the split
+    exact"). Its first line, distributed-agency, is already this claim's
+    (ADR-085). Reading review of 2026-11-11, by question. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,6 +56,8 @@ summary: >-
   It does not say the closed sum is one system ([QUESTION-218](../questions.d/QUESTION-218.md)), and it
   is about partitions of the units: in the eigenbasis of A the same system
   is exactly decomposable, which is the point.
+bears_on:
+- QUESTION-218
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # CLAIM-388: Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them

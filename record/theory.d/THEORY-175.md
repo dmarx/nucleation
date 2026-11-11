@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcgnsc
 title: 'Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve each sample''s cosines to the anchors, among them every orthogonal map times a positive scalar and every per-sample positive rescaling but not translations; in Moschella et al.''s experiments independently trained encoders agreed in them only approximately, enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -25,6 +25,13 @@ history:
     angle-preserving map, which the source assumes and tests only through
     its consequences, is now carried by THEORY-798, which extends
     this entry. Status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-211: the question says it holds "promotion condition formerly on THEORY-175" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - anthology-candidate
@@ -44,6 +51,8 @@ summary: >-
   0.10–0.39. It does not say the maps between trained spaces are
   isometries, which the source never measures ([QUESTION-211](../questions.d/QUESTION-211.md)), nor that
   the transfer needs no paired data: the anchors are paired data.
+bears_on:
+- QUESTION-211
 ---
 <!-- inactive-ok-file: THEORY-798 — Proposed; the wider hypothesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 

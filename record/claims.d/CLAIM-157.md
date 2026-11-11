@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-11'
@@ -63,6 +63,18 @@ history:
     a cell's membrane and a beam joining two pendulums pass alike. What
     it does not say gains that point, and a note of 2026-10-29 says what
     holds the claim back. The criterion is unchanged.
+- version: 10
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-042, QUESTION-218 and QUESTION-219 added. Its
+    `defeated_if` asks for "measured cases in which the block criterion and
+    independent marks of unity come apart", which QUESTION-042 sets up in a
+    brain, where anatomy is the independent mark; its notes say "Whether a
+    mode found without a grouping can be one system is QUESTION-218", that a
+    yes "would meet the `defeated_if`", and "Whether flux picks out units
+    this test misses is QUESTION-219". The three questions' first line,
+    distributed-agency, is already this claim's (ADR-085). Reading review of
+    2026-11-11, by question. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -106,6 +118,10 @@ summary: >-
   nothing has been measured. One-way drive passes, rightly
   (CLAIM-167), and the direction of coupling gives the system's
   architecture.
+bears_on:
+- QUESTION-042
+- QUESTION-218
+- QUESTION-219
 ---
 <!-- inactive-ok-file: LIT-1642 — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->

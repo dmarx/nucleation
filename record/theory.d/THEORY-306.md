@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp8v921
 title: "MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,14 @@ history:
     The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-805,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-171 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "The effect is
+    shown with batches of two to eight ImageNet classes, one run per
+    cell, not with natural long tails; the open half is QUESTION-171."
+    No other change.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -40,6 +48,8 @@ summary: >-
   and SwAV only. The effect is shown with batches of two to eight
   ImageNet classes, one run per cell, not with natural long tails; the
   open half is QUESTION-171.
+bears_on:
+- QUESTION-171
 ---
 <!-- inactive-ok-file: THEORY-805 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

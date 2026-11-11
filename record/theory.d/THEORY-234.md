@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpoa03p
 title: "Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none when it lies in those subspaces, and can fail to be shared otherwise"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,13 @@ history:
     ADR-047 v2 (the owner's rule of 2026-10-19) meets the first alternative.
     The measurement, which concerns trained models and which the body
     disclaims, moves unchanged to QUESTION-149.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-149: the question says it holds "promotion condition formerly on THEORY-234" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - mathematics
@@ -42,6 +49,8 @@ summary: >-
   equality of distributions only, and no experiments.
 extends:
 - THEORY-018
+bears_on:
+- QUESTION-149
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 

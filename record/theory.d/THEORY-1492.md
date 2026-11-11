@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpukudp
 title: 'Coates, Kegode, Galante and Blau report that in three Food for Peace projects in Kenya, followed 2–3 years after exit, impact at exit did not necessarily predict sustained benefit, and they read their within-country contrasts, which have no comparison group, as showing that the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -34,6 +34,20 @@ history:
     participants and substantive linkages formed early, and had
     operated independently for a time, while activities that relied
     on project-supplied inputs until the end declined'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-432, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question asks whether aid projects whose
+    beneficiaries contributed their own resources and shared the
+    decision to continue kept their benefits after donor support ended
+    more often than donor-funded ones. This reading's projects were
+    "followed 2-3 years after exit": the activities that continued had
+    "their own resource stream" and "motivated participants", while
+    "activities that relied on project-supplied inputs until the end
+    declined". It is a within-country contrast with no comparison
+    group, well short of the question's 10 to 20 years. No other
+    change.
 tags:
 - society-and-governance
 - social-science
@@ -54,6 +68,8 @@ summary: >-
 corroborates:
 - CLAIM-602
 - CLAIM-605
+bears_on:
+- QUESTION-432
 ---
 <!-- inactive-ok-file: LIT-2151 — Unavailable or new; cited from the reading of Coates et al. (2016) as open -->
 

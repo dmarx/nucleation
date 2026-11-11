@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpshzxc
 title: 'For one state law, one intervention distribution and one outcome, a deficiency of sufficiency cannot increase under refinement: if T₁ = g∘T₂ then Γ(T₂) ≤ Γ(T₁); informational closure, by contrast, is monotone in neither direction, since in the three-bit chain of Rosas et al. (2024) A is closed, its refinement (A, B) is not and the full state refining that is closed again, while A⊕B, a coarsening of (A, B), is not closed either; closure fails to be monotone because refining a description changes the future it must predict as well as the evidence, so Blackwell dominance, which every deterministic refinement has over its coarsening, does not order closure'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -12,6 +12,13 @@ history:
     From the readings of 2026-10-21 of the causal-abstraction papers: they
     have no counterpart of Γ's monotonicity; their transitivity is a
     different property. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-218 added. The body: "that closure gives no part-
+    whole order on candidate units is the open half of QUESTION-218".
+    QUESTION-218's first line, distributed-agency, is already this claim's
+    (ADR-085). Reading review of 2026-11-11, by question. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -50,6 +57,8 @@ summary: >-
   joins them, and corrects A7's slogan "When More Information Reveals Less
   Autonomy": closure is not reversed by refinement, it is unordered by it.
   Checked exactly on 2026-10-21.
+bears_on:
+- QUESTION-218
 ---
 
 # CLAIM-409: For one state law, one intervention distribution and one outcome, a deficiency of sufficiency cannot increase under refinement: if T₁ = g∘T₂ then Γ(T₂) ≤ Γ(T₁); informational closure, by contrast, is monotone in neither direction, since in the three-bit chain of Rosas et al. (2024) A is closed, its refinement (A, B) is not and the full state refining that is closed again, while A⊕B, a coarsening of (A, B), is not closed either; closure fails to be monotone because refining a description changes the future it must predict as well as the evidence, so Blackwell dominance, which every deterministic refinement has over its coarsening, does not order closure

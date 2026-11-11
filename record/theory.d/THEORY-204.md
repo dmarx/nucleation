@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpi172b
 title: 'On TinyStories and WikiText-103, the data-limited exponent of transformer test loss, fitted to the lower envelope of learning curves across context lengths at up to about 10^8 training tokens, overlaps γ/(2β), where β is the decay with lag of the top singular value of the token–token covariance and γ the decay of next-token conditional entropy with context length; under assumed per-lag scaling forms, a horizon n*(P) ~ P^(1/(2β)) gives the exponent min(δ, γ/(2β)), δ being the decay rate of the within-horizon excess losses'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -25,6 +25,13 @@ history:
     as the paper proposes, is filed as the Proposed THEORY-784, which
     extends this one (ADR-047 v4, narrowing-loss sweep, batch 068). Status
     and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-233 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "the fitted
+    exponent overlaps γ/(2β) ... Whether the horizon is why is open
+    (QUESTION-233)." No other change.
 tags:
 - learning-theory
 - linguistics
@@ -44,6 +51,7 @@ summary: >-
   Whether the horizon is why is open (QUESTION-233).
 bears_on:
 - QUESTION-039
+- QUESTION-233
 ---
 <!-- inactive-ok-file: THEORY-784 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-201 — Proposed or open; cited as the accounts this one extends or is set beside and the question it does not answer -->

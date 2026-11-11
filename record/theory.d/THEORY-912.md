@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpfj7ek
 title: 'In a picture-based avoidance task, treatment-seeking patients with OCD or PTSD avoided a safety cue more than healthy controls and, after effective avoidance, still expected the aversive picture more; patients with panic disorder with agoraphobia or PTSD reported more relief when it was omitted; the groups did not differ in avoiding the danger cues'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,6 +15,15 @@ history:
     unchanged to QUESTION-331, as THEORY-285's did to QUESTION-303.
     CLAIM-446 now lists this reading under corroborated_by, not grounds
     (ADR-058): the claim's argument does not rest on it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-303,
+    whose body says this reading "leans against the sampling account in
+    people, on a different task": patients with OCD or PTSD "sampled as
+    often as controls and drew less from the outcomes". Bearing, not
+    answering, as the question says ("it does not answer this question").
+    No other change.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
@@ -23,6 +32,7 @@ source:
 - LIT-1490
 bears_on:
 - QUESTION-331
+- QUESTION-303
 summary: >-
   De Kleine et al. (2023), [LIT-1490](../literature.d/LIT-1490.md), read in full from the CC BY
   version of record in [NOTE-1123](../notes.d/NOTE-1123.md). 47 controls against 33 OCD, 40 PDA

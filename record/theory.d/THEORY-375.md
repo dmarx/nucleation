@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpghhhx
 title: 'In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU was best on regular cyclic paths, by up to 2.3 times over the distance value and 9.6 times over LRU; none of the functions weighs what a region would cost to fetch again, and nothing is proved'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -33,6 +33,13 @@ history:
     experiments in another system that recover the crossover, asks for an
     explanation and generality the title does not claim, and moves to
     QUESTION-340.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-340: the question says it holds "promotion condition formerly on THEORY-375" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 - operations-research
@@ -50,6 +57,8 @@ summary: >-
   simulation only, with synthetic paths and no refetch cost in any value; it
   shows that the best forecast of reuse depends on the workload, not that
   semantic distance is a robust rule.
+bears_on:
+- QUESTION-340
 ---
 
 # THEORY-375: In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU was best on regular cyclic paths, by up to 2.3 times over the distance value and 9.6 times over LRU; none of the functions weighs what a region would cost to fetch again, and nothing is proved

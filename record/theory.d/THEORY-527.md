@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgjsxj
 title: 'If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.''s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-20'
@@ -40,6 +40,13 @@ history:
     Orseau, McGill and Legg do and argue, and the rival account, their
     relative definition of agency, is now THEORY-1236, Proposed,
     which carries the edge. Status, title and claims are unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-228 added. Its promote_when, whether the definition
+    picks out agency, "moves to QUESTION-228": the recovery theorem is that
+    question's premise, and the question says it does not answer it. Reading
+    review of 2026-11-11, by question. No other change.
 tags:
 - agency
 - causality
@@ -56,6 +63,8 @@ summary: >-
   the chosen variables, which the paper states.
 rivals:
 - THEORY-1236
+bears_on:
+- QUESTION-228
 ---
 <!-- inactive-ok-file: THEORY-801 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-1236 — Proposed; the rival account named in this entry's history, which now carries the rivals edge -->

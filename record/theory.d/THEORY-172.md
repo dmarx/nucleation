@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprknoj
 title: 'In Frank and Goodman''s one-shot reference games, listeners'' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy''s signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -32,6 +32,15 @@ history:
     Note of 2026-10-20 added: the wider claim this entry's narrowing
     dropped is now filed as THEORY-785, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-209, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question was this entry's promote_when
+    until 2026-10-20 and opens on it ("THEORY-172 holds that
+    listeners' mean bets match the inverted speaker"). The reading is
+    its premise and, by the question's own text, not an answer. No
+    other change.
 tags:
 - pragmatics
 - linguistics
@@ -56,6 +65,8 @@ summary: >-
   states the framework. Shown for artificial games with given alternatives,
   by fits of condition means with no rival fitted; a test against named
   rivals on trial-level data is [QUESTION-209](../questions.d/QUESTION-209.md).
+bears_on:
+- QUESTION-209
 ---
 
 <!-- inactive-ok-file: THEORY-785 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

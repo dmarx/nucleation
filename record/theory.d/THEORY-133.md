@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3fc4z
 title: "In List and Menzies's account of causes as difference-makers, a higher-level property that makes a difference to an effect is its cause, and its realizer is not, exactly when in some nearest situation without that realizer the property is realized differently and the effect still occurs; which holds depends on each causal system's counterfactual structure, not on levels a priori"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,13 @@ history:
     the effect occurs in some nearest situation, not that it would occur.
     The promote_when, evidence about a particular system, moves to
     QUESTION-213.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-213: the question says it holds "promotion condition formerly on THEORY-133" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -34,6 +41,8 @@ summary: >-
   higher-level relations are typically insensitive to their realizers is
   an observation about scientific practice, and Pernu disputes the paper's
   main example. Which systems meet the condition is [QUESTION-213](../questions.d/QUESTION-213.md).
+bears_on:
+- QUESTION-213
 ---
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->
 

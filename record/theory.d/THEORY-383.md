@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprwm4f
 title: 'On one Apache and Informix server answering cheap indexed selections over 1000 pages, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request at five or more updates per second, which the authors explain by reading the stored result costing about as much as recomputing it and its refresh loading the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -37,6 +37,13 @@ history:
     against measurement." Its demand for a measurement on another database
     and web stack asks for an independent test beyond the one testbed the
     title reports, and moves to QUESTION-347.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-347: the question says it holds "promotion condition formerly on THEORY-383" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 - operations-research
@@ -57,6 +64,7 @@ summary: >-
   measurement.
 bears_on:
 - QUESTION-114
+- QUESTION-347
 ---
 
 # THEORY-383: On one Apache and Informix server answering cheap indexed selections over 1000 pages, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request at five or more updates per second, which the authors explain by reading the stored result costing about as much as recomputing it and its refresh loading the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either

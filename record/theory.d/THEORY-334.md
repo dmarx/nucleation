@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6oz2d
 title: 'In copying a pattern of coloured blocks that stays in view, seven subjects told to work quickly looked back at the model about 1.3 times per block, and their commonest cycle, which looks at the model both before picking up a block and before dropping it, was the slowest per block in the authors'' observed tallies (about 3 s, against 1.5 s for a cycle that copies from memory); looks fell to 1.0 per block with model and copy 70° apart and to 0.7 with one-colour patterns that could be chunked, and in three subjects a colour change made during a saccade raised fixation time by about 129 ms after pickup against about 50 ms before; no statistics are reported'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -19,6 +19,13 @@ history:
     THEORY-346 contests, stays in the body. The request for a powered study
     with the two costs varied independently moves unchanged to
     QUESTION-235.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-235: the question says it holds "promotion condition formerly on THEORY-334" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - embodied-cognition
 - cognition
@@ -38,6 +45,7 @@ summary: >-
   Promoted 2026-10-20 on the observations alone (ADR-047 v3).
 bears_on:
 - QUESTION-095
+- QUESTION-235
 ---
 
 # THEORY-334: In copying a pattern of coloured blocks that stays in view, seven subjects told to work quickly looked back at the model about 1.3 times per block, and their commonest cycle, which looks at the model both before picking up a block and before dropping it, was the slowest per block in the authors' observed tallies (about 3 s, against 1.5 s for a cycle that copies from memory); looks fell to 1.0 per block with model and copy 70° apart and to 0.7 with one-colour patterns that could be chunked, and in three subjects a colour change made during a saccade raised fixation time by about 129 ms after pickup against about 50 ms before; no statistics are reported

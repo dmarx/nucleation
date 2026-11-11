@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjw8ev
 title: 'Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; its current, developmental and epistemic senses come apart from one another, and in the current sense it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -39,6 +39,16 @@ history:
     filed against it, the developmental objection is conceded by the
     corrected title, and nothing in the record meets its defeat
     condition.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-254 (reading review of 2026-11-11, by question).
+    Its own title: "what makes an interpretive organization experiential
+    need not be what makes its contents veridical", which is the
+    question's first condition on an answer, narrowed to match this
+    claim in its version 3. Under ADR-085 the relation gives this claim
+    QUESTION-254's first line, evidence-for-experience, which it already
+    carries. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,6 +83,8 @@ summary: >-
   it. The occurrence half is the owner's. A7: "What makes an
   interpretive organization experiential is not necessarily what makes
   its contents veridical."
+bears_on:
+- QUESTION-254
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-095 — Proposed; the claim this complements and a reading cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1350 — Unavailable; works registered and not read, cited as such -->

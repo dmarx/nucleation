@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7w5tq
 title: 'On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -27,6 +27,13 @@ history:
     repairing them under overwriting (the source's claim C6, shown in ten
     lifecycles), is now carried by THEORY-795, which extends this
     entry. Status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-169: the question says it holds "promotion condition formerly on THEORY-216" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - complex-systems
@@ -43,6 +50,8 @@ summary: >-
   overwriting throughout, and some failures look like successes until a late
   collapse. The recovery is validated only against final artworks, the
   lifecycles are ten examples, and nothing here observes plans.
+bears_on:
+- QUESTION-169
 ---
 <!-- inactive-ok-file: THEORY-795 — Proposed; the population thesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 

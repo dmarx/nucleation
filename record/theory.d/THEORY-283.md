@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpsluko
 title: 'For a hierarchical multi-index target with isotropic Gaussian inputs and even, separable links, direction k becomes weakly recoverable by the Bayes-optimal estimator at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples; a target-agnostic spectral estimator attains the thresholds and the optimal weighted error, and a two-layer network whose first layer is that estimator, with a ridge readout, attains them in excess risk'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,13 @@ history:
     The promote_when asked for a gradient-descent proof or a second input
     law, both outside the narrowed title. It moves unchanged to
     QUESTION-158.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-158: the question says it holds "condition formerly on THEORY-283" (ADR-065), so the reading
+    is its premise (ADR-060). The relation was never written when the
+    condition moved; sweep of 2026-11-11, from the reading review by
+    question. No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -37,6 +44,7 @@ summary: >-
   a spectral first layer plus a ridge readout, not gradient descent.
 bears_on:
 - QUESTION-039
+- QUESTION-158
 ---
 <!-- inactive-ok-file: THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->
 

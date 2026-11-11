@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5v6r5
 title: 'Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in rural Bangladesh face an S-shaped asset transition with an unstable threshold near the value of a cow and a small complementary asset, so that a one-off asset transfer that lifts a household above it is followed by accumulation, a shift into self-employment and higher consumption over 11 years while one that leaves it below is followed by asset loss: a poverty trap set by initial wealth and indivisible inputs, not by lower ability or effort'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,27 @@ history:
     baseline ability; or a design that randomizes transfer size, and
     so which side of the threshold a household lands on, finds the
     same.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-413, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question asks whether a time-limited
+    asset-and-support programme at a site outside the six-country
+    trials and West Bengal keeps its effects for seven years or more,
+    "carried mainly by wage employment or migration rather than by the
+    transferred activity". This reading's BRAC programme in rural
+    Bangladesh is such a site, its one-off transfer "followed by
+    accumulation, a shift into self-employment and higher consumption
+    over 11 years" above the threshold: evidence for the persistence
+    clause and against the decomposition clause, at one site, settling
+    neither. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-401: the question says it holds "promotion condition formerly on THEORY-1465" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -32,6 +53,8 @@ source:
 - LIT-2149
 bears_on:
 - QUESTION-398
+- QUESTION-413
+- QUESTION-401
 summary: >-
   Balboni, Bandiera, Burgess, Ghatak & Heil (2022), [LIT-2149](../literature.d/LIT-2149.md), read in
   [NOTE-1654](../notes.d/NOTE-1654.md) from the accepted NBER version. BRAC's one-off asset

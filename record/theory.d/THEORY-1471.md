@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7qas0
 title: 'Banerjee, Hanna, Kreindler and Olken find, re-analysing seven randomized evaluations of government-run cash transfer programs in six countries, no systematic effect of the transfers on whether adults work or how many hours they work, for men or for women: pooled, a transfer worth 13.6% of household consumption changes participation by −0.4 points (90% interval −2.3 to +1.4) and weekly hours by about −5 minutes (−1.7 to +1.4 hours), ruling out moderate reductions for men while leaving a wide range for women'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,13 @@ history:
   note: >-
     CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-429: the question says it holds "promotion condition formerly on THEORY-1471" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -43,6 +50,8 @@ summary: >-
   transfers stop, nor about state-level aid.
 corroborates:
 - CLAIM-600
+bears_on:
+- QUESTION-429
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
 

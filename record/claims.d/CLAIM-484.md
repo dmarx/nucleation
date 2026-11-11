@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxb1wf
 title: 'Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,16 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-365, as a
+    premise of it. The claim's note reads the parent's "excess action" as
+    "readiness claiming more than it is granted" and says "another process
+    takes the excess up. That route is QUESTION-365", and the question's
+    answer condition uses this claim's marks of conflict. The question's
+    first line is already this claim's, so no line is added (ADR-085). No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,6 +52,8 @@ summary: >-
   it. [CASE-151](../cases.d/CASE-151.md) and [CASE-127](../cases.d/CASE-127.md) illustrate the separation of access from
   authority, and their notes say they do not show that a motive claimed
   precedence.
+bears_on:
+- QUESTION-365
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

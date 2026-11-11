@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp0bflx
 title: "With a common prior, a sender who commits to a signal the receiver observes can induce any distribution of posteriors whose mean is the prior, so an openly designed experiment moves a fully informed Bayesian receiver whenever the concave closure of the sender's value lies above its value at the prior; at the optimum, under the paper's tie-breaking, the receiver is certain when she takes the sender's worst action and indifferent when she takes another"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,14 @@ history:
     (NOTE-1034): THEORY-844 is this result's many-player
     generalization with information of the receivers' own. The account is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-070 added. Its Connections: "The sender is any
+    optimiser of a payoff, and several of the paper's examples are
+    institutional procedures", and definitions requiring covertness "would
+    exclude this case, since the design is overt". Reading review of
+    2026-11-11, by question. No other change.
 tags:
 - game-theory
 - epistemology
@@ -28,6 +36,8 @@ summary: >-
   designed to convict convicts 60 percent of defendants when 70 percent
   are innocent. The paper does not analyse manipulation, does not compute
   the receiver's welfare and does not cite Blackwell.
+bears_on:
+- QUESTION-070
 ---
 <!-- inactive-ok-file: THEORY-414 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 — Proposed; accounts of manipulation and present structure named as neighbours, not leaned on -->

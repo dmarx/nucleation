@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxlzlq
 title: "In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -25,6 +25,13 @@ history:
     what the narrowing dropped: the general claim that diversity of
     combinations, not data volume, drives compositional generalization
     in vision models. This entry's status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-207 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "Honest
+    selection, other architectures and more concepts are QUESTION-207."
+    No other change.
 tags:
 - representation-learning
 - compositionality
@@ -47,6 +54,7 @@ summary: >-
   [QUESTION-207](../questions.d/QUESTION-207.md).
 bears_on:
 - QUESTION-025
+- QUESTION-207
 ---
 <!-- inactive-ok-file: THEORY-794 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 

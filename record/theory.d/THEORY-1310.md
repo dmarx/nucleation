@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmp5tsat
 title: 'In Sheldon, Elliot, Kim and Kasser''s three studies of most satisfying events, self-esteem was as salient as autonomy, competence and relatedness in every sample and the largest unique predictor of event affect balance among ten candidate needs in two of the three US samples (β = .28, .38); the authors, SDT researchers, concluded that there may be four fundamental needs and judged it imprudent to treat self-esteem as an outcome'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-369 added. Its summary calls the self-esteem items
+    reading like well-being "QUESTION-369's problem in miniature", and the
+    question's note of 2026-11-03 cites the study. Reading review of
+    2026-11-11, by question. No other change.
 tags:
 - motivation
 - well-being
@@ -18,6 +26,8 @@ summary: >-
   does not say self-esteem is a need: the criteria are self-reports of
   one remembered event, and the self-esteem items read like well-being,
   which is [QUESTION-369](../questions.d/QUESTION-369.md)'s problem in miniature.
+bears_on:
+- QUESTION-369
 ---
 
 # THEORY-1310: In Sheldon, Elliot, Kim and Kasser's three studies of most satisfying events, self-esteem was as salient as autonomy, competence and relatedness in every sample and the largest unique predictor of event affect balance among ten candidate needs in two of the three US samples (β = .28, .38); the authors, SDT researchers, concluded that there may be four fundamental needs and judged it imprudent to treat self-esteem as an outcome

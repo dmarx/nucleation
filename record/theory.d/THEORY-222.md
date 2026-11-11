@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuumxo
 title: 'With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-16'
@@ -34,6 +34,13 @@ history:
     Note of 2026-10-29 added: THEORY-1167 extends this entry and
     says what its gain is a gain of. The arithmetic, the title and
     the status are unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-204: the question says it holds "promotion condition formerly on THEORY-222" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - causality
 - complex-systems
@@ -55,6 +62,8 @@ summary: >-
   intervention distribution at both levels is QUESTION-204.
 answers:
 - QUESTION-250
+bears_on:
+- QUESTION-204
 ---
 
 <!-- inactive-ok-file: THEORY-787 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

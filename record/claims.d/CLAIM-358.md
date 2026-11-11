@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
 title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-28'
@@ -29,6 +29,15 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-365, as a
+    premise of it. The question's two routes are this claim's, and the
+    claim's note of 2026-10-31 describes the third: "That is neither local
+    accommodation nor escalation within the agent. The demand is granted
+    in another organization." The question's first line is already this
+    claim's, so no line is added (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,6 +89,7 @@ summary: >-
   an integrated agent works less hard, or anything about authenticity.
 bears_on:
 - QUESTION-054
+- QUESTION-365
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->

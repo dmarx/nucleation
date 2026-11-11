@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpvtupa
 title: "In a two-debater, three-proposition model of deductive debate whose payoff trades true beliefs against changes of mind, the most truth-conducive equilibrium can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and in a narrow band of mixed equilibria a higher weight on truth gives lower equilibrium accuracy"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,13 @@ history:
     accuracy dip confined to the band of mixed equilibria where it was
     found. The promote_when, asking for groups or richer strategies, moves
     unchanged to QUESTION-173.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-173: the question says it holds "promotion condition formerly on THEORY-290" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - epistemology
 - game-theory
@@ -36,6 +43,8 @@ summary: >-
   concerns collective accuracy, not a belief the pair settles on, and
   at high truth weight in short debates there is no dilemma. The title
   claims the model only; groups and richer strategies are QUESTION-173.
+bears_on:
+- QUESTION-173
 ---
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account this one is set beside -->
 

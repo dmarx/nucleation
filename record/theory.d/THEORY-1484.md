@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplj3t9
 title: "In pre-registered replications of all five experiments of their 2012 paper, with 876 to 997 online participants analysed in each, Shah, Mullainathan and Shafir again found that players given small budgets of shots or of seconds borrow a larger share against later rounds and do worse when they can borrow with interest while players given large budgets do not, with smaller effects than the originals, and that small-budget players aim longer; focus did not predict later borrowing, the previews effect was weaker, and their first study's fatigue effect reversed"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -22,6 +22,15 @@ history:
     interest-bearing borrowing than without, while rich-budget
     players do not, and that poor-budget players spend longer aiming
     each shot.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-409, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question holds this entry's former
+    condition, moved there at its promotion, but the relation was not
+    written. The reading reports the authors' own replications, "with
+    smaller effects than the originals", which the question asks
+    another team to test. No other change.
 tags:
 - social-science
 - cognition
@@ -35,6 +44,8 @@ summary: >-
   replications are the authors' own, on one online pool, and no team
   other than the authors has replicated the borrowing or focus studies;
   the only independent replication, of Study 1, failed as theirs did.
+bears_on:
+- QUESTION-409
 ---
 <!-- inactive-ok-file: LIT-2147 — Unavailable, Proposed or new; cited from the reading of Shah, Mullainathan & Shafir (2018) as open -->
 

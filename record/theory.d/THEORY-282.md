@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmps4hmc
 title: 'A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,13 @@ history:
     more than the title claims, a replication and a test of the
     measured cases against the cancelling-subspaces reading, so it
     moves to a new QUESTION. The title is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-200: the question says it holds "promotion condition formerly on THEORY-282" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - causality
 - representation-learning
@@ -33,6 +40,8 @@ summary: >-
   with a null-space component is spurious: in a one-dimensional readout
   the test passes both kinds. The reply ([LIT-961](../literature.d/LIT-961.md)) contests the label, not
   the measurements.
+bears_on:
+- QUESTION-200
 ---
 <!-- inactive-ok-file: THEORY-287 — Proposed; filed with this account from the same dispute -->
 

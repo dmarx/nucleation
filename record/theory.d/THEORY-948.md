@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5q0ny
 title: 'On Stable Diffusion 2, MultiDiffusion''s 512 × 4608 panoramas had crops closer in FID to the reference model''s own samples than two outpainting baselines (10.3 against 18.4 and 45.5, fresh reference samples scoring 6.05) at equal CLIP score, over 8 prompts; and on 1,000 COCO layouts of two to four objects, the overlap of a segmenter''s output with the target layout was 0.26 IoU against 0.16–0.17 for the baselines and 0.43 for the real images, of which region fusion alone gave 0.18 and an early phase showing each region''s denoiser only its own region gave the rest'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -13,6 +13,13 @@ history:
     full; the title claims no more than they measured, and nothing in the
     record contradicts them, which meets ADR-047 v3. The attribution of
     the layout gain to bootstrapping is the paper's own ablation row.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-273 added. Its Connections: "The bootstrapping
+    ablation is a case of the same spatial allocation used differently early
+    in sampling changing the outcome", which QUESTION-273 cites against its
+    no branch. Reading review of 2026-11-11, by question. No other change.
 tags:
 - compositionality
 date: '2026-10-25'
@@ -26,6 +33,8 @@ summary: >-
   segmenter and one overlap score, with spreads whose basis is not stated.
   Comparison with models trained for region-to-image generation is
   qualitative only.
+bears_on:
+- QUESTION-273
 ---
 
 # THEORY-948: On Stable Diffusion 2, MultiDiffusion's 512 × 4608 panoramas had crops closer in FID to the reference model's own samples than two outpainting baselines (10.3 against 18.4 and 45.5, fresh reference samples scoring 6.05) at equal CLIP score, over 8 prompts; and on 1,000 COCO layouts of two to four objects, the overlap of a segmenter's output with the target layout was 0.26 IoU against 0.16–0.17 for the baselines and 0.43 for the real images, of which region fusion alone gave 0.18 and an early phase showing each region's denoiser only its own region gave the rest

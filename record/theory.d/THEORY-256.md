@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbx1ck
 title: "When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -28,6 +28,14 @@ history:
     The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-808,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-157 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "The
+    replication the promote_when asked for moves, unchanged, to
+    QUESTION-157." The measured case is the question's premise. No other
+    change.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -45,6 +53,7 @@ summary: >-
   leaves open, and it varies neither the objective nor the data domain.
 bears_on:
 - QUESTION-060
+- QUESTION-157
 ---
 <!-- inactive-ok-file: THEORY-808 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-274 — Proposed; accounts on the same question, open -->

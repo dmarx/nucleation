@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp07t7w
 title: 'On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image from a stable period is predicted up to hours ahead, on held-out images and on the 2023 edition, by a combination of many image-level series far better than by any generic slowing-down indicator; the series the predictor relies on include low past restoring of attacked pixels as well as attack outrunning restoration, and about a quarter of overthrows give no warning at the 20-minute range'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -25,6 +25,13 @@ history:
     conjecture from SHAP curves. The promote_when, a second system and the
     social reading of the precursors, moves unchanged to
     QUESTION-320.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-320 added. Its promote_when moved to QUESTION-320,
+    which asks whether these r/place precursors hold in a second system: the
+    entry is that question's premise. Reading review of 2026-11-11, by
+    question. No other change.
 tags:
 - complex-systems
 - social-science
@@ -44,6 +51,8 @@ summary: >-
   authors' conjecture from SHAP curves; nothing here measures plans.
 corroborates:
 - CLAIM-279
+bears_on:
+- QUESTION-320
 ---
 <!-- inactive-ok-file: CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and accounts, cited as what this bears on, nothing here rests on their being settled -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5mn7l
 title: 'In a singularly perturbed system, fast states x̃ with dx̃/dt = f̃(x̃, y) + ε·δf and slow states y with dy/dt = ε·ḡ(y) + ε·δg, if f̃ is contracting in x̃ at rate β_f with x̃ = 0 an equilibrium for every y, ḡ is contracting at rate β_g, and |δf| ≤ d_f + α_f,x|x̃| + α_f,y|y|, |δg| ≤ d_g + α_g,x|x̃|, then for every ε below ε_c = β_f / [χ_f(α_f,x + χ_g α_f,y α_g,x / β_g)] the fast states stay within O(ε) of zero and, when d_g = 0, the slow states within O(ε) of the reduced trajectory, uniformly in time after a transient of order (1/β_f + 1/(εβ_g)) log(1/ε)'
-version: 4
+version: 5
 history:
 - version: 1
   date: '2026-10-20'
@@ -48,6 +48,14 @@ history:
   note: >-
     Tagged control-theory beside the existing tags (ADR-066). Nothing
     else changes.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-218 added. Its Connections, under QUESTION-218: the
+    micro states act on the macro level through "an aggregation in time",
+    and act only as a group if the coupling is also low rank, "which the
+    paper separates from weakness". Reading review of 2026-11-11, by
+    question. No other change.
 tags:
 - complex-systems
 - mathematics
@@ -66,6 +74,7 @@ summary: >-
   coordinates as given.
 bears_on:
 - QUESTION-221
+- QUESTION-218
 ---
 <!-- inactive-ok-file: LIT-1127 LIT-1294 — Unavailable; the works this result stands in for, nothing rests on them -->
 

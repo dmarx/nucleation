@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpsylqv
 title: 'On Monte Carlo samples of the 2D Ising model and of the 2D dimer model with added noise spins, a block coarse-graining trained to maximize mutual information with the system beyond a buffer recovered the variables renormalization already uses (Kadanoff block spins; the dimers'' low-momentum electric fields, with no weight on the noise), and iterated on 128 × 128 Ising samples gave the flow away from the critical point, locating it to about 1% and giving ν ≈ 1.0 ± 0.15, while a restricted Boltzmann machine trained by contrastive divergence on the noisy dimer data coupled to the noise and to columnar patterns instead'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-09'
@@ -48,6 +48,13 @@ history:
     Note of 2026-10-20 added: the wider claim this entry's narrowing
     dropped is now filed as THEORY-789, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-232 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "whether they
+    agree where RG's variables are unknown is what QUESTION-232 asks."
+    No other change.
 tags:
 - natural-sciences
 - information-theory
@@ -67,6 +74,8 @@ summary: >-
   chains. The general equivalence of the objective with a short-ranged
   effective Hamiltonian is argued, not proved, and no system with unknown
   relevant variables was tried.
+bears_on:
+- QUESTION-232
 ---
 
 <!-- inactive-ok-file: THEORY-789 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

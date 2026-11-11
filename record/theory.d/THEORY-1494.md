@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpvmj93
 title: "Evans and Popova's count by sign and significance of 44 estimates from 19 studies of conditional and unconditional cash transfers in low- and middle-income countries finds that transfers almost never raise spending on alcohol and tobacco: 82% of the estimates are negative, only two are positive and significant, both non-experimental, none of 17 randomized estimates is positive and significant, and the pattern does not differ between conditional and unconditional programs, across regions or with duration of receipt"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -22,6 +22,13 @@ history:
     increase, and no significant difference between conditional and
     unconditional programs. A further count of estimates by sign
     does not settle it; nor does a result on other spending.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-418: the question says it holds "promotion condition formerly on THEORY-1494" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -36,6 +43,8 @@ summary: >-
   disagreeing with its tables. Household evidence only; it bears on the
   character premise behind the record's dependency claims, not on their
   state- or project-level mechanisms, and says nothing about work.
+bears_on:
+- QUESTION-418
 ---
 
 # THEORY-1494: Evans and Popova's count by sign and significance of 44 estimates from 19 studies of conditional and unconditional cash transfers in low- and middle-income countries finds that transfers almost never raise spending on alcohol and tobacco: 82% of the estimates are negative, only two are positive and significant, both non-experimental, none of 17 randomized estimates is positive and significant, and the pattern does not differ between conditional and unconditional programs, across regions or with duration of receipt

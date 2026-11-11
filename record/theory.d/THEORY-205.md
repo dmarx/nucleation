@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpne099
 title: "For a short-range lattice model on a cylinder with a symmetric transfer matrix whose leading excited eigenvalue is non-degenerate, with block and environment as slabs L_B transfer steps apart, the uninformative information-bottleneck encoder first loses stability at β = (λ0/λ1)^(2L_B), in the direction of the boundary weak value of the leading excited eigenvector, which by the cited conformal finite-size relation is the lowest-dimension primary at large circumference; the uninformative encoder can stop being optimal at a smaller β, and nothing is shown for blocks inside a buffer shell or for the fixed-alphabet RSMI optimum"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,13 @@ history:
     non-degenerate leading excited eigenvalue, and the CFT reading is
     marked as cited. The promote_when, widened to ask when the two
     thresholds coincide, moves to QUESTION-185.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-185: the question says it holds "promotion condition formerly on THEORY-205" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - natural-sciences
 - information-theory
@@ -35,6 +42,7 @@ summary: >-
   filters on planar blocks, go beyond it.
 bears_on:
 - QUESTION-065
+- QUESTION-185
 ---
 <!-- inactive-ok-file: CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp84p6d
 title: "Michaels, Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that greenfield neighbourhoods given formal plots, roads and water mains under Tanzania's 1970s–80s Sites and Services projects, on which residents built their own houses, had by the 2010s larger, more regular and better-connected housing and better-preserved roads and water mains than adjacent land unbuilt at the start, while squatter areas given similar infrastructure spending per square metre were, in a comparison the authors call descriptive, no better than comparison areas, which the authors explain by their infrastructure having deteriorated; they attribute the difference to a feedback in which enough owners able to invest keep up the infrastructure that draws their investment"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -43,6 +43,13 @@ history:
   note: >-
     CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-416: the question says it holds "promotion condition formerly on THEORY-1472" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -61,6 +68,8 @@ summary: >-
   how the advantage moved over time.
 corroborates:
 - CLAIM-600
+bears_on:
+- QUESTION-416
 ---
 
 # THEORY-1472: Michaels, Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that greenfield neighbourhoods given formal plots, roads and water mains under Tanzania's 1970s–80s Sites and Services projects, on which residents built their own houses, had by the 2010s larger, more regular and better-connected housing and better-preserved roads and water mains than adjacent land unbuilt at the start, while squatter areas given similar infrastructure spending per square metre were, in a comparison the authors call descriptive, no better than comparison areas, which the authors explain by their infrastructure having deteriorated; they attribute the difference to a feedback in which enough owners able to invest keep up the infrastructure that draws their investment

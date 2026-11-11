@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwsee8
 title: "On the court agenda, and on any agenda in which every proposition reaches every other by conditional entailment and some minimally inconsistent triple stays consistent with two of its members negated, a group whose judgments are robustly rational under universal domain and respect unanimity cannot form its judgment on each proposition from its members' judgments on that proposition alone unless one member dictates; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -40,6 +40,13 @@ history:
     court agenda and the two conditions the proof uses. The extension to
     corporate attitudes, the second part of the promote_when, moves to
     QUESTION-152. The promote_when is removed.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-152: the question says it holds "second clause of THEORY-127" (ADR-065), so the reading is its
+    premise (ADR-060). The relation was never written when the condition
+    moved; sweep of 2026-11-11, from the reading review by question. No
+    other change.
 tags:
 - social-ontology
 - agency
@@ -69,6 +76,8 @@ summary: >-
   attitudes in general is QUESTION-152.
 extends:
 - THEORY-725
+bears_on:
+- QUESTION-152
 ---
 <!-- inactive-ok-file: THEORY-536 — Proposed; the authors' replies, named in Connections, not leaned on -->
 <!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpjdp4t
 title: 'As Ryan and colleagues'' 2022 meta-review maps it, the meta-analytic evidence for self-determination theory is concentrated in cognitive evaluation, organismic integration and basic needs theory, is mostly cross-sectional and heterogeneous, and has gaps: no meta-analysis of relationships motivation theory or of need frustration, one or two of causality orientations and goal contents, and none that separates integrated from identified regulation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-369 added. Its Connections: "The BPNT evidence the
+    review lists is need satisfaction correlated with well-being, the kind
+    the question says cannot settle what a need is." Reading review of
+    2026-11-11, by question. No other change.
 tags:
 - motivation
 - well-being
@@ -21,6 +29,8 @@ summary: >-
   are sound, since the review grades none of them, and it is written by
   the theory's co-founder, with several included meta-analyses by its
   authors.
+bears_on:
+- QUESTION-369
 ---
 <!-- inactive-ok-file: THEORY-052 THEORY-054 THEORY-049 LIT-1996 — Proposed, Open or Unfetched; neighbours whose promote_when this map bears on, cited as open -->
 

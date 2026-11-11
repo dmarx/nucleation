@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmp2fevr
 title: 'For discrete X and Y, with an intervention on a variable abstraction T of X defined as the mixture of interventions on X weighted by Bayes inversion of the encoder under a protocol prior, no abstraction gains causal information about Y over X itself, and at full weight on causal control the causal information bottleneck is optimised by the partition of X by p(y | do(x)), mapped one class to one value of T, uniquely up to relabelling when T has exactly as many values as there are classes; these are Chalupka et al.''s causal macrovariables'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-346 (reading review of 2026-11-11, by question).
+    The question's summary: "That the causal partition is the optimum is
+    THEORY-1125; whether search finds it at scale is this question."
+    This entry's own title states that optimum, the question's premise.
+    No other change.
 tags:
 - causality
 - information-theory
@@ -20,6 +29,8 @@ summary: >-
   the partition exactly, because γ = 1 drops the compression term. It
   holds for the paper's stipulated intervention on T and a fixed
   protocol; it says nothing about intermediate γ.
+bears_on:
+- QUESTION-346
 ---
 
 # THEORY-1125: For discrete X and Y, with an intervention on a variable abstraction T of X defined as the mixture of interventions on X weighted by Bayes inversion of the encoder under a protocol prior, no abstraction gains causal information about Y over X itself, and at full weight on causal control the causal information bottleneck is optimised by the partition of X by p(y | do(x)), mapped one class to one value of T, uniquely up to relabelling when T has exactly as many values as there are classes; these are Chalupka et al.'s causal macrovariables

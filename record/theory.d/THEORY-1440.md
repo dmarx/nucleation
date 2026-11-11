@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp500wn
 title: 'Sobczak reports, from work in the Dietz group, that 3D DNA origami folds cooperatively within a structure-specific window of about 5 °C and can be folded at a constant temperature within it, while folded objects held for two hours above the window unfold only 5–10 °C higher and within seconds, against minutes to hours for folding, and that the brick forms nothing in 48 hours 6 °C above its best folding temperature; the thesis does not pair persistence and non-formation at one temperature'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -33,6 +33,18 @@ history:
     one DNA origami a constant-temperature folding window a few
     degrees wide and a melting transition at a higher temperature,
     faster than folding, measured on stated timescales.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-419, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question asks whether "slow multilayer
+    folding and its cation dependence" (THEORY-1444, with week-long
+    ramps) has been reproduced. This reading, from the Dietz group,
+    holds that 3D DNA origami "can be folded at a constant
+    temperature" within a window of about 5 °C, in "minutes to hours":
+    evidence on the speed clause from another study, not a replication
+    of its conditions, and Dietz was a coauthor of the 2009 paper. No
+    other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -48,6 +60,7 @@ summary: >-
   temperature; the brick's melting temperature appears only in a figure.
 bears_on:
 - QUESTION-410
+- QUESTION-419
 corroborates:
 - CLAIM-594
 ---

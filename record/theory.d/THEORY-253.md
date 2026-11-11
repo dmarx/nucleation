@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp99x1h
 title: "In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -31,6 +31,13 @@ history:
     transformer, from a theory of invariant learning dynamics read on
     2026-10-26, and a measured dependency case for "Not the only cause".
     Status and title are unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-193 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "The evidence
+    is simulation and one fitted ODE; a derivation and a trained-network
+    test are QUESTION-193." No other change.
 tags:
 - learning-theory
 date: '2026-10-14'
@@ -49,6 +56,7 @@ summary: >-
   separate experiment, not part of this account.
 bears_on:
 - QUESTION-039
+- QUESTION-193
 ---
 <!-- inactive-ok-file: THEORY-783 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-212 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8ci5a
 title: '''Wanting'' and ''liking'' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system''s valence is that of the perspective whose ordering is the negotiation''s potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-26'
@@ -18,6 +18,17 @@ history:
   note: >-
     The eleventh status review (ADR-057) added a dated note saying what
     holds it back. The claim and its status are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-267.
+    Under "What it answers", point 2, the claim says that with valence
+    relative to a perspective "QUESTION-267 becomes the question when the
+    prevailing perspective's concerns have come apart from the organism's
+    maintenance; sensitization is the case of a pursuit perspective
+    prevailing on a cue-keyed proxy", the reading the question's note of
+    2026-10-23 gives as a candidate answer. The question's first line is
+    already this claim's, so no line is added (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +65,8 @@ summary: >-
   Scherer's micro-valences already do, makes the system's valence the
   prevailing perspective's, and answers two problems the readings of
   incentive sensitization left open.
+bears_on:
+- QUESTION-267
 ---
 <!-- inactive-ok-file: CLAIM-440 CLAIM-433 THEORY-893 THEORY-895 TERM-076 CLAIM-439 — Proposed or Open; the claims, readings, term and questions this reading bears on, cited as open -->
 

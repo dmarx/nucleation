@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpynupw
 title: "Golosov, Graber, Mogstad and Novgorodsky find, from US tax records of 90,731 state-lottery winners aged 21–64 with wins of at least $30,000 compared with later winners, that a windfall reduces work swiftly and persistently over the following five years, each dollar of annuitized unearned income lowering household pre-tax labour earnings by about 52 cents and raising consumption, imputed from the budget identity, by about 58 cents; that winners save and smooth most of the windfall, as imputed from their capital income; that the per-dollar earnings response rises with pre-win income and falls with prize size; and that wealth raises entry into low-profit self-employment but not into self-employment with profits above $15,000"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -36,6 +36,13 @@ history:
     colleagues' labour response, and this reading of US lottery
     winners is evidence on it without answering it. The status is
     unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-415: the question says it holds "promotion condition formerly on THEORY-1498" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 date: '2026-11-05'
@@ -43,6 +50,7 @@ source:
 - LIT-2181
 bears_on:
 - QUESTION-425
+- QUESTION-415
 summary: >-
   Golosov, Graber, Mogstad & Novgorodsky, [LIT-2181](../literature.d/LIT-2181.md), read in
   [NOTE-1671](../notes.d/NOTE-1671.md) in the NBER working-paper version of 2021; the QJE version

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp5iqbr
 title: 'In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero, wherever Tu is not zero, its direction tends to that of Tu, which is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,20 @@ history:
     rigidly redirects nothing'. Old third clause of the condition: "or in
     which, as λ goes to zero, it has a component on a node incident to no
     prestressed bond".
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-423, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question asks for an independent
+    derivation, on networks other than the paper's two, that prestress
+    breaking a symmetry "redirects and localizes those forces while
+    leaving the linear zero modes unchanged". This claim derives it
+    for any central-force network: the force is (T + λI)u, "so bond
+    stiffness never redirects it", and as λ goes to zero it tends to
+    Tu, "supported only on the nodes of prestressed bonds". The
+    question's note of 2026-11-06 already names it. Its line,
+    realizability, is the question's first line (ADR-085). No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -67,6 +81,8 @@ summary: >-
   Promoted by the twenty-ninth status review, which made the script's
   check independent with a finite-difference Hessian. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
+bears_on:
+- QUESTION-423
 ---
 
 # CLAIM-609: In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero, wherever Tu is not zero, its direction tends to that of Tu, which is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing

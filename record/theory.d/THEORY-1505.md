@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplod57
 title: 'Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital, while granting that their results are not direct evidence of multiple equilibria'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -40,6 +40,13 @@ history:
     portages is found. Whether the sites sit in a second stable
     equilibrium is the authors' reading, which they say is not
     directly shown, and is not asked for.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-422: the question says it holds "promotion condition formerly on THEORY-1505" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - complex-systems
@@ -54,6 +61,8 @@ summary: >-
   assets checked are many but not all; and the authors say their results
   "do not constitute direct evidence of multiple equilibria" and that a
   persistent sunk factor cannot be ruled out.
+bears_on:
+- QUESTION-422
 ---
 
 # THEORY-1505: Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital, while granting that their results are not direct evidence of multiple equilibria

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpi6wt0
 title: 'In Papyan, Han and Donoho''s runs of VGG, ResNet and DenseNet trained with cross-entropy on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class variability against between-class variability, and moves the centred class means and the classifier toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly to completion on the four easier datasets and only partly on ImageNet'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -24,6 +24,17 @@ history:
     Note of 2026-10-20 added: the wider claim this entry's narrowing
     dropped is now filed as THEORY-788, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-080 and QUESTION-202 (reading review of
+    2026-11-11, by question). QUESTION-080 takes this entry as one of
+    its two pictures of the end of training, and its title states the
+    geometry the question asks about: training past zero error "moves
+    the centred class means and the classifier toward a common simplex
+    equiangular tight frame". Its own text on the other: "Whether
+    collapse holds outside this protocol, and why training reaches it,
+    is QUESTION-202." No other change.
 tags:
 - representation-learning
 - learning-theory
@@ -53,6 +64,8 @@ summary: >-
   and is left to [THEORY-078](THEORY-078.md).
 bears_on:
 - QUESTION-051
+- QUESTION-080
+- QUESTION-202
 ---
 
 <!-- inactive-ok-file: THEORY-788 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

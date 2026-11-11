@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp0k3ls
 title: 'On 416 translations into English by four LLMs of 104 culturally loaded utterances in Hindi, Punjabi, Tamil and Malayalam, each scored for pragmatic adequacy by one native rater per language, the reference-based COMET metric correlates with the ratings at Pearson r = 0.813 and Spearman ρ = 0.860, against r 0.80 and ρ 0.79 for XCOMET and r 0.73 and ρ 0.79 for MetricX, with no test of the differences; four outputs picked after the fact that invert or misplace the source''s meaning get COMET scores of 0.65–0.86 against the rater''s 1 or 2'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -30,6 +30,13 @@ history:
     inter-rater ceiling, per phenomenon, on items chosen in advance
     rather than picked after the fact. A correlation with one rater per
     language does not settle it."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-355: the question says it holds "promotion condition formerly on THEORY-1120" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - translation
 - pragmatics
@@ -45,6 +52,8 @@ summary: >-
   against which to read 0.81, and the claim that metrics fail "especially
   for implicature and deixis" rests on per-phenomenon differences of 0.1
   or less.
+bears_on:
+- QUESTION-355
 ---
 
 # THEORY-1120: On 416 translations into English by four LLMs of 104 culturally loaded utterances in Hindi, Punjabi, Tamil and Malayalam, each scored for pragmatic adequacy by one native rater per language, the reference-based COMET metric correlates with the ratings at Pearson r = 0.813 and Spearman ρ = 0.860, against r 0.80 and ρ 0.79 for XCOMET and r 0.73 and ρ 0.79 for MetricX, with no test of the differences; four outputs picked after the fact that invert or misplace the source's meaning get COMET scores of 0.65–0.86 against the rater's 1 or 2

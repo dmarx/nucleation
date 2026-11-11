@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbnint
 title: 'In Friedkin''s simulations of reflected appraisal with Friedkin–Johnsen anchoring on initial positions, 99.0–100% of 100,000 random strongly connected networks of 5 to 25 members, complete or with random zero weights, evolve to a single leader and the rest to two'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-29'
@@ -48,6 +48,13 @@ history:
     by others that reproduces the contrast with the DeGroot–Friedkin map
     on the same networks. A larger simulation by this record would not
     settle it."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-348 added. QUESTION-348: "Under the Friedkin-Johnsen
+    step the same appraisal rule goes to autocracy instead (THEORY-1161), so
+    which single-issue step real groups follow matters to the answer."
+    Reading review of 2026-11-11, by question. No other change.
 tags:
 - network-science
 - complex-systems
@@ -62,6 +69,8 @@ summary: >-
   random networks. Re-runs on sparser networks gave 93% and 96%. The
   contrast with the DeGroot step, and which step real groups follow, are
   not this reading's: the first is [THEORY-1232](THEORY-1232.md).
+bears_on:
+- QUESTION-348
 ---
 <!-- inactive-ok-file: THEORY-1232 — Proposed; filed beside this reading by the twenty-fourth status review: the comparison of the two single-issue steps -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; the companion account, cited as open and not leaned on -->

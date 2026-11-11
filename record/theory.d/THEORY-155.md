@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp0w0cu
 title: 'Iterated learning by Bayesian agents who sample from the posterior converges, in an ergodic chain, to the shared prior'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -21,6 +21,13 @@ history:
     reads Eqs. 25–36. Convergence to it needs the chain to be ergodic,
     which the body stated and the title now does. The claim is otherwise
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-137: the question says it holds "condition formerly on THEORY-155" (ADR-065), so the reading
+    is its premise (ADR-060). The relation was never written when the
+    condition moved; sweep of 2026-11-11, from the reading review by
+    question. No other change.
 tags:
 - linguistics
 - probabilistic-modeling
@@ -42,6 +49,8 @@ summary: >-
   chains do is [QUESTION-137](../questions.d/QUESTION-137.md).
 corroborates:
 - CLAIM-049
+bears_on:
+- QUESTION-137
 ---
 
 <!-- inactive-ok-file: NOTE-596 — Skimmed; cited for what Kirby, Cornish & Smith's chains do and do not test, not leaned on -->

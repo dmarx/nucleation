@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4trgp
 title: "For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -31,6 +31,13 @@ history:
     The narrowing-loss sweep (batch 072, ADR-047 v4) filed THEORY-817,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-191: the question says it holds "promotion condition formerly on THEORY-026" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - information-theory
 - thermodynamics
@@ -51,6 +58,8 @@ summary: >-
   predictive, max-entropy-action and efficient agents are disjoint. The
   claim is an ensemble average, not a per-operation floor. Whether the
   bound fails without the two conditions is [QUESTION-191](../questions.d/QUESTION-191.md).
+bears_on:
+- QUESTION-191
 ---
 <!-- inactive-ok-file: THEORY-817 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqvlyg
 title: "When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by the authors' reading of its curves, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -14,6 +14,13 @@ history:
     held to it. "Held freshness near the threshold" becomes the authors' own
     reading of their curves, since the paper gives no data table for it. The
     promote_when, which the title disclaims, moves to QUESTION-194.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-194: the question says it holds "promotion condition formerly on THEORY-382" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 - operations-research
@@ -33,6 +40,7 @@ summary: >-
   user-set threshold, not a price, and switching and storage are free.
 bears_on:
 - QUESTION-114
+- QUESTION-194
 ---
 
 # THEORY-382: When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by the authors' reading of its curves, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown

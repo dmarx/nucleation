@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpvt6wb
 title: 'Six units with uniform coupling, A = αI + β(11ᵀ − I): their sum is exactly dynamically independent at every coupling tried, while a single unit and the sum of three are not, and no grouping of the units is a weakly coupled block'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-218: its text says it is "the system QUESTION-218
+    would test". Reading review of 2026-11-11, by question. No other
+    change.
 standing: fictional
 kind: construction
 tags:
@@ -20,6 +27,8 @@ summary: >-
   proper group of units is a block. It is the closure-without-block cell
   of A5's two-by-two table, and the system [QUESTION-218](../questions.d/QUESTION-218.md) would test
   for compensation and entrainment. Fictional by construction.
+bears_on:
+- QUESTION-218
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # CASE-120: Six units with uniform coupling, A = αI + β(11ᵀ − I): their sum is exactly dynamically independent at every coupling tried, while a single unit and the sum of three are not, and no grouping of the units is a weakly coupled block

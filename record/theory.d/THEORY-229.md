@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbaoyn
 title: "For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from a small initialization of common scale aligned with the top eigenvectors of the pairs' symmetrized cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -26,6 +26,15 @@ history:
     what the narrowing dropped: the stepwise order from generic small
     initialization, which the paper derives informally (Result 4.6).
     This entry's status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-175 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "From a
+    generic small initialization, Simon et al. give only an informal
+    derivation that the flow follows the aligned trajectory (Result
+    4.6). That is QUESTION-175." The aligned case is the question's
+    premise. No other change.
 tags:
 - representation-learning
 - learning-theory
@@ -45,6 +54,7 @@ summary: >-
   not a consequence.
 bears_on:
 - QUESTION-039
+- QUESTION-175
 ---
 <!-- inactive-ok-file: THEORY-793 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-186 — Proposed or Open, or Active and cited for context; this account rests on none of them -->

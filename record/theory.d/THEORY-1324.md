@@ -19,7 +19,18 @@ promote_when: >-
   More pattern-fitting meta-analyses, or studies without the
   feedback-matched no-reward control, cannot settle it.
 title: 'In Ryan, Mims and Koestner''s experiment, the same expected reward for doing well left less later free-choice engagement when given with controlling feedback than with informational feedback, and in both styles less than no reward with the same feedback: the interpersonal style of a performance-contingent reward changes its effect, and the reward lowers intrinsic motivation even when the information it carries is held fixed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-066,
+    whose answer condition asks for "the same reward under controlling and
+    informational framing" with later engagement and reported interest
+    both measured. This experiment gives the same expected reward with
+    controlling and with informational feedback, and NOTE-1522 reads its
+    free-choice period, with initial interest as covariate, as approaching
+    the question's "valuation held fixed". No other change.
 tags:
 - motivation
 - learning-and-conditioning
@@ -34,6 +45,8 @@ summary: >-
   recomputed from the cell means without the covariate, about 4.9 and 3.4
   (p ≈ .07). Felt pressure was higher under controlling conditions;
   mediation was not tested. Proposed for replication and mediation.
+bears_on:
+- QUESTION-066
 ---
 <!-- inactive-ok-file: THEORY-049 THEORY-154 — Proposed; the account this result is evidence for, and its rival -->
 

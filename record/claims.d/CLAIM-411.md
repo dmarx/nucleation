@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp1lvwf
 title: 'Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight''s apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -39,6 +39,17 @@ history:
     organization independent of report. Its target CLAIM-412 was filed
     conceding it, and now says so in a note filed with its concessions.
     The claim is unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-254 (reading review of 2026-11-11, by question).
+    Its own title: "interpretation alone does not establish experience,
+    and the thesis must say which further organizational properties, if
+    any, make an interpretation experiential", the premise the question
+    starts from ("CLAIM-411 shows that interpretation alone does not
+    qualify. The question asks for the condition that does"). Under
+    ADR-085 the relation gives this claim QUESTION-254's first line,
+    evidence-for-experience, which it already carries. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -72,6 +83,8 @@ summary: >-
   question [QUESTION-254](../questions.d/QUESTION-254.md) asks.
 complements:
 - CLAIM-439
+bears_on:
+- QUESTION-254
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-577 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 # CLAIM-411: Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential

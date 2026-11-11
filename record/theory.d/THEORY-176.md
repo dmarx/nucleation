@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpn16i4
 title: 'A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell''s order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -17,6 +17,13 @@ history:
     shows it with a constructed example, inside the paper's own map class. The
     promote_when asked for the possibility measured in trained networks, which
     the title does not claim. It moves, unchanged, to QUESTION-163.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-163: the question says it holds "promotion condition formerly on THEORY-176" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - mathematical-statistics
@@ -36,6 +43,8 @@ summary: >-
   the paper intends, and it meets Blackwell's order only where the fitted
   map reproduces the replaced layers exactly. The relations are this
   record's derivations from the paper's definitions, not the paper's.
+bears_on:
+- QUESTION-163
 ---
 
 # THEORY-176: A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced

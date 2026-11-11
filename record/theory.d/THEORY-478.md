@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpa223w
 title: "If the diffusion densities' Hellinger distances obey a Hölder bound with exponent θ in d_T / t^(1/β) and are bounded below once d_T exceeds a multiple of t^(1/β), then for 0 < α < θ/β summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance two-sided equivalent, up to constants, to min{1, d_T^(αβ)} for pairs above the finest scale: it keeps the tree's neighbourhoods and not its global distances; whether a tree's heat kernel, or sampled data, meets the bounds, and with which θ, is not shown"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,13 @@ history:
     is in the dated note below. The promote_when, the tree heat-kernel
     bounds and the bridge from sampled data, moves unchanged to
     QUESTION-160.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-160: the question says it holds "promotion condition formerly on THEORY-478" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - mathematics
@@ -37,6 +44,7 @@ summary: >-
   does far worse.
 bears_on:
 - QUESTION-025
+- QUESTION-160
 ---
 <!-- inactive-ok-file: CLAIM-119 THEORY-196 — Proposed; the lattice claim and the tree-embedding account set beside this one, not leaned on -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpka1qg
 title: 'In Ganea et al.''s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones read through the chart at the origin, so a stack of them without biases is a Euclidean network conjugated by that chart, and the curvature acts only through the bias translations and the distance-based output layer'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -16,6 +16,13 @@ history:
     The promote_when asked for an ablation tying the networks' gains to the
     two operations, which the title does not claim and the body disclaims. It
     moves, unchanged, to QUESTION-162.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-162: the question says it holds "promotion condition formerly on THEORY-566" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - mathematics
@@ -34,6 +41,8 @@ summary: >-
   confined to a synthetic task and to separating WordNet subtrees in
   low-dimensional Poincaré embeddings, come from those two operations is
   this record's inference. [NOTE-686](../notes.d/NOTE-686.md) filed no THEORY.
+bears_on:
+- QUESTION-162
 ---
 
 # THEORY-566: In Ganea et al.'s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones read through the chart at the origin, so a stack of them without biases is a Euclidean network conjugated by that chart, and the curvature acts only through the bias translations and the distance-based output layer

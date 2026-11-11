@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpdjsgt
 title: 'In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from about 2 to about 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-20'
@@ -50,6 +50,13 @@ history:
     chosen by a rule fixed before scoring asks more than the title
     asserts, which already concedes the trial-and-error selection, and
     moves to QUESTION-341.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-341: the question says it holds "promotion condition formerly on THEORY-818" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - probabilistic-modeling
 - complex-systems
@@ -68,6 +75,7 @@ summary: >-
   prediction error [QUESTION-222](../questions.d/QUESTION-222.md) asks for.
 bears_on:
 - QUESTION-222
+- QUESTION-341
 ---
 <!-- inactive-ok-file: THEORY-747 — Proposed; the analogous empirical account from the turbulence reading -->
 

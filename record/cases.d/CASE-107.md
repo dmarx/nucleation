@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpxgcq2
 title: 'Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-048: its text says "Command-following, the usual
+    marker, marks access, not experience", under QUESTION-048's standing
+    point. Reading review of 2026-11-11, by question. Under ADR-085 it
+    takes evidence-for-experience. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -12,7 +20,9 @@ tags:
 - neuroscience
 - cognition
 date: '2026-10-16'
-line: distributed-agency
+line:
+- distributed-agency
+- evidence-for-experience
 summary: >-
   The owner's case, U2 of the exchange of 2026-10-16: "a lucid human who
   struggles with locked-in syndrome". It separates lucid judgement from
@@ -32,6 +42,8 @@ reported_in:
 - NOTE-948
 - NOTE-951
 - NOTE-961
+bears_on:
+- QUESTION-048
 ---
 
 # CASE-107: Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqkyte
 title: 'In ten southern Costa Rican pasture sites where weeding stopped after 2.5 years, planting six tree islands (86 trees per 0.25 ha) or a full plantation (313) still raised later-successional seedling and sapling recruitment and reduced among-site compositional variability relative to natural regeneration after 16–18 years, yet in every treatment the tree layer remained dominated by a few pioneers and the planted cohort, whose own seedlings seldom reached the sapling layer'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -30,6 +30,13 @@ history:
   note: >-
     CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-411: the question says it holds "promotion condition formerly on THEORY-1488" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - ecology
 date: '2026-11-05'
@@ -46,6 +53,8 @@ summary: >-
   intensity confounded with treatment, and the supporting tables unread.
 corroborates:
 - CLAIM-600
+bears_on:
+- QUESTION-411
 ---
 <!-- inactive-ok-file: LIT-2145 — Unavailable; cited from the reading of Schubert et al. (2024) as open -->
 

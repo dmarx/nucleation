@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpf8c2p
 title: "In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -26,6 +26,13 @@ history:
     standard implementation or larger networks, asks for generality the
     title does not claim, and the author asks for it rather than asserting
     it; it moves to QUESTION-338.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-338: the question says it holds "promotion condition formerly on THEORY-342" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - learning-theory
 - anthology-candidate
@@ -45,6 +52,7 @@ summary: >-
   rate, not an amortization.
 bears_on:
 - QUESTION-095
+- QUESTION-338
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpragh3
 title: 'Orseau, McGill and Legg cast whether an identified system is an agent or a device as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so that the verdict is relative to the observer''s prior; on seven toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and they argue that under a speed prior everything may look like an agent'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -37,6 +37,14 @@ history:
     accidentally optimal devices come out as agents where an
     interventional test says they are not. Further toy trajectories, or
     the formalism's coherence, cannot settle it."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-228 added. QUESTION-228 asks whether Kenton et al.'s
+    procedure separates an accidentally optimal system from an agent "where
+    a compression test (THEORY-624) does not": this entry is that
+    comparison's other term. Reading review of 2026-11-11, by question. No
+    other change.
 tags:
 - agency
 - model-comparison
@@ -53,6 +61,7 @@ summary: >-
   like an agent.
 bears_on:
 - QUESTION-032
+- QUESTION-228
 ---
 <!-- inactive-ok-file: THEORY-1236 — Proposed; filed beside this reading by the twenty-fourth status review: the relative definition of agency the paper proposes -->
 <!-- inactive-ok-file: CLAIM-168 CLAIM-174 THEORY-036 THEORY-249 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->

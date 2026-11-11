@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmph9339
 title: "In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -18,6 +18,13 @@ history:
     50-value cache, since with a cache of 20 it mostly disappears. The
     convergence proof or independent trace study the promote_when asked
     for moves to QUESTION-227.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-227: the question says it holds "promotion condition formerly on THEORY-377" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 - operations-research
@@ -39,6 +46,7 @@ summary: >-
   is no worst-case guarantee.
 bears_on:
 - QUESTION-114
+- QUESTION-227
 ---
 
 # THEORY-377: In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved

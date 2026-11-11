@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp2cza3
 title: 'Giving every member an equal budget of actions does not equalize their influence: coordination is one route, letting a member''s plan direct other members'' actions, so a cap on self-allocation constrains action and not authority'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -30,6 +30,16 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-306 added. The body: "Litherland and Mørch
+    (THEORY-218) show from the forums that a few central members admitted or
+    refused additions to a design that placers then carried out. That is the
+    mechanism, observed, though not its size"; QUESTION-306 asks for that
+    across many artworks. Its first line, distributed-agency, is already
+    this claim's (ADR-085). Reading review of 2026-11-11, by question. No
+    other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -62,6 +72,8 @@ summary: >-
   budget, but did not give participants equal *effective* influence." It
   qualifies [CLAIM-285](CLAIM-285.md): the budget constrains moves, and conferral
   moves authority. It does not say the inequality is illegitimate.
+bears_on:
+- QUESTION-306
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
