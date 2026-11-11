@@ -1,5 +1,8 @@
 ---
+number: 68
 status: Proposed
+formerly:
+- SYNTHESIS-tmpq17fb
 title: 'A communicative kind is a repeatable relational organization that distinct events realize, proposed as partly constituted by relations to roles, norms and expected uptake and recognized through probes that fix it only relative to the family used: identification underdetermines constitution, a character or other invariant classifies kinds only up to isomorphism and only once a symmetry is anchored on the situation, competent uptake is offered as a defeasible standard against which probe families are tested, sharing a kind is neither transport nor descent, and the constitution claim stays open against intention-based accounts, the change of audience a translation makes, and the individuation of tokens'
 version: 1
 defeated_if: >-
@@ -102,7 +105,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; cited as history -->
 <!-- inactive-ok-file: QUESTION-245 QUESTION-272 QUESTION-296 — Answered; cited with its standing -->
 
-# SYNTHESIS-tmpq17fb: A communicative kind is a repeatable relational organization that distinct events realize, proposed as partly constituted by relations to roles, norms and expected uptake and recognized through probes that fix it only relative to the family used: identification underdetermines constitution, a character or other invariant classifies kinds only up to isomorphism and only once a symmetry is anchored on the situation, competent uptake is offered as a defeasible standard against which probe families are tested, sharing a kind is neither transport nor descent, and the constitution claim stays open against intention-based accounts, the change of audience a translation makes, and the individuation of tokens
+# SYNTHESIS-068: A communicative kind is a repeatable relational organization that distinct events realize, proposed as partly constituted by relations to roles, norms and expected uptake and recognized through probes that fix it only relative to the family used: identification underdetermines constitution, a character or other invariant classifies kinds only up to isomorphism and only once a symmetry is anchored on the situation, competent uptake is offered as a defeasible standard against which probe families are tested, sharing a kind is neither transport nor descent, and the constitution claim stays open against intention-based accounts, the change of audience a translation makes, and the individuation of tokens
 
 *A part account of the pragmatic-transport line ("Contextual pragmatic
 information transport"): the part on communicative kinds and the identity

@@ -1,5 +1,8 @@
 ---
+number: 61
 status: Proposed
+formerly:
+- SYNTHESIS-tmp7t3cw
 title: 'Conditional generation is a case for the pragmatic-transport theory and not a realization of it: adding scores composes two conditions exactly when a likelihood ratio does not vary with the noisy state, benchmarks show conjunctions and spatial and attribute bindings failing where single conditions are met, no benchmark the record has read measures the stance or uptake an image conveys, and what explains a given relational failure, and whether the path of a reconstruction is informative, are open'
 version: 1
 defeated_if: >-
@@ -30,7 +33,7 @@ integrates:
 <!-- inactive-ok-file: ADR-075 CLAIM-001 CLAIM-007 CLAIM-013 CLAIM-029 CLAIM-114 THEORY-250 — Proposed; components and citations, open, with their standing given in the text -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; cited as the history of the theses and claims they were replaced by -->
 
-# SYNTHESIS-tmp7t3cw: Conditional generation is a case for the pragmatic-transport theory and not a realization of it: adding scores composes two conditions exactly when a likelihood ratio does not vary with the noisy state, benchmarks show conjunctions and spatial and attribute bindings failing where single conditions are met, no benchmark the record has read measures the stance or uptake an image conveys, and what explains a given relational failure, and whether the path of a reconstruction is informative, are open
+# SYNTHESIS-061: Conditional generation is a case for the pragmatic-transport theory and not a realization of it: adding scores composes two conditions exactly when a likelihood ratio does not vary with the noisy state, benchmarks show conjunctions and spatial and attribute bindings failing where single conditions are met, no benchmark the record has read measures the stance or uptake an image conveys, and what explains a given relational failure, and whether the path of a reconstruction is informative, are open
 
 *A part account of the pragmatic-transport line: the part on conditional
 generation, mostly text-to-image diffusion, as a case for the theory. The

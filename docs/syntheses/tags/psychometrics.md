@@ -6,8 +6,9 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-0 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 70 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-058](../../../record/syntheses.d/SYNTHESIS-058.md) | Keeping the proposition does not keep the act: renderings that keep it can perform a different act, a rendering judged to keep the act while changing the proposition has one documented case, which a coarser proposition answers, understanding and the situation of saying are offered as what a rendering must also keep, and none of it is yet measured, since no measure of footing or stance is validated, the exchange's chains and harness gave no result, and the tests pool unnamed judges | A part account of the pragmatic-transport line: the entries on renderings that keep the proposition and change the act, footing and stance, with the record's audit of how those theses could be measured. The line's account is built over it and its sibling parts. The structuralist entries the same mechanical part held (Saussure's value and its use-level counterpart) barely relate to these, one pair against sixty-two, and have their own part account. The account adds nothing of its own; its standing is its components'. | Proposed |
+| [SYNTHESIS-070](../../../record/syntheses.d/SYNTHESIS-070.md) | What the pragmatic-transport line adds is placed, after conceded prior art, in a testable account of which communicative distinctions a translation keeps for stated receivers and tasks; the central defeat test as first stated could not tell that account from rivals that hold the pragmatic point and let predictor and criterion share a method, so the theses were restated against one discriminating study that has not been run, and a win there over a static pragmatic profile is now held not to tell the line from functional and relevance-theoretic accounts, which leaves a strong contextual baseline and prediction under an unobserved composition as the harder tests |  | Proposed |

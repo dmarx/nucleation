@@ -1,5 +1,8 @@
 ---
+number: 62
 status: Proposed
+formerly:
+- SYNTHESIS-tmpa2362
 title: 'A frame acts on an interpreter, and an interpreter''s judgements act back on what it observes: order dependence among framing operations shows that the operations do not commute, not that the probability is nonclassical; conditioning on a situation, changing it, telling an interpreter about it and eliciting a judgement are different operations, and only changing the situation intervenes on what would constitute an act; a judgement reshapes the observer whose later observations it judges, objected to as action relocated and as a loop that confirms itself, and what keeps that loop honest is evidence that does not pass through the interpretation it tests, a condition the record carries over to when a category''s success warrants a kind, beside an account of how a contested label can be reproduced by rival use while whether it carries one concept stays open'
 version: 1
 defeated_if: >-
@@ -71,7 +74,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-296 — Answered; a component, the part of QUESTION-030 that CLAIM-130 settles -->
 <!-- inactive-ok-file: CLAIM-111 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpa2362: A frame acts on an interpreter, and an interpreter's judgements act back on what it observes: order dependence among framing operations shows that the operations do not commute, not that the probability is nonclassical; conditioning on a situation, changing it, telling an interpreter about it and eliciting a judgement are different operations, and only changing the situation intervenes on what would constitute an act; a judgement reshapes the observer whose later observations it judges, objected to as action relocated and as a loop that confirms itself, and what keeps that loop honest is evidence that does not pass through the interpretation it tests, a condition the record carries over to when a category's success warrants a kind, beside an account of how a contested label can be reproduced by rival use while whether it carries one concept stays open
+# SYNTHESIS-062: A frame acts on an interpreter, and an interpreter's judgements act back on what it observes: order dependence among framing operations shows that the operations do not commute, not that the probability is nonclassical; conditioning on a situation, changing it, telling an interpreter about it and eliciting a judgement are different operations, and only changing the situation intervenes on what would constitute an act; a judgement reshapes the observer whose later observations it judges, objected to as action relocated and as a loop that confirms itself, and what keeps that loop honest is evidence that does not pass through the interpretation it tests, a condition the record carries over to when a category's success warrants a kind, beside an account of how a contested label can be reproduced by rival use while whether it carries one concept stays open
 
 *A part account of the pragmatic-transport line. The line's account is
 built over it and its sibling parts. The part holds three groups, joined

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**905 documents cited without acknowledgement.** Not listed: 20870 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**905 documents cited without acknowledgement.** Not listed: 22626 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1364,7 +1364,7 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 
 A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again
 
-64 citations in 43 files await a look; 30 other citations of it are acknowledged.
+64 citations in 43 files await a look; 32 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-055.md:19`](../../record/arguments.d/ARG-055.md)
 - [`record/arguments.d/ARG-058.md:20`](../../record/arguments.d/ARG-058.md)
@@ -1737,7 +1737,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force
 
-38 citations in 13 files await a look; 36 other citations of it are acknowledged.
+38 citations in 13 files await a look; 84 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-019.md:12`](../../record/arguments.d/ARG-019.md)
 - [`record/arguments.d/ARG-019.md:13`](../../record/arguments.d/ARG-019.md)
@@ -1957,7 +1957,7 @@ Beyond what it does operationally, luria is an apparatus in Barad's constitutive
 
 A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 
-32 citations in 11 files await a look; 114 other citations of it are acknowledged.
+32 citations in 11 files await a look; 132 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
@@ -2071,7 +2071,7 @@ Under a deadline, search can establish presence by finding one item but absence 
 
 Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward
 
-28 citations in 18 files await a look; 8 other citations of it are acknowledged.
+28 citations in 18 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:123`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-338.md:73`](../../record/claims.d/CLAIM-338.md)
@@ -2320,7 +2320,7 @@ Convergence of representations, in the Platonic hypothesis's sense, is convergen
 
 The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency
 
-20 citations in 13 files await a look; 20 other citations of it are acknowledged.
+20 citations in 13 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-018.md:60`](../../record/cases.d/CASE-018.md)
 - [`record/cases.d/CASE-031.md:50`](../../record/cases.d/CASE-031.md)
@@ -2629,7 +2629,7 @@ An interaction can make available a way of relating that its participants' opera
 
 Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 
-17 citations in 17 files await a look; 58 other citations of it are acknowledged.
+17 citations in 17 files await a look; 67 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-405.md:189`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-471.md:24`](../../record/claims.d/CLAIM-471.md)
@@ -2653,7 +2653,7 @@ Relata stand to relations as realizations stand to specifications: what an entit
 
 A system's budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence
 
-17 citations in 4 files await a look; 3 other citations of it are acknowledged.
+17 citations in 4 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-042.md:85`](../../record/syntheses.d/SYNTHESIS-042.md)
 - [`record/syntheses.d/SYNTHESIS-042.md:323`](../../record/syntheses.d/SYNTHESIS-042.md)
@@ -2931,7 +2931,7 @@ Processes conditioned never to object coordinate without override at the same be
 
 A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
 
-15 citations in 14 files await a look; 88 other citations of it are acknowledged.
+15 citations in 14 files await a look; 89 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -2953,7 +2953,7 @@ A protective regime, in a person, an institution or a system of states, becomes 
 
 In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
 
-15 citations in 5 files await a look; 20 other citations of it are acknowledged.
+15 citations in 5 files await a look; 24 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-082.md:30`](../../record/claims.d/CLAIM-082.md)
 - [`record/claims.d/CLAIM-082.md:111`](../../record/claims.d/CLAIM-082.md)
@@ -3039,7 +3039,7 @@ Affective states can be properties of organized systems, characterized functiona
 
 Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved
 
-14 citations in 6 files await a look; 67 other citations of it are acknowledged.
+14 citations in 6 files await a look; 99 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:93`](../../record/claims.d/CLAIM-187.md)
 - [`record/claims.d/CLAIM-187.md:123`](../../record/claims.d/CLAIM-187.md)
@@ -3165,7 +3165,7 @@ Emotion categories are populations of variable instances grouped by the perceive
 
 A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part
 
-13 citations in 3 files await a look; 41 other citations of it are acknowledged.
+13 citations in 3 files await a look; 69 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-139.md:29`](../../record/claims.d/CLAIM-139.md)
 - [`record/claims.d/CLAIM-139.md:33`](../../record/claims.d/CLAIM-139.md)
@@ -3363,7 +3363,7 @@ A candidate factor is an agent at a level when it is one system there, when a go
 
 Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation
 
-12 citations in 8 files await a look; 24 other citations of it are acknowledged.
+12 citations in 8 files await a look; 25 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:17`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:28`](../syntheses/role/thesis.md)
@@ -3477,7 +3477,7 @@ When an organized individual persists through changes of state and mode, in the 
 
 The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
-12 citations in 7 files await a look; 4 other citations of it are acknowledged.
+12 citations in 7 files await a look; 6 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:23`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:22`](../syntheses/role/thesis.md)
@@ -3515,7 +3515,7 @@ A collective emotion is the synchronous convergence of individuals' affective re
 
 Saussure's value, as the record reads it, supports transport of relational identity across languages
 
-11 citations in 6 files await a look; 8 other citations of it are acknowledged.
+11 citations in 6 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-034.md:66`](../../record/arguments.d/ARG-034.md)
 - [`record/claims.d/CLAIM-082.md:19`](../../record/claims.d/CLAIM-082.md)
@@ -3533,7 +3533,7 @@ Saussure's value, as the record reads it, supports transport of relational ident
 
 The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out
 
-11 citations in 8 files await a look; 15 other citations of it are acknowledged.
+11 citations in 8 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-056.md:44`](../../record/cases.d/CASE-056.md)
 - [`record/claims.d/CLAIM-061.md:14`](../../record/claims.d/CLAIM-061.md)
@@ -3677,7 +3677,7 @@ organizational achievement, of a specified target: its attainment or maintenance
 
 concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies
 
-11 citations in 5 files await a look; 47 other citations of it are acknowledged.
+11 citations in 5 files await a look; 49 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-515.md:83`](../../record/claims.d/CLAIM-515.md)
 - [`record/literature.d/LIT-2243.md:25`](../../record/literature.d/LIT-2243.md)
@@ -3730,7 +3730,7 @@ Nothing here is new but a question: planning theory, control theory, executive c
 
 The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts
 
-10 citations in 8 files await a look; 4 other citations of it are acknowledged.
+10 citations in 8 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-037.md:37`](../../record/claims.d/CLAIM-037.md)
 - [`record/claims.d/CLAIM-037.md:133`](../../record/claims.d/CLAIM-037.md)
@@ -3764,7 +3764,7 @@ A manuscript should be a view over the argument and not its only copy: a draft w
 
 The record's iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain
 
-10 citations in 6 files await a look; 6 other citations of it are acknowledged.
+10 citations in 6 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-068.md:36`](../../record/cases.d/CASE-068.md)
 - [`record/cases.d/CASE-068.md:117`](../../record/cases.d/CASE-068.md)
@@ -4002,7 +4002,7 @@ A far-from-equilibrium system that contributes to its own maintenance has functi
 
 Kirby, Cornish and Smith show structure emerging under transmission with an experimenter's filter, not filtering by measured inductive biases, and Griffiths and Kalish's convergence to the prior holds only for sampling learners
 
-9 citations in 6 files await a look; 10 other citations of it are acknowledged.
+9 citations in 6 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-068.md:85`](../../record/claims.d/CLAIM-068.md)
 - [`record/claims.d/CLAIM-090.md:44`](../../record/claims.d/CLAIM-090.md)
@@ -4018,7 +4018,7 @@ Kirby, Cornish and Smith show structure emerging under transmission with an expe
 
 Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition
 
-9 citations in 4 files await a look; 19 other citations of it are acknowledged.
+9 citations in 4 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-082.md:12`](../../record/claims.d/CLAIM-082.md)
 - [`record/claims.d/CLAIM-082.md:50`](../../record/claims.d/CLAIM-082.md)
@@ -4034,7 +4034,7 @@ Saussure says purely differential only of signifier and signified taken apart; t
 
 Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context
 
-9 citations in 4 files await a look; 41 other citations of it are acknowledged.
+9 citations in 4 files await a look; 57 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-341.md:95`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:187`](../../record/claims.d/CLAIM-341.md)
@@ -4066,7 +4066,7 @@ A lower-level collective within the composite person, such as the gut microbiome
 
 A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
 
-9 citations in 7 files await a look; 23 other citations of it are acknowledged.
+9 citations in 7 files await a look; 29 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-142.md:22`](../../record/claims.d/CLAIM-142.md)
 - [`record/claims.d/CLAIM-142.md:23`](../../record/claims.d/CLAIM-142.md)
@@ -4082,7 +4082,7 @@ A linear probe family can tell apart only realizations whose representations dif
 
 A holistic fidelity judgement is fidelity under the judges' default task, a weighting of the profile's components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test, and across populations with unequal access to the source must fit the weighting only on the components each can perceive
 
-9 citations in 2 files await a look; 8 other citations of it are acknowledged.
+9 citations in 2 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-458.md:17`](../../record/claims.d/CLAIM-458.md)
 - [`record/claims.d/CLAIM-458.md:37`](../../record/claims.d/CLAIM-458.md)
@@ -4306,7 +4306,7 @@ Morality is the set of solutions to recurrent problems of cooperation, so each o
 
 What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 
-8 citations in 6 files await a look; 173 other citations of it are acknowledged.
+8 citations in 6 files await a look; 189 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-169.md:131`](../../record/cases.d/CASE-169.md)
 - [`record/claims.d/CLAIM-363.md:77`](../../record/claims.d/CLAIM-363.md)
@@ -4321,7 +4321,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity
 
-8 citations in 8 files await a look; 56 other citations of it are acknowledged.
+8 citations in 8 files await a look; 71 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
@@ -4351,7 +4351,7 @@ Generated views of the record, fed back into the exchange, become instruments of
 
 Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 
-8 citations in 6 files await a look; 19 other citations of it are acknowledged.
+8 citations in 6 files await a look; 22 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:15`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:25`](../syntheses/role/thesis.md)
@@ -4381,7 +4381,7 @@ A collective's reasons need not be any of its members' reasons, so aggregating m
 
 A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged
 
-8 citations in 5 files await a look; 18 other citations of it are acknowledged.
+8 citations in 5 files await a look; 29 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-199.md:183`](../../record/claims.d/CLAIM-199.md)
 - [`record/claims.d/CLAIM-315.md:35`](../../record/claims.d/CLAIM-315.md)
@@ -4396,7 +4396,7 @@ A frame can change a judgement by changing which of an interpreter's stored dist
 
 The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
-8 citations in 8 files await a look; 56 other citations of it are acknowledged.
+8 citations in 8 files await a look; 82 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:17`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:16`](../syntheses/role/thesis.md)
@@ -4576,7 +4576,7 @@ Pereboom — Living without Free Will
 
 Is the communicative object a presheaf over contexts?
 
-8 citations in 3 files await a look.
+8 citations in 3 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-038.md:28`](../../record/claims.d/CLAIM-038.md)
 - [`record/questions.d/QUESTION-055.md:36`](../../record/questions.d/QUESTION-055.md)
@@ -4591,7 +4591,7 @@ Is the communicative object a presheaf over contexts?
 
 Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy
 
-8 citations in 5 files await a look; 5 other citations of it are acknowledged.
+8 citations in 5 files await a look; 7 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:17`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:16`](../syntheses/role/thesis.md)
@@ -4726,7 +4726,7 @@ Politics is more prone than markets to increasing returns, and so to path depend
 
 Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
 
-7 citations in 3 files await a look; 9 other citations of it are acknowledged.
+7 citations in 3 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:120`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:156`](../../record/decisions.d/ADR-040.md)
@@ -4740,7 +4740,7 @@ Ambiguity and contextuality are different phenomena: an ambiguous utterance admi
 
 Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics
 
-7 citations in 3 files await a look; 14 other citations of it are acknowledged.
+7 citations in 3 files await a look; 38 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-056.md:28`](../../record/claims.d/CLAIM-056.md)
 - [`record/decisions.d/ADR-040.md:202`](../../record/decisions.d/ADR-040.md)
@@ -4824,7 +4824,7 @@ A person's roles in contexts that do not meet cannot contradict one another: rol
 
 The use-level counterpart of Saussure's value is an utterance's contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value
 
-7 citations in 4 files await a look; 14 other citations of it are acknowledged.
+7 citations in 4 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-082.md:19`](../../record/claims.d/CLAIM-082.md)
 - [`record/claims.d/CLAIM-106.md:21`](../../record/claims.d/CLAIM-106.md)
@@ -4838,7 +4838,7 @@ The use-level counterpart of Saussure's value is an utterance's contrast with th
 
 In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured
 
-7 citations in 7 files await a look; 6 other citations of it are acknowledged.
+7 citations in 7 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-298.md:132`](../../record/claims.d/CLAIM-298.md)
 - [`record/literature.d/LIT-1064.md:21`](../../record/literature.d/LIT-1064.md)
@@ -5198,7 +5198,7 @@ On Ainslie's account the population of interests is produced by desynchronized v
 
 Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison
 
-6 citations in 3 files await a look; 9 other citations of it are acknowledged.
+6 citations in 3 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-039.md:41`](../../record/decisions.d/ADR-039.md)
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
@@ -5211,7 +5211,7 @@ Whether two systems compute the same way can be tested by quotienting the full a
 
 Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell's order compares a rendering with its source as evidence about the source's situation, which both readers decide about, while a rendering that re-performs the act in the target's situation is compared only through a correspondence of situations
 
-6 citations in 1 file await a look; 14 other citations of it are acknowledged.
+6 citations in 1 file await a look; 31 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-461.md:23`](../../record/claims.d/CLAIM-461.md)
 - [`record/claims.d/CLAIM-461.md:37`](../../record/claims.d/CLAIM-461.md)
@@ -5250,7 +5250,7 @@ Ordinary and legal attributions of agency to an artifact cannot serve as the ind
 
 Model-based wanting is a pursuit process's ranking of the futures it predicts under candidate interventions, P(S | do(a)) against P(S | do(a₀)), while cue-triggered wanting is learned salience that need not compute those futures; a process's causal model, its wanting and its practical efficacy are separable, so learning to want differently, learning that a want will not pay, and learning not to act on it are three different changes
 
-6 citations in 5 files await a look; 11 other citations of it are acknowledged.
+6 citations in 5 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-437.md:149`](../../record/claims.d/CLAIM-437.md)
 - [`record/claims.d/CLAIM-519.md:135`](../../record/claims.d/CLAIM-519.md)
@@ -5276,7 +5276,7 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 
 An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
 
-6 citations in 6 files await a look; 52 other citations of it are acknowledged.
+6 citations in 6 files await a look; 53 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
@@ -5484,7 +5484,7 @@ Structural frustration of a set of demands forces, under every attainable arrang
 
 When a learned distinction becomes a concept is open, and a candidate term holds the record's working answer: a concept is a reusable, consequential pattern of distinctions, distinct from what carries it, what realizes it, what it is about and its corrigibility; the owner's question whether concepts individuate runs against the term's clause that a concept is not a thing; and Proposed claims that rival uses can keep an expression circulating without one concept, and that concepts are individuated by transmission, bear on it, with a proposed study to tell agreement in a concept from agreement in how it is revised
 
-6 citations in 2 files await a look; 2 other citations of it are acknowledged.
+6 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-030.md:92`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-030.md:110`](../../record/syntheses.d/SYNTHESIS-030.md)
@@ -5756,7 +5756,7 @@ A TERM says what job its definition does (disambiguation, construct, criterion o
 
 A constant kernel fits any one source–target pair, so one pair does not identify the procedure-level fidelity score
 
-5 citations in 2 files await a look.
+5 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-200.md:14`](../../record/claims.d/CLAIM-200.md)
 - [`record/claims.d/CLAIM-200.md:93`](../../record/claims.d/CLAIM-200.md)
@@ -5768,7 +5768,7 @@ A constant kernel fits any one source–target pair, so one pair does not identi
 
 Saussure's account of value grounds the premise that significance is fixed by contrasts rather than by correspondence to a referent
 
-5 citations in 4 files await a look; 3 other citations of it are acknowledged.
+5 citations in 4 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-033.md:54`](../../record/arguments.d/ARG-033.md)
 - [`record/claims.d/CLAIM-082.md:13`](../../record/claims.d/CLAIM-082.md)
@@ -5816,7 +5816,7 @@ Two departments perform no extrications during ordinary operation, but only one 
 
 In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning
 
-5 citations in 2 files await a look; 57 other citations of it are acknowledged.
+5 citations in 2 files await a look; 83 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:233`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:262`](../../record/decisions.d/ADR-043.md)
@@ -5828,7 +5828,7 @@ In documented reconstruction chains, steps that keep most local judgements commo
 
 Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization
 
-5 citations in 3 files await a look; 126 other citations of it are acknowledged.
+5 citations in 3 files await a look; 180 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-111.md:88`](../../record/claims.d/CLAIM-111.md)
 - [`record/claims.d/CLAIM-136.md:162`](../../record/claims.d/CLAIM-136.md)
@@ -5840,7 +5840,7 @@ Which communicative act an utterance performs is partly constituted by its relat
 
 A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one
 
-5 citations in 4 files await a look; 9 other citations of it are acknowledged.
+5 citations in 4 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:270`](../../record/decisions.d/ADR-040.md)
 - [`record/notes.d/NOTE-1484.md:308`](../../record/notes.d/NOTE-1484.md)
@@ -5852,7 +5852,7 @@ A stored text means only what its readings make of it: the writer's projected re
 
 Blackwell's order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent
 
-5 citations in 3 files await a look; 15 other citations of it are acknowledged.
+5 citations in 3 files await a look; 31 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-050.md:40`](../../record/claims.d/CLAIM-050.md)
 - [`record/claims.d/CLAIM-050.md:147`](../../record/claims.d/CLAIM-050.md)
@@ -5864,7 +5864,7 @@ Blackwell's order compares experiments about one parameter, so it does not reach
 
 Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
 
-5 citations in 5 files await a look; 34 other citations of it are acknowledged.
+5 citations in 5 files await a look; 35 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-366.md:145`](../../record/claims.d/CLAIM-366.md)
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
@@ -5876,7 +5876,7 @@ Whether two trained networks compute the same way can be tested by quotienting t
 
 A shared interpretation's coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation's stability is no evidence of its truth
 
-5 citations in 4 files await a look; 20 other citations of it are acknowledged.
+5 citations in 4 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-351.md:124`](../../record/claims.d/CLAIM-351.md)
 - [`record/questions.d/QUESTION-117.md:105`](../../record/questions.d/QUESTION-117.md)
@@ -5936,7 +5936,7 @@ A self-maintaining organization that harms, and also reproduces the representati
 
 Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy
 
-5 citations in 5 files await a look; 57 other citations of it are acknowledged.
+5 citations in 5 files await a look; 67 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:17`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:16`](../syntheses/role/thesis.md)
@@ -6116,7 +6116,7 @@ Morphology of the Folktale
 
 For linear decisions at the population level, if a kind's admissible transformations are given as a distribution over pairs of its realizations, is the top eigenspace of the pair operator a stable, decision-sufficient span, and what span takes that role when the pairs are directed?
 
-5 citations in 2 files await a look.
+5 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:14`](../../record/questions.d/QUESTION-052.md)
 - [`record/questions.d/QUESTION-052.md:35`](../../record/questions.d/QUESTION-052.md)
@@ -6128,7 +6128,7 @@ For linear decisions at the population level, if a kind's admissible transformat
 
 If the communicative object is a presheaf of propositions over a category of contexts, is the negation its topos logic gives an orthocomplement or a Heyting pseudo-complement, and what fixes it?
 
-5 citations in 2 files await a look.
+5 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-055.md:20`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-055.md:54`](../../record/questions.d/QUESTION-055.md)
@@ -6424,7 +6424,7 @@ A proposed study of open-source projects whose name, code or hosting passed to a
 
 Not every difference between translations is a difference of frame: some change the act being framed
 
-4 citations in 4 files await a look; 25 other citations of it are acknowledged.
+4 citations in 4 files await a look; 43 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-142.md:201`](../../record/claims.d/CLAIM-142.md)
 - [`record/claims.d/CLAIM-217.md:194`](../../record/claims.d/CLAIM-217.md)
@@ -6446,7 +6446,7 @@ An organized agent's will is its own to the degree that its operative commitment
 
 Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability
 
-4 citations in 4 files await a look; 6 other citations of it are acknowledged.
+4 citations in 4 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-117.md:104`](../../record/claims.d/CLAIM-117.md)
 - [`record/decisions.d/ADR-043.md:109`](../../record/decisions.d/ADR-043.md)
@@ -6457,7 +6457,7 @@ Interpretive framing operations generally do not commute, and this can be invest
 
 Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations under a correspondence anchored to independently measured distinctions
 
-4 citations in 2 files await a look; 22 other citations of it are acknowledged.
+4 citations in 2 files await a look; 51 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-006.md:76`](../../record/arguments.d/ARG-006.md)
 - [`record/decisions.d/ADR-043.md:13`](../../record/decisions.d/ADR-043.md)
@@ -6468,7 +6468,7 @@ Pragmatic fidelity requires preserving the dynamics of interpretation, not only 
 
 No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting
 
-4 citations in 2 files await a look; 34 other citations of it are acknowledged.
+4 citations in 2 files await a look; 48 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:81`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-347.md:252`](../../record/claims.d/CLAIM-347.md)
@@ -6512,7 +6512,7 @@ How fast an argument grows sets how it grows: drift tracks how fast new material
 
 The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells
 
-4 citations in 4 files await a look; 4 other citations of it are acknowledged.
+4 citations in 4 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-040.md:113`](../../record/cases.d/CASE-040.md)
 - [`record/claims.d/CLAIM-129.md:12`](../../record/claims.d/CLAIM-129.md)
@@ -6523,7 +6523,7 @@ The only design for the October thesis builds its outcome in: the act is fixed b
 
 If a communicative kind can outrun every probe, human same-kind judgements, themselves one probe family, can neither confirm nor defeat the October thesis; if it cannot, the kind does in the tests only what an observational class does, which the record's term for a kind says it is not
 
-4 citations in 2 files await a look; 18 other citations of it are acknowledged.
+4 citations in 2 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-139.md:38`](../../record/claims.d/CLAIM-139.md)
 - [`record/claims.d/CLAIM-139.md:208`](../../record/claims.d/CLAIM-139.md)
@@ -6534,7 +6534,7 @@ If a communicative kind can outrun every probe, human same-kind judgements, them
 
 The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one
 
-4 citations in 3 files await a look; 41 other citations of it are acknowledged.
+4 citations in 3 files await a look; 51 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-137.md:199`](../../record/claims.d/CLAIM-137.md)
 - [`record/claims.d/CLAIM-217.md:195`](../../record/claims.d/CLAIM-217.md)
@@ -6545,7 +6545,7 @@ The relational-constitution thesis's defeat condition describes a standard rival
 
 The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line's own theses say fidelity is task-relative, interpreter-relative and not a single ranking
 
-4 citations in 3 files await a look; 15 other citations of it are acknowledged.
+4 citations in 3 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-005.md:137`](../../record/claims.d/CLAIM-005.md)
 - [`record/claims.d/CLAIM-074.md:20`](../../record/claims.d/CLAIM-074.md)
@@ -6556,7 +6556,7 @@ The defeat tests take one holistic, task-free judgement of fidelity as ground tr
 
 What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes
 
-4 citations in 4 files await a look; 21 other citations of it are acknowledged.
+4 citations in 4 files await a look; 22 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:17`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:28`](../syntheses/role/thesis.md)
@@ -6567,7 +6567,7 @@ What a developing argument should preserve through legitimate revision is its ac
 
 Intending to perform an act, performing it and being recognized as having performed it are distinct, coupled variables: intended meaning is fixed at production, the act partly by roles, standing and norms, and recognition by uptake, so competent uptake is constitutive for some acts, evidential for others and irrelevant to the existence of still others
 
-4 citations in 4 files await a look; 6 other citations of it are acknowledged.
+4 citations in 4 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-151.md:59`](../../record/claims.d/CLAIM-151.md)
 - [`record/claims.d/CLAIM-477.md:341`](../../record/claims.d/CLAIM-477.md)
@@ -6578,7 +6578,7 @@ Intending to perform an act, performing it and being recognized as having perfor
 
 Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed
 
-4 citations in 4 files await a look; 35 other citations of it are acknowledged.
+4 citations in 4 files await a look; 36 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-467.md:14`](../../record/claims.d/CLAIM-467.md)
 - [`record/decisions.d/ADR-070.md:35`](../../record/decisions.d/ADR-070.md)
@@ -6622,7 +6622,7 @@ Frijda's emotion and the potential account's system valence sit on opposite side
 
 The strongest operationalization of the functional and relevance-theoretic rivals to the transport structure is a rich contextual baseline of context-response profiles and supervised prediction
 
-4 citations in 2 files await a look.
+4 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-202.md:141`](../../record/claims.d/CLAIM-202.md)
 - [`record/claims.d/CLAIM-205.md:37`](../../record/claims.d/CLAIM-205.md)
@@ -6644,7 +6644,7 @@ Viable reach, valence and emotion are three quantities in an organization, not o
 
 An expression's reproduction can come apart from agreement on the concept it carries: communities that use it against one another, and contest whom it describes, can keep it in circulation, so symbolic stability can persist while conceptual stability fails, and a durable dispute over a term shows a durable relation among its uses, not one concept
 
-4 citations in 1 file await a look; 12 other citations of it are acknowledged.
+4 citations in 1 file await a look; 25 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-085.md:120`](../../record/decisions.d/ADR-085.md)
 - [`record/decisions.d/ADR-085.md:122`](../../record/decisions.d/ADR-085.md)
@@ -6875,7 +6875,7 @@ In two optically trapped beads with a symmetric hydrodynamic coupling and a reco
 
 Can an intervention on what an interpreter is told about a communicative situation tell the relations that constitute the act from those that only accompany it?
 
-4 citations in 2 files await a look.
+4 citations in 2 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-130.md:24`](../../record/claims.d/CLAIM-130.md)
 - [`record/claims.d/CLAIM-130.md:196`](../../record/claims.d/CLAIM-130.md)
@@ -7117,7 +7117,7 @@ Hermeneutical injustice is having a significant area of one's social experience 
 
 To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
 
-4 citations in 2 files await a look; 2 other citations of it are acknowledged.
+4 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-160.md:18`](../../record/claims.d/CLAIM-160.md)
 - [`record/claims.d/CLAIM-160.md:149`](../../record/claims.d/CLAIM-160.md)
@@ -7204,7 +7204,7 @@ Reading and filing follow a written protocol: its invariants are held in this de
 
 Interpretive framings change a reader's state as non-commuting measurements do, so the frame participates in determining which meaning becomes actual
 
-3 citations in 2 files await a look; 2 other citations of it are acknowledged.
+3 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-341.md:228`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:247`](../../record/claims.d/CLAIM-341.md)
@@ -7214,7 +7214,7 @@ Interpretive framings change a reader's state as non-commuting measurements do, 
 
 The 2016 Contextuality-by-Default paper grounds the criterion the manuscript's general observational covers need
 
-3 citations in 1 file await a look; 3 other citations of it are acknowledged.
+3 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-037.md:26`](../../record/claims.d/CLAIM-037.md)
 - [`record/claims.d/CLAIM-037.md:38`](../../record/claims.d/CLAIM-037.md)
@@ -7224,7 +7224,7 @@ The 2016 Contextuality-by-Default paper grounds the criterion the manuscript's g
 
 The record's iterated-learning readings show that pragmatic stances and footing are stabilized by transmission
 
-3 citations in 2 files await a look; 3 other citations of it are acknowledged.
+3 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-059.md:22`](../../record/claims.d/CLAIM-059.md)
 - [`record/claims.d/CLAIM-068.md:52`](../../record/claims.d/CLAIM-068.md)
@@ -7234,7 +7234,7 @@ The record's iterated-learning readings show that pragmatic stances and footing 
 
 In the discriminating study, transport measures that beat the static pragmatic profile would show what the line adds to functional and relevance-theoretic accounts
 
-3 citations in 1 file await a look; 3 other citations of it are acknowledged.
+3 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-202.md:15`](../../record/claims.d/CLAIM-202.md)
 - [`record/claims.d/CLAIM-202.md:138`](../../record/claims.d/CLAIM-202.md)
@@ -7284,7 +7284,7 @@ Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdepe
 
 Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for
 
-3 citations in 2 files await a look; 16 other citations of it are acknowledged.
+3 citations in 2 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-341.md:228`](../../record/claims.d/CLAIM-341.md)
 - [`record/questions.d/QUESTION-067.md:55`](../../record/questions.d/QUESTION-067.md)
@@ -7294,7 +7294,7 @@ Pragmatic judgements may be formally contextual: their context-relative distribu
 
 Krifka's performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them
 
-3 citations in 1 file await a look; 5 other citations of it are acknowledged.
+3 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-115.md:142`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-115.md:144`](../../record/claims.d/CLAIM-115.md)
@@ -7304,7 +7304,7 @@ Krifka's performative updates fix which changes in conversational standing count
 
 A language model's response to a context is functionally a parameterized pragmatic frame
 
-3 citations in 2 files await a look; 14 other citations of it are acknowledged.
+3 citations in 2 files await a look; 37 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-007.md:63`](../../record/claims.d/CLAIM-007.md)
 - [`record/claims.d/CLAIM-058.md:61`](../../record/claims.d/CLAIM-058.md)
@@ -7314,7 +7314,7 @@ A language model's response to a context is functionally a parameterized pragmat
 
 Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
 
-3 citations in 2 files await a look; 28 other citations of it are acknowledged.
+3 citations in 2 files await a look; 46 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:113`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-067.md:55`](../../record/questions.d/QUESTION-067.md)
@@ -7324,7 +7324,7 @@ Formal contextuality is a failure of global extension, distinct from ordinary co
 
 Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission
 
-3 citations in 2 files await a look; 38 other citations of it are acknowledged.
+3 citations in 2 files await a look; 70 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-164.md:12`](../../record/theory.d/THEORY-164.md)
 - [`record/theory.d/THEORY-164.md:14`](../../record/theory.d/THEORY-164.md)
@@ -7334,7 +7334,7 @@ Repeated reconstruction is attraction toward conventional regions of communicati
 
 The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws
 
-3 citations in 2 files await a look; 17 other citations of it are acknowledged.
+3 citations in 2 files await a look; 35 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-115.md:37`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-232.md:27`](../../record/claims.d/CLAIM-232.md)
@@ -7344,7 +7344,7 @@ The theory succeeds if its observational and decision measures predict changes o
 
 A term's value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system
 
-3 citations in 3 files await a look; 46 other citations of it are acknowledged.
+3 citations in 3 files await a look; 68 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-040.md:56`](../../record/arguments.d/ARG-040.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
@@ -7354,7 +7354,7 @@ A term's value, as distinct from its signification, is fixed by its contrasts wi
 
 Cross-modal reconstruction often improves a receiver's access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
 
-3 citations in 1 file await a look; 31 other citations of it are acknowledged.
+3 citations in 1 file await a look; 41 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:260`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:288`](../../record/decisions.d/ADR-043.md)
@@ -7364,7 +7364,7 @@ Cross-modal reconstruction often improves a receiver's access to an implicit com
 
 A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity
 
-3 citations in 2 files await a look; 44 other citations of it are acknowledged.
+3 citations in 2 files await a look; 66 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-461.md:28`](../../record/claims.d/CLAIM-461.md)
 - [`record/claims.d/CLAIM-461.md:39`](../../record/claims.d/CLAIM-461.md)
@@ -7374,7 +7374,7 @@ A translation can reach pragmatic equivalence by compensating for changed social
 
 Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints
 
-3 citations in 2 files await a look; 35 other citations of it are acknowledged.
+3 citations in 2 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-344.md:47`](../../record/literature.d/LIT-344.md)
 - [`record/questions.d/QUESTION-055.md:51`](../../record/questions.d/QUESTION-055.md)
@@ -7384,7 +7384,7 @@ Communicative categories form a concept lattice rather than a hierarchy: categor
 
 A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity
 
-3 citations in 3 files await a look; 14 other citations of it are acknowledged.
+3 citations in 3 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-477.md:322`](../../record/claims.d/CLAIM-477.md)
 - [`record/decisions.d/ADR-061.md:120`](../../record/decisions.d/ADR-061.md)
@@ -7394,7 +7394,7 @@ A non-eliminative structural realism that keeps relata but denies them any intri
 
 A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization
 
-3 citations in 2 files await a look; 41 other citations of it are acknowledged.
+3 citations in 2 files await a look; 64 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-111.md:88`](../../record/claims.d/CLAIM-111.md)
 - [`record/questions.d/QUESTION-058.md:16`](../../record/questions.d/QUESTION-058.md)
@@ -7404,7 +7404,7 @@ A communicative kind is identified by an invariant that does not depend on any o
 
 Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored
 
-3 citations in 3 files await a look; 24 other citations of it are acknowledged.
+3 citations in 3 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:270`](../../record/decisions.d/ADR-040.md)
 - [`record/notes.d/NOTE-1484.md:308`](../../record/notes.d/NOTE-1484.md)
@@ -7444,7 +7444,7 @@ The procedure-level fidelity thesis's title says observational fidelity is not d
 
 Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open
 
-3 citations in 1 file await a look; 37 other citations of it are acknowledged.
+3 citations in 1 file await a look; 62 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:270`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:281`](../../record/decisions.d/ADR-043.md)
@@ -7454,7 +7454,7 @@ Over a fixed scenario, a change of global compatibility at small local distortio
 
 What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings
 
-3 citations in 2 files await a look; 40 other citations of it are acknowledged.
+3 citations in 2 files await a look; 78 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:248`](../../record/decisions.d/ADR-040.md)
 - [`record/literature.d/LIT-1817.md:71`](../../record/literature.d/LIT-1817.md)
@@ -7464,7 +7464,7 @@ What the line adds to functional and relevance-theoretic accounts of translation
 
 Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not
 
-3 citations in 2 files await a look; 15 other citations of it are acknowledged.
+3 citations in 2 files await a look; 23 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-204.md:27`](../../record/claims.d/CLAIM-204.md)
 - [`record/claims.d/CLAIM-204.md:173`](../../record/claims.d/CLAIM-204.md)
@@ -7474,7 +7474,7 @@ Probes and statistical models recover only the distinctions identifiable from th
 
 A proposed relational kind is a hypothesis about invariance across admissible changes of measurement and context, not an equivalence class under the measurements now available, so realism about kinds gains empirical content as extrapolation to probe families, populations and environments not used to construct them
 
-3 citations in 2 files await a look; 1 other citation of it is acknowledged.
+3 citations in 2 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-215.md:142`](../../record/claims.d/CLAIM-215.md)
 - [`record/decisions.d/ADR-040.md:202`](../../record/decisions.d/ADR-040.md)
@@ -7484,7 +7484,7 @@ A proposed relational kind is a hypothesis about invariance across admissible ch
 
 Communicative kinds are repeatable organizations of relations among participants, norms, commitments and possible consequences, which concrete events realize without being one another, and which kind an event realizes is not exhausted by the intrinsic properties of the expression token
 
-3 citations in 2 files await a look; 3 other citations of it are acknowledged.
+3 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-139.md:39`](../../record/claims.d/CLAIM-139.md)
 - [`record/claims.d/CLAIM-204.md:27`](../../record/claims.d/CLAIM-204.md)
@@ -7554,7 +7554,7 @@ A corporation's functional remorse cannot be told from prudence: any procedure o
 
 Compensation is not only a re-performance notion: for a reader whose code gives the literal word a meaning the source lacked, the compensating rendering can be the more faithful report, so assigning compensation to re-performance alone needs narrowing
 
-3 citations in 1 file await a look.
+3 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-212.md:24`](../../record/claims.d/CLAIM-212.md)
 - [`record/claims.d/CLAIM-212.md:177`](../../record/claims.d/CLAIM-212.md)
@@ -7824,7 +7824,7 @@ Convention: A Philosophical Study
 
 Structural Anthropology
 
-3 citations in 2 files await a look; 14 other citations of it are acknowledged.
+3 citations in 2 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-082.md:19`](../../record/claims.d/CLAIM-082.md)
 - [`record/claims.d/CLAIM-082.md:72`](../../record/claims.d/CLAIM-082.md)
@@ -7944,7 +7944,7 @@ In the linearized operator model, is scoring operators against predictions commi
 
 Does a transport whose local kernels commute with restriction preserve overlap consistency, and does a transport induced by one global stochastic kernel preserve global extendability?
 
-3 citations in 1 file await a look.
+3 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-022.md:14`](../../record/questions.d/QUESTION-022.md)
 - [`record/questions.d/QUESTION-022.md:29`](../../record/questions.d/QUESTION-022.md)
@@ -7964,7 +7964,7 @@ Does temporal information retention track causal propagation, do the ΦID criter
 
 In quantum theory, what does a failure of Kochen–Specker noncontextuality refute, as against a failure of Spekkens's generalized noncontextuality, and which of the two notions is broader?
 
-3 citations in 1 file await a look.
+3 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-067.md:36`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:58`](../../record/questions.d/QUESTION-067.md)
@@ -7974,7 +7974,7 @@ In quantum theory, what does a failure of Kochen–Specker noncontextuality refu
 
 If a map of a representation X of finite support keeps no information about a categorical concept A, how much information about X can it keep, and when does it keep that much?
 
-3 citations in 1 file await a look.
+3 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-010.md:14`](../../record/questions.d/QUESTION-010.md)
 - [`record/questions.d/QUESTION-010.md:27`](../../record/questions.d/QUESTION-010.md)
@@ -8374,7 +8374,7 @@ In two-agent rock–scissors–paper played by softmax reinforcement learners, n
 
 An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split
 
-2 citations in 1 file await a look; 42 other citations of it are acknowledged.
+2 citations in 1 file await a look; 43 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -8383,7 +8383,7 @@ An account the record holds only in parts, for a line or a part of one, gets a S
 
 The invented renderings of one sentence by four speakers show that a translation can reach pragmatic equivalence by compensation
 
-2 citations in 1 file await a look; 3 other citations of it are acknowledged.
+2 citations in 1 file await a look; 9 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-091.md:12`](../../record/claims.d/CLAIM-091.md)
 - [`record/claims.d/CLAIM-091.md:93`](../../record/claims.d/CLAIM-091.md)
@@ -8419,7 +8419,7 @@ Illusions, reappraisal and interoceptive inference show that experience is const
 
 The manuscript's renderings, which keep the words and change the act, show that keeping the proposition is not necessary for keeping the act
 
-2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+2 citations in 2 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-020.md:70`](../../record/arguments.d/ARG-020.md)
 - [`record/arguments.d/ARG-039.md:57`](../../record/arguments.d/ARG-039.md)
@@ -8437,7 +8437,7 @@ Matched ordinary behaviour and differing responses to intervention show that org
 
 Judged pragmatic observables that predict human judgements of fidelity or shared kind better than text similarity support the central theses of the pragmatic-transport line
 
-2 citations in 2 files await a look; 7 other citations of it are acknowledged.
+2 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-005.md:36`](../../record/claims.d/CLAIM-005.md)
 - [`record/claims.d/CLAIM-078.md:24`](../../record/claims.d/CLAIM-078.md)
@@ -8455,7 +8455,7 @@ Low supervisory cost shows that an organization does not dominate its processes
 
 Griffiths and Kalish's convergence theorem and Kirby, Cornish and Smith's chains show that serial transmission is filtered by the transmitters' inductive biases
 
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+2 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-027.md:75`](../../record/arguments.d/ARG-027.md)
 - [`record/claims.d/CLAIM-090.md:82`](../../record/claims.d/CLAIM-090.md)
@@ -8482,7 +8482,7 @@ A 192-state organization on which one kernel gives several closure verdicts: the
 
 Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
 
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-113.md:79`](../../record/claims.d/CLAIM-113.md)
 - [`record/claims.d/CLAIM-113.md:80`](../../record/claims.d/CLAIM-113.md)
@@ -8491,7 +8491,7 @@ Classical structuralism studies relations within a system, whereas this theory m
 
 What survives translation is the invariants, and approximately preserved relations, of communicative transformation
 
-2 citations in 2 files await a look; 18 other citations of it are acknowledged.
+2 citations in 2 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-078.md:22`](../../record/claims.d/CLAIM-078.md)
 - [`record/claims.d/CLAIM-115.md:138`](../../record/claims.d/CLAIM-115.md)
@@ -8500,7 +8500,7 @@ What survives translation is the invariants, and approximately preserved relatio
 
 In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional
 
-2 citations in 1 file await a look; 12 other citations of it are acknowledged.
+2 citations in 1 file await a look; 24 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-170.md:22`](../../record/theory.d/THEORY-170.md)
 - [`record/theory.d/THEORY-170.md:24`](../../record/theory.d/THEORY-170.md)
@@ -8509,7 +8509,7 @@ In published translations, renderings that lose distinctions along one dimension
 
 Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source's relevant possibilities rather than equivalence
 
-2 citations in 1 file await a look; 27 other citations of it are acknowledged.
+2 citations in 1 file await a look; 40 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:52`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:257`](../../record/decisions.d/ADR-040.md)
@@ -8527,7 +8527,7 @@ Communicative meaning is constituted through systems of distinctions and relatio
 
 A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion
 
-2 citations in 2 files await a look; 11 other citations of it are acknowledged.
+2 citations in 2 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-117.md:94`](../../record/claims.d/CLAIM-117.md)
 - [`record/decisions.d/ADR-043.md:288`](../../record/decisions.d/ADR-043.md)
@@ -8545,7 +8545,7 @@ Northstar simply prefers speed: the governing relations are revealed preferences
 
 Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
 
-2 citations in 2 files await a look; 16 other citations of it are acknowledged.
+2 citations in 2 files await a look; 31 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1895.md:65`](../../record/literature.d/LIT-1895.md)
 - [`record/literature.d/LIT-768.md:45`](../../record/literature.d/LIT-768.md)
@@ -8554,7 +8554,7 @@ Serial transmission is reconstructive and filtered by the transmitters' inductiv
 
 Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed
 
-2 citations in 1 file await a look; 5 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:261`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:280`](../../record/decisions.d/ADR-043.md)
@@ -8563,7 +8563,7 @@ Symmetry is not opposed to transport: exact symmetries are the invertible core o
 
 In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual
 
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-341.md:96`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:226`](../../record/claims.d/CLAIM-341.md)
@@ -8572,7 +8572,7 @@ In translation the pragmatic frame does not merely select a description of meani
 
 The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity
 
-2 citations in 2 files await a look; 32 other citations of it are acknowledged.
+2 citations in 2 files await a look; 49 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1633.md:60`](../../record/literature.d/LIT-1633.md)
 - [`record/questions.d/QUESTION-118.md:149`](../../record/questions.d/QUESTION-118.md)
@@ -8635,7 +8635,7 @@ The governance-induced kind of frustration is not idle: some failures of an orga
 
 On WMT22 News MQM, xCOMET's error spans are more coherent with its own regression scores than either is with expert judgement: the agreement between its heads is coherence between two outputs of one model, and adds little to what the spans' own agreement with experts shows
 
-2 citations in 1 file await a look; 3 other citations of it are acknowledged.
+2 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1341.md:35`](../../record/notes.d/NOTE-1341.md)
 - [`record/notes.d/NOTE-1341.md:241`](../../record/notes.d/NOTE-1341.md)
@@ -9283,7 +9283,7 @@ What evidence would show that a maintaining link, and not a regime's content, ke
 
 Is the distortion of a composite of approximate transports bounded by the sum of its parts' distortions, and does that additive bound survive when the distortion lacks a triangle inequality or a later kernel stretches distances?
 
-2 citations in 1 file await a look.
+2 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-017.md:14`](../../record/questions.d/QUESTION-017.md)
 - [`record/questions.d/QUESTION-017.md:89`](../../record/questions.d/QUESTION-017.md)
@@ -9832,7 +9832,7 @@ In next-token prediction on hierarchically generated sequences, the correlation 
 
 In data generated by a random hierarchical grammar, the tokens that Bayes-optimal noising and denoising changes do so in blocks set by the depth of the latent that changed, and the block size, measured as the correlation length of the changes, diverges at the noise threshold where the top-level class is lost, as a power of the distance to it whose exponent is log(branching) over log(slope of the level-to-level belief map at its unstable fixed point); a Gaussian field with power-law spectrum has instead a correlation length of changes that grows with noise to the end of the process
 
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-031.md:49`](../../record/claims.d/CLAIM-031.md)
 - [`record/claims.d/CLAIM-031.md:53`](../../record/claims.d/CLAIM-031.md)
@@ -9994,7 +9994,7 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 
 Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants
 
-1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 27 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-059.md:57`](../../record/decisions.d/ADR-059.md)
 
@@ -10018,7 +10018,7 @@ Northstar-A and Northstar-B differ only in escalation authority and act differen
 
 Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-059.md:57`](../../record/decisions.d/ADR-059.md)
 
@@ -10026,7 +10026,7 @@ Causality paradoxes in relativity show that locally consistent descriptions can 
 
 Blackwell's order on rendering procedures grounds the thesis that what survives translation is what a receiver can reconstruct
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-115.md:38`](../../record/claims.d/CLAIM-115.md)
 
@@ -10034,7 +10034,7 @@ Blackwell's order on rendering procedures grounds the thesis that what survives 
 
 The compensation hypothesis gives the mechanism by which a rendering keeps the act while changing the proposition
 
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-021.md:70`](../../record/arguments.d/ARG-021.md)
 
@@ -10042,7 +10042,7 @@ The compensation hypothesis gives the mechanism by which a rendering keeps the a
 
 The invented renderings of one sentence by four speakers show that participant roles partly constitute the act
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-151.md:45`](../../record/claims.d/CLAIM-151.md)
 
@@ -10050,7 +10050,7 @@ The invented renderings of one sentence by four speakers show that participant r
 
 The operational account, kept as a rule of method, supports a realist kind that can outrun observation as the bearer of communicative identity
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-139.md:39`](../../record/claims.d/CLAIM-139.md)
 
@@ -10058,7 +10058,7 @@ The operational account, kept as a rule of method, supports a realist kind that 
 
 The authored reconstruction chains show that lexical similarity cannot tell kept footing from a changed act
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-084.md:82`](../../record/claims.d/CLAIM-084.md)
 
@@ -10066,7 +10066,7 @@ The authored reconstruction chains show that lexical similarity cannot tell kept
 
 In use, an utterance is interpreted by its contrast with the alternatives its speaker could have used, so what a translation must let a receiver reconstruct is those contrasts, not the wording or the proposition
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-115.md:38`](../../record/claims.d/CLAIM-115.md)
 
@@ -10170,7 +10170,7 @@ Reporting by total output against reporting that also records breaches of the ho
 
 The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-061.md:113`](../../record/decisions.d/ADR-061.md)
 
@@ -10178,7 +10178,7 @@ The conditional-diffusion literature already covers directed transport between o
 
 Existing text-to-image benchmarks evaluate object presence, attributes and whether spatial or interactive relations are depicted, not the stance, social alignment or uptake an image conveys, and need extending to pragmatically consequential relations and social uptake
 
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-061.md:123`](../../record/decisions.d/ADR-061.md)
 
@@ -10186,7 +10186,7 @@ Existing text-to-image benchmarks evaluate object presence, attributes and wheth
 
 A translation reconstructs not only what is said but the situation of its saying
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-057.md:340`](../../record/decisions.d/ADR-057.md)
 
@@ -10194,7 +10194,7 @@ A translation reconstructs not only what is said but the situation of its saying
 
 Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
-1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 25 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-648.md:187`](../../record/notes.d/NOTE-648.md)
 
@@ -10210,7 +10210,7 @@ Communicative identity is characterized by the observational structures and rela
 
 A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act
 
-1 citation in 1 file awaits a look; 25 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 49 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:82`](../../record/claims.d/CLAIM-187.md)
 
@@ -10218,7 +10218,7 @@ A factorization recovers only the structure visible in the relations it is fitte
 
 A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist
 
-1 citation in 1 file awaits a look; 132 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 138 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-152.md:148`](../../record/claims.d/CLAIM-152.md)
 
@@ -10226,7 +10226,7 @@ A communicative kind's identity is grounded in its relational organization rathe
 
 A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation
 
-1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 37 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-167.md:33`](../../record/theory.d/THEORY-167.md)
 
@@ -10250,7 +10250,7 @@ Identifying agents by their will-organization is circular: will-organization is 
 
 For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents
 
-1 citation in 1 file awaits a look; 40 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 64 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-139.md:35`](../../record/claims.d/CLAIM-139.md)
 
@@ -10258,7 +10258,7 @@ For a communicative kind, the standard of sufficiency is the uptake of competent
 
 Sharing a kind is symmetric and blind to which work is the source, so the October thesis cannot say a translation is of its original, against the line's own directed, graded fidelity and identity through descent
 
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-084.md:53`](../../record/terms.d/TERM-084.md)
 
@@ -10290,7 +10290,7 @@ Coupling locally described systems necessarily induces a separation of time scal
 
 A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event
 
-1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-220.md:14`](../../record/claims.d/CLAIM-220.md)
 
@@ -11042,7 +11042,7 @@ Translation Quality Assessment: Past and Present
 
 Toward a Science of Translating: With Special Reference to Principles and Procedures Involved in Bible Translating
 
-1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-614.md:165`](../../record/notes.d/NOTE-614.md)
 
@@ -11186,7 +11186,7 @@ What is it like to be Microsoft?
 
 When the task's target and the probes' outcome laws are both linear in one unknown state, as for the pairwise comparisons of actions under partial monitoring and for the authority shares of a mixture of known response profiles, when does a family of probes separate what the task needs told apart?
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-452.md:24`](../../record/claims.d/CLAIM-452.md)
 
@@ -11210,7 +11210,7 @@ Competent behaviour across a family of goals fixes the world model an observer m
 
 communicative object, as a compatible family of local sections
 
-1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-124.md:30`](../../record/claims.d/CLAIM-124.md)
 

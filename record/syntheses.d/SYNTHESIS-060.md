@@ -1,5 +1,8 @@
 ---
+number: 60
 status: Proposed
+formerly:
+- SYNTHESIS-tmp48v4a
 title: 'A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open'
 version: 1
 defeated_if: >-
@@ -22,12 +25,12 @@ integrates:
 - CLAIM-094
 - CLAIM-107
 - QUESTION-006
-- CLAIM-tmp008ey
+- CLAIM-635
 ---
-<!-- inactive-ok-file: CLAIM-tmp008ey CLAIM-059 CLAIM-068 — Proposed; the claim drafted at this review and a citation, with their standing -->
+<!-- inactive-ok-file: CLAIM-635 CLAIM-059 CLAIM-068 — Proposed; the claim drafted at this review and a citation, with their standing -->
 <!-- inactive-ok-file: CLAIM-015 — Superseded; the claim CLAIM-040 objected to -->
 
-# SYNTHESIS-tmp48v4a: A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open
+# SYNTHESIS-060: A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open
 
 *A part account of the pragmatic-transport line ("Contextual pragmatic
 information transport"): the inquiry into which observables reconstruction
@@ -37,7 +40,7 @@ mechanical map put these five entries in one part with seventeen on
 reconstruction chains, drift bounds and attraction (chains-account); they
 share 9 pairs among themselves and 2 with those seventeen, so each group
 has its own account. All four claims here also carry formal-apparatus.
-[CLAIM-tmp008ey](../claims.d/CLAIM-tmp008ey.md) is the claim filed at this review (Arm B).*
+[CLAIM-635](../claims.d/CLAIM-635.md) is the claim filed at this review (Arm B).*
 
 ## The account
 
@@ -79,7 +82,7 @@ has its own account. All four claims here also carry formal-apparatus.
   [CLAIM-093](../claims.d/CLAIM-093.md) as bearing on it, unassessed; its body names [CLAIM-107](../claims.d/CLAIM-107.md) as the
   manuscript's criterion.
 - **Exact conservation keeps the start (filed at this review).**
-  [CLAIM-tmp008ey](../claims.d/CLAIM-tmp008ey.md) (the assistant's; thesis, demonstrated, Proposed), resting
+  [CLAIM-635](../claims.d/CLAIM-635.md) (the assistant's; thesis, demonstrated, Proposed), resting
   on [CLAIM-107](../claims.d/CLAIM-107.md) and [CLAIM-270](../claims.d/CLAIM-270.md): under Markov kernels, an observable
   conserved exactly at every step and not constant on the support of the
   starting law keeps information about the start at every generation,
@@ -101,7 +104,7 @@ has its own account. All four claims here also carry formal-apparatus.
   demonstrated, Active; also formal-apparatus; complements [CLAIM-093](../claims.d/CLAIM-093.md); uses
   [TERM-027](../terms.d/TERM-027.md) (chains account).
 - [QUESTION-006](../questions.d/QUESTION-006.md), A110's; Open; refines [QUESTION-002](../questions.d/QUESTION-002.md) (fidelity part).
-- [CLAIM-tmp008ey](../claims.d/CLAIM-tmp008ey.md), the assistant's at this review; thesis, demonstrated,
+- [CLAIM-635](../claims.d/CLAIM-635.md), the assistant's at this review; thesis, demonstrated,
   Proposed; rests on [CLAIM-107](../claims.d/CLAIM-107.md) and [CLAIM-270](../claims.d/CLAIM-270.md) (formal-apparatus); bears on
   [QUESTION-006](../questions.d/QUESTION-006.md).
 
@@ -130,7 +133,7 @@ has its own account. All four claims here also carry formal-apparatus.
 - **Kind.** [QUESTION-027](../questions.d/QUESTION-027.md) refines [QUESTION-006](../questions.d/QUESTION-006.md).
 - **The chains account.** [CLAIM-107](../claims.d/CLAIM-107.md) uses [TERM-027](../terms.d/TERM-027.md), and its note of
   2026-10-10 reads several closed classes as "separate attractors from
-  which reconstruction does not escape ([TERM-027](../terms.d/TERM-027.md), [CLAIM-059](../claims.d/CLAIM-059.md))". The filed [CLAIM-tmp008ey](../claims.d/CLAIM-tmp008ey.md) adds a third link, through [CLAIM-081](../claims.d/CLAIM-081.md)'s profiles and
+  which reconstruction does not escape ([TERM-027](../terms.d/TERM-027.md), [CLAIM-059](../claims.d/CLAIM-059.md))". The filed [CLAIM-635](../claims.d/CLAIM-635.md) adds a third link, through [CLAIM-081](../claims.d/CLAIM-081.md)'s profiles and
   [CLAIM-068](../claims.d/CLAIM-068.md)'s convergence.
 
 ## Not stated on the record

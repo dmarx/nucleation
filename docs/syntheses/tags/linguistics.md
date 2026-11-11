@@ -6,8 +6,8 @@
 
 **Linguistics** — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
 
-0 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 70 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-065](../../../record/syntheses.d/SYNTHESIS-065.md) | Saussure's value, as distinct from signification, is fixed by contrast with the coexisting terms of one language state and is not set against reference; whether it supports transport across languages is open, its use-level counterpart is offered as an utterance's contrast with the alternatives its speaker could have used, and the stronger reading, that contrast replaces reference, is rejected | A part account of the pragmatic-transport line: the manuscript's structuralist premise, the record's correction of how it states Saussure, and the use-level counterpart offered in reply to the objection that value does not cross languages. The mechanical map put these seven entries in one part with the entries on renderings that keep the proposition and change the act; they share one pair with those and have their own account. The line's account is built over it. The account adds nothing of its own; its standing is its components'. | Proposed |

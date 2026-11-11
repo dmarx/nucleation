@@ -6,7 +6,7 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-6 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
+7 of 70 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -16,3 +16,4 @@
 | [SYNTHESIS-030](../../../record/syntheses.d/SYNTHESIS-030.md) | The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner's demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, and what classification leaves in the last layers, with smaller families on personas, group structure and learned variables and twenty-three entries linked to no other; the parts meet almost only through two questions on acquisition, and the line is a candidate to split |  | Proposed |
 | [SYNTHESIS-033](../../../record/syntheses.d/SYNTHESIS-033.md) | What classification training leaves in a network's last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own |  | Proposed |
 | [SYNTHESIS-034](../../../record/syntheses.d/SYNTHESIS-034.md) | What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training's order follows the posterior's order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line's frustration, concept and persona entries cite |  | Proposed |
+| [SYNTHESIS-059](../../../record/syntheses.d/SYNTHESIS-059.md) | Reading a language model's response to its context as a parameterized frame makes context-conditioned models a controlled test bed for the theory only with generator and evaluator separated, stimuli held out from training and agreement required across model families, never as evidence about human pragmatics or about what a translation ought to keep, and the frame reading itself is held back because its defeat condition is met as written |  | Proposed |

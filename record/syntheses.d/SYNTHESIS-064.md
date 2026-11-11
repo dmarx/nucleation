@@ -1,5 +1,8 @@
 ---
+number: 64
 status: Proposed
+formerly:
+- SYNTHESIS-tmpdk9nd
 title: 'Fidelity is relative to receivers and tasks: Blackwell''s order on rendering procedures sets the ceiling a rendering puts on report decisions, a bounded receiver''s usable information can rise under a garbling but never above that ceiling, the record''s directed decision term measures the ceiling and the line''s measures each see only part of a rendering, fidelity is a graded profile that only a task''s weighting ranks, a receiver''s learning history and access make fidelity a different quantity for different receivers, and what survives is fixed by the receivers while what can be shown to survive is the analyst''s'
 version: 1
 defeated_if: >-
@@ -17,7 +20,7 @@ date: '2026-11-11'
 line:
 - pragmatic-transport
 integrates:
-- CLAIM-tmpmte91
+- CLAIM-636
 - CLAIM-050
 - CLAIM-199
 - CLAIM-225
@@ -112,13 +115,13 @@ summary: >-
   ([CLAIM-140](../claims.d/CLAIM-140.md), [CLAIM-223](../claims.d/CLAIM-223.md)). The account adds nothing of its own; its
   standing is its components'.
 ---
-<!-- inactive-ok-file: ARG-019 CLAIM-014 CLAIM-033 CLAIM-076 CLAIM-087 CLAIM-091 CLAIM-092 CLAIM-111 CLAIM-128 CLAIM-212 CLAIM-240 CLAIM-244 CLAIM-258 CLAIM-298 CLAIM-315 CLAIM-461 CLAIM-507 CLAIM-005 CLAIM-034 CLAIM-054 CLAIM-078 CLAIM-105 CLAIM-114 CLAIM-117 CLAIM-127 CLAIM-129 CLAIM-137 CLAIM-142 CLAIM-151 CLAIM-160 CLAIM-171 CLAIM-201 CLAIM-204 CLAIM-217 CLAIM-220 CLAIM-224 CLAIM-228 CLAIM-242 CLAIM-251 CLAIM-477 CLAIM-tmpmte91 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-019 CLAIM-014 CLAIM-033 CLAIM-076 CLAIM-087 CLAIM-091 CLAIM-092 CLAIM-111 CLAIM-128 CLAIM-212 CLAIM-240 CLAIM-244 CLAIM-258 CLAIM-298 CLAIM-315 CLAIM-461 CLAIM-507 CLAIM-005 CLAIM-034 CLAIM-054 CLAIM-078 CLAIM-105 CLAIM-114 CLAIM-117 CLAIM-127 CLAIM-129 CLAIM-137 CLAIM-142 CLAIM-151 CLAIM-160 CLAIM-171 CLAIM-201 CLAIM-204 CLAIM-217 CLAIM-220 CLAIM-224 CLAIM-228 CLAIM-242 CLAIM-251 CLAIM-477 CLAIM-636 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-013 CLAIM-236 — Rejected; components kept in the account for the objection threads they close -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; cited as the theses the components answer, not integrated -->
 <!-- inactive-ok-file: ADR-075 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: QUESTION-249 — Answered; cited with its standing -->
 
-# SYNTHESIS-tmpdk9nd: Fidelity is relative to receivers and tasks: Blackwell's order on rendering procedures sets the ceiling a rendering puts on report decisions, a bounded receiver's usable information can rise under a garbling but never above that ceiling, the record's directed decision term measures the ceiling and the line's measures each see only part of a rendering, fidelity is a graded profile that only a task's weighting ranks, a receiver's learning history and access make fidelity a different quantity for different receivers, and what survives is fixed by the receivers while what can be shown to survive is the analyst's
+# SYNTHESIS-064: Fidelity is relative to receivers and tasks: Blackwell's order on rendering procedures sets the ceiling a rendering puts on report decisions, a bounded receiver's usable information can rise under a garbling but never above that ceiling, the record's directed decision term measures the ceiling and the line's measures each see only part of a rendering, fidelity is a graded profile that only a task's weighting ranks, a receiver's learning history and access make fidelity a different quantity for different receivers, and what survives is fixed by the receivers while what can be shown to survive is the analyst's
 
 *A part account of the pragmatic-transport line: the part the mechanical
 map of 2026-11-11 put together on fidelity relative to receivers,
@@ -562,7 +565,7 @@ step 5 at this review:
   where the literal rendering loses a distinction, as English "you" for ты
   amid вы ([CASE-066](../cases.d/CASE-066.md)), the order itself can prefer the compensation. It
   passes as a short derivation from [CLAIM-326](../claims.d/CLAIM-326.md)'s step (a) and [CLAIM-199](../claims.d/CLAIM-199.md),
-  and is filed at this review as [CLAIM-tmpmte91](../claims.d/CLAIM-tmpmte91.md) (Proposed).
+  and is filed at this review as [CLAIM-636](../claims.d/CLAIM-636.md) (Proposed).
 - **Adaptation bounded by the ceiling.** That [CLAIM-199](../claims.d/CLAIM-199.md)'s ceiling bounds
   what improving the interpreter ([CLAIM-074](../claims.d/CLAIM-074.md), [CLAIM-049](../claims.d/CLAIM-049.md)) can substitute for
   transmitted information. [QUESTION-020](../questions.d/QUESTION-020.md)'s note of 2026-10-12 already

@@ -1,5 +1,8 @@
 ---
+number: 70
 status: Proposed
+formerly:
+- SYNTHESIS-tmptr0l3
 title: 'What the pragmatic-transport line adds is placed, after conceded prior art, in a testable account of which communicative distinctions a translation keeps for stated receivers and tasks; the central defeat test as first stated could not tell that account from rivals that hold the pragmatic point and let predictor and criterion share a method, so the theses were restated against one discriminating study that has not been run, and a win there over a static pragmatic profile is now held not to tell the line from functional and relevance-theoretic accounts, which leaves a strong contextual baseline and prediction under an unobserved composition as the harder tests'
 version: 1
 defeated_if: >-
@@ -46,7 +49,7 @@ integrates:
 <!-- inactive-ok-file: ARG-011 ARG-026 ARG-031 — Rejected; arguments whose verdicts the account reports -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-083 CLAIM-100 CLAIM-115 CLAIM-139 CLAIM-203 CLAIM-229 — Superseded; cited as the history of the theses and claims they were replaced by -->
 
-# SYNTHESIS-tmptr0l3: What the pragmatic-transport line adds is placed, after conceded prior art, in a testable account of which communicative distinctions a translation keeps for stated receivers and tasks; the central defeat test as first stated could not tell that account from rivals that hold the pragmatic point and let predictor and criterion share a method, so the theses were restated against one discriminating study that has not been run, and a win there over a static pragmatic profile is now held not to tell the line from functional and relevance-theoretic accounts, which leaves a strong contextual baseline and prediction under an unobserved composition as the harder tests
+# SYNTHESIS-070: What the pragmatic-transport line adds is placed, after conceded prior art, in a testable account of which communicative distinctions a translation keeps for stated receivers and tasks; the central defeat test as first stated could not tell that account from rivals that hold the pragmatic point and let predictor and criterion share a method, so the theses were restated against one discriminating study that has not been run, and a win there over a static pragmatic profile is now held not to tell the line from functional and relevance-theoretic accounts, which leaves a strong contextual baseline and prediction under an unobserved composition as the harder tests
 
 *A part account of the pragmatic-transport line: the part on what the line
 adds to the accounts it must be told apart from, the defeat conditions of

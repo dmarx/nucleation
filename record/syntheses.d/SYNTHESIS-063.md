@@ -1,5 +1,8 @@
 ---
+number: 63
 status: Proposed
+formerly:
+- SYNTHESIS-tmpcdg8u
 title: 'Directed transport between context-indexed judgement models keeps overlap consistency and global extendability under two sufficient conditions, but for one source–target pair a constant kernel meets them at zero distortion, so it constrains a translation only as a property of a rendering procedure with one kernel family fixed across items, where exact fit is a garbling and Le Cam deficiency a finite linear programme; fidelity as intertwining of framing operations holds as algebra, but its defects are not identified from data and the order effect is bounded on observed responses instead; what stays open is decision-relevant information across a change of cover, signalling data, and whether the restated measures are informative, with tropes and adaptation as the place where structure and function come apart'
 version: 1
 defeated_if: >-
@@ -17,8 +20,8 @@ date: '2026-11-11'
 line:
 - pragmatic-transport
 integrates:
-- CLAIM-tmptimdb
-- CLAIM-tmpol63b
+- CLAIM-638
+- CLAIM-637
 - TERM-008
 - TERM-021
 - TERM-007
@@ -65,14 +68,14 @@ summary: >-
   and the line's other part accounts. It adds nothing; its standing is its
   components'.
 ---
-<!-- inactive-ok-file: ARG-017 CLAIM-001 CLAIM-005 CLAIM-034 CLAIM-052 CLAIM-063 CLAIM-105 CLAIM-117 CLAIM-127 CLAIM-138 CLAIM-147 CLAIM-202 CLAIM-220 CLAIM-228 CLAIM-244 CLAIM-258 CLAIM-298 CLAIM-tmpol63b CLAIM-tmptimdb — Proposed; components and citations, open, with their standing -->
+<!-- inactive-ok-file: ARG-017 CLAIM-001 CLAIM-005 CLAIM-034 CLAIM-052 CLAIM-063 CLAIM-105 CLAIM-117 CLAIM-127 CLAIM-138 CLAIM-147 CLAIM-202 CLAIM-220 CLAIM-228 CLAIM-244 CLAIM-258 CLAIM-298 CLAIM-637 CLAIM-638 — Proposed; components and citations, open, with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the decision whose step 5 tested the links not stated -->
 <!-- inactive-ok-file: QUESTION-008 — Deferred; a component, set aside and not answered -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; cited as the claim a component narrows -->
 <!-- inactive-ok-file: ARG-014 ARG-037 — Rejected; components, the verdicts on support that failed -->
 <!-- inactive-ok-file: QUESTION-240 — Answered; cited with its standing -->
 
-# SYNTHESIS-tmpcdg8u: Directed transport between context-indexed judgement models keeps overlap consistency and global extendability under two sufficient conditions, but for one source–target pair a constant kernel meets them at zero distortion, so it constrains a translation only as a property of a rendering procedure with one kernel family fixed across items, where exact fit is a garbling and Le Cam deficiency a finite linear programme; fidelity as intertwining of framing operations holds as algebra, but its defects are not identified from data and the order effect is bounded on observed responses instead; what stays open is decision-relevant information across a change of cover, signalling data, and whether the restated measures are informative, with tropes and adaptation as the place where structure and function come apart
+# SYNTHESIS-063: Directed transport between context-indexed judgement models keeps overlap consistency and global extendability under two sufficient conditions, but for one source–target pair a constant kernel meets them at zero distortion, so it constrains a translation only as a property of a rendering procedure with one kernel family fixed across items, where exact fit is a garbling and Le Cam deficiency a finite linear programme; fidelity as intertwining of framing operations holds as algebra, but its defects are not identified from data and the order effect is bounded on observed responses instead; what stays open is decision-relevant information across a change of cover, signalling data, and whether the restated measures are informative, with tropes and adaptation as the place where structure and function come apart
 
 *A part account of the pragmatic-transport line: the part a mechanical
 community map of the line's stored relations and mentions calls kernels,
@@ -411,12 +414,12 @@ step 5 at this review:
   and [CLAIM-488](../claims.d/CLAIM-488.md) reads as the approximate Blackwell order for translation,
   vanish whenever the rendering's item tables are a garbling of the
   source's, a procedure that renders every item alike included, so they
-  bound what a rendering adds about the item and not what it loses. Filed at this review as [CLAIM-tmpol63b](../claims.d/CLAIM-tmpol63b.md) (Proposed).
+  bound what a rendering adds about the item and not what it loses. Filed at this review as [CLAIM-637](../claims.d/CLAIM-637.md) (Proposed).
 - **Order effects cannot grow under one kernel.** That under one outcome
   kernel for both orders a rendering's order effect on an item exceeds the
   source's by at most the sum of its two order-context distortions, so a
   growth in the order effect bounds the distortion from below whatever the
-  kernel, while kernels fitted to the two orders separately carry no bound. Filed at this review as [CLAIM-tmptimdb](../claims.d/CLAIM-tmptimdb.md) (Proposed).
+  kernel, while kernels fitted to the two orders separately carry no bound. Filed at this review as [CLAIM-638](../claims.d/CLAIM-638.md) (Proposed).
 - **The dynamics thesis as an instance of the signalling problem.** That
   order effects are signalling ([CLAIM-235](../claims.d/CLAIM-235.md)'s "order effects are signalling
   in the CbD sense"), so [CLAIM-117](../claims.d/CLAIM-117.md)'s dynamics wait on [CLAIM-125](../claims.d/CLAIM-125.md)'s second

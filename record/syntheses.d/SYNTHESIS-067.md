@@ -1,5 +1,8 @@
 ---
+number: 67
 status: Proposed
+formerly:
+- SYNTHESIS-tmplxxfq
 title: 'Along a chain of reconstructions, per-step discrepancies weighted by later sensitivity bound the departure from a reference transport but give no testable prediction and do not say whether the act survives, which a reorganized constraint or a phase change can decide; approximate transports compose additively only under a triangle inequality and nonexpansive kernels; a chain can forget its start while staying far from the original; and attraction toward conventional stances, filtered by the transmitters'' biases, is proposed, with chain evidence for evaluative stance only'
 version: 1
 defeated_if: >-
@@ -38,10 +41,10 @@ integrates:
 <!-- inactive-ok-file: CLAIM-059 CLAIM-068 CLAIM-090 CLAIM-114 ARG-035 CLAIM-078 CLAIM-117 CLAIM-007 THEORY-203 CLAIM-191 CLAIM-276 CLAIM-621 ADR-075 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-027 ARG-026 — Rejected; a component and a citation, with their standing -->
 <!-- inactive-ok-file: CLAIM-066 CLAIM-234 — Superseded; cited as the claims two components were moved from, and the history one answers -->
-<!-- inactive-ok-file: CLAIM-tmp008ey — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-635 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: QUESTION-293 — Answered; cited with its standing -->
 
-# SYNTHESIS-tmplxxfq: Along a chain of reconstructions, per-step discrepancies weighted by later sensitivity bound the departure from a reference transport but give no testable prediction and do not say whether the act survives, which a reorganized constraint or a phase change can decide; approximate transports compose additively only under a triangle inequality and nonexpansive kernels; a chain can forget its start while staying far from the original; and attraction toward conventional stances, filtered by the transmitters' biases, is proposed, with chain evidence for evaluative stance only
+# SYNTHESIS-067: Along a chain of reconstructions, per-step discrepancies weighted by later sensitivity bound the departure from a reference transport but give no testable prediction and do not say whether the act survives, which a reorganized constraint or a phase change can decide; approximate transports compose additively only under a triangle inequality and nonexpansive kernels; a chain can forget its start while staying far from the original; and attraction toward conventional stances, filtered by the transmitters' biases, is proposed, with chain evidence for evaluative stance only
 
 *A part account of the pragmatic-transport line ("Contextual pragmatic
 information transport"): the part on repeated reconstruction chains, drift
@@ -340,7 +343,7 @@ step 5 at this review and not filed:
 
 The one link that passed, that exact conservation of a non-constant
 observable keeps information about the start at every generation, joins
-this account to the conservation account and is filed at this review as [CLAIM-tmp008ey](../claims.d/CLAIM-tmp008ey.md), which that account integrates.
+this account to the conservation account and is filed at this review as [CLAIM-635](../claims.d/CLAIM-635.md), which that account integrates.
 
 ## What it does not say
 

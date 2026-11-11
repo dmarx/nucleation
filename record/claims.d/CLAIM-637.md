@@ -1,5 +1,8 @@
 ---
+number: 637
 status: Proposed
+formerly:
+- CLAIM-tmpol63b
 title: 'The kernel fit of the restated observational distortion, and the Le Cam deficiency computed beside it, run in the garbling direction: in each context they vanish exactly when the target readers'' item tables are a garbling of the source readers'', so they bound what a rendering procedure adds about the item and charge nothing for what it loses, a procedure that renders every item alike scoring zero'
 version: 1
 role: thesis
@@ -39,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-228 CLAIM-005 ADR-075 — Proposed; the measure and theses this bears on, open -->
 
-# CLAIM-tmpol63b: The kernel fit of the restated observational distortion, and the Le Cam deficiency computed beside it, run in the garbling direction: in each context they vanish exactly when the target readers' item tables are a garbling of the source readers', so they bound what a rendering procedure adds about the item and charge nothing for what it loses, a procedure that renders every item alike scoring zero
+# CLAIM-637: The kernel fit of the restated observational distortion, and the Le Cam deficiency computed beside it, run in the garbling direction: in each context they vanish exactly when the target readers' item tables are a garbling of the source readers', so they bound what a rendering procedure adds about the item and charge nothing for what it loses, a procedure that renders every item alike scoring zero
 
 ## The claim
 

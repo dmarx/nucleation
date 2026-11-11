@@ -6,8 +6,8 @@
 
 **Compositionality** — how the structure and meaning of a whole come from its parts and how they are combined — the principle of compositionality and compositional semantics, the emergence of compositional structure in languages under transmission, and composition and binding in learned models (generalization to unseen combinations, attribute binding, composing distributions or concepts). A work on making a model generalize compositionally is ML practice and goes to the anthology (ADR-031).
 
-0 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 70 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-061](../../../record/syntheses.d/SYNTHESIS-061.md) | Conditional generation is a case for the pragmatic-transport theory and not a realization of it: adding scores composes two conditions exactly when a likelihood ratio does not vary with the noisy state, benchmarks show conjunctions and spatial and attribute bindings failing where single conditions are met, no benchmark the record has read measures the stance or uptake an image conveys, and what explains a given relational failure, and whether the path of a reconstruction is informative, are open |  | Proposed |

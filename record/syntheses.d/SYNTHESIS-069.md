@@ -1,5 +1,8 @@
 ---
+number: 69
 status: Proposed
+formerly:
+- SYNTHESIS-tmps2rzp
 title: 'A communicative object is a context-indexed system of empirical constraints whose global realizability is to be found out, not assumed: where it fails, the obstruction lies in the supports or distributions, not in the event sheaf, in contexts that do not overlap or in frames whose correspondence is fixed, and it is neither ordinary context dependence nor ambiguity; within a fixed scenario the headline that translation keeps local meanings while changing global structure has only constructed cases, since the behavioural data read show no contextuality proper, and it is carried forward as a change in which questions readers can decide, whose standing as a change of cover is disputed; translation operations form a semigroup of directed lossy maps whose invertible core is the relabellings; whether communicative categories form a concept lattice is open; and many of the line''s defeat conditions cannot be met by any study'
 version: 1
 defeated_if: >-
@@ -81,7 +84,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-069 TERM-002 — Superseded; cited as the history the components answer or replace -->
 <!-- inactive-ok-file: QUESTION-246 QUESTION-247 QUESTION-332 — Answered; cited with its standing -->
 
-# SYNTHESIS-tmps2rzp: A communicative object is a context-indexed system of empirical constraints whose global realizability is to be found out, not assumed: where it fails, the obstruction lies in the supports or distributions, not in the event sheaf, in contexts that do not overlap or in frames whose correspondence is fixed, and it is neither ordinary context dependence nor ambiguity; within a fixed scenario the headline that translation keeps local meanings while changing global structure has only constructed cases, since the behavioural data read show no contextuality proper, and it is carried forward as a change in which questions readers can decide, whose standing as a change of cover is disputed; translation operations form a semigroup of directed lossy maps whose invertible core is the relabellings; whether communicative categories form a concept lattice is open; and many of the line's defeat conditions cannot be met by any study
+# SYNTHESIS-069: A communicative object is a context-indexed system of empirical constraints whose global realizability is to be found out, not assumed: where it fails, the obstruction lies in the supports or distributions, not in the event sheaf, in contexts that do not overlap or in frames whose correspondence is fixed, and it is neither ordinary context dependence nor ambiguity; within a fixed scenario the headline that translation keeps local meanings while changing global structure has only constructed cases, since the behavioural data read show no contextuality proper, and it is carried forward as a change in which questions readers can decide, whose standing as a change of cover is disputed; translation operations form a semigroup of directed lossy maps whose invertible core is the relabellings; whether communicative categories form a concept lattice is open; and many of the line's defeat conditions cannot be met by any study
 
 *A part account of the pragmatic-transport line: the part on the
 communicative object as context-indexed constraints, on where and how such

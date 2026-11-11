@@ -1,5 +1,8 @@
 ---
+number: 635
 status: Proposed
+formerly:
+- CLAIM-tmp008ey
 title: 'Under Markov reconstruction kernels, an observable conserved exactly at every step and not constant on the support of the starting law keeps information about the start at every generation, bounded below independently of the generation, so such a chain cannot converge to a law independent of its start, while a bounded conservation defect does not prevent forgetting'
 version: 1
 role: thesis
@@ -40,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-068 ADR-075 — Proposed; cited for the convergence this claim excludes, open -->
 
-# CLAIM-tmp008ey: Under Markov reconstruction kernels, an observable conserved exactly at every step and not constant on the support of the starting law keeps information about the start at every generation, bounded below independently of the generation, so such a chain cannot converge to a law independent of its start, while a bounded conservation defect does not prevent forgetting
+# CLAIM-635: Under Markov reconstruction kernels, an observable conserved exactly at every step and not constant on the support of the starting law keeps information about the start at every generation, bounded below independently of the generation, so such a chain cannot converge to a law independent of its start, while a bounded conservation defect does not prevent forgetting
 
 ## The claim
 

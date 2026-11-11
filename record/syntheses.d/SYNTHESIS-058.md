@@ -1,5 +1,8 @@
 ---
+number: 58
 status: Proposed
+formerly:
+- SYNTHESIS-tmp2p39p
 title: 'Keeping the proposition does not keep the act: renderings that keep it can perform a different act, a rendering judged to keep the act while changing the proposition has one documented case, which a coarser proposition answers, understanding and the situation of saying are offered as what a rendering must also keep, and none of it is yet measured, since no measure of footing or stance is validated, the exchange''s chains and harness gave no result, and the tests pool unnamed judges'
 version: 1
 defeated_if: >-
@@ -60,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited as CASE-056 reports it -->
 
 
-# SYNTHESIS-tmp2p39p: Keeping the proposition does not keep the act: renderings that keep it can perform a different act, a rendering judged to keep the act while changing the proposition has one documented case, which a coarser proposition answers, understanding and the situation of saying are offered as what a rendering must also keep, and none of it is yet measured, since no measure of footing or stance is validated, the exchange's chains and harness gave no result, and the tests pool unnamed judges
+# SYNTHESIS-058: Keeping the proposition does not keep the act: renderings that keep it can perform a different act, a rendering judged to keep the act while changing the proposition has one documented case, which a coarser proposition answers, understanding and the situation of saying are offered as what a rendering must also keep, and none of it is yet measured, since no measure of footing or stance is validated, the exchange's chains and harness gave no result, and the tests pool unnamed judges
 
 *A part account of the pragmatic-transport line: the part on renderings
 that keep the proposition and change the act, footing and stance, filed

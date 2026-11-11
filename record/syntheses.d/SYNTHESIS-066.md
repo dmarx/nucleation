@@ -1,5 +1,8 @@
 ---
+number: 66
 status: Proposed
+formerly:
+- SYNTHESIS-tmpk0nka
 title: 'The pragmatic-transport line is twelve part accounts, of communicative kinds, of fidelity relative to receivers, of the communicative object and its obstructions, of what the line adds and how it is tested, of language models as a test bed, of composition in conditional generation, of directed transport by kernels, of the act a rendering keeps besides its proposition, of Saussure''s value, of frames and the judgement–observation loop, of reconstruction chains, and of conservation under kernels, with eleven moved promotion conditions integrated directly; the parts meet at what survives a rendering, which most of their questions refine, at the anchoring of a correspondence, at fidelity as a profile and at the frame as a configuration; four claims are filed by derivation and no link between the parts passes the claim test'
 version: 1
 defeated_if: >-
@@ -15,18 +18,18 @@ date: '2026-11-11'
 line:
 - pragmatic-transport
 integrates:
-- SYNTHESIS-tmpq17fb
-- SYNTHESIS-tmpdk9nd
-- SYNTHESIS-tmps2rzp
-- SYNTHESIS-tmptr0l3
-- SYNTHESIS-tmp3urdo
-- SYNTHESIS-tmp7t3cw
-- SYNTHESIS-tmpcdg8u
-- SYNTHESIS-tmp2p39p
-- SYNTHESIS-tmpg8qer
-- SYNTHESIS-tmpa2362
-- SYNTHESIS-tmplxxfq
-- SYNTHESIS-tmp48v4a
+- SYNTHESIS-068
+- SYNTHESIS-064
+- SYNTHESIS-069
+- SYNTHESIS-070
+- SYNTHESIS-059
+- SYNTHESIS-061
+- SYNTHESIS-063
+- SYNTHESIS-058
+- SYNTHESIS-065
+- SYNTHESIS-062
+- SYNTHESIS-067
+- SYNTHESIS-060
 - QUESTION-167
 - QUESTION-209
 - QUESTION-177
@@ -46,11 +49,11 @@ summary: >-
   from the review by derivation, each integrated by its part's account.
   The account adds nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-083 ARG-019 CLAIM-004 CLAIM-005 CLAIM-044 CLAIM-052 CLAIM-064 CLAIM-068 CLAIM-078 CLAIM-117 CLAIM-128 CLAIM-137 CLAIM-138 CLAIM-142 CLAIM-151 CLAIM-160 CLAIM-201 CLAIM-202 CLAIM-204 CLAIM-217 CLAIM-220 CLAIM-228 CLAIM-244 CLAIM-tmp008ey CLAIM-tmpmte91 CLAIM-tmpol63b CLAIM-tmptimdb SYNTHESIS-tmp2p39p SYNTHESIS-tmp3urdo SYNTHESIS-tmp48v4a SYNTHESIS-tmp7t3cw SYNTHESIS-tmpa2362 SYNTHESIS-tmpcdg8u SYNTHESIS-tmpdk9nd SYNTHESIS-tmpg8qer SYNTHESIS-tmplxxfq SYNTHESIS-tmpq17fb SYNTHESIS-tmps2rzp SYNTHESIS-tmptr0l3 — Proposed; the part accounts, the claims filed at this review, the decisions and components cited, with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-083 ARG-019 CLAIM-004 CLAIM-005 CLAIM-044 CLAIM-052 CLAIM-064 CLAIM-068 CLAIM-078 CLAIM-117 CLAIM-128 CLAIM-137 CLAIM-138 CLAIM-142 CLAIM-151 CLAIM-160 CLAIM-201 CLAIM-202 CLAIM-204 CLAIM-217 CLAIM-220 CLAIM-228 CLAIM-244 CLAIM-635 CLAIM-636 CLAIM-637 CLAIM-638 SYNTHESIS-058 SYNTHESIS-059 SYNTHESIS-060 SYNTHESIS-061 SYNTHESIS-062 SYNTHESIS-063 SYNTHESIS-064 SYNTHESIS-065 SYNTHESIS-067 SYNTHESIS-068 SYNTHESIS-069 SYNTHESIS-070 — Proposed; the part accounts, the claims filed at this review, the decisions and components cited, with their standing -->
 <!-- inactive-ok-file: ARG-002 ARG-012 ARG-013 ARG-021 — Rejected; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-005 SYNTHESIS-011 — Superseded; named as not integrated -->
 
-# SYNTHESIS-tmpk0nka: The pragmatic-transport line is twelve part accounts, of communicative kinds, of fidelity relative to receivers, of the communicative object and its obstructions, of what the line adds and how it is tested, of language models as a test bed, of composition in conditional generation, of directed transport by kernels, of the act a rendering keeps besides its proposition, of Saussure's value, of frames and the judgement–observation loop, of reconstruction chains, and of conservation under kernels, with eleven moved promotion conditions integrated directly; the parts meet at what survives a rendering, which most of their questions refine, at the anchoring of a correspondence, at fidelity as a profile and at the frame as a configuration; four claims are filed by derivation and no link between the parts passes the claim test
+# SYNTHESIS-066: The pragmatic-transport line is twelve part accounts, of communicative kinds, of fidelity relative to receivers, of the communicative object and its obstructions, of what the line adds and how it is tested, of language models as a test bed, of composition in conditional generation, of directed transport by kernels, of the act a rendering keeps besides its proposition, of Saussure's value, of frames and the judgement–observation loop, of reconstruction chains, and of conservation under kernels, with eleven moved promotion conditions integrated directly; the parts meet at what survives a rendering, which most of their questions refine, at the anchoring of a correspondence, at fidelity as a profile and at the frame as a configuration; four claims are filed by derivation and no link between the parts passes the claim test
 
 *The account of the pragmatic-transport line, over the accounts of its
 parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose `line` includes
@@ -66,59 +69,59 @@ from contextuality. The Superseded entries that carry the line,
 
 ## The parts
 
-- **Communicative kinds ([SYNTHESIS-tmpq17fb](SYNTHESIS-tmpq17fb.md)), 78 entries.** A
+- **Communicative kinds ([SYNTHESIS-068](SYNTHESIS-068.md)), 78 entries.** A
   communicative kind is a repeatable relational organization that
   distinct events realize, proposed as partly constituted by relations to
   roles, norms and expected uptake ([CLAIM-151](../claims.d/CLAIM-151.md), [CLAIM-204](../claims.d/CLAIM-204.md), both Proposed),
   and recognized through probes that fix it only relative to the family
   used. Its hubs are [CLAIM-151](../claims.d/CLAIM-151.md), [TERM-040](../terms.d/TERM-040.md), [QUESTION-029](../questions.d/QUESTION-029.md), [CLAIM-137](../claims.d/CLAIM-137.md) and
   [CLAIM-217](../claims.d/CLAIM-217.md).
-- **Fidelity relative to receivers ([SYNTHESIS-tmpdk9nd](SYNTHESIS-tmpdk9nd.md)), 77 entries.**
+- **Fidelity relative to receivers ([SYNTHESIS-064](SYNTHESIS-064.md)), 77 entries.**
   Blackwell's order on rendering procedures sets the ceiling a rendering puts on report decisions ([CLAIM-050](../claims.d/CLAIM-050.md), [CLAIM-199](../claims.d/CLAIM-199.md)); fidelity is a profile of directed
   distortions ([TERM-043](../terms.d/TERM-043.md)) that only a task's weighting ranks ([CLAIM-128](../claims.d/CLAIM-128.md), Proposed);
   and it is relative to the receivers' decisions ([CLAIM-050](../claims.d/CLAIM-050.md)). It holds the
   line's root question, [QUESTION-002](../questions.d/QUESTION-002.md), and the claim filed with it,
-  [CLAIM-tmpmte91](../claims.d/CLAIM-tmpmte91.md).
-- **The communicative object ([SYNTHESIS-tmps2rzp](SYNTHESIS-tmps2rzp.md)), 57 entries.** A
+  [CLAIM-636](../claims.d/CLAIM-636.md).
+- **The communicative object ([SYNTHESIS-069](SYNTHESIS-069.md)), 57 entries.** A
   communicative object is a context-indexed system of empirical
   constraints over a cover of contexts ([CLAIM-038](../claims.d/CLAIM-038.md)), whose global
   realizability is to be found out; local descriptions that disagree are
   not thereby incompatible ([CLAIM-143](../claims.d/CLAIM-143.md)); ambiguity and contextuality differ
   ([CLAIM-044](../claims.d/CLAIM-044.md), Proposed); and the behavioural data read show no
   contextuality proper.
-- **What the line adds and how it is tested ([SYNTHESIS-tmptr0l3](SYNTHESIS-tmptr0l3.md)), 24
+- **What the line adds and how it is tested ([SYNTHESIS-070](SYNTHESIS-070.md)), 24
   entries.** What the line adds is placed, after conceded prior art, in a
   testable account ([CLAIM-202](../claims.d/CLAIM-202.md), [CLAIM-220](../claims.d/CLAIM-220.md), both Proposed) whose
   discriminating study ([CASE-055](../cases.d/CASE-055.md)) has not been run.
-- **Language models as a test bed ([SYNTHESIS-tmp3urdo](SYNTHESIS-tmp3urdo.md)), 8 entries.** A
+- **Language models as a test bed ([SYNTHESIS-059](SYNTHESIS-059.md)), 8 entries.** A
   test bed only with generator and evaluator separated, stimuli held out
   and agreement across model families.
-- **Composition in conditional generation ([SYNTHESIS-tmp7t3cw](SYNTHESIS-tmp7t3cw.md)), 9
+- **Composition in conditional generation ([SYNTHESIS-061](SYNTHESIS-061.md)), 9
   entries.** A case for the theory and not a realization of it.
-- **Directed transport by kernels ([SYNTHESIS-tmpcdg8u](SYNTHESIS-tmpcdg8u.md)), 40 entries.**
-  Directed transport keeps overlap consistency and global extendability under two sufficient conditions, but constrains a translation only as a property of a rendering procedure ([CLAIM-207](../claims.d/CLAIM-207.md); [CLAIM-228](../claims.d/CLAIM-228.md), Proposed); a transport is admissible only if it keeps specified distinctions apart ([CLAIM-077](../claims.d/CLAIM-077.md)), and intertwining with an uninformative correspondence is vacuous or lossy ([CLAIM-011](../claims.d/CLAIM-011.md)). Decision-relevant information across a change of cover stays open ([CLAIM-125](../claims.d/CLAIM-125.md)). It integrates the two claims filed with it, [CLAIM-tmpol63b](../claims.d/CLAIM-tmpol63b.md)
-  and [CLAIM-tmptimdb](../claims.d/CLAIM-tmptimdb.md).
-- **The act a rendering keeps ([SYNTHESIS-tmp2p39p](SYNTHESIS-tmp2p39p.md)), 27 entries.**
+- **Directed transport by kernels ([SYNTHESIS-063](SYNTHESIS-063.md)), 40 entries.**
+  Directed transport keeps overlap consistency and global extendability under two sufficient conditions, but constrains a translation only as a property of a rendering procedure ([CLAIM-207](../claims.d/CLAIM-207.md); [CLAIM-228](../claims.d/CLAIM-228.md), Proposed); a transport is admissible only if it keeps specified distinctions apart ([CLAIM-077](../claims.d/CLAIM-077.md)), and intertwining with an uninformative correspondence is vacuous or lossy ([CLAIM-011](../claims.d/CLAIM-011.md)). Decision-relevant information across a change of cover stays open ([CLAIM-125](../claims.d/CLAIM-125.md)). It integrates the two claims filed with it, [CLAIM-637](../claims.d/CLAIM-637.md)
+  and [CLAIM-638](../claims.d/CLAIM-638.md).
+- **The act a rendering keeps ([SYNTHESIS-058](SYNTHESIS-058.md)), 27 entries.**
   Renderings that keep the proposition can perform a different act
   ([CLAIM-061](../claims.d/CLAIM-061.md)), and no measure of footing or stance is validated.
-- **Saussure's value ([SYNTHESIS-tmpg8qer](SYNTHESIS-tmpg8qer.md)), 7 entries.** Value is fixed by
+- **Saussure's value ([SYNTHESIS-065](SYNTHESIS-065.md)), 7 entries.** Value is fixed by
   contrast within one language state; whether it supports transport is
   open.
-- **Frames and the loop ([SYNTHESIS-tmpa2362](SYNTHESIS-tmpa2362.md)), 34 entries.** A frame is an
+- **Frames and the loop ([SYNTHESIS-062](SYNTHESIS-062.md)), 34 entries.** A frame is an
   operation on an interpretive state ([TERM-026](../terms.d/TERM-026.md)); telling an interpreter
   about a situation is a different intervention from changing it
   ([CLAIM-130](../claims.d/CLAIM-130.md)); and what keeps a judgement–observation loop from
   confirming itself is evidence that does not pass through the
   interpretation it tests ([CLAIM-342](../claims.d/CLAIM-342.md)). Several of its members are first
   in distributed-agency.
-- **Reconstruction chains ([SYNTHESIS-tmplxxfq](SYNTHESIS-tmplxxfq.md)), 17 entries.** Local
+- **Reconstruction chains ([SYNTHESIS-067](SYNTHESIS-067.md)), 17 entries.** Local
   transport errors along a chain are bounded by per-step discrepancies
   weighted by later sensitivity ([CLAIM-056](../claims.d/CLAIM-056.md)), and repeated reconstruction
   is proposed as attraction toward conventional regions ([CLAIM-068](../claims.d/CLAIM-068.md),
   Proposed).
-- **Conservation under kernels ([SYNTHESIS-tmp48v4a](SYNTHESIS-tmp48v4a.md)), 6 entries.** A
+- **Conservation under kernels ([SYNTHESIS-060](SYNTHESIS-060.md)), 6 entries.** A
   conservation law for reconstruction kernels has to be derived
-  ([CLAIM-107](../claims.d/CLAIM-107.md)), and the claim filed with it, [CLAIM-tmp008ey](../claims.d/CLAIM-tmp008ey.md), says exact
+  ([CLAIM-107](../claims.d/CLAIM-107.md)), and the claim filed with it, [CLAIM-635](../claims.d/CLAIM-635.md), says exact
   conservation keeps information about the start.
 
 ## Integrated directly
@@ -175,18 +178,18 @@ relation or a mention in either's body or summary, there are 1,692 pairs,
 
 | Account | Entries | Pairs within | Pairs across |
 |---|---|---|---|
-| [SYNTHESIS-tmpq17fb](SYNTHESIS-tmpq17fb.md) | 78 | 290 | 222 |
-| [SYNTHESIS-tmpdk9nd](SYNTHESIS-tmpdk9nd.md) | 77 | 223 | 253 |
-| [SYNTHESIS-tmps2rzp](SYNTHESIS-tmps2rzp.md) | 57 | 159 | 147 |
-| [SYNTHESIS-tmptr0l3](SYNTHESIS-tmptr0l3.md) | 24 | 64 | 178 |
-| [SYNTHESIS-tmp3urdo](SYNTHESIS-tmp3urdo.md) | 8 | 13 | 22 |
-| [SYNTHESIS-tmp7t3cw](SYNTHESIS-tmp7t3cw.md) | 9 | 14 | 7 |
-| [SYNTHESIS-tmpcdg8u](SYNTHESIS-tmpcdg8u.md) | 40 | 106 | 153 |
-| [SYNTHESIS-tmp2p39p](SYNTHESIS-tmp2p39p.md) | 27 | 62 | 93 |
-| [SYNTHESIS-tmpg8qer](SYNTHESIS-tmpg8qer.md) | 7 | 13 | 10 |
-| [SYNTHESIS-tmpa2362](SYNTHESIS-tmpa2362.md) | 34 | 81 | 90 |
-| [SYNTHESIS-tmplxxfq](SYNTHESIS-tmplxxfq.md) | 17 | 35 | 50 |
-| [SYNTHESIS-tmp48v4a](SYNTHESIS-tmp48v4a.md) | 6 | 12 | 13 |
+| [SYNTHESIS-068](SYNTHESIS-068.md) | 78 | 290 | 222 |
+| [SYNTHESIS-064](SYNTHESIS-064.md) | 77 | 223 | 253 |
+| [SYNTHESIS-069](SYNTHESIS-069.md) | 57 | 159 | 147 |
+| [SYNTHESIS-070](SYNTHESIS-070.md) | 24 | 64 | 178 |
+| [SYNTHESIS-059](SYNTHESIS-059.md) | 8 | 13 | 22 |
+| [SYNTHESIS-061](SYNTHESIS-061.md) | 9 | 14 | 7 |
+| [SYNTHESIS-063](SYNTHESIS-063.md) | 40 | 106 | 153 |
+| [SYNTHESIS-058](SYNTHESIS-058.md) | 27 | 62 | 93 |
+| [SYNTHESIS-065](SYNTHESIS-065.md) | 7 | 13 | 10 |
+| [SYNTHESIS-062](SYNTHESIS-062.md) | 34 | 81 | 90 |
+| [SYNTHESIS-067](SYNTHESIS-067.md) | 17 | 35 | 50 |
+| [SYNTHESIS-060](SYNTHESIS-060.md) | 6 | 12 | 13 |
 | integrated directly | 11 | 1 | 0 |
 
 The largest crossings are fidelity with kinds (57 pairs) and with
@@ -215,17 +218,17 @@ Each passed [ADR-075](../decisions.d/ADR-075.md)'s step 5 by derivation, and eac
 "Admission" section that it is a short composition, which is the owner's
 to weigh.
 
-- **[CLAIM-tmp008ey](../claims.d/CLAIM-tmp008ey.md)** (conservation): an exactly conserved observable that
+- **[CLAIM-635](../claims.d/CLAIM-635.md)** (conservation): an exactly conserved observable that
   is not constant where the chain starts keeps information about the
   start at every generation, so such a chain cannot settle on a law
   independent of its start.
-- **[CLAIM-tmpol63b](../claims.d/CLAIM-tmpol63b.md)** (kernels): the restated observational distortion and
+- **[CLAIM-637](../claims.d/CLAIM-637.md)** (kernels): the restated observational distortion and
   its Le Cam deficiency vanish exactly on garblings, so they charge a
   rendering nothing for what it loses.
-- **[CLAIM-tmptimdb](../claims.d/CLAIM-tmptimdb.md)** (kernels): under one kernel for both orders, a
+- **[CLAIM-638](../claims.d/CLAIM-638.md)** (kernels): under one kernel for both orders, a
   rendering's order effect can grow by at most its two distortions;
   kernels fitted per order bound nothing.
-- **[CLAIM-tmpmte91](../claims.d/CLAIM-tmpmte91.md)** (fidelity): where a literal rendering loses nothing
+- **[CLAIM-636](../claims.d/CLAIM-636.md)** (fidelity): where a literal rendering loses nothing
   on the declared report problems, a compensating rendering made from the
   source alone is never the better report for an ideal receiver.
 
@@ -236,18 +239,18 @@ not filed:
 
 - **What survives as one quantity.** That the parts answer [QUESTION-002](../questions.d/QUESTION-002.md)
   with one object, a receiver-relative profile over a cover of contexts
-  ([SYNTHESIS-tmpdk9nd](SYNTHESIS-tmpdk9nd.md) with [SYNTHESIS-tmps2rzp](SYNTHESIS-tmps2rzp.md) and [SYNTHESIS-tmpq17fb](SYNTHESIS-tmpq17fb.md)):
+  ([SYNTHESIS-064](SYNTHESIS-064.md) with [SYNTHESIS-069](SYNTHESIS-069.md) and [SYNTHESIS-068](SYNTHESIS-068.md)):
   [CLAIM-204](../claims.d/CLAIM-204.md) and [CLAIM-220](../claims.d/CLAIM-220.md) each state their part of it, and the
   conjunction adds nothing they do not.
 - **Anchoring as the line's one condition.** That [CLAIM-011](../claims.d/CLAIM-011.md)'s anchoring,
   [CLAIM-342](../claims.d/CLAIM-342.md)'s independent evidence and [CLAIM-217](../claims.d/CLAIM-217.md)'s competent uptake are
-  one requirement ([SYNTHESIS-tmpcdg8u](SYNTHESIS-tmpcdg8u.md), [SYNTHESIS-tmpa2362](SYNTHESIS-tmpa2362.md),
-  [SYNTHESIS-tmpq17fb](SYNTHESIS-tmpq17fb.md)): a free parameter, what the independent measure is
+  one requirement ([SYNTHESIS-063](SYNTHESIS-063.md), [SYNTHESIS-062](SYNTHESIS-062.md),
+  [SYNTHESIS-068](SYNTHESIS-068.md)): a free parameter, what the independent measure is
   in each, and the frames reader found "passes through the interpreter"
   equivocal between [CLAIM-130](../claims.d/CLAIM-130.md) and [CLAIM-342](../claims.d/CLAIM-342.md).
-- **Order effects as frames that do not commute.** That [CLAIM-tmptimdb](../claims.d/CLAIM-tmptimdb.md)'s
+- **Order effects as frames that do not commute.** That [CLAIM-638](../claims.d/CLAIM-638.md)'s
   bound is [CLAIM-052](../claims.d/CLAIM-052.md)'s non-commutation measured on renderings
-  ([SYNTHESIS-tmpcdg8u](SYNTHESIS-tmpcdg8u.md) with [SYNTHESIS-tmpa2362](SYNTHESIS-tmpa2362.md)): [CLAIM-117](../claims.d/CLAIM-117.md) (Proposed) already rests on [CLAIM-052](../claims.d/CLAIM-052.md) and states the link at the level of intertwining framing operations.
+  ([SYNTHESIS-063](SYNTHESIS-063.md) with [SYNTHESIS-062](SYNTHESIS-062.md)): [CLAIM-117](../claims.d/CLAIM-117.md) (Proposed) already rests on [CLAIM-052](../claims.d/CLAIM-052.md) and states the link at the level of intertwining framing operations.
 
 ## What it does not say
 
