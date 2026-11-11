@@ -4,7 +4,26 @@ status: Open
 formerly:
 - QUESTION-tmppfksp
 title: 'Can improving the interpreter substitute for information transmitted in the utterance, and at what rate–distortion trade-off?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the by-topic reading review of
+    2026-11-11, at the status review's ruling (the owner delegated
+    these rulings). "Evidence since" read Akyürek et al.'s test-time
+    training as improving the interpreter: "Akyürek et al. (LIT-796)
+    get more from the same demonstrations by improving the
+    interpreter (test-time training) than by conditioning alone. That
+    is direct evidence that adaptation can stand in for transmitted
+    information." The ninth status review restated CLAIM-074 by what
+    each history carries (its version 2), and the tenth ruled that a
+    test-time update discarded after the task is part of what the
+    context supplies, taking THEORY-439 out of CLAIM-118's
+    corroborated_by (CLAIM-118 versions 3 and 4). The paragraph now
+    reads the result that way: two uses of one context differ, and
+    it is not evidence that adaptation substitutes for transmitted
+    information. The question as posed is unchanged.
 tags:
 - information-theory
 - philosophy-of-language
@@ -47,10 +66,13 @@ target results.
 
 ## Evidence since
 
-Akyürek et al. ([LIT-796](../literature.d/LIT-796.md)) get more from the same demonstrations by
-improving the interpreter (test-time training) than by conditioning alone.
-That is direct evidence that adaptation can stand in for transmitted
-information. Min et al. ([LIT-814](../literature.d/LIT-814.md)) find that the correctness of the
+Akyürek et al. (LIT-796, read as THEORY-439) get more from the same
+demonstrations by temporarily updating the weights on them (test-time
+training) than by conditioning alone. The update is discarded after the
+task, so by the record's ruling it is part of what the context supplies,
+not an improvement to the interpreter (CLAIM-074; CLAIM-118). It shows
+that two uses of one context differ, not that adaptation can stand in for
+transmitted information. Min et al. (LIT-814) find that the correctness of the
 labels carries little of what a context transmits.
 
 ## Note of 2026-10-11: material in the record that may bear on this

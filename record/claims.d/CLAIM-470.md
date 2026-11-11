@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -40,6 +40,17 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    From the by-topic reading review of 2026-11-11, at the status
+    review's ruling (the owner delegated these rulings; ADR-058).
+    LIT-1652 leaves grounds. The body uses counterexample-guided
+    abstraction refinement as "the formal case", an instance of
+    refining within a fixed answer space, and its readings
+    THEORY-1064 and THEORY-1094 already corroborate this claim;
+    the claim does not rest on the work. The body keeps the
+    citation. The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,7 +78,6 @@ corroborates:
 - CLAIM-477
 grounds:
 - LIT-988
-- LIT-1652
 uses:
 - TERM-065
 - TERM-095

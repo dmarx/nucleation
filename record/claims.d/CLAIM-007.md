@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmp1kc7j
 title: 'In a bridge or chain of progressive reconstruction the path itself is observable: which constraints survive early, which are introduced late, and which relations emerge only through refinement'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    From the by-topic reading review of 2026-11-11, at the status
+    review's ruling (the owner delegated these rulings; ADR-058).
+    LIT-776 leaves grounds. The claim is A97's programme of
+    observing a bridge's path; the work (Shi et al., 2022, read as
+    THEORY-515) is the manuscript's citation for conditional
+    simulation by a bridge, and holds nothing about what is
+    observable along the path, so it frames the claim and is not
+    evidence for it. A sentence under "Where it went" now names
+    the work and its reading, so the body keeps the citation. The
+    claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -15,8 +29,6 @@ tags:
 - probabilistic-modeling
 date: '2026-10-08'
 line: pragmatic-transport
-grounds:
-- LIT-776
 summary: >-
   A97 §3 on Schrödinger bridges, recovered. The manuscript keeps the
   bridge only as "a complementary path-space viewpoint" (§7); the
@@ -42,6 +54,10 @@ Manuscript §7: "Schrödinger bridges offer a complementary path-space viewpoint
 simulation (Shi et al., 2022)." Nothing is observed along the path. It is the
 diffusion-side counterpart of the pragmatic phase change ([CLAIM-114](CLAIM-114.md)). It
 is not the same as historical drift ([CLAIM-071](CLAIM-071.md)).
+Shi et al. is LIT-776, read as THEORY-515: a bridge on the joint space
+with the observation held fixed solves conditional simulation. What the
+reading holds is about the bridge's endpoints, not about what is fixed
+along the path.
 
 The crystallized argument's §17 gave the rationale its last form: "the bridge
 perspective is useful because intermediate states may matter. A generative

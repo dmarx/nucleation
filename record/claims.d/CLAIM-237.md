@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkf8pe
 title: 'The first open problem of directed transport is not yet posed: a contextual model is a menu of incompatible experiments, and under the natural order on menus any state-independent classical simulation is dominated automatically, so what is open is only the converse or a deficiency bound'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -15,6 +15,15 @@ history:
     scenarios, so it is covered by THEORY-717 (Active) whenever the
     situations z are finitely many. THEORY-156 stays as the ground
     otherwise. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the by-topic reading review of
+    2026-11-11: the note of 2026-10-27 says THEORY-174's
+    characterization half stays Proposed. THEORY-174 was promoted
+    on 2026-10-29. A dated correction after the note says so, as
+    CLAIM-121, CLAIM-125 and CLAIM-245 carry; the note is kept as
+    written and the grounds are unchanged. No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -150,3 +159,8 @@ refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does n
 characterization, that a map is such a simulation exactly when a
 non-contextual model of the hom scenario induces it. That half waits on an
 independent proof of the corrected Theorem 44 and stays Proposed.
+
+Correction of 2026-11-11: THEORY-174 is Active since the fifteenth status
+review (2026-10-29), on a checked re-derivation of the corrected Theorem 44
+(its note of 2026-10-29). This claim's grounds are unchanged, and
+THEORY-174 is not among them.

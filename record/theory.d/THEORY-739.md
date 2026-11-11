@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpppb1u
 title: 'For the quartic proxy of word2vec with tied weights, symmetric reweighting and constant weights, the rank-d minimisers are the top d eigenvectors of the relative deviation-from-independence matrix M*, scaled by the square roots of their eigenvalues, up to rotation; and from an initialisation aligned with those eigenvectors, gradient flow acquires each one in an independent logistic rise, in order of eigenvalue'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -17,6 +17,17 @@ history:
     and Proposition 2, which NOTE-660 followed step by step. It was
     re-derived for the split, written out below (ADR-047 v2). THEORY-182
     keeps the rest and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Adds corroborates CLAIM-082, from the by-topic reading review of
+    2026-11-11, at the status review's ruling (the owner delegated
+    these rulings). CLAIM-082 cited THEORY-182 for 'a close proxy of
+    word2vec in closed form', which is this reading's result; it now
+    cites this one as its instance of identity by relations within a
+    system ('The minimising embeddings are the top eigenvectors of one
+    matrix'). The claim does not rest on it. The reading is
+    unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -32,6 +43,8 @@ summary: >-
   eigenbasis and reduces each mode to a logistic equation. It does not say
   that word2vec, or the proxy from random initialisation, behaves this
   way; that is [THEORY-182](THEORY-182.md)'s.
+corroborates:
+- CLAIM-082
 ---
 <!-- inactive-ok-file: THEORY-182 — Proposed; the account this core was split from and that extends it, cited as open -->
 

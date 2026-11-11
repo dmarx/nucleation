@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmpjl8xd
 title: 'Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the by-topic reading review of
+    2026-11-11: the note of 2026-10-27 says THEORY-174's
+    characterization half stays Proposed. THEORY-174 was promoted
+    on 2026-10-29. A dated correction after the note says so, as
+    CLAIM-121, CLAIM-125 and CLAIM-245 carry; the note is kept as
+    written and the grounds are unchanged. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -89,3 +99,8 @@ refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does n
 characterization, that a map is such a simulation exactly when a
 non-contextual model of the hom scenario induces it. That half waits on an
 independent proof of the corrected Theorem 44 and stays Proposed.
+
+Correction of 2026-11-11: THEORY-174 is Active since the fifteenth status
+review (2026-10-29), on a checked re-derivation of the corrected Theorem 44
+(its note of 2026-10-29). This claim's grounds are unchanged, and
+THEORY-174 is not among them.

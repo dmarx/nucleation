@@ -4,7 +4,22 @@ status: Open
 formerly:
 - QUESTION-tmpybmwx
 title: 'Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Citations corrected, from the by-topic reading review of
+    2026-11-11, at the status review's ruling (the owner delegated
+    these rulings). "What would answer it" named THEORY-286 for the
+    endpoint geometry under imbalance: "Under imbalance the geometry
+    to test is that of THEORY-286, not equiangularity", and
+    "LIT-994 gives an endpoint, not a gradient-descent derivation
+    (THEORY-286)". The endpoint is THEORY-738's, Active since its
+    split from THEORY-286 on 2026-10-19; THEORY-286 keeps the
+    conjecture that gradient descent reaches it. Both sentences now
+    cite THEORY-738, and the second names THEORY-286 for the
+    conjecture. The question as posed is unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -20,6 +35,7 @@ summary: >-
   Whether collapse holds outside that protocol, and why training reaches
   it, is open.
 ---
+<!-- inactive-ok-file: THEORY-286 — Proposed; the conjecture that training reaches the endpoint, cited as open -->
 
 # QUESTION-202: Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?
 
@@ -39,12 +55,13 @@ the title was narrowed to those runs.
 - Measurements of NC1 and NC2 through the terminal phase under data
   augmentation, label noise and several seeds per setting, and of NC1
   under class imbalance. Under imbalance the geometry to test is that of
-  [THEORY-286](../theory.d/THEORY-286.md), not equiangularity: NC2 is predicted for balanced classes
+  THEORY-738, not equiangularity: NC2 is predicted for balanced classes
   only.
 - A held paper that derives collapse as the limit of gradient descent on
   cross-entropy. [LIT-974](../literature.d/LIT-974.md) derives it for MSE under a re-whitened flow
   ([THEORY-278](../theory.d/THEORY-278.md)), and [LIT-994](../literature.d/LIT-994.md) gives an endpoint, not a gradient-descent
-  derivation ([THEORY-286](../theory.d/THEORY-286.md)).
+  derivation (THEORY-738; that training reaches it is THEORY-286's
+  conjecture).
 
 It would be answered in the negative if standard training run well past
 zero error leaves within-class variability of last-layer features flat, or,

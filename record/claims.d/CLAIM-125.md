@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpnyfix
 title: 'Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-10'
@@ -45,6 +45,15 @@ history:
     argument", repeats version 1's reading that signalling is typical of
     language data, which version 2 withdrew, and gives version 2's
     position. No other change.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the by-topic reading review of
+    2026-11-11: the note of 2026-10-27 says THEORY-174's
+    characterization half stays Proposed. THEORY-174 was promoted
+    on 2026-10-29. A dated correction after the note says so, as
+    CLAIM-121 and CLAIM-245 carry; the note is kept as written and
+    the grounds are unchanged. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -246,6 +255,11 @@ refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does n
 characterization, that a map is such a simulation exactly when a
 non-contextual model of the hom scenario induces it. That half waits on an
 independent proof of the corrected Theorem 44 and stays Proposed.
+
+Correction of 2026-11-11: THEORY-174 is Active since the fifteenth status
+review (2026-10-29), on a checked re-derivation of the corrected Theorem 44
+(its note of 2026-10-29). This claim's grounds are unchanged, and
+THEORY-174 is not among them.
 
 ## Note of 2026-10-29: promoted
 

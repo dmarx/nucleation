@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmand1
 title: 'Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,22 @@ history:
     The eighth status review (ADR-057). CLAIM-405 moves from
     complements to rests_on: the body says this claim 'needs' it for
     its 'partly fixed'. The text is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the by-topic reading review of
+    2026-11-11, at the status review's ruling (the owner delegated
+    these rulings). "What it does not say" called Goguen and
+    Burstall unread: "Goguen and Burstall's theory–model connection
+    (LIT-1661, unread) relates the two 'without either being
+    ontologically prior'." NOTE-1348 read the paper in full on
+    2026-10-29. The words "without either being ontologically prior"
+    are A9's, which NOTE-1348 quotes as A9's; they are not the
+    paper's, and are in no reading. The sentence now says the paper
+    is read, gives what NOTE-1348 finds (closed theories and closed
+    model classes fix each other, over a fixed signature), and
+    attributes the quoted words to A9. Edges, status and warrant
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -143,8 +159,12 @@ structures come to persist.
 - **Not that a specification produces its realizations.** A9 §1:
   "model theory alone doesn't establish that the specification *causes* its
   models to exist. Mathematical satisfaction is not physical production."
-  Goguen and Burstall's theory–model connection ([LIT-1661](../literature.d/LIT-1661.md), unread)
-  relates the two "without either being ontologically prior".
+  Goguen and Burstall's theory–model connection (LIT-1661, read in
+  NOTE-1348) relates the two with neither defined from the other:
+  within an institution a theory is fixed by its model class and a model
+  class by its theory, up to closure (p. 104), though signatures are
+  prior to both. The words "without either being ontologically prior"
+  are A9's, not the paper's, and are in no reading.
 - **Not that the relata are eliminated.** It is non-eliminative, as the
   record's structural realism is ([CLAIM-136](CLAIM-136.md); [CLAIM-150](CLAIM-150.md)'s stronger form).
 - **Not that a specification individuates.** A8 §5: two models of one
