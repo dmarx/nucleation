@@ -4,12 +4,18 @@ status: Proposed
 formerly:
 - CASE-tmpa087v
 title: 'Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle''s essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (batch 2) added from the reading of LIT-1574, which corrects the case's account of what made the organelle dispensable. The title is revised; version 1's title was 'Monocercomonoides: a eukaryote that lost its mitochondrion entirely once a bacterial Fe–S system acquired by lateral transfer replaced the organelle''s one indispensable job, and kept canonical eukaryotic complexity'.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-277, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text cites the question: As A2 put it, "losing genetic information is not equivalent to losing function, losing autonomy, or increasing integration" (QUESTION-277). No line changes
+    (ADR-085). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -22,6 +28,8 @@ reported_in:
 - LIT-1574
 summary: >-
   The oxymonad Monocercomonoides lacks all hallmark mitochondrial proteins; its mitochondrial iron–sulfur cluster pathway was replaced by a cytosolic SUF system taken from bacteria, and the loss was secondary ([LIT-1567](../literature.d/LIT-1567.md)). Its genome otherwise shows canonical eukaryotic complexity ([LIT-1574](../literature.d/LIT-1574.md)). Used as the negative control: loss of function dissolving an integrated compartment, not deepening dependence on it.
+bears_on:
+- QUESTION-277
 ---
 <!-- inactive-ok-file: LIT-1567 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 

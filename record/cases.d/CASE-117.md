@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprbebk
 title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -24,6 +24,14 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-083, QUESTION-125, QUESTION-132, QUESTION-133,
+    QUESTION-134, QUESTION-135, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question: "QUESTION-083 and the questions filed with it".
+    No line changes (ADR-085). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -42,6 +50,13 @@ summary: >-
   while changing the mechanism that produced it. Ordinary mixture-of-experts
   routing is the baseline. Even positive results would not show
   self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)).
+bears_on:
+- QUESTION-083
+- QUESTION-125
+- QUESTION-132
+- QUESTION-133
+- QUESTION-134
+- QUESTION-135
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->

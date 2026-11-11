@@ -4,12 +4,19 @@ status: Proposed
 formerly:
 - CASE-tmp30dzl
 title: 'The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine alga, whose division is coupled to the host''s and which imports host-encoded proteins, reclassified as an early-stage organelle in 2024'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (batch 2) added from the reading of LIT-1560.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-277, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question: "transition QUESTION-277 asks about". No line
+    changes (ADR-085). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -22,6 +29,8 @@ reported_in:
 - LIT-1560
 summary: >-
   Candidatus Atelocyanobacterium thalassa (UCYN-A), a metabolically streamlined nitrogen-fixing cyanobacterium known as an endosymbiont of a marine alga, is integrated into the alga's cell architecture and organellar division and imports proteins encoded by the algal genome. Coale et al. call it an early-stage organelle, the nitroplast ([LIT-1562](../literature.d/LIT-1562.md)). Used as the case where the line between endosymbiont and organelle is drawn by stated criteria.
+bears_on:
+- QUESTION-277
 ---
 <!-- inactive-ok-file: LIT-1562 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 

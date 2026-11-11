@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpbyihf
 title: 'Perspective transplantation: two populations matched in behaviour exchange different combinations of learned interpretive rules, specialist parameters, training histories, institutional rules and shared memory, and are then set where the transferred parts disagree with their new surroundings'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -15,6 +15,13 @@ history:
     broken into its parts". QUESTION-118 has no relation a case can
     carry. No line changes (ADR-085). Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-118, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question, as its version history records. No line changes
+    (ADR-085). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -35,6 +42,8 @@ summary: >-
   carriers: [CLAIM-417](../claims.d/CLAIM-417.md)'s realization, character and lineage, tested by
   transfer. A4: "No transfer experiment can settle numerical identity
   merely by demonstrating causal continuity." Not run.
+bears_on:
+- QUESTION-118
 ---
 
 # CASE-148: Perspective transplantation: two populations matched in behaviour exchange different combinations of learned interpretive rules, specialist parameters, training histories, institutional rules and shared memory, and are then set where the transferred parts disagree with their new surroundings

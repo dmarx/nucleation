@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpq90dm
 title: 'A fanbase is said to hate its owner or general manager, though it has no procedure for forming a view, some fans approve of the person, and nobody has counted'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-119, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question: "The case for QUESTION-119". No line changes
+    (ADR-085). No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -20,6 +28,8 @@ summary: >-
   resignation. A fanbase can have the second and third without the fourth,
   and a vocal minority can set a public stance most members privately
   reject. The case for [QUESTION-119](../questions.d/QUESTION-119.md). Stipulated.
+bears_on:
+- QUESTION-119
 ---
 
 <!-- inactive-ok-file: THEORY-125 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

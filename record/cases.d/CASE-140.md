@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmp5rsen
 title: 'The attributed self: two people with similar dispositions hear the same negative characterization, one told it comes from a few critics and the other believing it speaks for nearly everyone who matters to them, so that the words are fixed and only their attributed breadth differs'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-119, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question: "It is QUESTION-119 asked from". No line changes
+    (ADR-085). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -21,6 +29,8 @@ summary: >-
   attributes to it. A39: "These cases distinguish the content of a judgment
   from the social authority attributed to it." As stipulated it predicts
   nothing; run with real people, it would test [CLAIM-415](../claims.d/CLAIM-415.md).
+bears_on:
+- QUESTION-119
 ---
 <!-- inactive-ok-file: CLAIM-415 LIT-1370 — Proposed or Unavailable; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

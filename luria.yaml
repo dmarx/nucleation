@@ -1156,9 +1156,9 @@ schemes:
         derived: true
       bearing:
         label: Bearing on it
-        blurb: the claims and accounts that bear on this question without answering it, written by `luria
-          link --fix` from their `bears_on` (ADR-060)
-        scheme: [CLAIM, THEORY]
+        blurb: the claims, accounts and cases that bear on this question without answering it, written
+          by `luria link --fix` from their `bears_on` (ADR-060, ADR-tmpcrpf5)
+        scheme: [CLAIM, THEORY, CASE]
         required: false
         many: true
         converse: bears_on
@@ -1430,6 +1430,14 @@ schemes:
         required: false
         many: true
         converse: illustrated_by
+      bears_on:
+        label: Bears on
+        blurb: a question this case is evidence for or against, or a test, model or instance of, without
+          answering it. The case's `kind` says which; the relation does not (ADR-tmpcrpf5)
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: bearing
       counterexample_to:
         label: Counterexample to
         blurb: a claim this case shows false as stated

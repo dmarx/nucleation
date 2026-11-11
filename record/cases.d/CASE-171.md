@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpir76a
 title: 'Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -14,6 +14,13 @@ history:
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (batch 2) added from the reading of LIT-1560: the host protein seen in a mealybug endosymbiont is in Moranella, not Tremblaya.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-277, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question: "moving the reduced symbiont's genes to the host
+    (QUESTION-277". No line changes (ADR-085). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -28,6 +35,8 @@ reported_in:
 - LIT-1572
 summary: >-
   In the mealybug Planococcus citri, Moranella lives inside Tremblaya. Essential amino-acid pathways need gene products from both bacteria and the insect ([LIT-1565](../literature.d/LIT-1565.md)). At least 22 genes the insect acquired from other bacteria, none from Tremblaya, fill symbiont gaps ([LIT-1569](../literature.d/LIT-1569.md)), and the inner symbiont has been replaced several times across mealybugs while those genes persisted ([LIT-1572](../literature.d/LIT-1572.md)). Used as the case where function is distributed across nested boundaries and constituent lineages turn over.
+bears_on:
+- QUESTION-277
 ---
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
