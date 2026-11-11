@@ -40,7 +40,7 @@ history:
 - version: 5
   date: '2026-11-11'
   note: >-
-    At the completion of the readiness split (ADR-tmpqp8c4,
+    At the completion of the readiness split (ADR-088,
     2026-11-11): it no longer carries realizability: it bears on
     QUESTION-398 and QUESTION-399, both now first in
     transient-support, and on no realizability-first entry

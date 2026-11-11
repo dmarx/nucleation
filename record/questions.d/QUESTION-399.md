@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    At the completion of the readiness split (ADR-tmpqp8c4,
+    At the completion of the readiness split (ADR-088,
     2026-11-11): transient-support is now its first line, in place
     of realizability: it asks when a partial organization becomes a
     self-maintaining nucleus, the companion of QUESTION-398 in the

@@ -23,7 +23,7 @@ history:
 - version: 4
   date: '2026-11-11'
   note: >-
-    At the completion of the readiness split (ADR-tmpqp8c4,
+    At the completion of the readiness split (ADR-088,
     2026-11-11): transient-support is now its first line, in place
     of realizability; it no longer carries realizability, which no
     relation to a realizability-first entry supplies (ADR-085). No
