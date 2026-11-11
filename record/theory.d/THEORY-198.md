@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpc8tc8
 title: 'For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -22,6 +22,14 @@ history:
     moves, unchanged, to QUESTION-154. The Lemma is re-derived in the
     note of 2026-10-19 below. Under ADR-047 v3 the hedged numerical clause
     rests on the one study, which NOTE-682 read in full.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-232 (reading review of 2026-11-11, by question),
+    on its second limb, short-ranged effective Hamiltonians. Its own
+    title: under full capture "the renormalized Hamiltonian then gains
+    no range", and "The coarse-grainings actually optimized fall short
+    of that condition". No other change.
 tags:
 - natural-sciences
 - information-theory
@@ -39,6 +47,7 @@ summary: >-
   chains only, and is monotonic only locally.
 bears_on:
 - QUESTION-065
+- QUESTION-232
 ---
 
 # THEORY-198: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains

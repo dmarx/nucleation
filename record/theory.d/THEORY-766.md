@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpfufvf
 title: "Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them; the standard comparison conditions do not equalise participants' expectations, so whether the stimulation or the expectation produces the report difference is open"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -19,6 +19,13 @@ history:
     that reading, Ehrsson et al.'s, is filed with the promote_when
     unchanged as the new Proposed THEORY-827, which extends this
     one.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-048 (reading review of 2026-11-11, by question).
+    Its own text: "A worked case: report and behaviour dissociate, and
+    both sides agree on the numbers while disagreeing on what they
+    show." No other change.
 tags:
 - self
 - neuroscience
@@ -50,6 +57,8 @@ summary: >-
   is not settled.
   Promoted 2026-10-20 on the report differences measured ([ADR-047](../decisions.d/ADR-047.md) v3);
   the perceptual reading is [THEORY-827](THEORY-827.md).
+bears_on:
+- QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-827 — Proposed; the perceptual reading this entry leaves open, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-765 — Rejected; the account this one corrects, named -->

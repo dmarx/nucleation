@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpiu6h1
 title: "With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight for every pair of distributions only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus, with Fourier coefficients proportional to e^(−σ‖ω‖₁) and strictly positive Lipschitz densities, is within O(σ²) of KL as the bandwidth σ shrinks"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,14 @@ history:
     THEORY-811, Proposed, to carry what the narrowing dropped. This
     entry's status, title and claims are unchanged; a dated note says what
     moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-198 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "The O(σ²)
+    rate is shown only on the torus, for one kernel family ... asserted
+    to behave alike, and a leverage-score argument is sketched, not
+    completed (QUESTION-198)." No other change.
 tags:
 - information-theory
 - mathematics
@@ -43,6 +51,8 @@ summary: >-
   to e^(−σ‖ω‖₁), with Lipschitz densities. It does not cover centred
   kernels, or similarity measures that compare Gram matrices of
   representations.
+bears_on:
+- QUESTION-198
 ---
 
 <!-- inactive-ok-file: THEORY-811 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

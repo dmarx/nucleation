@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp8wj5h
 title: 'In a deep linear network trained by gradient descent on whitened inputs from decoupled, balanced initial weights, depth slows learning through the initial end-to-end strength of each mode: counting iterations as learning time over the stable step size, from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -27,6 +27,14 @@ history:
     what the narrowing dropped: the depth law from generic starts, such
     as random orthogonal weights, which the paper argues from
     simulation. This entry's status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-166 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "Off the
+    decoupled set the modes couple and step 1 fails, which is why the
+    general case is QUESTION-166." The exact case is the question's
+    premise. No other change.
 tags:
 - learning-theory
 date: '2026-10-09'
@@ -43,6 +51,7 @@ summary: >-
   is not advice on how to initialise.
 bears_on:
 - QUESTION-039
+- QUESTION-166
 ---
 <!-- inactive-ok-file: THEORY-792 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-182 THEORY-039 — Proposed; accounts this one is set beside -->

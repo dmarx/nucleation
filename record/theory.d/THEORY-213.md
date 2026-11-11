@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmppei8o
 title: 'Every mirror symmetry of a network''s per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss''s Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -25,6 +25,14 @@ history:
     networks, as the paper argues, is filed as the Proposed
     THEORY-781, which extends this one (ADR-047 v4, narrowing-loss sweep,
     batch 068). Status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-080 and QUESTION-206 (reading review of
+    2026-11-11, by question). Its own text: "absorbing states would keep
+    a collapsed geometry fixed while other parameters move", and "The
+    SGD half is QUESTION-206": the exact half held here is the premise
+    of that question. No other change.
 tags:
 - learning-theory
 - loss-landscapes
@@ -47,6 +55,8 @@ summary: >-
   QUESTION-206.
 bears_on:
 - QUESTION-058
+- QUESTION-080
+- QUESTION-206
 rivals:
 - THEORY-1353
 ---

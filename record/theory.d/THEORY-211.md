@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpdsy58
 title: 'In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -27,6 +27,14 @@ history:
     what the narrowing dropped: the law of balance in deep networks
     trained on real data, which the authors present as general. This
     entry's status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-164 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "the tests are
+    small synthetic networks, and whether it holds in deep networks on
+    real data is QUESTION-164." The law in the SDE model is the
+    question's premise. No other change.
 tags:
 - learning-theory
 - loss-landscapes
@@ -52,6 +60,7 @@ summary: >-
 bears_on:
 - QUESTION-080
 - QUESTION-069
+- QUESTION-164
 ---
 <!-- inactive-ok-file: THEORY-790 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-209 THEORY-210 — Proposed or Open; the accounts and question this one is set beside, open -->

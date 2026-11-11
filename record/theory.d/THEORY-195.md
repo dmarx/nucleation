@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpzjtfu
 title: 'On the Random Hierarchy Model, in the experiments reported (s = 2, L ≤ 4, small v), deep CNNs matched to the tree and trained in a feature-learning regime reach a tenth of chance error from about n_c m^L examples, polynomial in the input dimension, at the training-set size at which their hidden layers become invariant to swapping synonymous tuples; two-layer networks and the same CNNs as fixed kernels need a number proportional to the whole input space, exponential in the input dimension, and deep CNNs stay near chance when every tuple is made equally likely in every class'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -25,6 +25,14 @@ history:
     Note of 2026-10-20 added: the wider claim this entry's narrowing
     dropped is now filed as THEORY-786, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-165 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "Whether that
+    threshold, rather than the grammar's size, sets the number of
+    examples is QUESTION-165." The measured result is the question's
+    premise. No other change.
 tags:
 - learning-theory
 - compositionality
@@ -41,6 +49,8 @@ summary: >-
   not proved for trained deep networks, and in this model the correlation
   threshold and the grammar's size are the same expression, so the data
   cannot say which of the two sets it.
+bears_on:
+- QUESTION-165
 ---
 
 <!-- inactive-ok-file: THEORY-786 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp644mk
 title: 'Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors'' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -23,6 +23,13 @@ history:
     THEORY-812, Proposed, to carry what the narrowing dropped. This
     entry's status, title and claims are unchanged; a dated note says what
     moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-168 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "The title
+    states only what was measured. Whether the agreement is a limit
+    theorem is QUESTION-168." No other change.
 tags:
 - mathematics
 - mathematical-statistics
@@ -40,6 +47,8 @@ summary: >-
   matrices sit about one transition width low at small N. The title states
   only what was measured. Whether the agreement is a limit theorem is
   QUESTION-168.
+bears_on:
+- QUESTION-168
 ---
 
 <!-- inactive-ok-file: THEORY-812 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

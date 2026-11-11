@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpajs5h
 title: "In Aerts's subspace model of Hampton's membership data, and in any lattice whose membership weight is order-preserving, whatever its negation, taking concept conjunction and disjunction as meet and join cannot produce overextension or underextension, so a model of the guppy-type deviations must take conjunction as some operation other than the meet or drop the monotone weight, while the Kolmogorov-type deviations can be had from the meet of a non-Boolean subspace lattice"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -30,6 +30,14 @@ history:
     The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-807,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-156 (reading review of 2026-11-11, by question),
+    the question what remained of its promote_when moved to. Its own
+    title: "in any lattice whose membership weight is order-preserving",
+    the impossibility that makes every overextending model drop one of
+    the two assumptions the question sorts by. No other change.
 tags:
 - cognition
 - logic
@@ -45,6 +53,8 @@ summary: >-
   emergent sector are models with free parameters, not tests. Negation
   appears only as the orthocomplement used to derive the conjunction
   model from the disjunction model; no negated concept is measured.
+bears_on:
+- QUESTION-156
 ---
 <!-- inactive-ok-file: THEORY-807 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-119 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->

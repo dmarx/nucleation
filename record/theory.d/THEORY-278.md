@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqg4nq
 title: 'Under MSE loss, in Han, Papyan and Donoho''s VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -29,6 +29,14 @@ history:
     dynamics to neural collapse, which rests on the unmeasured assumption
     A3, is now carried by THEORY-797, which extends this entry.
     Status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-080 (reading review of 2026-11-11, by question).
+    Its own text: "Here the limiting state is approached as a power law,
+    and its orientation is set by the start of the central path ... That
+    is one of the two branches QUESTION-080 distinguishes." No other
+    change.
 tags:
 - learning-theory
 - representation-learning
@@ -48,6 +56,7 @@ summary: >-
   cross-entropy or with weight decay.
 bears_on:
 - QUESTION-051
+- QUESTION-080
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
 <!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->

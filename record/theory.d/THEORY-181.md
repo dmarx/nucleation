@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmps9ng8
 title: "In a model that decodes the sum of two learned embeddings, at zero training loss with an injective decoder, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes likely"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -25,6 +25,13 @@ history:
     proposes, is filed as the Proposed THEORY-782, which extends this
     one (ADR-047 v4, narrowing-loss sweep, batch 068). Status and title
     are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-199 (reading review of 2026-11-11, by question),
+    the question its promote_when moved to. Its own text: "That the
+    critical fraction tracks the nullity threshold at other sizes, which
+    the former promote_when asked, is QUESTION-199." No other change.
 tags:
 - representation-learning
 - learning-theory
@@ -44,6 +51,7 @@ summary: >-
   by this mechanism, and for S₃ the networks generalise beyond it.
 bears_on:
 - QUESTION-058
+- QUESTION-199
 ---
 <!-- inactive-ok-file: THEORY-782 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 

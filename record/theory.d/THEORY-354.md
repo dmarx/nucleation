@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpsavjk
 title: "An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-103 (reading review of 2026-11-11, by question).
+    Its own text: "QUESTION-103: a bounded-observer account with one
+    budget parameter leaves out access; two observers of the same size
+    differ in power by it", which bears on whether efficiency is defined
+    for a class of observers. No other change.
 tags:
 - learning-theory
 - probabilistic-modeling
@@ -25,6 +34,7 @@ summary: >-
   human observers or about which access a real auditor has.
 bears_on:
 - QUESTION-104
+- QUESTION-103
 corroborates:
 - CLAIM-574
 ---

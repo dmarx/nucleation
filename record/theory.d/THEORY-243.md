@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6lt8x
 title: 'In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -22,6 +22,13 @@ history:
     The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-802,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-234 (reading review of 2026-11-11, by question).
+    Its own text: "Shown exactly for one constructed network only;
+    whether trained networks have such ties is open (QUESTION-234)." The
+    constructed tie is the question's premise. No other change.
 tags:
 - causality
 - philosophy-of-science
@@ -41,6 +48,8 @@ summary: >-
   reply rests its on the interventions performed. Shown exactly for one
   constructed network only; whether trained networks have such ties is
   open (QUESTION-234).
+bears_on:
+- QUESTION-234
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp87j2h
 title: 'The likelihood-ratio detector is optimal under the payoff, Neyman–Pearson and posterior criteria, which differ only in its threshold, so performance is an ROC and the criterion a point on it; d′ is criterion-free only for equal-variance normal signal and noise'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-103 (reading review of 2026-11-11, by question).
+    The question takes this entry as the half of its link the record
+    holds, and its own title states it: "performance is an ROC and the
+    criterion a point on it; d′ is criterion-free only for
+    equal-variance normal signal and noise", which is the question's
+    criterion-shift test. No other change.
 tags:
 - probabilistic-modeling
 - cognition
@@ -24,6 +34,8 @@ summary: >-
   [LIT-367](../literature.d/LIT-367.md), state that d′ varies with the criterion unless the variances
   are equal. The separation of sensitivity from bias is a property of the
   model, not of the data.
+bears_on:
+- QUESTION-103
 ---
 
 # THEORY-031: The likelihood-ratio detector is optimal under the payoff, Neyman–Pearson and posterior criteria, which differ only in its threshold, so performance is an ROC and the criterion a point on it; d′ is criterion-free only for equal-variance normal signal and noise

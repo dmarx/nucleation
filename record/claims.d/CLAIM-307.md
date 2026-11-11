@@ -7,7 +7,18 @@ title: 'Retrieval pressure and evidence are different criteria for carving a cat
   and they move in opposite directions with copy count: evidence that a distinction
   exists grows with its copies, the search a bin saves shrinks with them, so the
   bins a deadline forces are often the ones the data least supports'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-113 (reading review of 2026-11-11, by question).
+    Its own title answers the question's last clause for two of its
+    three criteria: "Retrieval pressure and evidence are different
+    criteria for carving a category ... so the bins a deadline forces
+    are often the ones the data least supports." Under ADR-085 the
+    relation gives this claim QUESTION-113's first line,
+    formal-apparatus, which it already carries first. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -37,6 +48,8 @@ summary: >-
   ones. Expected search falls as copies grow. The two answer different questions,
   "is it there?" and "can it be reached in time?", and come apart in both directions.
   MOM's table was re-run here and reproduced, and a simulation of the search agrees.
+bears_on:
+- QUESTION-113
 ---
 
 # CLAIM-307: Retrieval pressure and evidence are different criteria for carving a category, and they move in opposite directions with copy count: evidence that a distinction exists grows with its copies, the search a bin saves shrinks with them, so the bins a deadline forces are often the ones the data least supports
