@@ -13,18 +13,18 @@ refines:
 - QUESTION-441
 summary: >-
   Raised by the reading review of 2026-11-11 (by line,
-  organizational-normativity), from THEORY-1118 and THEORY-1165; the
+  organizational-normativity), from [THEORY-1118](../theory.d/THEORY-1118.md) and [THEORY-1165](../theory.d/THEORY-1165.md); the
   wording is the assistant's, and the owner has not taken it up.
-  QUESTION-441's third part asks when the counter-normativity is the
+  [QUESTION-441](QUESTION-441.md)'s third part asks when the counter-normativity is the
   organization's own rather than its participants' or an outside
   maintainer's, and the record answers it in the present tense:
-  TERM-100's maintenance provenance, tested by CLAIM-522's knockouts.
-  TERM-100 also names formation provenance, whose process produced the
-  capacity, and CASE-191 builds the two apart. For a person the
-  manipulation argument (THEORY-1118) forces the choice between them:
+  [TERM-100](../terms.d/TERM-100.md)'s maintenance provenance, tested by [CLAIM-522](../claims.d/CLAIM-522.md)'s knockouts.
+  [TERM-100](../terms.d/TERM-100.md) also names formation provenance, whose process produced the
+  capacity, and [CASE-191](../cases.d/CASE-191.md) builds the two apart. For a person the
+  manipulation argument ([THEORY-1118](../theory.d/THEORY-1118.md)) forces the choice between them:
   a condition stated in present structure counts an installed will as
   the agent's own, or a historical condition is added; Frankfurt takes
-  the first. Kahl (THEORY-1165) denies attributive agency to
+  the first. Kahl ([THEORY-1165](../theory.d/THEORY-1165.md)) denies attributive agency to
   institutional systems whose standards are "authored elsewhere". This
   asks which way the organizational case goes.
 ---
@@ -35,35 +35,35 @@ summary: >-
 
 ## Why it is a question
 
-QUESTION-441's third part asks when the counter-normativity of an
+[QUESTION-441](QUESTION-441.md)'s third part asks when the counter-normativity of an
 organization that reproduces what makes its harm non-legible is "the
 organization's own rather than its participants' or an outside
 maintainer's". What the record holds for it is all present tense:
-TERM-100's maintenance provenance ("whose process keeps it in being
-now"), with CLAIM-522's intervention on the production mechanism as the
-test. QUESTION-441's answer condition asks for a test "that separates an
+[TERM-100](../terms.d/TERM-100.md)'s maintenance provenance ("whose process keeps it in being
+now"), with [CLAIM-522](../claims.d/CLAIM-522.md)'s intervention on the production mechanism as the
+test. [QUESTION-441](QUESTION-441.md)'s answer condition asks for a test "that separates an
 organization maintaining its own blindness from one whose blindness is
 maintained from outside".
 
-TERM-100 also holds formation provenance, "whose process produced it",
-and CASE-191 builds a capacity installed from outside and then
+[TERM-100](../terms.d/TERM-100.md) also holds formation provenance, "whose process produced it",
+and [CASE-191](../cases.d/CASE-191.md) builds a capacity installed from outside and then
 maintained by the agent's own cycle, after which "no knockout tells it from
 a self-formed one". The organizational case has the same shape: a reporting
 regime that a regulator, a parent body or a consultant installed, which the
-organization now reproduces by its own cycle. QUESTION-441 does not
+organization now reproduces by its own cycle. [QUESTION-441](QUESTION-441.md) does not
 ask whether that origin bears on whose wrong the reproduction is.
 
 Two readings the record holds take opposite sides of that choice for other
 bearers.
 
-- **The manipulation argument** (THEORY-1118). A condition on free
+- **The manipulation argument** ([THEORY-1118](../theory.d/THEORY-1118.md)). A condition on free
   agency stated only in present structure "is met by an agent whose
   structure a manipulator installed", so an account "must count that agent
   free or add a historical condition". Frankfurt, read first-hand, takes
   the first option: "What counts is our current effort … and not the story
   of how we came to be." The argument forces the choice; it does not settle
-  it. The person's version is QUESTION-071.
-- **Kahl** (THEORY-1165). Institutional systems fail attributive agency,
+  it. The person's version is [QUESTION-071](QUESTION-071.md).
+- **Kahl** ([THEORY-1165](../theory.d/THEORY-1165.md)). Institutional systems fail attributive agency,
   agency "in the sense relevant to responsibility, authority, and
   governance", because their standards are "authored elsewhere"; what
   separates a workflow from a court is "whether revision of that rule under
@@ -71,7 +71,7 @@ bearers.
   makes the origin of the governing frame count, and also its present
   revision.
 
-CLAIM-518 holds that judgments about an organization's obligations
+[CLAIM-518](../claims.d/CLAIM-518.md) holds that judgments about an organization's obligations
 "can depend on diachronic relations that descriptions of present states or
 terminal outcomes do not show". It does not say whether formation
 provenance is one of them.
@@ -80,16 +80,16 @@ provenance is one of them.
 
 - **Only maintenance:** an argument that once the organization's own cycle
   reproduces the mechanism, the counter-normativity is its own whoever
-  installed it, so that CLAIM-522's test suffices; Frankfurt's option,
+  installed it, so that [CLAIM-522](../claims.d/CLAIM-522.md)'s test suffices; Frankfurt's option,
   carried over.
 - **Formation too:** an argument that an installed mechanism the
   organization cannot revise from inside, in Kahl's sense, leaves the
   wrong, or part of it, with the installer, so that the attribution needs a
-  record of formation that CLAIM-522's knockouts cannot supply.
+  record of formation that [CLAIM-522](../claims.d/CLAIM-522.md)'s knockouts cannot supply.
 - **Neither in itself:** that formation provenance matters only as evidence
-  about a present capacity to revise, which is TERM-100's open dispute
-  between THEORY-040 and THEORY-328, carried to organizations.
+  about a present capacity to revise, which is [TERM-100](../terms.d/TERM-100.md)'s open dispute
+  between [THEORY-040](../theory.d/THEORY-040.md) and [THEORY-328](../theory.d/THEORY-328.md), carried to organizations.
 
 Any of these presupposes the independently justified standard that
-CLAIM-624's verdict needs (QUESTION-129); this question is about
+[CLAIM-624](../claims.d/CLAIM-624.md)'s verdict needs ([QUESTION-129](QUESTION-129.md)); this question is about
 whose the breach is, not whether there is one.

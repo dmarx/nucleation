@@ -6,7 +6,7 @@ tags:
 - record
 date: '2026-11-11'
 summary: >-
-  ADR-090 derives a reading's lines from the entries that use it, and
+  [ADR-090](ADR-090.md) derives a reading's lines from the entries that use it, and
   its view shows 450 of 856 readings in force used by no line. The owner
   holds that the record should be building on its readings, and that
   reviewing under-used ones is worth its own protocol, maybe several. This
@@ -26,18 +26,18 @@ summary: >-
 
 ## Context
 
-The record reads more than it argues. ADR-090's view of readings by
+The record reads more than it argues. [ADR-090](ADR-090.md)'s view of readings by
 line found, on 2026-11-11, 856 readings in force, of which 450 are used by
 no claim, argument, question or case of the record's argument, and one
 line, organizational-normativity, used one. (The view's first version
 missed readings that claims ground on and showed 579; this decision's
-demonstration found that, and ADR-090's version 2 corrects it.)
+demonstration found that, and [ADR-090](ADR-090.md)'s version 2 corrects it.)
 
 The owner's view, on seeing this: the record should be building on its
 readings, and if it is not, that is a large oversight. Reviewing
 under-used readings is worth its own protocol, maybe several.
 
-A synthesis review (ADR-078, ADR-084) looks at the argument the record
+A synthesis review ([ADR-078](ADR-078.md), [ADR-084](ADR-084.md)) looks at the argument the record
 holds and asks whether its accounts map it faithfully. It does not look at
 what the record has read and not used. A reading review does.
 
@@ -58,14 +58,14 @@ what the record has read and not used. A reading review does.
     from the reading);
   - **raised**, where it calls for a question or claim the record lacks:
     a QUESTION filed, or a CLAIM drafted for the owner, a claim resting on
-    claims passing ADR-075's step 5;
+    claims passing [ADR-075](ADR-075.md)'s step 5;
   - **held**, where the argument does not need it now, with the reason in
     the curation entry;
   - **flagged**, where the reading has a defect, for a sweep.
 - **No relation by topic alone.** A reading on the same subject as a claim
   is not evidence for it. A tie needs the claim's or question's own words
   to meet what the reading holds.
-- **Demonstration (ADR-071).** The by-line mode, run on
+- **Demonstration ([ADR-071](ADR-071.md)).** The by-line mode, run on
   organizational-normativity, the line no reading served. Its curation
   entry gives each reading's verdict.
 
