@@ -1005,6 +1005,16 @@ schemes:
         required: false
         many: true
         converse: corroborated_by
+      bounds:
+        label: Bounds
+        blurb: a claim of the record's own whose scope this account marks the limit of, a regime, domain
+          or condition the claim says it does not cover, cited by the claim's own text as such. Neither
+          support nor objection; rejecting this account leaves the claim's support unchanged and its stated
+          limit without an anchor. Not walked by the `argument` chain or by retraction (ADR-tmppj46c)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: bounded_by
       reports:
         label: Reports
         blurb: the cases the record took from this account, written by `luria link --fix` from their `reported_in`
@@ -1335,6 +1345,15 @@ schemes:
         required: false
         many: true
         converse: corroborates
+        derived: true
+      bounded_by:
+        label: Bounded by
+        blurb: the readings (THEORY) that mark the limits of this claim's scope, which its text cites as
+          such; the converse of `bounds`, written by `luria link --fix` (ADR-tmppj46c)
+        scheme: THEORY
+        required: false
+        many: true
+        converse: bounds
         derived: true
       uses:
         label: Uses the term

@@ -3,7 +3,7 @@ name: reading-review
 description: 'A review of the readings (THEORY) the record holds and its argument does not use - which readings in force no line builds on, and what to do about each: tie it to a claim or question that should use it, raise a question or claim it calls for, or record that the argument does not need it. Three modes, by line, by topic and by question. Use it when the owner asks for a reading review or to see what the record has read and not built on, after a run of readings in one topic, or beside a synthesis review of a line. ADR-091 holds the invariants; ADR-090 how a reading''s lines are derived.'
 ---
 <!-- .claude/skills/reading-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 ADR-tmppj46c — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Reading review
 
@@ -76,7 +76,7 @@ runs came out.
   shows, or asks what the reading answers. Add the relation with `luria
   relate` from the entry that should carry it (`grounds` only if the claim
   needs the reading; `corroborates` from the THEORY if the reading is
-  independent evidence the claim does not need; `bears_on` or `answers` from the THEORY for a question). The
+  independent evidence the claim does not need; `bounds` from the THEORY if the claim cites it as a limit of its scope; `bears_on` or `answers` from the THEORY for a question). The
   entry's own text must support the relation; quote it in the history note.
   A `bears_on` or `answers` relation is from the reading, so it changes no
   line of the record's own entries.
@@ -145,7 +145,12 @@ More recurring cases (ADR-093):
 - **Supporting cases and instances corroborate.** A claim that lists a
   reading among its supporting cases, or cites it as an instance,
   parallel or precedent it does not need, takes it as `corroborates`. A
-  claim that disclaims it as evidence takes nothing. A precedent from
+  claim that disclaims it as evidence takes nothing.
+- **Limits bound.** A claim whose own text cites a reading as a limit of
+  its scope (in "What it does not say", a stated scope, or a
+  `defeated_if` naming the excluded regime) takes it as `bounds`, from the
+  THEORY (ADR-tmppj46c). A rival account or an unanswered counterexample
+  is an objection, not a bound. A precedent from
   another domain corroborates only a claim whose scope reaches that
   domain.
 - **Instruments and cautions are premises.** A question that names a

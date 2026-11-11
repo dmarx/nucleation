@@ -20,7 +20,7 @@
 {%- endfor -%}
 {%- for t in docs("THEORY", in_force=True) -%}
   {%- set r = namespace(lines=[], users=[]) -%}
-  {%- for x in via.get(t.code, []) + t.corroborates + t.answers + t.bears_on -%}
+  {%- for x in via.get(t.code, []) + t.corroborates + t.bounds + t.answers + t.bears_on -%}
     {%- set d = x if x.code is defined else doc(x) -%}
     {%- if d.status not in retired and d.code not in r.users -%}
       {%- set r.users = r.users + [d.code] -%}
@@ -42,7 +42,8 @@ the entries that cite it: edit those, not this page.*
 
 A reading (THEORY) is the record's account of what a work holds. It
 carries no `line` of its own. A reading serves a line when an entry of that
-line uses it: a claim or argument grounds on it, it corroborates a claim,
+line uses it: a claim or argument grounds on it, it corroborates a claim
+or marks the limit of one's scope,
 it answers or bears on a question, or it reports a case. Its lines are the
 first lines of those entries, as ADR-085 reads a relation, and entries
 that are Superseded or Rejected do not count. They are read off the
@@ -75,7 +76,8 @@ serve none.
 ## Readings no line uses
 
 Readings in force that no entry of the record's argument grounds on, is
-corroborated by, asks about or takes a case from, by primary topic. They are
+corroborated or bounded by, asks about or takes a case from, by primary
+topic. They are
 where the argument has not yet built on what the record has read.
 {%- set tp = namespace(names=[]) %}{% for t in acc.unused %}{% set k = t.primary_topic or "no primary topic" %}{% if k not in tp.names %}{% set tp.names = tp.names + [k] %}{% endif %}{% endfor %}
 {%- for topic in tp.names | sort %}
