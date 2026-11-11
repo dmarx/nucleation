@@ -1,5 +1,8 @@
 ---
+number: 48
 status: Proposed
+formerly:
+- SYNTHESIS-tmp4vrjc
 title: 'From interconnection to individuation the record holds distinct achievements in a partial order: interconnection makes effective constraints that gluing only expresses, coupling separates time scales only where it dissipates differences, an individuation is well defined once its criterion is fixed and its senses need different evidence, where maintenance is realized is shown only by interventions on production relative to a declared boundary, and assembling, persisting, regenerating and being supplied come apart, while how distinctions are made and unmade, and when relations constitute an entity, stay open'
 version: 1
 defeated_if: >-
@@ -95,7 +98,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-250 — Answered; a component, answered, cited for its answer -->
 <!-- inactive-ok-file: SYNTHESIS-006 — Superseded; cited as the entry its claim returned from, not integrated -->
 
-# SYNTHESIS-tmp4vrjc: From interconnection to individuation the record holds distinct achievements in a partial order: interconnection makes effective constraints that gluing only expresses, coupling separates time scales only where it dissipates differences, an individuation is well defined once its criterion is fixed and its senses need different evidence, where maintenance is realized is shown only by interventions on production relative to a declared boundary, and assembling, persisting, regenerating and being supplied come apart, while how distinctions are made and unmade, and when relations constitute an entity, stay open
+# SYNTHESIS-048: From interconnection to individuation the record holds distinct achievements in a partial order: interconnection makes effective constraints that gluing only expresses, coupling separates time scales only where it dissipates differences, an individuation is well defined once its criterion is fixed and its senses need different evidence, where maintenance is realized is shown only by interventions on production relative to a declared boundary, and assembling, persisting, regenerating and being supplied come apart, while how distinctions are made and unmade, and when relations constitute an entity, stay open
 
 *A part account of the distributed-agency line: the part a mechanical
 community map of the line's stored relations and mentions calls

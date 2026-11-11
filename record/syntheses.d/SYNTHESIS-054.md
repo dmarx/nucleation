@@ -1,5 +1,8 @@
 ---
+number: 54
 status: Proposed
+formerly:
+- SYNTHESIS-tmprxn12
 title: 'Relative to a stated target, a combined form is proposed to be one system while it is a gap-isolated block whose gap beats the cost of naming it, a test that passes one-way drive, reads peers or hierarchy from the direction of coupling, cannot tell a produced boundary from an imposed one, and has an unanswered necessary half because a closed collective mode can exist with no block; drive between levels is apportioned by a profile that changes over time; a factor is proposed to be an agent when it is one system, is better described as pursuing goals than as a device and would adapt its policy, and a willed agent when a will-organization over several regimes describes it better still; and in the self-governing sense what endogenous governance adds is the capacity to revise its own standards, which a population optimizing objectives the modeller fixed does not show'
 version: 1
 defeated_if: >-
@@ -109,7 +112,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-092 QUESTION-242 QUESTION-243 QUESTION-248 QUESTION-263 QUESTION-287 — Answered; components, cited with their answers -->
 <!-- inactive-ok-file: TERM-053 — Superseded; named by QUESTION-084, cited for that link -->
 
-# SYNTHESIS-tmprxn12: Relative to a stated target, a combined form is proposed to be one system while it is a gap-isolated block whose gap beats the cost of naming it, a test that passes one-way drive, reads peers or hierarchy from the direction of coupling, cannot tell a produced boundary from an imposed one, and has an unanswered necessary half because a closed collective mode can exist with no block; drive between levels is apportioned by a profile that changes over time; a factor is proposed to be an agent when it is one system, is better described as pursuing goals than as a device and would adapt its policy, and a willed agent when a will-organization over several regimes describes it better still; and in the self-governing sense what endogenous governance adds is the capacity to revise its own standards, which a population optimizing objectives the modeller fixed does not show
+# SYNTHESIS-054: Relative to a stated target, a combined form is proposed to be one system while it is a gap-isolated block whose gap beats the cost of naming it, a test that passes one-way drive, reads peers or hierarchy from the direction of coupling, cannot tell a produced boundary from an imposed one, and has an unanswered necessary half because a closed collective mode can exist with no block; drive between levels is apportioned by a profile that changes over time; a factor is proposed to be an agent when it is one system, is better described as pursuing goals than as a device and would adapt its policy, and a willed agent when a will-organization over several regimes describes it better still; and in the self-governing sense what endogenous governance adds is the capacity to revise its own standards, which a population optimizing objectives the modeller fixed does not show
 
 *A part account of the distributed-agency line: the part on when a
 combined form is one system, where its boundary lies, when a structure is

@@ -6,8 +6,9 @@
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-0 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-048](../../../record/syntheses.d/SYNTHESIS-048.md) | From interconnection to individuation the record holds distinct achievements in a partial order: interconnection makes effective constraints that gluing only expresses, coupling separates time scales only where it dissipates differences, an individuation is well defined once its criterion is fixed and its senses need different evidence, where maintenance is realized is shown only by interventions on production relative to a declared boundary, and assembling, persisting, regenerating and being supplied come apart, while how distinctions are made and unmade, and when relations constitute an entity, stay open |  | Proposed |
+| [SYNTHESIS-053](../../../record/syntheses.d/SYNTHESIS-053.md) | When formerly autonomous partners come to depend on one another, which properties each route to dependence brings about, and which make the partnership a new individual, is open: the documented symbioses show dependence, reproductive cohesion, the distribution of functions across genomes and host control coming apart, dependence directional, and integration undone as well as deepened, and the record holds that gene ancestries and stem lengths alone cannot tell a partner from a donor or time its acquisition |  | Proposed |

@@ -6,8 +6,8 @@
 
 **Model comparison** — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026).
 
-0 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-054](../../../record/syntheses.d/SYNTHESIS-054.md) | Relative to a stated target, a combined form is proposed to be one system while it is a gap-isolated block whose gap beats the cost of naming it, a test that passes one-way drive, reads peers or hierarchy from the direction of coupling, cannot tell a produced boundary from an imposed one, and has an unanswered necessary half because a closed collective mode can exist with no block; drive between levels is apportioned by a profile that changes over time; a factor is proposed to be an agent when it is one system, is better described as pursuing goals than as a device and would adapt its policy, and a willed agent when a will-organization over several regimes describes it better still; and in the self-governing sense what endogenous governance adds is the capacity to revise its own standards, which a population optimizing objectives the modeller fixed does not show |  | Proposed |

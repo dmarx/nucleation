@@ -1,5 +1,8 @@
 ---
+number: 51
 status: Proposed
+formerly:
+- SYNTHESIS-tmplr2wo
 title: 'Frustration among an organization''s demands is an ordinal fact about which sets of them can be jointly met, and relief is the enlargement of that complex for the same demands, judged against a fixed reference set; the residual, governance regret and budgets refine it without identifying thwarting, quiet, thresholds and tolerances are kept apart from it, niche differentiation matters as possible relief that the open questions ask whether operators can reach by themselves, and smaller families on cycle obstructions, coexistence without cooperation, affect and roles hang from it'
 version: 1
 defeated_if: >-
@@ -22,7 +25,7 @@ line:
 - distributed-agency
 integrates:
 - TERM-060
-- CLAIM-tmp9hy40
+- CLAIM-634
 - CLAIM-368
 - CLAIM-283
 - CLAIM-347
@@ -94,13 +97,13 @@ summary: >-
   and roles hang from the core by few links. The account adds nothing of
   its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-083 ADR-084 ARG-025 ARG-061 ARG-072 CASE-193 CASE-194 CASE-196 CASE-225 CLAIM-039 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-285 CLAIM-317 CLAIM-367 CLAIM-417 CLAIM-431 CLAIM-432 CLAIM-440 CLAIM-451 CLAIM-500 CLAIM-553 CLAIM-555 CLAIM-603 CLAIM-618 CLAIM-620 CLAIM-624 CLAIM-629 CLAIM-631 CLAIM-tmp9hy40 SYNTHESIS-018 SYNTHESIS-020 SYNTHESIS-021 SYNTHESIS-026 SYNTHESIS-032 SYNTHESIS-035 SYNTHESIS-042 SYNTHESIS-044 SYNTHESIS-045 — Proposed; components, citations and the accounts and decisions this account follows, with their standing -->
+<!-- inactive-ok-file: ADR-083 ADR-084 ARG-025 ARG-061 ARG-072 CASE-193 CASE-194 CASE-196 CASE-225 CLAIM-039 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-285 CLAIM-317 CLAIM-367 CLAIM-417 CLAIM-431 CLAIM-432 CLAIM-440 CLAIM-451 CLAIM-500 CLAIM-553 CLAIM-555 CLAIM-603 CLAIM-618 CLAIM-620 CLAIM-624 CLAIM-629 CLAIM-631 CLAIM-634 SYNTHESIS-018 SYNTHESIS-020 SYNTHESIS-021 SYNTHESIS-026 SYNTHESIS-032 SYNTHESIS-035 SYNTHESIS-042 SYNTHESIS-044 SYNTHESIS-045 — Proposed; components, citations and the accounts and decisions this account follows, with their standing -->
 <!-- inactive-ok-file: ARG-052 ARG-071 — Rejected; a component, the verdict on a reading, and a rejected inference a component records -->
 <!-- inactive-ok-file: TERM-053 CLAIM-427 — Superseded; named only as members name them, TERM-053 by ADR-070 and CLAIM-427 by ARG-025 -->
 <!-- inactive-ok-file: SYNTHESIS-008 — Superseded by CLAIM-631 (ADR-084); named as CLAIM-631's former code -->
 <!-- inactive-ok-file: QUESTION-295 — Answered; the split-off first part of QUESTION-083 -->
 
-# SYNTHESIS-tmplr2wo: Frustration among an organization's demands is an ordinal fact about which sets of them can be jointly met, and relief is the enlargement of that complex for the same demands, judged against a fixed reference set; the residual, governance regret and budgets refine it without identifying thwarting, quiet, thresholds and tolerances are kept apart from it, niche differentiation matters as possible relief that the open questions ask whether operators can reach by themselves, and smaller families on cycle obstructions, coexistence without cooperation, affect and roles hang from it
+# SYNTHESIS-051: Frustration among an organization's demands is an ordinal fact about which sets of them can be jointly met, and relief is the enlargement of that complex for the same demands, judged against a fixed reference set; the residual, governance regret and budgets refine it without identifying thwarting, quiet, thresholds and tolerances are kept apart from it, niche differentiation matters as possible relief that the open questions ask whether operators can reach by themselves, and smaller families on cycle obstructions, coexistence without cooperation, affect and roles hang from it
 
 *A part account of the distributed-agency line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): the part the community map of the line calls frustration, 52 entries. The line's account is built over it and the accounts of its six sibling parts (conferral, normative-institutional, unit-boundary, individuation, persistence, collective-stance). Most of its core came from the exchange of 2026-10-17 (U33 to U38), the reviews the owner relayed on 2026-10-18 and the synthesis relayed the same day; the rest from "Organizational Nucleation and SLT" (2026-11-04), "Individuation, Possibility, and Disposition" (2026-11-06 to 07) and readings. Twenty-five of its entries carry another line, and eleven have another line first. Several are integrated by other lines' accounts as well, listed in the section on where else they are integrated; this account integrates every member again.*
 
@@ -557,14 +560,14 @@ and [CLAIM-597](../claims.d/CLAIM-597.md) carry converse complements. The rest a
 
 ## Links tested as claims
 
-One is filed with this account, [CLAIM-tmp9hy40](../claims.d/CLAIM-tmp9hy40.md) (Proposed), and this
+One is filed with this account, [CLAIM-634](../claims.d/CLAIM-634.md) (Proposed), and this
 account integrates it.
 
 - **The minimal conflicts among overlap demands are the violating cycles.**
   For [CLAIM-538](../claims.d/CLAIM-538.md)'s demands, |x_v − x_u − a_e| ≤ δ_e, the minimal non-faces of
   [CLAIM-347](../claims.d/CLAIM-347.md)'s complex over the overlaps are exactly the simple cycles whose
   holonomy exceeds their summed tolerance. Passes by derivation; no entry
-  states it, and [CLAIM-538](../claims.d/CLAIM-538.md) disclaims the general link. Filed as [CLAIM-tmp9hy40](../claims.d/CLAIM-tmp9hy40.md).
+  states it, and [CLAIM-538](../claims.d/CLAIM-538.md) disclaims the general link. Filed as [CLAIM-634](../claims.d/CLAIM-634.md).
 - **Every non-relief the record names changes a demand or the evaluation,
   never the attainable set.** Raising a threshold ([CLAIM-549](../claims.d/CLAIM-549.md)), widening a
   tolerance ([CLAIM-552](../claims.d/CLAIM-552.md)), raising acceptance ([CLAIM-553](../claims.d/CLAIM-553.md)), excising or

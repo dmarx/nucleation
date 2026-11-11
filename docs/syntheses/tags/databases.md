@@ -6,8 +6,8 @@
 
 **Databases and data structures** — how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045).
 
-0 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-057](../../../record/syntheses.d/SYNTHESIS-057.md) | What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open |  | Proposed |

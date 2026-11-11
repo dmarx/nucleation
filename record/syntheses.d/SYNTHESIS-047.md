@@ -1,5 +1,8 @@
 ---
+number: 47
 status: Proposed
+formerly:
+- SYNTHESIS-tmp2stjj
 title: 'A collective that replaces all its members, or a self that goes inactive, persists on the record''s account by causal transmission of the organization that produces it or by the capacity to reinstate it, not by resemblance or a running quantity: persistence has senses that come apart, its successors can be plural without identity branching, what must be transmitted is still open, a slow variable belongs to a collective''s dynamics only when its members read and regenerate it, and a feature recovered from members'' activity is at most a constituent of a perspective'
 version: 1
 defeated_if: >-
@@ -61,7 +64,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; integrated with that standing -->
 <!-- inactive-ok-file: CASE-028 CLAIM-427 SYNTHESIS-001 SYNTHESIS-004 — Superseded; CASE-028 by CASE-006 and SYNTHESIS-001 by CLAIM-615, cited as such and not integrated, CLAIM-427 as QUESTION-276 cites it, SYNTHESIS-004 as an earlier account that named CLAIM-329 -->
 
-# SYNTHESIS-tmp2stjj: A collective that replaces all its members, or a self that goes inactive, persists on the record's account by causal transmission of the organization that produces it or by the capacity to reinstate it, not by resemblance or a running quantity: persistence has senses that come apart, its successors can be plural without identity branching, what must be transmitted is still open, a slow variable belongs to a collective's dynamics only when its members read and regenerate it, and a feature recovered from members' activity is at most a constituent of a perspective
+# SYNTHESIS-047: A collective that replaces all its members, or a self that goes inactive, persists on the record's account by causal transmission of the organization that produces it or by the capacity to reinstate it, not by resemblance or a running quantity: persistence has senses that come apart, its successors can be plural without identity branching, what must be transmitted is still open, a slow variable belongs to a collective's dynamics only when its members read and regenerate it, and a feature recovered from members' activity is at most a constituent of a perspective
 
 *A part account of the distributed-agency line: the part on what persists
 when a collective replaces its members or a self goes inactive, how the
@@ -72,7 +75,7 @@ Infrastructure Review" (2026-10-26), "Assess SDT Coverage" (2026-11-02) and
 "Individuation, Possibility, and Disposition" (2026-11-06 to 07), among
 others. The line's account is built over it and the line's other parts. The
 mechanical map put six entries on world-modeling in this part; they barely
-relate to the rest (two linked pairs), and they have their own part account, [SYNTHESIS-tmptxoa2](SYNTHESIS-tmptxoa2.md). Several entries here are integrated also by
+relate to the rest (two linked pairs), and they have their own part account, [SYNTHESIS-055](SYNTHESIS-055.md). Several entries here are integrated also by
 accounts of other lines, said where below; this account integrates them
 again because their `line` includes distributed-agency.*
 

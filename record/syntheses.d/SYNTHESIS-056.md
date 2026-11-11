@@ -1,5 +1,8 @@
 ---
+number: 56
 status: Proposed
+formerly:
+- SYNTHESIS-tmpvvtbk
 title: 'An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members'' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability'
 version: 1
 defeated_if: >-
@@ -89,7 +92,7 @@ integrates:
 <!-- inactive-ok-file: ARG-047 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-427 — Superseded; components and citations, with their standing -->
 
-# SYNTHESIS-tmpvvtbk: An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability
+# SYNTHESIS-056: An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability
 
 *A part account of the distributed-agency line ("Distributed agency"): the
 part filed mostly from the exchanges of 2026-10-17 to 2026-10-27 (on
@@ -98,7 +101,7 @@ Chagossians") and from the two shares of "Individuation, Possibility, and
 Disposition" (2026-11-06 to 07). The line's account is built over it and
 the line's other part accounts. The mechanical community map put two
 other inquiries with it, which this round drafts as accounts of their own
-(availability and arrangement, [SYNTHESIS-tmpzmzgz](SYNTHESIS-tmpzmzgz.md); partners coming to depend on one another, [SYNTHESIS-tmpqnl6z](SYNTHESIS-tmpqnl6z.md)).
+(availability and arrangement, [SYNTHESIS-057](SYNTHESIS-057.md); partners coming to depend on one another, [SYNTHESIS-053](SYNTHESIS-053.md)).
 What stays here is one inquiry: 182 pairs of its members are linked by a
 relation or a mention, 135 among the entries on legibility, correction and
 the wrong, 27 among those on perspectives, and 20 joining the two. Several

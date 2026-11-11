@@ -1,5 +1,8 @@
 ---
+number: 53
 status: Proposed
+formerly:
+- SYNTHESIS-tmpqnl6z
 title: 'When formerly autonomous partners come to depend on one another, which properties each route to dependence brings about, and which make the partnership a new individual, is open: the documented symbioses show dependence, reproductive cohesion, the distribution of functions across genomes and host control coming apart, dependence directional, and integration undone as well as deepened, and the record holds that gene ancestries and stem lengths alone cannot tell a partner from a donor or time its acquisition'
 version: 1
 defeated_if: >-
@@ -30,7 +33,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CASE-167 CASE-168 CASE-171 CASE-173 CASE-174 CASE-177 CLAIM-603 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmpqnl6z: When formerly autonomous partners come to depend on one another, which properties each route to dependence brings about, and which make the partnership a new individual, is open: the documented symbioses show dependence, reproductive cohesion, the distribution of functions across genomes and host control coming apart, dependence directional, and integration undone as well as deepened, and the record holds that gene ancestries and stem lengths alone cannot tell a partner from a donor or time its acquisition
+# SYNTHESIS-053: When formerly autonomous partners come to depend on one another, which properties each route to dependence brings about, and which make the partnership a new individual, is open: the documented symbioses show dependence, reproductive cohesion, the distribution of functions across genomes and host control coming apart, dependence directional, and integration undone as well as deepened, and the record holds that gene ancestries and stem lengths alone cannot tell a partner from a donor or time its acquisition
 
 *A part account of the distributed-agency line ("Distributed agency"): the
 part filed from the exchange of 2026-10-27 on reductive evolution and
@@ -41,7 +44,7 @@ through, it is a separate inquiry, with 15 pairs of its members linked by
 a relation or a mention, 3 pairs linking it to the rest of that map's part
 (all through [CLAIM-060](../claims.d/CLAIM-060.md)) and 2 to the rest of the line. Its two siblings
 from the same map are the accounts of availability and arrangement and of
-perspectives, legibility and correction, [SYNTHESIS-tmpzmzgz](SYNTHESIS-tmpzmzgz.md) and [SYNTHESIS-tmpvvtbk](SYNTHESIS-tmpvvtbk.md).*
+perspectives, legibility and correction, [SYNTHESIS-057](SYNTHESIS-057.md) and [SYNTHESIS-056](SYNTHESIS-056.md).*
 
 ## The account
 

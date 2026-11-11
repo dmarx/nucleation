@@ -1,5 +1,8 @@
 ---
+number: 55
 status: Proposed
+formerly:
+- SYNTHESIS-tmptxoa2
 title: 'Competent behaviour across a family of goals fixes the world model an observer must ascribe without identifying any mechanism inside the agent, so world-modeling is a family of query-relative, resource-bounded capabilities, of which a representational model is one realization, and producing, maintaining and revising them are further organizational achievements that a proposed study would separate'
 version: 1
 defeated_if: >-
@@ -25,7 +28,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CLAIM-329 CLAIM-355 CLAIM-447 CLAIM-514 CLAIM-519 TERM-086 TERM-118 THEORY-092 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmptxoa2: Competent behaviour across a family of goals fixes the world model an observer must ascribe without identifying any mechanism inside the agent, so world-modeling is a family of query-relative, resource-bounded capabilities, of which a representational model is one realization, and producing, maintaining and revising them are further organizational achievements that a proposed study would separate
+# SYNTHESIS-055: Competent behaviour across a family of goals fixes the world model an observer must ascribe without identifying any mechanism inside the agent, so world-modeling is a family of query-relative, resource-bounded capabilities, of which a representational model is one realization, and producing, maintaining and revising them are further organizational achievements that a proposed study would separate
 
 *A part account of the distributed-agency line: the entries filed from the
 second review of the exchange "Analyze nucleation concepts" (2026-10-31),
@@ -33,7 +36,7 @@ with the term for an organizational achievement they use. The mechanical
 map put them in the part on persistence and transmission, where they barely
 relate to the rest: six entries with twelve linked pairs among them and two
 to the other forty-one, both through [TERM-086](../terms.d/TERM-086.md). So this part has its own
-account, beside that part's, [SYNTHESIS-tmp2stjj](SYNTHESIS-tmp2stjj.md). The line's account is built over both
+account, beside that part's, [SYNTHESIS-047](SYNTHESIS-047.md). The line's account is built over both
 and the line's other parts.*
 
 ## The account

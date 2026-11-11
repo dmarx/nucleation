@@ -1,5 +1,8 @@
 ---
+number: 52
 status: Proposed
+formerly:
+- SYNTHESIS-tmpnu96v
 title: 'What a collective is credited with need not be what its members hold: an organized whole''s operative intention is not the expectation of its members'' intentions and its reasons can part from theirs; a diffuse population with no procedure can show a public stance or change an outside institution without a collective intention, whether the credit is then due to it is open, and composition and a group process are offered as routes by which its most committed or extreme members fix the stance; a person can be organized by a judgement attributed to a collective that does not hold it, governs themselves by making such a judgement''s authority depend on its grounds, and that rule holds without qualification only for judgements of what already is; and whether a community of sound inquirers can settle on a belief none of them reasoned to is open, with model results whose tests in real communities are open questions'
 version: 1
 defeated_if: >-
@@ -74,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-278 SYNTHESIS-005 — Superseded; cited as named by members, or as the account that once listed a member -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; cited as the question set aside -->
 
-# SYNTHESIS-tmpnu96v: What a collective is credited with need not be what its members hold: an organized whole's operative intention is not the expectation of its members' intentions and its reasons can part from theirs; a diffuse population with no procedure can show a public stance or change an outside institution without a collective intention, whether the credit is then due to it is open, and composition and a group process are offered as routes by which its most committed or extreme members fix the stance; a person can be organized by a judgement attributed to a collective that does not hold it, governs themselves by making such a judgement's authority depend on its grounds, and that rule holds without qualification only for judgements of what already is; and whether a community of sound inquirers can settle on a belief none of them reasoned to is open, with model results whose tests in real communities are open questions
+# SYNTHESIS-052: What a collective is credited with need not be what its members hold: an organized whole's operative intention is not the expectation of its members' intentions and its reasons can part from theirs; a diffuse population with no procedure can show a public stance or change an outside institution without a collective intention, whether the credit is then due to it is open, and composition and a group process are offered as routes by which its most committed or extreme members fix the stance; a person can be organized by a judgement attributed to a collective that does not hold it, governs themselves by making such a judgement's authority depend on its grounds, and that rule holds without qualification only for judgements of what already is; and whether a community of sound inquirers can settle on a belief none of them reasoned to is open, with model results whose tests in real communities are open questions
 
 *A part account of the distributed-agency line: the part the line's map
 calls collective stance, 29 entries on what is credited to a collective

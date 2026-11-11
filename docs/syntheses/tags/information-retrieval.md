@@ -6,8 +6,9 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-1 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 57 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v2 | Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored |  | Proposed |
+| [SYNTHESIS-057](../../../record/syntheses.d/SYNTHESIS-057.md) | What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open |  | Proposed |

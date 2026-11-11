@@ -1,5 +1,8 @@
 ---
+number: 57
 status: Proposed
+formerly:
+- SYNTHESIS-tmpzmzgz
 title: 'What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open'
 version: 1
 defeated_if: >-
@@ -42,7 +45,7 @@ integrates:
 <!-- inactive-ok-file: ADR-075 CASE-166 SYNTHESIS-015 SYNTHESIS-039 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-306 — Superseded; components and citations, with their standing -->
 
-# SYNTHESIS-tmpzmzgz: What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open
+# SYNTHESIS-057: What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open
 
 *A part account of the distributed-agency line ("Distributed agency"): the
 part filed from the owner's EMT case and LEGO parable (2026-10-15) and the
@@ -53,7 +56,7 @@ separate inquiry, with 41 pairs of its members linked by a relation or a
 mention, 12 pairs linking it to the rest of that map's part and 1 to the
 rest of the line. Its two siblings from the same map are the accounts of
 partners coming to depend on one another and of perspectives, legibility
-and correction, [SYNTHESIS-tmpqnl6z](SYNTHESIS-tmpqnl6z.md) and [SYNTHESIS-tmpvvtbk](SYNTHESIS-tmpvvtbk.md).*
+and correction, [SYNTHESIS-053](SYNTHESIS-053.md) and [SYNTHESIS-056](SYNTHESIS-056.md).*
 
 ## The account
 
