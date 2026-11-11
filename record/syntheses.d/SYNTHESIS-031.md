@@ -30,8 +30,8 @@ date: '2026-11-10'
 line:
 - readiness
 integrates:
-- SYNTHESIS-tmp78y0i
-- SYNTHESIS-tmp1m0vj
+- SYNTHESIS-027
+- SYNTHESIS-024
 - CLAIM-602
 bears_on:
 - QUESTION-386
