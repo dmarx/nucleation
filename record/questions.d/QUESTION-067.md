@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpsbq58
 title: 'For a test of pragmatic judgements, under what probe families do renderings count as operationally equivalent, so that a test of Spekkens''s generalized noncontextuality applies and not only one of the sheaf or Kochen–Specker kind?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -43,6 +43,12 @@ history:
     generalized kind, which also requires that renderings no probe can
     tell apart get the same representation?' "What the record holds" now
     lists THEORY-231, THEORY-315 and THEORY-559.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    "The question" still asked what each notion's failure would show,
+    which moved to QUESTION-246 (Answered) at version 4. It now asks
+    what is left, as the title does. No other change.
 tags:
 - contextuality
 - quantum-foundations
@@ -65,7 +71,7 @@ summary: >-
 
 ## The question
 
-[CLAIM-009](../claims.d/CLAIM-009.md) supposes that pragmatic judgements may be formally contextual. [CLAIM-037](../claims.d/CLAIM-037.md) reads that as a failure of global extension over a cover of measurement contexts. That is the Kochen–Specker and sheaf notion. There is a second notion. Spekkens's generalized noncontextuality also constrains preparations. Operationally equivalent preparations must get the same representation. The question is which notion the record's test is aimed at, and what each would show if it failed.
+[CLAIM-009](../claims.d/CLAIM-009.md) supposes that pragmatic judgements may be formally contextual. [CLAIM-037](../claims.d/CLAIM-037.md) reads that as a failure of global extension over a cover of measurement contexts. That is the Kochen–Specker and sheaf notion. There is a second notion. Spekkens's generalized noncontextuality also constrains preparations. Operationally equivalent preparations must get the same representation. What a failure of each notion refutes, and that the generalized one is broader, is QUESTION-246, Answered. The question here is when a pragmatic test's probe families make renderings operationally equivalent, so that the generalized notion applies and the test is not only of the sheaf or Kochen–Specker kind.
 
 ## Why the record needs it
 

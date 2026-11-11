@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpt7tsv
 title: 'Voita, Sennrich and Titov''s BLEU-tied translation systems that differ on keeping ты or вы across sentences'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    "What it cannot show" quoted CLAIM-142 as asking for a difference
+    "on held-out probes or in competent uptake", words CLAIM-142 does
+    not contain. It now quotes CLAIM-142's rule of evidence and
+    attributes competent uptake to CLAIM-217, as CLAIM-142's note of
+    2026-10-29 does. No other change.
 standing: documented
 kind: reported-study
 tags:
@@ -23,6 +32,7 @@ summary: >-
   a standard probe family and different under an independently built
   one. An ML paper that neither record holds.
 ---
+<!-- inactive-ok-file: CLAIM-217 — Proposed; the competent-uptake standard, cited as open -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the claim this case supports, open -->
 
 # CASE-070: Voita, Sennrich and Titov's BLEU-tied translation systems that differ on keeping ты or вы across sentences
@@ -108,9 +118,10 @@ cannot keep a T-consistent and a V-consistent continuation apart at all.
 
 ## What it cannot show
 
-**The partly met condition: competent uptake of these outputs.** [CLAIM-142](../claims.d/CLAIM-142.md)
-asks for a documented difference "on held-out probes or in competent
-uptake". The held-out probe is met in full. Uptake is met only at one
+**The partly met condition: competent uptake of these outputs.** [CLAIM-142](../claims.d/CLAIM-142.md)'s
+rule of evidence asks for "independently justified probes evaluated on
+held-out cases", and competent uptake is the standard CLAIM-217 offers for
+its realist half (CLAIM-142's note of 2026-10-29). The held-out probe is met in full. Uptake is met only at one
 remove. The human study shows that the distinction the baseline misses is
 one native annotators treat as making a translation wrong, but it was run
 on the baseline's outputs only. No reader compared the outputs of the

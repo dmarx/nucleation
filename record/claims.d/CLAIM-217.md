@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpawn12
 title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act''s other constituents diverge from the judges'' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -19,6 +19,13 @@ history:
     the first horn are qualified to match. The interlocutor's reading
     of 2026-10-12 had advised the same weakening. Version 1 made the
     judges the criterion.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary and "What it does not say" named CLAIM-139's ontological
+    clause, as if current; CLAIM-139 was superseded on 2026-10-29 by
+    CLAIM-204, which keeps that clause and takes this claim's standard
+    into it. They now name CLAIM-204's clause. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,13 +63,14 @@ summary: >-
   diverge from them. The kind's extension is the class the
   standard fixes, and analysts' families are insufficient when coarser.
   No test needs a kind that outruns every family. A proposal, resting on
-  a Proposed premise. It does not touch [CLAIM-139](CLAIM-139.md)'s ontological clause,
-  which the programme does not test.
+  a Proposed premise. It does not touch the ontological clause of CLAIM-204,
+  which superseded CLAIM-139 and keeps that clause, and which the programme
+  does not test.
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
-<!-- inactive-ok-file: CLAIM-206 — Proposed; the objection this entry answers, left open until the owner decides on the revised October thesis -->
+<!-- inactive-ok-file: CLAIM-206 — Proposed; the objection this entry answers, open -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-204 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-217: For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents
@@ -157,7 +165,7 @@ class competent uptake fixes, because uptake partly constitutes the act.
   population, and which population is [QUESTION-075](../questions.d/QUESTION-075.md)'s.
 - It does not say relations constitute the kind wholesale ([CLAIM-150](CLAIM-150.md)).
   [CLAIM-151](CLAIM-151.md) says "partly", and this entry inherits the qualifier.
-- It does not reach [CLAIM-139](CLAIM-139.md)'s ontological clause. A kind that outruns
+- It does not reach the ontological clause CLAIM-204 keeps from CLAIM-139. A kind that outruns
   even competent uptake is not excluded by argument here; it is simply not
   what any test needs.
 

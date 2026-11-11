@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpq9do8
 title: 'The loop that keeps a lucid agent''s model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference''s action–perception cycle misplaces where the agent is active'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -38,6 +38,15 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    The quotation of CLAIM-297's circuit read "endorsement", which
+    CLAIM-297 has read "conferral" since its ADR-070 revision of
+    2026-11-04; it now quotes CLAIM-297 as it stands. The Di Paolo rival
+    cited THEORY-628, whose argument was split into THEORY-1166 (what Di
+    Paolo argues, Active) on 2026-10-29; the rival cites what he says,
+    so it now cites THEORY-1166, as CLAIM-339 did. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -110,7 +119,7 @@ Observation`, which connects us back to our model and also makes our
 complaint with Friston's formulation precise."
 
 The record's model already has this loop. [CLAIM-297](CLAIM-297.md) writes the operator
-model as a circuit, "frame → retrieval → interpretation → endorsement →
+model as a circuit, "frame → retrieval → interpretation → conferral →
 future retrieval policy". It is two coupled processes over a meaning state
 x, operator weights w and queries q:
 
@@ -265,7 +274,7 @@ outcome, is not part of this claim:
   the model in touch.
 - **Sense-making from regulation.** Di Paolo: a norm the system itself has
   needs adaptivity, which detects tendencies toward the viability boundary
-  "and acts so as to reverse them" ([THEORY-628](../theory.d/THEORY-628.md)).
+  "and acts so as to reverse them" (THEORY-1166).
 - **Agency defined by action.** Agents are "the systems that would adapt
   their policy were their actions to affect the world differently"
   ([THEORY-527](../theory.d/THEORY-527.md)). On that definition a judge that cannot act is not an

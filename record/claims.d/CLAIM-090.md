@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppvvyq
 title: 'Serial transmission is reconstructive and filtered by the transmitters'' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -20,6 +20,15 @@ history:
     it, and the claim says it is unread here, so the body's citation
     is the link. LIT-768's supports entry for this claim is removed.
     The claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-137, a relation the synthesis review of
+    2026-11-11 found missing, on its note of 2026-10-29: the general
+    form "waits on a chain whose endpoint matches a prior measured on
+    its own transmitters before transmission (QUESTION-137)". The line
+    is unchanged under ADR-085: the target's line is already this
+    entry's. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -43,6 +52,8 @@ summary: >-
   The manuscript's §8, citing Bartlett, Griffiths and Kalish, and Kirby,
   Cornish and Smith together as showing the same thing. [CLAIM-066](CLAIM-066.md)
   separates what each shows.
+bears_on:
+- QUESTION-137
 ---
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, cited from the manuscript and said to be unread, no ground here -->
 

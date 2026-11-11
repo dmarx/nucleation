@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpe2csg
 title: 'Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only relative to a specified class of admissible correspondences between their observations, independently validated and not admitted because they remove the disagreement'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -34,6 +34,12 @@ history:
     stays. CLAIM-011, CLAIM-035 and CLAIM-265 are Active, CLAIM-238's
     concession is written (version 2), and nothing meets the defeat
     condition.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    A dated note says that the notes of 2026-10-13 and 2026-10-29 name
+    CLAIM-004 as a premise, which version 3 dropped from rests_on, and
+    gives the premises now. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -201,3 +207,11 @@ only argument can defeat this claim on the circularity horn named above.
 Its premise [CLAIM-004](CLAIM-004.md) is Proposed. The first disjunct needs pragmatic data
 with a correspondence validated independently, which no study has collected,
 and [QUESTION-005](../questions.d/QUESTION-005.md), which the second disjunct turns on, is Open.
+
+## Note of 2026-11-11: its premises now
+
+The notes of 2026-10-13 and 2026-10-29 above name CLAIM-004 as a premise,
+and the second says it holds this claim back. Version 3 (2026-10-30)
+dropped CLAIM-004 from `rests_on` and promoted the claim. Its premises are
+now CLAIM-011, CLAIM-035 and CLAIM-265; CLAIM-004 is cited in the body as
+the origin of the first two classes of disagreement, not as a premise.

@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmprdod5
 title: 'Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-006, a relation the synthesis review of
+    2026-11-11 found missing, on QUESTION-006's note of 2026-10-11,
+    which lists it among "entries bearing on this question without being
+    linked to it". The line is unchanged under ADR-085: the target's
+    line is already this entry's. No other change.
 role: disclaimed
 warrant: demonstrated
 tags:
@@ -25,6 +34,8 @@ summary: >-
   processes, not a universal conservation law of meaning".
 grounds:
 - THEORY-211
+bears_on:
+- QUESTION-006
 ---
 
 # CLAIM-093: Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived

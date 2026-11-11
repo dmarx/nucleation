@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpuwwjx
 title: 'Under Markov reconstruction kernels, an observable''s expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -34,6 +34,13 @@ history:
     the "second moment as well" stated here. It is still cited for the
     limit on the Noether reading and not leaned on: the three steps use
     nothing from it. The status is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-006, a relation the synthesis review of
+    2026-11-11 found missing, on QUESTION-006: "The manuscript §4 gives
+    the conservation criterion (CLAIM-107)". The line is unchanged under
+    ADR-085: the target's line is already this entry's. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -58,6 +65,8 @@ summary: >-
   the cited theorem needs that the discrete-time criterion leaves out.
 complements:
 - CLAIM-093
+bears_on:
+- QUESTION-006
 ---
 <!-- inactive-ok-file: CLAIM-059 — Proposed; cited as the open regimes claim that several closed classes would presuppose -->
 

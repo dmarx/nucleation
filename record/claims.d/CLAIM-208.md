@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6zbr9
 title: 'The compositional predictions are upper bounds whose constants cannot be estimated from serial-reproduction data in a metric fixed beforehand, so the compositional half of the success criterion cannot fail'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -14,6 +14,12 @@ history:
     advance and a prediction interval tested on chains not used in the
     estimation. CLAIM-056's condition asks for prediction, which a
     loose bound fails, so it can fail as stated and is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A dated note gives CLAIM-078's and CLAIM-059's defeat conditions as
+    restated after the concession of 2026-10-10; the body quotes them as
+    they stood before it. No other change.
 role: counter
 warrant: demonstrated
 tags:
@@ -115,3 +121,19 @@ objection is about measuring its constants.
 - A prediction stated as a point estimate of end-to-end drift with an
   interval, computed from kernels estimated on one set of chains and tested
   on another, so that it can fail.
+
+## Note of 2026-11-11: the conditions as conceded
+
+"The objection" quotes the defeat conditions as they stood on 2026-10-10,
+before this objection was conceded. CLAIM-078's second disjunct, "their
+behaviour along reconstruction chains departs from the composition
+bounds", is gone: its condition now asks for end-to-end drift "predicted
+from step kernels estimated, in a metric fixed in advance, from several
+independent retellers per generation on held-out and perturbed inputs" to
+fall outside a stated prediction interval on chains not used in the
+estimation. CLAIM-059's now reads "Per-generation sensitivities, estimated
+in a metric fixed in advance (not total variation, in which no Markov step
+amplifies) from several independent retellers per generation on held-out
+and perturbed inputs, show no difference between conditions that the
+theory assigns, in advance, to different regimes." CLAIM-056's is
+unchanged. Those are the designs "What would answer it" asks for.

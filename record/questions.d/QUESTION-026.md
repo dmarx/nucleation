@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmpepdzg
 title: 'Does categorical compositional semantics constrain transport between context-indexed empirical models, so that how a whole utterance''s observables are carried is fixed by how its parts'' are, and does the constraint reach past propositional content?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The note of 2026-10-11 listed THEORY-017 by a title cut off
+    mid-clause; it now gives the whole title. No other change.
 tags:
 - compositionality
 - contextuality
@@ -93,4 +99,6 @@ says; none has yet been assessed as an answer, and none is linked by
 `answers`.
 
 - [THEORY-017](../theory.d/THEORY-017.md): In a Hilbert-space model only unitarily invariant structure
-  is intrinsic; a basis or tensor factorisation,…
+  is intrinsic; a basis or tensor factorisation, and so any parts or
+  features, is extra data supplied from outside the space, and the record's
+  Hilbert-space works differ in where they get it.

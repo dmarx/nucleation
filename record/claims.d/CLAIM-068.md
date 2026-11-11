@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj8d91
 title: 'Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -25,6 +25,14 @@ history:
     it. CLAIM-056 is dropped from rests_on because the body never uses
     it. The supports entries for this claim on THEORY-164 and CLAIM-056
     are removed. The claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-137, a relation the synthesis review of
+    2026-11-11 found missing, on its note of 2026-10-29: "no chain in
+    the record ends on a prior measured on its own transmitters before
+    transmission (QUESTION-137)". The line is unchanged under ADR-085:
+    the target's line is already this entry's. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +54,8 @@ summary: >-
   the stable conventional endpoint and one stance-drift example, but not
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
+bears_on:
+- QUESTION-137
 ---
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-21'
@@ -65,6 +65,17 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Proposed becoming Proposed. The synthesis's own history stays on
     SYNTHESIS-011.
+- version: 10
+  date: '2026-11-11'
+  note: >-
+    Stale text after the return from SYNTHESIS-011 corrected. The
+    summary said only that the entry moved into the SYNTHESIS scheme; it
+    now says it returned on 2026-11-08. The italic line "Moved from
+    CLAIM-336", the synthesis's pointer to this entry, now points to the
+    history and the dated notes. A sentence after the mapping table says
+    that its first row joins TERM-031 and TERM-039, which each say they
+    differ, and that which one q carries is the free parameter the
+    Admission names; the table itself is unchanged. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -117,7 +128,8 @@ summary: >-
   model, not that either line's results transfer to the other unchanged.
   Each mapping is a hypothesis until a result on one line is shown to
   hold, through it, on the other. Moved into the SYNTHESIS scheme on
-  2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)); the thesis is the owner's and the mapping the
+  2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) as SYNTHESIS-011, and returned to CLAIM on
+  2026-11-08 (ADR-084); the thesis is the owner's and the mapping the
   assistant's, as filed.
 ---
 <!-- inactive-ok-file: CLAIM-286 ARG-065 — Proposed; a premise and the argument that concludes this, cited with their standing -->
@@ -128,7 +140,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-011](../syntheses.d/SYNTHESIS-011.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-336, where its development up to version 7 is recorded.*
+*Its development up to version 7 is recorded in the history and in the dated notes below.*
 
 ## The integration
 
@@ -181,6 +193,13 @@ The mapping, A6's:
 | — | operator, or coalition of operators | action-generating regime ([TERM-019](../terms.d/TERM-019.md)) |
 | — | influence w, and its update G with conferral E ([TERM-103](../terms.d/TERM-103.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
 | transport between two interpreters | a map between two such organizations | — |
+
+The first row joins TERM-031 and TERM-039, which say they differ: TERM-031
+is A24's situation tuple, an index on judgement distributions, and TERM-039
+is the elicitation protocol that enters the response "and not the
+situation". The mapping does not say which of them the query q carries, or
+whether the situation enters as the evidence o_t, which is the free
+parameter the "Admission" names.
 
 Read this way, the pragmatic-transport line studies the model from the
 outside, one interpreter at a time. It asks which responses an

@@ -7,7 +7,16 @@ title: 'A rendering can keep a distinction recoverable in principle and make it
   infeasible to recover: if pseudorandom generators exist, a uniformly random bit
   can be encoded so that an unbounded receiver recovers it except with probability
   at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-111, a relation the synthesis review of
+    2026-11-11 found missing, on its text: "QUESTION-111 asks where the
+    line falls for communicative distinctions", and QUESTION-111's
+    "CLAIM-304 shows the gap exists". The line is unchanged under
+    ADR-085: the target's line is already this entry's. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -35,6 +44,8 @@ summary: >-
   lossless rendering can defeat every efficient one. The construction is the record's,
   from [CLAIM-302](CLAIM-302.md)'s witness; A18 asked for one and warned
   against "a vague appeal to an inverse being hard".
+bears_on:
+- QUESTION-111
 ---
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

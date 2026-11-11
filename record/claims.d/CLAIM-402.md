@@ -76,7 +76,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
-<!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->
+<!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study as corroboration, not as a ground -->
 <!-- inactive-ok-file: THEORY-273 — Proposed; corroborates this claim, cited under what it does not say -->
 
 # CLAIM-402: Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category's own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent

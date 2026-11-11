@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpattzh
 title: "A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -16,6 +16,13 @@ history:
     carries that in rests_on. The concession is written into CLAIM-204
     (version 3); CLAIM-139 is Superseded and keeps the objection as
     history. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "Where it stands" said Open and that the owner had decided neither
+    this objection nor A240's recommendations; the claim is Active since
+    2026-10-30, CLAIM-204 records the concession, and CLAIM-139 is
+    Superseded by CLAIM-204. The section now says so. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -152,9 +159,10 @@ naming the study in its defeat condition, as the record's replies do.
 
 ## Where it stands
 
-Open. The separate theses are filed as proposals beside [CLAIM-139](CLAIM-139.md) and
-[CLAIM-204](CLAIM-204.md), and the owner has decided neither this objection nor
-A240's recommendations.
+Active since 2026-10-30 (the note below): CLAIM-204, which superseded
+CLAIM-139 on 2026-10-29, records the concession. The separate theses are
+filed as proposals beside CLAIM-204, and A240's recommendations are not
+adopted.
 
 ## Note of 2026-10-30: promoted
 

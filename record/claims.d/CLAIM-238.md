@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplkh2i
 title: 'Many of the line''s defeat conditions cannot in practice be met: the comparative ones are null results with no margin over an observable set the thesis may re-choose, and the possibility theses'' are universal negatives that no finite study establishes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -18,6 +18,12 @@ history:
     The rest stands, and is repaired by margins in CLAIM-220,
     CLAIM-202 and CLAIM-204 and by the restated conditions of
     CLAIM-033, CLAIM-087, CLAIM-105 and CLAIM-117. Status unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A dated note says that the list quotes CLAIM-105's version 1, and
+    gives its title and defeat condition as they now read after the
+    restatement this objection prompted. No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -139,3 +145,14 @@ conditions and of [CLAIM-028](CLAIM-028.md) and [CASE-029](../cases.d/CASE-029.m
   margin and a prespecified set of observables and weights, each possibility
   thesis given a claim of prevalence or magnitude that a study could defeat,
   and each impossibility condition replaced by an observable one.
+
+## Note of 2026-11-11: CLAIM-105 as it now reads
+
+The list above quotes CLAIM-105's version 1: its title's "may preserve
+local meanings" and its condition's "always carries". CLAIM-105 was
+restated on 2026-10-10 after this objection and CLAIM-219, and retitled on
+2026-10-19. Its title now reads "In documented reconstruction chains,
+steps that keep most local judgements commonly change their global
+compatibility", and its defeat condition is a prevalence test over
+documented chains, with signalling accounted for and a rate fixed in
+advance. That restatement is the concession this objection asked for.

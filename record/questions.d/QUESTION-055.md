@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpgy8la
 title: 'If communicative categories form a non-Boolean lattice, and the communicative object is a presheaf over contexts, over which base category is it one, and does some probe family split it into sectors that no probe connects?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -40,6 +40,14 @@ history:
     fixes the negation of a category: a presheaf over contexts, and if so
     over which base category, an orthocomplemented lattice, or sectors
     that no probe connects?'
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    "The question" still asked which negation the record's model gives,
+    and "What would answer it" asked for that negation, which moved to
+    QUESTION-247 (Answered) at version 3. Both sections now ask what is
+    left, the base category and the sectors, as the title does. No other
+    change.
 tags:
 - logic
 - quantum-foundations
@@ -61,7 +69,7 @@ summary: >-
 
 ## The question
 
-[CLAIM-119](../claims.d/CLAIM-119.md) holds that communicative categories form a concept lattice and are told apart by "a few social-relational constraints". To say that affectionate teasing is not sarcastic condemnation, the lattice needs a negation. Non-Boolean lattices of propositions offer three: an orthocomplement, a pseudo-complement under which excluded middle fails, or a product of Boolean sectors. The question is which one the record's own model gives.
+[CLAIM-119](../claims.d/CLAIM-119.md) holds that communicative categories form a concept lattice and are told apart by "a few social-relational constraints". To say that affectionate teasing is not sarcastic condemnation, the lattice needs a negation. Non-Boolean lattices of propositions offer three: an orthocomplement, a pseudo-complement under which excluded middle fails, or a product of Boolean sectors. Which one a presheaf over contexts gives is QUESTION-247, Answered: the Heyting pseudo-complement its base category fixes (THEORY-516, THEORY-037). What is left here is over which base category the communicative object is a presheaf, and whether some probe family splits it into sectors that no probe connects, which would make the lattice a product of Boolean sectors.
 
 ## Why the record needs it
 
@@ -76,7 +84,7 @@ The mechanism is structural identity, not analogy. [CLAIM-038](../claims.d/CLAIM
 
 ## What would answer it
 
-A derivation of the sub-object logic of the communicative object as [CLAIM-038](../claims.d/CLAIM-038.md) defines it, with its negation written out. Or a probe family shown to be block-diagonal across a pair of categories, which would make their lattice a product of sectors.
+A base category for the communicative object as [CLAIM-038](../claims.d/CLAIM-038.md) defines it, argued from the record's contexts, with the negation it fixes written out. Or a probe family shown to be block-diagonal across a pair of categories, which would make their lattice a product of sectors.
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** [THEORY-516](../theory.d/THEORY-516.md) and [THEORY-037](../theory.d/THEORY-037.md) answer the
 conditional part: over a presheaf of contexts, the negation is the
