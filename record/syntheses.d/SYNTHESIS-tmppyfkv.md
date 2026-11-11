@@ -34,25 +34,25 @@ built over it and its sibling parts. No other account integrates them.*
 
 ## The account
 
-- **The parent question.** QUESTION-120 (the record's; Open, version 5):
+- **The parent question.** [QUESTION-120](../questions.d/QUESTION-120.md) (the record's; Open, version 5):
   whether, beyond distances and sparse recovery, random features for
   kernels, the superposition toy model's bound and phase changes, and the
   expand-and-threshold codes of sparse distributed memory and the fly are
   one concentration-of-measure fact applied to different families, and
   whether each threshold counts the same thing. Its readings found
   nothing that reaches random features or expand-and-threshold; for the
-  latter the record holds two candidate forms, THEORY-261's SDM optimum and
-  THEORY-388's LSH exponent, "and neither is the proposed shape".
-- **The part answered.** QUESTION-251 (split from QUESTION-120 under
-  ADR-049; Answered): for sufficiency, yes, one per-vector tail and a
-  union bound give both the distance threshold (THEORY-397) and the
-  restricted isometry property (THEORY-390); for necessity, no, the
+  latter the record holds two candidate forms, [THEORY-261](../theory.d/THEORY-261.md)'s SDM optimum and
+  [THEORY-388](../theory.d/THEORY-388.md)'s LSH exponent, "and neither is the proposed shape".
+- **The part answered.** [QUESTION-251](../questions.d/QUESTION-251.md) (split from [QUESTION-120](../questions.d/QUESTION-120.md) under
+  [ADR-049](../decisions.d/ADR-049.md); Answered): for sufficiency, yes, one per-vector tail and a
+  union bound give both the distance threshold ([THEORY-397](../theory.d/THEORY-397.md)) and the
+  restricted isometry property ([THEORY-390](../theory.d/THEORY-390.md)); for necessity, no, the
   distance lower bounds are encoding and bit-counting arguments
-  (THEORY-395, THEORY-399), recovery's rests on Gelfand widths and its
-  sharp location on face counting (THEORY-391). "So the two sufficiency
+  ([THEORY-395](../theory.d/THEORY-395.md), [THEORY-399](../theory.d/THEORY-399.md)), recovery's rests on Gelfand widths and its
+  sharp location on face counting ([THEORY-391](../theory.d/THEORY-391.md)). "So the two sufficiency
   proofs are one argument over two families."
-- **Universality of the transition.** QUESTION-168 (filed by the promotion
-  audit when it narrowed THEORY-391; Open): whether the ℓ₁ recovery
+- **Universality of the transition.** [QUESTION-168](../questions.d/QUESTION-168.md) (filed by the promotion
+  audit when it narrowed [THEORY-391](../theory.d/THEORY-391.md); Open): whether the ℓ₁ recovery
   transition of some non-Gaussian ensemble provably converges to the
   Gaussian curve, or simulations an order of magnitude beyond N = 1600
   keep the gap shrinking as N^(−1/2). "More simulations at the same sizes
@@ -60,32 +60,32 @@ built over it and its sibling parts. No other account integrates them.*
 
 ## The components
 
-- QUESTION-120, the record's, Open; formal-apparatus only.
-- QUESTION-251, split under ADR-049, Answered; formal-apparatus only;
-  refines QUESTION-120.
-- QUESTION-168, the promotion audit's, Open; formal-apparatus only;
-  refines QUESTION-120.
+- [QUESTION-120](../questions.d/QUESTION-120.md), the record's, Open; formal-apparatus only.
+- [QUESTION-251](../questions.d/QUESTION-251.md), split under [ADR-049](../decisions.d/ADR-049.md), Answered; formal-apparatus only;
+  refines [QUESTION-120](../questions.d/QUESTION-120.md).
+- [QUESTION-168](../questions.d/QUESTION-168.md), the promotion audit's, Open; formal-apparatus only;
+  refines [QUESTION-120](../questions.d/QUESTION-120.md).
 
 ## Links the components state, and where
 
 Two pairs are linked, both by `refines`:
 
-- **QUESTION-251 refines QUESTION-120.** QUESTION-120's version 5 note
-  and its closing "Split" paragraph name QUESTION-251 and its answers;
-  QUESTION-251's "What it leaves to QUESTION-120" names what stays: the
+- **[QUESTION-251](../questions.d/QUESTION-251.md) refines [QUESTION-120](../questions.d/QUESTION-120.md).** [QUESTION-120](../questions.d/QUESTION-120.md)'s version 5 note
+  and its closing "Split" paragraph name [QUESTION-251](../questions.d/QUESTION-251.md) and its answers;
+  [QUESTION-251](../questions.d/QUESTION-251.md)'s "What it leaves to [QUESTION-120](../questions.d/QUESTION-120.md)" names what stays: the
   superposition model, random features, expand-and-threshold, and whether
   log(2 + ε²n)/ε² dimensions suffice for one set.
-- **QUESTION-168 refines QUESTION-120.** It moved THEORY-391's former
-  promote_when; QUESTION-120 keeps whether the superposition model's phase
+- **[QUESTION-168](../questions.d/QUESTION-168.md) refines [QUESTION-120](../questions.d/QUESTION-120.md).** It moved [THEORY-391](../theory.d/THEORY-391.md)'s former
+  promote_when; [QUESTION-120](../questions.d/QUESTION-120.md) keeps whether the superposition model's phase
   changes are the Donoho–Tanner transition.
 
-QUESTION-168 and QUESTION-251 name each other nowhere, though both turn on
-THEORY-391.
+[QUESTION-168](../questions.d/QUESTION-168.md) and [QUESTION-251](../questions.d/QUESTION-251.md) name each other nowhere, though both turn on
+[THEORY-391](../theory.d/THEORY-391.md).
 
 ## Links to other parts, stated
 
-None. No member names a member of another part account of this line or an entry the line account integrates directly, and none of them names a member here. CLAIM-313 of the gluing
-account (SYNTHESIS-tmphb9rl) cites THEORY-388, which QUESTION-120 names for the
+None. No member names a member of another part account of this line or an entry the line account integrates directly, and none of them names a member here. [CLAIM-313](../claims.d/CLAIM-313.md) of the gluing
+account ([SYNTHESIS-tmphb9rl](SYNTHESIS-tmphb9rl.md)) cites [THEORY-388](../theory.d/THEORY-388.md), which [QUESTION-120](../questions.d/QUESTION-120.md) names for the
 expand-and-threshold thread.
 
 ## Where else these entries are integrated
@@ -94,12 +94,12 @@ Nowhere.
 
 ## Not stated on the record
 
-Tested by ADR-075's step 5 at this review and not filed:
+Tested by [ADR-075](../decisions.d/ADR-075.md)'s step 5 at this review and not filed:
 
-- **A proof for QUESTION-168 would be another non-concentration
+- **A proof for [QUESTION-168](../questions.d/QUESTION-168.md) would be another non-concentration
   argument.** That if the transition's universality is proved, the proof
   goes through face counting or another route than a union bound, as
-  QUESTION-251 finds for the sharp location. The record holds no such
+  [QUESTION-251](../questions.d/QUESTION-251.md) finds for the sharp location. The record holds no such
   proof and no reason the route is fixed; the sentence predicts the method
   of an unwritten proof. Fails: no route.
 
@@ -107,4 +107,4 @@ Tested by ADR-075's step 5 at this review and not filed:
 
 - That the thresholds of random features, superposition or
   expand-and-threshold maps are, or are not, of the proposed shape; that
-  is QUESTION-120, Open.
+  is [QUESTION-120](../questions.d/QUESTION-120.md), Open.

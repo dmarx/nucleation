@@ -60,7 +60,7 @@ built over it and the accounts of the line's other parts. The mechanical
 map put 22 entries in this part; five of them ([CLAIM-040](../claims.d/CLAIM-040.md), [CLAIM-093](../claims.d/CLAIM-093.md),
 [CLAIM-094](../claims.d/CLAIM-094.md), [CLAIM-107](../claims.d/CLAIM-107.md) and [QUESTION-006](../questions.d/QUESTION-006.md)) are a second inquiry, conservation
 of observables under reconstruction kernels, that barely relates to the
-other seventeen, and have their own account (SYNTHESIS-060).
+other seventeen, and have their own account ([SYNTHESIS-060](SYNTHESIS-060.md)).
 The counts are under "Whether the part holds together". [CLAIM-260](../claims.d/CLAIM-260.md) also
 carries formal-apparatus; [CLAIM-267](../claims.d/CLAIM-267.md) and [CLAIM-270](../claims.d/CLAIM-270.md), in formal-apparatus
 only, hold the general results [CLAIM-056](../claims.d/CLAIM-056.md) and [CLAIM-081](../claims.d/CLAIM-081.md) apply.*

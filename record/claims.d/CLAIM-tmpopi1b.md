@@ -29,11 +29,11 @@ rests_on:
 - CLAIM-592
 - CLAIM-581
 summary: >-
-  CLAIM-580 shows that a planner who knows each configuration's
+  [CLAIM-580](CLAIM-580.md) shows that a planner who knows each configuration's
   requirement to within ε knows every transition threshold to within ε.
-  CLAIM-592 shows that whether a system's own reachable classes are ever
+  [CLAIM-592](CLAIM-592.md) shows that whether a system's own reachable classes are ever
   what an observer can tell apart depends on which levels its merge tree
-  (CLAIM-581) has and on the order of probe costs. The two do not combine
+  ([CLAIM-581](CLAIM-581.md)) has and on the order of probe costs. The two do not combine
   into a stability for the agreement. The thresholds move by at most ε,
   but two merges whose heights are within 2ε can swap order, and the merge
   tree's levels change with them. A five-state witness, checked with
@@ -41,7 +41,7 @@ summary: >-
   that the probes refine to, so the partitions agree on it under one cost
   order, while the estimated tree's middle level is refined to by no set
   of probes, so under the estimate no order brings any nontrivial level
-  into view. So CLAIM-592's design lever, choosing what is cheap to observe
+  into view. So [CLAIM-592](CLAIM-592.md)'s design lever, choosing what is cheap to observe
   so as to bring a chosen level of the system's structure into view, needs
   the requirement known to within half the gap between the merges that
   bound that level. The wording is the assistant's (Claude, in this
@@ -56,20 +56,20 @@ summary: >-
 Fix a finite system whose configurations carry a holding requirement r,
 with reversible moves, so that the threshold d(x, y) between two
 configurations is the least, over paths, of the largest r along the path
-(CLAIM-571's threshold, with identities free, as in CLAIM-581). As the
+([CLAIM-571](CLAIM-571.md)'s threshold, with identities free, as in [CLAIM-581](CLAIM-581.md)). As the
 acting budget a rises, the classes of configurations within a of one
-another form the merge tree of CLAIM-581. An observer buys probes, each a
+another form the merge tree of [CLAIM-581](CLAIM-581.md). An observer buys probes, each a
 partition of the configurations, in order of cost, and its partitions form
-a chain of common refinements (CLAIM-592).
+a chain of common refinements ([CLAIM-592](CLAIM-592.md)).
 
-1. **The thresholds are stable** (CLAIM-580). If |r̂ − r| ≤ ε everywhere,
+1. **The thresholds are stable** ([CLAIM-580](CLAIM-580.md)). If |r̂ − r| ≤ ε everywhere,
    every threshold moves by at most ε. So does each merge height, since a
    merge height is a threshold.
 2. **The levels are not.** Two distinct merges at heights h₁ < h₂ with
    h₂ − h₁ < 2ε can be reordered by an error within ε that raises the
    first bottleneck and lowers the second. The partition between them is
    then a different partition.
-3. **So the agreement is not.** By CLAIM-592, a level of the merge tree
+3. **So the agreement is not.** By [CLAIM-592](CLAIM-592.md), a level of the merge tree
    agrees with the observer's partition under some cost order exactly when
    it is the common refinement of some set of the probes. Changing the
    levels changes which partitions are candidates, while the probes stay
@@ -87,7 +87,7 @@ x, m₁ and y from the rest; probe q separates z from the rest.
 | estimate | 1.1, 1.0 | {x} {m₁} {y, m₂, z}, on [1.0, 1.1) | no: no set of probes refines to it |
 
 The estimate is within 0.1 of r everywhere, and every threshold is within
-0.1 of the true one, as CLAIM-580 says. The two merges are 0.1 apart, less
+0.1 of the true one, as [CLAIM-580](CLAIM-580.md) says. The two merges are 0.1 apart, less
 than 2ε = 0.2. Under the true requirement the observer buying p then q
 agrees with the system on its middle level; under the estimate no order of
 the two probes gives agreement on any level other than the trivial ones.
@@ -96,11 +96,11 @@ refinements of probe subsets.
 
 ## What it adds
 
-- **A limit to CLAIM-580's guarantee.** CLAIM-580 says the threshold does
+- **A limit to [CLAIM-580](CLAIM-580.md)'s guarantee.** [CLAIM-580](CLAIM-580.md) says the threshold does
   not amplify error. The structure built from many thresholds, the levels
   of the merge tree, is not a threshold, and an error that leaves every
   threshold nearly right can change it.
-- **A condition on CLAIM-592's design lever.** CLAIM-592 says an
+- **A condition on [CLAIM-592](CLAIM-592.md)'s design lever.** [CLAIM-592](CLAIM-592.md) says an
   instrument-maker who can change what is cheap to observe can bring a
   chosen level into view if some set of probes refines to it. Whether that
   level exists is itself known only to within the requirement's error: it
@@ -110,24 +110,24 @@ refinements of probe subsets.
 
 ## Admission
 
-Filed as a derived result (ADR-075, step 5, as ADR-084 applies it to a
+Filed as a derived result ([ADR-075](../decisions.d/ADR-075.md), step 5, as [ADR-084](../decisions.d/ADR-084.md) applies it to a
 claim whose premises are claims).
 
-- **The derivation.** From CLAIM-580, merge heights move by at most ε.
-  From CLAIM-581, the merge tree's levels are the partitions at its merge
-  heights, so their order fixes the levels. From CLAIM-592, the candidate
+- **The derivation.** From [CLAIM-580](CLAIM-580.md), merge heights move by at most ε.
+  From [CLAIM-581](CLAIM-581.md), the merge tree's levels are the partitions at its merge
+  heights, so their order fixes the levels. From [CLAIM-592](CLAIM-592.md), the candidate
   levels for agreement are the refinements of probe sets, fixed by the
   probes alone. An ε-error that reorders two merges therefore changes the
   levels while leaving the candidates fixed, and the witness shows one in
   which the true middle level is a candidate and the estimated one is not.
 - **Why it is not trivial.** Neither premise says it, and the first reads
-  as though it might carry over: a reader of CLAIM-580 told that every
+  as though it might carry over: a reader of [CLAIM-580](CLAIM-580.md) told that every
   threshold is known to within ε could take the merge tree, and with it
-  CLAIM-592's agreement, to be known too. The claim says which part
+  [CLAIM-592](CLAIM-592.md)'s agreement, to be known too. The claim says which part
   carries over (the heights) and which does not (their order, and so the
   levels).
-- **A realistic case.** On CASE-206's vertex the agreeing window that
-  CLAIM-572's note of 2026-11-07 gives, 1.125 ≤ a < 1.866, is bounded by
+- **A realistic case.** On [CASE-206](../cases.d/CASE-206.md)'s vertex the agreeing window that
+  [CLAIM-572](CLAIM-572.md)'s note of 2026-11-07 gives, 1.125 ≤ a < 1.866, is bounded by
   two merges 0.741 apart, so an error in the footprint below about 0.37
   leaves that level in the merge tree. That case is consistent with the claim and
   does not meet its `defeated_if`: the claim says the agreement can
@@ -138,8 +138,8 @@ claim whose premises are claims).
 - That agreement is fragile everywhere. A level whose two bounding
   merges lie more than 2ε apart survives an error within ε, by the same
   bound.
-- Anything about error in the probe costs, which CLAIM-592 already
+- Anything about error in the probe costs, which [CLAIM-592](CLAIM-592.md) already
   covers: reordering the probes is what its cost order is.
-- Anything about error in which moves are admissible, which CLAIM-580
+- Anything about error in which moves are admissible, which [CLAIM-580](CLAIM-580.md)
   also sets aside.
 - Anything about organizations; the witness is a construction.
