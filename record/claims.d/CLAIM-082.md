@@ -131,12 +131,12 @@ carried between systems. It does not show that this is Saussure's value.
 ## A model whose meanings are purely relational
 
 Karkada, Simon, Bahri and DeWeese ([LIT-855](../literature.d/LIT-855.md), read in [NOTE-660](../notes.d/NOTE-660.md)) solve a close
-proxy of word2vec in closed form (THEORY-739). The minimising embeddings are
+proxy of word2vec in closed form ([THEORY-739](../theory.d/THEORY-739.md)). The minimising embeddings are
 the top eigenvectors of one matrix: the relative deviation of each word
 pair's co-occurrence from independence. Nothing else enters, and the loss
 sees only inner products between embeddings, so each embedding is fixed
 only up to a common rotation. That training from small initialisation
-reaches them, one eigenvector at a time, is THEORY-182's further and
+reaches them, one eigenvector at a time, is [THEORY-182](../theory.d/THEORY-182.md)'s further and
 Proposed reading. A word's representation at the optimum is therefore
 nothing but its pattern of departures from chance co-occurrence with every
 other word, and the analogy structure the model shows comes out of that.

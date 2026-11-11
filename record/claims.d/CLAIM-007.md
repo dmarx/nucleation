@@ -54,7 +54,7 @@ Manuscript §7: "Schrödinger bridges offer a complementary path-space viewpoint
 simulation (Shi et al., 2022)." Nothing is observed along the path. It is the
 diffusion-side counterpart of the pragmatic phase change ([CLAIM-114](CLAIM-114.md)). It
 is not the same as historical drift ([CLAIM-071](CLAIM-071.md)).
-Shi et al. is LIT-776, read as THEORY-515: a bridge on the joint space
+Shi et al. is [LIT-776](../literature.d/LIT-776.md), read as [THEORY-515](../theory.d/THEORY-515.md): a bridge on the joint space
 with the observation held fixed solves conditional simulation. What the
 reading holds is about the bridge's endpoints, not about what is fixed
 along the path.

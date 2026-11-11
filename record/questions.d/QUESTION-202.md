@@ -55,12 +55,12 @@ the title was narrowed to those runs.
 - Measurements of NC1 and NC2 through the terminal phase under data
   augmentation, label noise and several seeds per setting, and of NC1
   under class imbalance. Under imbalance the geometry to test is that of
-  THEORY-738, not equiangularity: NC2 is predicted for balanced classes
+  [THEORY-738](../theory.d/THEORY-738.md), not equiangularity: NC2 is predicted for balanced classes
   only.
 - A held paper that derives collapse as the limit of gradient descent on
   cross-entropy. [LIT-974](../literature.d/LIT-974.md) derives it for MSE under a re-whitened flow
   ([THEORY-278](../theory.d/THEORY-278.md)), and [LIT-994](../literature.d/LIT-994.md) gives an endpoint, not a gradient-descent
-  derivation (THEORY-738; that training reaches it is THEORY-286's
+  derivation ([THEORY-738](../theory.d/THEORY-738.md); that training reaches it is [THEORY-286](../theory.d/THEORY-286.md)'s
   conjecture).
 
 It would be answered in the negative if standard training run well past

@@ -66,13 +66,13 @@ target results.
 
 ## Evidence since
 
-Akyürek et al. (LIT-796, read as THEORY-439) get more from the same
+Akyürek et al. ([LIT-796](../literature.d/LIT-796.md), read as [THEORY-439](../theory.d/THEORY-439.md)) get more from the same
 demonstrations by temporarily updating the weights on them (test-time
 training) than by conditioning alone. The update is discarded after the
 task, so by the record's ruling it is part of what the context supplies,
-not an improvement to the interpreter (CLAIM-074; CLAIM-118). It shows
+not an improvement to the interpreter ([CLAIM-074](../claims.d/CLAIM-074.md); [CLAIM-118](../claims.d/CLAIM-118.md)). It shows
 that two uses of one context differ, not that adaptation can stand in for
-transmitted information. Min et al. (LIT-814) find that the correctness of the
+transmitted information. Min et al. ([LIT-814](../literature.d/LIT-814.md)) find that the correctness of the
 labels carries little of what a context transmits.
 
 ## Note of 2026-10-11: material in the record that may bear on this

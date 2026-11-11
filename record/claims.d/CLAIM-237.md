@@ -160,7 +160,7 @@ characterization, that a map is such a simulation exactly when a
 non-contextual model of the hom scenario induces it. That half waits on an
 independent proof of the corrected Theorem 44 and stays Proposed.
 
-Correction of 2026-11-11: THEORY-174 is Active since the fifteenth status
+Correction of 2026-11-11: [THEORY-174](../theory.d/THEORY-174.md) is Active since the fifteenth status
 review (2026-10-29), on a checked re-derivation of the corrected Theorem 44
 (its note of 2026-10-29). This claim's grounds are unchanged, and
-THEORY-174 is not among them.
+[THEORY-174](../theory.d/THEORY-174.md) is not among them.

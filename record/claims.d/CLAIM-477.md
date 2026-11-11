@@ -159,8 +159,8 @@ structures come to persist.
 - **Not that a specification produces its realizations.** A9 §1:
   "model theory alone doesn't establish that the specification *causes* its
   models to exist. Mathematical satisfaction is not physical production."
-  Goguen and Burstall's theory–model connection (LIT-1661, read in
-  NOTE-1348) relates the two with neither defined from the other:
+  Goguen and Burstall's theory–model connection ([LIT-1661](../literature.d/LIT-1661.md), read in
+  [NOTE-1348](../notes.d/NOTE-1348.md)) relates the two with neither defined from the other:
   within an institution a theory is fixed by its model class and a model
   class by its theory, up to closure (p. 104), though signatures are
   prior to both. The words "without either being ontologically prior"
