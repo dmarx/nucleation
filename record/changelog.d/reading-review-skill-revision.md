@@ -1,3 +1,7 @@
+### Added
+
+- ADR-tmpkuzwl: a reading named as evidence in a question's or claim's text is tied when the name is written; a claim's supporting cases corroborate it; a question's instruments and cautions are its premises; readings used only by cases, terms or syntheses are held as used; a split run coordinates its raises.
+
 ### Changed
 
-- The reading-review skill takes what the first by-topic run settled: named-in-text ties, supporting cases as corroboration, instruments and cautions as premises, readings used only by cases, terms or syntheses, claims grounding on a work with a reading, and how a split run coordinates its raises. The read-and-file skill now writes the relation when a dated note names a reading as evidence.
+- The reading-review and read-and-file skills carry ADR-tmpkuzwl as instructions.

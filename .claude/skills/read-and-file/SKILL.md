@@ -6,6 +6,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-084 ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-tmpkuzwl — Proposed; readings named as evidence, until the owner adopts it -->
 
 # Reading and filing
 
@@ -206,8 +207,7 @@ not a finding.
 - **A note that names a reading as evidence writes the relation.** When a
   dated note on a question or claim cites a reading as evidence for or on
   it, write `bears_on` or `corroborates` from the reading in the same
-  change. The by-topic reading review of 2026-11-11 found most readings
-  the view counted unused named in such notes with no relation.
+  change (ADR-tmpkuzwl).
 - **`rivals`** is only for accounts that cannot both be right. Accounts
   that differ on which mechanism mattered most get a dated note instead.
 - **A QUESTION** needs a `line:`.
