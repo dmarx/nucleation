@@ -44,7 +44,7 @@ bounds:
 - CLAIM-157
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
-<!-- inactive-ok-file: CLAIM-157 THEORY-268 — Proposed; the block answer and the companion reading's theory this bears on, open -->
+<!-- inactive-ok-file: THEORY-268 — Proposed; the block answer and the companion reading's theory this bears on, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
 
 # THEORY-254: Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do

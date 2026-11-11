@@ -43,7 +43,7 @@ bounds:
 - CLAIM-174
 ---
 <!-- inactive-ok-file: CLAIM-174 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
-<!-- inactive-ok-file: CLAIM-170 CLAIM-174 THEORY-071 THEORY-232 — Proposed; the claims and accounts this bears on, open -->
+<!-- inactive-ok-file: CLAIM-170 THEORY-071 THEORY-232 — Proposed; the claims and accounts this bears on, open -->
 
 # THEORY-249: Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided
 

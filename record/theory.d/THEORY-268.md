@@ -53,7 +53,7 @@ bounds:
 - CLAIM-157
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-161 — Proposed; the answer, persistence test and account this bears on, open -->
+<!-- inactive-ok-file: CLAIM-161 — Proposed; the answer, persistence test and account this bears on, open -->
 
 # THEORY-268: An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment
 
@@ -128,4 +128,4 @@ toy was built for illustration, so the first test is weak.
   the average effective information can be higher at a macro scale, and
   this holds that the macro scale can be the worse description at most of
   the micro transitions it summarises. Neither conflicts with the other.
-<!-- inactive-ok-file: CLAIM-161 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
