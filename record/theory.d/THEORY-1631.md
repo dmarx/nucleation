@@ -71,7 +71,7 @@ is not believed to carry the person past death.
 
 ## Note of 2026-11-11: what holds it back
 
-NOTE-1312 skimmed the thesis. The title's figures come from the
+[NOTE-1312](../notes.d/NOTE-1312.md) skimmed the thesis. The title's figures come from the
 sections it read, but chapters 2–3, the religiosity scale
 (§§5.3.1–5.3.3), §§6.1.1–6.1.7, most of §§8.2–8.3, the text of
 §§9.1–9.5 and Appendices B–E are unread, and the results chapters

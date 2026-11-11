@@ -64,10 +64,10 @@ identification per se" (p. 720).
 
 ## What it bears on
 
-CLAIM-491 names the work as making the owner's thesis true of an
+[CLAIM-491](../claims.d/CLAIM-491.md) names the work as making the owner's thesis true of an
 economist's agent by construction. What the model makes true by
 construction is that identity-driven action maximizes the agent's
 utility, with the self served a self-image of conformity rather than a
 self that includes a group's good. It takes no `bears_on` edge to
-QUESTION-300, which asks about motivation aimed at another's good: the
+[QUESTION-300](../questions.d/QUESTION-300.md), which asks about motivation aimed at another's good: the
 model holds none (version 2's history).

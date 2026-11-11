@@ -82,7 +82,7 @@ help "primarily when they share a social identity" with the victim
   source, Barreto and Hogg's meta-analysis, and states the
   intergroup-contrast condition. It corroborates the claim; the claim
   does not rest on it.
-- It takes no `bears_on` edge to QUESTION-300, which asks about
+- It takes no `bears_on` edge to [QUESTION-300](../questions.d/QUESTION-300.md), which asks about
   motivation aimed at another's good. The review's account is of
   influence, and its "realm of the other", where no self is in play,
   concerns information rather than motive (version 2's history).

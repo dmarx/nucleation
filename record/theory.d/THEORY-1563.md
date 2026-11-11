@@ -90,5 +90,5 @@ action.
 The title said that the arguments offered for a time of perils are weak.
 Thorstad examines three, from wisdom, an existential risk Kuznets curve
 and space settlement (§§4–6), and sets aside the argument that advanced
-AI might end the perils (fn. 7), which NOTE-1308 calls the strongest.
+AI might end the perils (fn. 7), which [NOTE-1308](../notes.d/NOTE-1308.md) calls the strongest.
 The title now names the three and the one left aside.
