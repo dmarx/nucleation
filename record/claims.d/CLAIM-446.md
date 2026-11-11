@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-25'
@@ -80,6 +80,16 @@ history:
     2026-10-25, which leave the claim unchanged, and the argument does not
     rest on them. Their supports entries for this claim are removed. The
     claim is unchanged.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-325. The
+    claim offers governance-maintained anxiety "rather than
+    belief-maintained", a rival answer to what maintains persistent
+    avoidance, and its own text names the belief-maintained rivals of
+    THEORY-910 and THEORY-915 (QUESTION-325) as "not excluded". The
+    question's first line is already this claim's first, so no line is
+    added (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -126,6 +136,8 @@ summary: >-
   anxiety, not of anxiety in general, filed as a candidate answer to
   [QUESTION-045](../questions.d/QUESTION-045.md). Its evidence is model-level and adjacent; nothing here
   measures authority in patients.
+bears_on:
+- QUESTION-325
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 

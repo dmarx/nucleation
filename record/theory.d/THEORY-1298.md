@@ -16,7 +16,15 @@ promote_when: >-
   reports of having noticed oneself cannot settle it, since they are what
   is in question.
 title: "When mental control returns after mind-wandering, the self-model represents the return as the person's own act whether or not the person's control system caused it, because it must bridge to earlier control to keep the autobiographical self-model continuous"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-367,
+    whose body cites it for "the representation without control": the
+    return of control "is represented as self-caused whatever caused it".
+    No other change.
 tags:
 - self
 - free-will
@@ -35,6 +43,8 @@ summary: >-
   had the ability cannot represent its return as caused from outside. A
   hypothesis: no episode is reported in which the cause of a return and the
   report of it were recorded apart.
+bears_on:
+- QUESTION-367
 ---
 <!-- inactive-ok-file: THEORY-1300 — Proposed; companion reading, cited as open -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-156 — Proposed; claims this one bears on, cited as open -->

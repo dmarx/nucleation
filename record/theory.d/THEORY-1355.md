@@ -10,7 +10,18 @@ promote_when: >-
   manipulation preventing the inference of new causes (a hippocampal
   lesion or immaturity) removes those effects as the model predicts.
 title: 'Gershman, Blei and Niv propose that animals in conditioning experiments assign trials to latent causes under a prior admitting an unbounded number of causes, so that extinction is learned as a new cause rather than erasing the conditioned one, and that renewal and the context-dependence of latent inhibition follow from this inference while hippocampal lesions and immaturity abolish them by preventing new causes from being inferred'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-333,
+    whose note of 2026-11-04 says Gershman, Blei and Niv "give a mechanism
+    for a negative answer": extinction is learned as a new latent cause,
+    so the fall in responding need not index the conditioned cause.
+    NOTE-1547 reads it the same way ("Supports as a mechanism"). The
+    extension to exposure and follow-up fear is the record's, so bears_on
+    and not answers. No other change.
 tags:
 - learning-and-conditioning
 - probabilistic-modeling
@@ -28,6 +39,8 @@ summary: >-
   qualitative simulation beside replotted data from other labs, with no
   fitted parameters and no quantitative comparison with rival models. The
   wording is the reader's; adopting it is the owner's call.
+bears_on:
+- QUESTION-333
 ---
 
 # THEORY-1355: Gershman, Blei and Niv propose that animals in conditioning experiments assign trials to latent causes under a prior admitting an unbounded number of causes, so that extinction is learned as a new cause rather than erasing the conditioned one, and that renewal and the context-dependence of latent inhibition follow from this inference while hippocampal lesions and immaturity abolish them by preventing new causes from being inferred

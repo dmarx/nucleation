@@ -4,7 +4,18 @@ status: Active
 formerly:
 - CLAIM-tmpd9rrq
 title: 'Possessing an action-generating regime is not the same as its being practically effective'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears on QUESTION-367, as a
+    premise of it. The question starts from this claim's distinction, and
+    the claim's note reads Metzinger's mind-wandering as "an available
+    regime that is idle" whose stated cause is "a missing
+    self-representation", and asks whether that "is a condition of
+    efficacy or only accompanies one". The question's first line is
+    already this claim's, so no line is added (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,6 +38,8 @@ summary: >-
   generalizes beyond desires: the audit's "established foundation".
 complements:
 - CLAIM-459
+bears_on:
+- QUESTION-367
 ---
 <!-- inactive-ok-file: CLAIM-484 — Proposed; the claim-grant gap, cited to keep it apart from this claim -->
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
