@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpmus93
 title: 'When an organization reproduces a mechanism that keeps its harm non-legible, does it matter to whether the counter-normativity is the organization''s own that another installed the mechanism, or does only whose process now maintains it decide?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -12,6 +12,11 @@ history:
     A dated note: Thompson's lecture and Stute's story, read at the
     owner's request, and CASE-232, a mechanism installed by one
     party and reproduced through a host's routine. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The dated note of 2026-11-11 now says that CASE-232 carries
+    `bears_on` to this question, since ADR-tmpcrpf5. No other change.
 tags:
 - ethics
 - self-governance
@@ -124,4 +129,5 @@ that reproduces a mechanism it can see. The question may want to say which
 it asks about. The reading is the assistant's.
 
 A case cannot carry `bears_on`, so the tie is held by the two readings'
-`bears_on` and this note.
+`bears_on` and this note. (Since ADR-tmpcrpf5, later the same day, the case carries
+`bears_on` itself.)

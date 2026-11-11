@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmp4xp5m
 title: 'A former graduate student''s self-reproducing compiler Trojan horse, which kept a lab''s program flashing hateful messages by restoring its source on every compile and restored itself when the compiler was rebuilt from clean source'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-449, the question it was filed for ("Bearing on
+    QUESTION-449" is a section of its body), now that a case can carry
+    `bears_on` (ADR-tmpcrpf5). No line changes (ADR-085). No other
+    change.
 standing: stipulated
 kind: specimen
 tags:
@@ -25,6 +33,8 @@ summary: >-
   formed by one party, reproduced by the host's own routine (compiling),
   hidden from the host, and removed only by replacing the binary that
   produces it.
+bears_on:
+- QUESTION-449
 ---
 <!-- inactive-ok-file: THEORY-1560 THEORY-1561 — Proposed; the readings filed with this entry, cited with their standing -->
 

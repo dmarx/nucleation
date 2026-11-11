@@ -9,13 +9,13 @@ summary: >-
   A CASE could point only at claims (`illustrates`, `counterexample_to`)
   and at other cases, so a case filed for a question could not say so: the
   defect sweeps of 2026-11-11 found a dozen cases whose text names the
-  question they serve, and the case filed for QUESTION-tmpmus93 could reach
+  question they serve, and the case filed for QUESTION-449 could reach
   it only through its readings. A CASE now carries `bears_on`, to
   questions, with the meaning it has on a claim, and QUESTION's `bearing`
   converse takes cases. Whether a case tests, models or is an instance of
   the question is its `kind` (ADR-042), so one relation serves. ADR-085's
   line rule applies: a case takes the first line of a question it bears
-  on. The demonstration adds the relation to the cases the sweeps found.
+  on. The demonstration adds the relation to the cases the sweeps found and to CASE-232.
   Rejected: a relation per kind (tests, models, probes, examines);
   `motivates`; widening `illustrates` to questions.
 ---
@@ -36,7 +36,7 @@ QUESTION-118, CASE-058 on QUESTION-076, the symbiosis cases on
 QUESTION-277, CASE-195 on QUESTION-117, and CASE-117's proposed study,
 which maps its measures to six questions. The sweeps' history notes say "no
 relation a case can carry". The owner then filed a case for
-QUESTION-tmpmus93 (CASE-tmp4xp5m), and it could reach the question only
+QUESTION-449 (CASE-232), and it could reach the question only
 through the two readings that report it.
 
 ## Decision
@@ -55,7 +55,8 @@ through the two readings that report it.
 - **Demonstration (ADR-071).** The cases above gain the relation, each
   with a history note quoting the text that names the question.
   CASE-195 takes distributed-agency, QUESTION-117's first line. The rest
-  already carry their question's line.
+  already carry their question's line. CASE-232 gains it on QUESTION-449, which its
+  body already addresses.
 
 ## Alternatives considered
 
