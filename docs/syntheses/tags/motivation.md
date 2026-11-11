@@ -6,8 +6,8 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-0 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 23 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-020](../../../record/syntheses.d/SYNTHESIS-020.md) | In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in |  | Proposed |

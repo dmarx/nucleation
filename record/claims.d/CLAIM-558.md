@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4g8e1
 title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -38,6 +38,14 @@ history:
     The syntheses this pointed at returned to CLAIM at the decision that
     a SYNTHESIS is an account (ADR-084), so `corroborates` names
     CLAIM-600 for SYNTHESIS-010. No other change.
+- version: 6
+  date: '2026-11-10'
+  note: >-
+    Bears on QUESTION-395, which its body names: "Telling a
+    warranted reserve from wasteful redundancy, A's QUESTION-395,
+    then needs a measure of maintenance as well as of holding."
+    Found when the keeping part of readiness was checked for a root
+    question (2026-11-10). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,6 +82,8 @@ summary: >-
   wording is the filer's; adopting it is the owner's call.
 corroborates:
 - CLAIM-600
+bears_on:
+- QUESTION-395
 ---
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation

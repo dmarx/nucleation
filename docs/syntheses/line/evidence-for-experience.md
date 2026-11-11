@@ -6,8 +6,8 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-0 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 23 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-019](../../../record/syntheses.d/SYNTHESIS-019.md) | The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access |  | Proposed |

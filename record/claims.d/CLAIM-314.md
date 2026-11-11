@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpze74h
 title: 'Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -13,6 +13,13 @@ history:
     the body called CLAIM-308's guarantee "twice the hindsight optimum".
     CLAIM-308's version 3 states it as 2 − (c_a + u)/c_r, of which twice
     is the limit. No other change.
+- version: 3
+  date: '2026-11-10'
+  note: >-
+    Bears on QUESTION-098: its finding that "per-item break-even
+    decisions are not independent" bears on when filing is worth it.
+    Found when the costs part was checked for a root question
+    (2026-11-10). No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -36,6 +43,8 @@ summary: >-
   using the others. It undermines the premise [CLAIM-308](CLAIM-308.md) states, not its
   arithmetic. The hardness is worst case and over short definitions, partial
   reuse is cheap, and nothing here is measured on the record.
+bears_on:
+- QUESTION-098
 ---
 <!-- inactive-ok-file: CLAIM-308 — Proposed; the claim objected to, the claim it answers, and a survey's account cited as such -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->

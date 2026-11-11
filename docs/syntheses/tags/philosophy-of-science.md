@@ -6,8 +6,9 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-1 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 23 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [SYNTHESIS-012](../../../record/syntheses.d/SYNTHESIS-012.md) | The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds |  | Proposed |
+| [SYNTHESIS-019](../../../record/syntheses.d/SYNTHESIS-019.md) | The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access |  | Proposed |

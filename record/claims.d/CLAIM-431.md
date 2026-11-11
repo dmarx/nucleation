@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp4d358
 title: 'A corporation''s functional remorse cannot be told from prudence: any procedure or role duty that makes others'' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,14 @@ history:
     from grounds: Velasquez is Unavailable, read only in abstract, and
     the objection cites him as a parallel ("Velasquez's 'as if' … in
     functional form"), which takes no edge. The claim is unchanged.
+- version: 4
+  date: '2026-11-10'
+  note: >-
+    Answers QUESTION-265, an answer offered (ADR-060): its title
+    says the line between a remorseful and a psychopathic
+    corporation "does not hold", which is what QUESTION-265 asks of
+    remorse in a corporation. Found when the corporate-affect part
+    was checked for a root question (2026-11-10). No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -44,6 +52,8 @@ summary: >-
   concern (remorse) and a harm it takes only as a threat (fear) may not
   be drawable for a corporation, whose every concern was installed for
   its own ends. Velasquez's "as if" ([LIT-1432](../literature.d/LIT-1432.md)) in functional form.
+answers:
+- QUESTION-265
 ---
 
 <!-- inactive-ok-file: CLAIM-432 CLAIM-039 THEORY-892 — Proposed; the claims and reading this objection argues from or against, cited as open -->

@@ -6,8 +6,8 @@
 
 **Phenomenal unity** — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
-0 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 23 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-019](../../../record/syntheses.d/SYNTHESIS-019.md) | The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access |  | Proposed |

@@ -6,8 +6,8 @@
 
 **What a record of inquiry keeps** — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082).
 
-1 of 17 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 23 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) | What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make |  | Proposed |
+| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v2 | What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make |  | Proposed |
