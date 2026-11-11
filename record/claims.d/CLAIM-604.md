@@ -41,9 +41,12 @@ history:
   date: '2026-11-11'
   note: >-
     At the completion of the readiness split (ADR-tmpqp8c4,
-    2026-11-11): it gains transient-support, since it bears on
-    QUESTION-398, whose first line is now transient-support
-    (ADR-085). No other change.
+    2026-11-11): transient-support is now its first line, in place
+    of realizability: filed for the withdrawal readings, it bears on
+    QUESTION-398 and QUESTION-399, both now first in
+    transient-support, and on no realizability-first entry, so it no
+    longer carries realizability (ADR-085); it keeps
+    distributed-agency, through QUESTION-085. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -62,9 +65,8 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 line:
-- realizability
-- distributed-agency
 - transient-support
+- distributed-agency
 complements:
 - CLAIM-597
 - CLAIM-273

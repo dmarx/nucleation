@@ -130,8 +130,10 @@ history:
   note: >-
     At the completion of the readiness split (ADR-tmpqp8c4,
     2026-11-11): transient-support is now its first line, in place
-    of realizability; it keeps realizability after it, since it
-    bears on QUESTION-399. No other change.
+    of realizability; it no longer carries realizability: it bears
+    on QUESTION-398 and QUESTION-399, both now first in
+    transient-support, and on no realizability-first entry
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -159,7 +161,6 @@ tags:
 date: '2026-11-05'
 line:
 - transient-support
-- realizability
 rests_on:
 - CLAIM-597
 - CLAIM-604

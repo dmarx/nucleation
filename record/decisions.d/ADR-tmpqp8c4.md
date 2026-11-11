@@ -1,30 +1,29 @@
 ---
 status: Proposed
-title: 'The withdrawal inquiry takes transient-support as its first line: QUESTION-398 and the entries that argue it lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness'
+title: 'The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness'
 version: 1
 tags:
 - record
 date: '2026-11-11'
 summary: >-
-  [ADR-087](ADR-087.md) split readiness and moved its withdrawal part to the new line
-  transient-support, keeping each entry's other lines where they were. Nine
-  of the thirty had realizability first, [QUESTION-398](../questions.d/QUESTION-398.md), the part's root,
-  among them. The synthesis review of 2026-11-11 found that part again
-  inside realizability, mostly closed there too: its entries carry
-  realizability chiefly because they bear on [QUESTION-398](../questions.d/QUESTION-398.md), whose first line
-  it was ([ADR-085](ADR-085.md)). This decision gives [QUESTION-398](../questions.d/QUESTION-398.md) and the withdrawal
-  entries transient-support as their first line, and keeps realizability on
-  them only where [ADR-085](ADR-085.md) supplies it, through a relation to a
-  realizability-first entry. Nineteen entries change. [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-600](../claims.d/CLAIM-600.md),
-  [CLAIM-604](../claims.d/CLAIM-604.md) and [CLAIM-606](../claims.d/CLAIM-606.md) keep realizability, because they bear on
-  [QUESTION-399](../questions.d/QUESTION-399.md), the nucleus question, which stays in realizability.
-  Rejected: leaving the first lines as [ADR-087](ADR-087.md) left them; moving [QUESTION-399](../questions.d/QUESTION-399.md)
-  as well; keeping realizability on every moved entry.
+  ADR-087 split readiness and moved its withdrawal part to the new line
+  transient-support, keeping each entry's other lines where they were. Its
+  roots, QUESTION-398 and QUESTION-399, kept realizability first. The
+  synthesis review of 2026-11-11 found that part again inside
+  realizability, closed off from the rest of it: its entries carry
+  realizability chiefly because they bear on one of the two questions
+  (ADR-085). This decision gives both questions and the withdrawal entries
+  transient-support as their first line, and keeps realizability on them
+  only where ADR-085 supplies it, through a relation to a
+  realizability-first entry. None of them has one. Twenty-one entries
+  change, and all leave realizability. Rejected: leaving the first lines as
+  ADR-087 left them; keeping QUESTION-399 in realizability; keeping
+  realizability on every moved entry.
 ---
 <!-- inactive-ok-file: ADR-085 — Proposed; the line rule this applies -->
 <!-- inactive-ok-file: CLAIM-606 — Proposed; entries moved, with their standing -->
 
-# ADR-tmpqp8c4: The withdrawal inquiry takes transient-support as its first line: [QUESTION-398](../questions.d/QUESTION-398.md) and the entries that argue it lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness
+# ADR-tmpqp8c4: The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness
 
 ## Context
 
@@ -46,50 +45,61 @@ inquiry inside realizability after the split meant to take it out.
 
 ## Decision
 
-- **[QUESTION-398](../questions.d/QUESTION-398.md) takes transient-support as its first line.** It is the
-  withdrawal inquiry's root question. It has no relation to a
-  realizability-first entry, so it no longer carries realizability.
+- **QUESTION-398 and QUESTION-399 take transient-support as their first
+  line.** QUESTION-398 asks when a partial organization becomes independent
+  of the intervention that established it. QUESTION-399 asks "Under what
+  conditions does a productive partial organization become a
+  self-maintaining nucleus", which is its companion in the same exchange.
+  The round-six count found the claims bearing on QUESTION-399 closed off
+  from the rest of realizability: 14 stored relations inside, none out and
+  none in, and one mentioned pair with the assembly part. Neither question
+  has a relation to a realizability-first entry. QUESTION-399 keeps
+  distributed-agency.
 - **The entries of the withdrawal inquiry lead with transient-support.**
   These are the entries of the part that already carried transient-support,
-  and [QUESTION-416](../questions.d/QUESTION-416.md) and [QUESTION-420](../questions.d/QUESTION-420.md). Those two are replication questions of
-  the urban readings filed on [QUESTION-398](../questions.d/QUESTION-398.md), like their siblings already in
-  transient-support.
-- **They carry realizability only where [ADR-085](ADR-085.md) supplies it.** That means an
+  plus three groups:
+  - QUESTION-416 and QUESTION-420, replication questions of the urban
+    readings filed on QUESTION-398, like their siblings already in
+    transient-support;
+  - CLAIM-604 and CLAIM-606, filed for the withdrawal readings, which had
+    realizability first only because the questions they bear on did;
+  - CLAIM-597 and CLAIM-600, which had already moved to transient-support.
+- **They carry realizability only where ADR-085 supplies it.** That means an
   answers, objects_to or bears_on relation to a realizability-first entry,
   or refines between questions. This is the standard the defect sweep of
-  2026-11-11 applied when [CLAIM-555](../claims.d/CLAIM-555.md) dropped will-organization.
-  - [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-604](../claims.d/CLAIM-604.md) and [CLAIM-606](../claims.d/CLAIM-606.md) keep it. Each bears on
-    [QUESTION-399](../questions.d/QUESTION-399.md), "Under what conditions does a productive partial
-    organization become a self-maintaining nucleus", which stays in
-    realizability.
-  - [CLAIM-604](../claims.d/CLAIM-604.md) and [CLAIM-606](../claims.d/CLAIM-606.md) gain transient-support, because they bear on
-    [QUESTION-398](../questions.d/QUESTION-398.md).
-  - The other fifteen drop realizability.
-- **Each changed entry gets a history note naming the relation that gives or
-  removes each line.** Nothing else changes.
-- **Transient-support's account follows the move.** [SYNTHESIS-032](../syntheses.d/SYNTHESIS-032.md) integrates
-  the four new members and gives every component's lines as they now stand
-  (version 5).
+  2026-11-11 applied when CLAIM-555 dropped will-organization. No moved
+  entry has such a relation, so all twenty-one leave realizability. Lines
+  that ADR-085 supplies otherwise are kept: distributed-agency on
+  QUESTION-399, CLAIM-597, CLAIM-604 and CLAIM-606, and readiness on
+  CLAIM-602.
+- **Each changed entry gets a history note naming the relation that gives
+  or removes each line.** Nothing else changes.
+- **Transient-support's account follows the move.** SYNTHESIS-032
+  (version 5) integrates the five new members (QUESTION-399, CLAIM-604,
+  CLAIM-606, QUESTION-416 and QUESTION-420) and gives every component's
+  lines as they now stand.
 
 ## Alternatives considered
 
-- **Leave the first lines as [ADR-087](ADR-087.md) left them.** This leaves transient-support's
-  own root in realizability. Through [ADR-085](ADR-085.md), the withdrawal inquiry stays a
-  closed part of realizability, and setting realizability aside would take it
-  along.
-- **Move [QUESTION-399](../questions.d/QUESTION-399.md) too.** [QUESTION-399](../questions.d/QUESTION-399.md) asks when a partial organization
-  becomes a self-maintaining nucleus, which is a question about nucleation.
-  It links to realizability's assembly part. It keeps realizability first, and
-  the claims that bear on both questions carry both lines.
+- **Leave the first lines as ADR-087 left them.** This leaves
+  transient-support's own roots in realizability. Through ADR-085, the
+  withdrawal inquiry stays a closed part of realizability, and setting
+  realizability aside would take it along.
+- **Keep QUESTION-399 in realizability.** An earlier draft of this decision
+  did, reading the nucleus question as a question about nucleation that
+  links to realizability's assembly part. The counts do not bear that out:
+  one mentioned pair with the assembly part, and nothing else. The claims
+  that bear on it formed a closed part of five entries in realizability's
+  account.
 - **Keep realizability on every moved entry.** Then realizability's account
-  must integrate fifteen entries that take no part in its argument, and the
-  split would be undone in the line it was meant to leave.
+  must integrate twenty-one entries that take no part in its argument, and
+  the split would be undone in the line it was meant to leave.
 
 ## Consequences
 
-- Realizability's account is drafted without the withdrawal part. The
-  claims that bear on [QUESTION-399](../questions.d/QUESTION-399.md) stay in it.
-- No `rests_on` step from a moved claim crosses lines: each claim it rests
-  on shares a line with it.
-- Rerunning [ADR-085](ADR-085.md)'s rule after the move finds no entry missing
-  transient-support.
+- Realizability's account is drafted without the withdrawal inquiry.
+- One `rests_on` step from a moved claim now crosses lines: CLAIM-600 rests
+  on CLAIM-566 (realizability, distributed-agency). It is a dependency, and
+  the argument chain reports it.
+- Rerunning ADR-085's rule after the move finds no entry missing a line,
+  except CLAIM-534, the exception ADR-085 already records.
