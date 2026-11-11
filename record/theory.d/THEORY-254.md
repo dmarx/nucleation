@@ -15,7 +15,15 @@ promote_when: >-
   inspected by eye, or tangle theory, which says what tangles are and not
   how they compare with communities.
 title: "Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-157: the claim's text says "That one threshold serves the
+    whole system. On tangles, each region of a network has its own best
+    order". First application of the bounds relation (ADR-tmppj46c). No
+    other change.
 tags:
 - network-science
 - mathematics
@@ -32,8 +40,11 @@ summary: >-
   orders reached), and where tangles divide a network some hold only
   one to three vertices. The relation is read by eye from eight networks, and the
   vertex sets depend on the author's assignment rule.
+bounds:
+- CLAIM-157
 ---
-<!-- inactive-ok-file: CLAIM-157 THEORY-268 — Proposed; the block answer and the companion reading's theory this bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-268 — Proposed; the block answer and the companion reading's theory this bears on, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
 
 # THEORY-254: Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do

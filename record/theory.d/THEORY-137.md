@@ -18,7 +18,7 @@ promote_when: >-
   cannot settle it either way: the claim is stated to hold whichever
   answer is right.
 title: 'Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -29,6 +29,14 @@ history:
     grounds to its corroborated_by (ADR-058), since that claim added
     it by analogy, as its note of 2026-10-11 says. The account is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-271: the claim's text says "It does not say the
+    collective knows better than its members. ... THEORY-137 warns that
+    attributing a mind to an institution partly shapes the institution
+    to fit". First application of the bounds relation (ADR-tmppj46c). No
+    other change.
 tags:
 - social-ontology
 - cognition
@@ -46,7 +54,10 @@ summary: >-
   is asserted, not documented.
 corroborates:
 - CLAIM-183
+bounds:
+- CLAIM-271
 ---
+<!-- inactive-ok-file: CLAIM-271 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-483 — Unavailable, unread; Groups as Agents, named as unread -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; the group-judgment and corporate-responsibility accounts, named for contrasts -->
 

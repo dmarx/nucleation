@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp62hye
 title: 'In plane Couette and Poiseuille flow, measured in the energy norm, the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -51,6 +51,12 @@ history:
     reading is its premise (ADR-060). The relation was never written
     when the condition moved; sweep of 2026-11-11, from the reading
     review by question. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-383: the claim's text says "That the growth is of order R
+    and no more, or what the constants are. ... That is THEORY-304's". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -67,6 +73,8 @@ summary: >-
   this account.
 bears_on:
 - QUESTION-358
+bounds:
+- CLAIM-383
 ---
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim that cites this paper, open -->
 <!-- inactive-ok-file: THEORY-323 — Proposed; the general account this case falls under -->

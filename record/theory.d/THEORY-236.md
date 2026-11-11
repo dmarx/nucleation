@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuowt1
 title: "A representational similarity index that is invariant to every invertible linear map takes the same value on all representations whose rank equals the number of examples"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,12 @@ history:
     depends only on the column space. The precision paragraph and the
     column-space bullet now cite it. The promote_when is removed. The claim
     is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-378: the claim's text says "Which group a comparison
+    should use. That is THEORY-236's caveat, and it is empirical". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -34,6 +40,8 @@ summary: >-
   that invariance, such as CCA, says nothing. The theorem fixes no group;
   the paper's case for orthogonal invariance plus isotropic scaling is an
   argument from training dynamics, not a consequence of it.
+bounds:
+- CLAIM-378
 ---
 <!-- inactive-ok-file: THEORY-002 CLAIM-193 — Proposed; cited for context, nothing here rests on them -->
 
@@ -109,3 +117,4 @@ record's, not a statement of the paper.
   and linear CKA are one family, differing in eigenvalue weighting
   (Eqs. 11–14). That result is held there, as the precursor of the
   readout account.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -16,7 +16,15 @@ promote_when: >-
   supplies. Restating the Moorean conviction that we feel pain cannot
   settle it, since the account predicts exactly that conviction.
 title: "Experiences have no phenomenal properties: introspection represents physical, quasi-phenomenal properties of sensory states as phenomenal, so what needs explaining is why experiences seem to have phenomenal properties, not how a brain produces them; a weaker view that keeps a deflated phenomenal residue is unstable unless it can say what that residue is"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-355: the claim's text says "It does not say experience
+    is unreal ... Frankish's stronger thesis (THEORY-633) is a separate
+    option". First application of the bounds relation (ADR-tmppj46c). No
+    other change.
 tags:
 - consciousness
 - metaphysics
@@ -38,6 +46,8 @@ summary: >-
   argued by challenge, the case is abductive, and Dennett's subtraction is
   an introspective assertion. It keeps consciousness in an inclusive,
   functional sense and denies only phenomenal properties.
+bounds:
+- CLAIM-355
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-101 THEORY-415 THEORY-563 THEORY-577 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
@@ -153,3 +163,4 @@ happened; he does not show that neither can.
   representation, the question for a machine is whether it has the
   introspective mechanisms, which sharpens rather than settles [THEORY-023](THEORY-023.md)'s
   mimicry point. The application is the record's, not Frankish's.
+<!-- inactive-ok-file: CLAIM-355 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmp05y8u
 title: 'Catalysts cancel out of the stoichiometric matrix, so a cycle of mutual catalytic production among species is not a stoichiometric cycle: the cycles that carry a reaction network''s steady currents and affinities are fuel-to-waste pathways through it, and who catalyses whom enters only the rates, never the thermodynamic driving'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-516: the claim's text says "That the production cycle
+    is a stoichiometric cycle ... steady currents run on fuel-to-waste
+    cycles". First application of the bounds relation (ADR-tmppj46c). No
+    other change.
 tags:
 - thermodynamics
 - complex-systems
@@ -23,6 +31,8 @@ summary: >-
   thermodynamically idle. They decide which of the states the driving
   allows is reached, and bistability needs them; but the budget they
   work within is set elsewhere.
+bounds:
+- CLAIM-516
 ---
 
 # THEORY-1248: Catalysts cancel out of the stoichiometric matrix, so a cycle of mutual catalytic production among species is not a stoichiometric cycle: the cycles that carry a reaction network's steady currents and affinities are fuel-to-waste pathways through it, and who catalyses whom enters only the rates, never the thermodynamic driving
@@ -80,3 +90,4 @@ stoichiometry, or the affinity could have depended on it. It enters neither.
   in every sense.** It is invisible to the budget. Whether a closed set of
   constraints lowers the driving needed to sustain a state is a kinetic
   question this does not touch.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

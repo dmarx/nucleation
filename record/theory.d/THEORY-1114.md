@@ -19,7 +19,7 @@ promote_when: >-
   cannot settle it, and neither can correlations between identification
   and bias, which the theory does not predict.
 title: "Which self-category a person uses, what it means and who in it is most typical vary lawfully with the comparative frame of reference: a grouping of self with others becomes salient as the differences within it shrink relative to the differences between it and the rest of the frame (metacontrast) and as those differences match expectations about the category, and as it does, self-perception is depersonalized"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -30,6 +30,13 @@ history:
     No split: CLAIM-493 needs the prototype shift to be real, not only
     reported by the theory's authors, and CLAIM-491 has other Proposed
     grounds and open objections. The account is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-492: the claim's text says "Not that every criterion of the
+    self is circular. Self-categorization theory's salience by fit, for
+    instance, is fixed by the comparative context". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - social-identity
 - social-science
@@ -55,6 +62,8 @@ summary: >-
   part of it.
 corroborates:
 - CLAIM-491
+bounds:
+- CLAIM-492
 ---
 <!-- inactive-ok-file: LIT-1726 LIT-1767 — Unavailable; the primary studies, filed unread, named as what promotion needs -->
 <!-- inactive-ok-file: LIT-1723 — Unavailable; the 1987 book that first stated the account, named, not leaned on -->

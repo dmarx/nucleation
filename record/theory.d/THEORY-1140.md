@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpf3jtf
 title: 'If every entity''s O(d) frame may change independently and relation transports change as Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹, then functions of the transports alone carry no invariant information except around cycles, a triangle''s invariants are exactly the class functions of its holonomy H = TᵢⱼTⱼₖTₖᵢ, and an equivariant update of an edge from one cycle through it is Ψ(H)Tᵢⱼ with Ψ conjugation-equivariant; the symmetry fixes a family of updates, not one mechanism, and says nothing about whether a task has the symmetry'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-496: the claim's text says "Anything about holonomy in
+    the gauge sense ... path discrepancy is not a Wilson loop and
+    carries none of THEORY-1140's invariance". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - mathematics
 - compositionality
@@ -21,6 +29,8 @@ summary: >-
   What it does not support is the paper's framing: "unique" holds for a
   family, and the antecedent is an inductive bias by the companion
   paper's own statement ([LIT-1803](../literature.d/LIT-1803.md)).
+bounds:
+- CLAIM-496
 ---
 
 # THEORY-1140: If every entity's O(d) frame may change independently and relation transports change as Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹, then functions of the transports alone carry no invariant information except around cycles, a triangle's invariants are exactly the class functions of its holonomy H = TᵢⱼTⱼₖTₖᵢ, and an equivariant update of an edge from one cycle through it is Ψ(H)Tᵢⱼ with Ψ conjugation-equivariant; the symmetry fixes a family of updates, not one mechanism, and says nothing about whether a task has the symmetry
@@ -88,3 +98,4 @@ outside every cycle. The gauge-fixing argument rules out both.
 - **That this is new mathematics.** The paper's contribution is the
   statement on general relational graphs and the reading across three
   literatures, which it says itself (p. 3).
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

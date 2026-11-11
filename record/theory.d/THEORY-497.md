@@ -16,7 +16,7 @@ promote_when: >-
   refute it as an account of those systems. More applications under one
   unnamed redundancy function cannot settle it.
 title: "A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-17'
@@ -26,6 +26,13 @@ history:
   date: '2026-10-20'
   note: >-
     Connections gain the reading of the primary paper, Rosas et al. 2020 (NOTE-987, THEORY-764). The account and its source are unchanged; whether the primary paper should join source and how its Proposition 1 gap bears on promotion are left to the owner.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-333: the claim's text says "That ΦID's quantities are
+    interventional or not. That is NOTE-010's C4 and THEORY-497's
+    footnote-3 condition, which this claim leaves standing". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - complex-systems
 - information-theory
@@ -42,6 +49,8 @@ summary: >-
   function. The quantities change with the partition, which the review
   calls intended, and they are predictive, not interventional, unless p(X′
   | X) is a do()-distribution.
+bounds:
+- CLAIM-333
 ---
 <!-- inactive-ok-file: THEORY-240 THEORY-257 THEORY-268 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
@@ -150,3 +159,4 @@ general assumptions" without giving them.
   the *system* has synergy. The reading gives a counterexample under MMI,
   a parity of two self-copying bits, with Ψ = 1 bit and no unique
   information.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxv4qd
 title: "Among 56 of 88 patients in one DBT intensive outpatient programme, kept because they finished a four-month cycle and gave enough diary data, skills-homework completion in months 1–3 correlated with larger falls in suicide and substance-use urges (r ≈ .35) and phone-coaching frequency with a larger fall in self-harm urges (r = .31); neither correlated with change in how often the behaviours occurred, and only homework separated patients with and without a target behaviour in month 4"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -16,6 +16,13 @@ history:
     a component design, moves unchanged to QUESTION-307, as
     THEORY-285's did to QUESTION-303. CLAIM-443 now lists this
     reading under corroborated_by, not grounds (ADR-058).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-551: the claim's text says "That the skills work by
+    this mechanism. The record's DBT data, THEORY-922 and QUESTION-307,
+    relate skills homework to falling urges, not to cognition". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
@@ -34,6 +41,8 @@ bears_on:
 - QUESTION-307
 corroborates:
 - CLAIM-443
+bounds:
+- CLAIM-551
 ---
 
 # THEORY-922: Among 56 of 88 patients in one DBT intensive outpatient programme, kept because they finished a four-month cycle and gave enough diary data, skills-homework completion in months 1–3 correlated with larger falls in suicide and substance-use urges (r ≈ .35) and phone-coaching frequency with a larger fall in self-harm urges (r = .31); neither correlated with change in how often the behaviours occurred, and only homework separated patients with and without a target behaviour in month 4
@@ -83,3 +92,4 @@ unrelated to change, as attendance was.
   deploying it under pressure. Phone coaching is deployment supported from
   outside at the moment of need, and its association is with falling
   self-harm urges only.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

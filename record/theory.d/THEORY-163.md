@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp64mn6
 title: "In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-20'
@@ -31,6 +31,13 @@ history:
     over meanings estimated from the naming data", whether it survives
     a need distribution measured independently. The reading is its
     premise. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-387: the claim's text says "Not that hierarchies of
+    categories cannot nest. Annealed category systems ... may well nest".
+    First application of the bounds relation (ADR-tmppj46c). No other
+    change.
 tags:
 - linguistics
 - information-theory
@@ -50,6 +57,8 @@ summary: >-
   best is estimated from the naming data themselves.
 bears_on:
 - QUESTION-214
+bounds:
+- CLAIM-387
 ---
 <!-- inactive-ok-file: THEORY-791 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 

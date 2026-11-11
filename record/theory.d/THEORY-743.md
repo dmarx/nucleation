@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp35hmc
 title: 'For finite X and Y, every information-bottleneck optimum at every β gives one encoder to all inputs sharing p(y|x), so it is a stochastic coarsening of the minimal sufficient partition (the causal states of memoryless transduction); as β → ∞ the optima converge to that partition, but in general no finite β attains it, except when Y is a function of X'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -16,6 +16,13 @@ history:
     encoders, the factoring at finite β, the binary symmetric
     counterexample and the deterministic case. The averaging inequality and
     the counterexample were also checked numerically in the scratchpad.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-387: the claim's text says "Nothing about stochastic
+    encoders. The unrestricted information bottleneck at finite β generally
+    has stochastic optima". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - information-theory
 - mathematical-statistics
@@ -32,6 +39,8 @@ summary: >-
   that every finite-β optimum factors through those states. So the IB
   hierarchy always nests under its top. It says nothing about whether
   optima at two finite β nest. Finite alphabets only.
+bounds:
+- CLAIM-387
 ---
 <!-- inactive-ok-file: THEORY-157 — Proposed; connections named for context, nothing here rests on them -->
 # THEORY-743: For finite X and Y, every information-bottleneck optimum at every β gives one encoder to all inputs sharing p(y|x), so it is a stochastic coarsening of the minimal sufficient partition (the causal states of memoryless transduction); as β → ∞ the optima converge to that partition, but in general no finite β attains it, except when Y is a function of X

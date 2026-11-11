@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpnd5gh
 title: 'In Friston''s 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -15,6 +15,14 @@ history:
     Version 1 said the same of a Markov blanket in any formulation.
     That wider claim is THEORY-1097, Proposed, with version 1's
     promote_when.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-337: the claim's text says "Where the blanket goes is a
+    modelling choice, made before the blanket is found (THEORY-073 ...).
+    So 'one blanket inward' is always available, and the objection costs
+    little to make and says little". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - individuation
 - philosophy-of-biology
@@ -44,7 +52,10 @@ summary: >-
   formulation and the applications held. The later steady-state
   definitions have not been read, and the unrestricted claim is
   THEORY-1097, Proposed.
+bounds:
+- CLAIM-337
 ---
+<!-- inactive-ok-file: CLAIM-337 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 THEORY-043 — Proposed; named as the accounts this one bears on, not leaned on -->
 
 # THEORY-073: In Friston's 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed

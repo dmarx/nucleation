@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpetzzi
 title: "For a recursive family of likelihoods and the universal prior, the Bayesian two-part code length −log Pr(D|H) − log m(H) equals the ideal-MDL length K(D|H) + K(H) plus the randomness deficiency of D for H, up to a constant fixed by the family; so ideal MDL and MAP selection agree to within a constant among hypotheses for which the data are random, and can part where they are not"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -20,6 +20,13 @@ history:
     likelihood" is dropped: the paper's α is an upper bound, and the
     conditional form of domination bounds the slack by the complexity of the
     likelihood family, a constant over H.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-154: the claim's text says "Under a modeller's prior,
+    the evidence penalty matches the description-length penalty only for
+    hypotheses that are random under that prior". First application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - learning-theory
 - model-comparison
@@ -37,6 +44,8 @@ summary: >-
   re-derived by the record) and part where the data are not random for the
   hypothesis (0ⁿ against the fair coin). The paper's slack α = K(Pr(·|H))
   + K(P) is an upper bound, not the gap.
+bounds:
+- CLAIM-154
 ---
 <!-- inactive-ok-file: THEORY-277 — Proposed; the companion theory filed today and the entries named under Connections -->
 
@@ -179,3 +188,4 @@ with H. Nothing in the paper shows that the slack must reach K(Pr(·|H)).
 [NOTE-801](../notes.d/NOTE-801.md)'s "α can be as large as K(H)" describes the bound, not the gap.
 For recursive priors other than m, the K(P) term of step 3's prior half
 remains, and the narrowed title does not cover them.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

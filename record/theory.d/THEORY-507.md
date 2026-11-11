@@ -16,7 +16,16 @@ promote_when: >-
   either direction, cannot settle it, since the argument was built to
   replace those intuitions.
 title: "Any system with the same fine-grained functional organisation as a conscious system has qualitatively the same experiences, with natural though not metaphysical necessity, because otherwise a neuron-by-neuron replacement would yield either a rational subject systematically wrong about its fading experience or experience that flips with a switch nobody could notice; the principle covers only isomorphs, so it says nothing about systems merely similar in kind to a conscious one"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-412: the claim's text says "Nor does it say that a
+    system equivalent in its input–output mapping, or isomorphic in a
+    diagram, has the same experience. THEORY-507's invariance is a
+    separate premise". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - consciousness
 - metaphysics
@@ -37,7 +46,10 @@ summary: >-
   system and every group.
 bears_on:
 - QUESTION-046
+bounds:
+- CLAIM-412
 ---
+<!-- inactive-ok-file: CLAIM-412 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-095 THEORY-252 THEORY-415 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
 # THEORY-507: Any system with the same fine-grained functional organisation as a conscious system has qualitatively the same experiences, with natural though not metaphysical necessity, because otherwise a neuron-by-neuron replacement would yield either a rational subject systematically wrong about its fading experience or experience that flips with a switch nobody could notice; the principle covers only isomorphs, so it says nothing about systems merely similar in kind to a conscious one

@@ -6,7 +6,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-084 ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
-<!-- inactive-ok-file: ADR-093 — Proposed; readings named as evidence, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-093 ADR-tmppj46c — Proposed; readings named as evidence, until the owner adopts it -->
 
 # Reading and filing
 
@@ -204,6 +204,9 @@ not a finding.
   claim needs is `grounds`. When a work cited before it was read turns
   out to carry less, move it from `grounds` to `corroborates` and file
   the ARG that says why.
+- **A reading that marks a limit is `bounds`** (ADR-tmppj46c), on the
+  THEORY, when a claim's own text cites it as a limit of its scope. A
+  rival account or an unanswered counterexample is an objection instead.
 - **A note that names a reading as evidence writes the relation.** When a
   dated note on a question or claim cites a reading as evidence for or on
   it, write `bears_on` or `corroborates` from the reading in the same

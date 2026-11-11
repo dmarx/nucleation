@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5wptr
 title: 'On Kay and colleagues'' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues'' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-27'
@@ -42,6 +42,14 @@ history:
     duplications are allowed to range as far back as archaeal ones, or
     if the onset marker is shown to lag endosymbiosis by more than the
     gap between them."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-509: the claim's text says "Not that the mitochondrion
+    came early ... Kay and colleagues (THEORY-1099) reach a late
+    mitochondrion by a different clock. The claim is about what this
+    method can show". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - endosymbiosis
 - natural-sciences
@@ -60,6 +68,8 @@ summary: >-
   The sharp edges are that duplication dates bound functions from above,
   that the priors shape which family can be older, and that the authors
   themselves cannot order phagocytosis and the mitochondrion.
+bounds:
+- CLAIM-509
 ---
 <!-- inactive-ok-file: THEORY-1203 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: LIT-1597 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works set beside it, nothing here rests on them -->

@@ -25,7 +25,15 @@ promote_when: >-
   THEORY-122 is confirmed first-hand. More surveys restating the 1971
   apparatus cannot settle it: the paper is now read.
 title: "A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-548: the claim's text says "That an activated,
+    effective impulse is disowned. Whether the person endorses it is a
+    further question (THEORY-120)". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - self-governance
 - free-will
@@ -55,6 +63,8 @@ summary: >-
   acceptance", which may be resigned. Acting of one's own free will is
   what responsibility requires, and alternatives and history are
   irrelevant. The 1987 and 1992 revisions are held only by report.
+bounds:
+- CLAIM-548
 ---
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-119 — Proposed; the rival accounts declared here, the manipulation account named in prose, and the PAP account filed in the same batch -->
 <!-- inactive-ok-file: LIT-575 LIT-695 LIT-693 LIT-690 LIT-684 — Unavailable, unread; Frankfurt's later replies and collection, and the critics' primary texts, named in prose -->

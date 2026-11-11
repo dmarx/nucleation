@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpsuuh4
 title: "In a ring of M chemotactic catalyst species, each making the next one's substrate, the non-reciprocal nearest-neighbour coupling makes the linear stability matrix circulant: the uniform state goes unstable for any M exactly when the species attract themselves, and the parity of M then decides the leading mode, a real alternating mode for even M that sorts species by parity into two static clusters, and a complex pair for odd M that can give persistent oscillation"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-369: the claim's text says "Whether organizations with the
+    same local incentives and more non-reciprocity converge, oscillate,
+    switch among configurations or become chaotic is open". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - complex-systems
 - natural-sciences
@@ -20,6 +28,8 @@ summary: >-
   set. Direct metabolic partners repel; same-parity second neighbours
   co-aggregate. The origin-of-life reading is untested, and the authors
   concede in the review file that real catalysts' mobilities are unknown.
+bounds:
+- CLAIM-369
 ---
 <!-- inactive-ok-file: THEORY-412 THEORY-492 — Proposed; accounts that name this paper, or a parallel, cited for context, nothing here rests on their being settled -->
 

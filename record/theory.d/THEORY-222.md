@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuumxo
 title: 'With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-16'
@@ -50,6 +50,14 @@ history:
     uniform interventions at each level, and its own text leaves them
     open: "LIT-1038's temporal and spatio-temporal macros are outside the
     bound." No other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-497: the claim's text says "Not that the macro beats the
+    micro. ... A positive causal emergence of effective information, scored
+    with a separate uniform distribution at each level, measures the change
+    of distribution". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - causality
 - complex-systems
@@ -74,6 +82,8 @@ answers:
 bears_on:
 - QUESTION-204
 - QUESTION-335
+bounds:
+- CLAIM-497
 ---
 
 <!-- inactive-ok-file: THEORY-787 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->

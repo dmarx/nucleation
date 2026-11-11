@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkd2ju
 title: 'Aligning independently trained solutions over the architecture''s symmetries removed the linear barrier between them for MNIST MLPs and 32×-wide ResNet-20s on CIFAR-10, two-thirds of it for an ImageNet ResNet-50, and not all of it for VGG-16 or ResNet-20 at 1× width, the barrier after weight matching falling with width; for 6- to 8-layer ViTs and GPT-2s, permutations alone removed 63–90% of it, and adding an orthogonal map on the residual stream, learned against the loss at the path''s midpoint, took it to zero or near zero except on BookCorpus (0.42)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -25,6 +25,13 @@ history:
     with width and rises with depth. The promote_when, with the depth
     clause, moves to QUESTION-317, as THEORY-114's did to
     QUESTION-312.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-366: the claim's text says "Anything about
+    function-preserving symmetries ... Two networks related by a
+    permutation of units or a blow-up ... are not covered". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -53,6 +60,8 @@ summary: >-
   the barrier left rises with depth, is QUESTION-317.
 bears_on:
 - QUESTION-317
+bounds:
+- CLAIM-366
 ---
 <!-- inactive-ok-file: THEORY-109 THEORY-110 — Proposed; the account this extends and one filed with it, named in the body -->
 
@@ -215,3 +224,4 @@ suggested, and is [QUESTION-317](../questions.d/QUESTION-317.md)'s:
   permutation. Lubana et al.'s mechanism barriers name the case its account
   leaves out. This is for the coordinator to report there; the anthology is
   not edited from here.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

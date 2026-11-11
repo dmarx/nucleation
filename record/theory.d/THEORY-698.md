@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmpzhrlj
 title: "Thresholding linear attribute probes on a language model's embeddings yields a complete concept lattice for any incidence whatever, so the lattice is guaranteed by construction; what the Lattice Representation Hypothesis measured is per-attribute agreement with GPT-4o annotations at F1 70–83, and no lattice law"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-564: the claim's text says "That the lattice is a finding.
+    A concept lattice exists for any incidence". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - representation-learning
 - logic
@@ -24,6 +31,8 @@ summary: >-
   evidence that language models encode a lattice beyond the incidence.
 bears_on:
 - QUESTION-025
+bounds:
+- CLAIM-564
 ---
 <!-- inactive-ok-file: LIT-267 — Proposed; the paper whose theorem and measurements this account states; the account is about what they do and do not show -->
 <!-- inactive-ok-file: CLAIM-119 — Proposed; the lattice claim and neighbouring accounts, named in Connections, not leaned on -->

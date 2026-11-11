@@ -21,7 +21,7 @@ promote_when: >-
   are independent; how "agent" is used in engineering; or cases chosen
   because they already fail.
 title: 'Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -36,6 +36,12 @@ history:
     entry keeps the question whether the account is right, and its
     promote_when. A dated note says what holds it back. The title is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-485: the claim's text says "Whether Kahl's condition is
+    right is THEORY-219's question; this claim does not need it". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - agency
 - self-governance
@@ -57,6 +63,8 @@ bears_on:
 - QUESTION-092
 corroborates:
 - CLAIM-288
+bounds:
+- CLAIM-485
 ---
 <!-- inactive-ok-file: CLAIM-285 THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1031 — Unavailable; Benthall and Salge, named as the neighbouring enactive argument about legal responsibility, not leaned on -->

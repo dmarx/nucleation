@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7w5tq
 title: 'On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -34,6 +34,13 @@ history:
     reading is its premise (ADR-060). The relation was never written
     when the condition moved; sweep of 2026-11-11, from the reading
     review by question. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-272: the claim's text says "It does not say
+    coordination is the only source of unequal influence. Use of the
+    equal cooldown was itself heavy-tailed". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - social-science
 - complex-systems
@@ -52,6 +59,8 @@ summary: >-
   lifecycles are ten examples, and nothing here observes plans.
 bears_on:
 - QUESTION-169
+bounds:
+- CLAIM-272
 ---
 <!-- inactive-ok-file: THEORY-795 — Proposed; the population thesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
@@ -136,3 +145,4 @@ Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropp
 Proposed entry, so that evidence can later confirm or reject it as a
 thesis. [THEORY-795](THEORY-795.md) carries the thesis that lasting artworks, as a population, are those whose coalitions keep repairing them under overwriting (the source's claim C6, shown in ten lifecycles). It extends this entry, whose
 measured or derived content is its evidence. Nothing here changes.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

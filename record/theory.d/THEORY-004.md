@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcawyi
 title: 'A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-14'
@@ -77,6 +77,13 @@ history:
     claim disputes orthogonal equivalence. NOTE-286 shows LIT-302 adopts
     it by defining a representation by its kernel; corrected. The claim is
     unchanged.
+- version: 9
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-290: the claim's text says "Nothing about kernels
+    estimated from data, or about approximate equality ... that is what
+    the Procrustes–Bures identity in THEORY-004 measures". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -92,6 +99,8 @@ summary: >-
   kernel-to-Hilbert-space construction as GNS and state its minimal
   realizations unique up to a unitary (proof left as an exercise). This is the GNS connection the owner
   asked about, stated.
+bounds:
+- CLAIM-290
 ---
 
 # THEORY-004: A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
@@ -120,3 +129,4 @@ So the kernel is the invariant and the representation is one realization of it �
   representations whose rank equals the number of examples. A comparison
   under that larger group is degenerate once the representation is wide
   enough, so the kernel is not traded for an invertible-linear invariant.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9511r
 title: 'Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with non-coding RNA in sperm the best-described candidate carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-11'
@@ -26,6 +26,13 @@ history:
     today" (p. 99), not the best-supported carrier, so the title now
     says that. The dropped wording was a mis-statement, so it goes to no
     new entry (ADR-047's routing, kind 3).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-644: the claim's text says "Not that the germline route is
+    absent. Animal work ... shows germline effects in rodents. The claim is
+    about what human evidence can show". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - natural-sciences
 - psychopathology-and-treatment
@@ -40,7 +47,10 @@ summary: >-
   and its own table calls the human studies intergenerational.
 bears_on:
 - QUESTION-297
+bounds:
+- CLAIM-644
 ---
+<!-- inactive-ok-file: CLAIM-644 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 
 # THEORY-1587: Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with non-coding RNA in sperm the best-described candidate carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans
 

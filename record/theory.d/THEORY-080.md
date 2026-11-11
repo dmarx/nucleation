@@ -19,7 +19,7 @@ promote_when: >-
   rate. Evidence computed for networks outside the kernel regime cannot
   settle it, since the account is about the linearised model.
 title: "In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -37,6 +37,14 @@ history:
     spherical, per-harmonic half, which rests on approximating the Gram
     spectrum by nµ_k, and its promote_when, which tests that half. Status
     stays Proposed. Title unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-384: the claim's text says "What the Gram spectrum is.
+    That the eigenvalues on uniform spherical data are close to nµ_k
+    with multiplicity N(d, k), and so the per-harmonic schedule, is
+    THEORY-080's account, which stays Proposed". First application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - model-comparison
 - information-geometry
@@ -66,6 +74,8 @@ extends:
 - THEORY-087
 bears_on:
 - QUESTION-040
+bounds:
+- CLAIM-384
 ---
 <!-- inactive-ok-file: THEORY-084 — Proposed; THEORY-087 is extended in its regular half, which is derived, and THEORY-084 is named in Connections -->
 

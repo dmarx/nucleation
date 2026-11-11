@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpnq01l
 title: 'In Bala–Goyal network models of unbiased scientists testing a slightly better new action, a propagandist who forwards to Bayesian policy makers only those real results that favour the worse action can leave the policy makers near-certain of the false theory while the scientists converge on the true one; the effect weakens as the policy makers hear more scientists, as the better action''s advantage grows and as each study gets larger'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -15,6 +15,13 @@ history:
     The record also re-ran the selective-sharing model from the paper's
     description and found the same direction for each trend; the numbers
     are below.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-342: the claim's text says "It does not say any amount of
+    such evidence suffices. ... the independent channel anchors it only as
+    far as it outweighs the selected one". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - epistemology
 - network-science
@@ -31,6 +38,8 @@ summary: >-
   misled this way, nor that an audience aware of the selection would be.
 bears_on:
 - QUESTION-047
+bounds:
+- CLAIM-342
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the claim and accounts this model bears on, cited as open -->
 <!-- inactive-ok-file: LIT-751 — Unavailable; Holman and Bruner's unread model, named for contrast -->

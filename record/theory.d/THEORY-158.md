@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpnp46m
 title: 'For a Markov process on a finite state space, an observable commutes with the generator exactly when its mean and variance are both conserved in every state, which is exactly when it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -31,6 +31,13 @@ history:
     promote_when is removed"); a question that holds a reading's moved
     condition takes its bears_on, the reading being its premise (ADR-060,
     ADR-065). No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-107: the claim's text says "Mean conservation does not make
+    an observable a symmetry. The Noether-type equivalence, for finite
+    continuous-time processes, needs the second moment as well". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -48,6 +55,8 @@ summary: >-
   symmetries that permute states.
 bears_on:
 - QUESTION-144
+bounds:
+- CLAIM-107
 ---
 
 

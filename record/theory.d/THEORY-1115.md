@@ -16,7 +16,16 @@ promote_when: >-
   theory would predict. Conceptual argument about what friendship is
   cannot settle it, and neither can studies of large-scale groups.
 title: "A we-identity, being one of us, can arise through mutual individualization, in which members grasp one another as non-substitutable and complementary, without depersonalization, as in long friendships and romantic partnerships; so depersonalization is not necessary for a we-identity"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    corroborates CLAIM-491: the claim's text says "Identity fusion and
+    León's personalized "we" (THEORY-1115) fit "larger" better". A
+    reading used as a parallel supporting the claim, not a limit of its
+    scope, so corroborates (ADR-058), found in the first application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - social-ontology
 - self
@@ -35,6 +44,8 @@ summary: >-
   on couple resilience finds the "we" more adaptive the more
   differentiated the "I". Proposed: the argument is conceptual, and the
   cited evidence was not analysed by the source or read here.
+corroborates:
+- CLAIM-491
 ---
 <!-- inactive-ok-file: THEORY-1114 THEORY-1112 THEORY-126 — Proposed; neighbouring accounts of group self-perception and the "we", compared, not leaned on -->
 
@@ -90,3 +101,4 @@ after all.
 - **[THEORY-126](THEORY-126.md).** A We-mode collective emotion between intimates, as in
   shared grief, would on this account be personalized rather than
   depersonalized. The record has not tested the two together.
+<!-- inactive-ok-file: CLAIM-491 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3ijnj
 title: 'In Zhao et al.''s (2025) and Chai et al.''s (2023) semantic rate–distortion frameworks, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; Zhao et al.''s posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss decision'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -27,6 +27,13 @@ history:
     (ADR-065), so the reading is its premise (ADR-060). Its text:
     "Whether frameworks beyond these two share their form is
     QUESTION-177." No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-258: the claim's text says "It does not say
+    decision-relative fidelity is wrong. ... For a common situation, its
+    prior art gives a bound that needs no garbling". First application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - information-theory
 - mathematical-statistics
@@ -47,7 +54,10 @@ summary: >-
   The two identities are this record's derivations, not the papers'.
 bears_on:
 - QUESTION-177
+bounds:
+- CLAIM-258
 ---
+<!-- inactive-ok-file: CLAIM-258 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 
 
 # THEORY-161: In Zhao et al.'s (2025) and Chai et al.'s (2023) semantic rate–distortion frameworks, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; Zhao et al.'s posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss decision

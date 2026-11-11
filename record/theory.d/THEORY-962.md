@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwtj3m
 title: 'In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-25'
@@ -32,6 +32,13 @@ history:
     grounds to its corroborated_by, since it entered with the claim's
     notes of 2026-10-25 and the argument does not rest on it. The reading
     is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-452: the claim's text says "Not accessibility ... A
+    probe the organization never meets is an action outside the probe
+    set, as in THEORY-962's partial-monitoring terms". First application
+    of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - learning-theory
 - game-theory
@@ -50,6 +57,8 @@ answers:
 - QUESTION-272
 corroborates:
 - CLAIM-446
+bounds:
+- CLAIM-452
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification this lemma feeds, filed from the same reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is worked here, nothing here rests on it -->
@@ -171,3 +180,4 @@ renders identically cannot be told apart by any statistic.
   lemma with D = N_ab, and its corrected lower bound takes the kernel
   vector of the stacked signal matrices of N_ab, as here
   ([THEORY-961](THEORY-961.md)).
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

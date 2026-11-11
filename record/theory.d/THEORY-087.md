@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpzelk0
 title: 'The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -43,6 +43,14 @@ history:
     at the optimum sets the Occam factor, and as λ log n in a singular
     one, where λ is the real log canonical threshold and falls below d/2
     when the prior is positive on the optimal set.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-384: the claim's text says "Anything about the network
+    itself. The network may be singular, and its evidence governed by a
+    learning coefficient (THEORY-087); linearisation removes that
+    question". First application of the bounds relation (ADR-tmppj46c).
+    No other change.
 tags:
 - model-comparison
 - information-geometry
@@ -70,6 +78,8 @@ summary: >-
   The volume reading of λ is in Watanabe's book, which is unread.
 extends:
 - THEORY-718
+bounds:
+- CLAIM-384
 ---
 <!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->
 <!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; an account that presupposes this one and one that extends it, named in Connections -->

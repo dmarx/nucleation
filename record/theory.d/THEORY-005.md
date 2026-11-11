@@ -20,7 +20,7 @@ promote_when: >-
   et al.'s F.1, and they have no operator or eigenfunctions; this does
   not meet it.
 title: 'The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator''s eigenfunctions, well defined when the positive-pair χ²-divergence is finite'
-version: 4
+version: 6
 history:
 - version: 2
   date: '2026-10-14'
@@ -59,6 +59,21 @@ history:
     eigenfunction identification for trained or spectral features. Its
     promote_when, which asks for a published statement or a result about
     trained features, is unchanged, and the status stays Proposed.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-641: the claim's text says "That HaoChen et al.'s
+    theorems hold under finite χ² alone. Their extension to infinite
+    spaces is asserted, not written out ..., and THEORY-005 keeps that".
+    First application of the bounds relation (ADR-tmppj46c). No other
+    change.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-370: the claim's text says "That trained features span
+    T's top eigenfunctions. That is about optimization and capacity.
+    THEORY-005's promote_when keeps it". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -78,6 +93,9 @@ extends:
 - THEORY-007
 bears_on:
 - QUESTION-052
+bounds:
+- CLAIM-641
+- CLAIM-370
 ---
 
 # THEORY-005: The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
@@ -110,3 +128,4 @@ converse (Hilbert–Schmidt only if χ² is finite), and it is Active.
 Mathematics the record proves does not wait on a source. What this THEORY
 still waits on is what the sources show, and whether features reach the
 eigenfunctions.
+<!-- inactive-ok-file: CLAIM-641 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

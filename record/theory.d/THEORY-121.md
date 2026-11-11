@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmjijs
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-05'
@@ -31,6 +31,15 @@ history:
     refute it" records that neither reports the rebuilt four-case
     argument, and names two further candidate refuters they report.
     Nothing else changed.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-354: the claim's text says "Not metaphysical free will,
+    and not responsibility. ... On Fischer and Ravizza (THEORY-121),
+    responsibility needs guidance control and not regulative control
+    over alternatives, so a larger reachable set does not make a more
+    responsible agent". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - free-will
 - agency
@@ -66,6 +75,8 @@ answers:
 - QUESTION-011
 bears_on:
 - QUESTION-071
+bounds:
+- CLAIM-354
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->

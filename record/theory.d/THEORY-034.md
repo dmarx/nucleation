@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpd2g4g
 title: 'Chakravartty''s dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and of the seven structural-realist texts read here against it, two are of that kind: Floridi''s informational structural realism and Esfeld and Lam''s moderate structural realism'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -34,6 +34,14 @@ history:
     Nobody has placed them, so the dropped clause is open scope (ADR-047,
     kind 4), and the promote_when moves unchanged to QUESTION-336.
     CLAIM-134 keeps this reading under grounds.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-151: the claim's text says "It is not a structural
+    realism. 'Partly constituted' leaves intrinsic identity-fixing
+    features a role, and that is the intrinsic horn of Chakravartty's
+    dilemma (THEORY-034)". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -59,7 +67,10 @@ summary: >-
   texts are of the target kind is QUESTION-336.
 bears_on:
 - QUESTION-336
+bounds:
+- CLAIM-151
 ---
+<!-- inactive-ok-file: CLAIM-151 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-301 LIT-342 — Unavailable; founding texts named in promote_when and as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-453 THEORY-038 — Proposed; the second position of the target kind, placed in the table and named, and the eliminative-horn account, named; nothing here rests on their being settled -->
 

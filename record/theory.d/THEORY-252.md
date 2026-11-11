@@ -15,7 +15,17 @@ promote_when: >-
   networks cannot settle it, since the simulation only shows what any
   ideal clamp does.
 title: 'On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-440: the claim's text says "That the regime is felt.
+    ... The counterfactual eraser (THEORY-252) bears on it too:
+    priority, persistence and resumption are dispositional, so an
+    identity of feeling with this regime would be an identity with a
+    functional role". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - consciousness
 - metaphysics
@@ -32,7 +42,10 @@ summary: >-
   evidence about experience; the simulation shows only what an ideal
   clamp does, and the premise that removing unexercised branches changes
   experience is cited, not defended.
+bounds:
+- CLAIM-440
 ---
+<!-- inactive-ok-file: CLAIM-440 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-101 THEORY-092 THEORY-119 THEORY-043 THEORY-023 — Proposed; parallel and neighbouring accounts, named for comparison, nothing here rests on them -->
 
 # THEORY-252: On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input

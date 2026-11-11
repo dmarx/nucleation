@@ -23,7 +23,16 @@ promote_when: >-
   reliability. What cannot settle it: more demonstrations that habits
   form with over-training, which every account predicts.
 title: 'Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-169: the claim's text says "model-based against
+    model-free control (THEORY-062) ... differ in method or content, not
+    in delay. They are a second axis of multiplicity, and this claim is
+    silent on them". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - behavioral-integration
 - learning-and-conditioning
@@ -48,7 +57,10 @@ summary: >-
 bears_on:
 - QUESTION-015
 - QUESTION-054
+bounds:
+- CLAIM-169
 ---
+<!-- inactive-ok-file: CLAIM-169 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-056 THEORY-045 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-070 THEORY-067 — new in this batch; accounts this one is set beside -->
 

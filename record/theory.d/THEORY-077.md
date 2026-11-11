@@ -20,7 +20,7 @@ promote_when: >-
   between "autonomous goals" and well-being cannot settle either half,
   since they do not test the sequence.
 title: "Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
@@ -28,6 +28,12 @@ history:
     `presupposes: THEORY-054` declared (ADR-029). The Connections entry
     already said this account presupposes SDT's graded continuum; the
     relation did not exist when it was filed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-358: the claim's text says "That an integrated agent works
+    less hard. ... The effort of the work itself can be high". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - motivation
 - self-governance
@@ -52,7 +58,10 @@ presupposes:
 - THEORY-054
 bears_on:
 - QUESTION-066
+bounds:
+- CLAIM-358
 ---
+<!-- inactive-ok-file: CLAIM-358 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-029 THEORY-074 — Proposed; the SDT and self-governance accounts this one bears on, named in prose; only THEORY-054's graded continuum is presupposed, and this account is no firmer than it -->
 <!-- inactive-ok-file: LIT-594 — Unavailable; Taylor, named for the content objection the paper concedes, not leaned on -->
 

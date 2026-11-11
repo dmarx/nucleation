@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpl07kz
 title: 'For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -33,6 +33,19 @@ history:
     finite parameter set, being at least as informative for every decision
     problem is the same as being able to simulate the other by a
     randomisation'. Arbitrary spaces go to QUESTION-321.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-126: the claim's text says "It gives no
+    characterisation of which transports preserve information, and no
+    measure of how much a non-sufficient transport loses; that is Le
+    Cam's deficiency (THEORY-156)". bounds CLAIM-323: the claim's text
+    says "It does not say how far apart U and V are. That is a question
+    for Le Cam's deficiency, which THEORY-156 names". bounds CLAIM-380:
+    the claim's text says "It says nothing about outcome spaces that are
+    not finite, such as raw texts. There step (b) needs the general
+    converse, which CLAIM-326 keeps on THEORY-156". First application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - mathematical-statistics
 - information-theory
@@ -55,6 +68,10 @@ extends:
 - THEORY-717
 bears_on:
 - QUESTION-321
+bounds:
+- CLAIM-126
+- CLAIM-323
+- CLAIM-380
 ---
 
 # THEORY-156: For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
