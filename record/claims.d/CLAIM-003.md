@@ -4,7 +4,16 @@ status: Deferred
 formerly:
 - CLAIM-tmp0r2x7
 title: 'A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-10'
+  note: >-
+    Answers QUESTION-061, which asks the brain half of what this
+    claim says ("This question asks the brain half first"); the
+    claim's answer is that "the neuronal workspace has
+    compartments". Found when the feeling part was checked for a
+    root question (2026-11-10). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -20,6 +29,8 @@ summary: >-
   The owner's point at U26: an organization's permission structure plays
   the role functional connectivity plays in a brain, and the daydreaming
   driver shows access within one agent can be compartmented.
+answers:
+- QUESTION-061
 ---
 
 # CLAIM-003: A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it
