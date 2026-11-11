@@ -93,8 +93,8 @@ summary: >-
 
 [CLAIM-283](CLAIM-283.md) holds that "an operator can urgently demand control without
 receiving it", so claimed precedence and granted authority are different
-quantities. That internal conflict is the gap between them is CLAIM-484's
-further identification, Proposed, split from CLAIM-283's version 1 on
+quantities. That internal conflict is the gap between them is [CLAIM-484](CLAIM-484.md)'s
+further identification, Proposed, split from [CLAIM-283](CLAIM-283.md)'s version 1 on
 2026-10-27; this claim's title uses only the distinction. The record's
 affect accounts sit on both sides of that gap without saying so.
 
@@ -112,7 +112,7 @@ affect accounts sit on both sides of that gap without saying so.
   or not the perspective wins.
 
 So conflict, emotion and the system's valence are three readings of one
-gap: conflict, on CLAIM-484's identification, is the gap itself, emotion is the claim, and the system's
+gap: conflict, on [CLAIM-484](CLAIM-484.md)'s identification, is the gap itself, emotion is the claim, and the system's
 valence is the pattern of grants over time, of a particular kind.
 
 ## What follows
@@ -164,33 +164,33 @@ Rechecked after [TERM-076](../terms.d/TERM-076.md)'s [ADR-070](../decisions.d/AD
 
 ## Note of 2026-11-11: two disagreements, not resolved here
 
-The synthesis review of 2026-11-10 (SYNTHESIS-021) found two places
+The synthesis review of 2026-11-10 ([SYNTHESIS-021](../syntheses.d/SYNTHESIS-021.md)) found two places
 where this claim and another entry disagree. This note states them and
 changes nothing in the claim.
 
-- **A perspective's valence, against its premise CLAIM-437.** This
+- **A perspective's valence, against its premise [CLAIM-437](CLAIM-437.md).** This
   claim puts a perspective's valence on the claim side, and its title
   says a change in grants with the claims fixed leaves the perspectives'
-  valences as they were. CLAIM-437 gives a perspective's valence as "its
+  valences as they were. [CLAIM-437](CLAIM-437.md) gives a perspective's valence as "its
   ranking and its progress against its own reference course". The
   ranking is fixed by the perspective's concerns, and is on the claim
   side. Progress is not: it moves with what the negotiation grants, and
-  in CLAIM-437's relapsing addict the perspective that wants to abstain
+  in [CLAIM-437](CLAIM-437.md)'s relapsing addict the perspective that wants to abstain
   has negative valence, regret, because the pursuit perspective
   prevails. So suspension leaves a perspective's ranking as it was but
   can change its progress, and with it the sign of its valence. The
   title's "leaves the perspectives' emotions and valences as they were"
-  holds of their emotions and their rankings; for valence as CLAIM-437
+  holds of their emotions and their rankings; for valence as [CLAIM-437](CLAIM-437.md)
   defines it, it is in tension with the premise.
-- **Remorse in CASE-151, against CLAIM-432.** This claim puts an emotion
+- **Remorse in [CASE-151](../cases.d/CASE-151.md), against [CLAIM-432](CLAIM-432.md).** This claim puts an emotion
   on the claim side: "The claim is the emotion whether or not it is
-  granted". CLAIM-432 counts a corporation as lacking remorse when
+  granted". [CLAIM-432](CLAIM-432.md) counts a corporation as lacking remorse when
   others' harm reaches its decisions only as a threat, and its note of
   2026-10-23 reads remorse as "others' harm entering the potential
   ordering", on the grant side. If a unit's appraisal under a role duty
-  is the corporation's own, as CLAIM-432's part 3 allows, then on this
-  claim CASE-151's 2004 investigation is functional remorse claimed and
-  not granted, where CLAIM-432 reads the bank as without remorse. The two
-  disagree about the case on that condition. CLAIM-432's note of the
+  is the corporation's own, as [CLAIM-432](CLAIM-432.md)'s part 3 allows, then on this
+  claim [CASE-151](../cases.d/CASE-151.md)'s 2004 investigation is functional remorse claimed and
+  not granted, where [CLAIM-432](CLAIM-432.md) reads the bank as without remorse. The two
+  disagree about the case on that condition. [CLAIM-432](CLAIM-432.md)'s note of the
   same date states the disagreement from its side, and neither entry
   settles whether such an appraisal is the corporation's.

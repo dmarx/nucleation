@@ -73,7 +73,7 @@ places.
   presupposes a relevant demand or commitment belonging to the affected
   system". In conventional training the demands are the trainer's
   ([CLAIM-288](../claims.d/CLAIM-288.md)).
-- **Whether it is felt.** That is QUESTION-059, Open with its reopened line, and,
+- **Whether it is felt.** That is [QUESTION-059](QUESTION-059.md), Open with its reopened line, and,
   for systems without biology, [QUESTION-048](QUESTION-048.md). [QUESTION-046](QUESTION-046.md) asks for the
   criterion of a subject that would apply the same way to a network as to
   a group. A30: "Illusionism doesn't make any negatively evaluated feedback

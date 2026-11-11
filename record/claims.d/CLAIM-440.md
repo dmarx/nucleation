@@ -289,7 +289,7 @@ sign.
    of ambivalence, arousal and approach–avoidance conflict, are candidate
    independent markers. The model's asymmetries, a higher gain for
    negativity and a positivity offset, are not predicted by anything
-   here. This reading is narrowed by CLAIM-451 (the note of 2026-10-23).
+   here. This reading is narrowed by [CLAIM-451](CLAIM-451.md) (the note of 2026-10-23).
    Ambivalence, opposed evaluations both strong, can occur where one
    perspective consistently prevails, and a cycle need not involve
    opposed valences. So no ordering, or a split potential, is one way

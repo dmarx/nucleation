@@ -38,7 +38,7 @@ summary: >-
   pairwise and content-free. The gateway/broadcaster split is imposed by
   the method; only where its two classes fall is measured.
 ---
-<!-- inactive-ok-file: QUESTION-061 CLAIM-003 THEORY-096 THEORY-098 — Deferred or Proposed; the set-aside question and claim this bears on, and the accounts it is compared with, cited as open -->
+<!-- inactive-ok-file: CLAIM-003 THEORY-096 THEORY-098 — Deferred or Proposed; the set-aside question and claim this bears on, and the accounts it is compared with, cited as open -->
 
 # THEORY-240: Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters
 

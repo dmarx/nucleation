@@ -66,7 +66,7 @@ alarms. A new hazard appears. System A responds. System B does not."
   either successful learning or a loss of the capacity to learn. The
   decisive test therefore concerns **response to changed evidence**, not
   the frequency of past warnings." That is the point on which [CLAIM-364](../claims.d/CLAIM-364.md)
-  undercuts ARG-030, the inference from low supervisory cost to
+  undercuts [ARG-030](../arguments.d/ARG-030.md), the inference from low supervisory cost to
   non-domination, made into a pair: quiet is expected whether or not the
   signal was suppressed. It has [CLAIM-414](../claims.d/CLAIM-414.md)'s form, agreement in ordinary
   operation and divergence under an intervention.

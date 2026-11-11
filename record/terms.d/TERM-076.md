@@ -170,7 +170,7 @@ to a collective relation R_t on X_t.
     graph. No ordering absorbing the conflicts is what Sen's theorem allows
     ([THEORY-027](../theory.d/THEORY-027.md)) and Tversky's cycles show ([CLAIM-436](../claims.d/CLAIM-436.md), part 3b).
     This is ambivalence as the negotiation's record shows it, not all
-    ambivalence. CLAIM-451 narrows CLAIM-440's consequence 4: coexisting
+    ambivalence. [CLAIM-451](../claims.d/CLAIM-451.md) narrows [CLAIM-440](../claims.d/CLAIM-440.md)'s consequence 4: coexisting
     evaluations of opposed significance can occur where one perspective
     consistently prevails, and a cycle need not involve opposed
     valences, so ambivalence and nonintegrability entail neither one

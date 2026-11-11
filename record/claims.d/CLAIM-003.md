@@ -88,10 +88,10 @@ reopens is the owner's decision.
 
 The claim was Deferred with the organizational-affect line on
 2026-10-04. Its own reason, "Not needed by the will paper" above, is the
-line's. The owner reopened the line on 2026-10-23 (CLAIM-039's note of
-that date), and QUESTION-044 went Open for that reason on 2026-10-29.
+line's. The owner reopened the line on 2026-10-23 ([CLAIM-039](CLAIM-039.md)'s note of
+that date), and [QUESTION-044](../questions.d/QUESTION-044.md) went Open for that reason on 2026-10-29.
 A78's caution, that the driver case "does not, by itself, establish two
 simultaneously conscious workspaces", limits what the case shows; it is
 not a reason to set the claim aside. So the claim is Proposed again,
-with QUESTION-061, which asks its brain half and is Open from the same
+with [QUESTION-061](../questions.d/QUESTION-061.md), which asks its brain half and is Open from the same
 date. Its evidence is unchanged.
