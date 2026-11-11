@@ -1,5 +1,8 @@
 ---
+number: 26
 status: Proposed
+formerly:
+- SYNTHESIS-tmp4xa7p
 title: 'Whether a learner''s demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network'
 version: 1
 defeated_if: >-
@@ -38,7 +41,7 @@ bears_on:
 <!-- inactive-ok-file: ADR-083 CASE-193 CLAIM-170 CLAIM-174 CLAIM-187 CLAIM-263 CLAIM-367 CLAIM-555 CLAIM-629 — Proposed; components, citations and the decisions this account follows, with their standing -->
 <!-- inactive-ok-file: QUESTION-286 — Answered; components and citations, with their standing -->
 
-# SYNTHESIS-tmp4xa7p: Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
+# SYNTHESIS-026: Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts. Its components came from the exchange of 2026-10-17 (U30 to U36), the exchange "Organizational Nucleation and SLT" (2026-11-04) and the second synthesis review (2026-11-07).*
 
@@ -105,7 +108,7 @@ bears_on:
   [QUESTION-122](../questions.d/QUESTION-122.md)'s question.
 
 Outside this part, seven of these entries are joined to the acquisition
-part ([SYNTHESIS-tmptiwlg](SYNTHESIS-tmptiwlg.md)), nine pairs in all: [CLAIM-555](../claims.d/CLAIM-555.md) bears on [QUESTION-275](../questions.d/QUESTION-275.md) and
+part ([SYNTHESIS-034](SYNTHESIS-034.md)), nine pairs in all: [CLAIM-555](../claims.d/CLAIM-555.md) bears on [QUESTION-275](../questions.d/QUESTION-275.md) and
 [QUESTION-363](../questions.d/QUESTION-363.md); [CASE-197](../cases.d/CASE-197.md) names both and [CASE-193](../cases.d/CASE-193.md) names [QUESTION-275](../questions.d/QUESTION-275.md); the
 notes of [CLAIM-366](../claims.d/CLAIM-366.md), [CLAIM-367](../claims.d/CLAIM-367.md) and [CASE-113](../cases.d/CASE-113.md) dated 2026-10-26 read the reply
 at T24 of the exchange "Experimental Infrastructure Review", from which

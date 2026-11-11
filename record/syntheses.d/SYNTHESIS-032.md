@@ -1,5 +1,8 @@
 ---
+number: 32
 status: Proposed
+formerly:
+- SYNTHESIS-tmprhzl8
 title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the part''s questions are replications of the readings it rests on'
 version: 1
 defeated_if: >-
@@ -50,7 +53,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CLAIM-632 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
 
-# SYNTHESIS-tmprhzl8: Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the part's questions are replications of the readings it rests on
+# SYNTHESIS-032: Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the part's questions are replications of the readings it rests on
 
 *A part account of the readiness line: the part filed from the DNA
 origami, aid and development, ecology, urban, medicine and windfall

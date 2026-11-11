@@ -6,8 +6,10 @@
 
 **Loss landscapes** — the geometry of trained solutions in weight space — mode connectivity, linear and along curves, barriers between minima and the permutation symmetries that hide or remove them, re-basin alignment, star domains and connecting simplexes, local versus global landscape structure, and model merging as its use (ADR-027).
 
-0 of 23 SYNTHESIS documents. Back to the [full index](../README.md).
+3 of 34 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-026](../../../record/syntheses.d/SYNTHESIS-026.md) | Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network |  | Proposed |
+| [SYNTHESIS-028](../../../record/syntheses.d/SYNTHESIS-028.md) | Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open |  | Proposed |
+| [SYNTHESIS-030](../../../record/syntheses.d/SYNTHESIS-030.md) | The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner's demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, and what classification leaves in the last layers, with smaller families on personas, group structure and learned variables and twenty-three entries linked to no other; the parts meet almost only through two questions on acquisition, and the line is a candidate to split |  | Proposed |
