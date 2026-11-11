@@ -1,21 +1,22 @@
 ---
 number: 1569
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp35z1e
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1252)
-  finds that it states what Gardiner argues, and nothing in the record
-  contradicts the report. Whether the intergenerational problem in fact
-  dominates, which Gardiner asserts "in my view", is not asked.
 title: 'Gardiner argues that climate change joins a global commons problem to an intergenerational one that institutions and reciprocity cannot solve, because the generations do not coexist, and that these, with our theories'' weakness, leave each generation open to moral corruption that hides its exploitation of its temporal position, even from itself'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1252 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1252,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

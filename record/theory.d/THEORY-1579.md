@@ -1,22 +1,22 @@
 ---
 number: 1579
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7vt9y
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1293,
-  from the 2023 preprint) finds that it states what the authors report,
-  and nothing in the record contradicts the report. Whether raising this
-  responsibility is how the interventions work, which rests on exploratory
-  mediation, is not asked.
 title: 'Syropoulos et al. report that felt responsibility to future generations is endorsed by most people in Europe and the US, is nearly unrelated to ideology and demographics and half as tied to conservatism as responsibility for climate, predicts self-reported proenvironmentalism, and was raised a little by each of five brief interventions, most by a letter to a person born today and least by a longtermist text'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1293 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1293,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - moral-psychology

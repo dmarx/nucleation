@@ -1,21 +1,22 @@
 ---
 number: 1617
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmptv00n
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1267,
-  from the 2021 preprint) finds that it states what the authors report,
-  and nothing in the record contradicts the report. Whether these
-  intuitions are correct, or hold outside online US samples, is not asked.
 title: 'Caviola et al. report that laypeople judge adding a very happy person to a world as good as adding a very unhappy one is bad, prefer larger happy populations with averages fixed but less so as numbers grow, reversing at one billion against ten billion, and tend to favour the higher average when average and total conflict'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1267 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1267,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - moral-psychology

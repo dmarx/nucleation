@@ -1,22 +1,22 @@
 ---
 number: 1591
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbkjpi
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1273)
-  finds that it states what the authors report, with its hedge, and
-  nothing in the record contradicts the report. Whether legacy concern
-  explains the allocations, which the authors infer and no study tests, is
-  not asked.
 title: 'Wade-Benzoni, Sondak and Galinsky report that framing an intergenerational decision as leaving burdens rather than using up benefits raised legacy concern, felt responsibility and affinity toward future generations, and that people kept more of a benefit than of a burden for themselves when the other party would receive it in the future, though no study measured legacy concern and allocation together'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1273 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1273,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - moral-psychology

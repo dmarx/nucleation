@@ -1,23 +1,22 @@
 ---
 number: 1566
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2jk4m
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1247,
-  from the GPI working paper of 2022) finds that it states what Tarsney
-  reports: the nullifying-event discount, the thresholds on its rate at
-  his point estimates, and a win that on some views rests on probabilities
-  of order 10^-18 or less; and nothing in the record contradicts the
-  report. Whether longtermism is true is not asked.
 title: 'Tarsney argues that the chance an intervention''s effect is nullified acts as an exponential discount, so that under expectational utilitarianism and deliberately pessimistic inputs existential-risk reduction beats a strong global-health benchmark only if nullifying events are rare, and its robust win rests, on some views, on probabilities of order 10^-18 or less'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1247 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1247,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

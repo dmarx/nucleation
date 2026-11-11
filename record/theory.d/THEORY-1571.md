@@ -1,22 +1,22 @@
 ---
 number: 1571
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp3g7jd
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1287)
-  finds that it states what Ramsey derives and asserts, and nothing in the
-  record contradicts the report. Whether discounting later enjoyments is
-  indefensible, which Ramsey asserts in one clause without argument, is
-  not asked.
 title: 'Ramsey argues that a community that lives for ever and does not discount later enjoyments should save at the rate at which saving times the marginal utility of consumption equals the shortfall of present net enjoyment from Bliss, a rule independent of the interest rate, and he calls discounting later enjoyments ethically indefensible, a product of the weakness of the imagination'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1287 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1287,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - social-science

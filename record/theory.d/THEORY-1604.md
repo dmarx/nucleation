@@ -1,21 +1,22 @@
 ---
 number: 1604
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpjz519
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1302,
-  from the GPI working paper of June 2021) finds that it states what the
-  authors argue and concede, and nothing in the record contradicts the
-  report. Whether strong longtermism is true is not asked.
 title: 'Greaves and MacAskill argue that in the most important decisions facing agents today every near-best option is near-best for the far future and delivers much larger benefits there than in the near future, on expected-value reasoning that they concede needs a zero pure rate of time preference and may fail through fanaticism'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1302 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1302,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

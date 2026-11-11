@@ -1,22 +1,22 @@
 ---
 number: 1620
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpuby0q
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1270)
-  finds that it states what the authors report, and nothing in the record
-  contradicts the report. Why laypeople answer so, which the authors
-  explain by a focus on immediate harm and neglect of the long term, is
-  not asked.
 title: 'Schubert et al. report that most laypeople judge human extinction bad but not uniquely worse than a catastrophe killing 80%, that the share who judge it uniquely bad rises when the victims are animals or the lost future is pointed out, and in one of two general samples when the catastrophe sterilizes, and that it passes a majority only when the surviving future is described as long and utopian'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1270 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1270,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - moral-psychology

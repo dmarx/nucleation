@@ -1,21 +1,22 @@
 ---
 number: 1623
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpvd640
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1317,
-  the text of the 2024 talk) finds that it states what Ord reports, and
-  nothing in the record contradicts the report. Whether the estimates are
-  right is not asked.
 title: 'Ord reports that since The Precipice existential risk from climate change has fallen, risk from nuclear war has risen, and risk from pandemics and from AI has moved in no clear direction, so that none of the book''s rounded per-century estimates has moved far'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1317 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1317,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - society-and-governance
