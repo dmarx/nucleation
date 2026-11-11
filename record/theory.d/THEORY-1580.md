@@ -1,21 +1,22 @@
 ---
 number: 1580
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7zlqh
-promote_when: >-
-  A reading of the chapter in full finds it stating what the title
-  states. Whether the effects it cites hold under preregistered
-  replication is not asked; that is a question for further work, not for
-  this reading (ADR-065).
 title: 'Spears and Postmes state the SIDE model: anonymity and immersion in a group do not remove the self but make the salient identity more salient, so behaviour follows the group''s norms more closely under a salient group identity and moves away from them under a salient personal one, and anonymity to a powerful out-group frees in-group-normative behaviour it would punish'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1280 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1280,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - social-science

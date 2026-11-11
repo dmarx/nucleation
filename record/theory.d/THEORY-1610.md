@@ -1,22 +1,22 @@
 ---
 number: 1610
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmppemix
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1263)
-  finds that it states what Parfit argues in this paper, and nothing in
-  the record contradicts the report. Whether the Wide Principle is
-  correct, and whether the Repugnant Conclusion can be avoided, which
-  Parfit grants the paper does not show, are not asked.
 title: 'Parfit argues that narrow person-affecting principles fail in non-identity and different-number cases, and that a wide person-affecting principle, on which being caused to exist with a life worth living is an intrinsic benefit and an outcome is in one way worse if it benefits people less, solves the non-identity problem and keeps the relation of being better transitive'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1263 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1263,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

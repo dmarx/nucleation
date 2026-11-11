@@ -1,21 +1,22 @@
 ---
 number: 1570
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp3ebnf
-promote_when: >-
-  A reading of the paper in full finds it arguing what the title states.
-  Whether their reading of merging is right, or survives Batson et al.'s
-  experiments, is not asked; that is a question for further work, not
-  for this reading (ADR-065).
 title: 'Miyazono and Inarimori argue that self–other merging is best read as group identification, so that in empathic helping the other''s welfare becomes a constituent of one''s first-person plural welfare, and the helping is altruistic at the individual level and egoistic at the group level'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1277 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1277,
+    nothing in the record contradicting it.
 tags:
 - altruism
 - social-identity

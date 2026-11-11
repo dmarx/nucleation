@@ -1,23 +1,22 @@
 ---
 number: 1593
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpd9qd8
-promote_when: >-
-  A reading of the paper in full finds what the title reports: lower IGF2
-  DMR methylation in blood in people periconceptionally exposed to the
-  Hunger Winter than in their same-sex siblings (0.488 against 0.515 in 60
-  pairs), and no difference for exposure late in gestation (62 pairs).
-  Replication in other cohorts or loci, and whether the mark does
-  anything, are not asked.
 title: 'Heijmans and colleagues report that people conceived during the Dutch Hunger Winter had, about six decades later, slightly lower methylation of the imprinted IGF2 gene in blood than their same-sex siblings, while people exposed only late in gestation showed no difference'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1248 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1248,
+    nothing in the record contradicting it.
 tags:
 - natural-sciences
 date: '2026-11-11'

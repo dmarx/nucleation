@@ -1,15 +1,10 @@
 ---
 number: 1601
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpgrb17
-promote_when: >-
-  A reading of the post in full finds it reporting and inferring as
-  the title states. Whether the regenerated worms recalled, rather
-  than relearned faster after the refresher, is not asserted; the post
-  reports no control that would separate the two.
 title: 'Levin and Shomrat report, in an announcement without data, that planarians trained to recognise a laser-etched chamber recognised it after head removal and regeneration given a brief refresher, and infer that memory can be stored outside the brain and imprinted on the regenerated one'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +12,15 @@ history:
     Filed from NOTE-1283 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1283,
+    nothing in the record contradicting it. NOTE-1283 is marked
+    Skimmed for the post's thinness, not for a partial reading: its
+    history records the post read in full, and the title keeps that it
+    is an announcement without data.
 tags:
 - neuroscience
 - learning-and-conditioning

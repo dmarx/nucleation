@@ -1,21 +1,22 @@
 ---
 number: 1624
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpwho4w
-promote_when: >-
-  A reading of the entry in full finds it reporting and arguing what the
-  title states. Whether Batson et al.'s 1997 reply in fact found what
-  the entry says it found is not asked; that is a question for further
-  work, not for this reading (ADR-065).
 title: 'Doris, Stich, Walmsley and Schulz report that Batson''s experiments tell against the social-punishment and aversive-arousal versions of egoism, argue that self–other merging would make helping egoistic only as perceived numerical identity, which none of the four merging measures in the 1997 exchange tests, and hold that psychological altruism is not yet established'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1274 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1274,
+    nothing in the record contradicting it.
 tags:
 - altruism
 - moral-psychology

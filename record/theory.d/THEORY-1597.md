@@ -1,25 +1,24 @@
 ---
 number: 1597
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpf51cs
-promote_when: >-
-  A reading of the lecture in full finds that it argues what the title
-  states: that a large group's shared image of an ancestral injury at an
-  enemy's hands, real or mythologized, changes function across
-  generations into an identity marker (a chosen trauma); that a threat to
-  the group's identity brings it up; and that a recent trauma still
-  mourned, the Holocaust, is not a chosen trauma. Whether chosen traumas
-  work so, which the lecture supports only by the author's observation,
-  is not asked.
 title: 'Volkan argues, from clinical work and facilitated dialogues, that a large group''s shared image of an ancestral injury at the hands of an enemy, real or mythologized, changes function across generations into a marker of the group''s identity, a chosen trauma, which a threat to that identity brings up, and that a recent trauma still mourned, like the Holocaust, is not one'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1250 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1250,
+    nothing in the record contradicting it. The NOTE reads the 2021
+    lecture this entry cites, not Volkan 2001, and the title attributes
+    what is said to the lecture.
 tags:
 - social-identity
 - psychopathology-and-treatment

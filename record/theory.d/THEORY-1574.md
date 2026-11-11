@@ -1,22 +1,22 @@
 ---
 number: 1574
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp60gwu
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1321)
-  finds that it states what Bostrom argues, and nothing in the record
-  contradicts the report. Whether the axiology is right, which Bostrom
-  assumes as "the simplest case", and whether the motivational claims
-  hold, which he does not test, are not asked.
 title: 'Bostrom argues that on aggregative, time-neutral views of value reducing existential risk is a global priority, and that it is undersupplied for lack of motivation as well as understanding, since its benefit is a pan-generational public good whose future beneficiaries cannot pay and moral sentiment is insensitive to scope'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1321 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1321,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

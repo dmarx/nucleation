@@ -1,21 +1,22 @@
 ---
 number: 1619
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpu2krj
-promote_when: >-
-  A reading of the review in full finds it reporting what the title
-  states. Whether the self-anchoring and self-payment results replicate
-  outside the author's circle is not asked; that is a question for
-  further work, not for this reading (ADR-065).
 title: 'Otten reports that minimal-group categorization, with no personal stake in the allocations, reliably produces in-group favouritism alongside a strong pull towards fairness, that projecting the positive personal self onto the new group is a crucial route to it, and that people allowed to pay themselves take the most for themselves and favour the in-group with the rest'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1301 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1301,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - self

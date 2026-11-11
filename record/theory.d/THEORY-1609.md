@@ -1,14 +1,10 @@
 ---
 number: 1609
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpodil0
-promote_when: >-
-  A reading of the review in full finds it reporting as the title
-  states. The studies it reviews were not read, and whether felt
-  continuity causes patience is not asserted.
 title: 'Hershfield reviews evidence, mostly from his own studies, that people who feel less similar to their future selves treat them more like strangers and choose less patiently, while directly reported liking and caring for the future self, answered near ceiling, did not predict choice'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,12 @@ history:
     Filed from NOTE-1259 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1259,
+    nothing in the record contradicting it.
 tags:
 - self
 - motivation

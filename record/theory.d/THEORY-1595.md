@@ -1,21 +1,22 @@
 ---
 number: 1595
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpe97rb
-promote_when: >-
-  A reading of the review in full finds it reporting what the title
-  states. Whether a narrower version in specific social state
-  self-esteem holds is not asked; that is a question for further work,
-  not for this reading (ADR-065).
 title: 'Rubin and Hewstone report, from a count of experiments on social identity theory''s self-esteem hypothesis, that intergroup discrimination tends to raise self-esteem but is not in general motivated by low self-esteem, so the hypothesis is not supported in its full and unqualified form, and that most tests measured global personal self-esteem where the theory implies specific social state self-esteem'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1278 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1278,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - self

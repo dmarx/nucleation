@@ -1,14 +1,10 @@
 ---
 number: 1584
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8l10c
-promote_when: >-
-  A reading of the paper in full finds it reporting as the title
-  states. Its readings of midline activity as self-referential, which
-  the authors call speculative, are not asserted.
 title: 'Botzung and colleagues report that rival basketball fans recalled the same plays with valence set by their allegiance, recalled plays good for their own side more accurately and confidently, and that rated intensity, not valence, modulated amygdala and hippocampal activity at retrieval'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,12 @@ history:
     Filed from NOTE-1313 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1313,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - neuroscience

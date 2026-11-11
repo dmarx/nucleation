@@ -1,14 +1,10 @@
 ---
 number: 1607
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpl13hb
-promote_when: >-
-  A reading of the perspective in full finds it arguing and proposing
-  as the title states. That memory is stored outside the brain is the
-  authors' hypothesis and is not asserted here.
 title: 'Blackiston, Shomrat and Levin argue, from learned behaviour reported to survive brain remodelling in metamorphosing insects, regenerating planaria and hibernating mammals, that synaptic plasticity alone does not explain lasting memory, and propose, untested, that a planarian''s memory may be stored outside the brain and imprinted on the regenerated one'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,12 @@ history:
     Filed from NOTE-1258 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1258,
+    nothing in the record contradicting it.
 tags:
 - neuroscience
 - learning-and-conditioning

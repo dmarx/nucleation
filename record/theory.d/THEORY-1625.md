@@ -1,21 +1,22 @@
 ---
 number: 1625
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpx1wdw
-promote_when: >-
-  A reading of the review in full finds it reporting what the title
-  states. Whether the single correlational studies it cites replicate is
-  not asked; that is a question for further work, not for this reading
-  (ADR-065).
 title: 'Branand, Mashek and Aron report that in close relationships partners experience each other''s resources, perspectives and identities as partly their own, that the inclusion-of-other-in-self circle scale is validated as a measure of subjective closeness, and that inclusion shows in cognitive signs such as slower self-judgements on traits where the partner differs and self–partner confusions in memory'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1276 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1276,
+    nothing in the record contradicting it.
 tags:
 - self
 - altruism

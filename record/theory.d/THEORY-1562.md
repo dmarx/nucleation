@@ -1,14 +1,10 @@
 ---
 number: 1562
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp0hhij
-promote_when: >-
-  A reading of the review in full finds it reporting as the title
-  states. Whether the reports are faithful to the book, which the
-  record has not read, is not asserted.
 title: 'Cottingham reports that the third lecture of Scheffler''s Death and the Afterlife holds that a life must be temporally bounded for its goods to have the status of values, so that personal immortality is no remedy, and that among the commentators Frankfurt doubts the concern for humanity''s continuation is altruistic and Wolf denies that impending extinction would or should undercut our projects'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,12 @@ history:
     Filed from NOTE-1306 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1306,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

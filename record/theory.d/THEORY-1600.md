@@ -1,15 +1,10 @@
 ---
 number: 1600
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpg47d7
-promote_when: >-
-  A reading of the paper in full finds it reporting the structure as
-  the title states. Whether the Legacy factor measures a self extended
-  in time cannot be read from the paper, whose item wordings are not
-  printed, and is not asserted.
 title: 'Sandoval-Obando and colleagues report that in 430 Chilean teachers a 14-item Spanish Loyola Generativity Scale has three factors, a three-item Generative Legacy factor on symbolic continuity standing apart from Generative Action (r = .45), from an analysis they call confirmatory that chooses the number of factors from the data'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +12,12 @@ history:
     Filed from NOTE-1260 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1260,
+    nothing in the record contradicting it.
 tags:
 - psychometrics
 - future-generations

@@ -1,25 +1,29 @@
 ---
 number: 1618
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmptv9vu
-promote_when: >-
-  A reading of the Comment in full finds that it argues what the title
-  states: that human studies can exclude genetic but not ecological or
-  cultural inheritance; that proof of germline epigenetic inheritance
-  needs the other inheritances excluded, the factor found in pure germ
-  cells and its causal role shown, steps that "can hardly be done in
-  humans"; and that the Dutch Hunger Winter effects are fetal
-  programming. Whether germline epigenetic inheritance occurs in humans
-  is not asked.
 title: 'Horsthemke argues that human studies of germline epigenetic inheritance can exclude genetic inheritance but not ecological or cultural inheritance, proposes a three-step standard of proof that he grants can hardly be met in humans, and classifies the Dutch Hunger Winter effects as fetal programming'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1265 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1265,
+    nothing in the record contradicting it. Its bears_on QUESTION-297 is
+    kept and not made answers. Held, the entry asserts what Horsthemke
+    argues, not that no clean separation is achievable; his argument is
+    about present methods ("might currently be too much to ask for");
+    and it covers only the germline against ecological and cultural
+    inheritance, not the parenting and identity routes or the question's
+    identity clause. So it settles no delimited part of the question as
+    posed, and no ADR-049 split is due.
 tags:
 - natural-sciences
 date: '2026-11-11'

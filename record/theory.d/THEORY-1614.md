@@ -1,23 +1,24 @@
 ---
 number: 1614
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmps1jnm
-promote_when: >-
-  A reading of the article in full finds that it argues what the title
-  states: that organisms actively prevent the transmission of epigenetic
-  marks; that no validated mechanism lets the external environment
-  communicate with a heritable mammalian epigenome; and that the
-  Överkalix studies and the Holocaust FKBP5 study are weak, for the
-  reasons it gives. Whether the human effects are real is not asked.
 title: 'Bird argues that mammals actively erase epigenetic marks between generations, that no validated mechanism lets the environment instruct a heritable epigenome, and that the human cases most cited, the Swedish famine studies and the Holocaust FKBP5 study, are weak'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1264 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1264,
+    nothing in the record contradicting it. "The Swedish famine studies"
+    is Bird's label; THEORY-1596 records that the Överkalix exposure was
+    a grandparent's food supply, not famine as such.
 tags:
 - natural-sciences
 date: '2026-11-11'

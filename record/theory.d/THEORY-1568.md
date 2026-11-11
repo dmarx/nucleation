@@ -1,21 +1,22 @@
 ---
 number: 1568
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp316ih
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1304,
-  the SEP revision of 2026-07-17) finds that it states what Meyer argues,
-  and nothing in the record contradicts the report. Whether the threshold
-  account is correct is not asked.
 title: 'Meyer argues that a threshold notion of harm lets a weakly person-affecting view state harms to future people despite the non-identity problem, best specified as weakly sufficientarian, and that such a view gives no reason to prefer a flourishing future to none, a gap he fills with concerns that rest on what present and past people value and an obligation owed to them'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1304 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1304,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

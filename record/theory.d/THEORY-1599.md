@@ -1,22 +1,22 @@
 ---
 number: 1599
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpftim9
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1316,
-  with the supplementary files) finds that it states what the authors
-  report, and nothing in the record contradicts the report. Whether legacy
-  motivation mediates the effect, which rests on a mediator measured after
-  the task, is not asked.
 title: 'Wickersham et al. report that writing about one''s legacy, or about a loved place under climate change, raised pro-environmental intentions and hypothetical donations by small amounts that did not differ by age, and that each task raised both legacy motivation and love of nature, which in a model with both mediators carried at least as much of the legacy task''s donation effect'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1316 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1316,
+    nothing in the record contradicting it.
 tags:
 - motivation
 - future-generations

@@ -1,15 +1,10 @@
 ---
 number: 1564
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp0lc8z
-promote_when: >-
-  A reading of proposition 4 and the illustration in full finds them
-  as the title states. The copy read is the submitted manuscript, and
-  no discrepancy with the published text is named. Whether such
-  reflection is needed to know an entity is not asserted.
 title: 'Bencherki and Iliadis propose that knowledge of an entity should focus on its individuation process and reflect on the way that knowledge itself has individuated, and the first author, the ethnographer of their illustrating case, describes his own individuation through the fieldwork'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +12,12 @@ history:
     Filed from NOTE-1483 (read 2026-10-31), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1483,
+    nothing in the record contradicting it.
 tags:
 - individuation
 - philosophy-of-science

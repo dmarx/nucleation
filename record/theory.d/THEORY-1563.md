@@ -1,22 +1,32 @@
 ---
 number: 1563
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp0j4uq
-promote_when: >-
-  A reviewer who checks this title against the reading in full (NOTE-1308,
-  from the 2023 working paper) finds that it states what Thorstad proves
-  and argues, and nothing in the record contradicts the report. Whether a
-  time of perils will in fact come, and whether other models restore
-  astronomical value, are not asked.
-title: 'Thorstad argues that on simple models of existential risk higher risk does not raise, and in most variants lowers, the value of reducing it, so that high risk this century is compatible with astronomical value for mitigation only if risk falls soon and stays very low, and that the arguments offered for such a time of perils are weak'
-version: 1
+title: 'Thorstad argues that on simple models of existential risk higher risk does not raise, and in most variants lowers, the value of reducing it, so that high risk this century is compatible with astronomical value for mitigation only if risk falls soon and stays very low, and that three arguments offered for such a time of perils, from wisdom, an existential risk Kuznets curve and space settlement, are weak, leaving aside the argument from advanced AI'
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1308 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1308,
+    nothing in the record contradicting it. Narrowed first, under
+    ADR-047 kind 3 (a mis-statement, so a dated note only): the old
+    title said that "the arguments offered for such a time of perils are
+    weak", but Thorstad examines three of them and sets aside the
+    argument from advanced AI (fn. 7), which NOTE-1308 calls the
+    strongest. The old title: "Thorstad argues that on simple models of
+    existential risk higher risk does not raise, and in most variants
+    lowers, the value of reducing it, so that high risk this century is
+    compatible with astronomical value for mitigation only if risk falls
+    soon and stays very low, and that the arguments offered for such a
+    time of perils are weak"
 tags:
 - future-generations
 - ethics
@@ -34,7 +44,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1563: Thorstad argues that on simple models of existential risk higher risk does not raise, and in most variants lowers, the value of reducing it, so that high risk this century is compatible with astronomical value for mitigation only if risk falls soon and stays very low, and that the arguments offered for such a time of perils are weak
+# THEORY-1563: Thorstad argues that on simple models of existential risk higher risk does not raise, and in most variants lowers, the value of reducing it, so that high risk this century is compatible with astronomical value for mitigation only if risk falls soon and stays very low, and that three arguments offered for such a time of perils, from wisdom, an existential risk Kuznets curve and space settlement, are weak, leaving aside the argument from advanced AI
 
 ## The account
 
@@ -74,3 +84,11 @@ it." Its note of 2026-10-29 records that "Thorstad shows that high
 existential risk lowers the value of reducing it unless risk soon falls and
 stays low". The reading bears on whether the impersonal ground can guide
 action.
+
+## Note of 2026-11-11: narrowed and promoted
+
+The title said that the arguments offered for a time of perils are weak.
+Thorstad examines three, from wisdom, an existential risk Kuznets curve
+and space settlement (§§4–6), and sets aside the argument that advanced
+AI might end the perils (fn. 7), which [NOTE-1308](../notes.d/NOTE-1308.md) calls the strongest.
+The title now names the three and the one left aside.

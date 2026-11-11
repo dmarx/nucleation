@@ -1,14 +1,10 @@
 ---
 number: 1629
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpy94oh
-promote_when: >-
-  A reading of the review in full finds it reporting as the title
-  states. Which mortality-salience effects are real, and whether any
-  is a search for symbolic immortality, is not asserted.
 title: 'Chen and colleagues report that the mortality-salience literature, which uncorrected reproduces Burke and colleagues'' average effect, shrinks under corrections for publication bias to about r = .18, or to no effect on one method, with true effects so heterogeneous and studies so underpowered that many published effects are likely spurious'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,15 @@ history:
     Filed from NOTE-1271 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1271,
+    nothing in the record contradicting it. The inconsistencies
+    NOTE-1271 lists in the copy (Table 1 against the text for PET and
+    WAAP, and its figures for Many Labs 4) do not touch what the title
+    reports.
 tags:
 - motivation
 - social-science

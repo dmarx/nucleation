@@ -1,20 +1,22 @@
 ---
 number: 1630
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpyjtlo
-promote_when: >-
-  A reading of the paper in full finds it arguing what the title states.
-  Whether the schema is the right account of cooperation is not asked;
-  that is a question for further work, not for this reading (ADR-065).
 title: 'Sugden argues that theories of social preference either fit any choice trivially or cannot represent trust, and that cooperative team reasoning, which intends the common interests of members rather than the collective interest of the team, represents trust and market exchange as joint action for mutual benefit'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1288 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1288,
+    nothing in the record contradicting it.
 tags:
 - altruism
 - game-theory

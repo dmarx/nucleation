@@ -1,24 +1,28 @@
 ---
 number: 1602
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpibq0b
-promote_when: >-
-  A reading of the paper in full finds what the title reports: offspring
-  and grand-offspring of males fear-conditioned to one odour more
-  sensitive to that odour and not to the other, with more neurons for its
-  receptor; the anatomical change holding in offspring conceived by IVF;
-  and the authors reading the effect as sensitivity, not fear.
-  Replication, and whether sperm methylation carries the effect, are not
-  asked.
 title: 'Dias and Ressler report that male mice fear-conditioned to an odour before mating had sons and grandsons more sensitive to that odour, and not to another, with more olfactory neurons for its receptor, a change that held in offspring conceived by IVF, and they read what passes as sensitivity to the cue, not fear'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1281 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1281,
+    nothing in the record contradicting it. Its bears_on QUESTION-302 is
+    removed: that question asks what carries a memory across the
+    rebuilding of the nervous system that formed it, in the animal that
+    learned, and it names Dias and Ressler only as where an offspring
+    claim would join QUESTION-297. Offspring sensitivity does not meet
+    its own words (ADR-091's tie rule); the body citation there remains
+    the link.
 tags:
 - natural-sciences
 - neuroscience
@@ -34,7 +38,6 @@ summary: >-
   cites it for where an insect's learned aversion would pass to offspring.
 bears_on:
 - QUESTION-297
-- QUESTION-302
 ---
 
 # THEORY-1602: Dias and Ressler report that male mice fear-conditioned to an odour before mating had sons and grandsons more sensitive to that odour, and not to another, with more olfactory neurons for its receptor, a change that held in offspring conceived by IVF, and they read what passes as sensitivity to the cue, not fear
@@ -74,6 +77,8 @@ not reported.
   cue-specific sensitivity, not of trauma or fear. What passes needs no
   representation of the parent, the event or a group, and cross-fostering
   shows rearing by a trained mother does not transfer it.
-- [QUESTION-302](../questions.d/QUESTION-302.md), which names the work where a learned aversion in insects
+- [QUESTION-302](../questions.d/QUESTION-302.md) names the work where a learned aversion in insects
   would pass to offspring: on this paper's showing, what passed would be
-  heightened sensitivity to the odour, not the learned avoidance.
+  heightened sensitivity to the odour, not the learned avoidance. That is
+  beside its question, which asks about the animal that learned, so it
+  takes no edge.

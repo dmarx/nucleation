@@ -1,16 +1,10 @@
 ---
 number: 1634
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpz2zb6
-promote_when: >-
-  A reading of the paper in full finds it reporting the three results
-  as the title states. Where the memory is carried, which the authors
-  place in late-forming mushroom-body neurons by analogy with
-  Drosophila without examining the Manduca brain, is not asserted
-  here.
 title: 'Blackiston, Silva Casey and Weiss report that tobacco hornworm caterpillars conditioned in the last larval instar to avoid an odour still avoided it as moths, that residue on the pupal case does not explain the aversion, and that an aversion learned two instars earlier survived larval molts but not metamorphosis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -18,6 +12,12 @@ history:
     Filed from NOTE-1249 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1249,
+    nothing in the record contradicting it.
 tags:
 - neuroscience
 - learning-and-conditioning

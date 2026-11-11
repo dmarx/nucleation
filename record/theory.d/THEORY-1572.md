@@ -1,15 +1,10 @@
 ---
 number: 1572
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp3wg6o
-promote_when: >-
-  A reading of the paper in full finds it withdrawing the earlier
-  account, and arguing for the replacement, as the title states.
-  Whether the fellow traveler argument succeeds, and whether we are
-  embodied wills, is not asserted.
 title: 'Johnston withdraws the account of his Surviving Death, on which our deepest future-directed attitudes fix which future embodiments are ours, arguing that every reductionist account of personal identity breeds fellow travelers with moral status, and holds instead that we are essentially embodied wills whose present embodiments are not essential'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +12,12 @@ history:
     Filed from NOTE-1257 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1257,
+    nothing in the record contradicting it.
 tags:
 - personhood
 - self
