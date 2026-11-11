@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmplxxfq
 title: 'Along a chain of reconstructions, per-step discrepancies weighted by later sensitivity bound the departure from a reference transport but give no testable prediction and do not say whether the act survives, which a reorganized constraint or a phase change can decide; approximate transports compose additively only under a triangle inequality and nonexpansive kernels; a chain can forget its start while staying far from the original; and attraction toward conventional stances, filtered by the transmitters'' biases, is proposed, with chain evidence for evaluative stance only'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    A working name left by the drafts, naming the sibling account by its
+    file, is replaced by the account's code. Found at the synthesis
+    review of the formal-apparatus line.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the chains part of the pragmatic-transport line left out without a
@@ -53,7 +60,7 @@ built over it and the accounts of the line's other parts. The mechanical
 map put 22 entries in this part; five of them ([CLAIM-040](../claims.d/CLAIM-040.md), [CLAIM-093](../claims.d/CLAIM-093.md),
 [CLAIM-094](../claims.d/CLAIM-094.md), [CLAIM-107](../claims.d/CLAIM-107.md) and [QUESTION-006](../questions.d/QUESTION-006.md)) are a second inquiry, conservation
 of observables under reconstruction kernels, that barely relates to the
-other seventeen, and have their own account (chains-conservation-account).
+other seventeen, and have their own account ([SYNTHESIS-060](SYNTHESIS-060.md)).
 The counts are under "Whether the part holds together". [CLAIM-260](../claims.d/CLAIM-260.md) also
 carries formal-apparatus; [CLAIM-267](../claims.d/CLAIM-267.md) and [CLAIM-270](../claims.d/CLAIM-270.md), in formal-apparatus
 only, hold the general results [CLAIM-056](../claims.d/CLAIM-056.md) and [CLAIM-081](../claims.d/CLAIM-081.md) apply.*
