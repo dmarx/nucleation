@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpc59zj
 title: 'Does organizational affect need a group subject, a state of the group not reducible to its members'' states, or only the synchronized convergence of members'' affect?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The summary, the body and a directive called CLAIM-039 Deferred
+    with its line. It has been Proposed since the owner reopened the
+    line on 2026-10-23, and they now say so. The question is
+    unchanged. No other change.
 tags:
 - emotion-and-affect
 - social-ontology
@@ -16,10 +24,11 @@ summary: >-
   be in an emotional state that is not its members' states in aggregation.
   [THEORY-126](../theory.d/THEORY-126.md) (von Scheve and Ismer) makes collective emotion synchronous
   convergence with no group subject. The organizational-affect line
-  ([CLAIM-039](../claims.d/CLAIM-039.md), Deferred) needs to know which it is claiming.
+  (CLAIM-039, Proposed since the line was reopened on 2026-10-23) needs
+  to know which it is claiming.
 ---
 <!-- inactive-ok-file: THEORY-1286 CLAIM-437 — Proposed; Massumi's differential attunement, and the record's perspective-relative valence set beside it -->
-<!-- inactive-ok-file: CLAIM-039 — Deferred; the claim this question bears on, with its line set aside -->
+<!-- inactive-ok-file: CLAIM-039 — Proposed; the claim this question bears on, its line reopened on 2026-10-23 -->
 
 # QUESTION-053: Does organizational affect need a group subject, a state of the group not reducible to its members' states, or only the synchronized convergence of members' affect?
 
@@ -33,7 +42,7 @@ summary: >-
   individuals' affective responses to one event or object", and "it needs
   no group subject".
 
-[CLAIM-039](../claims.d/CLAIM-039.md), Deferred with its line, says affective states can be properties
+CLAIM-039, Proposed since its line was reopened on 2026-10-23, says affective states can be properties
 of organized systems, characterized functionally. On [THEORY-126](../theory.d/THEORY-126.md) that claim
 is about convergence among members. On [THEORY-125](../theory.d/THEORY-125.md) it is about a state of
 the system. The two predict different cases.

@@ -1,10 +1,10 @@
 ---
 number: 59
-status: Deferred
+status: Open
 formerly:
 - QUESTION-tmplvh8e
 title: 'Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,16 @@ history:
     The ninth status review (ADR-060): its six answered_by edges
     became bears_on, since none answers it as posed. CLAIM-439 is
     added to the body's list.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Deferred to Open: it was Deferred only with its line, and the
+    owner reopened the line on 2026-10-23 (CLAIM-039), the reason
+    QUESTION-044 went Open on 2026-10-29. Nothing in this question
+    gives a reason of its own to stay Deferred. The summary says so,
+    the directive and the body no longer call CLAIM-039 Deferred or
+    its line not taken up. The question is unchanged. No other
+    change.
 tags:
 - consciousness
 - emotion-and-affect
@@ -23,10 +33,10 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and
   QUESTION-053. [THEORY-101](../theory.d/THEORY-101.md), [THEORY-045](../theory.d/THEORY-045.md), [THEORY-090](../theory.d/THEORY-090.md), [THEORY-093](../theory.d/THEORY-093.md) and [THEORY-095](../theory.d/THEORY-095.md)
   bear on it; none answers it as posed, and the body gives each one's
-  limit. Deferred with its
-  line.
+  limit. Deferred with its line on filing; Open since 2026-11-11, the
+  owner having reopened the line on 2026-10-23.
 ---
-<!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->
+<!-- inactive-ok-file: CLAIM-039 — Proposed; the organizational-affect claim this question bears on, its line reopened on 2026-10-23 -->
 
 # QUESTION-059: Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks?
 
@@ -36,7 +46,7 @@ summary: >-
 
 ## Why the record needs it
 
-[CLAIM-039](../claims.d/CLAIM-039.md)'s own note names [THEORY-101](../theory.d/THEORY-101.md) as the objection to answer first if the line is taken up. [QUESTION-053](QUESTION-053.md) asks whether organizational affect needs a group subject. If functional affect is felt affect, that question collapses into whether the group is a subject. If feeling needs a bodily mechanism, [CLAIM-039](../claims.d/CLAIM-039.md) can stand as a claim about function alone.
+[CLAIM-039](../claims.d/CLAIM-039.md)'s own note names [THEORY-101](../theory.d/THEORY-101.md) as the objection to answer first, now that the line is taken up again (2026-10-23). [QUESTION-053](QUESTION-053.md) asks whether organizational affect needs a group subject. If functional affect is felt affect, that question collapses into whether the group is a subject. If feeling needs a bodily mechanism, [CLAIM-039](../claims.d/CLAIM-039.md) can stand as a claim about function alone.
 
 ## What the record holds
 

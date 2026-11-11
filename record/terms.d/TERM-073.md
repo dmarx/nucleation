@@ -7,7 +7,7 @@ complements:
 - TERM-026
 - TERM-072
 title: 'interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -22,6 +22,13 @@ history:
     distinction changes what the system expects, attends to, regulates
     or can do next.' Adopted by the ninth status review, on the
     owner's ruling in the pull request.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    "What would settle it" still said "Adoption is the owner's
+    decision" and "If adopted" after the adoption of 2026-10-29. It
+    now says the term was adopted then, on the owner's ruling. The
+    definition and status are unchanged. No other change.
 tags:
 - cognition
 - consciousness
@@ -107,9 +114,10 @@ how interpretations are organized ([TERM-072](TERM-072.md), sense 1).
 
 ## What would settle it
 
-Adoption is the owner's decision. The record already uses
+The term was adopted on 2026-10-29, at the ninth status review, on the
+owner's ruling. The record already uses
 "interpretation" in its pragmatic-transport line, for communicative acts and translation
-([TERM-005](TERM-005.md), [TERM-007](TERM-007.md), [TERM-035](TERM-035.md)). If adopted, this term is the sense for the
+([TERM-005](TERM-005.md), [TERM-007](TERM-007.md), [TERM-035](TERM-035.md)). As adopted, this term is the sense for the
 evidence-for-experience line. It complements those uses and does not
 replace them. It would be shown wanting if the three parts could not be
 told apart in a system without assuming what the system experiences.

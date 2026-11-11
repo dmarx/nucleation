@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpi98gg
 title: 'A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda''s sense, so psychopathy''s affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation''s concerns; that profile, threat without remorse, is the construct''s, and it is changed by redesigning the corporation''s concerns, not its members'' characters'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -36,6 +36,17 @@ history:
     a harm becomes the corporation's own concern; a decision procedure
     that weighs the harm is the other, so the claim does not need hers.
     The body keeps the citation. The claim is otherwise unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    A note of 2026-11-11 added. It records that this claim and
+    CLAIM-442 read remorse in CASE-151 differently, on claims or on
+    grants, which neither entry had said, and that the note of
+    2026-10-23 reads the cross-sell ranking as the bank's potential
+    before CLAIM-440's part 3 took the admission condition from
+    CLAIM-448 on 2026-10-29. "What it does not say" called
+    QUESTION-059 Deferred; it is Open from 2026-11-11. The claim is
+    unchanged. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -94,6 +105,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-892 — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
 <!-- inactive-ok-file: LIT-1426 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
+<!-- inactive-ok-file: CLAIM-442 CLAIM-448 — Proposed; a reading of remorse that disagrees with this claim's, and the objection whose condition CLAIM-440 took in, cited in the note of 2026-11-11 -->
 
 # CLAIM-432: A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
 
@@ -195,7 +207,7 @@ claim:
 ## What it does not say
 
 - That a corporation feels anything. The affect is functional ([CLAIM-039](CLAIM-039.md);
-  whether functional valence must be felt is [QUESTION-059](../questions.d/QUESTION-059.md), Deferred).
+  whether functional valence must be felt is QUESTION-059, Open).
 - That a corporation is not responsible. Pettit's conditions ask for
   normative judgment and control, which a corporation without remorse can
   still meet; so can a psychopath.
@@ -237,3 +249,38 @@ second on French's and Pettit's readings ([THEORY-131](../theory.d/THEORY-131.md
 live objection [CLAIM-431](CLAIM-431.md) is unanswered here, and part 5's test, whether a
 corporation changed only by sanction reverts when the sanction lifts, has
 not been run.
+
+## Note of 2026-11-11: remorse on claims or on grants, and the admission condition
+
+The synthesis review of 2026-11-10 (SYNTHESIS-021) found two things this
+claim does not say.
+
+- **CLAIM-442 reads remorse in CASE-151 differently.** That claim puts
+  an emotion on the claim side of CLAIM-283's distinction: "The claim is
+  the emotion whether or not it is granted". This claim's part 3 counts
+  the corporation as lacking remorse when others' harm reaches its
+  decisions only as a threat, while granting that "the signal can claim
+  precedence, without being granted it", and the note of 2026-10-23
+  reads remorse on the grant side: "Remorse is others' harm entering the
+  potential ordering". Part 3's first route makes a harm the
+  corporation's own concern through members' role duties. If a unit's
+  appraisal under such a duty is the corporation's, then on CLAIM-442
+  the 2004 investigation, which tied cheating to the goals and
+  recommended cutting them, is functional remorse claimed and not
+  granted, and the bank's profile is remorse without grant. On this
+  claim it is threat without remorse. The two disagree about the case
+  on that condition. Neither entry settles whether such a unit's
+  appraisal is the corporation's own, and this note does not;
+  CLAIM-442's note of the same date states the disagreement from its
+  side.
+- **The note of 2026-10-23 predates the admission condition.** It reads
+  Wells Fargo's cross-sell ranking as potential in TERM-076's sense. On
+  2026-10-29 CLAIM-440's part 3 took in CLAIM-448's condition: a
+  potential is read as the organization's, and its valence with it,
+  "only on a record shown to admit the contests that bear on it";
+  otherwise it is the valence of the admitted negotiation. CASE-151
+  documents contests filtered on the way to authority: the 2004
+  investigation not escalated, the termination figure deleted before the
+  risk committee saw it. On that condition the cross-sell potential the
+  note reads is shown only as the admitted negotiation's, not as the
+  bank's.

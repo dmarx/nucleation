@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp8gbrt
 title: 'goal-conduciveness valence, organizational: a regime in which the negotiation among a system''s perspectives has, approximately, a potential, an ordering of the system''s own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation''s decisions follow it rather than any rival ordering'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -22,6 +22,13 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The ambivalence bullet now says it gives ambivalence as the
+    negotiation's record shows it, not all ambivalence, the narrowing
+    CLAIM-451 made to CLAIM-440's consequence 4, which this term's
+    bullet carries. The definition is unchanged. No other change.
 tags:
 - emotion-and-affect
 - motivation
@@ -162,6 +169,12 @@ to a collective relation R_t on X_t.
     contested once (part 2); on a sparse graph the baseline depends on the
     graph. No ordering absorbing the conflicts is what Sen's theorem allows
     ([THEORY-027](../theory.d/THEORY-027.md)) and Tversky's cycles show ([CLAIM-436](../claims.d/CLAIM-436.md), part 3b).
+    This is ambivalence as the negotiation's record shows it, not all
+    ambivalence. CLAIM-451 narrows CLAIM-440's consequence 4: coexisting
+    evaluations of opposed significance can occur where one perspective
+    consistently prevails, and a cycle need not involve opposed
+    valences, so ambivalence and nonintegrability entail neither one
+    another.
     **Neutrality** is a persistent potential with the system on its
     course.
 

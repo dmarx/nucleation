@@ -30,8 +30,8 @@ summary: >-
   [THEORY-091](../theory.d/THEORY-091.md), [THEORY-094](../theory.d/THEORY-094.md), [THEORY-100](../theory.d/THEORY-100.md) and [THEORY-023](../theory.d/THEORY-023.md) answer it in part; the
   body gives each one's limit.
 ---
-<!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
-<!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->
+<!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
+<!-- inactive-ok-file: CLAIM-039 — Proposed; the organizational-affect claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: THEORY-298 — Proposed; the COGITATE readings, cited for the kind of evidence they are -->
 
 # QUESTION-048: What can report, no-report, deficit and architectural evidence each establish about experience as opposed to access, and does any of it survive in a system that lacks cortex or biology?

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpz8lli
 title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation''s decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -39,6 +39,15 @@ history:
     admit the contests that bear on it. CLAIM-468 added to
     objected_by, its missing converse; TERM-094 added to uses, as on
     CLAIM-039. Status unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Consequence 4 now states the narrowing the note of 2026-10-23
+    accepted from CLAIM-451: ambivalence can occur where one
+    perspective consistently prevails, and a cycle need not involve
+    opposed valences, so "no ordering" is one way ambivalence shows in
+    the record, not what it is. The title's clause is to be read so;
+    it is not changed. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -280,7 +289,14 @@ sign.
    of ambivalence, arousal and approach–avoidance conflict, are candidate
    independent markers. The model's asymmetries, a higher gain for
    negativity and a positivity offset, are not predicted by anything
-   here.
+   here. This reading is narrowed by CLAIM-451 (the note of 2026-10-23).
+   Ambivalence, opposed evaluations both strong, can occur where one
+   perspective consistently prevails, and a cycle need not involve
+   opposed valences. So no ordering, or a split potential, is one way
+   ambivalence shows in the negotiation's record, not what ambivalence
+   is, and ambivalence and nonintegrability entail neither one another.
+   The title's "ambivalence, where no ordering prevails" is to be read
+   so.
 5. **Two potential regimes.** Potential can be compensatory, the
    potential ranking trading off against others in proportion, or
    lexicographic, the others deciding only its ties. [CLAIM-436](CLAIM-436.md)

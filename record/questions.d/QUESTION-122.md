@@ -4,7 +4,17 @@ status: Open
 formerly:
 - QUESTION-tmp124n3
 title: 'Can a deep network during training have meaningful affect-like states, such as frustration of its demands, and to which unit, the network, the network–optimizer pair or the training process, would they belong?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The summary called the organizational-affect line set aside and
+    its reopening the owner's decision, and the body called
+    QUESTION-059 Deferred with its line. The owner reopened the line
+    on 2026-10-23 and QUESTION-059 is Open from 2026-11-11; both now
+    say so, and the directive naming QUESTION-059 is dropped. The
+    question is unchanged. No other change.
 tags:
 - emotion-and-affect
 - learning-theory
@@ -21,11 +31,10 @@ summary: >-
   training, in part. U33 moved the primitive from distress to
   frustration ([CLAIM-368](../claims.d/CLAIM-368.md)). An answer says what training-time
   condition, if any, is affect-like, and whose. Organizational-affect is
-  the natural line, set aside; whether it reopens is the owner's
-  decision, not made here.
+  the natural line, set aside on 2026-10-04 and reopened by the owner on
+  2026-10-23.
 ---
 <!-- inactive-ok-file: CLAIM-367 — Proposed; candidate answers and readings, cited as open -->
-<!-- inactive-ok-file: QUESTION-059 — Deferred; the organizational-affect line, set aside, cited as where the felt half of this question already sits -->
 
 # QUESTION-122: Can a deep network during training have meaningful affect-like states, such as frustration of its demands, and to which unit, the network, the network–optimizer pair or the training process, would they belong?
 
@@ -64,7 +73,7 @@ places.
   presupposes a relevant demand or commitment belonging to the affected
   system". In conventional training the demands are the trainer's
   ([CLAIM-288](../claims.d/CLAIM-288.md)).
-- **Whether it is felt.** That is [QUESTION-059](QUESTION-059.md), Deferred with its line, and,
+- **Whether it is felt.** That is QUESTION-059, Open with its reopened line, and,
   for systems without biology, [QUESTION-048](QUESTION-048.md). [QUESTION-046](QUESTION-046.md) asks for the
   criterion of a subject that would apply the same way to a network as to
   a group. A30: "Illusionism doesn't make any negatively evaluated feedback

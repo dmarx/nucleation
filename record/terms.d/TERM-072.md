@@ -8,7 +8,7 @@ complements:
 - TERM-074
 - TERM-082
 title: 'perspective, and which sense: organizational, represented or phenomenal'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -56,6 +56,13 @@ history:
     note. A8's test, whether sense 1 can be told from coordinated
     feedback in general, remains the term's defeater and is open as
     QUESTION-276.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    "What would settle it" still said "Adoption is the owner's
+    decision" after the adoption of 2026-10-29. It now says the term
+    was adopted then, on the owner's ruling. The definition and status
+    are unchanged. No other change.
 tags:
 - consciousness
 - self
@@ -182,7 +189,8 @@ same phenomenon."
 
 ## What would settle it
 
-Adoption is the owner's decision. It would replace the unqualified
+The term was adopted on 2026-10-29, at the eighth status review, on the
+owner's ruling. Adoption was to replace the unqualified
 "perspective" in [CLAIM-412](../claims.d/CLAIM-412.md), [QUESTION-254](../questions.d/QUESTION-254.md) and [QUESTION-255](../questions.d/QUESTION-255.md)
 with a numbered sense. It would be shown wanting if a claim needed a
 fourth sense, or if sense 1 could not be told from coordinated feedback in

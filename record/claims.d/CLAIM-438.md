@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpe0iew
 title: 'An ordering serving as the negotiation''s potential, as the potential account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -26,6 +26,13 @@ history:
   note: >-
     The eleventh status review (ADR-057) added a dated note saying what
     holds it back. The claim and its status are unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    The "Conceded, 2026-10-23" section still called the counter
+    Active, which the note of 2026-10-27 corrects. Its sentence now
+    says it was set Active then and has been Proposed since
+    2026-10-27. The claim is unchanged. No other change.
 role: counter
 warrant: empirical
 tags:
@@ -120,8 +127,9 @@ The second is the owner's decision.
 
 At the owner's direction the objection is conceded: the claim it objects
 to and its term are revised from "hedonic" to "goal-conduciveness"
-valence ([CLAIM-433](CLAIM-433.md)). Active, in the record's convention for a
-conceded counter.
+valence ([CLAIM-433](CLAIM-433.md)). It was set Active then, in the record's
+convention of that date for a conceded counter; it has been Proposed
+since 2026-10-27 (the note of that date).
 
 ## Note of 2026-10-27: conceded, and Proposed
 
