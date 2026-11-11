@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmpdzmer
 title: 'In Ntoumanis et al.''s meta-analysis of 73 SDT-informed health interventions, mostly randomized, the interventions raised perceived need support (g = 0.64), autonomy and competence satisfaction (0.37, 0.31), autonomous motivation (0.30) and health behaviour (0.45) by the end of the intervention, but not relatedness, controlled motivation or amotivation, and their small effect on psychological health (0.29) was gone at follow-up (0.14, ns); need frustration was not an outcome and mediation was not tested'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp3tgdc, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-093):
+    the question names it among its evidence. No other change.
 tags:
 - motivation
 - psychopathology-and-treatment
@@ -18,6 +25,8 @@ summary: >-
   and k. It is the record's experimental evidence that manipulating need
   support moves SDT's proximal constructs; it is not evidence that need
   frustration is a process in psychopathology ([THEORY-052](THEORY-052.md)).
+bears_on:
+- QUESTION-tmp3tgdc
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed; the account this does not move -->
 

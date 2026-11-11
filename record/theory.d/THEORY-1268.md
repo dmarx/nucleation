@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmpnaoak
 title: 'In a nonequilibrium steady state of a thermodynamically consistent Markov jump network, the entropy produced while a current is counted, times the squared relative uncertainty of that count, is at least 2k_B, independent of the counting time, so a current precise to ε costs at least 2k_BT/ε² of dissipation; the 2015 letter proves this within linear response and for single-cycle networks at any affinity, and for many-cycle networks far from equilibrium shows it numerically and states it as a conjecture'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp5i0v5, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-093):
+    the question names it among its evidence. No other change.
 tags:
 - thermodynamics
 - natural-sciences
@@ -18,6 +25,8 @@ summary: >-
   networks were checked numerically. It bounds the precision of currents,
   not of occupations, so it does not price how long a maintained state
   lasts, and the general multicyclic proof is not in this paper.
+bears_on:
+- QUESTION-tmp5i0v5
 ---
 <!-- inactive-ok-file: THEORY-671 — Proposed; named as a principle this bound does not bear out -->
 

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmpymwd8
 title: 'In two cross-lagged panel studies of university students, a negatively worded self-report of need frustration predicted later depressive symptoms (standardized β .13 to .18 over three lags) and later negative affect, net of earlier depression and negative affect, while negative affect did not predict later depression; depression also predicted later need frustration at one lag of two'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp3tgdc, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-093):
+    the question names it among its evidence. No other change.
 tags:
 - motivation
 - psychopathology-and-treatment
@@ -19,6 +26,8 @@ summary: >-
   without random intercepts, so their lagged paths mix stable
   between-person differences, the reverse path was as large as the
   forward one at the first lag, and every variable is a self-report.
+bears_on:
+- QUESTION-tmp3tgdc
 ---
 <!-- inactive-ok-file: THEORY-1311 — Proposed; neighbours cited as open -->
 
