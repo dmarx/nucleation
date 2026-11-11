@@ -10,7 +10,7 @@ line:
 - distributed-agency
 summary: >-
   Raised by the second by-topic reading review of 2026-11-11 ([ADR-091](../decisions.d/ADR-091.md),
-  [ADR-tmpkuzwl](../decisions.d/ADR-tmpkuzwl.md)). Four readings of evolutionary game theory and
+  [ADR-093](../decisions.d/ADR-093.md)). Four readings of evolutionary game theory and
   social evolution are in force; only [CLAIM-491](../claims.d/CLAIM-491.md) uses one, Hamilton's rule
   as an analogy for a self extended to kin. Each reading gives a route by
   which costly cooperation is stable without any self being extended:
@@ -21,7 +21,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl CLAIM-491 CLAIM-603 — Proposed; the reading review that raised it, and the claims it asks about -->
+<!-- inactive-ok-file: ADR-091 ADR-093 CLAIM-491 CLAIM-603 — Proposed; the reading review that raised it, and the claims it asks about -->
 
 # QUESTION-tmp6knzg: When partners in an organization cooperate at a cost to themselves, which of the evolutionary routes to cooperation, relatedness, repeated meeting or conventions backed by retaliation, does its structure realize, and does any of them need the extended self the owner's thesis posits?
 

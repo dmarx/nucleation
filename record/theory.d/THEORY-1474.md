@@ -33,7 +33,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: corroborates CLAIM-603, whose "What the gift
+    ADR-093: corroborates CLAIM-603, whose "What the gift
     readings add" says "One-way supply costs standing" and that
     Heins, Unrau and Avram "bring this to aid through Dillon's study
     of the Marshall Plan"; and bears_on QUESTION-277, whose note of
@@ -60,7 +60,7 @@ corroborates:
 bears_on:
 - QUESTION-277
 ---
-<!-- inactive-ok-file: CLAIM-603 ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: CLAIM-603 ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1474: Heins, Unrau and Avram, following Mauss, hold that a gift carries no legal guarantee of return yet obliges one, and that an unreturned gift leaves the recipient inferior and poisons the relation; they report Dillon's reading of the Marshall Plan in France, whose recipients, unable to repay, responded with resentment, and his proposal that circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations
 

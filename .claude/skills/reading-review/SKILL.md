@@ -3,7 +3,7 @@ name: reading-review
 description: 'A review of the readings (THEORY) the record holds and its argument does not use - which readings in force no line builds on, and what to do about each: tie it to a claim or question that should use it, raise a question or claim it calls for, or record that the argument does not need it. Three modes, by line, by topic and by question. Use it when the owner asks for a reading review or to see what the record has read and not built on, after a run of readings in one topic, or beside a synthesis review of a line. ADR-091 holds the invariants; ADR-090 how a reading''s lines are derived.'
 ---
 <!-- .claude/skills/reading-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-tmpkuzwl — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Reading review
 
@@ -137,7 +137,7 @@ Recurring cases:
 - **A run split across readers** writes one curation entry, by whoever
   combines the parts.
 
-More recurring cases (ADR-tmpkuzwl):
+More recurring cases (ADR-093):
 
 - **Search for the name first.** Search the record for the reading's
   code, its NOTE and its LIT before anything else. A question or claim
@@ -175,7 +175,7 @@ what the reading holds.
 ## Splitting a run
 
 Split by topic, one reader per part, each in its own worktree
-(ADR-tmpkuzwl).
+(ADR-093).
 
 - Keep a shared file of the run's raises in the coordinator's scratchpad.
   Each reader checks it before filing a raise and adds its own.

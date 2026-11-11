@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-471 added. The claim:
+    ADR-091 and ADR-093. corroborates CLAIM-471 added. The claim:
     "Discourse sheaves (LIT-1646) add agents who agree on what they
     express while their private states differ", a model that "instances
     'agreement on what is shared and not identity' exactly"; this is the

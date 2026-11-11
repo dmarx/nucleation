@@ -19,7 +19,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-148 and bears_on
+    ADR-091 and ADR-093. corroborates CLAIM-148 and bears_on
     QUESTION-276 added. CLAIM-148's note of 2026-10-26 lists the
     blockmodel as an instance of its gauge: "π ↦ Rπ, B ↦ R⁻ᵀBR⁻¹ leaves
     the likelihood unchanged". QUESTION-276 names it as a caution for

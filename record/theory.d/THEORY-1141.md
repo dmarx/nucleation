@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-538 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-538 added. The claim's
     worked flow "ends at the weighted harmonic residual, r*_e ∝ 1/w_e
     (THEORY-1141's limit)", checked by simulation; the reading is evidence
     the claim does not need. No other change.

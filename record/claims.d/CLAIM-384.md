@@ -22,7 +22,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. THEORY-718 added to grounds. The proof
+    ADR-091 and ADR-093. THEORY-718 added to grounds. The proof
     begins "The linearised model is MacKay's linear-in-parameters model
     ... For such a model the posterior is Gaussian and the evidence is
     exact" and takes MacKay's Eq. 20 as given; THEORY-718 is the reading

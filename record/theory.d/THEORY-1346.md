@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-478. The claim's note
+    ADR-091, ADR-093): corroborates CLAIM-478. The claim's note
     of 2026-11-03, "slowing is not a sign of new organization", calls Anastassiou et al. (NOTE-1516)
     "a neural case of the first half: a slow field constrains fast
     spike timing without setting spike counts, most effectively when

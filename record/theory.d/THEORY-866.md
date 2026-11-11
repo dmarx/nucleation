@@ -35,7 +35,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-412. The claim's note
+    ADR-091, ADR-093): corroborates CLAIM-412. The claim's note
     of 2026-10-22, "what the cited works say, once read", says the meditation readings "show reported
     content being trimmed, not interpretation being absent. What
     remains (calm, knowing, unity) is organization below concepts",

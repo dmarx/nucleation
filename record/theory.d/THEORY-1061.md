@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-327 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-327 added. The claim's
     note of 2026-10-27 reads Flack's statement (NOTE-1216, THEORY-1061) as
     giving its second stage: "members recognizing and using the variable,
     is what she calls apparent downward causation"; independent support

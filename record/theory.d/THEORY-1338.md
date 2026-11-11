@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-131. The question's note
+    ADR-091, ADR-093): bears_on QUESTION-131. The question's note
     of 2026-11-03 uses Chen et al.'s scale (NOTE-1527) as a caution on
     its measure: the frustration items "may measure low satisfaction,
     this question's non-attainment, not operative thwarting". No other
@@ -19,7 +19,7 @@ history:
   date: '2026-11-11'
   note: >-
     bears_on QUESTION-tmp3tgdc, the question the second by-topic reading review of
-    2026-11-11 raised from this reading and others (ADR-091, ADR-tmpkuzwl):
+    2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
 - psychometrics

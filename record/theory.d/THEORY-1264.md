@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-071 added. The question's
+    ADR-091 and ADR-093. bears_on QUESTION-071 added. The question's
     path test cites this work: "the most likely escape follows the
     time-reversal of the relaxation path from the saddle
     (Freidlin–Wentzell; LIT-1881 ...)"; this reading says where that path

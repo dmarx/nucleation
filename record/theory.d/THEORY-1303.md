@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-537 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-537 added. The claim's
     note of 2026-11-03: "Conditions I and II are exactly Ben-Tal et al.'s
     adjustable and ordinary robust counterparts (NOTE-1503)"; the claim
     derives them itself. Its LIT-1975 ground is left for a defect sweep

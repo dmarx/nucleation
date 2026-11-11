@@ -32,7 +32,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-470. The claim's body
+    ADR-091, ADR-093): corroborates CLAIM-470. The claim's body
     says Simon (NOTE-1232) "gives a partial case of the last clause",
     that an inquiry can revise what an answer could be, and its status
     ruling of 2026-10-29 found that what he describes is "revision of

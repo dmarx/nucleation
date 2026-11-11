@@ -38,7 +38,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-520 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-520 added. The claim's
     note of 2026-11-04 (NOTE-1577): "It supports the claim in kind: in §4,
     headroom over mean load is set by trading a cost of capacity against a
     cost of delay". No other change.

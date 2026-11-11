@@ -34,7 +34,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: corroborates CLAIM-597, whose note of 2026-11-05
+    ADR-093: corroborates CLAIM-597, whose note of 2026-11-05
     lists it under "Supported in urban services": "Place-based
     incentives have effects only while paid". No other change.
 tags:
@@ -56,7 +56,7 @@ summary: >-
 corroborates:
 - CLAIM-597
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1491: Neumark and Simpson's review finds that the US and European evidence on place-based policy shows gains at most while incentives are in force, often offset by relocation from nearby areas or captured in land and house values, and that the one program shown to leave gains after its funding ended, the Tennessee Valley Authority, did so through manufacturing agglomeration while its direct effect faded, with its agglomeration gains estimated to net to about zero nationally
 

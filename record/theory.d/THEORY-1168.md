@@ -23,7 +23,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: bears_on QUESTION-083, whose note of 2026-10-29
+    ADR-093: bears_on QUESTION-083, whose note of 2026-10-29
     says "The invasion graph of any symmetric system is acyclic", so
     that in the potential case order of arrival entrenches nothing;
     and bears_on QUESTION-132, whose note of the same date says that
@@ -50,7 +50,7 @@ bears_on:
 - QUESTION-083
 - QUESTION-132
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1168: In a Lotka–Volterra community with a symmetric interaction matrix, the growth-weighted biomass rᵀx strictly increases along every edge of the invasion graph, so the invasion graph has no cycles
 

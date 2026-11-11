@@ -27,7 +27,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-398. The question's note
+    ADR-091, ADR-093): bears_on QUESTION-398. The question's note
     of 2026-11-05 names it as a caution on its measure: "Automation
     withdraws itself at its failures, so withdrawal comes at the state
     least favourable to the party (Ahn's reading of Bainbridge,

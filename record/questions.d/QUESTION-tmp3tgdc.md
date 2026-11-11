@@ -10,7 +10,7 @@ line:
 - distributed-agency
 summary: >-
   Raised by the second by-topic reading review of 2026-11-11 ([ADR-091](../decisions.d/ADR-091.md),
-  [ADR-tmpkuzwl](../decisions.d/ADR-tmpkuzwl.md)). Five readings of self-determination theory's measures and
+  [ADR-093](../decisions.d/ADR-093.md)). Five readings of self-determination theory's measures and
   studies are in force and no claim uses them. [CLAIM-368](../claims.d/CLAIM-368.md) takes frustration,
   not distress, as the primitive of an organization's regulatory
   difficulty and cites the theory only as a parallel; its note of
@@ -21,7 +21,7 @@ summary: >-
   primitive. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl THEORY-052 — Proposed; the reading review that raised it, and the theory's reading cited as a parallel -->
+<!-- inactive-ok-file: ADR-091 ADR-093 THEORY-052 — Proposed; the reading review that raised it, and the theory's reading cited as a parallel -->
 
 # QUESTION-tmp3tgdc: Is need frustration, as self-determination theory measures it, a process distinct from low need satisfaction, or does the evidence for the distinction rest on item keying and correlations that a single dimension would also produce?
 

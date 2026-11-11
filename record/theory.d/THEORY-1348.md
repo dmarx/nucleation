@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-533. The claim's note
+    ADR-091, ADR-093): corroborates CLAIM-533. The claim's note
     of 2026-11-03, "A libertarian concedes the core", quotes Froese
     (NOTE-1521) that amplified irruptions "cannot directly control …
     cannot force the formation of the behavior that is to come", which

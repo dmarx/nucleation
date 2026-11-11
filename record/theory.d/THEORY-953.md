@@ -51,7 +51,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-048. The question asks
+    ADR-091, ADR-093): bears_on QUESTION-048. The question asks
     what report and other behavioural evidence "each establish about
     experience as opposed to access"; this reading is Isaac's answer
     for quality-space models, convergence across behavioural

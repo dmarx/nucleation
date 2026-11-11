@@ -64,7 +64,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. THEORY-692 added to grounds. The claim tests
+    ADR-091 and ADR-093. THEORY-692 added to grounds. The claim tests
     r/place against "Prigogine's criterion, as the record reads his Nobel
     lecture (LIT-516, NOTE-424)", and takes that criterion as given;
     THEORY-692 is the reading of LIT-516. The LIT-516 ground is left for a

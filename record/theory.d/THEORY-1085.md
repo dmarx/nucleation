@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-478 and bears_on
+    ADR-091 and ADR-093. corroborates CLAIM-478 and bears_on
     QUESTION-281 added. CLAIM-478's note: "Toner and Tu 1995 (NOTE-1228;
     THEORY-1085) give a flock's case" of its first half. QUESTION-281's
     note: "Toner and Tu 1995 is a worked case of creation and

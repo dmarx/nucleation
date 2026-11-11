@@ -10,7 +10,7 @@ line:
 - distributed-agency
 summary: >-
   Raised by the second by-topic reading review of 2026-11-11 ([ADR-091](../decisions.d/ADR-091.md),
-  [ADR-tmpkuzwl](../decisions.d/ADR-tmpkuzwl.md)). The record holds five readings in stochastic
+  [ADR-093](../decisions.d/ADR-093.md)). The record holds five readings in stochastic
   thermodynamics that no claim uses, and its claims on maintained
   organization ([CLAIM-604](../claims.d/CLAIM-604.md), [CLAIM-516](../claims.d/CLAIM-516.md), [CLAIM-521](../claims.d/CLAIM-521.md)) speak of upkeep drawn
   from a flux without pricing it. The thermodynamic uncertainty relation
@@ -20,7 +20,7 @@ summary: >-
   slowly. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; the reading review that raised it -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; the reading review that raised it -->
 
 # QUESTION-tmp5i0v5: Does keeping a maintained organization precise cost dissipation in proportion to the precision, so that how exactly a self-maintaining structure holds its state is bounded by what it spends, and does that bound separate organizations that persist from structures that merely last?
 

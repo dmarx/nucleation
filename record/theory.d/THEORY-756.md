@@ -20,7 +20,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-152 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-152 added. The claim's
     note of 2026-10-20 says "THEORY-756 records that among fully
     predictive partitions the causal states are the coarsest ... That is
     this claim's point, one level down"; evidence the claim does not need.

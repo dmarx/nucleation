@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-478 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-478 added. The claim's
     note of 2026-11-03: "Scheffer et al. 2009 (NOTE-1536, THEORY-1315)
     give the generic slowing down the second half uses near an
     instability"; the note's caution that slowness alone does not show new

@@ -32,7 +32,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-296 and CLAIM-312 added.
+    ADR-091 and ADR-093. corroborates CLAIM-296 and CLAIM-312 added.
     Both cite Mukhopadhyay et al. (NOTE-1583) for coverage models in which
     "Resources at a facility are considered to be always available", set
     against probabilistic ones, as a case of having a resource without

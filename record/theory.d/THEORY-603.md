@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-121 and corroborates
+    ADR-091, ADR-093): bears_on QUESTION-121 and corroborates
     CLAIM-283. QUESTION-121's third candidate, commitment before
     evidence, names it: "Damasio's anticipatory skin-conductance
     responses, which come before the choice (THEORY-603), have this
