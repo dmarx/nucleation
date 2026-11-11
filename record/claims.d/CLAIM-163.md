@@ -6,7 +6,7 @@ superseded_by:
 formerly:
 - CLAIM-tmpigdl0
 title: '"Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -16,6 +16,14 @@ history:
     it is the argument from CLAIM-169, THEORY-069 and THEORY-070 to
     CLAIM-162, form analogy, Proposed. The objection to CLAIM-162 is now
     that argument's verdict. The text below is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A stale summary corrected, from the defects listed in the
+    synthesis review of 2026-11-11 (curation entry 015730): its
+    "Open." now reads that the claim was Superseded on 2026-10-28 by
+    ARG-016, whose verdict it now is, as version 2 records. The body
+    is unchanged, as version 2 keeps it. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -30,7 +38,8 @@ uses:
 summary: >-
   The record's own anticipated objection to the owner's framing, and the
   kind [ADR-032](../decisions.d/ADR-032.md) found most often real: same structure, not the same
-  mechanism. Open. [TERM-050](../terms.d/TERM-050.md) defines synchronization without
+  mechanism. Superseded on 2026-10-28 by ARG-016, the argument whose
+  verdict it now is. [TERM-050](../terms.d/TERM-050.md) defines synchronization without
   dynamics, so the claims survive with the word replaced, but then the
   word is only a name. The body says what would turn the analogy into a
   mechanism.

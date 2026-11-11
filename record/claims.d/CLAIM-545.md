@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -34,6 +34,16 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Proposed becoming Proposed. The synthesis's own history stays on
     SYNTHESIS-007.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    From the defects listed in the synthesis review of 2026-11-11
+    (curation entry 015730): correction (b) says the two notes of
+    2026-11-06, "what holds it back", "stay on CLAIM-545", but the
+    restoration of version 4 took the body from SYNTHESIS-007, which
+    did not carry them, so they were lost. Both are restored verbatim
+    from version 3, in date order after the note of 2026-11-04, with
+    bare codes in place of link targets. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -232,6 +242,14 @@ A10 also proposed an "accommodation-profile set" of tolerances, cost bearers, le
 **The second appearance of a line.** A10 §2C's "Efficiency can conceal domination" is the second appearance of A29's line, recorded in the note of 2026-11-03 and not filed: "domination occurs when the power to define, conceal, or revise compatibility is exercised without effective accountability". It restates this claim's last clause. If it gets a code, it belongs as a revision of that clause.
 
 The wording of the axes is A's, sharpened by the reader; adopting them is the owner's call. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Three premises are Proposed, CLAIM-354, CLAIM-404 and CLAIM-533, and so are TERM-100 and TERM-086, which it uses. Its other premises are Active, CLAIM-523 among them since this review.
+
+## Note of 2026-11-06: what holds it back
+
+CLAIM-354 and CLAIM-533 are Active since the twenty-seventh status review, and CLAIM-404 and TERM-100 are Active too, CLAIM-404 since the twenty-eighth; so of what the note above names, only TERM-086 remains unheld, and the claim waits on it alone.
 
 ## Note of 2026-11-07: dynamical subordination, from "Individuation, Possibility, and Disposition"
 

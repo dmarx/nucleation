@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmpisvzb
 title: 'What characterizes a constrained system is a repertoire of realizable processes, indexed by resources and dependent on its architecture, rather than its set or space of states, and the repertoire changes in three ways an equivalence between such systems must keep apart: a budget makes an existing transformation affordable, observational or computational capability makes an existing possibility discoverable or controllable, and a change of architecture alters which transformations are possible'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    From the defects listed in the synthesis review of 2026-11-11
+    (curation entry 015730): the body's paragraph "The state space is
+    not enough" drew from CLAIM-583 what the claim's own note of
+    2026-11-06 says it does not show. It is retitled "The
+    compatibility complex is not enough", keeps CLAIM-583's quotation,
+    and adds that CLAIM-583 does not show the state space
+    insufficient, since its two systems have different configurations
+    and, with a fixed move rule, configurations and moves carry
+    reachability. The title, thesis and defeater are unchanged. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,9 +116,12 @@ architecture-dependent algebra of realizable processes".
   threshold by a change of architecture; within one architecture an added
   constraint cannot enlarge what is reachable ([CLAIM-582](CLAIM-582.md)).
 
-**The state space is not enough.** [CLAIM-583](CLAIM-583.md) shows two systems with
-the same compatibility complex and different reachability; the
-configuration layer "alone cannot detect that distinction".
+**The compatibility complex is not enough.** [CLAIM-583](CLAIM-583.md) shows two systems
+with the same compatibility complex and different reachability; the
+configuration layer "alone cannot detect that distinction". It does not
+show that the state space is not enough: its two systems have different
+sets of configurations, and with a fixed move rule the configurations and
+their moves carry reachability (the note of 2026-11-06 below).
 
 **What is conjectured** is the joining: that the repertoire, with the three
 ways kept apart, is the invariant by which constrained systems should be
