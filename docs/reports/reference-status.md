@@ -1277,8 +1277,8 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 - [`record/claims.d/CLAIM-558.md:39`](../../record/claims.d/CLAIM-558.md)
 - [`record/claims.d/CLAIM-600.md:77`](../../record/claims.d/CLAIM-600.md)
 - [`record/claims.d/CLAIM-600.md:96`](../../record/claims.d/CLAIM-600.md)
-- [`record/claims.d/CLAIM-600.md:179`](../../record/claims.d/CLAIM-600.md)
-- [`record/claims.d/CLAIM-600.md:188`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:205`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:214`](../../record/claims.d/CLAIM-600.md)
 - [`record/claims.d/CLAIM-603.md:18`](../../record/claims.d/CLAIM-603.md)
 - [`record/claims.d/CLAIM-610.md:30`](../../record/claims.d/CLAIM-610.md)
 - [`record/claims.d/CLAIM-610.md:94`](../../record/claims.d/CLAIM-610.md)
@@ -1296,8 +1296,8 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 - [`record/claims.d/CLAIM-631.md:74`](../../record/claims.d/CLAIM-631.md)
 - [`record/claims.d/CLAIM-632.md:12`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:24`](../../record/claims.d/CLAIM-632.md)
-- [`record/claims.d/CLAIM-632.md:78`](../../record/claims.d/CLAIM-632.md)
-- [`record/claims.d/CLAIM-632.md:88`](../../record/claims.d/CLAIM-632.md)
+- [`record/claims.d/CLAIM-632.md:89`](../../record/claims.d/CLAIM-632.md)
+- [`record/claims.d/CLAIM-632.md:99`](../../record/claims.d/CLAIM-632.md)
 - [`record/decisions.d/ADR-075.md:5`](../../record/decisions.d/ADR-075.md)
 - [`record/decisions.d/ADR-076.md:60`](../../record/decisions.d/ADR-076.md)
 - [`record/decisions.d/ADR-077.md:26`](../../record/decisions.d/ADR-077.md)
@@ -1385,7 +1385,7 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/questions.d/QUESTION-439.md:21`](../../record/questions.d/QUESTION-439.md)
 - [`record/syntheses.d/SYNTHESIS-015.md:12`](../../record/syntheses.d/SYNTHESIS-015.md)
 - [`record/syntheses.d/SYNTHESIS-017.md:12`](../../record/syntheses.d/SYNTHESIS-017.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:78`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:86`](../../record/syntheses.d/SYNTHESIS-032.md)
 
 ### [ADR-082](../../record/decisions.d/ADR-082.md) — Proposed
 
@@ -1512,7 +1512,7 @@ A claim moved into the SYNTHESIS scheme keeps its standing and its relations: an
 - [`record/claims.d/CLAIM-336.md:55`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-558.md:33`](../../record/claims.d/CLAIM-558.md)
 - [`record/claims.d/CLAIM-600.md:71`](../../record/claims.d/CLAIM-600.md)
-- [`record/claims.d/CLAIM-600.md:178`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:204`](../../record/claims.d/CLAIM-600.md)
 - [`record/claims.d/CLAIM-603.md:12`](../../record/claims.d/CLAIM-603.md)
 - [`record/syntheses.d/SYNTHESIS-004.md:23`](../../record/syntheses.d/SYNTHESIS-004.md)
 - [`record/syntheses.d/SYNTHESIS-005.md:16`](../../record/syntheses.d/SYNTHESIS-005.md)
@@ -1681,7 +1681,7 @@ The readiness line is split in two: readiness keeps keeping a rare capability an
 - [`record/syntheses.d/SYNTHESIS-031.md:57`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:138`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:12`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:72`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:80`](../../record/syntheses.d/SYNTHESIS-032.md)
 
 ### [CLAIM-220](../../record/claims.d/CLAIM-220.md) — Proposed
 
@@ -1747,7 +1747,7 @@ Transient support can be withdrawn safely when it starts a process that keeps it
 - [`record/claims.d/CLAIM-600.md:69`](../../record/claims.d/CLAIM-600.md)
 - [`record/claims.d/CLAIM-600.md:76`](../../record/claims.d/CLAIM-600.md)
 - [`record/claims.d/CLAIM-600.md:83`](../../record/claims.d/CLAIM-600.md)
-- [`record/claims.d/CLAIM-600.md:188`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:214`](../../record/claims.d/CLAIM-600.md)
 - [`record/claims.d/CLAIM-603.md:12`](../../record/claims.d/CLAIM-603.md)
 - [`record/claims.d/CLAIM-603.md:19`](../../record/claims.d/CLAIM-603.md)
 - [`record/decisions.d/ADR-087.md:99`](../../record/decisions.d/ADR-087.md)
@@ -2582,7 +2582,7 @@ Readiness for a rare contingency is a probability of effective response under an
 - [`record/syntheses.d/SYNTHESIS-031.md:148`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:151`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:154`](../../record/syntheses.d/SYNTHESIS-031.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:194`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:205`](../../record/syntheses.d/SYNTHESIS-032.md)
 
 ### [SYNTHESIS-032](../../record/syntheses.d/SYNTHESIS-032.md) — Proposed
 
@@ -2907,7 +2907,7 @@ Reaching a configuration has a resource threshold of its own, the least peak ove
 - [`record/syntheses.d/SYNTHESIS-031.md:149`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:157`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:159`](../../record/syntheses.d/SYNTHESIS-031.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:200`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:211`](../../record/syntheses.d/SYNTHESIS-032.md)
 
 ### [THEORY-057](../../record/theory.d/THEORY-057.md) — Proposed
 
@@ -4381,8 +4381,8 @@ Records kept of each capacity a response needs bound a reserve's readiness for a
 - [`docs/syntheses/route/derived.md:14`](../syntheses/route/derived.md)
 - [`docs/syntheses/warrant/demonstrated.md:14`](../syntheses/warrant/demonstrated.md)
 - [`record/claims.d/CLAIM-632.md:13`](../../record/claims.d/CLAIM-632.md)
-- [`record/claims.d/CLAIM-632.md:77`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:88`](../../record/claims.d/CLAIM-632.md)
+- [`record/claims.d/CLAIM-632.md:99`](../../record/claims.d/CLAIM-632.md)
 - [`record/decisions.d/ADR-087.md:99`](../../record/decisions.d/ADR-087.md)
 
 ### [SYNTHESIS-013](../../record/syntheses.d/SYNTHESIS-013.md) — Proposed
@@ -8735,7 +8735,7 @@ Rapid Disuse Atrophy of Diaphragm Fibers in Mechanically Ventilated Humans
 
 2 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-600.md:499`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:532`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:422`](../../record/syntheses.d/SYNTHESIS-010.md)
 
 ### [LIT-2213](../../record/literature.d/LIT-2213.md) — Unavailable
@@ -8744,7 +8744,7 @@ Weaning from mechanical ventilation
 
 2 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-600.md:499`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:532`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:422`](../../record/syntheses.d/SYNTHESIS-010.md)
 
 ### [LIT-2220](../../record/literature.d/LIT-2220.md) — Unavailable
@@ -8753,7 +8753,7 @@ The Perils of Unearned Foreign Income: Aid, Remittances, and Government Survival
 
 2 citations in 2 files await a look.
 
-- [`record/claims.d/CLAIM-600.md:503`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:536`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:426`](../../record/syntheses.d/SYNTHESIS-010.md)
 
 ### [LIT-2221](../../record/literature.d/LIT-2221.md) — Unfetched
@@ -8762,7 +8762,7 @@ Foreign Aid, Institutions, and Governance in Sub-Saharan Africa
 
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-600.md:503`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:536`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:426`](../../record/syntheses.d/SYNTHESIS-010.md)
 
 ### [LIT-2225](../../record/literature.d/LIT-2225.md) — Unfetched
@@ -8771,7 +8771,7 @@ Ironies of automation
 
 2 citations in 2 files await a look; 13 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-600.md:510`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:543`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:433`](../../record/syntheses.d/SYNTHESIS-010.md)
 
 ### [LIT-316](../../record/literature.d/LIT-316.md) — Unavailable
@@ -8915,7 +8915,7 @@ LaVoice — Slum clearance and the neighbourhoods cleared, read from a short dra
 
 2 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-600.md:387`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-600.md:413`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:310`](../../record/syntheses.d/SYNTHESIS-010.md)
 
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Superseded
