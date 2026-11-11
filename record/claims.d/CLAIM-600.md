@@ -3,8 +3,8 @@ number: 600
 status: Active
 formerly:
 - CLAIM-tmpc3x0c
-title: 'Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
-version: 7
+title: 'Transient support can be withdrawn safely only if it started a process that keeps itself going on a flux that will stay available, was large enough to carry the supported party past any threshold that process has, outlasted the threat it stood in for, and left the work to the party throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept up after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement; support that fails these leaves dependence or decay, but meeting them all is not enough, since support can carry a function nobody names before withdrawal; and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -97,28 +97,54 @@ history:
     where its development up to version 3 is recorded", the synthesis's
     pointer back to this claim, now says that development is in the
     history above. No other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    At the owner's delegated ruling of 2026-11-11 on the synthesis
+    review of 2026-11-10: the claim no longer says its conditions
+    jointly suffice. Its own admission case, the village water
+    scheme, met every condition as judged before withdrawal and
+    still failed within a turnover, which is the first clause of its
+    version 7 defeater, and the case could plainly occur. The title
+    now states the conditions as necessary ("only if") and says
+    meeting them all is not enough; the sufficiency clause of the
+    defeater is removed, the necessity clause kept; the water scheme
+    moves to a section of its own, and a new admission case shows
+    the narrower claim is not its premises restated. Status stays
+    Active: the claim is weaker than before, on the same evidence.
+    Previous title: "Transient support can be withdrawn safely when
+    it starts a process that keeps itself going on a flux that will
+    stay available, when it is large enough to carry the supported
+    party past any threshold that process has, when the threat it
+    stood in for has gone, and when the party could do the work and
+    did it throughout, in each subtask it must later do alone and
+    not only in its role as a whole, at no more effort than it could
+    bear, and, where the capacity is cumulative and its field moves
+    fast, kept doing it after withdrawal; inputs the party cannot
+    produce must stay supplied as a standing part of the
+    arrangement, support that fails these leaves dependence or
+    decay, and persistence after withdrawal is needed to tell which,
+    though slow reversion can mimic it".
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A case of support that met the conditions, judged before withdrawal from
-  what the support did and what the party was seen to do: a self-
-  sustaining process on an available flux started by support large enough
-  to pass its threshold, a removed threat, and work the supported party
-  could do and did throughout, in each subtask it must later do alone, at
-  an effort it could bear, and, for a cumulative capacity in a fast-moving
-  field, kept up after withdrawal, with the standing inputs named before
-  withdrawal still supplied, whose withdrawal still brought decline within
-  a turnover; or support that failed one of them, as supply that does the
-  upkeep, supply against a persisting threat or supply that substitutes
-  for the party's work, after whose withdrawal the party nonetheless
-  persisted through a turnover by a feedback that keeps it going, not by
-  slow return toward a single steady state. A subtask or standing input
-  named only after a decline does not save it. Not defeated by a single
-  case in which chance or a change of conditions decides the outcome. Also
-  defeated as a claim of its own if it only restates CLAIM-597's
-  supplied upkeep, CLAIM-604's thresholds, CLAIM-602's substitution and
-  CLAIM-566's separable regeneration, saying nothing of when their
-  conditions jointly suffice.
+  A case of support that failed one of the conditions, judged before
+  withdrawal from what the support did and what the party was seen to do
+  (supply that does the upkeep, supply against a persisting threat,
+  supply that substitutes for the party's work in a subtask it must
+  later do alone, or support too small to carry it past a threshold),
+  after whose withdrawal the party nonetheless persisted through a
+  turnover by a feedback that keeps it going, not by slow return toward
+  a single steady state. A failure named only after the outcome does not
+  count. Not defeated by a single case in which chance or a change of
+  conditions decides the outcome, nor by a case in which every condition
+  was met and withdrawal still failed: the claim no longer says the
+  conditions suffice. Also defeated as a claim of its own if it only
+  restates CLAIM-597's supplied upkeep, CLAIM-604's thresholds,
+  CLAIM-602's substitution and CLAIM-566's separable regeneration; its
+  conditions on the threat, on each subtask, on bearable effort and on
+  fast-moving fields, and its turnover test, come from the readings and
+  not from those premises.
 tags:
 - complex-systems
 - ecology
@@ -149,7 +175,7 @@ summary: >-
   hazardous to remove from transient support that builds new capabilities
   and is safe to remove", with reintroduction and ecological recovery
   proposed as cases. It draws together the branch's three domains: DNA
-  origami, aid and development, and ecology. Three conditions decide it.
+  origami, aid and development, and ecology. Three conditions are needed for it.
   First, the support starts a self-sustaining process on an ambient flux
   instead of doing the upkeep. Planted tree islands, weeded for 2.5 years,
   kept their advantage to 16–18 years because established trees keep
@@ -183,7 +209,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 THEORY-1477 THEORY-1509 — Proposed; components and readings cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that moved this entry -->
 
-# CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
+# CLAIM-600: Transient support can be withdrawn safely only if it started a process that keeps itself going on a flux that will stay available, was large enough to carry the supported party past any threshold that process has, outlasted the threat it stood in for, and left the work to the party throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept up after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement; support that fails these leaves dependence or decay, but meeting them all is not enough, since support can carry a function nobody names before withdrawal; and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
 
 *Returned to CLAIM from [SYNTHESIS-010](../syntheses.d/SYNTHESIS-010.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
@@ -192,7 +218,7 @@ summary: >-
 ## The integration
 
 Across ecology, aid and development, and medicine, the same few conditions,
-judged before withdrawal, decide whether ending transient support is safe:
+judged before withdrawal, are each needed for ending transient support to be safe:
 the support started a self-sustaining process on a lasting flux and carried
 the party past that process's threshold; the threat it stood in for is
 gone; and the party did each part of the work itself, at a bearable effort.
@@ -210,7 +236,7 @@ persistence through a turnover after withdrawal shows which case held.
   routes to decay.
 - [CLAIM-605](CLAIM-605.md) (Active): the deadline. [CLAIM-606](CLAIM-606.md) (Proposed): slow reversion.
 
-No premise states the joint sufficiency. The threat condition and the
+No premise states the conditions together. Since version 8 the claim does not say they jointly suffice (see "Why it no longer claims sufficiency"). The threat condition and the
 turnover test come from readings (Mussmann et al., Brown et al., Schröder
 et al.), not from premises.
 
@@ -415,8 +441,19 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
 
 ## Admission
 
-Admitted at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) by [ADR-075](../decisions.d/ADR-075.md)'s
-hypothesis route.
+Admitted at the synthesis review of 2026-11-07 (ADR-078) by ADR-075's hypothesis route, as a claim of joint sufficiency. Re-admitted on 2026-11-11 as the narrower claim of version 8, by the same route.
+
+**The case.** A conservation programme suppresses the fire that threatens a reintroduced population, and is withdrawn while the fire regime still persists. The population nonetheless holds through a turnover, because by then it has spread into refuges the fire does not reach, a feedback of its own. Every premise holds: no part of the population was supplied from outside (CLAIM-597), there is no threshold left uncrossed (CLAIM-604), the support never did the population's work (CLAIM-602), and regeneration is its own (CLAIM-566). The claim fails: support against a persisting threat was withdrawn and the party persisted. So the threat condition is not any premise restated, and the claim has content of its own. Such a case would also defeat it, by its first clause; none is on the record.
+
+**The free parameter, closed.** "Inputs the party cannot produce" and "each
+subtask it must later do alone" could absorb any decline after the fact:
+whatever withdrawal removed was either work the party could have done or a
+standing input. Read so, the sufficiency clause is analytic. The conditions
+are therefore judged before withdrawal, and the defeater says so.
+
+## Why it no longer claims sufficiency (2026-11-11)
+
+Version 7 claimed that the conditions, judged before withdrawal, jointly suffice, and its admission case was meant to show only that no premise states that. The case was this:
 
 **The case.** A village water scheme. Residents built it and did every
 listed maintenance subtask throughout, at a bearable load. The trunk supply
@@ -431,11 +468,7 @@ is supplied from outside ([CLAIM-597](CLAIM-597.md)), there is no model error an
 was kept by doing ([CLAIM-604](CLAIM-604.md), [CLAIM-602](CLAIM-602.md)), and regeneration's probabilities
 stay separate ([CLAIM-566](CLAIM-566.md)). The integration fails.
 
-**The free parameter, closed.** "Inputs the party cannot produce" and "each
-subtask it must later do alone" could absorb any decline after the fact:
-whatever withdrawal removed was either work the party could have done or a
-standing input. Read so, the sufficiency clause is analytic. The conditions
-are therefore judged before withdrawal, and the defeater says so.
+The case could plainly occur: community water schemes that fail after the founding organization leaves are a familiar pattern, and the coordinating visit is the kind of function nobody lists. It met every condition as judged before withdrawal, and the scheme still failed, which is the first clause of version 7's defeater. A claim of joint sufficiency whose own admission case defeats it does not stand, and adding the officer to the list after the failure is what the defeater forbade. Version 8 keeps the conditions as necessary and says meeting them is not enough. What else is needed is open: the case suggests that support can carry functions, such as making contributions common knowledge, that are only seen when they stop.
 
 ## Correction at the move (2026-11-07)
 
