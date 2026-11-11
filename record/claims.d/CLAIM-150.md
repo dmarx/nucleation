@@ -27,6 +27,8 @@ tags:
 - philosophy-of-science
 date: '2026-10-10'
 line: 'pragmatic-transport'
+works:
+- the-individual-and-its-conditions
 grounds:
 - THEORY-032
 - LIT-222

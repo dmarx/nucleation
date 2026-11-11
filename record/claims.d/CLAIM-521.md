@@ -19,6 +19,8 @@ date: '2026-10-31'
 line:
 - distributed-agency
 - formal-apparatus
+works:
+- the-individual-and-its-conditions
 complements:
 - CLAIM-414
 - CLAIM-079
