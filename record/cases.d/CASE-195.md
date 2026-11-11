@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CASE-tmpo70k5
 title: 'Four organizations alike in their members'' flexibility, one member trained in each, crossing that member''s leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members'' flexibility'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-117, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question: "leverage measured before spread, is the one
+    QUESTION-117". Under ADR-085 it takes the question's first line,
+    distributed-agency. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -14,6 +23,7 @@ tags:
 date: '2026-11-04'
 line:
 - will-organization
+- distributed-agency
 summary: >-
   A construction for the second reading of the slash in the owner's U19 of
   the exchange "Organizational Nucleation and SLT" (2026-11-04),
@@ -25,6 +35,8 @@ summary: >-
   at the owner's review, which invited a case for an alternative reading.
   The construction is the filer's; the script is
   scratch/formal/r3_flexibility_propagation.py.
+bears_on:
+- QUESTION-117
 ---
 
 # CASE-195: Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp5xarm
 title: 'Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,13 @@ history:
     added; QUESTION-260 has no relation a case can carry. No line
     changes (ADR-085). Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-260, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question, as its version history records. No line changes
+    (ADR-085). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -43,6 +50,8 @@ summary: >-
   [CLAIM-418](../claims.d/CLAIM-418.md)'s separation tested, and bears on [QUESTION-260](../questions.d/QUESTION-260.md). A4's
   condition: it helps only if it says in advance what distinguishes a
   shared perspective from correlated responses or learned norms. Not run.
+bears_on:
+- QUESTION-260
 ---
 
 # CASE-145: Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention

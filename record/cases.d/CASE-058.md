@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmp58yn4
 title: 'FactBank''s source-relative factuality labels and Kiesling et al.''s stance-triangle annotation: one stance construct annotated reliably, the interpersonal ones not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-076, now that a case can carry `bears_on`
+    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    names the question: "answer to QUESTION-076". No line changes
+    (ADR-085). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -23,6 +31,8 @@ summary: >-
   alignment below 0.4 outside one community. Together they bracket an
   answer to [QUESTION-076](../questions.d/QUESTION-076.md): commitment relative to a source is
   annotatable when defined by tests, interpersonal stance only moderately.
+bears_on:
+- QUESTION-076
 ---
 <!-- inactive-ok-file: LIT-780 — Unavailable; Goffman, unread here, named as the source of the footing construct and not leaned on -->
 
