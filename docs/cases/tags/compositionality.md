@@ -10,5 +10,5 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [CASE-004](../../../record/cases.d/CASE-004.md) | Two people, an empty wallet: shared complicity, normative authority, and an underspecified relation | A97's prompt conditions for the text-to-image case: the same objects with different interpersonal configurations. Conditions A and B are the manuscript's §7 example; condition C, the natural control, was dropped. | Active |
+| [CASE-004](../../../record/cases.d/CASE-004.md) v2 | Two people, an empty wallet: shared complicity, normative authority, and an underspecified relation | A97's prompt conditions for the text-to-image case: the same objects with different interpersonal configurations. Conditions A and B are the manuscript's §7 example; condition C, the natural control, was dropped. | Active |
 | [CASE-009](../../../record/cases.d/CASE-009.md) | Text → image → caption → image chains under four conditions | A97 §6: compare text-only, image-only, alternating, and alternating with explicit preservation of pragmatic constraints. The manuscript's Case III keeps alternating against text-only. Proposed, not run. | Active |
