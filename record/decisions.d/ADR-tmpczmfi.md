@@ -22,7 +22,7 @@ summary: >-
   distributed-agency or authenticity.
 ---
 <!-- inactive-ok-file: ADR-085 — Proposed; the split rule, the accounts and the line rule this applies -->
-<!-- inactive-ok-file: SYNTHESIS-tmphe0p9 SYNTHESIS-tmp4u1pa SYNTHESIS-tmp8ru2q SYNTHESIS-tmpg9eit — Proposed; the accounts the split rests on and revises -->
+<!-- inactive-ok-file: SYNTHESIS-038 SYNTHESIS-035 SYNTHESIS-036 SYNTHESIS-037 — Proposed; the accounts the split rests on and revises -->
 
 # ADR-tmpczmfi: Normative judgment about organizations becomes a line of its own, organizational-normativity, split from will-organization: whether an organization's own dynamics ground norms, and what judging one needs, is a question of its own, while acting as one stays, because its root question refines the line's own
 
@@ -34,13 +34,13 @@ will-organization is "what organizes practical efficacy in an agent, and how
 that organization becomes precarious".
 
 The sixth synthesis review gave it an account over six parts
-([SYNTHESIS-tmp4u1pa](../syntheses.d/SYNTHESIS-tmp4u1pa.md)). Counting stored relations as `line_parts.py` does, two
+([SYNTHESIS-035](../syntheses.d/SYNTHESIS-035.md)). Counting stored relations as `line_parts.py` does, two
 parts are mostly closed:
 
 | part | inside | out | in |
 |---|---|---|---|
-| acting as one ([SYNTHESIS-tmpg9eit](../syntheses.d/SYNTHESIS-tmpg9eit.md)) | 53 | 11 | 9 |
-| normative judgment about organizations ([SYNTHESIS-tmphe0p9](../syntheses.d/SYNTHESIS-tmphe0p9.md)) | 32 | 15 | 7 |
+| acting as one ([SYNTHESIS-037](../syntheses.d/SYNTHESIS-037.md)) | 53 | 11 | 9 |
+| normative judgment about organizations ([SYNTHESIS-038](../syntheses.d/SYNTHESIS-038.md)) | 32 | 15 | 7 |
 
 The account set out, for each, the question it asks and whether it would
 rightly go with the line if the line were set aside. The owner left the
@@ -76,12 +76,12 @@ split to the assistant's judgement.
   dependents of those readings. It does not make the part a separate
   inquiry.
 - **The accounts follow the split.**
-  - [SYNTHESIS-tmphe0p9](../syntheses.d/SYNTHESIS-tmphe0p9.md) becomes organizational-normativity's account
+  - [SYNTHESIS-038](../syntheses.d/SYNTHESIS-038.md) becomes organizational-normativity's account
     (version 2).
-  - [SYNTHESIS-tmp4u1pa](../syntheses.d/SYNTHESIS-tmp4u1pa.md), will-organization's line account, is revised over
+  - [SYNTHESIS-035](../syntheses.d/SYNTHESIS-035.md), will-organization's line account, is revised over
     the five remaining parts (version 2). It keeps its version 1 counts as
     the record of why the line was split.
-  - [SYNTHESIS-tmp8ru2q](../syntheses.d/SYNTHESIS-tmp8ru2q.md) names the new line (version 2).
+  - [SYNTHESIS-036](../syntheses.d/SYNTHESIS-036.md) names the new line (version 2).
 
 ## Alternatives considered
 

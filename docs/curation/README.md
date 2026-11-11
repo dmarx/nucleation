@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [11 Nov 01:57 — Synthesis review of 2026-11-11, sixth round: accounts for realizability and will-organization, each in parts; the withdrawal inquiry found again inside realizability and moved out of it; will-organization's normative part proposed as a line of its own; CLAIM-600's new admission case found realistic; nothing filed as a claim](2026-11.md#synthesis-review-of-2026-11-11-sixth-round-accounts-for-realizability-and-will-organization-each-in-parts-the-withdrawal-inquiry-found-again-inside-realizability-and-moved-out-of-it-will-organizations-normative-part-proposed-as-a-line-of-its-own-claim-600s-new-admission-case-found-realistic-nothing-filed-as-a-claim)
 - [10 Nov 23:26 — Synthesis review of 2026-11-10, fifth round: accounts for readiness and learned-structure, each in parts; one claim admitted by derivation from CLAIM-524; readiness split at the owner's decision, learned-structure reported as a stronger candidate; CLAIM-600's own admission case found to meet its defeater](2026-11.md#synthesis-review-of-2026-11-10-fifth-round-accounts-for-readiness-and-learned-structure-each-in-parts-one-claim-admitted-by-derivation-from-claim-524-readiness-split-at-the-owners-decision-learned-structure-reported-as-a-stronger-candidate-claim-600s-own-admission-case-found-to-meet-its-defeater)
 - [10 Nov 21:33 — Synthesis review of 2026-11-10, fourth round: accounts for the three smallest lines that had none, authenticity, evidence-for-experience and organizational-affect, the last as three part accounts under a line account; nothing passed as a claim, and twenty-two component defects found and left for a follow-up](2026-11.md#synthesis-review-of-2026-11-10-fourth-round-accounts-for-the-three-smallest-lines-that-had-none-authenticity-evidence-for-experience-and-organizational-affect-the-last-as-three-part-accounts-under-a-line-account-nothing-passed-as-a-claim-and-twenty-two-component-defects-found-and-left-for-a-follow-up)
 - [10 Nov 18:24 — Filing the works cited in the shared ChatGPT conversation](2026-11.md#filing-the-works-cited-in-the-shared-chatgpt-conversation)
@@ -41,10 +42,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-229 entries across 3 books, newest first.
+230 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 32 | 2026-11-01 | 2026-11-10 |
+| [2026-11](2026-11.md) | 33 | 2026-11-01 | 2026-11-11 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

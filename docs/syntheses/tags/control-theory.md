@@ -6,8 +6,8 @@
 
 **Control theory** — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066).
 
-0 of 34 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-041](../../../record/syntheses.d/SYNTHESIS-041.md) | Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent's governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is | A part account of the will-organization line: freedom of will and whose the will is. The owner's [CLAIM-354](../../../record/claims.d/CLAIM-354.md) makes freedom of will a profile of separable dimensions under a partial order. [CLAIM-545](../../../record/claims.d/CLAIM-545.md) (Proposed, admitted by a separating case) identifies freedom, operationally, with governance of one's own governability, resting on that profile, on [CLAIM-523](../../../record/claims.d/CLAIM-523.md)'s three achievements and on [CLAIM-533](../../../record/claims.d/CLAIM-533.md)'s point that sensitivity is not control. [CLAIM-532](../../../record/claims.d/CLAIM-532.md) says what self-formation produces. [CLAIM-022](../../../record/claims.d/CLAIM-022.md) disclaims ownership, and [QUESTION-071](../../../record/questions.d/QUESTION-071.md) and [QUESTION-364](../../../record/questions.d/QUESTION-364.md) hold manipulation and continuation open. The account adds nothing of its own; its standing is its components'. | Proposed |

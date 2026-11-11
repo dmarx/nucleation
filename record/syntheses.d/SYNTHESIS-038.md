@@ -1,5 +1,8 @@
 ---
+number: 38
 status: Proposed
+formerly:
+- SYNTHESIS-tmphe0p9
 title: 'A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability'
 version: 2
 history:
@@ -66,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-070 — Deferred; components and citations, set aside -->
 <!-- inactive-ok-file: ARG-071 — Rejected; components and citations, with their standing -->
 
-# SYNTHESIS-tmphe0p9: A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
+# SYNTHESIS-038: A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
 
 *The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md)), where it was a part account. Its premises from will-organization, [CLAIM-523](../claims.d/CLAIM-523.md) and [CLAIM-445](../claims.d/CLAIM-445.md), are dependencies across lines.*
 

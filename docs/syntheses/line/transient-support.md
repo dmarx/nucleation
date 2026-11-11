@@ -6,8 +6,8 @@
 
 **Withdrawing transient support** — when support that establishes or sustains a party can be withdrawn without its decline — supplied upkeep that never becomes optional, supply that does the party's work and lowers the capacity it keeps, a savings buffer as a stock of time, dependency against division of labour by who supplies, and independence from what founded an organization against independence from what feeds it; split from readiness (ADR-087).
 
-1 of 34 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-032](../../../record/syntheses.d/SYNTHESIS-032.md) v3 | Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on |  | Proposed |
+| [SYNTHESIS-032](../../../record/syntheses.d/SYNTHESIS-032.md) v5 | Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on |  | Proposed |

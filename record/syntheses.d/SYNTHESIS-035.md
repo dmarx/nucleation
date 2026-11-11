@@ -1,5 +1,8 @@
 ---
+number: 35
 status: Proposed
+formerly:
+- SYNTHESIS-tmp4u1pa
 title: 'The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent''s regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own'
 version: 2
 history:
@@ -25,11 +28,11 @@ date: '2026-11-11'
 line:
 - will-organization
 integrates:
-- SYNTHESIS-tmp8ru2q
-- SYNTHESIS-tmpg9eit
-- SYNTHESIS-tmpoihy8
-- SYNTHESIS-tmpiwxet
-- SYNTHESIS-tmpjze56
+- SYNTHESIS-036
+- SYNTHESIS-037
+- SYNTHESIS-044
+- SYNTHESIS-039
+- SYNTHESIS-041
 - CLAIM-027
 - CLAIM-025
 - CLAIM-079
@@ -44,55 +47,55 @@ bears_on:
 - QUESTION-015
 summary: >-
   The account of the will-organization line, over the accounts of its five
-  parts: which regime becomes effective ([SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md)), acting as one
-  ([SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md)), frustration and thresholds ([SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md)),
-  maintaining the capacity to govern ([SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)), and freedom of
-  will and self-formation ([SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md)). They meet at [CLAIM-027](../claims.d/CLAIM-027.md) and
+  parts: which regime becomes effective ([SYNTHESIS-036](SYNTHESIS-036.md)), acting as one
+  ([SYNTHESIS-037](SYNTHESIS-037.md)), frustration and thresholds ([SYNTHESIS-044](SYNTHESIS-044.md)),
+  maintaining the capacity to govern ([SYNTHESIS-039](SYNTHESIS-039.md)), and freedom of
+  will and self-formation ([SYNTHESIS-041](SYNTHESIS-041.md)). They meet at [CLAIM-027](../claims.d/CLAIM-027.md) and
   [CLAIM-025](../claims.d/CLAIM-025.md), on which claims of four parts rest, and at [CLAIM-354](../claims.d/CLAIM-354.md), [CLAIM-523](../claims.d/CLAIM-523.md)
   and [CLAIM-445](../claims.d/CLAIM-445.md). No link between the parts that the record does not state
   passed [ADR-075](../decisions.d/ADR-075.md)'s test, so the account adds nothing of its own; its
   standing is its components'. Normative judgment about organizations,
   version 1's sixth part, is the line organizational-normativity
-  ([ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md)), with its own account ([SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md)).
+  ([ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md)), with its own account ([SYNTHESIS-038](SYNTHESIS-038.md)).
 ---
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 ARG-059 ARG-062 ARG-064 CLAIM-024 CLAIM-156 CLAIM-169 CLAIM-262 CLAIM-336 CLAIM-358 CLAIM-364 CLAIM-440 CLAIM-441 CLAIM-442 CLAIM-445 CLAIM-446 CLAIM-447 CLAIM-465 CLAIM-484 CLAIM-487 CLAIM-527 CLAIM-541 CLAIM-544 CLAIM-545 CLAIM-553 CLAIM-555 CLAIM-610 CLAIM-614 CLAIM-619 CLAIM-620 CLAIM-624 CLAIM-627 CLAIM-631 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-010 CLAIM-089 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-015 QUESTION-304 — Answered; components and citations, with their standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmp8ru2q SYNTHESIS-tmpg9eit SYNTHESIS-tmpoihy8 SYNTHESIS-tmpiwxet SYNTHESIS-tmpjze56 SYNTHESIS-tmphe0p9 — placeholders for the codes of this review's part accounts -->
+<!-- inactive-ok-file: SYNTHESIS-036 SYNTHESIS-037 SYNTHESIS-044 SYNTHESIS-039 SYNTHESIS-041 SYNTHESIS-038 — placeholders for the codes of this review's part accounts -->
 
-# SYNTHESIS-tmp4u1pa: The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent's regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own
+# SYNTHESIS-035: The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent's regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own
 
 *The account of the will-organization line, over the accounts of its five parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). A sixth part, normative judgment about organizations, became the line organizational-normativity at the split of will-organization ([ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md)), and its 23 entries left this line. No account of the line was in force: the six syntheses that carry the line are Superseded, their content returned to claims ([ADR-084](../decisions.d/ADR-084.md)), and those claims are integrated here through the parts.*
 
 ## The parts
 
-- **[SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md), which regime becomes effective** (63 components). The will
+- **[SYNTHESIS-036](SYNTHESIS-036.md), which regime becomes effective** (63 components). The will
   paper's thesis, [CLAIM-027](../claims.d/CLAIM-027.md) (Active), on [CLAIM-047](../claims.d/CLAIM-047.md) and the supposed agent
   of [CLAIM-080](../claims.d/CLAIM-080.md); the objections it answers or holds ([CLAIM-010](../claims.d/CLAIM-010.md), [CLAIM-089](../claims.d/CLAIM-089.md) with
   [CLAIM-122](../claims.d/CLAIM-122.md) and [CLAIM-482](../claims.d/CLAIM-482.md), [CLAIM-024](../claims.d/CLAIM-024.md) against [CLAIM-487](../claims.d/CLAIM-487.md)); precedence,
   jurisdiction and suspension ([CLAIM-057](../claims.d/CLAIM-057.md), [CLAIM-086](../claims.d/CLAIM-086.md), [CLAIM-410](../claims.d/CLAIM-410.md), [CLAIM-353](../claims.d/CLAIM-353.md),
   [CLAIM-627](../claims.d/CLAIM-627.md)); descriptions that keep or lose the response to intervention
   ([CLAIM-407](../claims.d/CLAIM-407.md), [CLAIM-399](../claims.d/CLAIM-399.md)); Northstar and its variants.
-- **[SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md), acting as one** (29). [QUESTION-034](../questions.d/QUESTION-034.md)'s routes; [CLAIM-261](../claims.d/CLAIM-261.md) (Active):
+- **[SYNTHESIS-037](SYNTHESIS-037.md), acting as one** (29). [QUESTION-034](../questions.d/QUESTION-034.md)'s routes; [CLAIM-261](../claims.d/CLAIM-261.md) (Active):
   synchronization is not necessary; two senses of synchronization
   ([TERM-050](../terms.d/TERM-050.md), [TERM-061](../terms.d/TERM-061.md)); local accommodation ([CLAIM-358](../claims.d/CLAIM-358.md)) and its counter on
   non-domination ([CLAIM-364](../claims.d/CLAIM-364.md)); switching against continuous reorganization
   ([CLAIM-262](../claims.d/CLAIM-262.md), [CLAIM-453](../claims.d/CLAIM-453.md)).
-- **[SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md), frustration and thresholds** (27). [CLAIM-368](../claims.d/CLAIM-368.md) and [CLAIM-347](../claims.d/CLAIM-347.md):
+- **[SYNTHESIS-044](SYNTHESIS-044.md), frustration and thresholds** (27). [CLAIM-368](../claims.d/CLAIM-368.md) and [CLAIM-347](../claims.d/CLAIM-347.md):
   frustration, ordinal; [CLAIM-357](../claims.d/CLAIM-357.md) and [CLAIM-631](../claims.d/CLAIM-631.md) on what it forces;
   activation, quiet and tolerance ([CLAIM-548](../claims.d/CLAIM-548.md) to [CLAIM-553](../claims.d/CLAIM-553.md)); motivational
   integration ([CLAIM-534](../claims.d/CLAIM-534.md)); claims against grants ([CLAIM-484](../claims.d/CLAIM-484.md), [CLAIM-442](../claims.d/CLAIM-442.md)).
-- **[SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md), maintaining the capacity to govern** (39). [ARG-007](../arguments.d/ARG-007.md) to [CLAIM-099](../claims.d/CLAIM-099.md)
+- **[SYNTHESIS-039](SYNTHESIS-039.md), maintaining the capacity to govern** (39). [ARG-007](../arguments.d/ARG-007.md) to [CLAIM-099](../claims.d/CLAIM-099.md)
   from [CLAIM-079](../claims.d/CLAIM-079.md) and [CLAIM-025](../claims.d/CLAIM-025.md); [CLAIM-349](../claims.d/CLAIM-349.md), [CLAIM-422](../claims.d/CLAIM-422.md), [CLAIM-465](../claims.d/CLAIM-465.md), [CLAIM-344](../claims.d/CLAIM-344.md),
   [CLAIM-359](../claims.d/CLAIM-359.md), with [CASE-188](../cases.d/CASE-188.md) and [CASE-128](../cases.d/CASE-128.md) on resolve; learned authority and governance-maintained anxiety
   ([CLAIM-443](../claims.d/CLAIM-443.md), [CLAIM-446](../claims.d/CLAIM-446.md), [CLAIM-445](../claims.d/CLAIM-445.md)); seventeen promotion conditions.
-- **[SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md), freedom of will and self-formation** (22). [CLAIM-354](../claims.d/CLAIM-354.md)'s profile;
+- **[SYNTHESIS-041](SYNTHESIS-041.md), freedom of will and self-formation** (22). [CLAIM-354](../claims.d/CLAIM-354.md)'s profile;
   sensitivity is not control ([CLAIM-542](../claims.d/CLAIM-542.md), [CLAIM-533](../claims.d/CLAIM-533.md)); [CLAIM-523](../claims.d/CLAIM-523.md)'s three
   achievements; [CLAIM-545](../claims.d/CLAIM-545.md), governance of governability; [CLAIM-532](../claims.d/CLAIM-532.md),
   self-formation; [CLAIM-022](../claims.d/CLAIM-022.md), ownership disclaimed.
 - **Normative judgment about organizations** (23 entries), version 1's
   sixth part, is now the line organizational-normativity, with its account
-  [SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md): [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md) and [CLAIM-518](../claims.d/CLAIM-518.md) with [CLAIM-512](../claims.d/CLAIM-512.md)'s
+  [SYNTHESIS-038](SYNTHESIS-038.md): [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md) and [CLAIM-518](../claims.d/CLAIM-518.md) with [CLAIM-512](../claims.d/CLAIM-512.md)'s
   objection; [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-624](../claims.d/CLAIM-624.md) on the wrong beyond harm, with five
   arguments; [CLAIM-619](../claims.d/CLAIM-619.md).
 
@@ -108,49 +111,49 @@ account says which.
 Each link below is a front-matter relation of the entry named first,
 unless a body is cited.
 
-- **On [CLAIM-027](../claims.d/CLAIM-027.md) and [CLAIM-025](../claims.d/CLAIM-025.md) ([SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md), [SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)).** [CLAIM-156](../claims.d/CLAIM-156.md) ([SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md)), [CLAIM-368](../claims.d/CLAIM-368.md)
-  ([SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md)), [CLAIM-349](../claims.d/CLAIM-349.md) ([SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)), and [CLAIM-352](../claims.d/CLAIM-352.md), [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-610](../claims.d/CLAIM-610.md)
-  ([SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md)) rest on [CLAIM-027](../claims.d/CLAIM-027.md). [CLAIM-354](../claims.d/CLAIM-354.md), [CLAIM-532](../claims.d/CLAIM-532.md), [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-610](../claims.d/CLAIM-610.md)
-  ([SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md)) rest on [CLAIM-025](../claims.d/CLAIM-025.md); [CLAIM-349](../claims.d/CLAIM-349.md) and [CLAIM-422](../claims.d/CLAIM-422.md) ([SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)) do too.
+- **On [CLAIM-027](../claims.d/CLAIM-027.md) and [CLAIM-025](../claims.d/CLAIM-025.md) ([SYNTHESIS-036](SYNTHESIS-036.md), [SYNTHESIS-039](SYNTHESIS-039.md)).** [CLAIM-156](../claims.d/CLAIM-156.md) ([SYNTHESIS-037](SYNTHESIS-037.md)), [CLAIM-368](../claims.d/CLAIM-368.md)
+  ([SYNTHESIS-044](SYNTHESIS-044.md)), [CLAIM-349](../claims.d/CLAIM-349.md) ([SYNTHESIS-039](SYNTHESIS-039.md)), and [CLAIM-352](../claims.d/CLAIM-352.md), [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-610](../claims.d/CLAIM-610.md)
+  ([SYNTHESIS-041](SYNTHESIS-041.md)) rest on [CLAIM-027](../claims.d/CLAIM-027.md). [CLAIM-354](../claims.d/CLAIM-354.md), [CLAIM-532](../claims.d/CLAIM-532.md), [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-610](../claims.d/CLAIM-610.md)
+  ([SYNTHESIS-041](SYNTHESIS-041.md)) rest on [CLAIM-025](../claims.d/CLAIM-025.md); [CLAIM-349](../claims.d/CLAIM-349.md) and [CLAIM-422](../claims.d/CLAIM-422.md) ([SYNTHESIS-039](SYNTHESIS-039.md)) do too.
   [CLAIM-465](../claims.d/CLAIM-465.md) complements [CLAIM-027](../claims.d/CLAIM-027.md), and [CASE-135](../cases.d/CASE-135.md) illustrates it. [TERM-099](../terms.d/TERM-099.md)
   refines [TERM-023](../terms.d/TERM-023.md), and [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-532](../claims.d/CLAIM-532.md), [CLAIM-540](../claims.d/CLAIM-540.md), [CLAIM-544](../claims.d/CLAIM-544.md) and
   [CLAIM-099](../claims.d/CLAIM-099.md) use it.
-- **On [CLAIM-079](../claims.d/CLAIM-079.md) ([SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)).** [CLAIM-354](../claims.d/CLAIM-354.md) and [CLAIM-352](../claims.d/CLAIM-352.md) ([SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md)) and [CLAIM-534](../claims.d/CLAIM-534.md)
-  and [CLAIM-527](../claims.d/CLAIM-527.md) ([SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md)) rest on it.
-- **[SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md) and [SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md).** [QUESTION-034](../questions.d/QUESTION-034.md) refines [QUESTION-015](../questions.d/QUESTION-015.md); [CLAIM-156](../claims.d/CLAIM-156.md) uses
+- **On [CLAIM-079](../claims.d/CLAIM-079.md) ([SYNTHESIS-039](SYNTHESIS-039.md)).** [CLAIM-354](../claims.d/CLAIM-354.md) and [CLAIM-352](../claims.d/CLAIM-352.md) ([SYNTHESIS-041](SYNTHESIS-041.md)) and [CLAIM-534](../claims.d/CLAIM-534.md)
+  and [CLAIM-527](../claims.d/CLAIM-527.md) ([SYNTHESIS-044](SYNTHESIS-044.md)) rest on it.
+- **[SYNTHESIS-036](SYNTHESIS-036.md) and [SYNTHESIS-037](SYNTHESIS-037.md).** [QUESTION-034](../questions.d/QUESTION-034.md) refines [QUESTION-015](../questions.d/QUESTION-015.md); [CLAIM-156](../claims.d/CLAIM-156.md) uses
   [TERM-017](../terms.d/TERM-017.md); [CASE-051](../cases.d/CASE-051.md) and [CASE-109](../cases.d/CASE-109.md) are variants of [CASE-013](../cases.d/CASE-013.md), which
   illustrates [CLAIM-261](../claims.d/CLAIM-261.md); [CASE-074](../cases.d/CASE-074.md) illustrates [CLAIM-122](../claims.d/CLAIM-122.md).
-- **[SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md) and [SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md).** [CLAIM-459](../claims.d/CLAIM-459.md) complements [CLAIM-548](../claims.d/CLAIM-548.md) and [CLAIM-549](../claims.d/CLAIM-549.md), and
+- **[SYNTHESIS-036](SYNTHESIS-036.md) and [SYNTHESIS-044](SYNTHESIS-044.md).** [CLAIM-459](../claims.d/CLAIM-459.md) complements [CLAIM-548](../claims.d/CLAIM-548.md) and [CLAIM-549](../claims.d/CLAIM-549.md), and
   they it; [CLAIM-553](../claims.d/CLAIM-553.md) uses [TERM-102](../terms.d/TERM-102.md); [TERM-094](../terms.d/TERM-094.md) and [TERM-017](../terms.d/TERM-017.md) complement each
   other; [CLAIM-341](../claims.d/CLAIM-341.md) and [CLAIM-447](../claims.d/CLAIM-447.md) complement each other.
-- **[SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md) and [SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md).** [CLAIM-354](../claims.d/CLAIM-354.md) complements [CLAIM-027](../claims.d/CLAIM-027.md), [CLAIM-122](../claims.d/CLAIM-122.md) and
+- **[SYNTHESIS-036](SYNTHESIS-036.md) and [SYNTHESIS-041](SYNTHESIS-041.md).** [CLAIM-354](../claims.d/CLAIM-354.md) complements [CLAIM-027](../claims.d/CLAIM-027.md), [CLAIM-122](../claims.d/CLAIM-122.md) and
   [CLAIM-410](../claims.d/CLAIM-410.md); [CLAIM-539](../claims.d/CLAIM-539.md) rests on [CLAIM-022](../claims.d/CLAIM-022.md) and bears on [QUESTION-071](../questions.d/QUESTION-071.md);
   [CLAIM-610](../claims.d/CLAIM-610.md) complements [CLAIM-487](../claims.d/CLAIM-487.md); [CLAIM-620](../claims.d/CLAIM-620.md) rests on [CLAIM-336](../claims.d/CLAIM-336.md).
-- **[SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md) and [SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md), [SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md).** [CLAIM-156](../claims.d/CLAIM-156.md) complements [CLAIM-442](../claims.d/CLAIM-442.md) and [CLAIM-548](../claims.d/CLAIM-548.md)
+- **[SYNTHESIS-037](SYNTHESIS-037.md) and [SYNTHESIS-044](SYNTHESIS-044.md), [SYNTHESIS-039](SYNTHESIS-039.md).** [CLAIM-156](../claims.d/CLAIM-156.md) complements [CLAIM-442](../claims.d/CLAIM-442.md) and [CLAIM-548](../claims.d/CLAIM-548.md)
   and corroborates [CLAIM-349](../claims.d/CLAIM-349.md); [CLAIM-358](../claims.d/CLAIM-358.md) and [CLAIM-364](../claims.d/CLAIM-364.md) complement [CLAIM-443](../claims.d/CLAIM-443.md);
   [CLAIM-364](../claims.d/CLAIM-364.md) complements [CLAIM-553](../claims.d/CLAIM-553.md); [CLAIM-549](../claims.d/CLAIM-549.md) grounds on [CASE-109](../cases.d/CASE-109.md);
-  [QUESTION-372](../questions.d/QUESTION-372.md) refines [QUESTION-090](../questions.d/QUESTION-090.md). [CASE-129](../cases.d/CASE-129.md) ([SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md)) illustrates [CLAIM-364](../claims.d/CLAIM-364.md)
-  ([SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md)) and [CLAIM-349](../claims.d/CLAIM-349.md) ([SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)); [CASE-128](../cases.d/CASE-128.md) ([SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)) is a variant of
-  [CASE-013](../cases.d/CASE-013.md) ([SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md)).
-- **[SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md) and [SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md).** [CLAIM-532](../claims.d/CLAIM-532.md) rests on [CLAIM-347](../claims.d/CLAIM-347.md); [CLAIM-534](../claims.d/CLAIM-534.md) complements
+  [QUESTION-372](../questions.d/QUESTION-372.md) refines [QUESTION-090](../questions.d/QUESTION-090.md). [CASE-129](../cases.d/CASE-129.md) ([SYNTHESIS-044](SYNTHESIS-044.md)) illustrates [CLAIM-364](../claims.d/CLAIM-364.md)
+  ([SYNTHESIS-037](SYNTHESIS-037.md)) and [CLAIM-349](../claims.d/CLAIM-349.md) ([SYNTHESIS-039](SYNTHESIS-039.md)); [CASE-128](../cases.d/CASE-128.md) ([SYNTHESIS-039](SYNTHESIS-039.md)) is a variant of
+  [CASE-013](../cases.d/CASE-013.md) ([SYNTHESIS-036](SYNTHESIS-036.md)).
+- **[SYNTHESIS-044](SYNTHESIS-044.md) and [SYNTHESIS-041](SYNTHESIS-041.md).** [CLAIM-532](../claims.d/CLAIM-532.md) rests on [CLAIM-347](../claims.d/CLAIM-347.md); [CLAIM-534](../claims.d/CLAIM-534.md) complements
   [CLAIM-545](../claims.d/CLAIM-545.md) and names [CLAIM-354](../claims.d/CLAIM-354.md)'s motivational integration as what it
   analyses; [CLAIM-537](../claims.d/CLAIM-537.md) complements [CLAIM-354](../claims.d/CLAIM-354.md) and [CLAIM-535](../claims.d/CLAIM-535.md); [CLAIM-553](../claims.d/CLAIM-553.md) bears on
   [QUESTION-071](../questions.d/QUESTION-071.md).
-- **[SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md) and [SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md).** [CLAIM-523](../claims.d/CLAIM-523.md) complements [CLAIM-349](../claims.d/CLAIM-349.md) and [CLAIM-344](../claims.d/CLAIM-344.md);
+- **[SYNTHESIS-039](SYNTHESIS-039.md) and [SYNTHESIS-041](SYNTHESIS-041.md).** [CLAIM-523](../claims.d/CLAIM-523.md) complements [CLAIM-349](../claims.d/CLAIM-349.md) and [CLAIM-344](../claims.d/CLAIM-344.md);
   [CLAIM-540](../claims.d/CLAIM-540.md) complements [CLAIM-025](../claims.d/CLAIM-025.md).
-Across to organizational-normativity ([SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md)), by dependency:
+Across to organizational-normativity ([SYNTHESIS-038](SYNTHESIS-038.md)), by dependency:
 
-- **[SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md) and [SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md).** [CLAIM-624](../claims.d/CLAIM-624.md) and [ARG-064](../arguments.d/ARG-064.md) rest on [CLAIM-445](../claims.d/CLAIM-445.md), which
+- **[SYNTHESIS-039](SYNTHESIS-039.md) and [SYNTHESIS-038](SYNTHESIS-038.md).** [CLAIM-624](../claims.d/CLAIM-624.md) and [ARG-064](../arguments.d/ARG-064.md) rest on [CLAIM-445](../claims.d/CLAIM-445.md), which
   complements [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-619](../claims.d/CLAIM-619.md); [ARG-062](../arguments.d/ARG-062.md) grounds on [CASE-138](../cases.d/CASE-138.md).
-- **[SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md) and [SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md).** [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-624](../claims.d/CLAIM-624.md) rest on [CLAIM-523](../claims.d/CLAIM-523.md); [CLAIM-624](../claims.d/CLAIM-624.md)
+- **[SYNTHESIS-041](SYNTHESIS-041.md) and [SYNTHESIS-038](SYNTHESIS-038.md).** [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-624](../claims.d/CLAIM-624.md) rest on [CLAIM-523](../claims.d/CLAIM-523.md); [CLAIM-624](../claims.d/CLAIM-624.md)
   complements [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-620](../claims.d/CLAIM-620.md); [CLAIM-075](../claims.d/CLAIM-075.md) complements [CLAIM-352](../claims.d/CLAIM-352.md) and
   [CLAIM-523](../claims.d/CLAIM-523.md).
 
 **Whether the line falls into parts, and whether they hang together.**
 Counting each pair of the 203 components linked by a front-matter relation
 or by a mention in either's body, summary, history, defeater or title gives
-777 pairs: 175 within [SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md), 108 within [SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md), 61 within [SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md), 70 within
-[SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md), 73 within [SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md) and 54 within [SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md), 541 in all; and 236 across.
+777 pairs: 175 within [SYNTHESIS-036](SYNTHESIS-036.md), 108 within [SYNTHESIS-037](SYNTHESIS-037.md), 61 within [SYNTHESIS-044](SYNTHESIS-044.md), 70 within
+[SYNTHESIS-039](SYNTHESIS-039.md), 73 within [SYNTHESIS-041](SYNTHESIS-041.md) and 54 within [SYNTHESIS-038](SYNTHESIS-038.md), 541 in all; and 236 across.
 Across, by pair of parts: A–E 38, A–D 37, D–F 21, C–D 20, A–B 19, D–E 19,
 A–C 16, C–E 15, E–F 15, B–C 12, B–D 11, B–E 8, A–F 3, C–F 2, B–F 0.
 
@@ -160,24 +163,24 @@ in:
 
 | part | inside | out | in |
 |---|---|---|---|
-| [SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md) | 101 | 15 | 36 |
-| [SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md) | 53 | 11 | 9 |
-| [SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md) | 51 | 23 | 14 |
-| [SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md) | 37 | 16 | 25 |
-| [SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md) | 46 | 35 | 24 |
-| [SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md) | 32 | 15 | 7 |
+| [SYNTHESIS-036](SYNTHESIS-036.md) | 101 | 15 | 36 |
+| [SYNTHESIS-037](SYNTHESIS-037.md) | 53 | 11 | 9 |
+| [SYNTHESIS-044](SYNTHESIS-044.md) | 51 | 23 | 14 |
+| [SYNTHESIS-039](SYNTHESIS-039.md) | 37 | 16 | 25 |
+| [SYNTHESIS-041](SYNTHESIS-041.md) | 46 | 35 | 24 |
+| [SYNTHESIS-038](SYNTHESIS-038.md) | 32 | 15 | 7 |
 
-[SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md) is the hub: the other parts point into it 36 times. [SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md) and
-[SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md) are mostly closed: most of their relations are inside, and nine and
-seven point in. [SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md)'s crossings run through the paper's question and
+[SYNTHESIS-036](SYNTHESIS-036.md) is the hub: the other parts point into it 36 times. [SYNTHESIS-037](SYNTHESIS-037.md) and
+[SYNTHESIS-038](SYNTHESIS-038.md) are mostly closed: most of their relations are inside, and nine and
+seven point in. [SYNTHESIS-037](SYNTHESIS-037.md)'s crossings run through the paper's question and
 case ([QUESTION-015](../questions.d/QUESTION-015.md), [CASE-013](../cases.d/CASE-013.md), [CLAIM-027](../claims.d/CLAIM-027.md)), through [CLAIM-443](../claims.d/CLAIM-443.md), and through
-[CASE-129](../cases.d/CASE-129.md)'s illustration of [CLAIM-364](../claims.d/CLAIM-364.md); [SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md)'s
-through [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-523](../claims.d/CLAIM-523.md). [SYNTHESIS-tmpoihy8](SYNTHESIS-tmpoihy8.md), [SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md) and [SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md) are not closed.
+[CASE-129](../cases.d/CASE-129.md)'s illustration of [CLAIM-364](../claims.d/CLAIM-364.md); [SYNTHESIS-038](SYNTHESIS-038.md)'s
+through [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-523](../claims.d/CLAIM-523.md). [SYNTHESIS-044](SYNTHESIS-044.md), [SYNTHESIS-039](SYNTHESIS-039.md) and [SYNTHESIS-041](SYNTHESIS-041.md) are not closed.
 So **the line was a candidate to split** ([ADR-083](../decisions.d/ADR-083.md)): acting as one, and
 normative judgment about organizations, each looked like an inquiry of its
 own. The counts above are version 1's, over six parts, and are the record
 of that finding. The split of normative judgment was decided by
-[ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md); acting as one stays (below). Seventeen of [SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md)'s components, the promotion
+[ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md); acting as one stays (below). Seventeen of [SYNTHESIS-039](SYNTHESIS-039.md)'s components, the promotion
 conditions, are tied to the rest mostly by a formulaic mention of
 [QUESTION-303](../questions.d/QUESTION-303.md), and [QUESTION-407](../questions.d/QUESTION-407.md) is linked to no component.
 
@@ -186,7 +189,7 @@ set them out for the decision. [ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md) sp
 because it asks something of its own, and kept acting as one, because its
 root question refines the line's own.
 
-- **[SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md).** (a) Its root question is [QUESTION-034](../questions.d/QUESTION-034.md): "If an agent is a
+- **[SYNTHESIS-037](SYNTHESIS-037.md).** (a) Its root question is [QUESTION-034](../questions.d/QUESTION-034.md): "If an agent is a
   population of interests, what makes it act as one: bargaining among the
   interests, a change in which of them may act, or agreement among them?"
   (b) It presupposes the line's question: it refines the paper's
@@ -199,16 +202,16 @@ root question refines the line's own.
   [CLAIM-156](../claims.d/CLAIM-156.md) depends on what is set aside, and the rest would stand on a line
   of their own, with [QUESTION-034](../questions.d/QUESTION-034.md)'s refinement of [QUESTION-015](../questions.d/QUESTION-015.md) and [CLAIM-156](../claims.d/CLAIM-156.md)'s
   premise as reported crossings.
-- **[SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md).** (a) Its root question is [QUESTION-128](../questions.d/QUESTION-128.md): "Does the record's
+- **[SYNTHESIS-038](SYNTHESIS-038.md).** (a) Its root question is [QUESTION-128](../questions.d/QUESTION-128.md): "Does the record's
   organizational account give a path to normativity from first principles:
   can norms of function and failure be defined from an organization's own
   dynamics, and what more do practical and moral authority need?" Its most
   connected claim is [CLAIM-624](../claims.d/CLAIM-624.md), the bounded duty of answerability.
   (b) It asks something of its own, about organizations in general and not
   about what organizes efficacy in an agent: only two front-matter
-  relations of [SYNTHESIS-tmphe0p9](SYNTHESIS-tmphe0p9.md) point into [SYNTHESIS-tmp8ru2q](SYNTHESIS-tmp8ru2q.md), both uses of [TERM-118](../terms.d/TERM-118.md)
+  relations of [SYNTHESIS-038](SYNTHESIS-038.md) point into [SYNTHESIS-036](SYNTHESIS-036.md), both uses of [TERM-118](../terms.d/TERM-118.md)
   (disposition, by [CLAIM-619](../claims.d/CLAIM-619.md) and [ARG-059](../arguments.d/ARG-059.md)), and its premises outside the part are [CLAIM-523](../claims.d/CLAIM-523.md)
-  ([SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md)), [CLAIM-445](../claims.d/CLAIM-445.md) ([SYNTHESIS-tmpiwxet](SYNTHESIS-tmpiwxet.md), distributed-agency first) and claims of other
+  ([SYNTHESIS-041](SYNTHESIS-041.md)), [CLAIM-445](../claims.d/CLAIM-445.md) ([SYNTHESIS-039](SYNTHESIS-039.md), distributed-agency first) and claims of other
   lines ([CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-348](../claims.d/CLAIM-348.md), [CLAIM-350](../claims.d/CLAIM-350.md), [CLAIM-402](../claims.d/CLAIM-402.md), [CLAIM-406](../claims.d/CLAIM-406.md), [CLAIM-462](../claims.d/CLAIM-462.md),
   [CLAIM-520](../claims.d/CLAIM-520.md)). (c) Fifteen of its 23 components carry will-organization alone,
   among them [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md), [CLAIM-518](../claims.d/CLAIM-518.md) and [QUESTION-128](../questions.d/QUESTION-128.md); eight already
@@ -244,7 +247,7 @@ and stay claims; the review's report gives the cases.
 
 ## Not stated on the record
 
-- **Acting as one and motivational integration.** [SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md)'s "integration by
+- **Acting as one and motivational integration.** [SYNTHESIS-037](SYNTHESIS-037.md)'s "integration by
   arbitration" ([TERM-050](../terms.d/TERM-050.md), [QUESTION-304](../questions.d/QUESTION-304.md)) and [CLAIM-156](../claims.d/CLAIM-156.md)'s "integrates a
   population of interests" use the word for acting as one; [CLAIM-534](../claims.d/CLAIM-534.md)'s
   integration is "neither agreement among the demands nor the dominance of
@@ -261,6 +264,6 @@ and stay claims; the review's report gives the cases.
 
 - That the line's thesis is shown across realizers: [CLAIM-027](../claims.d/CLAIM-027.md)'s
   intervention test is not run ([QUESTION-015](../questions.d/QUESTION-015.md)).
-- That any of the claims filed from exchanges after the paper, in [SYNTHESIS-tmpg9eit](SYNTHESIS-tmpg9eit.md) to
-  [SYNTHESIS-tmpjze56](SYNTHESIS-tmpjze56.md), carries the paper's standing.
+- That any of the claims filed from exchanges after the paper, in [SYNTHESIS-037](SYNTHESIS-037.md) to
+  [SYNTHESIS-041](SYNTHESIS-041.md), carries the paper's standing.
 - Anything with standing of its own.

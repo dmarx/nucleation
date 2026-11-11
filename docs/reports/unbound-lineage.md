@@ -7,7 +7,7 @@ Asserting an invariant: `lineage` on `tags`, `theory` on `tags`, `argument` on `
 
 A relation is an assertion that the documents it joins have something in common. Where no value in the named field is held by both, the record has made the assertion and not said what it means — usually a sign the vocabulary is short a word rather than that the relation is wrong.
 
-**71 unbound relations.** Two documents joined directly, sharing nothing.
+**72 unbound relations.** Two documents joined directly, sharing nothing.
 
 | Declared by | Field | Documents | Held |
 |---|---|---|---|
@@ -82,6 +82,7 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-485](../../record/claims.d/CLAIM-485.md) ↔ [CLAIM-545](../../record/claims.d/CLAIM-545.md) | distributed-agency / will-organization |
 | argument | `line` | [CLAIM-534](../../record/claims.d/CLAIM-534.md) ↔ [CLAIM-538](../../record/claims.d/CLAIM-538.md) | will-organization / distributed-agency, formal-apparatus |
 | argument | `line` | [CLAIM-538](../../record/claims.d/CLAIM-538.md) ↔ [CLAIM-588](../../record/claims.d/CLAIM-588.md) | distributed-agency, formal-apparatus / realizability |
+| argument | `line` | [CLAIM-566](../../record/claims.d/CLAIM-566.md) ↔ [CLAIM-600](../../record/claims.d/CLAIM-600.md) | distributed-agency, realizability / transient-support |
 
 **5 unbound lines.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
 

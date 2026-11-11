@@ -6,8 +6,8 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-0 of 34 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-045](../../../record/syntheses.d/SYNTHESIS-045.md) | Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon |  | Proposed |

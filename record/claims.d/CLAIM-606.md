@@ -20,7 +20,7 @@ history:
 - version: 3
   date: '2026-11-11'
   note: >-
-    At the completion of the readiness split (ADR-tmpqp8c4,
+    At the completion of the readiness split (ADR-088,
     2026-11-11): transient-support is now its first line, in place
     of realizability: filed for the withdrawal readings, it bears on
     QUESTION-398 and QUESTION-399, both now first in

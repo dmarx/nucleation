@@ -1,5 +1,8 @@
 ---
+number: 36
 status: Proposed
+formerly:
+- SYNTHESIS-tmp8ru2q
 title: 'Which of an agent''s available regimes becomes effective is decided by maintained relations of efficacy that are not further preferences and are indexed to an agent rather than to any regulator; precedence, jurisdiction and suspension among them vary separately; and whether describing them as one organization explains anything that the fields studying each realizer do not is open'
 version: 2
 history:
@@ -108,7 +111,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-012 CLAIM-062 TERM-003 — Superseded; components and citations, with their standing (the syntheses among them carry content returned to claims, ADR-084) -->
 <!-- inactive-ok-file: QUESTION-015 — Answered; components and citations, with their standing -->
 
-# SYNTHESIS-tmp8ru2q: Which of an agent's available regimes becomes effective is decided by maintained relations of efficacy that are not further preferences and are indexed to an agent rather than to any regulator; precedence, jurisdiction and suspension among them vary separately; and whether describing them as one organization explains anything that the fields studying each realizer do not is open
+# SYNTHESIS-036: Which of an agent's available regimes becomes effective is decided by maintained relations of efficacy that are not further preferences and are indexed to an agent rather than to any regulator; precedence, jurisdiction and suspension among them vary separately; and whether describing them as one organization explains anything that the fields studying each realizer do not is open
 
 *A part account of the will-organization line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). The line's account is built over it and four sibling parts. A sixth, on normative judgment about organizations, became the line organizational-normativity at the split of will-organization ([ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md)). "The will paper" is the owner's essay, The Organization of Will (the `works` vocabulary), cited in components by section.*
 
