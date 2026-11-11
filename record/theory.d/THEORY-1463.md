@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp2ece2
 title: 'Pritchett, Woolcock and Andrews argue that many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and that the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,18 @@ history:
     current capability, gain less implementation capability than
     comparable organizations rewarded for performance or loaded
     gradually.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    At the reading review of 2026-11-11 (by line,
+    organizational-normativity): bears_on QUESTION-441, which asks of an
+    organization that "reproduces the representational projections that
+    make the harm non-legible" what makes it reproductive. Isomorphic
+    mimicry, "keeping legitimacy by imitating the forms of functional
+    organizations without their function", with de jure scores above de
+    facto ones, is offered by the authors as how failure persists. They
+    do not test it against alternatives, and the harm is a capability
+    failure; nothing normative is shown.
 tags:
 - society-and-governance
 - social-science
@@ -41,6 +53,8 @@ summary: >-
   does not say that capability cannot be built faster, nor what happens
   when external support is withdrawn.
   Whether the argument holds is THEORY-1525.
+bears_on:
+- QUESTION-441
 ---
 
 # THEORY-1463: Pritchett, Woolcock and Andrews argue that many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and that the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon

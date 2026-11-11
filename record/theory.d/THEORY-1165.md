@@ -4,7 +4,21 @@ status: Active
 formerly:
 - THEORY-tmp9nzdb
 title: 'Kahl proposes that agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, which is absent where revision is imposed from outside, escaped by rollback or chosen by a fixed higher-order rule; that allocating authority among a system''s own components coordinates execution without authoring its governing frame; and that planning, autonomy, memory and coordination do not supply that standpoint'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the reading review of 2026-11-11 (by line,
+    organizational-normativity): bears_on QUESTION-441, whose third
+    part asks when the counter-normativity is "the organization's own
+    rather than its participants' or an outside maintainer's"; this
+    entry's criterion is "whether revision of that rule under breakdown
+    is internal or external to the candidate group agent", and it
+    denies attributive agency to institutional systems whose standards
+    are "authored elsewhere". Also bears_on QUESTION-tmpmus93, raised by
+    the same review, on whether an installed mechanism's origin bears on
+    whose the counter-normativity is.
 tags:
 - agency
 - self-governance
@@ -22,6 +36,9 @@ summary: >-
   which turns on a line between settling a frame and selecting under an
   antecedent rule that the paper does not draw precisely, and on a
   positive case it does not give, stays [THEORY-219](THEORY-219.md)'s question, Proposed.
+bears_on:
+- QUESTION-441
+- QUESTION-tmpmus93
 ---
 <!-- inactive-ok-file: THEORY-219 THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true, and a neighbouring account it is set apart from -->
 
