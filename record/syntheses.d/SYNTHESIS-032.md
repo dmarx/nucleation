@@ -95,9 +95,9 @@ account. It is the part filed from the DNA
 origami, aid and development, ecology, urban, medicine and windfall
 readings of 2026-11-05 and 2026-11-06, on A's [QUESTION-398](../questions.d/QUESTION-398.md). Since [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md)
 (2026-11-11) [QUESTION-398](../questions.d/QUESTION-398.md) and the entries of the withdrawal inquiry have
-transient-support first, QUESTION-399 with them, and carry realizability
+transient-support first, [QUESTION-399](../questions.d/QUESTION-399.md) with them, and carry realizability
 only where they bear on a realizability-first entry: none does, and only
-CASE-225, which has it first, carries it. [CLAIM-602](../claims.d/CLAIM-602.md)
+[CASE-225](../cases.d/CASE-225.md), which has it first, carries it. [CLAIM-602](../claims.d/CLAIM-602.md)
 also keeps readiness, because it bears on [QUESTION-386](../questions.d/QUESTION-386.md) ([ADR-085](../decisions.d/ADR-085.md)), and
 the readiness line's account integrates it too.*
 
@@ -179,10 +179,10 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   distributed-agency, transient-support; illustrates [CLAIM-414](../claims.d/CLAIM-414.md), [CLAIM-522](../claims.d/CLAIM-522.md) and
   [CLAIM-616](../claims.d/CLAIM-616.md).
 - [QUESTION-398](../questions.d/QUESTION-398.md), A's, Open; first line transient-support since [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md).
-- QUESTION-399, A's, Open; lines transient-support, distributed-agency
-  since ADR-tmpqp8c4: "Under what conditions does a productive partial
-  organization become a self-maintaining nucleus". CLAIM-597, CLAIM-600,
-  CLAIM-604 and CLAIM-606 bear on it.
+- [QUESTION-399](../questions.d/QUESTION-399.md), A's, Open; lines transient-support, distributed-agency
+  since [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md): "Under what conditions does a productive partial
+  organization become a self-maintaining nucleus". [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-600](../claims.d/CLAIM-600.md),
+  [CLAIM-604](../claims.d/CLAIM-604.md) and [CLAIM-606](../claims.d/CLAIM-606.md) bear on it.
 - [CLAIM-604](../claims.d/CLAIM-604.md), the assistant's, at the owner's request of 2026-11-05, thesis,
   demonstrated, Active; lines transient-support,
   distributed-agency; bears on [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-399](../questions.d/QUESTION-399.md) and [QUESTION-085](../questions.d/QUESTION-085.md);
