@@ -22,9 +22,9 @@ source:
 - LIT-1751
 summary: >-
   Heijmans et al. (2008), read from the reprint in Tobi's thesis
-  (NOTE-1248). One locus, one tissue, one cohort, one sample per person.
+  ([NOTE-1248](../notes.d/NOTE-1248.md)). One locus, one tissue, one cohort, one sample per person.
   The exposure is the person's own, around their own conception, and no
-  later generation is measured: this is the womb route of QUESTION-297,
+  later generation is measured: this is the womb route of [QUESTION-297](../questions.d/QUESTION-297.md),
   not inheritance, and from famine, not psychological trauma.
 bears_on:
 - QUESTION-297
@@ -50,7 +50,7 @@ information".
 
 ## Evidence
 
-The paper (NOTE-1248): an observational sibling comparison, with a
+The paper ([NOTE-1248](../notes.d/NOTE-1248.md)): an observational sibling comparison, with a
 technical re-run of the assay on 46 of the same pairs, not an independent
 replication. One blood sample per person, so persistence since early life
 is inferred from the authors' earlier twin study. Siblings differ from the
@@ -60,7 +60,7 @@ rat diet studies.
 
 ## What it bears on
 
-QUESTION-297, the womb route. The paper shows a lasting mark, not a
+[QUESTION-297](../questions.d/QUESTION-297.md), the womb route. The paper shows a lasting mark, not a
 lasting harm: no expression, disease or behaviour outcome is measured. The
 exposure is undernutrition, the exposed person's own, and the sensitive
 window starts at the mother's last menstrual period, so it takes in the

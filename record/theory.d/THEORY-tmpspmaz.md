@@ -22,7 +22,7 @@ source:
 - LIT-1785
 summary: >-
   Hurlstone et al., 30 groups of six, read in full from the publisher's
-  PDF without the supplementary materials (NOTE-1279), in place of
+  PDF without the supplementary materials ([NOTE-1279](../notes.d/NOTE-1279.md)), in place of
   Wade-Benzoni et al. 2012. The messages restored a fair-share norm rather
   than extra giving. The authors call the legacy motive "a mechanism for
   leveraging short-term self-interest for the long-term best interests of
@@ -57,12 +57,12 @@ largely restore it.
 
 Ten groups per condition; no control message and no manipulation checks, as
 the authors state (p. 9); the per-message test treats sets from the same
-groups as independent (NOTE-1279, Limitations).
+groups as independent ([NOTE-1279](../notes.d/NOTE-1279.md), Limitations).
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29 cites the reading: "Hurlstone et al.'s
-legacy messages (NOTE-1279) bundle identification with generations, a moral
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29 cites the reading: "Hurlstone et al.'s
+legacy messages ([NOTE-1279](../notes.d/NOTE-1279.md)) bundle identification with generations, a moral
 appeal and one's own death, so they cannot tell the thesis's reading from
 Pitcher's." The reading is evidence that legacy messages raise cooperation
 with the future, and bears on the question without separating its readings.

@@ -24,7 +24,7 @@ source:
 - LIT-1696
 summary: >-
   Costa, Yetter and DeSomer (2018), read from the PMC text without the SI
-  Appendix (NOTE-1255). The best human paternal case QUESTION-297 holds:
+  Appendix ([NOTE-1255](../notes.d/NOTE-1255.md)). The best human paternal case [QUESTION-297](../questions.d/QUESTION-297.md) holds:
   large, with two natural controls, but the within-family estimate has
   P = 0.056, maternal nutrition is inferred from season, and the
   mechanism is argued by elimination, with no data on parenting.
@@ -52,7 +52,7 @@ possibly Y-linked, transmission.
 
 ## Evidence
 
-The paper (NOTE-1255): Cox models on linked service, pension, census and
+The paper ([NOTE-1255](../notes.d/NOTE-1255.md)): Cox models on linked service, pension, census and
 death records, stable across four specifications, though the contrast with
 exchange-period prisoners' sons weakens to P = 0.06–0.08 with fuller
 controls. The channels the authors exclude are mostly tested in the SI,
@@ -61,7 +61,7 @@ data on how the fathers raised their sons.
 
 ## What it bears on
 
-QUESTION-297, the germline and womb routes. A father's hardship before
+[QUESTION-297](../questions.d/QUESTION-297.md), the germline and womb routes. A father's hardship before
 conception is associated with sons' mortality, but the design cannot
 separate the germline from care or culture; and the quarter-of-birth
 result puts the womb inside the paternal story. The authors' untested

@@ -23,12 +23,12 @@ source:
 - LIT-1694
 summary: >-
   Fridman (2011), a Leiden PhD thesis read in place of its promotors'
-  meta-analyses (NOTE-1291). Small (32 survivors, 33 comparisons, 79
+  meta-analyses ([NOTE-1291](../notes.d/NOTE-1291.md)). Small (32 survivors, 33 comparisons, 79
   daughters), with selective attrition and daughters recruited for having
   an infant. It also restates the meta-analyses, at second hand and
   without effect sizes: no second- or third-generation traumatization in
   non-clinical samples with adequate designs. The parenting route of
-  QUESTION-297, tested with the identity route held fixed.
+  [QUESTION-297](../questions.d/QUESTION-297.md), tested with the identity route held fixed.
 bears_on:
 - QUESTION-297
 ---
@@ -61,7 +61,7 @@ goals, and pride in building the new state of Israel".
 
 ## Evidence
 
-The thesis (NOTE-1291): four studies of one registry-drawn sample first
+The thesis ([NOTE-1291](../notes.d/NOTE-1291.md)): four studies of one registry-drawn sample first
 studied 11 years earlier. Self-report, one day of cortisol sampling, a
 null for the daughters at power the authors call sufficient for medium
 effects. Attrition was selective. The ADRA2B moderation is exploratory by
@@ -70,7 +70,7 @@ hand.
 
 ## What it bears on
 
-QUESTION-297, the parenting route: in a non-clinical sample, the trauma
+[QUESTION-297](../questions.d/QUESTION-297.md), the parenting route: in a non-clinical sample, the trauma
 marks the survivors and largely stops there. The comparison families
 shared the survivors' national memory, so the design tests family routes
 with the identity route held fixed. The thesis's appeal to meaning found

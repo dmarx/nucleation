@@ -22,8 +22,8 @@ date: '2026-11-11'
 source:
 - LIT-1779
 summary: >-
-  Scheffler's 2012 Tanner Lectures, LIT-1779, read in NOTE-1298 in
-  place of Death and the Afterlife (LIT-1754). Argued by thought
+  Scheffler's 2012 Tanner Lectures, [LIT-1779](../literature.d/LIT-1779.md), read in [NOTE-1298](../notes.d/NOTE-1298.md) in
+  place of Death and the Afterlife ([LIT-1754](../literature.d/LIT-1754.md)). Argued by thought
   experiments: the doomsday scenario and an infertile world. The third
   lecture, the commentaries and the replies are not here.
 bears_on:
@@ -68,12 +68,12 @@ and responsibility.
 
 ## What it bears on
 
-QUESTION-301 holds Scheffler's reading, dependence on a future we will
+[QUESTION-301](../questions.d/QUESTION-301.md) holds Scheffler's reading, dependence on a future we will
 not see, as one of its three, reworded to match this reading, and its
 note of 2026-10-29 says "Scheffler is less hard a case than filed
-(NOTE-1298; NOTE-1306)".
+([NOTE-1298](../notes.d/NOTE-1298.md); [NOTE-1306](../notes.d/NOTE-1306.md))".
 
-QUESTION-299 holds the ground that "Scheffler grounds concern for the
+[QUESTION-299](../questions.d/QUESTION-299.md) holds the ground that "Scheffler grounds concern for the
 future in what the living value". The lectures state that ground:
 reasons concerning future generations that come from what matters to us,
 not only from obligations to them.

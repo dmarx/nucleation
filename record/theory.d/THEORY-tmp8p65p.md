@@ -21,7 +21,7 @@ date: '2026-11-11'
 source:
 - LIT-1691
 summary: >-
-  Kruse and Schmitt (2012), LIT-1691, read in NOTE-1261 in place of
+  Kruse and Schmitt (2012), [LIT-1691](../literature.d/LIT-1691.md), read in [NOTE-1261](../notes.d/NOTE-1261.md) in place of
   McAdams and de St. Aubin (1992). Generativity is read as the
   psychological form of an ethical joint responsibility that lasts
   into very old age. Its studies, 3,308 older adults in Mexico, Spain
@@ -60,8 +60,8 @@ recipient at a cost to the actor.
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29: "Generativity includes a need for
-symbolic immortality (Kruse and Schmitt, NOTE-1261)." On the model, one
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29: "Generativity includes a need for
+symbolic immortality (Kruse and Schmitt, [NOTE-1261](../notes.d/NOTE-1261.md))." On the model, one
 source of care for the next generation has the shape the question asks
 about, a self extended in time through what outlives it; but cultural
 demand is a second source, concern is a separate stage, and no study

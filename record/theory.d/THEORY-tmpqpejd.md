@@ -24,10 +24,10 @@ source:
 - LIT-1725
 summary: >-
   Youssef et al. (2018), a short narrative review read in place of Yehuda
-  et al. 2016 (NOTE-1310). It uses "transgenerational" for any
+  et al. 2016 ([NOTE-1310](../notes.d/NOTE-1310.md)). It uses "transgenerational" for any
   parent-to-child effect, and its conclusion outruns its evidence: no
   study it reviews separates transmission from shared or in-utero
-  exposure. For QUESTION-297 it corrects a label: the FKBP5 study is
+  exposure. For [QUESTION-297](../questions.d/QUESTION-297.md) it corrects a label: the FKBP5 study is
   intergenerational, and the child does not carry the parent's mark.
 bears_on:
 - QUESTION-297
@@ -57,7 +57,7 @@ pregnancy.
 
 ## Evidence
 
-The review (NOTE-1310): PubMed to March 2018, with no stated search terms
+The review ([NOTE-1310](../notes.d/NOTE-1310.md)): PubMed to March 2018, with no stated search terms
 or inclusion criteria. Each study is small and cross-sectional; the Rwanda
 groups live in different countries; the Holocaust survivors' "extreme
 starvation", the authors grant, "could have also contributed to the effect
@@ -65,7 +65,7 @@ seen".
 
 ## What it bears on
 
-QUESTION-297. The Holocaust FKBP5 study, cited in the question for the
+[QUESTION-297](../questions.d/QUESTION-297.md). The Holocaust FKBP5 study, cited in the question for the
 germline route, is intergenerational and finds the offspring's mark
 opposite in direction to the parent's: what reaches the child, if
 anything, is a response to the parent's state, not a copy of it. The

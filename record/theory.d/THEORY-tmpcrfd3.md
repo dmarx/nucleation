@@ -21,7 +21,7 @@ date: '2026-11-11'
 source:
 - LIT-1690
 summary: >-
-  Smith and Mackie (2016), LIT-1690, read in NOTE-1285. A five-page
+  Smith and Mackie (2016), [LIT-1690](../literature.d/LIT-1690.md), read in [NOTE-1285](../notes.d/NOTE-1285.md). A five-page
   review by the founders of intergroup emotions theory, with no new
   data. Four facts: the emotion follows the salient membership;
   members converge on a group norm; no personal involvement is needed;
@@ -60,8 +60,8 @@ membership to the individual", moderates (p. 4).
 
 ## What it bears on
 
-No question of the record names this work. CLAIM-492's note of
+No question of the record names this work. [CLAIM-492](../claims.d/CLAIM-492.md)'s note of
 2026-10-29 cites it ("Salience moves without caring") as a candidate
 criterion of the self's extent apart from caring, which bears on whether
-the condition CLAIM-492 sets can be met rather than on CLAIM-492 itself,
+the condition [CLAIM-492](../claims.d/CLAIM-492.md) sets can be met rather than on [CLAIM-492](../claims.d/CLAIM-492.md) itself,
 so no relation is filed from here.

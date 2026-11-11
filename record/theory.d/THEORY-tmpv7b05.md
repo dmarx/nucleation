@@ -20,7 +20,7 @@ date: '2026-11-11'
 source:
 - LIT-1142
 summary: >-
-  Siegel (2024), LIT-1142, read in NOTE-1272. Edited interviews with
+  Siegel (2024), [LIT-1142](../literature.d/LIT-1142.md), read in [NOTE-1272](../notes.d/NOTE-1272.md). Edited interviews with
   the redub's two creators, the series' co-showrunners and other early
   web-video makers, eighteen years on. The cowriter's remark, "That
   was a reshoot Ratner line", is quoted from Polygon; that the
@@ -55,10 +55,10 @@ video".
 
 ## What it bears on
 
-QUESTION-119 asks when a diffusely organized population "credited ...
+[QUESTION-119](../questions.d/QUESTION-119.md) asks when a diffusely organized population "credited ...
 with an effect on an outside institution" deserves the credit as
 organized, and it takes its effect-without-intention rung from "the
-owner's Juggernaut case (CASE-100)". This reading is the source for that
+owner's Juggernaut case ([CASE-100](../cases.d/CASE-100.md))". This reading is the source for that
 case's timeline. Its agents are two creators, a mass audience of
 viewers, a news segment and one director, and it supplies the timing of
 the addition without the route by which the parody reached it.

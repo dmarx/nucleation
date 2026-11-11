@@ -21,7 +21,7 @@ source:
 - LIT-1756
 summary: >-
   Meyer's SEP entry, Intergenerational Justice, in its 2026 revision
-  (NOTE-1304). It surveys and argues: the threshold and disjunctive
+  ([NOTE-1304](../notes.d/NOTE-1304.md)). It surveys and argues: the threshold and disjunctive
   notions of harm are the author's own position. Scheffler's afterlife
   conjecture is given at second hand, through McKinnon; longtermism and
   the empirical work on motivation are absent.
@@ -57,11 +57,11 @@ and past people."
 
 Argument, on the Interest Theory of rights and a weak person-affecting view,
 both assumed (§1). The threshold is normative, not found. Impersonal views
-are reported, not examined (NOTE-1304, Limitations).
+are reported, not examined ([NOTE-1304](../notes.d/NOTE-1304.md), Limitations).
 
 ## What it bears on
 
-QUESTION-299 names this work: "The SEP survey (Meyer, LIT-1756) maps the
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work: "The SEP survey (Meyer, [LIT-1756](../literature.d/LIT-1756.md)) maps the
 positions." Its note of 2026-10-29 reads it as showing that "the grounds
 divide the labour": a weak person-affecting view states harms to actual
 future people and fills its gap "with Scheffler's grounding in what the

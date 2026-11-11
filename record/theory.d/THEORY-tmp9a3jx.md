@@ -21,10 +21,10 @@ date: '2026-11-11'
 source:
 - LIT-1752
 summary: >-
-  A modelling proposal, read in full in NOTE-1311, with illustrative
+  A modelling proposal, read in full in [NOTE-1311](../notes.d/NOTE-1311.md), with illustrative
   evidence. The identity weights are free parameters read off the
   behaviour they explain. The authors call identity a nonpecuniary
-  motive and never call it self-interest. Filed from NOTE-1311.
+  motive and never call it self-interest. Filed from [NOTE-1311](../notes.d/NOTE-1311.md).
 bears_on:
 - QUESTION-300
 ---
@@ -45,7 +45,7 @@ welfare enters anyone's utility.
 
 ## Evidence
 
-Illustrative (NOTE-1311): a 70-household vignette survey and
+Illustrative ([NOTE-1311](../notes.d/NOTE-1311.md)): a 70-household vignette survey and
 ethnographies; aggregate trends in gender-typed jobs; the housework
 asymmetry over 29,000 couple-years, where husbands' share rises to no
 more than 37% however little they earn. The authors grant the
@@ -54,7 +54,7 @@ identification per se" (p. 720).
 
 ## What it bears on
 
-QUESTION-300 asks whether apparently selfless action is
+[QUESTION-300](../questions.d/QUESTION-300.md) asks whether apparently selfless action is
 "self-interest on an enlarged self" and needs "a criterion of the self's
 extent that is independent of what the agent cares about". The model
 makes identity-driven sacrifice utility-maximizing by construction, with

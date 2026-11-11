@@ -22,8 +22,8 @@ date: '2026-11-11'
 source:
 - LIT-1689
 summary: >-
-  Sturesteps (1992), LIT-1689, an ANU master's thesis skimmed in
-  NOTE-1312 in place of Lifton (1979, LIT-1714). It tests Rank's three
+  Sturesteps (1992), [LIT-1689](../literature.d/LIT-1689.md), an ANU master's thesis skimmed in
+  [NOTE-1312](../notes.d/NOTE-1312.md) in place of Lifton (1979, [LIT-1714](../literature.d/LIT-1714.md)). It tests Rank's three
   modes and Lifton's two added ones with vignettes rated as
   consolation, separating having a mode (availability) from accepting
   it. Cross-sectional; Rank's sex-difference and neuroticism
@@ -60,8 +60,8 @@ the concern and they look for what they have (p. 127).
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29: "Symbolic immortality, as Sturesteps
-measured it (skimmed, NOTE-1312), is consolation that goes with
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29: "Symbolic immortality, as Sturesteps
+measured it (skimmed, [NOTE-1312](../notes.d/NOTE-1312.md)), is consolation that goes with
 accepting death as final, not a motive to act for the future." The
 reading is that evidence: whatever extension of the self the modes give
 is not believed to carry the person past death.

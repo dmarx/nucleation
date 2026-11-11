@@ -21,7 +21,7 @@ source:
 - LIT-1684
 summary: >-
   Greaves and MacAskill, read in full from the 2021 working paper
-  (NOTE-1302), not compared with the 2025 chapter the LIT files. The case
+  ([NOTE-1302](../notes.d/NOTE-1302.md)), not compared with the 2025 chapter the LIT files. The case
   runs through a benefit ratio against bednets, at least 10^24 expected
   future beings, and a stakes-sensitivity argument from the axiological to
   the deontic thesis. The ground is an impersonal good; the agent is "a
@@ -63,13 +63,13 @@ plausible ways in which the argument for strong longtermism might fail" (p.
 
 The decisive AI numbers have "no hard quantitative evidence" (p. 14);
 robustness to person-affecting views is shown on that least quantified
-example; individual-level fanaticism is conceded (p. 26) (NOTE-1302,
+example; individual-level fanaticism is conceded (p. 26) ([NOTE-1302](../notes.d/NOTE-1302.md),
 Limitations).
 
 ## What it bears on
 
-QUESTION-299 names this work under the impersonal ground: "Longtermism
-(Greaves and MacAskill, LIT-1684; ...) holds that the expected size of the
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work under the impersonal ground: "Longtermism
+(Greaves and MacAskill, [LIT-1684](../literature.d/LIT-1684.md); ...) holds that the expected size of the
 future makes its welfare dominate the most important present choices." Its
 note of 2026-10-29 reads it as "what the impersonal ground needs". The
 reading argues for one of the question's grounds; it is filed as bearing

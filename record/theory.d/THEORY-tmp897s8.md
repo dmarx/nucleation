@@ -21,12 +21,12 @@ date: '2026-11-11'
 source:
 - LIT-1786
 summary: >-
-  Seven studies with Dutch students, read in full in NOTE-1262.
+  Seven studies with Dutch students, read in full in [NOTE-1262](../notes.d/NOTE-1262.md).
   Self-definition (self-stereotyping, in-group homogeneity) and
   self-investment (solidarity, satisfaction, centrality) correlate .61
   to .77 yet predict different reactions; the key guilt test has N = 49.
   The self–group overlap circles went more with investment than with
-  self-stereotyping. Filed from NOTE-1262.
+  self-stereotyping. Filed from [NOTE-1262](../notes.d/NOTE-1262.md).
 bears_on:
 - QUESTION-300
 ---
@@ -49,7 +49,7 @@ centrality loads on it as highly as satisfaction (p. 162).
 
 ## Evidence
 
-From NOTE-1262: confirmatory models fit three groups and two cohorts
+From [NOTE-1262](../notes.d/NOTE-1262.md): confirmatory models fit three groups and two cohorts
 (CFI .966 to .983), better than one-factor or cognitive-versus-affective
 models. In Study 7 (N = 49) self-stereotyping as European was the only
 predictor of guilt (.33), and satisfaction (.39) and centrality (.29)
@@ -59,9 +59,9 @@ the Dutch. Self-report throughout; no helping is measured.
 
 ## What it bears on
 
-QUESTION-300 asks for "a criterion of the self's extent that can
+[QUESTION-300](../questions.d/QUESTION-300.md) asks for "a criterion of the self's extent that can
 come apart from caring". Self-stereotyping, seeing oneself as like the
 average member, is a criterion fixed by perceived likeness, and here it
 separates from the investment components and predicts differently. The
 overlap circles, which the question lists as a candidate, fell on the
-investment side. CLAIM-492's note of 2026-10-29 records the same.
+investment side. [CLAIM-492](../claims.d/CLAIM-492.md)'s note of 2026-10-29 records the same.

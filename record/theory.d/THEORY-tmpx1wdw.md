@@ -21,10 +21,10 @@ source:
 - LIT-1699
 summary: >-
   A short review by Aron's group, with no new data, read in full in
-  NOTE-1276. Overlap goes with treating a partner's outcomes and
+  [NOTE-1276](../notes.d/NOTE-1276.md). Overlap goes with treating a partner's outcomes and
   standing as one's own, for good and ill. The cognitive signs of
   inclusion, unlike the scale, concern the processing of one's own
-  self-concept. Filed from NOTE-1276.
+  self-concept. Filed from [NOTE-1276](../notes.d/NOTE-1276.md).
 bears_on:
 - QUESTION-300
 ---
@@ -45,7 +45,7 @@ is expanding one's own efficacy by acquiring the partner's resources.
 
 ## Evidence
 
-Reported, not presented (NOTE-1276): two cited studies of cognitive
+Reported, not presented ([NOTE-1276](../notes.d/NOTE-1276.md)): two cited studies of cognitive
 signs (slower "me/not-me" judgements, memory confusions), an
 independent validation of the scale (Gächter et al. 2015), and single
 correlational studies tying overlap to positive regard for a partner
@@ -54,7 +54,7 @@ honour-endorsing men's aggression toward a partner's moral violation.
 
 ## What it bears on
 
-QUESTION-300 names "perceived overlap (Aron's
+[QUESTION-300](../questions.d/QUESTION-300.md) names "perceived overlap (Aron's
 inclusion-of-other-in-self scale)" as a candidate "criterion of the
 self's extent that can come apart from caring". The review reports the
 scale validated as closeness, which is close to caring, and offers the

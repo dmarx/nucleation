@@ -21,7 +21,7 @@ date: '2026-11-11'
 source:
 - LIT-1681
 summary: >-
-  Gardiner (2006), read in full (NOTE-1252). A short programmatic paper:
+  Gardiner (2006), read in full ([NOTE-1252](../notes.d/NOTE-1252.md)). A short programmatic paper:
   the Pure Intergenerational Problem is drawn from his 2003 paper, which
   the record does not hold, and seven of the eight corruption strategies
   are only named. It concerns why policy is hard to make, not what a just
@@ -59,15 +59,15 @@ or, perhaps more importantly, to itself" (pp. 408–409).
 
 An argument, not a study. The global and intergenerational models are stated
 rather than derived here, generations are treated as unitary and
-non-overlapping, and the climate figures are of 2005 (NOTE-1252,
+non-overlapping, and the climate figures are of 2005 ([NOTE-1252](../notes.d/NOTE-1252.md),
 Limitations). That the intergenerational problem dominates is "in my view"
 (p. 405); that theory itself may be corrupted is offered as "a very
 unpleasant thought" (p. 408).
 
 ## What it bears on
 
-QUESTION-299 names this work as one of the lines that keep it open:
-"Gardiner's storm (LIT-1681). Each generation gains from deferring costs to
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work as one of the lines that keep it open:
+"Gardiner's storm ([LIT-1681](../literature.d/LIT-1681.md)). Each generation gains from deferring costs to
 the next, which cannot retaliate." Its note of 2026-10-29 reads it as
 explaining "why what is owed goes unpaid". The reading is a premise of the
 question's practical form, not an answer to what is owed.

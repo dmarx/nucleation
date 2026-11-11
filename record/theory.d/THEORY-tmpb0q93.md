@@ -21,11 +21,11 @@ date: '2026-11-11'
 source:
 - LIT-1703
 summary: >-
-  A theoretical review, read in full in NOTE-1275, with thin primary
+  A theoretical review, read in full in [NOTE-1275](../notes.d/NOTE-1275.md), with thin primary
   evidence: several central studies were unpublished, and nationality
   stands in for construal. It names "a self defined in relationship to
   others" as an alternative to selfishness and selflessness, and reads
-  the resulting action as possibly altruistic. Filed from NOTE-1275.
+  the resulting action as possibly altruistic. Filed from [NOTE-1275](../notes.d/NOTE-1275.md).
 bears_on:
 - QUESTION-300
 ---
@@ -50,7 +50,7 @@ one's own under watched reciprocity (p. 229). Other-focused emotions
 
 ## Evidence
 
-From NOTE-1275: cross-national contrasts in person description,
+From [NOTE-1275](../notes.d/NOTE-1275.md): cross-national contrasts in person description,
 attribution, self-description, emotion and self-enhancement (for
 example, American students placed on average 30% of peers above
 themselves, Japanese about 50%). Only Kitayama and Markus's emotion
@@ -58,10 +58,10 @@ study measures construal in individuals, and it gives no sample size.
 
 ## What it bears on
 
-QUESTION-300 cites this work for selves "construed
+[QUESTION-300](../questions.d/QUESTION-300.md) cites this work for selves "construed
 interdependently", one of the accounts on which selves are more or less
 inclusive. The paper supports that premise in its own words, names the
 middle position between selfishness and selflessness, and reads the
-action as other-oriented rather than self-interested. CLAIM-491
+action as other-oriented rather than self-interested. [CLAIM-491](../claims.d/CLAIM-491.md)
 grounds on the work itself; its note of 2026-10-29 records the
 reading.

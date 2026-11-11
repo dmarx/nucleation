@@ -21,7 +21,7 @@ source:
 - LIT-1749
 summary: >-
   Caviola et al. (2022), nine experiments with US online samples, read in
-  full from the preprint (NOTE-1267), not compared with the version in
+  full from the preprint ([NOTE-1267](../notes.d/NOTE-1267.md)), not compared with the version in
   Cognition. The judgements are axiological, about which world is better,
   not about what anyone must do, and Studies 2a–b, which carry the result
   against neutrality, were not pre-registered.
@@ -62,13 +62,13 @@ Discussion). That is not tested.
 
 The reading lists discrepancies in the preprint, among them an abstract N
 that does not match the studies and a printed effect size equal to its mean
-(NOTE-1267, Limitations). None changes the direction of a result above.
+([NOTE-1267](../notes.d/NOTE-1267.md), Limitations). None changes the direction of a result above.
 
 ## What it bears on
 
-QUESTION-299 cites this work under how far concern reaches: "It counts
+[QUESTION-299](../questions.d/QUESTION-299.md) cites this work under how far concern reaches: "It counts
 adding happy people as good, against the person-affecting view (Caviola et
-al., LIT-1749)." Its note of 2026-10-29 adds that "the preference fades with
+al., [LIT-1749](../literature.d/LIT-1749.md))." Its note of 2026-10-29 adds that "the preference fades with
 numbers: one billion were preferred to ten billion". The reading qualifies
 the citation: the finding is axiological, so a person-affecting view of
-obligation survives it (NOTE-1267, Connections).
+obligation survives it ([NOTE-1267](../notes.d/NOTE-1267.md), Connections).

@@ -24,7 +24,7 @@ source:
 - LIT-1774
 summary: >-
   Jawaid and Mansuy (2019), a short review from the laboratory behind the
-  MSUS mouse model (NOTE-1296). The proponents' side of QUESTION-297's
+  MSUS mouse model ([NOTE-1296](../notes.d/NOTE-1296.md)). The proponents' side of [QUESTION-297](../questions.d/QUESTION-297.md)'s
   germline route, which concedes the disputed steps. It does not engage
   the sceptics, mention germline reprogramming, or report effect sizes,
   and its own table calls the human studies intergenerational.
@@ -58,7 +58,7 @@ humans but initial results indicate that it is likely the case".
 
 ## Evidence
 
-The review (NOTE-1296): a survey of rodent studies, with Table 1 giving
+The review ([NOTE-1296](../notes.d/NOTE-1296.md)): a survey of rodent studies, with Table 1 giving
 generations affected but no effect sizes or replication record, and a few
 causal injection experiments, three on behaviour or stress hormones. The
 human evidence in Table 2 is, by the table's own title, intergenerational,
@@ -67,7 +67,7 @@ and nothing in it separates the germline from rearing; the one sperm study
 
 ## What it bears on
 
-QUESTION-297, the germline route. With the sceptical reviews, both sides
+[QUESTION-297](../questions.d/QUESTION-297.md), the germline route. With the sceptical reviews, both sides
 now agree on an intergenerational effect in mice and on the gaps: the
 bridge from experience to sperm, transmission past the first generation,
 and any human germline test. Its FKBP5 annotation records methylation

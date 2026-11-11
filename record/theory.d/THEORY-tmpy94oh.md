@@ -20,8 +20,8 @@ date: '2026-11-11'
 source:
 - LIT-1730
 summary: >-
-  Chen, Benjamin, Guo, Lai and Heine (2025), LIT-1730, read in
-  NOTE-1271 in place of Burke, Martens and Faucher (2010). 635 effects
+  Chen, Benjamin, Guo, Lai and Heine (2025), [LIT-1730](../literature.d/LIT-1730.md), read in
+  [NOTE-1271](../notes.d/NOTE-1271.md) in place of Burke, Martens and Faucher (2010). 635 effects
   give g = 0.81 uncorrected (about r = .37); selection models and
   WAAP-WLS give about r = .18; PET-PEESE finds no positive effect;
   p-curve finds evidential value at 25% average power; z-curve's
@@ -62,9 +62,9 @@ the mechanism theorized for it.
 
 ## What it bears on
 
-QUESTION-301's "Death and the group" strand rests on terror management
+[QUESTION-301](../questions.d/QUESTION-301.md)'s "Death and the group" strand rests on terror management
 theory, and its note of 2026-10-29 records that "Terror management is
-weaker support (Many Labs 4, NOTE-1322; Chen et al., NOTE-1271)" and
+weaker support (Many Labs 4, [NOTE-1322](../notes.d/NOTE-1322.md); Chen et al., [NOTE-1271](../notes.d/NOTE-1271.md))" and
 that corrected for publication bias "the meta-analytic effect falls from
 about r = .35 to about .18, or to nothing". The reading is that
 evidence.

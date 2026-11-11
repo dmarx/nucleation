@@ -22,7 +22,7 @@ date: '2026-11-11'
 source:
 - LIT-1753
 summary: >-
-  Tarsney (2023), read in full from the 2022 working paper (NOTE-1247),
+  Tarsney (2023), read in full from the 2022 working paper ([NOTE-1247](../notes.d/NOTE-1247.md)),
   not compared with the Synthese text. He grants longtermism its normative
   frame and errs against it on every empirical input. The case survives,
   and the challenge is "serious" but "not fatal"; on some worldviews it
@@ -68,17 +68,17 @@ increase in EV(L)" (p. 25).
 
 The inputs are guesses chosen to be conservative, the credence floors are
 "unavoidably subjective" (p. 29), and only precise probabilism and
-persistent-difference strategies are modelled (NOTE-1247, Limitations).
+persistent-difference strategies are modelled ([NOTE-1247](../notes.d/NOTE-1247.md), Limitations).
 
 ## What it bears on
 
-QUESTION-299 names this work under one of the lines that keep it open:
-"Whether longtermism can guide action. Tarsney (LIT-1753) on how fast our
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work under one of the lines that keep it open:
+"Whether longtermism can guide action. Tarsney ([LIT-1753](../literature.d/LIT-1753.md)) on how fast our
 predictable influence decays". Its note of 2026-10-29 says "Tarsney calls
 the epistemic challenge 'not fatal'". The reading bears on the impersonal
 ground's action-guidance without answering what is owed.
 
 The reading also offers a confound for the question's psychological test
-(NOTE-1247, Bearing on the record): concern that fades with time may track a
+([NOTE-1247](../notes.d/NOTE-1247.md), Bearing on the record): concern that fades with time may track a
 rational discount for the hazard that an effect is undone, with no reference
 to the self.

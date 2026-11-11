@@ -22,7 +22,7 @@ source:
 - LIT-1761
 summary: >-
   Ord's chapter in Essays on Longtermism, read in full from the author's
-  version (NOTE-1269), in place of The Precipice. Its aim is "not to argue
+  version ([NOTE-1269](../notes.d/NOTE-1269.md)), in place of The Precipice. Its aim is "not to argue
   for longtermism, but to develop a technique for comparing different ways
   of shaping the longterm future" (p. 7). The results are derived within
   an idealised model; the empirical aside that people do not discount
@@ -58,12 +58,12 @@ achievable" (p. 29).
 Derivation within the model, with stated approximations; diagrams are
 deliberately not to scale and the changes marginal and idealised. Risk after
 t = 0 is set aside, which is where Tarsney's and Thorstad's objections live
-(NOTE-1269, Connections). The framework is silent, by its own statement, on
+([NOTE-1269](../notes.d/NOTE-1269.md), Connections). The framework is silent, by its own statement, on
 morality unrelated to value (p. 4).
 
 ## What it bears on
 
-QUESTION-299's note of 2026-10-29 reads this work, with NOTE-1317 and a
+[QUESTION-299](../questions.d/QUESTION-299.md)'s note of 2026-10-29 reads this work, with [NOTE-1317](../notes.d/NOTE-1317.md) and a
 paper by MacAskill, Thomas and Vallinder, under "The impersonal ground's
 accounting", in which "nothing about anyone's self enters". It also reports
 Ord's aside that people discount benefits to future generations no more than

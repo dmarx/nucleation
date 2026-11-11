@@ -22,10 +22,10 @@ source:
 - LIT-1735
 summary: >-
   Five preliminary studies and three two-wave experiments with Spanish
-  students and adults, read in full in NOTE-1256. Fusion, the self drawn
+  students and adults, read in full in [NOTE-1256](../notes.d/NOTE-1256.md). Fusion, the self drawn
   wholly inside the group, is bimodal, related to but distinct from
   identification and specific to one group. Outcomes are self-reported
-  intentions; nobody fought or died. Filed from NOTE-1256.
+  intentions; nobody fought or died. Filed from [NOTE-1256](../notes.d/NOTE-1256.md).
 bears_on:
 - QUESTION-300
 ---
@@ -46,7 +46,7 @@ They call dying for the group "not in the individual's self-interest".
 
 ## Evidence
 
-From NOTE-1256:
+From [NOTE-1256](../notes.d/NOTE-1256.md):
 
 - Fusion was bimodal (40.5% chose the fully overlapping option),
   correlated .42 to .56 with Mael and Ashforth's identification scale,
@@ -66,10 +66,10 @@ Spanish.
 
 ## What it bears on
 
-QUESTION-300 names identity fusion among the accounts on which
+[QUESTION-300](../questions.d/QUESTION-300.md) names identity fusion among the accounts on which
 selves "can be more or less inclusive", and lists fusion as a candidate
 "criterion of the self's extent that can come apart from caring". The
 paper measures fusion by perceived overlap, apart from identification,
-but never measures caring separately. CLAIM-491, which answers the
+but never measures caring separately. [CLAIM-491](../claims.d/CLAIM-491.md), which answers the
 question, grounds on the work itself; its note of 2026-10-29 records
 what the reading supports and qualifies.

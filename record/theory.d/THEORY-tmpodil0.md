@@ -21,7 +21,7 @@ date: '2026-11-11'
 source:
 - LIT-1702
 summary: >-
-  Hershfield (2011), LIT-1702, read in NOTE-1259 from the accepted
+  Hershfield (2011), [LIT-1702](../literature.d/LIT-1702.md), read in [NOTE-1259](../notes.d/NOTE-1259.md) from the accepted
   manuscript. Following Parfit, future self-continuity has three
   proposed components, similarity, vividness and positivity, each
   measured or manipulated in studies of saving and discounting. Apart
@@ -69,14 +69,14 @@ rewards" (ibid.).
 
 ## What it bears on
 
-QUESTION-301 cites this review because it "measures continuity with
+[QUESTION-301](../questions.d/QUESTION-301.md) cites this review because it "measures continuity with
 one's future self with overlapping circles ... That makes prudence an
 instance of the thesis's shape", and its note of 2026-10-29 says the
 self over time "is measured as the thesis needs". The reading is that
 evidence, with its limit: the caring null comes from answers near
 ceiling.
 
-QUESTION-299 uses the finding as a premise: if concern for future
+[QUESTION-299](../questions.d/QUESTION-299.md) uses the finding as a premise: if concern for future
 generations does not fade with delay, then "concern for future people
 does not fade with distance as concern for one's own future does
-(Hershfield, NOTE-1259)".
+(Hershfield, [NOTE-1259](../notes.d/NOTE-1259.md))".

@@ -21,11 +21,11 @@ date: '2026-11-11'
 source:
 - LIT-1780
 summary: >-
-  A qualitative review of over 40 studies, read in full in NOTE-1278: 18
+  A qualitative review of over 40 studies, read in full in [NOTE-1278](../notes.d/NOTE-1278.md): 18
   experiments for and 13 against the first corollary, 7 for and 28
   against the second, with no effect sizes. Only two studies measured
   esteem for the group itself, and both support the motive. Filed from
-  NOTE-1278.
+  [NOTE-1278](../notes.d/NOTE-1278.md).
 bears_on:
 - QUESTION-300
 ---
@@ -47,13 +47,13 @@ measures, overlap (pp. 23–24).
 
 ## Evidence
 
-A vote count without effect sizes (NOTE-1278); only one of eight full
+A vote count without effect sizes ([NOTE-1278](../notes.d/NOTE-1278.md)); only one of eight full
 tests supports both corollaries. Some esteem gains only restore what
 categorization lowered.
 
 ## What it bears on
 
-QUESTION-300 asks whether apparently selfless action is "just
+[QUESTION-300](../questions.d/QUESTION-300.md) asks whether apparently selfless action is "just
 self-interest on an enlarged self". The self-esteem hypothesis is social
 identity theory's version of that claim for group-serving action. The
 review finds the benefit to the self more often than the motive, and

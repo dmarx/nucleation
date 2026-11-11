@@ -21,11 +21,11 @@ date: '2026-11-11'
 source:
 - LIT-1902
 summary: >-
-  Bencherki, Brummans and Vézy (2024), LIT-1902, read in NOTE-1484
+  Bencherki, Brummans and Vézy (2024), [LIT-1902](../literature.d/LIT-1902.md), read in [NOTE-1484](../notes.d/NOTE-1484.md)
   from the version of record. A methodological demand made in one
   paragraph of the discussion, argued by quotation rather than for.
   The other readings of the paper hold its account of agency and of
-  communication as transduction, not this demand. NOTE-1484 finds it
+  communication as transduction, not this demand. [NOTE-1484](../notes.d/NOTE-1484.md) finds it
   in tension with the paper's earlier treatment of the agential cut as
   "but an analytical choice" (p. 1357).
 bears_on:
@@ -50,13 +50,13 @@ researchers "individuate into" what they study the authors leave open.
 - The paper's own reanalysis is of a published excerpt of another
   author's ethnography (pp. 1359–1363), so it is not carried out in the
   way the demand asks.
-- NOTE-1484 notes that "Agency is a matter of perspective" (p. 1357)
+- [NOTE-1484](../notes.d/NOTE-1484.md) notes that "Agency is a matter of perspective" (p. 1357)
   sits uneasily with the realism of the later pages, and that the paper
   does not reconcile the two.
 
 ## What it bears on
 
-QUESTION-366 asks whether an inquiry needs the record of its own
+[QUESTION-366](../questions.d/QUESTION-366.md) asks whether an inquiry needs the record of its own
 development to know its object, "as Simondon's method and its
 organization-studies readers hold", and quotes this passage (p. 1366) as
 one of the two methodological demands it tests against what the record

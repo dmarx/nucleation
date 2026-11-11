@@ -22,7 +22,7 @@ date: '2026-11-11'
 source:
 - LIT-1693
 summary: >-
-  Sandoval-Obando et al. (2026), LIT-1693, read in NOTE-1260 in place
+  Sandoval-Obando et al. (2026), [LIT-1693](../literature.d/LIT-1693.md), read in [NOTE-1260](../notes.d/NOTE-1260.md) in place
   of McAdams and de St. Aubin (1992). Four items dropped for sampling
   adequacy, sixteen enter the analysis, fourteen appear in the final
   solution without comment. Three factors: Generative Inefficacy
@@ -53,15 +53,15 @@ Generative Action.
 - Action with Legacy .448 (95% CI .370–.538); Inefficacy with Action
   −.340 and with Legacy −.295 (p. 8). Reliability of factor scores .795
   to .863 (p. 9).
-- NOTE-1260 finds the number of factors chosen from scree, eigenvalues
+- [NOTE-1260](../notes.d/NOTE-1260.md) finds the number of factors chosen from scree, eigenvalues
   and the Hull method, which is exploratory, and the stated MSA rule
   inconsistent with the items removed.
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29: "A recent validation separates a
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29: "A recent validation separates a
 three-item "Legacy" factor from generative action (Sandoval-Obando et
-al., NOTE-1260), but its items are not printed." The question's first
+al., [NOTE-1260](../notes.d/NOTE-1260.md)), but its items are not printed." The question's first
 answer criterion asks for a measure of felt continuity with one's legacy
 that could be set against caring. This is a candidate such measure,
 unrun as a test, and whether its items concern outliving oneself or the

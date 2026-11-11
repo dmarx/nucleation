@@ -20,7 +20,7 @@ date: '2026-11-11'
 source:
 - LIT-1784
 summary: >-
-  Cottingham (2014), LIT-1784, read in NOTE-1306: a short NDPR review,
+  Cottingham (2014), [LIT-1784](../literature.d/LIT-1784.md), read in [NOTE-1306](../notes.d/NOTE-1306.md): a short NDPR review,
   the record's only report of the book's third lecture and
   commentaries. Its gloss of the book as "a more altruistic construal
   of the human condition" runs against the Tanner text, which reads
@@ -54,8 +54,8 @@ unsettling".
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29 cites this review with the lectures
-("Scheffler is less hard a case than filed (NOTE-1298; NOTE-1306)"). It
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29 cites this review with the lectures
+("Scheffler is less hard a case than filed ([NOTE-1298](../notes.d/NOTE-1298.md); [NOTE-1306](../notes.d/NOTE-1306.md))"). It
 adds the third lecture's pairing, our own death for our values and
 others' lives after it for our confidence in them, and the two
 commentators' objections from either side of the question.

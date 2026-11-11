@@ -23,7 +23,7 @@ source:
 - LIT-1717
 summary: >-
   Wade-Benzoni, Sondak and Galinsky (2010), six small experiments, read in
-  full from the published version (NOTE-1273), in place of Wade-Benzoni
+  full from the published version ([NOTE-1273](../notes.d/NOTE-1273.md)), in place of Wade-Benzoni
   2006. The authors read the results as legacy concern, "the desire to
   extend the self into the future" (p. 26). Two printed p-values do not
   match their statistics, one of them the interaction behind Hypothesis 8.
@@ -57,13 +57,13 @@ about leaving a beneficial positive legacy" (p. 13).
 Experiments 1–3 measure attitudes and 4–6 allocations, so "legacy concern
 drives allocation" is inferred across studies. Experiment 4's F(1, 28) =
 10.58 is printed p < .001 (it is about .003), and Experiment 5's interaction
-F(1, 127) = 2.89 is printed p = .05 (about .09 two-tailed) (NOTE-1273,
+F(1, 127) = 2.89 is printed p = .05 (about .09 two-tailed) ([NOTE-1273](../notes.d/NOTE-1273.md),
 Limitations).
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29 cites the reading: "Wade-Benzoni's
-experiments (NOTE-1273) never measure legacy concern and generosity in the
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29 cites the reading: "Wade-Benzoni's
+experiments ([NOTE-1273](../notes.d/NOTE-1273.md)) never measure legacy concern and generosity in the
 same study. Two of their p-values do not match their statistics." The
 question asks whether legacy priming raises beneficence only through the
 wish to be remembered. The reading bears on its legacy-motivation evidence

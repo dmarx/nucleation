@@ -22,7 +22,7 @@ date: '2026-11-11'
 source:
 - LIT-1773
 summary: >-
-  Bostrom (2013), read in full from the published version (NOTE-1321). The
+  Bostrom (2013), read in full from the published version ([NOTE-1321](../notes.d/NOTE-1321.md)). The
   longtermist text that says most about motivation. Maxipok holds
   "whenever we act out of an impersonal concern for humankind as a whole",
   and Bostrom grants that "Unrestricted altruism is not so common" (p.
@@ -64,21 +64,21 @@ The risk estimates, 10–20% this century, are subjective, with one informal
 poll (p. 15, n. 1). The axiology is assumed, and the other perspectives are
 surveyed in a page. Scope insensitivity is cited to a review, and note 37's
 guess that concern would be the same under a guarantee against extinction is
-a conjecture (NOTE-1321, Limitations).
+a conjecture ([NOTE-1321](../notes.d/NOTE-1321.md), Limitations).
 
 ## What it bears on
 
-QUESTION-299 names this work under the impersonal ground ("Bostrom
-(LIT-1739, LIT-1773) and Ord (...) make reducing existential risk the
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work under the impersonal ground ("Bostrom
+([LIT-1739](../literature.d/LIT-1739.md), [LIT-1773](../literature.d/LIT-1773.md)) and Ord (...) make reducing existential risk the
 priority"), and its note of 2026-10-29 records: "In 2013 he finds 'a deficit
 of motivation', because the living capture only their own share of
 existential safety, and grants that 'Unrestricted altruism is not so
 common'."
 
-CLAIM-491's note of 2026-10-29, "the thesis in time", cites this reading as
+[CLAIM-491](../claims.d/CLAIM-491.md)'s note of 2026-10-29, "the thesis in time", cites this reading as
 evidence for the claim: "Bostrom grants the thesis its prediction
-(NOTE-1321). Concern for existential safety is undersupplied because people
+([NOTE-1321](../notes.d/NOTE-1321.md)). Concern for existential safety is undersupplied because people
 capture only their own share of it: concern reaches as far as the self's
 stake." The claim does not rest on it, so the reading corroborates the claim
-(ADR-058). It is weak support: the diagnosis is a public-goods argument and
+([ADR-058](../decisions.d/ADR-058.md)). It is weak support: the diagnosis is a public-goods argument and
 an untested claim about sentiment, and Bostrom says nothing about the self.

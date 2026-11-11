@@ -22,9 +22,9 @@ source:
 - LIT-1758
 summary: >-
   A reconstruction and defence of Husserl's empathy-based account of the
-  "we", read in full in NOTE-1289, against Heidegger and Schmid. The
+  "we", read in full in [NOTE-1289](../notes.d/NOTE-1289.md), against Heidegger and Schmid. The
   condition is formal, necessary and not sufficient, and Zahavi concedes
-  it covers only the face-to-face "we". Filed from NOTE-1289.
+  it covers only the face-to-face "we". Filed from [NOTE-1289](../notes.d/NOTE-1289.md).
 bears_on:
 - QUESTION-300
 ---
@@ -46,13 +46,13 @@ need more: "shared norms, values, emotions, goals etc." (p. 11).
 
 ## Evidence
 
-Exegesis and argument (NOTE-1289); the developmental findings against
+Exegesis and argument ([NOTE-1289](../notes.d/NOTE-1289.md)); the developmental findings against
 Schmid are cited, not analysed. The parallel with self-categorization
 theory's self-stereotyping is stated as "obvious" (p. 12).
 
 ## What it bears on
 
-QUESTION-300 names this paper for how one comes to see oneself as
+[QUESTION-300](../questions.d/QUESTION-300.md) names this paper for how one comes to see oneself as
 one of us. Its answer is through being addressed and taking over the
 addresser's view of oneself, and on it identification changes how one
 apprehends oneself rather than enlarging the self, for the face-to-face

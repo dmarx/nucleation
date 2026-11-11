@@ -22,9 +22,9 @@ source:
 - LIT-1783
 summary: >-
   A conceptual paper answering May's objection to the self–other merging
-  hypothesis, read in full in NOTE-1277. It sets Batson et al.'s 1997
+  hypothesis, read in full in [NOTE-1277](../notes.d/NOTE-1277.md). It sets Batson et al.'s 1997
   rebuttal aside as out of scope, and on its constitutive reading
-  empathy always brings identification with it. Filed from NOTE-1277.
+  empathy always brings identification with it. Filed from [NOTE-1277](../notes.d/NOTE-1277.md).
 bears_on:
 - QUESTION-300
 ---
@@ -47,7 +47,7 @@ minimal groups (p. 5).
 
 ## Evidence
 
-Argument (NOTE-1277). Behavioural adequacy is an analogy with
+Argument ([NOTE-1277](../notes.d/NOTE-1277.md)). Behavioural adequacy is an analogy with
 minimal-group favouritism; Batson's results against merging are not
 examined ("conducted experiments that cast doubt on SMH", p. 4). The
 reply on strangers infers identification from a similarity the empathy
@@ -55,7 +55,7 @@ itself creates.
 
 ## What it bears on
 
-QUESTION-300 asks whether any motivation aims at another's good and
+[QUESTION-300](../questions.d/QUESTION-300.md) asks whether any motivation aims at another's good and
 at the good of no self. The paper answers for empathic helping: it aims
 at another's good for its own sake and also at the good of a "we" the
 helper belongs to. It gives no measure of identification apart from

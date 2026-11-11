@@ -20,8 +20,8 @@ date: '2026-11-11'
 source:
 - LIT-1792
 summary: >-
-  Luper, SEP "Death" (revised 2026), LIT-1792, read in NOTE-1294 in
-  place of Pitcher (1984, LIT-1740), which the entry gives in two
+  Luper, SEP "Death" (revised 2026), [LIT-1792](../literature.d/LIT-1792.md), read in [NOTE-1294](../notes.d/NOTE-1294.md) in
+  place of Pitcher (1984, [LIT-1740](../literature.d/LIT-1740.md)), which the entry gives in two
   paragraphs. It also defends a compositional account of life and the
   loss-of-life account of death, rejects subsequentism, and sides with
   Williams's critics on immortality.
@@ -58,9 +58,9 @@ reputation untarnished (§6.2).
 
 ## What it bears on
 
-QUESTION-301 lists Pitcher's interests that outlast death as one of its
+[QUESTION-301](../questions.d/QUESTION-301.md) lists Pitcher's interests that outlast death as one of its
 three readings, and its note of 2026-10-29 says: "Pitcher's reading
-depends on the theory of welfare (Luper, SEP, NOTE-1294). Posthumous
+depends on the theory of welfare (Luper, SEP, [NOTE-1294](../notes.d/NOTE-1294.md)). Posthumous
 harm is the thwarting of desires held while alive, so legacy-seeking is
 self-interest with no extended self only on a desire-based theory of
 welfare." The reading is the record's source for that mechanism and its

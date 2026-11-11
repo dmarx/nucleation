@@ -24,7 +24,7 @@ source:
 summary: >-
   Syropoulos et al., thirteen studies and a preregistered experiment (N =
   3,175), read in full from the OSF preprint of 2023 without supplements
-  (NOTE-1293), in place of Syropoulos and Markowitz 2021; not compared
+  ([NOTE-1293](../notes.d/NOTE-1293.md)), in place of Syropoulos and Markowitz 2021; not compared
   with the published version. Outcomes are self-reported, measured minutes
   later; responsibility is not separated from caring, and nothing measures
   how far the self extends.
@@ -59,11 +59,11 @@ manipulation moved RFG without moving RCC, which the authors take to show
 
 Single items carry RFG in the early studies, the two responsibilities are
 never entered in one regression, and the discussion overstates two results
-the results section reports more weakly (NOTE-1293, Limitations).
+the results section reports more weakly ([NOTE-1293](../notes.d/NOTE-1293.md), Limitations).
 
 ## What it bears on
 
-QUESTION-299's note of 2026-10-29 cites the reading under "A fourth ground:
+[QUESTION-299](../questions.d/QUESTION-299.md)'s note of 2026-10-29 cites the reading under "A fourth ground:
 reciprocity": "Syropoulos et al. found that reflecting on past generations'
 sacrifices raised felt responsibility to future generations about as much as
 a legacy prompt did. A letter to one person born today raised it most, and

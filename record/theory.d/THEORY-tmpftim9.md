@@ -22,7 +22,7 @@ source:
 - LIT-1750
 summary: >-
   Wickersham et al. (2020), 988 American adults sampled evenly by age,
-  read in full with the supplements (NOTE-1316), in place of Zaval,
+  read in full with the supplements ([NOTE-1316](../notes.d/NOTE-1316.md)), in place of Zaval,
   Markowitz and Weber 2015, whose legacy task and scale it reuses. The
   eight-item Legacy Motivation Scale mixes wanting to be remembered with
   self-regard and felt responsibility to future generations, and only its
@@ -55,11 +55,11 @@ the authors grant both tasks may have moved "an underlying third element"
 
 Self-report and hypothetical giving; the legacy prompt lists the behaviours
 the intentions scale then asks about; several reported ranges and effects do
-not agree between text and supplement (NOTE-1316, Limitations).
+not agree between text and supplement ([NOTE-1316](../notes.d/NOTE-1316.md), Limitations).
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29 reads this work: "The effect replicates",
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29 reads this work: "The effect replicates",
 "The scale does not isolate the wish to be remembered", "A parallel route"
 through love of nature, and "The question's test is still untried. No
 condition varies whether anyone will know what one did." The reading bears

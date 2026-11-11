@@ -21,11 +21,11 @@ source:
 - LIT-1677
 summary: >-
   Two experiments with US undergraduates (N = 42, 73), read in full in
-  NOTE-1319, with cells of 13 to 25. The classic painting-preference
+  [NOTE-1319](../notes.d/NOTE-1319.md), with cells of 13 to 25. The classic painting-preference
   induction gave no reliable implicit effect; implicit and explicit
   measures correlated weakly; allocation favouritism tracked explicit
   identification (r = .37) and was carried mostly by one colour group.
-  Filed from NOTE-1319.
+  Filed from [NOTE-1319](../notes.d/NOTE-1319.md).
 bears_on:
 - QUESTION-300
 ---
@@ -44,7 +44,7 @@ group" (p. 95).
 
 ## Evidence
 
-From NOTE-1319: memorization against the classic procedure gave d up
+From [NOTE-1319](../notes.d/NOTE-1319.md): memorization against the classic procedure gave d up
 to 2.16 on the IATs. The identification IAT and the attitude IAT
 correlated .66 (Experiment 1) and .48 (Experiment 2); the explicit
 "I identify with" and "I like" items correlated .71 in both. Allocation
@@ -52,8 +52,8 @@ favouritism correlated with each measure at about .23 to .37.
 
 ## What it bears on
 
-QUESTION-300 asks for "a criterion of the self's extent that can
+[QUESTION-300](../questions.d/QUESTION-300.md) asks for "a criterion of the self's extent that can
 come apart from caring". The paper measures self–group association apart
 from liking: at the level of report the two nearly coincide, implicitly
 they come apart somewhat, and neither predicts allocation much better.
-CLAIM-492's note of 2026-10-29 records the same.
+[CLAIM-492](../claims.d/CLAIM-492.md)'s note of 2026-10-29 records the same.

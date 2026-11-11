@@ -26,9 +26,9 @@ source:
 - LIT-1685
 summary: >-
   Volkan (2021), a memorial lecture, read in place of his 2001 paper
-  (NOTE-1250). A restatement of large-group psychology, with no method,
+  ([NOTE-1250](../notes.d/NOTE-1250.md)). A restatement of large-group psychology, with no method,
   sample or contrary cases: every observation is the author's. It is the
-  named source of QUESTION-297's identity route, and its mechanism is
+  named source of [QUESTION-297](../questions.d/QUESTION-297.md)'s identity route, and its mechanism is
   parents depositing the identity in children, so on it the identity and
   parenting routes do not come apart.
 bears_on:
@@ -61,7 +61,7 @@ its stories are alive and it is mourned, not kept for revenge.
 
 ## Evidence
 
-The lecture (NOTE-1250), read in place of Volkan 2001. The evidence is
+The lecture ([NOTE-1250](../notes.d/NOTE-1250.md)), read in place of Volkan 2001. The evidence is
 the author's analyses, consultations and facilitated dialogues, told from
 memory, with one worked historical case (Kosovo). No method, sample,
 coding or comparison is reported, and nothing says how often a threatened
@@ -71,7 +71,7 @@ survivors and their offspring.
 
 ## What it bears on
 
-QUESTION-297, the identity route. What joins the descendant's self is a
+[QUESTION-297](../questions.d/QUESTION-297.md), the identity route. What joins the descendant's self is a
 shared image, which may be mythologized, not the ancestors' injury as it
 was. It is called up by a present threat and felt as grievance and
 entitlement rather than grief. And because it is deposited by parents and

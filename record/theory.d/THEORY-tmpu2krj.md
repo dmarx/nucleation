@@ -22,9 +22,9 @@ source:
 - LIT-1711
 summary: >-
   A brief review of the minimal group paradigm, read in full in
-  NOTE-1301, with no figures; most of the self-anchoring work is from
+  [NOTE-1301](../notes.d/NOTE-1301.md), with no figures; most of the self-anchoring work is from
   the author's circle. It is criticized as reciprocity, as projection,
-  and as limited to positive resources. Filed from NOTE-1301.
+  and as limited to positive resources. Filed from [NOTE-1301](../notes.d/NOTE-1301.md).
 bears_on:
 - QUESTION-300
 ---
@@ -48,11 +48,11 @@ they kept the most and favoured the in-group with the rest.
 
 Asserted from Tajfel et al. 1971, Brewer 1979 and Hewstone 2002, and
 from two studies of self-allocation from one lab, all without figures
-(NOTE-1301).
+([NOTE-1301](../notes.d/NOTE-1301.md)).
 
 ## What it bears on
 
-QUESTION-300 asks for "a criterion of the self's extent that can
+[QUESTION-300](../questions.d/QUESTION-300.md) asks for "a criterion of the self's extent that can
 come apart from caring". Projection of one's own traits onto the group
 is such a criterion, measured by self–group trait overlap, and Otten
 reports it predicts identification and bias. The self-allocation result

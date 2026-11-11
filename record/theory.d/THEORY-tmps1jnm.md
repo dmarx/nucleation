@@ -21,7 +21,7 @@ date: '2026-11-11'
 source:
 - LIT-1708
 summary: >-
-  Bird (2024), a Perspective (NOTE-1264). The only one of the record's
+  Bird (2024), a Perspective ([NOTE-1264](../notes.d/NOTE-1264.md)). The only one of the record's
   three sceptical readings to name the human trauma studies. It does not
   separate inter- from transgenerational effects, and it cites a larger
   Swedish cohort only for its failure to replicate, not for the effects
@@ -59,7 +59,7 @@ it is adaptive, and closes: "Of course, the answer may be no." (p. 5).
 
 ## Evidence
 
-The article (NOTE-1264): arguments from known mechanisms and from worm,
+The article ([NOTE-1264](../notes.d/NOTE-1264.md)): arguments from known mechanisms and from worm,
 yeast and mouse mutant studies, with new negative results (the Agouti diet
 effect failing to validate, a largely negative screen). The cultural
 objection to Överkalix is argued by analogy to Leningrad siege survivors'
@@ -68,7 +68,7 @@ does not analyse the paper.
 
 ## What it bears on
 
-QUESTION-297, the germline route. It names what is wrong with the two
+[QUESTION-297](../questions.d/QUESTION-297.md), the germline route. It names what is wrong with the two
 human cases the question cited, and its chief confound, families passing
 on habits, is itself one of the question's routes. Its account of the
 Swedish replication is one-sided, as the question's note of 2026-10-29

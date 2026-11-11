@@ -24,9 +24,9 @@ date: '2026-11-11'
 source:
 - LIT-1789
 summary: >-
-  Eyerman (2001), chapter 1 only (NOTE-1246); chapters 2–6, which hold the
+  Eyerman (2001), chapter 1 only ([NOTE-1246](../notes.d/NOTE-1246.md)); chapters 2–6, which hold the
   historical evidence, are unread. A framework, not a finding: the chapter
-  reports no data. It bears on QUESTION-297's identity route, which it
+  reports no data. It bears on [QUESTION-297](../questions.d/QUESTION-297.md)'s identity route, which it
   states plainly and changes in two ways: what passes is not distress, and
   it does not pass by descent.
 bears_on:
@@ -62,7 +62,7 @@ and it became a national trauma only with the civil rights movement
 
 ## Evidence
 
-The chapter itself (NOTE-1246), read from the publisher's sample. It
+The chapter itself ([NOTE-1246](../notes.d/NOTE-1246.md)), read from the publisher's sample. It
 reports no data. Its claims are definitions and a plan for the book; the
 historical argument is in chapters 2–6, unread. The account of the white
 reconciliation memory rests on historians it quotes. The chapter gives no
@@ -72,7 +72,7 @@ nothing about what members feel.
 
 ## What it bears on
 
-QUESTION-297, the identity route. On this account what passes is a change
+[QUESTION-297](../questions.d/QUESTION-297.md), the identity route. On this account what passes is a change
 in what a group takes itself to be, not distress. It passes through a
 category, so that anyone placed in the category takes the past on,
 whether or not descended from those who suffered. And the trigger was a

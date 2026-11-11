@@ -22,9 +22,9 @@ date: '2026-11-11'
 source:
 - LIT-1776
 summary: >-
-  Levin and Shomrat (2013), LIT-1776, read in NOTE-1283 (marked
+  Levin and Shomrat (2013), [LIT-1776](../literature.d/LIT-1776.md), read in [NOTE-1283](../notes.d/NOTE-1283.md) (marked
   Skimmed for its thinness, read in full) in place of Shomrat and
-  Levin 2013 (LIT-1732). An automated device trained 12 worms at a
+  Levin 2013 ([LIT-1732](../literature.d/LIT-1732.md)). An automated device trained 12 worms at a
   time, around the clock, scored by computer, to meet the objections
   to McConnell's hand-run work. No numbers, methods or controls are
   given, and the store is said to be unknown.
@@ -56,9 +56,9 @@ know where and how the memory is encoded in the body."
 
 ## What it bears on
 
-QUESTION-302 names the planarian result and its reminder, and its note
+[QUESTION-302](../questions.d/QUESTION-302.md) names the planarian result and its reminder, and its note
 of 2026-10-29 records that "The planarian result is weaker than filed
-(Levin and Shomrat's post, NOTE-1283)": until the refresher control is
+(Levin and Shomrat's post, [NOTE-1283](../notes.d/NOTE-1283.md))": until the refresher control is
 reported, the case shows that something outlasts the head, not yet that
 a memory does. The reading holds the authors' answer to what carries it
 across, something outside the head, which they say they cannot yet

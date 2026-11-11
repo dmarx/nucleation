@@ -23,8 +23,8 @@ date: '2026-11-11'
 source:
 - LIT-1762
 summary: >-
-  Horsthemke (2018), a Comment (NOTE-1265). A design argument, not a
-  finding: it explains why QUESTION-297's test of separating the germline
+  Horsthemke (2018), a Comment ([NOTE-1265](../notes.d/NOTE-1265.md)). A design argument, not a
+  finding: it explains why [QUESTION-297](../questions.d/QUESTION-297.md)'s test of separating the germline
   from uterine, parenting and cultural routes cannot yet be run in
   humans. Its view that cultural transmission outweighs epigenetic
   inheritance is stated as opinion, with no evidence for the comparison.
@@ -59,7 +59,7 @@ now, I remain skeptical."
 
 ## Evidence
 
-The Comment (NOTE-1265): an argument from design, three cited family
+The Comment ([NOTE-1265](../notes.d/NOTE-1265.md)): an argument from design, three cited family
 studies of secondary epimutations, and two rodent examples. The claim that
 reported effects are almost all deleterious is open to the reporting bias
 the author grants. The comparison with cultural transmission is opinion.
@@ -68,7 +68,7 @@ discussed.
 
 ## What it bears on
 
-QUESTION-297's test on the routes. It is the reading behind the
+[QUESTION-297](../questions.d/QUESTION-297.md)'s test on the routes. It is the reading behind the
 question's note that the first test is, for now, the second answer the
 question allows: no clean separation is achievable in humans. Adoptee and
 paternal-only designs weaken the confounds without removing them.

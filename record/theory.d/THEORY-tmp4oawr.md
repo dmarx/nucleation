@@ -22,7 +22,7 @@ date: '2026-11-11'
 source:
 - LIT-1796
 summary: >-
-  Klein et al. (2022), Many Labs 4, LIT-1796, read in NOTE-1322
+  Klein et al. (2022), Many Labs 4, [LIT-1796](../literature.d/LIT-1796.md), read in [NOTE-1322](../notes.d/NOTE-1322.md)
   alongside Chen et al. A preregistered replication of Study 1 of
   Greenberg et al. (1994; d = 1.34, N = 59), with labs assigned to an
   author-advised or an in-house protocol. No heterogeneity across labs
@@ -56,8 +56,8 @@ little support for this key finding of TMT" (Discussion).
 
 ## What it bears on
 
-QUESTION-301's note of 2026-10-29: "Terror management is weaker support
-(Many Labs 4, NOTE-1322; Chen et al., NOTE-1271). Seventeen labs (N =
+[QUESTION-301](../questions.d/QUESTION-301.md)'s note of 2026-10-29: "Terror management is weaker support
+(Many Labs 4, [NOTE-1322](../notes.d/NOTE-1322.md); Chen et al., [NOTE-1271](../notes.d/NOTE-1271.md)). Seventeen labs (N =
 1,550) found no mortality-salience effect: g = 0.07, 95% CI [−0.03,
 0.17]." The reading is that evidence for the question's "Death and the
 group" strand.

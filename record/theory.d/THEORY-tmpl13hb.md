@@ -21,7 +21,7 @@ date: '2026-11-11'
 source:
 - LIT-1707
 summary: >-
-  Blackiston, Shomrat and Levin (2015), LIT-1707, read in NOTE-1258. A
+  Blackiston, Shomrat and Levin (2015), [LIT-1707](../literature.d/LIT-1707.md), read in [NOTE-1258](../notes.d/NOTE-1258.md). A
   perspective with no new data. It calls the insect mechanism unsolved
   and the mushroom-body account indirect, and describes the lobe the
   2008 moth paper relied on as partly pruned. Its non-synaptic
@@ -62,12 +62,12 @@ coupled through bioelectric signalling among non-neural cells.
   reconsolidation, the reported need for continual PKMζ activity, and
   one Aplysia study.
 
-NOTE-1258 records citation errors and a survey that mentions replication
+[NOTE-1258](../notes.d/NOTE-1258.md) records citation errors and a survey that mentions replication
 failures without weighing them.
 
 ## What it bears on
 
-QUESTION-302 cites this perspective as collecting such cases, and its
+[QUESTION-302](../questions.d/QUESTION-302.md) cites this perspective as collecting such cases, and its
 note of 2026-10-29 records that "What carries it is still open" on this
 reading. The perspective lists the candidate carriers the question asks
 about, mushroom-body neurons, neoblasts, non-coding RNA and bioelectric

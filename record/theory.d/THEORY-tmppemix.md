@@ -23,7 +23,7 @@ source:
 - LIT-1768
 summary: >-
   Parfit's last paper (2017), read in full and unfinished by the editor's
-  note (NOTE-1263). It keeps the No Difference View, retracts his 1984
+  note ([NOTE-1263](../notes.d/NOTE-1263.md)). It keeps the No Difference View, retracts his 1984
   appeal to an impersonal principle, and offers a person-affecting one in
   its place. Benefits to future people are owed to whoever will exist,
   which our choices decide.
@@ -61,14 +61,14 @@ successors might together wreck the Earth" (p. 149).
 
 Argument on stipulated cases, with equal benefits per year and no other
 differences (p. 140). The solution depends on existential benefit, which is
-contested (NOTE-1263, Limitations). The draft lacked a conclusion; material
+contested ([NOTE-1263](../notes.d/NOTE-1263.md), Limitations). The draft lacked a conclusion; material
 was "to be added" at two places, and Parfit grants the last section does not
 show the Repugnant Conclusion can be avoided (p. 157).
 
 ## What it bears on
 
-QUESTION-299 names this work under the good of future people: "The
-non-identity problem (Parfit, LIT-1768; ...) makes even harms to actual
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work under the good of future people: "The
+non-identity problem (Parfit, [LIT-1768](../literature.d/LIT-1768.md); ...) makes even harms to actual
 future people hard to state". Its note of 2026-10-29 reads it as "the good
 of future people, without anyone in particular". The reading offers a
 person-affecting ground for what is owed, and leaves open the question's

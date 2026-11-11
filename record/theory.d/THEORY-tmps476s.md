@@ -20,11 +20,11 @@ date: '2026-11-11'
 source:
 - LIT-1719
 summary: >-
-  One experiment, read in full in NOTE-1297. The bias came entirely from
+  One experiment, read in full in [NOTE-1297](../notes.d/NOTE-1297.md). The bias came entirely from
   rating Italians higher; identification and entitativity mediated it
   through their shared variance, with marginal Sobel tests. The authors'
   account of a self extended beyond death is a conjecture they do not
-  test. Filed from NOTE-1297.
+  test. Filed from [NOTE-1297](../notes.d/NOTE-1297.md).
 bears_on:
 - QUESTION-301
 ---
@@ -45,15 +45,15 @@ from terror management's worldview defence (p. 141).
 
 ## Evidence
 
-N = 48 (NOTE-1297): identification rose at p ≈ .03 and entitativity at
+N = 48 ([NOTE-1297](../notes.d/NOTE-1297.md)): identification rose at p ≈ .03 and entitativity at
 p < .05 (5.40 against 4.77); the bias was in-group enhancement, not
 out-group derogation. Identification is six verbal items; no overlap or
 fusion measure. The mortality-salience effect the study builds on
-failed to replicate in Many Labs 4 (NOTE-1322).
+failed to replicate in Many Labs 4 ([NOTE-1322](../notes.d/NOTE-1322.md)).
 
 ## What it bears on
 
-QUESTION-301 cites this work for where, on terror management theory, the
+[QUESTION-301](../questions.d/QUESTION-301.md) cites this work for where, on terror management theory, the
 temporal and social extensions of the self meet, and its note of 2026-10-29 says the
 authors "state the join of the social and temporal self as a
 conjecture" and that their one experiment "measures no self". The

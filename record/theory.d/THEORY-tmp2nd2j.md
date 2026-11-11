@@ -22,8 +22,8 @@ date: '2026-11-11'
 source:
 - LIT-1778
 summary: >-
-  MacAskill, Thomas and Vallinder (2022), LIT-1778, read in NOTE-1300
-  in place of What We Owe the Future (LIT-1747). An accounting device
+  MacAskill, Thomas and Vallinder (2022), [LIT-1778](../literature.d/LIT-1778.md), read in [NOTE-1300](../notes.d/NOTE-1300.md)
+  in place of What We Owe the Future ([LIT-1747](../literature.d/LIT-1747.md)). An accounting device
   that assumes expected-value maximisation and additive features of
   value; it gives no theory of value and says nothing about who is
   moved by the value it counts.
@@ -57,7 +57,7 @@ value) of an event, compared to the relevant counterfactual" (pp. 1–2).
 
 ## What it bears on
 
-QUESTION-299 holds this reading as "The impersonal ground's accounting
-(MacAskill, Thomas and Vallinder, NOTE-1300 ...). Value is significance
+[QUESTION-299](../questions.d/QUESTION-299.md) holds this reading as "The impersonal ground's accounting
+(MacAskill, Thomas and Vallinder, [NOTE-1300](../notes.d/NOTE-1300.md) ...). Value is significance
 times persistence times contingency, and nothing about anyone's self
 enters." The reading is that premise.

@@ -21,8 +21,8 @@ date: '2026-11-11'
 source:
 - LIT-1734
 summary: >-
-  Botzung et al. (2010), LIT-1734, read in NOTE-1313 in place of
-  Talarico and Moore (LIT-1125). Twenty-three male Duke and UNC fans,
+  Botzung et al. (2010), [LIT-1734](../literature.d/LIT-1734.md), read in [NOTE-1313](../notes.d/NOTE-1313.md) in place of
+  Talarico and Moore ([LIT-1125](../literature.d/LIT-1125.md)). Twenty-three male Duke and UNC fans,
   an archived game watched three times, 64 clips recalled under fMRI a
   day later. Fan identification screened participants and was not
   varied. One game, one-day delay, small sample.
@@ -54,7 +54,7 @@ reflecting on emotionally intense plays" (Conclusions).
 
 ## What it bears on
 
-CASE-098 cites this work for the memory side of how a rivalry is handed
+[CASE-098](../cases.d/CASE-098.md) cites this work for the memory side of how a rivalry is handed
 on. No question or claim names it, and the question on rivalry (whether
 rival fans in fact return it) is not what the paper measures, so no
 relation is filed from here.

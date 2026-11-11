@@ -22,8 +22,8 @@ date: '2026-11-11'
 source:
 - LIT-1788
 summary: >-
-  Johnston (2023), LIT-1788, read in NOTE-1257 in place of Surviving
-  Death (LIT-1759). The book's surrogate for the resurrection hope,
+  Johnston (2023), [LIT-1788](../literature.d/LIT-1788.md), read in [NOTE-1257](../notes.d/NOTE-1257.md) in place of Surviving
+  Death ([LIT-1759](../literature.d/LIT-1759.md)). The book's surrogate for the resurrection hope,
   living on "in the onward rush of humankind" as a self fixed by
   future-directed attitudes, is given up because reductionist selves
   multiply bearers of moral status. Programmatic: many arguments are
@@ -70,10 +70,10 @@ shown actual (pp. 273–279, 308–309).
 
 ## What it bears on
 
-QUESTION-301 was opened by Surviving Death's good person who lives on in
+[QUESTION-301](../questions.d/QUESTION-301.md) was opened by Surviving Death's good person who lives on in
 humanity's onward rush, and its text records that "Johnston has since
-given that account of the self up (NOTE-1257)". The reading is the
+given that account of the self up ([NOTE-1257](../notes.d/NOTE-1257.md))". The reading is the
 record's source for that withdrawal and for its reason: a self whose
 extent is fixed by one's attitudes multiplies bearers of moral status.
-Whether a self enlarged across people or time, as CLAIM-491 has it,
+Whether a self enlarged across people or time, as [CLAIM-491](../claims.d/CLAIM-491.md) has it,
 inherits that problem is open; the paper does not raise it.

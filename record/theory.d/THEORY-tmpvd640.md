@@ -20,7 +20,7 @@ date: '2026-11-11'
 source:
 - LIT-1720
 summary: >-
-  Ord's talk of February 2024, posted July 2024, read in full (NOTE-1317)
+  Ord's talk of February 2024, posted July 2024, read in full ([NOTE-1317](../notes.d/NOTE-1317.md))
   in place of The Precipice. No references and no new numbers: directions
   of change only, and the overall one in six this century is not restated.
   Its use is as the author's restatement of the book's headline estimates.
@@ -53,11 +53,11 @@ seriousness of existential risk", then norms, treaties and governance.
 ## Evidence
 
 Ord's judgement on public events, with unsourced standard charts. The talk
-is dated to February 2024 (NOTE-1317, Limitations).
+is dated to February 2024 ([NOTE-1317](../notes.d/NOTE-1317.md), Limitations).
 
 ## What it bears on
 
-QUESTION-299's note of 2026-10-29 reads this work with NOTE-1269: "Ord's
+[QUESTION-299](../questions.d/QUESTION-299.md)'s note of 2026-10-29 reads this work with [NOTE-1269](../notes.d/NOTE-1269.md): "Ord's
 estimates are unchanged since the book. He reports that against Covid
 humanity united 'at first', then split within months, and his remedy is
 institutions, not identity." The reading bears on the empirical premise of

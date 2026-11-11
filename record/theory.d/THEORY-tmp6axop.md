@@ -22,7 +22,7 @@ source:
 - LIT-1763
 summary: >-
   Narveson's late restatement of the person-affecting view (2017), after
-  giving up utilitarianism, read in full (NOTE-1318) in place of his 1973
+  giving up utilitarianism, read in full ([NOTE-1318](../notes.d/NOTE-1318.md)) in place of his 1973
   paper. Its second half, on resources and climate, is polemical and rests
   on popular books. Why future good lives matter is given only through the
   living: parents', the benevolent's and others' interests.
@@ -56,12 +56,12 @@ Possible people are owed nothing (pp. 59–60).
 
 Argument from a comparative account of harm, which is assumed, not defended
 (p. 53). The scope of "actual persons" is left unclear: note 2 (p. 53)
-allows that "some of those persons are in the future" (NOTE-1318,
+allows that "some of those persons are in the future" ([NOTE-1318](../notes.d/NOTE-1318.md),
 Limitations).
 
 ## What it bears on
 
-QUESTION-299 names the person-affecting ground through Narveson (LIT-1769);
+[QUESTION-299](../questions.d/QUESTION-299.md) names the person-affecting ground through Narveson ([LIT-1769](../literature.d/LIT-1769.md));
 its note of 2026-10-29 reads this paper in its place: "Happy future lives
 are good and a reason to create them, but no one is owed them. Why they
 matter is said only through the living's likings and interests, so this

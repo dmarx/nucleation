@@ -20,11 +20,11 @@ date: '2026-11-11'
 source:
 - LIT-1737
 summary: >-
-  A critique of Unto Others, read in full in NOTE-1282. Stich rejects
+  A critique of Unto Others, read in full in [NOTE-1282](../notes.d/NOTE-1282.md). Stich rejects
   the arguments from imperfect belief–affect correlation, from the cost
   of strong affect and from redundancy, and answers the argument from
   fragile beliefs. It leaves egoism open, not shown true. Filed from
-  NOTE-1282.
+  [NOTE-1282](../notes.d/NOTE-1282.md).
 bears_on:
 - QUESTION-300
 ---
@@ -47,11 +47,11 @@ kin selection is silent about motive.
 ## Evidence
 
 Argument with counterexamples from other emotion systems; no model of
-costs (NOTE-1282).
+costs ([NOTE-1282](../notes.d/NOTE-1282.md)).
 
 ## What it bears on
 
-QUESTION-300 cites Hamilton's rule as "an evolutionary analogue of a
+[QUESTION-300](../questions.d/QUESTION-300.md) cites Hamilton's rule as "an evolutionary analogue of a
 self that extends to kin". Stich's independence of evolutionary and
 psychological altruism means kin selection bears on the question only by
 analogy. His division also tells the question's two readings apart: a

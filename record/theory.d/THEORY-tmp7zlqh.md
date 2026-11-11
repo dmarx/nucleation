@@ -21,9 +21,9 @@ source:
 - LIT-1705
 summary: >-
   The model's authors on deindividuation, online communities and
-  collective action, read in full in NOTE-1280. The evidence is cited,
+  collective action, read in full in [NOTE-1280](../notes.d/NOTE-1280.md). The evidence is cited,
   mostly without effect sizes, and much of it is the authors' own. Filed
-  from NOTE-1280.
+  from [NOTE-1280](../notes.d/NOTE-1280.md).
 bears_on:
 - QUESTION-300
 ---
@@ -45,7 +45,7 @@ out-group would punish.
 
 ## Evidence
 
-From NOTE-1280: Postmes and Spears's meta-analysis; Spears et al.
+From [NOTE-1280](../notes.d/NOTE-1280.md): Postmes and Spears's meta-analysis; Spears et al.
 (1990), anonymous groups polarizing toward the norm under group
 salience and away from it under personal salience; Reicher and Levine
 (1994) and Spears et al. (2002) on the strategic dimension; four studies
@@ -55,7 +55,7 @@ self-awareness; and Chan's donors, whose giving rose with salience
 
 ## What it bears on
 
-QUESTION-300 lists "salient self-categorization" as a candidate
+[QUESTION-300](../questions.d/QUESTION-300.md) lists "salient self-categorization" as a candidate
 "criterion of the self's extent that can come apart from caring". SIDE
 experiments fix the self's level by instruction, not by what
 participants value, and that level predicts the direction of influence.

@@ -23,11 +23,11 @@ date: '2026-11-11'
 source:
 - LIT-1746
 summary: >-
-  Dias and Ressler (2014), read in full (NOTE-1281). The best animal case
-  for QUESTION-297's germline route, and narrower than it is cited for:
+  Dias and Ressler (2014), read in full ([NOTE-1281](../notes.d/NOTE-1281.md)). The best animal case
+  for [QUESTION-297](../questions.d/QUESTION-297.md)'s germline route, and narrower than it is cited for:
   cue-specific sensitivity, not inherited fear. IVF offspring were tested
   for anatomy only, cross-fostering was done on the maternal line only,
-  and the proposed sperm mark rests on groups as small as four. QUESTION-302
+  and the proposed sperm mark rests on groups as small as four. [QUESTION-302](../questions.d/QUESTION-302.md)
   cites it for where an insect's learned aversion would pass to offspring.
 bears_on:
 - QUESTION-297
@@ -58,7 +58,7 @@ not claim to know what fraction" of sperm carry the information.
 
 ## Evidence
 
-The paper (NOTE-1281): double-blind automated behaviour with groups of 9
+The paper ([NOTE-1281](../notes.d/NOTE-1281.md)): double-blind automated behaviour with groups of 9
 to 16; blind anatomy, large and consistent across F1, F2, IVF and fostered
 offspring; no general anxiety or fear-learning differences. The sperm
 methylation difference is modest (P = 0.03 in F0, n = 12 against 10) and
@@ -67,10 +67,10 @@ not reported.
 
 ## What it bears on
 
-- QUESTION-297, the germline route: evidence for transmission of a
+- [QUESTION-297](../questions.d/QUESTION-297.md), the germline route: evidence for transmission of a
   cue-specific sensitivity, not of trauma or fear. What passes needs no
   representation of the parent, the event or a group, and cross-fostering
   shows rearing by a trained mother does not transfer it.
-- QUESTION-302, which names the work where a learned aversion in insects
+- [QUESTION-302](../questions.d/QUESTION-302.md), which names the work where a learned aversion in insects
   would pass to offspring: on this paper's showing, what passed would be
   heightened sensitivity to the odour, not the learned avoidance.

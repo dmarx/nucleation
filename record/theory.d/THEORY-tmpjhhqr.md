@@ -20,12 +20,12 @@ date: '2026-11-11'
 source:
 - LIT-1772
 summary: >-
-  A textbook chapter with no new evidence, read in full in NOTE-1315. It
+  A textbook chapter with no new evidence, read in full in [NOTE-1315](../notes.d/NOTE-1315.md). It
   states the needs a positive social identity serves in the individual's
   terms (certainty, self-esteem, meaning) and reports, without a source,
   that where identification's components are separated, commitment
   predicts behaviour better than self-categorization. Filed from
-  NOTE-1315.
+  [NOTE-1315](../notes.d/NOTE-1315.md).
 bears_on:
 - QUESTION-300
 ---
@@ -47,15 +47,15 @@ in-group raised children's helping of an immigrant classmate.
 
 ## Evidence
 
-Summaries without effect sizes (NOTE-1315). The self-esteem strand is
-contested elsewhere in the record (NOTE-1278). The common in-group result
+Summaries without effect sizes ([NOTE-1315](../notes.d/NOTE-1315.md)). The self-esteem strand is
+contested elsewhere in the record ([NOTE-1278](../notes.d/NOTE-1278.md)). The common in-group result
 is one two-study paper, with intentions and offers as outcomes.
 
 ## What it bears on
 
-QUESTION-300 needs "a criterion of the self's extent that is
+[QUESTION-300](../questions.d/QUESTION-300.md) needs "a criterion of the self's extent that is
 independent of what the agent cares about". Tajfel's definition puts
 caring into social identity itself; the theory's measures separate
 self-categorization from satisfaction and commitment; and the chapter
 reports that commitment, the caring component, predicts behaviour
-better. CLAIM-492's note of 2026-10-29 records the same.
+better. [CLAIM-492](../claims.d/CLAIM-492.md)'s note of 2026-10-29 records the same.

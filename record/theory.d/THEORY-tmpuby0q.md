@@ -23,7 +23,7 @@ source:
 summary: >-
   Schubert et al. (2019), Parfit's three outcomes put to laypeople, read
   in full from the publisher's PDF without the Supplementary Materials
-  (NOTE-1270). The results are forced choices on one task, asked only of
+  ([NOTE-1270](../notes.d/NOTE-1270.md)). The results are forced choices on one task, asked only of
   those who rank the outcomes as expected. Several printed χ² values in
   Study 2a do not match their counts; every difference stays significant.
 bears_on:
@@ -56,8 +56,8 @@ existential-risk mitigators judged extinction uniquely bad unprompted.
 
 ## What it bears on
 
-QUESTION-299 cites this work: "Lay judgement does not treat extinction as
+[QUESTION-299](../questions.d/QUESTION-299.md) cites this work: "Lay judgement does not treat extinction as
 uniquely bad unless the lost future is made salient (Schubert et al.,
-LIT-1748)." Its note of 2026-10-29 refines it: "A reminder of the lost
+[LIT-1748](../literature.d/LIT-1748.md))." Its note of 2026-10-29 refines it: "A reminder of the lost
 future brings this to about half; only a long, utopian future makes a
 majority (67–77%)." The reading bears on how far lay concern reaches.

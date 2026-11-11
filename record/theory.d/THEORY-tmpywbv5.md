@@ -21,7 +21,7 @@ source:
 - LIT-1739
 summary: >-
   Bostrom's Astronomical Waste (2003), read in full from the author's HTML
-  (NOTE-1314), not compared with the journal text. The figures are
+  ([NOTE-1314](../notes.d/NOTE-1314.md)), not compared with the journal text. The figures are
   speculative by Bostrom's own account, and the person-affecting section
   rests on a guessed chance of radical life extension. Two grounds sit
   side by side: an impersonal sum on the total view, the good of people
@@ -61,11 +61,11 @@ and on non-declining marginal utility of lifespan (§IV ¶4–5).
 
 ## What it bears on
 
-QUESTION-299 names this work under the impersonal ground ("Bostrom
-(LIT-1739, LIT-1773) and Ord (...) make reducing existential risk the
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work under the impersonal ground ("Bostrom
+([LIT-1739](../literature.d/LIT-1739.md), [LIT-1773](../literature.d/LIT-1773.md)) and Ord (...) make reducing existential risk the
 priority"), and its note of 2026-10-29 reads its person-affecting half as a
 further ground: "The living's own stake is a fourth ground (Bostrom 2003,
-NOTE-1314; ...). On Bostrom's person-affecting reading, avoiding catastrophe
+[NOTE-1314](../notes.d/NOTE-1314.md); ...). On Bostrom's person-affecting reading, avoiding catastrophe
 matters because people now alive might share the long future: literal
 self-interest." The reading bears on both grounds and on how their advice
 diverges.

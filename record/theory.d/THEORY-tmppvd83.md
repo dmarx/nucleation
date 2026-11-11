@@ -22,9 +22,9 @@ source:
 - LIT-1766
 summary: >-
   The common in-group identity model's authors on helping, read in full
-  in NOTE-1286, reviewing their own laboratory and field studies; sample
+  in [NOTE-1286](../notes.d/NOTE-1286.md), reviewing their own laboratory and field studies; sample
   sizes are not reported. The enlarged "we" that carries helping is the
-  majority's assimilationist one. Filed from NOTE-1286.
+  majority's assimilationist one. Filed from [NOTE-1286](../notes.d/NOTE-1286.md).
 bears_on:
 - QUESTION-300
 ---
@@ -45,7 +45,7 @@ attitudes did not.
 
 ## Evidence
 
-From NOTE-1286: a laboratory study (posters for an out-group member
+From [NOTE-1286](../notes.d/NOTE-1286.md): a laboratory study (posters for an out-group member
 rose to the in-group level); Nier et al. (2001), White fans at a stadium
 complying with a Black interviewer 59% of the time when he wore their
 university's hat against 36% when he did not; two studies of dual
@@ -54,7 +54,7 @@ condition falling from .46 to .35.
 
 ## What it bears on
 
-QUESTION-300 asks whether other-directed motivation survives once
+[QUESTION-300](../questions.d/QUESTION-300.md) asks whether other-directed motivation survives once
 the self's extent is controlled. Here the experimenter moves the
 category boundary, not what participants care about, and helping
 follows it, with empathy downstream of the identity. The common

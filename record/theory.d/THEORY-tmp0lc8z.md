@@ -22,7 +22,7 @@ date: '2026-11-11'
 source:
 - LIT-1922
 summary: >-
-  Bencherki and Iliadis (2019), LIT-1922, read in NOTE-1483 from the
+  Bencherki and Iliadis (2019), [LIT-1922](../literature.d/LIT-1922.md), read in [NOTE-1483](../notes.d/NOTE-1483.md) from the
   authors' manuscript. The fourth of the paper's four propositions
   (ms. pp. 21–22), stated without argument. The other readings of the
   paper hold its account of information, coexisting levels and
@@ -51,9 +51,9 @@ individuation through the fieldwork.
 
 ## What it bears on
 
-QUESTION-366 quotes proposition 4 as the second of the two
+[QUESTION-366](../questions.d/QUESTION-366.md) quotes proposition 4 as the second of the two
 methodological demands it tests: knowledge of an entity "should reflect
 on the way that knowledge itself has individuated", and notes that "The
 first author describes his own individuation through the fieldwork
-(NOTE-1483)." The reading is that demand, filed so the question can cite
+([NOTE-1483](../notes.d/NOTE-1483.md))." The reading is that demand, filed so the question can cite
 it.

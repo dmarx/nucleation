@@ -22,11 +22,11 @@ source:
 - LIT-1790
 summary: >-
   A textbook chapter (2020 preprint) with no new results, read in full
-  in NOTE-1251. It separates the cognitive step of self-categorization
+  in [NOTE-1251](../notes.d/NOTE-1251.md). It separates the cognitive step of self-categorization
   from identification, everything then attached to the category, and
   reports Ashmore et al.'s seven components, which "need not converge or
   correlate". It is thin on self-categorization theory's argument and
-  gives no effect sizes. Filed from NOTE-1251.
+  gives no effect sizes. Filed from [NOTE-1251](../notes.d/NOTE-1251.md).
 bears_on:
 - QUESTION-300
 ---
@@ -52,16 +52,16 @@ sufficient to explain negative intergroup attitudes and behaviour"
 
 ## Evidence
 
-Secondary throughout (NOTE-1251). The multidimensionality of
+Secondary throughout ([NOTE-1251](../notes.d/NOTE-1251.md)). The multidimensionality of
 identification rests on measurement reviews (Ashmore et al. 2004; Leach
 et al. 2008). The chapter says the self-esteem hypothesis "has received
 extensive empirical support", which Rubin and Hewstone's review, read
-in NOTE-1278, does not bear out. No effect sizes or replication status
+in [NOTE-1278](../notes.d/NOTE-1278.md), does not bear out. No effect sizes or replication status
 are given.
 
 ## What it bears on
 
-QUESTION-300 asks for "a criterion of the self's extent that can
+[QUESTION-300](../questions.d/QUESTION-300.md) asks for "a criterion of the self's extent that can
 come apart from caring", and names "salient self-categorization" among
 the candidates. The chapter holds that self-categorization and the
 evaluative and affective components of identification are distinct and

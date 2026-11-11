@@ -22,7 +22,7 @@ source:
 - LIT-1733
 summary: >-
   Ramsey (1928), read in full from a scan of the published article
-  (NOTE-1287). The founding text of optimal-growth theory and the
+  ([NOTE-1287](../notes.d/NOTE-1287.md)). The founding text of optimal-growth theory and the
   reference for refusing to discount the future for being later. The
   refusal is asserted, not argued, and the paper reintroduces discounting
   in its later sections; its planner is one community that "goes on for
@@ -63,11 +63,11 @@ catastrophes, no distribution, additive utility, a finite Bliss. The saving
 figure of £300 out of £500 rests on an invented utility scale, "put forward
 merely as an illustration" (pp. 548–549). The reading's own check finds the
 printed savings share on p. 555 may be a ratio to income consumed, checked
-once (NOTE-1287, Limitations); that formula is not part of this title.
+once ([NOTE-1287](../notes.d/NOTE-1287.md), Limitations); that formula is not part of this title.
 
 ## What it bears on
 
-QUESTION-299 names this work under the impersonal ground: "Ramsey (LIT-1733)
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work under the impersonal ground: "Ramsey ([LIT-1733](../literature.d/LIT-1733.md))
 refused to discount the future merely for being later." Its note of
 2026-10-29 files it under "The zero-discount view began as a collective
 self's prudence", and calls weakness of imagination "a psychological claim

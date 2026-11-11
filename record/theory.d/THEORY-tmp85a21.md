@@ -20,11 +20,11 @@ date: '2026-11-11'
 source:
 - LIT-1755
 summary: >-
-  Ratings of 71 teams in six conferences, read in full in NOTE-1292,
+  Ratings of 71 teams in six conferences, read in full in [NOTE-1292](../notes.d/NOTE-1292.md),
   validated against players and coaches (r = .89). Half the variance in
   rivalry (50.4%) was the pair; history mattered more than recent form;
   rival games drew bigger crowds and slightly better defence. Filed from
-  NOTE-1292.
+  [NOTE-1292](../notes.d/NOTE-1292.md).
 bears_on:
 - QUESTION-298
 ---
@@ -42,7 +42,7 @@ the model, similarity in all-time winning percentage drops out.
 
 ## Evidence
 
-From NOTE-1292: a round-robin design analysed with the social
+From [NOTE-1292](../notes.d/NOTE-1292.md): a round-robin design analysed with the social
 relations model, consistent across all six conferences; reciprocity
 r = .64 raw and .85 net of each team's general tendencies; where
 rivalry was one-sided, lower-status teams felt it toward higher-status
@@ -51,7 +51,7 @@ rivalry.
 
 ## What it bears on
 
-QUESTION-298 asks whether, when fans perceive their rivalry as
+[QUESTION-298](../questions.d/QUESTION-298.md) asks whether, when fans perceive their rivalry as
 reciprocated, the rival's fans in fact return it. Its note of 2026-10-29
 names this work as partial evidence: rivalry measured from both sides
 was largely returned, at the level of teams, not fans. It predicts

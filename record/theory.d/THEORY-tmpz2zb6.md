@@ -23,8 +23,8 @@ date: '2026-11-11'
 source:
 - LIT-1680
 summary: >-
-  Blackiston, Silva Casey and Weiss (2008), LIT-1680, read in
-  NOTE-1249. After fifth-instar odour-shock training, 78% of larvae (N
+  Blackiston, Silva Casey and Weiss (2008), [LIT-1680](../literature.d/LIT-1680.md), read in
+  [NOTE-1249](../notes.d/NOTE-1249.md). After fifth-instar odour-shock training, 78% of larvae (N
   = 41) and 77% of the moths they became (N = 27) avoided ethyl
   acetate, and 12 of 15 tracked individuals chose alike at both
   stages. Washing trained pupae or scenting naive ones changed
@@ -69,15 +69,15 @@ do not provide conclusive support for" surviving synaptic connections
 - Third-instar training: 81% avoidance in late fifth instar (N = 32);
   adults at chance (N = 15, p = 0.5), with no direct comparison to the
   fifth-instar adults (pp. 2, 4).
-- One species, one odour, one lab; NOTE-1249 lists caption and text
+- One species, one odour, one lab; [NOTE-1249](../notes.d/NOTE-1249.md) lists caption and text
   discrepancies in sample sizes.
 
 ## What it bears on
 
-QUESTION-302 names this paper as its example of a memory surviving
+[QUESTION-302](../questions.d/QUESTION-302.md) names this paper as its example of a memory surviving
 metamorphosis, and its note of 2026-10-29 reports the results above. The
 paper excludes residue on the pupa as the carrier, and its timing result
 places the carrier in something the larval molts keep and metamorphosis
-replaces. On NOTE-1249's reading, the moth is the same organism as the
+replaces. On [NOTE-1249](../notes.d/NOTE-1249.md)'s reading, the moth is the same organism as the
 caterpillar with a thin, timing-dependent psychological connection to
 it.

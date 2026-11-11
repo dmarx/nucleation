@@ -24,9 +24,9 @@ source:
 summary: >-
   Pembrey, Saffery and Bygren (2014), a position paper of the Network in
   Epigenetic Epidemiology, read in place of Pembrey et al. 2006
-  (NOTE-1320). About 100 probands per cohort, one population, no measured
+  ([NOTE-1320](../notes.d/NOTE-1320.md)). About 100 probands per cohort, one population, no measured
   family culture, and priors partly set after earlier results. It corrects
-  QUESTION-297's label: Överkalix is a male-line nutritional case, in
+  [QUESTION-297](../questions.d/QUESTION-297.md)'s label: Överkalix is a male-line nutritional case, in
   which good supply, not poor, went with higher grandchild mortality, and
   the authors leave the mechanism open.
 bears_on:
@@ -59,7 +59,7 @@ generation need germline involvement.
 
 ## Evidence
 
-The paper (NOTE-1320): historical harvest records linked to small cohorts
+The paper ([NOTE-1320](../notes.d/NOTE-1320.md)): historical harvest records linked to small cohorts
 in one population, with some confirmation across cohorts, ALSPAC smoking
 data, and one German discussion paper. The case against culture is argued
 from the pattern of timing and sex, not from measured cultural variables;
@@ -68,7 +68,7 @@ Several of the priors in Table 1 were set after earlier Överkalix results.
 
 ## What it bears on
 
-QUESTION-297, the germline route. Överkalix, cited there as a germline
+[QUESTION-297](../questions.d/QUESTION-297.md), the germline route. Överkalix, cited there as a germline
 trauma case, is a nutritional association in the male line, in which good
 supply, not poor, went with higher grandchild mortality. The authors
 measured no family culture and leave the mechanism open, so the case does

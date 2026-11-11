@@ -24,11 +24,11 @@ date: '2026-11-11'
 source:
 - LIT-1787
 summary: >-
-  Hirst, Cyr and Merck (2020), an essay with no new data (NOTE-1305). The
+  Hirst, Cyr and Merck (2020), an essay with no new data ([NOTE-1305](../notes.d/NOTE-1305.md)). The
   study of children's knowledge is Meyler et al. (2020), then in press,
   reported at second hand: correlational, its direction unknown, and it
   measures knowledge, not distress, through the family. The nearest thing
-  QUESTION-297 holds to its identity test, and short of it.
+  [QUESTION-297](../questions.d/QUESTION-297.md) holds to its identity test, and short of it.
 bears_on:
 - QUESTION-297
 ---
@@ -58,7 +58,7 @@ unknown.
 
 ## Evidence
 
-The essay (NOTE-1305): interpretive argument from Neisser and Alexander,
+The essay ([NOTE-1305](../notes.d/NOTE-1305.md)): interpretive argument from Neisser and Alexander,
 cross-group studies of flashbulb memory for specificity, and studies of
 confidence and accuracy for the authenticity claim. The intergenerational
 result is one correlational study, reported second hand and then in press.
@@ -67,7 +67,7 @@ community members to serve as authentic witnesses" (p. 609).
 
 ## What it bears on
 
-QUESTION-297, the identity route. It ties a group's memory of an injury to
+[QUESTION-297](../questions.d/QUESTION-297.md), the identity route. It ties a group's memory of an injury to
 its members' identification across a generation. It falls short of the
 question's test: it measures knowledge, not distress; the channel is the
 family; and the direction of the association is unknown.

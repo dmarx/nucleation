@@ -21,11 +21,11 @@ date: '2026-11-11'
 source:
 - LIT-1775
 summary: >-
-  A draft chapter, read in full in NOTE-1290. Group and interpersonal
+  A draft chapter, read in full in [NOTE-1290](../notes.d/NOTE-1290.md). Group and interpersonal
   attachment correlate only .46 (anxiety) and .33 (avoidance), and
   loneliness has relational and collective factors. Relational
   collectivism, obligation to particular persons, is set apart from
-  group-based collectivism. Filed from NOTE-1290.
+  group-based collectivism. Filed from [NOTE-1290](../notes.d/NOTE-1290.md).
 bears_on:
 - QUESTION-300
 ---
@@ -49,11 +49,11 @@ more with large, inclusive groups.
 
 Correlational measurement studies, gender differences and
 cross-cultural findings interpreted after the fact; no test of
-substitution (NOTE-1290).
+substitution ([NOTE-1290](../notes.d/NOTE-1290.md)).
 
 ## What it bears on
 
-QUESTION-300 asks how far "a self can extend to include others and
+[QUESTION-300](../questions.d/QUESTION-300.md) asks how far "a self can extend to include others and
 groups". Brewer states that premise in her own words and splits it:
 the relational and the collective extension are different selves, so
 an answer has to say which larger self it means. Her criteria of a

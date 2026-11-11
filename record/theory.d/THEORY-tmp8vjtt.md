@@ -21,7 +21,7 @@ date: '2026-11-11'
 source:
 - LIT-841
 summary: >-
-  Abramsky and Sadrzadeh (2014), LIT-841, read in NOTE-644 from the
+  Abramsky and Sadrzadeh (2014), [LIT-841](../literature.d/LIT-841.md), read in [NOTE-644](../notes.d/NOTE-644.md) from the
   arXiv preprint. Basic DRS only, with no Grothendieck topology and no
   condition on overlaps. All the interpretive work is in choosing the
   cover. Its probabilistic section places a distribution on candidate
@@ -59,17 +59,17 @@ gluing condition checks it. Ambiguity is a set of admissible covers.
 
 ## What it bears on
 
-QUESTION-026 calls this paper the meeting point between categorical
+[QUESTION-026](../questions.d/QUESTION-026.md) calls this paper the meeting point between categorical
 semantics and the record's transport: "The meeting point already exists.
-Abramsky and Sadrzadeh's Semantic Unification (LIT-841, NOTE-644) builds
+Abramsky and Sadrzadeh's Semantic Unification ([LIT-841](../literature.d/LIT-841.md), [NOTE-644](../notes.d/NOTE-644.md)) builds
 a presheaf of discourse representations and glues sentence meanings over
 a cover of anaphoric resolutions. ... Its obstruction to gluing is
 inconsistency of literals, not contextuality, and it has no transport."
 The reading is that premise, and it does not answer the question, which
 asks about transport.
 
-CLAIM-088 says that by 2014 "sheaf-structured meaning for discourse
-already existed: Abramsky and Sadrzadeh (LIT-841). Only the pragmatic
+[CLAIM-088](../claims.d/CLAIM-088.md) says that by 2014 "sheaf-structured meaning for discourse
+already existed: Abramsky and Sadrzadeh ([LIT-841](../literature.d/LIT-841.md)). Only the pragmatic
 and transport use of it remains for the manuscript to claim, which
 supports this claim's narrowing." The reading is independent evidence
 for that narrowing, which the claim does not rest on.

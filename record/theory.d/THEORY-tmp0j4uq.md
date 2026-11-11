@@ -22,7 +22,7 @@ source:
 - LIT-1688
 summary: >-
   Thorstad (2023), read in full from the GPI working paper, a penultimate
-  draft (NOTE-1308), not compared with the published version. The models
+  draft ([NOTE-1308](../notes.d/NOTE-1308.md)), not compared with the published version. The models
   are simple and use point estimates; the strongest argument for a time of
   perils, that advanced AI might end it, is set aside (fn. 7). He
   concludes that mitigation may be valuable "but perhaps not
@@ -61,12 +61,12 @@ discounting (§7).
 
 The proofs are in Appendices A–B. The text of §3.4 gives the 160v case as "a
 low 0.1% level of post-peril risk", where Table 2 and the formula give 0.01%
-(NOTE-1308, Limitations).
+([NOTE-1308](../notes.d/NOTE-1308.md), Limitations).
 
 ## What it bears on
 
-QUESTION-299 names this work under one of its open lines: "Thorstad
-(LIT-1688) on whether high existential risk lowers the value of reducing
+[QUESTION-299](../questions.d/QUESTION-299.md) names this work under one of its open lines: "Thorstad
+([LIT-1688](../literature.d/LIT-1688.md)) on whether high existential risk lowers the value of reducing
 it." Its note of 2026-10-29 records that "Thorstad shows that high
 existential risk lowers the value of reducing it unless risk soon falls and
 stays low". The reading bears on whether the impersonal ground can guide

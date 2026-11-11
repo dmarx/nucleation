@@ -23,10 +23,10 @@ source:
 - LIT-1745
 summary: >-
   Heard and Martienssen (2014), read from the accepted manuscript
-  (NOTE-1254). The definition the later debate uses, and the mechanistic
+  ([NOTE-1254](../notes.d/NOTE-1254.md)). The definition the later debate uses, and the mechanistic
   case against germline transmission in mammals. Human evidence is
   examined only for nutrition; trauma, Överkalix and the Holocaust studies
-  are not discussed. It fixes the line QUESTION-297's germline route must
+  are not discussed. It fixes the line [QUESTION-297](../questions.d/QUESTION-297.md)'s germline route must
   cross.
 bears_on:
 - QUESTION-297
@@ -60,7 +60,7 @@ mammalian germ line".
 
 ## Evidence
 
-The review (NOTE-1254): genome-wide mouse methylation profiling for the
+The review ([NOTE-1254](../notes.d/NOTE-1254.md)): genome-wide mouse methylation profiling for the
 reprogramming claim, which the authors grant is weaker for histones and
 RNA; many independent plant and nematode systems; a handful of mammalian
 loci, with rarity argued by absence elsewhere. The assessment of human
@@ -68,7 +68,7 @@ evidence covers the nutritional literature only.
 
 ## What it bears on
 
-QUESTION-297, the germline route. It sets the standard of what counts:
+[QUESTION-297](../questions.d/QUESTION-297.md), the germline route. It sets the standard of what counts:
 Holocaust survivors' children are an intergenerational case, and a
 germline claim needs a generation never exposed. On present evidence, what
 reaches grandchildren travels by other routes. The authors add that human

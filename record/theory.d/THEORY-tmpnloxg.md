@@ -22,11 +22,11 @@ source:
 - LIT-1771
 summary: >-
   An Annual Review by an author of the SIDE model, read in full in
-  NOTE-1268. It rereads conformity, obedience, helping, contagion and
+  [NOTE-1268](../notes.d/NOTE-1268.md). It rereads conformity, obedience, helping, contagion and
   crowd findings as bounded by shared identity, and cites a
   meta-analysis of 20 studies in which more prototypical leaders were
   more influential. Results are reported, not presented. Filed from
-  NOTE-1268.
+  [NOTE-1268](../notes.d/NOTE-1268.md).
 bears_on:
 - QUESTION-300
 corroborates:
@@ -54,7 +54,7 @@ protecting the self" (p. 370).
 
 ## Evidence
 
-From NOTE-1268, all at second hand: Lea et al. (2007), in which
+From [NOTE-1268](../notes.d/NOTE-1268.md), all at second hand: Lea et al. (2007), in which
 nationality or sex carried influence by the topic's fit; Barreto and
 Hogg's meta-analysis of 20 studies, more prototypical leaders more
 influential (p. 379); Postmes and Spears's 1998 meta-analysis, in which
@@ -65,14 +65,14 @@ help "primarily when they share a social identity" with the victim
 
 ## What it bears on
 
-- CLAIM-493 says a fanbase's extreme members gain prototypicality
+- [CLAIM-493](../claims.d/CLAIM-493.md) says a fanbase's extreme members gain prototypicality
   against an outside party, and that the step from prototypicality to
   influence "rests on Turner 2005, unread, reported only by Hornsey"
   (its note of 2026-10-30). The review reports that step from another
   source, Barreto and Hogg's meta-analysis, and states the
   intergroup-contrast condition. It corroborates the claim; the claim
   does not rest on it.
-- QUESTION-300 asks whether any motivation aims at another's good and
+- [QUESTION-300](../questions.d/QUESTION-300.md) asks whether any motivation aims at another's good and
   at no self's. The review treats the group-influenced member as acting
   on a group self, not selflessly, and names a "realm of the other"
   where no self is in play, for information rather than motive.

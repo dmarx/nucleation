@@ -20,12 +20,12 @@ date: '2026-11-11'
 source:
 - LIT-1686
 summary: >-
-  A conceptual paper, read in full in NOTE-1266. Adopting the
+  A conceptual paper, read in full in [NOTE-1266](../notes.d/NOTE-1266.md). Adopting the
   we-perspective can occur without self-transformation (the discursive
   dilemma) and self-transformation without it (toddlers' joint action);
   the second is "you are a member of us; act as such". It also separates
   the team reasoner ("We intend to J") from the team benefactor ("I
-  intend that we J"). Filed from NOTE-1266.
+  intend that we J"). Filed from [NOTE-1266](../notes.d/NOTE-1266.md).
 bears_on:
 - QUESTION-300
 ---
@@ -48,7 +48,7 @@ well-being.
 
 ## Evidence
 
-Argument, not data (NOTE-1266). The developmental dissociation rests
+Argument, not data ([NOTE-1266](../notes.d/NOTE-1266.md)). The developmental dissociation rests
 on borrowed timing (the black sheep effect from about three, joint
 action at 18–24 months), which the authors call "conditional and
 defeasible". The Pushmi-Pullyu account is argued by eliminating a
@@ -56,7 +56,7 @@ doxastic view and by analogy.
 
 ## What it bears on
 
-QUESTION-300 holds team reasoning to make "what is good for us" a
+[QUESTION-300](../questions.d/QUESTION-300.md) holds team reasoning to make "what is good for us" a
 mode "that is neither self-interest nor altruism", and asks whether any
 motivation aims at another's good and at no self's. The team
 benefactor, who promotes a group's good without identifying as a

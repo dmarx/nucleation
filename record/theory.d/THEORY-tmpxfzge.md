@@ -23,9 +23,9 @@ source:
 - LIT-1736
 summary: >-
   Danieli, Norris and Engdahl (2016), read in place of Danieli's 1998
-  handbook (NOTE-1307). A web sample, one informant for every measure, no
+  handbook ([NOTE-1307](../notes.d/NOTE-1307.md)). A web sample, one informant for every measure, no
   comparison group of non-survivor families, and indirect effects of .05
-  to .06. It locates QUESTION-297's parenting route among survivors'
+  to .06. It locates [QUESTION-297](../questions.d/QUESTION-297.md)'s parenting route among survivors'
   children without showing harm against others, and so is compatible
   with Fridman's null.
 bears_on:
@@ -54,7 +54,7 @@ effect beyond each parent's victim style.
 
 ## Evidence
 
-The paper (NOTE-1307): 422 respondents recruited on the web through
+The paper ([NOTE-1307](../notes.d/NOTE-1307.md)): 422 respondents recruited on the web through
 survivor and Jewish organizations, 72% daughters; style scales derived by
 factor analysis of the same data; every measure reported by the child. The
 direct path from broken linkages was added after the first model's
@@ -63,7 +63,7 @@ for establishing causation" (p. 648). There is no comparison group.
 
 ## What it bears on
 
-QUESTION-297, the parenting and identity routes. What passes is the
+[QUESTION-297](../questions.d/QUESTION-297.md), the parenting and identity routes. What passes is the
 parent's way of living after the trauma, not the trauma itself, and
 silence is not the main channel. The ancestor and the injury come apart:
 counting the murdered grandparents as one's own went with fewer impacts,
