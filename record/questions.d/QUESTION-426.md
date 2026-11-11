@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpl3rft
 title: 'Does a replication or long-run follow-up of Moving to Opportunity, or of another randomized housing-mobility programme, again find adult earnings gains for children who moved young, declining with age at move, and no earnings gain for the adults moved?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -12,12 +12,19 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability; it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085). No
+    other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
 line:
-- realizability
 - transient-support
 summary: >-
   The independent test and the refutation clauses formerly in

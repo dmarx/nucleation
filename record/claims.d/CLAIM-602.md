@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoh07b
 title: "Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,13 @@ history:
     part's account. It keeps readiness beside it, because it bears
     on QUESTION-386, whose first line is readiness (ADR-085). No
     other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085). No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -57,7 +64,6 @@ tags:
 date: '2026-11-05'
 line:
 - transient-support
-- realizability
 - readiness
 complements:
 - CLAIM-597

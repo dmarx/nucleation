@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmps9wa1
 title: 'Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both illustrate'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,14 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): it no longer carries realizability: it bears on
+    QUESTION-398 and QUESTION-399, both now first in
+    transient-support, and on no realizability-first entry
+    (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -54,7 +62,6 @@ tags:
 date: '2026-11-05'
 line:
 - transient-support
-- realizability
 - distributed-agency
 complements:
 - CLAIM-566

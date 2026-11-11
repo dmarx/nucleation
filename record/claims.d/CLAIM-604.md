@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpw4ai2
 title: "Where each damaged part of a structure is repaired by drawing on a flux at a rate proportional to the structure's intact share, as a flame's upkeep is, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; repair supplied at a rate set by the supply alone, whatever the structure's state, has none of the three"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,16 @@ history:
     structure's state has none of the three'. The twenty-fifth
     status review re-ran scratch/formal/supplied_maintenance_toys.py
     and re-derived the steady states.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability: filed for the withdrawal readings, it bears on
+    QUESTION-398 and QUESTION-399, both now first in
+    transient-support, and on no realizability-first entry, so it no
+    longer carries realizability (ADR-085); it keeps
+    distributed-agency, through QUESTION-085. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -55,7 +65,7 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 line:
-- realizability
+- transient-support
 - distributed-agency
 complements:
 - CLAIM-597

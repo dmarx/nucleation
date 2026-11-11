@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5d91s
 title: "A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,17 @@ history:
     grounds), at the status review's ruling (the owner delegated these
     rulings). The body's citations of NOTE-1688 are unchanged. No status
     changes.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability: filed for the withdrawal readings, it bears on
+    QUESTION-398 and QUESTION-399, both now first in
+    transient-support, and on no realizability-first entry, so it no
+    longer carries realizability (ADR-085); it keeps
+    distributed-agency, through QUESTION-085 and QUESTION-281. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,7 +43,7 @@ tags:
 - natural-sciences
 date: '2026-11-06'
 line:
-- realizability
+- transient-support
 - distributed-agency
 uses:
 - TERM-088

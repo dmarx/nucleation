@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpit7m9
 title: "A savings buffer is a stock of time: where shocks must be absorbed or a household is ruined, an investment that pays only after a delay is worth taking only above a buffer that rises with the delay, so households with the same preferences decline profitable delayed investments below it, a choice that reads as impatience and is the right policy for survival by a deadline; covering needs through the delay buys the time"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,13 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085). No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,7 +51,6 @@ tags:
 date: '2026-11-05'
 line:
 - transient-support
-- realizability
 uses:
 - TERM-105
 complements:

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp07gio
 title: 'Is the positive interaction of R&D intensity with distance to the productivity frontier on productivity growth replicated in an independent industry or firm panel, or under an external instrument for R&D, with absorption still near or above half of R&D''s return at about half the frontier''s productivity?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -12,11 +12,18 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability; it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085). No
+    other change.
 tags:
 - social-science
 date: '2026-11-06'
 line:
-- realizability
 - transient-support
 summary: >-
   The independent test and the refutation clauses formerly in

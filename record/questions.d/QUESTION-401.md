@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpgqd0u
 title: 'Does a one-off productive-asset transfer to poor households in another setting or population show a non-concave asset transition with an unstable threshold, households placed above it accumulating assets and moving into self-employment while those below lose assets, surviving controls for baseline ability; and does a design that randomizes transfer size, and so which side of the threshold a household lands on, find the same?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-10'
@@ -19,13 +19,19 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085). No
+    other change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
 line:
 - transient-support
-- realizability
 bears_on:
 - QUESTION-398
 summary: >-

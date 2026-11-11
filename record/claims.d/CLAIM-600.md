@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpc3x0c
 title: 'Transient support can be withdrawn safely only if it started a process that keeps itself going on a flux that will stay available, was large enough to carry the supported party past any threshold that process has, outlasted the threat it stood in for, and left the work to the party throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept up after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement; support that fails these leaves dependence or decay, but meeting them all is not enough, since support can carry a function nobody names before withdrawal; and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-06'
@@ -125,6 +125,15 @@ history:
     arrangement, support that fails these leaves dependence or
     decay, and persistence after withdrawal is needed to tell which,
     though slow reversion can mimic it".
+- version: 9
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability; it no longer carries realizability: it bears
+    on QUESTION-398 and QUESTION-399, both now first in
+    transient-support, and on no realizability-first entry
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -151,7 +160,6 @@ tags:
 - society-and-governance
 date: '2026-11-05'
 line:
-- realizability
 - transient-support
 rests_on:
 - CLAIM-597

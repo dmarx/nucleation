@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdbsh1
 title: 'Under what conditions does a partial organization become independent of the intervention that originally established it?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-10'
@@ -20,13 +20,20 @@ history:
     notes carry; the question's status was not changed when they were
     added (a defect listed in the curation entry of 2026-11-10). No
     other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability; it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085). No
+    other change.
 tags:
 - complex-systems
 - natural-sciences
 - society-and-governance
 date: '2026-11-05'
 line:
-- realizability
 - transient-support
 summary: >-
   A's question, verbatim, from the fourth synthesis on DNA origami pasted
