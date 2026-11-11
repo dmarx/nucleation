@@ -19,7 +19,7 @@ summary: >-
   daydream, arriving with no memory of the drive. Compartmented access,
   not unconsciousness.
 ---
-<!-- inactive-ok-file: CLAIM-003 — Deferred; set aside, and cited to say what was set aside with it -->
+<!-- inactive-ok-file: CLAIM-003 — Proposed since 2026-11-11, reopened with its line; cited for the access it describes -->
 
 # CASE-033: Driving home while daydreaming
 

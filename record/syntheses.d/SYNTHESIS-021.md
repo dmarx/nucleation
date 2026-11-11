@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpic4aw
 title: 'The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives'' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    CLAIM-355 now rests on CLAIM-039 (2026-11-11), which version 1 gave
+    as what it would rest on; the sentence says so. No other change.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the organizational-affect line that no part
@@ -37,7 +43,8 @@ summary: >-
   standing is its components'.
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-355 CLAIM-431 CLAIM-432 CLAIM-433 CLAIM-435 CLAIM-437 CLAIM-438 CLAIM-439 CLAIM-440 CLAIM-442 CLAIM-527 TERM-076 THEORY-101 — Proposed; components and citations, with their standing -->
-<!-- inactive-ok-file: CASE-014 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; components of the parts, set aside -->
+<!-- inactive-ok-file: CASE-014 — Deferred; a component of a part, set aside -->
+<!-- inactive-ok-file: CLAIM-003 — Proposed; a component of a part, reopened on 2026-11-11 -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; a component of SYNTHESIS-018, replaced by QUESTION-015 -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
@@ -109,7 +116,7 @@ The parts are joined by premises and by readings that components state.
 - **[SYNTHESIS-018](SYNTHESIS-018.md) on [SYNTHESIS-022](SYNTHESIS-022.md).**
   - [CLAIM-432](../claims.d/CLAIM-432.md)'s part 2 cites [CLAIM-355](../claims.d/CLAIM-355.md) for the binding of appraisal,
     readiness and governance into one response being real.
-  - [CLAIM-355](../claims.d/CLAIM-355.md) would rest on [CLAIM-039](../claims.d/CLAIM-039.md) and answers [QUESTION-053](../questions.d/QUESTION-053.md) in part.
+  - [CLAIM-355](../claims.d/CLAIM-355.md) rests on [CLAIM-039](../claims.d/CLAIM-039.md) (since 2026-11-11) and answers [QUESTION-053](../questions.d/QUESTION-053.md) in part.
   - [QUESTION-059](../questions.d/QUESTION-059.md) is where [CLAIM-039](../claims.d/CLAIM-039.md)'s uncoupling of function from feeling
     is tested, and its note of 2026-10-18 is where "the binding thesis
     [CLAIM-355](../claims.d/CLAIM-355.md) meets [THEORY-101](../theory.d/THEORY-101.md)".

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmprhzl8
 title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line''s questions are replications of the readings it rests on'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -14,6 +14,11 @@ history:
     account. Its line, defeater, introduction and the heading of its
     links to the other parts change to say so. Its components and the
     links it states are unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    CASE-225's lines given rightly: transient-support in place of
+    readiness, since the split of readiness. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the transient-support line left out without a reason given; or a link this account states that no component
@@ -145,7 +150,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   grounds [THEORY-1465](../theory.d/THEORY-1465.md), [THEORY-1461](../theory.d/THEORY-1461.md) and [THEORY-1492](../theory.d/THEORY-1492.md); complements
   [CLAIM-601](../claims.d/CLAIM-601.md), [CLAIM-605](../claims.d/CLAIM-605.md) and [CLAIM-606](../claims.d/CLAIM-606.md).
 - [CASE-225](../cases.d/CASE-225.md), A's, construction, Proposed; lines realizability,
-  distributed-agency, readiness; illustrates [CLAIM-414](../claims.d/CLAIM-414.md), [CLAIM-522](../claims.d/CLAIM-522.md) and
+  distributed-agency, transient-support; illustrates [CLAIM-414](../claims.d/CLAIM-414.md), [CLAIM-522](../claims.d/CLAIM-522.md) and
   [CLAIM-616](../claims.d/CLAIM-616.md).
 - [QUESTION-398](../questions.d/QUESTION-398.md), A's, Open; first line realizability.
 - [QUESTION-401](../questions.d/QUESTION-401.md), [QUESTION-413](../questions.d/QUESTION-413.md), [QUESTION-427](../questions.d/QUESTION-427.md) and [QUESTION-432](../questions.d/QUESTION-432.md), Open:
