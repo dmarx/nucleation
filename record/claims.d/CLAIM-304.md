@@ -7,7 +7,7 @@ title: 'A rendering can keep a distinction recoverable in principle and make it
   infeasible to recover: if pseudorandom generators exist, a uniformly random bit
   can be encoded so that an unbounded receiver recovers it except with probability
   at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -30,6 +30,13 @@ history:
     restatements, so bears_on. Under ADR-085 it takes
     nucleating-argument, the question's first line, after its own. No
     other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-110: its text says "CLAIM-304's infeasible case
+    and CLAIM-199's helpful garbling sit on one scale" (the question's
+    words; the claim is its premise). Reading review of 2026-11-11, by
+    question. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -61,6 +68,7 @@ summary: >-
 bears_on:
 - QUESTION-111
 - QUESTION-099
+- QUESTION-110
 ---
 <!-- inactive-ok-file: ADR-085 — Proposed; the line rule the history notes apply -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
