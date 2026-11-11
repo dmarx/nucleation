@@ -1,0 +1,94 @@
+---
+status: Proposed
+title: 'A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line''s readings and the readings no line uses'
+version: 1
+tags:
+- record
+date: '2026-11-11'
+summary: >-
+  A THEORY has no `line` field (ADR-032), so nothing showed which lines of the
+  argument a reading serves, and the synthesis reviews of 2026-11-11 found
+  promotion conditions that link to nothing in their line because their
+  links run to a THEORY. A reading's lines are now derived: the first lines
+  of the entries that ground on it, that it corroborates, that it answers or
+  bears on, or that it reports, leaving out entries Superseded or Rejected.
+  They are computed when the views are built and stored nowhere, so they
+  cannot drift. The view docs/readings-by-line.md, built from
+  record/views.d/readings-by-line.md.j2, lists each line's readings and the
+  readings in force that no line uses: on 2026-11-11, 277 of 856 serve a
+  line and 579 serve none. Rejected: a stored `line` on THEORY; counting
+  every line of a using entry.
+---
+
+# ADR-tmp67tdg: A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses
+
+## Context
+
+A line is "a named line of the record's own argument, so that a line can
+be set aside as a whole and what depends on it can be found" (ADR-032). The
+owner clarified on 2026-11-11 what "set aside" means: a line put down for
+now, while other inquiry is developed, not a line retracted. Setting a
+line aside defers it.
+
+ADR-032 gave `line` to the record's own argument (CLAIM, QUESTION, CASE,
+TERM, ARG, SYNTHESIS) and not to its readings (THEORY), which say what a
+work holds. A reading enters the argument through relations: a claim or
+argument `grounds` on it, it `corroborates` a claim, it `answers` or
+`bears_on` a question, or a case is `reported_in` it. Nothing showed which
+lines those relations put a reading in, or which readings no line uses.
+
+The synthesis reviews of 2026-11-11 met the gap from the other side. Of
+the record's 120 questions that hold a promotion condition moved off a
+THEORY, many link to nothing in their line, because their only links run
+to the parent reading. And most readings in force are cited by no entry of
+the argument at all. The owner's view: the record should be building on
+its readings, and if it is not, that is a large oversight.
+
+## Decision
+
+- **A reading's lines are derived.** They are the first lines of the
+  entries that use it: those that ground on it (its `supports`), the
+  claims it `corroborates`, the questions it `answers` or `bears_on`, and
+  the cases it `reports`. An entry Superseded or Rejected does not count.
+  The first line only, as ADR-085 reads a relation: an entry that grounds
+  on a reading uses it for the argument it makes first.
+- **They are computed, never stored.** A Luria view template reads
+  them off the relations each time the views are built, so a reading gains
+  or loses a line as the argument around it changes, and no sweep keeps a
+  copy current.
+- **A view shows them.** docs/readings-by-line.md, rendered from
+  record/views.d/readings-by-line.md.j2, gives for each line the readings
+  it uses, with how many entries use each and the other lines it serves,
+  and lists the readings in force that no line uses, by primary topic.
+- **Demonstration (ADR-071).** The view itself. On 2026-11-11 it finds 856
+  readings in force, of which 277 serve a line and 579 serve none. By
+  line: distributed-agency 90, learned-structure 38, pragmatic-transport
+  35, transient-support and realizability 32 each, will-organization 28,
+  formal-apparatus 12, records-of-inquiry 6, the rest fewer, and
+  organizational-normativity none.
+
+## Alternatives considered
+
+- **A stored `line` on THEORY.** A reading often serves several lines,
+  and which ones changes whenever a claim grounds on it or is retired. A
+  stored field would need a sweep to keep it current and would drift
+  between sweeps; the relations already hold the answer.
+- **Every line of a using entry.** ADR-085 version 2 found that passing on
+  every line an entry carries spreads lines far from the argument that uses
+  them. The first line is the argument the entry makes.
+- **A Luria feature for derived fields over paths.** Luria derives only
+  the converse of one relation. A view template needs no change to the
+  tool and can be replaced by such a feature if one comes.
+
+## Consequences
+
+- **Unused readings are visible.** The view's last section is a list of
+  readings the argument has not built on. Reviewing it is work of its own,
+  and more than one protocol may be wanted: by line (what a line should be
+  building on), by topic (where the record reads and does not argue), or
+  by question (readings that bear on nothing). None is decided here.
+- **The promotion conditions can be placed.** Where a question's parent
+  reading serves a line, the question's line can follow it. Moving them is
+  a separate change, made with the view in hand.
+- **The view is checked like the others.** `luria index --check` calls it
+  stale when the record changes and the page does not.

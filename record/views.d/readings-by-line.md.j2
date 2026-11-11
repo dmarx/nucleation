@@ -1,0 +1,78 @@
+{#- record/views.d/readings-by-line.md.j2
+    Which lines of the record's argument each reading in force serves,
+    derived from the relations that tie a reading to the argument, and the
+    readings in force that no line yet builds on. THEORY carries no `line`
+    field: its lines are read off the entries that use it when the page is
+    built (DP-2: derived, never copied). Codes are written bare; the link
+    fixer spells them. -#}
+{%- set retired = ["Superseded", "Rejected"] -%}
+{%- set vocab = vocabulary("lines") -%}
+{%- set acc = namespace(rows=[], unused=[]) -%}
+{%- for t in docs("THEORY", in_force=True) -%}
+  {%- set r = namespace(lines=[], users=[]) -%}
+  {%- for x in t.supports + t.corroborates + t.answers + t.bears_on + t.reports -%}
+    {%- set d = x if x.code is defined else doc(x) -%}
+    {%- if d.status not in retired and d.code not in r.users -%}
+      {%- set r.users = r.users + [d.code] -%}
+      {%- set l = d.line if d.line is not string else [d.line] -%}
+      {%- if l and l[0] not in r.lines -%}{%- set r.lines = r.lines + [l[0]] -%}{%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if r.lines -%}
+    {%- set acc.rows = acc.rows + [{"t": t, "lines": r.lines, "users": r.users}] -%}
+  {%- else -%}
+    {%- set acc.unused = acc.unused + [t] -%}
+  {%- endif -%}
+{%- endfor -%}
+# Readings by line
+
+*Which lines of the record's argument each reading in force serves, and
+which readings no line yet builds on. Generated from `record/theory.d/` and
+the entries that cite it: edit those, not this page.*
+
+A reading (THEORY) is the record's account of what a work holds. It
+carries no `line` of its own. A reading serves a line when an entry of that
+line uses it: a claim or argument grounds on it, it corroborates a claim,
+it answers or bears on a question, or it reports a case. Its lines are the
+first lines of those entries, as ADR-085 reads a relation, and entries
+that are Superseded or Rejected do not count. They are read off the
+relations when this page is built, so a reading gains or loses a line as
+the argument around it changes.
+
+Of {{ acc.rows | length + acc.unused | length }} readings in force,
+{{ acc.rows | length }} serve at least one line and {{ acc.unused | length }}
+serve none.
+
+| line | readings it uses |
+|---|---|
+{% for v in vocab -%}
+{%- set n = namespace(k=0) %}{% for row in acc.rows %}{% if v.value in row.lines %}{% set n.k = n.k + 1 %}{% endif %}{% endfor -%}
+| {{ v.label }} | {{ n.k }} |
+{% endfor %}
+{% for v in vocab %}
+{%- set h = namespace(rows=[]) %}{% for row in acc.rows %}{% if v.value in row.lines %}{% set h.rows = h.rows + [row] %}{% endif %}{% endfor %}
+{%- set here = h.rows %}
+{%- if here %}
+
+## {{ v.label }}
+
+{% for row in here -%}
+- {{ row.t.code }}: {{ row.t.title }} *(used by {{ row.users | length }}{% if row.lines | length > 1 %}; also {{ row.lines | reject("equalto", v.value) | join(", ") }}{% endif %})*
+{% endfor %}
+{%- endif %}
+{%- endfor %}
+
+## Readings no line uses
+
+Readings in force that no entry of the record's argument grounds on, is
+corroborated by, asks about or takes a case from, by primary topic. They are
+where the argument has not yet built on what the record has read.
+{%- set tp = namespace(names=[]) %}{% for t in acc.unused %}{% set k = t.primary_topic or "no primary topic" %}{% if k not in tp.names %}{% set tp.names = tp.names + [k] %}{% endif %}{% endfor %}
+{%- for topic in tp.names | sort %}
+
+### {{ topic }}
+
+{% for t in acc.unused if (t.primary_topic or "no primary topic") == topic -%}
+- {{ t.code }}: {{ t.title }}
+{% endfor %}
+{%- endfor %}
