@@ -9,9 +9,9 @@ date: '2026-11-11'
 line:
 - distributed-agency
 summary: >-
-  Raised by the second by-topic reading review of 2026-11-11 (ADR-091,
-  ADR-tmpkuzwl). Five readings of self-determination theory's measures and
-  studies are in force and no claim uses them. CLAIM-368 takes frustration,
+  Raised by the second by-topic reading review of 2026-11-11 ([ADR-091](../decisions.d/ADR-091.md),
+  [ADR-tmpkuzwl](../decisions.d/ADR-tmpkuzwl.md)). Five readings of self-determination theory's measures and
+  studies are in force and no claim uses them. [CLAIM-368](../claims.d/CLAIM-368.md) takes frustration,
   not distress, as the primitive of an organization's regulatory
   difficulty and cites the theory only as a parallel; its note of
   2026-11-03 says the theory's split between frustration and low
@@ -27,33 +27,33 @@ summary: >-
 
 ## Why it is a question
 
-CLAIM-368 holds that the primitive for an organization's regulatory
+[CLAIM-368](../claims.d/CLAIM-368.md) holds that the primitive for an organization's regulatory
 difficulty is frustration, not distress. It cites self-determination
-theory (THEORY-052) as a parallel that keeps need frustration apart from
+theory ([THEORY-052](../theory.d/THEORY-052.md)) as a parallel that keeps need frustration apart from
 low satisfaction, and does not rest on it. Its note of 2026-11-03 says the
 split is true of the theory and "not established of its main measure".
-QUESTION-131 asks how structural frustration relates to operative
-thwarting, and QUESTION-369 what would show an experience is a basic need.
+[QUESTION-131](QUESTION-131.md) asks how structural frustration relates to operative
+thwarting, and [QUESTION-369](QUESTION-369.md) what would show an experience is a basic need.
 Neither asks whether the theory's own frustration is a separate process.
 
 The readings, together:
 
-- **The scale's split follows item direction** (THEORY-1338). In the Basic
+- **The scale's split follows item direction** ([THEORY-1338](../theory.d/THEORY-1338.md)). In the Basic
   Psychological Need Satisfaction and Frustration Scale every satisfaction
   item is positive and every frustration item aversive, so the better fit
   of six factors over three, the scale's evidence that frustration is a
   separate dimension, is confounded with keying.
-- **Frustration absorbs symptom covariance** (THEORY-1322): in Belgian
+- **Frustration absorbs symptom covariance** ([THEORY-1322](../theory.d/THEORY-1322.md)): in Belgian
   adolescents it accounts for most of the association between depressive
   and eating-disorder symptoms, cross-sectionally and in latent change,
   but by correlation only.
-- **Frustration predicts later depression** (THEORY-1349) in two
+- **Frustration predicts later depression** ([THEORY-1349](../theory.d/THEORY-1349.md)) in two
   cross-lagged panels, net of earlier depression, with depression also
   predicting later frustration at one lag of two.
-- **Supports are not need-specific** (THEORY-1307): perceived supports for
+- **Supports are not need-specific** ([THEORY-1307](../theory.d/THEORY-1307.md)): perceived supports for
   the three needs intercorrelate .67 to .71, and their specificity appears
   only in joint models.
-- **Interventions move satisfaction, not ill-being much** (THEORY-1320):
+- **Interventions move satisfaction, not ill-being much** ([THEORY-1320](../theory.d/THEORY-1320.md)):
   SDT-informed health interventions raised need support and satisfaction,
   with a small effect on psychological ill-being.
 
@@ -72,4 +72,4 @@ the record holds separates the two.
   ill-being differently.
 - Or evidence that, with keying controlled, a single dimension fits as
   well, in which case the theory's frustration is low satisfaction
-  aversively worded and is no parallel for CLAIM-368's primitive.
+  aversively worded and is no parallel for [CLAIM-368](../claims.d/CLAIM-368.md)'s primitive.
