@@ -1,21 +1,29 @@
 ---
 number: 1608
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpnloxg
-promote_when: >-
-  A reading of the review in full finds it arguing what the title
-  states. Whether the effects it cites survive preregistered replication
-  is not asked; that is a question for further work, not for this
-  reading (ADR-065).
 title: 'Spears argues, reviewing the self-categorization account of social influence, that when a group is internalized as a level of self, influence from in-group members is private acceptance and partly self-influence, bounded by shared identity and stronger from more prototypical members, and that crowd members switch to a group identity rather than lose the self'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1268 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1268,
+    nothing in the record contradicting it. bears_on QUESTION-300 is
+    removed under ADR-091's tie rule: the question asks about motivation
+    aimed at another's good, and the review holds an account of
+    influence, the acceptance of in-group members' views, whose "realm
+    of the other" concerns information, not motive (NOTE-1268). Its one
+    helping result (Levine and Crowther) is cited in a sentence, not
+    held. corroborates CLAIM-493 stays: the claim's own words need the
+    step from prototypicality to influence, which the title reports.
 tags:
 - social-identity
 - social-science
@@ -30,12 +38,11 @@ summary: >-
   meta-analysis of 20 studies in which more prototypical leaders were
   more influential. Results are reported, not presented. Filed from
   [NOTE-1268](../notes.d/NOTE-1268.md).
-bears_on:
-- QUESTION-300
 corroborates:
 - CLAIM-493
 ---
 <!-- inactive-ok-file: CLAIM-493 — Proposed or Unavailable; the claims and works this reading bears on or cites, named, not leaned on -->
+<!-- inactive-ok-file: ADR-091 — Proposed; the tie rule under which this reading's edge to QUESTION-300 was removed -->
 
 # THEORY-1608: Spears argues, reviewing the self-categorization account of social influence, that when a group is internalized as a level of self, influence from in-group members is private acceptance and partly self-influence, bounded by shared identity and stronger from more prototypical members, and that crowd members switch to a group identity rather than lose the self
 
@@ -75,7 +82,7 @@ help "primarily when they share a social identity" with the victim
   source, Barreto and Hogg's meta-analysis, and states the
   intergroup-contrast condition. It corroborates the claim; the claim
   does not rest on it.
-- [QUESTION-300](../questions.d/QUESTION-300.md) asks whether any motivation aims at another's good and
-  at no self's. The review treats the group-influenced member as acting
-  on a group self, not selflessly, and names a "realm of the other"
-  where no self is in play, for information rather than motive.
+- It takes no `bears_on` edge to QUESTION-300, which asks about
+  motivation aimed at another's good. The review's account is of
+  influence, and its "realm of the other", where no self is in play,
+  concerns information rather than motive (version 2's history).

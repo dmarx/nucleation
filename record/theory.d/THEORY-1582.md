@@ -1,21 +1,22 @@
 ---
 number: 1582
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp85a21
-promote_when: >-
-  A reading of the paper in full finds it reporting what the title
-  states. Whether the pattern holds for fans, or outside this league, is
-  not asked; that is a question for further work, not for this reading
-  (ADR-065).
 title: 'Kilduff, Elfenbein and Staw report that rivalry among NCAA men''s basketball teams, rated by student sportswriters, varied mostly with the particular pair of teams, grew with proximity, similarity, repeated play and above all a history of even contests, and was largely reciprocated, one-sided rivalry running from lower-status to higher-status teams'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1292 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1292,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - social-science

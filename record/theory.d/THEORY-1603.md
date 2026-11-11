@@ -1,20 +1,22 @@
 ---
 number: 1603
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpjhhqr
-promote_when: >-
-  A reading of the chapter in full finds it presenting what the title
-  states. Whether the theory's motivational claims hold is not asked;
-  that is a question for further work, not for this reading (ADR-065).
 title: 'Scheepers and Ellemers present social identity theory: social identity is the part of the self-concept that derives from group membership together with its value and emotional significance, people strive for a positive social identity through favourable comparison with out-groups, and members of low-status groups choose mobility, collective action or social creativity by permeability, legitimacy and stability'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1315 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1315,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - self

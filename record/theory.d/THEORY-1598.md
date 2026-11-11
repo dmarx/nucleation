@@ -1,22 +1,22 @@
 ---
 number: 1598
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfks4b
-promote_when: >-
-  A reading of the chapter in full finds it presenting what the title
-  states. Whether the multicomponent structure or the
-  multiple-categorization findings hold up in primary studies is not
-  asked; that is a question for further work, not for this reading
-  (ADR-065).
 title: 'Reimer, Schmid, Hewstone and Al Ramiah present self-categorization as placing oneself in a social category, hierarchical in level and salient by accessibility and fit, and social identification as a separate, multidimensional relation to the group whose components need not covary, and conclude that these identity processes alone do not explain negative intergroup attitudes'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1251 (read 2026-10-28), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1251,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - social-science

@@ -1,21 +1,31 @@
 ---
 number: 1611
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmppvd83
-promote_when: >-
-  A reading of the chapter in full finds it reporting what the title
-  states. Whether the results replicate, or the discordance account
-  explains them, is not asked; that is a question for further work, not
-  for this reading (ADR-065).
-title: 'Dovidio, Gaertner, Shnabel, Saguy and Johnson report that recategorizing two groups as one removed in-group bias in helping, partly through empathic concern, but that White students helped a Black student who expressed a dual identity no more than one who expressed only his subgroup identity'
-version: 1
+title: 'Dovidio, Gaertner, Shnabel, Saguy and Johnson report that recategorizing two groups as one removed in-group bias in helping, that White students helped a Black student more when he expressed a common university identity, partly through empathic concern, and that they helped him no more when he expressed a dual identity than when he expressed only his subgroup identity'
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1286 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1286,
+    nothing in the record contradicting it. The title is narrowed to
+    what NOTE-1286 shows: empathic concern was measured, and partly
+    mediated helping, in the follow-up study of a Black student's
+    expressed common identity, not in the recategorization study of two
+    laboratory groups. The mis-attribution gets this note only (status-review README §2,
+    kind 3). The old title: "Dovidio, Gaertner, Shnabel, Saguy and
+    Johnson report that recategorizing two groups as one removed
+    in-group bias in helping, partly through empathic concern, but that
+    White students helped a Black student who expressed a dual identity
+    no more than one who expressed only his subgroup identity".
 tags:
 - altruism
 - social-identity
@@ -32,7 +42,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1611: Dovidio, Gaertner, Shnabel, Saguy and Johnson report that recategorizing two groups as one removed in-group bias in helping, partly through empathic concern, but that White students helped a Black student who expressed a dual identity no more than one who expressed only his subgroup identity
+# THEORY-1611: Dovidio, Gaertner, Shnabel, Saguy and Johnson report that recategorizing two groups as one removed in-group bias in helping, that White students helped a Black student more when he expressed a common university identity, partly through empathic concern, and that they helped him no more when he expressed a dual identity than when he expressed only his subgroup identity
 
 ## The account
 
