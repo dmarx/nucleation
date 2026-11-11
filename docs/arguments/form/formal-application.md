@@ -6,7 +6,7 @@
 
 **Application of a formal result** — a theorem or model applied to a new domain. Critical questions: does the mapping premise hold? Are the model's assumptions met in the new domain?.
 
-6 of 75 ARG documents. Back to the [full index](../README.md).
+6 of 76 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

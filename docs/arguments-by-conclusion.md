@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 80 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 81 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -133,6 +133,8 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
 - [CLAIM-486](../record/claims.d/CLAIM-486.md) — A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event *(Proposed, thesis)*
   - [ARG-020](../record/arguments.d/ARG-020.md) — The compensation hypothesis gives the mechanism by which a rendering keeps the act while changing the proposition *(Rejected, cause-to-effect)*
   - [ARG-021](../record/arguments.d/ARG-021.md) — The manuscript's renderings, which keep the words and change the act, show that keeping the proposition is not necessary for keeping the act *(Rejected, existence)*
+- [CLAIM-491](../record/claims.d/CLAIM-491.md) — No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity *(Proposed, thesis)*
+  - [ARG-076](../record/arguments.d/ARG-076.md) — Eyerman's cultural trauma and Volkan's chosen trauma are evidence for the owner's thesis only for chosen trauma, where an ancestral injury is taken up as an injury to a present group identity and felt as grievance when that identity is threatened; they do not tell an enlarged self from a switched one, and they leave mourning for particular dead open *(Proposed, evidence)*
 - [CLAIM-497](../record/claims.d/CLAIM-497.md) — A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on *(Active, thesis)*
   - [ARG-041](../record/arguments.d/ARG-041.md) — From the effective-information bound and its ties to proportionality: a gain that depends on the intervention distribution is not a property of the system, the coarse-grainings that lose nothing are, and the coarsest of them is where the causes are *(Proposed, formal-application)*
 - [CLAIM-511](../record/claims.d/CLAIM-511.md) — A self-maintaining organization ought to preserve its corrigibility *(Proposed, disclaimed)*

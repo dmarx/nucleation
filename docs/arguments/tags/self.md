@@ -6,8 +6,8 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-0 of 75 ARG documents. Back to the [full index](../README.md).
+1 of 76 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-076](../../../record/arguments.d/ARG-076.md) | Eyerman's cultural trauma and Volkan's chosen trauma are evidence for the owner's thesis only for chosen trauma, where an ancestral injury is taken up as an injury to a present group identity and felt as grievance when that identity is threatened; they do not tell an enlarged self from a switched one, and they leave mourning for particular dead open | [CLAIM-491](../../../record/claims.d/CLAIM-491.md)'s note of 2026-10-29, "the thesis backward in time", says the intergenerational-trauma readings "support its shape and move its boundary", citing Eyerman ([THEORY-1606](../../../record/theory.d/THEORY-1606.md)) and Volkan ([THEORY-1597](../../../record/theory.d/THEORY-1597.md)). Their NOTEs call that support inference: Eyerman's chapter "supports the shape and corrects the boundary", and Volkan "supports a narrower form of this and complicates the rest". A contested support is an ARG ([ADR-061](../../../record/decisions.d/ADR-061.md)). The inference holds, on these readings, for chosen trauma only: there an ancestral injury is taken up as an injury to the present self's group, roused by a threat to that identity. It fails the evidence form's critical questions on two points: a self switched to the group level (which [CLAIM-491](../../../record/claims.d/CLAIM-491.md) itself sets apart from a larger self) would produce the same accounts, and neither reading measures any member's feeling. Filed Proposed at the owner's request of 2026-11-11; the wording is the assistant's, and the verdict is the owner's. | Proposed |
