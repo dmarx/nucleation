@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplenr2
 title: 'In Hopfield''s 1982 simulations at N = 30 and 100, a network of threshold units with symmetric Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors: recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often fuses with it, and at 25-fold overload no stored pattern stays stable'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -25,6 +25,13 @@ history:
     The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-800,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-201 added. Its promote_when moved to QUESTION-201,
+    which asks whether these N = 30 and 100 results hold at large N: the
+    entry is that question's premise. Reading review of 2026-11-11, by
+    question. No other change.
 tags:
 - complex-systems
 - neuroscience
@@ -39,6 +46,8 @@ summary: >-
   is simulation at N = 30 and 100. It does not say that spurious states
   come only from overload: they appear at a low load too. Nor does it say
   anything about addressed memory.
+bears_on:
+- QUESTION-201
 ---
 <!-- inactive-ok-file: THEORY-800 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-179 CLAIM-180 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->

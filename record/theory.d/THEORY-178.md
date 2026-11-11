@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcasth
 title: 'In an ensemble of sign-consistent Boolean rules on the 87-gene core of E. coli''s regulatory network, a transient knockout or overexpression of one gene can leave the network in a different attractor after release, and every gene that does so reaches a strongly connected component containing a positive circuit'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -26,6 +26,13 @@ history:
     cells, is filed as the Proposed THEORY-780, which extends this
     one (ADR-047 v4, narrowing-loss sweep, batch 068). Status and title
     are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-172 added. Its summary: "that experiment is
+    QUESTION-172"; the promote_when moved there unchanged, so the entry is
+    that question's premise. Reading review of 2026-11-11, by question. No
+    other change.
 tags:
 - complex-systems
 - network-science
@@ -44,6 +51,8 @@ summary: >-
   ensemble, read in full in NOTE-655, and the title claims no more. No
   transient perturbation has been shown to have a lasting effect in
   cells; that experiment is QUESTION-172.
+bears_on:
+- QUESTION-172
 ---
 <!-- inactive-ok-file: THEORY-780 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 

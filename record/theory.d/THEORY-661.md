@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpx1n2e
 title: "In a nearly decomposable system, where interactions within subsystems are much stronger than interactions between them, each subsystem's short-run behaviour is approximately independent of the others', and in the long run each depends on the others only through their aggregate behaviour; so a hierarchy defined by intensity of interaction separates fast dynamics inside its parts from slow, aggregate dynamics between them"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -32,6 +32,13 @@ history:
     for a first-order rate in ε on trajectory error,
     under contraction, in a different frame. The account is unchanged, and
     still claims no rate for Simon–Ando's own statement.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-218 added. QUESTION-218 lists this entry "on the
+    block side" of its table: Simon's near-decomposability is the block a
+    boundary test would take as the unit. Reading review of 2026-11-11, by
+    question. No other change.
 tags:
 - complex-systems
 date: '2026-10-16'
@@ -46,6 +53,8 @@ summary: >-
   and that higher organisational levels run slower, are assertion and
   "probably true". The watchmaker argument is a model whose numbers he
   says not to take seriously.
+bears_on:
+- QUESTION-218
 ---
 <!-- inactive-ok-file: LIT-1127 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; claims that rest on this result and neighbouring accounts, named for context -->

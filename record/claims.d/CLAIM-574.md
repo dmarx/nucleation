@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg7w69
 title: 'Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -53,6 +53,17 @@ history:
     status review of 2026-11-06 adopted it (version 2), so the summary
     says so. Found at the defect sweep of the ninth synthesis review. No
     other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-104 added, and with it the line distributed-agency,
+    that question's first line, after this claim's own (ADR-085).
+    QUESTION-104 asks whether "the budget change[s] which units are worth
+    naming"; this claim's "resource-relative descriptive individuation"
+    holds that "raising the budget can only split classes". It bears on the
+    question without answering it: its distinctions are drawn by probes, not
+    by sufficient partitions for prediction. Reading review of 2026-11-11,
+    by question. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -74,6 +85,7 @@ line:
 - realizability
 - formal-apparatus
 - pragmatic-transport
+- distributed-agency
 rests_on:
 - CLAIM-264
 grounds:
@@ -89,6 +101,7 @@ uses:
 bears_on:
 - QUESTION-031
 - QUESTION-393
+- QUESTION-104
 summary: >-
   A's proposal, from the owner's paste of 2026-11-05 (latest), A's
   "Yoneda, individuation, and resource-bounded objects" §2, merged with

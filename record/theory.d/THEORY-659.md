@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpwx87w
 title: "In the EEAS's 2024 sample of 505 foreign information manipulation incidents, the overt state voice is a small core: of the 2,055 channels that recur across incidents, 20% are attributed to Russia, 3.5% to China and 76.5% are not attributed, after some 28,000 disposable inauthentic accounts are set aside; the sample is not representative, and the four-tier Exposure Matrix used to grade channels' ties to a state is unvalidated"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-070 added. Its Connections: QUESTION-070 "names this
+    report's tiered network as one of its two cases. This account says what
+    the network looks like"; it does not answer it. Reading review of
+    2026-11-11, by question. No other change.
 tags:
 - society-and-governance
 - network-science
@@ -20,6 +28,8 @@ summary: >-
   Exposure Matrix grades attribution in four tiers by evidence and
   treats it as revisable; no inter-rater test or worked classification
   is given, and the strongest evidence is proprietary or classified.
+bears_on:
+- QUESTION-070
 ---
 <!-- inactive-ok-file: LIT-083 — Proposed; the DISINFOX preprint, named for its schema beside the Exposure Matrix, not leaned on -->
 

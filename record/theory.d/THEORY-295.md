@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpz5itv
 title: "In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -25,6 +25,13 @@ history:
     THEORY-814, Proposed, to carry what the narrowing dropped. This
     entry's status, title and claims are unchanged; a dated note says what
     moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-151 added. Its promote_when "moves unchanged to
+    QUESTION-151", which asks whether this memoryless result survives a
+    consensus with memory: the entry is that question's premise. Reading
+    review of 2026-11-11, by question. No other change.
 tags:
 - philosophy-of-science
 - epistemology
@@ -42,6 +49,8 @@ summary: >-
   the strategy mix. The consensus is memoryless, scientists hold no
   beliefs, and an equal strategy mix is shown only never to be the
   worst, not best.
+bears_on:
+- QUESTION-151
 ---
 
 <!-- inactive-ok-file: THEORY-814 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

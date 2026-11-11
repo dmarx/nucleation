@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp2p13l
 title: 'In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate came to give large weights to the same few experts, which the authors attribute to self-reinforcement, favoured experts being trained more and so selected more; in one 256-expert language model, the squared coefficient of variation of expert importance or load as an auxiliary loss reduced the peak-to-mean load from 17.8 to at most 1.47 and test perplexity from 39.8 to 35.6–35.7'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -29,6 +29,15 @@ history:
     THEORY-1218, Proposed, which extends this entry; the demand for the
     ICLR version names no discrepancy and is dropped (ADR-065 §3 and §4;
     ADR-047, kind 1).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-349 added. QUESTION-349: "In large sparse mixtures
+    Shazeer et al. (LIT-1507) report imbalance among experts as a failure,
+    so the benign reading of the vowel result may not carry"; this entry is
+    that report, under top-k gating rather than the question's training
+    errors, so it bears without answering. Reading review of 2026-11-11, by
+    question. No other change.
 tags:
 - learning-theory
 - complex-systems
@@ -41,6 +50,8 @@ summary: >-
   with Table 6's no-loss row as its evidence: one architecture, ten epochs,
   no variance. The mechanism is the authors' explanation, not a tested
   result. The fix penalizes unequal use regardless of competence.
+bears_on:
+- QUESTION-349
 ---
 
 # THEORY-927: In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate came to give large weights to the same few experts, which the authors attribute to self-reinforcement, favoured experts being trained more and so selected more; in one 256-expert language model, the squared coefficient of variation of expert importance or load as an auxiliary loss reduced the peak-to-mean load from 17.8 to at most 1.47 and test perplexity from 39.8 to 35.6–35.7

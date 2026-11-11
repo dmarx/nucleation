@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4zwbu
 title: "In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,13 @@ history:
     The narrowing-loss sweep (batch 072, ADR-047 v4) filed THEORY-815,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-187 added. Its summary: "A proof for the graphs HNSW
+    builds is QUESTION-187"; the measurements at d = 4, 8 and 128 that the
+    question lists are this entry's. Reading review of 2026-11-11, by
+    question. No other change.
 tags:
 - databases
 - information-retrieval
@@ -46,6 +53,7 @@ summary: >-
   argued to cost about N searches.
 bears_on:
 - QUESTION-114
+- QUESTION-187
 ---
 <!-- inactive-ok-file: THEORY-815 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

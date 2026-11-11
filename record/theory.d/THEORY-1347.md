@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpw35bj
 title: 'In Patrick, Knee, Canevello and Lonsbary''s three correlational studies, perceiving that a romantic partner fulfils one''s needs for autonomy, competence and relatedness goes with better relationship quality, with relatedness the strongest unique predictor and the partner''s fulfilment adding to one''s own; but the measure does not separate the needs, its autonomy and competence subscales correlating .96 once corrected for unreliability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-369 added. Its Connections: "Evidence of the kind
+    the question says cannot settle it, and a further problem the question
+    does not state: a relationship-level measure of three needs that behaves
+    ... as one or two." Reading review of 2026-11-11, by question. No other
+    change.
 tags:
 - motivation
 - well-being
@@ -21,6 +30,8 @@ summary: >-
   relationship quality, that autonomous motivation mediates it (the
   mediation is cross-sectional), or that the three needs are distinct
   dimensions.
+bears_on:
+- QUESTION-369
 ---
 <!-- inactive-ok-file: THEORY-054 — Open or Proposed; the question this bears on and a neighbour, cited as open -->
 

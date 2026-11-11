@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoxld9
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -43,6 +43,16 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-072 added, and with it the line record-as-apparatus,
+    that question's first line, after this claim's own (ADR-085). The body
+    names "QUESTION-072, which asks the same of the record's own
+    contributors": this claim gives the form, structural, pre-emptive
+    testimonial injustice as a trust loop, whose reflexive case the question
+    asks, and says the question "needs a prejudice, not only a grammar".
+    Reading review of 2026-11-11, by question. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +72,7 @@ tags:
 date: '2026-10-21'
 line:
 - distributed-agency
+- record-as-apparatus
 rests_on:
 - CLAIM-277
 - CLAIM-330
@@ -76,6 +87,8 @@ summary: >-
   ([THEORY-327](../theory.d/THEORY-327.md)) is a case of it in which some people's views "are not
   sought". The sharp edge: the loop is the same whether what it entrenches
   was earned, and only a prejudice makes it an injustice.
+bears_on:
+- QUESTION-072
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 THEORY-864 — Proposed; readings of 2026-10-21 cited as the loop's empirical shape and as an assertion of it, corroboration and context, not grounds -->

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpvfke3
 title: 'In three cross-sectional studies of undergraduates, most of the variance in adult attachment security lay within persons, across relational partners (56–79%, error included), and relationship-specific satisfaction of the needs for autonomy, competence and relatedness predicted relationship-specific security in every relationship tested, also with the relatedness items removed; relatedness was the strongest unique predictor, then autonomy, then competence'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-369 added. Its title's "also with the relatedness
+    items removed" is the answer QUESTION-369's note of 2026-11-03 (later)
+    gives La Guardia et al. to the interdefinition worry at the level of an
+    instrument. Reading review of 2026-11-11, by question. No other change.
 tags:
 - motivation
 - well-being
@@ -17,6 +25,8 @@ summary: >-
   studies report, with their sizes. It does not say that need
   satisfaction causes security, which the authors say their data cannot
   show and believe runs both ways (p. 381).
+bears_on:
+- QUESTION-369
 ---
 
 # THEORY-1345: In three cross-sectional studies of undergraduates, most of the variance in adult attachment security lay within persons, across relational partners (56–79%, error included), and relationship-specific satisfaction of the needs for autonomy, competence and relatedness predicted relationship-specific security in every relationship tested, also with the relatedness items removed; relatedness was the strongest unique predictor, then autonomy, then competence

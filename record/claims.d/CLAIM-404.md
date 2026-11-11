@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -45,6 +45,14 @@ history:
     At the synthesis review of 2026-11-07: the quotation of CLAIM-348 is
     brought to CLAIM-348's version 4, which narrowed "cannot be justified by"
     to "cannot be justified solely by" on 2026-10-29. No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-070 added. The body says "It bears on ...
+    QUESTION-070 (manipulation by an organized whole, 'as ... a network of
+    state channels does')". Its first line, distributed-agency, is already
+    this claim's (ADR-085). Reading review of 2026-11-11, by question. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -101,6 +109,8 @@ summary: >-
   mechanisms. It does not say that any regulator, newsroom or expert body
   is captured. The replies' empirical works, read on 2026-10-21, ground
   the two routes and give nothing to the loop between institutions.
+bears_on:
+- QUESTION-070
 ---
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->

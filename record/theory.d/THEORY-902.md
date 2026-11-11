@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6h1sd
 title: 'In Friedkin, Jia and Bullo''s study of 30 four-person student groups discussing 15 choice dilemmas, a member''s self-reported closure to influence on the next issue rose with their influence centrality on the previous issue, an effect constant along the sequence, and with their average centrality over all prior issues, an effect that grew along it; influence networks thinned and discussions shortened while the rate of consensus did not change. Closure and centrality both come from the members'' own chip allocations, and prior closure is not controlled'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -37,6 +37,13 @@ history:
     self-reports alone cannot settle it. The wide form, which the source
     asserts, is kept as THEORY-1212, Proposed, which extends this entry
     and inherits the promote_when word for word (ADR-047, kind 1).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-348 added. QUESTION-348: "The one test in the
+    record, Friedkin, Jia and Bullo's laboratory study (THEORY-902) ...
+    supported the individual step and did not reach the predicted end
+    state." Reading review of 2026-11-11, by question. No other change.
 tags:
 - social-science
 - network-science
@@ -51,6 +58,8 @@ summary: >-
   controlled. Supports the individual step and some structural trends; the
   predicted end state, one closed member and consensus on that member's
   view, was not reached.
+bears_on:
+- QUESTION-348
 ---
 <!-- inactive-ok-file: THEORY-1212 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: THEORY-916 — Proposed or Deferred; the claim, account and companion work this bears on, named, nothing here rests on them -->

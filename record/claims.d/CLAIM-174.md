@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwv313
 title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-11'
@@ -72,6 +72,16 @@ history:
     Orseau et al. call their test a formal counterpart of his stances
     (NOTE-705); test 2 now cites it as its ancestor. The tests are
     unchanged.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-228 added. Its test (3) is "Kenton et al.'s
+    criterion", it gives the thermostat-with-designers and policy-against-
+    training verdicts QUESTION-228 asks to see run, beside a compression
+    test (2), and says the test has not "been run on any real candidate" and
+    inherits "Kenton et al.'s frame-dependence". Its first line,
+    distributed-agency, is already this claim's (ADR-085). Reading review of
+    2026-11-11, by question. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -122,6 +132,8 @@ summary: >-
   circularity objection by running on candidates whose boundaries come
   from (1), not from agency, and it answers the permissiveness objection
   without the will paper's supposition.
+bears_on:
+- QUESTION-228
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->

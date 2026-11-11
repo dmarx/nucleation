@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpicw5l
 title: "In Rasooly and Rozzi's pre-registered randomised experiment on 817 Manifold play-money markets, about 59% of a ±5-point price shock that no trader's information supported was still present after 60 days in unresolved markets, with about 25% undone in the first week and reversion slowing after it; their model of finitely many risk-averse traders gives such partial, slowing reversion even with no learning, and the data cannot tell that from learning"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -23,6 +23,13 @@ history:
     THEORY-810, Proposed, to carry what the narrowing dropped. This
     entry's status, title and claims are unchanged; a dated note says what
     moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-212 added. Its promote_when moved to QUESTION-212,
+    which states "THEORY-267 now states one measurement" and asks whether it
+    holds beyond Manifold: the entry is that question's premise. Reading
+    review of 2026-11-11, by question. No other change.
 tags:
 - social-science
 - epistemology
@@ -39,6 +46,8 @@ summary: >-
   whether traders came to believe the shocked price. Its evidence that
   more traders or an outside estimate reduce persistence is
   correlational and weak.
+bears_on:
+- QUESTION-212
 ---
 
 <!-- inactive-ok-file: THEORY-810 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

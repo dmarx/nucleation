@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpfcxzq
 title: 'If a velocity field''s third-order increments obey ‖δu(r)‖₃ ≤ C u_rms (r/L)^σ at every separation r, with 0 < σ < 1, then for a smooth, rapidly decaying filter the space-averaged energy flux across scale ℓ takes at most a fraction of order (ℓ/Δ)^(1−σ) from strain at scales above Δ and of order (δ/ℓ)^(2σ) from stress at scales below δ, measured against u_rms³/L·(ℓ/L)^(3σ−1); so transfer between scales is local in scale, with a power-law decay and no gap'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-20'
@@ -21,6 +21,13 @@ history:
   date: '2026-10-20'
   note: >-
     Connections gain Constantin, E and Titi (THEORY-749): the same estimate vanishes for σ > 1/3, so the non-zero mean flux this account assumes requires σ₃ ≤ 1/3. The account is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-219 added. Its Connections: "The paper provides what
+    A5 required before any flux test: a balance law for a specified
+    quantity", and QUESTION-219 holds this entry's averaged locality as A3's
+    ground. Reading review of 2026-11-11, by question. No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -37,6 +44,8 @@ summary: >-
   satisfies the hypothesis, that the mean flux there is non-zero, and the
   sharper 4/3 exponent are assumptions or heuristics, not part of it. It
   is about one field decomposed by scale, and says nothing about units.
+bears_on:
+- QUESTION-219
 ---
 <!-- inactive-ok-file: LIT-1252 — Deferred; the paper holding the original proofs, registered unread, cited as the source the reading refers to -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->

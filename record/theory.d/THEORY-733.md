@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7brn5
 title: 'For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose''s invariant subspaces, which exist on open sets but not generically at every scale'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -21,6 +21,13 @@ history:
     owner's rule of 2026-10-19), a step-by-step re-derivation meets the
     condition. THEORY-257 keeps the interpretive reading and the
     multimodality, and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-218 added. QUESTION-218 lists this entry "on the
+    closure side": its invariance condition is what makes CASE-120's sum
+    exactly closed with no block. Reading review of 2026-11-11, by question.
+    No other change.
 tags:
 - complex-systems
 - information-theory
@@ -35,6 +42,8 @@ summary: >-
   coarse-grainings Y = LX of a stable VAR with non-degenerate Gaussian
   innovations only. It says nothing about near-independence, about the
   multimodality of the dynamical-dependence cost, or about nonlinear maps.
+bears_on:
+- QUESTION-218
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account this was split from and that extends it, cited as open -->
 
