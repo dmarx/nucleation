@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp8qovh
 title: 'When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,18 @@ history:
     order structures" is this question's refinement order against its
     relevance order; its monotone half is elementary. The question is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Refines QUESTION-039 (a defect listed in the curation entry of
+    2026-11-10). Its own text asks for "the order in which training
+    acquires" a learner's representations and "under what conditions on
+    the learning operator" it agrees with the other two orders, citing
+    THEORY-086 ("in the kernel regime the order is by NTK eigenvalue"),
+    which QUESTION-039 also holds: a sharpening of QUESTION-039's "What
+    sets the order ... at which a network acquires a structure". Under
+    ADR-085 the relation gives this question QUESTION-039's first line,
+    learned-structure, which it already carries. No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -29,6 +41,8 @@ summary: >-
   relevance and acquisition as three relations and asks when they agree.
   An answer is a theorem giving sufficient conditions for a common chain,
   or a minimal family of counterexamples.
+refines:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->

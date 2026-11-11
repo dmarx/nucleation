@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpc3x0c
 title: 'Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -87,6 +87,16 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Two stale self-descriptions corrected, from the defects listed in
+    the curation entry of 2026-11-10: the summary's "Moved into the
+    SYNTHESIS scheme on 2026-11-07" now adds that the claim returned to
+    CLAIM on 2026-11-08 (ADR-084), and the body's "Moved from CLAIM-600,
+    where its development up to version 3 is recorded", the synthesis's
+    pointer back to this claim, now says that development is in the
+    history above. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -165,9 +175,10 @@ summary: >-
   slow reversion (Kline and Moretti). And a place can last while the
   people it served are dispersed (Collins and Shester; LaVoice). The
   wording is the assistant's (Claude, in this session); adopting it is the
-  owner's call. Moved into the SYNTHESIS scheme on 2026-11-07 ([ADR-077](../decisions.d/ADR-077.md)),
-  keeping the standing the status review of 2026-11-06 gave it under the
-  rulings the owner delegated.
+  owner's call. Moved into the SYNTHESIS scheme on 2026-11-07 ([ADR-077](../decisions.d/ADR-077.md))
+  and returned to CLAIM on 2026-11-08 (ADR-084), keeping the standing
+  the status review of 2026-11-06 gave it under the rulings the owner
+  delegated.
 ---
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 THEORY-1477 THEORY-1509 — Proposed; components and readings cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that moved this entry -->
@@ -176,7 +187,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-010](../syntheses.d/SYNTHESIS-010.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-600, where its development up to version 3 is recorded.*
+*Its development up to version 3 is recorded in the history above.*
 
 ## The integration
 
