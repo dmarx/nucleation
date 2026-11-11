@@ -1,7 +1,14 @@
 ---
 status: Open
 title: 'When an organization reproduces a mechanism that keeps its harm non-legible, does it matter to whether the counter-normativity is the organization''s own that another installed the mechanism, or does only whose process now maintains it decide?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    A dated note: Thompson's lecture and Stute's story, read at the
+    owner's request, and CASE-tmp4xp5m, a mechanism installed by one
+    party and reproduced through a host's routine. No other change.
 tags:
 - ethics
 - self-governance
@@ -30,6 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-624 — Proposed; A's answer to the question this refines, cited for the standard its verdict needs -->
 <!-- inactive-ok-file: THEORY-040 THEORY-328 — Proposed; the two sides of TERM-100's open dispute, cited as such -->
+<!-- inactive-ok-file: THEORY-tmpkzkpc THEORY-tmpn3ohs — Proposed; the readings filed with this entry, cited with their standing -->
 
 # QUESTION-tmpmus93: When an organization reproduces a mechanism that keeps its harm non-legible, does it matter to whether the counter-normativity is the organization's own that another installed the mechanism, or does only whose process now maintains it decide?
 
@@ -93,3 +101,24 @@ provenance is one of them.
 Any of these presupposes the independently justified standard that
 [CLAIM-624](../claims.d/CLAIM-624.md)'s verdict needs ([QUESTION-129](QUESTION-129.md)); this question is about
 whose the breach is, not whether there is one.
+
+## Note of 2026-11-11: Thompson, and Stute, read
+
+At the owner's request: Thompson's "Reflections on Trusting Trust"
+([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md), [NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)) and Stute's story of the attack met in
+practice ([THEORY-tmpn3ohs](../theory.d/THEORY-tmpn3ohs.md), [NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)), held as [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md).
+
+The case has the question's shape: a mechanism formed by someone who had
+left, reproduced on every compile by the host's own routine, and hidden
+from the host. No one counts its payload as the host's doing, and
+Thompson's moral places it with "the people who wrote the software".
+
+What it adds to the question is a distinction "whose process now maintains
+it" runs together: the host's routine that carries a mechanism, and an
+installed component that maintains itself by running inside that routine.
+In the case the second holds, so the case does not reach an organization
+that reproduces a mechanism it can see. The question may want to say which
+it asks about. The reading is the assistant's.
+
+A case cannot carry `bears_on`, so the tie is held by the two readings'
+`bears_on` and this note.

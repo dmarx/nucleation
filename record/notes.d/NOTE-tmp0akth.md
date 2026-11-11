@@ -1,0 +1,73 @@
+---
+status: Read
+paper: 'LIT-tmp1lu07'
+title: 'Stute — a coder''s worst nightmare (Quora answer)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-11'
+  note: >-
+    Read in full from the text the owner pasted on 2026-11-11; the Forbes
+    and Quora pages refused a fetch (HTTP 403). The key passages are saved
+    verbatim in the session's scratchpad.
+date: '2026-11-11'
+summary: >-
+  A first-person incident story of Thompson's compiler attack, with a
+  hateful payload, told as true and unverifiable. Read for
+  [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
+---
+
+# NOTE-tmp0akth: Stute — a coder's worst nightmare (Quora answer)
+
+## Contribution
+
+A story of a self-reproducing compiler Trojan horse met in practice: a
+former graduate student's program flashes "some white supremacy message"
+before each question, and the program's mangled source keeps coming back.
+
+## Key results
+
+- The source was mangled "on purpose", and cleaning it did not hold: on
+  each compile the original files reappeared.
+- Recompiling every library from source changed nothing; the cause was "in
+  the compiler", which recognized the program by its questions and rewrote
+  its source when it was compiled.
+- Rebuilding the compiler from clean source also failed: "The ex-grad
+  student had poisoned the compiler to poison itself when it was
+  recompiled." It hid its work in "a hidden directory" it then deleted.
+- What ended it: "We had to put a new binary version of the compiler on
+  disk from another 3B2 running the same revision before the problem went
+  away."
+- The compiler also backdoored /sbin/login; the machine was reachable "by
+  modem and Tymnet".
+
+## Assumptions
+
+The story's own: a research AT&T 3B2 with full source for everything but
+the kernel, and a departed author who had root access once.
+
+## Concepts
+
+The same as Thompson's ([LIT-tmpng40s](../literature.d/LIT-tmpng40s.md)), met from the victim's side: each
+repair that acts on source (the program, the libraries, the compiler's
+source) is undone by the binary that does the compiling.
+
+## Bearing on the record
+
+- **[QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).** The mechanism was installed by someone who had
+  left; it was reproduced by the lab's own routine activity, compiling,
+  and it kept itself out of sight (encrypted strings, a hidden directory
+  deleted after use). No one in the story counts the payload as the lab's
+  doing. It separates two things the question's "whose process now
+  maintains it" runs together: a host's process that carries a mechanism,
+  and an installed component that maintains itself by running inside the
+  host's process. The reading is the assistant's.
+- **[CLAIM-522](../claims.d/CLAIM-522.md).** Interventions on state (the source files, the libraries,
+  the compiler's source) left the mechanism in place; only replacing the
+  producing binary removed it.
+
+## Limitations
+
+An anecdote: no institution, date or record is given, names are partly
+withheld, and the details closely follow Thompson's published construction.
+Held as a stipulated case, not as evidence that the incident occurred.

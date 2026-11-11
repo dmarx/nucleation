@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr8p2x
 title: 'Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-03'
@@ -20,6 +20,12 @@ history:
     Gebharter's statement of the criterion. A dated correction at
     the end of that item says so; the note is otherwise kept as
     written. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    A dated note: Thompson's compiler attack and Stute's story of it
+    (CASE-tmp4xp5m), which illustrates the claim in software. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -59,6 +65,8 @@ summary: >-
   differs, which is [CLAIM-194](CLAIM-194.md)'s point about boundaries.
 ---
 <!-- ref::uses-file: TERM-100 — "where maintenance is realized", by the system's own production or by an outside controller, is TERM-100's maintenance provenance, which recovery under interventions on state cannot show -->
+<!-- inactive-ok-file: THEORY-tmpkzkpc — Proposed; Thompson's lecture, cited in the note of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-163 — Proposed; cited with its standing -->
 
 # CLAIM-522: Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two
 
@@ -142,3 +150,13 @@ No status, title or warrant changes.
 ## Note of 2026-11-07: a test A proposed that this claim limits, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A16 §4 cites this claim rightly: "identical state trajectories under interventions on state can conceal different maintenance mechanisms". A14 §10's third test, for two systems with equivalent effective dynamics, one internally maintained and one externally supplied, is to "Extend the horizon and intervene on the production mechanisms." By this claim the first half does nothing when the outside supply is the production law given as state feedback: no horizon separates the two. Only the intervention on production does. No change.
+
+## Note of 2026-11-11: a compiler Trojan horse
+
+Thompson's construction ([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md)) and Stute's story of it
+([CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md)) are this claim's shape in software. Every intervention on
+what the host could see, the program's source, the libraries and the
+compiler's own source, left the mechanism in place, because the binary
+that produces each of them restored it; only replacing that binary, the
+production mechanism, removed it. [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md) illustrates the claim; it
+bears none of its weight, which rests on the controller construction.
