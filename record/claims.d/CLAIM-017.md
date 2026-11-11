@@ -26,7 +26,7 @@ summary: >-
   "a receiving system can still reconstruct and act upon". No turn
   announces or argues the change.
 ---
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
 # CLAIM-017: What survives translation is the invariants, and approximately preserved relations, of communicative transformation
 

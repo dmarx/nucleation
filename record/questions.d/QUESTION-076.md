@@ -20,7 +20,8 @@ summary: >-
   "Footing" (in [LIT-780](../literature.d/LIT-780.md)) is the construct's source and is unread here.
 ---
 <!-- inactive-ok-file: LIT-780 — Unavailable; Goffman, unread here, named as the source of the construct and not leaned on -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-084 — Proposed; open, cited for the observables their defeat conditions and outcomes name, not as settled -->
+<!-- inactive-ok-file: CLAIM-084 — Proposed; open, cited for the observables their defeat conditions and outcomes name, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
 # QUESTION-076: Can readers judge footing and stance reliably and validly in the categories the designs use?
 

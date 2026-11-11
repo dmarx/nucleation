@@ -36,7 +36,7 @@ summary: >-
   its case with response trajectories as the probes, and [TERM-014](TERM-014.md)'s
   communicative object is a class of it. Adopted by the owner on 2026-10-21.
 ---
-<!-- inactive-ok-file: CLAIM-139 — Proposed; listed as one of the entries using the phrase, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the evidential reading of probe agreement, cited as open -->
 
 # TERM-069: observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them

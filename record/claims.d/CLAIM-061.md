@@ -66,7 +66,7 @@ complements:
 <!-- ref::uses-file: TERM-030 — footing and the speaker's position are components of TERM-030's configuration c = (u, s, a, k, n, g, h), which is where the delivery frame's who-to-whom-from-what-position went; until 2026-10-27 it used TERM-035, now Superseded -->
 <!-- inactive-ok-file: THEORY-162 CLAIM-486 — Proposed; the reading that corroborates this claim, and the necessity half split from it, cited as open -->
 <!-- inactive-ok-file: CLAIM-006 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
 # CLAIM-061: Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event

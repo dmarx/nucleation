@@ -36,8 +36,8 @@ summary: >-
   applied to the thesis rather than to model judges. It does not say the
   thesis is empty.
 ---
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-139 — Proposed; open, cited for the task family Q, the negative clause and the later thesis, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the thesis this objection is to, as worded; the objection stays pointed at it -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-220 — Proposed; the record's revised thesis of 2026-10-10, open, cited in the history as the repair -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

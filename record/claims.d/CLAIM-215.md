@@ -45,7 +45,8 @@ summary: >-
   intention-based account meets it too, so it does not tell relational
   constitution from that rival. The study cannot test it. A proposal.
 ---
-<!-- inactive-ok-file: CLAIM-139 CLAIM-151 CLAIM-136 CLAIM-204 — Proposed; open, and cited as the theses this one is split from or set beside, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-136 CLAIM-204 — Proposed; open, and cited as the theses this one is split from or set beside, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-221 — Proposed; the record's reply on competent uptake and the open objection from intention-based accounts, both cited as open -->
 
 # CLAIM-215: Communicative kinds are repeatable organizations of relations among participants, norms, commitments and possible consequences, which concrete events realize without being one another, and which kind an event realizes is not exhausted by the intrinsic properties of the expression token

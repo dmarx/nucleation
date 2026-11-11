@@ -25,7 +25,7 @@ summary: >-
   It objects to [CLAIM-139](CLAIM-139.md) as stated, not to its truth, and it is
   granted because it is a comparison of texts.
 ---
-<!-- inactive-ok-file: CLAIM-139 CLAIM-115 — Proposed; open, and cited as open: the theses compared and the receiver-side claim are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-139 CLAIM-115 — Superseded, by CLAIM-204 and CLAIM-220 respectively; cited as they stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the earlier thesis that still kept the receiver -->
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in the note -->
 

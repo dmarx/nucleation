@@ -4,7 +4,18 @@ status: Active
 formerly:
 - CASE-tmpunxdh
 title: 'Marot''s "A une Damoyselle malade" and Hofstadter''s translations of it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Illustrates CLAIM-220 in place of CLAIM-115, which CLAIM-220
+    superseded on 2026-10-29. The case's use, "several preservation
+    targets compete, so that no single rendering is *the* translation",
+    is the task-relativity CLAIM-220 states ("for a named population of
+    receivers and a stated family of tasks"), and CLAIM-220 keeps
+    CLAIM-115's answer, "not the wording or the proposition". A note
+    says so. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -13,14 +24,15 @@ tags:
 date: '2026-10-06'
 line: pragmatic-transport
 illustrates:
-- CLAIM-115
+- CLAIM-220
 summary: >-
   A sixteenth-century get-well poem whose content is trivial and whose
   form is everything, translated dozens of ways by Hofstadter and
   others. The exchange's founding case, and the manuscript's opening one
   (§1).
 ---
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-220 — Proposed; the claim this case illustrates, open -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-766 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
 # CASE-031: Marot's "A une Damoyselle malade" and Hofstadter's translations of it
@@ -70,3 +82,12 @@ The necessity role passes to [CASE-056](CASE-056.md), Phillips's handshake for t
 "holy kiss", which changes what is directed and was judged by Nida to keep
 the greeting. That case supplies documentation. It does not supply reader
 evidence, which this case lacks too.
+
+## Note of 2026-11-11: the claim it illustrates
+
+CLAIM-115, named above as the claim this case illustrates, was superseded
+on 2026-10-29 by CLAIM-220, and the case now illustrates CLAIM-220. Its use is
+unchanged: competing preservation targets, so that what survives is relative
+to the tasks a rendering serves, which CLAIM-220 states for named receivers and
+a stated family of tasks. It does not illustrate CLAIM-220's comparison of
+predictors, which only CASE-055 can decide.

@@ -35,7 +35,7 @@ reported_in:
 - LIT-791
 - LIT-1864
 ---
-<!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for the comparative test this case does not supply -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited through Marlowe's transcription and Munday, and not leaned on beyond the quoted page -->
 
 # CASE-056: J. B. Phillips's "hearty handshake all round" for Paul's "holy kiss", and Nida's judgement that it keeps the greeting

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp2i7yj
 title: 'Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s): only a do(S) intervenes on the relations that would constitute an act, and in a vignette or rating study every manipulation is a do(I)'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -33,6 +33,12 @@ history:
     changing the situation, do(S = s), so the effect of a cue is evidence
     about interpretation under instruction, not about whether the act
     changed'. The body is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    "What it does not say" named CLAIM-115's thesis as the one about
+    interpretation; CLAIM-115 was superseded by CLAIM-220 on 2026-10-29.
+    The sentence now names CLAIM-220. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,8 +76,10 @@ summary: >-
   an experiment manipulates. The sharp edge: in a vignette or rating
   study every manipulation is a do(I).
 ---
+<!-- inactive-ok-file: CLAIM-220 — Proposed; cited beside this claim, not as a premise -->
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
-<!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, cited beside this claim, not as premises -->
+<!-- inactive-ok-file: CLAIM-127 — Proposed; open, cited beside this claim, not as premises -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
 <!-- inactive-ok-file: ARG-012 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
@@ -132,7 +140,8 @@ It does not say the two effects differ in fact. That is the defeat
 condition. It does not say the structural model is identified. A129's
 caption: "Schematic causal model, not a uniquely identified causal graph."
 It does not say that attributed-speaker studies are useless. They measure
-interpretation, which is what [CLAIM-115](CLAIM-115.md)'s thesis is about.
+interpretation, which is what CLAIM-220's thesis, the restatement that
+superseded CLAIM-115, is about.
 
 The sharp edge is that do(S) is rarely available. In a vignette or rating
 study every manipulation is a change in what the reader is told. That

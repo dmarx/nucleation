@@ -32,7 +32,8 @@ summary: >-
   "objects" and never argues the general version.
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of the thesis, whose earlier changes went unannounced -->
-<!-- inactive-ok-file: CLAIM-139 CLAIM-115 CLAIM-151 CLAIM-136 CLAIM-134 CLAIM-138 CLAIM-137 CLAIM-142 — Proposed; open, and cited as open: the theses and objections that bear on this question are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-136 CLAIM-134 CLAIM-138 CLAIM-137 CLAIM-142 — Proposed; open, and cited as open: the theses and objections that bear on this question are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-139 CLAIM-115 — Superseded, by CLAIM-204 and CLAIM-220 respectively; cited as they stood, not as what the record now holds -->
 
 # QUESTION-029: What constitutes the identity of a relationally organized communicative act, how can it be recognized apart from any one representation, and under which transformations does it persist?
 

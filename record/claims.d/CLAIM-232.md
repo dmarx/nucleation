@@ -52,7 +52,8 @@ summary: >-
   a design could answer it.
 ---
 <!-- inactive-ok-file: ARG-026 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses this objection is to, as worded; the objection stays pointed at them -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
 # CLAIM-232: Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither

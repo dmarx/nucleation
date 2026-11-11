@@ -28,7 +28,8 @@ summary: >-
   is a reading of the record. It does not say footing cannot be measured.
 ---
 <!-- inactive-ok-file: CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-014 — Proposed; open, cited for their defeat conditions, not as settled -->
+<!-- inactive-ok-file: CLAIM-014 — Proposed; open, cited for their defeat conditions, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the works are unread here, cited as the sources the line names for footing and force and not leaned on -->
 
 # CLAIM-227: No validated measure of footing or stance exists in the record, and the one repeated assignment of footing, the analyst's own, changed between passes

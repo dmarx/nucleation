@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp1xaiq
 title: 'A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -24,6 +24,13 @@ history:
     Complements CLAIM-220 in place of CLAIM-115, which it superseded:
     a topic surviving a change of act sits beside CLAIM-220's
     comparison of predictors.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The claim section called this a form of what CLAIM-115 says survives
+    translation; CLAIM-115 was superseded by CLAIM-220 on 2026-10-29,
+    and this claim complements CLAIM-220 since version 3. The sentence
+    now names CLAIM-220 and its wording. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -59,9 +66,10 @@ summary: >-
   lexical structure is irrelevant to the act, or that a richer
   factorization cannot capture acts.
 ---
+<!-- inactive-ok-file: CLAIM-220 — Proposed; the thesis this claim complements, open -->
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the thesis this claim complements -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
 # CLAIM-129: A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act
 
@@ -111,8 +119,9 @@ a strong result would show: "the model distinguishes shared subject matter
 from shared communicative identity". A214 §8 builds the laboratory on it.
 A218 makes it hypothesis H3: "Topic-preserving transformations will
 sometimes reduce pragmatic or causal fidelity". It is a factorization-side
-form of what [CLAIM-115](CLAIM-115.md) says survives translation, which is distinctions
-a receiver can act on, not wording or proposition.
+form of what CLAIM-220, which superseded CLAIM-115, says survives
+translation: task-relevant distinctions the receivers can still recover,
+not wording or proposition.
 
 ## Shared and private factors
 

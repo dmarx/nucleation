@@ -40,7 +40,8 @@ summary: >-
   thesis; it is not applied to the tests. It does not say
   cross-population fidelity is meaningless.
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the thesis this objection is to, as worded; the objection stays pointed at it -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the line's own theses the pooled tests are inconsistent with, not as settled -->
 <!-- inactive-ok-file: CLAIM-084 — Proposed; open, cited only for its report of the manuscript's split annotators -->
 

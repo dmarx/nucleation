@@ -33,7 +33,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-254 CLAIM-242 — Proposed; the open objection to this entry's last paragraph and the record's reply to it -->
 <!-- inactive-ok-file: ARG-034 ARG-033 — Rejected or Proposed; the two arguments this claim moved to -->
-<!-- inactive-ok-file: CLAIM-082 CLAIM-115 THEORY-159 — Proposed; the premise this corrected, the thesis resting on it and the reading, open -->
+<!-- inactive-ok-file: CLAIM-082 THEORY-159 — Proposed; the premise this corrected, the thesis resting on it and the reading, open -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
 # CLAIM-072: Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition
 

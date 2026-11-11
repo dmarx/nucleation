@@ -34,7 +34,8 @@ summary: >-
   It does not say kinds are unreal, and it is not [CLAIM-150](CLAIM-150.md)'s
   underdetermination of the ontology.
 ---
-<!-- inactive-ok-file: CLAIM-139 CLAIM-142 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; the thesis this objection is to, as worded; the objection stays pointed at it -->
 <!-- inactive-ok-file: CLAIM-137 — Proposed; open, cited as the premises the dilemma uses and a sibling defeat condition, not as settled -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in "Where it stands" -->
 

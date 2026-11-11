@@ -51,7 +51,8 @@ summary: >-
 complements:
 - CLAIM-301
 ---
-<!-- inactive-ok-file: CLAIM-090 CLAIM-115 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: CLAIM-090 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-078 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 <!-- ref::uses-file: TERM-084 — "later entries reach the claim by descent, by its code, not by resemblance" is descent in TERM-084's sense, the continuity of transmission a code restores -->

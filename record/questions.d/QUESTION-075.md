@@ -19,7 +19,8 @@ summary: >-
   claim, and says how fidelity for one population bears on another
   ([CLAIM-074](../claims.d/CLAIM-074.md)).
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-128 — Proposed; open, cited for the relativity of fidelity and the conditions that lacked an index, not as settled -->
+<!-- inactive-ok-file: CLAIM-128 — Proposed; open, cited for the relativity of fidelity and the conditions that lacked an index, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; cited as they stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; the objection that raised this question, open -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-204 CLAIM-240 CLAIM-217 — Proposed; the record's replies of 2026-10-10 that answer part of it, open -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->

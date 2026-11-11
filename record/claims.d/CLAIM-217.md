@@ -60,7 +60,8 @@ summary: >-
   which the programme does not test.
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-139 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-206 — Proposed; the objection this entry answers, left open until the owner decides on the revised October thesis -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-204 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
