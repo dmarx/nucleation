@@ -252,7 +252,7 @@ of Holocaust survivors' offspring (Yehuda et al.) under the germline route,
 and the summary counts the Yehuda study among the claims of epigenetic
 transmission. The note of 2026-10-29, "the other routes, read at second
 hand", says both labels are wrong: Överkalix is a male-line nutritional
-case, not a trauma case (NOTE-1320), and the FKBP5 study is
+case, not a trauma case ([NOTE-1320](../notes.d/NOTE-1320.md)), and the FKBP5 study is
 intergenerational, not a germline test, with the offspring's methylation
-lower than the parents' (NOTE-1310). The question as posed is left as
+lower than the parents' ([NOTE-1310](../notes.d/NOTE-1310.md)). The question as posed is left as
 written; read those two examples with that note.

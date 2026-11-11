@@ -228,6 +228,5 @@ use of vector-space meanings.
 
 ## Note of 2026-11-11: reading filed
 
-<!-- inactive-ok-file: THEORY-1586 — Proposed; the reading filed from this NOTE -->
 
-The line "No THEORY filed" above is out of date. The read-and-file pass of 2026-11-11 filed THEORY-1586, Proposed, from this NOTE. The reason given was that the reading's one structural point is a fact about this construction, not a finding about language that the record lacks. The reading's title reports the construction as Abramsky and Sadrzadeh give it and limits its statement about obstructions to "their linguistic examples". The line is left as written.
+The line "No THEORY filed" above is out of date. The read-and-file pass of 2026-11-11 filed [THEORY-1586](../theory.d/THEORY-1586.md), Proposed, from this NOTE. The reason given was that the reading's one structural point is a fact about this construction, not a finding about language that the record lacks. The reading's title reports the construction as Abramsky and Sadrzadeh give it and limits its statement about obstructions to "their linguistic examples". The line is left as written.

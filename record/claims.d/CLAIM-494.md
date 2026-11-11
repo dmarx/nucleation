@@ -42,7 +42,7 @@ summary: >-
   as the empirical objection to the owner's thesis; both papers are
   unread, so the record holds the disagreement, not its resolution.
 ---
-<!-- inactive-ok-file: CLAIM-491 THEORY-1624 — Proposed or Open; the thesis objected to and its question -->
+<!-- inactive-ok-file: CLAIM-491 — Proposed or Open; the thesis objected to and its question -->
 <!-- inactive-ok-file: LIT-1700 LIT-1683 until 2027-04-29 — Unavailable, cited and read at second hand (NOTE-1274, NOTE-1282), not grounds; ask again whether the objection holds once they are read, or by this date -->
 
 # CLAIM-494: Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
@@ -95,17 +95,17 @@ measured as Cialdini et al. measured it.
 ## Note of 2026-11-11: the count of experiments, and the new reading
 
 The summary gives Batson et al.'s experiments as "two, by the SEP's
-account". No entry in the record now says four, though NOTE-1274 and
-LIT-1700 said the record did; their dated notes of today record that. The
+account". No entry in the record now says four, though [NOTE-1274](../notes.d/NOTE-1274.md) and
+[LIT-1700](../literature.d/LIT-1700.md) said the record did; their dated notes of today record that. The
 only count the record holds is the SEP's "a pair of experiments"
-(NOTE-1274), at second hand, and LIT-1700 is unread, so the count is not
+([NOTE-1274](../notes.d/NOTE-1274.md)), at second hand, and [LIT-1700](../literature.d/LIT-1700.md) is unread, so the count is not
 settled and is left as it stands.
 
-The SEP entry now has a reading, THEORY-1624, Proposed, filed in the read-
-and-file pass of 2026-11-11. The claim keeps LIT-1729 in grounds rather than
+The SEP entry now has a reading, [THEORY-1624](../theory.d/THEORY-1624.md), Proposed, filed in the read-
+and-file pass of 2026-11-11. The claim keeps [LIT-1729](../literature.d/LIT-1729.md) in grounds rather than
 moving it there: the reading's title reports that Batson's experiments tell
 against two versions of egoism and that no merging measure tests numerical
 identity, and holds that psychological altruism is not yet established. It
 does not state what this claim needs, that empathy predicted helping with
-merging controlled, which NOTE-1274 records only in its body. Moving the
+merging controlled, which [NOTE-1274](../notes.d/NOTE-1274.md) records only in its body. Moving the
 ground would need a reading that says that.
