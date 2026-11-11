@@ -16,17 +16,17 @@ summary: >-
   `integrates` runs one way: no entry shows which account it belongs to.
   This decision gives `integrates` a derived converse, `integrated_by`,
   declared on the seven schemes an account can integrate, and stored on
-  no entry (ADR-079). On the record of 2026-11-10 it annotates 163
+  no entry ([ADR-079](ADR-079.md)). On the record of 2026-11-10 it annotates 163
   entries, 18 of them with two or more accounts. Rejected: cluster-level
   tags; a stored `part` field; leaving it to the current-account view.
 ---
-<!-- inactive-ok-file: ADR-079 ADR-083 ADR-084 ADR-085 — Proposed; the derived converses, the accounts and the line rule this builds on -->
+<!-- inactive-ok-file: ADR-079 ADR-083 ADR-084 — Proposed; the derived converses, the accounts and the line rule this builds on -->
 
 # ADR-tmpr3rsd: An entry shows the accounts that integrate it: `integrates` gets a derived converse, `integrated_by`, on every scheme an account can integrate, so a part of a line's argument is visible from its members and not only from the current-account view
 
 ## Context
 
-ADR-083 and ADR-084 made a SYNTHESIS the account of a scope of the
+[ADR-083](ADR-083.md) and [ADR-084](ADR-084.md) made a SYNTHESIS the account of a scope of the
 record's argument, a line or a part of one, and let a line's account be
 built over its parts' accounts. The reviews of 2026-11-10 used this for
 four lines:
@@ -53,11 +53,11 @@ a cluster has in common. Measured over the parts' components:
   - operations-research leads both readiness parts kept together, so it
     cannot tell them apart.
 - **Some parts hang from one entry:**
-  - acquisition from QUESTION-039, which 9 of its 12 components refine;
-  - last-layer collapse from QUESTION-051 (5 of 6);
-  - withdrawal from QUESTION-398 (9 of 30);
-  - reaching from CLAIM-571 (9 of 24);
-  - valence from CLAIM-440 (8 of 26).
+  - acquisition from [QUESTION-039](../questions.d/QUESTION-039.md), which 9 of its 12 components refine;
+  - last-layer collapse from [QUESTION-051](../questions.d/QUESTION-051.md) (5 of 6);
+  - withdrawal from [QUESTION-398](../questions.d/QUESTION-398.md) (9 of 30);
+  - reaching from [CLAIM-571](../claims.d/CLAIM-571.md) (9 of 24);
+  - valence from [CLAIM-440](../claims.d/CLAIM-440.md) (8 of 26).
 - **Six parts have no such entry:** corporate affect, feeling, nesting,
   concepts, the costs of anchoring, and keeping.
 
@@ -66,7 +66,7 @@ declared on SYNTHESIS with no converse. A claim's page does not say which
 part, or which line's account, it belongs to. The current-account view is
 the only place the parts can be seen.
 
-ADR-079 already stores each directed relation on one side and derives its
+[ADR-079](ADR-079.md) already stores each directed relation on one side and derives its
 converse when the record is read. Examples are `refined_by`,
 `answered_by` and `bearing`.
 
@@ -77,7 +77,7 @@ converse when the record is read. Examples are `refined_by`,
 - **It is declared on every scheme an account can integrate:** CLAIM,
   TERM, CASE, THEORY, QUESTION, ARG and SYNTHESIS. On a SYNTHESIS it names
   the line account built over a part account.
-- **It is derived, never stored** (ADR-079). No entry is edited. Every
+- **It is derived, never stored** ([ADR-079](ADR-079.md)). No entry is edited. Every
   page of an integrated entry lists the accounts that integrate it, Current
   or Proposed, once the views are regenerated.
 - **A superseded account still appears, with its status.** The page shows
@@ -89,8 +89,8 @@ converse when the record is read. Examples are `refined_by`,
   vocabulary, a field and a part of one argument. They would also carry no
   standing, and they would have to be kept in step with accounts by hand.
 - **A stored `part` field on each entry.** This is a second axis beside
-  `line` doing an account's job, as ADR-082 said when it rejected a part
-  field. It would also be stored on many entries, which ADR-079 avoids for
+  `line` doing an account's job, as [ADR-082](ADR-082.md) said when it rejected a part
+  field. It would also be stored on many entries, which [ADR-079](ADR-079.md) avoids for
   any relation that can be derived.
 - **Leave it to the current-account view.** The view shows parts from the
   account's side. A reader on a claim's page, or a filer adding a relation
@@ -99,17 +99,17 @@ converse when the record is read. Examples are `refined_by`,
 - **Root questions alone.** Where a part asks one question, a root
   QUESTION that its members refine or bear on is the record's own way to
   say so, and it is filed separately where it has content of its own
-  (ADR-072). But six parts have none, and not every part asks one
+  ([ADR-072](ADR-072.md)). But six parts have none, and not every part asks one
   question. A converse covers every part without inventing a question.
 
 ## Consequences
 
 - On the record of 2026-11-10, 163 entries gain an "Accounted for in"
   list: 72 claims, 45 questions, 21 cases, 16 terms, 3 ARGs and 6 part
-  accounts. Eighteen are in two or more accounts. One is CLAIM-355, in the
+  accounts. Eighteen are in two or more accounts. One is [CLAIM-355](../claims.d/CLAIM-355.md), in the
   evidence-for-experience account, the feeling part and organizational
   affect's line account.
-- **A component's revision now shows which accounts to recheck.** ADR-083
+- **A component's revision now shows which accounts to recheck.** [ADR-083](ADR-083.md)
   makes leaving out or misstating a component an account's defeater, so
   this is the list a filer needs.
 - **No question-to-subquestion relation is added.** `refines` is one
