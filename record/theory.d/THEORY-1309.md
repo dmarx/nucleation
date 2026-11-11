@@ -4,7 +4,22 @@ status: Active
 formerly:
 - THEORY-tmp544fr
 title: 'For a small-noise diffusion the Freidlin–Wentzell quasi-potential equals 2 inf ∫ |b| sin²(θ/2) ds over curves, θ the angle between curve and drift, and the minimizing curve is the path a noise-driven transition follows with probability tending to one; with gradient drift and identity noise that curve runs against the drift, the time-reversed relaxation path, while a far-from-gradient drift, as in the Maier–Stein model above β = 4, makes it depart from the heteroclinic orbit'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-071, at the reading review of 2026-11-11 (by
+    topic, mathematics; ADR-091). The question's note of 2026-11-02:
+    "In a gradient system with small isotropic noise, the most likely
+    escape follows the time-reversal of the relaxation path from the
+    saddle (Freidlin–Wentzell; LIT-1881; Heymann and Vanden-Eijnden,
+    LIT-1981, registered)"; its note of 2026-11-03: Heymann and
+    Vanden-Eijnden "confirm the note of 2026-11-02 for gradient drift
+    with identity noise", and "in the Maier–Stein model the noise path
+    stays the reversed relaxation path up to β = 4". This reading
+    holds both. Bearing, not answering: the path test is one thing
+    history could record, not the question's answer. No other change.
 tags:
 - mathematics
 - complex-systems
@@ -20,6 +35,8 @@ summary: >-
   threshold is the paper's computation agreeing with Maier and Stein's.
   It does not say anything at finite noise, or for degenerate noise, which
   the paper's ellipticity assumption excludes.
+bears_on:
+- QUESTION-071
 ---
 <!-- inactive-ok-file: NOTE-1504 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 

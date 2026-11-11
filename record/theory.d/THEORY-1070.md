@@ -4,7 +4,22 @@ status: Active
 formerly:
 - THEORY-tmpga5mk
 title: 'For a weighted cellular sheaf of finite-dimensional vector spaces on a finite cell complex, the kernel of the degree-k Hodge Laplacian is the k-th sheaf cohomology, in degree 0 the space of global sections, and the linear flow ẋ = −Δ^k x converges exponentially to the orthogonal projection of its initial state onto that kernel, each eigencomponent decaying at its own eigenvalue; the inner products on the stalks are part of the data, so the same sections can come with different rates, and the Laplacian does not determine the sheaf'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Corroborates CLAIM-481, at the reading review of 2026-11-11 (by
+    topic, mathematics; ADR-091). The claim's body says of a Laplacian
+    flow that "The kernel of L is the exactly compatible
+    configurations, and the nonzero eigenvalues are the rates at which
+    incompatible variations are suppressed (A21 §3; Hansen and Ghrist,
+    LIT-1659)", and its note of 2026-10-27 that Hansen and Ghrist
+    "prove that ẋ = −Δx converges exponentially to the orthogonal
+    projection onto the kernel, each eigencomponent decaying at its
+    own eigenvalue". This reading holds that proof (Prop. 8.1). The
+    claim's computations are its own and it grounds on LIT-1659, so
+    corroborates. No other change.
 tags:
 - mathematics
 - network-science
@@ -18,6 +33,8 @@ summary: >-
   determining the sheaf. Active as mathematics. The paper does not speak of
   relaxation rates or time-scale separation, does not say what produces the
   restriction maps, and treats only linear flows of a fixed Laplacian.
+corroborates:
+- CLAIM-481
 ---
 
 # THEORY-1070: For a weighted cellular sheaf of finite-dimensional vector spaces on a finite cell complex, the kernel of the degree-k Hodge Laplacian is the k-th sheaf cohomology, in degree 0 the space of global sections, and the linear flow ẋ = −Δ^k x converges exponentially to the orthogonal projection of its initial state onto that kernel, each eigencomponent decaying at its own eigenvalue; the inner products on the stalks are part of the data, so the same sections can come with different rates, and the Laplacian does not determine the sheaf
