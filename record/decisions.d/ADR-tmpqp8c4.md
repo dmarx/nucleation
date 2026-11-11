@@ -89,8 +89,7 @@ inquiry inside realizability after the split meant to take it out.
 
 - Realizability's account is drafted without the withdrawal part. The
   claims that bear on QUESTION-399 stay in it.
-- Some `rests_on` steps now cross lines between transient-support and
-  realizability, for example CLAIM-605 to CLAIM-604. They are dependencies,
-  and the argument chain reports them.
+- No `rests_on` step from a moved claim crosses lines: each claim it rests
+  on shares a line with it.
 - Rerunning ADR-085's rule after the move finds no entry missing
   transient-support.
