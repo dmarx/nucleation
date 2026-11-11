@@ -6,7 +6,7 @@ tags:
 - record
 date: '2026-11-11'
 summary: >-
-  A THEORY has no `line` field (ADR-032), so nothing showed which lines of the
+  A THEORY has no `line` field ([ADR-032](ADR-032.md)), so nothing showed which lines of the
   argument a reading serves, and the synthesis reviews of 2026-11-11 found
   promotion conditions that link to nothing in their line because their
   links run to a THEORY. A reading's lines are now derived: the first lines
@@ -25,12 +25,12 @@ summary: >-
 ## Context
 
 A line is "a named line of the record's own argument, so that a line can
-be set aside as a whole and what depends on it can be found" (ADR-032). The
+be set aside as a whole and what depends on it can be found" ([ADR-032](ADR-032.md)). The
 owner clarified on 2026-11-11 what "set aside" means: a line put down for
 now, while other inquiry is developed, not a line retracted. Setting a
 line aside defers it.
 
-ADR-032 gave `line` to the record's own argument (CLAIM, QUESTION, CASE,
+[ADR-032](ADR-032.md) gave `line` to the record's own argument (CLAIM, QUESTION, CASE,
 TERM, ARG, SYNTHESIS) and not to its readings (THEORY), which say what a
 work holds. A reading enters the argument through relations: a claim or
 argument `grounds` on it, it `corroborates` a claim, it `answers` or
@@ -50,7 +50,7 @@ its readings, and if it is not, that is a large oversight.
   entries that use it: those that ground on it (its `supports`), the
   claims it `corroborates`, the questions it `answers` or `bears_on`, and
   the cases it `reports`. An entry Superseded or Rejected does not count.
-  The first line only, as ADR-085 reads a relation: an entry that grounds
+  The first line only, as [ADR-085](ADR-085.md) reads a relation: an entry that grounds
   on a reading uses it for the argument it makes first.
 - **They are computed, never stored.** A Luria view template reads
   them off the relations each time the views are built, so a reading gains
@@ -60,7 +60,7 @@ its readings, and if it is not, that is a large oversight.
   record/views.d/readings-by-line.md.j2, gives for each line the readings
   it uses, with how many entries use each and the other lines it serves,
   and lists the readings in force that no line uses, by primary topic.
-- **Demonstration (ADR-071).** The view itself. On 2026-11-11 it finds 856
+- **Demonstration ([ADR-071](ADR-071.md)).** The view itself. On 2026-11-11 it finds 856
   readings in force, of which 277 serve a line and 579 serve none. By
   line: distributed-agency 90, learned-structure 38, pragmatic-transport
   35, transient-support and realizability 32 each, will-organization 28,
@@ -73,7 +73,7 @@ its readings, and if it is not, that is a large oversight.
   and which ones changes whenever a claim grounds on it or is retired. A
   stored field would need a sweep to keep it current and would drift
   between sweeps; the relations already hold the answer.
-- **Every line of a using entry.** ADR-085 version 2 found that passing on
+- **Every line of a using entry.** [ADR-085](ADR-085.md) version 2 found that passing on
   every line an entry carries spreads lines far from the argument that uses
   them. The first line is the argument the entry makes.
 - **A Luria feature for derived fields over paths.** Luria derives only
