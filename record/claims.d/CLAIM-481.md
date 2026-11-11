@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpywecm
 title: 'Coupling does not by itself separate time scales: two identical undamped oscillators coupled with stiffness k have normal modes at ω₀ and √(ω₀² + 2k), nearly equal when k ≪ ω₀², and neither decays; separation comes where the coupling dissipates relative differences faster than collective ones, as in ẋ = −ax − k(x − y), ẏ = −ay − k(y − x), whose collective and relative modes relax at rates a and a + 2k, and in a Laplacian flow ẋ = −κLx, where the spectrum of L sets the rates'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -15,6 +15,20 @@ history:
     inactive-ok comment called LIT-1639 Deferred where it is
     Unfetched (a lawful full text found on 2026-10-27, not
     fetched). Both now say what the record holds. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    From the by-topic reading review of 2026-11-11, at the status
+    review's ruling (the owner delegated these rulings; ADR-058).
+    LIT-1659 and LIT-1649 leave grounds. The claim proves its own
+    case: its section "Checked" rederives the modal decay of a
+    Laplacian flow and the other reductions. Hansen and Ghrist
+    (LIT-1659) are cited for the Laplacian flow's convergence, and
+    Spivak (LIT-1649) for A22's gloss "the same relational
+    organization need not imply the same temporal hierarchy"; both
+    are parallels, and their readings THEORY-1070 and THEORY-1054
+    already corroborate this claim. The body keeps both citations.
+    The text is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -30,9 +44,6 @@ complements:
 - CLAIM-478
 - CLAIM-521
 - CLAIM-626
-grounds:
-- LIT-1659
-- LIT-1649
 summary: >-
   The answer A20, A21 and A23 gave to the owner's conjecture at U20 that
   coupling necessarily induces scale separation ([CLAIM-473](CLAIM-473.md)). Two

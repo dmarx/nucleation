@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnt2nd
 title: 'A term''s value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -29,6 +29,22 @@ history:
     coexisting terms are changed.' Communicative role is the use-level
     notion ARG-033 concedes value is not; the test is now THEORY-159's
     promote_when. The title and status are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Citation corrected, from the by-topic reading review of
+    2026-11-11, at the status review's ruling (the owner delegated
+    these rulings). The body cited THEORY-182, Proposed, for the
+    closed-form solution: "solve a close proxy of word2vec in closed
+    form (THEORY-182). The learned embeddings are the top eigenvectors
+    of one matrix". The closed form, the minimisers as the top
+    eigenvectors up to rotation, is THEORY-739's, Active since its
+    split from THEORY-182 on 2026-10-19; THEORY-182 keeps the
+    dynamics from small initialisation and the match with word2vec.
+    The sentence now cites THEORY-739 for the minimisers and
+    THEORY-182 for the learning from small initialisation, and
+    THEORY-739 now corroborates this claim as THEORY-182 does. The
+    claim, its grounds and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -115,11 +131,13 @@ carried between systems. It does not show that this is Saussure's value.
 ## A model whose meanings are purely relational
 
 Karkada, Simon, Bahri and DeWeese ([LIT-855](../literature.d/LIT-855.md), read in [NOTE-660](../notes.d/NOTE-660.md)) solve a close
-proxy of word2vec in closed form ([THEORY-182](../theory.d/THEORY-182.md)). The learned embeddings are
+proxy of word2vec in closed form ([THEORY-739](../theory.d/THEORY-739.md)). The minimising embeddings are
 the top eigenvectors of one matrix: the relative deviation of each word
 pair's co-occurrence from independence. Nothing else enters, and the loss
 sees only inner products between embeddings, so each embedding is fixed
-only up to a common rotation. A word's learned representation is therefore
+only up to a common rotation. That training from small initialisation
+reaches them, one eigenvector at a time, is [THEORY-182](../theory.d/THEORY-182.md)'s further and
+Proposed reading. A word's representation at the optimum is therefore
 nothing but its pattern of departures from chance co-occurrence with every
 other word, and the analogy structure the model shows comes out of that.
 

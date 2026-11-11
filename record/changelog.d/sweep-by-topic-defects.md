@@ -1,0 +1,3 @@
+### Fixed
+
+- Defect sweep after the by-topic reading review of 2026-11-11: stale notes in [CLAIM-070](record/claims.d/CLAIM-070.md), [CLAIM-125](record/claims.d/CLAIM-125.md), [CLAIM-237](record/claims.d/CLAIM-237.md), [CLAIM-477](record/claims.d/CLAIM-477.md) and [QUESTION-020](record/questions.d/QUESTION-020.md) corrected; wrong citations in [CLAIM-082](record/claims.d/CLAIM-082.md), [QUESTION-202](record/questions.d/QUESTION-202.md) and [THEORY-611](record/theory.d/THEORY-611.md)'s summary fixed; seven claims' grounds on works that now have readings moved to corroboration or dropped as framing or attribution.

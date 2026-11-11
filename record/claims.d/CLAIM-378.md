@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp67453
 title: 'A representational similarity index invariant to every invertible linear map depends on a representation only through its column space, so it takes one value on all column-centred representations of rank n − 1, as it does on all representations of rank n'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -16,6 +16,15 @@ history:
     representations. The version written here is more general: any two
     representations with the same column space are related by an invertible
     linear map. It is the record's own, so it is a CLAIM (ADR-032).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    From the by-topic reading review of 2026-11-11, at the status
+    review's ruling (the owner delegated these rulings; ADR-058).
+    LIT-254 leaves grounds. The claim proves its own case, a
+    generalization of Kornblith et al.'s Theorem 1 (THEORY-236) to
+    any common column space, so the work is cited for attribution
+    only. The body keeps the citation. The text is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -26,8 +35,6 @@ tags:
 - representation-learning
 date: '2026-10-19'
 line: formal-apparatus
-grounds:
-- LIT-254
 summary: >-
   The generalization of [THEORY-236](../theory.d/THEORY-236.md)'s theorem. If col(X) = col(Y), write
   X = BC and Y = BD with B a basis of the common column space and C, D of
