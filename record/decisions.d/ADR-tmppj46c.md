@@ -62,7 +62,24 @@ not in that count.
    it. A reading that is a rival account, a counterexample the claim has
    not answered, or an attribution takes no `bounds`: a rival or
    counterexample is an objection (a CLAIM with `objects_to`, or an ARG),
-   and an attribution takes no edge ([ADR-058](ADR-058.md)).
+   and an attribution takes no edge ([ADR-058](ADR-058.md)). The first
+   application settled the near cases:
+   - **A reading that holds what the claim leaves out bounds it.** "That
+     is THEORY-n's question", "THEORY-n's promote_when keeps it", or a
+     reading that answers a question the claim leaves open: the claim does
+     not reach that domain, and the reading marks where it is.
+   - **A reading cited as the reason for a disclaimer bounds the claim**
+     ("why such signals are weak evidence is THEORY-n's point"), and so
+     does a stronger neighbouring view the claim stops short of without
+     contradicting it.
+   - **A reading the claim weighs as a position, names as its defeater,
+     or places as prior art takes no `bounds`.** "It is the claim's
+     defeater" is an objection; "the setting of THEORY-n" is attribution.
+   - **A `defeated_if` that names a result which would defeat the claim**
+     is not a limit, even when the result would only restrict it.
+   - **The words decide.** A passage that states a limit is `bounds` even
+     where what the reading reports also supports the claim's headline;
+     a passage that uses the reading as an instance is `corroborates`.
 3. **`bounded_by` on CLAIM is derived** from `bounds`, never stored, like
    `corroborated_by`.
 4. **It is neither support nor objection.** It is not walked by the
