@@ -1,5 +1,8 @@
 ---
+number: 84
 status: Proposed
+formerly:
+- SYNTHESIS-tmppu0yx
 title: 'Whether a criterion on a coarse-graining picks out the variables renormalization keeps is open in three settings: on a lattice slab the information bottleneck''s first transition is the bifurcation, and its first feature the leading transfer-matrix mode, only under some further condition; inside Kadanoff''s kernel families it is unsettled whether the exact trace condition keeps the relevant operators; and the coarse-graining that maximizes mutual information beyond a buffer has so far found only variables already known'
 version: 1
 defeated_if: >-
@@ -21,9 +24,9 @@ integrates:
 - QUESTION-232
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded; cited with its standing -->
-<!-- inactive-ok-file: ADR-075 SYNTHESIS-tmpa7ef9 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: ADR-075 SYNTHESIS-075 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmppu0yx: Whether a criterion on a coarse-graining picks out the variables renormalization keeps is open in three settings: on a lattice slab the information bottleneck's first transition is the bifurcation, and its first feature the leading transfer-matrix mode, only under some further condition; inside Kadanoff's kernel families it is unsettled whether the exact trace condition keeps the relevant operators; and the coarse-graining that maximizes mutual information beyond a buffer has so far found only variables already known
+# SYNTHESIS-084: Whether a criterion on a coarse-graining picks out the variables renormalization keeps is open in three settings: on a lattice slab the information bottleneck's first transition is the bifurcation, and its first feature the leading transfer-matrix mode, only under some further condition; inside Kadanoff's kernel families it is unsettled whether the exact trace condition keeps the relevant operators; and the coarse-graining that maximizes mutual information beyond a buffer has so far found only variables already known
 
 *A part account of the formal-apparatus line: three open questions that the
 mechanical map of the line found linked to no other entry of it, and that
@@ -100,7 +103,7 @@ account; each carries formal-apparatus as its only line.*
 
 ## Links to other parts, stated
 
-- **To the effective-descriptions part ([SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md)).** [CLAIM-152](../claims.d/CLAIM-152.md) (Active; also
+- **To the effective-descriptions part ([SYNTHESIS-075](SYNTHESIS-075.md)).** [CLAIM-152](../claims.d/CLAIM-152.md) (Active; also
   distributed-agency) grounds on [THEORY-194](../theory.d/THEORY-194.md) and [THEORY-202](../theory.d/THEORY-202.md), the readings
   [QUESTION-232](../questions.d/QUESTION-232.md) and [QUESTION-205](../questions.d/QUESTION-205.md) were moved off, and its note of
   2026-10-12 reads them: [THEORY-194](../theory.d/THEORY-194.md), "which variables a compression keeps

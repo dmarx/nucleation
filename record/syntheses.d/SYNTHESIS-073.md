@@ -1,5 +1,8 @@
 ---
+number: 73
 status: Proposed
+formerly:
+- SYNTHESIS-tmp2gov9
 title: 'Granger causality and transfer entropy are predictive quantities relative to a stated information set: complete measurement is not enough for an interventional reading, Granger causation from a macro variable to its micro base has no intervention to stand for, transfer entropy adds synergy to unique information and so is not flow from the source alone, and a ΦID verdict on three or more parts rests on which axiom of redundancy is dropped'
 version: 1
 defeated_if: >-
@@ -25,9 +28,9 @@ integrates:
 - CLAIM-343
 ---
 <!-- inactive-ok-file: ADR-075 THEORY-497 — Proposed; components, decisions and accounts cited with their standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmpa7ef9 SYNTHESIS-tmpe15k3 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-079 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmp2gov9: Granger causality and transfer entropy are predictive quantities relative to a stated information set: complete measurement is not enough for an interventional reading, Granger causation from a macro variable to its micro base has no intervention to stand for, transfer entropy adds synergy to unique information and so is not flow from the source alone, and a ΦID verdict on three or more parts rests on which axiom of redundancy is dropped
+# SYNTHESIS-073: Granger causality and transfer entropy are predictive quantities relative to a stated information set: complete measurement is not enough for an interventional reading, Granger causation from a macro variable to its micro base has no intervention to stand for, transfer entropy adds synergy to unique information and so is not flow from the source alone, and a ΦID verdict on three or more parts rests on which axiom of redundancy is dropped
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, six entries, all first in formal-apparatus, filed from
@@ -119,9 +122,9 @@ Nine pairs are linked, all inside the cluster:
 The community map found none; two mentions reach the cluster from other
 parts:
 
-- **To the effective-description account ([SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md)).** [QUESTION-252](../questions.d/QUESTION-252.md) lists [CLAIM-343](../claims.d/CLAIM-343.md) as a
+- **To the effective-description account ([SYNTHESIS-075](SYNTHESIS-075.md)).** [QUESTION-252](../questions.d/QUESTION-252.md) lists [CLAIM-343](../claims.d/CLAIM-343.md) as a
   precedent: "Axiom-independence precedents: [CLAIM-343](../claims.d/CLAIM-343.md) and [CLAIM-353](../claims.d/CLAIM-353.md)."
-- **To the intervention account ([SYNTHESIS-tmpe15k3](SYNTHESIS-tmpe15k3.md)).** [TERM-068](../terms.d/TERM-068.md) defines informational
+- **To the intervention account ([SYNTHESIS-079](SYNTHESIS-079.md)).** [TERM-068](../terms.d/TERM-068.md) defines informational
   closure as "transfer entropy from the micro past with Z's whole history
   and no environment ([TERM-057](../terms.d/TERM-057.md) with k and l unbounded)".
 

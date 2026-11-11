@@ -1,5 +1,8 @@
 ---
+number: 80
 status: Proposed
+formerly:
+- SYNTHESIS-tmpemzd4
 title: 'Present stability does not show persistence: a system can hold a stable regime while it has no trajectory that keeps meeting its constraints, the statistics of survivors can be stationary and quickly reached while absorption is certain, a coupling can stay as strong as ever while the process maintaining it reaches its fold, a slow mode means different things according to which mode slows, and coupling separates time scales only where it dissipates differences'
 version: 1
 defeated_if: >-
@@ -17,7 +20,7 @@ date: '2026-11-11'
 line:
 - formal-apparatus
 integrates:
-- CLAIM-tmpsh6jv
+- CLAIM-640
 - CLAIM-079
 - CLAIM-612
 - CASE-231
@@ -31,9 +34,9 @@ integrates:
 <!-- inactive-ok-file: ADR-075 THEORY-142 ARG-056 CASE-227 CASE-231 CLAIM-157 CLAIM-478 CLAIM-612 CLAIM-625 CLAIM-626 CASE-223 SYNTHESIS-035 SYNTHESIS-039 SYNTHESIS-048 — Proposed; components and citations, with their standing, and the audit this review applies -->
 <!-- inactive-ok-file: ARG-068 CLAIM-473 — Rejected; a component and the conjecture a component refutes -->
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-006 — Superseded; cited as earlier accounts, not integrated -->
-<!-- inactive-ok-file: CLAIM-tmpsh6jv SYNTHESIS-tmpc35sn SYNTHESIS-tmpe15k3 SYNTHESIS-tmphb9rl SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-640 SYNTHESIS-076 SYNTHESIS-079 SYNTHESIS-082 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpemzd4: Present stability does not show persistence: a system can hold a stable regime while it has no trajectory that keeps meeting its constraints, the statistics of survivors can be stationary and quickly reached while absorption is certain, a coupling can stay as strong as ever while the process maintaining it reaches its fold, a slow mode means different things according to which mode slows, and coupling separates time scales only where it dissipates differences
+# SYNTHESIS-080: Present stability does not show persistence: a system can hold a stable regime while it has no trajectory that keeps meeting its constraints, the statistics of survivors can be stationary and quickly reached while absorption is certain, a coupling can stay as strong as ever while the process maintaining it reaches its fold, a slow mode means different things according to which mode slows, and coupling separates time scales only where it dissipates differences
 
 *A part account of the formal-apparatus line: the part a mechanical
 community map of the line's stored relations and mentions calls stability,
@@ -220,7 +223,7 @@ Seven pairs join a member to a member of another part of the line, by a
 relation or a mention in either entry. Each is listed with the entry that
 states it.
 
-- **To the reachability part ([SYNTHESIS-tmpc35sn](SYNTHESIS-tmpc35sn.md)).**
+- **To the reachability part ([SYNTHESIS-076](SYNTHESIS-076.md)).**
   - [CLAIM-079](../claims.d/CLAIM-079.md) complements [CLAIM-577](../claims.d/CLAIM-577.md), stated in both entries' front matter.
     [CLAIM-577](../claims.d/CLAIM-577.md)'s summary: "It is [CLAIM-079](../claims.d/CLAIM-079.md)'s stability without viability,
     produced by a budget rule." Its body: "It is stability without
@@ -231,7 +234,7 @@ states it.
     input bound that cannot be held: "This is the shape of [CLAIM-079](../claims.d/CLAIM-079.md)'s split
     between stability and viability, with the input bound as the
     constraint." No relation joins them.
-- **To the gluing part ([SYNTHESIS-tmphb9rl](SYNTHESIS-tmphb9rl.md)).**
+- **To the gluing part ([SYNTHESIS-082](SYNTHESIS-082.md)).**
   - [CLAIM-079](../claims.d/CLAIM-079.md) complements [CLAIM-625](../claims.d/CLAIM-625.md), stated in both entries' front matter.
   - [CLAIM-625](../claims.d/CLAIM-625.md) mentions [CASE-231](../cases.d/CASE-231.md) in its "What it does not say": "On the
     A ↔ B → D chain of [CASE-231](../cases.d/CASE-231.md) every finite horizon has surviving
@@ -240,7 +243,7 @@ states it.
     adaptive HKB system ([CASE-227](../cases.d/CASE-227.md))", asking whether locally realizable
     histories of the observed relative phase assemble into a globally
     realizable history of the full system.
-- **To the intervention part ([SYNTHESIS-tmpe15k3](SYNTHESIS-tmpe15k3.md)).**
+- **To the intervention part ([SYNTHESIS-079](SYNTHESIS-079.md)).**
   - [CLAIM-521](../claims.d/CLAIM-521.md) complements [CLAIM-414](../claims.d/CLAIM-414.md), stated in both entries' front matter.
     Neither body names the other.
   - [CASE-227](../cases.d/CASE-227.md) mentions [CLAIM-522](../claims.d/CLAIM-522.md) for A29 §10's proposed study, whose arms
@@ -248,7 +251,7 @@ states it.
     production (compare [CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-456](../claims.d/CLAIM-456.md))".
 
 No member links to the effective, frustration or naming parts, to the
-small clusters or to the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly.
+small clusters or to the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly.
 
 ## Links outside the line, stated
 
@@ -310,7 +313,7 @@ at this review:
   Laplacian's gap, and the ratio of the two times depends on the exchange
   graph, falling as the number of regimes in a line grows. No entry states
   it. It passes by derivation, with a discriminating prediction, and is
-  filed at this review as [CLAIM-tmpsh6jv](../claims.d/CLAIM-tmpsh6jv.md) (Proposed), which this account integrates.
+  filed at this review as [CLAIM-640](../claims.d/CLAIM-640.md) (Proposed), which this account integrates.
 
 ## What it does not say
 

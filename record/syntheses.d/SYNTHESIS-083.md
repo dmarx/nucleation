@@ -1,5 +1,8 @@
 ---
+number: 83
 status: Proposed
+formerly:
+- SYNTHESIS-tmpk32cm
 title: 'A regularized linear readout separates exactly what the kernel separates: equal centred Gram matrices mean a translation and an orthogonal map, for positive ridge the readout kernel and the Gram matrix fix each other while the unregularized member sees only the column space, a symmetry forces degeneracy in a commuting operator but the spectrum fixes neither the group nor a basis, and so no such readout supplies a distinction beyond that freedom'
 version: 1
 defeated_if: >-
@@ -21,9 +24,9 @@ integrates:
 - CLAIM-269
 ---
 <!-- inactive-ok-file: ADR-075 CLAIM-193 CLAIM-263 SYNTHESIS-030 THEORY-002 THEORY-005 THEORY-080 — Proposed; components, decisions and accounts cited with their standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmpa7ef9 SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpk32cm: A regularized linear readout separates exactly what the kernel separates: equal centred Gram matrices mean a translation and an orthogonal map, for positive ridge the readout kernel and the Gram matrix fix each other while the unregularized member sees only the column space, a symmetry forces degeneracy in a commuting operator but the spectrum fixes neither the group nor a basis, and so no such readout supplies a distinction beyond that freedom
+# SYNTHESIS-083: A regularized linear readout separates exactly what the kernel separates: equal centred Gram matrices mean a translation and an orthogonal map, for positive ridge the readout kernel and the Gram matrix fix each other while the unregularized member sees only the column space, a symmetry forces degeneracy in a commuting operator but the spectrum fixes neither the group nor a basis, and so no such readout supplies a distinction beyond that freedom
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, four of the record's own demonstrations on what kernels
@@ -96,13 +99,13 @@ Three pairs are linked, all relations:
 
 The community map found none. Mentions in histories only:
 
-- **To the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly.** [CLAIM-385](../claims.d/CLAIM-385.md)'s history cites the precedent
+- **To the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly.** [CLAIM-385](../claims.d/CLAIM-385.md)'s history cites the precedent
   that a result the record proves belongs in a CLAIM, "as [THEORY-005](../theory.d/THEORY-005.md)'s
   became [CLAIM-370](../claims.d/CLAIM-370.md) and [THEORY-080](../theory.d/THEORY-080.md)'s became [CLAIM-384](../claims.d/CLAIM-384.md)"; [CLAIM-391](../claims.d/CLAIM-391.md)'s history
   cites the same precedent, naming [CLAIM-385](../claims.d/CLAIM-385.md).
 
 Outside the line, [CLAIM-193](../claims.d/CLAIM-193.md) (pragmatic-transport, Proposed) rests on both
-[CLAIM-269](../claims.d/CLAIM-269.md) and [CLAIM-264](../claims.d/CLAIM-264.md) of the effective-description account ([SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md)). That is the
+[CLAIM-269](../claims.d/CLAIM-269.md) and [CLAIM-264](../claims.d/CLAIM-264.md) of the effective-description account ([SYNTHESIS-075](SYNTHESIS-075.md)). That is the
 nearest the cluster comes to another part, and it is two steps, through
 an entry outside the line.
 

@@ -1,5 +1,8 @@
 ---
+number: 74
 status: Proposed
+formerly:
+- SYNTHESIS-tmp68daz
 title: 'Whether demands or local descriptions can be met or agree together is decided only against a declared structure of comparison, and where it fails the failure is certified by a dual witness, a cycle or a set of multipliers, that re-centring and a change of chart leave in place, while a budgeted magnitude keeps its value only with the metric carried along; whether a compatible state can be selected depends on what the agent can read; quiet is not met, so raising a threshold relieves nothing and a third complex decides when frustration forces an unmet demand that is acted on; an input below a fold''s threshold, or conditions restored after a capacity was lost, can leave the visible regime as it was; and agreement among routes or descriptions is coherence, not fidelity'
 version: 1
 defeated_if: >-
@@ -48,9 +51,9 @@ integrates:
 <!-- inactive-ok-file: ADR-075 ADR-084 — Proposed; the test applied and the decision on accounts -->
 <!-- inactive-ok-file: SYNTHESIS-008 — Superseded by CLAIM-631, cited as its origin -->
 <!-- inactive-ok-file: QUESTION-286 — Answered; cited with its standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmpa7ef9 SYNTHESIS-tmpc35sn SYNTHESIS-tmpe15k3 SYNTHESIS-tmphb9rl — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-076 SYNTHESIS-079 SYNTHESIS-082 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmp68daz: Whether demands or local descriptions can be met or agree together is decided only against a declared structure of comparison, and where it fails the failure is certified by a dual witness, a cycle or a set of multipliers, that re-centring and a change of chart leave in place, while a budgeted magnitude keeps its value only with the metric carried along; whether a compatible state can be selected depends on what the agent can read; quiet is not met, so raising a threshold relieves nothing and a third complex decides when frustration forces an unmet demand that is acted on; an input below a fold's threshold, or conditions restored after a capacity was lost, can leave the visible regime as it was; and agreement among routes or descriptions is coherence, not fidelity
+# SYNTHESIS-074: Whether demands or local descriptions can be met or agree together is decided only against a declared structure of comparison, and where it fails the failure is certified by a dual witness, a cycle or a set of multipliers, that re-centring and a change of chart leave in place, while a budgeted magnitude keeps its value only with the metric carried along; whether a compatible state can be selected depends on what the agent can read; quiet is not met, so raising a threshold relieves nothing and a third complex decides when frustration forces an unmet demand that is acted on; an input below a fold's threshold, or conditions restored after a capacity was lost, can leave the visible regime as it was; and agreement among routes or descriptions is coherence, not fidelity
 
 *A part account of the formal-apparatus line ("Formal apparatus": results
 that hold whatever any substantive line concludes, held as a second line by
@@ -317,7 +320,7 @@ From members of this part to members of other parts of the line, 11
 directed links over 11 pairs (listed with relation and source in
 frustration-links.json):
 
-- **To [SYNTHESIS-tmpc35sn](SYNTHESIS-tmpc35sn.md), reachability.** [CLAIM-559](../claims.d/CLAIM-559.md) rests on [CLAIM-561](../claims.d/CLAIM-561.md), "as in
+- **To [SYNTHESIS-076](SYNTHESIS-076.md), reachability.** [CLAIM-559](../claims.d/CLAIM-559.md) rests on [CLAIM-561](../claims.d/CLAIM-561.md), "as in
   [CLAIM-561](../claims.d/CLAIM-561.md)", for the first stage's ΔV(p0) > 0. [CLAIM-535](../claims.d/CLAIM-535.md)'s note of
   2026-11-07: "A58 §8's route of changing what the organization can do is
   [CLAIM-572](../claims.d/CLAIM-572.md)'s hedge". [CLAIM-631](../claims.d/CLAIM-631.md) lists [CLAIM-586](../claims.d/CLAIM-586.md): "everything below holds at
@@ -325,25 +328,25 @@ frustration-links.json):
   note of 2026-11-07 names [CLAIM-618](../claims.d/CLAIM-618.md) as using "circle-valued acceptance sets
   with tolerances" and leaving "their feasibility test unstated"; [CLAIM-634](../claims.d/CLAIM-634.md)
   names [CLAIM-618](../claims.d/CLAIM-618.md) among what it does not cover, on S¹.
-- **To [SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md), effective.** [CLAIM-535](../claims.d/CLAIM-535.md) rests on [CLAIM-350](../claims.d/CLAIM-350.md), "its
+- **To [SYNTHESIS-075](SYNTHESIS-075.md), effective.** [CLAIM-535](../claims.d/CLAIM-535.md) rests on [CLAIM-350](../claims.d/CLAIM-350.md), "its
   single-valued case": "[CLAIM-350](../claims.d/CLAIM-350.md)'s unique coarsest partition is the case
   with one acceptable action per circumstance." [CLAIM-535](../claims.d/CLAIM-535.md) complements
   [CLAIM-152](../claims.d/CLAIM-152.md).
-- **To [SYNTHESIS-tmpe15k3](SYNTHESIS-tmpe15k3.md), intervention.** [CLAIM-265](../claims.d/CLAIM-265.md)'s summary and body: [CLAIM-143](../claims.d/CLAIM-143.md)'s
+- **To [SYNTHESIS-079](SYNTHESIS-079.md), intervention.** [CLAIM-265](../claims.d/CLAIM-265.md)'s summary and body: [CLAIM-143](../claims.d/CLAIM-143.md)'s
   order of tests "does not rest on [CLAIM-011](../claims.d/CLAIM-011.md)", which is about translation.
   [CLAIM-459](../claims.d/CLAIM-459.md): an input's subthreshold effect "shows only under a further
   perturbation, as [CLAIM-414](../claims.d/CLAIM-414.md)'s method requires". [CLAIM-495](../claims.d/CLAIM-495.md): "[CLAIM-373](../claims.d/CLAIM-373.md)'s
   bound on carrying commutators and [LIT-1820](../literature.d/LIT-1820.md)'s holonomy measure different
   things."
-- **To [SYNTHESIS-tmphb9rl](SYNTHESIS-tmphb9rl.md), gluing.** [TERM-097](../terms.d/TERM-097.md) cites [CLAIM-131](../claims.d/CLAIM-131.md) for comparisons "on
+- **To [SYNTHESIS-082](SYNTHESIS-082.md), gluing.** [TERM-097](../terms.d/TERM-097.md) cites [CLAIM-131](../claims.d/CLAIM-131.md) for comparisons "on
   overlaps, as local sections that glue".
 
 Into this part from other parts, for the line account (5): [CLAIM-572](../claims.d/CLAIM-572.md) (part
 0) rests on [CLAIM-535](../claims.d/CLAIM-535.md) and gives "[CLAIM-535](../claims.d/CLAIM-535.md)'s single decision" costs;
-[CLAIM-586](../claims.d/CLAIM-586.md) ([SYNTHESIS-tmpc35sn](SYNTHESIS-tmpc35sn.md)): "[CLAIM-365](../claims.d/CLAIM-365.md)'s worked case, where no budget helps, is a
-non-face of K_Q"; [CLAIM-618](../claims.d/CLAIM-618.md) ([SYNTHESIS-tmpc35sn](SYNTHESIS-tmpc35sn.md)): "[CLAIM-538](../claims.d/CLAIM-538.md) gives tolerances only for
-real offsets"; [QUESTION-379](../questions.d/QUESTION-379.md) ([SYNTHESIS-tmphb9rl](SYNTHESIS-tmphb9rl.md)) names [CLAIM-538](../claims.d/CLAIM-538.md) as handling a failure
-of gluing; [CLAIM-152](../claims.d/CLAIM-152.md) ([SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md)) complements [CLAIM-535](../claims.d/CLAIM-535.md).
+[CLAIM-586](../claims.d/CLAIM-586.md) ([SYNTHESIS-076](SYNTHESIS-076.md)): "[CLAIM-365](../claims.d/CLAIM-365.md)'s worked case, where no budget helps, is a
+non-face of K_Q"; [CLAIM-618](../claims.d/CLAIM-618.md) ([SYNTHESIS-076](SYNTHESIS-076.md)): "[CLAIM-538](../claims.d/CLAIM-538.md) gives tolerances only for
+real offsets"; [QUESTION-379](../questions.d/QUESTION-379.md) ([SYNTHESIS-082](SYNTHESIS-082.md)) names [CLAIM-538](../claims.d/CLAIM-538.md) as handling a failure
+of gluing; [CLAIM-152](../claims.d/CLAIM-152.md) ([SYNTHESIS-075](SYNTHESIS-075.md)) complements [CLAIM-535](../claims.d/CLAIM-535.md).
 
 ## Not stated on the record
 

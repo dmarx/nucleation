@@ -1,5 +1,8 @@
 ---
+number: 81
 status: Proposed
+formerly:
+- SYNTHESIS-tmpgtv7b
 title: 'When a structure is worth naming: a candidate is kept when its effect-to-noise ratio beats its Occam cost, but only where its model stays regular at the switch-off, and there the regular count overcharges it; what a spectral gap makes definite is the subspace it isolates, the Fisher and the NTK Gram matrix share their gaps, and a closed collective variable needs no block; evidence and retrieval carve in opposite directions with copy count, how good a mixture is is not how discriminable it is, persistence stated for eigenvectors fails on the monograph''s own example, and how the criteria relate stays open'
 version: 1
 defeated_if: >-
@@ -41,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-075 CLAIM-157 CLAIM-161 CLAIM-174 CLAIM-209 CLAIM-332 SYNTHESIS-054 SYNTHESIS-057 THEORY-079 THEORY-080 THEORY-084 — Proposed; components' relations and citations, and the other lines' accounts that also set out some of its components, with their standing -->
 <!-- inactive-ok-file: QUESTION-242 — Answered; the question CLAIM-388 answers, cited with its answer -->
 
-# SYNTHESIS-tmpgtv7b: When a structure is worth naming: a candidate is kept when its effect-to-noise ratio beats its Occam cost, but only where its model stays regular at the switch-off, and there the regular count overcharges it; what a spectral gap makes definite is the subspace it isolates, the Fisher and the NTK Gram matrix share their gaps, and a closed collective variable needs no block; evidence and retrieval carve in opposite directions with copy count, how good a mixture is is not how discriminable it is, persistence stated for eigenvectors fails on the monograph's own example, and how the criteria relate stays open
+# SYNTHESIS-081: When a structure is worth naming: a candidate is kept when its effect-to-noise ratio beats its Occam cost, but only where its model stays regular at the switch-off, and there the regular count overcharges it; what a spectral gap makes definite is the subspace it isolates, the Fisher and the NTK Gram matrix share their gaps, and a closed collective variable needs no block; evidence and retrieval carve in opposite directions with copy count, how good a mixture is is not how discriminable it is, persistence stated for eigenvectors fails on the monograph's own example, and how the criteria relate stays open
 
 *A part account of the formal-apparatus line ("Formal apparatus",
 [ADR-040](../decisions.d/ADR-040.md)), the part on when a structure or distinction is worth naming

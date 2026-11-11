@@ -1,5 +1,8 @@
 ---
+number: 75
 status: Proposed
+formerly:
+- SYNTHESIS-tmpa7ef9
 title: 'An effective description is adequate only relative to a declared regime: sufficiency holds for a target, a model and a family of decisions and can lapse when they change, equivalence under probes or feasible tests is coarser than identity and is evidence of shared structure only to the degree the probes were chosen independently of the comparison, and a coarse-graining keeps a judgment exactly when the judgment is constant on its fibres; the conditions asked of such a description are of different kinds, and which can fail while the others hold is open; in linear Gaussian dynamics memory is a functional of the coarse variable''s own law and cannot register the dependence that coupling into it bounds; and a system''s causes are at the coarsest description whose interventions are unambiguous, never at one that carries more causal information than the micro'
 version: 1
 defeated_if: >-
@@ -49,9 +52,9 @@ integrates:
 <!-- inactive-ok-file: ARG-041 CASE-164 CLAIM-142 CLAIM-295 SYNTHESIS-017 SYNTHESIS-029 SYNTHESIS-048 SYNTHESIS-054 SYNTHESIS-064 ADR-075 ADR-083 ADR-084 — Proposed; a component, the claims and case cited as filed, the other lines' accounts that already integrate members, and the decisions this account is drafted under -->
 <!-- inactive-ok-file: QUESTION-324 QUESTION-288 QUESTION-289 QUESTION-248 — Answered; a component and the questions members answer, cited as answered -->
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account the causal members replace, cited as rejected -->
-<!-- inactive-ok-file: SYNTHESIS-tmp2gov9 SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-073 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpa7ef9: An effective description is adequate only relative to a declared regime: sufficiency holds for a target, a model and a family of decisions and can lapse when they change, equivalence under probes or feasible tests is coarser than identity and is evidence of shared structure only to the degree the probes were chosen independently of the comparison, and a coarse-graining keeps a judgment exactly when the judgment is constant on its fibres; the conditions asked of such a description are of different kinds, and which can fail while the others hold is open; in linear Gaussian dynamics memory is a functional of the coarse variable's own law and cannot register the dependence that coupling into it bounds; and a system's causes are at the coarsest description whose interventions are unambiguous, never at one that carries more causal information than the micro
+# SYNTHESIS-075: An effective description is adequate only relative to a declared regime: sufficiency holds for a target, a model and a family of decisions and can lapse when they change, equivalence under probes or feasible tests is coarser than identity and is evidence of shared structure only to the degree the probes were chosen independently of the comparison, and a coarse-graining keeps a judgment exactly when the judgment is constant on its fibres; the conditions asked of such a description are of different kinds, and which can fail while the others hold is open; in linear Gaussian dynamics memory is a functional of the coarse variable's own law and cannot register the dependence that coupling into it bounds; and a system's causes are at the coarsest description whose interventions are unambiguous, never at one that carries more causal information than the micro
 
 *A part account of the formal-apparatus line: the part on effective
 descriptions, the regime under which their adequacy is assessed, the
@@ -351,7 +354,7 @@ in temporal macros ([QUESTION-335](../questions.d/QUESTION-335.md)).
 From members of this part to members of other parts of the line, and from
 those to members of this part, each attributed to the entry that states it.
 The part files name the other parts: reachability, intervention,
-frustration, gluing, naming, the small clusters and the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly.
+frustration, gluing, naming, the small clusters and the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly.
 
 **To and from reachability.**
 
@@ -425,9 +428,9 @@ frustration, gluing, naming, the small clusters and the entries the line account
 
 **To the small clusters.**
 
-- [QUESTION-252](../questions.d/QUESTION-252.md) names [CLAIM-343](../claims.d/CLAIM-343.md) as an axiom-independence precedent ([SYNTHESIS-tmp2gov9](SYNTHESIS-tmp2gov9.md)).
+- [QUESTION-252](../questions.d/QUESTION-252.md) names [CLAIM-343](../claims.d/CLAIM-343.md) as an axiom-independence precedent ([SYNTHESIS-073](SYNTHESIS-073.md)).
 
-Nothing in this part links to or from the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly. In all, 30
+Nothing in this part links to or from the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly. In all, 30
 pairs join this part to others: 7 to reachability, 17 to intervention, 2
 to frustration, 1 to gluing, 2 to naming and 1 to the small clusters.
 

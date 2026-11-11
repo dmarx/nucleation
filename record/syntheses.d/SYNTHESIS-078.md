@@ -1,5 +1,8 @@
 ---
+number: 78
 status: Proposed
+formerly:
+- SYNTHESIS-tmpdtd6m
 title: 'Neither persistence nor yields nor minimal sets identify a productive or generative nucleus: the committor ignores how long a state persists, two assemblies can agree in both arms of the nucleus intervention and differ in the downstream rate, and productive sets need not be closed upward because two productive nuclei can combine into a trap'
 version: 1
 defeated_if: >-
@@ -21,9 +24,9 @@ integrates:
 - CLAIM-599
 ---
 <!-- inactive-ok-file: ADR-075 SYNTHESIS-013 SYNTHESIS-045 — Proposed; components, decisions and accounts cited with their standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmpc35sn — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-076 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpdtd6m: Neither persistence nor yields nor minimal sets identify a productive or generative nucleus: the committor ignores how long a state persists, two assemblies can agree in both arms of the nucleus intervention and differ in the downstream rate, and productive sets need not be closed upward because two productive nuclei can combine into a trap
+# SYNTHESIS-078: Neither persistence nor yields nor minimal sets identify a productive or generative nucleus: the committor ignores how long a state persists, two assemblies can agree in both arms of the nucleus intervention and differ in the downstream rate, and productive sets need not be closed upward because two productive nuclei can combine into a trap
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, three entries from the DNA origami filing of 2026-11-05,
@@ -87,7 +90,7 @@ and bear on [QUESTION-380](../questions.d/QUESTION-380.md), outside formal-appar
 
 None. No member names a member of another part account of this line or an entry the line account integrates directly, and none of them names a member here. [CLAIM-599](../claims.d/CLAIM-599.md) rests on
 [CLAIM-562](../claims.d/CLAIM-562.md), outside the line, which [CLAIM-345](../claims.d/CLAIM-345.md) and [CLAIM-567](../claims.d/CLAIM-567.md) of the
-reachability account ([SYNTHESIS-tmpc35sn](SYNTHESIS-tmpc35sn.md)) also cite.
+reachability account ([SYNTHESIS-076](SYNTHESIS-076.md)) also cite.
 
 ## Where else these entries are integrated
 

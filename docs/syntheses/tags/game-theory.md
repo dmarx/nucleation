@@ -6,8 +6,10 @@
 
 **Game theory** — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
-1 of 70 SYNTHESIS documents. Back to the [full index](../README.md).
+3 of 89 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [SYNTHESIS-020](../../../record/syntheses.d/SYNTHESIS-020.md) | In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in |  | Proposed |
+| [SYNTHESIS-087](../../../record/syntheses.d/SYNTHESIS-087.md) | Forbidding self-grants does not stop an operator from amplifying its own authority under damped recursive delegation, one-hop allocation within an epoch makes authority exactly independent of an operator's own grants and lets delegating to a nearer ally pay, and leave-one-out delegation keeps that independence beyond one hop without that guarantee |  | Proposed |
+| [SYNTHESIS-089](../../../record/syntheses.d/SYNTHESIS-089.md) | A potential is how the record tests whether some ordering prevails: on a finite set it exists exactly when winning moves never cycle and is fixed only up to a class, a least-squares gradient is a cardinal object that can reverse what the wins settle, an ordering is a currency on a finite set and not on a continuum, and in symmetric resource-mediated competition population dynamics descend a convex objective whose split into gradient and remainder depends on a chosen metric |  | Proposed |

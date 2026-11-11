@@ -1,5 +1,8 @@
 ---
+number: 71
 status: Proposed
+formerly:
+- SYNTHESIS-tmp002mq
 title: 'Under Markov kernels a symmetry principle can be borrowed but a conservation law has to be derived: an exactly harmonic observable conserves only its mean, only constants are harmonic on a finite irreducible chain, retaining information about the start and staying near the starting law are different properties, and exact conservation of a non-constant observable keeps information about the start at every generation while a bounded defect does not'
 version: 1
 defeated_if: >-
@@ -26,9 +29,9 @@ integrates:
 ---
 <!-- inactive-ok-file: ADR-075 CLAIM-068 CLAIM-189 CLAIM-191 CLAIM-635 SYNTHESIS-060 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: CLAIM-015 — Superseded; cited as the entry of its time -->
-<!-- inactive-ok-file: SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmp002mq: Under Markov kernels a symmetry principle can be borrowed but a conservation law has to be derived: an exactly harmonic observable conserves only its mean, only constants are harmonic on a finite irreducible chain, retaining information about the start and staying near the starting law are different properties, and exact conservation of a non-constant observable keeps information about the start at every generation while a bounded defect does not
+# SYNTHESIS-071: Under Markov kernels a symmetry principle can be borrowed but a conservation law has to be derived: an exactly harmonic observable conserves only its mean, only constants are harmonic on a finite irreducible chain, retaining information about the start and staying near the starting law are different properties, and exact conservation of a non-constant observable keeps information about the start at every generation while a bounded defect does not
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, six entries on what a Markov chain of reconstruction
@@ -117,7 +120,7 @@ Eight pairs are linked, all inside the cluster:
 
 ## Links to other parts, stated
 
-None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly, and none of them names a member here. Outside the line, the
+None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly, and none of them names a member here. Outside the line, the
 cluster reaches [QUESTION-006](../questions.d/QUESTION-006.md) ([CLAIM-635](../claims.d/CLAIM-635.md) bears on it), [CLAIM-081](../claims.d/CLAIM-081.md), [CLAIM-189](../claims.d/CLAIM-189.md)
 and [CLAIM-191](../claims.d/CLAIM-191.md) (which rest on [CLAIM-270](../claims.d/CLAIM-270.md)), [TERM-027](../terms.d/TERM-027.md) (which [CLAIM-107](../claims.d/CLAIM-107.md) uses) and
 [CLAIM-068](../claims.d/CLAIM-068.md) ([CLAIM-635](../claims.d/CLAIM-635.md)'s "What it adds to the line").

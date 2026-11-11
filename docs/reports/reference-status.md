@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**905 documents cited without acknowledgement.** Not listed: 22626 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**907 documents cited without acknowledgement.** Not listed: 23310 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-1136 citations in 825 files await a look; 45 other citations of it are acknowledged.
+1136 citations in 825 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-165.md:50`](../../record/cases.d/CASE-165.md)
 - [`record/cases.d/CASE-206.md:26`](../../record/cases.d/CASE-206.md)
@@ -1364,7 +1364,7 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 
 A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again
 
-64 citations in 43 files await a look; 32 other citations of it are acknowledged.
+64 citations in 43 files await a look; 39 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-055.md:19`](../../record/arguments.d/ARG-055.md)
 - [`record/arguments.d/ARG-058.md:20`](../../record/arguments.d/ARG-058.md)
@@ -1488,7 +1488,7 @@ The nucleating-argument line is split in three: nucleating-argument keeps how an
 
 An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
 
-46 citations in 25 files await a look; 160 other citations of it are acknowledged.
+46 citations in 25 files await a look; 161 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:49`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-283.md:139`](../../record/claims.d/CLAIM-283.md)
@@ -1957,7 +1957,7 @@ Beyond what it does operationally, luria is an apparatus in Barad's constitutive
 
 A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 
-32 citations in 11 files await a look; 132 other citations of it are acknowledged.
+32 citations in 11 files await a look; 152 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
@@ -2140,7 +2140,7 @@ The withdrawal inquiry takes transient-support as its first line: its two root q
 
 What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
 
-27 citations in 4 files await a look; 2 other citations of it are acknowledged.
+27 citations in 4 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-040.md:116`](../../record/syntheses.d/SYNTHESIS-040.md)
 - [`record/syntheses.d/SYNTHESIS-040.md:177`](../../record/syntheses.d/SYNTHESIS-040.md)
@@ -2174,7 +2174,7 @@ What a constrained system can reach under a budget is not what it can hold: feas
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-24 citations in 12 files await a look; 203 other citations of it are acknowledged.
+24 citations in 12 files await a look; 206 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:32`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:67`](../../record/cases.d/CASE-101.md)
@@ -2205,7 +2205,7 @@ Relative to a stated target, a combined form is one system while its joint dynam
 
 goal-conduciveness valence, organizational: a regime in which the negotiation among a system's perspectives has, approximately, a potential, an ordering of the system's own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation's decisions follow it rather than any rival ordering
 
-23 citations in 11 files await a look; 85 other citations of it are acknowledged.
+23 citations in 11 files await a look; 86 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-432.md:233`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-432.md:237`](../../record/claims.d/CLAIM-432.md)
@@ -2235,7 +2235,7 @@ goal-conduciveness valence, organizational: a regime in which the negotiation am
 
 Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
-22 citations in 17 files await a look; 127 other citations of it are acknowledged.
+22 citations in 17 files await a look; 136 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
@@ -2292,7 +2292,7 @@ Syntheses get a scheme of their own, SYNTHESIS, with statuses about the integrat
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
 
-21 citations in 6 files await a look; 39 other citations of it are acknowledged.
+21 citations in 6 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-193.md:24`](../../record/claims.d/CLAIM-193.md)
 - [`record/claims.d/CLAIM-193.md:27`](../../record/claims.d/CLAIM-193.md)
@@ -2629,7 +2629,7 @@ An interaction can make available a way of relating that its participants' opera
 
 Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 
-17 citations in 17 files await a look; 67 other citations of it are acknowledged.
+17 citations in 17 files await a look; 68 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-405.md:189`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-471.md:24`](../../record/claims.d/CLAIM-471.md)
@@ -2653,7 +2653,7 @@ Relata stand to relations as realizations stand to specifications: what an entit
 
 A system's budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence
 
-17 citations in 4 files await a look; 4 other citations of it are acknowledged.
+17 citations in 4 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-042.md:85`](../../record/syntheses.d/SYNTHESIS-042.md)
 - [`record/syntheses.d/SYNTHESIS-042.md:323`](../../record/syntheses.d/SYNTHESIS-042.md)
@@ -2677,7 +2677,7 @@ A system's budgeted individuation is indexed by two budgets that run in opposite
 
 Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon
 
-17 citations in 3 files await a look; 1 other citation of it is acknowledged.
+17 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-040.md:185`](../../record/syntheses.d/SYNTHESIS-040.md)
 - [`record/syntheses.d/SYNTHESIS-042.md:330`](../../record/syntheses.d/SYNTHESIS-042.md)
@@ -2772,7 +2772,7 @@ A regime of valence is felt, in the sense of attended and available to the syste
 
 In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in
 
-16 citations in 3 files await a look; 5 other citations of it are acknowledged.
+16 citations in 3 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-018.md:51`](../../record/syntheses.d/SYNTHESIS-018.md)
 - [`record/syntheses.d/SYNTHESIS-018.md:127`](../../record/syntheses.d/SYNTHESIS-018.md)
@@ -2795,7 +2795,7 @@ In an organization, goal-conduciveness valence is a persistent potential of the 
 
 Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation
 
-16 citations in 2 files await a look; 2 other citations of it are acknowledged.
+16 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:41`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:50`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -2818,7 +2818,7 @@ Readiness for a rare contingency is a probability of effective response under an
 
 An organized individual that persists through changes of mode persists, on the record's proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive
 
-16 citations in 3 files await a look; 3 other citations of it are acknowledged.
+16 citations in 3 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-040.md:189`](../../record/syntheses.d/SYNTHESIS-040.md)
 - [`record/syntheses.d/SYNTHESIS-042.md:85`](../../record/syntheses.d/SYNTHESIS-042.md)
@@ -2975,7 +2975,7 @@ In a language a term's value is fixed by its relations to the coexisting terms o
 
 A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function
 
-15 citations in 14 files await a look; 16 other citations of it are acknowledged.
+15 citations in 14 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-333.md:103`](../../record/claims.d/CLAIM-333.md)
 - [`record/claims.d/CLAIM-334.md:66`](../../record/claims.d/CLAIM-334.md)
@@ -3039,7 +3039,7 @@ Affective states can be properties of organized systems, characterized functiona
 
 Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved
 
-14 citations in 6 files await a look; 99 other citations of it are acknowledged.
+14 citations in 6 files await a look; 102 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:93`](../../record/claims.d/CLAIM-187.md)
 - [`record/claims.d/CLAIM-187.md:123`](../../record/claims.d/CLAIM-187.md)
@@ -3102,7 +3102,7 @@ Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inferenc
 
 From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
 
-14 citations in 9 files await a look; 2 other citations of it are acknowledged.
+14 citations in 9 files await a look; 3 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:18`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:17`](../syntheses/role/thesis.md)
@@ -3123,7 +3123,7 @@ From interconnection to individuation, the relationships are distinct achievemen
 
 Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period's spending loses every transition that needs slack with no sign in output
 
-14 citations in 2 files await a look; 3 other citations of it are acknowledged.
+14 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:42`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:72`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -3344,7 +3344,7 @@ The lab's restricted models, whose predictions could have failed, support the sh
 
 A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
 
-12 citations in 5 files await a look; 87 other citations of it are acknowledged.
+12 citations in 5 files await a look; 88 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-157.md:203`](../../record/claims.d/CLAIM-157.md)
 - [`record/claims.d/CLAIM-194.md:35`](../../record/claims.d/CLAIM-194.md)
@@ -3363,7 +3363,7 @@ A candidate factor is an agent at a level when it is one system there, when a go
 
 Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation
 
-12 citations in 8 files await a look; 25 other citations of it are acknowledged.
+12 citations in 8 files await a look; 26 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:17`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:28`](../syntheses/role/thesis.md)
@@ -3458,7 +3458,7 @@ An organized individual's identity over time is carried by the causal transmissi
 
 When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
 
-12 citations in 5 files await a look; 10 other citations of it are acknowledged.
+12 citations in 5 files await a look; 11 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
@@ -3815,7 +3815,7 @@ An operator framework flexible enough to redescribe any dynamical process explai
 
 A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
 
-10 citations in 8 files await a look; 44 other citations of it are acknowledged.
+10 citations in 8 files await a look; 45 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:17`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:28`](../syntheses/role/thesis.md)
@@ -3883,7 +3883,7 @@ Metzinger — The Elephant and the Blind
 
 Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
 
-10 citations in 3 files await a look; 4 other citations of it are acknowledged.
+10 citations in 3 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-028.md:112`](../../record/syntheses.d/SYNTHESIS-028.md)
 - [`record/syntheses.d/SYNTHESIS-028.md:130`](../../record/syntheses.d/SYNTHESIS-028.md)
@@ -3900,7 +3900,7 @@ Whether a learner's demands share a descent direction is decided by a test that 
 
 Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open
 
-10 citations in 3 files await a look.
+10 citations in 3 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-030.md:89`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-030.md:118`](../../record/syntheses.d/SYNTHESIS-030.md)
@@ -4066,7 +4066,7 @@ A lower-level collective within the composite person, such as the gut microbiome
 
 A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
 
-9 citations in 7 files await a look; 29 other citations of it are acknowledged.
+9 citations in 7 files await a look; 32 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-142.md:22`](../../record/claims.d/CLAIM-142.md)
 - [`record/claims.d/CLAIM-142.md:23`](../../record/claims.d/CLAIM-142.md)
@@ -4114,7 +4114,7 @@ The potential account of valence is an account of goal-conduciveness valence, no
 
 Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
 
-9 citations in 9 files await a look; 44 other citations of it are acknowledged.
+9 citations in 9 files await a look; 46 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:17`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:16`](../syntheses/role/thesis.md)
@@ -4210,7 +4210,7 @@ Detection, Estimation, and Modulation Theory, Part I
 
 In the coupled meaning–authority model, is authority's effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime's κ′, how far the prevailing interpretation bends the reading of the evidence?
 
-9 citations in 5 files await a look; 9 other citations of it are acknowledged.
+9 citations in 5 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-124.md:68`](../../record/cases.d/CASE-124.md)
 - [`record/claims.d/CLAIM-338.md:15`](../../record/claims.d/CLAIM-338.md)
@@ -4351,7 +4351,7 @@ Generated views of the record, fed back into the exchange, become instruments of
 
 Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 
-8 citations in 6 files await a look; 22 other citations of it are acknowledged.
+8 citations in 6 files await a look; 23 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:15`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:25`](../syntheses/role/thesis.md)
@@ -4411,7 +4411,7 @@ The pragmatic-transport and will-organization lines describe one model, an organ
 
 Veit's common currency and ALARM's override are two regimes of one ordering serving as the negotiation's potential, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest potential orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether
 
-8 citations in 6 files await a look; 36 other citations of it are acknowledged.
+8 citations in 6 files await a look; 37 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-436.md:165`](../../record/claims.d/CLAIM-436.md)
 - [`record/claims.d/CLAIM-440.md:304`](../../record/claims.d/CLAIM-440.md)
@@ -4606,7 +4606,7 @@ Concepts are individuated over time by the transmission criterion that governs o
 
 Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
 
-8 citations in 6 files await a look; 6 other citations of it are acknowledged.
+8 citations in 6 files await a look; 8 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:21`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:20`](../syntheses/role/thesis.md)
@@ -4621,7 +4621,7 @@ Records kept of each capacity a response needs bound a reserve's readiness for a
 
 An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
 
-8 citations in 7 files await a look; 3 other citations of it are acknowledged.
+8 citations in 7 files await a look; 4 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:24`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/unadmitted.md:14`](../syntheses/admission/unadmitted.md)
@@ -4681,7 +4681,7 @@ A condition on free agency stated only in present psychological structure is met
 
 Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks
 
-8 citations in 2 files await a look; 14 other citations of it are acknowledged.
+8 citations in 2 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-164.md:26`](../../record/claims.d/CLAIM-164.md)
 - [`record/claims.d/CLAIM-164.md:28`](../../record/claims.d/CLAIM-164.md)
@@ -4726,7 +4726,7 @@ Politics is more prone than markets to increasing returns, and so to path depend
 
 Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
 
-7 citations in 3 files await a look; 22 other citations of it are acknowledged.
+7 citations in 3 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:120`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:156`](../../record/decisions.d/ADR-040.md)
@@ -4754,7 +4754,7 @@ Repeated reconstruction chains fall into different regimes under conditions assi
 
 A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states
 
-7 citations in 2 files await a look; 26 other citations of it are acknowledged.
+7 citations in 2 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-329.md:52`](../../record/claims.d/CLAIM-329.md)
 - [`record/claims.d/CLAIM-329.md:129`](../../record/claims.d/CLAIM-329.md)
@@ -5062,7 +5062,7 @@ Persons and organizations can be described not as successive stages, with the co
 
 Because the returns to exploitation are surer, nearer and closer to the decision than the returns to exploration, organizational learning refines exploitation faster and tends to become self-destructive in the long run; and where an organizational code learns only from members who deviate from it, slow socialization, a mix of slow and fast learners and moderate turnover raise what the organization knows, while without turnover a changing environment degrades its knowledge to chance
 
-7 citations in 6 files await a look; 10 other citations of it are acknowledged.
+7 citations in 6 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-124.md:145`](../../record/cases.d/CASE-124.md)
 - [`record/cases.d/CASE-144.md:97`](../../record/cases.d/CASE-144.md)
@@ -5471,7 +5471,7 @@ Goldreich — Foundations of Cryptography, Vol. 1 (1995 fragments): computationa
 
 Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
 
-6 citations in 5 files await a look; 6 other citations of it are acknowledged.
+6 citations in 5 files await a look; 8 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:20`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:19`](../syntheses/role/thesis.md)
@@ -5562,7 +5562,7 @@ The unity of experience is the integration of one global world-model into a sing
 
 Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
 
-6 citations in 2 files await a look; 87 other citations of it are acknowledged.
+6 citations in 2 files await a look; 88 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:30`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:33`](../../record/claims.d/CLAIM-194.md)
@@ -5718,7 +5718,7 @@ The Price equation follows from any ancestor–descendant mapping in a closed po
 
 A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
 
-6 citations in 2 files await a look; 29 other citations of it are acknowledged.
+6 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1839.md:29`](../../record/literature.d/LIT-1839.md)
 - [`record/literature.d/LIT-1839.md:92`](../../record/literature.d/LIT-1839.md)
@@ -5864,7 +5864,7 @@ Blackwell's order compares experiments about one parameter, so it does not reach
 
 Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
 
-5 citations in 5 files await a look; 35 other citations of it are acknowledged.
+5 citations in 5 files await a look; 37 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-366.md:145`](../../record/claims.d/CLAIM-366.md)
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
@@ -6152,7 +6152,7 @@ Can processes that share one update rule and differ only in parameters and histo
 
 Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open
 
-5 citations in 2 files await a look; 1 other citation of it is acknowledged.
+5 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-030.md:86`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-030.md:128`](../../record/syntheses.d/SYNTHESIS-030.md)
@@ -6212,7 +6212,7 @@ Mental disorders are maintained by self-reinforcing causal loops rather than exp
 
 In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
 
-5 citations in 3 files await a look; 13 other citations of it are acknowledged.
+5 citations in 3 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-385.md:17`](../../record/claims.d/CLAIM-385.md)
 - [`record/claims.d/CLAIM-391.md:17`](../../record/claims.d/CLAIM-391.md)
@@ -6413,7 +6413,7 @@ Identifying how governing rules are maintained from diagnostic probes: a predict
 
 A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community's own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure
 
-4 citations in 4 files await a look; 32 other citations of it are acknowledged.
+4 citations in 4 files await a look; 33 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
@@ -6457,7 +6457,7 @@ Interpretive framing operations generally do not commute, and this can be invest
 
 Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations under a correspondence anchored to independently measured distinctions
 
-4 citations in 2 files await a look; 51 other citations of it are acknowledged.
+4 citations in 2 files await a look; 53 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-006.md:76`](../../record/arguments.d/ARG-006.md)
 - [`record/decisions.d/ADR-043.md:13`](../../record/decisions.d/ADR-043.md)
@@ -6468,7 +6468,7 @@ Pragmatic fidelity requires preserving the dynamics of interpretation, not only 
 
 No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting
 
-4 citations in 2 files await a look; 48 other citations of it are acknowledged.
+4 citations in 2 files await a look; 49 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:81`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-347.md:252`](../../record/claims.d/CLAIM-347.md)
@@ -6886,7 +6886,7 @@ Can an intervention on what an interpreter is told about a communicative situati
 
 Are the conditions an effective description is asked to meet (predictive sufficiency, dynamical independence, memory closure, approximation fidelity, tractability) of one logical kind, or are some of them parameters of the regime under which the others are assessed rather than conditions in their own right?
 
-4 citations in 2 files await a look.
+4 citations in 2 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-401.md:24`](../../record/claims.d/CLAIM-401.md)
 - [`record/questions.d/QUESTION-252.md:25`](../../record/questions.d/QUESTION-252.md)
@@ -7314,7 +7314,7 @@ A language model's response to a context is functionally a parameterized pragmat
 
 Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
 
-3 citations in 2 files await a look; 46 other citations of it are acknowledged.
+3 citations in 2 files await a look; 74 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:113`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-067.md:55`](../../record/questions.d/QUESTION-067.md)
@@ -7324,7 +7324,7 @@ Formal contextuality is a failure of global extension, distinct from ordinary co
 
 Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission
 
-3 citations in 2 files await a look; 70 other citations of it are acknowledged.
+3 citations in 2 files await a look; 71 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-164.md:12`](../../record/theory.d/THEORY-164.md)
 - [`record/theory.d/THEORY-164.md:14`](../../record/theory.d/THEORY-164.md)
@@ -7394,7 +7394,7 @@ A non-eliminative structural realism that keeps relata but denies them any intri
 
 A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization
 
-3 citations in 2 files await a look; 64 other citations of it are acknowledged.
+3 citations in 2 files await a look; 65 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-111.md:88`](../../record/claims.d/CLAIM-111.md)
 - [`record/questions.d/QUESTION-058.md:16`](../../record/questions.d/QUESTION-058.md)
@@ -7464,7 +7464,7 @@ What the line adds to functional and relevance-theoretic accounts of translation
 
 Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not
 
-3 citations in 2 files await a look; 23 other citations of it are acknowledged.
+3 citations in 2 files await a look; 31 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-204.md:27`](../../record/claims.d/CLAIM-204.md)
 - [`record/claims.d/CLAIM-204.md:173`](../../record/claims.d/CLAIM-204.md)
@@ -7474,7 +7474,7 @@ Probes and statistical models recover only the distinctions identifiable from th
 
 A proposed relational kind is a hypothesis about invariance across admissible changes of measurement and context, not an equivalence class under the measurements now available, so realism about kinds gains empirical content as extrapolation to probe families, populations and environments not used to construct them
 
-3 citations in 2 files await a look; 6 other citations of it are acknowledged.
+3 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-215.md:142`](../../record/claims.d/CLAIM-215.md)
 - [`record/decisions.d/ADR-040.md:202`](../../record/decisions.d/ADR-040.md)
@@ -7524,7 +7524,7 @@ Self-presentations that differ by audience do no harm while the audiences are ke
 
 A loosely organized population can change what an outside institution does through its members' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change
 
-3 citations in 2 files await a look; 29 other citations of it are acknowledged.
+3 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-119.md:46`](../../record/questions.d/QUESTION-119.md)
 - [`record/questions.d/QUESTION-119.md:64`](../../record/questions.d/QUESTION-119.md)
@@ -7624,7 +7624,7 @@ Competent behaviour does not establish an internal world model: over a fixed int
 
 In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible
 
-3 citations in 2 files await a look; 30 other citations of it are acknowledged.
+3 citations in 2 files await a look; 31 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-088.md:73`](../../record/decisions.d/ADR-088.md)
 - [`record/questions.d/QUESTION-127.md:22`](../../record/questions.d/QUESTION-127.md)
@@ -7644,7 +7644,7 @@ A localized structure can persist by an internal balance that needs no supply, b
 
 Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
 
-3 citations in 2 files await a look; 18 other citations of it are acknowledged.
+3 citations in 2 files await a look; 24 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-210.md:30`](../../record/cases.d/CASE-210.md)
 - [`record/syntheses.d/SYNTHESIS-009.md:12`](../../record/syntheses.d/SYNTHESIS-009.md)
@@ -7934,7 +7934,7 @@ Dwork et al. — The reusable holdout (supplementary material)
 
 In the linearized operator model, is scoring operators against predictions committed before the evidence equivalent to Regime B's independent scoring?
 
-3 citations in 2 files await a look; 5 other citations of it are acknowledged.
+3 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-121.md:14`](../../record/questions.d/QUESTION-121.md)
 - [`record/questions.d/QUESTION-121.md:105`](../../record/questions.d/QUESTION-121.md)
@@ -7944,7 +7944,7 @@ In the linearized operator model, is scoring operators against predictions commi
 
 Does a transport whose local kernels commute with restriction preserve overlap consistency, and does a transport induced by one global stochastic kernel preserve global extendability?
 
-3 citations in 1 file await a look; 4 other citations of it are acknowledged.
+3 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-022.md:14`](../../record/questions.d/QUESTION-022.md)
 - [`record/questions.d/QUESTION-022.md:29`](../../record/questions.d/QUESTION-022.md)
@@ -7984,7 +7984,7 @@ If a map of a representation X of finite support keeps no information about a ca
 
 Do the Johnson–Lindenstrauss threshold for distances and the k log(N/k) threshold for sparse recovery rest on one concentration-of-measure argument, a tail bound for each fixed vector's norm with a union bound over a family, both for sufficiency and for necessity?
 
-3 citations in 1 file await a look.
+3 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-120.md:36`](../../record/questions.d/QUESTION-120.md)
 - [`record/questions.d/QUESTION-120.md:60`](../../record/questions.d/QUESTION-120.md)
@@ -7994,7 +7994,7 @@ Do the Johnson–Lindenstrauss threshold for distances and the k log(N/k) thresh
 
 Is an inquiry's current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory?
 
-3 citations in 2 files await a look; 1 other citation of it is acknowledged.
+3 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-105.md:15`](../../record/questions.d/QUESTION-105.md)
 - [`record/questions.d/QUESTION-105.md:103`](../../record/questions.d/QUESTION-105.md)
@@ -8014,7 +8014,7 @@ The record's grammar is an apparatus in the operational sense: fixed at any mome
 
 What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make
 
-3 citations in 3 files await a look; 2 other citations of it are acknowledged.
+3 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:17`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:28`](../syntheses/role/thesis.md)
@@ -8034,7 +8034,7 @@ will, as a second- or higher-order attractor
 
 endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case
 
-3 citations in 2 files await a look; 138 other citations of it are acknowledged.
+3 citations in 2 files await a look; 139 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-336.md:47`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-336.md:280`](../../record/claims.d/CLAIM-336.md)
@@ -8374,7 +8374,7 @@ In two-agent rock–scissors–paper played by softmax reinforcement learners, n
 
 An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split
 
-2 citations in 1 file await a look; 43 other citations of it are acknowledged.
+2 citations in 1 file await a look; 48 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -8473,7 +8473,7 @@ Bencherki's checklist and daycare, one end state with opposite verdicts, show a 
 
 A 192-state organization on which one kernel gives several closure verdicts: the description by agents and phase is informationally closed on the intact support and fails global strong lumpability, its deficiency for the next pair of rule integrities under a declared intervention mixture is 0.55·H₂(1/3) ≈ 0.5051 bits and zero once the maintenance mode is kept, and finite-sample predictive gains misread both a positive and a zero information defect
 
-2 citations in 2 files await a look; 12 other citations of it are acknowledged.
+2 citations in 2 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-336.md:311`](../../record/claims.d/CLAIM-336.md)
 - [`record/syntheses.d/SYNTHESIS-011.md:264`](../../record/syntheses.d/SYNTHESIS-011.md)
@@ -8482,7 +8482,7 @@ A 192-state organization on which one kernel gives several closure verdicts: the
 
 Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
 
-2 citations in 1 file await a look; 3 other citations of it are acknowledged.
+2 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-113.md:79`](../../record/claims.d/CLAIM-113.md)
 - [`record/claims.d/CLAIM-113.md:80`](../../record/claims.d/CLAIM-113.md)
@@ -8527,7 +8527,7 @@ Communicative meaning is constituted through systems of distinctions and relatio
 
 A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion
 
-2 citations in 2 files await a look; 26 other citations of it are acknowledged.
+2 citations in 2 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-117.md:94`](../../record/claims.d/CLAIM-117.md)
 - [`record/decisions.d/ADR-043.md:288`](../../record/decisions.d/ADR-043.md)
@@ -8653,7 +8653,7 @@ If a willed agent is the jurisdiction of its will-organization, then governing o
 
 Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on an orbit only where the symmetry's derivative is orthogonal, so it holds across permutations and orthogonal maps and changes along rescalings
 
-2 citations in 1 file await a look; 14 other citations of it are acknowledged.
+2 citations in 1 file await a look; 21 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-127.md:20`](../../record/questions.d/QUESTION-127.md)
 - [`record/questions.d/QUESTION-127.md:117`](../../record/questions.d/QUESTION-127.md)
@@ -8662,7 +8662,7 @@ Whether several objectives share a strict first-order descent direction is const
 
 Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
 
-2 citations in 1 file await a look; 13 other citations of it are acknowledged.
+2 citations in 1 file await a look; 26 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-008.md:12`](../../record/syntheses.d/SYNTHESIS-008.md)
 - [`record/syntheses.d/SYNTHESIS-008.md:16`](../../record/syntheses.d/SYNTHESIS-008.md)
@@ -9211,7 +9211,7 @@ In the coupled meaning–influence model linearized at its symmetric state, when
 
 Does exact dynamical closure of an aggregate require a nearly decomposable block, or can a collective variable be exactly dynamically independent when no partition of the units is weakly coupled?
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-221.md:13`](../../record/questions.d/QUESTION-221.md)
 - [`record/questions.d/QUESTION-221.md:109`](../../record/questions.d/QUESTION-221.md)
@@ -9220,7 +9220,7 @@ Does exact dynamical closure of an aggregate require a nearly decomposable block
 
 Must the optimal representations of an information-bottleneck objective at two budgets be nested, so that the coarser optimum is a (possibly noisy) function of the finer?
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-220.md:12`](../../record/questions.d/QUESTION-220.md)
 - [`record/questions.d/QUESTION-220.md:120`](../../record/questions.d/QUESTION-220.md)
@@ -9229,7 +9229,7 @@ Must the optimal representations of an information-bottleneck objective at two b
 
 In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose reduced dynamics carry memory admit an exact finite-dimensional Markovian augmentation?
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-222.md:13`](../../record/questions.d/QUESTION-222.md)
 - [`record/questions.d/QUESTION-222.md:158`](../../record/questions.d/QUESTION-222.md)
@@ -9238,7 +9238,7 @@ In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose r
 
 Under smooth invertible changes of the parameter coordinates, which first-order frustration diagnoses among a learner's demands are invariant: pairwise Euclidean gradient angles, common strict first-order descent, or budgeted feasibility with the update geometry transported?
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-127.md:13`](../../record/questions.d/QUESTION-127.md)
 - [`record/questions.d/QUESTION-127.md:107`](../../record/questions.d/QUESTION-127.md)
@@ -9256,7 +9256,7 @@ In a deterministic singularly perturbed system whose eliminated variable is fast
 
 Can preserving an inquiry's justificatory history improve decisions beyond a current state that is sufficient for those decisions, and can such a state stop being sufficient when a source, the model or the decision family changes?
 
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-112.md:20`](../../record/questions.d/QUESTION-112.md)
 - [`record/questions.d/QUESTION-112.md:86`](../../record/questions.d/QUESTION-112.md)
@@ -9283,7 +9283,7 @@ What evidence would show that a maintaining link, and not a regime's content, ke
 
 Is the distortion of a composite of approximate transports bounded by the sum of its parts' distortions, and does that additive bound survive when the distortion lacks a triangle inequality or a later kernel stretches distances?
 
-2 citations in 1 file await a look; 6 other citations of it are acknowledged.
+2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-017.md:14`](../../record/questions.d/QUESTION-017.md)
 - [`record/questions.d/QUESTION-017.md:89`](../../record/questions.d/QUESTION-017.md)
@@ -9328,7 +9328,7 @@ When formerly autonomous partners come to depend on one another, which propertie
 
 An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability
 
-2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-053.md:47`](../../record/syntheses.d/SYNTHESIS-053.md)
 - [`record/syntheses.d/SYNTHESIS-057.md:59`](../../record/syntheses.d/SYNTHESIS-057.md)
@@ -9337,7 +9337,7 @@ An organizational perspective is not thereby an agent, and what an organization 
 
 What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open
 
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-053.md:47`](../../record/syntheses.d/SYNTHESIS-053.md)
 - [`record/syntheses.d/SYNTHESIS-056.md:104`](../../record/syntheses.d/SYNTHESIS-056.md)
@@ -9463,7 +9463,7 @@ Goals pursued for identified or intrinsic reasons receive more sustained effort,
 
 A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them
 
-2 citations in 1 file await a look; 13 other citations of it are acknowledged.
+2 citations in 1 file await a look; 15 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:26`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:45`](../../record/questions.d/QUESTION-051.md)
@@ -10018,7 +10018,7 @@ Northstar-A and Northstar-B differ only in escalation authority and act differen
 
 Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation
 
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-059.md:57`](../../record/decisions.d/ADR-059.md)
 
@@ -10074,7 +10074,7 @@ In use, an utterance is interpreted by its contrast with the alternatives its sp
 
 Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful
 
-1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-109.md:14`](../../record/terms.d/TERM-109.md)
 
@@ -10154,7 +10154,7 @@ A positively curved origami vertex: its popped-up and popped-down states lie in 
 
 One hidden mode fixed for a run, producing 1, 0, 0 over three periods in one setting and 0, 0, 1 in the other: the realizable observations of periods 1–2 and 2–3 include (1, 0) and (0, 1), which agree on period 2, and no run realizes their pasting (1, 0, 1)
 
-1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 29 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-197.md:139`](../../record/claims.d/CLAIM-197.md)
 
@@ -10282,7 +10282,7 @@ Directional information measures between reciprocally coupled units follow the p
 
 Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour
 
-1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1639.md:69`](../../record/literature.d/LIT-1639.md)
 
@@ -11154,7 +11154,7 @@ Similarity of NN Representations Revisited (CKA)
 
 Spectral contrastive loss (HaoChen et al.)
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:187`](../../record/notes.d/NOTE-322.md)
 
@@ -11194,7 +11194,7 @@ When the task's target and the probes' outcome laws are both linear in one unkno
 
 A collective that replaces all its members, or a self that goes inactive, persists on the record's account by causal transmission of the organization that produces it or by the capacity to reinstate it, not by resemblance or a running quantity: persistence has senses that come apart, its successors can be plural without identity branching, what must be transmitted is still open, a slow variable belongs to a collective's dynamics only when its members read and regenerate it, and a feature recovered from members' activity is at most a constituent of a perspective
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-055.md:39`](../../record/syntheses.d/SYNTHESIS-055.md)
 
@@ -11205,6 +11205,22 @@ Competent behaviour across a family of goals fixes the world model an observer m
 1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-047.md:78`](../../record/syntheses.d/SYNTHESIS-047.md)
+
+### [SYNTHESIS-060](../../record/syntheses.d/SYNTHESIS-060.md) — Proposed
+
+A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-067.md:63`](../../record/syntheses.d/SYNTHESIS-067.md)
+
+### [SYNTHESIS-067](../../record/syntheses.d/SYNTHESIS-067.md) — Proposed
+
+Along a chain of reconstructions, per-step discrepancies weighted by later sensitivity bound the departure from a reference transport but give no testable prediction and do not say whether the act survives, which a reorganized constraint or a phase change can decide; approximate transports compose additively only under a triangle inequality and nonexpansive kernels; a chain can forget its start while staying far from the original; and attraction toward conventional stances, filtered by the transmitters' biases, is proposed, with chain evidence for evaluative stance only
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-060.md:47`](../../record/syntheses.d/SYNTHESIS-060.md)
 
 ### [TERM-002](../../record/terms.d/TERM-002.md) — Superseded
 
@@ -11290,7 +11306,7 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 
 The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
 
-1 citation in 1 file awaits a look; 41 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 44 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:54`](../../record/questions.d/QUESTION-052.md)
 

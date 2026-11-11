@@ -6,8 +6,10 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-1 of 70 SYNTHESIS documents. Back to the [full index](../README.md).
+3 of 89 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [SYNTHESIS-045](../../../record/syntheses.d/SYNTHESIS-045.md) | Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon |  | Proposed |
+| [SYNTHESIS-078](../../../record/syntheses.d/SYNTHESIS-078.md) | Neither persistence nor yields nor minimal sets identify a productive or generative nucleus: the committor ignores how long a state persists, two assemblies can agree in both arms of the nucleus intervention and differ in the downstream rate, and productive sets need not be closed upward because two productive nuclei can combine into a trap |  | Proposed |
+| [SYNTHESIS-084](../../../record/syntheses.d/SYNTHESIS-084.md) | Whether a criterion on a coarse-graining picks out the variables renormalization keeps is open in three settings: on a lattice slab the information bottleneck's first transition is the bifurcation, and its first feature the leading transfer-matrix mode, only under some further condition; inside Kadanoff's kernel families it is unsettled whether the exact trace condition keeps the relevant operators; and the coarse-graining that maximizes mutual information beyond a buffer has so far found only variables already known |  | Proposed |

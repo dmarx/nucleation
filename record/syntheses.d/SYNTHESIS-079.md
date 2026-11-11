@@ -1,5 +1,8 @@
 ---
+number: 79
 status: Proposed
+formerly:
+- SYNTHESIS-tmpe15k3
 title: 'Agreement in ordinary operation does not fix how a system responds to an intervention on its mechanism: a coarse-graining exactly closed under its ordinary dynamics can lose that response, a deficiency of sufficiency measures the loss and cannot rise under refinement while closure is ordered by refinement in neither direction, causal abstraction does not secure the sufficiency, matched trajectories can hide efficacy and maintenance, and fidelity in ordinary operation certifies nothing about viability; where maintenance is realized is shown only by intervening on the production mechanisms relative to a boundary no intervention supplies, interventions show that a capacity is produced through a mechanism and not that it consists in it, and closure needs at least two constraints as persistence needs a productive cycle'
 version: 1
 defeated_if: >-
@@ -54,9 +57,9 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-019 SYNTHESIS-029 SYNTHESIS-030 SYNTHESIS-036 SYNTHESIS-041 SYNTHESIS-047 SYNTHESIS-048 SYNTHESIS-054 — Proposed; other lines' accounts that already integrate components, named and not integrated -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is drafted under -->
 <!-- inactive-ok-file: QUESTION-244 — Answered; cited with its standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmp2gov9 SYNTHESIS-tmp68daz SYNTHESIS-tmpa7ef9 SYNTHESIS-tmpc35sn SYNTHESIS-tmpemzd4 SYNTHESIS-tmpgtv7b SYNTHESIS-tmphb9rl SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-073 SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-076 SYNTHESIS-080 SYNTHESIS-081 SYNTHESIS-082 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpe15k3: Agreement in ordinary operation does not fix how a system responds to an intervention on its mechanism: a coarse-graining exactly closed under its ordinary dynamics can lose that response, a deficiency of sufficiency measures the loss and cannot rise under refinement while closure is ordered by refinement in neither direction, causal abstraction does not secure the sufficiency, matched trajectories can hide efficacy and maintenance, and fidelity in ordinary operation certifies nothing about viability; where maintenance is realized is shown only by intervening on the production mechanisms relative to a boundary no intervention supplies, interventions show that a capacity is produced through a mechanism and not that it consists in it, and closure needs at least two constraints as persistence needs a productive cycle
+# SYNTHESIS-079: Agreement in ordinary operation does not fix how a system responds to an intervention on its mechanism: a coarse-graining exactly closed under its ordinary dynamics can lose that response, a deficiency of sufficiency measures the loss and cannot rise under refinement while closure is ordered by refinement in neither direction, causal abstraction does not secure the sufficiency, matched trajectories can hide efficacy and maintenance, and fidelity in ordinary operation certifies nothing about viability; where maintenance is realized is shown only by intervening on the production mechanisms relative to a boundary no intervention supplies, interventions show that a capacity is produced through a mechanism and not that it consists in it, and closure needs at least two constraints as persistence needs a productive cycle
 
 *A part account of the formal-apparatus line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). The
 line's account is built over it and over the accounts of the line's other
@@ -336,7 +339,7 @@ formal-apparatus. [CASE-164](../cases.d/CASE-164.md), [TERM-062](../terms.d/TERM
 
 Outgoing, from these components to entries of other parts of the line:
 
-- **To the effective-description part ([SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md)).** [CLAIM-407](../claims.d/CLAIM-407.md) rests on
+- **To the effective-description part ([SYNTHESIS-075](SYNTHESIS-075.md)).** [CLAIM-407](../claims.d/CLAIM-407.md) rests on
   [CLAIM-350](../claims.d/CLAIM-350.md), and its "Where it was before" quotes [CLAIM-350](../claims.d/CLAIM-350.md)'s "What it does
   not say": "That observational adequacy is causal adequacy." [CLAIM-409](../claims.d/CLAIM-409.md):
   "Nothing in it is special to governance: it is any fixed-target
@@ -346,25 +349,25 @@ Outgoing, from these components to entries of other parts of the line:
   [CLAIM-389](../claims.d/CLAIM-389.md), [CLAIM-394](../claims.d/CLAIM-394.md) and [CLAIM-398](../claims.d/CLAIM-398.md) as uses of informational closure,
   [CLAIM-389](../claims.d/CLAIM-389.md), [CLAIM-397](../claims.d/CLAIM-397.md) and [CLAIM-398](../claims.d/CLAIM-398.md) for vanishing Mori–Zwanzig memory,
   [CLAIM-386](../claims.d/CLAIM-386.md) for the linear closure defect, and [CLAIM-294](../claims.d/CLAIM-294.md) as a homonym.
-- **To the naming part ([SYNTHESIS-tmpgtv7b](SYNTHESIS-tmpgtv7b.md)).** [TERM-068](../terms.d/TERM-068.md) names [CLAIM-388](../claims.d/CLAIM-388.md) as a use of
+- **To the naming part ([SYNTHESIS-081](SYNTHESIS-081.md)).** [TERM-068](../terms.d/TERM-068.md) names [CLAIM-388](../claims.d/CLAIM-388.md) as a use of
   informational closure.
-- **To the stability part ([SYNTHESIS-tmpemzd4](SYNTHESIS-tmpemzd4.md)).** [CLAIM-414](../claims.d/CLAIM-414.md) complements [CLAIM-521](../claims.d/CLAIM-521.md), and
+- **To the stability part ([SYNTHESIS-080](SYNTHESIS-080.md)).** [CLAIM-414](../claims.d/CLAIM-414.md) complements [CLAIM-521](../claims.d/CLAIM-521.md), and
   its note of 2026-11-07 says the software instance "is this claim and
   [CLAIM-521](../claims.d/CLAIM-521.md)".
-- **To the Granger and transfer-entropy account ([SYNTHESIS-tmp2gov9](SYNTHESIS-tmp2gov9.md)).** [TERM-068](../terms.d/TERM-068.md) defines informational
+- **To the Granger and transfer-entropy account ([SYNTHESIS-073](SYNTHESIS-073.md)).** [TERM-068](../terms.d/TERM-068.md) defines informational
   closure as "transfer entropy from the micro past with Z's whole history
   and no environment ([TERM-057](../terms.d/TERM-057.md) with k and l unbounded)".
-- **To the entries the line account integrates directly ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)).** [CLAIM-395](../claims.d/CLAIM-395.md)'s history: filed Active
+- **To the entries the line account integrates directly ([SYNTHESIS-088](SYNTHESIS-088.md)).** [CLAIM-395](../claims.d/CLAIM-395.md)'s history: filed Active
   and demonstrated "as [CLAIM-391](../claims.d/CLAIM-391.md) was from [THEORY-085](../theory.d/THEORY-085.md)".
 
 Incoming, stated by entries of other parts:
 
-- **Reachability ([SYNTHESIS-tmpc35sn](SYNTHESIS-tmpc35sn.md)).** [CLAIM-577](../claims.d/CLAIM-577.md): "[CLAIM-414](../claims.d/CLAIM-414.md)'s matched trajectories
+- **Reachability ([SYNTHESIS-076](SYNTHESIS-076.md)).** [CLAIM-577](../claims.d/CLAIM-577.md): "[CLAIM-414](../claims.d/CLAIM-414.md)'s matched trajectories
   and the unrecorded calls of [CASE-203](../cases.d/CASE-203.md) are the observational side of
   this." [CLAIM-632](../claims.d/CLAIM-632.md) quotes [CLAIM-414](../claims.d/CLAIM-414.md)'s limit, "Nor is intervention the only
   way to tell the systems apart". [QUESTION-391](../questions.d/QUESTION-391.md) lists [CLAIM-480](../claims.d/CLAIM-480.md)'s memory
   case.
-- **Effective description ([SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md)).** [CLAIM-350](../claims.d/CLAIM-350.md)'s note: Construction B is
+- **Effective description ([SYNTHESIS-075](SYNTHESIS-075.md)).** [CLAIM-350](../claims.d/CLAIM-350.md)'s note: Construction B is
   "filed as [CLAIM-407](../claims.d/CLAIM-407.md) with [CASE-125](../cases.d/CASE-125.md)", and the hidden governance bit
   separates exact transformation from its factorization ("[THEORY-848](../theory.d/THEORY-848.md),
   [CLAIM-399](../claims.d/CLAIM-399.md)"). [CLAIM-401](../claims.d/CLAIM-401.md) and [QUESTION-252](../questions.d/QUESTION-252.md) read [CASE-164](../cases.d/CASE-164.md) as non-implications
@@ -373,11 +376,11 @@ Incoming, stated by entries of other parts:
   compression". [TERM-069](../terms.d/TERM-069.md): two systems equivalent under every passive probe
   "can respond differently to an intervention on their mechanism
   ([CASE-125](../cases.d/CASE-125.md), [CLAIM-407](../claims.d/CLAIM-407.md))".
-- **Frustration ([SYNTHESIS-tmp68daz](SYNTHESIS-tmp68daz.md)).** [CLAIM-459](../claims.d/CLAIM-459.md): a subthreshold effect "shows only
+- **Frustration ([SYNTHESIS-074](SYNTHESIS-074.md)).** [CLAIM-459](../claims.d/CLAIM-459.md): a subthreshold effect "shows only
   under a further perturbation, as [CLAIM-414](../claims.d/CLAIM-414.md)'s method requires".
-- **Gluing ([SYNTHESIS-tmphb9rl](SYNTHESIS-tmphb9rl.md)).** [CLAIM-044](../claims.d/CLAIM-044.md) cites [CLAIM-409](../claims.d/CLAIM-409.md) for a property that fails
+- **Gluing ([SYNTHESIS-082](SYNTHESIS-082.md)).** [CLAIM-044](../claims.d/CLAIM-044.md) cites [CLAIM-409](../claims.d/CLAIM-409.md) for a property that fails
   to survive a join.
-- **Stability ([SYNTHESIS-tmpemzd4](SYNTHESIS-tmpemzd4.md)).** [CLAIM-521](../claims.d/CLAIM-521.md) complements [CLAIM-414](../claims.d/CLAIM-414.md). [CASE-227](../cases.d/CASE-227.md)'s
+- **Stability ([SYNTHESIS-080](SYNTHESIS-080.md)).** [CLAIM-521](../claims.d/CLAIM-521.md) complements [CLAIM-414](../claims.d/CLAIM-414.md). [CASE-227](../cases.d/CASE-227.md)'s
   proposed arms include "c kept by an outside controller, and c kept by
   internal production (compare [CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-456](../claims.d/CLAIM-456.md))".
 

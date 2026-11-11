@@ -1,5 +1,8 @@
 ---
+number: 89
 status: Proposed
+formerly:
+- SYNTHESIS-tmpy0g7w
 title: 'A potential is how the record tests whether some ordering prevails: on a finite set it exists exactly when winning moves never cycle and is fixed only up to a class, a least-squares gradient is a cardinal object that can reverse what the wins settle, an ordering is a currency on a finite set and not on a continuum, and in symmetric resource-mediated competition population dynamics descend a convex objective whose split into gradient and remainder depends on a chosen metric'
 version: 1
 defeated_if: >-
@@ -22,9 +25,9 @@ integrates:
 - CLAIM-369
 ---
 <!-- inactive-ok-file: ADR-075 CLAIM-435 CLAIM-440 SYNTHESIS-020 SYNTHESIS-051 TERM-076 — Proposed; components, decisions and accounts cited with their standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpy0g7w: A potential is how the record tests whether some ordering prevails: on a finite set it exists exactly when winning moves never cycle and is fixed only up to a class, a least-squares gradient is a cardinal object that can reverse what the wins settle, an ordering is a currency on a finite set and not on a continuum, and in symmetric resource-mediated competition population dynamics descend a convex objective whose split into gradient and remainder depends on a chosen metric
+# SYNTHESIS-089: A potential is how the record tests whether some ordering prevails: on a finite set it exists exactly when winning moves never cycle and is fixed only up to a class, a least-squares gradient is a cardinal object that can reverse what the wins settle, an ordering is a currency on a finite set and not on a continuum, and in symmetric resource-mediated competition population dynamics descend a convex objective whose split into gradient and remainder depends on a chosen metric
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, four entries on when a process has a potential and what
@@ -105,7 +108,7 @@ Four pairs are linked:
 
 ## Links to other parts, stated
 
-None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly, and none of them names a member here. Outside the line,
+None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly, and none of them names a member here. Outside the line,
 [CLAIM-436](../claims.d/CLAIM-436.md) is used by [CLAIM-435](../claims.d/CLAIM-435.md) and [CLAIM-440](../claims.d/CLAIM-440.md), [TERM-077](../terms.d/TERM-077.md) names [TERM-076](../terms.d/TERM-076.md) and
 [TERM-078](../terms.d/TERM-078.md) (organizational-affect), and [CLAIM-369](../claims.d/CLAIM-369.md) complements [CLAIM-279](../claims.d/CLAIM-279.md)
 and [CLAIM-444](../claims.d/CLAIM-444.md) (distributed-agency).

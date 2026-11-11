@@ -1,5 +1,8 @@
 ---
+number: 76
 status: Proposed
+formerly:
+- SYNTHESIS-tmpc35sn
 title: 'Reaching under a budget is not holding, and telling apart is not turning into one another: feasible, reachable and reliably reached come apart, a transition''s threshold is the least peak over admissible paths, stable under error and a frontier rather than a total when there are several resources, a budget grows a compatibility complex and a reachability filtration that do not fix each other, observing budgets split what can be told apart while acting budgets under peak costs merge what can be reached, the category chosen decides what counts as the same, navigating and diagnosing have complexities of their own, and the same split recurs for control inputs and for synchronization demands indexed by control parameters'
 version: 1
 defeated_if: >-
@@ -18,7 +21,7 @@ date: '2026-11-11'
 line:
 - formal-apparatus
 integrates:
-- CLAIM-tmpopi1b
+- CLAIM-639
 - CLAIM-571
 - CLAIM-567
 - CLAIM-563
@@ -72,9 +75,9 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-024 SYNTHESIS-027 SYNTHESIS-040 SYNTHESIS-041 SYNTHESIS-042 SYNTHESIS-043 SYNTHESIS-045 SYNTHESIS-051 SYNTHESIS-056 SYNTHESIS-068 CLAIM-631 CLAIM-634 CASE-203 ADR-075 ADR-084 — Proposed; the accounts that already integrate the members, and entries cited for what they hold, nothing here resting on their being settled -->
 <!-- inactive-ok-file: SYNTHESIS-009 — Superseded; cited as the entry CLAIM-632 returned from -->
 <!-- inactive-ok-file: ARG-053 — Rejected; cited as the argument CLAIM-561 undercuts -->
-<!-- inactive-ok-file: CLAIM-tmpopi1b SYNTHESIS-tmp68daz SYNTHESIS-tmpa7ef9 SYNTHESIS-tmpe15k3 SYNTHESIS-tmpemzd4 SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-639 SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-079 SYNTHESIS-080 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpc35sn: Reaching under a budget is not holding, and telling apart is not turning into one another: feasible, reachable and reliably reached come apart, a transition's threshold is the least peak over admissible paths, stable under error and a frontier rather than a total when there are several resources, a budget grows a compatibility complex and a reachability filtration that do not fix each other, observing budgets split what can be told apart while acting budgets under peak costs merge what can be reached, the category chosen decides what counts as the same, navigating and diagnosing have complexities of their own, and the same split recurs for control inputs and for synchronization demands indexed by control parameters
+# SYNTHESIS-076: Reaching under a budget is not holding, and telling apart is not turning into one another: feasible, reachable and reliably reached come apart, a transition's threshold is the least peak over admissible paths, stable under error and a frontier rather than a total when there are several resources, a budget grows a compatibility complex and a reachability filtration that do not fix each other, observing budgets split what can be told apart while acting budgets under peak costs merge what can be reached, the category chosen decides what counts as the same, navigating and diagnosing have complexities of their own, and the same split recurs for control inputs and for synchronization demands indexed by control parameters
 
 *A part account of the formal-apparatus line ("Formal apparatus", [ADR-040](../decisions.d/ADR-040.md)):
 the part a community map of stored relations and mentions groups around
@@ -422,12 +425,12 @@ bifurcations of the locked states ([QUESTION-438](../questions.d/QUESTION-438.md
 
 From this part's members to members of the line's other parts, each pair
 once, with the entry that states it. Eighteen pairs: seven to the part on
-effective constraints and probes ([SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md)), six to the part on
-frustration ([SYNTHESIS-tmp68daz](SYNTHESIS-tmp68daz.md)), three to the part on intervention
-([SYNTHESIS-tmpe15k3](SYNTHESIS-tmpe15k3.md)) and two to the part on stability
-([SYNTHESIS-tmpemzd4](SYNTHESIS-tmpemzd4.md)). None reach the small clusters or the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly.
+effective constraints and probes ([SYNTHESIS-075](SYNTHESIS-075.md)), six to the part on
+frustration ([SYNTHESIS-074](SYNTHESIS-074.md)), three to the part on intervention
+([SYNTHESIS-079](SYNTHESIS-079.md)) and two to the part on stability
+([SYNTHESIS-080](SYNTHESIS-080.md)). None reach the small clusters or the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly.
 
-- **To [SYNTHESIS-tmpa7ef9](SYNTHESIS-tmpa7ef9.md).**
+- **To [SYNTHESIS-075](SYNTHESIS-075.md).**
   - [CLAIM-574](../claims.d/CLAIM-574.md) rests on [CLAIM-264](../claims.d/CLAIM-264.md): "agreement on a restricted family can
     fall short of isomorphism, and a dense family restores full
     faithfulness. This claim adds the order between".
@@ -445,7 +448,7 @@ frustration ([SYNTHESIS-tmp68daz](SYNTHESIS-tmp68daz.md)), three to the part on 
   - [QUESTION-384](../questions.d/QUESTION-384.md)'s "What would not answer it": "Agreement under probes
     chosen to agree. [CLAIM-322](../claims.d/CLAIM-322.md): such probes show only that they can be
     selected."
-- **To [SYNTHESIS-tmp68daz](SYNTHESIS-tmp68daz.md).**
+- **To [SYNTHESIS-074](SYNTHESIS-074.md).**
   - [CLAIM-572](../claims.d/CLAIM-572.md) rests on [CLAIM-535](../claims.d/CLAIM-535.md): "[CLAIM-535](../claims.d/CLAIM-535.md)'s setting, with costs on both
     halves"; [CLAIM-535](../claims.d/CLAIM-535.md)'s note of 2026-11-07 reads A58 §8's route as
     "[CLAIM-572](../claims.d/CLAIM-572.md)'s hedge, and it is open only where a hedge exists".
@@ -461,7 +464,7 @@ frustration ([SYNTHESIS-tmp68daz](SYNTHESIS-tmp68daz.md)), three to the part on 
     leaves their feasibility test unstated." [CLAIM-634](../claims.d/CLAIM-634.md) (Proposed) sets
     [CLAIM-618](../claims.d/CLAIM-618.md) outside its scope: "[CLAIM-153](../claims.d/CLAIM-153.md) and [CLAIM-618](../claims.d/CLAIM-618.md) are on S¹, where
     winding enters and the convex test does not transfer."
-- **To [SYNTHESIS-tmpe15k3](SYNTHESIS-tmpe15k3.md).**
+- **To [SYNTHESIS-079](SYNTHESIS-079.md).**
   - [CLAIM-577](../claims.d/CLAIM-577.md)'s "What it adds": "[CLAIM-414](../claims.d/CLAIM-414.md)'s matched trajectories and the
     unrecorded calls of [CASE-203](../cases.d/CASE-203.md) are the observational side of this."
   - [CLAIM-632](../claims.d/CLAIM-632.md)'s body: "[CLAIM-414](../claims.d/CLAIM-414.md) (Active) holds that intervention is not
@@ -469,7 +472,7 @@ frustration ([SYNTHESIS-tmp68daz](SYNTHESIS-tmp68daz.md)), three to the part on 
   - [QUESTION-391](../questions.d/QUESTION-391.md)'s body cites [CLAIM-480](../claims.d/CLAIM-480.md) among the held time-scale forms:
     "eliminating a slowly relaxing interior leaves a history-dependent
     constraint".
-- **To [SYNTHESIS-tmpemzd4](SYNTHESIS-tmpemzd4.md).**
+- **To [SYNTHESIS-080](SYNTHESIS-080.md).**
   - [CLAIM-577](../claims.d/CLAIM-577.md) and [CLAIM-079](../claims.d/CLAIM-079.md) complement each other; [CLAIM-577](../claims.d/CLAIM-577.md)'s "What it
     adds": "It is stability without viability by budget ([CLAIM-079](../claims.d/CLAIM-079.md))".
   - [CLAIM-589](../claims.d/CLAIM-589.md)'s body: "This is the shape of [CLAIM-079](../claims.d/CLAIM-079.md)'s split between
@@ -520,7 +523,7 @@ step 5 at this review:
 - **Stability not carried to the agreement.** That an estimate of the
   requirement within ε, which fixes every threshold to within ε
   ([CLAIM-580](../claims.d/CLAIM-580.md)), does not fix which merge-tree levels [CLAIM-592](../claims.d/CLAIM-592.md)'s two chains
-  agree on, since two merges within 2ε can be reordered. It passes the derivation route and is filed at this review as [CLAIM-tmpopi1b](../claims.d/CLAIM-tmpopi1b.md) (Proposed), which this account integrates.
+  agree on, since two merges within 2ε can be reordered. It passes the derivation route and is filed at this review as [CLAIM-639](../claims.d/CLAIM-639.md) (Proposed), which this account integrates.
 - **A parameter-indexed complex against a budgeted one.** That [CLAIM-618](../claims.d/CLAIM-618.md)'s
   complex over control parameters, unlike [CLAIM-586](../claims.d/CLAIM-586.md)'s over a budget, need
   not be monotone. It turns on Q(λ), which [ARG-061](../arguments.d/ARG-061.md) finds unstated: a free

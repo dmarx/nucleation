@@ -1,5 +1,8 @@
 ---
+number: 641
 status: Proposed
+formerly:
+- CLAIM-tmpz1gnk
 title: 'The integral operator with kernel w(u,v)/√(w(u)w(v)) to which the spectral contrastive analysis applies the spectral theorem is the conditional-expectation operator of the positive pairs carried to Lebesgue measure by multiplication by √w, so that kernel is square-integrable exactly when the positive-pair χ²-divergence is finite, with squared norm 1 + χ², and the two operators have one spectrum'
 version: 1
 role: thesis
@@ -42,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-075 ADR-084 SYNTHESIS-030 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: NOTE-227 — Superseded; cited with its standing -->
 
-# CLAIM-tmpz1gnk: The integral operator with kernel w(u,v)/√(w(u)w(v)) to which the spectral contrastive analysis applies the spectral theorem is the conditional-expectation operator of the positive pairs carried to Lebesgue measure by multiplication by √w, so that kernel is square-integrable exactly when the positive-pair χ²-divergence is finite, with squared norm 1 + χ², and the two operators have one spectrum
+# CLAIM-641: The integral operator with kernel w(u,v)/√(w(u)w(v)) to which the spectral contrastive analysis applies the spectral theorem is the conditional-expectation operator of the positive pairs carried to Lebesgue measure by multiplication by √w, so that kernel is square-integrable exactly when the positive-pair χ²-divergence is finite, with squared norm 1 + χ², and the two operators have one spectrum
 
 ## The claim
 

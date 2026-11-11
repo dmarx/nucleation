@@ -1,5 +1,8 @@
 ---
+number: 85
 status: Proposed
+formerly:
+- SYNTHESIS-tmppyfkv
 title: 'The thresholds for random maps that keep distances and sparse supports share one sufficiency argument and not a necessity argument, while whether random features, superposition and expand-and-threshold maps fall under the same concentration fact, and whether the sparse-recovery transition is universal beyond Gaussian ensembles, stay open'
 version: 1
 defeated_if: >-
@@ -22,9 +25,9 @@ integrates:
 ---
 <!-- inactive-ok-file: ADR-075 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: QUESTION-251 — Answered; cited with its standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmphb9rl — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-082 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmppyfkv: The thresholds for random maps that keep distances and sparse supports share one sufficiency argument and not a necessity argument, while whether random features, superposition and expand-and-threshold maps fall under the same concentration fact, and whether the sparse-recovery transition is universal beyond Gaussian ensembles, stay open
+# SYNTHESIS-085: The thresholds for random maps that keep distances and sparse supports share one sufficiency argument and not a necessity argument, while whether random features, superposition and expand-and-threshold maps fall under the same concentration fact, and whether the sparse-recovery transition is universal beyond Gaussian ensembles, stay open
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, three questions, all first in formal-apparatus, from the
@@ -85,7 +88,7 @@ Two pairs are linked, both by `refines`:
 ## Links to other parts, stated
 
 None. No member names a member of another part account of this line or an entry the line account integrates directly, and none of them names a member here. [CLAIM-313](../claims.d/CLAIM-313.md) of the gluing
-account ([SYNTHESIS-tmphb9rl](SYNTHESIS-tmphb9rl.md)) cites [THEORY-388](../theory.d/THEORY-388.md), which [QUESTION-120](../questions.d/QUESTION-120.md) names for the
+account ([SYNTHESIS-082](SYNTHESIS-082.md)) cites [THEORY-388](../theory.d/THEORY-388.md), which [QUESTION-120](../questions.d/QUESTION-120.md) names for the
 expand-and-threshold thread.
 
 ## Where else these entries are integrated

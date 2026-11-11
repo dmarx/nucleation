@@ -1,5 +1,8 @@
 ---
+number: 87
 status: Proposed
+formerly:
+- SYNTHESIS-tmpsomlg
 title: 'Forbidding self-grants does not stop an operator from amplifying its own authority under damped recursive delegation, one-hop allocation within an epoch makes authority exactly independent of an operator''s own grants and lets delegating to a nearer ally pay, and leave-one-out delegation keeps that independence beyond one hop without that guarantee'
 version: 1
 defeated_if: >-
@@ -22,9 +25,9 @@ integrates:
 ---
 <!-- inactive-ok-file: ADR-075 CLAIM-285 SYNTHESIS-050 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: TERM-053 — Superseded; cited as the entry of its time -->
-<!-- inactive-ok-file: SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmpsomlg: Forbidding self-grants does not stop an operator from amplifying its own authority under damped recursive delegation, one-hop allocation within an epoch makes authority exactly independent of an operator's own grants and lets delegating to a nearer ally pay, and leave-one-out delegation keeps that independence beyond one hop without that guarantee
+# SYNTHESIS-087: Forbidding self-grants does not stop an operator from amplifying its own authority under damped recursive delegation, one-hop allocation within an epoch makes authority exactly independent of an operator's own grants and lets delegating to a nearer ally pay, and leave-one-out delegation keeps that independence beyond one hop without that guarantee
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, three entries first in distributed-agency, where
@@ -92,7 +95,7 @@ All three pairs are linked by relations:
 
 ## Links to other parts, stated
 
-None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly, and none of them names a member here. Outside the line, [CLAIM-285](../claims.d/CLAIM-285.md)
+None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly, and none of them names a member here. Outside the line, [CLAIM-285](../claims.d/CLAIM-285.md)
 (Proposed) is the incentive thesis [CLAIM-375](../claims.d/CLAIM-375.md) was split from, and [CLAIM-277](../claims.d/CLAIM-277.md)
 holds the social route as how durable trust arises.
 

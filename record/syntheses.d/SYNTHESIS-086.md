@@ -1,5 +1,8 @@
 ---
+number: 86
 status: Proposed
+formerly:
+- SYNTHESIS-tmprfpxq
 title: 'In the linearized meaning–authority model, committing predictions before the evidence removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, a maintained legibility state shifts the instability threshold as stronger couplings would and adds a slow mode they cannot, and feasibility, aggregation and epistemic coordination are separate obstructions of which a commitment protocol fixes only timing'
 version: 1
 defeated_if: >-
@@ -22,9 +25,9 @@ integrates:
 ---
 <!-- inactive-ok-file: ADR-075 SYNTHESIS-050 SYNTHESIS-051 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: QUESTION-239 QUESTION-253 — Answered; cited with its standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmpvz4mj — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-tmprfpxq: In the linearized meaning–authority model, committing predictions before the evidence removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, a maintained legibility state shifts the instability threshold as stronger couplings would and adds a slow mode they cannot, and feasibility, aggregation and epistemic coordination are separate obstructions of which a commitment protocol fixes only timing
+# SYNTHESIS-086: In the linearized meaning–authority model, committing predictions before the evidence removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, a maintained legibility state shifts the instability threshold as stronger couplings would and adds a slow mode they cannot, and feasibility, aggregation and epistemic coordination are separate obstructions of which a commitment protocol fixes only timing
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, three entries first in distributed-agency, where
@@ -91,7 +94,7 @@ Two pairs are linked, both by mention:
 
 ## Links to other parts, stated
 
-None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly, and none of them names a member here. [CLAIM-408](../claims.d/CLAIM-408.md), among the entries the line account ([SYNTHESIS-tmpvz4mj](SYNTHESIS-tmpvz4mj.md)) integrates directly, cites [CLAIM-330](../claims.d/CLAIM-330.md), the premise [CLAIM-340](../claims.d/CLAIM-340.md) and [CLAIM-400](../claims.d/CLAIM-400.md)
+None. No member names a member of the line's other part accounts or of the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly, and none of them names a member here. [CLAIM-408](../claims.d/CLAIM-408.md), among the entries the line account ([SYNTHESIS-088](SYNTHESIS-088.md)) integrates directly, cites [CLAIM-330](../claims.d/CLAIM-330.md), the premise [CLAIM-340](../claims.d/CLAIM-340.md) and [CLAIM-400](../claims.d/CLAIM-400.md)
 share.
 
 ## Where else these entries are integrated

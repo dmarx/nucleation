@@ -1,5 +1,8 @@
 ---
+number: 77
 status: Proposed
+formerly:
+- SYNTHESIS-tmpdbary
 title: 'What an invariant keeps and what it forgets: equal entropy does not give equal relational structure, characters classify representations only up to isomorphism and only in characteristic zero and forget the isomorphisms, the group and the action, and a factorization is fixed only up to a gauge that is no symmetry of the data, so identifiability comes before automorphisms and characters; that a signature sufficient for decisions beyond the probes is identified where the factorization is not is proposed, and none is named'
 version: 1
 defeated_if: >-
@@ -33,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-137 CLAIM-142 CLAIM-193 CLAIM-209 CLAIM-213 SYNTHESIS-068 — Proposed; a component, the claims its components relate to, and the other line's account that sets them out, with their standing -->
 
-# SYNTHESIS-tmpdbary: What an invariant keeps and what it forgets: equal entropy does not give equal relational structure, characters classify representations only up to isomorphism and only in characteristic zero and forget the isomorphisms, the group and the action, and a factorization is fixed only up to a gauge that is no symmetry of the data, so identifiability comes before automorphisms and characters; that a signature sufficient for decisions beyond the probes is identified where the factorization is not is proposed, and none is named
+# SYNTHESIS-077: What an invariant keeps and what it forgets: equal entropy does not give equal relational structure, characters classify representations only up to isomorphism and only in characteristic zero and forget the isomorphisms, the group and the action, and a factorization is fixed only up to a gauge that is no symmetry of the data, so identifiability comes before automorphisms and characters; that a signature sufficient for decisions beyond the probes is identified where the factorization is not is proposed, and none is named
 
 *A part account of the formal-apparatus line ("Formal apparatus",
 [ADR-040](../decisions.d/ADR-040.md)), the part on what an invariant keeps and what it forgets. The
