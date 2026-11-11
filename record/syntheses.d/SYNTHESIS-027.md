@@ -1,5 +1,8 @@
 ---
+number: 27
 status: Proposed
+formerly:
+- SYNTHESIS-tmp78y0i
 title: 'Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation'
 version: 2
 history:
@@ -53,7 +56,7 @@ integrates:
 <!-- inactive-ok-file: ARG-053 — Rejected; a component, the inference the part rejects -->
 <!-- inactive-ok-file: SYNTHESIS-009 — Superseded; cited as the entry CLAIM-632 returned from -->
 
-# SYNTHESIS-tmp78y0i: Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation
+# SYNTHESIS-027: Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation
 
 *A part account of the readiness line: the part filed from the exchange on
 emergency readiness and its bibliography (2026-11-04), with what later
@@ -197,7 +200,7 @@ them here, and each reaches the part only through a reading.
   [QUESTION-394](../questions.d/QUESTION-394.md)'s note names A's simulator as its cheapest test. [TERM-106](../terms.d/TERM-106.md)
   refines [TERM-107](../terms.d/TERM-107.md), and [TERM-110](../terms.d/TERM-110.md)'s revision rule is what [CASE-200](../cases.d/CASE-200.md)'s cut
   on unspent funds is.
-- **To transient-support ([SYNTHESIS-tmprhzl8](SYNTHESIS-tmprhzl8.md)).** [CLAIM-558](../claims.d/CLAIM-558.md) complements [CLAIM-602](../claims.d/CLAIM-602.md) and
+- **To transient-support ([SYNTHESIS-032](SYNTHESIS-032.md)).** [CLAIM-558](../claims.d/CLAIM-558.md) complements [CLAIM-602](../claims.d/CLAIM-602.md) and
   corroborates [CLAIM-600](../claims.d/CLAIM-600.md). [QUESTION-386](../questions.d/QUESTION-386.md)'s note: "In [CLAIM-602](../claims.d/CLAIM-602.md), funding
   that pays for the work rather than for the organization doing it
   selects substitution, which lowers the capacity kept." [CLAIM-632](../claims.d/CLAIM-632.md) says a

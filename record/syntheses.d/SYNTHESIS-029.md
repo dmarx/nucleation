@@ -1,5 +1,8 @@
 ---
+number: 29
 status: Proposed
+formerly:
+- SYNTHESIS-tmpha4sq
 title: 'Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open'
 version: 1
 defeated_if: >-
@@ -31,7 +34,7 @@ bears_on:
 <!-- inactive-ok-file: ADR-083 THEORY-186 THEORY-759 — Proposed; components, citations and the decisions this account follows, with their standing -->
 <!-- inactive-ok-file: QUESTION-244 QUESTION-291 — Answered; components and citations, with their standing -->
 
-# SYNTHESIS-tmpha4sq: Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open
+# SYNTHESIS-029: Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts. No relation or mention joins this part to any other component of the line.*
 
@@ -115,7 +118,7 @@ None is filed.
 
 ## Not stated on the record
 
-- **Acquisition here and in [SYNTHESIS-tmptiwlg](SYNTHESIS-tmptiwlg.md).** [QUESTION-217](../questions.d/QUESTION-217.md)'s acquisition relation
+- **Acquisition here and in [SYNTHESIS-034](SYNTHESIS-034.md).** [QUESTION-217](../questions.d/QUESTION-217.md)'s acquisition relation
   is [QUESTION-039](../questions.d/QUESTION-039.md)'s subject, and both cite [THEORY-086](../theory.d/THEORY-086.md) and the deep linear
   readings. Neither refines or names the other.
 - **A condition on P(X, Y) for nesting**, and whether the loss from

@@ -893,7 +893,7 @@ schemes:
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
-          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's
           argument it belongs to
         scheme: SYNTHESIS
         required: false
@@ -1116,7 +1116,7 @@ schemes:
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
-          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's
           argument it belongs to
         scheme: SYNTHESIS
         required: false
@@ -1198,7 +1198,7 @@ schemes:
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
-          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's
           argument it belongs to
         scheme: SYNTHESIS
         required: false
@@ -1399,7 +1399,7 @@ schemes:
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
-          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's
           argument it belongs to
         scheme: SYNTHESIS
         required: false
@@ -1516,7 +1516,7 @@ schemes:
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
-          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's
           argument it belongs to
         scheme: SYNTHESIS
         required: false
@@ -1611,7 +1611,7 @@ schemes:
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
-          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's
           argument it belongs to
         scheme: SYNTHESIS
         required: false
@@ -1740,7 +1740,7 @@ schemes:
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
-          link --fix` from their `integrates` (ADR-tmpr3rsd). It is how an entry shows which part of its line's
+          link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's
           argument it belongs to
         scheme: SYNTHESIS
         required: false

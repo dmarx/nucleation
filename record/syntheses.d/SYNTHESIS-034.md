@@ -1,5 +1,8 @@
 ---
+number: 34
 status: Proposed
+formerly:
+- SYNTHESIS-tmptiwlg
 title: 'What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training''s order follows the posterior''s order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line''s frustration, concept and persona entries cite'
 version: 1
 defeated_if: >-
@@ -32,7 +35,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: ADR-083 CASE-193 CLAIM-263 CLAIM-367 CLAIM-555 THEORY-200 THEORY-802 THEORY-967 THEORY-1016 THEORY-1353 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
-# SYNTHESIS-tmptiwlg: What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training's order follows the posterior's order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line's frustration, concept and persona entries cite
+# SYNTHESIS-034: What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training's order follows the posterior's order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line's frustration, concept and persona entries cite
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts. Every component is a question; the part holds no claim.*
 
@@ -92,11 +95,11 @@ bears_on:
   "[THEORY-802](../theory.d/THEORY-802.md)'s thesis moved from alignments to dictionaries".
 
 Outside this part, [QUESTION-275](../questions.d/QUESTION-275.md) is the line's most cited question. From the
-frustration part ([SYNTHESIS-tmp4xa7p](SYNTHESIS-tmp4xa7p.md)) it cites [CASE-113](../cases.d/CASE-113.md), [CLAIM-367](../claims.d/CLAIM-367.md) and [CLAIM-366](../claims.d/CLAIM-366.md) as
+frustration part ([SYNTHESIS-026](SYNTHESIS-026.md)) it cites [CASE-113](../cases.d/CASE-113.md), [CLAIM-367](../claims.d/CLAIM-367.md) and [CLAIM-366](../claims.d/CLAIM-366.md) as
 apparatus the record already held, [CLAIM-263](../claims.d/CLAIM-263.md)'s quotient under "What would
 not answer it", and [CLAIM-555](../claims.d/CLAIM-555.md) and [CASE-197](../cases.d/CASE-197.md) in its note of 2026-11-04;
 [CASE-193](../cases.d/CASE-193.md) calls itself a caution for it. [CLAIM-555](../claims.d/CLAIM-555.md) and [CASE-197](../cases.d/CASE-197.md) also cite [QUESTION-363](../questions.d/QUESTION-363.md). In the concepts
-part ([SYNTHESIS-tmp3crnp](SYNTHESIS-tmp3crnp.md)), [QUESTION-360](../questions.d/QUESTION-360.md) proposes [QUESTION-275](../questions.d/QUESTION-275.md)'s setting for tracking
+part ([SYNTHESIS-025](SYNTHESIS-025.md)), [QUESTION-360](../questions.d/QUESTION-360.md) proposes [QUESTION-275](../questions.d/QUESTION-275.md)'s setting for tracking
 its criteria over training. Among the persona entries, [CLAIM-543](../claims.d/CLAIM-543.md) bears
 on [QUESTION-275](../questions.d/QUESTION-275.md) and [QUESTION-370](../questions.d/QUESTION-370.md) lists it under "Bears on".
 
@@ -121,11 +124,11 @@ None. Every component is an open question, and the links among them are
 
 ## Not stated on the record
 
-- **[QUESTION-039](../questions.d/QUESTION-039.md) and the coarse-to-fine questions ([SYNTHESIS-tmpha4sq](SYNTHESIS-tmpha4sq.md)).**
+- **[QUESTION-039](../questions.d/QUESTION-039.md) and the coarse-to-fine questions ([SYNTHESIS-029](SYNTHESIS-029.md)).**
   [QUESTION-217](../questions.d/QUESTION-217.md)'s third relation, acquisition, is [QUESTION-039](../questions.d/QUESTION-039.md)'s subject,
   and both list [THEORY-086](../theory.d/THEORY-086.md) and the deep linear readings. Neither refines
   or names the other.
-- **[QUESTION-081](../questions.d/QUESTION-081.md) and [QUESTION-164](../questions.d/QUESTION-164.md) ([SYNTHESIS-tmpexmgz](SYNTHESIS-tmpexmgz.md)).** Both turn on the law of
+- **[QUESTION-081](../questions.d/QUESTION-081.md) and [QUESTION-164](../questions.d/QUESTION-164.md) ([SYNTHESIS-028](SYNTHESIS-028.md)).** Both turn on the law of
   balance ([THEORY-211](../theory.d/THEORY-211.md), [LIT-1012](../literature.d/LIT-1012.md)). [QUESTION-164](../questions.d/QUESTION-164.md)'s answer would bear on
   [QUESTION-081](../questions.d/QUESTION-081.md)'s "fast drift" branch, and no entry says so.
 - **[QUESTION-274](../questions.d/QUESTION-274.md) and [QUESTION-275](../questions.d/QUESTION-275.md)'s feature arm.** [QUESTION-275](../questions.d/QUESTION-275.md)'s

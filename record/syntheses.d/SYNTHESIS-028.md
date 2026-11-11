@@ -1,5 +1,8 @@
 ---
+number: 28
 status: Proposed
+formerly:
+- SYNTHESIS-tmpexmgz
 title: 'Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record''s steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open'
 version: 1
 defeated_if: >-
@@ -31,7 +34,7 @@ bears_on:
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-2 rule its components were filed under -->
 <!-- inactive-ok-file: ADR-075 ADR-083 CLAIM-187 CLAIM-263 CLAIM-498 CLAIM-499 THEORY-107 THEORY-108 THEORY-109 THEORY-110 THEORY-209 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
-# SYNTHESIS-tmpexmgz: Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open
+# SYNTHESIS-028: Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts.*
 
@@ -106,7 +109,7 @@ bears_on:
 
 ## Not stated on the record
 
-- **[CLAIM-263](../claims.d/CLAIM-263.md) ([SYNTHESIS-tmp4xa7p](SYNTHESIS-tmp4xa7p.md)) and this part.** [CLAIM-263](../claims.d/CLAIM-263.md)'s protocol is assembled
+- **[CLAIM-263](../claims.d/CLAIM-263.md) ([SYNTHESIS-026](SYNTHESIS-026.md)) and this part.** [CLAIM-263](../claims.d/CLAIM-263.md)'s protocol is assembled
   from [THEORY-111](../theory.d/THEORY-111.md), [THEORY-112](../theory.d/THEORY-112.md) and [THEORY-113](../theory.d/THEORY-113.md), whose open conditions are
   [QUESTION-318](../questions.d/QUESTION-318.md), [QUESTION-317](../questions.d/QUESTION-317.md) and [QUESTION-316](../questions.d/QUESTION-316.md), and its body names
   [THEORY-108](../theory.d/THEORY-108.md)'s phase III as "a ready case for the protocol", which is
@@ -114,8 +117,8 @@ bears_on:
   [CLAIM-263](../claims.d/CLAIM-263.md) to any entry of this part. They meet only outside the line,
   through [CLAIM-187](../claims.d/CLAIM-187.md) (pragmatic-transport), which rests on [CLAIM-263](../claims.d/CLAIM-263.md) and
   which [QUESTION-069](../questions.d/QUESTION-069.md) bears on.
-- **[QUESTION-164](../questions.d/QUESTION-164.md) and [QUESTION-081](../questions.d/QUESTION-081.md) ([SYNTHESIS-tmptiwlg](SYNTHESIS-tmptiwlg.md))**: one law of balance, no
-  relation ([SYNTHESIS-tmptiwlg](SYNTHESIS-tmptiwlg.md)).
+- **[QUESTION-164](../questions.d/QUESTION-164.md) and [QUESTION-081](../questions.d/QUESTION-081.md) ([SYNTHESIS-034](SYNTHESIS-034.md))**: one law of balance, no
+  relation ([SYNTHESIS-034](SYNTHESIS-034.md)).
 
 ## What it does not say
 
@@ -124,5 +127,5 @@ bears_on:
 - That averaging weights averages features, or that the aligned barrier
   rises with depth: [CLAIM-498](../claims.d/CLAIM-498.md) and [CLAIM-499](../claims.d/CLAIM-499.md) are Proposed and unmeasured.
 - That a barrier surviving alignment marks a different mechanism; that is
-  [CLAIM-263](../claims.d/CLAIM-263.md)'s step 2, in [SYNTHESIS-tmp4xa7p](SYNTHESIS-tmp4xa7p.md).
+  [CLAIM-263](../claims.d/CLAIM-263.md)'s step 2, in [SYNTHESIS-026](SYNTHESIS-026.md).
 - Anything with standing of its own.

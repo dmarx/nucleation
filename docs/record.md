@@ -111,6 +111,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`THEORY`**
 
+- `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.THEORY.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `source` — required, one or more `LIT` codes (luria.yaml: schemes.THEORY.references.source) — *the work this account comes from. Same test as a practice's: what the explanation could not survive losing.*
 - `extends` — optional, one or more `THEORY` codes when present (luria.yaml: schemes.THEORY.references.extends) — *the earlier account this one builds on — a refinement or a widening of the same mechanism, not a rival one.*
 - `extended_by` — optional, one or more `THEORY` codes when present (luria.yaml: schemes.THEORY.references.extended_by) — *the converse of `extends`, written by `luria link --fix`.*
@@ -145,6 +146,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`QUESTION`**
 
+- `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.QUESTION.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `refines` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.QUESTION.references.refines) — *the broader question this one is a part or a sharpening of*
 - `refined_by` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.QUESTION.references.refined_by) — *the converse of `refines`, written by `luria link --fix`.*
 - `answered_by` — optional, one or more `CLAIM` or `THEORY` codes when present (luria.yaml: schemes.QUESTION.references.answered_by) — *the record's own claims and the literature's accounts that answer it, written by `luria link --fix` from their `answers`. Both, on one page, is what synthesis is*
@@ -156,6 +158,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`CLAIM`**
 
+- `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.CLAIM.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `answers` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.CLAIM.references.answers) — *the question this claim is an answer to*
 - `bears_on` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.CLAIM.references.bears_on) — *a question this claim is evidence for or against, or a premise of, without answering it or a part it settles exactly; `answers` is for an answer, held or offered (ADR-060)*
 - `rests_on` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CLAIM.references.rests_on) — *another of the record's own claims this one could not stand without — the spine of the argument, walked as the `argument` chain. Retired, it leaves this claim needing another route (ADR-032)*
@@ -183,6 +186,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`CASE`**
 
+- `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.CASE.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `supports` — optional, one or more `CLAIM` or `ARG` codes when present (luria.yaml: schemes.CASE.references.supports) — *the claims and arguments grounded in this case, written by `luria link --fix` from their `grounds`.*
 - `illustrates` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CASE.references.illustrates) — *a claim this case makes vivid without bearing its weight. Losing the case costs the claim an example, not a premise; that is what separates this from `grounds`*
 - `counterexample_to` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CASE.references.counterexample_to) — *a claim this case shows false as stated*
@@ -200,6 +204,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`TERM`**
 
+- `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.TERM.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `used_by` — optional, one or more `CLAIM` or `ARG` codes when present (luria.yaml: schemes.TERM.references.used_by) — *the claims and arguments stated in this term, written by `luria link --fix` from their `uses`.*
 - `superseded_by` — optional, one or more `TERM` codes when present (luria.yaml: schemes.TERM.references.superseded_by) — *the term whose definition replaced this one's (ADR-032)*
 - `supersedes` — optional, one or more `TERM` codes when present (luria.yaml: schemes.TERM.references.supersedes) — *the term this one's definition replaced, written by `luria link --fix`*
@@ -213,6 +218,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`ARG`**
 
+- `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.ARG.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `rests_on` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.ARG.references.rests_on) — *the record's own claims the inference starts from. The premises of one argument work together; a claim with two arguments has two independent lines of support*
 - `grounds` — optional, one or more `THEORY` or `CASE` or `LIT` codes when present (luria.yaml: schemes.ARG.references.grounds) — *the readings, cases and works the inference starts from, as on a CLAIM*
 - `concludes` — required, one or more `CLAIM` codes (luria.yaml: schemes.ARG.references.concludes) — *the claim or claims the inference arrives at. One inference may conclude several theses when the same premises bear on each in the same way, so that one verdict is filed once (ADR-061)*
@@ -229,6 +235,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`SYNTHESIS`**
 
+- `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.SYNTHESIS.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `integrates` — required, one or more `CLAIM` or `TERM` or `CASE` or `THEORY` or `QUESTION` or `ARG` or `SYNTHESIS` codes (luria.yaml: schemes.SYNTHESIS.references.integrates) — *every entry the account puts together, its part accounts among them; the current-account view shows each with its own status*
 - `bears_on` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.SYNTHESIS.references.bears_on) — *a question the account's scope answers or leaves open*
 - `supersedes` — optional, one or more `CLAIM` or `SYNTHESIS` codes when present (luria.yaml: schemes.SYNTHESIS.references.supersedes) — *the account this one revised, or a claim that only mapped its components; written by `luria link --fix` from its `superseded_by`*

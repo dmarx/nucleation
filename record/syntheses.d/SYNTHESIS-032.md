@@ -1,5 +1,8 @@
 ---
+number: 32
 status: Proposed
+formerly:
+- SYNTHESIS-tmprhzl8
 title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line''s questions are replications of the readings it rests on'
 version: 2
 history:
@@ -58,7 +61,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CLAIM-632 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
 
-# SYNTHESIS-tmprhzl8: Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on
+# SYNTHESIS-032: Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on
 
 *The account of the transient-support line, "Withdrawing transient
 support", split from readiness ([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)), where it was a part
@@ -183,13 +186,13 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 
 ## Links across to the readiness line, stated
 
-- **To readiness's keeping part ([SYNTHESIS-tmp78y0i](SYNTHESIS-tmp78y0i.md)).** [CLAIM-558](../claims.d/CLAIM-558.md) (Active), complementing [CLAIM-602](../claims.d/CLAIM-602.md)
+- **To readiness's keeping part ([SYNTHESIS-027](SYNTHESIS-027.md)).** [CLAIM-558](../claims.d/CLAIM-558.md) (Active), complementing [CLAIM-602](../claims.d/CLAIM-602.md)
   and corroborating [CLAIM-600](../claims.d/CLAIM-600.md), supplies the disuse term; [CLAIM-602](../claims.d/CLAIM-602.md) bears
   on [QUESTION-386](../questions.d/QUESTION-386.md) ("Funding that rewards disbursing, or that pays for the
   work rather than for the organization doing it, selects substitution");
   [CLAIM-632](../claims.d/CLAIM-632.md) (Proposed) cites [CLAIM-605](../claims.d/CLAIM-605.md) for a reserve that may be
   impossible to rebuild below a threshold.
-- **To readiness's reaching part ([SYNTHESIS-tmp1m0vj](SYNTHESIS-tmp1m0vj.md)).** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md).
+- **To readiness's reaching part ([SYNTHESIS-024](SYNTHESIS-024.md)).** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md).
 
 ## Not stated on the record
 

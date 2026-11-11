@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [10 Nov 23:26 — Synthesis review of 2026-11-10, fifth round: accounts for readiness and learned-structure, each in parts; one claim admitted by derivation from CLAIM-524; readiness split at the owner's decision, learned-structure reported as a stronger candidate; CLAIM-600's own admission case found to meet its defeater](2026-11.md#synthesis-review-of-2026-11-10-fifth-round-accounts-for-readiness-and-learned-structure-each-in-parts-one-claim-admitted-by-derivation-from-claim-524-readiness-split-at-the-owners-decision-learned-structure-reported-as-a-stronger-candidate-claim-600s-own-admission-case-found-to-meet-its-defeater)
 - [10 Nov 21:33 — Synthesis review of 2026-11-10, fourth round: accounts for the three smallest lines that had none, authenticity, evidence-for-experience and organizational-affect, the last as three part accounts under a line account; nothing passed as a claim, and twenty-two component defects found and left for a follow-up](2026-11.md#synthesis-review-of-2026-11-10-fourth-round-accounts-for-the-three-smallest-lines-that-had-none-authenticity-evidence-for-experience-and-organizational-affect-the-last-as-three-part-accounts-under-a-line-account-nothing-passed-as-a-claim-and-twenty-two-component-defects-found-and-left-for-a-follow-up)
 - [10 Nov 18:24 — Filing the works cited in the shared ChatGPT conversation](2026-11.md#filing-the-works-cited-in-the-shared-chatgpt-conversation)
 - [7 Nov 17:07 — Synthesis review of 2026-11-07, third round: twelve candidates audited and none admitted; the nucleating-argument line's integrations are held as claims, a gap for moving claims with objections is recorded, and corrections to the earlier rounds](2026-11.md#synthesis-review-of-2026-11-07-third-round-twelve-candidates-audited-and-none-admitted-the-nucleating-argument-lines-integrations-are-held-as-claims-a-gap-for-moving-claims-with-objections-is-recorded-and-corrections-to-the-earlier-rounds)
@@ -40,10 +41,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-228 entries across 3 books, newest first.
+229 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 31 | 2026-11-01 | 2026-11-10 |
+| [2026-11](2026-11.md) | 32 | 2026-11-01 | 2026-11-10 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

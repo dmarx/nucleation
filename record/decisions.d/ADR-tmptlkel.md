@@ -22,7 +22,7 @@ summary: >-
   moving the part into realizability.
 ---
 <!-- inactive-ok-file: ADR-082 ADR-083 ADR-085 — Proposed; the split rule, the accounts and the line rule this applies -->
-<!-- inactive-ok-file: SYNTHESIS-tmp78y0i SYNTHESIS-tmp1m0vj SYNTHESIS-tmprhzl8 SYNTHESIS-tmpqw6mz — Proposed; the accounts the split rests on and revises -->
+<!-- inactive-ok-file: SYNTHESIS-027 SYNTHESIS-024 SYNTHESIS-032 SYNTHESIS-031 — Proposed; the accounts the split rests on and revises -->
 
 # ADR-tmptlkel: The readiness line is split in two: readiness keeps keeping a rare capability and reaching and paying for configurations under budgets; when transient support can be withdrawn becomes the line transient-support, because that part barely relates to the other two
 
@@ -38,13 +38,13 @@ medicine and windfall readings of 2026-11-05 and 2026-11-06, filed on A's
 intervention that established it.
 
 The synthesis review of 2026-11-10 gave the line its first account,
-[SYNTHESIS-tmpqw6mz](../syntheses.d/SYNTHESIS-tmpqw6mz.md), over three part accounts:
+[SYNTHESIS-031](../syntheses.d/SYNTHESIS-031.md), over three part accounts:
 
-- keeping a rare capability and judging its worth ([SYNTHESIS-tmp78y0i](../syntheses.d/SYNTHESIS-tmp78y0i.md),
+- keeping a rare capability and judging its worth ([SYNTHESIS-027](../syntheses.d/SYNTHESIS-027.md),
   25 entries);
 - reaching and paying for configurations under budgets
-  ([SYNTHESIS-tmp1m0vj](../syntheses.d/SYNTHESIS-tmp1m0vj.md), 24 entries);
-- withdrawing transient support ([SYNTHESIS-tmprhzl8](../syntheses.d/SYNTHESIS-tmprhzl8.md), 30 entries).
+  ([SYNTHESIS-024](../syntheses.d/SYNTHESIS-024.md), 24 entries);
+- withdrawing transient support ([SYNTHESIS-032](../syntheses.d/SYNTHESIS-032.md), 30 entries).
 
 Counting each pair of components linked by a front-matter relation or a
 mention in either's text, there are 163 pairs:
@@ -86,12 +86,12 @@ split ([ADR-083](ADR-083.md)), decided to split it.
   entry whose first line was readiness, so no entry gains
   transient-support.
 - **The accounts follow the split.**
-  - [SYNTHESIS-tmprhzl8](../syntheses.d/SYNTHESIS-tmprhzl8.md) becomes transient-support's account (version 2).
-  - [SYNTHESIS-tmpqw6mz](../syntheses.d/SYNTHESIS-tmpqw6mz.md), readiness's account, is revised over the two
+  - [SYNTHESIS-032](../syntheses.d/SYNTHESIS-032.md) becomes transient-support's account (version 2).
+  - [SYNTHESIS-031](../syntheses.d/SYNTHESIS-031.md), readiness's account, is revised over the two
     remaining parts and integrates [CLAIM-602](../claims.d/CLAIM-602.md) directly (version 2). Its
     version 1 counts are kept in its body as the record of why the line
     was split.
-  - [SYNTHESIS-tmp78y0i](../syntheses.d/SYNTHESIS-tmp78y0i.md) and [SYNTHESIS-tmp1m0vj](../syntheses.d/SYNTHESIS-tmp1m0vj.md) name the new line where they
+  - [SYNTHESIS-027](../syntheses.d/SYNTHESIS-027.md) and [SYNTHESIS-024](../syntheses.d/SYNTHESIS-024.md) name the new line where they
     linked to the third part (version 2).
 - **Retired entries stay where they are.** [SYNTHESIS-009](../syntheses.d/SYNTHESIS-009.md) and [SYNTHESIS-010](../syntheses.d/SYNTHESIS-010.md)
   are Superseded and keep readiness, as their history.

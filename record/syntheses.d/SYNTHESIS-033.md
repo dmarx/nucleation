@@ -1,5 +1,8 @@
 ---
+number: 33
 status: Proposed
+formerly:
+- SYNTHESIS-tmprtogt
 title: 'What classification training leaves in a network''s last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own'
 version: 1
 defeated_if: >-
@@ -26,7 +29,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: ADR-083 THEORY-286 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
-# SYNTHESIS-tmprtogt: What classification training leaves in a network's last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own
+# SYNTHESIS-033: What classification training leaves in a network's last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts. Every component is a question.*
 
@@ -52,7 +55,7 @@ bears_on:
   parameters keep moving, and whether collapse does; its summary says
   "Nothing in the record relates them".
 
-Outside this part, [QUESTION-164](../questions.d/QUESTION-164.md) ([SYNTHESIS-tmpexmgz](SYNTHESIS-tmpexmgz.md)) says it bears on [QUESTION-080](../questions.d/QUESTION-080.md),
+Outside this part, [QUESTION-164](../questions.d/QUESTION-164.md) ([SYNTHESIS-028](SYNTHESIS-028.md)) says it bears on [QUESTION-080](../questions.d/QUESTION-080.md),
 "since motion along a symmetry changes no function". No other relation or
 mention joins this part to the line. [QUESTION-051](../questions.d/QUESTION-051.md)'s summary says it bears
 on [QUESTION-010](../questions.d/QUESTION-010.md) (pragmatic-transport) and [CLAIM-164](../claims.d/CLAIM-164.md) (distributed-agency).

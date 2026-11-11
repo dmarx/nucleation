@@ -1,5 +1,8 @@
 ---
+number: 24
 status: Proposed
+formerly:
+- SYNTHESIS-tmp1m0vj
 title: 'Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period''s spending loses every transition that needs slack with no sign in output'
 version: 2
 history:
@@ -50,7 +53,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CASE-198 CASE-200 CASE-201 CASE-205 CASE-209 CASE-210 CASE-211 CASE-215 TERM-107 TERM-110 TERM-112 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmp1m0vj: Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period's spending loses every transition that needs slack with no sign in output
+# SYNTHESIS-024: Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period's spending loses every transition that needs slack with no sign in output
 
 *A part account of the readiness line: the part filed from the pasted
 synthesis on constraint architectures (2026-11-04) and the assistant's
@@ -192,7 +195,7 @@ support, became the line transient-support at the split of readiness
   record's case of a deadline-constrained extrication"; [TERM-106](../terms.d/TERM-106.md) sets
   itself apart from [TERM-110](../terms.d/TERM-110.md)'s revision rule and from [TERM-112](../terms.d/TERM-112.md), and calls
   its operational reserve one input to readiness ([TERM-115](../terms.d/TERM-115.md)).
-- **To transient-support ([SYNTHESIS-tmprhzl8](SYNTHESIS-tmprhzl8.md)).** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md), reading a savings
+- **To transient-support ([SYNTHESIS-032](SYNTHESIS-032.md)).** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md), reading a savings
   buffer as a replenishable reserve whose depth sets a deadline.
 
 ## Not stated on the record

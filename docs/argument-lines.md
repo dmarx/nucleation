@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-34 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+35 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -74,6 +74,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-387](../record/claims.d/CLAIM-387.md) — Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other *(Active)*
   - [CLAIM-392](../record/claims.d/CLAIM-392.md) — Stochastic information-bottleneck optima at two budgets need not be nested: for X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the unique optima at β = 8 and β = 12 admit no Markov chain X → T₂ → T₁, so raising the budget reorganizes the optimum even with noisy encoders *(Active)*
+
+### From Whether functionally equivalent realizations are connected depends on which paths are admissible: for f = u₁v₁ + u₂v₂ with nonnegative weights, (1, 1, 0, 0) and (0, 0, 1, 1) are joined by a curve along which f stays 1 though the straight line between them falls to ½, and under any resource budget below √2 times the endpoints' cost no path with f = 1 joins them
+
+- [CLAIM-524](../record/claims.d/CLAIM-524.md) — Whether functionally equivalent realizations are connected depends on which paths are admissible: for f = u₁v₁ + u₂v₂ with nonnegative weights, (1, 1, 0, 0) and (0, 0, 1, 1) are joined by a curve along which f stays 1 though the straight line between them falls to ½, and under any resource budget below √2 times the endpoints' cost no path with f = 1 joins them *(Active)*
+  - [CLAIM-633](../record/claims.d/CLAIM-633.md) — In the two-path construction where a resource budget below √2 disconnects two zero-loss realizations, the two lie on one orbit of the symmetry that swaps the network's two paths, and for every budget from 1 to below √2 the budgeted zero-loss set is two path-connected pieces that the swap exchanges, so once that symmetry is quotiented the budgeted set is connected: the construction shows connectedness relative to the admitted paths in parameter space, not between solutions counted up to the architecture's symmetries *(Proposed)*
 
 ## pragmatic-transport
 
