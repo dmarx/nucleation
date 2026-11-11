@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp48v4a
 title: 'A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    A working name left by the drafts, naming the sibling account by its
+    file, is replaced by the account's code. Found at the synthesis
+    review of the formal-apparatus line.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the conservation inquiry of the pragmatic-transport line left out
@@ -37,7 +44,7 @@ information transport"): the inquiry into which observables reconstruction
 kernels conserve, begun by the owner's appeal to Noether at U37. The line's
 account is built over it and the accounts of the line's other parts. The
 mechanical map put these five entries in one part with seventeen on
-reconstruction chains, drift bounds and attraction (chains-account); they
+reconstruction chains, drift bounds and attraction (SYNTHESIS-067); they
 share 9 pairs among themselves and 2 with those seventeen, so each group
 has its own account. All four claims here also carry formal-apparatus.
 [CLAIM-635](../claims.d/CLAIM-635.md) is the claim filed at this review (Arm B).*
