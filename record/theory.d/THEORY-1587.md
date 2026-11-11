@@ -1,24 +1,31 @@
 ---
 number: 1587
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp9511r
-promote_when: >-
-  A reading of the review in full finds that it argues what the title
-  states: that in rodents parental trauma, stress and drugs pass
-  behavioural phenotypes to offspring through the germline, with
-  non-coding RNA in sperm the best-described carrier; that how effects
-  pass beyond the first generation is "not clear"; and that germline
-  dependence "is not established in humans". Whether the rodent effects
-  replicate, or occur in humans, is not asked.
-title: 'Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with sperm RNA the best-supported carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans'
-version: 1
+title: 'Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with non-coding RNA in sperm the best-described candidate carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans'
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1296 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1296,
+    nothing in the record contradicting it. Narrowed first. The old
+    title read "Jawaid and Mansuy argue that in rodents parental trauma,
+    stress and drugs pass behavioural phenotypes to offspring through
+    the germline, with sperm RNA the best-supported carrier, while
+    granting that how effects pass beyond the first generation is
+    unclear and that germline dependence is not established in humans".
+    The review calls non-coding RNAs "the best described candidates
+    today" (p. 99), not the best-supported carrier, so the title now
+    says that. The dropped wording was a mis-statement, so it goes to no
+    new entry (ADR-047's routing, kind 3).
 tags:
 - natural-sciences
 - psychopathology-and-treatment
@@ -35,7 +42,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1587: Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with sperm RNA the best-supported carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans
+# THEORY-1587: Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with non-coding RNA in sperm the best-described candidate carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans
 
 ## The account
 

@@ -1,23 +1,24 @@
 ---
 number: 1596
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpefw5s
-promote_when: >-
-  A reading of the paper in full finds what the title reports: the
-  Överkalix associations between a paternal grandparent's mid-childhood
-  food supply and grandchildren's mortality, sex-specific as stated; the
-  argument from the sensitive period that cultural or genetic inheritance
-  alone is unlikely; and the authors' grant that replication is needed.
-  Replication itself, and the mechanism, are not asked.
 title: 'Pembrey, Saffery and Bygren report that in the Överkalix cohorts a paternal grandparent''s mid-childhood food supply was associated, sex-specifically, with grandchildren''s mortality, and argue from the exposure''s sensitive period that cultural or genetic inheritance alone is unlikely to explain it, while granting that replication is needed'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1320 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1320,
+    nothing in the record contradicting it. The NOTE reads the 2014
+    paper this entry cites, not the 2006 paper it stands in for, and the
+    title attributes what is said to the 2014 authors.
 tags:
 - natural-sciences
 - philosophy-of-biology

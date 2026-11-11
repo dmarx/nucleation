@@ -1,23 +1,32 @@
 ---
 number: 1627
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxfzge
-promote_when: >-
-  A reading of the paper in full finds what the title reports: in its
-  path model of 422 adult children of survivors, internment linked to the
-  children's reported impacts only through the parents' victim style; the
-  post-war family milieu explaining more than wartime history; and broken
-  generational linkages having the largest total effect. Replication, a
-  comparison group, and whether the links are causal are not asked.
-title: 'Danieli, Norris and Engdahl report that, among 422 adult children of Holocaust survivors, parents'' wartime internment was linked to the children''s reported impacts only through the parents'' post-war victim style, that the post-war family milieu weighed more than wartime history, and that rarely counting the murdered grandparents as one''s own had the largest total effect'
-version: 1
+title: 'Danieli, Norris and Engdahl report that, among 422 adult children of Holocaust survivors, parents'' wartime internment was linked to the children''s reported impacts only through the parents'' post-war victim style, that the post-war family milieu weighed more than wartime history, and that broken generational linkages, among them rarely counting the murdered grandparents as one''s own, had the largest total effect'
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1307 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1307,
+    nothing in the record contradicting it. Narrowed first. The old
+    title read "Danieli, Norris and Engdahl report that, among 422 adult
+    children of Holocaust survivors, parents' wartime internment was
+    linked to the children's reported impacts only through the parents'
+    post-war victim style, that the post-war family milieu weighed more
+    than wartime history, and that rarely counting the murdered
+    grandparents as one's own had the largest total effect". The effect
+    of .21 belongs to a two-item scale of broken generational linkages,
+    of which that item is one, so the title now names the scale. The
+    dropped wording was a mis-statement, so it goes to no new entry
+    (ADR-047's routing, kind 3).
 tags:
 - psychopathology-and-treatment
 - social-identity
@@ -35,7 +44,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1627: Danieli, Norris and Engdahl report that, among 422 adult children of Holocaust survivors, parents' wartime internment was linked to the children's reported impacts only through the parents' post-war victim style, that the post-war family milieu weighed more than wartime history, and that rarely counting the murdered grandparents as one's own had the largest total effect
+# THEORY-1627: Danieli, Norris and Engdahl report that, among 422 adult children of Holocaust survivors, parents' wartime internment was linked to the children's reported impacts only through the parents' post-war victim style, that the post-war family milieu weighed more than wartime history, and that broken generational linkages, among them rarely counting the murdered grandparents as one's own, had the largest total effect
 
 ## The account
 

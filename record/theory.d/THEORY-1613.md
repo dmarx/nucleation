@@ -1,24 +1,24 @@
 ---
 number: 1613
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmprq4z6
-promote_when: >-
-  A reading of the essay in full finds that it argues and reports what
-  the title states: that flashbulb memories give members of a community
-  who learned of an event at a distance the standing of witnesses in
-  Alexander's trauma process, and that a study it reports found most
-  children young at 9/11 knew a parent's flashbulb memory, knowing it
-  better the more strongly they identified as American. Whether that
-  study replicates, or which way the association runs, is not asked.
 title: 'Hirst, Cyr and Merck argue that flashbulb memories make members of a community who learned of an event at a distance into witnesses who can carry its trauma process, and report a study in which most children knew a parent''s flashbulb memory of 9/11 and knew it better the more strongly they identified as American'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1305 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1305,
+    nothing in the record contradicting it. The children's study it
+    reports is Meyler et al., which the essay reports at second hand;
+    the title says only that the essay reports it.
 tags:
 - social-identity
 - social-science

@@ -1,25 +1,23 @@
 ---
 number: 1606
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpkibvp
-promote_when: >-
-  A reading of the first chapter in full finds that it argues what the
-  title states: that cultural trauma is a group's loss of identity and
-  meaning, distinct from individual psychological trauma; that slavery
-  became the cultural trauma of African Americans in retrospect, for a
-  generation after emancipation; and that membership in the traumatized
-  collective was set by shared fate, not by experience or descent. The
-  historical evidence of chapters 2–6, and whether the account is true,
-  are not asked.
 title: 'Eyerman argues, in his book''s first chapter, that cultural trauma is a loss of identity and meaning in a group rather than an individual wound, and that slavery became the cultural trauma of African Americans in retrospect, for a generation after emancipation, by shared fate rather than by experience or descent'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1246 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1246,
+    nothing in the record contradicting it. The title is limited to the
+    first chapter, which the NOTE reads in full.
 tags:
 - social-identity
 - social-science

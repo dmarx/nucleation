@@ -1,24 +1,32 @@
 ---
 number: 1612
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpqpejd
-promote_when: >-
-  A reading of the review in full finds what the title reports: two
-  parent–child studies and three of stress in pregnancy; FKBP5 intron 7
-  methylation reported higher in Holocaust survivors and lower in their
-  offspring; and the evidence that trauma-related methylation changes
-  pass from parent to child called accumulating but preliminary.
-  Replication of the studies it reviews, and whether such changes pass,
-  are not asked.
-title: 'Youssef and colleagues review two small parent–child studies and three of stress in pregnancy, report that Holocaust survivors had higher FKBP5 methylation and their offspring lower, and call the evidence that trauma-related methylation changes pass from parent to child accumulating but preliminary'
-version: 1
+title: 'Youssef and colleagues review two small parent–child studies and three of stress in pregnancy, report that Holocaust survivors had higher FKBP5 methylation and their offspring lower, and read the studies as accumulating evidence that trauma-related methylation changes pass from parent to child, while naming small samples, cross-sectional designs and unmeasured confounds as weaknesses'
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1310 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1310,
+    nothing in the record contradicting it. Narrowed first. The old
+    title read "Youssef and colleagues review two small parent–child
+    studies and three of stress in pregnancy, report that Holocaust
+    survivors had higher FKBP5 methylation and their offspring lower,
+    and call the evidence that trauma-related methylation changes pass
+    from parent to child accumulating but preliminary". The NOTE's body
+    quotes "accumulating evidence" and the weaknesses the authors name,
+    but not "preliminary", and it finds the conclusion warmer than those
+    weaknesses; the title now says only what the NOTE shows. The dropped
+    word was a mis-statement, so it goes to no new entry (ADR-047's
+    routing, kind 3).
 tags:
 - psychopathology-and-treatment
 - natural-sciences
@@ -36,7 +44,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1612: Youssef and colleagues review two small parent–child studies and three of stress in pregnancy, report that Holocaust survivors had higher FKBP5 methylation and their offspring lower, and call the evidence that trauma-related methylation changes pass from parent to child accumulating but preliminary
+# THEORY-1612: Youssef and colleagues review two small parent–child studies and three of stress in pregnancy, report that Holocaust survivors had higher FKBP5 methylation and their offspring lower, and read the studies as accumulating evidence that trauma-related methylation changes pass from parent to child, while naming small samples, cross-sectional designs and unmeasured confounds as weaknesses
 
 ## The account
 

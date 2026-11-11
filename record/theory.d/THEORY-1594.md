@@ -1,24 +1,23 @@
 ---
 number: 1594
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpdfele
-promote_when: >-
-  A reading of the paper in full finds what the title reports: a
-  mortality hazard of about 1.11 after 45 for sons born after the war to
-  fathers held as prisoners when exchanges had stopped, against
-  non-prisoners' sons; no effect on daughters; and an epigenetic route
-  favoured by eliminating other channels, with no biological measurement.
-  Replication, and whether the route is in fact epigenetic, are not
-  asked.
 title: 'Costa, Yetter and DeSomer report that sons born after the Civil War to Union soldiers held as prisoners when exchanges had stopped had about 1.11 times the older-age mortality hazard of non-prisoners'' sons, with no effect on daughters, and favour an epigenetic route by elimination without measuring one'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1255 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1255,
+    nothing in the record contradicting it. The SI Appendix was not
+    seen; every clause of the title is in the main text.
 tags:
 - natural-sciences
 - social-science

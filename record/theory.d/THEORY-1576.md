@@ -1,24 +1,22 @@
 ---
 number: 1576
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6sfo0
-promote_when: >-
-  A reading of the review in full finds that it argues what the title
-  states: that an effect is transgenerational only in a generation never
-  exposed to the trigger (F3 after an exposed pregnant female, F2 after an
-  exposed male); that two rounds of reprogramming in mammals leave little
-  chance for inheritance of epigenetic marks; and that such inheritance is
-  well documented in plants and nematodes and rare in mammals. Whether
-  mammalian transgenerational inheritance in fact occurs is not asked.
 title: 'Heard and Martienssen argue that an effect is transgenerational only in a generation never exposed to the trigger, and that two rounds of epigenetic reprogramming in mammals leave little chance for such inheritance, which is well documented in plants and nematodes and rare in mammals'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1254 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1254,
+    nothing in the record contradicting it.
 tags:
 - natural-sciences
 date: '2026-11-11'

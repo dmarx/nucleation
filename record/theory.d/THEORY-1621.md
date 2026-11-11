@@ -1,23 +1,24 @@
 ---
 number: 1621
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpuq37u
-promote_when: >-
-  A reading of the thesis in full finds what the title reports: in its
-  registry sample, child survivors who lost both parents differed from
-  matched women on dissociation, life satisfaction and diurnal cortisol,
-  and their daughters did not differ from comparison daughters on any
-  psychological, health or cortisol measure. Replication, and the
-  meta-analyses the thesis restates at second hand, are not asked.
 title: 'Fridman reports that, in a registry sample, women who survived the Holocaust as young children and lost both parents showed more dissociation, less life satisfaction and higher cortisol than matched women six decades later, while their daughters did not differ on any psychological, health or cortisol measure'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-1291 (read 2026-10-29), at the read-and-file pass of
     2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1291,
+    nothing in the record contradicting it. The title covers the
+    thesis's own sample only, not the meta-analyses it restates at
+    second hand.
 tags:
 - psychopathology-and-treatment
 - natural-sciences
