@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3bdbx
 title: 'In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -14,6 +14,17 @@ history:
     through the first line of an entry it names:
     nucleating-argument, since it bears on QUESTION-109. No other
     change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-323, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question asks whether anchor-consistent
+    knowledge is measurably more accessible after the comparison, and
+    names this claim as the entry that "asserts it". The claim's own
+    words: the shift "is carried by anchor-consistent knowledge made
+    more accessible", and "the accessibility step is inferred and has
+    not been measured". It already carries the question's first line,
+    pragmatic-transport (ADR-085). No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -41,6 +52,7 @@ summary: >-
   missed direct priming. [CLAIM-298](CLAIM-298.md) now rests on it.
 bears_on:
 - QUESTION-109
+- QUESTION-323
 ---
 
 # CLAIM-315: In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured

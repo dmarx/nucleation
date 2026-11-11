@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp64mn6
 title: "In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -22,6 +22,15 @@ history:
     THEORY-791 as a Proposed THEORY that extends this one, to carry
     what the narrowing dropped: the general claim about the world's
     languages. This entry's status and title are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-214, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question was this entry's promote_when
+    until 2026-10-20 and asks of its fit, "with the need distribution
+    over meanings estimated from the naming data", whether it survives
+    a need distribution measured independently. The reading is its
+    premise. No other change.
 tags:
 - linguistics
 - information-theory
@@ -39,6 +48,8 @@ summary: >-
   what IB optima look like. It does not show that languages are driven to
   the bound by any process, and the need distribution that makes the fit
   best is estimated from the naming data themselves.
+bears_on:
+- QUESTION-214
 ---
 <!-- inactive-ok-file: THEORY-791 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 

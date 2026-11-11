@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkpfpe
 title: "In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -25,6 +25,14 @@ history:
     The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-806,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-195, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question is asked of this reading's bound
+    ("THEORY-270 now states the upper bound"): whether it survives
+    outside the uniform, one-to-one models. The reading is its
+    premise; THEORY-806 already offers an answer. No other change.
 tags:
 - translation
 - learning-theory
@@ -39,6 +47,8 @@ summary: >-
   O(log|Θ| / (α·min(m,|T|))) is tight up to a constant. Information-
   theoretic only. The prior substitutes for parallel data in learning the
   decoder, not for information in a message.
+bears_on:
+- QUESTION-195
 ---
 <!-- inactive-ok-file: THEORY-806 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-170 CLAIM-054 — Proposed; theories and claim this account bears on, open -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpylzh6
 title: 'Beuschlein and colleagues, for the European Society of Endocrinology and the Endocrine Society, hold that exogenous glucocorticoids at anti-inflammatory doses invariably suppress the HPA axis by negative feedback and that prolonged use leads to pituitary hyporesponsiveness and adrenal atrophy; that after withdrawal the axis recovers first centrally and then adrenally, over months to years and incompletely in a minority; that courses under 3–4 weeks can be stopped without taper, while longer ones are tapered, once the disease is controlled, quickly at high doses and slowly near the physiologic dose, with replacement kept low enough to leave a stimulus for recovery; and that no study has compared taper schemes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,18 @@ history:
     Alternatively, a completed randomized trial such as TOASST reports
     on abrupt against gradual withdrawal from near-physiologic doses,
     which would settle or revise the fourth point.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-431, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question asks whether a persisting
+    fraction of adrenal suppression after stopping is reproduced, and
+    whether a comparative trial shows any withdrawal scheme effective
+    or safe. This guideline holds that after withdrawal the axis
+    recovers "over months to years and incompletely in a minority",
+    resting on Broersen et al. and three later cohorts, and "that no
+    study has compared taper schemes". It settles neither part. No
+    other change.
 tags:
 - natural-sciences
 date: '2026-11-05'
@@ -39,6 +51,8 @@ summary: >-
   evidence. It gives no quantitative relation between exposure and time
   to recovery. Its Table 6 lists Broersen et al.'s asthma dose and
   duration strata as figures for inhaled glucocorticoids.
+bears_on:
+- QUESTION-431
 ---
 <!-- inactive-ok-file: THEORY-1549 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 

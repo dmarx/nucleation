@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3wo5j
 title: 'A communicative kind''s identity is grounded in its relational organization, for which competent participants'' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,19 @@ history:
     CLAIM-220. This entry is the integrative statement of those theses,
     which carry their own defeat conditions. Title, defeater, status and
     warrant are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-050, at the reading review of 2026-11-11 (by
+    question; ADR-091). The question asks whether a communicative
+    act's identity splits into a factor internal to the interpreter
+    and a relational factor, and which one a translation must
+    preserve. This claim states both, in different roles: identity "is
+    grounded in its relational organization", and "what persists is
+    what the receivers can still recover". The question's note of
+    2026-10-12 leaves to the owner whether it answers; bears_on
+    asserts no answer. Its line, pragmatic-transport, is the
+    question's (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,6 +90,8 @@ summary: >-
   is always met or undecidable) with an observable comparison on
   transfer. It supersedes [CLAIM-139](CLAIM-139.md), by the owner's delegated ruling of
   2026-10-29. A proposal, not a finding.
+bears_on:
+- QUESTION-050
 ---
 <!-- ref::uses-file: TERM-040 — the claim's subject, named in its title: a communicative kind in this term's sense -->
 <!-- ref::uses-file: TERM-043 — listed by the claim's author and not named in the body; whether the fidelity clause is stated in this sense was raised for the owner when the branch was reconciled with main on 2026-10-12 -->
