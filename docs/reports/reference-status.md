@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**918 documents cited without acknowledgement.** Not listed: 23648 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**918 documents cited without acknowledgement.** Not listed: 23656 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-1138 citations in 825 files await a look; 50 other citations of it are acknowledged.
+1142 citations in 829 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-165.md:50`](../../record/cases.d/CASE-165.md)
 - [`record/cases.d/CASE-206.md:26`](../../record/cases.d/CASE-206.md)
@@ -539,13 +539,17 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-1558.md:24`](../../record/theory.d/THEORY-1558.md)
 - [`record/theory.d/THEORY-1559.md:23`](../../record/theory.d/THEORY-1559.md)
 - [`record/theory.d/THEORY-156.md:23`](../../record/theory.d/THEORY-156.md)
+- [`record/theory.d/THEORY-1563.md:20`](../../record/theory.d/THEORY-1563.md)
 - [`record/theory.d/THEORY-158.md:14`](../../record/theory.d/THEORY-158.md)
 - [`record/theory.d/THEORY-158.md:16`](../../record/theory.d/THEORY-158.md)
 - [`record/theory.d/THEORY-158.md:122`](../../record/theory.d/THEORY-158.md)
+- [`record/theory.d/THEORY-1587.md:28`](../../record/theory.d/THEORY-1587.md)
 - [`record/theory.d/THEORY-160.md:14`](../../record/theory.d/THEORY-160.md)
 - [`record/theory.d/THEORY-160.md:16`](../../record/theory.d/THEORY-160.md)
 - [`record/theory.d/THEORY-160.md:111`](../../record/theory.d/THEORY-160.md)
 - [`record/theory.d/THEORY-161.md:13`](../../record/theory.d/THEORY-161.md)
+- [`record/theory.d/THEORY-1612.md:28`](../../record/theory.d/THEORY-1612.md)
+- [`record/theory.d/THEORY-1627.md:29`](../../record/theory.d/THEORY-1627.md)
 - [`record/theory.d/THEORY-163.md:13`](../../record/theory.d/THEORY-163.md)
 - [`record/theory.d/THEORY-163.md:21`](../../record/theory.d/THEORY-163.md)
 - [`record/theory.d/THEORY-163.md:113`](../../record/theory.d/THEORY-163.md)
@@ -1621,7 +1625,7 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 
 Readings no line uses are reviewed in a protocol of their own, by line, by topic or by question, and each is tied to an entry that should use it, raised as a question or claim, held with a reason, or flagged
 
-74 citations in 74 files await a look; 1 other citation of it is acknowledged.
+75 citations in 75 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-202.md:13`](../../record/cases.d/CASE-202.md)
 - [`record/cases.d/CASE-206.md:40`](../../record/cases.d/CASE-206.md)
@@ -1670,6 +1674,7 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 - [`record/theory.d/THEORY-1516.md:31`](../../record/theory.d/THEORY-1516.md)
 - [`record/theory.d/THEORY-158.md:29`](../../record/theory.d/THEORY-158.md)
 - [`record/theory.d/THEORY-160.md:27`](../../record/theory.d/THEORY-160.md)
+- [`record/theory.d/THEORY-1602.md:24`](../../record/theory.d/THEORY-1602.md)
 - [`record/theory.d/THEORY-163.md:29`](../../record/theory.d/THEORY-163.md)
 - [`record/theory.d/THEORY-169.md:26`](../../record/theory.d/THEORY-169.md)
 - [`record/theory.d/THEORY-172.md:39`](../../record/theory.d/THEORY-172.md)
@@ -2873,7 +2878,7 @@ Learned local accommodation can reduce the amortized cost of recurrent arbitrati
 
 No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
-19 citations in 16 files await a look; 129 other citations of it are acknowledged.
+19 citations in 16 files await a look; 131 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1683.md:54`](../../record/literature.d/LIT-1683.md)
 - [`record/literature.d/LIT-1686.md:13`](../../record/literature.d/LIT-1686.md)
@@ -6433,7 +6438,7 @@ Theory of Value: An Axiomatic Analysis of Economic Equilibrium
 
 Remembrance of Brains Past
 
-5 citations in 3 files await a look; 3 other citations of it are acknowledged.
+5 citations in 3 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1732.md:63`](../../record/literature.d/LIT-1732.md)
 - [`record/literature.d/LIT-1776.md:7`](../../record/literature.d/LIT-1776.md)
@@ -6445,7 +6450,7 @@ Remembrance of Brains Past
 
 The Concept and Psychological Consequences of Symbolic Immortality
 
-5 citations in 3 files await a look; 3 other citations of it are acknowledged.
+5 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1689.md:7`](../../record/literature.d/LIT-1689.md)
 - [`record/literature.d/LIT-1689.md:49`](../../record/literature.d/LIT-1689.md)
@@ -10761,7 +10766,7 @@ A fanbase is a mixture of spectators who relate to the club in different ways, a
 
 When a fanbase is set against an outside party such as its club's owner, its more extreme members become more prototypical of it, so a vocal minority can fix the fanbase's public stance through a group process and not only through biased sampling of who speaks
 
-1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-1114.md:30`](../../record/theory.d/THEORY-1114.md)
 

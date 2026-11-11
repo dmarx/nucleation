@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [November 2026](2026-11.md)
 
+- [11 Nov 16:54 — Status review of the 74 readings filed 2026-11-11: 73 promoted, 7 narrowed, 3 ties removed](2026-11.md#status-review-of-the-74-readings-filed-2026-11-11-73-promoted-7-narrowed-3-ties-removed)
 - [7 Nov 01:51 — The exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07, U1–U24): from the record's core synthesis, through synchronization as a laboratory, timescale separation and slaving, metastability and absorbing states, viable-history sheaves, software products and contested succession, to meaning, "anti-vax", will and disposition; what each run of turns found, and what was filed](2026-11.md#the-exchange-individuation-possibility-and-disposition-2026-11-06-to-07-u1u24-from-the-records-core-synthesis-through-synchronization-as-a-laboratory-timescale-separation-and-slaving-metastability-and-absorbing-states-viable-history-sheaves-software-products-and-contested-succession-to-meaning-anti-vax-will-and-disposition-what-each-run-of-turns-found-and-what-was-filed)
 - [6 Nov 08:00 — The thirtieth status review: fourteen skimmed sources read further, twelve NOTEs to Read and thirteen entries promoted](2026-11.md#the-thirtieth-status-review-fourteen-skimmed-sources-read-further-twelve-notes-to-read-and-thirteen-entries-promoted)
 - [6 Nov 06:33 — The twenty-ninth status review: the skimmed sources behind held readings read further, twenty NOTEs to Read and twenty-two entries promoted](2026-11.md#the-twenty-ninth-status-review-the-skimmed-sources-behind-held-readings-read-further-twenty-notes-to-read-and-twenty-two-entries-promoted)
@@ -18,9 +19,9 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-130 entries across 2 books, newest first.
+131 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 9 | 2026-11-03 | 2026-11-07 |
+| [2026-11](2026-11.md) | 10 | 2026-11-03 | 2026-11-11 |
 | [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |
