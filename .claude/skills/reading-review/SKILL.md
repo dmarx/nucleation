@@ -119,6 +119,21 @@ Some cases recur, settled by the first by-question run:
 - **Proposed readings** may be tied when their own text, or the
   question's, says they bear; a `bears_on` from a reading does not depend
   on its credence.
+- **Premise or test.** A claim the question takes as given, or whose case
+  it builds on, is its premise and bears on it. A claim whose own thesis
+  the question would confirm or refute is what it tests, and takes no
+  relation. Where the question's text names a claim as answering part of
+  it and the claim's text sets the question aside, the question's text
+  states the relation.
+- **Ties from claims and cases.** In the by-question mode most ties run
+  from claims and cases, not readings; the same rules apply, and ADR-085's
+  line rule adds the question's first line to the entry.
+- **A reading that keeps the condition and asserts it.** A Proposed reading
+  that keeps a moved condition word for word and asserts what the question
+  asks offers an answer: `answers`, not `bears_on` (ADR-060).
+- **Evidence read into notes only.** Where the works that bear on a
+  question were read into NOTEs and no reading (THEORY) holds them, flag
+  the question for `read-and-file`; nothing can be tied.
 - **A run split across readers** writes one curation entry, by whoever
   combines the parts.
 
