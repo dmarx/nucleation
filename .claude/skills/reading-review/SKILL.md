@@ -137,6 +137,52 @@ Some cases recur, settled by the first by-question run:
 - **A run split across readers** writes one curation entry, by whoever
   combines the parts.
 
+The first by-topic run (2026-11-11) settled more:
+
+- **Named in the text is the commonest tie.** Most readings the view
+  counted unused were already named as evidence in a question's or
+  claim's body or dated notes, with no relation written. Search the
+  record for the reading's code, its NOTE and its LIT first.
+- **Supporting cases and instances corroborate.** A claim that lists a
+  reading among its "supporting cases", or cites it as an instance,
+  parallel or precedent it does not need, takes it as `corroborates`
+  (ADR-058). A claim that disclaims it as evidence ("not evidence about
+  …") takes nothing. A precedent from another domain corroborates only a
+  claim whose scope reaches that domain.
+- **Instruments and cautions are premises.** A question that names a
+  reading as an instrument, a measure or a caution for its own test design
+  takes it as `bears_on`: the reading is a premise of the test (ADR-060).
+  So does a reading that qualifies the answer of an Answered question
+  without answering it alone.
+- **One verdict per reading.** A reading tied to several entries is one
+  tie in the count; the table lists every relation.
+- **Used by an entry that cannot carry the relation.** A case reaches a
+  reading only by `reported_in`, a term and a synthesis by none. Where the
+  only entry using a reading is a case (as a check or design constraint),
+  a term (for a definition) or a synthesis, hold it with that reason; the
+  curation entry lists these as used in fact, not unused. Never misuse
+  `reported_in` for it. If several such readings jointly state a result no
+  claim holds, that may be a raise.
+- **A claim that grounds on the work.** Where a claim grounds on a LIT and
+  the work's reading is now in force, tie the reading as `corroborates` if
+  the claim does its own work with the result, or as `grounds` if the
+  claim uses the result as an unproved premise. Moving or dropping the LIT
+  edge is a defect sweep's, so flag it.
+- **Mechanics.** `luria relate` writes one side only: converses (`bearing`,
+  `corroborated_by`, `supports`) are derived and never written by hand. It
+  neither bumps the version nor writes history; do both on the entry that
+  carries the relation.
+
+## Splitting a run
+
+Split by topic, one reader per part, each in its own worktree. Before a
+reader files a raise, it checks a shared file in the coordinator's
+scratchpad for the parts' raises so far and adds its own; two parts can
+reach the same question from readings in different topics. The coordinator
+merges any duplicate left, keeps the first code, and points the other
+part's readings at it. Two parts that change the same entry each bump it;
+the combiner keeps both changes as successive versions.
+
 Watch for the free relation: a reading "relevant to" a claim is not
 evidence for it. Tie only where the claim's or question's own words meet
 what the reading holds.

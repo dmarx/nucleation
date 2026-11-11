@@ -203,6 +203,11 @@ not a finding.
   claim needs is `grounds`. When a work cited before it was read turns
   out to carry less, move it from `grounds` to `corroborates` and file
   the ARG that says why.
+- **A note that names a reading as evidence writes the relation.** When a
+  dated note on a question or claim cites a reading as evidence for or on
+  it, write `bears_on` or `corroborates` from the reading in the same
+  change. The by-topic reading review of 2026-11-11 found most readings
+  the view counted unused named in such notes with no relation.
 - **`rivals`** is only for accounts that cannot both be right. Accounts
   that differ on which mechanism mattered most get a dated note instead.
 - **A QUESTION** needs a `line:`.
