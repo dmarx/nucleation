@@ -97,7 +97,7 @@ of the stimulus, or a response style common to raters drawn from one
 population. No entry in claims, questions, cases or terms mentions method
 variance.
 
-It complements CLAIM-233: that objection says the baseline is one no rival
+It complements [CLAIM-233](CLAIM-233.md): that objection says the baseline is one no rival
 holds, and this one says the comparison with it is confounded as well.
 
 ## What it does not say

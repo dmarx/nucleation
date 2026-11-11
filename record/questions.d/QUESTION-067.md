@@ -71,7 +71,7 @@ summary: >-
 
 ## The question
 
-[CLAIM-009](../claims.d/CLAIM-009.md) supposes that pragmatic judgements may be formally contextual. [CLAIM-037](../claims.d/CLAIM-037.md) reads that as a failure of global extension over a cover of measurement contexts. That is the Kochen–Specker and sheaf notion. There is a second notion. Spekkens's generalized noncontextuality also constrains preparations. Operationally equivalent preparations must get the same representation. What a failure of each notion refutes, and that the generalized one is broader, is QUESTION-246, Answered. The question here is when a pragmatic test's probe families make renderings operationally equivalent, so that the generalized notion applies and the test is not only of the sheaf or Kochen–Specker kind.
+[CLAIM-009](../claims.d/CLAIM-009.md) supposes that pragmatic judgements may be formally contextual. [CLAIM-037](../claims.d/CLAIM-037.md) reads that as a failure of global extension over a cover of measurement contexts. That is the Kochen–Specker and sheaf notion. There is a second notion. Spekkens's generalized noncontextuality also constrains preparations. Operationally equivalent preparations must get the same representation. What a failure of each notion refutes, and that the generalized one is broader, is [QUESTION-246](QUESTION-246.md), Answered. The question here is when a pragmatic test's probe families make renderings operationally equivalent, so that the generalized notion applies and the test is not only of the sheaf or Kochen–Specker kind.
 
 ## Why the record needs it
 

@@ -136,7 +136,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*As SYNTHESIS-003, moved from this claim, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*As [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md), moved from this claim, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

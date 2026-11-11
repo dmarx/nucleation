@@ -77,9 +77,9 @@ stays [THEORY-219](../theory.d/THEORY-219.md)'s question. Its answer is the one 
 and the question is now Answered. Whether that answer completes an account
 of the self is [CLAIM-284](../claims.d/CLAIM-284.md)'s question, which stays open.
 
-## Note of 2026-11-11: CLAIM-284 is Active
+## Note of 2026-11-11: [CLAIM-284](../claims.d/CLAIM-284.md) is Active
 
-The history note of version 2 says CLAIM-284, which also answers this
+The history note of version 2 says [CLAIM-284](../claims.d/CLAIM-284.md), which also answers this
 question, stays Proposed. The thirteenth status review promoted it the
 same day, 2026-10-29 (its version 6), so it is Active. Whether it
 completes an account of the self, which the note of 2026-10-29 above

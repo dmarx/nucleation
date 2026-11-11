@@ -165,7 +165,7 @@ class competent uptake fixes, because uptake partly constitutes the act.
   population, and which population is [QUESTION-075](../questions.d/QUESTION-075.md)'s.
 - It does not say relations constitute the kind wholesale ([CLAIM-150](CLAIM-150.md)).
   [CLAIM-151](CLAIM-151.md) says "partly", and this entry inherits the qualifier.
-- It does not reach the ontological clause CLAIM-204 keeps from CLAIM-139. A kind that outruns
+- It does not reach the ontological clause [CLAIM-204](CLAIM-204.md) keeps from [CLAIM-139](CLAIM-139.md). A kind that outruns
   even competent uptake is not excluded by argument here; it is simply not
   what any test needs.
 

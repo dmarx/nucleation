@@ -173,9 +173,9 @@ any of them meets it.
 
 ## Note of 2026-11-11: its premises now
 
-The note of 2026-10-13 above says this claim keeps CLAIM-142 as a premise,
+The note of 2026-10-13 above says this claim keeps [CLAIM-142](CLAIM-142.md) as a premise,
 for carrying the result to communicative realizations. Version 4
-(2026-10-29) replaced CLAIM-142 in `rests_on` with CLAIM-264, since the
-claim uses only the relativity of observational equivalence, and CLAIM-142
-is now a complement. The premises are CLAIM-264 and CLAIM-269, as the note
+(2026-10-29) replaced [CLAIM-142](CLAIM-142.md) in `rests_on` with [CLAIM-264](CLAIM-264.md), since the
+claim uses only the relativity of observational equivalence, and [CLAIM-142](CLAIM-142.md)
+is now a complement. The premises are [CLAIM-264](CLAIM-264.md) and [CLAIM-269](CLAIM-269.md), as the note
 of 2026-10-29 says.

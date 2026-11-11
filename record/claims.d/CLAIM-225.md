@@ -135,9 +135,9 @@ not defeat [CLAIM-050](CLAIM-050.md). But Blackwell's theorem forbids a garbling
 better on any single task. So a garbling that real receivers do better
 with, on even one task, shows that their standard is not Blackwell's order
 for that task. [CLAIM-081](CLAIM-081.md)'s legibility is not a task in the manuscript's
-family Q, and it supports the point only. When this was filed the record held CLAIM-087 and
-CLAIM-050 both as Proposed and did not connect them. CLAIM-050 is now Active,
-and CLAIM-087 rests on this claim since 2026-10-27.
+family Q, and it supports the point only. When this was filed the record held [CLAIM-087](CLAIM-087.md) and
+[CLAIM-050](CLAIM-050.md) both as Proposed and did not connect them. [CLAIM-050](CLAIM-050.md) is now Active,
+and [CLAIM-087](CLAIM-087.md) rests on this claim since 2026-10-27.
 
 **The nearest acknowledgement is for networks.** [THEORY-176](../theory.d/THEORY-176.md)'s relation 2:
 "The rules the stitched network can use are A_{>ℓ} ∘ s with s ∈ S, not

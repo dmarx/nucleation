@@ -94,7 +94,7 @@ modes persist through turnover and individuate an organization, is
 without establishing the second."
 
 The candidate predecessors, as A15 described them (registered unread when
-this was filed; all four are read since, LIT-1146 in NOTE-1135 and the
+this was filed; all four are read since, [LIT-1146](../literature.d/LIT-1146.md) in [NOTE-1135](../notes.d/NOTE-1135.md) and the
 others in the note of 2026-10-29):
 
 - **Reflected appraisal** (Jia, MirTabatabaei, Friedkin and Bullo, [LIT-1146](../literature.d/LIT-1146.md)): opinions

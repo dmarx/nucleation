@@ -73,13 +73,13 @@ grounds:
 - LIT-804
 - LIT-807
 summary: >-
-  The record's, on the trope analysis CLAIM-147 states; no one raised it
+  The record's, on the trope analysis [CLAIM-147](CLAIM-147.md) states; no one raised it
   in the exchange. A155 presents TV Tropes as "the clearest large-scale
   empirical setting" for the structuralist side of the theory and
   names neither Propp nor Lévi-Strauss, whom the record reads as the
   direct precursors. Since 2026-10-28 the claim is that prior-art half,
   which is close to granted; the circularity half, that the catalogue's
-  labels cannot validate CLAIM-147, is ARG-014, Rejected.
+  labels cannot validate [CLAIM-147](CLAIM-147.md), is [ARG-014](../arguments.d/ARG-014.md), Rejected.
 ---
 <!-- inactive-ok-file: CLAIM-147 — Proposed; the account this claim says is not new, open -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited in the circularity half kept as moved text, for the warning its promote_when carries -->
@@ -119,7 +119,7 @@ nothing.
 
 ## Partly answered
 
-This section concerns the circularity half, now ARG-014's. The exchange saw
+This section concerns the circularity half, now [ARG-014](../arguments.d/ARG-014.md)'s. The exchange saw
 it. A155 §5 asks for "a small,
 independently validated set of tropes" and evaluation "on held-out trope
 families". A178's Study B: "Control for circularity by selecting trope
@@ -136,7 +136,7 @@ anywhere in the exchange.
 - It does not say a structural account of tropes is false.
 - It says the manuscript would have to cite Propp and Lévi-Strauss as
   precursors. That labels written to fit their examples cannot be the
-  test, QUESTION-005 applied to one corpus, is ARG-014's since 2026-10-28.
+  test, [QUESTION-005](../questions.d/QUESTION-005.md) applied to one corpus, is [ARG-014](../arguments.d/ARG-014.md)'s since 2026-10-28.
 
 ## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 

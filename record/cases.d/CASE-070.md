@@ -120,8 +120,8 @@ cannot keep a T-consistent and a V-consistent continuation apart at all.
 
 **The partly met condition: competent uptake of these outputs.** [CLAIM-142](../claims.d/CLAIM-142.md)'s
 rule of evidence asks for "independently justified probes evaluated on
-held-out cases", and competent uptake is the standard CLAIM-217 offers for
-its realist half (CLAIM-142's note of 2026-10-29). The held-out probe is met in full. Uptake is met only at one
+held-out cases", and competent uptake is the standard [CLAIM-217](../claims.d/CLAIM-217.md) offers for
+its realist half ([CLAIM-142](../claims.d/CLAIM-142.md)'s note of 2026-10-29). The held-out probe is met in full. Uptake is met only at one
 remove. The human study shows that the distinction the baseline misses is
 one native annotators treat as making a translation wrong, but it was run
 on the baseline's outputs only. No reader compared the outputs of the

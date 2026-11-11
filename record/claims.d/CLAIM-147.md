@@ -58,8 +58,8 @@ summary: >-
   whether relational measures track communicative identity where
   surface similarity fails. A178 made it Study B; A191 §8 gave it five
   manipulations. The record holds that the analysis is Propp's and
-  Lévi-Strauss's (CLAIM-145), and that the catalogue cannot validate it
-  (ARG-014, Rejected).
+  Lévi-Strauss's ([CLAIM-145](CLAIM-145.md)), and that the catalogue cannot validate it
+  ([ARG-014](../arguments.d/ARG-014.md), Rejected).
 bears_on:
 - QUESTION-002
 ---
@@ -114,12 +114,12 @@ separate question.
   simplest experiment would train a classifier ... But that would miss much
   of what makes this case attractive."
 - It does not say the analysis is new in kind. Propp's functions
-  (THEORY-1164: "differ in who performs the functions and how") and
+  ([THEORY-1164](../theory.d/THEORY-1164.md): "differ in who performs the functions and how") and
   Lévi-Strauss's transformations ([CLAIM-019](CLAIM-019.md)) are the same move on
   folktales and myths. A155 names neither.
 - It does not say the catalogue's labels can validate it. A trope's
   description is written to fit its examples, so agreement with the labels
-  is editorial agreement (ARG-014, QUESTION-005). A155 §5's own
+  is editorial agreement ([ARG-014](../arguments.d/ARG-014.md), [QUESTION-005](../questions.d/QUESTION-005.md)). A155 §5's own
   remedy, "a small, independently validated set of tropes" and evaluation
   "on held-out trope families", would meet that objection if it were
   carried out.

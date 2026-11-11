@@ -93,7 +93,7 @@ criterion, and they measure different things:
 
 - **Temporal information retention.** Krakauer et al.'s A* = I(S_{t+1}; S_t),
   A = I(S_{t+1}; S_t | E_t) and nC = I(S_{t+1}; E_t | S_t) ([LIT-1137](../literature.d/LIT-1137.md),
-  unread when this was filed; read since, NOTE-1400). A11 §5: the two principal measures do not decrease when the
+  unread when this was filed; read since, [NOTE-1400](../notes.d/NOTE-1400.md)). A11 §5: the two principal measures do not decrease when the
   candidate is enlarged, and the paper "explicitly states that
   determining precise boundaries requires a size cost or regularizer". A11
   proposed lag-dependent versions, A(Δ) = I(S_{t+Δ}; S_t | E_t), as its own

@@ -82,11 +82,11 @@ predictive behavior of those structures under actual ... reconstruction."
 Manuscript §10, Case I: "A meaningful success is incremental prediction of
 held-out human communicative-fidelity judgments." The compositional half (chains
 behaving as [CLAIM-056](CLAIM-056.md) and [CLAIM-059](CLAIM-059.md) predict) and the statement of what remains to be
-shown are not in it. It was the success condition the central thesis (CLAIM-115)
-needed, alongside its defeat condition. CLAIM-115 was superseded on
-2026-10-29 by CLAIM-220, on which this claim now rests. CLAIM-220's rival
+shown are not in it. It was the success condition the central thesis ([CLAIM-115](CLAIM-115.md))
+needed, alongside its defeat condition. [CLAIM-115](CLAIM-115.md) was superseded on
+2026-10-29 by [CLAIM-220](CLAIM-220.md), on which this claim now rests. [CLAIM-220](CLAIM-220.md)'s rival
 is a proposition with its force, stronger than text similarity, so meeting
-this criterion does not meet CLAIM-220's.
+this criterion does not meet [CLAIM-220](CLAIM-220.md)'s.
 
 On 2026-10-10 the criterion came back in the exchange with a new target. A203
 §37 (U56) restated it as recognition of "the same communicative kind": "**Do

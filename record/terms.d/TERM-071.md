@@ -115,7 +115,7 @@ A, at A37 §4 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-11: the archived rule is also reinstatement
 
 Sense 3 says [CASE-116](../cases.d/CASE-116.md)'s rule passed through an archive has historical
-persistence "without the others". CASE-116 also reads that arm as
+persistence "without the others". [CASE-116](../cases.d/CASE-116.md) also reads that arm as
 [CLAIM-287](../claims.d/CLAIM-287.md)'s dormant coalition, "the capacity to reinstate an organization
 rather than its continuous running", which is sense 5. So the arm has
 senses 3 and 5 without senses 1 and 2: the two entries do not disagree

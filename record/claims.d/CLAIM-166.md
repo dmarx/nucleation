@@ -50,8 +50,8 @@ summary: >-
   Considering myself as a multi-level agent, part of my composition is my
   microbiome ... that lower level collective is capable of influencing my
   higher level behavior and even phenomenological experience." The time
-  claim, the first part, is now CLAIM-316, split off on 2026-10-15
-  (ADR-043). The microbiome claim is grounded in two
+  claim, the first part, is now [CLAIM-316](CLAIM-316.md), split off on 2026-10-15
+  ([ADR-043](../decisions.d/ADR-043.md)). The microbiome claim is grounded in two
   reviews read the same day. The routes exist, and the effects are
   causal in rodents. The human evidence is modest: associations, small
   effects on subjective stress, and nulls.

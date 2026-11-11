@@ -115,7 +115,7 @@ true.
   case, and makes no judgement on the programme.
 - **Not a term.** "Hyperstition" turns up here for the first time, and no
   TERM is filed for it. The second-time rule this bullet first cited now
-  governs only ADRs and DPs (ADR-072); an idea gets a code when it has
+  governs only ADRs and DPs ([ADR-072](../decisions.d/ADR-072.md)); an idea gets a code when it has
   content of its own and is not already held.
 
 ## Note of 2026-10-29: Land and Soros read, and Franklin's arranged plurality

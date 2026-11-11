@@ -119,7 +119,7 @@ a strong result would show: "the model distinguishes shared subject matter
 from shared communicative identity". A214 §8 builds the laboratory on it.
 A218 makes it hypothesis H3: "Topic-preserving transformations will
 sometimes reduce pragmatic or causal fidelity". It is a factorization-side
-form of what CLAIM-220, which superseded CLAIM-115, says survives
+form of what [CLAIM-220](CLAIM-220.md), which superseded [CLAIM-115](CLAIM-115.md), says survives
 translation: task-relevant distinctions the receivers can still recover,
 not wording or proposition.
 

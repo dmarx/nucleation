@@ -121,5 +121,5 @@ A's [CLAIM-559](CLAIM-559.md) (Proposed) carries this claim to two stages: as th
 
 A57 reads this claim rightly: "the **distinctions needed for adequate action depend on which acceptable policy is chosen**". A58 §3 adds that the theorem "doesn't justify those sets, and whoever controls that standard can influence which distinctions the organization is required to recognize". That is this claim's "That the acceptable sets are the right ones" joined to [TERM-064](../terms.d/TERM-064.md)'s caution on the loss and [CLAIM-404](CLAIM-404.md)'s evaluative route. A58 §8's route of changing what the organization can do is [CLAIM-572](CLAIM-572.md)'s hedge, and it is open only where a hedge exists ([ARG-060](../arguments.d/ARG-060.md)). Two consequences are filed: for comparing perspectives, [CLAIM-622](CLAIM-622.md); for the synthesis of meaning, perspective and will, layer 6 of [CLAIM-620](CLAIM-620.md), version 2. The claim is unchanged.
 
-**Note (2026-11-11).** The note of 2026-11-04 above calls CLAIM-559
+**Note (2026-11-11).** The note of 2026-11-04 above calls [CLAIM-559](CLAIM-559.md)
 Proposed; it has been Active since the status review of 2026-11-06.

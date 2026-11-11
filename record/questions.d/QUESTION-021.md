@@ -50,8 +50,8 @@ wrong kind of invariant") and refined the question into [QUESTION-001](QUESTION-
 The manuscript answers for the second position without saying so: communicative
 identity is characterized "rather than a privileged global semantic object"
 (Abstract), and "Neither a high-level latent coordinate nor a fixed hierarchy of
-levels is assumed primitive" (§2). Its answer is CLAIM-115, which CLAIM-220 superseded on 2026-10-29.
-CLAIM-220 bears on this question and is Proposed, so the question stays Open. What would settle it is an argument, or a result,
+levels is assumed primitive" (§2). Its answer is [CLAIM-115](../claims.d/CLAIM-115.md), which [CLAIM-220](../claims.d/CLAIM-220.md) superseded on 2026-10-29.
+[CLAIM-220](../claims.d/CLAIM-220.md) bears on this question and is Proposed, so the question stays Open. What would settle it is an argument, or a result,
 that the first position predicts worse: a latent act variable that adds nothing
 once the relational observables are measured.
 

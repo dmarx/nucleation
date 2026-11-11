@@ -146,11 +146,11 @@ conditions and of [CLAIM-028](CLAIM-028.md) and [CASE-029](../cases.d/CASE-029.m
   thesis given a claim of prevalence or magnitude that a study could defeat,
   and each impossibility condition replaced by an observable one.
 
-## Note of 2026-11-11: CLAIM-105 as it now reads
+## Note of 2026-11-11: [CLAIM-105](CLAIM-105.md) as it now reads
 
-The list above quotes CLAIM-105's version 1: its title's "may preserve
-local meanings" and its condition's "always carries". CLAIM-105 was
-restated on 2026-10-10 after this objection and CLAIM-219, and retitled on
+The list above quotes [CLAIM-105](CLAIM-105.md)'s version 1: its title's "may preserve
+local meanings" and its condition's "always carries". [CLAIM-105](CLAIM-105.md) was
+restated on 2026-10-10 after this objection and [CLAIM-219](CLAIM-219.md), and retitled on
 2026-10-19. Its title now reads "In documented reconstruction chains,
 steps that keep most local judgements commonly change their global
 compatibility", and its defeat condition is a prevalence test over

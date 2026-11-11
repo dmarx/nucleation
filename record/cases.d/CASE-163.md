@@ -146,7 +146,7 @@ a team is stopped, a cost proxy and not a safety bound.
   this is a counterfactual sandbox, not sequential probing of an
   organization that carries its state.
 - Global identifiability: the ranks are local.
-- Grade three of ARG-025 (the grading CLAIM-427 set out). No rival was given the same knowledge of the
+- Grade three of [ARG-025](../arguments.d/ARG-025.md) (the grading [CLAIM-427](../claims.d/CLAIM-427.md) set out). No rival was given the same knowledge of the
   generator, so this bears on [CLAIM-278](../claims.d/CLAIM-278.md) only as a design to beat.
 
 ## Provenance

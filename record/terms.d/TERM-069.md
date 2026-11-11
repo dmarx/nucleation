@@ -78,7 +78,7 @@ Special cases the record already holds:
   observationally equivalent, under every probe of its own law, to an
   autonomous AR(1), while one receives 0.120 nats per step from the rest of
   its system and the other nothing ([CLAIM-397](../claims.d/CLAIM-397.md)'s note of 2026-10-21, and
-  CLAIM-389's note of the same date).
+  [CLAIM-389](../claims.d/CLAIM-389.md)'s note of the same date).
 
 ## What it is not
 

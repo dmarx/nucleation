@@ -98,9 +98,9 @@ translation.
 ## Note of 2026-11-11: what the record now holds
 
 "What was lost" describes the record as it stood when this claim was
-filed. Krifka is read since (LIT-835, "Krifka, read" above). On 2026-10-30
-the record read Nida's "Principles of Correspondence" (LIT-1864,
-NOTE-1451) and Nord's "Translating as a purposeful activity" (LIT-1863,
-NOTE-1448), and skimmed Gutt's 1989 thesis of the same title as his book
-(LIT-1845, NOTE-1435). The thesis is a different work: *Translation and
-Relevance* itself (LIT-784) is still Unavailable and unread.
+filed. Krifka is read since ([LIT-835](../literature.d/LIT-835.md), "Krifka, read" above). On 2026-10-30
+the record read Nida's "Principles of Correspondence" ([LIT-1864](../literature.d/LIT-1864.md),
+[NOTE-1451](../notes.d/NOTE-1451.md)) and Nord's "Translating as a purposeful activity" ([LIT-1863](../literature.d/LIT-1863.md),
+[NOTE-1448](../notes.d/NOTE-1448.md)), and skimmed Gutt's 1989 thesis of the same title as his book
+([LIT-1845](../literature.d/LIT-1845.md), [NOTE-1435](../notes.d/NOTE-1435.md)). The thesis is a different work: *Translation and
+Relevance* itself ([LIT-784](../literature.d/LIT-784.md)) is still Unavailable and unread.

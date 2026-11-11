@@ -180,11 +180,11 @@ bringing a distribution back. Whether that remainder leaves this question
 Open, or makes it Answered with that part split off, is left to the
 status review. The status is unchanged.
 
-## Note of 2026-11-11: CLAIM-497 bears on this question
+## Note of 2026-11-11: [CLAIM-497](../claims.d/CLAIM-497.md) bears on this question
 
 The note of 2026-10-30 above and its history entry call [CLAIM-497](../claims.d/CLAIM-497.md) the
-record's own answer. CLAIM-497's version 2, the same day, moved this
+record's own answer. [CLAIM-497](../claims.d/CLAIM-497.md)'s version 2, the same day, moved this
 question from its `answers` to `bears_on` ([ADR-060](../decisions.d/ADR-060.md)): whether real systems
 have a stable proportionate level, the question's empirical half, is
-CLAIM-497's own defeater, not something it settles. So it bears on the
+[CLAIM-497](../claims.d/CLAIM-497.md)'s own defeater, not something it settles. So it bears on the
 question and does not answer it. The question is Open.

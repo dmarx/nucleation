@@ -211,12 +211,12 @@ The case's quasi-potential for a maintained organization's persistence applies t
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §2's maintenance law, ċ = ε(2.2c²/(1 + c²) − c), is Construction 1 on its symmetric diagonal, 3c²/(1 + c²) − (1 + d)c, with gain 2.2 for 3/(1 + d) (d ≈ 0.364). Its unstable level 0.642 plays the part of the saddle at 0.382, and positive equilibria exist iff the gain is at least twice the decay, the same fold as d = 0.5 here. [CASE-227](CASE-227.md) couples it to the Haken–Kelso–Bunz relative phase. No change.
 
-## Note of 2026-11-11: how it illustrates CLAIM-456
+## Note of 2026-11-11: how it illustrates [CLAIM-456](../claims.d/CLAIM-456.md)
 
 The case illustrates [CLAIM-456](../claims.d/CLAIM-456.md) through its knockouts. In Construction 2,
 "Removing any single production pathway sends all three to zero": a
 self-produced organization is lost to an interruption of the work that
-produces it, which is CLAIM-456's "the self-produced rule can be lost to
+produces it, which is [CLAIM-456](../claims.d/CLAIM-456.md)'s "the self-produced rule can be lost to
 a double loss or an interruption of the work that produces it". The case
 has no outside reset beside it, so it illustrates only that dependence,
-not CLAIM-456's comparison with outside reset, which rests on [CASE-161](CASE-161.md).
+not [CLAIM-456](../claims.d/CLAIM-456.md)'s comparison with outside reset, which rests on [CASE-161](CASE-161.md).

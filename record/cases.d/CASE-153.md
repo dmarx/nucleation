@@ -123,8 +123,8 @@ phase diagram), within the model.
 
 ## What it cannot show
 
-That anxiety or any institution instantiates the mechanism (ARG-025's grades of evidence, from
-CLAIM-427).
+That anxiety or any institution instantiates the mechanism ([ARG-025](../arguments.d/ARG-025.md)'s grades of evidence, from
+[CLAIM-427](../claims.d/CLAIM-427.md)).
 And if a Bayesian learner with matched information costs, or a habit model
 with matched memory, reproduces every intervention response, the extra
 authority state has not earned its place. That outcome is to be reported,

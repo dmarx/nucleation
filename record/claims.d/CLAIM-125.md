@@ -260,9 +260,9 @@ here leaves its two parts open, and nothing in the record settles either.
 ## Note of 2026-11-11: how much signalling, as version 2 says
 
 The note of 2026-10-10, "displaced without argument", says the record
-found signalling "typical of language data (NOTE-654)". That is version
+found signalling "typical of language data ([NOTE-654](../notes.d/NOTE-654.md))". That is version
 1's reading, which version 2 withdrew the same day: the counts suggest
 that signalling is common in those corpus data, and they are weak evidence
-(CLAIM-235). The case that an extension to signalling data is not optional
-rests on the reading of LIT-264 and on CLAIM-127's routes, as "How much
+([CLAIM-235](CLAIM-235.md)). The case that an extension to signalling data is not optional
+rests on the reading of [LIT-264](../literature.d/LIT-264.md) and on [CLAIM-127](CLAIM-127.md)'s routes, as "How much
 signalling language data carry" says.

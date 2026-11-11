@@ -69,7 +69,7 @@ summary: >-
 
 ## The question
 
-[CLAIM-119](../claims.d/CLAIM-119.md) holds that communicative categories form a concept lattice and are told apart by "a few social-relational constraints". To say that affectionate teasing is not sarcastic condemnation, the lattice needs a negation. Non-Boolean lattices of propositions offer three: an orthocomplement, a pseudo-complement under which excluded middle fails, or a product of Boolean sectors. Which one a presheaf over contexts gives is QUESTION-247, Answered: the Heyting pseudo-complement its base category fixes (THEORY-516, THEORY-037). What is left here is over which base category the communicative object is a presheaf, and whether some probe family splits it into sectors that no probe connects, which would make the lattice a product of Boolean sectors.
+[CLAIM-119](../claims.d/CLAIM-119.md) holds that communicative categories form a concept lattice and are told apart by "a few social-relational constraints". To say that affectionate teasing is not sarcastic condemnation, the lattice needs a negation. Non-Boolean lattices of propositions offer three: an orthocomplement, a pseudo-complement under which excluded middle fails, or a product of Boolean sectors. Which one a presheaf over contexts gives is [QUESTION-247](QUESTION-247.md), Answered: the Heyting pseudo-complement its base category fixes ([THEORY-516](../theory.d/THEORY-516.md), [THEORY-037](../theory.d/THEORY-037.md)). What is left here is over which base category the communicative object is a presheaf, and whether some probe family splits it into sectors that no probe connects, which would make the lattice a product of Boolean sectors.
 
 ## Why the record needs it
 

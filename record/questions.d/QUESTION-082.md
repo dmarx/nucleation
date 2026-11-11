@@ -65,4 +65,4 @@ rationale, or neither, and whether outcomes that follow conclusions are less
 consistent across linked issues than outcomes reached by deliberation. The
 record holds none of that literature yet. Gilens and Page (2014) and Achen
 and Bartels' *Democracy for Realists* are candidates, and can be filed here
-without checking the anthology first (ADR-048).
+without checking the anthology first ([ADR-048](../decisions.d/ADR-048.md)).

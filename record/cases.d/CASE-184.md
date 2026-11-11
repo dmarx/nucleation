@@ -100,12 +100,12 @@ those.
 
 ## Note of 2026-11-11: two of the four superseded
 
-On 2026-10-29 CLAIM-115 was superseded by CLAIM-220 and CLAIM-139 by
-CLAIM-204. Their successors state their conditions on CASE-055, the
-repair named above, not on this test. CLAIM-220's condition has named receivers' choices of act and
+On 2026-10-29 [CLAIM-115](../claims.d/CLAIM-115.md) was superseded by [CLAIM-220](../claims.d/CLAIM-220.md) and [CLAIM-139](../claims.d/CLAIM-139.md) by
+[CLAIM-204](../claims.d/CLAIM-204.md). Their successors state their conditions on [CASE-055](CASE-055.md), the
+repair named above, not on this test. [CLAIM-220](../claims.d/CLAIM-220.md)'s condition has named receivers' choices of act and
 continuation as the criterion and human-rated propositional sameness, or
-proposition with illocutionary type, as the rival. CLAIM-204's adds a
+proposition with illocutionary type, as the rival. [CLAIM-204](../claims.d/CLAIM-204.md)'s adds a
 supervised text model and human-rated propositional sameness to the
 rivals, and measures the relational profiles on probes independent of the
 verdicts. Of the four conditions quoted above,
-those of CLAIM-005 and CLAIM-078 still state this test.
+those of [CLAIM-005](../claims.d/CLAIM-005.md) and [CLAIM-078](../claims.d/CLAIM-078.md) still state this test.

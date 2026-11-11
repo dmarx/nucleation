@@ -184,8 +184,8 @@ cost.
 [CLAIM-288](CLAIM-288.md) said, until its version 3, that a simulation whose operators
 maximize modeller-fixed objectives "cannot show self-constitution,
 because the norms the organization appears to maintain are then the
-modeller's". That verdict on the sufficiency tests is now ARG-015's, which
-CLAIM-288 undercuts; CLAIM-288 itself now says the norms are set by the
+modeller's". That verdict on the sufficiency tests is now [ARG-015](../arguments.d/ARG-015.md)'s, which
+[CLAIM-288](CLAIM-288.md) undercuts; [CLAIM-288](CLAIM-288.md) itself now says the norms are set by the
 modeller and not produced or revised by the organization. A30 §8 applied
 it to training without citing it: "the task loss is generally chosen by an
 experimenter". This claim grants [CLAIM-288](CLAIM-288.md) for self-constitution, which is
@@ -225,5 +225,5 @@ that line reopens is the owner's decision, not made here.
   does not physically threaten the network's continued existence". It is a
   disturbance relative to the training organization's maintained
   objective, not to its viability.
-- It does not answer [CLAIM-288](CLAIM-288.md)'s undercutting of ARG-015, the argument to
+- It does not answer [CLAIM-288](CLAIM-288.md)'s undercutting of [ARG-015](../arguments.d/ARG-015.md), the argument to
   the constitutive thesis of [CLAIM-284](CLAIM-284.md). It denies only that the objection reaches goal realization.

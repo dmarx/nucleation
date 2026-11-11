@@ -173,8 +173,8 @@ Read on 2026-10-24: Juhász ([NOTE-1122](../notes.d/NOTE-1122.md)); Bjørnskov, 
 ## What it does not say
 
 - That a state is a person with clinical anxiety. The claim is that both
-  may realize one abstract causal organization (ARG-025's evidence
-  grades, from CLAIM-427, apply).
+  may realize one abstract causal organization ([ARG-025](../arguments.d/ARG-025.md)'s evidence
+  grades, from [CLAIM-427](CLAIM-427.md), apply).
 - That positive feedback or path dependence is pathological. The last
   clause of the title carries the weight: what fails is governance over
   the protective regime itself, the capacity to discover that protection is

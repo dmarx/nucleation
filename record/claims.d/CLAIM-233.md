@@ -116,7 +116,7 @@ testable account of which communicative distinctions a translation
 preserves". It names Gutt ([LIT-784](../literature.d/LIT-784.md), unread), and it records that the
 translation-studies works the exchange recommended (Nida, House, Reiss and
 Vermeer, Nord) are absent from the manuscript, and were then absent from the
-record. Nida and Nord were read on 2026-10-30 (LIT-1864, LIT-1863). Nida's principle, in his own words ([LIT-1864](../literature.d/LIT-1864.md), p. 129; [CASE-056](../cases.d/CASE-056.md) is its example), is that "the
+record. Nida and Nord were read on 2026-10-30 ([LIT-1864](../literature.d/LIT-1864.md), [LIT-1863](../literature.d/LIT-1863.md)). Nida's principle, in his own words ([LIT-1864](../literature.d/LIT-1864.md), p. 129; [CASE-056](../cases.d/CASE-056.md) is its example), is that "the
 relationship between receptor and message should be substantially the same as
 that which existed between the original receptors and the message". That puts
 fidelity in the effect on the receiver, not in the text, so Nida's

@@ -67,9 +67,9 @@ question is left to the owner.
 
 ## Note of 2026-11-11: the receiver-side answer superseded
 
-CLAIM-115, quoted above as the answer internal to the interpreter, was
-superseded on 2026-10-29 by CLAIM-220. CLAIM-220 keeps that answer, now
+[CLAIM-115](../claims.d/CLAIM-115.md), quoted above as the answer internal to the interpreter, was
+superseded on 2026-10-29 by [CLAIM-220](../claims.d/CLAIM-220.md). [CLAIM-220](../claims.d/CLAIM-220.md) keeps that answer, now
 "the set of task-relevant communicative distinctions those receivers can
 still recover", for a named population of receivers and a stated family of
-tasks. So the contrast this question draws with CLAIM-151 holds with
-CLAIM-220 in CLAIM-115's place.
+tasks. So the contrast this question draws with [CLAIM-151](../claims.d/CLAIM-151.md) holds with
+[CLAIM-220](../claims.d/CLAIM-220.md) in [CLAIM-115](../claims.d/CLAIM-115.md)'s place.

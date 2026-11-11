@@ -209,12 +209,12 @@ are about the subject matter, and undercuts that argument. Its objection
 to [CLAIM-105](CLAIM-105.md) stays, because the second horn says the headline is "not
 distinctive".
 
-## Note of 2026-11-11: CLAIM-105 as it now reads
+## Note of 2026-11-11: [CLAIM-105](CLAIM-105.md) as it now reads
 
-"The objection" quotes CLAIM-105's version 1: A78's "Translation may
+"The objection" quotes [CLAIM-105](CLAIM-105.md)'s version 1: A78's "Translation may
 preserve local meanings while changing the global structure of meaning",
 then its title, and its condition that local preservation "always carries"
-global preservation. CLAIM-105 was restated on 2026-10-10 after this
+global preservation. [CLAIM-105](CLAIM-105.md) was restated on 2026-10-10 after this
 objection and CLAIM-219, and retitled on 2026-10-19. Its title now reads
 "In documented reconstruction chains, steps that keep most local
 judgements commonly change their global compatibility", and its defeat

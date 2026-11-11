@@ -122,8 +122,8 @@ functionalist would also pass.
 ## What it does not say
 
 - It does not say Nida, House, Reiss and Vermeer, Nord or Gutt are wrong.
-  Nida and Nord were read on 2026-10-30 (LIT-1864, LIT-1863) and Gutt's 1989
-  thesis skimmed (LIT-1845); his book is held unread (CLAIM-023), and House
+  Nida and Nord were read on 2026-10-30 ([LIT-1864](../literature.d/LIT-1864.md), [LIT-1863](../literature.d/LIT-1863.md)) and Gutt's 1989
+  thesis skimmed ([LIT-1845](../literature.d/LIT-1845.md)); his book is held unread ([CLAIM-023](CLAIM-023.md)), and House
   and Reiss and Vermeer are not read here. It says only what result would show the
   line adds nothing to them, on the reading of them given above, which is the
   record's and not theirs.

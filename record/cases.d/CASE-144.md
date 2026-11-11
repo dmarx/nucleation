@@ -75,7 +75,7 @@ can be revised.
 Held-out performance across the shift; concentration of interpretation
 and of authority; survival and recovery of the minority specialist;
 hysteresis after a temporary perturbation; whether the evaluator's
-failure is recognized; and, against ARG-025's third grade (from CLAIM-427), the
+failure is recognized; and, against [ARG-025](../arguments.d/ARG-025.md)'s third grade (from [CLAIM-427](../claims.d/CLAIM-427.md)), the
 interventional prediction error of competing models (mixture-of-experts
 routing, reflected-appraisal influence, a conventional adaptive policy).
 
@@ -94,7 +94,7 @@ routing, reflected-appraisal influence, a conventional adaptive policy).
 - **Not novelty by itself.** A4: there is "extensive antecedent work in
   organizational learning and robust distributed systems"; hidden-profile
   research ([QUESTION-089](../questions.d/QUESTION-089.md)) and Byzantine-robust learning already show the
-  problem. A result counts for the framework only at ARG-025's
+  problem. A result counts for the framework only at [ARG-025](../arguments.d/ARG-025.md)'s
   third grade.
 
 ## Note of 2026-10-24: March as the baseline

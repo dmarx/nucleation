@@ -85,9 +85,9 @@ evidence, which this case lacks too.
 
 ## Note of 2026-11-11: the claim it illustrates
 
-CLAIM-115, named above as the claim this case illustrates, was superseded
-on 2026-10-29 by CLAIM-220, and the case now illustrates CLAIM-220. Its use is
+[CLAIM-115](../claims.d/CLAIM-115.md), named above as the claim this case illustrates, was superseded
+on 2026-10-29 by [CLAIM-220](../claims.d/CLAIM-220.md), and the case now illustrates [CLAIM-220](../claims.d/CLAIM-220.md). Its use is
 unchanged: competing preservation targets, so that what survives is relative
-to the tasks a rendering serves, which CLAIM-220 states for named receivers and
-a stated family of tasks. It does not illustrate CLAIM-220's comparison of
-predictors, which only CASE-055 can decide.
+to the tasks a rendering serves, which [CLAIM-220](../claims.d/CLAIM-220.md) states for named receivers and
+a stated family of tasks. It does not illustrate [CLAIM-220](../claims.d/CLAIM-220.md)'s comparison of
+predictors, which only [CASE-055](CASE-055.md) can decide.

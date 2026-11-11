@@ -128,7 +128,7 @@ depend on π.
 So the replicator model is the null model for the record's governance
 dynamics. A claim that needs m or r should show a response to intervention
 that the replicator on authority, with population-dependent scores, does
-not reproduce at matched complexity (ARG-025's third grade, the standard CLAIM-427
+not reproduce at matched complexity ([ARG-025](../arguments.d/ARG-025.md)'s third grade, the standard [CLAIM-427](CLAIM-427.md)
 set out).
 
 ## What it does not say

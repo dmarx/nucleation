@@ -194,8 +194,8 @@ The mapping, A6's:
 | — | influence w, and its update G with conferral E ([TERM-103](../terms.d/TERM-103.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
 | transport between two interpreters | a map between two such organizations | — |
 
-The first row joins TERM-031 and TERM-039, which say they differ: TERM-031
-is A24's situation tuple, an index on judgement distributions, and TERM-039
+The first row joins [TERM-031](../terms.d/TERM-031.md) and [TERM-039](../terms.d/TERM-039.md), which say they differ: [TERM-031](../terms.d/TERM-031.md)
+is A24's situation tuple, an index on judgement distributions, and [TERM-039](../terms.d/TERM-039.md)
 is the elicitation protocol that enters the response "and not the
 situation". The mapping does not say which of them the query q carries, or
 whether the situation enters as the evidence o_t, which is the free

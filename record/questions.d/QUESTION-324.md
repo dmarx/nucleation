@@ -58,7 +58,7 @@ Not of one kind ([CLAIM-401](../claims.d/CLAIM-401.md)):
   fails with the budget ([CLAIM-304](../claims.d/CLAIM-304.md)).
 - **Relations of the representation to the system.** Dynamical
   independence and memory closure, the latter relative to a chosen
-  projection ([CLAIM-397](../claims.d/CLAIM-397.md), QUESTION-222). THEORY-752's result
+  projection ([CLAIM-397](../claims.d/CLAIM-397.md), [QUESTION-222](QUESTION-222.md)). [THEORY-752](../theory.d/THEORY-752.md)'s result
   holds only for the conditional-expectation projection, so it shows that
   split is specific to that projection, not how others split.
 

@@ -115,9 +115,9 @@ the criterion ([LIT-1930](../literature.d/LIT-1930.md), [LIT-1931](../literature
   claim's boundary. Filed as [CLAIM-530](CLAIM-530.md), Proposed until Craver's
   texts are read. What the criterion needs is what this claim says:
   ideal interventions on the parts, relative to a mechanism boundary
-  declared beforehand. (Correction of 2026-11-11: CLAIM-530 is Active
+  declared beforehand. (Correction of 2026-11-11: [CLAIM-530](CLAIM-530.md) is Active
   since 2026-11-06. It was promoted with Craver's texts still unread,
-  citing the criterion as Baumgartner and Gebharter state it, LIT-1934,
+  citing the criterion as Baumgartner and Gebharter state it, [LIT-1934](../literature.d/LIT-1934.md),
   p. 8.)
 - **A candidate source for the boundary.** Closure in [TERM-070](../terms.d/TERM-070.md)'s sense
   would count a producer as inside when it is itself maintained by what

@@ -105,8 +105,8 @@ episode of harm runs together. A lists them:
   breached once.
 
 So a wrong can be said of B beyond its first-order harm and beyond that
-harm's continuation, which is what CLAIM-614's defeater asks for (it was
-CLAIM-624's first defeater until CLAIM-624's version 3 narrowed that
+harm's continuation, which is what [CLAIM-614](../claims.d/CLAIM-614.md)'s defeater asks for (it was
+[CLAIM-624](../claims.d/CLAIM-624.md)'s first defeater until [CLAIM-624](../claims.d/CLAIM-624.md)'s version 3 narrowed that
 claim). A: "If the claim can survive a case in which the first-order harms
 are held constant, its proposed non-reducibility becomes much easier to
 evaluate." The argument from the case to the claim is [ARG-055](../arguments.d/ARG-055.md).

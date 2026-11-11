@@ -95,10 +95,10 @@ assignment". The error was in A78's prose and in [TERM-002](TERM-002.md)'s title
   situations. The two coincide when a global realization exists.
 - Not restricted to no-signalling data. The definition does not require
   the e_C to agree on overlaps. Language data signal ([CLAIM-038](../claims.d/CLAIM-038.md), [LIT-842](../literature.d/LIT-842.md)),
-  and for them Contextuality-by-Default applies: LIT-777's 2016 criterion
+  and for them Contextuality-by-Default applies: [LIT-777](../literature.d/LIT-777.md)'s 2016 criterion
   where it and CbD 2.0 agree, and for contents in more than two contexts
-  CbD 2.0 (LIT-831), since there the two can give different verdicts
-  (THEORY-168; CLAIM-037's note of 2026-10-29). A129 does not say
+  CbD 2.0 ([LIT-831](../literature.d/LIT-831.md)), since there the two can give different verdicts
+  ([THEORY-168](../theory.d/THEORY-168.md); [CLAIM-037](../claims.d/CLAIM-037.md)'s note of 2026-10-29). A129 does not say
   this. Every contextuality measure the record reads, the contextual fraction
   ([LIT-265](../literature.d/LIT-265.md)) among them, needs no-signalling.
 - Not one presheaf. A129 leaves the object as "assignments **or**

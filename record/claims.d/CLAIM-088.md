@@ -28,7 +28,7 @@ summary: >-
   rather than present task-sensitive information preservation as an
   entirely new invention." Dropped at C6 with the works it named (a
   survey, Chai et al., Zhao et al. 2025), apparently by inadvertence.
-  All three are now read (LIT-823, LIT-812, LIT-793).
+  All three are now read ([LIT-823](../literature.d/LIT-823.md), [LIT-812](../literature.d/LIT-812.md), [LIT-793](../literature.d/LIT-793.md)).
 ---
 
 # CLAIM-088: Task-sensitive information preservation is established in semantic and goal-oriented communication; what is new is applying it to sheaf-structured pragmatic observations under sequential, context-dependent reconstruction

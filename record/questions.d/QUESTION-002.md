@@ -30,9 +30,9 @@ summary: >-
 
 # QUESTION-002: What survives when an utterance is translated, retold or rendered in another medium?
 
-Open. The manuscript's answer is CLAIM-115, superseded on 2026-10-29 by the
-record's restatement of it, CLAIM-220, which is Proposed. CLAIM-204, which
-superseded CLAIM-139, also answers it and is Proposed. What would count as an answer
+Open. The manuscript's answer is [CLAIM-115](../claims.d/CLAIM-115.md), superseded on 2026-10-29 by the
+record's restatement of it, [CLAIM-220](../claims.d/CLAIM-220.md), which is Proposed. [CLAIM-204](../claims.d/CLAIM-204.md), which
+superseded [CLAIM-139](../claims.d/CLAIM-139.md), also answers it and is Proposed. What would count as an answer
 here is a specification of the preserved object that can be measured on real
 translations, retellings and cross-modal renderings, and that predicts human
 judgements of communicative fidelity better than semantic similarity does.

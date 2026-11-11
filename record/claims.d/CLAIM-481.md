@@ -69,7 +69,7 @@ separation, and [CLAIM-473](CLAIM-473.md) is false as stated.
 
 A22 §6 made the same point in port-Hamiltonian form. An ideal power-conserving
 interconnection ([LIT-1639](../literature.d/LIT-1639.md)) "can sustain oscillations indefinitely". And it
-cited Spivak ([LIT-1649](../literature.d/LIT-1649.md), since read in NOTE-1225) for one networked potential that admits a
+cited Spivak ([LIT-1649](../literature.d/LIT-1649.md), since read in [NOTE-1225](../notes.d/NOTE-1225.md)) for one networked potential that admits a
 heat-like or a wave-like dynamics: "**The same relational organization need not
 imply the same temporal hierarchy.**"
 

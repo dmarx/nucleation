@@ -54,7 +54,7 @@ The owner, at U35: "various contemporaneous and geographically related
 schools of martial arts vying for (regional/ideological/demographical/
 physical) dominance might be another useful case to examine."
 
-Penglase ([LIT-1391](../literature.d/LIT-1391.md), unread when this was filed; read since, NOTE-1092) studies the challenge matches the Gracie
+Penglase ([LIT-1391](../literature.d/LIT-1391.md), unread when this was filed; read since, [NOTE-1092](../notes.d/NOTE-1092.md)) studies the challenge matches the Gracie
 family fought against practitioners of luta livre, a Brazilian
 catch-wrestling style, and argues, from its abstract, that the matches
 located jiu-jitsu within Brazil's racial hierarchy as "white", usually
@@ -98,7 +98,7 @@ challenge at the Grajaú Country Club, won by the jiu-jitsu fighters; and a
   interpretation offered here rests on an unread paper and on the
   exchange's summary of it. `standing: documented` is the event's, not the
   reading's, until Penglase is read. (Added the same day after a review
-  the owner relayed.) Penglase is now read (NOTE-1092); the note of
+  the owner relayed.) Penglase is now read ([NOTE-1092](../notes.d/NOTE-1092.md)); the note of
   2026-10-22 says what of the interpretation the paper bears out.
 
 - That either tradition was better, or that any contest showed it.

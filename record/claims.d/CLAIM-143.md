@@ -210,8 +210,8 @@ and [QUESTION-005](../questions.d/QUESTION-005.md), which the second disjunct tu
 
 ## Note of 2026-11-11: its premises now
 
-The notes of 2026-10-13 and 2026-10-29 above name CLAIM-004 as a premise,
+The notes of 2026-10-13 and 2026-10-29 above name [CLAIM-004](CLAIM-004.md) as a premise,
 and the second says it holds this claim back. Version 3 (2026-10-30)
-dropped CLAIM-004 from `rests_on` and promoted the claim. Its premises are
-now CLAIM-011, CLAIM-035 and CLAIM-265; CLAIM-004 is cited in the body as
+dropped [CLAIM-004](CLAIM-004.md) from `rests_on` and promoted the claim. Its premises are
+now [CLAIM-011](CLAIM-011.md), [CLAIM-035](CLAIM-035.md) and [CLAIM-265](CLAIM-265.md); [CLAIM-004](CLAIM-004.md) is cited in the body as
 the origin of the first two classes of disagreement, not as a premise.

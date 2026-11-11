@@ -140,8 +140,8 @@ It does not say the two effects differ in fact. That is the defeat
 condition. It does not say the structural model is identified. A129's
 caption: "Schematic causal model, not a uniquely identified causal graph."
 It does not say that attributed-speaker studies are useless. They measure
-interpretation, which is what CLAIM-220's thesis, the restatement that
-superseded CLAIM-115, is about.
+interpretation, which is what [CLAIM-220](CLAIM-220.md)'s thesis, the restatement that
+superseded [CLAIM-115](CLAIM-115.md), is about.
 
 The sharp edge is that do(S) is rarely available. In a vignette or rating
 study every manipulation is a change in what the reader is told. That

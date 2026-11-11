@@ -108,7 +108,7 @@ Schwerdtfeger's correction ([THEORY-1413](../theory.d/THEORY-1413.md)), was spli
 review of 2026-11-06 into [CLAIM-607](CLAIM-607.md): positive 1-in-3 SAT and positive
 NAE-3SAT are both NP-complete to satisfy, and navigation between
 solutions is polynomial for the first and PSPACE-complete for the second.
-It stands on THEORY-1407 and THEORY-1413, both Active since the
+It stands on [THEORY-1407](../theory.d/THEORY-1407.md) and [THEORY-1413](../theory.d/THEORY-1413.md), both Active since the
 twenty-seventh status review (2026-11-06); the instance above does not.
 
 **On A's first way.** With a fixed local move rule, as in the instance and

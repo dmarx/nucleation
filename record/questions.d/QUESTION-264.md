@@ -63,7 +63,7 @@ naming the three organizations whose alignment both halves depend on.
 
 Conditions, in a stated class of systems, under which the three coincide,
 come apart, or one reorganizes another, with a case of each. By
-ARG-025's grades of evidence (from CLAIM-427), the answer should predict something under intervention
+[ARG-025](../arguments.d/ARG-025.md)'s grades of evidence (from [CLAIM-427](../claims.d/CLAIM-427.md)), the answer should predict something under intervention
 that an account treating the three processes separately does not.
 [CASE-144](../cases.d/CASE-144.md) is a proposed test.
 

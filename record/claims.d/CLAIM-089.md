@@ -37,7 +37,7 @@ objects_to:
 summary: >-
   The redescription objection (Sections 1, 3.5). The paper answers the
   individual-attitude version. The aggregate revealed-preference version,
-  which the paper left open, was answered on 2026-10-27 by CLAIM-482,
+  which the paper left open, was answered on 2026-10-27 by [CLAIM-482](CLAIM-482.md),
   and this counter is Rejected: it survives only for an organization
   whose wins follow one persistent potential through a change in
   authority.

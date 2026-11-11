@@ -142,7 +142,7 @@ programmes disagree, the event may not have a single route at all. [NOTE-159](..
 already doubts that eukaryogenesis fits the transitions narrative.
 
 Selection for extreme specialization within a group (Cooper & West,
-[LIT-1225](../literature.d/LIT-1225.md), unread when this was filed; read since, NOTE-1369) is a sixth
+[LIT-1225](../literature.d/LIT-1225.md), unread when this was filed; read since, [NOTE-1369](../notes.d/NOTE-1369.md)) is a sixth
 route. It works within a species, where the
 exchange's routes cross lineages.
 

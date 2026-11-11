@@ -39,7 +39,7 @@ The reading: "the transport model should preferably impose constraints that a ge
 
 [CLAIM-202](../claims.d/CLAIM-202.md)'s test fits and predicts on held-out renderings of the same transformations. A strong contextual baseline ([CLAIM-205](../claims.d/CLAIM-205.md)) could match it there. A prediction about an unobserved composition is one a generic predictor has no structure to make. This refines [QUESTION-017](QUESTION-017.md), which asks how distortions compose.
 
-The record limits the test. [CLAIM-260](../claims.d/CLAIM-260.md) (Active) holds that approximate transports compose only under a triangle inequality and nonexpansive kernels, and it answers QUESTION-293, the part split from QUESTION-017 on 2026-10-27. QUESTION-017 keeps the bound where the additive one fails, which CLAIM-260 does not give. Outside those conditions the formalism predicts no additive bound, so a failed prediction there would not count against it.
+The record limits the test. [CLAIM-260](../claims.d/CLAIM-260.md) (Active) holds that approximate transports compose only under a triangle inequality and nonexpansive kernels, and it answers [QUESTION-293](QUESTION-293.md), the part split from [QUESTION-017](QUESTION-017.md) on 2026-10-27. [QUESTION-017](QUESTION-017.md) keeps the bound where the additive one fails, which [CLAIM-260](../claims.d/CLAIM-260.md) does not give. Outside those conditions the formalism predicts no additive bound, so a failed prediction there would not count against it.
 
 ## What would answer it
 

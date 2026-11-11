@@ -96,8 +96,8 @@ final layer.
 
 - **That kernels fix a representation up to the symmetry of the observed
   data.** That is [CLAIM-269](CLAIM-269.md)'s further clause. Until 2026-10-29 it was
-  grounded on THEORY-002, about converging kernels; since the eleventh
-  status review it is grounded on THEORY-004 and THEORY-723, what a
+  grounded on [THEORY-002](../theory.d/THEORY-002.md), about converging kernels; since the eleventh
+  status review it is grounded on [THEORY-004](../theory.d/THEORY-004.md) and [THEORY-723](../theory.d/THEORY-723.md), what a
   kernel and a softmax distribution fix.
 - **Anything about nonlinear probes.** The family is the regularized
   linear readouts of [THEORY-008](../theory.d/THEORY-008.md).

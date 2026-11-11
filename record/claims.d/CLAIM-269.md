@@ -161,11 +161,11 @@ than demonstrated.
 ## Note of 2026-11-11: the two notes above, as the claim now stands
 
 Neither note above states the claim's current grounds or standing. The
-note of 2026-10-19 gives the fourth bullet, grounded on THEORY-019, as
+note of 2026-10-19 gives the fourth bullet, grounded on [THEORY-019](../theory.d/THEORY-019.md), as
 what kept the claim Proposed; it does not mention the second bullet's
-ground of that date, THEORY-002, which the eleventh status review replaced
-by THEORY-004 and THEORY-723 on 2026-10-29 (version 3). The check the note
+ground of that date, [THEORY-002](../theory.d/THEORY-002.md), which the eleventh status review replaced
+by [THEORY-004](../theory.d/THEORY-004.md) and [THEORY-723](../theory.d/THEORY-723.md) on 2026-10-29 (version 3). The check the note
 of 2026-10-29 left was settled by version 5 the same day: the analyst
-clause was dropped from the title and stays in CLAIM-193, and the claim
-was promoted. Its grounds are THEORY-008, THEORY-004, THEORY-723,
-THEORY-018 and THEORY-019, and it rests on CLAIM-379 and CLAIM-385.
+clause was dropped from the title and stays in [CLAIM-193](CLAIM-193.md), and the claim
+was promoted. Its grounds are [THEORY-008](../theory.d/THEORY-008.md), [THEORY-004](../theory.d/THEORY-004.md), [THEORY-723](../theory.d/THEORY-723.md),
+[THEORY-018](../theory.d/THEORY-018.md) and [THEORY-019](../theory.d/THEORY-019.md), and it rests on [CLAIM-379](CLAIM-379.md) and [CLAIM-385](CLAIM-385.md).

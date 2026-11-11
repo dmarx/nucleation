@@ -83,7 +83,7 @@ What makes it open:
   ([LIT-1587](../literature.d/LIT-1587.md)), Leveson's control structure ([LIT-1613](../literature.d/LIT-1613.md)) and Pettit's
   contestability ([LIT-1614](../literature.d/LIT-1614.md)), all registered unread. A9: "This question should
   remain open because existing legal and systems theories may already
-  explain much of the phenomenon." ARG-025's third grade, the standard CLAIM-427 set out, applies.
+  explain much of the phenomenon." [ARG-025](../arguments.d/ARG-025.md)'s third grade, the standard [CLAIM-427](../claims.d/CLAIM-427.md) set out, applies.
 
 An answer would name relations that could be checked in a case, would say
 how each fails, and would distinguish, as A9's table of rivals does,

@@ -109,7 +109,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*As SYNTHESIS-004, moved from this claim, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*As [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md), moved from this claim, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 
@@ -165,7 +165,7 @@ claim complements and does not rest on.
   [CLAIM-474](CLAIM-474.md), which A7 draws on through A5, says "a later one need not
   require every earlier one". The title keeps "none of the achievements
   implies the next". The defeater's exemption for a level holding without
-  the one below was dropped at version 2: under CLAIM-545 autonomy has
+  the one below was dropped at version 2: under [CLAIM-545](CLAIM-545.md) autonomy has
   nothing to govern without the will-organization below it.
 - **Correction: "nucleation" is not the thesis term.** A7 §1: "*Nucleation*
   would name the process by which a relatively small configuration of

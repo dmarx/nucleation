@@ -144,8 +144,8 @@ the uniform one.
 ## Connections
 
 [CLAIM-326](CLAIM-326.md) and [CLAIM-380](CLAIM-380.md) state the Bayes-risk comparison for a stated
-prior. CLAIM-326 says it does not state "the prior-free form or its exact
-relation to Le Cam's deficiency", and CLAIM-380 "the prior-free form or the
+prior. [CLAIM-326](CLAIM-326.md) says it does not state "the prior-free form or its exact
+relation to Le Cam's deficiency", and [CLAIM-380](CLAIM-380.md) "the prior-free form or the
 relation to Le Cam's deficiency". This claim states that form for finite
 sets: the deficiency is the least ε by which every [0, 1]-loss problem
 can be matched at every state. [CLAIM-488](CLAIM-488.md) rests on it.

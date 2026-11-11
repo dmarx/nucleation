@@ -35,9 +35,9 @@ summary: >-
   16:16 and four parallels) as handshakes, which changes what the
   congregation is told to do; Nida (1964, p. 160) holds this up as
   equivalent effect, and the UBS handbooks call it a brave attempt.
-  The documented case for the necessity half, CLAIM-486 since the
+  The documented case for the necessity half, [CLAIM-486](../claims.d/CLAIM-486.md) since the
   split of 2026-10-28, on expert judgement rather than reader evidence.
-  The same handbooks document the sufficiency half, CLAIM-061: where
+  The same handbooks document the sufficiency half, [CLAIM-061](../claims.d/CLAIM-061.md): where
   kissing is amorous, a literal "kiss" changes the act.
 reported_in:
 - LIT-791
@@ -261,7 +261,7 @@ wins.
 
 ## Note of 2026-11-11: the two halves are two claims
 
-On 2026-10-28 the status review narrowed CLAIM-061 to sufficiency and
-filed its necessity half as CLAIM-486. Where the text above says "the
-necessity half of CLAIM-061", read CLAIM-486; "both halves of CLAIM-061"
-are now CLAIM-486 and CLAIM-061.
+On 2026-10-28 the status review narrowed [CLAIM-061](../claims.d/CLAIM-061.md) to sufficiency and
+filed its necessity half as [CLAIM-486](../claims.d/CLAIM-486.md). Where the text above says "the
+necessity half of [CLAIM-061](../claims.d/CLAIM-061.md)", read [CLAIM-486](../claims.d/CLAIM-486.md); "both halves of [CLAIM-061](../claims.d/CLAIM-061.md)"
+are now [CLAIM-486](../claims.d/CLAIM-486.md) and [CLAIM-061](../claims.d/CLAIM-061.md).

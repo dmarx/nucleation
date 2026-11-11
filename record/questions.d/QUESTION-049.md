@@ -56,9 +56,9 @@ imposed and lapses when the norm is lifted, which would favour [THEORY-137](../t
 
 [THEORY-139](../theory.d/THEORY-139.md) now carries an `answered_by` edge, for the tracking side.
 
-## Note of 2026-11-11: THEORY-139 bears on this question and does not answer it
+## Note of 2026-11-11: [THEORY-139](../theory.d/THEORY-139.md) bears on this question and does not answer it
 
 The note above says [THEORY-139](../theory.d/THEORY-139.md) carries an `answered_by` edge for the
-tracking side. THEORY-139's edge to this question is `bears_on`: it states
+tracking side. [THEORY-139](../theory.d/THEORY-139.md)'s edge to this question is `bears_on`: it states
 Pettit's side of the tension, and no case on the record yet meets the
 test "What would count as an answer" sets. The question is Open.

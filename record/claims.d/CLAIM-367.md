@@ -191,7 +191,7 @@ claim is stated for any regulatory condition, so it holds of either.
   norms a modeller-fixed objective gives are set by the modeller and not
   produced or revised by the organization, and the training system
   inherits that limit. (That such a population cannot show
-  self-constitution is ARG-015's verdict, which CLAIM-288 undercuts.) A31's "Unity of optimization" is not its
+  self-constitution is [ARG-015](../arguments.d/ARG-015.md)'s verdict, which [CLAIM-288](CLAIM-288.md) undercuts.) A31's "Unity of optimization" is not its
   "Unity of self-governance".
 - It does not decide anything about feeling. A31: "None of these
   capacities, individually or jointly, establishes phenomenal

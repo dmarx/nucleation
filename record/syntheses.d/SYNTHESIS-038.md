@@ -144,7 +144,7 @@ projections. Six arguments conclude it:
 - [ARG-062](../arguments.d/ARG-062.md) (Proposed), from [THEORY-140](../theory.d/THEORY-140.md) and [CASE-138](../cases.d/CASE-138.md): an organization can
   reproduce the conditions that keep a known hazard from constraining it,
   "though it says nothing of a second-order wrong";
-- ARG-063 (Proposed; in distributed-agency only), from CASE-228 (A's
+- [ARG-063](../arguments.d/ARG-063.md) (Proposed; in distributed-agency only), from [CASE-228](../cases.d/CASE-228.md) (A's
   two-regime reporting construction): a harmful outcome and the regime that
   keeps it unrecorded can sustain each other without intent, and it "shows
   nothing normative";
@@ -175,7 +175,7 @@ unread.
 - [CLAIM-619](../claims.d/CLAIM-619.md), A's; thesis, interpretive, Proposed; also distributed-agency.
 - [TERM-059](../terms.d/TERM-059.md), the owner's name, Active.
 - [CASE-229](../cases.d/CASE-229.md), A's, Proposed; also distributed-agency.
-- [ARG-043](../arguments.d/ARG-043.md), [ARG-058](../arguments.d/ARG-058.md), [ARG-059](../arguments.d/ARG-059.md) and [ARG-062](../arguments.d/ARG-062.md), Proposed; [ARG-055](../arguments.d/ARG-055.md) and [ARG-064](../arguments.d/ARG-064.md), Proposed, also distributed-agency; ARG-063, Proposed, in distributed-agency only; [ARG-070](../arguments.d/ARG-070.md), Deferred; [ARG-071](../arguments.d/ARG-071.md), Rejected.
+- [ARG-043](../arguments.d/ARG-043.md), [ARG-058](../arguments.d/ARG-058.md), [ARG-059](../arguments.d/ARG-059.md) and [ARG-062](../arguments.d/ARG-062.md), Proposed; [ARG-055](../arguments.d/ARG-055.md) and [ARG-064](../arguments.d/ARG-064.md), Proposed, also distributed-agency; [ARG-063](../arguments.d/ARG-063.md), Proposed, in distributed-agency only; [ARG-070](../arguments.d/ARG-070.md), Deferred; [ARG-071](../arguments.d/ARG-071.md), Rejected.
 - [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md), the owner's, Open. [QUESTION-256](../questions.d/QUESTION-256.md), A26's, Open. [QUESTION-441](../questions.d/QUESTION-441.md), the owner's, Open; also distributed-agency.
 
 ## Links tested as claims

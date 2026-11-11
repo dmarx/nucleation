@@ -274,7 +274,7 @@ outcome, is not part of this claim:
   the model in touch.
 - **Sense-making from regulation.** Di Paolo: a norm the system itself has
   needs adaptivity, which detects tendencies toward the viability boundary
-  "and acts so as to reverse them" (THEORY-1166).
+  "and acts so as to reverse them" ([THEORY-1166](../theory.d/THEORY-1166.md)).
 - **Agency defined by action.** Agents are "the systems that would adapt
   their policy were their actions to affect the world differently"
   ([THEORY-527](../theory.d/THEORY-527.md)). On that definition a judge that cannot act is not an

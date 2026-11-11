@@ -159,9 +159,9 @@ naming the study in its defeat condition, as the record's replies do.
 
 ## Where it stands
 
-Active since 2026-10-30 (the note below): CLAIM-204, which superseded
-CLAIM-139 on 2026-10-29, records the concession. The separate theses are
-filed as proposals beside CLAIM-204, and A240's recommendations are not
+Active since 2026-10-30 (the note below): [CLAIM-204](CLAIM-204.md), which superseded
+[CLAIM-139](CLAIM-139.md) on 2026-10-29, records the concession. The separate theses are
+filed as proposals beside [CLAIM-204](CLAIM-204.md), and A240's recommendations are not
 adopted.
 
 ## Note of 2026-10-30: promoted
