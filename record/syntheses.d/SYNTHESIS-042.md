@@ -1,5 +1,8 @@
 ---
+number: 42
 status: Proposed
+formerly:
+- SYNTHESIS-tmpmm13o
 title: 'What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much'
 version: 1
 defeated_if: >-
@@ -72,14 +75,14 @@ integrates:
 ---
 <!-- inactive-ok-file: ADR-075 ARG-072 CASE-198 CASE-204 CASE-205 CASE-207 CASE-208 CASE-214 CASE-215 CASE-219 CASE-220 CLAIM-573 CLAIM-576 CLAIM-611 SYNTHESIS-024 TERM-111 TERM-116 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmpmm13o: What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
+# SYNTHESIS-042: What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
 
 *A part account of the realizability line ("Resource-bounded realizability
 and individuation", [ADR-073](../decisions.d/ADR-073.md)): the part filed from the pasted synthesis on
 constraint architectures (2026-11-04) and the pasted synthesis on
 resource-bounded realizability (2026-11-05), with the origami cases filed at
 the owner's request and the readings filed beside them. The line's account
-is built over it and its four sibling parts ([SYNTHESIS-tmpj2fl0](SYNTHESIS-tmpj2fl0.md) to [SYNTHESIS-tmprngy2](SYNTHESIS-tmprngy2.md)). Several of
+is built over it and its four sibling parts ([SYNTHESIS-040](SYNTHESIS-040.md) to [SYNTHESIS-046](SYNTHESIS-046.md)). Several of
 its entries are also in the readiness line, where [SYNTHESIS-024](SYNTHESIS-024.md) sets them
 out; this account integrates them again because their `line` includes
 realizability.*
@@ -317,21 +320,21 @@ the part rests on ([QUESTION-405](../questions.d/QUESTION-405.md), [QUESTION-423
 
 ## Links across to the sibling parts, stated
 
-- **To budgeted individuation ([SYNTHESIS-tmpj2fl0](SYNTHESIS-tmpj2fl0.md)).** [CLAIM-581](../claims.d/CLAIM-581.md) and [CLAIM-590](../claims.d/CLAIM-590.md) rest on
+- **To budgeted individuation ([SYNTHESIS-040](SYNTHESIS-040.md)).** [CLAIM-581](../claims.d/CLAIM-581.md) and [CLAIM-590](../claims.d/CLAIM-590.md) rest on
   [CLAIM-571](../claims.d/CLAIM-571.md) and [CLAIM-563](../claims.d/CLAIM-563.md); [CLAIM-590](../claims.d/CLAIM-590.md) grounds on [CASE-206](../cases.d/CASE-206.md) and [CLAIM-572](../claims.d/CLAIM-572.md) and
   [CLAIM-592](../claims.d/CLAIM-592.md) are illustrated by it. [CLAIM-574](../claims.d/CLAIM-574.md): "[CLAIM-564](../claims.d/CLAIM-564.md) is the same shape
   on the side of demands". [CLAIM-572](../claims.d/CLAIM-572.md) calls a reallocation between
   observing and acting "a transition with its own threshold, as in
   [CLAIM-571](../claims.d/CLAIM-571.md), but in budget space rather than configuration space".
   [TERM-116](../terms.d/TERM-116.md) prices [CLAIM-569](../claims.d/CLAIM-569.md)'s three requirements per configuration.
-- **To assembly and nucleation ([SYNTHESIS-tmpq7bvl](SYNTHESIS-tmpq7bvl.md)).** [CLAIM-599](../claims.d/CLAIM-599.md) rests on [CLAIM-562](../claims.d/CLAIM-562.md),
+- **To assembly and nucleation ([SYNTHESIS-045](SYNTHESIS-045.md)).** [CLAIM-599](../claims.d/CLAIM-599.md) rests on [CLAIM-562](../claims.d/CLAIM-562.md),
   and [CASE-215](../cases.d/CASE-215.md) illustrates it. [CASE-216](../cases.d/CASE-216.md) illustrates [CLAIM-569](../claims.d/CLAIM-569.md) and [CLAIM-571](../claims.d/CLAIM-571.md);
   [CASE-217](../cases.d/CASE-217.md), [CASE-219](../cases.d/CASE-219.md) and [CASE-220](../cases.d/CASE-220.md) illustrate [CLAIM-567](../claims.d/CLAIM-567.md). [CLAIM-594](../claims.d/CLAIM-594.md)
   complements [CLAIM-569](../claims.d/CLAIM-569.md). [QUESTION-380](../questions.d/QUESTION-380.md) asks when a local face raises
   "reliable emergence and not only feasibility ([CLAIM-567](../claims.d/CLAIM-567.md))".
 - **To transient-support, outside the line.** [CLAIM-601](../claims.d/CLAIM-601.md) uses [TERM-105](../terms.d/TERM-105.md), reading a savings buffer as
   a replenishable reserve.
-- **To persisting individuals ([SYNTHESIS-tmprngy2](SYNTHESIS-tmprngy2.md)).** [CLAIM-611](../claims.d/CLAIM-611.md) rests on [CLAIM-576](../claims.d/CLAIM-576.md) and
+- **To persisting individuals ([SYNTHESIS-046](SYNTHESIS-046.md)).** [CLAIM-611](../claims.d/CLAIM-611.md) rests on [CLAIM-576](../claims.d/CLAIM-576.md) and
   [CLAIM-567](../claims.d/CLAIM-567.md); [QUESTION-379](../questions.d/QUESTION-379.md) cites [CLAIM-569](../claims.d/CLAIM-569.md) and [TERM-114](../terms.d/TERM-114.md); [ARG-072](../arguments.d/ARG-072.md) names
   [CLAIM-567](../claims.d/CLAIM-567.md)'s split and [ARG-054](../arguments.d/ARG-054.md)'s difference.
 - **To the line's hinge.** [CLAIM-556](../claims.d/CLAIM-556.md) rests on [CLAIM-566](../claims.d/CLAIM-566.md), and [CLAIM-567](../claims.d/CLAIM-567.md)'s

@@ -1,5 +1,8 @@
 ---
+number: 37
 status: Proposed
+formerly:
+- SYNTHESIS-tmpg9eit
 title: 'An agent made of a population of interests can act as one while they stay divided: synchronization of its interests is desirable and not necessary, the routes by which it acts as one (arbitration, a change in which interest may act, coinciding valuations, local accommodation) are distinct and differently costly, and whether its coordination switches or reorganizes continuously depends on how it is constituted'
 version: 1
 defeated_if: >-
@@ -63,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-163 — Superseded; components and citations, with their standing (the syntheses among them carry content returned to claims, ADR-084) -->
 <!-- inactive-ok-file: QUESTION-015 QUESTION-304 — Answered; components and citations, with their standing -->
 
-# SYNTHESIS-tmpg9eit: An agent made of a population of interests can act as one while they stay divided: synchronization of its interests is desirable and not necessary, the routes by which it acts as one (arbitration, a change in which interest may act, coinciding valuations, local accommodation) are distinct and differently costly, and whether its coordination switches or reorganizes continuously depends on how it is constituted
+# SYNTHESIS-037: An agent made of a population of interests can act as one while they stay divided: synchronization of its interests is desirable and not necessary, the routes by which it acts as one (arbitration, a change in which interest may act, coinciding valuations, local accommodation) are distinct and differently costly, and whether its coordination switches or reorganizes continuously depends on how it is constituted
 
 *A part account of the will-organization line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); the line's account is built over it.*
 

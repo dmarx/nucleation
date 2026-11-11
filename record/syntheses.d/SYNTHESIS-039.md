@@ -1,5 +1,8 @@
 ---
+number: 39
 status: Proposed
+formerly:
+- SYNTHESIS-tmpiwxet
 title: 'Maintaining an effective regime and maintaining the capacity to govern among regimes are different achievements, since stability does not entail viability: a protective regime can keep itself in place by shaping the evidence and authority that would end it, an organization can record a correction without maintaining the capacity it needs, and resolve, release and a learned prior over which processes govern are among the relations that keep or lose that capacity'
 version: 1
 defeated_if: >-
@@ -74,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-083 ADR-084 CLAIM-445 CLAIM-446 CLAIM-465 SYNTHESIS-020 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-292 — Answered; components and citations, with their standing -->
 
-# SYNTHESIS-tmpiwxet: Maintaining an effective regime and maintaining the capacity to govern among regimes are different achievements, since stability does not entail viability: a protective regime can keep itself in place by shaping the evidence and authority that would end it, an organization can record a correction without maintaining the capacity it needs, and resolve, release and a learned prior over which processes govern are among the relations that keep or lose that capacity
+# SYNTHESIS-039: Maintaining an effective regime and maintaining the capacity to govern among regimes are different achievements, since stability does not entail viability: a protective regime can keep itself in place by shaping the evidence and authority that would end it, an organization can record a correction without maintaining the capacity it needs, and resolve, release and a learned prior over which processes govern are among the relations that keep or lose that capacity
 
 *A part account of the will-organization line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); the line's account is built over it.*
 

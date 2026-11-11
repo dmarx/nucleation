@@ -6,8 +6,8 @@
 
 **Behavioral integration** — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
 
-0 of 34 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 46 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-037](../../../record/syntheses.d/SYNTHESIS-037.md) | An agent made of a population of interests can act as one while they stay divided: synchronization of its interests is desirable and not necessary, the routes by which it acts as one (arbitration, a change in which interest may act, coinciding valuations, local accommodation) are distinct and differently costly, and whether its coordination switches or reorganizes continuously depends on how it is constituted | A part account of the will-organization line: what makes a population of interests act as one ([QUESTION-034](../../../record/questions.d/QUESTION-034.md), the owner's prompt of 2026-10-11). The record's answers are Proposed: flow as valuations that do not cross ([CLAIM-162](../../../record/claims.d/CLAIM-162.md)), mindfulness as a change in which interest may act ([CLAIM-156](../../../record/claims.d/CLAIM-156.md)), and learned local accommodation as cheaper than escalation ([CLAIM-358](../../../record/claims.d/CLAIM-358.md)). The owner's [CLAIM-261](../../../record/claims.d/CLAIM-261.md), Active, settles that acting as one does not need synchronization. Two senses of synchronization are kept apart ([TERM-050](../../../record/terms.d/TERM-050.md), [TERM-061](../../../record/terms.d/TERM-061.md)). The account adds nothing of its own; its standing is its components'. | Proposed |

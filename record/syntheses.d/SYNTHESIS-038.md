@@ -1,5 +1,8 @@
 ---
+number: 38
 status: Proposed
+formerly:
+- SYNTHESIS-tmphe0p9
 title: 'A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability'
 version: 1
 defeated_if: >-
@@ -58,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-070 — Deferred; components and citations, set aside -->
 <!-- inactive-ok-file: ARG-071 — Rejected; components and citations, with their standing -->
 
-# SYNTHESIS-tmphe0p9: A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
+# SYNTHESIS-038: A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
 
 *A part account of the will-organization line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); the line's account is built over it.*
 

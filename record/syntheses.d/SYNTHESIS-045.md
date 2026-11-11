@@ -1,5 +1,8 @@
 ---
+number: 45
 status: Proposed
+formerly:
+- SYNTHESIS-tmpq7bvl
 title: 'Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon'
 version: 1
 defeated_if: >-
@@ -39,7 +42,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CASE-215 CASE-218 CASE-219 CASE-220 CLAIM-185 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmpq7bvl: Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon
+# SYNTHESIS-045: Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon
 
 *A part account of the realizability line: the part filed from the DNA
 origami readings chosen by the assistant at the owner's request of
@@ -108,13 +111,13 @@ rests on reproduce: [QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-41
 - [CLAIM-594](../claims.d/CLAIM-594.md), the assistant's, thesis, demonstrated, Active; also
   formal-apparatus; grounds [CASE-216](../cases.d/CASE-216.md).
 - [CASE-216](../cases.d/CASE-216.md), the assistant's construction, Active; illustrates [CLAIM-569](../claims.d/CLAIM-569.md)
-  and [CLAIM-571](../claims.d/CLAIM-571.md) ([SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md)).
+  and [CLAIM-571](../claims.d/CLAIM-571.md) ([SYNTHESIS-042](SYNTHESIS-042.md)).
 - [CLAIM-598](../claims.d/CLAIM-598.md), the assistant's, thesis, demonstrated, Active; also readiness
   and formal-apparatus; grounds [CASE-217](../cases.d/CASE-217.md).
 - [CASE-217](../cases.d/CASE-217.md), A's model with the assistant's extension, construction,
-  Active; illustrates [CLAIM-567](../claims.d/CLAIM-567.md) ([SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md)).
+  Active; illustrates [CLAIM-567](../claims.d/CLAIM-567.md) ([SYNTHESIS-042](SYNTHESIS-042.md)).
 - [CASE-215](../cases.d/CASE-215.md), the assistant's construction, Proposed; also readiness;
-  illustrates [CLAIM-562](../claims.d/CLAIM-562.md) ([SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md)) and [CLAIM-598](../claims.d/CLAIM-598.md).
+  illustrates [CLAIM-562](../claims.d/CLAIM-562.md) ([SYNTHESIS-042](SYNTHESIS-042.md)) and [CLAIM-598](../claims.d/CLAIM-598.md).
 - [TERM-117](../terms.d/TERM-117.md), A's, Active; also nucleating-argument.
 - [CLAIM-595](../claims.d/CLAIM-595.md), A's candidate claim with the assistant's proof, thesis,
   demonstrated, Active; also nucleating-argument and formal-apparatus; uses
@@ -124,7 +127,7 @@ rests on reproduce: [QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-41
 - [CLAIM-596](../claims.d/CLAIM-596.md), the assistant's, thesis, demonstrated, Active; also
   formal-apparatus; uses [TERM-117](../terms.d/TERM-117.md).
 - [CLAIM-599](../claims.d/CLAIM-599.md), the assistant's, thesis, demonstrated, Active; also
-  formal-apparatus; rests on [CLAIM-562](../claims.d/CLAIM-562.md) ([SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md)); uses [TERM-117](../terms.d/TERM-117.md).
+  formal-apparatus; rests on [CLAIM-562](../claims.d/CLAIM-562.md) ([SYNTHESIS-042](SYNTHESIS-042.md)); uses [TERM-117](../terms.d/TERM-117.md).
 - [CASE-219](../cases.d/CASE-219.md), A's design, proposed study, Proposed; illustrates [CLAIM-567](../claims.d/CLAIM-567.md)
   and [CLAIM-566](../claims.d/CLAIM-566.md) (the line's hinge).
 - [CASE-220](../cases.d/CASE-220.md), A's design, proposed study, Proposed; a variant of [CASE-219](../cases.d/CASE-219.md);
@@ -169,7 +172,7 @@ rests on reproduce: [QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-41
 
 ## Links across to the sibling parts, stated
 
-- **To reaching under resources ([SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md)).** [CLAIM-599](../claims.d/CLAIM-599.md) rests on [CLAIM-562](../claims.d/CLAIM-562.md),
+- **To reaching under resources ([SYNTHESIS-042](SYNTHESIS-042.md)).** [CLAIM-599](../claims.d/CLAIM-599.md) rests on [CLAIM-562](../claims.d/CLAIM-562.md),
   and [CASE-215](../cases.d/CASE-215.md) illustrates it; [CLAIM-562](../claims.d/CLAIM-562.md)'s note of 2026-11-07 says UFI
   "cannot be the predictor [QUESTION-380](../questions.d/QUESTION-380.md) asks for wherever adding a nucleus
   can hurt". [CASE-216](../cases.d/CASE-216.md) illustrates [CLAIM-569](../claims.d/CLAIM-569.md) and [CLAIM-571](../claims.d/CLAIM-571.md) ("Holding is not
@@ -177,7 +180,7 @@ rests on reproduce: [QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-41
   [CLAIM-594](../claims.d/CLAIM-594.md) complements [CLAIM-569](../claims.d/CLAIM-569.md). [QUESTION-380](../questions.d/QUESTION-380.md) asks when realizing a face
   raises "reliable emergence and not only feasibility ([CLAIM-567](../claims.d/CLAIM-567.md))", and
   [QUESTION-400](../questions.d/QUESTION-400.md) cites [CLAIM-583](../claims.d/CLAIM-583.md) and [CLAIM-567](../claims.d/CLAIM-567.md).
-- **To budgeted individuation ([SYNTHESIS-tmpj2fl0](SYNTHESIS-tmpj2fl0.md)).** [CLAIM-594](../claims.d/CLAIM-594.md) complements [CLAIM-581](../claims.d/CLAIM-581.md)
+- **To budgeted individuation ([SYNTHESIS-040](SYNTHESIS-040.md)).** [CLAIM-594](../claims.d/CLAIM-594.md) complements [CLAIM-581](../claims.d/CLAIM-581.md)
   and [CLAIM-570](../claims.d/CLAIM-570.md) and bears on [QUESTION-374](../questions.d/QUESTION-374.md): "This claim marks their scope."
   [CASE-216](../cases.d/CASE-216.md) says the record's budgeted reachability with fixed costs, "so
   more budget never loses a reachable state ([CLAIM-581](../claims.d/CLAIM-581.md), [CLAIM-570](../claims.d/CLAIM-570.md))".

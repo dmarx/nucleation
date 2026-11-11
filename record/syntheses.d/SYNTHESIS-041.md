@@ -1,5 +1,8 @@
 ---
+number: 41
 status: Proposed
+formerly:
+- SYNTHESIS-tmpjze56
 title: 'Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent''s governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is'
 version: 1
 defeated_if: >-
@@ -55,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-083 ADR-084 ARG-060 CASE-194 CLAIM-170 CLAIM-544 CLAIM-545 CLAIM-610 CLAIM-620 CLAIM-622 SYNTHESIS-025 SYNTHESIS-026 THEORY-040 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-tmpjze56: Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent's governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is
+# SYNTHESIS-041: Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent's governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is
 
 *A part account of the will-organization line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); the line's account is built over it.*
 

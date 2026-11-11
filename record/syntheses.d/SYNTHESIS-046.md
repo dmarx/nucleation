@@ -1,5 +1,8 @@
 ---
+number: 46
 status: Proposed
+formerly:
+- SYNTHESIS-tmprngy2
 title: 'An organized individual that persists through changes of mode persists, on the record''s proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive'
 version: 1
 defeated_if: >-
@@ -30,7 +33,7 @@ integrates:
 <!-- inactive-ok-file: ADR-084 ARG-072 ARG-074 ARG-075 CASE-224 CASE-225 CLAIM-329 CLAIM-478 CLAIM-545 CLAIM-576 CLAIM-611 CLAIM-612 CLAIM-615 CLAIM-616 CLAIM-623 CLAIM-625 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-003 — Superseded; integrated or cited with their standing, as the entries their claims returned to -->
 
-# SYNTHESIS-tmprngy2: An organized individual that persists through changes of mode persists, on the record's proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive
+# SYNTHESIS-046: An organized individual that persists through changes of mode persists, on the record's proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive
 
 *A part account of the realizability line: the part filed from the
 exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07),
@@ -93,14 +96,14 @@ modelling error.
 
 - [CLAIM-611](../claims.d/CLAIM-611.md), A's thesis corrected by the filer, thesis, interpretive,
   Proposed; first line distributed-agency; rests on [CLAIM-576](../claims.d/CLAIM-576.md) and
-  [CLAIM-567](../claims.d/CLAIM-567.md) ([SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md)), [CLAIM-566](../claims.d/CLAIM-566.md) (the line's hinge) and [CLAIM-625](../claims.d/CLAIM-625.md), with
+  [CLAIM-567](../claims.d/CLAIM-567.md) ([SYNTHESIS-042](SYNTHESIS-042.md)), [CLAIM-566](../claims.d/CLAIM-566.md) (the line's hinge) and [CLAIM-625](../claims.d/CLAIM-625.md), with
   [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-522](../claims.d/CLAIM-522.md), [CLAIM-478](../claims.d/CLAIM-478.md) and [CLAIM-612](../claims.d/CLAIM-612.md) of other lines;
   complements [CLAIM-616](../claims.d/CLAIM-616.md).
 - [SYNTHESIS-003](SYNTHESIS-003.md) also carries the line. It is Superseded by [CLAIM-611](../claims.d/CLAIM-611.md) ([ADR-084](../decisions.d/ADR-084.md)), which
   is integrated here, and it is not integrated again.
 - [CLAIM-615](../claims.d/CLAIM-615.md), A's integration with the owner's contributions, corrected by
   the filer, thesis, interpretive, Proposed; first line
-  distributed-agency; rests on [CLAIM-611](../claims.d/CLAIM-611.md) and [CLAIM-593](../claims.d/CLAIM-593.md) ([SYNTHESIS-tmpj2fl0](SYNTHESIS-tmpj2fl0.md)), with
+  distributed-agency; rests on [CLAIM-611](../claims.d/CLAIM-611.md) and [CLAIM-593](../claims.d/CLAIM-593.md) ([SYNTHESIS-040](SYNTHESIS-040.md)), with
   [CLAIM-329](../claims.d/CLAIM-329.md), [CLAIM-328](../claims.d/CLAIM-328.md), [CLAIM-287](../claims.d/CLAIM-287.md) and [CLAIM-280](../claims.d/CLAIM-280.md) of other lines.
 - [CLAIM-625](../claims.d/CLAIM-625.md), A's with the reader's qualification, thesis, demonstrated,
   Proposed; also formal-apparatus; grounds [THEORY-134](../theory.d/THEORY-134.md).
@@ -138,11 +141,11 @@ modelling error.
 
 ## Links across to the sibling parts, stated
 
-- **To budgeted individuation ([SYNTHESIS-tmpj2fl0](SYNTHESIS-tmpj2fl0.md)).** [CLAIM-615](../claims.d/CLAIM-615.md) rests on [CLAIM-593](../claims.d/CLAIM-593.md) and
+- **To budgeted individuation ([SYNTHESIS-040](SYNTHESIS-040.md)).** [CLAIM-615](../claims.d/CLAIM-615.md) rests on [CLAIM-593](../claims.d/CLAIM-593.md) and
   bears on [QUESTION-393](../questions.d/QUESTION-393.md); [CLAIM-593](../claims.d/CLAIM-593.md)'s note of 2026-11-07 records that it
   "now rests on it, with [ARG-075](../arguments.d/ARG-075.md) as the analogy". [QUESTION-393](../questions.d/QUESTION-393.md)'s table gives
   [QUESTION-379](../questions.d/QUESTION-379.md) as the row for realizability.
-- **To reaching under resources ([SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md)).** [CLAIM-611](../claims.d/CLAIM-611.md) rests on [CLAIM-576](../claims.d/CLAIM-576.md)
+- **To reaching under resources ([SYNTHESIS-042](SYNTHESIS-042.md)).** [CLAIM-611](../claims.d/CLAIM-611.md) rests on [CLAIM-576](../claims.d/CLAIM-576.md)
   ("which the exchange never cites") and [CLAIM-567](../claims.d/CLAIM-567.md); [CLAIM-615](../claims.d/CLAIM-615.md)'s first layer
   cites [CLAIM-576](../claims.d/CLAIM-576.md). [QUESTION-379](../questions.d/QUESTION-379.md) cites [CLAIM-569](../claims.d/CLAIM-569.md) and [TERM-114](../terms.d/TERM-114.md). [ARG-072](../arguments.d/ARG-072.md) reads
   [CLAIM-567](../claims.d/CLAIM-567.md)'s split as one the oscillator setting carries, and sets its
