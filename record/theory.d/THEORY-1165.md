@@ -16,7 +16,7 @@ history:
     entry's criterion is "whether revision of that rule under breakdown
     is internal or external to the candidate group agent", and it
     denies attributive agency to institutional systems whose standards
-    are "authored elsewhere". Also bears_on QUESTION-tmpmus93, raised by
+    are "authored elsewhere". Also bears_on QUESTION-449, raised by
     the same review, on whether an installed mechanism's origin bears on
     whose the counter-normativity is.
 tags:
@@ -38,7 +38,7 @@ summary: >-
   positive case it does not give, stays [THEORY-219](THEORY-219.md)'s question, Proposed.
 bears_on:
 - QUESTION-441
-- QUESTION-tmpmus93
+- QUESTION-449
 ---
 <!-- inactive-ok-file: THEORY-219 THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true, and a neighbouring account it is set apart from -->
 

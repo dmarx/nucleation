@@ -24,7 +24,7 @@ history:
   date: '2026-11-11'
   note: >-
     A dated note: Thompson's compiler attack and Stute's story of it
-    (CASE-tmp4xp5m), which illustrates the claim in software. No other
+    (CASE-232), which illustrates the claim in software. No other
     change.
 role: thesis
 warrant: demonstrated
@@ -65,7 +65,7 @@ summary: >-
   differs, which is [CLAIM-194](CLAIM-194.md)'s point about boundaries.
 ---
 <!-- ref::uses-file: TERM-100 — "where maintenance is realized", by the system's own production or by an outside controller, is TERM-100's maintenance provenance, which recovery under interventions on state cannot show -->
-<!-- inactive-ok-file: THEORY-tmpkzkpc — Proposed; Thompson's lecture, cited in the note of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-1560 — Proposed; Thompson's lecture, cited in the note of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-163 — Proposed; cited with its standing -->
 
 # CLAIM-522: Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two
@@ -153,10 +153,10 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 
 ## Note of 2026-11-11: a compiler Trojan horse
 
-Thompson's construction ([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md)) and Stute's story of it
-([CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md)) are this claim's shape in software. Every intervention on
+Thompson's construction ([THEORY-1560](../theory.d/THEORY-1560.md)) and Stute's story of it
+([CASE-232](../cases.d/CASE-232.md)) are this claim's shape in software. Every intervention on
 what the host could see, the program's source, the libraries and the
 compiler's own source, left the mechanism in place, because the binary
 that produces each of them restored it; only replacing that binary, the
-production mechanism, removed it. [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md) illustrates the claim; it
+production mechanism, removed it. [CASE-232](../cases.d/CASE-232.md) illustrates the claim; it
 bears none of its weight, which rests on the controller construction.

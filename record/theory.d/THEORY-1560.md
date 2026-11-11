@@ -1,5 +1,8 @@
 ---
+number: 1560
 status: Proposed
+formerly:
+- THEORY-tmpkzkpc
 promote_when: >-
   A reading of the lecture in full finds the construction described as
   the title states: a compiler binary whose Trojan horse miscompiles the
@@ -13,18 +16,18 @@ tags:
 - epistemology
 date: '2026-11-11'
 source:
-- LIT-tmpng40s
+- LIT-2332
 bears_on:
-- QUESTION-tmpmus93
+- QUESTION-449
 summary: >-
-  Thompson's Turing lecture ([NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)). A mechanism installed once in
+  Thompson's Turing lecture ([NOTE-1715](../notes.d/NOTE-1715.md)). A mechanism installed once in
   a binary is reproduced by the host's own compiling and lives in no
-  source. It bears on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md): an installed mechanism the host
+  source. It bears on [QUESTION-449](../questions.d/QUESTION-449.md): an installed mechanism the host
   reproduces, whose author the lecture holds responsible ("trust the
   people who wrote the software").
 ---
 
-# THEORY-tmpkzkpc: Thompson describes a compiler binary that miscompiles the login command to accept a known password and reinserts that Trojan horse, and itself, whenever the compiler is compiled, so that it persists after every source has been cleaned, and concludes that no source-level verification protects a user from code they did not create
+# THEORY-1560: Thompson describes a compiler binary that miscompiles the login command to accept a known password and reinserts that Trojan horse, and itself, whenever the compiler is compiled, so that it persists after every source has been cleaned, and concludes that no source-level verification protects a user from code they did not create
 
 ## The account
 
@@ -38,12 +41,12 @@ scrutiny will protect you from using untrusted code."
 
 ## Evidence
 
-The lecture itself ([NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)): the construction described as built,
+The lecture itself ([NOTE-1715](../notes.d/NOTE-1715.md)): the construction described as built,
 with figures of its structure. It credits the idea to an uncited Air Force
 critique of Multics.
 
 ## What it bears on
 
-[QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md): the mechanism is formed by one party and reproduced by
+[QUESTION-449](../questions.d/QUESTION-449.md): the mechanism is formed by one party and reproduced by
 the host's process; the lecture places responsibility with "the people who
 wrote the software".

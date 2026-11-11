@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [11 Nov 07:44 — A self-reproducing compiler Trojan horse filed as a case for the question of installed counter-normativity: Thompson's lecture and Stute's story, read](2026-11.md#a-self-reproducing-compiler-trojan-horse-filed-as-a-case-for-the-question-of-installed-counter-normativity-thompsons-lecture-and-stutes-story-read)
+- [11 Nov 07:21 — Reading review of 2026-11-11, by line: normative judgment about organizations; 55 readings named, four tied, one question raised, fifty held; the view does not count readings a claim or argument grounds on](2026-11.md#reading-review-of-2026-11-11-by-line-normative-judgment-about-organizations-55-readings-named-four-tied-one-question-raised-fifty-held-the-view-does-not-count-readings-a-claim-or-argument-grounds-on)
 - [11 Nov 06:13 — Synthesis review of 2026-11-11, ninth round: the formal-apparatus line in eighteen part accounts and a line account that integrates forty-nine entries directly; three claims filed by derivation; one claim found to be an account; promotion conditions and possibly defaulted lines listed for the owner](2026-11.md#synthesis-review-of-2026-11-11-ninth-round-the-formal-apparatus-line-in-eighteen-part-accounts-and-a-line-account-that-integrates-forty-nine-entries-directly-three-claims-filed-by-derivation-one-claim-found-to-be-an-account-promotion-conditions-and-possibly-defaulted-lines-listed-for-the-owner)
 - [11 Nov 04:12 — Synthesis review of 2026-11-11, eighth round: the pragmatic-transport line in twelve part accounts and a line account over them; four claims filed by derivation, one showing that the restated distortion measure charges nothing for loss; eleven moved promotion conditions carry the line and link to nothing in it](2026-11.md#synthesis-review-of-2026-11-11-eighth-round-the-pragmatic-transport-line-in-twelve-part-accounts-and-a-line-account-over-them-four-claims-filed-by-derivation-one-showing-that-the-restated-distortion-measure-charges-nothing-for-loss-eleven-moved-promotion-conditions-carry-the-line-and-link-to-nothing-in-it)
 - [11 Nov 03:03 — Synthesis review of 2026-11-11, seventh round: the distributed-agency line in ten part accounts and a line account over them; one claim filed by derivation, on the minimal conflicts among demands on offsets; ten questions in the line link to nothing in it; CLAIM-615's admission case found realistic and CLAIM-342's term found open](2026-11.md#synthesis-review-of-2026-11-11-seventh-round-the-distributed-agency-line-in-ten-part-accounts-and-a-line-account-over-them-one-claim-filed-by-derivation-on-the-minimal-conflicts-among-demands-on-offsets-ten-questions-in-the-line-link-to-nothing-in-it-claim-615s-admission-case-found-realistic-and-claim-342s-term-found-open)
@@ -45,10 +47,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-233 entries across 3 books, newest first.
+235 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 36 | 2026-11-01 | 2026-11-11 |
+| [2026-11](2026-11.md) | 38 | 2026-11-01 | 2026-11-11 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

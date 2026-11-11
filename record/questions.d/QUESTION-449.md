@@ -1,5 +1,8 @@
 ---
+number: 449
 status: Open
+formerly:
+- QUESTION-tmpmus93
 title: 'When an organization reproduces a mechanism that keeps its harm non-legible, does it matter to whether the counter-normativity is the organization''s own that another installed the mechanism, or does only whose process now maintains it decide?'
 version: 2
 history:
@@ -7,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     A dated note: Thompson's lecture and Stute's story, read at the
-    owner's request, and CASE-tmp4xp5m, a mechanism installed by one
+    owner's request, and CASE-232, a mechanism installed by one
     party and reproduced through a host's routine. No other change.
 tags:
 - ethics
@@ -37,9 +40,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-624 — Proposed; A's answer to the question this refines, cited for the standard its verdict needs -->
 <!-- inactive-ok-file: THEORY-040 THEORY-328 — Proposed; the two sides of TERM-100's open dispute, cited as such -->
-<!-- inactive-ok-file: THEORY-tmpkzkpc THEORY-tmpn3ohs — Proposed; the readings filed with this entry, cited with their standing -->
+<!-- inactive-ok-file: THEORY-1560 THEORY-1561 — Proposed; the readings filed with this entry, cited with their standing -->
 
-# QUESTION-tmpmus93: When an organization reproduces a mechanism that keeps its harm non-legible, does it matter to whether the counter-normativity is the organization's own that another installed the mechanism, or does only whose process now maintains it decide?
+# QUESTION-449: When an organization reproduces a mechanism that keeps its harm non-legible, does it matter to whether the counter-normativity is the organization's own that another installed the mechanism, or does only whose process now maintains it decide?
 
 ## Why it is a question
 
@@ -105,8 +108,8 @@ whose the breach is, not whether there is one.
 ## Note of 2026-11-11: Thompson, and Stute, read
 
 At the owner's request: Thompson's "Reflections on Trusting Trust"
-([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md), [NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)) and Stute's story of the attack met in
-practice ([THEORY-tmpn3ohs](../theory.d/THEORY-tmpn3ohs.md), [NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)), held as [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md).
+([THEORY-1560](../theory.d/THEORY-1560.md), [NOTE-1715](../notes.d/NOTE-1715.md)) and Stute's story of the attack met in
+practice ([THEORY-1561](../theory.d/THEORY-1561.md), [NOTE-1714](../notes.d/NOTE-1714.md)), held as [CASE-232](../cases.d/CASE-232.md).
 
 The case has the question's shape: a mechanism formed by someone who had
 left, reproduced on every compile by the host's own routine, and hidden

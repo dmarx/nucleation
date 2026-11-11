@@ -1,5 +1,8 @@
 ---
+number: 232
 status: Active
+formerly:
+- CASE-tmp4xp5m
 title: 'A former graduate student''s self-reproducing compiler Trojan horse, which kept a lab''s program flashing hateful messages by restoring its source on every compile and restored itself when the compiler was rebuilt from clean source'
 version: 1
 standing: stipulated
@@ -12,20 +15,20 @@ line:
 - organizational-normativity
 - distributed-agency
 reported_in:
-- THEORY-tmpn3ohs
+- THEORY-1561
 illustrates:
 - CLAIM-522
 summary: >-
-  Stute's story ([THEORY-tmpn3ohs](../theory.d/THEORY-tmpn3ohs.md)), the incident form of Thompson's attack
-  ([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md)), filed at the owner's request for [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
+  Stute's story ([THEORY-1561](../theory.d/THEORY-1561.md)), the incident form of Thompson's attack
+  ([THEORY-1560](../theory.d/THEORY-1560.md)), filed at the owner's request for [QUESTION-449](../questions.d/QUESTION-449.md).
   Stipulated: told as true, with nothing a reader can check. A mechanism
   formed by one party, reproduced by the host's own routine (compiling),
   hidden from the host, and removed only by replacing the binary that
   produces it.
 ---
-<!-- inactive-ok-file: THEORY-tmpkzkpc THEORY-tmpn3ohs — Proposed; the readings filed with this entry, cited with their standing -->
+<!-- inactive-ok-file: THEORY-1560 THEORY-1561 — Proposed; the readings filed with this entry, cited with their standing -->
 
-# CASE-tmp4xp5m: A former graduate student's self-reproducing compiler Trojan horse, which kept a lab's program flashing hateful messages by restoring its source on every compile and restored itself when the compiler was rebuilt from clean source
+# CASE-232: A former graduate student's self-reproducing compiler Trojan horse, which kept a lab's program flashing hateful messages by restoring its source on every compile and restored itself when the compiler was rebuilt from clean source
 
 ## The case
 
@@ -54,7 +57,7 @@ machine of the same revision. The compiler also backdoored login.
   source, at every level the lab could see, left it in place; only
   replacing the producing binary removed it.
 
-## Bearing on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md)
+## Bearing on [QUESTION-449](../questions.d/QUESTION-449.md)
 
 The question asks whether an installed origin matters to whether an
 organization's counter-normativity is its own, or whether only whose
@@ -68,5 +71,5 @@ mechanism it can see. The reading is the assistant's.
 ## Standing
 
 Stipulated. The story names no institution, date or record, and follows
-Thompson's published construction ([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md)) closely; it is used
+Thompson's published construction ([THEORY-1560](../theory.d/THEORY-1560.md)) closely; it is used
 for what it makes clear, not as evidence that the incident occurred.
