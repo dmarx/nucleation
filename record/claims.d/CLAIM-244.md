@@ -41,7 +41,8 @@ summary: >-
   one moves the criterion to the analyst, and neither says it is
   task-free.
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses this objection is to, as worded; the objection stays pointed at them -->
 <!-- inactive-ok-file: CLAIM-128 — Proposed; open, and cited as the line's own theses the defeat conditions are inconsistent with, not as settled -->
 <!-- inactive-ok-file: CLAIM-240 CLAIM-220 CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in "Where it stands" -->
 

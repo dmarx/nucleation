@@ -4,7 +4,19 @@ status: Active
 formerly:
 - CLAIM-tmpl246t
 title: 'The adjoint of a square-integrable integral operator is the integral operator with the conjugate-transposed kernel'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    corroborates CLAIM-370 added, from the missing relations
+    listed by the ninth synthesis review of 2026-11-11. This
+    claim's 'T is self-adjoint, when μ = ν, exactly when k(x,y) =
+    k̄(y,x) almost everywhere', for a kernel in L²(μ⊗ν), gives
+    independently the self-adjointness CLAIM-370 proves for its
+    symmetric, square-integrable kernel K⁺; CLAIM-370's proof does
+    not use it, so the relation is corroboration, not a premise.
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -32,6 +44,8 @@ summary: >-
   when k(x,y) = k̄(y,x) almost everywhere. It does not say where the
   symmetry of k comes from, which is [THEORY-009](../theory.d/THEORY-009.md)'s question, and it is not
   claimed for kernels that are not square-integrable.
+corroborates:
+- CLAIM-370
 ---
 
 # CLAIM-291: The adjoint of a square-integrable integral operator is the integral operator with the conjugate-transposed kernel

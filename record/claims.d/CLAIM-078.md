@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmplxqew
 title: 'The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -24,6 +24,14 @@ history:
     force: ARG-026 rejected the text-similarity test, and CLAIM-202
     and CLAIM-220 replaced it. Meeting this criterion does not meet
     CLAIM-220's.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    "Where it went" called this the success condition CLAIM-115 needs,
+    in the present tense; CLAIM-115 was superseded by CLAIM-220 on
+    2026-10-29. The sentence is put in the past, and says, as version
+    3's note does, that meeting this criterion does not meet
+    CLAIM-220's. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,7 +56,8 @@ summary: >-
 complements:
 - CLAIM-202
 ---
-<!-- inactive-ok-file: CLAIM-059 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-059 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the line's distinctive test, cited as carrying the stronger rival, open -->
 
 # CLAIM-078: The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws
@@ -73,8 +82,11 @@ predictive behavior of those structures under actual ... reconstruction."
 Manuscript §10, Case I: "A meaningful success is incremental prediction of
 held-out human communicative-fidelity judgments." The compositional half (chains
 behaving as [CLAIM-056](CLAIM-056.md) and [CLAIM-059](CLAIM-059.md) predict) and the statement of what remains to be
-shown are not in it. It is the success condition the central thesis ([CLAIM-115](CLAIM-115.md))
-needs, alongside its defeat condition.
+shown are not in it. It was the success condition the central thesis ([CLAIM-115](CLAIM-115.md))
+needed, alongside its defeat condition. [CLAIM-115](CLAIM-115.md) was superseded on
+2026-10-29 by [CLAIM-220](CLAIM-220.md), on which this claim now rests. [CLAIM-220](CLAIM-220.md)'s rival
+is a proposition with its force, stronger than text similarity, so meeting
+this criterion does not meet [CLAIM-220](CLAIM-220.md)'s.
 
 On 2026-10-10 the criterion came back in the exchange with a new target. A203
 §37 (U56) restated it as recognition of "the same communicative kind": "**Do

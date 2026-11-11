@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp85p0g
 title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -38,6 +38,15 @@ history:
     56, 72–73) proves and which stays in grounds; the 1954 paper is
     cited only for the second-countable form, as an attribution. The
     text is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: the bullet on the four senses of currency called
+    them successively stronger. TERM-077 says they are not one
+    chain: the second implies the first and the fourth the third,
+    and the pairs do not imply across. The bullet now says that.
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -167,7 +176,10 @@ each instant.
 
 - **"Currency" has four senses, and this claim separates two.** Ordinal
   extendibility, ordinal comparability, scalar currency and cardinal
-  trade-off structure are successively stronger ([TERM-077](../terms.d/TERM-077.md)).
+  trade-off structure are not one chain ([TERM-077](../terms.d/TERM-077.md)): the second implies
+  the first, and the fourth the third, but neither pair implies across,
+  since a complete scalar utility can exist with many pairs never
+  observed.
   "Ordering" here is the second, a complete preorder; a potential needs
   only the first, acyclic wins that some complete ordering extends.
   "Currency" here is the third. Part 4's exchange rates belong to the

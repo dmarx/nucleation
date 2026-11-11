@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpkdc9t
 title: 'A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -13,7 +13,14 @@ history:
     for affect: the routes and the causal effects in rodents, and the
     modest, partly null human evidence. It is added to the grounds. The
     claim is unchanged.
-
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary still said the time claim is filed here as the
+    owner's, and the body set out both parts as this claim's. The
+    first part has been CLAIM-316 since the split of 2026-10-15 (the
+    note of that date); both now say so. Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -43,7 +50,8 @@ summary: >-
   Considering myself as a multi-level agent, part of my composition is my
   microbiome ... that lower level collective is capable of influencing my
   higher level behavior and even phenomenological experience." The time
-  claim is filed as the owner's. The microbiome claim is grounded in two
+  claim, the first part, is now [CLAIM-316](CLAIM-316.md), split off on 2026-10-15
+  ([ADR-043](../decisions.d/ADR-043.md)). The microbiome claim is grounded in two
   reviews read the same day. The routes exist, and the effects are
   causal in rodents. The human evidence is modest: associations, small
   effects on subjective stress, and nulls.
@@ -65,7 +73,8 @@ impact things like my affect and level of hunger, so that lower level
 collective is capable of influencing my higher level behavior and even
 phenomenological experience."
 
-There are two parts:
+There are two parts. The first is now [CLAIM-316](CLAIM-316.md), split off on 2026-10-15
+(the note of that date); this claim keeps the second.
 1. **Drive profiles are time-indexed** ([TERM-051](../terms.d/TERM-051.md)). Who drives changes:
    by state (hungry or sated, stressed or calm), by task, and by regime.
    That is what the will line calls a change in which regime is effective

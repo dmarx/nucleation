@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpovy47
 title: 'Cross-modal reconstruction often improves a receiver''s access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text''s literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -30,6 +30,13 @@ history:
     title began: 'Cross-modal reconstruction can improve a
     receiver's access to an implicit communicative relation, as
     when'. Status and warrant unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-012, a relation the synthesis review of
+    2026-11-11 found missing, on its text: "It bears on QUESTION-012".
+    The line is unchanged under ADR-085: the target's line is already
+    this entry's. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +61,8 @@ complements:
 - CLAIM-256
 rests_on:
 - CLAIM-225
+bears_on:
+- QUESTION-012
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

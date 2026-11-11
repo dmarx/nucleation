@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpzeh33
 title: 'Solidarity, condemnation and humour: the parity obstruction'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    illustrates gains CLAIM-038, a relation the synthesis review of
+    2026-11-11 found missing, on its text: "It is the example for
+    CLAIM-038", and CLAIM-038's "The example is CASE-035". The line is
+    unchanged under ADR-085: the target's line is already this entry's.
+    No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -14,6 +23,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 illustrates:
 - CLAIM-037
+- CLAIM-038
 variant_of:
 - CASE-008
 summary: >-

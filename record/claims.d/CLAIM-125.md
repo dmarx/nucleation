@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpnyfix
 title: 'Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-10'
@@ -38,6 +38,13 @@ history:
     version 2 and CLAIM-207 at version 3, so no objection is live.
     Nothing in the record meets the defeat condition. The title, the
     defeat condition and the warrant are unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    A dated note says that the note of 2026-10-10, "displaced without
+    argument", repeats version 1's reading that signalling is typical of
+    language data, which version 2 withdrew, and gives version 2's
+    position. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -249,3 +256,13 @@ version 2's restatement, and [CLAIM-207](CLAIM-207.md) by version 3's scope sent
 says the answered half is about kernels between empirical models and not
 yet about translation. What the claim holds is that the literature read
 here leaves its two parts open, and nothing in the record settles either.
+
+## Note of 2026-11-11: how much signalling, as version 2 says
+
+The note of 2026-10-10, "displaced without argument", says the record
+found signalling "typical of language data ([NOTE-654](../notes.d/NOTE-654.md))". That is version
+1's reading, which version 2 withdrew the same day: the counts suggest
+that signalling is common in those corpus data, and they are weak evidence
+([CLAIM-235](CLAIM-235.md)). The case that an extension to signalling data is not optional
+rests on the reading of [LIT-264](../literature.d/LIT-264.md) and on [CLAIM-127](CLAIM-127.md)'s routes, as "How much
+signalling language data carry" says.

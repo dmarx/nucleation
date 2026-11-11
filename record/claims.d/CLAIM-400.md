@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4v4na
 title: 'In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or conferral (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from'
-version: 4
+version: 5
 history:
 - version: 1
   date: '2026-10-21'
@@ -34,6 +34,17 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    rests_on CLAIM-340 added, from the missing relations listed by
+    the ninth synthesis review of 2026-11-11. The answer to
+    QUESTION-253's own reading uses CLAIM-340's result: 'since γ =
+    4ηs(κ′ − κ̄) (CLAIM-340), a regime that only varies κ′ adds a
+    term in r·m to the authority update, second order at symmetry,
+    so it moves no linear threshold at all'. Both carry
+    distributed-agency first, so the step crosses no line. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,6 +62,7 @@ line:
 - formal-apparatus
 rests_on:
 - CLAIM-330
+- CLAIM-340
 grounds:
 - CASE-124
 - CASE-099

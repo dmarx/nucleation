@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpuveq0
 title: "What exactly is the counter-normativity committed by a self-maintaining organization that harms and reproduces the representational projections that make the harm non-legible, what makes it reproductive, and when is it the organization's own rather than its participants'?"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,14 +14,27 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Line order: organizational-normativity first, distributed-agency
+    second. The split of will-organization (ADR-089) replaced the
+    second line in place and left distributed-agency first, while
+    the question refines QUESTION-129, whose first line is
+    organizational-normativity, so ADR-085 supplies that line, and
+    SYNTHESIS-038 integrates it with its companions CLAIM-619,
+    ARG-055, ARG-064 and CASE-229, which have
+    organizational-normativity first. distributed-agency, the
+    question's own filing line, is kept second. Reported by the
+    synthesis review of 2026-11-11 (seventh round). No other change.
 tags:
 - ethics
 - self-governance
 - epistemology
 date: '2026-11-07'
 line:
-- distributed-agency
 - organizational-normativity
+- distributed-agency
 refines:
 - QUESTION-129
 summary: >-

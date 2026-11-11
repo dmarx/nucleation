@@ -31,7 +31,7 @@ summary: >-
 <!-- ref::uses-file: TERM-030 — stated in "frame, as a configuration of the communicative situation"; the body applies the term without naming it -->
 <!-- ref::uses-file: TERM-033 — stated in "fidelity, as observational equivalence over response trajectories"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-065 CLAIM-101 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
 # CLAIM-083: Pragmatic translation fidelity is the preservation, under corresponding communicative conditions, of the ways an utterance transforms interpretation, interpersonal alignment and the possibilities for subsequent interaction
 

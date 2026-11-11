@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9myih
 title: 'An organized whole''s operative intention is not the expectation of its members'' intentions; it is produced by systemic mechanisms that can evolve apart from what the members intend'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,13 @@ history:
     fail, which THEORY-725 (Active) proves for the court agenda. THEORY-725
     is added as the formal anchor, and the summary says "can fail to". The
     claim and its status are unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary called THEORY-127 "still Proposed"; it is Active, as
+    the note of 2026-10-27 already says, and the summary now says
+    so. Reported by the synthesis review of 2026-11-11 (seventh
+    round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,7 +46,7 @@ summary: >-
   exchange. List and Pettit's result that a group judging proposition by
   proposition from its members' judgments can fail to be rational is its
   formal anchor, proved for the court agenda ([THEORY-725](../theory.d/THEORY-725.md)); the general
-  impossibility is [THEORY-127](../theory.d/THEORY-127.md), still Proposed. The fictional cases
+  impossibility is [THEORY-127](../theory.d/THEORY-127.md), Active. The fictional cases
   illustrate it.
 complements:
 - CLAIM-332

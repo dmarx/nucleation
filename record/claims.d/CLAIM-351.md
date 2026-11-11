@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpf67p3
 title: 'A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand''s own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand''s maximum or saddle also has'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,16 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    complements CLAIM-366 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. This claim's
+    second case is 'Σ λ_i g_i = 0 ... so 0 ∈ conv{g_i}. In the
+    second case no d has g_iᵀd < 0 for all i', the common-descent
+    test whose invariance under reparameterization CLAIM-366 shows
+    ('0 ∉ conv{g_i}'). complements adds no line (ADR-085). No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -33,6 +43,7 @@ line:
 complements:
 - CLAIM-060
 - CLAIM-276
+- CLAIM-366
 uses:
 - TERM-060
 summary: >-

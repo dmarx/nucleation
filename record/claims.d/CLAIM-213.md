@@ -28,7 +28,8 @@ summary: >-
   operationalist one, which it would leave open as a tension rather than
   resolve. Proposed and not adopted.
 ---
-<!-- inactive-ok-file: CLAIM-139 CLAIM-142 CLAIM-209 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
+<!-- inactive-ok-file: CLAIM-142 CLAIM-209 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 # CLAIM-213: A proposed relational kind is a hypothesis about invariance across admissible changes of measurement and context, not an equivalence class under the measurements now available, so realism about kinds gains empirical content as extrapolation to probe families, populations and environments not used to construct them
 
 ## The claim

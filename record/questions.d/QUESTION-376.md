@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp3tq0j
 title: 'Since the clone of polymorphisms that fixes the complexity of satisfying a constraint language does not fix the complexity of navigating between its solutions, what property of the language does, beyond Boolean languages with single-variable flips and under resource budgets?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -13,6 +13,15 @@ history:
     status review's ruling (the owner delegated these rulings), on the full
     readings of Gopalan et al. and Schwerdtfeger (NOTE-1584, NOTE-1613),
     narrowing the sub-question on formulas without constants. It stays Open.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the summary listed languages without constants as
+    open whole, which the note of 2026-11-06 narrowed: st-
+    connectivity without constants is reported classified (Gopalan
+    et al. §5, Schwerdtfeger §6) and global connectivity stays
+    open. The summary now says so. No other change.
 tags:
 - mathematics
 - logic
@@ -31,8 +40,9 @@ summary: >-
   one clone and opposite navigation. The Bulatov–Zhuk dichotomy A cites
   classifies decision problems over fixed finite languages and says nothing
   about connectivity. Open: finite domains beyond Boolean, other move sets,
-  languages without constants, and budgets on the worst intermediate
-  state. The wording is A's; adopting it is the owner's call.
+  global connectivity for languages without constants (st-connectivity
+  without constants is reported classified, note of 2026-11-06), and
+  budgets on the worst intermediate state. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1555 NOTE-1572 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 

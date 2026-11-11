@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbvk4j
 title: 'A change in the global compatibility of a fixed scenario is either a change in contextuality proper, which the behavioural data read show none of, or a change in overlap consistency, which is ordinary context dependence and moves by at most 2ε when each context moves by ε'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-10'
@@ -36,6 +36,12 @@ history:
     behavioural data show none, or about inconsistent connectedness, the
     ordinary context dependence the line says it goes beyond'. The body is
     unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    A dated note says that "The objection" quotes CLAIM-105's version 1,
+    and gives its title and defeat condition as they now read. No other
+    change.
 role: counter
 warrant: demonstrated
 tags:
@@ -202,3 +208,16 @@ verdict on support, and it is now [ARG-032](../arguments.d/ARG-032.md), from [CA
 are about the subject matter, and undercuts that argument. Its objection
 to [CLAIM-105](CLAIM-105.md) stays, because the second horn says the headline is "not
 distinctive".
+
+## Note of 2026-11-11: [CLAIM-105](CLAIM-105.md) as it now reads
+
+"The objection" quotes [CLAIM-105](CLAIM-105.md)'s version 1: A78's "Translation may
+preserve local meanings while changing the global structure of meaning",
+then its title, and its condition that local preservation "always carries"
+global preservation. [CLAIM-105](CLAIM-105.md) was restated on 2026-10-10 after this
+objection and CLAIM-219, and retitled on 2026-10-19. Its title now reads
+"In documented reconstruction chains, steps that keep most local
+judgements commonly change their global compatibility", and its defeat
+condition is a prevalence test over documented chains, with signalling
+accounted for and a rate fixed in advance. Version 2's history says this
+claim is conceded there.

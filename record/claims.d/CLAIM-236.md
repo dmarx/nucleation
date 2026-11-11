@@ -41,7 +41,7 @@ summary: >-
   states it. It does not say the model is wrong or [CLAIM-111](CLAIM-111.md) false.
 ---
 <!-- inactive-ok-file: CLAIM-111 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; the central theses, cited only to say this claim is not their premise -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; cited as they stood, not as what the record now holds -->
 
 # CLAIM-236: Under the rational-speech-act model the distribution-over-situations thesis grounds on, a form's interpretation depends on what else the speaker could have said, so matching source and target posteriors needs a correspondence of alternative sets that translation changes and no entry names
 

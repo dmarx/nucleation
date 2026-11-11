@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpzwgk0
 title: 'When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host''s regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -26,6 +26,15 @@ history:
     Note of 2026-10-29 added: Cooper and West read (NOTE-1369);
     their route ends at dependence and has no higher-level unit. The
     question is unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    The summary said all the works it cites are filed unread, and
+    "Why it is a question" called Cooper and West (LIT-1225) unread.
+    LIT-1568 and LIT-1570 were read on 2026-10-27 (NOTE-1212,
+    NOTE-1211) and LIT-1225 on 2026-10-29 (NOTE-1369); both places
+    now say so. Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 tags:
 - individuation
 - philosophy-of-biology
@@ -45,7 +54,8 @@ summary: >-
   separate properties that evolve at different rates. An answer would say,
   route by route and on real systems, which properties each produces, and
   which of them a theory of individuality must require. All the works cited
-  are filed unread.
+  were filed unread; LIT-1568 and LIT-1570 are read since (NOTE-1212,
+  NOTE-1211), and the others are Unfetched or Unavailable.
 ---
 <!-- inactive-ok-file: CLAIM-603 NOTE-1658 THEORY-1351 — new or Proposed; the assistant's claim on specialization and dependency and a reading it cites, cited as open -->
 <!-- inactive-ok-file: LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
@@ -132,7 +142,8 @@ programmes disagree, the event may not have a single route at all. [NOTE-159](..
 already doubts that eukaryogenesis fits the transitions narrative.
 
 Selection for extreme specialization within a group (Cooper & West,
-[LIT-1225](../literature.d/LIT-1225.md), unread) is a sixth route. It works within a species, where the
+[LIT-1225](../literature.d/LIT-1225.md), unread when this was filed; read since, [NOTE-1369](../notes.d/NOTE-1369.md)) is a sixth
+route. It works within a species, where the
 exchange's routes cross lineages.
 
 The question is the exchange's. The record takes no position on its answer

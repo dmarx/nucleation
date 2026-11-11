@@ -48,8 +48,9 @@ summary: >-
 complements:
 - CLAIM-038
 ---
-<!-- inactive-ok-file: CLAIM-139 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-142 CLAIM-115 — Proposed; the claim that names the change and the manuscript's thesis, open -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; the thesis this objection is to, as worded; the objection stays pointed at it -->
+<!-- inactive-ok-file: CLAIM-142 — Proposed; the claim that names the change, open -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the manuscript's thesis, cited as it stood -->
 <!-- inactive-ok-file: ARG-029 — Proposed; the argument this claim moved to -->
 
 # CLAIM-247: The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record

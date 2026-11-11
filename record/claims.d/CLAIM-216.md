@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpattzh
 title: "A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -16,6 +16,13 @@ history:
     carries that in rests_on. The concession is written into CLAIM-204
     (version 3); CLAIM-139 is Superseded and keeps the objection as
     history. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "Where it stands" said Open and that the owner had decided neither
+    this objection nor A240's recommendations; the claim is Active since
+    2026-10-30, CLAIM-204 records the concession, and CLAIM-139 is
+    Superseded by CLAIM-204. The section now says so. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -39,9 +46,11 @@ summary: >-
   Active since 2026-10-30; CLAIM-204 concedes it. It says what would answer it, and does not say an integrative
   statement is useless.
 ---
-<!-- inactive-ok-file: CLAIM-204 CLAIM-139 — Proposed; the theses this objection is to, open -->
+<!-- inactive-ok-file: CLAIM-204 — Proposed; a thesis this objection is to, open -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; the thesis this objection is to, as worded; the objection stays pointed at it -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-201 CLAIM-228 CLAIM-217 — Proposed; the record's replies of 2026-10-10, open, cited as the separate theses and premises in question -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-082 CLAIM-115 — Proposed; open, cited as the premises the conjoined theses rest on or drop, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-082 — Proposed; open, cited as the premises the conjoined theses rest on or drop, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-215 CLAIM-209 — Proposed; the separate theses filed with this entry on 2026-10-10, open -->
 
 # CLAIM-216: A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another
@@ -150,9 +159,10 @@ naming the study in its defeat condition, as the record's replies do.
 
 ## Where it stands
 
-Open. The separate theses are filed as proposals beside [CLAIM-139](CLAIM-139.md) and
-[CLAIM-204](CLAIM-204.md), and the owner has decided neither this objection nor
-A240's recommendations.
+Active since 2026-10-30 (the note below): [CLAIM-204](CLAIM-204.md), which superseded
+[CLAIM-139](CLAIM-139.md) on 2026-10-29, records the concession. The separate theses are
+filed as proposals beside [CLAIM-204](CLAIM-204.md), and A240's recommendations are not
+adopted.
 
 ## Note of 2026-10-30: promoted
 

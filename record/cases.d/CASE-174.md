@@ -4,12 +4,23 @@ status: Proposed
 formerly:
 - CASE-tmpowpq1
 title: 'Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids'', its genome reduced to about a third of its coding capacity, and hundreds of host proteins imported into it, most encoded by the host''s own genes rather than transferred from the symbiont'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (batch 2) added from the reading of LIT-1560, which updates figures the case took from unread abstracts. The title is revised; version 1's title was 'Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids'', its genome reduced to a quarter, more than thirty genes moved to the host nucleus and their proteins imported back'.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary kept version 1's figures and reading (60 million
+    years; host control by gene transfer and import), which the note
+    of 2026-10-27 (batch 2) and the revised title correct from
+    LIT-1560: 90 to 140 million years, about two-thirds of the
+    coding capacity lost, and hundreds of imported proteins mostly
+    encoded by the host. The summary now says what the note and
+    title say. Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -22,7 +33,7 @@ reported_in:
 - LIT-1557
 - LIT-1560
 summary: >-
-  The amoeba Paulinella chromatophora's chromatophores descend from a cyanobacterium taken up about 60 million years ago, independently of the plastids. Their genome kept 26% of a free-living relative's genes and lacks essential pathways ([LIT-1621](../literature.d/LIT-1621.md)). Genes transferred to the nucleus make proteins that are imported into the chromatophores ([LIT-1557](../literature.d/LIT-1557.md)), and import is reviewed across systems in [LIT-1560](../literature.d/LIT-1560.md). Used as the case where host control emerges by gene transfer and import.
+  The amoeba Paulinella chromatophora's chromatophores descend from a cyanobacterium taken up independently of the plastids, about 90 to 140 million years ago by the review read ([LIT-1560](../literature.d/LIT-1560.md); [LIT-1557](../literature.d/LIT-1557.md)'s older estimate is 60). Their genome has lost about two-thirds of its original coding capacity ([LIT-1560](../literature.d/LIT-1560.md); against [LIT-1621](../literature.d/LIT-1621.md)'s comparator it kept 26% of a free-living relative's genes) and lacks essential pathways ([LIT-1621](../literature.d/LIT-1621.md)). Hundreds of proteins are imported into them, mostly encoded by the host's own genes; transfer from the symbiont played "only a circumstantial role" ([LIT-1560](../literature.d/LIT-1560.md)). Used as the case where host control emerges by import.
 ---
 <!-- inactive-ok-file: LIT-1621 LIT-1557 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 

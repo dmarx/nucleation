@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp8yo01
 title: 'Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    THEORY-032 leaves grounds, as the note of 2026-10-29 recorded
+    ("THEORY-032 moves from the grounds to corroborated_by") and the
+    front matter did not carry out; THEORY-032 already lists this claim
+    under corroborates. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,7 +30,6 @@ grounds:
 - LIT-045
 - LIT-154
 - LIT-895
-- THEORY-032
 complements:
 - CLAIM-137
 - CLAIM-477

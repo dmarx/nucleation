@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmpbwzkh
 title: 'The English localization of Ace Attorney: a Japanese courtroom game moved to an alternate Los Angeles, with "textually accurate" set against "emotionally accurate" by its localizer'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The sources called House (LIT-789) and Nida (LIT-791) Deferred; both
+    are Unavailable, as the directive above says. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -241,5 +247,5 @@ is a machine-learning work.
   Not read (the address returned an error); known only as quoted by
   Michael Clark, *The Gospel Coalition*, 8 May 2013. Unverified.
 - House, *Translation Quality Assessment* ([LIT-789](../literature.d/LIT-789.md)), and Nida, *Toward a
-  Science of Translating* ([LIT-791](../literature.d/LIT-791.md)): held, Deferred, unread here; named as
+  Science of Translating* ([LIT-791](../literature.d/LIT-791.md)): held, Unavailable, unread here; named as
   context only.

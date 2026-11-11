@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpt7lzm
 title: 'Is there a frame-independent communicative act that translations approximate, or is the act''s identity constituted by a family of frame-relative realizations?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    "Where it stands" called CLAIM-115 Proposed; it was superseded by
+    CLAIM-220 on 2026-10-29. The sentence now says so and gives
+    CLAIM-220, Proposed, as what keeps the question Open. No other
+    change.
 tags:
 - philosophy-of-language
 - linguistics
@@ -17,8 +25,9 @@ summary: >-
   manuscript takes the second horn in practice ([CLAIM-115](../claims.d/CLAIM-115.md)) but
   never argues against the first.
 ---
+<!-- inactive-ok-file: CLAIM-220 — Proposed; the restatement that bears on this question, open -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; answers proposed on 2026-10-10, cited as open -->
 
 # QUESTION-021: Is there a frame-independent communicative act that translations approximate, or is the act's identity constituted by a family of frame-relative realizations?
@@ -41,8 +50,8 @@ wrong kind of invariant") and refined the question into [QUESTION-001](QUESTION-
 The manuscript answers for the second position without saying so: communicative
 identity is characterized "rather than a privileged global semantic object"
 (Abstract), and "Neither a high-level latent coordinate nor a fixed hierarchy of
-levels is assumed primitive" (§2). Its answer is [CLAIM-115](../claims.d/CLAIM-115.md), which is Proposed,
-so the question stays Open. What would settle it is an argument, or a result,
+levels is assumed primitive" (§2). Its answer is [CLAIM-115](../claims.d/CLAIM-115.md), which [CLAIM-220](../claims.d/CLAIM-220.md) superseded on 2026-10-29.
+[CLAIM-220](../claims.d/CLAIM-220.md) bears on this question and is Proposed, so the question stays Open. What would settle it is an argument, or a result,
 that the first position predicts worse: a latent act variable that adds nothing
 once the relational observables are measured.
 

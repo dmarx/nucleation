@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmprn8pl
 title: 'A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-006, a relation the synthesis review of
+    2026-11-11 found missing, on QUESTION-006's note of 2026-10-11,
+    which lists it among "entries bearing on this question without being
+    linked to it". The line is unchanged under ADR-085: the target's
+    line is already this entry's. No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -25,6 +34,8 @@ summary: >-
   From the reading of Baez and Fong ([NOTE-598](../notes.d/NOTE-598.md)). The manuscript's Kf = f
   is the mean-only condition, which the cited theorem's counterexample
   shows is weaker than commuting with the generator.
+bears_on:
+- QUESTION-006
 ---
 
 # CLAIM-094: A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry

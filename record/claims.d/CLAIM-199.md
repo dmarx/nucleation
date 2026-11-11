@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp0jq5k
 title: 'Blackwell''s order bounds what a rendering makes possible for any receiver, and a given receiver''s access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -27,6 +27,17 @@ history:
     were rechecked (p13/claim199_xor.py), and the record's case (CASE-062)
     does not meet its defeat condition. The inactive-ok directive for
     THEORY-156, Active since the twelfth review, is removed.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-020 and QUESTION-016, a relation the
+    synthesis review of 2026-11-11 found missing, on QUESTION-020's note
+    of 2026-10-12: "That bears on how far improving the interpreter can
+    stand in for transmitted information", and QUESTION-016's note of
+    2026-10-12, which names it among the entries "on the part this
+    question holds open, interpreters with side information". The line
+    is unchanged under ADR-085: the target's line is already this
+    entry's. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,9 +75,13 @@ summary: >-
   usable-information literature was not held when it was filed; Xu et
   al.'s V-information is now read (note of 2026-10-21). It does not say
   which rule class real readers have.
+bears_on:
+- QUESTION-020
+- QUESTION-016
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-076 — Proposed; the manuscript's thesis and the blind-captioner design, cited as open -->
+<!-- inactive-ok-file: CLAIM-076 — Proposed; the blind-captioner design, cited as open -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the manuscript's thesis, cited as it stood -->
 
 # CLAIM-199: Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible
 

@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CASE-tmpklgk5
 title: 'Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The case illustrates CLAIM-346 while saying it is not
+    CLAIM-346's triple. The summary and "It is not CLAIM-346's
+    triple" now say how: the structural arm S matches CLAIM-346's
+    feasibility obstruction, and that is the one part the case
+    illustrates. Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -26,7 +36,9 @@ summary: >-
   (2026-11-04). Three organizations have identical task performance. Their
   limitations are structural, observational and governance limitations,
   and only intervention separates them. A cited [CLAIM-346](../claims.d/CLAIM-346.md) for the
-  distinctions, but [CLAIM-346](../claims.d/CLAIM-346.md)'s three obstructions are a different set.
+  distinctions, but [CLAIM-346](../claims.d/CLAIM-346.md)'s three obstructions are a different set;
+  only the structural arm matches one of them, feasibility, and that is
+  what the case illustrates of it.
   The observational arm is [CLAIM-535](../claims.d/CLAIM-535.md) and the governance arm is [CLAIM-357](../claims.d/CLAIM-357.md).
   A's meta-learning extension is a proposed study and is not filed here.
   The wording is A's, sharpened by the reader; adopting it is the owner's
@@ -100,7 +112,8 @@ three obstructions are feasibility, aggregation (no coherent social
 choice) and epistemic *coordination* (the coordinated-attack result). E's
 limitation is observation, not coordination over an unreliable channel.
 G's is an authority rule that selects badly, not a failure of aggregation
-to yield a choice. S matches [CLAIM-346](../claims.d/CLAIM-346.md)'s feasibility.
+to yield a choice. S matches [CLAIM-346](../claims.d/CLAIM-346.md)'s feasibility, and that is the
+one part of [CLAIM-346](../claims.d/CLAIM-346.md) this case illustrates.
 
 **Its method is matched behaviour, then intervention.** This is the pattern
 of [CASE-076](CASE-076.md), [CASE-125](CASE-125.md), [CASE-126](CASE-126.md) and [CASE-129](CASE-129.md). It is also the first two

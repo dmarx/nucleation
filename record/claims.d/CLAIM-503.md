@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphhbgz
 title: 'Over finitely many states and finite outcome sets, one experiment is ε-deficient relative to another in every decision problem with losses in [0, 1] exactly when a single Markov kernel brings it within ε in total variation at every state, so the deficiency computed as a linear programme is the least such ε'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-30'
@@ -19,6 +19,15 @@ history:
     ADR-047's ruling on re-derivations allows, and checked numerically
     with controls (p21/claim488_lecam_converse.py), re-run by the
     coordinator before the ruling.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: Connections quoted CLAIM-326's wording ('the
+    prior-free form or its exact relation to Le Cam's deficiency')
+    as said by both CLAIM-326 and CLAIM-380. CLAIM-380's wording
+    ('the prior-free form or the relation to Le Cam's deficiency')
+    is now quoted for it. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -135,7 +144,8 @@ the uniform one.
 ## Connections
 
 [CLAIM-326](CLAIM-326.md) and [CLAIM-380](CLAIM-380.md) state the Bayes-risk comparison for a stated
-prior, and each says it does not state "the prior-free form or its exact
+prior. [CLAIM-326](CLAIM-326.md) says it does not state "the prior-free form or its exact
+relation to Le Cam's deficiency", and [CLAIM-380](CLAIM-380.md) "the prior-free form or the
 relation to Le Cam's deficiency". This claim states that form for finite
 sets: the deficiency is the least ε by which every [0, 1]-loss problem
 can be matched at every state. [CLAIM-488](CLAIM-488.md) rests on it.

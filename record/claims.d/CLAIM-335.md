@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpu9ivq
 title: 'Transfer entropy measures directed predictive improvement, not information flow: as a conditional mutual information it is the source''s unique information about the target''s next value plus its synergy with the target''s past, so it can credit a source with a bit the source carries only jointly and read zero from sources that jointly fix the target, and conditioning on more series does not remove the synergy'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-17'
@@ -18,6 +18,14 @@ history:
     three-bit chain synergistic without this claim; there the synergy is in
     the target's components, the dual of this claim's arrangement. The claim
     is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: 'What it does not say' called transfer entropy
+    twice Granger causality for Gaussian data, where the body and
+    THEORY-700 say half (Granger causality is twice the transfer
+    entropy). It now says half. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -112,7 +120,7 @@ transfer.
 
 - **That transfer entropy is wrong as a predictive measure.** As
   predictive improvement it is exactly what [THEORY-641](../theory.d/THEORY-641.md) and
-  [THEORY-700](../theory.d/THEORY-700.md) say: a likelihood-ratio limit, and twice Granger causality
+  [THEORY-700](../theory.d/THEORY-700.md) say: a likelihood-ratio limit, and half Granger causality
   for Gaussian data.
 - **That a nonzero transfer entropy shows no influence.** In example 1,
   intervening on X_{t−1} does change Y_t, so Ay and Polani's interventional

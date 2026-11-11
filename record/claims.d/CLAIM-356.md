@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkb2i9
 title: 'An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-29'
@@ -37,6 +37,15 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: distributed-agency,
     since it objects to CLAIM-288. No other change.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    "Against CLAIM-288" and "What it does not say" attributed to
+    CLAIM-288 the verdict that such a simulation "cannot show
+    self-constitution" and an objection to CLAIM-284. CLAIM-288's
+    version 3 moved that verdict to ARG-015, which it now undercuts;
+    both places now say so. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -85,6 +94,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-016 CLAIM-174 CLAIM-367 THEORY-047 THEORY-054 THEORY-616 — Proposed or Deferred; open claims and readings, and a deferred claim cited in the body only, nothing here rests on their being settled -->
 <!-- ref::uses-file: TERM-100 — "Provenance. Where the objective came from. Here, the trainer.", which the claim holds apart from realization and governance, is TERM-100's formation provenance -->
+<!-- inactive-ok-file: ARG-015 — Proposed; the argument CLAIM-288 undercuts, which holds the verdict on the sufficiency tests -->
 
 # CLAIM-356: An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization
 
@@ -171,9 +181,12 @@ cost.
 
 ## Against [CLAIM-288](CLAIM-288.md)
 
-[CLAIM-288](CLAIM-288.md) says a simulation whose operators maximize modeller-fixed
-objectives "cannot show self-constitution, because the norms the
-organization appears to maintain are then the modeller's". A30 §8 applied
+[CLAIM-288](CLAIM-288.md) said, until its version 3, that a simulation whose operators
+maximize modeller-fixed objectives "cannot show self-constitution,
+because the norms the organization appears to maintain are then the
+modeller's". That verdict on the sufficiency tests is now [ARG-015](../arguments.d/ARG-015.md)'s, which
+[CLAIM-288](CLAIM-288.md) undercuts; [CLAIM-288](CLAIM-288.md) itself now says the norms are set by the
+modeller and not produced or revised by the organization. A30 §8 applied
 it to training without citing it: "the task loss is generally chosen by an
 experimenter". This claim grants [CLAIM-288](CLAIM-288.md) for self-constitution, which is
 a claim about governance. It denies the further step, that a norm the
@@ -212,5 +225,5 @@ that line reopens is the owner's decision, not made here.
   does not physically threaten the network's continued existence". It is a
   disturbance relative to the training organization's maintained
   objective, not to its viability.
-- It does not answer [CLAIM-288](CLAIM-288.md)'s objection to the constitutive thesis of
-  [CLAIM-284](CLAIM-284.md). It denies only that the objection reaches goal realization.
+- It does not answer [CLAIM-288](CLAIM-288.md)'s undercutting of [ARG-015](../arguments.d/ARG-015.md), the argument to
+  the constitutive thesis of [CLAIM-284](CLAIM-284.md). It denies only that the objection reaches goal realization.

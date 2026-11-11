@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmp6neu8
 title: 'What is the time-lagged form of the block criterion, for a collective whose members are weakly coupled at every instant but strongly connected through time-respecting paths of transmission, across generations and through stored artifacts?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    A dated note added citing QUESTION-222, which holds the same gap
+    (CLAIM-157's time-lagged block test) from the side of reduced
+    dynamics. Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 tags:
 - individuation
 - network-science
@@ -57,3 +65,12 @@ coupling, says over what window, and rejects a population whose members
 are correlated only because they receive the same input ([CASE-101](../cases.d/CASE-101.md),
 arm A). A time-respecting path, A9 warned, "indicates possible historical
 transmission, not by itself collective individuality."
+
+## Note of 2026-11-11: the same gap from reduced dynamics
+
+[QUESTION-222](QUESTION-222.md) holds the same gap from the side of reduced dynamics: a
+coarse variable whose reduced dynamics carry memory of eliminated
+variables, and whether a level whose history does the predicting is
+still a level. It cites [CLAIM-157](../claims.d/CLAIM-157.md)'s missing time-lagged block test, which
+is this question. Neither is a part of the other, so they are not
+related by `refines`.

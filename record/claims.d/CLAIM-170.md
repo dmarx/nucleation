@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptd6s2
 title: 'The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-11'
@@ -35,6 +35,14 @@ history:
     LIT-398 stays there. LIT-398's supports entry for this claim is
     removed. A note of 2026-10-29 says what holds the claim back. The
     claim is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    The summary still gave version 1's thesis, that agents are
+    identified by their will-organization; version 2 narrowed it to
+    willed agents, with agents in general identified by adaptation,
+    and the summary now says so. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,7 +75,9 @@ summary: >-
   will-organization)". In the discussion, the owner chose will-organization
   over operative will, in the form "jurisdiction of a will-organization".
   Operative will flickers with the drive profile; a will-organization is
-  maintained.
+  maintained. Narrowed the same day (version 2): agents in general are
+  identified by adaptation, and only willed agents are individuated by
+  their will-organization.
 complements:
 - CLAIM-174
 - CLAIM-155

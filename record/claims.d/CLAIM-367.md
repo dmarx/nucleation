@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw4w7a
 title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -29,6 +29,15 @@ history:
     2026-10-26, with the authors' untested explanation by dropout,
     are a candidate case of a network property sourced in the
     training regime. The claim is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    "What it does not say" attributed to CLAIM-288 the verdict that
+    a modeller-fixed objective cannot show self-constitution, which
+    CLAIM-288's version 3 moved to ARG-015; the sentence now states
+    CLAIM-288 as it reads and names ARG-015 for the verdict.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -79,6 +88,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-995 — Proposed; the dropout account of IOI's backup heads, cited as a candidate case, untested -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-157 — Proposed; open claims and readings, cited as open -->
+<!-- inactive-ok-file: ARG-015 — Proposed; the argument CLAIM-288 undercuts, which holds the verdict on the sufficiency tests -->
 
 # CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
 
@@ -177,9 +187,11 @@ claim is stated for any regulatory condition, so it holds of either.
   controllers." Systems B and C of [CASE-113](../cases.d/CASE-113.md) are where it would occur.
 - It does not say the training system is an agent with its own norms. Its
   objectives are the trainer's: "its normative significance derives from
-  the training objective chosen by the trainer." [CLAIM-288](CLAIM-288.md) says a
-  modeller-fixed objective cannot show self-constitution, and the training
-  system inherits that limit. A31's "Unity of optimization" is not its
+  the training objective chosen by the trainer." [CLAIM-288](CLAIM-288.md) says the
+  norms a modeller-fixed objective gives are set by the modeller and not
+  produced or revised by the organization, and the training system
+  inherits that limit. (That such a population cannot show
+  self-constitution is [ARG-015](../arguments.d/ARG-015.md)'s verdict, which [CLAIM-288](CLAIM-288.md) undercuts.) A31's "Unity of optimization" is not its
   "Unity of self-governance".
 - It does not decide anything about feeling. A31: "None of these
   capacities, individually or jointly, establishes phenomenal

@@ -1,8 +1,6 @@
 ---
 number: 153
 status: Active
-formerly:
-- CLAIM-153
 title: 'Failure of a self to hold together across contexts is a monodromy around a cycle of contexts: any two locally consistent contexts glue, and the minimal model of the obstruction needs three'
 version: 1
 history:

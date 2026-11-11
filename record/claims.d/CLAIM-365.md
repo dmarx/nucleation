@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpue67e
 title: 'On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -20,6 +20,13 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    "What it does not say" still said the claim rests on CLAIM-347,
+    which version 2 changed to `complements`; the sentence now says
+    it complements it. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -143,7 +150,8 @@ constraints need not obey this same bound."
   not, survives a consistent rescaling of g_i and ε_i together; its size
   does not. Per A37 the residual is "a quantitative refinement of a more
   basic order-theoretic feasibility problem, not the definition of
-  frustration itself", which is why it rests on [CLAIM-347](CLAIM-347.md).
+  frustration itself", which is why it complements [CLAIM-347](CLAIM-347.md), the
+  ordinal fact it refines, and does not rest on it.
 - **Anything beyond the convex local model.** A34: it "applies to this
   local linearized, norm-constrained problem; additional nonconvex
   architectural or discrete update constraints require different

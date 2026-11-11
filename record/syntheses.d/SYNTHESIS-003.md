@@ -79,11 +79,11 @@ summary: >-
   SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)); it was admitted as an
   independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
-<!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-611 — filed from the same exchange, Superseded -->
+<!-- inactive-ok-file: ADR-076 — filed from the same exchange, Superseded -->
+<!-- inactive-ok-file: CLAIM-611 — filed from the same exchange, Proposed; restored from this entry, which it supersedes -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-625 CLAIM-612 CLAIM-623 CLAIM-616 CLAIM-618 CASE-225 CASE-231 CASE-224 — filed from the same exchange, Proposed; components and restored owner contributions -->
-<!-- inactive-ok-file: SYNTHESIS-001 — filed from the same exchange, Proposed; the later thesis that rests on this one -->
+<!-- inactive-ok-file: SYNTHESIS-001 — filed from the same exchange, Superseded by CLAIM-615; the later thesis that rested on this one -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 — Proposed; components, cited with their standing -->
 
 # SYNTHESIS-003: When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it

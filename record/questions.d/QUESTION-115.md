@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Beyond what retention, dynamical independence and Ψ are known to track, can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-20'
@@ -52,6 +52,13 @@ history:
     criterion; it parts from EI on Eberhardt and Lee's (14) and
     note 6, and agrees with EI under a common distribution
     (THEORY-1169). The question is unchanged.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    "Why it is a question" called Krakauer et al. (LIT-1137) unread;
+    it was read on 2026-10-29 (NOTE-1400, and the note of that
+    date), and the sentence now says so. Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 tags:
 - individuation
 - information-theory
@@ -86,7 +93,7 @@ criterion, and they measure different things:
 
 - **Temporal information retention.** Krakauer et al.'s A* = I(S_{t+1}; S_t),
   A = I(S_{t+1}; S_t | E_t) and nC = I(S_{t+1}; E_t | S_t) ([LIT-1137](../literature.d/LIT-1137.md),
-  unread). A11 §5: the two principal measures do not decrease when the
+  unread when this was filed; read since, [NOTE-1400](../notes.d/NOTE-1400.md)). A11 §5: the two principal measures do not decrease when the
   candidate is enlarged, and the paper "explicitly states that
   determining precise boundaries requires a size cost or regularizer". A11
   proposed lag-dependent versions, A(Δ) = I(S_{t+Δ}; S_t | E_t), as its own

@@ -39,7 +39,7 @@ summary: >-
   retellings or cross-modal renderings", so a result on English paraphrase
   alone can meet it. It does not say intralingual results are irrelevant.
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses this objection is to, as worded; the objection stays pointed at them -->
 <!-- inactive-ok-file: CLAIM-033 CLAIM-087 — Proposed; open, cited for the grammar point and a design's target, not as settled -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 

@@ -1,0 +1,10 @@
+### Fixed
+
+- Defects the synthesis reviews of 2026-11-11 found in distributed-agency, pragmatic-transport and formal-apparatus (curation entries 030317, 041205 and 061331), each change with a version bump and a history note:
+  - stale text: summaries and notes left after the return from SYNTHESIS ([CLAIM-336](record/claims.d/CLAIM-336.md), [CLAIM-474](record/claims.d/CLAIM-474.md), [CLAIM-610](record/claims.d/CLAIM-610.md), [CLAIM-611](record/claims.d/CLAIM-611.md), [CLAIM-615](record/claims.d/CLAIM-615.md), [CLAIM-624](record/claims.d/CLAIM-624.md)), stale standing and "unread" works, and quotes of versions since changed;
+  - the Superseded [CLAIM-115](record/claims.d/CLAIM-115.md), [CLAIM-139](record/claims.d/CLAIM-139.md) and [CLAIM-427](record/claims.d/CLAIM-427.md) no longer treated as current: comments corrected across the record, [CASE-031](record/cases.d/CASE-031.md) repointed to [CLAIM-220](record/claims.d/CLAIM-220.md), and citations of [CLAIM-427](record/claims.d/CLAIM-427.md) attributed to [ARG-025](record/arguments.d/ARG-025.md);
+  - misstatements, among them [CLAIM-335](record/claims.d/CLAIM-335.md)'s "twice" (half), [CLAIM-521](record/claims.d/CLAIM-521.md)'s missing case code and [CLAIM-610](record/claims.d/CLAIM-610.md)'s misquoted title;
+  - [CLAIM-614](record/claims.d/CLAIM-614.md), [CLAIM-624](record/claims.d/CLAIM-624.md) and [QUESTION-441](record/questions.d/QUESTION-441.md) take organizational-normativity first, as their companions do;
+  - misplaced fields, self-referential `formerly` lists and leftover template comments;
+  - about forty missing relations, each supported by the text of the entries it joins.
+- Left for the owner, with reasons in the commit messages: [TERM-060](record/terms.d/TERM-060.md)'s definition, [CLAIM-336](record/claims.d/CLAIM-336.md)'s table, [CLAIM-341](record/claims.d/CLAIM-341.md)'s synchronic and diachronic forms, [ARG-033](record/arguments.d/ARG-033.md)'s and [ARG-029](record/arguments.d/ARG-029.md)'s conclusions, [CLAIM-616](record/claims.d/CLAIM-616.md)'s lines, and relations no field can carry (a case to a question).

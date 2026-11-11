@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpumwtu
 title: Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -14,6 +14,15 @@ history:
     2026-10-19 (record/promotion-audit/decisions/CLAIM-322.yaml). Its
     premise, CLAIM-264, is Active, no objection is filed, and
     CLAIM-011 states the same rule for correspondences.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the body quoted CLAIM-264 as if it still held the
+    evidential half, which CLAIM-264's version 2 (2026-10-19)
+    removed. The quotation is now attributed to CLAIM-264's
+    version 1, and the body says version 2 removed it. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,11 +51,13 @@ summary: >-
 
 ## The claim
 
-This is [CLAIM-264](CLAIM-264.md)'s evidential half, stated on its own. [CLAIM-264](CLAIM-264.md): "Agreement
+This is the evidential half split from [CLAIM-264](CLAIM-264.md) on 2026-10-15, stated on
+its own. [CLAIM-264](CLAIM-264.md)'s version 1 read: "Agreement
 under a probe family is evidence of shared structure only to the degree
 that the family was chosen independently of the comparison and is
 evaluated on cases it was not chosen on. A family selected to make two
-objects look alike shows that it can be selected."
+objects look alike shows that it can be selected." Its version 2
+(2026-10-19) removed that text, which this claim holds.
 
 It rests on [CLAIM-264](CLAIM-264.md)'s exact half. Two objects can agree on every probe
 in a restricted family without being isomorphic, and matching each probe's

@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmpk1015
 title: 'Indexed by a system''s control parameters, the compatibility complex of its synchronization demands gives each set of demands a region where they can be met together; an Arnold tongue is a locking region, where a demand is met by an attracting state, and each locking region lies inside the compatibility region of the same demands without needing to equal it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the body stated C_S = T_S for the ordinary 1:1
+    tongue unconditionally, though its section 'Two premises the
+    claim needs' (ARG-061) holds that this needs Q(λ) to be the
+    locked configurations; if Q(λ) is the whole torus C_S does not
+    depend on λ. The sentence now states that premise and points
+    to the section. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -87,8 +98,9 @@ attracting state that meets S meets every subset of S, so {S : λ ∈ T_S} is
 downward closed: a locking subcomplex of K(λ). And for the ordinary 1:1
 tongue, with the single demand of locking to the drive, every feasible
 point of the Adler model φ̇ = Δω − K sin φ has a stable branch, so there
-C_S = T_S. The tongue is the degenerate case in which feasibility and
-locking coincide. The gap opens with several demands, or with demands met
+C_S = T_S, provided Q(λ), the admissible configurations, are the locked
+ones (see "Two premises the claim needs"). The tongue is then the
+degenerate case in which feasibility and locking coincide. The gap opens with several demands, or with demands met
 only on an unstable branch. In that sense the owner's "generalization"
 holds.
 

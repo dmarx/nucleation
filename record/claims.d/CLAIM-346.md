@@ -4,7 +4,19 @@ status: Active
 formerly:
 - CLAIM-tmp442x9
 title: 'Feasibility, aggregation and epistemic coordination are independent obstructions to an organization''s realizing its demands: each can occur with the other two absent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: the citation the notes of 2026-10-29 corrected was
+    still uncorrected in the body. Construction 3 now cites
+    Halpern and Moses's Proposition 10 with Theorem 9 (the
+    eventual case, not Corollary 6's simultaneous one), and
+    credits Akkoyunlu et al. with mutual knowledge of delivery and
+    Halpern and Moses with the step to action, as the two notes
+    say. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -88,8 +100,9 @@ Information is complete and the operators share one site.
 moment to act has come. Both rank "act together when it has, and neither
 act otherwise" above every other outcome, and acting together is
 admissible. The only channel between them can lose any message. The
-coordinated attack result (Akkoyunlu et al. (1975); Halpern and Moses
-(1990) in terms of common knowledge) says no protocol guarantees that both
+coordinated attack result (Akkoyunlu et al. (1975) for mutual knowledge
+of delivery; Halpern and Moses (1990), Proposition 10 with Theorem 9, in
+terms of common knowledge and for action) says no protocol guarantees that both
 act or neither does while also acting in some run. The argument, in brief:
 take a run in which the moment has come, every message is delivered and
 both act, with k messages delivered before acting. Remove the last

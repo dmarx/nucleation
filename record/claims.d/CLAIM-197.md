@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpk4fd7
 title: 'Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-12'
@@ -17,6 +17,17 @@ history:
     against MoM's source chapters at MoM d987e2a: the sheaf condition (v1
     §10.4), the "tall" example (§10.6) and the opposite diagnosis in
     "Epistemic Drift and Semantic Simulation" (§11.3.3) are verbatim.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Records the note of 2026-11-07, 'agreeing sections that fail
+    to glue in a non-sheaf presheaf', from the exchange
+    'Individuation, Possibility, and Disposition', which was added
+    without a version bump or history entry; found by the ninth
+    synthesis review of 2026-11-11. The note qualifies the claim's
+    wording for presheaves that are not sheaves (CASE-224,
+    CLAIM-623) and changes no status; the restatement it implies
+    is the owner's. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

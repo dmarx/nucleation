@@ -4,13 +4,21 @@ status: Active
 formerly:
 - TERM-tmpzdpdt
 title: 'persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
   note: >-
     Adopted by the owner at the second review of nucleation#305, 2026-10-21:
     status Proposed → Active. The definition is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A dated note added: CASE-116 reads the archive arm as
+    CLAIM-287's dormant coalition, sense 5, as well as historical
+    persistence, so sense 3's "without the others" overstates it.
+    The definition is unchanged. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 tags:
 - individuation
 - complex-systems
@@ -103,3 +111,13 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 ## Note of 2026-11-07: the senses re-derived again, from "Individuation, Possibility, and Disposition"
 
 A, at A37 §4 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), tabulates "different kinds of persistence" as operative stability, repertoire stability, statistical persistence, viability, productive persistence and transformative continuity, and says "these properties can diverge". These are this term's senses under other names, assembled from earlier turns of the same exchange, and the term is not cited. The exchange of 2026-10-20 had already re-derived them, as this term's summary records. No change.
+
+## Note of 2026-11-11: the archived rule is also reinstatement
+
+Sense 3 says [CASE-116](../cases.d/CASE-116.md)'s rule passed through an archive has historical
+persistence "without the others". [CASE-116](../cases.d/CASE-116.md) also reads that arm as
+[CLAIM-287](../claims.d/CLAIM-287.md)'s dormant coalition, "the capacity to reinstate an organization
+rather than its continuous running", which is sense 5. So the arm has
+senses 3 and 5 without senses 1 and 2: the two entries do not disagree
+on the arm, but "without the others" overstates it. The definition is
+unchanged.

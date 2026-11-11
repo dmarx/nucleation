@@ -42,7 +42,8 @@ summary: >-
   decision-relative fidelity is wrong.
 ---
 <!-- inactive-ok-file: CLAIM-091 CLAIM-034 — Proposed; the compensation, interpreter and adaptive-translation claims this objection rests on or cites, open -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-128 — Proposed; the theses that rest on CLAIM-050, the open problem beside this one and the profile claim, cited as open -->
+<!-- inactive-ok-file: CLAIM-128 — Proposed; the open problem beside this one or the profile claim, cited as open -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses that rested on CLAIM-050, cited as they stood -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
 <!-- inactive-ok-file: CLAIM-212 — Proposed; the record's reply to this objection and the directed decision term, cited as open -->
 

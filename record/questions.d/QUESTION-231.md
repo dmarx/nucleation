@@ -1,26 +1,15 @@
 ---
 number: 231
-# Don't copy this file by hand — run `luria new question`. A QUESTION is an
-# open question the record's own argument is organised around. Claims and
-# THEORY readings name it in `answers`, and its page shows both (ADR-032).
-
-# Open | Answered | Dissolved | Deferred | Superseded
 status: Open
 formerly:
 - QUESTION-tmpwvrrh
-
-# The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Does Coifman and Lafon's α-normalized diffusion limit hold on a compact manifold with boundary, in L² on band-limited functions at a stated rate, and does the iterated operator P_{ε,α}^{t/ε} converge to the semigroup of the limit operator?"
-
 version: 1
 tags:
 - mathematics
 - probabilistic-modeling
 date: '2026-10-20'
-
-# REQUIRED: the line of inquiry, from `lines` in luria.yaml.
 line: 'formal-apparatus'
-
 summary: >-
   The boundary and semigroup halves of the promotion condition formerly on
   [THEORY-744](../theory.d/THEORY-744.md). [THEORY-744](../theory.d/THEORY-744.md) was narrowed to compact manifolds without
@@ -28,7 +17,6 @@ summary: >-
   kernel expansion re-derived. What it does not settle: the limit near a
   boundary, at the rate the source prints, and the heat-kernel limit that
   the source's Proposition 11 claims.
-
 ---
 
 # QUESTION-231: Does Coifman and Lafon's α-normalized diffusion limit hold on a compact manifold with boundary, in L² on band-limited functions at a stated rate, and does the iterated operator P_{ε,α}^{t/ε} converge to the semigroup of the limit operator?

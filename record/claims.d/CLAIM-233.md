@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphn6za
 title: 'The central theses'' defeat conditions pit them only against embedding, propositional or surface similarity, and two rivals the record holds, functional equivalence as Nida states it and a proposition with its illocutionary force, also predict that judged pragmatic observables beat text similarity'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-28'
@@ -48,6 +48,13 @@ history:
     functional accounts are a family, and documentary translation does
     not aim at the original's effect. The Gutt sentences now cite
     CLAIM-501 as held.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    The body said, after CLAIM-023, that the translation-studies works
+    the exchange recommended are absent from the record, and that Nida
+    is held through quotation; Nida and Nord were read on 2026-10-30, as
+    version 4's note records. The sentence now says so. No other change.
 role: granted
 warrant: interpretive
 tags:
@@ -77,7 +84,8 @@ complements:
 - CLAIM-232
 ---
 <!-- inactive-ok-file: ARG-026 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses this objection is to, as worded; the objection stays pointed at them -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-117 — Proposed; open, and cited as the distinctive claims whose own defeat conditions the thesis-level ones do not depend on -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier fidelity thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
@@ -107,8 +115,8 @@ translation is pragmatic or that speech acts change contexts, but a specified,
 testable account of which communicative distinctions a translation
 preserves". It names Gutt ([LIT-784](../literature.d/LIT-784.md), unread), and it records that the
 translation-studies works the exchange recommended (Nida, House, Reiss and
-Vermeer, Nord) are absent from the manuscript and from the record. One is
-held through quotation: Nida's principle, in his own words ([LIT-1864](../literature.d/LIT-1864.md), p. 129; [CASE-056](../cases.d/CASE-056.md) is its example), is that "the
+Vermeer, Nord) are absent from the manuscript, and were then absent from the
+record. Nida and Nord were read on 2026-10-30 ([LIT-1864](../literature.d/LIT-1864.md), [LIT-1863](../literature.d/LIT-1863.md)). Nida's principle, in his own words ([LIT-1864](../literature.d/LIT-1864.md), p. 129; [CASE-056](../cases.d/CASE-056.md) is its example), is that "the
 relationship between receptor and message should be substantially the same as
 that which existed between the original receptors and the message". That puts
 fidelity in the effect on the receiver, not in the text, so Nida's

@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpvvtbk
 title: 'An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members'' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    CLAIM-614, CLAIM-624 and QUESTION-441 now have
+    organizational-normativity first and distributed-agency second,
+    as their companions do; the account's descriptions of their
+    lines follow. Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the distributed-agency line on perspectives, legibility
@@ -278,13 +287,14 @@ includes distributed-agency.*
   the regime has become less responsive to evidence that it is no longer
   needed".
 - **The owner's thesis.** [CLAIM-614](../claims.d/CLAIM-614.md) (the owner's presupposition at U27 of
-  the second share; thesis, interpretive, Proposed; also
+  the second share; thesis, interpretive, Proposed; first line
   organizational-normativity) rests on [CLAIM-348](../claims.d/CLAIM-348.md) and [CLAIM-523](../claims.d/CLAIM-523.md) and grounds
   on [CASE-110](../cases.d/CASE-110.md): a self-maintaining organization that harms and reproduces the
   projections that make its harm non-legible "commits a counter-normativity
   distinct from the harm and attributable to it". Its body: "The parts are
   on the record; the wrong is not." [QUESTION-441](../questions.d/QUESTION-441.md) (the owner's U27,
-  verbatim; Open) asks what that counter-normativity is.
+  verbatim; Open; first line organizational-normativity) asks what that
+  counter-normativity is.
 - **A's answers.** [CLAIM-624](../claims.d/CLAIM-624.md) (A's, A60 to A62; thesis, interpretive,
   Proposed, admitted on a narrower title) rests on [CLAIM-614](../claims.d/CLAIM-614.md), [CLAIM-348](../claims.d/CLAIM-348.md),
   [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-462](../claims.d/CLAIM-462.md): the wrong is "a breach of a
@@ -373,9 +383,9 @@ includes distributed-agency.*
   [CLAIM-418](../claims.d/CLAIM-418.md); bears on [QUESTION-278](../questions.d/QUESTION-278.md).
 - [CLAIM-445](../claims.d/CLAIM-445.md), the owner's; thesis, interpretive, Proposed; also
   will-organization; rests on [CLAIM-446](../claims.d/CLAIM-446.md).
-- [CLAIM-614](../claims.d/CLAIM-614.md), the owner's; thesis, interpretive, Proposed; also
+- [CLAIM-614](../claims.d/CLAIM-614.md), the owner's; thesis, interpretive, Proposed; first line
   organizational-normativity; bears on [QUESTION-441](../questions.d/QUESTION-441.md) and [QUESTION-129](../questions.d/QUESTION-129.md).
-- [CLAIM-624](../claims.d/CLAIM-624.md), A's; thesis, interpretive, Proposed; also
+- [CLAIM-624](../claims.d/CLAIM-624.md), A's; thesis, interpretive, Proposed; first line
   organizational-normativity; complements [CLAIM-545](../claims.d/CLAIM-545.md), [CLAIM-620](../claims.d/CLAIM-620.md), [CLAIM-472](../claims.d/CLAIM-472.md)
   and [CLAIM-619](../claims.d/CLAIM-619.md); bears on [QUESTION-441](../questions.d/QUESTION-441.md), [QUESTION-129](../questions.d/QUESTION-129.md) and [QUESTION-041](../questions.d/QUESTION-041.md).
 - [CLAIM-619](../claims.d/CLAIM-619.md), A's; thesis, interpretive, Proposed; first line
@@ -394,7 +404,7 @@ includes distributed-agency.*
   [CASE-222](../cases.d/CASE-222.md), documented specimen, Proposed; first line pragmatic-transport.
 - [QUESTION-041](../questions.d/QUESTION-041.md), [QUESTION-257](../questions.d/QUESTION-257.md), [QUESTION-260](../questions.d/QUESTION-260.md) (refines [QUESTION-093](../questions.d/QUESTION-093.md)),
   [QUESTION-278](../questions.d/QUESTION-278.md) (refines [QUESTION-041](../questions.d/QUESTION-041.md)) and [QUESTION-279](../questions.d/QUESTION-279.md), Open. [QUESTION-441](../questions.d/QUESTION-441.md),
-  the owner's, Open; also organizational-normativity; refines [QUESTION-129](../questions.d/QUESTION-129.md).
+  the owner's, Open; first line organizational-normativity; refines [QUESTION-129](../questions.d/QUESTION-129.md).
   [QUESTION-439](../questions.d/QUESTION-439.md), the owner's, Open; first line pragmatic-transport; refines
   [QUESTION-360](../questions.d/QUESTION-360.md).
 - [TERM-080](../terms.d/TERM-080.md), [TERM-081](../terms.d/TERM-081.md) and [TERM-083](../terms.d/TERM-083.md), the owner's U12 with A12's maps,

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8lheg
 title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -27,6 +27,14 @@ history:
     2008 read; deprovincialization is the nearest contact process, its
     evidence is thin, and the 2008 meta-analysis leaves it untested.
     The claim is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    `complements` CLAIM-427 removed: CLAIM-427 is Superseded by
+    ARG-025 (ADR-061), which concludes this claim and carries the
+    pairing in its body ("Carried from CLAIM-427": "CLAIM-417, whose
+    defeater the grading reads"). Reported by the synthesis review
+    of 2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,7 +61,6 @@ uses:
 complements:
 - CLAIM-355
 - CLAIM-418
-- CLAIM-427
 - CLAIM-430
 - CLAIM-620
 works:

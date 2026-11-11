@@ -6,7 +6,7 @@ formerly:
 title: Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a sufficient
   state for updating on evidence about what it depended on
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -20,6 +20,14 @@ history:
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the body still named nucleating-argument as the
+    line CLAIM-295's thesis belongs to. Since the split of that
+    line (ADR-082) CLAIM-295 and this claim carry records-of-
+    inquiry, which the body now names. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -78,7 +86,7 @@ this entry does: "The construction proves that preserving the current
 marginal belief about H does not generally preserve everything required
 for subsequent Bayesian updating. ... The broader hypothesis about real
 research-agent memory should remain Proposed." The thesis the
-nucleating-argument line cares about, that some inquiries in fact lose
+records-of-inquiry line cares about, that some inquiries in fact lose
 revision competence this way, is [CLAIM-295](CLAIM-295.md) and stays Proposed.
 
 ## What it does not say

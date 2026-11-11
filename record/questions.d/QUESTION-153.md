@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpq3pd7
 title: 'Do the hyperbolic Betti-curve matches in odour space and in CA1 separate a hyperbolic metric from a flat sphere or a flat multiscale code, and do they replicate on other data?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    A link target had been spliced into the path of the promotion
+    audit's decision files; the path is restored and written as code, as
+    in QUESTION-156. No other change.
 tags:
 - neuroscience
 - natural-sciences
@@ -32,7 +39,7 @@ orders of correlations have the Betti-curve signature of a 3D hyperbolic
 ball and not of a uniform Euclidean cube. On 2026-10-19 both were
 narrowed to the data measured and promoted, at the owner's direction,
 carrying out the promotion audit's batch 018
-(record/promotion-audit/decisions/[THEORY-191](../theory.d/THEORY-191.md).yaml and [THEORY-192](../theory.d/THEORY-192.md).yaml,
+(`record/promotion-audit/decisions/THEORY-191.yaml` and `THEORY-192.yaml`,
 [ADR-047](../decisions.d/ADR-047.md) v3). Their promote_when clauses moved here unchanged.
 
 It is open for two reasons.

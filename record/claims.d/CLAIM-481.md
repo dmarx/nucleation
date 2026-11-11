@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmpywecm
 title: 'Coupling does not by itself separate time scales: two identical undamped oscillators coupled with stiffness k have normal modes at ω₀ and √(ω₀² + 2k), nearly equal when k ≪ ω₀², and neither decays; separation comes where the coupling dissipates relative differences faster than collective ones, as in ẋ = −ax − k(x − y), ẏ = −ay − k(y − x), whose collective and relative modes relax at rates a and a + 2k, and in a Laplacian flow ẋ = −κLx, where the spectrum of L sets the rates'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the body called Spivak (LIT-1649) unread, though
+    it is read in NOTE-1225 and cited so further down, and the
+    inactive-ok comment called LIT-1639 Deferred where it is
+    Unfetched (a lawful full text found on 2026-10-27, not
+    fetched). Both now say what the record holds. No other change.
 role: counter
 warrant: demonstrated
 tags:
@@ -35,7 +45,7 @@ summary: >-
   second half and is not a test of individuality.
 ---
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
-<!-- inactive-ok-file: LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: LIT-1639 — Unfetched; registered from the exchange, a lawful full text found on 2026-10-27 but not fetched, unread, cited for what it is standardly cited for -->
 
 # CLAIM-481: Coupling does not by itself separate time scales: two identical undamped oscillators coupled with stiffness k have normal modes at ω₀ and √(ω₀² + 2k), nearly equal when k ≪ ω₀², and neither decays; separation comes where the coupling dissipates relative differences faster than collective ones, as in ẋ = −ax − k(x − y), ẏ = −ay − k(y − x), whose collective and relative modes relax at rates a and a + 2k, and in a Laplacian flow ẋ = −κLx, where the spectrum of L sets the rates
 
@@ -59,7 +69,7 @@ separation, and [CLAIM-473](CLAIM-473.md) is false as stated.
 
 A22 §6 made the same point in port-Hamiltonian form. An ideal power-conserving
 interconnection ([LIT-1639](../literature.d/LIT-1639.md)) "can sustain oscillations indefinitely". And it
-cited Spivak ([LIT-1649](../literature.d/LIT-1649.md), unread) for one networked potential that admits a
+cited Spivak ([LIT-1649](../literature.d/LIT-1649.md), since read in [NOTE-1225](../notes.d/NOTE-1225.md)) for one networked potential that admits a
 heat-like or a wave-like dynamics: "**The same relational organization need not
 imply the same temporal hierarchy.**"
 

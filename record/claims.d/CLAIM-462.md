@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -29,6 +29,13 @@ history:
     all unread, may hold it already. It now says Cover is read and the
     other three are Unavailable, as the note of 2026-10-29 said. Title and
     defeater are unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    A dated note added: the note of 2026-10-29 that ends "stays
+    Proposed" was written the day the fifteenth status review
+    promoted the claim, and it is Active. Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -172,3 +179,9 @@ is unchanged and stays Proposed.
 ## Note of 2026-11-07: restated uncited, from the second share of "Individuation, Possibility, and Disposition"
 
 A62 §9 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) restates this claim without citing it: "The institution might continually improve its productive capability while degrading the structures that support answerability." Its chart is, in A's caption, "Conceptual illustration only, not empirical measurements". [CLAIM-624](CLAIM-624.md) uses "answerability" in this claim's sense. Unchanged.
+
+## Note of 2026-11-11: Active, not Proposed
+
+The note of 2026-10-29 on Cover ends by saying the claim stays Proposed.
+It was written on the day the fifteenth status review promoted the claim
+(version 3), and is of its time: the claim is Active.

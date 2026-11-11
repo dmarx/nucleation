@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp7gigk
 title: 'Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the summary said no signature is yet named, which
+    the note of 2026-10-12 already corrected (QUESTION-052 names a
+    first candidate). The summary now says the claim names none,
+    QUESTION-052 names a candidate, unproved for the directed
+    case. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,8 +45,9 @@ summary: >-
   and the priority theorem target), A232 (§3.2 and F2) and A240. Filed
   with [QUESTION-027](../questions.d/QUESTION-027.md)'s scope: the unrestricted claim is answered by
   standard results, so its content is in decisions outside the observed
-  probes. No signature is yet named. A proposal; the owner argued none of
-  it.
+  probes. The claim names no signature; QUESTION-052 names a first
+  candidate, unproved for the directed case (notes of 2026-10-12 and
+  2026-10-30). A proposal; the owner argued none of it.
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-129 — Proposed; open, and cited as the negative results and restatements this thesis sits beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-204 CLAIM-215 — Proposed; the revised October thesis, and the entries filed with this one on 2026-10-10, open -->

@@ -4,7 +4,7 @@ status: Answered
 formerly:
 - QUESTION-tmpt97t5
 title: 'Is endogenous governance part of what makes a system self-governing: can an organization that allocates authority among its own processes be self-governing in a stronger sense than a behaviourally equivalent one whose allocation an external scheduler sets?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,6 +15,13 @@ history:
     self-governance than an external scheduler; endogenous revision of
     the governing standards when they break down does. CLAIM-284, which
     also answers it, stays Proposed, and THEORY-219 bears on it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A dated note added: CLAIM-284, which the version 2 note says
+    stays Proposed, was promoted the same day by the thirteenth
+    status review and is Active. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 tags:
 - self-governance
 - self
@@ -69,3 +76,11 @@ proposes ([THEORY-1165](../theory.d/THEORY-1165.md)) rather than on the truth of
 stays [THEORY-219](../theory.d/THEORY-219.md)'s question. Its answer is the one the note above gives,
 and the question is now Answered. Whether that answer completes an account
 of the self is [CLAIM-284](../claims.d/CLAIM-284.md)'s question, which stays open.
+
+## Note of 2026-11-11: [CLAIM-284](../claims.d/CLAIM-284.md) is Active
+
+The history note of version 2 says [CLAIM-284](../claims.d/CLAIM-284.md), which also answers this
+question, stays Proposed. The thirteenth status review promoted it the
+same day, 2026-10-29 (its version 6), so it is Active. Whether it
+completes an account of the self, which the note of 2026-10-29 above
+leaves to it, is its own question.

@@ -36,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-242 — Proposed; the record's reply to this objection, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-082, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: THEORY-159 — Proposed; the readings of Saussure and of relative representations, cited for what they say, not as settled -->
 <!-- inactive-ok-file: ARG-033 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-072 — Superseded; moved to arguments the same day, cited as the claim whose last paragraph this objected to -->

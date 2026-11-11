@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpdxajb
 title: 'effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description''s adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,14 @@ history:
     Revised at the owner's second review of 2026-10-21: the regime no longer
     includes the description T, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), with Adequate(T; ℛ)
     and (T, ℛ) an evaluation instance. Adopted: status Proposed → Active.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the summary's last sentence, written before
+    adoption, said the term would add a name for what CLAIM-152,
+    CLAIM-302, CLAIM-387 and THEORY-424 relativize to. Adopted
+    since version 3, it now says it adds one. No other change.
 tags:
 - complex-systems
 - information-theory
@@ -35,7 +43,7 @@ summary: >-
   than an established term of art". The owner's second review took T out
   of the tuple, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), so that descriptions are compared
   under one regime. Adopted by the owner on 2026-10-21. It
-  would add a name for what [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-302](../claims.d/CLAIM-302.md), [CLAIM-387](../claims.d/CLAIM-387.md) and [THEORY-424](../theory.d/THEORY-424.md)
+  adds a name for what [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-302](../claims.d/CLAIM-302.md), [CLAIM-387](../claims.d/CLAIM-387.md) and [THEORY-424](../theory.d/THEORY-424.md)
   each relativize to; it replaces nothing.
 complements:
 - TERM-092

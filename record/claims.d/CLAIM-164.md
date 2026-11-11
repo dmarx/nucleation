@@ -1,10 +1,8 @@
 ---
 number: 164
 status: Active
-formerly:
-- CLAIM-164
 title: 'What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide'
-version: 4
+version: 5
 history:
 - version: 1
   date: '2026-10-11'
@@ -37,6 +35,16 @@ history:
   note: >-
     Note of 2026-10-29 added, from the reading of Zhang et al.
     (NOTE-1399). The claim is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the note of 2026-10-12 says THEORY-084 and
+    THEORY-078 ground this claim, which stopped being so when the
+    status review of 2026-10-27 moved them to corroborated_by
+    (that note took no history entry). A dated correction after
+    the note of 2026-10-12 says so; the note itself is kept as
+    written. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -99,6 +107,10 @@ dancer's own. That application is this record's.
 ## Note of 2026-10-12: evidence now linked
 
 Two THEORYs now ground this claim. [THEORY-084](../theory.d/THEORY-084.md): a spectral threshold on the lazy-regime Fisher is well posed only at gaps between blocks, with guarantees stated only for whole eigenspaces. [THEORY-078](../theory.d/THEORY-078.md), weaker because its attribution is made by eye: a cut at the bulk edge keeps the span of the class means, not C discriminative directions.
+
+Correction of 2026-11-11: neither grounds this claim now. Since the note of
+2026-10-27 both corroborate it, and the claim has no grounds; its core is
+Davis–Kahan.
 
 ## Note of 2026-10-19: which part of [THEORY-084](../theory.d/THEORY-084.md) is established
 

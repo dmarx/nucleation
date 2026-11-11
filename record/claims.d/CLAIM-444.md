@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp1xoac
 title: 'A replicator dynamic on the distribution of authority among an organization''s processes is the special case of the meaning–authority–legibility model in which the organization''s interpretation is the authority-weighted mixture of its processes'', evidence reaches scoring without a maintained regime of its own, and every process is scored on every step by one standard; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply to its expected motion, and the record''s separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -33,6 +33,13 @@ history:
     statement, and that note records it (ADR-047, kind 3). Every
     premise is Active, no objection is on file, and nothing in the
     record meets the defeat condition.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The standard cited as CLAIM-427's is now ARG-025's third grade:
+    CLAIM-427 is Superseded by ARG-025, which holds the grading.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -71,6 +78,7 @@ summary: >-
   identification. Read as a reduction, it says what [CASE-124](../cases.d/CASE-124.md)'s extra
   states are for.
 ---
+<!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: CLAIM-451 — cited as the tools the reduction brings in -->
 
 # CLAIM-444: A replicator dynamic on the distribution of authority among an organization's processes is the special case of the meaning–authority–legibility model in which the organization's interpretation is the authority-weighted mixture of its processes', evidence reaches scoring without a maintained regime of its own, and every process is scored on every step by one standard; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply to its expected motion, and the record's separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority
@@ -120,7 +128,8 @@ depend on π.
 So the replicator model is the null model for the record's governance
 dynamics. A claim that needs m or r should show a response to intervention
 that the replicator on authority, with population-dependent scores, does
-not reproduce at matched complexity ([CLAIM-427](CLAIM-427.md)'s standard).
+not reproduce at matched complexity ([ARG-025](../arguments.d/ARG-025.md)'s third grade, the standard [CLAIM-427](CLAIM-427.md)
+set out).
 
 ## What it does not say
 

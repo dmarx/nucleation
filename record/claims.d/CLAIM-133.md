@@ -43,7 +43,8 @@ superseded_by:
 - CLAIM-139
 ---
 <!-- inactive-ok-file: CLAIM-108 CLAIM-017 — Superseded; cited as the earlier theses whose wording this one brings back or follows -->
-<!-- inactive-ok-file: CLAIM-142 CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the premises, the manuscript's thesis and the successor are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the premise is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the manuscript's thesis and this entry's successor, cited as they stood -->
 
 # CLAIM-133: Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable
 

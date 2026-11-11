@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpp9ox0
 title: 'A self-governing organization''s robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,13 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    A dated note added: the notes of 2026-10-29 that end "stays
+    Proposed" were written the day the fifteenth status review
+    promoted the claim, and it is Active. Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -286,3 +293,9 @@ is unverified here. If the reading bears it out, it is the nearest
 observation the record can reach of a control suppressing disclosure,
 which bears on the step the note on Edmondson 1999 calls the claim's own
 inference. The claim stays Proposed.
+
+## Note of 2026-11-11: Active, not Proposed
+
+The three notes of 2026-10-29 above end by saying the claim stays
+Proposed. They were written on the day the fifteenth status review
+promoted it (version 2), and are of their time: the claim is Active.

@@ -28,7 +28,7 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-036 CLAIM-048 CLAIM-108 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-124 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-026: Translation is not the transmission of an invariant semantic object but the selective preservation of decision-relevant information across changing observational and interpretive structures

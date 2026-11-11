@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw83rc
 title: 'Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-10'
@@ -58,6 +58,12 @@ history:
     Version 4's rests_on were CLAIM-004 and CLAIM-061, and its summary
     said 'so it rests there'. CLAIM-255 leaves complements; it now rests
     on this claim. Title, defeater, status and warrant are unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    CASE-018 leaves grounds, as version 4 recorded and did not carry
+    out; CASE-018 already lists this claim under illustrates, so the
+    case stays linked as an illustration. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,7 +86,6 @@ rests_on:
 grounds:
 - LIT-482
 - CASE-069
-- CASE-018
 complements:
 - CLAIM-477
 - CLAIM-130
@@ -103,7 +108,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the general frame this claim is a domain case of, cited as open -->
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->
-<!-- inactive-ok-file: CLAIM-004 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
+<!-- inactive-ok-file: CLAIM-004 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-055 — Superseded; cited as the earlier appearance of the wording "partly constituted" -->
 
 # CLAIM-151: Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization

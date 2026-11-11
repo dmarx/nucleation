@@ -56,7 +56,8 @@ summary: >-
   conditions name neither task nor receivers; [CLAIM-220](CLAIM-220.md),
   [CLAIM-204](CLAIM-204.md) and [QUESTION-075](../questions.d/QUESTION-075.md) address that.
 ---
-<!-- inactive-ok-file: CLAIM-128 CLAIM-115 CLAIM-139 — Proposed; open, and cited as the relativity thesis this reconciles and the theses whose conditions it bears on, not as settled -->
+<!-- inactive-ok-file: CLAIM-128 — Proposed; open, and cited as the relativity thesis this reconciles, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses whose conditions it bears on, cited as they stood -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; the objection this entry answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open -->
 

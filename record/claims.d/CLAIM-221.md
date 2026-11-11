@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpc25sn
 title: 'The relational-constitution thesis''s defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -14,6 +14,14 @@ history:
     in NOTE-1453) joins grounds for the intention-based line's
     individuation of communicative acts. Berdini (LIT-1877) is cited
     in the body only. The title and text are unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on gains QUESTION-073, a relation the synthesis review of
+    2026-11-11 found missing, on its text: "QUESTION-073 holds it open",
+    and QUESTION-073's "Raised by CLAIM-221 and CLAIM-224". The line is
+    unchanged under ADR-085: the target's line is already this entry's.
+    No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -39,10 +47,13 @@ summary: >-
   ([LIT-482](../literature.d/LIT-482.md)) already supplies. The record's own model for [CLAIM-111](CLAIM-111.md) is of
   this family. The objection is open; it would narrow [CLAIM-151](CLAIM-151.md) to
   institutional acts unless an argument from uptake meets it.
+bears_on:
+- QUESTION-073
 ---
 <!-- inactive-ok-file: LIT-1041 LIT-1040 — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-111 CLAIM-139 CLAIM-137 — Proposed; cited as the claim that uses that model and the theses that rest on CLAIM-151, not as settled -->
+<!-- inactive-ok-file: CLAIM-111 CLAIM-137 — Proposed; cited as the claim that uses that model and the theses that rest on CLAIM-151, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; Goffman and Austin, unread here, cited as named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

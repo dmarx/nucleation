@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppqir6
 title: 'A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -44,6 +44,12 @@ history:
     or similarity structure over the realizations, so that the linear-readout
     result (CLAIM-269) does not carry across. The claim is
     unchanged and the status stays Proposed.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    A dated note says that the note of 2026-10-13 names CLAIM-142 as a
+    premise, which version 4 replaced with CLAIM-264, and gives the
+    premises now. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -164,3 +170,12 @@ communicative realizations reads them through one representation with a
 kernel. The restated test has not yet been weighed against the record's
 probe families on communicative realizations, so nothing yet says whether
 any of them meets it.
+
+## Note of 2026-11-11: its premises now
+
+The note of 2026-10-13 above says this claim keeps [CLAIM-142](CLAIM-142.md) as a premise,
+for carrying the result to communicative realizations. Version 4
+(2026-10-29) replaced [CLAIM-142](CLAIM-142.md) in `rests_on` with [CLAIM-264](CLAIM-264.md), since the
+claim uses only the relativity of observational equivalence, and [CLAIM-142](CLAIM-142.md)
+is now a complement. The premises are [CLAIM-264](CLAIM-264.md) and [CLAIM-269](CLAIM-269.md), as the note
+of 2026-10-29 says.

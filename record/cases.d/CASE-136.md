@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprzyow
 title: 'The doorway effect: memory for an object carried through a doorway into another room is worse than after walking as far within one, returning to the first room does not restore it, and outside the original laboratory''s set-up the effect has not always appeared'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -22,6 +22,14 @@ history:
     claim's defeat condition already said ("one illustration, not a
     ground of the distinction"), at the status review of 2026-10-30
     (ADR-057). The case is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The summary, "The case" and the standing bullet said the studies
+    were read from their abstracts and unread; all five were read on
+    2026-10-22 (NOTE-1079 to NOTE-1084, the note of that date), and
+    each place now says so. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 standing: documented
 kind: reported-study
 tags:
@@ -34,7 +42,7 @@ illustrates:
 summary: >-
   The owner's case at U37 of the branch of the exchange of 2026-10-22,
   offered as one the record's account of perspective and grounding may at
-  least partly explain. Reported studies, read here from their abstracts:
+  least partly explain. Reported studies, read first from their abstracts and since in full:
   an effect of event boundaries on accessibility, attributed to updating
   or to interference among event models, and replications that fail. Not
   shown: that the effect is robust, or that the record's account explains
@@ -59,7 +67,8 @@ partial) simple, high-level explanation (or at the very least intuition)
 for The Doorway Effect (i.e. connect perspective and grounded
 experience)."
 
-The studies, from their abstracts, all registered unread:
+The studies, from their abstracts, all registered unread when the case was
+filed; all five are read since (the note of 2026-10-22):
 
 - **The finding.** Radvansky and Copeland ([LIT-1392](../literature.d/LIT-1392.md)): in a virtual
   environment, memory for the object just picked up and carried was worse
@@ -120,7 +129,8 @@ task continues, and a change of task with no doorway.
   effect"; the second are "computational results about hierarchical action
   learning, not experiments on human doorway forgetting".
 - **Standing.** The studies are documented; the reading is the exchange's,
-  and the papers have not been read.
+  and the papers, unread when the case was filed, are read since (the note
+  of 2026-10-22).
 
 ## Note of 2026-10-22: what the five papers show
 

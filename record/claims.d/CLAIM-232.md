@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgetbr
 title: 'Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -28,6 +28,12 @@ history:
     two human ratings share, and undercuts that argument in place of
     objecting to the theses. Its rests_on CLAIM-233 becomes complements,
     since the two are sibling objections to one inference.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The body said "It rests on CLAIM-233"; since version 2 (2026-10-28)
+    the two complement each other and this claim rests on nothing. The
+    sentence now says it complements CLAIM-233. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -52,7 +58,8 @@ summary: >-
   a design could answer it.
 ---
 <!-- inactive-ok-file: ARG-026 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses this objection is to, as worded; the objection stays pointed at them -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
 # CLAIM-232: Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither
@@ -90,7 +97,7 @@ of the stimulus, or a response style common to raters drawn from one
 population. No entry in claims, questions, cases or terms mentions method
 variance.
 
-It rests on [CLAIM-233](CLAIM-233.md): that objection says the baseline is one no rival
+It complements [CLAIM-233](CLAIM-233.md): that objection says the baseline is one no rival
 holds, and this one says the comparison with it is confounded as well.
 
 ## What it does not say

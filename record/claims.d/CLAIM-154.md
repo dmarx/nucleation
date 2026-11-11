@@ -1,8 +1,6 @@
 ---
 number: 154
 status: Active
-formerly:
-- CLAIM-154
 title: 'A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d''² exceeds the log prior-to-posterior variance ratio, where the model with the candidate stays regular at the parameters that switch it off'
 version: 3
 history:

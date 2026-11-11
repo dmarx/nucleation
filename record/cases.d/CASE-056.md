@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp25bmx
 title: 'J. B. Phillips''s "hearty handshake all round" for Paul''s "holy kiss", and Nida''s judgement that it keeps the greeting'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -14,6 +14,14 @@ history:
     read and joins reported_in, beside the book (LIT-791). A dated note
     records that the quotations are confirmed first-hand. The case text
     is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary called this the case for the necessity half of
+    CLAIM-061; that half has been CLAIM-486 since the split of
+    2026-10-28. The summary now names CLAIM-486 and CLAIM-061, and a
+    dated note says how to read the body's "halves of CLAIM-061". No
+    other change.
 standing: documented
 kind: specimen
 tags:
@@ -27,15 +35,16 @@ summary: >-
   16:16 and four parallels) as handshakes, which changes what the
   congregation is told to do; Nida (1964, p. 160) holds this up as
   equivalent effect, and the UBS handbooks call it a brave attempt.
-  The documented case for the necessity half of [CLAIM-061](../claims.d/CLAIM-061.md), on expert
-  judgement rather than reader evidence. The same handbooks document the
-  sufficiency half: where kissing is amorous, a literal "kiss" changes the
-  act.
+  The documented case for the necessity half, [CLAIM-486](../claims.d/CLAIM-486.md) since the
+  split of 2026-10-28, on expert judgement rather than reader evidence.
+  The same handbooks document the sufficiency half, [CLAIM-061](../claims.d/CLAIM-061.md): where
+  kissing is amorous, a literal "kiss" changes the act.
 reported_in:
 - LIT-791
 - LIT-1864
 ---
-<!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for the comparative test this case does not supply -->
+<!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half split from CLAIM-061, cited for the half this case documents -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited through Marlowe's transcription and Munday, and not leaned on beyond the quoted page -->
 
 # CASE-056: J. B. Phillips's "hearty handshake all round" for Paul's "holy kiss", and Nida's judgement that it keeps the greeting
@@ -249,3 +258,10 @@ rule that "correspondence in meaning must have priority over correspondence
 in style" (p. 134) sits uneasily with his verdict here, since the handshake
 changes the meaning to keep the response. The chapter does not say which
 wins.
+
+## Note of 2026-11-11: the two halves are two claims
+
+On 2026-10-28 the status review narrowed [CLAIM-061](../claims.d/CLAIM-061.md) to sufficiency and
+filed its necessity half as [CLAIM-486](../claims.d/CLAIM-486.md). Where the text above says "the
+necessity half of [CLAIM-061](../claims.d/CLAIM-061.md)", read [CLAIM-486](../claims.d/CLAIM-486.md); "both halves of [CLAIM-061](../claims.d/CLAIM-061.md)"
+are now [CLAIM-486](../claims.d/CLAIM-486.md) and [CLAIM-061](../claims.d/CLAIM-061.md).

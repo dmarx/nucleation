@@ -46,7 +46,8 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-483 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
-<!-- inactive-ok-file: CLAIM-004 CLAIM-024 CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-004 CLAIM-024 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; cited as they stood, not as what the record now holds -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

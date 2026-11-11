@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpjzq22
 title: 'A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,6 +15,15 @@ history:
     functions and how", which the split holds Active; whether the proposal
     is true stays THEORY-167's question. THEORY-167's supports entry for
     this claim is removed. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary and "What it does not say" cited CLAIM-145 for the
+    circularity point, which moved from CLAIM-145 to ARG-014 on
+    2026-10-28; they now cite ARG-014, and the summary cites CLAIM-145
+    for the prior art only. Propp's "differ in who performs the
+    functions and how" is cited to THEORY-1164, where version 2 moved
+    the ground, in place of THEORY-167. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,13 +57,14 @@ summary: >-
   inversion, subversion and parody. Comparing such families tests
   whether relational measures track communicative identity where
   surface similarity fails. A178 made it Study B; A191 §8 gave it five
-  manipulations. The record objects that the analysis is Propp's and
-  Lévi-Strauss's, and that the catalogue cannot validate it
-  ([CLAIM-145](CLAIM-145.md)).
+  manipulations. The record holds that the analysis is Propp's and
+  Lévi-Strauss's ([CLAIM-145](CLAIM-145.md)), and that the catalogue cannot validate it
+  ([ARG-014](../arguments.d/ARG-014.md), Rejected).
 bears_on:
 - QUESTION-002
 ---
-<!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp that is the prior art, not as settled -->
+<!-- inactive-ok-file: THEORY-167 — Proposed; named in the history as the reading the ground moved from -->
+<!-- inactive-ok-file: ARG-014 — Rejected; the argument from the catalogue's labels to this claim, cited for its verdict -->
 
 # CLAIM-147: A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation
 
@@ -104,12 +114,12 @@ separate question.
   simplest experiment would train a classifier ... But that would miss much
   of what makes this case attractive."
 - It does not say the analysis is new in kind. Propp's functions
-  ([THEORY-167](../theory.d/THEORY-167.md): "differ in who performs the functions and how") and
+  ([THEORY-1164](../theory.d/THEORY-1164.md): "differ in who performs the functions and how") and
   Lévi-Strauss's transformations ([CLAIM-019](CLAIM-019.md)) are the same move on
   folktales and myths. A155 names neither.
 - It does not say the catalogue's labels can validate it. A trope's
   description is written to fit its examples, so agreement with the labels
-  is editorial agreement ([CLAIM-145](CLAIM-145.md), [QUESTION-005](../questions.d/QUESTION-005.md)). A155 §5's own
+  is editorial agreement ([ARG-014](../arguments.d/ARG-014.md), [QUESTION-005](../questions.d/QUESTION-005.md)). A155 §5's own
   remedy, "a small, independently validated set of tropes" and evaluation
   "on held-out trope families", would meet that objection if it were
   carried out.

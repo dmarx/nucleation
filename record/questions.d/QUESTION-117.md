@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpamn8i
 title: 'Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -48,6 +48,14 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    The summary and "Why it is a question" called the four candidate
+    predecessors registered unread. LIT-1146 was read on 2026-10-24
+    (NOTE-1135) and the other three on 2026-10-29 (the note of that
+    date), so both now say so. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 tags:
 - complex-systems
 - network-science
@@ -61,7 +69,8 @@ summary: >-
   issues by reflected appraisal, and may be the closest predecessor of
   [CLAIM-297](../claims.d/CLAIM-297.md)'s circuit. Adaptive networks (Holme and Newman; Gross and
   Blasius) and persuasion bias (DeMarzo, Vayanos and Zwiebel) may explain
-  capture more simply. All registered unread: LIT-1146, LIT-1128, LIT-1139, LIT-1134. An answer derives [CASE-092](../cases.d/CASE-092.md),
+  capture more simply. Registered unread when filed, all four since read: LIT-1146
+  (NOTE-1135), LIT-1128, LIT-1139 and LIT-1134 (the note of 2026-10-29). An answer derives [CASE-092](../cases.d/CASE-092.md),
   or a reduction of it, inside one of these models, or names the outcome
   they forbid and it allows.
 ---
@@ -84,7 +93,9 @@ modes persist through turnover and individuate an organization, is
 [QUESTION-115](QUESTION-115.md) and [QUESTION-118](QUESTION-118.md). A15: "We can establish the first
 without establishing the second."
 
-The candidate predecessors, as A15 described them (registered, unread):
+The candidate predecessors, as A15 described them (registered unread when
+this was filed; all four are read since, [LIT-1146](../literature.d/LIT-1146.md) in [NOTE-1135](../notes.d/NOTE-1135.md) and the
+others in the note of 2026-10-29):
 
 - **Reflected appraisal** (Jia, MirTabatabaei, Friedkin and Bullo, [LIT-1146](../literature.d/LIT-1146.md)): opinions
   converge on each issue, and each member's social power on the next

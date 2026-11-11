@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdt857
 title: 'Blackwell''s order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line''s claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis''s own defeat condition'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-10'
@@ -31,6 +31,13 @@ history:
     CLAIM-115, Proposed, which this claim now undercuts. The title is
     unchanged, because it is wholly about the subject matter. The body is
     unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    The objection said the record holds CLAIM-087 and CLAIM-050 both as
+    Proposed and does not connect them; CLAIM-050 is Active and
+    CLAIM-087 rests on this claim since 2026-10-27. The sentence is put
+    in the past and says so. No other change.
 role: counter
 warrant: demonstrated
 tags:
@@ -63,7 +70,7 @@ rests_on:
 - CLAIM-270
 ---
 <!-- inactive-ok-file: CLAIM-087 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for its receiver and its defeat condition, open -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: ARG-019 — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-225: Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition
@@ -128,8 +135,9 @@ not defeat [CLAIM-050](CLAIM-050.md). But Blackwell's theorem forbids a garbling
 better on any single task. So a garbling that real receivers do better
 with, on even one task, shows that their standard is not Blackwell's order
 for that task. [CLAIM-081](CLAIM-081.md)'s legibility is not a task in the manuscript's
-family Q, and it supports the point only. The record holds [CLAIM-087](CLAIM-087.md) and
-[CLAIM-050](CLAIM-050.md) both as Proposed and does not connect them.
+family Q, and it supports the point only. When this was filed the record held [CLAIM-087](CLAIM-087.md) and
+[CLAIM-050](CLAIM-050.md) both as Proposed and did not connect them. [CLAIM-050](CLAIM-050.md) is now Active,
+and [CLAIM-087](CLAIM-087.md) rests on this claim since 2026-10-27.
 
 **The nearest acknowledgement is for networks.** [THEORY-176](../theory.d/THEORY-176.md)'s relation 2:
 "The rules the stitched network can use are A_{>ℓ} ∘ s with s ∈ S, not

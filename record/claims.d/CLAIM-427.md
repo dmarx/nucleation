@@ -6,7 +6,7 @@ superseded_by:
 formerly:
 - CLAIM-tmpcp1lb
 title: 'Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework''s defeater, and no grade counts if success is defined in the framework''s own terms'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-26'
@@ -50,6 +50,15 @@ history:
     CLAIM-414 and the lab's cases to CLAIM-417. Its work and its defeat
     condition are carried into the argument's body. The text below is
     unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    `complements` CLAIM-417 and CLAIM-342 removed, from both sides:
+    the claim is Superseded by ARG-025, whose body already keeps
+    them ("Carried from CLAIM-427"), and in-force claims no longer
+    complement a superseded one. The text is unchanged. Reported by
+    the synthesis review of 2026-11-11 (seventh round). No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -71,9 +80,6 @@ works:
 - organization-of-perspective
 rests_on:
 - CLAIM-414
-complements:
-- CLAIM-417
-- CLAIM-342
 summary: >-
   From the exchange of 2026-10-23, "Framework Overview Request": the
   owner's U3, "what's the value add here? be it achieved or just

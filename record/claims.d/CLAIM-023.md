@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7cc3w
 title: 'The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -18,6 +18,13 @@ history:
     body's "Krifka, read" is the record's check that speech acts
     changing contexts is prior art. LIT-784's supports entry for this
     claim is removed. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A dated note says that "What was lost" describes the record when
+    filed: Krifka is read, Nida and Nord were read on 2026-10-30 and
+    Gutt's 1989 thesis skimmed, while Translation and Relevance
+    (LIT-784) stays unread. No other change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -87,3 +94,13 @@ Proposal v6's three novelty claims (A100) were withdrawn into §1's disclaimer.
 The exchange's description holds: Krifka ([LIT-835](../literature.d/LIT-835.md)) models speech acts
 formally as informative and performative updates. He does not touch
 translation.
+
+## Note of 2026-11-11: what the record now holds
+
+"What was lost" describes the record as it stood when this claim was
+filed. Krifka is read since ([LIT-835](../literature.d/LIT-835.md), "Krifka, read" above). On 2026-10-30
+the record read Nida's "Principles of Correspondence" ([LIT-1864](../literature.d/LIT-1864.md),
+[NOTE-1451](../notes.d/NOTE-1451.md)) and Nord's "Translating as a purposeful activity" ([LIT-1863](../literature.d/LIT-1863.md),
+[NOTE-1448](../notes.d/NOTE-1448.md)), and skimmed Gutt's 1989 thesis of the same title as his book
+([LIT-1845](../literature.d/LIT-1845.md), [NOTE-1435](../notes.d/NOTE-1435.md)). The thesis is a different work: *Translation and
+Relevance* itself ([LIT-784](../literature.d/LIT-784.md)) is still Unavailable and unread.

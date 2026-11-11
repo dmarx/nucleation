@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpovbjd
 title: 'When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -31,12 +31,26 @@ history:
     arose in inferring an organization's perspectives from its members'
     activity (QUESTION-276), with interventions proposed and none
     run. The question is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    `refines` QUESTION-035 and QUESTION-033 added. The summary: "It
+    bears on QUESTION-035, QUESTION-033"; the body: these are "the
+    kind QUESTION-035 must handle", QUESTION-033 "wants drive
+    apportioned among members", and an answer gives "which of
+    QUESTION-035's tests can and cannot see the difference". Their
+    first line, distributed-agency, is already this question's
+    (ADR-085). Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 tags:
 - natural-sciences
 - complex-systems
 - ecology
 date: '2026-10-12'
 line: 'distributed-agency'
+refines:
+- QUESTION-035
+- QUESTION-033
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-035](QUESTION-035.md), [QUESTION-033](QUESTION-033.md),

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7y162
 title: 'When the resource that pays for crossing barriers also sets the costs it pays, as heat does when DNA origami folds, reaching a target within a time budget need not be monotone in the resource: the target can be reached only in a window of levels that more time widens, and a schedule of levels can reach what no constant level reaches; budgeted reachability with fixed costs, where more budget never loses a reachable state, is the special case of a resource that leaves the costs unchanged'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,13 @@ history:
     more time widens", a universal its body ("can form a window") and
     defeated_if do not assert. CASE-216, its one premise, was promoted
     in the same change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A duplicated "No status changes." removed from the note of
+    2026-11-05 on the further DNA origami readings, where each reading
+    already ends with it; from the defects listed in the synthesis
+    review of 2026-11-11 (curation entry 015730). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -161,8 +168,6 @@ high excess), but at the single fold this is an equilibrium effect, not a
 time-budget one (a twofold slower anneal gives the same trend), so the
 claim's heat-and-barrier mechanism is not what drives it. No status
 changes.
-
-No status changes.
 
 ## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
 

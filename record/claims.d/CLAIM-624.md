@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptfuky
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-07'
@@ -59,6 +59,26 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    The summary ended by saying the claim moved from CLAIM-624 into
+    the SYNTHESIS scheme, as though it were still there; it now says
+    it moved as SYNTHESIS-002 on 2026-11-07 and returned to CLAIM on
+    2026-11-08 (ADR-084). The synthesis's own italic line, "Moved
+    from CLAIM-624", pointed at this entry as if from another; it
+    now says it was moved, as SYNTHESIS-002, from this claim. Line
+    order: organizational-normativity first, distributed-agency
+    second. The split of will-organization (ADR-089) replaced the
+    second line in place and left distributed-agency first, while
+    the entry's argument is the organizational-normativity line's:
+    it rests on CLAIM-614, bears on QUESTION-129 and QUESTION-441,
+    and SYNTHESIS-038 integrates it with its companions CLAIM-619,
+    ARG-055, ARG-064 and CASE-229, which have
+    organizational-normativity first. distributed-agency stays
+    second, as ADR-085 supplies it through `bears_on` QUESTION-041.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,8 +101,8 @@ tags:
 - society-and-governance
 date: '2026-11-07'
 line:
-- distributed-agency
 - organizational-normativity
+- distributed-agency
 rests_on:
 - CLAIM-614
 - CLAIM-348
@@ -110,9 +130,10 @@ summary: >-
   A's is the second-order duty of answerability, the five-condition
   criterion and the claim that the wrong does not reduce to the loss.
   Corrections are marked. The wording is A's; adopting it is the owner's
-  call. Moved from CLAIM-624 into the SYNTHESIS scheme on
-  2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)); it was admitted as an independent
-  hypothesis under [ADR-075](../decisions.d/ADR-075.md).
+  call. Moved into the
+  SYNTHESIS scheme as SYNTHESIS-002 on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)), where it was
+  admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
+  CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-610 CLAIM-611 CLAIM-615 — filed from the same exchange, Proposed or Deferred; cited as filed -->
@@ -126,7 +147,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-002](../syntheses.d/SYNTHESIS-002.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-624, where its development up to version 4 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*As [SYNTHESIS-002](../syntheses.d/SYNTHESIS-002.md), moved from this claim, where its development up to version 4 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

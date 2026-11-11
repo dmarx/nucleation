@@ -31,7 +31,8 @@ summary: >-
   measured by embedding position and by an LLM judge, never by the
   writers.
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-147 — Proposed or Open; the thesis, the trope study and the question this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-147 — Proposed; the trope study this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the thesis this reading bears on, cited as it stood -->
 
 # NOTE-750: Abdulhai et al. — How LLMs Distort Our Written Language
 

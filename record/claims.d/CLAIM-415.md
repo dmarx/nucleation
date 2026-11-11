@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
 title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -51,6 +51,16 @@ history:
     ignorance, which LIT-1370 left unread. It restates Prentice and
     Miller's 1993 result for men and does not replicate it, and a dated
     note says so. The claim is unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-119 added. The body: the others imagined can
+    be "a unity no one composes ..., which is QUESTION-119's
+    question ('when is the credit due to the population as
+    organized?') asked from inside the person credited".
+    QUESTION-119's first line, distributed-agency, is already this
+    claim's (ADR-085). Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,6 +87,8 @@ grounds:
 - LIT-1379
 - LIT-1390
 - LIT-1857
+bears_on:
+- QUESTION-119
 summary: >-
   From the owner's U39 of the exchange of 2026-10-22: how an individual's
   perspective is shaped by "the perception of a plurality of opinion where

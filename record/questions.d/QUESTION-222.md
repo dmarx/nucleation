@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpxapb2
 title: 'Beyond the scalar linear Gaussian case and the deterministic case of a fast, contracting eliminated variable, when a coarse variable''s reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -27,6 +27,13 @@ history:
     QUESTION-287, Answered by THEORY-773: no memory coordinate, and
     an O(ε) error bound uniform in time. The title gains "and the
     deterministic case of a fast, contracting eliminated variable".
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    A dated note added citing QUESTION-116, the time-lagged block
+    criterion that this question's CLAIM-157 bullet says is not
+    built. Reported by the synthesis review of 2026-11-11 (seventh
+    round). No other change.
 tags:
 - complex-systems
 - mathematics
@@ -193,3 +200,12 @@ time with explicit constants. That is [QUESTION-287](QUESTION-287.md), Answered 
 [THEORY-773](../theory.d/THEORY-773.md). This question keeps what is still open: slow or noisy
 eliminated variables, nonlinear and vector classes, error in terms of the
 eliminated spectrum where memory is needed, and the ruling on levels.
+
+## Note of 2026-11-11: the time-lagged block criterion
+
+"What the record holds" cites [CLAIM-157](../claims.d/CLAIM-157.md)'s time-lagged block test, "not
+built". That test is [QUESTION-116](QUESTION-116.md): a criterion for a collective whose
+members are weakly coupled at every instant and strongly connected
+through time-respecting paths, such as storage. It is the same gap seen
+from the side of the block criterion, and neither question is a part of
+the other.

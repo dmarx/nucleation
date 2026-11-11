@@ -40,7 +40,8 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-212 — Proposed; re-performance fidelity, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-138 CLAIM-004 — Proposed; the objection and the distinction this one rests on, open -->
-<!-- inactive-ok-file: CLAIM-091 CLAIM-139 — Proposed; cited for the model of translation and for the clause that inherits CLAIM-151, not as settled -->
+<!-- inactive-ok-file: CLAIM-091 — Proposed; cited for the model of translation, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited for the clause that inherits CLAIM-151, as it stood -->
 
 # CLAIM-224: Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside
 

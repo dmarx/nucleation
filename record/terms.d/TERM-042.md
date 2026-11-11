@@ -4,7 +4,18 @@ status: Active
 formerly:
 - TERM-tmpgok7x
 title: 'communicative object, as a context-indexed system of empirical constraints over a cover'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    "What it is not" cited LIT-777, the 2016 Contextuality-by-Default
+    paper, for all signalling data, beyond its reach: for contents in
+    more than two contexts its criterion and CbD 2.0 can disagree
+    (THEORY-168), and ARG-022, which held that the 2016 paper grounds
+    the general covers, is Rejected. The sentence now cites CbD 2.0
+    (LIT-831) for that case, as CLAIM-037's note of 2026-10-29 does. No
+    other change.
 tags:
 - contextuality
 - philosophy-of-language
@@ -18,6 +29,7 @@ summary: >-
   overlaps and whether it extends globally are things to find out, not
   part of the definition.
 ---
+<!-- inactive-ok-file: CLAIM-037 — Proposed; cited for its note on which version of Contextuality-by-Default to cite -->
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
 
 # TERM-042: communicative object, as a context-indexed system of empirical constraints over a cover
@@ -83,7 +95,10 @@ assignment". The error was in A78's prose and in [TERM-002](TERM-002.md)'s title
   situations. The two coincide when a global realization exists.
 - Not restricted to no-signalling data. The definition does not require
   the e_C to agree on overlaps. Language data signal ([CLAIM-038](../claims.d/CLAIM-038.md), [LIT-842](../literature.d/LIT-842.md)),
-  and for them Contextuality-by-Default applies ([LIT-777](../literature.d/LIT-777.md)). A129 does not say
+  and for them Contextuality-by-Default applies: [LIT-777](../literature.d/LIT-777.md)'s 2016 criterion
+  where it and CbD 2.0 agree, and for contents in more than two contexts
+  CbD 2.0 ([LIT-831](../literature.d/LIT-831.md)), since there the two can give different verdicts
+  ([THEORY-168](../theory.d/THEORY-168.md); [CLAIM-037](../claims.d/CLAIM-037.md)'s note of 2026-10-29). A129 does not say
   this. Every contextuality measure the record reads, the contextual fraction
   ([LIT-265](../literature.d/LIT-265.md)) among them, needs no-signalling.
 - Not one presheaf. A129 leaves the object as "assignments **or**

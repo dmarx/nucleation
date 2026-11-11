@@ -54,7 +54,7 @@ summary: >-
   say the theses are false or that invented cases are useless.
 ---
 <!-- inactive-ok-file: CLAIM-091 CLAIM-151 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-061, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: ARG-021 ARG-020 ARG-013 ARG-024 ARG-039 — Rejected; the five arguments this claim moved to, one per inference it judged -->
 <!-- inactive-ok-file: CLAIM-053 until 2027-01-28 — Superseded; moved to arguments the same day, cited as the claim this one answered -->
 <!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->

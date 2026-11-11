@@ -31,7 +31,8 @@ summary: >-
   position: the paper does not show that the writer's intended meaning
   changed, and the "grammar" prompt came with content feedback.
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-147 THEORY-173 — Open or Proposed; the question, claims and account this bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-147 THEORY-173 — Open or Proposed; the question, claims and account this bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
 # THEORY-226: LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts
 

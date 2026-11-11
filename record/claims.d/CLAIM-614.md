@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpagkxi
 title: 'A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -31,6 +31,20 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Line order: organizational-normativity first, distributed-agency
+    second. The split of will-organization (ADR-089) replaced the
+    second line in place and left distributed-agency first, while
+    the entry's argument is the organizational-normativity line's:
+    it bears on QUESTION-129 and QUESTION-441, both now first in
+    that line, and SYNTHESIS-038 integrates it with its companions
+    CLAIM-619, ARG-055, ARG-064 and CASE-229, which have
+    organizational-normativity first. distributed-agency is kept,
+    second; under ADR-085 no relation of this entry now supplies it,
+    and it is not dropped here. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,8 +67,8 @@ tags:
 - epistemology
 date: '2026-11-07'
 line:
-- distributed-agency
 - organizational-normativity
+- distributed-agency
 rests_on:
 - CLAIM-348
 - CLAIM-523

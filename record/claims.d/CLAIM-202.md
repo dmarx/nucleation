@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp351uu
 title: 'What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers'' recovery beyond the similarity of static stance and footing ratings'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -15,6 +15,12 @@ history:
     once", is now held false, because CLAIM-205 is Active and ARG-031 is
     Rejected. The directive for CLAIM-205 is corrected. The claim's text
     is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "What it does not say" said none of Nida, House, Reiss and Vermeer,
+    Nord or Gutt is read here; Nida and Nord were read on 2026-10-30 and
+    Gutt's 1989 thesis skimmed. The bullet now says so. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -116,8 +122,9 @@ functionalist would also pass.
 ## What it does not say
 
 - It does not say Nida, House, Reiss and Vermeer, Nord or Gutt are wrong.
-  None of them is read here: the first four are absent from the record, and
-  Gutt is held unread ([CLAIM-023](CLAIM-023.md)). It says only what result would show the
+  Nida and Nord were read on 2026-10-30 ([LIT-1864](../literature.d/LIT-1864.md), [LIT-1863](../literature.d/LIT-1863.md)) and Gutt's 1989
+  thesis skimmed ([LIT-1845](../literature.d/LIT-1845.md)); his book is held unread ([CLAIM-023](CLAIM-023.md)), and House
+  and Reiss and Vermeer are not read here. It says only what result would show the
   line adds nothing to them, on the reading of them given above, which is the
   record's and not theirs.
 - It does not say the static profile is useless. If the thesis fails, the

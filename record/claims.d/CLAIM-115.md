@@ -76,7 +76,8 @@ bears_on:
 - QUESTION-021
 ---
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as a later restatement of this thesis, itself replaced -->
-<!-- inactive-ok-file: CLAIM-139 CLAIM-082 CLAIM-486 — Proposed; open, and cited as open: a later thesis of the exchange and a premise of this one, neither settled -->
+<!-- inactive-ok-file: CLAIM-082 CLAIM-486 — Proposed; open, and cited as open: premises of this one, neither settled -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; a later thesis of the exchange, cited as it stood -->
 
 # CLAIM-115: What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 

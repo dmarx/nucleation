@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6xhn3
 title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-07'
@@ -50,6 +50,21 @@ history:
     and which carry formal-apparatus second. Its resting on
     formal-apparatus claims stays a crossing the argument chain
     reports. No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    The summary ended by saying the claim moved from CLAIM-611 into
+    the SYNTHESIS scheme, as though it were still there; it now says
+    it moved as SYNTHESIS-003 on 2026-11-07 and returned to CLAIM on
+    2026-11-08 (ADR-084). The synthesis's own italic line, "Moved
+    from CLAIM-611", pointed at this entry as if from another; it
+    now says it was moved, as SYNTHESIS-003, from this claim. The
+    summary listed among the body's corrections "the layers part",
+    which the body has no correction for, and left out its
+    correction of standing. It now lists the four the body marks:
+    coverage (the owner's laboratory), statistical persistence,
+    external maintenance and standing. Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,12 +117,14 @@ summary: >-
   what keeps its repertoire realizable, is A's. A22 §10 credited A's own
   A20 sentence to the owner, and A29 §11 credits none of the owner's
   turns; both are corrected here. Four other corrections are marked in
-  the body: the layers part, statistical persistence is no evidence, the
-  maintaining organization may lie outside, and the owner's laboratory
-  is restored. The integration's wording is A's, corrected by the filer;
-  adopting it is the owner's call. Moved from CLAIM-611 into the
-  SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)); it was admitted as an
-  independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
+  the body: the owner's laboratory is restored, statistical persistence
+  is no evidence, the maintaining organization may lie outside, and the
+  layers rest on Proposed claims, so no tradition yet "explains" its
+  layer. The integration's wording is A's, corrected by the filer;
+  adopting it is the owner's call. Moved into the
+  SYNTHESIS scheme as SYNTHESIS-003 on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)), where it was
+  admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
+  CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
@@ -119,7 +136,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-611, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*As [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md), moved from this claim, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

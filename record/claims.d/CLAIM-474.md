@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgubhp
 title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-27'
@@ -71,6 +71,16 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Current becoming Active. The synthesis's own history stays on
     SYNTHESIS-006.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    The summary said the claim was moved into the SYNTHESIS scheme
+    and stopped there; it now adds that it returned to CLAIM on
+    2026-11-08 (ADR-084). The synthesis's own italic line, "Moved
+    from CLAIM-474", pointed at this entry as if from another; it
+    now says it was moved, as SYNTHESIS-006, from this claim.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -134,9 +144,10 @@ summary: >-
   achievement does not yield the next, each with a source the record has
   read. Its premises, [CLAIM-471](CLAIM-471.md), [CLAIM-480](CLAIM-480.md), [CLAIM-481](CLAIM-481.md), [CLAIM-470](CLAIM-470.md) and
   [CLAIM-475](CLAIM-475.md), are Active. The central experiment is [CASE-179](../cases.d/CASE-179.md). Moved into
-  the SYNTHESIS scheme on 2026-11-07 ([ADR-077](../decisions.d/ADR-077.md)), keeping the standing
-  the status review of 2026-11-06 gave it under the rulings the owner
-  delegated.
+  the SYNTHESIS scheme on 2026-11-07 as SYNTHESIS-006 ([ADR-077](../decisions.d/ADR-077.md)), keeping the
+  standing the status review of 2026-11-06 gave it under the rulings the
+  owner delegated, and returned to CLAIM under its own code on 2026-11-08
+  (ADR-084).
 ---
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1351 — Proposed; components and a corroborating reading, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ADR-078 ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
@@ -148,7 +159,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-006](../syntheses.d/SYNTHESIS-006.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-474, where its development up to version 4 is recorded.*
+*As [SYNTHESIS-006](../syntheses.d/SYNTHESIS-006.md), moved from this claim, where its development up to version 4 is recorded.*
 
 ## The integration
 

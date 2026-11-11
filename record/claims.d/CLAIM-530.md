@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg57ci
 title: 'Where maintenance is realized is a question of constitutive relevance only through its parthood condition: an internal producer and an outside controller supplying the same production law as state feedback meet mutual manipulability''s two manipulability conditions identically, since disabling or stimulating either changes the maintained capacities and intervening on the capacities changes the activity of either, so what puts one inside and the other outside is parthood, a boundary the experiments presuppose and do not find'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-01'
@@ -32,6 +32,15 @@ history:
     both successor accounts take parthood as given, so nothing meets
     the defeat condition. Every premise is Active and no objection is
     on file. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the body still gave version 1's basis for the
+    criterion, LIT-832's reviews and LIT-1931's abstract, as if
+    current, beside version 2's. It now says version 1 took the
+    criterion that way and that since version 2 the record cites
+    it as Baumgartner and Gebharter state it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -90,11 +99,11 @@ behaviour ψ when three conditions hold:
 2. some ideal intervention on X's φ-ing changes S's ψ-ing (bottom up);
 3. some ideal intervention on S's ψ-ing changes X's φ-ing (top down).
 
-This is the criterion as [LIT-832](../literature.d/LIT-832.md) records it from reviews, and as
-Craver, Glennan and Povich's abstract presupposes in defining
+Version 1 took the criterion as [LIT-832](../literature.d/LIT-832.md) records it from reviews, and
+as Craver, Glennan and Povich's abstract presupposes in defining
 constitutive relevance as being "parts of the mechanism responsible for
-that phenomenon" ([LIT-1931](../literature.d/LIT-1931.md)). The texts that state it were not
-reached. The record cites the
+that phenomenon" ([LIT-1931](../literature.d/LIT-1931.md)), since the texts that state it were not
+reached. Since version 2 (2026-11-06), the record cites the
 criterion as Baumgartner and Gebharter state it ([LIT-1934](../literature.d/LIT-1934.md), p. 8, read
 in full in [NOTE-1493](../notes.d/NOTE-1493.md)), in the same three conditions, parthood among
 them. Craver's own texts ([LIT-832](../literature.d/LIT-832.md), [LIT-1930](../literature.d/LIT-1930.md), [LIT-1931](../literature.d/LIT-1931.md)) stay unread and

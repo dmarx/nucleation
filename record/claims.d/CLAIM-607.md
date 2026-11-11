@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpp0p4d
 title: 'Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,15 @@ history:
     and the non-tightness of positive NAE-3SAT were checked by script
     (scratch/formal/gopalan_schwerdtfeger_checks.py). No objection is filed,
     and nothing in the record meets its defeated_if.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A stale self-description corrected, from the defects listed in the
+    synthesis review of 2026-11-11 (curation entry 015730): the
+    summary's "Proposed while both readings are" now says the claim
+    has been Active since the twenty-seventh status review, once both
+    works were read in full (NOTE-1584, NOTE-1613), as version 2's
+    note records. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,8 +56,9 @@ summary: >-
   Schwerdtfeger's correction ([THEORY-1413](../theory.d/THEORY-1413.md)), give two languages equal in
   the complexity of finding a solution and opposite in the complexity of
   navigating between solutions. The record's own conditional
-  demonstration from the cited classifications; Proposed while both
-  readings are.
+  demonstration from the cited classifications; Active since the
+  twenty-seventh status review, once both works were read in full
+  (NOTE-1584, NOTE-1613).
 ---
 
 # CLAIM-607: Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT

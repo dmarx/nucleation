@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpwxags
 title: 'Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling''s gap is still ≈ 0.989'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    A dated note added saying how the case illustrates CLAIM-456:
+    its knockouts end the self-produced organization, CLAIM-456's
+    "interruption of the work that produces it"; it has no outside
+    reset, so it does not illustrate the comparison. Reported by the
+    synthesis review of 2026-11-11 (seventh round). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -201,3 +210,13 @@ The case's quasi-potential for a maintained organization's persistence applies t
 <!-- inactive-ok-block: CASE-227 — filed from the same exchange, Proposed -->
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §2's maintenance law, ċ = ε(2.2c²/(1 + c²) − c), is Construction 1 on its symmetric diagonal, 3c²/(1 + c²) − (1 + d)c, with gain 2.2 for 3/(1 + d) (d ≈ 0.364). Its unstable level 0.642 plays the part of the saddle at 0.382, and positive equilibria exist iff the gain is at least twice the decay, the same fold as d = 0.5 here. [CASE-227](CASE-227.md) couples it to the Haken–Kelso–Bunz relative phase. No change.
+
+## Note of 2026-11-11: how it illustrates [CLAIM-456](../claims.d/CLAIM-456.md)
+
+The case illustrates [CLAIM-456](../claims.d/CLAIM-456.md) through its knockouts. In Construction 2,
+"Removing any single production pathway sends all three to zero": a
+self-produced organization is lost to an interruption of the work that
+produces it, which is [CLAIM-456](../claims.d/CLAIM-456.md)'s "the self-produced rule can be lost to
+a double loss or an interruption of the work that produces it". The case
+has no outside reset beside it, so it illustrates only that dependence,
+not [CLAIM-456](../claims.d/CLAIM-456.md)'s comparison with outside reset, which rests on [CASE-161](CASE-161.md).

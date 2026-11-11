@@ -23,7 +23,7 @@ illustrates:
 ---
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-151 — Proposed; the claim that grounds on this case, open -->
+<!-- inactive-ok-file: CLAIM-151 — Proposed; a claim this case illustrates, open -->
 
 # CASE-018: "You blow it all on sex and booze", said by a friend, a parent, a judge, a comedian
 

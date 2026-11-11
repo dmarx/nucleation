@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmp816oh
 title: 'Does a communicative act''s identity split into a factor internal to the interpreter and a relational factor fixed by world and community, and which of the two must a translation preserve?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The summary named CLAIM-115, Superseded by CLAIM-220 on 2026-10-29,
+    as a claim this question bears on; it now names CLAIM-220. A note
+    says the question's contrast holds with CLAIM-220 in CLAIM-115's
+    place. No other change.
 tags:
 - philosophy-of-language
 - cognition
@@ -14,10 +22,12 @@ refines:
 - QUESTION-029
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
-  for a place in the argument. It bears on [CLAIM-151](../claims.d/CLAIM-151.md), [CLAIM-115](../claims.d/CLAIM-115.md),
+  for a place in the argument. It bears on [CLAIM-151](../claims.d/CLAIM-151.md), CLAIM-220 (which superseded CLAIM-115),
   [CLAIM-118](../claims.d/CLAIM-118.md), [CLAIM-046](../claims.d/CLAIM-046.md) and [QUESTION-029](QUESTION-029.md). [THEORY-089](../theory.d/THEORY-089.md) answers it in part;
   the body gives each one's limit.
 ---
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; quoted as one of the two answers as it stood -->
+<!-- inactive-ok-file: CLAIM-220 — Proposed; the receiver-side answer now held, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-050: Does a communicative act's identity split into a factor internal to the interpreter and a relational factor fixed by world and community, and which of the two must a translation preserve?
@@ -54,3 +64,12 @@ are filed: [CASE-064](../cases.d/CASE-064.md) and [CASE-061](../cases.d/CASE-061
 the audience, [CASE-073](../cases.d/CASE-073.md) holds a declared intention fixed, and
 [CASE-057](../cases.d/CASE-057.md) swaps the persons. Whether any of these answers this
 question is left to the owner.
+
+## Note of 2026-11-11: the receiver-side answer superseded
+
+[CLAIM-115](../claims.d/CLAIM-115.md), quoted above as the answer internal to the interpreter, was
+superseded on 2026-10-29 by [CLAIM-220](../claims.d/CLAIM-220.md). [CLAIM-220](../claims.d/CLAIM-220.md) keeps that answer, now
+"the set of task-relevant communicative distinctions those receivers can
+still recover", for a named population of receivers and a stated family of
+tasks. So the contrast this question draws with [CLAIM-151](../claims.d/CLAIM-151.md) holds with
+[CLAIM-220](../claims.d/CLAIM-220.md) in [CLAIM-115](../claims.d/CLAIM-115.md)'s place.

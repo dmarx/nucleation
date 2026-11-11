@@ -4,12 +4,20 @@ status: Active
 formerly:
 - CLAIM-tmppht9k
 title: 'An organization''s present coupling strength need not reveal the stability of the process maintaining it: in a constructed system whose maintained connector and capacities set a three-unit coupling, the recovery rate of the maintenance goes to zero at its saddle-node while the coupling''s spectral gap there stays near 0.989'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    defeated_if read "of CASE construction cited", with the code
+    missing; it now names CASE-189's Construction 2, the
+    seed–capture model the body cites. Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in the computed equilibrium curve, fold or spectral gap of
-  CASE construction cited, or a showing that the dissociation depends on a
+  CASE-189's Construction 2, or a showing that the dissociation depends on a
   feature the construction lacks. A general argument about other systems
   cannot defeat what is an existence claim.
 tags:

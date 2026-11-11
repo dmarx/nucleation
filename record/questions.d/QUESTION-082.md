@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpuv3u3
 title: 'When a polity is steered by polling, whose reasons do its decisions carry: its members'', its own, or none?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    "What would count as an answer" made two candidate works wait
+    until the anthology had been checked for them; under ADR-048
+    nothing is checked against the anthology before filing, and the
+    sentence now says so. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 tags:
 - society-and-governance
 - social-ontology
@@ -55,5 +64,5 @@ democracies tracks aggregated member conclusions, a stated collective
 rationale, or neither, and whether outcomes that follow conclusions are less
 consistent across linked issues than outcomes reached by deliberation. The
 record holds none of that literature yet. Gilens and Page (2014) and Achen
-and Bartels' *Democracy for Realists* are candidates, once the anthology has
-been checked for them.
+and Bartels' *Democracy for Realists* are candidates, and can be filed here
+without checking the anthology first ([ADR-048](../decisions.d/ADR-048.md)).

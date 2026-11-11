@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpfqsca
 title: 'Stochastic information-bottleneck optima at two budgets need not be nested: for X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the unique optima at β = 8 and β = 12 admit no Markov chain X → T₂ → T₁, so raising the budget reorganizes the optimum even with noisy encoders'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,15 @@ history:
     description, agency and legibility: A2 and A5 proposed a paper on this
     result and CLAIM-387, keeping the numerical certificate and dropping
     three of its limits. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: the summary said the claim answers a half of
+    QUESTION-220, but its answers relation is to QUESTION-244, the
+    yes-or-no part split off from QUESTION-220 under ADR-049,
+    which stays Open on the condition for nesting. The summary now
+    names QUESTION-244. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,8 +49,8 @@ summary: >-
   [THEORY-753](../theory.d/THEORY-753.md)'s criterion (refinable iff some pair of optima forms the
   chain, iff the coarse decoder points lie in the fine decoder hull when
   that hull is non-degenerate), and optima certified unique, the hull test
-  fails. It answers the stochastic half of [QUESTION-220](../questions.d/QUESTION-220.md) in the
-  negative for this source. The certificate is numerical, not interval
+  fails. It answers the stochastic half of QUESTION-244, the yes-or-no part
+  split off from [QUESTION-220](../questions.d/QUESTION-220.md), in the negative for this source. The certificate is numerical, not interval
   arithmetic, and the loss is small: 0.49% of the larger budget, in unique
   information.
 ---

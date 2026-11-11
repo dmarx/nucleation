@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpy685m
 title: 'Connectivity of the configurations affordable at a budget does not settle reachability among them: under directed moves a state can share a connected component with a target and have no admissible path to it, and the least budget for going from one configuration to another can differ from that for coming back, so a persistence summary of sublevel sets bounds the reachability filtration without fixing it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -22,6 +22,18 @@ history:
     review's ruling (the owner delegated these rulings), on the full reading
     of Lawvere (NOTE-1585): his example, reported second-hand, is now quoted
     from the page (p. 138). No status change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-375 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. QUESTION-375 asks
+    whether a resource-indexed topological summary such as
+    persistence can detect whether navigation is easy or hard, and
+    cites this claim for what persistence forgets; this claim's
+    title: 'a persistence summary of sublevel sets bounds the
+    reachability filtration without fixing it'. QUESTION-375's
+    first line is realizability, already this claim's first, so
+    the line is unchanged (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -60,6 +72,8 @@ summary: >-
   a necessary condition only. It qualifies [CLAIM-571](CLAIM-571.md) and
   [CLAIM-568](CLAIM-568.md), which do not say whether their paths are directed. The
   wording is A's; adopting it is the owner's call.
+bears_on:
+- QUESTION-375
 ---
 <!-- inactive-ok-file: THEORY-1415 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- ref::uses-file: TERM-114 — "the configurations affordable at a budget" and "the least budget for going from one configuration to another" are TERM-114's configurations and budget-indexed reachability -->

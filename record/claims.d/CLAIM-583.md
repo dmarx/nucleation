@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpsbz28
 title: 'Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,15 @@ history:
     construction. The DNA origami readings look for an experimental
     instance and find none, which the claim does not need. The summary's
     "Shown here twice." is dropped with the second showing.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the body said the version across constraint
+    languages, now CLAIM-607, stands on readings that are
+    Proposed. THEORY-1407 and THEORY-1413 are Active since the
+    twenty-seventh status review (2026-11-06); the sentence now
+    says so. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -99,7 +108,8 @@ Schwerdtfeger's correction ([THEORY-1413](../theory.d/THEORY-1413.md)), was spli
 review of 2026-11-06 into [CLAIM-607](CLAIM-607.md): positive 1-in-3 SAT and positive
 NAE-3SAT are both NP-complete to satisfy, and navigation between
 solutions is polynomial for the first and PSPACE-complete for the second.
-It stands on readings that are Proposed; the instance above does not.
+It stands on [THEORY-1407](../theory.d/THEORY-1407.md) and [THEORY-1413](../theory.d/THEORY-1413.md), both Active since the
+twenty-seventh status review (2026-11-06); the instance above does not.
 
 **On A's first way.** With a fixed local move rule, as in the instance and
 in Gopalan et al., the same set of admissible configurations gives the same

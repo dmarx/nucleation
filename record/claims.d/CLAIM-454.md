@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpwr001
 title: 'A latent feature or mode recovered from an organization''s members'' activity is at most a constituent of an organizational perspective, not the perspective: a feature allocation says which members take part in which modes, and whether those modes are organized into one perspective depends on the relations of access, uptake and authority among their carriers, which the same allocation leaves open'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -32,6 +32,14 @@ history:
     date: THEORY-1011 is Rejected, and CLAIM-427 is Superseded by ARG-025,
     which this claim does not need. Version 1's grounds were CASE-101 and
     CASE-165. The title is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-276 added. The summary: "It is the criterion
+    QUESTION-276's answer has to meet." QUESTION-276's first line,
+    distributed-agency, is already this claim's (ADR-085). Reported
+    by the synthesis review of 2026-11-11 (seventh round). No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +69,8 @@ uses:
 - TERM-074
 complements:
 - CLAIM-027
+bears_on:
+- QUESTION-276
 summary: >-
   From the Northstar turns of the exchange "Experimental Infrastructure
   Review", where the owner proposed inferring an organization's

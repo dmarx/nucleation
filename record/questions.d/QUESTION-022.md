@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpuc1dc
 title: 'Beyond restriction-compatible kernels and kernels induced by one global kernel, which stochastic transports carry compatible empirical models to compatible ones and preserve global extendability: which conditions are necessary, and what does a transport that changes the cover do?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -16,6 +16,11 @@ history:
     conditions, and transports that change the cover. Version 1's title
     was 'Which stochastic transports carry compatible empirical models to
     compatible ones, and which preserve global extendability?'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "Where it stands" called CLAIM-125 Proposed; it was promoted on
+    2026-10-29. No other change.
 tags:
 - contextuality
 - mathematics
@@ -49,7 +54,7 @@ Those starting results are the manuscript's Propositions 1 and 2 ([CLAIM-121](..
 identifies a sufficient preservation class and a clear empirical target: measure
 departures from this class rather than treating arbitrary changes of measurement
 cover as intrinsic contextuality." The cover-changing case was posed as [CLAIM-100](../claims.d/CLAIM-100.md), now
-superseded by [CLAIM-125](../claims.d/CLAIM-125.md) (Proposed). None of the
+superseded by [CLAIM-125](../claims.d/CLAIM-125.md) (Active since 2026-10-29). None of the
 five questions appears in the manuscript, which has no section of open
 problems.
 

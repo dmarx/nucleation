@@ -59,7 +59,8 @@ summary: >-
 <!-- inactive-ok-file: ARG-011 — Rejected; the argument this claim moved to under ADR-061 -->
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-129 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-139 CLAIM-127 CLAIM-078 — Proposed; open, cited as the claims the design is meant to bear on, those its own limits name, and the success criterion that quotes A218, not as settled -->
+<!-- inactive-ok-file: CLAIM-127 CLAIM-078 — Proposed; open, cited as the claims the design is meant to bear on, those its own limits name, and the success criterion that quotes A218, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 
 # CLAIM-203: The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells
 
