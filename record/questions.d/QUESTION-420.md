@@ -4,12 +4,24 @@ status: Open
 formerly:
 - QUESTION-tmpgbqqs
 title: "Does a replication or recoding of state urban-renewal enabling legislation remove Collins and Shester's city-level effects of federal urban renewal, or show them driven by a confounder of when states legislated?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability; it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085); it
+    is a replication question of the urban readings filed on
+    QUESTION-398, like its siblings in transient-support. No other
+    change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: realizability
+line:
+- transient-support
 summary: >-
   The refutation clause of the promotion condition formerly on
   [THEORY-1470](../theory.d/THEORY-1470.md), moved here when the twenty-eighth status review

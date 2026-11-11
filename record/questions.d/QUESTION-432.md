@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp2s2ai
 title: 'Do aid-funded projects whose beneficiaries stated the demand, contributed their own resources, received the benefits and shared the decision to continue keep their benefits after donor support ends more often than projects funded and controlled by the donor, and does a recipient''s own spending on maintaining donor-funded assets fall as its expectation of donor repair rises?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -12,6 +12,13 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085). No
+    other change.
 tags:
 - society-and-governance
 - social-science
@@ -19,7 +26,6 @@ tags:
 date: '2026-11-06'
 line:
 - transient-support
-- realizability
 refines:
 - QUESTION-398
 summary: >-

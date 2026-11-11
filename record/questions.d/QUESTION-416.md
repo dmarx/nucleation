@@ -4,12 +4,24 @@ status: Open
 formerly:
 - QUESTION-tmpb52ny
 title: 'Does an independent long-run evaluation of greenfield serviced plots against later upgrading of squatter areas find the contrast Michaels and colleagues found in Tanzania: better housing and better-kept roads and water mains in the greenfield areas, and no gain in the upgraded ones?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the completion of the readiness split (ADR-tmpqp8c4,
+    2026-11-11): transient-support is now its first line, in place
+    of realizability; it no longer carries realizability, which no
+    relation to a realizability-first entry supplies (ADR-085); it
+    is a replication question of the urban readings filed on
+    QUESTION-398, like its siblings in transient-support. No other
+    change.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-06'
-line: realizability
+line:
+- transient-support
 summary: >-
   The alternative in the promotion condition formerly on [THEORY-1472](../theory.d/THEORY-1472.md),
   moved here when the twenty-eighth status review promoted it under
