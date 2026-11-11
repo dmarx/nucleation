@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprft5t
 title: "The bisimulation metric between two finite Markov chains with observed states and a known cost bounded by 1 can be estimated without a transition model from independent samples of each chain's discounted state-pair occupancy, to accuracy ε with probability 1 − δ from a number of samples polynomial in the state-space sizes, 1/(1−γ), log(1/δ) and 1/ε²"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,14 @@ history:
     states, the known bounded cost, the probability 1 − δ and the
     dependence on 1/(1−γ) and log(1/δ). The former promote_when's request
     for a matching ε⁻² lower bound moves to QUESTION-190.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-190
+    added. The question holds this reading's former promote_when
+    (ADR-065), so the reading is its premise (ADR-060). Its version 2
+    note: "The former promote_when's request for a matching ε⁻² lower
+    bound moves to QUESTION-190." No other change.
 tags:
 - mathematical-statistics
 - probabilistic-modeling
@@ -36,6 +44,8 @@ summary: >-
   samples per chain. The states must be observed and enumerable, the cost
   known, and the samples drawn with restarts. A single running stream and
   latent states are outside it.
+bears_on:
+- QUESTION-190
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred or Proposed; the set-aside question this bears on, and the identification this account inherits, cited as open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqpbhy
 title: 'When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor in mean squared error, and it is linear in the contrastive density ratio, so for a bounded label and a square-integrable ratio a linear readout of m random evaluations of the exact ratio approaches it at rate 1/m, with no symmetry between the views required'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,14 @@ history:
     exact ratio, a bounded label and a square-integrable ratio. The
     promote_when's clause about a learned ratio without a uniform bound
     moves to QUESTION-182.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-182
+    added. The question holds this reading's former promote_when
+    (ADR-065), so the reading is its premise (ADR-060). Its text:
+    "Whether a learned ratio keeps the rate without a uniform bound on
+    it is QUESTION-182." No other change.
 tags:
 - representation-learning
 - learning-theory
@@ -33,6 +41,8 @@ summary: >-
   low-dimensional direct embeddings are shown to exist, not to be reached.
 answers:
 - QUESTION-245
+bears_on:
+- QUESTION-182
 ---
 <!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; accounts this one bears on, not leaned on -->
 

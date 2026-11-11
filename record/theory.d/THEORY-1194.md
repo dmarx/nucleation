@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmplyryk
 title: 'Clark and Chalmers argue that if belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so that the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and on a parity principle they state rather than argue'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-064
+    added. The question's text: Clark and Chalmers' criteria "include
+    endorsement, which QUESTION-038 lacks". This reading holds them: a
+    store "automatically endorsed", with "'arguable', past conscious
+    endorsement". A premise of the question. No other change.
 tags:
 - cognition
 - embodied-cognition
@@ -25,6 +34,8 @@ summary: >-
   parity principle was not argued. Whether the conditional holds, that
   coupling of this kind makes a store part of a mind, stays [THEORY-579](THEORY-579.md)'s
   question, Proposed.
+bears_on:
+- QUESTION-064
 ---
 <!-- inactive-ok-file: THEORY-579 — Proposed; the account this is split from, which holds the question whether the conditional is true -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmptzp8y
 title: 'For positive recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified negation and aggregation is asserted, not shown, and the size of the overestimate is not measured'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,14 @@ history:
     the extension to stratified negation and aggregation as asserted, not
     shown. That extension and the size of the overestimate move to
     QUESTION-188.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-188
+    added. The question holds this reading's former promote_when
+    (ADR-065), so the reading is its premise (ADR-060). Its text:
+    under negation "the argument does not apply; that case is
+    QUESTION-188." No other change.
 tags:
 - databases
 - logic
@@ -36,6 +44,7 @@ summary: >-
   and that it is slower than counting on nonrecursive views.
 bears_on:
 - QUESTION-105
+- QUESTION-188
 ---
 
 # THEORY-387: For positive recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified negation and aggregation is asserted, not shown, and the size of the overestimate is not measured

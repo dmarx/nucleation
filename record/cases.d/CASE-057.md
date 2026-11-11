@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmp4iy8h
 title: 'Swapping the two persons of a dyad: nonreciprocal T/V address is changed by the swap and reciprocal address is not, with a constructed French–English dyad and a three-person teasing round'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-036
+    added. The question's note of 2026-10-12: "CASE-057 is a
+    constructed case of such a chosen symmetry". A construction that
+    models the question (ADR-092). No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -26,7 +34,10 @@ summary: >-
 illustrates:
 - CLAIM-137
 - CLAIM-249
+bears_on:
+- QUESTION-036
 ---
+<!-- inactive-ok-file: ADR-092 — Proposed; the decision whose relation the history note of 2026-11-11 applies -->
 <!-- inactive-ok-file: CLAIM-137 — Proposed; the owner's character thesis, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-138 — Proposed; the Newman counter and the individuation thesis, cited as open -->
 

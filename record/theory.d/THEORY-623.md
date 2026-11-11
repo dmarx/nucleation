@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpr96be
 title: "In the two tests of contextuality in language data that the record has read, the contextuality is put there by the experimenter or not secured: meaning-selection models of ambiguous phrases estimated from corpora are all signalling and their two Contextuality-by-Default verdicts are plausibly noncontextual by their own bootstrap, while BERT's 52 million anaphora models have a support fixed by the sentence schema, so whether each counts as contextual depends only on how uncertain the model's three referent choices are"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-026
+    added. The question's text: Wang et al.'s phrase-level "corpus
+    estimates are almost always signalling", the data "on which a
+    compositional constraint would be checked". This reading holds it:
+    "meaning-selection models of ambiguous phrases estimated from
+    corpora are all signalling". No other change.
 tags:
 - contextuality
 - linguistics
@@ -21,6 +31,8 @@ summary: >-
   (CNT1 = 2 − Δ). The only possibilistically contextual phrase model has
   hand-set supports. Neither study uses human judgements, so neither
   bears on whether people's interpretations are contextual.
+bears_on:
+- QUESTION-026
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; the account these studies bear on and the follow-up's account, cited as open -->

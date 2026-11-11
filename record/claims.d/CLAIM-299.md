@@ -5,7 +5,7 @@ formerly:
 - CLAIM-tmpb7qd9
 title: Decision sufficiency, historical accountability and correctness are three
   properties of a record of inquiry, and each can hold while the other two fail
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -19,6 +19,12 @@ history:
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-258
+    added. The question's text, against a connected, well-supported
+    subgraph: "CLAIM-299 separates the properties." No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,6 +50,8 @@ summary: >-
   ([CASE-084](../cases.d/CASE-084.md)), a current marginal that is right and cannot be revised ([CASE-093](../cases.d/CASE-093.md)).
   [CLAIM-189](CLAIM-189.md) and [CLAIM-190](CLAIM-190.md) hold neighbouring points about measuring an argument.
   This names the three predicates so the others can say which they mean.
+bears_on:
+- QUESTION-258
 ---
 <!-- inactive-ok-file: ARG-028 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-189 CLAIM-190 CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

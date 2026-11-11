@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpagzmj
 title: 'Henley''s rendering of Villon, "Booze and the blowens cop the lot"'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-023
+    added. Its text: "Its opacity raised QUESTION-023." The instance
+    the question is asked of. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -17,6 +24,8 @@ summary: >-
   English thieves' slang, refrain "Booze and the blowens cop the lot"
   (U3). Already a radical translation, and deliberately opaque. The
   source of the manuscript's refrain family (§1, §10).
+bears_on:
+- QUESTION-023
 ---
 
 # CASE-010: Henley's rendering of Villon, "Booze and the blowens cop the lot"

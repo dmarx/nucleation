@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmp4sjw7
 title: 'Two people, an empty wallet: shared complicity, normative authority, and an underspecified relation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-018
+    added. The question's text: "CASE-004 is the case." Its own:
+    object-level evaluation "cannot tell a faithful image from one
+    that reverses the relation". An instance of the question. No other
+    change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -21,6 +30,8 @@ summary: >-
   with different interpersonal configurations. Conditions A and B are
   the manuscript's §7 example; condition C, the natural control, was
   dropped.
+bears_on:
+- QUESTION-018
 ---
 <!-- inactive-ok-file: CLAIM-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

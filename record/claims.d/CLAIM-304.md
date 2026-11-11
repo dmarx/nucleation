@@ -7,7 +7,7 @@ title: 'A rendering can keep a distinction recoverable in principle and make it
   infeasible to recover: if pseudorandom generators exist, a uniformly random bit
   can be encoded so that an unbounded receiver recovers it except with probability
   at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -17,6 +17,19 @@ history:
     line falls for communicative distinctions", and QUESTION-111's
     "CLAIM-304 shows the gap exists". The line is unchanged under
     ADR-085: the target's line is already this entry's. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-099
+    added. Its text, from A14 §1: "A distinction may survive a
+    transformation in principle while becoming too computationally
+    expensive for the receiver to recover." QUESTION-099 is A14 §2:
+    "Preserving the existence of a reconstruction is different from
+    preserving the feasibility of that reconstruction." It shows the
+    gap for one rendering, not its growth along a chain of
+    restatements, so bears_on. Under ADR-085 it takes
+    nucleating-argument, the question's first line, after its own. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -30,6 +43,7 @@ date: '2026-10-15'
 line:
 - formal-apparatus
 - pragmatic-transport
+- nucleating-argument
 rests_on:
 - CLAIM-302
 grounds:
@@ -46,7 +60,9 @@ summary: >-
   against "a vague appeal to an inverse being hard".
 bears_on:
 - QUESTION-111
+- QUESTION-099
 ---
+<!-- inactive-ok-file: ADR-085 — Proposed; the line rule the history notes apply -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-304: A rendering can keep a distinction recoverable in principle and make it infeasible to recover: if pseudorandom generators exist, a uniformly random bit can be encoded so that an unbounded receiver recovers it except with probability at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance

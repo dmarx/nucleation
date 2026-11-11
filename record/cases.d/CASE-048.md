@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpifi9m
 title: 'The same film joke, seen as a child and again as an adult'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-12'
@@ -13,6 +13,12 @@ history:
     and the adult's readings sit in contexts that do not overlap, so they
     do not conflict until memory brings the first into the second. The
     case as stated is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-023
+    added. Its text: "That bears on QUESTION-023's overhearer, who
+    misses insider meaning by design." No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -31,6 +37,8 @@ summary: >-
   is the person in the sense of numerical identity. Only the receiver's
   state has changed. It is a test for whether meaning is fixed at the
   write or made at the read.
+bears_on:
+- QUESTION-023
 ---
 <!-- inactive-ok-file: CLAIM-251 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; the claims this case tests, open -->

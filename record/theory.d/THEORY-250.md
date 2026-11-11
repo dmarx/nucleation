@@ -18,7 +18,16 @@ promote_when: >-
   scoring by a vision-language model, which the paper finds tracks human
   judgement poorly.
 title: "DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-018
+    added. Its text: "QUESTION-018. The explanandum, measured", and it
+    "does not decide among the question's candidate explanations".
+    Evidence about the explanandum, so bears_on, not answers. No other
+    change.
 tags:
 - compositionality
 date: '2026-10-14'
@@ -33,6 +42,8 @@ summary: >-
   of 0.09 against a GPT-3 proxy. The finding is about one generator, and
   the ">5 objects" failure often quoted with it comes from the
   vision-language models, not from DALL-E 3.
+bears_on:
+- QUESTION-018
 ---
 <!-- inactive-ok-file: CLAIM-013 — Proposed; the claims and theory this bears on, open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpscxh5
 title: 'In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record''s Hilbert-space works differ in where they get it'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-09-27'
@@ -60,6 +60,17 @@ history:
     The owner ruled in the pull request that a re-derivation meets a
     promote_when that asks for the source's own statement, so the
     promotion above stands on the owner's ruling as well as ADR-047's.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-026
+    added. Its text: under LIT-273's ε/η composition "Orthogonal
+    changes of the noun and sentence spaces carry the sentence vector
+    covariantly", and LIT-272's Frobenius composition "depends on the
+    basis". A small case of a map on the parts fixing how the whole is
+    carried, which QUESTION-026 asks about, for distributional meaning
+    only. Listed in the question's note of 2026-10-11; evidence, not
+    an answer. No other change.
 tags:
 - mathematics
 - quantum-foundations
@@ -89,6 +100,8 @@ summary: >-
   point for learned representations. This is a synthesis across the four,
   not a result any one of them states. It does not say that basis-dependent
   models are wrong; it says what they have assumed.
+bears_on:
+- QUESTION-026
 ---
 
 

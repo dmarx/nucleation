@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5ocix
 title: 'When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; over the full hypercube of words, each attribute''s two values equally frequent, the raw co-occurrence ratio mixes in products of attributes, and keeps exact analogies only when the strengths are alike enough that every attribute mode outranks every product mode'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-09'
@@ -34,6 +34,14 @@ history:
     The theorem is conditional on its premise, so the promote_when's
     request to measure that premise on real text moves to
     QUESTION-178.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-178
+    added. The question holds this reading's former promote_when
+    (ADR-065), so the reading is its premise (ADR-060). Its text:
+    "Whether real co-occurrence is close to the premise is
+    QUESTION-178." No other change.
 tags:
 - representation-learning
 - compositionality
@@ -53,6 +61,7 @@ summary: >-
   not measured.
 bears_on:
 - QUESTION-025
+- QUESTION-178
 ---
 <!-- inactive-ok-file: CLAIM-119 LIT-267 — Proposed or open; cited as what this result bears on -->
 <!-- inactive-ok-file: THEORY-292 — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->

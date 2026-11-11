@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdfqoo
 title: 'Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -23,6 +23,15 @@ history:
     names CLAIM-220, which superseded it, and the directive that called
     CLAIM-074 and CLAIM-115 Proposed is corrected. The claim is
     unchanged, and CLAIM-171 is not conceded.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question's note of 2026-10-12: CLAIM-160 and CLAIM-171
+    are "filed positions" on "whose receiver counts", and "neither
+    answers this question as posed". CLAIM-160's projected receiver is
+    "the source-side counterpart of 'the translation's intended
+    audience'". No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -58,6 +67,7 @@ summary: >-
   to a given reader is fixed.
 bears_on:
 - QUESTION-029
+- QUESTION-075
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-151 — Superseded (by CLAIM-220) or Proposed; the line's receiver-side claims this one was placed beside, cited as they stood -->

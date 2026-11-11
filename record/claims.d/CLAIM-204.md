@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3wo5j
 title: 'A communicative kind''s identity is grounded in its relational organization, for which competent participants'' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -41,6 +41,14 @@ history:
     2026-10-12 leaves to the owner whether it answers; bears_on
     asserts no answer. Its line, pragmatic-transport, is the
     question's (ADR-085). No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question's text: "The record's replies answer part of
+    it": CLAIM-204 indexes the October thesis to a population and
+    tasks. It names no general family, so bears_on, not answers. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -92,6 +100,7 @@ summary: >-
   2026-10-29. A proposal, not a finding.
 bears_on:
 - QUESTION-050
+- QUESTION-075
 ---
 <!-- ref::uses-file: TERM-040 — the claim's subject, named in its title: a communicative kind in this term's sense -->
 <!-- ref::uses-file: TERM-043 — listed by the claim's author and not named in the body; whether the fidelity clause is stated in this sense was raised for the owner when the branch was reconciled with main on 2026-10-12 -->

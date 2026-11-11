@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpqfgjl
 title: 'The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line''s own theses say fidelity is task-relative, interpreter-relative and not a single ranking'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,6 +15,13 @@ history:
     objection turns against the defeat tests, not as premises it
     asserts, and its body does not say which horn is right. The claim
     is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question was "Raised by CLAIM-244 and CLAIM-226". Its
+    text: the want of a task or receivers "is held open in
+    QUESTION-075". A premise of the question. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -40,6 +47,8 @@ summary: >-
   line's own theses say fidelity needs. [CLAIM-140](CLAIM-140.md) is its neighbour: that
   one moves the criterion to the analyst, and neither says it is
   task-free.
+bears_on:
+- QUESTION-075
 ---
 <!-- inactive-ok-file: CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses this objection is to, as worded; the objection stays pointed at them -->

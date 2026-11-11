@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp1jea9
 title: 'Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-05'
@@ -42,6 +42,14 @@ history:
     recomputed the cube's levels under B₃ and S₃. The promote_when's two
     refutation conditions are CLAIM-385's defeat condition. Title
     unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-036
+    added. The question's note: CLAIM-132 and THEORY-019 "both lean
+    toward a negative answer: characters fix neither the group nor its
+    action, and spectral degeneracy does not identify a symmetry".
+    CLAIM-193 says the same. No other change.
 tags:
 - mathematics
 - representation-learning
@@ -65,7 +73,10 @@ summary: >-
   groups and says nothing about the characters inside a multiplet.
 presupposes:
 - THEORY-017
+bears_on:
+- QUESTION-036
 ---
+<!-- inactive-ok-file: CLAIM-193 — Proposed; cited in the history note of 2026-11-11 for what it says of QUESTION-036 -->
 
 # THEORY-019: Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 

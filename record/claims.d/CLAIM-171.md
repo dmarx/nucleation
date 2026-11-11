@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmptmxjl
 title: 'A stored text means only what its readings make of it: the writer''s projected receiver is one more reading, so an unread text has possible meanings and no fixed one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-075
+    added. The question's note of 2026-10-12: CLAIM-160 and CLAIM-171
+    are "filed positions" on "whose receiver counts"; CLAIM-171
+    "objects that the projected receiver is one more reading", and
+    "neither answers this question as posed". No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -24,6 +33,8 @@ summary: >-
   for the reader, not in what it was made to do) works only if the
   writer's frame is itself recoverable, and that is [QUESTION-031](../questions.d/QUESTION-031.md)'s
   problem.
+bears_on:
+- QUESTION-075
 ---
 <!-- inactive-ok-file: CLAIM-111 CLAIM-160 — Proposed; the support and the target, both open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->

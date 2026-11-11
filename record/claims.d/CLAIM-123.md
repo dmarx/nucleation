@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzkhdr
 title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-16'
@@ -47,6 +47,13 @@ history:
     region-based step, and where its weights are normalized it is an
     average, to which this claim's condition on sums does not apply. The
     claim is unchanged.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-018
+    added. Its text: "The open question behind it is QUESTION-018."
+    The question's: CLAIM-123 "states the exact condition" for adding
+    scores. A premise of the question. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -72,6 +79,8 @@ summary: >-
   The manuscript's §7, citing Composable Diffusion, T2I-CompBench and
   Schrödinger bridges. The readings support it, and the manuscript is
   more careful than the paper it cites.
+bears_on:
+- QUESTION-018
 ---
 
 # CLAIM-123: In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require

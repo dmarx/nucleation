@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptd5us
 title: 'A regime of valence is felt, in the sense of attended and available to the system''s other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -35,6 +35,14 @@ history:
     process that carries it, observed without reference to whether a
     model of the potential is present. The thesis is unchanged. No
     other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-442
+    added. The question's text: "The record holds two self-models and
+    does not say whether they are one", CLAIM-439's, which makes a
+    regime "felt", and CLAIM-355's. A premise of the question, which
+    links the two and does not test either. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,6 +82,7 @@ grounds:
 - LIT-1451
 bears_on:
 - QUESTION-059
+- QUESTION-442
 summary: >-
   Filed at the owner's direction, 2026-10-23, as a candidate for when the
   functional regime of [CLAIM-440](CLAIM-440.md) is felt. It extends Brouillet and
@@ -84,6 +93,7 @@ summary: >-
   sufficiency condition, for affect only, and it adopts [THEORY-662](../theory.d/THEORY-662.md)'s sense
   of "felt": attended and available, not a further phenomenal fact.
 ---
+<!-- inactive-ok-file: CLAIM-355 — Proposed; the other self-model QUESTION-442 links, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; the beautiful-loop account, a rival on sufficiency, cited as open -->
 <!-- inactive-ok-file: CLAIM-438 — Proposed; the objection and reading filed with this batch, cited as open -->

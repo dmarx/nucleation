@@ -15,7 +15,15 @@ promote_when: >-
   not bear on valence (counting, kin recognition, stress sounds), and
   surveys of who accepts plant consciousness, cannot settle it.
 title: "If sentience comes in degrees, plants may be faintly sentient, and moral status is graded by degree of sentience, then plants have a partial moral status so low that animal interests outweigh theirs in most cases; all three premises are assumed, and the second rests on contested, second-hand evidence"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-368
+    added. The question's text: "The record's readings give several"
+    grounds of standing, among them "degree of sentience
+    (THEORY-449)", which is its first position. No other change.
 tags:
 - ethics
 - consciousness
@@ -32,6 +40,8 @@ summary: >-
   no scale and no aggregation rule. It should not be cited as evidence of
   plant sentience, and the second author's later work leans against plant
   consciousness.
+bears_on:
+- QUESTION-368
 ---
 <!-- inactive-ok-file: THEORY-699 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-193 — Proposed; the work this account comes from, filed Proposed because its premises are unproven -->

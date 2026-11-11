@@ -4,7 +4,18 @@ status: Active
 formerly:
 - CLAIM-tmp9ras2
 title: 'A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-013
+    added. Its text: "a text can change dramatically while retaining a
+    relatively small set of highly consequential relational
+    constraints", with the manuscript's "their trajectories need not
+    coincide", the sentence QUESTION-013 asks about. Evidence that the
+    components can diverge along a chain, not an answer to when. No
+    other change.
 role: granted
 warrant: interpretive
 tags:
@@ -21,6 +32,8 @@ summary: >-
   metric formulation obscured". The manuscript keeps the bound and a
   soft form of the limit (§8: invariants, decision risks and
   compatibility structures "need not coincide").
+bears_on:
+- QUESTION-013
 ---
 
 # CLAIM-031: A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act

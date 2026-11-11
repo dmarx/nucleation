@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpa82q4
 title: 'Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,14 @@ history:
     their examples, was cited to CLAIM-145; since 2026-10-28 it is
     ARG-014 (ADR-061), so the citation now points there (thirteenth
     status review, ADR-057). The entry is unchanged otherwise.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-023
+    added. The question's note of 2026-10-12: "CASE-061 is a
+    documented insider reading: a hymn phrase heard as faith by those
+    who sing the hymn and as boilerplate by others." An instance of
+    the question. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -33,6 +41,8 @@ summary: >-
   others heard boilerplate; an experiment with an ingroup and a religiously
   diverse outgroup measured the split. The same-wording variant of
   [CASE-064](CASE-064.md), illustrating [CLAIM-224](../claims.d/CLAIM-224.md) without translation.
+bears_on:
+- QUESTION-023
 ---
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the objection this case illustrates, and the intention-based objection whose reply it meets, open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, cited as open -->

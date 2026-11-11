@@ -20,7 +20,15 @@ promote_when: >-
   reports of pure awareness cannot settle it, since the account was built to
   fit them.
 title: 'Pure awareness, on Metzinger''s account, is the content of a temporally thin model of the organism''s own tonic alertness, its capacity to know; experience in this minimal form lacks an egoic self-model, a first-person perspective, time, space and even phenomenal oneness, but not self-modelling, and tonic alertness that is not so modelled is not experienced'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-368
+    added. The question's text: "On his account this machine would be
+    conscious (THEORY-1299)." A premise of the question. No other
+    change.
 tags:
 - consciousness
 - phenomenology
@@ -43,6 +51,7 @@ summary: >-
 bears_on:
 - QUESTION-048
 - QUESTION-254
+- QUESTION-368
 ---
 <!-- inactive-ok-file: NOTE-1499 — Skimmed; the partial reading of the 2024 book, the 2020 paper being read in full -->
 <!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-882 CLAIM-412 TERM-082 — Proposed or Open; the readings, questions, claims and terms this account bears on, cited as open -->

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp82c4f
 title: 'Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -16,6 +16,15 @@ history:
     3 read "Along a low-loss path every layer's features interpolate the
     endpoints'"; old step 4 began: Merging fails "where their features have no
     counterpart in the other model". The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-036
+    added. Its text: the line's questions on invariants (QUESTION-027,
+    QUESTION-029, QUESTION-036) "ask for in the abstract" what the
+    mode-connectivity results are "a worked protocol for", and "It
+    does not answer QUESTION-027 or QUESTION-036. It gives them a
+    template with measured examples." No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +55,8 @@ summary: >-
   From five mode-connectivity THEORYs held without links to the line. The
   carry-over from trained networks to communicative kinds is the
   filer's, and is the claim's weak point.
+bears_on:
+- QUESTION-036
 ---
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the general forms of this claim's premises, filed under ADR-040, open -->
 

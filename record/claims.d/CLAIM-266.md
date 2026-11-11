@@ -7,7 +7,7 @@ title: 'A family of probes that supplies an optimized system''s training signal
   cannot also certify what the system preserves: optimization pushes toward
   whatever the probes reward, including what they cannot see, so preservation
   must be shown under probes not used to train it'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-13'
@@ -26,6 +26,17 @@ history:
     it does not say", which read "The documented support is one case,
     in image generation. Hence Proposed.", is replaced. The claim is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-258
+    added. The question's text: "The measures cannot certify the
+    choice. From CLAIM-266 and CLAIM-190: 'we shouldn't certify
+    manuscripts using only the structural measures we optimized.'" Its
+    title: a family of probes that supplies an optimized system's
+    training signal "cannot also certify what the system preserves".
+    Under ADR-085 it takes records-of-inquiry, the question's first
+    line, after its own. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: Across systems optimized against a probe family, evaluation in
@@ -39,6 +50,7 @@ tags:
 date: '2026-10-13'
 line:
 - formal-apparatus
+- records-of-inquiry
 grounds:
 - CASE-041
 summary: 'The general content of [CLAIM-149](CLAIM-149.md), filed alone under [ADR-040](../decisions.d/ADR-040.md) so that
@@ -48,7 +60,10 @@ summary: 'The general content of [CLAIM-149](CLAIM-149.md), filed alone under [A
   of what was preserved. [CASE-041](../cases.d/CASE-041.md) is a documented instance: a Projected FastGAN
   trained against ImageNet features matches StyleGAN2''s FID, also computed
   in ImageNet features, while doing worse in CLIP space and with human judges.'
+bears_on:
+- QUESTION-258
 ---
+<!-- inactive-ok-file: ADR-085 — Proposed; the line rule the history note of 2026-11-11 applies -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 
 # CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it

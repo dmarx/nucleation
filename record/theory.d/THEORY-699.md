@@ -17,7 +17,15 @@ promote_when: >-
   plant behaviour, or more intuitions about a self-maintaining car, cannot
   settle it.
 title: "Adaptive self-maintenance across varied conditions is sufficient, without sentience, for having a good of one's own, so insentient plants and a self-maintaining machine are welfare subjects while thermostats are not; but the line against thermostats is argued as one of degree, and the reasons such welfare gives are extremely weak"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by question: bears_on QUESTION-368
+    added. The question's text: "adaptive self-maintenance without
+    sentience (THEORY-699)", and its third position, "Standing
+    grounded in a good of one's own (THEORY-699)". No other change.
 tags:
 - ethics
 - consciousness
@@ -38,6 +46,8 @@ summary: >-
   comparatively. The answer to absurd obligations borrows Bradford 2023
   and makes phenomenal consciousness decide how much such welfare
   matters.
+bears_on:
+- QUESTION-368
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-221 THEORY-449 THEORY-658 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
