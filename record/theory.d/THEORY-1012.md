@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwm0kx
 title: 'Latent features made dependent through a layer of categories, each observation''s features being a function of how many of its categories carry each feature, stay finite on finite data when a feature carried by none of an observation''s categories is always off; under that condition a category can switch features on and never off, so features depend on one another by sharing a category, or, where an observation has a single category, by excluding one another, and no feature or category suppresses another'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,16 @@ history:
     own future-work list; the argument, including the exclusion the DP-IBP
     produces, is set out below. That meets the
     condition for Active under ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, whose text cites it:
+    "Correlated latent-feature models put a layer of categories over the
+    features ..., a candidate for something between a feature and a
+    perspective". corroborates CLAIM-454, whose note gives it among
+    "supporting cases, not a test": "A layer above the features is still
+    co-occurrence". No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -29,6 +39,10 @@ summary: >-
   in the DP-IBP, exclusion between categories; suppression is outside
   them, and negative correlation is left as future work. The models' predictive
   advantage over the IBP is mixed in the paper's own table.
+bears_on:
+- QUESTION-276
+corroborates:
+- CLAIM-454
 ---
 
 # THEORY-1012: Latent features made dependent through a layer of categories, each observation's features being a function of how many of its categories carry each feature, stay finite on finite data when a feature carried by none of an observation's categories is always off; under that condition a category can switch features on and never off, so features depend on one another by sharing a category, or, where an observation has a single category, by excluding one another, and no feature or category suppresses another

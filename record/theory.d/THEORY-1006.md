@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpumk4q
 title: 'In the dependent Indian buffet process each item''s feature indicator is a Gaussian process thresholded at the quantile of a stick length that does not change with the covariate, so its prevalence is the same at every covariate value and its persistence is set separately by the covariance; the whole feature matrix at a covariate value is an Indian buffet process only when there is no shared feature-level process, and with one the items are correlated and fewer features are occupied'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,16 @@ history:
     shared process has positive variance, and the persistence numbers,
     are the record's, derived and checked by simulation, which meets the
     condition for Active under ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, whose text cites it:
+    "The dependent IBP lets features appear and fade over a covariate
+    such as time without fixing their number, with each feature's
+    prevalence held fixed". bears_on QUESTION-275, whose text cites it
+    as a candidate temporal prior: "The dependent IBP in its collapsed
+    form is a candidate prior over B_s that does not". No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -29,6 +39,9 @@ summary: >-
   Z(t) is an IBP at each t holds for its collapsed model; with a shared
   feature-level GP it holds item by item only. Persistence for a fixed
   correlation still falls with prevalence.
+bears_on:
+- QUESTION-276
+- QUESTION-275
 ---
 
 # THEORY-1006: In the dependent Indian buffet process each item's feature indicator is a Gaussian process thresholded at the quantile of a stick length that does not change with the covariate, so its prevalence is the same at every covariate value and its persistence is set separately by the covariance; the whole feature matrix at a covariate value is an Indian buffet process only when there is no shared feature-level process, and with one the items are correlated and fewer features are occupied

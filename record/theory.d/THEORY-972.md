@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7wy54
 title: 'In the author–topic model the likelihood of a corpus depends on the topics Φ and the authors'' topic distributions Θ only through the document–word matrix ΦΘA, A being fixed by the observed authorship, so LDA (each document its own author) and the topic-free author model (each author one topic) are special cases; and the likelihood leaves Φ and Θ unidentified not only up to the permutations of topics the paper names but along a continuum of changes of topic basis whenever every topic gives every word positive probability'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,18 @@ history:
     non-identifiability its §3.2. The continuum is the record's, from
     CLAIM-148's NMF gauge. All of it is re-derived below and checked
     numerically, which meets the condition for Active under ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, whose text cites it:
+    "Inferred memberships are not identified. The author-topic model and
+    the blockmodel each leave a continuum of changes of basis free".
+    corroborates CLAIM-148, whose note of 2026-10-26 gives it as an
+    instance of the claim's gauge: "Its likelihood depends on the topics
+    and the authors' topic distributions only through ΦΘA ... The
+    likelihood also leaves a continuum of changes of topic basis free";
+    the claim does not need it. No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -29,6 +41,10 @@ summary: >-
   then choose among the profiles. It says nothing about the posterior's
   concentration, and nothing about conditions under which Φ and Θ are
   identified up to permutation.
+bears_on:
+- QUESTION-276
+corroborates:
+- CLAIM-148
 ---
 
 # THEORY-972: In the author–topic model the likelihood of a corpus depends on the topics Φ and the authors' topic distributions Θ only through the document–word matrix ΦΘA, A being fixed by the observed authorship, so LDA (each document its own author) and the topic-free author model (each author one topic) are special cases; and the likelihood leaves Φ and Θ unidentified not only up to the permutations of topics the paper names but along a continuum of changes of topic basis whenever every topic gives every word positive probability

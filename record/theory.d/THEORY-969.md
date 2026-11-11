@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5t37f
 title: 'In hierarchical LDA every document draws all its words from the topics on one root-to-leaf path of a tree drawn from the nested Chinese restaurant process, so the prior is a nested sequence of partitions of the documents, exchangeable in them, and two documents share a topic only by sharing the whole path above it: no document can draw on two sibling subtrees'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,14 @@ history:
     consequences are re-derived below from the generative process, and
     the exchangeability was checked by enumeration. That meets the
     condition for Active under ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276: the question cites
+    this reading for its condition 2, "in hLDA two documents share a
+    topic only by sharing the whole path above it", and "hLDA's overlap
+    is nested". No other change.
 tags:
 - probabilistic-modeling
 - information-retrieval
@@ -28,6 +36,8 @@ summary: >-
   shared topics with it. It is a statement about the model, not about the
   data, and it says nothing about whether the tree the sampler finds is
   identified. The multiple-path relaxation is the nested HDP's ([LIT-002](../literature.d/LIT-002.md)).
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-969: In hierarchical LDA every document draws all its words from the topics on one root-to-leaf path of a tree drawn from the nested Chinese restaurant process, so the prior is a nested sequence of partitions of the documents, exchangeable in them, and two documents share a topic only by sharing the whole path above it: no document can draw on two sibling subtrees

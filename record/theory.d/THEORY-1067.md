@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpco2va
 title: 'In angular synchronization from m pairwise offsets, each exact with probability p and otherwise uniform over L values, no estimator of any computational cost can recover all n angles with small error when p is below about √((n/m)·2 log₂ L/(L − 1)), nor an angle of average degree below about √((n/m)·log₂ L/(L − 1)), because each offset carries at most I(L, p) ≈ ½(L − 1)p² bits; below these thresholds a global configuration that exists is not determined by the pairwise evidence, whatever the resources spent on finding it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-474, whose text says "Even
+    when a configuration exists, the evidence may not determine it, and
+    when it does, finding it may cost too much (Singer)"; this reading
+    is that bound. The claim does not need it. No other change.
 tags:
 - information-theory
 - mathematics
@@ -19,6 +28,8 @@ summary: >-
   per-angle recovery, not partial correlation, which the eigenvector method
   achieves below it. It says nothing of what a bounded algorithm can do
   above it.
+corroborates:
+- CLAIM-474
 ---
 <!-- inactive-ok-file: THEORY-1056 — Proposed; the claims this bears on and the companion account of the cheap method, cited as open -->
 

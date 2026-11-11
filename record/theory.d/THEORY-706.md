@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpeogx6
 title: "Any redundancy function defined on the lattice of antichains of sources, ordered so that a collection precedes another when every source of the latter contains one of the former, has a Möbius inverse that decomposes the information a set of sources gives about a target into partial-information atoms summing to every subset's mutual information; for the I_min redundancy, the expected minimum specific information over sources, every atom is nonnegative, and interaction information is a signed mixture of atoms, synergy minus redundancy for three variables"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-343, whose text cites it
+    for where the deficit lands: "I_min gives {1}{2}{3} = 1 and
+    {12}{13}{23} = 1, all nonnegative, because it does not satisfy
+    identity". The claim does not need it. No other change.
 tags:
 - information-theory
 - complex-systems
@@ -18,6 +27,8 @@ summary: >-
   cases were checked. What is not shown is that I_min measures shared
   information: it gives two independent copied bits 1 bit of redundancy
   (Harder, Salge and Polani).
+corroborates:
+- CLAIM-343
 ---
 
 # THEORY-706: Any redundancy function defined on the lattice of antichains of sources, ordered so that a collection precedes another when every source of the latter contains one of the former, has a Möbius inverse that decomposes the information a set of sources gives about a target into partial-information atoms summing to every subset's mutual information; for the I_min redundancy, the expected minimum specific information over sources, every atom is nonnegative, and interaction information is a signed mixture of atoms, synergy minus redundancy for three variables

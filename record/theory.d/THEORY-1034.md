@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpzv1fw
 title: 'In the Markov Indian buffet process each feature''s probability of staying on is drawn independently of its probability of switching on, so how long a feature persists once on does not depend on how rare it is; the process is defined for the time steps of one sequence, not for several objects over time'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -15,6 +15,15 @@ history:
     probability of staying on, computed from (6), is (c¹¹ + γ)/(γ + δ +
     c¹⁰ + c¹¹) and does not involve α or the switching-on counts (record
     script, 2026-10-27).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, whose text argues that
+    "Time and groups have established forms, with gaps" for members'
+    features over time; this reading shows the Markov IBP is "defined
+    for the time steps of one sequence, not for several objects over
+    time". No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -30,6 +39,8 @@ summary: >-
   (b) are separate per-feature parameters. It does not say that
   prevalence is held fixed over time, which it is not ([THEORY-1019](THEORY-1019.md)),
   nor how to share the chains across several objects.
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-1034: In the Markov Indian buffet process each feature's probability of staying on is drawn independently of its probability of switching on, so how long a feature persists once on does not depend on how rare it is; the process is defined for the time steps of one sequence, not for several objects over time

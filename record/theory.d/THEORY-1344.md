@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpuw92f
 title: 'Empowerment is the channel capacity from an agent''s next n actions to its sensor n steps later, an open-loop, interventional measure of how many perceptibly different futures the agent can bring about, which counts no control the agent cannot perceive; given side information about the channel''s state it is never lower, so it is ordered by what the agent can read, from full state through its own sensor history to none'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-354, whose note of
+    2026-11-03 (later) weighs empowerment against the claim's defeat
+    condition and finds it "does not collapse this claim's profile to a
+    scalar", because it is "open-loop, depends on the horizon and
+    ignores cost and viability". The claim does not need it. No other
+    change.
 tags:
 - information-theory
 - agency
@@ -18,6 +29,8 @@ summary: >-
   and one inequality, re-derived. It does not say empowerment is what
   organisms maximize, which the authors offer as a hypothesis in a weak
   form only, nor that it prices control cost or viability.
+corroborates:
+- CLAIM-354
 ---
 <!-- inactive-ok-file: THEORY-1336 — Proposed; the cart-pole result, cited for what this definition does not say -->
 

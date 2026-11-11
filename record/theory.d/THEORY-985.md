@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgy035
 title: 'The beta process BP(c, B0) is the de Finetti mixing measure of the Indian buffet process: given n objects, the next has each existing feature with probability equal to the number holding it over c + n and a Poisson(cγ/(c + n)) number of new ones, so n objects hold Poisson(γ Σ_{i<n} c/(c + i)) distinct features, which is the IBP''s αH_n at c = 1 and γ = α, and c alone sets how much objects share'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,15 @@ history:
     Hjort (1990). The steps from (5) to (6) and (7), and the match to the
     buffet, are re-derived below, which meets the condition for Active
     under ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, whose text argues what
+    this reading holds: "The beta-process family is the one whose
+    participation has no sum-to-one constraint", for the feature
+    allocation "with their number left open" it cites from this
+    reading's work (LIT-1556). No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -28,6 +37,8 @@ summary: >-
   much objects share from the mass γ that sets features per object. The
   conjugacy it rests on is cited, not proved, in the paper. It does not
   give dependence between features or over time.
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-985: The beta process BP(c, B0) is the de Finetti mixing measure of the Indian buffet process: given n objects, the next has each existing feature with probability equal to the number holding it over c + n and a Poisson(cγ/(c + n)) number of new ones, so n objects hold Poisson(γ Σ_{i<n} c/(c + i)) distinct features, which is the IBP's αH_n at c = 1 and γ = α, and c alone sets how much objects share
