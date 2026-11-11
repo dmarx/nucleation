@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmphan8l
 title: 'Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: the summary said the claim answers a half of
+    QUESTION-220, but its answers relation is to QUESTION-244, the
+    yes-or-no part split off from QUESTION-220 under ADR-049,
+    which stays Open on the condition for nesting. The summary now
+    names QUESTION-244. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,7 +35,8 @@ grounds:
 summary: >-
   Found by brute force in the reading of Equitz and Cover ([NOTE-988](../notes.d/NOTE-988.md))
   and re-run here from scratch. It answers the deterministic half of
-  [QUESTION-220](../questions.d/QUESTION-220.md) in the negative: raising the budget can reorganize the
+  QUESTION-244, the yes-or-no part split off from [QUESTION-220](../questions.d/QUESTION-220.md), in the
+  negative: raising the budget can reorganize the
   optimal partition rather than split it. The two optima are not even
   laminar, so no fixed tree holds both as prunings, and [NOTE-676](../notes.d/NOTE-676.md)'s nesting
   is bought by its tree restriction. It says nothing about stochastic

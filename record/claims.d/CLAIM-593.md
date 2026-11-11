@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpye2m2
 title: 'Isomorphism is not persistence, in either direction: two separately made mechanisms with the same costed transformation structure are isomorphic and still two, and one mechanism whose hinge is replaced can persist while its costed structure becomes non-isomorphic to the earlier one, so which morphisms count as continuations is structure added by assumptions about the domain, not read off the category'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,13 @@ history:
     names: distributed-agency, since it bears on QUESTION-284;
     pragmatic-transport, since it bears on QUESTION-029. No other
     change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the summary still said adopting the claim is the
+    owner's call. The status review promoted it on 2026-11-06
+    (version 2), and the summary now says so. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -74,7 +81,7 @@ summary: >-
   mechanism is stipulated to be the same one. Checked by the filer with
   python3 -I. [CLAIM-544](CLAIM-544.md) holds the same point for willed agents, as "a
   question of continuation, not of resemblance". The construction is the filer's, from
-  A's; adopting it is the owner's call.
+  A's; the status review adopted it on 2026-11-06.
 ---
 <!-- inactive-ok-file: ARG-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->

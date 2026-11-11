@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbwst7
 title: 'Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -13,6 +13,16 @@ history:
     A24 relied on: Aerts and Gabora's model uses projectors diagonal in
     one basis, so its fits establish nothing beyond classical probability.
     The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the summary called THEORY-013 the claim's
+    strongest ground. The status review of 2026-10-27 moved it to
+    corroborated_by, and it is Proposed. The summary now calls it
+    a corroborating reading and names what demonstrates the claim,
+    CASE-001 and THEORY-545, as the note of 2026-10-27 does. No
+    other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -40,8 +50,10 @@ uses:
 - TERM-024
 summary: >-
   Built over A21–A30, against the assistant's quantum move and then the
-  owner's U13. The manuscript §9 states it. Its strongest ground, the
-  record's [THEORY-013](../theory.d/THEORY-013.md), is not cited in the manuscript.
+  owner's U13. The manuscript §9 states it. The record's THEORY-013, the
+  empirical reason A24 gave and now a corroborating reading (Proposed),
+  not a ground, is not cited in the manuscript. The claim is demonstrated
+  by CASE-001 and THEORY-545.
 ---
 <!-- inactive-ok-file: CLAIM-009 THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->

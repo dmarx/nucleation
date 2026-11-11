@@ -4,7 +4,28 @@ status: Active
 formerly:
 - CLAIM-tmpze62b
 title: 'A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the note of 2026-10-27 says THEORY-174's
+    characterization half stays Proposed. THEORY-174 was promoted
+    on 2026-10-29. A dated correction after the note says so; the
+    note is kept as written and the grounds are unchanged. No
+    other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    complements CLAIM-070 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. Both answer
+    QUESTION-240 and are A84's anchoring propositions ('A84
+    proposed three anchoring propositions; this is the first';
+    CLAIM-070 is Proposition II), and this claim's summary says
+    'It concerns marginal consistency, not global
+    noncontextuality', which is CLAIM-070's part. complements adds
+    no line (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -31,6 +52,8 @@ summary: >-
   Proposition I of A84, Proposition B1 of C6, the manuscript's
   Proposition 1. It concerns marginal consistency, not global
   noncontextuality.
+complements:
+- CLAIM-070
 ---
 <!-- ref::uses-file: TERM-008 — stated in "transport"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 
@@ -89,3 +112,7 @@ refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does n
 characterization, that a map is such a simulation exactly when a
 non-contextual model of the hom scenario induces it. That half waits on an
 independent proof of the corrected Theorem 44 and stays Proposed.
+
+Correction of 2026-11-11: THEORY-174 is Active since the fifteenth status
+review (2026-10-29), on a checked re-derivation of the corrected Theorem 44
+(its note of 2026-10-29). This claim still grounds on THEORY-720 alone.

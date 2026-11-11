@@ -4,7 +4,21 @@ status: Active
 formerly:
 - CLAIM-tmpqjpx1
 title: 'For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-223 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. QUESTION-223 asks
+    whether Ince's I_ccs is a correct redundancy measure,
+    including whether it agrees with a redundancy fixed by
+    mechanism 'where rivals with non-negative atoms do not'; this
+    claim shows that from three sources no redundancy has both
+    identity and nonnegative atoms, and that 'Ince's I_ccs keeps
+    an independent-sources identity and reports a −1-bit atom'.
+    QUESTION-223's line is formal-apparatus, this claim's first,
+    so the line is unchanged (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -34,6 +48,8 @@ summary: >-
   keeps atoms nonnegative by calling independent copied bits redundant,
   and Ince's I_ccs keeps an independent-sources identity and reports a
   −1-bit atom ([THEORY-714](../theory.d/THEORY-714.md)). Two-part ΦID is untouched.
+bears_on:
+- QUESTION-223
 ---
 <!-- inactive-ok-file: THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
 

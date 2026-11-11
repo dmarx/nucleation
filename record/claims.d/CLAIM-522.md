@@ -4,12 +4,22 @@ status: Active
 formerly:
 - CLAIM-tmpr8p2x
 title: 'Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-03'
   note: >-
     uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the note of 2026-11-01 says CLAIM-530 is Proposed
+    until Craver's texts are read. CLAIM-530 was promoted on
+    2026-11-06 with those texts still unread, on Baumgartner and
+    Gebharter's statement of the criterion. A dated correction at
+    the end of that item says so; the note is otherwise kept as
+    written. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -105,7 +115,10 @@ the criterion ([LIT-1930](../literature.d/LIT-1930.md), [LIT-1931](../literature
   claim's boundary. Filed as [CLAIM-530](CLAIM-530.md), Proposed until Craver's
   texts are read. What the criterion needs is what this claim says:
   ideal interventions on the parts, relative to a mechanism boundary
-  declared beforehand.
+  declared beforehand. (Correction of 2026-11-11: CLAIM-530 is Active
+  since 2026-11-06. It was promoted with Craver's texts still unread,
+  citing the criterion as Baumgartner and Gebharter state it, LIT-1934,
+  p. 8.)
 - **A candidate source for the boundary.** Closure in [TERM-070](../terms.d/TERM-070.md)'s sense
   would count a producer as inside when it is itself maintained by what
   it produces. This claim's one-variable model has no term for the

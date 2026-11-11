@@ -4,7 +4,18 @@ status: Active
 formerly:
 - CLAIM-tmp9fgji
 title: 'Over a scenario of n contexts in an odd cycle, changing the support of one context takes the contextual fraction from 1 to 0 while the other n − 1 contexts and every marginal are kept exactly, at a weighted observational distortion of 1/n, so within a scenario the fraction''s Lipschitz constant against that distortion is at least n; and any change of global extension needs a contextual model on one side'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    complements CLAIM-372 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. CLAIM-372 shows
+    the contextual fraction Lipschitz within a scenario with a
+    constant that 'is not bounded here'; this claim's title bounds
+    it from below: 'within a scenario the fraction's Lipschitz
+    constant against that distortion is at least n'. complements
+    adds no line (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,6 +38,7 @@ uses:
 - TERM-043
 complements:
 - CLAIM-320
+- CLAIM-372
 summary: >-
   Split from [CLAIM-201](CLAIM-201.md) under [ADR-043](../decisions.d/ADR-043.md): the derivation that claim called
   "decisive and checkable", stated on its own. For odd n, an n-cycle of

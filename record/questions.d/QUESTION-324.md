@@ -4,7 +4,18 @@ status: Answered
 formerly:
 - QUESTION-tmp3ugy5
 title: 'Are the conditions an effective description is asked to meet (predictive sufficiency, dynamical independence, memory closure, approximation fidelity, tractability) of one logical kind, or are some of them parameters of the regime under which the others are assessed rather than conditions in their own right?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the answer cited THEORY-752 for memory closure's
+    being relative to a chosen projection, beyond what CLAIM-401's
+    version 4 narrowed that citation to. It now cites CLAIM-397
+    and QUESTION-222 for it, and says THEORY-752's result is
+    specific to the conditional-expectation projection. No other
+    change.
 tags:
 - complex-systems
 - philosophy-of-science
@@ -47,7 +58,9 @@ Not of one kind ([CLAIM-401](../claims.d/CLAIM-401.md)):
   fails with the budget ([CLAIM-304](../claims.d/CLAIM-304.md)).
 - **Relations of the representation to the system.** Dynamical
   independence and memory closure, the latter relative to a chosen
-  projection ([CLAIM-397](../claims.d/CLAIM-397.md), [THEORY-752](../theory.d/THEORY-752.md)).
+  projection ([CLAIM-397](../claims.d/CLAIM-397.md), QUESTION-222). THEORY-752's result
+  holds only for the conditional-expectation projection, so it shows that
+  split is specific to that projection, not how others split.
 
 So a matrix over the five as independent binary axes conflates kinds. The
 answer does not say the five reduce to three, and it leaves the

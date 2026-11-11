@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp47w4i
 title: 'Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community''s need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -18,6 +18,14 @@ history:
     → 1, zero at p* = V/C. THEORY-1048, THEORY-567 and CASE-118 are
     Active. No objection is on file, and nothing in the record meets
     the defeat condition. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the summary still said adopting the claim is the
+    owner's call. The twenty-fifth status review promoted it on
+    2026-11-06 (version 2), and the summary now says so. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,7 +59,8 @@ summary: >-
   without eliminating exploitation". The record held the ecological half,
   invasion growth when rare ([CASE-118](../cases.d/CASE-118.md)), and a case of the point (the Black
   Queen, [THEORY-1048](../theory.d/THEORY-1048.md)). It did not hold the point itself. Hawk–Dove makes
-  it exact. The wording is the reader's; adopting it is the owner's call.
+  it exact. The wording is the reader's; the twenty-fifth status review
+  adopted it on 2026-11-06.
 ---
 <!-- inactive-ok-file: LIT-1219 — Unavailable; Chesson's criterion, cited for the definition, not read here -->
 

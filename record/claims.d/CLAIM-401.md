@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpcrdhj
 title: 'The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-26'
@@ -33,6 +33,16 @@ history:
     projection, with QUESTION-222 carrying the projection-relativity; and
     THEORY-820 and THEORY-733, on which the dynamical-independence cell
     rests, join grounds. Title and defeater unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the summary still cited THEORY-752 as support for
+    memory's being relative to the projection, beyond the
+    narrowing of version 4. It now cites QUESTION-222 and
+    CLAIM-397 for that, and says THEORY-752's result holds only
+    for the conditional-expectation projection, as the body does.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -75,8 +85,9 @@ summary: >-
   degree to which a prediction or dynamical relation is preserved", and
   tractability "can instead restrict the operations over which
   preservation is evaluated". The record adds what A5 missed: memory is
-  relative to the projection too ([QUESTION-222](../questions.d/QUESTION-222.md), [THEORY-752](../theory.d/THEORY-752.md), [CLAIM-397](CLAIM-397.md)). It
-  is [CLAIM-348](CLAIM-348.md)'s "adequacy is fixed by the evaluative target" applied to
+  relative to the projection too ([QUESTION-222](../questions.d/QUESTION-222.md), [CLAIM-397](CLAIM-397.md)), and
+  THEORY-752's result holds only for the conditional-expectation
+  projection. It is [CLAIM-348](CLAIM-348.md)'s "adequacy is fixed by the evaluative target" applied to
   the axes of a comparison. It does not say the five reduce to three.
 ---
 

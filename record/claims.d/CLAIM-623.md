@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmprmy7a
 title: "Forgetting a hidden mechanism can turn a sheaf of histories into a presheaf of realizable observations that is not a sheaf: when the union of two overlapping intervals is itself an observable context, two observed histories can each be realizable and agree on their overlap with no realization of their union, so a gluing failure need not show a disagreement on an overlap or a cycle of three contexts"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    complements CLAIM-197 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. The body: 'two
+    statements on the record hold for sheaves and do not reach
+    this presheaf. CLAIM-197 says "a failure needs an overlap
+    carrying sections that disagree" ... Both claims stand for the
+    sheaves they are about.' complements adds no line (ADR-085).
+    CLAIM-153, named in the same passage, was not in the review's
+    list and is left. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -28,6 +40,7 @@ grounds:
 - CASE-224
 complements:
 - CLAIM-131
+- CLAIM-197
 bears_on:
 - QUESTION-379
 summary: >-

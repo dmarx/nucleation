@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpyj9zk
 title: "In plane Couette and plane Poiseuille flow, measured in the energy norm, the linearized operator about the laminar profile has transient growth at least cR and resolvent norm at least cR² with c independent of R, so wherever it is eigenvalue-stable a perturbation of norm at most CR⁻² makes it eigenvalue-unstable"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -17,6 +17,13 @@ history:
     THEORY-304 keeps the leading-order scalings and their constants, from
     the source's computation, Proposed, and cites this claim for the lower
     bounds.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: the body called THEORY-304 Proposed. It is Active
+    since 2026-10-30 (its version 3); the sentence now says so. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -87,7 +94,7 @@ the Reynolds number R, such that:
 
 - **That the growth is of order R and no more, or what the constants
   are.** Table 1 of [LIT-932](../literature.d/LIT-932.md), R/29.1, R/71.5, (R/8.12)² and (R/17.4)²,
-  comes from computation. That is [THEORY-304](../theory.d/THEORY-304.md)'s, Proposed.
+  comes from computation. That is [THEORY-304](../theory.d/THEORY-304.md)'s, Active since 2026-10-30.
 - **Where the flows are eigenvalue-stable.** All R for Couette flow and
   R < 5772 for Poiseuille flow is the source's statement. The third bound
   is stated conditionally on it.

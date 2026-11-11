@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg7w69
 title: 'Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,25 @@ history:
     through the first line of an entry it names:
     pragmatic-transport, since it bears on QUESTION-031. No other
     change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: the note of 2026-11-05 on the further DNA origami
+    readings named this claim by its own code, as if another entry
+    ('CLAIM-574's nesting of probe families'). It now says 'this
+    claim's'. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    complements CLAIM-455 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. The note of
+    2026-11-07: 'The two vary different things. This claim
+    enlarges the probe family. CLAIM-455 fixes the observer's
+    rules and changes the representation. Read together,
+    distinctions grow with the probe family, and legibility grows
+    with the observer's rule class'. complements adds no line
+    (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -56,6 +75,7 @@ complements:
 - CLAIM-302
 - CLAIM-564
 - CLAIM-590
+- CLAIM-455
 uses:
 - TERM-069
 - TERM-065
@@ -212,7 +232,7 @@ The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026
 - The gel merges a damaged design with well-folded ones.
 - It also splits well-folded designs by mobility.
 
-This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
+This bears on this claim's nesting of probe families. No probe costs are quantified.
 
 No status changes.
 

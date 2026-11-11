@@ -4,7 +4,18 @@ status: Active
 formerly:
 - CLAIM-tmp2xpga
 title: 'A compatible family of sections of the event sheaf always glues, so where a communicative object lacks a global realization the obstruction lies in its supports or distributions, not in the event sheaf'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Records the note of 2026-11-07, 'the split carried to time,
+    and a case outside it', from the exchange 'Individuation,
+    Possibility, and Disposition', which was added without a
+    version bump or history entry; found by the ninth synthesis
+    review of 2026-11-11. The note relates CLAIM-625, CLAIM-623
+    and CASE-224 to this claim and changes no status. No other
+    change.
 role: granted
 warrant: demonstrated
 tags:

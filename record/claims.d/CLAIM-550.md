@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp8e3ye
 title: 'A perspective''s tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,14 @@ history:
     α > 0 that is d ≤ (θ + κ⁻¹ logit ε − b)/α; the bound rises with θ at
     rate 1/α and is negative exactly when b > θ + κ⁻¹ logit ε. That
     raising θ is not relief is CLAIM-347's, its one premise, Active.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    complements CLAIM-538 added, from the missing relations listed
+    by the ninth synthesis review of 2026-11-11. The body:
+    'CLAIM-538 gives per-overlap tolerances δ_e. Both take
+    tolerances as given. This claim gives one way they can arise'.
+    complements adds no line (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,6 +50,7 @@ complements:
 - CLAIM-548
 - CLAIM-549
 - CLAIM-553
+- CLAIM-538
 bears_on:
 - QUESTION-372
 summary: >-

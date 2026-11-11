@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp861ar
 title: 'On a finite set of stimuli, regularized linear readouts with ridge b > 0 cannot tell apart two centred representations of the same width exactly when one is an orthogonal transformation of the other, and the unregularized CCA member cannot tell apart representations with the same column space, which differ by an invertible linear map'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -16,6 +16,15 @@ history:
     #165). The derivation below was re-checked for that decision. CLAIM-269
     rests on this claim and keeps its clauses grounded on THEORY-002 and
     THEORY-019, Proposed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Stale text corrected, from the ninth synthesis review of
+    2026-11-11: 'What it does not say' still gave CLAIM-269's
+    further clause as grounded on THEORY-002. The eleventh status
+    review moved that ground to THEORY-004 and THEORY-723 on
+    2026-10-29 (CLAIM-269's version 3); the bullet now says so. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -86,9 +95,10 @@ final layer.
 ## What it does not say
 
 - **That kernels fix a representation up to the symmetry of the observed
-  data.** That is [CLAIM-269](CLAIM-269.md)'s further clause, grounded on [THEORY-002](../theory.d/THEORY-002.md), and
-  it is about converging kernels, not the orthogonal freedom of one
-  representation.
+  data.** That is [CLAIM-269](CLAIM-269.md)'s further clause. Until 2026-10-29 it was
+  grounded on THEORY-002, about converging kernels; since the eleventh
+  status review it is grounded on THEORY-004 and THEORY-723, what a
+  kernel and a softmax distribution fix.
 - **Anything about nonlinear probes.** The family is the regularized
   linear readouts of [THEORY-008](../theory.d/THEORY-008.md).
 - **Anything for infinitely many stimuli.** [THEORY-008](../theory.d/THEORY-008.md) is Active only on a

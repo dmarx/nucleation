@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmppi0xf
 title: 'A coarse-graining exactly informationally closed under a process''s ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T''s fibres over the states of positive probability'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -21,6 +21,15 @@ history:
     192-state organization (CASE-164), with Γ = 0.55·H₂(1/3) bits
     and the zero condition met once the maintenance mode is kept. The
     claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    uses TERM-068 added, from the missing relations listed by the
+    ninth synthesis review of 2026-11-11. The title's 'exactly
+    informationally closed under a process's ordinary dynamics' is
+    TERM-068's sense 1, informational closure, I(X⃗_t; Z_{t+1} |
+    Z⃗_t) = 0, the term written 'so that a claim using the word
+    says which'. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -48,6 +57,7 @@ grounds:
 uses:
 - TERM-067
 - TERM-023
+- TERM-068
 summary: >-
   A16 §3–4 of the exchange of 2026-10-20 and A17 §4.2–4.3, its paper's
   Proposition 1, reused at A18 and in A23's audit. A16: "a representation

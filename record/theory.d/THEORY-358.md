@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpy998n
 title: "In visual search among up to about 36 well-spaced items, a target that alone carries one colour or one distinctive shape part is found in time almost independent of the number of items, while a target identified only by a combination of features its neighbours carry separately takes time that grows linearly with the number of items, about twice as fast when the target is absent, the pattern of a serial self-terminating scan, and practice did not remove it; that conjunctions rather than similarity cause it is the paper's reading, not its result"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-113 added, from the ninth synthesis review
+    of 2026-11-11, which found QUESTION-113 with no stored
+    relation. The body supports it: "QUESTION-113's retrieval
+    criterion turns on whether an item already stands out. This
+    says when it does, under these conditions, and does not decide
+    between the question's criteria." No other change.
 tags:
 - cognition
 date: '2026-10-15'
@@ -22,6 +32,8 @@ summary: >-
   similarity account of Duncan and Humphreys ([LIT-1081](../literature.d/LIT-1081.md)), which the
   record could not obtain, and it does not follow that any item unique in
   one attribute pops out in a real pile.
+bears_on:
+- QUESTION-113
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; the rival account, cited as unread -->
 

@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpsrgse
 title: 'Which published models of concept combination reproduce overextension by dropping conjunction-as-meet, and which by dropping an order-preserving membership weight?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Body corrected, from the ninth synthesis review of 2026-11-11:
+    a link target to THEORY-255 had been spliced into the path of
+    the promotion audit's decision file. The path is restored and
+    set as code, record/promotion-audit/decisions/THEORY-255.yaml.
+    No other change.
 tags:
 - cognition
 - logic
@@ -30,7 +39,7 @@ summary: >-
 weight on a lattice and "and" is the meet, then µ(A and B) ≤ min(µ(A),
 µ(B)), whatever the negation. On 2026-10-19 it was narrowed and promoted
 at the owner's direction, carrying out the promotion audit's batch 018
-(record/promotion-audit/decisions/[THEORY-255](../theory.d/THEORY-255.md).yaml, [ADR-047](../decisions.d/ADR-047.md)). Its former
+(`record/promotion-audit/decisions/THEORY-255.yaml`, [ADR-047](../decisions.d/ADR-047.md)). Its former
 promote_when also asked for a reading of a second quantum model of the
 concept-combination data, to confirm that it too puts the guppy-type
 deviations outside the lattice meet.

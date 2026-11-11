@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqe024
 title: 'A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so no such readout supplies a distinction beyond that symmetry'
-version: 5
+version: 6
 history:
 - version: 1
   date: '2026-10-13'
@@ -59,6 +59,16 @@ history:
     kernel, and kernels fix a representation only up to the symmetry of
     what is observed, so any distinction beyond that is supplied by the
     analyst, not by the readouts'.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    Note of 2026-11-11 added, from the ninth synthesis review of
+    2026-11-11: the notes of 2026-10-19 and 2026-10-29 described
+    the claim's old ground and what held it back, and nothing in
+    the body said what replaced them. The new note gives
+    THEORY-002's replacement by THEORY-004 and THEORY-723 (version
+    3), the settling of the last check by version 5, and the
+    current grounds and premises. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: A regularized linear readout shown to separate two representations
@@ -147,3 +157,15 @@ review, and the fourth bullet also rests on [CLAIM-385](CLAIM-385.md). What is l
 check of the claim's own last step, that a distinction beyond the kernel's
 symmetry "is supplied by the analyst", which may be interpretive rather
 than demonstrated.
+
+## Note of 2026-11-11: the two notes above, as the claim now stands
+
+Neither note above states the claim's current grounds or standing. The
+note of 2026-10-19 gives the fourth bullet, grounded on THEORY-019, as
+what kept the claim Proposed; it does not mention the second bullet's
+ground of that date, THEORY-002, which the eleventh status review replaced
+by THEORY-004 and THEORY-723 on 2026-10-29 (version 3). The check the note
+of 2026-10-29 left was settled by version 5 the same day: the analyst
+clause was dropped from the title and stays in CLAIM-193, and the claim
+was promoted. Its grounds are THEORY-008, THEORY-004, THEORY-723,
+THEORY-018 and THEORY-019, and it rests on CLAIM-379 and CLAIM-385.

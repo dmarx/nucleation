@@ -13,7 +13,18 @@ promote_when: >-
   kinds cannot settle either half, and neither can stability of a
   clustering under resampling, which spurious structure can also show.
 title: "Clustering, abstraction and generative modelling can be how we come to identify natural kinds, essential properties and unrealized possibilities, but kinds, essences and possibilities are not by definition what such algorithms would find under ideal conditions, because nothing guarantees they are effectively computable; so an algorithm's output is evidence about a kind, neither objective nor vacuous, and not what makes it one"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-113 added, from the ninth synthesis review
+    of 2026-11-11, which found QUESTION-113 with no stored
+    relation. The body supports it: "QUESTION-113 asks whether
+    stability under refinement picks the same categories as
+    evidence does. Watson's stability tests are one of the
+    severity tools he names, and he does not say stability
+    suffices." No other change.
 tags:
 - metaphysics
 - epistemology
@@ -32,6 +43,7 @@ summary: >-
   learning and foundation models are outside its scope.
 bears_on:
 - QUESTION-028
+- QUESTION-113
 ---
 <!-- inactive-ok-file: THEORY-273 — Proposed; a neighbouring account of natural kinds, named for comparison -->
 

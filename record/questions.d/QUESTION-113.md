@@ -6,7 +6,17 @@ formerly:
 title: 'When a system names a category, which criterion is it meeting: that the
   data supports the distinction, that a deadline forces it, or that it survives
   refinement and compression, and do the three ever pick the same categories?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: the first criterion stated CLAIM-154's rule
+    without its regularity condition. It now adds it, in
+    CLAIM-154's title's words: 'where the model with the candidate
+    stays regular at the parameters that switch it off'. No other
+    change.
 tags:
 - individuation
 - model-comparison
@@ -30,7 +40,9 @@ summary: >-
 **Three criteria.**
 
 1. **Evidence** ([CLAIM-154](../claims.d/CLAIM-154.md)). Keep a distinction when d'² exceeds the
-   Occam cost. It is about the data and grows with copies.
+   Occam cost, where the model with the candidate stays regular at the
+   parameters that switch it off. It is about the data and grows with
+   copies.
 2. **Retrieval** ([CLAIM-307](../claims.d/CLAIM-307.md)). Build a distinction when finding an item in time
    requires it. It is about tasks and deadlines and falls with copies.
 3. **Persistence.** The owner's LEGO monograph, Part III, worked example

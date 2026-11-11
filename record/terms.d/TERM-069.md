@@ -4,13 +4,23 @@ status: Active
 formerly:
 - TERM-tmple6rq
 title: 'observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
   note: >-
     Adopted by the owner at the second review of nucleation#305, 2026-10-21:
     status Proposed → Active. The definition is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Misstatement corrected, from the ninth synthesis review of
+    2026-11-11: the special case 'The coarse variable's law as the
+    probe' placed the pair of CLAIM-389's Y and an autonomous
+    AR(1) under CLAIM-397's 'What it does not say'. The pair is in
+    CLAIM-397's note of 2026-10-21, which widens that section, and
+    in CLAIM-389's note of the same date; the citation now names
+    those. The definition is unchanged. No other change.
 tags:
 - mathematics
 - epistemology
@@ -67,7 +77,8 @@ Special cases the record already holds:
 - **The coarse variable's law as the probe.** [CLAIM-389](../claims.d/CLAIM-389.md)'s coarse variable is
   observationally equivalent, under every probe of its own law, to an
   autonomous AR(1), while one receives 0.120 nats per step from the rest of
-  its system and the other nothing ([CLAIM-397](../claims.d/CLAIM-397.md)'s "What it does not say").
+  its system and the other nothing ([CLAIM-397](../claims.d/CLAIM-397.md)'s note of 2026-10-21, and
+  CLAIM-389's note of the same date).
 
 ## What it is not
 
