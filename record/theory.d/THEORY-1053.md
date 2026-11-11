@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp08c0w
 title: 'Under unitary evolution, two states of a quantum system can each leave a record in another system while themselves staying undisturbed only if they are orthogonal or the record does not distinguish them; so the outcomes that can be recorded repeatably form an orthogonal set, a result that uses only unitarity and repeatability and not the Born rule'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: bears on QUESTION-285, whose
+    note of 2026-10-27 (evening) cites this reading for its record rung:
+    "Zurek (NOTE-1229; THEORY-1053) derives the set of recordable outcomes
+    from repeatability alone, eq. (5), which is a criterion for
+    measurement that needs no observer." Evidence for a rung's criterion,
+    not an answer. No other change.
 tags:
 - quantum-foundations
 - information-theory
@@ -18,6 +28,8 @@ summary: >-
   or ⟨u|v⟩ = 0. Zurek reads this as the origin of the outcome set of the
   collapse postulate. It does not give single outcomes, probabilities or
   which orthogonal set is chosen; that is the interaction's.
+bears_on:
+- QUESTION-285
 ---
 # THEORY-1053: Under unitary evolution, two states of a quantum system can each leave a record in another system while themselves staying undisturbed only if they are orthogonal or the record does not distinguish them; so the outcomes that can be recorded repeatably form an orthogonal set, a result that uses only unitarity and repeatability and not the Born rule
 

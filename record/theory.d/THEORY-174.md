@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprxblg
 title: 'Classical simulations between no-signalling empirical models on different scenarios never create contextuality, and a convex map between two scenarios'' model sets is induced by a classical non-adaptive procedure exactly when some non-contextual model of the hom scenario that satisfies its predicate induces it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -37,6 +37,13 @@ history:
     analogue, which LIT-845 section 6.2 asserts without proof, is a clause
     the source asserts (ADR-047, kind 1), so it is filed as
     THEORY-1170, Proposed, which extends this entry.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: bears on QUESTION-012, whose
+    text lists it among what the question cites and says, of it and
+    CLAIM-245, "Both bear on what a chain through an intermediate image
+    can do to observational structure." No other change.
 tags:
 - contextuality
 - mathematics
@@ -59,6 +66,8 @@ summary: >-
   procedures is a non-contextuality question on a hom scenario,
   re-derived here. No-signalling models
   only, and nothing about information preserved.
+bears_on:
+- QUESTION-012
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this theory bears on -->

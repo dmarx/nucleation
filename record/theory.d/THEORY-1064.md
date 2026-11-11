@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpaw7dg
 title: 'In counterexample-guided abstraction refinement, a spurious counterexample locates the distinction its abstraction lacked: walking it forward through the concrete system, the first abstract state where no concrete continuation exists merges the states the trace can reach with the states that have the transition onward, and splitting them removes the counterexample; for finite-state programs and ACTL* properties whose counterexamples are paths or loops, repeating check and split ends in a real counterexample or a proof'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-470, whose
+    note of 2026-10-27 (evening) cites this reading: "CEGAR (NOTE-1231;
+    THEORY-1064, THEORY-1094) supports the claim's first part", and whose
+    body's formal case is the refinement this reading states, "refined to
+    separate the states whose merging produced it". A worked case the
+    claim does not need, since its last clause "is about inquiry in
+    general" (ADR-058). No other change.
 tags:
 - logic
 - mathematics
@@ -19,6 +30,8 @@ summary: >-
   coarsest split is stated with its proof omitted, and the loop case rests
   on a theorem proved elsewhere. It does not say that the split found is
   the smallest, or how many rounds are needed.
+corroborates:
+- CLAIM-470
 ---
 # THEORY-1064: In counterexample-guided abstraction refinement, a spurious counterexample locates the distinction its abstraction lacked: walking it forward through the concrete system, the first abstract state where no concrete continuation exists merges the states the trace can reach with the states that have the transition onward, and splitting them removes the counterexample; for finite-state programs and ACTL* properties whose counterexamples are paths or loops, repeating check and split ends in a real counterexample or a proof
 

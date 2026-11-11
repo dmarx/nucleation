@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmper2kf
 title: 'In a von Neumann measurement the measuring variable''s information about the measured variable grows continuously under the unitary coupling, in Di Biagio and Rovelli''s model as I_{A:B}(t) = sin²(ωt)H_A, so the discontinuity of a quantum measurement lies only in a threshold on when information counts as a fact; with an idealized pure ready state a fact conditional on a pointer value appears at once, which they attribute to the idealization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: bears on QUESTION-285, whose
+    note of 2026-10-27 (evening) says of Di Biagio and Rovelli 2025 that
+    "Its threshold for a fact is 'high enough for the level of accessible
+    resolution or confidence needed' (p. 3), so a purpose-relative
+    threshold comes back exactly where the question would draw the
+    measurement line". This reading's thesis is that the discontinuity of
+    a measurement lies only in that threshold. No other change.
 tags:
 - quantum-foundations
 - information-theory
@@ -19,6 +30,8 @@ summary: >-
   quantities. A conditional relative fact appears at once in the ideal
   model, and the full-rank case that would remove that is described, not
   computed. The authors say the point is not specifically quantum.
+bears_on:
+- QUESTION-285
 ---
 
 # THEORY-1069: In a von Neumann measurement the measuring variable's information about the measured variable grows continuously under the unitary coupling, in Di Biagio and Rovelli's model as I_{A:B}(t) = sin²(ωt)H_A, so the discontinuity of a quantum measurement lies only in a threshold on when information counts as a fact; with an idealized pure ready state a fact conditional on a pointer value appears at once, which they attribute to the idealization

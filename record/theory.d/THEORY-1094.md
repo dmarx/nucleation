@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpz87qo
 title: 'In counterexample-guided abstraction refinement the property and the concrete system are fixed inputs: the property''s atomic formulas help build the first abstraction and no abstraction may merge states that disagree on them, every refinement only splits classes toward the concrete state space, and a real counterexample ends the procedure; so the loop revises which of the concrete system''s distinctions the model draws, never the property or the space of possible answers'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-470, whose
+    note of 2026-10-27 (evening) cites this reading: "CEGAR (NOTE-1231;
+    THEORY-1064, THEORY-1094) supports the claim's first part" and "is
+    therefore a worked case of refining within a fixed answer space, as
+    the body said". A worked case the claim does not need (ADR-058). No
+    other change.
 tags:
 - logic
 - mathematics
@@ -18,6 +28,8 @@ summary: >-
   for CEGAR as the formal neighbour of inquiry as specification
   ([CLAIM-470](../claims.d/CLAIM-470.md)). It does not say that a property cannot be revised by
   anyone, only that no step of this procedure does it.
+corroborates:
+- CLAIM-470
 ---
 
 # THEORY-1094: In counterexample-guided abstraction refinement the property and the concrete system are fixed inputs: the property's atomic formulas help build the first abstraction and no abstraction may merge states that disagree on them, every refinement only splits classes toward the concrete state space, and a real counterexample ends the procedure; so the loop revises which of the concrete system's distinctions the model draws, never the property or the space of possible answers
