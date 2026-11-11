@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpupm3q
 title: 'Records kept of each capacity a response needs bound a reserve''s readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities'' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities'' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-08'
@@ -23,6 +23,17 @@ history:
     entry of 2026-11-10: both were filed as syntheses at the review of
     2026-11-07 and returned to CLAIM on 2026-11-08 (ADR-084), and the
     summary now says so. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Answers QUESTION-395, in place of bearing on it, at the owner's
+    delegated ruling of 2026-11-11: its body says "They answer the
+    half of QUESTION-395 that asks which observations 'identify'
+    readiness and which 'only bound' it", and `bears_on` excludes a
+    part a claim settles exactly; `answers` is for an answer, held
+    or offered (ADR-060). The claim is Proposed, so QUESTION-395
+    stays Open and is not split under ADR-049 until an answer is
+    Active. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -57,7 +68,7 @@ rests_on:
 - CLAIM-558
 uses:
 - TERM-115
-bears_on:
+answers:
 - QUESTION-395
 summary: >-
   [QUESTION-395](../questions.d/QUESTION-395.md) asks which observations tell a warranted reserve of

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmprhzl8
 title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line''s questions are replications of the readings it rests on'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-10'
@@ -19,6 +19,14 @@ history:
   note: >-
     CASE-225's lines given rightly: transient-support in place of
     readiness, since the split of readiness. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    CLAIM-600 version 8 (2026-11-11) no longer claims its conditions
+    suffice, on its own water scheme; this account states it so, and
+    the question it left open under what is not stated, whether that
+    case shows the claim false, is replaced by what the narrower
+    claim leaves open. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the transient-support line left out without a reason given; or a link this account states that no component
@@ -115,14 +123,17 @@ the readiness line's account integrates it too.*
   not held.
 - **When withdrawal is safe.** [CLAIM-600](../claims.d/CLAIM-600.md) (the assistant's, interpretive,
   Active), resting on [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-604](../claims.d/CLAIM-604.md), [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-566](../claims.d/CLAIM-566.md),
-  states the conditions jointly: a self-sustaining process on a lasting
-  flux, support large enough to pass its threshold, the threat gone, and
-  the party doing each subtask itself at a bearable effort; standing
-  inputs stay supplied, and "persistence after withdrawal is needed to
-  tell which, though slow reversion can mimic it". Its body: "No premise
-  states the joint sufficiency." Its "Admission" section gives a
-  separating case (a village water scheme) and closes a free parameter by
-  judging the conditions before withdrawal.
+  states the conditions together, as necessary since its version 8: a
+  self-sustaining process on a lasting flux, support large enough to pass
+  its threshold, the threat gone, and the party doing each subtask itself
+  at a bearable effort; standing inputs stay supplied, and "persistence
+  after withdrawal is needed to tell which, though slow reversion can
+  mimic it". Its title: "meeting them all is not enough, since support can
+  carry a function nobody names before withdrawal". Its "Why it no longer
+  claims sufficiency" section gives the village water scheme, which met
+  every condition and still failed; its "Admission" section gives a case
+  that separates the narrower claim from its premises, and the conditions
+  are judged before withdrawal.
 
 What stays open is [QUESTION-398](../questions.d/QUESTION-398.md) (A's, Open): under what conditions a
 partial organization becomes independent of the intervention that
@@ -210,12 +221,10 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   unrecoverable by restoring funding. It needs a premise no component
   holds, that learning from drills needs capacity already present;
   [CLAIM-605](../claims.d/CLAIM-605.md)'s learning is by doing the served work.
-- **[CLAIM-600](../claims.d/CLAIM-600.md)'s admission case as evidence against it.** Its village
-  water scheme is offered as a stipulated separating case. It could
-  plainly occur, and as written it meets the first clause of [CLAIM-600](../claims.d/CLAIM-600.md)'s
-  own `defeated_if` (the conditions met, judged before withdrawal, and
-  decline within a turnover). Whether it shows the claim false or only
-  separate from its premises is not stated on the record.
+- **What else safe withdrawal needs.** [CLAIM-600](../claims.d/CLAIM-600.md)'s version 8 says its
+  conditions are not enough and that support can carry functions nobody
+  names before withdrawal; no component says which, or how to find them
+  before withdrawal.
 
 ## What it does not say
 
@@ -224,4 +233,6 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 - That the models' numbers fit any organization, household or state; each
   claim disclaims that.
 - That aid recipients are like microbes in mechanism ([CLAIM-603](../claims.d/CLAIM-603.md)).
+- That [CLAIM-600](../claims.d/CLAIM-600.md)'s conditions suffice for safe withdrawal; its version 8
+  withdraws that, on its own water scheme.
 - Anything with standing of its own.
