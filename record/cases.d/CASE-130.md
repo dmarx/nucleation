@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp859e4
 title: 'Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions whose contests were fought over the rules as well as under them, and whose matches placed them in a racial hierarchy as well as ranking them by results'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,14 @@ history:
     (NOTE-1092). It corrects an earlier correction: the commercial
     reading the case attributed to the exchange is in the paper's body,
     though not its abstract. The standing is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary, "The case" and "What it does not show" called
+    Penglase (LIT-1391) unread; it was read on 2026-10-22
+    (NOTE-1092, the note of that date), and each place now says so.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 standing: documented
 kind: specimen
 tags:
@@ -31,7 +39,7 @@ summary: >-
   record's first martial-arts material. Not shown: which tradition was
   technically better, which the case is evidence against asking in
   general; and the historical particulars, which are the replies' summary
-  of an unread source.
+  of Penglase, unread when the case was filed and read since (NOTE-1092).
 reported_in:
 - LIT-1391
 - NOTE-1092
@@ -46,7 +54,7 @@ The owner, at U35: "various contemporaneous and geographically related
 schools of martial arts vying for (regional/ideological/demographical/
 physical) dominance might be another useful case to examine."
 
-Penglase ([LIT-1391](../literature.d/LIT-1391.md), unread) studies the challenge matches the Gracie
+Penglase ([LIT-1391](../literature.d/LIT-1391.md), unread when this was filed; read since, NOTE-1092) studies the challenge matches the Gracie
 family fought against practitioners of luta livre, a Brazilian
 catch-wrestling style, and argues, from its abstract, that the matches
 located jiu-jitsu within Brazil's racial hierarchy as "white", usually
@@ -90,7 +98,8 @@ challenge at the Grajaú Country Club, won by the jiu-jitsu fighters; and a
   interpretation offered here rests on an unread paper and on the
   exchange's summary of it. `standing: documented` is the event's, not the
   reading's, until Penglase is read. (Added the same day after a review
-  the owner relayed.)
+  the owner relayed.) Penglase is now read (NOTE-1092); the note of
+  2026-10-22 says what of the interpretation the paper bears out.
 
 - That either tradition was better, or that any contest showed it.
 - That rules were changed in order to entrench a tradition. A36 kept that

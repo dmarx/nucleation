@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpqodkz
 title: 'Where a judgement''s circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement''s authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -15,6 +15,15 @@ history:
     as the note of 2026-10-29 found: it said the CCRU's term adds the
     case of an idea "never false of the present", which Land's interview
     does not say. The title and status are unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "What it does not say" justified filing no term by the
+    second-time rule, which ADR-072 limited to ADRs and DPs; the
+    bullet now says so and states ADR-072's rule for an idea.
+    Whether the word earns a term is not decided here. Reported by
+    the synthesis review of 2026-11-11 (seventh round). No other
+    change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -104,8 +113,10 @@ true.
 - **Not an endorsement of the CCRU's programme.** Land's theory-fiction was
   written to bring futures about. The claim takes the definition and the
   case, and makes no judgement on the programme.
-- **Not a term.** "Hyperstition" turns up here for the first time, and the
-  record gives a thing a code the second time.
+- **Not a term.** "Hyperstition" turns up here for the first time, and no
+  TERM is filed for it. The second-time rule this bullet first cited now
+  governs only ADRs and DPs (ADR-072); an idea gets a code when it has
+  content of its own and is not already held.
 
 ## Note of 2026-10-29: Land and Soros read, and Franklin's arranged plurality
 

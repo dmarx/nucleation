@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpc36bo
 title: 'In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,14 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "What it does not say" cited Blumenthal, Rocks and Mehta as
+    THEORY-634, whose source is a different paper, as the note on
+    the asymmetric case already says; it now cites THEORY-1162, the
+    reading of their paper. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -152,7 +160,7 @@ whose resource-use vectors are nonnegative.
 - **That ecological selection optimizes learning objectives in general.**
   The identity needs symmetric interactions, A = UᵀU, and growth rates of
   the form Uᵀb − c. With asymmetric or nonreciprocal interactions
-  ([THEORY-634](../theory.d/THEORY-634.md), Blumenthal, Rocks and Mehta 2024) there may be no scalar L
+  (Blumenthal, Rocks and Mehta 2024, [THEORY-1162](../theory.d/THEORY-1162.md)) there may be no scalar L
   at all.
 - **That operators with competing objectives are optimizers.** An
   organization whose processes disagree about the desired outcome has, in

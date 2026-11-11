@@ -1,8 +1,6 @@
 ---
 number: 161
 status: Proposed
-formerly:
-- CLAIM-161
 title: 'A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states'
 version: 2
 history:

@@ -4,13 +4,20 @@ status: Active
 formerly:
 - CASE-tmp4ozxp
 title: 'The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: A47 ran the design with a router arm, filed as the
     variant CASE-158. The case is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The third grade cited as CLAIM-427's is now cited as ARG-025's:
+    CLAIM-427 is Superseded by ARG-025, which holds the grading.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -32,6 +39,7 @@ summary: >-
   own organization of interpretation and authority has rendered
   inconsequential?" Not run.
 ---
+<!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 
 # CASE-144: The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent
 
@@ -67,7 +75,7 @@ can be revised.
 Held-out performance across the shift; concentration of interpretation
 and of authority; survival and recovery of the minority specialist;
 hysteresis after a temporary perturbation; whether the evaluator's
-failure is recognized; and, against [CLAIM-427](../claims.d/CLAIM-427.md)'s third grade, the
+failure is recognized; and, against ARG-025's third grade (from CLAIM-427), the
 interventional prediction error of competing models (mixture-of-experts
 routing, reflected-appraisal influence, a conventional adaptive policy).
 
@@ -86,7 +94,7 @@ routing, reflected-appraisal influence, a conventional adaptive policy).
 - **Not novelty by itself.** A4: there is "extensive antecedent work in
   organizational learning and robust distributed systems"; hidden-profile
   research ([QUESTION-089](../questions.d/QUESTION-089.md)) and Byzantine-robust learning already show the
-  problem. A result counts for the framework only at [CLAIM-427](../claims.d/CLAIM-427.md)'s
+  problem. A result counts for the framework only at ARG-025's
   third grade.
 
 ## Note of 2026-10-24: March as the baseline

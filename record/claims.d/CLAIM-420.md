@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdfe07
 title: 'A historical figure''s influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone can descend from them without continuing their perspective'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -27,6 +27,16 @@ history:
     Perspectival inheritance" assert; an opposition movement may still
     take up part of what it opposes. ADR-047 kind 3: an imprecise wide
     form, so a note only.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    `bears_on` QUESTION-118 added. The body: "QUESTION-118 asks what
+    must stay causally continuous for a later organization to be the
+    earlier one persisting; this claim adds a case where something
+    is causally continuous and the answer is no." QUESTION-118's
+    first line, distributed-agency, is already this claim's
+    (ADR-085). Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,6 +60,8 @@ works:
 - character-that-changed-parties
 uses:
 - TERM-084
+bears_on:
+- QUESTION-118
 summary: >-
   From the owner's U38 of the exchange of 2026-10-22, corrected. The owner
   contrasted "immortality" through positive influence that reinforces

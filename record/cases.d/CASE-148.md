@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CASE-tmpbyihf
 title: 'Perspective transplantation: two populations matched in behaviour exchange different combinations of learned interpretive rules, specialist parameters, training histories, institutional rules and shared memory, and are then set where the transferred parts disagree with their new surroundings'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `illustrates` CLAIM-417 and CLAIM-329 added. The summary:
+    "CLAIM-417's realization, character and lineage, tested by
+    transfer"; the body: "That is CLAIM-329's causal transmission,
+    broken into its parts". QUESTION-118 has no relation a case can
+    carry. No line changes (ADR-085). Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -15,6 +25,9 @@ date: '2026-10-23'
 line: distributed-agency
 works:
 - organization-of-perspective
+illustrates:
+- CLAIM-417
+- CLAIM-329
 summary: >-
   Proposed at A4 of the exchange of 2026-10-23, "Framework Overview
   Request", as an extension of [CASE-101](CASE-101.md). It asks which components carry a

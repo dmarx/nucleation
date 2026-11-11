@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpo8uso
 title: 'The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -23,6 +23,13 @@ history:
     Provenance only: NOTE-1563 went to Read in the twenty-ninth status
     review, so "Skimmed in" becomes "Read in" (1 place). What the entry
     says is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    The grading cited as CLAIM-427 is now cited as ARG-025's:
+    CLAIM-427 is Superseded by ARG-025, which holds it. Reported by
+    the synthesis review of 2026-11-11 (seventh round). No other
+    change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -45,6 +52,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
+<!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
@@ -115,7 +123,8 @@ phase diagram), within the model.
 
 ## What it cannot show
 
-That anxiety or any institution instantiates the mechanism ([CLAIM-427](../claims.d/CLAIM-427.md)).
+That anxiety or any institution instantiates the mechanism (ARG-025's grades of evidence, from
+CLAIM-427).
 And if a Bayesian learner with matched information costs, or a habit model
 with matched memory, reproduces every intervention response, the extra
 authority state has not earned its place. That outcome is to be reported,

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmprl1px
 title: 'Northstar as a multilevel simulation: twelve employees with fixed frames in four departments form overlapping working groups that keep records and can receive delegated authority; as reported, a working group with delegated authority ties a conventional router given the same information and authority, nearly all of its advantage over departmental silos comes from fast authorization, and keeping the incident team''s records through a commander handoff improves the company''s estimate of its own state about eightfold while barely changing what it does'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,14 @@ history:
     supplied: dmarx/PerspectiveLab's latest import is c54617e (v2.9), and it
     holds no v2.10 or v2.11. The arithmetic of the reported numbers was
     checked; nothing was re-run.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `illustrates` CLAIM-427 removed: CLAIM-427 is Superseded by
+    ARG-025, which grounds on this case. The body's citation of
+    CLAIM-427's note of 2026-10-26, where the runs are given, stays.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -28,7 +36,6 @@ variant_of:
 - CASE-023
 - CASE-134
 illustrates:
-- CLAIM-427
 - CLAIM-418
 summary: >-
   The owner's idea at T18 of the exchange "Experimental Infrastructure
@@ -42,7 +49,8 @@ summary: >-
   is reported, not reproduced. Not shown: that any organizational
   perspective emerged, which T20 itself denies.
 ---
-<!-- inactive-ok-file: CLAIM-427 CLAIM-327 — Proposed; the claims and terms this design restates or bears on, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-327 — Proposed; the claims and terms this design restates or bears on, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-427 — Superseded by ARG-025; its note of 2026-10-26 is cited for the runs, which stay there -->
 <!-- inactive-ok-file: THEORY-142 — Proposed; March's model read as the comparator, nothing here rests on it -->
 
 # CASE-166: Northstar as a multilevel simulation: twelve employees with fixed frames in four departments form overlapping working groups that keep records and can receive delegated authority; as reported, a working group with delegated authority ties a conventional router given the same information and authority, nearly all of its advantage over departmental silos comes from fast authorization, and keeping the incident team's records through a commander handoff improves the company's estimate of its own state about eightfold while barely changing what it does

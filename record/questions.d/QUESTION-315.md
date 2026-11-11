@@ -4,13 +4,25 @@ status: Open
 formerly:
 - QUESTION-tmp0b84k
 title: 'Does industrial selection, industry funding of researchers whose methods already favour its product, produce industry-favourable consensus in real research fields through those researchers'' productivity and their training of newcomers, rather than through funded researchers changing their methods or results, and does an independent funder that discounts industry-funded work counteract it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `refines` QUESTION-047 added. The body: "It is one candidate
+    answer to QUESTION-047's question of which community-level
+    mechanisms set what a community of sound inquirers comes to
+    believe." QUESTION-047's first line, distributed-agency, is
+    already this question's (ADR-085). Reported by the synthesis
+    review of 2026-11-11 (seventh round). No other change.
 tags:
 - philosophy-of-science
 - epistemology
 - network-science
 date: '2026-10-29'
 line: distributed-agency
+refines:
+- QUESTION-047
 summary: >-
   The promotion condition formerly on [THEORY-146](../theory.d/THEORY-146.md), moved here when the
   eleventh status review narrowed [THEORY-146](../theory.d/THEORY-146.md) to what Holman and Bruner's

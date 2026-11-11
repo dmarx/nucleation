@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcdshj
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-07'
@@ -50,6 +50,17 @@ history:
     in that line's argument, since it bears on QUESTION-393, a question
     of that line. Found by the lint sweep of 2026-11-10 as a `rests_on`
     step across lines. No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    The summary ended by saying the claim moved from CLAIM-615 into
+    the SYNTHESIS scheme, as though it were still there; it now says
+    it moved as SYNTHESIS-001 on 2026-11-07 and returned to CLAIM on
+    2026-11-08 (ADR-084). The synthesis's own italic line, "Moved
+    from CLAIM-615", pointed at this entry as if from another; it
+    now says it was moved, as SYNTHESIS-001, from this claim.
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -105,9 +116,10 @@ summary: >-
   succession ([CLAIM-328](CLAIM-328.md)), the owner's contributions are credited, and
   the held entries the exchange never cited are named. The integration's
   wording is A's, corrected by the filer; adopting it is the owner's
-  call. Moved from CLAIM-615 into the SYNTHESIS scheme on
-  2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)); it was admitted as an independent
-  hypothesis under [ADR-075](../decisions.d/ADR-075.md).
+  call. Moved into the
+  SYNTHESIS scheme as SYNTHESIS-001 on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)), where it was
+  admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
+  CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
@@ -121,7 +133,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-001](../syntheses.d/SYNTHESIS-001.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-615, where its development up to version 3 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*As SYNTHESIS-001, moved from this claim, where its development up to version 3 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 

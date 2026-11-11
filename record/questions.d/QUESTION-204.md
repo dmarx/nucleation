@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp3zal3
 title: "Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -29,6 +29,14 @@ history:
     Note of 2026-10-30 added: THEORY-787 is Rejected, and the record's own
     answer is CLAIM-497 by ARG-041; the temporal macros are split
     off as QUESTION-335. Status unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    A dated note added: CLAIM-497, which the note of 2026-10-30
+    calls the record's own answer, moved this question from
+    `answers` to `bears_on` at its version 2 the same day, and does
+    not answer it. Reported by the synthesis review of 2026-11-11
+    (seventh round). No other change.
 tags:
 - causality
 - information-theory
@@ -171,3 +179,12 @@ is whether a graded criterion can rank lossy coarse-grainings without
 bringing a distribution back. Whether that remainder leaves this question
 Open, or makes it Answered with that part split off, is left to the
 status review. The status is unchanged.
+
+## Note of 2026-11-11: CLAIM-497 bears on this question
+
+The note of 2026-10-30 above and its history entry call [CLAIM-497](../claims.d/CLAIM-497.md) the
+record's own answer. CLAIM-497's version 2, the same day, moved this
+question from its `answers` to `bears_on` ([ADR-060](../decisions.d/ADR-060.md)): whether real systems
+have a stable proportionate level, the question's empirical half, is
+CLAIM-497's own defeater, not something it settles. So it bears on the
+question and does not answer it. The question is Open.

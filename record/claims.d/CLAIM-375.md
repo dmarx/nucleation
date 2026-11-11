@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpso62d
 title: 'Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-19'
@@ -21,6 +21,14 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "Anything beyond one hop" did not cite CLAIM-502, which this
+    claim complements: a multi-hop rule that keeps the first
+    condition, under which, by its own text, "CLAIM-375's guarantee
+    does not carry over". The bullet now says so. Reported by the
+    synthesis review of 2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -97,8 +105,10 @@ point, stated as a construction.
   actually delegate, and do it better than at random, is a claim about
   behaviour. It is [CLAIM-285](CLAIM-285.md)'s.
 - **Anything beyond one hop.** Under recursive delegation the first
-  condition fails ([CLAIM-282](CLAIM-282.md)). Whether some other multi-hop rule keeps
-  both conditions is open.
+  condition fails ([CLAIM-282](CLAIM-282.md)). [CLAIM-502](CLAIM-502.md), which this claim complements,
+  gives a multi-hop rule, leave-one-out damped delegation, that keeps the
+  first; under it this claim's guarantee for the second does not carry
+  over. Whether some multi-hop rule keeps both conditions is open.
 - **That the decision rule is the right one.** The weighted mean is one
   rule. A rule under which p* does not move toward an ally's policy as the
   ally's authority grows would need its own argument.

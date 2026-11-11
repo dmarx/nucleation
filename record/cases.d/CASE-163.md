@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpw6jjd
 title: 'Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -16,6 +16,13 @@ history:
     were made exact: v2.2's audit probe lowers audit integrity to 0.46 and
     is not a complete pulse, and its reported scores are those of one
     three-probe policy among eight.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Grade three is now cited as ARG-025's, from CLAIM-427, which
+    ARG-025 superseded; the inactive-ok line no longer calls
+    CLAIM-427 and CLAIM-278 Proposed or Open. Reported by the
+    synthesis review of 2026-11-11 (seventh round). No other change.
 standing: stipulated
 kind: executed-study
 tags:
@@ -38,7 +45,8 @@ summary: >-
   of four known mechanisms whose equations the forecaster is given, and
   every probe is a separate branch from the same starting state.
 ---
-<!-- inactive-ok-file: CLAIM-427 CLAIM-278 — Proposed or Open; the grades of evidence, the objection and the question on probes this case bears on, nothing here rests on them -->
+<!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
+<!-- inactive-ok-file: CLAIM-427 CLAIM-278 — Superseded, by ARG-025 and ARG-036; the grades of evidence, the objection and the question on probes this case bears on, nothing here rests on them -->
 
 # CASE-163: Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
 
@@ -138,7 +146,7 @@ a team is stopped, a cost proxy and not a safety bound.
   this is a counterfactual sandbox, not sequential probing of an
   organization that carries its state.
 - Global identifiability: the ranks are local.
-- Grade three of [CLAIM-427](../claims.d/CLAIM-427.md). No rival was given the same knowledge of the
+- Grade three of ARG-025 (the grading CLAIM-427 set out). No rival was given the same knowledge of the
   generator, so this bears on [CLAIM-278](../claims.d/CLAIM-278.md) only as a design to beat.
 
 ## Provenance

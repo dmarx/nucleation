@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CASE-tmpuc54q
 title: 'Two incompatible quadratic demands on one shared parameter, L₁ = (θ − 1)² and L₂ = (θ + 1)², frustrated at θ = 0 for every update budget, and the split of θ into task-routed θ_A and θ_B that makes both satisfiable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `illustrates` CLAIM-347 and CLAIM-357 added. "What it can show":
+    "Structural frustration that no budget relieves, and its dual
+    certificate (CLAIM-365, CLAIM-357)" and "Relief as enlargement
+    for fixed demands (CLAIM-347)". No line changes (ADR-085).
+    Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
 standing: fictional
 kind: construction
 tags:
@@ -15,6 +25,8 @@ date: '2026-10-18'
 line: distributed-agency
 illustrates:
 - CLAIM-360
+- CLAIM-347
+- CLAIM-357
 summary: >-
   A33 §2 and §5, A35 §3.4 and A38 §4 of the exchange of 2026-10-17. Two
   demands on one scalar parameter: at θ = 0 the equal-weight gradient

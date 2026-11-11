@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp28sti
 title: 'A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -34,6 +34,13 @@ history:
     claim does not rest on either. The body's "THEORY-885 reads his 2000
     paper" now adds that it reads it through the 1997 working-paper
     precursor, as THEORY-885 says. The claim is otherwise unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The evidence grades cited as CLAIM-427's are now cited as
+    ARG-025's: CLAIM-427 is Superseded by ARG-025, which holds the
+    grading. Reported by the synthesis review of 2026-11-11 (seventh
+    round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,6 +87,7 @@ summary: >-
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
 ---
+<!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: ARG-064 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
@@ -165,8 +173,8 @@ Read on 2026-10-24: Juhász ([NOTE-1122](../notes.d/NOTE-1122.md)); Bjørnskov, 
 ## What it does not say
 
 - That a state is a person with clinical anxiety. The claim is that both
-  may realize one abstract causal organization ([CLAIM-427](CLAIM-427.md)'s evidence
-  grades apply).
+  may realize one abstract causal organization (ARG-025's evidence
+  grades, from CLAIM-427, apply).
 - That positive feedback or path dependence is pathological. The last
   clause of the title carries the weight: what fails is governance over
   the protective regime itself, the capacity to discover that protection is

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmphe0p9
 title: 'A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,17 @@ history:
     account became that line's account. Its line, defeater and
     introduction change to say so; its components and the links it
     states are unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    ARG-063 (distributed-agency only) concludes CLAIM-624 and was
+    missing from the arguments this account lists for it; it is
+    added there, to the components and to `integrates`, as an
+    argument from outside the line. CLAIM-614, CLAIM-624 and
+    QUESTION-441 now have organizational-normativity first and
+    distributed-agency second, and the account says so. Reported by
+    the synthesis review of 2026-11-11 (seventh round). No other
+    change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the organizational-normativity line left out; or a link this account states that no component
@@ -50,6 +61,7 @@ integrates:
 - QUESTION-129
 - QUESTION-256
 - QUESTION-441
+- ARG-063
 bears_on:
 - QUESTION-128
 - QUESTION-441
@@ -66,6 +78,7 @@ summary: >-
   account adds nothing of its own; its standing is its components'.
 ---
 <!-- inactive-ok-file: ARG-043 ARG-055 ARG-058 ARG-059 ARG-062 ARG-064 CASE-229 CLAIM-445 CLAIM-511 CLAIM-608 CLAIM-614 CLAIM-619 CLAIM-624 TERM-118 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-063 CASE-228 — Proposed; an argument concluding CLAIM-624 from outside the line, and its construction -->
 <!-- inactive-ok-file: ARG-070 — Deferred; components and citations, set aside -->
 <!-- inactive-ok-file: ARG-071 — Rejected; components and citations, with their standing -->
 
@@ -111,7 +124,7 @@ ought to preserve its corrigibility; it bears on [QUESTION-128](../questions.d/Q
 establish it and its value is conditional ([CLAIM-520](../claims.d/CLAIM-520.md)).
 
 **The wrong beyond harm.** [QUESTION-441](../questions.d/QUESTION-441.md) (the owner's U27, verbatim;
-distributed-agency first) refines [QUESTION-129](../questions.d/QUESTION-129.md) and asks what the
+also distributed-agency) refines [QUESTION-129](../questions.d/QUESTION-129.md) and asks what the
 counter-normativity of a harming organization that reproduces what makes
 its harm non-legible is. [CLAIM-614](../claims.d/CLAIM-614.md) (Proposed) files the owner's
 presupposition, resting on [CLAIM-348](../claims.d/CLAIM-348.md) and [CLAIM-523](../claims.d/CLAIM-523.md) and bearing on
@@ -122,7 +135,7 @@ the wrong is a breach of a second-order duty of answerability, "a verdict
 only given an independently justified standard and a feasible
 alternative". It was admitted on that narrower title (its history, version 3), and its
 body states where it diverges from the owner's thesis on unavoidable
-projections. Five arguments conclude it:
+projections. Six arguments conclude it:
 
 - [ARG-055](../arguments.d/ARG-055.md) (Proposed), from [CASE-229](../cases.d/CASE-229.md) (A's matched-harm construction):
   the second-order wrong comes apart from the harm and its continuation;
@@ -131,6 +144,10 @@ projections. Five arguments conclude it:
 - [ARG-062](../arguments.d/ARG-062.md) (Proposed), from [THEORY-140](../theory.d/THEORY-140.md) and [CASE-138](../cases.d/CASE-138.md): an organization can
   reproduce the conditions that keep a known hazard from constraining it,
   "though it says nothing of a second-order wrong";
+- ARG-063 (Proposed; in distributed-agency only), from CASE-228 (A's
+  two-regime reporting construction): a harmful outcome and the regime that
+  keeps it unrecorded can sustain each other without intent, and it "shows
+  nothing normative";
 - [ARG-064](../arguments.d/ARG-064.md) (Proposed), resting on [CLAIM-445](../claims.d/CLAIM-445.md): "the reproductive mechanism
   transfers and the verdict does not";
 - [ARG-071](../arguments.d/ARG-071.md) (Rejected), from Wells Fargo ([CASE-151](../cases.d/CASE-151.md)): occlusion and blocked
@@ -153,13 +170,13 @@ unread.
 - [CLAIM-512](../claims.d/CLAIM-512.md), the assistant's; counter, interpretive, Active.
 - [CLAIM-608](../claims.d/CLAIM-608.md), the record's gloss; thesis, interpretive, Proposed.
 - [CLAIM-511](../claims.d/CLAIM-511.md), the owner's question, not claimed; disclaimed, interpretive, Proposed; first line distributed-agency.
-- [CLAIM-614](../claims.d/CLAIM-614.md), the owner's presupposition; thesis, interpretive, Proposed; first line distributed-agency.
-- [CLAIM-624](../claims.d/CLAIM-624.md), A's; thesis, interpretive, Proposed; first line distributed-agency.
+- [CLAIM-614](../claims.d/CLAIM-614.md), the owner's presupposition; thesis, interpretive, Proposed; also distributed-agency.
+- [CLAIM-624](../claims.d/CLAIM-624.md), A's; thesis, interpretive, Proposed; also distributed-agency.
 - [CLAIM-619](../claims.d/CLAIM-619.md), A's; thesis, interpretive, Proposed; also distributed-agency.
 - [TERM-059](../terms.d/TERM-059.md), the owner's name, Active.
 - [CASE-229](../cases.d/CASE-229.md), A's, Proposed; also distributed-agency.
-- [ARG-043](../arguments.d/ARG-043.md), [ARG-058](../arguments.d/ARG-058.md), [ARG-059](../arguments.d/ARG-059.md) and [ARG-062](../arguments.d/ARG-062.md), Proposed; [ARG-055](../arguments.d/ARG-055.md) and [ARG-064](../arguments.d/ARG-064.md), Proposed, also distributed-agency; [ARG-070](../arguments.d/ARG-070.md), Deferred; [ARG-071](../arguments.d/ARG-071.md), Rejected.
-- [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md), the owner's, Open. [QUESTION-256](../questions.d/QUESTION-256.md), A26's, Open. [QUESTION-441](../questions.d/QUESTION-441.md), the owner's, Open; first line distributed-agency.
+- [ARG-043](../arguments.d/ARG-043.md), [ARG-058](../arguments.d/ARG-058.md), [ARG-059](../arguments.d/ARG-059.md) and [ARG-062](../arguments.d/ARG-062.md), Proposed; [ARG-055](../arguments.d/ARG-055.md) and [ARG-064](../arguments.d/ARG-064.md), Proposed, also distributed-agency; ARG-063, Proposed, in distributed-agency only; [ARG-070](../arguments.d/ARG-070.md), Deferred; [ARG-071](../arguments.d/ARG-071.md), Rejected.
+- [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md), the owner's, Open. [QUESTION-256](../questions.d/QUESTION-256.md), A26's, Open. [QUESTION-441](../questions.d/QUESTION-441.md), the owner's, Open; also distributed-agency.
 
 ## Links tested as claims
 

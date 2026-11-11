@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmppa8l7
 title: 'Under what conditions do the organization that determines what counts as meaningful, the organization that determines what becomes effective in action, and the organization that reproduces either one through time coincide, diverge, and reorganize one another?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The grading cited as CLAIM-427 is now cited as ARG-025's:
+    CLAIM-427 is Superseded by ARG-025, which holds it. Reported by
+    the synthesis review of 2026-11-11 (seventh round). No other
+    change.
 tags:
 - social-ontology
 - individuation
@@ -25,6 +33,7 @@ summary: >-
   boundaries align, diverge, and reorganize one another?", as a sharper
   focus for the manuscript than organizational perspective alone.
 ---
+<!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 
 # QUESTION-264: Under what conditions do the organization that determines what counts as meaningful, the organization that determines what becomes effective in action, and the organization that reproduces either one through time coincide, diverge, and reorganize one another?
 
@@ -54,7 +63,7 @@ naming the three organizations whose alignment both halves depend on.
 
 Conditions, in a stated class of systems, under which the three coincide,
 come apart, or one reorganizes another, with a case of each. By
-[CLAIM-427](../claims.d/CLAIM-427.md), the answer should predict something under intervention
+ARG-025's grades of evidence (from CLAIM-427), the answer should predict something under intervention
 that an account treating the three processes separately does not.
 [CASE-144](../cases.d/CASE-144.md) is a proposed test.
 

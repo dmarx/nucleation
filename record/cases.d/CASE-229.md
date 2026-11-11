@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmppdl5x
 title: 'Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B''s governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,14 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    "What it can show" said the case gives what CLAIM-624's first
+    defeater asks for. CLAIM-624's version 3 replaced that defeater,
+    non-reduction to the harm, which was CLAIM-614's own; the
+    sentence now names CLAIM-614's defeater. Reported by the
+    synthesis review of 2026-11-11 (seventh round). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -39,6 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-624 — filed from the exchange "Individuation, Possibility, and Disposition", Proposed; the claim this case is built for -->
 <!-- inactive-ok-file: ARG-055 — filed with this case, Proposed; the argument from it to CLAIM-624 -->
+<!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed; the owner's thesis whose defeater the case meets -->
 <!-- inactive-ok-file: CLAIM-511 CLAIM-545 — Proposed; the unconditional duty the record disclaims, and the relational wrong's home, cited with their standing -->
 
 # CASE-229: Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B's governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain
@@ -96,8 +105,9 @@ episode of harm runs together. A lists them:
   breached once.
 
 So a wrong can be said of B beyond its first-order harm and beyond that
-harm's continuation, which is what [CLAIM-624](../claims.d/CLAIM-624.md)'s first defeater asks
-for. A: "If the claim can survive a case in which the first-order harms
+harm's continuation, which is what CLAIM-614's defeater asks for (it was
+CLAIM-624's first defeater until CLAIM-624's version 3 narrowed that
+claim). A: "If the claim can survive a case in which the first-order harms
 are held constant, its proposed non-reducibility becomes much easier to
 evaluate." The argument from the case to the claim is [ARG-055](../arguments.d/ARG-055.md).
 

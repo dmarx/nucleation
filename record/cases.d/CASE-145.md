@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp5xarm
 title: 'Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,17 @@ history:
     Note of 2026-10-29 added: Seeley et al. read (NOTE-1411);
     supports decision without a controller by cross-inhibition, with
     two precisions. The design is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    `illustrates` CLAIM-418 added. The summary: the study asks
+    whether a distributed organizational perspective can be
+    identified without a further collective agent, "CLAIM-418's
+    separation tested". CLAIM-417 is named only as a control ("the
+    defeater of CLAIM-417 is the control for the rest") and is not
+    added; QUESTION-260 has no relation a case can carry. No line
+    changes (ADR-085). Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -22,6 +33,8 @@ date: '2026-10-23'
 line: distributed-agency
 works:
 - organization-of-perspective
+illustrates:
+- CLAIM-418
 summary: >-
   Proposed at A4 of the exchange of 2026-10-23, "Framework Overview
   Request", which called it "the most philosophically important new

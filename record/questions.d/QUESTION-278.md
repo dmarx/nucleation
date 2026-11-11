@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmp6xeir
 title: 'When several institutions can together produce an outcome, what relations among them must hold for a challenge to it to produce authorized, timely and effective correction, without their forming one collective agent?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The standard cited as CLAIM-427's is now cited as ARG-025's
+    third grade: CLAIM-427 is Superseded by ARG-025, which holds the
+    grading. Reported by the synthesis review of 2026-11-11 (seventh
+    round). No other change.
 tags:
 - society-and-governance
 - social-ontology
@@ -22,6 +30,7 @@ summary: >-
   correction may need several of them and none governs the rest. An answer
   names relations that could be checked in a case and could fail.
 ---
+<!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 
 # QUESTION-278: When several institutions can together produce an outcome, what relations among them must hold for a challenge to it to produce authorized, timely and effective correction, without their forming one collective agent?
 
@@ -74,7 +83,7 @@ What makes it open:
   ([LIT-1587](../literature.d/LIT-1587.md)), Leveson's control structure ([LIT-1613](../literature.d/LIT-1613.md)) and Pettit's
   contestability ([LIT-1614](../literature.d/LIT-1614.md)), all registered unread. A9: "This question should
   remain open because existing legal and systems theories may already
-  explain much of the phenomenon." [CLAIM-427](../claims.d/CLAIM-427.md)'s standard applies.
+  explain much of the phenomenon." ARG-025's third grade, the standard CLAIM-427 set out, applies.
 
 An answer would name relations that could be checked in a case, would say
 how each fails, and would distinguish, as A9's table of rivals does,

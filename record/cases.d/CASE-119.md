@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpuuf3p
 title: 'Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `illustrates` CLAIM-347 added. The case's own text: "{1, 2, 3}
+    is a minimal structurally frustrated collection (CLAIM-347)" and
+    "By CLAIM-347 this is relief of structural frustration." No line
+    changes (ADR-085). Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -13,6 +22,8 @@ tags:
 - ecology
 date: '2026-10-18'
 line: distributed-agency
+illustrates:
+- CLAIM-347
 summary: >-
   From the synthesis the owner relayed on 2026-10-18. A compatibility
   complex with all three edges and no filled triangle, the minimal

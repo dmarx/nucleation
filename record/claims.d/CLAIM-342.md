@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -31,6 +31,15 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    `complements` CLAIM-427 removed: CLAIM-427 is Superseded by
+    ARG-025 (ADR-061), which carries the pairing in its body
+    ("Carried from CLAIM-427": "CLAIM-342, whose rule on
+    self-confirming loops the third question applies"); an argument
+    cannot be a complement. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,7 +71,6 @@ complements:
 - CLAIM-338
 - CLAIM-357
 - CLAIM-359
-- CLAIM-427
 - CLAIM-446
 - CLAIM-500
 summary: >-

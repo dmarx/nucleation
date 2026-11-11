@@ -4,12 +4,24 @@ status: Open
 formerly:
 - QUESTION-tmpmiu6o
 title: 'In a second system of near-identical units on a known graph, are the synchronized clusters the symmetry orbits computed in advance, and does each cluster desynchronize in isolation where its own transverse block predicts?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    `refines` QUESTION-063 added. The summary: whether the stability
+    predictions hold in a second system is what "the record's use of
+    this result as a coupling signature (QUESTION-063) needs".
+    QUESTION-063's first line, distributed-agency, is already this
+    question's (ADR-085). Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 tags:
 - network-science
 - complex-systems
 date: '2026-10-19'
 line: distributed-agency
+refines:
+- QUESTION-063
 summary: >-
   The empirical condition formerly in [THEORY-276](../theory.d/THEORY-276.md)'s promote_when. On
   2026-10-19 [THEORY-276](../theory.d/THEORY-276.md) was promoted: that symmetry orbits are

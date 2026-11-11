@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp2ka9y
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -34,6 +34,21 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Proposed becoming Proposed. The synthesis's own history stays on
     SYNTHESIS-004.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    The summary ended by saying the claim moved from CLAIM-610 into
+    the SYNTHESIS scheme, as though it were still there; it now says
+    it moved as SYNTHESIS-004 on 2026-11-07 and returned to CLAIM on
+    2026-11-08 (ADR-084). The synthesis's own italic line, "Moved
+    from CLAIM-610", pointed at this entry as if from another; it
+    now says it was moved, as SYNTHESIS-004, from this claim. The
+    correction on the partial order quoted the title as "none
+    implied by the one before" and said the defeater allows a level
+    without the one below. The title says "none of the achievements
+    implies the next", and version 2 dropped that exemption; the
+    sentence now says both. Reported by the synthesis review of
+    2026-11-11 (seventh round). No other change.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -79,9 +94,10 @@ summary: >-
   on two of the owner's claims. What it adds is the relation between the
   levels: each organizes the conditions of the one below. Two
   corrections are made and marked. The integration's wording is A's,
-  corrected by the filer; adopting it is the owner's call. Moved from
-  CLAIM-610 into the SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md));
-  it was admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
+  corrected by the filer; adopting it is the owner's call. Moved into the
+  SYNTHESIS scheme as SYNTHESIS-004 on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)), where it was
+  admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
+  CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
@@ -93,7 +109,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-610, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*As SYNTHESIS-004, moved from this claim, where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 
@@ -147,8 +163,10 @@ claim complements and does not rest on.
 - **Correction: the stack is a partial order.** A7's "Agency arises where
   … More sophisticated agency arises … Autonomy arises" reads as a ladder.
   [CLAIM-474](CLAIM-474.md), which A7 draws on through A5, says "a later one need not
-  require every earlier one". The title keeps "none implied by the one
-  before" and the defeater allows a level without the one below.
+  require every earlier one". The title keeps "none of the achievements
+  implies the next". The defeater's exemption for a level holding without
+  the one below was dropped at version 2: under CLAIM-545 autonomy has
+  nothing to govern without the will-organization below it.
 - **Correction: "nucleation" is not the thesis term.** A7 §1: "*Nucleation*
   would name the process by which a relatively small configuration of
   relationships becomes productive of a larger, sustained organization."
