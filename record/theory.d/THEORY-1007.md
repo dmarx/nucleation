@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuogp2
 title: 'On four subject–verb agreement tasks in Pythia-70M and Gemma-2-2B, circuits of sparse-autoencoder features and autoencoder error nodes, selected by linear estimates of indirect effect, carried half or more of the behaviour on held-out pairs with about 100 and 500 nodes, where circuits of neurons needed about 1,500 and more than 30,000; with the error nodes removed, the same feature circuits carried little of it, under about a quarter in Pythia and almost none in Gemma'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -17,6 +17,17 @@ history:
     beyond the plotted range, so the title says "more than 30,000". The
     reading that agreement is carried by an arrangement of features across
     pathways is in THEORY-1014 and the NOTE.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275 and corroborates CLAIM-454, at the reading
+    review of 2026-11-11 (by topic: representation-learning, ADR-091).
+    QUESTION-275: "Circuits over features are faithful only with the
+    dictionaries' error terms kept (THEORY-1007), so a circuit arm built
+    on features must carry the remainder." CLAIM-454 cites it among
+    supporting cases, "not a test": "Circuits of sparse-autoencoder
+    features recover little of subject–verb agreement without the error
+    terms (THEORY-1007)". No other change.
 tags:
 - representation-learning
 - causality
@@ -31,6 +42,10 @@ summary: >-
   are a small circuit; the features by themselves are not. It says nothing
   about what the error terms hold, and it does not compare features with
   neurons on equal terms, which the authors say cannot be done.
+bears_on:
+- QUESTION-275
+corroborates:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: THEORY-1014 — Proposed; the claim this bears on and the account filed from the same reading, cited as open -->
 # THEORY-1007: On four subject–verb agreement tasks in Pythia-70M and Gemma-2-2B, circuits of sparse-autoencoder features and autoencoder error nodes, selected by linear estimates of indirect effect, carried half or more of the behaviour on held-out pairs with about 100 and 500 nodes, where circuits of neurons needed about 1,500 and more than 30,000; with the error nodes removed, the same feature circuits carried little of it, under about a quarter in Pythia and almost none in Gemma

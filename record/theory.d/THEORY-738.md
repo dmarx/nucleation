@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbyp9v
 title: 'In the unconstrained-features max-margin problem with k classes under step imbalance and feature dimension at least k − 1, the unique optimal logits are the simplex-encoded labels, every margin equals one, and the classifier and embedding Gram matrices are the two square-root factors of that matrix''s singular value decomposition; the geometry is the simplex equiangular tight frame exactly when the classes are balanced or there are two of them'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -17,6 +17,16 @@ history:
     followed that proof only as sketched, so it was re-derived for the
     split, by a dual certificate written out below (ADR-047 v2). THEORY-286
     keeps the rest and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-202, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question says "Under
+    imbalance the geometry to test is that of THEORY-286, not
+    equiangularity: NC2 is predicted for balanced classes only", and
+    that LIT-994 "gives an endpoint, not a gradient-descent derivation".
+    That endpoint, equiangular only for balanced classes or two, is what
+    this reading holds. No other change.
 tags:
 - representation-learning
 - learning-theory
@@ -32,6 +42,8 @@ summary: >-
   certifies it optimal, because under step imbalance its off-diagonal
   entries are negative. It does not say that gradient descent or trained
   networks reach this geometry, which is [THEORY-286](THEORY-286.md)'s.
+bears_on:
+- QUESTION-202
 ---
 <!-- inactive-ok-file: THEORY-286 — Proposed; the account this core was split from and that extends it, cited as open -->
 

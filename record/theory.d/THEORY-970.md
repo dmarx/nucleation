@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp77xju
 title: 'On three language-model tasks whose circuits earlier manual work reported, indirect object identification and Greater-Than in GPT-2 Small and Python docstrings in a four-layer attention-only model, ACDC run with resampled corrupted activations against KL divergence ranked the reported edges with areas under the ROC curve of 0.85 to 0.98, above head-importance pruning and subnetwork probing on all three; on two compiled tracr programs it ranked them poorly with corrupted activations, 0.68 and 0.20, and exactly with zero activations'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -12,6 +12,16 @@ history:
     Filed Active from NOTE-1170, the reading of Conmy et al. (2023) in
     full. One study, the title claims no more than its Tables 2 and 3
     report, and nothing in the record contradicts it (ADR-047 v3).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question names ACDC as
+    a circuit-only instrument ("ACDC (LIT-1547) runs on the same
+    two-layer attention-only induction setting and finds its heads") and
+    cautions that "a greedy circuit is one of several sufficient
+    subgraphs, and which one is returned depends on the order
+    (THEORY-966, THEORY-970)". No other change.
 tags:
 - representation-learning
 - causality
@@ -25,6 +35,8 @@ summary: >-
   0.823 for SP. It does not say ACDC finds the true circuit: the reported
   circuits are incomplete, the results depend on metric, ablation and
   parent order, and negative components are missed at sparse thresholds.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-997 — Proposed; a neighbouring account on circuits compared across fine-tuning, cited as open -->
 

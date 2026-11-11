@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpccb5u
 title: 'In GPT-2 small on fifteen templates of indirect object identification, a circuit of 26 attention heads in seven classes, found by path patching, keeps 87% of the model''s mean logit difference when every other head is mean-ablated; knocking out its three main name mover heads costs only 5%, because other heads take over, and knockout sets found by greedy search make the circuit and the full model differ by up to 87% of the logit difference, so the circuit is faithful on average and incomplete under knockouts'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -16,6 +16,15 @@ history:
     S-inhibition → name mover direction (LIT-968) agrees with one link of
     it. The dropout explanation of the backups is the Proposed
     THEORY-995.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). A caution the question
+    draws for the circuit arm: "in IOI, backup name movers recover most
+    of the effect when the name movers are ablated (THEORY-980). A head
+    'born' at a checkpoint may have been there as a backup." No other
+    change.
 tags:
 - representation-learning
 - causality
@@ -31,6 +40,8 @@ summary: >-
   tests are the paper's own. It says nothing beyond these templates and
   this model, it treats MLPs as given, and its greedy search is printed in
   a form that does not match its description.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-995 — Proposed; the hypothesis for the backups, cited as open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpm4ifd
 title: 'In Ameisen et al.''s evaluations, the local replacement model of their 18-layer language model, built from a 10-million-feature cross-layer transcoder, responded to small perturbations much as the model did one layer after the intervention and increasingly differently over later layers, more in the size of the effect than its direction and slightly more for larger dictionaries, and over 20 prompts the graph''s influence of one feature on another ranked the effect of ablating the first on the second with a Spearman correlation of 0.72'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -16,6 +16,17 @@ history:
     where the figures could not be read (ADR-047 v3). The two figures the
     article gives for one-layer agreement disagree, and the title uses
     neither.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-274 and corroborates CLAIM-454, at the reading
+    review of 2026-11-11 (by topic: representation-learning, ADR-091).
+    QUESTION-274 names it as a fidelity criterion: widths "matched for
+    fidelity (reconstruction loss, or the replacement model's agreement
+    with the model under perturbation, THEORY-994)". CLAIM-454 cites it
+    among supporting cases, "not a test: the claim is interpretive":
+    "its responses to perturbation agree with the model one layer later
+    and then diverge (THEORY-994)". No other change.
 tags:
 - representation-learning
 - causality
@@ -29,6 +40,10 @@ summary: >-
   say how faithful the circuits of any case study are, which were chosen
   and validated separately, and it is measured on 18L, not on Claude 3.5
   Haiku, where the companion's case studies were run.
+bears_on:
+- QUESTION-274
+corroborates:
+- CLAIM-454
 ---
 # THEORY-994: In Ameisen et al.'s evaluations, the local replacement model of their 18-layer language model, built from a 10-million-feature cross-layer transcoder, responded to small perturbations much as the model did one layer after the intervention and increasingly differently over later layers, more in the size of the effect than its direction and slightly more for larger dictionaries, and over 20 prompts the graph's influence of one feature on another ranked the effect of ablating the first on the second with a Spearman correlation of 0.72
 

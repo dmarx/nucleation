@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkq43g
 title: 'In a one-layer transformer whose MLP has 512 ReLU neurons, a sparse autoencoder with 4,096 features trained on that layer''s activations yields features that a blinded rater and an automated pipeline judged far more interpretable than the neurons, that for the four features examined in detail correspond to no neuron, and whose effects on the output, which the autoencoder never saw, agree with their activations; splicing in the reconstruction recovers 79% of the loss reduction the MLP provides, measured against zero-ablating it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,16 @@ history:
     baseline), and nothing in the record contradicts it; MIB's result
     (THEORY-968) is about a different test (ADR-047 v3). The paper's
     reading of feature splitting is the Proposed THEORY-1016.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Corroborates CLAIM-454, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The claim cites the work
+    among supporting cases, "not a test": "Towards Monosemanticity tests
+    activation structure and downstream role separately, and its
+    shuffled-weights control shows an autoencoder finding features,
+    mostly single-token ones, in a model that has learned nothing",
+    which this reading's body holds. No other change.
 tags:
 - representation-learning
 date: '2026-10-26'
@@ -29,6 +39,8 @@ summary: >-
   nothing about deeper models or other sites, nothing about whether the
   model is "composed of" these features, and nothing about how features
   compare with neurons as carriers of a known causal variable.
+corroborates:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: THEORY-1016 — Proposed; the wider account filed from the same reading and the claim this bears on, cited as open -->
 # THEORY-991: In a one-layer transformer whose MLP has 512 ReLU neurons, a sparse autoencoder with 4,096 features trained on that layer's activations yields features that a blinded rater and an automated pipeline judged far more interpretable than the neurons, that for the four features examined in detail correspond to no neuron, and whose effects on the output, which the autoencoder never saw, agree with their activations; splicing in the reconstruction recovers 79% of the loss reduction the MLP provides, measured against zero-ablating it

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpwh2jo
 title: 'What separates a language model''s distribution over personas from a distribution over organizational perspectives is not whether the latent model is hierarchical, since a mixture or an LDA-style admixture already is, but whether some latent components condition which others are available or consequential: a model whose components are exchangeable given their weights is organizationally flat however many levels its prior has, and dependencies among components count as organization (organization as relational arrangement) only where interventions, not fit, support them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-04'
@@ -26,6 +26,19 @@ history:
     intervention is what would separate them, which needs no such
     study to hold. No objection is on file, and nothing in the record
     meets the defeat condition. The claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    grounds THEORY-1350 added, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The claim grounds on
+    LIT-1952 and applies itself to the model that reading states: "The
+    Persona Selection Model (LIT-1952) reads a language model as a
+    distribution over personas: pretraining learns one, post-training
+    narrows it to the Assistant's, and context conditions it further";
+    its note of 2026-11-03 uses the model's router, "named by the
+    model's authors as a possible agency outside the persona
+    distribution". THEORY-1350 is the Active reading of that work. A
+    grounds edge adds no line (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,6 +69,7 @@ uses:
 grounds:
 - LIT-1952
 - LIT-1948
+- THEORY-1350
 complements:
 - CLAIM-029
 - CLAIM-536

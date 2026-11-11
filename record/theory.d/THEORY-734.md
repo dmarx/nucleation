@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpfydax
 title: 'In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -20,6 +20,16 @@ history:
     Under ADR-047 v2 (the owner's rule of 2026-10-19), a step-by-step
     re-derivation meets the condition. THEORY-196 keeps the matching upper
     bound, which rests on Sarkar's construction, and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-150, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question holds the
+    higher-dimensional half of the condition formerly on THEORY-196 and
+    takes this reading as its premise (ADR-060): "The matching lower
+    bound is proved only in the plane, which THEORY-734 now holds with
+    explicit constants", and its route is "The planar argument's
+    angle-packing step (THEORY-734, step 4)". No other change.
 tags:
 - representation-learning
 - mathematics
@@ -34,6 +44,8 @@ summary: >-
   trees, fixed-point coordinates in the Poincaré disk, deg_max ≥ 15 and
   ε ≤ 1. It says nothing about H^r for r > 2, or about whether any tree
   needs fewer bits under another number system.
+bears_on:
+- QUESTION-150
 ---
 <!-- inactive-ok-file: THEORY-196 — Proposed; the account this was split from and that extends it, cited as open -->
 

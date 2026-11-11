@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpb4xka
 title: 'In the two-layer attention-only transformer that Elhage et al. reverse-engineer, the second-layer heads that compose substantially with first-layer heads do so through their keys, mainly with a head that attends to the previous token and, after the published correction, also with one that attends over the last several tokens; these heads are induction heads, attending from a token to the one after its earlier occurrence, including on repeated random tokens, with positive-eigenvalue copying OV and same-matching QK circuits, and the second-order virtual-head terms add little to the loss reduction'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -18,6 +18,17 @@ history:
     not see. The induction-head mechanism is corroborated in the record by
     Olsson et al.'s Argument 5 and Scherlis's replication in two-layer
     attention-only models (NOTE-1173).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question: "The
+    framework's composition scores and eigenvalue statistics (LIT-1534,
+    NOTE-1189) are read from weights alone", and "the authors published
+    a correction to their own composition diagrams"; its
+    induction-circuit setting is "a natural first case". This reading
+    holds those scores, the correction and the induction heads they pick
+    out. No other change.
 tags:
 - representation-learning
 - compositionality
@@ -34,6 +45,8 @@ summary: >-
   the framework predicts from K-composition with a previous-token head. It
   is one model, with no seeds or training details reported, and says
   nothing about models with MLPs or about when the heads form.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-990 THEORY-967 — Proposed; the wider thesis and the developmental account beside this, cited as open -->
 

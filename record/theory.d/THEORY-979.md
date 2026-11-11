@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbtnf0
 title: 'On one prompt, a transformer whose MLPs are replaced by a cross-layer transcoder, with its attention patterns and normalization denominators frozen and each MLP''s reconstruction error added back as a constant, reproduces the model''s activations and outputs exactly and is linear between features, so each active feature''s pre-activation is the sum of its attribution-graph edges and constants; a perturbation that clamps MLP outputs up to the target feature''s encoder layer then confirms a direct edge by construction, and tests only knock-on effects and the output'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -16,6 +16,18 @@ history:
     both step by step below (ADR-047 v2). The derivation adds one
     qualification the article leaves implicit: the guarantee is exact when
     the normalization denominators are also frozen in the perturbed run.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275 and corroborates CLAIM-454, at the reading
+    review of 2026-11-11 (by topic: representation-learning, ADR-091).
+    QUESTION-275: "Attribution graphs freeze attention patterns, so they
+    cannot see induction and cannot serve as the circuit-only arm in the
+    induction setting", which is this reading's frozen attention
+    patterns, the part the graph does not explain. CLAIM-454 cites it
+    among supporting cases, "not a test": "The cross-layer-transcoder
+    replacement is exact on its prompt by construction (THEORY-979)". No
+    other change.
 tags:
 - representation-learning
 - causality
@@ -30,6 +42,10 @@ summary: >-
   only, the error terms are constants with no inputs, and the
   frozen attention patterns are the part of the computation the graph does
   not explain.
+bears_on:
+- QUESTION-275
+corroborates:
+- CLAIM-454
 ---
 # THEORY-979: On one prompt, a transformer whose MLPs are replaced by a cross-layer transcoder, with its attention patterns and normalization denominators frozen and each MLP's reconstruction error added back as a constant, reproduces the model's activations and outputs exactly and is linear between features, so each active feature's pre-activation is the sum of its attribution-graph edges and constants; a perturbation that clamps MLP outputs up to the target feature's encoder layer then confirms a direct edge by construction, and tests only knock-on effects and the output
 

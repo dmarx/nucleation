@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkwsi6
 title: "In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -15,6 +15,15 @@ history:
     the full 2^d subjects, which meets both parts of the former
     promote_when, and checks the three-aspect case numerically over all
     40,320 labellings. The title is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-025, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question names it as
+    "A rival premise: attributes that add, not multiply", with "an exact
+    parallelepiped in raw counts when aspects combine as a mixture over
+    sentences" that "any non-uniform sentence distribution breaks". No
+    other change.
 tags:
 - representation-learning
 - linguistics
@@ -29,6 +38,8 @@ summary: >-
   lattice Boolean. It says nothing about the logarithm or PMI, about
   noisy or approximate shapes, or about attributes that imply one
   another.
+bears_on:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-183 — Proposed; the accounts this one is set beside -->
 

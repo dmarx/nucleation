@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpzxpp8
 title: 'The Persona Selection Model holds that pre-training gives a language model a distribution over personas, that post-training updates it into a posterior over Assistant personas which runtime context keeps conditioning, and that the Assistant''s traits are a key determiner of behaviour; it disowns a single coherent persona and exhaustiveness, and names as open a router that selects personas and could carry goals no persona has'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-370, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091), and CLAIM-543 now grounds
+    on it. The question tests an episode-level mixture against "one
+    persona selected per conversation" and notes "The Persona Selection
+    Model distinguishes more bearers than the three listed: persona,
+    actor, author or narrative, router and the network (NOTE-1512)". No
+    other change.
 tags:
 - representation-learning
 - self
@@ -18,6 +29,8 @@ summary: >-
   the authors are "overall unsure how complete" it is, its evidence is
   surveyed rather than new, and its updating is offered as "can be viewed
   as", with the strict form said to be too strong.
+bears_on:
+- QUESTION-370
 ---
 
 # THEORY-1350: The Persona Selection Model holds that pre-training gives a language model a distribution over personas, that post-training updates it into a posterior over Assistant personas which runtime context keeps conditioning, and that the Assistant's traits are a key determiner of behaviour; it disowns a single coherent persona and exhaustiveness, and names as open a router that selects personas and could carry goals no persona has
