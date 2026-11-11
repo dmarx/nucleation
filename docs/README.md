@@ -6,6 +6,7 @@
 - [Questions](questions/README.md), [claims](claims/README.md), [cases](cases/README.md), [terms](terms/README.md) and [arguments](arguments/README.md) — the record's own argument as it develops: what it asks, holds, grants and disclaims, the examples it uses, the words it states them in, and the inferences worth pointing at.
 - [Lines of argument](argument-lines.md), [objections and replies](dialectic.md), [arguments by conclusion](arguments-by-conclusion.md), and how the [claims](revisions.md) and [terms](term-revisions.md) changed — the record's own argument walked as chains: what rests on what, each objection with its replies, every argument under the claim it concludes with its undercutters beneath it, and each revision in order.
 - [The current account](current-account.md) — the syntheses the record has admitted, line by line: what its parts add up to, with each component's own status and voice ([ADR-076](../record/decisions.d/ADR-076.md)).
+- [Readings by line](readings-by-line.md) — each line's readings, derived from the entries that use them, and the readings in force that no line uses ([ADR-090](../record/decisions.d/ADR-090.md)).
 - [Workbench](workbench/README.md) — the working sessions on that argument, dated: what moved, and why.
 - [Lines of work](lineage.md) and [lines of explanation](theory-lines.md) — the relations between works and between accounts.
 - [Curation log](curation/README.md) — why things entered this record, and why they left.
