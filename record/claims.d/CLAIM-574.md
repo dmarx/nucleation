@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg7w69
 title: 'Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -46,6 +46,13 @@ history:
     distinctions grow with the probe family, and legibility grows
     with the observer's rule class'. complements adds no line
     (ADR-085). No other change.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    The summary said adopting the wording was the owner's call; the
+    status review of 2026-11-06 adopted it (version 2), so the summary
+    says so. Found at the defect sweep of the ninth synthesis review. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -94,8 +101,8 @@ summary: >-
   search in finite sets and on random finite posets. Its guard is the
   filer's: the monotonicity holds for a comparison over every probe and
   fails for a normalized average, as for the probe-weighted distortion
-  [QUESTION-031](../questions.d/QUESTION-031.md) sets aside. The wording is A's; adopting it is the owner's
-  call.
+  [QUESTION-031](../questions.d/QUESTION-031.md) sets aside. The wording is A's; the status review of 2026-11-06
+  adopted it.
 ---
 
 # CLAIM-574: Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not

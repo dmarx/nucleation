@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg1n2c
 title: 'An organization that acts on what it observes has a policy acceptable in every circumstance exactly when, for each observation, the circumstances it cannot tell apart share an acceptable action; so every circumstance having an acceptable action does not give a policy, a finer observation never removes one, and where acceptable actions overlap the coarsest observations that suffice are several and incomparable, so which distinctions must be made legible depends on which acceptable action the organization commits to'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -14,6 +14,12 @@ history:
     through the first line of an entry it names: distributed-agency,
     since it bears on QUESTION-285, bears on QUESTION-133. No other
     change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A dated note corrects the note of 2026-11-04, which calls CLAIM-559
+    Proposed; it has been Active since 2026-11-06. Found at the
+    synthesis review of the formal-apparatus line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -114,3 +120,6 @@ A's [CLAIM-559](CLAIM-559.md) (Proposed) carries this claim to two stages: as th
 ## Note of 2026-11-07: what follows for will and for perspectives, from the second share of "Individuation, Possibility, and Disposition"
 
 A57 reads this claim rightly: "the **distinctions needed for adequate action depend on which acceptable policy is chosen**". A58 §3 adds that the theorem "doesn't justify those sets, and whoever controls that standard can influence which distinctions the organization is required to recognize". That is this claim's "That the acceptable sets are the right ones" joined to [TERM-064](../terms.d/TERM-064.md)'s caution on the loss and [CLAIM-404](CLAIM-404.md)'s evaluative route. A58 §8's route of changing what the organization can do is [CLAIM-572](CLAIM-572.md)'s hedge, and it is open only where a hedge exists ([ARG-060](../arguments.d/ARG-060.md)). Two consequences are filed: for comparing perspectives, [CLAIM-622](CLAIM-622.md); for the synthesis of meaning, perspective and will, layer 6 of [CLAIM-620](CLAIM-620.md), version 2. The claim is unchanged.
+
+**Note (2026-11-11).** The note of 2026-11-04 above calls CLAIM-559
+Proposed; it has been Active since the status review of 2026-11-06.
