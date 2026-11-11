@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    At the split of readiness (ADR-tmptlkel), the third part, withdrawing
+    At the split of readiness (ADR-087), the third part, withdrawing
     transient support, became the line transient-support, and its account
     SYNTHESIS-032 became that line's. This account now integrates the
     two remaining parts and CLAIM-602, which keeps readiness. The links to
@@ -54,7 +54,7 @@ summary: >-
 
 *The account of the readiness line ("Readiness and slack", [ADR-073](../decisions.d/ADR-073.md)), over
 the accounts of its two parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose
-`line` includes readiness after the split of 2026-11-10 ([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)):
+`line` includes readiness after the split of 2026-11-10 ([ADR-087](../decisions.d/ADR-087.md)):
 49 entries through the parts, and [CLAIM-602](../claims.d/CLAIM-602.md) directly. [SYNTHESIS-009](SYNTHESIS-009.md) and
 [SYNTHESIS-010](SYNTHESIS-010.md) also carry the line; both are Superseded by the claims they
 returned to ([CLAIM-632](../claims.d/CLAIM-632.md) and [CLAIM-600](../claims.d/CLAIM-600.md), [ADR-084](../decisions.d/ADR-084.md)), and they are not
@@ -135,7 +135,7 @@ questions in [SYNTHESIS-032](SYNTHESIS-032.md) and [QUESTION-434](../questions.d
 [SYNTHESIS-024](SYNTHESIS-024.md) are closed by relations and joined by mentions. The line is a
 candidate to split ([ADR-083](../decisions.d/ADR-083.md)), the support part most clearly; every
 [SYNTHESIS-032](SYNTHESIS-032.md) entry that links to another component already carries
-realizability. The owner split it ([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)): the support part
+realizability. The owner split it ([ADR-087](../decisions.d/ADR-087.md)): the support part
 became transient-support, and keeping and reaching stayed together,
 because they share 28 pairs, though mostly mentions, against 5 and 1
 with the support part.

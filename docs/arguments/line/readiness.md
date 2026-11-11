@@ -4,7 +4,7 @@
 
 *Lines of inquiry — A named line of the record's own argument, so that a line can be set aside as a whole and what depends on it can be found. Retracting a line is a status change on its members, never a deletion (ADR-032).*
 
-**Readiness and slack** — what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up (ADR-073).
+**Readiness and slack** — what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up (ADR-073). When transient support can be withdrawn is a line of its own (ADR-087).
 
 1 of 75 ARG documents. Back to the [full index](../README.md).
 

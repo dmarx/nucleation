@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    At the split of readiness (ADR-tmptlkel), this part's entries became
+    At the split of readiness (ADR-087), this part's entries became
     the line transient-support, and this account became that line's
     account. Its line, defeater, introduction and the heading of its
     links to the other parts change to say so. Its components and the
@@ -64,7 +64,7 @@ integrates:
 # SYNTHESIS-032: Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on
 
 *The account of the transient-support line, "Withdrawing transient
-support", split from readiness ([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)), where it was a part
+support", split from readiness ([ADR-087](../decisions.d/ADR-087.md)), where it was a part
 account. It is the part filed from the DNA
 origami, aid and development, ecology, urban, medicine and windfall
 readings of 2026-11-05 and 2026-11-06, on A's [QUESTION-398](../questions.d/QUESTION-398.md). Every entry

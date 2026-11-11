@@ -492,22 +492,23 @@ why trained networks come to have the structure they have, which features, symme
 
 ## Readiness and slack
 
-what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up ([ADR-073](../record/decisions.d/ADR-073.md))
+what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up ([ADR-073](../record/decisions.d/ADR-073.md)). When transient support can be withdrawn is a line of its own ([ADR-087](../record/decisions.d/ADR-087.md))
 
-### [SYNTHESIS-031](../record/syntheses.d/SYNTHESIS-031.md): The readiness line is three accounts, of keeping a rare capability and judging its worth, of reaching and paying for configurations under budgets, and of when transient support can be withdrawn, which meet at disuse and at budget and funding rules that remove capacities no one chose to give up; the first two are joined by many mentions and few relations, the third barely relates to either, and no link between the parts that no part states passes the claim test
+### [SYNTHESIS-031](../record/syntheses.d/SYNTHESIS-031.md): The readiness line is two accounts, of keeping a rare capability and judging its worth and of reaching and paying for configurations under budgets, which meet at budget rules, slack and what a reserve costs; they are closed by relations and joined by mentions, and no link between them that no part states passes the claim test; when transient support can be withdrawn, once a third part, is a line of its own
 
-*Proposed · version 1*
+*Proposed · version 2*
 
-The account of the readiness line, over the accounts of its three parts: keeping and judging a rare capability ([SYNTHESIS-027](../record/syntheses.d/SYNTHESIS-027.md)), reaching and paying for configurations ([SYNTHESIS-024](../record/syntheses.d/SYNTHESIS-024.md)) and withdrawing transient support ([SYNTHESIS-032](../record/syntheses.d/SYNTHESIS-032.md)). The first two meet at budget rules and slack ([CASE-200](../record/cases.d/CASE-200.md), [CLAIM-577](../record/claims.d/CLAIM-577.md), [QUESTION-386](../record/questions.d/QUESTION-386.md)) and at what a reserve costs ([CLAIM-569](../record/claims.d/CLAIM-569.md)); the first and third at disuse ([CLAIM-558](../record/claims.d/CLAIM-558.md)) and at rebuilding ([CLAIM-632](../record/claims.d/CLAIM-632.md) with [CLAIM-605](../record/claims.d/CLAIM-605.md)). Counted by relations alone, all three parts are mostly closed; counted with mentions, the support part still is, and the line is reported as a candidate to split. The account adds nothing of its own; its standing is its components'.
+The account of the readiness line, over the accounts of its two parts: keeping and judging a rare capability ([SYNTHESIS-027](../record/syntheses.d/SYNTHESIS-027.md)) and reaching and paying for configurations ([SYNTHESIS-024](../record/syntheses.d/SYNTHESIS-024.md)). They meet at budget rules and slack ([CASE-200](../record/cases.d/CASE-200.md), [CLAIM-577](../record/claims.d/CLAIM-577.md), [QUESTION-386](../record/questions.d/QUESTION-386.md)) and at what a reserve costs ([CLAIM-569](../record/claims.d/CLAIM-569.md)). [CLAIM-602](../record/claims.d/CLAIM-602.md), which moved to transient-support at the split, keeps readiness because it bears on [QUESTION-386](../record/questions.d/QUESTION-386.md), and is integrated here. The account adds nothing of its own; its standing is its components'.
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
+| [CLAIM-602](../record/claims.d/CLAIM-602.md) | CLAIM | Active | Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply |
 
-**What would show the account unfaithful:** A part account or component misstated or misattributed here; an in-force component of the readiness line that no part account integrates; or a link between the parts stated here that no part account and no component states.
+**What would show the account unfaithful:** A part account or component misstated or misattributed here; an in-force component of the readiness line that neither a part account nor this account integrates; or a link between the parts, or across to transient-support, stated here that no part account and no component states.
 
 #### [SYNTHESIS-027](../record/syntheses.d/SYNTHESIS-027.md): Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -541,7 +542,7 @@ The account of the readiness line, over the accounts of its three parts: keeping
 
 #### [SYNTHESIS-024](../record/syntheses.d/SYNTHESIS-024.md): Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period's spending loses every transition that needs slack with no sign in output
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -572,9 +573,13 @@ The account of the readiness line, over the accounts of its three parts: keeping
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the reaching-and-paying part of the readiness line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
 
-#### [SYNTHESIS-032](../record/syntheses.d/SYNTHESIS-032.md): Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the part's questions are replications of the readings it rests on
+## Withdrawing transient support
 
-*Proposed · version 1*
+when support that establishes or sustains a party can be withdrawn without its decline — supplied upkeep that never becomes optional, supply that does the party's work and lowers the capacity it keeps, a savings buffer as a stock of time, dependency against division of labour by who supplies, and independence from what founded an organization against independence from what feeds it; split from readiness ([ADR-087](../record/decisions.d/ADR-087.md))
+
+### [SYNTHESIS-032](../record/syntheses.d/SYNTHESIS-032.md): Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on
+
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -609,7 +614,7 @@ The account of the readiness line, over the accounts of its three parts: keeping
 | [QUESTION-431](../record/questions.d/QUESTION-431.md) | QUESTION | Open | Does an independent pooled analysis or large cohort of adult corticosteroid users, tested at least 24 hours after the last dose, reproduce the route ordering, the rise of adrenal suppression with dose and duration and a persisting fraction of about 15–25% weeks to months after stopping, and does a comparative trial show any withdrawal scheme effective or safe? |
 | [QUESTION-436](../record/questions.d/QUESTION-436.md) | QUESTION | Open | Does an independent threshold-regression test of unique against multiple equilibria, on the Japanese bombing data or another large temporary shock to cities, find a preferred multiple-equilibria model whose intercepts satisfy the ordering that larger negative shocks lead to lower equilibria? |
 
-**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the support-and-withdrawal part of the readiness line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
+**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the transient-support line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
 
 
 ## Lines with no account yet

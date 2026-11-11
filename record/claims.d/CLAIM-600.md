@@ -85,7 +85,7 @@ history:
   date: '2026-11-10'
   note: >-
     Moves from readiness to transient-support, at the split of
-    readiness (ADR-tmptlkel, 2026-11-10): the entry is in that
+    readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
 role: thesis
 warrant: interpretive

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-10'
   note: >-
-    At the split of readiness (ADR-tmptlkel), the third part became the
+    At the split of readiness (ADR-087), the third part became the
     line transient-support. The introduction and the heading of the links
     across say so; the components and links are unchanged.
 defeated_if: >-
@@ -62,7 +62,7 @@ integrates:
 emergency readiness and its bibliography (2026-11-04), with what later
 filings added to it. The line's account is built over it and its sibling
 part. A third part, withdrawing transient support, became the line
-transient-support at the split of readiness ([ADR-tmptlkel](../decisions.d/ADR-tmptlkel.md)).*
+transient-support at the split of readiness ([ADR-087](../decisions.d/ADR-087.md)).*
 
 ## The account
 

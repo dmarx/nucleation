@@ -1,6 +1,6 @@
 ### Changed
 
-- [ADR-tmptlkel](record/decisions.d/ADR-tmptlkel.md) (Proposed) splits readiness in two:
+- [ADR-087](record/decisions.d/ADR-087.md) (Proposed) splits readiness in two:
   - The new line `transient-support`, "Withdrawing transient support", takes the 30 entries of readiness's withdrawal part. [CLAIM-602](record/claims.d/CLAIM-602.md) keeps readiness beside it, because it bears on [QUESTION-386](record/questions.d/QUESTION-386.md).
   - readiness keeps keeping a rare capability, and reaching and paying under budgets.
 - The withdrawal part's account, [SYNTHESIS-032](record/syntheses.d/SYNTHESIS-032.md), becomes transient-support's account.
