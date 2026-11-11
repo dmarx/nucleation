@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqnhih
 title: "A bound k on the max-information between a dataset and an analyst's chosen statistic multiplies by at most 2^k the probability that the statistic overfits that dataset, and an ε-differentially private mechanism on datasets of n points keeps k at most log₂e·εn, whatever the distribution on datasets"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -17,6 +17,13 @@ history:
     on Thresholdout's Theorem 11 and on proofs held in companion papers
     the record has not read. That clause and the former promote_when move
     to QUESTION-196.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-196, from the reading review of 2026-11-11, by
+    question: the question holds this reading's former promote_when,
+    Thresholdout's guarantee proved in the companion papers, so the
+    reading is its premise (ADR-060, ADR-065). No other change.
 tags:
 - mathematical-statistics
 - learning-theory
@@ -34,6 +41,7 @@ summary: >-
   prevents inflation, not a correction for a search already run.
 bears_on:
 - QUESTION-040
+- QUESTION-196
 ---
 <!-- inactive-ok-file: NOTE-848 — Skimmed; the reading this rests on, of the Supplementary Material only -->
 

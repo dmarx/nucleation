@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpl8vsy
 title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-18'
@@ -56,6 +56,15 @@ history:
     Provenance only: NOTE-1599 went to Read in the twenty-ninth and
     thirtieth status reviews, so "read Skimmed in" or "skimmed in"
     becomes "read in" (1 place). What the entry says is unchanged.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-126, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). Its title holds that "the
+    multipliers that certify infeasibility need not be the weights
+    governance assigns", and its body: "Whether they coincide is
+    QUESTION-126." The question reads it as "governance-induced
+    frustration seen from the weights". No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -98,6 +107,8 @@ summary: >-
   frustration needs an argument or intervention showing the allocation of
   influence responsible. A35: "Importantly, these dual multipliers are not
   endorsement weights."
+bears_on:
+- QUESTION-126
 ---
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 

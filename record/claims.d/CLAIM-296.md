@@ -7,7 +7,7 @@ title: What a system has, what it knows it has, and what it can deploy within a
   task's deadline are different, and the last is a relation among the resource,
   the agent, its environment, the task, the deadline and the cue, not a property
   of any one of them
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -21,6 +21,16 @@ history:
     cites Hutchins's cockpit as the closest case the record holds, a
     stylized task analysis with no measurements. The claim is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-097, from the reading review of 2026-11-11, by
+    question. The question, A18's eighth candidate, cites the case
+    this claim rests on (CASE-085) for an observer who "may know
+    exactly what intervention would be helpful but lack the means to
+    execute it". The claim, A18's first, holds that "what it knows it
+    has, and what it can deploy within a task's deadline are
+    different": evidence that the two come apart. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,6 +60,7 @@ complements:
 - CLAIM-312
 bears_on:
 - QUESTION-101
+- QUESTION-097
 ---
 <!-- inactive-ok-file: LIT-2105 LIT-2098 LIT-2075 — Unavailable; the unread originals of the location-model readings of 2026-11-04, cited as open -->
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->

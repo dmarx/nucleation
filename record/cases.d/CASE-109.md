@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpffqbr
 title: 'Two people with the same demanding commitment, the same output and the same effort in the work, who differ in how their intrapersonal conflict is settled: one escalates it to deliberate override, the other''s processes accommodate one another'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-077 (ADR-092), from the reading review of
+    2026-11-11, by question. The question's note of 2026-10-18 names
+    its Person B, whose processes find a course each can accommodate,
+    as "agreement in action without agreement in value", the wider
+    route of the question. No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -27,6 +36,8 @@ summary: >-
   across afternoons, here effort in the work is held high in both. It is
   used for [CLAIM-358](../claims.d/CLAIM-358.md). Stipulated, so it shows what the claim
   distinguishes, not that people differ this way.
+bears_on:
+- QUESTION-077
 ---
 <!-- inactive-ok-file: CLAIM-358 CLAIM-362 CLAIM-364 — Proposed; the claims and reading the case is set beside, open -->
 

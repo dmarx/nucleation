@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CASE-tmpz9u5t
 title: 'A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-361 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names it: "The constructions
+    of the exchange (CASE-190) go part of the way: a copying catalyst
+    the organization keeps regenerated, with a student whose memory is
+    erased and rebuilt. Its student never becomes a teacher." No other
+    change.
 standing: fictional
 kind: construction
 tags:
@@ -29,6 +39,8 @@ summary: >-
   said "Our last model explicitly demonstrated the separation" between
   matched successors after a second injury; it did not, and that
   experiment was never run.
+bears_on:
+- QUESTION-361
 ---
 
 # CASE-190: A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpov2tm
 title: "In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,13 @@ history:
     second experiment testing which clusters are seen and when, which is
     the stability question the title leaves to the dynamics. It moves
     unchanged to QUESTION-147. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-147, from the reading review of 2026-11-11, by
+    question: the question holds this reading's former promote_when
+    (version 2), so the reading is its premise (ADR-060, ADR-065). No
+    other change.
 tags:
 - network-science
 - complex-systems
@@ -34,6 +41,8 @@ summary: >-
   block. Symmetry is sufficient, not necessary, for clusters. The paper
   says nothing about external drive, so the use of these clusters as a
   sign of coupling rather than a shared cue is the record's inference.
+bears_on:
+- QUESTION-147
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the coupling and boundary claims this account bears on, open -->
 

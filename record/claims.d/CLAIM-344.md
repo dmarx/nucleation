@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp0wvwc
 title: 'Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -23,6 +23,15 @@ history:
     Active, no objection is filed, and nothing in the record meets its
     defeated_if. THEORY-067 stays as corroboration (ADR-058). Status
     Proposed to Active. The claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-440, from the reading review of 2026-11-11, by
+    question. The question cites its "mere slowness or persistence is
+    not resolve", resolve being a maintained organization of
+    precedence: a slow variable is not thereby the one with
+    precedence. It already carries the question's line. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,6 +73,8 @@ summary: >-
 complements:
 - CLAIM-443
 - CLAIM-523
+bears_on:
+- QUESTION-440
 ---
 
 <!-- inactive-ok-file: THEORY-067 — Proposed; an open claim this one cites and the reading that corroborates it, cited as open -->

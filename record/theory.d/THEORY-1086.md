@@ -12,7 +12,18 @@ promote_when: >-
   Newtonian mechanics approximating quantum mechanics, which bear on
   theories, not on the feature.
 title: 'A fundamental metaphysics bears on the metaphysics of the lifeworld only through features that admit no approximation; without any, a relational world can approximate one of separable individuals, and the independence of social theorizing from fundamental metaphysics is then real but contingent, on the size of Planck''s constant, not principled'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-280, from the reading review of 2026-11-11, by
+    question. The question's note of 2026-10-27 reads it: "On
+    individuals Jaksland leans yes", and adds a third answer,
+    independence "real but contingent", which is this reading's title.
+    It gives "no account of approximation", so it bears and does not
+    answer. A Proposed reading may bear (the reading-review skill). No
+    other change.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -28,6 +39,8 @@ summary: >-
   more agreeable" as approximable, and the dualisms the harder case. The
   contingency half is argued (a counterfactual on Planck's constant); the
   no-approximation half is a candidate list, not a demonstration.
+bears_on:
+- QUESTION-280
 ---
 
 # THEORY-1086: A fundamental metaphysics bears on the metaphysics of the lifeworld only through features that admit no approximation; without any, a relational world can approximate one of separable individuals, and the independence of social theorizing from fundamental metaphysics is then real but contingent, on the size of Planck's constant, not principled

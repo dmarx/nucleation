@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprc3on
 title: 'CECOT, 2025: people removed from the United States into Salvadoran custody despite court orders, the US saying it could not bring them back and El Salvador''s president that he could not send them, until coordinated transfers out showed the two governments together could'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,14 @@ history:
     Note of 2026-10-29 added: the district court's remand orders
     read (LIT-1841, NOTE-1417), with the finding of 11 April
     and the custody conflict of footnote 3. The case is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-279 (ADR-092), from the reading review of
+    2026-11-11, by question. Its own text: "A claim of inability is
+    evidence of a position (QUESTION-279)", and the Supreme Court's
+    request for the steps taken is "QUESTION-279's move". No other
+    change.
 standing: documented
 kind: specimen
 tags:
@@ -42,6 +50,8 @@ summary: >-
   could not do was offered as if it settled what could be done. Not
   shown: whether any official was in contempt, or intent; the later
   proceedings are the exchange's.
+bears_on:
+- QUESTION-279
 ---
 
 # CASE-175: CECOT, 2025: people removed from the United States into Salvadoran custody despite court orders, the US saying it could not bring them back and El Salvador's president that he could not send them, until coordinated transfers out showed the two governments together could

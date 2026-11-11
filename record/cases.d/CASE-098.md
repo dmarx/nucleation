@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp3dw7j
 title: 'A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,17 @@ history:
     Kilduff, Elfenbein and Staw (LIT-1755) read, and what each adds to
     the case. A note of the same day adds Botzung et al. (LIT-1734),
     read.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-116 and QUESTION-298 (ADR-092), from the reading
+    review of 2026-11-11, by question. Its own text names both: a
+    rivalry "is held by archives, scheduled encounters and transmitted
+    expectations, which is the time-lagged coupling CLAIM-157 says its
+    block test cannot see (QUESTION-116)", and "QUESTION-298 asks
+    whether perceived reciprocity is accurate. That is the
+    paired-survey design this case would need". Both questions name it
+    too. No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -30,6 +41,9 @@ summary: >-
   the record has no study of a particular rivalry. It shows a relation
   with its own continuity; it does not show that the relation is a system,
   an agent, or constitutive of either fandom.
+bears_on:
+- QUESTION-116
+- QUESTION-298
 ---
 
 <!-- inactive-ok-file: CLAIM-157 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

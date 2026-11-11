@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CASE-tmp6z1ew
 title: 'Two friendships across a group line: in one, the friend becomes an exception and the person''s view of the friend''s group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-262 (ADR-092), from the reading review of
+    2026-11-11, by question. The question's contrast "Local against
+    general" asks whether cooperation changes responses to other
+    members of the category, citing this thought experiment, which
+    holds the friendship fixed and varies "whether the friend's
+    conduct is allowed to bear on the category". No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -21,6 +31,8 @@ summary: >-
   "Category reorganization". Held fixed: the friendship and its favourable
   information. Varied: whether the friend's conduct is allowed to bear on
   the category.
+bears_on:
+- QUESTION-262
 ---
 
 # CASE-146: Two friendships across a group line: in one, the friend becomes an exception and the person's view of the friend's group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns

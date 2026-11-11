@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,14 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-366, from the reading review of 2026-11-11, by
+    question. The question gives it as "a reason pointing the other
+    way": "a stabilized specification is past inquiry stored so that
+    later questions become cheaper to ask", used without re-running
+    the history that produced it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +77,8 @@ summary: >-
   activity. A stable specification amortizes the work that made it, which
   is a separation of time scales ([CLAIM-478](CLAIM-478.md)), and entrenches what it
   makes cheap.
+bears_on:
+- QUESTION-366
 ---
 <!-- inactive-ok-file: THEORY-1056 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->

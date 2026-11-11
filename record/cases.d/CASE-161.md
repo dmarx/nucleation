@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpfmdj6
 title: 'Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -28,6 +28,14 @@ history:
     show" now gives v2.1's own words, "not guaranteed to recover"; it said
     "not reliably repaired", which v1.6's 48 of 48 repairs of a zeroed
     admission rule do not bear out. The title is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-361 (ADR-092), from the reading review of
+    2026-11-11, by question. On teaching as well as learning, the
+    question says: "CASE-161 shows the separation for governing
+    rules", successors alike in ordinary operation that differ in what
+    they can reconstruct after damage. No other change.
 standing: stipulated
 kind: executed-study
 tags:
@@ -49,6 +57,8 @@ summary: >-
   second construction to a stochastic population with a different
   production law: here reciprocal production repairs a single loss, where
   the case's closed pair collapses.
+bears_on:
+- QUESTION-361
 ---
 
 # CASE-161: Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule

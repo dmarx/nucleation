@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpl995z
 title: 'A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -26,6 +26,14 @@ history:
     The syntheses this pointed at returned to CLAIM at the decision that
     a SYNTHESIS is an account (ADR-084), so `illustrates` names
     CLAIM-474 for SYNTHESIS-006. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-319 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names it twice: its coupling
+    regimes show one connection in different dynamics with identical
+    holonomy, and "CASE-179 is the natural place to run it, as an
+    added readout of its frustrated-maps regime". No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -47,6 +55,8 @@ summary: >-
   boundary laws, robustness under intervention, the cost of recovering
   the structure, and whether revision improves prediction on interventions
   the apparatus did not choose. Not run.
+bears_on:
+- QUESTION-319
 ---
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->

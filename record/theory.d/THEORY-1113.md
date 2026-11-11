@@ -15,7 +15,16 @@ promote_when: >-
   further cross-sectional survey with the same model cannot settle it,
   since the causal order is what is in question.
 title: "In team-sport fandom, perceived rivalry intensity lowers fans' sense of being respected by the rival's fans but raises their sense of in-group distinctiveness and cohesion, and these gains run through the perception that the rivalry is reciprocated, not through disidentification with the rival"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-298, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). The question starts from it:
+    "the benefits of a rivalry flow through the belief that the rival
+    returns the antagonism (THEORY-1113)". A Proposed reading may bear
+    (the reading-review skill). No other change.
 tags:
 - social-identity
 - social-science
@@ -31,6 +40,8 @@ summary: >-
   almost none. Proposed: one cross-sectional sample, a single-item
   predictor, a new reciprocity scale, and causal order assumed by the
   model.
+bears_on:
+- QUESTION-298
 ---
 <!-- inactive-ok-file: THEORY-1114 — Proposed; the self-categorization account this is compared with -->
 

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmphf61a
 title: 'In relational quantum mechanics as Di Biagio and Rovelli define it, a fact relative to one system is stable for another, so that the other may sum over it classically, only approximately and only relative to that other system: decoherence of the first system by an environment the second cannot reach gives the classical rule to order of the environment states'' overlap, a differently coupled system may still see interference, and a fact can be stable for a system for which it is not yet a fact'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-280, from the reading review of 2026-11-11, by
+    question. The question's note of 2026-10-27 (evening) reads it as
+    "a worked case of approximate absoluteness, for facts and not
+    individuals", with a grade, a limit and a stated error, and adds
+    that "the approximation is itself relative to a system". No other
+    change.
 tags:
 - quantum-foundations
 date: '2026-10-27'
@@ -18,6 +28,8 @@ summary: >-
   environment. It does not say that stable facts are absolute, that
   decoherence settles which outcome occurred, or what fixes the division
   into systems.
+bears_on:
+- QUESTION-280
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed; the RQM rule this rests on and the interpretive neighbour, cited as open -->
 

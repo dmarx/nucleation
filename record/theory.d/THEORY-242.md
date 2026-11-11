@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3gjfu
 title: "A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -40,6 +40,14 @@ history:
     reading is its premise (ADR-060). The relation was never written
     when the condition moved; sweep of 2026-11-11, from the reading
     review by question. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-261, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). The question's apparent
+    consensus is this reading's mechanism: "A vocal minority can
+    silence a majority with private beliefs held fixed (THEORY-242)".
+    No other change.
 tags:
 - social-science
 - network-science
@@ -59,6 +67,7 @@ summary: >-
   exceeds about 30%.
 bears_on:
 - QUESTION-356
+- QUESTION-261
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 

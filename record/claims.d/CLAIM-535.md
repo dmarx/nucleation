@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg1n2c
 title: 'An organization that acts on what it observes has a policy acceptable in every circumstance exactly when, for each observation, the circumstances it cannot tell apart share an acceptable action; so every circumstance having an acceptable action does not give a policy, a finer observation never removes one, and where acceptable actions overlap the coarsest observations that suffice are several and incomparable, so which distinctions must be made legible depends on which acceptable action the organization commits to'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-10'
@@ -20,6 +20,18 @@ history:
     A dated note corrects the note of 2026-11-04, which calls CLAIM-559
     Proposed; it has been Active since 2026-11-06. Found at the
     synthesis review of the formal-apparatus line. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-097, from the reading review of 2026-11-11, by
+    question. The question asks when a distinction an organized agent
+    can observe corresponds to an intervention it can perform. The
+    claim states a condition joining them: a policy acceptable in
+    every circumstance exists "exactly when, for each observation, the
+    circumstances it cannot tell apart share an acceptable action", so
+    "which distinctions must be made legible depends on which
+    acceptable action the organization commits to". It already carries
+    the question's line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -50,6 +62,7 @@ complements:
 bears_on:
 - QUESTION-285
 - QUESTION-133
+- QUESTION-097
 summary: >-
   A33 §4 of the exchange "Assess SDT Coverage" (2026-11-02), at the
   owner's U33 request for positive accounts, with A30 §2's example and

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp8tn9v
 title: 'The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping conferral (γ)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,15 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-124 (ADR-092), from the reading review of
+    2026-11-11, by question. Its own text: "The dynamics it would need
+    are QUESTION-124's." The question names it as the linearization
+    that holds a capture threshold "with no demands in the model", to
+    which A39 proposed adding demands. A construction that models half
+    of the question. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -28,6 +37,8 @@ summary: >-
   the symmetric state is unstable exactly when βγ > (1 − α)(1 − δ), and
   the unstable direction mixes meaning and authority. Checked here. A
   construction about a linearization, not a fitted or simulated result.
+bears_on:
+- QUESTION-124
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 

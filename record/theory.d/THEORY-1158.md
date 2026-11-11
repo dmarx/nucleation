@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpy1s8c
 title: 'On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -42,6 +42,14 @@ history:
     the reading is its premise (ADR-060). The relation was never written
     when the condition moved; sweep of 2026-11-11, from the reading
     review by question. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-319, from the reading review of 2026-11-11, by
+    question. The question sets its two readings of holonomy against
+    this one: "LIT-1820 reads a nontrivial loop as corruption to be
+    removed, and on its benchmark it is, because the truth was built
+    flat (THEORY-1158)". No other change.
 tags:
 - network-science
 - compositionality
@@ -58,6 +66,7 @@ summary: >-
   group elements.
 bears_on:
 - QUESTION-343
+- QUESTION-319
 ---
 
 # THEORY-1158: On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpfm1ma
 title: 'When a teacher''s next-token distribution depends on a context the student cannot observe, the forward-KL-optimal student is the teacher averaged over the contexts compatible with the student''s observation, the loss it cannot remove is the conditional mutual information between the teacher''s output and the hidden context, and the optimal student is at least as uncertain as the teacher is on average; the self-distillation objectives actually trained may not be forward KL at all'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-361, from the reading review of 2026-11-11, by
+    question. Its own text: "This is the published statement of the
+    limit QUESTION-361 starts from", what distillation can carry when
+    the teacher knows more. No other change.
 tags:
 - learning-theory
 - information-theory
@@ -18,6 +26,8 @@ summary: >-
   holds for the unclipped forward KL; the OPSD objective the paper trains
   clips each vocabulary entry, which the paper shows reverses the
   gradient on the teacher's most preferred tokens.
+bears_on:
+- QUESTION-361
 ---
 
 # THEORY-1259: When a teacher's next-token distribution depends on a context the student cannot observe, the forward-KL-optimal student is the teacher averaged over the contexts compatible with the student's observation, the loss it cannot remove is the conditional mutual information between the teacher's output and the hidden context, and the optimal student is at least as uncertain as the teacher is on average; the self-distillation objectives actually trained may not be forward KL at all

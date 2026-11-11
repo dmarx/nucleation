@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp048av
 title: "Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
@@ -12,6 +12,15 @@ history:
     A dated note added: the crowd formalized as a network of accumulators
     (CASE-160), its conditions held by CLAIM-453, and a reported
     run of the visible tally. The case is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-077 (ADR-092), from the reading review of
+    2026-11-11, by question. The question takes it as its instance: in
+    democracy mode with the tally visible, the voters agree because
+    "each one sees where the majority is going and follows it",
+    agreement "produced by the coupling" while "the voters' valuations
+    need not move at all". No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -35,6 +44,8 @@ illustrates:
 - CLAIM-158
 - CLAIM-122
 - CLAIM-261
+bears_on:
+- QUESTION-077
 ---
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in

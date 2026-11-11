@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpg2o44
 title: "On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -19,6 +19,19 @@ history:
     keeps the general impossibility (Propositions 2–3, cited and not proved
     in the source), the wider agenda classes and the extension to corporate
     attitudes, and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-094, from the reading review of 2026-11-11, by
+    question. The question asks whether jurisdiction allocated over
+    linked propositions can keep judgments consistent, and names List
+    and Pettit's escape, "having different members settle different
+    premises and deriving the conclusions", as "a case of allocating
+    jurisdiction". This reading holds that case for the court agenda:
+    "under the distributed procedure" the members' judgments on the
+    conclusion "need not enter" (Proposition 5), and the procedure is
+    robustly rational. A sufficient case on one agenda, not an answer.
+    No other change.
 tags:
 - social-ontology
 - logic
@@ -36,6 +49,8 @@ summary: >-
   group's (weak discontinuity), and under the distributed procedure they
   need not enter (strong discontinuity, Proposition 5). The general
   impossibility for proposition-wise rules is [THEORY-127](THEORY-127.md), still Proposed.
+bears_on:
+- QUESTION-094
 ---
 
 # THEORY-725: On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmptkmt9
 title: 'When the expression maps of a discourse sheaf diffuse to reduce disagreement, with opinions held fixed they converge to the nearest sheaf, in Frobenius distance, of which the opinions are a global section, so apparent consensus is reached by changing what is said ("learning to lie"); with opinions diffusing too the joint flow is gradient descent on ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions from collapsing to zero; nothing in either flow checks an expression against the opinion it expresses'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-319, from the reading review of 2026-11-11, by
+    question. The question cites it for why falling holonomy is not
+    evidence of better organization: consistency-seeking revision "can
+    reach agreement by changing how relations are expressed
+    (THEORY-1088)", which is this reading's "learning to lie". No
+    other change.
 tags:
 - network-science
 - mathematics
@@ -20,6 +30,8 @@ summary: >-
   which was checked numerically in the reading. The degeneracy guards are
   internal to the loop: minimal change and a conserved quantity, not
   evidence from outside it.
+bears_on:
+- QUESTION-319
 ---
 
 # THEORY-1088: When the expression maps of a discourse sheaf diffuse to reduce disagreement, with opinions held fixed they converge to the nearest sheaf, in Frobenius distance, of which the opinions are a global section, so apparent consensus is reached by changing what is said ("learning to lie"); with opinions diffusing too the joint flow is gradient descent on ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions from collapsing to zero; nothing in either flow checks an expression against the opinion it expresses

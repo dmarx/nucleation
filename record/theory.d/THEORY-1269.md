@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpp515i
 title: 'In overparameterized linear regression, iterated self-training with fresh covariates, noiseless pseudo-labels and minimum-norm students applies a fresh random orthogonal projection to the estimate each round, so noise from the first fit decays geometrically while signal along a direction of variance s decays at the slower rate s/(s + τ); risk is U-shaped under anisotropy and monotone under isotropy, tends to the risk of predicting zero, and every student fits its teacher exactly on its own sample'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-361, from the reading review of 2026-11-11, by
+    question. The question cites it for the second mechanism of loss
+    in iterated self-distillation: "each round projects onto a fresh
+    random subspace, so noise and then signal are forgotten
+    (THEORY-1269)". No other change.
 tags:
 - learning-theory
 - mathematical-statistics
@@ -18,6 +27,8 @@ summary: >-
   closed form; the general concentration result (Theorem 4.2) is the
   paper's, proof not checked. It does not cover reused data, noise
   injected every round, or nonlinear students.
+bears_on:
+- QUESTION-361
 ---
 
 # THEORY-1269: In overparameterized linear regression, iterated self-training with fresh covariates, noiseless pseudo-labels and minimum-norm students applies a fresh random orthogonal projection to the estimate each round, so noise from the first fit decays geometrically while signal along a direction of variance s decays at the slower rate s/(s + τ); risk is U-shaped under anisotropy and monotone under isotropy, tends to the risk of predicting zero, and every student fits its teacher exactly on its own sample

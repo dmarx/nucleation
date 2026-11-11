@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpd6q2w
 title: 'An ordinal potential describes only the winning-move relation it is computed on; where an organization''s legibility regime selects which contests are admitted or recorded, an acyclic record, even a persistent potential, can be the product of selective contestation, so observed coherence is not evidence that the organization''s perspectives are integrated, and an intervention that improves its self-governance may at first increase the disagreement observed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -29,6 +29,17 @@ history:
     wrote it on 2026-10-24 as the converse of LIT-1146's `supports`. The
     removal stands for the reason the rest of that note gives: the claim
     cites Jia et al. as prior art, through THEORY-916, now corroborated_by.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-269, from the reading review of 2026-11-11, by
+    question. The question asks whether accessibility and jurisdiction
+    change valence with the record of wins fixed, since narrowing what
+    is contested "can make a record acyclic that would cycle on the
+    full set". The claim holds that where a legibility regime "selects
+    which contests are admitted or recorded, an acyclic record, even a
+    persistent potential, can be the product of selective
+    contestation". No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -64,6 +75,8 @@ summary: >-
   wins on which [CLAIM-440](CLAIM-440.md) reads valence can be acyclic for the wrong
   reason. Objects to reading a prevailing potential as an integrated
   organization's valence without a check on what was admitted.
+bears_on:
+- QUESTION-269
 ---
 <!-- inactive-ok-file: ARG-066 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-073 — filed from the same exchange, Proposed -->

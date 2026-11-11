@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp4ozxp
 title: 'The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -17,6 +17,16 @@ history:
     The third grade cited as CLAIM-427's is now cited as ARG-025's:
     CLAIM-427 is Superseded by ARG-025, which holds the grading.
     Reported by the synthesis review of 2026-11-11 (seventh round).
+    No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-264 (ADR-092), from the reading review of
+    2026-11-11, by question. The question names it: "CASE-144 is a
+    proposed test." Its central question, when an organization
+    "become[s] unable to recognize or act upon evidence that its own
+    organization of interpretation and authority has rendered
+    inconsequential", is a case of the three organizations diverging.
     No other change.
 standing: stipulated
 kind: proposed-study
@@ -38,6 +48,8 @@ summary: >-
   organization become unable to recognize or act upon evidence that its
   own organization of interpretation and authority has rendered
   inconsequential?" Not run.
+bears_on:
+- QUESTION-264
 ---
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpfpvgq
 title: '"If I can''t find it, it isn''t there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -13,6 +13,15 @@ history:
     the owner carried the rule from items to remedies, and A10 to
     institutional claims that no remedy is available. The claim is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-279, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). The question rests on it: "The
+    record has the structure for items. CLAIM-312: a search that fails
+    by the deadline establishes operational unavailability outright,
+    and absence only with a certificate". Its own text: "QUESTION-279
+    asks what the certificate would be for a remedy". No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +61,8 @@ summary: >-
   joined with before it licenses absence. The gap between the two readings is
   [CLAIM-306](CLAIM-306.md)'s Bayes term, and it matters when the statement is passed to
   someone who will act on presence.
+bears_on:
+- QUESTION-279
 ---
 
 # CLAIM-312: "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default

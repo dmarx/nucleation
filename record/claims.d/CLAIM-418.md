@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9jg87
 title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent''s activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -25,6 +25,14 @@ history:
     nothing in the record meets its defeat condition: neither criterion
     makes every perspective in TERM-072's sense 1 an agent, and CASE-169
     and CASE-175 are cases where the boundaries come apart.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-264, from the reading review of 2026-11-11, by
+    question, as a premise (ADR-060). Its title holds that
+    "perspectival, agential and institutional boundaries need not
+    coincide"; the question begins "CLAIM-418 says ... need not
+    coincide. It does not say when they do." No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,6 +68,8 @@ summary: >-
   takes the half A38 called "substantially safer": not every organization
   of practical significance is an agent. It leaves A38's other half, that
   every rich exercise of agency involves such an organization, as open.
+bears_on:
+- QUESTION-264
 ---
 <!-- inactive-ok-file: CLAIM-417 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
 
