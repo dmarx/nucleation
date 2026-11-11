@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'An entry shows the accounts that integrate it: `integrates` gets a derived converse, `integrated_by`, on every scheme an account can integrate, so a part of a line's argument is visible from its members and not only from the current-account view'
+title: 'An entry shows the accounts that integrate it: `integrates` gets a derived converse, `integrated_by`, on every scheme an account can integrate, so a part of a line''s argument is visible from its members and not only from the current-account view'
 version: 1
 tags:
 - record
