@@ -41,7 +41,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-039 CLAIM-431 CLAIM-432 — Proposed; components of this part, with their standing -->
 <!-- inactive-ok-file: CLAIM-271 CLAIM-355 CLAIM-437 THEORY-055 THEORY-057 THEORY-101 THEORY-125 THEORY-126 THEORY-663 — Proposed; premises, readings and claims of sibling parts, cited as the components cite them -->
 <!-- inactive-ok-file: CASE-014 — Deferred; a component, set aside -->
-<!-- inactive-ok-file: QUESTION-009 QUESTION-059 — Deferred; questions the components cite -->
+<!-- inactive-ok-file: QUESTION-009 — Deferred; a question the components cite -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; a component, replaced by QUESTION-015 -->
 <!-- inactive-ok-file: QUESTION-015 — Answered; the question that replaced QUESTION-019 -->
 <!-- inactive-ok-file: ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->

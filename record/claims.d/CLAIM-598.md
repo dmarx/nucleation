@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt0fnx
 title: 'Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as Majikes et al. report for a single DNA origami fold that excess staples block'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,12 @@ history:
     by THEORY-1457 (Proposed); it is now an attribution, and
     THEORY-1457 corroborates the claim. CASE-217, its one premise, was
     promoted in the same change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A literal "\n" in item 4 of the body, inside "(not a ... conserved
+    stock)", is replaced by the line break it stood for (a defect listed
+    in the curation entry of 2026-11-10). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -88,7 +94,8 @@ target is a sum over paths of products of branch shares
    Supply that arrives while the system is in a state whose wrong step
    consumes it does harm there, and does good where the right step does.
    So whether front-loading or delay is better depends on which steps the
-   supply enters. In [CASE-215](../cases.d/CASE-215.md), with integrated exposure ∫c dt fixed (not a\n   conserved stock), the yield
+   supply enters. In [CASE-215](../cases.d/CASE-215.md), with integrated exposure ∫c dt fixed (not a
+   conserved stock), the yield
    front-loaded, even or delayed is 70.6, 58.8 and 24.8 % when nucleation
    uses the supply. It is 45.4, 58.8 and 65.3 % when the supply traps the
    unnucleated scaffold and completes the nucleated one.

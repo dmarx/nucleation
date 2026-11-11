@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptd5us
 title: 'A regime of valence is felt, in the sense of attended and available to the system''s other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -24,6 +24,17 @@ history:
     from grounds to corroborated_by: the claim "fits" Graziano's account
     and does not rest on it. The claim and its status are unchanged; it
     still waits on CLAIM-440 and THEORY-662.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The defeaters rested on "marks the record accepts", which no entry
+    fixes, so in the claim's access sense they could absorb every
+    case. defeated_if now says what counts as a mark, from the claim's
+    own sense of "felt": attended, as distinct from orienting
+    attention, and available to report and regulation beyond the
+    process that carries it, observed without reference to whether a
+    model of the potential is present. The thesis is unchanged. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,7 +45,15 @@ defeated_if: >-
   and is not accompanied by felt affect by those marks, a metacognitive
   analogue of blindsight; or evidence that what such a model explains is
   only the system's reports about feeling, not the feeling, in a sense of
-  "felt" the record adopts beyond attended and available.
+  "felt" the record adopts beyond attended and available. A mark of
+  felt affect, in the first two defeaters, is one of the access sense the
+  claim adopts, attended and available to the system's other processes:
+  the valence state is itself attended, as distinct from merely orienting
+  attention, as unfelt fluency does, and is available to report and to
+  regulation beyond the process that carries it (in an organization, it
+  reaches those who govern it). It is observed without reference to
+  whether a model of the potential is present. Use by a single process,
+  the blindsight analogue of the second defeater, is not such a mark.
 tags:
 - emotion-and-affect
 - consciousness
@@ -68,7 +87,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; the beautiful-loop account, a rival on sufficiency, cited as open -->
 <!-- inactive-ok-file: CLAIM-438 — Proposed; the objection and reading filed with this batch, cited as open -->
-<!-- inactive-ok-file: CLAIM-440 THEORY-662 THEORY-873 THEORY-090 QUESTION-059 — Proposed, Open or Deferred; the account this extends, the readings it is grounded in and the questions it bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-440 THEORY-662 THEORY-873 THEORY-090 — Proposed, Open or Deferred; the account this extends, the readings it is grounded in and the questions it bears on, cited as open -->
 
 # CLAIM-439: A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it
 

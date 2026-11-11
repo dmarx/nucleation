@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpupm3q
 title: 'Records kept of each capacity a response needs bound a reserve''s readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities'' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities'' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-08'
@@ -15,6 +15,14 @@ history:
     Title, body, defeater, role, warrant, lines and bears_on are the
     synthesis's; its premises are `rests_on`; its standing, Proposed, is
     kept.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    The summary's "with CLAIM-600 one of the readiness line's first two
+    syntheses" is corrected, from the defects listed in the curation
+    entry of 2026-11-10: both were filed as syntheses at the review of
+    2026-11-07 and returned to CLAIM on 2026-11-08 (ADR-084), and the
+    summary now says so. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -65,8 +73,10 @@ summary: >-
   the record's age and a refutation does not. The inference leans mainly on
   [CLAIM-587](CLAIM-587.md); its integrating work is joining it with [TERM-115](../terms.d/TERM-115.md), [CASE-210](../cases.d/CASE-210.md)'s
   list of evidence and [CLAIM-558](CLAIM-558.md) to answer the question's "identify or
-  bound" half. Filed at the synthesis review of 2026-11-07, with
-  [CLAIM-600](CLAIM-600.md) one of the readiness line's first two syntheses. The integration's wording is the assistant's
+  bound" half. Filed at the synthesis review of 2026-11-07 as a
+  synthesis, SYNTHESIS-009, one of the readiness line's first two with
+  what is now [CLAIM-600](CLAIM-600.md); both returned to CLAIM on 2026-11-08 (ADR-084).
+  The integration's wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->

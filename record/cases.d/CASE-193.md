@@ -3,8 +3,24 @@ number: 193
 status: Proposed
 formerly:
 - CASE-tmpbd03o
-title: 'Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so an SLT invariant and the compatibility complex vary independently'
-version: 1
+title: 'Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so singularity and compatibility vary independently, while λ here is ½ in both frustrated arms and 1 in both compatible ones'
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Title and summary corrected to what the case's own table shows
+    (defects listed in the curation entry of 2026-11-10). The table
+    gives λ = ½ for both frustrated arms and λ = 1 for both compatible
+    arms, so λ does not vary apart from compatibility here; what does is
+    singularity, as the body's "singularity and compatibility vary
+    independently" says. Old title ending: "so an SLT invariant and the
+    compatibility complex vary independently". Old summary sentence:
+    "Its point: neither the real log canonical threshold nor its
+    multiplicity tells whether the demands are jointly realizable." The
+    body also called CLAIM-305 "now superseded"; it is Active and has
+    never been superseded, and the clause is removed. The table, arms
+    and checks are unchanged. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -24,13 +40,15 @@ summary: >-
   (2026-11-04). A's three arms are compared under one set of demands:
   regular and frustrated, singular and frustrated, regular and compatible.
   The reader added a fourth arm, singular and compatible, so that the table
-  cannot be read as "differentiation is anti-singular". Its point: neither
-  the real log canonical threshold nor its multiplicity tells whether the
-  demands are jointly realizable. The wording is A's, sharpened by the
+  cannot be read as "differentiation is anti-singular". Its point:
+  singularity does not tell whether the demands are jointly realizable,
+  since all four combinations occur. In this table the real log canonical
+  threshold does not vary apart from compatibility: it is ½ in both
+  frustrated arms and 1 in both compatible ones. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
 ---
 
-# CASE-193: Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so an SLT invariant and the compatibility complex vary independently
+# CASE-193: Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so singularity and compatibility vary independently, while λ here is ½ in both frustrated arms and 1 in both compatible ones
 
 ## The construction
 
@@ -102,7 +120,7 @@ singularities."
 
 **Relief here is [CLAIM-347](../claims.d/CLAIM-347.md)'s.** Arms 3 and 4 enlarge the attainable set
 for the same acceptance sets. Arm 2 adds parameters without enlarging it.
-[CLAIM-305](../claims.d/CLAIM-305.md), now superseded, made the neighbouring point that resolving a
+[CLAIM-305](../claims.d/CLAIM-305.md) makes the neighbouring point that resolving a
 singularity adds no observation.
 
 **It does not show a learning trajectory.** A8: "These are three fixed

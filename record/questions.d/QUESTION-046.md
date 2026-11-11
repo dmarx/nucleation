@@ -25,7 +25,7 @@ summary: >-
   and [QUESTION-032](QUESTION-032.md). [THEORY-043](../theory.d/THEORY-043.md) and [THEORY-063](../theory.d/THEORY-063.md) answer it in part; the body
   gives each one's limit.
 ---
-<!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
+<!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; cited as the looser earlier version of this question -->
 
 # QUESTION-046: What criterion, applied the same way to a modular mind and to an organized group, would say whether an organized whole is a subject of experience and not only an agent?

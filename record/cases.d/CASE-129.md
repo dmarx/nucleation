@@ -4,14 +4,29 @@ status: Active
 formerly:
 - CASE-tmp3bisu
 title: 'The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Two corrections, from the curation entry of 2026-11-10. (1) The
+    body called the case CLAIM-364's objection, that low supervisory
+    cost cannot show non-domination. Since CLAIM-364's split of
+    2026-10-28 that verdict is ARG-030's failed critical question, and
+    CLAIM-364 undercuts ARG-030; the sentence now says so, as ARG-030
+    itself cites this case. (2) line gains will-organization after
+    authenticity: the case illustrates CLAIM-349 and grounds CLAIM-549
+    and CLAIM-553, all first on will-organization. The title, standing
+    and relations are unchanged. No other change.
 standing: fictional
 kind: thought-experiment
 tags:
 - self-governance
 - agency
 date: '2026-10-22'
-line: authenticity
+line:
+- authenticity
+- will-organization
 illustrates:
 - CLAIM-349
 - CLAIM-364
@@ -22,7 +37,7 @@ summary: >-
   suppression, and ordinary operation cannot tell which. Not shown: how
   often either occurs in persons or institutions.
 ---
-<!-- inactive-ok-file: CLAIM-364 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-364 ARG-030 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-129: The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears
 
@@ -50,10 +65,11 @@ alarms. A new hazard appears. System A responds. System B does not."
 - **Quiet is not evidence of either.** "a quiet signal may represent
   either successful learning or a loss of the capacity to learn. The
   decisive test therefore concerns **response to changed evidence**, not
-  the frequency of past warnings." That is [CLAIM-364](../claims.d/CLAIM-364.md)'s objection, that low
-  supervisory cost cannot show non-domination, made into a pair; and it
-  has [CLAIM-414](../claims.d/CLAIM-414.md)'s form, agreement in ordinary operation and divergence
-  under an intervention.
+  the frequency of past warnings." That is the point on which [CLAIM-364](../claims.d/CLAIM-364.md)
+  undercuts [ARG-030](../arguments.d/ARG-030.md), the inference from low supervisory cost to
+  non-domination, made into a pair: quiet is expected whether or not the
+  signal was suppressed. It has [CLAIM-414](../claims.d/CLAIM-414.md)'s form, agreement in ordinary
+  operation and divergence under an intervention.
 
 ## What it does not show
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpt6fm7
 title: 'Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,13 @@ history:
     NOTE-1573. Standing fictional is kept. It now illustrates CLAIM-559,
     whose body never uses it and from whose grounds it moves; it still
     grounds CLAIM-561.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    The summary said the case grounds CLAIM-559; since version 2 it
+    illustrates CLAIM-559 and grounds CLAIM-561 only, and the summary
+    now says so (a defect listed in the curation entry of 2026-11-10).
+    No other change.
 standing: fictional
 kind: construction
 tags:
@@ -37,7 +44,7 @@ summary: >-
   provisional dispatch costs max(A, T), so it saves min(A, T). A
   constructed case: the USFA page [LIT-2084](../literature.d/LIT-2084.md) is a real-world analogue,
   not its documentation. The case grounds [CLAIM-561](../claims.d/CLAIM-561.md) and
-  [CLAIM-559](../claims.d/CLAIM-559.md). The wording is A's; adopting it is the owner's call.
+  illustrates [CLAIM-559](../claims.d/CLAIM-559.md). The wording is A's; adopting it is the owner's call.
 ---
 
 # CASE-213: Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task

@@ -33,7 +33,6 @@ summary: >-
   clamp does, and the premise that removing unexercised branches changes
   experience is cited, not defended.
 ---
-<!-- inactive-ok-file: QUESTION-059 — Deferred; the question on the set-aside organizational-affect line that this account bears on, not answered by it -->
 <!-- inactive-ok-file: THEORY-101 THEORY-092 THEORY-119 THEORY-043 THEORY-023 — Proposed; parallel and neighbouring accounts, named for comparison, nothing here rests on them -->
 
 # THEORY-252: On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input

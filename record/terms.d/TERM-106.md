@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmp2ysyt
 title: 'reconfiguration slack: the temporary resources a system needs to move between two configurations it can each hold, beyond what holding either one requires, while keeping specified commitments'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -38,6 +38,15 @@ history:
     now says it means TERM-110's revision rule alone, not the full
     incentive effect, so that the use says which part of TERM-110 it
     means. The content is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    The note of 2026-11-06 on what held the term back is marked
+    resolved: version 2, adopted the same day, defines the one-sided and
+    several-resource forms, names the reconfiguration reserve in the
+    sense CLAIM-579 and CASE-200 use, and CLAIM-580's promotion met the
+    settle condition (a defect listed in the curation entry of
+    2026-11-10). No other change.
 tags:
 - operations-research
 - complex-systems
@@ -191,3 +200,5 @@ its endpoints' requirements is measured. Adopting it is the owner's call.
 ## Note of 2026-11-06: what holds it back
 
 Its uses do not yet share one sense: [CLAIM-577](../claims.d/CLAIM-577.md) measures slack against the current configuration alone, B*(q, q′) − r(q), not against the costlier endpoint as defined here, and [CLAIM-579](../claims.d/CLAIM-579.md)'s summary calls reconfiguration slack a field over configurations, which is where a reconfiguration reserve can be applied, not σ. The several-resource form, "the set of budgets that suffice, less what holding requires", is not yet defined, and no claim stated in the term has been adopted, its own settle condition.
+
+**Resolved at version 2 (2026-11-06).** The revision adopted at the twenty-sixth status review defines the one-sided form σ_A, in which [CLAIM-577](../claims.d/CLAIM-577.md) is stated, and the several-resource form Σ; it names the reconfiguration reserve as the stock held to meet the slack, the sense [CLAIM-579](../claims.d/CLAIM-579.md) and [CASE-200](../cases.d/CASE-200.md) use; and [CLAIM-580](../claims.d/CLAIM-580.md), promoted at the same review, meets the settle condition. The term is Active.

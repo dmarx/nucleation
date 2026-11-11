@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdbsh1
 title: 'Under what conditions does a partial organization become independent of the intervention that originally established it?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -12,6 +12,14 @@ history:
     Moves from readiness to transient-support, at the split of
     readiness (ADR-087, 2026-11-10): the entry is in that
     part's account. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Two notes of 2026-11-05, on weaning and on assistance and skill,
+    gain the closing line "No status changes." that the question's other
+    notes carry; the question's status was not changed when they were
+    added (a defect listed in the curation entry of 2026-11-10). No
+    other change.
 tags:
 - complex-systems
 - natural-sciences
@@ -126,8 +134,11 @@ A cavity soliton written by a transient beam becomes independent of that beam an
   - Clinicians often underestimate readiness (Shah, Hart and Kaltsakas, [NOTE-1706](../notes.d/NOTE-1706.md)), so the point where D becomes small is often reached before anyone tests for it.
 - **A measure for a gland.** In corticosteroid withdrawal, a morning cortisol test after holding the dose for 24 hours plays the same part ([NOTE-1705](../notes.d/NOTE-1705.md)).
 
+No status changes.
+
 ## Note of 2026-11-05: the readings on assistance and skill
 
 - **Withdrawal by hand-back.** Automation withdraws itself at its failures, so withdrawal comes at the state least favourable to the party (Ahn's reading of Bainbridge, [NOTE-1713](../notes.d/NOTE-1713.md)). A's measure D assumes withdrawal at chosen states.
 - **A withdrawal rule in use.** Cognitive tutors move a learner on once the estimated probability that a skill is learned passes 0.95, and post-tests without the tutor check persistence (Koedinger and Aleven, [NOTE-1708](../notes.d/NOTE-1708.md)).
 
+No status changes.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplo4ca
 title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -29,6 +29,16 @@ history:
     premises, CLAIM-571 and TERM-106, are Active, no objection is filed,
     and the construction was re-checked step by step. Nothing in the
     record meets its defeated_if.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-386, which the body named only in prose (a defect
+    listed in the curation entry of 2026-11-10). Its "What it adds" says
+    the budget rule is a mechanism "which is why A's worry about
+    utilization-based budgeting (QUESTION-386) can come true without
+    anyone wanting it": evidence for the question, not an answer to it.
+    Under ADR-085 the relation gives this claim QUESTION-386's first
+    line, readiness, which it already carries. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -69,6 +79,8 @@ summary: >-
   by a budget rule. Demonstrated for the pure rule; real budget rules have
   floors, growth and discretion that weaken it. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+bears_on:
+- QUESTION-386
 ---
 <!-- inactive-ok-file: CASE-200 CASE-203 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 

@@ -1,10 +1,10 @@
 ---
 number: 61
-status: Deferred
+status: Open
 formerly:
 - QUESTION-tmpn1400
 title: 'In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,15 @@ history:
     another, so none would settle a delimited part of the question if
     held. THEORY-096 stays as the offered uniform answer. The question
     is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Deferred to Open: it was Deferred only with its line, and the
+    owner reopened the line on 2026-10-23 (CLAIM-039), the reason
+    QUESTION-044 went Open on 2026-10-29. Nothing in this question
+    gives a reason of its own to stay Deferred. CLAIM-003 is Proposed
+    from the same date for the same reason; the summary, the body and
+    the directive say so. The question is unchanged. No other change.
 tags:
 - consciousness
 - neuroscience
@@ -39,9 +48,11 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-003](../claims.d/CLAIM-003.md). [THEORY-096](../theory.d/THEORY-096.md),
   the global workspace account, offers the uniform answer. [THEORY-098](../theory.d/THEORY-098.md),
   [THEORY-102](../theory.d/THEORY-102.md), [THEORY-103](../theory.d/THEORY-103.md) and THEORY-245 bear on it without settling
-  a part, and the body gives each one's limit. Deferred with its line.
+  a part, and the body gives each one's limit. Deferred with its line on
+  filing; Open since 2026-11-11, the owner having reopened the line on
+  2026-10-23.
 ---
-<!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
+<!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: THEORY-240 — Proposed; readings listed with their limits -->
 
 # QUESTION-061: In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?
@@ -52,7 +63,7 @@ summary: >-
 
 ## Why the record needs it
 
-[CLAIM-003](../claims.d/CLAIM-003.md) is Deferred with its line, and its note says the rival account "asserts uniform broadcast rather than measuring it". An answer would tell the line whether compartmented access is a fact about brains or only about organizations. The organizational half transfers only if an organization's permission structure plays the role long-range hub connectivity plays. That is the mechanism the claim names, and the brain half is needed before it can be tested.
+[CLAIM-003](../claims.d/CLAIM-003.md) was Deferred with its line until 2026-11-11, and its note says the rival account "asserts uniform broadcast rather than measuring it". An answer would tell the line whether compartmented access is a fact about brains or only about organizations. The organizational half transfers only if an organization's permission structure plays the role long-range hub connectivity plays. That is the mechanism the claim names, and the brain half is needed before it can be tested.
 
 ## What the record holds
 

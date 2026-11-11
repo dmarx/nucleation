@@ -4,14 +4,33 @@ status: Active
 formerly:
 - CASE-tmp361g3
 title: 'The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Two corrections, from the curation entry of 2026-11-10. (1) The
+    body set the case "Against CLAIM-362 and CLAIM-364", as if the
+    criterion counted every override as domination, but CLAIM-362
+    already disclaims a ban on override and admits override that is
+    "bounded, accountable, and capable of giving way". That paragraph
+    and the summary now say what the case adds: the warrant for an
+    override can be the agent's own earlier authorization, possibly
+    made hard to revoke, and the difference from the same restriction
+    imposed without consent lies in who authorized it, a history, as
+    CLAIM-364 says. (2) line gains will-organization after
+    authenticity: the case illustrates CLAIM-344 and varies CASE-013,
+    both first on will-organization. The title, standing and relations
+    are unchanged. No other change.
 standing: fictional
 kind: thought-experiment
 tags:
 - self-governance
 - motivation
 date: '2026-10-22'
-line: authenticity
+line:
+- authenticity
+- will-organization
 variant_of:
 - CASE-013
 illustrates:
@@ -21,8 +40,11 @@ summary: >-
   cases on quiet subordinate processes (U18). A restriction on a
   constituent process can be an exercise of self-governance, not its
   defeat, so a non-domination test that counts every override as
-  domination is too simple. Not shown: where a legitimate precommitment
-  ends and an unaccountable one begins.
+  domination is too simple. [CLAIM-362](../claims.d/CLAIM-362.md) already admits warranted override;
+  the case adds that the warrant can be the agent's own earlier
+  authorization, and that it is read from history, not present behaviour.
+  Not shown: where a legitimate precommitment ends and an unaccountable
+  one begins.
 ---
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
@@ -59,10 +81,17 @@ delegation remains answerable to its justifying purposes."
 [CLAIM-344](../claims.d/CLAIM-344.md) already holds that resolve keeps a temporally extended policy
 effective while keeping the capacity to revise it. This case shows the
 capacity to revise can be deliberately placed outside the moment of
-temptation and still be the person's. Against [CLAIM-362](../claims.d/CLAIM-362.md) and [CLAIM-364](../claims.d/CLAIM-364.md) it
-marks a limit: whether a constituent is dominated cannot be read from
-whether it is overridden, but from who authorized the override and
-whether it stays answerable.
+temptation and still be the person's. [CLAIM-362](../claims.d/CLAIM-362.md) already says that
+non-domination is "Not a ban on override", and admits override that "is
+bounded, accountable, and capable of giving way to stable cooperation".
+The case is not set against it. What it adds is a source of warrant
+that claim does not name: the agent's own earlier authorization, which
+may be made deliberately hard to revoke in the moment, so "capable of
+giving way" cannot mean immediately revocable. Set beside the same
+restriction imposed without consent, it also shows that the two cannot be
+told apart by present behaviour, only by who authorized the arrangement
+and whether it stays answerable. That is a history, which is where
+[CLAIM-364](../claims.d/CLAIM-364.md) says the difference must be read.
 
 ## What it does not show
 

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpkcch3
 title: 'Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model''s construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    CLAIM-003, QUESTION-059 and QUESTION-061 were reopened on
+    2026-11-11 with their line, as QUESTION-044 had been on
+    2026-10-29; this account now gives their statuses as Proposed
+    and Open. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the feeling-and-access part of the organizational-affect line left out
@@ -30,7 +38,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CLAIM-355 CLAIM-439 — Proposed; components of this part, with their standing -->
 <!-- inactive-ok-file: CLAIM-440 THEORY-045 THEORY-090 THEORY-093 THEORY-095 THEORY-101 THEORY-662 — Proposed; the premise of a component and the readings the components cite -->
-<!-- inactive-ok-file: CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; components of this part, set aside with the line on 2026-10-04 and not moved since -->
+<!-- inactive-ok-file: CLAIM-003 — Proposed; a component of this part, reopened with its line on 2026-11-11 -->
 <!-- inactive-ok-file: ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
 # SYNTHESIS-022: Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open
@@ -75,7 +83,7 @@ records a suggested extension, "not yet the claim", to process-relative
 evaluations prevailing or not; its note of 2026-10-31 says Massumi's
 "felt" is this claim's unfelt.
 
-**Must functional affect be felt?** [QUESTION-059](../questions.d/QUESTION-059.md) (Deferred) asks
+**Must functional affect be felt?** [QUESTION-059](../questions.d/QUESTION-059.md) (Open since 2026-11-11) asks
 whether a state that meets a functional characterization of affect
 thereby has to be felt, or whether feeling needs a further mechanism an
 organization lacks. It lists the identity side ([THEORY-101](../theory.d/THEORY-101.md)) and the
@@ -96,7 +104,7 @@ interpretive, Deferred): a workspace need not give every subsystem the
 same access, in brains as in organizations, so "global" overstates it.
 [CASE-033](../cases.d/CASE-033.md) (the owner's U26; a fictional thought experiment, Active),
 driving home while daydreaming, illustrates it and "cannot by itself
-establish two simultaneous conscious workspaces". [QUESTION-061](../questions.d/QUESTION-061.md) (Deferred)
+establish two simultaneous conscious workspaces". [QUESTION-061](../questions.d/QUESTION-061.md) (Open since 2026-11-11)
 asks the brain half. The notes of 2026-10-18 on [CLAIM-003](../claims.d/CLAIM-003.md) and
 [QUESTION-061](../questions.d/QUESTION-061.md) record A27's third quantity, self-attribution, beside
 integration and access, and [QUESTION-061](../questions.d/QUESTION-061.md)'s note: "[CLAIM-355](../claims.d/CLAIM-355.md) places the
@@ -110,10 +118,10 @@ unified owner in that third quantity."
   Proposed; second line evidence-for-experience.
 - [QUESTION-442](../questions.d/QUESTION-442.md), the assistant's, a by-product of the synthesis review of
   2026-11-07; Open; primary line evidence-for-experience.
-- [QUESTION-059](../questions.d/QUESTION-059.md), Deferred; filed in the fourth synthesis pass.
-- [CLAIM-003](../claims.d/CLAIM-003.md), the owner's (U26); thesis, interpretive, Deferred.
+- [QUESTION-059](../questions.d/QUESTION-059.md), Open (Deferred until 2026-11-11); filed in the fourth synthesis pass.
+- [CLAIM-003](../claims.d/CLAIM-003.md), the owner's (U26); thesis, interpretive, Proposed (Deferred until 2026-11-11).
 - [CASE-033](../cases.d/CASE-033.md), the owner's (U26); fictional, Active.
-- [QUESTION-061](../questions.d/QUESTION-061.md), Deferred; filed in the fourth synthesis pass.
+- [QUESTION-061](../questions.d/QUESTION-061.md), Open (Deferred until 2026-11-11); filed in the fourth synthesis pass.
 
 ## Links tested as claims
 
@@ -151,5 +159,5 @@ Three candidates within the part were tried.
   and its test is [QUESTION-266](../questions.d/QUESTION-266.md) ([SYNTHESIS-020](SYNTHESIS-020.md)).
 - That experience is unreal: [CLAIM-355](../claims.d/CLAIM-355.md) refuses that inference.
 - That feeling in the phenomenal sense is settled either way:
-  [QUESTION-059](../questions.d/QUESTION-059.md) is Deferred and [CLAIM-439](../claims.d/CLAIM-439.md) declines that sense.
+  [QUESTION-059](../questions.d/QUESTION-059.md) is open and [CLAIM-439](../claims.d/CLAIM-439.md) declines that sense.
 - Anything with standing of its own.

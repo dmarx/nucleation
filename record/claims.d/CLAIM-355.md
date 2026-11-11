@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-22'
@@ -55,6 +55,18 @@ history:
     2024 (LIT-1946, LIT-1943): the epistemic agent model and
     the contraction principle, a finer statement of the owner as a
     content; no evidence added. The claim is unchanged.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    CLAIM-039 was still called Deferred in the summary, the body and a
+    directive, though it has been Proposed since the owner reopened
+    its line on 2026-10-23. The body gave that deferral as the only
+    reason no edge was written to it ("It would rest on CLAIM-039 ...
+    which A27 cited as a ground"), so rests_on CLAIM-039 is added and
+    the summary, "Where it sits in the record" and the directive say
+    so. QUESTION-059, cited in "The objections" as Deferred with its
+    line, is Open from 2026-11-11 and the sentence now says so. The
+    claim is unchanged. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -106,15 +118,17 @@ summary: >-
   not the organized agent"; A27 located it: "The illusion might concern
   the owner, not the binding", and an illusion requires "which system
   constructs or adopts the misleading representation". The two are filed
-  as one claim. It rests on no claim: the organizational-affect claim it
-  would rest on, [CLAIM-039](CLAIM-039.md), is Deferred, and whether that line reopens is
-  the owner's decision, not made here. The sharp edge: it says nothing
+  as one claim. It rests on [CLAIM-039](CLAIM-039.md), the organizational-affect claim
+  A27 cited as a ground, Proposed since the owner reopened that line on
+  2026-10-23. The sharp edge: it says nothing
   about whether the integrated state is felt.
 bears_on:
 - QUESTION-053
+rests_on:
+- CLAIM-039
 ---
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-039 CLAIM-003 — Proposed; the organizational-affect line, reopened by the owner on 2026-10-23: the claim this one rests on, and a claim cited for a note -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
 <!-- inactive-ok-file: LIT-1835 — Unfetched since 2026-10-29; Revonsuo and Newman 1999, cited in the note of that date as not read, nothing here rests on it -->
 
@@ -196,10 +210,11 @@ that term.
 
 ## Where it sits in the record
 
-- It would rest on [CLAIM-039](CLAIM-039.md), affective states as properties of
-  organized systems, which A27 cited as a ground. [CLAIM-039](CLAIM-039.md) is Deferred with
-  its line, so no edge is written. The owner reopened the line at U27–U28;
-  whether it returns is the owner's decision.
+- It rests on [CLAIM-039](CLAIM-039.md), affective states as properties of organized
+  systems, which A27 cited as a ground. No edge was written while
+  [CLAIM-039](CLAIM-039.md) was Deferred with its line. The owner reopened the line on
+  2026-10-23, [CLAIM-039](CLAIM-039.md) is Proposed, and the edge was written on
+  2026-11-11.
 - [CLAIM-165](CLAIM-165.md) and [CLAIM-155](CLAIM-155.md) already hold that organization and
   willed agency do not make a subject. A26's "Organizational individuality
   does not logically entail phenomenal subjecthood" is theirs. This claim
@@ -240,7 +255,7 @@ that term.
   That does not restore a further owner. On Veit's identity the feeler is
   the organization. But it empties the claim for that case: nothing would
   be illusory except a metaphysical gloss. Which side is right is
-  [QUESTION-059](../questions.d/QUESTION-059.md), Deferred with its line. [CLAIM-039](CLAIM-039.md)'s note of
+  [QUESTION-059](../questions.d/QUESTION-059.md), Open since 2026-11-11 with its reopened line. [CLAIM-039](CLAIM-039.md)'s note of
   2026-10-12 already names [THEORY-101](../theory.d/THEORY-101.md) as the objection to answer first.
 
 ## What it does not say

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmphkso5
 title: 'A proposed study: two communities that agree in their present use of a category are shown evidence that it conflates two phenomena, and one revises the distinction while the other reinterprets the evidence as irrelevant, with their understanding of the evidence and their incentives controlled, to tell agreement in a concept from similarity in the organization that maintains and revises it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -14,6 +14,17 @@ history:
     intervention on revision authority alone decides whether it reaches
     the classification, so that an epistemic disposition is separated
     from revision authority. The study is otherwise unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    line gains pragmatic-transport after learned-structure, at the
+    review of line fields the curation entry of 2026-11-10 asked for.
+    Two entries first on pragmatic-transport use the case:
+    QUESTION-439 takes its third arm (A55 §4's CASE E) as the
+    will-governance reading of a difference in revision, and CLAIM-620
+    names it as the two-community study for its reciprocal arrows.
+    learned-structure stays first: the case bears on QUESTION-360 and
+    tests TERM-098's split. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -22,6 +33,7 @@ tags:
 date: '2026-11-07'
 line:
 - learned-structure
+- pragmatic-transport
 summary: >-
   A's design, A50 §7 of the exchange "Individuation, Possibility, and
   Disposition" (2026-11-06 to 07), answering the owner's U23 ("flesh this

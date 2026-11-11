@@ -64,7 +64,6 @@ summary: >-
 bears_on:
 - QUESTION-061
 ---
-<!-- inactive-ok-file: QUESTION-061 — Deferred; the question this result bears on, on a set-aside line -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the workspace account whose broadcast and ignition clauses it tests -->
 
 # THEORY-245: In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and a face's orientation at most weakly, while posterior cortex carried category, face orientation and the identity of objects, letters and false fonts, though not of faces; no prefrontal site showed the preregistered onset-and-offset response, and one, found in an exploratory analysis, responded at offset earlier than predicted

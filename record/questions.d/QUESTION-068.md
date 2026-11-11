@@ -4,7 +4,19 @@ status: Deferred
 formerly:
 - QUESTION-tmpvu7vk
 title: 'Would settling whose a will-organization is settle the agent''s accountability for what it does, or does accountability need conditions, such as normative competence and avoidability, that ownership does not supply?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    refines gains QUESTION-011, a relation the curation entry of
+    2026-11-10 found missing. The summary says "It bears on
+    QUESTION-011", and the body: "QUESTION-011 asks what makes a
+    will-organization the agent's own. This question asks what an
+    answer to it would buy", with "an argument that ownership already
+    contains the competence and control conditions" among what would
+    answer it. That makes it a part of the ownership question. Both
+    are on the authenticity line, so no line changes. No other change.
 tags:
 - free-will
 - ethics
@@ -16,6 +28,8 @@ summary: >-
   for a place in the argument. It bears on [QUESTION-011](QUESTION-011.md), [CLAIM-022](../claims.d/CLAIM-022.md) and
   [CLAIM-016](../claims.d/CLAIM-016.md). [THEORY-118](../theory.d/THEORY-118.md), [THEORY-119](../theory.d/THEORY-119.md), [THEORY-122](../theory.d/THEORY-122.md) and [THEORY-147](../theory.d/THEORY-147.md) answer it
   in part; the body gives each one's limit. Deferred with its line.
+refines:
+- QUESTION-011
 ---
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the ownership claim on the set-aside authenticity line -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; the ownership question on the set-aside authenticity line -->

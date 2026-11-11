@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmppk4ya
 title: 'The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,20 @@ history:
     the training-set size that learns the task, and THEORY-200 adds
     displacement. Every ground is Active, no objection is on file, and
     nothing held meets the defeat condition. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-039 (a defect listed in the curation entry of
+    2026-11-10). Its own text, under B: "with a deadline the deep
+    network has the strong modes sooner and the weak ones later. From
+    small initial strength the plateau lengthens with depth", from
+    THEORY-740 and THEORY-187, the second of which QUESTION-039 holds as
+    a partial answer: evidence on what sets the moment of acquisition.
+    Under ADR-085 the relation gives this claim QUESTION-039's first
+    line, learned-structure, which it already carries. QUESTION-165 and
+    QUESTION-166 test this claim's assignments rather than being borne
+    on by it, and QUESTION-081 and QUESTION-217 are not addressed by its
+    text; they take no relation. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +68,8 @@ summary: >-
   separation at fixed neuron count. The sharp edge: which effect a result
   shows depends on the budget, and A38 warned against "depth produces
   individuation while width merely provides redundant capacity".
+bears_on:
+- QUESTION-039
 ---
 
 <!-- inactive-ok-file: THEORY-186 THEORY-200 THEORY-212 — Proposed; readings cited with their stated limits, and an open claim -->
