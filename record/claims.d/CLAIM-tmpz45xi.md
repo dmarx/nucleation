@@ -33,13 +33,13 @@ bears_on:
 - QUESTION-048
 summary: >-
   The evidence-for-experience line's standing point, held so far only in
-  QUESTION-048's own text ("Every kind of evidence the record holds about
+  [QUESTION-048](../questions.d/QUESTION-048.md)'s own text ("Every kind of evidence the record holds about
   experience reaches it through access") and cited from there by
-  CLAIM-460 and CASE-107 as the line's standing point. The readings that bear
-  on the question each give one kind's limit: deficits (THEORY-091),
-  report and no-report (THEORY-094, THEORY-296), comparative report
-  (THEORY-100), architecture (THEORY-023, THEORY-298) and retrospective
-  report (THEORY-1295). This states what they come to together. It does not
+  [CLAIM-460](CLAIM-460.md) and [CASE-107](../cases.d/CASE-107.md) as the line's standing point. The readings that bear
+  on the question each give one kind's limit: deficits ([THEORY-091](../theory.d/THEORY-091.md)),
+  report and no-report ([THEORY-094](../theory.d/THEORY-094.md), [THEORY-296](../theory.d/THEORY-296.md)), comparative report
+  ([THEORY-100](../theory.d/THEORY-100.md)), architecture ([THEORY-023](../theory.d/THEORY-023.md), [THEORY-298](../theory.d/THEORY-298.md)) and retrospective
+  report ([THEORY-1295](../theory.d/THEORY-1295.md)). This states what they come to together. It does not
   answer the question, which asks what each kind can establish, and
   whose answer is a case where the two come apart. Drafted by the reading
   review of 2026-11-11, by question. The wording is the assistant's
@@ -53,28 +53,28 @@ summary: >-
 
 ## The claim
 
-QUESTION-048 asks what four kinds of evidence can each establish about
+[QUESTION-048](../questions.d/QUESTION-048.md) asks what four kinds of evidence can each establish about
 experience as opposed to access. The readings that bear on it give each
 kind a limit, and the limits share one form.
 
 - **Deficits.** When consciousness and a capacity are lost together, this
   does not show the capacity is experience's, because "access is lost
-  too" (THEORY-091). The usual marker of returning consciousness,
-  response to command, is a marker of access (CASE-107).
+  too" ([THEORY-091](../theory.d/THEORY-091.md)). The usual marker of returning consciousness,
+  response to command, is a marker of access ([CASE-107](../cases.d/CASE-107.md)).
 - **Report and no-report.** Neither isolates experience, because
   "post-perceptual cognition that tracks the percept persists without
-  report" (THEORY-094). The adversarial no-report test the record holds
-  reached only implementations of the theories it tested (THEORY-296),
+  report" ([THEORY-094](../theory.d/THEORY-094.md)). The adversarial no-report test the record holds
+  reached only implementations of the theories it tested ([THEORY-296](../theory.d/THEORY-296.md)),
   and percept and stimulus never came apart in it.
 - **Retrospective report.** A remembered report of a selfless state is,
   by its own author's account, "highly dubious" evidence that the state
-  was selfless when it occurred (THEORY-1295).
+  was selfless when it occurred ([THEORY-1295](../theory.d/THEORY-1295.md)).
 - **Architecture.** Report-based evidence cannot test whether posterior
   cortex suffices for experience, since report needs anterior activity,
   and no marker that bypasses report has a validation resting neither on
-  introspection nor on a contested theory (THEORY-298). Architectural
+  introspection nor on a contested theory ([THEORY-298](../theory.d/THEORY-298.md)). Architectural
   indicators "presuppose the disputed computational functionalism"
-  (THEORY-023).
+  ([THEORY-023](../theory.d/THEORY-023.md)).
 
 In each, what reaches the record is a report, a capacity, or a structure a
 theory picks out, and each of those is a fact about access unless a case
@@ -85,10 +85,10 @@ holds none.
 
 **Systems without cortex or biology.** A correlate of report needs no
 laminar cortex: in crows it is carried by a nuclear pallial region
-(THEORY-100). So report evidence can be had without cortex, but it brings
+([THEORY-100](../theory.d/THEORY-100.md)). So report evidence can be had without cortex, but it brings
 its limit with it. Architectural evidence applied to a machine adds the
 dispute over functionalism, and behavioural evidence from a system
-trained on human output adds mimicry (THEORY-023).
+trained on human output adds mimicry ([THEORY-023](../theory.d/THEORY-023.md)).
 
 ## What it does not say
 
@@ -96,16 +96,16 @@ trained on human output adds mimicry (THEORY-023).
   The claim is about the evidence the record holds.
 - Not that no evidence could separate them. The defeater names the kinds
   that would.
-- Not that the limits are equal. THEORY-298 says the methods are lacking
+- Not that the limits are equal. [THEORY-298](../theory.d/THEORY-298.md) says the methods are lacking
   "at present", and a no-report design that removes differential
   post-perceptual cognition is a design the record can describe
-  (THEORY-094), not one it holds a result from.
-- Not a verdict on the claims that need the answer, CLAIM-039 and
-  CLAIM-003. It says only that the evidence the record holds cannot yet
+  ([THEORY-094](../theory.d/THEORY-094.md)), not one it holds a result from.
+- Not a verdict on the claims that need the answer, [CLAIM-039](CLAIM-039.md) and
+  [CLAIM-003](CLAIM-003.md). It says only that the evidence the record holds cannot yet
   test them.
 
 ## Why it is Proposed
 
-Most of its grounds are Proposed readings (THEORY-091, THEORY-094,
-THEORY-100, THEORY-023, THEORY-298). The claim is the record's
+Most of its grounds are Proposed readings ([THEORY-091](../theory.d/THEORY-091.md), [THEORY-094](../theory.d/THEORY-094.md),
+[THEORY-100](../theory.d/THEORY-100.md), [THEORY-023](../theory.d/THEORY-023.md), [THEORY-298](../theory.d/THEORY-298.md)). The claim is the record's
 synthesis of their limits, and adopting it is the owner's call.

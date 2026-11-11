@@ -29,10 +29,10 @@ grounds:
 answers:
 - QUESTION-103
 summary: >-
-  An offered part-answer to QUESTION-103, on its second limb: whether
+  An offered part-answer to [QUESTION-103](../questions.d/QUESTION-103.md), on its second limb: whether
   ideal-observer efficiency is the empirical measure of computational
   indistinguishability. The question's note of 2026-10-15 found the
-  bridge narrower than first stated, and THEORY-336 says so in its own
+  bridge narrower than first stated, and [THEORY-336](../theory.d/THEORY-336.md) says so in its own
   connections ("efficiency, so defined, measures the first gap"), but no
   entry of the argument states it. The first limb, whether
   indistinguishability is the bounded-observer form of signal detection's
@@ -45,7 +45,7 @@ summary: >-
 
 ## The claim
 
-QUESTION-103 asks two things: whether computational indistinguishability
+[QUESTION-103](../questions.d/QUESTION-103.md) asks two things: whether computational indistinguishability
 is the bounded-observer form of signal detection's chance ROC, and whether
 ideal-observer efficiency is its empirical measure. This answers the
 second, no.
@@ -54,29 +54,29 @@ second, no.
 available information and any specified constraints", and its constraints
 are added by passing the stimulus through a stage of the visual system,
 Z = g(S; θ). So a constrained ideal is the optimal decoder of a degraded
-input, not a restricted decoder of the full one (THEORY-336). Efficiency
+input, not a restricted decoder of the full one ([THEORY-336](../theory.d/THEORY-336.md)). Efficiency
 compares a real observer with such an ideal. What it measures is how much
 of the information available at a stage the observer uses.
 
 **What indistinguishability restricts.** Computational indistinguishability
 keeps the input whole and restricts the tests: no test in a bounded class
 tells two ensembles apart, though their total variation is near 1
-(THEORY-357). The best test in the class can sit near the chance diagonal
+([THEORY-357](../theory.d/THEORY-357.md)). The best test in the class can sit near the chance diagonal
 while the likelihood-ratio detector on the same input sits near perfect
-(THEORY-031). Outcome indistinguishability does the same for predictors:
+([THEORY-031](../theory.d/THEORY-031.md)). Outcome indistinguishability does the same for predictors:
 adequacy is relative to a class of distinguishers, whatever nature's
-complexity (THEORY-349).
+complexity ([THEORY-349](../theory.d/THEORY-349.md)).
 
 **Different receivers.** The first is a loss of information before
 decoding, the second a restriction on decoding with the information
-intact. CLAIM-199 separates the same two receivers, Blackwell's ceiling
+intact. [CLAIM-199](CLAIM-199.md) separates the same two receivers, Blackwell's ceiling
 and a rule class. An efficiency below one says the observer is not the
 ideal for the input it was compared on. It does not say which class of
 computations the observer is confined to, and a gap of the second kind
 can be total with no information lost.
 
 **What survives of the bridge.** A test's advantage is hit rate minus
-false-alarm rate, a point on its ROC (THEORY-357's connections), so the
+false-alarm rate, a point on its ROC ([THEORY-357](../theory.d/THEORY-357.md)'s connections), so the
 ROC reading of indistinguishability holds as a matter of definition. Its
 counterpart of a criterion shift, and a measure of the restricted-class
 gap that can be taken on people or models, are not in the record.
@@ -84,11 +84,11 @@ gap that can be taken on people or models, are not in the record.
 ## What it does not say
 
 - Not that efficiency is useless to the bounded-observer questions
-  (QUESTION-104, QUESTION-111). It bounds what an observer can do from
+  ([QUESTION-104](../questions.d/QUESTION-104.md), [QUESTION-111](../questions.d/QUESTION-111.md)). It bounds what an observer can do from
   above, by the information it has.
 - Not that a real observer's shortfall is never computational. A
   stage-by-stage analysis may place a loss in "central factors"
-  (THEORY-336), which may be a restriction on computation. Efficiency
+  ([THEORY-336](../theory.d/THEORY-336.md)), which may be a restriction on computation. Efficiency
   does not say which class it is.
 - Not an answer to the first limb, or to whether efficiency is well
   defined for a class of observers.
