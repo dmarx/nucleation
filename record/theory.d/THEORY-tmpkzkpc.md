@@ -17,9 +17,9 @@ source:
 bears_on:
 - QUESTION-tmpmus93
 summary: >-
-  Thompson's Turing lecture (NOTE-tmpy1111). A mechanism installed once in
+  Thompson's Turing lecture ([NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)). A mechanism installed once in
   a binary is reproduced by the host's own compiling and lives in no
-  source. It bears on QUESTION-tmpmus93: an installed mechanism the host
+  source. It bears on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md): an installed mechanism the host
   reproduces, whose author the lecture holds responsible ("trust the
   people who wrote the software").
 ---
@@ -38,12 +38,12 @@ scrutiny will protect you from using untrusted code."
 
 ## Evidence
 
-The lecture itself (NOTE-tmpy1111): the construction described as built,
+The lecture itself ([NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)): the construction described as built,
 with figures of its structure. It credits the idea to an uncited Air Force
 critique of Multics.
 
 ## What it bears on
 
-QUESTION-tmpmus93: the mechanism is formed by one party and reproduced by
+[QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md): the mechanism is formed by one party and reproduced by
 the host's process; the lecture places responsibility with "the people who
 wrote the software".

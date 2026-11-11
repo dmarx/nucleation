@@ -105,8 +105,8 @@ whose the breach is, not whether there is one.
 ## Note of 2026-11-11: Thompson, and Stute, read
 
 At the owner's request: Thompson's "Reflections on Trusting Trust"
-(THEORY-tmpkzkpc, NOTE-tmpy1111) and Stute's story of the attack met in
-practice (THEORY-tmpn3ohs, NOTE-tmp0akth), held as CASE-tmp4xp5m.
+([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md), [NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)) and Stute's story of the attack met in
+practice ([THEORY-tmpn3ohs](../theory.d/THEORY-tmpn3ohs.md), [NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)), held as [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md).
 
 The case has the question's shape: a mechanism formed by someone who had
 left, reproduced on every compile by the host's own routine, and hidden

@@ -16,8 +16,8 @@ source:
 bears_on:
 - QUESTION-tmpmus93
 summary: >-
-  An anecdote of Thompson's attack (THEORY-tmpkzkpc) met in practice,
-  held as CASE-tmp4xp5m (NOTE-tmp0akth). It bears on QUESTION-tmpmus93:
+  An anecdote of Thompson's attack ([THEORY-tmpkzkpc](THEORY-tmpkzkpc.md)) met in practice,
+  held as [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md) ([NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)). It bears on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md):
   a mechanism installed by someone gone, reproduced by the host's own
   routine and hidden from it, which no one counts as the host's doing.
 ---
@@ -36,8 +36,8 @@ compiler" from another machine was installed.
 
 ## Evidence
 
-The answer itself (NOTE-tmp0akth), told as first-hand and unverifiable.
+The answer itself ([NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)), told as first-hand and unverifiable.
 
 ## What it bears on
 
-QUESTION-tmpmus93, through CASE-tmp4xp5m.
+[QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md), through [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md).

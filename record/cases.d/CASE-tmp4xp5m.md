@@ -16,8 +16,8 @@ reported_in:
 illustrates:
 - CLAIM-522
 summary: >-
-  Stute's story (THEORY-tmpn3ohs), the incident form of Thompson's attack
-  (THEORY-tmpkzkpc), filed at the owner's request for QUESTION-tmpmus93.
+  Stute's story ([THEORY-tmpn3ohs](../theory.d/THEORY-tmpn3ohs.md)), the incident form of Thompson's attack
+  ([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md)), filed at the owner's request for [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
   Stipulated: told as true, with nothing a reader can check. A mechanism
   formed by one party, reproduced by the host's own routine (compiling),
   hidden from the host, and removed only by replacing the binary that
@@ -50,11 +50,11 @@ machine of the same revision. The compiler also backdoored login.
   mechanism was the installed component's own code running inside that
   process, and it hid itself from the lab. No one in the story counts the
   payload as the lab's doing.
-- **Repair of state does not reach it** (CLAIM-522). Restoring clean
+- **Repair of state does not reach it** ([CLAIM-522](../claims.d/CLAIM-522.md)). Restoring clean
   source, at every level the lab could see, left it in place; only
   replacing the producing binary removed it.
 
-## Bearing on QUESTION-tmpmus93
+## Bearing on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md)
 
 The question asks whether an installed origin matters to whether an
 organization's counter-normativity is its own, or whether only whose
@@ -68,5 +68,5 @@ mechanism it can see. The reading is the assistant's.
 ## Standing
 
 Stipulated. The story names no institution, date or record, and follows
-Thompson's published construction (THEORY-tmpkzkpc) closely; it is used
+Thompson's published construction ([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md)) closely; it is used
 for what it makes clear, not as evidence that the incident occurred.

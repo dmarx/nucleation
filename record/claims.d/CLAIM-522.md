@@ -153,10 +153,10 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 
 ## Note of 2026-11-11: a compiler Trojan horse
 
-Thompson's construction (THEORY-tmpkzkpc) and Stute's story of it
-(CASE-tmp4xp5m) are this claim's shape in software. Every intervention on
+Thompson's construction ([THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md)) and Stute's story of it
+([CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md)) are this claim's shape in software. Every intervention on
 what the host could see, the program's source, the libraries and the
 compiler's own source, left the mechanism in place, because the binary
 that produces each of them restored it; only replacing that binary, the
-production mechanism, removed it. CASE-tmp4xp5m illustrates the claim; it
+production mechanism, removed it. [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md) illustrates the claim; it
 bears none of its weight, which rests on the controller construction.

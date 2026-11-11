@@ -15,7 +15,7 @@ summary: >-
   Thompson's three stages: a self-reproducing program, a compiler that
   "learns" an escape sequence and keeps it in binary only, and a compiler
   Trojan horse that miscompiles login and reinserts itself when the
-  compiler is rebuilt from clean source. Read for QUESTION-tmpmus93.
+  compiler is rebuilt from clean source. Read for [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
 ---
 
 # NOTE-tmpy1111: Thompson — Reflections on trusting trust
@@ -58,15 +58,15 @@ binary ("learning"); a Trojan horse as a deliberate miscompilation.
 
 ## Bearing on the record
 
-- **QUESTION-tmpmus93.** The mechanism is installed once by one party and
+- **[QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).** The mechanism is installed once by one party and
   then reproduced by the host's own process (each compile) with no trace
   in the source the host maintains. The lecture's answer to "whose is it"
   is the installer's: "Perhaps it is more important to trust the people who
   wrote the software." It does not ask whether the host, by running the
   process, comes to own what it reproduces.
-- **CLAIM-522.** An intervention on the visible state (restoring clean
+- **[CLAIM-522](../claims.d/CLAIM-522.md).** An intervention on the visible state (restoring clean
   source) leaves the mechanism in place; only replacing the producing
-  binary removes it. That is the shape of CLAIM-522's point, in software.
+  binary removes it. That is the shape of [CLAIM-522](../claims.d/CLAIM-522.md)'s point, in software.
 
 ## Limitations
 

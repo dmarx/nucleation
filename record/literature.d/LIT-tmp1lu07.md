@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-11 (NOTE-tmp0akth), from the text the owner pasted from Quora; the Forbes and Quora pages refused the fetch (HTTP 403).'
+status_note: 'read in full 2026-11-11 ([NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md)), from the text the owner pasted from Quora; the Forbes and Quora pages refused the fetch (HTTP 403).'
 title: 'What is a coder''s worst nightmare? (answer by Mick Stute) [descriptive title]'
 version: 1
 history:
@@ -31,8 +31,8 @@ summary: >-
   compiler restores the program's mangled source on every compile, and
   restores itself when the compiler is rebuilt from clean source, until a
   binary compiler from another machine replaces it. It is Thompson's
-  attack (LIT-tmpng40s) as an incident. The record holds it as
-  CASE-tmp4xp5m, for QUESTION-tmpmus93.
+  attack ([LIT-tmpng40s](LIT-tmpng40s.md)) as an incident. The record holds it as
+  [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md), for [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpn3ohs — Proposed; the readings filed with this entry, cited with their standing -->
 
@@ -40,11 +40,11 @@ summary: >-
 
 Mick Stute, an answer on Quora to "What is a coder's worst nightmare?",
 republished by Forbes on 2014-12-05. Read in full from the owner's copy:
-NOTE-tmp0akth. The record's account of it: THEORY-tmpn3ohs.
+[NOTE-tmp0akth](../notes.d/NOTE-tmp0akth.md). The record's account of it: [THEORY-tmpn3ohs](../theory.d/THEORY-tmpn3ohs.md).
 
 ## Standing in the record
 
 An anecdote, not a report anyone can check: names are given as "Dr.
 Phelps" and "Mark", and no date, institution or record of the incident is
-given. CASE-tmp4xp5m holds it with standing `stipulated`. The mechanism it
-tells is documented in LIT-tmpng40s.
+given. [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md) holds it with standing `stipulated`. The mechanism it
+tells is documented in [LIT-tmpng40s](LIT-tmpng40s.md).

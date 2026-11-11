@@ -14,7 +14,7 @@ date: '2026-11-11'
 summary: >-
   A first-person incident story of Thompson's compiler attack, with a
   hateful payload, told as true and unverifiable. Read for
-  QUESTION-tmpmus93.
+  [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
 ---
 
 # NOTE-tmp0akth: Stute — a coder's worst nightmare (Quora answer)
@@ -48,13 +48,13 @@ the kernel, and a departed author who had root access once.
 
 ## Concepts
 
-The same as Thompson's (LIT-tmpng40s), met from the victim's side: each
+The same as Thompson's ([LIT-tmpng40s](../literature.d/LIT-tmpng40s.md)), met from the victim's side: each
 repair that acts on source (the program, the libraries, the compiler's
 source) is undone by the binary that does the compiling.
 
 ## Bearing on the record
 
-- **QUESTION-tmpmus93.** The mechanism was installed by someone who had
+- **[QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).** The mechanism was installed by someone who had
   left; it was reproduced by the lab's own routine activity, compiling,
   and it kept itself out of sight (encrypted strings, a hidden directory
   deleted after use). No one in the story counts the payload as the lab's
@@ -62,7 +62,7 @@ source) is undone by the binary that does the compiling.
   maintains it" runs together: a host's process that carries a mechanism,
   and an installed component that maintains itself by running inside the
   host's process. The reading is the assistant's.
-- **CLAIM-522.** Interventions on state (the source files, the libraries,
+- **[CLAIM-522](../claims.d/CLAIM-522.md).** Interventions on state (the source files, the libraries,
   the compiler's source) left the mechanism in place; only replacing the
   producing binary removed it.
 

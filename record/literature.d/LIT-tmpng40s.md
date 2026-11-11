@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-11 (NOTE-tmpy1111), from a course copy (University of Minnesota Duluth readings page).'
+status_note: 'read in full 2026-11-11 ([NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md)), from a course copy (University of Minnesota Duluth readings page).'
 title: 'Reflections on trusting trust'
 version: 1
 history:
@@ -33,16 +33,16 @@ summary: >-
   all. Its moral: "No amount of source-level verification or scrutiny
   will protect you from using untrusted code." The record holds it as the
   documented form of a mechanism installed by one party and reproduced by
-  the host's own process, bearing on QUESTION-tmpmus93.
+  the host's own process, bearing on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpkzkpc — Proposed; the readings filed with this entry, cited with their standing -->
 
 # LIT-tmpng40s: Reflections on trusting trust
 
 Ken Thompson, Communications of the ACM 27(8), 761-763 (1984). Read in
-full: NOTE-tmpy1111. The record's account of it: THEORY-tmpkzkpc.
+full: [NOTE-tmpy1111](../notes.d/NOTE-tmpy1111.md). The record's account of it: [THEORY-tmpkzkpc](../theory.d/THEORY-tmpkzkpc.md).
 
 ## Standing in the record
 
-The documented original of the compiler attack in LIT-tmp1lu07's story,
-and the mechanism CASE-tmp4xp5m holds. It bears on QUESTION-tmpmus93.
+The documented original of the compiler attack in [LIT-tmp1lu07](LIT-tmp1lu07.md)'s story,
+and the mechanism [CASE-tmp4xp5m](../cases.d/CASE-tmp4xp5m.md) holds. It bears on [QUESTION-tmpmus93](../questions.d/QUESTION-tmpmus93.md).
