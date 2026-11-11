@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    At the split of will-organization (ADR-tmpczmfi), this part's
+    At the split of will-organization (ADR-089), this part's
     entries became the line organizational-normativity, and this
     account became that line's account. Its line, defeater and
     introduction change to say so; its components and the links it
@@ -71,7 +71,7 @@ summary: >-
 
 # SYNTHESIS-038: A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
 
-*The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-tmpczmfi](../decisions.d/ADR-tmpczmfi.md)), where it was a part account. Its premises from will-organization, [CLAIM-523](../claims.d/CLAIM-523.md) and [CLAIM-445](../claims.d/CLAIM-445.md), are dependencies across lines.*
+*The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-089](../decisions.d/ADR-089.md)), where it was a part account. Its premises from will-organization, [CLAIM-523](../claims.d/CLAIM-523.md) and [CLAIM-445](../claims.d/CLAIM-445.md), are dependencies across lines.*
 
 ## The account
 

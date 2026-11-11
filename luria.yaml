@@ -548,13 +548,13 @@ vocabularies:
       will-organization:
         label: Will-organization
         blurb: what organizes practical efficacy in an agent, and how that organization becomes precarious.
-          Normative judgment about organizations is a line of its own (ADR-tmpczmfi)
+          Normative judgment about organizations is a line of its own (ADR-089)
       organizational-normativity:
         label: Normative judgment about organizations
         blurb: whether an organization's own dynamics ground norms of function and failure, and what judging
           an organization needs beyond them — fixed relata before a judgment is well-defined, viability that
           does not establish what ought to persist, histories a present state does not show, and a bounded
-          duty of answerability for the wrong beyond harm; split from will-organization (ADR-tmpczmfi)
+          duty of answerability for the wrong beyond harm; split from will-organization (ADR-089)
       organizational-affect:
         label: Organizational affect
         blurb: affective states as properties of organized systems, read through Frijda — the line the

@@ -37,7 +37,7 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-142](../../record/claims.d/CLAIM-142.md) ↔ [CLAIM-322](../../record/claims.d/CLAIM-322.md) | pragmatic-transport / formal-apparatus |
 | argument | `line` | [CLAIM-143](../../record/claims.d/CLAIM-143.md) ↔ [CLAIM-265](../../record/claims.d/CLAIM-265.md) | pragmatic-transport / formal-apparatus |
 | argument | `line` | [CLAIM-149](../../record/claims.d/CLAIM-149.md) ↔ [CLAIM-266](../../record/claims.d/CLAIM-266.md) | pragmatic-transport / formal-apparatus |
-| argument | `line` | [CLAIM-152](../../record/claims.d/CLAIM-152.md) ↔ [CLAIM-363](../../record/claims.d/CLAIM-363.md) | distributed-agency, formal-apparatus / will-organization |
+| argument | `line` | [CLAIM-152](../../record/claims.d/CLAIM-152.md) ↔ [CLAIM-363](../../record/claims.d/CLAIM-363.md) | distributed-agency, formal-apparatus / organizational-normativity |
 | argument | `line` | [CLAIM-187](../../record/claims.d/CLAIM-187.md) ↔ [CLAIM-263](../../record/claims.d/CLAIM-263.md) | pragmatic-transport / learned-structure |
 | argument | `line` | [CLAIM-187](../../record/claims.d/CLAIM-187.md) ↔ [CLAIM-264](../../record/claims.d/CLAIM-264.md) | pragmatic-transport / formal-apparatus |
 | argument | `line` | [CLAIM-189](../../record/claims.d/CLAIM-189.md) ↔ [CLAIM-270](../../record/claims.d/CLAIM-270.md) | nucleating-argument, records-of-inquiry / formal-apparatus |
@@ -65,9 +65,9 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-348](../../record/claims.d/CLAIM-348.md) ↔ [CLAIM-350](../../record/claims.d/CLAIM-350.md) | distributed-agency / formal-apparatus, pragmatic-transport |
 | argument | `line` | [CLAIM-349](../../record/claims.d/CLAIM-349.md) ↔ [CLAIM-403](../../record/claims.d/CLAIM-403.md) | will-organization / distributed-agency |
 | argument | `line` | [CLAIM-349](../../record/claims.d/CLAIM-349.md) ↔ [CLAIM-425](../../record/claims.d/CLAIM-425.md) | will-organization / distributed-agency |
-| argument | `line` | [CLAIM-350](../../record/claims.d/CLAIM-350.md) ↔ [CLAIM-518](../../record/claims.d/CLAIM-518.md) | formal-apparatus, pragmatic-transport / will-organization |
-| argument | `line` | [CLAIM-363](../../record/claims.d/CLAIM-363.md) ↔ [CLAIM-472](../../record/claims.d/CLAIM-472.md) | will-organization / record-as-apparatus |
-| argument | `line` | [CLAIM-402](../../record/claims.d/CLAIM-402.md) ↔ [CLAIM-619](../../record/claims.d/CLAIM-619.md) | pragmatic-transport / distributed-agency, will-organization |
+| argument | `line` | [CLAIM-350](../../record/claims.d/CLAIM-350.md) ↔ [CLAIM-518](../../record/claims.d/CLAIM-518.md) | formal-apparatus, pragmatic-transport / organizational-normativity |
+| argument | `line` | [CLAIM-363](../../record/claims.d/CLAIM-363.md) ↔ [CLAIM-472](../../record/claims.d/CLAIM-472.md) | organizational-normativity / record-as-apparatus |
+| argument | `line` | [CLAIM-402](../../record/claims.d/CLAIM-402.md) ↔ [CLAIM-619](../../record/claims.d/CLAIM-619.md) | pragmatic-transport / distributed-agency, organizational-normativity |
 | argument | `line` | [CLAIM-404](../../record/claims.d/CLAIM-404.md) ↔ [CLAIM-545](../../record/claims.d/CLAIM-545.md) | distributed-agency / will-organization |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-417](../../record/claims.d/CLAIM-417.md) | evidence-for-experience, formal-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-427](../../record/claims.d/CLAIM-427.md) | evidence-for-experience, formal-apparatus / distributed-agency |

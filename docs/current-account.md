@@ -24,13 +24,13 @@ every account appears here once.
 
 ## Will-organization
 
-what organizes practical efficacy in an agent, and how that organization becomes precarious
+what organizes practical efficacy in an agent, and how that organization becomes precarious. Normative judgment about organizations is a line of its own ([ADR-089](../record/decisions.d/ADR-089.md))
 
-### [SYNTHESIS-035](../record/syntheses.d/SYNTHESIS-035.md): The will-organization line is six accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent's regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, freedom of will and self-formation, and normative judgment about organizations; the line makes no claim beyond its parts, and two of them are mostly closed
+### [SYNTHESIS-035](../record/syntheses.d/SYNTHESIS-035.md): The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent's regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own
 
-*Proposed · version 1*
+*Proposed · version 2*
 
-The account of the will-organization line, over the accounts of its six parts: which regime becomes effective ([SYNTHESIS-036](../record/syntheses.d/SYNTHESIS-036.md)), acting as one ([SYNTHESIS-037](../record/syntheses.d/SYNTHESIS-037.md)), frustration and thresholds ([SYNTHESIS-044](../record/syntheses.d/SYNTHESIS-044.md)), maintaining the capacity to govern ([SYNTHESIS-039](../record/syntheses.d/SYNTHESIS-039.md)), freedom of will and self-formation ([SYNTHESIS-041](../record/syntheses.d/SYNTHESIS-041.md)), and normative judgment about organizations ([SYNTHESIS-038](../record/syntheses.d/SYNTHESIS-038.md)). They meet at [CLAIM-027](../record/claims.d/CLAIM-027.md) and [CLAIM-025](../record/claims.d/CLAIM-025.md), on which claims of four parts rest, and at [CLAIM-354](../record/claims.d/CLAIM-354.md), [CLAIM-523](../record/claims.d/CLAIM-523.md) and [CLAIM-445](../record/claims.d/CLAIM-445.md). No link between the parts that the record does not state passed [ADR-075](../record/decisions.d/ADR-075.md)'s test, so the account adds nothing of its own; its standing is its components'. [SYNTHESIS-037](../record/syntheses.d/SYNTHESIS-037.md) and [SYNTHESIS-038](../record/syntheses.d/SYNTHESIS-038.md) are mostly closed, which makes the line a candidate to split.
+The account of the will-organization line, over the accounts of its five parts: which regime becomes effective ([SYNTHESIS-036](../record/syntheses.d/SYNTHESIS-036.md)), acting as one ([SYNTHESIS-037](../record/syntheses.d/SYNTHESIS-037.md)), frustration and thresholds ([SYNTHESIS-044](../record/syntheses.d/SYNTHESIS-044.md)), maintaining the capacity to govern ([SYNTHESIS-039](../record/syntheses.d/SYNTHESIS-039.md)), and freedom of will and self-formation ([SYNTHESIS-041](../record/syntheses.d/SYNTHESIS-041.md)). They meet at [CLAIM-027](../record/claims.d/CLAIM-027.md) and [CLAIM-025](../record/claims.d/CLAIM-025.md), on which claims of four parts rest, and at [CLAIM-354](../record/claims.d/CLAIM-354.md), [CLAIM-523](../record/claims.d/CLAIM-523.md) and [CLAIM-445](../record/claims.d/CLAIM-445.md). No link between the parts that the record does not state passed [ADR-075](../record/decisions.d/ADR-075.md)'s test, so the account adds nothing of its own; its standing is its components'. Normative judgment about organizations, version 1's sixth part, is the line organizational-normativity ([ADR-089](../record/decisions.d/ADR-089.md)), with its own account ([SYNTHESIS-038](../record/syntheses.d/SYNTHESIS-038.md)).
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -49,7 +49,7 @@ The account of the will-organization line, over the accounts of its six parts: w
 
 #### [SYNTHESIS-036](../record/syntheses.d/SYNTHESIS-036.md): Which of an agent's available regimes becomes effective is decided by maintained relations of efficacy that are not further preferences and are indexed to an agent rather than to any regulator; precedence, jurisdiction and suspension among them vary separately; and whether describing them as one organization explains anything that the fields studying each realizer do not is open
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 A part account of the will-organization line: the will paper's central thesis and what the record holds about it. Which regime becomes effective depends on maintained relations that are not the competing regimes' contents ([CLAIM-027](../record/claims.d/CLAIM-027.md), Active), resting on possession not being efficacy ([CLAIM-047](../record/claims.d/CLAIM-047.md)) and on a supposed agent ([CLAIM-080](../record/claims.d/CLAIM-080.md)). Its objections are answered or held: the permissiveness objection by agent-indexing, the redescription objection by [CLAIM-122](../record/claims.d/CLAIM-122.md) and [CLAIM-482](../record/claims.d/CLAIM-482.md), and the novelty objection ([CLAIM-024](../record/claims.d/CLAIM-024.md)) against the gain claim [CLAIM-487](../record/claims.d/CLAIM-487.md), which stays Proposed. The account adds nothing of its own; its standing is its components'.
 
@@ -282,11 +282,15 @@ A part account of the will-organization line: freedom of will and whose the will
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the part of the will-organization line on freedom of will, self-formation and ownership left out; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it.
 
-#### [SYNTHESIS-038](../record/syntheses.d/SYNTHESIS-038.md): A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
+## Normative judgment about organizations
 
-*Proposed · version 1*
+whether an organization's own dynamics ground norms of function and failure, and what judging an organization needs beyond them — fixed relata before a judgment is well-defined, viability that does not establish what ought to persist, histories a present state does not show, and a bounded duty of answerability for the wrong beyond harm; split from will-organization ([ADR-089](../record/decisions.d/ADR-089.md))
 
-A part account of the will-organization line: what the record holds about normative judgment of organizations. The paper disclaims that viability establishes what ought to persist ([CLAIM-075](../record/claims.d/CLAIM-075.md)). The owner's [CLAIM-363](../record/claims.d/CLAIM-363.md) holds that a normative judgment needs fixed relata and can then be false, and [CLAIM-518](../record/claims.d/CLAIM-518.md), narrowed under [CLAIM-512](../record/claims.d/CLAIM-512.md)'s objection, that some judgments need histories. The owner's [CLAIM-614](../record/claims.d/CLAIM-614.md) presupposes a wrong beyond harm in an organization that reproduces what hides its harm; A's [CLAIM-624](../record/claims.d/CLAIM-624.md) (Proposed, admitted) makes it a bounded duty of answerability, and [CLAIM-619](../record/claims.d/CLAIM-619.md) a counter-corrective disposition. The account adds nothing of its own; its standing is its components'.
+### [SYNTHESIS-038](../record/syntheses.d/SYNTHESIS-038.md): A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
+
+*Proposed · version 2*
+
+The account of the organizational-normativity line: what the record holds about normative judgment of organizations. The paper disclaims that viability establishes what ought to persist ([CLAIM-075](../record/claims.d/CLAIM-075.md)). The owner's [CLAIM-363](../record/claims.d/CLAIM-363.md) holds that a normative judgment needs fixed relata and can then be false, and [CLAIM-518](../record/claims.d/CLAIM-518.md), narrowed under [CLAIM-512](../record/claims.d/CLAIM-512.md)'s objection, that some judgments need histories. The owner's [CLAIM-614](../record/claims.d/CLAIM-614.md) presupposes a wrong beyond harm in an organization that reproduces what hides its harm; A's [CLAIM-624](../record/claims.d/CLAIM-624.md) (Proposed, admitted) makes it a bounded duty of answerability, and [CLAIM-619](../record/claims.d/CLAIM-619.md) a counter-corrective disposition. The account adds nothing of its own; its standing is its components'.
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -314,7 +318,7 @@ A part account of the will-organization line: what the record holds about normat
 | [QUESTION-256](../record/questions.d/QUESTION-256.md) | QUESTION | Open | What forms of continuity must a person keep to remain capable of governing changes in their own practical organization, and which of those forms can other processes, other people or the environment supply? |
 | [QUESTION-441](../record/questions.d/QUESTION-441.md) | QUESTION | Open | What exactly is the counter-normativity committed by a self-maintaining organization that harms and reproduces the representational projections that make the harm non-legible, what makes it reproductive, and when is it the organization's own rather than its participants'? |
 
-**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the part of the will-organization line on normative judgment about organizations left out; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it.
+**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the organizational-normativity line left out; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it.
 
 ## Organizational affect
 
