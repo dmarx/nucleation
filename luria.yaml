@@ -2066,3 +2066,6 @@ views:
   current-account:
     template: record/views.d/current-account.md.j2
     output: docs/current-account.md
+  readings-by-line:
+    template: record/views.d/readings-by-line.md.j2
+    output: docs/readings-by-line.md
