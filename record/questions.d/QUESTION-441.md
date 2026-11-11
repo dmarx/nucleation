@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpuveq0
 title: "What exactly is the counter-normativity committed by a self-maintaining organization that harms and reproduces the representational projections that make the harm non-legible, what makes it reproductive, and when is it the organization's own rather than its participants'?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 tags:
 - ethics
 - self-governance
@@ -12,7 +21,7 @@ tags:
 date: '2026-11-07'
 line:
 - distributed-agency
-- will-organization
+- organizational-normativity
 refines:
 - QUESTION-129
 summary: >-

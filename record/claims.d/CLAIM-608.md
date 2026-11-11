@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpp3odb
 title: 'The histories that judgments about an organization''s continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description''s contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -19,7 +28,7 @@ tags:
 - individuation
 date: '2026-11-06'
 line:
-- will-organization
+- organizational-normativity
 rests_on:
 - CLAIM-518
 - CLAIM-363

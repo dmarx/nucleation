@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpagkxi
 title: 'A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -23,6 +23,14 @@ history:
     reading, not the owner's, and it had been cited as the owner's
     position. The owner's U27 does not settle it, so the clause now
     leaves it open.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,7 +54,7 @@ tags:
 date: '2026-11-07'
 line:
 - distributed-agency
-- will-organization
+- organizational-normativity
 rests_on:
 - CLAIM-348
 - CLAIM-523

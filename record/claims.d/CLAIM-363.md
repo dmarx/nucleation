@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt75xe
 title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -31,6 +31,14 @@ history:
     their contested theses (Bickhard's function from dynamics,
     Searle's deontology, Brandom's model as argued). The claim is
     unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,7 +55,7 @@ tags:
 - metaphysics
 date: '2026-10-18'
 line:
-- will-organization
+- organizational-normativity
 rests_on:
 - CLAIM-152
 - CLAIM-075

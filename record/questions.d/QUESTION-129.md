@@ -4,12 +4,22 @@ status: Open
 formerly:
 - QUESTION-tmpq5i0m
 title: 'Can relationally indexed normative judgments be objective about the standards and perspectives themselves, so that some conflicts between standpoints have objectively better resolutions, without presupposing the normativity they were meant to explain?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 tags:
 - ethics
 - metaphysics
 date: '2026-10-18'
-line: will-organization
+line:
+- organizational-normativity
 refines:
 - QUESTION-128
 summary: >-

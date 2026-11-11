@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptfuky
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-07'
@@ -51,6 +51,14 @@ history:
     among them named by the claim it returned to; its standing is kept,
     Proposed becoming Proposed. The synthesis's own history stays on
     SYNTHESIS-002.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,7 +82,7 @@ tags:
 date: '2026-11-07'
 line:
 - distributed-agency
-- will-organization
+- organizational-normativity
 rests_on:
 - CLAIM-614
 - CLAIM-348

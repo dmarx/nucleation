@@ -4,14 +4,24 @@ status: Active
 formerly:
 - CLAIM-tmpk5av7
 title: 'Viability does not establish what ought to persist'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: disclaimed
 warrant: interpretive
 tags:
 - ethics
 - agency
 date: '2026-10-04'
-line: will-organization
+line:
+- organizational-normativity
 works:
 - organization-of-will
 summary: >-

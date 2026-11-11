@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg69cm
 title: 'Normative judgments about an organization''s continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-31'
@@ -48,6 +48,14 @@ history:
     accounts for some of the difference in Bencherki's pair but not for
     A27's working-hours pair. The blocker note of 2026-11-06 is removed,
     since what it named is now conceded. The title is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,7 +68,7 @@ tags:
 - individuation
 date: '2026-10-31'
 line:
-- will-organization
+- organizational-normativity
 rests_on:
 - CLAIM-363
 - CLAIM-350

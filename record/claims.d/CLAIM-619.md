@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmplgp4k
 title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers'' access and incentives'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -24,6 +24,14 @@ history:
     part in that line's argument, since it bears on QUESTION-441, a
     question of that line. Found by the lint sweep of 2026-11-10 as a
     `rests_on` step across lines. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,7 +54,7 @@ tags:
 - ethics
 date: '2026-11-07'
 line:
-- will-organization
+- organizational-normativity
 - distributed-agency
 rests_on:
 - CLAIM-402

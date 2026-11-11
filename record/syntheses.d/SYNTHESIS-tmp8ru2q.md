@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Which of an agent''s available regimes becomes effective is decided by maintained relations of efficacy that are not further preferences and are indexed to an agent rather than to any regulator; precedence, jurisdiction and suspension among them vary separately; and whether describing them as one organization explains anything that the fields studying each realizer do not is open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the split of will-organization (ADR-tmpczmfi), the part on
+    normative judgment about organizations became the line
+    organizational-normativity; the introduction says so. No other
+    change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the will-organization line that asks which regime becomes
@@ -103,7 +111,7 @@ summary: >-
 
 # SYNTHESIS-tmp8ru2q: Which of an agent's available regimes becomes effective is decided by maintained relations of efficacy that are not further preferences and are indexed to an agent rather than to any regulator; precedence, jurisdiction and suspension among them vary separately; and whether describing them as one organization explains anything that the fields studying each realizer do not is open
 
-*A part account of the will-organization line (ADR-083, ADR-084). The line's account is built over it and five sibling parts. "The will paper" is the owner's essay, The Organization of Will (the `works` vocabulary), cited in components by section.*
+*A part account of the will-organization line (ADR-083, ADR-084). The line's account is built over it and four sibling parts. A sixth, on normative judgment about organizations, became the line organizational-normativity at the split of will-organization (ADR-tmpczmfi). "The will paper" is the owner's essay, The Organization of Will (the `works` vocabulary), cited in components by section.*
 
 ## The account
 

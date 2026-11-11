@@ -1,7 +1,17 @@
 ---
 status: Proposed
-title: 'The will-organization line is six accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent''s regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, freedom of will and self-formation, and normative judgment about organizations; the line makes no claim beyond its parts, and two of them are mostly closed'
-version: 1
+title: 'The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent''s regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own'
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the split of will-organization (ADR-tmpczmfi), the sixth part,
+    normative judgment about organizations, became the line
+    organizational-normativity. This account now integrates the five
+    remaining parts; its links to the sixth are kept as dependencies
+    across lines, and its version 1 counts as the record of why the line
+    was split. Nothing else changes.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the will-organization line that no part account
@@ -20,7 +30,6 @@ integrates:
 - SYNTHESIS-tmpoihy8
 - SYNTHESIS-tmpiwxet
 - SYNTHESIS-tmpjze56
-- SYNTHESIS-tmphe0p9
 - CLAIM-027
 - CLAIM-025
 - CLAIM-079
@@ -34,25 +43,26 @@ integrates:
 bears_on:
 - QUESTION-015
 summary: >-
-  The account of the will-organization line, over the accounts of its six
-  parts: which regime becomes effective (SYNTHESIS-tmp8ru2q), acting as one (SYNTHESIS-tmpg9eit),
-  frustration and thresholds (SYNTHESIS-tmpoihy8), maintaining the capacity to govern
-  (SYNTHESIS-tmpiwxet), freedom of will and self-formation (SYNTHESIS-tmpjze56), and normative
-  judgment about organizations (SYNTHESIS-tmphe0p9). They meet at CLAIM-027 and
+  The account of the will-organization line, over the accounts of its five
+  parts: which regime becomes effective (SYNTHESIS-tmp8ru2q), acting as one
+  (SYNTHESIS-tmpg9eit), frustration and thresholds (SYNTHESIS-tmpoihy8),
+  maintaining the capacity to govern (SYNTHESIS-tmpiwxet), and freedom of
+  will and self-formation (SYNTHESIS-tmpjze56). They meet at CLAIM-027 and
   CLAIM-025, on which claims of four parts rest, and at CLAIM-354, CLAIM-523
   and CLAIM-445. No link between the parts that the record does not state
   passed ADR-075's test, so the account adds nothing of its own; its
-  standing is its components'. SYNTHESIS-tmpg9eit and SYNTHESIS-tmphe0p9 are mostly closed, which
-  makes the line a candidate to split.
+  standing is its components'. Normative judgment about organizations,
+  version 1's sixth part, is the line organizational-normativity
+  (ADR-tmpczmfi), with its own account (SYNTHESIS-tmphe0p9).
 ---
 <!-- inactive-ok-file: ADR-075 ADR-082 ADR-083 ADR-084 ARG-059 ARG-062 ARG-064 CLAIM-024 CLAIM-156 CLAIM-169 CLAIM-262 CLAIM-336 CLAIM-358 CLAIM-364 CLAIM-440 CLAIM-441 CLAIM-442 CLAIM-445 CLAIM-446 CLAIM-447 CLAIM-465 CLAIM-484 CLAIM-487 CLAIM-527 CLAIM-541 CLAIM-544 CLAIM-545 CLAIM-553 CLAIM-555 CLAIM-610 CLAIM-614 CLAIM-619 CLAIM-620 CLAIM-624 CLAIM-627 CLAIM-631 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-010 CLAIM-089 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-015 QUESTION-304 — Answered; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-tmp8ru2q SYNTHESIS-tmpg9eit SYNTHESIS-tmpoihy8 SYNTHESIS-tmpiwxet SYNTHESIS-tmpjze56 SYNTHESIS-tmphe0p9 — placeholders for the codes of this review's part accounts -->
 
-# SYNTHESIS-tmp4u1pa: The will-organization line is six accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent's regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, freedom of will and self-formation, and normative judgment about organizations; the line makes no claim beyond its parts, and two of them are mostly closed
+# SYNTHESIS-tmp4u1pa: The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent's regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own
 
-*The account of the will-organization line, over the accounts of its six parts (ADR-083, ADR-084). No account of the line was in force: the six syntheses that carry the line are Superseded, their content returned to claims (ADR-084), and those claims are integrated here through the parts.*
+*The account of the will-organization line, over the accounts of its five parts (ADR-083, ADR-084). A sixth part, normative judgment about organizations, became the line organizational-normativity at the split of will-organization (ADR-tmpczmfi), and its 23 entries left this line. No account of the line was in force: the six syntheses that carry the line are Superseded, their content returned to claims (ADR-084), and those claims are integrated here through the parts.*
 
 ## The parts
 
@@ -80,13 +90,16 @@ summary: >-
   sensitivity is not control (CLAIM-542, CLAIM-533); CLAIM-523's three
   achievements; CLAIM-545, governance of governability; CLAIM-532,
   self-formation; CLAIM-022, ownership disclaimed.
-- **SYNTHESIS-tmphe0p9, normative judgment about organizations** (23). CLAIM-075,
-  CLAIM-363 and CLAIM-518 with CLAIM-512's objection; CLAIM-614 and
-  CLAIM-624 on the wrong beyond harm, with five arguments; CLAIM-619.
+- **Normative judgment about organizations** (23 entries), version 1's
+  sixth part, is now the line organizational-normativity, with its account
+  SYNTHESIS-tmphe0p9: CLAIM-075, CLAIM-363 and CLAIM-518 with CLAIM-512's
+  objection; CLAIM-614 and CLAIM-624 on the wrong beyond harm, with five
+  arguments; CLAIM-619.
 
-Every one of the line's 203 entries is integrated by exactly one part
-account: the 209 entries carrying the line on 2026-11-11 less the six
-Superseded syntheses. CASE-128 and CASE-129 joined the line at the sweep of
+Every one of the line's 180 entries is integrated by exactly one part
+account: the 186 entries carrying the line after the split of
+2026-11-11, less the six Superseded syntheses. Version 1 had 203, with
+the 23 now in organizational-normativity. CASE-128 and CASE-129 joined the line at the sweep of
 2026-11-11; CLAIM-555 left it. Some are also integrated by other lines' accounts, each part
 account says which.
 
@@ -125,6 +138,8 @@ unless a body is cited.
   QUESTION-071.
 - **SYNTHESIS-tmpiwxet and SYNTHESIS-tmpjze56.** CLAIM-523 complements CLAIM-349 and CLAIM-344;
   CLAIM-540 complements CLAIM-025.
+Across to organizational-normativity (SYNTHESIS-tmphe0p9), by dependency:
+
 - **SYNTHESIS-tmpiwxet and SYNTHESIS-tmphe0p9.** CLAIM-624 and ARG-064 rest on CLAIM-445, which
   complements CLAIM-614 and CLAIM-619; ARG-062 grounds on CASE-138.
 - **SYNTHESIS-tmpjze56 and SYNTHESIS-tmphe0p9.** CLAIM-614 and CLAIM-624 rest on CLAIM-523; CLAIM-624
@@ -158,15 +173,18 @@ seven point in. SYNTHESIS-tmpg9eit's crossings run through the paper's question 
 case (QUESTION-015, CASE-013, CLAIM-027), through CLAIM-443, and through
 CASE-129's illustration of CLAIM-364; SYNTHESIS-tmphe0p9's
 through CLAIM-445 and CLAIM-523. SYNTHESIS-tmpoihy8, SYNTHESIS-tmpiwxet and SYNTHESIS-tmpjze56 are not closed.
-So **the line is a candidate to split** (ADR-083): acting as one, and
-normative judgment about organizations, each look like an inquiry of its
-own. The split is a decision about the lines vocabulary, for the owner
-(ADR-082 is the first). Seventeen of SYNTHESIS-tmpiwxet's components, the promotion
+So **the line was a candidate to split** (ADR-083): acting as one, and
+normative judgment about organizations, each looked like an inquiry of its
+own. The counts above are version 1's, over six parts, and are the record
+of that finding. The split of normative judgment was decided by
+ADR-tmpczmfi; acting as one stays (below). Seventeen of SYNTHESIS-tmpiwxet's components, the promotion
 conditions, are tied to the rest mostly by a formulaic mention of
 QUESTION-303, and QUESTION-407 is linked to no component.
 
-**What the two closed parts ask, for the owner's decision.** Stated from
-the components; the account decides nothing.
+**What the two closed parts ask.** Stated from the components, as version 1
+set them out for the decision. ADR-tmpczmfi split normative judgment off,
+because it asks something of its own, and kept acting as one, because its
+root question refines the line's own.
 
 - **SYNTHESIS-tmpg9eit.** (a) Its root question is QUESTION-034: "If an agent is a
   population of interests, what makes it act as one: bargaining among the
@@ -244,5 +262,5 @@ and stay claims; the review's report gives the cases.
 - That the line's thesis is shown across realizers: CLAIM-027's
   intervention test is not run (QUESTION-015).
 - That any of the claims filed from exchanges after the paper, in SYNTHESIS-tmpg9eit to
-  SYNTHESIS-tmphe0p9, carries the paper's standing.
+  SYNTHESIS-tmpjze56, carries the paper's standing.
 - Anything with standing of its own.

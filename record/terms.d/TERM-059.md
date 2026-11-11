@@ -4,12 +4,22 @@ status: Active
 formerly:
 - TERM-tmp9b3gk
 title: 'relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: the position that a normative judgment indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard is correct or incorrect whatever the judge prefers, and that which frames, perspectives and standards are admissible is itself constrained, the second of which the record has not established'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 tags:
 - ethics
 - metaphysics
 date: '2026-10-18'
-line: will-organization
+line:
+- organizational-normativity
 summary: >-
   The owner's name, U18 of the exchange of 2026-10-17: "so maybe
   something like a frame/order/scale/perspectival-relative normative

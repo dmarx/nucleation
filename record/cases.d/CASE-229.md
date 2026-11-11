@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CASE-tmppdl5x
 title: 'Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B''s governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Moves from will-organization to organizational-normativity, at
+    the split of will-organization (ADR-tmpczmfi, 2026-11-11): the
+    entry is in the account of normative judgment about
+    organizations. No relation supplies will-organization to it
+    (ADR-085). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -13,7 +22,7 @@ tags:
 - society-and-governance
 date: '2026-11-07'
 line:
-- will-organization
+- organizational-normativity
 - distributed-agency
 summary: >-
   A's (ChatGPT's) item 3 of its review of the pull request
