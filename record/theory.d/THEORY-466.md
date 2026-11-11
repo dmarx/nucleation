@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmp8lv8d
 title: "Among contestants of equal prowess with dangerous weapons, individual selection can favour conventional fighting backed by retaliation: an escalating Hawk is not evolutionarily stable, Retaliator is at most neutrally stable because Mouse ties it, and in a contest settled by persistence alone no fixed persistence is stable while an exponential mixture is"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp6knzg, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-tmpkuzwl):
+    the question names it among its evidence. No other change.
 tags:
 - natural-sciences
 - game-theory
@@ -19,6 +26,8 @@ summary: >-
   well", which fails its own second condition. There is no Hawk–Dove game,
   no "dove", no difference in prowess and no ownership, so it is not the
   source of display, deference or owner–intruder conventions.
+bears_on:
+- QUESTION-tmp6knzg
 ---
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the hawk-dove contests it credits to Maynard Smith & Price -->

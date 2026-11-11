@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmpeqxmj
 title: 'In Belgian adolescents, need frustration measured by the twelve BPNSFS frustration items statistically absorbs most of the association between depressive and eating disorder symptoms: cross-sectionally their latent correlation falls from .50 to a non-significant .18, and in a two-wave latent change model their correlated change falls from .43 to .24; its mediating role is shown in correlated change over the same six months, not in temporal order'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp3tgdc, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-tmpkuzwl):
+    the question names it among its evidence. No other change.
 tags:
 - psychopathology-and-treatment
 - motivation
@@ -20,6 +27,8 @@ summary: >-
   transdiagnostic. It does not show that frustration precedes the
   symptoms, does not reach externalizing problems, and its measure is
   the one [THEORY-1311](THEORY-1311.md) doubts.
+bears_on:
+- QUESTION-tmp3tgdc
 ---
 <!-- inactive-ok-file: THEORY-052 THEORY-1311 — Proposed; neighbours cited as open -->
 

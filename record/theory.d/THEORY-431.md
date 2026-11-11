@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmp3uu1d
 title: "For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp5i0v5, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-tmpkuzwl):
+    the question names it among its evidence. No other change.
 tags:
 - thermodynamics
 - natural-sciences
@@ -23,6 +30,8 @@ summary: >-
   since the dynamics build irreversibility in, and they say nothing about
   extremum principles for steady states. Their practical reach is work
   fluctuations of order k_BT.
+bears_on:
+- QUESTION-tmp5i0v5
 ---
 
 <!-- inactive-ok-file: THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->

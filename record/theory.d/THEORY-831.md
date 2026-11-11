@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3kgjq
 title: "For a system driven by a protocol fixed in advance, with microscopic reversibility and with forward and reverse processes started uniformly on their macrostates, the log-odds of two outcomes II and III reached from I equal the difference in their log state counts, plus the log-ratio of their reversal probabilities, plus the difference in minus the log mean of e^(−βQ) over the paths reaching each, where Q is the heat released; so when the first two terms are equal the likelier outcome is the one whose paths release more heat on average with less variation"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -16,6 +16,12 @@ history:
     holds the identity and its equal-terms corollary, re-derived in the
     review under uniform starting densities; THEORY-412 keeps the thesis
     and its promote_when, and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp5i0v5, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-tmpkuzwl):
+    the question names it among its evidence. No other change.
 tags:
 - thermodynamics
 - complex-systems
@@ -31,6 +37,8 @@ summary: >-
   uniform starting densities; the paper itself uses near-uniformity. It
   says nothing about which macrostates a real many-body system can be
   divided into with the other two terms equal.
+bears_on:
+- QUESTION-tmp5i0v5
 ---
 <!-- inactive-ok-file: THEORY-412 THEORY-671 THEORY-673 — Proposed; the account this one is split from, the maximum-entropy-production contrast, and the earlier split it follows -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9jqpz
 title: 'In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -15,6 +15,12 @@ history:
     derivation with Luque's generalization-sketch reading of it. Batch 056
     re-derived the derivation; this THEORY holds it, and THEORY-673 keeps
     the reading and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-tmp6knzg, the question the second by-topic reading review of
+    2026-11-11 raised from this reading and others (ADR-091, ADR-tmpkuzwl):
+    the question names it among its evidence. No other change.
 tags:
 - philosophy-of-biology
 - mathematics
@@ -27,6 +33,8 @@ summary: >-
   it says nothing about which partition of the change a causal model
   licenses, predicts nothing until fitness and transmission are specified,
   and fails without closure (migration).
+bears_on:
+- QUESTION-tmp6knzg
 ---
 
 # THEORY-770: In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure
