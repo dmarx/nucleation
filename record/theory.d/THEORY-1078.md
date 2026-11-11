@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    Reading review of 2026-11-11, by topic: bears on QUESTION-tmpiib1m,
+    Reading review of 2026-11-11, by topic: bears on QUESTION-450,
     raised by this review from this reading and CLAIM-477's notes, which
     ask four times whether a law of possibility or a conservation law is a
     constraint realized by something and leave it unruled. The reading's
@@ -33,7 +33,7 @@ summary: >-
   framework's basic principle I is true, nor that a law of possibility is,
   or is not, a constraint realized by something ([CLAIM-477](../claims.d/CLAIM-477.md)).
 bears_on:
-- QUESTION-tmpiib1m
+- QUESTION-450
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the frame whose notion of a realized constraint this bears on, cited as open -->
 

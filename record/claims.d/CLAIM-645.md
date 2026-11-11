@@ -1,5 +1,8 @@
 ---
+number: 645
 status: 'Proposed'
+formerly:
+- CLAIM-tmpsx3zh
 title: "A correspondence fitted from two structures' internal similarities alone is identified only up to their symmetries: Gromov–Wasserstein and co-optimal transport cost every coupling the same as its composite with a symmetry, and anchors break only the ties that move them, so such a fit cannot by itself validate a correspondence and an anchor validates it only against the symmetries it moves"
 version: 1
 role: 'thesis'
@@ -39,7 +42,7 @@ summary: >-
   this session); adopting it is the owner's call.
 ---
 
-# CLAIM-tmpsx3zh: A correspondence fitted from two structures' internal similarities alone is identified only up to their symmetries: Gromov–Wasserstein and co-optimal transport cost every coupling the same as its composite with a symmetry, and anchors break only the ties that move them, so such a fit cannot by itself validate a correspondence and an anchor validates it only against the symmetries it moves
+# CLAIM-645: A correspondence fitted from two structures' internal similarities alone is identified only up to their symmetries: Gromov–Wasserstein and co-optimal transport cost every coupling the same as its composite with a symmetry, and anchors break only the ties that move them, so such a fit cannot by itself validate a correspondence and an anchor validates it only against the symmetries it moves
 
 ## The claim
 

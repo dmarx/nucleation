@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (probability and
-    information), ADR-091. bears_on QUESTION-tmpiib1m, raised in the
+    information), ADR-091. bears_on QUESTION-450, raised in the
     same review: whether a law that constrains without being produced by
     what it constrains, such as constructor theory's laws of possibility,
     counts as a constraint realized and maintained by something.
@@ -32,7 +32,7 @@ summary: >-
   "intrinsic" excludes reference to a specific other substrate, not to
   generic ones, which the cloning task and (5.1) both use.
 bears_on:
-- QUESTION-tmpiib1m
+- QUESTION-450
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the claim whose defeater the question tests, cited as open -->
 

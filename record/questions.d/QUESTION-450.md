@@ -1,5 +1,8 @@
 ---
+number: 450
 status: Open
+formerly:
+- QUESTION-tmpiib1m
 title: "Does a law that constrains without being produced by what it constrains, such as a symmetry, a conservation law or constructor theory's laws of possibility, count as a constraint realized and maintained by something, or does it individuate kinds while realized by nothing?"
 version: 1
 tags:
@@ -24,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-478 CLAIM-134 — Proposed; the frame whose defeater this question states, and neighbours cited as open -->
 
-# QUESTION-tmpiib1m: Does a law that constrains without being produced by what it constrains, such as a symmetry, a conservation law or constructor theory's laws of possibility, count as a constraint realized and maintained by something, or does it individuate kinds while realized by nothing?
+# QUESTION-450: Does a law that constrains without being produced by what it constrains, such as a symmetry, a conservation law or constructor theory's laws of possibility, count as a constraint realized and maintained by something, or does it individuate kinds while realized by nothing?
 
 ## Why it is a question
 
