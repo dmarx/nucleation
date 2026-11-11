@@ -21,10 +21,10 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: bears_on QUESTION-083, whose note of 2026-10-29
+    ADR-093: bears_on QUESTION-083, whose note of 2026-10-29
     names it among the works that "limit what an answer can borrow":
     "Where optimization ends ... a boundary that depends on packing,
-    not a point". A caution for the question's answer (ADR-tmpkuzwl,
+    not a point". A caution for the question's answer (ADR-093,
     3). CLAIM-369 cites it as a boundary of scope and takes nothing.
     No other change.
 tags:
@@ -46,7 +46,7 @@ summary: >-
 bears_on:
 - QUESTION-083
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1162: In a consumer-resource model whose species-resource benefits and impacts have correlation rho, the replica-symmetric cavity fixed point loses stability where rho squared equals surviving species over non-depleted resources
 

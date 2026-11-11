@@ -32,7 +32,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-296 and CLAIM-312 added.
+    ADR-091 and ADR-093. corroborates CLAIM-296 and CLAIM-312 added.
     CLAIM-296: "In the hypercube model (Larson and Odoni, NOTE-1620 ...),
     a unit busy on another call is present but not deployable". CLAIM-312:
     "That is a special case of the claim with no search or retrieval

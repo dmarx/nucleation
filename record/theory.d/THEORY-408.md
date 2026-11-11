@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: corroborates CLAIM-491, whose body argues what
+    ADR-093: corroborates CLAIM-491, whose body argues what
     this reading shows: "Hamilton's rule ... values others' fitness
     by relatedness, as if the self's genetic interest extended to
     kin", support "only by analogy" by the claim's own account.
@@ -34,7 +34,7 @@ summary: >-
 corroborates:
 - CLAIM-491
 ---
-<!-- inactive-ok-file: CLAIM-491 THEORY-655 ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: CLAIM-491 THEORY-655 ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the kin domain it credits to "Hamilton, 1964" -->
 

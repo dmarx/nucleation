@@ -23,7 +23,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-114 added. The question
+    ADR-091 and ADR-093. bears_on QUESTION-114 added. The question
     names the work among those pricing search organization: "Fagin, Lotem
     and Naor (LIT-1115, NOTE-924) price a conjunctive query over
     feature-sorted lists ...; Fagin 1996 (LIT-1108) is Unavailable"; this

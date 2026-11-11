@@ -49,7 +49,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: corroborates CLAIM-420, whose body names this work
+    ADR-093: corroborates CLAIM-420, whose body names this work
     as "the hard case, where association has to be told from
     transmission" and whose note of 2026-10-22 finds in it "two of
     the claim's three modes in sequence", the difference appearing
@@ -74,7 +74,7 @@ summary: >-
 corroborates:
 - CLAIM-420
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1225 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; the claims it bears on, named, not leaned on -->
 

@@ -28,7 +28,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-296 and CLAIM-312 added.
+    ADR-091 and ADR-093. corroborates CLAIM-296 and CLAIM-312 added.
     CLAIM-296: in MEXCLP and MALP as de Oliveira, de Sá and Martins give
     them (NOTE-1621), "a covering ambulance that is busy does not count",
     "a formal case of the gap between having a resource and being able to

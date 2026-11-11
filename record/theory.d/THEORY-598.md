@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-133 added, as a caution
+    ADR-091 and ADR-093. bears_on QUESTION-133 added, as a caution
     for the question's test: "Higher-order structure should be checked,
     not assumed ... some apparent higher-order effects reduce to pairwise
     ones (THEORY-598)." No other change.

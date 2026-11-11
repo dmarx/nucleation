@@ -28,10 +28,10 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: bears_on QUESTION-398, whose note of 2026-11-05
+    ADR-093: bears_on QUESTION-398, whose note of 2026-11-05
     names it as "A test": "a state is independent of an intervention
     once it lasts a full turnover after the intervention ends". An
-    instrument for the question's test (ADR-tmpkuzwl, 3). No other
+    instrument for the question's test (ADR-093, 3). No other
     change.
 tags:
 - ecology
@@ -53,7 +53,7 @@ summary: >-
 bears_on:
 - QUESTION-398
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1485: On Schröder, Persson and De Roos, of 35 manipulation experiments testing for alternative stable states, 21 were conclusive over at least one turnover of the longest-lived organisms, 13 of them showing bistability and 8 its absence; positives came mostly from laboratory rather than field systems, and only 3 of 15 tests of non-recovery after a pressure was removed were positive
 

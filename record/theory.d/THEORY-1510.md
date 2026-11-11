@@ -31,7 +31,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: corroborates CLAIM-604, whose note of 2026-11-06
+    ADR-093: corroborates CLAIM-604, whose note of 2026-11-06
     says "the review supports the claim in kind": its
     desertification loop is "upkeep drawn in by the structure's own
     intact state" and its hysteresis "matches the collapse and the
@@ -58,7 +58,7 @@ summary: >-
 corroborates:
 - CLAIM-604
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1544 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 
 # THEORY-1510: On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice

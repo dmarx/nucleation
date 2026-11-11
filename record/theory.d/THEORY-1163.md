@@ -21,7 +21,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-115. The question's note
+    ADR-091, ADR-093): bears_on QUESTION-115. The question's note
     of 2026-10-29 names it as the check on A11's report that A* and A
     cannot decrease as variables move into the candidate: "The check
     is THEORY-1163." No other change.

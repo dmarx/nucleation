@@ -18,7 +18,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-515 and CLAIM-519.
+    ADR-091, ADR-093): corroborates CLAIM-515 and CLAIM-519.
     CLAIM-515's note of 2026-11-01 says what decides between
     architectures "is this claim's 'interventions that discriminate
     implementations', with a field's history behind it"; CLAIM-519's

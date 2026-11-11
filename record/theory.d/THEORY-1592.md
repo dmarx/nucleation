@@ -22,7 +22,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-492. The claim lists it
+    ADR-091, ADR-093): corroborates CLAIM-492. The claim lists it
     among its cases of a criterion of the self's extent that comes
     apart from caring: "Salience moves without caring (Smith and
     Mackie, NOTE-1285 ...). ... That fixes the self's level

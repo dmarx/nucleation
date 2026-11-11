@@ -21,7 +21,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-096 and QUESTION-120
+    ADR-091 and ADR-093. bears_on QUESTION-096 and QUESTION-120
     added. QUESTION-096: "The record holds the mechanism A19 reached for
     ... and THEORY-261 on SDM recall." QUESTION-120 names it as one of
     "two candidate forms" for the expand-and-threshold use. No other

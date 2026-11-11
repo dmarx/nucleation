@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-131. The question's note
+    ADR-091, ADR-093): bears_on QUESTION-131. The question's note
     of 2026-11-03 uses Chen et al.'s scale (NOTE-1527) as a caution on
     its measure: the frustration items "may measure low satisfaction,
     this question's non-attainment, not operative thwarting". No other

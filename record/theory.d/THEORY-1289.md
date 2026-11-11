@@ -17,7 +17,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-414. The claim's note
+    ADR-091, ADR-093): corroborates CLAIM-414. The claim's note
     of 2026-11-01 calls the clamp of this reading the mechanists' form
     of its own separating intervention and says the readings "agree
     with the claim's second limit, that knowing the mechanisms tells

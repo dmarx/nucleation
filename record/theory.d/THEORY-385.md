@@ -23,7 +23,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-187 added. The question
+    ADR-091 and ADR-093. bears_on QUESTION-187 added. The question
     asks about "the graph HNSW actually builds: a fixed number of links
     per element, pruned heuristically"; this reading is the test of that
     pruning rule against nearest-neighbour linking, a premise of what

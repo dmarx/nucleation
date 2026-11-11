@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-281 added. The question
+    ADR-091 and ADR-093. bears_on QUESTION-281 added. The question
     lists Turing's instability among its routes, "Interactions need not
     merely constrain the configurations of preexisting parts. They can
     generate the very spatial distinctions that later allow parts to be

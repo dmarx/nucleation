@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-063 added. The question's
+    ADR-091 and ADR-093. bears_on QUESTION-063 added. The question's
     note of 2026-10-27 (evening) uses Stewart, Golubitsky and Pivato
     (NOTE-1217) as an instrument for its drive-or-coupling test: "In
     Pecora and Carroll's master–slave network (Fig. 19, p. 635), cells

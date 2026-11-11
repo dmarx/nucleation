@@ -10,12 +10,12 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (mind and philosophy part;
-    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-533. The claim's note
+    ADR-091, ADR-093): corroborates CLAIM-533. The claim's note
     of 2026-11-03 cites it for Bishop's limits on amplification and
     says "That supports the slow-modes clause"; its body takes
     Bishop's statement of the harnessing gap as its starting point.
     The claim grounds on the work itself, LIT-1961; that edge is left
-    for a defect sweep (ADR-tmpkuzwl, 6). No other change.
+    for a defect sweep (ADR-093, 6). No other change.
 tags:
 - free-will
 - philosophy-of-science

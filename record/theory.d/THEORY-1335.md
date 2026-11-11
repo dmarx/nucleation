@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-582 added. The claim
+    ADR-091 and ADR-093. corroborates CLAIM-582 added. The claim
     lists it among the readings that "show the change of mechanism each
     time": "Juarrero's enabling constraints (THEORY-1335; NOTE-1532) ...
     The result is a new system with its own state space, not the old one

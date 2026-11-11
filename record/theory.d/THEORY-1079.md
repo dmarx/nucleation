@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-281 added. The question's
+    ADR-091 and ADR-093. bears_on QUESTION-281 added. The question's
     note of 2026-10-27 (later) cites it: "Ashwin et al. 2012 corrects the
     question's gloss of rate-induced tipping (NOTE-1215; THEORY-1079)". No
     other change.

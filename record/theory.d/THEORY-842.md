@@ -19,7 +19,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: corroborates CLAIM-404, whose body takes
+    ADR-093: corroborates CLAIM-404, whose body takes
     agenda-setting as the informational route's illustration at the
     scale of a public: "what reaches the agenda, not what is
     concluded, and in McCombs and Shaw only as an aggregate
@@ -41,7 +41,7 @@ summary: >-
 corroborates:
 - CLAIM-404
 ---
-<!-- inactive-ok-file: QUESTION-253 ADR-091 ADR-tmpkuzwl — Proposed or Answered; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: QUESTION-253 ADR-091 ADR-093 — Proposed or Answered; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-838 — Proposed; the causal hypothesis these correlations are offered for, filed beside this one -->
 
 # THEORY-842: Among 100 Chapel Hill voters not yet committed to a candidate in September–October 1968, the aggregate emphasis they gave the campaign's main issues correlated +.967 with the emphasis of the major news items, and +.979 with that of the minor items, in the nine media serving them; and voters leaning to a candidate agreed more with all the news than with news about their own side in 18 of 24 comparisons

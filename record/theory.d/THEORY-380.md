@@ -23,7 +23,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-105 added. The question
+    ADR-091 and ADR-093. bears_on QUESTION-105 added. The question
     names it: "Provenance polynomials ... suffice for every revision that
     re-scores existing inputs in a commutative semiring, for positive
     queries (THEORY-373, THEORY-380)". No other change.

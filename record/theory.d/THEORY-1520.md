@@ -27,12 +27,12 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11, by topic (part Q), ADR-091 and
-    ADR-tmpkuzwl: corroborates CLAIM-602, whose note of 2026-11-05
+    ADR-093: corroborates CLAIM-602, whose note of 2026-11-05
     says the tutors' withholding of help "is this claim's
     capacity-first rule" ("Supported from tutoring, with three
     qualifications"); and bears_on QUESTION-398, whose note names it
     as "A withdrawal rule in use", an instrument for the question's
-    test (ADR-tmpkuzwl, 3). No other change.
+    test (ADR-093, 3). No other change.
 tags:
 - social-science
 - cognition
@@ -53,7 +53,7 @@ corroborates:
 bears_on:
 - QUESTION-398
 ---
-<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1547 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 
 # THEORY-1520: Koedinger and Aleven argue that instruction faces an assistance dilemma, help given buying accuracy and efficiency at the cost of shallow processing and help withheld buying generation and memory engagement at the cost of floundering, and that within tutored problem solving, where the learner does the steps and help is added only on failure, the experiments they review favour more help rather than less, support shifting from worked examples toward problems and as-needed hints as competence grows, learners left to ask for help asking badly, and the point at which to switch between giving and withholding unknown

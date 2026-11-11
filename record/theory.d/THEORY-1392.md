@@ -38,7 +38,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-520 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-520 added. The claim's
     note of 2026-11-04 on Chou et al. (NOTE-1604): "It supports the claim
     in kind. Full flexibility is costly, and a sparse long chain keeps at
     least 89% ... of its expected sales". No other change.

@@ -36,7 +36,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-520 added. The claim's
+    ADR-091 and ADR-093. corroborates CLAIM-520 added. The claim's
     note of 2026-11-04: in a POMDP an information action "is only
     worthwhile when the value of the information ... exceeds the cost of
     gaining the information" (NOTE-1563), so "its conditional value of a

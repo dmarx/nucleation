@@ -30,7 +30,7 @@ history:
   date: '2026-11-11'
   note: >-
     Reading review of 2026-11-11 (by topic, second run, part P), under
-    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-025 added, as a caution
+    ADR-091 and ADR-093. bears_on QUESTION-025 added, as a caution
     for the question's test: "Hyperbolic curvature is not by itself
     evidence of hierarchy. Bianconi & Rahmede (LIT-867, THEORY-193)
     concede the same grown complex fits a sphere with unequal link
