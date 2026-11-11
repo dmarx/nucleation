@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp5i0v5, the question the second by-topic reading review of
+    bears_on QUESTION-452, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -26,7 +26,7 @@ summary: >-
   not of occupations, so it does not price how long a maintained state
   lasts, and the general multicyclic proof is not in this paper.
 bears_on:
-- QUESTION-tmp5i0v5
+- QUESTION-452
 ---
 <!-- inactive-ok-file: THEORY-671 — Proposed; named as a principle this bound does not bear out -->
 

@@ -1,5 +1,8 @@
 ---
+number: 451
 status: Open
+formerly:
+- QUESTION-tmp3tgdc
 title: 'Is need frustration, as self-determination theory measures it, a process distinct from low need satisfaction, or does the evidence for the distinction rest on item keying and correlations that a single dimension would also produce?'
 version: 1
 tags:
@@ -23,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-091 ADR-093 THEORY-052 — Proposed; the reading review that raised it, and the theory's reading cited as a parallel -->
 
-# QUESTION-tmp3tgdc: Is need frustration, as self-determination theory measures it, a process distinct from low need satisfaction, or does the evidence for the distinction rest on item keying and correlations that a single dimension would also produce?
+# QUESTION-451: Is need frustration, as self-determination theory measures it, a process distinct from low need satisfaction, or does the evidence for the distinction rest on item keying and correlations that a single dimension would also produce?
 
 ## Why it is a question
 

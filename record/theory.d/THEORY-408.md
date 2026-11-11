@@ -19,7 +19,7 @@ history:
 - version: 3
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp6knzg, the question the second by-topic reading review of
+    bears_on QUESTION-453, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -40,7 +40,7 @@ summary: >-
 corroborates:
 - CLAIM-491
 bears_on:
-- QUESTION-tmp6knzg
+- QUESTION-453
 ---
 <!-- inactive-ok-file: CLAIM-491 THEORY-655 ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 

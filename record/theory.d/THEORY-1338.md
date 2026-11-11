@@ -18,7 +18,7 @@ history:
 - version: 3
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp3tgdc, the question the second by-topic reading review of
+    bears_on QUESTION-451, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -37,7 +37,7 @@ summary: >-
   tell it from one; that test is Murphy et al.'s ([LIT-1978](../literature.d/LIT-1978.md)), unread.
 bears_on:
 - QUESTION-131
-- QUESTION-tmp3tgdc
+- QUESTION-451
 ---
 <!-- inactive-ok-file: THEORY-052 LIT-1954 — Proposed, Open, Deferred or Unfetched; the entries this bears on, cited as open -->
 

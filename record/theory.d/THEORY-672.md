@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp6knzg, the question the second by-topic reading review of
+    bears_on QUESTION-453, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -28,7 +28,7 @@ summary: >-
   Tournament robustness is a separate, empirical claim about the strategies
   people submitted.
 bears_on:
-- QUESTION-tmp6knzg
+- QUESTION-453
 ---
 
 # THEORY-672: In the iterated Prisoner's Dilemma with a probability w of meeting again, no strategy does better against an established TIT FOR TAT than TIT FOR TAT does against itself if and only if w ≥ (T−R)/(T−P) and w ≥ (T−R)/(R−S); always defecting is stable for every w, a cluster of reciprocators can invade it, and a nice stable strategy resists clusters, but the stability is only neutral, since always cooperating ties

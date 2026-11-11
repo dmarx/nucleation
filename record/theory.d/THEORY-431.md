@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp5i0v5, the question the second by-topic reading review of
+    bears_on QUESTION-452, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -31,7 +31,7 @@ summary: >-
   extremum principles for steady states. Their practical reach is work
   fluctuations of order k_BT.
 bears_on:
-- QUESTION-tmp5i0v5
+- QUESTION-452
 ---
 
 <!-- inactive-ok-file: THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->

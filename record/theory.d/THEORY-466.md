@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp6knzg, the question the second by-topic reading review of
+    bears_on QUESTION-453, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -27,7 +27,7 @@ summary: >-
   no "dove", no difference in prowess and no ownership, so it is not the
   source of display, deference or owner–intruder conventions.
 bears_on:
-- QUESTION-tmp6knzg
+- QUESTION-453
 ---
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the hawk-dove contests it credits to Maynard Smith & Price -->

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp5i0v5, the question the second by-topic reading review of
+    bears_on QUESTION-452, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -27,7 +27,7 @@ summary: >-
   it does not say which state is reached, whether it is stable, or how
   long the driving lasts.
 bears_on:
-- QUESTION-tmp5i0v5
+- QUESTION-452
 ---
 <!-- inactive-ok-file: THEORY-671 — Proposed; a candidate selection principle named for contrast -->
 

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**919 documents cited without acknowledgement.** Not listed: 23774 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**919 documents cited without acknowledgement.** Not listed: 23788 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1170,7 +1170,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 
 Readings no line uses are reviewed in a protocol of their own, by line, by topic or by question, and each is tied to an entry that should use it, raised as a question or claim, held with a reason, or flagged
 
-208 citations in 207 files await a look; 22 other citations of it are acknowledged.
+221 citations in 219 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-202.md:13`](../../record/cases.d/CASE-202.md)
 - [`record/cases.d/CASE-206.md:40`](../../record/cases.d/CASE-206.md)
@@ -1225,20 +1225,27 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 - [`record/theory.d/THEORY-1255.md:13`](../../record/theory.d/THEORY-1255.md)
 - [`record/theory.d/THEORY-1257.md:13`](../../record/theory.d/THEORY-1257.md)
 - [`record/theory.d/THEORY-1258.md:13`](../../record/theory.d/THEORY-1258.md)
+- [`record/theory.d/THEORY-1261.md:13`](../../record/theory.d/THEORY-1261.md)
 - [`record/theory.d/THEORY-1264.md:13`](../../record/theory.d/THEORY-1264.md)
+- [`record/theory.d/THEORY-1268.md:13`](../../record/theory.d/THEORY-1268.md)
 - [`record/theory.d/THEORY-1289.md:20`](../../record/theory.d/THEORY-1289.md)
 - [`record/theory.d/THEORY-1290.md:21`](../../record/theory.d/THEORY-1290.md)
 - [`record/theory.d/THEORY-1303.md:13`](../../record/theory.d/THEORY-1303.md)
+- [`record/theory.d/THEORY-1307.md:13`](../../record/theory.d/THEORY-1307.md)
 - [`record/theory.d/THEORY-1309.md:13`](../../record/theory.d/THEORY-1309.md)
 - [`record/theory.d/THEORY-1315.md:13`](../../record/theory.d/THEORY-1315.md)
+- [`record/theory.d/THEORY-1320.md:13`](../../record/theory.d/THEORY-1320.md)
+- [`record/theory.d/THEORY-1322.md:13`](../../record/theory.d/THEORY-1322.md)
 - [`record/theory.d/THEORY-1330.md:13`](../../record/theory.d/THEORY-1330.md)
 - [`record/theory.d/THEORY-1332.md:13`](../../record/theory.d/THEORY-1332.md)
 - [`record/theory.d/THEORY-1335.md:13`](../../record/theory.d/THEORY-1335.md)
 - [`record/theory.d/THEORY-1338.md:13`](../../record/theory.d/THEORY-1338.md)
+- [`record/theory.d/THEORY-1338.md:22`](../../record/theory.d/THEORY-1338.md)
 - [`record/theory.d/THEORY-1339.md:40`](../../record/theory.d/THEORY-1339.md)
 - [`record/theory.d/THEORY-1344.md:13`](../../record/theory.d/THEORY-1344.md)
 - [`record/theory.d/THEORY-1346.md:13`](../../record/theory.d/THEORY-1346.md)
 - [`record/theory.d/THEORY-1348.md:13`](../../record/theory.d/THEORY-1348.md)
+- [`record/theory.d/THEORY-1349.md:13`](../../record/theory.d/THEORY-1349.md)
 - [`record/theory.d/THEORY-1350.md:13`](../../record/theory.d/THEORY-1350.md)
 - [`record/theory.d/THEORY-1357.md:39`](../../record/theory.d/THEORY-1357.md)
 - [`record/theory.d/THEORY-1368.md:20`](../../record/theory.d/THEORY-1368.md)
@@ -1310,7 +1317,9 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 - [`record/theory.d/THEORY-380.md:26`](../../record/theory.d/THEORY-380.md)
 - [`record/theory.d/THEORY-385.md:26`](../../record/theory.d/THEORY-385.md)
 - [`record/theory.d/THEORY-421.md:24`](../../record/theory.d/THEORY-421.md)
+- [`record/theory.d/THEORY-431.md:13`](../../record/theory.d/THEORY-431.md)
 - [`record/theory.d/THEORY-439.md:20`](../../record/theory.d/THEORY-439.md)
+- [`record/theory.d/THEORY-466.md:13`](../../record/theory.d/THEORY-466.md)
 - [`record/theory.d/THEORY-504.md:20`](../../record/theory.d/THEORY-504.md)
 - [`record/theory.d/THEORY-543.md:13`](../../record/theory.d/THEORY-543.md)
 - [`record/theory.d/THEORY-585.md:26`](../../record/theory.d/THEORY-585.md)
@@ -1319,6 +1328,8 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 - [`record/theory.d/THEORY-611.md:20`](../../record/theory.d/THEORY-611.md)
 - [`record/theory.d/THEORY-641.md:19`](../../record/theory.d/THEORY-641.md)
 - [`record/theory.d/THEORY-668.md:13`](../../record/theory.d/THEORY-668.md)
+- [`record/theory.d/THEORY-672.md:13`](../../record/theory.d/THEORY-672.md)
+- [`record/theory.d/THEORY-679.md:13`](../../record/theory.d/THEORY-679.md)
 - [`record/theory.d/THEORY-700.md:13`](../../record/theory.d/THEORY-700.md)
 - [`record/theory.d/THEORY-706.md:13`](../../record/theory.d/THEORY-706.md)
 - [`record/theory.d/THEORY-708.md:17`](../../record/theory.d/THEORY-708.md)
@@ -1333,10 +1344,12 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 - [`record/theory.d/THEORY-738.md:24`](../../record/theory.d/THEORY-738.md)
 - [`record/theory.d/THEORY-742.md:31`](../../record/theory.d/THEORY-742.md)
 - [`record/theory.d/THEORY-756.md:23`](../../record/theory.d/THEORY-756.md)
+- [`record/theory.d/THEORY-770.md:22`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-778.md:22`](../../record/theory.d/THEORY-778.md)
 - [`record/theory.d/THEORY-779.md:22`](../../record/theory.d/THEORY-779.md)
 - [`record/theory.d/THEORY-797.md:29`](../../record/theory.d/THEORY-797.md)
 - [`record/theory.d/THEORY-802.md:23`](../../record/theory.d/THEORY-802.md)
+- [`record/theory.d/THEORY-831.md:23`](../../record/theory.d/THEORY-831.md)
 - [`record/theory.d/THEORY-846.md:23`](../../record/theory.d/THEORY-846.md)
 - [`record/theory.d/THEORY-861.md:20`](../../record/theory.d/THEORY-861.md)
 - [`record/theory.d/THEORY-866.md:38`](../../record/theory.d/THEORY-866.md)
@@ -1839,6 +1852,68 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 - [`record/syntheses.d/SYNTHESIS-011.md:22`](../../record/syntheses.d/SYNTHESIS-011.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:60`](../../record/syntheses.d/SYNTHESIS-031.md)
 
+### [ADR-093](../../record/decisions.d/ADR-093.md) — Proposed
+
+A reading named as evidence in a question's or claim's text is tied when the name is written, supporting cases corroborate, a question's instruments are its premises, and readings used only by cases, terms or syntheses are held as used
+
+55 citations in 53 files await a look; 29 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-273.md:67`](../../record/claims.d/CLAIM-273.md)
+- [`record/claims.d/CLAIM-384.md:25`](../../record/claims.d/CLAIM-384.md)
+- [`record/theory.d/THEORY-1059.md:13`](../../record/theory.d/THEORY-1059.md)
+- [`record/theory.d/THEORY-1061.md:13`](../../record/theory.d/THEORY-1061.md)
+- [`record/theory.d/THEORY-1062.md:13`](../../record/theory.d/THEORY-1062.md)
+- [`record/theory.d/THEORY-1079.md:13`](../../record/theory.d/THEORY-1079.md)
+- [`record/theory.d/THEORY-1084.md:35`](../../record/theory.d/THEORY-1084.md)
+- [`record/theory.d/THEORY-1085.md:13`](../../record/theory.d/THEORY-1085.md)
+- [`record/theory.d/THEORY-1141.md:13`](../../record/theory.d/THEORY-1141.md)
+- [`record/theory.d/THEORY-1163.md:24`](../../record/theory.d/THEORY-1163.md)
+- [`record/theory.d/THEORY-1261.md:13`](../../record/theory.d/THEORY-1261.md)
+- [`record/theory.d/THEORY-1264.md:13`](../../record/theory.d/THEORY-1264.md)
+- [`record/theory.d/THEORY-1268.md:13`](../../record/theory.d/THEORY-1268.md)
+- [`record/theory.d/THEORY-1289.md:20`](../../record/theory.d/THEORY-1289.md)
+- [`record/theory.d/THEORY-1290.md:21`](../../record/theory.d/THEORY-1290.md)
+- [`record/theory.d/THEORY-1303.md:13`](../../record/theory.d/THEORY-1303.md)
+- [`record/theory.d/THEORY-1307.md:13`](../../record/theory.d/THEORY-1307.md)
+- [`record/theory.d/THEORY-1315.md:13`](../../record/theory.d/THEORY-1315.md)
+- [`record/theory.d/THEORY-1320.md:13`](../../record/theory.d/THEORY-1320.md)
+- [`record/theory.d/THEORY-1322.md:13`](../../record/theory.d/THEORY-1322.md)
+- [`record/theory.d/THEORY-1332.md:13`](../../record/theory.d/THEORY-1332.md)
+- [`record/theory.d/THEORY-1332.md:18`](../../record/theory.d/THEORY-1332.md)
+- [`record/theory.d/THEORY-1335.md:13`](../../record/theory.d/THEORY-1335.md)
+- [`record/theory.d/THEORY-1338.md:13`](../../record/theory.d/THEORY-1338.md)
+- [`record/theory.d/THEORY-1338.md:22`](../../record/theory.d/THEORY-1338.md)
+- [`record/theory.d/THEORY-1346.md:13`](../../record/theory.d/THEORY-1346.md)
+- [`record/theory.d/THEORY-1348.md:13`](../../record/theory.d/THEORY-1348.md)
+- [`record/theory.d/THEORY-1349.md:13`](../../record/theory.d/THEORY-1349.md)
+- [`record/theory.d/THEORY-1388.md:31`](../../record/theory.d/THEORY-1388.md)
+- [`record/theory.d/THEORY-1392.md:41`](../../record/theory.d/THEORY-1392.md)
+- [`record/theory.d/THEORY-1394.md:35`](../../record/theory.d/THEORY-1394.md)
+- [`record/theory.d/THEORY-1395.md:39`](../../record/theory.d/THEORY-1395.md)
+- [`record/theory.d/THEORY-1396.md:35`](../../record/theory.d/THEORY-1396.md)
+- [`record/theory.d/THEORY-1416.md:41`](../../record/theory.d/THEORY-1416.md)
+- [`record/theory.d/THEORY-1522.md:30`](../../record/theory.d/THEORY-1522.md)
+- [`record/theory.d/THEORY-1592.md:25`](../../record/theory.d/THEORY-1592.md)
+- [`record/theory.d/THEORY-193.md:33`](../../record/theory.d/THEORY-193.md)
+- [`record/theory.d/THEORY-261.md:24`](../../record/theory.d/THEORY-261.md)
+- [`record/theory.d/THEORY-379.md:26`](../../record/theory.d/THEORY-379.md)
+- [`record/theory.d/THEORY-380.md:26`](../../record/theory.d/THEORY-380.md)
+- [`record/theory.d/THEORY-385.md:26`](../../record/theory.d/THEORY-385.md)
+- [`record/theory.d/THEORY-431.md:13`](../../record/theory.d/THEORY-431.md)
+- [`record/theory.d/THEORY-466.md:13`](../../record/theory.d/THEORY-466.md)
+- [`record/theory.d/THEORY-543.md:13`](../../record/theory.d/THEORY-543.md)
+- [`record/theory.d/THEORY-598.md:13`](../../record/theory.d/THEORY-598.md)
+- [`record/theory.d/THEORY-603.md:13`](../../record/theory.d/THEORY-603.md)
+- [`record/theory.d/THEORY-672.md:13`](../../record/theory.d/THEORY-672.md)
+- [`record/theory.d/THEORY-679.md:13`](../../record/theory.d/THEORY-679.md)
+- [`record/theory.d/THEORY-756.md:23`](../../record/theory.d/THEORY-756.md)
+- [`record/theory.d/THEORY-770.md:22`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-831.md:23`](../../record/theory.d/THEORY-831.md)
+- [`record/theory.d/THEORY-866.md:38`](../../record/theory.d/THEORY-866.md)
+- [`record/theory.d/THEORY-870.md:46`](../../record/theory.d/THEORY-870.md)
+- [`record/theory.d/THEORY-953.md:54`](../../record/theory.d/THEORY-953.md)
+- [`record/theory.d/THEORY-993.md:22`](../../record/theory.d/THEORY-993.md)
+
 ### [ADR-082](../../record/decisions.d/ADR-082.md) — Proposed
 
 The nucleating-argument line is split in three: nucleating-argument keeps how an argument drifts, anchors and pays for anchoring; what a record of inquiry keeps and the record as its own apparatus become lines of their own, because their parts barely relate to the rest
@@ -1997,55 +2072,6 @@ The readiness line is split in two: readiness keeps keeping a rare capability an
 - [`record/syntheses.d/SYNTHESIS-032.md:12`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:93`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-043.md:34`](../../record/syntheses.d/SYNTHESIS-043.md)
-
-### [ADR-093](../../record/decisions.d/ADR-093.md) — Proposed
-
-A reading named as evidence in a question's or claim's text is tied when the name is written, supporting cases corroborate, a question's instruments are its premises, and readings used only by cases, terms or syntheses are held as used
-
-42 citations in 41 files await a look; 25 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-273.md:67`](../../record/claims.d/CLAIM-273.md)
-- [`record/claims.d/CLAIM-384.md:25`](../../record/claims.d/CLAIM-384.md)
-- [`record/theory.d/THEORY-1059.md:13`](../../record/theory.d/THEORY-1059.md)
-- [`record/theory.d/THEORY-1061.md:13`](../../record/theory.d/THEORY-1061.md)
-- [`record/theory.d/THEORY-1062.md:13`](../../record/theory.d/THEORY-1062.md)
-- [`record/theory.d/THEORY-1079.md:13`](../../record/theory.d/THEORY-1079.md)
-- [`record/theory.d/THEORY-1084.md:35`](../../record/theory.d/THEORY-1084.md)
-- [`record/theory.d/THEORY-1085.md:13`](../../record/theory.d/THEORY-1085.md)
-- [`record/theory.d/THEORY-1141.md:13`](../../record/theory.d/THEORY-1141.md)
-- [`record/theory.d/THEORY-1163.md:24`](../../record/theory.d/THEORY-1163.md)
-- [`record/theory.d/THEORY-1264.md:13`](../../record/theory.d/THEORY-1264.md)
-- [`record/theory.d/THEORY-1289.md:20`](../../record/theory.d/THEORY-1289.md)
-- [`record/theory.d/THEORY-1290.md:21`](../../record/theory.d/THEORY-1290.md)
-- [`record/theory.d/THEORY-1303.md:13`](../../record/theory.d/THEORY-1303.md)
-- [`record/theory.d/THEORY-1315.md:13`](../../record/theory.d/THEORY-1315.md)
-- [`record/theory.d/THEORY-1332.md:13`](../../record/theory.d/THEORY-1332.md)
-- [`record/theory.d/THEORY-1332.md:18`](../../record/theory.d/THEORY-1332.md)
-- [`record/theory.d/THEORY-1335.md:13`](../../record/theory.d/THEORY-1335.md)
-- [`record/theory.d/THEORY-1338.md:13`](../../record/theory.d/THEORY-1338.md)
-- [`record/theory.d/THEORY-1346.md:13`](../../record/theory.d/THEORY-1346.md)
-- [`record/theory.d/THEORY-1348.md:13`](../../record/theory.d/THEORY-1348.md)
-- [`record/theory.d/THEORY-1388.md:31`](../../record/theory.d/THEORY-1388.md)
-- [`record/theory.d/THEORY-1392.md:41`](../../record/theory.d/THEORY-1392.md)
-- [`record/theory.d/THEORY-1394.md:35`](../../record/theory.d/THEORY-1394.md)
-- [`record/theory.d/THEORY-1395.md:39`](../../record/theory.d/THEORY-1395.md)
-- [`record/theory.d/THEORY-1396.md:35`](../../record/theory.d/THEORY-1396.md)
-- [`record/theory.d/THEORY-1416.md:41`](../../record/theory.d/THEORY-1416.md)
-- [`record/theory.d/THEORY-1522.md:30`](../../record/theory.d/THEORY-1522.md)
-- [`record/theory.d/THEORY-1592.md:25`](../../record/theory.d/THEORY-1592.md)
-- [`record/theory.d/THEORY-193.md:33`](../../record/theory.d/THEORY-193.md)
-- [`record/theory.d/THEORY-261.md:24`](../../record/theory.d/THEORY-261.md)
-- [`record/theory.d/THEORY-379.md:26`](../../record/theory.d/THEORY-379.md)
-- [`record/theory.d/THEORY-380.md:26`](../../record/theory.d/THEORY-380.md)
-- [`record/theory.d/THEORY-385.md:26`](../../record/theory.d/THEORY-385.md)
-- [`record/theory.d/THEORY-543.md:13`](../../record/theory.d/THEORY-543.md)
-- [`record/theory.d/THEORY-598.md:13`](../../record/theory.d/THEORY-598.md)
-- [`record/theory.d/THEORY-603.md:13`](../../record/theory.d/THEORY-603.md)
-- [`record/theory.d/THEORY-756.md:23`](../../record/theory.d/THEORY-756.md)
-- [`record/theory.d/THEORY-866.md:38`](../../record/theory.d/THEORY-866.md)
-- [`record/theory.d/THEORY-870.md:46`](../../record/theory.d/THEORY-870.md)
-- [`record/theory.d/THEORY-953.md:54`](../../record/theory.d/THEORY-953.md)
-- [`record/theory.d/THEORY-993.md:22`](../../record/theory.d/THEORY-993.md)
 
 ### [ADR-077](../../record/decisions.d/ADR-077.md) — Superseded
 
@@ -3092,7 +3118,7 @@ Learned local accommodation can reduce the amortized cost of recurrent arbitrati
 
 No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
-19 citations in 16 files await a look; 141 other citations of it are acknowledged.
+19 citations in 16 files await a look; 145 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1683.md:54`](../../record/literature.d/LIT-1683.md)
 - [`record/literature.d/LIT-1686.md:13`](../../record/literature.d/LIT-1686.md)
@@ -6344,8 +6370,8 @@ The Price equation follows from any ancestor–descendant mapping in a closed po
 - [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:75`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:80`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:83`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:88`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-829.md:13`](../../record/theory.d/THEORY-829.md)
 
 ### [THEORY-787](../../record/theory.d/THEORY-787.md) — Rejected
@@ -6798,7 +6824,7 @@ Neither utility information nor resource holdings, alone or together, can regist
 
 Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology
 
-5 citations in 3 files await a look; 54 other citations of it are acknowledged.
+5 citations in 3 files await a look; 55 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-045.md:37`](../../record/questions.d/QUESTION-045.md)
 - [`record/questions.d/QUESTION-045.md:55`](../../record/questions.d/QUESTION-045.md)
@@ -6945,10 +6971,10 @@ Altruism between non-relatives can be selected when each act costs the giver les
 5 citations in 5 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:124`](../../record/claims.d/CLAIM-039.md)
-- [`record/theory.d/THEORY-408.md:107`](../../record/theory.d/THEORY-408.md)
+- [`record/theory.d/THEORY-408.md:115`](../../record/theory.d/THEORY-408.md)
 - [`record/theory.d/THEORY-468.md:126`](../../record/theory.d/THEORY-468.md)
 - [`record/theory.d/THEORY-655.md:120`](../../record/theory.d/THEORY-655.md)
-- [`record/theory.d/THEORY-672.md:88`](../../record/theory.d/THEORY-672.md)
+- [`record/theory.d/THEORY-672.md:97`](../../record/theory.d/THEORY-672.md)
 
 ### [THEORY-703](../../record/theory.d/THEORY-703.md) — Proposed
 
@@ -10598,7 +10624,7 @@ Social behaviour evolves as if each individual valued a neighbour's fitness agai
 2 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1683.md:54`](../../record/literature.d/LIT-1683.md)
-- [`record/theory.d/THEORY-466.md:84`](../../record/theory.d/THEORY-466.md)
+- [`record/theory.d/THEORY-466.md:93`](../../record/theory.d/THEORY-466.md)
 
 ### [THEORY-872](../../record/theory.d/THEORY-872.md) — Proposed
 

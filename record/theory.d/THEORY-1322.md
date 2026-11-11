@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp3tgdc, the question the second by-topic reading review of
+    bears_on QUESTION-451, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -28,7 +28,7 @@ summary: >-
   symptoms, does not reach externalizing problems, and its measure is
   the one [THEORY-1311](THEORY-1311.md) doubts.
 bears_on:
-- QUESTION-tmp3tgdc
+- QUESTION-451
 ---
 <!-- inactive-ok-file: THEORY-052 THEORY-1311 — Proposed; neighbours cited as open -->
 

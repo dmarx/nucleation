@@ -18,7 +18,7 @@ history:
 - version: 2
   date: '2026-11-11'
   note: >-
-    bears_on QUESTION-tmp6knzg, the question the second by-topic reading review of
+    bears_on QUESTION-453, the question the second by-topic reading review of
     2026-11-11 raised from this reading and others (ADR-091, ADR-093):
     the question names it among its evidence. No other change.
 tags:
@@ -34,7 +34,7 @@ summary: >-
   licenses, predicts nothing until fitness and transmission are specified,
   and fails without closure (migration).
 bears_on:
-- QUESTION-tmp6knzg
+- QUESTION-453
 ---
 
 # THEORY-770: In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure
