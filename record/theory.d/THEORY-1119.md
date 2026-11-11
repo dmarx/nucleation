@@ -4,7 +4,20 @@ status: Active
 formerly:
 - THEORY-tmpy6639
 title: 'Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system''s own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the reading review of 2026-11-11 (by line,
+    organizational-normativity): bears_on QUESTION-128. The question
+    asks whether "norms of function and failure [can] be defined from
+    an organization's own dynamics", and its body cites this work,
+    through THEORY-071, as "Self-generated normativity as a condition
+    of agency"; this entry holds what the paper proposes, normativity
+    "that the system's own organisation sets", and that "optimization
+    according to an externally fixed function" is not agency. Bearing
+    is evidence on the question's first half, not an answer to it.
 tags:
 - agency
 - individuation
@@ -23,6 +36,8 @@ summary: >-
   which turns on an asymmetry criterion its authors call incomplete and
   on applying the conditions to explicit models, stays [THEORY-071](THEORY-071.md)'s
   question, Proposed.
+bears_on:
+- QUESTION-128
 ---
 <!-- inactive-ok-file: THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 

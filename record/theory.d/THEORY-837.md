@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6l5uw
 title: 'In Besley and Prat''s model of an incumbent who can pay n identical outlets to suppress verifiable bad news, where one outlet''s report informs every voter, each outlet''s price for silence is what it would earn as the only one to break the story, so the media are captured exactly when n·τa < r; under capture voters, though fully rational and not deceived, learn nothing and never remove a bad incumbent'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -14,6 +14,19 @@ history:
     step, which meets the condition for Active under ADR-047 v2. The
     observation that capture works without deception, and the contrast
     with persuasion, are the record's.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the reading review of 2026-11-11 (by line,
+    organizational-normativity): corroborates CLAIM-462, that an
+    arrangement "can keep, or increase, its capacity for effective
+    action while its capacity to be effectively corrected by others
+    degrades, because the two are maintained by different relations".
+    Under capture the incumbent keeps office while voters "learn nothing
+    and never remove a bad incumbent", and what is degraded is a relation
+    the incumbent's action does not need, the outlets' report. CLAIM-462
+    grounds on cases and does not need the model, which is one-shot and
+    shows no reproduction.
 tags:
 - society-and-governance
 - game-theory
@@ -28,6 +41,8 @@ summary: >-
   monopoly price. A static, hard-news model. It says nothing about soft
   news, partial bribing, or capture that feeds back on the market that
   permits it, and its cross-country evidence is a raw comparison of means.
+corroborates:
+- CLAIM-462
 ---
 
 # THEORY-837: In Besley and Prat's model of an incumbent who can pay n identical outlets to suppress verifiable bad news, where one outlet's report informs every voter, each outlet's price for silence is what it would earn as the only one to break the story, so the media are captured exactly when n·τa < r; under capture voters, though fully rational and not deceived, learn nothing and never remove a bad incumbent

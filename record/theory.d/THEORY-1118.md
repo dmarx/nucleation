@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmpk6bx2
 title: 'McKenna and Coates argue, with Dryden and with Buss and Westlund, that a condition on free agency stated only in the agent''s present psychological structure is met by an agent whose structure a manipulator installed, so a mesh account must count that agent free or add a historical condition; Frankfurt, read first-hand, takes the first option'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    At the reading review of 2026-11-11 (by line,
+    organizational-normativity): bears_on QUESTION-071, whose summary
+    cites THEORY-040 for the same argument ("any condition stated in
+    present psychological structure"), of which this entry is the
+    Active reading; and bears_on QUESTION-tmpmus93, raised by the same
+    review, which asks whether the choice this argument forces for a
+    person, present structure or a historical condition, goes the same
+    way for an organization that reproduces an installed mechanism.
 tags:
 - agency
 - self-governance
@@ -26,6 +38,9 @@ summary: >-
   were read in full ([NOTE-270](../notes.d/NOTE-270.md), [NOTE-266](../notes.d/NOTE-266.md), [NOTE-267](../notes.d/NOTE-267.md), [NOTE-545](../notes.d/NOTE-545.md), [NOTE-264](../notes.d/NOTE-264.md)).
   Whether any historical condition escapes the argument stays [THEORY-040](THEORY-040.md)'s
   question, Proposed.
+bears_on:
+- QUESTION-tmpmus93
+- QUESTION-071
 ---
 <!-- inactive-ok-file: THEORY-040 — Proposed; the account this is split from, which holds the question whether any historical condition escapes -->
 
