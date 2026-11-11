@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvl8j0
 title: 'Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -21,6 +21,15 @@ history:
     relieved in part; the body already calls it exploitation without full
     relief, and the claim allows two targets at once, so the clause is
     held answered at the ruling.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-389, at the reading review of 2026-11-11 (by
+    question, ADR-091). Its own text separates what the question asks to
+    split, incompatibility from load: "In TERM-060's sense only the first
+    touches frustration; the others act on its load and its consequences",
+    and "Redistribution acts on where its residual or load is carried".
+    Already carries realizability, so no line changes. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,6 +59,7 @@ uses:
 - TERM-060
 bears_on:
 - QUESTION-387
+- QUESTION-389
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

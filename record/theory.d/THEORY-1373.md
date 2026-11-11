@@ -11,7 +11,17 @@ promote_when: >-
   functions per element exceeds that of a gate array realizing the same
   functions by rewiring.
 title: 'Combinational logic built from flat-foldable origami switches can be reconfigured by moving the switching elements rather than rewiring them, by rotating the two elements of a gate between series and parallel or by permuting elements among the blocks of a Rubik''s-cube arrangement, and so reaches more functions per element than a rewired gate array'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-373 and QUESTION-388, at the reading review of
+    2026-11-11 (by question, ADR-091). Both name Hu et al.'s origami logic
+    as reconfiguration set from outside: QUESTION-388 quotes the reading,
+    "The arrangement is the program, and the mechanism that changes it is
+    separate from both the program and the computation"; QUESTION-373
+    lists it under "A robot". No other change.
 tags:
 - natural-sciences
 date: '2026-11-05'
@@ -25,6 +35,9 @@ summary: >-
   against the authors' own baselines. It does not say that the computation
   is purely mechanical, since outputs and inter-gate signals are
   electrical, or that the material reconfigures itself.
+bears_on:
+- QUESTION-373
+- QUESTION-388
 ---
 
 # THEORY-1373: Combinational logic built from flat-foldable origami switches can be reconfigured by moving the switching elements rather than rewiring them, by rotating the two elements of a gate between series and parallel or by permuting elements among the blocks of a Rubik's-cube arrangement, and so reaches more functions per element than a rewired gate array

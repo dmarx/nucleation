@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmp87h
 title: "In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly; along a tensor product of finite-dimensional systems, the pull-back of a constituent's quantity agrees with the composite's own quantity at a context exactly when every projection in it with proper support on the first factor has the form P⊗1, so it fails for every non-scalar quantity and no operator on the composite realises the pull-back"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,15 @@ history:
     maximally entangled projections. The title now states the exact
     condition. The former promote_when's refutation route, a variant of
     the rules that repairs composites, moves to QUESTION-197.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-197, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the refutation route, a variant of "the rules that
+    repairs composites, moves to QUESTION-197"); a question that holds a
+    reading's moved condition takes its bears_on, the reading being its
+    premise (ADR-060, ADR-065). No other change.
 tags:
 - quantum-foundations
 - mathematics
@@ -38,6 +47,8 @@ summary: >-
   contexts V₁⊗ℂ1̂. That it differs elsewhere, and that no operator
   realises it, are asserted. The rules are "partly experimental", and the
   trivial-system rule contradicts the series' own definition of contexts.
+bears_on:
+- QUESTION-197
 ---
 
 <!-- inactive-ok-file: LIT-310 — Proposed; read in full in NOTE-285 and cited as the source of the composite construction whose failure this account proves -->

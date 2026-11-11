@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpe48yq
 title: 'A single flat-foldable degree-4 vertex under a footprint budget: its two folding modes meet only at the flat state, so passing between folded states needs the full flat footprint of 1.866, more than twice what either folded state at 150° takes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -33,6 +33,16 @@ history:
     its dependents use changes. CLAIM-572 and CLAIM-592, which use the
     vertex as an instance, now take it under illustrates rather than
     grounds. Standing fictional is kept.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-390, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question cites it as evidence that the linear
+    precedent does not transfer: "the relations among fold angles are
+    already nonlinear at one vertex: in CASE-206 each mode relates
+    adjacent angles through tan(ρ/2), with inequalities from non-self-
+    intersection." Already carries realizability, so no line changes. No
+    other change.
 standing: fictional
 kind: construction
 tags:
@@ -67,6 +77,8 @@ summary: >-
   al. ([NOTE-1616](../notes.d/NOTE-1616.md)). A mechanical toy; its organizational reading is an
   analogy. The construction is the filer's. Adopting it is the owner's
   call.
+bears_on:
+- QUESTION-390
 ---
 <!-- inactive-ok-file: CASE-204 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
 

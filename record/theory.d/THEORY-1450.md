@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmptmlc7
 title: 'Douglas, Bachelet and Church built a DNA-origami barrel whose opening is governed by two aptamer locks forming a logical AND gate over cell-surface antigen inputs, so that the device stays closed and reconfigures to expose its payload only when both designated keys are present, shorter locks also opening spontaneously more often, with the key concentration needed to open set by the lock-duplex length, activation at about 10 pM for 16 to 23 bp against about 1 nM for 30 to 44 bp'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,14 @@ history:
     quantitative form the AND truth table across the lock-pair versions
     (closed with neither or one key, open with both) and the dependence
     of the key concentration needed to open on lock length.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-388, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question's note of 2026-11-05 calls the barrel
+    "a clean case of the programmable side": its rule "is set at folding
+    by the aptamer sequences installed" and "Nothing in it feeds back on
+    that rule". No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -36,6 +44,7 @@ source:
 - LIT-2136
 bears_on:
 - QUESTION-419
+- QUESTION-388
 summary: >-
   Douglas, Bachelet and Church (2012), [LIT-2136](../literature.d/LIT-2136.md), read in [NOTE-1634](../notes.d/NOTE-1634.md)
   (main text and captions; the Supporting Online Material, with the

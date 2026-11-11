@@ -16,7 +16,7 @@ promote_when: >-
   More examples of features that look split, read from browsers, cannot
   settle it: that is the evidence it rests on now.
 title: 'The features a sparse autoencoder recovers from a language model are a resolution set by the dictionary''s width and sparsity penalty, not a unique set of the model''s units: as the dictionary widens, features split into families of finer features, and splits also merge, so that the number of features is not well-posed'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -27,6 +27,13 @@ history:
     conclusion ("finding the 'correct number of features' may not be
     well-posed"), reached from examples, and their alternative picture of
     an idealized feature set is a conjecture.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-274, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it among its reasons to doubt
+    invariance: features split and merge as the dictionary widens, so "the
+    number of features is not well-posed". No other change.
 tags:
 - representation-learning
 date: '2026-10-26'
@@ -44,6 +51,8 @@ summary: >-
   eleven. The authors offer two pictures, an idealized set seen at varying
   resolution and feature manifolds with no finite description; both deny
   that one width is the right one.
+bears_on:
+- QUESTION-274
 ---
 # THEORY-1016: The features a sparse autoencoder recovers from a language model are a resolution set by the dictionary's width and sparsity penalty, not a unique set of the model's units: as the dictionary widens, features split into families of finer features, and splits also merge, so that the number of features is not well-posed
 

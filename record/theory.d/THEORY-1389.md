@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpelyg5
 title: "Connelly and Whiteley prove that for tensegrity frameworks first-order rigidity implies prestress stability, which implies second-order rigidity, which implies rigidity, give bar-framework examples that none of these implications reverses, and prove that whether a first-order flex extends to second order is decided by a Farkas-type test on the framework's proper self-stresses"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,15 @@ history:
     framework's proper self-stresses". Corrected in the body: the test is
     Corollary 5.2.1, not Theorem 4.3.1, and Figure 9b is a tensegrity
     example.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-383 and QUESTION-389, at the reading review of
+    2026-11-11 (by question, ADR-091). QUESTION-383 names it where stress
+    decides, the order of first-order rigidity, prestress stability,
+    second-order rigidity and rigidity; QUESTION-389 as "Loads that decide
+    motions": a first-order flex extends to second order "exactly when no
+    proper self-stress gives it positive energy". No other change.
 tags:
 - mathematics
 - natural-sciences
@@ -40,6 +49,9 @@ summary: >-
   drawing. It is about local rigidity, not global rigidity, and it does not
   say that every first-order flex of a non-rigid framework extends to a
   finite motion.
+bears_on:
+- QUESTION-383
+- QUESTION-389
 ---
 
 # THEORY-1389: Connelly and Whiteley prove that for tensegrity frameworks first-order rigidity implies prestress stability, which implies second-order rigidity, which implies rigidity, give bar-framework examples that none of these implications reverses, and prove that whether a first-order flex extends to second order is decided by a Farkas-type test on the framework's proper self-stresses

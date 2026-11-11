@@ -12,7 +12,15 @@ promote_when: >-
   a proof, or a computation over periodic triangulated origami beyond the
   paper's, finds no triangulation with nonzero polarization.
 title: 'Chen and colleagues show that marginally rigid origami and kirigami carry a topological polarization, so that a quasi-1D origami strip folds at the edge its pattern angles select and a domain wall between kirigami of different polarizations is flexible though constraints locally match the degrees of freedom, while periodic triangulated origami appears always to have zero polarization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-383, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names Chen et al. (NOTE-1624), read
+    here, as a place the first-order picture breaks: extra zero modes "at
+    linear order which do not extend to higher order". No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -27,6 +35,8 @@ summary: >-
   not say that joining rigid parts creates freedom in general: equal
   polarizations give no wall mode, and walls of the other orientation are
   stressed lines that carry load.
+bears_on:
+- QUESTION-383
 ---
 
 # THEORY-1369: Chen and colleagues show that marginally rigid origami and kirigami carry a topological polarization, so that a quasi-1D origami strip folds at the edge its pattern angles select and a domain wall between kirigami of different polarizations is flexible though constraints locally match the degrees of freedom, while periodic triangulated origami appears always to have zero polarization

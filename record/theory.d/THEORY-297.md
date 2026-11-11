@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp11baf
 title: "A bijection between shapes is equivalent, up to null sets, to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -22,6 +22,15 @@ history:
     which a merely measurable bijection needs. The clause on truncation and
     near-isometries, which the THEORY already disclaimed, moves unchanged to
     QUESTION-138, and the promote_when is removed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-138, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the truncation clause, now "QUESTION-138, and the
+    promote_when is removed"); a question that holds a reading's moved
+    condition takes its bears_on, the reading being its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - mathematics
 date: '2026-10-14'
@@ -35,6 +44,8 @@ summary: >-
   operator runs between two different spaces, but the paper gives no
   structure for a non-invertible or one-way map, and the stability of
   truncated eigenspaces is cited to Kato, not shown.
+bears_on:
+- QUESTION-138
 ---
 
 # THEORY-297: A bijection between shapes is equivalent, up to null sets, to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace

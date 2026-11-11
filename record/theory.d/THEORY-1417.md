@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmppn4nt
 title: 'Zang, Zhao, Misseroni and Paulino show that prestressing Kresling origami cells with controllable springs tunes each cell''s energy barrier and stability continuously, so that reordering the barriers of cells in an assembly makes folding sequences feasible that the unprestressed assembly cannot follow'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,14 @@ history:
     bistability, by prestress, and shows that reordering the barriers of the
     cells in an assembly makes feasible folding sequences that the
     unprestressed assembly cannot follow.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-373, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as its experimenter case:
+    "prestress applied and tuned from outside opens transitions"; its own
+    title, prestress "makes folding sequences feasible that the
+    unprestressed assembly cannot follow". No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -37,6 +45,7 @@ summary: >-
   the 16 that need intermediate states stay unachievable.
 bears_on:
 - QUESTION-405
+- QUESTION-373
 corroborates:
 - CLAIM-568
 ---

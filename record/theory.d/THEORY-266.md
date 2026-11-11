@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmphaadr
 title: "For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 − δ the average generalisation error along an optimisation trajectory is bounded, under a square root, by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries the trajectory's dependence on the sample, and a distortion term 4Lε"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,15 @@ history:
     whether the trajectory's compressibility accounts for
     generalisation, which this account does not claim and its first
     "does not say" disclaims; it moves unchanged to QUESTION-180.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-180, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the evaluation the "does not say" disclaims, which
+    "moves unchanged to QUESTION-180"); a question that holds a reading's
+    moved condition takes its bears_on, the reading being its premise
+    (ADR-060, ADR-065). No other change.
 tags:
 - learning-theory
 - information-theory
@@ -35,6 +44,8 @@ summary: >-
   only that the estimated rate and the test gap fall together over
   learning rates. For FCN4 the plotted rate term is about 3, which is
   vacuous for 0–1 loss.
+bears_on:
+- QUESTION-180
 ---
 
 # THEORY-266: For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 − δ the average generalisation error along an optimisation trajectory is bounded, under a square root, by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries the trajectory's dependence on the sample, and a distortion term 4Lε

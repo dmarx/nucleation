@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgz4cf
 title: 'Information usable by a predictor restricted to a family V can be created by computing on the data, so the data-processing inequality fails for V-information: with Z the exclusive-or of two fair independent bits, linear and one-coordinate families extract nothing about Z from the pair and all of it from their exclusive-or; V-information computed from any function of the source is bounded by the source''s Shannon information when the family''s input-free predictions can match the marginal of the target, and can exceed it otherwise'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -16,6 +16,14 @@ history:
     condition and the counterexample are the record's, re-derived below
     and checked numerically, which meets the condition for Active under
     ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-110, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question's note of 2026-10-21 names it:
+    V-information "recovers CLAIM-199's rule-class case" and "has no cost
+    of recovery", "one of the 'nearest existing tools', not an answer". No
+    other change.
 tags:
 - information-theory
 - learning-theory
@@ -30,6 +38,8 @@ summary: >-
   information never exceeds the source's Shannon information when V can
   predict the marginal of Y without input, and can exceed it when V
   cannot. It says nothing about which family a real observer has.
+bears_on:
+- QUESTION-110
 ---
 
 # THEORY-846: Information usable by a predictor restricted to a family V can be created by computing on the data, so the data-processing inequality fails for V-information: with Z the exclusive-or of two fair independent bits, linear and one-coordinate families extract nothing about Z from the pair and all of it from their exclusive-or; V-information computed from any function of the source is bounded by the source's Shannon information when the family's input-free predictions can match the marginal of the target, and can exceed it otherwise

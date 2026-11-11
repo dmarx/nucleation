@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmcxbv
 title: 'Gopalan, Kolaitis, Maneva and Papadimitriou show that, for Boolean constraint languages with constants, deciding whether two solutions are joined by single-variable flips through solutions is either in polynomial time with components of linear diameter or PSPACE-complete with components of possibly exponential diameter, according to a property of the language that properly contains Schaefer''s tractable classes and does not follow the boundaries of Boolean clones, a boundary Schwerdtfeger later corrected slightly toward the hard side'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,14 @@ history:
     version of the same work, and no discrepancy in a statement is named;
     Schwerdtfeger's quotations of the SIAM statements agree but for the term
     "structurally" for "faithfully". promote_when deleted on promotion.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-377, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question's note of 2026-11-05: Gopalan et al.
+    give "a partial answer in the Boolean setting, by analogy only", a
+    change of constraint language turning st-connectivity of the solution
+    space from polynomial to PSPACE-complete. No other change.
 tags:
 - mathematics
 - operations-research
@@ -38,6 +46,8 @@ summary: >-
 corroborates:
 - CLAIM-573
 - CLAIM-578
+bears_on:
+- QUESTION-377
 ---
 
 # THEORY-1407: Gopalan, Kolaitis, Maneva and Papadimitriou show that, for Boolean constraint languages with constants, deciding whether two solutions are joined by single-variable flips through solutions is either in polynomial time with components of linear diameter or PSPACE-complete with components of possibly exponential diameter, according to a property of the language that properly contains Schaefer's tractable classes and does not follow the boundaries of Boolean clones, a boundary Schwerdtfeger later corrected slightly toward the hard side

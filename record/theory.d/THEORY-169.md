@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpllqzv
 title: 'For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,15 @@ history:
     hold; under ADR-047 v2 the three identities are re-derived in the note
     of 2026-10-19 below. Its scope test, whether the pattern extends to
     further layer classes, moves unchanged to QUESTION-159.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-159, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the scope test for "further layer classes, moves
+    unchanged to QUESTION-159"); a question that holds a reading's moved
+    condition takes its bears_on, the reading being its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - representation-learning
 - learning-theory
@@ -38,6 +47,8 @@ summary: >-
   transformers do gradient descent (the anthology rejects that,
   [ANTH-THEORY-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-068.md)), nor anything about weight updates that persist across
   sequences.
+bears_on:
+- QUESTION-159
 ---
 
 # THEORY-169: For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind

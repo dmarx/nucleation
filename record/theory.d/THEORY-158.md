@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpnp46m
 title: 'For a Markov process on a finite state space, an observable commutes with the generator exactly when its mean and variance are both conserved in every state, which is exactly when it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -22,6 +22,15 @@ history:
     leads with the finite case, and Theorems 2–3 are reported as the
     source's. The general-space clause of the promote_when moves to
     QUESTION-144, and the promote_when is removed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-144, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the general-space clause, now "QUESTION-144, and the
+    promote_when is removed"); a question that holds a reading's moved
+    condition takes its bears_on, the reading being its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -37,6 +46,8 @@ summary: >-
   Markov process can conserve the mean of an observable it does not commute
   with. The theorem covers diagonal observables only; it says nothing about
   symmetries that permute states.
+bears_on:
+- QUESTION-144
 ---
 
 

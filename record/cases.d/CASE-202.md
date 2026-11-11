@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CASE-tmp2p3i2
 title: 'A proposed study: two small constrained mechanisms that agree under a restricted family of probes and differ internally, probed at rising budgets, to find when they become distinguishable, what the distinguishing operations cost and whether the distinctions survive a change of architecture, with controls that separate finding a difference from making one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-382, at the reading review of 2026-11-11 (by
+    question, ADR-091), as a proposed study that would test it (ADR-092).
+    Its own note of 2026-11-05: of A's target results "the third is
+    QUESTION-382"; the question: "CASE-202's study is a design that could
+    supply the maintenance example." Already carries realizability, so no
+    line changes. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -31,6 +41,8 @@ summary: >-
   seed in [CLAIM-583](../claims.d/CLAIM-583.md)'s pair. The design is A's, with the seed and the
   readouts' tie to [CLAIM-574](../claims.d/CLAIM-574.md) the filer's; adopting it is the owner's
   call.
+bears_on:
+- QUESTION-382
 ---
 
 # CASE-202: A proposed study: two small constrained mechanisms that agree under a restricted family of probes and differ internally, probed at rising budgets, to find when they become distinguishable, what the distinguishing operations cost and whether the distinctions survive a change of architecture, with controls that separate finding a difference from making one

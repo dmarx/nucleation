@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CASE-tmpez9ok
 title: 'The square twist: a crease pattern with no rigid folding motion folds once facet bending is paid for, so which configurations are connected depends on the energy available'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-391, at the reading review of 2026-11-11 (by
+    question, ADR-091), as an instance (ADR-092). The question's note of
+    2026-11-05 "reads the square twist (CASE-207) as a case of this
+    question"; its own text, "A constraint below one energy scale, facet
+    planarity, is a degree of freedom above it." Already carries
+    realizability, so no line changes. No other change.
 standing: documented
 kind: reported-study
 tags:
@@ -36,6 +46,8 @@ summary: >-
   under a budget ([CASE-206](CASE-206.md)) to the curved vertex whose moves no
   budget widens ([CASE-204](CASE-204.md)). A mechanical study; its organizational
   reading is an analogy. Adopting it is the owner's call.
+bears_on:
+- QUESTION-391
 ---
 <!-- inactive-ok-file: CLAIM-478 CASE-204 — Proposed; the entries filed beside it, cited as filed, nothing here rests on their being settled -->
 

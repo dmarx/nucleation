@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3dh4x
 title: 'In the algebraic Hamiltonian setting, symmetry and conservation correspond because the bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the theorem''s content lies in identifying observables with generators'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,15 @@ history:
     the promote_when's clause about it moves to QUESTION-142. The
     title's last clause reports Baez's reading, which the body already marks
     as interpretation. The promote_when is removed. The title is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-142, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when ("the promote_when's clause about it moves to
+    QUESTION-142"); a question that holds a reading's moved condition
+    takes its bears_on, the reading being its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - mathematics
 - natural-sciences
@@ -36,6 +45,8 @@ summary: >-
   reversible one-parameter groups and an observable–generator map; it says
   nothing about dissipative or stochastic dynamics, nor about the
   Lagrangian form of Noether's theorem.
+bears_on:
+- QUESTION-142
 ---
 
 

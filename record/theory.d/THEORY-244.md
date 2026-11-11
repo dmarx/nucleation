@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7cr5e
 title: "For a computable source distribution f, Shannon entropy and mutual information are the expectations of their Kolmogorov counterparts only to within the complexity of f: 0 ≤ E K(x) − H(f) ≤ K(f) + O(1), and I(X;Y) − K(f) − O(1) ≤ E I(x:y) ≤ I(X;Y) + 2K(f) + O(1); Grünwald and Vitányi's matching statement for the distortion-rate function rests on a step the record has not verified"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,15 @@ history:
     distortion-rate bridge (Theorem 6.27), the one clause that promote_when
     waited on, leaves the title's assertion and is reported as unverified;
     its clause of the promote_when moves to QUESTION-208.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-208, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the distortion-rate bridge: "its clause of the
+    promote_when moves to QUESTION-208"); a question that holds a
+    reading's moved condition takes its bears_on, the reading being its
+    premise (ADR-060, ADR-065). No other change.
 tags:
 - information-theory
 - learning-theory
@@ -34,6 +43,8 @@ summary: >-
   that bridge is not part of this account's claim ([QUESTION-208](../questions.d/QUESTION-208.md)).
   Sufficiency links only one way (Thm 5.13). None of this holds for a
   complex or unknown source, or for one string.
+bears_on:
+- QUESTION-208
 ---
 <!-- inactive-ok-file: THEORY-277 THEORY-157 — Proposed; the companion theory filed today and the entries named under Connections -->
 

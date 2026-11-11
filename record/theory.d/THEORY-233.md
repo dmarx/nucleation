@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpip5os
 title: "CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,15 @@ history:
     disagree, tests something the THEORY does not claim. It moves unchanged
     to QUESTION-140. The promote_when is removed. The claim is
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-140, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the measurement on trained networks, "to QUESTION-140.
+    The promote_when is removed"); a question that holds a reading's moved
+    condition takes its bears_on, the reading being its premise (ADR-060,
+    ADR-065). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -33,6 +42,8 @@ summary: >-
   square-root kernels, with equality for commuting kernels. Linear kernels
   only, and the discrepancy is illustrated on Wishart samples, not trained
   networks.
+bears_on:
+- QUESTION-140
 ---
 <!-- inactive-ok-file: THEORY-002 — Proposed; cited for context, nothing here rests on them -->
 

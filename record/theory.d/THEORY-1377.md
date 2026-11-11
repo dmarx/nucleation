@@ -11,7 +11,16 @@ promote_when: >-
   selection rule, the number of candidates sampled per step and the
   fraction of triangular facets as Li and Choi report.
 title: 'Li and Choi show that the rigidity of general origami patterns can be tuned by enforcing or relaxing the planarity of selected facets, and that the critical density at which a pattern reaches its minimum number of degrees of freedom depends on the facet-selection rule, the number of candidates sampled per step and the fraction of triangular facets'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-377, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as a mechanical case:
+    enforcing or relaxing facet planarity gives "critical densities at
+    which the structure's rigidity changes"; its own title, the critical
+    density "depends on the facet-selection rule". No other change.
 tags:
 - mathematics
 - natural-sciences
@@ -26,6 +35,8 @@ summary: >-
   numerical, and the formula for it is fitted, not derived. Rigidity is
   infinitesimal at one folded configuration, and the "critical density"
   is a fixed-size statistic, not a thermodynamic threshold.
+bears_on:
+- QUESTION-377
 ---
 
 # THEORY-1377: Li and Choi show that the rigidity of general origami patterns can be tuned by enforcing or relaxing the planarity of selected facets, and that the critical density at which a pattern reaches its minimum number of degrees of freedom depends on the facet-selection rule, the number of candidates sampled per step and the fraction of triangular facets

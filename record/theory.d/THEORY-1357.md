@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4s0in
 title: 'Lake, Salakhutdinov and Tenenbaum report that a model representing handwritten characters as probabilistic programs, composing strokes from primitives fit to 30 background alphabets into types whose executions give tokens, erred 3.3% against people''s 4.5% on 20-way one-shot classification within 10 held-out Omniglot alphabets, and that judges identified its exemplars and new characters at 49–59%, near chance; removing compositionality raised its error to 14.0% and made its productions easier to detect, inflating its learned token-level variability raised error to 11.0% and made exemplars easier to detect, and replacing its learned type-level priors with uniform ones left classification unchanged (3.5%) and exemplars not reliably easier to detect, but made its new characters easier to detect (64–69%)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -32,6 +32,15 @@ history:
     accuracy, that its generated exemplars and characters are near chance in
     human-against-machine identification, and that the lesions without
     compositionality or without learned priors do worse on both.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-446, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the independent replication; "replication is
+    QUESTION-446's"); a question that holds a reading's moved condition
+    takes its bears_on, the reading being its premise (ADR-060, ADR-065).
+    No other change.
 tags:
 - cognition
 - compositionality
@@ -50,6 +59,8 @@ summary: >-
   with the Supplementary Materials' lesions and controls. Independent
   replication is QUESTION-446's. The wording is the reader's; adopting it is the
   owner's call.
+bears_on:
+- QUESTION-446
 ---
 
 # THEORY-1357: Lake, Salakhutdinov and Tenenbaum report that a model representing handwritten characters as probabilistic programs, composing strokes from primitives fit to 30 background alphabets into types whose executions give tokens, erred 3.3% against people's 4.5% on 20-way one-shot classification within 10 held-out Omniglot alphabets, and that judges identified its exemplars and new characters at 49–59%, near chance; removing compositionality raised its error to 14.0% and made its productions easier to detect, inflating its learned token-level variability raised error to 11.0% and made exemplars easier to detect, and replacing its learned type-level priors with uniform ones left classification unchanged (3.5%) and exemplars not reliably easier to detect, but made its new characters easier to detect (64–69%)

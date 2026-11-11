@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7x3wf
 title: 'For finite action-free labelled Markov chains, the discounted bisimulation metric, defined as the unique fixed point of Ferns et al.''s equation, is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,14 @@ history:
     LIT-962 is refereed (NeurIPS 2024), and both steps were re-derived for
     the review by an independent route, written out in the note below. The
     promote_when is removed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-384, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as the behavioural side of
+    the comparison it asks for: "the discounted bisimulation metric of
+    finite action-free labelled Markov chains as a bicausal optimal-
+    transport distance". No other change.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -36,6 +44,8 @@ summary: >-
   couplings, under flow and coherence constraints (Lemma 1, Theorem 1).
   It says nothing of systems with actions. Its link to trace distance is
   one-way and second-hand.
+bears_on:
+- QUESTION-384
 ---
 <!-- inactive-ok-file: QUESTION-008 CLAIM-034 — Deferred or Proposed; the set-aside question this bears on, its surviving one-way claim, and the companion account filed the same day, cited as open -->
 

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmppgbfq
 title: "A pseudorandom generator exists if and only if a one-way function exists, where both are secure against uniform adversaries and every reduction is an oracle Turing machine, as statements about ensembles indexed by n; the construction from an arbitrary one-way function is only weak-preserving, so security at one length is bought at a much greater one"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-110, at the reading review of 2026-11-11 (by
+    question, ADR-091). Its own text: "QUESTION-110: the time-success
+    ratio is a worked cost of recovery that folds the success criterion
+    into the cost". No other change.
 tags:
 - mathematics
 - information-theory
@@ -23,6 +31,8 @@ summary: >-
   over to non-uniform adversaries is the reading's inference, not the paper's
   statement. Everything is asymptotic. Goldreich states the theorem and does not
   prove it.
+bears_on:
+- QUESTION-110
 ---
 
 # THEORY-352: A pseudorandom generator exists if and only if a one-way function exists, where both are secure against uniform adversaries and every reduction is an oracle Turing machine, as statements about ensembles indexed by n; the construction from an arbitrary one-way function is only weak-preserving, so security at one length is bought at a much greater one

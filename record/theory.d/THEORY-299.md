@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp2q47k
 title: 'Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf of vector spaces pulled back from the schema, each triple scored by a norm of the coboundary on its edge and, in the squared-Euclidean form, the whole graph by the sheaf Laplacian; since the zero cochain is always a global section, what they learn is a contrastive margin, not the existence of a section'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,14 @@ history:
     owner's rule of 2026-10-19 (ADR-047), the re-derivation meets the
     request for a second check of the identifications. The promote_when is
     removed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-148, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the bilinear-models clause, "It moves to QUESTION-148");
+    a question that holds a reading's moved condition takes its bears_on,
+    the reading being its premise (ADR-060, ADR-065). No other change.
 tags:
 - mathematics
 - representation-learning
@@ -38,6 +46,8 @@ summary: >-
   trivial here, and that the only gluing question is whether fixed data
   extend, is the paper's own remark taken further by the record; it is
   what separates this use of sheaves from the contextuality line.
+bears_on:
+- QUESTION-148
 ---
 <!-- inactive-ok-file: LIT-276 THEORY-024 — Rejected; named for contrast, not leaned on: LIT-276 for NOTE-249's finding that it has no connection to this paper, THEORY-024 as a neighbouring use of global sections -->
 

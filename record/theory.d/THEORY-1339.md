@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprb3rb
 title: 'In Lu et al.''s synthetic multi-turn conversations, with frontier models playing the user (100 conversations of up to 15 turns per domain, three target and three user models), the mean position of a chat model''s responses along the Assistant Axis stays in the Assistant range in coding conversations and, apart from some drift in Gemma, in writing ones, and drifts to the non-Assistant end in therapy-like and AI-philosophy ones; ridge regression on embeddings of the latest user message predicts the next response''s position (R² 0.53–0.77) but not its change from the previous response (R² 0.10), from which the authors infer that position depends most strongly on the most recent user message rather than on where it was before, the message itself depending on the conversation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -33,6 +33,15 @@ history:
     predicts held-out trajectories better than both an episode-fixed persona
     and independent per-turn draws. More simulated conversations, or more case
     studies, would not settle it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-443, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question holds this reading's former
+    promote_when (the human-user replication, which "moves, with the
+    replication the promote_when demanded, to QUESTION-443"); a question
+    that holds a reading's moved condition takes its bears_on, the reading
+    being its premise (ADR-060, ADR-065). No other change.
 tags:
 - representation-learning
 - self
@@ -45,6 +54,8 @@ summary: >-
   frontier models playing the user. Active as the reported measurements
   with their design. Whether the same holds with human users, and whether
   a per-turn model beats an episode-fixed persona, is QUESTION-443's.
+bears_on:
+- QUESTION-443
 ---
 
 # THEORY-1339: In Lu et al.'s synthetic multi-turn conversations, with frontier models playing the user (100 conversations of up to 15 turns per domain, three target and three user models), the mean position of a chat model's responses along the Assistant Axis stays in the Assistant range in coding conversations and, apart from some drift in Gemma, in writing ones, and drifts to the non-Assistant end in therapy-like and AI-philosophy ones; ridge regression on embeddings of the latest user message predicts the next response's position (R² 0.53–0.77) but not its change from the previous response (R² 0.10), from which the authors infer that position depends most strongly on the most recent user message rather than on where it was before, the message itself depending on the conversation

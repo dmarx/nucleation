@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg7w69
 title: 'Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -64,6 +64,17 @@ history:
     question without answering it: its distinctions are drawn by probes, not
     by sufficient partitions for prediction. Reading review of 2026-11-11,
     by question. No other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-384, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question is about restricted profiles ("So the
+    question is about restricted profiles: which probe families make the
+    profile's distinctions those of a behavioural pseudometric"), and
+    names this claim's "restricted profiles at a budget" as the relational
+    side it holds; the claim's own title, distinctions drawn by restricted
+    Yoneda profiles "only grow as nested probe families grow". Already
+    carries realizability, so no line changes. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -102,6 +113,7 @@ bears_on:
 - QUESTION-031
 - QUESTION-393
 - QUESTION-104
+- QUESTION-384
 summary: >-
   A's proposal, from the owner's paste of 2026-11-05 (latest), A's
   "Yoneda, individuation, and resource-bounded objects" §2, merged with

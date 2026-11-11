@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplbzq5
 title: 'In sparse autoencoders of about 1M, 4M and 34M features on Claude 3 Sonnet''s middle-layer residual stream, whether a concept among chemical elements, cities, animals and foods had a dedicated feature depended on how often it occurs in the training data: the frequency at which a concept became more than 50% likely to have one was slightly below one over the number of live features, and the three dictionaries'' curves roughly coincided when frequency was rescaled by that number'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,14 @@ history:
     record contradicts it (ADR-047 v3). The extrapolation to "a billion
     alive features" for a once-in-a-billion concept, and the Zipf
     speculation, are the authors' and are not claimed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-274, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it among its reasons to doubt
+    invariance: whether a concept gets a dedicated feature "depends on its
+    training frequency relative to the dictionary's size". No other
+    change.
 tags:
 - representation-learning
 date: '2026-10-26'
@@ -29,6 +37,8 @@ summary: >-
   although the model names them all. It does not separate frequency in the
   model's training data from frequency in the autoencoder's, which the
   authors say are similar mixtures.
+bears_on:
+- QUESTION-274
 ---
 <!-- inactive-ok-file: THEORY-1016 — Proposed; the accounts and claim this one bears on, cited as open -->
 # THEORY-992: In sparse autoencoders of about 1M, 4M and 34M features on Claude 3 Sonnet's middle-layer residual stream, whether a concept among chemical elements, cities, animals and foods had a dedicated feature depended on how often it occurs in the training data: the frequency at which a concept became more than 50% likely to have one was slightly below one over the number of live features, and the three dictionaries' curves roughly coincided when frequency was rescaled by that number

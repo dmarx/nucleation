@@ -10,7 +10,17 @@ promote_when: >-
   programming done only by the path of an actuator steered by the array's
   own origami logic.
 title: 'An array of non-volatile bistable origami switches laid out one module per minterm can be programmed to any combinational function of its inputs by a mobile actuator that sets the modules it passes, so programmability moves from rewiring into an addressing path that origami logic itself steers'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-373 and QUESTION-388, at the reading review of
+    2026-11-11 (by question, ADR-091). Both name the robot-programmed
+    switch array as reconfiguration supplied from outside: QUESTION-388
+    quotes the reading, "Programming is external: the function is set by a
+    magnet layout designed outside the device, which the robot only
+    executes". No other change.
 tags:
 - natural-sciences
 date: '2026-11-05'
@@ -23,6 +33,9 @@ summary: >-
   pre-built minterm modules. It does not say that the device programs
   itself: the address path is fixed by a magnet layout designed outside
   it, and the robot runs on electric motors.
+bears_on:
+- QUESTION-373
+- QUESTION-388
 ---
 
 # THEORY-1400: An array of non-volatile bistable origami switches laid out one module per minterm can be programmed to any combinational function of its inputs by a mobile actuator that sets the modules it passes, so programmability moves from rewiring into an addressing path that origami logic itself steers

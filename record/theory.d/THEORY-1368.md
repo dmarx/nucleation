@@ -11,7 +11,17 @@ promote_when: >-
   freedom, connectivity percolation and rigidity percolation are distinct
   and ordered ρ_i < ρ_c < ρ_r.
 title: 'Chen, Choi and Mahadevan show that in a quad kirigami sheet read as a linkage the fewest links that rigidify the sheet always outnumber the fewest that connect it, and that under random links the maximum of internal mechanisms, connectivity percolation and rigidity percolation fall at distinct link densities in that order'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-377, at the reading review of 2026-11-11 (by
+    question, ADR-091). The question names it as a mechanical case of its
+    threshold: the kirigami sheet's connectivity and freedoms are
+    controlled by which links remain, with "percolation-like transitions";
+    its own title, mechanisms, connectivity and rigidity percolation "fall
+    at distinct link densities". No other change.
 tags:
 - mathematics
 - natural-sciences
@@ -28,6 +38,8 @@ summary: >-
   Planar quad kirigami and infinitesimal rigidity only; no experiments.
 corroborates:
 - CLAIM-562
+bears_on:
+- QUESTION-377
 ---
 
 # THEORY-1368: Chen, Choi and Mahadevan show that in a quad kirigami sheet read as a linkage the fewest links that rigidify the sheet always outnumber the fewest that connect it, and that under random links the maximum of internal mechanisms, connectivity percolation and rigidity percolation fall at distinct link densities in that order

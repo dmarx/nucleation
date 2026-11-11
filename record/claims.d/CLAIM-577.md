@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplo4ca
 title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -39,6 +39,17 @@ history:
     anyone wanting it": evidence for the question, not an answer to it.
     Under ADR-085 the relation gives this claim QUESTION-386's first
     line, readiness, which it already carries. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-373, at the reading review of 2026-11-11 (by
+    question, ADR-091). Its own title: a transition whose threshold
+    exceeds the holding cost is lost "unless the budget is raised from
+    outside by at least the difference", which is who supplies the
+    resource across the bottleneck; the question: "CLAIM-577 says one
+    condition it needs: a budget rule that does not pin the reserve to the
+    holding cost." Carries realizability, QUESTION-373's first line, after
+    its own (ADR-085). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -58,6 +69,7 @@ date: '2026-11-05'
 line:
 - readiness
 - formal-apparatus
+- realizability
 rests_on:
 - CLAIM-571
 complements:
@@ -81,6 +93,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 bears_on:
 - QUESTION-386
+- QUESTION-373
 ---
 <!-- inactive-ok-file: CASE-200 CASE-203 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
