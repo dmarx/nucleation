@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7jall
 title: 'In a dynamical model anchored to an identified mechanism, holding one part''s variable fixed and finding that the phenomenon persists indicates that the part is not a component of the mechanism responsible for that phenomenon, as when Smolen et al. fixed CLOCK and circadian oscillation continued; the verdict is relative to the phenomenon and only as good as the model, and it decides which pathways the phenomenon needs, not which lie inside the system'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-01'
@@ -13,6 +13,16 @@ history:
     Abrahamsen in full. The inference is elementary for a model, and the
     caveats are the paper's own (pp. 325–326). One exemplar; the paper
     does not report whether the clamp's verdict was confirmed in vivo.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-414. The claim's note
+    of 2026-11-01 calls the clamp of this reading the mechanists' form
+    of its own separating intervention and says the readings "agree
+    with the claim's second limit, that knowing the mechanisms tells
+    the systems apart": a supporting parallel the claim does not need
+    (ADR-058). No other change.
 tags:
 - philosophy-of-science
 - philosophy-of-biology
@@ -28,6 +38,8 @@ summary: >-
   responsible mechanism for that particular phenomenon". The clamp is an
   ideal intervention, cheap in a model and hard in vivo. It is not a test
   of where the system's boundary lies.
+corroborates:
+- CLAIM-414
 ---
 
 # THEORY-1289: In a dynamical model anchored to an identified mechanism, holding one part's variable fixed and finding that the phenomenon persists indicates that the part is not a component of the mechanism responsible for that phenomenon, as when Smolen et al. fixed CLOCK and circadian oscillation continued; the verdict is relative to the phenomenon and only as good as the model, and it decides which pathways the phenomenon needs, not which lie inside the system

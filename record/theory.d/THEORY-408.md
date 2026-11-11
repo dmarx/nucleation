@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmp15rjw
 title: "In a one-locus model with non-overlapping generations, random mating and weak selection, gene frequencies change as if each individual maximized its inclusive fitness, so a trait that costs its bearer spreads only if its effect on relatives exceeds 1/r times the cost; the increase of mean inclusive fitness is proved only for traits whose total effect on others is not negative"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-491, whose body argues what
+    this reading shows: "Hamilton's rule ... values others' fitness
+    by relatedness, as if the self's genetic interest extended to
+    kin", support "only by analogy" by the claim's own account.
+    THEORY-655, from the same work and a companion, already
+    corroborates it. No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -20,7 +31,10 @@ summary: >-
   The maximization theorem needs non-negative total effects on others; for
   harming traits the change only points uphill. r is exact only for loci not
   under selection, and Hamilton could not bound the error (§4).
+corroborates:
+- CLAIM-491
 ---
+<!-- inactive-ok-file: CLAIM-491 THEORY-655 ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the kin domain it credits to "Hamilton, 1964" -->
 

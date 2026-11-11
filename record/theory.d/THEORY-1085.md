@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmprfjii
 title: 'In Toner and Tu''s hydrodynamic theory, a flock''s ordered state is a broken continuous symmetry of a coarse-grained velocity field: speed fluctuations relax in a finite time of order 1/α and are dropped, leaving as slow degrees of freedom the transverse velocity and the conserved density, which propagate as sound at ω = ±cq⊥; no individual member appears in the description, which is offered for a universality class of microscopic rules'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-478 and bears_on
+    QUESTION-281 added. CLAIM-478's note: "Toner and Tu 1995 (NOTE-1228;
+    THEORY-1085) give a flock's case" of its first half. QUESTION-281's
+    note: "Toner and Tu 1995 is a worked case of creation and
+    stabilization coming apart (NOTE-1228)". No other change.
 tags:
 - complex-systems
 - natural-sciences
@@ -18,6 +28,10 @@ summary: >-
   in the text (pp. 3–8). It does not say that the theory's exponents are
   right ([THEORY-1095](THEORY-1095.md)), that the universality claim holds, or that the
   order so described is an agent or an individual.
+corroborates:
+- CLAIM-478
+bears_on:
+- QUESTION-281
 ---
 <!-- inactive-ok-file: THEORY-1095 CLAIM-478 CLAIM-157 — Proposed or Open; neighbours cited as open -->
 

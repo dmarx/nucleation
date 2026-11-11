@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpeq5py
 title: 'On Isaac''s structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; he concedes that the convergence observed is coarse, with discrepancies that in many cases exceed each method''s own uncertainty, and that because the models average over subjects what they converge on is a standard observer'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-25'
@@ -47,6 +47,16 @@ history:
     colour and odour metrics hold." It moves word for word to
     THEORY-1204, Proposed, which carries Isaac's thesis and extends this
     entry (ADR-065 §3; ADR-047, kind 1).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-048. The question asks
+    what report and other behavioural evidence "each establish about
+    experience as opposed to access"; this reading is Isaac's answer
+    for quality-space models, convergence across behavioural
+    procedures, with his own concessions that the convergence is
+    coarse and targets a standard observer. No other change.
 tags:
 - consciousness
 - philosophy-of-science
@@ -63,6 +73,8 @@ summary: >-
   shared decision process as the common factor, the convergence is
   partial by the paper's own account, and averaging over subjects makes
   the target an ideal observer, which the paper leaves as an open puzzle.
+bears_on:
+- QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-868 THEORY-880 CLAIM-138 — Proposed; the structuralist accounts and the claim this one is set beside, nothing here rests on their being settled -->
 # THEORY-953: On Isaac's structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; he concedes that the convergence observed is coarse, with discrepancies that in many cases exceed each method's own uncertainty, and that because the models average over subjects what they converge on is a standard observer

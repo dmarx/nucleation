@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgeseh
 title: 'Chou, Chua, Teo and Zheng report that Jordan and Graves found by simulation that limited flexibility configured as a chain gives most of the expected sales of full flexibility, and prove that for balanced plants with independent, identically distributed symmetric demand the long chain keeps about 89.6% (uniform) and 96% (normal, coefficient of variation 0.33) of full flexibility''s expected sales as the system grows, a smaller share of its gain over dedicated plants, and less for more variable demand'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-04'
@@ -34,6 +34,14 @@ history:
     1995) is read and states that a chaining configuration of limited
     flexibility attains nearly all the expected sales of full flexibility
     in its simulations."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-520 added. The claim's
+    note of 2026-11-04 on Chou et al. (NOTE-1604): "It supports the claim
+    in kind. Full flexibility is costly, and a sparse long chain keeps at
+    least 89% ... of its expected sales". No other change.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -52,6 +60,8 @@ summary: >-
   flexibility's. Two-point demand gives 75% of sales. Active as a report of
   the neighbour. With correlated demand a sparse structure can serve almost
   none of it.
+corroborates:
+- CLAIM-520
 ---
 <!-- inactive-ok-file: LIT-2045 — Unfetched; the unread original the neighbour reports, cited as open -->
 

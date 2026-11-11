@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpx0kxz
 title: 'In Froese''s Irruption Theory an agent''s motivations make a difference to behaviour only as an increase in its material underdetermination, measurable at best indirectly as neural or behavioural entropy, and such irruptions are by the theory''s own terms undirected: scaled up by chaos, 1/f noise or criticality, they loosen the current organization but "cannot force the formation of the behavior that is to come", so the theory places behaviour''s direction in the body''s attunement and not in the irruption'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-533. The claim's note
+    of 2026-11-03, "A libertarian concedes the core", quotes Froese
+    (NOTE-1521) that amplified irruptions "cannot directly control …
+    cannot force the formation of the behavior that is to come", which
+    is this reading's undirected irruption. Evidence the claim does
+    not need (ADR-058). No other change.
 tags:
 - free-will
 - agency
@@ -19,6 +30,8 @@ summary: >-
   undirected, all in the text (§§5.1–5.2.3). It does not say that the
   theory is true, that neural entropy measures motivation, or that
   attunement answers the luck objection ([THEORY-1321](THEORY-1321.md), Proposed).
+corroborates:
+- CLAIM-533
 ---
 <!-- inactive-ok-file: THEORY-1321 — Proposed; the companion THEORY and the claim this bears on, cited as open -->
 

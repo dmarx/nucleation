@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpy3r99
 title: 'St John holds that Burning Man''s gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -31,6 +31,17 @@ history:
     registered and placed. Not satisfied by the organization's own
     statements of what gifting should be, nor by evidence that the
     placement reform worked, which the account does not assert.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-603, whose "What the gift
+    readings add" reads St John's account as generalized
+    reciprocity, "the return goes to the community through later
+    work, not back to the giver", and concludes that what separates
+    such gifts from aid "is whether the receiver has any path by
+    which to give". An instance of the reciprocal form the claim
+    does not need. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -46,7 +57,10 @@ summary: >-
   Mauss's binding gift can be observed there too. Nor does it say that
   the placement reform reduced non-participation, or anything about
   capability lost or kept by those who receive.
+corroborates:
+- CLAIM-603
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of St John (2017) as open -->
 
 # THEORY-1497: St John holds that Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed

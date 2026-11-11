@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplydnj
 title: 'Under Szeidl and Szucs''s structural model and its identifying assumptions (an owner''s ideology fixed across episodes; the government''s online advertising budget not driven by the outlets'' slant), both owner ideology and favor exchange drove the Hungarian portal Origo''s reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner''s ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-21'
@@ -34,6 +34,16 @@ history:
     It moves word for word to THEORY-1217, Proposed, which carries the
     unconditional finding the paper asserts and extends this entry (ADR-065
     §3 and §7; ADR-047, kind 1).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-407, whose body gives Szeidl
+    and Szucs's model as "An instance of the shape outside the
+    record": "a ban on targeted government advertising, an
+    intervention on the mechanism, tells them apart". An instance
+    the claim does not need. CLAIM-404 and QUESTION-253 cite it only
+    to set it aside and take nothing. No other change.
 tags:
 - society-and-governance
 - social-science
@@ -49,7 +59,10 @@ summary: >-
   decomposition and counterfactual ban. Conditional on a static model per
   episode, on advertising being the only reward and corruption coverage
   the only slant, and on the identifying assumptions.
+corroborates:
+- CLAIM-407
 ---
+<!-- inactive-ok-file: QUESTION-253 ADR-091 ADR-tmpkuzwl — Proposed or Answered; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-852: Under Szeidl and Szucs's structural model and its identifying assumptions (an owner's ideology fixed across episodes; the government's online advertising budget not driven by the outlets' slant), both owner ideology and favor exchange drove the Hungarian portal Origo's reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner's ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%
 

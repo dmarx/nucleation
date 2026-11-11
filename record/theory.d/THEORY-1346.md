@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpvy87o
 title: 'In rat cortical slices with synapses blocked, extracellular fields of the local field potential''s size, applied by an electrode, shift the membrane potential of layer 5 pyramidal neurons by less than 0.5 mV at frequencies up to 100 Hz and, with spiking driven by current, phase-lock spike times without changing spike counts, most effectively for slow fields, and synchronize nearby neurons; the authors explain the effect by Kirchhoff''s circuit laws and a fixed firing threshold'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-478. The claim's note
+    of 2026-11-03, "slowing is not a sign of new organization", calls Anastassiou et al. (NOTE-1516)
+    "a neural case of the first half: a slow field constrains fast
+    spike timing without setting spike counts, most effectively when
+    slow, though there the slowness is imposed": an instance the claim
+    does not need (ADR-058). No other change.
 tags:
 - neuroscience
 date: '2026-11-03'
@@ -18,7 +29,10 @@ summary: >-
   this in vivo, that ephaptic coupling bears on attention or experience,
   or that it is evidence against micro-level description, which is the
   use Jennings makes of it ([LIT-1963](../literature.d/LIT-1963.md), p. 35).
+corroborates:
+- CLAIM-478
 ---
+<!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this reading corroborates, as an instance it does not need -->
 
 # THEORY-1346: In rat cortical slices with synapses blocked, extracellular fields of the local field potential's size, applied by an electrode, shift the membrane potential of layer 5 pyramidal neurons by less than 0.5 mV at frequencies up to 100 Hz and, with spiking driven by current, phase-lock spike times without changing spike counts, most effectively for slow fields, and synchronize nearby neurons; the authors explain the effect by Kirchhoff's circuit laws and a fixed firing threshold
 

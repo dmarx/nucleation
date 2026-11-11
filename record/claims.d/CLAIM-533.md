@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpex9rg
 title: 'The sensitivity that formal chaos gives a will''s dynamics is not control over them: in Kane''s self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent''s efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent''s is how its own control couples to the amplifying directions, relative to noise and to other parties'' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -49,6 +49,17 @@ history:
     record has not read it." The restated condition names what such an
     account would have to do and why the reply, read, does not. Nothing in
     the record meets the condition; the status stays Active.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: grounds += THEORY-1323, the reading of LIT-1958,
+    on which the claim already grounds. The body's "Slow modes
+    decide what lasts" cites it, and the title's last clause, "under
+    weak noise what amplification touches lasts only where it
+    reaches the slow modes", rests on it as an unproved premise
+    (ADR-tmpkuzwl, 6). The LIT-1958 edge is left for a defect sweep
+    (ADR-058). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,6 +88,7 @@ grounds:
 - LIT-1961
 - LIT-1958
 - THEORY-121
+- THEORY-1323
 complements:
 - CLAIM-404
 - CLAIM-478
@@ -94,6 +106,7 @@ summary: >-
   filed as [CLAIM-354](CLAIM-354.md) and [CLAIM-345](CLAIM-345.md), and the sensitivity half had no code.
   This is its second appearance. Its demonstrated part is [CLAIM-542](CLAIM-542.md).
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1329 THEORY-1328 — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-1535 THEORY-1302 THEORY-1321 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-478 LIT-1985 LIT-1997 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->

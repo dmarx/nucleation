@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmphslyk
 title: "Diffusion can destabilise a homogeneous steady state of reacting chemicals that is stable without it: a disturbance of one finite wave-length grows while uniform and very short ones decay, so a stationary pattern appears whose spacing is set by the reaction and diffusion constants and only its phase by the disturbance; with two substances this needs them to diffuse at different rates, and the pattern lasts only while free energy is supplied"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-281 added. The question
+    lists Turing's instability among its routes, "Interactions need not
+    merely constrain the configurations of preexisting parts. They can
+    generate the very spatial distinctions that later allow parts to be
+    recognized" (Turing, LIT-535), and this is the reading of that work.
+    No other change.
 tags:
 - complex-systems
 - natural-sciences
@@ -21,6 +32,8 @@ summary: >-
   serious one" and the biological examples "very limited". Stationary
   chemical Turing patterns were first made in 1989–1991, and real
   morphogens implementing the mechanism had not been identified by 1993.
+bears_on:
+- QUESTION-281
 ---
 <!-- inactive-ok-file: NOTE-418 — Skimmed; cited only for the later chemical realisations and the status of morphogens, which the skim read -->
 <!-- inactive-ok-file: THEORY-072 THEORY-088 — Proposed; neighbouring accounts named for context, nothing here rests on their being settled -->

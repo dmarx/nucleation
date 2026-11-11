@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpegbva
 title: "De Oliveira, de Sá and Martins give multi-period forms of the FLEET and local-reliability expected covering models, letting ambulances move among bases between periods, and trade the number of bases against coverage as a bi-objective problem, for Belo Horizonte's emergency medical service"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,16 @@ history:
     Belo Horizonte.' The title is unchanged. A dated note records what
     the abstract's coverage gains compare and that the probabilistic
     coverage rates do not follow from the stated objective.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-296 and CLAIM-312 added.
+    CLAIM-296: in MEXCLP and MALP as de Oliveira, de Sá and Martins give
+    them (NOTE-1621), "a covering ambulance that is busy does not count",
+    "a formal case of the gap between having a resource and being able to
+    deploy it". CLAIM-312: "That is a special case of the claim". No other
+    change.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -37,6 +47,9 @@ summary: >-
   cost or limit, and bases once opened stay open. The coverage gains the
   abstract reports are not part of the account; the relocation gains it
   names mostly come from optimizing the bases (dated note).
+corroborates:
+- CLAIM-296
+- CLAIM-312
 ---
 # THEORY-1388: De Oliveira, de Sá and Martins give multi-period forms of the FLEET and local-reliability expected covering models, letting ambulances move among bases between periods, and trade the number of bases against coverage as a bi-objective problem, for Belo Horizonte's emergency medical service
 

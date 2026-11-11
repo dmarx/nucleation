@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmptef2i
 title: "Neumark and Simpson's review finds that the US and European evidence on place-based policy shows gains at most while incentives are in force, often offset by relocation from nearby areas or captured in land and house values, and that the one program shown to leave gains after its funding ended, the Tennessee Valley Authority, did so through manufacturing agglomeration while its direct effect faded, with its agglomeration gains estimated to net to about zero nationally"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -30,6 +30,13 @@ history:
     review finds. Refuted if the chapter reports the TVA's post-1960
     manufacturing gains as absent or as a continuing direct effect,
     or reports some policy shown to leave self-sustaining gains.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-597, whose note of 2026-11-05
+    lists it under "Supported in urban services": "Place-based
+    incentives have effects only while paid". No other change.
 tags:
 - social-science
 - society-and-governance
@@ -46,7 +53,10 @@ summary: >-
   with no discrepancy named. It does not say that support never leaves lasting
   gains, only that the evidence reviewed has almost never measured
   outcomes after support ended.
+corroborates:
+- CLAIM-597
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1491: Neumark and Simpson's review finds that the US and European evidence on place-based policy shows gains at most while incentives are in force, often offset by relocation from nearby areas or captured in land and house values, and that the one program shown to leave gains after its funding ended, the Tennessee Valley Authority, did so through manufacturing agglomeration while its direct effect faded, with its agglomeration gains estimated to net to about zero nationally
 

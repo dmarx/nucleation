@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpx3lyj
 title: 'Krakauer et al.''s organismal and colonial individuality, A* = I(S_{n+1}; S_n) and A = I(S_{n+1}; S_n | E_n), cannot decrease when variables are moved from the environment into the candidate system, so maximizing either over candidate boundaries selects the largest candidate, and a boundary found this way needs a size cost the measures do not contain'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -17,6 +17,14 @@ history:
     checked on the article's two-unit example at four parameter settings
     (record script, 2026-10-29), where both sides agree to machine
     precision.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-115. The question's note
+    of 2026-10-29 names it as the check on A11's report that A* and A
+    cannot decrease as variables move into the candidate: "The check
+    is THEORY-1163." No other change.
 tags:
 - individuation
 - information-theory
@@ -31,6 +39,8 @@ summary: >-
   any system. It does not say how to price size, and nC, the third
   measure, can move either way. It is the formal content of A11's
   remark recorded in [QUESTION-115](../questions.d/QUESTION-115.md).
+bears_on:
+- QUESTION-115
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; named as an untested candidate for the size cost, nothing here rests on it -->
 

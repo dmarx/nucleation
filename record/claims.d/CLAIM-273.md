@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4zg6p
 title: 'A maintained r/place artwork copied from an off-canvas design is a dissipative structure in Prigogine''s structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from the design and not born of an instability'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-13'
@@ -60,6 +60,15 @@ history:
     instability". Objects that spread by a local recolouring rule,
     such as the Blue Corner, were covered by the old title and
     excluded by its body.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. THEORY-692 added to grounds. The claim tests
+    r/place against "Prigogine's criterion, as the record reads his Nobel
+    lecture (LIT-516, NOTE-424)", and takes that criterion as given;
+    THEORY-692 is the reading of LIT-516. The LIT-516 ground is left for a
+    defect sweep (ADR-058). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -83,6 +92,7 @@ grounds:
 - THEORY-216
 - LIT-516
 - CASE-079
+- THEORY-692
 uses:
 - TERM-054
 complements:

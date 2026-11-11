@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmp5gi3u
 title: 'The dynamics a coupled cell network admits, restricted to a robustly synchronous pattern, are dynamics admitted by a smaller quotient network whose cells are the synchronized classes, so behaviour of the quotient, including symmetric behaviour the original network has no symmetry to force, appears in the original as synchronous behaviour; the quotient admits more dynamics than restriction produces, and is unique only up to refinement of its arrow types'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-063 added. The question's
+    note of 2026-10-27 (evening) uses Stewart, Golubitsky and Pivato
+    (NOTE-1217) as an instrument for its drive-or-coupling test: "In
+    Pecora and Carroll's master–slave network (Fig. 19, p. 635), cells
+    that are only driven are robustly synchronous with cells that also
+    drive back." No other change.
 tags:
 - network-science
 - mathematics
@@ -19,6 +30,8 @@ summary: >-
   subspace exactly, but only a subclass of the quotient's own admissible
   dynamics arises that way, and nothing is said about stability
   transverse to the subspace.
+bears_on:
+- QUESTION-063
 ---
 
 # THEORY-1059: The dynamics a coupled cell network admits, restricted to a robustly synchronous pattern, are dynamics admitted by a smaller quotient network whose cells are the synchronized classes, so behaviour of the quotient, including symmetric behaviour the original network has no symmetry to force, appears in the original as synchronous behaviour; the quotient admits more dynamics than restriction produces, and is unique only up to refinement of its arrow types

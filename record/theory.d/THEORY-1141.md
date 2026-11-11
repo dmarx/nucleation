@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpfzykx
 title: 'In the time limit, sheaf diffusion on a graph projects node features onto the harmonic space of its sheaf Laplacian, and which labellings that space can linearly separate depends on the class of restriction maps: a weighted graph Laplacian cannot separate the sides of a balanced bipartite graph, signed one-dimensional maps separate any two classes and no one-dimensional sheaf separates three, while diagonal maps with d ≥ C and orthogonal bundles with C ≤ 2d (d = 2, 4 and, against the paper, 8) separate any labelling; every separating sheaf is built from the labels'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-538 added. The claim's
+    worked flow "ends at the weighted harmonic residual, r*_e ∝ 1/w_e
+    (THEORY-1141's limit)", checked by simulation; the reading is evidence
+    the claim does not need. No other change.
 tags:
 - network-science
 - mathematics
@@ -22,6 +31,8 @@ summary: >-
   The results are existential: the separating sheaf is defined from the
   class labels, so they say what a sheaf can do, not that one can be
   found without the labels.
+corroborates:
+- CLAIM-538
 ---
 
 # THEORY-1141: In the time limit, sheaf diffusion on a graph projects node features onto the harmonic space of its sheaf Laplacian, and which labellings that space can linearly separate depends on the class of restriction maps: a weighted graph Laplacian cannot separate the sides of a balanced bipartite graph, signed one-dimensional maps separate any two classes and no one-dimensional sheaf separates three, while diagonal maps with d ≥ C and orthogonal bundles with C ≤ 2d (d = 2, 4 and, against the paper, 8) separate any labelling; every separating sheaf is built from the labels

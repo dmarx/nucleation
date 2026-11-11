@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmprruzz
 title: "For a network linearised at its initial parameters, with an isotropic Gaussian prior of precision α on the parameter displacement and Gaussian noise of precision β, the log-determinant part of the evidence is −½ Σ log(1 + βλ/α) over the non-zero eigenvalues λ of the empirical neural tangent kernel's Gram matrix on the training inputs, so at most n directions are priced however many parameters the network has"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -18,6 +18,16 @@ history:
     Eq. 20, so the claim is filed Active, demonstrated. THEORY-080 keeps the
     spherical, per-harmonic account, which rests on a Gram-spectrum
     approximation the record holds no source for, and stays Proposed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. THEORY-718 added to grounds. The proof
+    begins "The linearised model is MacKay's linear-in-parameters model
+    ... For such a model the posterior is Gaussian and the evidence is
+    exact" and takes MacKay's Eq. 20 as given; THEORY-718 is the reading
+    of LIT-623. The LIT-623 ground is left for a defect sweep (ADR-058).
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,6 +46,7 @@ line:
 - formal-apparatus
 grounds:
 - LIT-623
+- THEORY-718
 ---
 <!-- inactive-ok-file: THEORY-080 THEORY-005 — Proposed; the account this was filed from, which keeps the spherical half, the singular-model account named in what this does not say, and the precedent named in the history; none is leaned on -->
 

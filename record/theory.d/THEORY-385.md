@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpsdhw2
 title: 'In HNSW over 10-dimensional data in 100 isolated clusters, linking each new item to its nearest neighbours leaves part of the bottom layer unreachable from the entry point and caps recall well short of 1 however wide the query search, while linking a candidate only when it is nearer the new item than to any neighbour already kept keeps that layer connected and reaches recall near 1 with about half the links; on uniform data at 10 and 64 dimensions the two rules differ little; shown in Malkov and Yashunin''s own tests on 10 million points and in an independent re-run on 30,000, which found the nearest-neighbour rule capped at a recall@10 of 0.72 to 0.83 against 0.999, at matched build cost too'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -19,6 +19,15 @@ history:
     recall@10 at 0.72–0.83; the pruning rule reached 0.999. The title
     narrows to HNSW and to what was measured; "search fast" and candidate
     extension, which did not help in the re-run, leave it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-187 added. The question
+    asks about "the graph HNSW actually builds: a fixed number of links
+    per element, pruned heuristically"; this reading is the test of that
+    pruning rule against nearest-neighbour linking, a premise of what
+    recall the built graph can reach. No other change.
 tags:
 - databases
 - information-retrieval
@@ -40,6 +49,8 @@ summary: >-
   dataset, synthetic, with no independent replication in this reading.
   Re-run independently at smaller scale on promotion (2026-10-20), with the
   same result.
+bears_on:
+- QUESTION-187
 ---
 
 # THEORY-385: In HNSW over 10-dimensional data in 100 isolated clusters, linking each new item to its nearest neighbours leaves part of the bottom layer unreachable from the entry point and caps recall well short of 1 however wide the query search, while linking a candidate only when it is nearer the new item than to any neighbour already kept keeps that layer connected and reaches recall near 1 with about half the links; on uniform data at 10 and 64 dimensions the two rules differ little; shown in Malkov and Yashunin's own tests on 10 million points and in an independent re-run on 30,000, which found the nearest-neighbour rule capped at a recall@10 of 0.72 to 0.83 against 0.999, at matched build cost too

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9y4pc
 title: 'In one study of 33 experienced Transcendental Meditation practitioners and 33 matched controls who counted instead, the practitioners rated their session higher on a retrospective pure-awareness scale whose top was defined for them as free from content (d = 0.77), and a classifier on EEG separated meditation from counting at 65% balanced accuracy on held-out subjects and, within practitioners, meditation from rest with 88% sensitivity; the authors found no robust association between the ratings and the EEG features'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -39,6 +39,18 @@ history:
     fail on held-out data from a second sample. More studies that
     compare meditators meditating with non-meditators doing something
     else cannot settle it."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-048. The question asks
+    what report and architectural evidence "each establish about
+    experience as opposed to access", and its note of 2026-11-01 holds
+    that retrospective report cannot show what a minimal state was and
+    that an architectural route would still have "every episode ...
+    picked out by report". This reading is such a study: retrospective
+    pure-awareness ratings and EEG, with no robust association between
+    them. No other change.
 tags:
 - consciousness
 - neuroscience
@@ -56,6 +68,8 @@ summary: >-
   the authors found no robust association between the reports and the
   EEG, so this is a finding about a practice period and about reports,
   not a neural signature of an experience with little content.
+bears_on:
+- QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-1241 — Proposed; filed beside this reading by the twenty-fourth status review: the general form of the finding -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the claims this one bears on, named and not leaned on -->

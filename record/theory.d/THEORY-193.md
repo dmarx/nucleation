@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpp6w9v
 title: 'A simplicial complex grown by gluing each new d-simplex to one (d − 1)-face, by a rule that uses no geometry, has a 1-skeleton whose geodesic triangles are 2-thin at every size, so hyperbolic network geometry in Gromov''s sense is an outcome of the combinatorial growth; the equal-link drawing as ideal simplices is a convention, a tiling of the hyperbolic plane for d = 2 in the manifold flavor but not a tiling of hyperbolic d-space for d ≥ 3'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -26,6 +26,15 @@ history:
     drawing's constant curvature but not of the graph's coarse
     hyperbolicity, which comes from the growth. The title is rewritten to
     say so.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-025 added, as a caution
+    for the question's test: "Hyperbolic curvature is not by itself
+    evidence of hierarchy. Bianconi & Rahmede (LIT-867, THEORY-193)
+    concede the same grown complex fits a sphere with unequal link
+    lengths." No other change.
 tags:
 - network-science
 - complex-systems
@@ -44,6 +53,8 @@ summary: >-
   choice of drawing. It tiles H² for d = 2 in the manifold flavor, and for
   d ≥ 3 it is not a tiling. This says nothing about whether real networks
   grow this way.
+bears_on:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-188 THEORY-196 — Proposed or Open; cited as the accounts this one sits beside -->
 

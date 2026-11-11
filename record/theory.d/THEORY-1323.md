@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmpggrkf
 title: 'Under weak local noise a many-body operator decays at a rate proportional to its size, so a Hamiltonian''s small-sized integrals of motion, which chaotic dynamics does not spread, decay slowly while generic operators, which it spreads, decay fast; in exact diagonalization of Ising and Heisenberg chains of up to nine sites at weak depolarizing noise, the slowest Lindbladian eigenoperators are linear combinations of the known exact and approximate small integrals of motion, and which approximate ones rank among the slowest moves with the noise strength'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-331, whose note of 2026-11-02
+    says the work gives "a physical case for the claim's 'a mark and
+    not its definition'", and CLAIM-478, whose note of the same date
+    says it "supports the first half in a quantum many-body case".
+    CLAIM-533 now grounds on it (its own history says why).
+    CLAIM-394 calls it "a parallel, not a test" outside its linear
+    Gaussian scope and takes nothing. No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -18,7 +30,11 @@ summary: >-
   correspondence holds at large system size ([THEORY-1343](THEORY-1343.md)), that every
   integral of motion is found (those above size 3–4 are not), or that
   slowness ranks conserved quantities independently of the environment.
+corroborates:
+- CLAIM-331
+- CLAIM-478
 ---
+<!-- inactive-ok-file: CLAIM-478 ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1343 — Proposed; neighbours cited as open -->
 
 # THEORY-1323: Under weak local noise a many-body operator decays at a rate proportional to its size, so a Hamiltonian's small-sized integrals of motion, which chaotic dynamics does not spread, decay slowly while generic operators, which it spreads, decay fast; in exact diagonalization of Ising and Heisenberg chains of up to nine sites at weak depolarizing noise, the slowest Lindbladian eigenoperators are linear combinations of the known exact and approximate small integrals of motion, and which approximate ones rank among the slowest moves with the noise strength

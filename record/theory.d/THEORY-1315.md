@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp7q08l
 title: 'As a stochastically forced system approaches a fold bifurcation its dominant eigenvalue goes to zero, so it recovers ever more slowly from small perturbations, and under ongoing perturbation this critical slowing down shows as rising lag-1 autocorrelation and rising variance; skewness and flickering are further warnings not caused by slowing; but the same signals, less pronounced, also precede thresholds that are not bifurcations, so they mark proximity to a broad class of thresholds and not which kind, nor when the shift will come'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-478 added. The claim's
+    note of 2026-11-03: "Scheffer et al. 2009 (NOTE-1536, THEORY-1315)
+    give the generic slowing down the second half uses near an
+    instability"; the note's caution that slowness alone does not show new
+    organization stands with it. An inactive-ok directive names the Proposed claim. No other change.
 tags:
 - complex-systems
 - natural-sciences
@@ -21,7 +31,10 @@ summary: >-
   31). It does not say the signals have been shown in chaotic systems,
   which the review calls "less well studied", or that any of the reviewed
   empirical cases was checked here.
+corroborates:
+- CLAIM-478
 ---
+<!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this reading corroborates, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-1536 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: LIT-720 — Unavailable; the earlier Scheffer paper, cited as context -->
 

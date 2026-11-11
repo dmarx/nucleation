@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplo0xb
 title: 'In the mixed membership stochastic blockmodel the probability of an edge from p to q, given the memberships, is (1 − ρ)π_pᵀBπ_q, so the graph''s likelihood given the memberships is unchanged by π ↦ Rπ, B ↦ R⁻ᵀBR⁻¹ for any invertible R that keeps the memberships on the simplex and B in [0, 1], a continuum around any solution with B''s rates strictly between 0 and 1; and the sparsity parameter ρ enters only through (1 − ρ)B, so it is fixed by nothing but the bound B ≤ 1, and the paper''s printed estimator of it is the fraction of absent edges whatever the fit'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,16 @@ history:
     below and checked numerically, which meets the condition for Active
     under ADR-047 v2. They contradict the paper's §5 statement that B and
     the memberships do not compete.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-148 and bears_on
+    QUESTION-276 added. CLAIM-148's note of 2026-10-26 lists the
+    blockmodel as an instance of its gauge: "π ↦ Rπ, B ↦ R⁻ᵀBR⁻¹ leaves
+    the likelihood unchanged". QUESTION-276 names it as a caution for
+    condition 4: "Inferred memberships are not identified ... (THEORY-972,
+    THEORY-993)". No other change.
 tags:
 - network-science
 - mathematical-statistics
@@ -31,6 +41,10 @@ summary: >-
   edge probabilities. What can still separate them is the Dirichlet family
   assumed for memberships, not the graph. The confounding of ρ with B's
   scale is exact even in the marginal likelihood.
+corroborates:
+- CLAIM-148
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-993: In the mixed membership stochastic blockmodel the probability of an edge from p to q, given the memberships, is (1 − ρ)π_pᵀBπ_q, so the graph's likelihood given the memberships is unchanged by π ↦ Rπ, B ↦ R⁻ᵀBR⁻¹ for any invertible R that keeps the memberships on the simplex and B in [0, 1], a continuum around any solution with B's rates strictly between 0 and 1; and the sparsity parameter ρ enters only through (1 − ρ)B, so it is fixed by nothing but the bound B ≤ 1, and the paper's printed estimator of it is the fraction of absent edges whatever the fit

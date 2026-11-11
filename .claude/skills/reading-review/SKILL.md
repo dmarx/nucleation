@@ -3,7 +3,7 @@ name: reading-review
 description: 'A review of the readings (THEORY) the record holds and its argument does not use - which readings in force no line builds on, and what to do about each: tie it to a claim or question that should use it, raise a question or claim it calls for, or record that the argument does not need it. Three modes, by line, by topic and by question. Use it when the owner asks for a reading review or to see what the record has read and not built on, after a run of readings in one topic, or beside a synthesis review of a line. ADR-091 holds the invariants; ADR-090 how a reading''s lines are derived.'
 ---
 <!-- .claude/skills/reading-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-tmpkuzwl — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Reading review
 
@@ -103,7 +103,7 @@ existing entry; the curation entry names both. In the by-line mode a tie
 counts when the entry tied is the line's own or a premise or component of
 the line's entries (the line's account names it).
 
-Some cases recur, settled by the first by-question run:
+Recurring cases:
 
 - **A moved condition.** A question that holds a reading's former
   `promote_when` (ADR-065) takes that reading's `bears_on`: the reading is
@@ -137,9 +137,52 @@ Some cases recur, settled by the first by-question run:
 - **A run split across readers** writes one curation entry, by whoever
   combines the parts.
 
+More recurring cases (ADR-tmpkuzwl):
+
+- **Search for the name first.** Search the record for the reading's
+  code, its NOTE and its LIT before anything else. A question or claim
+  that names the reading as evidence states the relation.
+- **Supporting cases and instances corroborate.** A claim that lists a
+  reading among its supporting cases, or cites it as an instance,
+  parallel or precedent it does not need, takes it as `corroborates`. A
+  claim that disclaims it as evidence takes nothing. A precedent from
+  another domain corroborates only a claim whose scope reaches that
+  domain.
+- **Instruments and cautions are premises.** A question that names a
+  reading as an instrument, a measure or a caution for its own test takes
+  it as `bears_on`. So does a reading that qualifies the answer of an
+  Answered question without answering it alone.
+- **One verdict per reading.** Count a reading tied to several entries as
+  one tie; list every relation in the table.
+- **Used by an entry that cannot carry the relation.** Where the only
+  entries using a reading are cases, terms or syntheses, hold it, name the
+  entry, and list it in the curation entry apart from the unused. Do not
+  write `reported_in` for it. Raise a claim where several such readings
+  jointly state a result no claim holds.
+- **A claim that grounds on the work.** Where a claim grounds on a LIT and
+  the work's reading is in force, tie the reading as `corroborates` if the
+  claim does its own work with the result, or as `grounds` if the claim
+  uses it as an unproved premise. Flag the LIT edge for a defect sweep.
+- **Mechanics.** `luria relate` writes one side only. Never write a
+  converse (`bearing`, `corroborated_by`, `supports`) by hand. Bump the
+  version and write the history entry on the entry that carries the
+  relation yourself.
+
 Watch for the free relation: a reading "relevant to" a claim is not
 evidence for it. Tie only where the claim's or question's own words meet
 what the reading holds.
+
+## Splitting a run
+
+Split by topic, one reader per part, each in its own worktree
+(ADR-tmpkuzwl).
+
+- Keep a shared file of the run's raises in the coordinator's scratchpad.
+  Each reader checks it before filing a raise and adds its own.
+- The coordinator merges any duplicate left, keeps the first code, and
+  points the other part's readings at it.
+- Where two parts change the same entry, keep both changes as successive
+  versions.
 
 ## 4. Account for it
 
