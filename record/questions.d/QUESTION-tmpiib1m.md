@@ -11,12 +11,12 @@ line:
 - distributed-agency
 summary: >-
   Raised by the reading review of 2026-11-11, by topic (quantum
-  foundations), from THEORY-1078, which splits constraint into
+  foundations), from [THEORY-1078](../theory.d/THEORY-1078.md), which splits constraint into
   principles, laws that constrain other laws and that no particular thing
   realizes, and constructors, which are realized and approximate. The
   reading says that whether a law of possibility is "a case of a
-  constraint realized by nothing is CLAIM-477's question, not the
-  paper's". CLAIM-477's notes of 2026-10-27, 2026-10-29, 2026-10-30 and
+  constraint realized by nothing is [CLAIM-477](../claims.d/CLAIM-477.md)'s question, not the
+  paper's". [CLAIM-477](../claims.d/CLAIM-477.md)'s notes of 2026-10-27, 2026-10-29, 2026-10-30 and
   2026-11-06 ask it and leave it "unruled": it is the candidate for the
   claim's defeater (b). This question states it on its own, so that what
   would rule on it can be named. The wording is the assistant's (Claude,
