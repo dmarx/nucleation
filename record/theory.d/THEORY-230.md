@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbbojk
 title: 'The Fisher–Rao geometry of a language model''s next-token laws over a set of contexts is a function of those laws alone, so models with identical laws share it, while activation geometry changes under invertible reparameterizations of the hidden layer that leave outputs unchanged; in Picozzi''s ten transformer, state-space and recurrent models it agreed at a mean rank correlation of 0.88 against 0.62 for activation geometry, and about 9% of the top eigenvector overlap exceeded a null matched to the shared laws'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,13 @@ history:
     "Ten architectures" becomes ten models of three kinds, "far more"
     becomes the numbers, and "what the shared laws imply" becomes the
     displacement-matched null. The promote_when moves to QUESTION-216.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-216: the question says it holds "promotion condition formerly on THEORY-230" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - information-geometry
 - representation-learning
@@ -36,6 +43,8 @@ summary: >-
   top-six eigenvector overlap is shared beyond the laws.
   Promoted on 2026-10-20. Replication and a test that varies the law are
   QUESTION-216.
+bears_on:
+- QUESTION-216
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 

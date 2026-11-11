@@ -14,7 +14,7 @@ promote_when: >-
   trained networks cannot settle it, since the title disclaims that
   clause. That question is QUESTION-161.
 title: "If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -25,6 +25,13 @@ history:
     unchanged to QUESTION-161. The new promote_when asks for the one
     step of Theorem 1's proof that the record could not re-derive. The
     partial re-derivation is in the dated note below.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-161: the question says it holds "promotion condition formerly on THEORY-614" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - probabilistic-modeling
 - learning-theory
@@ -42,6 +49,8 @@ summary: >-
   condition in the title.
 corroborates:
 - CLAIM-543
+bears_on:
+- QUESTION-161
 ---
 
 <!-- inactive-ok-file: CLAIM-029 — Proposed; named for the reading it uses, not leaned on -->

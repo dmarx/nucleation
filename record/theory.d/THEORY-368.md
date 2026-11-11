@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpc25xn
 title: "On two-dimensional point sets constructed for the purpose, the authors' code for fast-preprocessing DiskANN, HNSW and NSG, at parameters from the original papers, in most cases found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5 between 0.0 and 0.42; this is shown by experiment on one query per instance, and no theorem bounds these algorithms"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,13 @@ history:
     queue length. Of the other seven, three were run from a survey's
     reimplementations, not their authors' code. The promote_when asked for
     an independent replication, which moves to QUESTION-230.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-230: the question says it holds "promotion condition formerly on THEORY-368" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 - information-retrieval
@@ -31,6 +38,8 @@ summary: >-
   time linear and says so "empirically"; the only argument beyond the
   experiment is an informal Ω(n/R) for DiskANN's fast build. It does not
   show that these indexes fail on natural data or natural queries.
+bears_on:
+- QUESTION-230
 ---
 
 # THEORY-368: On two-dimensional point sets constructed for the purpose, the authors' code for fast-preprocessing DiskANN, HNSW and NSG, at parameters from the original papers, in most cases found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5 between 0.0 and 0.42; this is shown by experiment on one query per instance, and no theorem bounds these algorithms

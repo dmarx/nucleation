@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpv4i3y
 title: 'Evans, Silverberg and Santangelo show that a lattice theory of origami tessellations predicts that the inhomogeneous soft deformations of a Miura-ori sheet are edge modes decaying from its boundaries with an analytic decay length, so that its number of degrees of freedom scales with its perimeter, not its area'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -29,6 +29,13 @@ history:
     step from J0 and D(q) to Eqs. 16 and 24 was checked by
     scratch/formal/evans_miura_check.py, second-checked by the coordinator
     on 2026-11-06.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-447: the question says it holds "promotion condition formerly on THEORY-1428" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - natural-sciences
 - mathematics
@@ -45,6 +52,8 @@ summary: >-
   100%. Registered as a stand-in for Silverberg et al. (2014); it does not
   carry that paper's claims of bistable cells or crystal-like defects.
   Whether another group's test agrees is [QUESTION-447](../questions.d/QUESTION-447.md).
+bears_on:
+- QUESTION-447
 ---
 
 # THEORY-1428: Evans, Silverberg and Santangelo show that a lattice theory of origami tessellations predicts that the inhomogeneous soft deformations of a Miura-ori sheet are edge modes decaying from its boundaries with an analytic decay length, so that its number of degrees of freedom scales with its perimeter, not its area

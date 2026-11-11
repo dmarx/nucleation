@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpk5car
 title: 'In OLMo-1B, OLMo-7B and GPT-J, how well an affine map from subject to object representation reproduces a factual relation (its LRE causality) tracks how often the relation''s subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, and, across OLMo-7B''s eight checkpoints, at whatever step that count is reached'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -36,6 +36,13 @@ history:
     threshold across more model sizes and families, asks for a causal and
     general claim the title does not make; the authors disclaim causal
     claims (Appendix A), so it moves to QUESTION-344.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-344: the question says it holds "promotion condition formerly on THEORY-269" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 date: '2026-10-14'
@@ -48,6 +55,8 @@ summary: >-
   co-occurrence, above either term's frequency alone. Correlational by
   the authors' own statement. The linear objects are per-relation
   affine maps between hidden states, not attribute directions.
+bears_on:
+- QUESTION-344
 ---
 
 # THEORY-269: In OLMo-1B, OLMo-7B and GPT-J, how well an affine map from subject to object representation reproduces a factual relation (its LRE causality) tracks how often the relation's subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, and, across OLMo-7B's eight checkpoints, at whatever step that count is reached

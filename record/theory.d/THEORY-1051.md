@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpyk1k6
 title: 'In Athreya, Czuppon and Gokhale''s model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, which the authors read as a Red King effect in which the collective''s shared fate aligns interests; with equal within-collective rates for both partners, the other partner''s dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective; and in its simulations dependence rose from zero at the higher collective carrying capacities tried and not at the lowest, under a condition the authors show sufficient and not necessary, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-27'
@@ -54,6 +54,13 @@ history:
     hosts for other reasons. It is refuted if slower-evolving partners
     are as often obligate first, or if host dependence is unrelated to
     within-collective demography."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-353: the question says it holds "promotion condition formerly on THEORY-1051" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - endosymbiosis
 - individuation
@@ -62,6 +69,7 @@ source:
 - LIT-1570
 bears_on:
 - QUESTION-277
+- QUESTION-353
 summary: >-
   Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-1211](../notes.d/NOTE-1211.md). With
   the symbiont's population larger and faster, its obligacy reaches 1

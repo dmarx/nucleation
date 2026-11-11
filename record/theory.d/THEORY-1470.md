@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7ch1y
 title: 'Collins and Shester find that US cities whose states enabled federal urban renewal earlier received more renewal grants and, per $100 of grants per 1950 resident, had about 2.4% higher median family income, 6.9% higher median property value and 9–11% more population and housing units in 1980 than similar cities, gains not explained by a changed racial or educational composition and not faded by 2000, decades after new funding ended, while the projects cleared or planned to clear over 400,000 housing units and relocated over 300,000 families, about 54% nonwhite, whose costs the city-level design does not measure'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -31,6 +31,13 @@ history:
   note: >-
     CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-420: the question says it holds "promotion condition formerly on THEORY-1470" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -46,6 +53,8 @@ summary: >-
   county effects leave open that gains were drawn from surrounding areas.
 corroborates:
 - CLAIM-600
+bears_on:
+- QUESTION-420
 ---
 <!-- inactive-ok-file: NOTE-1680 — Skimmed; cited from the reading of Collins and Shester (2013) as open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp2k3a9
 title: "In a structural causal model of autonomous equations, with intervention do(X = x) defined, as Pearl defines it, as a surgery that deletes X's own equation, sets X to x and solves the rest, and with observing X = x violating no equation and amounting to ordinary conditioning, models that agree on every observational distribution can disagree on the effect of an intervention, and in a structural equation y = βx + ε the coefficient β is the rate of change of E[Y | do(x)], which equals the regression slope of Y on X only when X is uncorrelated with ε"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,13 @@ history:
     body's quoted parameters for the two models: they agree as quoted only
     when x = u. The book-wide reading the promote_when asked for moves to
     QUESTION-226.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-226: the question says it holds "promotion condition formerly on THEORY-419" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - causality
 - probabilistic-modeling
@@ -33,6 +40,8 @@ summary: >-
   belongs to which variable. The excerpts state the three rules of the
   do-calculus without derivation, and contain no three-level hierarchy of
   association, intervention and counterfactual.
+bears_on:
+- QUESTION-226
 ---
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading this account rests on, as it says -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; the claims that cite this account, named in Connections -->

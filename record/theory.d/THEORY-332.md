@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp326zp
 title: "For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, is not three-competitive: when every statement's saving or loss is at most a fraction f of the build cost, a repeated workload makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the build cost makes the ratio unbounded; no upper bound is shown"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,13 @@ history:
     positive bound on step size: the ratio approaches 3 + 2f. The title
     now states that lower bound. The promote_when asked for an upper
     bound, which moves to QUESTION-224.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-224: the question says it holds "promotion condition formerly on THEORY-332" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 - operations-research
@@ -35,6 +42,7 @@ summary: >-
   heuristic, and all costs are optimizer estimates.
 bears_on:
 - QUESTION-114
+- QUESTION-224
 ---
 
 # THEORY-332: For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, is not three-competitive: when every statement's saving or loss is at most a fraction f of the build cost, a repeated workload makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the build cost makes the ratio unbounded; no upper bound is shown

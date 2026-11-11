@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3i3z1
 title: 'In the exact configurations of uniform superposition (regular polygons, the tetrahedron, antipodal pairs, and tegum products of these that span the hidden space, with equal norms within each factor) the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,13 @@ history:
     question moves, unchanged, to QUESTION-145. The algebra is
     re-derived in the note of 2026-10-19 below, which under ADR-047 v2 (the
     owner's rule of 2026-10-19) meets the condition for the narrowed claim.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-145: the question says it holds "promotion condition formerly on THEORY-021" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - mathematics
@@ -42,6 +49,7 @@ summary: >-
   yet about trained real models.
 bears_on:
 - QUESTION-058
+- QUESTION-145
 ---
 
 # THEORY-021: In the exact configurations of uniform superposition (regular polygons, the tetrahedron, antipodal pairs, and tegum products of these that span the hidden space, with equal norms within each factor) the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity

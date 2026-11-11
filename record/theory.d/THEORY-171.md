@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpquo32
 title: 'When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-09'
@@ -28,6 +28,13 @@ history:
     QUESTION-143. The summary now reports the iff as the source's
     unchecked theorem, not as part of the account, and the promote_when is
     removed. The title is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-143: the question says it holds "condition formerly on THEORY-171" (ADR-065), so the reading
+    is its premise (ADR-060). The relation was never written when the
+    condition moved; sweep of 2026-11-11, from the reading review by
+    question. No other change.
 tags:
 - causality
 - contextuality
@@ -50,6 +57,8 @@ summary: >-
   incompatible causal pasts on a common event, is reported as the source's.
   Its proof was not read, and it is QUESTION-143. It does not say any
   physical or quantum data display the effect.
+bears_on:
+- QUESTION-143
 ---
 
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor, whose sheaf claim this account corrects -->

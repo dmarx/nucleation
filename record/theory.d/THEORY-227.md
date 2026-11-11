@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7q33x
 title: "Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -31,6 +31,13 @@ history:
     MI, which the estimators do not measure." Its demand for generality
     beyond MNIST, CIFAR-10 and the linear probe asks for more than the title
     claims, and moves to QUESTION-357.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-357: the question says it holds "promotion condition formerly on THEORY-227" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - representation-learning
 - information-theory
@@ -47,6 +54,8 @@ summary: >-
   representations good must therefore come from somewhere other than MI.
   The paper's alternative, that InfoNCE works as metric learning, is argued,
   not tested.
+bears_on:
+- QUESTION-357
 ---
 <!-- inactive-ok-file: THEORY-001 CLAIM-193 — Proposed; cited for context, nothing here rests on them -->
 

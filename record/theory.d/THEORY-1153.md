@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmptu082
 title: 'In the PETra corpus of English-source TED and Europarl translations, the additions for the target audience that a named-entity and null-alignment filter, and a classifier trained on its finds, turned up, as labelled by one annotator with no agreement reported, are mostly system transfers, chiefly unit conversions, and entity changes, and their mix differs by target language'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -31,6 +31,13 @@ history:
     an unfiltered random-sample annotation with agreement reported and
     per-language rates asks for a base rate the title does not claim, and
     moves to QUESTION-339.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-339: the question says it holds "promotion condition formerly on THEORY-1153" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - translation
 - pragmatics
@@ -45,6 +52,8 @@ summary: >-
   named entity, mostly found by a classifier, labelled with no reported
   agreement. It is not a base rate of explicitation in translation, and it
   says nothing about how readers take the additions.
+bears_on:
+- QUESTION-339
 ---
 
 # THEORY-1153: In the PETra corpus of English-source TED and Europarl translations, the additions for the target audience that a named-entity and null-alignment filter, and a classifier trained on its finds, turned up, as labelled by one annotator with no agreement reported, are mostly system transfers, chiefly unit conversions, and entity changes, and their mix differs by target language

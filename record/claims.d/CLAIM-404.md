@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,13 @@ history:
     state channels does')". Its first line, distributed-agency, is already
     this claim's (ADR-085). Reading review of 2026-11-11, by question. No
     other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-100, QUESTION-071: its text says "It bears on
+    QUESTION-100 (an institutional form of its capture branch)" and on
+    QUESTION-071 (manipulation). Reading review of 2026-11-11, by
+    question. Under ADR-085 it takes will-organization. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -72,6 +79,7 @@ tags:
 date: '2026-10-21'
 line:
 - distributed-agency
+- will-organization
 rests_on:
 - CLAIM-330
 - CLAIM-340
@@ -111,6 +119,8 @@ summary: >-
   the two routes and give nothing to the loop between institutions.
 bears_on:
 - QUESTION-070
+- QUESTION-100
+- QUESTION-071
 ---
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->

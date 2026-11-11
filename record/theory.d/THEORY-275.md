@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo4fgq
 title: "In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only"
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-17'
@@ -39,6 +39,13 @@ history:
     under ADR-049, at the owner's request (exchange of 2026-10-23). The
     child asks exactly what this entry settles, in the one bead system;
     QUESTION-063 stays Open for the rest. The account is unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-186: the question says it holds "promotion condition formerly on THEORY-275" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - information-theory
 - causality
@@ -59,6 +66,8 @@ summary: >-
   not test an unrecorded drive shared by both units, and it does not
   claim that the measures reveal coupling architecture. Whether the
   same holds in other reciprocally coupled systems is QUESTION-186.
+bears_on:
+- QUESTION-186
 ---
 <!-- inactive-ok-file: CLAIM-167 THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
 <!-- inactive-ok-file: CLAIM-396 — Proposed; the record's generalization this entry's narrowing dropped, filed apart under ADR-047 v4 with this entry in its grounds -->

@@ -7,7 +7,15 @@ title: 'The monograph''s castle topic, persistent across refinement by construct
   persists as no eigenmode: in its rank-2 and rank-3 co-occurrence matrices the
   eigenvector nearest the castle topic changes rank and turns through about 51°,
   and every eigenvector mixes signs'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-113: its text says "A persistence criterion for
+    naming a category (QUESTION-113) has to be stated for factors
+    recovered under such conditions". Reading review of 2026-11-11, by
+    question. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -27,6 +35,8 @@ summary: >-
   2 (cosine 0.873) and the first at rank 3 (0.926), about 51° apart. Persistence
   of a generating factor does not show as persistence of an eigenvector, which is
   what [CLAIM-148](../claims.d/CLAIM-148.md)'s identifiability limits predict.
+bears_on:
+- QUESTION-113
 ---
 
 # CASE-097: The monograph's castle topic, persistent across refinement by construction, persists as no eigenmode: in its rank-2 and rank-3 co-occurrence matrices the eigenvector nearest the castle topic changes rank and turns through about 51°, and every eigenvector mixes signs

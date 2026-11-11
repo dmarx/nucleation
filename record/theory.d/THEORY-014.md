@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprs2he
 title: 'In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-09'
@@ -25,6 +25,13 @@ history:
     asked for something the title does not claim, a map between the
     formalisms, which "What this does not say" already disclaimed. It moves,
     unchanged, to QUESTION-146. The claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-146: the question says it holds "promotion condition formerly on THEORY-014" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - contextuality
 - mathematics
@@ -41,6 +48,8 @@ summary: >-
 extends:
 - THEORY-012
 - THEORY-016
+bears_on:
+- QUESTION-146
 ---
 
 # THEORY-014: In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical

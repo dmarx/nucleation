@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5zz46
 title: "Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that business start-up grants raise work and earnings while a job-search subsidy raised employment, significant only at the 10 percent level, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -39,6 +39,13 @@ history:
   note: >-
     CLAIM-600 moved into the SYNTHESIS scheme as SYNTHESIS-010 (ADR-077),
     so `corroborates` names the synthesis. No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-414: the question says it holds "promotion condition formerly on THEORY-1466" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -56,6 +63,8 @@ summary: >-
   untested.
 corroborates:
 - CLAIM-600
+bears_on:
+- QUESTION-414
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
 

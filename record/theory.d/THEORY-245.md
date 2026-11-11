@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7j1bc
 title: 'In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image''s category but not its identity, and a face''s orientation at most weakly, while posterior cortex carried category, face orientation and the identity of objects, letters and false fonts, though not of faces; no prefrontal site showed the preregistered onset-and-offset response, and one, found in an exploratory analysis, responded at offset earlier than predicted'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -45,6 +45,13 @@ history:
     demonstrations that category is decodable in prefrontal cortex cannot
     settle it." Its demand for a second recording by another method moves to
     QUESTION-351.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-351: the question says it holds "promotion condition formerly on THEORY-245" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - consciousness
 - neuroscience
@@ -63,6 +70,7 @@ summary: >-
   image was seen.
 bears_on:
 - QUESTION-061
+- QUESTION-351
 ---
 <!-- inactive-ok-file: THEORY-096 — Proposed; the workspace account whose broadcast and ignition clauses it tests -->
 

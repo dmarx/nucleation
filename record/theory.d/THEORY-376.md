@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgvxim
 title: "In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server; this matched page caching on a clustered index, beat it on an unclustered one, and, on an unindexed attribute with a disk cache, answered over 60% of 1% queries without contacting the server; the cost of computing probe and remainder queries was not charged"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,13 @@ history:
     the clustering comparison names the indexes. The promote_when, which
     asked for an implemented system or a simulation that charges the cache
     reasoning, moves unchanged to QUESTION-237.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-237: the question says it holds "promotion condition formerly on THEORY-376" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 - information-retrieval
@@ -33,6 +40,8 @@ summary: >-
   updates, joins and the CPU cost of reasoning about the cache's contents
   were left out, so it does not show that predicate-described storage pays
   when finding the reusable part is costly.
+bears_on:
+- QUESTION-237
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; the reuse-pricing claim this is set beside, named, not leaned on -->
 

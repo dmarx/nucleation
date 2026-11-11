@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpimkz9
 title: 'In generalised Lotka–Volterra dynamics with every interaction delayed by τ, a feasible equilibrium that is stable without delay loses stability at τ_c = min over the community eigenvalues j of arctan(|Re j|/|Im j|)/|j|, where a pair of roots crosses the imaginary axis transversally (a Hopf point), so the critical delay is set by the community spectrum; in Saeedian et al.''s strongly self-regulated setting the oscillating regime''s community-level variability falls with diversity (S = 10–70) while species-level variability rises, and the fall matches what summing independently oscillating species gives'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -18,6 +18,13 @@ history:
     the title now says. "Globally stable" and "sustained oscillation" in
     general leave the title. The weak-self-regulation, supercriticality and
     divergence requests move to QUESTION-229.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-229: the question says it holds "promotion condition formerly on THEORY-548" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - ecology
 - complex-systems
@@ -32,6 +39,8 @@ summary: >-
   promotion against an averaging null and matches it: the fall of
   community-level variability with diversity is what summing independent
   oscillators gives, not an ecological stabilisation.
+bears_on:
+- QUESTION-229
 ---
 <!-- inactive-ok-file: LIT-057 — Proposed; the preprint this account was read from, placed by its NOTE -->
 

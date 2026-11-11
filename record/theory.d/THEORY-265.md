@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmph3haa
 title: "In Tissot et al.'s minimal model of bistable deciders in a modular coordination game (thirty modules of ten, couplings 1 within modules and 0.01 across), phase synchronisation within modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,13 @@ history:
     the clean game, which is open scope nobody asserts (kind 4), and
     moves unchanged to QUESTION-337. Its supports entry for
     CLAIM-172 becomes corroborates (ADR-058).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-337: the question says it holds "promotion condition formerly on THEORY-265" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - agency
 - complex-systems
@@ -50,6 +57,8 @@ summary: >-
   enough to lock in.
 corroborates:
 - CLAIM-172
+bears_on:
+- QUESTION-337
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-232 THEORY-069 — Proposed; the entrainment mark, block answer and accounts this bears on, open -->
 

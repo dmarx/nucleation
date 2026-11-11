@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3j6t7
 title: 'As the kernel width ε goes to 0, Coifman and Lafon''s α-normalized diffusion operator (I − P_{ε,α})/ε, for data sampled with density q = e^{−U} from a compact manifold without boundary, converges uniformly on smooth functions, at rate O(ε), to Δf + 2(1 − α)⟨∇U, ∇f⟩ with Δ the non-negative Laplace–Beltrami operator, which is minus the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-20'
@@ -26,6 +26,13 @@ history:
     derivation. The title now says "without boundary" and "minus the
     generator". The boundary rate and the semigroup limit move to
     QUESTION-231.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-231: the question says it holds "promotion condition formerly on THEORY-744" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -42,6 +49,8 @@ summary: >-
   included (re-derived on promotion, 2026-10-20). The paper's own α = 1/2
   display has a sign error. Its boundary rate and heat-kernel proof are
   incomplete and are left to [QUESTION-231](../questions.d/QUESTION-231.md).
+bears_on:
+- QUESTION-231
 ---
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading whose phrase is checked here -->
 

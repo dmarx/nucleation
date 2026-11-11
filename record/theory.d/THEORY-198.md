@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpc8tc8
 title: 'For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -30,6 +30,13 @@ history:
     title: under full capture "the renormalized Hamiltonian then gains
     no range", and "The coarse-grainings actually optimized fall short
     of that condition". No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-154: the question says it holds "promotion condition formerly on THEORY-198" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - natural-sciences
 - information-theory
@@ -48,6 +55,7 @@ summary: >-
 bears_on:
 - QUESTION-065
 - QUESTION-232
+- QUESTION-154
 ---
 
 # THEORY-198: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains

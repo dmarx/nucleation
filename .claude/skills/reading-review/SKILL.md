@@ -103,6 +103,25 @@ existing entry; the curation entry names both. In the by-line mode a tie
 counts when the entry tied is the line's own or a premise or component of
 the line's entries (the line's account names it).
 
+Some cases recur, settled by the first by-question run:
+
+- **A moved condition.** A question that holds a reading's former
+  `promote_when` (ADR-065) takes that reading's `bears_on`: the reading is
+  its premise (ADR-060). Write it when the condition moves.
+- **Whose words count.** The tied entry's own text, or the question's text
+  naming the entry as bearing on it. A question that names a reading as its
+  evidence states the relation.
+- **A question that tests a claim takes no relation from it.** Where the
+  question exists to test what a claim assumes, the claim does not bear on
+  its own test; the question cites the claim.
+- **A claim that names a question only to set it aside** takes no relation
+  (ADR-085's CLAIM-534 exception).
+- **Proposed readings** may be tied when their own text, or the
+  question's, says they bear; a `bears_on` from a reading does not depend
+  on its credence.
+- **A run split across readers** writes one curation entry, by whoever
+  combines the parts.
+
 Watch for the free relation: a reading "relevant to" a claim is not
 evidence for it. Tie only where the claim's or question's own words meet
 what the reading holds.

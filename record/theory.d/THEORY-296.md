@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpztbz7
 title: 'In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex, which iEEG sampled with 12 electrodes: the preregistered phase coupling was brief, low-frequency and mostly stimulus-evoked, and exploratory amplitude coupling, gamma included, was also brief'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -42,6 +42,13 @@ history:
     what architectural and no-report evidence can establish, which
     ADR-060's `bears_on`, filed after this entry, now carries. No other
     change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-350: the question says it holds "promotion condition formerly on THEORY-296" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - consciousness
 - neuroscience
@@ -59,6 +66,7 @@ summary: >-
   integrated information.
 bears_on:
 - QUESTION-048
+- QUESTION-350
 ---
 <!-- inactive-ok-file: THEORY-098 — Proposed; the sensory-recurrence account this bears on -->
 

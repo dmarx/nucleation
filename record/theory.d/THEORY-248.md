@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7xiz6
 title: "The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and for an L-Lipschitz loss R is at most the rate-distortion function of the output's law at distortion ε/(2L), so the bound is finite wherever that function is, including where I(S;W) is infinite"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,13 @@ history:
     non-vacuous for networks"). It moves, unchanged, to QUESTION-155.
     Theorem 4 and Corollary 6 are re-derived in the note of 2026-10-19
     below, and NOTE-780 followed every proof step by step.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-155: the question says it holds "promotion condition formerly on THEORY-248" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - learning-theory
 - information-theory
@@ -35,6 +42,8 @@ summary: >-
   ball. The block-coding meaning is proved for finite alphabets only. No
   bound is evaluated for a learned model, and every bound depends on the
   unknown data distribution.
+bears_on:
+- QUESTION-155
 ---
 
 # THEORY-248: The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and for an L-Lipschitz loss R is at most the rate-distortion function of the output's law at distortion ε/(2L), so the bound is finite wherever that function is, including where I(S;W) is infinite

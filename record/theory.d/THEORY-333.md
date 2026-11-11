@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6l5jj
 title: "Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -14,6 +14,13 @@ history:
     in NOTE-892, every number in the title stated in its text, and the title
     claiming no more than it measured. The promote_when, which asked for an
     independent measurement, moves unchanged to QUESTION-238.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-238: the question says it holds "promotion condition formerly on THEORY-333" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - databases
 date: '2026-10-15'
@@ -31,6 +38,7 @@ summary: >-
   there is no cost model and no rule for when a reorganization pays.
 bears_on:
 - QUESTION-114
+- QUESTION-238
 ---
 
 # THEORY-333: Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9wyar
 title: 'In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -24,6 +24,13 @@ history:
     which the source proposes beyond the surveys it tested, is now carried
     by THEORY-796, which extends this entry. Status and title are
     unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-210: the question says it holds "promotion condition formerly on THEORY-166" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - cognition
 - social-science
@@ -46,6 +53,8 @@ summary: >-
   with a constrained classical rival is [QUESTION-210](../questions.d/QUESTION-210.md).
 corroborates:
 - CLAIM-052
+bears_on:
+- QUESTION-210
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; named as the neighbouring account this one is consistent with -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkplf4
 title: 'Oskar and colleagues find that the evidence on procedural skill decay among emergency physicians cannot yet say how long a procedural skill lasts after competence: few studies make decay the primary outcome, almost none follow skills beyond a year, most rely on simulation and checklist scores and study trainees, and many required procedures are unstudied'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,13 @@ history:
     beyond one year, reliance on simulation or checklist assessment,
     underrepresentation of attending physicians, and required
     procedures left unstudied.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-403: the question says it holds "promotion condition formerly on THEORY-1404" (ADR-065), so
+    the reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - learning-and-conditioning
 - social-science
@@ -33,6 +40,8 @@ summary: >-
   procedural skills decay at any particular rate, or that they decay more
   than other clinicians' skills; it gives no rates at all. Its closing
   statement of what decay depends on is asserted, not shown. Active as one review's mapping of one specialty's literature; whether another review finds the same gaps is QUESTION-403.
+bears_on:
+- QUESTION-403
 ---
 
 # THEORY-1404: Oskar and colleagues find that the evidence on procedural skill decay among emergency physicians cannot yet say how long a procedural skill lasts after competence: few studies make decay the primary outcome, almost none follow skills beyond a year, most rely on simulation and checklist scores and study trainees, and many required procedures are unstudied

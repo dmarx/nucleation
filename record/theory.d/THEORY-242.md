@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3gjfu
 title: "A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -33,6 +33,13 @@ history:
     cannot separate silence from absence." Whether the mechanism operates in
     a real community is not what the title claims, and the authors ask for
     it rather than assert it; it moves to QUESTION-356.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-356: the question says it holds "promotion condition formerly on THEORY-242" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - social-science
 - network-science
@@ -50,6 +57,8 @@ summary: >-
   change, so nothing here shows a community coming to believe the
   minority view, and the majority is overturned only when the minority
   exceeds about 30%.
+bears_on:
+- QUESTION-356
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 

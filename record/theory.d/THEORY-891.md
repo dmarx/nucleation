@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcd7cz
 title: 'In dyads of untrained dancers facing each other, shared music and visual contact each raised interpersonal movement synchrony, with no interaction detected, in different movement components: lateral and hand movements synchronized through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drove a component''s synchrony was classified from its spatial direction and not from the periodicity of the synchrony'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -39,6 +39,13 @@ history:
     which the study did not measure." Its demand for an independent
     replication with an equivalence test and other temporal measures asks
     for replication and generality, and moves to QUESTION-342.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bears_on QUESTION-342: the question says it holds "promotion condition formerly on THEORY-891" (ADR-065), so the
+    reading is its premise (ADR-060). The relation was never written
+    when the condition moved; sweep of 2026-11-11, from the reading
+    review by question. No other change.
 tags:
 - complex-systems
 - embodied-cognition
@@ -57,6 +64,7 @@ summary: >-
   of coupling, and a perturbation of one member, are not in it.
 bears_on:
 - QUESTION-063
+- QUESTION-342
 ---
 <!-- inactive-ok-file: CLAIM-167 THEORY-129 — Proposed or Open; the question it bears on and the accounts it sits beside, named, not leaned on -->
 
