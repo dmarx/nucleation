@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**915 documents cited without acknowledgement.** Not listed: 23590 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**917 documents cited without acknowledgement.** Not listed: 23590 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1164,7 +1164,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-137 citations in 122 files await a look; 15 other citations of it are acknowledged.
+151 citations in 133 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:16`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:28`](../../record/arguments.d/ARG-055.md)
@@ -1175,11 +1175,23 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/arguments.d/ARG-070.md:16`](../../record/arguments.d/ARG-070.md)
 - [`record/arguments.d/ARG-071.md:29`](../../record/arguments.d/ARG-071.md)
 - [`record/cases.d/CASE-035.md:15`](../../record/cases.d/CASE-035.md)
+- [`record/cases.d/CASE-058.md:15`](../../record/cases.d/CASE-058.md)
+- [`record/cases.d/CASE-104.md:15`](../../record/cases.d/CASE-104.md)
 - [`record/cases.d/CASE-115.md:15`](../../record/cases.d/CASE-115.md)
+- [`record/cases.d/CASE-117.md:34`](../../record/cases.d/CASE-117.md)
 - [`record/cases.d/CASE-119.md:15`](../../record/cases.d/CASE-119.md)
+- [`record/cases.d/CASE-140.md:15`](../../record/cases.d/CASE-140.md)
 - [`record/cases.d/CASE-145.md:24`](../../record/cases.d/CASE-145.md)
+- [`record/cases.d/CASE-145.md:32`](../../record/cases.d/CASE-145.md)
 - [`record/cases.d/CASE-148.md:16`](../../record/cases.d/CASE-148.md)
+- [`record/cases.d/CASE-148.md:24`](../../record/cases.d/CASE-148.md)
+- [`record/cases.d/CASE-167.md:19`](../../record/cases.d/CASE-167.md)
+- [`record/cases.d/CASE-168.md:18`](../../record/cases.d/CASE-168.md)
+- [`record/cases.d/CASE-171.md:23`](../../record/cases.d/CASE-171.md)
+- [`record/cases.d/CASE-174.md:29`](../../record/cases.d/CASE-174.md)
+- [`record/cases.d/CASE-195.md:15`](../../record/cases.d/CASE-195.md)
 - [`record/cases.d/CASE-229.md:16`](../../record/cases.d/CASE-229.md)
+- [`record/cases.d/CASE-232.md:14`](../../record/cases.d/CASE-232.md)
 - [`record/claims.d/CLAIM-068.md:34`](../../record/claims.d/CLAIM-068.md)
 - [`record/claims.d/CLAIM-075.md:16`](../../record/claims.d/CLAIM-075.md)
 - [`record/claims.d/CLAIM-087.md:38`](../../record/claims.d/CLAIM-087.md)
@@ -1258,6 +1270,8 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/claims.d/CLAIM-628.md:19`](../../record/claims.d/CLAIM-628.md)
 - [`record/decisions.d/ADR-090.md:67`](../../record/decisions.d/ADR-090.md)
 - [`record/decisions.d/ADR-090.md:90`](../../record/decisions.d/ADR-090.md)
+- [`record/decisions.d/ADR-092.md:19`](../../record/decisions.d/ADR-092.md)
+- [`record/decisions.d/ADR-092.md:56`](../../record/decisions.d/ADR-092.md)
 - [`record/questions.d/QUESTION-030.md:20`](../../record/questions.d/QUESTION-030.md)
 - [`record/questions.d/QUESTION-063.md:43`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-088.md:29`](../../record/questions.d/QUESTION-088.md)
@@ -2554,7 +2568,7 @@ A collective that replaces all its members persists, when it does, by causal tra
 - [`record/cases.d/CASE-116.md:89`](../../record/cases.d/CASE-116.md)
 - [`record/cases.d/CASE-148.md:12`](../../record/cases.d/CASE-148.md)
 - [`record/cases.d/CASE-148.md:14`](../../record/cases.d/CASE-148.md)
-- [`record/cases.d/CASE-148.md:60`](../../record/cases.d/CASE-148.md)
+- [`record/cases.d/CASE-148.md:69`](../../record/cases.d/CASE-148.md)
 - [`record/claims.d/CLAIM-177.md:125`](../../record/claims.d/CLAIM-177.md)
 - [`record/claims.d/CLAIM-328.md:89`](../../record/claims.d/CLAIM-328.md)
 - [`record/claims.d/CLAIM-517.md:76`](../../record/claims.d/CLAIM-517.md)
@@ -3284,6 +3298,27 @@ A macro feature can supervene on a system's present state and still carry inform
 - [`record/theory.d/THEORY-707.md:80`](../../record/theory.d/THEORY-707.md)
 - [`record/theory.d/THEORY-712.md:86`](../../record/theory.d/THEORY-712.md)
 
+### [ADR-092](../../record/decisions.d/ADR-092.md) — Proposed
+
+A case can bear on a question, by the same `bears_on` claims, readings and accounts carry, and a question's `bearing` lists the cases with them; how the case bears is its kind's to say, not the relation's
+
+14 citations in 13 files await a look.
+
+- [`record/cases.d/CASE-058.md:13`](../../record/cases.d/CASE-058.md)
+- [`record/cases.d/CASE-104.md:13`](../../record/cases.d/CASE-104.md)
+- [`record/cases.d/CASE-117.md:32`](../../record/cases.d/CASE-117.md)
+- [`record/cases.d/CASE-140.md:13`](../../record/cases.d/CASE-140.md)
+- [`record/cases.d/CASE-145.md:30`](../../record/cases.d/CASE-145.md)
+- [`record/cases.d/CASE-148.md:22`](../../record/cases.d/CASE-148.md)
+- [`record/cases.d/CASE-167.md:17`](../../record/cases.d/CASE-167.md)
+- [`record/cases.d/CASE-168.md:17`](../../record/cases.d/CASE-168.md)
+- [`record/cases.d/CASE-171.md:21`](../../record/cases.d/CASE-171.md)
+- [`record/cases.d/CASE-174.md:28`](../../record/cases.d/CASE-174.md)
+- [`record/cases.d/CASE-195.md:13`](../../record/cases.d/CASE-195.md)
+- [`record/cases.d/CASE-232.md:14`](../../record/cases.d/CASE-232.md)
+- [`record/questions.d/QUESTION-449.md:19`](../../record/questions.d/QUESTION-449.md)
+- [`record/questions.d/QUESTION-449.md:132`](../../record/questions.d/QUESTION-449.md)
+
 ### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Proposed
 
 Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
@@ -3693,7 +3728,7 @@ A collective emotion is the synchronous convergence of individuals' affective re
 
 12 citations in 5 files await a look; 16 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-104.md:41`](../../record/cases.d/CASE-104.md)
+- [`record/cases.d/CASE-104.md:51`](../../record/cases.d/CASE-104.md)
 - [`record/literature.d/LIT-1721.md:57`](../../record/literature.d/LIT-1721.md)
 - [`record/literature.d/LIT-1722.md:53`](../../record/literature.d/LIT-1722.md)
 - [`record/literature.d/LIT-1723.md:63`](../../record/literature.d/LIT-1723.md)
@@ -4314,10 +4349,10 @@ What the record explained by "self" in its dispositional, persisting, self-gover
 
 - [`record/cases.d/CASE-145.md:21`](../../record/cases.d/CASE-145.md)
 - [`record/cases.d/CASE-145.md:22`](../../record/cases.d/CASE-145.md)
-- [`record/cases.d/CASE-145.md:77`](../../record/cases.d/CASE-145.md)
+- [`record/cases.d/CASE-145.md:86`](../../record/cases.d/CASE-145.md)
 - [`record/cases.d/CASE-148.md:12`](../../record/cases.d/CASE-148.md)
 - [`record/cases.d/CASE-148.md:13`](../../record/cases.d/CASE-148.md)
-- [`record/cases.d/CASE-148.md:35`](../../record/cases.d/CASE-148.md)
+- [`record/cases.d/CASE-148.md:42`](../../record/cases.d/CASE-148.md)
 - [`record/claims.d/CLAIM-428.md:84`](../../record/claims.d/CLAIM-428.md)
 - [`record/claims.d/CLAIM-430.md:61`](../../record/claims.d/CLAIM-430.md)
 - [`record/terms.d/TERM-084.md:61`](../../record/terms.d/TERM-084.md)
@@ -4565,7 +4600,7 @@ A collective's reasons need not be any of its members' reasons, so aggregating m
 
 8 citations in 7 files await a look; 31 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-104.md:53`](../../record/cases.d/CASE-104.md)
+- [`record/cases.d/CASE-104.md:63`](../../record/cases.d/CASE-104.md)
 - [`record/cases.d/CASE-110.md:83`](../../record/cases.d/CASE-110.md)
 - [`record/claims.d/CLAIM-418.md:156`](../../record/claims.d/CLAIM-418.md)
 - [`record/questions.d/QUESTION-082.md:42`](../../record/questions.d/QUESTION-082.md)
@@ -5382,6 +5417,19 @@ In fear conditioning, extinction does not erase the original threat association 
 - [`record/claims.d/CLAIM-446.md:365`](../../record/claims.d/CLAIM-446.md)
 - [`record/claims.d/CLAIM-446.md:424`](../../record/claims.d/CLAIM-446.md)
 
+### [ADR-090](../../record/decisions.d/ADR-090.md) — Proposed
+
+A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses
+
+6 citations in 3 files await a look; 2 other citations of it are acknowledged.
+
+- [`docs/README.md:9`](../README.md)
+- [`record/decisions.d/ADR-091.md:12`](../../record/decisions.d/ADR-091.md)
+- [`record/decisions.d/ADR-091.md:32`](../../record/decisions.d/ADR-091.md)
+- [`record/decisions.d/ADR-091.md:37`](../../record/decisions.d/ADR-091.md)
+- [`record/decisions.d/ADR-092.md:83`](../../record/decisions.d/ADR-092.md)
+- [`record/decisions.d/ADR-092.md:84`](../../record/decisions.d/ADR-092.md)
+
 ### [ARG-025](../../record/arguments.d/ARG-025.md) — Proposed
 
 Matched ordinary behaviour and differing responses to intervention show that organizational perspectives explain what the record explained by self
@@ -5394,6 +5442,19 @@ Matched ordinary behaviour and differing responses to intervention show that org
 - [`record/claims.d/CLAIM-417.md:34`](../../record/claims.d/CLAIM-417.md)
 - [`record/claims.d/CLAIM-417.md:260`](../../record/claims.d/CLAIM-417.md)
 - [`record/claims.d/CLAIM-454.md:32`](../../record/claims.d/CLAIM-454.md)
+
+### [CASE-171](../../record/cases.d/CASE-171.md) — Proposed
+
+Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed
+
+6 citations in 3 files await a look; 13 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-173.md:71`](../../record/cases.d/CASE-173.md)
+- [`record/cases.d/CASE-174.md:28`](../../record/cases.d/CASE-174.md)
+- [`record/cases.d/CASE-174.md:75`](../../record/cases.d/CASE-174.md)
+- [`record/theory.d/THEORY-418.md:177`](../../record/theory.d/THEORY-418.md)
+- [`record/theory.d/THEORY-418.md:186`](../../record/theory.d/THEORY-418.md)
+- [`record/theory.d/THEORY-418.md:191`](../../record/theory.d/THEORY-418.md)
 
 ### [CLAIM-156](../../record/claims.d/CLAIM-156.md) — Proposed
 
@@ -6016,18 +6077,6 @@ Saussure's account of value grounds the premise that significance is fixed by co
 - [`record/claims.d/CLAIM-489.md:54`](../../record/claims.d/CLAIM-489.md)
 - [`record/theory.d/THEORY-159.md:99`](../../record/theory.d/THEORY-159.md)
 
-### [CASE-171](../../record/cases.d/CASE-171.md) — Proposed
-
-Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed
-
-5 citations in 3 files await a look; 13 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-173.md:71`](../../record/cases.d/CASE-173.md)
-- [`record/cases.d/CASE-174.md:67`](../../record/cases.d/CASE-174.md)
-- [`record/theory.d/THEORY-418.md:177`](../../record/theory.d/THEORY-418.md)
-- [`record/theory.d/THEORY-418.md:186`](../../record/theory.d/THEORY-418.md)
-- [`record/theory.d/THEORY-418.md:191`](../../record/theory.d/THEORY-418.md)
-
 ### [CASE-194](../../record/cases.d/CASE-194.md) — Proposed
 
 Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies
@@ -6591,17 +6640,6 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 - [`record/claims.d/CLAIM-444.md:161`](../../record/claims.d/CLAIM-444.md)
 - [`record/claims.d/CLAIM-446.md:265`](../../record/claims.d/CLAIM-446.md)
 - [`record/claims.d/CLAIM-451.md:152`](../../record/claims.d/CLAIM-451.md)
-
-### [ADR-090](../../record/decisions.d/ADR-090.md) — Proposed
-
-A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses
-
-4 citations in 2 files await a look; 2 other citations of it are acknowledged.
-
-- [`docs/README.md:9`](../README.md)
-- [`record/decisions.d/ADR-091.md:12`](../../record/decisions.d/ADR-091.md)
-- [`record/decisions.d/ADR-091.md:32`](../../record/decisions.d/ADR-091.md)
-- [`record/decisions.d/ADR-091.md:37`](../../record/decisions.d/ADR-091.md)
 
 ### [ARG-022](../../record/arguments.d/ARG-022.md) — Rejected
 
@@ -7547,7 +7585,7 @@ Paulinella chromatophora: a photosynthetic organelle in the making, from an endo
 
 3 citations in 3 files await a look; 14 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-167.md:49`](../../record/cases.d/CASE-167.md)
+- [`record/cases.d/CASE-167.md:58`](../../record/cases.d/CASE-167.md)
 - [`record/cases.d/CASE-173.md:72`](../../record/cases.d/CASE-173.md)
 - [`record/literature.d/LIT-1621.md:45`](../../record/literature.d/LIT-1621.md)
 
@@ -8038,7 +8076,7 @@ The perpetuation of an arbitrary tradition through several generations of a labo
 3 citations in 3 files await a look.
 
 - [`record/cases.d/CASE-101.md:84`](../../record/cases.d/CASE-101.md)
-- [`record/cases.d/CASE-148.md:68`](../../record/cases.d/CASE-148.md)
+- [`record/cases.d/CASE-148.md:77`](../../record/cases.d/CASE-148.md)
 - [`record/questions.d/QUESTION-118.md:106`](../../record/questions.d/QUESTION-118.md)
 
 ### [LIT-1429](../../record/literature.d/LIT-1429.md) — Unavailable
@@ -8748,6 +8786,24 @@ A 192-state organization on which one kernel gives several closure verdicts: the
 
 - [`record/claims.d/CLAIM-336.md:330`](../../record/claims.d/CLAIM-336.md)
 - [`record/syntheses.d/SYNTHESIS-011.md:264`](../../record/syntheses.d/SYNTHESIS-011.md)
+
+### [CASE-173](../../record/cases.d/CASE-173.md) — Proposed
+
+Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
+
+2 citations in 1 file await a look; 26 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-174.md:28`](../../record/cases.d/CASE-174.md)
+- [`record/cases.d/CASE-174.md:75`](../../record/cases.d/CASE-174.md)
+
+### [CASE-195](../../record/cases.d/CASE-195.md) — Proposed
+
+Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility
+
+2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-092.md:39`](../../record/decisions.d/ADR-092.md)
+- [`record/decisions.d/ADR-092.md:60`](../../record/decisions.d/ADR-092.md)
 
 ### [CASE-229](../../record/cases.d/CASE-229.md) — Proposed
 
@@ -10396,14 +10452,6 @@ The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine
 1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-1049.md:122`](../../record/theory.d/THEORY-1049.md)
-
-### [CASE-173](../../record/cases.d/CASE-173.md) — Proposed
-
-Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
-
-1 citation in 1 file awaits a look; 26 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-174.md:67`](../../record/cases.d/CASE-174.md)
 
 ### [CASE-200](../../record/cases.d/CASE-200.md) — Proposed
 

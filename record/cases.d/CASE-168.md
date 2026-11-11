@@ -14,7 +14,7 @@ history:
   date: '2026-11-11'
   note: >-
     Bears on QUESTION-277, now that a case can carry `bears_on`
-    (ADR-tmpcrpf5); added as that decision's demonstration. Its text cites the question: As A2 put it, "losing genetic information is not equivalent to losing function, losing autonomy, or increasing integration" (QUESTION-277). No line changes
+    (ADR-092); added as that decision's demonstration. Its text cites the question: As A2 put it, "losing genetic information is not equivalent to losing function, losing autonomy, or increasing integration" (QUESTION-277). No line changes
     (ADR-085). No other change.
 standing: documented
 kind: specimen

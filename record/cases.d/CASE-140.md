@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Bears on QUESTION-119, now that a case can carry `bears_on`
-    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    (ADR-092); added as that decision's demonstration. Its text
     names the question: "It is QUESTION-119 asked from". No line changes
     (ADR-085). No other change.
 standing: fictional

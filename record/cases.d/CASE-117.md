@@ -29,7 +29,7 @@ history:
   note: >-
     Bears on QUESTION-083, QUESTION-125, QUESTION-132, QUESTION-133,
     QUESTION-134, QUESTION-135, now that a case can carry `bears_on`
-    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    (ADR-092); added as that decision's demonstration. Its text
     names the question: "QUESTION-083 and the questions filed with it".
     No line changes (ADR-085). No other change.
 standing: stipulated

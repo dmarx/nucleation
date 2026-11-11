@@ -10,7 +10,7 @@ history:
   date: '2026-11-11'
   note: >-
     Bears on QUESTION-117, now that a case can carry `bears_on`
-    (ADR-tmpcrpf5); added as that decision's demonstration. Its text
+    (ADR-092); added as that decision's demonstration. Its text
     names the question: "leverage measured before spread, is the one
     QUESTION-117". Under ADR-085 it takes the question's first line,
     distributed-agency. No other change.

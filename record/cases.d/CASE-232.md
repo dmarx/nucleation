@@ -11,7 +11,7 @@ history:
   note: >-
     Bears on QUESTION-449, the question it was filed for ("Bearing on
     QUESTION-449" is a section of its body), now that a case can carry
-    `bears_on` (ADR-tmpcrpf5). No line changes (ADR-085). No other
+    `bears_on` (ADR-092). No line changes (ADR-085). No other
     change.
 standing: stipulated
 kind: specimen

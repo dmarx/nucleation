@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1265 document(s) awaiting a decision.**
+**1266 document(s) awaiting a decision.**
 
 ## LITs
 
-141 of the 1265.
+141 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -157,7 +157,7 @@
 
 ## THEORYs
 
-699 of the 1265.
+699 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -863,7 +863,7 @@
 
 ## ADRs
 
-16 of the 1265.
+17 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -876,17 +876,18 @@
 | 2026-11-07 | Proposed | [ADR-079](../../record/decisions.d/ADR-079.md) | 0 | 6 | 0 | Each directed relation is stored on one side only, the side a filer writes, and its converse is derived when the record is read; the sweep that removes the stored converses is this decision's demonstration |
 | 2026-11-07 | Proposed | [ADR-081](../../record/decisions.d/ADR-081.md) | 0 | 0 | 0 | The Pages site deploys at most once every two hours: a merge still triggers it, a gate skips the build when the last deploy is under two hours old or already published the commit, and a scheduled run every two hours publishes what the gate skipped |
 | 2026-11-08 | Proposed | [ADR-084](../../record/decisions.d/ADR-084.md) | 0 | 117 | 78 | A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again |
-| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 152 | 137 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
+| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 166 | 151 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
 | 2026-11-10 | Proposed | [ADR-087](../../record/decisions.d/ADR-087.md) | 0 | 45 | 45 | The readiness line is split in two: readiness keeps keeping a rare capability and reaching and paying for configurations under budgets; when transient support can be withdrawn becomes the line transient-support, because that part barely relates to the other two |
 | 2026-11-10 | Proposed | [ADR-086](../../record/decisions.d/ADR-086.md) | 0 | 0 | 0 | An entry shows the accounts that integrate it: `integrates` gets a derived converse, `integrated_by`, on every scheme an account can integrate, so a part of a line's argument is visible from its members and not only from the current-account view |
 | 2026-11-11 | Proposed | [ADR-089](../../record/decisions.d/ADR-089.md) | 0 | 35 | 35 | Normative judgment about organizations becomes a line of its own, organizational-normativity, split from will-organization: whether an organization's own dynamics ground norms, and what judging one needs, is a question of its own, while acting as one stays, because its root question refines the line's own |
 | 2026-11-11 | Proposed | [ADR-088](../../record/decisions.d/ADR-088.md) | 0 | 31 | 27 | The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness |
-| 2026-11-11 | Proposed | [ADR-090](../../record/decisions.d/ADR-090.md) | 0 | 6 | 4 | A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses |
+| 2026-11-11 | Proposed | [ADR-092](../../record/decisions.d/ADR-092.md) | 0 | 14 | 14 | A case can bear on a question, by the same `bears_on` claims, readings and accounts carry, and a question's `bearing` lists the cases with them; how the case bears is its kind's to say, not the relation's |
+| 2026-11-11 | Proposed | [ADR-090](../../record/decisions.d/ADR-090.md) | 0 | 8 | 6 | A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses |
 | 2026-11-11 | Proposed | [ADR-091](../../record/decisions.d/ADR-091.md) | 0 | 1 | 0 | Readings no line uses are reviewed in a protocol of their own, by line, by topic or by question, and each is tied to an entry that should use it, raised as a question or claim, held with a reason, or flagged |
 
 ## QUESTIONs
 
-6 of the 1265.
+6 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -899,7 +900,7 @@
 
 ## CLAIMs
 
-222 of the 1265.
+222 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1128,7 +1129,7 @@
 
 ## CASEs
 
-43 of the 1265.
+43 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1146,15 +1147,15 @@
 | 2026-11-07 | Proposed | [CASE-229](../../record/cases.d/CASE-229.md) | 1 | 16 | 2 | Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B's governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain |
 | 2026-11-07 | Proposed | [CASE-228](../../record/cases.d/CASE-228.md) | 1 | 15 | 1 | Reporting by total output against reporting that also records breaches of the hours cap: under self-scored regime selection the aggregate regime is always kept and records no violation while one occurs, and the adequate regime keeps itself only when the penalty on a recorded breach exceeds the convenience of breaching plus the cost of reporting |
 | 2026-10-04 | Deferred | [CASE-014](../../record/cases.d/CASE-014.md) | 0 | 8 | 1 | Microsoft, as the philosophical target |
-| 2026-10-27 | Proposed | [CASE-173](../../record/cases.d/CASE-173.md) | 0 | 27 | 1 | Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's |
-| 2026-10-27 | Proposed | [CASE-171](../../record/cases.d/CASE-171.md) | 0 | 18 | 5 | Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed |
+| 2026-10-27 | Proposed | [CASE-173](../../record/cases.d/CASE-173.md) | 0 | 28 | 2 | Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's |
+| 2026-10-27 | Proposed | [CASE-171](../../record/cases.d/CASE-171.md) | 0 | 19 | 6 | Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed |
 | 2026-10-27 | Proposed | [CASE-174](../../record/cases.d/CASE-174.md) | 0 | 17 | 3 | Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids', its genome reduced to about a third of its coding capacity, and hundreds of host proteins imported into it, most encoded by the host's own genes rather than transferred from the symbiont |
 | 2026-10-27 | Proposed | [CASE-177](../../record/cases.d/CASE-177.md) | 0 | 17 | 3 | Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage |
 | 2026-10-27 | Proposed | [CASE-167](../../record/cases.d/CASE-167.md) | 0 | 13 | 1 | The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine alga, whose division is coupled to the host's and which imports host-encoded proteins, reclassified as an early-stage organelle in 2024 |
 | 2026-10-27 | Proposed | [CASE-168](../../record/cases.d/CASE-168.md) | 0 | 8 | 0 | Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle's essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity |
 | 2026-11-04 | Proposed | [CASE-193](../../record/cases.d/CASE-193.md) | 0 | 9 | 0 | Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so singularity and compatibility vary independently, while λ here is ½ in both frustrated arms and 1 in both compatible ones |
 | 2026-11-04 | Proposed | [CASE-203](../../record/cases.d/CASE-203.md) | 0 | 8 | 0 | The U.S. fire incident reporting guidance on cancelled dispatches, 2023: units assigned, arrived and turned back are recorded, while a call a department could not answer for lack of resources is not an incident at all, so the data omit the failures that most concern readiness |
-| 2026-11-04 | Proposed | [CASE-195](../../record/cases.d/CASE-195.md) | 0 | 4 | 0 | Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility |
+| 2026-11-04 | Proposed | [CASE-195](../../record/cases.d/CASE-195.md) | 0 | 6 | 2 | Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility |
 | 2026-11-04 | Proposed | [CASE-192](../../record/cases.d/CASE-192.md) | 0 | 3 | 0 | Two organizations equally impaired during an emotional episode, one dysregulated in DBT's sense, its threat perspective's baseline raised by the episode and decaying slowly, the other in the attentional sense, its task sharing a fixed budget with a competing demand: only the first stays impaired after the episode ends, and lowering activation repairs only the first while removing the competing demand repairs only the second |
 | 2026-11-04 | Proposed | [CASE-196](../../record/cases.d/CASE-196.md) | 0 | 3 | 0 | Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium |
 | 2026-11-05 | Proposed | [CASE-200](../../record/cases.d/CASE-200.md) | 0 | 24 | 1 | A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it |
@@ -1178,7 +1179,7 @@
 
 ## TERMs
 
-23 of the 1265.
+23 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1208,7 +1209,7 @@
 
 ## ARGs
 
-37 of the 1265.
+37 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1252,7 +1253,7 @@
 
 ## SYNTHESISs
 
-78 of the 1265.
+78 of the 1266.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

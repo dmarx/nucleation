@@ -16,7 +16,7 @@ history:
   date: '2026-11-11'
   note: >-
     The dated note of 2026-11-11 now says that CASE-232 carries
-    `bears_on` to this question, since ADR-tmpcrpf5. No other change.
+    `bears_on` to this question, since ADR-092. No other change.
 tags:
 - ethics
 - self-governance
@@ -129,5 +129,5 @@ that reproduces a mechanism it can see. The question may want to say which
 it asks about. The reading is the assistant's.
 
 A case cannot carry `bears_on`, so the tie is held by the two readings'
-`bears_on` and this note. (Since [ADR-tmpcrpf5](../decisions.d/ADR-tmpcrpf5.md), later the same day, the case carries
+`bears_on` and this note. (Since [ADR-092](../decisions.d/ADR-092.md), later the same day, the case carries
 `bears_on` itself.)

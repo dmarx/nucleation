@@ -1157,7 +1157,7 @@ schemes:
       bearing:
         label: Bearing on it
         blurb: the claims, accounts and cases that bear on this question without answering it, written
-          by `luria link --fix` from their `bears_on` (ADR-060, ADR-tmpcrpf5)
+          by `luria link --fix` from their `bears_on` (ADR-060, ADR-092)
         scheme: [CLAIM, THEORY, CASE]
         required: false
         many: true
@@ -1433,7 +1433,7 @@ schemes:
       bears_on:
         label: Bears on
         blurb: a question this case is evidence for or against, or a test, model or instance of, without
-          answering it. The case's `kind` says which; the relation does not (ADR-tmpcrpf5)
+          answering it. The case's `kind` says which; the relation does not (ADR-092)
         scheme: QUESTION
         required: false
         many: true

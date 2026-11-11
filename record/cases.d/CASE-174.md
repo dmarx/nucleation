@@ -25,7 +25,7 @@ history:
   date: '2026-11-11'
   note: >-
     Bears on QUESTION-277, now that a case can carry `bears_on`
-    (ADR-tmpcrpf5); added as that decision's demonstration. Its text cites the question: "This is the route the mealybug (CASE-171) and aphid (CASE-173) cases do not take (QUESTION-277)." No line changes
+    (ADR-092); added as that decision's demonstration. Its text cites the question: "This is the route the mealybug (CASE-171) and aphid (CASE-173) cases do not take (QUESTION-277)." No line changes
     (ADR-085). No other change.
 standing: documented
 kind: specimen
