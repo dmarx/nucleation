@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpc7m5v
 title: 'Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,21 @@ history:
     descriptions fail to yield one global account; two are this claim's
     ambiguity and contextuality, the third (THEORY-820's non-compositional
     closure) is a different kind. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    LIT-841, Abramsky and Sadrzadeh, leaves grounds, at the status
+    review's ruling (the owner delegated these rulings; ADR-058). It now
+    has a reading, THEORY-1586, filed in the read-and-file pass of
+    2026-11-11. The claim is recovered from the manuscript (A81, A82),
+    and the paper sharpens it ("Sharpened by Abramsky and Sadrzadeh"):
+    a parallel the claim does not stand on, so the reading corroborates
+    it. corroborated_by is derived, so the edge belongs on THEORY-1586 as
+    corroborates: CLAIM-044, which this change does not write. The same
+    section said "A failure to glue is inconsistency"; NOTE-644's key
+    results give a shared-vocabulary example that fails without it, so
+    the sentence is narrowed to the paper's linguistic examples. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,15 +48,13 @@ complements:
 - CLAIM-143
 uses:
 - TERM-042
-grounds:
-- LIT-841
 summary: >-
   A81 §3.4 and A82 §8.7, recovered. The manuscript keeps the contrast
   between context sensitivity and contextuality but not this one,
   between too many global readings and none. Dropped at C6 without
   critique.
 ---
-<!-- inactive-ok-file: CLAIM-037 CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-037 CLAIM-105 THEORY-1586 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-044: Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
 
@@ -68,8 +81,10 @@ without becoming more contextual ([CLAIM-105](CLAIM-105.md)).
 
 Abramsky and Sadrzadeh's Semantic Unification ([LIT-841](../literature.d/LIT-841.md), [NOTE-644](../notes.d/NOTE-644.md))
 treats ambiguity as a choice among several admissible covers. Each cover
-glues at most once. A failure to glue is inconsistency, a third thing
-beside ambiguity and contextuality.
+glues at most once. In its linguistic examples a failure to glue is
+inconsistency, a third thing beside ambiguity and contextuality; its one
+shared-vocabulary example fails by over-determining a local section,
+which is not contextuality either.
 
 So in that framework, "several compatible global assignments" means
 several covers, not several sections over one cover. The paper models

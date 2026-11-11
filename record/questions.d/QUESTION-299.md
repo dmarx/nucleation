@@ -4,7 +4,21 @@ status: Open
 formerly:
 - QUESTION-tmpmx9ha
 title: "What, if anything, do the living owe people who will live in the far future, and does that obligation rest on the good of those people, on an impersonal good, or on what the living themselves value?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Corrected an attribution in the note of 2026-10-29. Its point on the
+    impersonal ground grouped MacAskill, Thomas and Vallinder (NOTE-1300)
+    with Ord (NOTE-1317, NOTE-1269) and then said, unattributed, "Value
+    is significance times persistence times contingency, and nothing
+    about anyone's self enters." The factorization is MacAskill, Thomas
+    and Vallinder's (LIT-1778, NOTE-1300); NOTE-1269 records that Ord's
+    trajectory chapter (LIT-1761) sums value over time with no pure time
+    preference and does not use it. The sentence now attributes it so.
+    Flagged by the curation entry of the read-and-file pass of
+    2026-11-11.
 tags:
 - future-generations
 - ethics
@@ -162,9 +176,11 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   also puts it ([NOTE-1267](../notes.d/NOTE-1267.md)).
 - **The impersonal ground's accounting** (MacAskill, Thomas and Vallinder,
   [NOTE-1300](../notes.d/NOTE-1300.md), read in place of MacAskill's book; Ord, [NOTE-1317](../notes.d/NOTE-1317.md) and
-  [NOTE-1269](../notes.d/NOTE-1269.md), read in place of Ord's). Value is significance times
-  persistence times contingency, and nothing about anyone's self enters.
-  Ord's estimates are unchanged since the book. He reports that against
+  [NOTE-1269](../notes.d/NOTE-1269.md), read in place of Ord's). In MacAskill, Thomas and
+  Vallinder's accounting, not Ord's, value is significance times
+  persistence times contingency; Ord's trajectory chapter sums value over
+  time with no pure time preference. In neither does anything about
+  anyone's self enter. Ord's estimates are unchanged since the book. He reports that against
   Covid humanity united "at first", then split within months, and his
   remedy is institutions, not identity. In passing, from one study he
   cites, Ord says people discount benefits to future generations no more
