@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [11 Nov 18:04 — Defect sweep of 2026-11-11 after the by-topic reading review: stale notes, two wrong citations, and grounds on works that have readings](2026-11.md#defect-sweep-of-2026-11-11-after-the-by-topic-reading-review-stale-notes-two-wrong-citations-and-grounds-on-works-that-have-readings)
 - [11 Nov 17:47 — Reading review of 2026-11-11, by topic: the five largest topics no line used; 101 readings tied, 4 raised as a question and a claim, 117 held](2026-11.md#reading-review-of-2026-11-11-by-topic-the-five-largest-topics-no-line-used-101-readings-tied-4-raised-as-a-question-and-a-claim-117-held)
 - [11 Nov 17:02 — Defect sweep of 2026-11-11 after the read-and-file pass: stale notes, placeholders, the gluing obstruction, an attribution, grounds moved to corroboration](2026-11.md#defect-sweep-of-2026-11-11-after-the-read-and-file-pass-stale-notes-placeholders-the-gluing-obstruction-an-attribution-grounds-moved-to-corroboration)
 - [11 Nov 15:55 — Read-and-file pass of 2026-11-11: 74 readings for works read into notes only, tied to the legacy, inheritance, identity and future-generations questions](2026-11.md#read-and-file-pass-of-2026-11-11-74-readings-for-works-read-into-notes-only-tied-to-the-legacy-inheritance-identity-and-future-generations-questions)
@@ -52,10 +53,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-240 entries across 3 books, newest first.
+241 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 43 | 2026-11-01 | 2026-11-11 |
+| [2026-11](2026-11.md) | 44 | 2026-11-01 | 2026-11-11 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
