@@ -42,7 +42,7 @@ summary: >-
   individuals' affective responses to one event or object", and "it needs
   no group subject".
 
-CLAIM-039, Proposed since its line was reopened on 2026-10-23, says affective states can be properties
+[CLAIM-039](../claims.d/CLAIM-039.md), Proposed since its line was reopened on 2026-10-23, says affective states can be properties
 of organized systems, characterized functionally. On [THEORY-126](../theory.d/THEORY-126.md) that claim
 is about convergence among members. On [THEORY-125](../theory.d/THEORY-125.md) it is about a state of
 the system. The two predict different cases.

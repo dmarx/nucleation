@@ -221,7 +221,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   unrecoverable by restoring funding. It needs a premise no component
   holds, that learning from drills needs capacity already present;
   [CLAIM-605](../claims.d/CLAIM-605.md)'s learning is by doing the served work.
-- **What else safe withdrawal needs.** CLAIM-600's version 8 says its
+- **What else safe withdrawal needs.** [CLAIM-600](../claims.d/CLAIM-600.md)'s version 8 says its
   conditions are not enough and that support can carry functions nobody
   names before withdrawal; no component says which, or how to find them
   before withdrawal.
@@ -233,6 +233,6 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 - That the models' numbers fit any organization, household or state; each
   claim disclaims that.
 - That aid recipients are like microbes in mechanism ([CLAIM-603](../claims.d/CLAIM-603.md)).
-- That CLAIM-600's conditions suffice for safe withdrawal; its version 8
+- That [CLAIM-600](../claims.d/CLAIM-600.md)'s conditions suffice for safe withdrawal; its version 8
   withdraws that, on its own water scheme.
 - Anything with standing of its own.

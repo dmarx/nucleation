@@ -441,9 +441,9 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
 
 ## Admission
 
-Admitted at the synthesis review of 2026-11-07 (ADR-078) by ADR-075's hypothesis route, as a claim of joint sufficiency. Re-admitted on 2026-11-11 as the narrower claim of version 8, by the same route.
+Admitted at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) by [ADR-075](../decisions.d/ADR-075.md)'s hypothesis route, as a claim of joint sufficiency. Re-admitted on 2026-11-11 as the narrower claim of version 8, by the same route.
 
-**The case.** A conservation programme suppresses the fire that threatens a reintroduced population, and is withdrawn while the fire regime still persists. The population nonetheless holds through a turnover, because by then it has spread into refuges the fire does not reach, a feedback of its own. Every premise holds: no part of the population was supplied from outside (CLAIM-597), there is no threshold left uncrossed (CLAIM-604), the support never did the population's work (CLAIM-602), and regeneration is its own (CLAIM-566). The claim fails: support against a persisting threat was withdrawn and the party persisted. So the threat condition is not any premise restated, and the claim has content of its own. Such a case would also defeat it, by its first clause; none is on the record.
+**The case.** A conservation programme suppresses the fire that threatens a reintroduced population, and is withdrawn while the fire regime still persists. The population nonetheless holds through a turnover, because by then it has spread into refuges the fire does not reach, a feedback of its own. Every premise holds: no part of the population was supplied from outside ([CLAIM-597](CLAIM-597.md)), there is no threshold left uncrossed ([CLAIM-604](CLAIM-604.md)), the support never did the population's work ([CLAIM-602](CLAIM-602.md)), and regeneration is its own ([CLAIM-566](CLAIM-566.md)). The claim fails: support against a persisting threat was withdrawn and the party persisted. So the threat condition is not any premise restated, and the claim has content of its own. Such a case would also defeat it, by its first clause; none is on the record.
 
 **The free parameter, closed.** "Inputs the party cannot produce" and "each
 subtask it must later do alone" could absorb any decline after the fact:

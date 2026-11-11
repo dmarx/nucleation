@@ -124,14 +124,14 @@ The status stays Deferred. Reopening the line is the owner's call.
 ## Note of 2026-11-11: a correction to the note of 2026-10-18
 
 The last item of the note of 2026-10-18 says that the manipulation
-defeater this claim states "is not met by either" CLAIM-362 or CLAIM-364.
+defeater this claim states "is not met by either" [CLAIM-362](CLAIM-362.md) or [CLAIM-364](CLAIM-364.md).
 Read against the claim's `defeated_if`, "not met" would mean the claim is
-not defeated. That was not the point. The point, as CLAIM-364 puts it, is
+not defeated. That was not the point. The point, as [CLAIM-364](CLAIM-364.md) puts it, is
 that "CLAIM-016's manipulation defeater is still outstanding": neither
 entry answers the manipulation objection, so the case that would defeat
-this claim is still open. The same item gives CLAIM-364 the verdict that
-low supervisory cost cannot show non-domination. Since CLAIM-364's split
-of 2026-10-28 that verdict is ARG-030's, which CLAIM-364 undercuts. The
+this claim is still open. The same item gives [CLAIM-364](CLAIM-364.md) the verdict that
+low supervisory cost cannot show non-domination. Since [CLAIM-364](CLAIM-364.md)'s split
+of 2026-10-28 that verdict is [ARG-030](../arguments.d/ARG-030.md)'s, which [CLAIM-364](CLAIM-364.md) undercuts. The
 note of 2026-10-18 is kept as written.
 
 The status stays Deferred.

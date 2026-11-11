@@ -63,7 +63,7 @@ summary: >-
 
 ## Why the record needs it
 
-CLAIM-003 was Deferred with its line until 2026-11-11, and its note says the rival account "asserts uniform broadcast rather than measuring it". An answer would tell the line whether compartmented access is a fact about brains or only about organizations. The organizational half transfers only if an organization's permission structure plays the role long-range hub connectivity plays. That is the mechanism the claim names, and the brain half is needed before it can be tested.
+[CLAIM-003](../claims.d/CLAIM-003.md) was Deferred with its line until 2026-11-11, and its note says the rival account "asserts uniform broadcast rather than measuring it". An answer would tell the line whether compartmented access is a fact about brains or only about organizations. The organizational half transfers only if an organization's permission structure plays the role long-range hub connectivity plays. That is the mechanism the claim names, and the brain half is needed before it can be tested.
 
 ## What the record holds
 

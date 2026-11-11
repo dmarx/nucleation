@@ -42,7 +42,7 @@ summary: >-
   shows no common decrease. The increases, near the broadcasters, are not
   robust.
 ---
-<!-- inactive-ok-file: QUESTION-061 CLAIM-003 THEORY-096 THEORY-098 CLAIM-158 — Deferred or Proposed; the set-aside question this work was filed for, its claim, and the accounts it bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-003 THEORY-096 THEORY-098 CLAIM-158 — Deferred or Proposed; the set-aside question this work was filed for, its claim, and the accounts it bears on, cited as open -->
 
 # NOTE-799: Luppi et al. — A synergistic workspace for human consciousness
 

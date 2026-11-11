@@ -114,17 +114,17 @@ Two claims filed after this body was written answer part of what it
 leaves open, for the function-preserving symmetries and not for
 trajectories.
 
-- CLAIM-629 (Proposed, demonstrated) takes up "Whether a frustration
+- [CLAIM-629](../claims.d/CLAIM-629.md) (Proposed, demonstrated) takes up "Whether a frustration
   verdict is constant on symmetry orbits" for the three symmetries named
   above, each a linear isomorphism of the parameters. The common-descent
   verdict is constant on their orbits. A frustration residual budgeted in
   a fixed Euclidean norm is constant along permutations and orthogonal
   maps and changes along rescalings across a ReLU. It does not cover a
-  symmetry that is not a diffeomorphism, such as a blow-up (CLAIM-305).
-- CLAIM-555 (Proposed) adds that the compatibility complex is unchanged
+  symmetry that is not a diffeomorphism, such as a blow-up ([CLAIM-305](../claims.d/CLAIM-305.md)).
+- [CLAIM-555](../claims.d/CLAIM-555.md) (Proposed) adds that the compatibility complex is unchanged
   by any bijection of the parameters, so by quotienting function-preserving
   symmetries, and says this "answers QUESTION-127 for this diagnosis".
 
 Neither speaks to trajectories, which carry the optimizer, or to
 governance regret or modular localization. Both are Proposed, so under
-ADR-049 the question is not split and stays Open.
+[ADR-049](../decisions.d/ADR-049.md) the question is not split and stays Open.

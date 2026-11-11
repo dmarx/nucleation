@@ -293,7 +293,7 @@ individuals under the same criterion.
 - **That the reciprocal arrows are shown.** The two directions of layer 5
   are A43 §10's proposed interventions. [CASE-226](../cases.d/CASE-226.md), the two-community
   study, is not a test of both: by its own account it would test
-  TERM-098's split of a concept from its corrigibility, and its third arm
+  [TERM-098](../terms.d/TERM-098.md)'s split of a concept from its corrigibility, and its third arm
   intervenes on revision authority alone, with recognition held fixed.
   It does not say which of the two directions that arm reaches.
 

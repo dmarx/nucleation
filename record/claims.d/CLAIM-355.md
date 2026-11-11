@@ -118,7 +118,7 @@ summary: >-
   not the organized agent"; A27 located it: "The illusion might concern
   the owner, not the binding", and an illusion requires "which system
   constructs or adopts the misleading representation". The two are filed
-  as one claim. It rests on CLAIM-039, the organizational-affect claim
+  as one claim. It rests on [CLAIM-039](CLAIM-039.md), the organizational-affect claim
   A27 cited as a ground, Proposed since the owner reopened that line on
   2026-10-23. The sharp edge: it says nothing
   about whether the integrated state is felt.
@@ -210,10 +210,10 @@ that term.
 
 ## Where it sits in the record
 
-- It rests on CLAIM-039, affective states as properties of organized
+- It rests on [CLAIM-039](CLAIM-039.md), affective states as properties of organized
   systems, which A27 cited as a ground. No edge was written while
-  CLAIM-039 was Deferred with its line. The owner reopened the line on
-  2026-10-23, CLAIM-039 is Proposed, and the edge was written on
+  [CLAIM-039](CLAIM-039.md) was Deferred with its line. The owner reopened the line on
+  2026-10-23, [CLAIM-039](CLAIM-039.md) is Proposed, and the edge was written on
   2026-11-11.
 - [CLAIM-165](CLAIM-165.md) and [CLAIM-155](CLAIM-155.md) already hold that organization and
   willed agency do not make a subject. A26's "Organizational individuality
@@ -255,7 +255,7 @@ that term.
   That does not restore a further owner. On Veit's identity the feeler is
   the organization. But it empties the claim for that case: nothing would
   be illusory except a metaphysical gloss. Which side is right is
-  QUESTION-059, Open since 2026-11-11 with its reopened line. [CLAIM-039](CLAIM-039.md)'s note of
+  [QUESTION-059](../questions.d/QUESTION-059.md), Open since 2026-11-11 with its reopened line. [CLAIM-039](CLAIM-039.md)'s note of
   2026-10-12 already names [THEORY-101](../theory.d/THEORY-101.md) as the objection to answer first.
 
 ## What it does not say

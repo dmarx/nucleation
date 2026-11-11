@@ -28,7 +28,6 @@ summary: >-
   assistant's (Claude, in this session); pursuing it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-439 CLAIM-355 — Proposed; the two claims the question links -->
-<!-- inactive-ok-file: QUESTION-059 — Deferred; cited for the sense of "felt" it asks about -->
 
 # QUESTION-442: In a distributed agent, is the self-model that makes a regime of valence felt, in the sense of attended and available, the same model that presents a single owner of the response, so that a change in who the owner is taken to be changes what is felt; or can feltness and the attribution of ownership come apart?
 

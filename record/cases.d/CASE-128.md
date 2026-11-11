@@ -40,7 +40,7 @@ summary: >-
   cases on quiet subordinate processes (U18). A restriction on a
   constituent process can be an exercise of self-governance, not its
   defeat, so a non-domination test that counts every override as
-  domination is too simple. CLAIM-362 already admits warranted override;
+  domination is too simple. [CLAIM-362](../claims.d/CLAIM-362.md) already admits warranted override;
   the case adds that the warrant can be the agent's own earlier
   authorization, and that it is read from history, not present behaviour.
   Not shown: where a legitimate precommitment ends and an unaccountable
