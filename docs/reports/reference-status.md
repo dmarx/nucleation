@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**918 documents cited without acknowledgement.** Not listed: 23656 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**918 documents cited without acknowledgement.** Not listed: 23665 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2878,7 +2878,7 @@ Learned local accommodation can reduce the amortized cost of recurrent arbitrati
 
 No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
-19 citations in 16 files await a look; 131 other citations of it are acknowledged.
+19 citations in 16 files await a look; 133 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1683.md:54`](../../record/literature.d/LIT-1683.md)
 - [`record/literature.d/LIT-1686.md:13`](../../record/literature.d/LIT-1686.md)
@@ -3916,7 +3916,7 @@ The manuscript argues only that preserving the proposition is insufficient; that
 - [`record/decisions.d/ADR-061.md:94`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:327`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:330`](../../record/decisions.d/ADR-061.md)
-- [`record/questions.d/QUESTION-026.md:60`](../../record/questions.d/QUESTION-026.md)
+- [`record/questions.d/QUESTION-026.md:70`](../../record/questions.d/QUESTION-026.md)
 
 ### [CLAIM-185](../../record/claims.d/CLAIM-185.md) — Proposed
 
@@ -4690,6 +4690,21 @@ Morality is the set of solutions to recurrent problems of cooperation, so each o
 - [`record/theory.d/THEORY-626.md:88`](../../record/theory.d/THEORY-626.md)
 - [`record/theory.d/THEORY-653.md:90`](../../record/theory.d/THEORY-653.md)
 
+### [CLAIM-044](../../record/claims.d/CLAIM-044.md) — Proposed
+
+Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
+
+8 citations in 4 files await a look; 34 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-040.md:120`](../../record/decisions.d/ADR-040.md)
+- [`record/decisions.d/ADR-040.md:156`](../../record/decisions.d/ADR-040.md)
+- [`record/questions.d/QUESTION-055.md:60`](../../record/questions.d/QUESTION-055.md)
+- [`record/questions.d/QUESTION-055.md:76`](../../record/questions.d/QUESTION-055.md)
+- [`record/questions.d/QUESTION-067.md:62`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:78`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:136`](../../record/questions.d/QUESTION-067.md)
+- [`record/theory.d/THEORY-1586.md:26`](../../record/theory.d/THEORY-1586.md)
+
 ### [CLAIM-136](../../record/claims.d/CLAIM-136.md) — Proposed
 
 Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity
@@ -5110,20 +5125,6 @@ Politics is more prone than markets to increasing returns, and so to path depend
 - [`record/literature.d/LIT-1493.md:29`](../../record/literature.d/LIT-1493.md)
 - [`record/literature.d/LIT-1493.md:82`](../../record/literature.d/LIT-1493.md)
 
-### [CLAIM-044](../../record/claims.d/CLAIM-044.md) — Proposed
-
-Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
-
-7 citations in 3 files await a look; 34 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-040.md:120`](../../record/decisions.d/ADR-040.md)
-- [`record/decisions.d/ADR-040.md:156`](../../record/decisions.d/ADR-040.md)
-- [`record/questions.d/QUESTION-055.md:60`](../../record/questions.d/QUESTION-055.md)
-- [`record/questions.d/QUESTION-055.md:76`](../../record/questions.d/QUESTION-055.md)
-- [`record/questions.d/QUESTION-067.md:62`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:78`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:136`](../../record/questions.d/QUESTION-067.md)
-
 ### [CLAIM-059](../../record/claims.d/CLAIM-059.md) — Proposed
 
 Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics
@@ -5486,7 +5487,7 @@ What an utterance does to the context it is used in is part of its meaning, and 
 - [`record/claims.d/CLAIM-363.md:183`](../../record/claims.d/CLAIM-363.md)
 - [`record/claims.d/CLAIM-363.md:185`](../../record/claims.d/CLAIM-363.md)
 - [`record/literature.d/LIT-838.md:107`](../../record/literature.d/LIT-838.md)
-- [`record/notes.d/NOTE-644.md:173`](../../record/notes.d/NOTE-644.md)
+- [`record/notes.d/NOTE-644.md:185`](../../record/notes.d/NOTE-644.md)
 
 ### [THEORY-232](../../record/theory.d/THEORY-232.md) — Proposed
 
@@ -7035,6 +7036,17 @@ Frijda's emotion and the potential account's system valence sit on opposite side
 - [`record/questions.d/QUESTION-269.md:48`](../../record/questions.d/QUESTION-269.md)
 - [`record/theory.d/THEORY-055.md:64`](../../record/theory.d/THEORY-055.md)
 
+### [CLAIM-494](../../record/claims.d/CLAIM-494.md) — Proposed
+
+Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
+
+4 citations in 1 file await a look; 44 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1700.md:33`](../../record/literature.d/LIT-1700.md)
+- [`record/literature.d/LIT-1700.md:35`](../../record/literature.d/LIT-1700.md)
+- [`record/literature.d/LIT-1700.md:61`](../../record/literature.d/LIT-1700.md)
+- [`record/literature.d/LIT-1700.md:90`](../../record/literature.d/LIT-1700.md)
+
 ### [CLAIM-504](../../record/claims.d/CLAIM-504.md) — Proposed
 
 The strongest operationalization of the functional and relevance-theoretic rivals to the transport structure is a rich contextual baseline of context-response profiles and supervised prediction
@@ -8050,16 +8062,6 @@ Internal conflict is the gap between the precedence a motive claims over action 
 - [`record/notes.d/NOTE-1486.md:154`](../../record/notes.d/NOTE-1486.md)
 - [`record/theory.d/THEORY-1280.md:112`](../../record/theory.d/THEORY-1280.md)
 
-### [CLAIM-494](../../record/claims.d/CLAIM-494.md) — Proposed
-
-Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
-
-3 citations in 1 file await a look; 43 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1700.md:33`](../../record/literature.d/LIT-1700.md)
-- [`record/literature.d/LIT-1700.md:35`](../../record/literature.d/LIT-1700.md)
-- [`record/literature.d/LIT-1700.md:61`](../../record/literature.d/LIT-1700.md)
-
 ### [CLAIM-511](../../record/claims.d/CLAIM-511.md) — Proposed
 
 A self-maintaining organization ought to preserve its corrigibility
@@ -8748,7 +8750,7 @@ In the ethical questions that seem to turn on whether someone is the same person
 
 - [`record/literature.d/LIT-1702.md:60`](../../record/literature.d/LIT-1702.md)
 - [`record/literature.d/LIT-1759.md:57`](../../record/literature.d/LIT-1759.md)
-- [`record/notes.d/NOTE-1306.md:124`](../../record/notes.d/NOTE-1306.md)
+- [`record/notes.d/NOTE-1306.md:132`](../../record/notes.d/NOTE-1306.md)
 
 ### [THEORY-551](../../record/theory.d/THEORY-551.md) — Proposed
 
