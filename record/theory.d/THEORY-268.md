@@ -15,7 +15,15 @@ promote_when: >-
   hand-built toys with negative local values, which show only that the
   arithmetic allows it, or a report of the average score alone.
 title: "An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-161: the claim's text says "If γ is an information
+    quantity, its value averaged over an interval and its value at a
+    moment can disagree in sign". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - complex-systems
 - information-theory
@@ -33,6 +41,8 @@ summary: >-
   argues the possibility is general and shows it in instances; it does
   not show that every system flickers, or say what a negative moment
   means.
+bounds:
+- CLAIM-161
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-161 — Proposed; the answer, persistence test and account this bears on, open -->
 
@@ -109,3 +119,4 @@ toy was built for illustration, so the first test is weak.
   the average effective information can be higher at a macro scale, and
   this holds that the macro scale can be the worse description at most of
   the micro transitions it summarises. Neither conflicts with the other.
+<!-- inactive-ok-file: CLAIM-161 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -17,7 +17,7 @@ promote_when: >-
   cue-integration or completion data cannot settle it, since every such
   case already fits by stipulation.
 title: "Perceptual learning can install perceiver-specific frames that change which objects a perceiver individuates from the same input, so cognition can shape the perceptual system over time while leaving open whether any single percept is cognitively penetrated"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,13 @@ history:
     CLAIM-297's circuit, and it cites this reading as an instance, in
     perception, of an observer shaped by earlier cognition, not as a
     ground its argument rests on. The account is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-340: the claim's text says "That a mind meets κ′ ≤ κ̄.
+    On constructed-perception accounts the reading of evidence is bent
+    by the interpretation ... which pushes κ′ up". First application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - cognition
 - neuroscience
@@ -46,6 +53,8 @@ summary: >-
   not different objects.
 corroborates:
 - CLAIM-341
+bounds:
+- CLAIM-340
 ---
 <!-- inactive-ok-file: LIT-190 THEORY-529 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
@@ -133,3 +142,4 @@ frame from attention or imagery with the individuated object as the
 measure, and the criterion promote_when asks for first, saying which
 learned tunings are frames, is not stated. The evidence it rereads shows
 changed weightings and estimates, not different objects.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

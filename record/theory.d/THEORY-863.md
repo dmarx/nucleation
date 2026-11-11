@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxzls4
 title: 'In Arthur''s model of two agent types arriving in random order, each adopting whichever of two technologies pays it more, with returns linear in previous adoptions, increasing returns make the adoption difference a random walk with absorbing barriers: one technology takes the whole market with probability one, A with probability Δ_R/(Δ_R + Δ_S) where Δ_R and Δ_S are the gaps at which each type switches, the winner need not be the better technology, and once it has locked in no small change in returns alters later choices; with diminishing returns the barriers reflect and the shares go predictably to one half'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -16,6 +16,14 @@ history:
     regimes were checked by simulation. A checked re-derivation meets the
     condition for Active under ADR-047 v2. The comparison with
     CLAIM-408 is the record's.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-408: the claim's text says "Not that a tipped
+    allocation outlasts the constraint ... Arthur's model ... has
+    another such mechanism ... nothing of it carries over to this
+    equation". First application of the bounds relation (ADR-tmppj46c).
+    No other change.
 tags:
 - social-science
 - complex-systems
@@ -29,6 +37,8 @@ summary: >-
   historical technology won by small events, and the "efficiency" it says
   can fail is a weak search criterion. Its lock-in is absorption in
   accumulated adoptions, which a small reversal of returns cannot undo.
+bounds:
+- CLAIM-408
 ---
 <!-- inactive-ok-file: THEORY-429 — Proposed; a held reading named for comparison, nothing here rests on it -->
 # THEORY-863: In Arthur's model of two agent types arriving in random order, each adopting whichever of two technologies pays it more, with returns linear in previous adoptions, increasing returns make the adoption difference a random walk with absorbing barriers: one technology takes the whole market with probability one, A with probability Δ_R/(Δ_R + Δ_S) where Δ_R and Δ_S are the gaps at which each type switches, the winner need not be the better technology, and once it has locked in no small change in returns alters later choices; with diminishing returns the barriers reflect and the shares go predictably to one half
@@ -118,3 +128,4 @@ fair walk on a finite interval is absorbed.
   symmetric state breaks. After lock-in a small tilt does nothing, as in
   [CASE-112](../cases.d/CASE-112.md)'s hysteresis in h.
 - **[THEORY-429](THEORY-429.md).** North carries increasing returns to institutions.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

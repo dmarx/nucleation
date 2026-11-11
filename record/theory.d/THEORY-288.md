@@ -15,7 +15,7 @@ promote_when: >-
   reconstruction-error comparisons, which bear on whether the effect
   matters, not on whether it occurs.
 title: "In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -27,6 +27,13 @@ history:
     the optimiser condition it needs. This THEORY cites it and keeps its
     empirical title, whose promote_when is unchanged. The status stays
     Proposed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-382: the claim's text says "That radial networks stay
+    spread ... That the radial networks of LIT-976 do not ... is
+    THEORY-288's empirical content, Proposed". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -44,6 +51,8 @@ summary: >-
   superposition and neural collapse, are untested.
 bears_on:
 - QUESTION-058
+bounds:
+- CLAIM-382
 ---
 <!-- inactive-ok-file: THEORY-022 — Proposed; accounts this one bears on -->
 
@@ -144,3 +153,4 @@ non-trivial findings are three:
   models with ReLU, an S_n primitive. Bird conjectures that such
   geometries depend on the activation's group. That is untested, and
   [THEORY-021](THEORY-021.md) does not depend on it.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

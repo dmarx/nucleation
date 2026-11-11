@@ -18,7 +18,7 @@ promote_when: >-
   twenty-questions illustration cannot settle it: they are described, not
   sampled.
 title: "What a chat agent's 'I' refers to is fixed by the context of use, not by the system: the agent role-plays characters that carry the self-conception the corpus and the conversation give them, and its uses of 'I' can pick out the model, present in many simultaneous instances, or the single conversation, none of them the self by nature"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,13 @@ history:
     review (ADR-057, ADR-058): that claim now lists this account under
     corroborated_by, citing its role-play framing as a prior
     statement, with LIT-460 as its ground. The account is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-543: the claim's text says "Whose organization it would
+    be ... A dependency found in a model could be the simulated
+    Assistant's, the network's or the deployed system's". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - self
 - individuation
@@ -46,6 +53,8 @@ summary: >-
   2024-vintage chat agent without tools or memory across conversations.
 corroborates:
 - CLAIM-029
+bounds:
+- CLAIM-543
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-476 THEORY-650 THEORY-691 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-173 CLAIM-029 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
@@ -160,3 +169,4 @@ The two conceptions rest on Shanahan's two invented usages, and no
 regeneration study shows which self-conception a fine-tuned assistant
 enacts. Products with memory across conversations, which could restore one
 persisting referent, are outside both papers.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

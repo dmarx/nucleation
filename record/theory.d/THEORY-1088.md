@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmptkmt9
 title: 'When the expression maps of a discourse sheaf diffuse to reduce disagreement, with opinions held fixed they converge to the nearest sheaf, in Frobenius distance, of which the opinions are a global section, so apparent consensus is reached by changing what is said ("learning to lie"); with opinions diffusing too the joint flow is gradient descent on ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions from collapsing to zero; nothing in either flow checks an expression against the opinion it expresses'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -15,6 +15,16 @@ history:
     reach agreement by changing how relations are expressed
     (THEORY-1088)", which is this reading's "learning to lie". No
     other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    corroborates CLAIM-496: the claim's text says "A model trained on
+    consistency between routes alone is rewarded by moving toward it, as
+    THEORY-1088's discourse sheaves reach consensus by changing their
+    expression maps". A reading used as a parallel supporting the claim,
+    not a limit of its scope, so corroborates (ADR-058), found in the
+    first application of the bounds relation (ADR-tmppj46c). No other
+    change.
 tags:
 - network-science
 - mathematics
@@ -32,6 +42,8 @@ summary: >-
   evidence from outside it.
 bears_on:
 - QUESTION-319
+corroborates:
+- CLAIM-496
 ---
 
 # THEORY-1088: When the expression maps of a discourse sheaf diffuse to reduce disagreement, with opinions held fixed they converge to the nearest sheaf, in Frobenius distance, of which the opinions are a global section, so apparent consensus is reached by changing what is said ("learning to lie"); with opinions diffusing too the joint flow is gradient descent on ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions from collapsing to zero; nothing in either flow checks an expression against the opinion it expresses
@@ -109,3 +121,4 @@ and an agent again ends up lying.
 ## Note of 2026-11-07: cited rightly; an extension not registered, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §4 and A29 §6 cite this reading rightly, including learning to lie. A29 §6 reports an extension by Bosca and Ghrist, "Selective Adaptation of Beliefs and Communication on Cellular Sheaves" (2026, arXiv:2601.22431), to "selective rigidity in agents' opinions and selective adaptation of communication maps", with rate bounds. Not registered or read. No change.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

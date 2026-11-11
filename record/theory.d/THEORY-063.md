@@ -24,7 +24,15 @@ promote_when: >-
   the book adds. More arguments that unity is a datum of introspection
   cannot settle it.
 title: "The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-355: the claim's text says "It does not solve
+    phenomenal binding ... Metzinger keeps the unity of experience apart
+    from the self-model". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - phenomenal-unity
 - consciousness
@@ -49,6 +57,8 @@ summary: >-
   cluster becomes one subject's is left open.
 bears_on:
 - QUESTION-046
+bounds:
+- CLAIM-355
 ---
 <!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-064 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
@@ -168,4 +178,4 @@ which is narrower than "does not require a self-model". The worry about
 report this reading's promote_when names is stated in the book itself
 and left open (p. 19; [THEORY-1295](THEORY-1295.md)). No status, title or warrant
 changes.
-
+<!-- inactive-ok-file: CLAIM-355 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

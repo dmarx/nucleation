@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprxblg
 title: 'Classical simulations between no-signalling empirical models on different scenarios never create contextuality, and a convex map between two scenarios'' model sets is induced by a classical non-adaptive procedure exactly when some non-contextual model of the hom scenario that satisfies its predicate induces it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -44,6 +44,13 @@ history:
     text lists it among what the question cites and says, of it and
     CLAIM-245, "Both bear on what a chain through an intermediate image
     can do to observational structure." No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-245: the claim's text says "Its results are for
+    no-signalling models in the sheaf framework. The first source
+    signals". First application of the bounds relation (ADR-tmppj46c).
+    No other change.
 tags:
 - contextuality
 - mathematics
@@ -68,6 +75,8 @@ summary: >-
   only, and nothing about information preserved.
 bears_on:
 - QUESTION-012
+bounds:
+- CLAIM-245
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this theory bears on -->
@@ -201,3 +210,4 @@ Theorem 37 at work. Two contextual hom models whose maps send every model
 to the contextual triangle model were rejected (residual 1.6), and the
 non-injective case was accepted. As a control on the well-definedness
 check, a signalling source made the result depend on the choice of τ.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

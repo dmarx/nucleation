@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmp66o95
 title: 'Two individually decisive people, weak Pareto and an unrestricted domain cannot all hold, even when choice need only yield a best element; unlike Arrow''s theorem, the conflict is not removed by interpersonal comparability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-436: the claim's text says "That a negotiation always
+    produces an ordering. It need not (THEORY-027, CLAIM-353); that is a
+    separate fact". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - society-and-governance
 - ethics
@@ -23,6 +31,8 @@ summary: >-
   only through Sen's reply to it.
 answers:
 - QUESTION-007
+bounds:
+- CLAIM-436
 ---
 
 # THEORY-027: Two individually decisive people, weak Pareto and an unrestricted domain cannot all hold, even when choice need only yield a best element; unlike Arrow's theorem, the conflict is not removed by interpersonal comparability
@@ -61,3 +71,4 @@ The record's own check agrees. U, P and L\* are stated on individual orderings a
 
 - [LIT-289](../literature.d/LIT-289.md) (Sen 1979) cites this result for the claim that libertarian non-utility information may require rejecting Pareto (p. 212).
 - [THEORY-025](THEORY-025.md), on conversion and adaptation, takes up the other half of Sen's 1998 lecture: once comparisons are admitted, "comparison of what?".
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpy1s8c
 title: 'On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-30'
@@ -50,6 +50,13 @@ history:
     this one: "LIT-1820 reads a nontrivial loop as corruption to be
     removed, and on its benchmark it is, because the truth was built
     flat (THEORY-1158)". No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-496: the claim's text says "That consistency is
+    worthless. In settings where the truth is known to be consistent ...
+    disagreement between routes does locate error". First application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - network-science
 - compositionality
@@ -67,6 +74,8 @@ summary: >-
 bears_on:
 - QUESTION-343
 - QUESTION-319
+bounds:
+- CLAIM-496
 ---
 
 # THEORY-1158: On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power
@@ -126,3 +135,4 @@ ones random.
   the truth is flat by construction, so a consistent reconstruction is a
   correct one. [CASE-179](../cases.d/CASE-179.md)'s arm that revises correspondences "by consistency
   alone" is the setting where the two come apart.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpwystk
 title: 'In a driven chemical system with two stable states and a finite number of molecules, each maintained state is metastable: it is left by fluctuation after a time exponential in system size, set by a barrier in a nonequilibrium quasi-potential that closes at the saddle-node, and the long-run share of time in each state is fixed by the parameters and system size, not by the initial condition; the deterministic rate equation, where the initial condition decides, holds only on times short of that escape time'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-604: the claim's text says "In a finite system each
+    kept state is metastable and is left by fluctuation after a time
+    exponential in size ... The thresholds here are the deterministic
+    ones". First application of the bounds relation (ADR-tmppj46c). No
+    other change.
 tags:
 - thermodynamics
 - natural-sciences
@@ -22,6 +31,8 @@ summary: >-
   does not say which state is the more stable without computing the
   quasi-potential, and the paper's own large-volume rate formula carries a
   spurious 1/V factor.
+bounds:
+- CLAIM-604
 ---
 
 # THEORY-1273: In a driven chemical system with two stable states and a finite number of molecules, each maintained state is metastable: it is left by fluctuation after a time exponential in system size, set by a barrier in a nonequilibrium quasi-potential that closes at the saddle-node, and the long-run share of time in each state is fixed by the parameters and system size, not by the initial condition; the deterministic rate equation, where the initial condition decides, holds only on times short of that escape time
@@ -100,3 +111,4 @@ irreducible.
   wrong.** Their folds are the V → ∞ statements. What changes at finite
   size is that a maintained regime has a lifetime, and loses it before the
   fold.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

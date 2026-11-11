@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpz4ja2
 title: 'For a Markov chain and a partition of its states, strong lumpability, every state of a block sending the same probability into each block, is the column-equitability of the master-equation operator and makes the block label informationally closed; when the chain is irreducible, an informationally closed label that is itself Markov is strongly lumpable, with no aperiodicity needed; weak lumpability gives a Markov label that need not be closed; and the same holds on the causal-state chain of any stationary process'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -17,6 +17,13 @@ history:
     without irreducibility. Theorem 3 (3) is re-derived by a shorter route.
     The identification with THEORY-755's column-equitability is the
     record's. The examples were checked numerically. This meets ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-394: the claim's text says "Not for Markov chains as
+    stated ... closing the whole law needs eigenvectors constant on the
+    blocks, that is strong lumpability". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - complex-systems
 - information-theory
@@ -29,6 +36,8 @@ summary: >-
   Rosas et al. (arXiv 2024), [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md), on Kemeny–Snell lumpability, joined to Shpak et al.'s column-equitable partitions ([LIT-1242](../literature.d/LIT-1242.md), [THEORY-755](THEORY-755.md)). Exact closure of a block label in a Markov chain is a condition on transition rows, a symmetry, and not weak coupling. The converse needs the label to be Markov: a closed label can have memory. Exact results only, with no bound for nearly lumpable partitions.
 bears_on:
 - QUESTION-218
+bounds:
+- CLAIM-394
 ---
 <!-- inactive-ok-file: LIT-1837 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
 # THEORY-822: For a Markov chain and a partition of its states, strong lumpability, every state of a block sending the same probability into each block, is the column-equitability of the master-equation operator and makes the block label informationally closed; when the chain is irreducible, an informationally closed label that is itself Markov is strongly lumpable, with no aperiodicity needed; weak lumpability gives a Markov label that need not be closed; and the same holds on the causal-state chain of any stationary process
@@ -190,3 +199,4 @@ Pfante et al. 2014, [LIT-1837](../literature.d/LIT-1837.md), which Rosas et al. 
 with the equivalence this entry generalizes for Markov spatial
 coarse-grainings, is registered and Unavailable, so the record still holds
 it second-hand. The entry is unchanged.
+<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
