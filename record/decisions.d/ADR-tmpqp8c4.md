@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'The withdrawal inquiry takes transient-support as its first line: QUESTION-398, QUESTION-399 and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness'
+title: 'The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness'
 version: 1
 tags:
 - record
@@ -23,7 +23,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-085 — Proposed; the line rule this applies -->
 <!-- inactive-ok-file: CLAIM-606 — Proposed; entries moved, with their standing -->
 
-# ADR-tmpqp8c4: The withdrawal inquiry takes transient-support as its first line: QUESTION-398, QUESTION-399 and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness
+# ADR-tmpqp8c4: The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness
 
 ## Context
 
