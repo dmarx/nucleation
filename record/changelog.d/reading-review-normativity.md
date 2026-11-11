@@ -1,5 +1,5 @@
 ### Added
 
-- The first reading review (ADR-tmp5urkb), by line, on organizational-normativity, with its curation entry of 2026-11-11. Of the 55 readings it named, four are tied to entries that should use them (THEORY-1119 to QUESTION-128, THEORY-1165 and THEORY-1463 to QUESTION-441, THEORY-837 to CLAIM-462), one raises a question, and fifty are held with a reason. The line now uses four readings in the view of readings by line, where it used none.
+- The first reading review (ADR-tmp5urkb), by line, on organizational-normativity, with its curation entry of 2026-11-11. Of the 55 readings it named, four are tied to entries that should use them (THEORY-1119 to QUESTION-128, THEORY-1165 and THEORY-1463 to QUESTION-441, THEORY-837 to CLAIM-462), one raises a question, and fifty are held with a reason. The line gains four readings in the view of readings by line.
 - QUESTION-tmpmus93, raised from THEORY-1118 and THEORY-1165: whether the counter-normativity of an organization that reproduces an installed mechanism is its own, or only whose process now maintains it decides. THEORY-1118 also bears on QUESTION-071.
-- A finding, not yet fixed: the view of readings by line does not count readings that claims or arguments ground on. It reads the converse fields `supports` and `reports`, which come back empty, so 129 of the 579 readings it lists as unused are in use. The curation entry says what the fix is.
+- A finding of the review: the view of readings by line did not count readings that claims or arguments ground on. It is fixed separately (ADR-090, version 2).

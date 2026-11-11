@@ -6,8 +6,8 @@ tags:
 - record
 date: '2026-11-11'
 summary: >-
-  ADR-tmp67tdg derives a reading's lines from the entries that use it, and
-  its view shows 579 of 856 readings in force used by no line. The owner
+  ADR-090 derives a reading's lines from the entries that use it, and
+  its view shows 450 of 856 readings in force used by no line. The owner
   holds that the record should be building on its readings, and that
   reviewing under-used ones is worth its own protocol, maybe several. This
   decision makes it one protocol with three modes, carried by the
@@ -26,10 +26,12 @@ summary: >-
 
 ## Context
 
-The record reads more than it argues. ADR-tmp67tdg's view of readings by
-line found, on 2026-11-11, 856 readings in force, of which 579 are used by
-no claim, argument, question or case of the record's argument. One line,
-organizational-normativity, used none at all.
+The record reads more than it argues. ADR-090's view of readings by
+line found, on 2026-11-11, 856 readings in force, of which 450 are used by
+no claim, argument, question or case of the record's argument, and one
+line, organizational-normativity, used one. (The view's first version
+missed readings that claims ground on and showed 579; this decision's
+demonstration found that, and ADR-090's version 2 corrects it.)
 
 The owner's view, on seeing this: the record should be building on its
 readings, and if it is not, that is a large oversight. Reviewing
