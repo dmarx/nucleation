@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmph89ue
 title: 'On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,16 @@ history:
     authors to that feedback. It does not need a test of alternative
     stable states, which the title does not assert, nor evidence on what
     happens after the intervention stops.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-604, whose note of 2026-11-06
+    says "the review supports the claim in kind": its
+    desertification loop is "upkeep drawn in by the structure's own
+    intact state" and its hysteresis "matches the collapse and the
+    outage that restoring the supply does not undo". No other
+    change.
 tags:
 - ecology
 - complex-systems
@@ -45,7 +55,10 @@ summary: >-
   not say the intervention can then stop. Complemented by Kadowaki et al.
   (2018), [THEORY-1468](THEORY-1468.md), and tested against Schröder et al. (2005),
   [THEORY-1485](THEORY-1485.md).
+corroborates:
+- CLAIM-604
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1544 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 
 # THEORY-1510: On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice

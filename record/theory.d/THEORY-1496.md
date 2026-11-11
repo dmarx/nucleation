@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwmqrr
 title: 'When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project''s linkage to it was operating before exit, and stopped where the linkage was begun late; results often varied between states by more than they changed over time'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -31,6 +31,16 @@ history:
     continued, that those whose linkage was begun late (school
     meals) stopped, and that differences between states exceeded
     change over time.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: bears_on QUESTION-398, whose note of 2026-11-05
+    lists it under "Answers in part, from practice": "continuation
+    followed a receiving programme with its own resources and a
+    legal duty, linked before exit"; and bears_on QUESTION-386,
+    whose note of the same date says "In India pay for performance
+    kept the indicators it paid for". No other change.
 tags:
 - society-and-governance
 - social-science
@@ -47,7 +57,11 @@ summary: >-
   programme. The sharp edges: an executive summary with no comparison group and
   a subset of states, in which the contrast between early and late
   linkage rests on one late case.
+bears_on:
+- QUESTION-398
+- QUESTION-386
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-2151 — Unavailable or new; cited from the reading of Rogers et al. (2017) as open -->
 
 # THEORY-1496: When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project's linkage to it was operating before exit, and stopped where the linkage was begun late; results often varied between states by more than they changed over time

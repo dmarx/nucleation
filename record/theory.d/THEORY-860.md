@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwiydx
 title: 'In Szeidl and Szucs''s model of two outlets competing for readers and advertisers, where state-owned advertisers reward only the connected outlet''s slant, with weight δ, every equilibrium has the slant gap between the connected and the unconnected outlet equal to their owners'' ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government advertisers of masⱼWⱼ, up to measurement noise; readers'' preference for slant cancels from the gap, so equal observed gaps can come from different mixes of ideology and exchange'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-21'
@@ -21,6 +21,15 @@ history:
     review's ruling (the owner delegated these rulings); ADR-065; the
     parenthetical that called it Proposed is corrected. Nothing else
     changes.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-407, whose body gives the model
+    as "An instance of the shape outside the record": "the observed
+    slant gap can be the same whether it comes from owners' ideology
+    or from favor exchange". An instance the claim does not need. No
+    other change.
 tags:
 - society-and-governance
 - social-science
@@ -35,7 +44,10 @@ summary: >-
   Cobb–Douglas advertisers with exogenous budgets, quadratic ideology cost
   and one-shot episodes. The authors check numerically, not analytically,
   that the conditions pick out an equilibrium at their estimates.
+corroborates:
+- CLAIM-407
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-860: In Szeidl and Szucs's model of two outlets competing for readers and advertisers, where state-owned advertisers reward only the connected outlet's slant, with weight δ, every equilibrium has the slant gap between the connected and the unconnected outlet equal to their owners' ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government advertisers of masⱼWⱼ, up to measurement noise; readers' preference for slant cancels from the gap, so equal observed gaps can come from different mixes of ideology and exchange
 

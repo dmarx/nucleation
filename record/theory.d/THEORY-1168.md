@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplmes0
 title: 'In a Lotka–Volterra community with a symmetric interaction matrix, the growth-weighted biomass rᵀx strictly increases along every edge of the invasion graph, so the invasion graph has no cycles'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -19,6 +19,17 @@ history:
     and positive-entry symmetric matrices; 3,274 feasible equilibria and
     14,266 invasion-graph edges, with rᵀx increasing along every edge
     and the identity holding to 10⁻⁹.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: bears_on QUESTION-083, whose note of 2026-10-29
+    says "The invasion graph of any symmetric system is acyclic", so
+    that in the potential case order of arrival entrenches nothing;
+    and bears_on QUESTION-132, whose note of the same date says that
+    in the potential case its acyclicity condition "is met
+    automatically" and "Cycles among roles need asymmetry". A
+    premise of each. No other change.
 tags:
 - ecology
 - mathematics
@@ -35,7 +46,11 @@ summary: >-
   needs symmetry and one equilibrium per vertex, not positive
   definiteness. It does not say assembly is order-independent: an
   indefinite symmetric matrix has several sinks.
+bears_on:
+- QUESTION-083
+- QUESTION-132
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1168: In a Lotka–Volterra community with a symmetric interaction matrix, the growth-weighted biomass rᵀx strictly increases along every edge of the invasion graph, so the invasion graph has no cycles
 

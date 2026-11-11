@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpp1wwg
 title: 'In Acharya, Blackwell and Sen''s analysis, white Southerners surveyed in 2006 to 2011 who live in counties where a larger share of the 1860 population was enslaved are, with state fixed effects and 1860 county controls, somewhat less Democratic, less supportive of affirmative action and more racially resentful, by about 0.09 to 0.13 standard deviations per standard deviation (about 20 points) of slave share, and in 1984 to 1998 survey data colder toward black Americans, by about 0.32; a cotton-suitability instrument gives larger estimates; the direct effect estimated with present black share held fixed is about as large; and in county presidential vote, which counts black voters until disenfranchisement, the difference appeared after Reconstruction rather than before the war'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -45,6 +45,17 @@ history:
     form, which the source asserts, is kept as THEORY-1225, Proposed,
     with the thermometer figure corrected, which extends this entry and
     inherits the promote_when word for word (ADR-047, kind 1).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-420, whose body names this work
+    as "the hard case, where association has to be told from
+    transmission" and whose note of 2026-10-22 finds in it "two of
+    the claim's three modes in sequence", the difference appearing
+    after Reconstruction. Evidence the claim does not need.
+    QUESTION-297 names it only as a neighbour and takes nothing. No
+    other change.
 tags:
 - society-and-governance
 - social-science
@@ -60,7 +71,10 @@ summary: >-
   untestable exclusion restriction, and a direct-effect estimate. The
   transmission mechanism has the weakest evidence: a parent–child
   correlation in 241 Southern respondents not linked to county slavery.
+corroborates:
+- CLAIM-420
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1225 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; the claims it bears on, named, not leaned on -->
 

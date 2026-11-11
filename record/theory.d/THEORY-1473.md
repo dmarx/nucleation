@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpazwuz
 title: 'Watson finds, across seven Brazilian cities, that condominial sewerage cost a third to a quarter of conventional sewerage and performed as well in about half the cases, that upkeep devolved to residents'' blocks rarely worked, and that the systems lasted where agencies kept up trunk maintenance, monitoring, education and backup on feeder lines in face-to-face contact with residents and decayed where agencies withdrew from or refused the networks'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -29,6 +29,18 @@ history:
     refused the networks. Whether continued agency involvement
     causes persistence in general is not asked, since the title
     asserts only what this study finds.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-597 ("Supported in urban
+    services ... Handing condominial-sewer upkeep to residents
+    worked poorly even in the best cities") and CLAIM-600 ("Some
+    inputs are a standing part of the arrangement", the title's
+    inputs that "must stay supplied as a standing part of the
+    arrangement"); and bears_on QUESTION-398, whose note says "the
+    service became independent of its founding team and not of the
+    agency's standing part". No other change.
 tags:
 - society-and-governance
 - social-science
@@ -41,7 +53,13 @@ summary: >-
   counterfactual and no health outcome. It does not show that agency
   involvement caused the systems to last, only that the two went together
   in these cases; it carries no measured threshold.
+corroborates:
+- CLAIM-597
+- CLAIM-600
+bears_on:
+- QUESTION-398
 ---
+<!-- inactive-ok-file: ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-2140 — Unavailable; cited from the reading of Watson (1995) as open -->
 
 # THEORY-1473: Watson finds, across seven Brazilian cities, that condominial sewerage cost a third to a quarter of conventional sewerage and performed as well in about half the cases, that upkeep devolved to residents' blocks rarely worked, and that the systems lasted where agencies kept up trunk maintenance, monitoring, education and backup on feeder lines in face-to-face contact with residents and decayed where agencies withdrew from or refused the networks

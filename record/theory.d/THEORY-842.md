@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbonn4
 title: 'Among 100 Chapel Hill voters not yet committed to a candidate in September–October 1968, the aggregate emphasis they gave the campaign''s main issues correlated +.967 with the emphasis of the major news items, and +.979 with that of the minor items, in the nine media serving them; and voters leaning to a candidate agreed more with all the news than with news about their own side in 18 of 24 comparisons'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -15,6 +15,17 @@ history:
     Table 3; the two correlations could not be recomputed, since the paper
     does not print the voters' issue distribution. The causal reading the
     authors offer is filed apart, as THEORY-838.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-404, whose body takes
+    agenda-setting as the informational route's illustration at the
+    scale of a public: "what reaches the agenda, not what is
+    concluded, and in McCombs and Shaw only as an aggregate
+    correlation". An instance the claim does not need (ADR-058).
+    QUESTION-253 names it only under "What it does not ask" and
+    takes nothing. No other change.
 tags:
 - social-science
 - society-and-governance
@@ -27,7 +38,10 @@ summary: >-
   community, one campaign and one sample of 100 undecided voters. It does
   not show that the media's emphasis caused the voters' ranking; the
   authors say the correlations do not prove agenda-setting.
+corroborates:
+- CLAIM-404
 ---
+<!-- inactive-ok-file: QUESTION-253 ADR-091 ADR-tmpkuzwl — Proposed or Answered; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-838 — Proposed; the causal hypothesis these correlations are offered for, filed beside this one -->
 
 # THEORY-842: Among 100 Chapel Hill voters not yet committed to a candidate in September–October 1968, the aggregate emphasis they gave the campaign's main issues correlated +.967 with the emphasis of the major news items, and +.979 with that of the minor items, in the nine media serving them; and voters leaning to a candidate agreed more with all the news than with news about their own side in 18 of 24 comparisons

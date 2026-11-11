@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbzfmr
 title: "Heins, Unrau and Avram, following Mauss, hold that a gift carries no legal guarantee of return yet obliges one, and that an unreturned gift leaves the recipient inferior and poisons the relation; they report Dillon's reading of the Marshall Plan in France, whose recipients, unable to repay, responded with resentment, and his proposal that circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -29,6 +29,17 @@ history:
     aid arranged so the recipient can give back, in kind or onward,
     reduces that effect. A further restatement of Mauss's argument, or
     another single case, does not settle it.'
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (part Q), ADR-091 and
+    ADR-tmpkuzwl: corroborates CLAIM-603, whose "What the gift
+    readings add" says "One-way supply costs standing" and that
+    Heins, Unrau and Avram "bring this to aid through Dillon's study
+    of the Marshall Plan"; and bears_on QUESTION-277, whose note of
+    2026-11-05 names it beside Mauss for "a social route to
+    dependence that this question's biological readings lack". No
+    other change.
 tags:
 - social-science
 - society-and-governance
@@ -44,7 +55,12 @@ summary: >-
   Dillon as "a useful heuristic analogy", not tested. It does not say that
   this is Hattori's (2001) account, which the source cites once and does
   not report, or anything of grants, loans, capacity or exit.
+corroborates:
+- CLAIM-603
+bears_on:
+- QUESTION-277
 ---
+<!-- inactive-ok-file: CLAIM-603 ADR-091 ADR-tmpkuzwl — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1474: Heins, Unrau and Avram, following Mauss, hold that a gift carries no legal guarantee of return yet obliges one, and that an unreturned gift leaves the recipient inferior and poisons the relation; they report Dillon's reading of the Marshall Plan in France, whose recipients, unable to repay, responded with resentment, and his proposal that circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations
 
