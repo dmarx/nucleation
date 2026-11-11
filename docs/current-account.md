@@ -18,36 +18,34 @@ shown. An account marked *Current* has had its mapping reviewed by the
 owner. One marked *Proposed* is offered and not yet reviewed. Neither status
 says anything about the components, which keep their own. An account that
 spans several lines is set out under its first and pointed to from the
-others.
+others. An account built over the accounts of its parts is set out once,
+with each part account nested under it in place of a row in its table, so
+every account appears here once.
 
 ## Organizational affect
 
 affective states as properties of organized systems, read through Frijda — the line the will paper grew out of
 
-### [SYNTHESIS-018](../record/syntheses.d/SYNTHESIS-018.md): A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired
+### [SYNTHESIS-021](../record/syntheses.d/SYNTHESIS-021.md): The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts
 
 *Proposed · version 1*
 
-None
+The account of the organizational-affect line, over the accounts of its three parts: the potential account of valence and its tests ([SYNTHESIS-020](../record/syntheses.d/SYNTHESIS-020.md)), corporate affect and responsibility ([SYNTHESIS-018](../record/syntheses.d/SYNTHESIS-018.md)), and feeling and access ([SYNTHESIS-022](../record/syntheses.d/SYNTHESIS-022.md)). They meet at [CLAIM-440](../record/claims.d/CLAIM-440.md), which rests on [CLAIM-039](../record/claims.d/CLAIM-039.md) and on which [CLAIM-439](../record/claims.d/CLAIM-439.md) rests. No link between the parts that the record does not state passed [ADR-075](../record/decisions.d/ADR-075.md)'s test, so the account adds nothing of its own; its standing is its components'.
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
 | [CLAIM-039](../record/claims.d/CLAIM-039.md) | CLAIM | Proposed | Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience |
+| [CLAIM-440](../record/claims.d/CLAIM-440.md) | CLAIM | Proposed | An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course |
 | [CLAIM-432](../record/claims.d/CLAIM-432.md) | CLAIM | Proposed | A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters |
-| [CLAIM-431](../record/claims.d/CLAIM-431.md) | CLAIM | Proposed | A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives |
-| [CASE-151](../record/cases.d/CASE-151.md) | CASE | Active | Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them |
-| [QUESTION-044](../record/questions.d/QUESTION-044.md) | QUESTION | Open | When an organization is said to be angry or afraid, is the emotion fixed by a mode of action readiness the organization has, or by the attributor's emotion concept grouping variable states? |
-| [QUESTION-053](../record/questions.d/QUESTION-053.md) | QUESTION | Open | Does organizational affect need a group subject, a state of the group not reducible to its members' states, or only the synchronized convergence of members' affect? |
-| [QUESTION-019](../record/questions.d/QUESTION-019.md) | QUESTION | Superseded | What is it like to be Microsoft? |
-| [CASE-014](../record/cases.d/CASE-014.md) | CASE | Deferred | Microsoft, as the philosophical target |
-| [CASE-024](../record/cases.d/CASE-024.md) | CASE | Active | A coral reef |
+| [CLAIM-355](../record/claims.d/CLAIM-355.md) | CLAIM | Proposed | In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real |
+| [CLAIM-439](../record/claims.d/CLAIM-439.md) | CLAIM | Proposed | A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it |
+| [QUESTION-059](../record/questions.d/QUESTION-059.md) | QUESTION | Deferred | Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks? |
 
-**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the corporate-affect part of the organizational-affect line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
-### [SYNTHESIS-020](../record/syntheses.d/SYNTHESIS-020.md): In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in
+**What would show the account unfaithful:** A part account or component misstated or misattributed here; an in-force component of the organizational-affect line that no part account integrates; or a link stated here that neither a part account nor a component states.
+
+#### [SYNTHESIS-020](../record/syntheses.d/SYNTHESIS-020.md): In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in
 
 *Proposed · version 1*
-
-None
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -79,30 +77,28 @@ None
 | [QUESTION-269](../record/questions.d/QUESTION-269.md) | QUESTION | Open | Does the potential account of valence need the will-organization's other relations, accessibility, jurisdiction, suspension and transformation, beside the priority, persistence and resumption it reads off which side wins, and does a system's valence change when one of them changes and the record of wins does not? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the potential account of valence in the organizational-affect line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
-### [SYNTHESIS-021](../record/syntheses.d/SYNTHESIS-021.md): The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts
+
+#### [SYNTHESIS-018](../record/syntheses.d/SYNTHESIS-018.md): A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired
 
 *Proposed · version 1*
-
-The account of the organizational-affect line, over the accounts of its three parts: the potential account of valence and its tests ([SYNTHESIS-020](../record/syntheses.d/SYNTHESIS-020.md)), corporate affect and responsibility ([SYNTHESIS-018](../record/syntheses.d/SYNTHESIS-018.md)), and feeling and access ([SYNTHESIS-022](../record/syntheses.d/SYNTHESIS-022.md)). They meet at [CLAIM-440](../record/claims.d/CLAIM-440.md), which rests on [CLAIM-039](../record/claims.d/CLAIM-039.md) and on which [CLAIM-439](../record/claims.d/CLAIM-439.md) rests. No link between the parts that the record does not state passed [ADR-075](../record/decisions.d/ADR-075.md)'s test, so the account adds nothing of its own; its standing is its components'.
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
-| [SYNTHESIS-020](../record/syntheses.d/SYNTHESIS-020.md) | SYNTHESIS | Proposed | In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in |
-| [SYNTHESIS-018](../record/syntheses.d/SYNTHESIS-018.md) | SYNTHESIS | Proposed | A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired |
-| [SYNTHESIS-022](../record/syntheses.d/SYNTHESIS-022.md) | SYNTHESIS | Proposed | Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open |
 | [CLAIM-039](../record/claims.d/CLAIM-039.md) | CLAIM | Proposed | Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience |
-| [CLAIM-440](../record/claims.d/CLAIM-440.md) | CLAIM | Proposed | An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course |
 | [CLAIM-432](../record/claims.d/CLAIM-432.md) | CLAIM | Proposed | A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters |
-| [CLAIM-355](../record/claims.d/CLAIM-355.md) | CLAIM | Proposed | In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real |
-| [CLAIM-439](../record/claims.d/CLAIM-439.md) | CLAIM | Proposed | A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it |
-| [QUESTION-059](../record/questions.d/QUESTION-059.md) | QUESTION | Deferred | Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks? |
+| [CLAIM-431](../record/claims.d/CLAIM-431.md) | CLAIM | Proposed | A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives |
+| [CASE-151](../record/cases.d/CASE-151.md) | CASE | Active | Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them |
+| [QUESTION-044](../record/questions.d/QUESTION-044.md) | QUESTION | Open | When an organization is said to be angry or afraid, is the emotion fixed by a mode of action readiness the organization has, or by the attributor's emotion concept grouping variable states? |
+| [QUESTION-053](../record/questions.d/QUESTION-053.md) | QUESTION | Open | Does organizational affect need a group subject, a state of the group not reducible to its members' states, or only the synchronized convergence of members' affect? |
+| [QUESTION-019](../record/questions.d/QUESTION-019.md) | QUESTION | Superseded | What is it like to be Microsoft? |
+| [CASE-014](../record/cases.d/CASE-014.md) | CASE | Deferred | Microsoft, as the philosophical target |
+| [CASE-024](../record/cases.d/CASE-024.md) | CASE | Active | A coral reef |
 
-**What would show the account unfaithful:** A part account or component misstated or misattributed here; an in-force component of the organizational-affect line that no part account integrates; or a link stated here that neither a part account nor a component states.
-### [SYNTHESIS-022](../record/syntheses.d/SYNTHESIS-022.md): Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open
+**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the corporate-affect part of the organizational-affect line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
+
+#### [SYNTHESIS-022](../record/syntheses.d/SYNTHESIS-022.md): Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open
 
 *Proposed · version 1*
-
-None
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -115,6 +111,7 @@ None
 | [QUESTION-061](../record/questions.d/QUESTION-061.md) | QUESTION | Deferred | In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the feeling-and-access part of the organizational-affect line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
+
 ## Authenticity and concordance
 
 what makes a will-organization the agent's own, and normativity across the scales an agent spans. Set aside on 2026-10-05 as future work
@@ -122,8 +119,6 @@ what makes a will-organization the agent's own, and normativity across the scale
 ### [SYNTHESIS-023](../record/syntheses.d/SYNTHESIS-023.md): The authenticity line holds, set aside, that a will is the agent's own to the degree its commitments arise through, remain integrated with and are answerable to its constitutive organization, and that this grounds normativity from a whole to its constituents but not between peers; it was deferred because its ownership criteria do not survive manipulation, and what it has gained since is a candidate content for "integrated", non-domination of the processes that carry a commitment, with the objection that non-domination cannot be read from low supervisory cost, or from override alone, but only under intervention, when a constituent dissents, or from history
 
 *Proposed · version 1*
-
-None
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -143,15 +138,54 @@ None
 | [QUESTION-068](../record/questions.d/QUESTION-068.md) | QUESTION | Deferred | Would settling whose a will-organization is settle the agent's accountability for what it does, or does accountability need conditions, such as normative competence and avoidability, that ownership does not supply? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here, its voice or status included; an in-force component whose line is authenticity left out without a reason given; or a link this account states that no component states. Its standing is its components': most of them are Deferred with the line, and a component retired, demoted or reopened takes its clause with it, and nothing here holds the clause up.
+
 ## Nucleating an argument
 
 how an argument developed across stateless sessions settles into stable, addressable structure — what drifts, what anchors it, and what anchoring costs. What a record of it keeps, and the record as its own apparatus, are lines of their own ([ADR-082](../record/decisions.d/ADR-082.md))
 
-### [SYNTHESIS-013](../record/syntheses.d/SYNTHESIS-013.md): An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
+### [SYNTHESIS-016](../record/syntheses.d/SYNTHESIS-016.md): The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear
+
+*Proposed · version 3*
+
+The account of the nucleating-argument line, over the accounts of its three parts: drift ([SYNTHESIS-014](../record/syntheses.d/SYNTHESIS-014.md)), anchors ([SYNTHESIS-013](../record/syntheses.d/SYNTHESIS-013.md)) and the costs of anchoring ([SYNTHESIS-015](../record/syntheses.d/SYNTHESIS-015.md)). They meet at [ADR-032](../record/decisions.d/ADR-032.md)'s rule for when to code an argument, which the anchors part justifies by drift ([CLAIM-176](../record/claims.d/CLAIM-176.md)) and the costs part by effort ([CLAIM-308](../record/claims.d/CLAIM-308.md)). Where the two justifications part is [CLAIM-630](../record/claims.d/CLAIM-630.md)'s, a derivation in the assistant's voice. The account adds nothing of its own; its standing is its components'.
+
+| component | kind | its status | what it holds |
+|---|---|---|---|
+| [CLAIM-630](../record/claims.d/CLAIM-630.md) | CLAIM | Proposed | Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them |
+| [CLAIM-176](../record/claims.d/CLAIM-176.md) | CLAIM | Proposed | Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record |
+| [CLAIM-177](../record/claims.d/CLAIM-177.md) | CLAIM | Active | In the record's exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change |
+| [CLAIM-185](../record/claims.d/CLAIM-185.md) | CLAIM | Proposed | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
+| [CLAIM-186](../record/claims.d/CLAIM-186.md) | CLAIM | Proposed | How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival |
+| [CLAIM-303](../record/claims.d/CLAIM-303.md) | CLAIM | Proposed | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
+| [CLAIM-308](../record/claims.d/CLAIM-308.md) | CLAIM | Proposed | Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed |
+
+**What would show the account unfaithful:** A part account or component misstated or misattributed here; an in-force component of the line that no part account integrates; or a link stated here that neither a part account, a component nor [CLAIM-630](../record/claims.d/CLAIM-630.md) states.
+
+#### [SYNTHESIS-014](../record/syntheses.d/SYNTHESIS-014.md): In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members'
 
 *Proposed · version 1*
 
-None
+| component | kind | its status | what it holds |
+|---|---|---|---|
+| [CLAIM-177](../record/claims.d/CLAIM-177.md) | CLAIM | Active | In the record's exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change |
+| [CLAIM-324](../record/claims.d/CLAIM-324.md) | CLAIM | Active | In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument's items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost |
+| [CLAIM-483](../record/claims.d/CLAIM-483.md) | CLAIM | Proposed | An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family |
+| [CLAIM-180](../record/claims.d/CLAIM-180.md) | CLAIM | Proposed | Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether |
+| [CLAIM-191](../record/claims.d/CLAIM-191.md) | CLAIM | Proposed | Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission |
+| [CLAIM-192](../record/claims.d/CLAIM-192.md) | CLAIM | Proposed | A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions |
+| [TERM-052](../record/terms.d/TERM-052.md) | TERM | Active | crystallized argument |
+| [TERM-056](../record/terms.d/TERM-056.md) | TERM | Active | question drift: a provisional answer becoming part of the question an inquiry is pursuing, as distinct from query drift, in which the queries move away from a question that stays fixed |
+| [QUESTION-037](../record/questions.d/QUESTION-037.md) | QUESTION | Open | When an argument is developed across sessions with collaborators who keep no memory, what makes it settle into a stable structure, and what can a project memory contribute? |
+| [CLAIM-178](../record/claims.d/CLAIM-178.md) | CLAIM | Proposed | A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately |
+| [CLAIM-183](../record/claims.d/CLAIM-183.md) | CLAIM | Proposed | Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism |
+| [CLAIM-189](../record/claims.d/CLAIM-189.md) | CLAIM | Proposed | Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation |
+| [QUESTION-099](../record/questions.d/QUESTION-099.md) | QUESTION | Open | Can a sequence of restatements keep an argument's history recoverable in principle while making it infeasible to reconstruct? |
+
+**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the drift part of nucleating-argument left out; or a link this account states that no component states. Its standing is its components'.
+
+#### [SYNTHESIS-013](../record/syntheses.d/SYNTHESIS-013.md): An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
+
+*Proposed · version 1*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -172,34 +206,10 @@ None
 | [ARG-028](../record/arguments.d/ARG-028.md) | ARG | Proposed | Inbound references per code and turns per filed entry show which structures anchor and that drift falls as anchoring keeps up with arrival |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the anchors part of nucleating-argument left out; or a link this account states that no component states. Its standing is its components'.
-### [SYNTHESIS-014](../record/syntheses.d/SYNTHESIS-014.md): In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members'
 
-*Proposed · version 1*
+#### [SYNTHESIS-015](../record/syntheses.d/SYNTHESIS-015.md): Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
 
-None
-
-| component | kind | its status | what it holds |
-|---|---|---|---|
-| [CLAIM-177](../record/claims.d/CLAIM-177.md) | CLAIM | Active | In the record's exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change |
-| [CLAIM-324](../record/claims.d/CLAIM-324.md) | CLAIM | Active | In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument's items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost |
-| [CLAIM-483](../record/claims.d/CLAIM-483.md) | CLAIM | Proposed | An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family |
-| [CLAIM-180](../record/claims.d/CLAIM-180.md) | CLAIM | Proposed | Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether |
-| [CLAIM-191](../record/claims.d/CLAIM-191.md) | CLAIM | Proposed | Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission |
-| [CLAIM-192](../record/claims.d/CLAIM-192.md) | CLAIM | Proposed | A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions |
-| [TERM-052](../record/terms.d/TERM-052.md) | TERM | Active | crystallized argument |
-| [TERM-056](../record/terms.d/TERM-056.md) | TERM | Active | question drift: a provisional answer becoming part of the question an inquiry is pursuing, as distinct from query drift, in which the queries move away from a question that stays fixed |
-| [QUESTION-037](../record/questions.d/QUESTION-037.md) | QUESTION | Open | When an argument is developed across sessions with collaborators who keep no memory, what makes it settle into a stable structure, and what can a project memory contribute? |
-| [CLAIM-178](../record/claims.d/CLAIM-178.md) | CLAIM | Proposed | A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately |
-| [CLAIM-183](../record/claims.d/CLAIM-183.md) | CLAIM | Proposed | Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism |
-| [CLAIM-189](../record/claims.d/CLAIM-189.md) | CLAIM | Proposed | Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation |
-| [QUESTION-099](../record/questions.d/QUESTION-099.md) | QUESTION | Open | Can a sequence of restatements keep an argument's history recoverable in principle while making it infeasible to reconstruct? |
-
-**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the drift part of nucleating-argument left out; or a link this account states that no component states. Its standing is its components'.
-### [SYNTHESIS-015](../record/syntheses.d/SYNTHESIS-015.md): Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
-
-*Proposed · version 1*
-
-None
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -216,41 +226,24 @@ None
 | [CASE-088](../record/cases.d/CASE-088.md) | CASE | Active | The repeated objection and the argument nobody reuses: filing pays for itself after a few recurrences in one case, and never in the other |
 | [QUESTION-098](../record/questions.d/QUESTION-098.md) | QUESTION | Open | When is an inferential structure worth filing: when does the reconstruction it is expected to save outweigh the cost of filing it, keeping it current and the risk of reusing it after it has gone stale? |
 | [QUESTION-237](../record/questions.d/QUESTION-237.md) | QUESTION | Open | Does semantic caching keep its ordering against page caching once probe and remainder computation and region upkeep are charged, or in an implemented client-server system? |
+| [CLAIM-315](../record/claims.d/CLAIM-315.md) | CLAIM | Proposed | In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured |
+| [QUESTION-323](../record/questions.d/QUESTION-323.md) | QUESTION | Open | After an anchoring comparison, is anchor-consistent knowledge more accessible on a measure first shown sensitive to direct priming, and does the difference go with the size of the estimate shift? |
+| [QUESTION-095](../record/questions.d/QUESTION-095.md) | QUESTION | Open | Is leaving the result of a computation where it can be cheaply retrieved the same trade as amortizing the computation, and does one account of when it pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused inferences? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the costs part of nucleating-argument left out; or a link this account states that no component states. Its standing is its components'.
-### [SYNTHESIS-016](../record/syntheses.d/SYNTHESIS-016.md): The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear
 
-*Proposed · version 3*
-
-The account of the nucleating-argument line, over the accounts of its three parts: drift ([SYNTHESIS-014](../record/syntheses.d/SYNTHESIS-014.md)), anchors ([SYNTHESIS-013](../record/syntheses.d/SYNTHESIS-013.md)) and the costs of anchoring ([SYNTHESIS-015](../record/syntheses.d/SYNTHESIS-015.md)). They meet at [ADR-032](../record/decisions.d/ADR-032.md)'s rule for when to code an argument, which the anchors part justifies by drift ([CLAIM-176](../record/claims.d/CLAIM-176.md)) and the costs part by effort ([CLAIM-308](../record/claims.d/CLAIM-308.md)). Where the two justifications part is [CLAIM-630](../record/claims.d/CLAIM-630.md)'s, a derivation in the assistant's voice. The account adds nothing of its own; its standing is its components'.
-
-| component | kind | its status | what it holds |
-|---|---|---|---|
-| [SYNTHESIS-014](../record/syntheses.d/SYNTHESIS-014.md) | SYNTHESIS | Proposed | In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members' |
-| [SYNTHESIS-013](../record/syntheses.d/SYNTHESIS-013.md) | SYNTHESIS | Proposed | An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument |
-| [SYNTHESIS-015](../record/syntheses.d/SYNTHESIS-015.md) | SYNTHESIS | Proposed | Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored |
-| [CLAIM-630](../record/claims.d/CLAIM-630.md) | CLAIM | Proposed | Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them |
-| [CLAIM-176](../record/claims.d/CLAIM-176.md) | CLAIM | Proposed | Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record |
-| [CLAIM-177](../record/claims.d/CLAIM-177.md) | CLAIM | Active | In the record's exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change |
-| [CLAIM-185](../record/claims.d/CLAIM-185.md) | CLAIM | Proposed | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
-| [CLAIM-186](../record/claims.d/CLAIM-186.md) | CLAIM | Proposed | How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival |
-| [CLAIM-303](../record/claims.d/CLAIM-303.md) | CLAIM | Proposed | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
-| [CLAIM-308](../record/claims.d/CLAIM-308.md) | CLAIM | Proposed | Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed |
-
-**What would show the account unfaithful:** A part account or component misstated or misattributed here; an in-force component of the line that no part account integrates; or a link stated here that neither a part account, a component nor [CLAIM-630](../record/claims.d/CLAIM-630.md) states.
 ## What a record of inquiry keeps
 
 what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument ([ADR-082](../record/decisions.d/ADR-082.md))
 
 ### [SYNTHESIS-017](../record/syntheses.d/SYNTHESIS-017.md): What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make
 
-*Proposed · version 1*
-
-None
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
 | [CLAIM-178](../record/claims.d/CLAIM-178.md) | CLAIM | Proposed | A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately |
+| [CLAIM-181](../record/claims.d/CLAIM-181.md) | CLAIM | Proposed | The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it |
 | [CLAIM-189](../record/claims.d/CLAIM-189.md) | CLAIM | Proposed | Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation |
 | [CLAIM-250](../record/claims.d/CLAIM-250.md) | CLAIM | Proposed | What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes |
 | [CLAIM-293](../record/claims.d/CLAIM-293.md) | CLAIM | Active | The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions |
@@ -276,6 +269,7 @@ None
 | [QUESTION-289](../record/questions.d/QUESTION-289.md) | QUESTION | Answered | Is an inquiry's current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component whose line is records-of-inquiry left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
+
 ## The record as its own apparatus
 
 what an apparatus of record-keeping makes determinate, how its grammar is fixed and revised through use, and inquiry as specification — the record itself as the case; split from nucleating-argument ([ADR-082](../record/decisions.d/ADR-082.md))
@@ -283,8 +277,6 @@ what an apparatus of record-keeping makes determinate, how its grammar is fixed 
 ### [SYNTHESIS-012](../record/syntheses.d/SYNTHESIS-012.md): The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds
 
 *Proposed · version 1*
-
-None
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -309,6 +301,7 @@ None
 | [QUESTION-366](../record/questions.d/QUESTION-366.md) | QUESTION | Open | Does an inquiry need the record of its own development to know its object, as Simondon's method and its organization-studies readers hold, or only to revise its conclusions, which is what the record has shown? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component whose line is record-as-apparatus left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
+
 ## Evidence for experience
 
 what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish
@@ -316,8 +309,6 @@ what could show that a system, organized, non-biological or without a cortex, ha
 ### [SYNTHESIS-019](../record/syntheses.d/SYNTHESIS-019.md): The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access
 
 *Proposed · version 1*
-
-None
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -344,6 +335,7 @@ None
 | [ARG-018](../record/arguments.d/ARG-018.md) | ARG | Rejected | Illusions, reappraisal and interoceptive inference show that experience is constituted by interpretive organization |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component whose line is evidence-for-experience left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
+
 
 ## Lines with no account yet
 

@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) | What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make |  | Proposed |
+| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v2 | What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make |  | Proposed |

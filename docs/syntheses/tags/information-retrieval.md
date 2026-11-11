@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) | Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored |  | Proposed |
+| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v2 | Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored |  | Proposed |

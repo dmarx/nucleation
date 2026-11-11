@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**876 documents cited without acknowledgement.** Not listed: 18447 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**876 documents cited without acknowledgement.** Not listed: 18473 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1164,7 +1164,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 
 Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
 
-83 citations in 52 files await a look; 52 other citations of it are acknowledged.
+83 citations in 52 files await a look; 55 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
@@ -1318,7 +1318,7 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-48 citations in 46 files await a look.
+50 citations in 48 files await a look.
 
 - [`record/claims.d/CLAIM-159.md:35`](../../record/claims.d/CLAIM-159.md)
 - [`record/claims.d/CLAIM-181.md:58`](../../record/claims.d/CLAIM-181.md)
@@ -1368,6 +1368,8 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/questions.d/QUESTION-413.md:12`](../../record/questions.d/QUESTION-413.md)
 - [`record/questions.d/QUESTION-427.md:12`](../../record/questions.d/QUESTION-427.md)
 - [`record/questions.d/QUESTION-439.md:21`](../../record/questions.d/QUESTION-439.md)
+- [`record/syntheses.d/SYNTHESIS-015.md:12`](../../record/syntheses.d/SYNTHESIS-015.md)
+- [`record/syntheses.d/SYNTHESIS-017.md:12`](../../record/syntheses.d/SYNTHESIS-017.md)
 
 ### [ADR-082](../../record/decisions.d/ADR-082.md) — Proposed
 
@@ -1661,7 +1663,7 @@ For a named population of receivers and a stated family of tasks, what survives 
 
 Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed
 
-37 citations in 21 files await a look; 40 other citations of it are acknowledged.
+37 citations in 21 files await a look; 41 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:24`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
@@ -1867,7 +1869,7 @@ A synthesis in a filed source is audited and, when it integrates, filed as a the
 - [`docs/syntheses/warrant/interpretive.md:16`](../syntheses/warrant/interpretive.md)
 - [`docs/syntheses/warrant/interpretive.md:17`](../syntheses/warrant/interpretive.md)
 - [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
-- [`record/syntheses.d/SYNTHESIS-017.md:136`](../../record/syntheses.d/SYNTHESIS-017.md)
+- [`record/syntheses.d/SYNTHESIS-017.md:154`](../../record/syntheses.d/SYNTHESIS-017.md)
 
 ### [CLAIM-306](../../record/claims.d/CLAIM-306.md) — Superseded
 
@@ -2244,31 +2246,6 @@ No action is selfless in the sense of aiming at a good that is no self's: what i
 - [`record/theory.d/THEORY-1114.md:31`](../../record/theory.d/THEORY-1114.md)
 - [`record/theory.d/THEORY-655.md:26`](../../record/theory.d/THEORY-655.md)
 
-### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
-
-The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
-
-18 citations in 11 files await a look; 35 other citations of it are acknowledged.
-
-- [`docs/syntheses/admission/unadmitted.md:13`](../syntheses/admission/unadmitted.md)
-- [`docs/syntheses/role/thesis.md:23`](../syntheses/role/thesis.md)
-- [`docs/syntheses/warrant/interpretive.md:22`](../syntheses/warrant/interpretive.md)
-- [`record/claims.d/CLAIM-176.md:168`](../../record/claims.d/CLAIM-176.md)
-- [`record/claims.d/CLAIM-178.md:12`](../../record/claims.d/CLAIM-178.md)
-- [`record/claims.d/CLAIM-178.md:111`](../../record/claims.d/CLAIM-178.md)
-- [`record/claims.d/CLAIM-190.md:34`](../../record/claims.d/CLAIM-190.md)
-- [`record/claims.d/CLAIM-190.md:66`](../../record/claims.d/CLAIM-190.md)
-- [`record/decisions.d/ADR-082.md:15`](../../record/decisions.d/ADR-082.md)
-- [`record/decisions.d/ADR-082.md:113`](../../record/decisions.d/ADR-082.md)
-- [`record/literature.d/LIT-1648.md:71`](../../record/literature.d/LIT-1648.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:22`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:49`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:102`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:106`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-013.md:33`](../../record/syntheses.d/SYNTHESIS-013.md)
-- [`record/syntheses.d/SYNTHESIS-013.md:78`](../../record/syntheses.d/SYNTHESIS-013.md)
-- [`record/syntheses.d/SYNTHESIS-017.md:141`](../../record/syntheses.d/SYNTHESIS-017.md)
-
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
 A topos foundation for theories of physics: IV. Categories of systems
@@ -2319,11 +2296,35 @@ Is endogenous governance part of what makes a system self-governing: can an orga
 - [`record/theory.d/THEORY-219.md:176`](../../record/theory.d/THEORY-219.md)
 - [`record/theory.d/THEORY-219.md:179`](../../record/theory.d/THEORY-219.md)
 
+### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
+
+The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
+
+17 citations in 10 files await a look; 42 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/unadmitted.md:13`](../syntheses/admission/unadmitted.md)
+- [`docs/syntheses/role/thesis.md:23`](../syntheses/role/thesis.md)
+- [`docs/syntheses/warrant/interpretive.md:22`](../syntheses/warrant/interpretive.md)
+- [`record/claims.d/CLAIM-176.md:168`](../../record/claims.d/CLAIM-176.md)
+- [`record/claims.d/CLAIM-178.md:12`](../../record/claims.d/CLAIM-178.md)
+- [`record/claims.d/CLAIM-178.md:111`](../../record/claims.d/CLAIM-178.md)
+- [`record/claims.d/CLAIM-190.md:34`](../../record/claims.d/CLAIM-190.md)
+- [`record/claims.d/CLAIM-190.md:66`](../../record/claims.d/CLAIM-190.md)
+- [`record/decisions.d/ADR-082.md:15`](../../record/decisions.d/ADR-082.md)
+- [`record/decisions.d/ADR-082.md:113`](../../record/decisions.d/ADR-082.md)
+- [`record/literature.d/LIT-1648.md:71`](../../record/literature.d/LIT-1648.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:22`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:49`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:102`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:106`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-013.md:33`](../../record/syntheses.d/SYNTHESIS-013.md)
+- [`record/syntheses.d/SYNTHESIS-013.md:78`](../../record/syntheses.d/SYNTHESIS-013.md)
+
 ### [CLAIM-184](../../record/claims.d/CLAIM-184.md) — Proposed
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-17 citations in 12 files await a look; 57 other citations of it are acknowledged.
+17 citations in 12 files await a look; 59 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
@@ -3279,7 +3280,7 @@ The 2016 Contextuality-by-Default criterion was being replaced by multimaximal c
 
 A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately
 
-10 citations in 6 files await a look; 16 other citations of it are acknowledged.
+10 citations in 6 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-181.md:61`](../../record/claims.d/CLAIM-181.md)
 - [`record/claims.d/CLAIM-183.md:96`](../../record/claims.d/CLAIM-183.md)
@@ -3930,7 +3931,7 @@ A collective's reasons need not be any of its members' reasons, so aggregating m
 
 A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged
 
-8 citations in 5 files await a look; 17 other citations of it are acknowledged.
+8 citations in 5 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-199.md:183`](../../record/claims.d/CLAIM-199.md)
 - [`record/claims.d/CLAIM-315.md:35`](../../record/claims.d/CLAIM-315.md)
@@ -4328,6 +4329,20 @@ A system persists as the same self over an interval when a coherence measure is 
 - [`record/questions.d/QUESTION-043.md:25`](../../record/questions.d/QUESTION-043.md)
 - [`record/questions.d/QUESTION-043.md:29`](../../record/questions.d/QUESTION-043.md)
 
+### [CLAIM-176](../../record/claims.d/CLAIM-176.md) — Proposed
+
+Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
+
+7 citations in 7 files await a look; 42 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/admitted.md:24`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/role/thesis.md:27`](../syntheses/role/thesis.md)
+- [`docs/syntheses/route/derived.md:15`](../syntheses/route/derived.md)
+- [`docs/syntheses/warrant/demonstrated.md:15`](../syntheses/warrant/demonstrated.md)
+- [`record/claims.d/CLAIM-181.md:53`](../../record/claims.d/CLAIM-181.md)
+- [`record/decisions.d/ADR-082.md:113`](../../record/decisions.d/ADR-082.md)
+- [`record/syntheses.d/SYNTHESIS-017.md:115`](../../record/syntheses.d/SYNTHESIS-017.md)
+
 ### [CLAIM-179](../../record/claims.d/CLAIM-179.md) — Proposed
 
 When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
@@ -4388,7 +4403,7 @@ The use-level counterpart of Saussure's value is an utterance's contrast with th
 
 In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured
 
-7 citations in 7 files await a look; 2 other citations of it are acknowledged.
+7 citations in 7 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-298.md:132`](../../record/claims.d/CLAIM-298.md)
 - [`record/literature.d/LIT-1064.md:21`](../../record/literature.d/LIT-1064.md)
@@ -4757,19 +4772,6 @@ On Ainslie's account the population of interests is produced by desynchronized v
 - [`record/terms.d/TERM-061.md:63`](../../record/terms.d/TERM-061.md)
 - [`record/theory.d/THEORY-067.md:221`](../../record/theory.d/THEORY-067.md)
 - [`record/theory.d/THEORY-069.md:208`](../../record/theory.d/THEORY-069.md)
-
-### [CLAIM-176](../../record/claims.d/CLAIM-176.md) — Proposed
-
-Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
-
-6 citations in 6 files await a look; 42 other citations of it are acknowledged.
-
-- [`docs/syntheses/admission/admitted.md:24`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/role/thesis.md:27`](../syntheses/role/thesis.md)
-- [`docs/syntheses/route/derived.md:15`](../syntheses/route/derived.md)
-- [`docs/syntheses/warrant/demonstrated.md:15`](../syntheses/warrant/demonstrated.md)
-- [`record/claims.d/CLAIM-181.md:53`](../../record/claims.d/CLAIM-181.md)
-- [`record/decisions.d/ADR-082.md:113`](../../record/decisions.d/ADR-082.md)
 
 ### [CLAIM-187](../../record/claims.d/CLAIM-187.md) — Proposed
 
@@ -7051,7 +7053,7 @@ Granting influence by role lets a process empower another as a critic while oppo
 
 Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries
 
-3 citations in 3 files await a look; 14 other citations of it are acknowledged.
+3 citations in 3 files await a look; 16 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
