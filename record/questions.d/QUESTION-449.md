@@ -129,5 +129,5 @@ that reproduces a mechanism it can see. The question may want to say which
 it asks about. The reading is the assistant's.
 
 A case cannot carry `bears_on`, so the tie is held by the two readings'
-`bears_on` and this note. (Since ADR-tmpcrpf5, later the same day, the case carries
+`bears_on` and this note. (Since [ADR-tmpcrpf5](../decisions.d/ADR-tmpcrpf5.md), later the same day, the case carries
 `bears_on` itself.)
