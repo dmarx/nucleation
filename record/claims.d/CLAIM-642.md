@@ -1,5 +1,8 @@
 ---
+number: 642
 status: Proposed
+formerly:
+- CLAIM-tmpqmfkl
 title: 'Ideal-observer efficiency is not the empirical measure of the gap computational indistinguishability describes: a constrained ideal observer is the optimal decoder of a degraded input, so efficiency measures what a real observer loses against an input garbled at some stage, while indistinguishability keeps the input and restricts the class of tests; the two gaps are those of different receivers, and the record holds no measure of the second on real observers'
 version: 1
 role: thesis
@@ -41,7 +44,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CLAIM-tmpqmfkl: Ideal-observer efficiency is not the empirical measure of the gap computational indistinguishability describes: a constrained ideal observer is the optimal decoder of a degraded input, so efficiency measures what a real observer loses against an input garbled at some stage, while indistinguishability keeps the input and restricts the class of tests; the two gaps are those of different receivers, and the record holds no measure of the second on real observers
+# CLAIM-642: Ideal-observer efficiency is not the empirical measure of the gap computational indistinguishability describes: a constrained ideal observer is the optimal decoder of a degraded input, so efficiency measures what a real observer loses against an input garbled at some stage, while indistinguishability keeps the input and restricts the class of tests; the two gaps are those of different receivers, and the record holds no measure of the second on real observers
 
 ## The claim
 

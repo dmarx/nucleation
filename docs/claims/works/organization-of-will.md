@@ -6,7 +6,7 @@
 
 **The Organization of Will** — the owner's essay, drafted 2026-10-04 to 2026-10-06: will-organization as the agent-indexed organization of practical efficacy, and why effective will is precarious.
 
-16 of 641 CLAIM documents. Back to the [full index](../README.md).
+16 of 643 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -16,7 +16,7 @@
 | [CLAIM-025](../../../record/claims.d/CLAIM-025.md) v4 | An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately | Section 6.2, from the emergency variant of Northstar. | Active |
 | [CLAIM-027](../../../record/claims.d/CLAIM-027.md) v4 | Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them | The paper's central thesis, Active since the status review of 2026-10-28. The audit called it the strongest original contribution. The comparison with planning, executive control and institutional decision procedures it owed is now owed by [CLAIM-487](../../../record/claims.d/CLAIM-487.md), the gain claim, which stays Proposed. | Active |
 | [CLAIM-032](../../../record/claims.d/CLAIM-032.md) v2 | Northstar's internal procedures are not morally or historically analogous to the regime Fraenkel described | The caution the paper states before using Fraenkel (Section 5.6). As an objection to the inference it narrows the respect in which the analogy holds, to structure alone. | Active |
-| [CLAIM-047](../../../record/claims.d/CLAIM-047.md) | Possessing an action-generating regime is not the same as its being practically effective | The distinction the paper inherits from Frankfurt ([THEORY-120](../../../record/theory.d/THEORY-120.md)) and generalizes beyond desires: the audit's "established foundation". | Active |
+| [CLAIM-047](../../../record/claims.d/CLAIM-047.md) v2 | Possessing an action-generating regime is not the same as its being practically effective | The distinction the paper inherits from Frankfurt ([THEORY-120](../../../record/theory.d/THEORY-120.md)) and generalizes beyond desires: the audit's "established foundation". | Active |
 | [CLAIM-057](../../../record/claims.d/CLAIM-057.md) | Precedence, jurisdiction and suspension can vary independently | Shown by the classification variants of Northstar (Sections 5.3–5.5): a formally absolute rule can be weak because another process controls entry into its domain. | Active |
 | [CLAIM-075](../../../record/claims.d/CLAIM-075.md) v2 | Viability does not establish what ought to persist | Sections 6.10 and 7.3: "An unjust institution may be highly viable." Viability licenses conditional functional judgment only. | Active |
 | [CLAIM-079](../../../record/claims.d/CLAIM-079.md) | Stability does not entail viability: a system can occupy a stable regime while losing access to trajectories that keep satisfying its constraints | Applied from viability theory ([THEORY-134](../../../record/theory.d/THEORY-134.md)) and the stability/resilience distinction ([THEORY-132](../../../record/theory.d/THEORY-132.md)) (Section 6.3). | Active |

@@ -1,6 +1,6 @@
 ### Added
 
-- Reading review of 2026-11-11, by question: the 99 open questions borne only by readings, with 90 relations added, two claims drafted for the owner ([CLAIM-tmpz45xi](record/claims.d/CLAIM-tmpz45xi.md), [CLAIM-tmpqmfkl](record/claims.d/CLAIM-tmpqmfkl.md)) and 33 held. The reading-review skill is revised from the run.
+- Reading review of 2026-11-11, by question: the 99 open questions borne only by readings, with 90 relations added, two claims drafted for the owner ([CLAIM-643](record/claims.d/CLAIM-643.md), [CLAIM-642](record/claims.d/CLAIM-642.md)) and 33 held. The reading-review skill is revised from the run.
 
 ### Fixed
 

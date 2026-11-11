@@ -7,7 +7,7 @@ Asserting an invariant: `lineage` on `tags`, `theory` on `tags`, `argument` on `
 
 A relation is an assertion that the documents it joins have something in common. Where no value in the named field is held by both, the record has made the assertion and not said what it means — usually a sign the vocabulary is short a word rather than that the relation is wrong.
 
-**72 unbound relations.** Two documents joined directly, sharing nothing.
+**71 unbound relations.** Two documents joined directly, sharing nothing.
 
 | Declared by | Field | Documents | Held |
 |---|---|---|---|
@@ -68,7 +68,6 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-350](../../record/claims.d/CLAIM-350.md) ↔ [CLAIM-518](../../record/claims.d/CLAIM-518.md) | formal-apparatus, pragmatic-transport / organizational-normativity |
 | argument | `line` | [CLAIM-363](../../record/claims.d/CLAIM-363.md) ↔ [CLAIM-472](../../record/claims.d/CLAIM-472.md) | organizational-normativity / record-as-apparatus |
 | argument | `line` | [CLAIM-402](../../record/claims.d/CLAIM-402.md) ↔ [CLAIM-619](../../record/claims.d/CLAIM-619.md) | pragmatic-transport / distributed-agency, organizational-normativity |
-| argument | `line` | [CLAIM-404](../../record/claims.d/CLAIM-404.md) ↔ [CLAIM-545](../../record/claims.d/CLAIM-545.md) | distributed-agency / will-organization |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-417](../../record/claims.d/CLAIM-417.md) | evidence-for-experience, formal-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-427](../../record/claims.d/CLAIM-427.md) | evidence-for-experience, formal-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-454](../../record/claims.d/CLAIM-454.md) | evidence-for-experience, formal-apparatus / distributed-agency |

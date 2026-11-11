@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [11 Nov 08:20 — Reading review of 2026-11-11, by question: the 99 open questions borne only by readings; 64 tied, 2 raised, 33 held; and the reading-to-question relation that moved promotion conditions never wrote, restored for 73 readings](2026-11.md#reading-review-of-2026-11-11-by-question-the-99-open-questions-borne-only-by-readings-64-tied-2-raised-33-held-and-the-reading-to-question-relation-that-moved-promotion-conditions-never-wrote-restored-for-73-readings)
 - [11 Nov 07:44 — A self-reproducing compiler Trojan horse filed as a case for the question of installed counter-normativity: Thompson's lecture and Stute's story, read](2026-11.md#a-self-reproducing-compiler-trojan-horse-filed-as-a-case-for-the-question-of-installed-counter-normativity-thompsons-lecture-and-stutes-story-read)
 - [11 Nov 07:21 — Reading review of 2026-11-11, by line: normative judgment about organizations; 55 readings named, four tied, one question raised, fifty held; the view does not count readings a claim or argument grounds on](2026-11.md#reading-review-of-2026-11-11-by-line-normative-judgment-about-organizations-55-readings-named-four-tied-one-question-raised-fifty-held-the-view-does-not-count-readings-a-claim-or-argument-grounds-on)
 - [11 Nov 06:13 — Synthesis review of 2026-11-11, ninth round: the formal-apparatus line in eighteen part accounts and a line account that integrates forty-nine entries directly; three claims filed by derivation; one claim found to be an account; promotion conditions and possibly defaulted lines listed for the owner](2026-11.md#synthesis-review-of-2026-11-11-ninth-round-the-formal-apparatus-line-in-eighteen-part-accounts-and-a-line-account-that-integrates-forty-nine-entries-directly-three-claims-filed-by-derivation-one-claim-found-to-be-an-account-promotion-conditions-and-possibly-defaulted-lines-listed-for-the-owner)
@@ -47,10 +48,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-235 entries across 3 books, newest first.
+236 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 38 | 2026-11-01 | 2026-11-11 |
+| [2026-11](2026-11.md) | 39 | 2026-11-01 | 2026-11-11 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
