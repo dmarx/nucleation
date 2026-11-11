@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpm1wok
 title: 'Which diagnoses of frustration among a learner''s demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -13,6 +13,18 @@ history:
     part about smooth changes of chart is QUESTION-286, Answered
     by CLAIM-366. This question keeps function-preserving symmetries
     and trajectories.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    A note of 2026-11-11 records the partial answers filed since the
+    body was written: CLAIM-629, on whether common descent and a
+    Euclidean residual are constant on the orbits of the three
+    symmetries the body names, and CLAIM-555, which says the
+    compatibility complex is unchanged by quotienting and that it
+    "answers QUESTION-127 for this diagnosis" (a defect listed in the
+    curation entry of 2026-11-10). Both are Proposed, so under ADR-049
+    the question is not split and its status stays Open. No other
+    change.
 tags:
 - information-geometry
 - loss-landscapes
@@ -95,3 +107,24 @@ The status review of this date split this question under [ADR-049](../decisions.
 of chart are [QUESTION-286](QUESTION-286.md), Answered by [CLAIM-366](../claims.d/CLAIM-366.md). This question keeps
 what is still open: function-preserving symmetries, which are not charts
 of one space, and trajectories, which carry the optimizer.
+
+## Note of 2026-11-11: partial answers filed since
+
+Two claims filed after this body was written answer part of what it
+leaves open, for the function-preserving symmetries and not for
+trajectories.
+
+- CLAIM-629 (Proposed, demonstrated) takes up "Whether a frustration
+  verdict is constant on symmetry orbits" for the three symmetries named
+  above, each a linear isomorphism of the parameters. The common-descent
+  verdict is constant on their orbits. A frustration residual budgeted in
+  a fixed Euclidean norm is constant along permutations and orthogonal
+  maps and changes along rescalings across a ReLU. It does not cover a
+  symmetry that is not a diffeomorphism, such as a blow-up (CLAIM-305).
+- CLAIM-555 (Proposed) adds that the compatibility complex is unchanged
+  by any bijection of the parameters, so by quotienting function-preserving
+  symmetries, and says this "answers QUESTION-127 for this diagnosis".
+
+Neither speaks to trajectories, which carry the optimizer, or to
+governance regret or modular localization. Both are Proposed, so under
+ADR-049 the question is not split and stays Open.

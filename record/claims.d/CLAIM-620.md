@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnjz70
 title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-07'
@@ -56,6 +56,21 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: learned-structure,
     since it bears on QUESTION-360. No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    Stale self-descriptions and one attribution corrected (defects
+    listed in the curation entry of 2026-11-10). The summary's "Moved
+    from CLAIM-620 into the SYNTHESIS scheme on 2026-11-07" now says it
+    was moved into that scheme and returned to CLAIM on 2026-11-08
+    (ADR-084); the body's "Moved from CLAIM-620, where its development
+    up to version 3 is recorded" now points to the history above. Under
+    "What it does not say", "the two directions of layer 5 are A43 §10's
+    proposed interventions, and CASE-226 is the two-community study"
+    could be read as offering CASE-226 for both arrows; it now says what
+    CASE-226 states of itself, a test of TERM-098's split with a third
+    arm on revision authority alone, and that it does not say which
+    direction that arm reaches. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -114,8 +129,9 @@ summary: >-
   which distinctions must be legible ([CLAIM-535](CLAIM-535.md)). A58's corrections are
   marked, the owner's [CLAIM-553](CLAIM-553.md) among them. The integration's wording is
   A's, corrected by the filer; adopting it is the owner's call. Moved
-  from CLAIM-620 into the SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md));
-  it was admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
+  into the SYNTHESIS scheme on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)) and returned to
+  CLAIM on 2026-11-08 (ADR-084); it was admitted as an independent
+  hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
@@ -128,7 +144,7 @@ summary: >-
 
 *Returned to CLAIM from [SYNTHESIS-005](../syntheses.d/SYNTHESIS-005.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 
-*Moved from CLAIM-620, where its development up to version 3 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
+*Its development up to version 3 is recorded in the history above. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
 ## The claim
 
@@ -275,8 +291,11 @@ individuals under the same criterion.
 - **That a concept is an agent.** A41: "A concept can be individuated
   without being autonomous".
 - **That the reciprocal arrows are shown.** The two directions of layer 5
-  are A43 §10's proposed interventions, and [CASE-226](../cases.d/CASE-226.md) is the
-  two-community study.
+  are A43 §10's proposed interventions. [CASE-226](../cases.d/CASE-226.md), the two-community
+  study, is not a test of both: by its own account it would test
+  TERM-098's split of a concept from its corrigibility, and its third arm
+  intervenes on revision authority alone, with recognition held fixed.
+  It does not say which of the two directions that arm reaches.
 
 ## Versions
 

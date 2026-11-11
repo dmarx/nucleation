@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3uhl1
 title: "Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart"
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-13'
@@ -34,6 +34,21 @@ history:
     bullet of "What it does not say" read "It rests on five Proposed
     readings"; it now rests on two, THEORY-115 and THEORY-116. The claim
     is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-069, which the body did not relate (a defect
+    listed in the curation entry of 2026-11-10). Its own text: "It does
+    not say why training reaches connected solutions. That is the line's
+    open question, and this claim is a way of testing for it", and
+    "THEORY-108's phase III is a ready case for the protocol inside this
+    line: whether its poor connectivity survives permutation alignment",
+    which is what QUESTION-069 says would answer it ("Phase III runs
+    aligned by permutation"). Under ADR-085 the relation gives this
+    claim QUESTION-069's first line, learned-structure, which it already
+    carries. QUESTION-316, QUESTION-317 and QUESTION-318, the open
+    conditions of its grounds, would test this claim rather than be
+    borne on by it, and take no relation. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,6 +82,8 @@ summary: >-
   the learned-structure line.
 complements:
 - CLAIM-366
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-986 — Proposed; Zoom In's universality hypothesis, cited as what the test would probe -->
 <!-- inactive-ok-file: THEORY-115 THEORY-116 THEORY-108 CLAIM-187 — Proposed; the readings the protocol is assembled from, a case for it, and the claim that carries it further, open -->

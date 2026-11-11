@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4g8e1
 title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -46,6 +46,13 @@ history:
     then needs a measure of maintenance as well as of holding."
     Found when the keeping part of readiness was checked for a root
     question (2026-11-10). No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    The note of 2026-11-05 on aid dependency said CLAIM-602 rests on
+    this claim's disuse term. Since 2026-11-06 (version 2) the two
+    complement each other, and the note now says so (a defect listed in
+    the curation entry of 2026-11-10). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -147,7 +154,7 @@ Adopting it is the owner's call.
 Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
 
 - **Qualitative support at the scale of states and projects.** Under repeated help the recipient "loses skill and motivation over time" (Ostrom et al., [NOTE-1647](../notes.d/NOTE-1647.md)). Where donors run budgets, "over time, real developmental capacities may atrophy within the administration." (Moss et al., [NOTE-1661](../notes.d/NOTE-1661.md)). "If the revenue-raising function is permitted to decay", a weak state is exposed (Moore, [NOTE-1663](../notes.d/NOTE-1663.md)). In Kenya, health workers' service fell as refresher training lapsed ([NOTE-1650](../notes.d/NOTE-1650.md)). None gives a rate.
-- **Used.** [CLAIM-602](CLAIM-602.md) rests on this claim's disuse term to model aid crowding out capacity learned by doing.
+- **Used.** [CLAIM-602](CLAIM-602.md) takes this claim's disuse term to model aid crowding out capacity learned by doing. Since 2026-11-06 it states that term as a condition and complements this claim rather than resting on it.
 
 No status changes.
 

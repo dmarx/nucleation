@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt2jwl
 title: "In an autoencoder initialised with i.i.d. Gaussian weights and zero biases and trained by SGD or momentum SGD on a loss of its output, the law of each hidden layer's learned representation is invariant under every orthogonal map of that layer that commutes with its activation, so under a radial activation no basis is privileged in law, while elementwise tanh or Leaky-ReLU yields invariance only under the signed permutations or the permutations, which leaves the standard axes free to be privileged"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -17,6 +17,19 @@ history:
     proof is written out below, with the optimiser condition the argument
     needs. THEORY-288 keeps its empirical title, Proposed, and cites this
     claim for the symmetry in law.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-058 (a defect listed in the curation entry of
+    2026-11-10). QUESTION-058 asks how much of a group structure in a
+    representation comes from "the architecture ... and the symmetry of
+    the update"; this claim's text proves that the law of the
+    representations is invariant under the orthogonal maps commuting
+    with the activation, "The argument needs an orthogonally equivariant
+    optimiser, and fails for Adam", and that an elementwise activation's
+    group "permits it and does not force it" to privilege the axes.
+    Under ADR-085 the relation gives this claim QUESTION-058's first
+    line, learned-structure, which it already carries. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,6 +56,8 @@ summary: >-
   Whether they are, and how strongly, is [THEORY-288](../theory.d/THEORY-288.md)'s empirical content.
   The argument needs an orthogonally equivariant optimiser, and fails for
   Adam.
+bears_on:
+- QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-288 — Proposed; the account this argument was split from and that cites it, cited as open -->
 
