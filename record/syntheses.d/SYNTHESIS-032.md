@@ -93,11 +93,11 @@ integrates:
 support", split from readiness ([ADR-087](../decisions.d/ADR-087.md)), where it was a part
 account. It is the part filed from the DNA
 origami, aid and development, ecology, urban, medicine and windfall
-readings of 2026-11-05 and 2026-11-06, on A's [QUESTION-398](../questions.d/QUESTION-398.md). Since ADR-tmpqp8c4
-(2026-11-11) QUESTION-398 and the entries of the withdrawal inquiry have
+readings of 2026-11-05 and 2026-11-06, on A's [QUESTION-398](../questions.d/QUESTION-398.md). Since [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md)
+(2026-11-11) [QUESTION-398](../questions.d/QUESTION-398.md) and the entries of the withdrawal inquiry have
 transient-support first and carry realizability only where they bear on
-a realizability-first entry: CLAIM-597, CLAIM-600, CLAIM-604 and
-CLAIM-606, through QUESTION-399, and CASE-225, which has it first. [CLAIM-602](../claims.d/CLAIM-602.md)
+a realizability-first entry: [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-604](../claims.d/CLAIM-604.md) and
+[CLAIM-606](../claims.d/CLAIM-606.md), through [QUESTION-399](../questions.d/QUESTION-399.md), and [CASE-225](../cases.d/CASE-225.md), which has it first. [CLAIM-602](../claims.d/CLAIM-602.md)
 also keeps readiness, because it bears on [QUESTION-386](../questions.d/QUESTION-386.md) ([ADR-085](../decisions.d/ADR-085.md)), and
 the readiness line's account integrates it too.*
 
@@ -179,18 +179,18 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 - [CASE-225](../cases.d/CASE-225.md), A's, construction, Proposed; lines realizability,
   distributed-agency, transient-support; illustrates [CLAIM-414](../claims.d/CLAIM-414.md), [CLAIM-522](../claims.d/CLAIM-522.md) and
   [CLAIM-616](../claims.d/CLAIM-616.md).
-- [QUESTION-398](../questions.d/QUESTION-398.md), A's, Open; first line transient-support since ADR-tmpqp8c4.
-- CLAIM-604, the assistant's, at the owner's request of 2026-11-05, thesis,
+- [QUESTION-398](../questions.d/QUESTION-398.md), A's, Open; first line transient-support since [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md).
+- [CLAIM-604](../claims.d/CLAIM-604.md), the assistant's, at the owner's request of 2026-11-05, thesis,
   demonstrated, Active; lines realizability, distributed-agency,
-  transient-support; bears on QUESTION-398, QUESTION-399 and QUESTION-085;
-  complements CLAIM-597, CLAIM-601, CLAIM-602 and CLAIM-606. CLAIM-605
-  rests on it, and CLAIM-600 on it. Its title: a structure repaired from a
+  transient-support; bears on [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-399](../questions.d/QUESTION-399.md) and [QUESTION-085](../questions.d/QUESTION-085.md);
+  complements [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-601](../claims.d/CLAIM-601.md), [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-606](../claims.d/CLAIM-606.md). [CLAIM-605](../claims.d/CLAIM-605.md)
+  rests on it, and [CLAIM-600](../claims.d/CLAIM-600.md) on it. Its title: a structure repaired from a
   flux in proportion to its intact share "has an ignition threshold below
   which it goes out with the supply still on".
-- CLAIM-606, the assistant's, after the owner's hunch, thesis,
+- [CLAIM-606](../claims.d/CLAIM-606.md), the assistant's, after the owner's hunch, thesis,
   interpretive, Proposed; lines realizability, distributed-agency,
-  transient-support; bears on QUESTION-398, QUESTION-399, QUESTION-085 and
-  QUESTION-281; complements CLAIM-604, CLAIM-600 and CLAIM-597: a localized
+  transient-support; bears on [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-399](../questions.d/QUESTION-399.md), [QUESTION-085](../questions.d/QUESTION-085.md) and
+  [QUESTION-281](../questions.d/QUESTION-281.md); complements [CLAIM-604](../claims.d/CLAIM-604.md), [CLAIM-600](../claims.d/CLAIM-600.md) and [CLAIM-597](../claims.d/CLAIM-597.md): a localized
   structure persists by an internal balance, a balance of gain and loss
   that needs a standing supply, or a topological charge.
 - [QUESTION-401](../questions.d/QUESTION-401.md), [QUESTION-413](../questions.d/QUESTION-413.md), [QUESTION-427](../questions.d/QUESTION-427.md) and [QUESTION-432](../questions.d/QUESTION-432.md), Open:
@@ -202,8 +202,8 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   [QUESTION-422](../questions.d/QUESTION-422.md), [QUESTION-424](../questions.d/QUESTION-424.md), [QUESTION-425](../questions.d/QUESTION-425.md), [QUESTION-426](../questions.d/QUESTION-426.md), [QUESTION-429](../questions.d/QUESTION-429.md),
   [QUESTION-430](../questions.d/QUESTION-430.md), [QUESTION-431](../questions.d/QUESTION-431.md) and [QUESTION-436](../questions.d/QUESTION-436.md), Open: promotion conditions
   or independent tests moved from the readings at the status reviews of
-  2026-11-06 under [ADR-065](../decisions.d/ADR-065.md), with QUESTION-416 and QUESTION-420 from the
-  urban readings. All have transient-support first since ADR-tmpqp8c4. None links to
+  2026-11-06 under [ADR-065](../decisions.d/ADR-065.md), with [QUESTION-416](../questions.d/QUESTION-416.md) and [QUESTION-420](../questions.d/QUESTION-420.md) from the
+  urban readings. All have transient-support first since [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md). None links to
   a component by a relation or a mention; each reaches the line through a
   reading that [CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-601](../claims.d/CLAIM-601.md), [CLAIM-602](../claims.d/CLAIM-602.md) or [CLAIM-603](../claims.d/CLAIM-603.md) cites, and
   they are listed because their `line` field places them here.
