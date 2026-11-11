@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp29uzx
 title: 'Under the Markov Indian buffet process the expected number of features on at the first time step is α, as in the Indian buffet process, but it rises over time toward α·E[ln((2 − b)/(1 − b))] with b ~ Beta(γ, δ), which is 9.04 at γ = 10 and δ = 1, so after the first step the rows are not distributed as an Indian buffet process'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -17,6 +17,15 @@ history:
     every step checked (record script, 2026-10-27). It confirms, for the
     count of active features, footnote 1 of the dependent IBP
     (NOTE-1175), which says the Markov IBP lacks IBP marginals.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, whose text argues that
+    "Time and groups have established forms, with gaps" and names the
+    dependent IBP's prevalence "held fixed"; this reading shows the
+    other established time form, the Markov IBP, does not hold its
+    expected count fixed after the first step. No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -33,6 +42,8 @@ summary: >-
   b)/(1 − b))]. The number of features ever on is still Poisson(αH_T), as
   the paper says. This concerns the expected count only, not the full
   row distribution beyond it.
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-1019: Under the Markov Indian buffet process the expected number of features on at the first time step is α, as in the Indian buffet process, but it rises over time toward α·E[ln((2 − b)/(1 − b))] with b ~ Beta(γ, δ), which is 9.04 at γ = 10 and δ = 1, so after the first step the rows are not distributed as an Indian buffet process

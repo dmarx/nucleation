@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphbnqm
 title: 'A categorical model of perspectives and an LDA-style model differ in where the mixture lives: the first draws every act''s perspective from one fixed categorical distribution, the second gives each episode its own mixture, drawn from a Dirichlet, and draws each act from it; the Dirichlet is a distribution over mixtures, not the perspectives themselves, and with symmetric concentration a over K perspectives two acts in one episode share a perspective with probability (a + 1)/(Ka + 1) against 1/K across episodes, so the concentration runs from one perspective per episode, as in persona selection (a → 0), to a fresh independent draw for every act (a → ∞)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -13,6 +13,17 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: distributed-agency,
     since it bears on QUESTION-276. No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. THEORY-1304, the reading of LDA filed
+    2026-11-03, replaces LIT-1948 in grounds. The claim's H2 is
+    "LDA-style admixture (Blei, Ng and Jordan)" and its title says "the
+    Dirichlet is a distribution over mixtures, not the perspectives
+    themselves", which the reading states ("the Dirichlet is a
+    distribution over mixtures, not over topics"). The body still cites
+    LIT-1948. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -31,7 +42,7 @@ line:
 - formal-apparatus
 - distributed-agency
 grounds:
-- LIT-1948
+- THEORY-1304
 complements:
 - CLAIM-543
 - CLAIM-540

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpz726y
 title: 'Groups of objects drawn from beta processes share features only if the measure they are drawn around is discrete; in the hierarchical beta process that measure is itself a beta process draw, and at each shared feature a group''s prevalence is Beta(c_j b, c_j(1 − b)) around the shared prevalence b, so a small c_j lets groups differ and a large one pulls them together'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,14 @@ history:
     re-derived below from its (2)–(3), which meets the condition for
     Active under ADR-047 v2. The paper's one classification experiment is
     reported, not leaned on.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, whose text cites it:
+    "The hierarchical beta process shares a feature library across
+    groups with group-specific prevalences, but each member belongs to
+    one fixed group". No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -27,6 +35,8 @@ summary: >-
   treats each object as in one group, exchangeable within it, and has no
   dynamics; its one experiment, 58% against 50% on a single text split,
   is suggestive only.
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-1015: Groups of objects drawn from beta processes share features only if the measure they are drawn around is discrete; in the hierarchical beta process that measure is itself a beta process draw, and at each shared feature a group's prevalence is Beta(c_j b, c_j(1 − b)) around the shared prevalence b, so a small c_j lets groups differ and a large one pulls them together

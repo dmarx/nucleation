@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpr7w9h
 title: 'For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -19,6 +19,18 @@ history:
     its textbook proof, given below, and both sources were read in full.
     The forced-variance clause, which LIT-931 cites and does not prove,
     stays in THEORY-323, which extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-281, at the reading review of 2026-11-11 (by
+    topic, mathematics; ADR-091). The question cites Trefethen et al.
+    (LIT-932), one of this reading's two sources, for "A transient can
+    leave a regime whose every eigenvalue is stable. Non-normal growth
+    does so"; this reading holds that growth is the top singular value
+    of the propagator, with the eigenvalues only a floor. CLAIM-383
+    now grounds on it: its step 5 uses "the pseudospectral
+    characterization, used here, as in LIT-932", which item 5 here
+    holds (LIT-932, eq. 13). No other change.
 tags:
 - mathematics
 - complex-systems
@@ -35,6 +47,8 @@ summary: >-
   κ(E)/dist(iω, Λ(A)), with the ε-pseudospectrum marking where eigenvalues
   of A + Δ, ‖Δ‖ < ε, can go. All in a chosen norm. The white-noise variance
   result is [THEORY-323](THEORY-323.md)'s, still Proposed.
+bears_on:
+- QUESTION-281
 ---
 <!-- inactive-ok-file: THEORY-323 THEORY-325 — Proposed; the account this was split from and its companions, cited as open -->
 

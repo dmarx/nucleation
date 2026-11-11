@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo1u9l
 title: 'On Pythia language models from 410M to 12B parameters, in three single prompt pairs and two small prompt distributions, verifying attention or neuron nodes by activation patching in the order given by attribution patching, a first-order gradient estimate of each node''s noising effect, found the nodes with the largest effects at about 2 to 50 times the cost of an oracle ordering, below unordered patching, subsampling and block search in every setting; its misses were concentrated in queries and keys behind saturated attention and in nodes whose direct and indirect effects nearly cancel'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -20,6 +20,15 @@ history:
     A dated note added: the estimate whose misses this entry measures,
     from Nanda's post registered and read on 2026-10-27, is placed
     under Connections. Title and status unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question: "AtP and
+    AtP* (LIT-1531) make node-level patching cheap enough to run per
+    checkpoint, and Pythia releases its checkpoints (THEORY-996)", and
+    "Attribution misses concentrate in queries and keys behind a
+    saturated softmax (THEORY-996)". No other change.
 tags:
 - representation-learning
 - causality
@@ -35,6 +44,8 @@ summary: >-
   distributions, where AtP with the softmax fix or plain AtP is cheapest.
   It says nothing about coarser nodes, other model families, effect
   magnitudes or false positives.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-1000 THEORY-997 — Proposed; the wider thesis and a neighbouring account, cited as open -->
 <!-- inactive-ok-file: THEORY-1021 — Proposed; the method author's own map of where the estimate fails, cited as open -->

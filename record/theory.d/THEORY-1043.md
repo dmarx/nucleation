@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo1cju
 title: 'The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -17,6 +17,15 @@ history:
     400,000 runs of the buffet give the same frequencies to within 0.0005,
     and the mean K+ is 2.751 against αH_3 = 2.750 (record script,
     2026-10-27).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, a premise of its
+    candidate method: the question asks for structure "without their
+    number being fixed in advance" and cites this reading's works
+    (LIT-1556, LIT-1623) for a feature allocation "with their number
+    left open", which is the limit this reading states. No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -32,6 +41,8 @@ summary: >-
   of occupied features is below αH_N ([THEORY-999](THEORY-999.md)), and an ordered
   truncation of the same limit is a different approximation
   ([THEORY-1041](THEORY-1041.md)).
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-1043: The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)

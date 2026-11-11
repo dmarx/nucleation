@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmpxbuz6
 title: "When the encoder is restricted to prunings of one fixed hierarchy of nested partitions, any non-negatively weighted sum of relevant information, irrelevant information and compression decomposes into per-node terms, so a bottom-up recursion finds the unique optimal tree with fewest leaves exactly in linear time, while greedy top-down splitting can miss information lying below a level that carries none; penalising irrelevant information only prunes the information-bottleneck tree"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-220, whose text cites this
+    reading's note (NOTE-676): it "gets nesting by restricting the
+    encoder to prunings of a fixed tree", "The nesting is imposed, not
+    found". bears_on QUESTION-025, whose text cites its work (LIT-868):
+    "the second shows a level can carry nothing while the levels below
+    it carry much, so a measurement should score every level". No other
+    change.
 tags:
 - information-theory
 - operations-research
@@ -19,6 +31,9 @@ summary: >-
   filed because the reading supports it as stated and its greedy-failure
   point bears on how hierarchy is measured. The hierarchy is given, not
   found, and the evaluation is one image.
+bears_on:
+- QUESTION-220
+- QUESTION-025
 ---
 
 <!-- inactive-ok-file: THEORY-186 CLAIM-092 CLAIM-119 — Open or Proposed; named for what this result bears on, nothing here rests on them -->

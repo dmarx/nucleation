@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9uzkw
 title: 'In a two-layer attention-only transformer trained on the Pile, the weight-refined local learning coefficients of individual attention heads start alike and diverge over training, and clustering the curves groups the heads by the functional types that ablation assigns them at the end of training, previous-token, current-token, induction and n-gram-memorizing; among layer-1 heads, those running simple algorithms end with the lowest values and those memorizing the most n-grams with the highest'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,19 @@ history:
     the paper measured, the head types are assigned by a method independent
     of the coefficient, and nothing in the record contradicts it
     (ADR-047 v3).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-039; bears_on QUESTION-275. QUESTION-039's text says of
+    this reading: "The per-head curves differentiate by functional type
+    over training (THEORY-975), which bears on when heads specialize,
+    not on when a structure is acquired, and is not listed as an
+    answer." QUESTION-275 lists it as a measure of circuit development:
+    "the refined local learning coefficient of each head over training,
+    whose curves diverge and cluster by the heads' functional types
+    (THEORY-975)". No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -30,6 +43,9 @@ summary: >-
   small model, cluster counts chosen by eye, and estimates whose ordering,
   not value, the authors trust. It does not show that the coefficient
   predicts a head's type before the type is visible.
+bears_on:
+- QUESTION-039
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-967 — Proposed; the companion account from the same reading, cited as open -->
 # THEORY-975: In a two-layer attention-only transformer trained on the Pile, the weight-refined local learning coefficients of individual attention heads start alike and diverge over training, and clustering the curves groups the heads by the functional types that ablation assigns them at the end of training, previous-token, current-token, induction and n-gram-memorizing; among layer-1 heads, those running simple algorithms end with the lowest values and those memorizing the most n-grams with the highest

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpvqsx2
 title: 'In Musat, Pimentel, Zucchet and Hofmann''s two-layer attention-only transformer on in-context bigrams, once an in-weights circuit that maps each common token to its memorized partner has saturated, the population gradient on the induction circuit is what it would be without it multiplied by fr + (1 − fr)fv, the share of the data the memorized map does not solve, up to errors that vanish at large vocabulary and large in-weights margin when no distractor block carries the query''s partner; the two circuits occupy orthogonal coordinates and still interact, because they solve overlapping parts of the data'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,21 @@ history:
     the scrambled part were checked step by step below, which meets the
     condition for Active under ADR-047 v2. The reading as a source of
     sequential onset, and its relation to THEORY-783, are the record's.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-275; bears_on QUESTION-193; corroborates CLAIM-367.
+    QUESTION-275 cites this reading for development as reduced dynamics
+    "in which circuits that solve overlapping data interact although
+    their coordinates are orthogonal (THEORY-1009)". QUESTION-193 cites
+    it as a limit on its test: overlap in the data "alone delays the
+    induction circuit under gradient descent (THEORY-1009)". CLAIM-367
+    cites it as one of "two exact cases of the division this claim
+    draws": "The data and another circuit set a circuit's gradient
+    (THEORY-1009)". The claim does not need it, so corroborates
+    (ADR-058). No other change.
 tags:
 - learning-theory
 date: '2026-10-26'
@@ -27,6 +42,11 @@ summary: >-
   own sampler violates, at a cost it states. It does not say the observed
   order in the paper's one run is due to it: there fr = 0.9 and the
   factor is 0.9.
+bears_on:
+- QUESTION-275
+- QUESTION-193
+corroborates:
+- CLAIM-367
 ---
 <!-- inactive-ok-file: THEORY-783 CLAIM-367 — Proposed; the account and claim this one is set beside, cited as open -->
 

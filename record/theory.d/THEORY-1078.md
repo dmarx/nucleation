@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpkqzrf
 title: 'Constructor theory puts constraint in two places: a principle is a law that constrains other laws and is tested through its rivals, and a constructor is a physical thing that keeps its ability to cause a transformation; a task is possible when the laws set no limit, short of perfection, on how well it could be performed and that ability retained, so possibility needs no actual constructor, and constructor-theoretic statements mention none'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: bears on QUESTION-tmpiib1m,
+    raised by this review from this reading and CLAIM-477's notes, which
+    ask four times whether a law of possibility or a conservation law is a
+    constraint realized by something and leave it unruled. The reading's
+    own words: whether a law of possibility is "a case of a constraint
+    realized by nothing is CLAIM-477's question, not the paper's". No
+    other change.
 tags:
 - quantum-foundations
 - philosophy-of-science
@@ -21,6 +32,8 @@ summary: >-
   realized, approximate and deteriorating. It does not say that the
   framework's basic principle I is true, nor that a law of possibility is,
   or is not, a constraint realized by something ([CLAIM-477](../claims.d/CLAIM-477.md)).
+bears_on:
+- QUESTION-tmpiib1m
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the frame whose notion of a realized constraint this bears on, cited as open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpdlewi
 title: "In the Gemma Scope sparse autoencoders on Gemma 2, the two fidelity measures disagree by site: residual-stream autoencoders cost more next-token loss than MLP or attention ones at comparable fraction of variance unexplained, and base-model autoencoders transfer to the instruction-tuned model by loss more than by variance explained"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -13,6 +13,17 @@ history:
     concern residual-stream autoencoders and find what the
     dictionary leaves out to matter there. Status and title are
     unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-274, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question compares
+    dictionaries at different widths "matched for fidelity", by
+    reconstruction loss or by agreement under perturbation, and sets
+    aside "dictionaries of unequal fidelity". This reading shows the two
+    usual measures, variance explained and spliced-in loss, disagree by
+    site, so equal fidelity has to name its measure: a premise of the
+    question (ADR-060). No other change.
 tags:
 - representation-learning
 - anthology-candidate
@@ -29,6 +40,8 @@ summary: >-
   stream is the bottleneck; fine-tuning re-weights old features) are
   conjectures, and the authors say no agreed metric of autoencoder quality
   exists.
+bears_on:
+- QUESTION-274
 ---
 
 # THEORY-504: In the Gemma Scope sparse autoencoders on Gemma 2, the two fidelity measures disagree by site: residual-stream autoencoders cost more next-token loss than MLP or attention ones at comparable fraction of variance unexplained, and base-model autoencoders transfer to the instruction-tuned model by loss more than by variance explained

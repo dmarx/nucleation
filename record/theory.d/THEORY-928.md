@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3wkwk
 title: 'Two softmax learners that update every action''s reward memory each step with its average reward against the other''s current play, the memories decaying at rate α, follow, in the limit of learning slow relative to play, coupled replicator equations plus a term α Σ x_j log(x_j / x_i) toward uniform play; in a two-player matrix game, without decay the dynamics preserve phase volume in log-ratio coordinates and are Hamiltonian when the game is zero-sum with an interior Nash equilibrium, and with decay the volume contracts at rate (N − 1)(α_X + α_Y)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -25,6 +25,20 @@ history:
     derivation fixes Eq. 6's sign independently of any copy. NOTE-1144
     records the copy read (arXiv v2). The old title: Two softmax reinforcement learners whose reward memories decay at rate α follow coupled replicator equations plus a term α Σ x_j log(x_j / x_i) toward uniform play; without decay the dynamics are conservative, Hamiltonian in zero-sum games, and with decay they are dissipative. The old
     promote_when: The derivation reproduced independently from the stated update rules (softmax choice over reward memories with decay, every action's memory updated with its average reward, learning slow relative to play), and the version of record checked for the sign of the decay term, which v2 prints inconsistently between Eq. 6 and Eq. 14. It is refuted by an error in the limit. Results for Q-learning in which only the chosen action is updated are a different rule (THEORY-932) and neither promote nor refute this.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-132. QUESTION-132 asks when equivalent operators
+    differentiate into specialists that recover when rare, and says
+    "Because zero is absorbing under multiplicative dynamics" and that
+    "Externally supplied reintroduction and internally maintained
+    exploration are distinct interventions". This reading is evidence on
+    that point: memory decay adds a term toward uniform play to the
+    replicator dynamics, so forgetting is an internal exploration that
+    keeps zero from being absorbing (CASE-155: "Forgetting is
+    exploration"). No other change.
 tags:
 - game-theory
 - learning-theory
@@ -39,6 +53,8 @@ summary: >-
   the Hamiltonian were re-derived, second-checked at the status review of
   2026-10-30. The model updates every action's memory at the same rate, so
   it is the full-information case, not Q-learning as usually run.
+bears_on:
+- QUESTION-132
 ---
 <!-- inactive-ok-file: THEORY-938 — Proposed or new; the source and the accounts this bears on, named -->
 

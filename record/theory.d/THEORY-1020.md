@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp3gl09
 title: 'In a two-layer attention-only language model, on tokens where induction helps, the standard induction circuit (queries and values from the token embedding, keys from the previous-token head) accounts for 35% of the loss its two induction heads contribute, and a hypothesis that adds three-token matching, layer 0''s average effect and three layer-0 heads acting as if they attended to the current token accounts for 86%'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -14,6 +14,16 @@ history:
     in one model, on its token subset and against its own baseline
     (ADR-047 v3). The baseline arithmetic (0.213 − 0.160 = 0.053) was
     checked; the percentages cannot be re-computed from what is published.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question names causal
+    scrubbing's recovered loss as "a candidate 'how much does the
+    circuit explain' score per checkpoint" and the induction circuit as
+    "a natural first case". This reading is that score for the induction
+    circuit of a two-layer attention-only model: 35% for the standard
+    story, 86% for the refined one. No other change.
 tags:
 - representation-learning
 - causality
@@ -29,6 +39,8 @@ summary: >-
   (51% alone) and keys (79%), not the values (90%). It does not say what
   fraction of the model's whole loss, or of its in-context learning, the
   circuit explains, nor anything about models with MLPs.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-990 — Proposed; the wider thesis this bears on, cited as open -->
 

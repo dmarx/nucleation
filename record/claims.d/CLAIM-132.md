@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3sn40
 title: 'Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -29,6 +29,18 @@ history:
     added. The question's note: CLAIM-132 and THEORY-019 "both lean
     toward a negative answer: characters fix neither the group nor its
     action". No other change.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    grounds THEORY-652 added, at the reading review of 2026-11-11 (by
+    topic, mathematics; ADR-091). The body's characteristic-zero step:
+    "each simple module S_i has a central idempotent e_i ∈ KG that
+    acts as the identity on S_i and as zero on every other simple
+    (Wedderburn)". THEORY-652 holds Wedderburn's splitting of a
+    semisimple algebra along central idempotents into simple blocks,
+    uniquely, over any field. The argument uses it as version 2's
+    LIT-329 is used for the orthogonality relations, so grounds.
+    grounds adds no line (ADR-085). No other change.
 role: granted
 warrant: demonstrated
 tags:
@@ -43,6 +55,7 @@ objects_to:
 grounds:
 - LIT-329
 - THEORY-032
+- THEORY-652
 complements:
 - CLAIM-043
 - CLAIM-148

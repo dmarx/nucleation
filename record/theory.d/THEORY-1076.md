@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpixkwj
 title: 'For Bohr a phenomenon is the observation obtained under a specified experimental arrangement, epistemic and derivative, with atomic object and instrument presupposed real; his relational holism is epistemic, and the subject–object, knower–known and word–world dualisms are presupposed by his account, so Bohr''s authority does not support agential realism'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-477, whose
+    note of 2026-10-27 cites this reading: Faye and Jaksland "supply the
+    physical precedent closest to the claim's non-eliminative 'partly
+    fixed', and it is Bohr, not Barad". An instance the claim does not
+    need (ADR-058). CLAIM-136 cites it as a precedent in physics for a
+    claim about communicative acts, which is not evidence for that claim,
+    and takes no relation. No other change.
 tags:
 - quantum-foundations
 - philosophy-of-science
@@ -18,6 +29,8 @@ summary: >-
   and antirealist readings that Bohr never denied atomic objects. The
   dualisms half is interpretive and weaker. It does not say that Barad's
   view is false, only that it is not Bohr's.
+corroborates:
+- CLAIM-477
 ---
 
 # THEORY-1076: For Bohr a phenomenon is the observation obtained under a specified experimental arrangement, epistemic and derivative, with atomic object and instrument presupposed real; his relational holism is epistemic, and the subject–object, knower–known and word–world dualisms are presupposed by his account, so Bohr's authority does not support agential realism

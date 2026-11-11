@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpq39lu
 title: "Classifier-free guidance extrapolates between a conditional and an unconditional score learned by one network; with exact scores this equals classifier guidance by the classifier the generative model defines through Bayes' rule, but learned scores need not be conservative, so the guided field is in general the gradient of no density and the tilted distribution that motivates guidance is not shown to be what is sampled"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
@@ -13,6 +13,17 @@ history:
     inside each component and combine the guided fields convexly, and
     spatial masking adds a second source of non-conservativeness. The
     account is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-018, whose open part is
+    which of "estimator error, model misspecification, or sampling
+    limitations" explains a failure to keep a conjunction: this reading
+    shows learned scores need not be conservative, so a guided field is
+    in general the gradient of no density, an estimator-side reason.
+    CLAIM-123 cites it as a caveat beyond its thesis, which takes no
+    edge (ADR-058). No other change.
 tags:
 - probabilistic-modeling
 - compositionality
@@ -27,6 +38,8 @@ summary: >-
   because the anthology holds the account of what the guidance weight
   does to metrics; this one states only the probabilistic point, which
   the record's [CLAIM-123](../claims.d/CLAIM-123.md) uses.
+bears_on:
+- QUESTION-018
 ---
 
 

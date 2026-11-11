@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwqg2f
 title: 'In a finite partial-monitoring game, an action optimal wherever two neighbouring actions tie has a loss vector on the segment between theirs, so a degenerate or duplicate action never creates a neighbouring pair or decides the trivial class, yet its signals count toward the pair''s local observability; and the T^2/3 lower bound for a pair that is not locally observable needs the separating direction in the kernel of the signal matrices of all such actions, not only of the two neighbours'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -18,6 +18,19 @@ history:
     exploration alone fails for degenerate actions is the paper's
     remark; the record checked it by simulation, not proof, and holds it
     in the body, not the title.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-272. QUESTION-272's answer for pairwise comparisons names
+    this reading as a premise of the classification it uses: "the probe
+    set that matters for a neighbouring pair i, j is N⁺_{i,j}, which
+    includes actions optimal only on the boundary between them; their
+    signals count, and the separating direction must lie in the kernel
+    of all of them (THEORY-961, from LIT-1524)". It qualifies the
+    answer, which THEORY-962 gives, and does not answer alone, so the
+    relation is bears_on. No other change.
 tags:
 - learning-theory
 - game-theory
@@ -39,6 +52,8 @@ summary: >-
   of every action in N_ab, which the definition of local observability
   already provides. It says what such actions contribute, not how often an
   algorithm must play them.
+bears_on:
+- QUESTION-272
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose check variant is the boundary case here, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; its summary of the lower bound repeats the slip corrected here, nothing here rests on it -->

@@ -4,7 +4,21 @@ status: Active
 formerly:
 - THEORY-tmpkmtoo
 title: 'A translation between two logics presented as institutions is correct, in the Satisfaction Condition''s sense, when a translated sentence holds in a model exactly when the original holds in the model''s translation; given the model translation this fixes the sentence translation up to semantic equivalence, and when every model of the target is reached it preserves and reflects entailment, so one logic''s prover can decide the other''s; but the condition alone admits collapsing translations and is relative to a model translation it does not supply'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-011, whose
+    first limit is "A collapsing Φ": "a trivial map that collapses every
+    state to one point could make the equation vacuously true. We
+    therefore need to constrain Φ to preserve independently measured
+    distinctions". This reading finds the same limit for the Satisfaction
+    Condition, an intertwining condition: it "admits collapsing
+    translations and is relative to a model translation it does not
+    supply" (the collapsing morphism is the reader's construction, as the
+    summary says). Independent evidence the demonstrated claim does not
+    need. No other change.
 tags:
 - logic
 - mathematics
@@ -21,6 +35,8 @@ summary: >-
   not the paper's. It is a criterion relative to a chosen model
   translation, and says nothing about translation beyond truth
   conditions.
+corroborates:
+- CLAIM-011
 ---
 
 # THEORY-1142: A translation between two logics presented as institutions is correct, in the Satisfaction Condition's sense, when a translated sentence holds in a model exactly when the original holds in the model's translation; given the model translation this fixes the sentence translation up to semantic equivalence, and when every model of the target is reached it preserves and reflects entailment, so one logic's prover can decide the other's; but the condition alone admits collapsing translations and is relative to a model translation it does not supply

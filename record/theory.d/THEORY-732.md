@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpyjtkq
 title: "For ReLU networks interpolated linearly between two endpoints, weak additivity and commutativity at every layer make each layer's features exactly the interpolation of the endpoints' features, output-layer linearity bounds the path's error by twice the endpoints', and for one hidden layer with interpolating minima linear mode connectivity alone gives the exact case"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -20,6 +20,20 @@ history:
     the record's, and is re-derived step by step under ADR-047 v2 (the
     owner's rule of 2026-10-19). THEORY-111 keeps the empirical regularity
     and the averaging clause, and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds corroborates
+    CLAIM-498. CLAIM-498 holds that "Averaging weights within a basin
+    averages features" and says "A many-model average needs the
+    conditions of Zhou et al.'s Theorem 1 to hold jointly for every
+    member". This reading is that theorem: under weak additivity and
+    commutativity at every layer, the interpolated network's features
+    are exactly the interpolation of the endpoints'. It is independent
+    evidence for the pairwise case; the claim grounds on THEORY-111's
+    measurements and does not need it, so corroborates (ADR-058). An
+    inactive-ok directive for CLAIM-498 is added. No other change.
 tags:
 - loss-landscapes
 - representation-learning
@@ -40,8 +54,11 @@ summary: >-
   patterns, and with shared patterns the hidden features are linear along
   the path. It says nothing about when the conditions hold. That trained
   pairs satisfy them is [THEORY-111](THEORY-111.md)'s empirical claim.
+corroborates:
+- CLAIM-498
 ---
 <!-- inactive-ok-file: THEORY-116 — Proposed; named in Connections, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-498 — Proposed; the claim this reading corroborates, nothing here rests on it -->
 
 # THEORY-732: For ReLU networks interpolated linearly between two endpoints, weak additivity and commutativity at every layer make each layer's features exactly the interpolation of the endpoints' features, output-layer linearity bounds the path's error by twice the endpoints', and for one hidden layer with interpolating minima linear mode connectivity alone gives the exact case
 

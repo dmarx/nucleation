@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqhbjf
 title: 'On frozen randomly initialized feed-forward networks at chance on hierarchical equality, with 16 input dimensions, distributed alignment search for the two-equality causal model reached interchange intervention accuracy of 0.50 to 0.51 at hidden sizes up to 256 but 0.55 at 1,028 and 0.64 at 4,096, so in a hidden layer much wider than the input a learned rotation can produce above-chance interchange accuracy for an algorithm the network does not implement'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,16 @@ history:
     they bear, and nothing in the record contradicts it (ADR-047 v3). The
     authors draw the opposite emphasis, that DAS "cannot construct
     entirely new behaviors from random structure".
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-234. QUESTION-234's note of 2026-10-27: "A wide search can
+    manufacture alignment. On frozen random networks DAS's IIA rises
+    above chance once the layer is wide (THEORY-1002), so a tie found by
+    a supervised search in a wide layer would need that control." No
+    other change.
 tags:
 - causality
 - representation-learning
@@ -27,6 +37,8 @@ summary: >-
   there is none; at 4,096 there are 14 points. It does not say DAS
   results on trained networks are artefacts: the trained equality network
   reached 1.00 at width 16, where the random one stayed at 0.50.
+bears_on:
+- QUESTION-234
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; a neighbouring account, cited as open -->
 

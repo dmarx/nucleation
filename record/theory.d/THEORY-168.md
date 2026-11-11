@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjdnxt
 title: 'In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -34,6 +34,17 @@ history:
     binary connections first disagree at four contexts; it said "Maximal
     and multimaximal couplings disagree when a content appears in three or
     more contexts." Title unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-245, which
+    says "THEORY-168 already holds that its verdicts depend on how a
+    system is represented. This adds that a recoding along a transport is
+    one such change of representation." The general dependence is
+    independent evidence for the claim's instance, which the claim's own
+    examples demonstrate. CLAIM-037's version note keeps it in that
+    claim's body only, as qualifying it, and is left as it is. No other
+    change.
 tags:
 - contextuality
 - mathematics
@@ -56,6 +67,8 @@ summary: >-
   other. The authors present the representation as the analyst's choice,
   not as a defect. What the record does not get from these papers is any
   rule for choosing it.
+corroborates:
+- CLAIM-245
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; its scope is what this theory bears on -->

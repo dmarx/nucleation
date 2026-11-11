@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprk262
 title: 'Botnan and Lesnick report that multiparameter persistence modules are of wild representation type, so that no barcode-like complete invariant is practical and good barcodes need not exist, while the interleaving distance extends the bottleneck distance with stability and universality but is NP-hard to compute for two or more parameters'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,19 @@ history:
     source, that computing the interleaving distance is NP-hard for two or
     more parameters." Removed on promotion. The body gains Theorem 6.9's
     hypotheses and Theorem 8.9's finite and tame grids.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-374 and QUESTION-375, at the reading review of
+    2026-11-11 (by topic, mathematics; ADR-091). QUESTION-374:
+    "Families over two parameters are where Vipond and Botnan and
+    Lesnick (NOTE-1609, NOTE-1568) show complete discrete invariants
+    fail." QUESTION-375: the multiparameter form "has stable
+    invariants but no complete discrete one (Vipond, NOTE-1609; Botnan
+    and Lesnick, NOTE-1568)", and "Botnan and Lesnick report that the
+    interleaving distance between multiparameter modules is NP-hard to
+    compute". This reading holds the survey's report of both. No other
+    change.
 tags:
 - mathematics
 date: '2026-11-05'
@@ -38,6 +51,9 @@ summary: >-
   NP-hardness and wild-type results are cited from the literature, not
   proved in it. It is a report of the field. It does not say
   anything about direction, paths or the cost of traversal.
+bears_on:
+- QUESTION-374
+- QUESTION-375
 ---
 # THEORY-1422: Botnan and Lesnick report that multiparameter persistence modules are of wild representation type, so that no barcode-like complete invariant is practical and good barcodes need not exist, while the interleaving distance extends the bottleneck distance with stability and universality but is NP-hard to compute for two or more parameters
 

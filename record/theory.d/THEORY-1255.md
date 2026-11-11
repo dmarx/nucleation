@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmp7gcht
 title: "Near a non-degenerate minimum, constant-rate SGD's stationary distribution is a Gaussian set by learning rate, batch size and preconditioner, which can be tuned to match the posterior at a given sample size; training time enters only as the wait for stationarity"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-363. QUESTION-363 names this reading as the second of its
+    three relations: constant-step SGD's stationary distribution
+    approximates a posterior, "shown, near a minimum with
+    positive-definite Hessian, so in one basin where the posterior has
+    no phases; what is matched is the noise scale ε/S to 1/N
+    (THEORY-1255)". No other change.
 tags:
 - learning-theory
 - probabilistic-modeling
@@ -22,6 +34,8 @@ summary: >-
   that model. It does not cover singular posteriors, several basins or the
   search phase, and it relates the optimiser's noise scale to sample size,
   not training time to sample size.
+bears_on:
+- QUESTION-363
 ---
 <!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this bears on, Kunin's deep-network reading, and the sibling filed from the same reading -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp2ela3
 title: 'In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -24,6 +24,20 @@ history:
     among ⌊2ⁿ⌋ strategies that no set of pure strategies realizes. The
     title claims nothing about strong strategies or about the spinning-top
     shape. Results about those neither promote nor refute it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its first failure reads: "Wins among processes need
+    admit no ordering (TERM-077, CLAIM-451)". This reading is a premise
+    of it: every antisymmetric pattern of wins, a full cycle included,
+    is realized by some set of strategies, which CLAIM-451 cites as "Any
+    cycle can arise". No other change.
 tags:
 - game-theory
 - mathematics
@@ -38,6 +52,8 @@ summary: >-
   of length 2¹⁰⁰⁰. Ordinal: only the sign of outcomes matters. The paper
   states it for patterns with draws too, which also needs a draw to stay
   attainable. The strategies are weak by construction.
+bears_on:
+- QUESTION-271
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 

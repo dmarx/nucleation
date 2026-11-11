@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpg87ki
 title: 'In GPT-J, for 652 CounterFact facts the model knows, the per-fact causal-tracing effect at an MLP layer adds at most 3.2 points of explained variance in the success of editing that fact at that layer, beyond what the choice of layer alone explains, across ROME, MEMIT and constrained fine-tuning and five editing objectives; ROME rewrites the fact at over 96% at every layer but the last, including layers where tracing does not place it, and the only reliable link appears when the edit is made on the noised input that tracing uses'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -17,6 +17,16 @@ history:
     against its tables and found one table cell in conflict with the
     figure (NOTE-1194), which does not touch the title. The
     authors' account of why is the Proposed THEORY-1026.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Corroborates CLAIM-454, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The claim argues what this
+    reading shows: "Locating is not identifying", and "that the edit's
+    site stores the fact was proposed as a hypothesis and is Rejected
+    (THEORY-1011)". Here per-fact causal tracing adds at most 3.2 points
+    of explained variance in where an edit succeeds. The claim does not
+    need it. No other change.
 tags:
 - representation-learning
 - causality
@@ -32,6 +42,8 @@ summary: >-
   facts are stored nowhere in particular, nor that the layer does not
   matter: the layer explains most of the variance, and ROME is best on
   average at the layer tracing favours on average.
+corroborates:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: THEORY-1026 THEORY-1011 — Proposed; the account of why and the storage hypothesis this result bears on, cited as open -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwl9bj
 title: 'When a deployed model changes the distribution it is scored on, retraining on the distribution the last model induced contracts at rate εβ/γ, for a β-jointly smooth, γ-strongly convex loss and a distribution map that is ε-Lipschitz in Wasserstein-1 distance, and so converges to a unique performatively stable point when ε < γ/β; each condition is needed, since dropping strong convexity, joint smoothness or the bound on ε each admits a case where retraining never converges'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -13,6 +13,18 @@ history:
     Theorem 3.5 and Proposition 3.6. The proof of Theorem 3.5 and the
     counterexamples (a) and (c) were re-derived below, which meets the
     condition for Active under ADR-047 v2.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds corroborates
+    CLAIM-402. CLAIM-402 cites this reading as evidence for its loop:
+    "Perdomo et al., read on 2026-10-21 (NOTE-1044), bear it out.
+    Repeated retraining has a unique stable point only when the loss is
+    strongly convex and the deployment's effect small enough
+    (THEORY-861)". The claim's grounds are CLAIM-342, THEORY-839,
+    THEORY-862 and CASE-103, and it does not need this one, so the
+    relation is corroborates (ADR-058). No other change.
 tags:
 - learning-theory
 - causality
@@ -25,6 +37,8 @@ summary: >-
   iteration, and these are the conditions for it to settle. Its fixed
   point is self-consistent, not optimal ([THEORY-839](THEORY-839.md)), and outside
   the conditions there may be several or none.
+corroborates:
+- CLAIM-402
 ---
 
 # THEORY-861: When a deployed model changes the distribution it is scored on, retraining on the distribution the last model induced contracts at rate εβ/γ, for a β-jointly smooth, γ-strongly convex loss and a distribution map that is ε-Lipschitz in Wasserstein-1 distance, and so converges to a unique performatively stable point when ε < γ/β; each condition is needed, since dropping strong convexity, joint smoothness or the bound on ε each admits a case where retraining never converges

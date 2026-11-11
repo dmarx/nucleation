@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp8ggnh
 title: "Averaging constant-rate SGD iterates at stationarity gives a covariance that shrinks with the number of examples processed, and equals the Gaussian posterior's for that many observations when the noise covariance equals the Hessian"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-363. QUESTION-363 names this reading: "The only
+    correspondence between examples processed and sample size in the
+    readings is iterate averaging, in a regular model in one basin after
+    equilibration (THEORY-1257)." No other change.
 tags:
 - learning-theory
 - probabilistic-modeling
@@ -21,6 +31,8 @@ summary: >-
   covariance. It is the one place the paper ties examples processed to a
   sample size, and it is about spread in one basin after equilibration,
   not about which region dominates.
+bears_on:
+- QUESTION-363
 ---
 
 # THEORY-1257: Averaging constant-rate SGD iterates at stationarity gives a covariance that shrinks with the number of examples processed, and equals the Gaussian posterior's for that many observations when the noise covariance equals the Hessian

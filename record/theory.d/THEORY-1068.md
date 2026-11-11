@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmpduhhr
 title: 'In the founding statement of relational quantum mechanics the states and values of systems are relative to other systems, but the systems are not: the world is assumed decomposed, possibly in several ways, into systems each characterized by the questions that can be asked of it and a finite information capacity, so the relata precede the relations, as an assumption and without an ontology of events'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-477, whose
+    note of 2026-10-27 cites this reading: Rovelli 1996 "confirms the note
+    above that relational quantum mechanics is non-eliminative, and on its
+    own text" (values relational, systems assumed, "Characterized, not
+    constituted"). It is a physical case of the claim's non-eliminative
+    "partly fixed", not of constitution, which the claim's note of
+    2026-10-29 says the record lacks; the claim does not need it. No other
+    change.
 tags:
 - quantum-foundations
 - metaphysics
@@ -18,6 +30,8 @@ summary: >-
   who quote later texts for it. It does not say that RQM must keep systems
   prior, nor that the systems are uniquely given: the decomposition is
   assumed, not argued, and allowed to vary.
+corroborates:
+- CLAIM-477
 ---
 <!-- inactive-ok-file: CLAIM-136 CLAIM-477 — Proposed; neighbours cited as open -->
 

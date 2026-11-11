@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpx9mep
 title: 'When a center with no ground truth pays each rater a strictly proper scoring rule on the distribution of a reference rater''s report implied by her own report, under a common prior and a known signal model in which raters'' signals are stochastically relevant to one another, truthful reporting is a strict Nash equilibrium, but not necessarily the only one: in the authors'' two-signal example under the log rule, every rater always reporting h, or always reporting l, is also an equilibrium'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -41,6 +41,19 @@ history:
     or reach the truthful equilibrium rather than another, neither
     promotes nor refutes this; it is a result about equilibria, not
     behaviour.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its text names this reading on the second failure: "Peer
+    prediction (THEORY-943) scores without ground truth only by
+    substituting the centre's model of how honest reports correlate". No
+    other change.
 tags:
 - game-theory
 - epistemology
@@ -55,6 +68,8 @@ summary: >-
   has two uninformative equilibria, which the authors set aside as not
   focal. The scheme replaces ground truth with the center's model of how
   honest signals correlate.
+bears_on:
+- QUESTION-271
 ---
 
 # THEORY-943: When a center with no ground truth pays each rater a strictly proper scoring rule on the distribution of a reference rater's report implied by her own report, under a common prior and a known signal model in which raters' signals are stochastically relevant to one another, truthful reporting is a strict Nash equilibrium, but not necessarily the only one: in the authors' two-signal example under the log rule, every rater always reporting h, or always reporting l, is also an equilibrium

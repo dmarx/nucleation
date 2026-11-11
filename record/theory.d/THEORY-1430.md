@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwe5km
 title: 'Vipond shows that the persistence landscape extends to multiparameter persistence modules as a function that is stable with respect to the interleaving distance and whose weighted versions together determine the rank invariant of a finitely presented module, although no complete discrete invariant exists for such modules'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -38,6 +38,17 @@ history:
     scratch/formal/vipond_checks.py re-run: all checks pass and both
     controls fail as they should. Status Proposed → Active; promote_when
     removed on promotion.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-374 and QUESTION-375, at the reading review of
+    2026-11-11 (by topic, mathematics; ADR-091). QUESTION-374:
+    "Families over two parameters are where Vipond and Botnan and
+    Lesnick (NOTE-1609, NOTE-1568) show complete discrete invariants
+    fail." QUESTION-375: the multiparameter form "has stable
+    invariants but no complete discrete one (Vipond, NOTE-1609; ...)".
+    This reading holds Vipond's stable landscape, which sees only the
+    rank invariant. No other change.
 tags:
 - mathematics
 date: '2026-11-05'
@@ -51,6 +62,9 @@ summary: >-
   checker has gone through. The landscape sees only the rank invariant; it does not say
   anything about features born at incomparable parameter values, about
   direction or paths, or about recovering a Pareto frontier of budgets.
+bears_on:
+- QUESTION-374
+- QUESTION-375
 ---
 # THEORY-1430: Vipond shows that the persistence landscape extends to multiparameter persistence modules as a function that is stable with respect to the interleaving distance and whose weighted versions together determine the rank invariant of a finitely presented module, although no complete discrete invariant exists for such modules
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9ii0y
 title: 'When a transformer''s MLP sublayers are replaced by transcoders and the attention patterns and LayerNorm scales on a prompt are held fixed, the contribution of an earlier transcoder feature at the same token to a later one''s pre-activation is the earlier feature''s activation times the dot product of its decoder with the later feature''s encoder, scaled by one LayerNorm constant per token, so the weight factor is fixed by the trained weights and holds on every input'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,16 @@ history:
     re-derived it step by step below (ADR-047 v2), and the derivation makes
     explicit a scalar the paper's Eq. 7 leaves to App. D.4: the later
     layer's LayerNorm scale, which depends on the input.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question names
+    "Transcoder or cross-layer-transcoder weights (LIT-1554, LIT-1552)"
+    as a circuit-only measurement that will "describe circuits through
+    MLP layers". This reading holds what those weights are: a
+    feature-to-feature weight factor fixed by the trained weights, up to
+    a per-token LayerNorm scalar. No other change.
 tags:
 - representation-learning
 - causality
@@ -27,6 +37,8 @@ summary: >-
   replacement. It says nothing about why attention attends where it does,
   and "input-invariant" holds only up to a per-token LayerNorm scalar and
   only while the later feature is active.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the record's own claim and a neighbouring account, named, nothing here rests on them -->
 # THEORY-974: When a transformer's MLP sublayers are replaced by transcoders and the attention patterns and LayerNorm scales on a prompt are held fixed, the contribution of an earlier transcoder feature at the same token to a later one's pre-activation is the earlier feature's activation times the dot product of its decoder with the later feature's encoder, scaled by one LayerNorm constant per token, so the weight factor is fixed by the trained weights and holds on every input

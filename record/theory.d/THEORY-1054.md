@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmp09707
 title: 'One arrangement of harmonic particles on a finite graph, with the same wiring, potential and inverse-mass response, gives the discrete wave equation when the integrator stores position and momentum and the discrete heat equation when it stores position alone; both are governed by the symmetrized graph Laplacian, and the coupling data do not decide between them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-481, whose
+    readings note cites this reading for "the same relational organization
+    need not imply the same temporal hierarchy": "So the coupling data
+    underdetermine whether relative modes decay. The difference lies in a
+    modeller's choice of semantics, which is this claim's condition seen
+    from the other side." The claim is demonstrated by its own
+    computations and does not need it (ADR-058). No other change.
 tags:
 - compositionality
 - mathematics
@@ -21,6 +32,8 @@ summary: >-
   m_v(q_v(t+1) − q_v(t)) = −(L_G q(t))_v (Remark 7.4.2). Active: both
   are short exact computations. It says nothing about time scales, and
   what differs between the two is a modelling choice, not the coupling.
+corroborates:
+- CLAIM-481
 ---
 # THEORY-1054: One arrangement of harmonic particles on a finite graph, with the same wiring, potential and inverse-mass response, gives the discrete wave equation when the integrator stores position and momentum and the discrete heat equation when it stores position alone; both are governed by the symmetrized graph Laplacian, and the coupling data do not decide between them
 

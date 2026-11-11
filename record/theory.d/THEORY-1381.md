@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp960op
 title: 'Foschi, Hull and Ku give closed-form equations in the tangents of half the folding angles, one for opposite and one for adjacent folding angles, that describe the full configuration space of any degree-4 rigid origami vertex, Euclidean or non-Euclidean, as two folding modes, the two branches of a square root, which meet at the flat state of a developable vertex and cannot meet there when the sector angles do not sum to 2π; the arXiv copy prints the opposite-angle equation with two signs wrong'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,20 @@ history:
     degree-4 rigid origami vertex, Euclidean or non-Euclidean, as two
     folding modes, which meet at the flat state of a developable vertex and
     are disconnected when the sector angles do not sum to 2π".
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Corroborates CLAIM-590, at the reading review of 2026-11-11 (by
+    topic, mathematics; ADR-091). The claim takes "the vertex's
+    configuration space, two folding modes meeting only at the flat
+    state" from CASE-206, which "rests on Foschi, Hull and Ku's
+    equations", and its note of 2026-11-06 says that blocker is spent:
+    "NOTE-1606, Foschi, Hull and Ku's equations, is now Read: the
+    reading is complete and its equations are checked." This reading
+    holds those equations and the two modes meeting at the flat state
+    of a developable vertex. CASE-206 derives the two-mode structure
+    for its vertex itself, so the claim does not need the reading:
+    corroborates. No other change.
 
     The last clause is the source's generalization from one example (§V B).
     It holds only when no crease may pass ±π, and it moves to THEORY-1557,
@@ -44,6 +58,8 @@ summary: >-
   with its three misprints corrected below. Degree 4 only. The wider claim,
   that the modes are disconnected whenever the sector angles do not sum to
   2π, is held Proposed in [THEORY-1557](THEORY-1557.md), which extends this one.
+corroborates:
+- CLAIM-590
 ---
 <!-- inactive-ok-file: THEORY-1557 — Proposed; the wider clause this narrowing set aside -->
 

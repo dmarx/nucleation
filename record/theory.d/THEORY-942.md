@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwc2nk
 title: "The α-Rank chain over pure strategy profiles, built from Fermi-imitation fixation probabilities in finite populations with rare mutation, has a unique stationary distribution at every finite ranking intensity; as the intensity grows without bound its transition matrix converges to that of a chain that moves only along weakly better unilateral deviations, whose closed classes are the sink strongly connected components of the game's weakly-better-response graph, on each of which it is a Markov-Conley chain, and each of which lies inside a single chain component of the replicator flow"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -25,6 +25,19 @@ history:
     only chains confined to the sinks. The body's "Only the converse is
     proved" is corrected, since the converse is the half not proved. The
     old title: The α-Rank chain over pure strategy profiles, built from Fermi-imitation fixation probabilities in finite populations with rare mutation, has a unique stationary distribution at every finite ranking intensity; as the intensity grows without bound its transitions become those of Markov chains confined to the sink strongly connected components of the game's weakly-better-response graph, each of which lies inside a single chain component of the replicator flow. The old promote_when: A checked re-derivation recorded in this file of Theorems 2.1.2 and 2.5.1, which the reading made (NOTE-1156), together with a complete proof of Theorem 2.4.24's conjugation step (the volume-preserving transformation of the interior replicator flow), from the paper's sources or another, read and checked. It is refuted by a finite game in which some asymptotically stable sink chain component of the replicator flow contains no sink strongly connected component of the weakly better-response graph, or by one MCC meeting two chain components. The title says nothing about the limit of the stationary distribution as α grows, nor about invariance to copies. Results on those neither promote nor refute it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its text names this reading on the first failure:
+    "α-Rank ranks uniquely at each finite α. Its large-α limit picks out
+    the sinks of the better-response graph (THEORY-942)". No other
+    change.
 tags:
 - game-theory
 - complex-systems
@@ -41,6 +54,8 @@ summary: >-
   not carried out, and is [THEORY-1233](THEORY-1233.md). Not shown: what the stationary
   distribution tends to, how it splits among several sinks, or invariance
   to duplicated strategies, which the reader found it lacks.
+bears_on:
+- QUESTION-271
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1233 — Proposed; the converse half of Theorem 2.4.24, which extends this entry -->

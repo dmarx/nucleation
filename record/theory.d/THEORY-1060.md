@@ -4,7 +4,22 @@ status: Active
 formerly:
 - THEORY-tmp5nb96
 title: 'Robinson''s claim that sheaves are the canonical data structure for sensor integration rests on an axiomatization, not a theorem: six axioms are posited as what an integrated sensor system must be and a sheaf is defined as whatever satisfies them, the paper calls sheaves one of many co-universal information representations, and its consistency and fusion tools need only a presheaf'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Corroborates CLAIM-623, at the reading review of 2026-11-11 (by
+    topic, mathematics; ADR-091). The claim's qualification: where
+    "the union of the contexts is never measured", "a compatible
+    family of supports glues by definition", while "Here the union
+    interval is itself an observable context, and the gluing axiom
+    fails on it." This reading holds Robinson's remarks that Axiom 6,
+    gluing, "can always be satisfied if S(U₁ ∪ U₂) has not been
+    constrained by the sensor models", and that relational databases
+    "often do not satisfy Axiom 6". SYNTHESIS-082 named the gap: no
+    member cites THEORY-1060, "CLAIM-623's observed union in other
+    words". No other change.
 tags:
 - mathematics
 - information-theory
@@ -17,6 +32,8 @@ summary: >-
   never defined for sheaves as a sensor model; its technical uses are the
   standard ones for cohomology. It does not say that sheaves are a poor
   model, or that no theorem of this kind could be proved.
+corroborates:
+- CLAIM-623
 ---
 
 # THEORY-1060: Robinson's claim that sheaves are the canonical data structure for sensor integration rests on an axiomatization, not a theorem: six axioms are posited as what an integrated sensor system must be and a sheaf is defined as whatever satisfies them, the paper calls sheaves one of many co-universal information representations, and its consistency and fusion tools need only a presheaf

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpq0hjk
 title: 'In a finite symmetric zero-sum game, successive Nash clusters are weakly ordered by relative population performance, and a strategy that beats every member of a population containing a whole cluster lies in a strictly earlier cluster'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -21,6 +21,21 @@ history:
     cluster C_i lies in C_i or a later cluster. Empirical results on
     cluster sizes or on the spinning-top shape neither promote nor refute
     it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". On the first failure its text says: "Collapsing each
+    strongly connected component of the win graph to a point always
+    leaves an acyclic quotient, so an ordering exists one level up."
+    This reading is the game-theoretic form of that ordering: successive
+    Nash clusters are weakly ordered by relative population performance.
+    No other change.
 tags:
 - game-theory
 - mathematics
@@ -35,6 +50,8 @@ summary: >-
   for any Nash clustering of any finite symmetric zero-sum game and does
   not depend on the spinning-top hypothesis. The order is weak, since
   clusters can tie, and cardinal, since RPP uses payoff magnitudes.
+bears_on:
+- QUESTION-271
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 

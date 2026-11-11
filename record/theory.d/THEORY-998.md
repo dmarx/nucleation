@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpom5gw
 title: 'In GPT-2 XL, for 1000 facts the model knows, restoring single clean hidden states into a run whose subject tokens were noised recovers the most of the correct object''s probability at two sites, middle layers at the last subject token, where MLP outputs carry most of the effect, and late layers at the last token, where attention does; and a rank-one edit of one middle MLP output matrix keyed on the last subject token inserts counterfactual facts that generalize to paraphrases and spare neighbouring subjects better than the fine-tuning, knowledge-neuron and hypernetwork editors tested, working best at that token and in middle layers'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -22,6 +22,15 @@ history:
     2026-10-27, are placed against these measurements; neither
     contradicts them, and MEMIT's traces extend them to GPT-J. Title,
     scope and status unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Corroborates CLAIM-454, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The claim cites it among
+    supporting cases, "not a test": "Locating is not identifying. ROME's
+    causal traces and edits find where restoring or writing a hidden
+    state helps (THEORY-998), not the variable that does the work". No
+    other change.
 tags:
 - representation-learning
 - causality
@@ -36,6 +45,8 @@ summary: >-
   100.0, paraphrase 96.4, neighbourhood 75.4), next best 66.9. It does not
   say where facts are stored: a rank-one edit with the same output exists
   for any one-dimensional fact patch ([LIT-968](../literature.d/LIT-968.md)).
+corroborates:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; the storage hypothesis drawn from these results, cited as open -->
 

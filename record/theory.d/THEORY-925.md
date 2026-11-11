@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp1p6ly
 title: 'In a cooperative stochastic game with decentralised actors and a centralised critic, a baseline for each agent that averages the critic''s value over that agent''s own alternative actions under its own policy, the other agents'' actions held fixed, leaves the expected policy gradient unchanged, so each agent can be credited with the advantage of its actual action over that counterfactual average without a default action or an extra simulation; the counterfactual values come from the learned critic, not from the environment'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -23,6 +23,19 @@ history:
     specified. The title claims nothing about how good the critic's
     counterfactual values are, or about performance; a result about those
     neither promotes nor refutes it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its text names this reading on the fourth failure:
+    "Counterfactual credit (COMA, THEORY-925) values an action only from
+    the times it was taken, so its price is an exploration floor on
+    every action". No other change.
 tags:
 - game-theory
 - learning-theory
@@ -36,6 +49,8 @@ summary: >-
   counterfactual is "had the agent acted as it usually does", not "had it
   not acted", and its values are a learned critic's, trained on occasions
   when each alternative was taken; it presupposes those occasions.
+bears_on:
+- QUESTION-271
 ---
 
 # THEORY-925: In a cooperative stochastic game with decentralised actors and a centralised critic, a baseline for each agent that averages the critic's value over that agent's own alternative actions under its own policy, the other agents' actions held fixed, leaves the expected policy gradient unchanged, so each agent can be credited with the advantage of its actual action over that counterfactual average without a default action or an extra simulation; the counterfactual values come from the learned critic, not from the environment

@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmple55n
 title: 'In Gemma 2 27B, Qwen 3 32B and Llama 3.3 70B, activation vectors for 275 prompted character roles span a low-dimensional space whose first principal component runs from fantastical to Assistant-like roles, with role loadings correlated above 0.92 between models and the default Assistant at its extreme; the contrast vector from the default Assistant to the role mean aligns with it and is largely present before post-training'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-443, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question asks about "a
+    chat model's position along a persona axis", and its summary
+    measures "persona position along the Assistant Axis". The axis is
+    what this reading holds, so it is a premise of the question
+    (ADR-060); THEORY-1339, the drift result from the same paper,
+    already bears on it. No other change.
 tags:
 - representation-learning
 - self
@@ -18,6 +29,8 @@ summary: >-
   model's PCs and two models' steering. It does not say the Assistant is
   a single direction (the authors call the linear assumption "likely
   flawed"), nor that the axis's meaning beyond its ends is settled.
+bears_on:
+- QUESTION-443
 ---
 
 # THEORY-1330: In Gemma 2 27B, Qwen 3 32B and Llama 3.3 70B, activation vectors for 275 prompted character roles span a low-dimensional space whose first principal component runs from fantastical to Assistant-like roles, with role loadings correlated above 0.92 between models and the default Assistant at its extreme; the contrast vector from the default Assistant to the role mean aligns with it and is largely present before post-training

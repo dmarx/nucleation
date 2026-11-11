@@ -4,7 +4,20 @@ status: Active
 formerly:
 - THEORY-tmpyoeip
 title: 'In Di Biagio and Rovelli''s reformulation of relational quantum mechanics a relative fact is a conditional probability concentrated on one value: A is a fact relative to B when the relative information I_{A|B} = I_A + I_{A:B} is maximal; since only commuting variables have a joint distribution, perspectives belong to commutative subalgebras of observables, not to quantum systems, so a qubit has none, and the joint distribution is itself relative to a further system, so the relativity iterates'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-477, whose
+    note of 2026-10-27 (evening) says Di Biagio and Rovelli 2025 "keep RQM
+    non-eliminative": "What holds a perspective moves from the system to a
+    commutative subalgebra, and a whole system may hold none. The relata
+    are still assumed", which is this reading's thesis. Bears on
+    QUESTION-285, whose note of the same evening reads the paper's
+    definitions as "An exact criterion for the correlation rung, and
+    nothing above it": "B has information about A" as I_{A:B} ≠ 0,
+    "without any observer". No other change.
 tags:
 - quantum-foundations
 - information-theory
@@ -19,6 +32,10 @@ summary: >-
   joint distributions. It does not say that this resolves the problems the
   authors list, that observers play no role in fixing what counts as a
   fact, or that the choice of subalgebra is given by the physics.
+corroborates:
+- CLAIM-477
+bears_on:
+- QUESTION-285
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed; the earlier statement, cited as open -->
 

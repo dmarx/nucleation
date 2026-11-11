@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjv5er
 title: 'When the signal law depends on the decision, Kwon and Perchet''s approachability algorithm learns what each decision would reveal only from the stages on which it is played: it keeps every decision''s probability at least γ/|I| and estimates the flag by importance weighting, an estimate that is conditionally unbiased with second moment Σ_i 1/P[i_t = i] ≤ |I|²/γ, with the tuned floor γ shrinking as T^-1/3; when the signal law does not depend on the decision, the raw signal is already unbiased for every component and no floor is used'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -15,6 +15,21 @@ history:
     checked by simulation on the approach–avoid signals, which meets the
     condition for Active under ADR-047 v2. The reading of the floor as
     protected access is the record's.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". On the fourth failure its text puts the price at "an
+    exploration floor on every action". This reading is evidence on that
+    price: Kwon and Perchet's algorithm keeps a floor γ/|I| on every
+    decision because its signals depend on the decision. CLAIM-446 cites
+    it so: "The floor is QUESTION-271's exploration floor ... Kwon and
+    Perchet's approachability algorithm does keep one". No other change.
 tags:
 - learning-theory
 - game-theory
@@ -29,6 +44,8 @@ summary: >-
   floor is how the algorithm keeps that finite. That the floor is
   necessary in general is supported by the matching lower bound, not shown
   here. Nothing here says what floor a non-learning system should keep.
+bears_on:
+- QUESTION-271
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; entries this account is compared with, nothing here rests on their being settled -->
 # THEORY-957: When the signal law depends on the decision, Kwon and Perchet's approachability algorithm learns what each decision would reveal only from the stages on which it is played: it keeps every decision's probability at least γ/|I| and estimates the flag by importance weighting, an estimate that is conditionally unbiased with second moment Σ_i 1/P[i_t = i] ≤ |I|²/γ, with the tuned floor γ shrinking as T^-1/3; when the signal law does not depend on the decision, the raw signal is already unbiased for every component and no floor is used

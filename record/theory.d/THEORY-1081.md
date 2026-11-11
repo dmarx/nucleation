@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo4ob4
 title: 'Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; they base quantum ontology on facts relative to systems rather than on stable facts, arguing that stability is itself relational and only approximate and counting the Local Friendliness violation as evidence, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -40,6 +40,17 @@ history:
     absoluteness; a scenario in which facts relative to different
     systems, compared by a physical interaction, disagree would refute
     it."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: bears on QUESTION-280, whose
+    note of 2026-10-27 (evening) reads the same paper (NOTE-1226) as "a
+    worked case of approximate absoluteness, for facts and not
+    individuals", adding that "the approximation is itself relative to a
+    system". This reading holds that thesis: an absolute macroreality
+    emerging "only approximately and only relative to systems for which
+    decoherence is strong". THEORY-1075 already bears on it for the
+    stability half. No other change.
 tags:
 - quantum-foundations
 - metaphysics
@@ -55,6 +66,8 @@ summary: >-
   an agent reasoning about himself is left undone. What the paper
   argues is held; whether relative facts cohere in general is
   THEORY-1230's question.
+bears_on:
+- QUESTION-280
 ---
 <!-- inactive-ok-file: THEORY-1230 — Proposed; filed beside this reading by the twenty-fourth status review: the general consistency of relative facts -->
 <!-- inactive-ok-file: THEORY-621 — Proposed; the RQM rule this one shares its gap with, cited as open -->

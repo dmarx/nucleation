@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp2ngm5
 title: "In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,15 @@ history:
     re-derived in the decision file. The general claim for hyperbolic
     models, which the paper asserts without data, moves with the old
     promote_when to THEORY-825.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-025, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question cites this
+    reading's work and measurement: "a space that can hold a hierarchy
+    does not show that a trained one does: Yang et al. (LIT-871) find
+    trained hyperbolic models order tree levels only 69–75% of the
+    time". No other change.
 tags:
 - representation-learning
 - network-science
@@ -34,6 +43,8 @@ summary: >-
   on one architecture, two synthetic trees and one table without variance,
   and the paper does not separate a real failure to order levels from the
   origin's arbitrariness under losses that see only pairwise distances.
+bears_on:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-825 — Proposed; the general claim this measurement was narrowed from, filed to carry it -->
 <!-- inactive-ok-file: THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->

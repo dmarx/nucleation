@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpnu6ih
 title: 'On a three-layer parenthesis-balance classifier, causal-scrubbing hypotheses that resample the terms of one head''s input separately scored 81% and 84% of the loss recovered against 77% for the less specific hypothesis they refine, and the authors attribute the rise to resampling washing out a signal, not to a better explanation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -15,6 +15,17 @@ history:
     explanation (ADR-047 v3). Its mechanism is the one the main post's §7
     and the appendix post's §6.1 argue in general (NOTE-1168, C6), which
     this is the measured case of.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-275. QUESTION-275 proposes: "Causal scrubbing's recovered
+    loss (LIT-1549) is a candidate 'how much does the circuit explain'
+    score per checkpoint." This reading is evidence against reading that
+    score at face value: more specific hypotheses scored 81% and 84%
+    against 77%, and the authors attribute the rise to resampling
+    washing out a signal, not to a better explanation. No other change.
 tags:
 - causality
 - representation-learning
@@ -31,6 +42,8 @@ summary: >-
   (0.81 ± 0.05). The authors call the two results not legitimate. It does
   not say how often this happens in other models, nor that the adversary
   they propose would remove it.
+bears_on:
+- QUESTION-275
 ---
 
 # THEORY-1029: On a three-layer parenthesis-balance classifier, causal-scrubbing hypotheses that resample the terms of one head's input separately scored 81% and 84% of the loss recovered against 77% for the less specific hypothesis they refine, and the authors attribute the rise to resampling washing out a signal, not to a better explanation

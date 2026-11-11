@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmppc921
 title: 'In the finite beta–Bernoulli feature model with prevalences Beta(α/K, 1), the expected number of occupied features among N objects is K(1 − (α/K)B(α/K, N + 1)), strictly below the Indian buffet process''s αH_N for every finite K and tending to it as K grows, and each object holds Kα/(K + α) features on average rather than α'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -21,6 +21,15 @@ history:
     compares against was registered and read on 2026-10-27 (LIT-1627);
     its 8.97 is confirmed exactly (THEORY-1041) and the reason given for
     its closeness qualified. Title and status unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-276, which cites this
+    reading's note (NOTE-1172) for a feature allocation "with their
+    number left open"; this reading shows that the finite model at K =
+    16, CASE-165's form, falls short of leaving it open. No other
+    change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -34,6 +43,8 @@ summary: >-
   K the count falls short, by 27% at N = 12, α = 3, K = 16. It says
   nothing about stick-breaking truncations, which approach the IBP much
   faster.
+bears_on:
+- QUESTION-276
 ---
 
 # THEORY-999: In the finite beta–Bernoulli feature model with prevalences Beta(α/K, 1), the expected number of occupied features among N objects is K(1 − (α/K)B(α/K, N + 1)), strictly below the Indian buffet process's αH_N for every finite K and tending to it as K grows, and each object holds Kα/(K + α) features on average rather than α

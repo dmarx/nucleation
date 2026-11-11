@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgqlal
 title: 'In Geiger et al.''s three-layer feed-forward network trained on hierarchical equality and in BERT fine-tuned on monotonicity inference, interchange interventions on subspaces found by a learned rotation aligned the hypothesised two-variable causal models with interchange intervention accuracy of 1.00 on the rotation''s training data, where the axis-aligned alignment closest to the learned rotation reached 0.73 and 0.51; in BERT, the learned lexical-entailment subspace was in turn aligned, at 0.97 to 0.98, with a model holding only the identities of the two words'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,19 @@ history:
     report, names the training-data scoring, and leaves out the
     brute-force comparison for MoNLI, whose printed row is a copy of
     Table 1's (ADR-047 v3).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-234; corroborates CLAIM-454. QUESTION-234's note of
+    2026-10-27: "The basis changes the verdict. DAS's toy and its
+    trained-network results (THEORY-983) are THEORY-243's converse: a
+    learned rotation passes where the neuron basis fails." CLAIM-454
+    cites it among "supporting cases and not a test": "DAS's
+    'entailment' variable in BERT on MoNLI decomposes into the two input
+    words' identities (THEORY-983)". The claim grounds on CASE-101, so
+    corroborates (ADR-058). No other change.
 tags:
 - causality
 - representation-learning
@@ -28,6 +41,10 @@ summary: >-
   implement the algorithms in any stronger sense than interchange
   accuracy on training pairs, nor that the learned subspaces are unique:
   every rotation within them gives the same interventions.
+bears_on:
+- QUESTION-234
+corroborates:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the account and claim this bears on, cited as open -->
 

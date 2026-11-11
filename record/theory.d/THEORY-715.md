@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmp7uuzn
 title: "The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-343, whose text cites it:
+    "Griffith et al.'s I_∧ is defined for any number of sources and is
+    nonnegative, but fails identity and has negative atoms already for
+    two". The claim does not need it. No other change.
 tags:
 - information-theory
 - complex-systems
@@ -17,6 +26,8 @@ summary: >-
   example was recomputed, with Harder, Salge and Polani's copy family and
   a three-source copy added. It is the record's one redundancy defined for
   n > 2, and it does not have the identity property there or for n = 2.
+corroborates:
+- CLAIM-343
 ---
 
 # THEORY-715: The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources

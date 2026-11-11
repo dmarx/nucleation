@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpnxcxo
 title: 'In the Random Hierarchy Model with v symbols per level, m rules per symbol and s-tuples, the covariance between two tokens whose lowest common ancestor is ℓ levels up has zero mean over grammars and root-mean-square size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m per level, while its estimate from P sequences carries noise of about (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to leading order in large v and m'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -15,6 +15,14 @@ history:
     curves and an argued link between them. The derivation was re-derived
     to leading order and checked by exact computation in the review; this
     THEORY holds it, and THEORY-201 keeps the rest and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. bears_on QUESTION-025, whose text cites its
+    work (LIT-883): token-token correlations "fall by about a factor m
+    per level of the common ancestor; so a finite corpus shows only the
+    shallow levels", which is this reading's result. No other change.
 tags:
 - mathematical-statistics
 - learning-theory
@@ -28,6 +36,8 @@ summary: >-
   covariances of sampled grammars. A statement about the statistics of the
   generative model only: it says nothing about what a trained network
   learns, or when, and nothing about natural language.
+bears_on:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-201 THEORY-673 — Proposed; the account that extends this one, and the split this one follows -->
 

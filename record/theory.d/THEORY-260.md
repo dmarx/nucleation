@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpevdge
 title: "An individual string's information splits non-trivially into structure and noise only in a model class without a universal member: with partial recursive models every string's minimal sufficient statistic is trivial, while with total recursive functions it is not, and the finite-set, computable-distribution and total-function classes agree to within logarithmic terms"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -40,6 +40,15 @@ history:
     complexity below n − √n − O(log n), not below n − O(log n) as LIT-239
     §VI-D words it and version 2 repeated. The clause is still met. The
     claim is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-289, whose text calls
+    itself "the independent route through LIT-239" to this reading's
+    clause and says it "meets the clause at logarithmic precision, which
+    is the precision THEORY-260 claims for the agreement of the
+    classes". The claim does not rest on this reading. No other change.
 tags:
 - information-theory
 - mathematics
@@ -57,6 +66,8 @@ summary: >-
   within O(log n) (Lemmas 7.1–7.2). It is not computable, and a
   sufficient-statistic oracle would compute K (Theorems 8.1, 8.3). It
   says nothing about any computable or learned model.
+corroborates:
+- CLAIM-289
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-157 — Proposed; the real-patterns account this bears on, and the probabilistic sufficiency account it is set beside -->
 

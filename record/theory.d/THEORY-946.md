@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpzogk3
 title: "In the zero-sum meta-game on an antisymmetric evaluation matrix the maximum-entropy Nash equilibrium is unique; when the meta-game has only one Nash equilibrium, adding exact copies of an agent splits that agent's mass evenly and leaves every Nash average unchanged; the equilibrium is uniform exactly when every agent's mean log-odds is zero, and uniform on the top-rated agents when the matrix is a pure gradient"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -23,6 +23,18 @@ history:
     counterexample with a segment of equilibria is outside it, and so are
     results about near-copies or about non-redundant additions. Those
     neither promote nor refute it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". Its text names this reading as evidence on the third
+    failure: "Nash averaging (THEORY-946) resists exact copies only when
+    the meta-game's equilibrium is unique". No other change.
 tags:
 - game-theory
 - mathematics
@@ -37,6 +49,8 @@ summary: >-
   counterexample checked by script (one copy of a null agent moves an
   outside agent's Nash average from −0.5 to −0.2) shows the condition is
   needed. Cardinal: payoffs are log-odds.
+bears_on:
+- QUESTION-271
 ---
 
 # THEORY-946: In the zero-sum meta-game on an antisymmetric evaluation matrix the maximum-entropy Nash equilibrium is unique; when the meta-game has only one Nash equilibrium, adding exact copies of an agent splits that agent's mass evenly and leaves every Nash average unchanged; the equilibrium is uniform exactly when every agent's mean log-odds is zero, and uniform on the top-rated agents when the matrix is a pure gradient

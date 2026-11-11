@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmph7ceb
 title: 'In Claude 3 Sonnet''s middle-layer residual stream, on two prompts for which every active sparse-autoencoder feature was ablated, how strongly a feature was active predicted its ablation effect on the answer poorly (correlation about 0.12) while its gradient attribution predicted it well (about 0.81), and on the multi-step prompt only three of the ten most active features were among the ten with the largest ablation effect'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,15 @@ history:
     the record contradicts it (ADR-047 v3). That activation is a poor guide
     to role in general is not claimed; the authors call the example
     "somewhat cherry-picked".
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Corroborates CLAIM-454, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The claim cites it among
+    supporting cases, "not a test: the claim is interpretive": "Activity
+    does not give role. In Claude 3 Sonnet, a feature's activation
+    predicts its ablation effect at a correlation of about 0.12,
+    attribution at about 0.81 (THEORY-987)". No other change.
 tags:
 - representation-learning
 - causality
@@ -30,6 +39,8 @@ summary: >-
   and the Lakers, rank as low as 70th to 162nd by activation. It does not
   say how often this holds beyond the two prompts, and for other prompts
   the authors found no intermediate features at this layer.
+corroborates:
+- CLAIM-454
 ---
 # THEORY-987: In Claude 3 Sonnet's middle-layer residual stream, on two prompts for which every active sparse-autoencoder feature was ablated, how strongly a feature was active predicted its ablation effect on the answer poorly (correlation about 0.12) while its gradient attribution predicted it well (about 0.81), and on the multi-step prompt only three of the ten most active features were among the ten with the largest ablation effect
 

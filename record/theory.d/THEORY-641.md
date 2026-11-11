@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmptk080
 title: "Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,15 @@ history:
     Declared `extends: THEORY-700` once Barnett, Barrett and Seth
     (2009) was read (NOTE-934): the Gaussian equivalence this account
     recovers is now an account of its own. The claim is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-335, whose text says that
+    "As predictive improvement it is exactly what THEORY-641 and
+    THEORY-700 say: a likelihood-ratio limit"; the claim's title is that
+    transfer entropy "measures directed predictive improvement". The
+    claim does not need it. No other change.
 tags:
 - information-theory
 - mathematical-statistics
@@ -27,6 +36,8 @@ summary: >-
   regularity conditions are not checked. The non-central χ² for T > 0 is
   at best a local-alternative approximation. The finite-state identity
   and the Gaussian equivalence (half the Granger statistic) are exact.
+corroborates:
+- CLAIM-335
 ---
 
 

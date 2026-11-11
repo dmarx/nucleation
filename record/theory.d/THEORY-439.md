@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4sei8
 title: "Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,22 @@ history:
     review restated that claim by what each history carries: a
     discarded update is part of the signal, so this paper no longer
     measures context against interpreter. The reading is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-020. QUESTION-020 asks whether improving the interpreter
+    can substitute for information transmitted in the utterance, and
+    under "Evidence since" names this reading's work: "Akyürek et al.
+    (LIT-796) get more from the same demonstrations by improving the
+    interpreter (test-time training) than by conditioning alone. That is
+    direct evidence that adaptation can stand in for transmitted
+    information." A question that names a reading's work as its evidence
+    states the relation. The ninth status review took this reading out
+    of CLAIM-118's corroborated_by because the update is discarded after
+    the task; that bears on how the question reads the evidence, not on
+    whether it bears. No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -29,6 +45,8 @@ summary: >-
   discarded after each task, so it is as transient as a context. It is two
   benchmarks and one model family, and which task property predicts the
   gain is open.
+bears_on:
+- QUESTION-020
 ---
 
 # THEORY-439: Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable

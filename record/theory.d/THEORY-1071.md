@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpggk6i
 title: 'Quantum mechanics does not entail agential realism: Bohmian mechanics reproduces its predictions with an ontology of individual particles on determinate trajectories, and relational quantum mechanics, the interpretation Barad names as closest, makes values relational while keeping the systems prior to their interactions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic: corroborates CLAIM-477, whose
+    note of 2026-10-27 cites this reading: "Rovelli's relational quantum
+    mechanics is a second non-eliminative case: values relational, systems
+    prior to interactions". An instance the claim does not need (ADR-058).
+    CLAIM-476 also cites it, only to say its footing is the template
+    reading of Barad, which takes no relation. No other change.
 tags:
 - quantum-foundations
 - metaphysics
@@ -18,6 +28,8 @@ summary: >-
   do not promote that interpretation. It does not say agential realism is
   inconsistent with quantum mechanics; that is [THEORY-1091](THEORY-1091.md), a separate
   and weaker argument.
+corroborates:
+- CLAIM-477
 ---
 <!-- inactive-ok-file: THEORY-1091 — Proposed; the neighbour cited as open -->
 

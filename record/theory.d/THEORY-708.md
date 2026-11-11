@@ -4,12 +4,24 @@ status: Active
 formerly:
 - THEORY-tmpim3f9
 title: "The I_min redundancy credits two independent sources with shared information whenever each reduces surprise about the same target outcomes, so it gives two independent bits copied into the target 1 bit of redundancy; a bivariate redundancy built from reverse information projections, each source's information less what is lost when its posteriors are replaced by mixtures of the other's, satisfies symmetry, self-redundancy, monotonicity and the identity property, gives a nonnegative decomposition, and agrees with I_min on XOR, AND and their compositions but can reverse the state-independent/state-dependent split of a transfer entropy"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-17'
   note: >-
     Connections: Griffith's view, now held (THEORY-716, THEORY-715), and Rauh et al.'s three-source impossibility (THEORY-713).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-343, whose text cites it
+    for I_min failing identity and for "I_red and Bertschinger et al.'s
+    measure are bivariate and do not reach three parts". bears_on
+    QUESTION-223, which asks for "a system whose redundancy is fixed by
+    mechanism ... (a shared bit copied to every source, say)" on which
+    I_ccs and "a rival with non-negative atoms" disagree: this reading
+    holds the copy example, "mechanistic redundancy" and I_red, a rival
+    with nonnegative atoms. No other change.
 tags:
 - information-theory
 - complex-systems
@@ -22,6 +34,10 @@ summary: >-
   every Table I value and both transfer-entropy examples were recomputed.
   The identity axiom and "mechanistic redundancy" are positions, not
   results, and the measure is bivariate only.
+corroborates:
+- CLAIM-343
+bears_on:
+- QUESTION-223
 ---
 
 # THEORY-708: The I_min redundancy credits two independent sources with shared information whenever each reduces surprise about the same target outcomes, so it gives two independent bits copied into the target 1 bit of redundancy; a bivariate redundancy built from reverse information projections, each source's information less what is lost when its posteriors are replaced by mixtures of the other's, satisfies symmetry, self-redundancy, monotonicity and the identity property, gives a nonnegative decomposition, and agrees with I_min on XOR, AND and their compositions but can reverse the state-independent/state-dependent split of a transfer entropy

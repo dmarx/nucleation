@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpsuto2
 title: 'On a finite augmentation space, over unconstrained functions of the two views, the spectral contrastive and NT-Logistic losses are both minimized at the positive-pair density ratio'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -17,6 +17,16 @@ history:
     entry Proposed for the InfoNCE/NT-Xent minimizer alone. This THEORY
     holds the confirmed half; THEORY-001 keeps the three-way statement and
     extends this one. Both derivations checked again for the split.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-052, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question lists
+    THEORY-001: three losses "share one population optimum", so "the
+    candidate signature does not depend on the objective used". This
+    reading holds that optimum for the spectral and NT-Logistic losses,
+    the part of THEORY-001 that is settled; InfoNCE stays THEORY-001's
+    open part. No other change.
 tags:
 - representation-learning
 - information-theory
@@ -32,6 +42,8 @@ summary: >-
   negative classes by the log-odds log K⁺, so its exponentiated score is
   K⁺. Population optima over unconstrained functions only; not what an
   encoder reaches, and not InfoNCE, which is [THEORY-001](THEORY-001.md)'s open part.
+bears_on:
+- QUESTION-052
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the three-way account this half was split from and that extends it, cited as open -->
 

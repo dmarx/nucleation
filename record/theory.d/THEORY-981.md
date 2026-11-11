@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpdxhxm
 title: 'When a data distribution is unchanged by a group of orthogonal transformations under which a network is equivariant, the weights fixed by that group form a subspace that population gradient descent never leaves; for attention-only transformers on block-list inductive tasks, with fixed orthogonal write maps, Musat, Pimentel, Zucchet and Hofmann compute this subspace as the span of a few elementary token and position actions composed through the heads, and an elementwise optimizer such as sign descent keeps it only when those actions are aligned with the parameter coordinates'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -17,6 +17,23 @@ history:
     computation, followed in its proof and not independently re-derived.
     The optimizer clause is the record's, checked numerically; the paper
     does not discuss it.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-234; bears_on QUESTION-193; bears_on QUESTION-275;
+    corroborates CLAIM-367. QUESTION-234's note of 2026-10-26 says this
+    reading and one other "bear on which decomposition into units fixes
+    a mediating direction". QUESTION-193 cites it for its optimizer
+    question: "sign descent keeps the subspace only when those actions
+    are aligned with the parameter coordinates". QUESTION-275 names "the
+    reduced dynamics on the symmetric subspace's coordinates
+    (THEORY-981)" as the baseline to beat. CLAIM-367 cites it as one of
+    "two exact cases of the division this claim draws": "The optimizer
+    decides what structure training keeps (THEORY-981)". The claim rests
+    elsewhere and does not need it, so corroborates (ADR-058). An
+    inactive-ok directive for CLAIM-367 is added. No other change.
 tags:
 - learning-theory
 - mathematics
@@ -32,8 +49,15 @@ summary: >-
   it does not cover minibatch noise beyond expectation, learnable value
   maps (a sketch in the paper), or adaptive optimizers, which keep it only
   when the basis is coordinate-aligned.
+bears_on:
+- QUESTION-234
+- QUESTION-193
+- QUESTION-275
+corroborates:
+- CLAIM-367
 ---
 <!-- inactive-ok-file: THEORY-783 THEORY-802 CLAIM-263 — Proposed; accounts and claims this one is set beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-367 — Proposed; the claim this reading corroborates, nothing here rests on it -->
 
 # THEORY-981: When a data distribution is unchanged by a group of orthogonal transformations under which a network is equivariant, the weights fixed by that group form a subspace that population gradient descent never leaves; for attention-only transformers on block-list inductive tasks, with fixed orthogonal write maps, Musat, Pimentel, Zucchet and Hofmann compute this subspace as the span of a few elementary token and position actions composed through the heads, and an elementwise optimizer such as sign descent keeps it only when those actions are aligned with the parameter coordinates
 

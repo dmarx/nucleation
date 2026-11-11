@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp0fsks
 title: "When Elo ratings generate a win-probability matrix they are the row means of its log-odds; some set of Elo ratings reproduces a win-probability matrix exactly when its log-odds have no cyclic component, batch Elo otherwise matches only the row sums, and adding a copy of one agent shifts the batch Elo ratings of the others"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -30,6 +30,20 @@ history:
     or by a batch Elo fixed point that does not match the observed row
     sums. The title is cardinal and says nothing about whether the wins
     cycle; an ordinal result neither promotes nor refutes it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". This reading, from the same paper as THEORY-946, is
+    evidence on the first and third failures for the commonest scale:
+    Elo ratings reproduce a win-probability matrix only when its
+    log-odds have no cyclic component, and adding a copy of one agent
+    shifts the others' batch ratings. No other change.
 tags:
 - game-theory
 - mathematics
@@ -46,6 +60,8 @@ summary: >-
   no predictive power in rock-paper-scissors, and duplicating an agent
   moves the ratings of agents that beat or lose to it. Cardinal
   throughout.
+bears_on:
+- QUESTION-271
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 

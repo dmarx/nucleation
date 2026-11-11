@@ -4,7 +4,22 @@ status: Active
 formerly:
 - THEORY-tmpkovi2
 title: "In a finite causal Bayesian network, a set of nodes is causally independent of another, imposing a third, for every choice of mechanisms exactly when every directed path between them passes through the third; information flow, conditional mutual information computed from interventional instead of observational distributions, vanishes under causal independence, and it can differ from transfer entropy and conditional mutual information in either direction"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds corroborates
+    CLAIM-335. CLAIM-335 holds that "Transfer entropy measures directed
+    predictive improvement, not information flow", and cites this
+    reading for the interventional measure: "intervening on X_{t−1} does
+    change Y_t, so Ay and Polani's interventional flow credits X
+    (THEORY-710)". The reading shows information flow can differ from
+    transfer entropy and conditional mutual information in either
+    direction, which is independent evidence for the claim's title. The
+    claim grounds on THEORY-707, THEORY-712, THEORY-702 and THEORY-705,
+    so corroborates (ADR-058). No other change.
 tags:
 - causality
 - information-theory
@@ -17,6 +32,8 @@ summary: >-
   recomputed. Example 6's one bit holds at k = 1 and fails for k ≥ 2 as
   stated. The measure needs the mechanisms, and estimation and
   identification are not addressed.
+corroborates:
+- CLAIM-335
 ---
 
 # THEORY-710: In a finite causal Bayesian network, a set of nodes is causally independent of another, imposing a third, for every choice of mechanisms exactly when every directed path between them passes through the third; information flow, conditional mutual information computed from interventional instead of observational distributions, vanishes under causal independence, and it can differ from transfer entropy and conditional mutual information in either direction

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpvs18m
 title: 'On ten corpora simulated from three-level hierarchical LDA itself (100 documents of 250 words, a vocabulary of 100, sparse topics with η = 0.005, γ = 1), the highest-probability state of the collapsed Gibbs sampler recovered the generating tree exactly in eight; in one of the other two a wrong tree had higher posterior probability than the true one'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -13,6 +13,16 @@ history:
     more than §6.1 measured, the reading was in full, and nothing in the
     record contradicts it. The paper's own caveat on identifiability is
     kept in the body.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (probability and
+    information), ADR-091. corroborates CLAIM-135, whose note of
+    2026-10-26 cites it: hLDA "has no identifiability result. Its one
+    check is recovery of trees from data simulated under its own prior
+    (eight of ten)"; a posterior that prefers a wrong tree is
+    reconstruction without identification, which the claim separates.
+    The claim does not need it. No other change.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -26,6 +36,8 @@ summary: >-
   tree is identified in general, or that a tree found in real data was
   there to be found. One failure is a posterior that prefers the wrong
   tree, which no better sampler would fix.
+corroborates:
+- CLAIM-135
 ---
 
 # THEORY-1010: On ten corpora simulated from three-level hierarchical LDA itself (100 documents of 250 words, a vocabulary of 100, sparse topics with η = 0.005, γ = 1), the highest-probability state of the collapsed Gibbs sampler recovered the generating tree exactly in eight; in one of the other two a wrong tree had higher posterior probability than the true one

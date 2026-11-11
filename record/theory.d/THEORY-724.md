@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp8dvpa
 title: 'For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -20,6 +20,19 @@ history:
     stable-at-every-instant case, which the paper asserts without showing,
     is CLAIM-376, the record's own construction. THEORY-325 keeps
     the stochastic half and extends this one.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-281 and corroborates CLAIM-376, at the reading
+    review of 2026-11-11 (by topic, mathematics; ADR-091). The
+    question names it as evidence: "A transient can leave a regime
+    whose every eigenvalue is stable. Non-normal growth does so
+    (THEORY-724; Trefethen et al., LIT-932, read)." The claim proves
+    the case this reading's source asserts: its summary, "The case
+    THEORY-724's source asserts and does not show", and its body, "It
+    inherits A(t)'s non-normality, as THEORY-724's bound requires."
+    The claim grounds on LIT-929 and does not need the reading, so
+    corroborates. No other change.
 tags:
 - mathematics
 - complex-systems
@@ -35,6 +48,10 @@ summary: >-
   instant has a negative exponent. A switched undamped oscillator, neutral
   at every instant, has a positive exponent. The stochastic genericity
   results are [THEORY-325](THEORY-325.md)'s, still Proposed.
+bears_on:
+- QUESTION-281
+corroborates:
+- CLAIM-376
 ---
 <!-- inactive-ok-file: THEORY-325 — Proposed; the stochastic account this half was split from and that extends it, cited as open -->
 

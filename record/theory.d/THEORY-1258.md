@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpe0idn
 title: "The steady state of Hennick and De Baerdemacker's fractional Fokker–Planck model of SGD is a tempered posterior only within a region of constant effective diffusion; the weights between regions, where accessibility would act, are not derived"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-363. QUESTION-363 names this reading among what the
+    readings found: "Hennick and De Baerdemacker's tempering is a
+    temperature ... The weights between regions, where 'accessibility'
+    would act, are not derived (THEORY-1258)." No other change.
 tags:
 - learning-theory
 - probabilistic-modeling
@@ -22,6 +32,8 @@ summary: >-
   Active: the algebra and the counterexample are elementary and checked.
   It does not say SGD is far from Bayesian across regions, only that the
   paper does not show it is close.
+bears_on:
+- QUESTION-363
 ---
 
 # THEORY-1258: The steady state of Hennick and De Baerdemacker's fractional Fokker–Planck model of SGD is a tempered posterior only within a region of constant effective diffusion; the weights between regions, where accessibility would act, are not derived

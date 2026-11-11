@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpayfgm
 title: 'Individual-Global-Max, that the agents'' individually greedy actions form a greedy joint action, is strictly weaker than additive or monotonic factorisation: every single-state matrix game with a unique optimum satisfies it, yet in 177 of 310 random three-by-three two-agent games value-decomposition and monotonic mixing failed to learn the optimal joint action that an IGM-only method found; a sufficient condition is that the sum of individual values, shifted by a state value, equals the joint value at the greedy profile and bounds it from above elsewhere'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -25,6 +25,21 @@ history:
     random-game experiment with the same methods in which VDN and QMIX
     fail in far fewer games. The title claims nothing about partially
     observable tasks, where IGM's content lies.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (learning-theory,
+    loss-landscapes, causality, game-theory; ADR-091): adds bears_on
+    QUESTION-271. QUESTION-271 asks how an organization can evaluate its
+    processes "when wins among the processes cycle, when no common scale
+    scores them all, when the processes in charge can add, filter or
+    duplicate the tests, and when only the processes heeded are
+    evaluated". On the second failure its text says that factored
+    utilities and monotone value mixing "state, member by member and
+    ordinally, when a member's own ranking agrees with the
+    collective's". This reading gives the weakest such condition,
+    Individual-Global-Max, strictly weaker than the monotone mixing of
+    THEORY-929. No other change.
 tags:
 - game-theory
 - learning-theory
@@ -38,6 +53,8 @@ summary: >-
   rank everything below it differently from the collective. With full
   observability it is nearly empty; its content is whether members acting
   on local histories can each pick their part of the optimum.
+bears_on:
+- QUESTION-271
 ---
 
 # THEORY-933: Individual-Global-Max, that the agents' individually greedy actions form a greedy joint action, is strictly weaker than additive or monotonic factorisation: every single-state matrix game with a unique optimum satisfies it, yet in 177 of 310 random three-by-three two-agent games value-decomposition and monotonic mixing failed to learn the optimal joint action that an IGM-only method found; a sufficient condition is that the sum of individual values, shifted by a state value, equals the joint value at the greedy profile and bounds it from above elsewhere

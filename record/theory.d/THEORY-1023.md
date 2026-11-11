@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpeqz27
 title: 'Attribution patching estimates the effect of patching an activation from a clean run into a corrupted run as the difference between the two activations dotted with the gradient of the metric on the corrupted run, so the estimates for every activation come from two forward passes and one backward pass and add over sub-components; the estimate is exact when the metric is affine in the activation, gives no effect for a nonlinearity in saturation whatever the true change, and through LayerNorm ignores the component of a patch along the vector being normalized'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -15,6 +15,16 @@ history:
     the saturated case and the cost arithmetic were checked numerically
     (the reader's own script). The post's empirical claims about where the
     estimate is reliable in real models are THEORY-1021, Proposed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). The question relies on
+    attribution patching to "make node-level patching cheap enough to
+    run per checkpoint", and warns that "Attribution misses concentrate
+    in queries and keys behind a saturated softmax". This reading holds
+    the estimate's fixed cost and its blindness to a nonlinearity in
+    saturation. No other change.
 tags:
 - representation-learning
 - causality
@@ -28,6 +38,8 @@ summary: >-
   linear and so additive, and its blind spots follow from linearity:
   saturation, interaction between features, and LayerNorm's scale
   invariance.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-1021 — Proposed; the post's empirical account of where the estimate is reliable, cited as open -->
 # THEORY-1023: Attribution patching estimates the effect of patching an activation from a clean run into a corrupted run as the difference between the two activations dotted with the gradient of the metric on the corrupted run, so the estimates for every activation come from two forward passes and one backward pass and add over sub-components; the estimate is exact when the metric is affine in the activation, gives no effect for a nonlinearity in saturation whatever the true change, and through LayerNorm ignores the component of a patch along the vector being normalized

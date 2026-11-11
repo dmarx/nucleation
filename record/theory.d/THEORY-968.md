@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4lqc8
 title: 'In the Mechanistic Interpretability Benchmark''s causal-variable localization baselines on Gemma-2 2B and Llama-3.1 8B, features of the public Gemma Scope and Llama Scope sparse autoencoders, selected by a learned binary mask, never gave a higher mean interchange-intervention accuracy than the same mask over the model''s own hidden dimensions, in all sixteen task–variable cells and by 1 to 14 points, while distributed alignment search, trained against the causal model it is scored on, gave the highest mean in fifteen of them'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -13,6 +13,18 @@ history:
     states the numbers the title uses; the record tabulated the cells. The
     title claims no more than the study measured, so a replication request
     does not hold it back (ADR-047 v3).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275 and QUESTION-234, and corroborates CLAIM-454,
+    at the reading review of 2026-11-11 (by topic:
+    representation-learning, ADR-091). QUESTION-275: "sparse-autoencoder
+    features never beat the model's own neurons at localizing causal
+    variables, and the best method, distributed alignment search, is
+    trained against the causal model it is scored on (THEORY-968)".
+    QUESTION-234 lists it as "A benchmark that scores one alignment at a
+    time". CLAIM-454 cites it among supporting cases, "not a test": "A
+    feature that tracks a variable need not carry it". No other change.
 tags:
 - representation-learning
 - causality
@@ -27,6 +39,11 @@ summary: >-
   under one selection method, with the base reconstruction error carried
   into every intervention, and the best method is supervised by the
   hypothesis it is scored against.
+bears_on:
+- QUESTION-275
+- QUESTION-234
+corroborates:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the claim and account this bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-965 — Proposed; the thesis this account tests, cited as open -->

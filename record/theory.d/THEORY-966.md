@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp1bwxc
 title: 'Greedy edge pruning of the ACDC kind, which removes each edge whose removal changes the output metric by less than a threshold given the edges already removed, keeps only one input of a redundant OR gate, and which input it keeps depends on the order in which edges are visited, so when a model has redundant sufficient paths the circuit it returns is one of several sufficient subgraphs'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -13,6 +13,14 @@ history:
     outcome in a toy (Appendix M); the record re-derived it, including the
     dependence on visiting order, which the paper does not state for the
     toy, and checked both orders numerically (ADR-047 v2).
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Bears on QUESTION-275, at the reading review of 2026-11-11 (by
+    topic: representation-learning, ADR-091). Among the question's
+    cautions for the circuit arm: "a greedy circuit is one of several
+    sufficient subgraphs, and which one is returned depends on the order
+    (THEORY-966, THEORY-970)". No other change.
 tags:
 - representation-learning
 - causality
@@ -26,6 +34,8 @@ summary: >-
   second is then kept; visiting y first keeps x instead. It does not say
   how common redundant paths are in trained models, nor that any other
   method does better: HISP keeps neither input.
+bears_on:
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the wider thesis on several correct explanations, cited as open -->
 
