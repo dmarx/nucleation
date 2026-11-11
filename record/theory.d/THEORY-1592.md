@@ -1,14 +1,10 @@
 ---
 number: 1592
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpcrfd3
-promote_when: >-
-  A reading of the review in full finds it stating the theory and the
-  findings as the title states. Whether intergroup emotions theory is
-  right is not asserted; the primary studies are not held.
 title: 'Smith and Mackie hold that identifying with a group makes it an aspect of the self through self-categorization, so that events are appraised for what they mean to the group and emotions are felt on its behalf, with the emotion shifting with the salient membership and identification moderating it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,12 @@ history:
     Filed from NOTE-1285 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1285,
+    nothing in the record contradicting it.
 tags:
 - social-identity
 - emotion-and-affect

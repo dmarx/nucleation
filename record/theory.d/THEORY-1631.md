@@ -68,3 +68,12 @@ measured it (skimmed, [NOTE-1312](../notes.d/NOTE-1312.md)), is consolation that
 accepting death as final, not a motive to act for the future." The
 reading is that evidence: whatever extension of the self the modes give
 is not believed to carry the person past death.
+
+## Note of 2026-11-11: what holds it back
+
+NOTE-1312 skimmed the thesis. The title's figures come from the
+sections it read, but chapters 2–3, the religiosity scale
+(§§5.3.1–5.3.3), §§6.1.1–6.1.7, most of §§8.2–8.3, the text of
+§§9.1–9.5 and Appendices B–E are unread, and the results chapters
+only partly read could qualify the report. The missing result is a
+reading of those parts in full that finds nothing changing it.

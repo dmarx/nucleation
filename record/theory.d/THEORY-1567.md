@@ -1,16 +1,10 @@
 ---
 number: 1567
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2nd2j
-promote_when: >-
-  A reading of the note in full finds it giving the factorisation, its
-  variants and its place in that framework as the title states; the
-  factorisation is an identity from the definitions. Whether
-  expected-value maximisation, which the note assumes, is the right
-  rule is not asserted.
 title: 'MacAskill, Thomas and Vallinder factor the change in value an event makes through a feature of the world as significance times persistence times contingency, give its marginal, ex ante and alternative forms, and place it as an estimate of the importance factor of the importance, tractability and neglectedness framework'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -18,6 +12,12 @@ history:
     Filed from NOTE-1300 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1300,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - ethics

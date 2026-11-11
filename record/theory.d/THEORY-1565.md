@@ -1,13 +1,10 @@
 ---
 number: 1565
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp1w1y9
-promote_when: >-
-  A reading of the entry in full finds it arguing and reporting as the
-  title states. Whether posthumous harm is real is not asserted.
 title: 'Luper argues that Epicurus''s case that death is nothing to us needs intrinsic hedonism and a narrow view of extrinsic harm, that without them death can harm by depriving one of goods, and reports Pitcher''s preferentialist view that posthumous events harm the living person by thwarting desires held while alive, a view the entry shows contested'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -15,6 +12,12 @@ history:
     Filed from NOTE-1294 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1294,
+    nothing in the record contradicting it.
 tags:
 - ethics
 - personhood

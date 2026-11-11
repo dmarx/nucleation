@@ -1,15 +1,10 @@
 ---
 number: 1573
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp4oawr
-promote_when: >-
-  A reading of the paper in full finds it reporting as the title
-  states. Whether the original effect was a false positive, or its
-  conditions no longer hold, is the authors' open disjunction and is
-  not asserted.
 title: 'Klein and colleagues report that in seventeen labs and 1,550 participants writing about one''s own death did not raise preference for a pro-US over an anti-US essay author (g = 0.07, 95% CI −0.03 to 0.17), whether or not the protocol was designed with the original authors'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +12,12 @@ history:
     Filed from NOTE-1322 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1322,
+    nothing in the record contradicting it.
 tags:
 - motivation
 - social-identity

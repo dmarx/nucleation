@@ -1,15 +1,10 @@
 ---
 number: 1577
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6zxqe
-promote_when: >-
-  A reading of the two lectures in full finds them arguing and reading
-  as the title states. Whether the afterlife conjecture about our
-  reactions is true is not asserted; Scheffler himself grants it is
-  hard to verify.
 title: 'Scheffler argues that the survival of other people after one''s death is a condition of much of what matters to us mattering, and matters to us in its own right, and reads this as our dependence on future people rather than altruism toward them'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +12,12 @@ history:
     Filed from NOTE-1298 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1298,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - motivation

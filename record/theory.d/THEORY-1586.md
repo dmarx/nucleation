@@ -1,22 +1,25 @@
 ---
 number: 1586
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8vjtt
-promote_when: >-
-  A reading of the paper in full finds the construction and its
-  examples as the title states; Proposition 1 and the examples were
-  rechecked in the reading. Whether the approach extends to full
-  discourse representation structures, which the authors expect, is
-  not asserted.
 title: 'Abramsky and Sadrzadeh model a basic discourse representation structure as a section of a presheaf of consistent literals, a choice of anaphoric resolution as a cover and a discourse''s meaning as the gluing, unique when it exists; in their linguistic examples the only obstruction to gluing is inconsistency of literals, which is not contextuality in Abramsky and Brandenburger''s sense'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
   note: >-
     Filed from NOTE-644 (read 2026-10-09), at the read-and-file pass
     of 2026-11-11, which found the work read and no reading filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-644,
+    nothing in the record contradicting it. The title already limits
+    the claim about obstructions to the paper's linguistic examples,
+    so the narrowing of that claim elsewhere in the record does not
+    contradict it.
 tags:
 - linguistics
 - contextuality

@@ -1,15 +1,10 @@
 ---
 number: 1622
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpv7b05
-promote_when: >-
-  A reading of the article in full finds it giving the dates, the
-  cowriter's remark and no production testimony on the decision, as
-  the title states. That the film's line was taken from the video is
-  the author's inference and is not asserted.
 title: 'Siegel''s oral history of the Juggernaut redub dates its making to November 2005 and its posting to 14 February 2006, and relays the film''s cowriter''s remark that the line was a reshoot addition by the director, but gives no production testimony on why the line was added'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -17,6 +12,12 @@ history:
     Filed from NOTE-1272 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1272,
+    nothing in the record contradicting it.
 tags:
 - social-science
 date: '2026-11-11'

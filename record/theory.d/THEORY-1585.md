@@ -1,14 +1,10 @@
 ---
 number: 1585
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8p65p
-promote_when: >-
-  A reading of the paper in full finds it holding and reporting as the
-  title states. The studies it summarizes are reported elsewhere, and
-  their results are not asserted beyond the authors' report of them.
 title: 'Kruse and Schmitt, following McAdams, hold that generativity springs from cultural demand and an inner desire that includes a need for symbolic immortality, that its motives can be selfish or altruistic so that it is not altruism, and report, without statistics, that it predicted life satisfaction in older adults and rose in intergenerational projects'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,12 @@ history:
     Filed from NOTE-1261 (read 2026-10-29), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1261,
+    nothing in the record contradicting it.
 tags:
 - future-generations
 - motivation

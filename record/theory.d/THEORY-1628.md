@@ -1,14 +1,10 @@
 ---
 number: 1628
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpy399d
-promote_when: >-
-  A reading of the passage on p. 1366 in full finds the demand as the
-  title states. Whether an inquiry needs the record of its own
-  development to know its object is not asserted.
 title: 'Bencherki, Brummans and Vézy hold, quoting Simondon, that research into individuation consists in following the being in its genesis and accomplishing the genesis of thought with the genesis of the object, so that researchers individuate into what they study, and they leave open what methods would do this'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-11'
@@ -16,6 +12,12 @@ history:
     Filed from NOTE-1484 (read 2026-10-31), at the read-and-file
     pass of 2026-11-11, which found the work read and no reading
     filed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): ADR-065 §2, a reported title read in full in NOTE-1484,
+    nothing in the record contradicting it.
 tags:
 - individuation
 - philosophy-of-science
