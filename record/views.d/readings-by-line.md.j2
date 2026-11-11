@@ -8,9 +8,19 @@
 {%- set retired = ["Superseded", "Rejected"] -%}
 {%- set vocab = vocabulary("lines") -%}
 {%- set acc = namespace(rows=[], unused=[]) -%}
+{#- Who grounds on a reading, or takes a case from it, is held on the user's
+    side (`grounds`, `reported_in`); the converse fields are not stored, so
+    the users are gathered once from the users' own fields. -#}
+{%- set via = {} -%}
+{%- for d in docs("CLAIM") + docs("ARG") -%}
+  {%- for x in d.grounds -%}{%- set k = x.code if x.code is defined else x -%}{%- if k.startswith("THEORY-") -%}{%- set _ = via.setdefault(k, []).append(d) -%}{%- endif -%}{%- endfor -%}
+{%- endfor -%}
+{%- for d in docs("CASE") -%}
+  {%- for x in d.reported_in -%}{%- set k = x.code if x.code is defined else x -%}{%- if k.startswith("THEORY-") -%}{%- set _ = via.setdefault(k, []).append(d) -%}{%- endif -%}{%- endfor -%}
+{%- endfor -%}
 {%- for t in docs("THEORY", in_force=True) -%}
   {%- set r = namespace(lines=[], users=[]) -%}
-  {%- for x in t.supports + t.corroborates + t.answers + t.bears_on + t.reports -%}
+  {%- for x in via.get(t.code, []) + t.corroborates + t.answers + t.bears_on -%}
     {%- set d = x if x.code is defined else doc(x) -%}
     {%- if d.status not in retired and d.code not in r.users -%}
       {%- set r.users = r.users + [d.code] -%}
