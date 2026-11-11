@@ -25,7 +25,7 @@ promote_when: >-
   restating the regress cannot settle it: the record already holds three
   and they disagree on who first stated it.
 title: 'A higher-order attitude cannot make a motive the agent''s own by its order alone: any attitude specified without presupposing the agent''s participation can itself be disowned, and any specified to include it presupposes what it was meant to explain'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-03'
@@ -70,6 +70,14 @@ history:
     bounds CLAIM-281: the claim's text says "It does not say the order
     of a grant settles anything. THEORY-029's regress stands.". First
     application of the bounds relation (ADR-tmppj46c). No other change.
+- version: 7
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-285: the claim's text says "The idea of endorsing an
+    operator's role and not its conclusions ... is not filed.
+    THEORY-029's regress is a warning against expecting authority to
+    come from the order of an endorsement alone". First application of
+    the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - agency
 - metaphysics
@@ -97,7 +105,9 @@ rivals:
 - THEORY-120
 bounds:
 - CLAIM-281
+- CLAIM-285
 ---
+<!-- inactive-ok-file: CLAIM-285 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account this one argues against, declared its rival -->
 <!-- inactive-ok-file: THEORY-056 THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->

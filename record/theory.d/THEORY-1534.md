@@ -13,7 +13,15 @@ promote_when: >-
   cannot settle it: further secondary readings that quote the same few
   pages of the 1989 volume.
 title: 'In Simondon''s ontology, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-525: the claim's text says "That the readings are
+    right. They are conceptual, and whether Simondon holds their account
+    is THEORY-1534's question, Proposed". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - individuation
 - metaphysics
@@ -29,6 +37,8 @@ summary: >-
   [ADR-047](../decisions.d/ADR-047.md), kind 1). Iliadis (2013) and Bencherki & Iliadis (2021) assert
   that this is Simondon's view. Whether it is turns on his own text,
   which the record holds only as Unavailable ([LIT-1648](../literature.d/LIT-1648.md), [LIT-1900](../literature.d/LIT-1900.md)).
+bounds:
+- CLAIM-525
 ---
 <!-- inactive-ok-file: LIT-1648 LIT-1900 — Unavailable; Simondon's own texts, whose reading would settle this -->
 

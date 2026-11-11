@@ -14,7 +14,15 @@ promote_when: >-
   simulations, or more case histories of firms caught in competency traps,
   cannot settle it.
 title: 'Because the returns to exploitation are surer, nearer and closer to the decision than the returns to exploration, organizational learning refines exploitation faster and tends to become self-destructive in the long run; and where an organizational code learns only from members who deviate from it, slow socialization, a mix of slow and fast learners and moderate turnover raise what the organization knows, while without turnover a changing environment degrades its knowledge to chance'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-279: the claim's text says "It does not say dissent
+    improves an organization. ... Exploitation crowding out exploration
+    is March's reading (THEORY-142)". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - social-science
 - epistemology
@@ -31,6 +39,8 @@ summary: >-
   stylized model, and the trade-off is argued, not measured.
 corroborates:
 - CLAIM-079
+bounds:
+- CLAIM-279
 ---
 <!-- inactive-ok-file: THEORY-148 — Proposed; transient diversity, named for a parallel -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; the Zollman effect, named for a parallel -->

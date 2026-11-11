@@ -26,7 +26,7 @@ promote_when: >-
   (reasons-responsiveness, hierarchical desires), not a named historical
   one.
 title: 'A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record''s readings is shown to escape'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-03'
@@ -63,6 +63,13 @@ history:
     sources make it, is split off as THEORY-1118, Active, on
     THEORY-1110's pattern, and CLAIM-364, which uses only that half, now
     grounds on it. The claim and status are unchanged.
+- version: 6
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-364: the claim's text says "That history settles it.
+    THEORY-040 notes that no historical condition in the record is shown
+    to escape its own objection". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - agency
 - ethics
@@ -86,7 +93,10 @@ summary: >-
   choice is wrong.
 bears_on:
 - QUESTION-071
+bounds:
+- CLAIM-364
 ---
+<!-- inactive-ok-file: CLAIM-364 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; the SDT historical account named in Connections, nothing here rests on it -->

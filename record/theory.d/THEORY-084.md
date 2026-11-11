@@ -22,7 +22,7 @@ promote_when: >-
   Spectra of classifiers trained with cross-entropy (LIT-613) cannot
   settle it, since that is a different matrix in a different regime.
 title: "Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -41,6 +41,14 @@ history:
     record's own linear algebra, so a CLAIM (ADR-032). This THEORY cites it
     for Step 1 and keeps the block inheritance and the threshold claim,
     whose promote_when is unchanged. The status stays Proposed.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-377: the claim's text says "What the spectrum looks
+    like. That the lazy-regime spectrum of a ReLU network on spherical
+    data inherits the NTK's harmonic-degree blocks, and where a
+    threshold on it is well posed, is THEORY-084's, Proposed". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - information-geometry
 - learning-theory
@@ -70,6 +78,8 @@ presupposes:
 - THEORY-086
 corroborates:
 - CLAIM-164
+bounds:
+- CLAIM-377
 ---
 <!-- inactive-ok-file: THEORY-078 THEORY-080 — Proposed; THEORY-019 is extended and this account is no firmer than it, the others are named in Connections -->
 

@@ -12,7 +12,7 @@ promote_when: >-
   Poole et al. cite it from Ma & Collins; a close reading of either original
   proof, with its conditions on the negatives, would settle it.
 title: 'On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -46,6 +46,12 @@ history:
     and keeps the three-way statement, which waits on the InfoNCE/NT-Xent
     minimizer as before. The promote_when and the claim are unchanged;
     the status stays Proposed.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-370: the claim's text says "That InfoNCE features are
+    eigenfunctions. InfoNCE fits log K⁺, not K⁺ (THEORY-001)". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - representation-learning
 - information-theory
@@ -68,6 +74,8 @@ extends:
 - THEORY-719
 bears_on:
 - QUESTION-052
+bounds:
+- CLAIM-370
 ---
 
 # THEORY-001: On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio

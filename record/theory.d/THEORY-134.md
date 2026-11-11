@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4t87t
 title: 'Whether a system can persist is a question about a constraint set fixed independently of its dynamics: a set is viable when from each of its states some evolution can stay in it, and when it is not, its viability kernel is the largest part that is, from the rest of which every evolution leaves in finite time'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-05'
@@ -15,6 +15,13 @@ history:
   note: >-
     Tagged control-theory beside the existing tags (ADR-066). Nothing
     else changes.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-571: the claim's text says "That sublevel-set inclusion
+    is viability. Mirth et al.'s sublevel sets are caps on a scalar, not
+    viability kernels (THEORY-134)". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - mathematics
 - complex-systems
@@ -30,6 +37,8 @@ summary: >-
   viability kernel is the largest viable subset of K; from outside it
   every evolution exits K. The notes do not compare viability with
   stability; that contrast is a further step.
+bounds:
+- CLAIM-571
 ---
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for a parallel -->
 <!-- inactive-ok-file: LIT-738 — Unavailable, unread; Aubin's monograph, named as the general theory the notes restrict -->

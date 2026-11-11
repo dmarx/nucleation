@@ -4,12 +4,20 @@ status: Active
 formerly:
 - THEORY-tmpkusod
 title: 'The information bottleneck is successively refinable between every pair of budgets when Y is a function of X, by nested erasures of Y, and when X and Y are both binary, where the optimum at each nonzero budget is unique up to merging and relabelling and its two decoder points are the ends of an interval of the source simplex that only widens as the budget grows'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
   note: >-
     Filed Active from NOTE-981. The function case is the paper's Proposition 3 (Appendix B.4) and the binary case its Proposition 5 (Appendix B.7). The paper proves the binary case by citing Witsenhausen and Wyner for the shape of the region where F_β exceeds its convex envelope (its Lemma A3). The re-derivation below replaces that citation with a direct argument, that the curvature of F_β changes sign only through a quadratic with positive leading coefficient. With the paper's Lemma A2, re-derived here, every step is re-derived, which meets the condition for Active under ADR-047 v2. The paper's third case, jointly Gaussian variables (Proposition 2), rests on Kline and Palmer's semigroup result and is not claimed.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-392: the claim's text says "Not that bottlenecks
+    generally fail to nest. Charvin et al. prove nesting at every pair
+    of budgets when Y = f(X), and when X and Y are both binary
+    (THEORY-757)". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - information-theory
 - mathematics
@@ -20,6 +28,8 @@ answers:
 - QUESTION-291
 summary: >-
   Charvin, Catenacci Volpi and Polani (2023), [LIT-1258](../literature.d/LIT-1258.md), read in [NOTE-981](../notes.d/NOTE-981.md). These are the two finite cases in which nested information-bottleneck optima are guaranteed at every pair of budgets. Neither reaches the record's four-state source, whose Y is not a function of X and whose X has three effective states. [NOTE-981](../notes.d/NOTE-981.md) finds that source not refinable. So binary Y alone does not guarantee nesting. The function case is the degenerate one, where the bottleneck is just a noisy copy of Y.
+bounds:
+- CLAIM-392
 ---
 # THEORY-757: The information bottleneck is successively refinable between every pair of budgets when Y is a function of X, by nested erasures of Y, and when X and Y are both binary, where the optimum at each nonzero budget is unique up to merging and relabelling and its two decoder points are the ends of an interval of the source simplex that only widens as the budget grows
 

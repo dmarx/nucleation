@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp07t7w
 title: 'On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image from a stable period is predicted up to hours ahead, on held-out images and on the 2023 edition, by a combination of many image-level series far better than by any generic slowing-down indicator; the series the predictor relies on include low past restoring of attacked pixels as well as attack outrunning restoration, and about a quarter of overthrows give no warning at the 20-minute range'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -39,6 +39,13 @@ history:
     would catch it. ... Why such signals are weak evidence anyway is
     THEORY-136's and THEORY-214's point". First application of the bounds
     relation (ADR-tmppj46c). No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-626: the claim's text says "That early-warning signals
+    can tell the three apart. Why such signals are weak evidence is
+    THEORY-136's and THEORY-214's point". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - complex-systems
 - social-science
@@ -62,7 +69,9 @@ bears_on:
 - QUESTION-320
 bounds:
 - CLAIM-521
+- CLAIM-626
 ---
+<!-- inactive-ok-file: CLAIM-626 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and accounts, cited as what this bears on, nothing here rests on their being settled -->
 
 # THEORY-214: On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image from a stable period is predicted up to hours ahead, on held-out images and on the 2023 edition, by a combination of many image-level series far better than by any generic slowing-down indicator; the series the predictor relies on include low past restoring of attacked pixels as well as attack outrunning restoration, and about a quarter of overthrows give no warning at the 20-minute range
