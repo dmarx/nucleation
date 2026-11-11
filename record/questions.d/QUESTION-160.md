@@ -4,12 +4,27 @@ status: Open
 formerly:
 - QUESTION-tmpeikcb
 title: "Does the heat kernel of a metric tree satisfy the Hellinger Hölder and separation bounds of the multiscale hyperbolic diffusion theorem, with which Hölder exponent, and when does the diffusion operator of sampled data approximate a latent tree's heat kernel?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    refines gains QUESTION-025, and line gains pragmatic-transport,
+    that question's first line (ADR-085), at the review of line fields
+    the curation entry of 2026-11-10 asked for. The body says "It
+    bears on QUESTION-025. Whether hierarchy shows in co-occurrence
+    statistics through a multiscale distance needs the second bridge",
+    and QUESTION-025 names the hyperbolic diffusion embedding as "one
+    way to make the measurement asked for above". QUESTION-162, the
+    probe question beside this one, refines QUESTION-025 for the same
+    reason. learned-structure stays first. No other change.
 tags:
 - representation-learning
 - mathematics
 date: '2026-10-19'
-line: learned-structure
+line:
+- learned-structure
+- pragmatic-transport
 summary: >-
   The promotion condition formerly on [THEORY-478](../theory.d/THEORY-478.md), moved here unchanged
   when [THEORY-478](../theory.d/THEORY-478.md) was narrowed on 2026-10-19 to the conditional
@@ -17,6 +32,8 @@ summary: >-
   α < θ/β. Whether a metric tree's heat kernel meets those bounds, with
   which θ, and whether sampled data yield such a kernel, is not settled
   by anything the record holds.
+refines:
+- QUESTION-025
 ---
 
 # QUESTION-160: Does the heat kernel of a metric tree satisfy the Hellinger Hölder and separation bounds of the multiscale hyperbolic diffusion theorem, with which Hölder exponent, and when does the diffusion operator of sampled data approximate a latent tree's heat kernel?

@@ -4,7 +4,20 @@ status: Deferred
 formerly:
 - CLAIM-tmp4o38w
 title: 'An organized agent''s will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    A corrective note of 2026-11-11 added, from the curation entry of
+    2026-11-10. The note of 2026-10-18 says the manipulation defeater
+    "is not met by either" CLAIM-362 or CLAIM-364. Read against the
+    defeated_if, that would say the claim is not defeated; what was
+    meant, and what CLAIM-364 says, is that the manipulation objection
+    is still outstanding and neither answers it. That note also gives
+    CLAIM-364 the verdict on low supervisory cost, which moved to
+    ARG-030 on 2026-10-28. The note of 2026-10-18 is kept as written.
+    The status stays Deferred. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,7 +46,6 @@ complements:
 - CLAIM-362
 ---
 <!-- inactive-ok-file: CLAIM-096 CLAIM-104 TERM-006 TERM-012 — Deferred; set aside, and cited to say what was set aside with it -->
-
 # CLAIM-016: An organized agent's will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization
 
 ## The claim
@@ -108,3 +120,18 @@ times, and cited the claim only at the end.
   by either.
 
 The status stays Deferred. Reopening the line is the owner's call.
+
+## Note of 2026-11-11: a correction to the note of 2026-10-18
+
+The last item of the note of 2026-10-18 says that the manipulation
+defeater this claim states "is not met by either" CLAIM-362 or CLAIM-364.
+Read against the claim's `defeated_if`, "not met" would mean the claim is
+not defeated. That was not the point. The point, as CLAIM-364 puts it, is
+that "CLAIM-016's manipulation defeater is still outstanding": neither
+entry answers the manipulation objection, so the case that would defeat
+this claim is still open. The same item gives CLAIM-364 the verdict that
+low supervisory cost cannot show non-domination. Since CLAIM-364's split
+of 2026-10-28 that verdict is ARG-030's, which CLAIM-364 undercuts. The
+note of 2026-10-18 is kept as written.
+
+The status stays Deferred.
