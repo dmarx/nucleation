@@ -24,7 +24,7 @@ history:
     and the paper sharpens it ("Sharpened by Abramsky and Sadrzadeh"):
     a parallel the claim does not stand on, so the reading corroborates
     it. corroborated_by is derived, so the edge belongs on THEORY-1586 as
-    corroborates: CLAIM-044, which this change does not write. The same
+    corroborates: CLAIM-044, which this change writes. The same
     section said "A failure to glue is inconsistency"; NOTE-644's key
     results give a shared-vocabulary example that fails without it, so
     the sentence is narrowed to the paper's linguistic examples. The

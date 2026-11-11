@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp8vjtt
 title: 'Abramsky and Sadrzadeh model a basic discourse representation structure as a section of a presheaf of consistent literals, a choice of anaphoric resolution as a cover and a discourse''s meaning as the gluing, unique when it exists; in their linguistic examples the only obstruction to gluing is inconsistency of literals, which is not contextuality in Abramsky and Brandenburger''s sense'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-11'
@@ -20,6 +20,14 @@ history:
     the claim about obstructions to the paper's linguistic examples,
     so the narrowing of that claim elsewhere in the record does not
     contradict it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    corroborates CLAIM-044: its text says "Sharpened by Abramsky and
+    Sadrzadeh". Defect sweep of 2026-11-11, at the status review's
+    ruling (the owner delegated these rulings; ADR-058): the claim's LIT
+    ground on this work is moved to corroboration by this reading, which
+    the claim does not stand on. The quotation of QUESTION-026 in "What it bears on" now gives the question's wording as the same sweep narrowed it. No other change.
 tags:
 - linguistics
 - contextuality
@@ -37,6 +45,7 @@ bears_on:
 - QUESTION-026
 corroborates:
 - CLAIM-088
+- CLAIM-044
 ---
 
 # THEORY-1586: Abramsky and Sadrzadeh model a basic discourse representation structure as a section of a presheaf of consistent literals, a choice of anaphoric resolution as a cover and a discourse's meaning as the gluing, unique when it exists; in their linguistic examples the only obstruction to gluing is inconsistency of literals, which is not contextuality in Abramsky and Brandenburger's sense
@@ -69,8 +78,10 @@ gluing condition checks it. Ambiguity is a set of admissible covers.
 semantics and the record's transport: "The meeting point already exists.
 Abramsky and Sadrzadeh's Semantic Unification ([LIT-841](../literature.d/LIT-841.md), [NOTE-644](../notes.d/NOTE-644.md)) builds
 a presheaf of discourse representations and glues sentence meanings over
-a cover of anaphoric resolutions. ... Its obstruction to gluing is
-inconsistency of literals, not contextuality, and it has no transport."
+a cover of anaphoric resolutions. ... In its linguistic examples the
+obstruction to gluing is inconsistency of literals; its one
+shared-vocabulary example fails by over-determining a local section.
+Neither is contextuality, and it has no transport."
 The reading is that premise, and it does not answer the question, which
 asks about transport.
 

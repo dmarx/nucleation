@@ -60,8 +60,8 @@ history:
     "ground the premise, not the conclusion" while denying merging. The
     claim does not stand on either, so each reading corroborates it.
     corroborated_by is derived, so the edges belong on THEORY-1581 and
-    THEORY-1590 as corroborates: CLAIM-491, which this change does not
-    write. The body keeps both citations. The claim is unchanged.
+    THEORY-1590 as corroborates: CLAIM-491, which this change
+    writes. The body keeps both citations. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
