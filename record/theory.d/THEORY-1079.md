@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpksbqt
 title: 'An open system can tip away from an attractor that exists, keeps its stability and keeps its basin at every frozen value of its parameter, when the attractor moves faster than the system can track it; with steady drift what bifurcates is the ability to track, in a co-moving frame, not the attractor, and the critical rate depends on the relaxation rate, the distance to the tipping threshold and the starting state'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-281 added. The question's
+    note of 2026-10-27 (later) cites it: "Ashwin et al. 2012 corrects the
+    question's gloss of rate-induced tipping (NOTE-1215; THEORY-1079)". No
+    other change.
 tags:
 - complex-systems
 - mathematics
@@ -19,6 +28,8 @@ summary: >-
   system whose equilibrium is unique and globally stable. It does not say
   that a system that tips is lost for good, that the threshold is a
   basin boundary, or that any real system has tipped this way.
+bears_on:
+- QUESTION-281
 ---
 
 # THEORY-1079: An open system can tip away from an attractor that exists, keeps its stability and keeps its basin at every frozen value of its parameter, when the attractor moves faster than the system can track it; with steady drift what bifurcates is the ability to track, in a co-moving frame, not the attractor, and the critical rate depends on the relaxation rate, the distance to the tipping threshold and the starting state

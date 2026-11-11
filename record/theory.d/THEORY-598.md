@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpodgn4
 title: "Group interactions that enter a dynamical model linearly, as in diffusion on simplices or random walks on hypergraphs with edge-independent vertex weights, reduce to pairwise dynamics on a reweighted graph; the abrupt transitions, bistability and stabilised coexistence reported for higher-order systems come from group terms that enter nonlinearly, and whether the representation is a hypergraph or a simplicial complex is itself a modelling claim that changes the outcome"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-133 added, as a caution
+    for the question's test: "Higher-order structure should be checked,
+    not assumed ... some apparent higher-order effects reduce to pairwise
+    ones (THEORY-598)." No other change.
 tags:
 - network-science
 - complex-systems
@@ -21,6 +30,8 @@ summary: >-
   claim more ("no doubts", "profoundly change"), citing linear cases among
   the examples. The condition is the record's reading of what its body
   shows; edge-dependent vertex weights also escape the reduction.
+bears_on:
+- QUESTION-133
 ---
 
 # THEORY-598: Group interactions that enter a dynamical model linearly, as in diffusion on simplices or random walks on hypergraphs with edge-independent vertex weights, reduce to pairwise dynamics on a reweighted graph; the abrupt transitions, bistability and stabilised coexistence reported for higher-order systems come from group terms that enter nonlinearly, and whether the representation is a hypergraph or a simplicial complex is itself a modelling claim that changes the outcome

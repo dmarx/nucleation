@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp2uvxp
 title: 'For an uncertain linear program, a decision fixed before the data are revealed must satisfy every realization at once (the robust counterpart, ∃ solution ∀ data), while a decision that may adjust after them need only have a feasible adjustment for each (the adjustable robust counterpart, ∀ data ∃ adjustment); the second is never more conservative and can be feasible where the first is not, the two coincide when each constraint''s uncertainty is its own, and decisions may be restricted between them by what part of the data they read or by the form of the rule'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-537 added. The claim's
+    note of 2026-11-03: "Conditions I and II are exactly Ben-Tal et al.'s
+    adjustable and ordinary robust counterparts (NOTE-1503)"; the claim
+    derives them itself. Its LIT-1975 ground is left for a defect sweep
+    (ADR-058). No other change.
 tags:
 - operations-research
 - mathematics
@@ -18,6 +28,8 @@ summary: >-
   results with their sizes. It does not say the information-basis case is
   solved in general (the paper asserts it extends), nor that affine rules
   lose nothing.
+corroborates:
+- CLAIM-537
 ---
 
 # THEORY-1303: For an uncertain linear program, a decision fixed before the data are revealed must satisfy every realization at once (the robust counterpart, ∃ solution ∀ data), while a decision that may adjust after them need only have a feasible adjustment for each (the adjustable robust counterpart, ∀ data ∃ adjustment); the second is never more conservative and can be feasible where the first is not, the two coincide when each constraint's uncertainty is its own, and decisions may be restricted between them by what part of the data they read or by the form of the rule

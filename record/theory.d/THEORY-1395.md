@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmphj1kw
 title: 'Kaelbling, Littman and Cassandra restate, citing Smallwood and Sondik among others, that for a finite-state Markov process controlled through noisy observations the probability distribution over states is a sufficient statistic for control, show that the optimal value with finitely many steps left is the upper surface of finitely many linear functions of that distribution, hence piecewise-linear and convex, and credit Sondik with the first exact finite-horizon algorithm, whose worst case is exponential'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-04'
@@ -32,6 +32,15 @@ history:
     old promote_when: "The original (Smallwood & Sondik 1973) is read and
     states that the state distribution is a sufficient statistic and that
     the finite-horizon optimal value is piecewise-linear and convex in it."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-520 added. The claim's
+    note of 2026-11-04: in a POMDP an information action "is only
+    worthwhile when the value of the information ... exceeds the cost of
+    gaining the information" (NOTE-1563), so "its conditional value of a
+    corrective capacity falls out of a standard model". No other change.
 tags:
 - operations-research
 - control-theory
@@ -48,6 +57,8 @@ summary: >-
   discounting. Active as a report of the neighbour. It does not say that
   the pieces are few: exact solution is exponential in the worst case, and
   the infinite-horizon value may have infinitely many facets.
+corroborates:
+- CLAIM-520
 ---
 <!-- inactive-ok-file: LIT-2038 — Unavailable; the unread original the neighbour cites, cited as open -->
 

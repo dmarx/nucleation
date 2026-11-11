@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpllt85
 title: "Fagin's Algorithm finds the top k of N objects held in m attribute-sorted lists under any monotone combining function, and when the lists' orderings are independent with at least m − 1 of them uniformly random it does so with O(N^((m−1)/m) k^(1/m)) sorted and random accesses with arbitrarily high probability; with dependent orderings the bound can fail"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,16 @@ history:
     for strict combining functions, which the review did not re-derive.
     That lower bound is carried by THEORY-832, Proposed, which
     extends this entry and inherits the promote_when.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-114 added. The question
+    names the work among those pricing search organization: "Fagin, Lotem
+    and Naor (LIT-1115, NOTE-924) price a conjunctive query over
+    feature-sorted lists ...; Fagin 1996 (LIT-1108) is Unavailable"; this
+    reading holds Fagin's Algorithm as LIT-1115 reports it. No other
+    change.
 tags:
 - databases
 - information-retrieval
@@ -35,6 +45,8 @@ summary: >-
   not a uniform distribution of grades. For two lists the bound is
   √(Nk). It does not hold for anti-correlated attributes, where any
   algorithm can need about half the objects.
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: LIT-1108 — Unavailable or unread; the source of the bound, cited as reported by LIT-1115 -->
 <!-- inactive-ok-file: THEORY-832 — Proposed; the lower bound this entry dropped when it was narrowed, open -->

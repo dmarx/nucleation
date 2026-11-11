@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmp7ps0w
 title: 'Flack makes downward causation operational as components tuning their behaviour to their own estimates of aggregate variables they collectively compute: weak (apparent) when at least one component tunes to a variable slower than the behaviour producing it, strong (effective) when the variable is predictive, robust, used nearly universally, agreed on and gaining mutual information with the microscopic behaviour; she speaks of a new level only at the strong form, and regeneration of the variable by its use is not among her criteria'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-327 added. The claim's
+    note of 2026-10-27 reads Flack's statement (NOTE-1216, THEORY-1061) as
+    giving its second stage: "members recognizing and using the variable,
+    is what she calls apparent downward causation"; independent support
+    for that stage, with the claim's own caution that the third stage is
+    not hers. An inactive-ok directive names the Proposed claim. No other change.
 tags:
 - complex-systems
 - causality
@@ -21,7 +32,10 @@ summary: >-
   reproduced here. The sharp edge for the record: what reinforces itself in
   Flack is the convergence of members' estimates, not the variable's
   persistence.
+corroborates:
+- CLAIM-327
 ---
+<!-- inactive-ok-file: CLAIM-327 — Proposed; the claim this reading corroborates, nothing here rests on it -->
 
 # THEORY-1061: Flack makes downward causation operational as components tuning their behaviour to their own estimates of aggregate variables they collectively compute: weak (apparent) when at least one component tunes to a variable slower than the behaviour producing it, strong (effective) when the variable is predictive, robust, used nearly universally, agreed on and gaining mutual information with the microscopic behaviour; she speaks of a new level only at the strong form, and regeneration of the variable by its use is not among her criteria
 

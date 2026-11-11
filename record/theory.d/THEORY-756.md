@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkm2sk
 title: 'The growth rate of thermodynamic depth is the entropy rate of whichever macrostate process it is computed over, so the choice of macrostates sets it anywhere from zero up; among partitions of a stationary process''s past that predict every finite stretch of the future as well as the whole past does, the causal states are the coarsest, so they have the least entropy and the least entropy rate'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -16,6 +16,15 @@ history:
     paper's footnote 2, which makes it vacuous. The entropy-rate step
     replaces the paper's one-step argument, which covers only a Markov
     rival. Both repairs are the record's.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-152 added. The claim's
+    note of 2026-10-20 says "THEORY-756 records that among fully
+    predictive partitions the causal states are the coarsest ... That is
+    this claim's point, one level down"; evidence the claim does not need.
+    No other change.
 tags:
 - complex-systems
 - information-theory
@@ -28,6 +37,8 @@ summary: >-
   Predictive sufficiency, then minimality, fixes them as the causal states.
   The choice is canonical only given the measuring instrument and the
   target, the observed future. The redefined dive is still an entropy rate.
+corroborates:
+- CLAIM-152
 ---
 <!-- inactive-ok-file: THEORY-157 — Proposed; named as the general sufficiency result this is an instance of, nothing here rests on it -->
 # THEORY-756: The growth rate of thermodynamic depth is the entropy rate of whichever macrostate process it is computed over, so the choice of macrostates sets it anywhere from zero up; among partitions of a stationary process's past that predict every finite stretch of the future as well as the whole past does, the causal states are the coarsest, so they have the least entropy and the least entropy rate

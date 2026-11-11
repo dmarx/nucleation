@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmplwy86
 title: "For datalog over a finite input instance annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when one of its derivation trees contains a tuple lying on a cycle of unit rules"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -19,6 +19,14 @@ history:
     derivation trees suffices, and the note gives a four-rule
     counterexample. The paper's own Monomial-Coefficient algorithm already
     uses the corrected condition.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-105 added. The question
+    names it: "Provenance polynomials ... suffice for every revision that
+    re-scores existing inputs in a commutative semiring, for positive
+    queries (THEORY-373, THEORY-380)". No other change.
 tags:
 - databases
 - mathematics
@@ -39,6 +47,8 @@ summary: >-
   finiteness and compute coefficients. Proofs are not given. Plain N and
   N[X] are excluded, the provenance can be an infinite object held only as
   equations, and negation remains outside.
+bears_on:
+- QUESTION-105
 ---
 
 # THEORY-380: For datalog over a finite input instance annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when one of its derivation trees contains a tuple lying on a cycle of unit rules

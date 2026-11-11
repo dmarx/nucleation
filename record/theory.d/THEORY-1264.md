@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpjzj2n
 title: 'Far from equilibrium, the weak-noise escape rate from an attractor goes as the exponential of minus system size times a barrier in the quasi-potential, not in any free energy, and that barrier is bracketed by thermodynamics: it is at most the entropy produced in relaxing from the saddle into the attractor and at least minus the entropy produced along the most likely escape path; the two bounds coincide at detailed balance and separate by twice the dissipation of the probability circulation, so far from equilibrium they can be very loose'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-071 added. The question's
+    path test cites this work: "the most likely escape follows the
+    time-reversal of the relaxation path from the saddle
+    (Freidlin–Wentzell; LIT-1881 ...)"; this reading says where that path
+    holds and how far escape departs from it away from detailed balance.
+    No other change.
 tags:
 - thermodynamics
 - mathematics
@@ -21,6 +32,8 @@ summary: >-
   linear nonequilibrium diffusion. It does not say that the more
   dissipative state lives longer, and in the one worked
   far-from-equilibrium chemical example the bracket is very loose.
+bears_on:
+- QUESTION-071
 ---
 
 # THEORY-1264: Far from equilibrium, the weak-noise escape rate from an attractor goes as the exponential of minus system size times a barrier in the quasi-potential, not in any free energy, and that barrier is bracketed by thermodynamics: it is at most the entropy produced in relaxing from the saddle into the attractor and at least minus the entropy produced along the most likely escape path; the two bounds coincide at detailed balance and separate by twice the dissipation of the probability circulation, so far from equilibrium they can be very loose

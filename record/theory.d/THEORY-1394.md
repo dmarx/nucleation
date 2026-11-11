@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmph4325
 title: "Larson and Odoni's hypercube model represents an urban emergency service's N distinguishable units, each busy or free, as a Markov chain on the vertices of an N-cube under fixed-preference dispatch from point sources of Poisson calls, and from its steady state computes each unit's workload, the inter-district dispatch fractions and the mean travel times"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,15 @@ history:
     the mean travel times are computed from the steady-state
     probabilities of that chain.' The online image for (5.28) duplicates
     (5.26) and was rebuilt from Figure 5.17. The title is unchanged.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-296 and CLAIM-312 added.
+    CLAIM-296: "In the hypercube model (Larson and Odoni, NOTE-1620 ...),
+    a unit busy on another call is present but not deployable". CLAIM-312:
+    "That is a special case of the claim with no search or retrieval
+    component". No other change.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -43,6 +52,9 @@ summary: >-
   an approximation, the others exact. It says nothing about valuing a
   unit, and the basic model evaluates response areas a user supplies
   rather than optimizing them.
+corroborates:
+- CLAIM-296
+- CLAIM-312
 ---
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the unread original this account restates, cited as open -->
 

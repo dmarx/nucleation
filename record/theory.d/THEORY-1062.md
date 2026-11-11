@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp8ypuh
 title: 'On a discourse sheaf, where each agent expresses a private opinion through a linear map into each edge''s space of topics, sheaf-Laplacian opinion diffusion converges to the orthogonal projection of the initial opinions onto the global sections, which are agreement in what each pair expresses and not in what they hold; stable polarized or incomparable private opinions are therefore possible, and when the sheaf has no nonzero global section the only limit is all opinions zero'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-471 added. The claim:
+    "Discourse sheaves (LIT-1646) add agents who agree on what they
+    express while their private states differ", a model that "instances
+    'agreement on what is shared and not identity' exactly"; this is the
+    reading of that result. No other change.
 tags:
 - network-science
 - mathematics
@@ -19,6 +29,8 @@ summary: >-
   between expressed and held opinion is in the definitions and is worked in
   an example. It does not say that people reach agreement this way, or
   that an agreement in expression shows anything about what is held.
+corroborates:
+- CLAIM-471
 ---
 
 # THEORY-1062: On a discourse sheaf, where each agent expresses a private opinion through a linear map into each edge's space of topics, sheaf-Laplacian opinion diffusion converges to the orthogonal projection of the initial opinions onto the global sections, which are agreement in what each pair expresses and not in what they hold; stable polarized or incomparable private opinions are therefore possible, and when the sheaf has no nonzero global section the only limit is all opinions zero

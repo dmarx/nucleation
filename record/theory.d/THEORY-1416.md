@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmppfbrx
 title: 'van Leeuwaarden, Mathijsen and Zwart report that Halfin and Whitt showed that in a many-server queue with Poisson arrivals and exponential service the probability that an arrival waits tends to a value strictly between zero and one exactly when the number of servers exceeds the offered load by a multiple of its square root, and that the scaled number in system then tends to a diffusion that is a negative-drift Brownian motion above full occupancy and an Ornstein–Uhlenbeck process below it; they prove the limit of the waiting probability under that scaling'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-04'
@@ -34,6 +34,14 @@ history:
     the limiting delay probability and the diffusion limit for the M/M/s
     queue as the tutorial reports them." The body's "The tutorial gives no
     proof of either" was wrong for the delay limit and is corrected.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-520 added. The claim's
+    note of 2026-11-04 (NOTE-1577): "It supports the claim in kind: in §4,
+    headroom over mean load is set by trading a cost of capacity against a
+    cost of delay". No other change.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -48,6 +56,8 @@ summary: >-
   not its converse or the diffusion limit. Active as a report of the
   tutorial. It does not say that capacity sized to mean demand is wrong in
   every regime, nor that the headroom is idle: utilization tends to one.
+corroborates:
+- CLAIM-520
 ---
 <!-- inactive-ok-file: LIT-2085 — Unavailable; the unread original the tutorial reports, cited as open -->
 

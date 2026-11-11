@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpfdzw6
 title: "In sparse distributed memory, recall of uniform random data from exact cues is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows in proportion to the number of hard locations, rising toward about a tenth of them at 0.999 bit fidelity, not with the word length"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,15 @@ history:
     The title now says exact cues, as the derivation assumes, and that
     capacity rises toward a tenth, since at M up to 2 x 10^5 it measured
     0.08 to 0.095.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. bears_on QUESTION-096 and QUESTION-120
+    added. QUESTION-096: "The record holds the mechanism A19 reached for
+    ... and THEORY-261 on SDM recall." QUESTION-120 names it as one of
+    "two candidate forms" for the expand-and-threshold use. No other
+    change.
 tags:
 - information-retrieval
 - cognition
@@ -31,6 +40,9 @@ summary: >-
   capacity, or clustered data, which the uniform design handles badly,
   and it does not contain the critical-distance analysis that is
   sometimes attributed to it.
+bears_on:
+- QUESTION-096
+- QUESTION-120
 ---
 <!-- inactive-ok-file: CLAIM-180 — Proposed; open, and cited as open: a thesis of the nucleating-argument line under test -->
 <!-- inactive-ok-file: LIT-928 — Unavailable, unread; Kanerva's book, named as where the critical distance is derived, not leaned on -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmphqo3c
 title: 'Mukhopadhyay and colleagues present static coverage models for emergency response as moving from deterministic models that treat a facility as always available, through multiple coverage as a partial hedge against busy stations, to probabilistic models that represent station availability explicitly, beginning with the maximum expected covering and maximum availability models'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-04'
@@ -28,6 +28,15 @@ history:
     "Proposed until the owner judges whether a review's ordering of a
     literature is worth an account at all" was not a condition on the
     title, and is dropped.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-296 and CLAIM-312 added.
+    Both cite Mukhopadhyay et al. (NOTE-1583) for coverage models in which
+    "Resources at a facility are considered to be always available", set
+    against probabilistic ones, as a case of having a resource without
+    being able to deploy it. No other change.
 tags:
 - operations-research
 - social-science
@@ -39,6 +48,9 @@ summary: >-
   1). An account of how the review organizes the coverage literature, not
   of any model's correctness; it is limited to what that taxonomy states.
   Active as a report of how §6.1 orders the literature.
+corroborates:
+- CLAIM-296
+- CLAIM-312
 ---
 
 # THEORY-1396: Mukhopadhyay and colleagues present static coverage models for emergency response as moving from deterministic models that treat a facility as always available, through multiple coverage as a partial hedge against busy stations, to probabilistic models that represent station availability explicitly, beginning with the maximum expected covering and maximum availability models

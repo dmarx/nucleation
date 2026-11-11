@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpny96e
 title: 'In Juarrero''s constraint account, context-independent constraints take conditions away from equiprobability and context-dependent ones away from independence (after Gatlin); enabling constraints couple separate processes into a coherent dynamic whose constitutive constraints then act top down as second-order governing constraints that confine its components to a subregion of state space; a constraint is defined as what raises or lowers barriers to energy flow without transferring kinetic energy, carries no time-scale condition, and the governing regime is held not to be other than the components'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11 (by topic, second run, part P), under
+    ADR-091 and ADR-tmpkuzwl. corroborates CLAIM-582 added. The claim
+    lists it among the readings that "show the change of mechanism each
+    time": "Juarrero's enabling constraints (THEORY-1335; NOTE-1532) ...
+    The result is a new system with its own state space, not the old one
+    with K shrunk." No other change.
 tags:
 - complex-systems
 - philosophy-of-science
@@ -19,6 +29,8 @@ summary: >-
   step, all stated in the text (pp. 25, 40, 67, 71, 79–84). It does not say
   that the account is true, that constraints transfer no energy, or that
   her constraint is the record's ([TERM-070](../terms.d/TERM-070.md)'s).
+corroborates:
+- CLAIM-582
 ---
 
 # THEORY-1335: In Juarrero's constraint account, context-independent constraints take conditions away from equiprobability and context-dependent ones away from independence (after Gatlin); enabling constraints couple separate processes into a coherent dynamic whose constitutive constraints then act top down as second-order governing constraints that confine its components to a subregion of state space; a constraint is defined as what raises or lowers barriers to energy flow without transferring kinetic energy, carries no time-scale condition, and the governing regime is held not to be other than the components
