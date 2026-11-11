@@ -12,12 +12,12 @@ summary: >-
   Counted by the line's 163 linked pairs, the first two share 28 and the
   third shares 5 and 1 with them; by stored relations, all three are mostly
   closed. Setting readiness aside would take the withdrawal inquiry with it,
-  which is the opposite of what a line is for (ADR-032). This decision adds
+  which is the opposite of what a line is for ([ADR-032](ADR-032.md)). This decision adds
   the line transient-support, "Withdrawing transient support", and moves
-  the 30 entries of the third part to it, in place of readiness. CLAIM-602
-  keeps readiness beside it, because it bears on QUESTION-386 (ADR-085).
+  the 30 entries of the third part to it, in place of readiness. [CLAIM-602](../claims.d/CLAIM-602.md)
+  keeps readiness beside it, because it bears on [QUESTION-386](../questions.d/QUESTION-386.md) ([ADR-085](ADR-085.md)).
   The part's account becomes the new line's, and readiness's line account
-  is revised over its two remaining parts. It applies ADR-082's rule for a
+  is revised over its two remaining parts. It applies [ADR-082](ADR-082.md)'s rule for a
   split. Rejected: one account over all three parts; splitting in three;
   moving the part into realizability.
 ---
@@ -30,21 +30,21 @@ summary: >-
 
 A line is "a named line of the record's own argument, so that a line can be
 set aside as a whole and what depends on it can be found" (the `lines`
-vocabulary, ADR-032). readiness was added by ADR-073 for "what it takes to
+vocabulary, [ADR-032](ADR-032.md)). readiness was added by [ADR-073](ADR-073.md) for "what it takes to
 keep, reach and pay for capacities whose value lies in rare circumstances".
 It then took in the DNA origami, aid and development, ecology, urban,
 medicine and windfall readings of 2026-11-05 and 2026-11-06, filed on A's
-QUESTION-398: when a partial organization becomes independent of the
+[QUESTION-398](../questions.d/QUESTION-398.md): when a partial organization becomes independent of the
 intervention that established it.
 
 The synthesis review of 2026-11-10 gave the line its first account,
-SYNTHESIS-tmpqw6mz, over three part accounts:
+[SYNTHESIS-tmpqw6mz](../syntheses.d/SYNTHESIS-tmpqw6mz.md), over three part accounts:
 
-- keeping a rare capability and judging its worth (SYNTHESIS-tmp78y0i,
+- keeping a rare capability and judging its worth ([SYNTHESIS-tmp78y0i](../syntheses.d/SYNTHESIS-tmp78y0i.md),
   25 entries);
 - reaching and paying for configurations under budgets
-  (SYNTHESIS-tmp1m0vj, 24 entries);
-- withdrawing transient support (SYNTHESIS-tmprhzl8, 30 entries).
+  ([SYNTHESIS-tmp1m0vj](../syntheses.d/SYNTHESIS-tmp1m0vj.md), 24 entries);
+- withdrawing transient support ([SYNTHESIS-tmprhzl8](../syntheses.d/SYNTHESIS-tmprhzl8.md), 30 entries).
 
 Counting each pair of components linked by a front-matter relation or a
 mention in either's text, there are 163 pairs:
@@ -59,10 +59,10 @@ mention in either's text, there are 163 pairs:
 stored relations only, finds 69 of 79 inside a part: keeping 22 inside, 3
 out, 6 in; reaching 25, 4, 2; withdrawing 22, 3, 2. Of the 28 pairs between
 keeping and reaching, 24 are mentions, and 16 involve the terms of
-keeping (TERM-107, TERM-110, TERM-112, TERM-113, TERM-115) or CASE-210.
+keeping ([TERM-107](../terms.d/TERM-107.md), [TERM-110](../terms.d/TERM-110.md), [TERM-112](../terms.d/TERM-112.md), [TERM-113](../terms.d/TERM-113.md), [TERM-115](../terms.d/TERM-115.md)) or [CASE-210](../cases.d/CASE-210.md).
 
 The owner, shown the review's report that the line is a candidate to
-split (ADR-083), decided to split it.
+split ([ADR-083](ADR-083.md)), decided to split it.
 
 ## Decision
 
@@ -72,28 +72,28 @@ split (ADR-083), decided to split it.
   blurb now points to it.
 - **readiness keeps keeping and reaching.** They are closed by stored
   relations but joined by 28 pairs, where each has 5 or fewer with the
-  third part. ADR-082 kept drift, anchors and costs together on the same
+  third part. [ADR-082](ADR-082.md) kept drift, anchors and costs together on the same
   ground.
 - **The 30 entries of the withdrawal part move.** In each, `line` changes
   readiness to transient-support in place, so an entry whose first line
   was readiness now has transient-support first. Other lines are kept.
   Each entry gets a history note. No status, title or relation changes.
-- **An entry that argues within readiness keeps it** (ADR-082, version 2;
-  ADR-085). CLAIM-602 bears on QUESTION-386, whose first line is readiness,
+- **An entry that argues within readiness keeps it** ([ADR-082](ADR-082.md), version 2;
+  [ADR-085](ADR-085.md)). [CLAIM-602](../claims.d/CLAIM-602.md) bears on [QUESTION-386](../questions.d/QUESTION-386.md), whose first line is readiness,
   so it carries readiness after its other lines. No other moved entry
   answers, objects to, bears on or refines an entry whose first line is
   readiness. No entry outside the part relates in those ways to a moved
   entry whose first line was readiness, so no entry gains
   transient-support.
 - **The accounts follow the split.**
-  - SYNTHESIS-tmprhzl8 becomes transient-support's account (version 2).
-  - SYNTHESIS-tmpqw6mz, readiness's account, is revised over the two
-    remaining parts and integrates CLAIM-602 directly (version 2). Its
+  - [SYNTHESIS-tmprhzl8](../syntheses.d/SYNTHESIS-tmprhzl8.md) becomes transient-support's account (version 2).
+  - [SYNTHESIS-tmpqw6mz](../syntheses.d/SYNTHESIS-tmpqw6mz.md), readiness's account, is revised over the two
+    remaining parts and integrates [CLAIM-602](../claims.d/CLAIM-602.md) directly (version 2). Its
     version 1 counts are kept in its body as the record of why the line
     was split.
-  - SYNTHESIS-tmp78y0i and SYNTHESIS-tmp1m0vj name the new line where they
+  - [SYNTHESIS-tmp78y0i](../syntheses.d/SYNTHESIS-tmp78y0i.md) and [SYNTHESIS-tmp1m0vj](../syntheses.d/SYNTHESIS-tmp1m0vj.md) name the new line where they
     linked to the third part (version 2).
-- **Retired entries stay where they are.** SYNTHESIS-009 and SYNTHESIS-010
+- **Retired entries stay where they are.** [SYNTHESIS-009](../syntheses.d/SYNTHESIS-009.md) and [SYNTHESIS-010](../syntheses.d/SYNTHESIS-010.md)
   are Superseded and keep readiness, as their history.
 
 ## Alternatives considered
@@ -103,7 +103,7 @@ split (ADR-083), decided to split it.
   it should not follow.
 - **Split in three.** By stored relations alone, keeping and reaching are
   as closed as withdrawing. But they share 28 mentioned pairs, and
-  QUESTION-386, CASE-200, CLAIM-569 and CLAIM-577 argue across them.
+  [QUESTION-386](../questions.d/QUESTION-386.md), [CASE-200](../cases.d/CASE-200.md), [CLAIM-569](../claims.d/CLAIM-569.md) and [CLAIM-577](../claims.d/CLAIM-577.md) argue across them.
   Separate lines would turn most of that argument into crossings.
 - **Move the part into realizability.** Every withdrawal entry that links
   to another component already carries realizability, and nine of the thirty
