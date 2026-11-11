@@ -27,7 +27,7 @@ promote_when: >-
   the flame asserted without the definitions applied, which is how every
   holding in the record now treats it.
 title: 'Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-20'
@@ -59,6 +59,13 @@ history:
     The summary and the directive on LIT-536, now Unfetched for its
     chapters, are updated to match. The promote_when is unchanged: its
     two analyses are undone. The claim and status are unchanged.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-273: the claim's text says "It does not say an artwork is
+    self-maintaining. Whether the pattern feeds back into the flow that
+    keeps it is the next rung of the ladder". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - philosophy-of-biology
 - individuation
@@ -89,6 +96,8 @@ summary: >-
 corroborates:
 - CLAIM-194
 - CLAIM-604
+bounds:
+- CLAIM-273
 ---
 <!-- inactive-ok-file: LIT-536 LIT-529 — Unfetched or Unavailable; Biological Autonomy (Unfetched for its chapters; the Introduction is read in NOTE-1437), Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo4fgq
 title: "In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only"
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-17'
@@ -53,6 +53,13 @@ history:
     from observation alone. A symmetrically coupled pair reads as
     "hierarchical" once one member is strongly driven". First
     application of the bounds relation (ADR-tmppj46c). No other change.
+- version: 8
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-167: the claim's text says "That direction can be read
+    from observation alone. A symmetrically coupled pair reads as
+    'hierarchical' once one member is strongly driven". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - information-theory
 - causality
@@ -77,7 +84,9 @@ bears_on:
 - QUESTION-186
 bounds:
 - CLAIM-172
+- CLAIM-167
 ---
+<!-- inactive-ok-file: CLAIM-167 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-167 THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
 <!-- inactive-ok-file: CLAIM-396 — Proposed; the record's generalization this entry's narrowing dropped, filed apart under ADR-047 v4 with this entry in its grounds -->
 

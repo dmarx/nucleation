@@ -14,7 +14,7 @@ promote_when: >-
   Active. More examples of large variance in particular systems cannot
   settle it.
 title: 'Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -27,6 +27,12 @@ history:
     LIT-931 eq. 22 cites to Ioannou (1995) and does not prove. The title is
     restated to that clause, and the promote_when is narrowed to it. The
     body below is unchanged; the note of 2026-10-19 says which parts moved.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-383: the claim's text says "Anything in other norms.
+    Non-normality is norm-relative". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - mathematics
 - complex-systems
@@ -45,6 +51,8 @@ summary: >-
   in a chosen norm, and a norm can always be found that makes the
   operator normal. It says nothing about whether the growth survives
   nonlinearity.
+bounds:
+- CLAIM-383
 ---
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this account bears on, open -->
 <!-- inactive-ok-file: THEORY-325 — Proposed; companion accounts filed from the same readings -->

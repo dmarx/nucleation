@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpncu1p
 title: 'In a consumer-resource model whose species-resource benefits and impacts have correlation rho, the replica-symmetric cavity fixed point loses stability where rho squared equals surviving species over non-depleted resources'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-29'
@@ -27,6 +27,12 @@ history:
     not a point". A caution for the question's answer (ADR-093,
     3). CLAIM-369 cites it as a boundary of scope and takes nothing.
     No other change.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-369: the claim's text says "With asymmetric or
+    nonreciprocal interactions ... there may be no scalar L at all". First
+    application of the bounds relation (ADR-tmppj46c). No other change.
 tags:
 - ecology
 - complex-systems
@@ -45,6 +51,8 @@ summary: >-
   other side is chaotic is shown numerically, not derived.
 bears_on:
 - QUESTION-083
+bounds:
+- CLAIM-369
 ---
 <!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 

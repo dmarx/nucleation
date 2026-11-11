@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjo7qe
 title: 'An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-09-27'
@@ -54,6 +54,13 @@ history:
     read; the Source and summary add that it asserts the formulations'
     equivalence without showing it. The Deferred comment on LIT-263
     removed. The claim itself is unchanged.
+- version: 9
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-363: the claim's text says "It does not say
+    context-dependence is contextuality. ... A failure of global consistency
+    is a further question". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - contextuality
 - quantum-foundations
@@ -69,6 +76,8 @@ summary: >-
   The review that places this formulation among its equivalents is read
   (NOTE-844); it asserts the equivalence with citations and does not
   show it.
+bounds:
+- CLAIM-363
 ---
 
 # THEORY-012: An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpibq0b
 title: 'Dias and Ressler report that male mice fear-conditioned to an odour before mating had sons and grandsons more sensitive to that odour, and not to another, with more olfactory neurons for its receptor, a change that held in offspring conceived by IVF, and they read what passes as sensitivity to the cue, not fear'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-11'
@@ -23,6 +23,13 @@ history:
     claim would join QUESTION-297. Offspring sensitivity does not meet
     its own words (ADR-091's tie rule); the body citation there remains
     the link.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-644: the claim's text says "Not that the germline route is
+    absent. Animal work ... shows germline effects in rodents. The claim is
+    about what human evidence can show". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - natural-sciences
 - neuroscience
@@ -38,7 +45,10 @@ summary: >-
   cites it for where an insect's learned aversion would pass to offspring.
 bears_on:
 - QUESTION-297
+bounds:
+- CLAIM-644
 ---
+<!-- inactive-ok-file: CLAIM-644 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 
 # THEORY-1602: Dias and Ressler report that male mice fear-conditioned to an odour before mating had sons and grandsons more sensitive to that odour, and not to another, with more olfactory neurons for its receptor, a change that held in offspring conceived by IVF, and they read what passes as sensitivity to the cue, not fear
 

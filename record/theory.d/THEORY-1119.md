@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpy6639
 title: 'Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system''s own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -18,6 +18,15 @@ history:
     "that the system's own organisation sets", and that "optimization
     according to an externally fixed function" is not agency. Bearing
     is evidence on the question's first half, not an answer to it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-157: the claim's text says "The individuality that minimal
+    agency is said to need (THEORY-1119) is a further condition"; bounds
+    CLAIM-174: the claim's text says "Minimal agency in Barandiaran, Di
+    Paolo and Rohde's sense ... adds individuality the system produces
+    itself, and this test does not claim it". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - agency
 - individuation
@@ -38,7 +47,11 @@ summary: >-
   question, Proposed.
 bears_on:
 - QUESTION-128
+bounds:
+- CLAIM-157
+- CLAIM-174
 ---
+<!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the claims whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
 # THEORY-1119: Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency

@@ -17,7 +17,7 @@ promote_when: >-
   settle it: more simulations of particular systems, which add instances,
   not generality.
 title: 'Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -32,6 +32,12 @@ history:
     THEORY keeps and which extends the new one. The promote_when's
     condition on the stochastic half is unchanged; the status stays
     Proposed.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-376: the claim's text says "Anything about random
+    variation. That is THEORY-325's". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - mathematics
 - complex-systems
@@ -50,6 +56,8 @@ summary: >-
   the transient growth destabilizes nothing. Since 2026-10-19 the
   deterministic half is THEORY-724, and this THEORY holds the
   stochastic half.
+bounds:
+- CLAIM-376
 ---
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this account bears on, open -->
 <!-- inactive-ok-file: THEORY-323 — Proposed; the autonomous account this one extends -->

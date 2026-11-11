@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9v9w1
 title: 'A persistent or abrupt change is not evidence that a system has alternative stable states: field patterns such as jumps, multimodality and dual relationships also arise from a stepwise driver or a simple threshold, and only hysteresis, initial-state dependence or a lasting shift after a temporary disturbance, with slow return excluded, comes close to showing one'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-05'
@@ -25,6 +25,14 @@ history:
     must be excluded (THEORY-136's standard)": this entry's test for
     alternative stable states is what an answer must meet. Reading review of
     2026-11-11, by question. No other change.
+- version: 5
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-463: the claim's text says "That slow recovery shows a
+    threshold"; bounds CLAIM-521: the claim's text says "That early-warning
+    signals would catch it. ... Why such signals are weak evidence anyway is
+    THEORY-136's and THEORY-214's point". First application of the bounds
+    relation (ADR-tmppj46c). No other change.
 tags:
 - ecology
 - complex-systems
@@ -43,6 +51,9 @@ summary: >-
   produce alternative states. Active as a methodological standard.
 bears_on:
 - QUESTION-172
+bounds:
+- CLAIM-463
+- CLAIM-521
 ---
 <!-- inactive-ok-file: LIT-720 — Unavailable, unread; the 2001 Nature paper, named as what the 2003 review restates -->
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a case the evidential standard bears on -->

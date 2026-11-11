@@ -16,7 +16,7 @@ promote_when: >-
   cannot settle it: further toy models built from a planted causal graph,
   which the authors call privileged by construction.
 title: "Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -37,6 +37,12 @@ history:
   date: '2026-10-20'
   note: >-
     Connections gain the readings of 2026-10-20: memory against dynamical independence (CLAIM-389), the conditioning difference from optimal prediction (NOTE-975), and the inward-coupling bound (CLAIM-390). The account is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-397: the claim's text says "Not that memory detects
+    dependence. ... That needs the joint law". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - complex-systems
 - information-theory
@@ -58,6 +64,8 @@ summary: >-
   about a far environment.
 bears_on:
 - QUESTION-065
+bounds:
+- CLAIM-397
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the locality accounts on QUESTION-065 and the boundary claims this account bears on, open -->
 

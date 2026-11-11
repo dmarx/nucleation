@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwf2pt
 title: 'In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation operator with its adjoint'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-14'
@@ -84,6 +84,13 @@ history:
     without a density, or for asymmetric pairs, where k is not
     symmetric". First application of the bounds relation (ADR-tmppj46c).
     No other change.
+- version: 10
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-291: the claim's text says "Nothing about whether a
+    self-supervised pair distribution makes k symmetric. That is
+    THEORY-009's claim". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -110,6 +117,7 @@ bears_on:
 - QUESTION-141
 bounds:
 - CLAIM-641
+- CLAIM-291
 ---
 
 # THEORY-009: In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation operator with its adjoint

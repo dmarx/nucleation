@@ -22,7 +22,7 @@ promote_when: >-
   that etiological theories handle the swamp lion differently, which
   concern a rival account and not this one's adequacy.
 title: 'A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -42,6 +42,13 @@ history:
     CLAIM-363's grounds to its corroborated_by (ADR-058). That claim
     cites it as one illustration of its general form and does not use
     its contested thesis. The status is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-273: the claim's text says "It does not say an artwork is
+    self-maintaining. Whether the pattern feeds back into the flow that
+    keeps it is the next rung of the ladder". First application of the
+    bounds relation (ADR-tmppj46c). No other change.
 tags:
 - philosophy-of-biology
 - cognition
@@ -67,6 +74,8 @@ bears_on:
 corroborates:
 - CLAIM-363
 - CLAIM-288
+bounds:
+- CLAIM-273
 ---
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; compared, nothing here rests on them -->
 

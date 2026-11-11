@@ -24,7 +24,7 @@ promote_when: >-
   emotion and regulation tasks, since the account allows one state of
   readiness to be built differently from another.
 title: "Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-03'
@@ -40,6 +40,12 @@ history:
     Kept Proposed by the sixth status review; its supports on
     CLAIM-358 and CLAIM-440 became corroborates (ADR-058). The account
     is unchanged.
+- version: 4
+  date: '2026-11-11'
+  note: >-
+    bounds CLAIM-283: the claim's text says "It does not say the grant is
+    made by a separate regulator". First application of the bounds relation
+    (ADR-tmppj46c). No other change.
 tags:
 - emotion-and-affect
 - agency
@@ -69,6 +75,8 @@ rivals:
 - THEORY-680
 bears_on:
 - QUESTION-054
+bounds:
+- CLAIM-283
 ---
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-067 THEORY-062 THEORY-070 — Proposed; accounts filed since this one, placed against its clause about no regulator above, nothing here rests on them -->
