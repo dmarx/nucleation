@@ -4,7 +4,20 @@ status: Proposed
 formerly:
 - CLAIM-tmpzj6at
 title: 'In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand''s acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    line drops will-organization, at the review of line fields the
+    curation entry of 2026-11-10 asked for. No ADR-085 relation
+    supplies it: the claim bears on four learned-structure questions,
+    and its one link toward will-organization is resting on CLAIM-347,
+    whose first line is distributed-agency, a dependency the argument
+    chain reports as a crossing. Its text argues an identification
+    about training losses and disclaims "That training's demands are
+    the network's own". learned-structure stays its only line. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,7 +37,6 @@ tags:
 date: '2026-11-04'
 line:
 - learned-structure
-- will-organization
 rests_on:
 - CLAIM-347
 complements:
