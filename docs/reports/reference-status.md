@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**914 documents cited without acknowledgement.** Not listed: 23570 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**915 documents cited without acknowledgement.** Not listed: 23570 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1256,8 +1256,8 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/claims.d/CLAIM-624.md:61`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-624.md:79`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-628.md:19`](../../record/claims.d/CLAIM-628.md)
-- [`record/decisions.d/ADR-090.md:56`](../../record/decisions.d/ADR-090.md)
-- [`record/decisions.d/ADR-090.md:79`](../../record/decisions.d/ADR-090.md)
+- [`record/decisions.d/ADR-090.md:67`](../../record/decisions.d/ADR-090.md)
+- [`record/decisions.d/ADR-090.md:90`](../../record/decisions.d/ADR-090.md)
 - [`record/questions.d/QUESTION-030.md:20`](../../record/questions.d/QUESTION-030.md)
 - [`record/questions.d/QUESTION-063.md:43`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-088.md:29`](../../record/questions.d/QUESTION-088.md)
@@ -10247,6 +10247,14 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 
 - [`record/questions.d/QUESTION-360.md:54`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:77`](../../record/terms.d/TERM-098.md)
+
+### [ADR-090](../../record/decisions.d/ADR-090.md) — Proposed
+
+A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses
+
+1 citation in 1 file awaits a look.
+
+- [`docs/README.md:9`](../README.md)
 
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
