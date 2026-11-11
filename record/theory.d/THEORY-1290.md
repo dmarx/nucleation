@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpakm3a
 title: 'A dynamical model whose variables are properties of parts and operations already identified by experiment explores the dynamics of that mechanism, while one that posits its parts de novo and is checked only by fit to behaviour shows at most how a mechanism of that kind could produce the behaviour; fit can rule such models out but usually cannot decide between competing architectures that each fit, and what decides is independent evidence about the parts'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-01'
@@ -14,6 +14,18 @@ history:
     its core, that matched behaviour leaves architecture open, is
     demonstrated in the record by the construction of CLAIM-519, and
     nothing in the record contradicts it.
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-515 and CLAIM-519.
+    CLAIM-515's note of 2026-11-01 says what decides between
+    architectures "is this claim's 'interventions that discriminate
+    implementations', with a field's history behind it"; CLAIM-519's
+    note of the same day, "a precedent in cognitive modelling", says
+    Bechtel and Abrahamsen "make this claim's methodological point
+    about cognitive models in general". Each is evidence the claim
+    does not need (ADR-058). No other change.
 tags:
 - philosophy-of-science
 - cognition
@@ -29,6 +41,9 @@ summary: >-
   not say de novo models are worthless: they make the same six kinds of
   contribution, at weaker standing. Nor does it say that anchoring makes a
   model right.
+corroborates:
+- CLAIM-515
+- CLAIM-519
 ---
 <!-- inactive-ok-file: CLAIM-519 — Proposed; the record's world-model claim and its four-question principle, cited as the claims this reading bears on -->
 

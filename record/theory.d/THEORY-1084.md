@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpq9x5h
 title: 'Simon proposes that ill structured problems can be handled by an alternation between a solver working on a problem that is well structured at each moment and a recognition and retrieval system that keeps modifying the problem space from memory or the environment, that a serial solver gains nothing by assembling the problem space at the outset, and that nothing but the size of the knowledge base may separate ill from well structured problems, so that no qualitatively new mechanisms are needed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -28,6 +28,18 @@ history:
     count, since that is the preparation the claim is about." It moves word
     for word to THEORY-1216, Proposed, which carries the thesis and
     extends this entry (ADR-065 §3; ADR-047, kind 1).
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-470. The claim's body
+    says Simon (NOTE-1232) "gives a partial case of the last clause",
+    that an inquiry can revise what an answer could be, and its status
+    ruling of 2026-10-29 found that what he describes is "revision of
+    the problem space from memory, not a choice inside a fixed one",
+    which is this reading's recognition system modifying the problem
+    space. Evidence the claim does not need (ADR-058). No other
+    change.
 tags:
 - cognition
 - epistemology
@@ -42,6 +54,8 @@ summary: >-
   states the last part as what his analysis "suggests" and as "reason to
   be optimistic". Active as a report of the proposal; whether it is
   right, which wants a test, is THEORY-1216, Proposed.
+corroborates:
+- CLAIM-470
 ---
 
 # THEORY-1084: Simon proposes that ill structured problems can be handled by an alternation between a solver working on a problem that is well structured at each moment and a recognition and retrieval system that keeps modifying the problem space from memory or the environment, that a serial solver gains nothing by assembling the problem space at the outset, and that nothing but the size of the knowledge base may separate ill from well structured problems, so that no qualitatively new mechanisms are needed

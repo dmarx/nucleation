@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp1lndf
 title: 'Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -31,6 +31,18 @@ history:
     Shear's minority view holds, and on identity if the reported states
     do not differ across practices. Further syntheses of expert texts,
     or arguments about what counts as content, cannot settle it."
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-412. The claim's note
+    of 2026-10-22, "what the cited works say, once read", says the meditation readings "show reported
+    content being trimmed, not interpretation being absent. What
+    remains (calm, knowing, unity) is organization below concepts",
+    which is what this reading finds the teachers' texts describe; the
+    claim also notes the challenge it poses, that two meditators can
+    describe one state differently. Evidence the claim does not need
+    (ADR-058). No other change.
 tags:
 - phenomenology
 - consciousness
@@ -48,6 +60,8 @@ summary: >-
   sharp edge: it is a finding about how teachers describe the states, not
   about what practitioners experience, and "not truly contentless" depends
   on counting calm or simplicity as content.
+corroborates:
+- CLAIM-412
 ---
 <!-- inactive-ok-file: THEORY-1246 — Proposed; filed beside this reading by the twenty-fourth status review: the thesis about the experiences themselves -->
 <!-- inactive-ok-file: CLAIM-412 THEORY-063 — Proposed; the claims, terms and accounts this one bears on, named and not leaned on -->

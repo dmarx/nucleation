@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpr67qi
 title: 'In the Basic Psychological Need Satisfaction and Frustration Scale as Chen et al. built it, the distinction between satisfaction and frustration coincides with item direction: every satisfaction item states a positive experience and every frustration item an aversive one, so the better fit of six factors over three, which is the scale''s evidence that frustration is a separate dimension, is also what a keying or valence factor would produce'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-131. The question's note
+    of 2026-11-03 uses Chen et al.'s scale (NOTE-1527) as a caution on
+    its measure: the frustration items "may measure low satisfaction,
+    this question's non-attainment, not operative thwarting". No other
+    change.
 tags:
 - psychometrics
 - motivation
@@ -19,6 +29,8 @@ summary: >-
   model comparison (ΔSBSχ²(12) = 450.79, p. 226). It does not say the
   frustration dimension is an artefact, only that this evidence cannot
   tell it from one; that test is Murphy et al.'s ([LIT-1978](../literature.d/LIT-1978.md)), unread.
+bears_on:
+- QUESTION-131
 ---
 <!-- inactive-ok-file: THEORY-052 LIT-1954 — Proposed, Open, Deferred or Unfetched; the entries this bears on, cited as open -->
 

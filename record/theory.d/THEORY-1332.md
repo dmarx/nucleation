@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmpnjaik
 title: 'In Bishop''s account, chaos is a property of deterministic dynamics, so sensitive dependence is not indeterminism; under determinism it may model deliberation but is not sufficient for incompatibilist freedom, and under indeterminism the incompatibilist (Kane) must still show that agents can harness amplified indeterminism; and amplification itself may fail, since damping, the sign of the local Lyapunov exponents when a perturbation arrives, and the brain''s parallel redundancy limit it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-533. The claim's note
+    of 2026-11-03 cites it for Bishop's limits on amplification and
+    says "That supports the slow-modes clause"; its body takes
+    Bishop's statement of the harnessing gap as its starting point.
+    The claim grounds on the work itself, LIT-1961; that edge is left
+    for a defect sweep (ADR-tmpkuzwl, 6). No other change.
 tags:
 - free-will
 - philosophy-of-science
@@ -18,6 +29,8 @@ summary: >-
   The sharp edge: the brain-redundancy point is asserted without
   evidence, and the entry does not argue that harnessing is impossible,
   only that it has not been shown.
+corroborates:
+- CLAIM-533
 ---
 <!-- inactive-ok-file: NOTE-1535 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 

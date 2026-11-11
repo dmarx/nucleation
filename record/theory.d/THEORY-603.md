@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmpoxf3p
 title: "In the Iowa gambling task, every one of ten controls and none of six patients with bilateral ventromedial prefrontal damage developed anticipatory skin-conductance responses, and three patients who could state the right strategy still did not switch to the good decks; the controls' preference for the good decks became significant only once they reported a hunch, so the study does not show advantageous choice or deck-specific bodily signals before any awareness"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-121 and corroborates
+    CLAIM-283. QUESTION-121's third candidate, commitment before
+    evidence, names it: "Damasio's anticipatory skin-conductance
+    responses, which come before the choice (THEORY-603), have this
+    shape". CLAIM-283's note of 2026-10-23 calls it "a third instance"
+    of significance recognized and authority not granted, beside
+    CASE-151 and CASE-127. No other change.
 tags:
 - cognition
 - emotion-and-affect
@@ -22,6 +34,10 @@ summary: >-
   pre-hunch choice preference was not significant, and the pre-hunch SCR
   effect reported is group × period, with no bad-versus-good deck test.
   Nothing here shows that the SCR, or what it indexes, causes the choice.
+bears_on:
+- QUESTION-121
+corroborates:
+- CLAIM-283
 ---
 <!-- inactive-ok-file: THEORY-500 — Proposed; the account this study was offered for, named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->

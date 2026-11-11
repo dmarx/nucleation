@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwcxn9
 title: 'Ahn reads Bainbridge''s ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator''s manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -23,6 +23,16 @@ history:
     skills degraded from disuse. The remedies need nothing further, as
     the title gives them as Ahn's proposals and attributes them to him;
     whether they work is not what the title asserts.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): bears_on QUESTION-398. The question's note
+    of 2026-11-05 names it as a caution on its measure: "Automation
+    withdraws itself at its failures, so withdrawal comes at the state
+    least favourable to the party (Ahn's reading of Bainbridge,
+    NOTE-1713). A's measure D assumes withdrawal at chosen states." No
+    other change.
 tags:
 - cognition
 - learning-and-conditioning
@@ -36,6 +46,8 @@ summary: >-
   how she is read, and nothing here is put in her name. The remedies are his
   proposals for medical curricula, untested. A single-author commentary with
   no data.
+bears_on:
+- QUESTION-398
 ---
 <!-- inactive-ok-file: THEORY-1551 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->

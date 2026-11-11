@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcrfd3
 title: 'Smith and Mackie hold that identifying with a group makes it an aspect of the self through self-categorization, so that events are appraised for what they mean to the group and emotions are felt on its behalf, with the emotion shifting with the salient membership and identification moderating it'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-11'
@@ -18,6 +18,17 @@ history:
     Promoted at the status review's ruling (the owner delegated these
     rulings): ADR-065 §2, a reported title read in full in NOTE-1285,
     nothing in the record contradicting it.
+- version: 3
+  date: '2026-11-11'
+  note: >-
+    Reading review of 2026-11-11, by topic (mind and philosophy part;
+    ADR-091, ADR-tmpkuzwl): corroborates CLAIM-492. The claim lists it
+    among its cases of a criterion of the self's extent that comes
+    apart from caring: "Salience moves without caring (Smith and
+    Mackie, NOTE-1285 ...). ... That fixes the self's level
+    independently of what one values", with the caveat that the highly
+    identified reappraise. A supporting case (ADR-058). No other
+    change.
 tags:
 - social-identity
 - emotion-and-affect
@@ -33,6 +44,8 @@ summary: >-
   identification moderates, the highly identified sometimes
   reappraising to avoid guilt. Group-based emotions predict collective
   action and can be regulated.
+corroborates:
+- CLAIM-492
 ---
 
 # THEORY-1592: Smith and Mackie hold that identifying with a group makes it an aspect of the self through self-categorization, so that events are appraised for what they mean to the group and emotions are felt on its behalf, with the emotion shifting with the salient membership and identification moderating it
