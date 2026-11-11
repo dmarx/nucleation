@@ -63,7 +63,7 @@ history:
     bounds CLAIM-398: the claim's text says "Nothing beyond the linear
     Gaussian VAR(1). Chorin and Lu's nonlinear closures (THEORY-818) are
     fitted and carry no such guarantee". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - probabilistic-modeling
 - complex-systems

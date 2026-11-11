@@ -41,7 +41,7 @@ history:
   note: >-
     bounds CLAIM-485: the claim's text says "Whether Kahl's condition is
     right is THEORY-219's question; this claim does not need it". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - agency
 - self-governance

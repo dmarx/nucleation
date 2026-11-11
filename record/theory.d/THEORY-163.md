@@ -36,7 +36,7 @@ history:
   note: >-
     bounds CLAIM-387: the claim's text says "Not that hierarchies of
     categories cannot nest. Annealed category systems ... may well nest".
-    First application of the bounds relation (ADR-tmppj46c). No other
+    First application of the bounds relation (ADR-094). No other
     change.
 tags:
 - linguistics

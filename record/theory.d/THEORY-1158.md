@@ -56,7 +56,7 @@ history:
     bounds CLAIM-496: the claim's text says "That consistency is
     worthless. In settings where the truth is known to be consistent ...
     disagreement between routes does locate error". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - network-science
 - compositionality
@@ -135,4 +135,4 @@ ones random.
   the truth is flat by construction, so a consistent reconstruction is a
   correct one. [CASE-179](../cases.d/CASE-179.md)'s arm that revises correspondences "by consistency
   alone" is the setting where the two come apart.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

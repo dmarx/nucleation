@@ -17,7 +17,7 @@ history:
     generally fail to nest. Charvin et al. prove nesting at every pair
     of budgets when Y = f(X), and when X and Y are both binary
     (THEORY-757)". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - information-theory
 - mathematics

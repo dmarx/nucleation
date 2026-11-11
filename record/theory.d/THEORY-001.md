@@ -51,7 +51,7 @@ history:
   note: >-
     bounds CLAIM-370: the claim's text says "That InfoNCE features are
     eigenfunctions. InfoNCE fits log K⁺, not K⁺ (THEORY-001)". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - representation-learning
 - information-theory

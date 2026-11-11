@@ -32,7 +32,7 @@ history:
     bounds CLAIM-644: the claim's text says "Not that the germline route is
     absent. Animal work ... shows germline effects in rodents. The claim is
     about what human evidence can show". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - natural-sciences
 - psychopathology-and-treatment

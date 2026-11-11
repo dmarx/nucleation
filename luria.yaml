@@ -1010,7 +1010,7 @@ schemes:
         blurb: a claim of the record's own whose scope this account marks the limit of, a regime, domain
           or condition the claim says it does not cover, cited by the claim's own text as such. Neither
           support nor objection; rejecting this account leaves the claim's support unchanged and its stated
-          limit without an anchor. Not walked by the `argument` chain or by retraction (ADR-tmppj46c)
+          limit without an anchor. Not walked by the `argument` chain or by retraction (ADR-094)
         scheme: CLAIM
         required: false
         many: true
@@ -1349,7 +1349,7 @@ schemes:
       bounded_by:
         label: Bounded by
         blurb: the readings (THEORY) that mark the limits of this claim's scope, which its text cites as
-          such; the converse of `bounds`, written by `luria link --fix` (ADR-tmppj46c)
+          such; the converse of `bounds`, written by `luria link --fix` (ADR-094)
         scheme: THEORY
         required: false
         many: true

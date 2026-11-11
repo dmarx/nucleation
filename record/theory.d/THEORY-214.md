@@ -38,14 +38,14 @@ history:
     bounds CLAIM-521: the claim's text says "That early-warning signals
     would catch it. ... Why such signals are weak evidence anyway is
     THEORY-136's and THEORY-214's point". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 - version: 5
   date: '2026-11-11'
   note: >-
     bounds CLAIM-626: the claim's text says "That early-warning signals
     can tell the three apart. Why such signals are weak evidence is
     THEORY-136's and THEORY-214's point". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - complex-systems
 - social-science

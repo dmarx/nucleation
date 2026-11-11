@@ -26,7 +26,7 @@ history:
     bounds CLAIM-154: the claim's text says "Under a modeller's prior,
     the evidence penalty matches the description-length penalty only for
     hypotheses that are random under that prior". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - learning-theory
 - model-comparison
@@ -188,4 +188,4 @@ with H. Nothing in the paper shows that the slack must reach K(Pr(·|H)).
 [NOTE-801](../notes.d/NOTE-801.md)'s "α can be as large as K(H)" describes the bound, not the gap.
 For recursive priors other than m, the K(P) term of step 3's prior half
 remains, and the narrowed title does not cover them.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

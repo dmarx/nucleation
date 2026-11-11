@@ -45,14 +45,14 @@ history:
   note: >-
     bounds CLAIM-283: the claim's text says "It does not say the grant is
     made by a separate regulator". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 - version: 5
   date: '2026-11-11'
   note: >-
     bounds CLAIM-169: the claim's text says "one motive state checking
     another (THEORY-056) differ in method or content, not in delay. They
     are a second axis of multiplicity, and this claim is silent on
-    them". First application of the bounds relation (ADR-tmppj46c). No
+    them". First application of the bounds relation (ADR-094). No
     other change.
 tags:
 - emotion-and-affect

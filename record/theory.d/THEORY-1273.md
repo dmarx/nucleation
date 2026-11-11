@@ -12,7 +12,7 @@ history:
     bounds CLAIM-604: the claim's text says "In a finite system each
     kept state is metastable and is left by fluctuation after a time
     exponential in size ... The thresholds here are the deterministic
-    ones". First application of the bounds relation (ADR-tmppj46c). No
+    ones". First application of the bounds relation (ADR-094). No
     other change.
 - version: 3
   date: '2026-11-11'
@@ -20,7 +20,7 @@ history:
     bounds CLAIM-521: the claim's text says "That the coupling lasts to
     the fold in a finite system. ... In a finite system the maintained
     regime is metastable". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - thermodynamics
 - natural-sciences
@@ -119,4 +119,4 @@ irreducible.
   wrong.** Their folds are the V → ∞ statements. What changes at finite
   size is that a maintained regime has a lifetime, and loses it before the
   fold.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -44,7 +44,7 @@ history:
     That the eigenvalues on uniform spherical data are close to nµ_k
     with multiplicity N(d, k), and so the per-harmonic schedule, is
     THEORY-080's account, which stays Proposed". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - model-comparison
 - information-geometry

@@ -23,7 +23,7 @@ history:
   note: >-
     bounds CLAIM-406: the claim's text says "Anything about
     hermeneutical injustice beyond THEORY-326". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - epistemology
 - ethics

@@ -33,7 +33,7 @@ history:
     bounds CLAIM-543: the claim's text says "Whose organization it would
     be ... A dependency found in a model could be the simulated
     Assistant's, the network's or the deployed system's". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - self
 - individuation
@@ -169,4 +169,4 @@ The two conceptions rest on Shanahan's two invented usages, and no
 regeneration study shows which self-conception a fine-tuned assistant
 enacts. Products with memory across conversations, which could restore one
 persisting referent, are outside both papers.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

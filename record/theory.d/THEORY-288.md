@@ -33,7 +33,7 @@ history:
     bounds CLAIM-382: the claim's text says "That radial networks stay
     spread ... That the radial networks of LIT-976 do not ... is
     THEORY-288's empirical content, Proposed". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -153,4 +153,4 @@ non-trivial findings are three:
   models with ReLU, an S_n primitive. Bird conjectures that such
   geometries depend on the activation's group. That is untested, and
   [THEORY-021](THEORY-021.md) does not depend on it.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

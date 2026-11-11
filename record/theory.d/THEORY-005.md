@@ -65,7 +65,7 @@ history:
     bounds CLAIM-641: the claim's text says "That HaoChen et al.'s
     theorems hold under finite χ² alone. Their extension to infinite
     spaces is asserted, not written out ..., and THEORY-005 keeps that".
-    First application of the bounds relation (ADR-tmppj46c). No other
+    First application of the bounds relation (ADR-094). No other
     change.
 - version: 6
   date: '2026-11-11'
@@ -73,7 +73,7 @@ history:
     bounds CLAIM-370: the claim's text says "That trained features span
     T's top eigenfunctions. That is about optimization and capacity.
     THEORY-005's promote_when keeps it". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -128,4 +128,4 @@ converse (Hilbert–Schmidt only if χ² is finite), and it is Active.
 Mathematics the record proves does not wait on a source. What this THEORY
 still waits on is what the sources show, and whether features reach the
 eigenfunctions.
-<!-- inactive-ok-file: CLAIM-641 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-641 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

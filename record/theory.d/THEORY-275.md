@@ -52,14 +52,14 @@ history:
     bounds CLAIM-172: the claim's text says "That direction can be read
     from observation alone. A symmetrically coupled pair reads as
     "hierarchical" once one member is strongly driven". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 - version: 8
   date: '2026-11-11'
   note: >-
     bounds CLAIM-167: the claim's text says "That direction can be read
     from observation alone. A symmetrically coupled pair reads as
     'hierarchical' once one member is strongly driven". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - information-theory
 - causality
@@ -207,4 +207,4 @@ directional information measures between reciprocally coupled units follow
 a one-sided drive and not the coupling. The source makes no general claim,
 so it is filed as the record's own interpretive claim. It names this entry
 in its grounds, as its evidence. Nothing here changes.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

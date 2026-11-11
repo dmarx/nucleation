@@ -31,7 +31,7 @@ history:
     bounds CLAIM-366: the claim's text says "Anything about
     function-preserving symmetries ... Two networks related by a
     permutation of units or a blow-up ... are not covered". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -224,4 +224,4 @@ suggested, and is [QUESTION-317](../questions.d/QUESTION-317.md)'s:
   permutation. Lubana et al.'s mechanism barriers name the case its account
   leaves out. This is for the coordinator to report there; the anthology is
   not edited from here.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

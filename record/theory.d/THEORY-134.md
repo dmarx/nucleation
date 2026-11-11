@@ -21,7 +21,7 @@ history:
     bounds CLAIM-571: the claim's text says "That sublevel-set inclusion
     is viability. Mirth et al.'s sublevel sets are caps on a scalar, not
     viability kernels (THEORY-134)". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - mathematics
 - complex-systems

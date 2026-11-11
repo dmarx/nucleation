@@ -32,7 +32,7 @@ history:
     bounds CLAIM-355: the claim's text says "It does not solve
     phenomenal binding ... Metzinger keeps the unity of experience apart
     from the self-model". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - phenomenal-unity
 - consciousness
@@ -178,4 +178,4 @@ which is narrower than "does not require a self-model". The worry about
 report this reading's promote_when names is stated in the book itself
 and left open (p. 19; [THEORY-1295](THEORY-1295.md)). No status, title or warrant
 changes.
-<!-- inactive-ok-file: CLAIM-355 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-355 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

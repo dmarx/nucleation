@@ -11,7 +11,7 @@ history:
   note: >-
     bounds CLAIM-516: the claim's text says "That the production cycle
     is a stoichiometric cycle ... steady currents run on fuel-to-waste
-    cycles". First application of the bounds relation (ADR-tmppj46c). No
+    cycles". First application of the bounds relation (ADR-094). No
     other change.
 tags:
 - thermodynamics
@@ -90,4 +90,4 @@ stoichiometry, or the affinity could have depended on it. It enters neither.
   in every sense.** It is invisible to the budget. Whether a closed set of
   constraints lowers the driving needed to sustain a state is a kinetic
   question this does not touch.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

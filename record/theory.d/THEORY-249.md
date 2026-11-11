@@ -22,7 +22,7 @@ history:
   note: >-
     bounds CLAIM-174: the claim's text says "That it is prior-free. ... Test
     (3) also depends on what counts as adaptation". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - agency
 - philosophy-of-science

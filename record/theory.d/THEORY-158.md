@@ -37,7 +37,7 @@ history:
     bounds CLAIM-107: the claim's text says "Mean conservation does not make
     an observable a symmetry. The Noether-type equivalence, for finite
     continuous-time processes, needs the second moment as well". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - mathematics
 - probabilistic-modeling

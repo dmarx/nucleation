@@ -49,7 +49,7 @@ history:
     bounds CLAIM-384: the claim's text says "Anything about the network
     itself. The network may be singular, and its evidence governed by a
     learning coefficient (THEORY-087); linearisation removes that
-    question". First application of the bounds relation (ADR-tmppj46c).
+    question". First application of the bounds relation (ADR-094).
     No other change.
 tags:
 - model-comparison

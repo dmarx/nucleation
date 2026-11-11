@@ -22,7 +22,7 @@ history:
     bounds CLAIM-279: the claim's text says "It does not say dissent
     improves an organization. ... Exploitation crowding out exploration
     is March's reading (THEORY-142)". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - social-science
 - epistemology

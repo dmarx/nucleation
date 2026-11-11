@@ -21,7 +21,7 @@ history:
     bounds CLAIM-525: the claim's text says "That the readings are
     right. They are conceptual, and whether Simondon holds their account
     is THEORY-1534's question, Proposed". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - individuation
 - metaphysics

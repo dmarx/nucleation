@@ -34,7 +34,7 @@ history:
     bounds CLAIM-340: the claim's text says "That a mind meets κ′ ≤ κ̄.
     On constructed-perception accounts the reading of evidence is bent
     by the interpretation ... which pushes κ′ up". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - cognition
 - neuroscience
@@ -142,4 +142,4 @@ frame from attention or imagery with the individuated object as the
 measure, and the criterion promote_when asks for first, saying which
 learned tunings are frames, is not stated. The evidence it rereads shows
 changed weightings and estimates, not different objects.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -26,7 +26,7 @@ history:
     CLAIM-174: the claim's text says "Minimal agency in Barandiaran, Di
     Paolo and Rohde's sense ... adds individuality the system produces
     itself, and this test does not claim it". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - agency
 - individuation

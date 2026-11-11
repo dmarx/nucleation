@@ -39,7 +39,7 @@ history:
     responsibility needs guidance control and not regulative control
     over alternatives, so a larger reachable set does not make a more
     responsible agent". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - free-will
 - agency

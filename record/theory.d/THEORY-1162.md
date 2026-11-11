@@ -32,7 +32,7 @@ history:
   note: >-
     bounds CLAIM-369: the claim's text says "With asymmetric or
     nonreciprocal interactions ... there may be no scalar L at all". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - ecology
 - complex-systems

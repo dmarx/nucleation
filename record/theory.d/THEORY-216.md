@@ -40,7 +40,7 @@ history:
     bounds CLAIM-272: the claim's text says "It does not say
     coordination is the only source of unequal influence. Use of the
     equal cooldown was itself heavy-tailed". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - social-science
 - complex-systems
@@ -145,4 +145,4 @@ Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropp
 Proposed entry, so that evidence can later confirm or reject it as a
 thesis. [THEORY-795](THEORY-795.md) carries the thesis that lasting artworks, as a population, are those whose coalitions keep repairing them under overwriting (the source's claim C6, shown in ten lifecycles). It extends this entry, whose
 measured or derived content is its evidence. Nothing here changes.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

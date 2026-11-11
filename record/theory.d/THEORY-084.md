@@ -48,7 +48,7 @@ history:
     like. That the lazy-regime spectrum of a ReLU network on spherical
     data inherits the NTK's harmonic-degree blocks, and where a
     threshold on it is well posed, is THEORY-084's, Proposed". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - information-geometry
 - learning-theory

@@ -23,7 +23,7 @@ history:
     THEORY-1088's discourse sheaves reach consensus by changing their
     expression maps". A reading used as a parallel supporting the claim,
     not a limit of its scope, so corroborates (ADR-058), found in the
-    first application of the bounds relation (ADR-tmppj46c). No other
+    first application of the bounds relation (ADR-094). No other
     change.
 tags:
 - network-science
@@ -121,4 +121,4 @@ and an agent again ends up lying.
 ## Note of 2026-11-07: cited rightly; an extension not registered, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §4 and A29 §6 cite this reading rightly, including learning to lie. A29 §6 reports an extension by Bosca and Ghrist, "Selective Adaptation of Beliefs and Communication on Cellular Sheaves" (2026, arXiv:2601.22431), to "selective rigidity in agents' opinions and selective adaptation of communication maps", with rate bounds. Not registered or read. No change.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

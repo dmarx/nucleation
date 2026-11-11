@@ -24,7 +24,7 @@ history:
   note: >-
     bounds CLAIM-378: the claim's text says "Which group a comparison
     should use. That is THEORY-236's caveat, and it is empirical". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -117,4 +117,4 @@ record's, not a statement of the paper.
   and linear CKA are one family, differing in eigenvalue weighting
   (Eqs. 11–14). That result is held there, as the precursor of the
   readout account.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

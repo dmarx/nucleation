@@ -33,7 +33,7 @@ history:
   note: >-
     bounds CLAIM-358: the claim's text says "That an integrated agent works
     less hard. ... The effort of the work itself can be high". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - motivation
 - self-governance

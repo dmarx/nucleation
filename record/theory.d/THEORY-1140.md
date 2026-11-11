@@ -12,7 +12,7 @@ history:
     bounds CLAIM-496: the claim's text says "Anything about holonomy in
     the gauge sense ... path discrepancy is not a Wilson loop and
     carries none of THEORY-1140's invariance". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - mathematics
 - compositionality
@@ -98,4 +98,4 @@ outside every cycle. The gauge-fixing argument rules out both.
 - **That this is new mathematics.** The paper's contribution is the
   statement on general relational graphs and the reading across three
   literatures, which it says itself (p. 3).
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

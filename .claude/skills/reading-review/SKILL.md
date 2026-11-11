@@ -3,7 +3,7 @@ name: reading-review
 description: 'A review of the readings (THEORY) the record holds and its argument does not use - which readings in force no line builds on, and what to do about each: tie it to a claim or question that should use it, raise a question or claim it calls for, or record that the argument does not need it. Three modes, by line, by topic and by question. Use it when the owner asks for a reading review or to see what the record has read and not built on, after a run of readings in one topic, or beside a synthesis review of a line. ADR-091 holds the invariants; ADR-090 how a reading''s lines are derived.'
 ---
 <!-- .claude/skills/reading-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 ADR-tmppj46c — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 ADR-094 — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Reading review
 
@@ -149,7 +149,7 @@ More recurring cases (ADR-093):
 - **Limits bound.** A claim whose own text cites a reading as a limit of
   its scope (in "What it does not say", a stated scope, or a
   `defeated_if` naming the excluded regime) takes it as `bounds`, from the
-  THEORY (ADR-tmppj46c). A rival account or an unanswered counterexample
+  THEORY (ADR-094). A rival account or an unanswered counterexample
   is an objection, not a bound. A precedent from
   another domain corroborates only a claim whose scope reaches that
   domain.

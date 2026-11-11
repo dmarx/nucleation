@@ -60,7 +60,7 @@ history:
     bounds CLAIM-363: the claim's text says "It does not say
     context-dependence is contextuality. ... A failure of global consistency
     is a further question". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - contextuality
 - quantum-foundations

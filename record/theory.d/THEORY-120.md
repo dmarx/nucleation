@@ -33,7 +33,7 @@ history:
     bounds CLAIM-548: the claim's text says "That an activated,
     effective impulse is disowned. Whether the person endorses it is a
     further question (THEORY-120)". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - self-governance
 - free-will

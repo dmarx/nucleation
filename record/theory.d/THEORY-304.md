@@ -56,7 +56,7 @@ history:
   note: >-
     bounds CLAIM-383: the claim's text says "That the growth is of order R
     and no more, or what the constants are. ... That is THEORY-304's". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - natural-sciences
 - mathematics

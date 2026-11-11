@@ -22,7 +22,7 @@ history:
     bounds CLAIM-387: the claim's text says "Nothing about stochastic
     encoders. The unrestricted information bottleneck at finite β generally
     has stochastic optima". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - information-theory
 - mathematical-statistics

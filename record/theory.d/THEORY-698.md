@@ -11,7 +11,7 @@ history:
   note: >-
     bounds CLAIM-564: the claim's text says "That the lattice is a finding.
     A concept lattice exists for any incidence". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - representation-learning
 - logic

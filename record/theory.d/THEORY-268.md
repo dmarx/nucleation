@@ -23,14 +23,14 @@ history:
     bounds CLAIM-161: the claim's text says "If γ is an information
     quantity, its value averaged over an interval and its value at a
     moment can disagree in sign". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 - version: 3
   date: '2026-11-11'
   note: >-
     bounds CLAIM-157: the claim's text says "When the block stops
     persisting. ... For information measures the averaged verdict and
     the verdict at a moment can disagree in sign". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - complex-systems
 - information-theory
@@ -128,4 +128,4 @@ toy was built for illustration, so the first test is weak.
   the average effective information can be higher at a macro scale, and
   this holds that the macro scale can be the worse description at most of
   the micro transitions it summarises. Neither conflicts with the other.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

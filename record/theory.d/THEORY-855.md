@@ -21,7 +21,7 @@ history:
     bounds CLAIM-342: the claim's text says "It does not say any amount of
     such evidence suffices. ... the independent channel anchors it only as
     far as it outweighs the selected one". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - epistemology
 - network-science

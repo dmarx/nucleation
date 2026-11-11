@@ -35,7 +35,7 @@ history:
     bounds CLAIM-271: the claim's text says "It does not say the
     collective knows better than its members. ... THEORY-137 warns that
     attributing a mind to an institution partly shapes the institution
-    to fit". First application of the bounds relation (ADR-tmppj46c). No
+    to fit". First application of the bounds relation (ADR-094). No
     other change.
 tags:
 - social-ontology

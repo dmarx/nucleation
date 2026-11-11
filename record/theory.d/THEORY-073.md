@@ -22,7 +22,7 @@ history:
     modelling choice, made before the blanket is found (THEORY-073 ...).
     So 'one blanket inward' is always available, and the objection costs
     little to make and says little". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - individuation
 - philosophy-of-biology

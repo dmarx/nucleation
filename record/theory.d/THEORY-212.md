@@ -32,7 +32,7 @@ history:
     and width does not. ... the record holds results where the variable
     that sets the regime is neither: balanced against unbalanced layers
     in one two-layer linear network (THEORY-212)". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - learning-theory
 - representation-learning

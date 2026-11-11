@@ -32,7 +32,7 @@ history:
     bounds CLAIM-333: the claim's text says "That ΦID's quantities are
     interventional or not. That is NOTE-010's C4 and THEORY-497's
     footnote-3 condition, which this claim leaves standing". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - complex-systems
 - information-theory
@@ -159,4 +159,4 @@ general assumptions" without giving them.
   the *system* has synergy. The reading gives a counterexample under MMI,
   a parity of two self-copying bits, with Ψ = 1 bit and no unique
   information.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -69,7 +69,7 @@ history:
     bounds CLAIM-364: the claim's text says "That history settles it.
     THEORY-040 notes that no historical condition in the record is shown
     to escape its own objection". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - agency
 - ethics

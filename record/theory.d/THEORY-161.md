@@ -33,7 +33,7 @@ history:
     bounds CLAIM-258: the claim's text says "It does not say
     decision-relative fidelity is wrong. ... For a common situation, its
     prior art gives a bound that needs no garbling". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - information-theory
 - mathematical-statistics

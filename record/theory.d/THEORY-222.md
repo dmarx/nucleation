@@ -57,7 +57,7 @@ history:
     micro. ... A positive causal emergence of effective information, scored
     with a separate uniform distribution at each level, measures the change
     of distribution". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - causality
 - complex-systems

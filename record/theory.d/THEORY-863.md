@@ -22,7 +22,7 @@ history:
     bounds CLAIM-408: the claim's text says "Not that a tipped
     allocation outlasts the constraint ... Arthur's model ... has
     another such mechanism ... nothing of it carries over to this
-    equation". First application of the bounds relation (ADR-tmppj46c).
+    equation". First application of the bounds relation (ADR-094).
     No other change.
 tags:
 - social-science
@@ -128,4 +128,4 @@ fair walk on a finite interval is absorbed.
   symmetric state breaks. After lock-in a small tilt does nothing, as in
   [CASE-112](../cases.d/CASE-112.md)'s hysteresis in h.
 - **[THEORY-429](THEORY-429.md).** North carries increasing returns to institutions.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

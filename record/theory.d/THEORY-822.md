@@ -23,7 +23,7 @@ history:
     bounds CLAIM-394: the claim's text says "Not for Markov chains as
     stated ... closing the whole law needs eigenvectors constant on the
     blocks, that is strong lumpability". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - complex-systems
 - information-theory
@@ -199,4 +199,4 @@ Pfante et al. 2014, [LIT-1837](../literature.d/LIT-1837.md), which Rosas et al. 
 with the equivalence this entry generalizes for Markov spatial
 coarse-grainings, is registered and Unavailable, so the record still holds
 it second-hand. The entry is unchanged.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

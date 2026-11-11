@@ -69,7 +69,7 @@ history:
   note: >-
     bounds CLAIM-281: the claim's text says "It does not say the order
     of a grant settles anything. THEORY-029's regress stands.". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 - version: 7
   date: '2026-11-11'
   note: >-
@@ -77,7 +77,7 @@ history:
     operator's role and not its conclusions ... is not filed.
     THEORY-029's regress is a warning against expecting authority to
     come from the order of an endorsement alone". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - agency
 - metaphysics
@@ -229,4 +229,4 @@ conflict case, so whether Velleman's unwitting decision reaches the
 1987/88 view turns on the conflict case, which has not been run against
 the essay's text. The other replies the promote_when names ([LIT-695](../literature.d/LIT-695.md),
 [LIT-596](../literature.d/LIT-596.md), Watson 1975) are unread.
-<!-- inactive-ok-file: CLAIM-281 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-281 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

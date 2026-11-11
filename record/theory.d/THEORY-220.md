@@ -48,7 +48,7 @@ history:
     bounds CLAIM-273: the claim's text says "It does not say an artwork is
     self-maintaining. Whether the pattern feeds back into the flow that
     keeps it is the next rung of the ladder". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - philosophy-of-biology
 - cognition

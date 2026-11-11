@@ -25,7 +25,7 @@ history:
     priority, persistence and resumption are dispositional, so an
     identity of feeling with this regime would be an identity with a
     functional role". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - consciousness
 - metaphysics

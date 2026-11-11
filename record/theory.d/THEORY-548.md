@@ -31,7 +31,7 @@ history:
     bounds CLAIM-369: the claim's text says "Whether organizations with the
     same local incentives and more non-reciprocity converge, oscillate,
     switch among configurations or become chaotic is open". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - ecology
 - complex-systems

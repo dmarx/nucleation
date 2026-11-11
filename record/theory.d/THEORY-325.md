@@ -37,7 +37,7 @@ history:
   note: >-
     bounds CLAIM-376: the claim's text says "Anything about random
     variation. That is THEORY-325's". First application of the bounds
-    relation (ADR-tmppj46c). No other change.
+    relation (ADR-094). No other change.
 tags:
 - mathematics
 - complex-systems

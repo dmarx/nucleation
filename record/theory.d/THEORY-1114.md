@@ -36,7 +36,7 @@ history:
     bounds CLAIM-492: the claim's text says "Not that every criterion of the
     self is circular. Self-categorization theory's salience by fit, for
     instance, is fixed by the comparative context". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - social-identity
 - social-science

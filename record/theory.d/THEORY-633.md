@@ -23,7 +23,7 @@ history:
   note: >-
     bounds CLAIM-355: the claim's text says "It does not say experience
     is unreal ... Frankish's stronger thesis (THEORY-633) is a separate
-    option". First application of the bounds relation (ADR-tmppj46c). No
+    option". First application of the bounds relation (ADR-094). No
     other change.
 tags:
 - consciousness
@@ -163,4 +163,4 @@ happened; he does not show that neither can.
   representation, the question for a machine is whether it has the
   introspective mechanisms, which sharpens rather than settles [THEORY-023](THEORY-023.md)'s
   mimicry point. The application is the record's, not Frankish's.
-<!-- inactive-ok-file: CLAIM-355 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-355 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

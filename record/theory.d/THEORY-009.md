@@ -82,7 +82,7 @@ history:
   note: >-
     bounds CLAIM-641: the claim's text says "Anything for pair laws
     without a density, or for asymmetric pairs, where k is not
-    symmetric". First application of the bounds relation (ADR-tmppj46c).
+    symmetric". First application of the bounds relation (ADR-094).
     No other change.
 - version: 10
   date: '2026-11-11'
@@ -90,7 +90,7 @@ history:
     bounds CLAIM-291: the claim's text says "Nothing about whether a
     self-supervised pair distribution makes k symmetric. That is
     THEORY-009's claim". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -142,4 +142,4 @@ The representer theorem is a parallel case: Schölkopf, Herbrich & Smola's proof
 
 - That Riesz is irrelevant. It is what makes an abstract space of functions with bounded evaluation into an RKHS, and the review obtains the kernel mean embedding by Riesz (see the mean-embedding claim, from Muandet et al., [LIT-260](../literature.d/LIT-260.md), Lemma 3.1). A Bochner integral, which the review also uses to define it, gives it too; that second route is the record's inference.
 - What happens for non-reversible pair structures: predictors and stop-gradient (BYOL, SimSiam), directed augmentations, cross-modal pairs. There the natural object would be the singular value decomposition of a non-self-adjoint operator, which needs the adjoint in earnest. No account for an asymmetric objective was found. The nearest is Balestriero & LeCun's Theorem 7 ([LIT-228](../literature.d/LIT-228.md)): in the linear regime Barlow Twins recovers CCA, the singular value decomposition of the non-self-adjoint whitened cross-covariance, and a symmetric pair matrix G is what yields weight sharing; the paper says G's symmetry "is often not required". But the objective is Barlow Twins, not a BYOL-type asymmetric one, and the identification with CCA is asserted rather than derived. In Simon et al.'s two-tower case the symmetric Γ is block off-diagonal in the cross-covariance, so its eigenvalues are ± that matrix's singular values; that reading (the Jordan–Wielandt construction) is the record's, not the paper's.
-<!-- inactive-ok-file: CLAIM-641 ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-641 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

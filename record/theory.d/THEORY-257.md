@@ -42,7 +42,7 @@ history:
   note: >-
     bounds CLAIM-397: the claim's text says "Not that memory detects
     dependence. ... That needs the joint law". First application of the
-    bounds relation (ADR-tmppj46c). No other change.
+    bounds relation (ADR-094). No other change.
 tags:
 - complex-systems
 - information-theory

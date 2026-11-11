@@ -25,7 +25,7 @@ history:
     system equivalent in its input–output mapping, or isomorphic in a
     diagram, has the same experience. THEORY-507's invariance is a
     separate premise". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - consciousness
 - metaphysics

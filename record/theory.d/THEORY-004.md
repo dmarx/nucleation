@@ -83,7 +83,7 @@ history:
     bounds CLAIM-290: the claim's text says "Nothing about kernels
     estimated from data, or about approximate equality ... that is what
     the Procrustes–Bures identity in THEORY-004 measures". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - representation-learning
 - mathematics
@@ -129,4 +129,4 @@ So the kernel is the invariant and the representation is one realization of it �
   representations whose rank equals the number of examples. A comparison
   under that larger group is degenerate once the representation is wide
   enough, so the kernel is not traded for an invertible-linear invariant.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

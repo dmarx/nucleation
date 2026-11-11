@@ -22,7 +22,7 @@ history:
     bounds CLAIM-551: the claim's text says "That the skills work by
     this mechanism. The record's DBT data, THEORY-922 and QUESTION-307,
     relate skills homework to falling urges, not to cognition". First
-    application of the bounds relation (ADR-tmppj46c). No other change.
+    application of the bounds relation (ADR-094). No other change.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
@@ -92,4 +92,4 @@ unrelated to change, as attendance was.
   deploying it under pressure. Phone coaching is deployment supported from
   outside at the moment of need, and its association is with falling
   self-harm urges only.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -22,7 +22,7 @@ history:
   note: >-
     bounds CLAIM-157: the claim's text says "That one threshold serves the
     whole system. On tangles, each region of a network has its own best
-    order". First application of the bounds relation (ADR-tmppj46c). No
+    order". First application of the bounds relation (ADR-094). No
     other change.
 tags:
 - network-science

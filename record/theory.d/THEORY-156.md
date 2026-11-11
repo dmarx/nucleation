@@ -45,7 +45,7 @@ history:
     the claim's text says "It says nothing about outcome spaces that are
     not finite, such as raw texts. There step (b) needs the general
     converse, which CLAIM-326 keeps on THEORY-156". First application of
-    the bounds relation (ADR-tmppj46c). No other change.
+    the bounds relation (ADR-094). No other change.
 tags:
 - mathematical-statistics
 - information-theory

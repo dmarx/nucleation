@@ -49,7 +49,7 @@ history:
   note: >-
     bounds CLAIM-245: the claim's text says "Its results are for
     no-signalling models in the sheaf framework. The first source
-    signals". First application of the bounds relation (ADR-tmppj46c).
+    signals". First application of the bounds relation (ADR-094).
     No other change.
 tags:
 - contextuality
@@ -210,4 +210,4 @@ Theorem 37 at work. Two contextual hom models whose maps send every model
 to the contextual triangle model were rejected (residual 1.6), and the
 non-injective case was accepted. As a control on the well-definedness
 check, a signalling source made the result depend on the choice of τ.
-<!-- inactive-ok-file: ADR-tmppj46c — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

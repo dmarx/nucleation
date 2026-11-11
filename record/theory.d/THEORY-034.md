@@ -41,7 +41,7 @@ history:
     realism. 'Partly constituted' leaves intrinsic identity-fixing
     features a role, and that is the intrinsic horn of Chakravartty's
     dilemma (THEORY-034)". First application of the bounds relation
-    (ADR-tmppj46c). No other change.
+    (ADR-094). No other change.
 tags:
 - metaphysics
 - philosophy-of-science
