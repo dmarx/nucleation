@@ -182,7 +182,7 @@ rests on reproduce: [QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-41
   [CASE-216](../cases.d/CASE-216.md) says the record's budgeted reachability with fixed costs, "so
   more budget never loses a reachable state ([CLAIM-581](../claims.d/CLAIM-581.md), [CLAIM-570](../claims.d/CLAIM-570.md))".
 - **To transient-support, outside the line.** [QUESTION-399](../questions.d/QUESTION-399.md), first in
-  transient-support since [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md), starts from [TERM-117](../terms.d/TERM-117.md): "A
+  transient-support since [ADR-088](../decisions.d/ADR-088.md), starts from [TERM-117](../terms.d/TERM-117.md): "A
   productive nucleus ([TERM-117](../terms.d/TERM-117.md)) changes later formation and owes nothing
   to closure." [CLAIM-601](../claims.d/CLAIM-601.md) complements
   [CLAIM-595](../claims.d/CLAIM-595.md): "This is [CLAIM-595](../claims.d/CLAIM-595.md)'s distinction between eventual success and

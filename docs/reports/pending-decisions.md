@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1196 document(s) awaiting a decision.**
+**1197 document(s) awaiting a decision.**
 
 ## LITs
 
-141 of the 1196.
+141 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -157,7 +157,7 @@
 
 ## THEORYs
 
-697 of the 1196.
+697 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -861,7 +861,7 @@
 
 ## ADRs
 
-12 of the 1196.
+13 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -874,13 +874,14 @@
 | 2026-11-07 | Proposed | [ADR-079](../../record/decisions.d/ADR-079.md) | 0 | 6 | 0 | Each directed relation is stored on one side only, the side a filer writes, and its converse is derived when the record is read; the sweep that removes the stored converses is this decision's demonstration |
 | 2026-11-07 | Proposed | [ADR-081](../../record/decisions.d/ADR-081.md) | 0 | 0 | 0 | The Pages site deploys at most once every two hours: a merge still triggers it, a gate skips the build when the last deploy is under two hours old or already published the commit, and a scheduled run every two hours publishes what the gate skipped |
 | 2026-11-08 | Proposed | [ADR-084](../../record/decisions.d/ADR-084.md) | 0 | 77 | 64 | A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again |
-| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 62 | 59 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
-| 2026-11-10 | Proposed | [ADR-087](../../record/decisions.d/ADR-087.md) | 0 | 39 | 39 | The readiness line is split in two: readiness keeps keeping a rare capability and reaching and paying for configurations under budgets; when transient support can be withdrawn becomes the line transient-support, because that part barely relates to the other two |
+| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 91 | 80 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
+| 2026-11-10 | Proposed | [ADR-087](../../record/decisions.d/ADR-087.md) | 0 | 44 | 44 | The readiness line is split in two: readiness keeps keeping a rare capability and reaching and paying for configurations under budgets; when transient support can be withdrawn becomes the line transient-support, because that part barely relates to the other two |
 | 2026-11-10 | Proposed | [ADR-086](../../record/decisions.d/ADR-086.md) | 0 | 0 | 0 | An entry shows the accounts that integrate it: `integrates` gets a derived converse, `integrated_by`, on every scheme an account can integrate, so a part of a line's argument is visible from its members and not only from the current-account view |
+| 2026-11-11 | Proposed | [ADR-088](../../record/decisions.d/ADR-088.md) | 0 | 26 | 26 | The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness |
 
 ## QUESTIONs
 
-6 of the 1196.
+6 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -893,7 +894,7 @@
 
 ## CLAIMs
 
-214 of the 1196.
+214 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1085,12 +1086,12 @@
 | 2026-10-31 | Proposed | [CLAIM-514](../../record/claims.d/CLAIM-514.md) | 0 | 4 | 3 | World-modeling is a family of resource-bounded capabilities for producing and using predictions about an environment's possibilities and consequences, each relative to a declared family of questions; a world model in the representational sense is one possible realization of them, competent behaviour can determine environmental structure without identifying any internal mechanism, and producing, maintaining and revising world-modeling capabilities are further achievements, not prerequisites of agency in general |
 | 2026-11-02 | Proposed | [CLAIM-541](../../record/claims.d/CLAIM-541.md) | 0 | 10 | 0 | Wu-wei is better read as control placed and timed where a system's own dynamics do most of the work than as the absence of control: Ott–Grebogi–Yorke control of chaos is a formal instance, in which small perturbations timed by the system's own wandering hold it on an unstable orbit, and the control, though small, continues for as long as the orbit is held; so reported effortlessness has at least three distinct sources, no conflict to override, conflict settled cheaply by learned accommodation, and conflict met as it arises by small well-timed feedback, which may feel alike and differ in mechanism |
 | 2026-11-03 | Proposed | [CLAIM-544](../../record/claims.d/CLAIM-544.md) | 0 | 13 | 2 | If a willed agent is the jurisdiction of its will-organization, then governing one's own governability is in part governing one's own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent's states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance |
-| 2026-11-04 | Proposed | [CLAIM-555](../../record/claims.d/CLAIM-555.md) | 0 | 29 | 2 | In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible |
+| 2026-11-04 | Proposed | [CLAIM-555](../../record/claims.d/CLAIM-555.md) | 0 | 30 | 3 | In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible |
 | 2026-11-04 | Proposed | [CLAIM-553](../../record/claims.d/CLAIM-553.md) | 0 | 28 | 9 | Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change |
 | 2026-11-04 | Proposed | [CLAIM-584](../../record/claims.d/CLAIM-584.md) | 0 | 7 | 0 | Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful |
-| 2026-11-05 | Proposed | [CLAIM-603](../../record/claims.d/CLAIM-603.md) | 0 | 91 | 0 | A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity |
+| 2026-11-05 | Proposed | [CLAIM-603](../../record/claims.d/CLAIM-603.md) | 0 | 90 | 0 | A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity |
 | 2026-11-05 | Proposed | [CLAIM-573](../../record/claims.d/CLAIM-573.md) | 0 | 12 | 0 | Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide |
-| 2026-11-06 | Proposed | [CLAIM-606](../../record/claims.d/CLAIM-606.md) | 0 | 15 | 3 | A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on |
+| 2026-11-06 | Proposed | [CLAIM-606](../../record/claims.d/CLAIM-606.md) | 0 | 22 | 3 | A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on |
 | 2026-11-06 | Proposed | [CLAIM-608](../../record/claims.d/CLAIM-608.md) | 0 | 7 | 7 | The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown |
 | 2026-11-07 | Proposed | [CLAIM-624](../../record/claims.d/CLAIM-624.md) | 0 | 66 | 4 | The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative |
 | 2026-11-07 | Proposed | [CLAIM-620](../../record/claims.d/CLAIM-620.md) | 0 | 31 | 5 | Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy |
@@ -1114,7 +1115,7 @@
 
 ## CASEs
 
-43 of the 1196.
+43 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1164,7 +1165,7 @@
 
 ## TERMs
 
-23 of the 1196.
+23 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1194,7 +1195,7 @@
 
 ## ARGs
 
-37 of the 1196.
+37 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1238,7 +1239,7 @@
 
 ## SYNTHESISs
 
-23 of the 1196.
+23 of the 1197.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1248,8 +1249,8 @@
 | 2026-11-07 | Proposed | [SYNTHESIS-016](../../record/syntheses.d/SYNTHESIS-016.md) | 0 | 9 | 4 | The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear |
 | 2026-11-07 | Proposed | [SYNTHESIS-012](../../record/syntheses.d/SYNTHESIS-012.md) | 0 | 5 | 3 | The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds |
 | 2026-11-07 | Proposed | [SYNTHESIS-017](../../record/syntheses.d/SYNTHESIS-017.md) | 0 | 5 | 3 | What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make |
+| 2026-11-10 | Proposed | [SYNTHESIS-032](../../record/syntheses.d/SYNTHESIS-032.md) | 0 | 19 | 17 | Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on |
 | 2026-11-10 | Proposed | [SYNTHESIS-027](../../record/syntheses.d/SYNTHESIS-027.md) | 0 | 18 | 16 | Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation |
-| 2026-11-10 | Proposed | [SYNTHESIS-032](../../record/syntheses.d/SYNTHESIS-032.md) | 0 | 18 | 16 | Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party's work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line's questions are replications of the readings it rests on |
 | 2026-11-10 | Proposed | [SYNTHESIS-020](../../record/syntheses.d/SYNTHESIS-020.md) | 0 | 16 | 16 | In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in |
 | 2026-11-10 | Proposed | [SYNTHESIS-024](../../record/syntheses.d/SYNTHESIS-024.md) | 0 | 16 | 14 | Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period's spending loses every transition that needs slack with no sign in output |
 | 2026-11-10 | Proposed | [SYNTHESIS-018](../../record/syntheses.d/SYNTHESIS-018.md) | 0 | 13 | 13 | A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired |

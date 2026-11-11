@@ -29,10 +29,10 @@ summary: >-
   integrated here directly. The first three parts are densely joined;
   [SYNTHESIS-tmprngy2](SYNTHESIS-tmprngy2.md)'s stored relations all point out of it. The withdrawal inquiry,
   once part of this line, has left it for transient-support ([ADR-087](../decisions.d/ADR-087.md),
-  [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md)). The account adds nothing of its own; its standing is its
+  [ADR-088](../decisions.d/ADR-088.md)). The account adds nothing of its own; its standing is its
   components'.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 ADR-085 ADR-tmpqp8c4 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 CLAIM-625 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 ADR-085 ADR-088 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 CLAIM-625 TERM-116 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-010 — Superseded; cited as the entries their claims returned to, and not integrated -->
 
 # SYNTHESIS-tmpoclez: The realizability line is four accounts, of reaching under resources, of budgeted individuation, of assembly and productive nucleation, and of persisting organized individuals, which meet at the separation of assembling, persisting and regenerating a form; the first three are densely joined, the persistence part points out and receives nothing, and no link between the parts that no part states passes the claim test
@@ -40,8 +40,8 @@ summary: >-
 *The account of the realizability line ("Resource-bounded realizability
 and individuation", [ADR-073](../decisions.d/ADR-073.md)), over the accounts of its four parts
 ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose `line` includes realizability
-after [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md) (2026-11-11): 98 entries through the parts, and
-[CLAIM-566](../claims.d/CLAIM-566.md) directly. [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md) gave [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-399](../questions.d/QUESTION-399.md) and the
+after [ADR-088](../decisions.d/ADR-088.md) (2026-11-11): 98 entries through the parts, and
+[CLAIM-566](../claims.d/CLAIM-566.md) directly. [ADR-088](../decisions.d/ADR-088.md) gave [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-399](../questions.d/QUESTION-399.md) and the
 withdrawal entries transient-support as their first line, and none keeps
 realizability. [SYNTHESIS-003](SYNTHESIS-003.md) carries the line and is Superseded by
 [CLAIM-611](../claims.d/CLAIM-611.md) ([ADR-084](../decisions.d/ADR-084.md)), which [SYNTHESIS-tmprngy2](SYNTHESIS-tmprngy2.md) integrates; [SYNTHESIS-010](SYNTHESIS-010.md) still lists
@@ -153,7 +153,7 @@ no component: [CASE-214](../cases.d/CASE-214.md), [QUESTION-405](../questions.d/
   questions on constraint architectures) gave subparts with more pairs
   across than within, so it is kept whole.
 - **The withdrawal inquiry has left.** In the review's first count it was
-  a part of its own, mostly closed by either measure; [ADR-tmpqp8c4](../decisions.d/ADR-tmpqp8c4.md) moved it
+  a part of its own, mostly closed by either measure; [ADR-088](../decisions.d/ADR-088.md) moved it
   to transient-support, where its account is [SYNTHESIS-032](SYNTHESIS-032.md).
 - **[SYNTHESIS-tmprngy2](SYNTHESIS-tmprngy2.md) receives no stored relation.** Its outgoing relations are
   [CLAIM-611](../claims.d/CLAIM-611.md)'s and [CLAIM-615](../claims.d/CLAIM-615.md)'s premises in [SYNTHESIS-tmpmm13o](SYNTHESIS-tmpmm13o.md), [SYNTHESIS-tmpj2fl0](SYNTHESIS-tmpj2fl0.md) and [CLAIM-566](../claims.d/CLAIM-566.md), and
