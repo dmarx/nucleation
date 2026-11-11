@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1261 document(s) awaiting a decision.**
+**1262 document(s) awaiting a decision.**
 
 ## LITs
 
-141 of the 1261.
+141 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -157,7 +157,7 @@
 
 ## THEORYs
 
-697 of the 1261.
+697 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -861,7 +861,7 @@
 
 ## ADRs
 
-14 of the 1261.
+15 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -874,15 +874,16 @@
 | 2026-11-07 | Proposed | [ADR-079](../../record/decisions.d/ADR-079.md) | 0 | 6 | 0 | Each directed relation is stored on one side only, the side a filer writes, and its converse is derived when the record is read; the sweep that removes the stored converses is this decision's demonstration |
 | 2026-11-07 | Proposed | [ADR-081](../../record/decisions.d/ADR-081.md) | 0 | 0 | 0 | The Pages site deploys at most once every two hours: a merge still triggers it, a gate skips the build when the last deploy is under two hours old or already published the commit, and a scheduled run every two hours publishes what the gate skipped |
 | 2026-11-08 | Proposed | [ADR-084](../../record/decisions.d/ADR-084.md) | 0 | 116 | 77 | A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again |
-| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 149 | 135 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
+| 2026-11-10 | Proposed | [ADR-085](../../record/decisions.d/ADR-085.md) | 0 | 151 | 137 | An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing |
 | 2026-11-10 | Proposed | [ADR-087](../../record/decisions.d/ADR-087.md) | 0 | 45 | 45 | The readiness line is split in two: readiness keeps keeping a rare capability and reaching and paying for configurations under budgets; when transient support can be withdrawn becomes the line transient-support, because that part barely relates to the other two |
 | 2026-11-10 | Proposed | [ADR-086](../../record/decisions.d/ADR-086.md) | 0 | 0 | 0 | An entry shows the accounts that integrate it: `integrates` gets a derived converse, `integrated_by`, on every scheme an account can integrate, so a part of a line's argument is visible from its members and not only from the current-account view |
 | 2026-11-11 | Proposed | [ADR-089](../../record/decisions.d/ADR-089.md) | 0 | 35 | 35 | Normative judgment about organizations becomes a line of its own, organizational-normativity, split from will-organization: whether an organization's own dynamics ground norms, and what judging one needs, is a question of its own, while acting as one stays, because its root question refines the line's own |
 | 2026-11-11 | Proposed | [ADR-088](../../record/decisions.d/ADR-088.md) | 0 | 31 | 27 | The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness |
+| 2026-11-11 | Proposed | [ADR-090](../../record/decisions.d/ADR-090.md) | 0 | 0 | 0 | A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses |
 
 ## QUESTIONs
 
-6 of the 1261.
+6 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -895,7 +896,7 @@
 
 ## CLAIMs
 
-222 of the 1261.
+222 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1124,7 +1125,7 @@
 
 ## CASEs
 
-43 of the 1261.
+43 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1174,7 +1175,7 @@
 
 ## TERMs
 
-23 of the 1261.
+23 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1204,7 +1205,7 @@
 
 ## ARGs
 
-37 of the 1261.
+37 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1248,7 +1249,7 @@
 
 ## SYNTHESISs
 
-78 of the 1261.
+78 of the 1262.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1337,4 +1338,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (135): [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [THEORY-1173](../../record/theory.d/THEORY-1173.md), [THEORY-1175](../../record/theory.d/THEORY-1175.md), [THEORY-1177](../../record/theory.d/THEORY-1177.md), [THEORY-1178](../../record/theory.d/THEORY-1178.md), [THEORY-1181](../../record/theory.d/THEORY-1181.md), [THEORY-1183](../../record/theory.d/THEORY-1183.md), [THEORY-1184](../../record/theory.d/THEORY-1184.md), [THEORY-1185](../../record/theory.d/THEORY-1185.md), [THEORY-1186](../../record/theory.d/THEORY-1186.md), [THEORY-1187](../../record/theory.d/THEORY-1187.md), [THEORY-1188](../../record/theory.d/THEORY-1188.md), [THEORY-1189](../../record/theory.d/THEORY-1189.md), [THEORY-1190](../../record/theory.d/THEORY-1190.md), [THEORY-1191](../../record/theory.d/THEORY-1191.md), [THEORY-1192](../../record/theory.d/THEORY-1192.md), [THEORY-1554](../../record/theory.d/THEORY-1554.md), [THEORY-1556](../../record/theory.d/THEORY-1556.md), [ADR-081](../../record/decisions.d/ADR-081.md), [LIT-2230](../../record/literature.d/LIT-2230.md), [LIT-2231](../../record/literature.d/LIT-2231.md), [LIT-2232](../../record/literature.d/LIT-2232.md), [LIT-2233](../../record/literature.d/LIT-2233.md), [LIT-2235](../../record/literature.d/LIT-2235.md), [LIT-2236](../../record/literature.d/LIT-2236.md), [LIT-2237](../../record/literature.d/LIT-2237.md), [LIT-2238](../../record/literature.d/LIT-2238.md), [LIT-2239](../../record/literature.d/LIT-2239.md), [LIT-2240](../../record/literature.d/LIT-2240.md), [LIT-2241](../../record/literature.d/LIT-2241.md), [LIT-2242](../../record/literature.d/LIT-2242.md), [LIT-2243](../../record/literature.d/LIT-2243.md), [LIT-2244](../../record/literature.d/LIT-2244.md), [LIT-2245](../../record/literature.d/LIT-2245.md), [LIT-2246](../../record/literature.d/LIT-2246.md), [LIT-2248](../../record/literature.d/LIT-2248.md), [LIT-2249](../../record/literature.d/LIT-2249.md), [LIT-2250](../../record/literature.d/LIT-2250.md), [LIT-2252](../../record/literature.d/LIT-2252.md), [LIT-2253](../../record/literature.d/LIT-2253.md), [LIT-2254](../../record/literature.d/LIT-2254.md), [LIT-2255](../../record/literature.d/LIT-2255.md), [LIT-2256](../../record/literature.d/LIT-2256.md), [LIT-2257](../../record/literature.d/LIT-2257.md), [LIT-2258](../../record/literature.d/LIT-2258.md), [LIT-2259](../../record/literature.d/LIT-2259.md), [LIT-2260](../../record/literature.d/LIT-2260.md), [LIT-2261](../../record/literature.d/LIT-2261.md), [LIT-2262](../../record/literature.d/LIT-2262.md), [LIT-2263](../../record/literature.d/LIT-2263.md), [LIT-2264](../../record/literature.d/LIT-2264.md), [LIT-2265](../../record/literature.d/LIT-2265.md), [LIT-2266](../../record/literature.d/LIT-2266.md), [LIT-2267](../../record/literature.d/LIT-2267.md), [LIT-2268](../../record/literature.d/LIT-2268.md), [LIT-2269](../../record/literature.d/LIT-2269.md), [LIT-2270](../../record/literature.d/LIT-2270.md), [ADR-086](../../record/decisions.d/ADR-086.md), [LIT-2271](../../record/literature.d/LIT-2271.md), [LIT-2272](../../record/literature.d/LIT-2272.md), [LIT-2273](../../record/literature.d/LIT-2273.md), [LIT-2274](../../record/literature.d/LIT-2274.md), [LIT-2275](../../record/literature.d/LIT-2275.md), [LIT-2276](../../record/literature.d/LIT-2276.md), [LIT-2277](../../record/literature.d/LIT-2277.md), [LIT-2278](../../record/literature.d/LIT-2278.md), [LIT-2279](../../record/literature.d/LIT-2279.md), [LIT-2280](../../record/literature.d/LIT-2280.md), [LIT-2281](../../record/literature.d/LIT-2281.md), [LIT-2282](../../record/literature.d/LIT-2282.md), [LIT-2283](../../record/literature.d/LIT-2283.md), [LIT-2284](../../record/literature.d/LIT-2284.md), [LIT-2285](../../record/literature.d/LIT-2285.md), [LIT-2286](../../record/literature.d/LIT-2286.md), [LIT-2287](../../record/literature.d/LIT-2287.md), [LIT-2288](../../record/literature.d/LIT-2288.md), [LIT-2289](../../record/literature.d/LIT-2289.md), [LIT-2290](../../record/literature.d/LIT-2290.md), [LIT-2291](../../record/literature.d/LIT-2291.md), [LIT-2292](../../record/literature.d/LIT-2292.md), [LIT-2294](../../record/literature.d/LIT-2294.md), [LIT-2295](../../record/literature.d/LIT-2295.md), [LIT-2296](../../record/literature.d/LIT-2296.md), [LIT-2297](../../record/literature.d/LIT-2297.md), [LIT-2298](../../record/literature.d/LIT-2298.md), [LIT-2299](../../record/literature.d/LIT-2299.md), [LIT-2300](../../record/literature.d/LIT-2300.md), [LIT-2301](../../record/literature.d/LIT-2301.md), [LIT-2302](../../record/literature.d/LIT-2302.md), [LIT-2303](../../record/literature.d/LIT-2303.md), [LIT-2304](../../record/literature.d/LIT-2304.md), [LIT-2305](../../record/literature.d/LIT-2305.md), [LIT-2306](../../record/literature.d/LIT-2306.md), [LIT-2307](../../record/literature.d/LIT-2307.md), [LIT-2308](../../record/literature.d/LIT-2308.md), [LIT-2309](../../record/literature.d/LIT-2309.md), [LIT-2310](../../record/literature.d/LIT-2310.md), [LIT-2311](../../record/literature.d/LIT-2311.md), [LIT-2312](../../record/literature.d/LIT-2312.md), [LIT-2313](../../record/literature.d/LIT-2313.md), [LIT-2314](../../record/literature.d/LIT-2314.md), [LIT-2315](../../record/literature.d/LIT-2315.md), [LIT-2316](../../record/literature.d/LIT-2316.md), [LIT-2317](../../record/literature.d/LIT-2317.md), [LIT-2318](../../record/literature.d/LIT-2318.md), [LIT-2319](../../record/literature.d/LIT-2319.md), [LIT-2320](../../record/literature.d/LIT-2320.md), [LIT-2321](../../record/literature.d/LIT-2321.md), [LIT-2322](../../record/literature.d/LIT-2322.md), [LIT-2323](../../record/literature.d/LIT-2323.md), [LIT-2324](../../record/literature.d/LIT-2324.md), [LIT-2325](../../record/literature.d/LIT-2325.md), [LIT-2326](../../record/literature.d/LIT-2326.md), [LIT-2327](../../record/literature.d/LIT-2327.md), [LIT-2328](../../record/literature.d/LIT-2328.md), [LIT-2329](../../record/literature.d/LIT-2329.md), [LIT-2330](../../record/literature.d/LIT-2330.md), [SYNTHESIS-049](../../record/syntheses.d/SYNTHESIS-049.md), [SYNTHESIS-066](../../record/syntheses.d/SYNTHESIS-066.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (136): [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [THEORY-1173](../../record/theory.d/THEORY-1173.md), [THEORY-1175](../../record/theory.d/THEORY-1175.md), [THEORY-1177](../../record/theory.d/THEORY-1177.md), [THEORY-1178](../../record/theory.d/THEORY-1178.md), [THEORY-1181](../../record/theory.d/THEORY-1181.md), [THEORY-1183](../../record/theory.d/THEORY-1183.md), [THEORY-1184](../../record/theory.d/THEORY-1184.md), [THEORY-1185](../../record/theory.d/THEORY-1185.md), [THEORY-1186](../../record/theory.d/THEORY-1186.md), [THEORY-1187](../../record/theory.d/THEORY-1187.md), [THEORY-1188](../../record/theory.d/THEORY-1188.md), [THEORY-1189](../../record/theory.d/THEORY-1189.md), [THEORY-1190](../../record/theory.d/THEORY-1190.md), [THEORY-1191](../../record/theory.d/THEORY-1191.md), [THEORY-1192](../../record/theory.d/THEORY-1192.md), [THEORY-1554](../../record/theory.d/THEORY-1554.md), [THEORY-1556](../../record/theory.d/THEORY-1556.md), [ADR-081](../../record/decisions.d/ADR-081.md), [LIT-2230](../../record/literature.d/LIT-2230.md), [LIT-2231](../../record/literature.d/LIT-2231.md), [LIT-2232](../../record/literature.d/LIT-2232.md), [LIT-2233](../../record/literature.d/LIT-2233.md), [LIT-2235](../../record/literature.d/LIT-2235.md), [LIT-2236](../../record/literature.d/LIT-2236.md), [LIT-2237](../../record/literature.d/LIT-2237.md), [LIT-2238](../../record/literature.d/LIT-2238.md), [LIT-2239](../../record/literature.d/LIT-2239.md), [LIT-2240](../../record/literature.d/LIT-2240.md), [LIT-2241](../../record/literature.d/LIT-2241.md), [LIT-2242](../../record/literature.d/LIT-2242.md), [LIT-2243](../../record/literature.d/LIT-2243.md), [LIT-2244](../../record/literature.d/LIT-2244.md), [LIT-2245](../../record/literature.d/LIT-2245.md), [LIT-2246](../../record/literature.d/LIT-2246.md), [LIT-2248](../../record/literature.d/LIT-2248.md), [LIT-2249](../../record/literature.d/LIT-2249.md), [LIT-2250](../../record/literature.d/LIT-2250.md), [LIT-2252](../../record/literature.d/LIT-2252.md), [LIT-2253](../../record/literature.d/LIT-2253.md), [LIT-2254](../../record/literature.d/LIT-2254.md), [LIT-2255](../../record/literature.d/LIT-2255.md), [LIT-2256](../../record/literature.d/LIT-2256.md), [LIT-2257](../../record/literature.d/LIT-2257.md), [LIT-2258](../../record/literature.d/LIT-2258.md), [LIT-2259](../../record/literature.d/LIT-2259.md), [LIT-2260](../../record/literature.d/LIT-2260.md), [LIT-2261](../../record/literature.d/LIT-2261.md), [LIT-2262](../../record/literature.d/LIT-2262.md), [LIT-2263](../../record/literature.d/LIT-2263.md), [LIT-2264](../../record/literature.d/LIT-2264.md), [LIT-2265](../../record/literature.d/LIT-2265.md), [LIT-2266](../../record/literature.d/LIT-2266.md), [LIT-2267](../../record/literature.d/LIT-2267.md), [LIT-2268](../../record/literature.d/LIT-2268.md), [LIT-2269](../../record/literature.d/LIT-2269.md), [LIT-2270](../../record/literature.d/LIT-2270.md), [ADR-086](../../record/decisions.d/ADR-086.md), [LIT-2271](../../record/literature.d/LIT-2271.md), [LIT-2272](../../record/literature.d/LIT-2272.md), [LIT-2273](../../record/literature.d/LIT-2273.md), [LIT-2274](../../record/literature.d/LIT-2274.md), [LIT-2275](../../record/literature.d/LIT-2275.md), [LIT-2276](../../record/literature.d/LIT-2276.md), [LIT-2277](../../record/literature.d/LIT-2277.md), [LIT-2278](../../record/literature.d/LIT-2278.md), [LIT-2279](../../record/literature.d/LIT-2279.md), [LIT-2280](../../record/literature.d/LIT-2280.md), [LIT-2281](../../record/literature.d/LIT-2281.md), [LIT-2282](../../record/literature.d/LIT-2282.md), [LIT-2283](../../record/literature.d/LIT-2283.md), [LIT-2284](../../record/literature.d/LIT-2284.md), [LIT-2285](../../record/literature.d/LIT-2285.md), [LIT-2286](../../record/literature.d/LIT-2286.md), [LIT-2287](../../record/literature.d/LIT-2287.md), [LIT-2288](../../record/literature.d/LIT-2288.md), [LIT-2289](../../record/literature.d/LIT-2289.md), [LIT-2290](../../record/literature.d/LIT-2290.md), [LIT-2291](../../record/literature.d/LIT-2291.md), [LIT-2292](../../record/literature.d/LIT-2292.md), [LIT-2294](../../record/literature.d/LIT-2294.md), [LIT-2295](../../record/literature.d/LIT-2295.md), [LIT-2296](../../record/literature.d/LIT-2296.md), [LIT-2297](../../record/literature.d/LIT-2297.md), [LIT-2298](../../record/literature.d/LIT-2298.md), [LIT-2299](../../record/literature.d/LIT-2299.md), [LIT-2300](../../record/literature.d/LIT-2300.md), [LIT-2301](../../record/literature.d/LIT-2301.md), [LIT-2302](../../record/literature.d/LIT-2302.md), [LIT-2303](../../record/literature.d/LIT-2303.md), [LIT-2304](../../record/literature.d/LIT-2304.md), [LIT-2305](../../record/literature.d/LIT-2305.md), [LIT-2306](../../record/literature.d/LIT-2306.md), [LIT-2307](../../record/literature.d/LIT-2307.md), [LIT-2308](../../record/literature.d/LIT-2308.md), [LIT-2309](../../record/literature.d/LIT-2309.md), [LIT-2310](../../record/literature.d/LIT-2310.md), [LIT-2311](../../record/literature.d/LIT-2311.md), [LIT-2312](../../record/literature.d/LIT-2312.md), [LIT-2313](../../record/literature.d/LIT-2313.md), [LIT-2314](../../record/literature.d/LIT-2314.md), [LIT-2315](../../record/literature.d/LIT-2315.md), [LIT-2316](../../record/literature.d/LIT-2316.md), [LIT-2317](../../record/literature.d/LIT-2317.md), [LIT-2318](../../record/literature.d/LIT-2318.md), [LIT-2319](../../record/literature.d/LIT-2319.md), [LIT-2320](../../record/literature.d/LIT-2320.md), [LIT-2321](../../record/literature.d/LIT-2321.md), [LIT-2322](../../record/literature.d/LIT-2322.md), [LIT-2323](../../record/literature.d/LIT-2323.md), [LIT-2324](../../record/literature.d/LIT-2324.md), [LIT-2325](../../record/literature.d/LIT-2325.md), [LIT-2326](../../record/literature.d/LIT-2326.md), [LIT-2327](../../record/literature.d/LIT-2327.md), [LIT-2328](../../record/literature.d/LIT-2328.md), [LIT-2329](../../record/literature.d/LIT-2329.md), [LIT-2330](../../record/literature.d/LIT-2330.md), [ADR-090](../../record/decisions.d/ADR-090.md), [SYNTHESIS-049](../../record/syntheses.d/SYNTHESIS-049.md), [SYNTHESIS-066](../../record/syntheses.d/SYNTHESIS-066.md) — these are the cheapest to close, since nothing depends on the answer.

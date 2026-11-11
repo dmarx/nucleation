@@ -1164,7 +1164,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-135 citations in 121 files await a look; 14 other citations of it are acknowledged.
+137 citations in 122 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:16`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:28`](../../record/arguments.d/ARG-055.md)
@@ -1256,6 +1256,8 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/claims.d/CLAIM-624.md:61`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-624.md:79`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-628.md:19`](../../record/claims.d/CLAIM-628.md)
+- [`record/decisions.d/ADR-090.md:56`](../../record/decisions.d/ADR-090.md)
+- [`record/decisions.d/ADR-090.md:79`](../../record/decisions.d/ADR-090.md)
 - [`record/questions.d/QUESTION-030.md:20`](../../record/questions.d/QUESTION-030.md)
 - [`record/questions.d/QUESTION-063.md:43`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-088.md:29`](../../record/questions.d/QUESTION-088.md)
