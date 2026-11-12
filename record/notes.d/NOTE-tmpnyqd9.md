@@ -112,7 +112,7 @@ canonical patch. The characterization is accurate as far as it goes; the
 use for schemas is A's transfer, not anything the survey discusses.
 
 - **The proposed schema-change study** (CASE-tmppm4do, proposed in pull
-  request #484 and not on this branch, seeded with CASE-131). Its specified
+  request [#484](https://github.com/dmarx/nucleation/issues/484) and not on this branch, seeded with [CASE-131](../cases.d/CASE-131.md)). Its specified
   outcomes, that B may raise support for A, that A does not depend on B,
   that A survives B's retirement, that renaming a scheme without changing
   its semantics leaves query results equivalent, are metamorphic relations
@@ -124,9 +124,9 @@ use for schemas is A's transfer, not anything the survey discusses.
   diverse ones approaches an oracle rests on one reported study with
   diversity undefined. And by §5.2 they are validation relations, drawn
   from what the record's users expect, not verification relations from a
-  specification. CASE-131 itself is a historical case the survey does not
+  specification. [CASE-131](../cases.d/CASE-131.md) itself is a historical case the survey does not
   bear on.
-- **CLAIM-266** (probes that supply an optimized system's training signal
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (probes that supply an optimized system's training signal
   cannot certify what it preserves). Consistent with it by analogy only:
   Challenge 2's relations mined from the program's own runs cannot certify
   that program, and §5.2's point that a relation's source decides what
@@ -134,11 +134,11 @@ use for schemas is A's transfer, not anything the survey discusses.
   probes, so no relation is written. Applied to the study, it suggests the
   hidden relations must not be visible to or derivable from the agents'
   own patches.
-- **QUESTION-tmps5iou** (proposed in #484: whether coupling schema change to
+- **QUESTION-tmps5iou** (proposed in [#484](https://github.com/dmarx/nucleation/issues/484): whether coupling schema change to
   governance does work that performance-gated evolution does not). The
   survey supplies a measuring tool for its "semantic correction without
   regressions" outcome and leaves the question open.
-- **ADR-tmppzz2h.** The work fits the word's first item, "testing and test
+- **[ADR-tmppzz2h](../decisions.d/ADR-tmppzz2h.md).** The work fits the word's first item, "testing and test
   oracles, metamorphic testing among them".
 
 ## Limitations

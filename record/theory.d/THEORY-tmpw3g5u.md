@@ -16,7 +16,7 @@ promote_when: >-
   of the relations as the reason. Nothing about how effective the method
   is, which the paper reports from other studies, is asked.
 summary: >-
-  The central account of LIT-tmp8v1tl, read in NOTE-tmpnyqd9 from the
+  The central account of [LIT-tmp8v1tl](../literature.d/LIT-tmp8v1tl.md), read in [NOTE-tmpnyqd9](../notes.d/NOTE-tmpnyqd9.md) from the
   authors' manuscript. It is the account the exchange "luria experiment
   design" leaned on, at A50 §11, when it proposed metamorphic relations as
   the hidden scorer of a change to a record's schema, and it carries the

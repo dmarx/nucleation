@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpnyqd9) from the authors' manuscript on the University of Wollongong's Research Online repository, hosted on Figshare (https://ro.uow.edu.au/articles/journal_contribution/Metamorphic_Testing_A_Review_of_Challenges_and_Opportunities/27764520, file https://ndownloader.figshare.com/files/50531136), a copy lawful under ADR-074. The University of Nottingham's accepted manuscript returned a Cloudflare challenge and UOW's older URL an AWS WAF challenge on 2026-11-12; neither was retried.
+  Read on 2026-11-12 ([NOTE-tmpnyqd9](../notes.d/NOTE-tmpnyqd9.md)) from the authors' manuscript on the University of Wollongong's Research Online repository, hosted on Figshare (https://ro.uow.edu.au/articles/journal_contribution/Metamorphic_Testing_A_Review_of_Challenges_and_Opportunities/27764520, file https://ndownloader.figshare.com/files/50531136), a copy lawful under [ADR-074](../decisions.d/ADR-074.md). The University of Nottingham's accepted manuscript returned a Cloudflare challenge and UOW's older URL an AWS WAF challenge on 2026-11-12; neither was retried.
 title: 'Metamorphic Testing: A Review of Challenges and Opportunities'
 version: 2
 history:
@@ -25,7 +25,7 @@ keywords:
 - metamorphic relation
 implementations: []
 summary: >-
-  Tsong Yueh Chen, Fei-Ching Kuo, Huai Liu, Pak-Lok Poon, Dave Towey, T. H. Tse and Zhi Quan Zhou (2018), ACM Computing Surveys 51(1), article 4, DOI 10.1145/3143561. A review by the originators of metamorphic testing: where no practical oracle checks one output, a program is checked against metamorphic relations, necessary properties of the target algorithm across two or more related inputs and their outputs. It formalizes the relations, corrects four common misreadings, and is explicit that the method alleviates the oracle problem and "can never completely solve it", since the relations are necessary, not sufficient. Read for the exchange "luria experiment design", where A proposed such relations as the hidden scorer of a change to a record's schema; the reading supports that use with three limits (NOTE-tmpnyqd9).
+  Tsong Yueh Chen, Fei-Ching Kuo, Huai Liu, Pak-Lok Poon, Dave Towey, T. H. Tse and Zhi Quan Zhou (2018), ACM Computing Surveys 51(1), article 4, DOI 10.1145/3143561. A review by the originators of metamorphic testing: where no practical oracle checks one output, a program is checked against metamorphic relations, necessary properties of the target algorithm across two or more related inputs and their outputs. It formalizes the relations, corrects four common misreadings, and is explicit that the method alleviates the oracle problem and "can never completely solve it", since the relations are necessary, not sufficient. Read for the exchange "luria experiment design", where A proposed such relations as the hidden scorer of a change to a record's schema; the reading supports that use with three limits ([NOTE-tmpnyqd9](../notes.d/NOTE-tmpnyqd9.md)).
 ---
 <!-- inactive-ok-file: ADR-tmppzz2h — Proposed; the decision this entry first applies -->
 <!-- inactive-ok-file: THEORY-tmpw3g5u — Proposed; the account this reading files -->
@@ -43,4 +43,4 @@ Tsong Yueh Chen, Fei-Ching Kuo, Huai Liu, Pak-Lok Poon, Dave Towey, T. H. Tse an
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§11), once ADR-tmppzz2h added `software-engineering`, and read the same day. A cited it as the oracle for scoring a change to a record's schema without one canonical patch. The reading bears on the proposed schema-change study of that exchange and on CLAIM-266, as NOTE-tmpnyqd9 sets out.
+Registered on 2026-11-12 from the exchange "luria experiment design" (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§11), once [ADR-tmppzz2h](../decisions.d/ADR-tmppzz2h.md) added `software-engineering`, and read the same day. A cited it as the oracle for scoring a change to a record's schema without one canonical patch. The reading bears on the proposed schema-change study of that exchange and on [CLAIM-266](../claims.d/CLAIM-266.md), as [NOTE-tmpnyqd9](../notes.d/NOTE-tmpnyqd9.md) sets out.

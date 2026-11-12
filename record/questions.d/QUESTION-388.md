@@ -124,8 +124,8 @@ A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-12: Kiczales et al., read
 
 Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin's
-"Aspect-oriented programming" (LIT-tmpeg56k, skimmed in NOTE-tmpds3ww;
-THEORY-tmpk9bmo), read as a weak stand-in for The Art of the Metaobject
+"Aspect-oriented programming" ([LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), skimmed in [NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md);
+[THEORY-tmpk9bmo](../theory.d/THEORY-tmpk9bmo.md)), read as a weak stand-in for The Art of the Metaobject
 Protocol, which no lawful copy reached. It bears on this question by
 analogy at one point. A reflective system gives "a base language and (one
 or more) meta-languages that provide control over the base language's

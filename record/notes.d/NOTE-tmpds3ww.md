@@ -66,7 +66,7 @@ system; base language and meta-language; metaobject protocol.
 
 ## Bearing on the record
 
-- **As a stand-in for LIT-tmpiyp1o.** Weak. It restates the general idea of
+- **As a stand-in for [LIT-tmpiyp1o](../literature.d/LIT-tmpiyp1o.md).** Weak. It restates the general idea of
   a meta-level controlling a language's own semantics and implementation,
   and cites the book's metaobject protocol as an instance. It does not
   restate that protocol, its explicit restrictions on users and
@@ -75,14 +75,14 @@ system; base language and meta-language; metaobject protocol.
   experiment design" (A50 §12), a system that exposes its own behaviour to
   modification through a meta-level interface, is covered only by §8.2's
   definition.
-- **QUESTION-388** (what distinguishes a programmable system from one that
+- **[QUESTION-388](../questions.d/QUESTION-388.md)** (what distinguishes a programmable system from one that
   governs its own reconfiguration). One point, by analogy: the authors
   found unbounded reflective access dangerous and bounded it with a
   narrower language that they designed. The more a meta-level can change,
   the more someone must fix what it may change, and here that someone is
   the language's designer, outside the system. The paper does not ask who
   should govern reconfiguration. Dated note on the question.
-- **CLAIM-469.** Leaves it open; nothing here concerns records or revision
+- **[CLAIM-469](../claims.d/CLAIM-469.md).** Leaves it open; nothing here concerns records or revision
   through use.
 
 ## Limitations

@@ -17,8 +17,8 @@ promote_when: >-
   goal of aspect-oriented programming. Nothing about the technique's
   effectiveness is asked.
 summary: >-
-  The central account of LIT-tmpeg56k, skimmed in NOTE-tmpds3ww as a weak
-  stand-in for The Art of the Metaobject Protocol. It bears on QUESTION-388
+  The central account of [LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), skimmed in [NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md) as a weak
+  stand-in for The Art of the Metaobject Protocol. It bears on [QUESTION-388](../questions.d/QUESTION-388.md)
   through §6.2: reflective access was judged too powerful to leave
   unbounded, and bounded by a language its designers wrote. Proposed until
   the paper is read in full.
@@ -41,7 +41,7 @@ to use", the authors bound it with a higher-level aspect language (§6.2).
 
 ## Bearing
 
-QUESTION-388: a precedent for bounding a meta-level's power by a narrower
+[QUESTION-388](../questions.d/QUESTION-388.md): a precedent for bounding a meta-level's power by a narrower
 language fixed by designers outside the system, which leaves the
 reconfiguration's criterion external. It does not address who should
 govern reconfiguration.
