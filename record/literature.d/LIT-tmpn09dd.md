@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §6. No reading was attempted.
+status: Active
 title: 'Financing dies in darkness? The impact of newspaper closures on public finance'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpf5h7u; account THEORY-tmp9nkgq. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,20 @@ first_author: 'Gao'
 keywords: []
 implementations: []
 summary: >-
-  Gao et al. (2020), DOI-10.1016/j.jfineco.2019.06.003. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §6. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md). In A's account, which is unverified until read, it finds municipal borrowing costs rose 5–11 basis points after local newspaper closures, consistent with weakened monitoring.
+  Gao et al. (2020), DOI-10.1016/j.jfineco.2019.06.003. Skimmed on
+  2026-11-12 in NOTE-tmpf5h7u: Using U.S. daily newspaper data (1996–2015;
+  1,596 newspapers in 1,266 counties; 296 exits) and municipal bond data
+  (MSRB, 1999–2015), the authors study the long-run effect of local
+  newspaper closures on municipal borrowing costs. Focusing on closures that
+  leave a county with two or fewer dailies (204 "Closure" counties), they
+  find offering yields rise by about 5.5 bp and secondary yields by 6.4 bp
+  three or more years after a closure, more for revenue bonds (about 10 bp),
+  costing about $650 thousand per average issue. Its account is
+  THEORY-tmp9nkgq. Registered from the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11), where A cited it at A33 §6.
 ---
+<!-- inactive-ok-file: NOTE-tmpf5h7u — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmp9nkgq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpn09dd: Financing dies in darkness? The impact of newspaper closures on public finance
@@ -29,8 +44,14 @@ Pengjie Gao, Chang Lee and Dermot Murphy (2020). "Financing dies in darkness? Th
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it finds municipal borrowing costs rose 5–11 basis points after local newspaper closures, consistent with weakened monitoring.
+Skimmed on 2026-11-12 (NOTE-tmpf5h7u). Evidence that the local press's
+monitoring of government has a measurable price in public finance, with
+several identification strategies, extending the media-and-governance
+literature from corporate to municipal finance.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §6. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
+
+Skimmed on 2026-11-12; the reading is NOTE-tmpf5h7u and its account
+THEORY-tmp9nkgq.

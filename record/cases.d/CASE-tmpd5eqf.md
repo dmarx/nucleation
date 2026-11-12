@@ -29,6 +29,7 @@ summary: >-
   investigating." Stipulated; a constructed case, not an allegation about
   any newsroom. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpf5h7u — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpifp69 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the duty of answerability the stipulated commitment would engage -->
@@ -102,3 +103,10 @@ demand to further cuts. Other held entries it bears on (found on recheck):
 From the reading in [NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md) ([LIT-tmpdq493](../literature.d/LIT-tmpdq493.md)), the reader's assessment as
 checked by the filer: **supports weakly**, by showing value that measured
 paid demand cannot register.
+
+## Note of 2026-11-12: Gao, Lee and Murphy, read
+
+From the reading in NOTE-tmpf5h7u (LIT-tmpn09dd), the reader's assessment as
+checked by the filer: the paper's anecdotes (Bell, California; Rocky
+Mountain News) illustrate the cost side of missing monitoring, not the
+case's demand-reading loop.

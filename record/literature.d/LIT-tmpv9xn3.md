@@ -58,3 +58,10 @@ not carry the taxonomy or the guidelines.
 From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](LIT-tmp14en7.md)), the reader's assessment as
 checked by the filer: the neighbour on the same question from the same
 exchange.
+
+## Note of 2026-11-12: Md Fahim Sikder, read
+
+From the reading in NOTE-tmppe0ip (LIT-tmppyl6o), the reader's assessment as
+checked by the filer: and **LIT-tmp14en7** ("Auditing Predictive Models for
+Intersectional Biases", Deferred) (found on recheck): the closest held
+works; FairCert would sit beside them.

@@ -55,3 +55,11 @@ Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitifica
 
 Skimmed on 2026-11-12; the reading is [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) and its account
 [THEORY-tmpua5s5](../theory.d/THEORY-tmpua5s5.md).
+
+## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
+
+From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+checked by the filer: Davoudabadi and colleagues build one multi-stakeholder
+recommender, balancing customers against provider capacity; this work
+remains the better general reference on how such systems should be
+evaluated.

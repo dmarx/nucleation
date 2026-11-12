@@ -1,0 +1,98 @@
+---
+status: Read
+paper: LIT-tmpnk945
+title: 'Étienne Brown — Recommended Selves: Authenticity and Algorithmic Filtering'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read: arXiv preprint
+    arXiv:2608.14602v1 [cs.CY], posted 2 Jul 2026, PDF,
+    `https://arxiv.org/pdf/2608.14602`, fetched 2026-11-12, converted with
+    pdftotext. Its first-page note: "Preprint. Please cite the published
+    version: Brown, Étienne. 2026. “Recommended Selves: Authenticity and
+    Algorithmic Filtering.” Journal of the American Philosophical
+    Association 12 (1): 15–34." - Read: abstract, introduction, §1 (minimal
+    account of authenticity), §2 (recommender systems overview), §3
+    (modelled preferences and frustrated desires), §4 (listening to
+    recommenders), §5 (optimizing for authenticity), §6 (conclusion),
+    footnotes. Skipped: references. Outcome as the reader gave it: **Read**
+    (in full, the author's arXiv preprint; references skipped). Not compared
+    line by line with the typeset version.
+date: '2026-11-12'
+summary: >-
+  Brown argues that recommender systems affect users' capacity to be their
+  authentic selves, both negatively and positively. He offers a "minimal",
+  multi-dimensional account of authenticity with two dimensions: volitional
+  alignment (Frankfurt, via Rings: acting on first-order desires one
+  reflectively endorses at second order) and self-understanding (an
+  epistemic dimension, relational rather than purely introspective: others'
+  testimony and recommendations are a source of self-knowledge).
+  Recommenders frustrate volitional alignment "by design", because they rank
+  on behavioural signals (clicks, dwell time) that, following Sen, cannot
+  reveal second-order desires; the manipulation and digital-addiction
+  literatures (Susser, Roessler and Nissenbaum; Allcott, Gentzkow and Song)
+  are cited as two forms of this. But recommenders can foster
+  self-understanding by showing users whom they behave like (the Hao and
+  Ellie House cases, users realizing their bisexuality), against Doyle's
+  objection to "listening to algorithms", which Brown limits to pure
+  deference. Opacity is the danger: the Farah case, where content is
+  recommended for location not behaviour and she draws a false conclusion
+  about herself. Remedies: user control (surveys, middleware, conversational
+  recommenders, LLM "attention guardians") for volitional alignment, and
+  explainable recommenders that say which similarity relation drove a
+  recommendation, for self-understanding; with a tension: too much control
+  may remove the encounters that prompt self-discovery.
+---
+<!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited as on the record -->
+
+# NOTE-tmpxfciy: Étienne Brown — Recommended Selves: Authenticity and Algorithmic Filtering
+
+## Contribution
+
+Puts the authenticity question to recommender systems with a two-dimension account, identifies a positive (self-understanding) as well as a negative (volitional misalignment) effect, and derives a specific requirement for explainability: users must be told what "similar" means in "similar users".
+
+## Key results
+
+1. Abstract: "recommender systems frustrate users’ second-order desires by relying on uninformative behavioral signals, they also facilitate self-understanding by inciting users to question their identity."
+2. §1: "authenticity is a multi-dimensional concept"; the two dimensions discussed are "volitional alignment and self-understanding".
+3. §1: "we must accept that succumbing to bad habits – even systematically so – is a way of not being ourselves."
+4. §1: "authenticity is relational as much as personal."
+5. §3: "recommender systems foster volitional misalignment by design as they rely on behavioral signals that poorly correlate with their users’ second-order desires."
+6. §4, against Doyle: Hao and House "use algorithmic recommendations to raise questions that the recommender cannot answer for them".
+7. §4: "obscure recommendations risk misleading them into entertaining delusions about themselves."
+8. §5: "explainable recommenders must allow the average user to comprehend which similarity relationships the model constructs."
+9. §5, the tension: "will implementing controls not diminish the likelihood of encounters that prompt users to question or revise their current desires?"
+10. §6: current recommenders "meaningfully prevent us from being ourselves. Yet, they also have the potential to help us understand who we are."
+
+## Assumptions
+
+- A Frankfurtian hierarchical account captures one dimension of authenticity; second-order desires are the reference for "who we really are" even when they fail to govern.
+- Behaviour underdetermines preference (Sen), so engagement signals cannot track second-order desires.
+- Self-knowledge can rationally be gained from actuarial similarity (Pettigrew), provided one does not purely defer.
+- Explainability and control are technically and commercially available, at least in principle.
+- No treatment of whether second-order desires can themselves be shaped or manipulated by the recommender.
+
+## Concepts
+
+Authenticity (multi-dimensional); volitional alignment; first- and second-order desires; self-understanding; relational authenticity; actuarial reasoning and reference classes; listening to algorithms / pure deference (Doyle); algorithmic folk theories; middleware; conversational recommenders; generative agents as "attention guardians"; explainable (white-box vs post hoc) recommenders; the control–self-discovery tension.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A's account ("asks whether recommender systems only satisfy preferences or shape the people users become, tying authenticity to self-understanding") is **accurate in spirit but incomplete**. Brown ties authenticity to two things, volitional alignment and self-understanding; the negative effect he argues for runs through volitional alignment (second-order desires frustrated), the positive one through self-understanding. The paper is not about recommenders shaping long-run preferences or identity formation causally; it is about what recommendations do to the fit between action and endorsed desire, and what they let users learn about themselves.
+
+- **SYNTHESIS-023** (the authenticity line: a will is the agent's own to the degree its commitments arise through, remain integrated with and are answerable to its constitutive organization; deferred because ownership criteria do not survive manipulation; non-domination of the processes that carry a commitment as candidate content for "integrated"): **leaves open; adds a relational-epistemic dimension the line lacks.** Brown's volitional alignment is the Frankfurtian hierarchy the line's ownership account goes beyond, and he does not address the manipulation objection that set the line aside (whether a recommender could shape the second-order desires themselves). His self-understanding dimension, relational and fed by others' (and systems') testimony, is a dimension the synthesis does not name: authenticity as partly knowing one's commitments, with the risk (Farah) that an opaque source produces false self-attributions. That bears on "answerable to": a commitment revised on a false reading of oneself is answerable to a mistaken model. It neither supports nor defeats the line's criteria.
+- **CLAIM-404** (governance from outside through the evidence an organization's procedures receive or through its criteria): **supports by analogy at the individual level, with a distinction.** Brown's Farah case is informational influence on a person's self-evaluation: the recommender changes the evidence (what content appears) and the person's own procedure draws the conclusion, falsely. His explainability remedy is a way to keep the evidence from carrying a hidden criterion (location read as behaviour). This is the informational route with no evaluative capture; it fits CLAIM-404's distinction. The paper does not discuss organizations or self-sustaining loops.
+- **QUESTION-071** (found on recheck: can a will-organization be manipulated without its present structure showing it; what history would tell a manipulated will from a merely effective one): Brown's explainability requirement is a partial, practical answer for one channel: record why each recommendation was made (which similarity relation), so that a self-attribution's origin can be checked.
+- **QUESTION-070** (found on recheck: manipulation by an organized whole with no member intending it): Brown's Netflix example (racial targeting as "a non-intentional emergent effect" of engagement optimization) is an instance.
+- **CLAIM-122** (found on recheck: will-organization is not one more higher-order preference; changing conditions of efficacy changes behaviour while preferences stay fixed): compatible. Brown's remedies (binding controls, cf. Allcott et al.'s self-imposed limits) change conditions of efficacy, not preferences.
+- **TERM-075** (found on recheck: attributed self, held, imagined, imagined audience or appropriated): Brown's Hao/House/Farah cases are cases of an appropriated self-attribution prompted by an algorithmic attribution; a possible example for the term.
+
+Searched record/ (batch ref) for the DOI and title, "Frankfurt", "second-order desire", "volitional alignment/wholehearted", "Susser", "Allcott", "explainab", "folk theor", "Schuster/Lazar", "self-understanding". Not held under another LIT. Related held entries: QUESTION-070, QUESTION-071, CLAIM-122, CLAIM-534, TERM-075, LIT-1002 ("Technology, autonomy, and manipulation", Active: the Susser, Roessler and Nissenbaum line Brown cites), LIT-1007 ("The Ethics of Manipulation", Active), LIT-291 (Compatibilism, Active; Frankfurt). Allcott, Gentzkow and Song (2022), Doyle (2024), Schuster and Lazar (2024) and Rings (2017) were not found as LITs by these searches.
+
+## Limitations
+
+Conceptual; the cases are hypothetical or anecdotal (House 2023); no empirical evidence about how often recommendations prompt true vs false self-attributions; the account is explicitly "minimal" (two dimensions only); the manipulation of second-order desires is not addressed; read from the preprint, not the typeset version.

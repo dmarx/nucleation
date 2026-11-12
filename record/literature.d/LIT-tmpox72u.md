@@ -1,10 +1,15 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §2. No reading was attempted.
+status: Active
 title: 'Negativity drives online news consumption'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpyh8fv; account THEORY-tmp593fy. Status
+    Active. The article type is a Registered Report (Stage 2); the Stage 1
+    protocol was accepted in principle on 2022-03-11. The analysis covers
+    12,448 headline tests.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +24,17 @@ first_author: 'Robertson'
 keywords: []
 implementations: []
 summary: >-
-  Robertson et al. (2023), DOI-10.1038/s41562-023-01538-4. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md). In A's account, which is unverified until read, it analyses 22,743 randomized Upworthy headline tests: each negative word raised click-through by about 2.3%.
+  Robertson et al. (2023), DOI-10.1038/s41562-023-01538-4. Read on
+  2026-11-12 in NOTE-tmpyh8fv: The authors use the Upworthy Research
+  Archive, randomized headline tests Upworthy ran on its own site (24
+  January 2013 to 14 April 2015), to estimate the causal effect of positive
+  and negative words on click-through rate (CTR). Within each test,
+  different headlines for the same story were randomly shown, so story
+  content is held fixed. Its account is THEORY-tmp593fy. Registered from the
+  exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
+  cited it at A33 §2.
 ---
+<!-- inactive-ok-file: THEORY-tmp593fy — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpox72u: Negativity drives online news consumption
@@ -29,8 +43,14 @@ Claire E. Robertson, Nicolas Pröllochs, Kaoru Schwarzenegger, Philip Pärnamets
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it analyses 22,743 randomized Upworthy headline tests: each negative word raised click-through by about 2.3%.
+Read on 2026-11-12 (NOTE-tmpyh8fv). A large-scale, field-randomized,
+pre-registered estimate that negative language in headlines causally raises
+clicking on news, separating consumption (private clicking) from sharing
+(public engagement) on which most earlier negativity work relied.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpyh8fv and its account
+THEORY-tmp593fy.

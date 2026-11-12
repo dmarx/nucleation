@@ -1,10 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A2 ("Where I'd start reading"). No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Where the
+  reader looked: Place — Result; OpenAlex record (W7221505957) — `is_oa:
+  false`, `oa_status: closed`, `any_repository_has_fulltext: false`;
+  locations only doi.org and PubMed; Europe PMC (PMID 42862022) — not in
+  PMC; "Subscription required" via DOI only; arXiv / author or institutional
+  pages — not searched exhaustively; OpenAlex lists no repository copy;
+  https://doi.org/10.1093/sxmrev/qeag075 (OUP) — subscription; not fetched.
+  A neighbour was read in its place: LIT-tmp5c0j0, which stands in only in
+  part (see "Standing in the record").
 title: 'Ethics of male circumcision in minors: a scoping review of parental authority, adolescent involvement, and implications for sexual medicine practice and policy'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). No lawful full text was found
+    (ADR-041); an abstract, where seen, is not a reading.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -40,3 +54,18 @@ Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitifica
 From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](LIT-tmp4zfda.md)), the reader's assessment as
 checked by the filer: and **[LIT-tmpapwfu](LIT-tmpapwfu.md)** (Millum, "No Right to an Open
 Future", branch, unread): the nearest neighbours on both sides.
+
+Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmp5c0j0. The
+reader on how far it stands in: - **Read:** Dræbel, Sørensen and Meyrowitsch
+(2025), "Meaning and value attributed to non-therapeutic circumcision of
+boys among Danish parents of Jewish Origin: The formation of parents and
+families", *Journal of Migration and Health* 12: 100366, DOI
+10.1016/j.jmh.2025.100366, PMC12557608 (report
+`LIT-tmpmeavd__neighbour-draebel-danish-jewish-parents.md`). - **How far it
+stands in:** narrowly. It is one qualitative study (20 parents) in one of
+the review's five contexts (religious/cultural, family-preference), on one
+of its six themes (parental authority, here as family identity formation).
+It does not stand in for the review's breadth, typology or recommendations.
+No open-access ethics review of comparable scope was found in a Europe PMC
+search of open-access titles (circumcision AND ethic* AND
+child/minor/infant/neonate/boys, 2018–2026).

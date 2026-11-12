@@ -42,7 +42,6 @@ summary: >-
   recovery is not evidence of the threshold.
 ---
 <!-- inactive-ok-file: CASE-tmpd5eqf — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmpp1gq8 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 
 # CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
@@ -178,3 +177,15 @@ indexed to outlet presence may miss hollowed titles; no hysteresis is shown.
 From the reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) ([LIT-tmp5c2gi](../literature.d/LIT-tmp5c2gi.md)), the reader's assessment as
 checked by the filer: and the "lock-in" thesis (result 7): a policy-level
 assertion of path dependence, not a demonstration.
+
+## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
+
+From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+checked by the filer: **qualifies / leaves open.** The asymmetry is
+suggestive of the claim's pattern (removing the algorithm does not undo its
+effect, because follows formed under it keep supplying the same content),
+but: (a) what persists is a changed *state* (follows, attitudes), not a lost
+*capacity*; (b) the off arm is not the same people returned to the old
+condition; (c) 7 weeks, no threshold or bistability shown. It is an
+empirical illustration of path dependence via a self-reinforcing channel,
+not evidence for the claim's threshold structure.

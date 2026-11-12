@@ -205,3 +205,10 @@ record is their likely home; none is filed here.
 - **J. W. Du Bois**, "The stance triangle" (2007), held as [LIT-779](../literature.d/LIT-779.md).
 - **F. C. Bartlett**, *Remembering* (1932), held as [LIT-768](../literature.d/LIT-768.md) (Deferred,
   unread).
+
+## Note of 2026-11-12: Robertson et al., read
+
+From the reading in NOTE-tmpyh8fv (LIT-tmpox72u), the reader's assessment as
+checked by the filer: a neighbouring negativity-bias result in a different
+behaviour (recall/transmission vs consumption). Compatible; the authors'
+consumption-vs-sharing distinction is a reason not to merge the two.

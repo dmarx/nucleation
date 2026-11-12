@@ -125,3 +125,10 @@ From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda]
 checked by the filer: provenance mapping in the question's 2026-11-12 note:
 the paper's "right in trust" is maintenance by others of a right whose
 formation and exercise are reserved to the child.
+
+## Note of 2026-11-12: Dræbel, Sørensen and Meyrowitsch, read
+
+From the reading in NOTE-tmp1hpuh (LIT-tmp5c0j0), the reader's assessment as
+checked by the filer: the parents' account is of an authorization formed by
+others (parents, community) in order to form the child's membership, the
+case the question's note calls formation by another.

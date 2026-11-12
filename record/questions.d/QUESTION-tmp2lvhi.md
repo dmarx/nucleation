@@ -141,3 +141,26 @@ what Millum ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)) disputes. Its rest
 rests on that anatomy's social meaning, so it does not offer a general
 account of surrogate authority. Other held entries it bears on (found on
 recheck):
+
+## Note of 2026-11-12: Dræbel, Sørensen and Meyrowitsch, read
+
+From the reading in NOTE-tmp1hpuh (LIT-tmp5c0j0), the reader's assessment as
+checked by the filer: **bears on "the relation between them" as a candidate
+ground, descriptively.** Parents here justify their authority not by the
+child's welfare or projected wishes but by the relation (enrolling the son
+in a family and community, continuity of identity). That is evidence of how
+one class of surrogate deciders understands their authority, not an argument
+that the relation legitimates it; the paper does not discuss the child's
+later view, consent or assent (one passing mention of consent, which
+concerns interviewees).
+
+## Note of 2026-11-12: Reisinger and Cederroth, read
+
+From the reading in NOTE-tmpzvur2 (LIT-tmp78hbp), the reader's assessment as
+checked by the filer: slight. The editorial treats the decision as the
+family's ("families that choose or decline gene therapy") and makes the
+clinical pathway time-pressed (diagnose before implanting), which narrows
+the window in which parents decide for an infant; it names the Deaf
+community as a party whose perspective should be in the foreground, which
+bears on whether the child's "welfare" is a neutral ground. No argument
+about legitimacy of surrogate authority.

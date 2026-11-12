@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §4. No reading was attempted.
+status: Active
 title: 'Introducing a predictive-oriented multi-stakeholder recommender system model'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp64zjh; account THEORY-tmpqc85l. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,18 @@ first_author: 'Davoudabadi'
 keywords: []
 implementations: []
 summary: >-
-  Davoudabadi et al. (2026), DOI-10.1038/s41598-026-37793-4. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §4. It bears on [CLAIM-347](../claims.d/CLAIM-347.md). In A's account, which is unverified until read, it is a model in which users' changing expectations and organizations' operational requirements both enter recommender design.
+  Davoudabadi et al. (2026), DOI-10.1038/s41598-026-37793-4. Read on
+  2026-11-12 in NOTE-tmp64zjh: The authors propose a recommender that scores
+  each candidate item for a user by combining (a) a user-side score and (b)
+  an organization-side score. User side: a reference point built from the
+  user's peak and most recent purchase utilities (peak-end rule), item
+  distances to it split into gains and losses with a prospect-theory-style
+  value function (the EXPTODIM method), and a "user flexibility" index from
+  the diversity of the user's past purchases. Its account is
+  THEORY-tmpqc85l. Registered from the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11), where A cited it at A42 §4.
 ---
+<!-- inactive-ok-file: THEORY-tmpqc85l — Proposed; filed from the same exchange -->
 
 # LIT-tmporx78: Introducing a predictive-oriented multi-stakeholder recommender system model
 
@@ -28,8 +41,14 @@ Reza Davoudabadi, Ahmad Makui and Mohammad R. Rasouli (2026). "Introducing a pre
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it is a model in which users' changing expectations and organizations' operational requirements both enter recommender design.
+Read on 2026-11-12 (NOTE-tmp64zjh). A scoring scheme in which an
+organization's operational state, and both parties' "flexibility", set the
+trade-off between user preference and organizational need, intended to steer
+demand toward items the organization can supply.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §4. It bears on [CLAIM-347](../claims.d/CLAIM-347.md).
+
+Read on 2026-11-12; the reading is NOTE-tmp64zjh and its account
+THEORY-tmpqc85l.

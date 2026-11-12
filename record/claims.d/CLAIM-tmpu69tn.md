@@ -186,3 +186,12 @@ checked by the filer: **supports** that one organism's injected factors
 (including domesticated viruses) govern another's development and feeding
 through the host's own endocrine machinery; the regulation serves the
 parasitoid.
+
+## Note of 2026-11-12: Kara et al., read
+
+From the reading in NOTE-tmp0oc9n (LIT-tmppy4yb), the reader's assessment as
+checked by the filer: bears as an example. The authors' framing ("the fetus
+assists in protecting the mother's heart") is an interest attribution the
+experiment does not test; the cells' origin is foreign, their effect
+plausibly serves the host. It illustrates the claim's separation of the
+three questions; it neither supports nor qualifies it beyond that.

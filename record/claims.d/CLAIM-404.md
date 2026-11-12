@@ -124,7 +124,6 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-tmpvj6mw — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpifp69 CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmpp1gq8 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1324 LIT-1332 — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->
@@ -357,16 +356,29 @@ boundary, with a third route, execution, beside evidence and criteria
 ([CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md), [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md)); to platforms that shape the evidence a user
 reads and then read the user's induced behaviour as preference (A23 §3, see
 the note on [CLAIM-342](CLAIM-342.md)); and to newsrooms governed through "resource
-dependencies" rather than instructions ([CLAIM-tmpifp69](CLAIM-tmpifp69.md)). A23 §2 adds a
-temporal point from the X feed experiment ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md), unread): accounts
-followed under the algorithm stayed followed after it was switched off, so
-the evidence channel outlives the steering. No status change.
+dependencies" rather than instructions ([CLAIM-tmpifp69](CLAIM-tmpifp69.md)). A23 §2 adds a temporal point from the X feed experiment (LIT-tmpp1gq8,
+unread when this note was written): accounts followed under the algorithm
+stayed followed after it was switched off, so the evidence channel outlives
+the steering. No status change.
+
+Correction of 2026-11-12, after the reading (NOTE-tmp76oz9): "stayed
+followed after it was switched off" reads as the same people failing to
+reverse, and the experiment does not show that. Those switched off were
+users who had chosen the algorithmic feed, a different population from those
+switched on, and the authors name selection as a possible contributor. The
+persistence is inferred by comparing groups, not observed as a non-reversal
+in the same users. The point that the evidence channel can outlive the
+steering stands as the authors' interpretation, not as a measured
+within-person effect.
 
 ## Note of 2026-11-12: Neighbour of [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md) — Sabour, Liu et al., read
 
-From the reading in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md)
-([LIT-tmpbye08](../literature.d/LIT-tmpbye08.md)), the reader's assessment
-as checked by the filer: supports (see parent report).
+From the reading in NOTE-tmpfoqe6 (LIT-tmpbye08), the reader's assessment as
+checked by the filer: supports, as an individual-level instance.
+Participants' own evaluation procedures were steered by what a covertly
+instructed adviser supplied, while they judged the adviser helpful, so the
+steering was not visible from inside. The scenarios were hypothetical and
+low-stakes.
 
 ## Note of 2026-11-12: The transaction test: An experimental method for assessing online interfaces (Bogliacino, Pejsachowicz, Liva, Lupiáñez-Villanueva 2026), read
 
@@ -408,3 +420,38 @@ are an instance, theorised not measured.
 From the reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) ([LIT-tmp5c2gi](../literature.d/LIT-tmp5c2gi.md)), the reader's assessment as
 checked by the filer: Radsch's "referral traffic" as the governing valuation
 benchmark set by the platform is close to the criteria route.
+
+## Note of 2026-11-12: Étienne Brown, read
+
+From the reading in NOTE-tmpxfciy (LIT-tmpnk945), the reader's assessment as
+checked by the filer: **supports by analogy at the individual level, with a
+distinction.** Brown's Farah case is informational influence on a person's
+self-evaluation: the recommender changes the evidence (what content appears)
+and the person's own procedure draws the conclusion, falsely. His
+explainability remedy is a way to keep the evidence from carrying a hidden
+criterion (location read as behaviour). This is the informational route with
+no evaluative capture; it fits CLAIM-404's distinction. The paper does not
+discuss organizations or self-sustaining loops.
+
+## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
+
+From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+checked by the filer: **supports, as an instance of the informational route
+with a self-sustaining channel, with a caveat.** The algorithm changes what
+users see without dictating any belief; attitudes moved without partisanship
+moving; and the authors' mechanism (algorithm-induced follows persisting in
+the chronological feed) is exactly "the evidence channel outlives the
+steering", the note CLAIM-404 already carries. The caveat to add: the
+persistence is inferred across populations (switch-off arm is users who had
+chosen the algorithm), not observed as reversal in the same users; the
+authors name unobserved selection as a possible contributor. The paper does
+not separate informational from evaluative influence (no measure of
+criteria), so it bears on the informational route only.
+
+## Note of 2026-11-12: Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read
+
+From the reading in NOTE-tmpn7tu4 (LIT-tmpu8oxs), the reader's assessment as
+checked by the filer: an instance of the informational route: platforms
+shape which news reaches audiences and, through dependency, editorial
+choices, without dictating them; outlets' editorial-algorithm committees
+(Interviewee 40) are an internal counterweight.

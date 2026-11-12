@@ -284,3 +284,10 @@ evidence comes to pass through the interpretation: users the product serves
 worst leave the population it observes ([CLAIM-tmphgjbz](CLAIM-tmphgjbz.md)). And a newsroom that
 funds investigations by their measured demand sees no demand for those it no
 longer funds ([CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)). Supports; no status change.
+
+## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
+
+From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+checked by the filer: bears as an empirical example of evidence selection
+persisting through user follows; supportive in spirit, without any test of
+lock-in.

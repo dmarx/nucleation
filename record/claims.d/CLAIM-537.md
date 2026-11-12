@@ -136,3 +136,15 @@ robust-feasibility machinery", rightly, since it is this claim's ∀∃ against
 ∃∀. Its use: an institution can act defensibly across reasonable
 interpretations without choosing among them exactly when the demand set is
 in K_uniform ([QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)). No new claim filed.
+
+## Note of 2026-11-12: Md Fahim Sikder, read
+
+From the reading in NOTE-tmppe0ip (LIT-tmppyl6o), the reader's assessment as
+checked by the filer: **leaves open; a statistical analogue only.** FairCert
+certifies a tolerance (|gap| ≤ ε) under sampling uncertainty, and whether a
+classifier can be *certified* depends on what the auditor can observe
+(per-group negatives), not only on the true gap: the same distinction
+between a property holding and its being selectable/checkable on what one
+can read. But the paper has no graph, cycles, offsets or adjustable vs
+non-adjustable configurations; the mapping is by analogy, and the filer
+should not cite it as support for the claim's conditions.

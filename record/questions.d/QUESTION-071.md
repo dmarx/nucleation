@@ -267,3 +267,11 @@ The question stays open.
 - **The same problem for one act.** On Sánchez-Cañizares's irruption model
   ([NOTE-1506](../notes.d/NOTE-1506.md), p. 15), a change of mind-set parameter cannot be told from one
   set by a stimulus, by internal dynamics or by another party.
+
+## Note of 2026-11-12: Étienne Brown, read
+
+From the reading in NOTE-tmpxfciy (LIT-tmpnk945), the reader's assessment as
+checked by the filer: Brown's explainability requirement is a partial,
+practical answer for one channel: record why each recommendation was made
+(which similarity relation), so that a self-attribution's origin can be
+checked.

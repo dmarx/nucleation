@@ -72,3 +72,10 @@ reflection, revision, and comparison with alternatives".
 Not run, and the arms are A's sketches. A31 §9's caution applies: no
 experiment may induce harmful spending. The method's source,
 [LIT-tmpj7u27](../literature.d/LIT-tmpj7u27.md), is unread.
+
+## Note of 2026-11-12: Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel, read
+
+From the reading in NOTE-tmp4nq1v (LIT-tmpls9sm), the reader's assessment as
+checked by the filer: this paper supplies a candidate inventory of game
+mechanics for that study's treatment variables (no spending limits, pay to
+skip, daily rewards); it does not measure efficacy of commitments.

@@ -80,3 +80,10 @@ Proposed. The inference holds for the premise and not, as it stands, for
 the thesis. The claim says "bears on", which is the strength the evidence
 supports. Reading the Immunity paper and the brain preprint is the next
 step either way.
+
+## Note of 2026-11-12: Kara et al., read
+
+From the reading in NOTE-tmp0oc9n (LIT-tmppy4yb), the reader's assessment as
+checked by the filer: same bearing; it adds a fetal-to-maternal direction
+and a functional (repair) case to an argument built mainly on
+maternal-to-offspring cells.

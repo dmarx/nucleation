@@ -430,3 +430,26 @@ They do not have CLAIM-347's sharp edge: they allow converting metrics to
 constraints or weights, and say nothing on comparing systems with different
 stakeholder sets (CLAIM-347's "dropping or suppressing a demand is not
 relief").
+
+## Note of 2026-11-12: Rockström, Denton, Norström et al., read
+
+From the reading in NOTE-tmpyn25j (LIT-tmpmcbfb), the reader's assessment as
+checked by the filer: the recapped result that meeting minimum access for
+the poorest "would cause further transgressions" under current inequality is
+a case of jointly unsatisfiable demands (floor vs ceiling) for given
+conditions, and the Commission's remedy is reorganization (redistribution,
+technology), i.e. relief in CLAIM-347's sense, not dropping a demand.
+Illustrative only; no ordinal analysis.
+
+## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
+
+From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+checked by the filer: **leaves open; serves at most as a contrast case.**
+The model resolves user–organization conflict by a weighted sum whose
+weights are set by "flexibility", i.e. by discounting whichever party can
+bend. In CLAIM-347's terms that is suppression by weighting, not relief: the
+set of jointly satisfiable demands is not enlarged, the user's demand is
+down-weighted when the user is judged flexible. The paper offers no ordinal
+or complex-based account, and it does not measure whether the steered user
+is satisfied. It is an example of the practice the claim distinguishes from
+relief, not evidence for or against the claim.

@@ -42,6 +42,7 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
+<!-- inactive-ok-file: NOTE-tmpf5h7u — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdcebe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
@@ -190,3 +191,64 @@ mechanism: the paper does not study attention-based revenue, ranking, or
 clickbait, and attributes the decline to lost advertising revenue (citing
 Angelucci and Cagé), which is the rival CLAIM-tmpifp69's `defeated_if`
 names.
+
+## Note of 2026-11-12: Gao, Lee and Murphy, read
+
+From the reading in NOTE-tmpf5h7u (LIT-tmpn09dd), the reader's assessment as
+checked by the filer: **supports the externality step (step 2) and bears on
+the claim's defeater; does not bear on attention optimization.** The paper
+measures a public value of local news that the newspaper does not capture:
+taxpayers pay about $650 thousand more per bond issue after closure, a cost
+borne by people who were not (or not all) subscribers. That is exactly the
+"value falls largely to people who never pay" premise, quantified for one
+channel (accountability reporting on local government). It also bears on the
+claim's strongest rival (A33 §10: loss of investigative capacity reflects
+collapse of older advertising subsidies): the paper's instrument is
+Craigslist's erosion of classified advertising, i.e. the advertising-subsidy
+collapse itself causes the closures whose costs it measures. So it supports
+the rival's account of *why* papers close, not the claim's
+attention-optimization account; the claim's defeater (attention dependence,
+apart from subsidy collapse, predicting capacity loss) is untouched. The
+paper is about closure, not clickbait.
+
+## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
+
+From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+checked by the filer: only loosely; this is a recommender that openly lets
+supply-side state steer what users are offered, a benign
+manufacturing-capacity version of the steering those claims are about.
+
+## Note of 2026-11-12: Robertson et al., read
+
+From the reading in NOTE-tmpyh8fv (LIT-tmpox72u), the reader's assessment as
+checked by the filer: **supports step 1 narrowly (selection at the level of
+packaging), leaves the rest open.** The paper shows a reliable, causal
+incentive for negative wording at the headline level, and that a firm
+optimizing CTR by A/B testing would select for it: the mechanism the claim's
+first step names. It says nothing about assignments, beats, retained
+capabilities or investigative journalism, externality or missing demand
+(steps 2–3), nor about the claim's defeater (attention-revenue dependence
+predicting loss of reporting capacity). Two details bear on the claim's
+edge: the decline of CTR with platform age (optimized packaging loses force
+as readers habituate) and the null for anger (the outrage-clickbait picture
+is not what drives private clicking here). Use: grounds for "optimization on
+clicks favours negative framing", not for "works against investigative
+journalism".
+
+## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
+
+From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+checked by the filer: the feed demotes news-organization posts by 58% and
+raises engagement, consistent with the claims' selection picture at the
+distribution layer; no bearing on investigative capacity.
+
+## Note of 2026-11-12: Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read
+
+From the reading in NOTE-tmpn7tu4 (LIT-tmpu8oxs), the reader's assessment as
+checked by the filer: **supports the mechanism qualitatively, at the
+distribution level.** Interviewees and cited work report that platform
+visibility rewards engagement and leaves low-engagement news (local
+politics) invisible, and that AI is adopted partly for audience retention
+and revenue. It also fits the claim's own correction that metrics do not
+mechanically decide: some outlets refuse personalization and public-service
+media design recommenders for diversity. Nothing on investigative capacity.

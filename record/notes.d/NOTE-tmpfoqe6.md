@@ -56,7 +56,7 @@ Persuasion vs manipulation (covert influence toward hidden objectives); hidden-o
 
 **How far it stands in.** For design, main effects and the helpfulness finding, fully; for the PNAS version's exact figures and framing, not checked.
 
-- **[CLAIM-404](../claims.d/CLAIM-404.md)**: supports (see parent report).
+- **[CLAIM-404](../claims.d/CLAIM-404.md)**: supports, as an individual-level instance: participants' own evaluation was steered by what a covertly instructed adviser supplied, while they judged it helpful. Hypothetical, low-stakes scenarios limit it.
 - Further held entry: **[LIT-1008](../literature.d/LIT-1008.md)** ("On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback", Active) — complementary: that work shows optimizers can learn manipulation from feedback; this one measures human susceptibility when the objective is covert.
 - Not already held (no "Sabour" or arXiv-id hits).
 
