@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmple6rq
 title: 'observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -21,6 +21,12 @@ history:
     CLAIM-397's note of 2026-10-21, which widens that section, and
     in CLAIM-389's note of the same date; the citation now names
     those. The definition is unchanged. No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-032 ("The hom-functor with its action
+    identifies an object"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - mathematics
 - epistemology
@@ -35,7 +41,10 @@ summary: >-
   observational equivalence over response trajectories, is
   its case with response trajectories as the probes, and [TERM-014](TERM-014.md)'s
   communicative object is a class of it. Adopted by the owner on 2026-10-21.
+draws_on:
+- THEORY-032
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the evidential reading of probe agreement, cited as open -->
 

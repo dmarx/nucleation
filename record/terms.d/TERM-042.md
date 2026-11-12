@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpgok7x
 title: 'communicative object, as a context-indexed system of empirical constraints over a cover'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -16,6 +16,13 @@ history:
     the general covers, is Rejected. The sentence now cites CbD 2.0
     (LIT-831) for that case, as CLAIM-037's note of 2026-10-29 does. No
     other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-012 ("the family is an empirical model in
+    Abramsky and Brandenburger's sense") and THEORY-168 ("there
+    the two can give different verdicts"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - contextuality
 - philosophy-of-language
@@ -28,7 +35,11 @@ summary: >-
   distributions with their restrictions. Whether it is compatible on
   overlaps and whether it extends globally are things to find out, not
   part of the definition.
+draws_on:
+- THEORY-012
+- THEORY-168
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed; cited for its note on which version of Contextuality-by-Default to cite -->
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
 

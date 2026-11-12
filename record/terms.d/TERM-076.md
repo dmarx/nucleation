@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp8gbrt
 title: 'goal-conduciveness valence, organizational: a regime in which the negotiation among a system''s perspectives has, approximately, a potential, an ordering of the system''s own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation''s decisions follow it rather than any rival ordering'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -29,6 +29,18 @@ history:
     negotiation's record shows it, not all ambivalence, the narrowing
     CLAIM-451 made to CLAIM-440's consequence 4, which this term's
     bullet carries. The definition is unchanged. No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-045 ("a regulatory state's meaning "for
+    staying alive""), THEORY-055 ("Frijda's three marks of control
+    precedence"), THEORY-101 ("Veit's thesis"), THEORY-324 ("its
+    essential variables in Ashby's sense"), THEORY-628 ("the
+    graded norm of Di Paolo's adaptivity"), THEORY-893 ("tracks
+    'wanting', not 'liking'"), THEORY-894 ("kept as a measure of
+    cardinal inconsistency") and THEORY-896 ("exactly that no
+    chain of winning moves cycles"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - emotion-and-affect
 - motivation
@@ -49,7 +61,17 @@ summary: >-
   precedence ([THEORY-055](../theory.d/THEORY-055.md)); the kind of ordering is one over the system's
   own states by their bearing on its maintenance. Functional: it says
   nothing about whether the regime is felt.
+draws_on:
+- THEORY-045
+- THEORY-055
+- THEORY-101
+- THEORY-324
+- THEORY-628
+- THEORY-893
+- THEORY-894
+- THEORY-896
 ---
+<!-- inactive-ok-file: THEORY-045 THEORY-055 THEORY-101 THEORY-628 THEORY-893 ADR-tmpcd2gu — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1462 — Unavailable or Proposed; Monderer and Shapley, read second-hand, and its reading -->
 <!-- inactive-ok-file: LIT-1437 — Unavailable, abstract only; Fontaine et al. 2007, cited for the dimension it names -->

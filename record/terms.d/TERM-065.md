@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpdxajb
 title: 'effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description''s adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -27,6 +27,14 @@ history:
     adoption, said the term would add a name for what CLAIM-152,
     CLAIM-302, CLAIM-387 and THEORY-424 relativize to. Adopted
     since version 3, it now says it adds one. No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-424 ("Â depends on an intervention
+    distribution"), THEORY-717 ("Blackwell's order") and
+    THEORY-847 ("enlarging the declared interventions breaks
+    exactness"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 tags:
 - complex-systems
 - information-theory
@@ -48,7 +56,12 @@ summary: >-
 complements:
 - TERM-092
 - TERM-095
+draws_on:
+- THEORY-424
+- THEORY-717
+- THEORY-847
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-065: effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description's adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated
 

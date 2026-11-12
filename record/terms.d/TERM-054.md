@@ -4,7 +4,14 @@ status: Active
 formerly:
 - TERM-tmpzxb0m
 title: 'canvas temperature: the rate and spatial spread of placements that follow no coalition''s plan, modelled as a stochastic field on the canvas rather than as agents'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-214 ("So T is defined against a stated set of
+    plans"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 tags:
 - complex-systems
 - probabilistic-modeling
@@ -17,7 +24,10 @@ summary: >-
   the need for maintenance explicit. T falls over the event as uninvested
   participants leave. Which placements count as unaffiliated is relative to
   the plans in play, so the field is defined against a set of plans.
+draws_on:
+- THEORY-214
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-274 — Proposed; claims and readings cited as open -->
 
 # TERM-054: canvas temperature: the rate and spatial spread of placements that follow no coalition's plan, modelled as a stochastic field on the canvas rather than as agents

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpg0hhr
 title: 'self, and which sense'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-11'
@@ -50,6 +50,13 @@ history:
     2024 (LIT-1946, LIT-1943): the flagged modeled sense would
     need two sub-senses, a model of a knowing self and a nonegoic
     model of the system. The definition is unchanged.
+- version: 8
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-064 ("Metzinger's transparent self-model"),
+    THEORY-691 ("Dennett's centre of narrative gravity") and
+    THEORY-1299 ("non-egoic self-modelling"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - self
 date: '2026-10-11'
@@ -62,7 +69,12 @@ summary: >-
   open is stated in this term's words as "self (sense open)".
 complements:
 - TERM-075
+draws_on:
+- THEORY-064
+- THEORY-691
+- THEORY-1299
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->

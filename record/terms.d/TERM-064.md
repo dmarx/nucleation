@@ -8,7 +8,7 @@ complements:
 - TERM-034
 - TERM-092
 title: 'legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer''s rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -32,6 +32,16 @@ history:
     Note of 2026-10-29 added, from the reading of Cover
     (NOTE-1384): a judgment can be legible and taken up and
     still not be executed. The term is unchanged.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-836 ("a method for the second direction from
+    output alone"), THEORY-840 ("the score can be estimated from
+    samples with a stated error"), THEORY-842 ("McCombs and Shaw
+    measure salience in exactly this sense") and THEORY-846 ("That
+    legibility is not monotone in refinement is their failure of
+    the data-processing inequality"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - epistemology
 - information-theory
@@ -45,7 +55,13 @@ summary: >-
   is filed, with the regime and the direction in its body. Its formal core
   is [CLAIM-199](../claims.d/CLAIM-199.md)'s usable information. [CLAIM-081](../claims.d/CLAIM-081.md) holds the record's earlier
   use. Adopted by the owner on 2026-10-21. It recurs through A23 to A27.
+draws_on:
+- THEORY-836
+- THEORY-840
+- THEORY-842
+- THEORY-846
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-841 THEORY-857 — Proposed; Hayek's argument and James et al.'s bidirectionality, cited as readings that bear on the term, nothing rests on them -->

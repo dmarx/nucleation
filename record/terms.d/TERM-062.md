@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmp23du2
 title: 'causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,13 @@ history:
     the classes of pasts, and the causal-state machine organizes them and
     their induced transitions; the ε-machine and υ-machine are machines for
     different sources and targets. Adopted: status Proposed → Active.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-756 ("a process's own pasts for its own
+    future") and THEORY-820 ("the micro pasts for a
+    coarse-graining's future"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - information-theory
 - complex-systems
@@ -29,7 +36,11 @@ summary: >-
   "definitions we've crystallized that are not currently in conflict".
   Adopted by the owner on 2026-10-21. A13 called it "predictive state"; the
   record's word is kept.
+draws_on:
+- THEORY-756
+- THEORY-820
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-062: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target
 

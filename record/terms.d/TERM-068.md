@@ -4,13 +4,21 @@ status: Active
 formerly:
 - TERM-tmpfezzd
 title: 'closure, and which sense'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
   note: >-
     Adopted by the owner at the second review of nucleation#305, 2026-10-21:
     status Proposed → Active. The definition is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-072 ("Organizational closure of constraints"),
+    THEORY-733 ("for the linear Gaussian form"), THEORY-820 ("What
+    the record holds of it") and THEORY-822 ("Strong
+    lumpability"). First application of draws_on (ADR-tmpcd2gu).
+    No other change.
 tags:
 - complex-systems
 - information-theory
@@ -28,7 +36,13 @@ summary: >-
   disambiguation entry could save substantial rediscovery"), and at A12,
   A13 and A14, on the owner's U11 and U13. Adopted by the owner on
   2026-10-21. It adopts no definition the record does not already hold.
+draws_on:
+- THEORY-072
+- THEORY-733
+- THEORY-820
+- THEORY-822
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and agency readings that use organizational closure, cited as open -->
 

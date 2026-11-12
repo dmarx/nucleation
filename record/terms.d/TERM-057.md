@@ -4,7 +4,21 @@ status: Active
 formerly:
 - TERM-tmpj9z04
 title: 'transfer entropy: how much the last l values of a source reduce uncertainty about a target''s next value beyond the target''s own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-641 ("a likelihood-ratio statistic with a χ²
+    null"), THEORY-700 ("Geweke's Granger causality is twice the
+    transfer entropy"), THEORY-702 ("Lizier et al. argue k → ∞ is
+    the right limit"), THEORY-707 ("Transfer entropy is unique
+    plus synergistic information"), THEORY-709 ("Nearest-neighbour
+    estimates inherit the bias"), THEORY-710 ("Interventional
+    information flow"), THEORY-711 ("Full-history transfer entropy
+    is its lagged part") and THEORY-712 ("it counts redundancy and
+    misses synergy"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - information-theory
 - causality
@@ -19,7 +33,17 @@ summary: >-
   what it must not be confused with: flow ([CLAIM-335](../claims.d/CLAIM-335.md)), directed
   information, time-delayed mutual information, interventional flow and
   Granger causality.
+draws_on:
+- THEORY-641
+- THEORY-700
+- THEORY-702
+- THEORY-707
+- THEORY-709
+- THEORY-710
+- THEORY-711
+- THEORY-712
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-057: transfer entropy: how much the last l values of a source reduce uncertainty about a target's next value beyond the target's own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect
 
