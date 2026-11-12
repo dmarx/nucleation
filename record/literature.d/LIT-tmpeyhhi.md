@@ -33,7 +33,6 @@ summary: >-
   EXHYTE (Explore, Hypothesize, Test) as an empirical workflow abstraction
   for AI-assisted scientific discovery. It maps a corpus of 87 papers (2018
   to July 2025) onto stages and substages: | Stage | Substages | |---|---| |
-<!-- inactive-ok-file: THEORY-tmphftwv — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
   Explore | E1 query structuring; E2 retrieval; E3 knowledge assembly | |
   Hypothesize | H1 generation; H2 prioritization | | Test | T1 experimental
   design; T2 testing and refinement | Its main findings: - **Maturity.**
@@ -46,6 +45,7 @@ summary: >-
   hypothesis space. - **Trust.** Completing more stages does not make a
   system more trustworthy. Read for the exchange "luria experiment design".
 ---
+<!-- inactive-ok-file: THEORY-tmphftwv — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpeyhhi: Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing
 
