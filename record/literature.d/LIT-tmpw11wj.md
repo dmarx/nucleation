@@ -15,6 +15,10 @@ status_note: >-
 title: 'Metrics at Work: Journalism and the Contested Meaning of Algorithms'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (edited-book). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2020-06-30; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -24,10 +28,6 @@ history:
     corrected the type and title: a single-author monograph by Angèle
     Christin, not an edited book (Crossref types the Princeton Scholarship
     Online record as an edited book), with the full title above.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (edited-book). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2020-06-30; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 date: '2026-11-12'

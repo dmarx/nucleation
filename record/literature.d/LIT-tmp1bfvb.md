@@ -3,6 +3,10 @@ status: Active
 title: 'The hollowing out of local newspapers: A longitudinal study of journalistic performance decline and content homogenisation at a major UK publisher'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-07-30; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -11,10 +15,6 @@ history:
     2026-04-03 per the OSF API; `published:` moves from the journal date
     2026-07-30 to that date (ADR-002). The fourth author is Bahareh
     Rahmanzadeh Heravi.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-07-30; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 date: '2026-11-12'

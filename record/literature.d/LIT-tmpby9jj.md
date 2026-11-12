@@ -12,6 +12,10 @@ status_note: >-
 title: 'The Future of Frozen Embryos'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The repository page gives the year 2025 only (volume 78, issue 3, first page 789), so `published:` is 2025-01-01. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -21,10 +25,6 @@ history:
     DOI 10.25172/smulr.78.3.11, SMU Law Review 78(3): 789, issued and online
     2026-01-07. The DOI is added as the preferred source and `published:`
     moves from the placeholder 2025-01-01 to 2026-01-07 (ADR-002).
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The repository page gives the year 2025 only (volume 78, issue 3, first page 789), so `published:` is 2025-01-01. The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - society-and-governance

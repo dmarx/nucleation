@@ -3,6 +3,10 @@ status: Active
 title: 'De-centering the (Traditional) user: Multistakeholder evaluation of recommender systems'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2025-9); OpenAlex gives 2025-07-17, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -13,10 +17,6 @@ history:
     authors: Robin Burke, Gediminas Adomavicius, Toine Bogers, Tommaso Di
     Noia, Dominik Kowald, Julia Neidhardt, Özlem Özgöbek, Maria Soledad
     Pera, Nava Tintarev and Jürgen Ziegler.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2025-9); OpenAlex gives 2025-07-17, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - information-retrieval
 - society-and-governance

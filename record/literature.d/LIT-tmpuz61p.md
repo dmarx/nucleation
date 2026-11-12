@@ -9,6 +9,10 @@ status_note: >-
 title: 'Journalism and social media in creator economies: Evolving structures and labor'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-01-04; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -17,10 +21,6 @@ history:
     address and not fetched (ADR-053). Authors Errol Salamon, Valérie
     Bélair-Gagnon and Monica Crawford. A gap in the summary's wording is
     mended.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-01-04; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 date: '2026-11-12'

@@ -3,11 +3,6 @@ status: Active
 title: 'Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmpdcebe; account THEORY-tmp2v3ym. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -17,6 +12,11 @@ history:
     (2026-11-11). Checked on the arXiv API: v1 submitted 2024-03-11; v2
     (2024-06-15) was read, and a later version exists that was not. The
     record held no LIT with this arXiv id or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpdcebe; account THEORY-tmp2v3ym. Status
+    Active.
 tags:
 - social-science
 - philosophy-of-science

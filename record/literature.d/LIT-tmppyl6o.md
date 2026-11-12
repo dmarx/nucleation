@@ -3,6 +3,10 @@ status: Active
 title: 'FairCert: Certifiable Error Rate Fairness for ML and LLM Decision Systems'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The PMLR page gives citation_publication_date 2026/09/30 and first author Md Fahim Sikder; the full author list was not recorded. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -10,10 +14,6 @@ history:
     Active. Single author, Md Fahim Sikder (Linköping University); "and et
     al." was wrong. The venue is the European Conference on Algorithmic
     Fairness (the workshop formerly EWAF), PMLR 350: 8-23.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The PMLR page gives citation_publication_date 2026/09/30 and first author Md Fahim Sikder; the full author list was not recorded. The summary is how A describes the work; a reading should check it first.
 tags:
 - mathematical-statistics
 - society-and-governance

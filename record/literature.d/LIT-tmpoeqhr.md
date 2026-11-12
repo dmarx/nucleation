@@ -3,11 +3,6 @@ status: Active
 title: 'Mereological implications of the ethics of pregnancy'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Read on 2026-11-12, in NOTE-tmpaeoh4; account THEORY-tmp1w39g. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +13,11 @@ history:
     its main example. Checked on Crossref: online 2026-08-24. Read from the
     author's accepted manuscript in the Jagiellonian University repository
     (CC BY). The record held no LIT with this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpaeoh4; account THEORY-tmp1w39g. Status
+    Active.
 tags:
 - ethics
 - mereology

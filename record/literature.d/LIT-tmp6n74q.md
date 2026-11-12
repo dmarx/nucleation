@@ -16,16 +16,16 @@ status_note: >-
 title: 'Behavioural welfare analysis and revealed preference: theory and experimental evidence'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-10-23; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Unfetched on 2026-11-12, from the reading pass the owner asked for
     ("read the works you can reach"). A lawful copy was located at an exact
     address and not fetched (ADR-053).
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-10-23; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 - game-theory

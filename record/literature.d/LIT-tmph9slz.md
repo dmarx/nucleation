@@ -3,15 +3,15 @@ status: Active
 title: 'The Ethics of Abortion'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The entry gives "First published Wed May 14, 2025". The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Skimmed on 2026-11-12, in NOTE-tmpuunni; account THEORY-tmppsy9d. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The entry gives "First published Wed May 14, 2025". The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - personhood

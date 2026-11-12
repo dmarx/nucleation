@@ -3,11 +3,6 @@ status: Active
 title: 'Researcher Perspectives on Ethical Considerations in Adaptive Deep Brain Stimulation Trials'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmpc3zs5; account THEORY-tmpzgklq. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -17,6 +12,11 @@ history:
     Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12:
     fourteen authors, published 2020-11-12. The record held no LIT with this
     DOI or title, and no work on deep brain stimulation.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpc3zs5; account THEORY-tmpzgklq. Status
+    Active.
 tags:
 - ethics
 - neuroscience

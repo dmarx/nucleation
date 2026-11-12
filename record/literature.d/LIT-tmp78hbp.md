@@ -3,11 +3,6 @@ status: Active
 title: 'FDA Approval of the Congenital OTOF Gene Therapy Otarmeni Reshapes the Future of Hearing Loss Treatment'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Read on 2026-11-12, in NOTE-tmpzvur2; account THEORY-tmp378u2. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -17,6 +12,11 @@ history:
     Enshitification" (2026-11-11). By the same first author. Checked on
     Crossref: online 2026-05-19. Read from the publisher's open-access text.
     The record held no LIT with this DOI.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpzvur2; account THEORY-tmp378u2. Status
+    Active.
 tags:
 - ethics
 - natural-sciences

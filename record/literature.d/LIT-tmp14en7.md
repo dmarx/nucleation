@@ -3,6 +3,10 @@ status: Active
 title: 'Auditing Predictive Models for Intersectional Biases'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The PDF on Daniel Neill's NYU page says "Published in Transactions on Machine Learning Research (01/2026)"; no day is given. A cites it under Neill's name; the first author is Kate S. Boxer. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -11,10 +15,6 @@ history:
     the month, 01/2026, and the OpenReview forum that would carry an exact
     date (1JTnlHMSmO) returned HTTP 403. It is not an exact date in the
     sense of ADR-002 and should be replaced when one is found.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The PDF on Daniel Neill's NYU page says "Published in Transactions on Machine Learning Research (01/2026)"; no day is given. A cites it under Neill's name; the first author is Kate S. Boxer. The summary is how A describes the work; a reading should check it first.
 tags:
 - mathematical-statistics
 - society-and-governance

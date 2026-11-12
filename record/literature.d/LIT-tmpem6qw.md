@@ -12,6 +12,10 @@ status_note: >-
 title: 'Bioelectricity in Morphogenesis'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2025-10-01; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -21,10 +25,6 @@ history:
     date 2025-10-01 to 2025-08-19, the electronic publication date on Europe
     PMC, the earliest exact date (ADR-002). The first author is Custódio
     Oliveira Nunes.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2025-10-01; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - natural-sciences
 - complex-systems

@@ -3,11 +3,6 @@ status: Active
 title: 'Deciphering the Role of Maternal Microchimerism in Offspring Autoimmunity: A Narrative Review'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmpsdg4x; account THEORY-tmpxmmhb. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -17,6 +12,11 @@ history:
     (2026-11-11). Checked on Crossref: online 2024-09-05. Read from the PMC
     full text (PMC11433734, CC BY) via Europe PMC. The record held no LIT
     with this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpsdg4x; account THEORY-tmpxmmhb. Status
+    Active.
 tags:
 - natural-sciences
 date: '2026-11-12'

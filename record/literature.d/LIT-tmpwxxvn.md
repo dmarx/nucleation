@@ -3,6 +3,10 @@ status: Active
 title: 'Mechanisms Underlying Ophiocordyceps Infection and Behavioral Manipulation of Ants: Unique or Ubiquitous?'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2024-11-10; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -11,10 +15,6 @@ history:
     (Crossref created, OpenAlex and the Utrecht repository agree);
     2024-11-10 is the issue date. `published:` moves to 2024-09-13
     (ADR-002). A review, Annual Review of Microbiology 78: 575-593.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2024-11-10; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - natural-sciences
 - ecology

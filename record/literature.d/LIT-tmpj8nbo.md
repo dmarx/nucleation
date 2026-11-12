@@ -3,15 +3,15 @@ status: Active
 title: 'What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on the arXiv API on 2026-11-12. The record held no LIT with this identifier, title or first author. The arXiv API gives v1 submitted 2026-11-04. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Read on 2026-11-12, in NOTE-tmpjmhp7; account THEORY-tmpb7699. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on the arXiv API on 2026-11-12. The record held no LIT with this identifier, title or first author. The arXiv API gives v1 submitted 2026-11-04. The summary is how A describes the work; a reading should check it first.
 tags:
 - learning-theory
 - representation-learning

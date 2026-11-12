@@ -3,6 +3,10 @@ status: Active
 title: 'Charting a Transformational Course Toward a Safe and Just Future: The Earth Commission''s Contribution'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-06-23; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -11,10 +15,6 @@ history:
     e2025EF006976), with 52 authors; it was corrected on 2026-07-01 to
     remove an affiliation. An earlier preprint on ESS Open Archive was
     reported by the reader but its date was not verified.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-06-23; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - society-and-governance
 - ecology

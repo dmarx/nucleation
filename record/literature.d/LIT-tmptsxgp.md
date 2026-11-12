@@ -14,6 +14,10 @@ status_note: >-
 title: 'A Mereological Analysis of Pregnancy—According to the Immune System'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-02-06; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -25,10 +29,6 @@ history:
     stands. Mind 135(539): 625-649, print 2026-08-28. The two commentaries
     read in its place (LIT-tmpoeqhr, LIT-tmpblasa) answer the companion
     paper LIT-tmph5uj8, not this one.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-02-06; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - mereology
 - philosophy-of-biology

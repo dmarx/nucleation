@@ -3,11 +3,6 @@ status: Active
 title: 'Ccl2/Ccr2 signalling recruits a distinct fetal microchimeric population that rescues delayed maternal wound healing'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Read on 2026-11-12, in NOTE-tmpx8y0m; account THEORY-tmpjntfl. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +13,11 @@ history:
     mechanism the brain paper extends. Checked on Crossref: online
     2017-05-18; six authors. Read from the PMC full text (PMC5477505, CC BY)
     via Europe PMC. The record held no LIT with this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpx8y0m; account THEORY-tmpjntfl. Status
+    Active.
 tags:
 - natural-sciences
 date: '2026-11-12'

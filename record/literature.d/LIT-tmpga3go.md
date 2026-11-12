@@ -11,6 +11,10 @@ status_note: >-
 title: 'Person-Centered Pregnancy Options Counseling'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The page gives no day; the URL path gives July 2026, so `published:` is the first of that month. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -23,10 +27,6 @@ history:
     2026-07-01, which had been inferred from the ACOG URL, to 2026-04-30
     (ADR-002). Developed by the Committee on Ethics with Yasaswi Kislovskiy
     and Mara Black.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The page gives no day; the URL path gives July 2026, so `published:` is the first of that month. The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - society-and-governance

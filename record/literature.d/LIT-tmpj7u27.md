@@ -3,15 +3,15 @@ status: Active
 title: 'The transaction test: An experimental method for assessing online interfaces'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2026-4); OpenAlex gives 2026-02-10, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Read on 2026-11-12, in NOTE-tmprz4xm; account THEORY-tmp8ypke. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2026-4); OpenAlex gives 2026-02-10, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 - game-theory

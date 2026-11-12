@@ -3,11 +3,6 @@ status: Active
 title: 'Human Decision-making is Susceptible to AI-driven Manipulation'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Read on 2026-11-12, in NOTE-tmpfoqe6; account THEORY-tmpf27hx. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -20,6 +15,11 @@ history:
     v3 (2025-12-01) was read. Kept as a separate LIT because the title and
     analyses may have changed in review. The record held no LIT with this
     arXiv id or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpfoqe6; account THEORY-tmpf27hx. Status
+    Active.
 tags:
 - social-science
 - moral-psychology

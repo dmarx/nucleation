@@ -3,11 +3,6 @@ status: Active
 title: 'A data-centric approach for ethical and trustworthy AI in journalism'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmp5dpvo; account THEORY-tmpao6ui. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -17,6 +12,11 @@ history:
     Enshitification" (2026-11-11). Checked on Crossref: five authors, online
     2024-09-28. Read in part from the publisher's open-access PDF. The
     record held no LIT with this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmp5dpvo; account THEORY-tmpao6ui. Status
+    Active.
 tags:
 - social-science
 - ethics

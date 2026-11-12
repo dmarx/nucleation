@@ -3,6 +3,10 @@ status: Active
 title: 'What Makes Players Pay? An Empirical Investigation of In-Game Lotteries'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (posted-content). The record held no LIT with this DOI, title or first author. Crossref gives only the year 2023 for the SSRN posting, and SSRN itself refused the request (403), so `published:` is 2023-01-01. A cites a revision of February 2025. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -12,10 +16,6 @@ history:
     Welfare Analysis of Gambling in Video Games"). `published: 2023-01-01`
     is a year-only placeholder; no exact date was reached, since SSRN was
     blocked.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (posted-content). The record held no LIT with this DOI, title or first author. Crossref gives only the year 2023 for the SSRN posting, and SSRN itself refused the request (403), so `published:` is 2023-01-01. A cites a revision of February 2025. The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 - game-theory

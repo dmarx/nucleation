@@ -3,6 +3,10 @@ status: Active
 title: 'Retrieval Collapses When AI Pollutes the Web'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (proceedings-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-04-12; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -11,10 +15,6 @@ history:
     checked on the arXiv API), the camera-ready text of the WWW '26 short
     paper; `published:` moves to that earlier date (ADR-002), and the arXiv
     id is added.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (proceedings-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-04-12; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - information-retrieval
 date: '2026-11-12'

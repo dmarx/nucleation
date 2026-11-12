@@ -3,11 +3,6 @@ status: Active
 title: 'Polydnaviruses as Symbionts and Gene Delivery Systems'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Read on 2026-11-12, in NOTE-tmpkdoms; account THEORY-tmpqixf6. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -17,6 +12,11 @@ history:
     (2026-11-11). Checked on Crossref: online 2012-07-05. Read in full from
     the PMC text (PMC3390406) via Europe PMC. The record held no LIT with
     this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpkdoms; account THEORY-tmpqixf6. Status
+    Active.
 tags:
 - natural-sciences
 - endosymbiosis

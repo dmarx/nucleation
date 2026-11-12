@@ -3,11 +3,6 @@ status: Active
 title: 'Gacha Game: When Prospect Theory Meets Optimal Pricing'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmpnvqsr; account THEORY-tmpakn1l. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +13,11 @@ history:
     different model and author. Checked on the arXiv API: v1 submitted
     2022-08-07; v3 (2023-08-26) was read. The record held no LIT with this
     arXiv id or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpnvqsr; account THEORY-tmpakn1l. Status
+    Active.
 tags:
 - game-theory
 - operations-research

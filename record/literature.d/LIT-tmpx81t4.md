@@ -3,11 +3,6 @@ status: Active
 title: 'MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmp5y69g; account THEORY-tmpjzvh4. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -16,6 +11,11 @@ history:
     for after the exchange "Medical Ethics and Media Enshitification"
     (2026-11-11). Same five authors. Checked on the arXiv API: v1 submitted
     2026-04-30. The record held no LIT with this arXiv id or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmp5y69g; account THEORY-tmpjzvh4. Status
+    Active.
 tags:
 - mathematical-statistics
 - society-and-governance

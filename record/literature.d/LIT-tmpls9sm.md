@@ -3,6 +3,10 @@ status: Active
 title: 'Designing for monetization: A taxonomy of dark patterns in top-grossing GaaS video games'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-03-17; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -10,10 +14,6 @@ history:
     Active. The reading corrected the citation: Tripodos number 59 (2026):
     76-97; the "05" was the DOI's article suffix, not a volume. OnlineFirst
     2026-03-17, which `published:` keeps.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-03-17; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 date: '2026-11-12'

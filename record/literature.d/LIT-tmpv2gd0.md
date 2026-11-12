@@ -3,6 +3,10 @@ status: Active
 title: 'Informed Consent'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The entry gives "First published Tue Sep 20, 2011; substantive revision Thu Feb 20, 2025"; `published:` is the first publication (ADR-002). A cites the 2025 revision. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -10,10 +14,6 @@ history:
     Active. The text read is the substantive revision of 2025-02-20; the
     entry was first published 2011-09-20, which `published:` keeps
     (ADR-002).
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The entry gives "First published Tue Sep 20, 2011; substantive revision Thu Feb 20, 2025"; `published:` is the first publication (ADR-002). A cites the 2025 revision. The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 date: '2026-11-12'

@@ -4,13 +4,6 @@ superseded_by: LIT-tmpahwrq
 title: 'Mereology''s significance: pregnancy, abortion and contragestion'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Superseded by LIT-tmpahwrq, which already held this work under the same
-    DOI; the duplicate was registered in error when the commentary cluster
-    on LIT-tmph5uj8 was filed, because the filer's duplicate check missed
-    it. Retired by status, not deleted.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +11,13 @@ history:
     Emmerich, Journal of Medical Ethics, online 2026-08-25. The record held
     no LIT with this DOI or title. Registered as part of the commentary
     cluster on LIT-tmph5uj8.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Superseded by LIT-tmpahwrq, which already held this work under the same
+    DOI; the duplicate was registered in error when the commentary cluster
+    on LIT-tmph5uj8 was filed, because the filer's duplicate check missed
+    it. Retired by status, not deleted.
 tags:
 - ethics
 - mereology

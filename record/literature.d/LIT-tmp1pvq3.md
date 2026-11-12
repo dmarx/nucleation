@@ -3,15 +3,15 @@ status: Active
 title: 'Immunological implications of pregnancy-induced microchimerism'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2017-05-08; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Read on 2026-11-12, in NOTE-tmp1h3p0; account THEORY-tmpm7h3s. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2017-05-08; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - natural-sciences
 - individuation

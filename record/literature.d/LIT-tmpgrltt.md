@@ -3,11 +3,6 @@ status: Active
 title: 'Mechanisms Underlying Influence of Bioelectricity in Development'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmpkzn27; account THEORY-tmpaq03n. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -17,6 +12,11 @@ history:
     (2026-11-11). Checked on Crossref: online 2022-02-14. Read in part from
     the PMC text (PMC8883286) via Europe PMC. The record held no LIT with
     this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpkzn27; account THEORY-tmpaq03n. Status
+    Active.
 tags:
 - natural-sciences
 - complex-systems

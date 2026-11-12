@@ -3,6 +3,10 @@ status: Active
 title: 'Recommended Selves: Authenticity and Algorithmic Filtering'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2025-09-22; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -11,10 +15,6 @@ history:
     capitals are dropped. The reading was of the author's arXiv preprint
     2608.14602 (posted 2026-07-02, checked on the arXiv API), later than the
     journal's online date, which `published:` keeps.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2025-09-22; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - self

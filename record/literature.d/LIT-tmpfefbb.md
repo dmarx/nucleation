@@ -14,6 +14,10 @@ status_note: >-
 title: 'Molecular Mechanisms Underlying Parasitoid-Derived Host Manipulation Strategies'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-01-28; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -23,10 +27,6 @@ history:
     2025-09-09, the electronic publication date on Europe PMC (OpenAlex
     agrees), the earliest exact date (ADR-002). Print: Annual Review of
     Entomology 71: 51-68 (2026).
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-01-28; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - natural-sciences
 - ecology

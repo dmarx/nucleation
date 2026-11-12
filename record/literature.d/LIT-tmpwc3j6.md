@@ -3,11 +3,6 @@ status: Active
 title: 'Irrational Random Utility Models'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmp9g14f; account THEORY-tmprechi. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +13,11 @@ history:
     gives v1 submitted 2024-03-15, which `published:` uses (ADR-002); v2 of
     2025-05-28 was read. The record held no LIT with this arXiv id or title.
     Journal publication not checked.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmp9g14f; account THEORY-tmprechi. Status
+    Active.
 tags:
 - social-science
 - game-theory

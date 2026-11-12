@@ -3,15 +3,15 @@ status: Active
 title: 'Financing dies in darkness? The impact of newspaper closures on public finance'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only 2020-2 and no other source checked gave a day, so `published:` is the first of the month. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Skimmed on 2026-11-12, in NOTE-tmpf5h7u; account THEORY-tmp9nkgq. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only 2020-2 and no other source checked gave a day, so `published:` is the first of the month. The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 - society-and-governance

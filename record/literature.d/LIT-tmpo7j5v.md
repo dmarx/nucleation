@@ -17,6 +17,10 @@ status_note: >-
 title: 'Timely Intervention: Navigating Ethical Challenges in OTOF-Gene Therapy Trials'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2025-10-08; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -25,10 +29,6 @@ history:
     (ADR-041); an abstract, where seen, is not a reading. `published:` moves
     from 2025-10-08, the issue's online date, to 2025-05-28, the electronic
     publication date on Europe PMC (ADR-002).
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2025-10-08; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - natural-sciences

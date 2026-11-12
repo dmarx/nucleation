@@ -3,6 +3,10 @@ status: Active
 title: 'Secondary analysis of loot box data: Are high-spending “whales” wealthy gamers or problem gamblers?'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2021-6); OpenAlex gives 2021-02-05, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -13,10 +17,6 @@ history:
     purchasers and an aggregate correlation of ρ = .33 between spending and
     problem-gambling score; the preprint's figures are 7,767 and ρ = .34.
     Where the two differ, the record uses the accepted manuscript.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2021-6); OpenAlex gives 2021-02-05, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - psychopathology-and-treatment
 - social-science

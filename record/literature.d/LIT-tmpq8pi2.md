@@ -3,6 +3,10 @@ status: Active
 title: 'Revealed preference analysis under limited attention'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2026-6); OpenAlex gives 2026-04-22, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -11,10 +15,6 @@ history:
     on the arXiv API; v3 read). `published:` moves from the journal date
     2026-04-22 to that earlier date (ADR-002) and the arXiv id is added. The
     JEBO version of record (246: 107568) was not read.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2026-6); OpenAlex gives 2026-04-22, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - social-science
 - game-theory

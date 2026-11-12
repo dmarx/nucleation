@@ -3,6 +3,10 @@ status: Active
 title: 'Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (book-chapter). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-07-02; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -12,10 +16,6 @@ history:
     Frontiers in Artificial Intelligence and Applications, pp. 268-277, open
     access under CC BY-NC 4.0. Read from the Université libre de Bruxelles
     repository copy of the publisher PDF.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (book-chapter). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-07-02; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - complex-systems
 - game-theory

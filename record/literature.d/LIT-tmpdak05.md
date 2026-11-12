@@ -3,6 +3,10 @@ status: Active
 title: 'Arousal by Algorithm'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The Cornell Law Review page is dated 1 Aug 2024; the print volume and pages were not found. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -10,10 +14,6 @@ history:
     Active. The reading found the volume and pages: Cornell Law Review
     109(4): 787-842 (2024). Author Amy Adler, NYU School of Law; a law
     review article. No exact date earlier than 2024-08-01 was found.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The Cornell Law Review page is dated 1 Aug 2024; the print volume and pages were not found. The summary is how A describes the work; a reading should check it first.
 tags:
 - society-and-governance
 - information-retrieval

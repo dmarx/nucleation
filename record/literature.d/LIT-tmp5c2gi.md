@@ -3,15 +3,15 @@ status: Active
 title: 'Same gatekeepers, new tollbooths in the AI content licensing market'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The page is dated June 9, 2026. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Read on 2026-11-12, in NOTE-tmpylmyu; account THEORY-tmpdzsxl. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The page is dated June 9, 2026. The summary is how A describes the work; a reading should check it first.
 tags:
 - society-and-governance
 date: '2026-11-12'

@@ -3,11 +3,6 @@ status: Active
 title: 'Meaning and value attributed to non-therapeutic circumcision of boys among Danish parents of Jewish background'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Read on 2026-11-12, in NOTE-tmp1hpuh; account THEORY-tmp7c466. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +13,11 @@ history:
     100366; year only); the epub date 2025-09-21 is from the article's JATS
     record. Read from the PMC full text (PMC12557608) via Europe PMC. The
     record held no LIT with this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp1hpuh; account THEORY-tmp7c466. Status
+    Active.
 tags:
 - ethics
 - social-science

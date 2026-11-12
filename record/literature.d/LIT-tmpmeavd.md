@@ -13,16 +13,16 @@ status_note: >-
 title: 'Ethics of male circumcision in minors: a scoping review of parental authority, adolescent involvement, and implications for sexual medicine practice and policy'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives 2026-09-30 (published and print) and 2026-10-12 online; Europe PMC gives PMID 42862022, first publication 2026-09-01 without a day of its own, so `published:` is 2026-09-30. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Unavailable on 2026-11-12, from the reading pass the owner asked for
     ("read the works you can reach"). No lawful full text was found
     (ADR-041); an abstract, where seen, is not a reading.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives 2026-09-30 (published and print) and 2026-10-12 online; Europe PMC gives PMID 42862022, first publication 2026-09-01 without a day of its own, so `published:` is 2026-09-30. The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - personhood

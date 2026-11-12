@@ -3,6 +3,10 @@ status: Active
 title: 'Genital Modifications in Prepubescent Minors: When May Clinicians Ethically Proceed?'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2024-07-17; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -10,10 +14,6 @@ history:
     Active. An AJOB Target Article, published online 2024-07-17 with open
     peer commentaries in the issue; corresponding author Brian D. Earp. The
     page range 25(7): 53-102 was not checked against the issue.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2024-07-17; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - personhood

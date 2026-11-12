@@ -3,15 +3,15 @@ status: Active
 title: 'Incentivizing High-Quality Content in Online Recommender Systems'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against DataCite and the arXiv API on 2026-11-12. The record held no LIT with this DOI, title or first author. Crossref does not hold this DOI; DataCite does, giving FORC 2026 (LIPIcs 368, 15:1–15:18), available 2026-06-01. The same paper was first posted on arXiv as 2306.07479 on 2023-06-13, which `published:` uses as the earliest date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Read on 2026-11-12, in NOTE-tmplv2tx; account THEORY-tmpthqa0. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against DataCite and the arXiv API on 2026-11-12. The record held no LIT with this DOI, title or first author. Crossref does not hold this DOI; DataCite does, giving FORC 2026 (LIPIcs 368, 15:1–15:18), available 2026-06-01. The same paper was first posted on arXiv as 2306.07479 on 2023-06-13, which `published:` uses as the earliest date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - information-retrieval
 - game-theory

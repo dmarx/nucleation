@@ -3,11 +3,6 @@ status: Active
 title: 'Alabama''s LePage decision, the future of ex vivo embryos, and more'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Skimmed on 2026-11-12, in NOTE-tmp4g0oe; account THEORY-tmpw7q6c. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +13,11 @@ history:
     published-online 2026-04-20; `published:` takes the earlier exact date
     (ADR-002). Read from the PMC full text (PMC13092730, CC BY-NC-ND) via
     Europe PMC. The record held no LIT with this DOI or title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmp4g0oe; account THEORY-tmpw7q6c. Status
+    Active.
 tags:
 - ethics
 - society-and-governance

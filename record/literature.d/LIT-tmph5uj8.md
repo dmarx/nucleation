@@ -14,6 +14,10 @@ status_note: >-
 title: 'Ethical implications of the mereology of pregnancy'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-04-15; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -25,10 +29,6 @@ history:
     Emmerich (LIT-tmpahwrq, already held), Faulconer (LIT-tmp47zld) and Devanesan's reply
     (LIT-tmplqnu5), each checked on Crossref. 2026-04-15, the online-first
     date Dranseika's reference gives, stands.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-04-15; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - ethics
 - mereology

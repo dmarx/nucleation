@@ -3,11 +3,6 @@ status: Active
 title: 'Exploring ethical and regulatory challenges of AI integration in European Union newsrooms'
 version: 2
 history:
-- version: 2
-  date: '2026-11-12'
-  note: >-
-    Read on 2026-11-12, in NOTE-tmpn7tu4; account THEORY-tmpbnpoy. Status
-    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,6 +13,11 @@ history:
     authors, online 2025-07-30 (Crossref has "Ranaivoso"; the article itself
     spells the name Ranaivoson). The record held no LIT with this DOI or
     title.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpn7tu4; account THEORY-tmpbnpoy. Status
+    Active.
 tags:
 - social-science
 - epistemology

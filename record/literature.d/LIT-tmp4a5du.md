@@ -3,6 +3,10 @@ status: Active
 title: 'Gut consciousness: a perspective on visceral phenomenal awareness'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-01-17; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -12,10 +16,6 @@ history:
     published-online and the journal's epub date; received 2026-05-02,
     accepted 2026-10-06). The journal labels it a Review Article; the paper
     calls itself a perspective.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-01-17; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
 tags:
 - consciousness
 - neuroscience

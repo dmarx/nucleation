@@ -3,15 +3,15 @@ status: Active
 title: 'Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services (Digital Services Act)'
 version: 2
 history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The regulation is dated 19 October 2022, the date of adoption given in its title. The summary is how A describes the work; a reading should check it first.
 - version: 2
   date: '2026-11-12'
   note: >-
     Skimmed on 2026-11-12, in NOTE-tmpay01i; account THEORY-tmpdxfxs. Status
     Active.
-- version: 1
-  date: '2026-11-12'
-  note: >-
-    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked on 2026-11-12 by fetching the page, which gave the title and date. The record held no LIT with this identifier, title or first author. The regulation is dated 19 October 2022, the date of adoption given in its title. The summary is how A describes the work; a reading should check it first.
 tags:
 - society-and-governance
 date: '2026-11-12'
