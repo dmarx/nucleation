@@ -235,3 +235,19 @@ Hopkins's Freedom and Constraint Topologies, from the pasted synthesis on constr
 ## Note of 2026-11-07: two services matched in behaviour, one unable to rebuild itself, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §5 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), gives a software instance of this claim: two deployed services with "healthy running instances, matching databases, the same API responses, and equivalent measured reliability", one with working source, reproducible builds, deployment pipelines, migrations and backups, the other with "no viable path to deploying a repaired version". "The second product has lost some of its **reproductive capacity** without yet losing its current behavior." A32 §11 proposes the test: "A particularly telling result would be two services with nearly identical present behavior and recovery times, but different probabilities of successfully deploying a necessary repair six months later." The separating intervention is the attempt to rebuild and redeploy. It adds a domain where the hidden difference can be inspected directly; the claim is already demonstrated. A attributes the point to the record without a code (it is this claim and [CLAIM-521](CLAIM-521.md)). Not filed as a case. The wording is A's. No status changes.
+
+## Note of 2026-11-12: the silent detector, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-tmpaky45 CASE-tmpl4kyp CLAIM-tmpkr3ti ARG-tmpwo5na — filed from the same exchange, Proposed -->
+The owner's debugging case (CASE-tmpaky45; U3 of the exchange "Meaning Transmission Explained",
+https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) is this claim's simplest instance: a healthy and a
+broken detector are both silent in clean air, and only test smoke tells
+them apart. A8 §2's table makes the mapping, through CASE-125 and
+CLAIM-407. The owner reads the outcome semantically (CLAIM-tmpkr3ti),
+and the inference from the case rests on this claim (ARG-tmpwo5na). A10
+§4 calls its two-failure toy "a concrete illustration" of the claim:
+mutual maintenance and an outside service both repair the second fault
+with probability 0.91 and come apart when the service is withdrawn
+(CASE-tmpl4kyp). The match is set by the chosen rates (an availability
+of 0.7 against a channel survival of 1 − 0.3), so it illustrates and
+adds no evidence. The claim is demonstrated already. No status changes.

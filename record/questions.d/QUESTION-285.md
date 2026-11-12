@@ -231,3 +231,41 @@ second rung and stops there.
   reflection may not rewrite, which is the open part ([CLAIM-342](../claims.d/CLAIM-342.md)).
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-12: meaning with no sentient emitter or receiver, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: THEORY-tmp0d8vu — filed from the same exchange, Proposed -->
+The owner asked, at U1 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), for the
+record's "account of how meaning can be transmitted independent of any
+sentient emitter or receiver". That is this question's scope, and A's
+relay at A3 never cites it. A3 assembles TERM-089, the Kolchinsky and
+Wolpert reading (NOTE-1370, now THEORY-tmp0d8vu), CLAIM-050 and
+TERM-034, THEORY-1276 and CLAIM-525, and Grice, the unheard tree and
+the unread message. Its descriptions of them are accurate. It leaves out
+two limits the record states: Kolchinsky and Wolpert's viability function
+is "exogenously determined by the scientist analyzing the system", and
+Simondonian signification, on this question's note of 2026-10-31, counts
+nothing as a failure to inform.
+
+<!-- inactive-ok-block: CASE-tmpv6i22 CASE-tmpaky45 CLAIM-tmpkr3ti CLAIM-tmpz1xb5 CASE-tmpl4kyp — filed from the same exchange, Proposed -->
+The owner's two cases put the question's rungs to work. In the smoke
+detector that sets off sprinklers (CASE-tmpv6i22) a difference is
+differentiated, kept and enforced with no one present: the rung of use,
+reached by design. The debugger's test (CASE-tmpaky45) adds what the
+rungs did not have, a meaning carried by an absence: under an
+intervention with an expected profile, silence means the mechanism is
+broken (CLAIM-tmpkr3ti, the owner's). A10 §6 adds the condition, that an
+absence registers only for an apparatus that opens an interval, keeps
+the expectation and times out (CLAIM-tmpz1xb5, A's). A non-sentient
+tester can be that apparatus. A's construction (CASE-tmpl4kyp) carries
+the detector into the record's probe and maintenance studies, and its
+out-of-model relay restates this question's distinction between
+rejecting a hypothesis and finding the family inadequate.
+
+A8 closes on a research question: "Under what conditions can a
+non-sentient system generate, preserve, apply, and revise distinctions
+between its actual and counterfactually expected behavior—and when, if
+ever, do those distinctions constitute meaning for the system rather than
+merely meaning attributed by an external investigator?" Its first half is
+this question's top rung and second clause; its second half is
+QUESTION-128's. No new question is filed. The question stays Open.
