@@ -75,11 +75,11 @@ is untouched by it.
 
 ## Note of 2026-11-12: Næss (2024/2025), Investigative journalism: Market failures and government intervention through public broadcasters, read
 
-From the reading in NOTE-tmpaa0uz (LIT-tmpdq493), the reader's assessment as
+From the reading in [NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md) ([LIT-tmpdq493](../literature.d/LIT-tmpdq493.md)), the reader's assessment as
 checked by the filer: consistent with its point that what news "weights"
 differs (here, external value not captured by any revenue signal).
 
 ## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
 
-From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+From the reading in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md) ([LIT-tmpftfht](../literature.d/LIT-tmpftfht.md)), the reader's assessment as
 checked by the filer: not bearing directly.

@@ -30,13 +30,13 @@ summary: >-
   Ahmed and colleagues (2022), DOI-10.1080/19490976.2022.2102878. A review
   of how gut-microbial metabolites influence brain function through immune,
   neural and endocrine routes, closing with how far human evidence supports
-  the preclinical picture. A partial stand-in for LIT-tmpddwp2. Skimmed on
-  2026-11-12 in NOTE-tmpi4x1w: A review of how gut-microbial metabolites
+  the preclinical picture. A partial stand-in for [LIT-tmpddwp2](LIT-tmpddwp2.md). Skimmed on
+  2026-11-12 in [NOTE-tmpi4x1w](../notes.d/NOTE-tmpi4x1w.md): A review of how gut-microbial metabolites
   (SCFAs, tryptophan/indole derivatives, bile acids, sulfated phenolics and
   others) influence brain functions through immune, neural and endocrine
   routes, arranged by neurological function, with a closing assessment of
   how far human evidence supports the preclinical picture. Its account is
-  THEORY-tmpomlt0.
+  [THEORY-tmpomlt0](../theory.d/THEORY-tmpomlt0.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpi4x1w — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpddwp2 — Unavailable; filed from the same exchange -->
@@ -56,10 +56,10 @@ cells and nerve fibres; the human evidence lags the preclinical.
 
 ## Standing in the record
 
-Registered as a partial stand-in for LIT-tmpddwp2: it carries that microbial
+Registered as a partial stand-in for [LIT-tmpddwp2](LIT-tmpddwp2.md): it carries that microbial
 products reach the nervous system through gut endocrine and neural routes,
 not that paper's neuroepithelial framing or its brain-to-microbiota
 signalling.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpi4x1w and its account
-THEORY-tmpomlt0.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpi4x1w](../notes.d/NOTE-tmpi4x1w.md) and its account
+[THEORY-tmpomlt0](../theory.d/THEORY-tmpomlt0.md).

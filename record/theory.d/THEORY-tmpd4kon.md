@@ -16,7 +16,7 @@ promote_when: >-
   broadcasters.
 summary: >-
   Næss (2024/2025), Investigative journalism: Market failures and government
-  intervention through public broadcasters, read in NOTE-tmpaa0uz (Skimmed).
+  intervention through public broadcasters, read in [NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md) (Skimmed).
   A public-goods model plus survey experiments. Each person's payoff from
   investigative journalism is shared; a firm selling access can collect only
   private willingness to pay (WTP), so when marginal cost lies between one
@@ -24,7 +24,6 @@ summary: >-
   Pareto-inefficiently low.
 ---
 <!-- inactive-ok-file: NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # THEORY-tmpd4kon: Næss argues, from a public-goods model and survey experiments in Norway, the US and the UK, that investigative journalism is underprovided by markets because its value, summed over everyone who benefits, far exceeds what any seller can collect, that making its output exclusive does not raise what people will pay, and that public funding through broadcasters wins majority support in some countries but loses it where the broadcaster is seen as politically biased.
 
@@ -34,4 +33,4 @@ Næss argues, from a public-goods model and survey experiments in Norway, the US
 
 ## Evidence
 
-The reading in NOTE-tmpaa0uz; its key results are quoted there with locations.
+The reading in [NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md); its key results are quoted there with locations.

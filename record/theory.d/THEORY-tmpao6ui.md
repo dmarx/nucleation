@@ -15,7 +15,7 @@ promote_when: >-
   study that reports which checks it failed.
 summary: >-
   Dierickx et al. (2024), A data-centric approach for ethical and
-  trustworthy AI in journalism, read in NOTE-tmp5dpvo (Skimmed). Proposes
+  trustworthy AI in journalism, read in [NOTE-tmp5dpvo](../notes.d/NOTE-tmp5dpvo.md) (Skimmed). Proposes
   the Accuracy-Fairness-Transparency (AFT) framework for assessing the
   quality of datasets used to build machine-learning tools in newsrooms,
   deriving data-quality checks from three core principles of journalism
@@ -32,4 +32,4 @@ Dierickx et al. propose that the quality of datasets used for machine learning i
 
 ## Evidence
 
-The reading in NOTE-tmp5dpvo; its key results are quoted there with locations.
+The reading in [NOTE-tmp5dpvo](../notes.d/NOTE-tmp5dpvo.md); its key results are quoted there with locations.

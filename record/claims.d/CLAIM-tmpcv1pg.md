@@ -46,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CLAIM-tmphgjbz ARG-tmpshmi5 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpdak05 LIT-tmpccpc6 LIT-tmp9goww LIT-tmpf67mb LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpccpc6 LIT-tmp9goww LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpcv1pg: Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme
 
@@ -161,7 +161,7 @@ Extreme/Harmful, with different correlates. Other held entries it bears on
 
 ## Note of 2026-11-12: Adler (2024), Arousal by Algorithm, read
 
-From the reading in NOTE-tmpmczjl (LIT-tmpdak05), the reader's assessment as
+From the reading in [NOTE-tmpmczjl](../notes.d/NOTE-tmpmczjl.md) ([LIT-tmpdak05](../literature.d/LIT-tmpdak05.md)), the reader's assessment as
 checked by the filer: **supports the structural premise that platform-read
 demand shapes production; qualifies the claim's specific mechanism.** Adler
 supports "a content industry reads demand from activity ... and that sets
@@ -173,7 +173,7 @@ evidence of concentration, not of drift toward the extreme.
 
 ## Note of 2026-11-12: Ince et al. (2024), Problematic pornography use and novel patterns of escalating use, read
 
-From the reading in NOTE-tmp0g2i6 (LIT-tmpf67mb), the reader's assessment as
+From the reading in [NOTE-tmp0g2i6](../notes.d/NOTE-tmp0g2i6.md) ([LIT-tmpf67mb](../literature.d/LIT-tmpf67mb.md)), the reader's assessment as
 checked by the filer: **leaves open, slightly qualifies the escalation
 half.** It shows, cross-sectionally and individually, that self-reported
 escalation in time and (more weakly) toward "more extreme" content co-occurs
@@ -184,7 +184,7 @@ average (about 2.5 of 7).
 
 ## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
 
-From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+From the reading in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) ([LIT-tmpfkveo](../literature.d/LIT-tmpfkveo.md)), the reader's assessment as
 checked by the filer: **context only.** The paper names platforms'
 commercial weighting of recommendations (the Spotify disclosure; the
 popularity-vs-long-tail conflict) but offers no evidence on whose demand
@@ -192,7 +192,7 @@ sets what is produced.
 
 ## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
 
-From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+From the reading in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md) ([LIT-tmpftfht](../literature.d/LIT-tmpftfht.md)), the reader's assessment as
 checked by the filer: **qualifies** the structural half in the same way: the
 heaviest spenders do not set the distribution of what everyone is offered
 here.

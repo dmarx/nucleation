@@ -99,6 +99,6 @@ demand to further cuts. Other held entries it bears on (found on recheck):
 
 ## Note of 2026-11-12: Næss (2024/2025), Investigative journalism: Market failures and government intervention through public broadcasters, read
 
-From the reading in NOTE-tmpaa0uz (LIT-tmpdq493), the reader's assessment as
+From the reading in [NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md) ([LIT-tmpdq493](../literature.d/LIT-tmpdq493.md)), the reader's assessment as
 checked by the filer: **supports weakly**, by showing value that measured
 paid demand cannot register.

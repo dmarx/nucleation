@@ -16,7 +16,7 @@ promote_when: >-
   loot-box value.
 summary: >-
   Amano and Simonov, What Makes Players Pay? An Empirical Investigation of
-  In-Game Lotteries, read in NOTE-tmp9papc (Skimmed). Using the complete
+  In-Game Lotteries, read in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md) (Skimmed). Using the complete
   action and transaction log of one free-to-play mobile puzzle game (2.5
   million users, about 20 million paid loot boxes, 96% of in-game revenue
   from loot boxes), the authors estimate a dynamic discrete-choice model in
@@ -36,4 +36,4 @@ Amano and Simonov estimate, from the full transaction log of one free-to-play mo
 
 ## Evidence
 
-The reading in NOTE-tmp9papc; its key results are quoted there with locations.
+The reading in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md); its key results are quoted there with locations.

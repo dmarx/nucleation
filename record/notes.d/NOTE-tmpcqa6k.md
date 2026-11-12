@@ -56,8 +56,8 @@ None stated beyond the above.
 
 **How far it stands in.** Restates the effector toolkit (venom, PDVs, teratocytes, larval secretions) and its action on host development and feeding. Does not cover immune suppression in detail, metabolism, behavioural manipulation, or molecular/omics findings since 2022, which are Huang et al.'s stated focus.
 
-- **CLAIM-tmpu69tn**: **supports** that one organism's injected factors (including domesticated viruses) govern another's development and feeding through the host's own endocrine machinery; the regulation serves the parasitoid.
-- **CLAIM-tmpoxhqq** (found on recheck): **supports by extension**: control by selected adaptations through the host's own machinery (its hormones), with plasticity in direction that is what adaptation, not pathology, predicts.
+- **[CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md)**: **supports** that one organism's injected factors (including domesticated viruses) govern another's development and feeding through the host's own endocrine machinery; the regulation serves the parasitoid.
+- **[CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md)** (found on recheck): **supports by extension**: control by selected adaptations through the host's own machinery (its hormones), with plasticity in direction that is what adaptation, not pathology, predicts.
 
 ## Limitations
 

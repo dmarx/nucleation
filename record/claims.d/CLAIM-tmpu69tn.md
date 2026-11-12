@@ -166,14 +166,14 @@ come apart; it says nothing about authorization. No status change.
 
 ## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
 
-From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+From the reading in [NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md) ([LIT-tmpfw2u8](../literature.d/LIT-tmpfw2u8.md)), the reader's assessment as
 checked by the filer: **supports weakly**: a trait encoded in one organism
 and expressed in another's behaviour, against the host's interests, is the
 "parasitic capture" combination; the paper does not discuss governance.
 
 ## Note of 2026-11-12: Strand and Burke (2012), Polydnaviruses as Symbionts and Gene Delivery Systems, read
 
-From the reading in NOTE-tmpkdoms (LIT-tmpaus56), the reader's assessment as
+From the reading in [NOTE-tmpkdoms](../notes.d/NOTE-tmpkdoms.md) ([LIT-tmpaus56](../literature.d/LIT-tmpaus56.md)), the reader's assessment as
 checked by the filer: **supports** the "foreign-origin cells (here, genes)
 serving the host" combination: nudivirus origin, now an "obligate beneficial
 symbiont" of the wasp; and its effects on the caterpillar are a third
@@ -181,7 +181,7 @@ organism's capture.
 
 ## Note of 2026-11-12: Cuny and Poelman (2022), Evolution of koinobiont parasitoid host regulation and consequences for indirect plant defence, read
 
-From the reading in NOTE-tmpcqa6k (LIT-tmpxupl8), the reader's assessment as
+From the reading in [NOTE-tmpcqa6k](../notes.d/NOTE-tmpcqa6k.md) ([LIT-tmpxupl8](../literature.d/LIT-tmpxupl8.md)), the reader's assessment as
 checked by the filer: **supports** that one organism's injected factors
 (including domesticated viruses) govern another's development and feeding
 through the host's own endocrine machinery; the regulation serves the

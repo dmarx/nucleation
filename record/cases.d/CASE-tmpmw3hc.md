@@ -33,10 +33,9 @@ summary: >-
   figures were rechecked by the filer.
 ---
 <!-- inactive-ok-file: NOTE-tmp9papc — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpftfht LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
 
 # CASE-tmpmw3hc: A proposed study: loot-box economies as a measurable test of whether a minority's spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game's releases against the economic weight of its high spenders, and the spread of designs across games
 
@@ -126,7 +125,7 @@ it. Gan does not address heterogeneous spenders or "whales".
 
 ## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
 
-From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+From the reading in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md) ([LIT-tmpftfht](../literature.d/LIT-tmpftfht.md)), the reader's assessment as
 checked by the filer: **bears directly.** It is the closest existing study:
 one game, full logs, whale vs non-whale tastes, and design counterfactuals.
 Its design lever is stage difficulty, not the real-money cost of a

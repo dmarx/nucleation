@@ -27,7 +27,7 @@ summary: >-
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpoxhqq — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpfw2u8 LIT-tmpawef9 LIT-tmpk1h9j — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpawef9 LIT-tmpk1h9j — Deferred; registered from the same exchange, unread -->
 
 # ARG-tmp1jad4: The parasite cases, with manipulation stronger in mature parasite stages and in the presence of the right predator, are evidence that the hosts' behaviour is controlled by the parasites' selected adaptations; they are no evidence for or against the parasites' representing goals
 
@@ -73,7 +73,7 @@ case.
 
 ## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
 
-From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+From the reading in [NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md) ([LIT-tmpfw2u8](../literature.d/LIT-tmpfw2u8.md)), the reader's assessment as
 checked by the filer: **supports with a qualification.** The stage- and
 predator-dependence premise is now read and confirmed; but the predator
 effect is weaker than A's gloss (for immature parasites "their manipulation

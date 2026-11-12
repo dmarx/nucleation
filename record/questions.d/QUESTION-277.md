@@ -369,7 +369,7 @@ result 3 is a measured analogue at the community level, a minor link.
 
 ## Note of 2026-11-12: Strand and Burke (2012), Polydnaviruses as Symbionts and Gene Delivery Systems, read
 
-From the reading in NOTE-tmpkdoms (LIT-tmpaus56), the reader's assessment as
+From the reading in [NOTE-tmpkdoms](../notes.d/NOTE-tmpkdoms.md) ([LIT-tmpaus56](../literature.d/LIT-tmpaus56.md)), the reader's assessment as
 checked by the filer: **bears directly**: a route to dependence through gene
 transfer into the host genome with control of replication handed to host
 machinery, plus vertical transmission, giving full reproductive cohesion

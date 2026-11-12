@@ -24,14 +24,14 @@ first_author: 'Adler'
 keywords: []
 implementations: []
 summary: >-
-  Adler (2024), Cornell Law Review. Read on 2026-11-12 in NOTE-tmpmczjl:
+  Adler (2024), Cornell Law Review. Read on 2026-11-12 in [NOTE-tmpmczjl](../notes.d/NOTE-tmpmczjl.md):
   Adler argues that since 2007 pornography has moved onto ad-supported,
   algorithm-driven "tube sites", mostly owned by one near-monopoly firm
   (MindGeek, renamed Aylo in 2023), and should be analysed as a "Big Tech"
   speech-platform problem. Recommendation, rigid categorization,
   keyword/search optimization and data-driven commissioning of content
   constrain what users see, shape their preferences, and shape what
-  producers make. Its account is THEORY-tmpvmddc. Registered from the
+  producers make. Its account is [THEORY-tmpvmddc](../theory.d/THEORY-tmpvmddc.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A27 §§1, 3, 7.
 ---
@@ -44,7 +44,7 @@ Amy Adler (2024). "Arousal by Algorithm." *Cornell Law Review 109(4): 787-842*.
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpmczjl). A new framing in legal scholarship (porn
+Read on 2026-11-12 ([NOTE-tmpmczjl](../notes.d/NOTE-tmpmczjl.md)). A new framing in legal scholarship (porn
 as a Big Tech speech-platform problem), assembled from secondary sources; no
 new data.
 
@@ -52,5 +52,5 @@ new data.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §§1, 3, 7. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpmczjl and its account
-THEORY-tmpvmddc.
+Read on 2026-11-12; the reading is [NOTE-tmpmczjl](../notes.d/NOTE-tmpmczjl.md) and its account
+[THEORY-tmpvmddc](../theory.d/THEORY-tmpvmddc.md).

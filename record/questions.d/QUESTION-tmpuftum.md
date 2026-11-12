@@ -141,7 +141,7 @@ entries it bears on (found on recheck):
 
 ## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
 
-From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+From the reading in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) ([LIT-tmpfkveo](../literature.d/LIT-tmpfkveo.md)), the reader's assessment as
 checked by the filer: **bears directly, leaves open.** Burke et al. state
 the problem (stakeholder identification is the first step, platforms are
 reluctant to disclose their multistakeholder aspects, governance is "a
@@ -150,5 +150,5 @@ circularity.
 
 ## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
 
-From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+From the reading in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md) ([LIT-tmpftfht](../literature.d/LIT-tmpftfht.md)), the reader's assessment as
 checked by the filer: not bearing directly.

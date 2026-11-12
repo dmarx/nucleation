@@ -119,7 +119,7 @@ recheck):
 
 ## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
 
-From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+From the reading in [NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md) ([LIT-tmpfw2u8](../literature.d/LIT-tmpfw2u8.md)), the reader's assessment as
 checked by the filer: **supports the causal-control-by-adaptation half.**
 Stage dependence and the dominance of mature parasites in mixed infections
 are what selection for transmission predicts. It says nothing on intentional
@@ -130,7 +130,7 @@ another's behaviour" in Dawkins's terms.
 
 ## Note of 2026-11-12: Cuny and Poelman (2022), Evolution of koinobiont parasitoid host regulation and consequences for indirect plant defence, read
 
-From the reading in NOTE-tmpcqa6k (LIT-tmpxupl8), the reader's assessment as
+From the reading in [NOTE-tmpcqa6k](../notes.d/NOTE-tmpcqa6k.md) ([LIT-tmpxupl8](../literature.d/LIT-tmpxupl8.md)), the reader's assessment as
 checked by the filer: **supports by extension**: control by selected
 adaptations through the host's own machinery (its hormones), with plasticity
 in direction that is what adaptation, not pathology, predicts.

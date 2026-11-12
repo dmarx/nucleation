@@ -54,7 +54,7 @@ None stated beyond the above.
 
 **How far it stands in.** Restates only the general move of turning ethical principles into checks inside a data workflow. It does not cover European ethics codes, newsroom workflows across the data-journalism process, or "epistemic governance". A weak stand-in.
 
-- **QUESTION-441**: **leaves open**; it shows principles operationalized as practice-level checks, not an organization's counter-normativity.
+- **[QUESTION-441](../questions.d/QUESTION-441.md)**: **leaves open**; it shows principles operationalized as practice-level checks, not an organization's counter-normativity.
 
 ## Limitations
 

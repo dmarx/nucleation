@@ -32,14 +32,14 @@ summary: >-
   and regulate its growth, usually arresting it, by injected and secreted
   factors (venom, polydnaviruses, teratocytes); the regulation changes the
   plant's responses to the parasitized herbivore. A partial stand-in for
-  LIT-tmpfefbb. Skimmed on 2026-11-12 in NOTE-tmpcqa6k: Koinobiont
+  [LIT-tmpfefbb](LIT-tmpfefbb.md). Skimmed on 2026-11-12 in [NOTE-tmpcqa6k](../notes.d/NOTE-tmpcqa6k.md): Koinobiont
   parasitoids let the host keep feeding while their larvae develop inside
   it, and regulate the host's growth: usually arresting it (smaller hosts
   eating less), sometimes prolonging it (larger hosts eating more), and some
   species switch with conditions. The regulation is done by injected and
   secreted factors, and it changes the plant's responses to the parasitized
   herbivore, so it reaches the wider community. Its account is
-  THEORY-tmpxjies.
+  [THEORY-tmpxjies](../theory.d/THEORY-tmpxjies.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpcqa6k — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpfefbb — Unfetched; filed from the same exchange -->
@@ -59,9 +59,9 @@ and the effect reaches the plant the host eats.
 
 ## Standing in the record
 
-Registered as a partial stand-in for LIT-tmpfefbb, for the effector toolkit
+Registered as a partial stand-in for [LIT-tmpfefbb](LIT-tmpfefbb.md), for the effector toolkit
 and its action on host growth and feeding, not for behavioural manipulation
 or post-2022 molecular findings.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpcqa6k and its account
-THEORY-tmpxjies.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpcqa6k](../notes.d/NOTE-tmpcqa6k.md) and its account
+[THEORY-tmpxjies](../theory.d/THEORY-tmpxjies.md).

@@ -109,6 +109,6 @@ question stays Open.
 
 ## Note of 2026-11-12: Dierickx et al. (2024), A data-centric approach for ethical and trustworthy AI in journalism, read
 
-From the reading in NOTE-tmp5dpvo (LIT-tmp7cw8s), the reader's assessment as
+From the reading in [NOTE-tmp5dpvo](../notes.d/NOTE-tmp5dpvo.md) ([LIT-tmp7cw8s](../literature.d/LIT-tmp7cw8s.md)), the reader's assessment as
 checked by the filer: **leaves open**; it shows principles operationalized
 as practice-level checks, not an organization's counter-normativity.

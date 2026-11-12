@@ -37,7 +37,7 @@ summary: >-
   Han et al. (2026), DOI-10.1287/opre.2023.0026. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md). In A's account, which is unverified until read, it treats loot-box price and drop probabilities as variables of a revenue-maximization problem and gives algorithms for it.
 ---
 <!-- inactive-ok-file: LIT-tmp88875 — Unfetched; filed from the same exchange -->
-<!-- inactive-ok-file: LIT-tmpftfht LIT-tmpuoy9g — Deferred; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmpuoy9g — Deferred; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpmw3hc — Proposed; filed from the same exchange -->
 
 # LIT-tmpbl3eg: Algorithms for Loot Box Design

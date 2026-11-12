@@ -18,7 +18,7 @@ promote_when: >-
 summary: >-
   Cuny and Poelman (2022), Evolution of koinobiont parasitoid host
   regulation and consequences for indirect plant defence, read in
-  NOTE-tmpcqa6k (Skimmed). Koinobiont parasitoids let the host keep feeding
+  [NOTE-tmpcqa6k](../notes.d/NOTE-tmpcqa6k.md) (Skimmed). Koinobiont parasitoids let the host keep feeding
   while their larvae develop inside it, and regulate the host's growth:
   usually arresting it (smaller hosts eating less), sometimes prolonging it
   (larger hosts eating more), and some species switch with conditions. The
@@ -27,7 +27,6 @@ summary: >-
   community.
 ---
 <!-- inactive-ok-file: NOTE-tmpcqa6k — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpoxhqq CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # THEORY-tmpxjies: Cuny and Poelman review evidence that koinobiont parasitoids regulate the development and feeding of the herbivores they grow inside, usually arresting but sometimes prolonging host growth and in some species switching with conditions, through polydnaviruses, venom, teratocytes and larval secretions that act on the host's own hormones, and that these changes in the host alter how plants respond to herbivory.
 
@@ -37,4 +36,4 @@ Cuny and Poelman review evidence that koinobiont parasitoids regulate the develo
 
 ## Evidence
 
-The reading in NOTE-tmpcqa6k; its key results are quoted there with locations.
+The reading in [NOTE-tmpcqa6k](../notes.d/NOTE-tmpcqa6k.md); its key results are quoted there with locations.

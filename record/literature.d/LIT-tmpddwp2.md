@@ -52,7 +52,7 @@ Takahiro E. Ohara and Elaine Y. Hsiao (2025). "Microbiota–neuroepithelial sign
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on [CASE-047](../cases.d/CASE-047.md), [CLAIM-166](../claims.d/CLAIM-166.md).
 
-Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmpth8gj. The
+Unavailable on 2026-11-12. Neighbour read in its place: [LIT-tmpth8gj](LIT-tmpth8gj.md). The
 reader on how far it stands in: Ahmed et al. (2022), "Microbiota-derived
 metabolites as drivers of gut–brain communication", *Gut Microbes* (OA). It
 stands in only partly: it covers the metabolite side and

@@ -32,12 +32,12 @@ summary: >-
   the female's ovary, and the wasp injects the virions with its eggs into a
   caterpillar, where viral genes suppress the host's immunity and alter its
   growth. Bracovirus replication genes descend from a nudivirus ancestor. A
-  partial stand-in for LIT-tmpe26cm. Read on 2026-11-12 in NOTE-tmpkdoms:
+  partial stand-in for [LIT-tmpe26cm](LIT-tmpe26cm.md). Read on 2026-11-12 in [NOTE-tmpkdoms](../notes.d/NOTE-tmpkdoms.md):
   Polydnaviruses (PDVs) are viruses carried by parasitoid wasps. In
   bracoviruses the provirus sits in every wasp cell; it replicates only in
   calyx cells of the female ovary, and the virions are injected with the
   eggs into a caterpillar host, where their genes are expressed but never
-  replicate. Its account is THEORY-tmpqixf6.
+  replicate. Its account is [THEORY-tmpqixf6](../theory.d/THEORY-tmpqixf6.md).
 ---
 <!-- inactive-ok-file: LIT-tmpe26cm — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpqixf6 — Proposed; filed from the same exchange -->
@@ -55,8 +55,8 @@ wasp's tool for altering a third organism.
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmpe26cm, for the domesticated-virus case
+Registered as a stand-in for [LIT-tmpe26cm](LIT-tmpe26cm.md), for the domesticated-virus case
 only, not for that review's other categories or later findings.
 
-Read on 2026-11-12; the reading is NOTE-tmpkdoms and its account
-THEORY-tmpqixf6.
+Read on 2026-11-12; the reading is [NOTE-tmpkdoms](../notes.d/NOTE-tmpkdoms.md) and its account
+[THEORY-tmpqixf6](../theory.d/THEORY-tmpqixf6.md).

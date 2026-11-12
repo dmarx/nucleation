@@ -70,11 +70,11 @@ Public good (non-rival, non-excludable); underprovision; Coasian solution via ex
 
 **On the LIT's and the exchange's characterization.** The LIT summary (A37 §4) is accurate: investigative journalism as a public good, survey evidence from the US, UK and Norway on underprovision and public broadcasters. It omits the twist that support for public provision is cut by perceived broadcaster bias, and the finding that people value wider sharing.
 
-- **CLAIM-tmpifp69** (attention-optimizing news works against investigative journalism, "whose value falls largely to people who never pay for them"): **supports the second reason it gives**, the externality: WTP summed over all exceeds what a seller can collect, and exclusivity does not raise WTP. It **leaves open** the attention/clickbait mechanism: the paper does not study attention-based revenue, ranking, or clickbait, and attributes the decline to lost advertising revenue (citing Angelucci and Cagé), which is the rival CLAIM-tmpifp69's `defeated_if` names.
-- **CASE-tmpd5eqf** (newsroom allocating by measured demand cuts investigations): **supports weakly**, by showing value that measured paid demand cannot register.
-- **ARG-tmp7eevo** (found on recheck; transfer from games to news): consistent with its point that what news "weights" differs (here, external value not captured by any revenue signal).
+- **[CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)** (attention-optimizing news works against investigative journalism, "whose value falls largely to people who never pay for them"): **supports the second reason it gives**, the externality: WTP summed over all exceeds what a seller can collect, and exclusivity does not raise WTP. It **leaves open** the attention/clickbait mechanism: the paper does not study attention-based revenue, ranking, or clickbait, and attributes the decline to lost advertising revenue (citing Angelucci and Cagé), which is the rival [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)'s `defeated_if` names.
+- **[CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)** (newsroom allocating by measured demand cuts investigations): **supports weakly**, by showing value that measured paid demand cannot register.
+- **[ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md)** (found on recheck; transfer from games to news): consistent with its point that what news "weights" differs (here, external value not captured by any revenue signal).
 
-Searched DOI, title, "public broadcast", "public good", "Coase", "free-rid", "non-excludab". No duplicate. "free-rid" and "public good" hits (CLAIM-603, LIT-966, LIT-2188 etc.) concern biology and cooperation, not media. Missed in the first search: ARG-tmp7eevo, CASE-tmpd5eqf.
+Searched DOI, title, "public broadcast", "public good", "Coase", "free-rid", "non-excludab". No duplicate. "free-rid" and "public good" hits ([CLAIM-603](../claims.d/CLAIM-603.md), [LIT-966](../literature.d/LIT-966.md), [LIT-2188](../literature.d/LIT-2188.md) etc.) concern biology and cooperation, not media. Missed in the first search: [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md), [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md).
 
 ## Limitations
 

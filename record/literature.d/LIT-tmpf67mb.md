@@ -25,12 +25,12 @@ keywords: []
 implementations: []
 summary: >-
   Ince et al. (2024), DOI-10.1016/j.addbeh.2024.108048. Read on 2026-11-12
-  in NOTE-tmp0g2i6: Two cross-sectional online samples of male pornography
+  in [NOTE-tmp0g2i6](../notes.d/NOTE-tmp0g2i6.md): Two cross-sectional online samples of male pornography
   users (N1 = 1,356 USA; N2 = 944 UK). Measures: the five-item Brief
   Pornography Screener (BPS) for problematic pornography use (PPU); the PPCS
   tolerance subscale split into quantitative tolerance (two items, averaged)
   and qualitative escalation (one item); binge frequency; edging;
-  tab-jumping. Its account is THEORY-tmplhx65. Registered from the exchange
+  tab-jumping. Its account is [THEORY-tmplhx65](../theory.d/THEORY-tmplhx65.md). Registered from the exchange
   "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it
   at A27 §2.
 ---
@@ -43,7 +43,7 @@ Campbell Ince, Lucy Albertella, Chang Liu, Jeggan Tiego, Leonardo F. Fontenelle,
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp0g2i6). First quantitative study of binges,
+Read on 2026-11-12 ([NOTE-tmp0g2i6](../notes.d/NOTE-tmp0g2i6.md)). First quantitative study of binges,
 edging and tab-jumping alongside time- and genre-escalation in relation to
 PPU, separating quantitative (time) from qualitative (content) escalation.
 
@@ -51,5 +51,5 @@ PPU, separating quantitative (time) from qualitative (content) escalation.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §2. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp0g2i6 and its account
-THEORY-tmplhx65.
+Read on 2026-11-12; the reading is [NOTE-tmp0g2i6](../notes.d/NOTE-tmp0g2i6.md) and its account
+[THEORY-tmplhx65](../theory.d/THEORY-tmplhx65.md).

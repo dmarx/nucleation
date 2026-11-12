@@ -421,7 +421,7 @@ as a declared measure, not as frustration itself.
 
 ## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
 
-From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+From the reading in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) ([LIT-tmpfkveo](../literature.d/LIT-tmpfkveo.md)), the reader's assessment as
 checked by the filer: **supports by analogy, independently.** Burke et al.
 keep the multi-metric vector as a legitimate end state and allow expert
 orderings with incomparable pairs, which is CLAIM-347's point that relief

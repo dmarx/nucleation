@@ -59,8 +59,8 @@ None stated beyond the above.
 
 **How far it stands in.** Restates the developmental-bioelectricity evidence and the gaps in mechanism. It does not cover tissue repair and disease contexts, endogenous electric fields and electrotaxis, or anything after early 2022.
 
-- **THEORY-583**: **qualifies.** It supports the premise that bioelectric signalling coordinates cells into tissue-level patterning, while reading it as calcium and Vmem signals feeding known pathways, mechanism unclear, with no agential or goal language. It neither supports nor refutes Levin's interpretation; it shows the mainstream does not need it.
-- THEORY-523, THEORY-1317, THEORY-1346 (membrane-potential hits on recheck) were not checked.
+- **[THEORY-583](../theory.d/THEORY-583.md)**: **qualifies.** It supports the premise that bioelectric signalling coordinates cells into tissue-level patterning, while reading it as calcium and Vmem signals feeding known pathways, mechanism unclear, with no agential or goal language. It neither supports nor refutes Levin's interpretation; it shows the mainstream does not need it.
+- [THEORY-523](../theory.d/THEORY-523.md), [THEORY-1317](../theory.d/THEORY-1317.md), [THEORY-1346](../theory.d/THEORY-1346.md) (membrane-potential hits on recheck) were not checked.
 
 ## Limitations
 

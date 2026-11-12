@@ -16,7 +16,7 @@ promote_when: >-
   reports results per stakeholder group.
 summary: >-
   Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder
-  Evaluation of Recommender Systems, read in NOTE-tmpxhqv2 (Skimmed). A
+  Evaluation of Recommender Systems, read in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) (Skimmed). A
   position-and-guidance article. Recommender evaluation has been almost
   wholly about the end user; a multistakeholder evaluation assesses "the
   quality of recommendations ... across multiple groups of stakeholders".
@@ -31,4 +31,4 @@ Burke et al. argue that recommender systems should be evaluated by the outcomes 
 
 ## Evidence
 
-The reading in NOTE-tmpxhqv2; its key results are quoted there with locations.
+The reading in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md); its key results are quoted there with locations.

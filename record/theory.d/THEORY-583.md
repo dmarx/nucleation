@@ -150,7 +150,7 @@ cone.
 
 ## Note of 2026-11-12: George and Bates (2022), Mechanisms Underlying Influence of Bioelectricity in Development, read
 
-From the reading in NOTE-tmpkzn27 (LIT-tmpgrltt), the reader's assessment as
+From the reading in [NOTE-tmpkzn27](../notes.d/NOTE-tmpkzn27.md) ([LIT-tmpgrltt](../literature.d/LIT-tmpgrltt.md)), the reader's assessment as
 checked by the filer: **qualifies.** It supports the premise that
 bioelectric signalling coordinates cells into tissue-level patterning, while
 reading it as calcium and Vmem signals feeding known pathways, mechanism

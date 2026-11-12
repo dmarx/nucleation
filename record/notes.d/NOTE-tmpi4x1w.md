@@ -56,10 +56,10 @@ None stated beyond the above.
 
 **How far it stands in.** Restates: that microbial products signal to the nervous system via gut endocrine cells and nerve fibres. Does not restate: the "neuroepithelial interface" framing, sensory-nerve-to-epithelium synapses, brain-to-microbiota signalling. A partial stand-in at most.
 
-- **CLAIM-166**: **supports its grading** that routes exist and are causal in animals while human evidence is modest; this review is explicit that human evidence is "scarce and contradictory" for SCFAs and "limited" overall.
-- **CASE-047**: **supports** the case's routes (metabolites, gut hormones, nerves).
+- **[CLAIM-166](../claims.d/CLAIM-166.md)**: **supports its grading** that routes exist and are causal in animals while human evidence is modest; this review is explicit that human evidence is "scarce and contradictory" for SCFAs and "limited" overall.
+- **[CASE-047](../cases.d/CASE-047.md)**: **supports** the case's routes (metabolites, gut hormones, nerves).
 
-Searched "enterochromaffin", "gut-brain", "vagus|vagal", DOI. Not held; related holdings LIT-903, LIT-915.
+Searched "enterochromaffin", "gut-brain", "vagus|vagal", DOI. Not held; related holdings [LIT-903](../literature.d/LIT-903.md), [LIT-915](../literature.d/LIT-915.md).
 
 ## Limitations
 

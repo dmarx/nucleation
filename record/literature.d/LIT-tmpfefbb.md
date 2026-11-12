@@ -53,7 +53,7 @@ Jianhua Huang, Xue-xin Chen and Shuai Zhan (2026). "Molecular Mechanisms Underly
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpxupl8. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpxupl8](LIT-tmpxupl8.md). The
 reader on how far it stands in: Cuny and Poelman (2022), "Evolution of
 koinobiont parasitoid host regulation and consequences for indirect plant
 defence", *Evolutionary Ecology* (OA). It stands in for the mechanisms of

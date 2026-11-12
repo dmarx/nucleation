@@ -30,7 +30,7 @@ summary: >-
   pursues ([QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: LIT-tmpfw2u8 LIT-tmpwasqi LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpwasqi LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
 
 # CASE-tmp10ykm: Toxoplasma gondii and the ant-manipulating fungi: parasites whose hosts behave in ways that favour the parasite's transmission, through the host's own nervous system or muscles, the rat less averse to cat odour and the ant climbing and clamping before it dies
 
@@ -98,7 +98,7 @@ from manipulation in the *Toxoplasma* case.
 
 ## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
 
-From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+From the reading in [NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md) ([LIT-tmpfw2u8](../literature.d/LIT-tmpfw2u8.md)), the reader's assessment as
 checked by the filer: **leaves open.** The meta-analysis covers helminths,
 not these taxa; it supports the general phenomenon, not the case's
 particulars.

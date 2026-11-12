@@ -125,12 +125,12 @@ has no design variable.
 
 ## Note of 2026-11-12: Adler (2024), Arousal by Algorithm, read
 
-From the reading in NOTE-tmpmczjl (LIT-tmpdak05), the reader's assessment as
+From the reading in [NOTE-tmpmczjl](../notes.d/NOTE-tmpmczjl.md) ([LIT-tmpdak05](../literature.d/LIT-tmpdak05.md)), the reader's assessment as
 checked by the filer: **leaves open**; she does not distinguish weightings.
 
 ## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
 
-From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+From the reading in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) ([LIT-tmpfkveo](../literature.d/LIT-tmpfkveo.md)), the reader's assessment as
 checked by the filer: **context only.** The paper names platforms'
 commercial weighting of recommendations (the Spotify disclosure; the
 popularity-vs-long-tail conflict) but offers no evidence on whose demand
@@ -138,7 +138,7 @@ sets what is produced.
 
 ## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
 
-From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+From the reading in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md) ([LIT-tmpftfht](../literature.d/LIT-tmpftfht.md)), the reader's assessment as
 checked by the filer: **qualifies.** The whales' marginal revenue response
 to difficulty is enormous (Table 6: overall revenue ×23.49 at half win
 probability) and against non-whales' preference, yet the observed design is

@@ -93,6 +93,6 @@ case's bullets.
 
 ## Note of 2026-11-12: Ahmed et al. (2022), Microbiota-derived metabolites as drivers of gut–brain communication, read
 
-From the reading in NOTE-tmpi4x1w (LIT-tmpth8gj), the reader's assessment as
+From the reading in [NOTE-tmpi4x1w](../notes.d/NOTE-tmpi4x1w.md) ([LIT-tmpth8gj](../literature.d/LIT-tmpth8gj.md)), the reader's assessment as
 checked by the filer: **supports** the case's routes (metabolites, gut
 hormones, nerves).

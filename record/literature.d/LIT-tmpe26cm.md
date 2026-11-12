@@ -52,7 +52,7 @@ Michael R. Strand, Kelsey A. Coffman and Gaelen R. Burke (2026). "Large DNA Viru
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [QUESTION-277](../questions.d/QUESTION-277.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpaus56. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpaus56](LIT-tmpaus56.md). The
 reader on how far it stands in: Strand and Burke (2012), "Polydnaviruses as
 Symbionts and Gene Delivery Systems", *PLoS Pathogens* (OA), by two of the
 three authors. It stands in for the domesticated-virus part of the review

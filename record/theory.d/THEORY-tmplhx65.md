@@ -14,7 +14,7 @@ promote_when: >-
   and problematic-use symptoms.
 summary: >-
   Ince et al. (2024), Problematic pornography use and novel patterns of
-  escalating use, read in NOTE-tmp0g2i6 (Read). Two cross-sectional online
+  escalating use, read in [NOTE-tmp0g2i6](../notes.d/NOTE-tmp0g2i6.md) (Read). Two cross-sectional online
   samples of male pornography users (N1 = 1,356 USA; N2 = 944 UK). Measures:
   the five-item Brief Pornography Screener (BPS) for problematic pornography
   use (PPU); the PPCS tolerance subscale split into quantitative tolerance
@@ -30,4 +30,4 @@ Ince et al. report, from two cross-sectional samples of male pornography users (
 
 ## Evidence
 
-The reading in NOTE-tmp0g2i6; its key results are quoted there with locations.
+The reading in [NOTE-tmp0g2i6](../notes.d/NOTE-tmp0g2i6.md); its key results are quoted there with locations.

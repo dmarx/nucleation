@@ -16,7 +16,7 @@ promote_when: >-
   inconsistent human support.
 summary: >-
   Ahmed et al. (2022), Microbiota-derived metabolites as drivers of
-  gut–brain communication, read in NOTE-tmpi4x1w (Skimmed). A review of how
+  gut–brain communication, read in [NOTE-tmpi4x1w](../notes.d/NOTE-tmpi4x1w.md) (Skimmed). A review of how
   gut-microbial metabolites (SCFAs, tryptophan/indole derivatives, bile
   acids, sulfated phenolics and others) influence brain functions through
   immune, neural and endocrine routes, arranged by neurological function,
@@ -24,7 +24,6 @@ summary: >-
   preclinical picture.
 ---
 <!-- inactive-ok-file: NOTE-tmpi4x1w — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # THEORY-tmpomlt0: Ahmed et al. review evidence that gut-microbial metabolites act on brain function through immune, neural and endocrine routes, including enterochromaffin and enteroendocrine signalling to nerve fibres, and conclude that the evidence is largely preclinical, with human evidence limited and, for short-chain fatty acids, scarce and contradictory.
 
@@ -34,4 +33,4 @@ Ahmed et al. review evidence that gut-microbial metabolites act on brain functio
 
 ## Evidence
 
-The reading in NOTE-tmpi4x1w; its key results are quoted there with locations.
+The reading in [NOTE-tmpi4x1w](../notes.d/NOTE-tmpi4x1w.md); its key results are quoted there with locations.

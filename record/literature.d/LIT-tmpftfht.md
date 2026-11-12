@@ -27,7 +27,7 @@ keywords: []
 implementations: []
 summary: >-
   Amano and Simonov (2023), DOI-10.2139/ssrn.4355019. Skimmed on 2026-11-12
-  in NOTE-tmp9papc: Using the complete action and transaction log of one
+  in [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md): Using the complete action and transaction log of one
   free-to-play mobile puzzle game (2.5 million users, about 20 million paid
   loot boxes, 96% of in-game revenue from loot boxes), the authors estimate
   a dynamic discrete-choice model in which loot boxes can have "functional"
@@ -35,7 +35,7 @@ summary: >-
   from opening, plus state dependence). Estimating separately for "whales"
   (top spenders) and others, they find regular players value loot boxes
   mostly for gameplay and whales mostly for the direct utility. Its account
-  is THEORY-tmpee6xr. Registered from the exchange "Medical Ethics and Media
+  is [THEORY-tmpee6xr](../theory.d/THEORY-tmpee6xr.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A25 §3, A29 §1–2 and
   A31 §1.
 ---
@@ -49,7 +49,7 @@ Tomomichi Amano and Andrey Simonov (2023). "What Makes Players Pay? An Empirical
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmp9papc). First revealed-preference
+Skimmed on 2026-11-12 ([NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md)). First revealed-preference
 (structural) measure of why players buy loot boxes, separating gameplay
 complementarity from the thrill of the lottery, with policy counterfactuals.
 
@@ -57,5 +57,5 @@ complementarity from the thrill of the lottery, with policy counterfactuals.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §3, A29 §1–2 and A31 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmp9papc and its account
-THEORY-tmpee6xr.
+Skimmed on 2026-11-12; the reading is [NOTE-tmp9papc](../notes.d/NOTE-tmp9papc.md) and its account
+[THEORY-tmpee6xr](../theory.d/THEORY-tmpee6xr.md).

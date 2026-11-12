@@ -25,11 +25,11 @@ keywords: []
 implementations: []
 summary: >-
   Næss (2024), DOI-10.1016/j.jebo.2024.106870. Skimmed on 2026-11-12 in
-  NOTE-tmpaa0uz: A public-goods model plus survey experiments. Each person's
+  [NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md): A public-goods model plus survey experiments. Each person's
   payoff from investigative journalism is shared; a firm selling access can
   collect only private willingness to pay (WTP), so when marginal cost lies
   between one person's marginal benefit and the sum over N people, provision
-  is Pareto-inefficiently low. Its account is THEORY-tmpd4kon. Registered
+  is Pareto-inefficiently low. Its account is [THEORY-tmpd4kon](../theory.d/THEORY-tmpd4kon.md). Registered
   from the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
   where A cited it at A37 §4.
 ---
@@ -43,7 +43,7 @@ Ole-Andreas Elvik Næss (2024). "Investigative journalism: Market failures and g
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpaa0uz). A public-goods model plus survey
+Skimmed on 2026-11-12 ([NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md)). A public-goods model plus survey
 experiments. Each person's payoff from investigative journalism is shared; a
 firm selling access can collect only private willingness to pay (WTP), so
 when marginal cost lies between one person's marginal benefit and the sum
@@ -57,5 +57,5 @@ dissemination, and a promise of political neutrality.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §4. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpaa0uz and its account
-THEORY-tmpd4kon.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpaa0uz](../notes.d/NOTE-tmpaa0uz.md) and its account
+[THEORY-tmpd4kon](../theory.d/THEORY-tmpd4kon.md).

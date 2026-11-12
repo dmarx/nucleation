@@ -52,7 +52,7 @@ Laurence Dierickx, Marília Gehrke and Carl-Gustav Lindén (2026). "From normati
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. It bears on [QUESTION-441](../questions.d/QUESTION-441.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmp7cw8s. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmp7cw8s](LIT-tmp7cw8s.md). The
 reader on how far it stands in: Dierickx, Opdahl, Khan, Lindén and Guerrero
 Rojas (2024), "A data-centric approach for ethical and trustworthy AI in
 journalism", *Ethics and Information Technology* (OA). A weak stand-in: it

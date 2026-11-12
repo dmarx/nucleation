@@ -61,9 +61,9 @@ None stated beyond the above.
 
 **How far it stands in.** Restates the domesticated-endogenized-virus case in detail. Does not cover the 2026 review's other categories (mechanically transmitted viruses, non-domesticated symbionts, reproductive parasites), nor anything learned 2012-2026 (e.g. later-described independent domestications, which its abstract implies).
 
-- **QUESTION-277**: **bears directly**: a route to dependence through gene transfer into the host genome with control of replication handed to host machinery, plus vertical transmission, giving full reproductive cohesion between wasp and virus; and a shared origin (100 million years, one ancestral virus) that QUESTION-277's "alignment of selection" item needs.
-- **CLAIM-tmpu69tn**: **supports** the "foreign-origin cells (here, genes) serving the host" combination: nudivirus origin, now an "obligate beneficial symbiont" of the wasp; and its effects on the caterpillar are a third organism's capture.
-- **CLAIM-603** (found on recheck via QUESTION-277's comments; on specialization and dependency): not checked in detail.
+- **[QUESTION-277](../questions.d/QUESTION-277.md)**: **bears directly**: a route to dependence through gene transfer into the host genome with control of replication handed to host machinery, plus vertical transmission, giving full reproductive cohesion between wasp and virus; and a shared origin (100 million years, one ancestral virus) that [QUESTION-277](../questions.d/QUESTION-277.md)'s "alignment of selection" item needs.
+- **[CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md)**: **supports** the "foreign-origin cells (here, genes) serving the host" combination: nudivirus origin, now an "obligate beneficial symbiont" of the wasp; and its effects on the caterpillar are a third organism's capture.
+- **[CLAIM-603](../claims.d/CLAIM-603.md)** (found on recheck via [QUESTION-277](../questions.d/QUESTION-277.md)'s comments; on specialization and dependency): not checked in detail.
 
 ## Limitations
 

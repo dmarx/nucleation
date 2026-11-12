@@ -24,11 +24,11 @@ keywords: []
 implementations: []
 summary: >-
   Hafer‐Hahmann (2026), DOI-10.1111/ele.70340. Read on 2026-11-12 in
-  NOTE-tmp1p0ry: A Bayesian phylogenetic meta-analysis (brms) of host
+  [NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md): A Bayesian phylogenetic meta-analysis (brms) of host
   manipulation by trophically transmitted helminths: 1,635 observations, 207
   papers, 82 parasite and 80 host taxa. Effect size is Cohen's d for
   infected vs uninfected hosts, signed by assumed effect on predation
-  susceptibility. Its account is THEORY-tmpyuy3t. Registered from the
+  susceptibility. Its account is [THEORY-tmpyuy3t](../theory.d/THEORY-tmpyuy3t.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A19 §2 and §8.
 ---
@@ -41,7 +41,7 @@ Nina Hafer‐Hahmann (2026). "The Evolution and Ecology of Host Manipulation in 
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp1p0ry). The first phylogenetic meta-analysis to
+Read on 2026-11-12 ([NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md)). The first phylogenetic meta-analysis to
 test theoretical drivers of manipulation strength across helminths, rather
 than only documenting that manipulation occurs.
 
@@ -49,5 +49,5 @@ than only documenting that manipulation occurs.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §2 and §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp1p0ry and its account
-THEORY-tmpyuy3t.
+Read on 2026-11-12; the reading is [NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md) and its account
+[THEORY-tmpyuy3t](../theory.d/THEORY-tmpyuy3t.md).

@@ -29,10 +29,10 @@ keywords: []
 implementations: []
 summary: >-
   Burke et al. (2025), DOI-10.1016/j.ijhcs.2025.103560. Skimmed on
-  2026-11-12 in NOTE-tmpxhqv2: A position-and-guidance article. Recommender
+  2026-11-12 in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md): A position-and-guidance article. Recommender
   evaluation has been almost wholly about the end user; a multistakeholder
   evaluation assesses "the quality of recommendations ... across multiple
-  groups of stakeholders". Its account is THEORY-tmpua5s5. Registered from
+  groups of stakeholders". Its account is [THEORY-tmpua5s5](../theory.d/THEORY-tmpua5s5.md). Registered from
   the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
   where A cited it at A42 §4.
 ---
@@ -45,7 +45,7 @@ Robin Burke, Gediminas Adomavicius, Toine Bogers, Tommaso Di Noia, Dominik Kowal
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpxhqv2). A framework and checklist for
+Skimmed on 2026-11-12 ([NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md)). A framework and checklist for
 deriving stakeholder-specific evaluation metrics from values, not a new
 method or result. Its examples are labelled hypothetical.
 
@@ -53,5 +53,5 @@ method or result. Its examples are labelled hypothetical.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §4. It bears on [CLAIM-347](../claims.d/CLAIM-347.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpxhqv2 and its account
-THEORY-tmpua5s5.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) and its account
+[THEORY-tmpua5s5](../theory.d/THEORY-tmpua5s5.md).

@@ -31,12 +31,12 @@ summary: >-
   the Accuracy-Fairness-Transparency framework for assessing datasets used
   to build machine-learning tools in newsrooms, deriving data-quality checks
   from three principles of journalism ethics. A weak stand-in for
-  LIT-tmpg91jb. Skimmed on 2026-11-12 in NOTE-tmp5dpvo: Proposes the
+  [LIT-tmpg91jb](LIT-tmpg91jb.md). Skimmed on 2026-11-12 in [NOTE-tmp5dpvo](../notes.d/NOTE-tmp5dpvo.md): Proposes the
   Accuracy-Fairness-Transparency (AFT) framework for assessing the quality
   of datasets used to build machine-learning tools in newsrooms, deriving
   data-quality checks from three core principles of journalism ethics, and
   placing the work in the shift from model-centric to data-centric AI. Its
-  account is THEORY-tmpao6ui.
+  account is [THEORY-tmpao6ui](../theory.d/THEORY-tmpao6ui.md).
 ---
 <!-- inactive-ok-file: NOTE-tmp5dpvo — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpg91jb — Unfetched; filed from the same exchange -->
@@ -56,8 +56,8 @@ newsroom's tools are built from.
 
 ## Standing in the record
 
-Registered as a weak stand-in for LIT-tmpg91jb: it shares only the move of
+Registered as a weak stand-in for [LIT-tmpg91jb](LIT-tmpg91jb.md): it shares only the move of
 turning ethical principles into checks inside a data workflow.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmp5dpvo and its account
-THEORY-tmpao6ui.
+Skimmed on 2026-11-12; the reading is [NOTE-tmp5dpvo](../notes.d/NOTE-tmp5dpvo.md) and its account
+[THEORY-tmpao6ui](../theory.d/THEORY-tmpao6ui.md).

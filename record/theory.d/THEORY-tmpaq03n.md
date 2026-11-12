@@ -14,7 +14,7 @@ promote_when: >-
   activity to developmental outcomes is unresolved.
 summary: >-
   George and Bates (2022), Mechanisms Underlying Influence of Bioelectricity
-  in Development, read in NOTE-tmpkzn27 (Skimmed). A review of how ion
+  in Development, read in [NOTE-tmpkzn27](../notes.d/NOTE-tmpkzn27.md) (Skimmed). A review of how ion
   channels and membrane potential (Vmem) act in development: human
   channelopathies with developmental phenotypes, conserved roles across
   species, spontaneous calcium oscillations in non-excitable tissue, and the
@@ -34,4 +34,4 @@ George and Bates review evidence that ion channels and membrane potential regula
 
 ## Evidence
 
-The reading in NOTE-tmpkzn27; its key results are quoted there with locations.
+The reading in [NOTE-tmpkzn27](../notes.d/NOTE-tmpkzn27.md); its key results are quoted there with locations.

@@ -31,7 +31,7 @@ summary: >-
   ion channels and membrane potential act in development, proposing calcium
   as the main mediator and Vmem with calcium oscillations, shaped by
   mechanical forces, as what coordinates cells across a tissue. A partial
-  stand-in for LIT-tmpem6qw. Skimmed on 2026-11-12 in NOTE-tmpkzn27: A
+  stand-in for [LIT-tmpem6qw](LIT-tmpem6qw.md). Skimmed on 2026-11-12 in [NOTE-tmpkzn27](../notes.d/NOTE-tmpkzn27.md): A
   review of how ion channels and membrane potential (Vmem) act in
   development: human channelopathies with developmental phenotypes,
   conserved roles across species, spontaneous calcium oscillations in
@@ -39,7 +39,7 @@ summary: >-
   polarity, migration) and signalling pathways (BMP, Notch, Wnt, Hedgehog)
   that channels touch. It proposes calcium as the main mediator and a model
   in which Vmem and calcium oscillations, shaped by mechanical forces,
-  coordinate cells across a tissue. Its account is THEORY-tmpaq03n.
+  coordinate cells across a tissue. Its account is [THEORY-tmpaq03n](../theory.d/THEORY-tmpaq03n.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpkzn27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpem6qw — Unfetched; filed from the same exchange -->
@@ -58,9 +58,9 @@ signalling pathways; how they coordinate tissue-level pattern is still open.
 
 ## Standing in the record
 
-Registered as a partial stand-in for LIT-tmpem6qw, for developmental
+Registered as a partial stand-in for [LIT-tmpem6qw](LIT-tmpem6qw.md), for developmental
 bioelectricity and its open mechanisms, not for repair, disease or electric
 fields.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpkzn27 and its account
-THEORY-tmpaq03n.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpkzn27](../notes.d/NOTE-tmpkzn27.md) and its account
+[THEORY-tmpaq03n](../theory.d/THEORY-tmpaq03n.md).

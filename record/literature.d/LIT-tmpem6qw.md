@@ -52,7 +52,7 @@ Custódio O. Nunes and Elias H. Barriga (2025). "Bioelectricity in Morphogenesis
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §7. It bears on [THEORY-583](../theory.d/THEORY-583.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpgrltt. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpgrltt](LIT-tmpgrltt.md). The
 reader on how far it stands in: George and Bates (2022), "Mechanisms
 Underlying Influence of Bioelectricity in Development", *Frontiers in Cell
 and Developmental Biology* (OA). It stands in for a mechanism-focused review
