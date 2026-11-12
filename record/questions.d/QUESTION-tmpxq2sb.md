@@ -27,6 +27,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmpmnde8 LIT-tmpwza8d LIT-tmp4pa3f LIT-tmp1bytl — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: THEORY-402 — Proposed; Pilgrim et al.'s decomposition, cited as open -->
 <!-- inactive-ok-file: TERM-tmp8deza CLAIM-tmpyp3u3 CASE-tmpiocs1 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-1399 — Unavailable; cited for what each holds, not as settled -->
 
 # QUESTION-tmpxq2sb: Does a shared, typed and governed record help agents who hold different parts of the evidence integrate it and act on it, beyond what a structured communication protocol does, and at which stage does it help: admission, recognition, credibility or uptake?
 

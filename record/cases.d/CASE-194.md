@@ -58,6 +58,8 @@ bears_on:
 - QUESTION-097
 ---
 <!-- inactive-ok-file: ARG-025 CLAIM-427 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-tmpvq90k — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2271 LIT-2316 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-194: Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies
 
@@ -148,3 +150,16 @@ Three readings from the pasted synthesis on constraint architectures qualify the
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The pasted synthesis on resource-bounded realizability reads this case as observational equivalence that intervention breaks: "Two systems may be observationally equivalent under a given class of tests while being computationally or structurally inequivalent." A adds a layer, "𝔒 ⟼ {distinctions detectable at budget b}", and concludes that "Resource bounds govern both agency and legibility" and that understanding an object can be modeled as "a resource-bounded process of architectural identification". The record already makes legibility relative to the observer's resources ([TERM-064](../terms.d/TERM-064.md)), and [QUESTION-031](../questions.d/QUESTION-031.md) asks when a family of probes separates realizations; A's budget index is a parameter on those, not a new distinction. [CLAIM-575](../claims.d/CLAIM-575.md), from the complexity readings, adds that over families of reconfiguration problems telling which obstruction blocks a transition can itself be computationally hard, so identification can carry its own cost. Applying that to this case is the filer's connection: the result concerns families of problems, not three fixed organizations. No status changes.
+
+## Note of 2026-11-12: the construction as the seed of a diagnostic benchmark, from "luria experiment design"
+
+A47 and A48 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) make this construction the basis of the experiment
+A would run first (CASE-tmpvq90k): "We can give a team the same apparent
+failure in several worlds, each with a different hidden cause." A's
+account of it is accurate, including that it "distinguishes observation
+from communication failure; it is not the same as Nucleation's separate
+feasibility/aggregation/coordination distinction in CLAIM-346", which
+version 2 of this case says too. A50 names its prior art, model-based
+diagnosis from first principles and of multiple faults (LIT-2271,
+LIT-2316, unread): "Diagnosing different hidden failures through targeted
+probes is not a new experimental idea." The construction is unchanged.

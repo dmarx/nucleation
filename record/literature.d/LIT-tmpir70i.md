@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Munindar P. Singh (1999), Artificial Intelligence and Law, DOI 10.1023/A:1008319631231. Here because A cited it in the exchange "luria experiment design" at A32 (§4), for socially recognized commitments, with debtor, creditor, conditions and discharge, distinct from private intentions; A warns against equating a record's Active status with such a commitment. It bears on TERM-tmp8deza. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpir70i: An ontology for commitments in multiagent systems
 

@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Michal Orzechowski et al. (2026), arXiv 2610.37809. Here because A cited it in the exchange "luria experiment design" at A29 (§6), for ontology-based checkers of agent workflows that flag correct answers while missing important errors, A's reason not to score schema changes with one LLM judge. It bears on CASE-tmppm4do. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpka8bp: What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs
 

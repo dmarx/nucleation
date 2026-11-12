@@ -36,6 +36,8 @@ summary: >-
   rests on.
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 CLAIM-190 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmp8qsef LIT-tmp9oc9e LIT-tmpiufjk LIT-tmppcaeo LIT-tmpqhq20 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2279 LIT-2281 LIT-2282 SYNTHESIS-015 — Deferred, Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # QUESTION-108: When a structured record does better than a summary, a transcript or a posterior on revision tasks, is it because it retains more, because what it retains is easier to reach, or because the operations a reviser needs are easier to perform on it?
 
@@ -62,3 +64,37 @@ environment and not on reproducing the record's own graph ([CLAIM-190](../claims
 latent representations preserve the same revision competence more
 efficiently, that tells us something about the limits of nucleation's
 architecture."
+
+## Note of 2026-11-12: the owner's "equip an agent with luria", and the ablations proposed, from "luria experiment design"
+
+At U10 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) the owner asked for evaluations, "e.g. equip an agent with
+luria and evaluate the agent against some task". A's proposals bear on this
+question's three mechanisms, retaining more, easing retrieval, making
+operations cheap:
+
+- A27 and A29: run MEME (LIT-2281, unread), whose Cascade and Absence tasks
+  test dependent facts that stop holding, with plain files, retrieval, a
+  typed record, and a typed record with checks, under two ingestion modes:
+  every arm given the same gold extracted facts, which isolates
+  representation and retrieval, and every arm ingesting raw conversation,
+  which tests the whole workflow. Ingestion cost is reported apart from
+  query cost: "A structured record could gain on update handling while
+  losing badly on time and tokens spent writing records."
+- A32: hold the record's contents fixed and vary access, a shared
+  transcript, indexed notes, a typed record, a governed one, citing this
+  question for the split.
+- A36 E1: on CLAIM-293's two worlds, "A Luria agent that simply follows
+  graph edges and reaches the same conclusion in both situations has failed
+  the substantive task"; and a targeted dependency report against the full
+  graph, since a gain there would put the value in "making an operation
+  cheap, not in graph structure as such". CASE-091 holds the design these
+  extend.
+- A17: a counter-effect to test for, that "a well-structured record might
+  anchor the assistant too strongly to its existing explanatory
+  vocabulary" (SYNTHESIS-015, CLAIM-184).
+
+A20 and A27 named agent-memory systems as comparators: Generative Agents
+(LIT-tmpiufjk), HippoRAG (LIT-tmp9oc9e), A-MEM (LIT-tmpqhq20), GraphRAG
+(LIT-tmppcaeo), LongMemEval (LIT-2282) and MemoryAgentBench (LIT-2279), all
+unread. CLAIM-tmp8qsef bears on the third mechanism: what the record makes
+cheap is finding the dependants, not deciding them. Open.

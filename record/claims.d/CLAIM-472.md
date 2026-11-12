@@ -68,6 +68,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1631 — Deferred; registered unread -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->
 <!-- inactive-ok-file: LIT-1657 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-2322 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CLAIM-472: Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected
 
@@ -150,3 +151,17 @@ Its first half rests on [CLAIM-476](CLAIM-476.md), which is Proposed: no consequ
 apparatus constituting its objects has been shown beyond [CLAIM-469](CLAIM-469.md)'s
 operational facts, and [QUESTION-284](../questions.d/QUESTION-284.md)'s criterion for telling constitution
 from characterization is Open.
+
+## Note of 2026-11-12: criteria for evaluating a change of grammar, from "luria experiment design"
+
+A50 §8 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), from Carnap's explication and the conceptual-engineering
+literature (LIT-2322, unread), proposes criteria for evaluating a change to
+the record's categories, which bear on this claim's point that choosing an
+apparatus is open to evaluation and not only verification: whether a
+category "Captures the intended distinction more faithfully", "Supports
+useful inferences or operations", "Avoids creating misleading
+implications", "Remains intelligible to other collaborators", and
+"Preserves appropriate continuity with earlier usage". "The interesting
+feature is that these desiderata can conflict." A50 reads ADR-061 as such a
+change: "not simply a correction to a database schema". The claim is
+unchanged.

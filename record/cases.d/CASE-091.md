@@ -26,6 +26,8 @@ summary: >-
   for. Not run.
 ---
 <!-- inactive-ok-file: CLAIM-184 CLAIM-190 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmpmvfl2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2272 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-091: A memory ablation for revision: synthetic inquiries with known ground truth, run under six kinds of persistent memory, with information and token budget controlled separately
 
@@ -63,3 +65,17 @@ that the same representations are sufficient for open-ended scientific
 inquiry, where the state space, relevant variables, available
 interventions, and even the appropriate questions can change over time."
 That is [QUESTION-112](../questions.d/QUESTION-112.md).
+
+## Note of 2026-11-12: the same two controls, proposed again for agent teams, from "luria experiment design"
+
+A36 E1 and A39 §10 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose this case's separation of
+information from budget for a study of agents equipped with the record:
+"In an information-equivalent experiment, each condition gets the same
+relevant facts, allowing us to compare access and operations. In a
+budget-equivalent experiment, each condition gets the same storage,
+retrieval, and processing budget". A cites this case for it. A36 adds a
+trial on CLAIM-293's two worlds of equal topology, and a targeted
+dependency report as an arm. A39 adds a precedent from group research:
+transactive-memory experiments that separate knowing who knows what from
+communication itself (LIT-tmpmvfl2 and LIT-2272, unread). The design is
+unchanged; the study remains unrun.

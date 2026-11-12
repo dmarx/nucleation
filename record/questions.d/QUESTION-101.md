@@ -41,3 +41,16 @@ more time, a standard layout) each change one factor.
 An answer says, for a stated class of tasks, when the availability of a
 resource is a property of the system and not of any member, and gives a
 case where changing the arrangement alone changes it.
+
+## Note of 2026-11-12: the distinction applied to a shared record, from "luria experiment design"
+
+A34 §1 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) applies this question's distinction, with CASE-085, to a
+record that several agents share: "A shared record might contain all the
+necessary information, with correct provenance and relationships, while a
+team still fails because its agents cannot discover, interpret, authorize,
+or act on that information before a deadline." It separates information
+retained, accessible, actionable, authorized and acted on, and proposes
+the test: "give a team everything it needs somewhere in its distributed
+record, then measure whether it can coordinate the correct intervention
+under a time and communication budget." QUESTION-tmpxq2sb asks it of the
+record. Open.

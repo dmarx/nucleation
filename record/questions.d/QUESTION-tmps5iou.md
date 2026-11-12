@@ -25,6 +25,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2274 LIT-2313 LIT-2311 LIT-2312 LIT-2305 LIT-2291 LIT-2320 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-tmp5mdsg LIT-tmpo7zwb LIT-tmpt3cxh LIT-tmptsso9 LIT-tmpk047v LIT-tmp4ivms LIT-tmpp8mb7 LIT-tmp5pucj LIT-tmpzfbla LIT-tmp5rs7c — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CLAIM-tmppk8g6 CASE-tmppm4do — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmp8qsef — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-tmps5iou: Is what distinguishes luria from ontology and metamodel evolution the coupling of schema change to recorded decision, migration and executable checks, and does that coupling do work that argumentation-governed or performance-gated evolution does not?
 

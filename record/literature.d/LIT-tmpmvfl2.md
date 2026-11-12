@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Diane Wei Liang, Richard Moreland and Linda Argote (1995), Personality and Social Psychology Bulletin, DOI 10.1177/0146167295214009. Here because A cited it in the exchange "luria experiment design" at A39 (§3), for group training improves performance through transactive memory, knowing who knows what. It bears on QUESTION-108 and CASE-091; LIT-2272 (Moreland and Myaskovsky 2000) is held. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: LIT-2272 — Deferred; cited for what each holds, not as settled -->
 
 # LIT-tmpmvfl2: Group Versus Individual Training and Group Performance: The Mediating Role of Transactive Memory
 

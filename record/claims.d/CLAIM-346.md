@@ -54,6 +54,8 @@ summary: >-
   acceptance conditions; that no remedy for one removes another is A36's
   further reading, argued in the body and not part of the claim.
 ---
+<!-- inactive-ok-file: CLAIM-tmpyp3u3 LIT-tmp54rbu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CLAIM-346: Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
 
@@ -199,3 +201,19 @@ Their goal is mutual knowledge of delivery, with action only as motive,
 so the step from it to "no protocol guarantees that both act or neither
 does" is Halpern and Moses's ([LIT-1213](../literature.d/LIT-1213.md)), not theirs. The claim is
 unchanged.
+
+## Note of 2026-11-12: task families that isolate each obstruction, from "luria experiment design"
+
+A34 §2 and A36 E5 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to build tasks that isolate each of
+this claim's three obstructions, each with a matched version in which it is
+absent, so that a study of agents using a shared record can say which ones
+the record could address. A34: "a team should not be penalized for
+recognizing that its constraints are jointly unsatisfiable and documenting
+the conflict. A system that silently invents a compromise to obtain a green
+status should score worse." A36 makes "appropriate non-action" an outcome.
+A48 §1 notes, correctly, that CASE-194's construction "is not the same as
+Nucleation's separate feasibility/aggregation/coordination distinction",
+which CASE-194's version 2 also says. A50 §10 adds failures that come from
+the control structure with every agent locally competent and honest, after
+STAMP (LIT-tmp54rbu, unread). CLAIM-tmpyp3u3 rests on this claim's third
+obstruction. The claim is unchanged.

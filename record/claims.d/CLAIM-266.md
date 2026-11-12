@@ -65,6 +65,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: ADR-085 — Proposed; the line rule the history note of 2026-11-11 applies -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
+<!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
 
@@ -106,3 +107,17 @@ point.
   the two apart. [CASE-041](../cases.d/CASE-041.md) shows the bias in image generation, by training;
   [CASE-071](../cases.d/CASE-071.md) shows it in translation, by selection against the metric, which
   the title's "training signal" does not literally cover.
+
+## Note of 2026-11-12: two instances in evaluating the record itself, from "luria experiment design"
+
+Two proposals in the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) are instances of this claim. A45 §8: a benchmark
+whose reward is "reproducing the very decisions Nucleation made" cannot be
+treated "as independent proof that those decisions were epistemically
+optimal"; historical cases serve "motivation, task development, and
+qualitative process tracing", and confirmation needs "unseen problems with
+independent semantic criteria". A43 §12: keep "a genuine outer evaluation
+boundary", since agents that can rewrite the criterion that judges their
+improvements are being certified by the probes they optimize. ARG-028's
+open dispute, whether measures computed in the grammar can certify that
+drift fell, is the same point about the record's own measures. The claim
+is unchanged.

@@ -44,6 +44,7 @@ summary: >-
   (ARG-tmp8fx47). The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmp8fx47 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: ADR-082 CLAIM-250 — Proposed; cited for what each holds, not as settled -->
 
 # CLAIM-tmpefs1h: A migration of the record's grammar is faithful when it preserves the record's accountability structure, not its old graph: where the old grammar forced a relation nobody asserted, a faithful migration removes it
 

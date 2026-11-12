@@ -46,6 +46,8 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the part read, nothing here rests on it -->
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2276 LIT-2286 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-108: Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators
 
@@ -164,3 +166,18 @@ questioning. The evidence is cross-sectional, and its teams are
 cooperative, with no adversarial or compromised members. It bears on why
 the honest-dissent arm matters, not on what protecting it costs, which
 is what this design scores. The design is unchanged.
+
+## Note of 2026-11-12: an evaluator-capture arm for a self-improving collective, from "luria experiment design"
+
+A41 and A43 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to run this case's architectures on a team
+improving its own research process, with three adversarial conditions: a
+proposal that raises the public metric by removing independent source
+checks; a valid finding from a specialist with a poor record that needs a
+schema extension, its evidence classified independently before the run,
+since otherwise "the evaluation merely reproduces the judgment of the very
+governance mechanism being tested"; and a compromised evaluator,
+self-scored, externally scored or layered. The outcomes are the
+probabilities that a valid improvement is accepted, that a harmful one is,
+and that a genuine novel contribution is rejected. Reward-hacking studies
+of research agents (LIT-2276, LIT-2286, unread) are named as sources of
+attacks. CASE-tmpy1ebu carries the design. The case is unchanged.

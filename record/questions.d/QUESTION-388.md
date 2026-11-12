@@ -119,3 +119,22 @@ No status changes.
 ## Note of 2026-11-07: a ladder of self-modification in software, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) ("The hard question: can the software maintain its own transformation machinery?"), gives a ladder: a service that updates on an external schedule; one that repairs its deployment and selects configurations; one that diagnoses failures in its own updating mechanisms and builds replacements. "But even this is not automatically self-governance. The capacity to modify a rule is different from maintaining a reliable process for determining *when, why, and under what constraints* the rule should change." That extends this question's distinction into software, and places the line where the question does. A does not cite it. Open.
+
+## Note of 2026-11-12: a research agenda for recursive improvement, and a test of causal uptake, from "luria experiment design"
+
+A41 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) takes this question's note of 2026-11-07 as "almost a
+research agenda for Luria-mediated RSI": "An agent that changes luria.yaml
+when told to do so has demonstrated configurability. An agent that
+recognizes a representational defect and proposes a repair has
+demonstrated adaptive use of that configurability. A team that discovers
+that its schema-review process is failing, then proposes and successfully
+evaluates a repair to that process, demonstrates something stronger", and
+"even that does not establish independent self-governance". The owner's
+U17 is filed as QUESTION-tmp7a7l4.
+
+A50 §12 adds a test this question needs: a governing rule's change must
+alter behaviour under controlled later tasks. "A repository that stores
+governance rules without influencing operations is not sufficient evidence
+of operational self-governance." A43: such a study "does not establish
+philosophically independent self-governance, because the experimenter
+still defines the ultimate comparison". Open.

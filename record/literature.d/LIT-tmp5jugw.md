@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Rong He et al. (2026), arXiv 2610.14662. Here because A cited it in the exchange "luria experiment design" at A48 (§2), for no detectable target-specific repair advantage across 145 modifications in public Darwin Gödel Machine logs, and target repair not implying held-out improvement. It bears on QUESTION-tmp7a7l4 and CASE-194. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: CASE-194 — Proposed; cited for what each holds, not as settled -->
 
 # LIT-tmp5jugw: Does Failure Feedback Direct Agent Self-Modification?
 

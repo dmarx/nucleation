@@ -23,6 +23,8 @@ summary: >-
   counterfactual test. Not run; every parameter is left to a
   preregistration.
 ---
+<!-- inactive-ok-file: LIT-tmpyaj3n — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2283 LIT-2284 LIT-2326 LIT-2329 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-188: A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score
 
@@ -93,3 +95,24 @@ told apart on these endpoints over the horizons studied.
 - It bears on [QUESTION-364](../questions.d/QUESTION-364.md). Revising a commitment the agent itself
   authorized is a continuation of its will only if the revision answers to
   the commitment's warrant.
+
+## Note of 2026-11-12: a team version, and the studies of revision that already exist, from "luria experiment design"
+
+A36 E7 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) extends this case to teams sharing a record, with five
+kinds of perturbation, irrelevant but salient information, weak contrary
+evidence, a strong defeater, a failed inference with another argument
+standing, and evidence that the original classification was wrong, scored
+on false retraction, failure to retract and time to justified revision:
+"A system can be impressively stable on both—and only the first is an
+advantage." A36 adds that the study can test "whether a centralized
+reviewer becomes an entrenchment mechanism".
+
+A39 Study C names prior work on revision, all unread: Belief-R
+(LIT-2326), in which "models that update readily may perform worse when no
+update is needed"; tool evidence that turns correct answers wrong
+(LIT-2284); cognitive forcing (LIT-2283); and explanations that raise
+acceptance of AI advice whether or not it is right (LIT-tmpyaj3n). A14
+reports from LIT-2329, unread, that "revising a theory more readily is not
+necessarily better scientific behavior". A50 §5 offers March's mutual
+learning between members and an organizational code (LIT-729) as the
+theory of the entrenching arm. The case is unchanged.

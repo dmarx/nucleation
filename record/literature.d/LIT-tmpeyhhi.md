@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Hasib et al. (2026), Patterns, DOI 10.1016/j.patter.2026.101660. Here because A cited it in the exchange "luria experiment design" at A14 and A20 (§3, as "the October 2026 survey"), for a review finding that retrieval and idea generation have progressed faster than executable testing and evidence-driven revision. It bears on LIT-2297, LIT-2306 and LIT-2289, the AI-scientist systems registered from the same exchange. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: LIT-2289 LIT-2297 LIT-2306 — Deferred; cited for what each holds, not as settled -->
 
 # LIT-tmpeyhhi: Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing
 

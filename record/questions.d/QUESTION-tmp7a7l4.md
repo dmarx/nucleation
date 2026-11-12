@@ -24,7 +24,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: LIT-2273 LIT-2319 LIT-2298 LIT-2290 LIT-2327 LIT-2314 LIT-2310 LIT-2278 LIT-2288 LIT-2287 — Deferred; registered from the same exchange, not read -->
-<!-- inactive-ok-file: LIT-tmp5jugw LIT-tmphbhk2 LIT-tmp5p7t7 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-tmp5jugw LIT-tmphbhk2 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-tmpy1ebu — filed from the same exchange, Proposed -->
 
 # QUESTION-tmp7a7l4: Can a collective that keeps its inquiry in a governed record become better at improving its own procedures, a later improver doing better than an earlier one from the same starting state at the same budget, without losing the capacity to detect failures in that apparatus?

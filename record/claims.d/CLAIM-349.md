@@ -349,3 +349,18 @@ carry over. [CLAIM-446](CLAIM-446.md)'s note of the same date has the term's (a)
 (c).
 
 No status changes.
+
+## Note of 2026-11-12: a proposed test of access, authority and action, from "luria experiment design"
+
+A36 E4 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) proposes to vary independently whether a warning about an
+accepted claim is visible, whether its finder may change the claim's
+standing, and whether an authorized correction can be carried out in time,
+each with genuine defects and misleading warnings "matched on salience, not
+on whether the warning deserves to prevail", scoring warranted and
+unwarranted interventions, missed corrections and deadline failures
+separately. A39 Study C adds that "The final outcome should depend on the
+evidence, not on the contributor's authority. Authority determines who can
+make an accepted change, not whether the scientific proposition is true."
+A36 also proposes the safety arm this claim's overcontrol bears on:
+restrictions stated only in text against approval gates enforced outside
+the agent's writable environment. Not run. The claim is unchanged.

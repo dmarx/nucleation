@@ -42,6 +42,8 @@ summary: >-
   the hypothesis family; and external restoration that is paid for. Not
   run. The analytic error rates hold only where admission is protected.
 ---
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2287 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-186: A proposed study: an organization in a world whose hidden regime reverses and then leaves its hypothesis family, with evidence generation, admission and scoring separately lesionable, its diagnostic machinery maintained by its own reciprocal production, from outside, or not at all, and finite fuel shared among operation, maintenance and diagnosis, to find whether a second correction after injury to the diagnostic and copying machinery separates arrangements that correct the first failure alike
 
@@ -239,3 +241,20 @@ A21's simulation of a smaller version is not filed as an executed study:
 - its captured arm scored the same as no audit by construction;
 - external repair did better than endogenous repair (changed-regime error
   0.022 against 0.072).
+
+## Note of 2026-11-12: an adaptation to a record-keeping team, and a theory for its fourth capability, from "luria experiment design"
+
+A41 and A43 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to adapt this case to a team of agents
+that keeps its inquiry in a governed record (CASE-tmpy1ebu), and describe
+it accurately as "Active, but it describes an unexecuted study—not an
+established result". A43 credits this case with the matched-first-stage
+branch and the separation of internal from external restoration, and
+adds sham lesions: "Otherwise the correct strategy is simply to assume
+sabotage after every perturbation." A41's example of what the fourth
+capability guards against: "a team may improve its research throughput by
+dropping expensive independent source verification. Its immediate task
+score rises, but its ability to recognize future errors deteriorates."
+
+A50 §6 and A51 offer Woods's graceful extensibility (LIT-2287, unread) as
+the theory of what this case measures, separating "Robustness", "Adaptive
+recovery" and "Graceful extensibility". The case is unchanged.

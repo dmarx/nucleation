@@ -53,6 +53,8 @@ summary: >-
 bears_on:
 - QUESTION-260
 ---
+<!-- inactive-ok-file: LIT-tmpo6ko1 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2330 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-145: Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention
 
@@ -111,3 +113,19 @@ choice. Two precisions.
 
 A5's caution stands: the paper shows a collective decision, not a
 collective interpretation. The design is unchanged.
+
+## Note of 2026-11-12: a factorial version for agent teams, and the studies that already ran its first part, from "luria experiment design"
+
+A36 E6 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) proposes this case for agent teams as a 2×2×2: a common
+schema or different ones, interacting or independent agents, a binding
+collective procedure or none, measuring "interpretive concordance",
+"interactional adjustment" and "joint efficacy" separately, since
+"Independent agents using identical prompts may exhibit high concordance
+without coordinating at all."
+
+A39 Study E, after the owner asked at U16 for prior research that could
+"corroborate or replace" the experiments, found the first part studied:
+shared mental models measured apart from team outcomes (Mathieu et al.,
+LIT-2330; DeChurch and Mesmer-Magnus, LIT-tmpo6ko1; both unread). Its
+advice: "I would not make this a large standalone study unless the initial
+results suggest it mediates Luria's benefits." The case is unchanged.

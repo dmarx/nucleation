@@ -29,6 +29,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpefs1h — filed from the same exchange, Proposed; the claim this argument concludes -->
+<!-- inactive-ok-file: CLAIM-250 — Proposed; cited for what each holds, not as settled -->
 
 # ARG-tmp8fx47: The graph that asserted an inference nobody made shows that preserving the old graph through a migration can preserve a false dependency
 

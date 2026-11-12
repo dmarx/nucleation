@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024), arXiv 2409.04109. Here because A cited it in the exchange "luria experiment design" at A14 (§1, and its filing table as Si et al. 2025), for a controlled study with over 100 NLP researchers in which LLM-generated research proposals were rated more novel than human ones, somewhat less feasible, with weak LLM self-evaluation and little idea diversity. It bears on LIT-2329 and LIT-2318, the theory-building comparisons registered from the same exchange. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: LIT-2318 LIT-2329 — Deferred; cited for what each holds, not as settled -->
 
 # LIT-tmpsxqr6: Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers
 

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Arianna Falbo (2022), Hypatia, DOI 10.1017/hyp.2022.4. Here because A cited it in the exchange "luria experiment design" at A50 (§8), for a shared interpretive failure can come from an existing but distorting concept, not only from a missing one; A applies it to a schema that systematically misclassifies contributions. It bears on QUESTION-072 and CLAIM-403; LIT-1004 (Fricker) is held. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: LIT-1004 — Unavailable; cited for what each holds, not as settled -->
 
 # LIT-tmpjqgyi: Hermeneutical Injustice: Distortion and Conceptual Aptness
 

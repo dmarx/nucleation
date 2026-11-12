@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Margaret M. Polski and Elinor Ostrom, in Elinor Ostrom and the Bloomington School of Political Economy (2017), DOI 10.5040/9781666993875.ch-002. Here because A cited it in the exchange "luria experiment design" at A50 (§3), for the Institutional Analysis and Development framework's operational, collective-choice and constitutional levels of rules, which A maps onto changes to entries, to schemas and procedures, and to the authority over those. It bears on CLAIM-086, CLAIM-410 and QUESTION-tmps5iou; LIT-2309 (Crawford and Ostrom) is held. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: LIT-2309 — Deferred; cited for what each holds, not as settled -->
 
 # LIT-tmp5rs7c: An Institutional Framework For Policy Analysis
 

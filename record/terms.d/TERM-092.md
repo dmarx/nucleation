@@ -56,6 +56,7 @@ summary: >-
   shape as well as size. The term separates askable from expressible and
   from answerable, which [CLAIM-474](../claims.d/CLAIM-474.md)'s last failure turns on.
 ---
+<!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
 # TERM-092: inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers
 
@@ -111,3 +112,16 @@ Adoption once [CLAIM-475](../claims.d/CLAIM-475.md) says which set its defeater 
 ## Note of 2026-11-07: the frontier and legibility, from the second share of "Individuation, Possibility, and Disposition"
 
 A58 §9's link from the frontier to legibility is this term's "From legibility". Its example, a software community that lacks "a conceptual distinction between temporary operational failure and degradation of reproductive capacity", is [CLAIM-521](../claims.d/CLAIM-521.md)'s dissociation, which a community could not investigate without the concept. The term is unchanged.
+
+## Note of 2026-11-12: three ways to measure a frontier move, from "luria experiment design"
+
+Several turns of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to measure whether a change to the
+record's grammar moves this frontier. A25: by "change in epistemic
+affordances", whether a schema change makes some investigative operation
+tractable. A45 §7: since a fixed-schema system might still answer "through
+careful prose and extensive reasoning", the outcome "is not absolute
+expressibility, but task-relative reachability under a budget", which is
+this term's sense. A48 §6 splits it into question formulation, question
+execution, and negative transfer, "Does the new representation make other
+legitimate questions harder to ask or answer?" CASE-tmppm4do uses the
+three. The definition is unchanged.

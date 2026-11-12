@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Markus Herrmannsdoerfer et al. (2009), ECOOP 2009, LNCS, DOI 10.1007/978-3-642-03013-0_4. Here because A cited it in the exchange "luria experiment design" at A22 (as "Edapt / coupled metamodel evolution"), for changes to a metamodel paired with migrations of its existing instances; A calls it "the strongest technical competitor". A named the tool, Edapt; this paper introduced the coupled-evolution approach the tool grew from, and is registered as the citable work. It bears on QUESTION-tmps5iou and CASE-tmppm4do. What A says of it is unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmp5mdsg: COPE - Automating Coupled Evolution of Metamodels and Models
 

@@ -186,3 +186,15 @@ claim's third outcome.
   being noticed leaves no decision behind.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-12: the caveat restated, and an audit proposed, from "luria experiment design"
+
+A25 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) restates this claim's caveat, that a misfit absorbed without
+being noticed leaves no decision behind: "Luria's history records
+successful schema revisions, but by itself cannot tell us how many
+contributions were misclassified or abandoned because they did not fit." It
+proposes the test: "Auditing original exchanges and source documents
+against their contemporary schemas would help expose that selection bias."
+The audit would be a count of moves in the source exchanges that the
+grammar of the day forced or lost, set against the decisions this claim
+counts. No such audit has been run. The claim is unchanged.

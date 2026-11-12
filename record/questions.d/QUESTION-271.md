@@ -41,6 +41,7 @@ summary: >-
   which of four senses.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
 # QUESTION-271: How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?
 
@@ -157,3 +158,15 @@ unchanged.
 
 Cycles, no common scale, duplicated tests, and unknown or zero
 propensities are not touched. The question is unchanged.
+
+## Note of 2026-11-12: the question met in a self-improving collective, from "luria experiment design"
+
+A41 and A43 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) meet this question in a team that improves its own
+research process: "The system may become better at satisfying the
+mechanism that judges improvement, rather than better at the underlying
+task." A43 compares self-scored, externally scored and layered
+arrangements, and marks where a record cannot answer it alone: "A Git-based
+approval policy does not independently protect anything when the agent can
+also modify the branch protections, tests and approval credentials." "This
+is a boundary of the implementation, not something that can be solved by
+stronger instructions in the record." The test is in CASE-tmpy1ebu. Open.
