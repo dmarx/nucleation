@@ -1,3 +1,5 @@
+<!-- inactive-ok-file: ARG-tmpou39l — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
+<!-- inactive-ok-file: ARG-tmpmc9mt — filed from the exchange "About Plantation Paradise" (2026-11-12), Rejected -->
 <!-- inactive-ok-file: CASE-tmpwmg3h CLAIM-tmp16mkz CLAIM-tmpwn3wr — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 ### Added
 
@@ -22,3 +24,14 @@
   - No ARG was filed: no support judgement in the filing is
     load-bearing or contested. The curation entry lists them.
   - The filer's own suggestions went to the owner and were not filed.
+- The readings of 2026-11-12 filed for the same exchange:
+  - five works read and two skimmed, each with a NOTE and a THEORY;
+  - five neighbours registered and read or skimmed;
+  - three works Unfetched and fifteen Unavailable;
+  - CASE-tmpwmg3h corrected;
+  - CLAIM-tmp16mkz narrowed (ARG-tmpou39l);
+  - CLAIM-tmpwn3wr given its TERM-074 sense, with ARG-tmpmc9mt
+    (Rejected) and a new defeat route.
+  After the owner's correction that "organization" is TERM-074 sense 1 by
+  default, the owner's question states its sense and its prior part, and
+  every reading's bearing names the sense it is about.
