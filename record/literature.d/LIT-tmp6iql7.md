@@ -1,10 +1,15 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §3. No reading was attempted.
+status: Active
 title: 'The dark side of public values in algorithmic systems'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpefsvl; account THEORY-tmp84bs2. Status
+    Active. The reading corrected the author list: ten authors, the last
+    four being Perle Møhl, Ajda Pretnar Žagar, Maiju Tanninen and Julia
+    Velkova.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,17 +24,40 @@ first_author: 'Moats'
 keywords: []
 implementations: []
 summary: >-
-  Moats et al. (2026), DOI-10.1177/29768640261457507. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §3. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), [CLAIM-361](../claims.d/CLAIM-361.md). In A's account, which is unverified until read, it identifies five ways public values in algorithmic systems come apart from their meaning: narrowing, tickboxing, pushing, mismatch and projection.
+  Moats et al. (2026), DOI-10.1177/29768640261457507. Read on 2026-11-12 in
+  NOTE-tmpefsvl: Drawing on ethnographic studies across six European
+  countries (Finland, Sweden, Denmark, Belgium, Slovenia, UK; the abstract
+  says five), the authors argue that invoking "public values" against big
+  tech without specifying them produces practical problems "even to the
+  opposite of originally stated objectives". They give five "disconnects",
+  each with vignettes: value narrowing (privacy → consent buttons;
+  transparency → self-reporting register; well-being → step counts), value
+  tickboxing (GDPR anonymisation by default; OpenAI's "Democratic Inputs";
+  Swedish energy certificates), value pushing (automated blinds;
+  child-protection risk prediction; AI in Danish breast screening), value
+  mismatch (border-control face-match threshold vs airport "flow"; smart
+  thermostats vs home comfort; Epic/Apotti efficiency vs physicians'
+  "fluency"), and value projection ("human-centric" Aurora AI; "green
+  transition"; holism in digital twins). Its account is THEORY-tmp84bs2.
+  Registered from the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11), where A cited it at A42 §3.
 ---
+<!-- inactive-ok-file: THEORY-tmp84bs2 — Proposed; filed from the same exchange -->
 
 # LIT-tmp6iql7: The dark side of public values in algorithmic systems
 
-David Moats, Minna Ruckenstein, Dorthe Brogård Kristensen, Maria Eidenskog, Elisa Elhadj, Tuukka Lehtiniemi and others (2026). "The dark side of public values in algorithmic systems." *Dialogues on Digital Society*. DOI-10.1177/29768640261457507.
+David Moats, Minna Ruckenstein, Dorthe Brogård Kristensen, Maria Eidenskog, Elisa Elhadj, Tuukka Lehtiniemi, Perle Møhl, Ajda Pretnar Žagar, Maiju Tanninen and Julia Velkova (2026). "The dark side of public values in algorithmic systems." *Dialogues on Digital Society*. DOI-10.1177/29768640261457507.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it identifies five ways public values in algorithmic systems come apart from their meaning: narrowing, tickboxing, pushing, mismatch and projection.
+Read on 2026-11-12 (NOTE-tmpefsvl). A typology of five ways a stated value
+comes apart from practice, framed as an extension of Selbst et al.'s "traps"
+beyond formalisation, from a pragmatist/valuation-studies view of values as
+malleable resources.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §3. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), [CLAIM-361](../claims.d/CLAIM-361.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpefsvl and its account
+THEORY-tmp84bs2.

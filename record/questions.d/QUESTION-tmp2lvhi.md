@@ -24,7 +24,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-464 — Proposed; Dufner's reading that identity is not what decides -->
 <!-- inactive-ok-file: TERM-083 — Proposed; moral standing, which the question takes as given -->
-<!-- inactive-ok-file: LIT-tmpapwfu — Deferred; registered from the same exchange, unread -->
 
 # QUESTION-tmp2lvhi: What makes one agent's authority to decide about another's body legitimate when the other has standing but cannot decide: the other's welfare, their earlier wishes, their projected future wishes, or the relation between them, and why do these differ between a parent's consent for an infant and an advance directive for one's own later self?
 
@@ -85,3 +84,18 @@ authority cannot be checked from the present arrangement alone, which is
 [CLAIM-518](../claims.d/CLAIM-518.md)'s point about histories. An interpretive mapping, not an answer,
 so it is filed as a note. The wording is the assistant's (Claude, in this
 session); adopting it is the owner's call.
+
+## Note of 2026-11-12: Millum (2025), read
+
+From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+checked by the filer: **answers one sub-question and sharpens the
+asymmetry.** The question asks whether "the future adult's interest in
+deciding" is a ground of its own; Millum argues it is not: what it protects
+is bodily integrity plus the child's interests. Two further points bear on
+the question's advance-directive half. (1) His ground for autonomy as demand
+is present capacity, and he holds that a competent person's earlier consent
+does not bind against her present refusal; that gives earlier wishes no
+authority over a competent later self. (2) He does not address an earlier
+competent self governing a later incompetent one, so the advance-directive
+side is left open. He lists pediatric circumcision only as a topic where the
+right has been cited (note 4, Darby); he does not analyse it.

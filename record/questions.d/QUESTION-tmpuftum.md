@@ -23,6 +23,7 @@ summary: >-
   as input. The owner's U21 answered with resource-bounded identification
   ([CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md), [CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md)).
 ---
+<!-- inactive-ok-file: NOTE-tmp9g14f — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpyc5md CLAIM-tmpvceet — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
 <!-- inactive-ok-file: LIT-tmpv9xn3 LIT-tmp6n74q LIT-tmpq8pi2 LIT-tmp6iql7 — Deferred; registered from the same exchange, unread -->
@@ -71,3 +72,29 @@ checked against a reference set the organization did not choose.
   institution can act defensibly across interpretations without deciding
   among them. The answer is yes exactly when the demand set is in
   K_uniform.
+
+## Note of 2026-11-12: Moats et al. (2026), read
+
+From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+checked by the filer: *supports* its third failure mode ("what demands
+mean") with ethnographic instances, and adds two the question does not name:
+**pushing** (a demand presumed held by the claimants but imposed on them, a
+failure in *who* holds the demand) and **projection** (the demand's
+acceptance set is so loose that incompatible readings coexist, so A_i is not
+fixed at all). *Leaves open* the question's sought answer: the paper offers
+no procedure for fixing D independently of governance; its remedy is
+ethnographic consultation and "curated comparison", which is closer to A42
+§8's step "identify claimants" than to a check against an unchosen reference
+set. Result 9 bears directly: fixing a demand's meaning too tightly is
+itself narrowing.
+
+## Note of 2026-11-12: Caliari and Petri, read
+
+From the reading in NOTE-tmp9g14f (LIT-tmpwc3j6), the reader's assessment as
+checked by the filer: , failure mode 2 ("behavioral observations are
+evidence about a demand, not automatically the demand itself"): *supports*,
+formally. Identical aggregate behaviour is consistent with populations whose
+individual "demands" differ in kind (result 1), so an inferred acceptance
+set Â_i fixed from aggregate behaviour is underdetermined unless the analyst
+brings prior knowledge (result 4), which is the governance-shaped input the
+question worries about.

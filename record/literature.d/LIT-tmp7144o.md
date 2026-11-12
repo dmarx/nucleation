@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §3. No reading was attempted.
+status: Active
 title: 'Maternal gut dysbiosis is associated with altered enteric and cortical inhibitory circuit development'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmp5kj27; account THEORY-tmprxaa7. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,16 @@ first_author: 'Nakhal'
 keywords: []
 implementations: []
 summary: >-
-  Nakhal et al. (2026), DOI-10.3389/fnana.2026.1801873. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md). In A's account, which is unverified until read, it reports that maternal gut dysbiosis in mice is associated with altered enteric and cortical inhibitory circuit development in offspring.
+  Nakhal et al. (2026), DOI-10.3389/fnana.2026.1801873. Skimmed on
+  2026-11-12 in NOTE-tmp5kj27: Pregnant GAD67-GFP mice (6 control, 6 treated
+  dams) received oral vancomycin (20 mg/kg/day, GD8–GD17) to induce gut
+  dysbiosis. Dams' microbiota lost diversity (Chao1, Shannon; PERMANOVA R² =
+  0.77). Its account is THEORY-tmprxaa7. Registered from the exchange
+  "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it
+  at A15 §3.
 ---
+<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmprxaa7 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # LIT-tmp7144o: Maternal gut dysbiosis is associated with altered enteric and cortical inhibitory circuit development
@@ -29,8 +40,14 @@ Mohammed M. Nakhal, Faheema Nafees, Ayishal B. Mydeen, Abdulaziz Al Ali, Sarah B
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it reports that maternal gut dysbiosis in mice is associated with altered enteric and cortical inhibitory circuit development in offspring.
+Skimmed on 2026-11-12 (NOTE-tmp5kj27). A descriptive anatomical and
+microbiome study linking a gestational antibiotic perturbation of the
+maternal microbiota to co-occurring structural differences in offspring gut
+and cortical inhibitory circuits.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md).
+
+Skimmed on 2026-11-12; the reading is NOTE-tmp5kj27 and its account
+THEORY-tmprxaa7.

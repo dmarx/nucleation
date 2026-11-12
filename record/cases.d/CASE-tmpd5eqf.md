@@ -73,3 +73,16 @@ newsroom "cannot be presumed to have an unlimited obligation to investigate
 everything" (A37 §5). [CASE-229](CASE-229.md) holds harm and remedy fixed while a challenge
 procedure is kept or disabled; this case is the version in which the
 capacity decays by allocation, with no one deciding to disable it.
+
+## Note of 2026-11-12: Scalco, Gesualdo, Cerqueti and Cinelli (2026), read
+
+From the reading in NOTE-tmp9yggi (LIT-tmpaodxg), the reader's assessment as
+checked by the filer: - Bearing on **CASE-tmpd5eqf** (the newsroom that
+reads low traffic on investigations it no longer funds): same point; that
+case's loop runs entirely below this detector's threshold, since neither
+demand nor supply registers.
+
+## Note of 2026-11-12: Nickl, Moussaïd and Lorenz-Spreen (2025), read
+
+From the reading in NOTE-tmppj4sz (LIT-tmpaptli), the reader's assessment as
+checked by the filer: context only; not read.

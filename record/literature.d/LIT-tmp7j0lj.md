@@ -1,10 +1,21 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §2 and its reading list. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1002/hast.1582 — publisher OA
+  (hybrid, CC BY), *Hastings Center Report* — HTTP 403 (access denied page);
+  host dropped; https://doi.org/10.1002/hast.1582 — DOI landing (Wiley) —
+  not tried (same host).
 title: 'Another Defense of Abortion: What Transplant Ethics Tells Us about the Ethics of Abortion after Dobbs'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-

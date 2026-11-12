@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Kumar et al. (2026), DOI-10.1111/nmo.70475. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md). In A's account, which is unverified until read, it reports that microbiota from infants fed by secretor mothers alter gut transit and enteric nervous development in germ-free mice, by sex.
 ---
+<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # LIT-tmpwo0nr: Microbiota From Human Infants Consuming Secretors Mothers' Milk Affects Murine Intestinal Motility and Enteric Nervous System Development in a Sex‐Dependent Manner
@@ -34,3 +35,8 @@ Bharath K. Kumar, Valentina Caputi, Kirandeep K. Gill, Bindu Nanduri, Tanya Lero
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md).
+
+## Note of 2026-11-12: Nakhal et al. (2026), read
+
+From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
+checked by the filer: closest neighbour on enteric development.

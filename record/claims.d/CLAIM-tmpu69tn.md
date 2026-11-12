@@ -41,6 +41,7 @@ summary: >-
   boundary of the individual" and "the boundary of its governance" need
   not coincide. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmp6oofp LIT-tmpj31gs LIT-tmpzogx3 LIT-tmpe26cm — Deferred; registered from the same exchange, unread -->
@@ -100,3 +101,10 @@ That authorization makes external regulation self-governance: A21 asks it
 as a question, "Under what conditions can externally implemented
 regulation be part of genuine self-government?" Or how interests are
 "independently specified", which is [QUESTION-129](../questions.d/QUESTION-129.md)'s problem.
+
+## Note of 2026-11-12: Muñoz et al. (2020), read
+
+From the reading in NOTE-tmpc3zs5 (LIT-tmplfdsz), the reader's assessment as
+checked by the filer: supports the use of aDBS as an "outside, authorized"
+influence whose operation may be unperceived; it says nothing on alignment
+beyond safety concerns.

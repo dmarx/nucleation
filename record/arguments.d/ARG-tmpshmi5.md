@@ -27,6 +27,9 @@ summary: >-
   part of the owner's claim. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp2hne0 LIT-tmpccpc6 LIT-tmpdak05 LIT-tmpf67mb — Deferred; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmp9goww — Unavailable; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
 
 # ARG-tmpshmi5: The survey and audit evidence A reports supports the structural half of the heavy-user mechanism in pornography distribution only as possible, and does not support the escalation half: the associations are small, observational and self-reported, and the one longitudinal content study runs against it
@@ -65,3 +68,14 @@ through [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md), and is untested as fact
 supported by the evidence reported and is contradicted on one measure. The
 owner's own move at U14, to a measurable economy, is the right response,
 and [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md) carries it.
+
+## Note of 2026-11-12: Shor and Seida unavailable; Shor and Liu registered
+
+Shor and Seida 2018 (LIT-tmp9goww), one of this argument's grounds and the
+study it called contrary, is Unavailable after the reading pass of
+2026-11-12. Its abstract matches A's report. A later longitudinal study by
+the same first author, Shor and Liu 2025 (LIT-tmpagy32, unread), reports by
+its abstract a rise in mostly consensual aggression over 2000-2024. The
+verdict that the escalation half is "contradicted on one measure" therefore
+rests on an unread 2018 study whose own successor may reverse it on that
+measure; read it as "unsettled on one measure" until both are read.

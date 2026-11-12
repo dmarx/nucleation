@@ -165,3 +165,11 @@ agent to two, a parent authorizing for an infant against an earlier self
 authorizing for a later one, and A17 to interventions that alter a person's
 motivational architecture after they consented. Filed as [QUESTION-tmp2lvhi](QUESTION-tmp2lvhi.md);
 this question is unchanged.
+
+## Note of 2026-11-12: Millum (2025), read
+
+From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+checked by the filer: Millum's "Last week’s autonomous decision is no longer
+authoritative" is a position on the question's authorization-by-history: for
+a competent agent, the present decision governs. Bears on it as one answer
+for the competent case.

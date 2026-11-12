@@ -244,3 +244,10 @@ capture". [CLAIM-404](../claims.d/CLAIM-404.md)'s revision of 2026-10-30 correct
 ## Note of 2026-11-06: what holds it back
 
 The owner's choice between the fidelity-relative and the institutional sense is unmade, and [QUESTION-087](../questions.d/QUESTION-087.md) is Open. [CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-330](../claims.d/CLAIM-330.md), [CLAIM-340](../claims.d/CLAIM-340.md) and [CLAIM-359](../claims.d/CLAIM-359.md), revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)), still do not say which sense of "capture" they mean; [CLAIM-404](../claims.d/CLAIM-404.md) now says it means the institutional sense and no longer uses this term.
+
+## Note of 2026-11-12: Moats et al. (2026), read
+
+From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+checked by the filer: and **THEORY-859** (regulatory capture through the
+evaluative framework): tickboxing's "benchmark that ... changes the actual
+meaning" is a mild, non-captured cousin; the paper does not claim capture.

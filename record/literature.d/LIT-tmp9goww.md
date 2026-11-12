@@ -1,10 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §2. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Where the
+  reader looked: OpenAlex for the DOI: `oa_status: closed`; locations:
+  doi.org (Taylor & Francis) and PubMed only.; Semantic Scholar:
+  `openAccessPdf` status CLOSED.; Crossref: no licence; link only to
+  https://www.tandfonline.com/doi/pdf/10.1080/00224499.2018.1451476
+  (subscription; not tried).; Europe PMC: no PMCID; `isOpenAccess: N`.
+  Europe PMC search of the first author's related papers (2019–2026) found
+  none open access.; Not tried: ResearchGate/academia.edu author uploads (no
+  address located)..
 title: '“Harder and Harder”? Is Mainstream Pornography Becoming Increasingly Violent and Do Viewers Prefer Violent Content?'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). No lawful full text was found
+    (ADR-041); an abstract, where seen, is not a reading.
 - version: 1
   date: '2026-11-12'
   note: >-

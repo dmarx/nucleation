@@ -1,0 +1,89 @@
+---
+status: Read
+paper: LIT-tmp6lewl
+title: 'Naudts, Helberger, Veale and Sax (2025) — A Right to Constructive Optimization: A Public Interest Approach to Recommender Systems in the Digital Services Act'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read: Europe PMC full-text XML
+    of PMC12433349,
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12433349/fullTextXML
+    (publisher's version of record as deposited in PMC; CC BY 4.0), fetched
+    2026-11-12, tags stripped locally. No page numbers in the XML; locations
+    below are by section heading. - Skipped: reference list, footnote
+    apparatus beyond fn. 1, back matter. Outcome as the reader gave it:
+    **Read** (full text of the article body; references, acknowledgements
+    and declarations skipped). The section "A Revised Look at the DSA
+    Through the Lens of Constructive Optimization" and "A Right to
+    Complain..." were read more quickly than the rest.
+date: '2026-11-12'
+summary: >-
+  The authors argue that recommender systems on very large online platforms
+  (VLOPs) perform a public function, not only a proprietary one, because
+  they "determine who sees what and whose content is not seen". Drawing on
+  Iris Marion Young, they name self-development and self-determination as
+  the values such recommenders should promote, under four democratic
+  conditions: inclusivity, political equality, reasonableness and publicity.
+  They critique the Digital Services Act's recommender provisions (Arts 27,
+  38, 25, 34–35) as treating recommenders as proprietary, giving users only
+  a "take-it-or-leave-it choice", making fundamental rights a negative limit
+  rather than a design goal, and leaving systemic-risk definition to
+  platform self-assessment. They then state a "right to constructive
+  optimization" (participation in design, motivated public refusal of
+  requested changes, public documentation of design choices, burden of proof
+  on the platform), argue for a "stack" view of the recommender (management,
+  KPIs, hiring, data practice, not just the model), and use the right as an
+  interpretive lens on DSA Arts 27 and 34.
+---
+<!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
+<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-2246 — Deferred; cited as on the record -->
+
+# NOTE-tmpytbn0: Naudts, Helberger, Veale and Sax (2025) — A Right to Constructive Optimization: A Public Interest Approach to Recommender Systems in the Digital Services Act
+
+## Contribution
+
+A normative-legal proposal: a positive, participatory right over recommender optimization objectives, grounded in Young's politics of difference, set against the DSA's risk-based, procedural approach.
+
+## Key results
+
+1. Abstract: "The ideal of personalization should not mask self-serving optimization."
+2. "Repositioning ... ": optimization defined as "an organizing principle where specific preferred values and/or outcomes are embraced as the most relevant (e.g., user engagement) and where the entire system is—via feedback loops and constant dynamic readjustments—oriented toward the continuous optimal pursuit of the chosen values and outcomes."
+3. Same section: "due to this public function, their optimization should not be a matter for platforms to decide".
+4. "Guiding Principles", the first principle: citizens should "Have an actual and actionable say in the optimization goals pursued within digital ecosystems (Inclusivity and Political Equality)."
+5. "The Prohibition of Dark Patterns": "there is no obligation on platforms to refrain from optimizing their recommender systems to maximize engagement".
+6. "Recommendation Systems and Systemic Risk": fundamental rights are "not guiding principles for the design of recommenders but a negative condition".
+7. "A Right to Constructive Optimization": "people’s interests are narrowed down to a take-it-or-leave-it choice."
+8. The right's text: refusal of a requested design change "should be accompanied by fair and reasonable, clearly motivated, and publicly communicated reasons"; and "The burden of proof that this obligation has been complied with is on the platform operator."
+9. Stack view: "attempts to re-orient a system’s values through technological interventions alone are futile."
+
+## Assumptions
+
+- VLOP recommenders have a public function that grounds positive duties (argued, partly from the literature on platform society).
+- Young's account of democratic legitimacy ("all those affected ... included") transfers to private platform governance.
+- Enforcement is explicitly set aside: "questions concerning the enforcement of these idealized standards ... remain outside the scope".
+
+## Concepts
+
+right to constructive optimization; public vs proprietary function of recommenders; optimization logic; self-development; self-determination (Young); inclusivity, political equality, reasonableness, publicity; recommender "stack"; take-it-or-leave-it choice; agonism; reversal of the burden of proof; DSA Arts 25, 27, 34, 35, 38.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** Mostly accurate. "a public-interest right to constructive optimization: recommenders governed for users' self-development, with public scrutiny of their objectives" is right, with two corrections: (a) the values are self-development **and self-determination**, and self-determination (a say over the conditions of one's action) is the half that carries the governance argument; (b) "public scrutiny" undersells it: the right is **participatory** (an "actionable say in the optimization goals"), with motivated public refusals and a reversed burden of proof, not only transparency.
+
+- **CLAIM-545** (freedom of will as governance of one's own governability; domination as another's capacity to govern those relations, used or not): *supports by analogy* the domination clause at the collective, political level: the paper's complaint is that the platform alone sets "the optimization goals" that fix what users see (result 3–4), and that users have no "control or contestation mechanisms", which is A's "another holds an unaccountable channel to those relations". Its remedies line up with the claim's components: publicity ≈ legibility, "actionable say" ≈ efficacy, contestation and motivated refusal ≈ correctability. *Qualifies*: the paper's subject is citizens' political agency over infrastructure, grounded in Young's democratic legitimacy, not an individual's will; it does not use non-domination or Pettit, and does not say that a non-profiled option (Art. 38) restores freedom; it calls Art. 38 "the most promising agency-enhancing tool" but insufficient. Note: CLAIM-545 on the branch does not itself cite LIT-tmp6lewl; the link is the LIT's.
+
+Searched origin/main record/ for: Digital Services Act / DSA, Iris Marion Young, self-development, capability approach, Helberger, Sax, recommender, participatory design, engagement optimization.
+- **LIT-2246** (Young, *Responsibility for Justice*): the paper relies on Young (2011) for shared responsibility; the record holds that book.
+- **LIT-1331** ("Epistemic welfare and algorithmic recommender systems ... digitalized public sphere"): a close neighbour on recommenders and the public sphere; should be cross-linked.
+- **LIT-202** ("Consent and the Formation of Preferences"): bears on result 7's take-it-or-leave-it consent.
+- **CLAIM-tmpmz271** (branch): the paper's "self-serving optimization" is the general case of the revenue-weighted objective that claim models; the paper gives no model of whose demand moves the objective.
+- The DSA itself is not held anywhere in the record. Duplicate check: no other LIT holds this DOI or title.
+
+## Limitations
+
+Normative and doctrinal, no empirical evaluation; the right is stated "in broad strokes" with enforcement out of scope; it does not say how conflicting group demands are aggregated beyond "agonistic pluralism" and motivated refusal; builds on the authors' earlier work (Naudts et al. 2024a, b; Helberger et al. 2024b), which this reading did not consult.

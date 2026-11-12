@@ -60,7 +60,6 @@ complements:
 - CLAIM-538
 - CLAIM-550
 ---
-<!-- inactive-ok-file: LIT-tmp6iql7 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 <!-- inactive-ok-file: THEORY-232 — Proposed; Watson's comparison, cited as the half of the principle that is his and as corroboration, not leaned on -->
 
@@ -209,3 +208,12 @@ correspondence of acceptance sets, which this claim requires, detects it.
 The empirical source A cites is Moats, Ruckenstein and colleagues on value
 narrowing, tickboxing, pushing, mismatch and projection ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md),
 unread). Supports; no status change.
+
+## Note of 2026-11-12: Moats et al. (2026), read
+
+From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+checked by the filer: *supports* the claim's point that changing the test
+while keeping the name is not satisfaction ("presented as if it had been
+fulfilled", result 3), and tickboxing's entrenchment (result 5) is an
+empirical route by which D₀ drifts. It *qualifies* nothing in the claim's
+formal content; it gives no organization-level before/after data.

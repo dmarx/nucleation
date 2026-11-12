@@ -107,3 +107,9 @@ against rival users is what does the reproducing.
   roles automatically makes the symbol an autonomous individual".
 - That any measurement has separated reproduction by rivalry from
   reproduction by a shared profile. None is cited.
+
+## Note of 2026-11-12: Moats et al. (2026), read
+
+From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+checked by the filer: value projection is a direct instance ("boundary
+objects", result 8; "green transition" persists because vague).

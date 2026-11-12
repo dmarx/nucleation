@@ -1,10 +1,29 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §4 and A29 §6. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each:
+  https://eprints.soton.ac.uk/505957/1/1-s2.0-S016726812400369X-main.pdf —
+  Southampton institutional repository (publisher PDF, per OpenAlex) — HTTP
+  401 with "Ensuring the security of your connection" proof-of-work
+  challenge; http://hdl.handle.net/21.11116/0000-000F-7FA8-6 →
+  https://pure.mpg.de/pubman/item/item_3596508 — Max Planck repository —
+  HTTP 403, "Making sure you're not a bot!" challenge;
+  https://www.sciencedirect.com/science/article/pii/S016726812400369X —
+  publisher, OA (CC BY-NC per OpenAlex) — HTTP 403 (ScienceDirect block
+  page); https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349674 (doi
+  10.2139/ssrn.4349674) — SSRN working paper — HTTP 403, Cloudflare "Just a
+  moment..."; http://hdl.handle.net/21.11116/0000-000F-A47C-D — second MPG
+  handle — not tried (same pure.mpg.de host).
 title: 'What drives demand for loot boxes? An experimental study'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-

@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §8. No reading was attempted.
+status: Active
 title: 'A Right to Constructive Optimization: A Public Interest Approach to Recommender Systems in the Digital Services Act'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpytbn0; account THEORY-tmpzg8u7. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,18 @@ first_author: 'Naudts'
 keywords: []
 implementations: []
 summary: >-
-  Naudts et al. (2025), DOI-10.1007/s10603-025-09586-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §8. It bears on [CLAIM-545](../claims.d/CLAIM-545.md). In A's account, which is unverified until read, it argues for a public-interest right to constructive optimization: recommenders governed for users' self-development, with public scrutiny of their objectives.
+  Naudts et al. (2025), DOI-10.1007/s10603-025-09586-1. Read on 2026-11-12
+  in NOTE-tmpytbn0: The authors argue that recommender systems on very large
+  online platforms (VLOPs) perform a public function, not only a proprietary
+  one, because they "determine who sees what and whose content is not seen".
+  Drawing on Iris Marion Young, they name self-development and
+  self-determination as the values such recommenders should promote, under
+  four democratic conditions: inclusivity, political equality,
+  reasonableness and publicity. Its account is THEORY-tmpzg8u7. Registered
+  from the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
+  where A cited it at A23 §8.
 ---
+<!-- inactive-ok-file: THEORY-tmpzg8u7 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
 
 # LIT-tmp6lewl: A Right to Constructive Optimization: A Public Interest Approach to Recommender Systems in the Digital Services Act
@@ -29,8 +42,14 @@ L. Naudts, N. Helberger, M. Veale and M. Sax (2025). "A Right to Constructive Op
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it argues for a public-interest right to constructive optimization: recommenders governed for users' self-development, with public scrutiny of their objectives.
+Read on 2026-11-12 (NOTE-tmpytbn0). A normative-legal proposal: a positive,
+participatory right over recommender optimization objectives, grounded in
+Young's politics of difference, set against the DSA's risk-based, procedural
+approach.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §8. It bears on [CLAIM-545](../claims.d/CLAIM-545.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpytbn0 and its account
+THEORY-tmpzg8u7.

@@ -151,3 +151,13 @@ protects the infant's body for a future decision-maker, and what links the
 two "might instead be the fact that the future adult's autonomy depends
 causally on what happens to the child's body now", not numerical identity.
 A's application, unread in any source; it bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
+
+## Note of 2026-11-12: Millum (2025), read
+
+From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+checked by the filer: consistent; Millum's argument never turns on whether
+child and adult are the same person, only on present capacity and interests.
+Leaves the theory's claim untouched; a mild illustration.
+
+names advance directives (Dworkin, Jaworska, Dresser) as identity-adjacent;
+Millum adds nothing on them.

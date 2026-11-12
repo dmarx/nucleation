@@ -1,10 +1,16 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §7. No reading was attempted.
+status: Active
 title: 'How to detect information voids using longitudinal data from social media and web searches'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp9yggi; account THEORY-tmpp061k. Status
+    Active. Read from the arXiv preprint 2602.15476 (v1 2026-02-17, checked
+    on the arXiv API); `published:` moves to that earlier date (ADR-002) and
+    the arXiv id is added. The Scientific Reports version of record
+    (2026-09-11) was not read.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -13,14 +19,26 @@ tags:
 - information-retrieval
 - social-science
 date: '2026-11-12'
-published: '2026-09-11'
+published: '2026-02-17'
 doi: '10.1038/s41598-026-69786-8'
+arxiv: '2602.15476'
 first_author: 'Scalco'
 keywords: []
 implementations: []
 summary: >-
-  Scalco et al. (2026), DOI-10.1038/s41598-026-69786-8. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §7. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md). In A's account, which is unverified until read, it develops methods for detecting information voids, mismatches between the supply of and demand for information, from longitudinal social-media and search data.
+  Scalco et al. (2026), DOI-10.1038/s41598-026-69786-8. Read on 2026-11-12
+  in NOTE-tmp9yggi: Treating the online information ecosystem as a market
+  with information **demand** (Wikipedia page views, Google Trends) and
+  **supply** (Facebook posts via CrowdTangle, Twitter full-archive, GDELT
+  news volume), the authors rescale each series by its mean, define an
+  information delta δt = ŝt − d̂t, decompose δ by STL and flag remainder
+  outliers by an IQR rule. Anomalies with δ < 0 are **voids** (demand far
+  exceeds supply), δ > 0 **overabundance**; a five-regime scale runs Void /
+  Lack / Balance / Abundance / Overabundance. Its account is
+  THEORY-tmpp061k. Registered from the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11), where A cited it at A35 §7.
 ---
+<!-- inactive-ok-file: THEORY-tmpp061k — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpaodxg: How to detect information voids using longitudinal data from social media and web searches
@@ -29,8 +47,14 @@ Irene Scalco, Francesco Gesualdo, Roy Cerqueti and Matteo Cinelli (2026). "How t
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it develops methods for detecting information voids, mismatches between the supply of and demand for information, from longitudinal social-media and search data.
+Read on 2026-11-12 (NOTE-tmp9yggi). An operational, replicable definition
+and detector for "information voids" as anomalous demand–supply imbalances,
+plus an associational link between voids and lower average source
+credibility.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §7. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
+
+Read on 2026-11-12; the reading is NOTE-tmp9yggi and its account
+THEORY-tmpp061k.

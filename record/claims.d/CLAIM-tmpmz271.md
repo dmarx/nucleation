@@ -35,6 +35,7 @@ summary: >-
   mechanism, [CLAIM-tmpcv1pg](CLAIM-tmpcv1pg.md), rests on it. The wording is A's; adopting it
   is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmp9g14f — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpvev3t — Deferred; registered from the same exchange, unread -->
 
@@ -85,3 +86,24 @@ users' tastes change (that is the owner's further mechanism,
 71% is a counterfactual from a model ([LIT-tmpvev3t](../literature.d/LIT-tmpvev3t.md), unread), and Zendle and
 colleagues' range from uniform to highly concentrated games (A31 §2) is
 cited without an identifier.
+
+## Note of 2026-11-12: Naudts, Helberger, Veale and Sax (2025), read
+
+From the reading in NOTE-tmpytbn0 (LIT-tmp6lewl), the reader's assessment as
+checked by the filer: the paper's "self-serving optimization" is the general
+case of the revenue-weighted objective that claim models; the paper gives no
+model of whose demand moves the objective.
+
+## Note of 2026-11-12: Caliari and Petri, read
+
+From the reading in NOTE-tmp9g14f (LIT-tmpwc3j6), the reader's assessment as
+checked by the filer: a cousin: both say aggregate observables can mislead
+about individual preference; this one about rationality, that one about
+weighting. No direct support.
+
+## Note of 2026-11-12: Nickl, Moussaïd and Lorenz-Spreen (2025), read
+
+From the reading in NOTE-tmppj4sz (LIT-tmpaptli), the reader's assessment as
+checked by the filer: Nickl's "production follows demand" with selection
+needing no insight on the producers' side is the same structure stated for
+culture; corroborative only.

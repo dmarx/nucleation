@@ -275,3 +275,20 @@ preferences, alternatives, and reasons become available for future
 revision." A23 and A25 do cite this claim. Audited in the curation entry of
 2026-11-12 as one thesis in three versions; each adds only its examples, so
 nothing was filed. No status change.
+
+## Note of 2026-11-12: Naudts, Helberger, Veale and Sax (2025), read
+
+From the reading in NOTE-tmpytbn0 (LIT-tmp6lewl), the reader's assessment as
+checked by the filer: *supports by analogy* the domination clause at the
+collective, political level: the paper's complaint is that the platform
+alone sets "the optimization goals" that fix what users see (result 3–4),
+and that users have no "control or contestation mechanisms", which is A's
+"another holds an unaccountable channel to those relations". Its remedies
+line up with the claim's components: publicity ≈ legibility, "actionable
+say" ≈ efficacy, contestation and motivated refusal ≈ correctability.
+*Qualifies*: the paper's subject is citizens' political agency over
+infrastructure, grounded in Young's democratic legitimacy, not an
+individual's will; it does not use non-domination or Pettit, and does not
+say that a non-profiled option (Art. 38) restores freedom; it calls Art. 38
+"the most promising agency-enhancing tool" but insufficient. Note: CLAIM-545
+on the branch does not itself cite LIT-tmp6lewl; the link is the LIT's.

@@ -42,6 +42,7 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd LIT-tmpc2x78 — Deferred; registered from the same exchange, unread -->
 
@@ -111,3 +112,32 @@ the headline tests.
 - [CLAIM-523](CLAIM-523.md) (legibility, volitional efficacy, correctability): losing
   investigative capacity is losing legibility of the discrepancies the
   newsroom exists to find.
+
+## Note of 2026-11-12: Scalco, Gesualdo, Cerqueti and Cinelli (2026), read
+
+From the reading in NOTE-tmp9yggi (LIT-tmpaodxg), the reader's assessment as
+checked by the filer: *qualifies*, in a useful way. The paper's method can
+detect a void only where demand is **visible**, as searches or page views;
+the claim's third step ("The public cannot demonstrate demand for an
+investigation whose findings are not yet known") describes exactly the void
+this method cannot see, because there is nothing to search for. So the work
+supports the general frame the claim uses (information as a market of demand
+and supply, where unmet demand is filled by lower-quality supply, result 4)
+but marks the edge of measurability the claim depends on: a supply–demand
+detector is blind to *latent* demand, which is the investigative case. It
+*leaves open* the claim's causal story about newsroom economics; nothing
+here concerns producers' incentives or investigative capacity, and the
+quality link is correlational (result 5).
+
+## Note of 2026-11-12: Nickl, Moussaïd and Lorenz-Spreen (2025), read
+
+From the reading in NOTE-tmppj4sz (LIT-tmpaptli), the reader's assessment as
+checked by the filer: **supports the first clause weakly, leaves the second
+open.** It shows the product (headline style) moved toward click-associated
+features across outlet quality tiers, which fits selection for attention,
+but with no mechanism measured and with a technological rival named by the
+authors. It says nothing about investigative capacity or about who pays. The
+finding that high-quality outlets shifted as much as lower-quality ones is
+mild evidence for an environment-level pressure, not an outlet-type effect,
+which the claim's selection reading predicts. Corroborates (independent; the
+claim does not rest on it).

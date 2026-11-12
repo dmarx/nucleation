@@ -34,6 +34,7 @@ summary: >-
   because the source is a narrative industry review; the gap it describes
   runs against its authors' interest.
 ---
+<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's claim this account grounds -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading named as the bridge, untested -->
 
@@ -108,3 +109,11 @@ systematic review of placebo-controlled psychobiotic trials, separating
 healthy from depressed participants and subjective from objective
 outcomes, is in the record. Narrowing to the rodent half would free
 nothing: [CLAIM-166](../claims.d/CLAIM-166.md) uses both halves.
+
+## Note of 2026-11-12: Nakhal et al. (2026), read
+
+From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
+checked by the filer: and **CASE-047** (gut microbes and the host's hunger
+and mood): same evidential tier; this study is weaker than the germ-free and
+transplant work THEORY-560 summarizes, since it has no colonization or
+rescue arm.

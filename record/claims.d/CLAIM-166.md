@@ -58,6 +58,7 @@ summary: >-
 bears_on:
 - QUESTION-033
 ---
+<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmp1p2zd LIT-tmp42smw LIT-tmp4a5du LIT-tmp7144o LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-560 — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
@@ -163,3 +164,16 @@ owner (U9) moved that question to parasites, [QUESTION-tmpgciew](../questions.d/
 A in [CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md). Nothing here changes the claim's evidence: the new
 gut-brain works are registered unread ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md), [LIT-tmpddwp2](../literature.d/LIT-tmpddwp2.md),
 [LIT-tmp7144o](../literature.d/LIT-tmp7144o.md), [LIT-tmpwo0nr](../literature.d/LIT-tmpwo0nr.md), [LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)). No status change.
+
+## Note of 2026-11-12: Nakhal et al. (2026), read
+
+From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
+checked by the filer: *leaves open*. The work concerns development of the
+offspring's tissues under the *mother's* microbiota, not a person's own
+microbiome driving its present behaviour or experience; it measures
+structure only (result 6), and its causal reading is confounded by the
+antibiotic (results 2, 5). It adds at most a further rodent route by which
+microbial communities may shape neural substrates, which is consistent with
+the claim's "routes exist" but not evidence for "drive". CLAIM-166's note of
+2026-11-12 (branch) already lists it among unread gut-brain works with "No
+status change"; the reading supports keeping that.

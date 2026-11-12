@@ -42,6 +42,7 @@ summary: >-
   what A reported for each. The owner then moved the test to loot boxes
   ([CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md)).
 ---
+<!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CLAIM-tmphgjbz ARG-tmpshmi5 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpdak05 LIT-tmpccpc6 LIT-tmp9goww LIT-tmpf67mb LIT-tmp2hne0 LIT-tmpgu9ct LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
 
@@ -101,3 +102,16 @@ minority intends anything: A27 §6 calls the result "a governance structure
 without an identifiable governor". [LIT-1465](../literature.d/LIT-1465.md)'s taxonomy of addictive design
 features (held, read) is the record's nearest reading on the individual
 side.
+
+## Note of 2026-11-12: Shor and Seida unavailable, and a later study by the same author
+
+The reading pass of 2026-11-12 could not read Shor and Seida 2018
+(LIT-tmp9goww): it is closed, and is now Unavailable. Its reader found a
+later study by the same first author, Shor and Liu 2025 (LIT-tmpagy32,
+registered Deferred and unread; only its abstract was seen), which follows
+popular videos from 2000 to 2024 and reports, by its abstract, a rise in
+mostly consensual aggression. So this claim's use of the 2018 study as
+evidence "Against a strong industry-wide version" should not stand alone:
+the same group's longer series may point the other way on that measure.
+Neither study is read, and nothing here is a finding. The defeater's
+parenthesis citing Shor and Seida is kept, marked unread. No status change.

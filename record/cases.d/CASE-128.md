@@ -57,6 +57,7 @@ draws_on:
 - THEORY-067
 - THEORY-1285
 ---
+<!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmp6oofp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
@@ -145,3 +146,22 @@ constraint. A21 §1 applies it to adaptive deep brain stimulation, an
 external regulator the patient authorized ([LIT-tmp6oofp](../literature.d/LIT-tmp6oofp.md), unread). A9 §5
 applies it to advance directives. In each the case's contrast between the
 delegated and the imposed restriction carries over. No change.
+
+## Note of 2026-11-12: Muñoz et al. (2020), read
+
+From the reading in NOTE-tmpc3zs5 (LIT-tmplfdsz), the reader's assessment as
+checked by the filer: result 4 (an always-available patient override) and
+result 5 (too much patient control can undermine autonomy) are the clinical
+form of the case's harder variant, that "Immediate revocability cannot
+simply be required in every context". Supports the case's point that the
+authorization and revisability of the arrangement, not present control,
+carry the difference.
+
+## Note of 2026-11-12: Millum (2025), read
+
+From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+checked by the filer: tension worth noting for the filer: Millum's
+principle, taken strictly, would deny the earlier self's delegation
+authority over the later competent self, which is what CASE-128 turns on.
+Millum does not discuss precommitment, so this is a question for the record,
+not his claim.

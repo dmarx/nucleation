@@ -58,6 +58,7 @@ summary: >-
   integration. It is a scenario built from systems at different stages,
   not a sequence observed in any one.
 ---
+<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-1211 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: CASE-167 LIT-1605 — Open, Proposed or Unavailable; the question, cases, accounts and unread work set beside this, nothing here rests on them -->
 
@@ -145,3 +146,9 @@ symbiont, or replaced functions with no effector stage anywhere.
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
 The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports the scenario Sørensen and colleagues propose, and [NOTE-1241](../notes.d/NOTE-1241.md) read the paper in full. Whether endosymbionts become organelles by these steps is [THEORY-1211](THEORY-1211.md)'s question, Proposed, which keeps this entry's old promote_when.
+
+## Note of 2026-11-12: Nakhal et al. (2026), read
+
+From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
+checked by the filer: use "vertical transmission" for symbiont inheritance;
+result 3 is a measured analogue at the community level, a minor link.
