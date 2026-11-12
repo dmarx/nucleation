@@ -28,7 +28,7 @@ summary: >-
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmp44r8r — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: LIT-tmp9goww — Unavailable; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmp9goww until 2027-02-12 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was found when it was read on 2026-11-12; ask again whether a copy has appeared -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
 

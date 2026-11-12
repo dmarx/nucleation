@@ -48,7 +48,8 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmp6oofp LIT-tmpe26cm — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpe26cm — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmp6oofp until 2027-02-12 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was found when it was read on 2026-11-12; ask again whether a copy has appeared -->
 
 # CLAIM-tmpu69tn: Where an influence on an organism came from, what governs its practical efficacy, and whose interests its effects serve are three separate questions, so neither an origin outside the organism nor one inside it settles whether the influence belongs to the organism's self-governance: authorized external regulation, parasitic capture, cancer arising from the host's own cells and foreign-origin cells serving the host realize the combinations
 

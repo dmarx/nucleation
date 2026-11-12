@@ -1,7 +1,7 @@
 ---
 status: Skimmed
 paper: LIT-tmpx81t4
-title: 'Neighbour of LIT-tmpv9xn3 — Monnier, George, Guyard, Tarnec & Kountouris — MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness'
+title: 'Stand-in reading — Monnier, George, Guyard, Tarnec & Kountouris — MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness'
 version: 1
 history:
 - version: 1
@@ -24,7 +24,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpv9xn3 — Unfetched; filed from the same exchange -->
 
-# NOTE-tmp5y69g: Neighbour of [LIT-tmpv9xn3](../literature.d/LIT-tmpv9xn3.md) — Monnier, George, Guyard, Tarnec & Kountouris — MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness
+# NOTE-tmp5y69g: Stand-in reading — Monnier, George, Guyard, Tarnec & Kountouris — MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness
+
+Read as a stand-in for LIT-tmpv9xn3, which was not reached.
 
 ## Contribution
 

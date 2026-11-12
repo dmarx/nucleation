@@ -1,7 +1,7 @@
 ---
 status: Read
 paper: LIT-tmpbye08
-title: 'Neighbour of LIT-tmpvj6mw — Sabour, Liu et al. — Human Decision-making is Susceptible to AI-driven Manipulation'
+title: 'Stand-in reading — Sabour, Liu et al. — Human Decision-making is Susceptible to AI-driven Manipulation'
 version: 1
 history:
 - version: 1
@@ -30,7 +30,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpvj6mw — Unfetched; filed from the same exchange -->
 
-# NOTE-tmpfoqe6: Neighbour of [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md) — Sabour, Liu et al. — Human Decision-making is Susceptible to AI-driven Manipulation
+# NOTE-tmpfoqe6: Stand-in reading — Sabour, Liu et al. — Human Decision-making is Susceptible to AI-driven Manipulation
+
+Read as a stand-in for LIT-tmpvj6mw, which was not reached.
 
 ## Contribution
 

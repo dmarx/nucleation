@@ -54,7 +54,8 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CLAIM-tmphgjbz ARG-tmpshmi5 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpccpc6 LIT-tmp9goww LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmp9goww LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpccpc6 until 2027-02-12 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was found when it was read on 2026-11-12; ask again whether a copy has appeared -->
 
 # CLAIM-tmpcv1pg: Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme
 

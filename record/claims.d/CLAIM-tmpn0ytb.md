@@ -45,7 +45,9 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmpxmmhb — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-448 — Proposed; Meincke's process view, which the owner's link extends -->
 <!-- inactive-ok-file: ARG-tmp51yxc THEORY-tmp6t2l2 THEORY-tmp4rc81 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpyiplw LIT-tmp3n00g LIT-tmp5q8o7 — Unfetched; the owner's sources at U5 and the paper behind the fourth -->
+<!-- inactive-ok-file: LIT-tmp5q8o7 — Unfetched; the owner's sources at U5 and the paper behind the fourth -->
+<!-- inactive-ok-file: LIT-tmpyiplw until 2027-02-12 — Unfetched; a premise this entry depends on (`grounds`): a lawful copy is located but was blocked on 2026-11-12; ask again whether it can be fetched -->
+<!-- inactive-ok-file: LIT-tmp3n00g until 2027-02-12 — Unfetched; a premise this entry depends on (`grounds`): a lawful copy is located but was blocked on 2026-11-12; ask again whether it can be fetched -->
 <!-- inactive-ok-file: THEORY-443 — Proposed; evolutionary against physiological individuality -->
 <!-- inactive-ok-file: TERM-083 — Proposed; moral standing, which the claim does not reach -->
 
