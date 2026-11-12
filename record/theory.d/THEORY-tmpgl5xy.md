@@ -13,7 +13,7 @@ promote_when: >-
   were graded against papers published after the generation cutoff, together
   with the novelty-condition overestimate.
 summary: >-
-  The central account of LIT-2297, read in NOTE-tmptbfw4. Proposed until its
+  The central account of [LIT-2297](../literature.d/LIT-2297.md), read in [NOTE-tmptbfw4](../notes.d/NOTE-tmptbfw4.md). Proposed until its
   promote_when is met.
 ---
 

@@ -13,7 +13,7 @@ promote_when: >-
   sources scored against reference alignments, with the participation rule
   as quoted, and lists no ontology-change or versioning track.
 summary: >-
-  The central account of LIT-2302, read in NOTE-tmpeljih. Proposed until its
+  The central account of [LIT-2302](../literature.d/LIT-2302.md), read in [NOTE-tmpeljih](../notes.d/NOTE-tmpeljih.md). Proposed until its
   promote_when is met.
 ---
 

@@ -54,10 +54,10 @@ Automated Reviewer, an LLM ensemble of five reviews plus a meta-review. Idea arc
 
 The exchange says it "Demonstrates a pipeline for generating ML ideas, implementing experiments, analyzing outputs and drafting research papers". It also says the workshop result "is evidence of workflow capability, not proof of a generally reliable autonomous scientist; the reported workshop acceptance rate was 70%". **Accurate.** The paper reports the 70% rate itself. One point the exchange omits: humans filtered outputs at each stage before submission. The LIT summary carries no characterization beyond the title.
 
-The LIT names no codes. The content curation (021453) gives the exchange's A14 survey of AI-assisted theory generation as the place these works sit, and says that framing was left "belonging in their readings". No new entry cites LIT-2303.
-- **QUESTION-tmp7a7l4** (can a collective become a better improver): **leaves open**. The AI Scientist improves a product, papers, under a fixed improver, and the improvement measure is its own reviewer. It is an instance of A43's level 1, a better work product, evaluated by an internal judge. That is the evaluation pattern LIT-2273 (unread) is said to criticize.
-- **CLAIM-266** (probes that supply an optimized system's training signal cannot also certify what it preserves): **illustrates, does not test**. The same Automated Reviewer serves as fitness signal (Fig. 1b, Fig. 3c) and as evaluation. The paper's only independent check is three workshop submissions.
-- **QUESTION-271 / CASE-144** (evaluation without capture): bears as an example. The authors validate the judge against human decisions once, then rely on it.
+The LIT names no codes. The content curation (021453) gives the exchange's A14 survey of AI-assisted theory generation as the place these works sit, and says that framing was left "belonging in their readings". No new entry cites [LIT-2303](../literature.d/LIT-2303.md).
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)** (can a collective become a better improver): **leaves open**. The AI Scientist improves a product, papers, under a fixed improver, and the improvement measure is its own reviewer. It is an instance of A43's level 1, a better work product, evaluated by an internal judge. That is the evaluation pattern [LIT-2273](../literature.d/LIT-2273.md) (unread) is said to criticize.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (probes that supply an optimized system's training signal cannot also certify what it preserves): **illustrates, does not test**. The same Automated Reviewer serves as fitness signal (Fig. 1b, Fig. 3c) and as evaluation. The paper's only independent check is three workshop submissions.
+- **[QUESTION-271](../questions.d/QUESTION-271.md) / [CASE-144](../cases.d/CASE-144.md)** (evaluation without capture): bears as an example. The authors validate the judge against human decisions once, then rely on it.
 
 ## Limitations
 

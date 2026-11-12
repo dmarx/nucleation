@@ -13,7 +13,7 @@ promote_when: >-
   requirement, and §1 attributes the main difficulty to sentence selection
   from the oracle experiments.
 summary: >-
-  The central account of LIT-2301, read in NOTE-tmpu62tg. Proposed until its
+  The central account of [LIT-2301](../literature.d/LIT-2301.md), read in [NOTE-tmpu62tg](../notes.d/NOTE-tmpu62tg.md). Proposed until its
   promote_when is met.
 ---
 

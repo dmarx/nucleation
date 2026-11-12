@@ -13,7 +13,7 @@ promote_when: >-
   §5 and Tables 4, 9, 10 and 20 give these maxima under the standard tools,
   and Appendix A states the cost-and-tools principle.
 summary: >-
-  The central account of LIT-2299, skimmed in NOTE-tmptn3lr. Proposed until
+  The central account of [LIT-2299](../literature.d/LIT-2299.md), skimmed in [NOTE-tmptn3lr](../notes.d/NOTE-tmptn3lr.md). Proposed until
   its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmptn3lr — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

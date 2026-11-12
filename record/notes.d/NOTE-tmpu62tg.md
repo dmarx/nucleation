@@ -50,8 +50,8 @@ Claim verification against textual sources; evidence sets; SUPPORTED / REFUTED /
 
 The exchange calls it "Claim verification against cited textual evidence" and says it is "Useful for a source-verification component, not argument evolution or belief revision". **Accurate.** One nuance: FEVER verifies against a fixed corpus, not against the evidence a claim cites. Systems must find the evidence.
 
-The LIT names none, and no branch entry cites LIT-2301.
-- **CASE-tmppm4do**: its failure kind "missing evidence: the ambiguity cannot be resolved", with the correct response "record the uncertainty or ask for more; change nothing", has a direct analogue in FEVER's NOTENOUGHINFO label. FEVER's guidance to annotators to keep world knowledge out of the verdict is a precedent for scoring an abstention as correct. Bears as a design precedent, nothing more.
+The LIT names none, and no branch entry cites [LIT-2301](../literature.d/LIT-2301.md).
+- **[CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)**: its failure kind "missing evidence: the ambiguity cannot be resolved", with the correct response "record the uncertainty or ask for more; change nothing", has a direct analogue in FEVER's NOTENOUGHINFO label. FEVER's guidance to annotators to keep world knowledge out of the verdict is a precedent for scoring an abstention as correct. Bears as a design precedent, nothing more.
 - The record's own verification step (read-and-file step 7, quotes checked against source text) is a verification task of FEVER's kind on a much smaller scale. FEVER's finding that evidence recall, not entailment, is the bottleneck is a caution for any automated check of the record's quotes. That is a remark, not a code.
 
 ## Limitations

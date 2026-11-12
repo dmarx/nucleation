@@ -47,6 +47,6 @@ Stateful task; deterministic state assertion; user simulator; pass^k reliability
 
 It stands in for the benchmark's design, scope, metrics and baseline. It does **not** cover the repository's track structure (the "Agent Learning Track" the exchange describes), the task files or the submission protocol.
 
-- **CASE-tmppm4do**: **leaves open**. STATE-Bench varies only the memory system on fixed tasks. Nothing in it requires revising a schema or a procedure's representation. It could serve only as the "transfer" or downstream-utility check the exchange proposed, not as a test of governed schema adaptation.
-- **QUESTION-tmps5iou**: no bearing on the distinctiveness half; for the work-done half, possible downstream use only.
-- **CLAIM-266 / QUESTION-271**: the benchmark keeps the scorer (deterministic assertions) outside the agent for state tasks, but uses LLM judges for procedure and user experience. That is a mixed instance of separating evaluator from optimized system.
+- **[CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)**: **leaves open**. STATE-Bench varies only the memory system on fixed tasks. Nothing in it requires revising a schema or a procedure's representation. It could serve only as the "transfer" or downstream-utility check the exchange proposed, not as a test of governed schema adaptation.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)**: no bearing on the distinctiveness half; for the work-done half, possible downstream use only.
+- **[CLAIM-266](../claims.d/CLAIM-266.md) / [QUESTION-271](../questions.d/QUESTION-271.md)**: the benchmark keeps the scorer (deterministic assertions) outside the agent for state tasks, but uses LLM judges for procedure and user experience. That is a mixed instance of separating evaluator from optimized system.

@@ -13,7 +13,7 @@ promote_when: >-
   classes leave infinite open space risk, and that CAP and EVT models bound
   it (citing their earlier proofs).
 summary: >-
-  The central account of LIT-2300, read in NOTE-tmpdbblh. Proposed until its
+  The central account of [LIT-2300](../literature.d/LIT-2300.md), read in [NOTE-tmpdbblh](../notes.d/NOTE-tmpdbblh.md). Proposed until its
   promote_when is met.
 ---
 

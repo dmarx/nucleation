@@ -23,7 +23,7 @@ summary: >-
   improver and correctability is A's, and adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: LIT-2273 LIT-2319 LIT-2298 LIT-2290 LIT-2327 LIT-2314 LIT-2310 LIT-2278 LIT-2288 LIT-2287 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2273 LIT-2319 LIT-2290 LIT-2327 LIT-2314 LIT-2310 LIT-2278 LIT-2288 LIT-2287 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-tmp5jugw LIT-tmphbhk2 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-tmpy1ebu — filed from the same exchange, Proposed -->
 

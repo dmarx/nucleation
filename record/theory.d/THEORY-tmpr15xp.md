@@ -14,7 +14,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmps5iou
 summary: >-
-  The central account of LIT-tmp1c0df, skimmed in NOTE-tmpjbwnd. Proposed
+  The central account of [LIT-tmp1c0df](../literature.d/LIT-tmp1c0df.md), skimmed in [NOTE-tmpjbwnd](../notes.d/NOTE-tmpjbwnd.md). Proposed
   until its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpjbwnd — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

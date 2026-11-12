@@ -18,7 +18,7 @@ bears_on:
 - QUESTION-tmp7a7l4
 - QUESTION-tmpxq2sb
 summary: >-
-  The central account of LIT-2306, read in NOTE-tmpvl4gz. Proposed until its
+  The central account of [LIT-2306](../literature.d/LIT-2306.md), read in [NOTE-tmpvl4gz](../notes.d/NOTE-tmpvl4gz.md). Proposed until its
   promote_when is met.
 ---
 

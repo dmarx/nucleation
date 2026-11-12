@@ -16,7 +16,7 @@ promote_when: >-
 bears_on:
 - QUESTION-271
 summary: >-
-  The central account of LIT-tmpqne7r, read in NOTE-tmpy86h3. Proposed until
+  The central account of [LIT-tmpqne7r](../literature.d/LIT-tmpqne7r.md), read in [NOTE-tmpy86h3](../notes.d/NOTE-tmpy86h3.md). Proposed until
   its promote_when is met.
 ---
 

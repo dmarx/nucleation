@@ -4,7 +4,7 @@ status_note: >-
   Skimmed on 2026-11-12 from the authors' manuscript on Aston University's
   institutional repository
   (https://publications.aston.ac.uk/id/eprint/37117/1/mrt_survey.pdf),
-  lawful under ADR-074. Registered as a stand-in for LIT-2305, Blair,
+  lawful under [ADR-074](../decisions.d/ADR-074.md). Registered as a stand-in for [LIT-2305](LIT-2305.md), Blair,
   Bencomo and France's 2009 article, which no lawful copy reached.
 title: 'Models@run.time: a guided tour of the state of the art and research challenges'
 version: 1
@@ -37,7 +37,7 @@ summary: >-
   technique; then domain, intersecting areas and initiatives. The field
   concentrates on architecture-level, structural runtime models used for
   self-adaptation and manipulated by model transformation. Registered on
-  2026-11-12 as a stand-in for LIT-2305; it restates the 2009 article's
+  2026-11-12 as a stand-in for [LIT-2305](LIT-2305.md); it restates the 2009 article's
   definition of a runtime model and the programme that followed, not its
   arguments or examples.
 ---
@@ -49,4 +49,4 @@ Nelly Bencomo, Sebastian Götz and Hui Song (2019), Software & Systems Modeling 
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-2305, which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates the 2009 article's definition of a runtime model and the programme that followed, not its arguments or examples.
+Registered on 2026-11-12 as a stand-in for [LIT-2305](LIT-2305.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates the 2009 article's definition of a runtime model and the programme that followed, not its arguments or examples.

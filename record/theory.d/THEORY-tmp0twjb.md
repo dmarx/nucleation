@@ -15,7 +15,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmpxq2sb
 summary: >-
-  The central account of LIT-2307, read in NOTE-tmpr5dev. Proposed until its
+  The central account of [LIT-2307](../literature.d/LIT-2307.md), read in [NOTE-tmpr5dev](../notes.d/NOTE-tmpr5dev.md). Proposed until its
   promote_when is met.
 ---
 

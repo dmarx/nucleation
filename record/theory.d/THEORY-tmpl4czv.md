@@ -16,7 +16,7 @@ promote_when: >-
 bears_on:
 - QUESTION-271
 summary: >-
-  The central account of LIT-2303, read in NOTE-tmphc9xb. Proposed until its
+  The central account of [LIT-2303](../literature.d/LIT-2303.md), read in [NOTE-tmphc9xb](../notes.d/NOTE-tmphc9xb.md). Proposed until its
   promote_when is met.
 ---
 

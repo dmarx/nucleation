@@ -56,8 +56,8 @@ Five benchmarking principles; Asta Environment; time-invariant cost accounting; 
 The exchange rates AstaBench "High for scientific inquiry" and describes it as testing "Literature synthesis and research workflows, with and without persistent structured records". **Partly inaccurate.** AstaBench has no persistent-structured-record condition. That "with and without" describes A's proposed study, not the benchmark. A's own later turn correctly says AstaBench "is not primarily a test of persistent cross-task research memory" and that a longitudinal version would be "a new evaluation using AstaBench-inspired tasks". The LIT has no characterization beyond the title.
 
 - The content curation lists "a longitudinal AstaBench (A27, A29)" under "Further evaluations named but not designed here". The reading confirms that framing was needed. AstaBench as published is single-task and gives an agent no carry-over between tasks, so a luria study would have to build the longitudinal layer.
-- **CASE-tmppm4do / CASE-tmpiocs1**, on controls: AstaBench's principle 3 (cost and tool access as confounders) **supports** the cases' control "Matched evidence, tools, models and budgets across arms". It is independent support from a benchmark-design paper.
-- **QUESTION-tmp7a7l4**: no direct bearing.
+- **[CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) / [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)**, on controls: AstaBench's principle 3 (cost and tool access as confounders) **supports** the cases' control "Matched evidence, tools, models and budgets across arms". It is independent support from a benchmark-design paper.
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)**: no direct bearing.
 
 ## Limitations
 

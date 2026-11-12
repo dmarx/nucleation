@@ -13,7 +13,7 @@ promote_when: >-
   blinded repeats, and the O0→O1→O2 construction in which later splits are
   generated against snapshots built from earlier reviewed updates.
 summary: >-
-  The central account of LIT-2304, read in NOTE-tmp9qd05. Proposed until its
+  The central account of [LIT-2304](../literature.d/LIT-2304.md), read in [NOTE-tmp9qd05](../notes.d/NOTE-tmp9qd05.md). Proposed until its
   promote_when is met.
 ---
 

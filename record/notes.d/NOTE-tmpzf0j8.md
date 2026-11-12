@@ -49,10 +49,10 @@ ADAS (search space, search algorithm, evaluation function); Meta Agent Search; a
 
 The exchange calls it "A meta-agent searches over agent designs" and "Strong prior art for automatically evolving agent organization". It also lists it under "Agent-scaffold search and evaluation of generated systems", with the gap being "Governed acceptance and preservation of epistemic commitments". **Accurate.** The paper has no acceptance step beyond the validation score, and preserves nothing other than the archive. "Agent organization" is slightly loose: ADAS evolves an agent's internal workflow of prompts, sub-calls and refinement, not an organization of agents. The paper only gestures at organizations in future work.
 
-- **QUESTION-tmp7a7l4**, which lists LIT-2298 among the registered prior art: **qualifies the prior-art framing.** In A43's terms, ADAS delivers level 1 (better products, the agents) under a **fixed improver**. Improving the improver is explicitly future work (§6). It is therefore not evidence that an improver improved, and it does not compare earlier and later improvers from the same start. What it does offer is an archive that a later meta agent conditions on. That is a form of inheritance, a product record not a procedure record.
-- **CASE-tmpy1ebu** (improver transplant): ADAS supplies a concrete baseline arm. A fixed meta agent with a growing archive is the control in which the improver does not improve.
-- **CLAIM-266**: illustrates. Validation accuracy is both the search signal and the reported held-out measure, though on separate splits.
-- **NOTE-156** notes that ADAS is its source's ref. 1 and "Neither is held in either record." That is now outdated for this record: LIT-2298 holds it.
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)**, which lists [LIT-2298](../literature.d/LIT-2298.md) among the registered prior art: **qualifies the prior-art framing.** In A43's terms, ADAS delivers level 1 (better products, the agents) under a **fixed improver**. Improving the improver is explicitly future work (§6). It is therefore not evidence that an improver improved, and it does not compare earlier and later improvers from the same start. What it does offer is an archive that a later meta agent conditions on. That is a form of inheritance, a product record not a procedure record.
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (improver transplant): ADAS supplies a concrete baseline arm. A fixed meta agent with a growing archive is the control in which the improver does not improve.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)**: illustrates. Validation accuracy is both the search signal and the reported held-out measure, though on separate splits.
+- **[NOTE-156](NOTE-156.md)** notes that ADAS is its source's ref. 1 and "Neither is held in either record." That is now outdated for this record: [LIT-2298](../literature.d/LIT-2298.md) holds it.
 
 ## Limitations
 

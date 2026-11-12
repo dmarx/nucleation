@@ -52,9 +52,9 @@ Ontology matching and alignment; reference alignment; complex correspondences; i
 
 The exchange rates OAEI "Adjacent" and says it covers "Ontology matching and change-related interoperability, but not directly governed schema evolution". **Mostly accurate.** "Adjacent" and "not directly governed schema evolution" are right. "Change-related interoperability" is not supported by the 2026 page: no 2026 track concerns ontology change or versioning. Every track aligns separate, fixed sources. The LIT has no characterization.
 
-- **QUESTION-tmps5iou** (is coupling schema change to governance what distinguishes luria from ontology and metamodel evolution): **leaves open; mostly irrelevant**. OAEI evaluates alignment between ontologies, not the governed evolution of one, so it is not part of the comparison class the question names. It could serve only in the narrow role of a scorer: checking that a migrated grammar still aligns with its predecessor. Even that would require reference alignments the record does not have.
-- **CASE-tmppm4do**: the Interactive track's oracle design is a precedent for the case's "deterministic rule-based simulator" reviewer. That reviewer is the exchange's design, line 1752, not the case's text. Weak bearing.
-- Held entries that use OAEI data: NOTE-1323 / THEORY-1136 (hyperbolic hierarchy matching, scored on OAEI Anatomy and Biodiv). These are the record's existing contact with OAEI. LIT-1808 is the paper behind them.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)** (is coupling schema change to governance what distinguishes luria from ontology and metamodel evolution): **leaves open; mostly irrelevant**. OAEI evaluates alignment between ontologies, not the governed evolution of one, so it is not part of the comparison class the question names. It could serve only in the narrow role of a scorer: checking that a migrated grammar still aligns with its predecessor. Even that would require reference alignments the record does not have.
+- **[CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)**: the Interactive track's oracle design is a precedent for the case's "deterministic rule-based simulator" reviewer. That reviewer is the exchange's design, line 1752, not the case's text. Weak bearing.
+- Held entries that use OAEI data: [NOTE-1323](NOTE-1323.md) / [THEORY-1136](../theory.d/THEORY-1136.md) (hyperbolic hierarchy matching, scored on OAEI Anatomy and Biodiv). These are the record's existing contact with OAEI. [LIT-1808](../literature.d/LIT-1808.md) is the paper behind them.
 
 ## Limitations
 
