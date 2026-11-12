@@ -10,4 +10,4 @@
 
 ### Changed
 
-- At the owner's review of dmarx/nucleation#482: CLAIM-tmpnwq8a (version 3) says a base-model replacement *can* impose a compatibility or transfer cost that shortens a learned specialization's useful life, and leaves how often to evidence; ARG-tmp4icc1 is weakened to match; ARG-tmpu8x8a is retitled as the positive inference it rejects; CASE-tmp3isyl's crossover allows an up-front cost on the reference route, n* = (F_train − F_ref)/(c_ref − c_train), and counts cost per acceptable output, retries included.
+- At the owner's review of dmarx/nucleation#482: CLAIM-tmpnwq8a (version 3) says a base-model replacement *can* impose a compatibility or transfer cost that shortens a learned specialization's useful life, and leaves how often to evidence; ARG-tmp4icc1 is weakened to match; ARG-tmpu8x8a is retitled as the positive inference it rejects; CASE-tmp3isyl's crossover allows an up-front cost on the reference route, n* = (F_train − F_ref)/(c_ref − c_train), and counts cost per acceptable output, retries included. CASE-tmp40vka no longer lists the seven method papers as where the case was reported; it draws on their readings instead.

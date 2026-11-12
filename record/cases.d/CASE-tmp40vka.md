@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'Keeping a character consistent in image generation, by training a character LoRA once or by conditioning on reference images at every generation: a 2026 practitioner thread on MiniMax H3, and the earlier generations of the same choice'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    At the owner's review of dmarx/nucleation#482: the seven method papers
+    are no longer listed under reported_in, since none reports the Reddit
+    thread or the owner's case; the case came from the owner's U6 and U7.
+    Their readings are where the case draws on them (draws_on), now
+    including LoRA, DreamBooth and Textual Inversion.
 standing: stipulated
 kind: specimen
 tags:
@@ -18,14 +27,9 @@ draws_on:
 - THEORY-tmpvarvt
 - THEORY-tmpdzbq1
 - THEORY-439
-reported_in:
-- LIT-tmp5b18b
-- LIT-tmp3pjii
-- LIT-tmpiyr8q
-- LIT-tmptzx4q
-- LIT-tmp8l2rx
-- LIT-tmpp8vh8
-- LIT-tmp4meti
+- THEORY-tmp6v6q8
+- THEORY-tmplz597
+- THEORY-tmpc6xzg
 summary: >-
   The owner's case, from the exchange "Identify Synthesis Opportunities"
   (2026-11-08, U6): a Reddit thread in r/StableDiffusion "illustrating how
@@ -141,7 +145,7 @@ measured performance rankings."
 
 ## Note of 2026-11-12: a staleness term
 
-[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md), the assistant's, proposes a cost the thread's commenters, as A reported them, do not name: a character LoRA is tied to its base model, so a new base model ends its reuse. It is Proposed and rests, so far, on one sentence of the IP-Adapter abstract about a neighbouring kind of fine-tuning.
+[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md), the assistant's, proposes a cost the thread's commenters, as A reported them, do not name: a character LoRA is tied to its base model, so a new base model can impose a transfer cost on it. It is Proposed; after the readings and the owner's review it says only that a replacement can impose a compatibility or transfer cost, and rests on LoRA's structure, not on IP-Adapter's sentence.
 
 ## Note of 2026-11-12: the works in the table, read
 
