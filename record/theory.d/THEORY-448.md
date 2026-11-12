@@ -191,3 +191,11 @@ it. No status change.
 
 From the reading in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) ([LIT-tmpfjc6u](../literature.d/LIT-tmpfjc6u.md)), the reader's assessment as
 checked by the filer: no bearing; ex vivo embryos are outside gestation.
+
+## Note of 2026-11-12: Żuradzki (2026), Ethics-first metaphysics: normative considerations as evidence for ontological commitments, read
+
+From the reading in NOTE-tmp88rw9 (LIT-tmpblasa), the reader's assessment as
+checked by the filer: qualifies. That account takes the metaphysics to
+constrain the ethics. Żuradzki argues the direction can also run from ethics
+to metaphysics where the biology underdetermines, so the choice between
+parthood and containment may itself be partly ethical.

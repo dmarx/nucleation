@@ -1,11 +1,13 @@
 ---
-status: Unfetched
-status_note: >-
-  Reading attempted on 2026-11-12; nothing of the work was read. Copies
-  located and what stopped each: .
+status: Active
 title: 'Ethics-first metaphysics: normative considerations as evidence for ontological commitments'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp88rw9; account THEORY-tmp9xq6s. Status
+    Active.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -27,8 +29,18 @@ first_author: 'Żuradzki'
 keywords: []
 implementations: []
 summary: >-
-  Żuradzki (2026), DOI-10.1136/jme-2026-112360. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on [QUESTION-128](../questions.d/QUESTION-128.md). In A's account, which is unverified until read, it argues that ethical judgments can serve as evidence for ontological commitments where biology underdetermines the ontology of pregnancy.
+  Żuradzki (2026), DOI-10.1136/jme-2026-112360. Read on 2026-11-12 in
+  NOTE-tmp88rw9: A commentary on LIT-tmph5uj8. Żuradzki accepts Devanesan's
+  thesis that no ontology of pregnancy entails an ethical conclusion but
+  that each constrains which analogies can support one, and argues that the
+  relation is closer: where biological evidence underdetermines competing
+  ontologies, considered normative judgments may themselves count as
+  evidence for choosing between them. This is Dasgupta's "ethics-first"
+  methodology, which Żuradzki extends from personal identity to pregnancy
+  and embryonic identity. Its account is THEORY-tmp9xq6s.
 ---
+<!-- inactive-ok-file: LIT-tmph5uj8 — Unavailable; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmp9xq6s — Proposed; filed from the same exchange -->
 
 # LIT-tmpblasa: Ethics-first metaphysics: normative considerations as evidence for ontological commitments
 
@@ -36,8 +48,14 @@ Tomasz Żuradzki (2026). "Ethics-first metaphysics: normative considerations as 
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it argues that ethical judgments can serve as evidence for ontological commitments where biology underdetermines the ontology of pregnancy.
+Read on 2026-11-12 (NOTE-tmp88rw9). A methodological claim for bioethics:
+ontological disputes about pregnancy and early human life should be informed
+by ethical reasoning rather than insulated from it, with two named routes by
+which normative judgment can bear on ontology.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [QUESTION-128](../questions.d/QUESTION-128.md).
+
+Read on 2026-11-12; the reading is NOTE-tmp88rw9 and its account
+THEORY-tmp9xq6s.

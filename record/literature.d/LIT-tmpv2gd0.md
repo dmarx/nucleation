@@ -1,10 +1,15 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §3. No reading was attempted.
+status: Active
 title: 'Informed Consent'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpzin27; account THEORY-tmp0xlx0. Status
+    Active. The text read is the substantive revision of 2025-02-20; the
+    entry was first published 2011-09-20, which `published:` keeps
+    (ADR-002).
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -18,17 +23,39 @@ first_author: 'Eyal'
 keywords: []
 implementations: []
 summary: >-
-  Eyal (2011), Stanford Encyclopedia of Philosophy. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §3. It bears on [LIT-202](LIT-202.md). In A's account, which is unverified until read, it sets out competing justifications of informed consent, among them autonomy, bodily integrity and protection from domination.
+  Eyal (2011), Stanford Encyclopedia of Philosophy. Read on 2026-11-12 in
+  NOTE-tmpzin27: A survey of informed consent in bioethics: why it is
+  required, what it consists in, and its status. §2 canvasses seven
+  candidate justifications — protection (welfare), autonomy, prevention of
+  abusive conduct, trust (forward- and backward-looking), self-ownership,
+  non-domination, and personal integrity — and argues each faces serious
+  objections, with autonomy (dominant since the 1970s) treated at length and
+  found hard to ground as a complete justification. §§3–5 analyze consent
+  itself (behavioral vs psychological; presumed/hypothetical consent), the
+  information requirement, and voluntariness (coercion, undue inducement,
+  "no choice" situations). §8 distinguishes natural-right, legal, epistemic
+  and trust-based accounts of the requirement's status. §9 relates medical
+  consent to sexual, contractual and political consent. §10 argues for a
+  resilient "core" (risky, value-laden, invasive, refused interventions) and
+  a weaker, more overridable "rim". Its account is THEORY-tmp0xlx0.
+  Registered from the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11), where A cited it at A3 §3.
 ---
+<!-- inactive-ok-file: THEORY-tmp0xlx0 — Proposed; filed from the same exchange -->
 
 # LIT-tmpv2gd0: Informed Consent
 
-Nir Eyal (2011). "Informed Consent." *Stanford Encyclopedia of Philosophy*.
+Nir Eyal (2011). "Informed Consent." *Stanford Encyclopedia of Philosophy*, substantive revision 2025-02-20.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it sets out competing justifications of informed consent, among them autonomy, bodily integrity and protection from domination.
+Read on 2026-11-12 (NOTE-tmpzin27). A structured map of the competing
+justifications of informed consent and their difficulties — the standard
+reference statement of the debate.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §3. It bears on [LIT-202](LIT-202.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpzin27 and its account
+THEORY-tmp0xlx0.

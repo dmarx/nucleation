@@ -109,3 +109,14 @@ the unit of claimant constrains measurement (ecological boundaries cannot be
 disaggregated comparably; footprints are a constructed substitute). It does
 not address how the set of demands is defensibly established; the 35
 indicators are taken from SDG data and planetary boundaries science.
+
+## Note of 2026-11-12: Freer and Nosratabadi, read
+
+From the reading in NOTE-tmpyt3ot (LIT-tmpq8pi2), the reader's assessment as
+checked by the filer: supports and sharpens it. What an observer can infer
+from behaviour depends on an assumption about attention that the behaviour
+cannot itself fix. Under the weakest assumption almost nothing is inferred,
+and the inferred relation is model-relative. This gives formal content to
+"behavioral observations are evidence about a demand, not automatically the
+demand itself". It does not address who fixes the attention set, so
+selective exposure shaped by an organization is left open.

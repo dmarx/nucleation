@@ -1,10 +1,23 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. No reading was attempted.
+  Unfetched on 2026-11-12. The ScienceDirect gold open-access PDF,
+  https://www.sciencedirect.com/science/article/pii/S0969996122002844/pdf
+  (CC BY-NC-ND), returned a bot or cookie page (HTTP 403); not retried. The
+  DOAJ listing routes to the same page, and there is no PMC copy. Only the
+  abstract was read. A neighbour was read in its place: Castela and others
+  2017 (LIT-tmpyfxly), from the same group, which carries the CCL2/CCR2
+  recruitment mechanism but not this paper's results on maternal brain
+  injury.
 title: 'CCL2 recruits fetal microchimeric cells and dampens maternal brain damage in post-partum mice'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -34,3 +47,6 @@ Maria Sbeih, Bénédicte Oulès, Mansour Alkobtawi, Leslie Schwendimann, Qui Tru
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).
+
+Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpyfxly. The
+reader on how far it stands in:

@@ -40,6 +40,8 @@ summary: >-
   functional incorporation at the level of cells, and leaves gradedness
   of individuality open ([ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)).
 ---
+<!-- inactive-ok-file: LIT-tmps2df6 — Unfetched; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpsdg4x — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpxmmhb — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-448 — Proposed; Meincke's process view, which the owner's link extends -->
@@ -130,4 +132,36 @@ generations, which adds a lineage dimension the claim does not state. Its
 autoimmune associations show functional incorporation can be pathological,
 which bears on A's "functional boundary" step and on whether participation
 is integration. It **leaves the gradedness conclusion open**, like the read
-sources ([ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)). Its account ([THEORY-tmpxmmhb](../theory.d/THEORY-tmpxmmhb.md)) is filed as corroborating this claim's premise, and nothing more.
+sources (ARG-tmp51yxc). Its account (THEORY-tmpxmmhb) is filed as corroborating this claim's premise, and nothing more.
+
+## Note of 2026-11-12: Schepanski et al., read
+
+From the reading in NOTE-tmpe8k6k (LIT-tmpqn7ic), the reader's assessment as
+checked by the filer: strongly supports the "functional incorporation at the
+level of cells" premise. Maternal cells not only persist in offspring but
+regulate the host's brain development, and depleting them changes the host.
+It does not by itself establish that individuality is graded (the claim's
+own `defeated_if` and ARG-tmp51yxc already say heterogeneity/function alone
+do not).
+
+## Note of 2026-11-12: Boddy, Fortunato, Wilson Sayres and Aktipis, read
+
+From the reading in NOTE-tmpqbilf (LIT-tmpv8dr2), the reader's assessment as
+checked by the filer: supports the persistence-and-functional-involvement
+premise and adds the evolutionary gloss that persisting fetal cells may be
+agents of a distinct (offspring) fitness interest — which, if anything,
+strengthens "not completed at birth": the cells are not just present but
+potentially pursuing a different optimum inside the host. This directly
+serves the claim's "functional incorporation" leg and even its
+distributed-agency framing. It does not settle gradedness (the review
+stresses causation is unproven).
+
+## Note of 2026-11-12: Castela and others (2017), read
+
+From the reading in NOTE-tmpx8y0m (LIT-tmpyfxly), the reader's assessment as
+checked by the filer: supports this claim's premise, and
+CLAIM-tmpu69tn's "foreign-origin cells serving the host" (noted there).
+Fetal cells persisting in the mother for her
+lifespan are recruited to repair her tissue, a foreign-lineage cell doing
+the host's maintenance work, with CCR2 dependence and a virgin-mouse
+negative control establishing the fetal-cell mediation.

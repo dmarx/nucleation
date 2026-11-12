@@ -1,10 +1,26 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §4. No reading was attempted.
+  Unfetched on 2026-11-12. The Taylor & Francis open-access PDF,
+  https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2719171?needAccess=true
+  (CC BY), returned a Cloudflare challenge (HTTP 403); not retried. No
+  repository or arXiv copy was found. The abstract and the figshare
+  supplement (DOI 10.6084/m9.figshare.33416094, the interview questions)
+  were read; the article body was not. The filer set Unfetched where the
+  reader had written Skimmed: an abstract and a supplement are not a
+  reading.
 title: 'I Made the Choice, Did I? Exploring the Influence of Goal-Directed AI on Human Decision-Making'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053). The abstract names eight authors:
+    Ruoyu Wen, Jiashuo Cao, Kunal Gupta, Simon Hoermann, Mark Billinghurst,
+    Alaeddin Nassani, Nilufar Baghaei and D. D. Allan. It describes two
+    studies, not one of 30 people; the summary now says so.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,7 +35,7 @@ first_author: 'Wen'
 keywords: []
 implementations: []
 summary: >-
-  Wen et al. (2026), DOI-10.1080/10447318.2026.2719171. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §4. It bears on [CLAIM-404](../claims.d/CLAIM-404.md). In A's account, which is unverified until read, it is an exploratory study of 30 people in which a goal-directed conversational AI steered design choices while participants reported agency.
+  Wen et al. (2026), DOI-10.1080/10447318.2026.2719171. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §4. It bears on [CLAIM-404](../claims.d/CLAIM-404.md). In A's account, which is unverified until read, it is an exploratory study of 30 people in which a goal-directed conversational AI steered design choices while participants reported agency. Its abstract, the only part read, describes two studies: an exploratory study of forcing techniques with 14 magicians, and a mixed-methods study with 30 participants comparing an "AI Magician" with conventional AI recommendations in a design task.
 ---
 
 # LIT-tmpsp798: I Made the Choice, Did I? Exploring the Influence of Goal-Directed AI on Human Decision-Making
@@ -28,7 +44,7 @@ Ruoyu Wen, Jiashuo Cao, Kunal Gupta, Simon Hoermann, Mark Billinghurst, Alaeddin
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it is an exploratory study of 30 people in which a goal-directed conversational AI steered design choices while participants reported agency.
+*Seeded from the exchange, not read.* In A's account, unverified until read, it is an exploratory study of 30 people in which a goal-directed conversational AI steered design choices while participants reported agency. Its abstract, the only part read, describes two studies: an exploratory study of forcing techniques with 14 magicians, and a mixed-methods study with 30 participants comparing an "AI Magician" with conventional AI recommendations in a design task.
 
 ## Standing in the record
 

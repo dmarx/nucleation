@@ -1,10 +1,16 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §2. No reading was attempted.
+status: Active
 title: 'Revealed preference analysis under limited attention'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpyt3ot; account THEORY-tmpo63wj. Status
+    Active. Read from the arXiv preprint 2208.07659 (v1 2022-08-16, checked
+    on the arXiv API; v3 read). `published:` moves from the journal date
+    2026-04-22 to that earlier date (ADR-002) and the arXiv id is added. The
+    JEBO version of record (246: 107568) was not read.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -13,14 +19,22 @@ tags:
 - social-science
 - game-theory
 date: '2026-11-12'
-published: '2026-04-22'
+published: '2022-08-16'
 doi: '10.1016/j.jebo.2026.107568'
+arxiv: '2208.07659'
 first_author: 'Freer'
 keywords: []
 implementations: []
 summary: >-
-  Freer and Nosratabadi (2026), DOI-10.1016/j.jebo.2026.107568. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §2. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it tests whether limited-attention models help recover preferences from choices over restricted consideration sets.
+  Freer and Nosratabadi (2026), DOI-10.1016/j.jebo.2026.107568. Read on
+  2026-11-12 in NOTE-tmpyt3ot: An observer wants to recover a
+  decision-maker's welfare from her choices under limited attention. The
+  standard choice-under-limited-attention model (Masatlioglu et al. 2012,
+  "generic CLA") recovers almost nothing. Its account is THEORY-tmpo63wj.
+  Registered from the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11), where A cited it at A42 §2.
 ---
+<!-- inactive-ok-file: THEORY-tmpo63wj — Proposed; filed from the same exchange -->
 
 # LIT-tmpq8pi2: Revealed preference analysis under limited attention
 
@@ -28,8 +42,13 @@ Mikhail Freer and Hassan Nosratabadi (2026). "Revealed preference analysis under
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it tests whether limited-attention models help recover preferences from choices over restricted consideration sets.
+Read on 2026-11-12 (NOTE-tmpyt3ot). It shows that welfare relevance under
+limited attention depends almost entirely on a minimal attention assumption,
+and that the assumption costs nearly nothing descriptively.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §2. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpyt3ot and its account
+THEORY-tmpo63wj.

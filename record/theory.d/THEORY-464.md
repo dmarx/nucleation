@@ -192,3 +192,11 @@ AR's authority fails for him because of the duty-of-care requirement of
 a second relation, other than identity, doing the deciding. It does not
 engage Dworkin/Dresser or precedent autonomy at all, so it does not test the
 theory's survey of the identity literature.
+
+## Note of 2026-11-12: Żuradzki (2026), Ethics-first metaphysics: normative considerations as evidence for ontological commitments, read
+
+From the reading in NOTE-tmp88rw9 (LIT-tmpblasa), the reader's assessment as
+checked by the filer: qualifies, in the same way. It holds that the
+metaphysics of persistence constrains ethical questions without settling
+them; Żuradzki, following Dasgupta, takes judgments of prudence and
+responsibility to guide theorizing about persistence conditions.

@@ -41,6 +41,7 @@ summary: >-
   boundary of the individual" and "the boundary of its governance" need
   not coincide. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmps2df6 — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdrocb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmptfr59 NOTE-tmpwjlut — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
@@ -141,3 +142,23 @@ checked by the filer: supports as an illustration. The claim's example
 review's frame fits it: cells of the host's own lineage co-opt the host's
 nervous system against the host. It is a review, not a test of the claim's
 three-way separation.
+
+## Note of 2026-11-12: Schepanski et al., read
+
+From the reading in NOTE-tmpe8k6k (LIT-tmpqn7ic), the reader's assessment as
+checked by the filer: supports the foreign-origin-serving-host instance
+directly and with causal, rescue-controlled evidence. MMc are another
+organism's cells that sustain a capacity (healthy neurodevelopment) of the
+host. This is a stronger case than a review for that cell of the claim's
+matrix.
+
+## Note of 2026-11-12: Castela and others (2017), read
+
+From the reading in NOTE-tmpx8y0m (LIT-tmpyfxly), read as a stand-in for
+LIT-tmps2df6: in mice, fetal cells that persist in the mother are recruited
+by CCL2 to injured maternal skin and repair it, and the effect needs both
+the fetal cells (none in virgin mice) and their CCR2 receptor. That is a
+controlled case of the combination this claim lists as "outside by lineage,
+serving the host": cells of another individual's lineage doing the host's
+maintenance work. It supports the claim's point that lineage and service
+come apart; it says nothing about authorization. No status change.

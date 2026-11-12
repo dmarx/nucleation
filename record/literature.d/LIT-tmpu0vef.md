@@ -1,10 +1,22 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §4. No reading was attempted.
+  Unfetched on 2026-11-12. The OUP open-access PDF,
+  https://academic.oup.com/pq/advance-article-pdf/doi/10.1093/pq/pqae123/60948502/pqae123.pdf
+  (CC BY-NC-ND), and the PhilPapers archive copy,
+  https://philpapers.org/archive/LEFCPI.pdf, each returned a Cloudflare
+  challenge (HTTP 403); neither was retried. Only the abstract was read,
+  which is not a reading; the filer set Unfetched where the reader had
+  written Skimmed.
 title: 'Constitutivism''s plight: inescapability, normativity, and relativism'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-
