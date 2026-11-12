@@ -45,6 +45,7 @@ draws_on:
 - THEORY-554
 - THEORY-699
 ---
+<!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: ADR-095 THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
@@ -124,3 +125,14 @@ standing, but cannot by itself establish what those individuals are owed".
 That is this term's demand that standing be argued, and [CLAIM-075](../claims.d/CLAIM-075.md)'s. The
 question of who may act on a standing that the bearer cannot exercise is
 filed as [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
+
+## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
+
+From the reading in NOTE-tmp4g0oe (LIT-tmpfjc6u), the reader's assessment as
+checked by the filer: **Illustrates the separation**: LePage gave frozen
+embryos a legal status ("minor children") for one statute and one remedy,
+which Greely shows was neither a judgement of moral standing nor general
+legal personhood, and which the legislature then neutralized by immunity
+without touching the classification. A worked example of TERM-083's point
+that standing claims must name the claim and what follows; the legal
+analogue is "children for the purposes of the Wrongful Death Act".

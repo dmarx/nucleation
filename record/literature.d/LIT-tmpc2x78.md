@@ -1,10 +1,17 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §1. No reading was attempted.
+status: Active
 title: 'Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpu69dy; account THEORY-tmprpct4. Status
+    Active. The reading corrected the venue: a chapter in HHAI 2026 (Hybrid
+    Human-Artificial Intelligence), M. Alimardani and others (eds.),
+    Frontiers in Artificial Intelligence and Applications, pp. 268-277, open
+    access under CC BY-NC 4.0. Read from the Université libre de Bruxelles
+    repository copy of the publisher PDF.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -20,18 +27,41 @@ first_author: 'Montero-Porras'
 keywords: []
 implementations: []
 summary: >-
-  Montero-Porras et al. (2026), DOI-10.3233/faia260512. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §1. It bears on [THEORY-150](../theory.d/THEORY-150.md), [THEORY-470](../theory.d/THEORY-470.md), [CLAIM-463](../claims.d/CLAIM-463.md). In A's account, which is unverified until read, it is an evolutionary game of platform and creators with two stable outcomes, quality and extraction, and tipping points with hysteresis.
+  Montero-Porras et al. (2026), DOI-10.3233/faia260512. Read on 2026-11-12
+  in NOTE-tmpu69dy: A two-population evolutionary game between a platform (x
+  = probability its recommender rewards costly quality content) and creators
+  (y = probability a creator invests in quality), under replicator dynamics:
+  ẋ = x(1−x)(Ry−A), ẏ = y(1−y)(Vx−C). With R > A and V > C there are two
+  stable pure equilibria, (1,1) "virtuous" and (0,0) "vicious", separated by
+  an interior saddle at (x*, y*) = (C/V, A/R). Its account is
+  THEORY-tmprpct4. Registered from the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11), where A cited it at A35 §1.
 ---
+<!-- inactive-ok-file: THEORY-tmprpct4 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-150 THEORY-470 — Proposed; cited as on the record -->
 
 # LIT-tmpc2x78: Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics
 
-Eladio Montero-Porras, Annelien Smets and Tom Lenaerts (2026). "Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics." *Frontiers in Artificial Intelligence and Applications*. DOI-10.3233/faia260512.
+Eladio Montero-Porras, Annelien Smets and Tom Lenaerts (2026). "Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics." *HHAI 2026, Frontiers in Artificial Intelligence and Applications, pp. 268-277*. DOI-10.3233/faia260512.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it is an evolutionary game of platform and creators with two stable outcomes, quality and extraction, and tipping points with hysteresis.
+Read on 2026-11-12 (NOTE-tmpu69dy). A minimal formal mechanism for platform
+decay with path dependence: a transient incentive shock that pushes the
+state across a separatrix produces decay that the removal of the shock does
+not undo. It is offered as a baseline, not a calibrated model.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §1. It bears on [THEORY-150](../theory.d/THEORY-150.md), [THEORY-470](../theory.d/THEORY-470.md), [CLAIM-463](../claims.d/CLAIM-463.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpu69dy and its account
+THEORY-tmprpct4.
+
+## Note of 2026-11-12: Liang, Li, Aroles and Granter (2025), Content Creation within the Algorithmic Environment: A Systematic Review, read
+
+From the reading in NOTE-tmp7mfz7 (LIT-tmpcfp9f), the reader's assessment as
+checked by the filer: complementary. Liang supplies the qualitative picture
+of visibility as the reward V that the platform controls; Montero-Porras
+model creators' investment as a response to it. The filer may note the
+pairing.

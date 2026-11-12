@@ -364,8 +364,9 @@ the evidence channel outlives the steering. No status change.
 
 ## Note of 2026-11-12: Neighbour of [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md) — Sabour, Liu et al., read
 
-From the reading in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md) ([LIT-tmpbye08](../literature.d/LIT-tmpbye08.md)), the reader's assessment as
-checked by the filer: supports (see parent report).
+From the reading in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md)
+([LIT-tmpbye08](../literature.d/LIT-tmpbye08.md)), the reader's assessment
+as checked by the filer: supports (see parent report).
 
 ## Note of 2026-11-12: The transaction test: An experimental method for assessing online interfaces (Bogliacino, Pejsachowicz, Liva, Lupiáñez-Villanueva 2026), read
 
@@ -375,3 +376,17 @@ level. An interface that hides information governs a choice through the
 evidence it receives without making the choice, which is the informational
 route at person scale; the paper says nothing about organizations or about
 evaluative independence.
+
+## Note of 2026-11-12: Liang, Li, Aroles and Granter (2025), Content Creation within the Algorithmic Environment: A Systematic Review, read
+
+From the reading in NOTE-tmp7mfz7 (LIT-tmpcfp9f), the reader's assessment as
+checked by the filer: **Supports by analogy, at the level of individual
+workers, not organizations**. Both routes appear: platforms govern what
+creators see of their own performance (metrics, visibility; informational),
+and creators internalise metric success as the criterion of good work ("free
+control"; evaluative). The shadowbanning episode is a clean instance of the
+interpretation–authority loop: the platform is "the authoritative
+interpreter of the algorithm" whose statement dissolves creators'
+independently built theory of how they are being evaluated. The review's
+evidence is qualitative and second-hand (47 articles, mostly
+platform-unspecified), so this is illustration, not a test.

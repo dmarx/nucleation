@@ -157,3 +157,12 @@ not return with the funding (A33 §9, [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.m
 "Stopping an influence is not necessarily reversing its effects, and neither
 is necessarily restoring the capacity for self-government." Corroborative
 instances, unverified; no status change.
+
+## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
+
+From the reading in NOTE-tmpu69dy (LIT-tmpc2x78), the reader's assessment as
+checked by the filer: **supports**, as an independent model instance:
+restoring A to its pre-shock value leaves the system collapsing to (0,0).
+The paper's conclusion that "recovery may require joint changes in both
+platform policy and creator participation" matches the claim's second route,
+rebuilding the activity directly; the paper says "may".

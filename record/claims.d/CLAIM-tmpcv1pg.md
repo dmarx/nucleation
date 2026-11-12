@@ -42,6 +42,7 @@ summary: >-
   what A reported for each. The owner then moved the test to loot boxes
   ([CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md)).
 ---
+<!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CLAIM-tmphgjbz ARG-tmpshmi5 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpdak05 LIT-tmpccpc6 LIT-tmp9goww LIT-tmpf67mb LIT-tmp2hne0 LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
@@ -134,3 +135,9 @@ capture.
 From the reading in [NOTE-tmps8gyk](../notes.d/NOTE-tmps8gyk.md) ([LIT-tmpk21r4](../literature.d/LIT-tmpk21r4.md)), the reader's assessment as
 checked by the filer: leaves open; the analogue for loot boxes of "heaviest
 users" is confirmed to exist, not that they set the product.
+
+## Note of 2026-11-12: Gan, Gacha Game: When Prospect Theory Meets Optimal Pricing, read
+
+From the reading in NOTE-tmpnvqsr (LIT-tmpzbm28), the reader's assessment as
+checked by the filer: - Bears on **CLAIM-tmpcv1pg** only through the case,
+and not on its escalation half.

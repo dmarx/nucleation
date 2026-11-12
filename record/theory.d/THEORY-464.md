@@ -155,10 +155,11 @@ A's application, unread in any source; it bears on [QUESTION-tmp2lvhi](../questi
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
-checked by the filer: consistent; Millum's argument never turns on whether
-child and adult are the same person, only on present capacity and interests.
-Leaves the theory's claim untouched; a mild illustration.
+From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md)
+([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment
+as checked by the filer: consistent; Millum's argument never turns on
+whether child and adult are the same person, only on present capacity and
+interests. Leaves the theory's claim untouched; a mild illustration.
 
 names advance directives (Dworkin, Jaworska, Dresser) as identity-adjacent;
 Millum adds nothing on them.
@@ -180,3 +181,14 @@ commentary on Devanesan adds that the dependence can run the other way, from
 a normative commitment to the choice of mereology, and that when it does,
 the mereology's fit with the commitment must not be counted as evidence for
 it. No status change.
+
+## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
+
+From the reading in NOTE-tmp3t5qf (LIT-tmpbnl6c), the reader's assessment as
+checked by the filer: **Supports, from outside the identity debate**: Nix
+never asks whether the PLWD is the same person as the author of the AR; the
+AR's authority fails for him because of the duty-of-care requirement of
+*occurrent* intolerable suffering and the subjectivity of suffering. That is
+a second relation, other than identity, doing the deciding. It does not
+engage Dworkin/Dresser or precedent autonomy at all, so it does not test the
+theory's survey of the identity literature.

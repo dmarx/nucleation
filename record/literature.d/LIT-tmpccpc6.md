@@ -1,10 +1,21 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §§1–2. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Where the
+  reader looked: Crossref (2026-11-12): licence only the publisher's
+  text-and-data-mining policy; full-text links; Semantic Scholar:
+  openAccessPdf status **CLOSED**; Europe PMC (PMID 42992970):
+  `isOpenAccess: N`, no PMCID; abstract only; No preprint listed (Semantic
+  Scholar, Europe PMC). OpenAlex not used (rate-limited).
 title: 'Shifting Preferences in Pornography Consumption, Revisited'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). No lawful full text was found
+    (ADR-041); an abstract, where seen, is not a reading.
 - version: 1
   date: '2026-11-12'
   note: >-

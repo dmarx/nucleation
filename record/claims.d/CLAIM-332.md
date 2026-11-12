@@ -127,3 +127,10 @@ network, and since [CLAIM-154](CLAIM-154.md) was narrowed to models regular at t
 switch-off, the price for a singular candidate is not set either. No case
 has had a circulation-network model compared with the list of
 identifiable contributions.
+
+## Note of 2026-11-12: Liang, Li, Aroles and Granter (2025), Content Creation within the Algorithmic Environment: A Systematic Review, read
+
+From the reading in NOTE-tmp7mfz7 (LIT-tmpcfp9f), the reader's assessment as
+checked by the filer: folk theories are collaboratively built and
+circulated, but the review finds they fail to change platforms ("easily
+undermined"), a negative instance at best.

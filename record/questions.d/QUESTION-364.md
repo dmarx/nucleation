@@ -168,8 +168,19 @@ this question is unchanged.
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
-checked by the filer: Millum's "Last week’s autonomous decision is no longer
-authoritative" is a position on the question's authorization-by-history: for
-a competent agent, the present decision governs. Bears on it as one answer
-for the competent case.
+From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md)
+([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment
+as checked by the filer: Millum's "Last week’s autonomous decision is no
+longer authoritative" is a position on the question's
+authorization-by-history: for a competent agent, the present decision
+governs. Bears on it as one answer for the competent case.
+
+## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
+
+From the reading in NOTE-tmp3t5qf (LIT-tmpbnl6c), the reader's assessment as
+checked by the filer: **Qualifies / leaves open**: Nix's Option 1 argument
+(forecasting failure; Walsh's "cognitive transformative experience", i.e.
+changed preferences, values and beliefs) is a concrete case where the
+standards for reading an earlier authorization are themselves revised by the
+agent's own process. Nix does not answer which will governs; he side-steps
+by requiring present suffering. Weak bearing.

@@ -35,6 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-035
 ---
+<!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpn0ytb THEORY-tmp4rc81 THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmp5fwhc LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
@@ -185,3 +186,8 @@ commentary on Devanesan adds that the dependence can run the other way, from
 a normative commitment to the choice of mereology, and that when it does,
 the mereology's fit with the commitment must not be counted as evidence for
 it. No status change.
+
+## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
+
+From the reading in NOTE-tmp4g0oe (LIT-tmpfjc6u), the reader's assessment as
+checked by the filer: no bearing; ex vivo embryos are outside gestation.

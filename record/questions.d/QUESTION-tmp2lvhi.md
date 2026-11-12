@@ -22,6 +22,7 @@ summary: >-
   directives. The record held no question on surrogate authority. The
   wording is A's.
 ---
+<!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-464 — Proposed; Dufner's reading that identity is not what decides -->
 <!-- inactive-ok-file: TERM-083 — Proposed; moral standing, which the question takes as given -->
 
@@ -87,8 +88,9 @@ session); adopting it is the owner's call.
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
-checked by the filer: **answers one sub-question and sharpens the
+From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md)
+([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment
+as checked by the filer: **answers one sub-question and sharpens the
 asymmetry.** The question asks whether "the future adult's interest in
 deciding" is a ground of its own; Millum argues it is not: what it protects
 is bodily integrity plus the child's interests. Two further points bear on
@@ -99,3 +101,21 @@ authority over a competent later self. (2) He does not address an earlier
 competent self governing a later incompetent one, so the advance-directive
 side is left open. He lists pediatric circumcision only as a topic where the
 right has been cited (note 4, Darby); he does not analyse it.
+
+## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
+
+From the reading in NOTE-tmp4g0oe (LIT-tmpfjc6u), the reader's assessment as
+checked by the filer: weak. The plaintiffs sued as "parents and next
+friends" of the embryos, and their storage contracts had elected destruction
+or research use; Greely notes the court left that tension unaddressed. It
+touches who speaks for an embryo, without argument.
+
+## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
+
+From the reading in NOTE-tmp3t5qf (LIT-tmpbnl6c), the reader's assessment as
+checked by the filer: **Direct bearing**: Nix's answer for Canadian MAID is
+that the earlier wish cannot by itself authorize; welfare at the time of
+provision (occurrent intolerable suffering) is necessary, and the earlier
+wish only selects among actions the duty of care already permits. It is an
+instance of the "welfare" answer gating the "earlier wishes" answer, within
+one legal framework.

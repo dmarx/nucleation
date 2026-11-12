@@ -31,7 +31,6 @@ summary: >-
 corroborates:
 - CLAIM-060
 ---
-<!-- inactive-ok-file: LIT-tmpc2x78 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-470 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-753 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
@@ -100,3 +99,15 @@ and extraction, with tipping points and hysteresis. A calls it "a formal
 complement, but not independent proof of Doctorow's historical claims",
 which is right. The model would bear on [THEORY-470](THEORY-470.md)'s weakened constraints
 and on [CLAIM-463](../claims.d/CLAIM-463.md). No status change.
+
+## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
+
+From the reading in NOTE-tmpu69dy (LIT-tmpc2x78), the reader's assessment as
+checked by the filer: **Qualifies / leaves open**: the paper cites Doctorow
+as its frame and models one mechanism (recommender incentives and creator
+investment). It does not model users, lock-in or exit costs; it explicitly
+fixes R and A as exogenous while noting that real platforms set them
+"knowing that creators and users often face high switching costs". So it
+neither tests the three stages nor the exit-cost remedy. It adds what
+Doctorow lacks: a mechanism for decay that a temporary lure can make
+permanent.

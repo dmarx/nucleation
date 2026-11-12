@@ -130,3 +130,10 @@ nonlinear half would look like. It does not supply [CLAIM-330](../claims.d/CLAIM
 ## Note of 2026-11-04: Kuehn, "A mathematical framework for critical transitions", read
 
 Kuehn ([NOTE-1598](../notes.d/NOTE-1598.md)) supports the case's slowing recovery. At a fold the leading Lyapunov exponent scales as |y|^{1/2} (recovery exponent ½, Prop. 2.10). He also qualifies when maintenance is lost. With the parameter drifting slowly, the jump comes O(ε^{2/3}) past the fold (Thm 3.2); with noise large against √ε it comes before the fold with high probability (Thm 6.1). Berglund ([NOTE-1590](../notes.d/NOTE-1590.md), §4.1) adds that the standard Kramers prefactor does not hold at such a degenerate point. The case's cooperative-repair term and hysteresis loop are not analysed there. No status changes.
+
+## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
+
+From the reading in NOTE-tmpu69dy (LIT-tmpc2x78), the reader's assessment as
+checked by the filer: A second formal instance of the same structure, in a
+two-population game, not a one-variable normal form. Unlike CASE-111,
+recovery slowing near the fold is not discussed.

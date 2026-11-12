@@ -40,6 +40,8 @@ summary: >-
   functional incorporation at the level of cells, and leaves gradedness
   of individuality open ([ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)).
 ---
+<!-- inactive-ok-file: NOTE-tmpsdg4x — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmpxmmhb — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-448 — Proposed; Meincke's process view, which the owner's link extends -->
 <!-- inactive-ok-file: ARG-tmp51yxc THEORY-tmp6t2l2 THEORY-tmp4rc81 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpyiplw LIT-tmp3n00g LIT-tmp5q8o7 — Unfetched; the owner's sources at U5 and the paper behind the fourth -->
@@ -117,3 +119,15 @@ That mother and offspring are one organism after birth, or partly so. That
 anything follows for moral standing or bodily authority: A11 §6's
 "genetic origin, organizational membership, and moral ownership need not
 coincide" is A's, and [TERM-083](../terms.d/TERM-083.md) requires standing to be argued separately.
+
+## Note of 2026-11-12: Mpakosi et al. (2024), Deciphering the Role of Maternal Microchimerism in Offspring Autoimmunity: A Narrative Review, read
+
+From the reading in NOTE-tmpsdg4x (LIT-tmp0kv3y), the reader's assessment as
+checked by the filer: **Supports the premise**, independently of Chua et al.
+(LIT-tmpjik3n): maternal cells persist "even into adulthood", take part in
+regulation (tolerance via MSCs; immune maturation), and may cross
+generations, which adds a lineage dimension the claim does not state. Its
+autoimmune associations show functional incorporation can be pathological,
+which bears on A's "functional boundary" step and on whether participation
+is integration. It **leaves the gradedness conclusion open**, like the read
+sources (ARG-tmp51yxc). Its account (THEORY-tmpxmmhb) is filed as corroborating this claim's premise, and nothing more.

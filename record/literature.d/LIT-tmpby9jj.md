@@ -1,10 +1,21 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §1. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each: . A neighbour was read in its place:
+  LIT-tmpfjc6u, which stands in only in part (see "Standing in the record").
 title: 'The Future of Frozen Embryos'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053). Checked on Crossref on 2026-11-12:
+    DOI 10.25172/smulr.78.3.11, SMU Law Review 78(3): 789, issued and online
+    2026-01-07. The DOI is added as the preferred source and `published:`
+    moves from the placeholder 2025-01-01 to 2026-01-07 (ADR-002).
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -13,8 +24,9 @@ tags:
 - ethics
 - society-and-governance
 date: '2026-11-12'
-published: '2025-01-01'
+published: '2026-01-07'
 url: 'https://scholar.smu.edu/smulr/vol78/iss3/11/'
+doi: '10.25172/smulr.78.3.11'
 first_author: 'Ryan'
 keywords: []
 implementations: []
@@ -25,7 +37,7 @@ summary: >-
 
 # LIT-tmpby9jj: The Future of Frozen Embryos
 
-Clare Ryan and Benjamin J. McMichael (2025). "The Future of Frozen Embryos." *SMU Law Review 78(3): 789*.
+Clare Ryan and Benjamin J. McMichael (2025). "The Future of Frozen Embryos." *SMU Law Review 78(3): 789*. DOI-10.25172/smulr.78.3.11.
 
 ## Key takeaways
 
@@ -34,3 +46,15 @@ Clare Ryan and Benjamin J. McMichael (2025). "The Future of Frozen Embryos." *SM
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §1. It bears on [TERM-083](../terms.d/TERM-083.md).
+
+Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpfjc6u. The
+reader on how far it stands in: Greely (2026), "Alabama's LePage decision,
+the future of ex vivo embryos, and more", Journal of Law and the Biosciences
+13(1): lsag013, DOI 10.1093/jlb/lsag013, PMC13092730, skimmed: see
+`LIT-tmpby9jj__neighbour-greely-lepage.md`. It stands in **for the LePage
+analysis** (the holding, the wrongful-death mechanism, the legislative
+immunity and what it means for IVF), with which the abstract says Ryan and
+McMichael also deal. It does **not** stand in for their family-law
+(disposition disputes, parentage) analysis or their proposed regulatory
+principles; Greely touches disposition only in passing and proposes no
+framework, though he too criticizes the immunity statute as too broad.

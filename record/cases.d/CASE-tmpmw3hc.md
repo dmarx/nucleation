@@ -32,6 +32,8 @@ summary: >-
   hypotheses kept apart, and three levels of data. Not run. The cost
   figures were rechecked by the filer.
 ---
+<!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpftfht LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
 
@@ -108,3 +110,15 @@ high-spender demand) only as association. It gives no evidence on H1/H2
 (design drift tracking high spenders). Its methods note (self-report,
 pooled, no company data) is a direct argument for the case's player-level
 transaction data.
+
+## Note of 2026-11-12: Gan, Gacha Game: When Prospect Theory Meets Optimal Pricing, read
+
+From the reading in NOTE-tmpnvqsr (LIT-tmpzbm28), the reader's assessment as
+checked by the filer: **Qualifies the inference the case relies on.** Gan
+derives the stationary loot box and the pity system as revenue-optimal for a
+single buyer whose value is known, so a design moving toward pity guarantees
+(the case's own "guarantee at draw 90" example) can be explained by revenue
+optimization against a homogeneous behavioural buyer, with no spending tail.
+The case's H1/H2 test needs a control for this: design drift toward a
+revenue-optimal mechanism is not by itself evidence that a minority selected
+it. Gan does not address heterogeneous spenders or "whales".
