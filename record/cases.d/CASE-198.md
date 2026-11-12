@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CASE-tmp06sg5
 title: 'An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Names CASE-tmpwln61, the example it alters, by variant_of, now that
+    CLAIM-571's construction is a case (ADR-tmpq0fhi). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -15,6 +21,8 @@ date: '2026-11-05'
 line:
 - readiness
 - realizability
+variant_of:
+- CASE-tmpwln61
 illustrates:
 - CLAIM-571
 summary: >-
@@ -30,6 +38,7 @@ summary: >-
   the architecture is a move. The construction is the filer's, from A's
   architecture-mediated transition; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpwln61 ADR-tmpq0fhi — Proposed; the construction this case alters, and the decision that filed it -->
 <!-- inactive-ok-file: CASE-208 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CASE-198: An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0

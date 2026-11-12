@@ -26,6 +26,7 @@ summary: >-
   mechanical readings external; it does not ask what would make it the
   system's own. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpds3ww THEORY-tmpk9bmo NOTE-tmpyvjjb THEORY-tmph775l — readings filed 2026-11-12, Skimmed and Proposed -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-tmp42g4m THEORY-tmp7gq1l THEORY-tmpeofqm THEORY-tmpmc61y THEORY-tmpsuvav THEORY-tmptc3ih — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -120,6 +121,32 @@ No status changes.
 ## Note of 2026-11-07: a ladder of self-modification in software, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) ("The hard question: can the software maintain its own transformation machinery?"), gives a ladder: a service that updates on an external schedule; one that repairs its deployment and selects configurations; one that diagnoses failures in its own updating mechanisms and builds replacements. "But even this is not automatically self-governance. The capacity to modify a rule is different from maintaining a reliable process for determining *when, why, and under what constraints* the rule should change." That extends this question's distinction into software, and places the line where the question does. A does not cite it. Open.
+
+## Note of 2026-11-12: Kiczales et al., read
+
+Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin's
+"Aspect-oriented programming" ([LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), skimmed in [NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md);
+[THEORY-tmpk9bmo](../theory.d/THEORY-tmpk9bmo.md)), read as a stand-in for Part I of The Art of the Metaobject
+Protocol. It bears on this question by
+analogy at one point. A reflective system gives "a base language and (one
+or more) meta-languages that provide control over the base language's
+semantics and implementation" (§8.2), and the authors found that "this kind
+of reflective access is so powerful that it can be dangerous or difficult
+to use" (§6.2), so they replaced it with a narrower aspect language of
+their own design. The machinery of change is inside the system; what it may
+change is fixed by designers outside it, the split this question finds in
+Stern et al.'s sheet. The paper does not ask who should govern
+reconfiguration. Open.
+
+Chapter 5 of the book itself, skimmed the same day ([NOTE-tmpyvjjb](../notes.d/NOTE-tmpyvjjb.md);
+[THEORY-tmph775l](../theory.d/THEORY-tmph775l.md)) once the owner ruled the copy usable, says the same thing
+more exactly. Users change CLOS by specializing its metaobjects, and the
+change propagates to dependents inside the system; but "This balance
+between user extensibility and implementor freedom is mediated by placing
+explicit restrictions on each", restrictions its designers wrote, and the
+authors call protocol specification "inherently about specifying leeway".
+Who fixes the leeway is an ingredient this question's criterion may need.
+Open.
 
 ## Note of 2026-11-12: a research agenda for recursive improvement, and a test of causal uptake, from "luria experiment design"
 

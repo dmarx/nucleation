@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmp0g3pa
 title: 'A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -29,6 +29,11 @@ history:
     Draws on THEORY-1421 ("Expiry forecloses it"); THEORY-1410 ("In this
     case that commitment is what keeps the transition possible"). First
     application of draws_on (ADR-095). No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Names CASE-tmpwln61, the example it alters, by variant_of, now that
+    CLAIM-571's construction is a case (ADR-tmpq0fhi). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -38,6 +43,8 @@ tags:
 date: '2026-11-05'
 line:
 - readiness
+variant_of:
+- CASE-tmpwln61
 illustrates:
 - CLAIM-571
 summary: >-
@@ -59,6 +66,7 @@ draws_on:
 - THEORY-1421
 - THEORY-1410
 ---
+<!-- inactive-ok-file: CASE-tmpwln61 ADR-tmpq0fhi — Proposed; the construction this case alters, and the decision that filed it -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
