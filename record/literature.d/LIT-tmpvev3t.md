@@ -1,0 +1,35 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §2 and A31 §1. No reading was attempted.
+title: 'Personalized content, engagement, and monetization in a mobile puzzle game'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2025-1); OpenAlex gives 2024-12-19, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
+tags:
+- social-science
+- operations-research
+date: '2026-11-12'
+published: '2024-12-19'
+doi: '10.1016/j.ijindorg.2024.103128'
+first_author: 'Pape'
+keywords: []
+implementations: []
+summary: >-
+  Pape et al. (2024), DOI-10.1016/j.ijindorg.2024.103128. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A25 §2 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271. In A's account, which is unverified until read, it is a structural model of about 137,000 players of a mobile puzzle game: observed difficulty is consistent with revenue maximization, and personalized difficulty would raise predicted revenue by 71%, mostly from larger spenders.
+---
+
+# LIT-tmpvev3t: Personalized content, engagement, and monetization in a mobile puzzle game
+
+Louis-Daniel Pape, Christian Helmers, Alessandro Iaria, Stefan Wagner and Julian Runge (2024). "Personalized content, engagement, and monetization in a mobile puzzle game." *International Journal of Industrial Organization 98: 103128*. DOI-10.1016/j.ijindorg.2024.103128.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* In A's account, unverified until read, it is a structural model of about 137,000 players of a mobile puzzle game: observed difficulty is consistent with revenue maximization, and personalized difficulty would raise predicted revenue by 71%, mostly from larger spenders.
+
+## Standing in the record
+
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §2 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271.

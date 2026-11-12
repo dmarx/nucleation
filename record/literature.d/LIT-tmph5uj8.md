@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. No reading was attempted.
+title: 'Ethical implications of the mereology of pregnancy'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-04-15; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
+tags:
+- ethics
+- mereology
+- personhood
+date: '2026-11-12'
+published: '2026-04-15'
+doi: '10.1136/jme-2025-111517'
+first_author: 'Devanesan'
+keywords: []
+implementations: []
+summary: >-
+  Devanesan (2026), DOI-10.1136/jme-2025-111517. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on THEORY-448, TERM-083. In A's account, which is unverified until read, it argues that accounts of fetal parthood change which analogies (bodily invasion, Thomson's violinist) fit, without settling whether abortion is permissible.
+---
+
+# LIT-tmph5uj8: Ethical implications of the mereology of pregnancy
+
+Arjun Devanesan (2026). "Ethical implications of the mereology of pregnancy." *Journal of Medical Ethics jme-2025-111517*. DOI-10.1136/jme-2025-111517.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* In A's account, unverified until read, it argues that accounts of fetal parthood change which analogies (bodily invasion, Thomson's violinist) fit, without settling whether abortion is permissible.
+
+## Standing in the record
+
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on THEORY-448, TERM-083.

@@ -1,0 +1,108 @@
+---
+status: Read
+paper: LIT-tmpt7avk
+title: 'Zhai, Yan, Shao & Wang — A PASS@(k,T) analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from the arXiv PDF of v1 (2604.14877v1), text
+    extracted with pdftotext: abstract, sections 1–6 in full, Table 1 and
+    the captions and cell values of Figures 1–4. The appendices (related
+    work, the monotonicity proof in Appendix H, hyperparameters, full
+    tables) were not read, nor the code. Quotations are from the
+    extracted text.
+date: '2026-11-12'
+summary: >-
+  Defines PASS@(k,T) and from it a policy's capability boundary at depth
+  T (problems solved at least once under unlimited re-sampling), capability
+  expansion (a larger boundary) and efficiency improvement (higher
+  single-attempt success inside the shared boundary). On one 7B model with
+  one retrieval tool, GRPO expands the boundary on sequential bridge
+  questions (net +4 of 100) and matched-data SFT contracts it (net −4);
+  the gain comes from reweighting existing strategies.
+---
+<!-- inactive-ok-file: CLAIM-tmpyc5md ARG-tmpid47d CASE-tmpz1l6r CLAIM-tmpvceet — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-555 — Proposed; the record's tolerance-indexed complex the owner linked this paper to -->
+
+# NOTE-tmpa5wyr: Zhai, Yan, Shao & Wang — A PASS@(k,T) analysis
+
+## Contribution
+
+A two-dimensional evaluation that asks whether training teaches an agent to
+solve new problems or to solve old ones more reliably. Accuracy at one
+attempt "conflates capability and efficiency"; varying k alone (static
+pass@k) cannot see what interaction depth adds.
+
+## Key results
+
+- Definition 1 (§2.2): PASS@(k,T) is the probability that at least one of k
+  trajectories of at most T rounds is correct, estimated without bias from
+  n rollouts with c_T successes as 1 − C(n − c_T, k)/C(n, k).
+- Definitions 2–4 (§2.3): the capability boundary B_T(π) is the set of
+  problems with limiting PASS@(k,T) above zero; expansion is
+  B_T(π_RL) \ B_T(π_base) ≠ ∅; efficiency improvement is higher PASS@(1,T)
+  on a problem both can solve. "efficiency improvement moves probability
+  mass within the intersection of capability sets, while capability
+  expansion enlarges the union."
+- Monotonicity (§2.4): the paper states that PASS@(k,T) is non-decreasing
+  in k and T, since "Any trajectory that succeeds at depth T1 remains
+  successful at T2 > T1 (unused rounds are simply not exercised)". Its own
+  estimates are not monotone in T: each (q, T) cell is a separate rollout,
+  and in Figure 1 the base model on comparison questions falls from 0.32
+  at T = 2 to 0.20 at T = 3 at k = 1. The property holds of a policy that
+  behaves the same with more budget; a policy that uses extra rounds can
+  do worse with them.
+- Table 1 (§4.1), at PASS@(64,5): on bridge questions |B_RL| = 81,
+  |B_base| = 77, |B_SFT| = 73; RL gains 5 and loses 1 against the base,
+  SFT gains 3 and loses 7, and |B_RL \ B_SFT| = 9 against 1. On MATH-500
+  without tools nothing changes.
+- The trade (§4.2): on bridge questions the base model is ahead at k = 1
+  (0.363 against 0.335) and RL ahead at k = 64; "RL has effectively traded
+  efficiency for capability".
+- Saturation (§4.3): base and RL level off at the same depth T* = 2; "RL
+  therefore does not teach the agent to chain more retrievals; it teaches
+  it to convert existing two-hop chains into correct answers more often."
+- Mechanism (§5): RL reweights the base model's existing strategy
+  distribution; SFT collapses it (about 15 against 40 unique query
+  sequences per problem).
+
+## Assumptions
+
+A gold answer and exact-match scoring decide success, so the evaluator is
+an oracle. Rollouts are i.i.d. at temperature 0.7. The capability boundary
+at finite n is "solved at least once in 64".
+
+## Concepts
+
+- Capability boundary, capability expansion, efficiency improvement.
+- Marginal values Δk and ΔT; interaction saturation T*.
+- Compositional (bridge) tasks, whose second query depends on the first
+  query's result, so that "no amount of re-sampling at T = 1 can
+  compensate".
+
+## Bearing on the record
+
+- On the owner's CLAIM-tmpyc5md: the paper's three notions map onto
+  CLAIM-567's three properties with one shift. Its boundary is
+  reachability by a given stochastic policy under a budget, not
+  feasibility; efficiency is reliable attainment. ARG-tmpid47d argues the
+  mapping and where it stops.
+- On CLAIM-560 (resource-indexed compatibility and reachability grow with
+  the budget and neither fixes the other): T is a resource index of the
+  reachable set. The non-monotone estimates qualify the analogy: a policy
+  is not a fixed move rule, so more budget can change what it does.
+- On CLAIM-555 and CLAIM-537 (tolerance-indexed complexes): the paper has
+  no tolerances. Success is exact match. A's tolerance-indexed
+  generalization is CASE-tmpz1l6r, not the paper's.
+- On QUESTION-279 (certifying that no remedy exists): the paper's boundary
+  at finite n is "solved at least once in 64", and a problem outside it is
+  not shown unsolvable. A44 makes the same point.
+
+## Limitations
+
+One 7B base model, one BM25 tool over a ten-paragraph corpus, 100 test
+problems per category, a 200-problem training set, n = 64. Differences of
+four problems are its headline effects, and the paper calls a 4 pp band
+binomial noise for its cross-policy test.
