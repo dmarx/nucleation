@@ -17,7 +17,7 @@ promote_when: >-
 bears_on:
 - QUESTION-072
 summary: >-
-  The central account of LIT-tmpjqgyi, read in NOTE-tmp3iwtu. Proposed until
+  The central account of [LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md), read in [NOTE-tmp3iwtu](../notes.d/NOTE-tmp3iwtu.md). Proposed until
   its promote_when is met.
 ---
 

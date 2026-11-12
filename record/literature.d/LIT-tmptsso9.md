@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpnkpbd) from
+  Read on 2026-11-12 ([NOTE-tmpnkpbd](../notes.d/NOTE-tmpnkpbd.md)) from
   https://pmc.ncbi.nlm.nih.gov/articles/PMC3691821/.
 title: 'WebProtégé: A collaborative ontology editor and knowledge acquisition tool for the Web'
 version: 2
@@ -52,8 +52,8 @@ Tania Tudorache et al. (2013), Semantic Web 4(1). DOI 10.3233/sw-2012-0057.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpnkpbd, from https://pmc.ncbi.nlm.nih.gov/articles/PMC3691821/; its account is THEORY-tmphxh86.
+Read in [NOTE-tmpnkpbd](../notes.d/NOTE-tmpnkpbd.md), from https://pmc.ncbi.nlm.nih.gov/articles/PMC3691821/; its account is [THEORY-tmphxh86](../theory.d/THEORY-tmphxh86.md).

@@ -270,8 +270,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 
 **A correction.** The note of 2026-11-12 above gives A's three-way split,
 "Robustness", "Adaptive recovery" and "Graceful extensibility", as Woods's
-(LIT-2287). LIT-2287 could not be read; Moerman, Schraagen, Braaksma and van
-Dongen (THEORY-tmpbzy1i), read in its place, report Woods's 2015 four senses
+([LIT-2287](../literature.d/LIT-2287.md)). [LIT-2287](../literature.d/LIT-2287.md) could not be read; Moerman, Schraagen, Braaksma and van
+Dongen ([THEORY-tmpbzy1i](../theory.d/THEORY-tmpbzy1i.md)), read in its place, report Woods's 2015 four senses
 of resilience: "rebound, robustness, graceful extensibility, and
 architectures for sustained adaptability". "Adaptive recovery" is not
 among them; rebound is the nearest. The split is A's, not Woods's, and what
@@ -283,12 +283,12 @@ adaptability. The paper also supplies vocabulary for what the second failure
 tests, decompensation and mis-calibration of a system's own capacity, and
 leaves the case's question open.
 
-- **Boult et al.** (THEORY-tmpdui86): supports the premise of a regime that
+- **Boult et al.** ([THEORY-tmpdui86](../theory.d/THEORY-tmpdui86.md)): supports the premise of a regime that
   leaves the hypothesis family. An agent with a closed family treats such a
   regime as a closed-set classifier treats an unknown, assigning it to a
   known class, possibly confidently; "unknowns need not appear to be
   uncertain".
-- **DARPA** (THEORY-tmphkpxr): SAIL-ON's detect, characterize, adapt and
+- **DARPA** ([THEORY-tmphkpxr](../theory.d/THEORY-tmphkpxr.md)): SAIL-ON's detect, characterize, adapt and
   update steps are a parallel decomposition to the case's separation of
   evidence generation, admission and scoring; it has no data.
 - Chen, Zhu and Zheng, Srikanth et al. and Zelikman et al. do not damage the

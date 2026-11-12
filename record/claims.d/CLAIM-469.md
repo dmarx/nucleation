@@ -151,6 +151,6 @@ its grammar from the configuration the amendment edits. The owner's review:
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Clark, Ciccarese and Goble** (THEORY-tmpes8q7): **Verdict: qualifies.** Micropublications is an earlier system of distinctions over claims. It has Claim, Statement, Data and Method types, and supports and challenges relations. It also makes judgements objects: a challenge or a similarity call is itself a micropublication. It therefore shows that the "referable object" half of CLAIM-469 is not new. The model's distinctions are fixed in an OWL vocabulary, with no provision in the paper for revising them through use. That puts the weight of CLAIM-469's distinctiveness on its last clause.
+- **Clark, Ciccarese and Goble** ([THEORY-tmpes8q7](../theory.d/THEORY-tmpes8q7.md)): **Verdict: qualifies.** Micropublications is an earlier system of distinctions over claims. It has Claim, Statement, Data and Method types, and supports and challenges relations. It also makes judgements objects: a challenge or a similarity call is itself a micropublication. It therefore shows that the "referable object" half of CLAIM-469 is not new. The model's distinctions are fixed in an OWL vocabulary, with no provision in the paper for revising them through use. That puts the weight of CLAIM-469's distinctiveness on its last clause.
 
 The claim is unchanged.

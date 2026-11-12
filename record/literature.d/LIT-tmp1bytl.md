@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpncpcu) from https://arxiv.org/pdf/2510.01285.
+  Read on 2026-11-12 ([NOTE-tmpncpcu](../notes.d/NOTE-tmpncpcu.md)) from https://arxiv.org/pdf/2510.01285.
 title: 'LLM-Based Multi-Agent Blackboard System for Information Discovery in Data Science'
 version: 2
 history:
@@ -50,8 +50,8 @@ Alireza Salemi et al. (2025). arXiv 2510.01285.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2, as "Google researchers evaluated blackboard-based multi-agent systems for data discovery"). It bears on QUESTION-tmpxq2sb.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2, as "Google researchers evaluated blackboard-based multi-agent systems for data discovery"). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpncpcu, from https://arxiv.org/pdf/2510.01285; its account is THEORY-tmp8127k.
+Read in [NOTE-tmpncpcu](../notes.d/NOTE-tmpncpcu.md), from https://arxiv.org/pdf/2510.01285; its account is [THEORY-tmp8127k](../theory.d/THEORY-tmp8127k.md).

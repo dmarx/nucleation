@@ -142,6 +142,6 @@ same exchange did keep the warning.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Park et al.** (THEORY-tmp5rm74): The memory stream keeps the history but no structure of dependence, so a reflection whose evidence later changes is not revisited; illustrates what the claim says a record must keep beyond conclusions, and that keeping observations is not enough.
+- **Park et al.** ([THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md)): The memory stream keeps the history but no structure of dependence, so a reflection whose evidence later changes is not revisited; illustrates what the claim says a record must keep beyond conclusions, and that keeping observations is not enough.
 
 The claim is unchanged.

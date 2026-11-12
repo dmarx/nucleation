@@ -27,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 — Proposed; addressability as what anchors, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpyp3u3 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmp89y2q LIT-tmpir70i LIT-1060 LIT-2243 — not in force (Deferred or Unavailable); cited as the predecessors A named -->
+<!-- inactive-ok-file: LIT-1060 LIT-2243 — not in force (Deferred or Unavailable); cited as the predecessors A named -->
 <!-- inactive-ok-file: THEORY-tmp6b0ul THEORY-tmpbt97y THEORY-tmpo3bsd THEORY-tmpoy2np THEORY-tmpv6qhj — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-tmp8deza: shared epistemic state, of a record kept by several collaborators: the publicly inspectable structure of what is on the table in an inquiry, what standing each item has, what supports or challenges it, who contributed it, and what would have to be reconsidered if it changed, together with the rules for changing that structure; not the collaborators' shared beliefs, not shared memory, and not common knowledge
@@ -115,21 +115,21 @@ interpret it as an assertion about group knowledge or common knowledge".
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Clark and Brennan** (THEORY-tmpo3bsd): common ground is mutual
+- **Clark and Brennan** ([THEORY-tmpo3bsd](../theory.d/THEORY-tmpo3bsd.md)): common ground is mutual
   knowledge, beliefs and assumptions, reached by grounding, so a publicly
   inspectable record is not common ground. That supports the term's
   separating the two.
-- **Singh** (THEORY-tmpbt97y): commitments are social objects, evaluated
+- **Singh** ([THEORY-tmpbt97y](../theory.d/THEORY-tmpbt97y.md)): commitments are social objects, evaluated
   outside any agent's head, held within a named group and changed by
   operations under policies, which is the term's public, rule-governed
   structure. The analogy stops at standing: a commitment is directed, from a
   debtor to a creditor, and has a condition that discharges it, and the
   term's items carry standing and support with neither. Singh is a
   predecessor for the public character, not for what standing means.
-- **Chesñevar et al.** (THEORY-tmp6b0ul): AIF's commitment stores and the
+- **Chesñevar et al.** ([THEORY-tmp6b0ul](../theory.d/THEORY-tmp6b0ul.md)): AIF's commitment stores and the
   rules for changing them, after Hamblin, are a second predecessor.
-- DeChurch and Mesmer-Magnus (THEORY-tmpv6qhj) measure shared mental models,
+- DeChurch and Mesmer-Magnus ([THEORY-tmpv6qhj](../theory.d/THEORY-tmpv6qhj.md)) measure shared mental models,
   a property of members' heads, the contrast class the term excludes; ORKG
-  (THEORY-tmpoy2np) attributes each statement to its contributor.
+  ([THEORY-tmpoy2np](../theory.d/THEORY-tmpoy2np.md)) attributes each statement to its contributor.
 
 The term is unchanged.

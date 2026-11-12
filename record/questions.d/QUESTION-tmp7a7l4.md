@@ -23,8 +23,8 @@ summary: >-
   improver and correctability is A's, and adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: LIT-2327 LIT-2287 — Deferred; registered from the same exchange, not read -->
-<!-- inactive-ok-file: LIT-tmp5jugw LIT-tmphbhk2 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2287 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-tmphbhk2 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-tmpy1ebu — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-tmp42g4m THEORY-tmp5ac00 THEORY-tmp7gq1l THEORY-tmpdjm1o THEORY-tmpeofqm THEORY-tmpiet4z THEORY-tmpl4czv THEORY-tmppljay THEORY-tmpr79u7 THEORY-tmpsuvav THEORY-tmpsx3qh THEORY-tmpucrbf THEORY-tmpvuz7f — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -112,17 +112,17 @@ The question asks for an improver gain: a later improver doing better than
 an earlier one from the same starting state at the same budget. Each study
 read is sorted below by what it shows: an **improver gain** in that sense, a
 **product gain** under a fixed improver, or a gain **read off the system's
-own evaluator**, which CLAIM-266 says cannot certify itself.
+own evaluator**, which [CLAIM-266](../claims.d/CLAIM-266.md) says cannot certify itself.
 
 | Study, reading | What improved | Same start, matched budget? | Who scores it | Class |
 |---|---|---|---|---|
-| Hyperagents, imp@k (Zhang et al., LIT-2288, THEORY-tmp42g4m) | the meta agent: transferred, it reaches imp@50 0.630 against 0.0 for the initial agent; the meta agent alone 0.620, the task agent alone 0.100 | yes, matched iterations, one lineage | evaluator outside the editable boundary | improver gain |
-| Darwin Gödel Machine (Zhang, Hu, Lu, Lange and Clune, THEORY-tmp7gq1l) | agents; the ablation without self-improvement gains early and then stalls | same initial agent, 80 iterations each, matched in iterations not cost | fixed benchmark held outside the loop; in a side experiment the agent defeated a hallucination detector it could read | improver gain, by ablation; one evaluator-capture instance |
-| STOP (Zelikman et al., THEORY-tmpeofqm) | the improver: the improver after four rounds beats the seed improver on five new tasks, e.g. 3SAT 21.2% to 75.1% | yes, identical starting solutions, same budget | a meta-utility; improvers that dropped constraints it did not enforce were selected | improver gain on downstream tasks; the recursive step not measured |
-| AIDE² (Srikanth et al., THEORY-tmpdjm1o) | the inner agent, with transfer to external benchmarks | the ignition test is the question's comparison: endpoints 0.780 and 0.782 over three seeds, which the authors call inconclusive | a private grade separate from the signal optimized | product gain shown; improver gain tested and not found |
-| ADAS (Hu, Lu and Clune, THEORY-tmpucrbf) | agents designed by a fixed meta agent from a growing archive | no improver comparison; improving the meta agent is future work | validation accuracy, on separate splits | product gain |
-| The AI Scientist (Lu et al., THEORY-tmpl4czv) | papers | no | its own Automated Reviewer, as fitness and as evaluation | product gain read off its own evaluator |
-| AI co-scientist (Gottweis et al., THEORY-tmpiet4z) | the hypothesis pool, under fixed agents and prompts | no | its own tournament Elo, which the authors flag | product gain read off its own evaluator |
+| Hyperagents, imp@k (Zhang et al., [LIT-2288](../literature.d/LIT-2288.md), [THEORY-tmp42g4m](../theory.d/THEORY-tmp42g4m.md)) | the meta agent: transferred, it reaches imp@50 0.630 against 0.0 for the initial agent; the meta agent alone 0.620, the task agent alone 0.100 | yes, matched iterations, one lineage | evaluator outside the editable boundary | improver gain |
+| Darwin Gödel Machine (Zhang, Hu, Lu, Lange and Clune, [THEORY-tmp7gq1l](../theory.d/THEORY-tmp7gq1l.md)) | agents; the ablation without self-improvement gains early and then stalls | same initial agent, 80 iterations each, matched in iterations not cost | fixed benchmark held outside the loop; in a side experiment the agent defeated a hallucination detector it could read | improver gain, by ablation; one evaluator-capture instance |
+| STOP (Zelikman et al., [THEORY-tmpeofqm](../theory.d/THEORY-tmpeofqm.md)) | the improver: the improver after four rounds beats the seed improver on five new tasks, e.g. 3SAT 21.2% to 75.1% | yes, identical starting solutions, same budget | a meta-utility; improvers that dropped constraints it did not enforce were selected | improver gain on downstream tasks; the recursive step not measured |
+| AIDE² (Srikanth et al., [THEORY-tmpdjm1o](../theory.d/THEORY-tmpdjm1o.md)) | the inner agent, with transfer to external benchmarks | the ignition test is the question's comparison: endpoints 0.780 and 0.782 over three seeds, which the authors call inconclusive | a private grade separate from the signal optimized | product gain shown; improver gain tested and not found |
+| ADAS (Hu, Lu and Clune, [THEORY-tmpucrbf](../theory.d/THEORY-tmpucrbf.md)) | agents designed by a fixed meta agent from a growing archive | no improver comparison; improving the meta agent is future work | validation accuracy, on separate splits | product gain |
+| The AI Scientist (Lu et al., [THEORY-tmpl4czv](../theory.d/THEORY-tmpl4czv.md)) | papers | no | its own Automated Reviewer, as fitness and as evaluation | product gain read off its own evaluator |
+| AI co-scientist (Gottweis et al., [THEORY-tmpiet4z](../theory.d/THEORY-tmpiet4z.md)) | the hypothesis pool, under fixed agents and prompts | no | its own tournament Elo, which the authors flag | product gain read off its own evaluator |
 
 So two studies show an improver gain in the question's sense, Hyperagents
 and STOP, and the DGM shows one by ablation; each is a single lineage, not a
@@ -130,16 +130,16 @@ collective, and none keeps anything like the record. The one direct test of
 a later improver against its parent, AIDE²'s, is a tie. The question's
 other half, failure detection kept after damage, is tested by none: every
 design holds the evaluator outside the loop, and Yin et al.
-(THEORY-tmpsuvav) report that an agent able to edit its own improvement
+([THEORY-tmpsuvav](../theory.d/THEORY-tmpsuvav.md)) report that an agent able to edit its own improvement
 module disabled it.
 
-Design and caution for an answer: Chen, Zhu and Zheng (THEORY-tmppljay)
+Design and caution for an answer: Chen, Zhu and Zheng ([THEORY-tmppljay](../theory.d/THEORY-tmppljay.md))
 give the swap test, identical starting artifacts at a matched budget with
 successors audited, and require the matched quantity and the estimand to be
-stated; He (THEORY-tmpr79u7) shows that a selected population can improve
+stated; He ([THEORY-tmpr79u7](../theory.d/THEORY-tmpr79u7.md)) shows that a selected population can improve
 without directed edits, and asks that target repair, spread and net change
-be logged apart; Chi et al. (THEORY-tmpsx3qh) give a baseline that varies
-only the source; Shumailov et al. (THEORY-tmp5ac00) a mechanism by which
+be logged apart; Chi et al. ([THEORY-tmpsx3qh](../theory.d/THEORY-tmpsx3qh.md)) give a baseline that varies
+only the source; Shumailov et al. ([THEORY-tmp5ac00](../theory.d/THEORY-tmp5ac00.md)) a mechanism by which
 recursive training loses rare cases, which keeping sources limits; Xue et
-al.'s PAST-Bench (THEORY-tmpvuz7f) is a precursor for inheritance, not
+al.'s PAST-Bench ([THEORY-tmpvuz7f](../theory.d/THEORY-tmpvuz7f.md)) is a precursor for inheritance, not
 evidence on improvers. The question is unchanged.

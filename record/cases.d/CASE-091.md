@@ -90,10 +90,10 @@ unchanged; the study remains unrun.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Hu, Wang and McAuley** (THEORY-tmp5vepa): A candidate external task for its revision condition.
-- **Jung, Rubinstein, Uselis, Yun and Oh** (THEORY-tmpo4vs4): MEME is a candidate external task for its revision arm; information-equivalent conditions correspond to MEME's gold-facts ceiling.
-- **Wu et al.** (THEORY-tmpaxysg): LongMemEval §5.2 compares value choices "in a budget-aware manner", the same control the case requires; a usable external task for the case's arms.
-- **Park et al.** (THEORY-tmp5rm74): This paper's ablation is a believability ablation of the same kind of components, at the coarse grain CASE-091 is designed to refine.
-- **Blanchet and Michinov** (THEORY-tmpcfp6p): Leaves open; no memory-format manipulation.
+- **Hu, Wang and McAuley** ([THEORY-tmp5vepa](../theory.d/THEORY-tmp5vepa.md)): A candidate external task for its revision condition.
+- **Jung, Rubinstein, Uselis, Yun and Oh** ([THEORY-tmpo4vs4](../theory.d/THEORY-tmpo4vs4.md)): MEME is a candidate external task for its revision arm; information-equivalent conditions correspond to MEME's gold-facts ceiling.
+- **Wu et al.** ([THEORY-tmpaxysg](../theory.d/THEORY-tmpaxysg.md)): LongMemEval §5.2 compares value choices "in a budget-aware manner", the same control the case requires; a usable external task for the case's arms.
+- **Park et al.** ([THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md)): This paper's ablation is a believability ablation of the same kind of components, at the coarse grain CASE-091 is designed to refine.
+- **Blanchet and Michinov** ([THEORY-tmpcfp6p](../theory.d/THEORY-tmpcfp6p.md)): Leaves open; no memory-format manipulation.
 
 The case is unchanged.

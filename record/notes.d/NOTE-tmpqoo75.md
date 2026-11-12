@@ -58,7 +58,7 @@ The LIT describes the paper as "graph-indexed long-term memory for retrieval". T
 
 The graph is schemaless and built automatically. It carries no standing, no provenance relations beyond passage membership, and no governed revision. "Long-term memory" here means a retrieval index that can be appended to. It does not mean a maintained record. Nothing in the paper addresses deletion, correction or contradiction of knowledge.
 
-- **QUESTION-108** asks whether a structured record outperforms a summary because it retains more, makes information easier to reach, or makes operations easier.
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** asks whether a structured record outperforms a summary because it retains more, makes information easier to reach, or makes operations easier.
   - **Verdict: supports one arm, the retrieval arm, and leaves the others open.**
   - HippoRAG is a clean instance of the "easier to reach" mechanism. The same passages are retained; only the index changes, and multi-hop retrieval improves.
   - The paper does not evaluate revision tasks, so it says nothing about the "operations" arm.

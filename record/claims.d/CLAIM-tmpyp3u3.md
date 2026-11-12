@@ -110,20 +110,20 @@ therefore makes it available, not commonly known.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Clark and Brennan** (THEORY-tmpo3bsd): supports by a second route,
-  beside ARG-tmpbuocw's. Grounding needs positive evidence of understanding,
+- **Clark and Brennan** ([THEORY-tmpo3bsd](../theory.d/THEORY-tmpo3bsd.md)): supports by a second route,
+  beside [ARG-tmpbuocw](../arguments.d/ARG-tmpbuocw.md)'s. Grounding needs positive evidence of understanding,
   and the absence of complaint is not enough, so a reviewable artifact's
   being available is not evidence that its readers understood it. The
   account also says what would count as evidence in a record:
   acknowledgement, and uptake as the relevant next contribution, an entry
   that builds on another.
-- **Khatua, Zhu et al.** (THEORY-tmp5lktm): supports, as an instance.
+- **Khatua, Zhu et al.** ([THEORY-tmp5lktm](../theory.d/THEORY-tmp5lktm.md)): supports, as an instance.
   Agents "hold incorrect expectations about their partner’s plans" with
   their messages exchanged and read; access to a message did not give a
   shared model of it.
-- Li, Zoumpoulis et al. (THEORY-tmpmgo6m) speculate that LLMs may not keep an
+- Li, Zoumpoulis et al. ([THEORY-tmpmgo6m](../theory.d/THEORY-tmpmgo6m.md)) speculate that LLMs may not keep an
   explicit belief state at all, a reason a record must carry what was held;
-  ORKG (THEORY-tmpoy2np) attributes statements to contributors, the first
+  ORKG ([THEORY-tmpoy2np](../theory.d/THEORY-tmpoy2np.md)) attributes statements to contributors, the first
   half of the claim, in a shared graph.
 
 The claim is unchanged.

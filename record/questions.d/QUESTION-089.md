@@ -93,6 +93,6 @@ moving to them, is untouched. A THEORY waits for a reading.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Stasser and Titus** (THEORY-tmpy4vu1): QUESTION-089 and CASE-144 cite hidden profiles; CASE-144 (an evaluator that weights agreeing evidence) shares the preference-consistent sampling mechanism.
+- **Stasser and Titus** ([THEORY-tmpy4vu1](../theory.d/THEORY-tmpy4vu1.md)): QUESTION-089 and [CASE-144](../cases.d/CASE-144.md) cite hidden profiles; [CASE-144](../cases.d/CASE-144.md) (an evaluator that weights agreeing evidence) shares the preference-consistent sampling mechanism.
 
 The question is unchanged.

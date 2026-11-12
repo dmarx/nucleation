@@ -102,11 +102,11 @@ would measure it is [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-EvoOntology (THEORY-tmp4d13i) is the performance-gated arm this claim's
+EvoOntology ([THEORY-tmp4d13i](../theory.d/THEORY-tmp4d13i.md)) is the performance-gated arm this claim's
 defeat condition names. Removing its gate costs 11.2 points, and evolving
-the schema alone costs 8.7. ARG-tmpyprz6 holds why that is not support: the
+the schema alone costs 8.7. [ARG-tmpyprz6](../arguments.d/ARG-tmpyprz6.md) holds why that is not support: the
 gate is governance's rival, not governance, and the paper measures nothing
 the claim is about, with no misfit tasks, no regression of what the old
-schema could express, and no migration. It is the comparator CASE-tmppm4do
+schema could express, and no migration. It is the comparator [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)
 draws on. Jansen et al., Xie et al. and the TRACE-OU benchmark have no arm
 that varies modifiability. The claim is unchanged.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp66c0d) from https://arxiv.org/pdf/1901.10816.
+  Read on 2026-11-12 ([NOTE-tmp66c0d](../notes.d/NOTE-tmp66c0d.md)) from https://arxiv.org/pdf/1901.10816.
 title: 'Open Research Knowledge Graph: Next Generation Infrastructure for Semantic Scholarly Knowledge'
 version: 2
 history:
@@ -55,8 +55,8 @@ Mohamad Yaser Jaradeh et al. (2019), K-CAP 2019. DOI 10.1145/3360901.3364435.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1, as "ORKG"). It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1, as "ORKG"). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp66c0d, from https://arxiv.org/pdf/1901.10816; its account is THEORY-tmpoy2np.
+Read in [NOTE-tmp66c0d](../notes.d/NOTE-tmp66c0d.md), from https://arxiv.org/pdf/1901.10816; its account is [THEORY-tmpoy2np](../theory.d/THEORY-tmpoy2np.md).

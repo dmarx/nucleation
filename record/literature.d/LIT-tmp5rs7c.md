@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Skimmed on 2026-11-12 (NOTE-tmpfsrwj) from
+  Skimmed on 2026-11-12 ([NOTE-tmpfsrwj](../notes.d/NOTE-tmpfsrwj.md)) from
   https://ostromworkshop.indiana.edu/doc/teaching/iad-for-policy-applications.pdf.
 title: 'An Institutional Framework for Policy Analysis and Design'
 version: 2
@@ -58,8 +58,8 @@ Margaret M. Polski and Elinor Ostrom, in Elinor Ostrom and the Bloomington Schoo
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§3). It bears on CLAIM-086, CLAIM-410 and QUESTION-tmps5iou; LIT-2309 (Crawford and Ostrom) is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§3). It bears on [CLAIM-086](../claims.d/CLAIM-086.md), [CLAIM-410](../claims.d/CLAIM-410.md) and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md); [LIT-2309](LIT-2309.md) (Crawford and Ostrom) is held.
 
 ## Reading of 2026-11-12
 
-Skimmed in NOTE-tmpfsrwj, from https://ostromworkshop.indiana.edu/doc/teaching/iad-for-policy-applications.pdf; its account is THEORY-tmpymq8w.
+Skimmed in [NOTE-tmpfsrwj](../notes.d/NOTE-tmpfsrwj.md), from https://ostromworkshop.indiana.edu/doc/teaching/iad-for-policy-applications.pdf; its account is [THEORY-tmpymq8w](../theory.d/THEORY-tmpymq8w.md).

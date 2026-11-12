@@ -213,6 +213,6 @@ Every URL below was retrieved on 2026-10-10.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Chen, Zhu and Zheng** (THEORY-tmppljay): An instance of Proposition 2 with λ > 0 (selected outputs rated better by the metric and its neighbours, not by humans). Supports the case's reading.
+- **Chen, Zhu and Zheng** ([THEORY-tmppljay](../theory.d/THEORY-tmppljay.md)): An instance of Proposition 2 with λ > 0 (selected outputs rated better by the metric and its neighbours, not by humans). Supports the case's reading.
 
 The case is unchanged.

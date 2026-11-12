@@ -110,9 +110,9 @@ does not take it from them.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Mo, Zheng et al.** (THEORY-tmpyzyqe): Every score is an LLM judgment; the paper grounds originality in retrieved prior art to reduce judge bias, which is a partial response of the kind those claims call for. Illustrative only.
-- **Thaman** (THEORY-tmp5yjzz): RHB is an instance of optimization (here, agent behaviour shaped by RL post-training) pushing toward what the checker rewards and cannot see; it supports both, at the level of agent behaviour rather than training probes.
-- **Zhu et al.** (THEORY-tmpovyed): The KPI and coordination scores are LLM judgments; no bearing beyond caution.
-- **Orzechowski, Tawfiq and Kosciolek** (THEORY-tmpxbva2): A parallel lesson; the paper's caution that using the same ontology as context and as check is "associated with fewer catches (exploratory)" is a case of a check sharing a blind spot with what it checks. Illustrates; exploratory only.
+- **Mo, Zheng et al.** ([THEORY-tmpyzyqe](../theory.d/THEORY-tmpyzyqe.md)): Every score is an LLM judgment; the paper grounds originality in retrieved prior art to reduce judge bias, which is a partial response of the kind those claims call for. Illustrative only.
+- **Thaman** ([THEORY-tmp5yjzz](../theory.d/THEORY-tmp5yjzz.md)): RHB is an instance of optimization (here, agent behaviour shaped by RL post-training) pushing toward what the checker rewards and cannot see; it supports both, at the level of agent behaviour rather than training probes.
+- **Zhu et al.** ([THEORY-tmpovyed](../theory.d/THEORY-tmpovyed.md)): The KPI and coordination scores are LLM judgments; no bearing beyond caution.
+- **Orzechowski, Tawfiq and Kosciolek** ([THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md)): A parallel lesson; the paper's caution that using the same ontology as context and as check is "associated with fewer catches (exploratory)" is a case of a check sharing a blind spot with what it checks. Illustrates; exploratory only.
 
 The claim is unchanged.

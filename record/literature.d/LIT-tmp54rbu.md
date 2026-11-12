@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpcptrm) from
+  Read on 2026-11-12 ([NOTE-tmpcptrm](../notes.d/NOTE-tmpcptrm.md)) from
   https://eprints.qut.edu.au/226401/1/Past_and_present_of_STAMP_accepted_manuscript.pdf.
 title: 'The past and present of System-Theoretic Accident Model And Processes (STAMP) and its associated techniques: A scoping review'
 version: 2
@@ -57,8 +57,8 @@ Riccardo Patriarca et al. (2022), Safety Science. DOI 10.1016/j.ssci.2021.105566
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§10, as "A review of STAMP and its associated methods"). It bears on CLAIM-346 and CLAIM-523.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§10, as "A review of STAMP and its associated methods"). It bears on [CLAIM-346](../claims.d/CLAIM-346.md) and [CLAIM-523](../claims.d/CLAIM-523.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpcptrm, from https://eprints.qut.edu.au/226401/1/Past_and_present_of_STAMP_accepted_manuscript.pdf; its account is THEORY-tmpucfiy.
+Read in [NOTE-tmpcptrm](../notes.d/NOTE-tmpcptrm.md), from https://eprints.qut.edu.au/226401/1/Past_and_present_of_STAMP_accepted_manuscript.pdf; its account is [THEORY-tmpucfiy](../theory.d/THEORY-tmpucfiy.md).

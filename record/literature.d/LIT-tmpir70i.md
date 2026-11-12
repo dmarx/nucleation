@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpxobxv) from
+  Read on 2026-11-12 ([NOTE-tmpxobxv](../notes.d/NOTE-tmpxobxv.md)) from
   https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ai+law-final.pdf.
 title: 'An ontology for commitments in multiagent systems: Toward a unification of normative concepts'
 version: 2
@@ -49,8 +49,8 @@ Munindar P. Singh (1999), Artificial Intelligence and Law. DOI 10.1023/A:1008319
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A32 (§4). It bears on TERM-tmp8deza.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A32 (§4). It bears on [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpxobxv, from https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ai+law-final.pdf; its account is THEORY-tmpbt97y.
+Read in [NOTE-tmpxobxv](../notes.d/NOTE-tmpxobxv.md), from https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ai+law-final.pdf; its account is [THEORY-tmpbt97y](../theory.d/THEORY-tmpbt97y.md).

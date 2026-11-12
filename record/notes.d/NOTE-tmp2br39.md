@@ -28,7 +28,7 @@ summary: >-
   not identified from the trajectory.
 ---
 <!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
-<!-- inactive-ok-file: CASE-163 LIT-2327 — Deferred, Proposed; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: CASE-163 — Deferred, Proposed; cited for what each holds, not as settled -->
 
 # NOTE-tmp2br39: Chen, Zhu and Zheng — Auditing the Product, Not the Recursion: The Evaluation Evidence Behind Recursive Self-Improvement Claims
 

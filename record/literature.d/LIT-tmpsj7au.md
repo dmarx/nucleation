@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read on 2026-11-12 from IJCAI's own proceedings archive. Registered as a
-  stand-in for LIT-tmpwza8d, the Hearsay-II survey, which was Unfetched.
+  stand-in for [LIT-tmpwza8d](LIT-tmpwza8d.md), the Hearsay-II survey, which was Unfetched.
 title: 'A Retrospective View of the Hearsay-II Architecture'
 version: 1
 history:
@@ -40,7 +40,7 @@ summary: >-
   scratchpad for a KS's internal work; hypotheses' state is too local to
   show the state of the network they belong to, which hampers scheduling;
   and goals (requests for work) fit badly into the hypothesize-and-test
-  format. Registered on 2026-11-12 as a stand-in for LIT-tmpwza8d; by two of
+  format. Registered on 2026-11-12 as a stand-in for [LIT-tmpwza8d](LIT-tmpwza8d.md); by two of
   the four authors, it restates the blackboard architecture, its knowledge
   sources and their control, with what experience taught, including
   credibility propagation tried and dropped.
@@ -53,4 +53,4 @@ Victor R. Lesser and Lee D. Erman (1977), Proceedings of IJCAI-77.
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-tmpwza8d, which the reading of the works cited in the exchange "luria experiment design" could not reach. by two of the four authors, it restates the blackboard architecture, its knowledge sources and their control, with what experience taught, including credibility propagation tried and dropped.
+Registered on 2026-11-12 as a stand-in for [LIT-tmpwza8d](LIT-tmpwza8d.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. by two of the four authors, it restates the blackboard architecture, its knowledge sources and their control, with what experience taught, including credibility propagation tried and dropped.

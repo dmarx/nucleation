@@ -155,13 +155,13 @@ would make it informative, is [CASE-158](CASE-158.md). The case is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Chen, Zhu and Zheng** (THEORY-tmppljay): The criterion-drift remark and the requirement of "a fixed external reference that gates each change of evaluator" bear directly; it gives no answer for open-ended tasks where no reference grader exists, which is QUESTION-271's hard case. Qualifies.
-- **Thaman** (THEORY-tmp5yjzz): RHB's tampering category is the behavioural form of QUESTION-271's "processes in charge can add, filter or duplicate the tests". Supports the question's premise; no answer.
-- **Huang, Xu, Ma et al.** (THEORY-tmpvatoo): **supports** as an empirical instance of an evaluator that the evaluated can shape; E3 shows feedback from the evaluator helps the evaluated defeat it.
-- **Ghareeb et al.** (THEORY-tmpwrxy3): **leaves open, relevant design point**: Robin's selection among hypotheses is by an LLM judge reading LLM-written reports, the self-evaluation configuration those entries worry about; the paper reports no test of the judge against independent outcomes, only that a human then reviewed the list.
-- **Lu et al.** (THEORY-tmpl4czv): Bears as an example. The authors validate the judge against human decisions once, then rely on it.
-- **Majumder et al.** (THEORY-tmpzmf41): The benchmark's evaluation is an LLM judge; the paper does not test its agreement with humans in the main text. Leaves open.
-- **Zhang, Hu, Lu, Lange and Clune** (THEORY-tmp7gq1l): *illustrates* the mechanical version (the evaluated process edits the evaluator's input), not the social one of CASE-144.
-- **Stasser and Titus** (THEORY-tmpy4vu1): QUESTION-089 and CASE-144 cite hidden profiles; CASE-144 (an evaluator that weights agreeing evidence) shares the preference-consistent sampling mechanism.
+- **Chen, Zhu and Zheng** ([THEORY-tmppljay](../theory.d/THEORY-tmppljay.md)): The criterion-drift remark and the requirement of "a fixed external reference that gates each change of evaluator" bear directly; it gives no answer for open-ended tasks where no reference grader exists, which is [QUESTION-271](../questions.d/QUESTION-271.md)'s hard case. Qualifies.
+- **Thaman** ([THEORY-tmp5yjzz](../theory.d/THEORY-tmp5yjzz.md)): RHB's tampering category is the behavioural form of [QUESTION-271](../questions.d/QUESTION-271.md)'s "processes in charge can add, filter or duplicate the tests". Supports the question's premise; no answer.
+- **Huang, Xu, Ma et al.** ([THEORY-tmpvatoo](../theory.d/THEORY-tmpvatoo.md)): **supports** as an empirical instance of an evaluator that the evaluated can shape; E3 shows feedback from the evaluator helps the evaluated defeat it.
+- **Ghareeb et al.** ([THEORY-tmpwrxy3](../theory.d/THEORY-tmpwrxy3.md)): **leaves open, relevant design point**: Robin's selection among hypotheses is by an LLM judge reading LLM-written reports, the self-evaluation configuration those entries worry about; the paper reports no test of the judge against independent outcomes, only that a human then reviewed the list.
+- **Lu et al.** ([THEORY-tmpl4czv](../theory.d/THEORY-tmpl4czv.md)): Bears as an example. The authors validate the judge against human decisions once, then rely on it.
+- **Majumder et al.** ([THEORY-tmpzmf41](../theory.d/THEORY-tmpzmf41.md)): The benchmark's evaluation is an LLM judge; the paper does not test its agreement with humans in the main text. Leaves open.
+- **Zhang, Hu, Lu, Lange and Clune** ([THEORY-tmp7gq1l](../theory.d/THEORY-tmp7gq1l.md)): *illustrates* the mechanical version (the evaluated process edits the evaluator's input), not the social one of CASE-144.
+- **Stasser and Titus** ([THEORY-tmpy4vu1](../theory.d/THEORY-tmpy4vu1.md)): [QUESTION-089](../questions.d/QUESTION-089.md) and CASE-144 cite hidden profiles; CASE-144 (an evaluator that weights agreeing evidence) shares the preference-consistent sampling mechanism.
 
 The case is unchanged.

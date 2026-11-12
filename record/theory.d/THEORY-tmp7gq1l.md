@@ -22,7 +22,7 @@ bears_on:
 corroborates:
 - CLAIM-266
 summary: >-
-  The central account of LIT-2327, read in NOTE-tmp9jcw7. Proposed until its
+  The central account of [LIT-2327](../literature.d/LIT-2327.md), read in [NOTE-tmp9jcw7](../notes.d/NOTE-tmp9jcw7.md). Proposed until its
   promote_when is met.
 ---
 

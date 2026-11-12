@@ -71,36 +71,36 @@ analogy, not Falbo's: her account is about social concepts that carry oppressive
 marginalized knowers; a record's schema misclassifying a contribution is structurally parallel (an
 available category preempted by a dominant, ill-fitting one) but lacks the oppression that makes
 Falbo's case an injustice.
-- QUESTION-072 (does a project memory distribute credibility among contributors by making some
+- [QUESTION-072](../questions.d/QUESTION-072.md) (does a project memory distribute credibility among contributors by making some
   moves addressable and leaving others as unfiled turns?): **qualifies**, by adding a second
   mechanism. The question is lacuna-shaped (a move without a code is lost); Falbo shows the other
   path: a move can have a scheme available and still be filed under a dominant scheme that
   preempts the apt one, with the credibility loss she describes ("the denial of Miller’s credibility
   and thus diminished her status as a knower"). Leaves the question open; widens what an answer
   must check (misfiling, not only non-filing).
-- CLAIM-403 (admission, recognition in apt terms, credibility, uptake and part in revising standards
+- [CLAIM-403](../claims.d/CLAIM-403.md) (admission, recognition in apt terms, credibility, uptake and part in revising standards
   of uptake are separable): **supports the recognition-to-credibility rung.** Falbo's positive
   hermeneutical injustice is a case where the contribution is admitted and intelligible, but not
   recognized in apt terms, and loses credibility and uptake as a result; and her note that
   marginalization covers the "revision, reinforcement" of resources matches the claim's last
   stage. It is a case from outside organizations, so it corroborates rather than demonstrates.
-- LIT-1004 (Fricker, held, Unavailable): Falbo reports Fricker's lacuna requirement and quotes her
+- [LIT-1004](../literature.d/LIT-1004.md) (Fricker, held, Unavailable): Falbo reports Fricker's lacuna requirement and quotes her
   (2007, 1, 150-51, 162); these are second-hand quotations of Fricker and should not be filed as a
   reading of Fricker.
 
 Searched the record for Falbo, hyp.2022.4, controlling image, contributory injustice,
 Dotson, Pohlhaus, ontic injustice, Manne, lacuna, preempt, misclassif. Not held (no duplicate).
 Missed by the first search:
-- THEORY-326 and THEORY-317 (Fricker's definitions, hermeneutical injustice as a gap in shared
+- [THEORY-326](../theory.d/THEORY-326.md) and [THEORY-317](../theory.d/THEORY-317.md) (Fricker's definitions, hermeneutical injustice as a gap in shared
   resources): Falbo is a direct objection to the gap requirement these state; one may set her
   reading beside them as a rival account.
-- LIT-1048 (Fricker, "Evolving Concepts of Epistemic Injustice", Active) and LIT-1311 (Pohlhaus,
-  willful hermeneutical ignorance, Unavailable): Falbo positions herself against both; LIT-2261
+- [LIT-1048](../literature.d/LIT-1048.md) (Fricker, "Evolving Concepts of Epistemic Injustice", Active) and [LIT-1311](../literature.d/LIT-1311.md) (Pohlhaus,
+  willful hermeneutical ignorance, Unavailable): Falbo positions herself against both; [LIT-2261](../literature.d/LIT-2261.md)
   (Dotson, "A Cautionary Tale", Deferred) is cited by her for contributory injustice.
-- CLAIM-406 (structural, pre-emptive testimonial injustice as the record's trust loop) and
-  CLAIM-619 (classifying a challenge as the problem): Falbo's "preemption" is hermeneutical, not
-  testimonial pre-emption in CLAIM-406's sense (not being asked); the shared word should not be
-  read as the same mechanism. CLAIM-619's reclassification of a challenge is close to her
+- [CLAIM-406](../claims.d/CLAIM-406.md) (structural, pre-emptive testimonial injustice as the record's trust loop) and
+  [CLAIM-619](../claims.d/CLAIM-619.md) (classifying a challenge as the problem): Falbo's "preemption" is hermeneutical, not
+  testimonial pre-emption in [CLAIM-406](../claims.d/CLAIM-406.md)'s sense (not being asked); the shared word should not be
+  read as the same mechanism. [CLAIM-619](../claims.d/CLAIM-619.md)'s reclassification of a challenge is close to her
   "defeat" by a distorting concept.
 
 ## Limitations

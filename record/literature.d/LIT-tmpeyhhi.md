@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp61omc) from
+  Read on 2026-11-12 ([NOTE-tmp61omc](../notes.d/NOTE-tmp61omc.md)) from
   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13674306/fullTextXML.
 title: 'Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing'
 version: 2
@@ -57,8 +57,8 @@ Hasib et al. (2026), Patterns. DOI 10.1016/j.patter.2026.101660.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 and A20 (§3, as "the October 2026 survey"). It bears on LIT-2297, LIT-2306 and LIT-2289, the AI-scientist systems registered from the same exchange.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 and A20 (§3, as "the October 2026 survey"). It bears on [LIT-2297](LIT-2297.md), [LIT-2306](LIT-2306.md) and [LIT-2289](LIT-2289.md), the AI-scientist systems registered from the same exchange.
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp61omc, from https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13674306/fullTextXML; its account is THEORY-tmphftwv.
+Read in [NOTE-tmp61omc](../notes.d/NOTE-tmp61omc.md), from https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13674306/fullTextXML; its account is [THEORY-tmphftwv](../theory.d/THEORY-tmphftwv.md).

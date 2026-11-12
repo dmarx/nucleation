@@ -23,7 +23,6 @@ summary: >-
   sees the AI and may revise) and *wait* (30 s delay before the AI's
   answer).
 ---
-<!-- inactive-ok-file: LIT-tmpyaj3n — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # NOTE-tmp7uwd1: Buçinca, Malaya and Gajos — To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making
 

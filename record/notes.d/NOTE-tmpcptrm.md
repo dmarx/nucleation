@@ -60,13 +60,13 @@ The first published scoping review of STAMP/STPA/CAST. It is a map of a literatu
 
 A cites the paper for failures that arise from control structure, feedback and constraints among locally functioning components. That is STAMP's own thesis, which this review restates in its introduction (§1 and §1.1, citing Leveson 2004 and 2011). The review's own contribution is bibliometric.
 
-So the citation is apt only as a pointer to the STAMP literature. For the thesis itself, Leveson 2004 or 2011 is the better citation; the record holds LIT-1613 for Leveson 2011. The phrase "locally functioning components" is A's gloss and does not appear in the review. The review's own words are "interactions of system elements in addition to individual behaviours".
+So the citation is apt only as a pointer to the STAMP literature. For the thesis itself, Leveson 2004 or 2011 is the better citation; the record holds [LIT-1613](../literature.d/LIT-1613.md) for Leveson 2011. The phrase "locally functioning components" is A's gloss and does not appear in the review. The review's own words are "interactions of system elements in addition to individual behaviours".
 
-**CLAIM-346** (feasibility, aggregation and epistemic coordination as independent obstructions). **Leaves open.**
+**[CLAIM-346](../claims.d/CLAIM-346.md)** (feasibility, aggregation and epistemic coordination as independent obstructions). **Leaves open.**
 - The review offers no construction or argument about independence of obstructions.
-- STAMP's control-structure view loosely resembles CLAIM-346's feasibility arm and its coordination arm (inadequate feedback and process models), but the review does not separate them.
+- STAMP's control-structure view loosely resembles [CLAIM-346](../claims.d/CLAIM-346.md)'s feasibility arm and its coordination arm (inadequate feedback and process models), but the review does not separate them.
 
-**CLAIM-523** (legibility, volitional efficacy and correctability as separable achievements). **Leaves open, with a faint parallel.**
+**[CLAIM-523](../claims.d/CLAIM-523.md)** (legibility, volitional efficacy and correctability as separable achievements). **Leaves open, with a faint parallel.**
 - STAMP's elements map loosely onto the three achievements:
   - sensors and feedback onto legibility;
   - controllers and control actions onto efficacy;

@@ -24,7 +24,7 @@ summary: >-
   hands the ranked list to human scientists, who choose candidates and run a
   human-written protocol based on Robin's assay.
 ---
-<!-- inactive-ok-file: CASE-tmpy1ebu LIT-tmpeyhhi — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # NOTE-tmp3z1rp: Ghareeb et al. — A multi-agent system for automating scientific discovery
 

@@ -16,7 +16,7 @@ promote_when: >-
   reports the best LLM evaluator's agreement (53.3%) below inter-reviewer
   agreement (56.1%).
 summary: >-
-  The central account of LIT-tmpsxqr6, read in NOTE-tmp1q2l4. Proposed until
+  The central account of [LIT-tmpsxqr6](../literature.d/LIT-tmpsxqr6.md), read in [NOTE-tmp1q2l4](../notes.d/NOTE-tmp1q2l4.md). Proposed until
   its promote_when is met.
 ---
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpsm319) from
+  Read on 2026-11-12 ([NOTE-tmpsm319](../notes.d/NOTE-tmpsm319.md)) from
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8546234/.
 title: 'OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies'
 version: 2
@@ -53,8 +53,8 @@ Rebecca Jackson et al. (2021), Database. DOI 10.1093/database/baab069.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "OBO Foundry governance"). It bears on QUESTION-tmps5iou and CLAIM-419.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "OBO Foundry governance"). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpsm319, from https://pmc.ncbi.nlm.nih.gov/articles/PMC8546234/; its account is THEORY-tmpm8l7x.
+Read in [NOTE-tmpsm319](../notes.d/NOTE-tmpsm319.md), from https://pmc.ncbi.nlm.nih.gov/articles/PMC8546234/; its account is [THEORY-tmpm8l7x](../theory.d/THEORY-tmpm8l7x.md).

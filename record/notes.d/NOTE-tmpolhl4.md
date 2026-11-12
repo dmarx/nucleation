@@ -74,7 +74,7 @@ by Flouris et al.**, not Flouris et al.'s own proposal. This also resolves the L
 companion citation "Stojanovic" names no work: Flouris et al. attribute the six phases to Stojanovic,
 Maedche, Motik and Stojanovic (2002), "User-driven Ontology Evolution Management", EKAW-02, LNCS 2473,
 pp. 285-300.
-- QUESTION-tmps5iou (is the coupling of schema change to recorded decision, migration and executable
+- [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) (is the coupling of schema change to recorded decision, migration and executable
   checks what distinguishes luria?): **qualifies and narrows.** The survey shows that capture,
   formal representation, determination of side-effects on dependants (migration in luria's terms),
   logging and validation of a change were already a standard process for ontology evolution by 2002.
@@ -83,20 +83,20 @@ pp. 285-300.
   process "assume[s] human participation" and logs changes. So the survey supports that the
   distinguishing part, if any, is the recorded decision and the governance, not change management
   as such. Leaves open whether that coupling does work.
-- CLAIM-419 (the grammar is amendable by decision, and a misfit has repeatedly been treated as a
+- [CLAIM-419](../claims.d/CLAIM-419.md) (the grammar is amendable by decision, and a misfit has repeatedly been treated as a
   defect of the grammar): **corroborates by analogy**: the survey lists discovering "a design flaw in
   the original conceptualization" as a standard reason for changing an ontology and gives a process
   for it; it says nothing on how often misfits are caught.
 
 Searched the record for Flouris, the DOI, Stojanovic, KAON, Protege, AGM, belief
 revision/change, schema evolution/migration. Not held (the "Flouris" hit is "Flourish" in
-NOTE-1429; no duplicate). Missed by the first search:
-- LIT-1050 (Alchourron, Gardenfors and Makinson, AGM, Active), LIT-1072 (Logic of Belief Revision,
-  Active) and QUESTION-289 (whether a closed belief set fixes future revisions, Answered): the survey
+[NOTE-1429](NOTE-1429.md); no duplicate). Missed by the first search:
+- [LIT-1050](../literature.d/LIT-1050.md) (Alchourron, Gardenfors and Makinson, AGM, Active), [LIT-1072](../literature.d/LIT-1072.md) (Logic of Belief Revision,
+  Active) and [QUESTION-289](../questions.d/QUESTION-289.md) (whether a closed belief set fixes future revisions, Answered): the survey
   reports AGM-based ontology evolution as a research line; the record's AGM holdings are the theory
   it borrows from.
-- Among the same filing's LITs DILIGENT (LIT-2274), COPE/Edapt (LIT-tmp5mdsg), KGCL
-  (LIT-2313), VoCol, WebProtege and OBO (LIT-tmpk047v) are in the same comparison class; the survey
+- Among the same filing's LITs DILIGENT ([LIT-2274](../literature.d/LIT-2274.md)), COPE/Edapt ([LIT-tmp5mdsg](../literature.d/LIT-tmp5mdsg.md)), KGCL
+  ([LIT-2313](../literature.d/LIT-2313.md)), VoCol, WebProtege and OBO ([LIT-tmpk047v](../literature.d/LIT-tmpk047v.md)) are in the same comparison class; the survey
   predates most of them.
 
 ## Limitations

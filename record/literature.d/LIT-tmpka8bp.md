@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpzfc34) from https://arxiv.org/pdf/2610.37809.
+  Read on 2026-11-12 ([NOTE-tmpzfc34](../notes.d/NOTE-tmpzfc34.md)) from https://arxiv.org/pdf/2610.37809.
 title: 'What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs'
 version: 2
 history:
@@ -53,8 +53,8 @@ Michal Orzechowski et al. (2026). arXiv 2610.37809.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A29 (§6). It bears on CASE-tmppm4do.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A29 (§6). It bears on [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpzfc34, from https://arxiv.org/pdf/2610.37809; its account is THEORY-tmpxbva2.
+Read in [NOTE-tmpzfc34](../notes.d/NOTE-tmpzfc34.md), from https://arxiv.org/pdf/2610.37809; its account is [THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md).

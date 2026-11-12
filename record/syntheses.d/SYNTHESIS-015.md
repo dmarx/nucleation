@@ -142,6 +142,6 @@ tested.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Park et al.** (THEORY-tmp5rm74): 7.2's "overly cooperative" agents whose interests are reshaped by others' suggestions is a converse failure (no anchoring at all), not evidence for either side.
+- **Park et al.** ([THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md)): 7.2's "overly cooperative" agents whose interests are reshaped by others' suggestions is a converse failure (no anchoring at all), not evidence for either side.
 
 The account is unchanged.

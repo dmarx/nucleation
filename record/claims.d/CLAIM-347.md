@@ -397,6 +397,6 @@ A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (202
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **de Kleer and Williams** (THEORY-tmpglid0): **parallel construction**, not a citation: in both, a downward-closed family is determined by its minimal violating sets.
+- **de Kleer and Williams** ([THEORY-tmpglid0](../theory.d/THEORY-tmpglid0.md)): **parallel construction**, not a citation: in both, a downward-closed family is determined by its minimal violating sets.
 
 The claim is unchanged.

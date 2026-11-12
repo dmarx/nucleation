@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Skimmed on 2026-11-12 (NOTE-tmpqtavm) from https://www.w3.org/TR/prov-o/.
+  Skimmed on 2026-11-12 ([NOTE-tmpqtavm](../notes.d/NOTE-tmpqtavm.md)) from https://www.w3.org/TR/prov-o/.
 title: 'PROV-O: The PROV Ontology'
 version: 2
 history:
@@ -52,8 +52,8 @@ W3C (2013), W3C Recommendation, ed. Timothy Lebo, Satya Sahoo and Deborah McGuin
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on CLAIM-299, which separates historical accountability from decision sufficiency and correctness.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [CLAIM-299](../claims.d/CLAIM-299.md), which separates historical accountability from decision sufficiency and correctness.
 
 ## Reading of 2026-11-12
 
-Skimmed in NOTE-tmpqtavm, from https://www.w3.org/TR/prov-o/; its account is THEORY-tmpx4v17.
+Skimmed in [NOTE-tmpqtavm](../notes.d/NOTE-tmpqtavm.md), from https://www.w3.org/TR/prov-o/; its account is [THEORY-tmpx4v17](../theory.d/THEORY-tmpx4v17.md).

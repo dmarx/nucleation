@@ -55,8 +55,8 @@ Semantic scholarly knowledge; ResearchContribution (problem, method, result); st
 
 A (A20 §1) cites ORKG for structured representations of research contributions compared across publications, distinguishing a record of an evolving inquiry from a representation of published contributions. **Accurate.** The reading supports A's distinction directly: ORKG's unit is a published contribution, its schema is deliberately unconstrained, and versioning, evolution and debate are, in this paper, future work.
 
-- **QUESTION-tmps5iou**. **Supports the distinction A draws; leaves the question open.** ORKG (2019) couples none of rationale, migration or executable checks to schema change; its schema is almost absent by design ("we do not further constrain"). It is evidence that the scholarly-knowledge-graph line, as of this paper, chose low-barrier unconstrained description over governed schema, which is the opposite trade from luria's. It does not show later ORKG versions lack governance (templates and versioning came later; not read).
-- **CLAIM-tmpyp3u3 / TERM-tmp8deza** (shared epistemic state; who contributed what): ORKG's per-statement provenance annotations are a precedent for contributor attribution in a shared graph. Mention only.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)**. **Supports the distinction A draws; leaves the question open.** ORKG (2019) couples none of rationale, migration or executable checks to schema change; its schema is almost absent by design ("we do not further constrain"). It is evidence that the scholarly-knowledge-graph line, as of this paper, chose low-barrier unconstrained description over governed schema, which is the opposite trade from luria's. It does not show later ORKG versions lack governance (templates and versioning came later; not read).
+- **[CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md) / [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md)** (shared epistemic state; who contributed what): ORKG's per-statement provenance annotations are a precedent for contributor attribution in a shared graph. Mention only.
 
 ## Limitations
 

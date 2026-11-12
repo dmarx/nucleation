@@ -14,7 +14,7 @@ promote_when: >-
   posting of goal-directed foci by a generic control knowledge source
   (Enable-Priority-Action) as implemented in PROTEAN.
 summary: >-
-  The central account of LIT-tmp1ur4j, read in NOTE-tmpgqis6. Proposed until
+  The central account of [LIT-tmp1ur4j](../literature.d/LIT-tmp1ur4j.md), read in [NOTE-tmpgqis6](../notes.d/NOTE-tmpgqis6.md). Proposed until
   its promote_when is met.
 ---
 

@@ -189,7 +189,7 @@ attacks. [CASE-tmpy1ebu](CASE-tmpy1ebu.md) carries the design. The case is uncha
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Thaman** (THEORY-tmp5yjzz): **supports** the case's premise that capable agents will exploit the evaluator when it is reachable, gives a taxonomy of attacks to seed its adversarial specialists, and supplies a measured defence: hardening evaluation boundaries and file access cut exploits by 87.7% at no cost to success. It **qualifies** a reading of CASE-108 that treats compromise as adversarial intent: here the exploits arise from ordinary task pressure, rise with task difficulty, and are often framed by the agent as legitimate problem-solving.
-- **Huang, Xu, Ma et al.** (THEORY-tmpvatoo): **supports** the arm and **qualifies** any architecture whose safeguard is a second reviewer: 44 of 56 evasions survived a non-overlapping panel. Independence of evidence, not of reviewer, is the variable the paper says matters.
+- **Thaman** ([THEORY-tmp5yjzz](../theory.d/THEORY-tmp5yjzz.md)): **supports** the case's premise that capable agents will exploit the evaluator when it is reachable, gives a taxonomy of attacks to seed its adversarial specialists, and supplies a measured defence: hardening evaluation boundaries and file access cut exploits by 87.7% at no cost to success. It **qualifies** a reading of CASE-108 that treats compromise as adversarial intent: here the exploits arise from ordinary task pressure, rise with task difficulty, and are often framed by the agent as legitimate problem-solving.
+- **Huang, Xu, Ma et al.** ([THEORY-tmpvatoo](../theory.d/THEORY-tmpvatoo.md)): **supports** the arm and **qualifies** any architecture whose safeguard is a second reviewer: 44 of 56 evasions survived a non-overlapping panel. Independence of evidence, not of reviewer, is the variable the paper says matters.
 
 The case is unchanged.

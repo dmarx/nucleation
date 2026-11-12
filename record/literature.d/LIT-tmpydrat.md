@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-12, not read. Registered from the reading of Flouris et al.'s survey (LIT-tmpo7zwb), which names it, as the work the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) most likely meant by its bare "Stojanovic" at A22. No reading was attempted; a lawful copy has not been sought.
+  filed 2026-11-12, not read. Registered from the reading of Flouris et al.'s survey ([LIT-tmpo7zwb](LIT-tmpo7zwb.md)), which names it, as the work the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) most likely meant by its bare "Stojanovic" at A22. No reading was attempted; a lawful copy has not been sought.
 title: 'User-Driven Ontology Evolution Management'
 version: 1
 history:
@@ -19,9 +19,8 @@ first_author: 'Stojanovic'
 keywords: []
 implementations: []
 summary: >-
-  Stojanovic et al. (2002), User-Driven Ontology Evolution Management, EKAW 2002, LNCS 2473, DOI 10.1007/3-540-45810-7_27. A process for ontology evolution driven by users' change requests, with the semantics of changes resolved and propagated, per Flouris et al.'s account of it. Here as the ontology-evolution prior art A named at A22 without a title; it bears on QUESTION-tmps5iou. Unverified until read.
+  Stojanovic et al. (2002), User-Driven Ontology Evolution Management, EKAW 2002, LNCS 2473, DOI 10.1007/3-540-45810-7_27. A process for ontology evolution driven by users' change requests, with the semantics of changes resolved and propagated, per Flouris et al.'s account of it. Here as the ontology-evolution prior art A named at A22 without a title; it bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md). Unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpo7zwb — the survey that names this work, Skimmed -->
 
 # LIT-tmpydrat: User-Driven Ontology Evolution Management
 
@@ -29,4 +28,4 @@ Stojanovic et al. (2002). EKAW 2002, Lecture Notes in Computer Science 2473. DOI
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the reading of Flouris et al.'s survey (LIT-tmpo7zwb), as the work behind A's bare "Stojanovic" in the exchange "luria experiment design" (A22). It bears on QUESTION-tmps5iou as ontology-evolution prior art. Not read.
+Registered on 2026-11-12 from the reading of Flouris et al.'s survey ([LIT-tmpo7zwb](LIT-tmpo7zwb.md)), as the work behind A's bare "Stojanovic" in the exchange "luria experiment design" (A22). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) as ontology-evolution prior art. Not read.

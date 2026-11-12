@@ -67,6 +67,6 @@ query optimisation.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Lebo, Sahoo and McGuinness (eds.)** (THEORY-tmpx4v17): A database-provenance line distinct from PROV's workflow provenance; PROV-O does not address query provenance.
+- **Lebo, Sahoo and McGuinness (eds.)** ([THEORY-tmpx4v17](../theory.d/THEORY-tmpx4v17.md)): A database-provenance line distinct from PROV's workflow provenance; PROV-O does not address query provenance.
 
 The question is unchanged.

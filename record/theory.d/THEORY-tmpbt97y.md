@@ -15,7 +15,7 @@ promote_when: >-
   and the thesis that social commitments are not reducible to internal
   commitments or mutual belief.
 summary: >-
-  The central account of LIT-tmpir70i, read in NOTE-tmpxobxv. Proposed until
+  The central account of [LIT-tmpir70i](../literature.d/LIT-tmpir70i.md), read in [NOTE-tmpxobxv](../notes.d/NOTE-tmpxobxv.md). Proposed until
   its promote_when is met.
 ---
 

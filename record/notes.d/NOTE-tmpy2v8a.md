@@ -76,16 +76,16 @@ Two caveats bear on any appeal to this chapter:
 
 A shared record read asynchronously by many agents falls outside its stated scope.
 
-- **TERM-tmp8deza** (shared epistemic state, defined as not shared beliefs, not shared memory, and not common knowledge). **Supports the distinction.**
+- **[TERM-tmp8deza](../terms.d/TERM-tmp8deza.md)** (shared epistemic state, defined as not shared beliefs, not shared memory, and not common knowledge). **Supports the distinction.**
   - Clark and Brennan's common ground is mutual knowledge, beliefs and assumptions, and it requires grounding.
   - On their account, a publicly inspectable record is not common ground.
   - The term is right to separate the two.
-- **CLAIM-tmpyp3u3** (a record can represent who contributed a proposition and what standing it has, but not that collaborators believe it or all know it; access is a precondition, not evidence). **Supports, by a separate route.**
+- **[CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md)** (a record can represent who contributed a proposition and what standing it has, but not that collaborators believe it or all know it; access is a precondition, not evidence). **Supports, by a separate route.**
   - Grounding requires positive evidence of understanding, and the absence of complaint is not enough.
   - Mere availability of a reviewable artifact is therefore not evidence of mutual understanding.
-  - This complements the Halpern–Moses route via CLAIM-346 and ARG-tmpbuocw.
+  - This complements the Halpern–Moses route via [CLAIM-346](../claims.d/CLAIM-346.md) and [ARG-tmpbuocw](../arguments.d/ARG-tmpbuocw.md).
   - It also suggests what *would* count as evidence in a record: acknowledgments, uptake as the relevant next contribution (an entry that builds on another), or citations that answer.
-- **QUESTION-tmpxq2sb.** The cost framework gives one candidate explanation of where a record helps: it lowers start-up, delay and reviewing costs. It also gives one of where it does not: acknowledgment is costly in asynchronous media. That speaks to the question's "recognition" and "uptake" stages.
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).** The cost framework gives one candidate explanation of where a record helps: it lowers start-up, delay and reviewing costs. It also gives one of where it does not: acknowledgment is costly in asynchronous media. That speaks to the question's "recognition" and "uptake" stages.
 
 ## Limitations
 

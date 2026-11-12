@@ -1,7 +1,7 @@
 ---
 status: Unavailable
 status_note: >-
-  Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Elsevier's
+  Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): no lawful full text found. Elsevier's
   copy (https://doi.org/10.1016/0004-3702(85)90063-3) is paywalled and
   OpenAlex and Semantic Scholar list it as closed; aitopics.org holds scans
   of other Stanford reports by Hayes-Roth and Nii, and the item said to be a
@@ -9,7 +9,7 @@ status_note: >-
   commercial reprint, not used; a search hit at
   core.ac.uk/download/235074512.pdf, contents unknown, returned a Cloudflare
   challenge and was not retried. Johnson and Hayes-Roth's AAAI-87 paper on
-  BB1 (LIT-tmp1ur4j) was read in its place.
+  BB1 ([LIT-tmp1ur4j](LIT-tmp1ur4j.md)) was read in its place.
 title: 'A blackboard architecture for control'
 version: 2
 history:
@@ -39,7 +39,7 @@ summary: >-
   Artificial Intelligence 26(3):251–321, DOI 10.1016/0004-3702(85)90063-3. A
   blackboard control architecture in which a control blackboard holds the
   system's plan for its own problem solving beside the domain blackboard.
-  Unavailable; Johnson and Hayes-Roth's AAAI-87 paper (LIT-tmp1ur4j) was
+  Unavailable; Johnson and Hayes-Roth's AAAI-87 paper ([LIT-tmp1ur4j](LIT-tmp1ur4j.md)) was
   read in its place.
 ---
 
@@ -53,8 +53,8 @@ Barbara Hayes-Roth (1985), Artificial Intelligence. DOI 10.1016/0004-3702(85)900
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on QUESTION-tmpxq2sb.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).
 
 ## Reading of 2026-11-12
 
-Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Elsevier's copy (https://doi.org/10.1016/0004-3702(85)90063-3) is paywalled and OpenAlex and Semantic Scholar list it as closed; aitopics.org holds scans of other Stanford reports by Hayes-Roth and Nii, and the item said to be a 1985 BB1 report returned 404; O'Reilly offers only a preview of a commercial reprint, not used; a search hit at core.ac.uk/download/235074512.pdf, contents unknown, returned a Cloudflare challenge and was not retried. Johnson and Hayes-Roth's AAAI-87 paper on BB1 (LIT-tmp1ur4j) was read in its place. Johnson and Hayes-Roth's AAAI-87 paper, LIT-tmp1ur4j, was read in its place.
+Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): no lawful full text found. Elsevier's copy (https://doi.org/10.1016/0004-3702(85)90063-3) is paywalled and OpenAlex and Semantic Scholar list it as closed; aitopics.org holds scans of other Stanford reports by Hayes-Roth and Nii, and the item said to be a 1985 BB1 report returned 404; O'Reilly offers only a preview of a commercial reprint, not used; a search hit at core.ac.uk/download/235074512.pdf, contents unknown, returned a Cloudflare challenge and was not retried. Johnson and Hayes-Roth's AAAI-87 paper on BB1 ([LIT-tmp1ur4j](LIT-tmp1ur4j.md)) was read in its place. Johnson and Hayes-Roth's AAAI-87 paper, [LIT-tmp1ur4j](LIT-tmp1ur4j.md), was read in its place.

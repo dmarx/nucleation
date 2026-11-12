@@ -16,7 +16,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmps5iou
 summary: >-
-  The central account of LIT-tmpzfbla, read in NOTE-tmp2ws61. Proposed until
+  The central account of [LIT-tmpzfbla](../literature.d/LIT-tmpzfbla.md), read in [NOTE-tmp2ws61](../notes.d/NOTE-tmp2ws61.md). Proposed until
   its promote_when is met.
 ---
 

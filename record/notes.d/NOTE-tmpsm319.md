@@ -75,7 +75,7 @@ least well proxied; and the paper reports principle revision as a practice (issu
 formal decision-and-migration procedure. Calling it "OBO Foundry governance" is fair: the paper
 names the operations committee that stewards the principles.
 
-- QUESTION-tmps5iou (is the coupling of schema change to recorded decision, migration and
+- [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) (is the coupling of schema change to recorded decision, migration and
   executable checks what distinguishes luria?): **qualifies** the novelty side. OBO already couples
   a revisable standard to executable checks, pull-request-curated structured metadata on GitHub,
   issue-tracked discussion of each rule and a standing governance body: much of luria's apparatus
@@ -84,7 +84,7 @@ names the operations committee that stewards the principles.
   through issues and calls, and conformance is reported, not enforced (except "Open"). So it leaves
   open whether coupling-to-recorded-decision-and-migration is the distinguishing part, but narrows
   the claim to that part.
-- CLAIM-419 (grammar fixed at any moment, amendable by decision; misfits treated as defects of the
+- [CLAIM-419](../claims.d/CLAIM-419.md) (grammar fixed at any moment, amendable by decision; misfits treated as defects of the
   grammar): **corroborates by analogy**, not support: OBO's principles are revised when found
   imprecise, and the checks themselves were revised after false positives and negatives - a
   standard and its checker both under amendment. It is about a different object (member ontologies'
@@ -93,14 +93,14 @@ names the operations committee that stewards the principles.
 Searched the record for OBO, Foundry, dashboard, operationaliz*, ontology change/evolution,
 RFC 2119/MUST-SHOULD, FAIR principles, Goodhart. None held on OBO or the Foundry (no LIT holds this
 DOI; not a duplicate).
-- TERM-108 (proxy objective, an operational measure optimized in place of the outcome it stands
+- [TERM-108](../terms.d/TERM-108.md) (proxy objective, an operational measure optimized in place of the outcome it stands
   for): the Maintenance check (date-format version IRI) is the authors' own example of a proxy
   check they say does not establish the principle. Illustrates it.
-- CASE-178 (filed from the exchange, cited by QUESTION-tmps5iou: grammar refinements with ADRs): OBO is a
+- [CASE-178](../cases.d/CASE-178.md) (filed from the exchange, cited by [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md): grammar refinements with ADRs): OBO is a
   comparison case for how often a standard's revision is decision-documented; OBO's are tracked in
   issues, not in decision records.
-- Among the same filing's LITs for VoCol (LIT-tmpt3cxh), WebProtege (LIT-tmptsso9) and
-  DILIGENT (LIT-2274) sit in the same comparison class.
+- Among the same filing's LITs for VoCol ([LIT-tmpt3cxh](../literature.d/LIT-tmpt3cxh.md)), WebProtege ([LIT-tmptsso9](../literature.d/LIT-tmptsso9.md)) and
+  DILIGENT ([LIT-2274](../literature.d/LIT-2274.md)) sit in the same comparison class.
 
 ## Limitations
 

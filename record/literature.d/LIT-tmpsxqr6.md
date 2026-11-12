@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp1q2l4) from https://arxiv.org/pdf/2409.04109.
+  Read on 2026-11-12 ([NOTE-tmp1q2l4](../notes.d/NOTE-tmp1q2l4.md)) from https://arxiv.org/pdf/2409.04109.
 title: 'Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers'
 version: 2
 history:
@@ -39,7 +39,6 @@ summary: >-
   with human reviewers less than humans agree with each other. Read for the
   exchange "luria experiment design".
 ---
-<!-- inactive-ok-file: LIT-2329 — Deferred; cited for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-tmpcb95r — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpsxqr6: Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers
@@ -52,8 +51,8 @@ Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024). arXiv 2409.04109.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 (§1, and its filing table as Si et al. 2025). It bears on LIT-2329 and LIT-2318, the theory-building comparisons registered from the same exchange.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 (§1, and its filing table as Si et al. 2025). It bears on [LIT-2329](LIT-2329.md) and [LIT-2318](LIT-2318.md), the theory-building comparisons registered from the same exchange.
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp1q2l4, from https://arxiv.org/pdf/2409.04109; its account is THEORY-tmpcb95r.
+Read in [NOTE-tmp1q2l4](../notes.d/NOTE-tmp1q2l4.md), from https://arxiv.org/pdf/2409.04109; its account is [THEORY-tmpcb95r](../theory.d/THEORY-tmpcb95r.md).

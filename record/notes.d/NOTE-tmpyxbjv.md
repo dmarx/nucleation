@@ -69,26 +69,26 @@ carry: reflections do keep evidence pointers to the memories they were inferred 
 architecture has a rudimentary support relation; what it lacks is anything that changes a
 reflection's standing when its evidence is undercut, or any check on the inference.
 
-- QUESTION-108 (does a structured record beat a summary, transcript or posterior because it retains
+- [QUESTION-108](../questions.d/QUESTION-108.md) (does a structured record beat a summary, transcript or posterior because it retains
   more, because what it retains is easier to reach, or because operations are easier on it?):
   **bears on the second mechanism; leaves the question open.** The memory stream retains
   everything and wins by retrieval: sec. 4.1's argument against summarizing is that a summary loses
   the specific memories, and 6.5.2 and 7.2 show that failures come from retrieval, not retention
   (the memory existed but was not surfaced). The ablation removes memory, reflection and planning
   wholesale, so it does not separate retention from access from operations; it does not test the
-  question's split. A design that does (CASE-091) could take this architecture as its "retrieval
+  question's split. A design that does ([CASE-091](../cases.d/CASE-091.md)) could take this architecture as its "retrieval
   over everything" arm.
 
 Searched the record for Generative Agents, 2304.03442, Smallville, memory stream, MemGPT,
-Reflexion, agent memory. Not held (no LIT by arXiv id or title; NOTE-1091 mentions the paper only
+Reflexion, agent memory. Not held (no LIT by arXiv id or title; [NOTE-1091](NOTE-1091.md) mentions the paper only
 as cited by another work). Missed by the first search:
-- CLAIM-294 (two inquiry histories can agree on every current conclusion and still call for
+- [CLAIM-294](../claims.d/CLAIM-294.md) (two inquiry histories can agree on every current conclusion and still call for
   different revisions): the memory stream keeps the history but no structure of dependence, so a
   reflection whose evidence later changes is not revisited; illustrates what the claim says a
   record must keep beyond conclusions, and that keeping observations is not enough.
-- CASE-091 (memory ablation for revision): this paper's ablation is a believability ablation of the
-  same kind of components, at the coarse grain CASE-091 is designed to refine.
-- CLAIM-184 / SYNTHESIS-015 (a structured record may anchor agents to its existing vocabulary):
+- [CASE-091](../cases.d/CASE-091.md) (memory ablation for revision): this paper's ablation is a believability ablation of the
+  same kind of components, at the coarse grain [CASE-091](../cases.d/CASE-091.md) is designed to refine.
+- [CLAIM-184](../claims.d/CLAIM-184.md) / [SYNTHESIS-015](../syntheses.d/SYNTHESIS-015.md) (a structured record may anchor agents to its existing vocabulary):
   7.2's "overly cooperative" agents whose interests are reshaped by others' suggestions is a
   converse failure (no anchoring at all), not evidence for either side.
 

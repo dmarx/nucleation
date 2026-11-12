@@ -18,7 +18,7 @@ bears_on:
 corroborates:
 - CLAIM-184
 summary: >-
-  The central account of LIT-tmpqhq20, read in NOTE-tmpq7w3k. Proposed until
+  The central account of [LIT-tmpqhq20](../literature.d/LIT-tmpqhq20.md), read in [NOTE-tmpq7w3k](../notes.d/NOTE-tmpq7w3k.md). Proposed until
   its promote_when is met.
 ---
 

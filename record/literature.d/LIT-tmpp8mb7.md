@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpr9b6m) from
+  Read on 2026-11-12 ([NOTE-tmpr9b6m](../notes.d/NOTE-tmpr9b6m.md)) from
   https://ri.conicet.gov.ar/server/api/core/bitstreams/2a5fd086-d679-4cbc-8cc2-0c31ce3bb7f1/content.
 title: 'Towards an argument interchange format'
 version: 2
@@ -52,8 +52,8 @@ Carlos Chesñevar et al. (2006), The Knowledge Engineering Review. DOI 10.1017/S
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on ADR-061 and ADR-032 (the ARG and CLAIM schemes) and QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [ADR-061](../decisions.d/ADR-061.md) and [ADR-032](../decisions.d/ADR-032.md) (the ARG and CLAIM schemes) and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpr9b6m, from https://ri.conicet.gov.ar/server/api/core/bitstreams/2a5fd086-d679-4cbc-8cc2-0c31ce3bb7f1/content; its account is THEORY-tmp6b0ul.
+Read in [NOTE-tmpr9b6m](../notes.d/NOTE-tmpr9b6m.md), from https://ri.conicet.gov.ar/server/api/core/bitstreams/2a5fd086-d679-4cbc-8cc2-0c31ce3bb7f1/content; its account is [THEORY-tmp6b0ul](../theory.d/THEORY-tmp6b0ul.md).

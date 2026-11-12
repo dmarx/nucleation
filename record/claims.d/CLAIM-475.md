@@ -259,6 +259,6 @@ The second paste of the pasted synthesis on resource-bounded realizability propo
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Fang, Jian, Li and Ma** (THEORY-tmp9ispo): **supports the first half, as an instance**. Concepts keep laws concise enough for symbolic regression to find them. The paper's redundancy control speaks to the cost side but does not test the second half.
+- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **supports the first half, as an instance**. Concepts keep laws concise enough for symbolic regression to find them. The paper's redundancy control speaks to the cost side but does not test the second half.
 
 The claim is unchanged.

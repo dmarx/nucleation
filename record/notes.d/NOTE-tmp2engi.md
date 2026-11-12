@@ -27,7 +27,7 @@ summary: >-
   computing all diagnoses given a sound and complete theorem prover for the
   logic.
 ---
-<!-- inactive-ok-file: CASE-tmpvq90k CLAIM-tmp8qsef LIT-tmpjqgyi — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-tmpvq90k CLAIM-tmp8qsef — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: CASE-194 CLAIM-358 CLAIM-541 LIT-1643 LIT-2316 SYNTHESIS-037 THEORY-1239 — Deferred, Proposed, Unavailable; cited for what each holds, not as settled -->
 
 # NOTE-tmp2engi: Reiter — A theory of diagnosis from first principles

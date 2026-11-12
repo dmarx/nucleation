@@ -80,8 +80,8 @@ question of framework choice.
 
 ## Bearing on the record
 
-CLAIM-472's note of 2026-11-12 says A50 §8, "from Carnap's explication and the
-conceptual-engineering literature (LIT-2322, unread)", proposed criteria for a change of the
+[CLAIM-472](../claims.d/CLAIM-472.md)'s note of 2026-11-12 says A50 §8, "from Carnap's explication and the
+conceptual-engineering literature ([LIT-2322](../literature.d/LIT-2322.md), unread)", proposed criteria for a change of the
 record's categories: capture the distinction faithfully, support useful inferences, avoid
 misleading implications, stay intelligible to collaborators, preserve continuity with
 earlier usage, and "these desiderata can conflict". **Partly Carnap's.** "Captures the
@@ -93,20 +93,20 @@ closer to the recent conceptual-engineering literature the entry distinguishes f
 result 3, which was not read). That the desiderata can conflict is Carnap's: similarity may
 be sacrificed for the others (result 8).
 
-- **CLAIM-472** (Proposed; choosing an apparatus is open to evaluation, not only
+- **[CLAIM-472](../claims.d/CLAIM-472.md)** (Proposed; choosing an apparatus is open to evaluation, not only
   verification): *supports the first half, with a source*. Carnap's framework choice is "a
   normative or practical question" with "no right or wrong answers" (result 5), evaluated by
   how frameworks "worked better" for purposes: evaluation, not verification. Carnap's
   explication desiderata are a worked set of evaluation criteria held as matters of degree
   (results 7–8). Qualification: Carnap's "no right or wrong answers" is stronger than
-  CLAIM-472's second half, which indexes exclusions to "a standard, a scale and those
+  [CLAIM-472](../claims.d/CLAIM-472.md)'s second half, which indexes exclusions to "a standard, a scale and those
   affected"; the entry's §1.8 reading (practical reason governs the choice) narrows the gap.
-- **QUESTION-tmps5iou** (Open) and **ADR-061 / CLAIM-419 / SYNTHESIS-012**
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)** (Open) and **[ADR-061](../decisions.d/ADR-061.md) / [CLAIM-419](../claims.d/CLAIM-419.md) / [SYNTHESIS-012](../syntheses.d/SYNTHESIS-012.md)**
   (governed change of the record's own categories): *bears*. Explication as iterated,
   purpose-relative replacement of concepts, with several explicata allowed to coexist
   (result 9), is a philosophical precedent for the record changing its grammar by decision;
   it says nothing about recorded governance or migration.
-- **QUESTION-072** (cited by CLAIM-472's v4 history): not checked in detail.
+- **[QUESTION-072](../questions.d/QUESTION-072.md)** (cited by [CLAIM-472](../claims.d/CLAIM-472.md)'s v4 history): not checked in detail.
 
 ## Limitations
 

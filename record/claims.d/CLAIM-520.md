@@ -110,6 +110,6 @@ No status changes.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Orzechowski, Tawfiq and Kosciolek** (THEORY-tmpxbva2): The paper measures exactly such an audit with a nonzero false-alarm rate, where acting on it sometimes corrupts more than it fixes (the LLM judge) and sometimes nets a small gain (the curated check). Corroborates the conditionality empirically, in one domain.
+- **Orzechowski, Tawfiq and Kosciolek** ([THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md)): The paper measures exactly such an audit with a nonzero false-alarm rate, where acting on it sometimes corrupts more than it fixes (the LLM judge) and sometimes nets a small gain (the curated check). Corroborates the conditionality empirically, in one domain.
 
 The claim is unchanged.

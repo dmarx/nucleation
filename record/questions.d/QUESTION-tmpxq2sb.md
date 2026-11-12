@@ -23,8 +23,7 @@ summary: >-
   question is the owner's; the staging and the baseline are A's, and
   adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-2325 — Deferred; registered from the same exchange, not read -->
-<!-- inactive-ok-file: LIT-tmpmnde8 LIT-tmpwza8d LIT-tmp4pa3f LIT-tmp1bytl — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-tmpwza8d LIT-tmp4pa3f — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: THEORY-402 — Proposed; Pilgrim et al.'s decomposition, cited as open -->
 <!-- inactive-ok-file: TERM-tmp8deza CLAIM-tmpyp3u3 CASE-tmpiocs1 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1399 — Unavailable; cited for what each holds, not as settled -->
@@ -107,7 +106,7 @@ represent of its collaborators' states.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-**The baseline.** Stasser and Titus (1985, THEORY-tmpy4vu1) first reported
+**The baseline.** Stasser and Titus (1985, [THEORY-tmpy4vu1](../theory.d/THEORY-tmpy4vu1.md)) first reported
 the phenomenon the question's tasks rest on. With the information about
 three candidates distributed so that the best one, A, looked best only to
 the group as a whole, "only 18% of the 38 groups in the unshared conditions
@@ -117,7 +116,7 @@ admission. The paper never uses the term "hidden profile", which came
 later.
 
 **The comparator a record must beat.** HiddenBench (Li, Naito and Shirado,
-THEORY-tmp9qlii) localizes the same failure in agent groups: revealing all
+[THEORY-tmp9qlii](../theory.d/THEORY-tmp9qlii.md)) localizes the same failure in agent groups: revealing all
 the facts raises accuracy to 92.6% and 98.2% for the two models, so "the
 failure lies in surfacing information, not reasoning over it". Its
 Secretary arm, a passive summary of what has been disclosed each round,
@@ -125,37 +124,37 @@ scores 0.241 and 0.713: "Passive summarization yields more limited and
 model-dependent gains". A record that holds only what agents choose to post
 is close to that arm. So the record arm must be compared with the Secretary
 arm, not only with chat and the structured protocol, and it can help only by
-changing what gets surfaced. CASE-tmpiocs1's note of 2026-11-12 adds it as the baseline arm.
+changing what gets surfaced. [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)'s note of 2026-11-12 adds it as the baseline arm.
 
 The other readings:
 
-- **Stage.** CooperBench (Khatua, Zhu et al., THEORY-tmp5lktm): a free-text
+- **Stage.** CooperBench (Khatua, Zhu et al., [THEORY-tmp5lktm](../theory.d/THEORY-tmp5lktm.md)): a free-text
   channel between agents with private states cut conflicts without improving
   integration, and failures were of commitment and expectation; agents
   cooperating did about 30% worse than alone in the abstract's figure, "as
   large as 50%" in the leading models (§4). Its failures sit at uptake.
-  Salemi et al. (THEORY-tmp8127k): letting holders of partial evidence
+  Salemi et al. ([THEORY-tmp8127k](../theory.d/THEORY-tmp8127k.md)): letting holders of partial evidence
   answer a broadcast request improves integration, a result at recognition;
   the shared board it tests carries requests, not structured results. Clark
-  and Brennan (THEORY-tmpo3bsd): a record lowers some costs of grounding and
+  and Brennan ([THEORY-tmpo3bsd](../theory.d/THEORY-tmpo3bsd.md)): a record lowers some costs of grounding and
   raises the cost of acknowledgement, which bears on recognition and uptake.
-- **Measurement.** Zhang et al. (THEORY-tmp1vsf5): a task-level score hides
+- **Measurement.** Zhang et al. ([THEORY-tmp1vsf5](../theory.d/THEORY-tmp1vsf5.md)): a task-level score hides
   unmet cross-agent dependencies, which only a per-dependency trace shows;
   coordination machinery helped some models and hurt others. DeChurch and
-  Mesmer-Magnus (THEORY-tmpv6qhj): if a record helps by making members'
+  Mesmer-Magnus ([THEORY-tmpv6qhj](../theory.d/THEORY-tmpv6qhj.md)): if a record helps by making members'
   knowledge converge, only measures of the structure of knowledge detect it;
   agreement ratings do not.
-- **Cautions.** Xie et al. (THEORY-tmp0twjb): agents told to keep structured
+- **Cautions.** Xie et al. ([THEORY-tmp0twjb](../theory.d/THEORY-tmp0twjb.md)): agents told to keep structured
   records of findings gained 1.9 to 2.1 points, evidence summaries 10, in a
-  single agent with an unenforced format. Zhu et al. (THEORY-tmpovyed): more
+  single agent with an unenforced format. Zhu et al. ([THEORY-tmpovyed](../theory.d/THEORY-tmpovyed.md)): more
   agents and longer interaction lowered scores, so team size and compute
-  must be matched. Li, Zoumpoulis et al. (THEORY-tmpmgo6m): crowds of one
+  must be matched. Li, Zoumpoulis et al. ([THEORY-tmpmgo6m](../theory.d/THEORY-tmpmgo6m.md)): crowds of one
   model family gain little from aggregation.
-- **Not new.** Lesser and Erman's Hearsay-II (THEORY-tmpyxqep): a shared
+- **Not new.** Lesser and Erman's Hearsay-II ([THEORY-tmpyxqep](../theory.d/THEORY-tmpyxqep.md)): a shared
   store of typed hypotheses with credibility and support links, written by
   independent contributors, was built and assessed by 1977, as A said; it
   had no distributed evidence and no comparison with a protocol.
-- **Fits poorly.** Wang et al. (LIT-2295, THEORY-tmplr84w) has no
+- **Fits poorly.** Wang et al. ([LIT-2295](../literature.d/LIT-2295.md), [THEORY-tmplr84w](../theory.d/THEORY-tmplr84w.md)) has no
   distributed information; at most it offers a transfer task of questions
   needing facts from several papers.
 

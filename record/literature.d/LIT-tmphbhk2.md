@@ -1,7 +1,7 @@
 ---
 status: Unavailable
 status_note: >-
-  Unavailable on 2026-11-12 (ADR-041): an in-copyright book with no lawful
+  Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): an in-copyright book with no lawful
   open copy found. OpenAlex lists it closed (Oxford Academic,
   https://doi.org/10.1093/0195171276.001.0001); no open chapter was found;
   Chang's 2007 restatement of chapter 5 is closed at Cambridge, and its
@@ -58,8 +58,8 @@ Hasok Chang (2004), Oxford University Press. DOI 10.1093/0195171276.001.0001.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§4) and A51. It bears on CLAIM-470, QUESTION-tmp7a7l4 and CLAIM-472.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§4) and A51. It bears on [CLAIM-470](../claims.d/CLAIM-470.md), [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) and [CLAIM-472](../claims.d/CLAIM-472.md).
 
 ## Reading of 2026-11-12
 
-Unavailable on 2026-11-12 (ADR-041): an in-copyright book with no lawful open copy found. OpenAlex lists it closed (Oxford Academic, https://doi.org/10.1093/0195171276.001.0001); no open chapter was found; Chang's 2007 restatement of chapter 5 is closed at Cambridge, and its PhilArchive record returned a Cloudflare challenge; an open PhilSci-Archive paper applying the idea failed TLS verification. None was retried; whole-book uploads were not sought. Only Jonathan Bain's lecture notes on chapters 5 and 6 (https://research.engineering.nyu.edu/~jbain/heat/Lectures/05.ChangChap5-6.pdf, a faculty course page) were read; being undated slides they are not registered as a work. They outline epistemic iteration and quote its definitions, and do not support A's reading that iteration improves "the means by which the inquiry determines what counts as a good update": in them the virtues that measure progress are given, not revised.
+Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): an in-copyright book with no lawful open copy found. OpenAlex lists it closed (Oxford Academic, https://doi.org/10.1093/0195171276.001.0001); no open chapter was found; Chang's 2007 restatement of chapter 5 is closed at Cambridge, and its PhilArchive record returned a Cloudflare challenge; an open PhilSci-Archive paper applying the idea failed TLS verification. None was retried; whole-book uploads were not sought. Only Jonathan Bain's lecture notes on chapters 5 and 6 (https://research.engineering.nyu.edu/~jbain/heat/Lectures/05.ChangChap5-6.pdf, a faculty course page) were read; being undated slides they are not registered as a work. They outline epistemic iteration and quote its definitions, and do not support A's reading that iteration improves "the means by which the inquiry determines what counts as a good update": in them the virtues that measure progress are given, not revised.

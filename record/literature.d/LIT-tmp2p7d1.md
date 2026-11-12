@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read on 2026-11-12 from Springer's free PDF
   (https://link.springer.com/content/pdf/10.1007/0-387-29773-1_10.pdf).
-  Registered as a stand-in for LIT-tmp4ivms, Apostolou et al. 2011, which no
+  Registered as a stand-in for [LIT-tmp4ivms](LIT-tmp4ivms.md), Apostolou et al. 2011, which no
   lawful copy reached.
 title: 'Configuring E-Government Services Using Ontologies'
 version: 1
@@ -40,7 +40,7 @@ summary: >-
   Organisational - Lifecycle - Domain - Service - LifeEvent - Profile The
   **Lifecycle Ontology** records design decisions and their reasons, and
   models dependencies between the decisions of politicians, managers and
-  developers. Registered on 2026-11-12 as a stand-in for LIT-tmp4ivms; it
+  developers. Registered on 2026-11-12 as a stand-in for [LIT-tmp4ivms](LIT-tmp4ivms.md); it
   describes the same group's OntoGov platform for ontology-based service
   change, an earlier stage of the work; it does not restate the 2011
   article's decision framework or its use of design rationale.
@@ -53,4 +53,4 @@ Dimitris Apostolou, Ljiljana Stojanović, Tomás Pariente Lobo, Jofre Casas Mir�
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-tmp4ivms, which the reading of the works cited in the exchange "luria experiment design" could not reach. it describes the same group's OntoGov platform for ontology-based service change, an earlier stage of the work; it does not restate the 2011 article's decision framework or its use of design rationale.
+Registered on 2026-11-12 as a stand-in for [LIT-tmp4ivms](LIT-tmp4ivms.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it describes the same group's OntoGov platform for ontology-based service change, an earlier stage of the work; it does not restate the 2011 article's decision framework or its use of design rationale.

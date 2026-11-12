@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp56sxk) from
+  Read on 2026-11-12 ([NOTE-tmp56sxk](../notes.d/NOTE-tmp56sxk.md)) from
   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11269175/fullTextXML.
 title: 'AI models collapse when trained on recursively generated data'
 version: 2
@@ -57,8 +57,8 @@ Ilia Shumailov et al. (2024), Nature. DOI 10.1038/s41586-024-07566-y.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A43 (§11). It bears on QUESTION-tmp7a7l4; LIT-971 is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A43 (§11). It bears on [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md); [LIT-971](LIT-971.md) is held.
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp56sxk, from https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11269175/fullTextXML; its account is THEORY-tmp5ac00.
+Read in [NOTE-tmp56sxk](../notes.d/NOTE-tmp56sxk.md), from https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11269175/fullTextXML; its account is [THEORY-tmp5ac00](../theory.d/THEORY-tmp5ac00.md).

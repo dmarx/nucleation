@@ -71,13 +71,13 @@ checker** (false alarms on correct answers; changes of meaning missed entirely).
 inference about LLM judges**: the paper's LLM judge was a comparator, and it caught more errors
 than the ontology checks with similar false alarms; its failing was that acting on its flags did
 more harm than good. So the paper supports no single checker, ontology or LLM, should be trusted
-without measuring its false alarms and the harm of acting on them, which is the lesson CASE-tmppm4do
+without measuring its false alarms and the harm of acting on them, which is the lesson [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)
 draws, but it is evidence about ontology checks and one LLM-judge comparator on SPARQL answers, not
 about judging schema changes.
 
-- CASE-tmppm4do (a proposed study of governed schema adaptation, scored on semantic correction
+- [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) (a proposed study of governed schema adaptation, scored on semantic correction
   without regressions by hidden assertions, not by one LLM judge): **supports the scoring design**.
-  The paper shows a schema-derived checker missing exactly the class of error CASE-tmppm4do cares
+  The paper shows a schema-derived checker missing exactly the class of error [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) cares
   about (changes of meaning), and checks whose flags corrupt correct work when acted on, which
   argues for the case's hidden-assertion oracle with known ground truth and for counting
   regressions. It also supplies a design lesson the case can adopt: compare every checker with a
@@ -85,17 +85,17 @@ about judging schema changes.
 
 Searched the record for 2610.37809, Orzechowski, LLM judge, SHACL/ShEx/SPARQL, false
 alarm/false positive, self-correction. Not held (no duplicate). Missed by the first search:
-- CLAIM-520 (the value of a corrective capacity is conditional: an audit with cost and error rate
+- [CLAIM-520](../claims.d/CLAIM-520.md) (the value of a corrective capacity is conditional: an audit with cost and error rate
   epsilon is worth keeping only under conditions): the paper measures exactly such an audit with a
   nonzero false-alarm rate, where acting on it sometimes corrupts more than it fixes (the LLM
   judge) and sometimes nets a small gain (the curated check). Corroborates the conditionality
   empirically, in one domain.
-- CLAIM-149 (a probe family that trains a transformation cannot certify what it preserves): a
+- [CLAIM-149](../claims.d/CLAIM-149.md) (a probe family that trains a transformation cannot certify what it preserves): a
   parallel lesson; the paper's caution that using the same ontology as context and as check is
   "associated with fewer catches (exploratory)" is a case of a check sharing a blind spot with what
   it checks. Illustrates; exploratory only.
-- CLAIM-419 and QUESTION-tmps5iou: the finding that a curated schema "disagrees with its own data"
-  is the schema-misfit situation CLAIM-419 describes from the record's side; the paper's remedy
+- [CLAIM-419](../claims.d/CLAIM-419.md) and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md): the finding that a curated schema "disagrees with its own data"
+  is the schema-misfit situation [CLAIM-419](../claims.d/CLAIM-419.md) describes from the record's side; the paper's remedy
   (validate the ontology against a data-derived summary before each release) is a governance step.
 
 ## Limitations

@@ -109,16 +109,16 @@ is a justification taken as sufficient, a graph-only rule exists and is
 the truth maintenance system. In Doyle's TMS a node "is believed if at
 least one of these justifications is valid", and a support-list
 justification is valid "if each node in its inlist is in"
-(THEORY-tmpd3j5r); de Kleer's ATMS keeps each datum's label "consistent,
+([THEORY-tmpd3j5r](../theory.d/THEORY-tmpd3j5r.md)); de Kleer's ATMS keeps each datum's label "consistent,
 sound, complete and minimal with respect to the justifications"
-(THEORY-tmpn7ukf). Both are correct relative to justifications the
+([THEORY-tmpn7ukf](../theory.d/THEORY-tmpn7ukf.md)). Both are correct relative to justifications the
 problem solver supplies and stipulates sufficient; neither weighs them.
 Even there the choice of what to withdraw on a contradiction is a choice:
 Doyle's backtracker "may be mistaken in its assignment of blame to that
 assumption". The record's relations are not justifications of that kind.
 `rests_on` names a premise a claim "could not stand without", a necessary
 premise and not a sufficient one, and `corroborates` and `grounds` carry
-evidence of unrecorded strength, which is CASE-089's situation. So the
+evidence of unrecorded strength, which is [CASE-089](../cases.d/CASE-089.md)'s situation. So the
 impossibility holds for the record as configured, and would fail for a
 record whose relations were redefined as sufficient justifications; that
 redefinition, not a cleverer rule, is what a truth-maintenance reading of
@@ -130,7 +130,7 @@ support network and dropped it: in the later configuration "hypothesis
 credibility is never modified in an explicit sense; rather, new and
 different hypotheses are created", since the state held at a hypothesis
 "does not adequately characterize the state(s) of the hypothesis
-network(s) connected to it" (THEORY-tmpyxqep). That is an automatic
+network(s) connected to it" ([THEORY-tmpyxqep](../theory.d/THEORY-tmpyxqep.md)). That is an automatic
 propagation scheme over weighted support given up in use, not a proof
 that none is correct.
 
@@ -154,19 +154,19 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 Version 2 narrows the claim on de Kleer's, Doyle's and the Hearsay-II
 readings; its history says how. The other readings that touch it:
 
-- **Jung et al.** (THEORY-tmpo4vs4): MEME's Absence task is this claim's
+- **Jung et al.** ([THEORY-tmpo4vs4](../theory.d/THEORY-tmpo4vs4.md)): MEME's Absence task is this claim's
   situation, a support changed and no rule saying what follows, where the
   correct state is "uncertain"; its Cascade task is the case where a stated
   rule decides. Systems that fail hold the dependency and never surface it,
   which supports the value of reporting dependants.
-- **Reiter** (THEORY-tmp6koy4) and **Hu, Wang and McAuley**
-  (THEORY-tmp5vepa): a logical rule computes which assumptions to withdraw
+- **Reiter** ([THEORY-tmp6koy4](../theory.d/THEORY-tmp6koy4.md)) and **Hu, Wang and McAuley**
+  ([THEORY-tmp5vepa](../theory.d/THEORY-tmp5vepa.md)): a logical rule computes which assumptions to withdraw
   given a complete system description; a test in which a newer fact
   withdraws an older one measures what the record leaves to judgment.
   Contrast classes, not evidence against the claim.
-- **Xu et al.** (THEORY-tmpkjz86): A-MEM rewrites neighbouring notes
+- **Xu et al.** ([THEORY-tmpkjz86](../theory.d/THEORY-tmpkjz86.md)): A-MEM rewrites neighbouring notes
   automatically, the propagation this claim says the record declines, and
   reports no check of whether the rewrites are right.
-- **Wilie et al.** (THEORY-tmphaoty): Belief-R's items are logical, the
+- **Wilie et al.** ([THEORY-tmphaoty](../theory.d/THEORY-tmphaoty.md)): Belief-R's items are logical, the
   setting where a structural rule suffices; it does not reach weighted
   evidence.

@@ -104,6 +104,6 @@ the grammar and from entrenchment.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Singh** (THEORY-tmpbt97y): Singh's metacommitments that "create a society" and can themselves be operated on are a formal analogue of amendable governing rules.
+- **Singh** ([THEORY-tmpbt97y](../theory.d/THEORY-tmpbt97y.md)): Singh's metacommitments that "create a society" and can themselves be operated on are a formal analogue of amendable governing rules.
 
 The claim is unchanged.

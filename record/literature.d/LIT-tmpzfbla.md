@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp2ws61) from
+  Read on 2026-11-12 ([NOTE-tmp2ws61](../notes.d/NOTE-tmp2ws61.md)) from
   https://storage.imrpress.com/imr/journal/KO/article/504650/1752844805579.pdf.
 title: 'Linking Scholarly Contents: The Design and Construction of an Argumentation Graph'
 version: 2
@@ -55,8 +55,8 @@ Song et al. (2022), Knowledge Organization 49(4). DOI 10.5771/0943-7444-2022-4-2
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3). It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp2ws61, from https://storage.imrpress.com/imr/journal/KO/article/504650/1752844805579.pdf; its account is THEORY-tmp8r2a9.
+Read in [NOTE-tmp2ws61](../notes.d/NOTE-tmp2ws61.md), from https://storage.imrpress.com/imr/journal/KO/article/504650/1752844805579.pdf; its account is [THEORY-tmp8r2a9](../theory.d/THEORY-tmp8r2a9.md).

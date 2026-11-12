@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Skimmed on 2026-11-12 (NOTE-tmpolhl4) from
+  Skimmed on 2026-11-12 ([NOTE-tmpolhl4](../notes.d/NOTE-tmpolhl4.md)) from
   https://typeset.io/pdf/ontology-change-classification-and-survey-4n37nzlmdf.pdf.
 title: 'Ontology change: classification and survey'
 version: 2
@@ -56,8 +56,8 @@ Giorgos Flouris et al. (2008), The Knowledge Engineering Review. DOI 10.1017/S02
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Ontology evolution frameworks — Stojanovic; Flouris et al."). It bears on QUESTION-tmps5iou and CLAIM-419.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Ontology evolution frameworks — Stojanovic; Flouris et al."). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md).
 
 ## Reading of 2026-11-12
 
-Skimmed in NOTE-tmpolhl4, from https://typeset.io/pdf/ontology-change-classification-and-survey-4n37nzlmdf.pdf; its account is THEORY-tmplwnpv.
+Skimmed in [NOTE-tmpolhl4](../notes.d/NOTE-tmpolhl4.md), from https://typeset.io/pdf/ontology-change-classification-and-survey-4n37nzlmdf.pdf; its account is [THEORY-tmplwnpv](../theory.d/THEORY-tmplwnpv.md).

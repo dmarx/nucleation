@@ -18,7 +18,7 @@ corroborates:
 bears_on:
 - QUESTION-tmpxq2sb
 summary: >-
-  The central account of LIT-tmp89y2q, read in NOTE-tmpy2v8a. Proposed until
+  The central account of [LIT-tmp89y2q](../literature.d/LIT-tmp89y2q.md), read in [NOTE-tmpy2v8a](../notes.d/NOTE-tmpy2v8a.md). Proposed until
   its promote_when is met.
 ---
 

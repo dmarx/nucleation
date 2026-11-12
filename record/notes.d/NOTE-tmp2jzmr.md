@@ -78,7 +78,7 @@ members' recall after discussion favours shared, preference-consistent informati
 sampling bias in discussion is inferred. Also, the "solution" is the alternative best supported by
 the pooled information, explicitly not a correct answer.
 
-- QUESTION-tmpxq2sb (does a shared, typed, governed record help agents who hold different parts of
+- [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) (does a shared, typed, governed record help agents who hold different parts of
   the evidence integrate it, beyond a structured protocol, and at which stage?): **supplies the
   baseline phenomenon and a stage answer for unstructured discussion.** The failure Stasser and
   Titus report occurs before credibility: unshared items mostly do not enter (are not admitted to)
@@ -86,25 +86,25 @@ the pooled information, explicitly not a correct answer.
   A record in which every member's items are filed would act at admission; whether it acts at
   uptake is not addressed. The paper also gives the design (shared vs. unshared conditions,
   plurality analysis) a test of the question would reuse. Leaves the question open.
-- CLAIM-403 (admission, recognition, credibility, uptake and revision of standards are separable):
+- [CLAIM-403](../claims.d/CLAIM-403.md) (admission, recognition, credibility, uptake and revision of standards are separable):
   **corroborates the separability of admission from uptake**: even unshared information that is
   held by a group member, and which the member was told might be news, fails to be admitted to
   discussion, and the group decision follows initial preferences. The paper does not separate
   recognition from credibility.
-- LIT-1399 (the hidden-profile meta-analysis, Unavailable) and LIT-2294 (HiddenBench, Deferred):
+- [LIT-1399](../literature.d/LIT-1399.md) (the hidden-profile meta-analysis, Unavailable) and [LIT-2294](../literature.d/LIT-2294.md) (HiddenBench, Deferred):
   this is the original study both build on; it does not stand in for either.
 
 Searched the record for Stasser, the DOI, hidden profile, HiddenBench, unshared,
 information pooling, shared-information bias, common knowledge effect, plurality, social decision
 scheme. Not held (no duplicate). Missed by the first search:
-- LIT-1409 (dissent as a facilitator in hidden profiles, Unfetched) and LIT-1403 ("Knowing others'
+- [LIT-1409](../literature.d/LIT-1409.md) (dissent as a facilitator in hidden profiles, Unfetched) and [LIT-1403](../literature.d/LIT-1403.md) ("Knowing others'
   preferences degrades the quality of group decisions", Unavailable): both continue Stasser and
-  Titus; LIT-1409 tests the conflict idea that this paper's unshared/conflict condition failed to
+  Titus; [LIT-1409](../literature.d/LIT-1409.md) tests the conflict idea that this paper's unshared/conflict condition failed to
   support.
-- LIT-2293 (Superseded duplicate of the meta-analysis).
-- QUESTION-089 and CASE-144 cite hidden profiles; CASE-144 (an evaluator that weights agreeing
+- [LIT-2293](../literature.d/LIT-2293.md) (Superseded duplicate of the meta-analysis).
+- [QUESTION-089](../questions.d/QUESTION-089.md) and [CASE-144](../cases.d/CASE-144.md) cite hidden profiles; [CASE-144](../cases.d/CASE-144.md) (an evaluator that weights agreeing
   evidence) shares the preference-consistent sampling mechanism.
-- THEORY-402 (Pilgrim et al.'s decomposition, cited by QUESTION-tmpxq2sb) and NOTE-055: "a collective
+- [THEORY-402](../theory.d/THEORY-402.md) (Pilgrim et al.'s decomposition, cited by [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)) and [NOTE-055](NOTE-055.md): "a collective
   can hold more resources than any member and still lose them in integration" is the result this
   paper first reported.
 

@@ -70,14 +70,14 @@ The LIT says the review finds that retrieval and idea generation have progressed
 2. The corpus ends in July 2025.
 3. The paper also stresses human checkpoints for revision and the narrowing of hypothesis space. Both bear on a record of inquiry.
 
-**LIT-2306 (Gottweis, Co-Scientist).** Qualifies how it should be read. The review cites Co-Scientist (its ref. 53) and uses it as a case study of a wet-lab-integrated workflow. It also cites the Cell follow-up by Penadés et al. on the cf-PICI tail-hijacking mechanism (ref. 80). The review places Co-Scientist's strength in Explore and Hypothesize, with Test supported by human-run wet-lab validation. That gives a stage map for reading LIT-2306.
+**[LIT-2306](../literature.d/LIT-2306.md) (Gottweis, Co-Scientist).** Qualifies how it should be read. The review cites Co-Scientist (its ref. 53) and uses it as a case study of a wet-lab-integrated workflow. It also cites the Cell follow-up by Penadés et al. on the cf-PICI tail-hijacking mechanism (ref. 80). The review places Co-Scientist's strength in Explore and Hypothesize, with Test supported by human-run wet-lab validation. That gives a stage map for reading [LIT-2306](../literature.d/LIT-2306.md).
 
-**LIT-2289 (Ghareeb, "A multi-agent system for automating scientific discovery").** The review cites Ghareeb et al., "Robin: A multi-agent system for automating scientific discovery" (arXiv 2505.13400, ref. 26). It describes Robin as a lab-in-the-loop with human-executed assays and an LLM judge ranking candidates. So LIT-2289 is the Robin paper, and the review supplies its stage placement.
+**[LIT-2289](../literature.d/LIT-2289.md) (Ghareeb, "A multi-agent system for automating scientific discovery").** The review cites Ghareeb et al., "Robin: A multi-agent system for automating scientific discovery" (arXiv 2505.13400, ref. 26). It describes Robin as a lab-in-the-loop with human-executed assays and an LLM judge ranking candidates. So [LIT-2289](../literature.d/LIT-2289.md) is the Robin paper, and the review supplies its stage placement.
 
-**LIT-2297 (Jansen, "Generating Literature-Driven Scientific Theories at Scale").** The review does not cite this work. It cites a different Jansen paper, CodeScientist (arXiv 2503.22708, ref. 19). The LIT's claim that the review "bears on" LIT-2297 should be weakened to "covers the class of system": literature-driven generation sits in its H1-S3 category.
+**[LIT-2297](../literature.d/LIT-2297.md) (Jansen, "Generating Literature-Driven Scientific Theories at Scale").** The review does not cite this work. It cites a different Jansen paper, CodeScientist (arXiv 2503.22708, ref. 19). The LIT's claim that the review "bears on" [LIT-2297](../literature.d/LIT-2297.md) should be weakened to "covers the class of system": literature-driven generation sits in its H1-S3 category.
 
 **Other bearing.**
-- **QUESTION-tmp7a7l4.** "Feedback-to-revision" as the weakest link directly concerns whether a system improves its inquiry from evidence.
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md).** "Feedback-to-revision" as the weakest link directly concerns whether a system improves its inquiry from evidence.
 - **The record's use as a scaffold.** The review's demand for traceability, evidence linking and an open hypothesis space bears on the record's role as a legible scaffold for inquiry.
 
 ## Limitations

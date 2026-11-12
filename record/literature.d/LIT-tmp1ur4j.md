@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read on 2026-11-12 from AAAI's own open copy
   (https://cdn.aaai.org/AAAI/1987/AAAI87-006.pdf). Registered as a stand-in
-  for LIT-tmp4pa3f, Hayes-Roth 1985, which no lawful copy reached.
+  for [LIT-tmp4pa3f](LIT-tmp4pa3f.md), Hayes-Roth 1985, which no lawful copy reached.
 title: 'Integrating Diverse Reasoning Methods in the BB1 Blackboard Control Architecture'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   a dynamic control plan on the control blackboard. The plan is made of
   strategies, foci and heuristics. **The basic cycle** has three steps: 1.
   Interpret the scheduled knowledge source activation record (KSAR). 2.
-  Registered on 2026-11-12 as a stand-in for LIT-tmp4pa3f; it restates BB1's
+  Registered on 2026-11-12 as a stand-in for [LIT-tmp4pa3f](LIT-tmp4pa3f.md); it restates BB1's
   architecture, the control blackboard and control reasoning, by the same
   author, and extends it; it does not restate the 1985 paper's eight goals
   for intelligent control in full.
@@ -44,4 +44,4 @@ M. Vaughan Johnson Jr. and Barbara Hayes-Roth (1987), Proceedings of AAAI-87, pp
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-tmp4pa3f, which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates BB1's architecture, the control blackboard and control reasoning, by the same author, and extends it; it does not restate the 1985 paper's eight goals for intelligent control in full.
+Registered on 2026-11-12 as a stand-in for [LIT-tmp4pa3f](LIT-tmp4pa3f.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates BB1's architecture, the control blackboard and control reasoning, by the same author, and extends it; it does not restate the 1985 paper's eight goals for intelligent control in full.

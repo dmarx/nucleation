@@ -1,13 +1,13 @@
 ---
 status: Unavailable
 status_note: >-
-  Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Elsevier's
+  Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): no lawful full text found. Elsevier's
   copy (https://doi.org/10.1016/j.giq.2010.03.007) is paywalled; OpenAlex
   marks the work green but lists no repository URL; Semantic Scholar marks
   it closed; the National Technical University of Athens repository
   (https://dspace.lib.ntua.gr/xmlui/handle/123456789/20904) has the record
   and abstract only; a web search found no author upload, course copy or
-  preprint. Apostolou et al.'s 2005 OntoGov paper (LIT-tmp2p7d1) was read
+  preprint. Apostolou et al.'s 2005 OntoGov paper ([LIT-tmp2p7d1](LIT-tmp2p7d1.md)) was read
   in its place and stands in only partly.
 title: 'A collaborative decision framework for managing changes in e-Government services'
 version: 2
@@ -41,7 +41,7 @@ summary: >-
   Information Quarterly 28(1):101–116, DOI 10.1016/j.giq.2010.03.007. An
   ontology-based approach that couples formal consistency checking of
   changes with design-rationale knowledge, per its abstract. Unavailable;
-  the authors' 2005 OntoGov paper (LIT-tmp2p7d1) stands in partly.
+  the authors' 2005 OntoGov paper ([LIT-tmp2p7d1](LIT-tmp2p7d1.md)) stands in partly.
 ---
 
 # LIT-tmp4ivms: A collaborative decision framework for managing changes in e-Government services
@@ -54,8 +54,8 @@ Dimitris Apostolou et al. (2011), Government Information Quarterly. DOI 10.1016/
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
 
 ## Reading of 2026-11-12
 
-Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Elsevier's copy (https://doi.org/10.1016/j.giq.2010.03.007) is paywalled; OpenAlex marks the work green but lists no repository URL; Semantic Scholar marks it closed; the National Technical University of Athens repository (https://dspace.lib.ntua.gr/xmlui/handle/123456789/20904) has the record and abstract only; a web search found no author upload, course copy or preprint. Apostolou et al.'s 2005 OntoGov paper (LIT-tmp2p7d1) was read in its place and stands in only partly. The 2005 OntoGov paper, LIT-tmp2p7d1, stands in partly.
+Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): no lawful full text found. Elsevier's copy (https://doi.org/10.1016/j.giq.2010.03.007) is paywalled; OpenAlex marks the work green but lists no repository URL; Semantic Scholar marks it closed; the National Technical University of Athens repository (https://dspace.lib.ntua.gr/xmlui/handle/123456789/20904) has the record and abstract only; a web search found no author upload, course copy or preprint. Apostolou et al.'s 2005 OntoGov paper ([LIT-tmp2p7d1](LIT-tmp2p7d1.md)) was read in its place and stands in only partly. The 2005 OntoGov paper, [LIT-tmp2p7d1](LIT-tmp2p7d1.md), stands in partly.

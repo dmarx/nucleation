@@ -21,7 +21,7 @@ bounds:
 bears_on:
 - QUESTION-tmps5iou
 summary: >-
-  The central account of LIT-2320, read in NOTE-tmp2l1rj. Proposed until its
+  The central account of [LIT-2320](../literature.d/LIT-2320.md), read in [NOTE-tmp2l1rj](../notes.d/NOTE-tmp2l1rj.md). Proposed until its
   promote_when is met.
 ---
 

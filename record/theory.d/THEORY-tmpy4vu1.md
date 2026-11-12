@@ -17,7 +17,7 @@ bears_on:
 - QUESTION-089
 - QUESTION-tmpxq2sb
 summary: >-
-  The central account of LIT-tmpmnde8, read in NOTE-tmp2jzmr. Proposed until
+  The central account of [LIT-tmpmnde8](../literature.d/LIT-tmpmnde8.md), read in [NOTE-tmp2jzmr](../notes.d/NOTE-tmp2jzmr.md). Proposed until
   its promote_when is met.
 ---
 

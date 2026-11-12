@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp2txvh) from
+  Read on 2026-11-12 ([NOTE-tmp2txvh](../notes.d/NOTE-tmp2txvh.md)) from
   https://wwwbroy.in.tum.de/publ/papers/ECOOP2009_herrmannsdoerfer_cope_automating_coupled.pdf.
 title: 'COPE - Automating Coupled Evolution of Metamodels and Models'
 version: 2
@@ -60,8 +60,8 @@ Markus Herrmannsdoerfer et al. (2009), ECOOP 2009, LNCS. DOI 10.1007/978-3-642-0
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Edapt / coupled metamodel evolution"). It bears on QUESTION-tmps5iou and CASE-tmppm4do.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Edapt / coupled metamodel evolution"). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp2txvh, from https://wwwbroy.in.tum.de/publ/papers/ECOOP2009_herrmannsdoerfer_cope_automating_coupled.pdf; its account is THEORY-tmph4vkf.
+Read in [NOTE-tmp2txvh](../notes.d/NOTE-tmp2txvh.md), from https://wwwbroy.in.tum.de/publ/papers/ECOOP2009_herrmannsdoerfer_cope_automating_coupled.pdf; its account is [THEORY-tmph4vkf](../theory.d/THEORY-tmph4vkf.md).

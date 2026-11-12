@@ -56,11 +56,11 @@ anticipated vs. unanticipated membership change; encoding vs. retrieval phase.
   member does not specialize is evidence for transactive memory as a mediator in the same paradigm,
   not a replication of the 1995 result.
 
-- QUESTION-108: **bears weakly.** Transactive memory here is specialization of who encodes what,
+- [QUESTION-108](../questions.d/QUESTION-108.md): **bears weakly.** Transactive memory here is specialization of who encodes what,
   i.e. a division of retention plus knowledge of where it sits; groups that expect turnover keep
   redundant knowledge instead. A record that makes "who holds what" durable regardless of membership
   would remove the reason to avoid specializing; this is an inference, not tested.
-- CASE-091: leaves open; no memory-format manipulation.
+- [CASE-091](../cases.d/CASE-091.md): leaves open; no memory-format manipulation.
 
 ## Limitations
 

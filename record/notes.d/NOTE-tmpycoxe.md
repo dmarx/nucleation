@@ -26,7 +26,7 @@ summary: >-
   accuracy. Human theories were far more diverse, and human crowds gained
   more from aggregation.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyp3u3 LIT-tmpsxqr6 TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CLAIM-tmpyp3u3 TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: LIT-046 — Proposed; cited for what each holds, not as settled -->
 
 # NOTE-tmpycoxe: Li, Zoumpoulis, Puranam, Parker et al. — Artificial intelligences and human scientists exhibit complementary strengths in theory building
@@ -86,33 +86,33 @@ error-sensitive updating; scientific monoculture.
 
 ## Bearing on the record
 
-- CASE-188's note says A14 reports from LIT-2329, unread, that 'revising a theory
+- [CASE-188](../cases.d/CASE-188.md)'s note says A14 reports from [LIT-2329](../literature.d/LIT-2329.md), unread, that 'revising a theory
   more readily is not necessarily better scientific behavior'. **The quoted sentence is not
   in the paper** (searched; "necessarily" occurs only elsewhere). It is A's gloss. The
   paper's own finding supports a version of it — LLMs revised more, but not in proportion to
   prior error (results 3–6) — while its Discussion also credits the LLMs' readiness to
   discard theories as avoiding "theory-induced blindness" (result 7). One should
   keep the quote attributed to A, and if the note is upgraded, cite results 3–6 instead.
-- LIT-tmpsxqr6 groups LIT-2329 with Si et al. and LIT-2318 as "theory-building
+- [LIT-tmpsxqr6](../literature.d/LIT-tmpsxqr6.md) groups [LIT-2329](../literature.d/LIT-2329.md) with Si et al. and [LIT-2318](../literature.d/LIT-2318.md) as "theory-building
   comparisons". Fair.
 
-- **CASE-188** (Proposed; corrigible resolve vs entrenchment): *supports its distinction
+- **[CASE-188](../cases.d/CASE-188.md)** (Proposed; corrigible resolve vs entrenchment): *supports its distinction
   with evidence*. The paper separates *how much* a theorist revises from *whether revision
   tracks error*: humans showed error-sensitive revision; LLMs showed larger, error-insensitive
-  revision. This is the distinction between corrigibility and mere changeability CASE-188
+  revision. This is the distinction between corrigibility and mere changeability [CASE-188](../cases.d/CASE-188.md)
   wants its diagnostic to draw, measured. Qualifier: one-shot revision, not a long-term
   commitment.
-- **CLAIM-tmpyp3u3** / **TERM-tmp8deza** (a record represents standing, not belief
+- **[CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md)** / **[TERM-tmp8deza](../terms.d/TERM-tmp8deza.md)** (a record represents standing, not belief
   states): *bears*. The authors' speculation that LLMs may "not maintain an explicit belief
   state at all" (result 6) is a reason a record, not the agents' context, would have to
   carry what was previously held for revision to be incremental.
-- **QUESTION-tmpxq2sb** (Open) and **CLAIM-403** (Active): *bears on aggregation*.
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)** (Open) and **[CLAIM-403](../claims.d/CLAIM-403.md)** (Active): *bears on aggregation*.
   Homogeneous LLM crowds gained less from aggregation (results 1, 9); in a team of agents
   from one model family, adding members adds little independent evidence.
-- **LIT-999 / NOTE-840** (Golub & Jackson, wisdom of crowds) and **LIT-046 / NOTE-055**
+- **[LIT-999](../literature.d/LIT-999.md) / [NOTE-840](NOTE-840.md)** (Golub & Jackson, wisdom of crowds) and **[LIT-046](../literature.d/LIT-046.md) / [NOTE-055](NOTE-055.md)**
   (Pilgrim et al., collective intelligence): the diversity–aggregation result is a case of
   the mechanisms those entries hold.
-- **LIT-2326** (Belief-R, read in this batch): complementary: Belief-R finds a trade-off
+- **[LIT-2326](../literature.d/LIT-2326.md)** (Belief-R, read in this batch): complementary: Belief-R finds a trade-off
   between updating and maintaining; this finds LLM revision uncalibrated to error.
 
 ## Limitations

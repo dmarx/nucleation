@@ -17,7 +17,7 @@ corroborates:
 bears_on:
 - QUESTION-388
 summary: >-
-  The central account of LIT-tmp37u5c, skimmed in NOTE-tmp8vzhm. Proposed
+  The central account of [LIT-tmp37u5c](../literature.d/LIT-tmp37u5c.md), skimmed in [NOTE-tmp8vzhm](../notes.d/NOTE-tmp8vzhm.md). Proposed
   until its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmp8vzhm — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

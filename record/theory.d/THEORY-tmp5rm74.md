@@ -18,7 +18,7 @@ promote_when: >-
 bears_on:
 - QUESTION-108
 summary: >-
-  The central account of LIT-tmpiufjk, skimmed in NOTE-tmpyxbjv. Proposed
+  The central account of [LIT-tmpiufjk](../literature.d/LIT-tmpiufjk.md), skimmed in [NOTE-tmpyxbjv](../notes.d/NOTE-tmpyxbjv.md). Proposed
   until its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpyxbjv — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

@@ -1,12 +1,12 @@
 ---
 status: Unavailable
 status_note: >-
-  Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Springer's
+  Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): no lawful full text found. Springer's
   copy (https://doi.org/10.1007/978-3-319-49004-5_20, LNCS 10024) is
   paywalled and listed closed by OpenAlex and Semantic Scholar; Fraunhofer
   Publica's record (https://publica.fraunhofer.de/handle/publica/397215) has
   metadata and abstract only; arXiv has no copy. The group's pages were not
-  searched. The abstract was read. Git4Voc (LIT-tmpusag6), the same
+  searched. The abstract was read. Git4Voc ([LIT-tmpusag6](LIT-tmpusag6.md)), the same
   group's preceding paper, was read in its place.
 title: 'VoCol: An Integrated Environment to Support Version-Controlled Vocabulary Development'
 version: 2
@@ -36,7 +36,7 @@ summary: >-
   Sören Auer, Gökhan Coskun and Steffen Lohmann (2016), VoCol: An Integrated
   Environment to Support Version-Controlled Vocabulary Development, EKAW
   2016, LNCS 10024, DOI 10.1007/978-3-319-49004-5_20. Unavailable; the same
-  group's Git4Voc (LIT-tmpusag6) was read in its place.
+  group's Git4Voc ([LIT-tmpusag6](LIT-tmpusag6.md)) was read in its place.
 ---
 
 # LIT-tmpt3cxh: VoCol: An Integrated Environment to Support Version-Controlled Vocabulary Development
@@ -49,8 +49,8 @@ Lavdim Halilaj et al. (2016), EKAW 2016, LNCS. DOI 10.1007/978-3-319-49004-5_20.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
 
 ## Reading of 2026-11-12
 
-Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Springer's copy (https://doi.org/10.1007/978-3-319-49004-5_20, LNCS 10024) is paywalled and listed closed by OpenAlex and Semantic Scholar; Fraunhofer Publica's record (https://publica.fraunhofer.de/handle/publica/397215) has metadata and abstract only; arXiv has no copy. The group's pages were not searched. The abstract was read. Git4Voc (LIT-tmpusag6), the same group's preceding paper, was read in its place. Git4Voc, LIT-tmpusag6, was read in its place.
+Unavailable on 2026-11-12 ([ADR-041](../decisions.d/ADR-041.md)): no lawful full text found. Springer's copy (https://doi.org/10.1007/978-3-319-49004-5_20, LNCS 10024) is paywalled and listed closed by OpenAlex and Semantic Scholar; Fraunhofer Publica's record (https://publica.fraunhofer.de/handle/publica/397215) has metadata and abstract only; arXiv has no copy. The group's pages were not searched. The abstract was read. Git4Voc ([LIT-tmpusag6](LIT-tmpusag6.md)), the same group's preceding paper, was read in its place. Git4Voc, [LIT-tmpusag6](LIT-tmpusag6.md), was read in its place.

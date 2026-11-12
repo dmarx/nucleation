@@ -25,7 +25,7 @@ summary: >-
   inspirations and hypothesis from 1,386 papers (2024 onward, 12
   disciplines).
 ---
-<!-- inactive-ok-file: CASE-tmpy1ebu LIT-tmpsxqr6 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # NOTE-tmprcy1b: Liu, Yang et al. — ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition
 
@@ -82,14 +82,14 @@ later use: the "sufficient" decomposition is the authors' assumption (results 2�
 the paper itself excludes revision of hypotheses on experimental feedback (result 9), so it
 does not measure theory revision.
 
-The LIT names no code and no new entry cites LIT-2324. Bearings found:
-- **QUESTION-tmp7a7l4 / CASE-tmpy1ebu**: no bearing (single-shot generation, no
+The LIT names no code and no new entry cites [LIT-2324](../literature.d/LIT-2324.md). Bearings found:
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) / [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)**: no bearing (single-shot generation, no
   improvement loop).
-- **LIT-2321 (HypoBench), LIT-2307, LIT-2329, LIT-tmpsxqr6**: a family of AI
+- **[LIT-2321](../literature.d/LIT-2321.md) (HypoBench), [LIT-2307](../literature.d/LIT-2307.md), [LIT-2329](../literature.d/LIT-2329.md), [LIT-tmpsxqr6](../literature.d/LIT-tmpsxqr6.md)**: a family of AI
   hypothesis-generation evaluations; ResearchBench tests generation from literature
   (closer to Si et al.'s ideation than to HypoBench's explanation of data), and excludes
-  feedback-driven updating, which LIT-2329 measures.
-- **CLAIM-266** (Active) and **QUESTION-271** (Open): *leaves open*; the 83% order-driven
+  feedback-driven updating, which [LIT-2329](../literature.d/LIT-2329.md) measures.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (Active) and **[QUESTION-271](../questions.d/QUESTION-271.md)** (Open): *leaves open*; the 83% order-driven
   ranking errors (result 7) are an evaluator-reliability finding that would matter to any
   design using an LLM as hypothesis ranker, but no optimization against the ranker occurs.
 

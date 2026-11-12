@@ -22,8 +22,8 @@ summary: >-
   them is the owner's call.
 ---
 <!-- inactive-ok-file: SYNTHESIS-012 CLAIM-181 ADR-084 — Proposed; the record's own account of its grammar, cited as open -->
-<!-- inactive-ok-file: LIT-2305 LIT-2291 LIT-2320 — Deferred; registered from the same exchange, not read -->
-<!-- inactive-ok-file: LIT-tmp5mdsg LIT-tmpo7zwb LIT-tmpt3cxh LIT-tmptsso9 LIT-tmpk047v LIT-tmp4ivms LIT-tmpp8mb7 LIT-tmp5pucj LIT-tmpzfbla LIT-tmp5rs7c — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2305 LIT-2291 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-tmpt3cxh LIT-tmp4ivms — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CLAIM-tmppk8g6 CASE-tmppm4do — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp8qsef — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: ARG-tmpyprz6 LIT-tmpydrat THEORY-tmp0xnw6 THEORY-tmp1gvjx THEORY-tmp4d13i THEORY-tmp6b0ul THEORY-tmp706lw THEORY-tmp8r2a9 THEORY-tmpd3j5r THEORY-tmpe8wmn THEORY-tmpes8q7 THEORY-tmph4vkf THEORY-tmphxh86 THEORY-tmplwnpv THEORY-tmpm8l7x THEORY-tmpn7ukf THEORY-tmpoy2np THEORY-tmpqb5z0 THEORY-tmpr15xp THEORY-tmptc3ih THEORY-tmptmk90 THEORY-tmpxbva2 THEORY-tmpymq8w — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -129,16 +129,16 @@ describes it:
 
 | System, reading | Rationale or decision recorded | Migration of existing content | Executable checks on change | Authority over the schema |
 |---|---|---|---|---|
-| DILIGENT (Tempich et al., THEORY-tmp0xnw6) | yes: issues, arguments, positions, a board's decision with status and line of reasoning | no: users "may rather reuse" new concepts | no: detection by a reasoner hoped for, not built | yes: a control board |
-| OntoGov (Apostolou et al. 2005, THEORY-tmp1gvjx, in place of LIT-tmp4ivms) | yes: design decisions and their reasons in a lifecycle ontology | change propagated to services through ontology links | yes: automatic identification of inconsistencies | among stakeholders; the meta-ontologies are fixed, so the grammar is not under change |
-| Flouris et al.'s survey (THEORY-tmplwnpv) | changes logged; no rationale with standing | yes: side-effects on dependants determined, a standard step by 2002 | validation of a change, not a gate on content | not addressed |
-| COPE (Herrmannsdoerfer et al., THEORY-tmph4vkf) | a replayable history of operations, no rationale | yes: each metamodel change coupled to a migration of its models | not described | not addressed |
-| KGCL with Ontobot (Hegde et al., THEORY-tmpe8wmn) | a change request and a diff, not why | content changes, not schema | none described | yes: a curator approves the merge |
-| EvoOntology (Chong et al., THEORY-tmp4d13i) | a typed change with its expected effect; rejections logged | no: schema edits leave instantiated content unchanged | yes: a paired evaluation gate | only the automatic gate |
-| Git4Voc (Halilaj et al., THEORY-tmp706lw, in place of VoCol) | reasons by convention in issues and commits | diffs and releases, no migration | yes: validation hooks refuse a commit | yes: roles |
-| WebProtégé (Tudorache et al., THEORY-tmphxh86) | discussion attached to the entity, not required | no | form-value validation only | yes: permissions by access policy |
-| OBO Foundry principles (Jackson et al., THEORY-tmpm8l7x) | rule changes discussed in issues; a standing governance body; no decision record per change | no migration of members' content | yes: conformance checks, reported rather than enforced | yes: a standing governance body |
-| AIF (Chesñevar et al., THEORY-tmp6b0ul) | none: the core is to evolve "as consensus changes", with no mechanism stated | not addressed | not addressed | left open |
+| DILIGENT (Tempich et al., [THEORY-tmp0xnw6](../theory.d/THEORY-tmp0xnw6.md)) | yes: issues, arguments, positions, a board's decision with status and line of reasoning | no: users "may rather reuse" new concepts | no: detection by a reasoner hoped for, not built | yes: a control board |
+| OntoGov (Apostolou et al. 2005, [THEORY-tmp1gvjx](../theory.d/THEORY-tmp1gvjx.md), in place of [LIT-tmp4ivms](../literature.d/LIT-tmp4ivms.md)) | yes: design decisions and their reasons in a lifecycle ontology | change propagated to services through ontology links | yes: automatic identification of inconsistencies | among stakeholders; the meta-ontologies are fixed, so the grammar is not under change |
+| Flouris et al.'s survey ([THEORY-tmplwnpv](../theory.d/THEORY-tmplwnpv.md)) | changes logged; no rationale with standing | yes: side-effects on dependants determined, a standard step by 2002 | validation of a change, not a gate on content | not addressed |
+| COPE (Herrmannsdoerfer et al., [THEORY-tmph4vkf](../theory.d/THEORY-tmph4vkf.md)) | a replayable history of operations, no rationale | yes: each metamodel change coupled to a migration of its models | not described | not addressed |
+| KGCL with Ontobot (Hegde et al., [THEORY-tmpe8wmn](../theory.d/THEORY-tmpe8wmn.md)) | a change request and a diff, not why | content changes, not schema | none described | yes: a curator approves the merge |
+| EvoOntology (Chong et al., [THEORY-tmp4d13i](../theory.d/THEORY-tmp4d13i.md)) | a typed change with its expected effect; rejections logged | no: schema edits leave instantiated content unchanged | yes: a paired evaluation gate | only the automatic gate |
+| Git4Voc (Halilaj et al., [THEORY-tmp706lw](../theory.d/THEORY-tmp706lw.md), in place of VoCol) | reasons by convention in issues and commits | diffs and releases, no migration | yes: validation hooks refuse a commit | yes: roles |
+| WebProtégé (Tudorache et al., [THEORY-tmphxh86](../theory.d/THEORY-tmphxh86.md)) | discussion attached to the entity, not required | no | form-value validation only | yes: permissions by access policy |
+| OBO Foundry principles (Jackson et al., [THEORY-tmpm8l7x](../theory.d/THEORY-tmpm8l7x.md)) | rule changes discussed in issues; a standing governance body; no decision record per change | no migration of members' content | yes: conformance checks, reported rather than enforced | yes: a standing governance body |
+| AIF (Chesñevar et al., [THEORY-tmp6b0ul](../theory.d/THEORY-tmp6b0ul.md)) | none: the core is to evolve "as consensus changes", with no mechanism stated | not addressed | not addressed | left open |
 
 No system read couples all four, so the readings do not answer part 1
 "no". Each coupling exists somewhere: recorded decisions with reasons in
@@ -151,40 +151,40 @@ that the schema change cites, changed by the same process as the content it
 governs, with the migration landing in the same change. That is the narrower
 form A22's candidate answer would have to take. Part 2 is untouched: none
 varies governance against performance-gating, and EvoOntology is the
-performance-gated comparator a study of it needs (ARG-tmpyprz6).
+performance-gated comparator a study of it needs ([ARG-tmpyprz6](../arguments.d/ARG-tmpyprz6.md)).
 
 The rest of what was read sets the comparison class or frames it:
 
-- **Self-adaptive architecture.** Kephart and Chess (THEORY-tmptc3ih)
+- **Self-adaptive architecture.** Kephart and Chess ([THEORY-tmptc3ih](../theory.d/THEORY-tmptc3ih.md))
   couple change to regression tests and reversion and give elements
   authority relations, but what is self-managed is configuration under
   fixed human policy, and the goals are revised outside the loop. The
   paper describes a monitor, analyze, plan and execute loop over
   knowledge; it never uses the name "MAPE-K", which came later, so the
   section above now says autonomic computing's control loop. Bencomo et
-  al.'s survey of models at run time (THEORY-tmpr15xp, for LIT-2305) has
+  al.'s survey of models at run time ([THEORY-tmpr15xp](../theory.d/THEORY-tmpr15xp.md), for [LIT-2305](../literature.d/LIT-2305.md)) has
   no governance among its dimensions.
 - **Argument and claim representation.** Micropublications
-  (THEORY-tmpes8q7), Song et al.'s argument graph (THEORY-tmp8r2a9) and
-  ORKG (THEORY-tmpoy2np) represent claims and support with a fixed or
+  ([THEORY-tmpes8q7](../theory.d/THEORY-tmpes8q7.md)), Song et al.'s argument graph ([THEORY-tmp8r2a9](../theory.d/THEORY-tmp8r2a9.md)) and
+  ORKG ([THEORY-tmpoy2np](../theory.d/THEORY-tmpoy2np.md)) represent claims and support with a fixed or
   nearly absent schema and no process for changing it. Doyle's and de
-  Kleer's truth maintenance (THEORY-tmpd3j5r, THEORY-tmpn7ukf) maintain
-  belief over a fixed vocabulary; against them CLAIM-tmp8qsef, now
+  Kleer's truth maintenance ([THEORY-tmpd3j5r](../theory.d/THEORY-tmpd3j5r.md), [THEORY-tmpn7ukf](../theory.d/THEORY-tmpn7ukf.md)) maintain
+  belief over a fixed vocabulary; against them [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md), now
   narrowed, says what the record does not compute.
-- **Levels of rule.** Polski and Ostrom (THEORY-tmpymq8w) supply the frame
+- **Levels of rule.** Polski and Ostrom ([THEORY-tmpymq8w](../theory.d/THEORY-tmpymq8w.md)) supply the frame
   A50 used, and a test the readings suggest: whether practice tracks the
   recorded decisions, their rules-in-use against rules-in-form.
 - **Precedent and data.** Leitgeb and Carus on Carnap's explication
-  (THEORY-tmptmk90) are a philosophical precedent for replacing concepts by
+  ([THEORY-tmptmk90](../theory.d/THEORY-tmptmk90.md)) are a philosophical precedent for replacing concepts by
   decision, purpose by purpose, with rivals allowed to coexist.
-  Orzechowski et al. (THEORY-tmpxbva2) find a curated schema that
+  Orzechowski et al. ([THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md)) find a curated schema that
   "disagrees with its own data", and validate the ontology against a
   data-derived summary before each release, a governance step without a
-  decision record. The TRACE-OU benchmark (THEORY-tmpqb5z0) scores accept,
+  decision record. The TRACE-OU benchmark ([THEORY-tmpqb5z0](../theory.d/THEORY-tmpqb5z0.md)) scores accept,
   modify and reject decisions on proposals under written rules, with no
   rationale or migration.
 
 Two corrections to the section above. COPE's paper never names Edapt; that
 COPE became Eclipse Edapt is known from outside it. A's bare "Stojanovic" at
 A22 is most likely Stojanovic et al. 2002, named by Flouris et al. and now
-registered (LIT-tmpydrat, not read). The question is unchanged.
+registered ([LIT-tmpydrat](../literature.d/LIT-tmpydrat.md), not read). The question is unchanged.

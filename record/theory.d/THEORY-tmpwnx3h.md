@@ -13,7 +13,7 @@ promote_when: >-
   hit ratios above 40% at 4% retention, and that most ranking errors arise
   from comparison order rather than content.
 summary: >-
-  The central account of LIT-2324, skimmed in NOTE-tmprcy1b. Proposed until
+  The central account of [LIT-2324](../literature.d/LIT-2324.md), skimmed in [NOTE-tmprcy1b](../notes.d/NOTE-tmprcy1b.md). Proposed until
   its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmprcy1b — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

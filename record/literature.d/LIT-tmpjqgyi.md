@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp3iwtu) from
+  Read on 2026-11-12 ([NOTE-tmp3iwtu](../notes.d/NOTE-tmp3iwtu.md)) from
   https://www.cambridge.org/core/services/aop-cambridge-core/content/view/648E80BC561C35DA399AA88BFB222C39/S0887536722000046a.pdf/div-class-title-hermeneutical-injustice-distortion-and-conceptual-aptness-div.pdf.
 title: 'Hermeneutical Injustice: Distortion and Conceptual Aptness'
 version: 2
@@ -51,8 +51,8 @@ Arianna Falbo (2022), Hypatia. DOI 10.1017/hyp.2022.4.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§8). It bears on QUESTION-072 and CLAIM-403; LIT-1004 (Fricker) is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§8). It bears on [QUESTION-072](../questions.d/QUESTION-072.md) and [CLAIM-403](../claims.d/CLAIM-403.md); [LIT-1004](LIT-1004.md) (Fricker) is held.
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp3iwtu, from https://www.cambridge.org/core/services/aop-cambridge-core/content/view/648E80BC561C35DA399AA88BFB222C39/S0887536722000046a.pdf/div-class-title-hermeneutical-injustice-distortion-and-conceptual-aptness-div.pdf; its account is THEORY-tmp0t4ni.
+Read in [NOTE-tmp3iwtu](../notes.d/NOTE-tmp3iwtu.md), from https://www.cambridge.org/core/services/aop-cambridge-core/content/view/648E80BC561C35DA399AA88BFB222C39/S0887536722000046a.pdf/div-class-title-hermeneutical-injustice-distortion-and-conceptual-aptness-div.pdf; its account is [THEORY-tmp0t4ni](../theory.d/THEORY-tmp0t4ni.md).

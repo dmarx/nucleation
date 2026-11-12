@@ -18,7 +18,7 @@ bears_on:
 corroborates:
 - CLAIM-tmpyp3u3
 summary: >-
-  The central account of LIT-2325, read in NOTE-tmpp7l8p. Proposed until its
+  The central account of [LIT-2325](../literature.d/LIT-2325.md), read in [NOTE-tmpp7l8p](../notes.d/NOTE-tmpp7l8p.md). Proposed until its
   promote_when is met.
 ---
 

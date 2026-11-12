@@ -61,7 +61,7 @@ summary: >-
    are functioning correctly. A contradiction implies that some assumption is violated";
    the program "requires that the assumptions of an inference be explicitly available and
    that multiple contradictory propagations be simultaneously present in the database." Its
-   successor troubleshooter handling multiple faults is reference [11] (= LIT-2316).
+   successor troubleshooter handling multiple faults is reference [11] (= [LIT-2316](../literature.d/LIT-2316.md)).
 7. §3.2, p. 138, the single-state problem: conventional TMSs allow one solution at a time,
    which makes comparing equally plausible solutions hard, yet "this is often exactly what
    one wants to do in problem solving—differential diagnosis to determine the best
@@ -103,39 +103,39 @@ single-state problem; node class; problem-solver–TMS interface protocol.
 
 ## Bearing on the record
 
-The exchange cited it (per CLAIM-tmp8qsef, from A50 §7) as a truth maintenance system
+The exchange cited it (per [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md), from A50 §7) as a truth maintenance system
 that, unlike the record, "computes the new belief set". Accurate in kind: the ATMS
 computes, for every datum, exactly the contexts in which it holds, from the justifications
 alone. One refinement the record should carry: the ATMS does not "withdraw" beliefs in the
 AGM sense either; it keeps all data and lets the problem solver choose the context, and it
 treats retraction of a justification as something to avoid (result 11).
 
-- **CLAIM-tmp8qsef** (Proposed): *qualifies*.
+- **[CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** (Proposed): *qualifies*.
   It supports the contrast the claim draws (a TMS computes which data hold; the record only
   reports dependants). But it also shows where the impossibility half needs its scope stated:
   for edges read as Horn justifications (deductive, all-or-nothing), a rule reading only the
   justification graph and which assumptions are retired *does* compute correctly which
-  conclusions still hold (results 2, 4, 10). CLAIM-293's counterexample works because the
+  conclusions still hold (results 2, 4, 10). [CLAIM-293](../claims.d/CLAIM-293.md)'s counterexample works because the
   record's support edges carry evidence of unrecorded strength, not entailment. The claim's
-  defeat clause already confines it to "CASE-089's worlds"; one may want the body to
+  defeat clause already confines it to "[CASE-089](../cases.d/CASE-089.md)'s worlds"; one may want the body to
   say that a graph whose edges are entailments is the case where a graph-only rule suffices,
   and that `rests_on` ("could not stand without") states a necessary premise, not a
   sufficient justification. Also relevant: de Kleer's "the only reasonable way to retract a
   justification" is to contradict an assumption, not delete it (result 11) — the same design
   as the record's "retire by status, never by deletion".
-- **CLAIM-293** (Active): *supports by contrast*: the ATMS's correctness rests on edges being
+- **[CLAIM-293](../claims.d/CLAIM-293.md)** (Active): *supports by contrast*: the ATMS's correctness rests on edges being
   Horn implications; where they are, topology does fix revision. This is the boundary
-  condition of CLAIM-293, not a counterexample to it.
-- **QUESTION-tmps5iou** (Open): *leaves open*. The paper concerns belief maintenance
+  condition of [CLAIM-293](../claims.d/CLAIM-293.md), not a counterexample to it.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)** (Open): *leaves open*. The paper concerns belief maintenance
   over a fixed vocabulary, not schema change; it names no governed change of the problem
   solver's categories. It is prior art for "truth maintenance", against which
-  CLAIM-tmp8qsef says what the record does not do, as the question says.
-- **CASE-tmpvq90k** (Proposed; one symptom, several hidden causes) and **CASE-194**
+  [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md) says what the record does not do, as the question says.
+- **[CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)** (Proposed; one symptom, several hidden causes) and **[CASE-194](../cases.d/CASE-194.md)**
   (Proposed): *bears*. Assumption-based diagnosis (components assumed working; a
   contradiction localizes the fault set; next measurement chosen to discriminate among
   unverified assumptions, result 6) and keeping rival solutions side by side for
   "differential diagnosis" (result 7) are the classical machinery for the diagnose-before-
-  repair task those cases propose. Its multi-fault successor is LIT-2316 (Deferred).
+  repair task those cases propose. Its multi-fault successor is [LIT-2316](../literature.d/LIT-2316.md) (Deferred).
 
 ## Limitations
 

@@ -55,7 +55,6 @@ summary: >-
 bears_on:
 - QUESTION-260
 ---
-<!-- inactive-ok-file: LIT-tmpo6ko1 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2330 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-tmpv6qhj — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -137,6 +136,6 @@ results suggest it mediates Luria's benefits." The case is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **DeChurch and Mesmer-Magnus** (THEORY-tmpv6qhj): **supports a measurement constraint on the design and qualifies "shared interpretation" as an outcome.** The case's own risk is that a shared perspective "will simply mean correlated responses". DeChurch and Mesmer-Magnus show that agreement-style and rating-scale measures of sharedness (closest to "correlated responses") do not predict team process, while structural similarity does. So a test of CASE-145 should measure the structure of agents' interpretations (relations among categories), not only agreement on responses, if it wants a sharedness measure that tracks interaction. It does not bear on the collective-agency half of the case.
+- **DeChurch and Mesmer-Magnus** ([THEORY-tmpv6qhj](../theory.d/THEORY-tmpv6qhj.md)): **supports a measurement constraint on the design and qualifies "shared interpretation" as an outcome.** The case's own risk is that a shared perspective "will simply mean correlated responses". DeChurch and Mesmer-Magnus show that agreement-style and rating-scale measures of sharedness (closest to "correlated responses") do not predict team process, while structural similarity does. So a test of CASE-145 should measure the structure of agents' interpretations (relations among categories), not only agreement on responses, if it wants a sharedness measure that tracks interaction. It does not bear on the collective-agency half of the case.
 
 The case is unchanged.

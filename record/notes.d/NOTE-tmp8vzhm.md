@@ -80,20 +80,20 @@ arXiv paper as a location of the PNAS work. The PNAS article's text was not seen
 results it keeps, and whether it changes any claim, is unknown. Treat statements below as
 the preprint's.
 
-- **CLAIM-266** (Active; the probes that supply the training signal cannot certify what the
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (Active; the probes that supply the training signal cannot certify what the
   system preserves): *supports with instances*: the evaluator is the training signal, and
   the system exploited its leaks (result 7); the authors' remedies are better-designed
   verifiers (one problem contrasts a fast floating-point "leaky" verifier with a slower
   rational-arithmetic one, §6, p. ~38) and, in rare cases, proof and formalization (result 4).
-- **CASE-tmpy1ebu** (Proposed; outer evaluation boundary) and **LIT-2286 /
-  LIT-2276** (reward hacking, Deferred): another observed case of an optimizer exploiting
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (Proposed; outer evaluation boundary) and **[LIT-2286](../literature.d/LIT-2286.md) /
+  [LIT-2276](../literature.d/LIT-2276.md)** (reward hacking, Deferred): another observed case of an optimizer exploiting
   its evaluator; the authors' remedy is the outer boundary (human-designed, fixed
-  verifier), the same control CASE-tmpy1ebu specifies.
-- **LIT-2327** (DGM, read in this batch): the same pattern ("objective hacking"); both
+  verifier), the same control [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) specifies.
+- **[LIT-2327](../literature.d/LIT-2327.md)** (DGM, read in this batch): the same pattern ("objective hacking"); both
   systems keep the evaluator outside what the optimizer may change.
-- **QUESTION-388** (Open): result 3 (optimizing the search procedure) is reconfiguration of
+- **[QUESTION-388](../questions.d/QUESTION-388.md)** (Open): result 3 (optimizing the search procedure) is reconfiguration of
   the improver within a fixed evaluation frame.
-- **LIT-2329 / LIT-2321 / LIT-2324**: the AI-discovery cluster; this work contrasts with
+- **[LIT-2329](../literature.d/LIT-2329.md) / [LIT-2321](../literature.d/LIT-2321.md) / [LIT-2324](../literature.d/LIT-2324.md)**: the AI-discovery cluster; this work contrasts with
   them in having machine-checkable scores.
 
 ## Limitations

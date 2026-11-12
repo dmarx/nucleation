@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpy2v8a) from
+  Read on 2026-11-12 ([NOTE-tmpy2v8a](../notes.d/NOTE-tmpy2v8a.md)) from
   https://www.ffri.hr/~ibrdar/komunikacija/seminari/Clark,%201991%20-%20Grounding%20in%20communication(ch.
 title: 'Grounding in communication'
 version: 2
@@ -48,8 +48,8 @@ Herbert H. Clark and Susan E. Brennan (1991), in Perspectives on Socially Shared
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A32 (§4). It bears on TERM-tmp8deza and CLAIM-tmpyp3u3.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A32 (§4). It bears on [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) and [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpy2v8a, from https://www.ffri.hr/~ibrdar/komunikacija/seminari/Clark,%201991%20-%20Grounding%20in%20communication(ch; its account is THEORY-tmpo3bsd.
+Read in [NOTE-tmpy2v8a](../notes.d/NOTE-tmpy2v8a.md), from https://www.ffri.hr/~ibrdar/komunikacija/seminari/Clark,%201991%20-%20Grounding%20in%20communication(ch; its account is [THEORY-tmpo3bsd](../theory.d/THEORY-tmpo3bsd.md).

@@ -24,7 +24,6 @@ summary: >-
   tasks, whose generating rules are known, are scored by hypothesis
   discovery rate (HDR). Four LLMs × six methods are compared.
 ---
-<!-- inactive-ok-file: LIT-tmpsxqr6 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # NOTE-tmpv5794: Liu, Huang, Hu, Zhou and Tan — HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation
 
@@ -87,19 +86,19 @@ generation). Nothing in the record states a finding from it, so there is nothing
 correct. The curation left A14's survey framing unfiled for want of reading; this reading
 supplies the work's own account.
 
-The LIT names no code and no new entry cites LIT-2321. Bearings found:
-- **LIT-2307** (Deferred; "From Scientific Observations to Mechanisms: Benchmarking
+The LIT names no code and no new entry cites [LIT-2321](../literature.d/LIT-2321.md). Bearings found:
+- **[LIT-2307](../literature.d/LIT-2307.md)** (Deferred; "From Scientific Observations to Mechanisms: Benchmarking
   Hypothesis Generation"): a sibling benchmark from the same exchange; HypoBench's
   observation-to-explanation definition is the same framing. Leaves open.
-- **LIT-tmpsxqr6** (Si et al., Deferred) and **LIT-2329** (Li et al.): HypoBench
+- **[LIT-tmpsxqr6](../literature.d/LIT-tmpsxqr6.md)** (Si et al., Deferred) and **[LIT-2329](../literature.d/LIT-2329.md)** (Li et al.): HypoBench
   explicitly separates its task from Si et al.'s ideation (result 3), which matters for how
   the record groups the "AI theory-building" works: Si et al. rate ideas, HypoBench and
   Li et al. score explanations against data.
-- **CLAIM-266** (Active; probes that train cannot certify): *leaves open*, but HypoBench's
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (Active; probes that train cannot certify): *leaves open*, but HypoBench's
   own caution that LLM-judged novelty is unvalidated (result 9) is an instance of the
-  measurement problem CLAIM-266's line is about; no optimization against the probes occurs
+  measurement problem [CLAIM-266](../claims.d/CLAIM-266.md)'s line is about; no optimization against the probes occurs
   here.
-- **QUESTION-tmps5iou / tmp7a7l4 / tmpxq2sb**: no bearing found.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) / tmp7a7l4 / tmpxq2sb**: no bearing found.
 
 ## Limitations
 

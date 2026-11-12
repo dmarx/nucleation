@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpu7bj7) from https://arxiv.org/pdf/2404.16130.
+  Read on 2026-11-12 ([NOTE-tmpu7bj7](../notes.d/NOTE-tmpu7bj7.md)) from https://arxiv.org/pdf/2404.16130.
 title: 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization'
 version: 2
 history:
@@ -56,8 +56,8 @@ Darren Edge et al. (2024). arXiv 2404.16130.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3, as "GraphRAG"). It bears on QUESTION-108.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3, as "GraphRAG"). It bears on [QUESTION-108](../questions.d/QUESTION-108.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpu7bj7, from https://arxiv.org/pdf/2404.16130; its account is THEORY-tmpol9my.
+Read in [NOTE-tmpu7bj7](../notes.d/NOTE-tmpu7bj7.md), from https://arxiv.org/pdf/2404.16130; its account is [THEORY-tmpol9my](../theory.d/THEORY-tmpol9my.md).

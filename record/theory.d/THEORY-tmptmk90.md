@@ -18,7 +18,7 @@ bears_on:
 corroborates:
 - CLAIM-472
 summary: >-
-  The central account of LIT-2322, skimmed in NOTE-tmp970xq. Proposed until
+  The central account of [LIT-2322](../literature.d/LIT-2322.md), skimmed in [NOTE-tmp970xq](../notes.d/NOTE-tmp970xq.md). Proposed until
   its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmp970xq — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

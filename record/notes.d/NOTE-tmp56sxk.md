@@ -67,11 +67,11 @@ Three refinements:
 
 A's proposed record analogues are A's own extrapolations: loss of source diversity, derivative claims cited as independent evidence, narrowing categories. The paper discusses none of them. Its nearest point is tail loss, the disappearance of rare events.
 
-- **QUESTION-tmp7a7l4** (recursive improvement of a collective's inquiry without losing failure detection): **qualifies.**
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)** (recursive improvement of a collective's inquiry without losing failure detection): **qualifies.**
   - It supplies a mechanism by which recursive self-training loses rare cases. An inheriting collective would need to guard against that.
   - The mechanism depends on replacement and on the absence of access to originals. A record that keeps sources and cites them limits the analogy.
   - The paper gives no evidence about records or collectives.
-- **LIT-971** (Gerstgrasser et al., held): **qualified by it, and the two should be read together.**
+- **[LIT-971](../literature.d/LIT-971.md)** (Gerstgrasser et al., held): **qualified by it, and the two should be read together.**
   - Gerstgrasser et al. show that accumulation rather than replacement avoids collapse.
   - Shumailov et al.'s own 10%-retention arm points the same way.
   - Together they give the condition under which the caution applies.

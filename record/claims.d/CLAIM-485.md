@@ -122,6 +122,6 @@ the other side.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Yin et al.** (THEORY-tmpsuvav): **leaves open**: the agent rewrites its procedures, not the objective or the evaluator, so it is evidence about reprogramming, not revision of governing standards.
+- **Yin et al.** ([THEORY-tmpsuvav](../theory.d/THEORY-tmpsuvav.md)): **leaves open**: the agent rewrites its procedures, not the objective or the evaluator, so it is evidence about reprogramming, not revision of governing standards.
 
 The claim is unchanged.

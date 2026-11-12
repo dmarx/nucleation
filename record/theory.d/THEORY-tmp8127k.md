@@ -17,7 +17,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmpxq2sb
 summary: >-
-  The central account of LIT-tmp1bytl, read in NOTE-tmpncpcu. Proposed until
+  The central account of [LIT-tmp1bytl](../literature.d/LIT-tmp1bytl.md), read in [NOTE-tmpncpcu](../notes.d/NOTE-tmpncpcu.md). Proposed until
   its promote_when is met.
 ---
 

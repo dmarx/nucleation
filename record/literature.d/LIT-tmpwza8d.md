@@ -1,12 +1,12 @@
 ---
 status: Unfetched
 status_note: >-
-  Unfetched on 2026-11-12 (ADR-053): ACM's free copy at
+  Unfetched on 2026-11-12 ([ADR-053](../decisions.d/ADR-053.md)): ACM's free copy at
   https://dl.acm.org/doi/pdf/10.1145/356810.356816, open per OpenAlex and
   Semantic Scholar, returned a Cloudflare challenge (HTTP 403); CiteSeerX
   redirected to the Internet Archive, whose connection was reset. Neither
   was retried; the owner may allow dl.acm.org or supply a copy. Lesser and
-  Erman's retrospective of the architecture (IJCAI-77, LIT-tmpsj7au)
+  Erman's retrospective of the architecture (IJCAI-77, [LIT-tmpsj7au](LIT-tmpsj7au.md))
   was read in its place.
 title: 'The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty'
 version: 2
@@ -35,7 +35,7 @@ summary: >-
   (1980), The Hearsay-II Speech-Understanding System, ACM Computing Surveys
   12(2), DOI 10.1145/356810.356816. Independent knowledge sources
   cooperating through a shared blackboard of hypotheses. Unfetched; Lesser
-  and Erman's retrospective (LIT-tmpsj7au) was read in its place.
+  and Erman's retrospective ([LIT-tmpsj7au](LIT-tmpsj7au.md)) was read in its place.
 ---
 
 # LIT-tmpwza8d: The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty
@@ -48,8 +48,8 @@ Lee D. Erman et al. (1980), ACM Computing Surveys. DOI 10.1145/356810.356816.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on QUESTION-tmpxq2sb.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).
 
 ## Reading of 2026-11-12
 
-Unfetched on 2026-11-12 (ADR-053): ACM's free copy at https://dl.acm.org/doi/pdf/10.1145/356810.356816, open per OpenAlex and Semantic Scholar, returned a Cloudflare challenge (HTTP 403); CiteSeerX redirected to the Internet Archive, whose connection was reset. Neither was retried; the owner may allow dl.acm.org or supply a copy. Lesser and Erman's retrospective of the architecture (IJCAI-77, LIT-tmpsj7au) was read in its place. Lesser and Erman's retrospective, LIT-tmpsj7au, was read in its place.
+Unfetched on 2026-11-12 ([ADR-053](../decisions.d/ADR-053.md)): ACM's free copy at https://dl.acm.org/doi/pdf/10.1145/356810.356816, open per OpenAlex and Semantic Scholar, returned a Cloudflare challenge (HTTP 403); CiteSeerX redirected to the Internet Archive, whose connection was reset. Neither was retried; the owner may allow dl.acm.org or supply a copy. Lesser and Erman's retrospective of the architecture (IJCAI-77, [LIT-tmpsj7au](LIT-tmpsj7au.md)) was read in its place. Lesser and Erman's retrospective, [LIT-tmpsj7au](LIT-tmpsj7au.md), was read in its place.

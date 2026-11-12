@@ -73,25 +73,25 @@ vs alternative premises.
 
 ## Bearing on the record
 
-CASE-188's note of 2026-11-12 says A39 cited Belief-R for "models that update
+[CASE-188](../cases.d/CASE-188.md)'s note of 2026-11-12 says A39 cited Belief-R for "models that update
 readily may perform worse when no update is needed". **Accurate**: result 1 and result 6
 say this (the paper's "models adept at updating often underperformed in scenarios without
 necessary updates"). A's wording is a fair paraphrase; one should quote the paper,
 not A, if the note is upgraded.
 
-- **CASE-188** (Proposed; corrigible resolve vs entrenchment): *supports the design point*.
+- **[CASE-188](../cases.d/CASE-188.md)** (Proposed; corrigible resolve vs entrenchment): *supports the design point*.
   Belief-R's paired update/maintain subsets with an equally weighted score are a working
   instance of scoring "when to revise" without rewarding always-revise or never-revise,
-  which is what CASE-188 asks of its diagnostic ("without building the answer into the
+  which is what [CASE-188](../cases.d/CASE-188.md) asks of its diagnostic ("without building the answer into the
   diagnostic or the score"). Its trade-off finding (result 6) is evidence that readiness to
   revise and resistance to irrelevant change come apart in current models. It is
-  single-step, so it does not reach CASE-188's long-term commitment.
-- **CLAIM-tmp8qsef** (Proposed) and **CLAIM-293** (Active): *leaves open*. Belief-R's
+  single-step, so it does not reach [CASE-188](../cases.d/CASE-188.md)'s long-term commitment.
+- **[CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** (Proposed) and **[CLAIM-293](../claims.d/CLAIM-293.md)** (Active): *leaves open*. Belief-R's
   items are logical (additional premise defeats a conditional), the setting where a
   structural rule would suffice; it does not bear on weighted evidence.
-- **THEORY-347** / **NOTE-866** (belief bases, Hansson): result 2 (retract conclusion, keep
+- **[THEORY-347](../theory.d/THEORY-347.md)** / **[NOTE-866](NOTE-866.md)** (belief bases, Hansson): result 2 (retract conclusion, keep
   premises) is the base-revision behaviour those entries describe.
-- **LIT-2284** (Deferred; tool evidence and belief revision) and **LIT-2329** (Li et al.,
+- **[LIT-2284](../literature.d/LIT-2284.md)** (Deferred; tool evidence and belief revision) and **[LIT-2329](../literature.d/LIT-2329.md)** (Li et al.,
   read in this batch: LLMs revise theories more but not in proportion to prior error) are
   its neighbours; together they suggest that "how much a model revises" and whether it
   revises when it should are different measures.

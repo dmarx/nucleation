@@ -69,27 +69,27 @@ matters for its relation to team process. **Accurate.** One precision: the findi
 measures which represent structure at all predict process, while measures of content only do not;
 and for performance, measurement mattered for magnitude but not for sign.
 
-- CASE-145 (perspective without collective agency: populations given the same norms or training,
+- [CASE-145](../cases.d/CASE-145.md) (perspective without collective agency: populations given the same norms or training,
   interacting or not, with and without collective decision, measured on shared interpretation,
   reciprocal influence, coordination and joint response): **supports a measurement constraint on the
   design and qualifies "shared interpretation" as an outcome.** The case's own risk is that a
   shared perspective "will simply mean correlated responses". DeChurch and Mesmer-Magnus show that
   agreement-style and rating-scale measures of sharedness (closest to "correlated responses") do
-  not predict team process, while structural similarity does. So a test of CASE-145 should measure
+  not predict team process, while structural similarity does. So a test of [CASE-145](../cases.d/CASE-145.md) should measure
   the structure of agents' interpretations (relations among categories), not only agreement on
   responses, if it wants a sharedness measure that tracks interaction. It does not bear on the
   collective-agency half of the case.
-- LIT-2330 (Mathieu et al. 2000, Deferred): included in this meta-analysis's domain (the authors
+- [LIT-2330](../literature.d/LIT-2330.md) (Mathieu et al. 2000, Deferred): included in this meta-analysis's domain (the authors
   cite Mathieu et al. 2000); this paper does not stand in for it.
 
 Searched the record for DeChurch, the DOI, shared mental model, team cognition,
 Cannon-Bowers, Pathfinder, transactive memory. Not held (no duplicate). Missed by the first search:
-- LIT-2272 (Moreland and Myaskovsky 2000, Deferred) and LIT-tmpmvfl2 (Liang et al. 1995, same batch):
+- [LIT-2272](../literature.d/LIT-2272.md) (Moreland and Myaskovsky 2000, Deferred) and [LIT-tmpmvfl2](../literature.d/LIT-tmpmvfl2.md) (Liang et al. 1995, same batch):
   transactive memory is the complementary-knowledge counterpart to the similarity construct here;
   the authors list complementarity as a criterion their data could not test.
-- TERM-tmp8deza (shared epistemic state; not shared beliefs): the meta-analysis is about shared
+- [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) (shared epistemic state; not shared beliefs): the meta-analysis is about shared
   beliefs in the heads of members, the thing the term says it is not; useful as the contrast class.
-- CLAIM-418 (a shared perspective is not a collective agent): the meta-analysis shows sharedness
+- [CLAIM-418](../claims.d/CLAIM-418.md) (a shared perspective is not a collective agent): the meta-analysis shows sharedness
   predicting performance without saying anything about agency; neutral.
 
 ## Limitations

@@ -17,7 +17,7 @@ corroborates:
 bears_on:
 - QUESTION-tmps5iou
 summary: >-
-  The central account of LIT-tmp5rs7c, skimmed in NOTE-tmpfsrwj. Proposed
+  The central account of [LIT-tmp5rs7c](../literature.d/LIT-tmp5rs7c.md), skimmed in [NOTE-tmpfsrwj](../notes.d/NOTE-tmpfsrwj.md). Proposed
   until its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpfsrwj — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

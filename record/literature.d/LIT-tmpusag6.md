@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 from arXiv. Registered as a stand-in for LIT-tmpt3cxh,
+  Read on 2026-11-12 from arXiv. Registered as a stand-in for [LIT-tmpt3cxh](LIT-tmpt3cxh.md),
   VoCol, which no lawful copy reached.
 title: 'Git4Voc: Git-based Versioning for Collaborative Vocabulary Development'
 version: 1
@@ -39,7 +39,7 @@ summary: >-
   post-commit documentation generation; one triple per line in Turtle so
   diffs work; files of at most 300 triples as modules; tags for releases.
   Git cannot show semantic diffs; external tools are proposed. Registered on
-  2026-11-12 as a stand-in for LIT-tmpt3cxh; it is the same group's
+  2026-11-12 as a stand-in for [LIT-tmpt3cxh](LIT-tmpt3cxh.md); it is the same group's
   preceding design: Git-based versioning, validation hooks that refuse a
   commit, roles and recorded reasons; it does not restate VoCol's integrated
   environment.
@@ -52,4 +52,4 @@ Lavdim Halilaj, Irlán Grangel-González, Gökhan Coskun and Sören Auer (2016),
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-tmpt3cxh, which the reading of the works cited in the exchange "luria experiment design" could not reach. it is the same group's preceding design: Git-based versioning, validation hooks that refuse a commit, roles and recorded reasons; it does not restate VoCol's integrated environment.
+Registered on 2026-11-12 as a stand-in for [LIT-tmpt3cxh](LIT-tmpt3cxh.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it is the same group's preceding design: Git-based versioning, validation hooks that refuse a commit, roles and recorded reasons; it does not restate VoCol's integrated environment.

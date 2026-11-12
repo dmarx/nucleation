@@ -54,7 +54,7 @@ summary: >-
   acceptance conditions; that no remedy for one removes another is A36's
   further reading, argued in the body and not part of the claim.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyp3u3 LIT-tmp54rbu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: CLAIM-tmpyp3u3 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-tmp1vsf5 THEORY-tmp5lktm THEORY-tmp9qlii THEORY-tmpovyed THEORY-tmpucfiy — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -223,10 +223,10 @@ obstruction. The claim is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Zhang et al.** (THEORY-tmp1vsf5): The paper's split of coding capability from collaboration capability is an empirical separation in the same spirit (individual competence present, coordination absent); it does not map onto the claim's three terms exactly. Illustrative.
-- **Zhu et al.** (THEORY-tmpovyed): §4.2's high-coordination, low-task-score case (Minecraft) is an illustration that coordination does not substitute for capability; illustrative only.
-- **Li, Naito and Shirado** (THEORY-tmp9qlii): **supports** as an instance of epistemic coordination failing with aggregation intact.
-- **Khatua, Zhu et al.** (THEORY-tmp5lktm): *illustrates*. Solo succeeds where Coop fails at equal workload, so the failure is coordination, not feasibility.
-- **Patriarca, Chatzimichailidou, Karanikas and Di Gravio** (THEORY-tmpucfiy): STAMP's control-structure view loosely resembles CLAIM-346's feasibility arm and its coordination arm (inadequate feedback and process models), but the review does not separate them. **CLAIM-523** (legibility, volitional efficacy and correctability as separable achievements). **Leaves open, with a faint parallel.**.
+- **Zhang et al.** ([THEORY-tmp1vsf5](../theory.d/THEORY-tmp1vsf5.md)): The paper's split of coding capability from collaboration capability is an empirical separation in the same spirit (individual competence present, coordination absent); it does not map onto the claim's three terms exactly. Illustrative.
+- **Zhu et al.** ([THEORY-tmpovyed](../theory.d/THEORY-tmpovyed.md)): §4.2's high-coordination, low-task-score case (Minecraft) is an illustration that coordination does not substitute for capability; illustrative only.
+- **Li, Naito and Shirado** ([THEORY-tmp9qlii](../theory.d/THEORY-tmp9qlii.md)): **supports** as an instance of epistemic coordination failing with aggregation intact.
+- **Khatua, Zhu et al.** ([THEORY-tmp5lktm](../theory.d/THEORY-tmp5lktm.md)): *illustrates*. Solo succeeds where Coop fails at equal workload, so the failure is coordination, not feasibility.
+- **Patriarca, Chatzimichailidou, Karanikas and Di Gravio** ([THEORY-tmpucfiy](../theory.d/THEORY-tmpucfiy.md)): STAMP's control-structure view loosely resembles CLAIM-346's feasibility arm and its coordination arm (inadequate feedback and process models), but the review does not separate them. **[CLAIM-523](CLAIM-523.md)** (legibility, volitional efficacy and correctability as separable achievements). **Leaves open, with a faint parallel.**.
 
 The claim is unchanged.

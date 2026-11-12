@@ -30,7 +30,6 @@ summary: >-
   null claims rose after ChatGPT's release, and an agent-based simulation
   argues an interior optimum for AI adoption.
 ---
-<!-- inactive-ok-file: LIT-tmpsxqr6 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # NOTE-tmpushvg: Bao et al. — Contemporary AI lacks the imagination to diverge or negate in science
 

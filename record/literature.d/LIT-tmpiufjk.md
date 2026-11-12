@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Skimmed on 2026-11-12 (NOTE-tmpyxbjv) from
+  Skimmed on 2026-11-12 ([NOTE-tmpyxbjv](../notes.d/NOTE-tmpyxbjv.md)) from
   https://arxiv.org/pdf/2304.03442.
 title: 'Generative Agents: Interactive Simulacra of Human Behavior'
 version: 2
@@ -54,8 +54,8 @@ Joon Sung Park et al. (2023). arXiv 2304.03442.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on QUESTION-108.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [QUESTION-108](../questions.d/QUESTION-108.md).
 
 ## Reading of 2026-11-12
 
-Skimmed in NOTE-tmpyxbjv, from https://arxiv.org/pdf/2304.03442; its account is THEORY-tmp5rm74.
+Skimmed in [NOTE-tmpyxbjv](../notes.d/NOTE-tmpyxbjv.md), from https://arxiv.org/pdf/2304.03442; its account is [THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md).

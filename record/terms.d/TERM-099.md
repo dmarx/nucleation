@@ -90,6 +90,6 @@ A52 §13: "We should not explain every novelty by claiming that the system was a
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Fang, Jian, Li and Ma** (THEORY-tmp9ispo): **an instance in a formal system**. A general law failing in a new experiment is the discrepancy; the added term (elastic potential energy) becomes a concept registered in the theory base and reused across later experiments.
+- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **an instance in a formal system**. A general law failing in a new experiment is the discrepancy; the added term (elastic potential energy) becomes a concept registered in the theory base and reused across later experiments.
 
 The term is unchanged.

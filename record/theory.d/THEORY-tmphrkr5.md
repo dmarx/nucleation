@@ -16,7 +16,7 @@ promote_when: >-
 bears_on:
 - QUESTION-108
 summary: >-
-  The central account of LIT-tmp9oc9e, read in NOTE-tmpqoo75. Proposed until
+  The central account of [LIT-tmp9oc9e](../literature.d/LIT-tmp9oc9e.md), read in [NOTE-tmpqoo75](../notes.d/NOTE-tmpqoo75.md). Proposed until
   its promote_when is met.
 ---
 

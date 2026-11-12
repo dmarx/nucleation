@@ -14,7 +14,7 @@ promote_when: >-
   ceiling of about 50% for larger models, and the reported trade-off between
   update and maintain accuracy.
 summary: >-
-  The central account of LIT-2326, read in NOTE-tmp8mohl. Proposed until its
+  The central account of [LIT-2326](../literature.d/LIT-2326.md), read in [NOTE-tmp8mohl](../notes.d/NOTE-tmp8mohl.md). Proposed until its
   promote_when is met.
 ---
 

@@ -71,7 +71,7 @@ the paper supports it: a Singh commitment is directed from a debtor to a credito
 has a discharge condition and governed cancellation and release; a record entry's Active status
 names no debtor, no creditor and no discharge condition.
 
-- TERM-tmp8deza (shared epistemic state: the publicly inspectable structure of what is on the
+- [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) (shared epistemic state: the publicly inspectable structure of what is on the
   table, its standing, support, contributors and what would need reconsidering, with rules for
   changing it; not shared beliefs, memory or common knowledge): **supports the "not shared beliefs"
   and "public structure" clauses, and qualifies the analogy.** Singh's commitments, like the term's
@@ -86,13 +86,13 @@ names no debtor, no creditor and no discharge condition.
 Searched the record for Singh / the DOI, Hohfeld, Castelfranchi, commitment store,
 scorekeeping, Brandom, debtor/creditor, social commitment, deontic. Not held (the Singh hits are
 other authors; no duplicate). Missed by the first search:
-- CLAIM-014 (Krifka's performative updates fix which changes in conversational standing count):
+- [CLAIM-014](../claims.d/CLAIM-014.md) (Krifka's performative updates fix which changes in conversational standing count):
   Singh's operations as performatives on commitments are a neighbouring model of standing changed by
   speech acts; bears on how a filing or an ADR changes standing.
-- CLAIM-195 (the constraint set persistence is relative to is fixed by an amendable decision):
+- [CLAIM-195](../claims.d/CLAIM-195.md) (the constraint set persistence is relative to is fixed by an amendable decision):
   Singh's metacommitments that "create a society" and can themselves be operated on are a formal
   analogue of amendable governing rules.
-- ADR-006 / ADR-009 / ADR-034 and CLAIM-221 / CLAIM-363 mention Brandom-style commitments or deontic
+- [ADR-006](../decisions.d/ADR-006.md) / [ADR-009](../decisions.d/ADR-009.md) / [ADR-034](../decisions.d/ADR-034.md) and [CLAIM-221](../claims.d/CLAIM-221.md) / [CLAIM-363](../claims.d/CLAIM-363.md) mention Brandom-style commitments or deontic
   vocabulary on main; one may check whether any relies on a notion of commitment that Singh's
   directed, context-relative one would sharpen. Not read here.
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp2jzmr) from
+  Read on 2026-11-12 ([NOTE-tmp2jzmr](../notes.d/NOTE-tmp2jzmr.md)) from
   https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf.
 title: 'Pooling of unshared information in group decision making: Biased information sampling during discussion'
 version: 2
@@ -56,8 +56,8 @@ Garold Stasser and William Titus (1985), Journal of Personality and Social Psych
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§2). It bears on QUESTION-tmpxq2sb and CLAIM-403; LIT-1399 (the hidden-profile meta-analysis) and LIT-2294 (HiddenBench) are held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§2). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) and [CLAIM-403](../claims.d/CLAIM-403.md); [LIT-1399](LIT-1399.md) (the hidden-profile meta-analysis) and [LIT-2294](LIT-2294.md) (HiddenBench) are held.
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp2jzmr, from https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf; its account is THEORY-tmpy4vu1.
+Read in [NOTE-tmp2jzmr](../notes.d/NOTE-tmp2jzmr.md), from https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf; its account is [THEORY-tmpy4vu1](../theory.d/THEORY-tmpy4vu1.md).

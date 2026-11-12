@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Skimmed on 2026-11-12 from arXiv (v3). Registered as a stand-in for
-  LIT-2328, the PNAS article, which was Unfetched.
+  [LIT-2328](LIT-2328.md), the PNAS article, which was Unfetched.
 title: 'Mathematical exploration and discovery at scale'
 version: 1
 history:
@@ -35,7 +35,7 @@ summary: >-
   Kakeya) was proved by Deep Think and formalized in Lean by AlphaProof. It
   works best where a smooth score can be hill-climbed and at scale across
   families of related problems; it is not the tool where deep new insight is
-  needed. Registered on 2026-11-12 as a stand-in for LIT-2328; it stands in
+  needed. Registered on 2026-11-12 as a stand-in for [LIT-2328](LIT-2328.md); it stands in
   as far as the preprint's content goes; whether the PNAS article differs
   could not be checked.
 ---
@@ -47,4 +47,4 @@ Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao and Adam Zsolt Wagner (2025)
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-2328, which the reading of the works cited in the exchange "luria experiment design" could not reach. it stands in as far as the preprint's content goes; whether the PNAS article differs could not be checked.
+Registered on 2026-11-12 as a stand-in for [LIT-2328](LIT-2328.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it stands in as far as the preprint's content goes; whether the PNAS article differs could not be checked.

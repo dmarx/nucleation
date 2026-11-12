@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpdcxoz) from https://arxiv.org/pdf/2006.14779.
+  Read on 2026-11-12 ([NOTE-tmpdcxoz](../notes.d/NOTE-tmpdcxoz.md)) from https://arxiv.org/pdf/2006.14779.
 title: 'Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance'
 version: 2
 history:
@@ -52,8 +52,8 @@ Gagan Bansal et al. (2021), CHI 2021. DOI 10.1145/3411764.3445717.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§4). It bears on CASE-188 and CLAIM-349; LIT-2283 (cognitive forcing) is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§4). It bears on [CASE-188](../cases.d/CASE-188.md) and [CLAIM-349](../claims.d/CLAIM-349.md); [LIT-2283](LIT-2283.md) (cognitive forcing) is held.
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpdcxoz, from https://arxiv.org/pdf/2006.14779; its account is THEORY-tmprmh1c.
+Read in [NOTE-tmpdcxoz](../notes.d/NOTE-tmpdcxoz.md), from https://arxiv.org/pdf/2006.14779; its account is [THEORY-tmprmh1c](../theory.d/THEORY-tmprmh1c.md).

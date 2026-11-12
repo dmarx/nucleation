@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpq7w3k) from https://arxiv.org/pdf/2502.12110.
+  Read on 2026-11-12 ([NOTE-tmpq7w3k](../notes.d/NOTE-tmpq7w3k.md)) from https://arxiv.org/pdf/2502.12110.
 title: 'A-MEM: Agentic Memory for LLM Agents'
 version: 2
 history:
@@ -49,8 +49,8 @@ Wujiang Xu et al. (2025). arXiv 2502.12110.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1 and §3). It bears on QUESTION-108.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1 and §3). It bears on [QUESTION-108](../questions.d/QUESTION-108.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpq7w3k, from https://arxiv.org/pdf/2502.12110; its account is THEORY-tmpkjz86.
+Read in [NOTE-tmpq7w3k](../notes.d/NOTE-tmpq7w3k.md), from https://arxiv.org/pdf/2502.12110; its account is [THEORY-tmpkjz86](../theory.d/THEORY-tmpkjz86.md).

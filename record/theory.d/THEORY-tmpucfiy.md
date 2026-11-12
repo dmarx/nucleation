@@ -14,7 +14,7 @@ promote_when: >-
   models and safety constraints, the rarity of reported validation, and the
   49% of publications proposing modifications.
 summary: >-
-  The central account of LIT-tmp54rbu, read in NOTE-tmpcptrm. Proposed until
+  The central account of [LIT-tmp54rbu](../literature.d/LIT-tmp54rbu.md), read in [NOTE-tmpcptrm](../notes.d/NOTE-tmpcptrm.md). Proposed until
   its promote_when is met.
 ---
 

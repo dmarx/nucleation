@@ -64,7 +64,7 @@ The LIT summary has A saying "Google researchers evaluated blackboard-based mult
 
 The LIT's own gloss, a recent evaluation of blackboard coordination among language-model agents, is fair if read as coordination of task routing. It should not be read as integration of distributed evidence through a common store.
 
-- **QUESTION-tmpxq2sb (shared typed governed record vs structured protocol): leaves open, and mildly qualifies.**
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) (shared typed governed record vs structured protocol): leaves open, and mildly qualifies.**
   - The paper shows that removing assignment and letting holders of partial evidence self-select improves integration of distributed files. That speaks to the "recognition" stage: the right holder answers.
   - It does not test a shared, persistent, typed state. Footnote 2 removes exactly that, to avoid cross-influence.
   - It has no governance and no credence or standing on contributions. Integration is done by one agent in its own context.

@@ -125,6 +125,6 @@ A54 and A55 §3 of the second share of the exchange "Individuation, Possibility,
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Fang, Jian, Li and Ma** (THEORY-tmp9ispo): **illustrates**. AI-Newton's concepts are explicit, carry their measurement procedures, and are reused across experiments; the mass-unification result is an instance of two routes to one concept. It does not address the question's graded/categorical issue.
+- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **illustrates**. AI-Newton's concepts are explicit, carry their measurement procedures, and are reused across experiments; the mass-unification result is an instance of two routes to one concept. It does not address the question's graded/categorical issue.
 
 The term is unchanged.

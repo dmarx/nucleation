@@ -17,7 +17,7 @@ promote_when: >-
 bears_on:
 - QUESTION-225
 summary: >-
-  The central account of LIT-tmphmnau, skimmed in NOTE-tmpqtavm. Proposed
+  The central account of [LIT-tmphmnau](../literature.d/LIT-tmphmnau.md), skimmed in [NOTE-tmpqtavm](../notes.d/NOTE-tmpqtavm.md). Proposed
   until its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpqtavm — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpdcroo) from https://arxiv.org/pdf/2610.14662.
+  Read on 2026-11-12 ([NOTE-tmpdcroo](../notes.d/NOTE-tmpdcroo.md)) from https://arxiv.org/pdf/2610.14662.
 title: 'Does Failure Feedback Direct Agent Self-Modification?'
 version: 2
 history:
@@ -50,8 +50,8 @@ Rong He (2026). arXiv 2610.14662.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A48 (§2). It bears on QUESTION-tmp7a7l4 and CASE-194.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A48 (§2). It bears on [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) and [CASE-194](../cases.d/CASE-194.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpdcroo, from https://arxiv.org/pdf/2610.14662; its account is THEORY-tmpr79u7.
+Read in [NOTE-tmpdcroo](../notes.d/NOTE-tmpdcroo.md), from https://arxiv.org/pdf/2610.14662; its account is [THEORY-tmpr79u7](../theory.d/THEORY-tmpr79u7.md).

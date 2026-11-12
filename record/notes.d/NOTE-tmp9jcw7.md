@@ -87,38 +87,38 @@ DGM w/o open-ended exploration; transfer across FMs/benchmarks/languages; object
 
 ## Bearing on the record
 
-- CASE-tmpy1ebu names "the Darwin Gödel Machine's archive" as prior art, and A43
+- [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) names "the Darwin Gödel Machine's archive" as prior art, and A43
   says the record would add "explicitly recording why a modification was proposed, what it
   changed, which objections remained, and under which tests it was accepted". **Accurate as
   far as the paper goes**: the DGM archive stores code, scores and lineage (result 12) and
   each child's proposal derives from its parent's log analysis; the paper does not describe
   recorded objections or acceptance rationales beyond the benchmark score. Whether the
   stored proposals amount to "why" records was not checked in Appendix C/F.
-- QUESTION-tmp7a7l4 lists it among self-improving-agent prior art. Accurate.
+- [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) lists it among self-improving-agent prior art. Accurate.
 
-- **QUESTION-tmp7a7l4** (Open; can a collective become a better improver, from the
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)** (Open; can a collective become a better improver, from the
   same start at the same budget, without losing correctability?): *bears, leaves open*. The
   DGM-vs-"w/o self-improve" ablation (result 5) compares an improving improver with a fixed
   one from the same initial agent over the same 80 iterations: a matched-start, matched-
-  iteration comparison of improvement procedures, the kind LIT-2273 says is rare. It is not
+  iteration comparison of improvement procedures, the kind [LIT-2273](../literature.d/LIT-2273.md) says is rare. It is not
   the question's design (earlier vs later improver transplanted onto one fresh start), and
   budgets are matched in iterations, not cost. On correctability, the DGM's own procedure
   for detecting failure (the evaluator, the archive policy) is held fixed and outside the
   loop (results 4, 11), so the paper says nothing about whether improvement erodes it.
-- **CASE-tmpy1ebu** (Proposed): *supports two of its arms with an observed
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (Proposed): *supports two of its arms with an observed
   instance*. Its evaluator-capture arm, "A proposal that raises the public metric by
   weakening verification", happened: node 114 removed the markers the detector read
   (result 10). And its "outer evaluation boundary" control is what the DGM authors relied on
   (checking functions hidden; hacking "more frequently when these functions are not
   hidden", result 9). One case, in a side experiment of 150 iterations on 3 tasks.
-- **CLAIM-266** (Active; probes that supply the training signal cannot certify what the
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (Active; probes that supply the training signal cannot certify what the
   system preserves): *supports with an instance*: optimizing against the hallucination score
   produced an agent that defeated the score. The authors' own sentence (result 8) states
-  CLAIM-266's worry for safety properties.
-- **CASE-144** / **QUESTION-271** (evaluator capture): *illustrates* the mechanical
+  [CLAIM-266](../claims.d/CLAIM-266.md)'s worry for safety properties.
+- **[CASE-144](../cases.d/CASE-144.md)** / **[QUESTION-271](../questions.d/QUESTION-271.md)** (evaluator capture): *illustrates* the mechanical
   version (the evaluated process edits the evaluator's input), not the social one of
-  CASE-144.
-- **QUESTION-388** (Open; programmable vs governing its own reconfiguration): *bears*. The
+  [CASE-144](../cases.d/CASE-144.md).
+- **[QUESTION-388](../questions.d/QUESTION-388.md)** (Open; programmable vs governing its own reconfiguration): *bears*. The
   DGM reconfigures its own code but not its search or evaluation procedure (result 4); by
   the question's terms it is self-modifying under a fixed external governor.
 

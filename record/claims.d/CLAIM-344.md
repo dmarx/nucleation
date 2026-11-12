@@ -228,6 +228,6 @@ more.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Zhao, Liu et al.** (THEORY-tmpt5rqc): **supports** by analogy: the protection principle preserves strong priors against weaker external support while letting stronger support revise.
+- **Zhao, Liu et al.** ([THEORY-tmpt5rqc](../theory.d/THEORY-tmpt5rqc.md)): **supports** by analogy: the protection principle preserves strong priors against weaker external support while letting stronger support revise.
 
 The claim is unchanged.

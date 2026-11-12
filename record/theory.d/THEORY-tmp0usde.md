@@ -15,7 +15,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmpxq2sb
 summary: >-
-  The central account of LIT-tmpo6ko1, skimmed in NOTE-tmp0o5hp. Proposed
+  The central account of [LIT-tmpo6ko1](../literature.d/LIT-tmpo6ko1.md), skimmed in [NOTE-tmp0o5hp](../notes.d/NOTE-tmp0o5hp.md). Proposed
   until its promote_when is met.
 history:
 - version: 2

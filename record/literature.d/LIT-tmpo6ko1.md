@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmp1cqjq) from
+  Read on 2026-11-12 ([NOTE-tmp1cqjq](../notes.d/NOTE-tmp1cqjq.md)) from
   https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf.
 title: 'Measuring shared team mental models: A meta-analysis'
 version: 3
@@ -62,12 +62,12 @@ Leslie A. DeChurch and Jessica R. Mesmer-Magnus (2010), Group Dynamics. DOI 10.1
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§6). It bears on CASE-145; LIT-2330 (Mathieu et al. 2000) is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§6). It bears on [CASE-145](../cases.d/CASE-145.md); [LIT-2330](LIT-2330.md) (Mathieu et al. 2000) is held.
 
 ## Reading of 2026-11-12
 
-Skimmed in NOTE-tmp0o5hp, from https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf (the first author's research-group site; the published article); its account is THEORY-tmp0usde.
+Skimmed in [NOTE-tmp0o5hp](../notes.d/NOTE-tmp0o5hp.md), from https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf (the first author's research-group site; the published article); its account is [THEORY-tmp0usde](../theory.d/THEORY-tmp0usde.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmp1cqjq, from https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf; its account is THEORY-tmpv6qhj.
+Read in [NOTE-tmp1cqjq](../notes.d/NOTE-tmp1cqjq.md), from https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf; its account is [THEORY-tmpv6qhj](../theory.d/THEORY-tmpv6qhj.md).

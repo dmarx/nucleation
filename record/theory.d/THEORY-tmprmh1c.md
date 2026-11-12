@@ -14,7 +14,7 @@ promote_when: >-
   it, and explanations raising accuracy when the AI was correct and lowering
   it when it was wrong.
 summary: >-
-  The central account of LIT-tmpyaj3n, read in NOTE-tmpdcxoz. Proposed until
+  The central account of [LIT-tmpyaj3n](../literature.d/LIT-tmpyaj3n.md), read in [NOTE-tmpdcxoz](../notes.d/NOTE-tmpdcxoz.md). Proposed until
   its promote_when is met.
 ---
 

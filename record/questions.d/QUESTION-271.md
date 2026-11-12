@@ -176,9 +176,9 @@ stronger instructions in the record." The test is in [CASE-tmpy1ebu](../cases.d/
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Liu and Yadav** (THEORY-tmp37mxv): The benchmark keeps the scorer (deterministic assertions) outside the agent for state tasks, but uses LLM judges for procedure and user experience. That is a mixed instance of separating evaluator from optimized system.
-- **Lu et al.** (THEORY-tmpl4czv): Bears as an example. The authors validate the judge against human decisions once, then rely on it.
-- **Srikanth et al.** (THEORY-tmpdjm1o): The improvers do not control the grade; leaves open.
-- **Bao et al.** (THEORY-tmpq26fh): **bears on, leaves open**. A reward model trained on expert judgements beats the human agreement floor; the paper itself warns it distils "current taste", not the practice by which criteria change.
+- **Liu and Yadav** ([THEORY-tmp37mxv](../theory.d/THEORY-tmp37mxv.md)): The benchmark keeps the scorer (deterministic assertions) outside the agent for state tasks, but uses LLM judges for procedure and user experience. That is a mixed instance of separating evaluator from optimized system.
+- **Lu et al.** ([THEORY-tmpl4czv](../theory.d/THEORY-tmpl4czv.md)): Bears as an example. The authors validate the judge against human decisions once, then rely on it.
+- **Srikanth et al.** ([THEORY-tmpdjm1o](../theory.d/THEORY-tmpdjm1o.md)): The improvers do not control the grade; leaves open.
+- **Bao et al.** ([THEORY-tmpq26fh](../theory.d/THEORY-tmpq26fh.md)): **bears on, leaves open**. A reward model trained on expert judgements beats the human agreement floor; the paper itself warns it distils "current taste", not the practice by which criteria change.
 
 The question is unchanged.

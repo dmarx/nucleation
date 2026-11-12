@@ -15,7 +15,7 @@ promote_when: >-
   interaction depth, with 38.8% as the best result at the hardest
   compositional setting.
 summary: >-
-  The central account of LIT-2321, skimmed in NOTE-tmpv5794. Proposed until
+  The central account of [LIT-2321](../literature.d/LIT-2321.md), skimmed in [NOTE-tmpv5794](../notes.d/NOTE-tmpv5794.md). Proposed until
   its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpv5794 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

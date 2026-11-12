@@ -30,8 +30,6 @@ summary: >-
   counterfactual test. Not run; every parameter is left to a
   preregistration.
 ---
-<!-- inactive-ok-file: LIT-tmpyaj3n — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: LIT-2326 LIT-2329 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-tmpcb95r THEORY-tmphaoty THEORY-tmphhyai THEORY-tmpmgo6m THEORY-tmprmh1c THEORY-tmpt5rqc — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-188: A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score
@@ -129,34 +127,34 @@ theory of the entrenching arm. The case is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-**A correction.** The note of 2026-11-12 above reports from LIT-2329, as A14
+**A correction.** The note of 2026-11-12 above reports from [LIT-2329](../literature.d/LIT-2329.md), as A14
 did, that "revising a theory more readily is not necessarily better
-scientific behavior". The paper, now read (THEORY-tmpmgo6m), does not say
+scientific behavior". The paper, now read ([THEORY-tmpmgo6m](../theory.d/THEORY-tmpmgo6m.md)), does not say
 it; the sentence is A's gloss. What the paper shows is the distinction this
 case needs, measured: humans revised in proportion to their error, and LLMs
 revised more and without tracking error, separating how much a theorist
 revises from whether revision tracks error. One-shot revision, not a
 long-term commitment.
 
-- **Wilie et al.** (THEORY-tmphaoty): Belief-R's paired update and maintain
+- **Wilie et al.** ([THEORY-tmphaoty](../theory.d/THEORY-tmphaoty.md)): Belief-R's paired update and maintain
   subsets with an equally weighted score are a working instance of scoring
   when to revise without rewarding always or never revising; its finding
   that readiness to revise and resistance to irrelevant change trade off is
   evidence that they come apart. Single-step.
-- **Zhao, Liu et al.** (THEORY-tmpt5rqc): the split between gains and losses
+- **Zhao, Liu et al.** ([THEORY-tmpt5rqc](../theory.d/THEORY-tmpt5rqc.md)): the split between gains and losses
   from tool evidence is a model-level instance of false retraction against
   justified revision, and its perturbations, the clue held fixed and its
   framing varied, are a template for A36 E7's.
-- **Buçinca, Malaya and Gajos** (THEORY-tmphhyai): adopting a wrong external
+- **Buçinca, Malaya and Gajos** ([THEORY-tmphhyai](../theory.d/THEORY-tmphhyai.md)): adopting a wrong external
   signal maps onto false retraction; the cost of the check is borne in
   acceptability, and the benefit depends on a trait of the reviser, a
   moderator the case does not vary.
-- **Bansal et al.** (THEORY-tmprmh1c): explanations raised acceptance of AI
+- **Bansal et al.** ([THEORY-tmprmh1c](../theory.d/THEORY-tmprmh1c.md)): explanations raised acceptance of AI
   advice whether or not it was right, the failure this case must not score
   as success; splitting outcomes by whether the advice was correct is the
   analogue of runs with and without a real defeater. Human reliance, so an
   analogy.
-- **Si, Yang and Hashimoto** (THEORY-tmpcb95r): LLM rankers overlapped
+- **Si, Yang and Hashimoto** ([THEORY-tmpcb95r](../theory.d/THEORY-tmpcb95r.md)): LLM rankers overlapped
   expert rerankers on 17 of 49, a warning against scoring revision quality
   with an LLM judge.
 

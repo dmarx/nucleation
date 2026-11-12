@@ -85,8 +85,8 @@ structure matters' to 'a graph of justifications is sufficient.'"
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Jung, Rubinstein, Uselis, Yun and Oh** (THEORY-tmpo4vs4): MEME's gold answers *are* fixed by the DAG plus rules; it is a setting where the claim's condition (same edges, different evidence) does not arise. Contrast, not evidence.
-- **de Kleer and Williams** (THEORY-tmpglid0): **consistent**. Sherlock's ranking of diagnoses needs mode probabilities beyond the conflict structure; two systems with the same conflicts can call for different probes.
-- **de Kleer** (THEORY-tmpn7ukf): *supports by contrast*: the ATMS's correctness rests on edges being Horn implications; where they are, topology does fix revision. This is the boundary condition of CLAIM-293, not a counterexample to it.
+- **Jung, Rubinstein, Uselis, Yun and Oh** ([THEORY-tmpo4vs4](../theory.d/THEORY-tmpo4vs4.md)): MEME's gold answers *are* fixed by the DAG plus rules; it is a setting where the claim's condition (same edges, different evidence) does not arise. Contrast, not evidence.
+- **de Kleer and Williams** ([THEORY-tmpglid0](../theory.d/THEORY-tmpglid0.md)): **consistent**. Sherlock's ranking of diagnoses needs mode probabilities beyond the conflict structure; two systems with the same conflicts can call for different probes.
+- **de Kleer** ([THEORY-tmpn7ukf](../theory.d/THEORY-tmpn7ukf.md)): *supports by contrast*: the ATMS's correctness rests on edges being Horn implications; where they are, topology does fix revision. This is the boundary condition of CLAIM-293, not a counterexample to it.
 
 The claim is unchanged.

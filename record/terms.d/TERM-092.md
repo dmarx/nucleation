@@ -131,6 +131,6 @@ three. The definition is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Majumder et al.** (THEORY-tmpzmf41): **leaves open**; workflow length as a difficulty measure is a crude analogue, not a test.
+- **Majumder et al.** ([THEORY-tmpzmf41](../theory.d/THEORY-tmpzmf41.md)): **leaves open**; workflow length as a difficulty measure is a crude analogue, not a test.
 
 The term is unchanged.

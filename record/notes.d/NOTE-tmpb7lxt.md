@@ -84,18 +84,18 @@ These are design claims, not empirical results.
 
 A calls it "probably the closest conceptual predecessor". That holds for the record's entry level. Like this record, the model represents claims with provenance, evidence, interpretation and challenge as argument structure, with challenges carried as attributed objects.
 
-Three things are absent, and they are the axis of QUESTION-tmps5iou:
+Three things are absent, and they are the axis of [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md):
 - **No standing or credence on claims.** Truth is left to the community over time.
 - **No schema-evolution or governance mechanism.** Nothing governs changes to the model itself.
 - **No decision records, and no enforced checks beyond OWL/DL-safe rules.**
 
 The paper explicitly declines a central curator. A governed record has one, in the form of decisions plus CI.
 
-- **CLAIM-469** (luria realizes a system of distinctions that fixes what counts as a referable, governable object, and revises them through use). **Verdict: qualifies.**
+- **[CLAIM-469](../claims.d/CLAIM-469.md)** (luria realizes a system of distinctions that fixes what counts as a referable, governable object, and revises them through use). **Verdict: qualifies.**
   - Micropublications is an earlier system of distinctions over claims. It has Claim, Statement, Data and Method types, and supports and challenges relations. It also makes judgements objects: a challenge or a similarity call is itself a micropublication.
-  - It therefore shows that the "referable object" half of CLAIM-469 is not new.
-  - The model's distinctions are fixed in an OWL vocabulary, with no provision in the paper for revising them through use. That puts the weight of CLAIM-469's distinctiveness on its last clause.
-- **QUESTION-tmps5iou** (is coupling schema change to decision, migration and checks what distinguishes luria?). **Verdict: supports it as a comparison point.**
+  - It therefore shows that the "referable object" half of [CLAIM-469](../claims.d/CLAIM-469.md) is not new.
+  - The model's distinctions are fixed in an OWL vocabulary, with no provision in the paper for revising them through use. That puts the weight of [CLAIM-469](../claims.d/CLAIM-469.md)'s distinctiveness on its last clause.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)** (is coupling schema change to decision, migration and checks what distinguishes luria?). **Verdict: supports it as a comparison point.**
   - Micropublications is a strong argument-model baseline with no coupled schema evolution.
   - It sharpens the contrast class: argumentation-structured records without governed grammar change.
 

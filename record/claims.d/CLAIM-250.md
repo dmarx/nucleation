@@ -99,7 +99,7 @@ reverse.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Hegde et al.** (THEORY-tmpe8wmn): **leaves open**; KGCL records what changed, not why.
-- **Lebo, Sahoo and McGuinness (eds.)** (THEORY-tmpx4v17): PROV-O provides the what was asserted, by whom, from what, revised from what part, not the "why" or "what justified" part. Qualifies: it shows which part of CLAIM-250's structure an existing standard covers.
+- **Hegde et al.** ([THEORY-tmpe8wmn](../theory.d/THEORY-tmpe8wmn.md)): **leaves open**; KGCL records what changed, not why.
+- **Lebo, Sahoo and McGuinness (eds.)** ([THEORY-tmpx4v17](../theory.d/THEORY-tmpx4v17.md)): PROV-O provides the what was asserted, by whom, from what, revised from what part, not the "why" or "what justified" part. Qualifies: it shows which part of CLAIM-250's structure an existing standard covers.
 
 The claim is unchanged.

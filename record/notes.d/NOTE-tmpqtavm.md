@@ -77,7 +77,7 @@ interoperability reference" is fair: it is a W3C Recommendation designed to be s
 record's entries, their versions (wasRevisionOf), sources (hadPrimarySource, wasQuotedFrom) and
 contributors (wasAttributedTo) map onto it directly.
 
-- CLAIM-299 (decision sufficiency, historical accountability and correctness are three properties,
+- [CLAIM-299](../claims.d/CLAIM-299.md) (decision sufficiency, historical accountability and correctness are three properties,
   each can hold while the others fail): **supports by illustration**, not by argument. A complete
   PROV-O description of a record secures the historical-accountability property (who produced what
   from what, and revised it how) while saying nothing about the other two: the vocabulary has no
@@ -88,17 +88,17 @@ contributors (wasAttributedTo) map onto it directly.
 Searched the record for PROV-O, PROV-DM, W3C PROV, prov:, provenance, nanopublication,
 micropublication. PROV is not held (no LIT by URL or title; not a duplicate). Missed by the first
 search:
-- TERM-100 (provenance of a capacity or organization: formation, maintenance or source provenance)
-  and TERM-084 (descent: provenance, lineage, common ancestry, causal descent): PROV's
+- [TERM-100](../terms.d/TERM-100.md) (provenance of a capacity or organization: formation, maintenance or source provenance)
+  and [TERM-084](../terms.d/TERM-084.md) (descent: provenance, lineage, common ancestry, causal descent): PROV's
   generation/derivation/primary-source split is a standard against which these senses could be
   set; PROV-O's "source" sense is closest to hadPrimarySource and wasDerivedFrom. Bears, does not
   settle.
-- CLAIM-189 (what a record can secure is traceability) and CLAIM-250 (what should be preserved is
+- [CLAIM-189](../claims.d/CLAIM-189.md) (what a record can secure is traceability) and [CLAIM-250](../claims.d/CLAIM-250.md) (what should be preserved is
   the accountability structure: what was asserted, why, how challenged, what justified revision):
   PROV-O provides the what was asserted, by whom, from what, revised from what part, not the
-  "why" or "what justified" part. Qualifies: it shows which part of CLAIM-250's structure an
+  "why" or "what justified" part. Qualifies: it shows which part of [CLAIM-250](../claims.d/CLAIM-250.md)'s structure an
   existing standard covers.
-- QUESTION-225 (why- and where-provenance in Buneman, Khanna and Tan): a database-provenance line
+- [QUESTION-225](../questions.d/QUESTION-225.md) (why- and where-provenance in Buneman, Khanna and Tan): a database-provenance line
   distinct from PROV's workflow provenance; PROV-O does not address query provenance.
 
 ## Limitations

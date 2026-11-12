@@ -74,11 +74,11 @@ What it lacks, or leaves outside its scope:
 
 "Intention" in COPE means the intended *migration*, not the rationale. The LIT's identification of this paper as Edapt's origin needs an external source (see the metadata corrections).
 
-- **QUESTION-tmps5iou** (is the coupling of schema change to recorded decision, migration and checks what distinguishes luria?) — **qualifies and sharpens.**
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)** (is the coupling of schema change to recorded decision, migration and checks what distinguishes luria?) — **qualifies and sharpens.**
   - COPE already couples schema change to migration with a recorded history, so migration coupling cannot be luria's distinguishing feature.
   - What remains distinctive, if anything, is the coupling to a recorded decision (rationale, authority) and to a lint/CI regime.
   - COPE also gives empirical priors for a benchmark: most changes are extensions or reusable operations, and custom migrations are rare but necessary.
-- **CASE-tmppm4do** (proposed study of governed schema adaptation) — **supplies a baseline and a task taxonomy.**
+- **[CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)** (proposed study of governed schema adaptation) — **supplies a baseline and a task taxonomy.**
   - COPE's classification of changes (metamodel-only, metamodel-independent coupled, metamodel-specific coupled) can stratify the study's "schema inadequacy" items.
   - An operation-based history with generated migrators is a natural "explicit migration, informal governance" arm.
 

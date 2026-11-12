@@ -69,16 +69,16 @@ The LIT's gloss is accurate: no detectable target-specific repair advantage acro
 - The paper also finds that directed repair does occur when the editor sees the failure and the answer, as in study 1 and in Qwen's H1 result in study 2.
 - The DGM null does not show the feedback was useless (§2.4).
 
-- **QUESTION-tmp7a7l4 (can a collective become a better improver without losing failure detection): supports the question's framing and supplies a method.**
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) (can a collective become a better improver without losing failure detection): supports the question's framing and supplies a method.**
   - The paper separates the outcome of selection from the quality of edits, and finds that improvement in a selected population can arise without directed edits.
   - It recommends logging target repair, spread and net change separately, which is a ready protocol for the question's "later improver vs earlier improver" test.
   - §3.5 bears on the improver side directly: self-editing raised the viability of edits, not their quality.
   - It is about single agents and benchmark scores. It does not address shared records or collectives.
-- **CASE-194 (three organizations at equal performance, separated only by intervention): qualifies by analogy.**
+- **[CASE-194](../cases.d/CASE-194.md) (three organizations at equal performance, separated only by intervention): qualifies by analogy.**
   - Equal score trajectories in DGM are "compatible" with selection over undirected variation. Only a randomized intervention on the evidence shown separates the explanations.
-  - That is the same methodological point CASE-194 makes, that equal performance does not identify the cause.
-  - The paper's editable vs unreachable causes (§6) parallel CASE-194's actuation vs observation limits.
-  - It does not instantiate CASE-194's three arms.
+  - That is the same methodological point [CASE-194](../cases.d/CASE-194.md) makes, that equal performance does not identify the cause.
+  - The paper's editable vs unreachable causes (§6) parallel [CASE-194](../cases.d/CASE-194.md)'s actuation vs observation limits.
+  - It does not instantiate [CASE-194](../cases.d/CASE-194.md)'s three arms.
 
 ## Limitations
 

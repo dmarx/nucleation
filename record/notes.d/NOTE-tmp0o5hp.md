@@ -80,11 +80,11 @@ Mathieu et al.'s specific results (task- vs team-model distinction; full mediati
 process). Mathieu's method (paired comparisons analysed with a network algorithm) falls in
 the measurement class this meta-analysis finds most predictive of process.
 
-- **CASE-145** (Active): *bears on measurement, leaves the case open*. If shared perspective
+- **[CASE-145](../cases.d/CASE-145.md)** (Active): *bears on measurement, leaves the case open*. If shared perspective
   is to be measured apart from collective decision, this meta-analysis says the measure must
   capture the structure of members' knowledge, not agreement ratings (results 1, 4).
-- **TERM-tmp8deza / CLAIM-tmpyp3u3**: *contrasts*: a shared mental model is a
+- **[TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) / [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md)**: *contrasts*: a shared mental model is a
   property of members' heads (result 6); the record's term is deliberately not that.
-- **QUESTION-tmpxq2sb**: *bears*: if a record helps a team, one route would be by
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)**: *bears*: if a record helps a team, one route would be by
   making members' knowledge structures converge; this meta-analysis gives the measurement
   that would detect it.

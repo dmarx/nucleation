@@ -74,7 +74,7 @@ complements:
 <!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, a reading that corroborates this claim, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-362 THEORY-151 — Proposed; a claim this one cites and a reading that corroborates it, nothing here rests on them -->
-<!-- inactive-ok-file: CASE-tmpiocs1 LIT-tmpjqgyi TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: CASE-tmpiocs1 TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-tmp0t4ni THEORY-tmp1vsf5 THEORY-tmp9qlii THEORY-tmpjt57l THEORY-tmpwrxy3 THEORY-tmpy4vu1 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-403: A contribution's admission to an organization's inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor's part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed
@@ -279,11 +279,11 @@ contributions". The claim is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Zhang et al.** (THEORY-tmp1vsf5): The gap between an integrated artifact and a satisfied dependency is a case of output admitted without uptake; illustrative, no stage-level measurement.
-- **Ghareeb et al.** (THEORY-tmpwrxy3): An illustration: Robin supplies admission and ranking (credibility) and humans retain uptake.
-- **Li, Naito and Shirado** (THEORY-tmp9qlii): **supports** as an instance: Reveal-All shows admission is the binding stage in this setting.
-- **Huang et al.** (THEORY-tmpjt57l): **supports, as an instance**. The 29.6% of fully recognised L2 issues that were not carried into calibration is recognition without uptake, measured in a single agent rather than an organization.
-- **Falbo** (THEORY-tmp0t4ni): **supports the recognition-to-credibility rung.** Falbo's positive hermeneutical injustice is a case where the contribution is admitted and intelligible, but not recognized in apt terms, and loses credibility and uptake as a result; and her note that marginalization covers the "revision, reinforcement" of resources matches the claim's last stage. It is a case from outside organizations, so it corroborates rather than demonstrates.
-- **Stasser and Titus** (THEORY-tmpy4vu1): **corroborates the separability of admission from uptake**: even unshared information that is held by a group member, and which the member was told might be news, fails to be admitted to discussion, and the group decision follows initial preferences. The paper does not separate recognition from credibility.
+- **Zhang et al.** ([THEORY-tmp1vsf5](../theory.d/THEORY-tmp1vsf5.md)): The gap between an integrated artifact and a satisfied dependency is a case of output admitted without uptake; illustrative, no stage-level measurement.
+- **Ghareeb et al.** ([THEORY-tmpwrxy3](../theory.d/THEORY-tmpwrxy3.md)): An illustration: Robin supplies admission and ranking (credibility) and humans retain uptake.
+- **Li, Naito and Shirado** ([THEORY-tmp9qlii](../theory.d/THEORY-tmp9qlii.md)): **supports** as an instance: Reveal-All shows admission is the binding stage in this setting.
+- **Huang et al.** ([THEORY-tmpjt57l](../theory.d/THEORY-tmpjt57l.md)): **supports, as an instance**. The 29.6% of fully recognised L2 issues that were not carried into calibration is recognition without uptake, measured in a single agent rather than an organization.
+- **Falbo** ([THEORY-tmp0t4ni](../theory.d/THEORY-tmp0t4ni.md)): **supports the recognition-to-credibility rung.** Falbo's positive hermeneutical injustice is a case where the contribution is admitted and intelligible, but not recognized in apt terms, and loses credibility and uptake as a result; and her note that marginalization covers the "revision, reinforcement" of resources matches the claim's last stage. It is a case from outside organizations, so it corroborates rather than demonstrates.
+- **Stasser and Titus** ([THEORY-tmpy4vu1](../theory.d/THEORY-tmpy4vu1.md)): **corroborates the separability of admission from uptake**: even unshared information that is held by a group member, and which the member was told might be news, fails to be admitted to discussion, and the group decision follows initial preferences. The paper does not separate recognition from credibility.
 
 The claim is unchanged.

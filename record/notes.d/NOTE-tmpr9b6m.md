@@ -70,19 +70,19 @@ inference with premises, a conclusion and a form), less for CLAIM relations: the
 links claim to claim directly, which AIF forbids (no I-to-I edges), and the record's status and
 standing are outside AIF's core.
 
-- ADR-061 (an ARG is any claim about support; a claim about what a source says is a THEORY):
-  **corroborates the move, with a difference.** AIF's S-node is the reified inference that ADR-061's
+- [ADR-061](../decisions.d/ADR-061.md) (an ARG is any claim about support; a claim about what a source says is a THEORY):
+  **corroborates the move, with a difference.** AIF's S-node is the reified inference that [ADR-061](../decisions.d/ADR-061.md)'s
   ARG is: a judgement that something supports something, which can itself be attacked (an undercut
   on an RA-node is a CA-node pointing at it, sec. 3.3.1 item 6). But AIF requires an S-node for
   every connection between claims, whereas the record lets `rests_on` connect claims without one.
-- ADR-032 (the argument schemes QUESTION, CLAIM, CASE, TERM, ARG): **already engages AIF, from
-  memory.** ADR-032 names AIF among the structures the design began from, and rejects "An ARG for
+- [ADR-032](../decisions.d/ADR-032.md) (the argument schemes QUESTION, CLAIM, CASE, TERM, ARG): **already engages AIF, from
+  memory.** [ADR-032](../decisions.d/ADR-032.md) names AIF among the structures the design began from, and rejects "An ARG for
   every claim (AIF's information and inference nodes throughout)" and "A full argumentation ontology
   (AIF, Carneades)", since "These are built to analyse finished arguments. This record develops
   unfinished ones." The reading confirms both premises of that rejection: the I-to-I prohibition is
   what "an ARG for every claim" means, and the paper's core has no notion of development, revision
-  or standing. It supports ADR-032's description of AIF.
-- QUESTION-tmps5iou (is the coupling of schema change to recorded decision, migration and checks
+  or standing. It supports [ADR-032](../decisions.d/ADR-032.md)'s description of AIF.
+- [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) (is the coupling of schema change to recorded decision, migration and checks
   what distinguishes luria?): **bears on the governance side.** AIF expects its core to "evolve over
   time as consensus changes" and extensions to be merged into the core, and leaves open how the
   community should "organize themselves to agree on core concepts and extensions". So a standard
@@ -91,14 +91,14 @@ standing are outside AIF's core.
 
 Searched the record for Argument Interchange, AIF, Chesñevar, the DOI, Walton, argument
 scheme, Toulmin, Dung, Araucaria, IBIS, Compendium, Hamblin. Not held as a LIT (no duplicate); named
-only in ADR-032's prose. Missed by the first search:
-- CLAIM-179 (when an agent files, the capture cost falls on the party who would otherwise
-  re-derive; design-rationale abandonment) and LIT-755 / LIT-759 / LIT-761 (design-rationale
-  literature, Unavailable): ADR-032 rejected AIF-everywhere for the capture-cost reason these hold;
-  CLAIM-179 is the claim that would reopen that rejection when agents file.
-- TERM-tmp8deza and LIT-tmpir70i (Singh, same batch): AIF's commitment stores and commitment rules
+only in [ADR-032](../decisions.d/ADR-032.md)'s prose. Missed by the first search:
+- [CLAIM-179](../claims.d/CLAIM-179.md) (when an agent files, the capture cost falls on the party who would otherwise
+  re-derive; design-rationale abandonment) and [LIT-755](../literature.d/LIT-755.md) / [LIT-759](../literature.d/LIT-759.md) / [LIT-761](../literature.d/LIT-761.md) (design-rationale
+  literature, Unavailable): [ADR-032](../decisions.d/ADR-032.md) rejected AIF-everywhere for the capture-cost reason these hold;
+  [CLAIM-179](../claims.d/CLAIM-179.md) is the claim that would reopen that rejection when agents file.
+- [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) and [LIT-tmpir70i](../literature.d/LIT-tmpir70i.md) (Singh, same batch): AIF's commitment stores and commitment rules
   (Hamblin) are a second predecessor for public commitments with rules for changing them.
-- ADR-043 (warrant on a CLAIM): AIF's S-to-S "warrant" edges and Toulmin translation are a
+- [ADR-043](../decisions.d/ADR-043.md) (warrant on a CLAIM): AIF's S-to-S "warrant" edges and Toulmin translation are a
   different sense of warrant (the inference licence), not the record's demonstrated/empirical/
   interpretive kind; the shared word should not be conflated.
 

@@ -243,7 +243,7 @@ definition. So the claim is stated in the term and not true by definition.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Majumder et al.** (THEORY-tmpzmf41): **illustrates**. DiscoveryBench's goals are formed by masking one dimension of a hypothesis, so the goal fixes what kind of difference (a context, a variable set, a relationship) would answer it; goals that leave context or variables open are harder than those that fix them.
-- **Bao et al.** (THEORY-tmpq26fh): The Discussion's claim that novelty, feasibility and probability are "functions of an evolving disciplinary horizon" is the authors' view, consistent with CLAIM-470; not evidence for it.
+- **Majumder et al.** ([THEORY-tmpzmf41](../theory.d/THEORY-tmpzmf41.md)): **illustrates**. DiscoveryBench's goals are formed by masking one dimension of a hypothesis, so the goal fixes what kind of difference (a context, a variable set, a relationship) would answer it; goals that leave context or variables open are harder than those that fix them.
+- **Bao et al.** ([THEORY-tmpq26fh](../theory.d/THEORY-tmpq26fh.md)): The Discussion's claim that novelty, feasibility and probability are "functions of an evolving disciplinary horizon" is the authors' view, consistent with CLAIM-470; not evidence for it.
 
 The claim is unchanged.

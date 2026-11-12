@@ -70,6 +70,6 @@ performative updates with stable response distributions.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Singh** (THEORY-tmpbt97y): Singh's operations as performatives on commitments are a neighbouring model of standing changed by speech acts; bears on how a filing or an ADR changes standing.
+- **Singh** ([THEORY-tmpbt97y](../theory.d/THEORY-tmpbt97y.md)): Singh's operations as performatives on commitments are a neighbouring model of standing changed by speech acts; bears on how a filing or an ADR changes standing.
 
 The claim is unchanged.

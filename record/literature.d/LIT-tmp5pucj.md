@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12 (NOTE-tmpb7lxt) from
+  Read on 2026-11-12 ([NOTE-tmpb7lxt](../notes.d/NOTE-tmpb7lxt.md)) from
   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4530550/fullTextXML.
 title: 'Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications'
 version: 2
@@ -60,8 +60,8 @@ Tim Clark, Paolo Ciccarese and Carole Goble (2014), Journal of Biomedical Semant
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on CLAIM-469 and QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [CLAIM-469](../claims.d/CLAIM-469.md) and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
 
 ## Reading of 2026-11-12
 
-Read in NOTE-tmpb7lxt, from https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4530550/fullTextXML; its account is THEORY-tmpes8q7.
+Read in [NOTE-tmpb7lxt](../notes.d/NOTE-tmpb7lxt.md), from https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4530550/fullTextXML; its account is [THEORY-tmpes8q7](../theory.d/THEORY-tmpes8q7.md).
