@@ -1,0 +1,174 @@
+---
+status: Skimmed
+paper: LIT-tmp4zfda
+title: 'Brussels Collaboration on Bodily Integrity (2024) — Genital Modifications in Prepubescent Minors: When May Clinicians Ethically Proceed?'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - White Rose Research Online
+    (Universities of Leeds, Sheffield and York institutional repository),
+    eprint 221441:
+    https://eprints.whiterose.ac.uk/id/eprint/221441/1/Genital%20Modifications%20in%20Prepubescent%20Minors%20%20When%20May%20Clinicians%20Ethically%20Proceed%20.pdf,
+    fetched 2026-11-12, PDF (51 pp.). Although OpenAlex labels this copy the
+    accepted version, the file is the **publisher's typeset open-access
+    version** (Taylor & Francis cover page, "Published online: 17 Jul 2024",
+    CC BY-NC-ND 4.0). - **Read closely**: abstract; Introduction; "Limits on
+    Parental Authority: From Status Quo to Paradigm Shift" with Box 1;
+    "Private Anatomy, Personal Choice" with Box 3; the opening of "Physical
+    Versus Mental Health and Medical Necessity" (Wilkinson's definition, the
+    four conditions, the start of Box 4); "Who Deserves Protection?";
+    Conclusion. - **Skipped or skimmed**: "Background on Intersex", "A
+    Movement for Genital Autonomy" (scope), "Two Recent Pledges" (the Lurie
+    and Boston Children's statements, known only as quoted elsewhere in the
+    paper), the rest of Box 4, "'Most Don't Complain'" (retrospective
+    endorsement), Appendix A (authors), Appendix B (penile circumcision and
+    physical-health benefits), references. Outcome as the reader gave it:
+    **Skimmed** (the argument read in full; background, two sections and the
+    appendices skipped or skimmed).
+date: '2026-11-12'
+summary: >-
+  Restricting itself to nonvoluntary genital cutting or surgery by licensed
+  clinicians on prepubescent children in Global North healthcare systems,
+  and taking no position on criminal law or religious practice outside
+  healthcare, the collaboration argues: there is a near-universal consensus
+  that clinicians may not perform any medically unnecessary genital
+  procedure on endosex girls, however minimal; the sound reasons for that
+  consensus are not benefit–risk calculations but respect for privacy,
+  bodily integrity, developing sexual boundaries and future genital
+  autonomy; those reasons apply equally to intersex children and endosex
+  boys; so clinicians should perform no nonvoluntary genital cutting or
+  surgery on any child unless it is medically necessary in a strict sense (a
+  serious, time-sensitive threat to physical health, no less invasive or
+  postponable alternative, preserving future choice). They reject the
+  "mental health" defence of early surgery, hold that errors of commission
+  and omission are not symmetric, and invoke Feinberg's "right in trust".
+---
+<!-- inactive-ok-file: TERM-083 THEORY-464 THEORY-768 — Proposed; cited as on the record -->
+<!-- inactive-ok-file: LIT-tmpmeavd — Deferred; filed from the same exchange -->
+
+# NOTE-tmpzb2cf: Brussels Collaboration on Bodily Integrity (2024) — Genital Modifications in Prepubescent Minors: When May Clinicians Ethically Proceed?
+
+## Contribution
+
+A sex-neutral, medical-necessity standard for nonvoluntary genital
+procedures, grounded in the special social meaning of "intimate" anatomy and
+a right held in trust, used to expose inconsistency in hospital policies that
+protect intersex children but continue routine circumcision and cosmetic
+hypospadias surgery.
+
+## Key results
+
+1. **The standard (Abstract).** "clinicians should not be permitted to
+   perform any nonvoluntary genital cutting or surgery in prepubescent
+   minors, irrespective of the latter's sex traits or gender assignment,
+   unless urgently necessary to protect their physical health."
+2. **Grounds are not utility (Abstract).** The reasons "turn not on
+   empirically contestable benefit–risk calculations, but on a fundamental
+   concern to respect the child's privacy, bodily integrity, developing
+   sexual boundaries, and (future) genital autonomy."
+3. **Paradigm shift (Limits on Parental Authority).** Instead of lines drawn
+   around third-party "assessments of expected levels of net harm or benefit"
+   or the child's assigned sex, permissibility "should ... turn exclusively
+   on considerations of medical necessity".
+4. **Parental authority limited (same section).** Parents are not "entitled,
+   whether legally or morally, to authorize simply whatever incursions into
+   their child's body they may choose, even if they have benevolent
+   intentions".
+5. **Wronged regardless of harm (Private Anatomy, Personal Choice).**
+   Children "are therefore wronged by any such cutting or surgery, regardless
+   of the anticipated level of harm or benefit as judged by an outside party".
+6. **Asymmetry of errors (same section).** Harms of omission and commission
+   "are not equivalent"; a person harmed by omission can still choose surgery
+   later, whereas one harmed by commission "would have no comparable remedy".
+7. **Right in trust (same section).** Caretakers "have an obligation to hold
+   certain rights in trust for the child to exercise when they have reached a
+   certain stage of maturity, rather than undermine those rights in advance
+   (Feinberg 2014...)".
+8. **Future self-relation (same section).** Infants lack a conception of
+   private anatomy, but "as they are socialized into early childhood and
+   beyond, they will inevitably come to associate this part of their body ...
+   with ... privacy, intimacy, sexuality, personal identity".
+9. **Category irrelevance (Who Deserves Protection?).** "The shape of one's
+   genitalia, or how one is socially or legally categorized on that basis, is
+   morally irrelevant to whether one deserves to be protected".
+10. **No legal position (Conclusion).** "We do not share a single opinion as
+    to which legal measures, if any, should be pursued".
+
+## Assumptions
+
+Global North norms and healthcare systems; the special social meaning of
+genitals (Bettcher; "default interpersonal distance") is taken as given
+rather than justified as universal; Wilkinson's definition of medical
+necessity; the empirical claim (in "Most Don't Complain", not read here)
+that nonvoluntary surgery causes harm and omission has not been shown to;
+the child will come to have the relevant self-conception.
+
+## Concepts
+
+Nonvoluntary vs voluntary procedures; endosex vs intersex; genital autonomy;
+right in trust (Feinberg's open future); medical necessity (Wilkinson);
+physical vs mental health; intimate or private anatomy; errors of omission
+vs commission; parental proxy permission; paradigm shift from utility to
+necessity.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A2/A3's account ("ethical protections against nonconsensual genital
+modification of prepubescent minors should apply consistently across male,
+female and intersex children, on grounds of bodily integrity and future
+autonomy") is **accurate**. Its scope limits matter and should be carried:
+clinicians in regulated healthcare only, prepubescent children only, no
+position on law or on religious rites performed outside healthcare.
+
+- **[QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md)** (what makes one agent's authority over another's body
+  legitimate when the other has standing but cannot decide: welfare, earlier
+  wishes, projected future wishes, or the relation; and why parental consent
+  and advance directives differ): **bears directly, gives one answer the
+  question lists, and supplies A9's test variables**. The paper rejects
+  welfare (third-party benefit–risk judgment) as the ground for nonvoluntary
+  intimate procedures and grounds the limit in the future person's interest
+  in deciding, a right "held in trust" (results 5, 7): projected future
+  agency, not earlier wishes. It sorts A9's comparison exactly by the
+  variables A9 names: medically necessary, non-postponable surgery is
+  permitted with parental permission; elective procedures are not, whatever
+  the parents' reasons or expected welfare. Its asymmetry argument (result 6)
+  is a reason, independent of welfare, why surrogate authority should
+  default to postponement when a later decision remains possible. It does
+  not discuss advance directives, so the asymmetry the question names is not
+  addressed, and it presupposes, rather than defends, that the open-future
+  interest is a ground of its own, which is what Millum ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md))
+  disputes. Its restriction to genital anatomy rests on that anatomy's social
+  meaning, so it does not offer a general account of surrogate authority.
+
+Other held entries it bears on (found on recheck):
+- **[THEORY-464](../theory.d/THEORY-464.md)** (the relation that decides identity-involving ethics is not
+  identity): the paper's ground is what the child "will inevitably come to"
+  feel about their body, a forward relation between infant and adult that
+  does not rest on identity claims; consistent with A9 §3's suggestion
+  reported in the question.
+- **[TERM-100](../terms.d/TERM-100.md)** provenance mapping in the question's 2026-11-12 note: the
+  paper's "right in trust" is maintenance by others of a right whose
+  formation and exercise are reserved to the child.
+- **[LIT-tmpmeavd](../literature.d/LIT-tmpmeavd.md)** (scoping review on male circumcision ethics, branch,
+  unread) and **[LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)** (Millum, "No Right to an Open Future",
+  branch, unread): the nearest neighbours on both sides.
+- **[TERM-083](../terms.d/TERM-083.md)** (moral standing): the paper takes the child's standing as
+  given and argues what follows for others' authority.
+
+Searched origin/main and the branch for: circumcision, intersex, right in
+trust, open future, Feinberg, bodily integrity, genital, the DOI. Main holds
+nothing directly on these ([LIT-288](../literature.d/LIT-288.md) and [THEORY-768](../theory.d/THEORY-768.md) are unrelated uses). The
+branch holds [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md), [THEORY-464](../theory.d/THEORY-464.md), [LIT-tmpmeavd](../literature.d/LIT-tmpmeavd.md), [LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md),
+[LIT-tmpv2gd0](../literature.d/LIT-tmpv2gd0.md). **Not already held** under another LIT.
+
+## Limitations
+
+Normative argument by an advocacy-aligned collaboration; the empirical
+premises (harms of surgery, absence of harm from deferral, retrospective
+endorsement) are in a section not read here; Global North scope; no
+treatment of advance directives or of adolescents; parental-permission
+requirements for medically necessary procedures declared out of scope.

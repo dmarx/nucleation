@@ -44,6 +44,7 @@ summary: >-
   function from the dynamics and tells it from mere contribution to
   persistence, and an account of what a standard needs beyond it.
 ---
+<!-- inactive-ok-file: LIT-tmpu0vef — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 <!-- inactive-ok-file: QUESTION-007 — Deferred; set aside with the authenticity line, and cited to say where the cross-agent half went -->
 
@@ -175,3 +176,16 @@ revises its criteria and not only its estimates. Its main threat is the
 one this question presses: the designer still chose the learning rule
 and the viability variable ([THEORY-1646](../theory.d/THEORY-1646.md)). Not run. The question
 stays Open.
+
+## Note of 2026-11-12: working from relations among organizations, from "Medical Ethics and Media Enshitification"
+
+A37 §§2 and 11 of the exchange (2026-11-11) propose a route this question
+allows. Instead of deriving norms from one organization's self-maintenance,
+"use organizational theory to explain how independently warranted norms
+become effective, fail, or are systematically excluded", and start from
+"conflicts among overlapping organizations and their standards of success":
+parasite and host, platform and user, newsroom and public. The parasite case
+shows the limit sharply: "A standard for successful biological functioning
+is not yet a standard for what is owed to another being." A also flags
+Leffler on constitutivism ([LIT-tmpu0vef](../literature.d/LIT-tmpu0vef.md), unread) as the adversarial test.
+The question stays Open.

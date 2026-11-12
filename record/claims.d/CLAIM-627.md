@@ -101,3 +101,10 @@ defeated_if names, with one classifier at a time and outcomes measured
 rather than the compatibility of uses. The claim now rests on [CLAIM-197](CLAIM-197.md)
 and [CLAIM-057](CLAIM-057.md) with no ground, and stays Proposed. The ARG sketches a
 variant of [CASE-002](../cases.d/CASE-002.md) that would bear on it.
+
+## Note of 2026-11-12: Moats et al. (2026), read
+
+From the reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)), the reader's assessment as
+checked by the filer: , already linked from [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md): the
+border-threshold case (result 7) is settled by negotiating power,
+"reflecting the current power balance".

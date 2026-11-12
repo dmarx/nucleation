@@ -1,0 +1,77 @@
+---
+status: Proposed
+title: 'PASS@(k,T)''s capability boundary, efficiency and interaction depth correspond to the record''s reachability by a process, reliable attainment and resource index, with two differences: the paper''s process is a stochastic policy that can change with its budget, and its success is judged by an oracle'
+version: 1
+form: analogy
+grounds:
+- THEORY-tmps74c5
+concludes:
+- CLAIM-tmpyc5md
+tags:
+- mathematics
+- learning-theory
+date: '2026-11-12'
+line:
+- realizability
+summary: >-
+  From the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11): the owner's U21 and A44 §§1 and 5, with the paper read.
+  The analogy holds for the respects the owner's claim needs: a
+  limiting-success set relative to a process and a budget, against
+  single-attempt reliability inside it. It fails to carry monotonicity in
+  the budget, because a policy is not a fixed move rule, and it carries
+  nothing about evaluators that can be wrong. Proposed. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: THEORY-tmps74c5 — filed from the same exchange, Proposed -->
+
+# ARG-tmpid47d: PASS@(k,T)'s capability boundary, efficiency and interaction depth correspond to the record's reachability by a process, reliable attainment and resource index, with two differences: the paper's process is a stochastic policy that can change with its budget, and its success is judged by an oracle
+
+## The inference
+
+[THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md) defines, for a policy π and depth T, a boundary B_T(π) of
+problems with nonzero limiting success, and efficiency as PASS@(1,T) inside
+it. [CLAIM-567](../claims.d/CLAIM-567.md) defines, for a process and a target, feasible, reachable
+(some admissible path) and reliably reached (probability at least 1 − ε).
+[CLAIM-560](../claims.d/CLAIM-560.md) indexes reachable sets by a budget. So: boundary ≈ reachable by
+this process at this budget; efficiency ≈ reliability; T ≈ the budget.
+
+## Critical questions
+
+- **In what respect are they alike, and is it the respect the conclusion
+  needs?** Both separate whether a process can ever produce a success from
+  how often it does, under a resource bound. The paper's "efficiency
+  improvement moves probability mass within the intersection of capability
+  sets, while capability expansion enlarges the union" is [CLAIM-567](../claims.d/CLAIM-567.md)'s
+  reachable/reliably-reached split for two processes compared. That is the
+  respect the owner's claim needs.
+- **What relevant difference is there?**
+  - *The process.* [CLAIM-567](../claims.d/CLAIM-567.md) and [CLAIM-560](../claims.d/CLAIM-560.md) fix a move rule; the paper
+    compares policies, and a policy can act differently when given more
+    rounds. The paper states monotonicity in T, "unused rounds are simply
+    not exercised", but its own per-depth estimates fall in places (0.32 at
+    T = 2 to 0.20 at T = 3 for the base model on comparison questions, k =
+    1). So T is a resource index of the reachable set only for a policy that
+    ignores budget it does not use.
+  - *Feasibility.* The paper has no counterpart of feasibility apart from
+    reachability: a problem outside every policy's boundary is not shown
+    infeasible. [CLAIM-567](../claims.d/CLAIM-567.md)'s first property has no column in the table.
+  - *The evaluator.* Success is exact match against a gold answer. In an
+    organization the judge of success is fallible and itself governed;
+    A44 §5's "Oracle-assessed availability" against "Operational success"
+    is a further split the paper does not make.
+- **What transfers, and what does not?** The definitions transfer, and so
+  does the paper's empirical method for estimating them, sampling at a grid
+  of budgets. Monotonicity in the budget does not transfer without the
+  fixed-rule premise, and nothing about recognizing success does.
+
+## Verdict
+
+Proposed. The correspondence is good enough to carry the owner's claim, with
+the two qualifications the claim now states.
+
+## Note of 2026-11-12: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? (Zhu, Jin, Tu, Men, Hao, Li, Liu, Zhao 2026), read
+
+From the reading in [NOTE-tmpjmhp7](../notes.d/NOTE-tmpjmhp7.md) ([LIT-tmpj8nbo](../literature.d/LIT-tmpj8nbo.md)), the reader's assessment as
+checked by the filer: **supports**: a second paper's evidence that
+budget-conditional behaviour is real and trainable.

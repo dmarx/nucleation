@@ -1,0 +1,92 @@
+---
+status: Read
+paper: LIT-tmpls9sm
+title: 'Gutiérrez-Manjón and others (2025) — Designing for monetization: A taxonomy of dark patterns in top-grossing GaaS video games'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read: publisher's diamond-OA
+    PDF, 8 pages as served (article pp. 76–97 of the issue; the PDF counts
+    as 8 PDF pages with spreads),
+    `https://tripodos.com/index.php/Facultat_Comunicacio_Blanquerna/article/download/1738/1542`,
+    fetched 2026-11-12, converted with pdftotext. - Read: abstract (English
+    and Spanish), introduction, objectives, methodology, the taxonomy
+    (Tables 1–3), content analysis (temporal, monetary, social; Tables 4–5),
+    discussion and conclusions, limitations, funding note, references. Not
+    read: screenshots (Figs 2–5); Table 6 (social patterns by game) did not
+    survive text extraction. Outcome as the reader gave it: **Read** (in
+    full, English article; tables read as extracted text,
+    figures/screenshots not inspected; Table 6 content did not extract).
+date: '2026-11-12'
+summary: >-
+  The authors build a taxonomy of monetization-oriented dark patterns in
+  games from the literature (starting from DarkPattern.games and Zagal,
+  Björk and Lewis 2013), in three blocks: temporal (playing by appointment,
+  daily rewards, grinding, infinite treadmill, no pause/save, forced
+  waiting, and a new "automated play" category adapted from Schüll's account
+  of machine gambling), monetary (proprietary currency, waste aversion, no
+  spending limit, pay to skip, pay to win, subscriptions, loot boxes,
+  artificial scarcity, anchoring, value degradation, accidental purchases)
+  and social (social obligation, forced recruitment, incentives for
+  antisocial behaviour, competitive pressure). A fourth, cognitive-emotional
+  block was dropped as describing goals rather than observable mechanics.
+  They then code presence/absence of each pattern, by direct observation, in
+  nine of the ten top-grossing games of 2024 (four console/PC: College
+  Football 25, EA Sports FC 25, Fortnite, NBA 2K25; five mobile: Honor of
+  Kings, Monopoly Go!, Royal Match, Roblox, PUBG Mobile). Mobile titles show
+  a denser, more aggressive use; none of the nine has spending limits;
+  Fortnite is the least aggressive (no pay-to-win or loot boxes). They argue
+  for a "veiled gamblification" of game design and propose "fragmented
+  monetization" or "atomized payments" in place of the euphemism
+  "microtransactions".
+---
+<!-- inactive-ok-file: CASE-tmpmw3hc CASE-tmpza0id CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmp88875 LIT-tmpbl3eg LIT-tmpuoy9g — Unfetched; filed from the same exchange -->
+
+# NOTE-tmp4nq1v: Gutiérrez-Manjón and others (2025) — Designing for monetization: A taxonomy of dark patterns in top-grossing GaaS video games
+
+## Contribution
+
+An updated, three-dimension taxonomy of game dark patterns with key references, one new category (automated play), and a presence/absence census of it in the commercially leading GaaS titles of 2024; plus a terminological proposal.
+
+## Key results
+
+1. Abstract: "The findings reveal a denser and more aggressive deployment of these practices in mobile games, where mechanics such as daily rewards, opaque virtual currencies, loot boxes, and socially driven incentives converge." (PDF renders "!ndings".)
+2. Methodology: the cognitive-emotional aspects "were more accurately described as the intended outcomes or goals of mechanics within the other three blocks".
+3. Temporal patterns: automated play is "a dark pattern that delegates core gameplay loops to the system in order to maximise “hands-off” time-on-task in GaaS titles."
+4. Monetary analysis: "None of the analysed games implement explicit spending limits."
+5. Monetary analysis: Fortnite "stands out for its distinct and less aggressive approach".
+6. Social analysis: "eight out of the nine titles promote high or very high levels of competitiveness, while seven games include pyramid-like mechanisms that incentivize player recruitment."
+7. Discussion: "a veiled gamblification of game design".
+8. Discussion: "we propose the terms fragmented monetization or atomized payments".
+9. Limitations: the analysis "does not incorporate player-centred data on how these mechanics are experienced in practice."
+10. Introduction: GDC 2025 found "a plurality of developers (42 %) is explicitly “not interested” in working on GaaS titles" (cited survey, not the authors' data).
+
+## Assumptions
+
+- A dark pattern is defined from the designer's intent and the conflict with players' interests (Zagal et al.), so presence of a mechanic is coded as a dark pattern without measuring harm.
+- Binary coding by the authors' own observation, without stated inter-rater procedure or reliability.
+- Top-grossing titles represent the industry's current practice.
+- Awareness alone does not neutralize patterns that act on heuristic processes (they reject Zagal et al.'s literacy remedy as insufficient), yet still call for digital literacy.
+
+## Concepts
+
+Games as a Service (GaaS), free-to-play; dark patterns / deceptive design; temporal, monetary and social patterns; automated play; infinite treadmill; waste aversion; anchoring; value degradation; pay to skip / pay to win; loot boxes; FOMO; gamblification; fragmented monetization / atomized payments; manipulation literacy.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A's account ("a taxonomy of temporal, monetary and social dark patterns in nine top-grossing games-as-a-service") is **accurate**. It should add that the census is presence/absence coding by the authors' observation (no player data, no spending data) and that the comparative finding is mobile more aggressive than console/PC. The LIT's venue string ("Tripodos 05") is wrong (see corrections).
+
+- **[LIT-1465](../literature.d/LIT-1465.md)** (Flayelle et al. 2023, taxonomy of design features promoting potentially addictive online behaviours): **complements; neither supports nor qualifies.** Both are taxonomies of design features that work against users' control. Flayelle et al. sort features by the learning/control mechanism (model-free reinforcement vs model-based interference) and review evidence of loss of control; Gutiérrez-Manjón et al. sort by the resource exploited (time, money, social ties) and count presence in specific products, without evidence of effect. Several items map across: loot boxes (random-ratio reinforcement), daily rewards and limited-time events (personalized/timed triggers, countdowns), infinite treadmill (partial goal fulfilment), automated play (close to autoplay as interference with deliberation). The Tripodos paper's dropping of the "cognitive-emotional" block, because it names goals not mechanics, is a useful contrast with Flayelle et al., whose taxonomy is organized precisely by those cognitive mechanisms. The new paper adds product-level prevalence (2024 top grossers, none with spending limits); it adds no evidence of harm.
+- **[CASE-tmpza0id](../cases.d/CASE-tmpza0id.md)** (found on recheck: proposed study whether a recommender's or a game's monetization design raises revenue by lowering the efficacy of users' endorsed commitments): this paper supplies a candidate inventory of game mechanics for that study's treatment variables (no spending limits, pay to skip, daily rewards); it does not measure efficacy of commitments.
+- **[CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md) / [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md)** (found on recheck: whether a spending minority selects a game's design): no direct bearing; the paper does not examine who pays or how designs change across releases. Its "value degradation" category (older items lose value after updates) is the mechanism [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md) proposes to track.
+
+Searched record/ (batch ref) for "tripodos", "dark pattern", "loot box", "Zagal", "Schüll", "gamblif", "games-as-a-service/GaaS", "microtransaction". Not held under another LIT. Related held entries: [LIT-1465](../literature.d/LIT-1465.md) and [NOTE-1096](NOTE-1096.md) (Active/Read), [LIT-1002](../literature.d/LIT-1002.md) ("Technology, autonomy, and manipulation", Active), [LIT-tmprzg97](../literature.d/LIT-tmprzg97.md) ("The Double Darkness of Dark Patterns", Deferred), [LIT-tmpj7u27](../literature.d/LIT-tmpj7u27.md) (Deferred), [LIT-tmpuoy9g](../literature.d/LIT-tmpuoy9g.md) ("Categorization of Loot Box Design: A Scoping Review of Problematic Features", Deferred: the closest held taxonomy of loot-box features), [LIT-tmp88875](../literature.d/LIT-tmp88875.md), [LIT-tmpbl3eg](../literature.d/LIT-tmpbl3eg.md), [LIT-tmpftfht](../literature.d/LIT-tmpftfht.md), [LIT-tmpk21r4](../literature.d/LIT-tmpk21r4.md) (Deferred, loot boxes), [CASE-tmpza0id](../cases.d/CASE-tmpza0id.md), [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md). Zagal et al. (2013) and Schüll (2012) are not held.
+
+## Limitations
+
+Nine titles; binary presence coding by the authors with no reliability measure; no player, spending or harm data; "risk" levels for social patterns are the authors' judgement; screenshots illustrate rather than evidence frequency; the taxonomy is assembled from literature of uneven weight (websites, conference papers).

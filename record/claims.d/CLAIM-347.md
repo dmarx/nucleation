@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp55mls
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-18'
@@ -32,6 +32,14 @@ history:
     defined, its explanatory role is interpretive." The interpretive
     part is unchanged, and its relation to operative thwarting stays
     QUESTION-131's.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12, the dated note's account
+    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
+    recognized set cannot improve conjunctive compliance or lower the count
+    of recognized violations, not that every score against the recognized
+    set can only fall. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,6 +88,8 @@ summary: >-
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 ---
+<!-- inactive-ok-file: NOTE-tmpxhqv2 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
@@ -391,3 +401,64 @@ A9 §4 of the exchange (2026-11-06 to 07): "Silencing an oscillator is not the s
 ## Note of 2026-11-07: a product line's admissible feature combinations, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), defines the admissible feature combinations of a product version, K_v, and says: "When the feature constraints are purely permissive and downward-closed, this is a simplicial complex. With mandatory features and other nonmonotonic configuration requirements, the admissible configurations are better represented directly by a constraint system rather than assuming simplicial structure." That is this claim's complex of jointly satisfiable demands, for a product line. The reader checked it on {offline, e2e, collab} with offline and collab in conflict: the faces are the empty set, the three vertices, {e2e, offline} and {collab, e2e}, so the minimal non-face is the conflict. A's caution about mandatory features is right. A does not cite this claim. No status changes.
+
+## Note of 2026-11-12: the complex and normativity, from "Medical Ethics and Media Enshitification"
+
+The owner asked at U19 of the exchange (2026-11-11) how the discussion
+interacts with the compatibility complex. A39 §1 states the definition
+accurately and says what it is not: "the compatibility complex is not itself
+a moral theory". Its contribution is "to identify the structure of possible
+accommodation once the demands and the relevant organization have been
+specified". A39's game with three demands, revenue, accessibility and budget
+protection, every pair attainable and not the triple, is [CASE-119](../cases.d/CASE-119.md)'s hollow
+triangle (note there). A42 §8 turns the specification into a question, filed
+as [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), and [CLAIM-tmpvceet](CLAIM-tmpvceet.md) derives from this claim's downward closure that, for a fixed arrangement,
+recognizing more demands cannot improve conjunctive compliance or lower the
+count of recognized violations (as narrowed after the owner's review of [#485](https://github.com/dmarx/nucleation/issues/485)
+on 2026-11-12; not every score against the recognized set falls). No status change.
+
+## Note of 2026-11-12: Fanning & Raworth (2025), read
+
+From the reading in [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md) ([LIT-tmpvzqif](../literature.d/LIT-tmpvzqif.md)), the reader's assessment as
+checked by the filer: **supports, as an illustration from outside**. The
+Doughnut judges each demand against its own acceptance threshold and
+declines a common scale between the social and ecological domains ("no
+directly traceable link"). It **qualifies** the claim's spirit in one
+respect: the paper still summarises across indicators with medians and
+interquartile ranges, a cross-indicator aggregate that the claim would treat
+as a declared measure, not as frustration itself.
+
+## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
+
+From the reading in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) ([LIT-tmpfkveo](../literature.d/LIT-tmpfkveo.md)), the reader's assessment as
+checked by the filer: **supports by analogy, independently.** Burke et al.
+keep the multi-metric vector as a legitimate end state and allow expert
+orderings with incomparable pairs, which is CLAIM-347's point that relief
+need not be a quantity and that two reorganizations can be incomparable.
+They do not have CLAIM-347's sharp edge: they allow converting metrics to
+constraints or weights, and say nothing on comparing systems with different
+stakeholder sets (CLAIM-347's "dropping or suppressing a demand is not
+relief").
+
+## Note of 2026-11-12: Rockström, Denton, Norström et al., read
+
+From the reading in [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md) ([LIT-tmpmcbfb](../literature.d/LIT-tmpmcbfb.md)), the reader's assessment as
+checked by the filer: the recapped result that meeting minimum access for
+the poorest "would cause further transgressions" under current inequality is
+a case of jointly unsatisfiable demands (floor vs ceiling) for given
+conditions, and the Commission's remedy is reorganization (redistribution,
+technology), i.e. relief in CLAIM-347's sense, not dropping a demand.
+Illustrative only; no ordinal analysis.
+
+## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
+
+From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
+checked by the filer: **leaves open; serves at most as a contrast case.**
+The model resolves user–organization conflict by a weighted sum whose
+weights are set by "flexibility", i.e. by discounting whichever party can
+bend. In CLAIM-347's terms that is suppression by weighting, not relief: the
+set of jointly satisfiable demands is not enlarged, the user's demand is
+down-weighted when the user is judged flexible. The paper offers no ordinal
+or complex-based account, and it does not measure whether the steered user
+is satisfied. It is an example of the practice the claim distinguishes from
+relief, not evidence for or against the claim.

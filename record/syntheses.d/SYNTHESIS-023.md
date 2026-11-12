@@ -254,3 +254,18 @@ be filed.
 - That an agent who overrides is not the author of the act ([CLAIM-362](../claims.d/CLAIM-362.md),
   after [CLAIM-261](../claims.d/CLAIM-261.md)).
 - Anything with standing of its own.
+
+## Note of 2026-11-12: Étienne Brown, read
+
+From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
+checked by the filer: **leaves open; adds a relational-epistemic dimension
+the line lacks.** Brown's volitional alignment is the Frankfurtian hierarchy
+the line's ownership account goes beyond, and he does not address the
+manipulation objection that set the line aside (whether a recommender could
+shape the second-order desires themselves). His self-understanding
+dimension, relational and fed by others' (and systems') testimony, is a
+dimension the synthesis does not name: authenticity as partly knowing one's
+commitments, with the risk (Farah) that an opaque source produces false
+self-attributions. That bears on "answerable to": a commitment revised on a
+false reading of oneself is answerable to a mistaken model. It neither
+supports nor defeats the line's criteria.

@@ -37,6 +37,7 @@ summary: >-
   training (Experiment 2), they became compositional, with substrings for
   colour, shape and motion. Participants believed they were copying.
 ---
+<!-- inactive-ok-file: LIT-1932 — Deferred; cited as on the record -->
 
 <!-- inactive-ok-file: LIT-768 — Unavailable, no lawful full text; named as the ancestor of the method, not leaned on -->
 
@@ -200,3 +201,9 @@ to the appearance of design without a designer".
   asks for)?
 - Do the results hold with more chains, larger meaning spaces, or child
   learners?
+
+## Note of 2026-11-12: Nickl, Moussaïd and Lorenz-Spreen (2025), read
+
+From the reading in [NOTE-tmppj4sz](NOTE-tmppj4sz.md) ([LIT-tmpaptli](../literature.d/LIT-tmpaptli.md)), the reader's assessment as
+checked by the filer: and **[LIT-1932](../literature.d/LIT-1932.md)** (units of inheritance): the paper's
+cultural-selection framing is the same family; no specific bearing.

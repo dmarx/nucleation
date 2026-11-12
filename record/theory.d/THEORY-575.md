@@ -134,3 +134,9 @@ the paper's "could be accommodated" to "could not be").
 - **The group-agency strand** ([LIT-391](../literature.d/LIT-391.md), [LIT-401](../literature.d/LIT-401.md), [THEORY-139](THEORY-139.md), [THEORY-043](THEORY-043.md)).
   The distinction scopes their questions to organized groups. It does not
   say whether any organized group is an agent.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](../literature.d/LIT-tmp14en7.md)), the reader's assessment as
+checked by the filer: CBS subgroups are feature groups defined by attribute
+values; the authors' §5.4 caution parallels the distinction.

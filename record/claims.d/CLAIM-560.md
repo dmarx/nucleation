@@ -65,6 +65,7 @@ summary: >-
   what is new is the pairing. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmpid47d — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- ref::uses-file: TERM-114 — "an architecture with configurations Q, moves between them, a capacity requirement r and demands", with reachability R(b) indexed by budget, is TERM-114's resource-bounded constraint system -->
 
@@ -145,3 +146,12 @@ held in [CLAIM-571](CLAIM-571.md). With one-way moves it is not ([CLAIM-591](CLA
 - **A's appraisal.** A calls the pairing "one of the most promising
   mathematical features of the entire proposal". The claim is only the
   separation.
+
+## Note of 2026-11-12: interaction depth as a budget, and a policy that is not a move rule, from "Medical Ethics and Media Enshitification"
+
+PASS@(k,T)'s interaction depth T ([LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md), read) is a resource index of
+a reachable set, as A44 §1 says citing this claim. The reading qualifies the
+analogy: this claim's filtrations are monotone because the move rule is
+fixed, while the paper compares policies that may act differently with more
+budget, and its own per-depth estimates fall in places. [ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md). No
+status change.

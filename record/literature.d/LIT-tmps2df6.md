@@ -1,0 +1,52 @@
+---
+status: Unfetched
+status_note: >-
+  Unfetched on 2026-11-12. The ScienceDirect gold open-access PDF,
+  https://www.sciencedirect.com/science/article/pii/S0969996122002844/pdf
+  (CC BY-NC-ND), returned a bot or cookie page (HTTP 403); not retried. The
+  DOAJ listing routes to the same page, and there is no PMC copy. Only the
+  abstract was read. A neighbour was read in its place: Castela and others
+  2017 (LIT-tmpyfxly), from the same group, which carries the CCL2/CCR2
+  recruitment mechanism but not this paper's results on maternal brain
+  injury.
+title: 'CCL2 recruits fetal microchimeric cells and dampens maternal brain damage in post-partum mice'
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref gives only the month (2022-11); OpenAlex gives 2022-10-12, which `published:` uses as the earliest exact date (ADR-002). The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
+tags:
+- natural-sciences
+- neuroscience
+date: '2026-11-12'
+published: '2022-10-12'
+doi: '10.1016/j.nbd.2022.105892'
+first_author: 'Sbeih'
+keywords: []
+implementations: []
+summary: >-
+  Sbeih et al. (2022), DOI-10.1016/j.nbd.2022.105892. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md). In A's account, which is unverified until read, it reports that CCL2 recruits fetal microchimeric cells to injured maternal brain in postpartum mice, with less damage.
+---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
+
+# LIT-tmps2df6: CCL2 recruits fetal microchimeric cells and dampens maternal brain damage in post-partum mice
+
+Maria Sbeih, Bénédicte Oulès, Mansour Alkobtawi, Leslie Schwendimann, Qui Trung Ngô, Romain Fontaine and others (2022). "CCL2 recruits fetal microchimeric cells and dampens maternal brain damage in post-partum mice." *Neurobiology of Disease 174: 105892*. DOI-10.1016/j.nbd.2022.105892.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* In A's account, unverified until read, it reports that CCL2 recruits fetal microchimeric cells to injured maternal brain in postpartum mice, with less damage.
+
+## Standing in the record
+
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).
+
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpyfxly](LIT-tmpyfxly.md). The
+reader on how far it stands in:

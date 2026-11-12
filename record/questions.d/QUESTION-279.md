@@ -35,6 +35,7 @@ summary: >-
   court must decide whether to accept it. An answer says what such a
   certificate would be for a remedy, and who can issue it.
 ---
+<!-- inactive-ok-file: CASE-tmpz1l6r THEORY-tmps74c5 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 # QUESTION-279: What would certify that no remedy is available to an institutional arrangement, rather than that its present procedures failed to find, authorize or carry one out before the deadline?
 
@@ -151,3 +152,13 @@ past capability, a candidate for what plays the sorted index's part: a
 record of what the arrangement has done before. It does not say what would
 certify that no remedy exists; that question never arose. The question is
 unchanged and stays Open.
+
+## Note of 2026-11-12: finite failures and a sampled boundary, from "Medical Ethics and Media Enshitification"
+
+Zhai and colleagues' capability boundary ([LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md), read) is estimated
+as the problems solved at least once in n rollouts; a problem outside it at n = 64 is
+not shown unsolvable. A44 draws the moral for this question: "an
+institutional claim that no acceptable remedy exists requires more than
+repeated unsuccessful searches", and adds that a solution sampled but not
+recognized by the institution's evaluator is not a remedy found
+([CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md)). [THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md) bears on this question.

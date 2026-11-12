@@ -35,6 +35,10 @@ summary: >-
 bears_on:
 - QUESTION-035
 ---
+<!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpn0ytb THEORY-tmp4rc81 THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-443 THEORY-464 THEORY-476 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-072 THEORY-221 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; named as a parallel the reading draws, not leaned on -->
@@ -136,3 +140,74 @@ argument shows neither does, given Kingma's own concessions.
   parthood, de re or de dicto. Meincke claims an indeterminate count and
   leans de re, "flows naturally from the processual constitution", without
   using that machinery.
+
+## Note of 2026-11-12: the owner's microchimerism link, from "Medical Ethics and Media Enshitification"
+
+A9 §2 of the exchange (2026-11-11) describes this reading accurately:
+Proposed, with no formal measure of the intermediate individuality and no
+ethical conclusion. The owner's U5 linked it to microchimerism, filed as
+[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md): cells of mother and offspring persist in each other for
+decades, so the separation gestation begins is not completed at birth at the
+level of cells. The readings behind that ([THEORY-tmp6t2l2](THEORY-tmp6t2l2.md), [THEORY-tmp4rc81](THEORY-tmp4rc81.md))
+concern the relation after birth, which Meincke does not reach; they extend
+her question and do not supply the measure she lacks. A13 named the rival
+mereologies of pregnancy, now registered unread: Devanesan's overlap view
+from immunology ([LIT-tmptsxgp](../literature.d/LIT-tmptsxgp.md), [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md)), Geddes on proper overlap
+([LIT-tmpw9l03](../literature.d/LIT-tmpw9l03.md)), Hershenov against parthood ([LIT-tmp63w88](../literature.d/LIT-tmp63w88.md)) and Finn's split
+between when an organism begins and how it relates to the gestating one
+([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)). No status change.
+
+## Note of 2026-11-12: Geddes (2022), read
+
+From the reading in [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md) ([LIT-tmpw9l03](../literature.d/LIT-tmpw9l03.md)), the reader's assessment as
+checked by the filer: **qualifies**. Meincke adopts Kingma's four criteria
+and keeps parthood; Geddes argues those criteria do not support parthood
+over proper overlap, which removes a premise Meincke treats as conceded. It
+is also a third option her dichotomy (parthood under substance or process
+ontology) does not consider, though it does not touch her internal critique
+of substance ontology. THEORY-448's `promote_when` already says the four
+criteria only bear on mere containment; Geddes supports that remark and
+sharpens it.
+
+## Note of 2026-11-12: The Ethics of Abortion (Harman, Stanford Encyclopedia of Philosophy, 2025), read
+
+From the reading in [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md) ([LIT-tmph9slz](../literature.d/LIT-tmph9slz.md)), the reader's assessment as
+checked by the filer: **leaves open**. In the parts read the entry does not
+discuss whether the fetus is part of the pregnant person, though the
+violinist framing assumes two distinct parties. This is the assumption
+[LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md) (Devanesan) is said to question.
+
+## Note of 2026-11-12: Mereological implications of the ethics of pregnancy (Dranseika, J Med Ethics 2026), read
+
+From the reading in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md) ([LIT-tmpoeqhr](../literature.d/LIT-tmpoeqhr.md)), the reader's assessment as
+checked by the filer: **qualifies**. This theory holds, as [THEORY-464](THEORY-464.md) does,
+that the metaphysics constrains the ethics without settling it. Dranseika's
+commentary on Devanesan adds that the dependence can run the other way, from
+a normative commitment to the choice of mereology, and that when it does,
+the mereology's fit with the commitment must not be counted as evidence for
+it. No status change.
+
+## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
+
+From the reading in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) ([LIT-tmpfjc6u](../literature.d/LIT-tmpfjc6u.md)), the reader's assessment as
+checked by the filer: no bearing; ex vivo embryos are outside gestation.
+
+## Note of 2026-11-12: Żuradzki (2026), Ethics-first metaphysics: normative considerations as evidence for ontological commitments, read
+
+From the reading in [NOTE-tmp88rw9](../notes.d/NOTE-tmp88rw9.md) ([LIT-tmpblasa](../literature.d/LIT-tmpblasa.md)), the reader's assessment as
+checked by the filer: qualifies. That account takes the metaphysics to
+constrain the ethics. Żuradzki argues the direction can also run from ethics
+to metaphysics where the biology underdetermines, so the choice between
+parthood and containment may itself be partly ethical.
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
+checked by the filer: **qualifies**. Finn's analysis implies that Meincke's
+inconsistency charge holds only given a Maximality premise (an
+organism-substance cannot be a proper part of an organism of the same kind),
+which Finn argues needs independent justification and may be refuted by
+pregnancy itself. Rejecting Maximality, Substances-as-Parts counts two
+organisms one of which is part of the other, consistently. Finn also adds
+options Meincke's dichotomy does not consider (Overlap, Underlap). This is
+the record's inference from Finn's text: Finn does not discuss Meincke.

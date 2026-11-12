@@ -210,3 +210,8 @@ independent evidence: the claim is restated, not argued, and the paper
 places allostatic generation in limbic cortex and brainstem nuclei together,
 which neither settles nor sharpens the disagreement with Damasio recorded
 above. It is not added to `source:`. The statement is unchanged.
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+checked by the filer: the contributory thesis is an instance.

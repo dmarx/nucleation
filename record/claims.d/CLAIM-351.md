@@ -145,3 +145,22 @@ encompassing success does not establish its constituents') and of
   demands may still be frustrated at second order or globally. In the
   construction the frustration is also global: L₁ + L₂ = 2θ² + 2 ≥ 2, so
   no θ makes both losses less than 1.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](../literature.d/LIT-tmp14en7.md)), the reader's assessment as
+checked by the filer: the same structure in fairness auditing: aggregate
+parity can hide offsetting subgroup violations.
+
+## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
+
+From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
+checked by the filer: bears in the same way: a single combined score that
+ranks items cannot show that user and organization are reconciled rather
+than traded.
+
+## Note of 2026-11-12: Md Fahim Sikder, read
+
+From the reading in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md) ([LIT-tmppyl6o](../literature.d/LIT-tmppyl6o.md)), the reader's assessment as
+checked by the filer: the single-attribute-pass, intersectional-fail result
+is a measured case of an aggregate hiding a failing part.

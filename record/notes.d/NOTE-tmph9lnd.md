@@ -1,0 +1,96 @@
+---
+status: Read
+paper: LIT-tmpokfxi
+title: 'Cincinnati Children''s — Deeper microchimerism study'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read in full on 2026-11-12 from the post on
+    scienceblog.cincinnatichildrens.org, as text extracted from the HTML:
+    the body, the "Next steps" and "About the study" sections and the
+    publication box. The navigation, related-post list and newsletter
+    links were skipped. The paper the post reports (Peng et al., Immunity
+    58: 2176–2189.e3, LIT-tmpxdjn3) was not read: PMC answered with a
+    reCAPTCHA page, Europe PMC's article page with a Cloudflare
+    challenge, its full-text API with a server error, and the publisher's
+    PDF with a 403. Its abstract on the Europe PMC API was seen and
+    agrees with the post; it is not a reading.
+date: '2026-11-12'
+summary: >-
+  A research-news post on Peng, Way and colleagues (Immunity, 2025): in
+  mice, tolerance of non-inherited maternal antigens is sustained only by
+  the small fraction of maternal microchimeric cells that co-express LysM
+  and CD11c, and depleting that fraction erases the tolerance while most
+  maternal cells persist. The post reads this as the persistence of foreign
+  cells coming apart from their function, and as a puzzle about why the
+  remaining cells are not rejected.
+---
+<!-- inactive-ok-file: LIT-tmpxdjn3 — Unfetched; the paper this post reports -->
+<!-- inactive-ok-file: CLAIM-tmpn0ytb ARG-tmp51yxc — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-448 THEORY-443 — Proposed; the readings this one bears on -->
+
+# NOTE-tmph9lnd: Cincinnati Children's — Deeper microchimerism study
+
+## Contribution
+
+A press summary of a mouse study that, the post says, developed "new tools
+for experimentally manipulating only defined types of MMc in offspring"
+(maternal microchimeric cells), and so could test function by removal
+rather than by co-occurrence.
+
+## Key results
+
+- The order of magnitude: "approximately one in every million cells in our
+  bodies being of maternal origin".
+- The first finding: "Only a specific very small proportion of maternal
+  microchimeric cells — marked by the proteins LysM and CD11c — are involved
+  in influencing how children immunologically tolerate their mothers or
+  non-inherited maternal antigens."
+- The dissociation, in Way's words: "eliminating only the cells that
+  promote tolerance still does not eliminate the majority of these cells."
+- The open question it leaves: "confirming that most maternal microchimeric
+  cells can persist despite “erased” tolerance raises new questions about
+  why these cells are not rejected".
+- Earlier work by the same group, as the post summarizes it: fetal cells
+  retained in mothers help them "“remember” previous pregnancies" so that
+  later fetuses are better tolerated.
+
+## Assumptions
+
+- Mouse models throughout; nothing in the post is a human result.
+- That depleting a marked subset removes that subset's function and nothing
+  else, which is what the "new tools" are said to secure.
+
+## Concepts
+
+- Maternal and fetal microchimerism: cells of one individual persisting in
+  the other after pregnancy.
+- Non-inherited maternal antigen (NIMA) tolerance: the offspring's immune
+  tolerance of the maternal antigens it did not inherit.
+
+## Bearing on the record
+
+- On the owner's [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md): the post is the strongest evidence among
+  the owner's four sources that some foreign-origin cells are not merely
+  present but take part in the host's regulation, here its tolerance. It
+  does not show that individuality is graded; [ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md) says how far it
+  carries.
+- On [THEORY-448](../theory.d/THEORY-448.md) (Meincke): the post concerns the relation after birth, which
+  Meincke's process view of gestation does not reach. It extends the
+  question of one-or-two past birth at the level of cells, without
+  answering it at the level of organisms.
+- On [THEORY-443](../theory.d/THEORY-443.md) (evolutionary against physiological individuality): a
+  genetically foreign cell lineage serving the host's physiological
+  regulation is an instance of the two coming apart.
+- On [CLAIM-508](../claims.d/CLAIM-508.md) (gene ancestries alone cannot tell a partner from a source
+  of transferred genes): the same point at the level of cells. Genetic
+  provenance does not tell which cells do the host's work.
+
+## Limitations
+
+A press post. It gives no figures, controls or effect sizes, and calls the
+finding "nearly metaphysical" in its own voice. Every experimental
+statement in it is the institution's account of a paper this filing could
+not read.

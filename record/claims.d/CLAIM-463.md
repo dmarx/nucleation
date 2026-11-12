@@ -41,6 +41,7 @@ summary: >-
   not a finding about any grant program, people or institute, and a slow
   recovery is not evidence of the threshold.
 ---
+<!-- inactive-ok-file: CASE-tmpd5eqf — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 
 # CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
@@ -142,3 +143,49 @@ No status changes.
 A, at A36 §2 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), calls the failure of trust to return after a reversal "a subtle concept we haven't explored enough: **organizational hysteresis**". It is this claim. A's putative instances, both A's reports and unverified as hysteresis rather than other causes: SourceForge's end of bundling under BIZX in February 2016, and Redis's AGPLv3 option of May 2025 without Valkey's return. Both sit in [CASE-223](../cases.d/CASE-223.md).
 
 The reader reran A's schematic model (A36 §6), Ṁ = aLU − dM, L̇ = bM(1−L) − rL − s. On the M-nullcline M = aLU/d it reduces to L̇ = kL(1−L) − rL − s with k = abU/d. The interior equilibria are L = [(k−r) ± √((k−r)² − 4ks)]/(2k), with a fold at s_c = (k−r)²/(4k); with a = U = d = 1, b = 2, r = 0.5, k = 2 and s_c ≈ 0.281, and L* ≈ 0.715 at s = 0.05. Simulated with L floored at 0, ramping s past s_c collapses L and M to 0, and returning s to 0.2, 0.05 or 0.01 leaves them there: at L = 0, L̇ = −s < 0, so the floor is absorbing for every s > 0. Without the floor L goes negative and the integration diverges, so the model as posed needs L ∈ [0, 1] imposed, which A does not say. A's "Depending on model details, nonlinear versions can exhibit multiple attractors, thresholds, or hysteresis" understates it: the model as written is already thresholded and hysteretic. It is this claim's mechanism, and [CASE-111](../cases.d/CASE-111.md)'s fold, in other variables. No status changes.
+
+## Note of 2026-11-12: stopping an influence is not undoing it, from "Medical Ethics and Media Enshitification"
+
+Three instances from the exchange (2026-11-11), all A's reports of unread
+work. The X feed experiment (A23 §2, [LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)): switching the algorithm
+off did not reverse the shifts that switching it on produced. Montero-Porras
+and colleagues' platform–creator model (A35 §1, [LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)): tipping
+points and hysteresis, so restoring the incentive policy does not restore
+quality. And the newsroom whose investigative capacity, once dispersed, does
+not return with the funding (A33 §9, [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)). A23's wording:
+"Stopping an influence is not necessarily reversing its effects, and neither
+is necessarily restoring the capacity for self-government." Corroborative
+instances, unverified; no status change.
+
+## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
+
+From the reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)), the reader's assessment as
+checked by the filer: **supports**, as an independent model instance:
+restoring A to its pre-shock value leaves the system collapsing to (0,0).
+The paper's conclusion that "recovery may require joint changes in both
+platform policy and creator participation" matches the claim's second route,
+rebuilding the activity directly; the paper says "may".
+
+## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
+
+From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
+checked by the filer: the paper bears only by its policy remark that funding
+indexed to outlet presence may miss hollowed titles; no hysteresis is shown.
+
+## Note of 2026-11-12: Radsch, read
+
+From the reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) ([LIT-tmp5c2gi](../literature.d/LIT-tmp5c2gi.md)), the reader's assessment as
+checked by the filer: and the "lock-in" thesis (result 7): a policy-level
+assertion of path dependence, not a demonstration.
+
+## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
+
+From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
+checked by the filer: **qualifies / leaves open.** The asymmetry is
+suggestive of the claim's pattern (removing the algorithm does not undo its
+effect, because follows formed under it keep supplying the same content),
+but: (a) what persists is a changed *state* (follows, attitudes), not a lost
+*capacity*; (b) the off arm is not the same people returned to the old
+condition; (c) 7 weeks, no threshold or bistability shown. It is an
+empirical illustration of path dependence via a self-reinforcing channel,
+not evidence for the claim's threshold structure.

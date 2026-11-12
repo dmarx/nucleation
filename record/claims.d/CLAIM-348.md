@@ -81,6 +81,7 @@ summary: >-
 complements:
 - CLAIM-518
 ---
+<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-228 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
@@ -211,3 +212,21 @@ aside.
 ## Note of 2026-11-07: a normative predicate on the merged fibre, from the second share of "Individuation, Possibility, and Disposition"
 
 A60 §2 and A62 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly for a "normatively inadequate projection", and A60 §1's records that "need not be fraudulent" are this claim's point. A62 §4 extends [CASE-110](../cases.d/CASE-110.md) into [CASE-228](../cases.d/CASE-228.md). The owner's [CLAIM-614](CLAIM-614.md) and A's [CLAIM-624](CLAIM-624.md) rest on this claim. Unchanged.
+
+## Note of 2026-11-12: activity weighting as such a coarse-graining, the assistant's, accepted by the owner
+
+The third of the ideas offered after filing the exchange "Medical Ethics and
+Media Enshitification" (2026-11-11), accepted by the owner on 2026-11-12.
+[CLAIM-tmpmz271](CLAIM-tmpmz271.md)'s activity-weighted demand is an instance of this claim, not
+a new claim. The map from a population's profile of tastes and activity to
+weighted demand preserves revenue and every revenue prediction, and merges
+populations whose person-weighted preferences differ. A witness, checked
+with python3 -I: population 1 has 95 users with one session each preferring
+A and 5 users with thirty sessions each preferring B; population 2 has 95
+users preferring A and 150 preferring B, one session each. Both give 245
+sessions and a 61.2% activity-weighted share for B. B is preferred by 5% of
+the people in the first and by 61.2% in the second. A firm optimizing
+revenue cannot tell them apart, and a claim on behalf of the majority must.
+Filed as a note because it restates this claim for one coarse-graining. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

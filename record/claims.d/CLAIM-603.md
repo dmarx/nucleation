@@ -273,3 +273,8 @@ turns to another donor when one threatens to withdraw ("Bad Samaritans
 drive the good ones out of the market", p. 74), and Gardner and Waller
 find donors "stuck ... in partial success equilibria with their attendant
 aid dependency" (Appendix B, p. 326).
+
+## Note of 2026-11-12: Strand and Burke (2012), Polydnaviruses as Symbionts and Gene Delivery Systems, read
+
+From the reading in [NOTE-tmpkdoms](../notes.d/NOTE-tmpkdoms.md) ([LIT-tmpaus56](../literature.d/LIT-tmpaus56.md)), the reader's assessment as
+checked by the filer: not checked in detail.

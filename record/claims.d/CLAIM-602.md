@@ -260,3 +260,12 @@ No status changes.
 ## Note of 2026-11-06: Cohen and Levinthal, "Absorptive Capacity", read
 
 Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), support the claim's mechanism directly, at the firm level the earlier stand-in could not reach. The capacity to use outside knowledge is "largely a function of the firm's level of prior related knowledge" (p. 128) and is built mostly as a byproduct of the firm's own R&D. Its critical part "is often firm-specific and therefore cannot be bought and quickly integrated", and complementary knowledge "is acquired only through experience within the firm" (p. 135). "a firm is unable to assimilate externally available knowledge passively" (p. 141). They add two reasons why recovery after substitution is slow or never tried. Rebuilding from a low base costs more, and expectations go unrevised (p. 136). Two things are left open. The evidence is argument plus one indirect cross-section (1,719 business units, 1975–1977). No firm whose R&D was replaced by outside supply is followed, and nothing is measured on how long substitution must last or how long recovery takes. No status changes.
+
+## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
+
+From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
+checked by the filer: and **[CLAIM-605](CLAIM-605.md)** (capacity learned by doing and
+decaying with disuse; outside supply that does the work first lowers the
+capacity kept): centrally supplied duplicated content filling a shrinking
+edition while local origination halves is a field instance of the pattern;
+the paper does not measure capacity, only output.

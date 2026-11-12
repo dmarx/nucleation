@@ -69,3 +69,29 @@ the record's distinction between an organization's state and its
 members', not shown same mechanism. It does not answer the question. It
 narrows what an answer would have to classify. No status, title or warrant
 changes.
+
+## Note of 2026-11-12: the enteric nervous system as a candidate subsystem subject, from "Medical Ethics and Media Enshitification"
+
+A15 of the exchange (2026-11-11) proposed a question this one already holds:
+"Under what conditions does a locally self-regulating subsystem constitute
+an independent individual or subject, rather than a functionally autonomous
+component of a larger individual". Its instance is new to the record:
+Hasler's partial-subject thesis for the enteric nervous system
+([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md), unread), with his proposed tests, information processed
+locally and not passed on, enteric circuits after disconnection, and
+dissociations between enteric and central responses. A15 keeps the record's
+caution: "a valuable research hypothesis, not evidence that humans contain
+two conscious minds". Not filed as a new question; mapped here.
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+checked by the filer: **bears directly, leaves open**. Hasler's §9 is a
+worked candidate for the subsystem case: a subsystem is a second subject
+only if its contents are integrated among themselves and not with the whole
+(tests iii, iv), and persist when coupling is cut (ii). This is an IIT-style
+anti-nesting (exclusion) principle plus an architectural criterion,
+motivated by the gut, not by groups, as QUESTION-046's "What would answer
+it" asks; but it is not applied to a group, and no measure is computed. His
+"jointly constituted" field is a third option between one and two subjects.
+Other held entries it bears on (found on recheck):

@@ -1,0 +1,91 @@
+---
+status: Skimmed
+paper: LIT-tmph9slz
+title: 'Harman, Stanford Encyclopedia of Philosophy, 2025 — The Ethics of Abortion'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read:
+    https://plato.stanford.edu/entries/abortion/ (HTML, the SEP's public
+    entry), fetched 2026-11-12, with tags stripped. - Read in full: the
+    preamble ("First published Wed May 14, 2025"), the table of contents,
+    §1's argument, §1.1 opening, §1.2 (the violinist case, with 1.2.1 and
+    1.2.2), §1.4 opening, §2.2 (the future-like-ours objection), §2.3 (how
+    the argument from loss relates to the violinist argument). - Not read
+    beyond headings: §1.3, §1.4.1 onward, §1.5–1.6, §2 opening and 2.1, §3
+    (Golden Rule), §4 (intrinsic value), §5 (moral risk), §6 (expressive
+    argument against selective abortion), §7, bibliography. Outcome as the
+    reader gave it: **Skimmed.** The introduction, the structure, §1 (the
+    right-to-life argument) through §1.2, the opening of §1.4, and §§2.2–2.3
+    were read. The other sections were seen by heading only.
+date: '2026-11-12'
+summary: >-
+  The entry asks one question: "is abortion morally wrong?" It sets aside
+  whether abortion should be legally restricted as "an open and further
+  question". It is organised as six arguments against abortion (from a right
+  to life, from loss, from the Golden Rule, from intrinsic value, from moral
+  risk, and the expressive argument against selective abortion). Each is
+  followed by subsections presenting replies, and a seventh part says why
+  the question matters. In the sections read: - §1 sets out the
+  right-to-life argument as a numbered syllogism. - §1.2 presents Thomson's
+  violinist case. It "defends abortion while granting the claim that the
+  fetus has a right to life", by targeting the premise that it is wrong to
+  kill anything that has a right to life. - §1.2.1 considers the reply from
+  consensual sex and answers it with a variant of the case. - §1.2.2 asks
+  whether the violinist case gives a positive argument for permissibility. -
+  §1.4 asks whether potential to become a right-holder is enough to have a
+  right to life now. - §2.2 rejects the claim that the fetus is deprived of
+  a valuable future. It appeals to the psychological connections that
+  ordinary persons bear to their futures (McInerney), and to McMahan's
+  time-relative interests view, on which the pre-conscious fetus "has no
+  interest in any of its valuable future". - §2.3 argues that the argument
+  from loss and the violinist argument do not conflict: the second grants
+  what the first concludes.
+---
+<!-- inactive-ok-file: LIT-tmph5uj8 — Unavailable; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-448 THEORY-449 THEORY-464 — Proposed; cited as on the record -->
+
+# NOTE-tmpuunni: Harman, Stanford Encyclopedia of Philosophy, 2025 — The Ethics of Abortion
+
+## Contribution
+
+An organising survey. It does not defend a view of its own in the parts read.
+
+## Key results
+
+- Preamble: "This entry’s central question is: is abortion morally wrong?"
+- Preamble: "If abortion is morally wrong, it is nevertheless an open and further question whether abortion should be outlawed or legally restricted in some way."
+- §1.2: "the violinist case objection defends abortion while granting the claim that the fetus has a right to life."
+- §1.2: the case "may lead us to see it rather as a choice whether to provide life-sustaining aid to a living being".
+- §2.2: "the pre-conscious fetus has no interest in any of its valuable future, since it has no psychological connection at all to that future."
+- §2.3: the two arguments "might appear to disagree. It is important to see that they do not."
+
+## Assumptions
+
+None stated beyond the above.
+
+## Concepts
+
+Right to life; equivocation on "person"; violinist case (bodily support); responsibility objection; potentiality; future like ours; time-relative interests; moral risk; expressive argument; moral vs legal question.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A said the entry separates personhood, the right to life, potentiality and bodily-support arguments, and separates whether abortion is wrong from whether it should be legally restricted. This is broadly accurate. Two precisions:
+- The entry is organised as six arguments against abortion with replies, not as a taxonomy of considerations.
+- It does not merely separate the legal question: it declares it out of scope.
+
+- **[THEORY-464](../theory.d/THEORY-464.md)** (Dufner, [LIT-130](../literature.d/LIT-130.md): in identity-laden ethical questions, abortion among them, the deciding relation is usually not numerical identity): **supports** it, from the parts read. §2.2's objection turns on psychological connectedness and time-relative interests (McMahan), not on whether the fetus is numerically the later person. This is the pattern [THEORY-464](../theory.d/THEORY-464.md) describes.
+- **[THEORY-448](../theory.d/THEORY-448.md)** (Meincke, [LIT-142](../literature.d/LIT-142.md): the mereology of pregnancy on substance and process ontologies): **leaves open**. In the parts read the entry does not discuss whether the fetus is part of the pregnant person, though the violinist framing assumes two distinct parties. This is the assumption [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md) (Devanesan) is said to question.
+
+Searched origin/main for: violinist, Marquis, McMahan, "time-relative interest", "future like ours", and the URL.
+- **Duplicate check**: the SEP entry is not held.
+- Missed by the first search: **[NOTE-166](NOTE-166.md)** (Dufner's reading), which already discusses future-like-ours. **[THEORY-449](../theory.d/THEORY-449.md)** and the McMahan notes (e.g. [NOTE-107](NOTE-107.md), [NOTE-120](NOTE-120.md)) concern graded moral status and may bear on §1.4. They were not opened.
+- There is no held entry on Thomson's violinist case.
+
+## Limitations
+
+Partial reading. §§3–7, including the selective-abortion section, were not read. No THEORY should claim the entry's whole content.

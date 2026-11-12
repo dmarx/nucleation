@@ -148,3 +148,9 @@ An account of manipulation stated in terms of a function or a selection
 history, not an intention, that classifies the two cases. Or a reason why
 manipulation requires intention, so that these cases are something else:
 exploitation, or harm without a wrongdoer.
+
+## Note of 2026-11-12: Étienne Brown, read
+
+From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
+checked by the filer: Brown's Netflix example (racial targeting as "a
+non-intentional emergent effect" of engagement optimization) is an instance.

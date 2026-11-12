@@ -34,6 +34,7 @@ summary: >-
   injury becomes part of its identity (chosen trauma, cultural trauma),
   which is the owner's extended self running backward in time.
 ---
+<!-- inactive-ok-file: NOTE-tmpsdg4x — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-491 LIT-1740 LIT-1738 LIT-1764 LIT-1692 LIT-1715 LIT-1793 LIT-1718 LIT-1770 LIT-1701 LIT-1727 LIT-1679 — Open, Proposed or Deferred; the questions, claims, case and works the question is organised around, cited as open -->
 
 # QUESTION-297: When the effects of trauma reach descendants who did not live through it, by which route do they travel: germline epigenetics, the womb, parenting, or a group's narrative and identity; and on the identity route, does an ancestor's injury become part of the descendant's self?
@@ -256,3 +257,11 @@ case, not a trauma case ([NOTE-1320](../notes.d/NOTE-1320.md)), and the FKBP5 st
 intergenerational, not a germline test, with the offspring's methylation
 lower than the parents' ([NOTE-1310](../notes.d/NOTE-1310.md)). The question as posed is left as
 written; read those two examples with that note.
+
+## Note of 2026-11-12: Mpakosi et al. (2024), Deciphering the Role of Maternal Microchimerism in Offspring Autoimmunity: A Narrative Review, read
+
+From the reading in [NOTE-tmpsdg4x](../notes.d/NOTE-tmpsdg4x.md) ([LIT-tmp0kv3y](../literature.d/LIT-tmp0kv3y.md)), the reader's assessment as
+checked by the filer: , found in recheck: MMc's possible transfer of
+maternal T-cell memory and grandmaternal cells is a cellular route not among
+the question's four (germline epigenetics, womb, parenting, narrative); it
+is close to "the womb" but persists postnatally. Weak, worth a dated note.

@@ -1,0 +1,93 @@
+---
+status: Read
+paper: LIT-tmpp1gq8
+title: 'Gauthier and others — The political effects of X’s feed algorithm'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read: Europe PMC REST full-text
+    JATS XML of PMC13061628 (publisher version, open access),
+    `https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13061628/fullTextXML`,
+    fetched 2026-11-12. - Read: abstract and editor's summary, Main, Design,
+    Impact of feed algorithm on attitudes and behaviour, Discussion, Methods
+    (participants, design, outcomes, ITT, LATE, attrition, ethics), figure
+    captions. Skipped: Supplementary Information sections 1–4, Extended Data
+    figures/tables, source data, references. Outcome as the reader gave it:
+    **Read** (main text, Discussion and Methods in full; Supplementary
+    Information and Extended Data figures not read beyond their mentions in
+    the text).
+date: '2026-11-12'
+summary: >-
+  An independent field experiment (no cooperation from X), July–September
+  2023. YouGov recruited active US X users; 6,043 completed the pre-survey
+  and 4,965 the post-survey. Each was randomized, with equal probability, to
+  X's algorithmic ("For you") or chronological ("Following") feed for about
+  7 weeks. Because 76% had been on the algorithmic feed beforehand and 24%
+  on the chronological, this gives two experiments: switching the algorithm
+  on (for initially-chronological users) and switching it off (for
+  initially-algorithmic users). Switching it on raised engagement and moved
+  policy priorities, views of the Trump investigations, and views of the war
+  in Ukraine in a conservative direction (about 0.08–0.12 s.d.); switching
+  it off had no comparable effect. Neither switch moved partisanship or
+  affective polarization (precise nulls). A Chrome extension captured feeds:
+  the algorithm promotes engaging, political and especially conservative
+  content, demotes news-organization posts (−58%) and promotes political
+  activists (+27%) and entertainment. Using scraped follow lists (n =
+  2,387), switching on led users to follow more conservative and
+  conservative-activist accounts; switching off did not change follows. The
+  authors propose that follows formed under the algorithm persist and keep
+  feeding the chronological feed, explaining the asymmetry and the null of
+  Meta's 2020 switch-off study.
+---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
+
+# NOTE-tmp76oz9: Gauthier and others — The political effects of X’s feed algorithm
+
+## Contribution
+
+First independent randomized evidence that a major platform's feed algorithm, switched on, shifts political attitudes (not partisanship), with a mechanism (algorithm-induced follows) that would make a switch-off experiment show nothing even when the algorithm matters.
+
+## Key results
+
+1. Abstract: "Switching from a chronological to an algorithmic feed increased engagement and shifted political opinion towards more conservative positions".
+2. Abstract: "In contrast, switching from the algorithmic to the chronological feed had no comparable effects."
+3. Abstract: "Neither switching the algorithm on nor switching it off significantly affected affective polarization or self-reported partisanship."
+4. Impact section: the combined policy/news index "is also 0.12 s.d. higher" for those switched to the algorithm (P = 0.004); conservative policy priorities +0.11 s.d.; pro-Kremlin attitudes +0.12 s.d.
+5. Content: "Posts from news organizations appear 15.5 percentage points (58.1%) less often in the algorithmic feed".
+6. Follows: switched-on users more likely to follow "conservative political activist accounts (by 0.18 s.d.; 95% CI: 0.05, 0.32; P = 0.010)"; "switching the algorithm off did not lead to significant differences in the types of account users follow."
+7. Chronological feeds of those exposed to the algorithm "contain 9.0 percentage points (60%) more posts by conservative accounts".
+8. Heterogeneity: "the results are driven by Republicans and Independents, whereas Democrats’ views are largely unaffected".
+9. Caveat on the asymmetry: "selection on unobserved factors may contribute to this asymmetry."
+10. Discussion: "exposure to feed algorithms has a lasting impact on users’ feeds and their political attitudes."
+
+## Assumptions
+
+- Assigned feed setting is followed (self-reported compliance 85.38%; observed 89.15% among 599–784 extension users); ITT ≈ LATE.
+- Attrition not selective (Lee bounds).
+- Llama 3 annotations of posts and accounts (political leaning, type) are valid (human and classifier checks in SI, not read).
+- The two sub-experiments (on vs off) are run on different populations (users who chose chronological vs default algorithmic); the asymmetry is interpreted causally only with that caveat.
+- Platform- and period-specific: X in mid-2023, algorithm possibly changed without notice.
+
+## Concepts
+
+Algorithmic vs chronological feed; switch-on vs switch-off asymmetry; persistence via account-following; ITT and LATE; affective polarization vs issue attitudes; amplification and demotion of content types (news media, activists, entertainment); independent (non-platform-partnered) experimentation; comparison with the Meta 2020 study and deactivation experiments.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A's account ("seven-week field experiment with 4,965 US users of X: switching the algorithmic feed on shifted some political attitudes, switching it off did not reverse them, and accounts followed under the algorithm stayed followed") is **broadly accurate with one important correction**. "Switching it off did not reverse them" reads as a within-person reversal; the design does not observe that. The off arm is a *different* population (users already on the algorithmic feed), and the claim that "accounts followed under the algorithm stayed followed" is the authors' interpretation of a null (switching off did not change follow types) plus the switch-on follow effect, with selection on unobservables explicitly not ruled out. Also: the shift was in issue attitudes (policy priorities, Trump investigations, Ukraine), not partisanship or polarization; and the effect is driven by Republicans and Independents.
+
+- **[CLAIM-404](../claims.d/CLAIM-404.md)** (governed from outside through the evidence one's procedures receive or the criteria applied; informational vs evaluative routes; self-sustaining feedback): **supports, as an instance of the informational route with a self-sustaining channel, with a caveat.** The algorithm changes what users see without dictating any belief; attitudes moved without partisanship moving; and the authors' mechanism (algorithm-induced follows persisting in the chronological feed) is exactly "the evidence channel outlives the steering", the note [CLAIM-404](../claims.d/CLAIM-404.md) already carries. The caveat to add: the persistence is inferred across populations (switch-off arm is users who had chosen the algorithm), not observed as reversal in the same users; the authors name unobserved selection as a possible contributor. The paper does not separate informational from evaluative influence (no measure of criteria), so it bears on the informational route only.
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring conditions need not restore a capacity lost, where the maintaining activity reinforces itself; return needs better conditions or direct rebuilding): **qualifies / leaves open.** The asymmetry is suggestive of the claim's pattern (removing the algorithm does not undo its effect, because follows formed under it keep supplying the same content), but: (a) what persists is a changed *state* (follows, attitudes), not a lost *capacity*; (b) the off arm is not the same people returned to the old condition; (c) 7 weeks, no threshold or bistability shown. It is an empirical illustration of path dependence via a self-reinforcing channel, not evidence for the claim's threshold structure.
+- **[CLAIM-342](../claims.d/CLAIM-342.md)** (found on recheck: a loop that selects its own evidence can lock in): bears as an empirical example of evidence selection persisting through user follows; supportive in spirit, without any test of lock-in.
+- **[CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md) / [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)** (found on recheck: demand-weighted selection in content industries; attention optimization in news): the feed demotes news-organization posts by 58% and raises engagement, consistent with the claims' selection picture at the distribution layer; no bearing on investigative capacity.
+
+Searched record/ (batch ref; origin/main) for "s41586-026-10098", "chronological feed", "feed algorithm", "filter bubble", "deactivation", "Allcott", "Gauthier", "Zhuravskaya", "hysteresis", "recommender". Not held under another LIT. The Meta 2020 chronological-feed study (Guess et al., Science 2023) the paper builds on is not held (the "Guess" hits are other works). Related held entries: [CLAIM-342](../claims.d/CLAIM-342.md) (Active), [CASE-111](../cases.d/CASE-111.md) (the fold behind [CLAIM-463](../claims.d/CLAIM-463.md)), [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md), [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-545](../claims.d/CLAIM-545.md) (not bearing directly).
+
+## Limitations
+
+X only, mid-2023, active users (YouGov panel; 46% Democrats, 21% Republicans); self-reported compliance for most; attrition from 6,043 to 4,965; two arms on non-randomly selected populations; heterogeneity underpowered; feed content from a small extension sample (599 post-treatment); LLM annotations; algorithm may have changed during the study; supplementary robustness not read.

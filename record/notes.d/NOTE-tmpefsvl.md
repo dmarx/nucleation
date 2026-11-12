@@ -1,0 +1,86 @@
+---
+status: Read
+paper: LIT-tmp6iql7
+title: 'Moats et al. (2026) — The dark side of public values in algorithmic systems'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read:
+    https://kclpure.kcl.ac.uk/ws/files/378311095/moats-et-al-2026-the-dark-side-of-public-values-in-algorithmic-systems.pdf
+    (King's College London research portal, institutional repository; the
+    cover sheet says "Publisher's PDF, also known as Version of record"; CC
+    BY-NC per OpenAlex). PDF, 1 cover + 25 pp., text extracted with
+    pdftotext, fetched 2026-11-12. - Skipped: reference list, ORCID and
+    funding back matter. Outcome as the reader gave it: **Read** (whole
+    article body; reference list skipped). One stretch of the closing
+    section "What is to be done about values and algorithms?" (between its
+    opening paragraph and "Towards curated comparisons") was only skimmed.
+date: '2026-11-12'
+summary: >-
+  Drawing on ethnographic studies across six European countries (Finland,
+  Sweden, Denmark, Belgium, Slovenia, UK; the abstract says five), the
+  authors argue that invoking "public values" against big tech without
+  specifying them produces practical problems "even to the opposite of
+  originally stated objectives". They give five "disconnects", each with
+  vignettes: value narrowing (privacy → consent buttons; transparency →
+  self-reporting register; well-being → step counts), value tickboxing (GDPR
+  anonymisation by default; OpenAI's "Democratic Inputs"; Swedish energy
+  certificates), value pushing (automated blinds; child-protection risk
+  prediction; AI in Danish breast screening), value mismatch (border-control
+  face-match threshold vs airport "flow"; smart thermostats vs home comfort;
+  Epic/Apotti efficiency vs physicians' "fluency"), and value projection
+  ("human-centric" Aurora AI; "green transition"; holism in digital twins).
+  They place blame on "value makers and value wranglers" rather than
+  implementers, inverting Floridi's list, and call for "curated comparison"
+  of cases.
+---
+<!-- inactive-ok-file: CLAIM-621 CLAIM-627 TERM-066 TERM-108 THEORY-859 — Proposed; cited as on the record -->
+
+# NOTE-tmpefsvl: Moats et al. (2026) — The dark side of public values in algorithmic systems
+
+## Contribution
+
+A typology of five ways a stated value comes apart from practice, framed as an extension of Selbst et al.'s "traps" beyond formalisation, from a pragmatist/valuation-studies view of values as malleable resources.
+
+## Key results
+
+1. Abstract (p. 1): "We offer a list of five problems which arise when values are 'disconnected' from local specificities, from the people who must realise them or from other values." (pdftotext renders "ﬁ" ligatures; the PDF reads "speciﬁcities".)
+2. Definitions (p. 8): "Value narrowing: When a more expansive understanding of a value is converted into something technical and do-able while still invoking the wider meaning."
+3. Narrowing as substitution (p. 10): "this is a process of covertly swapping a 'big' value for a 'smaller' one"; and "the wider, fuzzier value is still invoked – it is presented as if it had been fulfilled" (p. 10–11).
+4. Tickboxing changes the value's meaning (p. 11): "If not monitored, these lazy interpretations become a benchmark that, in some sense, changes the actual meaning of the value."
+5. Tickboxing entrenches (p. 12): "Over time, this enshrines the narrower, more convenient, technically mediated interpretation of the value which makes it harder to re-open the discussion."
+6. Pushing vs narrowing (p. 14): "The difference is that this new value does not pretend to be the former value, it in effect overrides it."
+7. Mismatch (p. 14): "possible tensions between values end up being sorted out by the bureaucrats or technicians on the ground." Border case (p. 15): "These contradicting values cannot be reconciled in the abstract – there is no ideal level of resemblance."
+8. Projection (p. 16–17): "When a value becomes elastic enough, it can absorb any definition including oppositional ones." Value projections are "like boundary objects (Star and Griesemer, 1989)".
+9. The double bind (p. 19): "There needs to be some malleability to values to address different situations, but not too much."
+
+## Assumptions
+
+- Values are collective, processual and situational (Dewey, Graeber, Boltanski–Thévenot); they "must be selected from a set of relevant values, tweaked and elaborated to fit situations".
+- Cases are chosen at failed implementation sites; the authors concede the vignettes are "presented with less nuance" and the simplification "is deliberate".
+
+## Concepts
+
+value narrowing; value tickboxing; value pushing; value mismatch; value projection; "value makers and value wranglers" vs "value implementers"; curated comparison; boundary object; magic concepts (Pollitt and Hupe); strategic ambiguity; spheres of justice (Sharon/Walzer).
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** The LIT (from A42 §3) is accurate: the five names are the paper's own. [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)'s gloss, "semantic substitution: an organization can meet a value by changing its operational test while keeping its name", is a fair reading of **value narrowing** specifically (results 2–3) and of tickboxing's "changes the actual meaning of the value" (result 4); "semantic substitution" and A_original ≠ A_operative are A's formalisation, not the paper's terms. Two qualifications: (a) the paper's values are mostly *public* or policy values imposed on or invoked about a system, not demands an organization itself maintains; (b) the paper does not hold that the substitution is always disingenuous; it locates the cause in vague value-making, not in the implementer's bad faith.
+
+- **[QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)** (how a demand set is fixed defensibly): *supports* its third failure mode ("what demands mean") with ethnographic instances, and adds two the question does not name: **pushing** (a demand presumed held by the claimants but imposed on them, a failure in *who* holds the demand) and **projection** (the demand's acceptance set is so loose that incompatible readings coexist, so A_i is not fixed at all). *Leaves open* the question's sought answer: the paper offers no procedure for fixing D independently of governance; its remedy is ethnographic consultation and "curated comparison", which is closer to A42 §8's step "identify claimants" than to a check against an unchosen reference set. Result 9 bears directly: fixing a demand's meaning too tightly is itself narrowing.
+- **[CLAIM-361](../claims.d/CLAIM-361.md)** (relief judged against a fixed D₀ under explicit correspondence): *supports* the claim's point that changing the test while keeping the name is not satisfaction ("presented as if it had been fulfilled", result 3), and tickboxing's entrenchment (result 5) is an empirical route by which D₀ drifts. It *qualifies* nothing in the claim's formal content; it gives no organization-level before/after data.
+
+Searched origin/main record/ for: value narrowing, tickbox, boundary object, strategic ambiguity, Goodhart, Selbst, formalism trap, bluewashing, Moats, public values, valuation studies, Sharon, Walzer.
+- **[TERM-108](../terms.d/TERM-108.md)** (proxy objective optimized in place of the outcome): value narrowing is the discursive counterpart, where the proxy keeps the outcome's name. Not cited by the LIT.
+- **[CLAIM-621](../claims.d/CLAIM-621.md)** (an expression's reproduction can come apart from agreement on the concept): value projection is a direct instance ("boundary objects", result 8; "green transition" persists because vague).
+- **[CLAIM-627](../claims.d/CLAIM-627.md)** (jurisdiction over contexts partly settles compatibility of a contested concept's uses), already linked from [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md): the border-threshold case (result 7) is settled by negotiating power, "reflecting the current power balance".
+- **[TERM-066](../terms.d/TERM-066.md)** (interpretive capture) and **[THEORY-859](../theory.d/THEORY-859.md)** (regulatory capture through the evaluative framework): tickboxing's "benchmark that ... changes the actual meaning" is a mild, non-captured cousin; the paper does not claim capture.
+- Duplicate check: no other LIT holds this DOI or title (only [LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md) on the branch); "Moats" appears nowhere on origin/main.
+
+## Limitations
+
+Illustrative vignettes from the authors' own prior studies, selected at failure sites; no systematic sampling, no measure of how often each disconnect occurs; the five categories overlap by the authors' admission ("mutually reinforcing"). The paper is a provocation in a "Dialogues" format inviting responses.

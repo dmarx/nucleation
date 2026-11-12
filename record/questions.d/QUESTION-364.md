@@ -155,3 +155,32 @@ learning, not a change in the chooser ([CLAIM-540](../claims.d/CLAIM-540.md)). S
 choices alone cannot show the fluid-to-formed transition.
 
 The question stays open.
+
+## Note of 2026-11-12: authorization across agents, from "Medical Ethics and Media Enshitification"
+
+A9 §5 and A17 §6 of the exchange (2026-11-11) cite this question and
+describe its distinctions accurately: endogenous governance, historically
+continuous authorization and legitimate authority. A9 carries it from one
+agent to two, a parent authorizing for an infant against an earlier self
+authorizing for a later one, and A17 to interventions that alter a person's
+motivational architecture after they consented. Filed as [QUESTION-tmp2lvhi](QUESTION-tmp2lvhi.md);
+this question is unchanged.
+
+## Note of 2026-11-12: Millum (2025), read
+
+From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md)
+([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment
+as checked by the filer: Millum's "Last week’s autonomous decision is no
+longer authoritative" is a position on the question's
+authorization-by-history: for a competent agent, the present decision
+governs. Bears on it as one answer for the competent case.
+
+## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
+
+From the reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) ([LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)), the reader's assessment as
+checked by the filer: **Qualifies / leaves open**: Nix's Option 1 argument
+(forecasting failure; Walsh's "cognitive transformative experience", i.e.
+changed preferences, values and beliefs) is a concrete case where the
+standards for reading an earlier authorization are themselves revised by the
+agent's own process. Nix does not answer which will governs; he side-steps
+by requiring present suffering. Weak bearing.

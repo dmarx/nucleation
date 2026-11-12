@@ -142,3 +142,13 @@ platforms or periods that differ in the four constraints, is unmet in the
 record. Not split into what Doctorow argues, since [CLAIM-410](../claims.d/CLAIM-410.md), the one
 claim that cited it, uses it as an instance and now lists it as
 corroboration.
+
+## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
+
+From the reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)), the reader's assessment as
+checked by the filer: **Qualifies the reversibility clause**: in the model,
+restoring the external condition (A back to 0.8) after a long enough lapse
+does not reverse decay. If the four constraints act by holding A down, the
+model says restoration is sufficient only before the tipping point, and
+early restoration buys disproportionately more. The paper does not model
+competition, regulation, interoperability or worker power.

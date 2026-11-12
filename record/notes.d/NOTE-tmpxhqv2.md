@@ -1,0 +1,75 @@
+---
+status: Skimmed
+paper: LIT-tmpfkveo
+title: 'Burke and others (2025) — De-centering the (Traditional) user: Multistakeholder evaluation of recommender systems'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read: arXiv preprint
+    2501.05170v2 (22 Apr 2025, "Preprint submitted to Elsevier"), PDF,
+    `https://arxiv.org/pdf/2501.05170`, via pdftotext. CC-BY. Outcome as the
+    reader gave it: **Outcome: Skimmed** (2026-11-12): read in full §1
+    (Introduction, 1.1 Stakeholder types, 1.2 Scope, 1.3 Challenges, 1.4
+    Related work, opening), §3.1 opening, §3.4 (Strategies for Aggregate
+    Evaluation), §3.5 opening, §5.4 Governance and §6 Conclusions; skimmed
+    §2 headings and §2.3; not read §§3.2-3.3 detail, §4 worked examples
+    (music, education, HR), §§5.1-5.3.
+date: '2026-11-12'
+summary: >-
+  A position-and-guidance article. Recommender evaluation has been almost
+  wholly about the end user; a multistakeholder evaluation assesses "the
+  quality of recommendations ... across multiple groups of stakeholders". It
+  types stakeholders (consumers, item providers, upstream, downstream,
+  system, third-party), argues that values drive goals and goals drive
+  metrics (value-sensitive design), and surveys ways to compare systems
+  scored on many metrics: weighted aggregation, conversion of metrics to
+  constraints, Pareto-frontier distance, or learning an ordering from expert
+  pairwise judgments. It lists challenges (application and context
+  specificity, data access, institutional reluctance, adversarial providers)
+  and closes on governance.
+---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-020 — Rejected; cited as on the record -->
+
+# NOTE-tmpxhqv2: Burke and others (2025) — De-centering the (Traditional) user: Multistakeholder evaluation of recommender systems
+
+## Contribution
+
+A framework and checklist for deriving stakeholder-specific evaluation metrics from values, not a new method or result. Its examples are labelled hypothetical.
+
+## Key results
+
+- Abstract: such systems "account for the impacts and preferences of multiple groups of individuals, not just the end users receiving recommendations."
+- §1: "multistakeholder evaluation does not necessarily imply that the recommender system in question accounts for multiple stakeholders in its design or optimization objectives." Evaluation can audit a system without feeding the measures back.
+- §1.1 example of conflict: "system operators want to increase the monetary benefit by favoring popular artists and songs, which might negatively affect the visibility of long-tail artists who want to build an audience."
+- §1.3 footnote 3 quotes Spotify: "In some cases, commercial considerations, such as the cost of content or whether we can monetize it, may influence our recommendations." The authors add: "Such transparency is rare in the industry."
+- §2.3: "there is neither a definitive list of values nor a single method for quantifying them."
+- §3.4: a system is scored as a vector S(R) = (s1, ..., sn); "For some applications, this may be sufficient, as it provides a multidimensional view of the system’s performance." Aggregation into an ordering ≺M is "non-trivial"; expert pairwise judgments may yield "(or neither, S(RA ) ≈M S(RB ))".
+- §3.4: evaluation must choose between "average performance" and "the distribution of individual performance".
+- §5.4: "who, in the end, has a concrete and effective say in how a recommender system operates? Corporate structures often have a very concrete answer to this question".
+
+## Assumptions
+
+A designer or evaluator can identify stakeholders and elicit values; platforms will (or can be made to) evaluate beyond their own objective; the existing system design is taken as given (§1.2).
+
+## Concepts
+
+Multistakeholder recommendation; stakeholder types (provider, upstream, downstream, system, third-party); value-sensitive design; values → goals → measures; aggregation mechanism ≺M; Pareto frontier; constraint-based reduction; institutional sensitivity; adversarial providers.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** The LIT summary (A42 §4) is accurate. It could add that the paper is evaluative, not about design, and that it treats the system (platform) as one stakeholder among others, whose economic goals are "not necessarily shared by the consumers or providers" (§1.1).
+
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (frustration among demands is ordinal; incomparability of reorganizations; dropping a demand is not relief): **supports by analogy, independently.** Burke et al. keep the multi-metric vector as a legitimate end state and allow expert orderings with incomparable pairs, which is [CLAIM-347](../claims.d/CLAIM-347.md)'s point that relief need not be a quantity and that two reorganizations can be incomparable. They do not have [CLAIM-347](../claims.d/CLAIM-347.md)'s sharp edge: they allow converting metrics to constraints or weights, and say nothing on comparing systems with different stakeholder sets ([CLAIM-347](../claims.d/CLAIM-347.md)'s "dropping or suppressing a demand is not relief").
+- **[QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)** (found on recheck; how to fix the set of demands when the organization's governance shapes who counts): **bears directly, leaves open.** Burke et al. state the problem (stakeholder identification is the first step, platforms are reluctant to disclose their multistakeholder aspects, governance is "a separate question") but give a method, not an answer to the governance circularity.
+- **[CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md) / [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md)** (found on recheck): **context only.** The paper names platforms' commercial weighting of recommendations (the Spotify disclosure; the popularity-vs-long-tail conflict) but offers no evidence on whose demand sets what is produced.
+
+Searched DOI, arXiv id, title, "multistakeholder", "multi-objective", "Pareto front", "value-sensitive". No duplicate. Missed in the first search: [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). "Pareto front" hits ([CLAIM-020](../claims.d/CLAIM-020.md), [CLAIM-585](../claims.d/CLAIM-585.md), [LIT-2123](../literature.d/LIT-2123.md) etc.) are optimization contexts; not checked further.
+
+## Limitations
+
+A position paper; examples hypothetical; read from the preprint, not the version of record; §4's worked metrics not read.

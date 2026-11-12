@@ -90,3 +90,12 @@ J_inst(b) and J_i(a) ≠ J_i(b)). This is the smallest version.
 ## Note of 2026-11-07: extended with self-scored regime selection, from the second share of "Individuation, Possibility, and Disposition"
 
 A62 §4 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) extends this case: "We can extend Nucleation's worker-hours example into a small model." It adds a convenience benefit κ for (10, 2), a penalty λ on a recorded breach, a reporting cost c, and regime selection by scores computed under the current regime. The reader reran it: the aggregate regime is always self-stable, with actual violation 1 and recorded violation 0, and the adequate regime is self-stable only when λ > κ + c, which A omits. Filed as [CASE-228](CASE-228.md), a variant of this case. Unchanged.
+
+## Note of 2026-11-12: two games, one revenue, from "Medical Ethics and Media Enshitification"
+
+A37 §3 of the exchange (2026-11-11) builds a variant of this case: two games
+with identical player counts and revenue, in one of which a high spender's
+purchases are informed and within an authorized limit, while in the other
+the odds were misrepresented and the limit obstructed. In A's notation
+h(x_A) = h(x_B) and N(x_A) ≠ N(x_B). A says it is "largely an application"
+of this case and [CLAIM-348](../claims.d/CLAIM-348.md), which is right; not filed as a separate case.

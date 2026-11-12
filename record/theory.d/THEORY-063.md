@@ -179,3 +179,9 @@ report this reading's promote_when names is stated in the book itself
 and left open (p. 19; [THEORY-1295](THEORY-1295.md)). No status, title or warrant
 changes.
 <!-- inactive-ok-file: CLAIM-355 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+checked by the filer: Hasler's integration-maximum question is the same
+criterion applied to ENS vs CNS.

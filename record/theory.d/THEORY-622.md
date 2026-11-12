@@ -127,3 +127,9 @@ Mason–Dixon line).
   is the parthood theory this extends with topology.
 - **The problem of the many.** Lewis ([LIT-1015](../literature.d/LIT-1015.md), [THEORY-452](THEORY-452.md)) likewise puts
   vagueness in our terms, not in the material.
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
+checked by the filer: Finn's containment definition and her distinction of
+trivial from nontrivial part-containment depend on it.

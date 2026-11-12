@@ -38,6 +38,7 @@ summary: >-
   against IIT's single Self is a bracket, and the closing remarks on
   experience are labelled speculation.
 ---
+<!-- inactive-ok-file: NOTE-tmpkzn27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; a neighbouring account, named for contrast -->
 <!-- inactive-ok-file: THEORY-043 THEORY-071 THEORY-232 — Proposed; accounts of agency named as rival or neighbouring, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this account partly answers -->
@@ -134,3 +135,24 @@ left pattern and tumour outcomes unchanged. In the cited experiments it did not.
   into a measurement. Whether they pick the same levels as the goal criterion is
   open.
 - **Dennett ([LIT-220](../literature.d/LIT-220.md)).** The level-choice rule is the intentional stance.
+
+## Note of 2026-11-12: The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine (Levin 2024/2025), read
+
+From the reading in [NOTE-tmphgki6](../notes.d/NOTE-tmphgki6.md) ([LIT-tmpgku8o](../literature.d/LIT-tmpgku8o.md)), the reader's assessment as
+checked by the filer: **supports and restates**, five years on, in a
+biomedical frame; adds the persuadability spectrum and cites three cancer
+results (early bioelectric detection, induction without genetic damage,
+normalization of oncogene-driven tumours) that bear on THEORY-583's
+`promote_when` ("experiments showing that changing gap-junctional coupling
+changes which goal is pursued"), though only as citations here: the filer
+should not count them as read. It does not supply a measurement of the light
+cone.
+
+## Note of 2026-11-12: George and Bates (2022), Mechanisms Underlying Influence of Bioelectricity in Development, read
+
+From the reading in [NOTE-tmpkzn27](../notes.d/NOTE-tmpkzn27.md) ([LIT-tmpgrltt](../literature.d/LIT-tmpgrltt.md)), the reader's assessment as
+checked by the filer: **qualifies.** It supports the premise that
+bioelectric signalling coordinates cells into tissue-level patterning, while
+reading it as calcium and Vmem signals feeding known pathways, mechanism
+unclear, with no agential or goal language. It neither supports nor refutes
+Levin's interpretation; it shows the mainstream does not need it.

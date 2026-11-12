@@ -85,6 +85,8 @@ summary: >-
   produces, is a candidate that [CLAIM-522](CLAIM-522.md)'s one-variable model cannot
   express.
 ---
+<!-- inactive-ok-file: LIT-tmpxdjn3 — Unfetched; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-832 LIT-1930 LIT-1931 LIT-1929 — Unavailable, Unfetched, Open or Proposed; the unread texts that state the criterion, the questions this bears on, and a proposed account of production, cited as open -->
 
 # CLAIM-530: Where maintenance is realized is a question of constitutive relevance only through its parthood condition: an internal producer and an outside controller supplying the same production law as state feedback meet mutual manipulability's two manipulability conditions identically, since disabling or stimulating either changes the maintained capacities and intervening on the capacities changes the activity of either, so what puts one inside and the other outside is parthood, a boundary the experiments presuppose and do not find
@@ -175,3 +177,16 @@ constitutive relevance itself needs.
   causal betweenness, as [LIT-1931](../literature.d/LIT-1931.md)'s abstract says, then a controller
   that closes the loop between damage and recovery lies causally between
   them too. That is a conjecture from an abstract.
+
+## Note of 2026-11-12: maternal microchimeric cells as a case for the parthood clause, the assistant's, accepted by the owner
+
+A pointer, filed with the proposed test in the note of the same date on
+[QUESTION-086](../questions.d/QUESTION-086.md). Tolerogenic maternal cells in offspring ([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md); the
+Immunity paper [LIT-tmpxdjn3](../literature.d/LIT-tmpxdjn3.md) is Unfetched, and its reading is owed) are a
+natural case in which this claim's parthood clause is exactly what is
+contested. The cells satisfy both manipulability conditions for the
+tolerance, and they are another organism's cells inside the host. So the
+experiments would leave inside against outside to the parthood clause, as
+this claim says. Supports the claim's scope; no status change. The wording
+is the assistant's (Claude, in this session); adopting it is the owner's
+call.

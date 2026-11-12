@@ -131,3 +131,10 @@ judgement the person makes of how they are seen by an audience they know
 to be imaginary, such as posterity, which may belong under sense 3 or may
 not. [CASE-140](../cases.d/CASE-140.md), if run, would show whether sense 3 does work of its
 own.
+
+## Note of 2026-11-12: Étienne Brown, read
+
+From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
+checked by the filer: Brown's Hao/House/Farah cases are cases of an
+appropriated self-attribution prompted by an algorithmic attribution; a
+possible example for the term.

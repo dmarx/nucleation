@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpuveq0
 title: "What exactly is the counter-normativity committed by a self-maintaining organization that harms and reproduces the representational projections that make the harm non-legible, what makes it reproductive, and when is it the organization's own rather than its participants'?"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -27,6 +27,13 @@ history:
     organizational-normativity first. distributed-agency, the
     question's own filing line, is kept second. Reported by the
     synthesis review of 2026-11-11 (seventh round). No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12: the account of
+    CLAIM-tmpvceet in the note is corrected to its narrowed form, and a
+    dated note points to the owner's distinction between selective
+    disappearance and costly discovery, filed as CLAIM-tmpljkzy. Stays Open.
 tags:
 - ethics
 - self-governance
@@ -48,6 +55,9 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md), A's, and the owner has endorsed
   neither.
 ---
+<!-- inactive-ok-file: CLAIM-tmpavez3 CLAIM-tmpljkzy — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-tmp5dpvo — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CASE-tmpd5eqf CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the owner's thesis and A's answers -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form -->
 
@@ -90,3 +100,52 @@ harm's continuation, and gives a test, such as an intervention on the
 production mechanism ([CLAIM-522](../claims.d/CLAIM-522.md)), that separates an organization
 maintaining its own blindness from one whose blindness is maintained from
 outside.
+
+## Note of 2026-11-12: three stages and a passive route, from "Medical Ethics and Media Enshitification"
+
+The owner's U18 of the exchange (2026-11-11) asked how the discussion's
+cases could advance the record's normativity questions. A37 §5 separated
+three stages with constructed cases: an optimization error the organization
+corrects; "self-certifying blindness", in which it reads its selective data
+as success; and "counter-corrective governance", in which a challenge leads
+it to make later challenges less effective, which is [CLAIM-619](../claims.d/CLAIM-619.md). Its newsroom
+variant is filed as [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md). The exchange adds a passive route that
+needs no response to any challenge: governance that penalizes newly
+recognized violations without rewarding their discovery penalizes the
+inquiry that would recognize more ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), as narrowed after the
+owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12). A39 §7
+recasts answerability as a demand A_C in the compatibility complex. The
+question stays Open.
+
+## Note of 2026-11-12: Dierickx et al. (2024), A data-centric approach for ethical and trustworthy AI in journalism, read
+
+From the reading in [NOTE-tmp5dpvo](../notes.d/NOTE-tmp5dpvo.md) ([LIT-tmp7cw8s](../literature.d/LIT-tmp7cw8s.md)), the reader's assessment as
+checked by the filer: **leaves open**; it shows principles operationalized
+as practice-level checks, not an organization's counter-normativity.
+
+## Note of 2026-11-12: Robertson et al., read
+
+From the reading in [NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md) ([LIT-tmpox72u](../literature.d/LIT-tmpox72u.md)), the reader's assessment as
+checked by the filer: only via the claim; the paper is about reader
+behaviour, not organizational counter-normativity.
+
+## Note of 2026-11-12: Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read
+
+From the reading in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md) ([LIT-tmpu8oxs](../literature.d/LIT-tmpu8oxs.md)), the reader's assessment as
+checked by the filer: weak bearing; the paper describes where visibility
+criteria come from (platforms, marketing, editors) but not
+counter-normativity.
+
+## Note of 2026-11-12: the owner's two routes to becoming less informed
+
+The owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) refines this question with two routes by which an
+organization becomes normatively less informed without censoring anyone.
+Selective disappearance ([CLAIM-tmpavez3](../claims.d/CLAIM-tmpavez3.md)): the harmed exit, so complaints are
+counted accurately from a shrinking population, a selection of the observed
+population. Costly discovery ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), as narrowed): an audit that
+would reveal unmet obligations worsens measured performance and is not done,
+a selection of the questions investigated. Neither needs deliberate
+suppression, and both differ from the counter-corrective model ([CLAIM-619](../claims.d/CLAIM-619.md)).
+The owner asks that they not be conflated, "particularly when attributing
+responsibility". The record did not hold the distinction; it is filed as the
+owner's [CLAIM-tmpljkzy](../claims.d/CLAIM-tmpljkzy.md), interpretive. The question stays Open.

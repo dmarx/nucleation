@@ -85,6 +85,7 @@ summary: >-
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
 ---
+<!-- inactive-ok-file: CASE-tmpd5eqf CLAIM-tmphgjbz — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
@@ -282,3 +283,24 @@ computed). A8's line that "Nucleation distinguishes the availability of
 evidence from whether governing processes grant that evidence practical
 influence" is [CLAIM-349](CLAIM-349.md)'s separation of access, authority and action,
 which A does not cite. Nothing changes.
+
+## Note of 2026-11-12: platforms that read the behaviour they induced as preference, from "Medical Ethics and Media Enshitification"
+
+A23 §3 and A29 §6 of the exchange (2026-11-11) are this claim's loop in a
+recommender and a game. A23: "The recommender can influence what satisfies
+the user while using satisfaction as evidence that its influence is
+appropriate", and A's "preference laundering", "Behavior induced by the
+interface becomes a signal for further personalization". A29: the risk of
+"confusing demand revealed under its own influence with demand that existed
+independently of that influence". The exchange adds a route by which
+evidence comes to pass through the interpretation: users the product serves
+worst leave the population it observes ([CLAIM-tmphgjbz](CLAIM-tmphgjbz.md)). And a newsroom that
+funds investigations by their measured demand sees no demand for those it no
+longer funds ([CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)). Supports; no status change.
+
+## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
+
+From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
+checked by the filer: bears as an empirical example of evidence selection
+persisting through user follows; supportive in spirit, without any test of
+lock-in.

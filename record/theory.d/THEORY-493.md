@@ -100,3 +100,9 @@ single countermodel shows it does not.
   taken for simplicity.
 - Hilbert-space factorization ([THEORY-017](THEORY-017.md)) is the quantum part–whole question
   the entry leaves out.
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
+checked by the filer: and **[LIT-124](../literature.d/LIT-124.md) / [NOTE-163](../notes.d/NOTE-163.md)** (SEP Mereology): the
+mereological background; [NOTE-163](../notes.d/NOTE-163.md) mentions underlap in the formal sense.

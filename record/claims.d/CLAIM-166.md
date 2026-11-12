@@ -58,6 +58,11 @@ summary: >-
 bears_on:
 - QUESTION-033
 ---
+<!-- inactive-ok-file: NOTE-tmpi4x1w — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-560 — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
@@ -145,3 +150,79 @@ because everyday drive in a person is not shown. No study in the record
 shows a change in a person's own microbiome, rather than an added strain
 or a delivered metabolite, originating a change in human hunger or affect,
 which is what its defeated_if turns on.
+
+## Note of 2026-11-12: the owner's gut-brain question, from "Medical Ethics and Media Enshitification"
+
+At U7 of the exchange (2026-11-11) the owner asked whether research on a
+"gut brain" bears on the discussion. A15 answered with the enteric nervous
+system as an intermediate level between the microbial collective and the
+central nervous system, and with Hasler's distinction ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md), unread)
+between a contributory thesis, that enteric activity helps constitute the
+whole animal's experience, and a partial-subject thesis, that it has some
+experience of its own; most evidence supports the first. A15 states this
+claim's status correctly. A17's ladder rates "Gut microbes independently
+formulate goals that they impose on human hosts" not established, and the
+owner (U9) moved that question to parasites, [QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md), answered by
+A in [CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md). Nothing here changes the claim's evidence: the new
+gut-brain works are registered unread ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md), [LIT-tmpddwp2](../literature.d/LIT-tmpddwp2.md),
+[LIT-tmp7144o](../literature.d/LIT-tmp7144o.md), [LIT-tmpwo0nr](../literature.d/LIT-tmpwo0nr.md), [LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)). No status change.
+
+## Note of 2026-11-12: Nakhal et al. (2026), read
+
+From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
+checked by the filer: *leaves open*. The work concerns development of the
+offspring's tissues under the *mother's* microbiota, not a person's own
+microbiome driving its present behaviour or experience; it measures
+structure only (result 6), and its causal reading is confounded by the
+antibiotic (results 2, 5). It adds at most a further rodent route by which
+microbial communities may shape neural substrates, which is consistent with
+the claim's "routes exist" but not evidence for "drive". CLAIM-166's note of
+2026-11-12 (branch) already lists it among unread gut-brain works with "No
+status change"; the reading supports keeping that.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
+checked by the filer: **qualifies; supports the framing, not the evidence**.
+It agrees the human microbiota–cognition evidence is inconclusive ("too
+early"), and suggests visceral perception as an unstudied mediator: a route
+through which microbial changes might reach affect, beside metabolites and
+the vagus. Its holobiont point (microbiota as both component and
+environment) bears on the claim's "membership is disputable".
+
+## Note of 2026-11-12: Almarzooqi et al., read
+
+From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
+checked by the filer: **supports the claim's grading as stated**. Routes
+(vagal, immune, HPA, metabolite) and rodent causal evidence (GF, FMT
+phenotype transfer, vagotomy-dependent probiotic effects) are reviewed as
+real; in humans, interventions show modest symptom effects but "direct
+mediation by microbiome changes remains unclear". This matches the claim's
+"can drive" established in animals and "does drive" in a person unshown, and
+its 2026-10-29 note that no study shows a person's own microbiome change
+originating a change in hunger or affect. It also supplies two cautions the
+claim could carry: GF effect sizes overstate natural variation, and reverse
+causation (illness and medication altering the microbiome) is a live rival
+in every human association. It concerns psychiatric disorders, not everyday
+hunger and mood. Other held entries it bears on (found on recheck):
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+checked by the filer: **qualifies / adds a level, adds no evidence for the
+claim's empirical part**. Hasler places the ENS between the microbial
+collective and the person and frames its role as "valuation", signals that
+"bias the whole-organism decision without executing it": a route by which
+lower-level activity reaches hunger and affect, consistent with CLAIM-166's
+"reaches experience" via [THEORY-045](../theory.d/THEORY-045.md). It offers no new human evidence that a
+person's own microbiome changes hunger or affect, which is what the claim's
+defeat condition turns on. The paper is a perspective, not a review of
+microbiome effects.
+
+## Note of 2026-11-12: Ahmed et al. (2022), Microbiota-derived metabolites as drivers of gut–brain communication, read
+
+From the reading in [NOTE-tmpi4x1w](../notes.d/NOTE-tmpi4x1w.md) ([LIT-tmpth8gj](../literature.d/LIT-tmpth8gj.md)), the reader's assessment as
+checked by the filer: **supports its grading** that routes exist and are
+causal in animals while human evidence is modest; this review is explicit
+that human evidence is "scarce and contradictory" for SCFAs and "limited"
+overall.

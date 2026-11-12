@@ -81,3 +81,10 @@ what holds it.
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after [QUESTION-046](../questions.d/QUESTION-046.md)'s note of 2026-11-01, from Metzinger's contraction principle. It leaves that question Open and supplies no criterion for when an organized whole is a subject, so "not a subject" is still a stipulation, as the note of 2026-10-30 says.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
+checked by the filer: - Main's **CLAIM-165**, **[CLAIM-172](CLAIM-172.md)** and others use
+"extended self" in a different (cognitive/agential) sense: a homonym the
+filer should not conflate.

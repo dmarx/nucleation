@@ -88,3 +88,8 @@ reviewers find none in Birch's text, and give a general reason there is none.
   rests on ([LIT-056](../literature.d/LIT-056.md)) are where an AI precaution would be stated. Vieira
   ([LIT-126](../literature.d/LIT-126.md)) rejects precaution toward AI outright, which is one side of the
   choice this account says is not made by precaution alone.
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+checked by the filer: Hasler adopts Birch's precautionary candidacy logic.

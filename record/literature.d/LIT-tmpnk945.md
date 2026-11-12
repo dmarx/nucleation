@@ -1,0 +1,62 @@
+---
+status: Active
+title: 'Recommended Selves: Authenticity and Algorithmic Filtering'
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2025-09-22; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpxfciy; account THEORY-tmpcpzrq. Status
+    Active. The author is Étienne Brown (University of Ottawa); Crossref's
+    capitals are dropped. The reading was of the author's arXiv preprint
+    2608.14602 (posted 2026-07-02, checked on the arXiv API), later than the
+    journal's online date, which `published:` keeps.
+tags:
+- ethics
+- self
+- information-retrieval
+date: '2026-11-12'
+published: '2025-09-22'
+doi: '10.1017/apa.2025.10009'
+arxiv: '2608.14602'
+first_author: 'Brown'
+keywords: []
+implementations: []
+summary: >-
+  Brown (2025), DOI-10.1017/apa.2025.10009. Read on 2026-11-12 in
+  [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md): Brown argues that recommender systems affect users'
+  capacity to be their authentic selves, both negatively and positively. He
+  offers a "minimal", multi-dimensional account of authenticity with two
+  dimensions: volitional alignment (Frankfurt, via Rings: acting on
+  first-order desires one reflectively endorses at second order) and
+  self-understanding (an epistemic dimension, relational rather than purely
+  introspective: others' testimony and recommendations are a source of
+  self-knowledge). Its account is [THEORY-tmpcpzrq](../theory.d/THEORY-tmpcpzrq.md). Registered from the
+  exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
+  cited it at A21 §2.
+---
+<!-- inactive-ok-file: THEORY-tmpcpzrq — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited as on the record -->
+
+# LIT-tmpnk945: Recommended Selves: Authenticity and Algorithmic Filtering
+
+Étienne Brown (2025). "Recommended Selves: Authenticity and Algorithmic Filtering." *Journal of the American Philosophical Association 12(1): 15-34*. DOI-10.1017/apa.2025.10009.
+
+## Key takeaways
+
+Read on 2026-11-12 ([NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md)). Puts the authenticity question to
+recommender systems with a two-dimension account, identifies a positive
+(self-understanding) as well as a negative (volitional misalignment) effect,
+and derives a specific requirement for explainability: users must be told
+what "similar" means in "similar users".
+
+## Standing in the record
+
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §2. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [SYNTHESIS-023](../syntheses.d/SYNTHESIS-023.md).
+
+Read on 2026-11-12; the reading is [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) and its account
+[THEORY-tmpcpzrq](../theory.d/THEORY-tmpcpzrq.md).

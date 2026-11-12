@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. No reading was attempted.
+title: 'Lineage metaphysics and reproductive ethics'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "Medical Ethics and Media Enshitification" (2026-11-11). Checked against Crossref on 2026-11-12 (journal-article). The record held no LIT with this DOI, title or first author. Crossref's earliest exact date is 2026-08-27; `published:` is that date (ADR-002). The summary is how A describes the work; a reading should check it first.
+tags:
+- philosophy-of-biology
+- ethics
+- individuation
+date: '2026-11-12'
+published: '2026-08-27'
+doi: '10.1136/jme-2026-112326'
+first_author: 'Haber'
+keywords: []
+implementations: []
+summary: >-
+  Haber et al. (2026), DOI-10.1136/jme-2026-112326. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §4. It bears on [TERM-088](../terms.d/TERM-088.md), [QUESTION-035](../questions.d/QUESTION-035.md). In A's account, which is unverified until read, it argues that biological boundaries are multidimensional across levels, space and time, so which matters for individuation depends on the system and the question.
+---
+
+# LIT-tmps01d4: Lineage metaphysics and reproductive ethics
+
+Matthew H Haber, Katherine Berensen and Jeffrey Langley (2026). "Lineage metaphysics and reproductive ethics." *Journal of Medical Ethics jme-2026-112326*. DOI-10.1136/jme-2026-112326.
+
+## Key takeaways
+
+*Seeded from the exchange, not read.* In A's account, unverified until read, it argues that biological boundaries are multidimensional across levels, space and time, so which matters for individuation depends on the system and the question.
+
+## Standing in the record
+
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. It bears on [TERM-088](../terms.d/TERM-088.md), [QUESTION-035](../questions.d/QUESTION-035.md).
