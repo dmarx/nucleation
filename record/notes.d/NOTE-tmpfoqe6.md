@@ -32,7 +32,7 @@ summary: >-
 
 # NOTE-tmpfoqe6: Stand-in reading — Sabour, Liu et al. — Human Decision-making is Susceptible to AI-driven Manipulation
 
-Read as a stand-in for LIT-tmpvj6mw, which was not reached.
+Read as a stand-in for [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md), which was not reached.
 
 ## Contribution
 

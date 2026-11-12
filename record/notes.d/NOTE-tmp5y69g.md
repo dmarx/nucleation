@@ -26,7 +26,7 @@ summary: >-
 
 # NOTE-tmp5y69g: Stand-in reading — Monnier, George, Guyard, Tarnec & Kountouris — MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness
 
-Read as a stand-in for LIT-tmpv9xn3, which was not reached.
+Read as a stand-in for [LIT-tmpv9xn3](../literature.d/LIT-tmpv9xn3.md), which was not reached.
 
 ## Contribution
 
