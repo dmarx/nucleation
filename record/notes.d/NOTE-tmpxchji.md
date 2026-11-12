@@ -1,0 +1,84 @@
+---
+status: Read
+paper: LIT-2284
+title: 'Zhao, Liu et al. — When Tools Hurt LLM Reasoning: State-Dependent Belief Revision under External Evidence'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from https://arxiv.org/pdf/2508.15754. A delegated
+    reader drafted the reading; quotations were rechecked by script against
+    the downloaded copy, and any that did not match were kept as paraphrase
+    without quotation marks.
+date: '2026-11-12'
+summary: >-
+  Tool use (Python, Wikipedia) is often assumed to help when relevant and be
+  harmless otherwise. The paper shows the effect depends on the model's
+  belief before the tool: tools help when the model's pre-tool probability
+  on the correct answer is low and can flip correct answers to wrong when it
+  is high, even when the tool's output is itself correct. The authors model
+  revision as logarithmic pooling of the pre-tool belief P and a
+  tool-conditioned belief Q with an "authority" weight λ, derive that under
+  a logistic risk the optimal λ is zero whenever the internal log-odds
+  already exceed the expected support from the tool channel, and test three
+  predictions: harm concentrates where the internal belief exceeds the
+  tool-conditioned support; failed tool-assisted traces often look supported
+  and confident; and the same misleading clue does more or less damage
+  depending on how the prompt frames its authority.
+---
+
+# NOTE-tmpxchji: Zhao, Liu et al. — When Tools Hurt LLM Reasoning: State-Dependent Belief Revision under External Evidence
+
+## Contribution
+
+A formal and empirical account of tool-induced harm as misallocated revision authority, with a
+threshold result and a same-clue intervention that separates the clue's content from the
+authority granted to it.
+
+## Key results
+
+1. Claim (abstract): external evidence "reliably helps when initial beliefs are weak, but can flip already-correct answers when those beliefs are strong".
+2. Correct tool, wrong answer (§1): "tool use can impair reasoning even when the tool returns a correct local result".
+3. Theorem 2.1 (§2.2): "when the internal belief already dominates the expected support from the external channel, the minimal-risk policy assigns zero revision authority".
+4. Localization (§3.1, Qwen3-Coder-30B): 15.2% of transitions in the positive-gap region turn correct to incorrect, "compared with only 0.5% when the tool-conditioned support is at least as strong as the internal belief"; observed crossing rate 15.33% vs 6.09% under an update-magnitude-matched shuffle.
+5. Audit (§3.2): 36.6% of wrong AT traces are supportive-looking; among wrong traces labelled contradictory or irrelevant, "98.2% still assign at least τconf = 0.8 probability to their own wrong final answer". Human audit of 240 traces: "tool-contradictory evidence absorbed anyway is the largest category (34.6%)".
+6. PAIT (§3.3, Table 2): same clue, different frame; averaged flip rates REFLECTION 69.2%, TOOL 49.8%, CONTEXT 44.1%, TOOL+ANTIDOTE 19.1%.
+7. Takeaway (§3.2): "Apparent evidential support and high final answer-probe confidence are therefore not reliable standalone certificates of a revised trajectory's correctness."
+
+## Assumptions
+
+Beliefs are read off answer-probe probabilities over a closed answer set (multiple choice);
+revision is modelled as log-linear pooling with a scalar authority; the gold-event collapse is
+binary; models are open-weight Qwen variants; evidence-status labels partly from GPT-5.
+
+## Concepts
+
+State-dependent belief revision; revision authority (λ); logarithmic pooling / reverse-KL minimal
+change; protection principle; positive-gap region (η > ν̂); supportive-looking wrong traces;
+Prior-Authority Interaction Test; mixed no-tool/tool inference as authority allocation.
+
+## Bearing on the record
+
+CASE-188's note: tool evidence that turns correct answers wrong (LIT-2284). **Accurate**, and
+the paper adds two points the note omits: the harm occurs even when the tool's result is correct
+(the damage is in the revision, not the evidence), and the same clue's damage depends on the
+framing of its authority. The LIT's title and date conflate v1 and v2 (above).
+
+- **CASE-188** (corrigible resolve vs entrenchment, scored on false retraction, failure to
+  retract, time to justified revision): **supports and sharpens the design.** The paper's
+  positive-gap/negative-gap split is a model-level instance of false retraction against justified
+  revision, and PAIT is a working template for A36 E7's perturbations: hold the clue fixed, vary
+  its framing. Its "antidote" frame is an instance of conditioning authority on the prior.
+- **CLAIM-349** (access, authority and action separable; adaptive regulation conditions authority
+  on evidence): **supports, as an LLM instance.** The paper's λ is explicitly "revision authority"
+  over access the model already has, and the optimum is conditional on the internal evidence.
+- **CLAIM-344** (resolve is maintained precedence and revision, not mere persistence): **supports**
+  by analogy: the protection principle preserves strong priors against weaker external support
+  while letting stronger support revise.
+
+## Limitations
+
+Closed answer sets; open-weight models only in the main tests; probe probabilities as belief
+proxies; the threshold is shown in aggregate and the authors say it is "not itself a trace-level
+filter".
