@@ -222,7 +222,7 @@ grammar misfit leaves ("nearest wrong", "lacks a word", "needs a topic",
 
 The phrase search found one earlier instance: the filing of 2026-09-26
 (curation 2026/09/26/055820), where fourteen works had no topic or "the
-nearest wrong one", and ADR-006 added `epistemology` in the same filing.
+nearest wrong one", and [ADR-006](../decisions.d/ADR-006.md) added `epistemology` in the same filing.
 The changes to `luria.yaml` between 2026-11-05 and 2026-11-12 (the
 will-organization split, `bounds`, `draws_on`, `bears_on` on CASE) came
 from reviews and decisions, not from these filings.

@@ -17,12 +17,12 @@ line:
 summary: >-
   From the exchange "luria experiment design" (2026-11-10), A32 §1:
   "publishing a record does not establish common knowledge", with Halpern
-  and Moses cited for the distinction. The inference from THEORY-tmp4cr0g, the reading of
-  LIT-1213 in NOTE-1381, to the fourth row of CLAIM-tmpyp3u3. Proposed. The
+  and Moses cited for the distinction. The inference from [THEORY-tmp4cr0g](../theory.d/THEORY-tmp4cr0g.md), the reading of
+  [LIT-1213](../literature.d/LIT-1213.md) in [NOTE-1381](../notes.d/NOTE-1381.md), to the fourth row of [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md). Proposed. The
   theorems apply once reading the record is modelled as receiving a
   message whose time of arrival is uncertain and unacknowledged, which is
   how the record is read; a record that every collaborator reads at a
-  shared clock tick is outside it. First filed on LIT-1213 alone; moved to
+  shared clock tick is outside it. First filed on [LIT-1213](../literature.d/LIT-1213.md) alone; moved to
   the THEORY, filed the same day at the owner's acceptance of the filer's
   ideas, so that the ground is a reading. The citation is A's (ChatGPT's); the wording is the assistant's
   (Claude, in this session), and adopting it is the owner's call.
@@ -34,11 +34,11 @@ summary: >-
 
 ## The inference
 
-1. THEORY-tmp4cr0g, from NOTE-1381's reading of LIT-1213: over a channel
+1. [THEORY-tmp4cr0g](../theory.d/THEORY-tmp4cr0g.md), from [NOTE-1381](../notes.d/NOTE-1381.md)'s reading of [LIT-1213](../literature.d/LIT-1213.md): over a channel
    whose deliveries are not guaranteed, no fact becomes common knowledge
    that was not common knowledge at the start (Theorem 5), and the same
    holds when start and delivery times are uncertain, even if every
-   message arrives (Theorem 8). NOTE-1381 followed both proofs.
+   message arrives (Theorem 8). [NOTE-1381](../notes.d/NOTE-1381.md) followed both proofs.
 2. A collaborator learns the record's current standing by reading it: a
    pull or a fresh session that happens at a time no one else observes,
    with no acknowledgement written back. A32: an agent "could have an
@@ -49,7 +49,7 @@ summary: >-
    times.
 4. So publishing a standing in the record does not make it common
    knowledge among the collaborators that the record endorses it, which is
-   the fourth row of CLAIM-tmpyp3u3.
+   the fourth row of [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md).
 
 ## Critical questions
 
@@ -57,7 +57,7 @@ summary: >-
   concern messages between processors that may be lost or whose timing is
   uncertain. A collaborator who reads the record at a time fixed in advance
   and known to all, against a shared clock, is outside them: the paper's
-  timestamped common knowledge (Theorem 12, a statement NOTE-1381 did not
+  timestamped common knowledge (Theorem 12, a statement [NOTE-1381](../notes.d/NOTE-1381.md) did not
   check) is how such a team would get the eventual form. The
   record imposes no such reading schedule, and its sessions start when
   they start. Where a team does impose one, step 3 fails and the
@@ -67,10 +67,10 @@ summary: >-
   that way is an empirical fact about the team, not about the record,
   which is why the claim speaks of what the record represents by itself.
 - **Does the conclusion overreach?** It says common knowledge is not
-  established, not that coordination fails. NOTE-1381 itself separates
+  established, not that coordination fails. [NOTE-1381](../notes.d/NOTE-1381.md) itself separates
   the impossibility of guaranteed simultaneous action from weaker
   coordination that remains possible.
-- **Is the ground a reading?** Yes, since THEORY-tmp4cr0g. Its title
-  is limited to the theorems NOTE-1381 checked; the claim needs no more
+- **Is the ground a reading?** Yes, since [THEORY-tmp4cr0g](../theory.d/THEORY-tmp4cr0g.md). Its title
+  is limited to the theorems [NOTE-1381](../notes.d/NOTE-1381.md) checked; the claim needs no more
   than Theorem 8, which holds even if no reading is ever missed: uncertain
   timing suffices.

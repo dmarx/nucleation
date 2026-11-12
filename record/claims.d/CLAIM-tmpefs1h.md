@@ -105,9 +105,9 @@ be written. The tool could make that test mechanical.
 In this record's grammar a converse field (`supports` on CLAIM,
 `corroborated_by`, `integrated_by` and the like) is declared as written by
 `luria link --fix` from the forward relation on the other entry
-(docs/record.md). CASE-131's false dependency began when a person wrote
+(docs/record.md). [CASE-131](../cases.d/CASE-131.md)'s false dependency began when a person wrote
 into a converse field, `supports: CLAIM-296`, and the link fixer then
-wrote the forward relation, `rests_on`, onto CLAIM-296: the asserted side
+wrote the forward relation, `rests_on`, onto [CLAIM-296](CLAIM-296.md): the asserted side
 and the derived side were swapped, and nothing in the files records which
 was which. The proposal: the tool records, for every value in a declared
 converse field, whether it derived it from a forward relation or found it

@@ -31,7 +31,7 @@ summary: >-
 
 ## The case
 
-ADR-068's seventh invariant is that nothing is dropped silently: whatever a
+[ADR-068](../decisions.d/ADR-068.md)'s seventh invariant is that nothing is dropped silently: whatever a
 source contains is filed, mapped to a held code, or listed as left. Whether
 a filer, or an agent equipped with the record, actually meets it can be
 measured on episodes the record already holds.
@@ -45,7 +45,7 @@ from one week:
   verifiable identifiers that it neither registered nor listed as left:
   33 now registered, and two verified but held back for want of a topic
   word. The same entry's own correction found that one registered work,
-  LIT-2293, duplicated LIT-1399, caught by lint once its DOI was added.
+  [LIT-2293](../literature.d/LIT-2293.md), duplicated [LIT-1399](../literature.d/LIT-1399.md), caught by lint once its DOI was added.
 - The filing of "Individuation, Possibility, and Disposition" (curation
   entry 2026/11/07/015133), whose ARGs were filed only at the owner's
   review, because the filers' brief left out the rule that asks for them,
@@ -73,10 +73,10 @@ the record.
 
 The ground truth is the record's own later corrections, so recall is
 measured against a lower bound: an omission no later pass noticed is not
-in it. That is CLAIM-266's limit on any evaluation scored by the
+in it. That is [CLAIM-266](../claims.d/CLAIM-266.md)'s limit on any evaluation scored by the
 evaluated system's own probes. The study therefore needs an independent
 annotator's accounting of a sample of sources, against which the
 corrections' own recall is measured first. Scored that way, it would
-answer part of QUESTION-108: whether the structured record makes the
+answer part of [QUESTION-108](../questions.d/QUESTION-108.md): whether the structured record makes the
 operation of finding what is already held cheaper or more reliable than
 search over the same text.

@@ -101,7 +101,7 @@ unread. [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md) bears on the third mecha
 cheap is finding the dependants, not deciding them. Open.
 
 A further proposed test, the filer's own idea, accepted by the owner:
-CASE-tmp8rg2s, a study of curation completeness scored on the record's
+[CASE-tmp8rg2s](../cases.d/CASE-tmp8rg2s.md), a study of curation completeness scored on the record's
 own corrected filings, which bears on the third mechanism. The wording of
 this paragraph is the assistant's (Claude, in this session); adopting it is
 the owner's call.

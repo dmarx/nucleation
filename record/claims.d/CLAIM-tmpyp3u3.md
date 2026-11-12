@@ -83,12 +83,12 @@ an entry after a shared update.
 [CLAIM-346](CLAIM-346.md) holds epistemic coordination as an obstruction of its own,
 constructed with the coordinated-attack problem: a feasible, preferred
 joint action can fail because the agents cannot know that they know.
-Halpern and Moses (LIT-1213, read in NOTE-1381; THEORY-tmp4cr0g) show
+Halpern and Moses ([LIT-1213](../literature.d/LIT-1213.md), read in [NOTE-1381](../notes.d/NOTE-1381.md); [THEORY-tmp4cr0g](../theory.d/THEORY-tmp4cr0g.md)) show
 that common knowledge cannot be gained over a channel whose deliveries are
 not guaranteed (Theorem 5), nor over one that delivers every message but
 at uncertain times (Theorem 8). A record read asynchronously, from
 checkouts that may be stale, with no acknowledgement of who has read what,
-is such a channel for its standing (ARG-tmpbuocw). Publishing the standing
+is such a channel for its standing ([ARG-tmpbuocw](../arguments.d/ARG-tmpbuocw.md)). Publishing the standing
 therefore makes it available, not commonly known.
 
 ## What it does not say
