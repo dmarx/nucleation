@@ -9,18 +9,18 @@ summary: >-
   On 2026-11-08 the owner told another assistant, about two claims it had
   proved by explicit constructions, to "make sure you connect the CLAIMs
   using those explicit constructions to CASEs describing them". The
-  record has a construction kind of case (ADR-042), with 68 cases of it,
+  record has a construction kind of case ([ADR-042](ADR-042.md)), with 68 cases of it,
   but on 2026-11-12, 159 of its 221 demonstrated claims had no case
   grounding or illustrating them, and some of those carry a specific
-  construction only in their body: CLAIM-571's barrier at 1.3 is one, with
+  construction only in their body: [CLAIM-571](../claims.d/CLAIM-571.md)'s barrier at 1.3 is one, with
   two variants filed as cases and the example they alter filed as none. A
   construction in a claim's body cannot be cited, varied or reused by
   another entry. The decision: such a construction is filed as a case of
   kind construction, linked by `grounds` when it is what demonstrates the
   claim (an existence or separation claim) and by `illustrates` when the
   claim has a general proof the construction instances; a case that
-  grounds a claim gets an ARG of form existence (ADR-061). Taken up at a
-  claim's next filing or review, not swept. Applied first to CLAIM-571.
+  grounds a claim gets an ARG of form existence ([ADR-061](ADR-061.md)). Taken up at a
+  claim's next filing or review, not swept. Applied first to [CLAIM-571](../claims.d/CLAIM-571.md).
   Rejected: a sweep of all 159 now; leaving constructions in bodies; a
   case for every proof; always `grounds`. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
@@ -32,9 +32,9 @@ summary: >-
 
 ## Context
 
-ADR-042 gave CASE a kind, and `construction` is "a formal or
+[ADR-042](ADR-042.md) gave CASE a kind, and `construction` is "a formal or
 mathematical object built to exhibit or refute a property, whose facts
-are its definition". ADR-043 gave CLAIM a warrant, and `demonstrated`
+are its definition". [ADR-043](ADR-043.md) gave CLAIM a warrant, and `demonstrated`
 covers support "by proof or construction". Nothing joins the two. A
 construction is filed as a case when the filer thinks to, and otherwise
 lives in the body of the claim it proves.
@@ -48,11 +48,11 @@ by `grounds`, because the constructions "establish the claims'
 mathematical results" (A14). That instruction was about two claims; this
 decision makes it a rule.
 
-The cost of not having it shows in CLAIM-571. Its body builds the
+The cost of not having it shows in [CLAIM-571](../claims.d/CLAIM-571.md). Its body builds the
 example the readiness and realizability lines reuse, r(q) = 0.7 +
 2.4q(1 − q) on [0, 1], a transition with threshold 1.3 between
-configurations that each cost 0.7. CASE-198 and CASE-200 alter that
-example (a staging architecture, carry-over of a budget), and CASE-200's
+configurations that each cost 0.7. [CASE-198](../cases.d/CASE-198.md) and [CASE-200](../cases.d/CASE-200.md) alter that
+example (a staging architecture, carry-over of a budget), and [CASE-200](../cases.d/CASE-200.md)'s
 title quotes its numbers. But the example itself has no code, so neither
 case can say what it is a variant of, and a reader of either has to find
 the construction inside a claim.
@@ -72,7 +72,7 @@ object; how many carry a construction in their body was not counted.
    - `grounds`, when the construction is what demonstrates the claim: an
      existence or separation clause ("need not", "can", "come apart"),
      where one coherent case is the proof. The support is then
-     load-bearing, so an ARG of form `existence` carries it (ADR-061).
+     load-bearing, so an ARG of form `existence` carries it ([ADR-061](ADR-061.md)).
    - `illustrates`, when the claim has a general proof and the
      construction is a worked instance of it.
 3. **Cases that alter a construction name it** by `variant_of`.
@@ -98,10 +98,10 @@ object; how many carry a construction in their body was not counted.
 
 ## Consequences
 
-- First application, in the same change: CLAIM-571's barrier example is
-  filed as CASE-tmpwln61, grounding the claim's "need not equal" (an
-  existence clause), with ARG-tmpmqot9. CLAIM-571 takes `grounds` and a
-  history note. CASE-198 and CASE-200 take `variant_of` it.
+- First application, in the same change: [CLAIM-571](../claims.d/CLAIM-571.md)'s barrier example is
+  filed as [CASE-tmpwln61](../cases.d/CASE-tmpwln61.md), grounding the claim's "need not equal" (an
+  existence clause), with [ARG-tmpmqot9](../arguments.d/ARG-tmpmqot9.md). [CLAIM-571](../claims.d/CLAIM-571.md) takes `grounds` and a
+  history note. [CASE-198](../cases.d/CASE-198.md) and [CASE-200](../cases.d/CASE-200.md) take `variant_of` it.
 - The read-and-file and synthesis-review skills could carry a line
   pointing here, once the owner adopts it.
 - Proposed until the owner adopts it.

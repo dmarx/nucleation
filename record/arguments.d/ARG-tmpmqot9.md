@@ -15,8 +15,8 @@ line:
 - realizability
 - readiness
 summary: >-
-  Filed with ADR-tmpq0fhi's first application: the construction case now
-  grounds CLAIM-571's existence clause, so the support is load-bearing and
+  Filed with [ADR-tmpq0fhi](../decisions.d/ADR-tmpq0fhi.md)'s first application: the construction case now
+  grounds [CLAIM-571](../claims.d/CLAIM-571.md)'s existence clause, so the support is load-bearing and
   is argued here. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -26,10 +26,10 @@ summary: >-
 
 ## The inference
 
-CASE-tmpwln61 gives one architecture in which the target costs 0.7 to
+[CASE-tmpwln61](../cases.d/CASE-tmpwln61.md) gives one architecture in which the target costs 0.7 to
 hold and the least peak over admissible paths to it is 1.3. One such case
 shows that the threshold need not equal the requirement, which is the
-first clause of CLAIM-571. The claim's other parts, the formula for the
+first clause of [CLAIM-571](../claims.d/CLAIM-571.md). The claim's other parts, the formula for the
 threshold and its being infinite when no admissible path exists, rest on
 the claim's own argument and the readings it cites, not on this case.
 
