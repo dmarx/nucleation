@@ -6,14 +6,6 @@ formerly:
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
 version: 4
 history:
-- version: 4
-  date: '2026-11-12'
-  note: >-
-    After the owner's review of #485 on 2026-11-12, the dated note's account
-    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
-    recognized set cannot improve conjunctive compliance or lower the count
-    of recognized violations, not that every score against the recognized
-    set can only fall. No status change.
 - version: 2
   date: '2026-10-18'
   note: >-
@@ -40,6 +32,14 @@ history:
     defined, its explanatory role is interpretive." The interpretive
     part is unchanged, and its relation to operative thwarting stays
     QUESTION-131's.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12, the dated note's account
+    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
+    recognized set cannot improve conjunctive compliance or lower the count
+    of recognized violations, not that every score against the recognized
+    set can only fall. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-

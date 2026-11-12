@@ -6,13 +6,6 @@ formerly:
 title: "What exactly is the counter-normativity committed by a self-maintaining organization that harms and reproduces the representational projections that make the harm non-legible, what makes it reproductive, and when is it the organization's own rather than its participants'?"
 version: 4
 history:
-- version: 4
-  date: '2026-11-12'
-  note: >-
-    After the owner's review of #485 on 2026-11-12: the account of
-    CLAIM-tmpvceet in the note is corrected to its narrowed form, and a
-    dated note points to the owner's distinction between selective
-    disappearance and costly discovery, filed as CLAIM-tmpljkzy. Stays Open.
 - version: 2
   date: '2026-11-11'
   note: >-
@@ -34,6 +27,13 @@ history:
     organizational-normativity first. distributed-agency, the
     question's own filing line, is kept second. Reported by the
     synthesis review of 2026-11-11 (seventh round). No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12: the account of
+    CLAIM-tmpvceet in the note is corrected to its narrowed form, and a
+    dated note points to the owner's distinction between selective
+    disappearance and costly discovery, filed as CLAIM-tmpljkzy. Stays Open.
 tags:
 - ethics
 - self-governance

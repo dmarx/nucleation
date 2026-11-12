@@ -6,14 +6,6 @@ formerly:
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
 version: 5
 history:
-- version: 5
-  date: '2026-11-12'
-  note: >-
-    After the owner's review of #485 on 2026-11-12, the dated note's account
-    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
-    recognized set cannot improve conjunctive compliance or lower the count
-    of recognized violations, not that every score against the recognized
-    set can only fall. No status change.
 - version: 2
   date: '2026-10-29'
   note: >-
@@ -44,6 +36,14 @@ history:
     way": "a stabilized specification is past inquiry stored so that
     later questions become cheaper to ask", used without re-running
     the history that produced it. No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12, the dated note's account
+    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
+    recognized set cannot improve conjunctive compliance or lower the count
+    of recognized violations, not that every score against the recognized
+    set can only fall. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
