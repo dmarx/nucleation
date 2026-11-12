@@ -84,6 +84,7 @@ summary: >-
   The integration's wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpmjn9t — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; the inference from use counts this replaces -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that filed this entry -->
@@ -181,3 +182,9 @@ age. They answer the half of [QUESTION-395](../questions.d/QUESTION-395.md) that
   mobilizes as the policy would.
 - **Anything about readiness in [CLAIM-572](CLAIM-572.md)'s sense**, the observing and
   response budget, which is a different notion.
+
+## Note of 2026-11-12: A's comparative form, from "Identify Synthesis Opportunities"
+
+In the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44, A8), A proposed as a new claim that "Improving the success probability of every required capacity can decrease overall readiness if the dependencies between capacities change", with two capacities going from 0.8 each, failing together, to 0.85 each, failing apart, while R falls from 0.8 to 0.7. A said it "extends CLAIM-632's static bounds to a comparative result". The filing judged it held here: item 3's certification rule, applied with the earlier record's upper bound min Pᵢ as the floor, says that later records certify a rise only when ΣP′ᵢ − (n − 1) exceeds it, and 0.7 does not exceed 0.8. The construction is filed as [CASE-tmpmjn9t](../cases.d/CASE-tmpmjn9t.md), illustrating this claim; A's claim is not filed. No status change.
+
+The assistant (Claude, in the filing session) offered the comparative criterion as a claim of its own, and the owner asked for it to be filed. Checked, it restates this claim, so it is recorded here and not as a duplicate. Let L, U be the Fréchet bounds from the earlier records and L′, U′ from the later ones. Since the bounds are attained (item 2), every pair of dependences gives a strict rise exactly when L′ > U; when L′ ≤ U, the earlier law at U and the later at L′ give no rise. That is item 3's certification rule with r* = U. A random check of 100,000 marginal vectors (n from 2 to 5, every marginal rising or held) found no case where the criterion and the attained extremes disagreed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

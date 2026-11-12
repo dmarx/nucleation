@@ -1,0 +1,48 @@
+---
+status: Read
+paper: LIT-tmp3pjii
+title: 'Ruiz et al. — DreamBooth'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read from arXiv v2 (2208.12242, 15 March 2023; v1 of 25 August 2022), text extracted with pdftotext. Read: §§1–5, Tables 1–4, and the supplementary material in the arXiv PDF. References skipped; figures through captions. Quotes rechecked against the extracted text by script.
+date: '2026-11-12'
+summary: >-
+  Fine-tuning all weights of a pretrained text-to-image diffusion model on 3–5 images of a subject, bound to a rare-token identifier and regularized by a class-prior-preservation loss, renders that subject in new contexts with higher subject fidelity than Textual Inversion's frozen-model embedding (DINO 0.668 against 0.569 on Stable Diffusion; 68% against 22% of users), at about five accelerator-minutes per subject. Subject-driven generation by fine-tuning all of a diffusion model's weights on a few images, with a prior-preservation loss, a benchmark and a DINO subject-fidelity metric.
+---
+<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl — Proposed; filed on the same branch -->
+
+# NOTE-tmp9kwwm: Ruiz et al. — DreamBooth
+
+## Contribution
+
+Subject-driven generation by fine-tuning all of a diffusion model's weights on a few images, with a prior-preservation loss, a benchmark and a DINO subject-fidelity metric.
+
+## Key results
+
+- **Method.** Abstract: "we fine-tune a pretrained text-to-image model such that it learns to bind a unique identifier with that specific subject." §3.3: the best subject fidelity comes from "fine-tuning all layers of the model".
+- **Up-front cost.** §3.3: training takes about "5 minutes on one TPUv4 for Imagen, and 5 minutes on a NVIDIA A100 for Stable Diffusion".
+- **Fidelity.** Table 1, DINO: DreamBooth (SD) 0.668, Textual Inversion (SD) 0.569, real images 0.774. Table 2's user study prefers DreamBooth for subject fidelity, 68% to 22%.
+- **A cost of learning into weights.** §3.3, language drift: the model "slowly forgets how to generate subjects of the same class as the target subject", which the prior-preservation loss counters.
+
+## Assumptions
+
+The subject belongs to a class the base model knows well. The deliverable is a fine-tuned copy of the whole base; storage and portability are not discussed. DINO stands in for identity. The benchmark has no human faces.
+
+## Concepts
+
+- **rare-token identifier** — a token bound to the subject by fine-tuning.
+- **prior-preservation loss** — a loss on the frozen model's own samples of the class, against language drift.
+- **language drift** — the fine-tuned model forgetting the class it learned the subject in.
+
+## Bearing on the record
+
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md): supports the 2022 row.** Learning a subject into weights cost minutes of accelerator time and 3–5 images, and bought subject fidelity well above the frozen-model alternative.
+- **[CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md):** supplies an arm and a measure (DreamBench, DINO), and F for 2022 in compute.
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** a cost of learning into weights the question's readings do not name: learning the new subject erodes what the store held before (language drift), paid for with a second loss.
+
+## Limitations
+
+Partly curated results; CLIP and DINO metrics; 30 subjects, mostly objects and pets. Cost reported only as training time.

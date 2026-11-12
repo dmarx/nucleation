@@ -72,6 +72,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpbbfq8 CLAIM-tmp2u6bs — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 
 # CLAIM-581: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists
 
@@ -214,3 +215,7 @@ No status changes.
 ## Note of 2026-11-06: Claude, read
 
 Lawvere: "An R_cart-category is just an ultrametric space" (1973, p. 152; [NOTE-1585](../notes.d/NOTE-1585.md)), where R_cart is [0, ∞] with max as tensor and the metric spaces are his generalized ones, without symmetry, separation or finiteness. That is independent support for reading the peak-cost threshold as an extended pseudo-ultrametric. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.
+
+## Note of 2026-11-12: a construction from "Identify Synthesis Opportunities"
+
+In the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44, A11 and A12), A built a chain and a complete graph on the same configurations, filed as [CASE-tmpbbfq8](../cases.d/CASE-tmpbbfq8.md). Every pair has threshold 1 in both, so this claim's ultrametric and its classes are the same in both; the least cumulative cost from one end to the other is n against 1. It illustrates the step above that under additive costs "within budget of each other" is not an equivalence: in the chain at budget 1, 0 is within budget of 1 and 1 of 2, and 0 not of 2. A's claim that the threshold structure does not fix cumulative costs is filed as [CLAIM-tmp2u6bs](CLAIM-tmp2u6bs.md), Proposed; it states formally what the note of 2026-11-05 on replicating tiles observed. No status change.

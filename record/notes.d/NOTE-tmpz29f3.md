@@ -1,0 +1,47 @@
+---
+status: Read
+paper: LIT-tmp5b18b
+title: 'Hu et al. — LoRA'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read from arXiv v2 (2106.09685, 16 October 2021; v1 of 17 June 2021), text extracted with pdftotext. Read: abstract, §§1–4, §7 and §8 in full; §5 (experiments) and §6 (related work) skimmed; appendices skipped. Quotes rechecked against the extracted text by script.
+date: '2026-11-12'
+summary: >-
+  Adapting a large pretrained Transformer by freezing its weights and training only a low-rank additive update to selected weight matrices matches full fine-tuning on the language benchmarks reported, stores about 10,000 times less per task on GPT-3, adds no inference latency once the update is merged, and yields an update that amplifies directions already present, but not emphasized, in the specific pretrained weights it modifies. Parameter-efficient adaptation that adds no inference latency once merged and stores only a small per-task module beside a shared frozen model.
+---
+<!-- inactive-ok-file: CASE-tmp40vka CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
+
+# NOTE-tmpz29f3: Hu et al. — LoRA
+
+## Contribution
+
+Parameter-efficient adaptation that adds no inference latency once merged and stores only a small per-task module beside a shared frozen model.
+
+## Key results
+
+- **The method.** Abstract: LoRA "freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture"; unlike adapters, "no additional inference latency".
+- **One base, many modules.** §1: "A pre-trained model can be shared and used to build many small LoRA modules for different tasks."
+- **The module is a delta on one W0.** §4.1: to switch tasks "we can recover W0 by subtracting BA and then adding a different B′A′". §7.3: "ΔW amplifies some features that are already in W".
+- **Base-model turnover, as motivation.** §1: "As larger models are trained every few months", full fine-tuning becomes a deployment problem.
+
+## Assumptions
+
+Adaptation updates have low intrinsic rank. Language models only; nothing about diffusion models or images.
+
+## Concepts
+
+- **low-rank adaptation** — training ΔW = BA with rank r ≪ d beside a frozen W0.
+- **merge** — adding BA into W0 for deployment, so inference costs nothing extra.
+
+## Bearing on the record
+
+- **[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md): grounds the premise, as structure.** A LoRA is defined as an update to one W0 and recovered by subtracting it from that W0, and it amplifies directions specific to that W. On the paper's own account the module is a change to particular weights. The paper does not test transfer to another base, so it does not settle the claim; that a W-specific delta fails on a different W is the filer's inference. Its §1 is the authors' own statement that base models turn over "every few months".
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md):** qualifies the per-use side. No added latency holds when one BA is merged; serving many modules in one batch loses it.
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** amortization at two levels, the shared base paid once for all tasks and each module once per task, with storage priced (about 35MB against 350GB per task on GPT-3).
+
+## Limitations
+
+Language models only; no study of carrying a module across base models or versions.
