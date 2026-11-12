@@ -1,12 +1,15 @@
 ---
+number: 1638
 status: Proposed
+formerly:
+- THEORY-tmpw3g5u
 title: 'Chen, Kuo, Liu, Poon, Towey, Tse and Zhou hold that metamorphic testing alleviates but cannot solve the test-oracle problem: a program is checked against metamorphic relations, necessary properties relating two or more inputs and their outputs, so a violation shows a fault while satisfying them does not show correctness'
 version: 1
 tags:
 - software-engineering
 date: '2026-11-12'
 source:
-- LIT-tmp8v1tl
+- LIT-2333
 promote_when: >-
   The paper is confirmed, in its published version, to define a
   metamorphic relation as a necessary property of the target function or
@@ -16,7 +19,7 @@ promote_when: >-
   of the relations as the reason. Nothing about how effective the method
   is, which the paper reports from other studies, is asked.
 summary: >-
-  The central account of [LIT-tmp8v1tl](../literature.d/LIT-tmp8v1tl.md), read in [NOTE-tmpnyqd9](../notes.d/NOTE-tmpnyqd9.md) from the
+  The central account of [LIT-2333](../literature.d/LIT-2333.md), read in [NOTE-1717](../notes.d/NOTE-1717.md) from the
   authors' manuscript. It is the account the exchange "luria experiment
   design" leaned on, at A50 §11, when it proposed metamorphic relations as
   the hidden scorer of a change to a record's schema, and it carries the
@@ -25,7 +28,7 @@ summary: >-
   version.
 ---
 
-# THEORY-tmpw3g5u: Chen, Kuo, Liu, Poon, Towey, Tse and Zhou hold that metamorphic testing alleviates but cannot solve the test-oracle problem: a program is checked against metamorphic relations, necessary properties relating two or more inputs and their outputs, so a violation shows a fault while satisfying them does not show correctness
+# THEORY-1638: Chen, Kuo, Liu, Poon, Towey, Tse and Zhou hold that metamorphic testing alleviates but cannot solve the test-oracle problem: a program is checked against metamorphic relations, necessary properties relating two or more inputs and their outputs, so a violation shows a fault while satisfying them does not show correctness
 
 ## The account
 

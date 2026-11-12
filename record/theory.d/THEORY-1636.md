@@ -1,12 +1,15 @@
 ---
+number: 1636
 status: Proposed
+formerly:
+- THEORY-tmph775l
 title: 'Kiczales, des Rivières and Bobrow specify a metaobject protocol that describes CLOS as an extensible CLOS program, so that users can change the language''s behaviour by specializing its metaobjects, within explicit restrictions that preserve implementors'' freedom'
 version: 1
 tags:
 - software-engineering
 date: '2026-11-12'
 source:
-- LIT-tmpiyp1o
+- LIT-2335
 bears_on:
 - QUESTION-388
 promote_when: >-
@@ -16,14 +19,14 @@ promote_when: >-
   explicit restrictions on implementations and on portable programs.
   Nothing from Part I, which was not read, is asked.
 summary: >-
-  The account of chapter 5 of [LIT-tmpiyp1o](../literature.d/LIT-tmpiyp1o.md), skimmed in [NOTE-tmpyvjjb](../notes.d/NOTE-tmpyvjjb.md) from
+  The account of chapter 5 of [LIT-2335](../literature.d/LIT-2335.md), skimmed in [NOTE-1718](../notes.d/NOTE-1718.md) from
   a community hypertext the owner ruled usable. It bears on [QUESTION-388](../questions.d/QUESTION-388.md):
   the machinery of change is inside the system, the space of permitted
   changes fixed by its designers.
 ---
-<!-- inactive-ok-file: NOTE-tmpyvjjb — Skimmed; the reading of the source -->
+<!-- inactive-ok-file: NOTE-1718 — Skimmed; the reading of the source -->
 
-# THEORY-tmph775l: Kiczales, des Rivières and Bobrow specify a metaobject protocol that describes CLOS as an extensible CLOS program, so that users can change the language's behaviour by specializing its metaobjects, within explicit restrictions that preserve implementors' freedom
+# THEORY-1636: Kiczales, des Rivières and Bobrow specify a metaobject protocol that describes CLOS as an extensible CLOS program, so that users can change the language's behaviour by specializing its metaobjects, within explicit restrictions that preserve implementors' freedom
 
 ## The account
 

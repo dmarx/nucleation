@@ -161,6 +161,8 @@ this directory, then run `luria index`.
 **[Control theory](tags/control-theory.md)** (3) — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066):
 [194](../../record/cases.d/CASE-194.md) · [205](../../record/cases.d/CASE-205.md) · [225](../../record/cases.d/CASE-225.md)
 
+**[Software engineering](tags/software-engineering.md)** (0) — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
+
 **[Ethics](tags/ethics.md)** (6) — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy):
 [110](../../record/cases.d/CASE-110.md) · [151](../../record/cases.d/CASE-151.md) · [175](../../record/cases.d/CASE-175.md) · [228](../../record/cases.d/CASE-228.md) · [229](../../record/cases.d/CASE-229.md) · [232](../../record/cases.d/CASE-232.md)
 

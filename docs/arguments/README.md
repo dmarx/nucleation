@@ -148,6 +148,8 @@ this directory, then run `luria index`.
 **[Control theory](tags/control-theory.md)** (2) — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066):
 [058](../../record/arguments.d/ARG-058.md) · [060](../../record/arguments.d/ARG-060.md)
 
+**[Software engineering](tags/software-engineering.md)** (0) — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
+
 **[Ethics](tags/ethics.md)** (9) — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy):
 [042](../../record/arguments.d/ARG-042.md) · [043](../../record/arguments.d/ARG-043.md) · [055](../../record/arguments.d/ARG-055.md) · [058](../../record/arguments.d/ARG-058.md) · [062](../../record/arguments.d/ARG-062.md) · [063](../../record/arguments.d/ARG-063.md) · [064](../../record/arguments.d/ARG-064.md) · [070](../../record/arguments.d/ARG-070.md) · [071](../../record/arguments.d/ARG-071.md)
 
