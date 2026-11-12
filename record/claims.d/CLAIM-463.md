@@ -42,7 +42,7 @@ summary: >-
   recovery is not evidence of the threshold.
 ---
 <!-- inactive-ok-file: CASE-tmpd5eqf — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmpc2x78 LIT-tmpp1gq8 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmpp1gq8 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 
 # CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
@@ -160,7 +160,7 @@ instances, unverified; no status change.
 
 ## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
 
-From the reading in NOTE-tmpu69dy (LIT-tmpc2x78), the reader's assessment as
+From the reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)), the reader's assessment as
 checked by the filer: **supports**, as an independent model instance:
 restoring A to its pre-shock value leaves the system collapsing to (0,0).
 The paper's conclusion that "recovery may require joint changes in both

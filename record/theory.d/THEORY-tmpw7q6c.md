@@ -17,7 +17,7 @@ promote_when: >-
   support.
 summary: >-
   Greely (2026), Alabama's LePage decision, the future of ex vivo embryos,
-  and more, read in NOTE-tmp4g0oe (Skimmed). Greely revisits his 2022
+  and more, read in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) (Skimmed). Greely revisits his 2022
   prediction that IVF would survive Dobbs. In LePage v.
 ---
 <!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
@@ -30,4 +30,4 @@ Greely argues that the Alabama Supreme Court's LePage decision only extended a p
 
 ## Evidence
 
-The reading in NOTE-tmp4g0oe; its key results are quoted there with locations.
+The reading in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md); its key results are quoted there with locations.

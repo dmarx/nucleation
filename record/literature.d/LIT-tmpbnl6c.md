@@ -23,10 +23,10 @@ keywords: []
 implementations: []
 summary: >-
   Nix (2024), DOI-10.1017/s0963180124000264. Read on 2026-11-12 in
-  NOTE-tmp3t5qf: Nix asks how the intolerable-suffering eligibility
+  [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md): Nix asks how the intolerable-suffering eligibility
   criterion for medical assistance in dying (MAID) could be operationalized
   in advance requests (ARs) by people living with dementia (PLWD) in Canada.
-  He argues that, because Carter v. Its account is THEORY-tmpin30w.
+  He argues that, because Carter v. Its account is [THEORY-tmpin30w](../theory.d/THEORY-tmpin30w.md).
   Registered from the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11), where A cited it at A5 §3.
 ---
@@ -39,7 +39,7 @@ Hayden P. Nix (2024). "Operationalizing the Intolerable Suffering Criterion in A
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp3t5qf). A short conceptual analysis that locates
+Read on 2026-11-12 ([NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md)). A short conceptual analysis that locates
 the obstacle to advance-request MAID in dementia not in personal identity or
 the authority of the earlier self but in the conjunction of (a) a
 duty-of-care framing that requires occurrent intolerable suffering and (b) a
@@ -50,5 +50,5 @@ apply.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §3. It bears on [THEORY-464](../theory.d/THEORY-464.md), [QUESTION-364](../questions.d/QUESTION-364.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp3t5qf and its account
-THEORY-tmpin30w.
+Read on 2026-11-12; the reading is [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) and its account
+[THEORY-tmpin30w](../theory.d/THEORY-tmpin30w.md).

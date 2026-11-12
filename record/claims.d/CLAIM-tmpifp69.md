@@ -43,9 +43,8 @@ summary: >-
   games to news.
 ---
 <!-- inactive-ok-file: NOTE-tmpdcebe — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd LIT-tmpc2x78 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpifp69: The selection that lets economically weighted demand set a product's design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them
 
@@ -147,7 +146,7 @@ Corroborates (independent; the claim does not rest on it).
 
 ## Note of 2026-11-12: Liang et al. (2024), Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews, read
 
-From the reading in NOTE-tmpdcebe (LIT-tmp7ib47), the reader's assessment as
+From the reading in [NOTE-tmpdcebe](../notes.d/NOTE-tmpdcebe.md) ([LIT-tmp7ib47](../literature.d/LIT-tmp7ib47.md)), the reader's assessment as
 checked by the filer: Weak and by analogy, through the original: shows a
 cheap substitute (LLM text) entering a quality-assurance practice where
 effort is unpaid and time-pressed, with lower engagement and more uniform

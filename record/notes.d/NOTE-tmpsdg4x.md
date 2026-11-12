@@ -86,15 +86,15 @@ vs autoimmunity), but two years older, centred on autoimmune disease, and withou
 et al.). It restates the persistence, tolerance and autoimmune parts of the original's abstract, not
 the breastfeeding route or transplantation.
 
-- **CLAIM-tmpn0ytb** (microchimerism bears on graded or processual individuality; separation not
-  completed at birth). **Supports the premise**, independently of Chua et al. (LIT-tmpjik3n): maternal
+- **[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)** (microchimerism bears on graded or processual individuality; separation not
+  completed at birth). **Supports the premise**, independently of Chua et al. ([LIT-tmpjik3n](../literature.d/LIT-tmpjik3n.md)): maternal
   cells persist "even into adulthood", take part in regulation (tolerance via MSCs; immune
   maturation), and may cross generations, which adds a lineage dimension the claim does not state.
   Its autoimmune associations show functional incorporation can be pathological, which bears on
   A's "functional boundary" step and on whether participation is integration. It **leaves the
-  gradedness conclusion open**, like the read sources (ARG-tmp51yxc). Candidate relation:
+  gradedness conclusion open**, like the read sources ([ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)). Candidate relation:
   `corroborates` on the claim's premise; nothing more.
-- **QUESTION-297** (routes by which effects reach descendants), found in recheck: MMc's possible
+- **[QUESTION-297](../questions.d/QUESTION-297.md)** (routes by which effects reach descendants), found in recheck: MMc's possible
   transfer of maternal T-cell memory and grandmaternal cells is a cellular route not among the
   question's four (germline epigenetics, womb, parenting, narrative); it is close to "the womb" but
   persists postnatally. Weak, worth a dated note.

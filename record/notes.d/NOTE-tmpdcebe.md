@@ -83,19 +83,19 @@ reference, reply-rate, homogenization and low-confidence effects; epistemic homo
 of venues: yes, and with a stated method. For the editorial's main findings (42% more submissions,
 declining writing quality, the incentive diagnosis "more rather than better"): no.
 
-- **CLAIM-tmpifp69** (attention-weighted selection in news, clickbait vs investigation). Weak and by
+- **[CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)** (attention-weighted selection in news, clickbait vs investigation). Weak and by
   analogy, through the original: shows a cheap substitute (LLM text) entering a quality-assurance
   practice where effort is unpaid and time-pressed, with lower engagement and more uniform output. It
   says nothing of demand or attention; it is evidence for the capability-displacement theme, not for
   the claim's selection mechanism.
-- **THEORY-151** (objectivity as the critical practices of a community, which needs diverse,
+- **[THEORY-151](../theory.d/THEORY-151.md)** (objectivity as the critical practices of a community, which needs diverse,
   responsive criticism). Found in recheck. **Bears directly as an empirical worry**: more LLM text
   correlates with less reviewer engagement with rebuttals ("uptake") and with homogenized reviews
   (less diversity of criticism), which are two of the conditions the theory names. The paper itself
-  cites Longino on the value of reviewer variation. Candidate dated note on THEORY-151 or a
+  cites Longino on the value of reviewer variation. Candidate dated note on [THEORY-151](../theory.d/THEORY-151.md) or a
   `bears_on`; it does not test the theory.
 - Duplicate check: no LIT on the branch holds arXiv 2403.07183 or the title; "peer review" hits
-  (LIT-014, LIT-036 etc.) are other works.
+  ([LIT-014](../literature.d/LIT-014.md), [LIT-036](../literature.d/LIT-036.md) etc.) are other works.
 
 ## Limitations
 

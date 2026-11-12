@@ -49,7 +49,7 @@ Claudine Gartenberg, Sharique Hasan, Alex Murray and Lamar Pierce (2026). "More 
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §4. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 
-Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmp7ib47. The
+Unavailable on 2026-11-12. Neighbour read in its place: [LIT-tmp7ib47](LIT-tmp7ib47.md). The
 reader on how far it stands in: Liang et al. (2024), "Monitoring AI-Modified
 Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference
 Peer Reviews", arXiv:2403.07183 (ICML 2024, PMLR 235), skimmed: see

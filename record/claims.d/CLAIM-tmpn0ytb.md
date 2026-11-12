@@ -122,12 +122,12 @@ coincide" is A's, and [TERM-083](../terms.d/TERM-083.md) requires standing to be
 
 ## Note of 2026-11-12: Mpakosi et al. (2024), Deciphering the Role of Maternal Microchimerism in Offspring Autoimmunity: A Narrative Review, read
 
-From the reading in NOTE-tmpsdg4x (LIT-tmp0kv3y), the reader's assessment as
+From the reading in [NOTE-tmpsdg4x](../notes.d/NOTE-tmpsdg4x.md) ([LIT-tmp0kv3y](../literature.d/LIT-tmp0kv3y.md)), the reader's assessment as
 checked by the filer: **Supports the premise**, independently of Chua et al.
-(LIT-tmpjik3n): maternal cells persist "even into adulthood", take part in
+([LIT-tmpjik3n](../literature.d/LIT-tmpjik3n.md)): maternal cells persist "even into adulthood", take part in
 regulation (tolerance via MSCs; immune maturation), and may cross
 generations, which adds a lineage dimension the claim does not state. Its
 autoimmune associations show functional incorporation can be pathological,
 which bears on A's "functional boundary" step and on whether participation
 is integration. It **leaves the gradedness conclusion open**, like the read
-sources (ARG-tmp51yxc). Its account (THEORY-tmpxmmhb) is filed as corroborating this claim's premise, and nothing more.
+sources ([ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)). Its account ([THEORY-tmpxmmhb](../theory.d/THEORY-tmpxmmhb.md)) is filed as corroborating this claim's premise, and nothing more.

@@ -19,7 +19,7 @@ promote_when: >-
 summary: >-
   Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic
   Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
-  in NOTE-tmpu69dy (Read). A two-population evolutionary game between a
+  in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) (Read). A two-population evolutionary game between a
   platform (x = probability its recommender rewards costly quality content)
   and creators (y = probability a creator invests in quality), under
   replicator dynamics: ẋ = x(1−x)(Ry−A), ẏ = y(1−y)(Vx−C). With R > A and V
@@ -35,4 +35,4 @@ Montero-Porras, Smets and Lenaerts show that in a two-population replicator mode
 
 ## Evidence
 
-The reading in NOTE-tmpu69dy; its key results are quoted there with locations.
+The reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md); its key results are quoted there with locations.

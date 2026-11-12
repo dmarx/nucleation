@@ -102,7 +102,7 @@ recourse to (human) managerial involvement"), and it stresses that creators are 
 autonomous entrepreneurs. A omits the paper's main thesis, that neoliberal "fantasies", folk
 theories included, sustain the control, and its narrow sample.
 
-- **CLAIM-404** (an organization can be governed from outside without any decision being made for
+- **[CLAIM-404](../claims.d/CLAIM-404.md)** (an organization can be governed from outside without any decision being made for
   it, through the evidence its procedures receive or the criteria by which they weigh it; the
   interpretation–authority loop can close between institutions). **Supports by analogy, at the
   level of individual workers, not organizations**. Both routes appear: platforms govern what
@@ -112,18 +112,18 @@ theories included, sustain the control, and its narrow sample.
   "the authoritative interpreter of the algorithm" whose statement dissolves creators'
   independently built theory of how they are being evaluated. The review's evidence is qualitative
   and second-hand (47 articles, mostly platform-unspecified), so this is illustration, not a test.
-- Found in recheck: **THEORY-150 / THEORY-470** (enshittification): the review's "market
+- Found in recheck: **[THEORY-150](../theory.d/THEORY-150.md) / [THEORY-470](../theory.d/THEORY-470.md)** (enshittification): the review's "market
   rationality underpinning visibility" (engagement- and profit-driven allocation of visibility,
   popularity bias) describes the business-customer side of Doctorow's account from the creators'
   side. It does not address stages or decay over time. Weak, illustrative bearing.
-- **LIT-tmpc2x78** (Montero-Porras et al.): complementary. Liang supplies the qualitative picture of
+- **[LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)** (Montero-Porras et al.): complementary. Liang supplies the qualitative picture of
   visibility as the reward V that the platform controls; Montero-Porras model creators' investment
   as a response to it. The filer may note the pairing.
-- **CLAIM-332** (a loosely organized population changes an outside institution without collective
+- **[CLAIM-332](../claims.d/CLAIM-332.md)** (a loosely organized population changes an outside institution without collective
   intention): folk theories are collaboratively built and circulated, but the review finds they
   fail to change platforms ("easily undermined"), a negative instance at best.
 - Recheck terms ("folk theor", "algorithmic management", "shadowban", "visibility"): no held entry
-  on algorithmic management; "folk theory" hits (LIT-101, LIT-2046, THEORY-1378, QUESTION-435) are
+  on algorithmic management; "folk theory" hits ([LIT-101](../literature.d/LIT-101.md), [LIT-2046](../literature.d/LIT-2046.md), [THEORY-1378](../theory.d/THEORY-1378.md), [QUESTION-435](../questions.d/QUESTION-435.md)) are
   unrelated senses.
 - Duplicate check: no other LIT holds DOI 10.1177/09500170251325784 or the title (git grep on the
   branch).

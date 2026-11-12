@@ -128,7 +128,7 @@ filed as [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
 
 ## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
 
-From the reading in NOTE-tmp4g0oe (LIT-tmpfjc6u), the reader's assessment as
+From the reading in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) ([LIT-tmpfjc6u](../literature.d/LIT-tmpfjc6u.md)), the reader's assessment as
 checked by the filer: **Illustrates the separation**: LePage gave frozen
 embryos a legal status ("minor children") for one statute and one remedy,
 which Greely shows was neither a judgement of moral standing nor general

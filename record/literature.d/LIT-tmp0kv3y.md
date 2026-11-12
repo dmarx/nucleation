@@ -31,11 +31,11 @@ summary: >-
   placenta from the second trimester and persist into adulthood, where they
   appear to support immune maturation and tolerance and are associated with
   several autoimmune diseases; the authors conclude their role remains
-  unclear. A partial stand-in for LIT-tmpc6o63. Skimmed on 2026-11-12 in
-  NOTE-tmpsdg4x: A narrative review of maternal-to-offspring microchimerism
+  unclear. A partial stand-in for [LIT-tmpc6o63](LIT-tmpc6o63.md). Skimmed on 2026-11-12 in
+  [NOTE-tmpsdg4x](../notes.d/NOTE-tmpsdg4x.md): A narrative review of maternal-to-offspring microchimerism
   (MMc). Cells cross the placenta both ways; maternal cells enter the fetus
   from the second trimester and persist into adulthood. Its account is
-  THEORY-tmpxmmhb.
+  [THEORY-tmpxmmhb](../theory.d/THEORY-tmpxmmhb.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpsdg4x — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpxmmhb — Proposed; filed from the same exchange -->
@@ -55,8 +55,8 @@ with autoimmunity; detection limits leave their role unclear.
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmpc6o63, for persistence, tolerance and
+Registered as a stand-in for [LIT-tmpc6o63](LIT-tmpc6o63.md), for persistence, tolerance and
 autoimmunity, not for that review's focus on breast milk or transplantation.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpsdg4x and its account
-THEORY-tmpxmmhb.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpsdg4x](../notes.d/NOTE-tmpsdg4x.md) and its account
+[THEORY-tmpxmmhb](../theory.d/THEORY-tmpxmmhb.md).

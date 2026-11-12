@@ -33,7 +33,6 @@ summary: >-
   figures were rechecked by the filer.
 ---
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpftfht LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
 
@@ -113,7 +112,7 @@ transaction data.
 
 ## Note of 2026-11-12: Gan, Gacha Game: When Prospect Theory Meets Optimal Pricing, read
 
-From the reading in NOTE-tmpnvqsr (LIT-tmpzbm28), the reader's assessment as
+From the reading in [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md) ([LIT-tmpzbm28](../literature.d/LIT-tmpzbm28.md)), the reader's assessment as
 checked by the filer: **Qualifies the inference the case relies on.** Gan
 derives the stationary loot box and the pity system as revenue-optimal for a
 single buyer whose value is known, so a design moving toward pity guarantees

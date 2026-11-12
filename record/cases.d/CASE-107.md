@@ -177,7 +177,7 @@ usually reached through ALS, no motor channel remains.
 
 ## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
 
-From the reading in NOTE-tmp3t5qf (LIT-tmpbnl6c), the reader's assessment as
+From the reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) ([LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)), the reader's assessment as
 checked by the filer: not cited by Nix, but his Option 1 rests on the same
 disability-paradox phenomenon (he cites Albrecht and Devlieger 1999; Ubel et
 al. 2005; Smith et al. 2006 on colostomies). Bruno is held evidence of the

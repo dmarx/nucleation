@@ -22,7 +22,7 @@ keywords: []
 implementations: []
 summary: >-
   Liang et al. (2025), DOI-10.1177/09500170251325784. Read on 2026-11-12 in
-  NOTE-tmp7mfz7: A systematic review of 47 peer-reviewed articles (from
+  [NOTE-tmp7mfz7](../notes.d/NOTE-tmp7mfz7.md): A systematic review of 47 peer-reviewed articles (from
   2,859 hits in Scopus, Web of Science and EBSCO, restricted to journals on
   the Chartered ABS 2021 list) on creators and platform algorithms, read
   through Tirapani and Willmott's (2023) "logics of critical explanation"
@@ -30,7 +30,7 @@ summary: >-
   Four themes: (i) visibility allocated by algorithms under a market
   rationality, with visibility as creators' currency; (ii) creators' folk
   theories of the algorithm, a potential "dislocation" of power that
-  platforms neutralize, e.g. Its account is THEORY-tmp0m6ek. Registered from
+  platforms neutralize, e.g. Its account is [THEORY-tmp0m6ek](../theory.d/THEORY-tmp0m6ek.md). Registered from
   the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
   where A cited it at A35 §5.
 ---
@@ -42,7 +42,7 @@ Yin Liang, Jiaming Li, Jeremy Aroles and Edward Granter (2025). "Content Creatio
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp7mfz7). Names visibility, allocated by opaque
+Read on 2026-11-12 ([NOTE-tmp7mfz7](../notes.d/NOTE-tmp7mfz7.md)). Names visibility, allocated by opaque
 algorithms, as the main instrument of control over content creators, a group
 usually seen as autonomous, and gives a critical account of why creators'
 attempts to model and game the algorithm reinforce rather than undo that
@@ -52,5 +52,5 @@ control.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §5. It bears on [CLAIM-404](../claims.d/CLAIM-404.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp7mfz7 and its account
-THEORY-tmp0m6ek.
+Read on 2026-11-12; the reading is [NOTE-tmp7mfz7](../notes.d/NOTE-tmp7mfz7.md) and its account
+[THEORY-tmp0m6ek](../theory.d/THEORY-tmp0m6ek.md).

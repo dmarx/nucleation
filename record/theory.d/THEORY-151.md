@@ -117,7 +117,7 @@ claim comes to need only that.
 
 ## Note of 2026-11-12: Liang et al. (2024), Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews, read
 
-From the reading in NOTE-tmpdcebe (LIT-tmp7ib47), the reader's assessment as
+From the reading in [NOTE-tmpdcebe](../notes.d/NOTE-tmpdcebe.md) ([LIT-tmp7ib47](../literature.d/LIT-tmp7ib47.md)), the reader's assessment as
 checked by the filer: **Bears directly as an empirical worry**: more LLM
 text correlates with less reviewer engagement with rebuttals ("uptake") and
 with homogenized reviews (less diversity of criticism), which are two of the

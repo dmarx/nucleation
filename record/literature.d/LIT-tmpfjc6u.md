@@ -33,9 +33,9 @@ summary: >-
   action to negligently destroyed frozen embryos and would not have ended
   IVF, but that its language provoked an overreaction ending in an immunity
   statute broader than negligence warrants. A partial stand-in for
-  LIT-tmpby9jj. Skimmed on 2026-11-12 in NOTE-tmp4g0oe: Greely revisits his
+  [LIT-tmpby9jj](LIT-tmpby9jj.md). Skimmed on 2026-11-12 in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md): Greely revisits his
   2022 prediction that IVF would survive Dobbs. In LePage v. Its account is
-  THEORY-tmpw7q6c.
+  [THEORY-tmpw7q6c](../theory.d/THEORY-tmpw7q6c.md).
 ---
 <!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpby9jj — Unfetched; filed from the same exchange -->
@@ -55,9 +55,9 @@ United States.
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmpby9jj, for the LePage holding and its
+Registered as a stand-in for [LIT-tmpby9jj](LIT-tmpby9jj.md), for the LePage holding and its
 aftermath only, not for that article's family-law analysis or its proposed
 principles.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmp4g0oe and its account
-THEORY-tmpw7q6c.
+Skimmed on 2026-11-12; the reading is [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) and its account
+[THEORY-tmpw7q6c](../theory.d/THEORY-tmpw7q6c.md).

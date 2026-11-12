@@ -14,7 +14,7 @@ promote_when: >-
   reinforce that control.
 summary: >-
   Liang, Li, Aroles and Granter (2025), Content Creation within the
-  Algorithmic Environment: A Systematic Review, read in NOTE-tmp7mfz7
+  Algorithmic Environment: A Systematic Review, read in [NOTE-tmp7mfz7](../notes.d/NOTE-tmp7mfz7.md)
   (Read). A systematic review of 47 peer-reviewed articles (from 2,859 hits
   in Scopus, Web of Science and EBSCO, restricted to journals on the
   Chartered ABS 2021 list) on creators and platform algorithms, read through
@@ -34,4 +34,4 @@ Liang, Li, Aroles and Granter, reviewing 47 management-journal studies of conten
 
 ## Evidence
 
-The reading in NOTE-tmp7mfz7; its key results are quoted there with locations.
+The reading in [NOTE-tmp7mfz7](../notes.d/NOTE-tmp7mfz7.md); its key results are quoted there with locations.

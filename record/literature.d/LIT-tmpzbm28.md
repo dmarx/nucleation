@@ -28,15 +28,15 @@ first_author: 'Gan'
 keywords: []
 implementations: []
 summary: >-
-  Gan (2022), ARXIV-2208.03602. A seller facing one buyer of known value
+  Gan (2022), [ARXIV-2208.03602](https://arxiv.org/abs/2208.03602). A seller facing one buyer of known value
   with cumulative-prospect-theory preferences maximizes revenue with a
   stationary loot box if the buyer is naive about her time inconsistency,
   and with loot boxes plus a guaranteed purchase after enough failures (a
   pity system) if she is sophisticated. A partial stand-in for
-  LIT-tmpbl3eg. Skimmed on 2026-11-12 in NOTE-tmpnvqsr: A seller sells one
+  [LIT-tmpbl3eg](LIT-tmpbl3eg.md). Skimmed on 2026-11-12 in [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md): A seller sells one
   good to a buyer with cumulative prospect theory preferences whose value is
   known. Probability weighting makes the buyer dynamically inconsistent. Its
-  account is THEORY-tmpakn1l.
+  account is [THEORY-tmpakn1l](../theory.d/THEORY-tmpakn1l.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpbl3eg — Unfetched; filed from the same exchange -->
@@ -45,7 +45,7 @@ summary: >-
 # LIT-tmpzbm28: Gacha Game: When Prospect Theory Meets Optimal Pricing
 
 Tan Gan (2022). "Gacha Game: When Prospect Theory Meets Optimal Pricing"
-*arXiv preprint, v3 2023-08-26*. ARXIV-2208.03602.
+*arXiv preprint, v3 2023-08-26*. [ARXIV-2208.03602](https://arxiv.org/abs/2208.03602).
 
 ## Key takeaways
 
@@ -55,9 +55,9 @@ and no minority of heavy spenders in the model.
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmpbl3eg. It carries the conclusion that
+Registered as a stand-in for [LIT-tmpbl3eg](LIT-tmpbl3eg.md). It carries the conclusion that
 loot boxes can be optimal for the seller, not that paper's algorithms or
 hardness results.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpnvqsr and its account
-THEORY-tmpakn1l.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md) and its account
+[THEORY-tmpakn1l](../theory.d/THEORY-tmpakn1l.md).

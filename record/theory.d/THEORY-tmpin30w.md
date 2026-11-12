@@ -19,7 +19,7 @@ promote_when: >-
 summary: >-
   Nix (2024), Operationalizing the Intolerable Suffering Criterion in
   Advance Requests for MAID for People Living with Dementia in Canada, read
-  in NOTE-tmp3t5qf (Read). Nix asks how the intolerable-suffering
+  in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) (Read). Nix asks how the intolerable-suffering
   eligibility criterion for medical assistance in dying (MAID) could be
   operationalized in advance requests (ARs) by people living with dementia
   (PLWD) in Canada. He argues that, because Carter v.
@@ -33,4 +33,4 @@ Nix argues that because Canadian law treats MAID as a medical intervention whose
 
 ## Evidence
 
-The reading in NOTE-tmp3t5qf; its key results are quoted there with locations.
+The reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md); its key results are quoted there with locations.

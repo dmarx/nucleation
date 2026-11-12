@@ -47,7 +47,7 @@ Clare Ryan and Benjamin J. McMichael (2025). "The Future of Frozen Embryos." *SM
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §1. It bears on [TERM-083](../terms.d/TERM-083.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpfjc6u. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpfjc6u](LIT-tmpfjc6u.md). The
 reader on how far it stands in: Greely (2026), "Alabama's LePage decision,
 the future of ex vivo embryos, and more", Journal of Law and the Biosciences
 13(1): lsag013, DOI 10.1093/jlb/lsag013, PMC13092730, skimmed: see

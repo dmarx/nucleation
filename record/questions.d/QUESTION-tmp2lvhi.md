@@ -104,7 +104,7 @@ right has been cited (note 4, Darby); he does not analyse it.
 
 ## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
 
-From the reading in NOTE-tmp4g0oe (LIT-tmpfjc6u), the reader's assessment as
+From the reading in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) ([LIT-tmpfjc6u](../literature.d/LIT-tmpfjc6u.md)), the reader's assessment as
 checked by the filer: weak. The plaintiffs sued as "parents and next
 friends" of the embryos, and their storage contracts had elected destruction
 or research use; Greely notes the court left that tension unaddressed. It
@@ -112,7 +112,7 @@ touches who speaks for an embryo, without argument.
 
 ## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
 
-From the reading in NOTE-tmp3t5qf (LIT-tmpbnl6c), the reader's assessment as
+From the reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) ([LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)), the reader's assessment as
 checked by the filer: **Direct bearing**: Nix's answer for Canadian MAID is
 that the earlier wish cannot by itself authorize; welfare at the time of
 provision (occurrent intolerable suffering) is necessary, and the earlier

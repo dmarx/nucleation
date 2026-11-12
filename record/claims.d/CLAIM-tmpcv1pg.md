@@ -138,6 +138,6 @@ users" is confirmed to exist, not that they set the product.
 
 ## Note of 2026-11-12: Gan, Gacha Game: When Prospect Theory Meets Optimal Pricing, read
 
-From the reading in NOTE-tmpnvqsr (LIT-tmpzbm28), the reader's assessment as
+From the reading in [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md) ([LIT-tmpzbm28](../literature.d/LIT-tmpzbm28.md)), the reader's assessment as
 checked by the filer: - Bears on **CLAIM-tmpcv1pg** only through the case,
 and not on its escalation half.

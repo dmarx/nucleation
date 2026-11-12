@@ -15,7 +15,7 @@ promote_when: >-
   the sophisticated one.
 summary: >-
   Gan, Gacha Game: When Prospect Theory Meets Optimal Pricing, read in
-  NOTE-tmpnvqsr (Skimmed). A seller sells one good to a buyer with
+  [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md) (Skimmed). A seller sells one good to a buyer with
   cumulative prospect theory preferences whose value is known. Probability
   weighting makes the buyer dynamically inconsistent.
 ---
@@ -29,4 +29,4 @@ Gan shows that a seller facing one buyer of known value who weights probabilitie
 
 ## Evidence
 
-The reading in NOTE-tmpnvqsr; its key results are quoted there with locations.
+The reading in [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md); its key results are quoted there with locations.

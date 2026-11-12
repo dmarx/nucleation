@@ -94,18 +94,18 @@ regulatory principles: not at all. Both criticize the immunity statute's suffici
 different directions (Greely: too protective of clinics; Ryan and McMichael, per their abstract: a
 fuller framework is needed).
 
-- **TERM-083** (moral standing, kept apart from legal personhood). **Illustrates the separation**:
+- **[TERM-083](../terms.d/TERM-083.md)** (moral standing, kept apart from legal personhood). **Illustrates the separation**:
   LePage gave frozen embryos a legal status ("minor children") for one statute and one remedy,
   which Greely shows was neither a judgement of moral standing nor general legal personhood, and
   which the legislature then neutralized by immunity without touching the classification. A worked
-  example of TERM-083's point that standing claims must name the claim and what follows; the legal
+  example of [TERM-083](../terms.d/TERM-083.md)'s point that standing claims must name the claim and what follows; the legal
   analogue is "children for the purposes of the Wrongful Death Act". Candidate `draws_on` is not
   apt (the term does not use the reading); a dated note on the term, or `illustrates`, fits better.
-- **QUESTION-tmp2lvhi** (legitimate authority over another's body when the other cannot decide):
+- **[QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md)** (legitimate authority over another's body when the other cannot decide):
   weak. The plaintiffs sued as "parents and next friends" of the embryos, and their storage
   contracts had elected destruction or research use; Greely notes the court left that tension
   unaddressed. It touches who speaks for an embryo, without argument.
-- **THEORY-448 / pregnancy mereology** (found in recheck): no bearing; ex vivo embryos are outside
+- **[THEORY-448](../theory.d/THEORY-448.md) / pregnancy mereology** (found in recheck): no bearing; ex vivo embryos are outside
   gestation.
 - Duplicate check: no LIT on the branch holds DOI 10.1093/jlb/lsag013, PMC13092730 or "LePage".
 

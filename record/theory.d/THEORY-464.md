@@ -184,7 +184,7 @@ it. No status change.
 
 ## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
 
-From the reading in NOTE-tmp3t5qf (LIT-tmpbnl6c), the reader's assessment as
+From the reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) ([LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)), the reader's assessment as
 checked by the filer: **Supports, from outside the identity debate**: Nix
 never asks whether the PLWD is the same person as the author of the AR; the
 AR's authority fails for him because of the duty-of-care requirement of

@@ -130,7 +130,7 @@ identifiable contributions.
 
 ## Note of 2026-11-12: Liang, Li, Aroles and Granter (2025), Content Creation within the Algorithmic Environment: A Systematic Review, read
 
-From the reading in NOTE-tmp7mfz7 (LIT-tmpcfp9f), the reader's assessment as
+From the reading in [NOTE-tmp7mfz7](../notes.d/NOTE-tmp7mfz7.md) ([LIT-tmpcfp9f](../literature.d/LIT-tmpcfp9f.md)), the reader's assessment as
 checked by the filer: folk theories are collaboratively built and
 circulated, but the review finds they fail to change platforms ("easily
 undermined"), a negative instance at best.

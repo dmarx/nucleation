@@ -379,7 +379,7 @@ evaluative independence.
 
 ## Note of 2026-11-12: Liang, Li, Aroles and Granter (2025), Content Creation within the Algorithmic Environment: A Systematic Review, read
 
-From the reading in NOTE-tmp7mfz7 (LIT-tmpcfp9f), the reader's assessment as
+From the reading in [NOTE-tmp7mfz7](../notes.d/NOTE-tmp7mfz7.md) ([LIT-tmpcfp9f](../literature.d/LIT-tmpcfp9f.md)), the reader's assessment as
 checked by the filer: **Supports by analogy, at the level of individual
 workers, not organizations**. Both routes appear: platforms govern what
 creators see of their own performance (metrics, visibility; informational),

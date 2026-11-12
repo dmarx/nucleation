@@ -177,7 +177,7 @@ governs. Bears on it as one answer for the competent case.
 
 ## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
 
-From the reading in NOTE-tmp3t5qf (LIT-tmpbnl6c), the reader's assessment as
+From the reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) ([LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)), the reader's assessment as
 checked by the filer: **Qualifies / leaves open**: Nix's Option 1 argument
 (forecasting failure; Walsh's "cognitive transformative experience", i.e.
 changed preferences, values and beliefs) is a concrete case where the

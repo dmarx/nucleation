@@ -145,7 +145,7 @@ corroboration.
 
 ## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
 
-From the reading in NOTE-tmpu69dy (LIT-tmpc2x78), the reader's assessment as
+From the reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)), the reader's assessment as
 checked by the filer: **Qualifies the reversibility clause**: in the model,
 restoring the external condition (A back to 0.8) after a long enough lapse
 does not reverse decay. If the four constraints act by holding A down, the

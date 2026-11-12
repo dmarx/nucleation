@@ -189,5 +189,5 @@ it. No status change.
 
 ## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
 
-From the reading in NOTE-tmp4g0oe (LIT-tmpfjc6u), the reader's assessment as
+From the reading in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) ([LIT-tmpfjc6u](../literature.d/LIT-tmpfjc6u.md)), the reader's assessment as
 checked by the filer: no bearing; ex vivo embryos are outside gestation.

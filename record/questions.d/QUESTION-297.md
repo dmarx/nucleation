@@ -260,7 +260,7 @@ written; read those two examples with that note.
 
 ## Note of 2026-11-12: Mpakosi et al. (2024), Deciphering the Role of Maternal Microchimerism in Offspring Autoimmunity: A Narrative Review, read
 
-From the reading in NOTE-tmpsdg4x (LIT-tmp0kv3y), the reader's assessment as
+From the reading in [NOTE-tmpsdg4x](../notes.d/NOTE-tmpsdg4x.md) ([LIT-tmp0kv3y](../literature.d/LIT-tmp0kv3y.md)), the reader's assessment as
 checked by the filer: , found in recheck: MMc's possible transfer of
 maternal T-cell memory and grandmaternal cells is a cellular route not among
 the question's four (germline epigenetics, womb, parenting, narrative); it

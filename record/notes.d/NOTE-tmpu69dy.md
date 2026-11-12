@@ -111,32 +111,32 @@ the model "not independent proof of Doctorow's historical claims" is borne out: 
 one mechanism and calls the model intentionally minimal (Abstract: "The model is inten[tionally]
 minimal", broken by a line-end hyphen in the PDF).
 
-- **CLAIM-463** (restoring the conditions need not restore the capacity; a capacity lost past a
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring the conditions need not restore the capacity; a capacity lost past a
   threshold returns only under better conditions or by rebuilding the activity directly).
   **supports**, as an independent model instance: restoring A to its
   pre-shock value leaves the system collapsing to (0,0). The paper's conclusion that "recovery may require joint changes in both platform policy and creator participation" matches the claim's second route, rebuilding the activity directly; the paper says "may".
-- **CASE-111** (fold in boundary maintenance; maintenance lost past the fold is not restored by
+- **[CASE-111](../cases.d/CASE-111.md)** (fold in boundary maintenance; maintenance lost past the fold is not restored by
   returning the parameter). Found in recheck. A second formal instance of the same structure, in
-  a two-population game, not a one-variable normal form. Unlike CASE-111, recovery slowing near the
+  a two-population game, not a one-variable normal form. Unlike [CASE-111](../cases.d/CASE-111.md), recovery slowing near the
   fold is not discussed.
-- **THEORY-150** (Doctorow's three-stage decay; exit cost sets how far it goes; lowering it is the
+- **[THEORY-150](../theory.d/THEORY-150.md)** (Doctorow's three-stage decay; exit cost sets how far it goes; lowering it is the
   remedy). **Qualifies / leaves open**: the paper cites Doctorow as its frame and models one
   mechanism (recommender incentives and creator investment). It does not model users, lock-in or
   exit costs; it explicitly fixes R and A as exogenous while noting that real platforms set them
   "knowing that creators and users often face high switching costs". So it neither tests the
   three stages nor the exit-cost remedy. It adds what Doctorow lacks: a mechanism for decay that a
   temporary lure can make permanent.
-- **THEORY-470** (decay caused by weakened constraints; "reversible if those constraints are
+- **[THEORY-470](../theory.d/THEORY-470.md)** (decay caused by weakened constraints; "reversible if those constraints are
   durably restored"). **Qualifies the reversibility clause**: in the model, restoring the external
   condition (A back to 0.8) after a long enough lapse does not reverse decay. If the four
   constraints act by holding A down, the model says restoration is sufficient only before the
   tipping point, and early restoration buys disproportionately more. The paper does not model
   competition, regulation, interoperability or worker power.
-- Other held entries found in recheck: **QUESTION-453** (evolutionary routes to cooperation)
+- Other held entries found in recheck: **[QUESTION-453](../questions.d/QUESTION-453.md)** (evolutionary routes to cooperation)
   only loosely: this is cooperation as coordination between two populations with no relatedness
-  or retaliation. **CLAIM-060** names enshittification; no bearing beyond the word.
+  or retaliation. **[CLAIM-060](../claims.d/CLAIM-060.md)** names enshittification; no bearing beyond the word.
 - Duplicate check: no other LIT holds DOI 10.3233/faia260512 or the title (git grep on the branch).
-  The record holds other replicator-dynamics and EGT works (LIT-1501, LIT-1511 etc.) but none on
+  The record holds other replicator-dynamics and EGT works ([LIT-1501](../literature.d/LIT-1501.md), [LIT-1511](../literature.d/LIT-1511.md) etc.) but none on
   platforms.
 
 ## Limitations

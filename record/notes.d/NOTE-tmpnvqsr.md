@@ -78,15 +78,15 @@ optimal for the seller; different model (single CPT buyer, dynamic; Han et al. p
 price plus multi-item drop probabilities under a player choice model) and none of Han et al.'s
 algorithmic or hardness results. It restates none of them.
 
-- **CASE-tmpmw3hc** (does a high-spending minority's weight select loot-box design?). **Qualifies
+- **[CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md)** (does a high-spending minority's weight select loot-box design?). **Qualifies
   the inference the case relies on.** Gan derives the stationary loot box and the pity system as
   revenue-optimal for a single buyer whose value is known, so a design moving toward pity
   guarantees (the case's own "guarantee at draw 90" example) can be explained by revenue
   optimization against a homogeneous behavioural buyer, with no spending tail. The case's H1/H2
   test needs a control for this: design drift toward a revenue-optimal mechanism is not by itself
   evidence that a minority selected it. Gan does not address heterogeneous spenders or "whales".
-- Bears on **CLAIM-tmpcv1pg** only through the case, and not on its escalation half.
-- Duplicate check: no LIT on the branch holds arXiv 2208.03602, "gacha" or "pity system"; LIT-1209
+- Bears on **[CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md)** only through the case, and not on its escalation half.
+- Duplicate check: no LIT on the branch holds arXiv 2208.03602, "gacha" or "pity system"; [LIT-1209](../literature.d/LIT-1209.md)
   is the only "prospect theory" hit and is unrelated.
 
 ## Limitations

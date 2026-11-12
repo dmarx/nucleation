@@ -101,32 +101,32 @@ restatement of the title; it is not wrong, but it says nothing of the argument. 
 that it is a Brief Report and that its conclusion is negative: neither design works under the
 current subjective conception.
 
-- **THEORY-464** (Dufner via LIT-130: in ethical questions such as advance directives the deciding
+- **[THEORY-464](../theory.d/THEORY-464.md)** (Dufner via [LIT-130](../literature.d/LIT-130.md): in ethical questions such as advance directives the deciding
   relation is usually not numerical identity). **Supports, from outside the identity debate**: Nix
   never asks whether the PLWD is the same person as the author of the AR; the AR's authority fails
   for him because of the duty-of-care requirement of *occurrent* intolerable suffering and the
   subjectivity of suffering. That is a second relation, other than identity, doing the deciding.
   It does not engage Dworkin/Dresser or precedent autonomy at all, so it does not test the
   theory's survey of the identity literature.
-- **QUESTION-364** (what makes a revision the continuation of the agent's will, and how a history
+- **[QUESTION-364](../questions.d/QUESTION-364.md)** (what makes a revision the continuation of the agent's will, and how a history
   of authorization can count). **Qualifies / leaves open**: Nix's Option 1 argument (forecasting
   failure; Walsh's "cognitive transformative experience", i.e. changed preferences, values and
   beliefs) is a concrete case where the standards for reading an earlier authorization are
   themselves revised by the agent's own process. Nix does not answer which will governs; he
   side-steps by requiring present suffering. Weak bearing.
-- **Recheck, missed by the LIT: QUESTION-tmp2lvhi** (what makes one agent's authority to decide
+- **Recheck, missed by the LIT: [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md)** (what makes one agent's authority to decide
   about another's body legitimate when the other cannot decide: welfare, earlier wishes, projected
   wishes or the relation; parent vs. advance directive). **Direct bearing**: Nix's answer for
   Canadian MAID is that the earlier wish cannot by itself authorize; welfare at the time of
   provision (occurrent intolerable suffering) is necessary, and the earlier wish only selects
   among actions the duty of care already permits. It is an instance of the "welfare" answer gating
   the "earlier wishes" answer, within one legal framework.
-- **LIT-1183 / NOTE-961 / CASE-107** (Bruno et al. 2011, locked-in "happy majority"): not cited by
+- **[LIT-1183](../literature.d/LIT-1183.md) / [NOTE-961](NOTE-961.md) / [CASE-107](../cases.d/CASE-107.md)** (Bruno et al. 2011, locked-in "happy majority"): not cited by
   Nix, but his Option 1 rests on the same disability-paradox phenomenon (he cites Albrecht and
   Devlieger 1999; Ubel et al. 2005; Smith et al. 2006 on colostomies). Bruno is held evidence of
   the same forecasting gap; the filer may cross-reference. Not a duplicate.
 - Duplicate check: no other LIT holds DOI 10.1017/S0963180124000264 or the title (git grep on the
-  branch; only LIT-tmpbnl6c). Search for "disability paradox", "transformative experience",
+  branch; only [LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)). Search for "disability paradox", "transformative experience",
   "Cassell", "intolerable suffering" found no other held entry.
 
 ## Limitations

@@ -45,7 +45,7 @@ Jiangze Han, Christopher Thomas Ryan and Xin T. Tong (2026). "Algorithms for Loo
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpzbm28. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpzbm28](LIT-tmpzbm28.md). The
 reader on how far it stands in: Gan, "Gacha Game: When Prospect Theory Meets
 Optimal Pricing", arXiv:2208.03602v3 (26 Aug 2023), skimmed: see
 `LIT-tmpbl3eg__neighbour-gan-gacha.md`. It stands in **only partly**: it
@@ -54,6 +54,6 @@ conclusion that loot boxes can be the seller's optimum, but by a different
 route (one buyer with known value and prospect-theory probability weighting;
 dynamic pricing) and with no algorithms or complexity results, which are Han
 et al.'s contribution. It does not restate any of Han et al.'s results.
-Other loot-box works the record already registers (LIT-tmpftfht,
-LIT-tmp88875, LIT-tmpk21r4, LIT-tmpuoy9g) are not neighbours of this
+Other loot-box works the record already registers ([LIT-tmpftfht](LIT-tmpftfht.md),
+[LIT-tmp88875](LIT-tmp88875.md), [LIT-tmpk21r4](LIT-tmpk21r4.md), [LIT-tmpuoy9g](LIT-tmpuoy9g.md)) are not neighbours of this
 design-algorithm paper.

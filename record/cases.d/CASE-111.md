@@ -133,7 +133,7 @@ Kuehn ([NOTE-1598](../notes.d/NOTE-1598.md)) supports the case's slowing recover
 
 ## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
 
-From the reading in NOTE-tmpu69dy (LIT-tmpc2x78), the reader's assessment as
+From the reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)), the reader's assessment as
 checked by the filer: A second formal instance of the same structure, in a
 two-population game, not a one-variable normal form. Unlike CASE-111,
 recovery slowing near the fold is not discussed.
