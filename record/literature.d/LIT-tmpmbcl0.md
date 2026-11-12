@@ -26,6 +26,8 @@ implementations: []
 summary: >-
   Jeffrey M. Leichman and Karine Bénac-Giroux, eds. (2021). Colonialism and Slavery in Performance: Theatre and the Eighteenth-Century French Caribbean. Oxford University Studies in the Enlightenment. Liverpool University Press. ISBN 9781800348042. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3. A continuation of LIT-tmpepraj's subject (A3). A source of CASE-tmpwmg3h's point that a performance could resist metropolitan authority while leaving slavery intact.
 ---
+<!-- inactive-ok-file: LIT-tmpepraj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # LIT-tmpmbcl0: Colonialism and Slavery in Performance: Theatre and the Eighteenth-Century French Caribbean
 

@@ -25,6 +25,7 @@ implementations: []
 summary: >-
   Marisa J. Fuentes (2016). Dispossessed Lives: Enslaved Women, Violence, and the Archive. University of Pennsylvania Press. DOI-10.9783/9780812293005. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. Bears on the note of 2026-11-12 on CLAIM-348: a description the record would call inadequate may be the only evidence there is, generated under the institution's own terms (CLAIM-350; CLAIM-657's selective disappearance is the organization's own form).
 ---
+<!-- inactive-ok-file: CLAIM-657 — Proposed; cited as on the record -->
 
 # LIT-tmp9nkyo: Dispossessed Lives: Enslaved Women, Violence, and the Archive
 

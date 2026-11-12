@@ -77,7 +77,6 @@ summary: >-
   answerability, and [CLAIM-619](../claims.d/CLAIM-619.md) a counter-corrective disposition. The
   account adds nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: QUESTION-tmpojwyk QUESTION-tmp9bbpk — filed from the exchange of 2026-11-12, Open -->
 <!-- inactive-ok-file: CLAIM-tmp16mkz CLAIM-tmpwn3wr CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CASE-247 CLAIM-656 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ARG-043 ARG-055 ARG-058 ARG-059 ARG-062 ARG-064 CASE-229 CLAIM-445 CLAIM-511 CLAIM-608 CLAIM-614 CLAIM-619 CLAIM-624 TERM-118 — Proposed; components and citations, with their standing -->

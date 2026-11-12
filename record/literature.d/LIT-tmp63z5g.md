@@ -25,6 +25,8 @@ implementations: []
 summary: >-
   Julio Ángel Alicea (2024). Predatory DEI: How Racialized Organizations Exacerbate Workplace Racial Stratification through Exploitative Diversity Work. Social Problems 73(1), 1–15. DOI-10.1093/socpro/spae052. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A8, A9. A9's closest empirical match to the exchange's dependency-and-exploitation argument; with LIT-tmpbnlqp it is where A found the mechanism of CLAIM-tmp16mkz.
 ---
+<!-- inactive-ok-file: LIT-tmpbnlqp — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
+<!-- inactive-ok-file: CLAIM-tmp16mkz — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # LIT-tmp63z5g: Predatory DEI: How Racialized Organizations Exacerbate Workplace Racial Stratification through Exploitative Diversity Work
 

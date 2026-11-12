@@ -24,6 +24,7 @@ implementations: []
 summary: >-
   Saran Anika Nurse, Jay O'Toole and Tanja R. Darden (2026). A Multilevel Framework for Understanding Racialized Exclusion in Organizations. Academy of Management Proceedings 2026(1). DOI-10.5465/AMPROC.2026.158bp. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. A9 reads it as self-confirming organizational classification, near CLAIM-402, CLAIM-348 and CLAIM-624, and asks when an organization's reading of a participant's response changes the conditions under which that participant is later evaluated (held in CLAIM-402 and CLAIM-619; note of 2026-11-12 on CLAIM-402).
 ---
+<!-- inactive-ok-file: CLAIM-619 CLAIM-624 — Proposed; cited as on the record -->
 
 # LIT-tmphp6b2: A Multilevel Framework for Understanding Racialized Exclusion in Organizations
 

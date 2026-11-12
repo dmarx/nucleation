@@ -24,6 +24,7 @@ implementations: []
 summary: >-
   Eva Feder Kittay (1995). Taking Dependency Seriously: The Family and Medical Leave Act Considered in Light of the Social Organization of Dependency Work and Gender Equality. Hypatia 10(1), 8–29. DOI-10.1111/j.1527-2001.1995.tb01351.x. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. The article form of LIT-tmp2vf7t's account, for QUESTION-tmp9bbpk.
 ---
+<!-- inactive-ok-file: LIT-tmp2vf7t — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 
 # LIT-tmp9kqwg: Taking Dependency Seriously: The Family and Medical Leave Act Considered in Light of the Social Organization of Dependency Work and Gender Equality
 

@@ -24,6 +24,7 @@ implementations: []
 summary: >-
   Adam Lovett and Stefan Riedener (2021). Group Agents and Moral Status: What Can We Owe to Organizations? Canadian Journal of Philosophy 51(3), 221–238. DOI-10.1017/can.2021.8. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. The direction opposite to QUESTION-tmp9bbpk's, in A12's four-way table; bears on TERM-083 (moral standing).
 ---
+<!-- inactive-ok-file: TERM-083 — Proposed; cited as on the record -->
 
 # LIT-tmpe74m4: Group Agents and Moral Status: What Can We Owe to Organizations?
 

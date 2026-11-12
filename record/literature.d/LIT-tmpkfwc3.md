@@ -24,6 +24,8 @@ implementations: []
 summary: >-
   Robert E. Goodin (1985). Vulnerabilities and Responsibilities: An Ethical Defense of the Welfare State. American Political Science Review 79(3), 775–787. DOI-10.2307/1956843. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. The article form of the supposition of CLAIM-tmpwn3wr.
 ---
+<!-- inactive-ok-file: LIT-tmpgqxcj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
+<!-- inactive-ok-file: CLAIM-tmpwn3wr — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # LIT-tmpkfwc3: Vulnerabilities and Responsibilities: An Ethical Defense of the Welfare State
 

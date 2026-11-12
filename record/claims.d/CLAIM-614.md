@@ -97,7 +97,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: QUESTION-tmpojwyk — filed from the exchange of 2026-11-12, Open -->
 <!-- inactive-ok-file: LIT-tmph9tz9 — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form, credited as on the record -->
 <!-- inactive-ok-file: CLAIM-620 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the synthesis this complements and A's answers -->

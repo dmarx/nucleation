@@ -26,6 +26,8 @@ implementations: []
 summary: >-
   Julia Prest (2023). Public Theatre and the Enslaved People of Colonial Saint-Domingue. Palgrave Macmillan (Springer International Publishing). DOI-10.1007/978-3-031-22691-5. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3, A6, A12. A3's "strongest book-length continuation" of LIT-tmpepraj and a source of CASE-tmpwmg3h. A6 §3 reads its concealed labour against CLAIM-348 and CASE-110; A12 §2 reads it with Kittay's dependency work (LIT-tmp2vf7t).
 ---
+<!-- inactive-ok-file: LIT-tmp2vf7t LIT-tmpepraj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # LIT-tmp0dw2u: Public Theatre and the Enslaved People of Colonial Saint-Domingue
 

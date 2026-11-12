@@ -59,10 +59,11 @@ The record holds pieces near it and no question of it.
   superagent-->constituents" (CLAIM-104), and asked what grounds
   normativity across agents at one level (QUESTION-007). Both are
   Deferred with the authenticity line. SYNTHESIS-023 finds the content of
-  the downward norm unstated: "On the reading that the whole owes its
-  constituents non-domination it runs against CLAIM-362's 'We are
-  proposing an organizational criterion, not asserting rights for neural
-  modules'; on the other reading it needs a premise no component holds."
+  the downward norm unstated. "On the reading that the whole owes its
+  constituents non-domination it runs against" CLAIM-362's own
+  disclaimer ("We are proposing an organizational criterion, not
+  asserting rights for neural modules"), and "on the other reading it
+  needs a premise no component holds."
   This question asks that open part directly, for any whole, without the
   authenticity line's ownership criteria.
 - **The organizational-normativity line holds the limits.** Viability

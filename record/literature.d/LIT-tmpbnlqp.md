@@ -24,6 +24,8 @@ implementations: []
 summary: >-
   Louise Seamster and Raphaël Charron-Chénier (2017). Predatory Inclusion and Education Debt: Rethinking the Racial Wealth Gap. Social Currents 4(3), 199–207. DOI-10.1177/2329496516686620. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. With LIT-tmp63z5g, where A found the mechanism of CLAIM-tmp16mkz. A preprint copy is listed at SocArXiv for the reading pass.
 ---
+<!-- inactive-ok-file: LIT-tmp63z5g — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
+<!-- inactive-ok-file: CLAIM-tmp16mkz — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # LIT-tmpbnlqp: Predatory Inclusion and Education Debt: Rethinking the Racial Wealth Gap
 

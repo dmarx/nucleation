@@ -39,7 +39,6 @@ summary: >-
   coupling.
 ---
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpojwyk — filed from the exchange of 2026-11-12, Open -->
 
 # CLAIM-428: Material interdependence couples parties' outcomes without fixing the perspective that organizes the coupling: the same dependence can be organized as mutual opportunity, as competitive vulnerability or as coercive leverage, so interdependence makes for peace to the extent that cooperation also changes which interests the parties' institutions recognize and who holds influence over them, and payoff coupling alone does not settle which
 

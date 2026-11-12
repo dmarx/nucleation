@@ -25,6 +25,7 @@ implementations: []
 summary: >-
   Sara Ahmed (2021). Complaint! Duke University Press. DOI-10.1215/9781478022336. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. A9 calls it almost a direct empirical interlocutor for CLAIM-619 (the counter-corrective disposition) and a way to operationalize CLAIM-523's three achievements. It bears on QUESTION-441.
 ---
+<!-- inactive-ok-file: CLAIM-619 — Proposed; cited as on the record -->
 
 # LIT-tmpjm1op: Complaint!
 

@@ -33,7 +33,6 @@ summary: >-
   theatre; it is not an instance of CLAIM-tmp16mkz. Documented as
   reported; the standing is the historians', not checked here.
 ---
-<!-- inactive-ok-file: QUESTION-tmpojwyk — filed from the same exchange, Open -->
 <!-- inactive-ok-file: CLAIM-tmp16mkz — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-619 — Proposed; the claims A6 §5 read the case against, cited with their standing -->
 <!-- inactive-ok-file: LIT-tmpepraj LIT-tmp0dw2u LIT-tmpmbcl0 LIT-tmpz9o31 — Deferred; filed from the same exchange, unread -->

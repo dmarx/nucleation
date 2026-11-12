@@ -24,6 +24,7 @@ implementations: []
 summary: >-
   Peter Mondelli (2016). Review of From Plantation to Paradise? by David M. Powers. Early American Literature 51(1), 184–188. DOI-10.1353/eal.2016.0016. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3. The review A3 recommends reading first, for the theoretical strengths and omissions of LIT-tmpepraj.
 ---
+<!-- inactive-ok-file: LIT-tmpepraj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 
 # LIT-tmppgp59: From Plantation to Paradise? Cultural Politics and Musical Theatre in French Slave Colonies, 1764–1789, by David M. Powers (review)
 

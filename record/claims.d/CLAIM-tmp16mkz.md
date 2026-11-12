@@ -40,8 +40,8 @@ summary: >-
   instances are A's reports of unread works. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-428 — Proposed; the record's claims this one joins or sets beside, cited with their standing -->
-<!-- inactive-ok-file: QUESTION-tmpojwyk — filed from the same exchange, Open -->
 <!-- inactive-ok-file: LIT-tmpbnlqp LIT-tmp63z5g — Deferred; filed from the same exchange, unread -->
 
 # CLAIM-tmp16mkz: An arrangement can produce the dependence through which it exploits: access to a needed good offered on terms that build the recipient's reliance on the provider and narrow exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it
@@ -57,10 +57,10 @@ A9 §2, after Alicea (LIT-tmp63z5g) and Seamster and Charron-Chénier
 > It might **produce new dependencies by offering access to a valuable
 > good under terms that generate or preserve asymmetric control**.
 
-A9 named two mechanisms. "Exploitation of an existing dependency: A party
+A9 named two mechanisms. Exploitation of an existing dependency: "A party
 already depends on something another controls, and that dependency is
-used to obtain benefits on unjust terms." "Dependency-producing
-exploitation: An arrangement initially expands access or opportunity
+used to obtain benefits on unjust terms." Dependency-producing
+exploitation: "An arrangement initially expands access or opportunity
 but, through its terms and repeated operation, creates new
 vulnerabilities or undermines the participant's ability to negotiate or
 exit." And: "The second mechanism deserves independent investigation. It

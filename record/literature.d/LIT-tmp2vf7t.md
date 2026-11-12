@@ -25,6 +25,7 @@ implementations: []
 summary: >-
   Eva Feder Kittay (1999). Love's Labor: Essays on Women, Equality, and Dependency. Routledge. DOI-10.4324/9781315108926. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A11, A12. A candidate answer to QUESTION-tmp9bbpk (obligation from constitutive maintenance work), and A12's reading of the concealed labour in LIT-tmp0dw2u. The record names Kittay only inside other works' notes.
 ---
+<!-- inactive-ok-file: LIT-tmp0dw2u — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 
 # LIT-tmp2vf7t: Love's Labor: Essays on Women, Equality, and Dependency
 

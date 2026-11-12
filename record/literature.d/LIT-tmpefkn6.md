@@ -26,6 +26,7 @@ implementations: []
 summary: >-
   Julia Prest (2019). Pale imitations: White performances of slave dance in the public theatres of pre-revolutionary Saint-Domingue. Atlantic Studies 16(4), 502–520. DOI-10.1080/14788810.2018.1469352. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3. Named in A3's reading sequence for LIT-tmpepraj's subject.
 ---
+<!-- inactive-ok-file: LIT-tmpepraj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 
 # LIT-tmpefkn6: Pale imitations: White performances of slave dance in the public theatres of pre-revolutionary Saint-Domingue
 
