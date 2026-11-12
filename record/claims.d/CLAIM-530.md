@@ -181,8 +181,8 @@ constitutive relevance itself needs.
 ## Note of 2026-11-12: maternal microchimeric cells as a case for the parthood clause, the assistant's, accepted by the owner
 
 A pointer, filed with the proposed test in the note of the same date on
-QUESTION-086. Tolerogenic maternal cells in offspring (THEORY-tmp6t2l2; the
-Immunity paper LIT-tmpxdjn3 is Unfetched, and its reading is owed) are a
+[QUESTION-086](../questions.d/QUESTION-086.md). Tolerogenic maternal cells in offspring ([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md); the
+Immunity paper [LIT-tmpxdjn3](../literature.d/LIT-tmpxdjn3.md) is Unfetched, and its reading is owed) are a
 natural case in which this claim's parthood clause is exactly what is
 contested. The cells satisfy both manipulability conditions for the
 tolerance, and they are another organism's cells inside the host. So the

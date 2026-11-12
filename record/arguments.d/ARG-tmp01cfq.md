@@ -21,13 +21,13 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-tmp3431v CLAIM-tmpff0cq — Proposed; filed in the same follow-up -->
+<!-- inactive-ok-file: CASE-tmp3431v — Proposed; filed in the same follow-up -->
 
 # ARG-tmp01cfq: The trap construction shows that reachability by a budget-dependent process can fall as the budget rises while path reachability does not
 
 ## The inference
 
-CASE-tmp3431v: a path to g exists at every budget from 1, and the process
+[CASE-tmp3431v](../cases.d/CASE-tmp3431v.md): a path to g exists at every budget from 1, and the process
 reaches g at budget 1 only. So process reachability need not be monotone
 while path reachability is.
 

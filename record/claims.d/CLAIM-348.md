@@ -217,7 +217,7 @@ A60 §2 and A62 §3 of the second share of the exchange "Individuation, Possibil
 
 The third of the ideas offered after filing the exchange "Medical Ethics and
 Media Enshitification" (2026-11-11), accepted by the owner on 2026-11-12.
-CLAIM-tmpmz271's activity-weighted demand is an instance of this claim, not
+[CLAIM-tmpmz271](CLAIM-tmpmz271.md)'s activity-weighted demand is an instance of this claim, not
 a new claim. The map from a population's profile of tastes and activity to
 weighted demand preserves revenue and every revenue prediction, and merges
 populations whose person-weighted preferences differ. A witness, checked

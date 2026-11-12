@@ -29,13 +29,13 @@ bears_on:
 summary: >-
   The assistant's, the second of the ideas offered after filing the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), which
-  the owner accepted on 2026-11-12. It marks the scope of CLAIM-560's
+  the owner accepted on 2026-11-12. It marks the scope of [CLAIM-560](CLAIM-560.md)'s
   monotonicity. The reachability filtration grows with the budget because
   it counts paths; what a given process reaches grows only if the process
   does not change with the budget. The owner's PASS@(k,T) link
-  (CLAIM-tmpyc5md) needs this premise, and ARG-tmpid47d noted its absence.
-  The proof is the assistant's; CASE-tmp3431v is the construction, and
-  ARG-tmp01cfq weighs it. The wording is the assistant's (Claude, in this
+  ([CLAIM-tmpyc5md](CLAIM-tmpyc5md.md)) needs this premise, and [ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md) noted its absence.
+  The proof is the assistant's; [CASE-tmp3431v](../cases.d/CASE-tmp3431v.md) is the construction, and
+  [ARG-tmp01cfq](../arguments.d/ARG-tmp01cfq.md) weighs it. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp3431v ARG-tmp01cfq CLAIM-tmpyc5md ARG-tmpid47d THEORY-tmps74c5 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
@@ -56,18 +56,18 @@ targets reached with positive probability grows with b. The same holds
 with any resource in place of steps, if the process's choices do not read
 the remaining resource.
 
-**Non-monotone case (CASE-tmp3431v).** A process that takes s → g with one
+**Non-monotone case ([CASE-tmp3431v](../cases.d/CASE-tmp3431v.md)).** A process that takes s → g with one
 step left and s → t (an absorbing trap) with more reaches g at b = 1 and
 never at b ≥ 2. A path to g exists at every b ≥ 1.
 
 ## Where it sits
 
-- CLAIM-560's reachability filtration is the admissible-path one, and it
+- [CLAIM-560](CLAIM-560.md)'s reachability filtration is the admissible-path one, and it
   grows with the budget. This claim is the limit of that monotonicity: it
   does not pass to what a particular adaptive process reaches.
-- CLAIM-567's "reliably reached" is a property of a process. Indexed by
+- [CLAIM-567](CLAIM-567.md)'s "reliably reached" is a property of a process. Indexed by
   budget, it can fall as the budget rises.
-- PASS@(k,T) (THEORY-tmps74c5) states monotonicity in T on the ground that
+- PASS@(k,T) ([THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md)) states monotonicity in T on the ground that
   "unused rounds are simply not exercised", which is the monotone case's
   premise. A trained policy whose behaviour depends on its turn budget
   violates it. The paper's Figure 1 shows per-depth estimates that fall

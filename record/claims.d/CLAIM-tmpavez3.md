@@ -35,11 +35,11 @@ summary: >-
   The assistant's, the first of the ideas offered after filing the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), which
   the owner accepted on 2026-11-12 ("file their ideas too, I like
-  ideas"). It joins CLAIM-tmphgjbz (exit moves what is measured) to
-  QUESTION-441 (reproducing what keeps a harm non-legible). CLAIM-619's
+  ideas"). It joins [CLAIM-tmphgjbz](CLAIM-tmphgjbz.md) (exit moves what is measured) to
+  [QUESTION-441](../questions.d/QUESTION-441.md) (reproducing what keeps a harm non-legible). [CLAIM-619](CLAIM-619.md)'s
   route needs an organization that answers challenge by restricting it;
   this route needs only an honest count of who is still there. The
-  possibility is shown in CASE-tmp34j9u, and ARG-tmpf6cmt weighs it. As
+  possibility is shown in [CASE-tmp34j9u](../cases.d/CASE-tmp34j9u.md), and [ARG-tmpf6cmt](../arguments.d/ARG-tmpf6cmt.md) weighs it. As
   first offered it said recognized failures would fall; the model shows
   they rise, but more slowly than the harm, and the claim is stated so.
   The wording is the assistant's (Claude, in this session); adopting it
@@ -64,17 +64,17 @@ Two things follow:
 
 1. **The practice expands with no counter-corrective act.** Complaints
    are counted honestly, and no channel is narrowed. This is a route to
-   QUESTION-441's non-legibility that does not need CLAIM-619's
-   disposition or CLAIM-614's reproduction of representations by any act
+   [QUESTION-441](../questions.d/QUESTION-441.md)'s non-legibility that does not need [CLAIM-619](CLAIM-619.md)'s
+   disposition or [CLAIM-614](CLAIM-614.md)'s reproduction of representations by any act
    beyond allocation.
 2. **The record understates the harm by a growing factor.** Recognized
-   failures need not fall. In CASE-tmp34j9u they more than double. But the
+   failures need not fall. In [CASE-tmp34j9u](../cases.d/CASE-tmp34j9u.md) they more than double. But the
    fraction of the harmed who remain to report shrinks with x, so the
    failures recorded grow more slowly than the harm done.
 
 ## Evidence
 
-CASE-tmp34j9u: from x = 0.05 to x = 0.223, the harmed share falling from
+[CASE-tmp34j9u](../cases.d/CASE-tmp34j9u.md): from x = 0.05 to x = 0.223, the harmed share falling from
 0.30 to 0.185, with a control that does not see exit staying at 0.05. The
 monotonicity argument above shows the drift does not depend on its
 parameters, given exit rising with x and an interior optimum.
@@ -82,5 +82,5 @@ parameters, given exit rising with x and an interior optimum.
 ## What it does not say
 
 That any organization does this, or that it is a wrong. Whether keeping
-such a score breaches a duty is CLAIM-624's question, and it depends on
+such a score breaches a duty is [CLAIM-624](CLAIM-624.md)'s question, and it depends on
 the duty. That the drift is unbounded: it stops at a fixed point.

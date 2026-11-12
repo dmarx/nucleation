@@ -17,7 +17,7 @@ summary: >-
   The assistant's construction, built at the owner's acceptance on
   2026-11-12 of the ideas offered after filing the exchange "Medical
   Ethics and Media Enshitification" (2026-11-11). It grounds
-  CLAIM-tmpff0cq. Checked with python3 -I on 2026-11-12, together with an
+  [CLAIM-tmpff0cq](../claims.d/CLAIM-tmpff0cq.md). Checked with python3 -I on 2026-11-12, together with an
   exhaustive check that every stationary successor map on three states
   gives reach monotone in the budget (27 maps, no violation). The wording
   is the assistant's (Claude, in this session); adopting it is the owner's
@@ -48,7 +48,7 @@ rises with b (computed exactly for p = 1/3 and 1/2).
 
 ## What it shows
 
-The admissible-path reachability CLAIM-560 indexes is monotone in the
+The admissible-path reachability [CLAIM-560](../claims.d/CLAIM-560.md) indexes is monotone in the
 budget here, as it must be. Reachability by a process whose choices
 depend on the remaining budget is not. That is the separation
-CLAIM-tmpff0cq states.
+[CLAIM-tmpff0cq](../claims.d/CLAIM-tmpff0cq.md) states.

@@ -218,16 +218,16 @@ and Media Enshitification" (2026-11-11), accepted by the owner on
 2026-11-12. Peng, Way and colleagues report, in mice, that depleting LysM+
 CD11c+ maternal microchimeric cells removes the offspring's tolerance of
 non-inherited maternal antigens while most maternal cells persist
-(THEORY-tmp6t2l2, from a press post; the paper, LIT-tmpxdjn3, is Unfetched,
+([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md), from a press post; the paper, [LIT-tmpxdjn3](../literature.d/LIT-tmpxdjn3.md), is Unfetched,
 so the reading is owed and nothing here is a finding). The cells are of
 another organism's lineage and sustain a capacity of the host. Proposed
 test: compare offspring whose tolerance is sustained by their own maternal
 cells with offspring given, later in life, matched tolerogenic cells from a
 donor, an outside supply of the same function. If depletion and stimulation
 affect the capacity identically in both, the interventions cannot tell an
-internal producer from an outside controller, as CLAIM-530 predicts. What
+internal producer from an outside controller, as [CLAIM-530](../claims.d/CLAIM-530.md) predicts. What
 might separate them is whether the host's own processes keep and renew the
-cells (maintenance provenance, TERM-100) and whether the tolerance is
+cells (maintenance provenance, [TERM-100](../terms.d/TERM-100.md)) and whether the tolerance is
 renewed with them. That is this question asked of a single cell population.
 The wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.

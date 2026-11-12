@@ -20,13 +20,13 @@ summary: >-
   The assistant's construction, built at the owner's acceptance on
   2026-11-12 of the ideas offered after filing the exchange "Medical
   Ethics and Media Enshitification" (2026-11-11). It grounds
-  CLAIM-tmpavez3. Run with python3 -I on 2026-11-12; the figures below are
+  [CLAIM-tmpavez3](../claims.d/CLAIM-tmpavez3.md). Run with python3 -I on 2026-11-12; the figures below are
   its output, and the model is stated in full so that it can be rerun.
   Its parameters are arbitrary, and it shows a possibility, not a
   measurement. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpavez3 CLAIM-tmphgjbz CLAIM-tmpvceet — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
+<!-- inactive-ok-file: CLAIM-tmpavez3 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
 
 # CASE-tmp34j9u: A toy of exit-driven drift: an organization that sets a practice each period by revenue less a penalty for complaints from its present users, where the practice harms one group, whose members complain and leave at a rate rising with it, raises the practice from 0.05 to 0.223 as that group's share falls from 0.30 to 0.18, with no act against complaint
 

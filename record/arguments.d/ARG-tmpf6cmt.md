@@ -21,13 +21,13 @@ summary: >-
   arm isolates exit as the cause. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp34j9u CLAIM-tmpavez3 — Proposed; filed in the same follow-up -->
+<!-- inactive-ok-file: CASE-tmp34j9u — Proposed; filed in the same follow-up -->
 
 # ARG-tmpf6cmt: The exit-driven drift toy shows that a practice can expand under an honest count of present users' complaints, through the exit it causes alone
 
 ## The inference
 
-CASE-tmp34j9u is a model in which the claim's premises hold: an honest
+[CASE-tmp34j9u](../cases.d/CASE-tmp34j9u.md) is a model in which the claim's premises hold: an honest
 complaint count, exit rising with the practice, and myopic choice. The
 practice rises. So the claim's "can" holds.
 
