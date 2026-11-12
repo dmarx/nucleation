@@ -30,7 +30,7 @@ summary: >-
   unverified: the thread could not be read here, since it redirected to a
   login page on 2026-11-12. A's history of the generations is checked
   against the arXiv records of the works it names. The case bears on
-  QUESTION-095, whether storing a result and amortizing a computation are
+  [QUESTION-095](../questions.d/QUESTION-095.md), whether storing a result and amortizing a computation are
   one trade, as a domain the question does not yet hold.
 ---
 <!-- inactive-ok-file: THEORY-331 — Proposed; the reading of inference-aware scaling the case is set against -->
@@ -83,9 +83,9 @@ checked on 2026-11-12 (the works are registered, not read):
 
 | A's generation | how identity is retained | works, first arXiv version |
 |---|---|---|
-| 2022–23 | learn an embedding or subject-specific weights | Textual Inversion, LIT-tmpiyr8q (2022-08-02); DreamBooth, LIT-tmp3pjii (2022-08-25); LoRA, LIT-tmp5b18b (2021-06-17, for language models) |
-| 2023–24 | pretrained adapters read reference images | IP-Adapter, LIT-tmptzx4q (2023-08-13); PhotoMaker, LIT-tmp8l2rx (2023-12-07, which A puts in 2024); InstantID, LIT-tmpp8vh8 (2024-01-15) |
-| 2025 | image context kept through editing instructions | FLUX.1 Kontext, LIT-tmp4meti (2025-06-17) |
+| 2022–23 | learn an embedding or subject-specific weights | Textual Inversion, [LIT-tmpiyr8q](../literature.d/LIT-tmpiyr8q.md) (2022-08-02); DreamBooth, [LIT-tmp3pjii](../literature.d/LIT-tmp3pjii.md) (2022-08-25); LoRA, [LIT-tmp5b18b](../literature.d/LIT-tmp5b18b.md) (2021-06-17, for language models) |
+| 2023–24 | pretrained adapters read reference images | IP-Adapter, [LIT-tmptzx4q](../literature.d/LIT-tmptzx4q.md) (2023-08-13); PhotoMaker, [LIT-tmp8l2rx](../literature.d/LIT-tmp8l2rx.md) (2023-12-07, which A puts in 2024); InstantID, [LIT-tmpp8vh8](../literature.d/LIT-tmpp8vh8.md) (2024-01-15) |
+| 2025 | image context kept through editing instructions | FLUX.1 Kontext, [LIT-tmp4meti](../literature.d/LIT-tmp4meti.md) (2025-06-17) |
 | 2026 | character sheets given to a reference-conditioned model | MiniMax H3, the thread only |
 
 Two abstracts state the two sides of the trade in their own words.
@@ -98,7 +98,7 @@ measured performance rankings."
 
 ## What it can show
 
-- **A domain for QUESTION-095.** The question asks whether leaving a
+- **A domain for [QUESTION-095](../questions.d/QUESTION-095.md).** The question asks whether leaving a
   result where it can be cheaply retrieved is the same trade as
   amortizing a computation, across a crew's speed bugs, filed arguments
   and reused inferences. Here the same choice is made by practitioners,
@@ -108,16 +108,16 @@ measured performance rankings."
   laws says that in the scaling readings "the precomputed thing is a
   cheaper computation, not a stored answer"; a LoRA is that case, and a
   reference sheet is a stored thing interpreted on every use.
-- **A practitioner's version of THEORY-331.** Sardana et al. and Snell et
+- **A practitioner's version of [THEORY-331](../theory.d/THEORY-331.md).** Sardana et al. and Snell et
   al. find that the least-compute way to a fixed quality moves toward
   up-front compute as expected use grows. The thread's commenter who,
   in A's paraphrase, "suggests LoRAs could regain the advantage over many
   generations" states the same dependence on reuse.
-- **Why the break-even can move between generations.** In CLAIM-303's
+- **Why the break-even can move between generations.** In [CLAIM-303](../claims.d/CLAIM-303.md)'s
   arithmetic, learning pays when the uses exceed the up-front cost over
   the per-use saving. Better reference conditioning shrinks the per-use
   saving a LoRA offers, so it raises the number of uses a LoRA must see.
-  Whether it has done so is the empirical question CASE-tmp3isyl
+  Whether it has done so is the empirical question [CASE-tmp3isyl](CASE-tmp3isyl.md)
   proposes to measure; A18 declined to assume it.
 
 ## What it cannot show
@@ -127,8 +127,8 @@ measured performance rankings."
   practitioners' judgements, not a measurement.
 - **That reference conditioning is now generally cheaper.** A18
   disclaims it, and so does the case.
-- **CLAIM-303's thesis.** A linked the case to CLAIM-303 by `illustrates`
-  (A16, A18). CLAIM-303's thesis is about filing an argument and the
+- **[CLAIM-303](../claims.d/CLAIM-303.md)'s thesis.** A linked the case to [CLAIM-303](../claims.d/CLAIM-303.md) by `illustrates`
+  (A16, A18). [CLAIM-303](../claims.d/CLAIM-303.md)'s thesis is about filing an argument and the
   record's second-occurrence rule; the case shares only its break-even
-  arithmetic. So it bears on QUESTION-095, which asks whether such
+  arithmetic. So it bears on [QUESTION-095](../questions.d/QUESTION-095.md), which asks whether such
   trades are one, and illustrates no claim.

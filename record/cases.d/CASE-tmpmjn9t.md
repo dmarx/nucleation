@@ -23,9 +23,9 @@ summary: >-
   describing them. A offered it as the proof of a new claim, that
   improving every required capacity can lower readiness when the
   capacities' dependence changes. The record already holds that result in
-  substance: CLAIM-632's records identify readiness only when the
+  substance: [CLAIM-632](../claims.d/CLAIM-632.md)'s records identify readiness only when the
   dependence is known, and certify a floor only from the lower Fréchet
-  bound. So the case illustrates CLAIM-632 and CLAIM-587, and A's claim is
+  bound. So the case illustrates [CLAIM-632](../claims.d/CLAIM-632.md) and [CLAIM-587](../claims.d/CLAIM-587.md), and A's claim is
   not filed. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-632 — Proposed; the claim the construction illustrates -->
@@ -35,8 +35,8 @@ summary: >-
 ## The case
 
 A response needs two complementary capacities, A and B, and succeeds only
-when both hold (CLAIM-587's conjunction). Readiness is R = Pr(A and B)
-(TERM-115). A's table, from A8:
+when both hold ([CLAIM-587](../claims.d/CLAIM-587.md)'s conjunction). Readiness is R = Pr(A and B)
+([TERM-115](../terms.d/TERM-115.md)). A's table, from A8:
 
 | measure | before | after |
 |---|---:|---:|
@@ -58,14 +58,14 @@ P_A + P_B − 1 = 0.7.
 ## What it shows
 
 - **A record of rising marginals does not show rising readiness.** This
-  is CLAIM-632's point, that per-capacity records "identify it only when
+  is [CLAIM-632](../claims.d/CLAIM-632.md)'s point, that per-capacity records "identify it only when
   the capacities' dependence is known", applied to two records in time.
-  Applying CLAIM-632's certification rule with the old upper bound as the
+  Applying [CLAIM-632](../claims.d/CLAIM-632.md)'s certification rule with the old upper bound as the
   floor gives the comparative form: per-capacity records certify that
   readiness rose only when the new lower bound, ΣP′ᵢ − (n − 1), exceeds
   the old upper bound, min Pᵢ. Here 0.7 does not exceed 0.8, so the
   records leave open a fall, and the construction realizes one.
-- **Why the value of one capacity depends on the others** (CLAIM-587): a
+- **Why the value of one capacity depends on the others** ([CLAIM-587](../claims.d/CLAIM-587.md)): a
   change that decouples the capacities' failures can cost more joint
   readiness than it buys in each.
 
@@ -73,8 +73,8 @@ P_A + P_B − 1 = 0.7.
 
 - That improvements in practice tend to decouple failures. The
   construction is fictional and shows only that it can happen.
-- Anything when capacities substitute for one another, which CLAIM-587
-  and CLAIM-632 exclude.
+- Anything when capacities substitute for one another, which [CLAIM-587](../claims.d/CLAIM-587.md)
+  and [CLAIM-632](../claims.d/CLAIM-632.md) exclude.
 
 ## Provenance
 
@@ -82,4 +82,4 @@ A drafted it as the evidence for a claim it numbered 633, in a
 patch bundle that was never committed (A7: "Nothing will be written to
 the repository"). That number now names a different claim on the record.
 A first linked claim and case by `grounds`; since the claim is held by
-CLAIM-632, the case only illustrates it here.
+[CLAIM-632](../claims.d/CLAIM-632.md), the case only illustrates it here.

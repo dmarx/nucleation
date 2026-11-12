@@ -29,11 +29,11 @@ summary: >-
 
 ## The inference
 
-CASE-tmpbbfq8 gives, for every n, two systems with the same peak
+[CASE-tmpbbfq8](../cases.d/CASE-tmpbbfq8.md) gives, for every n, two systems with the same peak
 threshold between every pair of configurations and least cumulative
 costs of n and 1 from one end to the other. One such pair for each n
 shows that the thresholds leave the cumulative cost free up to any
-factor, which is CLAIM-tmp2u6bs.
+factor, which is [CLAIM-tmp2u6bs](../claims.d/CLAIM-tmp2u6bs.md).
 
 ## Critical questions
 
@@ -44,7 +44,7 @@ factor, which is CLAIM-tmp2u6bs.
   own check for n = 2 to 40.
 - **Does it separate the very things the conclusion says come apart?**
   Yes, for thresholds against least spend. It holds the threshold of
-  every pair fixed, which is everything CLAIM-581's hierarchy is made
+  every pair fixed, which is everything [CLAIM-581](../claims.d/CLAIM-581.md)'s hierarchy is made
   from, and varies only the least spend. It does not hold the move sets
   fixed. The claim does not need that: it is about what the thresholds
   determine, not about what a fixed architecture does under two

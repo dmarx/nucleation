@@ -17,10 +17,10 @@ summary: >-
   A's construction, from the exchange "Identify Synthesis Opportunities"
   (2026-11-08, A11, A12 and A14), filed as a case at the owner's
   instruction (U5) that claims resting on explicit constructions be
-  connected to cases describing them. It grounds CLAIM-tmp2u6bs: the
+  connected to cases describing them. It grounds [CLAIM-tmp2u6bs](../claims.d/CLAIM-tmp2u6bs.md): the
   peak-capacity threshold between every pair of configurations can agree
   in two systems whose least cumulative costs differ by any factor. It also
-  illustrates CLAIM-581's remark that under additive costs "within budget
+  illustrates [CLAIM-581](../claims.d/CLAIM-581.md)'s remark that under additive costs "within budget
   of each other" is not an equivalence. The wording is A's; adopting it is
   the owner's call.
 ---
@@ -32,8 +32,8 @@ summary: >-
 
 Two systems on configurations 0, 1, …, n. Holding any configuration
 needs one unit of a capacity that must be held at each moment
-(CLAIM-571's resource), and so does every move. Each move also spends
-one unit of a cumulative budget (TERM-105's expenditure).
+([CLAIM-571](../claims.d/CLAIM-571.md)'s resource), and so does every move. Each move also spends
+one unit of a cumulative budget ([TERM-105](../terms.d/TERM-105.md)'s expenditure).
 
 - **The chain** allows moves only between i and i + 1.
 - **The complete graph** allows a move between every pair.
@@ -47,14 +47,14 @@ expenditure 2"; triangle: "1 move: expenditure 1").
 
 ## What it shows
 
-- **Peak thresholds agree.** CLAIM-571's threshold, the least over paths
+- **Peak thresholds agree.** [CLAIM-571](../claims.d/CLAIM-571.md)'s threshold, the least over paths
   of the peak along the path, is 1 for every pair in both systems, and no
-  pair is joined below 1. So CLAIM-581's threshold pseudo-ultrametric is
+  pair is joined below 1. So [CLAIM-581](../claims.d/CLAIM-581.md)'s threshold pseudo-ultrametric is
   the same in both, and so is the hierarchy of classes it induces: one
   class at every budget from 1 up, none below.
 - **Cumulative costs do not.** The least spend from 0 to n is n in the
   chain and 1 in the complete graph. The ratio grows without bound in n.
-- **Additive budgets give no equivalence** (CLAIM-581). In the chain, at
+- **Additive budgets give no equivalence** ([CLAIM-581](../claims.d/CLAIM-581.md)). In the chain, at
   a cumulative budget of 1, 0 is within budget of 1 and 1 of 2, but 0 is
   not within budget of 2.
 
@@ -66,7 +66,7 @@ to n is n against 1.
 ## What it cannot show
 
 - Anything about which semantics a real organization's resource has;
-  TERM-105 keeps the types apart, and the case is fictional.
+  [TERM-105](../terms.d/TERM-105.md) keeps the types apart, and the case is fictional.
 - That the two systems are otherwise alike. Their move sets differ; what
   they share is every peak threshold, which is the point.
 

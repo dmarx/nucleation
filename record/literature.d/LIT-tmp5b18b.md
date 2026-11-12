@@ -31,8 +31,8 @@ summary: >-
   Hu et al., arXiv 2106.09685. Here because A cited it in
   the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image generators keep a character's
   identity, which the owner asked to compare across model generations
-  (U7). It bears on the owner's case CASE-tmp40vka and on the proposed study
-  CASE-tmp3isyl, both for QUESTION-095: whether the identity is learned once
+  (U7). It bears on the owner's case [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) and on the proposed study
+  [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md), both for [QUESTION-095](../questions.d/QUESTION-095.md): whether the identity is learned once
   into weights or read from references at every use. What A says of it is
   unverified until read.
 ---
@@ -48,8 +48,8 @@ Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean W
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), where A cites it at A18's table and the owner's case, as the method behind the character LoRAs the thread weighs against reference conditioning; the paper is about language models, and its use for image-generation characters came later. It
-is provenance for the history of generations in CASE-tmp40vka, the owner's case
+is provenance for the history of generations in [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), the owner's case
 of how changing costs move the choice between learning a character into
 weights and conditioning on references at each use, and a component of
-the comparison CASE-tmp3isyl proposes. It is machine-learning method, registered here
-for the economics of amortization (QUESTION-095), not for practice.
+the comparison [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md) proposes. It is machine-learning method, registered here
+for the economics of amortization ([QUESTION-095](../questions.d/QUESTION-095.md)), not for practice.

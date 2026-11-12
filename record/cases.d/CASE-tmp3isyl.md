@@ -17,7 +17,7 @@ draws_on:
 summary: >-
   A's proposal, from the exchange "Identify Synthesis Opportunities"
   (2026-11-08, A18), to measure the crossover the owner's case
-  CASE-tmp40vka turns on: "whether improved reference conditioning raises
+  [CASE-tmp40vka](CASE-tmp40vka.md) turns on: "whether improved reference conditioning raises
   the number of times a character must be reused before training a LoRA
   pays off". A's patch held the design, which the export does not carry;
   A's turn gives only its aim, "a quality-matched comparison across
@@ -34,7 +34,7 @@ summary: >-
 
 ## What would be measured
 
-For a set of characters and, in each model generation of CASE-tmp40vka's
+For a set of characters and, in each model generation of [CASE-tmp40vka](CASE-tmp40vka.md)'s
 table, one trained route (a character LoRA, or DreamBooth or Textual
 Inversion where that was the practice) and one reference route (an
 adapter, an in-context editor or a reference-conditioned model):
@@ -50,8 +50,8 @@ adapter, an in-context editor or a reference-conditioned model):
   generations of one character past which the trained route is cheaper at
   that fidelity, and how n* moves across generations.
 
-The objective is THEORY-331's: total cost of reaching a fixed quality,
-counting the uses as well as the preparation. THEORY-342's measurement,
+The objective is [THEORY-331](../theory.d/THEORY-331.md)'s: total cost of reaching a fixed quality,
+counting the uses as well as the preparation. [THEORY-342](../theory.d/THEORY-342.md)'s measurement,
 the exchange rate between training and per-use compute at fixed
 strength, is the model of a quality-matched comparison.
 
@@ -69,7 +69,7 @@ and can dominate it.
 - **n* rises across generations**: better reference conditioning has
   moved the break-even toward computing on demand, as the owner's U6
   suggests, and for these two strategies the trade is one dial whose
-  setting follows relative costs, as QUESTION-095 conjectures.
+  setting follows relative costs, as [QUESTION-095](../questions.d/QUESTION-095.md) conjectures.
 - **n* is flat or falls**: reference routes improved in fidelity without
   becoming cheaper per use, or trained routes became cheaper to make,
   and the thread's judgement reflects quality, not cost.
@@ -81,5 +81,5 @@ and can dominate it.
 
 A numbered this study 235 and the owner's case 234, in a bundle never
 committed; neither number is on the record. A's patch also revised
-SYNTHESIS-015 to integrate both; that revision was not made here (see the
+[SYNTHESIS-015](../syntheses.d/SYNTHESIS-015.md) to integrate both; that revision was not made here (see the
 curation entry of 2026-11-12 for this exchange).
