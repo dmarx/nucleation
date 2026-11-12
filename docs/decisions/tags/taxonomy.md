@@ -6,8 +6,8 @@
 
 **Taxonomy** — the topic vocabulary and what enforces it.
 
-0 of 95 decisions. Back to the [full index](../README.md).
+1 of 97 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ADR-097](../../../record/decisions.d/ADR-097.md) | software-engineering joins the topics | One topic word joins the closed vocabulary. `software-engineering` takes how software is specified, built, tested and changed: test oracles and metamorphic testing, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management. It enters because the filing of the exchange "luria experiment design" verified two works and held them back with no word to file them under, and the owner accepted the filer's proposal to add one. First applied to those two works, and beside the existing tags of two held works it covers. Rejected: filing them under the nearest words (`logic`, `databases`, `design-rationale`), and a broader `computer-science`. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

@@ -6,8 +6,9 @@
 
 **Readiness and slack** — what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up (ADR-073). When transient support can be withdrawn is a line of its own (ADR-087).
 
-1 of 76 ARG documents. Back to the [full index](../README.md).
+2 of 80 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-053](../../../record/arguments.d/ARG-053.md) | Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful | A's proposal, from the exchange on emergency readiness (2026-11-04; its share link could not be fetched, and its text was pasted by the owner), section 8 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". The inference from "kept at a cost, seldom or never used" to "wasteful". Rejected, as A proposes: the observations are equally expected if the capability is insurance against contingencies that did not occur, and the two departments of [CASE-210](../../../record/cases.d/CASE-210.md) are identical in routine output. [CLAIM-561](../../../record/claims.d/CLAIM-561.md) undercuts it. The counterpart of [ARG-042](../../../record/arguments.d/ARG-042.md). The wording is A's; adopting it is the owner's call. | Rejected |
+| [ARG-077](../../../record/arguments.d/ARG-077.md) | The barrier at 1.3 between two configurations that each cost 0.7 shows that the threshold for reaching a configuration need not equal its requirement | Filed with [ADR-096](../../../record/decisions.d/ADR-096.md)'s first application: the construction case now grounds [CLAIM-571](../../../record/claims.d/CLAIM-571.md)'s existence clause, so the support is load-bearing and is argued here. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

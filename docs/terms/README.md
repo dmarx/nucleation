@@ -152,6 +152,8 @@ this directory, then run `luria index`.
 **[Control theory](tags/control-theory.md)** (1) — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066):
 [105](../../record/terms.d/TERM-105.md)
 
+**[Software engineering](tags/software-engineering.md)** (0) — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
+
 **[Ethics](tags/ethics.md)** (4) — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy):
 [012](../../record/terms.d/TERM-012.md) · [059](../../record/terms.d/TERM-059.md) · [081](../../record/terms.d/TERM-081.md) · [083](../../record/terms.d/TERM-083.md)
 

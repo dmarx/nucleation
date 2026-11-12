@@ -6,7 +6,7 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-293 of 2332 LIT documents. Back to the [full index](../README.md).
+293 of 2342 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
