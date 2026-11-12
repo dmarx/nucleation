@@ -4,7 +4,7 @@ status_note: >-
   Read on 2026-11-12 ([NOTE-tmp2txvh](../notes.d/NOTE-tmp2txvh.md)) from
   https://wwwbroy.in.tum.de/publ/papers/ECOOP2009_herrmannsdoerfer_cope_automating_coupled.pdf.
 title: 'COPE - Automating Coupled Evolution of Metamodels and Models'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-12'
@@ -22,9 +22,16 @@ history:
     that COPE later became Eclipse Edapt comes from outside the paper. ECOOP
     2009, LNCS 5653, pp. 52–76; authors Markus Herrmannsdoerfer, Sebastian
     Benz and Elmar Juergens.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    software-engineering added after the existing tags, by ADR-tmppzz2h,
+    once it joined the topics: coupled metamodel evolution is in that
+    word's blurb. Primary topic unchanged; nothing removed.
 tags:
 - databases
 - design-rationale
+- software-engineering
 date: '2026-11-12'
 published: '2009-01-01'
 doi: '10.1007/978-3-642-03013-0_4'
@@ -47,6 +54,7 @@ summary: >-
   generalize reference, and so on. - **Custom** transactions, written in a
   Turing-complete language. Read for the exchange "luria experiment design".
 ---
+<!-- inactive-ok-file: ADR-tmppzz2h — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: THEORY-tmph4vkf — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 

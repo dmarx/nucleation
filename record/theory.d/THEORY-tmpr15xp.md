@@ -3,6 +3,7 @@ status: Proposed
 title: 'Bencomo, Götz and Song (2019) find, in a review of 271 papers, that research on models at run time has concentrated on architecture-level structural models kept causally connected to a running system and used mainly for self-adaptation through model transformations'
 version: 1
 tags:
+- software-engineering
 - control-theory
 date: '2026-11-12'
 source:
