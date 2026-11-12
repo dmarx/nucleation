@@ -17,7 +17,7 @@ date: '2026-11-12'
 line:
 - distributed-agency
 summary: >-
-  The readings of 2026-11-12 bearing on CLAIM-tmpoxhqq and ARG-tmp1jad4.
+  The readings of 2026-11-12 bearing on [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md) and [ARG-tmp1jad4](ARG-tmp1jad4.md).
   Sullivan, Dulac and colleagues show sterile challenges, a Toxoplasma
   antigen among them, producing distinct, pathogen-specific sickness states
   in mice, social behaviour included, with no pathogen acting; so behaviour
@@ -33,9 +33,9 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpoxhqq says behaviour-manipulating parasites control their hosts'
+[CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md) says behaviour-manipulating parasites control their hosts'
 behaviour by selected adaptations working through the host's own
-machinery. ARG-tmp1jad4 took stage- and predator-dependence as the mark of
+machinery. [ARG-tmp1jad4](ARG-tmp1jad4.md) took stage- and predator-dependence as the mark of
 adaptation, on the ground that illness does not predict it. This argument
 contrasts two kinds of evidence for control: a behaviour change specific to
 the infection, and a behaviour change that tracks the parasite's own life
@@ -44,7 +44,7 @@ stage.
 ## Critical questions
 
 - **Is specificity to the infection evidence of manipulation?** No.
-  Sullivan, Dulac and colleagues (THEORY-tmp82z5p, a preprint) gave mice
+  Sullivan, Dulac and colleagues ([THEORY-tmp82z5p](../theory.d/THEORY-tmp82z5p.md), a preprint) gave mice
   sterile challenges modelling bacterial, viral, parasitic, allergic and
   colitic conditions. Each produced a distinct sickness state, in behaviour,
   whole-brain activity and hypothalamic gene expression, and the parasite
@@ -54,20 +54,20 @@ stage.
   that might help it spread, is what host defence also produces. The paper
   does not discuss manipulation; the inference is the record's.
 - **Is there evidence the host response cannot produce?** Yes, for one
-  group. Hafer-Hahmann (THEORY-tmpyuy3t), a phylogenetic meta-analysis of
+  group. Hafer-Hahmann ([THEORY-tmpyuy3t](../theory.d/THEORY-tmpyuy3t.md)), a phylogenetic meta-analysis of
   1,635 observations on trophically transmitted helminths, finds mature
   parasites consistently raising their hosts' predation risk while immature
   ones have little or no effect, and mature parasites dominating mixed
   infections. A host sickness programme keyed to the presence of a pathogen
   does not predict that difference; selection for transmission does. That
-  supports the claim's causal-control half and ARG-tmp1jad4's premise, with
+  supports the claim's causal-control half and [ARG-tmp1jad4](ARG-tmp1jad4.md)'s premise, with
   the qualifications its note gives: the predator effect is weaker than A
   reported, and the drivers theory proposes explain little.
 - **Does the contrast extend to the claim's other cases?** Partly.
-  Cuny and Poelman (THEORY-tmpxjies) show parasitoids regulating host growth
+  Cuny and Poelman ([THEORY-tmpxjies](../theory.d/THEORY-tmpxjies.md)) show parasitoids regulating host growth
   and feeding through injected factors acting on host hormones, in either
   direction as conditions change, which is again what an adaptation
-  predicts. CASE-tmp10ykm's own taxa, among them *Toxoplasma*, are not
+  predicts. [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md)'s own taxa, among them *Toxoplasma*, are not
   covered by the meta-analysis, and Sullivan's result bears directly on the
   *Toxoplasma* case.
 
@@ -77,5 +77,5 @@ Proposed. The claim's causal-control half is supported for trophically
 transmitted helminths, by the evidence that discriminates. For hosts whose
 behaviour change could be their own sickness response, *Toxoplasma* in
 rodents first, the record holds no evidence yet that tells the two apart,
-and CASE-tmp10ykm stays open on that point. Nothing here bears on whether
+and [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md) stays open on that point. Nothing here bears on whether
 parasites represent goals.

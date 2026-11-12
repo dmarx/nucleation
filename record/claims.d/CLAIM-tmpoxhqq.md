@@ -146,7 +146,7 @@ in direction that is what adaptation, not pathology, predicts.
 
 ## Note of 2026-11-12: Sullivan and Hafer-Hahmann weighed together
 
-ARG-tmpj1cce weighs the two readings. Sullivan, Dulac and colleagues show
+[ARG-tmpj1cce](../arguments.d/ARG-tmpj1cce.md) weighs the two readings. Sullivan, Dulac and colleagues show
 that a pathogen-specific behaviour change, a pro-social one after a
 Toxoplasma antigen included, is produced by the host's own sickness
 programmes with no pathogen acting, so behaviour alone is no evidence of

@@ -148,7 +148,7 @@ users" is confirmed to exist, not that they set the product.
 ## Note of 2026-11-12: Gan, Gacha Game: When Prospect Theory Meets Optimal Pricing, read
 
 From the reading in [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md) ([LIT-tmpzbm28](../literature.d/LIT-tmpzbm28.md)), the reader's assessment as
-checked by the filer: it bears on this claim only through CASE-tmpmw3hc,
+checked by the filer: it bears on this claim only through [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md),
 as a control that case needs, and not on its escalation half.
 
 ## Note of 2026-11-12: de Roos and Willkomm, read
@@ -229,7 +229,7 @@ distribution layer; no bearing on investigative capacity.
 
 ## Note of 2026-11-12: the readings weighed together
 
-ARG-tmp44r8r weighs the readings of this pass against both halves of the
+[ARG-tmp44r8r](../arguments.d/ARG-tmp44r8r.md) weighs the readings of this pass against both halves of the
 claim: Adler, Amano and Simonov, Close, Gan, Ince, de Roos and Willkomm, and
 Hu and colleagues, with Shor and Liu 2025 noted as unread. Its verdict: the
 premise that activity-read demand shapes production stands on one reading;

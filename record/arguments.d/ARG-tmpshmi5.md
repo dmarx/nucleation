@@ -28,7 +28,6 @@ summary: >-
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmp44r8r — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: LIT-tmpccpc6 — Unavailable; filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmp9goww — Unavailable; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
@@ -97,7 +96,7 @@ single-item for genre escalation, and self-report.
 ## Note of 2026-11-12: the works read
 
 This argument weighed A's reports of the works. Most of them have now been
-read, and ARG-tmp44r8r weighs the readings. It reaches the same verdict on
+read, and [ARG-tmp44r8r](ARG-tmp44r8r.md) weighs the readings. It reaches the same verdict on
 the escalation half and a firmer one on the structural half: Amano and
 Simonov's transaction data show a firm not following its heaviest spenders.
 The evidence here that was A's report is superseded by those readings for

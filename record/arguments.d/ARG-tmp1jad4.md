@@ -92,8 +92,8 @@ found, and publication bias inflates mature-stage effects.
 
 This argument's premise was that stage- and predator-dependence is what an
 adaptation predicts and illness does not. Sullivan, Dulac and colleagues
-(THEORY-tmp82z5p, a preprint) show that illness does predict specificity:
+([THEORY-tmp82z5p](../theory.d/THEORY-tmp82z5p.md), a preprint) show that illness does predict specificity:
 sterile challenges produce pathogen-specific sickness states, social
 behaviour included. The premise survives in its narrower form, dependence on
 the parasite's stage, which a host response to a pathogen's presence does
-not predict; ARG-tmpj1cce sets out the contrast.
+not predict; [ARG-tmpj1cce](ARG-tmpj1cce.md) sets out the contrast.

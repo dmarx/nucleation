@@ -51,7 +51,7 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
-<!-- inactive-ok-file: ARG-tmp22y73 CLAIM-tmpmz271 THEORY-tmp593fy THEORY-tmpulte1 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: ARG-tmp22y73 THEORY-tmp593fy THEORY-tmpulte1 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpf5h7u — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdcebe — Skimmed; the reading filed from the same exchange -->
@@ -265,7 +265,7 @@ media design recommenders for diversity. Nothing on investigative capacity.
 
 ## Note of 2026-11-12: the readings weighed together
 
-ARG-tmp22y73 weighs the readings of this pass against the claim's three
+[ARG-tmp22y73](../arguments.d/ARG-tmp22y73.md) weighs the readings of this pass against the claim's three
 steps. Step 2, that investigative and local news benefits people who do not
 pay, is supported by Gao, Lee and Murphy and by Næss. Step 1 is supported at
 the level of headline wording by Robertson and colleagues, a small relative

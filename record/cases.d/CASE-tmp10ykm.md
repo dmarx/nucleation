@@ -106,7 +106,7 @@ particulars.
 
 ## Note of 2026-11-12: what would separate manipulation from host response
 
-ARG-tmpj1cce, from the readings of Sullivan, Dulac and colleagues and of
+[ARG-tmpj1cce](../arguments.d/ARG-tmpj1cce.md), from the readings of Sullivan, Dulac and colleagues and of
 Hafer-Hahmann: a behaviour change specific to the parasite does not show
 manipulation, since the host's own sickness programmes produce such changes
 with no parasite acting, and Sullivan's Toxoplasma antigen raised social
