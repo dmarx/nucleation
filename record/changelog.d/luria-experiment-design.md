@@ -10,4 +10,4 @@
 
 ### Fixed
 
-- Seven reading THEORYs whose `promote_when` a filing script had emptied into the title get both back from the readers' drafts; CLAIM-tmp8qsef's heading matches its version-2 title; THEORY-tmpr15xp drops `software-engineering`, which joins the topics only with dmarx/nucleation#487.
+- Seven reading THEORYs whose `promote_when` a filing script had emptied into the title get both back from the readers' drafts; [CLAIM-tmp8qsef](record/claims.d/CLAIM-tmp8qsef.md)'s heading matches its version-2 title; [THEORY-tmpr15xp](record/theory.d/THEORY-tmpr15xp.md) drops `software-engineering`, which joins the topics only with dmarx/nucleation#487.
