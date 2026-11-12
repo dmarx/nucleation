@@ -1,0 +1,48 @@
+---
+status: Active
+status_note: >-
+  Read on 2026-11-12 from the post itself
+  (https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/).
+  Registered as a stand-in for LIT-2296, the STATE-Bench repository, which
+  this session could not fetch.
+title: 'Introducing STATE-Bench: A benchmark for AI agent memory'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Registered on 2026-11-12 as a stand-in for LIT-2296 (Unfetched). Not held:
+    no hit for STATE-Bench, the URL or "agent memory" in record/literature.d.
+    `published:` the date in the post's URL. A corporate blog post announcing
+    the benchmark. No email address was sent to any service.
+tags:
+- social-science
+- agency
+- anthology-candidate
+date: '2026-11-12'
+published: '2026-05-19'
+url: 'https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/'
+first_author: 'Liu'
+keywords: []
+implementations: []
+summary: >-
+  Lewis Liu and Nishant Yadav (2026), Microsoft Open Source Blog.
+  STATE-Bench is a memory-agnostic benchmark of whether agents improve with
+  experience on enterprise tasks. Its tasks are procedural, stateful and
+  user-facing: 450 tasks in customer support, travel and shopping. Each task
+  has a pre-populated database, a simulated customer with a problem, and
+  deterministic state assertions defining success. An orchestrator runs
+  multi-turn conversations. Registered on 2026-11-12 as a stand-in for
+  LIT-2296; it stands in for the benchmark's design, scope, metrics and
+  no-memory baseline, not for the repository's tracks, task files or
+  submission protocol.
+---
+<!-- inactive-ok-file: LIT-2296 — Unfetched; cited for what each holds, not as settled -->
+
+# LIT-tmpqne7r: Introducing STATE-Bench: A benchmark for AI agent memory
+
+Lewis Liu and Nishant Yadav (2026), Microsoft Open Source Blog.
+
+## Standing in the record
+
+Registered on 2026-11-12 as a stand-in for LIT-2296, which the reading of the works cited in the exchange "luria experiment design" could not reach. it stands in for the benchmark's design, scope, metrics and no-memory baseline, not for the repository's tracks, task files or submission protocol.

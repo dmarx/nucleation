@@ -1,0 +1,64 @@
+---
+status: Read
+paper: LIT-2307
+title: 'Xie et al. — From Scientific Observations to Mechanisms: Benchmarking Hypothesis Generation'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from https://arxiv.org/pdf/2610.05197. Read: main
+    text, 9 pp., in full; appendix skimmed. A delegated reader drafted the
+    reading; quotations were rechecked by script against the downloaded copy,
+    and any that did not match were kept as paraphrase without quotation
+    marks.
+date: '2026-11-12'
+summary: >-
+  MechHypoBench tests whether AI agents can turn empirical data into
+  mechanistic hypotheses. Mechanisms extracted from papers in 14 fields are
+  instantiated on independently collected real datasets (17.98 million
+  records), aligned through four "experimental semantic roles": driver,
+  context, history and phase. The result is observations with realistic
+  complexity whose generating mechanism is known.
+---
+<!-- inactive-ok-file: CASE-tmpvq90k CLAIM-tmppk8g6 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+
+# NOTE-tmpr5dev: Xie et al. — From Scientific Observations to Mechanisms: Benchmarking Hypothesis Generation
+
+## Contribution
+
+A benchmark that pairs real observational data with a controllable known mechanism. A consequence-based scoring of open-form hypotheses that avoids judging by wording. An ablation that separates evidence access from evidence retention.
+
+## Key results
+
+- Main gap (§4.2): the best configuration still trails the qualitative mechanism reference, "agent minus QMR, easy/hard: MCA -22.7/-32.1".
+- AI scientists (§4.4): "AI-scientist workflows do not consistently improve mechanistic hypothesis generation." AI-Scientist-v2 reaches 59.2% and 43.8% MCA on easy and hard tasks.
+- Evidence summaries (§4.5): "Providing evidence summaries improves MCA by 10.0 percentage points for both configurations".
+- Structured records (§4.5): "Structured records yield smaller MCA gains of 1.9 and 2.1 percentage points", "without consistent improvement in MCNLL".
+- Interpretation (§4.5): "Structured records provide a way to retain findings during extended analysis, but cannot compensate for evidence that agents have overlooked."
+- Two distinct demands (§4.5 takeaway): "retaining findings and using them to formulate a mechanistic hypothesis are distinct demands."
+- Scoring design (§3.6): the interpreter works "without access to the public observations or ground-truth directions", and empty and shuffled controls score well below the references.
+
+## Assumptions
+
+- Directional consequences (increase, no change, decrease) under withheld conditions capture a mechanism well enough to score it.
+- The LLM interpreter reads hypotheses faithfully. Its errors would count against the agents.
+- Paper-derived mechanisms, once instantiated on other datasets, are a fair "ground truth". The authors build the data to make this so.
+- In the structured-records condition the agent is instructed to keep records: "record their own findings, the conditions under which each finding holds, its supporting evidence, and potential falsifiers". No tool or schema enforces this.
+
+## Concepts
+
+Mechanistic hypothesis; experimental semantic roles (driver, context, history, phase); withheld matched comparisons; MCA and MCNLL; hypothesis interpreter; qualitative and parameterized mechanism references (QMR, PMR); evidence summaries vs structured records.
+
+## Bearing on the record
+
+The exchange says it tests "Inferring mechanisms from datasets spanning 14 scientific fields, evaluated through their implications under withheld conditions", finding "a substantial gap between plausible generated explanations and the underlying mechanisms". **Accurate.** The paper says "a substantial gap between generated hypotheses and the underlying mechanisms". "Plausible" is the exchange's word; the paper does not assess plausibility. The exchange's broader line, that agents are "much less reliable at revising mechanistic explanations under challenging evidence", is not what this benchmark tests. It tests generation from a fixed set of observations, not revision.
+
+The LIT names none, and no branch entry cites LIT-2307.
+- **CASE-tmpvq90k** (one surface failure with different hidden causes, diagnose before repair under a probe budget): **closely related precedent**. MechHypoBench likewise holds the observations fixed, varies the hidden mechanism, and scores by consequences under withheld conditions, not by wording. That is a scoring method the case could adopt.
+- **The record-as-apparatus line, and QUESTION-tmpxq2sb** (does a typed record move evidence into judgement beyond a structured protocol): **bears directly, as a cautionary result**. Agents told to keep structured records of findings, conditions, evidence and falsifiers gained only 1.9–2.1 MCA points. Evidence summaries gained 10. The authors read this as two distinct demands, retention and use, and say retention "cannot compensate for evidence that agents have overlooked". It concerns a single agent and an instructed, unenforced format. It is not a test of a governed shared record, but it is the nearest empirical result in this batch to the question whether keeping a record helps reasoning.
+- **CLAIM-tmppk8g6**: no direct bearing.
+
+## Limitations
+
+Table 3's full numbers were read only through the text's differences. The appendix was not read, so the per-field results and the interpreter's validation are unchecked. It is a preprint, not yet peer-reviewed.
