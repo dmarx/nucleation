@@ -32,8 +32,8 @@ history:
 - version: 5
   date: '2026-11-12'
   note: >-
-    Names CASE-tmpwln61, the example it alters, by variant_of, now that
-    CLAIM-571's construction is a case (ADR-tmpq0fhi). No other change.
+    Names CASE-233, the example it alters, by variant_of, now that
+    CLAIM-571's construction is a case (ADR-096). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -44,7 +44,7 @@ date: '2026-11-05'
 line:
 - readiness
 variant_of:
-- CASE-tmpwln61
+- CASE-233
 illustrates:
 - CLAIM-571
 summary: >-
@@ -66,7 +66,7 @@ draws_on:
 - THEORY-1421
 - THEORY-1410
 ---
-<!-- inactive-ok-file: CASE-tmpwln61 ADR-tmpq0fhi — Proposed; the construction this case alters, and the decision that filed it -->
+<!-- inactive-ok-file: CASE-233 ADR-096 — Proposed; the construction this case alters, and the decision that filed it -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 

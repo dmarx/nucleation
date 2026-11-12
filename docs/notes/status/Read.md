@@ -6,7 +6,7 @@
 
 **Read** — the full text, closely enough to state its assumptions and results exactly — the only status that licenses a claims table.
 
-1614 of 1715 NOTE documents. Back to the [full index](../README.md).
+1615 of 1718 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -1624,3 +1624,4 @@
 | [NOTE-1713](../../../record/notes.d/NOTE-1713.md) | Ahn — From Bainbridge to bedside | A single-author commentary that reads four points out of Bainbridge's "Ironies of automation", in paraphrase, and pairs each with a remedy for medical education with large language models: deskilling, met by AI-free phases before AI is introduced; the monitoring trap, met by AI literacy; the operator left the atypical cases, met by training for what AI cannot do; and the out-of-the-loop operator recalled at failure, met by simulations with injected AI failures. No data; no quotation of Bainbridge. | Read |
 | [NOTE-1714](../../../record/notes.d/NOTE-1714.md) | Stute — a coder's worst nightmare (Quora answer) | A first-person incident story of Thompson's compiler attack, with a hateful payload, told as true and unverifiable. Read for [QUESTION-449](../../../record/questions.d/QUESTION-449.md). | Read |
 | [NOTE-1715](../../../record/notes.d/NOTE-1715.md) | Thompson — Reflections on trusting trust | Thompson's three stages: a self-reproducing program, a compiler that "learns" an escape sequence and keeps it in binary only, and a compiler Trojan horse that miscompiles login and reinserts itself when the compiler is rebuilt from clean source. Read for [QUESTION-449](../../../record/questions.d/QUESTION-449.md). | Read |
+| [NOTE-1717](../../../record/notes.d/NOTE-1717.md) | Chen, Kuo, Liu, Poon, Towey, Tse and Zhou — Metamorphic testing: a review of challenges and opportunities | A review by metamorphic testing's originators. It defines metamorphic relations as necessary properties over two or more inputs and their outputs, says the method alleviates but cannot solve the oracle problem, and supplies three limits for using such relations as a scorer: they are necessary not sufficient, their choice dominates what is found, and their source decides whether passing them verifies or validates. | Read |

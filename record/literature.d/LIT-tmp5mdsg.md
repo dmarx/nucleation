@@ -25,7 +25,7 @@ history:
 - version: 3
   date: '2026-11-12'
   note: >-
-    software-engineering added after the existing tags, by ADR-tmppzz2h,
+    software-engineering added after the existing tags, by ADR-097,
     once it joined the topics: coupled metamodel evolution is in that
     word's blurb. Primary topic unchanged; nothing removed.
 tags:
@@ -54,7 +54,7 @@ summary: >-
   generalize reference, and so on. - **Custom** transactions, written in a
   Turing-complete language. Read for the exchange "luria experiment design".
 ---
-<!-- inactive-ok-file: ADR-tmppzz2h — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-097 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: THEORY-tmph4vkf — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 

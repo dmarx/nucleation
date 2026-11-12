@@ -1,12 +1,15 @@
 ---
+number: 1637
 status: Proposed
+formerly:
+- THEORY-tmpk9bmo
 title: 'Kiczales and colleagues argue that some design decisions cross-cut a program''s functional decomposition and can be expressed cleanly only in separate aspect languages woven with the base program, and treat reflection and metaobject protocols as one lower-level means to that end'
 version: 1
 tags:
 - software-engineering
 date: '2026-11-12'
 source:
-- LIT-tmpeg56k
+- LIT-2334
 bears_on:
 - QUESTION-388
 promote_when: >-
@@ -17,15 +20,15 @@ promote_when: >-
   goal of aspect-oriented programming. Nothing about the technique's
   effectiveness is asked.
 summary: >-
-  The central account of [LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), skimmed in [NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md) as a weak
+  The central account of [LIT-2334](../literature.d/LIT-2334.md), skimmed in [NOTE-1716](../notes.d/NOTE-1716.md) as a weak
   stand-in for Part I of The Art of the Metaobject Protocol. It bears on [QUESTION-388](../questions.d/QUESTION-388.md)
   through §6.2: reflective access was judged too powerful to leave
   unbounded, and bounded by a language its designers wrote. Proposed until
   the paper is read in full.
 ---
-<!-- inactive-ok-file: NOTE-tmpds3ww — Skimmed; the reading of the source -->
+<!-- inactive-ok-file: NOTE-1716 — Skimmed; the reading of the source -->
 
-# THEORY-tmpk9bmo: Kiczales and colleagues argue that some design decisions cross-cut a program's functional decomposition and can be expressed cleanly only in separate aspect languages woven with the base program, and treat reflection and metaobject protocols as one lower-level means to that end
+# THEORY-1637: Kiczales and colleagues argue that some design decisions cross-cut a program's functional decomposition and can be expressed cleanly only in separate aspect languages woven with the base program, and treat reflection and metaobject protocols as one lower-level means to that end
 
 ## The account
 

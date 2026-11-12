@@ -49,12 +49,12 @@ history:
 - version: 5
   date: '2026-11-12'
   note: >-
-    Grounded in CASE-tmpwln61, its own barrier example filed as a
-    construction case under ADR-tmpq0fhi, the decision's first
-    application; ARG-tmpmqot9 carries the support for the claim's
+    Grounded in CASE-233, its own barrier example filed as a
+    construction case under ADR-096, the decision's first
+    application; ARG-077 carries the support for the claim's
     "need not equal" clause. The body is unchanged. No status change.
 grounds:
-- CASE-tmpwln61
+- CASE-233
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -91,7 +91,7 @@ complements:
 - CLAIM-575
 - CLAIM-591
 ---
-<!-- inactive-ok-file: CASE-tmpwln61 ADR-tmpq0fhi ARG-tmpmqot9 — Proposed; the construction case filed from this claim's body, and the decision it applies -->
+<!-- inactive-ok-file: CASE-233 ADR-096 ARG-077 — Proposed; the construction case filed from this claim's body, and the decision it applies -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-204 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 

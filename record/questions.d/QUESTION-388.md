@@ -26,7 +26,7 @@ summary: >-
   mechanical readings external; it does not ask what would make it the
   system's own. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpds3ww THEORY-tmpk9bmo NOTE-tmpyvjjb THEORY-tmph775l — readings filed 2026-11-12, Skimmed and Proposed -->
+<!-- inactive-ok-file: NOTE-1716 THEORY-1637 NOTE-1718 THEORY-1636 — readings filed 2026-11-12, Skimmed and Proposed -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-tmp42g4m THEORY-tmp7gq1l THEORY-tmpeofqm THEORY-tmpmc61y THEORY-tmpsuvav THEORY-tmptc3ih — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -125,8 +125,8 @@ A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-12: Kiczales et al., read
 
 Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin's
-"Aspect-oriented programming" ([LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), skimmed in [NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md);
-[THEORY-tmpk9bmo](../theory.d/THEORY-tmpk9bmo.md)), read as a stand-in for Part I of The Art of the Metaobject
+"Aspect-oriented programming" ([LIT-2334](../literature.d/LIT-2334.md), skimmed in [NOTE-1716](../notes.d/NOTE-1716.md);
+[THEORY-1637](../theory.d/THEORY-1637.md)), read as a stand-in for Part I of The Art of the Metaobject
 Protocol. It bears on this question by
 analogy at one point. A reflective system gives "a base language and (one
 or more) meta-languages that provide control over the base language's
@@ -138,8 +138,8 @@ change is fixed by designers outside it, the split this question finds in
 Stern et al.'s sheet. The paper does not ask who should govern
 reconfiguration. Open.
 
-Chapter 5 of the book itself, skimmed the same day ([NOTE-tmpyvjjb](../notes.d/NOTE-tmpyvjjb.md);
-[THEORY-tmph775l](../theory.d/THEORY-tmph775l.md)) once the owner ruled the copy usable, says the same thing
+Chapter 5 of the book itself, skimmed the same day ([NOTE-1718](../notes.d/NOTE-1718.md);
+[THEORY-1636](../theory.d/THEORY-1636.md)) once the owner ruled the copy usable, says the same thing
 more exactly. Users change CLOS by specializing its metaobjects, and the
 change propagates to dependents inside the system; but "This balance
 between user extensibility and implementor freedom is mediated by placing

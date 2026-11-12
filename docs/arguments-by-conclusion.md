@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 81 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 82 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -150,6 +150,8 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-060](../record/arguments.d/ARG-060.md) — Three organizations failing one task for three different reasons show that a new distinction and a new channel of action are separate repairs, and that a new action stands in for a missing distinction only where some action is acceptable in every circumstance the organization cannot tell apart *(Proposed, contrast)*
 - [CLAIM-547](../record/claims.d/CLAIM-547.md) — Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak's five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one's group are three achievements, and none of them secures the next *(Active, thesis)*
   - [ARG-052](../record/arguments.d/ARG-052.md) — Van Lange and Bergmann's model of intergroup cooperation does not establish that cooperation within groups and the coexistence of groups are distinct targets that can trade off: it shows that the processes building in-group cooperation can fuel conflict between groups, and says nothing on whether groups persist, go extinct or are owed impartial concern *(Rejected, source)*
+- [CLAIM-571](../record/claims.d/CLAIM-571.md) — For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two *(Active, thesis)*
+  - [ARG-077](../record/arguments.d/ARG-077.md) — The barrier at 1.3 between two configurations that each cost 0.7 shows that the threshold for reaching a configuration need not equal its requirement *(Proposed, existence)*
 - [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(Proposed, disclaimed)*
   - [ARG-053](../record/arguments.d/ARG-053.md) — Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful *(Rejected, evidence)*
     - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(Active, thesis)*
