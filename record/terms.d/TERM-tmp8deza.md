@@ -8,6 +8,11 @@ tags:
 - design-rationale
 date: '2026-11-12'
 line: record-as-apparatus
+draws_on:
+- THEORY-tmpo3bsd
+- THEORY-tmpbt97y
+- THEORY-tmp6b0ul
+- THEORY-tmpv6qhj
 summary: >-
   A's phrase at A31 §9 of the exchange "luria experiment design"
   (2026-11-10), "a system for maintaining a shared epistemic state across
@@ -23,6 +28,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-182 — Proposed; addressability as what anchors, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpyp3u3 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmp89y2q LIT-tmpir70i LIT-1060 LIT-2243 — not in force (Deferred or Unavailable); cited as the predecessors A named -->
+<!-- inactive-ok-file: THEORY-tmp6b0ul THEORY-tmpbt97y THEORY-tmpo3bsd THEORY-tmpoy2np THEORY-tmpv6qhj — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-tmp8deza: shared epistemic state, of a record kept by several collaborators: the publicly inspectable structure of what is on the table in an inquiry, what standing each item has, what supports or challenges it, who contributed it, and what would have to be reconsidered if it changed, together with the rules for changing that structure; not the collaborators' shared beliefs, not shared memory, and not common knowledge
 
@@ -104,3 +110,26 @@ social commitment in Singh's formal sense") and boundary objects
 governed rather than immutable" ([CLAIM-195](../claims.d/CLAIM-195.md)). A32 advised against the bare
 phrase in a title, because "readers from formal epistemic logic may
 interpret it as an assertion about group knowledge or common knowledge".
+
+## Note of 2026-11-12: Clark and Brennan, Singh and Chesñevar et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Clark and Brennan** (THEORY-tmpo3bsd): common ground is mutual
+  knowledge, beliefs and assumptions, reached by grounding, so a publicly
+  inspectable record is not common ground. That supports the term's
+  separating the two.
+- **Singh** (THEORY-tmpbt97y): commitments are social objects, evaluated
+  outside any agent's head, held within a named group and changed by
+  operations under policies, which is the term's public, rule-governed
+  structure. The analogy stops at standing: a commitment is directed, from a
+  debtor to a creditor, and has a condition that discharges it, and the
+  term's items carry standing and support with neither. Singh is a
+  predecessor for the public character, not for what standing means.
+- **Chesñevar et al.** (THEORY-tmp6b0ul): AIF's commitment stores and the
+  rules for changing them, after Hamblin, are a second predecessor.
+- DeChurch and Mesmer-Magnus (THEORY-tmpv6qhj) measure shared mental models,
+  a property of members' heads, the contrast class the term excludes; ORKG
+  (THEORY-tmpoy2np) attributes each statement to its contributor.
+
+The term is unchanged.

@@ -66,6 +66,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-317 — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-182 THEORY-864 THEORY-834 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-tmpjqgyi — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-tmp0t4ni — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 

@@ -36,6 +36,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-082 ADR-084 — Proposed; historical episodes the study would draw on, cited as open -->
 <!-- inactive-ok-file: LIT-tmpka8bp LIT-tmp5mdsg — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CLAIM-tmppk8g6 — filed from the same exchange, Proposed; the claim the study's interaction would test -->
+<!-- inactive-ok-file: THEORY-tmp1o5v5 THEORY-tmp37mxv THEORY-tmp4d13i THEORY-tmpdui86 THEORY-tmpe8wmn THEORY-tmph4vkf THEORY-tmphkpxr THEORY-tmpqb5z0 THEORY-tmprcmsd THEORY-tmpru0yr THEORY-tmpxbva2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-tmppm4do: A proposed study of governed schema adaptation: agents given a record whose grammar may or may not be adequate, under fixed or modifiable schemas crossed with informal or explicit change governance, scored on semantic correction without regressions
 

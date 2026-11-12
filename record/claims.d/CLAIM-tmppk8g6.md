@@ -43,6 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmppm4do — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit under which this claim was admitted -->
+<!-- inactive-ok-file: ARG-tmpyprz6 THEORY-tmp4d13i — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-tmppk8g6: Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them, while on routine tasks governance adds cost and no correction
 
@@ -96,3 +97,16 @@ would measure it is [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).
 - Not which governance mechanism does the work. The claim is about the
   combination of review, rationale and migration as one treatment; A48 §6
   varies who holds authority as a secondary design.
+
+## Note of 2026-11-12: Chong, Zhang, Fan and Du, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+EvoOntology (THEORY-tmp4d13i) is the performance-gated arm this claim's
+defeat condition names. Removing its gate costs 11.2 points, and evolving
+the schema alone costs 8.7. ARG-tmpyprz6 holds why that is not support: the
+gate is governance's rival, not governance, and the paper measures nothing
+the claim is about, with no misfit tasks, no regression of what the old
+schema could express, and no migration. It is the comparator CASE-tmppm4do
+draws on. Jansen et al., Xie et al. and the TRACE-OU benchmark have no arm
+that varies modifiability. The claim is unchanged.

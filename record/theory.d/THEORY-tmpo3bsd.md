@@ -15,6 +15,8 @@ promote_when: >-
   techniques people use.
 corroborates:
 - CLAIM-tmpyp3u3
+bears_on:
+- QUESTION-tmpxq2sb
 summary: >-
   The central account of LIT-tmp89y2q, read in NOTE-tmpy2v8a. Proposed until
   its promote_when is met.

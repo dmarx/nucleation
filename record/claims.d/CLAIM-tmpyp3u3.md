@@ -45,6 +45,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: TERM-tmp8deza ARG-tmpbuocw THEORY-tmp4cr0g — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-tmp5lktm THEORY-tmpmgo6m THEORY-tmpo3bsd THEORY-tmpoy2np — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-tmpyp3u3: A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have
 
@@ -104,3 +105,25 @@ therefore makes it available, not commonly known.
 - Not about this record's owner and assistants specifically. The same
   holds for any collaborators who read a shared record on their own
   schedule.
+
+## Note of 2026-11-12: Clark and Brennan and Khatua, Zhu et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Clark and Brennan** (THEORY-tmpo3bsd): supports by a second route,
+  beside ARG-tmpbuocw's. Grounding needs positive evidence of understanding,
+  and the absence of complaint is not enough, so a reviewable artifact's
+  being available is not evidence that its readers understood it. The
+  account also says what would count as evidence in a record:
+  acknowledgement, and uptake as the relevant next contribution, an entry
+  that builds on another.
+- **Khatua, Zhu et al.** (THEORY-tmp5lktm): supports, as an instance.
+  Agents "hold incorrect expectations about their partner’s plans" with
+  their messages exchanged and read; access to a message did not give a
+  shared model of it.
+- Li, Zoumpoulis et al. (THEORY-tmpmgo6m) speculate that LLMs may not keep an
+  explicit belief state at all, a reason a record must carry what was held;
+  ORKG (THEORY-tmpoy2np) attributes statements to contributors, the first
+  half of the claim, in a shared graph.
+
+The claim is unchanged.

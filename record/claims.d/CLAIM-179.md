@@ -63,6 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-176 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-759 LIT-760 LIT-761 — Unavailable; no copy could be obtained, cited for the argument ADR-030 summarises them for, not for a reading here -->
 <!-- inactive-ok-file: THEORY-311 — Proposed; the disparity account filed from the reading of LIT-757, cited in a note and not leaned on -->
+<!-- inactive-ok-file: THEORY-tmp0xnw6 THEORY-tmp6b0ul — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-179: When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
 

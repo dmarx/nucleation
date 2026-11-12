@@ -16,6 +16,8 @@ promote_when: >-
   random on real answers, no ontology catching changes of meaning among the
   artificial faults, and LLM-judge-informed retries corrupting more correct
   answers than they fixed.
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of LIT-tmpka8bp, read in NOTE-tmpzfc34. Proposed until
   its promote_when is met.

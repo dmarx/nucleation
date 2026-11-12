@@ -26,6 +26,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmp5mdsg LIT-tmpo7zwb LIT-tmpt3cxh LIT-tmptsso9 LIT-tmpk047v LIT-tmp4ivms LIT-tmpp8mb7 LIT-tmp5pucj LIT-tmpzfbla LIT-tmp5rs7c — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CLAIM-tmppk8g6 CASE-tmppm4do — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp8qsef — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: ARG-tmpyprz6 LIT-tmpydrat THEORY-tmp0xnw6 THEORY-tmp1gvjx THEORY-tmp4d13i THEORY-tmp6b0ul THEORY-tmp706lw THEORY-tmp8r2a9 THEORY-tmpd3j5r THEORY-tmpe8wmn THEORY-tmpes8q7 THEORY-tmph4vkf THEORY-tmphxh86 THEORY-tmplwnpv THEORY-tmpm8l7x THEORY-tmpn7ukf THEORY-tmpoy2np THEORY-tmpqb5z0 THEORY-tmpr15xp THEORY-tmptc3ih THEORY-tmptmk90 THEORY-tmpxbva2 THEORY-tmpymq8w — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-tmps5iou: Is what distinguishes luria from ontology and metamodel evolution the coupling of schema change to recorded decision, migration and executable checks, and does that coupling do work that argumentation-governed or performance-gated evolution does not?
 
@@ -82,8 +83,8 @@ unverified.
   ([LIT-tmpt3cxh](../literature.d/LIT-tmpt3cxh.md)), WebProtégé ([LIT-tmptsso9](../literature.d/LIT-tmptsso9.md)) and the OBO Foundry's
   principles operationalized as checks ([LIT-tmpk047v](../literature.d/LIT-tmpk047v.md)).
 - Performance-gated evolution by agents: EvoOntology ([LIT-2311](../literature.d/LIT-2311.md)).
-- Self-adaptive architecture: the MAPE-K loop of autonomic computing
-  ([LIT-2312](../literature.d/LIT-2312.md)) and models at run time ([LIT-2305](../literature.d/LIT-2305.md)). A50: "It would be difficult
+- Self-adaptive architecture: autonomic computing's control loop
+  ([LIT-2312](../literature.d/LIT-2312.md), which describes it without the later name MAPE-K) and models at run time ([LIT-2305](../literature.d/LIT-2305.md)). A50: "It would be difficult
   to argue that Luria introduces a new general architecture for
   self-monitoring and repair"; at most a "modifiable, epistemically
   structured and governed knowledge substrate" for such a loop.
@@ -116,3 +117,74 @@ Two parts, which can come apart.
 
 A22's caveat bounds both: governance in luria is "partly mechanized and
 partly a human practice". "Luria does not automate epistemic authority."
+
+## Note of 2026-11-12: the prior art read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+The section above lists the prior art as registered and unread. Most of it
+has now been read, from the papers; later versions of the systems were not.
+For part 1, which of the four couplings each couples, as its paper
+describes it:
+
+| System, reading | Rationale or decision recorded | Migration of existing content | Executable checks on change | Authority over the schema |
+|---|---|---|---|---|
+| DILIGENT (Tempich et al., THEORY-tmp0xnw6) | yes: issues, arguments, positions, a board's decision with status and line of reasoning | no: users "may rather reuse" new concepts | no: detection by a reasoner hoped for, not built | yes: a control board |
+| OntoGov (Apostolou et al. 2005, THEORY-tmp1gvjx, in place of LIT-tmp4ivms) | yes: design decisions and their reasons in a lifecycle ontology | change propagated to services through ontology links | yes: automatic identification of inconsistencies | among stakeholders; the meta-ontologies are fixed, so the grammar is not under change |
+| Flouris et al.'s survey (THEORY-tmplwnpv) | changes logged; no rationale with standing | yes: side-effects on dependants determined, a standard step by 2002 | validation of a change, not a gate on content | not addressed |
+| COPE (Herrmannsdoerfer et al., THEORY-tmph4vkf) | a replayable history of operations, no rationale | yes: each metamodel change coupled to a migration of its models | not described | not addressed |
+| KGCL with Ontobot (Hegde et al., THEORY-tmpe8wmn) | a change request and a diff, not why | content changes, not schema | none described | yes: a curator approves the merge |
+| EvoOntology (Chong et al., THEORY-tmp4d13i) | a typed change with its expected effect; rejections logged | no: schema edits leave instantiated content unchanged | yes: a paired evaluation gate | only the automatic gate |
+| Git4Voc (Halilaj et al., THEORY-tmp706lw, in place of VoCol) | reasons by convention in issues and commits | diffs and releases, no migration | yes: validation hooks refuse a commit | yes: roles |
+| WebProtégé (Tudorache et al., THEORY-tmphxh86) | discussion attached to the entity, not required | no | form-value validation only | yes: permissions by access policy |
+| OBO Foundry principles (Jackson et al., THEORY-tmpm8l7x) | rule changes discussed in issues; a standing governance body; no decision record per change | no migration of members' content | yes: conformance checks, reported rather than enforced | yes: a standing governance body |
+| AIF (Chesñevar et al., THEORY-tmp6b0ul) | none: the core is to evolve "as consensus changes", with no mechanism stated | not addressed | not addressed | left open |
+
+No system read couples all four, so the readings do not answer part 1
+"no". Each coupling exists somewhere: recorded decisions with reasons in
+DILIGENT and OntoGov, migration in COPE and in the change process Flouris et
+al. survey, checks that refuse a change in Git4Voc and EvoOntology, authority
+in DILIGENT, Git4Voc, WebProtégé, KGCL and OBO. OntoGov comes nearest, with
+reasons and consistency checks under change, and it keeps the grammar
+fixed. What none of them shows is the decision as a typed, citable entry
+that the schema change cites, changed by the same process as the content it
+governs, with the migration landing in the same change. That is the narrower
+form A22's candidate answer would have to take. Part 2 is untouched: none
+varies governance against performance-gating, and EvoOntology is the
+performance-gated comparator a study of it needs (ARG-tmpyprz6).
+
+The rest of what was read sets the comparison class or frames it:
+
+- **Self-adaptive architecture.** Kephart and Chess (THEORY-tmptc3ih)
+  couple change to regression tests and reversion and give elements
+  authority relations, but what is self-managed is configuration under
+  fixed human policy, and the goals are revised outside the loop. The
+  paper describes a monitor, analyze, plan and execute loop over
+  knowledge; it never uses the name "MAPE-K", which came later, so the
+  section above now says autonomic computing's control loop. Bencomo et
+  al.'s survey of models at run time (THEORY-tmpr15xp, for LIT-2305) has
+  no governance among its dimensions.
+- **Argument and claim representation.** Micropublications
+  (THEORY-tmpes8q7), Song et al.'s argument graph (THEORY-tmp8r2a9) and
+  ORKG (THEORY-tmpoy2np) represent claims and support with a fixed or
+  nearly absent schema and no process for changing it. Doyle's and de
+  Kleer's truth maintenance (THEORY-tmpd3j5r, THEORY-tmpn7ukf) maintain
+  belief over a fixed vocabulary; against them CLAIM-tmp8qsef, now
+  narrowed, says what the record does not compute.
+- **Levels of rule.** Polski and Ostrom (THEORY-tmpymq8w) supply the frame
+  A50 used, and a test the readings suggest: whether practice tracks the
+  recorded decisions, their rules-in-use against rules-in-form.
+- **Precedent and data.** Leitgeb and Carus on Carnap's explication
+  (THEORY-tmptmk90) are a philosophical precedent for replacing concepts by
+  decision, purpose by purpose, with rivals allowed to coexist.
+  Orzechowski et al. (THEORY-tmpxbva2) find a curated schema that
+  "disagrees with its own data", and validate the ontology against a
+  data-derived summary before each release, a governance step without a
+  decision record. The TRACE-OU benchmark (THEORY-tmpqb5z0) scores accept,
+  modify and reject decisions on proposals under written rules, with no
+  rationale or migration.
+
+Two corrections to the section above. COPE's paper never names Edapt; that
+COPE became Eclipse Edapt is known from outside it. A's bare "Stojanovic" at
+A22 is most likely Stojanovic et al. 2002, named by Flouris et al. and now
+registered (LIT-tmpydrat, not read). The question is unchanged.

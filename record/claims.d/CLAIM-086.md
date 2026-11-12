@@ -37,6 +37,7 @@ summary: >-
 complements:
 - CLAIM-272
 ---
+<!-- inactive-ok-file: THEORY-tmpqtonx THEORY-tmptc3ih THEORY-tmpymq8w — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 
 # CLAIM-086: A constraint may govern conduct without governing the conditions under which it remains authoritative

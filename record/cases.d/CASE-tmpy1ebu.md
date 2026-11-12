@@ -40,6 +40,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: LIT-2327 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: THEORY-tmp42g4m THEORY-tmp5yjzz THEORY-tmp7gq1l THEORY-tmpmc61y THEORY-tmppljay THEORY-tmpsuvav THEORY-tmpsx3qh THEORY-tmpucrbf THEORY-tmpvatoo THEORY-tmpvuz7f THEORY-tmpw88x9 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-tmpy1ebu: A proposed study: a record-keeping collective improves its procedures over generations, an earlier and a later improver are compared from the same fresh starting state, and the collective's own diagnostic machinery is then damaged
 

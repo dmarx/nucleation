@@ -75,6 +75,7 @@ complements:
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-362 THEORY-151 — Proposed; a claim this one cites and a reading that corroborates it, nothing here rests on them -->
 <!-- inactive-ok-file: CASE-tmpiocs1 LIT-tmpjqgyi TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-tmp0t4ni THEORY-tmp1vsf5 THEORY-tmp9qlii THEORY-tmpjt57l THEORY-tmpwrxy3 THEORY-tmpy4vu1 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-403: A contribution's admission to an organization's inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor's part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed
 

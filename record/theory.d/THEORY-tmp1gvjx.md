@@ -13,6 +13,8 @@ promote_when: >-
   a reading of §§3–4 confirms the automatic inconsistency identification
   of the Service API, the Lifecycle Ontology's recording of design decisions
   and their reasons, and the fixed meta-ontology cluster.
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of LIT-tmp2p7d1, read in NOTE-tmp0pa6x. Proposed until
   its promote_when is met.

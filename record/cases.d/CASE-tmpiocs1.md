@@ -14,6 +14,11 @@ line:
 - record-as-apparatus
 bears_on:
 - QUESTION-tmpxq2sb
+draws_on:
+- THEORY-tmp9qlii
+- THEORY-tmprcmsd
+- THEORY-tmp5lktm
+- THEORY-tmpy4vu1
 summary: >-
   From the exchange "luria experiment design" (2026-11-10). The owner asked
   at U12 about multi-agent coordination and at U16 to "check to see if we
@@ -29,6 +34,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmpmnde8 LIT-tmpmvfl2 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: LIT-1399 — Unavailable; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmp5lktm THEORY-tmp9qlii THEORY-tmprcmsd THEORY-tmpy4vu1 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-tmpiocs1: A proposed study of distributed evidence integration through a record: the hidden-profile tasks of HiddenBench run with conversation, the benchmark's structured protocol, shared notes, a typed record and a governed one, with each clue traced from admission to uptake
 
@@ -93,3 +99,27 @@ separates knowing where expertise lies from communication itself, with
 standing added as a variable: "a good outcome is not just retrieving the
 correct source. It is using that source with the correct level of
 authority."
+
+## Note of 2026-11-12: Li, Naito and Shirado, Bragg et al. and Khatua, Zhu et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Li, Naito and Shirado** (THEORY-tmp9qlii): HiddenBench's arms and its
+  18-task subset are the natural comparison set. Its Secretary arm, a
+  passive per-round summary of disclosed facts, gives limited and
+  model-dependent gains (0.241 and 0.713 for the two models), and full
+  disclosure nearly solves the tasks, so the failure is in surfacing. The
+  shared-notes arm above is close to Secretary; the record arms are to be
+  compared with it as the baseline, not only with conversation and the
+  protocol. Its group-size results argue for varying the number of agents.
+- **Bragg et al.** (THEORY-tmprcmsd): AstaBench's principle that cost and
+  tool access confound comparisons supports the control "Matched evidence,
+  tools, models and budgets across arms", from a benchmark-design paper.
+- **Khatua, Zhu et al.** (THEORY-tmp5lktm): CooperBench is a candidate
+  transfer task, as A31 proposed.
+- Stasser and Titus (THEORY-tmpy4vu1) supply the original design, shared
+  against unshared conditions with a plurality analysis, that a test of the
+  case would reuse.
+
+The design takes the Secretary arm as a baseline arm; it is otherwise
+unchanged, and the study remains unrun.

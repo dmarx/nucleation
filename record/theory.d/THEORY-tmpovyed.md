@@ -11,6 +11,8 @@ source:
 - LIT-2280
 promote_when: >-
 
+bears_on:
+- QUESTION-tmpxq2sb
 summary: >-
   The central account of [LIT-2280](../literature.d/LIT-2280.md), read in [NOTE-tmpe5ckt](../notes.d/NOTE-tmpe5ckt.md). Proposed until its
   promote_when is met.

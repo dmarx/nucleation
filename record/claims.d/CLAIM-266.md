@@ -66,6 +66,7 @@ bears_on:
 <!-- inactive-ok-file: ADR-085 — Proposed; the line rule the history note of 2026-11-11 applies -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 <!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmp37mxv THEORY-tmp4d13i THEORY-tmp5yjzz THEORY-tmp7gq1l THEORY-tmpdjm1o THEORY-tmpeofqm THEORY-tmpfoeer THEORY-tmpgl5xy THEORY-tmpiet4z THEORY-tmpjt57l THEORY-tmpl4czv THEORY-tmpmc61y THEORY-tmpovyed THEORY-tmppljay THEORY-tmpq26fh THEORY-tmpsx3qh THEORY-tmpucrbf THEORY-tmpvatoo THEORY-tmpw88x9 THEORY-tmpwnx3h THEORY-tmpyzyqe THEORY-tmpzmf41 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
 

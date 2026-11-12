@@ -69,6 +69,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-476 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->
 <!-- inactive-ok-file: LIT-1657 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: LIT-2322 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmptmk90 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-472: Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected
 

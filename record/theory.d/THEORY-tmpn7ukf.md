@@ -18,6 +18,8 @@ corroborates:
 - CLAIM-293
 bounds:
 - CLAIM-tmp8qsef
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of LIT-2320, read in NOTE-tmp2l1rj. Proposed until its
   promote_when is met.

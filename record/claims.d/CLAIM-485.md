@@ -61,6 +61,7 @@ summary: >-
   and they diverge in behaviour once that regime breaks down.
 ---
 <!-- inactive-ok-file: THEORY-219 THEORY-071 — Proposed; the account the reading this claim bridges from is split from, the criterion it is tested against, the thesis it narrows and the objection about how it could be shown -->
+<!-- inactive-ok-file: THEORY-tmpsuvav — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-485: In the self-governing sense, what endogenous governance adds over a behaviourally equivalent system with an external scheduler is not that it allocates authority among its own processes but that it can revise its own governing standards when they break down
 

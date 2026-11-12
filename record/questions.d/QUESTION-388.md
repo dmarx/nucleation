@@ -27,6 +27,7 @@ summary: >-
   system's own. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-545 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmp42g4m THEORY-tmp7gq1l THEORY-tmpeofqm THEORY-tmpmc61y THEORY-tmpsuvav THEORY-tmptc3ih — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-388: What distinguishes a programmable system from one that governs its own reconfiguration?
 

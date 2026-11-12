@@ -14,6 +14,8 @@ promote_when: >-
 corroborates:
 - CLAIM-086
 - CLAIM-410
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of LIT-tmp5rs7c, skimmed in NOTE-tmpfsrwj. Proposed
   until its promote_when is met.

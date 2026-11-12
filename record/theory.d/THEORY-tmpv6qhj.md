@@ -13,6 +13,8 @@ promote_when: >-
   the SMM-process relation by whether measurement represents knowledge
   structure (near-zero relation for rating scales and agreement indices),
   and positive SMM-performance relations across all measurement approaches.
+bears_on:
+- QUESTION-tmpxq2sb
 summary: >-
   The central account of LIT-tmpo6ko1, read in NOTE-tmp1cqjq. Proposed until
   its promote_when is met.

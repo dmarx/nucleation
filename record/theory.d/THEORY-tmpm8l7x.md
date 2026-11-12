@@ -14,6 +14,8 @@ promote_when: >-
   continuing revision of principle wording and of the checks, (c) a fall in
   reported errors between the 2019 and 2020 runs, and (d) principles the
   authors say cannot be checked automatically.
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of LIT-tmpk047v, read in NOTE-tmpsm319. Proposed until
   its promote_when is met.

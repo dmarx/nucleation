@@ -49,6 +49,7 @@ summary: >-
   (CASE-071).
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: THEORY-tmp5yjzz THEORY-tmpovyed THEORY-tmpxbva2 THEORY-tmpyzyqe — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-149: A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it
 

@@ -67,6 +67,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: LIT-2291 THEORY-tmpn7ukf THEORY-tmpd3j5r THEORY-tmpyxqep — LIT-2291 Unfetched, Doyle's IJCAI-79 summary read in its place; the readings are Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-tmp5vepa THEORY-tmp6koy4 THEORY-tmphaoty THEORY-tmpkjz86 THEORY-tmpo4vs4 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-tmp8qsef: The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and no rule reading only the support graph and the entries' statuses could make that judgment correctly
 
@@ -145,3 +146,27 @@ that none is correct.
   system and the record with an external reasoner on formally specified
   tasks, would separate "what the record preserves from what the reasoning
   algorithm computes".
+
+## Note of 2026-11-12: the readings on withdrawal
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+Version 2 narrows the claim on de Kleer's, Doyle's and the Hearsay-II
+readings; its history says how. The other readings that touch it:
+
+- **Jung et al.** (THEORY-tmpo4vs4): MEME's Absence task is this claim's
+  situation, a support changed and no rule saying what follows, where the
+  correct state is "uncertain"; its Cascade task is the case where a stated
+  rule decides. Systems that fail hold the dependency and never surface it,
+  which supports the value of reporting dependants.
+- **Reiter** (THEORY-tmp6koy4) and **Hu, Wang and McAuley**
+  (THEORY-tmp5vepa): a logical rule computes which assumptions to withdraw
+  given a complete system description; a test in which a newer fact
+  withdraws an older one measures what the record leaves to judgment.
+  Contrast classes, not evidence against the claim.
+- **Xu et al.** (THEORY-tmpkjz86): A-MEM rewrites neighbouring notes
+  automatically, the propagation this claim says the record declines, and
+  reports no check of whether the rewrites are right.
+- **Wilie et al.** (THEORY-tmphaoty): Belief-R's items are logical, the
+  setting where a structural rule suffices; it does not reach weighted
+  evidence.

@@ -13,6 +13,8 @@ promote_when: >-
   the prohibition of I-to-I edges, the treatment of attack, rebut and
   undercut as derived, and the open issue of how the community should agree
   on the core and its extensions.
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of LIT-tmpp8mb7, read in NOTE-tmpr9b6m. Proposed until
   its promote_when is met.

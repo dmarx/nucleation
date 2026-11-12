@@ -38,6 +38,7 @@ summary: >-
   Proposed and not adopted.
 ---
 <!-- inactive-ok-file: CLAIM-189 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpe8wmn THEORY-tmpx4v17 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 # CLAIM-250: What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes
 
 ## The claim

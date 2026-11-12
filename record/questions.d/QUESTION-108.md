@@ -39,6 +39,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmp8qsef LIT-tmp9oc9e LIT-tmpiufjk LIT-tmppcaeo LIT-tmpqhq20 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: SYNTHESIS-015 — Deferred, Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: CASE-tmp8rg2s — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-tmp5rm74 THEORY-tmp5vepa THEORY-tmpaxysg THEORY-tmpcfp6p THEORY-tmphrkr5 THEORY-tmpkjz86 THEORY-tmplr84w THEORY-tmpo4vs4 THEORY-tmpol9my THEORY-tmpvuz7f THEORY-tmpw88x9 THEORY-tmpyzyqe — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-108: When a structured record does better than a summary, a transcript or a posterior on revision tasks, is it because it retains more, because what it retains is easier to reach, or because the operations a reviser needs are easier to perform on it?
 

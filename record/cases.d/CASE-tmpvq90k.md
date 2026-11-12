@@ -34,6 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-194 — Proposed; the construction this study alters -->
 <!-- inactive-ok-file: LIT-2316 LIT-tmp54rbu LIT-tmp5jugw LIT-tmpjqgyi — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: THEORY-tmp0twjb THEORY-tmp6koy4 THEORY-tmpglid0 THEORY-tmpn7ukf THEORY-tmptc3ih — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-tmpvq90k: A proposed study: one surface failure, a valid objection that leaves an accepted conclusion unchanged, generated with different hidden causes, for an agent team with a probe budget to diagnose before it repairs
 

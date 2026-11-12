@@ -42,6 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-174 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: LIT-1985 — Proposed, Open, Deferred or new; cited as open -->
+<!-- inactive-ok-file: THEORY-tmp9ispo — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-099: self-formation, of an agent: the production, by the agent's own activity on a discrepancy it cannot yet resolve, of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones
 

@@ -28,6 +28,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-402 — Proposed; Pilgrim et al.'s decomposition, cited as open -->
 <!-- inactive-ok-file: TERM-tmp8deza CLAIM-tmpyp3u3 CASE-tmpiocs1 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1399 — Unavailable; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmp0twjb THEORY-tmp1vsf5 THEORY-tmp5lktm THEORY-tmp8127k THEORY-tmp9qlii THEORY-tmplr84w THEORY-tmpmgo6m THEORY-tmpo3bsd THEORY-tmpovyed THEORY-tmpv6qhj THEORY-tmpy4vu1 THEORY-tmpyxqep — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-tmpxq2sb: Does a shared, typed and governed record help agents who hold different parts of the evidence integrate it and act on it, beyond what a structured communication protocol does, and at which stage does it help: admission, recognition, credibility or uptake?
 
@@ -101,3 +102,61 @@ has not succeeded. A32's false-consensus test: a good result can be that
 "the team correctly identified that the evidence supports two unresolved
 alternatives". [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md) says what such a record can and cannot
 represent of its collaborators' states.
+
+## Note of 2026-11-12: the baseline phenomenon and the Secretary arm
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+**The baseline.** Stasser and Titus (1985, THEORY-tmpy4vu1) first reported
+the phenomenon the question's tasks rest on. With the information about
+three candidates distributed so that the best one, A, looked best only to
+the group as a whole, "only 18% of the 38 groups in the unshared conditions
+chose A", against 83% of the 18 groups that shared all of it (p. 1474).
+Unshared items mostly did not enter discussion, which places the failure at
+admission. The paper never uses the term "hidden profile", which came
+later.
+
+**The comparator a record must beat.** HiddenBench (Li, Naito and Shirado,
+THEORY-tmp9qlii) localizes the same failure in agent groups: revealing all
+the facts raises accuracy to 92.6% and 98.2% for the two models, so "the
+failure lies in surfacing information, not reasoning over it". Its
+Secretary arm, a passive summary of what has been disclosed each round,
+scores 0.241 and 0.713: "Passive summarization yields more limited and
+model-dependent gains". A record that holds only what agents choose to post
+is close to that arm. So the record arm must be compared with the Secretary
+arm, not only with chat and the structured protocol, and it can help only by
+changing what gets surfaced. CASE-tmpiocs1's note of 2026-11-12 adds it as the baseline arm.
+
+The other readings:
+
+- **Stage.** CooperBench (Khatua, Zhu et al., THEORY-tmp5lktm): a free-text
+  channel between agents with private states cut conflicts without improving
+  integration, and failures were of commitment and expectation; agents
+  cooperating did about 30% worse than alone in the abstract's figure, "as
+  large as 50%" in the leading models (§4). Its failures sit at uptake.
+  Salemi et al. (THEORY-tmp8127k): letting holders of partial evidence
+  answer a broadcast request improves integration, a result at recognition;
+  the shared board it tests carries requests, not structured results. Clark
+  and Brennan (THEORY-tmpo3bsd): a record lowers some costs of grounding and
+  raises the cost of acknowledgement, which bears on recognition and uptake.
+- **Measurement.** Zhang et al. (THEORY-tmp1vsf5): a task-level score hides
+  unmet cross-agent dependencies, which only a per-dependency trace shows;
+  coordination machinery helped some models and hurt others. DeChurch and
+  Mesmer-Magnus (THEORY-tmpv6qhj): if a record helps by making members'
+  knowledge converge, only measures of the structure of knowledge detect it;
+  agreement ratings do not.
+- **Cautions.** Xie et al. (THEORY-tmp0twjb): agents told to keep structured
+  records of findings gained 1.9 to 2.1 points, evidence summaries 10, in a
+  single agent with an unenforced format. Zhu et al. (THEORY-tmpovyed): more
+  agents and longer interaction lowered scores, so team size and compute
+  must be matched. Li, Zoumpoulis et al. (THEORY-tmpmgo6m): crowds of one
+  model family gain little from aggregation.
+- **Not new.** Lesser and Erman's Hearsay-II (THEORY-tmpyxqep): a shared
+  store of typed hypotheses with credibility and support links, written by
+  independent contributors, was built and assessed by 1977, as A said; it
+  had no distributed evidence and no comparison with a protocol.
+- **Fits poorly.** Wang et al. (LIT-2295, THEORY-tmplr84w) has no
+  distributed information; at most it offers a transfer task of questions
+  needing facts from several papers.
+
+The question is unchanged.

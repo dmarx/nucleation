@@ -53,6 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim that rests on this one, cited as open -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 — Proposed or Superseded; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmp4d13i THEORY-tmp706lw THEORY-tmp9ispo THEORY-tmpe8wmn THEORY-tmphxh86 THEORY-tmplwnpv THEORY-tmpm8l7x THEORY-tmpxbva2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
 

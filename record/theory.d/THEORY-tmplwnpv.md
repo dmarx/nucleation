@@ -13,6 +13,8 @@ promote_when: >-
   definition of ontology change, the ten subfields, and the six-phase
   evolution process attributed to Stojanovic et al. (2002) with the
   semantics of change called the most crucial phase.
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of LIT-tmpo7zwb, skimmed in NOTE-tmpolhl4. Proposed
   until its promote_when is met.

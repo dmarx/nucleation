@@ -54,6 +54,7 @@ summary: >-
   its set; it does not show the choice is non-arbitrary.
 ---
 <!-- inactive-ok-file: CLAIM-181 CLAIM-184 CLAIM-185 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: THEORY-tmpbt97y — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-195: For an argument, the constraint set that persistence is relative to is fixed by an amendable decision, not discovered: the record stipulates what counts as the same claim persisting, which makes the choice explicit without making it non-arbitrary
 

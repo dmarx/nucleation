@@ -13,6 +13,8 @@ promote_when: >-
   and a reading of §§4–5 confirms that held-out or net gains were
   concentrated in the planted-cause or tool-interface settings while
   clean-playbook revisions did not raise the score on average.
+bears_on:
+- QUESTION-tmp7a7l4
 summary: >-
   The central account of LIT-tmp5jugw, read in NOTE-tmpdcroo. Proposed until
   its promote_when is met.

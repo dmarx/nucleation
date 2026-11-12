@@ -14,6 +14,8 @@ promote_when: >-
   checked against §2 and §4 of the IJCAI-79 paper.
 bounds:
 - CLAIM-tmp8qsef
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of [LIT-tmpw8wtg](../literature.d/LIT-tmpw8wtg.md), read in [NOTE-tmpyvofd](../notes.d/NOTE-tmpyvofd.md). Proposed until
   its promote_when is met.

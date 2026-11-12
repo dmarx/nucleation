@@ -56,6 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpyp3u3 LIT-tmp54rbu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmp1vsf5 THEORY-tmp5lktm THEORY-tmp9qlii THEORY-tmpovyed THEORY-tmpucfiy — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-346: Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
 

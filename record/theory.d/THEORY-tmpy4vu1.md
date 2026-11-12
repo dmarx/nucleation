@@ -15,6 +15,7 @@ promote_when: >-
   and the biased sampling model as the authors' explanation.
 bears_on:
 - QUESTION-089
+- QUESTION-tmpxq2sb
 summary: >-
   The central account of LIT-tmpmnde8, read in NOTE-tmp2jzmr. Proposed until
   its promote_when is met.

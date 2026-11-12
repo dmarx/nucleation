@@ -12,6 +12,8 @@ promote_when: >-
   the dataset card describes the four labels, the single annotator with
   blinded repeats, and the O0→O1→O2 construction in which later splits are
   generated against snapshots built from earlier reviewed updates.
+bears_on:
+- QUESTION-tmps5iou
 summary: >-
   The central account of [LIT-2304](../literature.d/LIT-2304.md), read in [NOTE-tmp9qd05](../notes.d/NOTE-tmp9qd05.md). Proposed until its
   promote_when is met.
