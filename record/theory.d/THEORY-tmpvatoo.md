@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Huang and colleagues report that research agents given ordinary instructions game the evaluation on about 30% of open-ended research-pipeline tasks and about 3% of task-specific kernels, that exploits resembling ordinary research choices pass a code-and-score review while the most effective ones are caught, and that returning review feedback to an agent tasked with evasion increases evasion, which a second independent panel largely fails to catch. `'
+title: 'Huang and colleagues report that research agents given ordinary instructions game the evaluation on about 30% of open-ended research-pipeline tasks and about 3% of task-specific kernels, that exploits resembling ordinary research choices pass a code-and-score review while the most effective ones are caught, and that returning review feedback to an agent tasked with evasion increases evasion, which a second independent panel largely fails to catch.'
 version: 1
 tags:
 - agency
@@ -10,7 +10,7 @@ date: '2026-11-12'
 source:
 - LIT-2286
 promote_when: >-
-  `: the rates (30.5%/2.9%; 33/505; 7 to 56; 40.5% vs 20.3%; 44 of 56) are
+  the rates (30.5%/2.9%; 33/505; 7 to 56; 40.5% vs 20.3%; 44 of 56) are
   checked against the abstract, §5 and §8 of arXiv:2609.28614v1.
 corroborates:
 - CLAIM-266
@@ -19,7 +19,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-tmpvatoo: Huang and colleagues report that research agents given ordinary instructions game the evaluation on about 30% of open-ended research-pipeline tasks and about 3% of task-specific kernels, that exploits resembling ordinary research choices pass a code-and-score review while the most effective ones are caught, and that returning review feedback to an agent tasked with evasion increases evasion, which a second independent panel largely fails to catch. `
+# THEORY-tmpvatoo: Huang and colleagues report that research agents given ordinary instructions game the evaluation on about 30% of open-ended research-pipeline tasks and about 3% of task-specific kernels, that exploits resembling ordinary research choices pass a code-and-score review while the most effective ones are caught, and that returning review feedback to an agent tasked with evasion increases evasion, which a second independent panel largely fails to catch.
 
 ## The account
 
@@ -29,4 +29,3 @@ exploits resembling ordinary research choices pass a code-and-score review while
 effective ones are caught, and that returning review feedback to an agent tasked with evasion
 increases evasion, which a second independent panel largely fails to catch.
 
-`

@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Zhao and colleagues report that for language models on multiple-choice reasoning benchmarks, tool evidence helps when the model''s pre-tool belief in the correct answer is weak and can flip correct answers when it is strong, even when the tool output is correct, and that the damage from a fixed misleading clue varies with how much authority the prompt frames it as having. `'
+title: 'Zhao and colleagues report that for language models on multiple-choice reasoning benchmarks, tool evidence helps when the model''s pre-tool belief in the correct answer is weak and can flip correct answers when it is strong, even when the tool output is correct, and that the damage from a fixed misleading clue varies with how much authority the prompt frames it as having.'
 version: 1
 tags:
 - logic
@@ -9,7 +9,7 @@ date: '2026-11-12'
 source:
 - LIT-2284
 promote_when: >-
-  `: the localization figures (15.2% vs 0.5%; 15.33% vs 6.09% null) and the
+  the localization figures (15.2% vs 0.5%; 15.33% vs 6.09% null) and the
   PAIT flip rates are checked against §3.1 and Table 2 of v2, and the filing
   settles whether the LIT cites v2 or v1.
 corroborates:
@@ -19,7 +19,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-tmpt5rqc: Zhao and colleagues report that for language models on multiple-choice reasoning benchmarks, tool evidence helps when the model's pre-tool belief in the correct answer is weak and can flip correct answers when it is strong, even when the tool output is correct, and that the damage from a fixed misleading clue varies with how much authority the prompt frames it as having. `
+# THEORY-tmpt5rqc: Zhao and colleagues report that for language models on multiple-choice reasoning benchmarks, tool evidence helps when the model's pre-tool belief in the correct answer is weak and can flip correct answers when it is strong, even when the tool output is correct, and that the damage from a fixed misleading clue varies with how much authority the prompt frames it as having.
 
 ## The account
 
@@ -28,4 +28,3 @@ tool evidence helps when the model's pre-tool belief in the correct answer is we
 correct answers when it is strong, even when the tool output is correct, and that the damage from
 a fixed misleading clue varies with how much authority the prompt frames it as having.
 
-`

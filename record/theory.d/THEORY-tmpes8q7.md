@@ -9,7 +9,7 @@ date: '2026-11-12'
 source:
 - LIT-tmp5pucj
 promote_when: >-
-  `: a reading of the Results section confirms the minimal (statement with
+  a reading of the Results section confirms the minimal (statement with
   attribution) and maximal (support and challenge graphs over statements,
   data and methods) forms and the asserts/quotes relation across
   micropublications, and Example 8 confirms that challenges are modelled as
@@ -27,4 +27,3 @@ summary: >-
 
 Clark, Ciccarese and Goble propose that a scientific publication be represented as a micropublication: a principal claim with its attribution and, at its fullest, a graph of supporting and challenging statements, data and methods that can quote elements of other micropublications. Challenges and similarity judgements are themselves attributed micropublications, so that claim networks spanning publications can be traced to their evidence without a central curator.
 
-`
