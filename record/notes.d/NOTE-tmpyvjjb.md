@@ -1,0 +1,129 @@
+---
+status: Skimmed
+paper: LIT-tmpiyp1o
+title: 'Kiczales, des Rivières and Bobrow — The Art of the Metaobject Protocol, chapter 5'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12: chapter 5, "Concepts", read in full from the
+    Association of Lisp Users' hypertext of chapters 5 and 6, mirrored at
+    http://mop.lisp.se/www.alu.org/mop/concepts.html. Its index says the
+    two chapters are "reproduced here in hypertext"; its administrative
+    page says the markup was made by Howard R. Stearns from TeX sources
+    distributed by Xerox PARC, and that "The original work is copyright
+    1991 by the Massachusetts Institute of Technology". The owner ruled on
+    2026-11-12 that the copy may be used: "the mirror is fine". Not read:
+    the Preface and Part I (chapters 1 to 4, the book's argument and its
+    Closette implementation), which no copy reached, and chapter 6, the
+    dictionary. The section on processing the user-interface macros was
+    skimmed. A delegated reader drafted the reading; every quotation below
+    was rechecked against the downloaded chapter by script. Skimmed
+    because one chapter of nine was read.
+date: '2026-11-12'
+summary: >-
+  Chapter 5 specifies a metaobject protocol for CLOS: the language described
+  as an extensible program whose classes, generic functions, methods and
+  method combinations are metaobjects users may specialize, within stated
+  restrictions on users and implementors, with redefinition propagated to
+  dependents.
+---
+
+# NOTE-tmpyvjjb: Kiczales, des Rivières and Bobrow — The Art of the Metaobject Protocol, chapter 5
+
+## Contribution
+
+As far as chapter 5 shows: the language's own semantics exposed as an
+object-oriented program the user may specialize, with the specification
+stating which extensions are allowed and which are not; extensibility and
+implementors' freedom balanced by explicit restrictions on each side; and
+change propagation built into the protocol, so that a redefinition
+triggers re-finalization, recomputation and notification of dependents.
+
+## Key results
+
+Section names are chapter 5's headings.
+
+- **The protocol is the language as an extensible program**
+  (Introduction): "a description of CLOS itself as an extensible CLOS
+  program", whose elements are "considered meta-level objects or
+  metaobjects".
+- **Its purpose is user extension** (Implementation and User
+  Specialization): "The purpose of the Metaobject Protocol is to provide
+  users with a powerful mechanism for extending and customizing the basic
+  behavior of the Common Lisp Object System."
+- **Bounded by stated restrictions** (same section): "This balance between
+  user extensibility and implementor freedom is mediated by placing
+  explicit restrictions on each."
+- **What users may not change** (Restrictions on Portable Programs):
+  "Portable programs must not redefine any specified classes, generic
+  functions, methods or method combinations." Overriding a specified
+  method is allowed "only when the description of the specified method
+  explicitly allows this."
+- **The authors' doubt** (note to the same section): "Object-oriented
+  protocol specification is inherently about specifying leeway, and this
+  seems difficult using current technology."
+- **Redefinition propagates** (Reinitialization of Class Metaobjects):
+  after re-finalization "any dependents of the class metaobject will be
+  updated by calling update-dependent." (Generic Function Invocation
+  Protocol): "Whenever a generic function metaobject is initialized,
+  reinitialized, or a method is added or removed, the discriminating
+  function is recomputed."
+- **Dependent maintenance** (Dependent Maintenance Protocol): "a way to
+  register an object which should be notified whenever a class or generic
+  function is modified."
+
+## Assumptions
+
+- Changes to the language are written by users, in code, within leeway the
+  protocol's designers fixed; the protocol itself is not open to revision
+  through it.
+- The base language's performance must not be sacrificed (the
+  implementation notes on memoization, and the rule that portable methods
+  be defined before instances exist).
+
+## Concepts
+
+Metaobject; metaobject protocol; specified, implementation-specific and
+portable metaobjects; extending against overriding a specified method;
+class finalization; reinitialization; discriminating function; effective
+method; dependent, add-dependent, update-dependent.
+
+## Bearing on the record
+
+A cited the book in the exchange "luria experiment design" (A50 §12) for a
+programming system that makes aspects of its own behaviour explicit and
+modifiable through a meta-level interface. That is right for chapter 5.
+A's two further remarks, that a record is not a universal reflective
+system and that a changed rule counts only if it changes later behaviour,
+are A's, though the protocol builds the second in mechanically
+(recomputation, dependent updates).
+
+- **[QUESTION-388](../questions.d/QUESTION-388.md)** (what distinguishes a programmable system from one that
+  governs its own reconfiguration). The protocol sits on the programmable
+  side. The machinery of change is inside the system, metaobjects and the
+  propagation of their changes to dependents, but the choice of the next
+  configuration is a user's, made in code, within restrictions the
+  designers wrote. The authors' note that protocol specification "is
+  inherently about specifying leeway" names an ingredient the question's
+  criterion may need: who fixes the space of permitted reconfigurations.
+  Evidence on the question, not an answer; bears_on written.
+- **[CLAIM-469](../claims.d/CLAIM-469.md)** (luria realizes, retains, enforces and revises the record's
+  distinctions). An analogue: a system whose kinds of object are
+  themselves objects of a protocol, with changes propagated to dependents,
+  as the record's declared converses are written and their removal
+  propagated. It qualifies the analogy too: the protocol is revised by its
+  users' programs, not through use, and its restrictions are fixed by its
+  designers, as luria.yaml is changed only by decision. It does not bear
+  on the claim's defeat condition, so no relation is written.
+- **The aspect-oriented stand-in** ([LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), [NOTE-tmpds3ww](NOTE-tmpds3ww.md)) is kept
+  for Part I, which was not reached.
+
+## Limitations
+
+- One chapter of nine: the book's case for metaobject protocols, its
+  account of protocol design (chapter 4) and its worked implementation are
+  not read. The THEORY is limited to what chapter 5 says.
+- The copy is a community hypertext of two chapters made from released TeX
+  sources; the owner ruled it usable.
