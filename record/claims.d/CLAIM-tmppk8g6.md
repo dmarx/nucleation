@@ -43,7 +43,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmppm4do — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit under which this claim was admitted -->
-<!-- inactive-ok-file: LIT-2311 — Deferred; registered from the same exchange, not read -->
 
 # CLAIM-tmppk8g6: Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them, while on routine tasks governance adds cost and no correction
 

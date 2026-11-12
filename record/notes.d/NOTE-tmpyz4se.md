@@ -54,7 +54,7 @@ multi-agent workflow; item response theory difficulty.
 
 ## Bearing on the record
 
-QUESTION-tmpxq2sb lists PaperArena, after A31, among "external tests" for whether a shared record
+[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) lists PaperArena, after A31, among "external tests" for whether a shared record
 helps agents who hold different parts of the evidence. **Partly inaccurate as a fit.** In
 PaperArena the evidence is not distributed among agents: one agent, or a manager that hands
 subtasks to workers, has access to the whole corpus and tools. It tests retrieval and tool
@@ -63,12 +63,12 @@ transfer task for a record-equipped research agent (cross-paper synthesis is wha
 does), but not as a hidden-profile-style test. The exchange's title for it was also truncated
 (the LIT's history already corrects this).
 
-- **QUESTION-tmpxq2sb**: **leaves open**; at most a downstream transfer task. The manager–worker
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)**: **leaves open**; at most a downstream transfer task. The manager–worker
   result (separate contexts help planning) is about decomposition, not about shared state.
-- **QUESTION-108** (when a structured record does better than a summary, a transcript or a
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** (when a structured record does better than a summary, a transcript or a
   posterior): **leaves open**, but offers a candidate task family: questions whose answers need
   facts from several papers, where a record of prior readings could be compared with retrieval.
-- **CASE-tmpiocs1**: does not bear (no distributed information).
+- **[CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)**: does not bear (no distributed information).
 
 ## Limitations
 

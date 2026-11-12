@@ -13,7 +13,7 @@ promote_when: >-
 corroborates:
 - CLAIM-293
 summary: >-
-  The central account of LIT-tmp6wovl, read in NOTE-tmpwxfjk. Proposed until
+  The central account of [LIT-tmp6wovl](../literature.d/LIT-tmp6wovl.md), read in [NOTE-tmpwxfjk](../notes.d/NOTE-tmpwxfjk.md). Proposed until
   its promote_when is met.
 ---
 

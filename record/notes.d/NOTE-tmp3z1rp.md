@@ -58,18 +58,18 @@ tournament; consensus meta-analysis of analysis trajectories; combinatorial synt
 
 ## Bearing on the record
 
-LIT-tmpeyhhi says Hasib et al. bear on LIT-2289 as one of "the AI-scientist systems
+[LIT-tmpeyhhi](../literature.d/LIT-tmpeyhhi.md) says Hasib et al. bear on [LIT-2289](../literature.d/LIT-2289.md) as one of "the AI-scientist systems
 registered from the same exchange". **Accurate as a category.** "Automating scientific discovery"
 in the title overstates the autonomy the paper reports: experiment execution, protocol writing
 and candidate selection were human, as the abstract's "semi-autonomous" concedes.
 
-- **QUESTION-tmp7a7l4 / CASE-tmpy1ebu**: **does not bear** on improving the improver; Robin's
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) / [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)**: **does not bear** on improving the improver; Robin's
   procedure is fixed across cycles.
-- **CASE-144** (the evaluator that stops tracking) and **QUESTION-271**: **leaves open, relevant
+- **[CASE-144](../cases.d/CASE-144.md)** (the evaluator that stops tracking) and **[QUESTION-271](../questions.d/QUESTION-271.md)**: **leaves open, relevant
   design point**: Robin's selection among hypotheses is by an LLM judge reading LLM-written
   reports, the self-evaluation configuration those entries worry about; the paper reports no test
   of the judge against independent outcomes, only that a human then reviewed the list.
-- **CLAIM-403** (admission, recognition, credibility, uptake separable): an illustration: Robin
+- **[CLAIM-403](../claims.d/CLAIM-403.md)** (admission, recognition, credibility, uptake separable): an illustration: Robin
   supplies admission and ranking (credibility) and humans retain uptake.
 
 ## Limitations

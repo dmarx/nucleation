@@ -12,7 +12,7 @@ source:
 promote_when: >-
 
 summary: >-
-  The central account of LIT-2280, read in NOTE-tmpe5ckt. Proposed until its
+  The central account of [LIT-2280](../literature.d/LIT-2280.md), read in [NOTE-tmpe5ckt](../notes.d/NOTE-tmpe5ckt.md). Proposed until its
   promote_when is met.
 ---
 

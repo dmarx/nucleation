@@ -62,9 +62,9 @@ handling of circular support, well-founded support computation in detail), the e
 facilities, and the problem-solver control uses, which it only mentions. Stands in for the
 system's design; not for its algorithms or proofs.
 
-See LIT-2291's report: it **supports CLAIM-tmp8qsef** with a narrowing (TMS relabels from
+See [LIT-2291](../literature.d/LIT-2291.md)'s report: it **supports [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** with a narrowing (TMS relabels from
 justifications that are sufficient by stipulation; contradiction blame is chosen, and may be
-wrong); **supports QUESTION-tmps5iou**'s comparison class; **consistent with CLAIM-293**.
+wrong); **supports [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)**'s comparison class; **consistent with [CLAIM-293](../claims.d/CLAIM-293.md)**.
 
 ## Limitations
 

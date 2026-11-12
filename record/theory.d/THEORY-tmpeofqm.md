@@ -18,7 +18,7 @@ bears_on:
 corroborates:
 - CLAIM-266
 summary: >-
-  The central account of LIT-2319, read in NOTE-tmpaep2h. Proposed until its
+  The central account of [LIT-2319](../literature.d/LIT-2319.md), read in [NOTE-tmpaep2h](../notes.d/NOTE-tmpaep2h.md). Proposed until its
   promote_when is met.
 ---
 

@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read on 2026-11-12 (sections 1 to 4; later sections skimmed) from IJCAI's
-  own open proceedings. Registered as a stand-in for LIT-2316, the authors'
+  own open proceedings. Registered as a stand-in for [LIT-2316](LIT-2316.md), the authors'
   1987 article, which was Unfetched.
 title: 'Diagnosis with Behavioral Modes'
 version: 1
@@ -37,7 +37,7 @@ summary: >-
   updates candidate probabilities by Bayes' rule after each measurement, and
   chooses the next measurement (and test vector) that minimizes expected
   entropy over the partitions the diagnostic objective cares about.
-  Registered on 2026-11-12 as a stand-in for LIT-2316; it restates the 1987
+  Registered on 2026-11-12 as a stand-in for [LIT-2316](LIT-2316.md); it restates the 1987
   article's GDE framework, conflicts, candidate generation and measurement
   choice, as the base it extends with behavioural modes.
 ---
@@ -49,4 +49,4 @@ Johan de Kleer and Brian C. Williams (1989), Proceedings of IJCAI-89, vol. 2, pp
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-2316, which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates the 1987 article's GDE framework, conflicts, candidate generation and measurement choice, as the base it extends with behavioural modes.
+Registered on 2026-11-12 as a stand-in for [LIT-2316](LIT-2316.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates the 1987 article's GDE framework, conflicts, candidate generation and measurement choice, as the base it extends with behavioural modes.

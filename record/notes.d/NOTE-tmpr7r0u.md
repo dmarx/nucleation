@@ -59,28 +59,28 @@ Exchange-then-Decide protocol.
 
 ## Bearing on the record
 
-QUESTION-tmpxq2sb quotes A39: agents "achieved 30.1% accuracy, versus 80.7% for single agents
+[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) quotes A39: agents "achieved 30.1% accuracy, versus 80.7% for single agents
 given complete information. A lightweight structured communication protocol improved
 performance." **Accurate**, with two qualifications one should carry: (a) the protocol result
 is on 18 of the 65 tasks with three models, not the benchmark as a whole; (b) the paper itself
 contains a shared-summary arm (Secretary) whose gains are small and model-dependent, which is the
 nearest published analogue of "a shared record" and is a baseline the question must also beat.
-CASE-tmpiocs1's "65 hidden-profile problems" is correct.
+[CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)'s "65 hidden-profile problems" is correct.
 
-- **QUESTION-tmpxq2sb** (does a shared typed governed record help beyond a structured
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)** (does a shared typed governed record help beyond a structured
   protocol, and at which stage): **supports the framing and sharpens it.** The paper localises the
-  failure at what CLAIM-403 calls admission (surfacing), not uptake: once disclosed, facts are
+  failure at what [CLAIM-403](../claims.d/CLAIM-403.md) calls admission (surfacing), not uptake: once disclosed, facts are
   integrated. So a record helps only if it changes what gets surfaced; a record that holds only
   what agents choose to post is close to the Secretary arm. The baseline is three-fold: chat,
   Secretary (passive shared summary), Exchange-then-Decide.
-- **CASE-tmpiocs1** (the proposed adaptation): **supports**; the benchmark's arms and the
+- **[CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)** (the proposed adaptation): **supports**; the benchmark's arms and the
   18-task subset are the natural comparison set; the record arm should be compared to Secretary,
   not only to chat and the protocol. Group-size results (Table 4) argue for varying N.
-- **CLAIM-403** (separable stages admission, recognition, credibility, uptake): **supports** as an
+- **[CLAIM-403](../claims.d/CLAIM-403.md)** (separable stages admission, recognition, credibility, uptake): **supports** as an
   instance: Reveal-All shows admission is the binding stage in this setting.
-- **CLAIM-346** (feasibility, aggregation, epistemic coordination independent): **supports** as an
+- **[CLAIM-346](../claims.d/CLAIM-346.md)** (feasibility, aggregation, epistemic coordination independent): **supports** as an
   instance of epistemic coordination failing with aggregation intact.
-- **LIT-1399** (hidden-profile meta-analysis, held): the paper drew its five adapted scenarios
+- **[LIT-1399](../literature.d/LIT-1399.md)** (hidden-profile meta-analysis, held): the paper drew its five adapted scenarios
   from the studies Lu et al. (2012) summarises; consistent.
 
 ## Limitations

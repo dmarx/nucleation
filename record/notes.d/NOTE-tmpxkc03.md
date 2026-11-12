@@ -58,19 +58,19 @@ meta-learning-optimized vs self-referential agents.
 
 ## Bearing on the record
 
-QUESTION-tmp7a7l4 lists it among "prior art on self-improving agents", unread. **Accurate.** It
+[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) lists it among "prior art on self-improving agents", unread. **Accurate.** It
 does **not** run the matched-start comparison of an earlier and a later improver that the
 question requires; its evidence is the final task policy's score. The paper's own robustness
 result (5 above) is the most relevant finding for the question.
 
-- **QUESTION-tmp7a7l4**: **leaves the improver question open** (no earlier-vs-later improver
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)**: **leaves the improver question open** (no earlier-vs-later improver
   comparison) and **bears on the correctability half**: an agent that can edit its own
   improvement module can disable it, and the paper reports that this is how its terminations
   happen. Its recovery from temporary drops relies on reverting to a previous best, with
   the external evaluator unchanged.
-- **CASE-tmpy1ebu** (damage to the collective's own diagnostic machinery): **supports the premise**
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (damage to the collective's own diagnostic machinery): **supports the premise**
   with an observed case of self-inflicted damage to the improver; not a designed lesion.
-- **QUESTION-388 / CLAIM-485**: **leaves open**: the agent rewrites its procedures, not the
+- **[QUESTION-388](../questions.d/QUESTION-388.md) / [CLAIM-485](../claims.d/CLAIM-485.md)**: **leaves open**: the agent rewrites its procedures, not the
   objective or the evaluator, so it is evidence about reprogramming, not revision of governing
   standards.
 

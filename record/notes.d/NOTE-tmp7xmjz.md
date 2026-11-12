@@ -56,19 +56,19 @@ skeleton; Kolmogorov-compressed inductive bias; interpretability of discovered p
 
 ## Bearing on the record
 
-No new entry on the branch cites LIT-2285; the exchange named it as reading (the registration
+No new entry on the branch cites [LIT-2285](../literature.d/LIT-2285.md); the exchange named it as reading (the registration
 curation lists it). The LIT's tags (mathematics, agency) fit. Nothing to correct beyond metadata.
 
-- **CASE-tmpy1ebu** (outer evaluation boundary: agents may revise operational tests, never hidden
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (outer evaluation boundary: agents may revise operational tests, never hidden
   ground truth): **supports** as a clean positive case: all of FunSearch's reliability comes from
   an evaluator the search cannot edit, and the authors say it is limited to problems that have one.
-- **CLAIM-266** (probes that supply the training signal cannot certify what the system preserves):
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (probes that supply the training signal cannot certify what the system preserves):
   **consistent, boundary case**: in FunSearch the probe *is* the target (the score is the
   mathematical quantity), so there is nothing beyond the probe to preserve; this is the
   condition under which optimizing against the probe is safe.
-- **QUESTION-tmp7a7l4**: **does not bear** on improving the improver: the LLM, prompt strategy and
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)**: **does not bear** on improving the improver: the LLM, prompt strategy and
   evaluator are fixed; only the population improves.
-- **QUESTION-108** (when a structured record does better than a summary or transcript):
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** (when a structured record does better than a summary or transcript):
   **leaves open**; the programs database is a structured store of scored candidates, but the
   paper does not compare it with an unstructured alternative.
 

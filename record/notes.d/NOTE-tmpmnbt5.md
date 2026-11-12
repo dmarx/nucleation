@@ -84,7 +84,7 @@ selection; traceability.
 
 ## Bearing on the record
 
-QUESTION-tmps5iou lists DILIGENT under "Argumentation-governed ontology
+[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) lists DILIGENT under "Argumentation-governed ontology
 evolution". Accurate. Two cautions: (1) DILIGENT governs the
 *domain ontology* through argument; the argumentation ontology itself is
 fixed, and the paper says nothing about changing the representational
@@ -93,7 +93,7 @@ modelled example and no evaluation of the argumentation ontology itself
 (the productivity result cited is from the authors' earlier ECAI 2004 paper,
 ref. [2]).
 
-- **QUESTION-tmps5iou** (is luria's coupling of schema change to recorded
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)** (is luria's coupling of schema change to recorded
   decision, migration and checks what distinguishes it from ontology
   evolution, and does it do work that argumentation-governed evolution does
   not?): **supports** that argumentation-governed, decision-gated change to a
@@ -108,7 +108,7 @@ ref. [2]).
   difference is migration and executable checks, not governance by recorded
   argument.
 
-- **CLAIM-179** (Proposed: when an agent files, the capture cost falls on the
+- **[CLAIM-179](../claims.d/CLAIM-179.md)** (Proposed: when an agent files, the capture cost falls on the
   party that would re-derive, removing the disparity design-rationale systems
   were abandoned over): DILIGENT is a design-rationale system for ontologies
   whose authors already see capture cost as the obstacle (§4.1:
@@ -116,11 +116,11 @@ ref. [2]).
   templates and ontology-learning agents as arguers. It supports the claim's
   premise and is prior art for its "agent as arguer" move; it reports no
   result on whether capture was sustained.
-- **LIT-758** (Kunz and Rittel, IBIS) and **LIT-762** (gIBIS), held: DILIGENT
+- **[LIT-758](../literature.d/LIT-758.md)** (Kunz and Rittel, IBIS) and **[LIT-762](../literature.d/LIT-762.md)** (gIBIS), held: DILIGENT
   cites both ([10], [12]) and is built on IBIS; one may link them.
-  **ADR-030 / ADR-032** (IBIS-related decisions) are the record's own
+  **[ADR-030](../decisions.d/ADR-030.md) / [ADR-032](../decisions.d/ADR-032.md)** (IBIS-related decisions) are the record's own
   adoption of the same lineage.
-- **NOTE-1373** mentions HCOME only as a string; unrelated.
+- **[NOTE-1373](NOTE-1373.md)** mentions HCOME only as a string; unrelated.
 - "Ontology engineering" and "Compendium" have no hits Duplicate check: DOI and title not held elsewhere.
 
 ## Limitations

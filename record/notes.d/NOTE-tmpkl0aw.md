@@ -73,13 +73,13 @@ Chain-of-Note; offline reading vs. online memory.
 
 ## Bearing on the record
 
-QUESTION-108's note names LongMemEval among comparators "named ... as
+[QUESTION-108](../questions.d/QUESTION-108.md)'s note names LongMemEval among comparators "named ... as
 comparators" by A20 and A27. Accurate as a benchmark comparator. Its
 knowledge-update ability is single-fact update; it does not test the
-dependants of an update (MEME, LIT-2281, scores that and lists LongMemEval
+dependants of an update (MEME, [LIT-2281](../literature.d/LIT-2281.md), scores that and lists LongMemEval
 as lacking it).
 
-- **QUESTION-108** (when a structured record beats a summary, a transcript or
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** (when a structured record beats a summary, a transcript or
   a posterior): **qualifies** in a direction the question anticipates
   ("A negative result counts"): compressing sessions into extracted summaries
   or facts lost information and lowered accuracy, except on multi-session
@@ -88,12 +88,12 @@ as lacking it).
   structured representation depends on the question type and on reading, not
   on structure as such; it does not test a governed record.
 
-- **CASE-091** (information and token budget controlled separately):
+- **[CASE-091](../cases.d/CASE-091.md)** (information and token budget controlled separately):
   LongMemEval §5.2 compares value choices "in a budget-aware manner", the
   same control the case requires; a usable external task for the case's
   arms.
-- **CLAIM-184** (anchors entrench) is not engaged; no held entry uses
-  "knowledge update" or "abstention" in this sense. "LoCoMo" hits  (CLAIM-152, QUESTION-254 and others) concern other works or senses.
+- **[CLAIM-184](../claims.d/CLAIM-184.md)** (anchors entrench) is not engaged; no held entry uses
+  "knowledge update" or "abstention" in this sense. "LoCoMo" hits  ([CLAIM-152](../claims.d/CLAIM-152.md), [QUESTION-254](../questions.d/QUESTION-254.md) and others) concern other works or senses.
   Duplicate check: arXiv id and title not held elsewhere.
 
 ## Limitations

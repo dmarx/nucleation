@@ -13,7 +13,7 @@ promote_when: >-
 bears_on:
 - QUESTION-108
 summary: >-
-  The central account of LIT-2279, read in NOTE-tmprpo63. Proposed until its
+  The central account of [LIT-2279](../literature.d/LIT-2279.md), read in [NOTE-tmprpo63](../notes.d/NOTE-tmprpo63.md). Proposed until its
   promote_when is met.
 ---
 

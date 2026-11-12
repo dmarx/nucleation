@@ -15,7 +15,7 @@ promote_when: >-
 corroborates:
 - CLAIM-349
 summary: >-
-  The central account of LIT-2283, read in NOTE-tmp7uwd1. Proposed until its
+  The central account of [LIT-2283](../literature.d/LIT-2283.md), read in [NOTE-tmp7uwd1](../notes.d/NOTE-tmp7uwd1.md). Proposed until its
   promote_when is met.
 ---
 

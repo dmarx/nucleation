@@ -13,7 +13,7 @@ promote_when: >-
   checked against the abstract, the S1 and S7 findings and the appendix
   tables.
 summary: >-
-  The central account of LIT-tmphrc9m, skimmed in NOTE-tmpyu80n. Proposed
+  The central account of [LIT-tmphrc9m](../literature.d/LIT-tmphrc9m.md), skimmed in [NOTE-tmpyu80n](../notes.d/NOTE-tmpyu80n.md). Proposed
   until its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpyu80n — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

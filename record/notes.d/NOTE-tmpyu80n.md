@@ -55,12 +55,12 @@ surprise as model surprise, with page citations to Woods (2018). It **does not r
 derivations from his two assumptions (finite resources, continuing change), his arguments for
 each proto-theorem, or his examples. It is a test of the theory on one case, not an exposition.
 
-- **CASE-186** (second correction after injury to diagnostic machinery): **leaves open**; supplies
+- **[CASE-186](../cases.d/CASE-186.md)** (second correction after injury to diagnostic machinery): **leaves open**; supplies
   vocabulary (decompensation, mis-calibration of one's own capacity) for what the second failure
   tests. Woods and Branlat's "getting stuck in outdated behaviors when relying on past successes"
-  is close to **CLAIM-184** (anchors entrench) and **CASE-188**'s entrenching arm.
-- **QUESTION-tmp7a7l4**: **leaves open**.
-- Corrects A's three-way split noted on CASE-186 (see LIT-2287's report).
+  is close to **[CLAIM-184](../claims.d/CLAIM-184.md)** (anchors entrench) and **[CASE-188](../cases.d/CASE-188.md)**'s entrenching arm.
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)**: **leaves open**.
+- Corrects A's three-way split noted on [CASE-186](../cases.d/CASE-186.md) (see [LIT-2287](../literature.d/LIT-2287.md)'s report).
 
 ## Limitations
 

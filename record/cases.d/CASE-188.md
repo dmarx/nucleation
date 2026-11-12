@@ -24,7 +24,7 @@ summary: >-
   preregistration.
 ---
 <!-- inactive-ok-file: LIT-tmpyaj3n — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: LIT-2283 LIT-2284 LIT-2326 LIT-2329 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: LIT-2326 LIT-2329 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-188: A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score
 

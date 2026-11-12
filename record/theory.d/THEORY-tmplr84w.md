@@ -13,7 +13,7 @@ promote_when: >-
   comparison are checked against the abstract, §1 and §5 of
   arXiv:2510.10909v4.
 summary: >-
-  The central account of LIT-2295, read in NOTE-tmpyz4se. Proposed until its
+  The central account of [LIT-2295](../literature.d/LIT-2295.md), read in [NOTE-tmpyz4se](../notes.d/NOTE-tmpyz4se.md). Proposed until its
   promote_when is met.
 ---
 

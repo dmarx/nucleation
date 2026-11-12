@@ -14,7 +14,7 @@ bears_on:
 - QUESTION-108
 - QUESTION-tmp7a7l4
 summary: >-
-  The central account of LIT-2278, read in NOTE-tmpevamr. Proposed until its
+  The central account of [LIT-2278](../literature.d/LIT-2278.md), read in [NOTE-tmpevamr](../notes.d/NOTE-tmpevamr.md). Proposed until its
   promote_when is met.
 ---
 

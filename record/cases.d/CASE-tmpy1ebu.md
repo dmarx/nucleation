@@ -28,7 +28,7 @@ summary: >-
   evaluator-capture arm. Not run. The design is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: LIT-2273 LIT-2278 LIT-2286 LIT-2276 LIT-2327 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2327 — Deferred; registered from the same exchange, not read -->
 
 # CASE-tmpy1ebu: A proposed study: a record-keeping collective improves its procedures over generations, an earlier and a later improver are compared from the same fresh starting state, and the collective's own diagnostic machinery is then damaged
 

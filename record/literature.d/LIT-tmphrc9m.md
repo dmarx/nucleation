@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Skimmed on 2026-11-12 from the open-access article. Registered as a
-  stand-in for LIT-2287, Woods 2018, which no lawful copy reached.
+  stand-in for [LIT-2287](LIT-2287.md), Woods 2018, which no lawful copy reached.
 title: 'Graceful extensibility in asset management: extending the capacity to adapt in managing cyber-physical railway systems'
 version: 1
 history:
@@ -33,7 +33,7 @@ summary: >-
   recognised in the case; base vs extended adaptive capacity (S7) was not
   recognised). They propose operational guidelines and argue that asset
   management should accept indeterminism alongside deterministic planning.
-  Registered on 2026-11-12 as a stand-in for LIT-2287; it restates Woods's
+  Registered on 2026-11-12 as a stand-in for [LIT-2287](LIT-2287.md); it restates Woods's
   ten proto-theorems and his senses of graceful extensibility, not his
   arguments for them.
 ---
@@ -45,4 +45,4 @@ Jan-jaap Moerman, Jan Maarten Schraagen, Jan Braaksma and Leo van Dongen (2021),
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-2287, which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates Woods's ten proto-theorems and his senses of graceful extensibility, not his arguments for them.
+Registered on 2026-11-12 as a stand-in for [LIT-2287](LIT-2287.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it restates Woods's ten proto-theorems and his senses of graceful extensibility, not his arguments for them.

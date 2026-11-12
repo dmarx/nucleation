@@ -57,24 +57,24 @@ proxy task vs actual decision task.
 
 ## Bearing on the record
 
-CASE-188's note lists "cognitive forcing (LIT-2283)" among A39 Study C's prior work on revision,
-and LIT-tmpyaj3n says LIT-2283 is "held". Both are bare pointers and **accurate** as far as they
+[CASE-188](../cases.d/CASE-188.md)'s note lists "cognitive forcing ([LIT-2283](../literature.d/LIT-2283.md))" among A39 Study C's prior work on revision,
+and [LIT-tmpyaj3n](../literature.d/LIT-tmpyaj3n.md) says [LIT-2283](../literature.d/LIT-2283.md) is "held". Both are bare pointers and **accurate** as far as they
 go. The work is about a human deciding whether to defer to an advisor, not about belief revision
 by an agent or a team; it bears on revision only through the *update* condition (decide first,
 then see the advice and revise). It does not show that forcing improves overall performance.
 
-- **CASE-188** (corrigible resolve vs entrenchment; A36 E7 adds false retraction vs failure to
+- **[CASE-188](../cases.d/CASE-188.md)** (corrigible resolve vs entrenchment; A36 E7 adds false retraction vs failure to
   retract): **qualifies the design's prior art.** The paper's outcome split, overreliance (adopting
   a wrong external signal) against human error, maps onto "false retraction" when external advice
   is wrong. It also shows the cost of the check is borne in acceptability, and that the
   intervention's benefit depends on a trait of the reviser, a moderator the case does not vary.
-- **CLAIM-349** (access to a signal, its authority, and action on it are separable; adaptive
+- **[CLAIM-349](../claims.d/CLAIM-349.md)** (access to a signal, its authority, and action on it are separable; adaptive
   regulation keeps access and makes authority conditional on evidence): **supports, as a human
   instance.** The *on demand* and *update* conditions keep access to the AI's signal while delaying
   or conditioning its authority, and they reduce acting on wrong signals; but the paper's no-AI
   arm still does best on wrong-AI items, so conditional authority here does not reach the
   performance of no access on those items.
-- **LIT-tmpyaj3n** (Bansal et al., explanations raise acceptance): the paper cites the same line
+- **[LIT-tmpyaj3n](../literature.d/LIT-tmpyaj3n.md)** (Bansal et al., explanations raise acceptance): the paper cites the same line
   of work ([2] in its numbering) for explanations as a "general signal of competence"; consistent.
 
 ## Limitations

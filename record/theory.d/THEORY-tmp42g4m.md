@@ -15,7 +15,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmp7a7l4
 summary: >-
-  The central account of LIT-2288, skimmed in NOTE-tmpto8o6. Proposed until
+  The central account of [LIT-2288](../literature.d/LIT-2288.md), skimmed in [NOTE-tmpto8o6](../notes.d/NOTE-tmpto8o6.md). Proposed until
   its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpto8o6 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

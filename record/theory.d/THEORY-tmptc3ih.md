@@ -18,7 +18,7 @@ bears_on:
 corroborates:
 - CLAIM-086
 summary: >-
-  The central account of LIT-2312, read in NOTE-tmp95ww0. Proposed until its
+  The central account of [LIT-2312](../literature.d/LIT-2312.md), read in [NOTE-tmp95ww0](../notes.d/NOTE-tmp95ww0.md). Proposed until its
   promote_when is met.
 ---
 

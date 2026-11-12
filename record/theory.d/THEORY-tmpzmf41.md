@@ -14,7 +14,7 @@ promote_when: >-
   results section, or a later evaluation on the released benchmark reports
   agents of that period near or below 25% HMS.
 summary: >-
-  The central account of LIT-2317, read in NOTE-tmp8r3hb. Proposed until its
+  The central account of [LIT-2317](../literature.d/LIT-2317.md), read in [NOTE-tmp8r3hb](../notes.d/NOTE-tmp8r3hb.md). Proposed until its
   promote_when is met.
 ---
 

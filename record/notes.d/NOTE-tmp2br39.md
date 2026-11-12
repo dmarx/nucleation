@@ -28,7 +28,7 @@ summary: >-
   not identified from the trajectory.
 ---
 <!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
-<!-- inactive-ok-file: CASE-163 LIT-2288 LIT-2319 LIT-2327 — Deferred, Proposed; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: CASE-163 LIT-2327 — Deferred, Proposed; cited for what each holds, not as settled -->
 
 # NOTE-tmp2br39: Chen, Zhu and Zheng — Auditing the Product, Not the Recursion: The Evaluation Evidence Behind Recursive Self-Improvement Claims
 
@@ -96,17 +96,17 @@ estimand; scope gap; claim-indexed reporting standard.
 
 ## Bearing on the record
 
-A's report, as filed in QUESTION-tmp7a7l4 ("Of 26 studies claiming an
+A's report, as filed in [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) ("Of 26 studies claiming an
 improved improvement procedure, only four compared earlier and later
 improvers from identical starting artifacts under matched budgets") and
-CASE-tmpy1ebu ("only four of 26 studies claiming an improved improver made
+[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) ("only four of 26 studies claiming an improved improver made
 this comparison"), is accurate. Two refinements: 23 of the 26
 did report *some* improver-related comparison, usually favourable; and A43's
 "fresh copy of the *same* starting system" test is the paper's swap test
 (§4.3), whose justification is Proposition 3, not just reporting practice.
 The LIT's tags (philosophy-of-science, agency) fit.
 
-- **QUESTION-tmp7a7l4** (can a governed-record collective become a better
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)** (can a governed-record collective become a better
   improver): **supports** the question's separation of a better product from
   a better improver, and supplies its test: the swap test from identical
   starting artifacts at matched budget, with successors audited (§4.3, Table
@@ -116,30 +116,30 @@ The LIT's tags (philosophy-of-science, agency) fit.
   from the same starting state": the paper requires the matched quantity
   named and the estimand stated (one state, or an average over declared
   states).
-- **CASE-tmpy1ebu** (improver transplant and apparatus damage): **supports**
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (improver transplant and apparatus damage): **supports**
   its 2×2 of artifact × improver as an off-diagonal design (§4.3) and its
   outer evaluation boundary (Prop. 2: an audit graded by the loop's own judge
   inherits its bias; §8.2 on documenting evaluator changes). Note: the paper's census rates bear on the case's prior-art bullet,
-  since it codes STOP (LIT-2319) as same-start with a "mixed" result, the
-  Darwin Gödel Machine (LIT-2327) as the evolving-vs-frozen design, and
-  Hyperagents (LIT-2288) as failing the strict rule.
+  since it codes STOP ([LIT-2319](../literature.d/LIT-2319.md)) as same-start with a "mixed" result, the
+  Darwin Gödel Machine ([LIT-2327](../literature.d/LIT-2327.md)) as the evolving-vs-frozen design, and
+  Hyperagents ([LIT-2288](../literature.d/LIT-2288.md)) as failing the strict rule.
 
-- **CLAIM-266** and **CLAIM-149** (Active: probes that supply a system's
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** and **[CLAIM-149](../claims.d/CLAIM-149.md)** (Active: probes that supply a system's
   training signal cannot certify what it preserves): Proposition 2 is a
   formal version for audit graders, and adds that held-out *tasks* do not
   suffice if the *grader* shares the development judge's bias. Supports.
-- **CASE-071** (Active: Kovacs et al.'s metric bias in MBR decoding): an
+- **[CASE-071](../cases.d/CASE-071.md)** (Active: Kovacs et al.'s metric bias in MBR decoding): an
   instance of Proposition 2 with λ > 0 (selected outputs rated better by the
   metric and its neighbours, not by humans). Supports the case's reading.
-- **CASE-144** and **QUESTION-271** (evaluator capture; how an organization
+- **[CASE-144](../cases.d/CASE-144.md)** and **[QUESTION-271](../questions.d/QUESTION-271.md)** (evaluator capture; how an organization
   evaluates its own processes without capture): the criterion-drift remark
   and the requirement of "a fixed external reference that gates each change
   of evaluator" bear directly; it gives no answer for open-ended tasks where
-  no reference grader exists, which is QUESTION-271's hard case. Qualifies.
-- **CASE-186** (recursive correctability) and **QUESTION-388**: the paper
+  no reference grader exists, which is [QUESTION-271](../questions.d/QUESTION-271.md)'s hard case. Qualifies.
+- **[CASE-186](../cases.d/CASE-186.md)** (recursive correctability) and **[QUESTION-388](../questions.d/QUESTION-388.md)**: the paper
   does not treat damage to the diagnostic machinery; leaves open.
 - No held entry uses "swap test" or "recursive self-improvement"; "same
-  starting" hits (CASE-163, QUESTION-273) are unrelated.
+  starting" hits ([CASE-163](../cases.d/CASE-163.md), [QUESTION-273](../questions.d/QUESTION-273.md)) are unrelated.
 - Duplicate check: arXiv id and title not held elsewhere.
 
 ## Limitations

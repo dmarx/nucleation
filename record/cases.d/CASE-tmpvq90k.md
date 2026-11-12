@@ -28,7 +28,7 @@ summary: >-
   run. The design is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-194 — Proposed; the construction this study alters -->
-<!-- inactive-ok-file: LIT-2271 LIT-2316 LIT-tmp54rbu LIT-tmp5jugw LIT-tmpjqgyi — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2316 LIT-tmp54rbu LIT-tmp5jugw LIT-tmpjqgyi — Deferred; registered from the same exchange, not read -->
 
 # CASE-tmpvq90k: A proposed study: one surface failure, a valid objection that leaves an accepted conclusion unchanged, generated with different hidden causes, for an agent team with a probe budget to diagnose before it repairs
 

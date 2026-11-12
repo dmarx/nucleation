@@ -70,31 +70,31 @@ agentic memory agent; chunk size.
 
 ## Bearing on the record
 
-QUESTION-108's note (A20 and A27 "named agent-memory systems as
+[QUESTION-108](../questions.d/QUESTION-108.md)'s note (A20 and A27 "named agent-memory systems as
 comparators", including "MemoryAgentBench") is accurate as far as it goes.
 Precision: it is a benchmark, not a memory system, and its
 "selective forgetting" is recency-based overwrite of contradicted facts with
-multi-hop consequences, not dependency-rule propagation (that is LIT-2281's
+multi-hop consequences, not dependency-rule propagation (that is [LIT-2281](../literature.d/LIT-2281.md)'s
 Cascade).
 
-- **QUESTION-108** (when a structured record beats a summary, a transcript or
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** (when a structured record beats a summary, a transcript or
   a posterior; three mechanisms: retaining more, easing retrieval, making
   operations cheap): **supports** the question's premise that the competence
   at stake is revision, not retrieval: retrieval-oriented memory does well on
   retrieval and fails on updates whose consequences span several facts, and
   even full context fails beyond short lengths. It does not test a structured
   record, so it leaves the question open; it is a usable external test for
-  CASE-091's revision arm.
+  [CASE-091](../cases.d/CASE-091.md)'s revision arm.
 
-- **CLAIM-tmp8qsef** (the record computes no withdrawals) and
-  **CLAIM-293** (topology does not fix revision): FactConsolidation-MH is a
+- **[CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** (the record computes no withdrawals) and
+  **[CLAIM-293](../claims.d/CLAIM-293.md)** (topology does not fix revision): FactConsolidation-MH is a
   test in which an older fact is withdrawn by a newer one and a multi-hop
   answer must change; it measures whether systems compute such withdrawals,
   which the record says it leaves to judgment. Bears as an external test, not
   as evidence for or against the claims.
-- **CASE-091**: a candidate external task for its revision condition.
+- **[CASE-091](../cases.d/CASE-091.md)**: a candidate external task for its revision condition.
 - No held entry uses "selective forgetting" or "knowledge update"; "MemGPT /
-  Mem0" appears only in NOTE-1091 (another work); "Zep" hits are other
+  Mem0" appears only in [NOTE-1091](NOTE-1091.md) (another work); "Zep" hits are other
   works. Duplicate check: arXiv id and title not held elsewhere.
 
 ## Limitations

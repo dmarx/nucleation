@@ -23,7 +23,7 @@ summary: >-
   question is the owner's; the staging and the baseline are A's, and
   adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-2294 LIT-2280 LIT-2325 LIT-2277 LIT-2295 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2325 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-tmpmnde8 LIT-tmpwza8d LIT-tmp4pa3f LIT-tmp1bytl — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: THEORY-402 — Proposed; Pilgrim et al.'s decomposition, cited as open -->
 <!-- inactive-ok-file: TERM-tmp8deza CLAIM-tmpyp3u3 CASE-tmpiocs1 — filed from the same exchange, Proposed -->

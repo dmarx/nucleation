@@ -47,7 +47,6 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the part read, nothing here rests on it -->
 <!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: LIT-2276 LIT-2286 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 
 # CASE-108: Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators
 

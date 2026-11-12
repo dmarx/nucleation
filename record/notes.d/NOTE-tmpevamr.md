@@ -82,23 +82,23 @@ Hermes+ mechanisms E1–E5 (plan, render, route, gate, close).
 
 ## Bearing on the record
 
-CASE-tmpy1ebu calls it "PAST-Bench's fresh-session persistence ablations"
-and QUESTION-tmp7a7l4 lists it among "prior art on self-improving agents".
+[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) calls it "PAST-Bench's fresh-session persistence ablations"
+and [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) lists it among "prior art on self-improving agents".
 The first is accurate. The second needs a qualification: the authors say
 their setting "is not RSI in its full form"; it tests whether retained
 experience helps, not whether the improver improves. It does not perform
-the earlier-vs-later improver comparison that LIT-2273 calls a swap test.
+the earlier-vs-later improver comparison that [LIT-2273](../literature.d/LIT-2273.md) calls a swap test.
 
-- **CASE-tmpy1ebu** (inheritance arms: fresh instances inheriting knowledge
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (inheritance arms: fresh instances inheriting knowledge
   only, organization only, both, or neither): **supports** the design's
   fresh-instance, matched on/off logic, and adds a measurement the case
   lacks, mechanism evidence that a gain went through the intended pathway,
   which would distinguish "inherited apparatus used" from a lucky score.
-- **QUESTION-tmp7a7l4**: **qualifies** its prior-art list (as above):
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)**: **qualifies** its prior-art list (as above):
   PAST-Bench is a precursor for the question's "Inheritance" level, not
   evidence about improved improvers.
 
-- **QUESTION-108** and **CASE-091** (when a structured record beats a summary
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** and **[CASE-091](../cases.d/CASE-091.md)** (when a structured record beats a summary
   or transcript; memory ablations with information and budget controlled):
   §4.3 is direct evidence on the "structure" side: loose notes left stale and
   current values competing, and typed bindings with a superseded value
@@ -106,11 +106,11 @@ the earlier-vs-later improver comparison that LIT-2273 calls a swap test.
   transcript fragment was re-read as stale. Supports the question's second
   mechanism (easing retrieval) for update tasks; not a test of a governed
   record.
-- **CLAIM-tmp8qsef** (the record computes no withdrawals; retiring an
+- **[CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** (the record computes no withdrawals; retiring an
   entry reports dependants and leaves judgment): E5 overwrites the old value
   in place; PAST-Bench's update tasks are single-entity and do not test
-  dependants, so it does not bear on the withdrawal question (LIT-2281 does).
-- **CLAIM-184** (anchors entrench; retirement by status works only if
+  dependants, so it does not bear on the withdrawal question ([LIT-2281](../literature.d/LIT-2281.md) does).
+- **[CLAIM-184](../claims.d/CLAIM-184.md)** (anchors entrench; retirement by status works only if
   superseded anchors stop attracting structure): the Update failure, old
   evidence "remains active after correction", is a small empirical instance of
   the claim's condition; E2's suppression of superseded entries at render time

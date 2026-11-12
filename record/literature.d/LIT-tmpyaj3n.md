@@ -21,7 +21,6 @@ implementations: []
 summary: >-
   Gagan Bansal et al. (2021), CHI 2021, DOI 10.1145/3411764.3445717. Here because A cited it in the exchange "luria experiment design" at A39 (§4), for explanations raised acceptance of AI recommendations whether or not they were correct. It bears on [CASE-188](../cases.d/CASE-188.md) and [CLAIM-349](../claims.d/CLAIM-349.md); [LIT-2283](LIT-2283.md) (cognitive forcing) is held. What A says of it is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-2283 — Deferred; cited for what each holds, not as settled -->
 
 # LIT-tmpyaj3n: Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance
 

@@ -25,7 +25,7 @@ summary: >-
   the owner's U16 at work; the arms and the stage trace are A's, and
   adopting them is the owner's call. Not run.
 ---
-<!-- inactive-ok-file: LIT-2294 LIT-2272 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2272 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-tmpmnde8 LIT-tmpmvfl2 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: LIT-1399 — Unavailable; cited for what each holds, not as settled -->

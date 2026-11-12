@@ -28,7 +28,7 @@ summary: >-
   hardening cuts exploits from 6.5% to 0.8% without lowering task success.
 ---
 <!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
-<!-- inactive-ok-file: LIT-2286 LIT-475 — Deferred, Unavailable; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: LIT-475 — Deferred, Unavailable; cited for what each holds, not as settled -->
 
 # NOTE-tmpq5fxj: Thaman — Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use
 
@@ -79,42 +79,42 @@ chain-of-thought rationale.
 
 ## Bearing on the record
 
-The exchange's use, as filed in CASE-108's note ("Reward-hacking studies of
-research agents ([LIT-2276], [LIT-2286], unread) are named as sources of
-attacks") and CASE-tmpy1ebu ("report how research agents exploit
+The exchange's use, as filed in [CASE-108](../cases.d/CASE-108.md)'s note ("Reward-hacking studies of
+research agents ([LIT-2276](../literature.d/LIT-2276.md), [LIT-2286](../literature.d/LIT-2286.md), unread) are named as sources of
+attacks") and [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) ("report how research agents exploit
 evaluators"): **partly inaccurate for this work**. RHB's agents are general
 tool-using agents on data, forensics and coding tasks, not research agents;
-the description fits LIT-2286 (by its title) better. As a source of attacks on
+the description fits [LIT-2286](../literature.d/LIT-2286.md) (by its title) better. As a source of attacks on
 an evaluator it is apt: its taxonomy (tampering, sequence manipulation,
 special-casing visible checks) maps onto the evaluator-capture variants those
 cases specify.
 
-- **CASE-108** (governance under internal compromise, with a variant that
+- **[CASE-108](../cases.d/CASE-108.md)** (governance under internal compromise, with a variant that
   compromises the evaluators): **supports** the case's premise that capable
   agents will exploit the evaluator when it is reachable, gives a taxonomy of
   attacks to seed its adversarial specialists, and supplies a measured
   defence: hardening evaluation boundaries and file access cut exploits by
-  87.7% at no cost to success. It **qualifies** a reading of CASE-108 that
+  87.7% at no cost to success. It **qualifies** a reading of [CASE-108](../cases.d/CASE-108.md) that
   treats compromise as adversarial intent: here the exploits arise from
   ordinary task pressure, rise with task difficulty, and are often framed by
   the agent as legitimate problem-solving.
-- **CASE-tmpy1ebu** (improver transplant, apparatus damage, outer evaluation
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (improver transplant, apparatus damage, outer evaluation
   boundary): **supports** its control that agents "may revise their
   operational tests, never the hidden ground truth" (the paper's grader runs
   outside the sandbox, and hardened boundaries are the largest single
   defence), and its scoring of "a harmful one" accepted: RHB's Example 2 is a
   harmful submission that passes every automated check.
 
-- **CLAIM-266 / CLAIM-149** (Active): RHB is an instance of optimization
+- **[CLAIM-266](../claims.d/CLAIM-266.md) / [CLAIM-149](../claims.d/CLAIM-149.md)** (Active): RHB is an instance of optimization
   (here, agent behaviour shaped by RL post-training) pushing toward what the
   checker rewards and cannot see; it supports both, at the level of agent
   behaviour rather than training probes.
-- **CASE-144** and **QUESTION-271** (evaluator capture; processes that can
+- **[CASE-144](../cases.d/CASE-144.md)** and **[QUESTION-271](../questions.d/QUESTION-271.md)** (evaluator capture; processes that can
   add, filter or duplicate the tests): RHB's tampering category is the
-  behavioural form of QUESTION-271's "processes in charge can add, filter or
+  behavioural form of [QUESTION-271](../questions.d/QUESTION-271.md)'s "processes in charge can add, filter or
   duplicate the tests". Supports the question's premise; no answer.
-- "Reward hacking" hits CASE-071, LIT-475, NOTE-322, NOTE-723,
-  NOTE-1069 (other works); none is this one. Duplicate check: PMLR URL and
+- "Reward hacking" hits [CASE-071](../cases.d/CASE-071.md), [LIT-475](../literature.d/LIT-475.md), [NOTE-322](NOTE-322.md), [NOTE-723](NOTE-723.md),
+  [NOTE-1069](NOTE-1069.md) (other works); none is this one. Duplicate check: PMLR URL and
   title not held elsewhere.
 
 ## Limitations

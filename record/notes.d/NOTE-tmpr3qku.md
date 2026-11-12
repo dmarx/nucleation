@@ -84,19 +84,19 @@ from. No characterization to correct.
 The LIT names none, and no entry or the exchange's branch
 cites it.
 
-- **QUESTION-108** (when a structured record does better than a summary,
-  transcript or posterior) and **CASE-091** (memory ablation with information
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** (when a structured record does better than a summary,
+  transcript or posterior) and **[CASE-091](../cases.d/CASE-091.md)** (memory ablation with information
   and budget controlled separately): the paper's matched design (same task,
   output format and scoring; vary only who controls the evidence) is the same
-  shape as CASE-091's information-equivalent vs. budget-equivalent arms, and
+  shape as [CASE-091](../cases.d/CASE-091.md)'s information-equivalent vs. budget-equivalent arms, and
   its own caution, that "Active" bundles retrieval control with interaction
-  and tool competence, is the confound CASE-091 controls for. A methodological
+  and tool competence, is the confound [CASE-091](../cases.d/CASE-091.md) controls for. A methodological
   parallel; it does not test records. Leaves open.
-- **CLAIM-266 / CLAIM-149** (probes that train cannot certify): every score is
+- **[CLAIM-266](../claims.d/CLAIM-266.md) / [CLAIM-149](../claims.d/CLAIM-149.md)** (probes that train cannot certify): every score is
   an LLM judgment; the paper grounds originality in retrieved prior art to
   reduce judge bias, which is a partial response of the kind those claims call
   for. Illustrative only.
-- "Ideation" hits (NOTE-440, NOTE-467, THEORY-052, etc.) were
+- "Ideation" hits ([NOTE-440](NOTE-440.md), [NOTE-467](NOTE-467.md), [THEORY-052](../theory.d/THEORY-052.md), etc.) were
   not about LLM ideation benchmarks. Duplicate check: arXiv id and title not
   held elsewhere.
 

@@ -13,7 +13,7 @@ promote_when: >-
   tables, or an independent rerun on the released tasks reports a mean below
   a fifth of the distance from shipped algorithm to optimum.
 summary: >-
-  The central account of LIT-2310, read in NOTE-tmp5gx1z. Proposed until its
+  The central account of [LIT-2310](../literature.d/LIT-2310.md), read in [NOTE-tmp5gx1z](../notes.d/NOTE-tmp5gx1z.md). Proposed until its
   promote_when is met.
 ---
 

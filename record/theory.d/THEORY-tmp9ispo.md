@@ -15,7 +15,7 @@ promote_when: >-
 corroborates:
 - CLAIM-475
 summary: >-
-  The central account of LIT-2315, read in NOTE-tmpf6grp. Proposed until its
+  The central account of [LIT-2315](../literature.d/LIT-2315.md), read in [NOTE-tmpf6grp](../notes.d/NOTE-tmpf6grp.md). Proposed until its
   promote_when is met.
 ---
 

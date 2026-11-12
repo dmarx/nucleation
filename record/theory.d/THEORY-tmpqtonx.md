@@ -15,7 +15,7 @@ promote_when: >-
 corroborates:
 - CLAIM-086
 summary: >-
-  The central account of LIT-tmpda5as, read in NOTE-tmprntmd. Proposed until
+  The central account of [LIT-tmpda5as](../literature.d/LIT-tmpda5as.md), read in [NOTE-tmprntmd](../notes.d/NOTE-tmprntmd.md). Proposed until
   its promote_when is met.
 ---
 

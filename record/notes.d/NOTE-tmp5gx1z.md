@@ -54,11 +54,11 @@ Algorithmic design level vs systems and data levels; exploration budget vs verif
 
 ## Bearing on the record
 
-The exchange's table (A41, decoded line 4789): "Agents redesign training algorithms rather than merely optimize task outputs | Useful precedent for testing *improvements to the improvement process*". The first half is accurate as to what the benchmark asks. The second overstates: AI4AI-Bench tests a single round in which an agent improves a training algorithm. No agent improves itself, no improved procedure is fed back, and nothing compares an earlier with a later improver. It measures the step the authors say RSI would compound through, not the recursion. QUESTION-tmp7a7l4 lists it as "prior art on self-improving agents"; it is prior art on agents improving another system's learning procedure.
+The exchange's table (A41, decoded line 4789): "Agents redesign training algorithms rather than merely optimize task outputs | Useful precedent for testing *improvements to the improvement process*". The first half is accurate as to what the benchmark asks. The second overstates: AI4AI-Bench tests a single round in which an agent improves a training algorithm. No agent improves itself, no improved procedure is fed back, and nothing compares an earlier with a later improver. It measures the step the authors say RSI would compound through, not the recursion. [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) lists it as "prior art on self-improving agents"; it is prior art on agents improving another system's learning procedure.
 
-- **QUESTION-tmp7a7l4**: **leaves open**. It does not compare earlier and later improvers; its baseline design (same hardware, budget, evaluator, asset; only the source differs) is the matched comparison the question asks for, applied once.
-- **CLAIM-266** (probes supplying a training signal cannot certify preservation): **consistent with, not a test**. The design keeps the scoring evaluator out of the agent's reach and admits the proxy may share data with it.
-- **CASE-tmpy1ebu**: its "product gain without improver gain" outcome has an analogue here: run-side tuning that raises a score without changing the learning rule. Illustration only.
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)**: **leaves open**. It does not compare earlier and later improvers; its baseline design (same hardware, budget, evaluator, asset; only the source differs) is the matched comparison the question asks for, applied once.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (probes supplying a training signal cannot certify preservation): **consistent with, not a test**. The design keeps the scoring evaluator out of the agent's reach and admits the proxy may share data with it.
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)**: its "product gain without improver gain" outcome has an analogue here: run-side tuning that raises a score without changing the learning rule. Illustration only.
 
 ## Limitations
 

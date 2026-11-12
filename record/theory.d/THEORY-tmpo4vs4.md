@@ -17,7 +17,7 @@ bears_on:
 corroborates:
 - CLAIM-tmp8qsef
 summary: >-
-  The central account of LIT-2281, read in NOTE-tmpfwnqe. Proposed until its
+  The central account of [LIT-2281](../literature.d/LIT-2281.md), read in [NOTE-tmpfwnqe](../notes.d/NOTE-tmpfwnqe.md). Proposed until its
   promote_when is met.
 ---
 

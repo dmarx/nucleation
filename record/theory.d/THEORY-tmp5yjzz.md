@@ -14,7 +14,7 @@ corroborates:
 - CLAIM-149
 - CLAIM-266
 summary: >-
-  The central account of LIT-2276, read in NOTE-tmpq5fxj. Proposed until its
+  The central account of [LIT-2276](../literature.d/LIT-2276.md), read in [NOTE-tmpq5fxj](../notes.d/NOTE-tmpq5fxj.md). Proposed until its
   promote_when is met.
 ---
 

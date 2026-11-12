@@ -14,7 +14,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmps5iou
 summary: >-
-  The central account of LIT-2313, read in NOTE-tmpmdakg. Proposed until its
+  The central account of [LIT-2313](../literature.d/LIT-2313.md), read in [NOTE-tmpmdakg](../notes.d/NOTE-tmpmdakg.md). Proposed until its
   promote_when is met.
 ---
 

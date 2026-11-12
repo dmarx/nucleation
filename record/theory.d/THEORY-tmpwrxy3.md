@@ -14,7 +14,7 @@ promote_when: >-
   execution) and the in vitro findings are checked against the abstract and
   the workflow and results sections of the Nature article.
 summary: >-
-  The central account of LIT-2289, read in NOTE-tmp3z1rp. Proposed until its
+  The central account of [LIT-2289](../literature.d/LIT-2289.md), read in [NOTE-tmp3z1rp](../notes.d/NOTE-tmp3z1rp.md). Proposed until its
   promote_when is met.
 ---
 

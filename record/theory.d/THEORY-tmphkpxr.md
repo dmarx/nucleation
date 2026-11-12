@@ -12,7 +12,7 @@ promote_when: >-
   `: the four capabilities and the novelty-hierarchy requirement are checked
   against DARPA's release of 2019-02-14.
 summary: >-
-  The central account of LIT-2292, read in NOTE-tmp88449. Proposed until its
+  The central account of [LIT-2292](../literature.d/LIT-2292.md), read in [NOTE-tmp88449](../notes.d/NOTE-tmp88449.md). Proposed until its
   promote_when is met.
 ---
 

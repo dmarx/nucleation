@@ -54,10 +54,10 @@ Institutional statement; ADICO; strategy, norm, rule; deontic; or else; holons a
 
 It restates the syntax and Crawford and Ostrom's definitions, and reports which of their requirements it relaxes. It does not restate what the 1995 abstract says the paper also does: its methods for operationalizing the syntax beyond coding, its application to cooperation in collective dilemma situations, and its discussion of the grammar's pragmatics.
 
-- **CLAIM-086** (a constraint may govern conduct without governing the conditions under which it remains authoritative): **supports, as an instance from coding practice**. Whether a statement is a rule depends on an or else that may sit in another statement or another law; the prescription and what makes it binding are coded separately.
-- **CLAIM-410** (removing a constraint changes a profile of governing positions): **leaves open**; the paper codes who must do what, not positions of rule-making, monitoring and revision.
-- **QUESTION-tmps5iou**: **leaves open**. Relevant only as a reminder that a schema rule ("must carry a relation") and the authority to change it are different statements; the paper does not discuss changing rules.
-- **CLAIM-419** (the record's grammar amendable by decision): no bearing beyond analogy; not claimed.
+- **[CLAIM-086](../claims.d/CLAIM-086.md)** (a constraint may govern conduct without governing the conditions under which it remains authoritative): **supports, as an instance from coding practice**. Whether a statement is a rule depends on an or else that may sit in another statement or another law; the prescription and what makes it binding are coded separately.
+- **[CLAIM-410](../claims.d/CLAIM-410.md)** (removing a constraint changes a profile of governing positions): **leaves open**; the paper codes who must do what, not positions of rule-making, monitoring and revision.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)**: **leaves open**. Relevant only as a reminder that a schema rule ("must carry a relation") and the authority to change it are different statements; the paper does not discuss changing rules.
+- **[CLAIM-419](../claims.d/CLAIM-419.md)** (the record's grammar amendable by decision): no bearing beyond analogy; not claimed.
 
 ## Limitations
 

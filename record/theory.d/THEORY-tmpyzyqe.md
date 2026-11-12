@@ -13,7 +13,7 @@ promote_when: >-
   and "leaving measured originality unchanged" statements and the §1 slopes
   (+1.16 vs +0.54 per year).
 summary: >-
-  The central account of LIT-2275, skimmed in NOTE-tmpr3qku. Proposed until
+  The central account of [LIT-2275](../literature.d/LIT-2275.md), skimmed in [NOTE-tmpr3qku](../notes.d/NOTE-tmpr3qku.md). Proposed until
   its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpr3qku — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

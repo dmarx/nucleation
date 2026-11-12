@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-12. Registered as a stand-in for LIT-2309, Crawford and
+  Read on 2026-11-12. Registered as a stand-in for [LIT-2309](LIT-2309.md), Crawford and
   Ostrom 1995, which no lawful copy reached.
 title: 'A Systematic Approach to Institutional Analysis: Applying Crawford and Ostrom''s Grammar'
 version: 1
@@ -32,7 +32,7 @@ summary: >-
   five components, classified as strategies, norms or rules, and analysed in
   nested form around a focal attribute. Intercoder reliability is reported
   and the hardest coding decisions are listed as open problems for the
-  syntax. Registered on 2026-11-12 as a stand-in for LIT-2309; it applies
+  syntax. Registered on 2026-11-12 as a stand-in for [LIT-2309](LIT-2309.md); it applies
   and restates the grammar's components and coding rules, not Crawford and
   Ostrom's argument for them.
 ---
@@ -44,4 +44,4 @@ Xavier Basurto, Gordon Kingsley, Kelly McQueen, Mshadoni Smith and Christopher M
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-2309, which the reading of the works cited in the exchange "luria experiment design" could not reach. it applies and restates the grammar's components and coding rules, not Crawford and Ostrom's argument for them.
+Registered on 2026-11-12 as a stand-in for [LIT-2309](LIT-2309.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. it applies and restates the grammar's components and coding rules, not Crawford and Ostrom's argument for them.

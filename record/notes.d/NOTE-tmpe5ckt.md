@@ -71,14 +71,14 @@ role-driven strategy iteration).
 
 ## Bearing on the record
 
-QUESTION-tmpxq2sb records A31 naming MultiAgentBench as an "external test".
+[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) records A31 naming MultiAgentBench as an "external test".
 Fair. it varies communication topology and planning, not a
 shared record; its shared memory is a module of the framework and is not
 manipulated (the authors list memory ablations as future work). Its scoring
 of coordination rests on LLM judges, which matters if the record's study
 reuses it.
 
-- **QUESTION-tmpxq2sb** (does a shared, typed, governed record beat a
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)** (does a shared, typed, governed record beat a
   structured protocol at integrating distributed evidence?): **leaves open**.
   It supplies environments and a topology/planning comparison class, and two
   cautions relevant to the question's fairness conditions: adding agents
@@ -87,11 +87,11 @@ reuses it.
   Its Werewolf environment has information asymmetry but is not scored by
   per-clue uptake.
 
-- **CLAIM-346** (Active: feasibility, aggregation, coordination independent):
+- **[CLAIM-346](../claims.d/CLAIM-346.md)** (Active: feasibility, aggregation, coordination independent):
   §4.2's high-coordination, low-task-score case (Minecraft) is an
   illustration that coordination does not substitute for capability;
   illustrative only.
-- **CLAIM-266 / CLAIM-149**: the KPI and coordination scores are LLM judgments;
+- **[CLAIM-266](../claims.d/CLAIM-266.md) / [CLAIM-149](../claims.d/CLAIM-149.md)**: the KPI and coordination scores are LLM judgments;
   no bearing beyond caution.
 - Duplicate check: arXiv id, DOI and title not held elsewhere.
 

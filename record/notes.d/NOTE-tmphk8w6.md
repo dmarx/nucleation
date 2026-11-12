@@ -64,9 +64,9 @@ The exchange (A14's table, decoded exchange line 636; also decoded lines 837 and
 
 The LIT names no code. Entries it bears on, found on recheck:
 
-- **CLAIM-403** (admission, recognition, credibility, uptake separable): **supports, as an instance**. The 29.6% of fully recognised L2 issues that were not carried into calibration is recognition without uptake, measured in a single agent rather than an organization.
-- **CLAIM-266** (probes that supply a training signal cannot certify preservation) and **QUESTION-271** (evaluation without capture): **leaves open**. DISCERN uses LLM reviewers and an LLM judge with human adjudication; it does not test judge capture. Its clean controls are a design answer to one evaluation failure (rewarding blanket rejection).
-- **QUESTION-tmpxq2sb** and **CASE-tmpvq90k**: **illustrates** the scoring separations those studies need (appropriate abstention vs commitment; clean controls as "appropriate non-modification"). Not evidence for either.
+- **[CLAIM-403](../claims.d/CLAIM-403.md)** (admission, recognition, credibility, uptake separable): **supports, as an instance**. The 29.6% of fully recognised L2 issues that were not carried into calibration is recognition without uptake, measured in a single agent rather than an organization.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (probes that supply a training signal cannot certify preservation) and **[QUESTION-271](../questions.d/QUESTION-271.md)** (evaluation without capture): **leaves open**. DISCERN uses LLM reviewers and an LLM judge with human adjudication; it does not test judge capture. Its clean controls are a design answer to one evaluation failure (rewarding blanket rejection).
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)** and **[CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)**: **illustrates** the scoring separations those studies need (appropriate abstention vs commitment; clean controls as "appropriate non-modification"). Not evidence for either.
 
 ## Limitations
 

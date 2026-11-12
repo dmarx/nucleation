@@ -16,7 +16,7 @@ promote_when: >-
 bears_on:
 - QUESTION-tmps5iou
 summary: >-
-  The central account of LIT-2274, read in NOTE-tmpmnbt5. Proposed until its
+  The central account of [LIT-2274](../literature.d/LIT-2274.md), read in [NOTE-tmpmnbt5](../notes.d/NOTE-tmpmnbt5.md). Proposed until its
   promote_when is met.
 ---
 

@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read on 2026-11-12 from IJCAI's own open proceedings
   (https://ijcai.org/proceedings/1979/0051.pdf). Registered as a stand-in
-  for LIT-2291, Doyle's journal article, which was Unfetched.
+  for [LIT-2291](LIT-2291.md), Doyle's journal article, which was Unfetched.
 title: 'A Glimpse of Truth Maintenance'
 version: 1
 history:
@@ -32,7 +32,7 @@ summary: >-
   valid when every node in its in-list is in and every node in its out-list
   is out; a non-empty out-list makes the node an assumption, believed
   because something else is not. Defaults are encoded this way. Registered
-  on 2026-11-12 as a stand-in for LIT-2291; the author's own short statement
+  on 2026-11-12 as a stand-in for [LIT-2291](LIT-2291.md); the author's own short statement
   of the same system: justifications, the relabelling of beliefs, and
   dependency-directed backtracking.
 ---
@@ -44,4 +44,4 @@ Jon Doyle (1979), Proceedings of IJCAI-79, pp. 232–237, https://ijcai.org/proc
 
 ## Standing in the record
 
-Registered on 2026-11-12 as a stand-in for LIT-2291, which the reading of the works cited in the exchange "luria experiment design" could not reach. the author's own short statement of the same system: justifications, the relabelling of beliefs, and dependency-directed backtracking.
+Registered on 2026-11-12 as a stand-in for [LIT-2291](LIT-2291.md), which the reading of the works cited in the exchange "luria experiment design" could not reach. the author's own short statement of the same system: justifications, the relabelling of beliefs, and dependency-directed backtracking.

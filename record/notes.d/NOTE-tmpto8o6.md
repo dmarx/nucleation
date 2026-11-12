@@ -53,21 +53,21 @@ stones; open-ended exploration; imp@k; editable boundary.
 
 ## Bearing on the record
 
-QUESTION-tmp7a7l4 lists it among "prior art on self-improving agents", unread. **Accurate**, and
+[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) lists it among "prior art on self-improving agents", unread. **Accurate**, and
 understated: imp@k with a fixed starting task agent and a matched iteration budget *is* the test
-the question attributes to LIT-2273, "earlier and later improvers from identical starting
+the question attributes to [LIT-2273](../literature.d/LIT-2273.md), "earlier and later improvers from identical starting
 artifacts under matched budgets". This paper is a positive instance of that test in four domains.
 
-- **QUESTION-tmp7a7l4** (can a record-keeping collective become a better improver without losing
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)** (can a record-keeping collective become a better improver without losing
   correctability?): **bears directly on the "better improver" half**: it reports a later improver
   beating an earlier one from the same start at the same budget, for a single agent lineage, not
   a collective, and with nothing kept like the record. It **leaves open** the correctability half:
   the evaluator and selection are outside the editable boundary by design, so damage to them is
   never tested.
-- **CASE-tmpy1ebu** (improver transplant and apparatus damage): **supports** the transplant arm
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (improver transplant and apparatus damage): **supports** the transplant arm
   (the meta-agent-only transfer is that arm) and its outer evaluation boundary (A.5 states the
   same boundary and reason). Its damage arm has no counterpart in the paper.
-- **QUESTION-388** (programmable system vs one governing its own reconfiguration) and **CLAIM-485**
+- **[QUESTION-388](../questions.d/QUESTION-388.md)** (programmable system vs one governing its own reconfiguration) and **[CLAIM-485](../claims.d/CLAIM-485.md)**
   (endogenous governance adds revision of its own governing standards): **leaves open / qualifies**:
   DGM-H edits its improvement procedure but not its evaluation standard; in the record's terms it
   revises how it improves, not what counts as improvement.

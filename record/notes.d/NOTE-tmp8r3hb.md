@@ -50,9 +50,9 @@ The exchange (A14's chart, decoded exchange lines 650–652): "ICLR 2025 · best
 
 The LIT names no code. On recheck:
 
-- **CLAIM-470** (inquiry as specification: a question fixes which differences would count as an answer): **illustrates**. DiscoveryBench's goals are formed by masking one dimension of a hypothesis, so the goal fixes what kind of difference (a context, a variable set, a relationship) would answer it; goals that leave context or variables open are harder than those that fix them.
-- **TERM-092** (inquiry frontier at a budget): **leaves open**; workflow length as a difficulty measure is a crude analogue, not a test.
-- **CLAIM-266 / CASE-144** (evaluation): the benchmark's evaluation is an LLM judge; the paper does not test its agreement with humans in the main text. Leaves open.
+- **[CLAIM-470](../claims.d/CLAIM-470.md)** (inquiry as specification: a question fixes which differences would count as an answer): **illustrates**. DiscoveryBench's goals are formed by masking one dimension of a hypothesis, so the goal fixes what kind of difference (a context, a variable set, a relationship) would answer it; goals that leave context or variables open are harder than those that fix them.
+- **[TERM-092](../terms.d/TERM-092.md)** (inquiry frontier at a budget): **leaves open**; workflow length as a difficulty measure is a crude analogue, not a test.
+- **[CLAIM-266](../claims.d/CLAIM-266.md) / [CASE-144](../cases.d/CASE-144.md)** (evaluation): the benchmark's evaluation is an LLM judge; the paper does not test its agreement with humans in the main text. Leaves open.
 
 ## Limitations
 

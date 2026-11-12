@@ -20,7 +20,7 @@ implementations: []
 summary: >-
   Garold Stasser and William Titus (1985), Journal of Personality and Social Psychology, DOI 10.1037/0022-3514.48.6.1467. Here because A cited it in the exchange "luria experiment design" at A39 (§2), for the hidden-profile paradigm: groups with overlapping but incomplete information discuss what they share and miss the solution only pooled information shows. It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) and [CLAIM-403](../claims.d/CLAIM-403.md); [LIT-1399](LIT-1399.md) (the hidden-profile meta-analysis) and [LIT-2294](LIT-2294.md) (HiddenBench) are held. What A says of it is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-1399 LIT-2294 — Deferred, Unavailable; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: LIT-1399 — Deferred, Unavailable; cited for what each holds, not as settled -->
 
 # LIT-tmpmnde8: Pooling of unshared information in group decision making: Biased information sampling during discussion
 

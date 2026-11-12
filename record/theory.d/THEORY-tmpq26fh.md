@@ -17,7 +17,7 @@ bears_on:
 corroborates:
 - CLAIM-266
 summary: >-
-  The central account of LIT-2318, read in NOTE-tmpushvg. Proposed until its
+  The central account of [LIT-2318](../literature.d/LIT-2318.md), read in [NOTE-tmpushvg](../notes.d/NOTE-tmpushvg.md). Proposed until its
   promote_when is met.
 ---
 

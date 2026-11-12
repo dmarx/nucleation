@@ -70,12 +70,12 @@ quality–cost trade-off.
 
 ## Bearing on the record
 
-QUESTION-tmpxq2sb records that A31 named AsynCodeBench as an "external test".
+[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) records that A31 named AsynCodeBench as an "external test".
 Fair: it is an external benchmark of multi-agent coordination. Note: its shared medium is a code repository with no shared notes or record
 arm; the protocols vary handoff, concurrency and a manager, not a typed
 record, so it would need an added arm to test the question.
 
-- **QUESTION-tmpxq2sb** (does a shared, typed, governed record help agents
+- **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md)** (does a shared, typed, governed record help agents
   holding different parts of the evidence integrate it, beyond a structured
   protocol, and at which stage?): **supports** the question's methodological
   premise that a task-level score can hide integration failure: here tests
@@ -86,12 +86,12 @@ record, so it would need an added arm to test the question.
   repairing manager arms help some models and hurt others. It does not test
   a record; leaves the question open.
 
-- **CLAIM-346** (Active: feasibility, aggregation and epistemic coordination
+- **[CLAIM-346](../claims.d/CLAIM-346.md)** (Active: feasibility, aggregation and epistemic coordination
   are independent obstructions): the paper's split of coding capability from
   collaboration capability is an empirical separation in the same spirit
   (individual competence present, coordination absent); it does not map onto
   the claim's three terms exactly. Illustrative.
-- **CLAIM-403** (stages of a contribution's admission, recognition,
+- **[CLAIM-403](../claims.d/CLAIM-403.md)** (stages of a contribution's admission, recognition,
   credibility, uptake): the gap between an integrated artifact and a
   satisfied dependency is a case of output admitted without uptake;
   illustrative, no stage-level measurement.

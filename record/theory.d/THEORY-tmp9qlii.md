@@ -20,7 +20,7 @@ corroborates:
 - CLAIM-346
 - CLAIM-403
 summary: >-
-  The central account of LIT-2294, read in NOTE-tmpr7r0u. Proposed until its
+  The central account of [LIT-2294](../literature.d/LIT-2294.md), read in [NOTE-tmpr7r0u](../notes.d/NOTE-tmpr7r0u.md). Proposed until its
   promote_when is met.
 ---
 

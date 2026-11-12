@@ -94,15 +94,15 @@ covering) model, diagnosis from first principles vs. from experience.
 ## Bearing on the record
 
 The LIT carries no characterization beyond "cited ... as a reading". The
-exchange (via CASE-194's and CASE-tmpvq90k's notes of 2026-11-12) has A50 say
+exchange (via [CASE-194](../cases.d/CASE-194.md)'s and [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)'s notes of 2026-11-12) has A50 say
 "Diagnosing different hidden failures through targeted probes is not a new
-experimental idea" and CASE-tmpvq90k calls Reiter and de Kleer–Williams "the
+experimental idea" and [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md) calls Reiter and de Kleer–Williams "the
 source of candidate-diagnosis sets and probe selection". Accurate for
 candidate-diagnosis sets (Theorem 4.4) and for what probes can establish
 (§5). Probe *selection* (which measurement to make next) is, by Reiter's own
-account in §7, de Kleer and Williams's contribution, not his; one should attribute it to LIT-2316, not to both.
+account in §7, de Kleer and Williams's contribution, not his; one should attribute it to [LIT-2316](../literature.d/LIT-2316.md), not to both.
 
-- **CASE-tmpvq90k** (one surface failure, several hidden causes, probe
+- **[CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)** (one surface failure, several hidden causes, probe
   budget): **supports** the prior-art claim that candidate-cause sets and
   measurement-based discrimination are established, and supplies the formal
   baseline A50 asks for ("a conventional model-based diagnostic planner").
@@ -111,9 +111,9 @@ account in §7, de Kleer and Williams's contribution, not his; one should attrib
   rule that rewards narrowing a fixed candidate list would mis-score the
   multiple-cause worlds; (2) Reiter's theory needs the failable parts
   enumerated in advance (§7), which is exactly what fails when the cause is
-  a missing or distorting category (A50's added cause, LIT-tmpjqgyi). That
+  a missing or distorting category (A50's added cause, [LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md)). That
   marks where the case goes beyond model-based diagnosis.
-- **CASE-194** (one failure, three causes: observation, actuation, authority):
+- **[CASE-194](../cases.d/CASE-194.md)** (one failure, three causes: observation, actuation, authority):
   **leaves open / qualifies**. The case's three causes can be cast as
   components in Reiter's sense, and the theory then says the observation
   "50% on one task" has several diagnoses that only further measurement
@@ -122,22 +122,22 @@ account in §7, de Kleer and Williams's contribution, not his; one should attrib
   policies" is not a component fault and has no place in SD/COMPONENTS
   without remodeling. The construction is unaffected.
 
-- **THEORY-462** (Active) and **THEORY-1239** (Proposed), on defaults that
+- **[THEORY-462](../theory.d/THEORY-462.md)** (Active) and **[THEORY-1239](../theory.d/THEORY-1239.md)** (Proposed), on defaults that
   later evidence displaces and monotonic logic: Reiter §6.2 is a worked
   instance, diagnosis as default reasoning over ¬AB assumptions in which an
   added observation removes every earlier conclusion. Supports both as an
-  example; it does not bear on Minsky's stronger claim in THEORY-1239.
-- **CLAIM-tmp8qsef** (the record computes no withdrawals) and
-  **CLAIM-293** (topology does not fix revision): Reiter is a case where a
+  example; it does not bear on Minsky's stronger claim in [THEORY-1239](../theory.d/THEORY-1239.md).
+- **[CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** (the record computes no withdrawals) and
+  **[CLAIM-293](../claims.d/CLAIM-293.md)** (topology does not fix revision): Reiter is a case where a
   graph-free logical rule *does* compute which assumptions to withdraw, but
   only given a complete SD and enumerated components; it is a contrast class
   for those claims, not evidence against them.
 - No held entry uses "hitting set", "model-based diagnosis" or "multiple
-  fault"; "conflict set" hits (CLAIM-358, CLAIM-541, SYNTHESIS-037) use the
+  fault"; "conflict set" hits ([CLAIM-358](../claims.d/CLAIM-358.md), [CLAIM-541](../claims.d/CLAIM-541.md), [SYNTHESIS-037](../syntheses.d/SYNTHESIS-037.md)) use the
   words in an unrelated sense.
 - Duplicate check: DOI, title and first author not held under any other LIT.
-  LIT-2316 (de Kleer and Williams, "Diagnosing multiple faults", AIJ 32(1),
-  DOI ...90063-4) is its companion, registered separately; LIT-1643 shares the
+  [LIT-2316](../literature.d/LIT-2316.md) (de Kleer and Williams, "Diagnosing multiple faults", AIJ 32(1),
+  DOI ...90063-4) is its companion, registered separately; [LIT-1643](../literature.d/LIT-1643.md) shares the
   AIJ prefix only.
 
 ## Limitations

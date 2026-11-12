@@ -11,7 +11,7 @@ source:
 promote_when: >-
 
 summary: >-
-  The central account of LIT-2271, read in NOTE-tmp2engi. Proposed until its
+  The central account of [LIT-2271](../literature.d/LIT-2271.md), read in [NOTE-tmp2engi](../notes.d/NOTE-tmp2engi.md). Proposed until its
   promote_when is met.
 ---
 

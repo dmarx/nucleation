@@ -80,14 +80,14 @@ memory; internal vs. answering LLM.
 
 ## Bearing on the record
 
-QUESTION-108's note: "run MEME ..., whose Cascade and Absence tasks test
+[QUESTION-108](../questions.d/QUESTION-108.md)'s note: "run MEME ..., whose Cascade and Absence tasks test
 dependent facts that stop holding". Accurate; Absence specifically tests that
 a fact that stops holding is reported as uncertain rather than replaced.
 A27's proposed arms (plain files, retrieval, typed record, typed record with
 checks; gold-fact vs raw ingestion) fit MEME's design, which already has a
 file-based arm (MD-flat) and a gold-facts ceiling.
 
-- **QUESTION-108** (when a structured record beats a summary, transcript or
+- **[QUESTION-108](../questions.d/QUESTION-108.md)** (when a structured record beats a summary, transcript or
   posterior): **supports** the question's third mechanism, making an
   operation cheap: systems that hold the rule and the change event still fail
   because nothing finds the dependants at the time of change; the one
@@ -97,7 +97,7 @@ file-based arm (MD-flat) and a gold-facts ceiling.
   overall, and its triple extraction "strip[s] the contingency wording". MEME
   is a ready external test for the record's arms; not yet run with one.
 
-- **CLAIM-tmp8qsef** (Proposed: the record computes no withdrawals;
+- **[CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** (Proposed: the record computes no withdrawals;
   retiring an entry reports what rests on it and leaves whether each dependant
   falls to judgment): MEME's Absence task is that situation (a support
   changes, no rule says what follows, the correct state is "uncertain"), and
@@ -106,13 +106,13 @@ file-based arm (MD-flat) and a gold-facts ceiling.
   supports the value of the record's reporting of dependants; the record's
   leaving the verdict to judgment corresponds to Absence's correct answer,
   not to Cascade's. Supports the claim's division; does not test it.
-- **CLAIM-293** (topology does not fix revision): MEME's gold answers *are*
+- **[CLAIM-293](../claims.d/CLAIM-293.md)** (topology does not fix revision): MEME's gold answers *are*
   fixed by the DAG plus rules; it is a setting where the claim's condition
   (same edges, different evidence) does not arise. Contrast, not evidence.
-- **CASE-091**: MEME is a candidate external task for its revision arm;
+- **[CASE-091](../cases.d/CASE-091.md)**: MEME is a candidate external task for its revision arm;
   information-equivalent conditions correspond to MEME's gold-facts ceiling.
 - No held entry names Cascade/Absence tasks or "ripple effect" in this sense
-  (LIT-706's "ripple effect" is emotional contagion). Duplicate check: arXiv
+  ([LIT-706](../literature.d/LIT-706.md)'s "ripple effect" is emotional contagion). Duplicate check: arXiv
   id and title not held elsewhere.
 
 ## Limitations

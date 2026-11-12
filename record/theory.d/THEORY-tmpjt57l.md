@@ -18,7 +18,7 @@ bears_on:
 corroborates:
 - CLAIM-403
 summary: >-
-  The central account of LIT-2308, read in NOTE-tmphk8w6. Proposed until its
+  The central account of [LIT-2308](../literature.d/LIT-2308.md), read in [NOTE-tmphk8w6](../notes.d/NOTE-tmphk8w6.md). Proposed until its
   promote_when is met.
 ---
 

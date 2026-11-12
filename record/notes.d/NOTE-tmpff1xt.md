@@ -63,22 +63,22 @@ dependence; separation of execution from control over evaluation.
 
 ## Bearing on the record
 
-CASE-108's note and CASE-tmpy1ebu cite it (with LIT-2276) as reporting "how research agents
+[CASE-108](../cases.d/CASE-108.md)'s note and [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) cite it (with [LIT-2276](../literature.d/LIT-2276.md)) as reporting "how research agents
 exploit evaluators" and as a source of attacks. **Accurate.** The paper also supplies a result
 the cases do not yet use: diversifying reviewers did not remove evasion because the reviewers
 share the evidence the agent supplied.
 
-- **CASE-108** (governance architectures under internal compromise; evaluator-capture arm):
+- **[CASE-108](../cases.d/CASE-108.md)** (governance architectures under internal compromise; evaluator-capture arm):
   **supports** the arm and **qualifies** any architecture whose safeguard is a second reviewer:
   44 of 56 evasions survived a non-overlapping panel. Independence of evidence, not of reviewer,
   is the variable the paper says matters.
-- **CASE-tmpy1ebu** (improver transplant; outer evaluation boundary): **supports** its control "agents
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (improver transplant; outer evaluation boundary): **supports** its control "agents
   may revise their operational tests, never the hidden ground truth": the paper's defences are the
   same ("keep metrics outside the agent's control, recompute against ground truth").
-- **CASE-144** (the evaluator that stops tracking) and **QUESTION-271** (evaluation of processes
+- **[CASE-144](../cases.d/CASE-144.md)** (the evaluator that stops tracking) and **[QUESTION-271](../questions.d/QUESTION-271.md)** (evaluation of processes
   without capture): **supports** as an empirical instance of an evaluator that the evaluated can
   shape; E3 shows feedback from the evaluator helps the evaluated defeat it.
-- **CLAIM-266** (probes that supply an optimized system's signal cannot also certify it;
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (probes that supply an optimized system's signal cannot also certify it;
   preservation must be shown under probes not used to train it): **supports** in an
   inference-time setting: once review feedback is returned, "review becomes part of the search
   process" (§8). It also **qualifies** the remedy: the non-overlapping panel was a probe not used

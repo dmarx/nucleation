@@ -60,20 +60,20 @@ Prior-Authority Interaction Test; mixed no-tool/tool inference as authority allo
 
 ## Bearing on the record
 
-CASE-188's note: tool evidence that turns correct answers wrong (LIT-2284). **Accurate**, and
+[CASE-188](../cases.d/CASE-188.md)'s note: tool evidence that turns correct answers wrong ([LIT-2284](../literature.d/LIT-2284.md)). **Accurate**, and
 the paper adds two points the note omits: the harm occurs even when the tool's result is correct
 (the damage is in the revision, not the evidence), and the same clue's damage depends on the
 framing of its authority. The LIT's title and date conflate v1 and v2 (above).
 
-- **CASE-188** (corrigible resolve vs entrenchment, scored on false retraction, failure to
+- **[CASE-188](../cases.d/CASE-188.md)** (corrigible resolve vs entrenchment, scored on false retraction, failure to
   retract, time to justified revision): **supports and sharpens the design.** The paper's
   positive-gap/negative-gap split is a model-level instance of false retraction against justified
   revision, and PAIT is a working template for A36 E7's perturbations: hold the clue fixed, vary
   its framing. Its "antidote" frame is an instance of conditioning authority on the prior.
-- **CLAIM-349** (access, authority and action separable; adaptive regulation conditions authority
+- **[CLAIM-349](../claims.d/CLAIM-349.md)** (access, authority and action separable; adaptive regulation conditions authority
   on evidence): **supports, as an LLM instance.** The paper's λ is explicitly "revision authority"
   over access the model already has, and the optimum is conditional on the internal evidence.
-- **CLAIM-344** (resolve is maintained precedence and revision, not mere persistence): **supports**
+- **[CLAIM-344](../claims.d/CLAIM-344.md)** (resolve is maintained precedence and revision, not mere persistence): **supports**
   by analogy: the protection principle preserves strong priors against weaker external support
   while letting stronger support revise.
 

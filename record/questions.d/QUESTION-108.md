@@ -37,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 CLAIM-190 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-tmp8qsef LIT-tmp9oc9e LIT-tmpiufjk LIT-tmppcaeo LIT-tmpqhq20 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: LIT-2279 LIT-2281 LIT-2282 SYNTHESIS-015 — Deferred, Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: SYNTHESIS-015 — Deferred, Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: CASE-tmp8rg2s — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
 # QUESTION-108: When a structured record does better than a summary, a transcript or a posterior on revision tasks, is it because it retains more, because what it retains is easier to reach, or because the operations a reviser needs are easier to perform on it?

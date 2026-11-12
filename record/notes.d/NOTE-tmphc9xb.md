@@ -22,7 +22,6 @@ summary: >-
   template-free, which runs a four-stage agentic tree search over
   experiments.
 ---
-<!-- inactive-ok-file: LIT-2273 — Deferred; cited for what each holds, not as settled -->
 
 # NOTE-tmphc9xb: Lu et al. — Towards end-to-end automation of AI research
 

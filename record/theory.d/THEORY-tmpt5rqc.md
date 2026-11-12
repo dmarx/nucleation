@@ -15,7 +15,7 @@ promote_when: >-
 corroborates:
 - CLAIM-349
 summary: >-
-  The central account of LIT-2284, read in NOTE-tmpxchji. Proposed until its
+  The central account of [LIT-2284](../literature.d/LIT-2284.md), read in [NOTE-tmpxchji](../notes.d/NOTE-tmpxchji.md). Proposed until its
   promote_when is met.
 ---
 
