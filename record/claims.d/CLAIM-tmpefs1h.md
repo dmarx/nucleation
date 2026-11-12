@@ -93,3 +93,33 @@ written ([CASE-131](../cases.d/CASE-131.md)'s came from a converse the tool wrot
 - Not how to tell, in general, a forced relation from an asserted one.
   [CASE-131](../cases.d/CASE-131.md)'s "What it does not show" holds that a forced move producing
   nothing false leaves no trace.
+
+## Note of 2026-11-12: a design proposal for the luria tool, from "luria experiment design"
+
+The filer's own idea after filing the exchange, accepted by the owner, and
+a proposal for the luria tool, not a change to this record or to luria.
+This claim needs a test of which relations were asserted, and says the
+record can apply one only where the history shows how a relation came to
+be written. The tool could make that test mechanical.
+
+In this record's grammar a converse field (`supports` on CLAIM,
+`corroborated_by`, `integrated_by` and the like) is declared as written by
+`luria link --fix` from the forward relation on the other entry
+(docs/record.md). CASE-131's false dependency began when a person wrote
+into a converse field, `supports: CLAIM-296`, and the link fixer then
+wrote the forward relation, `rests_on`, onto CLAIM-296: the asserted side
+and the derived side were swapped, and nothing in the files records which
+was which. The proposal: the tool records, for every value in a declared
+converse field, whether it derived it from a forward relation or found it
+already written; and it reports a hand-written converse value instead of
+deriving the forward relation from it. A migration can then rebuild every
+converse from the forward relations under the new grammar, carry forward
+only what someone asserted, and send each hand-written converse to a
+judgement, which is this claim's criterion applied by the tool.
+
+Whether luria already reports hand-written converse values was not checked
+here; the luria repository was not consulted for this note. The proposal
+would be defeated by finding that it does, or that every converse in this
+record can already be told from git history alone at no greater cost. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

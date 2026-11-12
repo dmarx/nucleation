@@ -4,7 +4,7 @@ title: 'Halpern and Moses''s result on unreliable channels applies to a record r
 version: 1
 form: formal-application
 grounds:
-- LIT-1213
+- THEORY-tmp4cr0g
 concludes:
 - CLAIM-tmpyp3u3
 tags:
@@ -17,46 +17,48 @@ line:
 summary: >-
   From the exchange "luria experiment design" (2026-11-10), A32 §1:
   "publishing a record does not establish common knowledge", with Halpern
-  and Moses cited for the distinction. The inference from [LIT-1213](../literature.d/LIT-1213.md), as
-  [NOTE-1381](../notes.d/NOTE-1381.md) reads it, to the fourth row of [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md). Proposed. The
+  and Moses cited for the distinction. The inference from THEORY-tmp4cr0g, the reading of
+  LIT-1213 in NOTE-1381, to the fourth row of CLAIM-tmpyp3u3. Proposed. The
   theorems apply once reading the record is modelled as receiving a
-  message whose time of arrival is unbounded and unacknowledged, which is
+  message whose time of arrival is uncertain and unacknowledged, which is
   how the record is read; a record that every collaborator reads at a
-  shared clock tick is outside it. [LIT-1213](../literature.d/LIT-1213.md) is a work cited, read in
-  [NOTE-1381](../notes.d/NOTE-1381.md), with no THEORY of its own yet, so the ground is the weakest
-  kind. The citation is A's (ChatGPT's); the wording is the assistant's
+  shared clock tick is outside it. First filed on LIT-1213 alone; moved to
+  the THEORY, filed the same day at the owner's acceptance of the filer's
+  ideas, so that the ground is a reading. The citation is A's (ChatGPT's); the wording is the assistant's
   (Claude, in this session), and adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpyp3u3 — filed from the same exchange, Proposed; the claim this argument concludes -->
+<!-- inactive-ok-file: THEORY-tmp4cr0g — Proposed, filed the same day; the reading this argument starts from -->
 
 # ARG-tmpbuocw: Halpern and Moses's result on unreliable channels applies to a record read asynchronously: publishing a standing does not make it common knowledge
 
 ## The inference
 
-1. [NOTE-1381](../notes.d/NOTE-1381.md), reading [LIT-1213](../literature.d/LIT-1213.md): over a channel whose deliveries are not
-   guaranteed, no fact becomes common knowledge that was not common
-   knowledge at the start (Theorem 5); the same holds when delivery is
-   guaranteed but its time is unbounded (Theorem 7); and asynchronous
-   channels cannot give ε-common knowledge (Theorem 11).
+1. THEORY-tmp4cr0g, from NOTE-1381's reading of LIT-1213: over a channel
+   whose deliveries are not guaranteed, no fact becomes common knowledge
+   that was not common knowledge at the start (Theorem 5), and the same
+   holds when start and delivery times are uncertain, even if every
+   message arrives (Theorem 8). NOTE-1381 followed both proofs.
 2. A collaborator learns the record's current standing by reading it: a
    pull or a fresh session that happens at a time no one else observes,
    with no acknowledgement written back. A32: an agent "could have an
    outdated checkout, miss a notification, misunderstand a status, or fail
    to inspect a relevant objection".
 3. So, between collaborators, the record's standing travels over a channel
-   of the kind in 1: delivered, if at all, at unbounded and unobserved
+   of the kind in 1: delivered, if at all, at uncertain and unobserved
    times.
 4. So publishing a standing in the record does not make it common
    knowledge among the collaborators that the record endorses it, which is
-   the fourth row of [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md).
+   the fourth row of CLAIM-tmpyp3u3.
 
 ## Critical questions
 
-- **Does the theorem's premise hold of the case?** Theorems 5 and 7
-  concern messages between processors with no shared clock or bounded
-  delay. A collaborator who reads the record at a time fixed in advance
-  and known to all, against a shared clock, is outside them: Theorem 12
-  gives eventual common knowledge if every clock reaches the time. The
+- **Does the theorem's premise hold of the case?** Theorems 5 and 8
+  concern messages between processors that may be lost or whose timing is
+  uncertain. A collaborator who reads the record at a time fixed in advance
+  and known to all, against a shared clock, is outside them: the paper's
+  timestamped common knowledge (Theorem 12, a statement NOTE-1381 did not
+  check) is how such a team would get the eventual form. The
   record imposes no such reading schedule, and its sessions start when
   they start. Where a team does impose one, step 3 fails and the
   conclusion does not follow for that team.
@@ -65,10 +67,10 @@ summary: >-
   that way is an empirical fact about the team, not about the record,
   which is why the claim speaks of what the record represents by itself.
 - **Does the conclusion overreach?** It says common knowledge is not
-  established, not that coordination fails. [NOTE-1381](../notes.d/NOTE-1381.md) itself separates
+  established, not that coordination fails. NOTE-1381 itself separates
   the impossibility of guaranteed simultaneous action from weaker
   coordination that remains possible.
-- **Is [LIT-1213](../literature.d/LIT-1213.md) enough as a ground?** It is a work cited, though read in
-  [NOTE-1381](../notes.d/NOTE-1381.md). A THEORY drawn from that reading would be the stronger
-  footing; until one is filed, the ground is [NOTE-1381](../notes.d/NOTE-1381.md)'s statement of the
-  theorems.
+- **Is the ground a reading?** Yes, since THEORY-tmp4cr0g. Its title
+  is limited to the theorems NOTE-1381 checked; the claim needs no more
+  than Theorem 8, which holds even if no reading is ever missed: uncertain
+  timing suffices.

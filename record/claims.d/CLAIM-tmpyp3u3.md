@@ -25,7 +25,7 @@ line:
 rests_on:
 - CLAIM-346
 grounds:
-- LIT-1213
+- THEORY-tmp4cr0g
 uses:
 - TERM-tmp8deza
 bears_on:
@@ -44,7 +44,7 @@ summary: >-
   read asynchronously. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: TERM-tmp8deza ARG-tmpbuocw — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-tmp8deza ARG-tmpbuocw THEORY-tmp4cr0g — filed from the same exchange, Proposed -->
 
 # CLAIM-tmpyp3u3: A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have
 
@@ -83,13 +83,12 @@ an entry after a shared update.
 [CLAIM-346](CLAIM-346.md) holds epistemic coordination as an obstruction of its own,
 constructed with the coordinated-attack problem: a feasible, preferred
 joint action can fail because the agents cannot know that they know.
-Halpern and Moses ([LIT-1213](../literature.d/LIT-1213.md), read in [NOTE-1381](../notes.d/NOTE-1381.md)) show that common knowledge
-cannot be gained over a channel whose deliveries are not guaranteed
-(Theorem 5), nor over one whose deliveries are guaranteed but take
-unbounded time (Theorem 7), and that asynchronous channels cannot give
-even ε-common knowledge (Theorem 11). A record read asynchronously, from
+Halpern and Moses (LIT-1213, read in NOTE-1381; THEORY-tmp4cr0g) show
+that common knowledge cannot be gained over a channel whose deliveries are
+not guaranteed (Theorem 5), nor over one that delivers every message but
+at uncertain times (Theorem 8). A record read asynchronously, from
 checkouts that may be stale, with no acknowledgement of who has read what,
-is such a channel for its standing ([ARG-tmpbuocw](../arguments.d/ARG-tmpbuocw.md)). Publishing the standing
+is such a channel for its standing (ARG-tmpbuocw). Publishing the standing
 therefore makes it available, not commonly known.
 
 ## What it does not say
@@ -97,7 +96,7 @@ therefore makes it available, not commonly known.
 - Not that the record is useless for coordination. Much coordination needs
   less than common knowledge, and [NOTE-1381](../notes.d/NOTE-1381.md) records that timestamped
   common knowledge, with clocks every collaborator shares, gives the
-  eventual form (Theorem 12). The claim is about what the record
+  eventual form (Theorem 12, unchecked there). The claim is about what the record
   represents, not about what suffices.
 - Not that the record represents nothing about belief. An entry's author
   and role say who put a proposition forward and in what voice. That is a
