@@ -77,7 +77,7 @@ unshared part is pooled. The human meta-analysis is held ([LIT-1399](../literatu
 | A3 | a record with fixed schemes for evidence, hypotheses, objections and source standing |
 | A4 | A3 with an explicit verification and integration procedure |
 
-AS and AS+ were added at the owner's review of #484 (2026-11-12); the rest
+AS and AS+ were added at the owner's review of [#484](https://github.com/dmarx/nucleation/issues/484) (2026-11-12); the rest
 are A39's.
 
 **Shared notes are not Secretary.** A2 is not meant to reproduce AS, and

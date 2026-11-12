@@ -83,10 +83,10 @@ weak static-ontology baseline" (A45); and a governed plain-Markdown
 baseline, to separate the review process from the record's machinery.
 The primary estimand is the interaction, which [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) predicts
 positive on misfit tasks. A secondary estimand, set apart at the owner's
-review of #484, compares the governed with the ungoverned arms on the tasks
+review of [#484](https://github.com/dmarx/nucleation/issues/484), compares the governed with the ungoverned arms on the tasks
 where no schema change is warranted: justified correction, source
 verification, provenance and review quality, against cost. It tests
-CLAIM-tmpbszhs, which predicts no benefit there. The two are reported
+[CLAIM-tmpbszhs](../claims.d/CLAIM-tmpbszhs.md), which predicts no benefit there. The two are reported
 separately and neither is read from the other: a benefit of governance on
 routine tasks leaves the interaction as it was.
 

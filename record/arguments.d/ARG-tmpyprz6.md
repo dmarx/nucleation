@@ -74,7 +74,7 @@ summary: >-
   content"), no tasks set apart as ones whose categories are inadequate,
   and no held-out regression of what the old schema could express. Its
   rejected patches are logged with a stated expected effect, a thin form
-  of rationale, but no arm varies it. Nor does it bear on CLAIM-tmpbszhs,
+  of rationale, but no arm varies it. Nor does it bear on [CLAIM-tmpbszhs](../claims.d/CLAIM-tmpbszhs.md),
   the secondary prediction split from this claim, since it has no
   ungoverned arm on tasks that need no schema change.
 - **Is the −8.7 for schema-only evolution the claim's premise?** Only in
