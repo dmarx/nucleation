@@ -117,7 +117,7 @@ optimal"; historical cases serve "motivation, task development, and
 qualitative process tracing", and confirmation needs "unseen problems with
 independent semantic criteria". A43 §12: keep "a genuine outer evaluation
 boundary", since agents that can rewrite the criterion that judges their
-improvements are being certified by the probes they optimize. ARG-028's
+improvements are being certified by the probes they optimize. [ARG-028](../arguments.d/ARG-028.md)'s
 open dispute, whether measures computed in the grammar can certify that
 drift fell, is the same point about the record's own measures. The claim
 is unchanged.

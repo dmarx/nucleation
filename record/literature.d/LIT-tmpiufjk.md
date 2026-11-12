@@ -20,7 +20,7 @@ first_author: 'Park'
 keywords: []
 implementations: []
 summary: >-
-  Joon Sung Park et al. (2023), arXiv 2304.03442. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for agent memory with retrieval and reflection; A sets "remembering information" against "maintaining an accountable body of claims". It bears on QUESTION-108. What A says of it is unverified until read.
+  Joon Sung Park et al. (2023), arXiv 2304.03442. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for agent memory with retrieval and reflection; A sets "remembering information" against "maintaining an accountable body of claims". It bears on [QUESTION-108](../questions.d/QUESTION-108.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmpiufjk: Generative Agents: Interactive Simulacra of Human Behavior
@@ -33,4 +33,4 @@ Joon Sung Park et al. (2023). arXiv 2304.03442.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on QUESTION-108.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [QUESTION-108](../questions.d/QUESTION-108.md).

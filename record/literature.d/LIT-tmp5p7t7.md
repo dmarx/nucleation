@@ -19,7 +19,7 @@ first_author: 'Shumailov'
 keywords: []
 implementations: []
 summary: >-
-  Ilia Shumailov et al. (2024), Nature, DOI 10.1038/s41586-024-07566-y. Here because A cited it in the exchange "luria experiment design" at A43 (§11), for compounding errors when generations train on predecessors' outputs; A treats it as a caution, testable in a record as loss of source diversity, derivative claims cited as independent evidence, and narrowing categories, and says it does not show a record will collapse. It bears on QUESTION-tmp7a7l4; LIT-971 is held. What A says of it is unverified until read.
+  Ilia Shumailov et al. (2024), Nature, DOI 10.1038/s41586-024-07566-y. Here because A cited it in the exchange "luria experiment design" at A43 (§11), for compounding errors when generations train on predecessors' outputs; A treats it as a caution, testable in a record as loss of source diversity, derivative claims cited as independent evidence, and narrowing categories, and says it does not show a record will collapse. It bears on [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md); [LIT-971](LIT-971.md) is held. What A says of it is unverified until read.
 ---
 
 # LIT-tmp5p7t7: AI models collapse when trained on recursively generated data
@@ -32,4 +32,4 @@ Ilia Shumailov et al. (2024), Nature. DOI 10.1038/s41586-024-07566-y.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A43 (§11). It bears on QUESTION-tmp7a7l4; LIT-971 is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A43 (§11). It bears on [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md); [LIT-971](LIT-971.md) is held.

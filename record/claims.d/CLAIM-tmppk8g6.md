@@ -76,15 +76,15 @@ broader regression process may reveal the problem."
 
 ## Admission
 
-Filed under the synthesis audit (ADR-075's step 5) by the route of a
-**discriminating prediction**. The components A45 integrates, CLAIM-419
-(the grammar is amended by decision when a misfit is noticed), CASE-178
-(refinements came with an ADR nine times in ten), TERM-085 (correctability)
-and CLAIM-470 (inquiry can revise what counts as an answer), say that the
+Filed under the synthesis audit ([ADR-075](../decisions.d/ADR-075.md)'s step 5) by the route of a
+**discriminating prediction**. The components A45 integrates, [CLAIM-419](CLAIM-419.md)
+(the grammar is amended by decision when a misfit is noticed), [CASE-178](../cases.d/CASE-178.md)
+(refinements came with an ADR nine times in ten), [TERM-085](../terms.d/TERM-085.md) (correctability)
+and [CLAIM-470](CLAIM-470.md) (inquiry can revise what counts as an answer), say that the
 record couples schema change to decision. None says the coupling changes
 what modifiability is worth, and all of them hold whichever sign Δ takes.
 The outcome against the claim is stated in `defeated_if`; the study that
-would measure it is CASE-tmppm4do.
+would measure it is [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).
 
 ## What it does not say
 
@@ -92,7 +92,7 @@ would measure it is CASE-tmppm4do.
   zero interaction, if governance and modifiability each help on their
   own.
 - Not that formal governance is better than performance gating. A48 makes
-  performance-gated evolution, as in EvoOntology (LIT-2311), "a serious
+  performance-gated evolution, as in EvoOntology ([LIT-2311](../literature.d/LIT-2311.md)), "a serious
   comparator"; the claim is defeated if it does as well.
 - Not which governance mechanism does the work. The claim is about the
   combination of review, rationale and migration as one treatment; A48 §6

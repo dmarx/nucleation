@@ -19,7 +19,7 @@ first_author: 'Bansal'
 keywords: []
 implementations: []
 summary: >-
-  Gagan Bansal et al. (2021), CHI 2021, DOI 10.1145/3411764.3445717. Here because A cited it in the exchange "luria experiment design" at A39 (§4), for explanations raised acceptance of AI recommendations whether or not they were correct. It bears on CASE-188 and CLAIM-349; LIT-2283 (cognitive forcing) is held. What A says of it is unverified until read.
+  Gagan Bansal et al. (2021), CHI 2021, DOI 10.1145/3411764.3445717. Here because A cited it in the exchange "luria experiment design" at A39 (§4), for explanations raised acceptance of AI recommendations whether or not they were correct. It bears on [CASE-188](../cases.d/CASE-188.md) and [CLAIM-349](../claims.d/CLAIM-349.md); [LIT-2283](LIT-2283.md) (cognitive forcing) is held. What A says of it is unverified until read.
 ---
 <!-- inactive-ok-file: LIT-2283 — Deferred; cited for what each holds, not as settled -->
 
@@ -33,4 +33,4 @@ Gagan Bansal et al. (2021), CHI 2021. DOI 10.1145/3411764.3445717.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§4). It bears on CASE-188 and CLAIM-349; LIT-2283 (cognitive forcing) is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§4). It bears on [CASE-188](../cases.d/CASE-188.md) and [CLAIM-349](../claims.d/CLAIM-349.md); [LIT-2283](LIT-2283.md) (cognitive forcing) is held.

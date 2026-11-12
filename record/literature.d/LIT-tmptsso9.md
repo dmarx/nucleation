@@ -19,7 +19,7 @@ first_author: 'Tudorache'
 keywords: []
 implementations: []
 summary: >-
-  Tania Tudorache et al. (2013), Semantic Web 4(1), DOI 10.3233/sw-2012-0057. Here because A cited it in the exchange "luria experiment design" at A22, for collaborative ontology editing with change history and discussion. It bears on QUESTION-tmps5iou. What A says of it is unverified until read.
+  Tania Tudorache et al. (2013), Semantic Web 4(1), DOI 10.3233/sw-2012-0057. Here because A cited it in the exchange "luria experiment design" at A22, for collaborative ontology editing with change history and discussion. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmptsso9: WebProtégé: A collaborative ontology editor and knowledge acquisition tool for the Web
@@ -32,4 +32,4 @@ Tania Tudorache et al. (2013), Semantic Web 4(1). DOI 10.3233/sw-2012-0057.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).

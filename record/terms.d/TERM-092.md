@@ -123,5 +123,5 @@ careful prose and extensive reasoning", the outcome "is not absolute
 expressibility, but task-relative reachability under a budget", which is
 this term's sense. A48 §6 splits it into question formulation, question
 execution, and negative transfer, "Does the new representation make other
-legitimate questions harder to ask or answer?" CASE-tmppm4do uses the
+legitimate questions harder to ask or answer?" [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) uses the
 three. The definition is unchanged.

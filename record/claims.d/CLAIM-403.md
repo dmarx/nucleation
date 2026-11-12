@@ -258,18 +258,18 @@ No status, title or warrant changes.
 Three turns of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to measure this claim's stages. A34 §4 read it
 as defining the shared state a record gives its collaborators: "It is a
 structure that determines which contributions can become consequential, and
-under what conditions" (now in TERM-tmp8deza). A36 E3 proposes gates at each
+under what conditions" (now in [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md)). A36 E3 proposes gates at each
 stage, admission, representation, evidential, uptake and governance, with
 evidential merit held fixed, and a measure, "**schema-fit disparity**": "how
 much less likely is an equally relevant but initially unclassifiable
 contribution to affect the final conclusion?" It adds the caution that this
 is "not be treated automatically as social discrimination", since the
 mechanism tested is "representational compatibility". A39 Study A proposes
-the acknowledgement-against-uptake arm of CASE-tmpiocs1: "If the clue
+the acknowledgement-against-uptake arm of [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md): "If the clue
 appears in the shared record but has no influence on the outcome, the
 failure occurs after admission."
 
-A50 §8 adds a distinction from Falbo (LIT-tmpjqgyi, unread) to the
+A50 §8 adds a distinction from Falbo ([LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md), unread) to the
 recognition stage: a contribution can be lost to "a missing category" or to
 "an existing category that systematically misclassifies relevant
 contributions". The claim is unchanged.

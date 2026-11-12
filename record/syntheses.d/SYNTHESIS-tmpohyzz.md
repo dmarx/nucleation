@@ -53,7 +53,7 @@ summary: >-
   manipulated variables is the owner's U15; the replacement of new tasks by
   established ones where they exist is the owner's U16. The designs and the
   one connecting claim are A's. It adds nothing: what A45 adds, the
-  interaction between governance and modifiability, is CLAIM-tmppk8g6.
+  interaction between governance and modifiability, is [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md).
   Proposed until the owner reviews the mapping.
 ---
 <!-- inactive-ok-file: CLAIM-tmppk8g6 CLAIM-tmp8qsef CLAIM-tmpyp3u3 CLAIM-tmpefs1h TERM-tmp8deza CASE-tmppm4do CASE-tmpiocs1 CASE-tmpy1ebu CASE-tmpvq90k — filed from the exchange "luria experiment design", Proposed; components with their standing -->
@@ -64,46 +64,46 @@ summary: >-
 ## The account
 
 The record describes its grammar as fixed at any moment and amended by
-decision when a misfit is noticed (CLAIM-419), and luria as an apparatus
-that differentiates, retains, enforces and revises (CLAIM-469). Three
+decision when a misfit is noticed ([CLAIM-419](../claims.d/CLAIM-419.md)), and luria as an apparatus
+that differentiates, retains, enforces and revises ([CLAIM-469](../claims.d/CLAIM-469.md)). Three
 questions ask whether that does any work, and each is the owner's.
 
-**Governed schema change.** QUESTION-tmps5iou (U8): is the coupling of
+**Governed schema change.** [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) (U8): is the coupling of
 schema change to decision, migration and checks what distinguishes luria
 from ontology and metamodel evolution, and does it do work that
 argumentation-governed or performance-gated evolution does not?
-CLAIM-tmppk8g6 (A) proposes the answer to the second half, that
+[CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) (A) proposes the answer to the second half, that
 governance raises the value of modifiability on tasks whose categories
-are inadequate, and CASE-tmppm4do (A) is the study that would measure it,
-seeded with CASE-131. CLAIM-tmpefs1h (A) says what a migration in such a
-study must preserve; CLAIM-tmp8qsef (A) says what the record leaves to
+are inadequate, and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) (A) is the study that would measure it,
+seeded with [CASE-131](../cases.d/CASE-131.md). [CLAIM-tmpefs1h](../claims.d/CLAIM-tmpefs1h.md) (A) says what a migration in such a
+study must preserve; [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md) (A) says what the record leaves to
 judgement when an entry is retired.
 
-**Distributed evidence.** QUESTION-tmpxq2sb (U12, U13): does a shared,
+**Distributed evidence.** [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) (U12, U13): does a shared,
 typed, governed record move distributed evidence into judgement better
-than a structured protocol, and at which of CLAIM-403's stages? It is
-stated in TERM-tmp8deza (A, at the owner's request), and CLAIM-tmpyp3u3
+than a structured protocol, and at which of [CLAIM-403](../claims.d/CLAIM-403.md)'s stages? It is
+stated in [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) (A, at the owner's request), and [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md)
 (A) bounds what such a record can represent of its collaborators, resting
-on CLAIM-346's third obstruction. CASE-tmpiocs1 (A) is the study,
-adapting an existing benchmark; CASE-tmpvq90k (A), from CASE-194, tests
+on [CLAIM-346](../claims.d/CLAIM-346.md)'s third obstruction. [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md) (A) is the study,
+adapting an existing benchmark; [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md) (A), from [CASE-194](../cases.d/CASE-194.md), tests
 whether a team can find which stage or level failed before it repairs.
 
-**Recursive improvement.** QUESTION-tmp7a7l4 (U17): can a collective
+**Recursive improvement.** [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) (U17): can a collective
 keeping such a record become a better improver, compared from the same
 start at the same budget, without losing the capacity to detect failures
-in its own apparatus? QUESTION-388 holds the distinction it probes.
-CASE-tmpy1ebu (A) is the study, a variant of CASE-186.
+in its own apparatus? [QUESTION-388](../questions.d/QUESTION-388.md) holds the distinction it probes.
+[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) (A) is the study, a variant of [CASE-186](../cases.d/CASE-186.md).
 
-**Across the three.** TERM-085's correctability is the outcome each study
-reports (its note of 2026-11-12). TERM-092's frontier says how a change of
-grammar would be scored (its note of 2026-11-12), and TERM-064's
-legibility is the explanation CASE-tmpvq90k's budget arms would test.
-QUESTION-108's three mechanisms are the ablations. CLAIM-266 states the
+**Across the three.** [TERM-085](../terms.d/TERM-085.md)'s correctability is the outcome each study
+reports (its note of 2026-11-12). [TERM-092](../terms.d/TERM-092.md)'s frontier says how a change of
+grammar would be scored (its note of 2026-11-12), and [TERM-064](../terms.d/TERM-064.md)'s
+legibility is the explanation [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)'s budget arms would test.
+[QUESTION-108](../questions.d/QUESTION-108.md)'s three mechanisms are the ablations. [CLAIM-266](../claims.d/CLAIM-266.md) states the
 limit every one of them shares: a study scored by the record's own past
 decisions, or by an evaluator its subjects can edit, certifies nothing.
 
 ## What is left open
 
 Each question is Open and every design unrun. No component says the
-record would do better than its comparators; CLAIM-tmppk8g6 is the only
+record would do better than its comparators; [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) is the only
 claim about outcomes, and it is a prediction with no result behind it.

@@ -19,7 +19,7 @@ first_author: 'Flouris'
 keywords: []
 implementations: []
 summary: >-
-  Giorgos Flouris et al. (2008), The Knowledge Engineering Review, DOI 10.1017/S0269888908001367. Here because A cited it in the exchange "luria experiment design" at A22 (as "Ontology evolution frameworks — Stojanovic; Flouris et al."), for processes for capturing changes, assessing their semantics, propagating consequences and validating the result. A's companion citation, "Stojanovic", names no work and is not filed. It bears on QUESTION-tmps5iou and CLAIM-419. What A says of it is unverified until read.
+  Giorgos Flouris et al. (2008), The Knowledge Engineering Review, DOI 10.1017/S0269888908001367. Here because A cited it in the exchange "luria experiment design" at A22 (as "Ontology evolution frameworks — Stojanovic; Flouris et al."), for processes for capturing changes, assessing their semantics, propagating consequences and validating the result. A's companion citation, "Stojanovic", names no work and is not filed. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmpo7zwb: Ontology change: classification and survey
@@ -32,4 +32,4 @@ Giorgos Flouris et al. (2008), The Knowledge Engineering Review. DOI 10.1017/S02
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Ontology evolution frameworks — Stojanovic; Flouris et al."). It bears on QUESTION-tmps5iou and CLAIM-419.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Ontology evolution frameworks — Stojanovic; Flouris et al."). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md).

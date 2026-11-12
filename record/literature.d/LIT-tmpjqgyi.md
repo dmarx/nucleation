@@ -19,7 +19,7 @@ first_author: 'Falbo'
 keywords: []
 implementations: []
 summary: >-
-  Arianna Falbo (2022), Hypatia, DOI 10.1017/hyp.2022.4. Here because A cited it in the exchange "luria experiment design" at A50 (§8), for a shared interpretive failure can come from an existing but distorting concept, not only from a missing one; A applies it to a schema that systematically misclassifies contributions. It bears on QUESTION-072 and CLAIM-403; LIT-1004 (Fricker) is held. What A says of it is unverified until read.
+  Arianna Falbo (2022), Hypatia, DOI 10.1017/hyp.2022.4. Here because A cited it in the exchange "luria experiment design" at A50 (§8), for a shared interpretive failure can come from an existing but distorting concept, not only from a missing one; A applies it to a schema that systematically misclassifies contributions. It bears on [QUESTION-072](../questions.d/QUESTION-072.md) and [CLAIM-403](../claims.d/CLAIM-403.md); [LIT-1004](LIT-1004.md) (Fricker) is held. What A says of it is unverified until read.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; cited for what each holds, not as settled -->
 
@@ -33,4 +33,4 @@ Arianna Falbo (2022), Hypatia. DOI 10.1017/hyp.2022.4.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§8). It bears on QUESTION-072 and CLAIM-403; LIT-1004 (Fricker) is held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§8). It bears on [QUESTION-072](../questions.d/QUESTION-072.md) and [CLAIM-403](../claims.d/CLAIM-403.md); [LIT-1004](LIT-1004.md) (Fricker) is held.

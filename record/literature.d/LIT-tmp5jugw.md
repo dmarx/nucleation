@@ -19,7 +19,7 @@ first_author: 'He'
 keywords: []
 implementations: []
 summary: >-
-  Rong He et al. (2026), arXiv 2610.14662. Here because A cited it in the exchange "luria experiment design" at A48 (§2), for no detectable target-specific repair advantage across 145 modifications in public Darwin Gödel Machine logs, and target repair not implying held-out improvement. It bears on QUESTION-tmp7a7l4 and CASE-194. What A says of it is unverified until read.
+  Rong He et al. (2026), arXiv 2610.14662. Here because A cited it in the exchange "luria experiment design" at A48 (§2), for no detectable target-specific repair advantage across 145 modifications in public Darwin Gödel Machine logs, and target repair not implying held-out improvement. It bears on [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) and [CASE-194](../cases.d/CASE-194.md). What A says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CASE-194 — Proposed; cited for what each holds, not as settled -->
 
@@ -33,4 +33,4 @@ Rong He et al. (2026). arXiv 2610.14662.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A48 (§2). It bears on QUESTION-tmp7a7l4 and CASE-194.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A48 (§2). It bears on [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) and [CASE-194](../cases.d/CASE-194.md).

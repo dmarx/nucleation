@@ -244,10 +244,10 @@ The count under "What would answer it" was run on 2026-11-06 by scratch/formal/c
 
 ## Note of 2026-11-12: maturing against entrenching, and how it might be tested, from "luria experiment design"
 
-A25 §6 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) read CASE-178's falling rate of grammar changes as open
-between maturing and entrenching, as SYNTHESIS-012 leaves it. A50 §5 adds
+A25 §6 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) read [CASE-178](../cases.d/CASE-178.md)'s falling rate of grammar changes as open
+between maturing and entrenching, as [SYNTHESIS-012](../syntheses.d/SYNTHESIS-012.md) leaves it. A50 §5 adds
 March's model of mutual learning between members and an organizational
-code (LIT-729): "A shared schema is, in part, an organizational code", and
+code ([LIT-729](../literature.d/LIT-729.md)): "A shared schema is, in part, an organizational code", and
 "the same process may systematically disadvantage findings that require
 unfamiliar categories". Its proposed test, "controlled code rigidity",
 varies the cost of proposing a category and the frequency of novel tasks

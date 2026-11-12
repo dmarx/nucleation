@@ -155,13 +155,13 @@ from characterization is Open.
 ## Note of 2026-11-12: criteria for evaluating a change of grammar, from "luria experiment design"
 
 A50 §8 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), from Carnap's explication and the conceptual-engineering
-literature (LIT-2322, unread), proposes criteria for evaluating a change to
+literature ([LIT-2322](../literature.d/LIT-2322.md), unread), proposes criteria for evaluating a change to
 the record's categories, which bear on this claim's point that choosing an
 apparatus is open to evaluation and not only verification: whether a
 category "Captures the intended distinction more faithfully", "Supports
 useful inferences or operations", "Avoids creating misleading
 implications", "Remains intelligible to other collaborators", and
 "Preserves appropriate continuity with earlier usage". "The interesting
-feature is that these desiderata can conflict." A50 reads ADR-061 as such a
+feature is that these desiderata can conflict." A50 reads [ADR-061](../decisions.d/ADR-061.md) as such a
 change: "not simply a correction to a database schema". The claim is
 unchanged.

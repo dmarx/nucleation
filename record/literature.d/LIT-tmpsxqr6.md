@@ -20,7 +20,7 @@ first_author: 'Si'
 keywords: []
 implementations: []
 summary: >-
-  Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024), arXiv 2409.04109. Here because A cited it in the exchange "luria experiment design" at A14 (§1, and its filing table as Si et al. 2025), for a controlled study with over 100 NLP researchers in which LLM-generated research proposals were rated more novel than human ones, somewhat less feasible, with weak LLM self-evaluation and little idea diversity. It bears on LIT-2329 and LIT-2318, the theory-building comparisons registered from the same exchange. What A says of it is unverified until read.
+  Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024), arXiv 2409.04109. Here because A cited it in the exchange "luria experiment design" at A14 (§1, and its filing table as Si et al. 2025), for a controlled study with over 100 NLP researchers in which LLM-generated research proposals were rated more novel than human ones, somewhat less feasible, with weak LLM self-evaluation and little idea diversity. It bears on [LIT-2329](LIT-2329.md) and [LIT-2318](LIT-2318.md), the theory-building comparisons registered from the same exchange. What A says of it is unverified until read.
 ---
 <!-- inactive-ok-file: LIT-2318 LIT-2329 — Deferred; cited for what each holds, not as settled -->
 
@@ -34,4 +34,4 @@ Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024). arXiv 2409.04109.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 (§1, and its filing table as Si et al. 2025). It bears on LIT-2329 and LIT-2318, the theory-building comparisons registered from the same exchange.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 (§1, and its filing table as Si et al. 2025). It bears on [LIT-2329](LIT-2329.md) and [LIT-2318](LIT-2318.md), the theory-building comparisons registered from the same exchange.

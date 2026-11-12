@@ -19,7 +19,7 @@ first_author: 'Jaradeh'
 keywords: []
 implementations: []
 summary: >-
-  Mohamad Yaser Jaradeh et al. (2019), K-CAP 2019, DOI 10.1145/3360901.3364435. Here because A cited it in the exchange "luria experiment design" at A20 (§1, as "ORKG"), for structured representations of research contributions compared across publications; A distinguishes a record of an evolving inquiry from a representation of published contributions. It bears on QUESTION-tmps5iou. What A says of it is unverified until read.
+  Mohamad Yaser Jaradeh et al. (2019), K-CAP 2019, DOI 10.1145/3360901.3364435. Here because A cited it in the exchange "luria experiment design" at A20 (§1, as "ORKG"), for structured representations of research contributions compared across publications; A distinguishes a record of an evolving inquiry from a representation of published contributions. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmpuxnf3: Open Research Knowledge Graph: Next Generation Infrastructure for Semantic Scholarly Knowledge
@@ -32,4 +32,4 @@ Mohamad Yaser Jaradeh et al. (2019), K-CAP 2019. DOI 10.1145/3360901.3364435.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1, as "ORKG"). It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1, as "ORKG"). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).

@@ -19,7 +19,7 @@ first_author: 'Hayes-Roth'
 keywords: []
 implementations: []
 summary: >-
-  Barbara Hayes-Roth (1985), Artificial Intelligence, DOI 10.1016/0004-3702(85)90063-3. Here because A cited it in the exchange "luria experiment design" at A31 (§2), for control of a blackboard system by a blackboard of its own, a precedent for coordination through shared structured hypotheses. It bears on QUESTION-tmpxq2sb. What A says of it is unverified until read.
+  Barbara Hayes-Roth (1985), Artificial Intelligence, DOI 10.1016/0004-3702(85)90063-3. Here because A cited it in the exchange "luria experiment design" at A31 (§2), for control of a blackboard system by a blackboard of its own, a precedent for coordination through shared structured hypotheses. It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmp4pa3f: A blackboard architecture for control
@@ -32,4 +32,4 @@ Barbara Hayes-Roth (1985), Artificial Intelligence. DOI 10.1016/0004-3702(85)900
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on QUESTION-tmpxq2sb.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).

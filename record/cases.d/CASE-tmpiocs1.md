@@ -18,7 +18,7 @@ summary: >-
   From the exchange "luria experiment design" (2026-11-10). The owner asked
   at U12 about multi-agent coordination and at U16 to "check to see if we
   can cite prior research to corroborate or replace some of these
-  experiments". A39 found that HiddenBench (LIT-2294, unread) already
+  experiments". A39 found that HiddenBench ([LIT-2294](../literature.d/LIT-2294.md), unread) already
   benchmarks distributed evidence integration, and proposed adapting it
   rather than building a new pooling task; A45 kept it as Study 1. The
   replacement of A31's and A36's own designs by an existing benchmark is
@@ -37,11 +37,11 @@ summary: >-
 From A39 §2 of the exchange "luria experiment design"
 (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda).
 
-**The tasks.** HiddenBench's 65 hidden-profile problems (LIT-2294), "without
+**The tasks.** HiddenBench's 65 hidden-profile problems ([LIT-2294](../literature.d/LIT-2294.md)), "without
 changing their evidence distribution or ground-truth answers". The
-paradigm is Stasser and Titus's (LIT-tmpmnde8): members hold overlapping
+paradigm is Stasser and Titus's ([LIT-tmpmnde8](../literature.d/LIT-tmpmnde8.md)): members hold overlapping
 but incomplete information, and the best decision appears only when the
-unshared part is pooled. The human meta-analysis is held (LIT-1399).
+unshared part is pooled. The human meta-analysis is held ([LIT-1399](../literature.d/LIT-1399.md)).
 
 **The arms** (A39):
 
@@ -65,7 +65,7 @@ the benchmark."
 The benchmark gives final accuracy. A39 instruments the process, so that a
 negative result can say where integration failed: unique-clue coverage,
 interpretation accuracy, premature commitment, source fidelity and
-decision success. These follow CLAIM-403's stages, admission, recognition,
+decision success. These follow [CLAIM-403](../claims.d/CLAIM-403.md)'s stages, admission, recognition,
 credibility and uptake.
 
 **Acknowledgement against uptake.** After an agent contributes a decisive
@@ -77,7 +77,7 @@ on the outcome, the failure occurs after admission." The falsification
 arm: an irrelevant but plausible clue, which an uptake obligation should
 not make the team overvalue.
 
-**Two budget regimes**, from CASE-091 by way of A45 Study 1: equal
+**Two budget regimes**, from [CASE-091](CASE-091.md) by way of A45 Study 1: equal
 information, to compare access and operations, and equal memory and
 computation, to compare what each substrate keeps. And A31's two fairness
 conditions: equal total compute against a single agent given everything,
@@ -87,8 +87,8 @@ and equal compute per agent.
 
 Whether the record beats a published structured protocol at integrating
 distributed evidence, and at which stage any gain occurs. Not the value of
-schema change, which CASE-tmppm4do tests. Transactive-memory experiments
-(LIT-tmpmvfl2, LIT-2272) are A39's precedent for a further arm that
+schema change, which [CASE-tmppm4do](CASE-tmppm4do.md) tests. Transactive-memory experiments
+([LIT-tmpmvfl2](../literature.d/LIT-tmpmvfl2.md), [LIT-2272](../literature.d/LIT-2272.md)) are A39's precedent for a further arm that
 separates knowing where expertise lies from communication itself, with
 standing added as a variable: "a good outcome is not just retrieving the
 correct source. It is using that source with the correct level of

@@ -15,8 +15,8 @@ summary: >-
   this"). A32 defined it against shared memory and against shared belief,
   and A34 (after the owner's U14) narrowed it to what makes contributions
   consequential. The record had no word for what its collaborators share
-  through it: CLAIM-182 says addressability anchors, CLAIM-299 separates
-  three properties of a record of inquiry, and CLAIM-418 separates a shared
+  through it: [CLAIM-182](../claims.d/CLAIM-182.md) says addressability anchors, [CLAIM-299](../claims.d/CLAIM-299.md) separates
+  three properties of a record of inquiry, and [CLAIM-418](../claims.d/CLAIM-418.md) separates a shared
   perspective from a collective agent. The wording is A's; adopting it is
   the owner's call.
 ---
@@ -61,8 +61,8 @@ model, not a formal specification of Luria's current internals".
   Proposed claim, and an entry can be authoritative within the record
   without being true.
 - **Not common knowledge.** What the record can and cannot represent of its
-  collaborators is CLAIM-tmpyp3u3.
-- **Not a collective agent.** CLAIM-418, as A34 applied it: "Sharing a
+  collaborators is [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md).
+- **Not a collective agent.** [CLAIM-418](../claims.d/CLAIM-418.md), as A34 applied it: "Sharing a
   schema does not establish shared beliefs", "Sharing standing judgments
   does not establish common intentions", and a governance procedure does
   not make the collaborators "one autonomous agent".
@@ -70,7 +70,7 @@ model, not a formal specification of Luria's current internals".
 ## What it includes that a store of facts does not
 
 - **Disagreement, kept.** A32's case: a claim stays Active while one
-  argument for it is Rejected and another stands, which is ADR-061's
+  argument for it is Rejected and another stands, which is [ADR-061](../decisions.d/ADR-061.md)'s
   scheme. An agent revising later work should stop citing the failed
   argument as support, and should not for that reason reject the claim.
 - **The representation itself.** A32 separates epistemic coordination
@@ -86,7 +86,7 @@ model, not a formal specification of Luria's current internals".
   worktree, and the version an agent actually read are different, and
   "Neither automatically guarantees that all agents have synchronized
   their assumptions."
-- **Consequence.** A34's narrowing, from CLAIM-403: "A shared epistemic
+- **Consequence.** A34's narrowing, from [CLAIM-403](../claims.d/CLAIM-403.md): "A shared epistemic
   state is not just a repository of contributions. It is a structure that
   determines which contributions can become consequential, and under what
   conditions."
@@ -96,11 +96,11 @@ model, not a formal specification of Luria's current internals".
 It names what the record's collaborators share through it, so that a
 claim about coordination can say whether it means shared information,
 shared standing judgements, or shared beliefs, which come apart. A32 drew
-the predecessors: distributed cognition (LIT-1060), common ground
-(LIT-tmp89y2q), public commitment stores, social commitments
-(LIT-tmpir70i; A: "I would not equate Luria's Active status with a full
+the predecessors: distributed cognition ([LIT-1060](../literature.d/LIT-1060.md)), common ground
+([LIT-tmp89y2q](../literature.d/LIT-tmp89y2q.md)), public commitment stores, social commitments
+([LIT-tmpir70i](../literature.d/LIT-tmpir70i.md); A: "I would not equate Luria's Active status with a full
 social commitment in Singh's formal sense") and boundary objects
-(LIT-2243), whose identity is here "stable enough to coordinate on, but
-governed rather than immutable" (CLAIM-195). A32 advised against the bare
+([LIT-2243](../literature.d/LIT-2243.md)), whose identity is here "stable enough to coordinate on, but
+governed rather than immutable" ([CLAIM-195](../claims.d/CLAIM-195.md)). A32 advised against the bare
 phrase in a title, because "readers from formal epistemic logic may
 interpret it as an assertion about group knowledge or common knowledge".

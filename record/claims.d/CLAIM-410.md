@@ -224,9 +224,9 @@ modify its scheme; or propose a schema amendment that requires another
 agent's review". A48 §6: "governance should not be treated as a single
 strictness parameter", and compares centralized, delegated and
 peer-reviewed authorization, leaving voting out of a first study. With
-CLAIM-086 and CLAIM-272, A34 separates "Content influence" from
+[CLAIM-086](CLAIM-086.md) and [CLAIM-272](CLAIM-272.md), A34 separates "Content influence" from
 "Constitutive influence", which agents set the categories and procedures
 that govern the account. A50 §3 maps Polski and Ostrom's operational,
-collective-choice and constitutional rules (LIT-tmp5rs7c, unread) onto the
-same positions. QUESTION-tmps5iou and CASE-tmppm4do carry the design. The
+collective-choice and constitutional rules ([LIT-tmp5rs7c](../literature.d/LIT-tmp5rs7c.md), unread) onto the
+same positions. [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) carry the design. The
 claim is unchanged.

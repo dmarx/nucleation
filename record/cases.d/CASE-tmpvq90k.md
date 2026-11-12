@@ -19,7 +19,7 @@ bears_on:
 summary: >-
   From the exchange "luria experiment design" (2026-11-10), A47 and A48,
   after the owner's U20 ("flesh this out further") on A's synthesis of the
-  experimental program. It alters CASE-194 in stated respects: the three
+  experimental program. It alters [CASE-194](CASE-194.md) in stated respects: the three
   organizations at equal performance become an agent team keeping its
   inquiry in a record, the three hidden causes become six, and the team
   must spend a probe budget to find the cause before it may repair. A48
@@ -36,11 +36,11 @@ summary: >-
 
 From A48 of the exchange "luria experiment design"
 (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda). A47:
-"CASE-194 shows why the same bad score can call for completely different
-repairs; CASE-186 then asks whether the system can still make the *next*
+"[CASE-194](CASE-194.md) shows why the same bad score can call for completely different
+repairs; [CASE-186](CASE-186.md) then asks whether the system can still make the *next*
 repair after its diagnostic machinery is damaged."
 
-CASE-194 constructs three organizations at 50% whose failures have
+[CASE-194](CASE-194.md) constructs three organizations at 50% whose failures have
 different causes, each repaired by one intervention and not the others.
 A48 generalizes the causes to six: missing information, illegible
 information, an inferential error, an inadequate schema, a governance
@@ -52,7 +52,7 @@ fails to change an accepted conclusion; the hidden cause is drawn from
 evidence omission, inferential misclassification, schema inadequacy and
 authority blockage. A48's three worlds of the same symptom: the objection
 never entered the record; it was filed as an objection to the conclusion
-instead of the inference, which is ADR-061's case; or it was represented
+instead of the inference, which is [ADR-061](../decisions.d/ADR-061.md)'s case; or it was represented
 correctly and a reviewer systematically excluded challenges from this
 contributor. "The appropriate fixes are, respectively, evidence admission,
 representational correction, and governance correction."
@@ -79,22 +79,22 @@ response is to keep several hypotheses or ask for another measurement.
   find most telling: that the typed record does not improve diagnosis with
   generous resources but does under tight ones, which "would support a
   **resource-bounded legibility** explanation rather than a general claim
-  of superior reasoning". That is TERM-064's legibility, relative to an
+  of superior reasoning". That is [TERM-064](../terms.d/TERM-064.md)'s legibility, relative to an
   observer, its operations and its budget.
 
 ## Prior art and baselines
 
 A50: "Diagnosing different hidden failures through targeted probes is not a
-new experimental idea." Reiter's diagnosis from first principles (LIT-2271)
-and de Kleer and Williams on multiple faults (LIT-2316), both unread, are
+new experimental idea." Reiter's diagnosis from first principles ([LIT-2271](../literature.d/LIT-2271.md))
+and de Kleer and Williams on multiple faults ([LIT-2316](../literature.d/LIT-2316.md)), both unread, are
 the source of candidate-diagnosis sets and probe selection; A50 proposes "a
 conventional model-based diagnostic planner operating over the same
 explicitly defined failure model" as a baseline that could explain any
 gain without the record. What A50 takes as new is the object diagnosed:
 evidence channels, categories, authority rules, and the diagnostic
-procedures themselves. From STAMP (LIT-tmp54rbu): include failures in which
+procedures themselves. From STAMP ([LIT-tmp54rbu](../literature.d/LIT-tmp54rbu.md)): include failures in which
 every agent is locally competent and honest and only the control
-structure is at fault. From LIT-tmp5jugw: report diagnosis, targeted
+structure is at fault. From [LIT-tmp5jugw](../literature.d/LIT-tmp5jugw.md): report diagnosis, targeted
 repair and held-out net improvement separately, since repairing a target
 did not reliably improve held-out problems. A distorting category, against
-a missing one (LIT-tmpjqgyi), is a further cause A50 would add.
+a missing one ([LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md)), is a further cause A50 would add.

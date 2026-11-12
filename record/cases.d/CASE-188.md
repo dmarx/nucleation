@@ -108,11 +108,11 @@ advantage." A36 adds that the study can test "whether a centralized
 reviewer becomes an entrenchment mechanism".
 
 A39 Study C names prior work on revision, all unread: Belief-R
-(LIT-2326), in which "models that update readily may perform worse when no
+([LIT-2326](../literature.d/LIT-2326.md)), in which "models that update readily may perform worse when no
 update is needed"; tool evidence that turns correct answers wrong
-(LIT-2284); cognitive forcing (LIT-2283); and explanations that raise
-acceptance of AI advice whether or not it is right (LIT-tmpyaj3n). A14
-reports from LIT-2329, unread, that "revising a theory more readily is not
+([LIT-2284](../literature.d/LIT-2284.md)); cognitive forcing ([LIT-2283](../literature.d/LIT-2283.md)); and explanations that raise
+acceptance of AI advice whether or not it is right ([LIT-tmpyaj3n](../literature.d/LIT-tmpyaj3n.md)). A14
+reports from [LIT-2329](../literature.d/LIT-2329.md), unread, that "revising a theory more readily is not
 necessarily better scientific behavior". A50 §5 offers March's mutual
-learning between members and an organizational code (LIT-729) as the
+learning between members and an organizational code ([LIT-729](../literature.d/LIT-729.md)) as the
 theory of the entrenching arm. The case is unchanged.

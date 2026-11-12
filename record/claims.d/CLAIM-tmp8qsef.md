@@ -33,10 +33,10 @@ summary: >-
   (2026-11-10): A20 §3, "Unlike a full truth-maintenance reasoner, Luria
   does not automatically calculate which beliefs should be withdrawn. It
   exposes structure and maintenance obligations to human judgment"; A27;
-  A45 §9, citing CLAIM-293; and A50 §7, against Doyle's and de Kleer's
-  truth maintenance and AGM revision (LIT-2291, LIT-2320, LIT-1050). A
+  A45 §9, citing [CLAIM-293](CLAIM-293.md); and A50 §7, against Doyle's and de Kleer's
+  truth maintenance and AGM revision ([LIT-2291](../literature.d/LIT-2291.md), [LIT-2320](../literature.d/LIT-2320.md), [LIT-1050](../literature.d/LIT-1050.md)). A
   presents it as a boundary on what luria can claim. The derivation here
-  makes it also a reason for the boundary: by CLAIM-293, a rule reading
+  makes it also a reason for the boundary: by [CLAIM-293](CLAIM-293.md), a rule reading
   only the unweighted graph would retract wrongly in one of two worlds the
   graph cannot tell apart. The wording is A's; adopting it is the owner's
   call.
@@ -60,13 +60,13 @@ retiring its target leaves and does nothing about it: `rests_on` is
 "another of the record's own claims this one could not stand without …
 Retired, it leaves this claim needing another route" (docs/record.md,
 from luria.yaml). `corroborates` says the other claim "loses support, not
-its footing" (ADR-044). The `argument` chain walks the dependants. No status changes
+its footing" ([ADR-044](../decisions.d/ADR-044.md)). The `argument` chain walks the dependants. No status changes
 because another did. A truth
-maintenance system (LIT-2291, LIT-2320) or an AGM revision operator
-(LIT-1050) computes the new belief set instead.
+maintenance system ([LIT-2291](../literature.d/LIT-2291.md), [LIT-2320](../literature.d/LIT-2320.md)) or an AGM revision operator
+([LIT-1050](../literature.d/LIT-1050.md)) computes the new belief set instead.
 
-**Why no graph-only rule could replace the judgment.** CLAIM-293, from
-CASE-089: two records with the same edges, E₁ → H ← E₂, where discounting
+**Why no graph-only rule could replace the judgment.** [CLAIM-293](CLAIM-293.md), from
+[CASE-089](../cases.d/CASE-089.md): two records with the same edges, E₁ → H ← E₂, where discounting
 E₁ leaves H at odds of 20:1 in one and 1.1:1 in the other. Take any rule
 that decides, from the support graph and the entries' statuses alone,
 whether H is withdrawn when E₁ is retired. The two records give it the
@@ -79,9 +79,9 @@ evidence is what such a record can soundly do.
 
 ## What it does not say
 
-- Not that the record should weight its edges. CLAIM-293 leaves that as a
+- Not that the record should weight its edges. [CLAIM-293](CLAIM-293.md) leaves that as a
   design question, and the owner objected to turning to it.
-- Not that the judgment is made well. CLAIM-479: a relation's rigidity is
+- Not that the judgment is made well. [CLAIM-479](CLAIM-479.md): a relation's rigidity is
   "not evidence that the dependency it records is sound". The record only
   says where a judgment is owed.
 - Not that a reasoner over richer records could not compute withdrawals.

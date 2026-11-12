@@ -19,7 +19,7 @@ first_author: 'Herrmannsdoerfer'
 keywords: []
 implementations: []
 summary: >-
-  Markus Herrmannsdoerfer et al. (2009), ECOOP 2009, LNCS, DOI 10.1007/978-3-642-03013-0_4. Here because A cited it in the exchange "luria experiment design" at A22 (as "Edapt / coupled metamodel evolution"), for changes to a metamodel paired with migrations of its existing instances; A calls it "the strongest technical competitor". A named the tool, Edapt; this paper introduced the coupled-evolution approach the tool grew from, and is registered as the citable work. It bears on QUESTION-tmps5iou and CASE-tmppm4do. What A says of it is unverified until read.
+  Markus Herrmannsdoerfer et al. (2009), ECOOP 2009, LNCS, DOI 10.1007/978-3-642-03013-0_4. Here because A cited it in the exchange "luria experiment design" at A22 (as "Edapt / coupled metamodel evolution"), for changes to a metamodel paired with migrations of its existing instances; A calls it "the strongest technical competitor". A named the tool, Edapt; this paper introduced the coupled-evolution approach the tool grew from, and is registered as the citable work. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md). What A says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -33,4 +33,4 @@ Markus Herrmannsdoerfer et al. (2009), ECOOP 2009, LNCS. DOI 10.1007/978-3-642-0
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Edapt / coupled metamodel evolution"). It bears on QUESTION-tmps5iou and CASE-tmppm4do.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "Edapt / coupled metamodel evolution"). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).

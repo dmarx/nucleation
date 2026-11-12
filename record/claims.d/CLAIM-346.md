@@ -211,9 +211,9 @@ the record could address. A34: "a team should not be penalized for
 recognizing that its constraints are jointly unsatisfiable and documenting
 the conflict. A system that silently invents a compromise to obtain a green
 status should score worse." A36 makes "appropriate non-action" an outcome.
-A48 §1 notes, correctly, that CASE-194's construction "is not the same as
+A48 §1 notes, correctly, that [CASE-194](../cases.d/CASE-194.md)'s construction "is not the same as
 Nucleation's separate feasibility/aggregation/coordination distinction",
-which CASE-194's version 2 also says. A50 §10 adds failures that come from
+which [CASE-194](../cases.d/CASE-194.md)'s version 2 also says. A50 §10 adds failures that come from
 the control structure with every agent locally competent and honest, after
-STAMP (LIT-tmp54rbu, unread). CLAIM-tmpyp3u3 rests on this claim's third
+STAMP ([LIT-tmp54rbu](../literature.d/LIT-tmp54rbu.md), unread). [CLAIM-tmpyp3u3](CLAIM-tmpyp3u3.md) rests on this claim's third
 obstruction. The claim is unchanged.

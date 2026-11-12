@@ -154,12 +154,12 @@ The pasted synthesis on resource-bounded realizability reads this case as observ
 ## Note of 2026-11-12: the construction as the seed of a diagnostic benchmark, from "luria experiment design"
 
 A47 and A48 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) make this construction the basis of the experiment
-A would run first (CASE-tmpvq90k): "We can give a team the same apparent
+A would run first ([CASE-tmpvq90k](CASE-tmpvq90k.md)): "We can give a team the same apparent
 failure in several worlds, each with a different hidden cause." A's
 account of it is accurate, including that it "distinguishes observation
 from communication failure; it is not the same as Nucleation's separate
-feasibility/aggregation/coordination distinction in CLAIM-346", which
+feasibility/aggregation/coordination distinction in [CLAIM-346](../claims.d/CLAIM-346.md)", which
 version 2 of this case says too. A50 names its prior art, model-based
-diagnosis from first principles and of multiple faults (LIT-2271,
-LIT-2316, unread): "Diagnosing different hidden failures through targeted
+diagnosis from first principles and of multiple faults ([LIT-2271](../literature.d/LIT-2271.md),
+[LIT-2316](../literature.d/LIT-2316.md), unread): "Diagnosing different hidden failures through targeted
 probes is not a new experimental idea." The construction is unchanged.

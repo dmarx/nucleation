@@ -15,7 +15,7 @@ summary: >-
   extendability, and coupling those features to governance structures and
   mechanisms?", asked while weighing a journal article on luria and this
   record. The record holds the coupling as a description of itself
-  (CLAIM-419, CLAIM-195, CASE-178) but has never asked whether it is what
+  ([CLAIM-419](../claims.d/CLAIM-419.md), [CLAIM-195](../claims.d/CLAIM-195.md), [CASE-178](../cases.d/CASE-178.md)) but has never asked whether it is what
   sets luria apart from the prior art, or whether it does any work. A22
   sharpened the comparison class, A39 and A48 the test. The question is
   the owner's; the comparison class and the test are A's, and adopting
@@ -41,17 +41,17 @@ those features to governance structures and mechanisms?"
 
 The record describes the coupling but does not claim it is distinctive:
 
-- CLAIM-419: the grammar is fixed at any moment and amendable by decision,
+- [CLAIM-419](../claims.d/CLAIM-419.md): the grammar is fixed at any moment and amendable by decision,
   and a move that fit no scheme has repeatedly been treated as a defect of
-  the grammar. CLAIM-195: the constraint set persistence is relative to is
+  the grammar. [CLAIM-195](../claims.d/CLAIM-195.md): the constraint set persistence is relative to is
   fixed by an amendable decision.
-- CASE-178: nine grammar refinements in ten came with an ADR, against 16%
+- [CASE-178](../cases.d/CASE-178.md): nine grammar refinements in ten came with an ADR, against 16%
   of all pull requests, in the record's first month.
-- SYNTHESIS-012, CLAIM-181 and CLAIM-469: the grammar as an apparatus
+- [SYNTHESIS-012](../syntheses.d/SYNTHESIS-012.md), [CLAIM-181](../claims.d/CLAIM-181.md) and [CLAIM-469](../claims.d/CLAIM-469.md): the grammar as an apparatus
   amended when a misfit is noticed.
-- Worked instances: CASE-131 and ADR-044 (corroboration split from
-  dependence), ADR-061 (support judgements moved from CLAIM to ARG), and
-  ADR-084 (a scheme's scope narrowed after it proved to conflate two
+- Worked instances: [CASE-131](../cases.d/CASE-131.md) and [ADR-044](../decisions.d/ADR-044.md) (corroboration split from
+  dependence), [ADR-061](../decisions.d/ADR-061.md) (support judgements moved from CLAIM to ARG), and
+  [ADR-084](../decisions.d/ADR-084.md) (a scheme's scope narrowed after it proved to conflate two
   things).
 
 A22 named the comparison class the question needs, and A's point is that
@@ -72,27 +72,27 @@ provide value beyond adequately designed performance-gated evolution?"
 All registered unread from the same exchange; what A says of each is
 unverified.
 
-- Argumentation-governed ontology evolution: DILIGENT (LIT-2274) and
+- Argumentation-governed ontology evolution: DILIGENT ([LIT-2274](../literature.d/LIT-2274.md)) and
   Apostolou et al.'s design-rationale framework for ontology change
-  (LIT-tmp4ivms).
+  ([LIT-tmp4ivms](../literature.d/LIT-tmp4ivms.md)).
 - Ontology change and coupled model migration: Flouris et al.'s survey
-  (LIT-tmpo7zwb), COPE, the approach behind Edapt (LIT-tmp5mdsg), and KGCL,
-  a change language (LIT-2313).
+  ([LIT-tmpo7zwb](../literature.d/LIT-tmpo7zwb.md)), COPE, the approach behind Edapt ([LIT-tmp5mdsg](../literature.d/LIT-tmp5mdsg.md)), and KGCL,
+  a change language ([LIT-2313](../literature.d/LIT-2313.md)).
 - Collaborative, versioned and governed vocabularies: VoCol
-  (LIT-tmpt3cxh), WebProtégé (LIT-tmptsso9) and the OBO Foundry's
-  principles operationalized as checks (LIT-tmpk047v).
-- Performance-gated evolution by agents: EvoOntology (LIT-2311).
+  ([LIT-tmpt3cxh](../literature.d/LIT-tmpt3cxh.md)), WebProtégé ([LIT-tmptsso9](../literature.d/LIT-tmptsso9.md)) and the OBO Foundry's
+  principles operationalized as checks ([LIT-tmpk047v](../literature.d/LIT-tmpk047v.md)).
+- Performance-gated evolution by agents: EvoOntology ([LIT-2311](../literature.d/LIT-2311.md)).
 - Self-adaptive architecture: the MAPE-K loop of autonomic computing
-  (LIT-2312) and models at run time (LIT-2305). A50: "It would be difficult
+  ([LIT-2312](../literature.d/LIT-2312.md)) and models at run time ([LIT-2305](../literature.d/LIT-2305.md)). A50: "It would be difficult
   to argue that Luria introduces a new general architecture for
   self-monitoring and repair"; at most a "modifiable, epistemically
   structured and governed knowledge substrate" for such a loop.
 - Argument and claim representation: the Argument Interchange Format
-  (LIT-tmpp8mb7), micropublications (LIT-tmp5pucj) and scholarly argument
-  graphs (LIT-tmpzfbla); truth maintenance (LIT-2291, LIT-2320), against
-  which CLAIM-tmp8qsef states what the record does not do.
+  ([LIT-tmpp8mb7](../literature.d/LIT-tmpp8mb7.md)), micropublications ([LIT-tmp5pucj](../literature.d/LIT-tmp5pucj.md)) and scholarly argument
+  graphs ([LIT-tmpzfbla](../literature.d/LIT-tmpzfbla.md)); truth maintenance ([LIT-2291](../literature.d/LIT-2291.md), [LIT-2320](../literature.d/LIT-2320.md)), against
+  which [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md) states what the record does not do.
 - Levels of rule: Polski and Ostrom's operational, collective-choice and
-  constitutional rules (LIT-tmp5rs7c), which A50 maps onto changing an
+  constitutional rules ([LIT-tmp5rs7c](../literature.d/LIT-tmp5rs7c.md)), which A50 maps onto changing an
   entry, changing the schema, and changing who may change the schema.
 
 ## What would count as an answer
@@ -107,8 +107,8 @@ Two parts, which can come apart.
    half no.
 2. **Work done.** A study that holds the information, tools and budget
    fixed and varies schema modifiability and change governance
-   independently, such as CASE-tmppm4do, with a performance-gated arm.
-   CLAIM-tmppk8g6 is a proposed answer: governance raises the value of
+   independently, such as [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md), with a performance-gated arm.
+   [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) is a proposed answer: governance raises the value of
    modifiability on tasks whose categories are inadequate. A result in
    which performance-gated evolution matches governed evolution on
    semantic correction and regressions, at lower cost, answers the second

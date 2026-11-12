@@ -19,7 +19,7 @@ first_author: 'Lebo'
 keywords: []
 implementations: []
 summary: >-
-  W3C (2013), W3C Recommendation, ed. Timothy Lebo, Satya Sahoo and Deborah McGuinness, https://www.w3.org/TR/prov-o/. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for a standard that distinguishes the origin of a statement from its evidential support or current standing, and a natural interoperability reference. It bears on CLAIM-299, which separates historical accountability from decision sufficiency and correctness. What A says of it is unverified until read.
+  W3C (2013), W3C Recommendation, ed. Timothy Lebo, Satya Sahoo and Deborah McGuinness, https://www.w3.org/TR/prov-o/. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for a standard that distinguishes the origin of a statement from its evidential support or current standing, and a natural interoperability reference. It bears on [CLAIM-299](../claims.d/CLAIM-299.md), which separates historical accountability from decision sufficiency and correctness. What A says of it is unverified until read.
 ---
 
 # LIT-tmphmnau: PROV-O: The PROV Ontology
@@ -32,4 +32,4 @@ W3C (2013), W3C Recommendation, ed. Timothy Lebo, Satya Sahoo and Deborah McGuin
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on CLAIM-299, which separates historical accountability from decision sufficiency and correctness.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [CLAIM-299](../claims.d/CLAIM-299.md), which separates historical accountability from decision sufficiency and correctness.

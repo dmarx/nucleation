@@ -19,7 +19,7 @@ first_author: 'Clark'
 keywords: []
 implementations: []
 summary: >-
-  Tim Clark, Paolo Ciccarese and Carole Goble (2014), Journal of Biomedical Semantics, DOI 10.1186/2041-1480-5-28. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for "probably the closest conceptual predecessor" of the record: claims, provenance, evidence, interpretation and challenges represented as scientific arguments. It bears on CLAIM-469 and QUESTION-tmps5iou. What A says of it is unverified until read.
+  Tim Clark, Paolo Ciccarese and Carole Goble (2014), Journal of Biomedical Semantics, DOI 10.1186/2041-1480-5-28. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for "probably the closest conceptual predecessor" of the record: claims, provenance, evidence, interpretation and challenges represented as scientific arguments. It bears on [CLAIM-469](../claims.d/CLAIM-469.md) and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmp5pucj: Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications
@@ -32,4 +32,4 @@ Tim Clark, Paolo Ciccarese and Carole Goble (2014), Journal of Biomedical Semant
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on CLAIM-469 and QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [CLAIM-469](../claims.d/CLAIM-469.md) and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).

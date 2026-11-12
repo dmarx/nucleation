@@ -130,7 +130,7 @@ demonstrated adaptive use of that configurability. A team that discovers
 that its schema-review process is failing, then proposes and successfully
 evaluates a repair to that process, demonstrates something stronger", and
 "even that does not establish independent self-governance". The owner's
-U17 is filed as QUESTION-tmp7a7l4.
+U17 is filed as [QUESTION-tmp7a7l4](QUESTION-tmp7a7l4.md).
 
 A50 §12 adds a test this question needs: a governing rule's change must
 alter behaviour under controlled later tasks. "A repository that stores

@@ -19,7 +19,7 @@ first_author: 'Chang'
 keywords: []
 implementations: []
 summary: >-
-  Hasok Chang (2004), Oxford University Press, DOI 10.1093/0195171276.001.0001. Here because A cited it in the exchange "luria experiment design" at A50 (§4) and A51, for epistemic iteration: improving measurement and justification from imperfect starting practices, the improvement of "the means by which the inquiry determines what counts as a good update". It bears on CLAIM-470, QUESTION-tmp7a7l4 and CLAIM-472. What A says of it is unverified until read.
+  Hasok Chang (2004), Oxford University Press, DOI 10.1093/0195171276.001.0001. Here because A cited it in the exchange "luria experiment design" at A50 (§4) and A51, for epistemic iteration: improving measurement and justification from imperfect starting practices, the improvement of "the means by which the inquiry determines what counts as a good update". It bears on [CLAIM-470](../claims.d/CLAIM-470.md), [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) and [CLAIM-472](../claims.d/CLAIM-472.md). What A says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-472 — Proposed; cited for what each holds, not as settled -->
 
@@ -33,4 +33,4 @@ Hasok Chang (2004), Oxford University Press. DOI 10.1093/0195171276.001.0001.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§4) and A51. It bears on CLAIM-470, QUESTION-tmp7a7l4 and CLAIM-472.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§4) and A51. It bears on [CLAIM-470](../claims.d/CLAIM-470.md), [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) and [CLAIM-472](../claims.d/CLAIM-472.md).

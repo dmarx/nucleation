@@ -19,7 +19,7 @@ first_author: 'Jackson'
 keywords: []
 implementations: []
 summary: >-
-  Rebecca Jackson et al. (2021), Database, DOI 10.1093/database/baab069. Here because A cited it in the exchange "luria experiment design" at A22 (as "OBO Foundry governance"), for community principles refined over time, operationalized into validation checks, and used to evaluate ontology maintenance; A ranks it among the works "essential to a credible novelty claim". It bears on QUESTION-tmps5iou and CLAIM-419. What A says of it is unverified until read.
+  Rebecca Jackson et al. (2021), Database, DOI 10.1093/database/baab069. Here because A cited it in the exchange "luria experiment design" at A22 (as "OBO Foundry governance"), for community principles refined over time, operationalized into validation checks, and used to evaluate ontology maintenance; A ranks it among the works "essential to a credible novelty claim". It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmpk047v: OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies
@@ -32,4 +32,4 @@ Rebecca Jackson et al. (2021), Database. DOI 10.1093/database/baab069.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "OBO Foundry governance"). It bears on QUESTION-tmps5iou and CLAIM-419.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "OBO Foundry governance"). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md).

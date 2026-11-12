@@ -57,13 +57,13 @@ something unfamiliar."
 with informal or explicit change governance (proposal, authority, approval
 and migration, enforced by the harness, not by instruction). Two further
 arms: performance-gated evolution, changes accepted on held-out tests
-alone, after EvoOntology (LIT-2311), "a serious comparator, rather than a
+alone, after EvoOntology ([LIT-2311](../literature.d/LIT-2311.md)), "a serious comparator, rather than a
 weak static-ontology baseline" (A45); and a governed plain-Markdown
 baseline, to separate the review process from the record's machinery.
-The primary estimand is the interaction, which CLAIM-tmppk8g6 predicts
+The primary estimand is the interaction, which [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) predicts
 positive on misfit tasks.
 
-**The seed.** CASE-131, started at the repository state before ADR-044:
+**The seed.** [CASE-131](CASE-131.md), started at the repository state before [ADR-044](../decisions.d/ADR-044.md):
 two claims, a `supports` whose converse asserts a dependency nobody made,
 and new evidence that one corroborates the other. A27: "the scorer should
 **not require that exact field name**. It should verify the semantic
@@ -71,8 +71,8 @@ property". A29's specification: B may increase support for A; A does not
 depend on B; A survives B's retirement; unrelated relations still resolve;
 and no schema change is accepted without approval. A follow-up operation,
 retiring B, checks that the new semantics survive use. Other development
-episodes: ADR-043 (warrant), ADR-049 (partly answered questions), ADR-061
-(support judgements moved to ARG), ADR-082 (a line split) and ADR-084 (a
+episodes: [ADR-043](../decisions.d/ADR-043.md) (warrant), [ADR-049](../decisions.d/ADR-049.md) (partly answered questions), [ADR-061](../decisions.d/ADR-061.md)
+(support judgements moved to ARG), [ADR-082](../decisions.d/ADR-082.md) (a line split) and [ADR-084](../decisions.d/ADR-084.md) (a
 scheme narrowed, an extension partly undone).
 
 ## What it would measure
@@ -94,7 +94,7 @@ scheme narrowed, an extension partly undone).
   workflow could win merely because the evaluation rewards its own
   paperwork." A29 again: "an approval system can appear successful simply
   by refusing to change anything."
-- **The inquiry frontier after the change** (A48, from TERM-092): whether
+- **The inquiry frontier after the change** (A48, from [TERM-092](../terms.d/TERM-092.md)): whether
   agents formulate the questions the new distinction makes relevant,
   pursue them under budget, and find other questions harder to ask.
 
@@ -110,9 +110,9 @@ scheme narrowed, an extension partly undone).
 - The evaluator and the hidden truth stay outside every agent's writable
   environment.
 - A29 on scoring with a model judge: ontology-based checkers flag correct
-  answers and miss errors (LIT-tmpka8bp), so no single LLM judge decides
+  answers and miss errors ([LIT-tmpka8bp](../literature.d/LIT-tmpka8bp.md)), so no single LLM judge decides
   whether a change is good.
 - Comparators: COPE, the coupled-evolution approach behind Edapt
-  (LIT-tmp5mdsg), and KGCL (LIT-2313), against which A48 would ask whether
+  ([LIT-tmp5mdsg](../literature.d/LIT-tmp5mdsg.md)), and KGCL ([LIT-2313](../literature.d/LIT-2313.md)), against which A48 would ask whether
   a change can be restated as "a precise, independently intelligible
   change specification".

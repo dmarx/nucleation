@@ -18,7 +18,7 @@ first_author: 'Stasser'
 keywords: []
 implementations: []
 summary: >-
-  Garold Stasser and William Titus (1985), Journal of Personality and Social Psychology, DOI 10.1037/0022-3514.48.6.1467. Here because A cited it in the exchange "luria experiment design" at A39 (§2), for the hidden-profile paradigm: groups with overlapping but incomplete information discuss what they share and miss the solution only pooled information shows. It bears on QUESTION-tmpxq2sb and CLAIM-403; LIT-1399 (the hidden-profile meta-analysis) and LIT-2294 (HiddenBench) are held. What A says of it is unverified until read.
+  Garold Stasser and William Titus (1985), Journal of Personality and Social Psychology, DOI 10.1037/0022-3514.48.6.1467. Here because A cited it in the exchange "luria experiment design" at A39 (§2), for the hidden-profile paradigm: groups with overlapping but incomplete information discuss what they share and miss the solution only pooled information shows. It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) and [CLAIM-403](../claims.d/CLAIM-403.md); [LIT-1399](LIT-1399.md) (the hidden-profile meta-analysis) and [LIT-2294](LIT-2294.md) (HiddenBench) are held. What A says of it is unverified until read.
 ---
 <!-- inactive-ok-file: LIT-1399 LIT-2294 — Deferred, Unavailable; cited for what each holds, not as settled -->
 
@@ -32,4 +32,4 @@ Garold Stasser and William Titus (1985), Journal of Personality and Social Psych
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§2). It bears on QUESTION-tmpxq2sb and CLAIM-403; LIT-1399 (the hidden-profile meta-analysis) and LIT-2294 (HiddenBench) are held.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A39 (§2). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) and [CLAIM-403](../claims.d/CLAIM-403.md); [LIT-1399](LIT-1399.md) (the hidden-profile meta-analysis) and [LIT-2294](LIT-2294.md) (HiddenBench) are held.

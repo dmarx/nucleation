@@ -16,8 +16,8 @@ summary: >-
   problem solving?", then, quoting A31's phrase "Luria could be described
   as a system for maintaining a shared epistemic state across
   collaborators", "double click on this". The record holds the stages a
-  contribution can fail at (CLAIM-403) and the obstructions to collective
-  action (CLAIM-346), but not whether a record of its kind moves
+  contribution can fail at ([CLAIM-403](../claims.d/CLAIM-403.md)) and the obstructions to collective
+  action ([CLAIM-346](../claims.d/CLAIM-346.md)), but not whether a record of its kind moves
   distributed evidence through them. A39 found the baseline the question
   must beat, a published structured protocol on hidden-profile tasks. The
   question is the owner's; the staging and the baseline are A's, and
@@ -38,23 +38,23 @@ From U12 and U13 of the exchange "luria experiment design"
 asked whether multi-agent coordination and distributed problem solving were
 a better test of luria than single-agent memory, then asked A to develop
 its own phrase "a shared epistemic state across collaborators", which
-TERM-tmp8deza now defines.
+[TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) now defines.
 
 The record holds the parts:
 
-- QUESTION-101 and TERM-055: whether a resource is available for an action
+- [QUESTION-101](QUESTION-101.md) and [TERM-055](../terms.d/TERM-055.md): whether a resource is available for an action
   can depend on the organization of the whole system, not on what any
-  member knows; CASE-085 is the drug that was stocked and could not be
+  member knows; [CASE-085](../cases.d/CASE-085.md) is the drug that was stocked and could not be
   reached in time.
-- CLAIM-403: admission, recognition in apt terms, credibility, uptake and
+- [CLAIM-403](../claims.d/CLAIM-403.md): admission, recognition in apt terms, credibility, uptake and
   participation in governing those can each fail.
-- CLAIM-346: feasibility, aggregation and epistemic coordination are
-  independent obstructions; NOTE-1381 reads Halpern and Moses on what
+- [CLAIM-346](../claims.d/CLAIM-346.md): feasibility, aggregation and epistemic coordination are
+  independent obstructions; [NOTE-1381](../notes.d/NOTE-1381.md) reads Halpern and Moses on what
   unreliable channels rule out.
-- CLAIM-418 and CASE-145: a shared perspective is not a collective agent.
-- NOTE-055 and THEORY-402: a collective can hold more resources than any
+- [CLAIM-418](../claims.d/CLAIM-418.md) and [CASE-145](../cases.d/CASE-145.md): a shared perspective is not a collective agent.
+- [NOTE-055](../notes.d/NOTE-055.md) and [THEORY-402](../theory.d/THEORY-402.md): a collective can hold more resources than any
   member and still lose them in integration.
-- QUESTION-108: whether a structured record helps by retaining more, by
+- [QUESTION-108](QUESTION-108.md): whether a structured record helps by retaining more, by
   easing retrieval, or by making operations cheap.
 
 None asks whether a record like this one changes any of it.
@@ -62,17 +62,17 @@ None asks whether a record like this one changes any of it.
 ## The baseline it must beat
 
 A39, after searching for prior experiments: "Distributed evidence
-integration is already benchmarked." HiddenBench (LIT-2294, unread)
+integration is already benchmarked." HiddenBench ([LIT-2294](../literature.d/LIT-2294.md), unread)
 reports that agents holding distributed information "achieved 30.1%
 accuracy, versus 80.7% for single agents given complete information. A
 lightweight structured communication protocol improved performance. Luria
 therefore needs to compete with that protocol, not just with unrestricted
-chat." The paradigm is Stasser and Titus's hidden profile (LIT-tmpmnde8);
-the meta-analysis of its human studies is held (LIT-1399). The shared
-structured workspace is not new either: Hearsay-II (LIT-tmpwza8d) and
-blackboard control (LIT-tmp4pa3f), and an LLM blackboard system
-(LIT-tmp1bytl). A31 also named CooperBench (LIT-2325), AsynCodeBench
-(LIT-2277), MultiAgentBench (LIT-2280) and PaperArena (LIT-2295) as
+chat." The paradigm is Stasser and Titus's hidden profile ([LIT-tmpmnde8](../literature.d/LIT-tmpmnde8.md));
+the meta-analysis of its human studies is held ([LIT-1399](../literature.d/LIT-1399.md)). The shared
+structured workspace is not new either: Hearsay-II ([LIT-tmpwza8d](../literature.d/LIT-tmpwza8d.md)) and
+blackboard control ([LIT-tmp4pa3f](../literature.d/LIT-tmp4pa3f.md)), and an LLM blackboard system
+([LIT-tmp1bytl](../literature.d/LIT-tmp1bytl.md)). A31 also named CooperBench ([LIT-2325](../literature.d/LIT-2325.md)), AsynCodeBench
+([LIT-2277](../literature.d/LIT-2277.md)), MultiAgentBench ([LIT-2280](../literature.d/LIT-2280.md)) and PaperArena ([LIT-2295](../literature.d/LIT-2295.md)) as
 external tests. All are registered unread.
 
 ## What would count as an answer
@@ -80,7 +80,7 @@ external tests. All are registered unread.
 A study that holds evidence, models and budget fixed and varies only the
 coordination substrate, against the published structured protocol as
 well as plain conversation, with each decision-relevant clue traced
-through admission, correct interpretation, credit and use (CASE-tmpiocs1).
+through admission, correct interpretation, credit and use ([CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)).
 Two fairness conditions, A31's: equal total compute measures efficiency,
 equal compute per agent the gain or loss from adding agents.
 
@@ -91,7 +91,7 @@ equal compute per agent the gain or loss from adding agents.
   outcome among the risks: "A capable coordinator with a shared task list
   and high-quality summaries might perform as well as the Luria-equipped
   team."
-- **Not this question**: a failure that is an obstruction CLAIM-346
+- **Not this question**: a failure that is an obstruction [CLAIM-346](../claims.d/CLAIM-346.md)
   places elsewhere, infeasible demands or a broken decision rule, which no
   record can remove. A34: a team "should not be penalized for recognizing
   that its constraints are jointly unsatisfiable".
@@ -99,5 +99,5 @@ equal compute per agent the gain or loss from adding agents.
 A team that settles an inconclusive dispute by producing a unified answer
 has not succeeded. A32's false-consensus test: a good result can be that
 "the team correctly identified that the evidence supports two unresolved
-alternatives". CLAIM-tmpyp3u3 says what such a record can and cannot
+alternatives". [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md) says what such a record can and cannot
 represent of its collaborators' states.

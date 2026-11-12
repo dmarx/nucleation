@@ -19,7 +19,7 @@ first_author: 'Halilaj'
 keywords: []
 implementations: []
 summary: >-
-  Lavdim Halilaj et al. (2016), EKAW 2016, LNCS, DOI 10.1007/978-3-319-49004-5_20. Here because A cited it in the exchange "luria experiment design" at A22, for collaborative vocabulary development with version control, validation, documentation and discussion. It bears on QUESTION-tmps5iou. What A says of it is unverified until read.
+  Lavdim Halilaj et al. (2016), EKAW 2016, LNCS, DOI 10.1007/978-3-319-49004-5_20. Here because A cited it in the exchange "luria experiment design" at A22, for collaborative vocabulary development with version control, validation, documentation and discussion. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmpt3cxh: VoCol: An Integrated Environment to Support Version-Controlled Vocabulary Development
@@ -32,4 +32,4 @@ Lavdim Halilaj et al. (2016), EKAW 2016, LNCS. DOI 10.1007/978-3-319-49004-5_20.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).

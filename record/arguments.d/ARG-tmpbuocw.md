@@ -17,13 +17,13 @@ line:
 summary: >-
   From the exchange "luria experiment design" (2026-11-10), A32 §1:
   "publishing a record does not establish common knowledge", with Halpern
-  and Moses cited for the distinction. The inference from LIT-1213, as
-  NOTE-1381 reads it, to the fourth row of CLAIM-tmpyp3u3. Proposed. The
+  and Moses cited for the distinction. The inference from [LIT-1213](../literature.d/LIT-1213.md), as
+  [NOTE-1381](../notes.d/NOTE-1381.md) reads it, to the fourth row of [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md). Proposed. The
   theorems apply once reading the record is modelled as receiving a
   message whose time of arrival is unbounded and unacknowledged, which is
   how the record is read; a record that every collaborator reads at a
-  shared clock tick is outside it. LIT-1213 is a work cited, read in
-  NOTE-1381, with no THEORY of its own yet, so the ground is the weakest
+  shared clock tick is outside it. [LIT-1213](../literature.d/LIT-1213.md) is a work cited, read in
+  [NOTE-1381](../notes.d/NOTE-1381.md), with no THEORY of its own yet, so the ground is the weakest
   kind. The citation is A's (ChatGPT's); the wording is the assistant's
   (Claude, in this session), and adopting it is the owner's call.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-1. NOTE-1381, reading LIT-1213: over a channel whose deliveries are not
+1. [NOTE-1381](../notes.d/NOTE-1381.md), reading [LIT-1213](../literature.d/LIT-1213.md): over a channel whose deliveries are not
    guaranteed, no fact becomes common knowledge that was not common
    knowledge at the start (Theorem 5); the same holds when delivery is
    guaranteed but its time is unbounded (Theorem 7); and asynchronous
@@ -48,7 +48,7 @@ summary: >-
    times.
 4. So publishing a standing in the record does not make it common
    knowledge among the collaborators that the record endorses it, which is
-   the fourth row of CLAIM-tmpyp3u3.
+   the fourth row of [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md).
 
 ## Critical questions
 
@@ -65,10 +65,10 @@ summary: >-
   that way is an empirical fact about the team, not about the record,
   which is why the claim speaks of what the record represents by itself.
 - **Does the conclusion overreach?** It says common knowledge is not
-  established, not that coordination fails. NOTE-1381 itself separates
+  established, not that coordination fails. [NOTE-1381](../notes.d/NOTE-1381.md) itself separates
   the impossibility of guaranteed simultaneous action from weaker
   coordination that remains possible.
-- **Is LIT-1213 enough as a ground?** It is a work cited, though read in
-  NOTE-1381. A THEORY drawn from that reading would be the stronger
-  footing; until one is filed, the ground is NOTE-1381's statement of the
+- **Is [LIT-1213](../literature.d/LIT-1213.md) enough as a ground?** It is a work cited, though read in
+  [NOTE-1381](../notes.d/NOTE-1381.md). A THEORY drawn from that reading would be the stronger
+  footing; until one is filed, the ground is [NOTE-1381](../notes.d/NOTE-1381.md)'s statement of the
   theorems.

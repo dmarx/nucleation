@@ -72,7 +72,7 @@ luria and evaluate the agent against some task". A's proposals bear on this
 question's three mechanisms, retaining more, easing retrieval, making
 operations cheap:
 
-- A27 and A29: run MEME (LIT-2281, unread), whose Cascade and Absence tasks
+- A27 and A29: run MEME ([LIT-2281](../literature.d/LIT-2281.md), unread), whose Cascade and Absence tasks
   test dependent facts that stop holding, with plain files, retrieval, a
   typed record, and a typed record with checks, under two ingestion modes:
   every arm given the same gold extracted facts, which isolates
@@ -83,18 +83,18 @@ operations cheap:
 - A32: hold the record's contents fixed and vary access, a shared
   transcript, indexed notes, a typed record, a governed one, citing this
   question for the split.
-- A36 E1: on CLAIM-293's two worlds, "A Luria agent that simply follows
+- A36 E1: on [CLAIM-293](../claims.d/CLAIM-293.md)'s two worlds, "A Luria agent that simply follows
   graph edges and reaches the same conclusion in both situations has failed
   the substantive task"; and a targeted dependency report against the full
   graph, since a gain there would put the value in "making an operation
-  cheap, not in graph structure as such". CASE-091 holds the design these
+  cheap, not in graph structure as such". [CASE-091](../cases.d/CASE-091.md) holds the design these
   extend.
 - A17: a counter-effect to test for, that "a well-structured record might
   anchor the assistant too strongly to its existing explanatory
-  vocabulary" (SYNTHESIS-015, CLAIM-184).
+  vocabulary" ([SYNTHESIS-015](../syntheses.d/SYNTHESIS-015.md), [CLAIM-184](../claims.d/CLAIM-184.md)).
 
 A20 and A27 named agent-memory systems as comparators: Generative Agents
-(LIT-tmpiufjk), HippoRAG (LIT-tmp9oc9e), A-MEM (LIT-tmpqhq20), GraphRAG
-(LIT-tmppcaeo), LongMemEval (LIT-2282) and MemoryAgentBench (LIT-2279), all
-unread. CLAIM-tmp8qsef bears on the third mechanism: what the record makes
+([LIT-tmpiufjk](../literature.d/LIT-tmpiufjk.md)), HippoRAG ([LIT-tmp9oc9e](../literature.d/LIT-tmp9oc9e.md)), A-MEM ([LIT-tmpqhq20](../literature.d/LIT-tmpqhq20.md)), GraphRAG
+([LIT-tmppcaeo](../literature.d/LIT-tmppcaeo.md)), LongMemEval ([LIT-2282](../literature.d/LIT-2282.md)) and MemoryAgentBench ([LIT-2279](../literature.d/LIT-2279.md)), all
+unread. [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md) bears on the third mechanism: what the record makes
 cheap is finding the dependants, not deciding them. Open.

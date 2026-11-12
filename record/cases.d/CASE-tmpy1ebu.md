@@ -19,12 +19,12 @@ bears_on:
 summary: >-
   From the exchange "luria experiment design" (2026-11-10), after the
   owner's U17 ("there's probably also an RSI angle here") and U18
-  ("flesh this out further"). It alters CASE-186 in two stated respects:
+  ("flesh this out further"). It alters [CASE-186](CASE-186.md) in two stated respects:
   the organization is a team of agents that keeps its inquiry in a
   governed record and may change its own procedures, schema and review,
   and an improver-transplant comparison is added before the damage.
   A41 proposed it; A43 set out the arms and endpoints; A45 Study 3 and A48
-  Study C kept it. It takes CASE-108's governance architectures for its
+  Study C kept it. It takes [CASE-108](CASE-108.md)'s governance architectures for its
   evaluator-capture arm. Not run. The design is A's; adopting it is the
   owner's call.
 ---
@@ -52,7 +52,7 @@ improver "a fresh copy of the *same* starting system" under the same
 resources and compare what each makes of it on held-out tasks. A 2×2
 crosses the original or improved artifact with the earlier or later
 improver, so that inherited knowledge and an improved improver can be told
-apart. A43 takes the test from LIT-2273, as A reports it: only four of 26
+apart. A43 takes the test from [LIT-2273](../literature.d/LIT-2273.md), as A reports it: only four of 26
 studies claiming an improved improver made this comparison.
 
 **Inheritance.** Replace every agent with a fresh instance that inherits
@@ -62,17 +62,17 @@ verification procedure removed. A43: "A robust system may recognize that
 its inherited apparatus is incomplete and reconstruct the missing piece. A
 fragile one may continue operating confidently with degraded checks."
 
-**Damage, after CASE-186.** After a first correction, lesion the team's own
+**Damage, after [CASE-186](CASE-186.md).** After a first correction, lesion the team's own
 apparatus: evidence generation (a diagnostic tool silently stops sampling a
 class of cases), admission (contradicting evidence is filtered), scoring
 (the evaluator rewards agreement with prior conclusions), reconstruction
 (new agents inherit obsolete instructions), or schema adequacy (a new
 regime needs a distinction the schema lacks). Sham lesions are included,
 "Otherwise the correct strategy is simply to assume sabotage after every
-perturbation." CASE-186's three regimes, the third outside the initial
+perturbation." [CASE-186](CASE-186.md)'s three regimes, the third outside the initial
 hypothesis family, carry over.
 
-**Evaluator capture, after CASE-108.** A proposal that raises the public
+**Evaluator capture, after [CASE-108](CASE-108.md).** A proposal that raises the public
 metric by weakening verification, A43's example being that claims are
 accepted once two agents agree, "eliminating independent source checks";
 a valid finding from a specialist with a poor record that needs a schema
@@ -89,7 +89,7 @@ and layered.
   and cost. A43 would not aggregate these into a single "RSI score", which
   would hide the trade-offs between them.
 - P(S₁ ∧ S₂) and, since "Systems surviving Challenge 1 may already be
-  different", the matched-first-stage branch CASE-186 already specifies.
+  different", the matched-first-stage branch [CASE-186](CASE-186.md) already specifies.
 - For governance: the probability that a valid improvement is accepted,
   that a harmful one is, and that a genuine novel contribution is
   rejected, since otherwise "an extremely conservative reviewer could
@@ -104,16 +104,16 @@ and layered.
   never the hidden ground truth or the study's criterion. A43: "A
   Git-based approval policy does not independently protect anything when
   the agent can also modify the branch protections, tests and approval
-  credentials." LIT-2286 and LIT-2276, unread, report how research agents
+  credentials." [LIT-2286](../literature.d/LIT-2286.md) and [LIT-2276](../literature.d/LIT-2276.md), unread, report how research agents
   exploit evaluators.
 - Trials within one task or lineage are not independent samples.
 - A43's chart of task performance rising while improver quality and
   correctability fall is "Hypothetical patterns", not data.
 - A positive result "would not establish general autonomous RSI,
   open-ended acceleration, or that Luria itself is an intelligent agent",
-  and does not settle QUESTION-388.
-- Prior art: PAST-Bench's fresh-session persistence ablations (LIT-2278)
-  and the Darwin Gödel Machine's archive (LIT-2327). A43: the record's
+  and does not settle [QUESTION-388](../questions.d/QUESTION-388.md).
+- Prior art: PAST-Bench's fresh-session persistence ablations ([LIT-2278](../literature.d/LIT-2278.md))
+  and the Darwin Gödel Machine's archive ([LIT-2327](../literature.d/LIT-2327.md)). A43: the record's
   addition to archive-based search would be "explicitly recording why a
   modification was proposed, what it changed, which objections remained,
   and under which tests it was accepted".

@@ -19,7 +19,7 @@ first_author: 'Song'
 keywords: []
 implementations: []
 summary: >-
-  Song et al. (2022), Knowledge Organization 49(4), DOI 10.5771/0943-7444-2022-4-213. Here because A cited it in the exchange "luria experiment design" at A20 (§3), for argument units and relations modelled across scientific articles, with knowledge-evolution uses, which "substantially narrows what could honestly be claimed as novel about Luria's graph structure". It bears on QUESTION-tmps5iou. What A says of it is unverified until read.
+  Song et al. (2022), Knowledge Organization 49(4), DOI 10.5771/0943-7444-2022-4-213. Here because A cited it in the exchange "luria experiment design" at A20 (§3), for argument units and relations modelled across scientific articles, with knowledge-evolution uses, which "substantially narrows what could honestly be claimed as novel about Luria's graph structure". It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmpzfbla: Linking Scholarly Contents: The Design and Construction of an Argumentation Graph
@@ -32,4 +32,4 @@ Song et al. (2022), Knowledge Organization 49(4). DOI 10.5771/0943-7444-2022-4-2
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3). It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).

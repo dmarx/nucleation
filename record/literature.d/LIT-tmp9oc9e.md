@@ -19,7 +19,7 @@ first_author: 'Jiménez Gutiérrez'
 keywords: []
 implementations: []
 summary: >-
-  Bernal Jiménez Gutiérrez et al. (2024), arXiv 2405.14831. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for graph-indexed long-term memory for retrieval. It bears on QUESTION-108. What A says of it is unverified until read.
+  Bernal Jiménez Gutiérrez et al. (2024), arXiv 2405.14831. Here because A cited it in the exchange "luria experiment design" at A20 (§1), for graph-indexed long-term memory for retrieval. It bears on [QUESTION-108](../questions.d/QUESTION-108.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmp9oc9e: HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
@@ -32,4 +32,4 @@ Bernal Jiménez Gutiérrez et al. (2024). arXiv 2405.14831.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on QUESTION-108.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1). It bears on [QUESTION-108](../questions.d/QUESTION-108.md).

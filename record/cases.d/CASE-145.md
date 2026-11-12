@@ -126,6 +126,6 @@ without coordinating at all."
 A39 Study E, after the owner asked at U16 for prior research that could
 "corroborate or replace" the experiments, found the first part studied:
 shared mental models measured apart from team outcomes (Mathieu et al.,
-LIT-2330; DeChurch and Mesmer-Magnus, LIT-tmpo6ko1; both unread). Its
+[LIT-2330](../literature.d/LIT-2330.md); DeChurch and Mesmer-Magnus, [LIT-tmpo6ko1](../literature.d/LIT-tmpo6ko1.md); both unread). Its
 advice: "I would not make this a large standalone study unless the initial
 results suggest it mediates Luria's benefits." The case is unchanged.

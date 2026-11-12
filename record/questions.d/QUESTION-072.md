@@ -183,9 +183,9 @@ agents keep: "Who can file a proposition? Who can declare it accepted? Who
 can change the meaning of a relation? Whose objections get preserved?" A32:
 "A central authority may help maintain consistency but fail to notice
 important contributions from specialists." A36 E3 proposes a measurable
-part of it, "schema-fit disparity" (in the note on CLAIM-403), with the
+part of it, "schema-fit disparity" (in the note on [CLAIM-403](../claims.d/CLAIM-403.md)), with the
 warning that synthetic agents with different roles do not by themselves
-show social injustice; A50 §8 says the same of Fricker (LIT-1004) and Falbo
-(LIT-tmpjqgyi). A31 names a related risk: "Incorrect information given a
+show social injustice; A50 §8 says the same of Fricker ([LIT-1004](../literature.d/LIT-1004.md)) and Falbo
+([LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md)). A31 names a related risk: "Incorrect information given a
 stable identifier and a typed relationship may become more authoritative
 than the same mistake in a provisional message." Open.

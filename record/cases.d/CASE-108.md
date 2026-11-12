@@ -179,5 +179,5 @@ governance mechanism being tested"; and a compromised evaluator,
 self-scored, externally scored or layered. The outcomes are the
 probabilities that a valid improvement is accepted, that a harmful one is,
 and that a genuine novel contribution is rejected. Reward-hacking studies
-of research agents (LIT-2276, LIT-2286, unread) are named as sources of
-attacks. CASE-tmpy1ebu carries the design. The case is unchanged.
+of research agents ([LIT-2276](../literature.d/LIT-2276.md), [LIT-2286](../literature.d/LIT-2286.md), unread) are named as sources of
+attacks. [CASE-tmpy1ebu](CASE-tmpy1ebu.md) carries the design. The case is unchanged.

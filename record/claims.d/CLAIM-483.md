@@ -76,7 +76,7 @@ its application to the Nucleation project as a journal article", and asked
 for prior art, concurrent work and evaluations. This is the manuscript the
 `works` vocabulary has held since 2026-10-11 as luria-nucleating-an-argument,
 raised a second time and widened from the argument's drift to the tool and
-its governance (U8, filed as QUESTION-tmps5iou).
+its governance (U8, filed as [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)).
 
 A20 proposed framing it as a design-science paper with a longitudinal case
 and a replay benchmark, and named the validity threat this claim's
@@ -85,8 +85,8 @@ the record and judged the results." Its remedy: "blind or independent
 annotation of benchmark outcomes, publish the task construction rules,
 report negative cases".
 
-The agent studies the exchange proposed (CASE-tmppm4do, CASE-tmpiocs1,
-CASE-tmpy1ebu, CASE-tmpvq90k) would run the record's machinery with
+The agent studies the exchange proposed ([CASE-tmppm4do](../cases.d/CASE-tmppm4do.md), [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md),
+[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md), [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)) would run the record's machinery with
 collaborators other than this owner, which bears on this claim's "beyond one
 owner and one assistant family". They would test what the tool does for
 agents, not whether an argument developed with memoryless collaborators

@@ -20,7 +20,7 @@ first_author: 'Salemi'
 keywords: []
 implementations: []
 summary: >-
-  Alireza Salemi et al. (2025), arXiv 2510.01285. Here because A cited it in the exchange "luria experiment design" at A31 (§2, as "Google researchers evaluated blackboard-based multi-agent systems for data discovery"), for a recent evaluation of blackboard coordination among language-model agents. It bears on QUESTION-tmpxq2sb. What A says of it is unverified until read.
+  Alireza Salemi et al. (2025), arXiv 2510.01285. Here because A cited it in the exchange "luria experiment design" at A31 (§2, as "Google researchers evaluated blackboard-based multi-agent systems for data discovery"), for a recent evaluation of blackboard coordination among language-model agents. It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmp1bytl: LLM-Based Multi-Agent Blackboard System for Information Discovery in Data Science
@@ -33,4 +33,4 @@ Alireza Salemi et al. (2025). arXiv 2510.01285.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2, as "Google researchers evaluated blackboard-based multi-agent systems for data discovery"). It bears on QUESTION-tmpxq2sb.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2, as "Google researchers evaluated blackboard-based multi-agent systems for data discovery"). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).

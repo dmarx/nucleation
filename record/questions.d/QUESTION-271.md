@@ -169,4 +169,4 @@ arrangements, and marks where a record cannot answer it alone: "A Git-based
 approval policy does not independently protect anything when the agent can
 also modify the branch protections, tests and approval credentials." "This
 is a boundary of the implementation, not something that can be solved by
-stronger instructions in the record." The test is in CASE-tmpy1ebu. Open.
+stronger instructions in the record." The test is in [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md). Open.

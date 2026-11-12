@@ -245,7 +245,7 @@ A21's simulation of a smaller version is not filed as an executed study:
 ## Note of 2026-11-12: an adaptation to a record-keeping team, and a theory for its fourth capability, from "luria experiment design"
 
 A41 and A43 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to adapt this case to a team of agents
-that keeps its inquiry in a governed record (CASE-tmpy1ebu), and describe
+that keeps its inquiry in a governed record ([CASE-tmpy1ebu](CASE-tmpy1ebu.md)), and describe
 it accurately as "Active, but it describes an unexecuted study—not an
 established result". A43 credits this case with the matched-first-stage
 branch and the separation of internal from external restoration, and
@@ -255,6 +255,6 @@ capability guards against: "a team may improve its research throughput by
 dropping expensive independent source verification. Its immediate task
 score rises, but its ability to recognize future errors deteriorates."
 
-A50 §6 and A51 offer Woods's graceful extensibility (LIT-2287, unread) as
+A50 §6 and A51 offer Woods's graceful extensibility ([LIT-2287](../literature.d/LIT-2287.md), unread) as
 the theory of what this case measures, separating "Robustness", "Adaptive
 recovery" and "Graceful extensibility". The case is unchanged.

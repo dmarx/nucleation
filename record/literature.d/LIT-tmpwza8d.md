@@ -19,7 +19,7 @@ first_author: 'Erman'
 keywords: []
 implementations: []
 summary: >-
-  Lee D. Erman et al. (1980), ACM Computing Surveys, DOI 10.1145/356810.356816. Here because A cited it in the exchange "luria experiment design" at A31 (§2), for independent knowledge sources coordinating through a shared, structured blackboard of hypotheses; A's point is that "the shared workspace itself is therefore not new". It bears on QUESTION-tmpxq2sb. What A says of it is unverified until read.
+  Lee D. Erman et al. (1980), ACM Computing Surveys, DOI 10.1145/356810.356816. Here because A cited it in the exchange "luria experiment design" at A31 (§2), for independent knowledge sources coordinating through a shared, structured blackboard of hypotheses; A's point is that "the shared workspace itself is therefore not new". It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmpwza8d: The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty
@@ -32,4 +32,4 @@ Lee D. Erman et al. (1980), ACM Computing Surveys. DOI 10.1145/356810.356816.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on QUESTION-tmpxq2sb.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).

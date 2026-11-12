@@ -74,8 +74,8 @@ information from budget for a study of agents equipped with the record:
 relevant facts, allowing us to compare access and operations. In a
 budget-equivalent experiment, each condition gets the same storage,
 retrieval, and processing budget". A cites this case for it. A36 adds a
-trial on CLAIM-293's two worlds of equal topology, and a targeted
+trial on [CLAIM-293](../claims.d/CLAIM-293.md)'s two worlds of equal topology, and a targeted
 dependency report as an arm. A39 adds a precedent from group research:
 transactive-memory experiments that separate knowing who knows what from
-communication itself (LIT-tmpmvfl2 and LIT-2272, unread). The design is
+communication itself ([LIT-tmpmvfl2](../literature.d/LIT-tmpmvfl2.md) and [LIT-2272](../literature.d/LIT-2272.md), unread). The design is
 unchanged; the study remains unrun.

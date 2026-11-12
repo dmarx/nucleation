@@ -20,7 +20,7 @@ first_author: 'Apostolou'
 keywords: []
 implementations: []
 summary: >-
-  Dimitris Apostolou et al. (2011), Government Information Quarterly, DOI 10.1016/j.giq.2010.03.007. Here because A cited it in the exchange "luria experiment design" at A22, for design-rationale knowledge used with formal consistency methods for ontology-based change management, "a particularly important paper to engage rather than accidentally rediscover". It bears on QUESTION-tmps5iou. What A says of it is unverified until read.
+  Dimitris Apostolou et al. (2011), Government Information Quarterly, DOI 10.1016/j.giq.2010.03.007. Here because A cited it in the exchange "luria experiment design" at A22, for design-rationale knowledge used with formal consistency methods for ontology-based change management, "a particularly important paper to engage rather than accidentally rediscover". It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md). What A says of it is unverified until read.
 ---
 
 # LIT-tmp4ivms: A collaborative decision framework for managing changes in e-Government services
@@ -33,4 +33,4 @@ Dimitris Apostolou et al. (2011), Government Information Quarterly. DOI 10.1016/
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on QUESTION-tmps5iou.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22. It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md).
