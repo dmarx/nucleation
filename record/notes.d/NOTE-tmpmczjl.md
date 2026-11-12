@@ -1,0 +1,78 @@
+---
+status: Read
+paper: LIT-tmpdak05
+title: 'Adler (2024) — Arousal by Algorithm'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read: Cornell Law Review's own
+    PDF,
+    `https://publications.lawschool.cornell.edu/lawreview/wp-content/uploads/sites/2/2024/08/Adler-final.pdf`
+    (56 pp., linked from the LIT's URL), via pdftotext. Note for quote
+    checking: pdftotext lowercases the journal's small capitals ("mindgeek",
+    "i") and drops the "fi"/"fl" ligatures ("flter", "refect"); quotes below
+    restore only the ligatures, marked. Outcome as the reader gave it:
+    **Outcome: Read** (2026-11-12): read in full the abstract, table of
+    contents, Introduction (787-792), Part I opening (793-794), Part II
+    (803-814), Part V (834-842) and Conclusion (842). Skimmed Part I.B-C
+    (795-803); not read Parts III (feminist debates, 814-829) and IV (First
+    Amendment, 829-834) beyond their openings.
+date: '2026-11-12'
+summary: >-
+  Adler argues that since 2007 pornography has moved onto ad-supported,
+  algorithm-driven "tube sites", mostly owned by one near-monopoly firm
+  (MindGeek, renamed Aylo in 2023), and should be analysed as a "Big Tech"
+  speech-platform problem. Recommendation, rigid categorization,
+  keyword/search optimization and data-driven commissioning of content
+  constrain what users see, shape their preferences, and shape what
+  producers make. She reads this back into the 1980s-90s feminist
+  social-construction debate: though she still rejects MacKinnon's
+  "totalizing theory", the platform form gives pornography more power to
+  construct desire, which should worry sex-positive feminists too. Part V
+  finds the evidence that porn changes sexual practice correlational.
+---
+<!-- inactive-ok-file: ARG-tmpshmi5 CLAIM-tmpcv1pg CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmp9goww LIT-tmpccpc6 — Unavailable; filed from the same exchange -->
+
+# NOTE-tmpmczjl: Adler (2024) — Arousal by Algorithm
+
+## Contribution
+
+A new framing in legal scholarship (porn as a Big Tech speech-platform problem), assembled from secondary sources; no new data.
+
+## Key results
+
+- Abstract (787): "the pornography industry ... should now be reconceived of as a problem of Big Tech and the power of algorithmic speech platforms to shape our culture."
+- 793-794: tube sites "make their money from advertising and the data mining that supports it. the porn tube sites also make money from a very small but devoted subset of porn viewers who pay for premium subscriptions."
+- 809: "platforms do not merely reflect what users want but also construct the very desires that they seem to reflect."
+- 812: "it is a matter of survival for porn producers to create content that will maximize views on Pornhub" (hyphenated "maxi- mize" across lines); producers "create content designed to fit Pornhub’s system of categorizing porn and its keywords, tags, and search terms."
+- 813-814 (drawing on Raustiala & Sprigman 2019): MindGeek scripts commissioned content from user data, "often using A/b testing"; "the trove of data gained through surveillance of user streaming habits is now redeployed to author new content, exquisitely calibrated to conform to mainstream viewing habits. Porn has begun to author itself."
+- 836-837 (citing Mazières et al. 2014): "the top 5% of popular tags covered more than 90% of the porn available."
+- 835: "Pornography and its effects are notoriously hard to measure."
+- 839: on newly conventional acts, "for now we can see only a statistically significant correlation between them (as a 2020 study found), not the causation macKinnon would insist on."
+
+## Assumptions
+
+Findings about political-speech platforms (filter bubbles, rabbit holes, preference shaping) transfer to porn platforms; much evidence is journalistic or from litigation pleadings (e.g. 813 n.100, allegations that survived a motion to dismiss); MindGeek's market share figures come from press sources.
+
+## Concepts
+
+Big Tech speech platforms; algorithmic desire; filter bubble, feedback loop, rabbit hole; categorization; "data-driven creativity" (Raustiala & Sprigman); social construction of sexuality; sex-positive feminism.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** The LIT summary (A27 §§1, 3, 7) is accurate: recommendations, categories and producer incentives shape what audiences encounter and what is produced. But the mechanism Adler describes is **platform-driven conformity to the mainstream**, not a heavy-user minority setting the distribution: content is "calibrated to conform to mainstream viewing habits", and a small paying minority is mentioned only as a secondary revenue source (794). Her extremity claims for porn are by analogy to YouTube and Facebook (807-809), not shown for porn platforms.
+
+- **CLAIM-tmpcv1pg**: **supports the structural premise that platform-read demand shapes production; qualifies the claim's specific mechanism.** Adler supports "a content industry reads demand from activity ... and that sets what everyone is offered" (812-814), but her account weights the mainstream, not "the minority of heaviest users". On the escalation half she offers only the political-platform analogy and a correlational study (839); she states the causal evidence is lacking. Her 5%-of-tags/90%-of-content figure is evidence of concentration, not of drift toward the extreme.
+- **CLAIM-tmpmz271** (activity-weighted demand diverges from person-weighted preference): **leaves open**; she does not distinguish weightings.
+- **ARG-tmpshmi5** (found on recheck): **consistent**; Adler herself treats the practice evidence as correlational.
+
+Searched URL, title, "Pornhub|MindGeek", "filter bubble", "rabbit hole", "data-driven creativ". No duplicate. Missed in the first search: ARG-tmpshmi5; LIT-tmp9goww (Shor and Seida, cited by Adler in a footnote at 836) and LIT-tmpccpc6 are the related registered works from the same exchange.
+
+## Limitations
+
+Legal-cultural argument; secondary and journalistic sources; Parts III-IV not read; no measurement of recommendation effects on porn platforms.

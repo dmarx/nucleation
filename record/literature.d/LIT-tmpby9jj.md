@@ -1,9 +1,14 @@
 ---
 status: Unfetched
 status_note: >-
-  Reading attempted on 2026-11-12; nothing of the work was read. Copies
-  located and what stopped each: . A neighbour was read in its place:
-  LIT-tmpfjc6u, which stands in only in part (see "Standing in the record").
+  Unfetched on 2026-11-12. The journal's own repository PDF,
+  https://scholar.smu.edu/cgi/viewcontent.cgi?article=5055&context=smulr,
+  returned a Cloudflare challenge, as did an SSRN copy whose exact address
+  was not recorded; neither was retried. Only the landing page,
+  https://scholar.smu.edu/smulr/vol78/iss3/11/, was read, for its metadata
+  and abstract. A neighbour was read in its place: Greely 2026
+  (LIT-tmpfjc6u), which covers the Alabama LePage decision and its aftermath
+  but not this article's family-law analysis or its proposed principles.
 title: 'The Future of Frozen Embryos'
 version: 2
 history:

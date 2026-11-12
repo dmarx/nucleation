@@ -29,6 +29,7 @@ summary: >-
   investigating." Stipulated; a constructed case, not an allegation about
   any newsroom. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpifp69 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the duty of answerability the stipulated commitment would engage -->
 <!-- inactive-ok-file: CASE-229 — Proposed; the record's case of a disabled challenge procedure with harm and remedy held fixed -->
@@ -95,3 +96,9 @@ structural pre-condition (newsrooms moved away from communities, "distance
 decay", fewer original local stories) and a self-reinforcing direction, but
 it has no traffic data and does not observe the feedback loop from measured
 demand to further cuts. Other held entries it bears on (found on recheck):
+
+## Note of 2026-11-12: Næss (2024/2025), Investigative journalism: Market failures and government intervention through public broadcasters, read
+
+From the reading in NOTE-tmpaa0uz (LIT-tmpdq493), the reader's assessment as
+checked by the filer: **supports weakly**, by showing value that measured
+paid demand cannot register.

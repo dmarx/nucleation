@@ -27,6 +27,7 @@ summary: >-
   part of the owner's claim. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpccpc6 — Unavailable; filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmp9goww — Unavailable; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
@@ -78,3 +79,16 @@ its abstract a rise in mostly consensual aggression over 2000-2024. The
 verdict that the escalation half is "contradicted on one measure" therefore
 rests on an unread 2018 study whose own successor may reverse it on that
 measure; read it as "unsettled on one measure" until both are read.
+
+## Note of 2026-11-12: Adler (2024), Arousal by Algorithm, read
+
+From the reading in NOTE-tmpmczjl (LIT-tmpdak05), the reader's assessment as
+checked by the filer: **consistent**; Adler herself treats the practice
+evidence as correlational.
+
+## Note of 2026-11-12: Ince et al. (2024), Problematic pornography use and novel patterns of escalating use, read
+
+From the reading in NOTE-tmp0g2i6 (LIT-tmpf67mb), the reader's assessment as
+checked by the filer: **supports** its verdict that the escalation evidence
+is "small, observational and self-reported": this study is cross-sectional,
+single-item for genre escalation, and self-report.

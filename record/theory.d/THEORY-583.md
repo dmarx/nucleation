@@ -38,6 +38,7 @@ summary: >-
   against IIT's single Self is a bracket, and the closing remarks on
   experience are labelled speculation.
 ---
+<!-- inactive-ok-file: NOTE-tmpkzn27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; a neighbouring account, named for contrast -->
 <!-- inactive-ok-file: THEORY-043 THEORY-071 THEORY-232 — Proposed; accounts of agency named as rival or neighbouring, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this account partly answers -->
@@ -146,3 +147,12 @@ normalization of oncogene-driven tumours) that bear on THEORY-583's
 changes which goal is pursued"), though only as citations here: the filer
 should not count them as read. It does not supply a measurement of the light
 cone.
+
+## Note of 2026-11-12: George and Bates (2022), Mechanisms Underlying Influence of Bioelectricity in Development, read
+
+From the reading in NOTE-tmpkzn27 (LIT-tmpgrltt), the reader's assessment as
+checked by the filer: **qualifies.** It supports the premise that
+bioelectric signalling coordinates cells into tissue-level patterning, while
+reading it as calcium and Vmem signals feeding known pathways, mechanism
+unclear, with no agential or goal language. It neither supports nor refutes
+Levin's interpretation; it shows the mainstream does not need it.

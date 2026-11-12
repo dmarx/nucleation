@@ -48,6 +48,7 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md), A's, and the owner has endorsed
   neither.
 ---
+<!-- inactive-ok-file: NOTE-tmp5dpvo — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the owner's thesis and A's answers -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form -->
@@ -105,3 +106,9 @@ needs no response to any challenge: a reward for few recognized failures
 penalizes the inquiry that would recognize more ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md)). A39 §7
 recasts answerability as a demand A_C in the compatibility complex. The
 question stays Open.
+
+## Note of 2026-11-12: Dierickx et al. (2024), A data-centric approach for ethical and trustworthy AI in journalism, read
+
+From the reading in NOTE-tmp5dpvo (LIT-tmp7cw8s), the reader's assessment as
+checked by the filer: **leaves open**; it shows principles operationalized
+as practice-level checks, not an organization's counter-normativity.

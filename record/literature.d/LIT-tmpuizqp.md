@@ -4,7 +4,7 @@ status_note: >-
   Unfetched on 2026-11-12. The author's postprint in the University of
   Southampton repository,
   https://eprints.soton.ac.uk/427045/1/Postprint_MIND_Part_of_your_Mother_.docx,
-  returned HTTP 403 "Access Denied .. Protected by BotStopper"; not
+  returned HTTP 403 "Access Denied ... Protected by BotStopper"; not
   retried. Sought as a neighbour for [LIT-tmp63w88](LIT-tmp63w88.md) (Hershenov 2026), which
   argues from Kingma's four criteria to the opposite conclusion.
 title: 'Were You a Part of Your Mother?'

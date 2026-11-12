@@ -23,6 +23,7 @@ summary: >-
   as input. The owner's U21 answered with resource-bounded identification
   ([CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md), [CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md)).
 ---
+<!-- inactive-ok-file: NOTE-tmp9papc NOTE-tmpxhqv2 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp9g14f — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpyc5md CLAIM-tmpvceet — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
@@ -137,3 +138,17 @@ sufficiency) are still chosen by the auditor, and the outcome label may
 itself be biased by the institution (result 8), which is the question's
 worry that the evidence is shaped by the governance being judged. Other held
 entries it bears on (found on recheck):
+
+## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
+
+From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+checked by the filer: **bears directly, leaves open.** Burke et al. state
+the problem (stakeholder identification is the first step, platforms are
+reluctant to disclose their multistakeholder aspects, governance is "a
+separate question") but give a method, not an answer to the governance
+circularity.
+
+## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
+
+From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+checked by the filer: not bearing directly.

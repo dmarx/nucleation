@@ -1,10 +1,15 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §§1, 3, 7. No reading was attempted.
+status: Active
 title: 'Arousal by Algorithm'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpmczjl; account THEORY-tmpvmddc. Status
+    Active. The reading found the volume and pages: Cornell Law Review
+    109(4): 787-842 (2024). Author Amy Adler, NYU School of Law; a law
+    review article. No exact date earlier than 2024-08-01 was found.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,18 +24,33 @@ first_author: 'Adler'
 keywords: []
 implementations: []
 summary: >-
-  Adler (2024), Cornell Law Review. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §§1, 3, 7. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md). In A's account, which is unverified until read, it argues that pornography platforms' recommendations, categories and producer incentives shape both what audiences encounter and what gets produced.
+  Adler (2024), Cornell Law Review. Read on 2026-11-12 in NOTE-tmpmczjl:
+  Adler argues that since 2007 pornography has moved onto ad-supported,
+  algorithm-driven "tube sites", mostly owned by one near-monopoly firm
+  (MindGeek, renamed Aylo in 2023), and should be analysed as a "Big Tech"
+  speech-platform problem. Recommendation, rigid categorization,
+  keyword/search optimization and data-driven commissioning of content
+  constrain what users see, shape their preferences, and shape what
+  producers make. Its account is THEORY-tmpvmddc. Registered from the
+  exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
+  cited it at A27 §§1, 3, 7.
 ---
+<!-- inactive-ok-file: THEORY-tmpvmddc — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
 # LIT-tmpdak05: Arousal by Algorithm
 
-Amy Adler (2024). "Arousal by Algorithm." *Cornell Law Review*.
+Amy Adler (2024). "Arousal by Algorithm." *Cornell Law Review 109(4): 787-842*.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it argues that pornography platforms' recommendations, categories and producer incentives shape both what audiences encounter and what gets produced.
+Read on 2026-11-12 (NOTE-tmpmczjl). A new framing in legal scholarship (porn
+as a Big Tech speech-platform problem), assembled from secondary sources; no
+new data.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §§1, 3, 7. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpmczjl and its account
+THEORY-tmpvmddc.

@@ -1,10 +1,14 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §2 and §8. No reading was attempted.
+status: Active
 title: 'The Evolution and Ecology of Host Manipulation in Helminth Parasites: A Phylogenetic Meta‐Analysis'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp1p0ry; account THEORY-tmpyuy3t. Status
+    Active. The article type is a Letter in Ecology Letters (JATS
+    article-type "letter"), not a review as OpenAlex has it.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,18 +23,31 @@ first_author: 'Hafer‐Hahmann'
 keywords: []
 implementations: []
 summary: >-
-  Hafer‐Hahmann (2026), DOI-10.1111/ele.70340. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §2 and §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md). In A's account, which is unverified until read, it is a meta-analysis of 207 studies (82 helminth taxa, 80 host taxa) finding host manipulation stronger in mature parasite stages and in the presence of the right predator.
+  Hafer‐Hahmann (2026), DOI-10.1111/ele.70340. Read on 2026-11-12 in
+  NOTE-tmp1p0ry: A Bayesian phylogenetic meta-analysis (brms) of host
+  manipulation by trophically transmitted helminths: 1,635 observations, 207
+  papers, 82 parasite and 80 host taxa. Effect size is Cohen's d for
+  infected vs uninfected hosts, signed by assumed effect on predation
+  susceptibility. Its account is THEORY-tmpyuy3t. Registered from the
+  exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
+  cited it at A19 §2 and §8.
 ---
+<!-- inactive-ok-file: THEORY-tmpyuy3t — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 
 # LIT-tmpfw2u8: The Evolution and Ecology of Host Manipulation in Helminth Parasites: A Phylogenetic Meta‐Analysis
 
-Nina Hafer‐Hahmann (2026). "The Evolution and Ecology of Host Manipulation in Helminth Parasites: A Phylogenetic Meta‐Analysis." *Ecology Letters 29(2)*. DOI-10.1111/ele.70340.
+Nina Hafer‐Hahmann (2026). "The Evolution and Ecology of Host Manipulation in Helminth Parasites: A Phylogenetic Meta‐Analysis." *Ecology Letters 29(2): e70340*, Letter. DOI-10.1111/ele.70340.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it is a meta-analysis of 207 studies (82 helminth taxa, 80 host taxa) finding host manipulation stronger in mature parasite stages and in the presence of the right predator.
+Read on 2026-11-12 (NOTE-tmp1p0ry). The first phylogenetic meta-analysis to
+test theoretical drivers of manipulation strength across helminths, rather
+than only documenting that manipulation occurs.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §2 and §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md).
+
+Read on 2026-11-12; the reading is NOTE-tmp1p0ry and its account
+THEORY-tmpyuy3t.

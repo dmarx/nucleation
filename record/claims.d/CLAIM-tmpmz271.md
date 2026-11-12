@@ -35,6 +35,7 @@ summary: >-
   mechanism, [CLAIM-tmpcv1pg](CLAIM-tmpcv1pg.md), rests on it. The wording is A's; adopting it
   is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmp9papc NOTE-tmpxhqv2 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp9g14f — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpvev3t — Deferred; registered from the same exchange, unread -->
@@ -121,3 +122,28 @@ is concentrated in a small minority (5% of purchasers ≈ half of spend), so
 revenue-weighted demand is dominated by them. It does **not** test the
 second half (that the minority's marginal response moves design); the paper
 has no design variable.
+
+## Note of 2026-11-12: Adler (2024), Arousal by Algorithm, read
+
+From the reading in NOTE-tmpmczjl (LIT-tmpdak05), the reader's assessment as
+checked by the filer: **leaves open**; she does not distinguish weightings.
+
+## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
+
+From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+checked by the filer: **context only.** The paper names platforms'
+commercial weighting of recommendations (the Spotify disclosure; the
+popularity-vs-long-tail conflict) but offers no evidence on whose demand
+sets what is produced.
+
+## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
+
+From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+checked by the filer: **qualifies.** The whales' marginal revenue response
+to difficulty is enormous (Table 6: overall revenue ×23.49 at half win
+probability) and against non-whales' preference, yet the observed design is
+near the engagement-preserving end. The authors' explanation, non-whale
+engagement feeding adoption and rankings, is consistent with the claim only
+if that indirect revenue is counted in "marginal revenue response"; they do
+not estimate it. So in this one game, revenue weight did not simply set the
+design.

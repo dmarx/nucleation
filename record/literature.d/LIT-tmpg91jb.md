@@ -1,10 +1,27 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each:
+  https://journals.sagepub.com/doi/pdf/10.1177/14648849261492006 —
+  publisher, CC-BY (OpenAlex hybrid; Semantic Scholar HYBRID CCBY) —
+  **Cloudflare "Just a moment..." HTTP 403**, 2026-11-12.;
+  https://research.rug.nl/en/publications/cf6221df-855d-488f-97c7-42845ae86e97
+  — institutional repository record (published version, CC-BY) — page
+  fetched (HTTP 200); no abstract text in the served HTML.;
+  https://research.rug.nl/files/1574482845/dierickx-et-al-2026-from-normative-principles-to-epistemic-governance-a-workflow-based-analysis-of-european-journalism.pdf
+  — institutional repository PDF — **Cloudflare "Just a moment..." HTTP
+  403**, 2026-11-12. A neighbour was read in its place: LIT-tmp7cw8s, which
+  stands in only in part (see "Standing in the record").
 title: 'From normative principles to epistemic governance: A workflow-based analysis of European journalism ethics in datafied environments'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053). The second author is Marília Gehrke.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -25,7 +42,7 @@ summary: >-
 
 # LIT-tmpg91jb: From normative principles to epistemic governance: A workflow-based analysis of European journalism ethics in datafied environments
 
-Laurence Dierickx, Marilia Gehrke and Carl-Gustav Lindén (2026). "From normative principles to epistemic governance: A workflow-based analysis of European journalism ethics in datafied environments." *Journalism*. DOI-10.1177/14648849261492006.
+Laurence Dierickx, Marília Gehrke and Carl-Gustav Lindén (2026). "From normative principles to epistemic governance: A workflow-based analysis of European journalism ethics in datafied environments." *Journalism*. DOI-10.1177/14648849261492006.
 
 ## Key takeaways
 
@@ -34,3 +51,10 @@ Laurence Dierickx, Marilia Gehrke and Carl-Gustav Lindén (2026). "From normativ
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. It bears on [QUESTION-441](../questions.d/QUESTION-441.md).
+
+Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmp7cw8s. The
+reader on how far it stands in: Dierickx, Opdahl, Khan, Lindén and Guerrero
+Rojas (2024), "A data-centric approach for ethical and trustworthy AI in
+journalism", *Ethics and Information Technology* (OA). A weak stand-in: it
+shares authors and the principle-to-workflow idea, but concerns ML training
+data, not European journalism-ethics codes in datafied newsrooms.

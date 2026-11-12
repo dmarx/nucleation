@@ -1,10 +1,26 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §1. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each:
+  https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bioe.13423 —
+  publisher, free to read (OpenAlex `oa_status: bronze`, publishedVersion) —
+  **Cloudflare "Just a moment..." challenge, HTTP 403**, 2026-11-12. Not
+  retried; https://pubmed.ncbi.nlm.nih.gov/40317799 — PubMed record —
+  abstract only; no PMC copy (Europe PMC: no full text).;
+  https://philpeople.org/profiles/joel-cox/publications — author's
+  PhilPeople profile (web search shows it lists this paper with abstract) —
+  **Cloudflare challenge, HTTP 403**, 2026-11-12. Whether PhilArchive holds
+  an author copy is unknown.
 title: 'Abortion and Imminent Personhood'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-

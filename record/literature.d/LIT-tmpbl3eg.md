@@ -1,9 +1,16 @@
 ---
 status: Unfetched
 status_note: >-
-  Reading attempted on 2026-11-12; nothing of the work was read. Copies
-  located and what stopped each: . A neighbour was read in its place:
-  LIT-tmpzbm28, which stands in only in part (see "Standing in the record").
+  Unfetched on 2026-11-12. The authors' SSRN working paper,
+  https://doi.org/10.2139/ssrn.4326724 (papers.ssrn.com), is a lawful open
+  copy; that host had returned a Cloudflare challenge to an earlier reader
+  in the same pass, so it was not requested again. The publisher's version,
+  https://pubsonline.informs.org/doi/pdf/10.1287/opre.2023.0026, is by
+  subscription, and its host also returned a challenge. No arXiv version was
+  found. Only metadata and an abstract were seen. A neighbour was read in
+  its place: Gan's "Gacha Game" (LIT-tmpzbm28), which reaches a related
+  conclusion by a different model and carries none of this paper's
+  algorithms.
 title: 'Algorithms for Loot Box Design'
 version: 2
 history:

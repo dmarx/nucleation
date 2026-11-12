@@ -70,3 +70,12 @@ Proposed: the inference has the right form for the first two senses and
 stands or falls with the meta-analysis on reading. It gives no support to
 the claim's denial of the third sense beyond the absence of a positive
 case.
+
+## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
+
+From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+checked by the filer: **supports with a qualification.** The stage- and
+predator-dependence premise is now read and confirmed; but the predator
+effect is weaker than A's gloss (for immature parasites "their manipulation
+never clearly differed from zero"), drivers predicted by theory were not
+found, and publication bias inflates mature-stage effects.

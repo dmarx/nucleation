@@ -80,6 +80,7 @@ summary: >-
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 ---
+<!-- inactive-ok-file: NOTE-tmpxhqv2 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
@@ -417,3 +418,15 @@ directly traceable link"). It **qualifies** the claim's spirit in one
 respect: the paper still summarises across indicators with medians and
 interquartile ranges, a cross-indicator aggregate that the claim would treat
 as a declared measure, not as frustration itself.
+
+## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
+
+From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+checked by the filer: **supports by analogy, independently.** Burke et al.
+keep the multi-metric vector as a legitimate end state and allow expert
+orderings with incomparable pairs, which is CLAIM-347's point that relief
+need not be a quantity and that two reorganizations can be incomparable.
+They do not have CLAIM-347's sharp edge: they allow converting metrics to
+constraints or weights, and say nothing on comparing systems with different
+stakeholder sets (CLAIM-347's "dropping or suppressing a demand is not
+relief").

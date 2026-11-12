@@ -95,3 +95,10 @@ From the reading in [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md) ([LIT-tmp18mi5]
 checked by the filer: the STAg pro-social result is a host response to
 parasite antigen without live parasite; relevant to separating host defence
 from manipulation in the *Toxoplasma* case.
+
+## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
+
+From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+checked by the filer: **leaves open.** The meta-analysis covers helminths,
+not these taxa; it supports the general phenomenon, not the case's
+particulars.

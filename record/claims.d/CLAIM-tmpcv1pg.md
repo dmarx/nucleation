@@ -42,6 +42,7 @@ summary: >-
   what A reported for each. The owner then moved the test to loot boxes
   ([CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md)).
 ---
+<!-- inactive-ok-file: NOTE-tmp9papc NOTE-tmpxhqv2 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CLAIM-tmphgjbz ARG-tmpshmi5 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
@@ -157,3 +158,41 @@ the loop does not need escalation. It supports the claim's caveat that
 interchangeable categories": the paper separates Non-Traditional Niche from
 Extreme/Harmful, with different correlates. Other held entries it bears on
 (found on recheck):
+
+## Note of 2026-11-12: Adler (2024), Arousal by Algorithm, read
+
+From the reading in NOTE-tmpmczjl (LIT-tmpdak05), the reader's assessment as
+checked by the filer: **supports the structural premise that platform-read
+demand shapes production; qualifies the claim's specific mechanism.** Adler
+supports "a content industry reads demand from activity ... and that sets
+what everyone is offered" (812-814), but her account weights the mainstream,
+not "the minority of heaviest users". On the escalation half she offers only
+the political-platform analogy and a correlational study (839); she states
+the causal evidence is lacking. Her 5%-of-tags/90%-of-content figure is
+evidence of concentration, not of drift toward the extreme.
+
+## Note of 2026-11-12: Ince et al. (2024), Problematic pornography use and novel patterns of escalating use, read
+
+From the reading in NOTE-tmp0g2i6 (LIT-tmpf67mb), the reader's assessment as
+checked by the filer: **leaves open, slightly qualifies the escalation
+half.** It shows, cross-sectionally and individually, that self-reported
+escalation in time and (more weakly) toward "more extreme" content co-occurs
+with control difficulties. It does not show that heavy users drive what is
+produced or offered, nor any time trend; the authors warn escalation can be
+non-pathological curiosity. Endorsement of genre escalation is low on
+average (about 2.5 of 7).
+
+## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
+
+From the reading in NOTE-tmpxhqv2 (LIT-tmpfkveo), the reader's assessment as
+checked by the filer: **context only.** The paper names platforms'
+commercial weighting of recommendations (the Spotify disclosure; the
+popularity-vs-long-tail conflict) but offers no evidence on whose demand
+sets what is produced.
+
+## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
+
+From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+checked by the filer: **qualifies** the structural half in the same way: the
+heaviest spenders do not set the distribution of what everyone is offered
+here.

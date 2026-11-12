@@ -366,3 +366,12 @@ Mauss ([NOTE-1658](../notes.d/NOTE-1658.md)) gives a social route to dependence 
 From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
 checked by the filer: use "vertical transmission" for symbiont inheritance;
 result 3 is a measured analogue at the community level, a minor link.
+
+## Note of 2026-11-12: Strand and Burke (2012), Polydnaviruses as Symbionts and Gene Delivery Systems, read
+
+From the reading in NOTE-tmpkdoms (LIT-tmpaus56), the reader's assessment as
+checked by the filer: **bears directly**: a route to dependence through gene
+transfer into the host genome with control of replication handed to host
+machinery, plus vertical transmission, giving full reproductive cohesion
+between wasp and virus; and a shared origin (100 million years, one
+ancestral virus) that QUESTION-277's "alignment of selection" item needs.

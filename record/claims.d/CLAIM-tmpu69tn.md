@@ -41,6 +41,7 @@ summary: >-
   boundary of the individual" and "the boundary of its governance" need
   not coincide. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpcqa6k — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmps2df6 — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdrocb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmptfr59 NOTE-tmpwjlut — Skimmed; the reading filed from the same exchange -->
@@ -162,3 +163,26 @@ controlled case of the combination this claim lists as "outside by lineage,
 serving the host": cells of another individual's lineage doing the host's
 maintenance work. It supports the claim's point that lineage and service
 come apart; it says nothing about authorization. No status change.
+
+## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
+
+From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+checked by the filer: **supports weakly**: a trait encoded in one organism
+and expressed in another's behaviour, against the host's interests, is the
+"parasitic capture" combination; the paper does not discuss governance.
+
+## Note of 2026-11-12: Strand and Burke (2012), Polydnaviruses as Symbionts and Gene Delivery Systems, read
+
+From the reading in NOTE-tmpkdoms (LIT-tmpaus56), the reader's assessment as
+checked by the filer: **supports** the "foreign-origin cells (here, genes)
+serving the host" combination: nudivirus origin, now an "obligate beneficial
+symbiont" of the wasp; and its effects on the caterpillar are a third
+organism's capture.
+
+## Note of 2026-11-12: Cuny and Poelman (2022), Evolution of koinobiont parasitoid host regulation and consequences for indirect plant defence, read
+
+From the reading in NOTE-tmpcqa6k (LIT-tmpxupl8), the reader's assessment as
+checked by the filer: **supports** that one organism's injected factors
+(including domesticated viruses) govern another's development and feeding
+through the host's own endocrine machinery; the regulation serves the
+parasitoid.

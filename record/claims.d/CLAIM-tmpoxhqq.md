@@ -38,6 +38,7 @@ summary: >-
   [ARG-tmp1jad4](../arguments.d/ARG-tmp1jad4.md) weighs the evidence. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpcqa6k — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: ARG-tmp1jad4 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-413 — Proposed; the four roles in units of selection, the beneficiary among them -->
@@ -115,3 +116,21 @@ host's. This supports the claim's caution at its first step and complicates
 inferences in [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md). The paper itself does not discuss manipulation;
 the link is the record's inference. Other held entries it bears on (found on
 recheck):
+
+## Note of 2026-11-12: Hafer-Hahmann (2026), The Evolution and Ecology of Host Manipulation in Helminth Parasites, read
+
+From the reading in NOTE-tmp1p0ry (LIT-tmpfw2u8), the reader's assessment as
+checked by the filer: **supports the causal-control-by-adaptation half.**
+Stage dependence and the dominance of mature parasites in mixed infections
+are what selection for transmission predicts. It says nothing on intentional
+agency or on mechanism ("To fully understand host manipulation, we must link
+its evolutionary dynamics with the underlying mechanisms"). Its "extended
+phenotype" framing is the record's "selected adaptations controlling
+another's behaviour" in Dawkins's terms.
+
+## Note of 2026-11-12: Cuny and Poelman (2022), Evolution of koinobiont parasitoid host regulation and consequences for indirect plant defence, read
+
+From the reading in NOTE-tmpcqa6k (LIT-tmpxupl8), the reader's assessment as
+checked by the filer: **supports by extension**: control by selected
+adaptations through the host's own machinery (its hormones), with plasticity
+in direction that is what adaptation, not pathology, predicts.

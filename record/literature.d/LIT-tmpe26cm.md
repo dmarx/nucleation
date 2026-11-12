@@ -1,10 +1,27 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each:
+  https://www.annualreviews.org/doi/pdf/10.1146/annurev-ento-121423-013425
+  (via https://doi.org/10.1146/annurev-ento-121423-013425) — publisher,
+  CC-BY (OpenAlex hybrid OA; Semantic Scholar openAccessPdf HYBRID CCBY) —
+  **Cloudflare "Just a moment..." HTTP 403**, 2026-11-12. annualreviews.org
+  not used again in this batch; PubMed 41056370 / Europe PMC — index — no
+  PMC copy, no full text; abstract only. A neighbour was read in its place:
+  LIT-tmpaus56, which stands in only in part (see "Standing in the record").
 title: 'Large DNA Viruses That Parasitoid Wasps Transmit to Hosts'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053). `published:` moves from 2026-01-28 to
+    2025-10-07, the electronic publication date on Europe PMC (OpenAlex
+    agrees), the earliest exact date (ADR-002). Print: Annual Review of
+    Entomology 71: 209-228 (2026).
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -13,7 +30,7 @@ tags:
 - natural-sciences
 - endosymbiosis
 date: '2026-11-12'
-published: '2026-01-28'
+published: '2025-10-07'
 doi: '10.1146/annurev-ento-121423-013425'
 first_author: 'Strand'
 keywords: []
@@ -34,3 +51,12 @@ Michael R. Strand, Kelsey A. Coffman and Gaelen R. Burke (2026). "Large DNA Viru
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [QUESTION-277](../questions.d/QUESTION-277.md).
+
+Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpaus56. The
+reader on how far it stands in: Strand and Burke (2012), "Polydnaviruses as
+Symbionts and Gene Delivery Systems", *PLoS Pathogens* (OA), by two of the
+three authors. It stands in for the domesticated-virus part of the review
+(bracovirus life cycle, two-component genome, nudivirus origin, convergence
+of ichnoviruses), not for the 2026 review's survey of other,
+non-domesticated wasp-transmitted viruses or its "many more viruses than are
+currently known" conclusion.

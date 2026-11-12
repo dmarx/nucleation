@@ -32,6 +32,8 @@ summary: >-
   hypotheses kept apart, and three levels of data. Not run. The cost
   figures were rechecked by the filer.
 ---
+<!-- inactive-ok-file: NOTE-tmp9papc — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpftfht LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
@@ -121,3 +123,12 @@ optimization against a homogeneous behavioural buyer, with no spending tail.
 The case's H1/H2 test needs a control for this: design drift toward a
 revenue-optimal mechanism is not by itself evidence that a minority selected
 it. Gan does not address heterogeneous spenders or "whales".
+
+## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
+
+From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+checked by the filer: **bears directly.** It is the closest existing study:
+one game, full logs, whale vs non-whale tastes, and design counterfactuals.
+Its design lever is stage difficulty, not the real-money cost of a
+standardized reward that the case proposes to track; it is cross-sectional
+in design (one release), so it does not test drift across releases.

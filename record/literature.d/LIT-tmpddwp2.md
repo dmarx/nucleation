@@ -1,10 +1,27 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Where the
+  reader looked: https://www.nature.com/articles/s41579-024-01136-9 —
+  publisher — **Paywall** ("Buy this article", "Access through your
+  institution"), 2026-11-12. Abstract visible; OpenAlex
+  (api.openalex.org/works/doi:10.1038/s41579-024-01136-9) — index —
+  `oa_status: closed`, no repository copy; Europe PMC (PMID 39743581) —
+  repository — no PMC id, no full text; Semantic Scholar — index —
+  openAccessPdf status CLOSED; Europe PMC search, AUTH Ohara TE and Hsiao
+  EY — repository — only their 2024 research paper (PMC11772968,
+  small-intestinal metabolites and vagal activity) and its erratum; not this
+  review. A neighbour was read in its place: LIT-tmpth8gj, which stands in
+  only in part (see "Standing in the record").
 title: 'Microbiota–neuroepithelial signalling across the gut–brain axis'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). No lawful full text was found
+    (ADR-041); an abstract, where seen, is not a reading.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -34,3 +51,12 @@ Takahiro E. Ohara and Elaine Y. Hsiao (2025). "Microbiota–neuroepithelial sign
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on [CASE-047](../cases.d/CASE-047.md), [CLAIM-166](../claims.d/CLAIM-166.md).
+
+Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmpth8gj. The
+reader on how far it stands in: Ahmed et al. (2022), "Microbiota-derived
+metabolites as drivers of gut–brain communication", *Gut Microbes* (OA). It
+stands in only partly: it covers the metabolite side and
+enterochromaffin/L-cell signalling, not the neuroepithelial interface
+(neuropod cells, sensory-nerve contacts) that is Ohara and Hsiao's centre.
+Its value to the record is its explicit grading of human evidence. See the
+neighbour report.

@@ -58,6 +58,7 @@ summary: >-
 bears_on:
 - QUESTION-033
 ---
+<!-- inactive-ok-file: NOTE-tmpi4x1w — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
@@ -217,3 +218,11 @@ lower-level activity reaches hunger and affect, consistent with CLAIM-166's
 person's own microbiome changes hunger or affect, which is what the claim's
 defeat condition turns on. The paper is a perspective, not a review of
 microbiome effects.
+
+## Note of 2026-11-12: Ahmed et al. (2022), Microbiota-derived metabolites as drivers of gut–brain communication, read
+
+From the reading in NOTE-tmpi4x1w (LIT-tmpth8gj), the reader's assessment as
+checked by the filer: **supports its grading** that routes exist and are
+causal in animals while human evidence is modest; this review is explicit
+that human evidence is "scarce and contradictory" for SCFAs and "limited"
+overall.

@@ -29,6 +29,7 @@ reported_in:
 - NOTE-703
 - NOTE-706
 ---
+<!-- inactive-ok-file: NOTE-tmpi4x1w — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-166 — Proposed; the threshold criterion and the owner's claim this case serves, open -->
 
@@ -89,3 +90,9 @@ it bears on (found on recheck):
 From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
 checked by the filer: the GF, FMT and probiotic-trial details agree with the
 case's bullets.
+
+## Note of 2026-11-12: Ahmed et al. (2022), Microbiota-derived metabolites as drivers of gut–brain communication, read
+
+From the reading in NOTE-tmpi4x1w (LIT-tmpth8gj), the reader's assessment as
+checked by the filer: **supports** the case's routes (metabolites, gut
+hormones, nerves).

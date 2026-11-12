@@ -28,6 +28,7 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmp9papc NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CASE-tmpd5eqf CLAIM-tmpifp69 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpw11wj LIT-tmpk0xvf — Deferred; registered from the same exchange, unread -->
 
@@ -71,3 +72,14 @@ Christin ([LIT-tmpw11wj](../literature.d/LIT-tmpw11wj.md)) reports newsrooms tha
 Proposed. The analogy carries the owner's claim's structure and not its
 causal strength; the claim's own defeater, the advertising-collapse rival,
 is untouched by it.
+
+## Note of 2026-11-12: Næss (2024/2025), Investigative journalism: Market failures and government intervention through public broadcasters, read
+
+From the reading in NOTE-tmpaa0uz (LIT-tmpdq493), the reader's assessment as
+checked by the filer: consistent with its point that what news "weights"
+differs (here, external value not captured by any revenue signal).
+
+## Note of 2026-11-12: Amano and Simonov, What Makes Players Pay? An Empirical Investigation of In-Game Lotteries, read
+
+From the reading in NOTE-tmp9papc (LIT-tmpftfht), the reader's assessment as
+checked by the filer: not bearing directly.
