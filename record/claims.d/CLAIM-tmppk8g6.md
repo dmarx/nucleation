@@ -111,7 +111,7 @@ would measure it is [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).
   comparator"; the claim is defeated if it does as well.
 - Not what governance does on routine tasks, where no schema change is
   warranted. A45 also predicted that there it adds cost and no
-  correction; that is CLAIM-tmpbszhs, secondary and tested on its own.
+  correction; that is [CLAIM-tmpbszhs](CLAIM-tmpbszhs.md), secondary and tested on its own.
   The interaction does not imply it: governance could improve source
   verification, provenance or review quality whether or not the schema
   can change, and such a benefit leaves Δ where it was.

@@ -88,7 +88,7 @@ from ontology and metamodel evolution, and does it do work that
 argumentation-governed or performance-gated evolution does not?
 [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) (A) proposes the answer to the second half, that
 governance raises the value of modifiability on tasks whose categories
-are inadequate; CLAIM-tmpbszhs (A) is a secondary prediction, separate
+are inadequate; [CLAIM-tmpbszhs](../claims.d/CLAIM-tmpbszhs.md) (A) is a secondary prediction, separate
 and not following from it, that on routine tasks governance adds cost and
 no benefit. [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) (A) is the study that would measure both,
 seeded with [CASE-131](../cases.d/CASE-131.md). [CLAIM-tmpefs1h](../claims.d/CLAIM-tmpefs1h.md) (A) says what a migration in such a
@@ -124,5 +124,5 @@ decisions, or by an evaluator its subjects can edit, certifies nothing.
 
 Each question is Open and every design unrun. No component says the
 record would do better than its comparators; [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md), the central
-prediction, and CLAIM-tmpbszhs, a secondary one, are the only claims about
+prediction, and [CLAIM-tmpbszhs](../claims.d/CLAIM-tmpbszhs.md), a secondary one, are the only claims about
 outcomes, and neither has a result behind it.

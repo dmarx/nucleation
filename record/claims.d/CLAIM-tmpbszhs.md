@@ -40,15 +40,15 @@ bears_on:
 - QUESTION-tmps5iou
 summary: >-
   A secondary prediction of A45 §3, from the exchange "luria experiment
-  design" (2026-11-10), split from CLAIM-tmppk8g6 at the owner's review of
-  #484 on 2026-11-12. CLAIM-tmppk8g6 is the central hypothesis, that
+  design" (2026-11-10), split from [CLAIM-tmppk8g6](CLAIM-tmppk8g6.md) at the owner's review of
+  [#484](https://github.com/dmarx/nucleation/issues/484) on 2026-11-12. [CLAIM-tmppk8g6](CLAIM-tmppk8g6.md) is the central hypothesis, that
   governance raises the value of modifiability where inherited categories
   are inadequate; this claim is what A expected of governance where they
   are adequate. Neither follows from the other. The wording is A's,
   widened by the owner's review to the benefits governance might bring
   without a schema change; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmppk8g6 CASE-tmppm4do QUESTION-tmps5iou — filed from the exchange "luria experiment design", Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmppk8g6 CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Open -->
 
 # CLAIM-tmpbszhs: On routine tasks, where no schema change is warranted, explicit change governance adds cost and no benefit: it raises neither justified correction nor the quality of source verification, provenance or review
 
@@ -57,11 +57,11 @@ summary: >-
 A45 §3 of the exchange "luria experiment design"
 (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), after its
 central prediction: on routine tasks, where no schema change is warranted,
-governance adds review cost without adding correction. CLAIM-tmppk8g6 held
+governance adds review cost without adding correction. [CLAIM-tmppk8g6](CLAIM-tmppk8g6.md) held
 this as a second clause and as one of its defeaters until the owner's
-review of #484 separated it. The two are tested apart: CLAIM-tmppk8g6 by
+review of [#484](https://github.com/dmarx/nucleation/issues/484) separated it. The two are tested apart: [CLAIM-tmppk8g6](CLAIM-tmppk8g6.md) by
 the interaction on misfit tasks, this claim by the governed and ungoverned
-arms on routine tasks, both within CASE-tmppm4do, whose task distribution
+arms on routine tasks, both within [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md), whose task distribution
 already includes "cases where the correct action is **no schema change**"
 (A29).
 
@@ -74,9 +74,9 @@ without touching the interaction.
 ## What it does not say
 
 - Not that governance is useless. Its value on misfit tasks is
-  CLAIM-tmppk8g6's question; this claim is about tasks that need no schema
+  [CLAIM-tmppk8g6](CLAIM-tmppk8g6.md)'s question; this claim is about tasks that need no schema
   change.
-- Not that the result here bears on CLAIM-tmppk8g6. A benefit of governance
+- Not that the result here bears on [CLAIM-tmppk8g6](CLAIM-tmppk8g6.md). A benefit of governance
   that does not depend on modifiability adds to the fixed and the
   modifiable arms alike and cancels in that claim's interaction.
 - Not that governance should be dropped where categories fit. A cost with
