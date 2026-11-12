@@ -1,5 +1,8 @@
 ---
+number: 1641
 status: Proposed
+formerly:
+- THEORY-tmpc6xzg
 promote_when: >-
   A second reading confirms, from §§3, 4.2, 4.6 and 6, the single-embedding optimization of a frozen model, the roughly two-hour cost per concept, its reuse across generations and same-base downstream models, and the authors' limits on shape and identity.
 title: 'A concept can be learned from 3–5 images as one new token embedding in the text-encoder input space of a frozen text-to-image model, at about two GPU-hours per concept, and re-used without further optimization in new prompts and in downstream models built on the same base, though it keeps a concept''s gist more than its exact shape or a person''s identity'
@@ -8,23 +11,23 @@ history:
 - version: 1
   date: '2026-11-12'
   note: >-
-    Filed Proposed from NOTE-tmp5l4tx, a reading of LIT-tmpiyr8q.
+    Filed Proposed from NOTE-1719, a reading of LIT-2340.
 tags:
 - representation-learning
 date: '2026-11-12'
 source:
-- LIT-tmpiyr8q
+- LIT-2340
 bears_on:
 - QUESTION-095
 summary: >-
-  Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), [LIT-tmpiyr8q](../literature.d/LIT-tmpiyr8q.md), read in [NOTE-tmp5l4tx](../notes.d/NOTE-tmp5l4tx.md). arXiv preprint (the PDF footer reads "Preprint. Under review."); no venue on the arXiv record.
+  Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), [LIT-2340](../literature.d/LIT-2340.md), read in [NOTE-1719](../notes.d/NOTE-1719.md). arXiv preprint (the PDF footer reads "Preprint. Under review."); no venue on the arXiv record.
 ---
 
-# THEORY-tmpc6xzg: A concept can be learned from 3–5 images as one new token embedding in the text-encoder input space of a frozen text-to-image model, at about two GPU-hours per concept, and re-used without further optimization in new prompts and in downstream models built on the same base, though it keeps a concept's gist more than its exact shape or a person's identity
+# THEORY-1641: A concept can be learned from 3–5 images as one new token embedding in the text-encoder input space of a frozen text-to-image model, at about two GPU-hours per concept, and re-used without further optimization in new prompts and in downstream models built on the same base, though it keeps a concept's gist more than its exact shape or a person's identity
 
 ## Source
 
-Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion", [LIT-tmpiyr8q](../literature.d/LIT-tmpiyr8q.md), read in [NOTE-tmp5l4tx](../notes.d/NOTE-tmp5l4tx.md)
+Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion", [LIT-2340](../literature.d/LIT-2340.md), read in [NOTE-1719](../notes.d/NOTE-1719.md)
 from arXiv v1 (2208.01618, 2 August 2022, the only version).
 
 ## What was shown

@@ -1,5 +1,8 @@
 ---
+number: 236
 status: Proposed
+formerly:
+- CASE-tmpbbfq8
 title: 'A chain of n moves and a complete graph on the same n + 1 configurations, every configuration and every move needing one unit of peak capacity and every move spending one unit: every pair is joined at budget 1 in both, while the least cumulative cost from one end to the other is n in the chain and 1 in the complete graph'
 version: 1
 standing: fictional
@@ -17,16 +20,16 @@ summary: >-
   A's construction, from the exchange "Identify Synthesis Opportunities"
   (2026-11-08, A11, A12 and A14), filed as a case at the owner's
   instruction (U5) that claims resting on explicit constructions be
-  connected to cases describing them. It grounds [CLAIM-tmp2u6bs](../claims.d/CLAIM-tmp2u6bs.md): the
+  connected to cases describing them. It grounds [CLAIM-646](../claims.d/CLAIM-646.md): the
   peak-capacity threshold between every pair of configurations can agree
   in two systems whose least cumulative costs differ by any factor. It also
   illustrates [CLAIM-581](../claims.d/CLAIM-581.md)'s remark that under additive costs "within budget
   of each other" is not an equivalence. The wording is A's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2u6bs — Proposed; the claim this construction grounds, filed with it -->
+<!-- inactive-ok-file: CLAIM-646 — Proposed; the claim this construction grounds, filed with it -->
 
-# CASE-tmpbbfq8: A chain of n moves and a complete graph on the same n + 1 configurations, every configuration and every move needing one unit of peak capacity and every move spending one unit: every pair is joined at budget 1 in both, while the least cumulative cost from one end to the other is n in the chain and 1 in the complete graph
+# CASE-236: A chain of n moves and a complete graph on the same n + 1 configurations, every configuration and every move needing one unit of peak capacity and every move spending one unit: every pair is joined at budget 1 in both, while the least cumulative cost from one end to the other is n in the chain and 1 in the complete graph
 
 ## The case
 

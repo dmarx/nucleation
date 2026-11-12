@@ -35,8 +35,8 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
-<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmpgxdpz THEORY-tmpvarvt THEORY-tmplz597 THEORY-tmpc6xzg THEORY-tmp6v6q8 — Proposed; the readings of 2026-11-12, cited in its note -->
-<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
+<!-- inactive-ok-file: THEORY-1639 THEORY-1643 THEORY-1645 THEORY-1644 THEORY-1641 THEORY-1640 — Proposed; the readings of 2026-11-12, cited in its note -->
+<!-- inactive-ok-file: CASE-235 CASE-234 CLAIM-647 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-095: Is leaving the result of a computation where it can be cheaply retrieved the same trade as amortizing the computation, and does one account of when it pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused inferences?
@@ -219,40 +219,40 @@ which did not move behaviour, and none of the question's other terms.
 
 ## Note of 2026-11-12: a practitioner's version of the trade, from "Identify Synthesis Opportunities"
 
-At U6 of the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44) the owner offered a case "illustrating how changing resource costs changes the incentive to compute on demand or learn and amortize via memory": a 2026 Reddit thread on keeping a character consistent in image generation with a reference-conditioned model instead of a trained character LoRA, and, at U7, the earlier generations of the same choice. Filed as [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), with A's proposal to measure the crossover as [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md).
+At U6 of the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44) the owner offered a case "illustrating how changing resource costs changes the incentive to compute on demand or learn and amortize via memory": a 2026 Reddit thread on keeping a character consistent in image generation with a reference-conditioned model instead of a trained character LoRA, and, at U7, the earlier generations of the same choice. Filed as [CASE-235](../cases.d/CASE-235.md), with A's proposal to measure the crossover as [CASE-234](../cases.d/CASE-234.md).
 
 - **It adds a domain with three strategies in view**: a LoRA, work moved into weights and cheap per use, which is the scaling readings' "cheaper computation, not a stored answer"; a reference sheet, made once and interpreted at every use; and raw references, nothing kept. A16 put it as "both are forms of memory, but they move different amounts of work into each generation."
 - **It adds a change in costs over time.** The scaling readings fix the technology and vary demand. The case asks how a change in per-use cost across model generations moves the break-even, which none of the readings above measures.
 - **It does not settle anything.** The thread could not be read here (it redirected to a login page on 2026-11-12), and A's report of it is unverified. A: "the thread doesn't establish a controlled cost-and-quality comparison."
 
-The assistant (Claude, in the filing session) added a staleness term the readings lack, filed as [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md), Proposed: a specialization learned into weights goes stale when its base model is replaced, while what it encodes stays right, so the reader's turnover caps expected reuse. Its proposed test is a transfer arm in [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md)'s design. The reading of IP-Adapter, its one piece of evidence so far, is still owed.
+The assistant (Claude, in the filing session) added a staleness term the readings lack, filed as [CLAIM-647](../claims.d/CLAIM-647.md), Proposed: a specialization learned into weights goes stale when its base model is replaced, while what it encodes stays right, so the reader's turnover caps expected reuse. Its proposed test is a transfer arm in [CASE-234](../cases.d/CASE-234.md)'s design. The reading of IP-Adapter, its one piece of evidence so far, is still owed.
 
 The question stays Open.
 
 ## Note of 2026-11-12: seven works on character identity, read
 
-The works registered with [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) were read; each THEORY bears on
+The works registered with [CASE-235](../cases.d/CASE-235.md) were read; each THEORY bears on
 this question.
 
 - **Amortization across users.** The question's cases price one agent's
   own reuse: the crew's bugs, the record's filings, a reasoner's
   inferences. The reference routes amortize across agents. A module's
-  maker trains once (IP-Adapter, [THEORY-tmp3jjfo](../theory.d/THEORY-tmp3jjfo.md); InstantID,
-  [THEORY-tmpgxdpz](../theory.d/THEORY-tmpgxdpz.md), on 48 H800s; PhotoMaker, [THEORY-tmpvarvt](../theory.d/THEORY-tmpvarvt.md), on 8 A100s for
+  maker trains once (IP-Adapter, [THEORY-1639](../theory.d/THEORY-1639.md); InstantID,
+  [THEORY-1643](../theory.d/THEORY-1643.md), on 48 H800s; PhotoMaker, [THEORY-1645](../theory.d/THEORY-1645.md), on 8 A100s for
   two weeks), and every user pays only per use, with no per-subject
   training. A single account would need a term for who pays the fixed
   cost and over how many users it is spread. [THEORY-331](../theory.d/THEORY-331.md)'s lifetime
   objective is the provider's version of that.
 - **The trade, in its authors' words.** Textual Inversion
-  ([THEORY-tmpc6xzg](../theory.d/THEORY-tmpc6xzg.md)): "we can optimize a single pseudo-word and re-use it
+  ([THEORY-1641](../theory.d/THEORY-1641.md)): "we can optimize a single pseudo-word and re-use it
   for a multitude of new generations. The baseline models, meanwhile, use
   CLIP for test-time optimization and thus require expensive optimization
   for every new creation."
 - **Two costs the readings above did not price.** Storage, on the learned
   side: InstantID names "high storage demands" among the costs of
-  per-subject training, and LoRA ([THEORY-tmp6v6q8](../theory.d/THEORY-tmp6v6q8.md)) shrinks it, about 35MB
+  per-subject training, and LoRA ([THEORY-1640](../theory.d/THEORY-1640.md)) shrinks it, about 35MB
   against 350GB per task on GPT-3. And erosion of what the store held
-  before: DreamBooth's language drift ([THEORY-tmplz597](../theory.d/THEORY-tmplz597.md)), in which the
+  before: DreamBooth's language drift ([THEORY-1644](../theory.d/THEORY-1644.md)), in which the
   model "slowly forgets how to generate subjects of the same class as the
   target subject", paid for with a second loss.
 - **An analogue already held.** [THEORY-439](../theory.d/THEORY-439.md) ([LIT-796](../literature.d/LIT-796.md)): for language models,

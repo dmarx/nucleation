@@ -1,11 +1,14 @@
 ---
+number: 646
 status: Proposed
+formerly:
+- CLAIM-tmp2u6bs
 title: 'Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor'
 version: 1
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  An error in the construction: a pair of configurations in CASE-tmpbbfq8
+  An error in the construction: a pair of configurations in CASE-236
   whose peak threshold differs between the chain and the complete graph,
   or a least cumulative cost from 0 to n other than n in the chain and 1
   in the complete graph. Also defeated as a claim of its own if an entry
@@ -25,7 +28,7 @@ line:
 - realizability
 - formal-apparatus
 grounds:
-- CASE-tmpbbfq8
+- CASE-236
 summary: >-
   A's proposal, from the exchange "Identify Synthesis Opportunities"
   (2026-11-08, A11 and A12), where A put it as "Peak-budget reachability
@@ -33,14 +36,14 @@ summary: >-
   the threshold for a held capacity the least peak over paths, and
   [CLAIM-581](CLAIM-581.md) shows those thresholds form an ultrametric whose classes nest.
   This claim says that structure carries no information about what a
-  transition spends: the chain and the complete graph of [CASE-tmpbbfq8](../cases.d/CASE-tmpbbfq8.md)
+  transition spends: the chain and the complete graph of [CASE-236](../cases.d/CASE-236.md)
   agree in every threshold and differ in least spend by a factor of n.
   Filed with its construction as a case, at the owner's instruction (U5).
   The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpbbfq8 — Proposed; the construction this claim rests on, filed with it -->
+<!-- inactive-ok-file: CASE-236 — Proposed; the construction this claim rests on, filed with it -->
 
-# CLAIM-tmp2u6bs: Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor
+# CLAIM-646: Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor
 
 ## The claim
 
@@ -50,7 +53,7 @@ A11, the stronger form: "on a family of finite transition systems, the
 same peak-budget reachability hierarchy can coexist with cumulative
 shortest-path costs that differ by an arbitrarily large factor".
 
-**Proof.** [CASE-tmpbbfq8](../cases.d/CASE-tmpbbfq8.md). On configurations 0 to n, with every
+**Proof.** [CASE-236](../cases.d/CASE-236.md). On configurations 0 to n, with every
 configuration and every move needing one unit of held capacity and every
 move spending one unit, the chain and the complete graph join every pair
 at peak budget 1 and none below. So [CLAIM-571](CLAIM-571.md)'s threshold B*(x, y) is 1

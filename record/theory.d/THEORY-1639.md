@@ -1,5 +1,8 @@
 ---
+number: 1639
 status: Proposed
+formerly:
+- THEORY-tmp3jjfo
 promote_when: >-
   A second reading confirms, from Table 1, §4.3.1 and §5, the CLIP-I and CLIP-T scores against the fine-tuned image-prompt models, the reuse on SD v1.5-derived models without retraining, and the authors' statement that it does not reach subject-level consistency.
 title: 'An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and can be reused without retraining on models fine-tuned from the same base, but by its authors'' account does not keep a given subject''s identity as Textual Inversion and DreamBooth do'
@@ -8,25 +11,25 @@ history:
 - version: 1
   date: '2026-11-12'
   note: >-
-    Filed Proposed from NOTE-tmpkw49d, a reading of LIT-tmptzx4q.
+    Filed Proposed from NOTE-1722, a reading of LIT-2342.
 tags:
 - representation-learning
 date: '2026-11-12'
 source:
-- LIT-tmptzx4q
+- LIT-2342
 corroborates:
-- CLAIM-tmpnwq8a
+- CLAIM-647
 bears_on:
 - QUESTION-095
 summary: >-
-  Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), [LIT-tmptzx4q](../literature.d/LIT-tmptzx4q.md), read in [NOTE-tmpkw49d](../notes.d/NOTE-tmpkw49d.md). arXiv preprint (v1, the only version; no venue on the arXiv record).
+  Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), [LIT-2342](../literature.d/LIT-2342.md), read in [NOTE-1722](../notes.d/NOTE-1722.md). arXiv preprint (v1, the only version; no venue on the arXiv record).
 ---
 
-# THEORY-tmp3jjfo: An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and can be reused without retraining on models fine-tuned from the same base, but by its authors' account does not keep a given subject's identity as Textual Inversion and DreamBooth do
+# THEORY-1639: An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and can be reused without retraining on models fine-tuned from the same base, but by its authors' account does not keep a given subject's identity as Textual Inversion and DreamBooth do
 
 ## Source
 
-Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models", [LIT-tmptzx4q](../literature.d/LIT-tmptzx4q.md), read in [NOTE-tmpkw49d](../notes.d/NOTE-tmpkw49d.md)
+Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models", [LIT-2342](../literature.d/LIT-2342.md), read in [NOTE-1722](../notes.d/NOTE-1722.md)
 from arXiv v1 (2308.06721, 13 August 2023, the only version).
 
 ## What was shown

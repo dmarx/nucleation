@@ -6,7 +6,7 @@
 
 **Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure — what drifts, what anchors it, and what anchoring costs. What a record of it keeps, and the record as its own apparatus, are lines of their own (ADR-082).
 
-27 of 645 CLAIM documents. Back to the [full index](../README.md).
+27 of 647 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**915 documents cited without acknowledgement.** Not listed: 24138 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**915 documents cited without acknowledgement.** Not listed: 24259 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1681,7 +1681,7 @@ For a named population of receivers and a stated family of tasks, what survives 
 
 Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
 
-83 citations in 52 files await a look; 53 other citations of it are acknowledged.
+83 citations in 52 files await a look; 59 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
@@ -1827,7 +1827,7 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 - [`record/claims.d/CLAIM-632.md:12`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:24`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:83`](../../record/claims.d/CLAIM-632.md)
-- [`record/claims.d/CLAIM-632.md:93`](../../record/claims.d/CLAIM-632.md)
+- [`record/claims.d/CLAIM-632.md:94`](../../record/claims.d/CLAIM-632.md)
 - [`record/decisions.d/ADR-075.md:5`](../../record/decisions.d/ADR-075.md)
 - [`record/decisions.d/ADR-076.md:60`](../../record/decisions.d/ADR-076.md)
 - [`record/decisions.d/ADR-077.md:26`](../../record/decisions.d/ADR-077.md)
@@ -1857,7 +1857,7 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 
 A reading named as evidence in a question's or claim's text is tied when the name is written, supporting cases corroborate, a question's instruments are its premises, and readings used only by cases, terms or syntheses are held as used
 
-55 citations in 53 files await a look; 36 other citations of it are acknowledged.
+56 citations in 54 files await a look; 36 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-273.md:67`](../../record/claims.d/CLAIM-273.md)
 - [`record/claims.d/CLAIM-384.md:25`](../../record/claims.d/CLAIM-384.md)
@@ -1901,6 +1901,7 @@ A reading named as evidence in a question's or claim's text is tied when the nam
 - [`record/theory.d/THEORY-380.md:26`](../../record/theory.d/THEORY-380.md)
 - [`record/theory.d/THEORY-385.md:26`](../../record/theory.d/THEORY-385.md)
 - [`record/theory.d/THEORY-431.md:13`](../../record/theory.d/THEORY-431.md)
+- [`record/theory.d/THEORY-439.md:37`](../../record/theory.d/THEORY-439.md)
 - [`record/theory.d/THEORY-466.md:13`](../../record/theory.d/THEORY-466.md)
 - [`record/theory.d/THEORY-543.md:13`](../../record/theory.d/THEORY-543.md)
 - [`record/theory.d/THEORY-598.md:13`](../../record/theory.d/THEORY-598.md)
@@ -5293,7 +5294,7 @@ Records kept of each capacity a response needs bound a reserve's readiness for a
 - [`docs/syntheses/warrant/demonstrated.md:14`](../syntheses/warrant/demonstrated.md)
 - [`record/claims.d/CLAIM-632.md:13`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:82`](../../record/claims.d/CLAIM-632.md)
-- [`record/claims.d/CLAIM-632.md:93`](../../record/claims.d/CLAIM-632.md)
+- [`record/claims.d/CLAIM-632.md:94`](../../record/claims.d/CLAIM-632.md)
 - [`record/decisions.d/ADR-087.md:99`](../../record/decisions.d/ADR-087.md)
 
 ### [SYNTHESIS-013](../../record/syntheses.d/SYNTHESIS-013.md) — Proposed
@@ -5330,7 +5331,7 @@ In the record's exchanges with collaborators who keep no memory, the argument lo
 
 Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
 
-8 citations in 7 files await a look; 4 other citations of it are acknowledged.
+8 citations in 7 files await a look; 5 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:24`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
@@ -7842,6 +7843,17 @@ Hermeneutical injustice is having a significant area of one's social experience 
 - [`record/theory.d/THEORY-317.md:156`](../../record/theory.d/THEORY-317.md)
 - [`record/theory.d/THEORY-317.md:166`](../../record/theory.d/THEORY-317.md)
 
+### [THEORY-331](../../record/theory.d/THEORY-331.md) — Proposed
+
+Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
+
+4 citations in 4 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-095.md:244`](../../record/questions.d/QUESTION-095.md)
+- [`record/theory.d/THEORY-342.md:131`](../../record/theory.d/THEORY-342.md)
+- [`record/theory.d/THEORY-351.md:139`](../../record/theory.d/THEORY-351.md)
+- [`record/theory.d/THEORY-359.md:127`](../../record/theory.d/THEORY-359.md)
+
 ### [THEORY-444](../../record/theory.d/THEORY-444.md) — Proposed
 
 To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
@@ -8341,7 +8353,7 @@ A localized structure can persist by an internal balance that needs no supply, b
 
 Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
 
-3 citations in 2 files await a look; 24 other citations of it are acknowledged.
+3 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-210.md:30`](../../record/cases.d/CASE-210.md)
 - [`record/syntheses.d/SYNTHESIS-009.md:12`](../../record/syntheses.d/SYNTHESIS-009.md)
@@ -8956,16 +8968,6 @@ Inductive and explanatory usefulness is necessary but not sufficient for a natur
 - [`record/literature.d/LIT-244.md:24`](../../record/literature.d/LIT-244.md)
 - [`record/literature.d/LIT-244.md:97`](../../record/literature.d/LIT-244.md)
 - [`record/notes.d/NOTE-769.md:233`](../../record/notes.d/NOTE-769.md)
-
-### [THEORY-331](../../record/theory.d/THEORY-331.md) — Proposed
-
-Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
-
-3 citations in 3 files await a look.
-
-- [`record/theory.d/THEORY-342.md:131`](../../record/theory.d/THEORY-342.md)
-- [`record/theory.d/THEORY-351.md:139`](../../record/theory.d/THEORY-351.md)
-- [`record/theory.d/THEORY-359.md:127`](../../record/theory.d/THEORY-359.md)
 
 ### [THEORY-464](../../record/theory.d/THEORY-464.md) — Proposed
 

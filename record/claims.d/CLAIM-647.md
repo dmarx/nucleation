@@ -1,5 +1,8 @@
 ---
+number: 647
 status: Proposed
+formerly:
+- CLAIM-tmpnwq8a
 title: 'Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization''s useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader''s turnover is a staleness term of its own, beside the world''s changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical'
 version: 3
 history:
@@ -11,15 +14,15 @@ history:
     changes; transfer may degrade, survive or work well enough. The claim
     now says a replacement can impose a compatibility or transfer cost that
     shortens useful life, and leaves its frequency and its effect on the
-    trade to evidence. ARG-tmp4icc1 is weakened to match.
+    trade to evidence. ARG-079 is weakened to match.
 - version: 2
   date: '2026-11-12'
   note: >-
     The cited works were read the same day. IP-Adapter's abstract sentence
     turned out to be about fine-tunes of one base, not a successor base, so
-    its reading THEORY-tmp3jjfo moves from grounds to corroborates, with
-    ARG-tmpu8x8a (Rejected) saying why. LoRA's reading THEORY-tmp6v6q8
-    becomes the ground of the premise, with ARG-tmp4icc1. defeated_if now
+    its reading THEORY-1639 moves from grounds to corroborates, with
+    ARG-080 (Rejected) saying why. LoRA's reading THEORY-1640
+    becomes the ground of the premise, with ARG-079. defeated_if now
     names CLAIM-074 and CLAIM-118, and the body has a note on why the claim
     does not restate them. Title and status unchanged.
 role: thesis
@@ -50,17 +53,17 @@ line:
 bears_on:
 - QUESTION-095
 grounds:
-- THEORY-tmp6v6q8
+- THEORY-1640
 summary: >-
   The assistant's idea, offered at the filing of "Identify Synthesis
   Opportunities" and accepted by the owner. [QUESTION-095](../questions.d/QUESTION-095.md)'s notes found that
   the readings price expected reuse and per-use cost but not staleness or
-  the erosion of the alternative. In the owner's case [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), a
+  the erosion of the alternative. In the owner's case [CASE-235](../cases.d/CASE-235.md), a
   trained character LoRA is tied to the base model it was trained on. When
   the base model is replaced, the LoRA's content is still right about the
   character, but nothing reads it. So the expected reuse that must repay
   the training is cut off at the next replacement. Its premise rests on
-  LoRA's structure (THEORY-tmp6v6q8): a module is an update to one set of
+  LoRA's structure (THEORY-1640): a module is an update to one set of
   frozen weights. The readings of IP-Adapter, InstantID and PhotoMaker
   corroborate that trained add-ons are scoped to their base's family; none
   tests a successor base, so the claim is a hypothesis until a transfer
@@ -68,11 +71,11 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmp6v6q8 ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; the readings and ARGs filed with this claim's second version -->
+<!-- inactive-ok-file: CASE-235 CASE-234 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-1639 THEORY-1640 ARG-080 ARG-079 — Proposed; the readings and ARGs filed with this claim's second version -->
 <!-- inactive-ok-file: CLAIM-303 — Proposed; the break-even this adds a term to -->
 
-# CLAIM-tmpnwq8a: Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization's useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader's turnover is a staleness term of its own, beside the world's changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical
+# CLAIM-647: Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization's useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader's turnover is a staleness term of its own, beside the world's changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical
 
 ## The claim
 
@@ -106,7 +109,7 @@ this way if the airspeed indicator were replaced by one with no bugs.
   not about character LoRAs. It is a neighbouring instance, not a test.
   Read on 2026-11-12, it turned out to be about fine-tunes of one base,
   not a successor base: see the note below.
-- **The test.** [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md)'s design can take one more arm: a LoRA
+- **The test.** [CASE-234](../cases.d/CASE-234.md)'s design can take one more arm: a LoRA
   trained on one base model, applied to its successor, scored at the same
   fidelity target. The arm measures the transfer cost for that pair: none
   at all, across pairs, would defeat the claim.
@@ -124,7 +127,7 @@ this way if the airspeed indicator were replaced by one with no bugs.
 
 ## Note of 2026-11-12: the works read
 
-The seven works registered with [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) were read the same day.
+The seven works registered with [CASE-235](../cases.d/CASE-235.md) were read the same day.
 
 - **IP-Adapter carries less than this claim cited it for.** The abstract's
   "not compatible with other base models" is, by its §1, about the image
@@ -132,10 +135,10 @@ The seven works registered with [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) wer
   from the same text-to-image base models": siblings of one base, not a
   successor. The paper supports only that its own adapter is reusable "on
   custom models fine-tuned from the same base model", so a trained add-on
-  is scoped to its base's family. [THEORY-tmp3jjfo](../theory.d/THEORY-tmp3jjfo.md) now corroborates the
-  claim instead of grounding it; [ARG-tmpu8x8a](../arguments.d/ARG-tmpu8x8a.md), Rejected, says the sentence
+  is scoped to its base's family. [THEORY-1639](../theory.d/THEORY-1639.md) now corroborates the
+  claim instead of grounding it; [ARG-080](../arguments.d/ARG-080.md), Rejected, says the sentence
   does not show reader-replacement staleness.
-- **LoRA grounds the premise, as structure** ([THEORY-tmp6v6q8](../theory.d/THEORY-tmp6v6q8.md), [ARG-tmp4icc1](../arguments.d/ARG-tmp4icc1.md)).
+- **LoRA grounds the premise, as structure** ([THEORY-1640](../theory.d/THEORY-1640.md), [ARG-079](../arguments.d/ARG-079.md)).
   A module is ΔW = BA added to one W0, recovered "by subtracting BA", and
   it "amplifies some features that are already in W". That it fails on a
   different W is the filer's inference; the paper tests no transfer. Its §1

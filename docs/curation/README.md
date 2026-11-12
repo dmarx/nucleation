@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [12 Nov 01:56 — The exchange "Identify Synthesis Opportunities" filed: A's plan and draft accounts overtaken by the record's own synthesis reviews, which reached nearly the same partitions; the owner's case of character LoRAs against reference conditioning, with its history and a proposed study; A's two constructions as cases, one claim and its ARG; seven cited works registered unread](2026-11.md#the-exchange-identify-synthesis-opportunities-filed-as-plan-and-draft-accounts-overtaken-by-the-records-own-synthesis-reviews-which-reached-nearly-the-same-partitions-the-owners-case-of-character-loras-against-reference-conditioning-with-its-history-and-a-proposed-study-as-two-constructions-as-cases-one-claim-and-its-arg-seven-cited-works-registered-unread)
 - [12 Nov 01:18 — First application of draws_on: 308 citations of readings by cases and terms; 242 draws_on, 61 none, one missing reported_in, seven flags](2026-11.md#first-application-of-draws_on-308-citations-of-readings-by-cases-and-terms-242-draws_on-61-none-one-missing-reported_in-seven-flags)
 - [11 Nov 22:23 — First application of bounds: 124 claim-reading pairs where a claim cites a reading only as a limit; 91 bounds, 2 corroborates, 31 none](2026-11.md#first-application-of-bounds-124-claim-reading-pairs-where-a-claim-cites-a-reading-only-as-a-limit-91-bounds-2-corroborates-31-none)
 - [11 Nov 18:16 — Reading review of 2026-11-11, by topic, second run: the smaller topics no line used; 58 readings tied, 86 held, nothing raised](2026-11.md#reading-review-of-2026-11-11-by-topic-second-run-the-smaller-topics-no-line-used-58-readings-tied-86-held-nothing-raised)
@@ -56,10 +57,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-244 entries across 3 books, newest first.
+245 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 47 | 2026-11-01 | 2026-11-12 |
+| [2026-11](2026-11.md) | 48 | 2026-11-01 | 2026-11-12 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

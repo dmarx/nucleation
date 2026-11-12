@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 82 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 85 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -183,3 +183,8 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-071](../record/arguments.d/ARG-071.md) — The Wells Fargo directors' report shows occlusion by a narrow construal of harm and blocked uptake of concerns, and does not show a performance regime reproducing that representation through its own success *(Rejected, evidence)*
 - [CLAIM-627](../record/claims.d/CLAIM-627.md) — Whether a contested concept's uses are compatible is partly settled by who has jurisdiction over its contexts: which contexts count as relevant to a decision and which rule governs where they overlap fix part of the cover on which its uses must glue, so a will-organization's jurisdiction and precedence act on the conditions of interpretation and not only on its outputs *(Proposed, thesis)*
   - [ARG-057](../record/arguments.d/ARG-057.md) — A rule whose outcomes change when classification moves to another group, with the rule unchanged, is evidence that jurisdiction over a concept's contexts partly fixes whether its uses are compatible *(Rejected, evidence)*
+- [CLAIM-646](../record/claims.d/CLAIM-646.md) — Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor *(Proposed, thesis)*
+  - [ARG-078](../record/arguments.d/ARG-078.md) — The chain and the complete graph on the same configurations show that peak-capacity thresholds do not fix cumulative transition costs *(Proposed, existence)*
+- [CLAIM-647](../record/claims.d/CLAIM-647.md) — Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization's useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader's turnover is a staleness term of its own, beside the world's changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical *(Proposed, thesis)*
+  - [ARG-079](../record/arguments.d/ARG-079.md) — Because a LoRA module is an additive update to one set of frozen pretrained weights, amplifying directions already in them, replacing those weights leaves the module without the base it was defined on, so its effect on the new base is not guaranteed and has to be re-established, by transfer or by retraining *(Proposed, cause-to-effect)*
+  - [ARG-080](../record/arguments.d/ARG-080.md) — IP-Adapter's statement that fine-tuned image-prompt models are "not compatible with other base models" shows that a trained specialization goes stale when its base model is replaced *(Rejected, evidence)*

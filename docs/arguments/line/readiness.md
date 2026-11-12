@@ -6,7 +6,7 @@
 
 **Readiness and slack** — what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up (ADR-073). When transient support can be withdrawn is a line of its own (ADR-087).
 
-2 of 77 ARG documents. Back to the [full index](../README.md).
+2 of 80 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

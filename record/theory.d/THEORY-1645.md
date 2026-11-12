@@ -1,5 +1,8 @@
 ---
+number: 1645
 status: Proposed
+formerly:
+- THEORY-tmpvarvt
 promote_when: >-
   A second reading confirms, from Table 1 and §4.1, the personalization times, the CLIP-I, DINO and face-similarity ranking of the five methods, and the stated training budget.
 title: 'A tuning-free personalization model for SDXL, trained once on an ID-grouped dataset for two weeks on 8 A100s, stacks embeddings of several photos of one person in place of the class word and personalizes in about 10 s on a V100, against 1284 s for DreamBooth and 2400 s for Textual Inversion, with the highest CLIP-I and DINO of the five methods compared and face similarity second to IP-Adapter''s'
@@ -8,25 +11,25 @@ history:
 - version: 1
   date: '2026-11-12'
   note: >-
-    Filed Proposed from NOTE-tmpul1vj, a reading of LIT-tmp8l2rx.
+    Filed Proposed from NOTE-1724, a reading of LIT-2339.
 tags:
 - representation-learning
 date: '2026-11-12'
 source:
-- LIT-tmp8l2rx
+- LIT-2339
 corroborates:
-- CLAIM-tmpnwq8a
+- CLAIM-647
 bears_on:
 - QUESTION-095
 summary: >-
-  Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), [LIT-tmp8l2rx](../literature.d/LIT-tmp8l2rx.md), read in [NOTE-tmpul1vj](../notes.d/NOTE-tmpul1vj.md). technical report (arXiv comment: "Tech report").
+  Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), [LIT-2339](../literature.d/LIT-2339.md), read in [NOTE-1724](../notes.d/NOTE-1724.md). technical report (arXiv comment: "Tech report").
 ---
 
-# THEORY-tmpvarvt: A tuning-free personalization model for SDXL, trained once on an ID-grouped dataset for two weeks on 8 A100s, stacks embeddings of several photos of one person in place of the class word and personalizes in about 10 s on a V100, against 1284 s for DreamBooth and 2400 s for Textual Inversion, with the highest CLIP-I and DINO of the five methods compared and face similarity second to IP-Adapter's
+# THEORY-1645: A tuning-free personalization model for SDXL, trained once on an ID-grouped dataset for two weeks on 8 A100s, stacks embeddings of several photos of one person in place of the class word and personalizes in about 10 s on a V100, against 1284 s for DreamBooth and 2400 s for Textual Inversion, with the highest CLIP-I and DINO of the five methods compared and face similarity second to IP-Adapter's
 
 ## Source
 
-Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), "PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding", [LIT-tmp8l2rx](../literature.d/LIT-tmp8l2rx.md), read in [NOTE-tmpul1vj](../notes.d/NOTE-tmpul1vj.md)
+Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), "PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding", [LIT-2339](../literature.d/LIT-2339.md), read in [NOTE-1724](../notes.d/NOTE-1724.md)
 from arXiv v1 (2312.04461, 7 December 2023, the only version).
 
 ## What was shown

@@ -1,5 +1,8 @@
 ---
+number: 234
 status: Proposed
+formerly:
+- CASE-tmp3isyl
 title: 'A proposed study: for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references, at matched identity fidelity'
 version: 2
 history:
@@ -21,13 +24,13 @@ bears_on:
 draws_on:
 - THEORY-331
 - THEORY-342
-- THEORY-tmpvarvt
-- THEORY-tmplz597
-- THEORY-tmpdzbq1
+- THEORY-1645
+- THEORY-1644
+- THEORY-1642
 summary: >-
   A's proposal, from the exchange "Identify Synthesis Opportunities"
   (2026-11-08, A18), to measure the crossover the owner's case
-  [CASE-tmp40vka](CASE-tmp40vka.md) turns on: "whether improved reference conditioning raises
+  [CASE-235](CASE-235.md) turns on: "whether improved reference conditioning raises
   the number of times a character must be reused before training a LoRA
   pays off". A's patch held the design, which the export does not carry;
   A's turn gives only its aim, "a quality-matched comparison across
@@ -36,16 +39,16 @@ summary: >-
   filer's spelling-out of that sentence, to meet what a proposed study
   must state. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpvarvt THEORY-tmplz597 THEORY-tmpdzbq1 THEORY-tmpgxdpz — Proposed; the readings of 2026-11-12, cited in its note -->
-<!-- inactive-ok-file: CASE-tmp40vka — Proposed; the owner's case this study would measure -->
+<!-- inactive-ok-file: THEORY-1645 THEORY-1644 THEORY-1642 THEORY-1643 — Proposed; the readings of 2026-11-12, cited in its note -->
+<!-- inactive-ok-file: CASE-235 — Proposed; the owner's case this study would measure -->
 <!-- inactive-ok-file: THEORY-331 — Proposed; the lifetime-compute objective the design borrows -->
 <!-- inactive-ok-file: SYNTHESIS-015 — Proposed; the account A proposed to revise -->
 
-# CASE-tmp3isyl: A proposed study: for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references, at matched identity fidelity
+# CASE-234: A proposed study: for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references, at matched identity fidelity
 
 ## What would be measured
 
-For a set of characters and, in each model generation of [CASE-tmp40vka](CASE-tmp40vka.md)'s
+For a set of characters and, in each model generation of [CASE-235](CASE-235.md)'s
 table, one trained route (a character LoRA, or DreamBooth or Textual
 Inversion where that was the practice) and one reference route (an
 adapter, an in-context editor or a reference-conditioned model):
@@ -102,18 +105,18 @@ curation entry of 2026-11-12 for this exchange).
 
 ## Note of 2026-11-12: what the readings give the design
 
-- **F and c_ref for one generation.** PhotoMaker's Table 1 ([THEORY-tmpvarvt](../theory.d/THEORY-tmpvarvt.md))
+- **F and c_ref for one generation.** PhotoMaker's Table 1 ([THEORY-1645](../theory.d/THEORY-1645.md))
   gives, on one V100, DreamBooth 1284 s per subject and reference routes of
   10–12 s per image. It does not give DreamBooth's per-image cost after
   training, so n* cannot be computed from it.
-- **F for 2022.** DreamBooth ([THEORY-tmplz597](../theory.d/THEORY-tmplz597.md)): about five A100-minutes per
+- **F for 2022.** DreamBooth ([THEORY-1644](../theory.d/THEORY-1644.md)): about five A100-minutes per
   subject on Stable Diffusion.
 - **Fidelity targets.** DreamBooth's DreamBench and DINO measure, and
   FLUX.1 Kontext's character-reference cases with a face-embedding measure
-  and multi-turn drift ([THEORY-tmpdzbq1](../theory.d/THEORY-tmpdzbq1.md)), which adds fidelity across
+  and multi-turn drift ([THEORY-1642](../theory.d/THEORY-1642.md)), which adds fidelity across
   successive uses.
 - **The main threat, seen.** PhotoMaker's rankings change with the metric:
   IP-Adapter leads on face similarity, PhotoMaker on DINO and CLIP-I,
   DreamBooth on CLIP-T. InstantID's comparison with character LoRAs
-  ([THEORY-tmpgxdpz](../theory.d/THEORY-tmpgxdpz.md)) has no measure at all, which is why the study is
+  ([THEORY-1643](../theory.d/THEORY-1643.md)) has no measure at all, which is why the study is
   needed.
