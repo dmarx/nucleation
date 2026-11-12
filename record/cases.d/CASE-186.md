@@ -32,9 +32,9 @@ illustrates:
 - CLAIM-414
 - CLAIM-342
 draws_on:
-- THEORY-tmpbzy1i
-- THEORY-tmpdui86
-- THEORY-tmphkpxr
+- THEORY-1750
+- THEORY-1755
+- THEORY-1766
 summary: >-
   The CASE A22 proposed and A23 wrote out at the owner's "flesh out the
   proposed CASE", in the exchange "Analyze nucleation concepts"
@@ -46,9 +46,9 @@ summary: >-
   the hypothesis family; and external restoration that is paid for. Not
   run. The analytic error rates hold only where admission is protected.
 ---
-<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2287 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-tmpbzy1i THEORY-tmpdui86 THEORY-tmphkpxr — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1750 THEORY-1755 THEORY-1766 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-186: A proposed study: an organization in a world whose hidden regime reverses and then leaves its hypothesis family, with evidence generation, admission and scoring separately lesionable, its diagnostic machinery maintained by its own reciprocal production, from outside, or not at all, and finite fuel shared among operation, maintenance and diagnosis, to find whether a second correction after injury to the diagnostic and copying machinery separates arrangements that correct the first failure alike
 
@@ -268,7 +268,7 @@ against out-of-catalog change, is this design. Not run; nothing changes.
 ## Note of 2026-11-12: an adaptation to a record-keeping team, and a theory for its fourth capability, from "luria experiment design"
 
 A41 and A43 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to adapt this case to a team of agents
-that keeps its inquiry in a governed record ([CASE-tmpy1ebu](CASE-tmpy1ebu.md)), and describe
+that keeps its inquiry in a governed record ([CASE-255](CASE-255.md)), and describe
 it accurately as "Active, but it describes an unexecuted study—not an
 established result". A43 credits this case with the matched-first-stage
 branch and the separation of internal from external restoration, and
@@ -289,7 +289,7 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 **A correction.** The note of 2026-11-12 above gives A's three-way split,
 "Robustness", "Adaptive recovery" and "Graceful extensibility", as Woods's
 ([LIT-2287](../literature.d/LIT-2287.md)). [LIT-2287](../literature.d/LIT-2287.md) could not be read; Moerman, Schraagen, Braaksma and van
-Dongen ([THEORY-tmpbzy1i](../theory.d/THEORY-tmpbzy1i.md)), read in its place, report Woods's 2015 four senses
+Dongen ([THEORY-1750](../theory.d/THEORY-1750.md)), read in its place, report Woods's 2015 four senses
 of resilience: "rebound, robustness, graceful extensibility, and
 architectures for sustained adaptability". "Adaptive recovery" is not
 among them; rebound is the nearest. The split is A's, not Woods's, and what
@@ -301,12 +301,12 @@ adaptability. The paper also supplies vocabulary for what the second failure
 tests, decompensation and mis-calibration of a system's own capacity, and
 leaves the case's question open.
 
-- **Boult et al.** ([THEORY-tmpdui86](../theory.d/THEORY-tmpdui86.md)): supports the premise of a regime that
+- **Boult et al.** ([THEORY-1755](../theory.d/THEORY-1755.md)): supports the premise of a regime that
   leaves the hypothesis family. An agent with a closed family treats such a
   regime as a closed-set classifier treats an unknown, assigning it to a
   known class, possibly confidently; "unknowns need not appear to be
   uncertain".
-- **DARPA** ([THEORY-tmphkpxr](../theory.d/THEORY-tmphkpxr.md)): SAIL-ON's detect, characterize, adapt and
+- **DARPA** ([THEORY-1766](../theory.d/THEORY-1766.md)): SAIL-ON's detect, characterize, adapt and
   update steps are a parallel decomposition to the case's separation of
   evidence generation, admission and scoring; it has no data.
 - Chen, Zhu and Zheng, Srikanth et al. and Zelikman et al. do not damage the

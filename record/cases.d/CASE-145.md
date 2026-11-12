@@ -43,7 +43,7 @@ works:
 illustrates:
 - CLAIM-418
 draws_on:
-- THEORY-tmpv6qhj
+- THEORY-1800
 summary: >-
   Proposed at A4 of the exchange of 2026-10-23, "Framework Overview
   Request", which called it "the most philosophically important new
@@ -56,7 +56,7 @@ bears_on:
 - QUESTION-260
 ---
 <!-- inactive-ok-file: LIT-2330 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-tmpv6qhj — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-145: Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention
 
@@ -128,7 +128,7 @@ without coordinating at all."
 A39 Study E, after the owner asked at U16 for prior research that could
 "corroborate or replace" the experiments, found the first part studied:
 shared mental models measured apart from team outcomes (Mathieu et al.,
-[LIT-2330](../literature.d/LIT-2330.md); DeChurch and Mesmer-Magnus, [LIT-tmpo6ko1](../literature.d/LIT-tmpo6ko1.md); both unread). Its
+[LIT-2330](../literature.d/LIT-2330.md); DeChurch and Mesmer-Magnus, [LIT-2498](../literature.d/LIT-2498.md); both unread). Its
 advice: "I would not make this a large standalone study unless the initial
 results suggest it mediates Luria's benefits." The case is unchanged.
 
@@ -136,6 +136,6 @@ results suggest it mediates Luria's benefits." The case is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **DeChurch and Mesmer-Magnus** ([THEORY-tmpv6qhj](../theory.d/THEORY-tmpv6qhj.md)): **supports a measurement constraint on the design and qualifies "shared interpretation" as an outcome.** The case's own risk is that a shared perspective "will simply mean correlated responses". DeChurch and Mesmer-Magnus show that agreement-style and rating-scale measures of sharedness (closest to "correlated responses") do not predict team process, while structural similarity does. So a test of CASE-145 should measure the structure of agents' interpretations (relations among categories), not only agreement on responses, if it wants a sharedness measure that tracks interaction. It does not bear on the collective-agency half of the case.
+- **DeChurch and Mesmer-Magnus** ([THEORY-1800](../theory.d/THEORY-1800.md)): **supports a measurement constraint on the design and qualifies "shared interpretation" as an outcome.** The case's own risk is that a shared perspective "will simply mean correlated responses". DeChurch and Mesmer-Magnus show that agreement-style and rating-scale measures of sharedness (closest to "correlated responses") do not predict team process, while structural similarity does. So a test of CASE-145 should measure the structure of agents' interpretations (relations among categories), not only agreement on responses, if it wants a sharedness measure that tracks interaction. It does not bear on the collective-agency half of the case.
 
 The case is unchanged.

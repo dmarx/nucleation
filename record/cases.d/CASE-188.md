@@ -16,12 +16,12 @@ illustrates:
 - CLAIM-344
 - CLAIM-184
 draws_on:
-- THEORY-tmpmgo6m
-- THEORY-tmphaoty
-- THEORY-tmpt5rqc
-- THEORY-tmphhyai
-- THEORY-tmprmh1c
-- THEORY-tmpcb95r
+- THEORY-1777
+- THEORY-1763
+- THEORY-1795
+- THEORY-1765
+- THEORY-1791
+- THEORY-1751
 summary: >-
   Proposed by the owner at review of the filing of the exchange "Analyze
   nucleation concepts" (2026-10-31), as a successor to [CASE-186](CASE-186.md) and
@@ -30,7 +30,7 @@ summary: >-
   counterfactual test. Not run; every parameter is left to a
   preregistration.
 ---
-<!-- inactive-ok-file: THEORY-tmpcb95r THEORY-tmphaoty THEORY-tmphhyai THEORY-tmpmgo6m THEORY-tmprmh1c THEORY-tmpt5rqc — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1751 THEORY-1763 THEORY-1765 THEORY-1777 THEORY-1791 THEORY-1795 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-188: A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score
 
@@ -117,7 +117,7 @@ A39 Study C names prior work on revision, all unread: Belief-R
 ([LIT-2326](../literature.d/LIT-2326.md)), in which "models that update readily may perform worse when no
 update is needed"; tool evidence that turns correct answers wrong
 ([LIT-2284](../literature.d/LIT-2284.md)); cognitive forcing ([LIT-2283](../literature.d/LIT-2283.md)); and explanations that raise
-acceptance of AI advice whether or not it is right ([LIT-tmpyaj3n](../literature.d/LIT-tmpyaj3n.md)). A14
+acceptance of AI advice whether or not it is right ([LIT-2513](../literature.d/LIT-2513.md)). A14
 reports from [LIT-2329](../literature.d/LIT-2329.md), unread, that "revising a theory more readily is not
 necessarily better scientific behavior". A50 §5 offers March's mutual
 learning between members and an organizational code ([LIT-729](../literature.d/LIT-729.md)) as the
@@ -129,32 +129,32 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 
 **A correction.** The note of 2026-11-12 above reports from [LIT-2329](../literature.d/LIT-2329.md), as A14
 did, that "revising a theory more readily is not necessarily better
-scientific behavior". The paper, now read ([THEORY-tmpmgo6m](../theory.d/THEORY-tmpmgo6m.md)), does not say
+scientific behavior". The paper, now read ([THEORY-1777](../theory.d/THEORY-1777.md)), does not say
 it; the sentence is A's gloss. What the paper shows is the distinction this
 case needs, measured: humans revised in proportion to their error, and LLMs
 revised more and without tracking error, separating how much a theorist
 revises from whether revision tracks error. One-shot revision, not a
 long-term commitment.
 
-- **Wilie et al.** ([THEORY-tmphaoty](../theory.d/THEORY-tmphaoty.md)): Belief-R's paired update and maintain
+- **Wilie et al.** ([THEORY-1763](../theory.d/THEORY-1763.md)): Belief-R's paired update and maintain
   subsets with an equally weighted score are a working instance of scoring
   when to revise without rewarding always or never revising; its finding
   that readiness to revise and resistance to irrelevant change trade off is
   evidence that they come apart. Single-step.
-- **Zhao, Liu et al.** ([THEORY-tmpt5rqc](../theory.d/THEORY-tmpt5rqc.md)): the split between gains and losses
+- **Zhao, Liu et al.** ([THEORY-1795](../theory.d/THEORY-1795.md)): the split between gains and losses
   from tool evidence is a model-level instance of false retraction against
   justified revision, and its perturbations, the clue held fixed and its
   framing varied, are a template for A36 E7's.
-- **Buçinca, Malaya and Gajos** ([THEORY-tmphhyai](../theory.d/THEORY-tmphhyai.md)): adopting a wrong external
+- **Buçinca, Malaya and Gajos** ([THEORY-1765](../theory.d/THEORY-1765.md)): adopting a wrong external
   signal maps onto false retraction; the cost of the check is borne in
   acceptability, and the benefit depends on a trait of the reviser, a
   moderator the case does not vary.
-- **Bansal et al.** ([THEORY-tmprmh1c](../theory.d/THEORY-tmprmh1c.md)): explanations raised acceptance of AI
+- **Bansal et al.** ([THEORY-1791](../theory.d/THEORY-1791.md)): explanations raised acceptance of AI
   advice whether or not it was right, the failure this case must not score
   as success; splitting outcomes by whether the advice was correct is the
   analogue of runs with and without a real defeater. Human reliance, so an
   analogy.
-- **Si, Yang and Hashimoto** ([THEORY-tmpcb95r](../theory.d/THEORY-tmpcb95r.md)): LLM rankers overlapped
+- **Si, Yang and Hashimoto** ([THEORY-1751](../theory.d/THEORY-1751.md)): LLM rankers overlapped
   expert rerankers on 17 of 49, a warning against scoring revision quality
   with an LLM judge.
 

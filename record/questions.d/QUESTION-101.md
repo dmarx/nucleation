@@ -52,5 +52,5 @@ or act on that information before a deadline." It separates information
 retained, accessible, actionable, authorized and acted on, and proposes
 the test: "give a team everything it needs somewhere in its distributed
 record, then measure whether it can coordinate the correct intervention
-under a time and communication budget." [QUESTION-tmpxq2sb](QUESTION-tmpxq2sb.md) asks it of the
+under a time and communication budget." [QUESTION-459](QUESTION-459.md) asks it of the
 record. Open.

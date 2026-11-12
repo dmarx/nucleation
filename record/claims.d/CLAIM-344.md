@@ -78,7 +78,7 @@ bears_on:
 ---
 
 <!-- inactive-ok-file: THEORY-067 — Proposed; an open claim this one cites and the reading that corroborates it, cited as open -->
-<!-- inactive-ok-file: THEORY-tmpt5rqc — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1795 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-344: Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve
 
@@ -228,6 +228,6 @@ more.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Zhao, Liu et al.** ([THEORY-tmpt5rqc](../theory.d/THEORY-tmpt5rqc.md)): **supports** by analogy: the protection principle preserves strong priors against weaker external support while letting stronger support revise.
+- **Zhao, Liu et al.** ([THEORY-1795](../theory.d/THEORY-1795.md)): **supports** by analogy: the protection principle preserves strong priors against weaker external support while letting stronger support revise.
 
 The claim is unchanged.

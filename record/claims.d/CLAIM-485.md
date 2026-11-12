@@ -61,7 +61,7 @@ summary: >-
   and they diverge in behaviour once that regime breaks down.
 ---
 <!-- inactive-ok-file: THEORY-219 THEORY-071 — Proposed; the account the reading this claim bridges from is split from, the criterion it is tested against, the thesis it narrows and the objection about how it could be shown -->
-<!-- inactive-ok-file: THEORY-tmpsuvav — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1793 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-485: In the self-governing sense, what endogenous governance adds over a behaviourally equivalent system with an external scheduler is not that it allocates authority among its own processes but that it can revise its own governing standards when they break down
 
@@ -122,6 +122,6 @@ the other side.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Yin et al.** ([THEORY-tmpsuvav](../theory.d/THEORY-tmpsuvav.md)): **leaves open**: the agent rewrites its procedures, not the objective or the evaluator, so it is evidence about reprogramming, not revision of governing standards.
+- **Yin et al.** ([THEORY-1793](../theory.d/THEORY-1793.md)): **leaves open**: the agent rewrites its procedures, not the objective or the evaluator, so it is evidence about reprogramming, not revision of governing standards.
 
 The claim is unchanged.

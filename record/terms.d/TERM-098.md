@@ -48,12 +48,12 @@ summary: >-
   not adopted: [QUESTION-360](../questions.d/QUESTION-360.md) asks what would settle it.
 draws_on:
 - THEORY-965
-- THEORY-tmp9ispo
+- THEORY-1746
 ---
 <!-- inactive-ok-file: ADR-095 THEORY-965 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: CASE-230 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: THEORY-tmp9ispo — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1746 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-098: concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies
 
@@ -125,6 +125,6 @@ A54 and A55 §3 of the second share of the exchange "Individuation, Possibility,
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **illustrates**. AI-Newton's concepts are explicit, carry their measurement procedures, and are reused across experiments; the mass-unification result is an instance of two routes to one concept. It does not address the question's graded/categorical issue.
+- **Fang, Jian, Li and Ma** ([THEORY-1746](../theory.d/THEORY-1746.md)): **illustrates**. AI-Newton's concepts are explicit, carry their measurement procedures, and are reused across experiments; the mass-unification result is an instance of two routes to one concept. It does not address the question's graded/categorical issue.
 
 The term is unchanged.

@@ -53,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim that rests on this one, cited as open -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 — Proposed or Superseded; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmp4d13i THEORY-tmp706lw THEORY-tmp9ispo THEORY-tmpe8wmn THEORY-tmphxh86 THEORY-tmplwnpv THEORY-tmpm8l7x THEORY-tmpxbva2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1733 THEORY-1742 THEORY-1746 THEORY-1756 THEORY-1768 THEORY-1774 THEORY-1775 THEORY-1807 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
 
@@ -244,13 +244,13 @@ it was not run. The claim is unchanged. The wording is the assistant's
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Chong, Zhang, Fan and Du** ([THEORY-tmp4d13i](../theory.d/THEORY-tmp4d13i.md)): **contrast case**. Here misfits found in trajectories are answered by schema patches accepted on measured gain, with no decision record beyond the log.
-- **Hegde et al.** ([THEORY-tmpe8wmn](../theory.d/THEORY-tmpe8wmn.md)): **contrast**. In the OBO workflow, content change is reviewed by PR and, as the paper describes it, the change language itself is extended by "community-driven use cases"; no decision record is described.
-- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **analogy only**, not claimed: AI-Newton extends a law's form when a case fails, but its DSL (the grammar) is fixed.
-- **Jackson et al.** ([THEORY-tmpm8l7x](../theory.d/THEORY-tmpm8l7x.md)): **corroborates by analogy**, not support: OBO's principles are revised when found imprecise, and the checks themselves were revised after false positives and negatives a standard and its checker both under amendment. It is about a different object (member ontologies' conformance, not a record's own grammar).
-- **Orzechowski, Tawfiq and Kosciolek** ([THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md)): CLAIM-419 and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md): the finding that a curated schema "disagrees with its own data" is the schema-misfit situation CLAIM-419 describes from the record's side; the paper's remedy (validate the ontology against a data-derived summary before each release) is a governance step.
-- **Flouris et al.** ([THEORY-tmplwnpv](../theory.d/THEORY-tmplwnpv.md)): **corroborates by analogy**: the survey lists discovering "a design flaw in the original conceptualization" as a standard reason for changing an ontology and gives a process for it; it says nothing on how often misfits are caught.
-- **Halilaj, Grangel-González, Coskun and Auer** ([THEORY-tmp706lw](../theory.d/THEORY-tmp706lw.md)): Comparison class for "grammar amended by decision": Git4Voc has amendment by commit and discussion, not by decision record.
-- **Tudorache, Nyulas, Noy and Musen** ([THEORY-tmphxh86](../theory.d/THEORY-tmphxh86.md)): WebProtégé records schema changes but not decisions about them; the contrast is exactly CLAIM-419's "amendable by decision".
+- **Chong, Zhang, Fan and Du** ([THEORY-1733](../theory.d/THEORY-1733.md)): **contrast case**. Here misfits found in trajectories are answered by schema patches accepted on measured gain, with no decision record beyond the log.
+- **Hegde et al.** ([THEORY-1756](../theory.d/THEORY-1756.md)): **contrast**. In the OBO workflow, content change is reviewed by PR and, as the paper describes it, the change language itself is extended by "community-driven use cases"; no decision record is described.
+- **Fang, Jian, Li and Ma** ([THEORY-1746](../theory.d/THEORY-1746.md)): **analogy only**, not claimed: AI-Newton extends a law's form when a case fails, but its DSL (the grammar) is fixed.
+- **Jackson et al.** ([THEORY-1775](../theory.d/THEORY-1775.md)): **corroborates by analogy**, not support: OBO's principles are revised when found imprecise, and the checks themselves were revised after false positives and negatives a standard and its checker both under amendment. It is about a different object (member ontologies' conformance, not a record's own grammar).
+- **Orzechowski, Tawfiq and Kosciolek** ([THEORY-1807](../theory.d/THEORY-1807.md)): CLAIM-419 and [QUESTION-458](../questions.d/QUESTION-458.md): the finding that a curated schema "disagrees with its own data" is the schema-misfit situation CLAIM-419 describes from the record's side; the paper's remedy (validate the ontology against a data-derived summary before each release) is a governance step.
+- **Flouris et al.** ([THEORY-1774](../theory.d/THEORY-1774.md)): **corroborates by analogy**: the survey lists discovering "a design flaw in the original conceptualization" as a standard reason for changing an ontology and gives a process for it; it says nothing on how often misfits are caught.
+- **Halilaj, Grangel-González, Coskun and Auer** ([THEORY-1742](../theory.d/THEORY-1742.md)): Comparison class for "grammar amended by decision": Git4Voc has amendment by commit and discussion, not by decision record.
+- **Tudorache, Nyulas, Noy and Musen** ([THEORY-1768](../theory.d/THEORY-1768.md)): WebProtégé records schema changes but not decisions about them; the contrast is exactly CLAIM-419's "amendable by decision".
 
 The claim is unchanged.

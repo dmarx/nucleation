@@ -63,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-176 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-759 LIT-760 LIT-761 — Unavailable; no copy could be obtained, cited for the argument ADR-030 summarises them for, not for a reading here -->
 <!-- inactive-ok-file: THEORY-311 — Proposed; the disparity account filed from the reading of LIT-757, cited in a note and not leaned on -->
-<!-- inactive-ok-file: THEORY-tmp0xnw6 THEORY-tmp6b0ul — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1726 THEORY-1739 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-179: When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
 
@@ -180,7 +180,7 @@ agent-filed records.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Tempich, Pinto, Sure and Staab** ([THEORY-tmp0xnw6](../theory.d/THEORY-tmp0xnw6.md)): DILIGENT is a design-rationale system for ontologies whose authors already see capture cost as the obstacle (§4.1: "documentation is a time consuming, often neglected task") and propose templates and ontology-learning agents as arguers. It supports the claim's premise and is prior art for its "agent as arguer" move; it reports no result on whether capture was sustained.
-- **Chesñevar et al.** ([THEORY-tmp6b0ul](../theory.d/THEORY-tmp6b0ul.md)): [ADR-032](../decisions.d/ADR-032.md) rejected AIF-everywhere for the capture-cost reason the design-rationale literature reports; CLAIM-179 is the claim that would reopen that rejection when agents file.
+- **Tempich, Pinto, Sure and Staab** ([THEORY-1726](../theory.d/THEORY-1726.md)): DILIGENT is a design-rationale system for ontologies whose authors already see capture cost as the obstacle (§4.1: "documentation is a time consuming, often neglected task") and propose templates and ontology-learning agents as arguers. It supports the claim's premise and is prior art for its "agent as arguer" move; it reports no result on whether capture was sustained.
+- **Chesñevar et al.** ([THEORY-1739](../theory.d/THEORY-1739.md)): [ADR-032](../decisions.d/ADR-032.md) rejected AIF-everywhere for the capture-cost reason the design-rationale literature reports; CLAIM-179 is the claim that would reopen that rejection when agents file.
 
 The claim is unchanged.

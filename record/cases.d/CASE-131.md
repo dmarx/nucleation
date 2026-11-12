@@ -29,7 +29,7 @@ summary: >-
   grammar. Not shown: that such moves are always caught.
 ---
 <!-- inactive-ok-file: CLAIM-181 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: ARG-tmp8fx47 CASE-tmppm4do CLAIM-tmpefs1h — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: ARG-096 CASE-253 CLAIM-666 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
 # CASE-131: The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation
 
@@ -75,10 +75,10 @@ object, a representational and a governance failure); and A45 §4, which
 writes four versions of it: the relation exists and is misfiled; it is
 absent; it is proposed and the acceptance procedure rejects new relations;
 and the review procedure has been altered so it no longer catches false
-inferred dependencies. [CASE-tmppm4do](CASE-tmppm4do.md) gathers the design.
+inferred dependencies. [CASE-253](CASE-253.md) gathers the design.
 
 A25 drew a further consequence: "Preserving the original graph exactly
 would preserve the false dependency in CASE-131." That is filed as
-[CLAIM-tmpefs1h](../claims.d/CLAIM-tmpefs1h.md), with [ARG-tmp8fx47](../arguments.d/ARG-tmp8fx47.md). This case's "What it does not show" is
+[CLAIM-666](../claims.d/CLAIM-666.md), with [ARG-096](../arguments.d/ARG-096.md). This case's "What it does not show" is
 also A25's methodological point: a schema history "cannot tell us how many
 contributions were misclassified or abandoned because they did not fit".

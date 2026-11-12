@@ -43,7 +43,7 @@ illustrates:
 - CLAIM-357
 - CLAIM-523
 draws_on:
-- THEORY-tmpglid0
+- THEORY-1761
 summary: >-
   A8's Proposal E, from the exchange "Organizational Nucleation and SLT"
   (2026-11-04). Three organizations have identical task performance. Their
@@ -60,9 +60,9 @@ bears_on:
 - QUESTION-097
 ---
 <!-- inactive-ok-file: ARG-025 CLAIM-427 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
-<!-- inactive-ok-file: CASE-tmpvq90k — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: CASE-254 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2316 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-tmp6koy4 THEORY-tmpglid0 THEORY-tmpr79u7 THEORY-tmptc3ih — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1741 THEORY-1761 THEORY-1789 THEORY-1796 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-194: Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies
 
@@ -157,7 +157,7 @@ The pasted synthesis on resource-bounded realizability reads this case as observ
 ## Note of 2026-11-12: the construction as the seed of a diagnostic benchmark, from "luria experiment design"
 
 A47 and A48 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) make this construction the basis of the experiment
-A would run first ([CASE-tmpvq90k](CASE-tmpvq90k.md)): "We can give a team the same apparent
+A would run first ([CASE-254](CASE-254.md)): "We can give a team the same apparent
 failure in several worlds, each with a different hidden cause." A's
 account of it is accurate, including that it "distinguishes observation
 from communication failure; it is not the same as Nucleation's separate
@@ -171,9 +171,9 @@ probes is not a new experimental idea." The construction is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Reiter** ([THEORY-tmp6koy4](../theory.d/THEORY-tmp6koy4.md)): **leaves open / qualifies**. The case's three causes can be cast as components in Reiter's sense, and the theory then says the observation "50% on one task" has several diagnoses that only further measurement separates, which matches the case. But the case's point that the observational cause is "infeasible only relative to its observation-limited policies" is not a component fault and has no place in SD/COMPONENTS without remodeling. The construction is unaffected.
-- **Kephart and Chess** ([THEORY-tmptc3ih](../theory.d/THEORY-tmptc3ih.md)): Figure 1's problem determiner, which uses inter-element dependencies to pick the culprit among three suspect modules, is a model-based diagnosis step inside the loop. Illustration only.
-- **de Kleer and Williams** ([THEORY-tmpglid0](../theory.d/THEORY-tmpglid0.md)): **illustrates the formal setting**: three diagnoses consistent with one observation, separated only by further measurement. Sherlock assumes the component structure is given; CASE-194's causes include the authority rule, which in GDE terms would have to be modelled as a component.
-- **He** ([THEORY-tmpr79u7](../theory.d/THEORY-tmpr79u7.md)): Equal score trajectories in DGM are "compatible" with selection over undirected variation. Only a randomized intervention on the evidence shown separates the explanations. That is the same methodological point CASE-194 makes, that equal performance does not identify the cause. The paper's editable vs unreachable causes (§6) parallel CASE-194's actuation vs observation limits. It does not instantiate CASE-194's three arms.
+- **Reiter** ([THEORY-1741](../theory.d/THEORY-1741.md)): **leaves open / qualifies**. The case's three causes can be cast as components in Reiter's sense, and the theory then says the observation "50% on one task" has several diagnoses that only further measurement separates, which matches the case. But the case's point that the observational cause is "infeasible only relative to its observation-limited policies" is not a component fault and has no place in SD/COMPONENTS without remodeling. The construction is unaffected.
+- **Kephart and Chess** ([THEORY-1796](../theory.d/THEORY-1796.md)): Figure 1's problem determiner, which uses inter-element dependencies to pick the culprit among three suspect modules, is a model-based diagnosis step inside the loop. Illustration only.
+- **de Kleer and Williams** ([THEORY-1761](../theory.d/THEORY-1761.md)): **illustrates the formal setting**: three diagnoses consistent with one observation, separated only by further measurement. Sherlock assumes the component structure is given; CASE-194's causes include the authority rule, which in GDE terms would have to be modelled as a component.
+- **He** ([THEORY-1789](../theory.d/THEORY-1789.md)): Equal score trajectories in DGM are "compatible" with selection over undirected variation. Only a randomized intervention on the evidence shown separates the explanations. That is the same methodological point CASE-194 makes, that equal performance does not identify the cause. The paper's editable vs unreachable causes (§6) parallel CASE-194's actuation vs observation limits. It does not instantiate CASE-194's three arms.
 
 The case is unchanged.

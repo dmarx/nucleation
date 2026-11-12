@@ -41,8 +41,8 @@ summary: >-
   which of four senses.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: THEORY-tmp37mxv THEORY-tmpdjm1o THEORY-tmpl4czv THEORY-tmpq26fh — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1730 THEORY-1754 THEORY-1772 THEORY-1785 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-271: How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?
 
@@ -170,15 +170,15 @@ arrangements, and marks where a record cannot answer it alone: "A Git-based
 approval policy does not independently protect anything when the agent can
 also modify the branch protections, tests and approval credentials." "This
 is a boundary of the implementation, not something that can be solved by
-stronger instructions in the record." The test is in [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md). Open.
+stronger instructions in the record." The test is in [CASE-255](../cases.d/CASE-255.md). Open.
 
 ## Note of 2026-11-12: 4 readings of the works of "luria experiment design"
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Liu and Yadav** ([THEORY-tmp37mxv](../theory.d/THEORY-tmp37mxv.md)): The benchmark keeps the scorer (deterministic assertions) outside the agent for state tasks, but uses LLM judges for procedure and user experience. That is a mixed instance of separating evaluator from optimized system.
-- **Lu et al.** ([THEORY-tmpl4czv](../theory.d/THEORY-tmpl4czv.md)): Bears as an example. The authors validate the judge against human decisions once, then rely on it.
-- **Srikanth et al.** ([THEORY-tmpdjm1o](../theory.d/THEORY-tmpdjm1o.md)): The improvers do not control the grade; leaves open.
-- **Bao et al.** ([THEORY-tmpq26fh](../theory.d/THEORY-tmpq26fh.md)): **bears on, leaves open**. A reward model trained on expert judgements beats the human agreement floor; the paper itself warns it distils "current taste", not the practice by which criteria change.
+- **Liu and Yadav** ([THEORY-1730](../theory.d/THEORY-1730.md)): The benchmark keeps the scorer (deterministic assertions) outside the agent for state tasks, but uses LLM judges for procedure and user experience. That is a mixed instance of separating evaluator from optimized system.
+- **Lu et al.** ([THEORY-1772](../theory.d/THEORY-1772.md)): Bears as an example. The authors validate the judge against human decisions once, then rely on it.
+- **Srikanth et al.** ([THEORY-1754](../theory.d/THEORY-1754.md)): The improvers do not control the grade; leaves open.
+- **Bao et al.** ([THEORY-1785](../theory.d/THEORY-1785.md)): **bears on, leaves open**. A reward model trained on expert judgements beats the human agreement floor; the paper itself warns it distils "current taste", not the practice by which criteria change.
 
 The question is unchanged.

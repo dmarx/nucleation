@@ -4,7 +4,7 @@
 
 **social-ontology**.
 
-48 of 1801 NOTE documents. Back to the [full index](../README.md).
+49 of 1890 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -56,3 +56,4 @@
 | [NOTE-1483](../../../record/notes.d/NOTE-1483.md) | Bencherki & Iliadis — Organization as informational individuation | Proposes Simondon's informational individuation as the theory of communication that CCO research lacks. Information is a differential of action potential between differently ordered domains; communication is its kin-to-kin propagation, which orders each domain it crosses; meaning is that reordering; organizations and members are coexisting informational levels, not stages. Four propositions and one meeting excerpt; no test, and agency is not theorized. | Read |
 | [NOTE-1484](../../../record/notes.d/NOTE-1484.md) | Bencherki, Brummans & Vézy — Agency without agents | A conceptual paper. Agency is redefined, after Massumi and Simondon, as the affective force that governs a transition between individuation processes toward an augmented ability to act. It is expressed in a communicative event in which one process takes up another's excess action, and it may start a collective transindividuation. Agents are its effects, not its sources. It is illustrated by rereading one meeting from Cooren's MSF ethnography. The paper gives a vocabulary for redescription, with no criterion that would let an observation count against it. | Read |
 | [NOTE-1489](../../../record/notes.d/NOTE-1489.md) | Tsoukas & Chia — On organizational becoming | A conceptual paper. It reverses the priority of organization and change. Change is the reweaving of actors' webs of beliefs and habits as they accommodate new experience. It is driven by the radial structure of categories, whose nonprototypical applications extend them, and by human reflexivity. Organization is both the attempt to stem that change and the pattern that emerges from it. Its illustrations are other researchers' ethnographies. Its becoming is carried by human agents. | Read |
+| [NOTE-1881](../../../record/notes.d/NOTE-1881.md) | Singh — An ontology for commitments in multiagent systems: Toward a unification of normative concepts | Singh proposes a "descriptive ontology" of social commitments for multiagent systems. A commitment is a four-place relation C(x, y, G, p): debtor x, creditor y, context group G and discharge condition p (a condition to be achieved, evaluated in the world, not in any agent's mind). Six operations act on commitments: create, discharge, cancel, release, delegate, assign; all but discharge are typically performatives. | Read |

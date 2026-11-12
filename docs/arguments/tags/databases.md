@@ -6,8 +6,8 @@
 
 **Databases and data structures** — how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045).
 
-0 of 95 ARG documents. Back to the [full index](../README.md).
+1 of 98 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-098](../../../record/arguments.d/ARG-098.md) v2 | EvoOntology's gate ablation shows that governance raises the value of a modifiable schema | The tempting reading of Chong, Zhang, Fan and Du's EvoOntology ([THEORY-1733](../../../record/theory.d/THEORY-1733.md), read on 2026-11-12): removing the acceptance gate costs 11.2 points and schema-only evolution costs 8.7, so schema change does better with something around it, which is what [CLAIM-667](../../../record/claims.d/CLAIM-667.md) says of governance. Rejected: the gate is the performance-gated arm the claim's own defeat condition names as governance's rival, and the paper does not measure the outcome the claim is about. The reading is a comparator for the claim's study, not evidence for it. Filed so that the judgment is held once and can be overturned in one place. | Rejected |

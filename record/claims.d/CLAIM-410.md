@@ -84,8 +84,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-470 THEORY-429 — Proposed; open claims and a reading this claim complements or cites as the transfer case, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-841 — Proposed; Hayek's argument, cited as context for the transfer case, nothing here rests on it -->
-<!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: THEORY-tmpqtonx THEORY-tmpymq8w — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-253 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1787 THEORY-1809 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-410: Removing a constraint on an organization's members does not move it along one scale of more or less governance: it changes a profile of who holds governing positions, among them rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members' first-order options and their share in revising the conditions of their action can move in opposite directions
 
@@ -228,15 +228,15 @@ peer-reviewed authorization, leaving voting out of a first study. With
 [CLAIM-086](CLAIM-086.md) and [CLAIM-272](CLAIM-272.md), A34 separates "Content influence" from
 "Constitutive influence", which agents set the categories and procedures
 that govern the account. A50 §3 maps Polski and Ostrom's operational,
-collective-choice and constitutional rules ([LIT-tmp5rs7c](../literature.d/LIT-tmp5rs7c.md), unread) onto the
-same positions. [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) carry the design. The
+collective-choice and constitutional rules ([LIT-2482](../literature.d/LIT-2482.md), unread) onto the
+same positions. [QUESTION-458](../questions.d/QUESTION-458.md) and [CASE-253](../cases.d/CASE-253.md) carry the design. The
 claim is unchanged.
 
 ## Note of 2026-11-12: Basurto, Kingsley, McQueen, Smith and Weible and Polski and Ostrom, read
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Basurto, Kingsley, McQueen, Smith and Weible** ([THEORY-tmpqtonx](../theory.d/THEORY-tmpqtonx.md)): **leaves open**; the paper codes who must do what, not positions of rule-making, monitoring and revision.
-- **Polski and Ostrom** ([THEORY-tmpymq8w](../theory.d/THEORY-tmpymq8w.md)): **Supports in part.** The seven rule types, especially position, boundary and authority, together with the three levels, give a richer profile than "more or less governance". This is consistent with CLAIM-410's claim that authority can be eliminated, distributed or transferred. The chapter does not discuss deregulation as such.
+- **Basurto, Kingsley, McQueen, Smith and Weible** ([THEORY-1787](../theory.d/THEORY-1787.md)): **leaves open**; the paper codes who must do what, not positions of rule-making, monitoring and revision.
+- **Polski and Ostrom** ([THEORY-1809](../theory.d/THEORY-1809.md)): **Supports in part.** The seven rule types, especially position, boundary and authority, together with the three levels, give a richer profile than "more or less governance". This is consistent with CLAIM-410's claim that authority can be eliminated, distributed or transferred. The chapter does not discuss deregulation as such.
 
 The claim is unchanged.

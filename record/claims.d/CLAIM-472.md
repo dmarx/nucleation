@@ -68,7 +68,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1631 — Deferred; registered unread -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->
 <!-- inactive-ok-file: LIT-1657 — Deferred; registered from the same exchange, unread -->
-<!-- inactive-ok-file: THEORY-tmptmk90 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1797 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-472: Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected
 
@@ -170,6 +170,6 @@ unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Leitgeb and Carus** ([THEORY-tmptmk90](../theory.d/THEORY-tmptmk90.md)): *supports the first half, with a source*. Carnap's framework choice is "a normative or practical question" with "no right or wrong answers" (result 5), evaluated by how frameworks "worked better" for purposes: evaluation, not verification. Carnap's explication desiderata are a worked set of evaluation criteria held as matters of degree (results 7–8). Qualification: Carnap's "no right or wrong answers" is stronger than CLAIM-472's second half, which indexes exclusions to "a standard, a scale and those affected"; the entry's §1.8 reading (practical reason governs the choice) narrows the gap.
+- **Leitgeb and Carus** ([THEORY-1797](../theory.d/THEORY-1797.md)): *supports the first half, with a source*. Carnap's framework choice is "a normative or practical question" with "no right or wrong answers" (result 5), evaluated by how frameworks "worked better" for purposes: evaluation, not verification. Carnap's explication desiderata are a worked set of evaluation criteria held as matters of degree (results 7–8). Qualification: Carnap's "no right or wrong answers" is stronger than CLAIM-472's second half, which indexes exclusions to "a standard, a scale and those affected"; the entry's §1.8 reading (practical reason governs the choice) narrows the gap.
 
 The claim is unchanged.

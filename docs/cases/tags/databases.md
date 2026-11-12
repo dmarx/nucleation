@@ -6,8 +6,8 @@
 
 **Databases and data structures** — how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045).
 
-0 of 250 CASE documents. Back to the [full index](../README.md).
+1 of 255 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-253](../../../record/cases.d/CASE-253.md) v2 | A proposed study of governed schema adaptation: agents given a record whose grammar may or may not be adequate, under fixed or modifiable schemas crossed with informal or explicit change governance, scored on semantic correction without regressions | From the exchange "luria experiment design" (2026-11-10). The owner asked at U10 for "evaluations or benchmarks", "e.g. equip an agent with luria and evaluate the agent against some task", having asked at U8 about schema modifiability coupled to governance. A proposed the design over six turns: A27's "Inquiry Evolution Benchmark", A29's GSAE, A36's E8, A39's Study D, A45's Study 2 and A48's Study B, each refining the last. This entry gathers them. Not run; the stipulated part is the design. The design is A's; adopting it is the owner's call. | Proposed |

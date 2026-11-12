@@ -47,7 +47,7 @@ bears_on:
 - QUESTION-258
 ---
 <!-- inactive-ok-file: CLAIM-250 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmpglid0 THEORY-tmpn7ukf THEORY-tmpo4vs4 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1761 THEORY-1778 THEORY-1780 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-293: The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions
 
@@ -85,8 +85,8 @@ structure matters' to 'a graph of justifications is sufficient.'"
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Jung, Rubinstein, Uselis, Yun and Oh** ([THEORY-tmpo4vs4](../theory.d/THEORY-tmpo4vs4.md)): MEME's gold answers *are* fixed by the DAG plus rules; it is a setting where the claim's condition (same edges, different evidence) does not arise. Contrast, not evidence.
-- **de Kleer and Williams** ([THEORY-tmpglid0](../theory.d/THEORY-tmpglid0.md)): **consistent**. Sherlock's ranking of diagnoses needs mode probabilities beyond the conflict structure; two systems with the same conflicts can call for different probes.
-- **de Kleer** ([THEORY-tmpn7ukf](../theory.d/THEORY-tmpn7ukf.md)): *supports by contrast*: the ATMS's correctness rests on edges being Horn implications; where they are, topology does fix revision. This is the boundary condition of CLAIM-293, not a counterexample to it.
+- **Jung, Rubinstein, Uselis, Yun and Oh** ([THEORY-1780](../theory.d/THEORY-1780.md)): MEME's gold answers *are* fixed by the DAG plus rules; it is a setting where the claim's condition (same edges, different evidence) does not arise. Contrast, not evidence.
+- **de Kleer and Williams** ([THEORY-1761](../theory.d/THEORY-1761.md)): **consistent**. Sherlock's ranking of diagnoses needs mode probabilities beyond the conflict structure; two systems with the same conflicts can call for different probes.
+- **de Kleer** ([THEORY-1778](../theory.d/THEORY-1778.md)): *supports by contrast*: the ATMS's correctness rests on edges being Horn implications; where they are, topology does fix revision. This is the boundary condition of CLAIM-293, not a counterexample to it.
 
 The claim is unchanged.

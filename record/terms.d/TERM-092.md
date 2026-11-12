@@ -56,8 +56,8 @@ summary: >-
   shape as well as size. The term separates askable from expressible and
   from answerable, which [CLAIM-474](../claims.d/CLAIM-474.md)'s last failure turns on.
 ---
-<!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: THEORY-tmpzmf41 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-253 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-092: inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers
 
@@ -124,13 +124,13 @@ careful prose and extensive reasoning", the outcome "is not absolute
 expressibility, but task-relative reachability under a budget", which is
 this term's sense. A48 §6 splits it into question formulation, question
 execution, and negative transfer, "Does the new representation make other
-legitimate questions harder to ask or answer?" [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) uses the
+legitimate questions harder to ask or answer?" [CASE-253](../cases.d/CASE-253.md) uses the
 three. The definition is unchanged.
 
 ## Note of 2026-11-12: Majumder et al., read
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Majumder et al.** ([THEORY-tmpzmf41](../theory.d/THEORY-tmpzmf41.md)): **leaves open**; workflow length as a difficulty measure is a crude analogue, not a test.
+- **Majumder et al.** ([THEORY-1812](../theory.d/THEORY-1812.md)): **leaves open**; workflow length as a difficulty measure is a crude analogue, not a test.
 
 The term is unchanged.

@@ -28,7 +28,7 @@ refines:
 complements:
 - TERM-100
 draws_on:
-- THEORY-tmp9ispo
+- THEORY-1746
 summary: >-
   At the owner's review of 2026-11-03. "Self-formation" had appeared
   uncoded in [CLAIM-022](../claims.d/CLAIM-022.md)'s note of 2026-11-02, [CLAIM-540](../claims.d/CLAIM-540.md),
@@ -42,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-174 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: LIT-1985 — Proposed, Open, Deferred or new; cited as open -->
-<!-- inactive-ok-file: THEORY-tmp9ispo — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1746 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-099: self-formation, of an agent: the production, by the agent's own activity on a discrepancy it cannot yet resolve, of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones
 
@@ -90,6 +90,6 @@ A52 §13: "We should not explain every novelty by claiming that the system was a
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **an instance in a formal system**. A general law failing in a new experiment is the discrepancy; the added term (elastic potential energy) becomes a concept registered in the theory base and reused across later experiments.
+- **Fang, Jian, Li and Ma** ([THEORY-1746](../theory.d/THEORY-1746.md)): **an instance in a formal system**. A general law failing in a new experiment is the discrepancy; the added term (elastic potential energy) becomes a concept registered in the theory base and reused across later experiments.
 
 The term is unchanged.

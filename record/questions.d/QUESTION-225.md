@@ -41,7 +41,7 @@ summary: >-
 ---
 
 <!-- unresolved-ok-file: QUESTION-000 — the placeholder a new document replaces -->
-<!-- inactive-ok-file: THEORY-tmpx4v17 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1806 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-225: Are why-provenance and, for traceable queries, where-provenance preserved by Buneman, Khanna and Tan's rewrite system, and is traceability necessary for where-provenance to be preserved?
 
@@ -67,6 +67,6 @@ query optimisation.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Lebo, Sahoo and McGuinness (eds.)** ([THEORY-tmpx4v17](../theory.d/THEORY-tmpx4v17.md)): A database-provenance line distinct from PROV's workflow provenance; PROV-O does not address query provenance.
+- **Lebo, Sahoo and McGuinness (eds.)** ([THEORY-1806](../theory.d/THEORY-1806.md)): A database-provenance line distinct from PROV's workflow provenance; PROV-O does not address query provenance.
 
 The question is unchanged.

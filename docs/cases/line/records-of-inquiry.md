@@ -6,7 +6,7 @@
 
 **What a record of inquiry keeps** — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082).
 
-7 of 250 CASE documents. Back to the [full index](../README.md).
+8 of 255 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [CASE-090](../../../record/cases.d/CASE-090.md) v2 | The rehabilitated hypothesis: an objection that displaced a hypothesis turns out to rest on a faulty measurement, and the hypothesis can be reopened because its defeat was recorded | A7's seventh case, the companion to [CASE-086](../../../record/cases.d/CASE-086.md) and filed with it. Reopening an alternative when its defeater is defeated. A12's "defeat of a defeater" is the same case and is held here, as A12 itself proposed. | Active |
 | [CASE-091](../../../record/cases.d/CASE-091.md) v2 | A memory ablation for revision: synthetic inquiries with known ground truth, run under six kinds of persistent memory, with information and token budget controlled separately | A6's fifth case, refined from A3, A4 §4 and A5. The design [QUESTION-108](../../../record/questions.d/QUESTION-108.md) asks for. Not run. | Active |
 | [CASE-093](../../../record/cases.d/CASE-093.md) v2 | Same marginal, different updates: two joint distributions over a hypothesis and a condition that agree on the hypothesis and disagree on how to revise it | A6's first case, made exact at A8. It grounds [CLAIM-294](../../../record/claims.d/CLAIM-294.md). | Active |
+| [CASE-251](../../../record/cases.d/CASE-251.md) | A proposed study of curation completeness: an agent given a source and the record as it stood before a filing produces the filing's accounting, scored against the filing together with its later corrections | The filer's own idea, offered after filing the exchange "luria experiment design" (2026-11-10) and accepted by the owner. A20 of that exchange proposed "curation completeness" as one task of an evaluation of the record: given a source discussion, identify what was filed, already represented or left unfiled. The record's own history supplies ground truth for it: filings whose accounting was later found incomplete, and the corrections that found the gaps. The documented part is those episodes; the study is stipulated and not run. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

@@ -95,7 +95,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-476 — Proposed; the frame this is a case of and the claims it sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1645 LIT-1651 LIT-1675 LIT-1641 LIT-1665 LIT-1637 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
-<!-- inactive-ok-file: THEORY-tmpq26fh THEORY-tmpzmf41 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1785 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-470: Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be
 
@@ -259,7 +259,7 @@ an autonomous method for inventing it." No status changes.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Majumder et al.** ([THEORY-tmpzmf41](../theory.d/THEORY-tmpzmf41.md)): **illustrates**. DiscoveryBench's goals are formed by masking one dimension of a hypothesis, so the goal fixes what kind of difference (a context, a variable set, a relationship) would answer it; goals that leave context or variables open are harder than those that fix them.
-- **Bao et al.** ([THEORY-tmpq26fh](../theory.d/THEORY-tmpq26fh.md)): The Discussion's claim that novelty, feasibility and probability are "functions of an evolving disciplinary horizon" is the authors' view, consistent with CLAIM-470; not evidence for it.
+- **Majumder et al.** ([THEORY-1812](../theory.d/THEORY-1812.md)): **illustrates**. DiscoveryBench's goals are formed by masking one dimension of a hypothesis, so the goal fixes what kind of difference (a context, a variable set, a relationship) would answer it; goals that leave context or variables open are harder than those that fix them.
+- **Bao et al.** ([THEORY-1785](../theory.d/THEORY-1785.md)): The Discussion's claim that novelty, feasibility and probability are "functions of an evolving disciplinary horizon" is the authors' view, consistent with CLAIM-470; not evidence for it.
 
 The claim is unchanged.

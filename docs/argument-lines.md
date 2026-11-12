@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-37 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+40 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -20,6 +20,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-311](../record/claims.d/CLAIM-311.md) — A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists *(Active)*
   - [CLAIM-312](../record/claims.d/CLAIM-312.md) — "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default *(Active)*
+
+### From Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
+
+- [CLAIM-346](../record/claims.d/CLAIM-346.md) — Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent *(Active)*
+  - [CLAIM-668](../record/claims.d/CLAIM-668.md) — A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have *(Proposed)*
 
 ### From In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent
 
@@ -215,6 +220,16 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-575](../record/claims.d/CLAIM-575.md) — Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity *(Active)*
 
 ## records-of-inquiry
+
+### From What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes
+
+- [CLAIM-250](../record/claims.d/CLAIM-250.md) — What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes *(Proposed)*
+  - [CLAIM-666](../record/claims.d/CLAIM-666.md) — A migration of the record's grammar is faithful when it preserves the record's accountability structure, not its old graph: where the old grammar forced a relation nobody asserted, a faithful migration removes it *(Proposed)*
+
+### From The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions
+
+- [CLAIM-293](../record/claims.d/CLAIM-293.md) — The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions *(Active)*
+  - [CLAIM-664](../record/claims.d/CLAIM-664.md) — The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and, since its relations record support of unrecorded strength rather than justifications taken as sufficient, no rule reading only the support graph and the entries' statuses could make that judgment correctly *(Proposed)*
 
 ### From Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on
 

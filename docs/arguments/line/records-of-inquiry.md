@@ -6,8 +6,8 @@
 
 **What a record of inquiry keeps** — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082).
 
-0 of 95 ARG documents. Back to the [full index](../README.md).
+1 of 98 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-096](../../../record/arguments.d/ARG-096.md) | The graph that asserted an inference nobody made shows that preserving the old graph through a migration can preserve a false dependency | From the exchange "luria experiment design" (2026-11-10), A25: "Preserving the original graph exactly would preserve the false dependency in [CASE-131](../../../record/cases.d/CASE-131.md)." The inference from [CASE-131](../../../record/cases.d/CASE-131.md) to the negative half of [CLAIM-666](../../../record/claims.d/CLAIM-666.md), that preserving the graph is not a criterion of a faithful migration. Proposed. [CASE-131](../../../record/cases.d/CASE-131.md) is documented, and the relation was removed before merge, so the migration it supports is a stipulated counterfactual: had the forced relation been merged before [ADR-044](../../../record/decisions.d/ADR-044.md), a graph-preserving migration would have carried it. The case shows the negative half; the positive criterion rests on [CLAIM-250](../../../record/claims.d/CLAIM-250.md), not on the case. The observation is A's (ChatGPT's); the wording is the assistant's (Claude, in this session), and adopting it is the owner's call. | Proposed |

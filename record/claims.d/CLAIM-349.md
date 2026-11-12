@@ -100,7 +100,7 @@ complements:
 
 <!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1830 LIT-1823 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmphhyai THEORY-tmprmh1c THEORY-tmpt5rqc — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1765 THEORY-1791 THEORY-1795 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-349: An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
@@ -370,8 +370,8 @@ the agent's writable environment. Not run. The claim is unchanged.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Buçinca, Malaya and Gajos** ([THEORY-tmphhyai](../theory.d/THEORY-tmphhyai.md)): **supports, as a human instance.** The *on demand* and *update* conditions keep access to the AI's signal while delaying or conditioning its authority, and they reduce acting on wrong signals; but the paper's no-AI arm still does best on wrong-AI items, so conditional authority here does not reach the performance of no access on those items.
-- **Zhao, Liu et al.** ([THEORY-tmpt5rqc](../theory.d/THEORY-tmpt5rqc.md)): **supports, as an LLM instance.** The paper's λ is explicitly "revision authority" over access the model already has, and the optimum is conditional on the internal evidence.
-- **Bansal et al.** ([THEORY-tmprmh1c](../theory.d/THEORY-tmprmh1c.md)): **Corroborates by analogy.** In the study, explanations changed the *authority* of the AI's signal (more agreement) without making that authority conditional on the signal's correctness; confidence display and adaptive explanations are attempts to make it conditional (Fig. 5: lower agreement on low-confidence items). That is CLAIM-349's separation observed in human-AI teams; the claim's own scope is organizational regulation.
+- **Buçinca, Malaya and Gajos** ([THEORY-1765](../theory.d/THEORY-1765.md)): **supports, as a human instance.** The *on demand* and *update* conditions keep access to the AI's signal while delaying or conditioning its authority, and they reduce acting on wrong signals; but the paper's no-AI arm still does best on wrong-AI items, so conditional authority here does not reach the performance of no access on those items.
+- **Zhao, Liu et al.** ([THEORY-1795](../theory.d/THEORY-1795.md)): **supports, as an LLM instance.** The paper's λ is explicitly "revision authority" over access the model already has, and the optimum is conditional on the internal evidence.
+- **Bansal et al.** ([THEORY-1791](../theory.d/THEORY-1791.md)): **Corroborates by analogy.** In the study, explanations changed the *authority* of the AI's signal (more agreement) without making that authority conditional on the signal's correctness; confidence display and adaptive explanations are attempts to make it conditional (Fig. 5: lower agreement on low-confidence items). That is CLAIM-349's separation observed in human-AI teams; the claim's own scope is organizational regulation.
 
 The claim is unchanged.

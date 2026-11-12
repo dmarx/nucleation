@@ -57,7 +57,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claims the measurement bears on -->
-<!-- inactive-ok-file: THEORY-tmp706lw THEORY-tmphxh86 THEORY-tmpm8l7x — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1742 THEORY-1768 THEORY-1775 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-178: How the record's grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner's ordering of levels holds by frequency; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar's rates fell while filing rose
 
@@ -247,8 +247,8 @@ filings. No status, title or warrant changes.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Jackson et al.** ([THEORY-tmpm8l7x](../theory.d/THEORY-tmpm8l7x.md)): OBO is a comparison case for how often a standard's revision is decision-documented; OBO's are tracked in issues, not in decision records.
-- **Halilaj, Grangel-González, Coskun and Auer** ([THEORY-tmp706lw](../theory.d/THEORY-tmp706lw.md)): Comparison class for "grammar amended by decision": Git4Voc has amendment by commit and discussion, not by decision record.
-- **Tudorache, Nyulas, Noy and Musen** ([THEORY-tmphxh86](../theory.d/THEORY-tmphxh86.md)): WebProtégé records schema changes but not decisions about them; the contrast is exactly [CLAIM-419](../claims.d/CLAIM-419.md)'s "amendable by decision".
+- **Jackson et al.** ([THEORY-1775](../theory.d/THEORY-1775.md)): OBO is a comparison case for how often a standard's revision is decision-documented; OBO's are tracked in issues, not in decision records.
+- **Halilaj, Grangel-González, Coskun and Auer** ([THEORY-1742](../theory.d/THEORY-1742.md)): Comparison class for "grammar amended by decision": Git4Voc has amendment by commit and discussion, not by decision record.
+- **Tudorache, Nyulas, Noy and Musen** ([THEORY-1768](../theory.d/THEORY-1768.md)): WebProtégé records schema changes but not decisions about them; the contrast is exactly [CLAIM-419](../claims.d/CLAIM-419.md)'s "amendable by decision".
 
 The case is unchanged.

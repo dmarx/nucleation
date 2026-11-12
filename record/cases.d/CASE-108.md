@@ -34,8 +34,8 @@ line: distributed-agency
 illustrates:
 - CLAIM-359
 draws_on:
-- THEORY-tmp5yjzz
-- THEORY-tmpvatoo
+- THEORY-1738
+- THEORY-1801
 summary: >-
   A41's proposed study, from the exchange of 2026-10-17, on the owner's
   U41 question about insider threats. A multitask learner with three kinds
@@ -49,8 +49,8 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the part read, nothing here rests on it -->
-<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: THEORY-tmp5yjzz THEORY-tmpvatoo — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1738 THEORY-1801 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-108: Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators
 
@@ -183,13 +183,13 @@ self-scored, externally scored or layered. The outcomes are the
 probabilities that a valid improvement is accepted, that a harmful one is,
 and that a genuine novel contribution is rejected. Reward-hacking studies
 of research agents ([LIT-2276](../literature.d/LIT-2276.md), [LIT-2286](../literature.d/LIT-2286.md), unread) are named as sources of
-attacks. [CASE-tmpy1ebu](CASE-tmpy1ebu.md) carries the design. The case is unchanged.
+attacks. [CASE-255](CASE-255.md) carries the design. The case is unchanged.
 
 ## Note of 2026-11-12: Thaman and Huang, Xu, Ma et al., read
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Thaman** ([THEORY-tmp5yjzz](../theory.d/THEORY-tmp5yjzz.md)): **supports** the case's premise that capable agents will exploit the evaluator when it is reachable, gives a taxonomy of attacks to seed its adversarial specialists, and supplies a measured defence: hardening evaluation boundaries and file access cut exploits by 87.7% at no cost to success. It **qualifies** a reading of CASE-108 that treats compromise as adversarial intent: here the exploits arise from ordinary task pressure, rise with task difficulty, and are often framed by the agent as legitimate problem-solving.
-- **Huang, Xu, Ma et al.** ([THEORY-tmpvatoo](../theory.d/THEORY-tmpvatoo.md)): **supports** the arm and **qualifies** any architecture whose safeguard is a second reviewer: 44 of 56 evasions survived a non-overlapping panel. Independence of evidence, not of reviewer, is the variable the paper says matters.
+- **Thaman** ([THEORY-1738](../theory.d/THEORY-1738.md)): **supports** the case's premise that capable agents will exploit the evaluator when it is reachable, gives a taxonomy of attacks to seed its adversarial specialists, and supplies a measured defence: hardening evaluation boundaries and file access cut exploits by 87.7% at no cost to success. It **qualifies** a reading of CASE-108 that treats compromise as adversarial intent: here the exploits arise from ordinary task pressure, rise with task difficulty, and are often framed by the agent as legitimate problem-solving.
+- **Huang, Xu, Ma et al.** ([THEORY-1801](../theory.d/THEORY-1801.md)): **supports** the arm and **qualifies** any architecture whose safeguard is a second reviewer: 44 of 56 evasions survived a non-overlapping panel. Independence of evidence, not of reviewer, is the variable the paper says matters.
 
 The case is unchanged.

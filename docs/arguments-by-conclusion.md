@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 100 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 103 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -213,3 +213,9 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-094](../record/arguments.d/ARG-094.md) — Pathogen-specific changes in host behaviour do not by themselves show manipulation, since sterile immune challenges produce them through the host's own sickness programmes; what does tell selected parasite adaptation from host response is dependence on the parasite's stage, which trophically transmitted helminths show *(Proposed, contrast)*
 - [CLAIM-663](../record/claims.d/CLAIM-663.md) — The distinctions of the PASS@(k,T) analysis are the record's distinctions of resource-bounded realization: its capability boundary is reachability by a given process under a budget, its efficiency is reliable attainment, and its interaction depth is a resource index, so whether an intervention expands what an organization can do or only makes it more reliable is the record's question of reachable against reliably reached *(Proposed, thesis)*
   - [ARG-093](../record/arguments.d/ARG-093.md) — PASS@(k,T)'s capability boundary, efficiency and interaction depth correspond to the record's reachability by a process, reliable attainment and resource index, with two differences: the paper's process is a stochastic policy that can change with its budget, and its success is judged by an oracle *(Proposed, analogy)*
+- [CLAIM-666](../record/claims.d/CLAIM-666.md) — A migration of the record's grammar is faithful when it preserves the record's accountability structure, not its old graph: where the old grammar forced a relation nobody asserted, a faithful migration removes it *(Proposed, thesis)*
+  - [ARG-096](../record/arguments.d/ARG-096.md) — The graph that asserted an inference nobody made shows that preserving the old graph through a migration can preserve a false dependency *(Proposed, existence)*
+- [CLAIM-667](../record/claims.d/CLAIM-667.md) — Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them *(Proposed, thesis)*
+  - [ARG-098](../record/arguments.d/ARG-098.md) — EvoOntology's gate ablation shows that governance raises the value of a modifiable schema *(Rejected, evidence)*
+- [CLAIM-668](../record/claims.d/CLAIM-668.md) — A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have *(Proposed, thesis)*
+  - [ARG-097](../record/arguments.d/ARG-097.md) — Halpern and Moses's result on unreliable channels applies to a record read asynchronously: publishing a standing does not make it common knowledge *(Proposed, formal-application)*

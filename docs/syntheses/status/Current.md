@@ -6,7 +6,7 @@
 
 **The current account** — the record's account of its scope, its mapping reviewed by the owner; it may integrate Proposed claims, since it vouches for the map, not for what is mapped.
 
-0 of 89 SYNTHESIS documents. Back to the [full index](../README.md).
+0 of 90 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -69,7 +69,7 @@ bears_on:
 - QUESTION-366
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmp5rm74 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1736 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-294: Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on
 
@@ -142,6 +142,6 @@ same exchange did keep the warning.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Park et al.** ([THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md)): The memory stream keeps the history but no structure of dependence, so a reflection whose evidence later changes is not revisited; illustrates what the claim says a record must keep beyond conclusions, and that keeping observations is not enough.
+- **Park et al.** ([THEORY-1736](../theory.d/THEORY-1736.md)): The memory stream keeps the history but no structure of dependence, so a reflection whose evidence later changes is not revisited; illustrates what the claim says a record must keep beyond conclusions, and that keeping observations is not enough.
 
 The claim is unchanged.

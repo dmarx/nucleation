@@ -65,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-326 — Proposed; the accounts filed 2026-10-14 from Fricker's own papers, named in a dated note -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-182 THEORY-864 THEORY-834 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmp0t4ni — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1723 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 
@@ -186,7 +186,7 @@ important contributions from specialists." A36 E3 proposes a measurable
 part of it, "schema-fit disparity" (in the note on [CLAIM-403](../claims.d/CLAIM-403.md)), with the
 warning that synthetic agents with different roles do not by themselves
 show social injustice; A50 §8 says the same of Fricker ([LIT-1004](../literature.d/LIT-1004.md)) and Falbo
-([LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md)). A31 names a related risk: "Incorrect information given a
+([LIT-2493](../literature.d/LIT-2493.md)). A31 names a related risk: "Incorrect information given a
 stable identifier and a typed relationship may become more authoritative
 than the same mistake in a provisional message." Open.
 
@@ -194,6 +194,6 @@ than the same mistake in a provisional message." Open.
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
 
-- **Falbo** ([THEORY-tmp0t4ni](../theory.d/THEORY-tmp0t4ni.md)): **qualifies**, by adding a second mechanism. The question is lacuna-shaped (a move without a code is lost); Falbo shows the other path: a move can have a scheme available and still be filed under a dominant scheme that preempts the apt one, with the credibility loss she describes ("the denial of Miller’s credibility and thus diminished her status as a knower"). Leaves the question open; widens what an answer must check (misfiling, not only non-filing)
+- **Falbo** ([THEORY-1723](../theory.d/THEORY-1723.md)): **qualifies**, by adding a second mechanism. The question is lacuna-shaped (a move without a code is lost); Falbo shows the other path: a move can have a scheme available and still be filed under a dominant scheme that preempts the apt one, with the credibility loss she describes ("the denial of Miller’s credibility and thus diminished her status as a knower"). Leaves the question open; widens what an answer must check (misfiling, not only non-filing)
 
 The question is unchanged.

@@ -6,7 +6,7 @@
 
 **Documented** — real events, with sources a reader can check.
 
-69 of 250 CASE documents. Back to the [full index](../README.md).
+69 of 255 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
