@@ -135,7 +135,7 @@ that exchange, rests on this one. Nothing here changes.
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
 CEGAR, read today ([NOTE-1231](../notes.d/NOTE-1231.md)), was offered by the exchange as luria's
-DP-016 in formal dress. The pattern matches: a failure under a fixed
+LU-DP-016 in formal dress. The pattern matches: a failure under a fixed
 specification is located and repaired by refining the abstraction. Two
 disanalogies bear on this claim's limit.
 
