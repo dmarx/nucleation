@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "About Plantation Paradise" (2026-11-12), A8, A9, as a work A cited; left for a reading pass. No copy was sought in this filing.
+  searched 2026-11-12 for a lawful full text and found none. The publisher's page (academic.oup.com/socpro/article/73/1/1/7749552) served a Cloudflare challenge, not retried; Semantic Scholar and OpenAlex: closed. Only the abstract was read, which is not a reading; no NOTE. A neighbour is Unfetched: the author's UCLA dissertation on the same ethnography, "Black in Brown Space" (2023), https://escholarship.org/uc/item/43f9557b, whose item page and PDF answered with an AWS WAF challenge on 2026-11-12, not retried.
 title: 'Predatory DEI: How Racialized Organizations Exacerbate Workplace Racial Stratification through Exploitative Diversity Work'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A8, A9). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives Julio Ángel Alicea, Social Problems 73(1), pp. 1–15, online 2024-09-04, issue dated 2026-01-30. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, at the reading pass the owner asked for ("read the works you can reach"): no lawful copy found; the abstract alone was read. The dissertation neighbour is located and Unfetched (AWS WAF challenge). The abstract confirms the design (four years of ethnography in one school) and the three facets A9 named.
 tags:
 - social-science
 - society-and-governance
@@ -25,7 +29,6 @@ implementations: []
 summary: >-
   Julio Ángel Alicea (2024). Predatory DEI: How Racialized Organizations Exacerbate Workplace Racial Stratification through Exploitative Diversity Work. Social Problems 73(1), 1–15. DOI-10.1093/socpro/spae052. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A8, A9. A9's closest empirical match to the exchange's dependency-and-exploitation argument; with [LIT-tmpbnlqp](LIT-tmpbnlqp.md) it is where A found the mechanism of [CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md).
 ---
-<!-- inactive-ok-file: LIT-tmpbnlqp — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 <!-- inactive-ok-file: CLAIM-tmp16mkz — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # LIT-tmp63z5g: Predatory DEI: How Racialized Organizations Exacerbate Workplace Racial Stratification through Exploitative Diversity Work

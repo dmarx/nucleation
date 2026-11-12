@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "About Plantation Paradise" (2026-11-12), A9, as a work A cited; left for a reading pass. No copy was sought in this filing.
+  searched 2026-11-12 for a lawful full text and found none. The publisher's PDF (journals.sagepub.com/doi/pdf/10.1177/0003122418822335) served a Cloudflare challenge on 2026-11-12, not retried, and is subscription access in any case; the author's institutional record (Iowa Research Online) carries no file; Semantic Scholar and OpenAlex: closed; two web searches found no author, syllabus or course copy. No neighbour reached.
 title: 'A Theory of Racialized Organizations'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A9). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives Victor Ray, American Sociological Review 84(1), pp. 26–53, online 2019-01-25. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, at the reading pass the owner asked for ("read the works you can reach"): no lawful copy found (where looked is in the status note). No neighbour.
 tags:
 - social-science
 - society-and-governance

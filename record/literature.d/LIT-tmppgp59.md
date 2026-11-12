@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "About Plantation Paradise" (2026-11-12), A3, as a work A cited; left for a reading pass. No copy was sought in this filing.
+  searched 2026-11-12 for a lawful full text and found none. The only copy located is on Project MUSE (doi.org/10.1353/eal.2016.0016), which served a verification page (bot check) to a search on 2026-11-12 and was not used again; a review there is subscription-only in any case. OpenAlex: closed, no repository copy. No author or course copy. No neighbour carries a review of an unreached book.
 title: 'From Plantation to Paradise? Cultural Politics and Musical Theatre in French Slave Colonies, 1764–1789, by David M. Powers (review)'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A3). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives the review, Early American Literature 51(1), 2016, pp. 184–188, Project MUSE, with no author; OpenAlex gives Peter Mondelli as author. No exact day is given, so `published` is the first of the year. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, at the reading pass the owner asked for ("read the works you can reach"): no lawful copy found (where looked is in the status note). No neighbour.
 tags:
 - social-science
 - society-and-governance

@@ -1,21 +1,35 @@
 ---
 status: Proposed
-title: 'An arrangement can produce the dependence through which it exploits: access to a needed good offered on terms that build the recipient''s reliance on the provider and narrow exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it'
-version: 1
+title: 'An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Narrowed after Seamster and Charron-Chénier was read (NOTE-tmpvf8za;
+    ARG-tmpou39l). The title said the arrangement "can produce the
+    dependence through which it exploits" by building "reliance on the
+    provider". In the one source read, the need predates the access, what
+    the access leaves is a lasting debt, and exit is closed by bankruptcy
+    law, not by the lender's terms. The claim now says the arrangement
+    leaves a lasting encumbrance, reliance on the provider or an
+    obligation hard to escape, that narrows later exit; the defeat
+    condition is restated to match. Alicea stays Unavailable. Still
+    Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  The cases the claim is drawn from (predatory inclusion in education
-  debt, predatory DEI) turn out, when read, to run entirely through a
-  dependence the recipients had before the access was offered, so that
-  the arrangement only uses an existing dependence and produces none; or
-  a case shows that where the terms of access do build reliance and
-  narrow exit, increasing access always reduces the share of benefit
-  extracted, so that access and exploitation cannot rise together. Not
-  defeated by a case of exploitation through an existing dependence, which
-  the claim allows as the other mechanism; nor by an inclusion that builds
-  reliance on fair terms, which is CLAIM-603's division of labour and not
-  exploitation.
+  The cases the claim is drawn from turn out, when read, to leave the
+  recipients no encumbrance they did not already carry, so that the
+  arrangement only uses an existing need and adds nothing that narrows
+  their later exit; or a case shows that where the terms of access do
+  leave such an encumbrance, increasing access always reduces the share
+  of benefit extracted, so that access and exploitation cannot rise
+  together. Not defeated by a need that predates the access, which
+  Seamster and Charron-Chénier's case has (the claim is about what the
+  access leaves, not where the need came from); nor by an inclusion that
+  leaves reliance on fair terms, which is CLAIM-603's division of labour
+  and not exploitation.
 tags:
 - society-and-governance
 - social-science
@@ -42,9 +56,10 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-428 — Proposed; the record's claims this one joins or sets beside, cited with their standing -->
-<!-- inactive-ok-file: LIT-tmpbnlqp LIT-tmp63z5g — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmp63z5g — Unavailable; registered from the same exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpi3g1u ARG-tmpou39l — filed with the readings of 2026-11-12, Proposed -->
 
-# CLAIM-tmp16mkz: An arrangement can produce the dependence through which it exploits: access to a needed good offered on terms that build the recipient's reliance on the provider and narrow exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it
+# CLAIM-tmp16mkz: An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it
 
 ## The claim
 
@@ -105,3 +120,28 @@ of the exploitation and not its failure. Nothing on the record says it.
   conclude that theatrical participation originally created enslaved
   people's dependence on colonial institutions." The case
   ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)) is the other mechanism, an existing dependence used.
+
+## Note of 2026-11-12: Seamster and Charron-Chénier, read
+
+Read in NOTE-tmpvf8za (THEORY-tmpi3g1u), a sense-3 case (TERM-074): lenders,
+colleges and households. It supports two of the claim's parts and
+qualifies the third.
+
+- **Inclusion that succeeds.** Supported. Predatory inclusion is access
+  "to a good, service, or opportunity from which they have historically
+  been excluded but under conditions that jeopardize the benefits of this
+  access"; Black households' education debt "roughly tripled between 2001
+  and 2013", and attainment does not explain the gap.
+- **Widening access need not reduce it.** Supported, descriptively: access
+  and the debt gap rose together, 2001–2013.
+- **Producing the dependence.** Not as version 1 worded it. The need to
+  borrow comes from the prior wealth gap; what the access leaves is a
+  debt with which households "will potentially be permanently saddled";
+  and exit is closed by law: "Student debt is legally very difficult to
+  discharge, even when declaring bankruptcy". The mechanism is
+  conjectured: "this is where we suspect a significant part of the
+  inequality-generating action is."
+
+The claim is narrowed in version 2 to what the reading supports, and the
+judgement is ARG-tmpou39l. Alicea's "predatory DEI" (LIT-tmp63z5g) is
+Unavailable; only its abstract was read. No status change.
