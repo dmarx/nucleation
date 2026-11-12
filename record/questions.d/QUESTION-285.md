@@ -27,6 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1055 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-476 THEORY-621 — Proposed or new; the claims, reading and term the question presses on, cited as open -->
+<!-- inactive-ok-file: SYNTHESIS-068 SYNTHESIS-064 SYNTHESIS-012 SYNTHESIS-050 ADR-083 ADR-084 CLAIM-160 CLAIM-171 — Proposed; the part accounts, decisions on scope and components cited in the note of 2026-11-12 on a cross-line account -->
 <!-- inactive-ok-file: LIT-1653 LIT-1657 — Deferred or Unavailable; registered works the question would read, cited as unread -->
 
 # QUESTION-285: What organization turns an interaction into a measurement, a measurement into a record that something uses, and observation into inquiry, without a conscious investigator; and what keeps an apparatus that revises its own discriminations answerable to what it did not produce?
@@ -269,3 +270,29 @@ ever, do those distinctions constitute meaning for the system rather than
 merely meaning attributed by an external investigator?" Its first half is
 this question's top rung and second clause; its second half is
 [QUESTION-128](QUESTION-128.md)'s. No new question is filed. The question stays Open.
+
+## Note of 2026-11-12: a proposed cross-line account, and the ruling it needs
+
+Offered at the filing of "Meaning Transmission Explained" and accepted by the owner for filing: the
+record's account of meaning with no sentient emitter or receiver, which
+the owner asked for at U1 of that exchange, has no single address. Its
+components sit in three lines, and each is already integrated by a part
+account of its own line:
+- SYNTHESIS-068 (CASE-049, CASE-043, CLAIM-160, CLAIM-171);
+- SYNTHESIS-064 (TERM-034, CLAIM-525);
+- SYNTHESIS-012 (TERM-089);
+- SYNTHESIS-050 (this question).
+
+ADR-083 and ADR-084 define a scope as "a line or a part of one" and allow
+one account per scope. So a SYNTHESIS for this topic cannot be filed
+under them as they stand, and none is filed. The proposal is an account
+whose scope is this question's components across the pragmatic-transport,
+record-as-apparatus and distributed-agency lines, adding nothing to
+them. It would need one of two rulings:
+- an amendment of ADR-083 admitting a scope defined by a question rather
+  than a line, with the guard that it never duplicates a part account's
+  mapping; or
+- a decision to move this question's components into one line.
+
+The map such an account would carry is in the curation entry of
+2026-11-12 (020028) and in this question's note above. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

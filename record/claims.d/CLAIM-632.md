@@ -181,3 +181,23 @@ age. They answer the half of [QUESTION-395](../questions.d/QUESTION-395.md) that
   mobilizes as the policy would.
 - **Anything about readiness in [CLAIM-572](CLAIM-572.md)'s sense**, the observing and
   response budget, which is a different notion.
+
+## Note of 2026-11-12: a sprinkler response as a conjunction of capacities
+
+<!-- inactive-ok-block: CASE-tmpl4kyp CASE-tmpaky45 — filed from the exchange "Meaning Transmission Explained", Proposed -->
+The fire-alarm chain filed from the exchange "Meaning Transmission Explained" (CASE-tmpl4kyp) is
+this claim's setting in miniature. A sprinkler response to a fire needs
+the sensor, the relay and the actuator to hold together, a pure
+conjunction in CLAIM-587's sense. Records of each component bound the
+response's readiness as this claim says. For illustration, with
+per-component probabilities 0.98, 0.99 and 0.95, the bounds are
+0.98 + 0.99 + 0.95 − 2 = 0.92 and min = 0.95. The product under
+independence is 0.92169, inside them (computed). The test injector in
+that chain is not a capacity of the response but of the test, so its
+failure lowers the evidence about readiness, not readiness itself. That
+is the owner's debugging case (CASE-tmpaky45), where a silent test does
+not say whether the response or the test failed. A deadline-bound
+exercise, this claim's joint evidence, is in that chain the
+independent-smoke probe, which exercises every capacity of the response
+at once and nothing else. CASE-210 has the same structure with rescue
+squads. Nothing changes. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

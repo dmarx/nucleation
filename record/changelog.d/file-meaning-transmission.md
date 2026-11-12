@@ -15,6 +15,14 @@
 - [THEORY-tmp0d8vu](record/theory.d/THEORY-tmp0d8vu.md), for the reading of Kolchinsky and Wolpert
   ([NOTE-1370](record/notes.d/NOTE-1370.md)), which had no THEORY.
 
+- The assistant's four ideas, filed at the owner's acceptance:
+  - CLAIM-tmpqboxc and ARG-tmpbyj2f: Grice's factivity test and the false
+    alarm's borrowed norm.
+  - CLAIM-tmph9egz, CASE-tmpfobkh and ARG-tmpcd9j9: Bickhard's
+    self-set profile, with a two-profile forager construction.
+  - Notes on QUESTION-285 (a cross-line account, and the ruling it needs)
+    and on CLAIM-632 and CASE-tmpl4kyp (the alarm chain as readiness).
+
 ### Changed
 
 - Fifteen dated notes of 2026-11-12 on the entries the exchange bears on,
