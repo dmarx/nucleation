@@ -12,7 +12,7 @@ date: '2026-11-12'
 summary: >-
   A tuning-free personalization model for SDXL, trained once on an ID-grouped dataset for two weeks on 8 A100s, stacks embeddings of several photos of one person in place of the class word and personalizes in about 10 s on a V100, against 1284 s for DreamBooth and 2400 s for Textual Inversion, with the highest CLIP-I and DINO of the five methods compared and face similarity second to IP-Adapter's. Feed-forward, tuning-free identity personalization from any number of photos, with an ID-grouped training-data pipeline.
 ---
-<!-- inactive-ok-file: THEORY-tmpvarvt CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; filed on the same branch -->
+<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # NOTE-tmpul1vj: Li et al. — PhotoMaker
 
@@ -48,10 +48,10 @@ Human identity only, SDXL as the base, a benchmark of the authors' own. "Speed" 
 
 ## Bearing on the record
 
-- **CASE-tmp40vka: supports, with numbers.** For human identity on one base in late 2023, trained routes cost 1284–2400 s per subject and reference routes 8–12 s per image, at equal or better identity metrics. The numbers are the method's own authors'.
-- **CASE-tmp3isyl:** gives F for DreamBooth and a per-use cost for the reference routes on one GPU type, but not DreamBooth's per-image cost after training, so n* cannot be computed. The rankings change with the metric, which is the study's main threat.
-- **CLAIM-tmpnwq8a: corroborates the caveat.** The reference route rests on a module trained once against one base by its maker.
-- **QUESTION-095:** amortization moved to another party, the maker paying a fixed cost once so users pay only per use.
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md): supports, with numbers.** For human identity on one base in late 2023, trained routes cost 1284–2400 s per subject and reference routes 8–12 s per image, at equal or better identity metrics. The numbers are the method's own authors'.
+- **[CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md):** gives F for DreamBooth and a per-use cost for the reference routes on one GPU type, but not DreamBooth's per-image cost after training, so n* cannot be computed. The rankings change with the metric, which is the study's main threat.
+- **[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md): corroborates the caveat.** The reference route rests on a module trained once against one base by its maker.
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** amortization moved to another party, the maker paying a fixed cost once so users pay only per use.
 
 ## Limitations
 

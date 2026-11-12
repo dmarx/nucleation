@@ -12,7 +12,7 @@ date: '2026-11-12'
 summary: >-
   An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and can be reused without retraining on models fine-tuned from the same base, but by its authors' account does not keep a given subject's identity as Textual Inversion and DreamBooth do. A lightweight adapter, trained once per base model, that adds image prompts to a frozen text-to-image diffusion model by decoupled cross-attention, and matches fully fine-tuned image-prompt models while staying compatible with text prompts, with community models fine-tuned from the same base, and with structural controls.
 ---
-<!-- inactive-ok-file: THEORY-tmp3jjfo CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; filed on the same branch -->
+<!-- inactive-ok-file: CASE-tmp40vka CLAIM-tmpnwq8a ARG-tmpu8x8a — Proposed; filed on the same branch -->
 
 # NOTE-tmpkw49d: Ye et al. — IP-Adapter
 
@@ -39,9 +39,9 @@ One base model, SD v1.5. CLIP-I and CLIP-T measure alignment with the image prom
 
 ## Bearing on the record
 
-- **CLAIM-tmpnwq8a: carries less than the claim cited it for.** The claim grounded itself on the abstract's "not compatible with other base models". Read in context, that sentence is about transfer between fine-tunes of the same base, not about a successor base. The paper supports only the claim's scoping premise, that a trained add-on is good for its base model's family, and its caveat, that a reference adapter is trained once by its maker. The ground is moved to `corroborates`, with ARG-tmpu8x8a.
-- **CASE-tmp40vka: qualifies A's 2023 row.** For character identity, IP-Adapter in 2023 did not do what A's row implies; its §5 says so. Identity-level reference conditioning came with the face-ID methods of late 2023 and 2024 (PhotoMaker, InstantID).
-- **QUESTION-095:** the adapter is a computation done once, by its maker, and reused by every user of every derived model: amortization across users.
+- **[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md): carries less than the claim cited it for.** The claim grounded itself on the abstract's "not compatible with other base models". Read in context, that sentence is about transfer between fine-tunes of the same base, not about a successor base. The paper supports only the claim's scoping premise, that a trained add-on is good for its base model's family, and its caveat, that a reference adapter is trained once by its maker. The ground is moved to `corroborates`, with [ARG-tmpu8x8a](../arguments.d/ARG-tmpu8x8a.md).
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md): qualifies A's 2023 row.** For character identity, IP-Adapter in 2023 did not do what A's row implies; its §5 says so. Identity-level reference conditioning came with the face-ID methods of late 2023 and 2024 (PhotoMaker, InstantID).
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** the adapter is a computation done once, by its maker, and reused by every user of every derived model: amortization across users.
 
 ## Limitations
 

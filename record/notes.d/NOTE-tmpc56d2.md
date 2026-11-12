@@ -12,7 +12,7 @@ date: '2026-11-12'
 summary: >-
   A flow-matching transformer fine-tuned from FLUX.1 to condition on a context image by sequence concatenation renders a character or object from that image in new scenes and across successive edits without per-subject fine-tuning or LoRA training, at 3–5 s per 1024² image, and on its authors' benchmark preserves characters better than the competing systems they evaluated. One in-context image model for generation and editing, in which character consistency comes from the context image at inference, fast enough for iterative work, with a crowd-sourced benchmark.
 ---
-<!-- inactive-ok-file: THEORY-tmpdzbq1 CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; filed on the same branch -->
+<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # NOTE-tmpc56d2: Black Forest Labs — FLUX.1 Kontext
 
@@ -38,10 +38,10 @@ The benchmark and evaluation are the authors'; competitors are reached through A
 
 ## Bearing on the record
 
-- **CASE-tmp40vka: supports the 2025 row and A's genealogy.** The paper itself draws the line from IP-Adapter to training-free character reference, in place of fine-tuning or LoRA training. It does not measure the trade.
-- **CASE-tmp3isyl:** KontextBench's character-reference cases and its multi-turn drift measure are candidate fidelity targets.
-- **CLAIM-tmpnwq8a: leaves open.** Kontext is a new base derived from its predecessor; whether add-ons trained on FLUX.1 carry over is not discussed. A base derived from its predecessor is where transfer might hold, which is the claim's defeater.
-- **QUESTION-095:** computing on demand, priced at 3–5 s per image.
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md): supports the 2025 row and A's genealogy.** The paper itself draws the line from IP-Adapter to training-free character reference, in place of fine-tuning or LoRA training. It does not measure the trade.
+- **[CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md):** KontextBench's character-reference cases and its multi-turn drift measure are candidate fidelity targets.
+- **[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md): leaves open.** Kontext is a new base derived from its predecessor; whether add-ons trained on FLUX.1 carry over is not discussed. A base derived from its predecessor is where transfer might hold, which is the claim's defeater.
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** computing on demand, priced at 3–5 s per image.
 
 ## Limitations
 

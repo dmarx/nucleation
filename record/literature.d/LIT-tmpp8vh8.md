@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-12 (NOTE-tmpt8cah) in full from arXiv v2. Worth reading as the batch's one comparison with community character LoRAs, qualitative only, and for its plain statement of the trade between per-character training and a single forward pass.
+  read 2026-11-12 ([NOTE-tmpt8cah](../notes.d/NOTE-tmpt8cah.md)) in full from arXiv v2. Worth reading as the batch's one comparison with community character LoRAs, qualitative only, and for its plain statement of the trade between per-character training and a single forward pass.
 title: 'InstantID: Zero-shot Identity-Preserving Generation in Seconds'
 version: 2
 history:
@@ -32,7 +32,7 @@ keywords:
 - 'IdentityNet'
 implementations: []
 summary: >-
-  Wang et al. (2024), arXiv 2401.07519, a technical report, read in NOTE-tmpt8cah. A plug-in for a frozen SDXL, trained once by its makers on 48 H800 GPUs, keeps a face's identity from one photo with no test-time tuning; in qualitative comparisons it is "competitive" with community character LoRAs, and its compatibility is claimed for models "fine-tuned from the same base diffusion model". Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on CASE-tmp40vka, CASE-tmp3isyl, CLAIM-tmpnwq8a and QUESTION-095.
+  Wang et al. (2024), arXiv 2401.07519, a technical report, read in [NOTE-tmpt8cah](../notes.d/NOTE-tmpt8cah.md). A plug-in for a frozen SDXL, trained once by its makers on 48 H800 GPUs, keeps a face's identity from one photo with no test-time tuning; in qualitative comparisons it is "competitive" with community character LoRAs, and its compatibility is claimed for models "fine-tuned from the same base diffusion model". Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md), [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md) and [QUESTION-095](../questions.d/QUESTION-095.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpgxdpz CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; the reading's account and the entries it bears on, filed on the same branch -->
 
@@ -42,11 +42,11 @@ Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang and
 
 ## Key takeaways
 
-Read in NOTE-tmpt8cah; the account is THEORY-tmpgxdpz. Single-image, tuning-free identity preservation for a frozen SDXL: a face-recognition embedding injected by decoupled cross-attention, plus IdentityNet, a ControlNet conditioned on facial keypoints and the embedding.
+Read in [NOTE-tmpt8cah](../notes.d/NOTE-tmpt8cah.md); the account is [THEORY-tmpgxdpz](../theory.d/THEORY-tmpgxdpz.md). Single-image, tuning-free identity preservation for a frozen SDXL: a face-recognition embedding injected by decoupled cross-attention, plus IdentityNet, a ControlNet conditioned on facial keypoints and the embedding.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image
-generators keep a character's identity (CASE-tmp40vka), and read the same
+generators keep a character's identity ([CASE-tmp40vka](../cases.d/CASE-tmp40vka.md)), and read the same
 day at the owner's request. It is machine-learning method, read here for
-the economics of amortization (QUESTION-095), not for practice.
+the economics of amortization ([QUESTION-095](../questions.d/QUESTION-095.md)), not for practice.

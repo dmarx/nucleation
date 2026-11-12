@@ -12,7 +12,7 @@ date: '2026-11-12'
 summary: >-
   Fine-tuning all weights of a pretrained text-to-image diffusion model on 3–5 images of a subject, bound to a rare-token identifier and regularized by a class-prior-preservation loss, renders that subject in new contexts with higher subject fidelity than Textual Inversion's frozen-model embedding (DINO 0.668 against 0.569 on Stable Diffusion; 68% against 22% of users), at about five accelerator-minutes per subject. Subject-driven generation by fine-tuning all of a diffusion model's weights on a few images, with a prior-preservation loss, a benchmark and a DINO subject-fidelity metric.
 ---
-<!-- inactive-ok-file: THEORY-tmplz597 CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; filed on the same branch -->
+<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl — Proposed; filed on the same branch -->
 
 # NOTE-tmp9kwwm: Ruiz et al. — DreamBooth
 
@@ -39,9 +39,9 @@ The subject belongs to a class the base model knows well. The deliverable is a f
 
 ## Bearing on the record
 
-- **CASE-tmp40vka: supports the 2022 row.** Learning a subject into weights cost minutes of accelerator time and 3–5 images, and bought subject fidelity well above the frozen-model alternative.
-- **CASE-tmp3isyl:** supplies an arm and a measure (DreamBench, DINO), and F for 2022 in compute.
-- **QUESTION-095:** a cost of learning into weights the question's readings do not name: learning the new subject erodes what the store held before (language drift), paid for with a second loss.
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md): supports the 2022 row.** Learning a subject into weights cost minutes of accelerator time and 3–5 images, and bought subject fidelity well above the frozen-model alternative.
+- **[CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md):** supplies an arm and a measure (DreamBench, DINO), and F for 2022 in compute.
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** a cost of learning into weights the question's readings do not name: learning the new subject erodes what the store held before (language drift), paid for with a second loss.
 
 ## Limitations
 

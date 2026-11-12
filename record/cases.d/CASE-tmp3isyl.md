@@ -90,18 +90,18 @@ curation entry of 2026-11-12 for this exchange).
 
 ## Note of 2026-11-12: what the readings give the design
 
-- **F and c_ref for one generation.** PhotoMaker's Table 1 (THEORY-tmpvarvt)
+- **F and c_ref for one generation.** PhotoMaker's Table 1 ([THEORY-tmpvarvt](../theory.d/THEORY-tmpvarvt.md))
   gives, on one V100, DreamBooth 1284 s per subject and reference routes of
   10–12 s per image. It does not give DreamBooth's per-image cost after
   training, so n* cannot be computed from it.
-- **F for 2022.** DreamBooth (THEORY-tmplz597): about five A100-minutes per
+- **F for 2022.** DreamBooth ([THEORY-tmplz597](../theory.d/THEORY-tmplz597.md)): about five A100-minutes per
   subject on Stable Diffusion.
 - **Fidelity targets.** DreamBooth's DreamBench and DINO measure, and
   FLUX.1 Kontext's character-reference cases with a face-embedding measure
-  and multi-turn drift (THEORY-tmpdzbq1), which adds fidelity across
+  and multi-turn drift ([THEORY-tmpdzbq1](../theory.d/THEORY-tmpdzbq1.md)), which adds fidelity across
   successive uses.
 - **The main threat, seen.** PhotoMaker's rankings change with the metric:
   IP-Adapter leads on face similarity, PhotoMaker on DINO and CLIP-I,
   DreamBooth on CLIP-T. InstantID's comparison with character LoRAs
-  (THEORY-tmpgxdpz) has no measure at all, which is why the study is
+  ([THEORY-tmpgxdpz](../theory.d/THEORY-tmpgxdpz.md)) has no measure at all, which is why the study is
   needed.

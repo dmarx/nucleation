@@ -38,7 +38,7 @@ summary: >-
   [QUESTION-095](../questions.d/QUESTION-095.md), whether storing a result and amortizing a computation are
   one trade, as a domain the question does not yet hold.
 ---
-<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmpgxdpz THEORY-tmpvarvt THEORY-tmpdzbq1 THEORY-tmplz597 THEORY-tmpc6xzg — Proposed; the readings of 2026-11-12, cited in its note -->
+<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmpgxdpz THEORY-tmpvarvt THEORY-tmpdzbq1 THEORY-tmpc6xzg — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CLAIM-tmpnwq8a — Proposed; filed from the same exchange, cited in its note -->
 <!-- inactive-ok-file: THEORY-331 — Proposed; the reading of inference-aware scaling the case is set against -->
 <!-- inactive-ok-file: CLAIM-303 — Proposed; the break-even A tied the case to -->
@@ -149,28 +149,28 @@ All seven works in the table were read the same day (their NOTEs and
 THEORYs are on each LIT).
 
 - **A's 2023 row overstates it for character identity.** IP-Adapter
-  (THEORY-tmp3jjfo) reads reference images, but its §5 says "it cannot
+  ([THEORY-tmp3jjfo](../theory.d/THEORY-tmp3jjfo.md)) reads reference images, but its §5 says "it cannot
   synthesize images that are highly consistent with the subject of a given
   image like some existing methods, e.g., Textual Inversion [51] and
   DreamBooth [52]". Identity-level reference conditioning came with the
   face-ID methods of late 2023 and 2024: PhotoMaker and InstantID. Textual
   Inversion's authors also disclaim identity for 2022: "our model does not
   currently preserve identity to the extent where this is a concern"
-  (THEORY-tmpc6xzg).
+  ([THEORY-tmpc6xzg](../theory.d/THEORY-tmpc6xzg.md)).
 - **The trade, measured once, on one base, by an interested party.**
-  PhotoMaker's Table 1 (THEORY-tmpvarvt), on a V100 for SDXL: DreamBooth
+  PhotoMaker's Table 1 ([THEORY-tmpvarvt](../theory.d/THEORY-tmpvarvt.md)), on a V100 for SDXL: DreamBooth
   1284 s and Textual Inversion 2400 s per subject, against IP-Adapter 12 s
   and PhotoMaker 10 s; face similarity 49.8, 54.3, 67.1 and 61.8; DINO
   39.8, 39.3, 46.2 and 51.5. The text of its §4.2 claims "the largest
   CLIP-T and DINO scores"; by the table the largest CLIP-T is DreamBooth's
   (29.8 against 26.1), so the table is cited, not the sentence.
 - **Parity with character LoRAs, claimed without a measure.** InstantID
-  (THEORY-tmpgxdpz) compares itself with two community character LoRAs by
+  ([THEORY-tmpgxdpz](../theory.d/THEORY-tmpgxdpz.md)) compares itself with two community character LoRAs by
   figure only: "We can achieve competitive results as LoRAs without any
   training." Its abstract's "only a single forward inference" describes
   earlier ID-embedding methods, which InstantID joins; the case's sentence
   above attributes it so.
-- **A's genealogy is the field's own.** FLUX.1 Kontext (THEORY-tmpdzbq1)
+- **A's genealogy is the field's own.** FLUX.1 Kontext ([THEORY-tmpdzbq1](../theory.d/THEORY-tmpdzbq1.md))
   offers personalization "without the need for finetuning [43] or LoRA
   training", and names IP-Adapter among the "Early works on such
   training-free subject-driven image synthesis".
@@ -179,7 +179,7 @@ THEORYs are on each LIT).
   module's maker (8 A100s for two weeks for PhotoMaker; 48 H800s for
   InstantID), and every user then pays only per use. A16's "both are forms
   of memory" holds; they differ in who trains and how often.
-- **The record held an analogue it did not cite.** THEORY-439 (LIT-796)
+- **The record held an analogue it did not cite.** [THEORY-439](../theory.d/THEORY-439.md) ([LIT-796](../literature.d/LIT-796.md))
   finds for language models that the same few demonstrations used as
   context and used to update weights temporarily "are not
   interchangeable". It is the trained-against-conditioned comparison in

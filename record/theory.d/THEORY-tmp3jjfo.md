@@ -19,15 +19,14 @@ corroborates:
 bears_on:
 - QUESTION-095
 summary: >-
-  Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), LIT-tmptzx4q, read in NOTE-tmpkw49d. arXiv preprint (v1, the only version; no venue on the arXiv record).
+  Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), [LIT-tmptzx4q](../literature.d/LIT-tmptzx4q.md), read in [NOTE-tmpkw49d](../notes.d/NOTE-tmpkw49d.md). arXiv preprint (v1, the only version; no venue on the arXiv record).
 ---
-<!-- inactive-ok-file: CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # THEORY-tmp3jjfo: An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and can be reused without retraining on models fine-tuned from the same base, but by its authors' account does not keep a given subject's identity as Textual Inversion and DreamBooth do
 
 ## Source
 
-Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models", LIT-tmptzx4q, read in NOTE-tmpkw49d
+Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models", [LIT-tmptzx4q](../literature.d/LIT-tmptzx4q.md), read in [NOTE-tmpkw49d](../notes.d/NOTE-tmpkw49d.md)
 from arXiv v1 (2308.06721, 13 August 2023, the only version).
 
 ## What was shown

@@ -17,14 +17,14 @@ source:
 bears_on:
 - QUESTION-095
 summary: >-
-  Black Forest Labs, with Stephen Batifol and 22 others (2025), LIT-tmp4meti, read in NOTE-tmpc56d2. company report on arXiv (cs.GR); no venue.
+  Black Forest Labs, with Stephen Batifol and 22 others (2025), [LIT-tmp4meti](../literature.d/LIT-tmp4meti.md), read in [NOTE-tmpc56d2](../notes.d/NOTE-tmpc56d2.md). company report on arXiv (cs.GR); no venue.
 ---
 
 # THEORY-tmpdzbq1: A flow-matching transformer fine-tuned from FLUX.1 to condition on a context image by sequence concatenation renders a character or object from that image in new scenes and across successive edits without per-subject fine-tuning or LoRA training, at 3–5 s per 1024² image, and on its authors' benchmark preserves characters better than the competing systems they evaluated
 
 ## Source
 
-Black Forest Labs, with Stephen Batifol and 22 others (2025), "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space", LIT-tmp4meti, read in NOTE-tmpc56d2
+Black Forest Labs, with Stephen Batifol and 22 others (2025), "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space", [LIT-tmp4meti](../literature.d/LIT-tmp4meti.md), read in [NOTE-tmpc56d2](../notes.d/NOTE-tmpc56d2.md)
 from arXiv v2 (2506.15742, 24 June 2025; v1 of 17 June 2025).
 
 ## What was shown

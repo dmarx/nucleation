@@ -19,15 +19,14 @@ corroborates:
 bears_on:
 - QUESTION-095
 summary: >-
-  Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), LIT-tmp8l2rx, read in NOTE-tmpul1vj. technical report (arXiv comment: "Tech report").
+  Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), [LIT-tmp8l2rx](../literature.d/LIT-tmp8l2rx.md), read in [NOTE-tmpul1vj](../notes.d/NOTE-tmpul1vj.md). technical report (arXiv comment: "Tech report").
 ---
-<!-- inactive-ok-file: CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # THEORY-tmpvarvt: A tuning-free personalization model for SDXL, trained once on an ID-grouped dataset for two weeks on 8 A100s, stacks embeddings of several photos of one person in place of the class word and personalizes in about 10 s on a V100, against 1284 s for DreamBooth and 2400 s for Textual Inversion, with the highest CLIP-I and DINO of the five methods compared and face similarity second to IP-Adapter's
 
 ## Source
 
-Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), "PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding", LIT-tmp8l2rx, read in NOTE-tmpul1vj
+Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (2023), "PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding", [LIT-tmp8l2rx](../literature.d/LIT-tmp8l2rx.md), read in [NOTE-tmpul1vj](../notes.d/NOTE-tmpul1vj.md)
 from arXiv v1 (2312.04461, 7 December 2023, the only version).
 
 ## What was shown

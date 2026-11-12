@@ -19,15 +19,14 @@ corroborates:
 bears_on:
 - QUESTION-095
 summary: >-
-  Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang and Yao Hu (2024), LIT-tmpp8vh8, read in NOTE-tmpt8cah. technical report (arXiv comment: "Technical Report").
+  Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang and Yao Hu (2024), [LIT-tmpp8vh8](../literature.d/LIT-tmpp8vh8.md), read in [NOTE-tmpt8cah](../notes.d/NOTE-tmpt8cah.md). technical report (arXiv comment: "Technical Report").
 ---
-<!-- inactive-ok-file: CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # THEORY-tmpgxdpz: A plug-in for a frozen SDXL, trained once by its makers, that injects a face-recognition embedding by decoupled cross-attention and adds a keypoint-conditioned ControlNet keeps a face's identity from one reference photo without test-time tuning, is shown by figures alone to be competitive with community character LoRAs, and is claimed compatible with models fine-tuned from the same base
 
 ## Source
 
-Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang and Yao Hu (2024), "InstantID: Zero-shot Identity-Preserving Generation in Seconds", LIT-tmpp8vh8, read in NOTE-tmpt8cah
+Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang and Yao Hu (2024), "InstantID: Zero-shot Identity-Preserving Generation in Seconds", [LIT-tmpp8vh8](../literature.d/LIT-tmpp8vh8.md), read in [NOTE-tmpt8cah](../notes.d/NOTE-tmpt8cah.md)
 from arXiv v2 (2401.07519, 2 February 2024; v1 of 15 January 2024).
 
 ## What was shown

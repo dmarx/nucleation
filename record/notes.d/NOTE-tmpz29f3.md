@@ -12,7 +12,7 @@ date: '2026-11-12'
 summary: >-
   Adapting a large pretrained Transformer by freezing its weights and training only a low-rank additive update to selected weight matrices matches full fine-tuning on the language benchmarks reported, stores about 10,000 times less per task on GPT-3, adds no inference latency once the update is merged, and yields an update that amplifies directions already present, but not emphasized, in the specific pretrained weights it modifies. Parameter-efficient adaptation that adds no inference latency once merged and stores only a small per-task module beside a shared frozen model.
 ---
-<!-- inactive-ok-file: THEORY-tmp6v6q8 CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; filed on the same branch -->
+<!-- inactive-ok-file: CASE-tmp40vka CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # NOTE-tmpz29f3: Hu et al. — LoRA
 
@@ -38,9 +38,9 @@ Adaptation updates have low intrinsic rank. Language models only; nothing about 
 
 ## Bearing on the record
 
-- **CLAIM-tmpnwq8a: grounds the premise, as structure.** A LoRA is defined as an update to one W0 and recovered by subtracting it from that W0, and it amplifies directions specific to that W. On the paper's own account the module is a change to particular weights. The paper does not test transfer to another base, so it does not settle the claim; that a W-specific delta fails on a different W is the filer's inference. Its §1 is the authors' own statement that base models turn over "every few months".
-- **CASE-tmp40vka:** qualifies the per-use side. No added latency holds when one BA is merged; serving many modules in one batch loses it.
-- **QUESTION-095:** amortization at two levels, the shared base paid once for all tasks and each module once per task, with storage priced (about 35MB against 350GB per task on GPT-3).
+- **[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md): grounds the premise, as structure.** A LoRA is defined as an update to one W0 and recovered by subtracting it from that W0, and it amplifies directions specific to that W. On the paper's own account the module is a change to particular weights. The paper does not test transfer to another base, so it does not settle the claim; that a W-specific delta fails on a different W is the filer's inference. Its §1 is the authors' own statement that base models turn over "every few months".
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md):** qualifies the per-use side. No added latency holds when one BA is merged; serving many modules in one batch loses it.
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** amortization at two levels, the shared base paid once for all tasks and each module once per task, with storage priced (about 35MB against 350GB per task on GPT-3).
 
 ## Limitations
 

@@ -17,14 +17,14 @@ source:
 bears_on:
 - QUESTION-095
 summary: >-
-  Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), LIT-tmpiyr8q, read in NOTE-tmp5l4tx. arXiv preprint (the PDF footer reads "Preprint. Under review."); no venue on the arXiv record.
+  Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), [LIT-tmpiyr8q](../literature.d/LIT-tmpiyr8q.md), read in [NOTE-tmp5l4tx](../notes.d/NOTE-tmp5l4tx.md). arXiv preprint (the PDF footer reads "Preprint. Under review."); no venue on the arXiv record.
 ---
 
 # THEORY-tmpc6xzg: A concept can be learned from 3–5 images as one new token embedding in the text-encoder input space of a frozen text-to-image model, at about two GPU-hours per concept, and re-used without further optimization in new prompts and in downstream models built on the same base, though it keeps a concept's gist more than its exact shape or a person's identity
 
 ## Source
 
-Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion", LIT-tmpiyr8q, read in NOTE-tmp5l4tx
+Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion", [LIT-tmpiyr8q](../literature.d/LIT-tmpiyr8q.md), read in [NOTE-tmp5l4tx](../notes.d/NOTE-tmp5l4tx.md)
 from arXiv v1 (2208.01618, 2 August 2022, the only version).
 
 ## What was shown

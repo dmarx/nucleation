@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-12 (NOTE-tmpul1vj) from arXiv v1. Worth reading for Table 1, the batch's only side-by-side measurement of time and identity fidelity for trained and reference routes (DreamBooth 1284 s and Textual Inversion 2400 s against PhotoMaker 10 s and IP-Adapter 12 s on a V100). Cite the table, not §4.2's summary of it, which misnames a metric.
+  read 2026-11-12 ([NOTE-tmpul1vj](../notes.d/NOTE-tmpul1vj.md)) from arXiv v1. Worth reading for Table 1, the batch's only side-by-side measurement of time and identity fidelity for trained and reference routes (DreamBooth 1284 s and Textual Inversion 2400 s against PhotoMaker 10 s and IP-Adapter 12 s on a V100). Cite the table, not §4.2's summary of it, which misnames a metric.
 title: 'PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding'
 version: 2
 history:
@@ -31,7 +31,7 @@ keywords:
 - 'personalized text-to-image generation'
 implementations: []
 summary: >-
-  Li et al. (2023), arXiv 2312.04461, a technical report, read in NOTE-tmpul1vj. A tuning-free personalization model for SDXL, trained once on 8 A100s for two weeks, stacks embeddings of several photos of one person in place of the class word. In Table 1 it personalizes in 10 s against DreamBooth's 1284 s and Textual Inversion's 2400 s, with the highest CLIP-I and DINO of the five methods and the second-highest face similarity, behind IP-Adapter. Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on CASE-tmp40vka, CASE-tmp3isyl, CLAIM-tmpnwq8a and QUESTION-095.
+  Li et al. (2023), arXiv 2312.04461, a technical report, read in [NOTE-tmpul1vj](../notes.d/NOTE-tmpul1vj.md). A tuning-free personalization model for SDXL, trained once on 8 A100s for two weeks, stacks embeddings of several photos of one person in place of the class word. In Table 1 it personalizes in 10 s against DreamBooth's 1284 s and Textual Inversion's 2400 s, with the highest CLIP-I and DINO of the five methods and the second-highest face similarity, behind IP-Adapter. Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md), [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md) and [QUESTION-095](../questions.d/QUESTION-095.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpvarvt CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; the reading's account and the entries it bears on, filed on the same branch -->
 
@@ -41,11 +41,11 @@ Zhen Li, Mingdeng Cao, Xintao Wang, Zhongang Qi, Ming-Ming Cheng and Ying Shan (
 
 ## Key takeaways
 
-Read in NOTE-tmpul1vj; the account is THEORY-tmpvarvt. Feed-forward, tuning-free identity personalization from any number of photos, with an ID-grouped training-data pipeline.
+Read in [NOTE-tmpul1vj](../notes.d/NOTE-tmpul1vj.md); the account is [THEORY-tmpvarvt](../theory.d/THEORY-tmpvarvt.md). Feed-forward, tuning-free identity personalization from any number of photos, with an ID-grouped training-data pipeline.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image
-generators keep a character's identity (CASE-tmp40vka), and read the same
+generators keep a character's identity ([CASE-tmp40vka](../cases.d/CASE-tmp40vka.md)), and read the same
 day at the owner's request. It is machine-learning method, read here for
-the economics of amortization (QUESTION-095), not for practice.
+the economics of amortization ([QUESTION-095](../questions.d/QUESTION-095.md)), not for practice.

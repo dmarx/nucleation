@@ -17,14 +17,14 @@ source:
 bears_on:
 - QUESTION-095
 summary: >-
-  Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang and Weizhu Chen (2021), LIT-tmp5b18b, read in NOTE-tmpz29f3. arXiv preprint; no venue on the arXiv record (cited elsewhere as ICLR, not checked).
+  Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang and Weizhu Chen (2021), [LIT-tmp5b18b](../literature.d/LIT-tmp5b18b.md), read in [NOTE-tmpz29f3](../notes.d/NOTE-tmpz29f3.md). arXiv preprint; no venue on the arXiv record (cited elsewhere as ICLR, not checked).
 ---
 
 # THEORY-tmp6v6q8: Adapting a large pretrained Transformer by freezing its weights and training only a low-rank additive update to selected weight matrices matches full fine-tuning on the language benchmarks reported, stores about 10,000 times less per task on GPT-3, adds no inference latency once the update is merged, and yields an update that amplifies directions already present, but not emphasized, in the specific pretrained weights it modifies
 
 ## Source
 
-Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang and Weizhu Chen (2021), "LoRA: Low-Rank Adaptation of Large Language Models", LIT-tmp5b18b, read in NOTE-tmpz29f3
+Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang and Weizhu Chen (2021), "LoRA: Low-Rank Adaptation of Large Language Models", [LIT-tmp5b18b](../literature.d/LIT-tmp5b18b.md), read in [NOTE-tmpz29f3](../notes.d/NOTE-tmpz29f3.md)
 from arXiv v2 (2106.09685, 16 October 2021; v1 of 17 June 2021).
 
 ## What was shown

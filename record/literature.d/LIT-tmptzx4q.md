@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-12 (NOTE-tmpkw49d) in full from arXiv v1. Worth reading as the record's primary source for the adapter route: an image-prompt adapter trained once against a frozen base, reusable on models fine-tuned from that base, which by its own account does not keep a subject's identity as Textual Inversion and DreamBooth do.
+  read 2026-11-12 ([NOTE-tmpkw49d](../notes.d/NOTE-tmpkw49d.md)) in full from arXiv v1. Worth reading as the record's primary source for the adapter route: an image-prompt adapter trained once against a frozen base, reusable on models fine-tuned from that base, which by its own account does not keep a subject's identity as Textual Inversion and DreamBooth do.
 title: 'IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models'
 version: 2
 history:
@@ -32,9 +32,9 @@ keywords:
 - 'text-to-image diffusion'
 implementations: []
 summary: >-
-  Ye et al. (2023), arXiv 2308.06721, read in NOTE-tmpkw49d. An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and is reusable on community models fine-tuned from the same base; by its §5 it "cannot synthesize images that are highly consistent with the subject of a given image". Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on CASE-tmp40vka, CLAIM-tmpnwq8a and QUESTION-095.
+  Ye et al. (2023), arXiv 2308.06721, read in [NOTE-tmpkw49d](../notes.d/NOTE-tmpkw49d.md). An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and is reusable on community models fine-tuned from the same base; by its §5 it "cannot synthesize images that are highly consistent with the subject of a given image". Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md) and [QUESTION-095](../questions.d/QUESTION-095.md).
 ---
-<!-- inactive-ok-file: THEORY-tmp3jjfo CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; the reading's account and the entries it bears on, filed on the same branch -->
+<!-- inactive-ok-file: THEORY-tmp3jjfo CASE-tmp40vka CLAIM-tmpnwq8a — Proposed; the reading's account and the entries it bears on, filed on the same branch -->
 
 # LIT-tmptzx4q: IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
 
@@ -42,11 +42,11 @@ Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023). "IP-Adapter: Text Comp
 
 ## Key takeaways
 
-Read in NOTE-tmpkw49d; the account is THEORY-tmp3jjfo. A lightweight adapter, trained once per base model, that adds image prompts to a frozen text-to-image diffusion model by decoupled cross-attention, and matches fully fine-tuned image-prompt models while staying compatible with text prompts, with community models fine-tuned from the same base, and with structural controls.
+Read in [NOTE-tmpkw49d](../notes.d/NOTE-tmpkw49d.md); the account is [THEORY-tmp3jjfo](../theory.d/THEORY-tmp3jjfo.md). A lightweight adapter, trained once per base model, that adds image prompts to a frozen text-to-image diffusion model by decoupled cross-attention, and matches fully fine-tuned image-prompt models while staying compatible with text prompts, with community models fine-tuned from the same base, and with structural controls.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image
-generators keep a character's identity (CASE-tmp40vka), and read the same
+generators keep a character's identity ([CASE-tmp40vka](../cases.d/CASE-tmp40vka.md)), and read the same
 day at the owner's request. It is machine-learning method, read here for
-the economics of amortization (QUESTION-095), not for practice.
+the economics of amortization ([QUESTION-095](../questions.d/QUESTION-095.md)), not for practice.

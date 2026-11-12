@@ -12,7 +12,7 @@ date: '2026-11-12'
 summary: >-
   A concept can be learned from 3–5 images as one new token embedding in the text-encoder input space of a frozen text-to-image model, at about two GPU-hours per concept, and re-used without further optimization in new prompts and in downstream models built on the same base, though it keeps a concept's gist more than its exact shape or a person's identity. Personalization by inverting a concept into the text-embedding space of a frozen model: the learned artifact is one input vector, not new weights.
 ---
-<!-- inactive-ok-file: THEORY-tmpc6xzg CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; filed on the same branch -->
+<!-- inactive-ok-file: CASE-tmp40vka CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # NOTE-tmp5l4tx: Gal et al. — Textual Inversion
 
@@ -39,9 +39,9 @@ The text-embedding space of a frozen model is expressive enough; CLIP-based metr
 
 ## Bearing on the record
 
-- **QUESTION-095: supports, directly.** Pay once for a stored embedding, then reuse it, against baselines that "require expensive optimization for every new creation": the question's trade, stated by the authors. The stored thing is an input that means something only to the text encoder it was learned in.
-- **CASE-tmp40vka:** supports the 2022 row and adds a third shape for the trained route: what is learned can be an input to a frozen model, not weights.
-- **CLAIM-tmpnwq8a:** weakly corroborates the scoping premise. Reuse is claimed only within one base; that a new text encoder would strand the embedding is the filer's inference, not tested.
+- **[QUESTION-095](../questions.d/QUESTION-095.md): supports, directly.** Pay once for a stored embedding, then reuse it, against baselines that "require expensive optimization for every new creation": the question's trade, stated by the authors. The stored thing is an input that means something only to the text encoder it was learned in.
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md):** supports the 2022 row and adds a third shape for the trained route: what is learned can be an input to a frozen model, not weights.
+- **[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md):** weakly corroborates the scoping premise. Reuse is claimed only within one base; that a new text encoder would strand the embedding is the filer's inference, not tested.
 
 ## Limitations
 

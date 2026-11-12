@@ -12,7 +12,7 @@ date: '2026-11-12'
 summary: >-
   A plug-in for a frozen SDXL, trained once by its makers, that injects a face-recognition embedding by decoupled cross-attention and adds a keypoint-conditioned ControlNet keeps a face's identity from one reference photo without test-time tuning, is shown by figures alone to be competitive with community character LoRAs, and is claimed compatible with models fine-tuned from the same base. Single-image, tuning-free identity preservation for a frozen SDXL: a face-recognition embedding injected by decoupled cross-attention, plus IdentityNet, a ControlNet conditioned on facial keypoints and the embedding.
 ---
-<!-- inactive-ok-file: THEORY-tmpgxdpz CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; filed on the same branch -->
+<!-- inactive-ok-file: CASE-tmp40vka CLAIM-tmpnwq8a — Proposed; filed on the same branch -->
 
 # NOTE-tmpt8cah: Wang et al. — InstantID
 
@@ -40,9 +40,9 @@ Faces only; one reference photo; SDXL frozen. The comparison with LoRAs rests on
 
 ## Bearing on the record
 
-- **CASE-tmp40vka: supports.** The direct statement of the owner's trade with LoRA named: per-character training and many images against one image and one forward pass. Its claimed parity with character LoRAs is the authors' own judgement, without a measure, like the 2026 thread's.
-- **CLAIM-tmpnwq8a: corroborates the scoping premise and the caveat.** Compatibility is claimed only within one base's family, and the module is trained by its makers once for every user, "at no additional cost" to them. It is silent on replacing the base.
-- **QUESTION-095:** names storage ("high storage demands") as a cost on the learn-and-store side, and shows amortization across users: the maker pays the training once.
+- **[CASE-tmp40vka](../cases.d/CASE-tmp40vka.md): supports.** The direct statement of the owner's trade with LoRA named: per-character training and many images against one image and one forward pass. Its claimed parity with character LoRAs is the authors' own judgement, without a measure, like the 2026 thread's.
+- **[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md): corroborates the scoping premise and the caveat.** Compatibility is claimed only within one base's family, and the module is trained by its makers once for every user, "at no additional cost" to them. It is silent on replacing the base.
+- **[QUESTION-095](../questions.d/QUESTION-095.md):** names storage ("high storage demands") as a cost on the learn-and-store side, and shows amortization across users: the maker pays the training once.
 
 ## Limitations
 

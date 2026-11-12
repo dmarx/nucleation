@@ -35,7 +35,7 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
-<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmpgxdpz THEORY-tmpvarvt THEORY-tmpdzbq1 THEORY-tmplz597 THEORY-tmpc6xzg THEORY-tmp6v6q8 — Proposed; the readings of 2026-11-12, cited in its note -->
+<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmpgxdpz THEORY-tmpvarvt THEORY-tmplz597 THEORY-tmpc6xzg THEORY-tmp6v6q8 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -231,31 +231,31 @@ The question stays Open.
 
 ## Note of 2026-11-12: seven works on character identity, read
 
-The works registered with CASE-tmp40vka were read; each THEORY bears on
+The works registered with [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) were read; each THEORY bears on
 this question.
 
 - **Amortization across users.** The question's cases price one agent's
   own reuse: the crew's bugs, the record's filings, a reasoner's
   inferences. The reference routes amortize across agents. A module's
-  maker trains once (IP-Adapter, THEORY-tmp3jjfo; InstantID,
-  THEORY-tmpgxdpz, on 48 H800s; PhotoMaker, THEORY-tmpvarvt, on 8 A100s for
+  maker trains once (IP-Adapter, [THEORY-tmp3jjfo](../theory.d/THEORY-tmp3jjfo.md); InstantID,
+  [THEORY-tmpgxdpz](../theory.d/THEORY-tmpgxdpz.md), on 48 H800s; PhotoMaker, [THEORY-tmpvarvt](../theory.d/THEORY-tmpvarvt.md), on 8 A100s for
   two weeks), and every user pays only per use, with no per-subject
   training. A single account would need a term for who pays the fixed
-  cost and over how many users it is spread. THEORY-331's lifetime
+  cost and over how many users it is spread. [THEORY-331](../theory.d/THEORY-331.md)'s lifetime
   objective is the provider's version of that.
 - **The trade, in its authors' words.** Textual Inversion
-  (THEORY-tmpc6xzg): "we can optimize a single pseudo-word and re-use it
+  ([THEORY-tmpc6xzg](../theory.d/THEORY-tmpc6xzg.md)): "we can optimize a single pseudo-word and re-use it
   for a multitude of new generations. The baseline models, meanwhile, use
   CLIP for test-time optimization and thus require expensive optimization
   for every new creation."
 - **Two costs the readings above did not price.** Storage, on the learned
   side: InstantID names "high storage demands" among the costs of
-  per-subject training, and LoRA (THEORY-tmp6v6q8) shrinks it, about 35MB
+  per-subject training, and LoRA ([THEORY-tmp6v6q8](../theory.d/THEORY-tmp6v6q8.md)) shrinks it, about 35MB
   against 350GB per task on GPT-3. And erosion of what the store held
-  before: DreamBooth's language drift (THEORY-tmplz597), in which the
+  before: DreamBooth's language drift ([THEORY-tmplz597](../theory.d/THEORY-tmplz597.md)), in which the
   model "slowly forgets how to generate subjects of the same class as the
   target subject", paid for with a second loss.
-- **An analogue already held.** THEORY-439 (LIT-796): for language models,
+- **An analogue already held.** [THEORY-439](../theory.d/THEORY-439.md) ([LIT-796](../literature.d/LIT-796.md)): for language models,
   examples used as context and the same examples used as a temporary weight
   update "are not interchangeable". It now bears on this question.
 

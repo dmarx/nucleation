@@ -113,7 +113,7 @@ this way if the airspeed indicator were replaced by one with no bugs.
 
 ## Note of 2026-11-12: the works read
 
-The seven works registered with CASE-tmp40vka were read the same day.
+The seven works registered with [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) were read the same day.
 
 - **IP-Adapter carries less than this claim cited it for.** The abstract's
   "not compatible with other base models" is, by its §1, about the image
@@ -121,10 +121,10 @@ The seven works registered with CASE-tmp40vka were read the same day.
   from the same text-to-image base models": siblings of one base, not a
   successor. The paper supports only that its own adapter is reusable "on
   custom models fine-tuned from the same base model", so a trained add-on
-  is scoped to its base's family. THEORY-tmp3jjfo now corroborates the
-  claim instead of grounding it; ARG-tmpu8x8a, Rejected, says the sentence
+  is scoped to its base's family. [THEORY-tmp3jjfo](../theory.d/THEORY-tmp3jjfo.md) now corroborates the
+  claim instead of grounding it; [ARG-tmpu8x8a](../arguments.d/ARG-tmpu8x8a.md), Rejected, says the sentence
   does not show reader-replacement staleness.
-- **LoRA grounds the premise, as structure** (THEORY-tmp6v6q8, ARG-tmp4icc1).
+- **LoRA grounds the premise, as structure** ([THEORY-tmp6v6q8](../theory.d/THEORY-tmp6v6q8.md), [ARG-tmp4icc1](../arguments.d/ARG-tmp4icc1.md)).
   A module is ΔW = BA added to one W0, recovered "by subtracting BA", and
   it "amplifies some features that are already in W". That it fails on a
   different W is the filer's inference; the paper tests no transfer. Its §1
@@ -140,12 +140,12 @@ The seven works registered with CASE-tmp40vka were read the same day.
   "fine-tuned from" its predecessor ("Training starts from a FLUX.1
   text-to-image checkpoint"); whether add-ons survive such a successor is
   the defeater's test, and the paper does not say.
-- **Not a restatement of CLAIM-118 or CLAIM-074.** In CLAIM-118's terms a
+- **Not a restatement of [CLAIM-118](CLAIM-118.md) or [CLAIM-074](CLAIM-074.md).** In [CLAIM-118](CLAIM-118.md)'s terms a
   kept LoRA is interpreter and a reference image is signal. This claim is
   the cost consequence those claims do not state: a store on the
   interpreter's side is lost with the interpreter, a store on the signal's
   side carries over, and the amortization trade has to price that.
-  THEORY-169's finding that conditioning and per-sequence weight updates
+  [THEORY-169](../theory.d/THEORY-169.md)'s finding that conditioning and per-sequence weight updates
   "differ in what state is kept, not in kind" is the same line drawn in
   attention layers; it is cited as framing, not as evidence.
 

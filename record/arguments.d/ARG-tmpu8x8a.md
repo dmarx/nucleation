@@ -13,7 +13,7 @@ date: '2026-11-12'
 line:
 - distributed-agency
 summary: >-
-  CLAIM-tmpnwq8a was filed with the IP-Adapter abstract as its ground,
+  [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md) was filed with the IP-Adapter abstract as its ground,
   before the paper was read. Read, the sentence is about fine-tunes of one
   base, not a successor base, so it carries less than it was cited for:
   the reading moves from grounds to corroborates, where it supports only
@@ -30,7 +30,7 @@ summary: >-
 The claim says a specialization learned into weights loses its reuse when
 the base model it was trained against is replaced. It cited IP-Adapter's
 abstract: direct fine-tuning methods "are not compatible with other base
-models, text prompt, and structural controls" (THEORY-tmp3jjfo).
+models, text prompt, and structural controls" ([THEORY-tmp3jjfo](../theory.d/THEORY-tmp3jjfo.md)).
 
 ## Critical questions
 

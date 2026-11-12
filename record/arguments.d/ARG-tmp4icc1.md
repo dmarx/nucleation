@@ -13,8 +13,8 @@ date: '2026-11-12'
 line:
 - distributed-agency
 summary: >-
-  The ground for CLAIM-tmpnwq8a's premise after the reading of IP-Adapter
-  carried less than it was cited for (ARG-tmpu8x8a). LoRA's structure makes
+  The ground for [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md)'s premise after the reading of IP-Adapter
+  carried less than it was cited for ([ARG-tmpu8x8a](ARG-tmpu8x8a.md)). LoRA's structure makes
   a module a change to particular weights; the claim needs that, and the
   paper gives it. The step from "defined on W0" to "useless on a different
   W" is the filer's, untested by the paper, and is what a transfer test
@@ -27,12 +27,12 @@ summary: >-
 
 ## The inference
 
-Hu et al. (THEORY-tmp6v6q8) define a module as ΔW = BA added to a frozen
+Hu et al. ([THEORY-tmp6v6q8](../theory.d/THEORY-tmp6v6q8.md)) define a module as ΔW = BA added to a frozen
 W0, and switch tasks by recovering W0 "by subtracting BA"; §7.3 finds that
 ΔW "amplifies some features that are already in W". So the module's effect
 is defined relative to W0. Replace W0 by a different base and BA no longer
 adds to the weights it was trained against, so the specialization must be
-retrained: the mechanism behind CLAIM-tmpnwq8a's staleness.
+retrained: the mechanism behind [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md)'s staleness.
 
 ## Critical questions
 
