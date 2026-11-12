@@ -26,7 +26,7 @@ keywords:
 - 'Saint-Domingue'
 implementations: []
 summary: >-
-  Julia Prest (2018; issue 2019), Atlantic Studies 16(4), 502–520, DOI-10.1080/14788810.2018.1469352. Read on 2026-11-12 in NOTE-tmp97rv4; account THEORY-tmp9u7p2. White performers in Saint-Domingue's public theatres staged Europeanized, non-threatening versions of slave dance (calenda, "pas de nègres"), by which colonials sought to control a power they attributed to it; vodou dance was never staged. Corrects A3: no staged chica is documented, vodou dance was not staged, and the framework is Roque's colonial imitator, not Bhabha's mimicry.
+  Julia Prest (2018; issue 2019), Atlantic Studies 16(4), 502–520, DOI-10.1080/14788810.2018.1469352. Read on 2026-11-12 in [NOTE-tmp97rv4](../notes.d/NOTE-tmp97rv4.md); account [THEORY-tmp9u7p2](../theory.d/THEORY-tmp9u7p2.md). White performers in Saint-Domingue's public theatres staged Europeanized, non-threatening versions of slave dance (calenda, "pas de nègres"), by which colonials sought to control a power they attributed to it; vodou dance was never staged. Corrects A3: no staged chica is documented, vodou dance was not staged, and the framework is Roque's colonial imitator, not Bhabha's mimicry.
 ---
 <!-- inactive-ok-file: THEORY-tmp9u7p2 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: LIT-tmpepraj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
@@ -37,7 +37,7 @@ Julia Prest (2019). Pale imitations: White performances of slave dance in the pu
 
 ## Key takeaways
 
-Read in NOTE-tmp97rv4. Whitened, Europeanized slave dance on stage as colonial control ("they could control the representation of dancing black bodies in the playhouse"); vodou dance never imitated; Lise, a free performer of mixed ancestry, the one exception to whites in black roles. A3's account is corrected on the chica, on vodou and on the framework.
+Read in [NOTE-tmp97rv4](../notes.d/NOTE-tmp97rv4.md). Whitened, Europeanized slave dance on stage as colonial control ("they could control the representation of dancing black bodies in the playhouse"); vodou dance never imitated; Lise, a free performer of mixed ancestry, the one exception to whites in black roles. A3's account is corrected on the chica, on vodou and on the framework.
 
 ## Standing in the record
 

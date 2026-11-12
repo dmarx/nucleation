@@ -42,11 +42,11 @@ Mitigated spectatorship; concealed contributors; critical fabulation (Hartman, v
 
 ## Bearing on the record
 
-- **CASE-tmpwmg3h**: supports the dependence on enslaved labour and its invisibility in the records (key results 2–4), and the runaway advertisements as evidence outside the theatre's records (key result 8). Added to the case's `reported_in`.
-- **QUESTION-tmpojwyk** (sense 3, TERM-074): key result 5 is the institution's financial need widening access for a subordinated group, as paying spectators, confined first to the corridor, with no sign of a part in the rules: A's "bargaining power" answer in its weakest form, access for revenue. The dependence is on spectators' money, not enslaved labour. Filed as `bears_on`, with a dated note.
-- **CLAIM-403**: key result 5 corroborates it, access widened and standing unchanged. Filed as `corroborates`.
-- **CLAIM-348**: key result 4 is the institution's description omitting its contributors, at second hand.
-- **As a stand-in for LIT-tmp0dw2u**: partial; the chapters' evidence stays unread.
+- **[CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)**: supports the dependence on enslaved labour and its invisibility in the records (key results 2–4), and the runaway advertisements as evidence outside the theatre's records (key result 8). Added to the case's `reported_in`.
+- **[QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md)** (sense 3, [TERM-074](../terms.d/TERM-074.md)): key result 5 is the institution's financial need widening access for a subordinated group, as paying spectators, confined first to the corridor, with no sign of a part in the rules: A's "bargaining power" answer in its weakest form, access for revenue. The dependence is on spectators' money, not enslaved labour. Filed as `bears_on`, with a dated note.
+- **[CLAIM-403](../claims.d/CLAIM-403.md)**: key result 5 corroborates it, access widened and standing unchanged. Filed as `corroborates`.
+- **[CLAIM-348](../claims.d/CLAIM-348.md)**: key result 4 is the institution's description omitting its contributors, at second hand.
+- **As a stand-in for [LIT-tmp0dw2u](../literature.d/LIT-tmp0dw2u.md)**: partial; the chapters' evidence stays unread.
 
 ## Limitations
 

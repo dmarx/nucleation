@@ -46,4 +46,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), U1, A1, A
 
 ## Note of 2026-11-12: unavailable, and a neighbour
 
-No lawful copy was found. Prest's "Performing the Racial Scale" (LIT-tmp120sh, read in NOTE-tmpe0dw6) stands in partly: for the theatre's segregated seating and for Minette's limited rise, in Prest's account. It does not stand in for Powers's own argument or for the *paradis* of his title, which stays A's report, unverified. Prest's "Pale imitations" (LIT-tmpefkn6) confirms the book's author, year and publisher.
+No lawful copy was found. Prest's "Performing the Racial Scale" ([LIT-tmp120sh](LIT-tmp120sh.md), read in [NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md)) stands in partly: for the theatre's segregated seating and for Minette's limited rise, in Prest's account. It does not stand in for Powers's own argument or for the *paradis* of his title, which stays A's report, unverified. Prest's "Pale imitations" ([LIT-tmpefkn6](LIT-tmpefkn6.md)) confirms the book's author, year and publisher.

@@ -24,7 +24,7 @@ keywords:
 - 'racial wealth gap'
 implementations: []
 summary: >-
-  Louise Seamster and Raphaël Charron-Chénier (2017), Social Currents 4(3), 199–207, DOI-10.1177/2329496516686620. Read on 2026-11-12 in NOTE-tmpvf8za (accepted version, SocArXiv); account THEORY-tmpi3g1u. Predatory inclusion: access for a historically excluded group on conditions that jeopardize its benefits while dominant actors profit; Black education debt rose faster than white, 2001–2013, unexplained by attainment. It qualifies CLAIM-tmp16mkz, narrowed in its version 2 (ARG-tmpou39l).
+  Louise Seamster and Raphaël Charron-Chénier (2017), Social Currents 4(3), 199–207, DOI-10.1177/2329496516686620. Read on 2026-11-12 in [NOTE-tmpvf8za](../notes.d/NOTE-tmpvf8za.md) (accepted version, SocArXiv); account [THEORY-tmpi3g1u](../theory.d/THEORY-tmpi3g1u.md). Predatory inclusion: access for a historically excluded group on conditions that jeopardize its benefits while dominant actors profit; Black education debt rose faster than white, 2001–2013, unexplained by attainment. It qualifies [CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md), narrowed in its version 2 ([ARG-tmpou39l](../arguments.d/ARG-tmpou39l.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmpi3g1u — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: ARG-tmpou39l — filed with this reading, Proposed -->
@@ -37,7 +37,7 @@ Louise Seamster and Raphaël Charron-Chénier (2017). Predatory Inclusion and Ed
 
 ## Key takeaways
 
-Read in NOTE-tmpvf8za. Predatory inclusion defined; Black households' education debt roughly tripled, 2001–2013, and exceeded white households' by 2010, unexplained by attainment; student debt is hard to discharge even in bankruptcy; the drivers (for-profit colleges, private loans) are conjectured.
+Read in [NOTE-tmpvf8za](../notes.d/NOTE-tmpvf8za.md). Predatory inclusion defined; Black households' education debt roughly tripled, 2001–2013, and exceeded white households' by 2010, unexplained by attainment; student debt is hard to discharge even in bankruptcy; the drivers (for-profit colleges, private loans) are conjectured.
 
 ## Standing in the record
 

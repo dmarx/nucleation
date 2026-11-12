@@ -43,11 +43,11 @@ Racial scale; colourism; degeneration; whitening through civilization; cross-cas
 
 ## Bearing on the record
 
-- **CASE-tmpwmg3h**: corrects the performers (Minette and Lise were free women of colour, not enslaved) and the seating (segregated boxes as above; Prest does not use *paradis*, which stays A's or Powers's and unverified), and supports the exception without change of the rule (key results 6–8). Added to the case's `reported_in`.
-- **CLAIM-403**: corroborates, as an institutional instance. Audience admission was "systematic, although restricted", with "a modest degree of movement" inside a scale the admitted could not revise. Filed as `corroborates`, with a dated note.
-- **CASE-146**: Minette is the institutional analogue of the friend who becomes an exception, and Prest says she did not try to change the rule (key result 8).
-- **QUESTION-tmpojwyk**: Minette's case attests A's "exceptional positions" answer for a sense-3 institution (TERM-074). Whether the theatre depended on her is not argued. Filed as `bears_on`.
-- **As a stand-in for LIT-tmpepraj**: partial, for seating and Minette, in Prest's account; nothing of Powers's argument.
+- **[CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)**: corrects the performers (Minette and Lise were free women of colour, not enslaved) and the seating (segregated boxes as above; Prest does not use *paradis*, which stays A's or Powers's and unverified), and supports the exception without change of the rule (key results 6–8). Added to the case's `reported_in`.
+- **[CLAIM-403](../claims.d/CLAIM-403.md)**: corroborates, as an institutional instance. Audience admission was "systematic, although restricted", with "a modest degree of movement" inside a scale the admitted could not revise. Filed as `corroborates`, with a dated note.
+- **[CASE-146](../cases.d/CASE-146.md)**: Minette is the institutional analogue of the friend who becomes an exception, and Prest says she did not try to change the rule (key result 8).
+- **[QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md)**: Minette's case attests A's "exceptional positions" answer for a sense-3 institution ([TERM-074](../terms.d/TERM-074.md)). Whether the theatre depended on her is not argued. Filed as `bears_on`.
+- **As a stand-in for [LIT-tmpepraj](../literature.d/LIT-tmpepraj.md)**: partial, for seating and Minette, in Prest's account; nothing of Powers's argument.
 
 ## Limitations
 

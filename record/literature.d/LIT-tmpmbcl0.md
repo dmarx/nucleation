@@ -47,4 +47,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), A3. A con
 
 ## Note of 2026-11-12: unavailable; the editors' summaries read
 
-The volume was not reached. The editors' blog post (this LIT's address) summarizes its chapters. It does not carry A3's reading that a performance "might challenge metropolitan French cultural authority while leaving plantation slavery intact"; that is A3's inference, and CASE-tmpwmg3h now says so. Prest's "Pale imitations" (LIT-tmpefkn6) reads the Créole theatre's slave dances as colonial control.
+The volume was not reached. The editors' blog post (this LIT's address) summarizes its chapters. It does not carry A3's reading that a performance "might challenge metropolitan French cultural authority while leaving plantation slavery intact"; that is A3's inference, and [CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md) now says so. Prest's "Pale imitations" ([LIT-tmpefkn6](LIT-tmpefkn6.md)) reads the Créole theatre's slave dances as colonial control.

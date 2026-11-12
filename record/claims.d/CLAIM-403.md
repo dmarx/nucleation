@@ -292,12 +292,12 @@ The claim is unchanged.
 ## Note of 2026-11-12: Prest, "Performing the Racial Scale", and the H-France Forum on Prest, read
 
 Two readings of 2026-11-12 corroborate this claim with an institutional
-instance (TERM-074 sense 3), the public theatre of colonial
-Saint-Domingue. Prest (THEORY-tmpf6iis, NOTE-tmpe0dw6): the admission of
+instance ([TERM-074](../terms.d/TERM-074.md) sense 3), the public theatre of colonial
+Saint-Domingue. Prest ([THEORY-tmpf6iis](../theory.d/THEORY-tmpf6iis.md), [NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md)): the admission of
 people of colour to the audience was "systematic, although restricted",
 in segregated boxes, and the theatre offered "a modest degree of
 movement" within a racial scale the admitted could not revise. The
-H-France Forum (THEORY-tmpp9650, NOTE-tmpee3r7): free Black women
+H-France Forum ([THEORY-tmpp9650](../theory.d/THEORY-tmpp9650.md), [NOTE-tmpee3r7](../notes.d/NOTE-tmpee3r7.md)): free Black women
 admitted from 1775, during a financial crisis, first to the corridor and
 later to boxes, a "fuller form of spectatorship" that remained
 spectatorship. Filed as `corroborates` from both readings. No status

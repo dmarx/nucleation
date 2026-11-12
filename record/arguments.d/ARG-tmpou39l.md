@@ -14,8 +14,8 @@ date: '2026-11-12'
 line:
 - organizational-normativity
 summary: >-
-  Seamster and Charron-Chénier (THEORY-tmpi3g1u, read 2026-11-12) as
-  evidence for CLAIM-tmp16mkz. The support is contested: it carries the
+  Seamster and Charron-Chénier ([THEORY-tmpi3g1u](../theory.d/THEORY-tmpi3g1u.md), read 2026-11-12) as
+  evidence for [CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md). The support is contested: it carries the
   claim's "inclusion that succeeds" and "widening access need not reduce
   it", descriptively, but not version 1's "produces the dependence" by
   building "reliance on the provider", since the need predates the access,
@@ -23,7 +23,7 @@ summary: >-
   the mechanism is conjectured. The claim was narrowed to version 2, and
   for that version the inference is accepted as weak, descriptive
   support from one case, pending Alicea (Unavailable). A sense-3 case
-  (TERM-074).
+  ([TERM-074](../terms.d/TERM-074.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmp16mkz THEORY-tmpi3g1u — Proposed, filed 2026-11-12; the claim and the reading this argument joins -->
 <!-- inactive-ok-file: LIT-tmp63z5g — Unavailable; registered from the same exchange -->
@@ -32,12 +32,12 @@ summary: >-
 
 ## Which sense of "arrangement"
 
-TERM-074 sense 3: lenders, colleges and the households they lend to,
+[TERM-074](../terms.d/TERM-074.md) sense 3: lenders, colleges and the households they lend to,
 persons and institutions.
 
 ## The inference
 
-1. THEORY-tmpi3g1u, the reading in NOTE-tmpvf8za: predatory inclusion is
+1. [THEORY-tmpi3g1u](../theory.d/THEORY-tmpi3g1u.md), the reading in [NOTE-tmpvf8za](../notes.d/NOTE-tmpvf8za.md): predatory inclusion is
    access "to a good, service, or opportunity from which they have
    historically been excluded but under conditions that jeopardize the
    benefits of this access"; "Black educational debt roughly tripled
@@ -48,7 +48,7 @@ persons and institutions.
    lasting obligation that narrows their later options, while lenders
    profited, and access and the gap rose together.
 3. So an arrangement can exploit through the access it grants, and
-   widening access need not reduce it (CLAIM-tmp16mkz, version 2).
+   widening access need not reduce it ([CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md), version 2).
 
 ## Critical questions
 
@@ -71,7 +71,7 @@ persons and institutions.
   So the evidence supports "can" only as far as the terms are shown to be
   exploitative, which the paper argues more than it shows.
 - **Is the claim's other source read?** No. Alicea's "predatory DEI"
-  (LIT-tmp63z5g), the organizational case, is Unavailable.
+  ([LIT-tmp63z5g](../literature.d/LIT-tmp63z5g.md)), the organizational case, is Unavailable.
 
 ## Verdict
 

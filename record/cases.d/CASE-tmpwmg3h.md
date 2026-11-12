@@ -61,35 +61,35 @@ summary: >-
 ## The case
 
 As reported. Version 1 was A's report alone; version 2 corrects it from
-the readings of 2026-11-12. Powers (LIT-tmpepraj) and Prest's book
-(LIT-tmp0dw2u) remain Unavailable, so what comes from them is second-hand.
+the readings of 2026-11-12. Powers ([LIT-tmpepraj](../literature.d/LIT-tmpepraj.md)) and Prest's book
+([LIT-tmp0dw2u](../literature.d/LIT-tmp0dw2u.md)) remain Unavailable, so what comes from them is second-hand.
 
 - **The institution.** Public theatres and opera in the French slave
-  colonies, Saint-Domingue above all, 1764–1789 (Powers, LIT-tmpepraj).
+  colonies, Saint-Domingue above all, 1764–1789 (Powers, [LIT-tmpepraj](../literature.d/LIT-tmpepraj.md)).
   A3: Powers ties the theatre to religious, military and political power,
   and names "the maintenance of peace, the preservation of social
   hierarchy, and the promotion of French culture" as related colonial
   aims. Unverified: the book was not reached.
-- **Seating.** Prest (LIT-tmp120sh, read): in Port-au-Prince "the free
+- **Seating.** Prest ([LIT-tmp120sh](../literature.d/LIT-tmp120sh.md), read): in Port-au-Prince "the free
   people of colour were required to sit in fifteen second-tier boxes
   (seven on either side of the auditorium and one at the back)"; in Le Cap
   they "sat in the upper boxes at the back of the auditorium." The
   admission of free people of colour was "systematic, although
   restricted". Free Black women in Le Cap were admitted from 1775, during a
   financial crisis, at first standing in the corridor at the back
-  (Sabee in the H-France Forum, LIT-tmp5bvba). A3's *paradis*, the upper
+  (Sabee in the H-France Forum, [LIT-tmp5bvba](../literature.d/LIT-tmp5bvba.md)). A3's *paradis*, the upper
   gallery as the nonwhite section that gives Powers's title its irony,
   is A's or Powers's report and is unverified; Prest does not use the word.
 - **Performers.** Black roles were "customarily performed by white actors
   in blackface", and "we have no evidence of any actors of colour until
-  the 1780s" (LIT-tmp120sh). The named performers A3 gives, Minette and her
+  the 1780s" ([LIT-tmp120sh](../literature.d/LIT-tmp120sh.md)). The named performers A3 gives, Minette and her
   sister Lise, were free women of colour of mixed ancestry, not enslaved
-  (LIT-tmp120sh; LIT-tmpefkn6 on Lise). Minette's rise was "significant,
+  ([LIT-tmp120sh](../literature.d/LIT-tmp120sh.md); [LIT-tmpefkn6](../literature.d/LIT-tmpefkn6.md) on Lise). Minette's rise was "significant,
   though ultimately limited".
 - **Enslaved contributors.** Enslaved people took part as orchestral
   musicians, supernumeraries, wigmakers and painters, and as the
   carpenters and builders of the playhouses (the chapter abstracts of
-  LIT-tmp0dw2u, read as front matter only; the H-France Forum). The
+  [LIT-tmp0dw2u](../literature.d/LIT-tmp0dw2u.md), read as front matter only; the H-France Forum). The
   forum reports the theatre as "reliant on the world of enslaved people
   of African descent" (Row, quoting the book, p. 187), and their "near
   invisibility in the theatre records" (Williard, quoting p. 175).
@@ -97,15 +97,15 @@ the readings of 2026-11-12. Powers (LIT-tmpepraj) and Prest's book
   theatre-makers in the same newspapers as their performances.
 - **Spectatorship.** Prest's "mitigated spectatorship": enslaved
   domestics and free women of colour with aural and partial visual access
-  (Sabee, LIT-tmp5bvba).
+  (Sabee, [LIT-tmp5bvba](../literature.d/LIT-tmp5bvba.md)).
 - **Staged slave dance.** White performers staged Europeanized,
   non-threatening slave dance, "pas de nègres" and once a "Calenda ou
   Danse negre", by which colonials sought to control a power they
   attributed to it; they never staged vodou dance, and no staged chica is
-  documented (LIT-tmpefkn6). The framework is Roque's colonial imitator,
+  documented ([LIT-tmpefkn6](../literature.d/LIT-tmpefkn6.md)). The framework is Roque's colonial imitator,
   not Bhabha's mimicry, as A3 had it.
 - **Creole performance.** A3, from Leichman and Bénac-Giroux
-  (LIT-tmpmbcl0): a performance "might challenge metropolitan French
+  ([LIT-tmpmbcl0](../literature.d/LIT-tmpmbcl0.md)): a performance "might challenge metropolitan French
   cultural authority while leaving plantation slavery intact". The
   editors' blog, the only part of the volume read, does not carry this;
   it is A3's inference. "Pale imitations" reads the Créole theatre's slave

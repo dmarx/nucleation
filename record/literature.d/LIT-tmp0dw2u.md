@@ -47,4 +47,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), A3, A6, A
 
 ## Note of 2026-11-12: unavailable, and a neighbour
 
-The chapters are paywalled. The H-France Forum on the book (LIT-tmp5bvba, read in NOTE-tmpee3r7) stands in partly: the reviewers quote the book with pages, and Prest restates her core argument, that "the story of public theatre in Saint-Domingue is inseparable from that of its enslaved people". The chapters' evidence stays unread. The book's chapter titles, from Springer's front matter, include "Mitigated Spectators" and "Concealed Contributors", as A6 said.
+The chapters are paywalled. The H-France Forum on the book ([LIT-tmp5bvba](LIT-tmp5bvba.md), read in [NOTE-tmpee3r7](../notes.d/NOTE-tmpee3r7.md)) stands in partly: the reviewers quote the book with pages, and Prest restates her core argument, that "the story of public theatre in Saint-Domingue is inseparable from that of its enslaved people". The chapters' evidence stays unread. The book's chapter titles, from Springer's front matter, include "Mitigated Spectators" and "Concealed Contributors", as A6 said.

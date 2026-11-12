@@ -22,7 +22,7 @@ keywords:
 - 'book forum'
 implementations: []
 summary: >-
-  H-France Forum 19(5) (2024): four review essays and Prest's response on her 2023 book. Read on 2026-11-12 in NOTE-tmpee3r7 as a partial stand-in for LIT-tmp0dw2u. Prest's core argument, in her words: "the story of public theatre in Saint-Domingue is inseparable from that of its enslaved people"; the reviewers report the theatre's reliance on enslaved labour, its near-invisibility in the records, and access for free Black women widened in 1775 during a financial crisis.
+  H-France Forum 19(5) (2024): four review essays and Prest's response on her 2023 book. Read on 2026-11-12 in [NOTE-tmpee3r7](../notes.d/NOTE-tmpee3r7.md) as a partial stand-in for [LIT-tmp0dw2u](LIT-tmp0dw2u.md). Prest's core argument, in her words: "the story of public theatre in Saint-Domingue is inseparable from that of its enslaved people"; the reviewers report the theatre's reliance on enslaved labour, its near-invisibility in the records, and access for free Black women widened in 1775 during a financial crisis.
 ---
 <!-- inactive-ok-file: LIT-tmp0dw2u — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: CASE-tmpwmg3h — Proposed; cited as on the record -->
@@ -33,8 +33,8 @@ Ashley M. Williard, Olivia Sabee, Karine Bénac, Jennifer E. Row, and Julia Pres
 
 ## Key takeaways
 
-Reviews by Williard, Sabee, Bénac and Row, and Prest's response: the theatre's reliance on enslaved labour, mitigated spectatorship, runaway advertisements beside theatre notices, blackface as control, and graded speculation (NOTE-tmpee3r7). Book quotations are the reviewers'.
+Reviews by Williard, Sabee, Bénac and Row, and Prest's response: the theatre's reliance on enslaved labour, mitigated spectatorship, runaway advertisements beside theatre notices, blackface as control, and graded speculation ([NOTE-tmpee3r7](../notes.d/NOTE-tmpee3r7.md)). Book quotations are the reviewers'.
 
 ## Standing in the record
 
-A partial stand-in for Prest 2023 (LIT-tmp0dw2u), reaching chapters 2–6 at second hand. It bears on CASE-tmpwmg3h and on QUESTION-tmpojwyk.
+A partial stand-in for Prest 2023 ([LIT-tmp0dw2u](LIT-tmp0dw2u.md)), reaching chapters 2–6 at second hand. It bears on [CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md) and on [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md).

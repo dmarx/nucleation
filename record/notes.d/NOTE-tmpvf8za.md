@@ -42,10 +42,10 @@ Predatory inclusion; market incorporation; racialized debt; for-profit higher ed
 
 ## Bearing on the record
 
-- **CLAIM-tmp16mkz** (exploitation through the access an arrangement grants): qualifies. It supports exploitation through inclusion that succeeds (the access is real, and the harm comes through it) and that widening access need not reduce it (access and the gap rose together). It does not support the claim's first version as worded: the need to borrow predates the access, coming from the wealth gap; what the access produces is a lasting debt that narrows later options, not reliance on the provider; exit is closed by bankruptcy law, not by the lender's terms; and the mechanism is conjectured. The claim is narrowed in its version 2, and the support judgement is ARG-tmpou39l.
-- **CLAIM-428**: an offer of opportunity whose terms turn it into vulnerability, a case of the claim's framing. Not written as a relation.
-- **QUESTION-tmpojwyk**: little bearing; the paper is about markets and households, not an organization's dependence on its subordinated members.
-- **TERM-074**: lenders, colleges and households: sense 3 and persons.
+- **[CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md)** (exploitation through the access an arrangement grants): qualifies. It supports exploitation through inclusion that succeeds (the access is real, and the harm comes through it) and that widening access need not reduce it (access and the gap rose together). It does not support the claim's first version as worded: the need to borrow predates the access, coming from the wealth gap; what the access produces is a lasting debt that narrows later options, not reliance on the provider; exit is closed by bankruptcy law, not by the lender's terms; and the mechanism is conjectured. The claim is narrowed in its version 2, and the support judgement is [ARG-tmpou39l](../arguments.d/ARG-tmpou39l.md).
+- **[CLAIM-428](../claims.d/CLAIM-428.md)**: an offer of opportunity whose terms turn it into vulnerability, a case of the claim's framing. Not written as a relation.
+- **[QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md)**: little bearing; the paper is about markets and households, not an organization's dependence on its subordinated members.
+- **[TERM-074](../terms.d/TERM-074.md)**: lenders, colleges and households: sense 3 and persons.
 
 ## Limitations
 

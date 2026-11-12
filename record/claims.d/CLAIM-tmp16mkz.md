@@ -123,7 +123,7 @@ of the exploitation and not its failure. Nothing on the record says it.
 
 ## Note of 2026-11-12: Seamster and Charron-Chénier, read
 
-Read in NOTE-tmpvf8za (THEORY-tmpi3g1u), a sense-3 case (TERM-074): lenders,
+Read in [NOTE-tmpvf8za](../notes.d/NOTE-tmpvf8za.md) ([THEORY-tmpi3g1u](../theory.d/THEORY-tmpi3g1u.md)), a sense-3 case ([TERM-074](../terms.d/TERM-074.md)): lenders,
 colleges and households. It supports two of the claim's parts and
 qualifies the third.
 
@@ -143,5 +143,5 @@ qualifies the third.
   inequality-generating action is."
 
 The claim is narrowed in version 2 to what the reading supports, and the
-judgement is ARG-tmpou39l. Alicea's "predatory DEI" (LIT-tmp63z5g) is
+judgement is [ARG-tmpou39l](../arguments.d/ARG-tmpou39l.md). Alicea's "predatory DEI" ([LIT-tmp63z5g](../literature.d/LIT-tmp63z5g.md)) is
 Unavailable; only its abstract was read. No status change.

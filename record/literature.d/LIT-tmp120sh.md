@@ -22,7 +22,7 @@ keywords:
 - 'casting'
 implementations: []
 summary: >-
-  Julia Prest (2017), Insights 10, art. 7, hdl 10023/12607. Read on 2026-11-12 in NOTE-tmpe0dw6, as a partial stand-in for Powers (LIT-tmpepraj) on seating and Minette, and as the work A6 §5 cited. Saint-Domingue's public theatre upheld the colonial racial scale, seating free people of colour apart and casting whites in blackface, while offering free people of colour a modest movement within it; Minette's rise was significant but limited.
+  Julia Prest (2017), Insights 10, art. 7, hdl 10023/12607. Read on 2026-11-12 in [NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md), as a partial stand-in for Powers ([LIT-tmpepraj](LIT-tmpepraj.md)) on seating and Minette, and as the work A6 §5 cited. Saint-Domingue's public theatre upheld the colonial racial scale, seating free people of colour apart and casting whites in blackface, while offering free people of colour a modest movement within it; Minette's rise was significant but limited.
 ---
 <!-- inactive-ok-file: LIT-tmpepraj — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: CASE-tmpwmg3h — Proposed; cited as on the record -->
@@ -33,8 +33,8 @@ Julia Prest (2017). Performing the Racial Scale: From Colonial Saint-Domingue to
 
 ## Key takeaways
 
-The theatre upheld the racial scale: free people of colour in segregated boxes (second-tier in Port-au-Prince, upper back boxes in Le Cap), black roles played by whites in blackface, actors of colour only in the 1780s; Minette, a free woman of colour, rose "significant, though ultimately limited" (NOTE-tmpe0dw6).
+The theatre upheld the racial scale: free people of colour in segregated boxes (second-tier in Port-au-Prince, upper back boxes in Le Cap), black roles played by whites in blackface, actors of colour only in the 1780s; Minette, a free woman of colour, rose "significant, though ultimately limited" ([NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md)).
 
 ## Standing in the record
 
-The work A6 §5 cited as Prest's "Performing the Racial Scale". A partial stand-in for Powers (LIT-tmpepraj): Prest's account of seating and of Minette, not Powers's argument or his *paradis*. A source of CASE-tmpwmg3h's corrected performers and seating.
+The work A6 §5 cited as Prest's "Performing the Racial Scale". A partial stand-in for Powers ([LIT-tmpepraj](LIT-tmpepraj.md)): Prest's account of seating and of Minette, not Powers's argument or his *paradis*. A source of [CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)'s corrected performers and seating.

@@ -26,7 +26,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmpp9650 THEORY-tmpf6iis — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-603 CLAIM-614 CLAIM-619 CLAIM-624 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: CASE-tmpwmg3h CLAIM-tmp16mkz — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpepraj LIT-tmp0dw2u LIT-tmpl4qsn LIT-tmp63z5g LIT-tmpbnlqp — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpepraj LIT-tmp0dw2u LIT-tmpl4qsn LIT-tmp63z5g — Deferred; filed from the same exchange, unread -->
 
 # QUESTION-tmpojwyk: When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?
 
@@ -118,11 +118,11 @@ Powers ([LIT-tmpepraj](../literature.d/LIT-tmpepraj.md)) and Prest ([LIT-tmp0dw2
 
 ## Note of 2026-11-12: Prest, "Performing the Racial Scale", and the H-France Forum on Prest, read
 
-Both readings are about a collective institution, TERM-074's sense 3, the
+Both readings are about a collective institution, [TERM-074](../terms.d/TERM-074.md)'s sense 3, the
 public theatre of colonial Saint-Domingue, and bear on this question for
 that kind of organization.
 
-- **The H-France Forum** (THEORY-tmpp9650, NOTE-tmpee3r7), standing in for
+- **The H-France Forum** ([THEORY-tmpp9650](../theory.d/THEORY-tmpp9650.md), [NOTE-tmpee3r7](../notes.d/NOTE-tmpee3r7.md)), standing in for
   Prest's book: the theatre was "reliant on the world of enslaved people
   of African descent" (Row, quoting p. 187), whose labour its records
   nearly hid. And from 1775, "during a financial crisis", free Black women
@@ -133,7 +133,7 @@ that kind of organization.
   with no sign of a part in its rules. The dependence there is on
   spectators' money, not on enslaved labour; for the enslaved
   contributors the readings show dependence without any authority.
-- **Prest, "Performing the Racial Scale"** (THEORY-tmpf6iis, NOTE-tmpe0dw6):
+- **Prest, "Performing the Racial Scale"** ([THEORY-tmpf6iis](../theory.d/THEORY-tmpf6iis.md), [NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md)):
   Minette's rise, "significant, though ultimately limited", attests A's
   third answer, an exceptional position that changes nothing general;
   Prest adds that Minette "was not an active pioneer for actors of colour".

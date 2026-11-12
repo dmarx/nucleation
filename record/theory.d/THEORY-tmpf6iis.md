@@ -15,7 +15,7 @@ date: '2026-11-12'
 promote_when: >-
   the published version (Insights 10, article 7) is checked to carry the seating arrangements of Port-au-Prince and Le Cap, the claim that black roles were played by white actors in blackface, and the assessment of Minette's rise as significant but limited.
 summary: >-
-  Prest (2017), read in NOTE-tmpe0dw6 (Read). The theatre and the racial scale; Minette's limited rise.
+  Prest (2017), read in [NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md) (Read). The theatre and the racial scale; Minette's limited rise.
 ---
 
 # THEORY-tmpf6iis: Prest argues that the public theatre of colonial Saint-Domingue upheld the colonial racial scale, seating free people of colour apart from whites and casting whites in blackface for black roles, while offering free people of colour a modest movement within it, and that the free performer Minette's rise on that stage in the 1780s was significant but limited
@@ -26,7 +26,7 @@ Prest argues that the public theatre of colonial Saint-Domingue upheld the colon
 
 ## Evidence
 
-The reading in NOTE-tmpe0dw6.
+The reading in [NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md).
 
 ## What it does not say
 

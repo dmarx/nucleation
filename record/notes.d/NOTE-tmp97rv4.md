@@ -42,10 +42,10 @@ Colonial imitator; mimesis and mimicry (after Roque); calenda, chica, vodou; bla
 
 ## Bearing on the record
 
-- **Corrections to A3** (and to LIT-tmpefkn6's first summary): the article documents no staged chica (it describes the chica only from Moreau de Saint-Méry); vodou dance was *not* staged, the only vodou-associated element being a brief pseudo-ritual without dance or possession; and the framework is Roque's colonial imitator, Bhabha being named once among theorists of the reverse direction.
-- **CASE-tmpwmg3h**: supports the free people of colour admitted to "special seats" (key result 5) and black roles played by whites, often in blackface (key result 8); corrects the case on Lise, a free performer of mixed ancestry; and reads the Créole theatre's slave dances as colonial control, not as resistance to metropolitan authority. Added to the case's `reported_in`; dated note and new version there.
-- **CLAIM-614**: illustrates its representational half only. Characters who "suffer only in love and not in work" and dance kept "at a safe distance" keep slavery's harm out of view on stage. The article does not show that the theatre reproduced these to maintain itself, or whose counter-normativity it would be (QUESTION-449). Not written as a relation.
-- **TERM-074**: the theatre is a collective institution, sense 3.
+- **Corrections to A3** (and to [LIT-tmpefkn6](../literature.d/LIT-tmpefkn6.md)'s first summary): the article documents no staged chica (it describes the chica only from Moreau de Saint-Méry); vodou dance was *not* staged, the only vodou-associated element being a brief pseudo-ritual without dance or possession; and the framework is Roque's colonial imitator, Bhabha being named once among theorists of the reverse direction.
+- **[CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)**: supports the free people of colour admitted to "special seats" (key result 5) and black roles played by whites, often in blackface (key result 8); corrects the case on Lise, a free performer of mixed ancestry; and reads the Créole theatre's slave dances as colonial control, not as resistance to metropolitan authority. Added to the case's `reported_in`; dated note and new version there.
+- **[CLAIM-614](../claims.d/CLAIM-614.md)**: illustrates its representational half only. Characters who "suffer only in love and not in work" and dance kept "at a safe distance" keep slavery's harm out of view on stage. The article does not show that the theatre reproduced these to maintain itself, or whose counter-normativity it would be ([QUESTION-449](../questions.d/QUESTION-449.md)). Not written as a relation.
+- **[TERM-074](../terms.d/TERM-074.md)**: the theatre is a collective institution, sense 3.
 
 ## Limitations
 

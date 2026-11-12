@@ -44,4 +44,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), A3, A6. M
 
 ## Note of 2026-11-12: unavailable
 
-No lawful copy was found. Prest is the volume's editor. The method A6 cited it for, runaway advertisements as evidence outside the theatre's own records, is reached at second hand through the H-France Forum on Prest's monograph (LIT-tmp5bvba, NOTE-tmpee3r7).
+No lawful copy was found. Prest is the volume's editor. The method A6 cited it for, runaway advertisements as evidence outside the theatre's own records, is reached at second hand through the H-France Forum on Prest's monograph ([LIT-tmp5bvba](LIT-tmp5bvba.md), [NOTE-tmpee3r7](../notes.d/NOTE-tmpee3r7.md)).
