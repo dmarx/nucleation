@@ -13,7 +13,7 @@ history:
     published text, laid out two pages to a sheet), lawful under ADR-074.
     Read: cover, abstract, §1, §2, the opening of §3, §6.2 and §8.2 in
     full. Glanced at: §§3.1–3.3, 5, 6.1, 6.3, 8.1, 8.3. Not read: §4, §7,
-    §§8.4–9 and most references. Read as a stand-in for LIT-tmpiyp1o. A
+    §§8.4–9 and most references. Read as a stand-in for LIT-tmpiyp1o, now for its Part I. A
     delegated reader drafted it; the quotations below were rechecked
     against the downloaded text by script.
 date: '2026-11-12'
@@ -21,7 +21,7 @@ summary: >-
   Aspect-oriented programming, by the metaobject-protocol book's first
   author and his group. Read for its one paragraph on reflection and
   metaobject protocols, and its decision to bound raw reflective access
-  with a narrower language. A weak stand-in for The Art of the Metaobject
+  with a narrower language. A weak stand-in for Part I of The Art of the Metaobject
   Protocol.
 ---
 <!-- inactive-ok-file: LIT-tmpiyp1o — Unavailable; the book this reading stands in for -->

@@ -1,9 +1,9 @@
 ---
-status: Unavailable
+status: Active
 status_note: >-
-  No lawful copy reached on 2026-11-12. The publisher's page (https://doi.org/10.7551/mitpress/1405.001.0001, redirecting to direct.mit.edu) showed a Cloudflare challenge; OpenAlex lists the book as closed, with the publisher's page its only location. Kiczales's faculty page at UBC (https://www.cs.ubc.ca/~gregor/) has no copy. A community hypertext of chapters 5 and 6 (the CLOS metaobject protocol specification) exists at http://mop.lisp.se/www.alu.org/mop/, made by Howard R. Stearns from TeX sources once distributed by Xerox PARC, with a second edition at http://metamodular.com/CLOS-MOP/; the reader read chapter 5 there, but whether that release is lawful could not be determined (PARC's terms are no longer visible, and it is a mirror, not the authors' or publisher's page), so the lead did not count it and nothing is filed from it. That judgement is left to the owner. Whole-book uploads were not sought. The best neighbour, Kiczales, Ashley, Rodriguez, Vahdat and Bobrow, "Metaobject protocols: why we want them and what else they can do" (1993), is Unfetched: https://cseweb.ucsd.edu/~vahdat/papers/mop.pdf failed TLS verification on 2026-11-12, and was not worked around. Stood in for, weakly, by [LIT-tmpeg56k](LIT-tmpeg56k.md) (Kiczales et al. 1997, aspect-oriented programming).
+  Skimmed on 2026-11-12 (NOTE-tmpyvjjb): chapter 5 only, from the Association of Lisp Users' hypertext of chapters 5 and 6 mirrored at http://mop.lisp.se/www.alu.org/mop/concepts.html, made from TeX sources Xerox PARC distributed; the owner ruled on 2026-11-12 that the copy may be used ("the mirror is fine"). Part I (chapters 1 to 4) was not reached: the publisher's page (https://doi.org/10.7551/mitpress/1405.001.0001) showed a Cloudflare challenge, OpenAlex lists the book as closed, and the best neighbour for Part I, Kiczales, Ashley, Rodriguez, Vahdat and Bobrow, "Metaobject protocols: why we want them and what else they can do" (1993), is Unfetched (https://cseweb.ucsd.edu/~vahdat/papers/mop.pdf failed TLS verification on 2026-11-12). LIT-tmpeg56k stands in, weakly, for Part I.
 title: 'The Art of the Metaobject Protocol'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-12'
@@ -13,6 +13,10 @@ history:
   date: '2026-11-12'
   note: >-
     Unavailable (ADR-041): no lawful copy reached; where it was sought is in the status note. The chapter-5 reading of a community mirror is not filed, at the lead's decision that the mirror's lawfulness is undetermined; the owner may rule otherwise. LIT-tmpeg56k registered and skimmed as a weak stand-in. Metadata unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Active. The owner ruled on 2026-11-12, of the community hypertext of chapters 5 and 6: "the mirror is fine". Version 2's Unavailable, which followed the lead's earlier decision not to count that copy, is replaced by the reading: chapter 5 skimmed in NOTE-tmpyvjjb, account THEORY-tmph775l. LIT-tmpeg56k is kept as a stand-in for Part I, which was not reached. Metadata unchanged.
 tags:
 - software-engineering
 date: '2026-11-12'
@@ -22,9 +26,10 @@ first_author: 'Kiczales'
 keywords: []
 implementations: []
 summary: >-
-  Gregor Kiczales, Jim des Rivières and Daniel G. Bobrow (1991), The MIT Press, DOI 10.7551/mitpress/1405.001.0001. Here because A cited it in the exchange "luria experiment design" at A50 (§12), for a programming system that makes aspects of its own behaviour explicit and modifiable through a meta-level interface, a predecessor A names for a collective that modifies its own working infrastructure; A adds that a record is not a universal reflective system, and that a changed rule counts only if it changes later behaviour. It bears on [QUESTION-388](../questions.d/QUESTION-388.md) (what distinguishes a programmable system from one that governs its own reconfiguration) and [CLAIM-469](../claims.d/CLAIM-469.md) (luria as an apparatus that revises its own distinctions). What A says of it is unverified until read.
+  Gregor Kiczales, Jim des Rivières and Daniel G. Bobrow (1991), The MIT Press, DOI 10.7551/mitpress/1405.001.0001. Chapter 5, the only part read, specifies a metaobject protocol for CLOS: the language described as an extensible program whose metaobjects users may specialize, within explicit restrictions on users and implementors, with changes propagated to dependents. Read for the exchange "luria experiment design", where A cited it for a system that exposes its own behaviour to modification; it bears on QUESTION-388 by placing such a system on the programmable side.
 ---
 <!-- inactive-ok-file: ADR-tmppzz2h — Proposed; the decision this entry first applies -->
+<!-- inactive-ok-file: NOTE-tmpyvjjb THEORY-tmph775l — Skimmed and Proposed; the reading of 2026-11-12 -->
 
 # LIT-tmpiyp1o: The Art of the Metaobject Protocol
 
@@ -32,11 +37,11 @@ Gregor Kiczales, Jim des Rivières and Daniel G. Bobrow (1991), The MIT Press, D
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for a programming system that makes aspects of its own behaviour explicit and modifiable through a meta-level interface, a predecessor A names for a collective that modifies its own working infrastructure; A adds that a record is not a universal reflective system, and that a changed rule counts only if it changes later behaviour. Unverified until read.
+- Chapter 5 specifies the CLOS metaobject protocol as "a description of CLOS itself as an extensible CLOS program": users change the language by specializing its metaobjects.
+- The extensions are bounded by explicit restrictions on users and on implementors.
+- Redefinition propagates: discriminating functions are recomputed and registered dependents notified.
+- A cited it for a system that exposes its own behaviour to modification through a meta-level interface, which is right for chapter 5; A's further remarks are A's.
 
 ## Standing in the record
 
-Unavailable since 2026-11-12. [LIT-tmpeg56k](LIT-tmpeg56k.md) stands in weakly: by the first author and his group, it restates in one paragraph (§8.2) the idea of a meta-level controlling a language's own semantics and cites this book, and restates nothing of the protocol itself, its restrictions or its dependent maintenance. The 1993 paper named in the status note would stand in better, if reached.
-
-
-Registered on 2026-11-12 from the exchange "luria experiment design" (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§12), once [ADR-tmppzz2h](../decisions.d/ADR-tmppzz2h.md) added `software-engineering`. It bears on [QUESTION-388](../questions.d/QUESTION-388.md) (what distinguishes a programmable system from one that governs its own reconfiguration) and [CLAIM-469](../claims.d/CLAIM-469.md) (luria as an apparatus that revises its own distinctions).
+Registered on 2026-11-12 from the exchange "luria experiment design" (https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§12), once ADR-tmppzz2h added `software-engineering`. Chapter 5 skimmed the same day (NOTE-tmpyvjjb; THEORY-tmph775l), from a copy the owner ruled usable. Part I, the book's argument for metaobject protocols, was not reached; LIT-tmpeg56k (Kiczales et al. 1997, aspect-oriented programming) stands in for it weakly, restating in one paragraph the idea of a meta-level controlling a language's own semantics.

@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  Skimmed on 2026-11-12 ([NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md)) from the first author's own faculty page at the University of British Columbia (https://www.cs.ubc.ca/~gregor/papers/kiczales-ECOOP1997-AOP.pdf), the published text with Springer's notice, lawful under [ADR-074](../decisions.d/ADR-074.md). Registered as a stand-in for [LIT-tmpiyp1o](LIT-tmpiyp1o.md), The Art of the Metaobject Protocol, which no lawful copy reached; it stands in weakly, through one paragraph on metaobject protocols.
+  Skimmed on 2026-11-12 ([NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md)) from the first author's own faculty page at the University of British Columbia (https://www.cs.ubc.ca/~gregor/papers/kiczales-ECOOP1997-AOP.pdf), the published text with Springer's notice, lawful under [ADR-074](../decisions.d/ADR-074.md). Registered as a stand-in for [LIT-tmpiyp1o](LIT-tmpiyp1o.md), The Art of the Metaobject Protocol, for its Part I, which was not reached; it stands in weakly, through one paragraph on metaobject protocols.
 title: 'Aspect-oriented programming'
 version: 1
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
-    Registered as a stand-in for LIT-tmpiyp1o, at the lead's decision that the only copy of that book's text reached, a community mirror of its chapters 5 and 6, was not shown lawful. Identifier checked on Crossref on 2026-11-12, no email address sent: Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin, ECOOP'97, Lecture Notes in Computer Science 1241, pp. 220–242. Not held: no hit for the DOI, the title, "aspect-oriented" or Kiczales in record/literature.d. `published:`: Crossref gives the year only (online 2006-05-23); the copy's cover says "June 1997", so the first of that month is used. Skimmed in NOTE-tmpds3ww.
+    (On the owner's ruling later the same day, "the mirror is fine", the book's chapter 5 was skimmed from that mirror, and this work now stands in for its Part I only.) Registered as a stand-in for LIT-tmpiyp1o, at the lead's decision that the only copy of that book's text reached, a community mirror of its chapters 5 and 6, was not shown lawful. Identifier checked on Crossref on 2026-11-12, no email address sent: Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin, ECOOP'97, Lecture Notes in Computer Science 1241, pp. 220–242. Not held: no hit for the DOI, the title, "aspect-oriented" or Kiczales in record/literature.d. `published:`: Crossref gives the year only (online 2006-05-23); the copy's cover says "June 1997", so the first of that month is used. Skimmed in NOTE-tmpds3ww.
 tags:
 - software-engineering
 date: '2026-11-12'
@@ -21,7 +21,7 @@ keywords:
 - metaobject protocols
 implementations: []
 summary: >-
-  Gregor Kiczales, John Lamping, Anurag Mendhekar, Chris Maeda, Cristina Videira Lopes, Jean-Marc Loingtier and John Irwin (1997), ECOOP'97, LNCS 1241, DOI 10.1007/BFb0053381. Argues that some design decisions, which it calls aspects, cross-cut a system's functional decomposition and tangle procedural or object-oriented code, and that they are best written in separate aspect languages combined with the components by a weaver. Its §8.2 places reflection and metaobject protocols as one powerful tool for that goal, and §6.2 replaces raw reflective access, "so powerful that it can be dangerous or difficult to use", with a narrower aspect language. Here as a weak stand-in for The Art of the Metaobject Protocol ([LIT-tmpiyp1o](LIT-tmpiyp1o.md)), which it cites.
+  Gregor Kiczales, John Lamping, Anurag Mendhekar, Chris Maeda, Cristina Videira Lopes, Jean-Marc Loingtier and John Irwin (1997), ECOOP'97, LNCS 1241, DOI 10.1007/BFb0053381. Argues that some design decisions, which it calls aspects, cross-cut a system's functional decomposition and tangle procedural or object-oriented code, and that they are best written in separate aspect languages combined with the components by a weaver. Its §8.2 places reflection and metaobject protocols as one powerful tool for that goal, and §6.2 replaces raw reflective access, "so powerful that it can be dangerous or difficult to use", with a narrower aspect language. Here as a weak stand-in for Part I of The Art of the Metaobject Protocol (LIT-tmpiyp1o), which it cites.
 ---
 <!-- inactive-ok-file: LIT-tmpiyp1o — Unavailable; the book this work stands in for -->
 <!-- inactive-ok-file: NOTE-tmpds3ww — Skimmed; the reading of this work -->

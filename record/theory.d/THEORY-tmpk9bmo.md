@@ -18,7 +18,7 @@ promote_when: >-
   effectiveness is asked.
 summary: >-
   The central account of [LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), skimmed in [NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md) as a weak
-  stand-in for The Art of the Metaobject Protocol. It bears on [QUESTION-388](../questions.d/QUESTION-388.md)
+  stand-in for Part I of The Art of the Metaobject Protocol. It bears on [QUESTION-388](../questions.d/QUESTION-388.md)
   through §6.2: reflective access was judged too powerful to leave
   unbounded, and bounded by a language its designers wrote. Proposed until
   the paper is read in full.
