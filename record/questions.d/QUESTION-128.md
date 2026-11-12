@@ -157,21 +157,21 @@ lights, so the expected profile is the system's. The detector has no
 viability of its own, so on Bickhard's, Di Paolo's ([THEORY-628](../theory.d/THEORY-628.md)) and
 Barandiaran's ([THEORY-217](../theory.d/THEORY-217.md)) accounts its norm is borrowed. The owner's
 claim that the debugger's silence is evidence of a broken mechanism
-(CLAIM-tmpkr3ti, narrowed at the review of #483 the owner relayed on
+([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md), narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
 2026-11-12) holds against the designer's response model and says
 nothing on this question. The question stays Open.
 
-## Note of 2026-11-12: a study of endogenous revision, at the review of #483
+## Note of 2026-11-12: a study of endogenous revision, at the review of [#483](https://github.com/dmarx/nucleation/issues/483)
 
 <!-- inactive-ok-block: CASE-tmpfobkh CASE-tmp5ijqy THEORY-tmp0d8vu — filed in this pull request, Proposed -->
-The review of #483 the owner relayed on 2026-11-12 found that the two-profile forager (CASE-tmpfobkh)
+The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 found that the two-profile forager ([CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md))
 "compares two criteria, not endogenous norm formation", and asked for a
 forager whose criterion of failure is revisable. The proposed study is
-CASE-tmp5ijqy. A learner predicts its own loss of viability from
+[CASE-tmp5ijqy](../cases.d/CASE-tmp5ijqy.md). A learner predicts its own loss of viability from
 environmental features and revises its probes and profile. It is set
 against fixed, designer, oracle and frozen-criterion arms, under changes
 it was not trained on. It would bear on this question if the learner
 revises its criteria and not only its estimates. Its main threat is the
 one this question presses: the designer still chose the learning rule
-and the viability variable (THEORY-tmp0d8vu). Not run. The question
+and the viability variable ([THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)). Not run. The question
 stays Open.

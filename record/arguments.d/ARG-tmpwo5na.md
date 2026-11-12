@@ -31,40 +31,40 @@ date: '2026-11-12'
 line:
 - record-as-apparatus
 summary: >-
-  The inference from the owner's debugging case (CASE-tmpaky45, U3 of the
+  The inference from the owner's debugging case ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md), U3 of the
   exchange "Meaning Transmission Explained", 2026-11-07), under a
   probabilistic response model, to the defeasible reading of
-  CLAIM-tmpkr3ti: the absence shifts support toward fault hypotheses by
-  its likelihood ratio. CASE-tmpl4kyp gives the worked instance, 49
-  against 1 for the same silence in clean air. CASE-152 confines the
+  [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md): the absence shifts support toward fault hypotheses by
+  its likelihood ratio. [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md) gives the worked instance, 49
+  against 1 for the same silence in clean air. [CASE-152](../cases.d/CASE-152.md) confines the
   conclusion to the mechanism under test, its test path included. It
-  concludes nothing factive; that is ARG-tmpkk8m0's, under a stated
+  concludes nothing factive; that is [ARG-tmpkk8m0](ARG-tmpkk8m0.md)'s, under a stated
   guarantee. Proposed. The inference is the filer's, as revised at the
-  review of #483 the owner relayed on 2026-11-12; adopting it is the
+  review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmpkr3ti CASE-tmpl4kyp CLAIM-tmpz1xb5 ARG-tmpkk8m0 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmpkr3ti CASE-tmpl4kyp ARG-tmpkk8m0 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-202 — Proposed; the control cited for a test that breaks what it tests -->
 
 # ARG-tmpwo5na: From the debugger's test and a probabilistic response model to the defeasible reading: an absence under an intervention with an expected response shifts support toward fault by its likelihood ratio
 
 ## The inference
 
-1. CASE-tmpaky45: a debugger puts test smoke to a detector whose expected
+1. [CASE-tmpaky45](../cases.d/CASE-tmpaky45.md): a debugger puts test smoke to a detector whose expected
    response is an alarm, and there is no alarm.
-2. CLAIM-414 (demonstrated, Active): systems that agree under ordinary
+2. [CLAIM-414](../claims.d/CLAIM-414.md) (demonstrated, Active): systems that agree under ordinary
    operation can differ under a specified intervention, which exposes
    what passive observation does not. A working and a broken detector
    are such a pair.
 3. A probabilistic response model gives P(no alarm | fault, do(test)) and
    P(no alarm | healthy, do(test)). Where the first exceeds the second,
-   the absence raises the odds of a fault by their ratio. In CASE-tmpl4kyp
+   the absence raises the odds of a fault by their ratio. In [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)
    that ratio is 0.98/0.02 = 49, and for silence in clean air it is 1.
-4. CASE-152: a missing response does not say what was missing. So the
+4. [CASE-152](../cases.d/CASE-152.md): a missing response does not say what was missing. So the
    hypotheses the support moves among are faults of the mechanism under
    test, its test path included.
 5. So the absence is diagnostic evidence about that mechanism, with its
-   strength fixed by the model (CLAIM-tmpkr3ti, defeasible reading).
+   strength fixed by the model ([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md), defeasible reading).
 
 ## Critical questions
 
@@ -77,7 +77,7 @@ summary: >-
   guessed ratio. The conclusion is relative to the model, and the claim
   says so.
 - **Is there contrary evidence?** A test that breaks what it tests (A8
-  §6; CASE-202's control) makes the fault real but caused by the test.
+  §6; [CASE-202](../cases.d/CASE-202.md)'s control) makes the fault real but caused by the test.
   The evidence then bears on the mechanism after the test, which is what
   the conclusion is about. A test path that failed is covered by step 4.
 - **Does the conclusion say more than the evidence?** Not now. Version 1
@@ -88,5 +88,5 @@ summary: >-
 ## What it does not show
 
 That the mechanism is broken. That follows only under a deterministic,
-independently validated guarantee (ARG-tmpkk8m0). Nor does it show that
-the response model is the system's own (QUESTION-128).
+independently validated guarantee ([ARG-tmpkk8m0](ARG-tmpkk8m0.md)). Nor does it show that
+the response model is the system's own ([QUESTION-128](../questions.d/QUESTION-128.md)).

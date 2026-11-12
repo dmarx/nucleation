@@ -43,10 +43,10 @@ summary: >-
 1. [THEORY-220](../theory.d/THEORY-220.md): a self-maintaining system's selection of an interaction
    anticipates its success, and the anticipation can be false by the
    system's own lights.
-2. CLAIM-tmpkr3ti: an absence under an expected response profile is
+2. [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md): an absence under an expected response profile is
    evidence that what was tested failed, and entails it under a
    deterministic guarantee. The forager's profile is deterministic, so
-   in CASE-tmpfobkh its registered failures are of the second kind.
+   in [CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md) its registered failures are of the second kind.
 3. [CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md): there is a construction in which a profile fixed by the
    system's upkeep and a stored designer's profile agree on a silent patch
    (S3) and give opposite verdicts in S2 and S4. Recomputed exactly:

@@ -13,8 +13,8 @@ line:
 bears_on:
 - QUESTION-285
 summary: >-
-  The counterexample in the review of #483 the owner relayed on
-  2026-11-12, to the first version of CLAIM-tmpz1xb5, which made a
+  The counterexample in the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
+  2026-11-12, to the first version of [CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md), which made a
   started interval, a stored expectation and a timeout necessary for an
   absence to carry anything. A relay must stay energized to hold a valve
   closed. When the current stops, a spring opens the valve. The absence
@@ -33,7 +33,7 @@ summary: >-
 
 ## The case
 
-From the review of #483 the owner relayed on 2026-11-12: "a fail-safe
+From the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12: "a fail-safe
 relay that must remain energized to hold a valve closed; remove the
 current and a spring opens the valve."
 
@@ -53,11 +53,11 @@ review: "The absence of input has an immediate consequential effect with
 no separately initiated test, stored expectation or timeout event". This
 is the design principle of fail-safe systems: absence of the holding
 signal is itself the trigger. It is the same organization a sprinkler
-could have if its detector held the valve shut (CASE-tmpv6i22).
+could have if its detector held the valve shut ([CASE-tmpv6i22](CASE-tmpv6i22.md)).
 
 So a timeout is sufficient for a consequential absence and not
-necessary. CLAIM-tmpz1xb5 is narrowed to registering a bounded
-non-response, as in the debugger's test (CASE-tmpaky45), and this case
+necessary. [CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md) is narrowed to registering a bounded
+non-response, as in the debugger's test ([CASE-tmpaky45](CASE-tmpaky45.md)), and this case
 lies outside it.
 
 ## What it cannot show

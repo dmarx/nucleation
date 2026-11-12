@@ -52,9 +52,9 @@ bears_on:
 - QUESTION-128
 summary: >-
   A reading across the filing of "Meaning Transmission Explained"
-  (2026-11-07), revised at the review of #483 the owner relayed on
-  2026-11-12. The owner's smoke detector (CASE-tmpv6i22) has a false
-  alarm from steam. Grice's analysis (THEORY-444, read in NOTE-735)
+  (2026-11-07), revised at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
+  2026-11-12. The owner's smoke detector ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) has a false
+  alarm from steam. Grice's analysis ([THEORY-444](../theory.d/THEORY-444.md), read in [NOTE-735](../notes.d/NOTE-735.md))
   answers whether the alarm's content can be false. Natural meaning is
   factive, and in that sense the steam alarm means only that the
   detector crossed its threshold, which is true. "Fire" is a non-factive
@@ -63,9 +63,9 @@ summary: >-
   to carry, is separate: non-factivity shows only that a factive account
   is insufficient. For this designed alarm the source is the designer's
   intention, by stipulation. For other systems, selection history and
-  organizational maintenance stay open (CLAIM-tmph9egz takes up the
-  latter). Proposed; the inference is ARG-tmpbyj2f, and the step that
-  failed is ARG-tmp27nss. The wording is the assistant's (Claude, in this
+  organizational maintenance stay open ([CLAIM-tmph9egz](CLAIM-tmph9egz.md) takes up the
+  latter). Proposed; the inference is [ARG-tmpbyj2f](../arguments.d/ARG-tmpbyj2f.md), and the step that
+  failed is [ARG-tmp27nss](../arguments.d/ARG-tmp27nss.md). The wording is the assistant's (Claude, in this
   session), revised at the review; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpv6i22 CLAIM-tmph9egz ARG-tmpbyj2f ARG-tmp27nss CLAIM-tmpkr3ti — filed in this pull request, Proposed or Rejected -->
@@ -75,7 +75,7 @@ summary: >-
 
 ## Two questions
 
-The review of #483 the owner relayed on 2026-11-12 asked for these to be
+The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 asked for these to be
 kept apart:
 
 - **(a) Can the alarm's content be false?** This is a question of
@@ -86,8 +86,8 @@ kept apart:
 ## (a) Correctness: Grice's factivity test
 
 Grice's first test for natural meaning is that "x means that p entails p"
-(NOTE-735, pp. 377–378; THEORY-444). Applied to the owner's smoke detector
-(CASE-tmpv6i22):
+([NOTE-735](../notes.d/NOTE-735.md), pp. 377–378; [THEORY-444](../theory.d/THEORY-444.md)). Applied to the owner's smoke detector
+([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)):
 
 1. **Natural meaning.** The alarm's sounding means that the detector
    crossed its threshold. This entails its content, and no one means it.
@@ -108,26 +108,26 @@ say what makes a false alarm false. It does not say where the norm comes
 from. The review: "non-factivity shows only that the factive account is
 insufficient". Candidates:
 
-- **A designer's intention.** For CASE-tmpv6i22 this is the source: the
+- **A designer's intention.** For [CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md) this is the source: the
   alarm is stipulated to be designed to warn of fire. Grice's red light
   points the same way for designed signs, "some sort of reference to
-  somebody's intentions" (NOTE-735, p. 385). That is a fact about this
+  somebody's intentions" ([NOTE-735](../notes.d/NOTE-735.md), p. 385). That is a fact about this
   case, not a consequence of (a). Inferring it from non-factivity alone
-  is the step ARG-tmp27nss rejects.
+  is the step [ARG-tmp27nss](../arguments.d/ARG-tmp27nss.md) rejects.
 - **Selection history.** A biological warning system could have a
   non-factive function grounded in what its ancestors' signals were
   selected for. That is teleosemantics (Millikan), unread here, and the
   reading is owed.
 - **Organizational maintenance.** A self-maintaining system's own
-  anticipations can be false by its own lights (Bickhard, THEORY-220).
-  CLAIM-tmph9egz takes this up.
+  anticipations can be false by its own lights (Bickhard, [THEORY-220](../theory.d/THEORY-220.md)).
+  [CLAIM-tmph9egz](CLAIM-tmph9egz.md) takes this up.
 
 ## Where it sits
 
-- **It bears on QUESTION-128.** Question (b) is that question asked of a
+- **It bears on [QUESTION-128](../questions.d/QUESTION-128.md).** Question (b) is that question asked of a
   signal. The claim answers it only for a designed alarm, and only by the
   case's stipulation.
-- **It places the owner's claim** (CLAIM-tmpkr3ti). The debugger's
+- **It places the owner's claim** ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)). The debugger's
   absence is evidence about the mechanism, and is factive only under a
   validated guarantee. The sprinkler deploying for steam is an error
   with respect to "fire".

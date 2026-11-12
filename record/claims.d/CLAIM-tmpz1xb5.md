@@ -51,15 +51,15 @@ bears_on:
 summary: >-
   From A10 §6 of the exchange "Meaning Transmission Explained"
   (2026-11-07), with A5 §3's automated debugger, on the owner's debugging
-  case (CASE-tmpaky45) and claim (CLAIM-tmpkr3ti). A10: "**Silence is not
+  case ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)) and claim ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)). A10: "**Silence is not
   literally an object transmitted from the broken detector to the
-  debugger.**" Narrowed at the review of #483 the owner relayed on
+  debugger.**" Narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
   2026-11-12 to diagnosis by bounded non-response, in the review's
   sentence: "To register that an expected event failed to occur within a
   specified interval, an apparatus must physically distinguish the tested
   interval from its alternatives and retain enough state to classify the
-  outcome." The fail-safe relay (CASE-tmp4gw3m) shows that an absence can
-  matter without any of this, and marks the claim's scope. CLAIM-312's
+  outcome." The fail-safe relay ([CASE-tmp4gw3m](../cases.d/CASE-tmp4gw3m.md)) shows that an absence can
+  matter without any of this, and marks the claim's scope. [CLAIM-312](CLAIM-312.md)'s
   deadline-bound search is the record's nearest held case. The wording is
   A's and the review's; adopting it is the owner's call.
 ---
@@ -69,7 +69,7 @@ summary: >-
 
 ## The claim
 
-The sentence is the review's (the review of #483 the owner relayed on
+The sentence is the review's (the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
 2026-11-12):
 
 > To register that an expected event failed to occur within a specified
@@ -90,7 +90,7 @@ review's condition, not the condition itself.
 
 ## The argument
 
-TERM-089's apparatus "makes some physical differences produce distinct
+[TERM-089](../terms.d/TERM-089.md)'s apparatus "makes some physical differences produce distinct
 outcomes" (differentiation) and may keep them (retention). To classify a
 trial as "the expected event did not occur in [t₀, τ]", the apparatus's
 state at classification has to differ according to that outcome. It has
@@ -102,7 +102,7 @@ is the review's "physically distinguish the tested interval from its
 alternatives and retain enough state". Without it, the detector's silence
 under test and its silence in clean air leave the same trace. There is
 then nothing for the owner's absence to be evidence of
-(CLAIM-tmpkr3ti).
+([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)).
 
 Nothing in this needs a sentient party. A5 §3's automated tester holds
 the stored profile, a timer and a switch to the backup detector: "No
@@ -112,16 +112,16 @@ sentient entity participates in that particular diagnostic event."
 
 - **Registering, not mattering.** An absence can have consequences
   without being registered as the failure of an expected event. In the
-  fail-safe relay (CASE-tmp4gw3m) a valve opens because current stops,
+  fail-safe relay ([CASE-tmp4gw3m](../cases.d/CASE-tmp4gw3m.md)) a valve opens because current stops,
   with no test, stored expectation or timeout. The review: "physical
   organization (relay state, spring, coupling) is still required, but
   that is a more general condition." The relay marks the edge of this
   claim's scope, and the claim does not cover it.
-- **CLAIM-312 is the held case nearest it.** A search that fails by the
+- **[CLAIM-312](CLAIM-312.md) is the held case nearest it.** A search that fails by the
   deadline "establishes unavailability outright"; absence needs a
   further certificate. A bounded test establishes a failure to respond
   within the interval, not that a response could never come.
-- **QUESTION-285's rungs.** The marked interval and the retained state are
+- **[QUESTION-285](../questions.d/QUESTION-285.md)'s rungs.** The marked interval and the retained state are
   a record that something uses, so diagnosis by bounded non-response sits
   at the rung of use, with no conscious investigator.
 
@@ -131,11 +131,11 @@ sentient entity participates in that particular diagnostic event."
   version before the review said this, and the fail-safe relay shows it
   too strong.
 - That the interval and the expectation must be designed. In A's tester
-  they are. Whether a system could set its own is QUESTION-128's
+  they are. Whether a system could set its own is [QUESTION-128](../questions.d/QUESTION-128.md)'s
   question.
 
 ## Admission
 
-Filed as a claim of A's with content of its own (ADR-072), narrowed by the
+Filed as a claim of A's with content of its own ([ADR-072](../decisions.d/ADR-072.md)), narrowed by the
 review. The derivation above is short. The defeater names the objection
-that it only restates TERM-089.
+that it only restates [TERM-089](../terms.d/TERM-089.md).

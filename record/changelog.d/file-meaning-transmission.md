@@ -23,19 +23,19 @@
   - Notes on [QUESTION-285](record/questions.d/QUESTION-285.md) (a cross-line account, and the ruling it needs)
     and on [CLAIM-632](record/claims.d/CLAIM-632.md) and [CASE-tmpl4kyp](record/cases.d/CASE-tmpl4kyp.md) (the alarm chain as readiness).
 
-- At the review of #483 the owner relayed on 2026-11-12: ARG-tmpkk8m0
-  (the factive reading under a validated guarantee), CASE-tmp4gw3m (the
-  fail-safe relay), ARG-tmp27nss (Rejected: non-factivity to intentional
-  origin) and CASE-tmp5ijqy (a proposed study of an adaptive forager).
+- At the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12: [ARG-tmpkk8m0](record/arguments.d/ARG-tmpkk8m0.md)
+  (the factive reading under a validated guarantee), [CASE-tmp4gw3m](record/cases.d/CASE-tmp4gw3m.md) (the
+  fail-safe relay), [ARG-tmp27nss](record/arguments.d/ARG-tmp27nss.md) (Rejected: non-factivity to intentional
+  origin) and [CASE-tmp5ijqy](record/cases.d/CASE-tmp5ijqy.md) (a proposed study of an adaptive forager).
 
 ### Changed
 
 - Fifteen dated notes of 2026-11-12 on the entries the exchange bears on,
   [QUESTION-285](record/questions.d/QUESTION-285.md) and [QUESTION-128](record/questions.d/QUESTION-128.md) among them.
 - [THEORY-220](record/theory.d/THEORY-220.md) bears on [QUESTION-128](record/questions.d/QUESTION-128.md) (version 5).
-- Revised at that review: CLAIM-tmpkr3ti (defeasible and factive
-  readings), CLAIM-tmpz1xb5 (narrowed to bounded non-response) and
-  CLAIM-tmpqboxc (correctness kept apart from the source of the norm),
-  with ARG-tmpwo5na, ARG-tmpbyj2f, ARG-tmpcd9j9, CASE-tmpaky45,
-  CASE-tmpl4kyp and the notes on THEORY-444, QUESTION-285 and
-  QUESTION-128.
+- Revised at that review: [CLAIM-tmpkr3ti](record/claims.d/CLAIM-tmpkr3ti.md) (defeasible and factive
+  readings), [CLAIM-tmpz1xb5](record/claims.d/CLAIM-tmpz1xb5.md) (narrowed to bounded non-response) and
+  [CLAIM-tmpqboxc](record/claims.d/CLAIM-tmpqboxc.md) (correctness kept apart from the source of the norm),
+  with [ARG-tmpwo5na](record/arguments.d/ARG-tmpwo5na.md), [ARG-tmpbyj2f](record/arguments.d/ARG-tmpbyj2f.md), [ARG-tmpcd9j9](record/arguments.d/ARG-tmpcd9j9.md), [CASE-tmpaky45](record/cases.d/CASE-tmpaky45.md),
+  [CASE-tmpl4kyp](record/cases.d/CASE-tmpl4kyp.md) and the notes on [THEORY-444](record/theory.d/THEORY-444.md), [QUESTION-285](record/questions.d/QUESTION-285.md) and
+  [QUESTION-128](record/questions.d/QUESTION-128.md).

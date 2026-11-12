@@ -100,7 +100,7 @@ detector does too.
 - **That an absence can carry the meaning (the owner's point).** The
   detector emits nothing. What the debugger reads is a non-event, and it
   reads it as evidence only because the debugger put an intervention
-  with an expected response to the system. CLAIM-tmpkr3ti states it in
+  with an expected response to the system. [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md) states it in
   two readings: under a probabilistic response model the silence shifts
   support toward a fault, and only under a deterministic, independently
   validated guarantee does it entail that the guarantee was violated.

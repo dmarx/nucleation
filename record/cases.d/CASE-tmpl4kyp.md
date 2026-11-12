@@ -93,7 +93,7 @@ Rechecked on 2026-11-12 with a short script from A's stated assumptions
    99.49%. That prior already gives a fault 0.8 before any test; A10
    calls it "an illustrative uniform prior". After all four probes return the sensor
    pattern, P(sensor failed) = 0.9604/1.0004 ≈ 96.00%.
-   These are the defeasible reading of CLAIM-tmpkr3ti at work. The silence
+   These are the defeasible reading of [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md) at work. The silence
    shifts support by its likelihood ratio and entails nothing: with a 2%
    error rate, a healthy chain is silent under test one time in fifty.
 3. **Detecting against using (A10 §3).** With a faulty sensor, an
