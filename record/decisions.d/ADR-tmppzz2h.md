@@ -30,7 +30,7 @@ summary: >-
 
 The filing of the exchange "luria experiment design" (2026-11-10,
 https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda; curation
-entry of 2026-11-12, pull request #484) verified the identifiers of two
+entry of 2026-11-12, pull request [#484](https://github.com/dmarx/nucleation/issues/484)) verified the identifiers of two
 works A cited at A50 and did not register them:
 
 - Chen, Kuo, Liu et al., "Metamorphic Testing: A Review of Challenges and
@@ -48,11 +48,11 @@ inference), `databases` (how stored data is organized) and
 `design-rationale` (recording reasons for a design). None names what the
 works are about. The filer listed the two as left and offered the word as
 one of its own ideas; the owner accepted those ideas ("file their ideas
-too, I like ideas"). ADR-062 records the owner's word that the vocabulary
+too, I like ideas"). [ADR-062](ADR-062.md) records the owner's word that the vocabulary
 may be expanded where merited.
 
 The record already held works of this kind without a word: the vision of
-autonomic computing (LIT-2312) and models at run time (LIT-2305), filed on
+autonomic computing ([LIT-2312](../literature.d/LIT-2312.md)) and models at run time ([LIT-2305](../literature.d/LIT-2305.md)), filed on
 2026-11-10 under `control-theory` with `complex-systems` and
 `design-rationale`.
 
@@ -72,15 +72,15 @@ software is specified, built, tested and changed. It covers:
 How it is applied:
 
 - **First** on the two works held back, now registered Deferred:
-  LIT-tmp8v1tl (Chen et al.) and LIT-tmpiyp1o (Kiczales et al.), where it
+  [LIT-tmp8v1tl](../literature.d/LIT-tmp8v1tl.md) (Chen et al.) and [LIT-tmpiyp1o](../literature.d/LIT-tmpiyp1o.md) (Kiczales et al.), where it
   is the only word and the primary.
-- **Beside the existing tags** of LIT-2312 and LIT-2305, whose subject it
+- **Beside the existing tags** of [LIT-2312](../literature.d/LIT-2312.md) and [LIT-2305](../literature.d/LIT-2305.md), whose subject it
   is. Nothing removed, primaries unchanged; each takes a version bump.
 - **Not** to ontology and schema change read as the organization of
-  stored data, which stays with `databases`, as KGCL (LIT-2313) and
-  EvoOntology (LIT-2311) are filed; nor to benchmarks of coding agents,
+  stored data, which stays with `databases`, as KGCL ([LIT-2313](../literature.d/LIT-2313.md)) and
+  EvoOntology ([LIT-2311](../literature.d/LIT-2311.md)) are filed; nor to benchmarks of coding agents,
   which are machine-learning evaluation and belong to the anthology
-  (ADR-048). COPE, filed from the same exchange in pull request #484 under
+  ([ADR-048](ADR-048.md)). COPE, filed from the same exchange in pull request [#484](https://github.com/dmarx/nucleation/issues/484) under
   `databases` and `design-rationale`, can take the word beside its tags
   once both are merged.
 
