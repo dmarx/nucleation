@@ -23,14 +23,14 @@ keywords: []
 implementations: []
 summary: >-
   Davoudabadi et al. (2026), DOI-10.1038/s41598-026-37793-4. Read on
-  2026-11-12 in NOTE-tmp64zjh: The authors propose a recommender that scores
+  2026-11-12 in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md): The authors propose a recommender that scores
   each candidate item for a user by combining (a) a user-side score and (b)
   an organization-side score. User side: a reference point built from the
   user's peak and most recent purchase utilities (peak-end rule), item
   distances to it split into gains and losses with a prospect-theory-style
   value function (the EXPTODIM method), and a "user flexibility" index from
   the diversity of the user's past purchases. Its account is
-  THEORY-tmpqc85l. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpqc85l](../theory.d/THEORY-tmpqc85l.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A42 §4.
 ---
 <!-- inactive-ok-file: THEORY-tmpqc85l — Proposed; filed from the same exchange -->
@@ -41,7 +41,7 @@ Reza Davoudabadi, Ahmad Makui and Mohammad R. Rasouli (2026). "Introducing a pre
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp64zjh). A scoring scheme in which an
+Read on 2026-11-12 ([NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md)). A scoring scheme in which an
 organization's operational state, and both parties' "flexibility", set the
 trade-off between user preference and organizational need, intended to steer
 demand toward items the organization can supply.
@@ -50,5 +50,5 @@ demand toward items the organization can supply.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §4. It bears on [CLAIM-347](../claims.d/CLAIM-347.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp64zjh and its account
-THEORY-tmpqc85l.
+Read on 2026-11-12; the reading is [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) and its account
+[THEORY-tmpqc85l](../theory.d/THEORY-tmpqc85l.md).

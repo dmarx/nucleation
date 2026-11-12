@@ -27,7 +27,7 @@ keywords: []
 implementations: []
 summary: >-
   Rockström et al. (2026), DOI-10.1029/2025ef006976. Read on 2026-11-12 in
-  NOTE-tmpyn25j: A commentary setting out the Earth Commission's second
+  [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md): A commentary setting out the Earth Commission's second
   phase (2024–2027). It recaps the first phase: "safe" Earth system
   boundaries (protecting Earth-system resilience) and "just" boundaries
   (minimizing significant harm to people and ecosystems, by the "3 I"
@@ -35,7 +35,7 @@ summary: >-
   quantified for climate, biosphere, nutrients (N, P), freshwater and
   aerosols, globally and sub-globally; and "just access", minimum resource
   thresholds for a dignified life, forming the floor. Its account is
-  THEORY-tmpgvn5u. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpgvn5u](../theory.d/THEORY-tmpgvn5u.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A42 §5.
 ---
 <!-- inactive-ok-file: THEORY-tmpgvn5u — Proposed; filed from the same exchange -->
@@ -46,7 +46,7 @@ Johan Rockström, Fatima Denton, Albert V. Norström, Jesse F. Abrams, Lubna Ala
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpyn25j). A programmatic statement of how the
+Read on 2026-11-12 ([NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md)). A programmatic statement of how the
 Commission will turn its safe-and-just boundaries into allocated,
 actor-level budgets and transformation pathways, with justice treated as a
 structural condition, not an add-on. No new data ("Data were not used, nor
@@ -56,5 +56,5 @@ created, for this research.").
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpyn25j and its account
-THEORY-tmpgvn5u.
+Read on 2026-11-12; the reading is [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md) and its account
+[THEORY-tmpgvn5u](../theory.d/THEORY-tmpgvn5u.md).

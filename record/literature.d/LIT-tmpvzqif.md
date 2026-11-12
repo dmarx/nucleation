@@ -57,7 +57,7 @@ Read on 2026-11-12; the reading is [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md) 
 
 ## Note of 2026-11-12: Rockström, Denton, Norström et al., read
 
-From the reading in NOTE-tmpyn25j (LIT-tmpmcbfb), the reader's assessment as
+From the reading in [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md) ([LIT-tmpmcbfb](LIT-tmpmcbfb.md)), the reader's assessment as
 checked by the filer: the companion framework the Commission cites as origin
-("Donut or well‐being economics"); both bear on QUESTION-tmpuftum from A42
+("Donut or well‐being economics"); both bear on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md) from A42
 §5.

@@ -46,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdcebe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpk0xvf LIT-tmpw11wj — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpifp69: The selection that lets economically weighted demand set a product's design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them
 
@@ -194,7 +194,7 @@ names.
 
 ## Note of 2026-11-12: Gao, Lee and Murphy, read
 
-From the reading in NOTE-tmpf5h7u (LIT-tmpn09dd), the reader's assessment as
+From the reading in [NOTE-tmpf5h7u](../notes.d/NOTE-tmpf5h7u.md) ([LIT-tmpn09dd](../literature.d/LIT-tmpn09dd.md)), the reader's assessment as
 checked by the filer: **supports the externality step (step 2) and bears on
 the claim's defeater; does not bear on attention optimization.** The paper
 measures a public value of local news that the newspaper does not capture:
@@ -213,14 +213,14 @@ paper is about closure, not clickbait.
 
 ## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
 
-From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
 checked by the filer: only loosely; this is a recommender that openly lets
 supply-side state steer what users are offered, a benign
 manufacturing-capacity version of the steering those claims are about.
 
 ## Note of 2026-11-12: Robertson et al., read
 
-From the reading in NOTE-tmpyh8fv (LIT-tmpox72u), the reader's assessment as
+From the reading in [NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md) ([LIT-tmpox72u](../literature.d/LIT-tmpox72u.md)), the reader's assessment as
 checked by the filer: **supports step 1 narrowly (selection at the level of
 packaging), leaves the rest open.** The paper shows a reliable, causal
 incentive for negative wording at the headline level, and that a firm
@@ -237,14 +237,14 @@ journalism".
 
 ## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
 
-From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
 checked by the filer: the feed demotes news-organization posts by 58% and
 raises engagement, consistent with the claims' selection picture at the
 distribution layer; no bearing on investigative capacity.
 
 ## Note of 2026-11-12: Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read
 
-From the reading in NOTE-tmpn7tu4 (LIT-tmpu8oxs), the reader's assessment as
+From the reading in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md) ([LIT-tmpu8oxs](../literature.d/LIT-tmpu8oxs.md)), the reader's assessment as
 checked by the filer: **supports the mechanism qualitatively, at the
 distribution level.** Interviewees and cited work report that platform
 visibility rewards engagement and leaves low-engagement news (local

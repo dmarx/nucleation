@@ -16,7 +16,7 @@ promote_when: >-
   emissions, or later trial reports confirm incomplete hearing restoration
   in a majority of treated children.
 summary: >-
-  Reisinger and Cederroth, read in NOTE-tmpzvur2 (Read). Comments on the
+  Reisinger and Cederroth, read in [NOTE-tmpzvur2](../notes.d/NOTE-tmpzvur2.md) (Read). Comments on the
   FDA's approval (announced 23 April 2026) of Regeneron's Otarmeni, the
   first gene therapy for a genetic hearing loss (DFNB9, OTOF), and on
   convergent results from other programmes. Because the therapy is
@@ -34,4 +34,4 @@ Reisinger and Cederroth (2026) argue that the FDA's approval of the OTOF gene th
 
 ## Evidence
 
-The reading in NOTE-tmpzvur2; its key results are quoted there with locations.
+The reading in [NOTE-tmpzvur2](../notes.d/NOTE-tmpzvur2.md); its key results are quoted there with locations.

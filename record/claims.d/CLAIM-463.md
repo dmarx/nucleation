@@ -180,7 +180,7 @@ assertion of path dependence, not a demonstration.
 
 ## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
 
-From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
 checked by the filer: **qualifies / leaves open.** The asymmetry is
 suggestive of the claim's pattern (removing the algorithm does not undo its
 effect, because follows formed under it keep supplying the same content),

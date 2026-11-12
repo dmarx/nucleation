@@ -75,7 +75,7 @@ experiment may induce harmful spending. The method's source,
 
 ## Note of 2026-11-12: Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel, read
 
-From the reading in NOTE-tmp4nq1v (LIT-tmpls9sm), the reader's assessment as
+From the reading in [NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md) ([LIT-tmpls9sm](../literature.d/LIT-tmpls9sm.md)), the reader's assessment as
 checked by the filer: this paper supplies a candidate inventory of game
 mechanics for that study's treatment variables (no spending limits, pay to
 skip, daily rewards); it does not measure efficacy of commitments.

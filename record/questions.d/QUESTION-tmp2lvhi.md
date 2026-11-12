@@ -144,7 +144,7 @@ recheck):
 
 ## Note of 2026-11-12: Dræbel, Sørensen and Meyrowitsch, read
 
-From the reading in NOTE-tmp1hpuh (LIT-tmp5c0j0), the reader's assessment as
+From the reading in [NOTE-tmp1hpuh](../notes.d/NOTE-tmp1hpuh.md) ([LIT-tmp5c0j0](../literature.d/LIT-tmp5c0j0.md)), the reader's assessment as
 checked by the filer: **bears on "the relation between them" as a candidate
 ground, descriptively.** Parents here justify their authority not by the
 child's welfare or projected wishes but by the relation (enrolling the son
@@ -156,7 +156,7 @@ concerns interviewees).
 
 ## Note of 2026-11-12: Reisinger and Cederroth, read
 
-From the reading in NOTE-tmpzvur2 (LIT-tmp78hbp), the reader's assessment as
+From the reading in [NOTE-tmpzvur2](../notes.d/NOTE-tmpzvur2.md) ([LIT-tmp78hbp](../literature.d/LIT-tmp78hbp.md)), the reader's assessment as
 checked by the filer: slight. The editorial treats the decision as the
 family's ("families that choose or decline gene therapy") and makes the
 clinical pathway time-pressed (diagnose before implanting), which narrows

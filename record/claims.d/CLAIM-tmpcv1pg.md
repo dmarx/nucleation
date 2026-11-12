@@ -199,22 +199,22 @@ here.
 
 ## Note of 2026-11-12: Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel, read
 
-From the reading in NOTE-tmp4nq1v (LIT-tmpls9sm), the reader's assessment as
+From the reading in [NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md) ([LIT-tmpls9sm](../literature.d/LIT-tmpls9sm.md)), the reader's assessment as
 checked by the filer: no direct bearing; the paper does not examine who pays
 or how designs change across releases. Its "value degradation" category
-(older items lose value after updates) is the mechanism CASE-tmpmw3hc
+(older items lose value after updates) is the mechanism [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md)
 proposes to track.
 
 ## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
 
-From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
 checked by the filer: only loosely; this is a recommender that openly lets
 supply-side state steer what users are offered, a benign
 manufacturing-capacity version of the steering those claims are about.
 
 ## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
 
-From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
 checked by the filer: the feed demotes news-organization posts by 58% and
 raises engagement, consistent with the claims' selection picture at the
 distribution layer; no bearing on investigative capacity.

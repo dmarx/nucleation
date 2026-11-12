@@ -257,7 +257,7 @@ be filed.
 
 ## Note of 2026-11-12: Étienne Brown, read
 
-From the reading in NOTE-tmpxfciy (LIT-tmpnk945), the reader's assessment as
+From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
 checked by the filer: **leaves open; adds a relational-epistemic dimension
 the line lacks.** Brown's volitional alignment is the Frankfurtian hierarchy
 the line's ownership account goes beyond, and he does not address the

@@ -23,7 +23,7 @@ keywords: []
 implementations: []
 summary: >-
   Gao et al. (2020), DOI-10.1016/j.jfineco.2019.06.003. Skimmed on
-  2026-11-12 in NOTE-tmpf5h7u: Using U.S. daily newspaper data (1996–2015;
+  2026-11-12 in [NOTE-tmpf5h7u](../notes.d/NOTE-tmpf5h7u.md): Using U.S. daily newspaper data (1996–2015;
   1,596 newspapers in 1,266 counties; 296 exits) and municipal bond data
   (MSRB, 1999–2015), the authors study the long-run effect of local
   newspaper closures on municipal borrowing costs. Focusing on closures that
@@ -31,7 +31,7 @@ summary: >-
   find offering yields rise by about 5.5 bp and secondary yields by 6.4 bp
   three or more years after a closure, more for revenue bonds (about 10 bp),
   costing about $650 thousand per average issue. Its account is
-  THEORY-tmp9nkgq. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmp9nkgq](../theory.d/THEORY-tmp9nkgq.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A33 §6.
 ---
 <!-- inactive-ok-file: NOTE-tmpf5h7u — Skimmed; the reading filed from the same exchange -->
@@ -44,7 +44,7 @@ Pengjie Gao, Chang Lee and Dermot Murphy (2020). "Financing dies in darkness? Th
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpf5h7u). Evidence that the local press's
+Skimmed on 2026-11-12 ([NOTE-tmpf5h7u](../notes.d/NOTE-tmpf5h7u.md)). Evidence that the local press's
 monitoring of government has a measurable price in public finance, with
 several identification strategies, extending the media-and-governance
 literature from corporate to municipal finance.
@@ -53,5 +53,5 @@ literature from corporate to municipal finance.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §6. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpf5h7u and its account
-THEORY-tmp9nkgq.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpf5h7u](../notes.d/NOTE-tmpf5h7u.md) and its account
+[THEORY-tmp9nkgq](../theory.d/THEORY-tmp9nkgq.md).

@@ -208,7 +208,7 @@ record is their likely home; none is filed here.
 
 ## Note of 2026-11-12: Robertson et al., read
 
-From the reading in NOTE-tmpyh8fv (LIT-tmpox72u), the reader's assessment as
+From the reading in [NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md) ([LIT-tmpox72u](../literature.d/LIT-tmpox72u.md)), the reader's assessment as
 checked by the filer: a neighbouring negativity-bias result in a different
 behaviour (recall/transmission vs consumption). Compatible; the authors'
 consumption-vs-sharing distinction is a reason not to merge the two.

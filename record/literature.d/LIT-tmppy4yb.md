@@ -26,14 +26,14 @@ keywords: []
 implementations: []
 summary: >-
   Kara et al. (2012), DOI-10.1161/circresaha.111.249037. Read on 2026-11-12
-  in NOTE-tmp0oc9n: In a mouse model, wild-type virgin females mated with
+  in [NOTE-tmp0oc9n](../notes.d/NOTE-tmp0oc9n.md): In a mouse model, wild-type virgin females mated with
   eGFP-transgenic males had a left anterior descending artery ligation
   (myocardial infarction) at gestation day 12. eGFP-tagged cells of fetal
   origin were then tracked in the mother. Fetal cells were enriched in
   injured hearts relative to sham and uninjured controls, located in infarct
   and peri-infarct zones, and by 3–4 weeks co-expressed markers of
   cardiomyocytes, smooth muscle and endothelium. Its account is
-  THEORY-tmpre3ob. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpre3ob](../theory.d/THEORY-tmpre3ob.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A13 §2.
 ---
 <!-- inactive-ok-file: THEORY-tmpre3ob — Proposed; filed from the same exchange -->
@@ -45,7 +45,7 @@ Rina J. Kara, Paola Bolli, Ioannis Karakikes, Iwao Matsunaga, Joseph Tripodi, Om
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp0oc9n). An experimental demonstration (mouse)
+Read on 2026-11-12 ([NOTE-tmp0oc9n](../notes.d/NOTE-tmp0oc9n.md)). An experimental demonstration (mouse)
 that fetal microchimeric cells are recruited selectively to an injured
 maternal organ and differentiate there into functional tissue types, with
 Cdx2+ (placental/trophoblast-associated) cells proposed as a candidate cell
@@ -55,5 +55,5 @@ type for cardiac regenerative therapy.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp0oc9n and its account
-THEORY-tmpre3ob.
+Read on 2026-11-12; the reading is [NOTE-tmp0oc9n](../notes.d/NOTE-tmp0oc9n.md) and its account
+[THEORY-tmpre3ob](../theory.d/THEORY-tmpre3ob.md).

@@ -24,7 +24,7 @@ keywords: []
 implementations: []
 summary: >-
   Gutiérrez-Manjón et al. (2026), DOI-10.51698/tripodos.2026.59.05. Read on
-  2026-11-12 in NOTE-tmp4nq1v: The authors build a taxonomy of
+  2026-11-12 in [NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md): The authors build a taxonomy of
   monetization-oriented dark patterns in games from the literature (starting
   from DarkPattern.games and Zagal, Björk and Lewis 2013), in three blocks:
   temporal (playing by appointment, daily rewards, grinding, infinite
@@ -35,7 +35,7 @@ summary: >-
   degradation, accidental purchases) and social (social obligation, forced
   recruitment, incentives for antisocial behaviour, competitive pressure). A
   fourth, cognitive-emotional block was dropped as describing goals rather
-  than observable mechanics. Its account is THEORY-tmpi8udk. Registered from
+  than observable mechanics. Its account is [THEORY-tmpi8udk](../theory.d/THEORY-tmpi8udk.md). Registered from
   the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
   where A cited it at A25 §4.
 ---
@@ -47,7 +47,7 @@ Sergio Gutiérrez-Manjón, Salvador Gómez-García and Gema Bonales-Daimiel (202
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp4nq1v). An updated, three-dimension taxonomy of
+Read on 2026-11-12 ([NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md)). An updated, three-dimension taxonomy of
 game dark patterns with key references, one new category (automated play),
 and a presence/absence census of it in the commercially leading GaaS titles
 of 2024; plus a terminological proposal.
@@ -56,5 +56,5 @@ of 2024; plus a terminological proposal.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §4. It bears on [LIT-1465](LIT-1465.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp4nq1v and its account
-THEORY-tmpi8udk.
+Read on 2026-11-12; the reading is [NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md) and its account
+[THEORY-tmpi8udk](../theory.d/THEORY-tmpi8udk.md).

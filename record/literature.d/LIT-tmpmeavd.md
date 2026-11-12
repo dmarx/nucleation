@@ -55,7 +55,7 @@ From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda]
 checked by the filer: and **[LIT-tmpapwfu](LIT-tmpapwfu.md)** (Millum, "No Right to an Open
 Future", branch, unread): the nearest neighbours on both sides.
 
-Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmp5c0j0. The
+Unavailable on 2026-11-12. Neighbour read in its place: [LIT-tmp5c0j0](LIT-tmp5c0j0.md). The
 reader on how far it stands in: - **Read:** Dræbel, Sørensen and Meyrowitsch
 (2025), "Meaning and value attributed to non-therapeutic circumcision of
 boys among Danish parents of Jewish Origin: The formation of parents and

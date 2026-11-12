@@ -55,7 +55,7 @@ DFNB9 / otoferlin; dual-AAV gene therapy; time-sensitive window; genetic diagnos
 
 ## Bearing on the record
 
-- **QUESTION-tmp2lvhi**: slight. The editorial treats the decision as the family's ("families that choose or decline gene therapy") and makes the clinical pathway time-pressed (diagnose before implanting), which narrows the window in which parents decide for an infant; it names the Deaf community as a party whose perspective should be in the foreground, which bears on whether the child's "welfare" is a neutral ground. No argument about legitimacy of surrogate authority.
+- **[QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md)**: slight. The editorial treats the decision as the family's ("families that choose or decline gene therapy") and makes the clinical pathway time-pressed (diagnose before implanting), which narrows the window in which parents decide for an infant; it names the Deaf community as a party whose perspective should be in the foreground, which bears on whether the child's "welfare" is a neutral ground. No argument about legitimacy of surrogate authority.
 
 Searched record/ (batch ref) for "OTOF", "Otarmeni", "cochlear", "Deaf": not held.
 

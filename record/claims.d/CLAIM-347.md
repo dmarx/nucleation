@@ -433,7 +433,7 @@ relief").
 
 ## Note of 2026-11-12: Rockström, Denton, Norström et al., read
 
-From the reading in NOTE-tmpyn25j (LIT-tmpmcbfb), the reader's assessment as
+From the reading in [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md) ([LIT-tmpmcbfb](../literature.d/LIT-tmpmcbfb.md)), the reader's assessment as
 checked by the filer: the recapped result that meeting minimum access for
 the poorest "would cause further transgressions" under current inequality is
 a case of jointly unsatisfiable demands (floor vs ceiling) for given
@@ -443,7 +443,7 @@ Illustrative only; no ordinal analysis.
 
 ## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
 
-From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
 checked by the filer: **leaves open; serves at most as a contrast case.**
 The model resolves user–organization conflict by a weighted sum whose
 weights are set by "flexibility", i.e. by discounting whichever party can

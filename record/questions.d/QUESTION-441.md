@@ -115,13 +115,13 @@ as practice-level checks, not an organization's counter-normativity.
 
 ## Note of 2026-11-12: Robertson et al., read
 
-From the reading in NOTE-tmpyh8fv (LIT-tmpox72u), the reader's assessment as
+From the reading in [NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md) ([LIT-tmpox72u](../literature.d/LIT-tmpox72u.md)), the reader's assessment as
 checked by the filer: only via the claim; the paper is about reader
 behaviour, not organizational counter-normativity.
 
 ## Note of 2026-11-12: Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read
 
-From the reading in NOTE-tmpn7tu4 (LIT-tmpu8oxs), the reader's assessment as
+From the reading in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md) ([LIT-tmpu8oxs](../literature.d/LIT-tmpu8oxs.md)), the reader's assessment as
 checked by the filer: weak bearing; the paper describes where visibility
 criteria come from (platforms, marketing, editors) but not
 counter-normativity.

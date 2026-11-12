@@ -54,7 +54,7 @@ Ellen Reisinger, Hans-Jörg Ehni, Oliver Feeney and Urban Wiesing (2025). "Timel
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §4. It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
 
-Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmp78hbp. The
+Unavailable on 2026-11-12. Neighbour read in its place: [LIT-tmp78hbp](LIT-tmp78hbp.md). The
 reader on how far it stands in: - **Read:** Reisinger and Cederroth (2026),
 "FDA Approval of the Congenital OTOF Gene Therapy Otarmeni Reshapes the
 Future of Hearing Care", editorial, *Journal of the Association for Research

@@ -128,7 +128,7 @@ formation and exercise are reserved to the child.
 
 ## Note of 2026-11-12: Dræbel, Sørensen and Meyrowitsch, read
 
-From the reading in NOTE-tmp1hpuh (LIT-tmp5c0j0), the reader's assessment as
+From the reading in [NOTE-tmp1hpuh](../notes.d/NOTE-tmp1hpuh.md) ([LIT-tmp5c0j0](../literature.d/LIT-tmp5c0j0.md)), the reader's assessment as
 checked by the filer: the parents' account is of an authorization formed by
 others (parents, community) in order to form the child's membership, the
 case the question's note calls formation by another.

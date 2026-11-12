@@ -61,7 +61,7 @@ exchange.
 
 ## Note of 2026-11-12: Md Fahim Sikder, read
 
-From the reading in NOTE-tmppe0ip (LIT-tmppyl6o), the reader's assessment as
-checked by the filer: and **LIT-tmp14en7** ("Auditing Predictive Models for
+From the reading in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md) ([LIT-tmppyl6o](LIT-tmppyl6o.md)), the reader's assessment as
+checked by the filer: and **[LIT-tmp14en7](LIT-tmp14en7.md)** ("Auditing Predictive Models for
 Intersectional Biases", Deferred) (found on recheck): the closest held
 works; FairCert would sit beside them.

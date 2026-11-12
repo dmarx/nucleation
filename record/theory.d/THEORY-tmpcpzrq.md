@@ -19,7 +19,7 @@ promote_when: >-
   an empirical study finds users drawing self-attributions from
   recommendations whose accuracy depends on explanation.
 summary: >-
-  Étienne Brown, read in NOTE-tmpxfciy (Read). Brown argues that recommender
+  Étienne Brown, read in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) (Read). Brown argues that recommender
   systems affect users' capacity to be their authentic selves, both
   negatively and positively. He offers a "minimal", multi-dimensional
   account of authenticity with two dimensions: volitional alignment
@@ -37,4 +37,4 @@ Brown (2025) argues that recommender systems bear on authenticity in two opposed
 
 ## Evidence
 
-The reading in NOTE-tmpxfciy; its key results are quoted there with locations.
+The reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md); its key results are quoted there with locations.

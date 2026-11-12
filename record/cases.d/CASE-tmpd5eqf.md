@@ -106,7 +106,7 @@ paid demand cannot register.
 
 ## Note of 2026-11-12: Gao, Lee and Murphy, read
 
-From the reading in NOTE-tmpf5h7u (LIT-tmpn09dd), the reader's assessment as
+From the reading in [NOTE-tmpf5h7u](../notes.d/NOTE-tmpf5h7u.md) ([LIT-tmpn09dd](../literature.d/LIT-tmpn09dd.md)), the reader's assessment as
 checked by the filer: the paper's anecdotes (Bell, California; Rocky
 Mountain News) illustrate the cost side of missing monitoring, not the
 case's demand-reading loop.

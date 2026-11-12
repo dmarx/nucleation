@@ -28,14 +28,14 @@ keywords: []
 implementations: []
 summary: >-
   Brown (2025), DOI-10.1017/apa.2025.10009. Read on 2026-11-12 in
-  NOTE-tmpxfciy: Brown argues that recommender systems affect users'
+  [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md): Brown argues that recommender systems affect users'
   capacity to be their authentic selves, both negatively and positively. He
   offers a "minimal", multi-dimensional account of authenticity with two
   dimensions: volitional alignment (Frankfurt, via Rings: acting on
   first-order desires one reflectively endorses at second order) and
   self-understanding (an epistemic dimension, relational rather than purely
   introspective: others' testimony and recommendations are a source of
-  self-knowledge). Its account is THEORY-tmpcpzrq. Registered from the
+  self-knowledge). Its account is [THEORY-tmpcpzrq](../theory.d/THEORY-tmpcpzrq.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A21 §2.
 ---
@@ -48,7 +48,7 @@ summary: >-
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpxfciy). Puts the authenticity question to
+Read on 2026-11-12 ([NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md)). Puts the authenticity question to
 recommender systems with a two-dimension account, identifies a positive
 (self-understanding) as well as a negative (volitional misalignment) effect,
 and derives a specific requirement for explainability: users must be told
@@ -58,5 +58,5 @@ what "similar" means in "similar users".
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §2. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [SYNTHESIS-023](../syntheses.d/SYNTHESIS-023.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpxfciy and its account
-THEORY-tmpcpzrq.
+Read on 2026-11-12; the reading is [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) and its account
+[THEORY-tmpcpzrq](../theory.d/THEORY-tmpcpzrq.md).

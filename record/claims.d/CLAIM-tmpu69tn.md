@@ -189,7 +189,7 @@ parasitoid.
 
 ## Note of 2026-11-12: Kara et al., read
 
-From the reading in NOTE-tmp0oc9n (LIT-tmppy4yb), the reader's assessment as
+From the reading in [NOTE-tmp0oc9n](../notes.d/NOTE-tmp0oc9n.md) ([LIT-tmppy4yb](../literature.d/LIT-tmppy4yb.md)), the reader's assessment as
 checked by the filer: bears as an example. The authors' framing ("the fetus
 assists in protecting the mother's heart") is an interest attribution the
 experiment does not test; the cells' origin is foreign, their effect

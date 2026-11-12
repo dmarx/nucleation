@@ -181,7 +181,7 @@ third step (causal contribution to host function) for tolerance only.
 
 ## Note of 2026-11-12: Kara et al., read
 
-From the reading in NOTE-tmp0oc9n (LIT-tmppy4yb), the reader's assessment as
+From the reading in [NOTE-tmp0oc9n](../notes.d/NOTE-tmp0oc9n.md) ([LIT-tmppy4yb](../literature.d/LIT-tmppy4yb.md)), the reader's assessment as
 checked by the filer: **supports the premise, in part, and leaves the
 conclusion open.** It is direct experimental evidence (in mice) that
 fetal-origin cells in the mother are not inert: they are recruited to a
@@ -190,7 +190,7 @@ in vitro, connexin 43). That is "taking part" in the host's maintenance
 (repair) rather than regulation narrowly, and only over weeks, not decades;
 it does not itself show long-term persistence (the claim's "for decades"
 rests elsewhere). Nothing in it bears on whether individuality is *graded*;
-ARG-tmp51yxc's split (incomplete cellular separation established; gradedness
+[ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)'s split (incomplete cellular separation established; gradedness
 open) holds unchanged. A caution for the claim's defeater "do no regulatory
 work in any host": this paper shows repair/differentiation work in a mouse
 host, so it counts against that defeater for mice only.

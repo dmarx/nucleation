@@ -33,8 +33,8 @@ summary: >-
   public debate on banning non-therapeutic circumcision of boys: parents
   describe it as inevitable, a rite through which they become a
   Danish-Jewish family and enrol the son in its history. A partial neighbour
-  for LIT-tmpmeavd, on the parental side only. Read on 2026-11-12 in
-  NOTE-tmp1hpuh: Twenty semi-structured interviews (2017–2021) with Danish
+  for [LIT-tmpmeavd](LIT-tmpmeavd.md), on the parental side only. Read on 2026-11-12 in
+  [NOTE-tmp1hpuh](../notes.d/NOTE-tmp1hpuh.md): Twenty semi-structured interviews (2017–2021) with Danish
   parents of Jewish background (12 fathers, 8 mothers; 18 chose
   circumcision, 2 did not), analysed with Antonovsky's Sense of Coherence
   and Davies and Harré's positioning theory, against the background of a
@@ -43,7 +43,7 @@ summary: >-
   criminalize it. Parents describe NTCB as "inevitable", a taken-for-granted
   ritual and a rite of passage through which they become Danish-Jewish
   parents and a family and enrol the son in the family biography, whether or
-  not they are religious. Its account is THEORY-tmp7c466.
+  not they are religious. Its account is [THEORY-tmp7c466](../theory.d/THEORY-tmp7c466.md).
 ---
 <!-- inactive-ok-file: LIT-tmpmeavd — Unavailable; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp7c466 — Proposed; filed from the same exchange -->
@@ -62,9 +62,9 @@ not a decision weighed case by case.
 
 ## Standing in the record
 
-Registered as a partial neighbour for LIT-tmpmeavd: it is an interview study
+Registered as a partial neighbour for [LIT-tmpmeavd](LIT-tmpmeavd.md): it is an interview study
 of one religious context, not a review or an ethical argument, and stands in
 for none of that review's findings.
 
-Read on 2026-11-12; the reading is NOTE-tmp1hpuh and its account
-THEORY-tmp7c466.
+Read on 2026-11-12; the reading is [NOTE-tmp1hpuh](../notes.d/NOTE-tmp1hpuh.md) and its account
+[THEORY-tmp7c466](../theory.d/THEORY-tmp7c466.md).

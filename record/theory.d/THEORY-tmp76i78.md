@@ -16,7 +16,7 @@ promote_when: >-
   groups, or an LLM classifier's certified gap differing materially across
   domains.
 summary: >-
-  Md Fahim Sikder, read in NOTE-tmppe0ip (Read). FairCert is a black-box
+  Md Fahim Sikder, read in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md) (Read). FairCert is a black-box
   audit pipeline that turns per-group false-positive-rate (FPR) and
   true-positive-rate (TPR) gaps into finite-sample certificates. Five
   stages: a stratified split with a walled-off 15% audit set; LLM-guided
@@ -38,4 +38,4 @@ Sikder (2026) argues that a point estimate of an error-rate gap does not certify
 
 ## Evidence
 
-The reading in NOTE-tmppe0ip; its key results are quoted there with locations.
+The reading in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md); its key results are quoted there with locations.

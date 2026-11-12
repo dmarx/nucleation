@@ -134,7 +134,7 @@ in design (one release), so it does not test drift across releases.
 
 ## Note of 2026-11-12: Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel, read
 
-From the reading in NOTE-tmp4nq1v (LIT-tmpls9sm), the reader's assessment as
+From the reading in [NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md) ([LIT-tmpls9sm](../literature.d/LIT-tmpls9sm.md)), the reader's assessment as
 checked by the filer: no direct bearing; the paper does not examine who pays
 or how designs change across releases. Its "value degradation" category
 (older items lose value after updates) is the mechanism CASE-tmpmw3hc

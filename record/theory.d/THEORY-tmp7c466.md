@@ -15,7 +15,7 @@ promote_when: >-
   for religious or cultural reasons finds it justified mainly by family and
   community belonging rather than health.
 summary: >-
-  Dræbel, Sørensen and Meyrowitsch, read in NOTE-tmp1hpuh (Read). Twenty
+  Dræbel, Sørensen and Meyrowitsch, read in [NOTE-tmp1hpuh](../notes.d/NOTE-tmp1hpuh.md) (Read). Twenty
   semi-structured interviews (2017–2021) with Danish parents of Jewish
   background (12 fathers, 8 mothers; 18 chose circumcision, 2 did not),
   analysed with Antonovsky's Sense of Coherence and Davies and Harré's
@@ -35,4 +35,4 @@ Dræbel, Sørensen and Meyrowitsch (2025) find in interviews with 20 Danish pare
 
 ## Evidence
 
-The reading in NOTE-tmp1hpuh; its key results are quoted there with locations.
+The reading in [NOTE-tmp1hpuh](../notes.d/NOTE-tmp1hpuh.md); its key results are quoted there with locations.

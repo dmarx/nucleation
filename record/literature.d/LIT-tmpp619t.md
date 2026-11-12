@@ -49,7 +49,7 @@ Aina Errando (2026). "Epistemic governance in journalism: Editorial, algorithmic
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. It bears on [QUESTION-441](../questions.d/QUESTION-441.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpu8oxs. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpu8oxs](LIT-tmpu8oxs.md). The
 reader on how far it stands in: - **Read in its place:** Lefèvre, Errando,
 Afilipoaie, Ranaivoson and Wiart (2025), "Exploring ethical and regulatory
 challenges of AI integration in European Union newsrooms", *Medijske studije

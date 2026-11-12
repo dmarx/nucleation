@@ -58,10 +58,10 @@ Non-therapeutic circumcision of boys (NTCB); rite of passage; family biography; 
 
 ## Bearing on the record
 
-- **QUESTION-tmp2lvhi**: **bears on "the relation between them" as a candidate ground, descriptively.** Parents here justify their authority not by the child's welfare or projected wishes but by the relation (enrolling the son in a family and community, continuity of identity). That is evidence of how one class of surrogate deciders understands their authority, not an argument that the relation legitimates it; the paper does not discuss the child's later view, consent or assent (one passing mention of consent, which concerns interviewees).
-- **TERM-100** (formation and maintenance provenance): the parents' account is of an authorization formed by others (parents, community) in order to form the child's membership, the case the question's note calls formation by another.
+- **[QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md)**: **bears on "the relation between them" as a candidate ground, descriptively.** Parents here justify their authority not by the child's welfare or projected wishes but by the relation (enrolling the son in a family and community, continuity of identity). That is evidence of how one class of surrogate deciders understands their authority, not an argument that the relation legitimates it; the paper does not discuss the child's later view, consent or assent (one passing mention of consent, which concerns interviewees).
+- **[TERM-100](../terms.d/TERM-100.md)** (formation and maintenance provenance): the parents' account is of an authorization formed by others (parents, community) in order to form the child's membership, the case the question's note calls formation by another.
 
-Searched record/ (batch ref) for the DOI and "Dræbel/Draebel": not held. Related: QUESTION-tmp2lvhi, TERM-100, LIT-tmpapwfu.
+Searched record/ (batch ref) for the DOI and "Dræbel/Draebel": not held. Related: [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md), [TERM-100](../terms.d/TERM-100.md), [LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md).
 
 ## Limitations
 

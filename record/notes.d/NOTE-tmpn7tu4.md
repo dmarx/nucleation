@@ -69,11 +69,11 @@ Editorial autonomy and editorial line; platform dependency; news recommender sys
 
 ## Bearing on the record
 
-- **CLAIM-tmpifp69** (attention optimization in news favours clickbait and works against investigative journalism): **supports the mechanism qualitatively, at the distribution level.** Interviewees and cited work report that platform visibility rewards engagement and leaves low-engagement news (local politics) invisible, and that AI is adopted partly for audience retention and revenue. It also fits the claim's own correction that metrics do not mechanically decide: some outlets refuse personalization and public-service media design recommenders for diversity. Nothing on investigative capacity.
-- **CLAIM-404** (governance from outside through evidence or criteria): an instance of the informational route: platforms shape which news reaches audiences and, through dependency, editorial choices, without dictating them; outlets' editorial-algorithm committees (Interviewee 40) are an internal counterweight.
-- **QUESTION-441**: weak bearing; the paper describes where visibility criteria come from (platforms, marketing, editors) but not counter-normativity.
+- **[CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)** (attention optimization in news favours clickbait and works against investigative journalism): **supports the mechanism qualitatively, at the distribution level.** Interviewees and cited work report that platform visibility rewards engagement and leaves low-engagement news (local politics) invisible, and that AI is adopted partly for audience retention and revenue. It also fits the claim's own correction that metrics do not mechanically decide: some outlets refuse personalization and public-service media design recommenders for diversity. Nothing on investigative capacity.
+- **[CLAIM-404](../claims.d/CLAIM-404.md)** (governance from outside through evidence or criteria): an instance of the informational route: platforms shape which news reaches audiences and, through dependency, editorial choices, without dictating them; outlets' editorial-algorithm committees (Interviewee 40) are an internal counterweight.
+- **[QUESTION-441](../questions.d/QUESTION-441.md)**: weak bearing; the paper describes where visibility criteria come from (platforms, marketing, editors) but not counter-normativity.
 
-Searched record/ (batch ref) for the DOI, title and "Errando": not held. Related held entries: CLAIM-tmpifp69, CLAIM-404, LIT-1331 (recommender systems and epistemic welfare, Active).
+Searched record/ (batch ref) for the DOI, title and "Errando": not held. Related held entries: [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md), [CLAIM-404](../claims.d/CLAIM-404.md), [LIT-1331](../literature.d/LIT-1331.md) (recommender systems and epistemic welfare, Active).
 
 ## Limitations
 

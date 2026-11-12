@@ -287,7 +287,7 @@ longer funds ([CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)). Supports; no status
 
 ## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
 
-From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
 checked by the filer: bears as an empirical example of evidence selection
 persisting through user follows; supportive in spirit, without any test of
 lock-in.

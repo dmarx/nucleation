@@ -13,7 +13,7 @@ promote_when: >-
   dataset) and again shows lower capacity imbalance than a customer-driven
   baseline.
 summary: >-
-  Davoudabadi, Makui and Rasouli, read in NOTE-tmp64zjh (Read). The authors
+  Davoudabadi, Makui and Rasouli, read in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) (Read). The authors
   propose a recommender that scores each candidate item for a user by
   combining (a) a user-side score and (b) an organization-side score. User
   side: a reference point built from the user's peak and most recent
@@ -31,4 +31,4 @@ Davoudabadi, Makui and Rasouli (2026) propose a recommender that combines a user
 
 ## Evidence
 
-The reading in NOTE-tmp64zjh; its key results are quoted there with locations.
+The reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md); its key results are quoted there with locations.

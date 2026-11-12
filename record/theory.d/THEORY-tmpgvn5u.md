@@ -16,7 +16,7 @@ promote_when: >-
   entities or ocean change, or an allocation of transcribed budgets to
   actors by stated fairness principles.
 summary: >-
-  Rockström, Denton, Norström et al., read in NOTE-tmpyn25j (Read). A
+  Rockström, Denton, Norström et al., read in [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md) (Read). A
   commentary setting out the Earth Commission's second phase (2024–2027). It
   recaps the first phase: "safe" Earth system boundaries (protecting
   Earth-system resilience) and "just" boundaries (minimizing significant
@@ -35,4 +35,4 @@ Rockström and colleagues (2026) set out the Earth Commission's programme for 20
 
 ## Evidence
 
-The reading in NOTE-tmpyn25j; its key results are quoted there with locations.
+The reading in [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md); its key results are quoted there with locations.

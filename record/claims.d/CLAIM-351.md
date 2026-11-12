@@ -154,13 +154,13 @@ parity can hide offsetting subgroup violations.
 
 ## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
 
-From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
 checked by the filer: bears in the same way: a single combined score that
 ranks items cannot show that user and organization are reconciled rather
 than traded.
 
 ## Note of 2026-11-12: Md Fahim Sikder, read
 
-From the reading in NOTE-tmppe0ip (LIT-tmppyl6o), the reader's assessment as
+From the reading in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md) ([LIT-tmppyl6o](../literature.d/LIT-tmppyl6o.md)), the reader's assessment as
 checked by the filer: the single-attribute-pass, intersectional-fail result
 is a measured case of an aggregate hiding a failing part.

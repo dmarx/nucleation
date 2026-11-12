@@ -155,7 +155,7 @@ checked by the filer: not bearing directly.
 
 ## Note of 2026-11-12: Rockström, Denton, Norström et al., read
 
-From the reading in NOTE-tmpyn25j (LIT-tmpmcbfb), the reader's assessment as
+From the reading in [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md) ([LIT-tmpmcbfb](../literature.d/LIT-tmpmcbfb.md)), the reader's assessment as
 checked by the filer: **bears directly as a worked instance of a procedure,
 without answering the question.** The Earth Commission is an attempt to fix
 a demand set from outside any one organization: a scientific body sets
@@ -177,7 +177,7 @@ set.
 
 ## Note of 2026-11-12: Md Fahim Sikder, read
 
-From the reading in NOTE-tmppe0ip (LIT-tmppyl6o), the reader's assessment as
+From the reading in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md) ([LIT-tmppyl6o](../literature.d/LIT-tmppyl6o.md)), the reader's assessment as
 checked by the filer: **bears on all three failures, mostly as illustration;
 supports the first.** 1. *Who is represented*: the Credit Default result is
 a direct, quantified instance of the question's first failure: a demand (FPR

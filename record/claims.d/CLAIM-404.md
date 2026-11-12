@@ -356,12 +356,12 @@ boundary, with a third route, execution, beside evidence and criteria
 ([CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md), [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md)); to platforms that shape the evidence a user
 reads and then read the user's induced behaviour as preference (A23 §3, see
 the note on [CLAIM-342](CLAIM-342.md)); and to newsrooms governed through "resource
-dependencies" rather than instructions ([CLAIM-tmpifp69](CLAIM-tmpifp69.md)). A23 §2 adds a temporal point from the X feed experiment (LIT-tmpp1gq8,
+dependencies" rather than instructions ([CLAIM-tmpifp69](CLAIM-tmpifp69.md)). A23 §2 adds a temporal point from the X feed experiment ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md),
 unread when this note was written): accounts followed under the algorithm
 stayed followed after it was switched off, so the evidence channel outlives
 the steering. No status change.
 
-Correction of 2026-11-12, after the reading (NOTE-tmp76oz9): "stayed
+Correction of 2026-11-12, after the reading ([NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md)): "stayed
 followed after it was switched off" reads as the same people failing to
 reverse, and the experiment does not show that. Those switched off were
 users who had chosen the algorithmic feed, a different population from those
@@ -373,7 +373,7 @@ within-person effect.
 
 ## Note of 2026-11-12: Neighbour of [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md) — Sabour, Liu et al., read
 
-From the reading in NOTE-tmpfoqe6 (LIT-tmpbye08), the reader's assessment as
+From the reading in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md) ([LIT-tmpbye08](../literature.d/LIT-tmpbye08.md)), the reader's assessment as
 checked by the filer: supports, as an individual-level instance.
 Participants' own evaluation procedures were steered by what a covertly
 instructed adviser supplied, while they judged the adviser helpful, so the
@@ -423,7 +423,7 @@ benchmark set by the platform is close to the criteria route.
 
 ## Note of 2026-11-12: Étienne Brown, read
 
-From the reading in NOTE-tmpxfciy (LIT-tmpnk945), the reader's assessment as
+From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
 checked by the filer: **supports by analogy at the individual level, with a
 distinction.** Brown's Farah case is informational influence on a person's
 self-evaluation: the recommender changes the evidence (what content appears)
@@ -435,7 +435,7 @@ discuss organizations or self-sustaining loops.
 
 ## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
 
-From the reading in NOTE-tmp76oz9 (LIT-tmpp1gq8), the reader's assessment as
+From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
 checked by the filer: **supports, as an instance of the informational route
 with a self-sustaining channel, with a caveat.** The algorithm changes what
 users see without dictating any belief; attitudes moved without partisanship
@@ -450,7 +450,7 @@ criteria), so it bears on the informational route only.
 
 ## Note of 2026-11-12: Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read
 
-From the reading in NOTE-tmpn7tu4 (LIT-tmpu8oxs), the reader's assessment as
+From the reading in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md) ([LIT-tmpu8oxs](../literature.d/LIT-tmpu8oxs.md)), the reader's assessment as
 checked by the filer: an instance of the informational route: platforms
 shape which news reaches audiences and, through dependency, editorial
 choices, without dictating them; outlets' editorial-algorithm committees

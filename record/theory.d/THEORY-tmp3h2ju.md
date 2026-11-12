@@ -16,7 +16,7 @@ promote_when: >-
   exposure to an algorithmic feed shifts issue attitudes or follow behaviour
   while switching an algorithmic feed off does not reverse them.
 summary: >-
-  Gauthier, Hodler, Widmer and Zhuravskaya, read in NOTE-tmp76oz9 (Read). An
+  Gauthier, Hodler, Widmer and Zhuravskaya, read in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) (Read). An
   independent field experiment (no cooperation from X), July–September 2023.
   YouGov recruited active US X users; 6,043 completed the pre-survey and
   4,965 the post-survey.
@@ -30,4 +30,4 @@ Gauthier, Hodler, Widmer and Zhuravskaya (2026) find in a seven-week field exper
 
 ## Evidence
 
-The reading in NOTE-tmp76oz9; its key results are quoted there with locations.
+The reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md); its key results are quoted there with locations.

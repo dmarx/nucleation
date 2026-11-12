@@ -25,12 +25,12 @@ keywords: []
 implementations: []
 summary: >-
   Robertson et al. (2023), DOI-10.1038/s41562-023-01538-4. Read on
-  2026-11-12 in NOTE-tmpyh8fv: The authors use the Upworthy Research
+  2026-11-12 in [NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md): The authors use the Upworthy Research
   Archive, randomized headline tests Upworthy ran on its own site (24
   January 2013 to 14 April 2015), to estimate the causal effect of positive
   and negative words on click-through rate (CTR). Within each test,
   different headlines for the same story were randomly shown, so story
-  content is held fixed. Its account is THEORY-tmp593fy. Registered from the
+  content is held fixed. Its account is [THEORY-tmp593fy](../theory.d/THEORY-tmp593fy.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A33 §2.
 ---
@@ -43,7 +43,7 @@ Claire E. Robertson, Nicolas Pröllochs, Kaoru Schwarzenegger, Philip Pärnamets
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpyh8fv). A large-scale, field-randomized,
+Read on 2026-11-12 ([NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md)). A large-scale, field-randomized,
 pre-registered estimate that negative language in headlines causally raises
 clicking on news, separating consumption (private clicking) from sharing
 (public engagement) on which most earlier negativity work relied.
@@ -52,5 +52,5 @@ clicking on news, separating consumption (private clicking) from sharing
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpyh8fv and its account
-THEORY-tmp593fy.
+Read on 2026-11-12; the reading is [NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md) and its account
+[THEORY-tmp593fy](../theory.d/THEORY-tmp593fy.md).

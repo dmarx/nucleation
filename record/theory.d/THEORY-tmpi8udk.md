@@ -12,7 +12,7 @@ promote_when: >-
   the same patterns present, no spending limits, and a denser use in mobile
   than in console/PC titles.
 summary: >-
-  Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel, read in NOTE-tmp4nq1v
+  Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel, read in [NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md)
   (Read). The authors build a taxonomy of monetization-oriented dark
   patterns in games from the literature (starting from DarkPattern.games and
   Zagal, Björk and Lewis 2013), in three blocks: temporal (playing by
@@ -35,4 +35,4 @@ Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel (2026) classify monetizat
 
 ## Evidence
 
-The reading in NOTE-tmp4nq1v; its key results are quoted there with locations.
+The reading in [NOTE-tmp4nq1v](../notes.d/NOTE-tmp4nq1v.md); its key results are quoted there with locations.

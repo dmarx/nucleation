@@ -58,7 +58,7 @@ Skimmed on 2026-11-12; the reading is [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.m
 
 ## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
 
-From the reading in NOTE-tmp64zjh (LIT-tmporx78), the reader's assessment as
+From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](LIT-tmporx78.md)), the reader's assessment as
 checked by the filer: Davoudabadi and colleagues build one multi-stakeholder
 recommender, balancing customers against provider capacity; this work
 remains the better general reference on how such systems should be

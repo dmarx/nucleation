@@ -33,7 +33,7 @@ summary: >-
   French-speaking Belgium, France and Spain: newsroom AI use is cautious and
   mostly for efficiency and audience retention, larger groups can invest
   more, and platform dependence shapes editorial choices. A partial
-  neighbour for LIT-tmpp619t. Read on 2026-11-12 in NOTE-tmpn7tu4: Document
+  neighbour for [LIT-tmpp619t](LIT-tmpp619t.md). Read on 2026-11-12 in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md): Document
   analysis of 30 ethical charters, codes and AI policies, and 41
   semi-structured interviews (Nov 2023–Nov 2024) with media professionals,
   legal experts and regulators, across 19 outlets in French-speaking
@@ -49,7 +49,7 @@ summary: >-
   Act, DSA, EMFA, national laws) is fragmented and not media-specific, and
   the AI Act's human-intervention exemption relieves media of transparency
   duties for AI-generated content; self-regulation is uneven and judged
-  insufficient. Its account is THEORY-tmpbnpoy.
+  insufficient. Its account is [THEORY-tmpbnpoy](../theory.d/THEORY-tmpbnpoy.md).
 ---
 <!-- inactive-ok-file: LIT-tmpp619t — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpbnpoy — Proposed; filed from the same exchange -->
@@ -68,8 +68,8 @@ deepens concentration and platform dependence.
 
 ## Standing in the record
 
-Registered as a partial neighbour for LIT-tmpp619t, sharing its author and
+Registered as a partial neighbour for [LIT-tmpp619t](LIT-tmpp619t.md), sharing its author and
 setting but not its framing of epistemic governance.
 
-Read on 2026-11-12; the reading is NOTE-tmpn7tu4 and its account
-THEORY-tmpbnpoy.
+Read on 2026-11-12; the reading is [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md) and its account
+[THEORY-tmpbnpoy](../theory.d/THEORY-tmpbnpoy.md).

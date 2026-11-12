@@ -83,7 +83,7 @@ step either way.
 
 ## Note of 2026-11-12: Kara et al., read
 
-From the reading in NOTE-tmp0oc9n (LIT-tmppy4yb), the reader's assessment as
+From the reading in [NOTE-tmp0oc9n](../notes.d/NOTE-tmp0oc9n.md) ([LIT-tmppy4yb](../literature.d/LIT-tmppy4yb.md)), the reader's assessment as
 checked by the filer: same bearing; it adds a fetal-to-maternal direction
 and a functional (repair) case to an argument built mainly on
 maternal-to-offspring cells.

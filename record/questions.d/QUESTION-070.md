@@ -151,6 +151,6 @@ exploitation, or harm without a wrongdoer.
 
 ## Note of 2026-11-12: Étienne Brown, read
 
-From the reading in NOTE-tmpxfciy (LIT-tmpnk945), the reader's assessment as
+From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
 checked by the filer: Brown's Netflix example (racial targeting as "a
 non-intentional emergent effect" of engagement optimization) is an instance.

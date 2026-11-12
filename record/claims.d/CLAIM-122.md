@@ -216,7 +216,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-12: Étienne Brown, read
 
-From the reading in NOTE-tmpxfciy (LIT-tmpnk945), the reader's assessment as
+From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
 checked by the filer: compatible. Brown's remedies (binding controls, cf.
 Allcott et al.'s self-imposed limits) change conditions of efficacy, not
 preferences.

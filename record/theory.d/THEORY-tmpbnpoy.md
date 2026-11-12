@@ -17,7 +17,7 @@ promote_when: >-
   efficiency and audience retention, with platform visibility shaping
   editorial choices and few outlets publishing AI commitments.
 summary: >-
-  Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read in NOTE-tmpn7tu4
+  Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md)
   (Read). Document analysis of 30 ethical charters, codes and AI policies,
   and 41 semi-structured interviews (Nov 2023–Nov 2024) with media
   professionals, legal experts and regulators, across 19 outlets in
@@ -35,7 +35,6 @@ summary: >-
   relieves media of transparency duties for AI-generated content;
   self-regulation is uneven and judged insufficient.
 ---
-<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # THEORY-tmpbnpoy: Lefèvre, Errando and colleagues (2025) find, from 30 documents and 41 interviews covering 19 news outlets in France, Spain and French-speaking Belgium, that AI enters newsrooms experimentally and mainly for efficiency and audience retention, that dependence on platform algorithms for visibility shapes editorial choices, and that sector-specific regulation and outlets' own public AI commitments are largely absent.
 
@@ -45,4 +44,4 @@ Lefèvre, Errando and colleagues (2025) find, from 30 documents and 41 interview
 
 ## Evidence
 
-The reading in NOTE-tmpn7tu4; its key results are quoted there with locations.
+The reading in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md); its key results are quoted there with locations.

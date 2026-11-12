@@ -32,14 +32,14 @@ summary: >-
   hearing loss (OTOF): because the therapy is gene-specific and
   time-sensitive, infants with profound loss need a genetic diagnosis before
   a cochlear implant, and outcomes so far are incomplete. A partial
-  neighbour for LIT-tmpo7j5v. Read on 2026-11-12 in NOTE-tmpzvur2: Comments
+  neighbour for [LIT-tmpo7j5v](LIT-tmpo7j5v.md). Read on 2026-11-12 in [NOTE-tmpzvur2](../notes.d/NOTE-tmpzvur2.md): Comments
   on the FDA's approval (announced 23 April 2026) of Regeneron's Otarmeni,
   the first gene therapy for a genetic hearing loss (DFNB9, OTOF), and on
   convergent results from other programmes. Because the therapy is
   gene-specific and time-sensitive, infants with bilateral hearing loss need
   genetic diagnosis; clinical sequences should change so that children with
   profound loss and intact otoacoustic emissions get a genetic diagnosis
-  before a cochlear implant. Its account is THEORY-tmp378u2.
+  before a cochlear implant. Its account is [THEORY-tmp378u2](../theory.d/THEORY-tmp378u2.md).
 ---
 <!-- inactive-ok-file: LIT-tmpo7j5v — Unavailable; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp378u2 — Proposed; filed from the same exchange -->
@@ -58,8 +58,8 @@ genetically before implanting.
 
 ## Standing in the record
 
-Registered as a partial neighbour for LIT-tmpo7j5v, for the clinical facts
+Registered as a partial neighbour for [LIT-tmpo7j5v](LIT-tmpo7j5v.md), for the clinical facts
 and the timing problem, not for that paper's ethical analysis.
 
-Read on 2026-11-12; the reading is NOTE-tmpzvur2 and its account
-THEORY-tmp378u2.
+Read on 2026-11-12; the reading is [NOTE-tmpzvur2](../notes.d/NOTE-tmpzvur2.md) and its account
+[THEORY-tmp378u2](../theory.d/THEORY-tmp378u2.md).
