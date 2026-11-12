@@ -91,3 +91,16 @@ organizational change. That a finite failure to find a solution shows
 none exists: the paper's boundary at n = 64 means solved once in 64 rollouts, and
 A44 says "an institutional claim that no acceptable remedy exists requires
 more than repeated unsuccessful searches", which is [QUESTION-279](../questions.d/QUESTION-279.md).
+
+## Note of 2026-11-12: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? (Zhu, Jin, Tu, Men, Hao, Li, Liu, Zhao 2026), read
+
+From the reading in NOTE-tmpjmhp7 (LIT-tmpj8nbo), the reader's assessment as
+checked by the filer: **supports, with the claim's qualification
+sharpened**. Zhu et al. use the same metric and find (a) boundary expansion
+along K and (b) that the ordering of two policies' success is not stable
+across T: an advantage at large T can vanish or reverse at small T. That is
+the record's distinction in action (what is reachable under a resource vs
+reached), and it shows the resource index matters to which process "can do
+more". Its finding that RL improves composition of locally plausible steps,
+not per-step choice, is a third distinction the CLAIM does not draw:
+reliability of a long path vs quality of each move.

@@ -1,10 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §3. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Where the
+  reader looked: OpenAlex, doi:10.1080/10584609.2025.2498533: oa_status
+  "closed"; the only location is the publisher (Taylor & Francis). No
+  repository copy and no preprint listed; OpenAlex search for "local news
+  crisis political scandal": the only hit for this work is the closed DOI.
+  Other hits are different works, none restating Hayes's finding:; Nyhan
+  2014, "Scandal Potential", BJPolS (bronze OA); Dziuda and Howell,
+  "Political Scandal: A Theory" (working paper, green OA); Not searched: the
+  author's university page, SSRN, OSF. These are unchecked, not ruled out.
 title: 'The Local News Crisis and Political Scandal'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). No lawful full text was found
+    (ADR-041); an abstract, where seen, is not a reading.
 - version: 1
   date: '2026-11-12'
   note: >-

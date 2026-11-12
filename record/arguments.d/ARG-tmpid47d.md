@@ -23,6 +23,7 @@ summary: >-
   nothing about evaluators that can be wrong. Proposed. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpyc5md — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmps74c5 — filed from the same exchange, Proposed -->
 
 # ARG-tmpid47d: PASS@(k,T)'s capability boundary, efficiency and interaction depth correspond to the record's reachability by a process, reliable attainment and resource index, with two differences: the paper's process is a stochastic policy that can change with its budget, and its success is judged by an oracle
@@ -69,3 +70,9 @@ this process at this budget; efficiency ≈ reliability; T ≈ the budget.
 
 Proposed. The correspondence is good enough to carry the owner's claim, with
 the two qualifications the claim now states.
+
+## Note of 2026-11-12: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? (Zhu, Jin, Tu, Men, Hao, Li, Liu, Zhao 2026), read
+
+From the reading in NOTE-tmpjmhp7 (LIT-tmpj8nbo), the reader's assessment as
+checked by the filer: **supports**: a second paper's evidence that
+budget-conditional behaviour is real and trainable.

@@ -1,10 +1,25 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §4. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each: The DOI
+  https://doi.org/10.1016/j.it.2026.03.015 resolves to
+  https://linkinghub.elsevier.com/retrieve/pii/S1471490626000761, which
+  redirects to Cell Press; The Cell Press full text,
+  https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00076-1,
+  **stopped at a Cloudflare challenge ("Just a moment...", HTTP 403)**. Not
+  retried; OpenAlex lists the publisher location as open access (hybrid,
+  cc-by), with no repository copy; Europe PMC (PMID 42067422): no PMCID, no
+  full text.
 title: 'Scaling immunity: sickness as a host defense strategy'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-

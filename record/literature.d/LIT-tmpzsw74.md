@@ -6,8 +6,8 @@ status_note: >-
   `https://doi.org/10.2139/ssrn.4311562` →
   `https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311562` (the green
   OA location OpenAlex lists) — Cloudflare "Just a moment..." challenge
-  (HTTP 403), 2026-11-12; stopped.; INFORMS
-  `https://doi.org/10.1287/mnsc.2022.03655` — paywalled; not attempted..
+  (HTTP 403), 2026-11-12; stopped; INFORMS
+  `https://doi.org/10.1287/mnsc.2022.03655` — paywalled; not attempted.
 title: 'Digital Content Creation: An Analysis of the Impact of Recommendation Systems'
 version: 2
 history:

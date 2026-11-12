@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A44 §1. No reading was attempted.
+status: Active
 title: 'What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpjmhp7; account THEORY-tmpb7699. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -20,8 +23,19 @@ first_author: 'Zhu'
 keywords: []
 implementations: []
 summary: >-
-  Zhu et al. (2026), [ARXIV-2611.06483](https://arxiv.org/abs/2611.06483). Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A44 §1. It bears on [CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md). In A's account, which is unverified until read, it finds that gains from multi-turn agentic reinforcement learning depend on sufficient turn budgets and concentrate in error recovery and long-horizon resilience, and proposes BudgetMix RL.
+  Zhu et al. (2026), [ARXIV-2611.06483](https://arxiv.org/abs/2611.06483).
+  Read on 2026-11-12 in NOTE-tmpjmhp7: The paper asks what multi-turn
+  agentic RL (GRPO mainly, also PPO and GiGPO, on Qwen3-4B/8B) improves over
+  its base model, on four interactive benchmarks (DeepCoder-MT, BFCL v3,
+  InterCode-SQL, FrozenLake), using the two-dimensional metric Pass@(K, T)
+  of Zhai et al. (2026; arXiv 2604.14877, held as LIT-tmpt7avk). Across
+  sampling breadth K, the RL model beats the base model at every k, so in
+  multi-turn settings RL pushes success beyond the base model's empirical
+  Pass@K boundary (unlike single-turn results). Its account is
+  THEORY-tmpb7699. Registered from the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11), where A cited it at A44 §1.
 ---
+<!-- inactive-ok-file: THEORY-tmpb7699 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpyc5md — Proposed; filed from the same exchange -->
 
 # LIT-tmpj8nbo: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?
@@ -30,8 +44,14 @@ Kejian Zhu, Zhuoran Jin, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li and othe
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it finds that gains from multi-turn agentic reinforcement learning depend on sufficient turn budgets and concentrate in error recovery and long-horizon resilience, and proposes BudgetMix RL.
+Read on 2026-11-12 (NOTE-tmpjmhp7). An evaluation showing that
+trajectory-level gains from multi-turn agentic RL are budget-conditional and
+come from error recovery and long-horizon composition rather than better
+per-step decisions, with a simple budget-randomized training remedy.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A44 §1. It bears on [CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpjmhp7 and its account
+THEORY-tmpb7699.

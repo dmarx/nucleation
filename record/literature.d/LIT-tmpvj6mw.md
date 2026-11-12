@@ -6,10 +6,10 @@ status_note: >-
   `https://pmc.ncbi.nlm.nih.gov/articles/PMC13598238/` (publisher version,
   OA) — HTTP 403 from the PMC site, 2026-11-12; not retried. Europe PMC REST
   full text for PMC13598238 returned HTTP 500 (not yet indexed there; Europe
-  PMC search lists only the DOI).; PNAS
+  PMC search lists only the DOI); PNAS
   `https://www.pnas.org/doi/pdf/10.1073/pnas.2600684123` (listed OA, hybrid)
-  — Cloudflare challenge (HTTP 403), 2026-11-12; stopped.; PubMed record
-  42735311 (abstract page) — not fetched.. A neighbour was read in its
+  — Cloudflare challenge (HTTP 403), 2026-11-12; stopped; PubMed record
+  42735311 (abstract page) — not fetched. A neighbour was read in its
   place: LIT-tmpbye08, which stands in only in part (see "Standing in the
   record").
 title: 'Human preferences are susceptible to covertly misaligned AI advice'

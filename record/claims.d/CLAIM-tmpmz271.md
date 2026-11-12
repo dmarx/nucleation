@@ -107,3 +107,17 @@ From the reading in [NOTE-tmppj4sz](../notes.d/NOTE-tmppj4sz.md) ([LIT-tmpaptli]
 checked by the filer: Nickl's "production follows demand" with selection
 needing no insight on the producers' side is the same structure stated for
 culture; corroborative only.
+
+## Note of 2026-11-12: Incentivizing High-Quality Content in Online Recommender Systems (Hu, Jagadeesan, Jordan, Steinhardt), read
+
+From the reading in NOTE-tmplv2tx (LIT-tmpgu9ct), the reader's assessment as
+checked by the filer: leaves open; no heterogeneous weighting in the model.
+
+## Note of 2026-11-12: Secondary analysis of loot box data: Are high-spending "whales" wealthy gamers or problem gamblers? (Close, Spicer, Nicklin, Uther, J. Lloyd, H. Lloyd 2021), read
+
+From the reading in NOTE-tmps8gyk (LIT-tmpk21r4), the reader's assessment as
+checked by the filer: **supports the premise, empirically**: revenue really
+is concentrated in a small minority (5% of purchasers ≈ half of spend), so
+revenue-weighted demand is dominated by them. It does **not** test the
+second half (that the minority's marginal response moves design); the paper
+has no design variable.

@@ -115,3 +115,22 @@ evidence "Against a strong industry-wide version" should not stand alone:
 the same group's longer series may point the other way on that measure.
 Neither study is read, and nothing here is a finding. The defeater's
 parenthesis citing Shor and Seida is kept, marked unread. No status change.
+
+## Note of 2026-11-12: Incentivizing High-Quality Content in Online Recommender Systems (Hu, Jagadeesan, Jordan, Steinhardt), read
+
+From the reading in NOTE-tmplv2tx (LIT-tmpgu9ct), the reader's assessment as
+checked by the filer: **qualifies / leaves open**. It supplies a
+demonstrated (formal) supply-side link: platform algorithms change what
+producers make, and quality can degrade with no change in anyone's taste,
+which matches A27 §3's point that escalation is unnecessary. It does not
+model activity-weighted demand, heavy users or extremity, so it gives
+nothing to the claim's structural premise (that belongs to CLAIM-tmpmz271)
+or to its escalation half. The CLAIM's citation should describe it as a
+supply-side mechanism of quality decline, not as evidence of minority
+capture.
+
+## Note of 2026-11-12: Secondary analysis of loot box data: Are high-spending "whales" wealthy gamers or problem gamblers? (Close, Spicer, Nicklin, Uther, J. Lloyd, H. Lloyd 2021), read
+
+From the reading in NOTE-tmps8gyk (LIT-tmpk21r4), the reader's assessment as
+checked by the filer: leaves open; the analogue for loot boxes of "heaviest
+users" is confirmed to exist, not that they set the product.

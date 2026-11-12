@@ -4,10 +4,10 @@ status_note: >-
   Reading attempted on 2026-11-12; nothing of the work was read. Where the
   reader looked: OpenAlex record for the DOI: `oa_status: closed`; locations
   only https://doi.org/10.1136/jme-2025-111436 (BMJ, not OA) and PubMed.;
-  Semantic Scholar API: `openAccessPdf` empty.; Europe PMC: MED record
-  42031545, `isOpenAccess: N`, no PMCID.; No preprint (arXiv, PhilArchive
+  Semantic Scholar API: `openAccessPdf` empty; Europe PMC: MED record
+  42031545, `isOpenAccess: N`, no PMCID; No preprint (arXiv, PhilArchive
   not checked) or author upload found. BMJ (jme.bmj.com) not tried: OpenAlex
-  marks it closed, so it would be a paywall.. A neighbour was read in its
+  marks it closed, so it would be a paywall. A neighbour was read in its
   place: LIT-tmplfdsz, which stands in only in part (see "Standing in the
   record").
 title: 'Ethical challenges of adaptive deep brain stimulation: a multidimensional analysis through the lens of control'

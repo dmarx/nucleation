@@ -3,13 +3,13 @@ status: Unavailable
 status_note: >-
   Reading attempted on 2026-11-12; nothing of the work was read. Where the
   reader looked: OpenAlex for the DOI: `oa_status: closed`; locations:
-  doi.org (Taylor & Francis) and PubMed only.; Semantic Scholar:
-  `openAccessPdf` status CLOSED.; Crossref: no licence; link only to
+  doi.org (Taylor & Francis) and PubMed only; Semantic Scholar:
+  `openAccessPdf` status CLOSED; Crossref: no licence; link only to
   https://www.tandfonline.com/doi/pdf/10.1080/00224499.2018.1451476
-  (subscription; not tried).; Europe PMC: no PMCID; `isOpenAccess: N`.
+  (subscription; not tried); Europe PMC: no PMCID; `isOpenAccess: N`.
   Europe PMC search of the first author's related papers (2019–2026) found
-  none open access.; Not tried: ResearchGate/academia.edu author uploads (no
-  address located)..
+  none open access; Not tried: ResearchGate/academia.edu author uploads (no
+  address located).
 title: '“Harder and Harder”? Is Mainstream Pornography Becoming Increasingly Violent and Do Viewers Prefer Violent Content?'
 version: 2
 history:

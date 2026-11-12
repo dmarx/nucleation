@@ -134,3 +134,15 @@ left pattern and tumour outcomes unchanged. In the cited experiments it did not.
   into a measurement. Whether they pick the same levels as the goal criterion is
   open.
 - **Dennett ([LIT-220](../literature.d/LIT-220.md)).** The level-choice rule is the intentional stance.
+
+## Note of 2026-11-12: The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine (Levin 2024/2025), read
+
+From the reading in NOTE-tmphgki6 (LIT-tmpgku8o), the reader's assessment as
+checked by the filer: **supports and restates**, five years on, in a
+biomedical frame; adds the persuadability spectrum and cites three cancer
+results (early bioelectric detection, induction without genetic damage,
+normalization of oncogene-driven tumours) that bear on THEORY-583's
+`promote_when` ("experiments showing that changing gap-junctional coupling
+changes which goal is pursued"), though only as citations here: the filer
+should not count them as read. It does not supply a measurement of the light
+cone.

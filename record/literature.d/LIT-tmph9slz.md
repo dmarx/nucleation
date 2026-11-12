@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §6 and its reading list. No reading was attempted.
+status: Active
 title: 'The Ethics of Abortion'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpuunni; account THEORY-tmppsy9d. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,18 @@ first_author: 'Harman'
 keywords: []
 implementations: []
 summary: >-
-  Harman (2025), Stanford Encyclopedia of Philosophy. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §6 and its reading list. It bears on [THEORY-448](../theory.d/THEORY-448.md), [THEORY-464](../theory.d/THEORY-464.md). In A's account, which is unverified until read, it separates personhood, the right to life, potentiality and bodily-support arguments, and whether abortion is wrong from whether it should be legally restricted.
+  Harman (2025), Stanford Encyclopedia of Philosophy. Skimmed on 2026-11-12
+  in NOTE-tmpuunni: The entry asks one question: "is abortion morally
+  wrong?" It sets aside whether abortion should be legally restricted as "an
+  open and further question". It is organised as six arguments against
+  abortion (from a right to life, from loss, from the Golden Rule, from
+  intrinsic value, from moral risk, and the expressive argument against
+  selective abortion). Its account is THEORY-tmppsy9d. Registered from the
+  exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
+  cited it at A3 §6 and its reading list.
 ---
+<!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmppsy9d — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-448 THEORY-464 — Proposed; cited as on the record -->
 
 # LIT-tmph9slz: The Ethics of Abortion
@@ -29,8 +42,12 @@ Elizabeth Harman (2025). "The Ethics of Abortion." *Stanford Encyclopedia of Phi
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it separates personhood, the right to life, potentiality and bodily-support arguments, and whether abortion is wrong from whether it should be legally restricted.
+Skimmed on 2026-11-12 (NOTE-tmpuunni). An organising survey. It does not
+defend a view of its own in the parts read.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §6 and its reading list. It bears on [THEORY-448](../theory.d/THEORY-448.md), [THEORY-464](../theory.d/THEORY-464.md).
+
+Skimmed on 2026-11-12; the reading is NOTE-tmpuunni and its account
+THEORY-tmppsy9d.

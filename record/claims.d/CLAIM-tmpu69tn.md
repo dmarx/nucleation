@@ -41,6 +41,7 @@ summary: >-
   boundary of the individual" and "the boundary of its governance" need
   not coincide. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpdrocb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmptfr59 NOTE-tmpwjlut — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
@@ -131,3 +132,12 @@ foreign-origin material that has become part of the host's own sex
 determination (Armadillidium), and a host that now depends on the symbiont
 for female development (Eurema). In these, origin outside, integration as
 host machinery and mixed alignment come apart, which fits the claim.
+
+## Note of 2026-11-12: Neuron–tumor crosstalk in cancer: molecular mechanisms and translational advances (Jia, Zhao, Tang, Xie, Huang, Liang, Yang, Wu, Sun, Kwan, Sun, Xu 2026), read
+
+From the reading in NOTE-tmpdrocb (LIT-tmpj31gs), the reader's assessment as
+checked by the filer: supports as an illustration. The claim's example
+"inside by lineage, working against the organism" cites this LIT, and the
+review's frame fits it: cells of the host's own lineage co-opt the host's
+nervous system against the host. It is a review, not a test of the claim's
+three-way separation.

@@ -3,9 +3,9 @@ status: Unavailable
 status_note: >-
   Reading attempted on 2026-11-12; nothing of the work was read. Where the
   reader looked: OpenAlex: closed; locations only the Elsevier DOI and
-  PubMed 37352944. No PMC record.; Semantic Scholar: openAccessPdf status
-  CLOSED.; No arXiv, bioRxiv or repository copy found. Author uploads
-  (ResearchGate) not reachable by this session's tools..
+  PubMed 37352944. No PMC record; Semantic Scholar: openAccessPdf status
+  CLOSED; No arXiv, bioRxiv or repository copy found. Author uploads
+  (ResearchGate) not reachable by this session's tools.
 title: 'Host manipulation by parasites through the lens of Niche Construction Theory'
 version: 2
 history:

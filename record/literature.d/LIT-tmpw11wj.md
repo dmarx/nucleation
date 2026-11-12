@@ -4,14 +4,14 @@ status_note: >-
   Reading attempted on 2026-11-12; nothing of the work was read. Where the
   reader looked: OpenAlex: closed; only the Princeton Scholarship Online DOI
   `https://doi.org/10.23943/princeton/9780691175232.001.0001` (paywalled).
-  No repository copy.; Neighbour located, not read: Christin, "Algorithms in
+  No repository copy; Neighbour located, not read: Christin, "Algorithms in
   practice: Comparing web journalism and criminal justice", *Big Data &
   Society* (2017), doi 10.1177/2053951717718855, gold OA (CC BY-NC-ND),
   `https://journals.sagepub.com/doi/pdf/10.1177/2053951717718855` —
   Cloudflare challenge (HTTP 403), 2026-11-12; DOAJ lists it but hosts no
   file. Also "Counting Clicks" (AJS 2018, doi 10.1086/696137) — closed.;
   Searches for further neighbours stopped when OpenAlex and Semantic Scholar
-  returned HTTP 429..
+  returned HTTP 429.
 title: 'Metrics at Work: Journalism and the Contested Meaning of Algorithms'
 version: 2
 history:

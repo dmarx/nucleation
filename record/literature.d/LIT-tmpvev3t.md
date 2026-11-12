@@ -5,11 +5,11 @@ status_note: >-
   located and what stopped each: KU Leuven Lirias submitted version
   `https://lirias.kuleuven.be/retrieve/69946bc0-f144-4e1d-b402-8e3fa446950b`
   (handle 20.500.12942/759158) — connection reset by peer, 2026-11-12; not
-  retried.; ScienceDirect
+  retried; ScienceDirect
   `https://www.sciencedirect.com/science/article/pii/S0167718724000833/pdfft`
   (published version, OA CC BY per Semantic Scholar) — "Are you a robot?"
-  captcha (HTTP 403), 2026-11-12; stopped.; University of Bristol research
-  portal record (no file attached).; No arXiv preprint found..
+  captcha (HTTP 403), 2026-11-12; stopped; University of Bristol research
+  portal record (no file attached); No arXiv preprint found.
 title: 'Personalized content, engagement, and monetization in a mobile puzzle game'
 version: 2
 history:

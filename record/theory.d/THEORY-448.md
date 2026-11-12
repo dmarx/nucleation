@@ -35,6 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-035
 ---
+<!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpn0ytb THEORY-tmp4rc81 THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmp5fwhc LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-443 THEORY-464 THEORY-476 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
@@ -166,3 +167,21 @@ ontology) does not consider, though it does not touch her internal critique
 of substance ontology. THEORY-448's `promote_when` already says the four
 criteria only bear on mere containment; Geddes supports that remark and
 sharpens it.
+
+## Note of 2026-11-12: The Ethics of Abortion (Harman, Stanford Encyclopedia of Philosophy, 2025), read
+
+From the reading in NOTE-tmpuunni (LIT-tmph9slz), the reader's assessment as
+checked by the filer: **leaves open**. In the parts read the entry does not
+discuss whether the fetus is part of the pregnant person, though the
+violinist framing assumes two distinct parties. This is the assumption
+LIT-tmph5uj8 (Devanesan) is said to question.
+
+## Note of 2026-11-12: Mereological implications of the ethics of pregnancy (Dranseika, J Med Ethics 2026), read
+
+From the reading in NOTE-tmpaeoh4 (LIT-tmpoeqhr), the reader's assessment as
+checked by the filer: **qualifies**. This theory holds, as THEORY-464 does,
+that the metaphysics constrains the ethics without settling it. Dranseika's
+commentary on Devanesan adds that the dependence can run the other way, from
+a normative commitment to the choice of mereology, and that when it does,
+the mereology's fit with the commitment must not be counted as evidence for
+it. No status change.

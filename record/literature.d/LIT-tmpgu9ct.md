@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. No reading was attempted.
+status: Active
 title: 'Incentivizing High-Quality Content in Online Recommender Systems'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmplv2tx; account THEORY-tmpthqa0. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -20,8 +23,17 @@ first_author: 'Hu'
 keywords: []
 implementations: []
 summary: >-
-  Hu et al. (2023), DOI-10.4230/lipics.forc.2026.15. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §3. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md). In A's account, which is unverified until read, it shows in a model that some online-learning recommender algorithms give producers incentives to lower quality over time, and proposes algorithms that sustain it.
+  Hu et al. (2023), DOI-10.4230/lipics.forc.2026.15. Read on 2026-11-12 in
+  NOTE-tmplv2tx: A game-theoretic model of a recommender platform that runs
+  an online-learning (adversarial linear contextual bandit) algorithm,
+  recommending one producer per arriving user, while P non-myopic,
+  discounting producers choose a D-dimensional content vector at every step,
+  paying cost ||p||^c and earning 1 when recommended. Content quality is
+  measured as producer effort ||p|| and as user welfare E[<u, p>]. Its
+  account is THEORY-tmpthqa0. Registered from the exchange "Medical Ethics
+  and Media Enshitification" (2026-11-11), where A cited it at A27 §3.
 ---
+<!-- inactive-ok-file: THEORY-tmpthqa0 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
 # LIT-tmpgu9ct: Incentivizing High-Quality Content in Online Recommender Systems
@@ -30,8 +42,16 @@ Xinyan Hu, Meena Jagadeesan, Michael I. Jordan and Jacob Steinhardt (2023). "Inc
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it shows in a model that some online-learning recommender algorithms give producers incentives to lower quality over time, and proposes algorithms that sustain it.
+Read on 2026-11-12 (NOTE-tmplv2tx). A formal result that a platform's
+learning dynamics, not users' tastes, can by themselves drive equilibrium
+content quality toward zero, and a design principle that an incentive-aware
+platform must react "more quickly and directly" to producer actions;
+technical tools bounding how much an online learner's arm probabilities move
+when rewards change.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).
+
+Read on 2026-11-12; the reading is NOTE-tmplv2tx and its account
+THEORY-tmpthqa0.

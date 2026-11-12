@@ -1,0 +1,91 @@
+---
+status: Read
+paper: LIT-tmpj7u27
+title: 'Bogliacino and others 2026 — The transaction test: An experimental method for assessing online interfaces'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read:
+    https://publicatt.unicatt.it/bitstream/10807/330856/1/Bogliacino%20et%20al%20JEBO%202026.pdf
+    (PDF, 21 pp., the Elsevier published version, CC BY 4.0, deposited in
+    Università Cattolica's repository IRIS/PubliCatt, handle
+    https://hdl.handle.net/10807/330856), fetched 2026-11-12, pdftotext.
+    Read: abstract, §1 introduction, §2 the transaction test (definition,
+    H0, the status-quo-bias example, legal mapping), §3–4 Experiment I
+    design and results, §5–6 Experiment II design and results, §7 discussion
+    and Table 5. Skimmed: §3 procedure details, regression tables. Skipped:
+    SOM, references. Outcome as the reader gave it: **Read** (published
+    version, main text in full; the Supplementary Online Material was not
+    read).
+date: '2026-11-12'
+summary: >-
+  The paper proposes the *transaction test*: elicit (or assign) a person's
+  monetary valuation M_f of a product feature, then have them choose between
+  two versions of the good that differ only by that feature and a price p_f;
+  choosing against one's valuation is an inconsistent choice. An interface
+  fails the test if it raises the rate of inconsistent choices relative to a
+  transparent design (H0: E[I | d] ≤ E[I | transparent]). The authors argue
+  this operationalizes the legal concept of unfairness (EU Unfair Commercial
+  Practices Directive; US FTC unfairness) better than tests of
+  effectiveness, which "infer manipulation from effectiveness". Experiment I
+  (N = 7430, six EU countries, a European Commission contract) tests three
+  dark patterns (hidden information, "toying with emotions" (TWE),
+  personalization) and a "cool down" confirmation prompt, under motivated
+  delay (average consumer) or time pressure (vulnerable consumer), in a
+  data-protection choice. Experiment II (409 subjects, Italy, induced
+  values) tests hidden information and two TWE versions, one steering toward
+  and one away from data protection.
+---
+<!-- inactive-ok-file: CASE-tmpmw3hc CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-235 — Proposed; cited as on the record -->
+
+# NOTE-tmprz4xm: Bogliacino and others 2026 — The transaction test: An experimental method for assessing online interfaces
+
+## Contribution
+
+A preference-relative, outcome-based criterion of manipulative design that distinguishes harmful from beneficial steering even when the technique is the same, with large-sample evidence that common dark patterns raise preference-inconsistent choice and that a confirmation-prompt remedy does not reliably undo it.
+
+## Key results
+
+- Abstract: "dark patterns increase the likelihood of choice inconsistency by an effect in the range of 6-12 percentage points, depending on experimental conditions. The transparency-based remedy fails to mitigate these effects."
+- §1: "the current debate infers manipulation from effectiveness. This misses the mark".
+- §4.1 (Exp. I, motivated delay): control inconsistency 37.80%; dark patterns 47.25%; with protective measure 46.60%. Time pressure: control 45.47%, dark patterns 50.89%, with measure 48.60%.
+- §4.2: under motivated delay, "Hidden information increases this likelihood by 12.25 pp", TWE 6.02 pp, personalisation 9.84 pp.
+- §4.2: "around one third of subjects make inconsistent choices even without deceptive design" (proposed crowding-out explanation for smaller effects under time pressure).
+- §6 (Exp. II): control 36.36% choose against data protection; hidden information 79% ("a remarkable 43 pp effect"); TWE Dark Pattern +18 pp; TWE Bright Pattern about −16 pp (Table 4: −0.15). Payoffs: hidden information cuts mean payoff from 4.1 to 2.9 points.
+- §7.2: "A test based on behavioral change would have detected significant impacts of both TWE Dark Pattern and TWE Bright Pattern. So did the transaction test. But, since the transaction test is explicit on its behavioral assumptions, it was able to differentiate its recommendations between the two versions of TWE".
+- §2: the status-quo-bias example: a default that is "dark pattern-like" can pass the test when it corrects more inconsistency than it creates, so "the transaction test does not make policy recommendations that stifle innovation".
+
+## Assumptions
+
+- Consistency is defined against a valuation elicited in a separate task (stated, incentivized for consistency in Exp. I) or assigned (Exp. II), "under conventional assumptions of separability and monotonicity in money". The elicited valuation is treated as the person's true preference; the interface during elicitation is assumed neutral.
+- Binary inconsistency measure (treats all violations alike; §7.2 acknowledges).
+- Time pressure stands in for legal "vulnerability".
+- One domain (data protection in entertainment packages); framed, not field, choices.
+
+## Concepts
+
+Transaction test; choice inconsistency; dark patterns (hidden information, toying with emotions, personalization); bright pattern; cool-down / confirmation prompt; average vs vulnerable consumer; test of effectiveness vs test of manipulation; privacy paradox; unfairness (UCPD, FTC).
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A's account is accurate: the test is whether an interface raises inconsistency between choices and independently elicited preferences; dark patterns did; the transparency remedy (a confirmation-prompt "cool down") did not remove the effect. Precision: the remedy is a confirmation prompt summarizing the choice, which the paper calls "transparency-based"; under time pressure it cut inconsistency by about 2 pp, not significant. A's account omits the paper's most distinctive finding, the Bright Pattern: identical manipulative technique, opposite verdict.
+
+- **CLAIM-404** (an organization governed from outside through the evidence its procedures receive or the criteria by which they weigh it): **leaves open**; only an analogy at the individual level. An interface that hides information governs a choice through the evidence it receives without making the choice, which is the informational route at person scale; the paper says nothing about organizations or about evaluative independence.
+- Other held entries it bears on (not named in the LIT):
+  - **THEORY-235** (Susser, Roessler and Nissenbaum via LIT-1002: covert influence exploiting vulnerabilities harms autonomy "even when it benefits her"): **in tension**. The transaction test judges by outcome against preference, and the Bright Pattern, the same "manipulative interface" steering toward the preferred option, passes it; on THEORY-235 it still carries a harm. The two give different criteria of manipulation (process/covertness vs preference-consistency of the outcome). A useful pairing for the record.
+  - **LIT-1002 / NOTE-745**: the same contrast; LIT-tmpinc28 (DSA) is the regulatory side.
+  - **CASE-tmpmw3hc**: its data plan asks for "independently elicited budgets and preferences"; the transaction test is a worked method for exactly that comparison.
+  - **CLAIM-tmpmz271 / CLAIM-482** (revealed vs person-weighted preference): the paper's ~one-third baseline inconsistency shows that choices diverge substantially from elicited valuations even under a neutral design, a caution for any reading of demand from behaviour.
+
+Searched origin/main record/ for: "dark pattern", "transaction test", "privacy paradox", "Unfair Commercial", "choice inconsisten", "deceptive design", manipulat*, "revealed preference", DOI.
+- **Duplicate check**: no LIT carries the DOI or title; not already held.
+- Missed by the first search: THEORY-235, NOTE-745 (LIT-1002's note, which mentions dark patterns), and CLAIM-482 (revealed-preference claim). No held entry operationalizes manipulation by preference-inconsistency.
+
+## Limitations
+
+Stated valuations in Exp. I; single domain; binary measure; time pressure as a proxy for vulnerability; Exp. II on one Italian sample; SOM not read.

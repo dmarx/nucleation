@@ -50,3 +50,10 @@ retrieval over HotPotQA ([NOTE-tmpa5wyr](../notes.d/NOTE-tmpa5wyr.md)).
 That RL expands capability in general, or that an unsolved problem in 64
 attempts is unsolvable. It does not consider evaluators that can be wrong:
 success is exact match against a gold answer.
+
+## Note of 2026-11-12: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? (Zhu, Jin, Tu, Men, Hao, Li, Liu, Zhao 2026), read
+
+From the reading in NOTE-tmpjmhp7 (LIT-tmpj8nbo), the reader's assessment as
+checked by the filer: **extends**: an independent group confirms boundary
+expansion along K for multi-turn RL and adds that the depth axis decides
+whether the gain appears.

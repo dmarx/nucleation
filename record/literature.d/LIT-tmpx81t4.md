@@ -31,7 +31,7 @@ summary: >-
   template for fairness metrics and an in-processing mitigation, covering
   intersectional sensitive attributes and multiclass outputs; one experiment
   shows two aggregate criteria ranking methods differently. A slight
-  stand-in for [LIT-tmpv9xn3](LIT-tmpv9xn3.md).. Skimmed on 2026-11-12 in [NOTE-tmp5y69g](../notes.d/NOTE-tmp5y69g.md): A
+  stand-in for [LIT-tmpv9xn3](LIT-tmpv9xn3.md). Skimmed on 2026-11-12 in [NOTE-tmp5y69g](../notes.d/NOTE-tmp5y69g.md): A
   mutual-information-based template for fairness metrics and an
   in-processing mitigation (a regularizer inspired by the Prejudice
   Remover), covering independence- and separation-based notions,

@@ -1,0 +1,77 @@
+---
+status: Skimmed
+paper: LIT-tmpinc28
+title: 'Digital Services Act — Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services (Digital Services Act)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read:
+    https://eur-lex.europa.eu/eli/reg/2022/2065/oj/eng (HTML, the Official
+    Journal text, OJ L 277, 27.10.2022, pp. 1–102), fetched 2026-11-12, tags
+    stripped. Read: Article 25 (online interface design and organisation),
+    Article 26 (advertising, skimmed), Article 27 (recommender system
+    transparency), Article 28 (minors, skimmed), Article 38 (recommender
+    systems on very large platforms), recital 67, Article 93 (entry into
+    force and application). Skipped: all other articles and recitals.
+    Outcome as the reader gave it: **Skimmed** (Articles 25–28 and 38 read
+    in full, with recital 67 on dark patterns and the final provisions on
+    dates; the rest of the 102-page regulation was not read).
+date: '2026-11-12'
+summary: >-
+  Article 25(1) forbids online platforms to "design, organise or operate
+  their online interfaces in a way that deceives or manipulates the
+  recipients of their service or in a way that otherwise materially distorts
+  or impairs the ability of the recipients of their service to make free and
+  informed decisions". Article 25(2) excludes practices already covered by
+  the Unfair Commercial Practices Directive (2005/29/EC) or the GDPR, and
+  25(3) lets the Commission issue guidance on prominence of choices,
+  repeated prompts and cancellation harder than sign-up. Article 27 requires
+  platforms using recommender systems to state the "main parameters" in
+  their terms, explain "why certain information is suggested", and offer any
+  available options for changing them. Article 38 requires very large
+  platforms and search engines to provide "at least one option for each of
+  their recommender systems which is not based on profiling". Recital 67
+  defines dark patterns as practices that "materially distort or impair,
+  either on purpose or in effect", the ability to make "autonomous and
+  informed choices".
+---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
+
+# NOTE-tmpay01i: Digital Services Act — Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services (Digital Services Act)
+
+## Contribution
+
+Article 25(1) forbids online platforms to "design, organise or operate their online interfaces in a way that deceives or manipulates the recipients of their service or in a way that otherwise materially distorts or impairs the ability of the recipients of their service to make free and informed decisions". Article 25(2) excludes practices already covered by the Unfair Commercial Practices Directive (2005/29/EC) or the GDPR, and 25(3) lets the Commission issue guidance on prominence of choices, repeated prompts and cancellation harder than sign-up. Article 27 requires platforms using recommender systems to state the "main parameters" in their terms, explain "why certain information is suggested", and offer any available options for changing them. Article 38 requires very large platforms and search engines to provide "at least one option for each of their recommender systems which is not based on profiling". Recital 67 defines dark patterns as practices that "materially distort or impair, either on purpose or in effect", the ability to make "autonomous and informed choices".
+
+## Key results
+
+- Art. 25(1): "shall not design, organise or operate their online interfaces in a way that deceives or manipulates the recipients of their service".
+- Art. 25(2): "The prohibition in paragraph 1 shall not apply to practices covered by Directive 2005/29/EC or Regulation (EU) 2016/679."
+- Art. 27(2): main parameters "shall explain why certain information is suggested to the recipient of the service".
+- Art. 38: "at least one option for each of their recommender systems which is not based on profiling".
+- Recital 67: dark patterns "materially distort or impair, either on purpose or in effect, the ability of recipients of the service to make autonomous and informed choices or decisions."
+
+## Assumptions
+
+None stated beyond the above.
+
+## Concepts
+
+Online interface design; dark patterns; recommender-system main parameters; profiling (GDPR Art. 4(4)); very large online platforms (VLOPs).
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** Accurate. Two precisions: Article 25's bar is residual, since it does not apply where the UCPD or GDPR already covers the practice; and Article 27 requires disclosure of parameters and of options if any exist, not that options be offered. Only Article 38 requires an option, and only of very large platforms.
+
+- **LIT-1002** (Susser, Roessler and Nissenbaum; manipulation as covert influence exploiting vulnerabilities): **qualifies**. The DSA's test in recital 67 is "on purpose or in effect" and turns on impaired "autonomous and informed choices", which is an effect criterion. Covertness is not required. Law and the paper's account of manipulation draw the line in different places.
+- Other held entries: **LIT-tmpj7u27** (transaction test) is built on the UCPD, which Art. 25(2) leaves in charge of the practices it covers; **CLAIM-tmpcv1pg / LIT-tmpgu9ct**: Art. 38's non-profiling option is a regulatory lever on the recommender side of those claims.
+
+Searched origin/main record/ for "Digital Services Act", "2022/2065", "dark pattern", "Unfair Commercial". No LIT holds the regulation; only LIT-1002 and NOTE-745 mention dark patterns. Not a duplicate.
+
+## Limitations
+
+Only the articles named by the exchange and their nearest neighbours were read; enforcement, systemic-risk articles (34–35) and recitals other than 67 were not.

@@ -47,6 +47,7 @@ summary: >-
 bears_on:
 - QUESTION-302
 ---
+<!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-447 — Proposed; the presupposed account, filed in the same batch; if it falls this one needs another premise -->
 <!-- inactive-ok-file: THEORY-448 THEORY-546 THEORY-650 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-147 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
@@ -161,3 +162,21 @@ Leaves the theory's claim untouched; a mild illustration.
 
 names advance directives (Dworkin, Jaworska, Dresser) as identity-adjacent;
 Millum adds nothing on them.
+
+## Note of 2026-11-12: The Ethics of Abortion (Harman, Stanford Encyclopedia of Philosophy, 2025), read
+
+From the reading in NOTE-tmpuunni (LIT-tmph9slz), the reader's assessment as
+checked by the filer: **supports** it, from the parts read. §2.2's objection
+turns on psychological connectedness and time-relative interests (McMahan),
+not on whether the fetus is numerically the later person. This is the
+pattern THEORY-464 describes.
+
+## Note of 2026-11-12: Dranseika (J Med Ethics 2026), read
+
+From the reading in NOTE-tmpaeoh4 (LIT-tmpoeqhr), the reader's assessment as
+checked by the filer: **qualifies**. This theory holds, as THEORY-448 does,
+that the metaphysics constrains the ethics without settling it. Dranseika's
+commentary on Devanesan adds that the dependence can run the other way, from
+a normative commitment to the choice of mereology, and that when it does,
+the mereology's fit with the commitment must not be counted as evidence for
+it. No status change.

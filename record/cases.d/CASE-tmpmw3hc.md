@@ -32,6 +32,7 @@ summary: >-
   hypotheses kept apart, and three levels of data. Not run. The cost
   figures were rechecked by the filer.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpftfht LIT-tmpk21r4 LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
 
@@ -97,3 +98,14 @@ Not run. The evidence A cites for its premises (Amano and Simonov,
 [LIT-tmpbl3eg](../literature.d/LIT-tmpbl3eg.md)) is registered unread. A31 rules out inducing harmful spending:
 "Experiments involving vulnerable users or harmful spending inducements
 would be inappropriate".
+
+## Note of 2026-11-12: Secondary analysis of loot box data: Are high-spending "whales" wealthy gamers or problem gamblers? (Close, Spicer, Nicklin, Uther, J. Lloyd, H. Lloyd 2021), read
+
+From the reading in NOTE-tmps8gyk (LIT-tmpk21r4), the reader's assessment as
+checked by the filer: **supports its motivating premise** (the high-spender
+group exists and carries economic weight) and characterises that group
+(problem-gambling severity, not wealth), which bears on H3 (endogenous
+high-spender demand) only as association. It gives no evidence on H1/H2
+(design drift tracking high spenders). Its methods note (self-report,
+pooled, no company data) is a direct argument for the case's player-level
+transaction data.

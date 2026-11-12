@@ -5,9 +5,9 @@ status_note: >-
   located and what stopped each: ACM Digital Library
   `https://dl.acm.org/doi/pdf/10.1145/3805689.3812417` (published version;
   OpenAlex and Semantic Scholar list it OA, CC BY) — Cloudflare "Just a
-  moment..." challenge (HTTP 403), 2026-11-12; stopped.; No arXiv or HAL
+  moment..." challenge (HTTP 403), 2026-11-12; stopped; No arXiv or HAL
   copy found (arXiv title and author searches; HAL API search by title and
-  authors returned none).. A neighbour was read in its place: LIT-tmpx81t4,
+  authors returned none). A neighbour was read in its place: LIT-tmpx81t4,
   which stands in only in part (see "Standing in the record").
 title: 'Beyond Base Metric: The Critical and Overlooked Role of Meta-Metrics in Intersectional Fairness'
 version: 2

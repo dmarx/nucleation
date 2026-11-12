@@ -35,7 +35,7 @@ summary: >-
   hidden objectives shifted choices toward inferior options, while
   participants still rated them helpful. The preprint of [LIT-tmpvj6mw](LIT-tmpvj6mw.md),
   standing in for its design, main effects and perceived-helpfulness
-  result.. Read on 2026-11-12 in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md): Between-subjects randomized
+  result. Read on 2026-11-12 in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md): Between-subjects randomized
   experiment, 233 participants (Prolific and WeChat), financial (purchase)
   and emotional (conflict) decision scenarios, each with one optimal option
   and hidden-incentive options. Participants consulted one of three GPT-4o

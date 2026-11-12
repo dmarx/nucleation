@@ -366,3 +366,12 @@ the evidence channel outlives the steering. No status change.
 
 From the reading in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md) ([LIT-tmpbye08](../literature.d/LIT-tmpbye08.md)), the reader's assessment as
 checked by the filer: supports (see parent report).
+
+## Note of 2026-11-12: The transaction test: An experimental method for assessing online interfaces (Bogliacino, Pejsachowicz, Liva, Lupiáñez-Villanueva 2026), read
+
+From the reading in NOTE-tmprz4xm (LIT-tmpj7u27), the reader's assessment as
+checked by the filer: **leaves open**; only an analogy at the individual
+level. An interface that hides information governs a choice through the
+evidence it receives without making the choice, which is the informational
+route at person scale; the paper says nothing about organizations or about
+evaluative independence.
