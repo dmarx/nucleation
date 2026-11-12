@@ -7,3 +7,7 @@
 - Dated notes on [CLAIM-581](record/claims.d/CLAIM-581.md), [CLAIM-632](record/claims.d/CLAIM-632.md) and [QUESTION-095](record/questions.d/QUESTION-095.md).
 - The assistant's ideas, filed at the owner's request: a staleness term for learned specializations whose base model is replaced ([CLAIM-tmpnwq8a](record/claims.d/CLAIM-tmpnwq8a.md), on [QUESTION-095](record/questions.d/QUESTION-095.md)), and the comparative readiness criterion, which restates [CLAIM-632](record/claims.d/CLAIM-632.md) and is a note there.
 - The seven registered works read (NOTEs and Proposed THEORYs; LITs Active); [CLAIM-tmpnwq8a](record/claims.d/CLAIM-tmpnwq8a.md)'s ground moved from IP-Adapter's reading, which carries less than it was cited for ([ARG-tmpu8x8a](record/arguments.d/ARG-tmpu8x8a.md), Rejected), to LoRA's ([ARG-tmp4icc1](record/arguments.d/ARG-tmp4icc1.md)); [THEORY-439](record/theory.d/THEORY-439.md) now bears on [QUESTION-095](record/questions.d/QUESTION-095.md).
+
+### Changed
+
+- At the owner's review of dmarx/nucleation#482: CLAIM-tmpnwq8a (version 3) says a base-model replacement *can* impose a compatibility or transfer cost that shortens a learned specialization's useful life, and leaves how often to evidence; ARG-tmp4icc1 is weakened to match; ARG-tmpu8x8a is retitled as the positive inference it rejects; CASE-tmp3isyl's crossover allows an up-front cost on the reference route, n* = (F_train − F_ref)/(c_ref − c_train), and counts cost per acceptable output, retries included.
