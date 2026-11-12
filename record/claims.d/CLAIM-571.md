@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -46,6 +46,15 @@ history:
     and his free V-category formula (p. 165) specialised to it is B*.
     THEORY-1376, Active at the same review, is added to corroborated_by
     (ADR-058). No status change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Grounded in CASE-233, its own barrier example filed as a
+    construction case under ADR-096, the decision's first
+    application; ARG-077 carries the support for the claim's
+    "need not equal" clause. The body is unchanged. No status change.
+grounds:
+- CASE-233
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -82,6 +91,7 @@ complements:
 - CLAIM-575
 - CLAIM-591
 ---
+<!-- inactive-ok-file: CASE-233 ADR-096 ARG-077 — Proposed; the construction case filed from this claim's body, and the decision it applies -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-204 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 

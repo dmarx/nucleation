@@ -124,3 +124,14 @@ is a construction, and shows only that such pairs exist.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 A's fourth paste gives a three-stage design, finite mechanisms, then modular origami, then architecture-changing systems, with four target results. The second's smallest form is [CASE-199](CASE-199.md); the third is [QUESTION-382](../questions.d/QUESTION-382.md); the fourth is held to [CLAIM-322](../claims.d/CLAIM-322.md)'s held-out examples. No status changes.
+
+## Note of 2026-11-12: a test that breaks the detector, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-240 — filed from the same exchange, Proposed -->
+A8 §6 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) gives this study's
+control a plain instance: "a fragile detector that works under ordinary
+conditions but is damaged by an unusually aggressive diagnostic test.
+... The debugger discovers a failure, but the intervention caused it."
+A8 proposes this case's control for it, comparing "fresh, reset copies
+against systems subjected to repeated tests". Folded into the owner's
+debugging case ([CASE-240](CASE-240.md)). Nothing changes.

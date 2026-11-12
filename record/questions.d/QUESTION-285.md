@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpubsi9
 title: 'What organization turns an interaction into a measurement, a measurement into a record that something uses, and observation into inquiry, without a conscious investigator; and what keeps an apparatus that revises its own discriminations answerable to what it did not produce?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    The first note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12:
+    CLAIM-649's absence is evidence in general and entailment only
+    under a validated guarantee. A second note of the same day records the
+    review's research problem. The question is unchanged.
 tags:
 - epistemology
 - philosophy-of-science
@@ -27,6 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1055 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-476 THEORY-621 — Proposed or new; the claims, reading and term the question presses on, cited as open -->
+<!-- inactive-ok-file: SYNTHESIS-068 SYNTHESIS-064 SYNTHESIS-012 SYNTHESIS-050 ADR-083 ADR-084 CLAIM-160 CLAIM-171 — Proposed; the part accounts, decisions on scope and components cited in the note of 2026-11-12 on a cross-line account -->
 <!-- inactive-ok-file: LIT-1653 LIT-1657 — Deferred or Unavailable; registered works the question would read, cited as unread -->
 
 # QUESTION-285: What organization turns an interaction into a measurement, a measurement into a record that something uses, and observation into inquiry, without a conscious investigator; and what keeps an apparatus that revises its own discriminations answerable to what it did not produce?
@@ -231,3 +240,90 @@ second rung and stops there.
   reflection may not rewrite, which is the open part ([CLAIM-342](../claims.d/CLAIM-342.md)).
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-12: meaning with no sentient emitter or receiver, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: THEORY-1646 — filed from the same exchange, Proposed -->
+The owner asked, at U1 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), for the
+record's "account of how meaning can be transmitted independent of any
+sentient emitter or receiver". That is this question's scope, and A's
+relay at A3 never cites it. A3 assembles [TERM-089](../terms.d/TERM-089.md), the Kolchinsky and
+Wolpert reading ([NOTE-1370](../notes.d/NOTE-1370.md), now [THEORY-1646](../theory.d/THEORY-1646.md)), [CLAIM-050](../claims.d/CLAIM-050.md) and
+[TERM-034](../terms.d/TERM-034.md), [THEORY-1276](../theory.d/THEORY-1276.md) and [CLAIM-525](../claims.d/CLAIM-525.md), and Grice, the unheard tree and
+the unread message. Its descriptions of them are accurate. It leaves out
+two limits the record states: Kolchinsky and Wolpert's viability function
+is "exogenously determined by the scientist analyzing the system", and
+Simondonian signification, on this question's note of 2026-10-31, counts
+nothing as a failure to inform.
+
+<!-- inactive-ok-block: CASE-243 CASE-240 CLAIM-649 CLAIM-651 CASE-242 — filed from the same exchange, Proposed -->
+The owner's two cases put the question's rungs to work. In the smoke
+detector that sets off sprinklers ([CASE-243](../cases.d/CASE-243.md)) a difference is
+differentiated, kept and enforced with no one present: the rung of use,
+reached by design. The debugger's test ([CASE-240](../cases.d/CASE-240.md)) adds what the
+rungs did not have, a meaning carried by an absence: under an
+intervention with an expected profile, silence is evidence that the
+mechanism is broken, and entails it only under a validated guarantee
+([CLAIM-649](../claims.d/CLAIM-649.md), the owner's, as narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner
+relayed on 2026-11-12). A10 §6 adds the condition, that an
+absence registers only for an apparatus that opens an interval, keeps
+the expectation and times out ([CLAIM-651](../claims.d/CLAIM-651.md), A's). A non-sentient
+tester can be that apparatus. A's construction ([CASE-242](../cases.d/CASE-242.md)) carries
+the detector into the record's probe and maintenance studies, and its
+out-of-model relay restates this question's distinction between
+rejecting a hypothesis and finding the family inadequate.
+
+A8 closes on a research question: "Under what conditions can a
+non-sentient system generate, preserve, apply, and revise distinctions
+between its actual and counterfactually expected behavior—and when, if
+ever, do those distinctions constitute meaning for the system rather than
+merely meaning attributed by an external investigator?" Its first half is
+this question's top rung and second clause; its second half is
+[QUESTION-128](QUESTION-128.md)'s. No new question is filed. The question stays Open.
+
+## Note of 2026-11-12: a proposed cross-line account, and the ruling it needs
+
+Offered at the filing of "Meaning Transmission Explained" and accepted by the owner for filing: the
+record's account of meaning with no sentient emitter or receiver, which
+the owner asked for at U1 of that exchange, has no single address. Its
+components sit in three lines, and each is already integrated by a part
+account of its own line:
+- [SYNTHESIS-068](../syntheses.d/SYNTHESIS-068.md) ([CASE-049](../cases.d/CASE-049.md), [CASE-043](../cases.d/CASE-043.md), [CLAIM-160](../claims.d/CLAIM-160.md), [CLAIM-171](../claims.d/CLAIM-171.md));
+- [SYNTHESIS-064](../syntheses.d/SYNTHESIS-064.md) ([TERM-034](../terms.d/TERM-034.md), [CLAIM-525](../claims.d/CLAIM-525.md));
+- [SYNTHESIS-012](../syntheses.d/SYNTHESIS-012.md) ([TERM-089](../terms.d/TERM-089.md));
+- [SYNTHESIS-050](../syntheses.d/SYNTHESIS-050.md) (this question).
+
+[ADR-083](../decisions.d/ADR-083.md) and [ADR-084](../decisions.d/ADR-084.md) define a scope as "a line or a part of one" and allow
+one account per scope. So a SYNTHESIS for this topic cannot be filed
+under them as they stand, and none is filed. The proposal is an account
+whose scope is this question's components across the pragmatic-transport,
+record-as-apparatus and distributed-agency lines, adding nothing to
+them. It would need one of two rulings:
+- an amendment of [ADR-083](../decisions.d/ADR-083.md) admitting a scope defined by a question rather
+  than a line, with the guard that it never duplicates a part account's
+  mapping; or
+- a decision to move this question's components into one line.
+
+The map such an account would carry is in the curation entry of
+2026-11-12 (020028) and in this question's note above. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-12: the review's research problem, held here
+
+<!-- inactive-ok-block: CASE-240 CLAIM-651 CASE-242 CASE-239 CASE-163 — filed in this pull request or Proposed, cited with their standing -->
+The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 names "the next research problem": "Can a
+system make its own unexpected non-responses informative, use them to
+discover failures in its organization, and revise the criteria by which
+future non-responses become informative?" It names three accomplishments
+not to be conflated: detecting a discrepancy; diagnosing its cause;
+changing the apparatus that determines what counts as a discrepancy.
+This question already holds the problem, applied to non-responses.
+Detecting is the rung of use (the debugger's test, [CASE-240](../cases.d/CASE-240.md), with
+[CLAIM-651](../claims.d/CLAIM-651.md) for what registering a bounded non-response takes).
+Diagnosing is identification among candidate mechanisms ([CASE-152](../cases.d/CASE-152.md),
+[CASE-163](../cases.d/CASE-163.md); [CASE-242](../cases.d/CASE-242.md)). Changing the apparatus that defines a
+discrepancy is the top rung, where G "can change which distinctions A
+makes", and the second clause asks what keeps that revision answerable.
+The review's further question, whether the third gives meaning for the
+system itself as opposed to externally specified functionality, is
+[QUESTION-128](QUESTION-128.md)'s. No new question is filed. The proposed study that would
+test the third accomplishment is [CASE-239](../cases.d/CASE-239.md). The question stays Open.

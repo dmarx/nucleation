@@ -26,6 +26,7 @@ summary: >-
   mechanical readings external; it does not ask what would make it the
   system's own. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-1716 THEORY-1637 NOTE-1718 THEORY-1636 — readings filed 2026-11-12, Skimmed and Proposed -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
 
 # QUESTION-388: What distinguishes a programmable system from one that governs its own reconfiguration?
@@ -119,3 +120,29 @@ No status changes.
 ## Note of 2026-11-07: a ladder of self-modification in software, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07) ("The hard question: can the software maintain its own transformation machinery?"), gives a ladder: a service that updates on an external schedule; one that repairs its deployment and selects configurations; one that diagnoses failures in its own updating mechanisms and builds replacements. "But even this is not automatically self-governance. The capacity to modify a rule is different from maintaining a reliable process for determining *when, why, and under what constraints* the rule should change." That extends this question's distinction into software, and places the line where the question does. A does not cite it. Open.
+
+## Note of 2026-11-12: Kiczales et al., read
+
+Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin's
+"Aspect-oriented programming" ([LIT-2334](../literature.d/LIT-2334.md), skimmed in [NOTE-1716](../notes.d/NOTE-1716.md);
+[THEORY-1637](../theory.d/THEORY-1637.md)), read as a stand-in for Part I of The Art of the Metaobject
+Protocol. It bears on this question by
+analogy at one point. A reflective system gives "a base language and (one
+or more) meta-languages that provide control over the base language's
+semantics and implementation" (§8.2), and the authors found that "this kind
+of reflective access is so powerful that it can be dangerous or difficult
+to use" (§6.2), so they replaced it with a narrower aspect language of
+their own design. The machinery of change is inside the system; what it may
+change is fixed by designers outside it, the split this question finds in
+Stern et al.'s sheet. The paper does not ask who should govern
+reconfiguration. Open.
+
+Chapter 5 of the book itself, skimmed the same day ([NOTE-1718](../notes.d/NOTE-1718.md);
+[THEORY-1636](../theory.d/THEORY-1636.md)) once the owner ruled the copy usable, says the same thing
+more exactly. Users change CLOS by specializing its metaobjects, and the
+change propagates to dependents inside the system; but "This balance
+between user extensibility and implementor freedom is mediated by placing
+explicit restrictions on each", restrictions its designers wrote, and the
+authors call protocol specification "inherently about specifying leeway".
+Who fixes the leeway is an ingredient this question's criterion may need.
+Open.

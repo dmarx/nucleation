@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**914 documents cited without acknowledgement.** Not listed: 24090 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**916 documents cited without acknowledgement.** Not listed: 24450 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1681,7 +1681,7 @@ For a named population of receivers and a stated family of tasks, what survives 
 
 Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
 
-83 citations in 52 files await a look; 53 other citations of it are acknowledged.
+83 citations in 52 files await a look; 59 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
@@ -1771,7 +1771,7 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 
 A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again
 
-79 citations in 45 files await a look; 39 other citations of it are acknowledged.
+79 citations in 45 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-055.md:19`](../../record/arguments.d/ARG-055.md)
 - [`record/arguments.d/ARG-055.md:33`](../../record/arguments.d/ARG-055.md)
@@ -1827,7 +1827,7 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 - [`record/claims.d/CLAIM-632.md:12`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:24`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:83`](../../record/claims.d/CLAIM-632.md)
-- [`record/claims.d/CLAIM-632.md:93`](../../record/claims.d/CLAIM-632.md)
+- [`record/claims.d/CLAIM-632.md:94`](../../record/claims.d/CLAIM-632.md)
 - [`record/decisions.d/ADR-075.md:5`](../../record/decisions.d/ADR-075.md)
 - [`record/decisions.d/ADR-076.md:60`](../../record/decisions.d/ADR-076.md)
 - [`record/decisions.d/ADR-077.md:26`](../../record/decisions.d/ADR-077.md)
@@ -1857,7 +1857,7 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 
 A reading named as evidence in a question's or claim's text is tied when the name is written, supporting cases corroborate, a question's instruments are its premises, and readings used only by cases, terms or syntheses are held as used
 
-55 citations in 53 files await a look; 36 other citations of it are acknowledged.
+57 citations in 55 files await a look; 36 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-273.md:67`](../../record/claims.d/CLAIM-273.md)
 - [`record/claims.d/CLAIM-384.md:25`](../../record/claims.d/CLAIM-384.md)
@@ -1896,11 +1896,13 @@ A reading named as evidence in a question's or claim's text is tied when the nam
 - [`record/theory.d/THEORY-1522.md:30`](../../record/theory.d/THEORY-1522.md)
 - [`record/theory.d/THEORY-1592.md:25`](../../record/theory.d/THEORY-1592.md)
 - [`record/theory.d/THEORY-193.md:33`](../../record/theory.d/THEORY-193.md)
+- [`record/theory.d/THEORY-220.md:58`](../../record/theory.d/THEORY-220.md)
 - [`record/theory.d/THEORY-261.md:24`](../../record/theory.d/THEORY-261.md)
 - [`record/theory.d/THEORY-379.md:26`](../../record/theory.d/THEORY-379.md)
 - [`record/theory.d/THEORY-380.md:26`](../../record/theory.d/THEORY-380.md)
 - [`record/theory.d/THEORY-385.md:26`](../../record/theory.d/THEORY-385.md)
 - [`record/theory.d/THEORY-431.md:13`](../../record/theory.d/THEORY-431.md)
+- [`record/theory.d/THEORY-439.md:37`](../../record/theory.d/THEORY-439.md)
 - [`record/theory.d/THEORY-466.md:13`](../../record/theory.d/THEORY-466.md)
 - [`record/theory.d/THEORY-543.md:13`](../../record/theory.d/THEORY-543.md)
 - [`record/theory.d/THEORY-598.md:13`](../../record/theory.d/THEORY-598.md)
@@ -4648,7 +4650,7 @@ Agency in the sense that bears on responsibility needs a standpoint that settles
 
 A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights
 
-10 citations in 3 files await a look; 5 other citations of it are acknowledged.
+10 citations in 3 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-288.md:37`](../../record/claims.d/CLAIM-288.md)
 - [`record/claims.d/CLAIM-288.md:38`](../../record/claims.d/CLAIM-288.md)
@@ -4657,9 +4659,9 @@ A far-from-equilibrium system that contributes to its own maintenance has functi
 - [`record/claims.d/CLAIM-363.md:125`](../../record/claims.d/CLAIM-363.md)
 - [`record/claims.d/CLAIM-363.md:126`](../../record/claims.d/CLAIM-363.md)
 - [`record/claims.d/CLAIM-363.md:187`](../../record/claims.d/CLAIM-363.md)
-- [`record/questions.d/QUESTION-128.md:31`](../../record/questions.d/QUESTION-128.md)
-- [`record/questions.d/QUESTION-128.md:89`](../../record/questions.d/QUESTION-128.md)
-- [`record/questions.d/QUESTION-128.md:120`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:38`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:96`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:127`](../../record/questions.d/QUESTION-128.md)
 
 ### [CLAIM-066](../../record/claims.d/CLAIM-066.md) — Superseded
 
@@ -5293,7 +5295,7 @@ Records kept of each capacity a response needs bound a reserve's readiness for a
 - [`docs/syntheses/warrant/demonstrated.md:14`](../syntheses/warrant/demonstrated.md)
 - [`record/claims.d/CLAIM-632.md:13`](../../record/claims.d/CLAIM-632.md)
 - [`record/claims.d/CLAIM-632.md:82`](../../record/claims.d/CLAIM-632.md)
-- [`record/claims.d/CLAIM-632.md:93`](../../record/claims.d/CLAIM-632.md)
+- [`record/claims.d/CLAIM-632.md:94`](../../record/claims.d/CLAIM-632.md)
 - [`record/decisions.d/ADR-087.md:99`](../../record/decisions.d/ADR-087.md)
 
 ### [SYNTHESIS-013](../../record/syntheses.d/SYNTHESIS-013.md) — Proposed
@@ -5330,7 +5332,7 @@ In the record's exchanges with collaborators who keep no memory, the argument lo
 
 Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
 
-8 citations in 7 files await a look; 4 other citations of it are acknowledged.
+8 citations in 7 files await a look; 5 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:24`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
@@ -5368,8 +5370,8 @@ Minimal agency requires individuality, interactional asymmetry and self-generate
 - [`record/claims.d/CLAIM-284.md:19`](../../record/claims.d/CLAIM-284.md)
 - [`record/claims.d/CLAIM-288.md:29`](../../record/claims.d/CLAIM-288.md)
 - [`record/questions.d/QUESTION-032.md:77`](../../record/questions.d/QUESTION-032.md)
-- [`record/questions.d/QUESTION-128.md:31`](../../record/questions.d/QUESTION-128.md)
-- [`record/questions.d/QUESTION-128.md:86`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:38`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:93`](../../record/questions.d/QUESTION-128.md)
 
 ### [THEORY-1285](../../record/theory.d/THEORY-1285.md) — Proposed
 
@@ -6381,14 +6383,14 @@ A bounded generative model can learn its own structure with no machinery beyond 
 
 Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity
 
-6 citations in 4 files await a look; 14 other citations of it are acknowledged.
+6 citations in 4 files await a look; 20 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-015.md:12`](../../record/arguments.d/ARG-015.md)
 - [`record/claims.d/CLAIM-341.md:47`](../../record/claims.d/CLAIM-341.md)
-- [`record/questions.d/QUESTION-128.md:31`](../../record/questions.d/QUESTION-128.md)
-- [`record/questions.d/QUESTION-128.md:95`](../../record/questions.d/QUESTION-128.md)
-- [`record/questions.d/QUESTION-128.md:122`](../../record/questions.d/QUESTION-128.md)
-- [`record/theory.d/THEORY-220.md:202`](../../record/theory.d/THEORY-220.md)
+- [`record/questions.d/QUESTION-128.md:38`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:102`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:129`](../../record/questions.d/QUESTION-128.md)
+- [`record/theory.d/THEORY-220.md:210`](../../record/theory.d/THEORY-220.md)
 
 ### [THEORY-665](../../record/theory.d/THEORY-665.md) — Proposed
 
@@ -6494,7 +6496,7 @@ Three organizations at 50% on one task, output y = c for a fair context c ∈ {�
 
 Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention
 
-5 citations in 5 files await a look; 30 other citations of it are acknowledged.
+5 citations in 5 files await a look; 32 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:21`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:20`](../syntheses/role/thesis.md)
@@ -6542,7 +6544,7 @@ Which communicative act an utterance performs is partly constituted by its relat
 
 A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one
 
-5 citations in 4 files await a look; 22 other citations of it are acknowledged.
+5 citations in 4 files await a look; 23 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:270`](../../record/decisions.d/ADR-040.md)
 - [`record/notes.d/NOTE-1484.md:308`](../../record/notes.d/NOTE-1484.md)
@@ -6914,13 +6916,13 @@ A system can keep its identity independently within a shared environment only if
 
 A trait malfunctions when its operation does not correlate positively with the normative field, the minimum change its organization's viability requires at each precarious state; malfunction needs no second order of regulatory norms, and regulatory traits can malfunction by the same standard
 
-5 citations in 2 files await a look; 4 other citations of it are acknowledged.
+5 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-368.md:30`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:149`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:216`](../../record/claims.d/CLAIM-368.md)
-- [`record/questions.d/QUESTION-128.md:31`](../../record/questions.d/QUESTION-128.md)
-- [`record/questions.d/QUESTION-128.md:100`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:38`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-128.md:107`](../../record/questions.d/QUESTION-128.md)
 
 ### [THEORY-577](../../record/theory.d/THEORY-577.md) — Proposed
 
@@ -7842,11 +7844,22 @@ Hermeneutical injustice is having a significant area of one's social experience 
 - [`record/theory.d/THEORY-317.md:156`](../../record/theory.d/THEORY-317.md)
 - [`record/theory.d/THEORY-317.md:166`](../../record/theory.d/THEORY-317.md)
 
+### [THEORY-331](../../record/theory.d/THEORY-331.md) — Proposed
+
+Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
+
+4 citations in 4 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-095.md:244`](../../record/questions.d/QUESTION-095.md)
+- [`record/theory.d/THEORY-342.md:131`](../../record/theory.d/THEORY-342.md)
+- [`record/theory.d/THEORY-351.md:139`](../../record/theory.d/THEORY-351.md)
+- [`record/theory.d/THEORY-359.md:127`](../../record/theory.d/THEORY-359.md)
+
 ### [THEORY-444](../../record/theory.d/THEORY-444.md) — Proposed
 
 To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
 
-4 citations in 2 files await a look; 3 other citations of it are acknowledged.
+4 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-160.md:18`](../../record/claims.d/CLAIM-160.md)
 - [`record/claims.d/CLAIM-160.md:159`](../../record/claims.d/CLAIM-160.md)
@@ -7971,7 +7984,7 @@ A self-maintaining protective regime, whose interventions shift the evidence and
 
 Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
 
-3 citations in 3 files await a look; 38 other citations of it are acknowledged.
+3 citations in 3 files await a look; 42 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-186.md:224`](../../record/cases.d/CASE-186.md)
 - [`record/claims.d/CLAIM-336.md:332`](../../record/claims.d/CLAIM-336.md)
@@ -8111,7 +8124,7 @@ A communicative kind is identified by an invariant that does not depend on any o
 
 Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored
 
-3 citations in 3 files await a look; 41 other citations of it are acknowledged.
+3 citations in 3 files await a look; 42 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:270`](../../record/decisions.d/ADR-040.md)
 - [`record/notes.d/NOTE-1484.md:308`](../../record/notes.d/NOTE-1484.md)
@@ -8341,11 +8354,21 @@ A localized structure can persist by an internal balance that needs no supply, b
 
 Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
 
-3 citations in 2 files await a look; 24 other citations of it are acknowledged.
+3 citations in 2 files await a look; 31 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-210.md:30`](../../record/cases.d/CASE-210.md)
 - [`record/syntheses.d/SYNTHESIS-009.md:12`](../../record/syntheses.d/SYNTHESIS-009.md)
 - [`record/syntheses.d/SYNTHESIS-009.md:16`](../../record/syntheses.d/SYNTHESIS-009.md)
+
+### [CLAIM-649](../../record/claims.d/CLAIM-649.md) — Proposed
+
+An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated
+
+3 citations in 3 files await a look; 24 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-285.md:13`](../../record/questions.d/QUESTION-285.md)
+- [`record/theory.d/THEORY-444.md:25`](../../record/theory.d/THEORY-444.md)
 
 ### [LIT-079](../../record/literature.d/LIT-079.md) — Proposed
 
@@ -8681,7 +8704,7 @@ Is an inquiry's current set of conclusions, or its logically closed belief set, 
 
 The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds
 
-3 citations in 3 files await a look; 2 other citations of it are acknowledged.
+3 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:13`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:23`](../syntheses/role/thesis.md)
@@ -8957,16 +8980,6 @@ Inductive and explanatory usefulness is necessary but not sufficient for a natur
 - [`record/literature.d/LIT-244.md:97`](../../record/literature.d/LIT-244.md)
 - [`record/notes.d/NOTE-769.md:233`](../../record/notes.d/NOTE-769.md)
 
-### [THEORY-331](../../record/theory.d/THEORY-331.md) — Proposed
-
-Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
-
-3 citations in 3 files await a look.
-
-- [`record/theory.d/THEORY-342.md:131`](../../record/theory.d/THEORY-342.md)
-- [`record/theory.d/THEORY-351.md:139`](../../record/theory.d/THEORY-351.md)
-- [`record/theory.d/THEORY-359.md:127`](../../record/theory.d/THEORY-359.md)
-
 ### [THEORY-464](../../record/theory.d/THEORY-464.md) — Proposed
 
 In the ethical questions that seem to turn on whether someone is the same person, among them prudential concern, responsibility, abortion, advance directives and the separateness of persons, the relation that decides is usually not numerical identity but one that comes apart from it, so the metaphysics of persistence constrains these questions and rarely settles them
@@ -9071,7 +9084,7 @@ In two-agent rock–scissors–paper played by softmax reinforcement learners, n
 
 An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split
 
-2 citations in 1 file await a look; 48 other citations of it are acknowledged.
+2 citations in 1 file await a look; 50 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -10836,7 +10849,7 @@ The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine
 
 A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it
 
-1 citation in 1 file awaits a look; 23 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 28 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-087.md:109`](../../record/decisions.d/ADR-087.md)
 
@@ -11792,6 +11805,14 @@ The two-step mechanism of nucleation of crystals in solution
 
 - [`record/claims.d/CLAIM-181.md:187`](../../record/claims.d/CLAIM-181.md)
 
+### [NOTE-1716](../../record/notes.d/NOTE-1716.md) — Skimmed
+
+Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin — Aspect-oriented programming
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1718.md:123`](../../record/notes.d/NOTE-1718.md)
+
 ### [NOTE-200](../../record/notes.d/NOTE-200.md) — Superseded
 
 Rate-distortion generalization bounds
@@ -12719,7 +12740,7 @@ A reference the reader cannot follow: the code names no document in this record.
 
 A temporary code belongs to the contribution that created it, and only that contribution can cite it safely. One cited here with no document behind it is another branch's — it resolves for as long as both are open, and stops the moment the other merges and its code is numbered. The trunk never sees the spelling this record wrote down.
 
-**0 codes not minted here.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment — an illustrative code in an example is the usual one.
+**0 codes not minted here.** Not listed: 2 mentions marked deliberate with an `unresolved-ok:` comment — an illustrative code in an example is the usual one.
 
 Every temporary code cited here is this record's own. ✅
 

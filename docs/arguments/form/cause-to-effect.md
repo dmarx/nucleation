@@ -6,8 +6,9 @@
 
 **Cause to effect** — this mechanism produces that outcome. Critical questions: is the mechanism operative here? Could a confounder produce the same outcome?.
 
-1 of 76 ARG documents. Back to the [full index](../README.md).
+2 of 85 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-020](../../../record/arguments.d/ARG-020.md) v2 | The compensation hypothesis gives the mechanism by which a rendering keeps the act while changing the proposition | [CLAIM-053](../../../record/claims.d/CLAIM-053.md) credited A24's compensation hypothesis with the mechanism for the necessity half: a rendering can keep the act while changing the proposition. Rejected on [CLAIM-229](../../../record/claims.d/CLAIM-229.md)'s reply. The hypothesis says that lexical infidelity can be required for pragmatic fidelity, which is about words, and a change of wording can keep the proposition. | Rejected |
+| [ARG-079](../../../record/arguments.d/ARG-079.md) v2 | Because a LoRA module is an additive update to one set of frozen pretrained weights, amplifying directions already in them, replacing those weights leaves the module without the base it was defined on, so its effect on the new base is not guaranteed and has to be re-established, by transfer or by retraining | The ground for [CLAIM-647](../../../record/claims.d/CLAIM-647.md)'s premise after the reading of IP-Adapter carried less than it was cited for ([ARG-080](../../../record/arguments.d/ARG-080.md)). LoRA's structure makes a module a change to particular weights; the claim needs that, and the paper gives it. The step from "defined on W0" to "useless on a different W" is the filer's, untested by the paper, and is what a transfer test would check. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

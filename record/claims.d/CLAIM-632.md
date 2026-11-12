@@ -84,6 +84,7 @@ summary: >-
   The integration's wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-237 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; the inference from use counts this replaces -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that filed this entry -->
@@ -181,3 +182,29 @@ age. They answer the half of [QUESTION-395](../questions.d/QUESTION-395.md) that
   mobilizes as the policy would.
 - **Anything about readiness in [CLAIM-572](CLAIM-572.md)'s sense**, the observing and
   response budget, which is a different notion.
+
+## Note of 2026-11-12: A's comparative form, from "Identify Synthesis Opportunities"
+
+In the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44, A8), A proposed as a new claim that "Improving the success probability of every required capacity can decrease overall readiness if the dependencies between capacities change", with two capacities going from 0.8 each, failing together, to 0.85 each, failing apart, while R falls from 0.8 to 0.7. A said it "extends CLAIM-632's static bounds to a comparative result". The filing judged it held here: item 3's certification rule, applied with the earlier record's upper bound min Pᵢ as the floor, says that later records certify a rise only when ΣP′ᵢ − (n − 1) exceeds it, and 0.7 does not exceed 0.8. The construction is filed as [CASE-237](../cases.d/CASE-237.md), illustrating this claim; A's claim is not filed. No status change.
+
+The assistant (Claude, in the filing session) offered the comparative criterion as a claim of its own, and the owner asked for it to be filed. Checked, it restates this claim, so it is recorded here and not as a duplicate. Let L, U be the Fréchet bounds from the earlier records and L′, U′ from the later ones. Since the bounds are attained (item 2), every pair of dependences gives a strict rise exactly when L′ > U; when L′ ≤ U, the earlier law at U and the later at L′ give no rise. That is item 3's certification rule with r* = U. A random check of 100,000 marginal vectors (n from 2 to 5, every marginal rising or held) found no case where the criterion and the attained extremes disagreed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.
+
+## Note of 2026-11-12: a sprinkler response as a conjunction of capacities
+
+<!-- inactive-ok-block: CASE-242 CASE-240 — filed from the exchange "Meaning Transmission Explained", Proposed -->
+The fire-alarm chain filed from the exchange "Meaning Transmission Explained" ([CASE-242](../cases.d/CASE-242.md)) is
+this claim's setting in miniature. A sprinkler response to a fire needs
+the sensor, the relay and the actuator to hold together, a pure
+conjunction in [CLAIM-587](CLAIM-587.md)'s sense. Records of each component bound the
+response's readiness as this claim says. For illustration, with
+per-component probabilities 0.98, 0.99 and 0.95, the bounds are
+0.98 + 0.99 + 0.95 − 2 = 0.92 and min = 0.95. The product under
+independence is 0.92169, inside them (computed). The test injector in
+that chain is not a capacity of the response but of the test, so its
+failure lowers the evidence about readiness, not readiness itself. That
+is the owner's debugging case ([CASE-240](../cases.d/CASE-240.md)), where a silent test does
+not say whether the response or the test failed. A deadline-bound
+exercise, this claim's joint evidence, is in that chain the
+independent-smoke probe, which exercises every capacity of the response
+at once and nothing else. [CASE-210](../cases.d/CASE-210.md) has the same structure with rescue
+squads. Nothing changes. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

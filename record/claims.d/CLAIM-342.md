@@ -271,6 +271,19 @@ Three readings bear on this claim directly.
   in simulation. On real data the method's only check is its own
   consistency.
 
+## Note of 2026-11-12: a suppressing evaluator in a fire alarm, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-242 — filed from the same exchange, Proposed -->
+A8 §4 and A10 §3 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) apply this
+claim to the owner's smoke detector. In one arrangement the silent test
+is scored independently and starts a repair. In the other the evaluator
+suppresses the contradicting result: the mismatch is "Physically
+observable" and is not used ([CASE-242](../cases.d/CASE-242.md), step 3, stated rather than
+computed). A8's line that "Nucleation distinguishes the availability of
+evidence from whether governing processes grant that evidence practical
+influence" is [CLAIM-349](CLAIM-349.md)'s separation of access, authority and action,
+which A does not cite. Nothing changes.
+
 ## Note of 2026-11-12: platforms that read the behaviour they induced as preference, from "Medical Ethics and Media Enshitification"
 
 A23 §3 and A29 §6 of the exchange (2026-11-11) are this claim's loop in a

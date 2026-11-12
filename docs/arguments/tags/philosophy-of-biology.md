@@ -6,8 +6,8 @@
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-0 of 76 ARG documents. Back to the [full index](../README.md).
+1 of 85 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-083](../../../record/arguments.d/ARG-083.md) v2 | Bickhard's account and the two-profile forager show that a profile set by a system's own upkeep is a norm different from a designer's, with the same silent case and different verdicts where persistence is at stake | The inference to [CLAIM-648](../../../record/claims.d/CLAIM-648.md). Bickhard's account ([THEORY-220](../../../record/theory.d/THEORY-220.md)) supplies the anticipation and its failure by the system's own lights. The owner's claim ([CLAIM-649](../../../record/claims.d/CLAIM-649.md)) supplies the reading of an absence under an expected profile. The forager construction ([CASE-241](../../../record/cases.d/CASE-241.md)) shows that a profile set by upkeep and one set by a designer are different norms. Proposed. The construction establishes the difference between the norms, not that a simulated self-set norm is the system's own; that rests on [THEORY-220](../../../record/theory.d/THEORY-220.md), which is Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |
