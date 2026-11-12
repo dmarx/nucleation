@@ -39,10 +39,10 @@ A purpose-based justification of intergenerational group responsibility that set
 
 ## Assumptions
 
-- Some groups are moral agents (French; List and Pettit, THEORY-139; Goodin), p. 9.
-- Present people have duties to successors not yet born (n. 3, citing Meyer; the record holds Meyer's SEP entry, LIT-1756).
-- Individuals' concerns outlast their lives (§10, citing Scheffler, LIT-1712).
-- Collins's distinction between a group agent's duties and members' membership duties (§8; Collins's book is LIT-1426).
+- Some groups are moral agents (French; List and Pettit, [THEORY-139](../theory.d/THEORY-139.md); Goodin), p. 9.
+- Present people have duties to successors not yet born (n. 3, citing Meyer; the record holds Meyer's SEP entry, [LIT-1756](../literature.d/LIT-1756.md)).
+- Individuals' concerns outlast their lives (§10, citing Scheffler, [LIT-1712](../literature.d/LIT-1712.md)).
+- Collins's distinction between a group agent's duties and members' membership duties (§8; Collins's book is [LIT-1426](../literature.d/LIT-1426.md)).
 
 ## Concepts
 
@@ -50,12 +50,12 @@ Natural person analogy; temporal trustworthiness; temporally limited agency; tem
 
 ## Bearing on the record
 
-- **QUESTION-tmp9bbpk**: about TERM-074's sense 3 (states, corporations, tribes and families as group agents with persons as members). For such wholes it supports two of A12's grounds and adds one A12 missed. History: a group's obligations persist through membership change and pass to successors (§7). Commitment: temporal trustworthiness is the capacity for binding commitments. And members' needs: an essentially intergenerational group owes its members' children entitlements to resources, respect and protection, grounded in "needs intrinsic to human life" (§10). That is a whole-to-member obligation, though its bearers are the members through the group, and its premise is persons' needs, not the group's dynamics. It does not transfer to sense 1, where the whole need not be an agent and the parts need not be persons with needs. Filed as `bears_on`, with a dated note on the question.
-- **CLAIM-518**: corroborated. German reparations, James Hardie's asbestos compensation after restructuring, and the Treaty of Waitangi are judgments of present obligation that turn on histories a present state does not show. Filed as `corroborates`.
-- **CLAIM-075**: corroborated. Groups, unlike persons, must be justified by the purposes they serve (p. 12), so persistence gives a group no standing. Filed as `corroborates`.
-- **QUESTION-118, CLAIM-329**: Thompson argues that for responsibility the identity question can be bypassed by a succession of agents that pass obligations on (pp. 16, 19). That does not answer QUESTION-118; it says normative persistence need not wait on its answer. Filed as `bears_on` QUESTION-118, with a dated note.
+- **[QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md)**: about [TERM-074](../terms.d/TERM-074.md)'s sense 3 (states, corporations, tribes and families as group agents with persons as members). For such wholes it supports two of A12's grounds and adds one A12 missed. History: a group's obligations persist through membership change and pass to successors (§7). Commitment: temporal trustworthiness is the capacity for binding commitments. And members' needs: an essentially intergenerational group owes its members' children entitlements to resources, respect and protection, grounded in "needs intrinsic to human life" (§10). That is a whole-to-member obligation, though its bearers are the members through the group, and its premise is persons' needs, not the group's dynamics. It does not transfer to sense 1, where the whole need not be an agent and the parts need not be persons with needs. Filed as `bears_on`, with a dated note on the question.
+- **[CLAIM-518](../claims.d/CLAIM-518.md)**: corroborated. German reparations, James Hardie's asbestos compensation after restructuring, and the Treaty of Waitangi are judgments of present obligation that turn on histories a present state does not show. Filed as `corroborates`.
+- **[CLAIM-075](../claims.d/CLAIM-075.md)**: corroborated. Groups, unlike persons, must be justified by the purposes they serve (p. 12), so persistence gives a group no standing. Filed as `corroborates`.
+- **[QUESTION-118](../questions.d/QUESTION-118.md), [CLAIM-329](../claims.d/CLAIM-329.md)**: Thompson argues that for responsibility the identity question can be bypassed by a succession of agents that pass obligations on (pp. 16, 19). That does not answer [QUESTION-118](../questions.d/QUESTION-118.md); it says normative persistence need not wait on its answer. Filed as `bears_on` [QUESTION-118](../questions.d/QUESTION-118.md), with a dated note.
 - **A12's description** (obligations across membership change, and why present members should bear them) is accurate; it misses §10.
-- **CLAIM-tmpwn3wr, CLAIM-603, CLAIM-104**: not addressed.
+- **[CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-104](../claims.d/CLAIM-104.md)**: not addressed.
 
 ## Limitations
 

@@ -24,7 +24,7 @@ keywords:
 - 'equality'
 implementations: []
 summary: >-
-  Martha Albertson Fineman (2010), The Vulnerable Subject and the Responsive State, Emory Law Journal 60(2), 251–275, an Essay in the 2010 Randolph W. Thrower Symposium. Read on 2026-11-12 in NOTE-tmpnpbzl; account THEORY-tmpk4d9t. Universal vulnerability and the state's role in constituting the institutions that confer resilience make the state responsible for monitoring them and for equal access, with a duty to justify privilege. About the state and persons (TERM-074 sense 3). Corroborates CLAIM-624; does not support CLAIM-tmpwn3wr as titled (ARG-tmpmc9mt).
+  Martha Albertson Fineman (2010), The Vulnerable Subject and the Responsive State, Emory Law Journal 60(2), 251–275, an Essay in the 2010 Randolph W. Thrower Symposium. Read on 2026-11-12 in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md); account [THEORY-tmpk4d9t](../theory.d/THEORY-tmpk4d9t.md). Universal vulnerability and the state's role in constituting the institutions that confer resilience make the state responsible for monitoring them and for equal access, with a duty to justify privilege. About the state and persons ([TERM-074](../terms.d/TERM-074.md) sense 3). Corroborates [CLAIM-624](../claims.d/CLAIM-624.md); does not support [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md) as titled ([ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpwn3wr THEORY-tmpk4d9t — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: ARG-tmpmc9mt — filed with this reading, Rejected -->
@@ -36,7 +36,7 @@ Martha Albertson Fineman (2010). The Vulnerable Subject and the Responsive State
 
 ## Key takeaways
 
-Read in NOTE-tmpnpbzl. Vulnerability is universal and constant; resilience comes from assets institutions confer; the state that constitutes those institutions must monitor them, secure equal access and opportunity, and justify the privilege it confers or tolerates. The state and market owe a share of dependency's burdens because they benefit from care work.
+Read in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md). Vulnerability is universal and constant; resilience comes from assets institutions confer; the state that constitutes those institutions must monitor them, secure equal access and opportunity, and justify the privilege it confers or tolerates. The state and market owe a share of dependency's burdens because they benefit from care work.
 
 ## Standing in the record
 

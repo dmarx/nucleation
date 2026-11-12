@@ -24,7 +24,7 @@ keywords:
 - 'organizations'
 implementations: []
 summary: >-
-  Adam Lovett and Stefan Riedener (2021), Canadian Journal of Philosophy 51(3), 221–238, DOI-10.1017/can.2021.8. Read on 2026-11-12 in NOTE-tmp3ebkj; account THEORY-tmpo4ghu. Organizations are group agents without welfare and so have no moral status; what we seem to owe them is owed to members, whose interest in willing participation in successful group agency grounds claims that mimic the organization's. About collective institutions (TERM-074 sense 3); it bears on QUESTION-tmp9bbpk for such wholes only.
+  Adam Lovett and Stefan Riedener (2021), Canadian Journal of Philosophy 51(3), 221–238, DOI-10.1017/can.2021.8. Read on 2026-11-12 in [NOTE-tmp3ebkj](../notes.d/NOTE-tmp3ebkj.md); account [THEORY-tmpo4ghu](../theory.d/THEORY-tmpo4ghu.md). Organizations are group agents without welfare and so have no moral status; what we seem to owe them is owed to members, whose interest in willing participation in successful group agency grounds claims that mimic the organization's. About collective institutions ([TERM-074](../terms.d/TERM-074.md) sense 3); it bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) for such wholes only.
 ---
 <!-- inactive-ok-file: THEORY-tmpo4ghu — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: TERM-083 — Proposed; cited as on the record -->
@@ -35,7 +35,7 @@ Adam Lovett and Stefan Riedener (2021). Group Agents and Moral Status: What Can 
 
 ## Key takeaways
 
-Read in NOTE-tmp3ebkj. Organizations seem to have a fragmented moral status (promise-keeping and gratitude can be owed to them, the vote and a right to life cannot). The authors' Group Interest View: organizations lack welfare and so any moral status; members' interest in endorsed participation in successful group agency grounds claims that mimic the organization's. A12's description is accurate but understated.
+Read in [NOTE-tmp3ebkj](../notes.d/NOTE-tmp3ebkj.md). Organizations seem to have a fragmented moral status (promise-keeping and gratitude can be owed to them, the vote and a right to life cannot). The authors' Group Interest View: organizations lack welfare and so any moral status; members' interest in endorsed participation in successful group agency grounds claims that mimic the organization's. A12's description is accurate but understated.
 
 ## Standing in the record
 

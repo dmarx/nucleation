@@ -48,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, Group Duties, cited by A12 -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, cited by A12 as registered and unread -->
-<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t LIT-tmp9kqwg LIT-tmpy5p2r LIT-tmpzmede LIT-tmpmtbj6 — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t LIT-tmp9kqwg LIT-tmpmtbj6 — Deferred; filed from the same exchange, unread -->
 
 # QUESTION-tmp9bbpk: What obligations, if any, does an organized whole have towards its own constituent parts, and on what ground: that they constitute it, that they contribute to it, that they are vulnerable to it, that it governs them, that it has undertaken commitments to them, or its history with them?
 
@@ -69,7 +69,7 @@ but what a whole owes the parts it is made of.
 
 The owner, correcting the reading pass on 2026-11-12: "keep in mind, my
 use of 'organization' is more abstract than standin for 'institution'.
-check the TERM." The term is TERM-074. "Organized whole" here is its
+check the TERM." The term is [TERM-074](../terms.d/TERM-074.md). "Organized whole" here is its
 sense 1 by default: a relational arrangement of processes, components,
 roles or constraints, whose arrangement matters to some operation or
 outcome. A whole in that sense need not be an institution (sense 3) or an
@@ -81,11 +81,11 @@ The question therefore has a prior part: whether, and in which sense of
 obligation, a whole that is not an agent can bear obligations at all.
 A12's three senses (functional, constitutive and moral) are where it
 divides. A functional "obligation" of a non-agent whole, what it must
-maintain to go on functioning, is QUESTION-128's first half, norms of
+maintain to go on functioning, is [QUESTION-128](QUESTION-128.md)'s first half, norms of
 function and failure defined from an organization's own dynamics. A moral
 obligation needs a bearer that can owe; the record's only statement of the
-downward direction, CLAIM-104, is about "an encompassing agent", and
-TERM-083 defines standing on the side of the one owed, not the one who
+downward direction, [CLAIM-104](../claims.d/CLAIM-104.md), is about "an encompassing agent", and
+[TERM-083](../terms.d/TERM-083.md) defines standing on the side of the one owed, not the one who
 owes. No entry asks whether a whole that is not an agent can owe its
 parts anything in a sense beyond the functional, so that part stays here,
 inside the question, and is not filed apart.
@@ -209,10 +209,10 @@ Unavailable) and Young ([LIT-2246](../literature.d/LIT-2246.md), Deferred) were 
 
 ## Note of 2026-11-12: Lovett and Riedener, Thompson, Fineman and Wardrope, read
 
-Readings of the reading pass of 2026-11-12, each placed by the TERM-074
+Readings of the reading pass of 2026-11-12, each placed by the [TERM-074](../terms.d/TERM-074.md)
 sense it is about. None answers the question in its default sense 1.
 
-- **Lovett and Riedener** (THEORY-tmpo4ghu, NOTE-tmp3ebkj): sense 3,
+- **Lovett and Riedener** ([THEORY-tmpo4ghu](../theory.d/THEORY-tmpo4ghu.md), [NOTE-tmp3ebkj](../notes.d/NOTE-tmp3ebkj.md)): sense 3,
   organizations as group agents with persons as members. They ask the
   opposite direction, what is owed to organizations, and answer that
   organizations have no moral status ("they themselves can make no claims
@@ -220,7 +220,7 @@ sense it is about. None answers the question in its default sense 1.
   For sense-3 wholes that gives a members'-side ground, members' interest
   in willing participation in successful group agency, not a duty of the
   whole to its parts. It does not transfer to sense 1.
-- **Thompson** (THEORY-tmp3vb9p, NOTE-tmpdkxlk): sense 3, states, tribes
+- **Thompson** ([THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md), [NOTE-tmpdkxlk](../notes.d/NOTE-tmpdkxlk.md)): sense 3, states, tribes
   and families as intergenerational group agents. Her §10 is a direct
   ground A12 missed: such groups answer "to needs intrinsic to human
   life", and members' children "acquire entitlements to its benefits",
@@ -228,12 +228,12 @@ sense it is about. None answers the question in its default sense 1.
   needs, and the bearers are members through the group. It supports the
   history and commitment grounds as well, for sense-3 wholes, and does not
   transfer to sense 1, where the parts need not be persons with needs.
-- **Fineman** (THEORY-tmpk4d9t, NOTE-tmpnpbzl): sense 3, the state toward
+- **Fineman** ([THEORY-tmpk4d9t](../theory.d/THEORY-tmpk4d9t.md), [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md)): sense 3, the state toward
   persons. It supports the vulnerability, governance (constitution of
   resource-conferring institutions) and contribution (benefit from care
   work) grounds for that whole. It does not transfer to sense 1. On
-  CLAIM-tmpwn3wr, see ARG-tmpmc9mt.
-- **Wardrope 2019** (THEORY-tmpsj1yx, NOTE-tmpitkr7), the stand-in for
+  [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), see [ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md).
+- **Wardrope 2019** ([THEORY-tmpsj1yx](../theory.d/THEORY-tmpsj1yx.md), [NOTE-tmpitkr7](../notes.d/NOTE-tmpitkr7.md)), the stand-in for
   Wardrope 2020: the biotic community is closer to sense 1, a whole that is
   not an agent, with members that need not be persons. It answers A12's
   holism sub-question one way, community value "extending, not replacing,
@@ -241,11 +241,11 @@ sense it is about. None answers the question in its default sense 1.
   members, as agents, not the whole: the Land Ethic asks "respect for his
   [sic] fellow members, and also respect for the community as such." Nothing
   is owed by the community to its parts.
-- **Van der Weele** (THEORY-tmprbzkv, NOTE-tmp4gf0a), the weak stand-in
+- **Van der Weele** ([THEORY-tmprbzkv](../theory.d/THEORY-tmprbzkv.md), [NOTE-tmp4gf0a](../notes.d/NOTE-tmp4gf0a.md)), the weak stand-in
   for Kittay 1995: sense 3, carers and society; the dependency worker's
   claim on the society that relies on the work.
-- **Not read**: Mellor (LIT-tmpy5p2r) and Pettit (LIT-tmpzmede) are
-  Unfetched; Kittay 1995 (LIT-tmp9kqwg) and Wardrope 2020 (LIT-tmpmtbj6)
+- **Not read**: Mellor ([LIT-tmpy5p2r](../literature.d/LIT-tmpy5p2r.md)) and Pettit ([LIT-tmpzmede](../literature.d/LIT-tmpzmede.md)) are
+  Unfetched; Kittay 1995 ([LIT-tmp9kqwg](../literature.d/LIT-tmp9kqwg.md)) and Wardrope 2020 ([LIT-tmpmtbj6](../literature.d/LIT-tmpmtbj6.md))
   are Unavailable.
 
 Each reading carries `bears_on` this question. The prior part, whether a

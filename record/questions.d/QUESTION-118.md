@@ -246,13 +246,13 @@ A54 of the second share of the exchange "Individuation, Possibility, and Disposi
 
 ## Note of 2026-11-12: Thompson, and Lovett and Riedener, read
 
-Two readings bear on this question for sense-3 collectives (TERM-074).
-Thompson (THEORY-tmp3vb9p) argues that for responsibility the identity
+Two readings bear on this question for sense-3 collectives ([TERM-074](../terms.d/TERM-074.md)).
+Thompson ([THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md)) argues that for responsibility the identity
 question can be bypassed: "there are no reliable criteria for determining
 whether an agent at one time is identical to an agent at a later time"
 (p. 10), and a succession of group agents that pass obligations on does
 the work. That does not answer the question; it says normative
 persistence need not wait on its answer. Lovett and Riedener
-(THEORY-tmpo4ghu) take claims that stay with an organization through
+([THEORY-tmpo4ghu](../theory.d/THEORY-tmpo4ghu.md)) take claims that stay with an organization through
 complete turnover as a datum (p. 224), explained by the new members'
 interests. Filed as `bears_on`. The question is unchanged.

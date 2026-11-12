@@ -45,4 +45,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. The 
 
 ## Note of 2026-11-12: unavailable, and a neighbour
 
-No lawful copy was found. Van der Weele's "Four Paradigm Cases of Dependency in Care Relations" (LIT-tmprzj3z, skimmed in NOTE-tmp4gf0a) stands in weakly: it restates Kittay's dependency work and the move from dyadic care to socially organized responsibility, not this article's argument about the Family and Medical Leave Act, which stays unread. Both concern persons, carers and society, TERM-074's sense 3.
+No lawful copy was found. Van der Weele's "Four Paradigm Cases of Dependency in Care Relations" ([LIT-tmprzj3z](LIT-tmprzj3z.md), skimmed in [NOTE-tmp4gf0a](../notes.d/NOTE-tmp4gf0a.md)) stands in weakly: it restates Kittay's dependency work and the move from dyadic care to socially organized responsibility, not this article's argument about the Family and Medical Leave Act, which stays unread. Both concern persons, carers and society, [TERM-074](../terms.d/TERM-074.md)'s sense 3.

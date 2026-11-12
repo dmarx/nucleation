@@ -108,13 +108,13 @@ No status, title or warrant changes.
 ## Note of 2026-11-12: Lovett and Riedener, and Thompson, read
 
 Two readings of 2026-11-12 corroborate this claim for sense-3 wholes
-(TERM-074), on routes of their own. Lovett and Riedener (THEORY-tmpo4ghu,
-NOTE-tmp3ebkj): "organizations don’t themselves have an interest in their
+([TERM-074](../terms.d/TERM-074.md)), on routes of their own. Lovett and Riedener ([THEORY-tmpo4ghu](../theory.d/THEORY-tmpo4ghu.md),
+[NOTE-tmp3ebkj](../notes.d/NOTE-tmp3ebkj.md)): "organizations don’t themselves have an interest in their
 own continuation" (p. 230), so an organization's persistence carries no
-weight of its own. Thompson (THEORY-tmp3vb9p, NOTE-tmpdkxlk): "Groups are
+weight of its own. Thompson ([THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md), [NOTE-tmpdkxlk](../notes.d/NOTE-tmpdkxlk.md)): "Groups are
 constructed and maintained by natural persons to serve their purposes"
 (p. 12), so a group's persistence must be justified by those purposes.
-Wardrope's reading of the Land Ethic (THEORY-tmpsj1yx) is a contrast, an
+Wardrope's reading of the Land Ethic ([THEORY-tmpsj1yx](../theory.d/THEORY-tmpsj1yx.md)) is a contrast, an
 ethic in which a community's integrity is itself a value, though not
 inferred from its viability. Filed as `corroborates` from the first two.
 No status change.

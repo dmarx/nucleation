@@ -21,7 +21,7 @@ keywords:
 - 'Leopold'
 implementations: []
 summary: >-
-  Alistair Wardrope (2019), Medicine, Health Care and Philosophy 22(4), 531–543, DOI-10.1007/s11019-019-09890-x. Skimmed on 2026-11-12 in NOTE-tmpitkr7 as a stand-in for Wardrope 2020 (LIT-tmpmtbj6): Leopold's Land Ethic gives communities intrinsic value that extends, rather than replaces, the value of their members, so it asks respect for fellow members and for the community as such.
+  Alistair Wardrope (2019), Medicine, Health Care and Philosophy 22(4), 531–543, DOI-10.1007/s11019-019-09890-x. Skimmed on 2026-11-12 in [NOTE-tmpitkr7](../notes.d/NOTE-tmpitkr7.md) as a stand-in for Wardrope 2020 ([LIT-tmpmtbj6](LIT-tmpmtbj6.md)): Leopold's Land Ethic gives communities intrinsic value that extends, rather than replaces, the value of their members, so it asks respect for fellow members and for the community as such.
 ---
 <!-- inactive-ok-file: NOTE-tmpitkr7 — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 <!-- inactive-ok-file: LIT-tmpmtbj6 — Unavailable; the work this stands in for -->
@@ -32,8 +32,8 @@ Alistair Wardrope (2019). Does clinical ethics need a Land Ethic? *Medicine, Hea
 
 ## Key takeaways
 
-Clinical ethics should take in Leopold's Land Ethic, read as three components: the community concept (communities have intrinsic value), the ethical sequence (that value extends, not replaces, individual value) and the ecological conscience. The ethical sequence answers the charge of environmental fascism (NOTE-tmpitkr7).
+Clinical ethics should take in Leopold's Land Ethic, read as three components: the community concept (communities have intrinsic value), the ethical sequence (that value extends, not replaces, individual value) and the ecological conscience. The ethical sequence answers the charge of environmental fascism ([NOTE-tmpitkr7](../notes.d/NOTE-tmpitkr7.md)).
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmpmtbj6. It stands in substantially for the point A12 cited (Leopold's concern for the whole does not replace respect for its members), and not for the 2020 paper's own topic, health justice in the Anthropocene. It bears on QUESTION-tmp9bbpk's holism sub-question.
+Registered as a stand-in for [LIT-tmpmtbj6](LIT-tmpmtbj6.md). It stands in substantially for the point A12 cited (Leopold's concern for the whole does not replace respect for its members), and not for the 2020 paper's own topic, health justice in the Anthropocene. It bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md)'s holism sub-question.

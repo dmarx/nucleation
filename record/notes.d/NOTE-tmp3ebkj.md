@@ -37,7 +37,7 @@ An argued account of the moral patiency of group agents, as distinct from their 
 
 ## Assumptions
 
-- Organizations are group agents in List and Pettit's sense (p. 223; the record holds that account as THEORY-139).
+- Organizations are group agents in List and Pettit's sense (p. 223; the record holds that account as [THEORY-139](../theory.d/THEORY-139.md)).
 - An interest theory of claims, assumed and not defended (p. 228).
 - Welfare requires phenomenal consciousness, and organizations lack it (p. 228).
 - What benefits you non-accidentally gives you reason to want it to keep its valuable properties (p. 231).
@@ -48,11 +48,11 @@ Fragmented and full moral status; directed obligation; Individualism and Collect
 
 ## Bearing on the record
 
-- **QUESTION-tmp9bbpk** (what a whole owes its parts): the paper is about organizations in TERM-074's sense 3, collective institutions that are group agents, with persons as members. It asks the opposite direction and never what an organization owes its members. It bears on the question only for sense-3 wholes, in two ways. If an organization has no welfare and no standing, what is owed around it is owed by and to persons, so the owner's question becomes what members, and those who act for the whole, owe the parts. And the members' interest in willing participation is one the whole's arrangements can serve or frustrate; coerced participation gives them nothing of value (p. 229). Neither transfers to the question's default sense, an arrangement (TERM-074 sense 1) whose parts need not be persons and which need not be an agent. Filed as `bears_on`, with a dated note on the question. A12's description of the paper ("organizational agency alone does not give the rights or moral status owed to persons") is accurate but understated: the paper denies organizations any moral status.
-- **CLAIM-075** (viability does not establish what ought to persist): corroborated on another route. An organization has no interest in its own continuation (p. 230), so its persistence carries no weight of its own. Filed as `corroborates`.
-- **TERM-083** (moral standing): an example of standing denied to an agent because its ground, welfare, is absent, the separation of agent from patient the term draws. No relation written; the term does not use the reading.
-- **QUESTION-118, CLAIM-329**: claims staying with an organization through complete turnover is one of the paper's data (p. 224), explained by the new members' interests (pp. 232–233) without a persistence criterion for the organization.
-- **CLAIM-tmpwn3wr, CLAIM-603, CLAIM-104**: not addressed.
+- **[QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md)** (what a whole owes its parts): the paper is about organizations in [TERM-074](../terms.d/TERM-074.md)'s sense 3, collective institutions that are group agents, with persons as members. It asks the opposite direction and never what an organization owes its members. It bears on the question only for sense-3 wholes, in two ways. If an organization has no welfare and no standing, what is owed around it is owed by and to persons, so the owner's question becomes what members, and those who act for the whole, owe the parts. And the members' interest in willing participation is one the whole's arrangements can serve or frustrate; coerced participation gives them nothing of value (p. 229). Neither transfers to the question's default sense, an arrangement ([TERM-074](../terms.d/TERM-074.md) sense 1) whose parts need not be persons and which need not be an agent. Filed as `bears_on`, with a dated note on the question. A12's description of the paper ("organizational agency alone does not give the rights or moral status owed to persons") is accurate but understated: the paper denies organizations any moral status.
+- **[CLAIM-075](../claims.d/CLAIM-075.md)** (viability does not establish what ought to persist): corroborated on another route. An organization has no interest in its own continuation (p. 230), so its persistence carries no weight of its own. Filed as `corroborates`.
+- **[TERM-083](../terms.d/TERM-083.md)** (moral standing): an example of standing denied to an agent because its ground, welfare, is absent, the separation of agent from patient the term draws. No relation written; the term does not use the reading.
+- **[QUESTION-118](../questions.d/QUESTION-118.md), [CLAIM-329](../claims.d/CLAIM-329.md)**: claims staying with an organization through complete turnover is one of the paper's data (p. 224), explained by the new members' interests (pp. 232–233) without a persistence criterion for the organization.
+- **[CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-104](../claims.d/CLAIM-104.md)**: not addressed.
 
 ## Limitations
 

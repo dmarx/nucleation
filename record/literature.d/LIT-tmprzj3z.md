@@ -21,7 +21,7 @@ keywords:
 - 'Kittay'
 implementations: []
 summary: >-
-  Simon van der Weele (2021), Hypatia 36(2), 338–359, DOI-10.1017/hyp.2021.10. Skimmed on 2026-11-12 in NOTE-tmp4gf0a as a weak stand-in for Kittay's 1995 article (LIT-tmp9kqwg): care theorists' conceptions of dependency diverge because each rests on a different paradigm case, and Kittay's, full and permanent dependence, makes care a social responsibility.
+  Simon van der Weele (2021), Hypatia 36(2), 338–359, DOI-10.1017/hyp.2021.10. Skimmed on 2026-11-12 in [NOTE-tmp4gf0a](../notes.d/NOTE-tmp4gf0a.md) as a weak stand-in for Kittay's 1995 article ([LIT-tmp9kqwg](LIT-tmp9kqwg.md)): care theorists' conceptions of dependency diverge because each rests on a different paradigm case, and Kittay's, full and permanent dependence, makes care a social responsibility.
 ---
 <!-- inactive-ok-file: NOTE-tmp4gf0a — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 <!-- inactive-ok-file: LIT-tmp9kqwg — Unavailable; the work this stands in for -->
@@ -32,8 +32,8 @@ Simon van der Weele (2021). Four Paradigm Cases of Dependency in Care Relations.
 
 ## Key takeaways
 
-Care theories rest on four paradigm cases of dependency (the infant, the physically disabled person, the profoundly intellectually disabled person, the refugee). Kittay's paradigm, full and one-way dependence, makes care a social problem and puts the dependency worker's claim in view (NOTE-tmp4gf0a).
+Care theories rest on four paradigm cases of dependency (the infant, the physically disabled person, the profoundly intellectually disabled person, the refugee). Kittay's paradigm, full and one-way dependence, makes care a social problem and puts the dependency worker's claim in view ([NOTE-tmp4gf0a](../notes.d/NOTE-tmp4gf0a.md)).
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmp9kqwg. It stands in weakly: it restates Kittay's dependency work and the step from the care dyad to socially organized responsibility, not the 1995 article's analysis of the Family and Medical Leave Act. It bears on QUESTION-tmp9bbpk at second hand.
+Registered as a stand-in for [LIT-tmp9kqwg](LIT-tmp9kqwg.md). It stands in weakly: it restates Kittay's dependency work and the step from the care dyad to socially organized responsibility, not the 1995 article's analysis of the Family and Medical Leave Act. It bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) at second hand.

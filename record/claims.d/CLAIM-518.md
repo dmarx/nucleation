@@ -213,8 +213,8 @@ generated them", and history is one of the grounds the owner's
 
 ## Note of 2026-11-12: Thompson, read
 
-Thompson's "Groups as intergenerational agents" (THEORY-tmp3vb9p, read in
-NOTE-tmpdkxlk) corroborates this claim for sense-3 wholes (TERM-074).
+Thompson's "Groups as intergenerational agents" ([THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md), read in
+[NOTE-tmpdkxlk](../notes.d/NOTE-tmpdkxlk.md)) corroborates this claim for sense-3 wholes ([TERM-074](../terms.d/TERM-074.md)).
 German reparations, James Hardie's asbestos compensation after its
 restructuring, and the Treaty of Waitangi are judgments of present
 obligation that turn on histories a present state does not show; "What

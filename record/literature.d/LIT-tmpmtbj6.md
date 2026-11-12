@@ -45,4 +45,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. Bear
 
 ## Note of 2026-11-12: unavailable, and a neighbour
 
-No lawful copy was found. Wardrope's "Does clinical ethics need a Land Ethic?" (LIT-tmpquaic, skimmed in NOTE-tmpitkr7) states the point A12 attributed to this paper: Leopold's ethical sequence extends, rather than replaces, the value of individual members. It does not stand in for this paper's argument about health justice in the Anthropocene, which stays unread.
+No lawful copy was found. Wardrope's "Does clinical ethics need a Land Ethic?" ([LIT-tmpquaic](LIT-tmpquaic.md), skimmed in [NOTE-tmpitkr7](../notes.d/NOTE-tmpitkr7.md)) states the point A12 attributed to this paper: Leopold's ethical sequence extends, rather than replaces, the value of individual members. It does not stand in for this paper's argument about health justice in the Anthropocene, which stays unread.

@@ -13,7 +13,7 @@ date: '2026-11-12'
 promote_when: >-
   a reading of the article confirms that it interprets the Land Ethic's ethical sequence as extending rather than replacing individual-level values, and uses this to answer the environmental-fascism objection.
 summary: >-
-  Wardrope (2019), skimmed in NOTE-tmpitkr7 as a stand-in for Wardrope 2020. Community value extends, not replaces, members' value; respect is owed to fellow members and to the community as such.
+  Wardrope (2019), skimmed in [NOTE-tmpitkr7](../notes.d/NOTE-tmpitkr7.md) as a stand-in for Wardrope 2020. Community value extends, not replaces, members' value; respect is owed to fellow members and to the community as such.
 ---
 <!-- inactive-ok-file: NOTE-tmpitkr7 — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 
@@ -25,7 +25,7 @@ Wardrope reads Leopold's Land Ethic as giving biotic and human communities intri
 
 ## Evidence
 
-The skimmed reading in NOTE-tmpitkr7.
+The skimmed reading in [NOTE-tmpitkr7](../notes.d/NOTE-tmpitkr7.md).
 
 ## What it does not say
 

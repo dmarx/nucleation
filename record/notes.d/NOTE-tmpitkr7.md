@@ -38,10 +38,10 @@ Land Ethic; community concept; ethical sequence; ecological conscience; environm
 
 ## Bearing on the record
 
-- **QUESTION-tmp9bbpk**: the biotic community is closer to TERM-074's sense 1, a whole that is not an agent and whose members need not be persons. It answers A12's holism sub-question one way (the whole's value is added to the members', not substituted). But the bearer of the obligation is the members, as moral agents, not the whole: respect is owed *by members* to fellow members and to the community, and nothing is said to be owed *by the community* to its parts. Filed as `bears_on`, with a dated note.
-- **CLAIM-075**: a contrast. The Land Ethic makes a community's "integrity, stability, and beauty" right-making, an ethic in which a whole's persistence is a value in itself, though Wardrope denies it derives an ought from viability. No relation written.
-- **TERM-083**: communities bear irreducible value; whether that is standing in the term's sense the paper does not say.
-- **As a stand-in for LIT-tmpmtbj6**: substantial for A12's point, none for the 2020 paper's health-justice argument.
+- **[QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md)**: the biotic community is closer to [TERM-074](../terms.d/TERM-074.md)'s sense 1, a whole that is not an agent and whose members need not be persons. It answers A12's holism sub-question one way (the whole's value is added to the members', not substituted). But the bearer of the obligation is the members, as moral agents, not the whole: respect is owed *by members* to fellow members and to the community, and nothing is said to be owed *by the community* to its parts. Filed as `bears_on`, with a dated note.
+- **[CLAIM-075](../claims.d/CLAIM-075.md)**: a contrast. The Land Ethic makes a community's "integrity, stability, and beauty" right-making, an ethic in which a whole's persistence is a value in itself, though Wardrope denies it derives an ought from viability. No relation written.
+- **[TERM-083](../terms.d/TERM-083.md)**: communities bear irreducible value; whether that is standing in the term's sense the paper does not say.
+- **As a stand-in for [LIT-tmpmtbj6](../literature.d/LIT-tmpmtbj6.md)**: substantial for A12's point, none for the 2020 paper's health-justice argument.
 
 ## Limitations
 

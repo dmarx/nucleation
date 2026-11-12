@@ -87,16 +87,16 @@ the measure of its moral standing**."
 
 ## Which sense of "whole"
 
-TERM-074. The integration the claim describes is sense 1: an arrangement
-that comes to supply what its parts once supplied, as in CLAIM-603's
+[TERM-074](../terms.d/TERM-074.md). The integration the claim describes is sense 1: an arrangement
+that comes to supply what its parts once supplied, as in [CLAIM-603](CLAIM-603.md)'s
 aphid and Buchnera or a state and its aid-dependent regions; it need not
 be an institution or maintain itself. The supposition, though, is about
 responsibility "in the one who controls" the choices, so the claim's
 consequent applies only to a whole that can bear responsibility, which in
 the cases its sources discuss is an agent, in practice a collective
-institution (sense 3), and only toward parts with standing (TERM-083).
+institution (sense 3), and only toward parts with standing ([TERM-083](../terms.d/TERM-083.md)).
 For a sense-1 whole that is not an agent, an organism toward its cells,
-the claim says nothing; that is the prior part of QUESTION-tmp9bbpk.
+the claim says nothing; that is the prior part of [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md).
 
 ## Why it is filed as supposed
 
@@ -154,7 +154,7 @@ against it.
 ## Note of 2026-11-12: Fineman, read
 
 Fineman's "The Vulnerable Subject and the Responsive State"
-(THEORY-tmpk4d9t, read in NOTE-tmpnpbzl) is about one sense-3 whole, the
+([THEORY-tmpk4d9t](../theory.d/THEORY-tmpk4d9t.md), read in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md)) is about one sense-3 whole, the
 state, toward persons. It does not support this claim as titled.
 Vulnerability on her account is universal and constant ("Vulnerability is
 posited as the characteristic that positions us in relation to each other
@@ -166,7 +166,7 @@ that confer resilience ("To the extent that these legally constituted
 institutions distribute significant social goods, they should be
 monitored by the state", p. 272). That supports the governance clause A12
 §10 stated, not the growth with integration in the title. The judgement is
-ARG-tmpmc9mt, Rejected. Her derivative dependency, "neither inevitable, nor
+[ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md), Rejected. Her derivative dependency, "neither inevitable, nor
 ... universally experienced" (p. 264), is the nearest thing in her account
 to integration-made vulnerability. The claim's defeat conditions are not
 met: she grounds a special responsibility, in the state's constitutive

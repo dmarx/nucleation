@@ -38,10 +38,10 @@ Paradigm case; inevitable and temporary dependency; dependency worker; the depen
 
 ## Bearing on the record
 
-- **QUESTION-tmp9bbpk**: about persons, carers and society, TERM-074's sense 3. Weak support, at second hand, for a dependency-work ground there: dependency work gives the worker a claim on the wider society that relies on it. It does not say the claim is owed by a whole to its parts as parts. Filed as `bears_on`.
-- **CLAIM-tmpwn3wr**: Kittay's phrase, quoted on p. 347, ties care obligation to "one who is vulnerable to your actions", a vulnerability principle of Goodin's shape. A point of contact, not evidence.
-- **CLAIM-603**: full, one-way dependence is the case where reciprocity is unavailable; the claim's reciprocal framing does not reach it.
-- **As a stand-in for LIT-tmp9kqwg**: weak. The 1995 article's argument stays unread.
+- **[QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md)**: about persons, carers and society, [TERM-074](../terms.d/TERM-074.md)'s sense 3. Weak support, at second hand, for a dependency-work ground there: dependency work gives the worker a claim on the wider society that relies on it. It does not say the claim is owed by a whole to its parts as parts. Filed as `bears_on`.
+- **[CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md)**: Kittay's phrase, quoted on p. 347, ties care obligation to "one who is vulnerable to your actions", a vulnerability principle of Goodin's shape. A point of contact, not evidence.
+- **[CLAIM-603](../claims.d/CLAIM-603.md)**: full, one-way dependence is the case where reciprocity is unavailable; the claim's reciprocal framing does not reach it.
+- **As a stand-in for [LIT-tmp9kqwg](../literature.d/LIT-tmp9kqwg.md)**: weak. The 1995 article's argument stays unread.
 
 ## Limitations
 

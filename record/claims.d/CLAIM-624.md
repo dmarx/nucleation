@@ -378,8 +378,8 @@ A37's newsroom variant is [CASE-247](../cases.d/CASE-247.md). No status change.
 ## Note of 2026-11-12: Fineman, read
 
 Fineman's "The Vulnerable Subject and the Responsive State"
-(THEORY-tmpk4d9t, read in NOTE-tmpnpbzl), which the first search missed,
-corroborates this claim for a sense-3 whole (TERM-074), the state and its
+([THEORY-tmpk4d9t](../theory.d/THEORY-tmpk4d9t.md), read in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md)), which the first search missed,
+corroborates this claim for a sense-3 whole ([TERM-074](../terms.d/TERM-074.md)), the state and its
 institutions. Recognizing institutional vulnerability calls for monitoring
 "in processes that are both transparent and inclusive" (p. 256), and
 places "an affirmative obligation on the state and its institutions to

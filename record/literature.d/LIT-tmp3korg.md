@@ -24,7 +24,7 @@ keywords:
 - 'historical obligations'
 implementations: []
 summary: >-
-  Janna Thompson (2022), Journal of Social Philosophy 53(1), 8–20, DOI-10.1111/josp.12459. Read on 2026-11-12 in NOTE-tmpdkxlk; account THEORY-tmp3vb9p. Intergenerational group obligations rest on the purposes temporally trustworthy group agents serve, not on diachronic identity; obligations persist and pass to successors; essentially intergenerational groups owe members' children entitlements grounded in needs intrinsic to human life. About collective institutions and agents (TERM-074 sense 3).
+  Janna Thompson (2022), Journal of Social Philosophy 53(1), 8–20, DOI-10.1111/josp.12459. Read on 2026-11-12 in [NOTE-tmpdkxlk](../notes.d/NOTE-tmpdkxlk.md); account [THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md). Intergenerational group obligations rest on the purposes temporally trustworthy group agents serve, not on diachronic identity; obligations persist and pass to successors; essentially intergenerational groups owe members' children entitlements grounded in needs intrinsic to human life. About collective institutions and agents ([TERM-074](../terms.d/TERM-074.md) sense 3).
 ---
 <!-- inactive-ok-file: THEORY-tmp3vb9p — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
@@ -34,7 +34,7 @@ Janna Thompson (2022). Groups as intergenerational agents: Responsibility throug
 
 ## Key takeaways
 
-Read in NOTE-tmpdkxlk. The natural person analogy fails for want of identity criteria; temporal trustworthiness is what intergenerational responsibility needs, and obligations persist and pass to successors. §10, which A12 missed: essentially intergenerational groups owe members' children entitlements to resources, respect and protection, grounded in needs intrinsic to human life.
+Read in [NOTE-tmpdkxlk](../notes.d/NOTE-tmpdkxlk.md). The natural person analogy fails for want of identity criteria; temporal trustworthiness is what intergenerational responsibility needs, and obligations persist and pass to successors. §10, which A12 missed: essentially intergenerational groups owe members' children entitlements to resources, respect and protection, grounded in needs intrinsic to human life.
 
 ## Standing in the record
 

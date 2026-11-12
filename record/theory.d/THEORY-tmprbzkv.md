@@ -13,7 +13,7 @@ date: '2026-11-12'
 promote_when: >-
   a reading of the article confirms that it identifies these four paradigm cases and argues that each grounds a different conception of dependency and a different ethical sensibility toward care.
 summary: >-
-  van der Weele (2021), skimmed in NOTE-tmp4gf0a as a stand-in for Kittay 1995. Four paradigm cases of dependency, each with its own care ethics; Kittay's makes care a social responsibility.
+  van der Weele (2021), skimmed in [NOTE-tmp4gf0a](../notes.d/NOTE-tmp4gf0a.md) as a stand-in for Kittay 1995. Four paradigm cases of dependency, each with its own care ethics; Kittay's makes care a social responsibility.
 ---
 <!-- inactive-ok-file: NOTE-tmp4gf0a — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 
@@ -25,7 +25,7 @@ van der Weele argues that care theorists' conceptions of dependency diverge beca
 
 ## Evidence
 
-The skimmed reading in NOTE-tmp4gf0a.
+The skimmed reading in [NOTE-tmp4gf0a](../notes.d/NOTE-tmp4gf0a.md).
 
 ## What it does not say
 
