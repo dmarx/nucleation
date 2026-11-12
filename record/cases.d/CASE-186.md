@@ -239,3 +239,21 @@ A21's simulation of a smaller version is not filed as an executed study:
 - its captured arm scored the same as no audit by construction;
 - external repair did better than endogenous repair (changed-regime error
   0.022 against 0.072).
+
+## Note of 2026-11-12: a smoke-detector substrate, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-tmpl4kyp — filed from the same exchange, Proposed -->
+A8 §5 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) describes this study
+accurately, its four capacities included, and translates it into the
+owner's smoke detector: a detector that still detects fires while its
+self-test has silently failed, "**Being operational now** and
+**maintaining the means of knowing whether one remains operational**".
+A10 §4 ran a two-failure version with three repair architectures
+([CASE-tmpl4kyp](CASE-tmpl4kyp.md)). It is far smaller than this design: no hidden regime,
+no lesions of admission or scoring, no fuel budget, repairs
+instantaneous. Its one contrast, mutual maintenance against an outside
+service, is matched by the choice of rates and separated by withdrawing
+the service, as this study's paid external restoration would separate
+it. A10's proposed test of the "unresolved extension", comparing
+externally and internally maintained diagnostics under matched resources
+against out-of-catalog change, is this design. Not run; nothing changes.

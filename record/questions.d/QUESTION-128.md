@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpowurn
 title: 'Does the record''s organizational account give a path to normativity from first principles: can norms of function and failure be defined from an organization''s own dynamics, and what more do practical and moral authority need?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,13 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    The note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12:
+    CLAIM-tmpkr3ti now reads the debugger's silence as evidence, not as
+    entailment. A second note of the same day records the review's forager
+    study. The question is unchanged.
 tags:
 - ethics
 - philosophy-of-biology
@@ -127,3 +134,44 @@ physical facts without any additional assumptions**, we do not have that
 derivation." The relational form of the judgments at every rung is
 [CLAIM-363](../claims.d/CLAIM-363.md). Whether the standards themselves can be adjudicated is
 [QUESTION-129](QUESTION-129.md).
+
+## Note of 2026-11-12: the designer's norm in the alarm cases, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-tmpv6i22 CASE-tmpaky45 CLAIM-tmpkr3ti — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: THEORY-220 THEORY-628 THEORY-217 — Proposed; readings cited with their standing -->
+The owner's smoke detector ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) and debugging test
+([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)), from the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), are the
+plainest cases on the record of a norm of function and failure that is
+not the system's own. A4 §3: the false alarm raises "whether that norm
+belongs intrinsically to the system or is supplied by the humans who
+designed and evaluate it". A4 §4, A5 §4, A8 §7 and A10 §6 each grant that
+the standard is "stipulated" or imposed by designers. A5 §5 asks the
+question in this question's terms: "whether the expected-response profile
+itself must originate in an intentional designer, or whether it can
+emerge from the system's own history of adaptation, self-maintenance, or
+learning." None of the four cites this question. Of the readings it
+names, Bickhard's ([THEORY-220](../theory.d/THEORY-220.md)) is the one that answers A5 §5 directly: a
+self-maintaining system that selects its next interaction anticipates
+its success, and the anticipation can be false by the system's own
+lights, so the expected profile is the system's. The detector has no
+viability of its own, so on Bickhard's, Di Paolo's ([THEORY-628](../theory.d/THEORY-628.md)) and
+Barandiaran's ([THEORY-217](../theory.d/THEORY-217.md)) accounts its norm is borrowed. The owner's
+claim that the debugger's silence is evidence of a broken mechanism
+([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md), narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
+2026-11-12) holds against the designer's response model and says
+nothing on this question. The question stays Open.
+
+## Note of 2026-11-12: a study of endogenous revision, at the review of [#483](https://github.com/dmarx/nucleation/issues/483)
+
+<!-- inactive-ok-block: CASE-tmpfobkh CASE-tmp5ijqy THEORY-tmp0d8vu — filed in this pull request, Proposed -->
+The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 found that the two-profile forager ([CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md))
+"compares two criteria, not endogenous norm formation", and asked for a
+forager whose criterion of failure is revisable. The proposed study is
+[CASE-tmp5ijqy](../cases.d/CASE-tmp5ijqy.md). A learner predicts its own loss of viability from
+environmental features and revises its probes and profile. It is set
+against fixed, designer, oracle and frozen-criterion arms, under changes
+it was not trained on. It would bear on this question if the learner
+revises its criteria and not only its estimates. Its main threat is the
+one this question presses: the designer still chose the learning rule
+and the viability variable ([THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)). Not run. The question
+stays Open.

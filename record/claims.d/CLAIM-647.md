@@ -6,15 +6,6 @@ formerly:
 title: 'Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization''s useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader''s turnover is a staleness term of its own, beside the world''s changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical'
 version: 3
 history:
-- version: 3
-  date: '2026-11-12'
-  note: >-
-    Narrowed at the owner's review of dmarx/nucleation#482: that a module
-    is trained relative to W0 does not show it must be retrained when W0
-    changes; transfer may degrade, survive or work well enough. The claim
-    now says a replacement can impose a compatibility or transfer cost that
-    shortens useful life, and leaves its frequency and its effect on the
-    trade to evidence. ARG-079 is weakened to match.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -25,6 +16,15 @@ history:
     becomes the ground of the premise, with ARG-079. defeated_if now
     names CLAIM-074 and CLAIM-118, and the body has a note on why the claim
     does not restate them. Title and status unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Narrowed at the owner's review of dmarx/nucleation#482: that a module
+    is trained relative to W0 does not show it must be retrained when W0
+    changes; transfer may degrade, survive or work well enough. The claim
+    now says a replacement can impose a compatibility or transfer cost that
+    shortens useful life, and leaves its frequency and its effect on the
+    trade to evidence. ARG-079 is weakened to match.
 role: thesis
 warrant: empirical
 defeated_if: >-
