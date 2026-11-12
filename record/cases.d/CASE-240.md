@@ -1,5 +1,8 @@
 ---
+number: 240
 status: Proposed
+formerly:
+- CASE-tmpaky45
 title: "The debugger's test: a detector that stays silent when test smoke is put to it"
 version: 2
 history:
@@ -7,7 +10,7 @@ history:
   date: '2026-11-12'
   note: >-
     Revised at the review of #483 the owner relayed on 2026-11-12: "What it can show" now
-    gives CLAIM-tmpkr3ti's two readings (defeasible evidence, and entailment
+    gives CLAIM-649's two readings (defeasible evidence, and entailment
     only under a validated guarantee) in place of the claim's old wording,
     that the silence means the mechanism is broken. No other change.
 standing: stipulated
@@ -21,7 +24,7 @@ line:
 - record-as-apparatus
 - formal-apparatus
 variant_of:
-- CASE-tmpv6i22
+- CASE-243
 illustrates:
 - CLAIM-414
 bears_on:
@@ -33,17 +36,17 @@ summary: >-
   (i.e. the debugger interrogates the system by inserting an intervention
   with a particular expected response profile) that *means* the alarm
   mechanism is broken." It varies the owner's smoke detector
-  ([CASE-tmpv6i22](CASE-tmpv6i22.md)) by adding an intervention with an expected response,
-  and it is the case [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md) generalizes. A healthy and a broken
+  ([CASE-243](CASE-243.md)) by adding an intervention with an expected response,
+  and it is the case [CLAIM-649](../claims.d/CLAIM-649.md) generalizes. A healthy and a broken
   detector are alike silent in clean air and differ under test smoke,
   which is [CLAIM-414](../claims.d/CLAIM-414.md)'s pattern in its simplest instance. A5's variants
   and qualifications are A's and are marked. Proposed. Their wording is
   A's; adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpv6i22 CLAIM-tmpkr3ti CLAIM-tmpz1xb5 CASE-tmpl4kyp — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-243 CLAIM-649 CLAIM-651 CASE-242 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-202 — Proposed; the control it names is cited with its standing -->
 
-# CASE-tmpaky45: The debugger's test: a detector that stays silent when test smoke is put to it
+# CASE-240: The debugger's test: a detector that stays silent when test smoke is put to it
 
 ## The case
 
@@ -57,7 +60,7 @@ particular expected response profile) that *means* the alarm mechanism is
 broken."
 
 A debugger puts a known concentration of test smoke to the detector of
-[CASE-tmpv6i22](CASE-tmpv6i22.md). On the model of correct behaviour, the alarm should sound.
+[CASE-243](CASE-243.md). On the model of correct behaviour, the alarm should sound.
 It does not.
 
 Held fixed: the detector's output, silence. Varied: whether the silence
@@ -78,14 +81,14 @@ detector does too.
   signal path, or the test procedure could be responsible. Additional
   interventions distinguish those possibilities." This is [CASE-152](CASE-152.md)'s
   point, that a missing response fails to say what was missing, and A's
-  construction [CASE-tmpl4kyp](CASE-tmpl4kyp.md) works it out.
+  construction [CASE-242](CASE-242.md) works it out.
 - **The automated debugger (A5 §3).** Replace the person with a system
   that "periodically introduces a test stimulus, measures the detector's
   response, compares it against a stored response profile, and switches
   to a backup detector if the test fails." "No sentient entity
   participates in that particular diagnostic event." A10 §6 adds what it
   takes for such a system to register silence at all; that is
-  [CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md).
+  [CLAIM-651](../claims.d/CLAIM-651.md).
 - **The regress (A5 §5).** The diagnostic apparatus can fail and be
   tested by another; each level "can be physically implemented as a set
   of interventions, expected-response constraints, and resulting
@@ -100,7 +103,7 @@ detector does too.
 - **That an absence can carry the meaning (the owner's point).** The
   detector emits nothing. What the debugger reads is a non-event, and it
   reads it as evidence only because the debugger put an intervention
-  with an expected response to the system. [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md) states it in
+  with an expected response to the system. [CLAIM-649](../claims.d/CLAIM-649.md) states it in
   two readings: under a probabilistic response model the silence shifts
   support toward a fault, and only under a deterministic, independently
   validated guarantee does it entail that the guarantee was violated.

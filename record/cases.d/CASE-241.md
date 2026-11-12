@@ -1,5 +1,8 @@
 ---
+number: 241
 status: Proposed
+formerly:
+- CASE-tmpfobkh
 title: "A forager whose expected profile is set by its own upkeep against one whose profile is a designer's stored yield: they flag the same silent patch, and come apart when the yield falls but still pays and when the upkeep rises past an unchanged yield"
 version: 1
 standing: fictional
@@ -12,7 +15,7 @@ line:
 - organizational-normativity
 - record-as-apparatus
 variant_of:
-- CASE-tmpaky45
+- CASE-240
 draws_on:
 - THEORY-220
 bears_on:
@@ -33,10 +36,10 @@ summary: >-
   dissolution condition included. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmpkr3ti — filed in this pull request, Proposed -->
-<!-- inactive-ok-file: THEORY-220 THEORY-628 THEORY-tmp0d8vu — Proposed; readings cited with their standing -->
+<!-- inactive-ok-file: CASE-240 CLAIM-649 — filed in this pull request, Proposed -->
+<!-- inactive-ok-file: THEORY-220 THEORY-628 THEORY-1646 — Proposed; readings cited with their standing -->
 
-# CASE-tmpfobkh: A forager whose expected profile is set by its own upkeep against one whose profile is a designer's stored yield: they flag the same silent patch, and come apart when the yield falls but still pays and when the upkeep rises past an unchanged yield
+# CASE-241: A forager whose expected profile is set by its own upkeep against one whose profile is a designer's stored yield: they flag the same silent patch, and come apart when the yield falls but still pays and when the upkeep rises past an unchanged yield
 
 ## The construction
 
@@ -67,7 +70,7 @@ Rerun on 2026-11-12 with exact fractions:
 
 - **S3 is the owner's debugging case, endogenous.** An interaction
   expected to answer gives nothing. Both profiles register the absence
-  as a failure ([CASE-tmpaky45](CASE-tmpaky45.md); [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)).
+  as a failure ([CASE-240](CASE-240.md); [CLAIM-649](../claims.d/CLAIM-649.md)).
 - **S2: the designer's profile flags what is no failure by the forager's
   own lights.** A still pays. The designer's flag happens to send its
   forager to the richer patch, so the self-set profile is a norm of
@@ -93,7 +96,7 @@ lights", because what it anticipates is its own going on.
   makes the self-set profile "own" is only that its failure condition is
   the same as the condition of the forager's persistence. The modeller
   wrote both, as Kolchinsky and Wolpert concede of their viability
-  function ([THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)). A construction cannot remove this; a
+  function ([THEORY-1646](../theory.d/THEORY-1646.md)). A construction cannot remove this; a
   physical self-maintaining system would.
 - **Learning or revision.** The self-set profile is fixed by the upkeep
   rule, and nothing here changes how the forager discriminates.

@@ -127,11 +127,11 @@ A's fourth paste gives a three-stage design, finite mechanisms, then modular ori
 
 ## Note of 2026-11-12: a test that breaks the detector, from "Meaning Transmission Explained"
 
-<!-- inactive-ok-block: CASE-tmpaky45 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CASE-240 — filed from the same exchange, Proposed -->
 A8 §6 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) gives this study's
 control a plain instance: "a fragile detector that works under ordinary
 conditions but is damaged by an unusually aggressive diagnostic test.
 ... The debugger discovers a failure, but the intervention caused it."
 A8 proposes this case's control for it, comparing "fresh, reset copies
 against systems subjected to repeated tests". Folded into the owner's
-debugging case ([CASE-tmpaky45](CASE-tmpaky45.md)). Nothing changes.
+debugging case ([CASE-240](CASE-240.md)). Nothing changes.

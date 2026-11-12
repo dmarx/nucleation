@@ -1,5 +1,8 @@
 ---
+number: 649
 status: Proposed
+formerly:
+- CLAIM-tmpkr3ti
 title: 'An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated'
 version: 2
 history:
@@ -45,7 +48,7 @@ line:
 - record-as-apparatus
 - pragmatic-transport
 grounds:
-- CASE-tmpaky45
+- CASE-240
 bears_on:
 - QUESTION-285
 summary: >-
@@ -58,23 +61,23 @@ summary: >-
   at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 into two
   readings with their own criteria of correctness. Defeasible: under a
   probabilistic response model the absence shifts support toward fault
-  hypotheses, as with the likelihood ratio of 49 in [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md); it is
+  hypotheses, as with the likelihood ratio of 49 in [CASE-242](../cases.d/CASE-242.md); it is
   correct when the shift matches the model, whether or not the
   mechanism turns out broken. Factive: under a deterministic,
   independently validated response guarantee, the absence entails that
   the guarantee was violated; it is correct only when it was. The first
   is the general reading, the second its limiting case. Proposed.
 ---
-<!-- inactive-ok-file: CASE-tmpv6i22 CLAIM-tmpz1xb5 CASE-tmpl4kyp ARG-tmpwo5na ARG-tmpkk8m0 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-243 CLAIM-651 CASE-242 ARG-085 ARG-084 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-444 THEORY-220 — Proposed; readings cited with their standing -->
 
-# CLAIM-tmpkr3ti: An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated
+# CLAIM-649: An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated
 
 ## The claim
 
 The owner, at U3 of the exchange "Meaning Transmission Explained"
 (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7), on the
-smoke detector of [CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md): "consider someone debugging a
+smoke detector of [CASE-243](../cases.d/CASE-243.md): "consider someone debugging a
 malfunctioning system. if the alarm doesn't trigger when presented with
 appropriate conditions (i.e. the debugger interrogates the system by
 inserting an intervention with a particular expected response profile)
@@ -99,7 +102,7 @@ infallible evidence."
 | **defeasible** (general) | probabilistic: P(response \| healthy, do(I)) and P(response \| fault, do(I)) | a shift of support toward fault, by the likelihood ratio P(none \| fault, do(I)) / P(none \| healthy, do(I)) | the shift is the one the model licenses; it stays correct if the mechanism turns out healthy |
 | **factive** (limiting) | deterministic: a response guarantee, validated independently of this test | that the guarantee was violated | the guarantee was in fact violated |
 
-- **The defeasible reading is the general one.** In [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)'s chain,
+- **The defeasible reading is the general one.** In [CASE-242](../cases.d/CASE-242.md)'s chain,
   with a 2% readout error, the silent injector test has a likelihood
   ratio of 0.98/0.02 = 49, and silence in clean air has 1. That is A5 §1's
   contrast made exact (recomputed): "In ordinary operation, silence is
@@ -141,10 +144,10 @@ infallible evidence."
 
 - That the debugger must be sentient. A5 §3 replaces the person with an
   automated tester. What a tester needs to register a bounded
-  non-response is [CLAIM-tmpz1xb5](CLAIM-tmpz1xb5.md).
+  non-response is [CLAIM-651](CLAIM-651.md).
 - That the response model is the system's own. Here it is the designer's
   ([QUESTION-128](../questions.d/QUESTION-128.md); [THEORY-220](../theory.d/THEORY-220.md) for a system that holds its own).
 - Which component failed, or how a real test's error rates are known.
 
-The inference to the defeasible reading is [ARG-tmpwo5na](../arguments.d/ARG-tmpwo5na.md), and to the
-factive reading under a guarantee, [ARG-tmpkk8m0](../arguments.d/ARG-tmpkk8m0.md).
+The inference to the defeasible reading is [ARG-085](../arguments.d/ARG-085.md), and to the
+factive reading under a guarantee, [ARG-084](../arguments.d/ARG-084.md).

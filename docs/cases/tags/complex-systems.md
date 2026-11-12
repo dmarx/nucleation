@@ -6,7 +6,7 @@
 
 **Complex systems** — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts.
 
-50 of 237 CASE documents. Back to the [full index](../README.md).
+50 of 243 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

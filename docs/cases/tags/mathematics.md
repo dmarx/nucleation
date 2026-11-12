@@ -6,7 +6,7 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-41 of 237 CASE documents. Back to the [full index](../README.md).
+41 of 243 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -238,16 +238,16 @@ A, at A32 §5 of the exchange "Individuation, Possibility, and Disposition" (202
 
 ## Note of 2026-11-12: the silent detector, from "Meaning Transmission Explained"
 
-<!-- inactive-ok-block: CASE-tmpaky45 CASE-tmpl4kyp CLAIM-tmpkr3ti ARG-tmpwo5na — filed from the same exchange, Proposed -->
-The owner's debugging case ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md); U3 of the exchange "Meaning Transmission Explained",
+<!-- inactive-ok-block: CASE-240 CASE-242 CLAIM-649 ARG-085 — filed from the same exchange, Proposed -->
+The owner's debugging case ([CASE-240](../cases.d/CASE-240.md); U3 of the exchange "Meaning Transmission Explained",
 https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) is this claim's simplest instance: a healthy and a
 broken detector are both silent in clean air, and only test smoke tells
 them apart. A8 §2's table makes the mapping, through [CASE-125](../cases.d/CASE-125.md) and
-[CLAIM-407](CLAIM-407.md). The owner reads the outcome semantically ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)),
-and the inference from the case rests on this claim ([ARG-tmpwo5na](../arguments.d/ARG-tmpwo5na.md)). A10
+[CLAIM-407](CLAIM-407.md). The owner reads the outcome semantically ([CLAIM-649](CLAIM-649.md)),
+and the inference from the case rests on this claim ([ARG-085](../arguments.d/ARG-085.md)). A10
 §4 calls its two-failure toy "a concrete illustration" of the claim:
 mutual maintenance and an outside service both repair the second fault
 with probability 0.91 and come apart when the service is withdrawn
-([CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)). The match is set by the chosen rates (an availability
+([CASE-242](../cases.d/CASE-242.md)). The match is set by the chosen rates (an availability
 of 0.7 against a channel survival of 1 − 0.3), so it illustrates and
 adds no evidence. The claim is demonstrated already. No status changes.

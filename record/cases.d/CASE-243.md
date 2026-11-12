@@ -1,5 +1,8 @@
 ---
+number: 243
 status: Proposed
+formerly:
+- CASE-tmpv6i22
 title: 'A smoke detector that sets off sprinklers in a building no one is in'
 version: 1
 standing: stipulated
@@ -30,9 +33,9 @@ summary: >-
   wording is A's; adopting them is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-444 THEORY-220 THEORY-628 THEORY-217 — Proposed; readings cited for what they hold, with their standing -->
-<!-- inactive-ok-file: CASE-tmpaky45 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-240 — filed from the same exchange, Proposed -->
 
-# CASE-tmpv6i22: A smoke detector that sets off sprinklers in a building no one is in
+# CASE-243: A smoke detector that sets off sprinklers in a building no one is in
 
 ## The case
 
@@ -118,5 +121,5 @@ What it cannot show, being stipulated and designed:
   [THEORY-1276](../theory.d/THEORY-1276.md)) "The difference that is made is the signification". The
   case is an instance of both, not further evidence for either.
 
-The owner's next case, the debugger's test ([CASE-tmpaky45](CASE-tmpaky45.md)), varies this
+The owner's next case, the debugger's test ([CASE-240](CASE-240.md)), varies this
 one.

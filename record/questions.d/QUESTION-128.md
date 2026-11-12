@@ -18,7 +18,7 @@ history:
   date: '2026-11-12'
   note: >-
     The note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12:
-    CLAIM-tmpkr3ti now reads the debugger's silence as evidence, not as
+    CLAIM-649 now reads the debugger's silence as evidence, not as
     entailment. A second note of the same day records the review's forager
     study. The question is unchanged.
 tags:
@@ -137,10 +137,10 @@ derivation." The relational form of the judgments at every rung is
 
 ## Note of 2026-11-12: the designer's norm in the alarm cases, from "Meaning Transmission Explained"
 
-<!-- inactive-ok-block: CASE-tmpv6i22 CASE-tmpaky45 CLAIM-tmpkr3ti — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CASE-243 CASE-240 CLAIM-649 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-block: THEORY-220 THEORY-628 THEORY-217 — Proposed; readings cited with their standing -->
-The owner's smoke detector ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) and debugging test
-([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)), from the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), are the
+The owner's smoke detector ([CASE-243](../cases.d/CASE-243.md)) and debugging test
+([CASE-240](../cases.d/CASE-240.md)), from the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), are the
 plainest cases on the record of a norm of function and failure that is
 not the system's own. A4 §3: the false alarm raises "whether that norm
 belongs intrinsically to the system or is supplied by the humans who
@@ -157,21 +157,21 @@ lights, so the expected profile is the system's. The detector has no
 viability of its own, so on Bickhard's, Di Paolo's ([THEORY-628](../theory.d/THEORY-628.md)) and
 Barandiaran's ([THEORY-217](../theory.d/THEORY-217.md)) accounts its norm is borrowed. The owner's
 claim that the debugger's silence is evidence of a broken mechanism
-([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md), narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
+([CLAIM-649](../claims.d/CLAIM-649.md), narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
 2026-11-12) holds against the designer's response model and says
 nothing on this question. The question stays Open.
 
 ## Note of 2026-11-12: a study of endogenous revision, at the review of [#483](https://github.com/dmarx/nucleation/issues/483)
 
-<!-- inactive-ok-block: CASE-tmpfobkh CASE-tmp5ijqy THEORY-tmp0d8vu — filed in this pull request, Proposed -->
-The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 found that the two-profile forager ([CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md))
+<!-- inactive-ok-block: CASE-241 CASE-239 THEORY-1646 — filed in this pull request, Proposed -->
+The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 found that the two-profile forager ([CASE-241](../cases.d/CASE-241.md))
 "compares two criteria, not endogenous norm formation", and asked for a
 forager whose criterion of failure is revisable. The proposed study is
-[CASE-tmp5ijqy](../cases.d/CASE-tmp5ijqy.md). A learner predicts its own loss of viability from
+[CASE-239](../cases.d/CASE-239.md). A learner predicts its own loss of viability from
 environmental features and revises its probes and profile. It is set
 against fixed, designer, oracle and frozen-criterion arms, under changes
 it was not trained on. It would bear on this question if the learner
 revises its criteria and not only its estimates. Its main threat is the
 one this question presses: the designer still chose the learning rule
-and the viability variable ([THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)). Not run. The question
+and the viability variable ([THEORY-1646](../theory.d/THEORY-1646.md)). Not run. The question
 stays Open.

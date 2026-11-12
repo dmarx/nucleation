@@ -191,8 +191,8 @@ The assistant (Claude, in the filing session) offered the comparative criterion 
 
 ## Note of 2026-11-12: a sprinkler response as a conjunction of capacities
 
-<!-- inactive-ok-block: CASE-tmpl4kyp CASE-tmpaky45 — filed from the exchange "Meaning Transmission Explained", Proposed -->
-The fire-alarm chain filed from the exchange "Meaning Transmission Explained" ([CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)) is
+<!-- inactive-ok-block: CASE-242 CASE-240 — filed from the exchange "Meaning Transmission Explained", Proposed -->
+The fire-alarm chain filed from the exchange "Meaning Transmission Explained" ([CASE-242](../cases.d/CASE-242.md)) is
 this claim's setting in miniature. A sprinkler response to a fire needs
 the sensor, the relay and the actuator to hold together, a pure
 conjunction in [CLAIM-587](CLAIM-587.md)'s sense. Records of each component bound the
@@ -202,7 +202,7 @@ per-component probabilities 0.98, 0.99 and 0.95, the bounds are
 independence is 0.92169, inside them (computed). The test injector in
 that chain is not a capacity of the response but of the test, so its
 failure lowers the evidence about readiness, not readiness itself. That
-is the owner's debugging case ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)), where a silent test does
+is the owner's debugging case ([CASE-240](../cases.d/CASE-240.md)), where a silent test does
 not say whether the response or the test failed. A deadline-bound
 exercise, this claim's joint evidence, is in that chain the
 independent-smoke probe, which exercises every capacity of the response

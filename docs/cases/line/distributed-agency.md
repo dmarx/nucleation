@@ -6,7 +6,7 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-104 of 237 CASE documents. Back to the [full index](../README.md).
+104 of 243 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

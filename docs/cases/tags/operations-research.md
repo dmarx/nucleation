@@ -6,7 +6,7 @@
 
 **Operations research** — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-16 of 237 CASE documents. Back to the [full index](../README.md).
+16 of 243 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

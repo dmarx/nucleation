@@ -1,5 +1,8 @@
 ---
+number: 651
 status: Proposed
+formerly:
+- CLAIM-tmpz1xb5
 title: 'To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient'
 version: 2
 history:
@@ -12,7 +15,7 @@ history:
     relay that must stay energized to hold a valve closed opens it when
     the current stops, an absence with an immediate consequence and no
     separately initiated test, stored expectation or timeout
-    (CASE-tmp4gw3m). The claim is now about registering a bounded
+    (CASE-238). The claim is now about registering a bounded
     non-response, in the review's sentence. The fail-safe relay marks the
     claim's scope; it is not a counterexample to the narrowed claim. The
     review also called this claim's point "a central result of the
@@ -33,7 +36,7 @@ defeated_if: >-
   retention applied to non-events; then it belongs in a note on the term.
   Not defeated by a consequential absence that is not registered as the
   failure of an expected event, such as the fail-safe relay
-  (CASE-tmp4gw3m): that is outside the claim's scope. Not defeated by an
+  (CASE-238): that is outside the claim's scope. Not defeated by an
   apparatus that is a person: the claim says sentience is not required,
   not that it is excluded.
 tags:
@@ -45,27 +48,27 @@ line:
 uses:
 - TERM-089
 grounds:
-- CASE-tmpaky45
+- CASE-240
 bears_on:
 - QUESTION-285
 summary: >-
   From A10 §6 of the exchange "Meaning Transmission Explained"
   (2026-11-07), with A5 §3's automated debugger, on the owner's debugging
-  case ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)) and claim ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)). A10: "**Silence is not
+  case ([CASE-240](../cases.d/CASE-240.md)) and claim ([CLAIM-649](CLAIM-649.md)). A10: "**Silence is not
   literally an object transmitted from the broken detector to the
   debugger.**" Narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
   2026-11-12 to diagnosis by bounded non-response, in the review's
   sentence: "To register that an expected event failed to occur within a
   specified interval, an apparatus must physically distinguish the tested
   interval from its alternatives and retain enough state to classify the
-  outcome." The fail-safe relay ([CASE-tmp4gw3m](../cases.d/CASE-tmp4gw3m.md)) shows that an absence can
+  outcome." The fail-safe relay ([CASE-238](../cases.d/CASE-238.md)) shows that an absence can
   matter without any of this, and marks the claim's scope. [CLAIM-312](CLAIM-312.md)'s
   deadline-bound search is the record's nearest held case. The wording is
   A's and the review's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmpkr3ti CASE-tmp4gw3m — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-240 CLAIM-649 CASE-238 — filed from the same exchange, Proposed -->
 
-# CLAIM-tmpz1xb5: To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient
+# CLAIM-651: To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient
 
 ## The claim
 
@@ -102,7 +105,7 @@ is the review's "physically distinguish the tested interval from its
 alternatives and retain enough state". Without it, the detector's silence
 under test and its silence in clean air leave the same trace. There is
 then nothing for the owner's absence to be evidence of
-([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)).
+([CLAIM-649](CLAIM-649.md)).
 
 Nothing in this needs a sentient party. A5 §3's automated tester holds
 the stored profile, a timer and a switch to the backup detector: "No
@@ -112,7 +115,7 @@ sentient entity participates in that particular diagnostic event."
 
 - **Registering, not mattering.** An absence can have consequences
   without being registered as the failure of an expected event. In the
-  fail-safe relay ([CASE-tmp4gw3m](../cases.d/CASE-tmp4gw3m.md)) a valve opens because current stops,
+  fail-safe relay ([CASE-238](../cases.d/CASE-238.md)) a valve opens because current stops,
   with no test, stored expectation or timeout. The review: "physical
   organization (relay state, spring, coupling) is still required, but
   that is a more general condition." The relay marks the edge of this

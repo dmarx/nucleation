@@ -6,7 +6,7 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-2 of 80 ARG documents. Back to the [full index](../README.md).
+2 of 85 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

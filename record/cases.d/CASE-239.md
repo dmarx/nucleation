@@ -1,5 +1,8 @@
 ---
+number: 239
 status: Proposed
+formerly:
+- CASE-tmp5ijqy
 title: 'A proposed study: a forager that learns from its own energy dynamics which environmental distinctions predict a loss of viability, and revises its testing and action policy, to find whether it adapts its criteria of failure to changes nobody foresaw without the correct criterion being supplied'
 version: 1
 standing: stipulated
@@ -13,16 +16,16 @@ line:
 - organizational-normativity
 - record-as-apparatus
 variant_of:
-- CASE-tmpfobkh
+- CASE-241
 draws_on:
 - THEORY-220
-- THEORY-tmp0d8vu
+- THEORY-1646
 bears_on:
 - QUESTION-128
 - QUESTION-285
 summary: >-
   The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 found that the
-  two-profile forager ([CASE-tmpfobkh](CASE-tmpfobkh.md)) "compares two criteria, not
+  two-profile forager ([CASE-241](CASE-241.md)) "compares two criteria, not
   endogenous norm formation", since the programmer specified upkeep,
   dissolution and response policy. It asked for a forager "that learns
   from its own energy dynamics which environmental distinctions predict
@@ -36,14 +39,14 @@ summary: >-
   the assistant's (Claude, in this session), from the review's request;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpfobkh CASE-tmpaky45 — filed in this pull request, Proposed -->
-<!-- inactive-ok-file: THEORY-220 THEORY-tmp0d8vu THEORY-628 — Proposed; readings cited with their standing -->
+<!-- inactive-ok-file: CASE-241 CASE-240 — filed in this pull request, Proposed -->
+<!-- inactive-ok-file: THEORY-220 THEORY-1646 THEORY-628 — Proposed; readings cited with their standing -->
 
-# CASE-tmp5ijqy: A proposed study: a forager that learns from its own energy dynamics which environmental distinctions predict a loss of viability, and revises its testing and action policy, to find whether it adapts its criteria of failure to changes nobody foresaw without the correct criterion being supplied
+# CASE-239: A proposed study: a forager that learns from its own energy dynamics which environmental distinctions predict a loss of viability, and revises its testing and action policy, to find whether it adapts its criteria of failure to changes nobody foresaw without the correct criterion being supplied
 
 ## Why
 
-[CASE-tmpfobkh](CASE-tmpfobkh.md) fixes both profiles in advance. Its self-set profile, y ≥ c,
+[CASE-241](CASE-241.md) fixes both profiles in advance. Its self-set profile, y ≥ c,
 is written by the modeller. So it compares two criteria and cannot show a
 criterion being formed or revised. The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed
 on 2026-11-12: "The experimental question: can it adapt its criteria to
@@ -52,7 +55,7 @@ advance?"
 
 ## The world
 
-As in [CASE-tmpfobkh](CASE-tmpfobkh.md), a forager has energy E, pays an upkeep each step and
+As in [CASE-241](CASE-241.md), a forager has energy E, pays an upkeep each step and
 dissolves at E ≤ 0. Patches now have observable features, such as colour,
 temperature, a neighbour's presence or time since last visit. The
 forager's energy change depends on these through rules the forager is not
@@ -60,7 +63,7 @@ given. Some features predict a yield. Others predict a later loss, for
 example a patch that pays now and raises upkeep later.
 
 The forager can **probe**: spend energy on a short test visit, the
-analogue of the debugger's test smoke ([CASE-tmpaky45](CASE-tmpaky45.md)). It can also
+analogue of the debugger's test smoke ([CASE-240](CASE-240.md)). It can also
 **act**: stay, switch or rest.
 
 ## The learner
@@ -80,8 +83,8 @@ analogue of the debugger's test smoke ([CASE-tmpaky45](CASE-tmpaky45.md)). It ca
 ## Arms
 
 1. **Learner**, as above.
-2. **Fixed self-set profile**, [CASE-tmpfobkh](CASE-tmpfobkh.md)'s y ≥ c, no learning.
-3. **Designer's profile**, [CASE-tmpfobkh](CASE-tmpfobkh.md)'s stored yield.
+2. **Fixed self-set profile**, [CASE-241](CASE-241.md)'s y ≥ c, no learning.
+3. **Designer's profile**, [CASE-241](CASE-241.md)'s stored yield.
 4. **Oracle**, given the true feature-to-loss mapping after each change.
    This is the ceiling.
 5. **Learner with a frozen criterion**: it learns ΔE predictions but may
@@ -103,9 +106,9 @@ on:
 
 - survival time and final energy after each change;
 - time from a change to the first correct warning;
-- false warnings, flags where viability is not at risk ([CASE-tmpfobkh](CASE-tmpfobkh.md)'s
+- false warnings, flags where viability is not at risk ([CASE-241](CASE-241.md)'s
   S2);
-- missed failures ([CASE-tmpfobkh](CASE-tmpfobkh.md)'s S4);
+- missed failures ([CASE-241](CASE-241.md)'s S4);
 - the regret of arm 1 against the oracle, arm 4;
 - whether the learner's attended features and probes change after a
   change, and whether the change tracks the new predictor (arm 1 against
@@ -123,7 +126,7 @@ criteria are the designer's in another form.
 ## The main threat to inference
 
 The designer still chose the learning rule and the viability variable,
-as Kolchinsky and Wolpert concede of theirs ([THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)). A positive
+as Kolchinsky and Wolpert concede of theirs ([THEORY-1646](../theory.d/THEORY-1646.md)). A positive
 result shows that, given a viability variable and a learning rule, the
 criterion of failure need not be supplied. It does not show that the
 system's norm is its own in Bickhard's sense ([THEORY-220](../theory.d/THEORY-220.md)), unless the

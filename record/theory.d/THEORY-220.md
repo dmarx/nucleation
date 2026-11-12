@@ -225,7 +225,7 @@ Christensen & Bickhard (2002), which the record does not hold.
 
 ## Note of 2026-11-12: the system's own expected profile, from "Meaning Transmission Explained"
 
-<!-- inactive-ok-block: CASE-tmpaky45 CLAIM-tmpkr3ti — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CASE-240 CLAIM-649 — filed from the same exchange, Proposed -->
 The exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) ends each of its turns on whether a
 diagnostic standard can be the system's own. A5 §5: "whether the
 expected-response profile itself must originate in an intentional
@@ -234,7 +234,7 @@ adaptation, self-maintenance, or learning." This account is the record's
 reading of the second option. A system that selects its next interaction
 anticipates its success, and the anticipation can be false by its own
 lights. Its failure is then the system's counterpart of the owner's
-debugger finding an alarm silent under test ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md);
-[CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)), with the expected response set by the system and not a
+debugger finding an alarm silent under test ([CASE-240](../cases.d/CASE-240.md);
+[CLAIM-649](../claims.d/CLAIM-649.md)), with the expected response set by the system and not a
 designer. A does not cite it. It bears on [QUESTION-128](../questions.d/QUESTION-128.md) as well, which
 names it among its candidate readings, and the relation is now written.

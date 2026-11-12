@@ -161,12 +161,12 @@ and passed.
 
 ## Note of 2026-11-12: cited for a fire-alarm toy, from "Meaning Transmission Explained"
 
-<!-- inactive-ok-block: CASE-tmpl4kyp — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CASE-242 — filed from the same exchange, Proposed -->
 A8 §2 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) reports this case
 accurately: four mechanisms alike in ordinary operation, a complete
 pulse with a short interruption identifying the class "in 100% of the
 tested cases, versus 25% without probes", "within a stipulated model and
 known candidate catalog". It does not give the case's status, Proposed.
 A10 §1's probe signatures for a four-component alarm chain
-([CASE-tmpl4kyp](CASE-tmpl4kyp.md)) are the same identification in a deterministic catalog
+([CASE-242](CASE-242.md)) are the same identification in a deterministic catalog
 of five states. Nothing changes.

@@ -10,7 +10,7 @@ history:
   date: '2026-11-12'
   note: >-
     The first note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12:
-    CLAIM-tmpkr3ti's absence is evidence in general and entailment only
+    CLAIM-649's absence is evidence in general and entailment only
     under a validated guarantee. A second note of the same day records the
     review's research problem. The question is unchanged.
 tags:
@@ -243,12 +243,12 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-12: meaning with no sentient emitter or receiver, from "Meaning Transmission Explained"
 
-<!-- inactive-ok-block: THEORY-tmp0d8vu — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: THEORY-1646 — filed from the same exchange, Proposed -->
 The owner asked, at U1 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), for the
 record's "account of how meaning can be transmitted independent of any
 sentient emitter or receiver". That is this question's scope, and A's
 relay at A3 never cites it. A3 assembles [TERM-089](../terms.d/TERM-089.md), the Kolchinsky and
-Wolpert reading ([NOTE-1370](../notes.d/NOTE-1370.md), now [THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)), [CLAIM-050](../claims.d/CLAIM-050.md) and
+Wolpert reading ([NOTE-1370](../notes.d/NOTE-1370.md), now [THEORY-1646](../theory.d/THEORY-1646.md)), [CLAIM-050](../claims.d/CLAIM-050.md) and
 [TERM-034](../terms.d/TERM-034.md), [THEORY-1276](../theory.d/THEORY-1276.md) and [CLAIM-525](../claims.d/CLAIM-525.md), and Grice, the unheard tree and
 the unread message. Its descriptions of them are accurate. It leaves out
 two limits the record states: Kolchinsky and Wolpert's viability function
@@ -256,19 +256,19 @@ is "exogenously determined by the scientist analyzing the system", and
 Simondonian signification, on this question's note of 2026-10-31, counts
 nothing as a failure to inform.
 
-<!-- inactive-ok-block: CASE-tmpv6i22 CASE-tmpaky45 CLAIM-tmpkr3ti CLAIM-tmpz1xb5 CASE-tmpl4kyp — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CASE-243 CASE-240 CLAIM-649 CLAIM-651 CASE-242 — filed from the same exchange, Proposed -->
 The owner's two cases put the question's rungs to work. In the smoke
-detector that sets off sprinklers ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) a difference is
+detector that sets off sprinklers ([CASE-243](../cases.d/CASE-243.md)) a difference is
 differentiated, kept and enforced with no one present: the rung of use,
-reached by design. The debugger's test ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)) adds what the
+reached by design. The debugger's test ([CASE-240](../cases.d/CASE-240.md)) adds what the
 rungs did not have, a meaning carried by an absence: under an
 intervention with an expected profile, silence is evidence that the
 mechanism is broken, and entails it only under a validated guarantee
-([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md), the owner's, as narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner
+([CLAIM-649](../claims.d/CLAIM-649.md), the owner's, as narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner
 relayed on 2026-11-12). A10 §6 adds the condition, that an
 absence registers only for an apparatus that opens an interval, keeps
-the expectation and times out ([CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md), A's). A non-sentient
-tester can be that apparatus. A's construction ([CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)) carries
+the expectation and times out ([CLAIM-651](../claims.d/CLAIM-651.md), A's). A non-sentient
+tester can be that apparatus. A's construction ([CASE-242](../cases.d/CASE-242.md)) carries
 the detector into the record's probe and maintenance studies, and its
 out-of-model relay restates this question's distinction between
 rejecting a hypothesis and finding the family inadequate.
@@ -309,7 +309,7 @@ The map such an account would carry is in the curation entry of
 
 ## Note of 2026-11-12: the review's research problem, held here
 
-<!-- inactive-ok-block: CASE-tmpaky45 CLAIM-tmpz1xb5 CASE-tmpl4kyp CASE-tmp5ijqy CASE-163 — filed in this pull request or Proposed, cited with their standing -->
+<!-- inactive-ok-block: CASE-240 CLAIM-651 CASE-242 CASE-239 CASE-163 — filed in this pull request or Proposed, cited with their standing -->
 The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 names "the next research problem": "Can a
 system make its own unexpected non-responses informative, use them to
 discover failures in its organization, and revise the criteria by which
@@ -317,13 +317,13 @@ future non-responses become informative?" It names three accomplishments
 not to be conflated: detecting a discrepancy; diagnosing its cause;
 changing the apparatus that determines what counts as a discrepancy.
 This question already holds the problem, applied to non-responses.
-Detecting is the rung of use (the debugger's test, [CASE-tmpaky45](../cases.d/CASE-tmpaky45.md), with
-[CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md) for what registering a bounded non-response takes).
+Detecting is the rung of use (the debugger's test, [CASE-240](../cases.d/CASE-240.md), with
+[CLAIM-651](../claims.d/CLAIM-651.md) for what registering a bounded non-response takes).
 Diagnosing is identification among candidate mechanisms ([CASE-152](../cases.d/CASE-152.md),
-[CASE-163](../cases.d/CASE-163.md); [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)). Changing the apparatus that defines a
+[CASE-163](../cases.d/CASE-163.md); [CASE-242](../cases.d/CASE-242.md)). Changing the apparatus that defines a
 discrepancy is the top rung, where G "can change which distinctions A
 makes", and the second clause asks what keeps that revision answerable.
 The review's further question, whether the third gives meaning for the
 system itself as opposed to externally specified functionality, is
 [QUESTION-128](QUESTION-128.md)'s. No new question is filed. The proposed study that would
-test the third accomplishment is [CASE-tmp5ijqy](../cases.d/CASE-tmp5ijqy.md). The question stays Open.
+test the third accomplishment is [CASE-239](../cases.d/CASE-239.md). The question stays Open.

@@ -1,5 +1,8 @@
 ---
+number: 1646
 status: Proposed
+formerly:
+- THEORY-tmp0d8vu
 promote_when: >-
   A second check of the paper's text (arXiv 1806.08053, §§I B, IV and V)
   confirming that semantic information is defined as the syntactic
@@ -33,7 +36,7 @@ bears_on:
 - QUESTION-285
 ---
 
-# THEORY-tmp0d8vu: Kolchinsky and Wolpert define a system's semantic information as the part of its syntactic information about its environment that is causally necessary for it to keep existing, found by scrambling the environment until viability falls, with the viability function chosen by the analyst
+# THEORY-1646: Kolchinsky and Wolpert define a system's semantic information as the part of its syntactic information about its environment that is causally necessary for it to keep existing, found by scrambling the environment until viability falls, with the viability function chosen by the analyst
 
 Kolchinsky and Wolpert (2018), [LIT-1149](../literature.d/LIT-1149.md), read in full in [NOTE-1370](../notes.d/NOTE-1370.md).
 

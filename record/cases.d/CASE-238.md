@@ -1,5 +1,8 @@
 ---
+number: 238
 status: Proposed
+formerly:
+- CASE-tmp4gw3m
 title: 'A fail-safe relay: a valve held closed only while current energizes a relay opens by spring when the current stops, so an absence of input has an immediate consequence with no test, stored expectation or timeout'
 version: 1
 standing: stipulated
@@ -14,7 +17,7 @@ bears_on:
 - QUESTION-285
 summary: >-
   The counterexample in the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on
-  2026-11-12, to the first version of [CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md), which made a
+  2026-11-12, to the first version of [CLAIM-651](../claims.d/CLAIM-651.md), which made a
   started interval, a stored expectation and a timeout necessary for an
   absence to carry anything. A relay must stay energized to hold a valve
   closed. When the current stops, a spring opens the valve. The absence
@@ -27,9 +30,9 @@ summary: >-
   (bounds runs from a THEORY), so the claim's body cites it. Proposed.
   The case is the review's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpz1xb5 CASE-tmpv6i22 CASE-tmpaky45 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-651 CASE-243 CASE-240 — filed from the same exchange, Proposed -->
 
-# CASE-tmp4gw3m: A fail-safe relay: a valve held closed only while current energizes a relay opens by spring when the current stops, so an absence of input has an immediate consequence with no test, stored expectation or timeout
+# CASE-238: A fail-safe relay: a valve held closed only while current energizes a relay opens by spring when the current stops, so an absence of input has an immediate consequence with no test, stored expectation or timeout
 
 ## The case
 
@@ -53,11 +56,11 @@ review: "The absence of input has an immediate consequential effect with
 no separately initiated test, stored expectation or timeout event". This
 is the design principle of fail-safe systems: absence of the holding
 signal is itself the trigger. It is the same organization a sprinkler
-could have if its detector held the valve shut ([CASE-tmpv6i22](CASE-tmpv6i22.md)).
+could have if its detector held the valve shut ([CASE-243](CASE-243.md)).
 
 So a timeout is sufficient for a consequential absence and not
-necessary. [CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md) is narrowed to registering a bounded
-non-response, as in the debugger's test ([CASE-tmpaky45](CASE-tmpaky45.md)), and this case
+necessary. [CLAIM-651](../claims.d/CLAIM-651.md) is narrowed to registering a bounded
+non-response, as in the debugger's test ([CASE-240](CASE-240.md)), and this case
 lies outside it.
 
 ## What it cannot show

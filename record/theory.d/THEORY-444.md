@@ -22,7 +22,7 @@ history:
   note: >-
     The dated note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12: the
     owner's "means" is factive only under a validated guarantee, and
-    evidential in general (CLAIM-tmpkr3ti, version 2). No other change.
+    evidential in general (CLAIM-649, version 2). No other change.
 tags:
 - pragmatics
 - philosophy-of-language
@@ -131,15 +131,15 @@ work could have counted as not meaning. Grice's cases sort the other way.
 
 ## Note of 2026-11-12: natural meaning in the debugger's "means", from "Meaning Transmission Explained"
 
-<!-- inactive-ok-block: CLAIM-tmpkr3ti CASE-tmpv6i22 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-block: CLAIM-649 CASE-243 — filed from the same exchange, Proposed -->
 A3 §5 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) relays this reading's
 split between natural meaning and the intended meaning of an utterance,
 accurately, as the boundary the record keeps. The owner's "that *means*
-the alarm mechanism is broken" (U3; [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)) is natural meaning in
+the alarm mechanism is broken" (U3; [CLAIM-649](../claims.d/CLAIM-649.md)) is natural meaning in
 Grice's sense only in its limiting case: factive under a deterministic,
 independently validated guarantee. In general it is evidential and
 defeasible, as the claim was narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner
 relayed on 2026-11-12. Either way no one means anything by the silence. A4 §3's "a false alarm is still an alarm" is
 true of the alarm state; that the steam alarm still "means fire" is the
-non-factive, designed sense nearer the bus bell ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)). No
+non-factive, designed sense nearer the bus bell ([CASE-243](../cases.d/CASE-243.md)). No
 status changes.

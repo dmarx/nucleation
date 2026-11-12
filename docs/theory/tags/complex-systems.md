@@ -6,7 +6,7 @@
 
 **Complex systems** — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts.
 
-198 of 1645 THEORY documents. Back to the [full index](../README.md).
+198 of 1646 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

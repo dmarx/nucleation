@@ -6,8 +6,8 @@
 
 **Learning and conditioning** — how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025).
 
-0 of 237 CASE documents. Back to the [full index](../README.md).
+1 of 243 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-239](../../../record/cases.d/CASE-239.md) | A proposed study: a forager that learns from its own energy dynamics which environmental distinctions predict a loss of viability, and revises its testing and action policy, to find whether it adapts its criteria of failure to changes nobody foresaw without the correct criterion being supplied | The review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12 found that the two-profile forager ([CASE-241](../../../record/cases.d/CASE-241.md)) "compares two criteria, not endogenous norm formation", since the programmer specified upkeep, dissolution and response policy. It asked for a forager "that learns from its own energy dynamics which environmental distinctions predict future loss of viability, and changes its testing and action policy accordingly". The question is whether it can adapt its criteria to unforeseen changes without having the correct criterion supplied in advance. Arms, measures, the outcome that would count against endogenous revision and the main threat to inference are set out below. The main threat: the designer still chooses the learning rule and the viability variable. Not built or run. The design's wording is the assistant's (Claude, in this session), from the review's request; adopting it is the owner's call. | Proposed |

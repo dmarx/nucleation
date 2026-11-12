@@ -6,8 +6,8 @@
 
 **Logic** — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
-0 of 80 ARG documents. Back to the [full index](../README.md).
+1 of 85 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-084](../../../record/arguments.d/ARG-084.md) | Under a deterministic, independently validated response guarantee, an absence of the guaranteed response to a delivered intervention entails that the guarantee was violated | The factive limiting case of [CLAIM-649](../../../record/claims.d/CLAIM-649.md), separated from the defeasible inference ([ARG-085](../../../record/arguments.d/ARG-085.md)) at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12. If a guarantee states that whenever the intervention is delivered the response occurs within the interval, then a delivered intervention with no response falsifies the guarantee: modus tollens. The guarantee must be validated independently of the test, or the inference only restates the test. Proposed. The wording is the filer's; adopting it is the owner's call. | Proposed |
