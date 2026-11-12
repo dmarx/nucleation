@@ -1,10 +1,9 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), where A cites it at
-  A18, as the 2023 start of image conditioning ("IP-Adapter offered image conditioning in 2023"). No reading was attempted; arXiv carries the paper.
+  read 2026-11-12 (NOTE-tmpkw49d) in full from arXiv v1. Worth reading as the record's primary source for the adapter route: an image-prompt adapter trained once against a frozen base, reusable on models fine-tuned from that base, which by its own account does not keep a subject's identity as Textual Inversion and DreamBooth do.
 title: 'IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
@@ -15,6 +14,10 @@ history:
     Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang, arXiv 2308.06721, v1 submitted 2023-08-13,
     which is `published:`. The summary follows the arXiv abstract and what
     A says of the work; a reading should check both.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read (NOTE-tmpkw49d) from arXiv v1 (2308.06721, 13 August 2023, the only version). Read in full: abstract, §§1–5 and Table 1. The reference list was skimmed; figures were read through their captions, since the extraction holds no images. Status Deferred to Active. THEORY-tmp3jjfo filed. Venue or type: arXiv preprint (v1, the only version; no venue on the arXiv record). Corrections: None; the arXiv record gives no venue. The summary is rewritten from the reading.
 tags:
 - representation-learning
 - anthology-candidate
@@ -29,28 +32,21 @@ keywords:
 - 'text-to-image diffusion'
 implementations: []
 summary: >-
-  Ye et al., arXiv 2308.06721. Here because A cited it in
-  the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image generators keep a character's
-  identity, which the owner asked to compare across model generations
-  (U7). It bears on the owner's case [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) and on the proposed study
-  [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md), both for [QUESTION-095](../questions.d/QUESTION-095.md): whether the identity is learned once
-  into weights or read from references at every use. What A says of it is
-  unverified until read.
+  Ye et al. (2023), arXiv 2308.06721, read in NOTE-tmpkw49d. An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and is reusable on community models fine-tuned from the same base; by its §5 it "cannot synthesize images that are highly consistent with the subject of a given image". Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on CASE-tmp40vka, CLAIM-tmpnwq8a and QUESTION-095.
 ---
+<!-- inactive-ok-file: THEORY-tmp3jjfo CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; the reading's account and the entries it bears on, filed on the same branch -->
 
 # LIT-tmptzx4q: IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
 
-Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023). "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models." arXiv 2308.06721.
+Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023). "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models." arXiv 2308.06721; arXiv preprint (v1, the only version; no venue on the arXiv record).
 
 ## Key takeaways
 
-*Registered from the exchange, not read.* The arXiv abstract presents "an effective and lightweight adapter to achieve image prompt capability for the pretrained text-to-image diffusion models", with "only 22M parameters", and the pretrained diffusion model frozen.
+Read in NOTE-tmpkw49d; the account is THEORY-tmp3jjfo. A lightweight adapter, trained once per base model, that adds image prompts to a frozen text-to-image diffusion model by decoupled cross-attention, and matches fully fine-tuned image-prompt models while staying compatible with text prompts, with community models fine-tuned from the same base, and with structural controls.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), where A cites it at A18, as the 2023 start of image conditioning ("IP-Adapter offered image conditioning in 2023"). It
-is provenance for the history of generations in [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), the owner's case
-of how changing costs move the choice between learning a character into
-weights and conditioning on references at each use, and a component of
-the comparison [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md) proposes. It is machine-learning method, registered here
-for the economics of amortization ([QUESTION-095](../questions.d/QUESTION-095.md)), not for practice.
+Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image
+generators keep a character's identity (CASE-tmp40vka), and read the same
+day at the owner's request. It is machine-learning method, read here for
+the economics of amortization (QUESTION-095), not for practice.

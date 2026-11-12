@@ -35,6 +35,7 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
+<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmpgxdpz THEORY-tmpvarvt THEORY-tmpdzbq1 THEORY-tmplz597 THEORY-tmpc6xzg THEORY-tmp6v6q8 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -225,5 +226,37 @@ At U6 of the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83e
 - **It does not settle anything.** The thread could not be read here (it redirected to a login page on 2026-11-12), and A's report of it is unverified. A: "the thread doesn't establish a controlled cost-and-quality comparison."
 
 The assistant (Claude, in the filing session) added a staleness term the readings lack, filed as [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md), Proposed: a specialization learned into weights goes stale when its base model is replaced, while what it encodes stays right, so the reader's turnover caps expected reuse. Its proposed test is a transfer arm in [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md)'s design. The reading of IP-Adapter, its one piece of evidence so far, is still owed.
+
+The question stays Open.
+
+## Note of 2026-11-12: seven works on character identity, read
+
+The works registered with CASE-tmp40vka were read; each THEORY bears on
+this question.
+
+- **Amortization across users.** The question's cases price one agent's
+  own reuse: the crew's bugs, the record's filings, a reasoner's
+  inferences. The reference routes amortize across agents. A module's
+  maker trains once (IP-Adapter, THEORY-tmp3jjfo; InstantID,
+  THEORY-tmpgxdpz, on 48 H800s; PhotoMaker, THEORY-tmpvarvt, on 8 A100s for
+  two weeks), and every user pays only per use, with no per-subject
+  training. A single account would need a term for who pays the fixed
+  cost and over how many users it is spread. THEORY-331's lifetime
+  objective is the provider's version of that.
+- **The trade, in its authors' words.** Textual Inversion
+  (THEORY-tmpc6xzg): "we can optimize a single pseudo-word and re-use it
+  for a multitude of new generations. The baseline models, meanwhile, use
+  CLIP for test-time optimization and thus require expensive optimization
+  for every new creation."
+- **Two costs the readings above did not price.** Storage, on the learned
+  side: InstantID names "high storage demands" among the costs of
+  per-subject training, and LoRA (THEORY-tmp6v6q8) shrinks it, about 35MB
+  against 350GB per task on GPT-3. And erosion of what the store held
+  before: DreamBooth's language drift (THEORY-tmplz597), in which the
+  model "slowly forgets how to generate subjects of the same class as the
+  target subject", paid for with a second loss.
+- **An analogue already held.** THEORY-439 (LIT-796): for language models,
+  examples used as context and the same examples used as a temporary weight
+  update "are not interchangeable". It now bears on this question.
 
 The question stays Open.

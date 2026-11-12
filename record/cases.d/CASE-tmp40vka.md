@@ -13,6 +13,11 @@ bears_on:
 - QUESTION-095
 draws_on:
 - THEORY-331
+- THEORY-tmp3jjfo
+- THEORY-tmpgxdpz
+- THEORY-tmpvarvt
+- THEORY-tmpdzbq1
+- THEORY-439
 reported_in:
 - LIT-tmp5b18b
 - LIT-tmp3pjii
@@ -33,10 +38,10 @@ summary: >-
   [QUESTION-095](../questions.d/QUESTION-095.md), whether storing a result and amortizing a computation are
   one trade, as a domain the question does not yet hold.
 ---
+<!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmpgxdpz THEORY-tmpvarvt THEORY-tmpdzbq1 THEORY-tmplz597 THEORY-tmpc6xzg — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CLAIM-tmpnwq8a — Proposed; filed from the same exchange, cited in its note -->
 <!-- inactive-ok-file: THEORY-331 — Proposed; the reading of inference-aware scaling the case is set against -->
 <!-- inactive-ok-file: CLAIM-303 — Proposed; the break-even A tied the case to -->
-<!-- inactive-ok-file: LIT-tmp5b18b LIT-tmp3pjii LIT-tmpiyr8q LIT-tmptzx4q LIT-tmp8l2rx LIT-tmpp8vh8 LIT-tmp4meti — Deferred; registered with this case, not read -->
 <!-- inactive-ok-file: CASE-tmp3isyl — Proposed; the study proposed with this case -->
 
 # CASE-tmp40vka: Keeping a character consistent in image generation, by training a character LoRA once or by conditioning on reference images at every generation: a 2026 practitioner thread on MiniMax H3, and the earlier generations of the same choice
@@ -137,3 +142,45 @@ measured performance rankings."
 ## Note of 2026-11-12: a staleness term
 
 [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md), the assistant's, proposes a cost the thread's commenters, as A reported them, do not name: a character LoRA is tied to its base model, so a new base model ends its reuse. It is Proposed and rests, so far, on one sentence of the IP-Adapter abstract about a neighbouring kind of fine-tuning.
+
+## Note of 2026-11-12: the works in the table, read
+
+All seven works in the table were read the same day (their NOTEs and
+THEORYs are on each LIT).
+
+- **A's 2023 row overstates it for character identity.** IP-Adapter
+  (THEORY-tmp3jjfo) reads reference images, but its §5 says "it cannot
+  synthesize images that are highly consistent with the subject of a given
+  image like some existing methods, e.g., Textual Inversion [51] and
+  DreamBooth [52]". Identity-level reference conditioning came with the
+  face-ID methods of late 2023 and 2024: PhotoMaker and InstantID. Textual
+  Inversion's authors also disclaim identity for 2022: "our model does not
+  currently preserve identity to the extent where this is a concern"
+  (THEORY-tmpc6xzg).
+- **The trade, measured once, on one base, by an interested party.**
+  PhotoMaker's Table 1 (THEORY-tmpvarvt), on a V100 for SDXL: DreamBooth
+  1284 s and Textual Inversion 2400 s per subject, against IP-Adapter 12 s
+  and PhotoMaker 10 s; face similarity 49.8, 54.3, 67.1 and 61.8; DINO
+  39.8, 39.3, 46.2 and 51.5. The text of its §4.2 claims "the largest
+  CLIP-T and DINO scores"; by the table the largest CLIP-T is DreamBooth's
+  (29.8 against 26.1), so the table is cited, not the sentence.
+- **Parity with character LoRAs, claimed without a measure.** InstantID
+  (THEORY-tmpgxdpz) compares itself with two community character LoRAs by
+  figure only: "We can achieve competitive results as LoRAs without any
+  training." Its abstract's "only a single forward inference" describes
+  earlier ID-embedding methods, which InstantID joins; the case's sentence
+  above attributes it so.
+- **A's genealogy is the field's own.** FLUX.1 Kontext (THEORY-tmpdzbq1)
+  offers personalization "without the need for finetuning [43] or LoRA
+  training", and names IP-Adapter among the "Early works on such
+  training-free subject-driven image synthesis".
+- **Both routes have a learned part.** The trained route learns per
+  character, by the user; the reference route learns once, by the
+  module's maker (8 A100s for two weeks for PhotoMaker; 48 H800s for
+  InstantID), and every user then pays only per use. A16's "both are forms
+  of memory" holds; they differ in who trains and how often.
+- **The record held an analogue it did not cite.** THEORY-439 (LIT-796)
+  finds for language models that the same few demonstrations used as
+  context and used to update weights temporarily "are not
+  interchangeable". It is the trained-against-conditioned comparison in
+  another domain, and the case now draws on it.

@@ -1,10 +1,9 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), where A cites it at
-  A18's table of generations, as the 2022-23 way of learning subject-specific weights. No reading was attempted; arXiv carries the paper.
+  read 2026-11-12 (NOTE-tmp9kwwm) from arXiv v2. Worth reading for what learning a subject into weights bought in 2022: full fine-tuning per subject in about five accelerator-minutes, at higher subject fidelity than Textual Inversion's frozen-model embedding, and a cost of learning, language drift, that its prior-preservation loss pays to prevent.
 title: 'DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
@@ -15,6 +14,10 @@ history:
     Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein and Kfir Aberman, arXiv 2208.12242, v1 submitted 2022-08-25,
     which is `published:`. The summary follows the arXiv abstract and what
     A says of the work; a reading should check both.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read (NOTE-tmp9kwwm) from arXiv v2 (2208.12242, 15 March 2023; v1 of 25 August 2022). Read: §§1–5, Tables 1–4, and the supplementary material in the arXiv PDF. References skipped; figures through captions. Status Deferred to Active. THEORY-tmplz597 filed. Venue or type: CVPR 2023 (arXiv comment: "Published at CVPR 2023"). Corrections: None; the reading was of v2. The summary is rewritten from the reading.
 tags:
 - representation-learning
 - anthology-candidate
@@ -29,28 +32,21 @@ keywords:
 - 'prior preservation'
 implementations: []
 summary: >-
-  Ruiz et al., arXiv 2208.12242. Here because A cited it in
-  the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image generators keep a character's
-  identity, which the owner asked to compare across model generations
-  (U7). It bears on the owner's case [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md) and on the proposed study
-  [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md), both for [QUESTION-095](../questions.d/QUESTION-095.md): whether the identity is learned once
-  into weights or read from references at every use. What A says of it is
-  unverified until read.
+  Ruiz et al. (2022), arXiv 2208.12242, CVPR 2023, read in NOTE-tmp9kwwm. Fine-tuning every weight of a text-to-image diffusion model on 3–5 images of a subject, bound to a rare-token identifier and regularized by a class-prior-preservation loss, renders the subject in new contexts with higher DINO fidelity than Textual Inversion (0.668 against 0.569 on Stable Diffusion), at about 5 minutes on one A100 per subject. Registered from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44). It bears on CASE-tmp40vka, CASE-tmp3isyl and QUESTION-095.
 ---
+<!-- inactive-ok-file: THEORY-tmplz597 CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; the reading's account and the entries it bears on, filed on the same branch -->
 
 # LIT-tmp3pjii: DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
 
-Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein and Kfir Aberman (2022). "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation." arXiv 2208.12242.
+Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein and Kfir Aberman (2022). "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation." arXiv 2208.12242; CVPR 2023 (arXiv comment: "Published at CVPR 2023").
 
 ## Key takeaways
 
-*Registered from the exchange, not read.* The arXiv abstract: "Given as input just a few images of a subject, we fine-tune a pretrained text-to-image model such that it learns to bind a unique identifier with that specific subject." The arXiv comment gives CVPR 2023.
+Read in NOTE-tmp9kwwm; the account is THEORY-tmplz597. Subject-driven generation by fine-tuning all of a diffusion model's weights on a few images, with a prior-preservation loss, a benchmark and a DINO subject-fidelity metric.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), where A cites it at A18's table of generations, as the 2022-23 way of learning subject-specific weights. It
-is provenance for the history of generations in [CASE-tmp40vka](../cases.d/CASE-tmp40vka.md), the owner's case
-of how changing costs move the choice between learning a character into
-weights and conditioning on references at each use, and a component of
-the comparison [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md) proposes. It is machine-learning method, registered here
-for the economics of amortization ([QUESTION-095](../questions.d/QUESTION-095.md)), not for practice.
+Registered on 2026-11-12 from the exchange "Identify Synthesis Opportunities" (2026-11-08, https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44), for the history of how image
+generators keep a character's identity (CASE-tmp40vka), and read the same
+day at the owner's request. It is machine-learning method, read here for
+the economics of amortization (QUESTION-095), not for practice.

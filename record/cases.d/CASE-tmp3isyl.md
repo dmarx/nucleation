@@ -14,6 +14,9 @@ bears_on:
 draws_on:
 - THEORY-331
 - THEORY-342
+- THEORY-tmpvarvt
+- THEORY-tmplz597
+- THEORY-tmpdzbq1
 summary: >-
   A's proposal, from the exchange "Identify Synthesis Opportunities"
   (2026-11-08, A18), to measure the crossover the owner's case
@@ -26,6 +29,7 @@ summary: >-
   filer's spelling-out of that sentence, to meet what a proposed study
   must state. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpvarvt THEORY-tmplz597 THEORY-tmpdzbq1 THEORY-tmpgxdpz — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-tmp40vka — Proposed; the owner's case this study would measure -->
 <!-- inactive-ok-file: THEORY-331 — Proposed; the lifetime-compute objective the design borrows -->
 <!-- inactive-ok-file: SYNTHESIS-015 — Proposed; the account A proposed to revise -->
@@ -83,3 +87,21 @@ A numbered this study 235 and the owner's case 234, in a bundle never
 committed; neither number is on the record. A's patch also revised
 [SYNTHESIS-015](../syntheses.d/SYNTHESIS-015.md) to integrate both; that revision was not made here (see the
 curation entry of 2026-11-12 for this exchange).
+
+## Note of 2026-11-12: what the readings give the design
+
+- **F and c_ref for one generation.** PhotoMaker's Table 1 (THEORY-tmpvarvt)
+  gives, on one V100, DreamBooth 1284 s per subject and reference routes of
+  10–12 s per image. It does not give DreamBooth's per-image cost after
+  training, so n* cannot be computed from it.
+- **F for 2022.** DreamBooth (THEORY-tmplz597): about five A100-minutes per
+  subject on Stable Diffusion.
+- **Fidelity targets.** DreamBooth's DreamBench and DINO measure, and
+  FLUX.1 Kontext's character-reference cases with a face-embedding measure
+  and multi-turn drift (THEORY-tmpdzbq1), which adds fidelity across
+  successive uses.
+- **The main threat, seen.** PhotoMaker's rankings change with the metric:
+  IP-Adapter leads on face similarity, PhotoMaker on DINO and CLIP-I,
+  DreamBooth on CLIP-T. InstantID's comparison with character LoRAs
+  (THEORY-tmpgxdpz) has no measure at all, which is why the study is
+  needed.
