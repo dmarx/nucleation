@@ -104,8 +104,8 @@ No status changes.
 
 ## Note of 2026-11-12: the exchange "About Plantation Paradise"
 
-A6 §1 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this question and CLAIM-597 accurately, and asked
-whether the colonial theatre of Saint-Domingue (CASE-tmpwmg3h) closed
+A6 §1 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this question and [CLAIM-597](../claims.d/CLAIM-597.md) accurately, and asked
+whether the colonial theatre of Saint-Domingue ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)) closed
 such a loop: theatrical prestige reinforcing the hierarchy that supplied
 its labour. "The difficult question is whether this loop actually
 closes. ... To establish organizational closure, we would need to show

@@ -192,21 +192,21 @@ owner's call.
 
 ## Note of 2026-11-12: the exchange "About Plantation Paradise"
 
-A6 §5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim and CLAIM-624 accurately, quoting
-CLAIM-624's five conditions, and read the colonial theatre against them
-(CASE-tmpwmg3h): proving the stronger claim "would require more than
+A6 §5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim and [CLAIM-624](CLAIM-624.md) accurately, quoting
+[CLAIM-624](CLAIM-624.md)'s five conditions, and read the colonial theatre against them
+([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)): proving the stronger claim "would require more than
 documenting segregated seating or racist dramatic representation", and
 the mechanisms may have been kept "principally by colonial law and state
 authorities, rather than by theatrical organizations themselves", which
-is QUESTION-449's question.
+is [QUESTION-449](../questions.d/QUESTION-449.md)'s question.
 
 A9 §7, after Kincaid and Stalion's review of the gaslighting literature
-(LIT-tmph9tz9, unread), proposed a boundary test: "whether
+([LIT-tmph9tz9](../literature.d/LIT-tmph9tz9.md), unread), proposed a boundary test: "whether
 organizational counter-normativity identifies a genuinely different
 mechanism: the reproduction of conditions that obstruct justified
 normative constraints, potentially without strategic manipulation or any
 single actor intending the obstruction." The record already asks the
-same of manipulation by an organized whole (QUESTION-070), and CLAIM-657
+same of manipulation by an organized whole ([QUESTION-070](../questions.d/QUESTION-070.md)), and [CLAIM-657](CLAIM-657.md)
 says its two routes need no deliberate suppression. Not filed
 separately.
 
@@ -216,5 +216,5 @@ maintaining relationships in which subordinated participants'
 contributions remain necessary to its functioning, while the
 participants' claims concerning those contributions remain ineffective
 in governing or transforming the organization." It is audited in the
-curation entry of 2026-11-12; its open part is QUESTION-tmpojwyk. No
+curation entry of 2026-11-12; its open part is [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md). No
 status changes.

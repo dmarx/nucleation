@@ -24,7 +24,7 @@ keywords:
 - 'Saint-Domingue'
 implementations: []
 summary: >-
-  Jessica Marie Johnson (2020). Wicked Flesh: Black Women, Intimacy, and Freedom in the Atlantic World. University of Pennsylvania Press. DOI-10.9783/9780812297249. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. Named beside LIT-tmp9nkyo as a methodological challenge; its bearing on how the record individuates governing relations is A's suggestion and is left to the reading.
+  Jessica Marie Johnson (2020). Wicked Flesh: Black Women, Intimacy, and Freedom in the Atlantic World. University of Pennsylvania Press. DOI-10.9783/9780812297249. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. Named beside [LIT-tmp9nkyo](LIT-tmp9nkyo.md) as a methodological challenge; its bearing on how the record individuates governing relations is A's suggestion and is left to the reading.
 ---
 <!-- inactive-ok-file: LIT-tmp9nkyo — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 
@@ -38,4 +38,4 @@ Jessica Marie Johnson (2020). *Wicked Flesh: Black Women, Intimacy, and Freedom 
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. Named beside LIT-tmp9nkyo as a methodological challenge; its bearing on how the record individuates governing relations is A's suggestion and is left to the reading.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. Named beside [LIT-tmp9nkyo](LIT-tmp9nkyo.md) as a methodological challenge; its bearing on how the record individuates governing relations is A's suggestion and is left to the reading.

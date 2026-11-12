@@ -197,7 +197,7 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07)
 ## Note of 2026-11-12: the exchange "About Plantation Paradise"
 
 A9 §4 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12), after Nurse, O'Toole and Darden's "Paradox of
-Inclusivity" (LIT-tmphp6b2, unread), cited this claim accurately as one
+Inclusivity" ([LIT-tmphp6b2](../literature.d/LIT-tmphp6b2.md), unread), cited this claim accurately as one
 on "self-confirming classifications" and asked: "When does an
 organization's interpretation of a participant's response alter the
 conditions under which that participant's future behavior will be
@@ -205,6 +205,6 @@ evaluated?" In A's report of the paper, staff read disengagement as
 individual deficiency, and the reading legitimates allocations that
 confirm the assumptions behind it. The record holds the loop: this claim
 (a category that institutions act on can produce the regularities that
-confirm it), CASE-142 (a label confirmed by the response of someone who
-rejects it) and CLAIM-619 (a challenge classified as the problem). The
+confirm it), [CASE-142](../cases.d/CASE-142.md) (a label confirmed by the response of someone who
+rejects it) and [CLAIM-619](CLAIM-619.md) (a challenge classified as the problem). The
 question is not filed separately. No status changes.

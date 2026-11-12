@@ -236,26 +236,26 @@ owner's call.
 
 ## Note of 2026-11-12: the exchange "About Plantation Paradise"
 
-A6 §3 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim and CASE-110 accurately, with CASE-110's
+A6 §3 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim and [CASE-110](../cases.d/CASE-110.md) accurately, with [CASE-110](../cases.d/CASE-110.md)'s
 numbers (six and six hours against ten and two, an eight-hour cap), and
-applied them to the records of the colonial theatre (CASE-tmpwmg3h): a
+applied them to the records of the colonial theatre ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)): a
 production notice "might preserve the title of an opera, the identity of
 a celebrated performer, or the date of a performance, but provide little
 information about the enslaved people whose work supported the event."
 A6: "every description is adequate relative to some target, and
 different targets require the preservation of different distinctions."
 
-A9 §6, after Fuentes (LIT-tmp9nkyo), made a second-level point:
+A9 §6, after Fuentes ([LIT-tmp9nkyo](../literature.d/LIT-tmp9nkyo.md)), made a second-level point:
 "Inadequate representation ≠ Inadequate evidence generation". "The
 problem is not merely choosing a better coarse-graining of existing
 data. The problem is that the observations themselves were generated
 under unequal relations of authority." In this claim's terms: where the
 only evidence that survives is the institution's own description, no
 judgement made from it can separate states that description merges
-(CLAIM-350, as CASE-110 applies it), so a historian's better description
+([CLAIM-350](CLAIM-350.md), as [CASE-110](../cases.d/CASE-110.md) applies it), so a historian's better description
 of the same records cannot recover a member's claim. It needs evidence
 generated outside the institution's representation, as A6 says Prest's
-runaway advertisements are (LIT-tmpz9o31). That is CLAIM-350 applied to
-the historian's evidence, and it is not filed separately. CLAIM-657's
+runaway advertisements are ([LIT-tmpz9o31](../literature.d/LIT-tmpz9o31.md)). That is [CLAIM-350](CLAIM-350.md) applied to
+the historian's evidence, and it is not filed separately. [CLAIM-657](CLAIM-657.md)'s
 selective disappearance is the organization's own form of the same loss.
 No status changes.

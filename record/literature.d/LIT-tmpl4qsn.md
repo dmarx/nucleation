@@ -23,7 +23,7 @@ keywords:
 - 'whiteness as credential'
 implementations: []
 summary: >-
-  Victor Ray (2019). A Theory of Racialized Organizations. American Sociological Review 84(1), 26–53. DOI-10.1177/0003122418822335. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. A9 calls it the strongest direct interlocutor for A6's synthesis, and says parts of that synthesis converge with it. It bears on QUESTION-tmpojwyk and CLAIM-403.
+  Victor Ray (2019). A Theory of Racialized Organizations. American Sociological Review 84(1), 26–53. DOI-10.1177/0003122418822335. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. A9 calls it the strongest direct interlocutor for A6's synthesis, and says parts of that synthesis converge with it. It bears on [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md) and [CLAIM-403](../claims.d/CLAIM-403.md).
 ---
 
 # LIT-tmpl4qsn: A Theory of Racialized Organizations
@@ -36,4 +36,4 @@ Victor Ray (2019). A Theory of Racialized Organizations. *American Sociological 
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. A9 calls it the strongest direct interlocutor for A6's synthesis, and says parts of that synthesis converge with it. It bears on QUESTION-tmpojwyk and CLAIM-403.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. A9 calls it the strongest direct interlocutor for A6's synthesis, and says parts of that synthesis converge with it. It bears on [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md) and [CLAIM-403](../claims.d/CLAIM-403.md).

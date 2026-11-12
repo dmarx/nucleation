@@ -22,7 +22,7 @@ keywords:
 - 'welfare state'
 implementations: []
 summary: >-
-  Robert E. Goodin (1985). Protecting the Vulnerable: A Re-Analysis of Our Social Responsibilities. University of Chicago Press. ISBN 9780226302997. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A11, A12. The supposition of CLAIM-tmpwn3wr, and a candidate answer to QUESTION-tmp9bbpk (vulnerability as the ground).
+  Robert E. Goodin (1985). Protecting the Vulnerable: A Re-Analysis of Our Social Responsibilities. University of Chicago Press. ISBN 9780226302997. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A11, A12. The supposition of [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), and a candidate answer to [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) (vulnerability as the ground).
 ---
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
@@ -36,4 +36,4 @@ Robert E. Goodin (1985). *Protecting the Vulnerable: A Re-Analysis of Our Social
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A11, A12. The supposition of CLAIM-tmpwn3wr, and a candidate answer to QUESTION-tmp9bbpk (vulnerability as the ground).
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A11, A12. The supposition of [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), and a candidate answer to [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) (vulnerability as the ground).

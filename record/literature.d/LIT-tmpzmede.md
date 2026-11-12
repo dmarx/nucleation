@@ -22,7 +22,7 @@ keywords:
 - 'involuntary participation'
 implementations: []
 summary: >-
-  Philip Pettit (2023). Five elements of group agency. Inquiry 68(3), 1069–1089. DOI-10.1080/0020174X.2023.2208391. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on QUESTION-tmp9bbpk and on CLAIM-075 (viability does not establish what ought to persist), here for group agency. The record holds other Pettit works (List and Pettit's group agency among them); this one is not held.
+  Philip Pettit (2023). Five elements of group agency. Inquiry 68(3), 1069–1089. DOI-10.1080/0020174X.2023.2208391. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) and on [CLAIM-075](../claims.d/CLAIM-075.md) (viability does not establish what ought to persist), here for group agency. The record holds other Pettit works (List and Pettit's group agency among them); this one is not held.
 ---
 
 # LIT-tmpzmede: Five elements of group agency
@@ -35,4 +35,4 @@ Philip Pettit (2023). Five elements of group agency. *Inquiry* 68(3), 1069–108
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on QUESTION-tmp9bbpk and on CLAIM-075 (viability does not establish what ought to persist), here for group agency. The record holds other Pettit works (List and Pettit's group agency among them); this one is not held.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) and on [CLAIM-075](../claims.d/CLAIM-075.md) (viability does not establish what ought to persist), here for group agency. The record holds other Pettit works (List and Pettit's group agency among them); this one is not held.

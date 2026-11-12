@@ -215,9 +215,9 @@ the next synthesis review.
 
 Filed on the organizational-normativity line from the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) and not
 integrated here: the owner's question what a whole owes its parts
-(QUESTION-tmp9bbpk, refining QUESTION-128), A's question when an
+([QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md), refining [QUESTION-128](../questions.d/QUESTION-128.md)), A's question when an
 organization's dependence on subordinated participants becomes their
-authority (QUESTION-tmpojwyk), A's claims CLAIM-tmp16mkz and
-CLAIM-tmpwn3wr, and the case CASE-tmpwmg3h. Whether and where they enter
+authority ([QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md)), A's claims [CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md) and
+[CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), and the case [CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md). Whether and where they enter
 this account is for the synthesis review of the line. The account is
 otherwise unchanged.

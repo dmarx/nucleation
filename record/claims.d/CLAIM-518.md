@@ -202,11 +202,11 @@ No status, title or warrant changes.
 
 A6 §4 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately, including its limit: it
 "does not establish that history constitutes an additional fundamental
-normative relatum", which is the narrow horn conceded to CLAIM-512. A6's
+normative relatum", which is the narrow horn conceded to [CLAIM-512](CLAIM-512.md). A6's
 example: two theatres reach equally inclusive casting, one by voluntary
 reform and one "only under external pressure, while preserving
 mechanisms designed to restore exclusion whenever that pressure
-disappeared". A12 §6, after Thompson (LIT-tmp3korg, unread), adds that
+disappeared". A12 §6, after Thompson ([LIT-tmp3korg](../literature.d/LIT-tmp3korg.md), unread), adds that
 "organizational obligations can outlast the arrangements that originally
 generated them", and history is one of the grounds the owner's
-QUESTION-tmp9bbpk asks about. No status changes.
+[QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) asks about. No status changes.

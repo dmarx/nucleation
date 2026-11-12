@@ -23,7 +23,7 @@ keywords:
 - 'Leopold'
 implementations: []
 summary: >-
-  Alistair Wardrope (2020). Health justice in the Anthropocene: medical ethics and the Land Ethic. Journal of Medical Ethics 46(12), 791–796. DOI-10.1136/medethics-2020-106855. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on QUESTION-tmp9bbpk: whether a whole's good can matter without absorbing its members' claims.
+  Alistair Wardrope (2020). Health justice in the Anthropocene: medical ethics and the Land Ethic. Journal of Medical Ethics 46(12), 791–796. DOI-10.1136/medethics-2020-106855. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md): whether a whole's good can matter without absorbing its members' claims.
 ---
 
 # LIT-tmpmtbj6: Health justice in the Anthropocene: medical ethics and the Land Ethic
@@ -36,4 +36,4 @@ Alistair Wardrope (2020). Health justice in the Anthropocene: medical ethics and
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on QUESTION-tmp9bbpk: whether a whole's good can matter without absorbing its members' claims.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md): whether a whole's good can matter without absorbing its members' claims.

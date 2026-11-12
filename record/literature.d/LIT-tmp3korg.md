@@ -22,7 +22,7 @@ keywords:
 - 'historical obligations'
 implementations: []
 summary: >-
-  Janna Thompson (2022). Groups as intergenerational agents: Responsibility through time and change. Journal of Social Philosophy 53(1), 8–20. DOI-10.1111/josp.12459. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on QUESTION-tmp9bbpk (history as a ground), on CLAIM-518 (judgments of an organization's obligations can need histories) and on QUESTION-118 (what makes a later collective the earlier one).
+  Janna Thompson (2022). Groups as intergenerational agents: Responsibility through time and change. Journal of Social Philosophy 53(1), 8–20. DOI-10.1111/josp.12459. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) (history as a ground), on [CLAIM-518](../claims.d/CLAIM-518.md) (judgments of an organization's obligations can need histories) and on [QUESTION-118](../questions.d/QUESTION-118.md) (what makes a later collective the earlier one).
 ---
 
 # LIT-tmp3korg: Groups as intergenerational agents: Responsibility through time and change
@@ -35,4 +35,4 @@ Janna Thompson (2022). Groups as intergenerational agents: Responsibility throug
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on QUESTION-tmp9bbpk (history as a ground), on CLAIM-518 (judgments of an organization's obligations can need histories) and on QUESTION-118 (what makes a later collective the earlier one).
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) (history as a ground), on [CLAIM-518](../claims.d/CLAIM-518.md) (judgments of an organization's obligations can need histories) and on [QUESTION-118](../questions.d/QUESTION-118.md) (what makes a later collective the earlier one).

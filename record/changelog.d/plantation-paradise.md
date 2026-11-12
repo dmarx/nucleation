@@ -5,16 +5,16 @@
   verbatim export (curation entry of 2026-11-12, 204512). The exchange was
   not on the record before.
   - The owner's question what obligations, if any, an organized whole
-    has towards its own constituent parts (QUESTION-tmp9bbpk), refining
-    QUESTION-128.
+    has towards its own constituent parts ([QUESTION-tmp9bbpk](record/questions.d/QUESTION-tmp9bbpk.md)), refining
+    [QUESTION-128](record/questions.d/QUESTION-128.md).
   - A's question when an organization's dependence on participants it
-    subordinates becomes their authority (QUESTION-tmpojwyk).
+    subordinates becomes their authority ([QUESTION-tmpojwyk](record/questions.d/QUESTION-tmpojwyk.md)).
   - A's claim that an arrangement can produce the dependence through
-    which it exploits (CLAIM-tmp16mkz).
+    which it exploits ([CLAIM-tmp16mkz](record/claims.d/CLAIM-tmp16mkz.md)).
   - A's supposed claim that a whole's responsibilities grow with
-    integration if vulnerability grounds responsibility (CLAIM-tmpwn3wr).
+    integration if vulnerability grounds responsibility ([CLAIM-tmpwn3wr](record/claims.d/CLAIM-tmpwn3wr.md)).
   - The public theatres of colonial Saint-Domingue as a reported case
-    (CASE-tmpwmg3h).
+    ([CASE-tmpwmg3h](record/cases.d/CASE-tmpwmg3h.md)).
   - Seventeen dated notes on the entries the exchange bears on.
   - Twenty-five cited works registered unread as Deferred LITs, among
     them Powers's *From Plantation to Paradise?*, Prest, Ray, Alicea,

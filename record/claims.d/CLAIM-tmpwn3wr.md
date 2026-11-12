@@ -36,9 +36,9 @@ summary: >-
   responsibilities concerning those conditions." A said it is "not yet a
   theorem, nor a fully justified moral principle", and that the normative
   premise must come from outside the organization's dynamics. Filed as
-  supposed, on Goodin's vulnerability principle (LIT-tmpgqxcj, unread), and
-  resting on CLAIM-603's account of how reliable supply makes a party give
-  up a capability. A candidate answer to the owner's QUESTION-tmp9bbpk,
+  supposed, on Goodin's vulnerability principle ([LIT-tmpgqxcj](../literature.d/LIT-tmpgqxcj.md), unread), and
+  resting on [CLAIM-603](CLAIM-603.md)'s account of how reliable supply makes a party give
+  up a capability. A candidate answer to the owner's [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md),
   for one ground. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the premise this rests on, open -->
@@ -50,7 +50,7 @@ summary: >-
 
 ## The claim
 
-A12 §1, on Goodin (LIT-tmpgqxcj): "Goodin's central move is to ground
+A12 §1, on Goodin ([LIT-tmpgqxcj](../literature.d/LIT-tmpgqxcj.md)): "Goodin's central move is to ground
 special responsibilities in **another party's vulnerability to our
 actions and choices**". A then turned it on wholes and parts:
 
@@ -75,10 +75,10 @@ the measure of its moral standing**."
 ## Why it is filed as supposed
 
 The inference from dependence to obligation is the one the record has
-refused before. The authenticity line's reciprocal agency (CLAIM-096)
+refused before. The authenticity line's reciprocal agency ([CLAIM-096](CLAIM-096.md))
 was deferred as needing "independent moral argument", and A25 of an
 earlier exchange put the refusal as "interdependence ⇏ obligation"
-(CLAIM-096's note of 2026-10-18; QUESTION-007). A12 accepts the point:
+([CLAIM-096](CLAIM-096.md)'s note of 2026-10-18; [QUESTION-007](../questions.d/QUESTION-007.md)). A12 accepts the point:
 "Goodin's approach still needs a principle explaining why vulnerability
 generates a claim, rather than merely describing a causal relationship.
 Otherwise we risk the inference that *Nucleation* already rejects:
@@ -90,14 +90,14 @@ responsibility grows.
 
 ## What it rests on
 
-CLAIM-603: a capability lost because another reliably supplies it is
+[CLAIM-603](CLAIM-603.md): a capability lost because another reliably supplies it is
 favoured to the one who loses it, and one-way supply leaves a dependence
 that nothing in the dependent's dynamics limits. That is the route by
 which a whole comes to control what its parts can no longer secure.
-CLAIM-603's reciprocal form, each partner supplying what the other gave
+[CLAIM-603](CLAIM-603.md)'s reciprocal form, each partner supplying what the other gave
 up, is where the claim's second defeater would look: a part that gave up
 a capability and holds one the whole needs is less exposed to the whole's
-choices, though CLAIM-428 warns that mutual dependence can still be
+choices, though [CLAIM-428](CLAIM-428.md) warns that mutual dependence can still be
 organized as coercive leverage.
 
 ## Admission
@@ -108,7 +108,7 @@ the supposition, the components leave open whether a whole's
 responsibility tracks integration or only vulnerability. The claim says
 integration matters through vulnerability. So a whole that takes over a
 capacity while its parts keep an exit, or hold something the whole
-needs (CLAIM-603's reciprocal form), predicts no growth. One-way supply
+needs ([CLAIM-603](CLAIM-603.md)'s reciprocal form), predicts no growth. One-way supply
 predicts growth. A case of one-way integration in which the
 constituents' exposure to the whole's choices does not rise would go
 against it.
@@ -117,10 +117,10 @@ against it.
 
 - **That the supposition holds.** Goodin is unread here.
 - **What the responsibilities require.** A12 §2 and §4 suggest Kittay
-  (LIT-tmp2vf7t), keeping supporting relationships just and sustainable,
-  and Fineman (LIT-tmpwqwv3), supplying resources for resilience. Neither
+  ([LIT-tmp2vf7t](../literature.d/LIT-tmp2vf7t.md)), keeping supporting relationships just and sustainable,
+  and Fineman ([LIT-tmpwqwv3](../literature.d/LIT-tmpwqwv3.md)), supplying resources for resilience. Neither
   is read.
 - **That every constituent is owed it.** Only parts with standing of
-  their own (TERM-083) are candidates; A12 §5: "A human constituent can
+  their own ([TERM-083](../terms.d/TERM-083.md)) are candidates; A12 §5: "A human constituent can
   possess moral claims that a cell, enzyme, or organizational subprocess
   does not possess in the same sense."

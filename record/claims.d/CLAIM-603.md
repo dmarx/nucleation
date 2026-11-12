@@ -294,13 +294,13 @@ effective control over the relationship's constitutive terms."
 The claim does not say reciprocity suffices for either. Its "What it does
 not say" already has that reciprocity "changes who bears a withdrawal and
 whether the supply is bargained over. It does not remove the risk." A's
-point is CLAIM-428's, that one dependence can be organized as coercive
+point is [CLAIM-428](CLAIM-428.md)'s, that one dependence can be organized as coercive
 leverage, applied to the reciprocal form: mutual dependence of outcomes
 is not mutual control of terms. It bounds what "reciprocity" in the
 title can be read to promise, and is not filed as a counter.
 
 The exchange put this claim's mechanism to two new uses, both A's and
-Proposed: CLAIM-tmp16mkz, an arrangement that produces the dependence
-through which it exploits, and CLAIM-tmpwn3wr, a whole whose
+Proposed: [CLAIM-tmp16mkz](CLAIM-tmp16mkz.md), an arrangement that produces the dependence
+through which it exploits, and [CLAIM-tmpwn3wr](CLAIM-tmpwn3wr.md), a whole whose
 responsibilities grow as it takes over what its parts supplied, which
 rests on this claim. No status changes.

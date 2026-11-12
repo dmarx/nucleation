@@ -22,7 +22,7 @@ keywords:
 - 'equality'
 implementations: []
 summary: >-
-  Martha Albertson Fineman (2010). The Vulnerable Subject and the Responsive State. Emory Law Journal 60(2). Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. A candidate answer to QUESTION-tmp9bbpk (governance of constituents' resilience as the ground). The record names Fineman only inside other works' notes.
+  Martha Albertson Fineman (2010). The Vulnerable Subject and the Responsive State. Emory Law Journal 60(2). Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. A candidate answer to [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) (governance of constituents' resilience as the ground). The record names Fineman only inside other works' notes.
 ---
 
 # LIT-tmpwqwv3: The Vulnerable Subject and the Responsive State
@@ -35,4 +35,4 @@ Martha Albertson Fineman (2010). The Vulnerable Subject and the Responsive State
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. A candidate answer to QUESTION-tmp9bbpk (governance of constituents' resilience as the ground). The record names Fineman only inside other works' notes.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. A candidate answer to [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) (governance of constituents' resilience as the ground). The record names Fineman only inside other works' notes.

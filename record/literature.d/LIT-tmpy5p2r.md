@@ -22,7 +22,7 @@ keywords:
 - 'transmission'
 implementations: []
 summary: >-
-  Rowan Mellor (2025). Doing your part: Joint obligation and individual-level transmission. Philosophy and Phenomenological Research 111(2), 386–406. DOI-10.1111/phpr.70031. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. A constraint on answers to QUESTION-tmp9bbpk. Beside LIT-1426 (Collins, Group Duties, Unavailable).
+  Rowan Mellor (2025). Doing your part: Joint obligation and individual-level transmission. Philosophy and Phenomenological Research 111(2), 386–406. DOI-10.1111/phpr.70031. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. A constraint on answers to [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md). Beside [LIT-1426](LIT-1426.md) (Collins, Group Duties, Unavailable).
 ---
 <!-- inactive-ok-file: LIT-1426 — Unavailable; cited as on the record -->
 
@@ -36,4 +36,4 @@ Rowan Mellor (2025). Doing your part: Joint obligation and individual-level tran
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. A constraint on answers to QUESTION-tmp9bbpk. Beside LIT-1426 (Collins, Group Duties, Unavailable).
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. A constraint on answers to [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md). Beside [LIT-1426](LIT-1426.md) (Collins, Group Duties, Unavailable).

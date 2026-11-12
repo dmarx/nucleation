@@ -181,13 +181,13 @@ is a passive companion. No status change.
 A9 §3 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) restated this claim's sequence accurately (a challenge
 recategorized as disruption, the capacity for future challenge reduced,
 fewer complaints read as successful governance) and proposed Ahmed's
-*Complaint!* (LIT-tmpjm1op, unread) as its empirical interlocutor. A's
+*Complaint!* ([LIT-tmpjm1op](../literature.d/LIT-tmpjm1op.md), unread) as its empirical interlocutor. A's
 methodological point: a complaint is "also a **probe of the institution's
 capacity to recognize, transmit, and act upon challenges to its
 conduct**", and the outcomes to tell apart are "complaints that are
 acknowledged, complaints that influence decisions, and complaints that
 alter the institution's future capacity to respond", which A maps to
-CLAIM-523's legibility, volitional efficacy and correctability. This
+[CLAIM-523](CLAIM-523.md)'s legibility, volitional efficacy and correctability. This
 claim's test, whether a credible challenge causally lowers the chance of
 effective future challenge against a control, is the intervention form
 of that method; Ahmed's accounts are where A expects the material. No

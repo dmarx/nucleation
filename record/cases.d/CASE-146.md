@@ -88,9 +88,9 @@ the same favourable things about their friend.
 
 A6 §5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this case accurately, as "an explicitly fictional
 thought experiment", and used it as the parallel for the singer Minette
-in the colonial theatre (CASE-tmpwmg3h): an institution "might recognize
+in the colonial theatre ([CASE-tmpwmg3h](CASE-tmpwmg3h.md)): an institution "might recognize
 Minette as an exceptional performer while leaving its general racial
 classifications unchanged", and "The recognition of an exception does
 not prove that the rule governing exceptions has changed." For an
-organization that is CLAIM-403's separation of admission from a part in
+organization that is [CLAIM-403](../claims.d/CLAIM-403.md)'s separation of admission from a part in
 revising the standards. The case is unchanged.

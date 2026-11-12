@@ -139,6 +139,6 @@ holder of influence named, and is not filed separately.
 A6 turned the claim round, to an organization that depends on parties it
 subordinates: "a theatre director may depend on a talented Black singer
 for a production, while the singer's opportunity to perform depends on
-the director's permission" (CASE-tmpwmg3h). When such a dependence
-becomes the dependent-upon party's authority is QUESTION-tmpojwyk, A's.
+the director's permission" ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)). When such a dependence
+becomes the dependent-upon party's authority is [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md), A's.
 No status changes.

@@ -227,6 +227,6 @@ at different scales, according to different standards." Its corollaries
 ("Cultural sophistication does not establish justice. Institutional
 stability does not establish legitimacy. Artistic recognition does not
 establish freedom. Participation does not establish consent.") restate
-CLAIM-075 for the case (CASE-tmpwmg3h). A6 cited QUESTION-129 for the
+[CLAIM-075](CLAIM-075.md) for the case ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)). A6 cited [QUESTION-129](../questions.d/QUESTION-129.md) for the
 open part, which standard has authority when standards conflict. No
 status changes.

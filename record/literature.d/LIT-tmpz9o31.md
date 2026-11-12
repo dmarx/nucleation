@@ -22,7 +22,7 @@ keywords:
 - 'runaway advertisements'
 implementations: []
 summary: >-
-  Julia Prest, ed. (2023). Colonial-Era Caribbean Theatre: Issues in Research, Writing and Methodology. Liverpool University Press. DOI-10.2307/jj.1866834. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3, A6. Method for CASE-tmpwmg3h and for the note on CLAIM-348 of 2026-11-12: evidence generated outside the institution's own records.
+  Julia Prest, ed. (2023). Colonial-Era Caribbean Theatre: Issues in Research, Writing and Methodology. Liverpool University Press. DOI-10.2307/jj.1866834. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3, A6. Method for [CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md) and for the note on [CLAIM-348](../claims.d/CLAIM-348.md) of 2026-11-12: evidence generated outside the institution's own records.
 ---
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
@@ -36,4 +36,4 @@ Julia Prest, ed. (2023). *Colonial-Era Caribbean Theatre: Issues in Research, Wr
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A3, A6. Method for CASE-tmpwmg3h and for the note on CLAIM-348 of 2026-11-12: evidence generated outside the institution's own records.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A3, A6. Method for [CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md) and for the note on [CLAIM-348](../claims.d/CLAIM-348.md) of 2026-11-12: evidence generated outside the institution's own records.

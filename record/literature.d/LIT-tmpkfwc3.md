@@ -22,7 +22,7 @@ keywords:
 - 'welfare state'
 implementations: []
 summary: >-
-  Robert E. Goodin (1985). Vulnerabilities and Responsibilities: An Ethical Defense of the Welfare State. American Political Science Review 79(3), 775–787. DOI-10.2307/1956843. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. The article form of the supposition of CLAIM-tmpwn3wr.
+  Robert E. Goodin (1985). Vulnerabilities and Responsibilities: An Ethical Defense of the Welfare State. American Political Science Review 79(3), 775–787. DOI-10.2307/1956843. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. The article form of the supposition of [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md).
 ---
 <!-- inactive-ok-file: LIT-tmpgqxcj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
@@ -33,8 +33,8 @@ Robert E. Goodin (1985). Vulnerabilities and Responsibilities: An Ethical Defens
 
 ## Key takeaways
 
-*Not read; as A describes it.* A12 names it beside the book (LIT-tmpgqxcj) as the article form of the vulnerability account ("1985 article, published online in 2014"). Unverified until read.
+*Not read; as A describes it.* A12 names it beside the book ([LIT-tmpgqxcj](LIT-tmpgqxcj.md)) as the article form of the vulnerability account ("1985 article, published online in 2014"). Unverified until read.
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. The article form of the supposition of CLAIM-tmpwn3wr.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A12. The article form of the supposition of [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md).

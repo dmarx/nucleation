@@ -22,7 +22,7 @@ keywords:
 - 'coupling configurations'
 implementations: []
 summary: >-
-  Jelani Ince, Callie Cleckner and Tim Hallett (2025). Extending the Bridge: Racialized Organizations, Inhabited Institutionalism, and Racialization. Sociology of Race and Ethnicity 12(2), 275–291. DOI-10.1177/23326492251349230. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. A9 proposes it for how a hierarchy is maintained by distributed interactions under turnover, which the record asks of collectives in QUESTION-118 and CLAIM-329.
+  Jelani Ince, Callie Cleckner and Tim Hallett (2025). Extending the Bridge: Racialized Organizations, Inhabited Institutionalism, and Racialization. Sociology of Race and Ethnicity 12(2), 275–291. DOI-10.1177/23326492251349230. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. A9 proposes it for how a hierarchy is maintained by distributed interactions under turnover, which the record asks of collectives in [QUESTION-118](../questions.d/QUESTION-118.md) and [CLAIM-329](../claims.d/CLAIM-329.md).
 ---
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited as on the record -->
 
@@ -36,4 +36,4 @@ Jelani Ince, Callie Cleckner and Tim Hallett (2025). Extending the Bridge: Racia
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. A9 proposes it for how a hierarchy is maintained by distributed interactions under turnover, which the record asks of collectives in QUESTION-118 and CLAIM-329.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. A9 proposes it for how a hierarchy is maintained by distributed interactions under turnover, which the record asks of collectives in [QUESTION-118](../questions.d/QUESTION-118.md) and [CLAIM-329](../claims.d/CLAIM-329.md).

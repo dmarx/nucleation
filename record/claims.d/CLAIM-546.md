@@ -123,7 +123,7 @@ whether they cooperate. It settles whether either can exclude the other.
 
 A6 §2 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately ("Stable coexistence does not
 imply cooperation") and applied it to the public theatres of colonial
-Saint-Domingue, which now illustrate it (CASE-tmpwmg3h): "The resulting
+Saint-Domingue, which now illustrate it ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)): "The resulting
 system might be artistically productive and organizationally stable. But
 none of that establishes that the terms of participation were fair."
 
@@ -137,5 +137,5 @@ another's labor, resources, or standing") and domination ("One party
 holds power over the conditions under which another can act, contest, or
 renegotiate the relationship"). The table is A's and is kept here, not
 filed as terms: exploitation and domination, so defined, need a standard
-the record does not supply (CLAIM-363, QUESTION-129). No status
+the record does not supply ([CLAIM-363](CLAIM-363.md), [QUESTION-129](../questions.d/QUESTION-129.md)). No status
 changes.

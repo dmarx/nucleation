@@ -22,7 +22,7 @@ keywords:
 - 'postcolonial theory'
 implementations: []
 summary: >-
-  Peter Mondelli (2016). Review of From Plantation to Paradise? by David M. Powers. Early American Literature 51(1), 184–188. DOI-10.1353/eal.2016.0016. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3. The review A3 recommends reading first, for the theoretical strengths and omissions of LIT-tmpepraj.
+  Peter Mondelli (2016). Review of From Plantation to Paradise? by David M. Powers. Early American Literature 51(1), 184–188. DOI-10.1353/eal.2016.0016. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A3. The review A3 recommends reading first, for the theoretical strengths and omissions of [LIT-tmpepraj](LIT-tmpepraj.md).
 ---
 <!-- inactive-ok-file: LIT-tmpepraj — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 
@@ -36,4 +36,4 @@ Peter Mondelli (2016). Review of *From Plantation to Paradise?* by David M. Powe
 
 ## Standing in the record
 
-Registered from the exchange "About Plantation Paradise" (2026-11-12), A3. The review A3 recommends reading first, for the theoretical strengths and omissions of LIT-tmpepraj.
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A3. The review A3 recommends reading first, for the theoretical strengths and omissions of [LIT-tmpepraj](LIT-tmpepraj.md).

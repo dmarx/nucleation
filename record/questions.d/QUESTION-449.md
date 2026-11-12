@@ -146,7 +146,7 @@ A's construction; the question stays Open.
 ## Note of 2026-11-12: the exchange "About Plantation Paradise"
 
 A6 §5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this question accurately and offered the colonial
-theatre of Saint-Domingue (CASE-tmpwmg3h) as a case for it: the racial
+theatre of Saint-Domingue ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)) as a case for it: the racial
 classifications that kept Black contributors' claims from standing may
 have been maintained "principally by colonial law and state authorities,
 rather than by theatrical organizations themselves. That would change
