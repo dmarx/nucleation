@@ -37,6 +37,7 @@ summary: >-
 bears_on:
 - QUESTION-007
 ---
+<!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-007 — Deferred; set aside, and cited to say what was set aside with it -->
 
 # CLAIM-104: Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level
@@ -56,3 +57,14 @@ turn conceded that "the first does not logically entail the second"; A271
 then re-mapped authenticity to the "inward" direction and left "downward" to
 concordance, without noting the change. Resting this on [CLAIM-016](CLAIM-016.md) is
 what would have made the dependency, and its retraction, mechanical.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+The owner's U5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) asked for work on "the nature of obligations a
+whole might have towards its constituent parts". That is this claim's
+downward direction, asked about for any whole and without the
+authenticity line's ownership criteria. It is filed as the owner's
+question QUESTION-tmp9bbpk, on the organizational-normativity line,
+whose body cites this claim and SYNTHESIS-023's finding that the content
+of the downward norm is unstated. Filing it does not reopen the
+authenticity line. No status changes.

@@ -82,6 +82,7 @@ summary: >-
   label and [CLAIM-464](CLAIM-464.md)'s pre-emptive intervention. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpjm1op — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-118 CLAIM-614 — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: LIT-1311 — Proposed or Unavailable; cited with their standing -->
@@ -174,3 +175,20 @@ problem was solved, and "The stronger test involves independent evidence of
 the original problem and interventions on the channels through which
 objections become effective." [CLAIM-662](CLAIM-662.md), filed from the same exchange,
 is a passive companion. No status change.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A9 §3 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) restated this claim's sequence accurately (a challenge
+recategorized as disruption, the capacity for future challenge reduced,
+fewer complaints read as successful governance) and proposed Ahmed's
+*Complaint!* (LIT-tmpjm1op, unread) as its empirical interlocutor. A's
+methodological point: a complaint is "also a **probe of the institution's
+capacity to recognize, transmit, and act upon challenges to its
+conduct**", and the outcomes to tell apart are "complaints that are
+acknowledged, complaints that influence decisions, and complaints that
+alter the institution's future capacity to respond", which A maps to
+CLAIM-523's legibility, volitional efficacy and correctability. This
+claim's test, whether a credible challenge causally lowers the chance of
+effective future challenge against a control, is the intervention form
+of that method; Ahmed's accounts are where A expects the material. No
+status changes.

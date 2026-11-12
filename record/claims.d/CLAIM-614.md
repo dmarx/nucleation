@@ -95,6 +95,10 @@ summary: >-
   answers are [CLAIM-624](CLAIM-624.md) and [CLAIM-619](CLAIM-619.md), which are A's and not
   the owner's.
 ---
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
+<!-- inactive-ok-file: CLAIM-657 — Proposed; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: QUESTION-tmpojwyk — filed from the exchange of 2026-11-12, Open -->
+<!-- inactive-ok-file: LIT-tmph9tz9 — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form, credited as on the record -->
 <!-- inactive-ok-file: CLAIM-620 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the synthesis this complements and A's answers -->
 
@@ -186,3 +190,32 @@ owner's call.
   admissible.
 - That the organization is an agent, or that each member is culpable
   ([CLAIM-418](CLAIM-418.md)).
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim and CLAIM-624 accurately, quoting
+CLAIM-624's five conditions, and read the colonial theatre against them
+(CASE-tmpwmg3h): proving the stronger claim "would require more than
+documenting segregated seating or racist dramatic representation", and
+the mechanisms may have been kept "principally by colonial law and state
+authorities, rather than by theatrical organizations themselves", which
+is QUESTION-449's question.
+
+A9 §7, after Kincaid and Stalion's review of the gaslighting literature
+(LIT-tmph9tz9, unread), proposed a boundary test: "whether
+organizational counter-normativity identifies a genuinely different
+mechanism: the reproduction of conditions that obstruct justified
+normative constraints, potentially without strategic manipulation or any
+single actor intending the obstruction." The record already asks the
+same of manipulation by an organized whole (QUESTION-070), and CLAIM-657
+says its two routes need no deliberate suppression. Not filed
+separately.
+
+A9 §9's candidate thesis applies this claim to parties an organization
+depends on: "An organization can reproduce an asymmetric dependency by
+maintaining relationships in which subordinated participants'
+contributions remain necessary to its functioning, while the
+participants' claims concerning those contributions remain ineffective
+in governing or transforming the organization." It is audited in the
+curation entry of 2026-11-12; its open part is QUESTION-tmpojwyk. No
+status changes.
