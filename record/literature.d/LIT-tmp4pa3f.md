@@ -1,14 +1,30 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where A cited it at A31 (§2). The earlier registration of this exchange's works (record/curation.d/2026/11/10/182452.md) did not include it. No reading was attempted; a lawful copy has not been sought.
+  Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Elsevier's
+  copy (https://doi.org/10.1016/0004-3702(85)90063-3) is paywalled and
+  OpenAlex and Semantic Scholar list it as closed; aitopics.org holds scans
+  of other Stanford reports by Hayes-Roth and Nii, and the item said to be a
+  1985 BB1 report returned 404; O'Reilly offers only a preview of a
+  commercial reprint, not used; a search hit at
+  core.ac.uk/download/235074512.pdf, contents unknown, returned a Cloudflare
+  challenge and was not retried. Johnson and Hayes-Roth's AAAI-87 paper on
+  BB1 (LIT-tmp1ur4j) was read in its place.
 title: 'A blackboard architecture for control'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read. Identifier checked on 2026-11-12 with Crossref, and confirmed not held by DOI or arXiv id, exact title and first author in record/literature.d. `published:`: Crossref gives the month only. No email address was sent to any service.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12. Unavailable. Barbara Hayes-Roth, sole author;
+    Artificial Intelligence 26(3):251–321. A's description (A31) of the
+    blackboard as holding shared structured hypotheses fits the domain
+    blackboard; BB1's control blackboard, the paper's subject, holds a control
+    plan.
 tags:
 - cognition
 - agency
@@ -19,7 +35,12 @@ first_author: 'Hayes-Roth'
 keywords: []
 implementations: []
 summary: >-
-  Barbara Hayes-Roth (1985), Artificial Intelligence, DOI 10.1016/0004-3702(85)90063-3. Here because A cited it in the exchange "luria experiment design" at A31 (§2), for control of a blackboard system by a blackboard of its own, a precedent for coordination through shared structured hypotheses. It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md). What A says of it is unverified until read.
+  Barbara Hayes-Roth (1985), A blackboard architecture for control,
+  Artificial Intelligence 26(3):251–321, DOI 10.1016/0004-3702(85)90063-3. A
+  blackboard control architecture in which a control blackboard holds the
+  system's plan for its own problem solving beside the domain blackboard.
+  Unavailable; Johnson and Hayes-Roth's AAAI-87 paper (LIT-tmp1ur4j) was
+  read in its place.
 ---
 
 # LIT-tmp4pa3f: A blackboard architecture for control
@@ -32,4 +53,8 @@ Barbara Hayes-Roth (1985), Artificial Intelligence. DOI 10.1016/0004-3702(85)900
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on [QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md).
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A31 (§2). It bears on QUESTION-tmpxq2sb.
+
+## Reading of 2026-11-12
+
+Unavailable on 2026-11-12 (ADR-041): no lawful full text found. Elsevier's copy (https://doi.org/10.1016/0004-3702(85)90063-3) is paywalled and OpenAlex and Semantic Scholar list it as closed; aitopics.org holds scans of other Stanford reports by Hayes-Roth and Nii, and the item said to be a 1985 BB1 report returned 404; O'Reilly offers only a preview of a commercial reprint, not used; a search hit at core.ac.uk/download/235074512.pdf, contents unknown, returned a Cloudflare challenge and was not retried. Johnson and Hayes-Roth's AAAI-87 paper on BB1 (LIT-tmp1ur4j) was read in its place. Johnson and Hayes-Roth's AAAI-87 paper, LIT-tmp1ur4j, was read in its place.

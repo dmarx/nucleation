@@ -1,26 +1,51 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where A cited it at A50 (§10, as "A review of STAMP and its associated methods"). The earlier registration of this exchange's works (record/curation.d/2026/11/10/182452.md) did not include it. No reading was attempted; a lawful copy has not been sought.
+  Read on 2026-11-12 (NOTE-tmpcptrm) from
+  https://eprints.qut.edu.au/226401/1/Past_and_present_of_STAMP_accepted_manuscript.pdf.
 title: 'The past and present of System-Theoretic Accident Model And Processes (STAMP) and its associated techniques: A scoping review'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read. Identifier checked on 2026-11-12 with Crossref search from A's description, and confirmed not held by DOI or arXiv id, exact title and first author in record/literature.d. `published:`: Crossref gives the month only. A gave no title; this is the review its description matches. No email address was sent to any service.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 (NOTE-tmpcptrm; THEORY-tmpucfiy). Read from the
+    accepted manuscript on QUT ePrints (CC BY-NC-ND 4.0). `published:`
+    corrected from 2022-02-01, the issue month, to 2021-11-09, the online date
+    OpenAlex gives (ADR-002). It is a scoping, largely bibliometric review of
+    the STAMP literature, not a statement of STAMP's causal thesis, which A's
+    description (A50) implied; for that, LIT-1613 is nearer.
 tags:
 - control-theory
 - complex-systems
 date: '2026-11-12'
-published: '2022-02-01'
+published: '2021-11-09'
 doi: '10.1016/j.ssci.2021.105566'
 first_author: 'Patriarca'
 keywords: []
 implementations: []
 summary: >-
-  Riccardo Patriarca et al. (2022), Safety Science, DOI 10.1016/j.ssci.2021.105566. Here because A cited it in the exchange "luria experiment design" at A50 (§10, as "A review of STAMP and its associated methods"), for failures that arise from control structure, feedback and constraints among locally functioning components. It bears on [CLAIM-346](../claims.d/CLAIM-346.md) and [CLAIM-523](../claims.d/CLAIM-523.md). What A says of it is unverified until read.
+  Patriarca, Chatzimichailidou, Karanikas and Di Gravio (2022), The past and
+  present of System-Theoretic Accident Model And Processes (STAMP) and its
+  associated techniques: A scoping review. This is a PRISMA-style scoping
+  review of 321 academic publications (2003 to 1 July 2020) on: - STAMP,
+  Leveson's systems-theoretic accident causality model, built on a
+  hierarchical safety control structure; - STPA, the hazard analysis
+  technique; - CAST, the accident analysis technique. It reports
+  bibliometrics, domains, system types, and how completely publications
+  report each analytical step. It also covers modifications and extensions,
+  which nearly half the papers propose, and software use. Its main findings
+  are descriptive: - Control structures are almost always presented. -
+  Process models and safety constraints are often omitted. - Validation of
+  applications is rarely reported. - Industry involvement is low. - STPA
+  dominates. Read for the exchange "luria experiment design".
 ---
+<!-- inactive-ok-file: THEORY-tmpucfiy — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: LIT-1613 — Unfetched; cited for what each holds, not as settled -->
 
 # LIT-tmp54rbu: The past and present of System-Theoretic Accident Model And Processes (STAMP) and its associated techniques: A scoping review
 
@@ -32,4 +57,8 @@ Riccardo Patriarca et al. (2022), Safety Science. DOI 10.1016/j.ssci.2021.105566
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§10, as "A review of STAMP and its associated methods"). It bears on [CLAIM-346](../claims.d/CLAIM-346.md) and [CLAIM-523](../claims.d/CLAIM-523.md).
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A50 (§10, as "A review of STAMP and its associated methods"). It bears on CLAIM-346 and CLAIM-523.
+
+## Reading of 2026-11-12
+
+Read in NOTE-tmpcptrm, from https://eprints.qut.edu.au/226401/1/Past_and_present_of_STAMP_accepted_manuscript.pdf; its account is THEORY-tmpucfiy.

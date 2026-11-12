@@ -1,0 +1,82 @@
+---
+status: Read
+paper: LIT-tmp54rbu
+title: 'Patriarca, Chatzimichailidou, Karanikas and Di Gravio — The past and present of System-Theoretic Accident Model And Processes (STAMP) and its associated techniques: A scoping review'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from
+    https://eprints.qut.edu.au/226401/1/Past_and_present_of_STAMP_accepted_manuscript.pdf.
+    **Read** on 2026-11-12, from the accepted manuscript. The reader read the
+    main text in full and skipped the appendices. A delegated reader drafted
+    the reading; quotations were rechecked by script against the downloaded
+    copy, and any that did not match were kept as paraphrase without quotation
+    marks.
+date: '2026-11-12'
+summary: >-
+  This is a PRISMA-style scoping review of 321 academic publications (2003
+  to 1 July 2020) on: - STAMP, Leveson's systems-theoretic accident
+  causality model, built on a hierarchical safety control structure; - STPA,
+  the hazard analysis technique; - CAST, the accident analysis technique. It
+  reports bibliometrics, domains, system types, and how completely
+  publications report each analytical step. It also covers modifications and
+  extensions, which nearly half the papers propose, and software use.
+---
+<!-- inactive-ok-file: LIT-1613 — Unfetched; cited for what each holds, not as settled -->
+
+# NOTE-tmpcptrm: Patriarca, Chatzimichailidou, Karanikas and Di Gravio — The past and present of System-Theoretic Accident Model And Processes (STAMP) and its associated techniques: A scoping review
+
+## Contribution
+
+The first published scoping review of STAMP/STPA/CAST. It is a map of a literature, not a theoretical contribution.
+
+## Key results
+
+- **Abstract:** "Through a systematic analysis of 321 eligible documents".
+- **§1:** "Control theory approaches systems as collections of interrelated components kept in a state of dynamic equilibrium by feedback loops of information and control" (citing Leveson 1995).
+- **§1.1, on Leveson 2004:** "It suggested a focus on imposing the constraints necessary to limit system behaviour to safe changes and adaptations."
+- **§1.1:** "the emphasis should be extended to interactions of system elements in addition to individual behaviours as the latter alone cannot guarantee safety".
+- **§3.5:** most papers' methodology "did not mention any validation of the STAMP/STPA/CAST application or the results obtained (97% and 91%, correspondingly)".
+- **§3.6:** "Almost half of the publications (49%) proposed changes or extensions to the original approaches."
+
+## Assumptions
+
+- The corpus is limited to academic journals and conference proceedings; industry reports are excluded.
+- Completeness is coded against Leveson's (2011) steps.
+
+## Concepts
+
+- STAMP and the hierarchical safety control structure
+- controllers, actuators, sensors and the controlled process
+- process model
+- unsafe control actions
+- safety constraints, at the levels of system, controller and scenario
+- STPA, CAST, STPA-Sec
+- scoping review and PRISMA
+
+## Bearing on the record
+
+A cites the paper for failures that arise from control structure, feedback and constraints among locally functioning components. That is STAMP's own thesis, which this review restates in its introduction (§1 and §1.1, citing Leveson 2004 and 2011). The review's own contribution is bibliometric.
+
+So the citation is apt only as a pointer to the STAMP literature. For the thesis itself, Leveson 2004 or 2011 is the better citation; the record holds LIT-1613 for Leveson 2011. The phrase "locally functioning components" is A's gloss and does not appear in the review. The review's own words are "interactions of system elements in addition to individual behaviours".
+
+**CLAIM-346** (feasibility, aggregation and epistemic coordination as independent obstructions). **Leaves open.**
+- The review offers no construction or argument about independence of obstructions.
+- STAMP's control-structure view loosely resembles CLAIM-346's feasibility arm and its coordination arm (inadequate feedback and process models), but the review does not separate them.
+
+**CLAIM-523** (legibility, volitional efficacy and correctability as separable achievements). **Leaves open, with a faint parallel.**
+- STAMP's elements map loosely onto the three achievements:
+  - sensors and feedback onto legibility;
+  - controllers and control actions onto efficacy;
+  - constraint enforcement and adaptation onto correctability.
+- The review neither draws nor tests that mapping.
+- Its finding that applications seldom report safety constraints or validation is about analytic practice, not about organizations.
+
+## Limitations
+
+- Bibliometric and descriptive only.
+- Limited to academic literature up to mid-2020.
+- Completeness coding is the authors' own.
+- Read from the accepted manuscript, not the version of record.

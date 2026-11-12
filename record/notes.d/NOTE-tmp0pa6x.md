@@ -1,0 +1,75 @@
+---
+status: Read
+paper: LIT-tmp2p7d1
+title: 'Apostolou, Stojanović, Pariente Lobo, Casas Miró and Papadakis — Configuring E-Government Services Using Ontologies'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from
+    https://link.springer.com/content/pdf/10.1007/0-387-29773-1_10.pdf.
+    **Read**, 2026-11-12. Stands in, only partly, for the unread LIT-tmp4ivms.
+    A delegated reader drafted the reading; quotations were rechecked by
+    script against the downloaded copy, and any that did not match were kept
+    as paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  The paper presents OntoGov (IST-2002-507237), an ontology platform for
+  configuring and reconfiguring e-government services consistently when law
+  or organization changes. The **Ontology Management System** has four
+  parts: - **Service Modeller** - **KAON2 OI-Modeller** - **Service
+  Registry** - **Service API**, which detects inconsistencies automatically
+  and assists in resolving them. The **Service Configuration System** turns
+  the resulting service model into deployed web-service orchestrations.
+---
+<!-- inactive-ok-file: LIT-tmp4ivms — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+
+# NOTE-tmp0pa6x: Apostolou, Stojanović, Pariente Lobo, Casas Miró and Papadakis — Configuring E-Government Services Using Ontologies
+
+## Contribution
+
+The paper describes an ontology-based architecture that couples service models to their legal and organizational sources. The same ontology framework carries both inconsistency detection and a recorded rationale for changes.
+
+## Key results
+
+- **§3, on the Service API:** it "provides capabilities for the automatic identification of problems (i.e, inconsistencies) in the description of the eGovernment services".
+- **§4:** the meta-ontologies "do not change from one deployment to another".
+- **§4, on the Lifecycle Ontology:** it comprises "instances of all (design) decisions relevant for the new service". It "is defined to help the domain expert introduce the changes in the service description and to document the reasons for these changes".
+- **§4:** ontologies are used "for modelling dependencies between decisions of the different stakeholders (e.g, politicians, public managers and software developers)".
+
+## Assumptions
+
+- Legal and organizational change propagates to services through explicit ontology links.
+- The meta-ontologies are stable.
+- Domain experts model services in a graphical tool.
+
+## Concepts
+
+- OntoGov
+- Ontology Management System and Service Configuration System
+- meta-ontology cluster
+- Lifecycle Ontology (design decisions and their reasons)
+- consistency checking under change
+- service reconfiguration
+
+## Bearing on the record
+
+**Restates:**
+- the pairing of consistency maintenance under change with recorded design rationale;
+- the platform the 2011 paper builds on.
+
+**Does not restate:**
+- the 2011 paper's collaborative decision framework;
+- its formal consistency methods;
+- its three case-study evaluation;
+- its propositions for practitioners and policy.
+
+This paper is a precedent for coupling recorded decisions, with their reasons, to automated consistency checks in an ontology system. It qualifies any claim that such coupling is new.
+
+It differs from luria on one point: the governed objects are service models, and the meta-ontologies are fixed. So the grammar itself is not under governed evolution here.
+
+## Limitations
+
+- This is a project and architecture paper with an illustrative scenario. It contains no evaluation.
+- The OCR is poor; check quotes against the page image.
