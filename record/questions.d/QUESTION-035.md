@@ -109,3 +109,10 @@ one marked subset does the offspring's tolerogenic work while the rest
 merely persist ([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md), [THEORY-tmp4rc81](../theory.d/THEORY-tmp4rc81.md)). The owner's
 [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md) bears on it. A11 §2's four boundaries, genetic, anatomical,
 functional and immunological, are the targets.
+
+## Note of 2026-11-12: Geddes (2022), read
+
+From the reading in NOTE-tmp3x5kl (LIT-tmpw9l03), the reader's assessment as
+checked by the filer: Geddes is directly on the boundary question and gives
+the condition that tests of "one system" (organismality) do not settle
+part–whole relations between the systems inside it. Leaves it open.

@@ -1,10 +1,22 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each: SSRN working paper
+  `https://doi.org/10.2139/ssrn.4311562` →
+  `https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311562` (the green
+  OA location OpenAlex lists) — Cloudflare "Just a moment..." challenge
+  (HTTP 403), 2026-11-12; stopped.; INFORMS
+  `https://doi.org/10.1287/mnsc.2022.03655` — paywalled; not attempted..
 title: 'Digital Content Creation: An Analysis of the Impact of Recommendation Systems'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-

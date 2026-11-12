@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. No reading was attempted.
+status: Active
 title: 'Doughnut of social and planetary boundaries monitors a world out of balance'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmproi9j; account THEORY-tmp74oc5. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -20,8 +23,19 @@ first_author: 'Fanning'
 keywords: []
 implementations: []
 summary: >-
-  Fanning and Raworth (2025), DOI-10.1038/s41586-025-09385-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §5. It bears on [CLAIM-347](../claims.d/CLAIM-347.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it tracks 35 indicators of social shortfall and ecological overshoot from 2000 to 2022, finding inequalities hidden by global aggregates.
+  Fanning and Raworth (2025), DOI-10.1038/s41586-025-09385-1. Read on
+  2026-11-12 in NOTE-tmproi9j: A third iteration of the Doughnut: 21
+  dimensions measured by 35 indicators (social foundation and ecological
+  ceiling), with time series 2000–2022 for 30 of them, plus a 2017
+  disaggregation of 27 comparable indicators into three country clusters by
+  income (poorest 40%, middle 40%, richest 20% of countries). Globally,
+  deprivation fell modestly while ecological overshoot rose; disaggregated,
+  the richest cluster contributes a disproportionate share of overshoot and
+  the poorest holds most shortfall. Its account is THEORY-tmp74oc5.
+  Registered from the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11), where A cited it at A42 §5.
 ---
+<!-- inactive-ok-file: THEORY-tmp74oc5 — Proposed; filed from the same exchange -->
 
 # LIT-tmpvzqif: Doughnut of social and planetary boundaries monitors a world out of balance
 
@@ -29,8 +43,14 @@ Andrew L. Fanning and Kate Raworth (2025). "Doughnut of social and planetary bou
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it tracks 35 indicators of social shortfall and ecological overshoot from 2000 to 2022, finding inequalities hidden by global aggregates.
+Read on 2026-11-12 (NOTE-tmproi9j). An updated, time-series dashboard of
+social shortfall and ecological overshoot, each indicator judged against its
+own threshold, with a cross-scale comparable disaggregation by country
+cluster.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. It bears on [CLAIM-347](../claims.d/CLAIM-347.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).
+
+Read on 2026-11-12; the reading is NOTE-tmproi9j and its account
+THEORY-tmp74oc5.

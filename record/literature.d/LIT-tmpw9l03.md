@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. No reading was attempted.
+status: Active
 title: 'Pregnancy, Parthood and Proper Overlap: A Critique of Kingma'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp3x5kl; account THEORY-tmpc1lto. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,15 @@ first_author: 'Geddes'
 keywords: []
 implementations: []
 summary: >-
-  Geddes (2022), DOI-10.1093/pq/pqac044. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md). In A's account, which is unverified until read, it argues against Kingma that pregnancy need not be containment or parthood: two organisms can properly overlap.
+  Geddes (2022), DOI-10.1093/pq/pqac044. Read on 2026-11-12 in
+  NOTE-tmp3x5kl: Kingma argued that the foster is part of the gravida,
+  defending this against a "containment" view. Geddes shows that she treats
+  rejection of parthood as acceptance of disjointness, so overlooking proper
+  overlap (sharing some but not all parts). Its account is THEORY-tmpc1lto.
+  Registered from the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11), where A cited it at A13 §1.
 ---
+<!-- inactive-ok-file: THEORY-tmpc1lto — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 
 # LIT-tmpw9l03: Pregnancy, Parthood and Proper Overlap: A Critique of Kingma
@@ -29,8 +39,14 @@ Alexander Geddes (2022). "Pregnancy, Parthood and Proper Overlap: A Critique of 
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it argues against Kingma that pregnancy need not be containment or parthood: two organisms can properly overlap.
+Read on 2026-11-12 (NOTE-tmp3x5kl). A mereological correction: four
+possibilities (parthood either way, proper overlap, disjointness) must all
+be addressed; criteria for organismality or co-parthood are not criteria for
+one organism's being part of another.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md).
+
+Read on 2026-11-12; the reading is NOTE-tmp3x5kl and its account
+THEORY-tmpc1lto.

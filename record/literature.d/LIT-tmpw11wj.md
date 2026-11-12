@@ -1,10 +1,29 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §10. No reading was attempted.
-title: 'Metrics at Work'
-version: 1
+  Reading attempted on 2026-11-12; nothing of the work was read. Where the
+  reader looked: OpenAlex: closed; only the Princeton Scholarship Online DOI
+  `https://doi.org/10.23943/princeton/9780691175232.001.0001` (paywalled).
+  No repository copy.; Neighbour located, not read: Christin, "Algorithms in
+  practice: Comparing web journalism and criminal justice", *Big Data &
+  Society* (2017), doi 10.1177/2053951717718855, gold OA (CC BY-NC-ND),
+  `https://journals.sagepub.com/doi/pdf/10.1177/2053951717718855` —
+  Cloudflare challenge (HTTP 403), 2026-11-12; DOAJ lists it but hosts no
+  file. Also "Counting Clicks" (AJS 2018, doi 10.1086/696137) — closed.;
+  Searches for further neighbours stopped when OpenAlex and Semantic Scholar
+  returned HTTP 429..
+title: 'Metrics at Work: Journalism and the Contested Meaning of Algorithms'
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). No lawful full text was found
+    (ADR-041); an abstract, where seen, is not a reading. The reader
+    corrected the type and title: a single-author monograph by Angèle
+    Christin, not an edited book (Crossref types the Princeton Scholarship
+    Online record as an edited book), with the full title above.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -22,9 +41,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
-# LIT-tmpw11wj: Metrics at Work
+# LIT-tmpw11wj: Metrics at Work: Journalism and the Contested Meaning of Algorithms
 
-Angele Christin (2020). "Metrics at Work." *Princeton University Press*. DOI-10.23943/princeton/9780691175232.001.0001.
+Angèle Christin (2020). "Metrics at Work: Journalism and the Contested Meaning of Algorithms." Princeton University Press, monograph. DOI-10.23943/princeton/9780691175232.001.0001.
 
 ## Key takeaways
 

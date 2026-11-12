@@ -154,3 +154,15 @@ from immunology ([LIT-tmptsxgp](../literature.d/LIT-tmptsxgp.md), [LIT-tmph5uj8]
 ([LIT-tmpw9l03](../literature.d/LIT-tmpw9l03.md)), Hershenov against parthood ([LIT-tmp63w88](../literature.d/LIT-tmp63w88.md)) and Finn's split
 between when an organism begins and how it relates to the gestating one
 ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)). No status change.
+
+## Note of 2026-11-12: Geddes (2022), read
+
+From the reading in NOTE-tmp3x5kl (LIT-tmpw9l03), the reader's assessment as
+checked by the filer: **qualifies**. Meincke adopts Kingma's four criteria
+and keeps parthood; Geddes argues those criteria do not support parthood
+over proper overlap, which removes a premise Meincke treats as conceded. It
+is also a third option her dichotomy (parthood under substance or process
+ontology) does not consider, though it does not touch her internal critique
+of substance ontology. THEORY-448's `promote_when` already says the four
+criteria only bear on mere containment; Geddes supports that remark and
+sharpens it.

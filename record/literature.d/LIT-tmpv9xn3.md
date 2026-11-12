@@ -1,10 +1,23 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each: ACM Digital Library
+  `https://dl.acm.org/doi/pdf/10.1145/3805689.3812417` (published version;
+  OpenAlex and Semantic Scholar list it OA, CC BY) — Cloudflare "Just a
+  moment..." challenge (HTTP 403), 2026-11-12; stopped.; No arXiv or HAL
+  copy found (arXiv title and author searches; HAL API search by title and
+  authors returned none).. A neighbour was read in its place: LIT-tmpx81t4,
+  which stands in only in part (see "Standing in the record").
 title: 'Beyond Base Metric: The Critical and Overlooked Role of Meta-Metrics in Intersectional Fairness'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -33,3 +46,9 @@ Jeanne Monnier, Thomas George, Frédéric Guyard, Christèle Tarnec and Marios K
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), [QUESTION-129](../questions.d/QUESTION-129.md).
+
+Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpx81t4. The
+reader on how far it stands in: MIFair (arXiv:2604.28030; same five authors)
+stands in only slightly: one experiment shows two aggregate criteria ranking
+methods differently, and it cites this paper for the general point. It does
+not carry the taxonomy or the guidelines.

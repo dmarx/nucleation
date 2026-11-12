@@ -78,3 +78,13 @@ that a 2026 Mendelian-randomization study found no causal link between
 susceptibility to Toxoplasma and human psychiatric outcomes or risk-taking.
 The rodent results do not carry over to people. The host-defence contrast
 is in [LIT-tmpawef9](../literature.d/LIT-tmpawef9.md).
+
+## Note of 2026-11-12: van Roosmalen & de Bekker (2024), read
+
+From the reading in NOTE-tmphvgm2 (LIT-tmpwxxvn), the reader's assessment as
+checked by the filer: **supports and refines** A19's report. The review
+confirms that the ant's nervous tissue stays intact while head muscle
+degrades, and adds that the fungus may protect the brain; the route is
+effectors and clock disruption acting on the host's own machinery. It also
+supports the case's "what is held fixed" (execution by the host) and adds a
+further route the case does not name: timing (the host clock).

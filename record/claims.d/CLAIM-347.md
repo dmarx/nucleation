@@ -406,3 +406,14 @@ triangle (note there). A42 §8 turns the specification into a question, filed
 as [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), and [CLAIM-tmpvceet](CLAIM-tmpvceet.md) derives from this claim's downward
 closure that recognizing more demands can only lower a score taken against
 the recognized set. No status change.
+
+## Note of 2026-11-12: Fanning & Raworth (2025), read
+
+From the reading in NOTE-tmproi9j (LIT-tmpvzqif), the reader's assessment as
+checked by the filer: **supports, as an illustration from outside**. The
+Doughnut judges each demand against its own acceptance threshold and
+declines a common scale between the social and ecological domains ("no
+directly traceable link"). It **qualifies** the claim's spirit in one
+respect: the paper still summarises across indicators with medians and
+interquartile ranges, a cross-indicator aggregate that the claim would treat
+as a declared measure, not as frustration itself.

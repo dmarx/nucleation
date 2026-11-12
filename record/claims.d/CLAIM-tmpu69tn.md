@@ -41,6 +41,7 @@ summary: >-
   boundary of the individual" and "the boundary of its governance" need
   not coincide. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmptfr59 NOTE-tmpwjlut — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
@@ -108,3 +109,25 @@ From the reading in [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md) ([LIT-tmplfdsz]
 checked by the filer: supports the use of aDBS as an "outside, authorized"
 influence whose operation may be unperceived; it says nothing on alignment
 beyond safety concerns.
+
+## Note of 2026-11-12: UNESCO General Conference (2025), read
+
+From the reading in NOTE-tmpwjlut (LIT-tmpxuh7j), the reader's assessment as
+checked by the filer: **bears on it, partly supports**. The Recommendation
+does not treat external origin as disqualifying (it endorses medical
+closed-loop stimulation) and makes legitimacy turn on consent and on "undue
+influence or manipulation" — an authorization criterion, which the claim's
+"What it does not say" leaves as a question. It thus supplies one
+institutional answer to that question without arguing it. It does not
+separate alignment from authorization.
+
+## Note of 2026-11-12: Brenninger, Zug & Kokko (2025), read
+
+From the reading in NOTE-tmptfr59 (LIT-tmpzogx3), the reader's assessment as
+checked by the filer: **supports A21's use** of Wolbachia: the manipulation
+acts on which offspring are produced or survive, not on the host's choices.
+It also supplies two cases the claim's table lacks, from the review's §IX:
+foreign-origin material that has become part of the host's own sex
+determination (Armadillidium), and a host that now depends on the symbiont
+for female development (Eurema). In these, origin outside, integration as
+host machinery and mixed alignment come apart, which fits the claim.

@@ -1,10 +1,24 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §2 and A31 §1. No reading was attempted.
+  Reading attempted on 2026-11-12; nothing of the work was read. Copies
+  located and what stopped each: KU Leuven Lirias submitted version
+  `https://lirias.kuleuven.be/retrieve/69946bc0-f144-4e1d-b402-8e3fa446950b`
+  (handle 20.500.12942/759158) — connection reset by peer, 2026-11-12; not
+  retried.; ScienceDirect
+  `https://www.sciencedirect.com/science/article/pii/S0167718724000833/pdfft`
+  (published version, OA CC BY per Semantic Scholar) — "Are you a robot?"
+  captcha (HTTP 403), 2026-11-12; stopped.; University of Bristol research
+  portal record (no file attached).; No arXiv preprint found..
 title: 'Personalized content, engagement, and monetization in a mobile puzzle game'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, from the reading pass the owner asked for
+    ("read the works you can reach"). A lawful copy was located at an exact
+    address and not fetched (ADR-053).
 - version: 1
   date: '2026-11-12'
   note: >-

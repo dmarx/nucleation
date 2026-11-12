@@ -51,3 +51,14 @@ the host's own defences and through mere illness (A21 §4).
 - [CLAIM-404](../claims.d/CLAIM-404.md) (an organization governed from outside through the evidence
   and criteria its own procedures use) supplies the shape A19 reads the
   parasites through.
+
+## Note of 2026-11-12: van Roosmalen & de Bekker (2024), read
+
+From the reading in NOTE-tmphvgm2 (LIT-tmpwxxvn), the reader's assessment as
+checked by the filer: **bears on it, leaves it open**. The review's sense of
+"manipulation" is the selected-for sense (adaptive to the parasite),
+separated from sickness behaviour, which matches the question's own
+requirement that serving the parasite is not enough. Its caveats
+(correlative evidence; some adaptive attributions by deduction only) count
+against reading the mechanisms as settled. Nothing in it speaks to
+represented ends.

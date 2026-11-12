@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §5. No reading was attempted.
+status: Active
 title: 'Infection dynamics of endosymbionts that manipulate arthropod reproduction'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmptfr59; account THEORY-tmpah8td. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,19 @@ first_author: 'Brenninger'
 keywords: []
 implementations: []
 summary: >-
-  Brenninger et al. (2025), DOI-10.1111/brv.70024. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §5. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [CLAIM-354](../claims.d/CLAIM-354.md). In A's account, which is unverified until read, it unifies models of endosymbionts such as Wolbachia that manipulate arthropod reproduction.
+  Brenninger et al. (2025), DOI-10.1111/brv.70024. Skimmed on 2026-11-12 in
+  NOTE-tmptfr59: A unified minimal model of the infection dynamics of
+  maternally transmitted endosymbionts (Wolbachia, Rickettsia, Cardinium,
+  Spiroplasma and others) that manipulate arthropod reproduction:
+  male-killing, feminization, parthenogenesis induction, sex-allocation
+  distortion and cytoplasmic incompatibility (CI), in diplodiploid and
+  haplodiploid hosts. It gives invasion criteria for single strains and for
+  pairs of manipulators. Its account is THEORY-tmpah8td. Registered from the
+  exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
+  cited it at A21 §5.
 ---
+<!-- inactive-ok-file: NOTE-tmptfr59 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmpah8td — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # LIT-tmpzogx3: Infection dynamics of endosymbionts that manipulate arthropod reproduction
@@ -29,8 +43,14 @@ Franziska A. Brenninger, Roman Zug and Hanna Kokko (2025). "Infection dynamics o
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it unifies models of endosymbionts such as Wolbachia that manipulate arthropod reproduction.
+Skimmed on 2026-11-12 (NOTE-tmptfr59). One framework (relative fecundity F,
+vertical transmission T, manipulation efficiency β) for all known
+reproductive manipulations, closing gaps where dynamics had not been
+modelled, and contrasting ease of spread with observed incidence.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §5. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [CLAIM-354](../claims.d/CLAIM-354.md).
+
+Skimmed on 2026-11-12; the reading is NOTE-tmptfr59 and its account
+THEORY-tmpah8td.

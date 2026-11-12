@@ -122,6 +122,7 @@ bears_on:
 - QUESTION-100
 - QUESTION-071
 ---
+<!-- inactive-ok-file: LIT-tmpvj6mw — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpifp69 CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmpp1gq8 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
@@ -360,3 +361,8 @@ dependencies" rather than instructions ([CLAIM-tmpifp69](CLAIM-tmpifp69.md)). A2
 temporal point from the X feed experiment ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md), unread): accounts
 followed under the algorithm stayed followed after it was switched off, so
 the evidence channel outlives the steering. No status change.
+
+## Note of 2026-11-12: Neighbour of LIT-tmpvj6mw — Sabour, Liu et al., read
+
+From the reading in NOTE-tmpfoqe6 (LIT-tmpbye08), the reader's assessment as
+checked by the filer: supports (see parent report).

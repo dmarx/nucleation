@@ -1,0 +1,74 @@
+---
+status: Skimmed
+paper: LIT-tmpxuh7j
+title: 'UNESCO General Conference (2025) — Recommendation on the Ethics of Neurotechnology'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Read: the UNESCO Legal Affairs
+    page
+    `https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology`
+    (HTML, about 15,500 words), which carries the full text of the
+    Recommendation; extracted to plain text. - Read: preamble (in part), §I
+    Definitions and scope (paras 1–18), §III.2.1–III.2.3 (beneficence;
+    autonomy and freedom of thought; neural data), §IV.2 Data policy
+    (85–92), §IV.9 Labour (125–131), §IV.10 Consumer and commercial domains
+    (132–140), §IV.11.1 opening (141–144). Skimmed headings only: values
+    III.1, other principles III.2.4–III.2.9, policy areas IV.1, IV.3–IV.8,
+    the rest of IV.11 and the final sections. Outcome as the reader gave it:
+    **Outcome: Skimmed** (2026-11-12).
+date: '2026-11-12'
+summary: >-
+  A human-rights-based instrument covering neurotechnology's whole life
+  cycle, medical and non-medical, and extending to "indirect neural data and
+  non-neural data allowing mental states inferences". Core principles
+  include autonomy (individual and relational) and freedom of thought,
+  protection against manipulation, mental privacy, prior free and informed
+  consent, and specific policy measures for data, employment, consumer
+  products, recommender systems, nudging, sleep marketing, neuromarketing
+  and closed-loop environments.
+---
+<!-- inactive-ok-file: CASE-tmpza0id CLAIM-tmpcv1pg CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
+
+# NOTE-tmpwjlut: UNESCO General Conference (2025) — Recommendation on the Ethics of Neurotechnology
+
+## Contribution
+
+The first global standard-setting instrument on neurotechnology ethics; widens scope from neural data to any data used to infer mental states.
+
+## Key results
+
+- Para 1: the nervous system "includes the central (brain, cerebellum, brainstem and spinal cord) and peripheral (somatic, autonomic and enteric) nervous system."
+- Para 3: "both open-loop (e.g. fixed-parameter brain stimulation) and closed-loop (e.g. state dependent stimulation) systems introduce complex ethical issues".
+- Para 6: indirect data could include "facial emotion recognition systems, or microbiome measurement."
+- Para 44: "autonomy is understood to be both individual and relational."
+- Para 47: "Neurotechnology should never be used to exert undue influence or manipulation".
+- Para 49: processing of such data requires "prior, free and informed consent of the person concerned", except in life-threatening emergencies.
+- Para 140(a): Member States should "explicitly prohibit the use of neural data as well as indirect neural data and non-neural data allowing mental states inferences in recommender systems for manipulative or deceptive purposes".
+- Para 140(e): closed-loop environments: "prohibit real-time behavioural modification or manipulation without prior, free and informed consent."
+
+## Assumptions
+
+International human-rights law as foundation; consent as the main mark of legitimate influence; a medical/non-medical and treatment/enhancement distinction treated as ethically significant.
+
+## Concepts
+
+Neural data; indirect neural data; mental privacy; freedom of thought; relational autonomy; closed-loop systems; manipulation vs persuasion (implicit); whole life cycle.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** Accurate. It could add the extension to non-neural data allowing mental-state inferences and the specific provisions on recommender systems and closed-loop environments.
+
+- **CLAIM-tmpu69tn** (provenance, control, alignment separate): **bears on it, partly supports**. The Recommendation does not treat external origin as disqualifying (it endorses medical closed-loop stimulation) and makes legitimacy turn on consent and on "undue influence or manipulation" — an authorization criterion, which the claim's "What it does not say" leaves as a question. It thus supplies one institutional answer to that question without arguing it. It does not separate alignment from authorization.
+
+- Not held under another LIT ("neurotechnology", "mental privacy" no hits).
+- Further held entries: **CLAIM-166** / **CASE-047** — the Recommendation counts the enteric system as nervous system and microbiome measurement as possible mental-state data, an institutional recognition of the gut route (no evidence of it); **CLAIM-tmpcv1pg**, **CASE-tmpza0id** — para 140 names recommender systems and closed-loop environments as manipulation sites; **CLAIM-404** — para 140(e) is a rule against governing a person through real-time modification of inputs; **LIT-1002** ("Technology, autonomy, and manipulation") — a held neighbour in the manipulation literature.
+
+## Limitations
+
+A normative instrument, not evidence; only parts read closely; non-binding.

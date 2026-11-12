@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. No reading was attempted.
+status: Active
 title: 'Recommendation on the Ethics of Neurotechnology'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12, in NOTE-tmpwjlut; account THEORY-tmpv6d66. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -20,8 +23,21 @@ first_author: 'UNESCO'
 keywords: []
 implementations: []
 summary: >-
-  UNESCO (2025), UNESCO, adopted at the 43rd session of the General Conference, Samarkand. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §1. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md). In A's account, which is unverified until read, it is a recommendation adopted by UNESCO's General Conference addressing mental privacy, identity, agency, consent and manipulation of neural information.
+  UNESCO (2025), UNESCO, adopted at the 43rd session of the General
+  Conference, Samarkand. Skimmed on 2026-11-12 in NOTE-tmpwjlut: A
+  human-rights-based instrument covering neurotechnology's whole life cycle,
+  medical and non-medical, and extending to "indirect neural data and
+  non-neural data allowing mental states inferences". Core principles
+  include autonomy (individual and relational) and freedom of thought,
+  protection against manipulation, mental privacy, prior free and informed
+  consent, and specific policy measures for data, employment, consumer
+  products, recommender systems, nudging, sleep marketing, neuromarketing
+  and closed-loop environments. Its account is THEORY-tmpv6d66. Registered
+  from the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
+  where A cited it at A21 §1.
 ---
+<!-- inactive-ok-file: NOTE-tmpwjlut — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmpv6d66 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # LIT-tmpxuh7j: Recommendation on the Ethics of Neurotechnology
@@ -30,8 +46,13 @@ UNESCO General Conference (2025). "Recommendation on the Ethics of Neurotechnolo
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it is a recommendation adopted by UNESCO's General Conference addressing mental privacy, identity, agency, consent and manipulation of neural information.
+Skimmed on 2026-11-12 (NOTE-tmpwjlut). The first global standard-setting
+instrument on neurotechnology ethics; widens scope from neural data to any
+data used to infer mental states.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).
+
+Skimmed on 2026-11-12; the reading is NOTE-tmpwjlut and its account
+THEORY-tmpv6d66.

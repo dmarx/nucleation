@@ -86,6 +86,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: NOTE-tmptfr59 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 TERM-006 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -308,3 +309,10 @@ The pasted synthesis on constraint architectures glosses the claim's dimensions 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 A lists four spaces, the instantaneously admissible directions, the states reachable over a horizon, the viable directions and policies, and the transformations accessible at acceptable cost, and says "These are not interchangeable." The claim already joins the last three in its viable reach under a cost bound; the instantaneous space is not one of its dimensions, and [CLAIM-589](CLAIM-589.md) shows it is no bound over a horizon. [CLAIM-582](CLAIM-582.md) explains why a precommitment can help under the claim: the set a constraint shrinks is one of existence, while what it can improve must hold whatever a distraction does. No status changes.
+
+## Note of 2026-11-12: Brenninger, Zug & Kokko (2025), read
+
+From the reading in NOTE-tmptfr59 (LIT-tmpzogx3), the reader's assessment as
+checked by the filer: **leaves open**. One could read reproductive
+manipulation as narrowing the host's reachable reproductive outcomes, but
+the review uses no such framing, and the claim concerns agents' will.
