@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp3dw7j
 title: 'A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -24,6 +24,12 @@ history:
     whether perceived reciprocity is accurate. That is the
     paired-survey design this case would need". Both questions name it
     too. No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1113 ("They do not run through fans' own
+    disidentification from the rival (THEORY-1113)"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -44,7 +50,10 @@ summary: >-
 bears_on:
 - QUESTION-116
 - QUESTION-298
+draws_on:
+- THEORY-1113
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 
 <!-- inactive-ok-file: CLAIM-157 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1113 LIT-1125 LIT-1131 LIT-1682 — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp361g3
 title: 'The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -22,6 +22,14 @@ history:
     authenticity: the case illustrates CLAIM-344 and varies CASE-013,
     both first on will-organization. The title, standing and relations
     are unchanged. No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-067 ("Ainslie's bargaining interests (THEORY-067)
+    are the existing accounts it would be tested against"); and
+    THEORY-1285 ("So an arrangement can be authorized and its result
+    still misattributed"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -45,7 +53,11 @@ summary: >-
   authorization, and that it is read from history, not present behaviour.
   Not shown: where a legitimate precommitment ends and an unaccountable
   one begins.
+draws_on:
+- THEORY-067
+- THEORY-1285
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

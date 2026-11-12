@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmps7vk0
 title: 'The imagined owner'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -30,6 +30,12 @@ history:
     Note of 2026-10-29 (Nisbett and Wilson) added: read
     (NOTE-1412); supports the premise narrowly and is silent on
     attributions of agency or control. The design is unchanged.
+- version: 6
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-646 ("Drayson's reading (THEORY-646): the
+    represented owner has a truthmaker"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -47,7 +53,10 @@ summary: >-
   second systematically misattributes control, that is a concrete model of
   illusory authorship, located in the attribution. Proposed, not run, and
   it tests attribution of control, not phenomenal properties.
+draws_on:
+- THEORY-646
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-355 THEORY-646 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
 
 # CASE-114: The imagined owner

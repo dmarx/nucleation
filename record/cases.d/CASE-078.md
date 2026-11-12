@@ -4,13 +4,22 @@ status: Active
 formerly:
 - CASE-tmp7b477
 title: 'Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
   note: >-
     Note of 2026-10-23 added: where the r/place literature the record
     holds leaves this design. The proposal is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-216 ("coalitions recovered from the log as Wu and
+    Silva do (THEORY-216)"); THEORY-214 ("Falmagne et al. could not
+    tell an attack from an adopted 'innovation' (THEORY-214)"); and
+    THEORY-218 ("Forum records (THEORY-218) would be needed to
+    separate them"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -27,7 +36,12 @@ summary: >-
   alive. So the design leans on destruction the participant did not cause,
   such as the 2022 moderator wipes and large raids. It is the test named in
   [CLAIM-274](../claims.d/CLAIM-274.md)'s defeater.
+draws_on:
+- THEORY-216
+- THEORY-214
+- THEORY-218
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-274 — Proposed or Open; claims, questions and readings the study would test, cited as open -->
 
 # CASE-078: Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp3uarw
 title: 'The regulator and two accounts: a formally independent regulator weighs two parties'' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,15 @@ history:
     cited are now read (THEORY-851, THEORY-850, THEORY-837),
     except Stigler's, Unavailable; none has the case's loop. The case is
     unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-851 ("A21's caution ... still applies
+    (THEORY-851)"); THEORY-850 ("two-way favors at five events, with
+    private advertisers as control (THEORY-850)"); and THEORY-837 ("it
+    has the press variant's dependence and not its loop
+    (THEORY-837)"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -34,7 +43,12 @@ summary: >-
   the standing of the party it favours. A20: "This is an application of
   the formal model, not an established empirical account of any
   particular regulatory agency." No regulator, outlet or party is meant.
+draws_on:
+- THEORY-851
+- THEORY-850
+- THEORY-837
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
 # CASE-123: The regulator and two accounts: a formally independent regulator weighs two parties' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight

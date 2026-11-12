@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpq90dm
 title: 'A fanbase is said to hate its owner or general manager, though it has no procedure for forming a view, some fans approve of the person, and nobody has counted'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -13,6 +13,12 @@ history:
     (ADR-092); added as that decision's demonstration. Its text
     names the question: "The case for QUESTION-119". No line changes
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-126 ("the we-mode emotion of THEORY-126"); and
+    THEORY-127 ("the group judgment of THEORY-127"). First application
+    of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -30,7 +36,11 @@ summary: >-
   reject. The case for [QUESTION-119](../questions.d/QUESTION-119.md). Stipulated.
 bears_on:
 - QUESTION-119
+draws_on:
+- THEORY-126
+- THEORY-127
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-126 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 <!-- inactive-ok-file: THEORY-125 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-104: A fanbase is said to hate its owner or general manager, though it has no procedure for forming a view, some fans approve of the person, and nobody has counted

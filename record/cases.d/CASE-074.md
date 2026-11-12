@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp048av
 title: "Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -21,6 +21,12 @@ history:
     "each one sees where the majority is going and follows it",
     agreement "produced by the coupling" while "the voters' valuations
     need not move at all". No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-068 ("That is the interrogation protocol of
+    THEORY-068"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -46,7 +52,10 @@ illustrates:
 - CLAIM-261
 bears_on:
 - QUESTION-077
+draws_on:
+- THEORY-068
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
 

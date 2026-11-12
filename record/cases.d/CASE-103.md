@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpothd4
 title: 'A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,12 @@ history:
     Note of 2026-10-29 added: Gioia, Schultz and Corley read; their
     identity–image model is the insider-identification path, without
     the selection path. The case is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-137 ("That is regulative attribution (THEORY-137)
+    widened from mental states to conduct and character"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -27,7 +33,10 @@ summary: >-
   and it can enter the process that produces its own evidence. It is a
   case for regulative attribution ([THEORY-137](../theory.d/THEORY-137.md), [QUESTION-049](../questions.d/QUESTION-049.md)) beyond mental
   states. Stipulated; it shows no particular reputation was self-fulfilling.
+draws_on:
+- THEORY-137
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-137 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 # CASE-103: A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it
 

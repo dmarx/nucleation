@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpc0mv0
 title: 'A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-21'
@@ -27,6 +27,14 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-846 ("would give r that semantics (CLAIM-199,
+    THEORY-846)"); and THEORY-142 ("March's mutual learning of code
+    and members (THEORY-142) already shows conformity destroying the
+    diversity needed for later correction"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -47,7 +55,11 @@ summary: >-
   checked: one in which the two-variable loop is stable and the
   three-variable one is not, and one in which the system is stable but r
   holds a lean long after m and a would have decayed without it.
+draws_on:
+- THEORY-846
+- THEORY-142
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-142 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CASE-124: A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ

@@ -6,7 +6,7 @@ formerly:
 title: 'A minimal coupled meaning–influence model: two hypotheses, two retrieval
   specialists, a fixed balanced corpus, queries set by the dominant interpretation
   and conferral updated from apparent retrieval success'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -26,6 +26,15 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-222 ("effective information of macrovariables
+    spanning both fields ... (THEORY-222)"); THEORY-257 ("predictive
+    closure (THEORY-257)"); and THEORY-1161 ("A comparison of this
+    model with 'DeGroot–Friedkin' should say which single-issue step
+    it is compared with"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -37,7 +46,12 @@ summary: >-
   A22 §7 and A23 §XI, a simulation not yet built. It is how [QUESTION-100](../questions.d/QUESTION-100.md) would
   be answered and [CLAIM-297](../claims.d/CLAIM-297.md) tested, and what [CLAIM-278](../claims.d/CLAIM-278.md) asks of the operator
   framework: a prediction a simpler model does not make.
+draws_on:
+- THEORY-222
+- THEORY-257
+- THEORY-1161
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

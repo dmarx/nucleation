@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpez60y
 title: "Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-068 ("Both put it outside the conditions of
+    THEORY-068"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 standing: documented
 kind: specimen
 tags:
@@ -23,7 +30,10 @@ summary: >-
 illustrates:
 - CLAIM-262
 - CLAIM-025
+draws_on:
+- THEORY-068
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 
 # CASE-075: Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpl1tu6
 title: 'Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -17,6 +17,14 @@ history:
     Note of 2026-10-29 added: Krakauer et al. read; the study should
     state which variables it puts in the environment for each arm.
     The proposal is otherwise unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-257 ("dynamical independence (THEORY-257)");
+    THEORY-222 ("effective information (THEORY-222)"); and THEORY-424
+    ("arm A, common input, is where A* fails, as Bourrat argued and
+    THEORY-424 holds"). First application of draws_on (ADR-tmpcd2gu).
+    No other change.
 standing: fictional
 kind: proposed-study
 tags:
@@ -32,7 +40,12 @@ summary: >-
   [CLAIM-157](../claims.d/CLAIM-157.md). The common-input arm is Bourrat's "reconstructed entity"
   ([LIT-005](../literature.d/LIT-005.md)), which the record already holds and the exchange did not
   cite. Not run.
+draws_on:
+- THEORY-257
+- THEORY-222
+- THEORY-424
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-257 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 # CASE-101: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members
 

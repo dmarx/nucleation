@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpk52n6
 title: 'The all-hands: a corporate event as a synchronization mechanism for the firm'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-126 ("THEORY-126 reads collective emotion as
+    'synchronous convergence in affective responding'"); and
+    THEORY-043 ("The record's group-agency readings (THEORY-043,
+    LIT-401) keep agency and phenomenal selfhood apart"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -24,7 +33,11 @@ summary: >-
   entrainment by co-presence, a record written for later readers, and
   incentives realigned. Whether the firm so synchronized is a self is
   the open question, not something the case settles.
+draws_on:
+- THEORY-126
+- THEORY-043
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-160 CLAIM-162 — Proposed; the claims this case illustrates or is set beside, open -->

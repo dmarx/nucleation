@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmplvjrp
 title: 'A deep network under conventional training: competing losses, an external optimizer and a scheduler, with three architectures that move governance inward and crossed interventions that locate it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -12,6 +12,12 @@ history:
     A dated note added: T24 of the exchange "Experimental Infrastructure
     Review" re-derived this case without citing it, and added a third
     arm, training exposure, to its crossed interventions (QUESTION-275). The case is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-253 ("The optimizer arm has a documented instance
+    in a solvable model"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -29,7 +35,10 @@ summary: >-
   say where a regulatory condition sits. Stipulated: the outcomes of the
   interventions are not known, except the optimizer arm in [THEORY-253](../theory.d/THEORY-253.md)'s
   solvable model.
+draws_on:
+- THEORY-253
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-367 CLAIM-157 — Proposed; the claim this case grounds and the claims and reading it uses, cited as open -->
 
 # CASE-113: A deep network under conventional training: competing losses, an external optimizer and a scheduler, with three architectures that move governance inward and crossed interventions that locate it
