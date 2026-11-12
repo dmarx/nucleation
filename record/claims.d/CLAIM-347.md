@@ -4,8 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmp55mls
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
-version: 3
+version: 4
 history:
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12, the dated note's account
+    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
+    recognized set cannot improve conjunctive compliance or lower the count
+    of recognized violations, not that every score against the recognized
+    set can only fall. No status change.
 - version: 2
   date: '2026-10-18'
   note: >-
@@ -404,9 +412,10 @@ accommodation once the demands and the relevant organization have been
 specified". A39's game with three demands, revenue, accessibility and budget
 protection, every pair attainable and not the triple, is [CASE-119](../cases.d/CASE-119.md)'s hollow
 triangle (note there). A42 §8 turns the specification into a question, filed
-as [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), and [CLAIM-tmpvceet](CLAIM-tmpvceet.md) derives from this claim's downward
-closure that recognizing more demands can only lower a score taken against
-the recognized set. No status change.
+as [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), and [CLAIM-tmpvceet](CLAIM-tmpvceet.md) derives from this claim's downward closure that, for a fixed arrangement,
+recognizing more demands cannot improve conjunctive compliance or lower the
+count of recognized violations (as narrowed after the owner's review of #485
+on 2026-11-12; not every score against the recognized set falls). No status change.
 
 ## Note of 2026-11-12: Fanning & Raworth (2025), read
 

@@ -4,8 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 4
+version: 5
 history:
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12, the dated note's account
+    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
+    recognized set cannot improve conjunctive compliance or lower the count
+    of recognized violations, not that every score against the recognized
+    set can only fall. No status change.
 - version: 2
   date: '2026-10-29'
   note: >-
@@ -259,9 +267,11 @@ The second paste of the pasted synthesis on resource-bounded realizability propo
 
 A44 §3 of the exchange (2026-11-11) cites this claim accurately and adds a
 consequence filed as [CLAIM-tmpvceet](CLAIM-tmpvceet.md): scored against the demands it
-recognizes, an organization can only score the same or worse when its
-inquiry recognizes more, so a reward for few recognized failures penalizes
-the inquiry. A's example of a question an organization may never formulate:
+recognizes, an organization cannot improve its conjunctive compliance or
+lower its count of recognized violations when its inquiry recognizes more,
+so governance that penalizes newly recognized violations without rewarding
+their discovery penalizes the inquiry (as narrowed after the owner's review
+of #485 on 2026-11-12). A's example of a question an organization may never formulate:
 "Are high-spending players actually achieving what they want, or does our
 choice architecture systematically undermine commitments they continue to
 endorse?" No status change.

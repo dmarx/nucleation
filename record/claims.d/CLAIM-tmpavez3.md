@@ -1,14 +1,24 @@
 ---
 status: Proposed
 title: 'An organization that weighs a harmful practice by the failures its present users report can expand the practice with no act against complaint: as the harmed leave, the recognized cost of the practice falls with their share, so the score favours more of it, and the failures it records grow more slowly than the harm it does'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12: the defeated_if's gloss
+    on CLAIM-tmpvceet follows that claim's narrowed form. The owner
+    distinguishes this claim's route, selective disappearance of the harmed
+    from the observed population, from CLAIM-tmpvceet's costly discovery;
+    filed as CLAIM-tmpljkzy. No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in CASE-tmp34j9u or in the monotonicity argument stated below.
   As a contribution, defeated if it only restates CLAIM-tmphgjbz (measured
-  demand moved by exit) with CLAIM-tmpvceet (a score on recognized demands
-  penalizes inquiry), or CLAIM-342's loop that confirms itself; it would
+  demand moved by exit) with CLAIM-tmpvceet (for a fixed arrangement, expanding the recognized
+  demands cannot lower recognized violations, so governance that penalizes
+  them without rewarding discovery penalizes inquiry), or CLAIM-342's loop that confirms itself; it would
   then belong as a note on them. What it adds to them is a practice that
   expands, step by step, because of the exit it causes. As a hypothesis
   about real organizations, it is defeated by evidence that complaint-based
@@ -45,6 +55,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpljkzy — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmphgjbz CLAIM-tmpvceet CASE-tmp34j9u ARG-tmpf6cmt — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-614 CLAIM-624 — Proposed; the active counter-corrective route and the owner's counter-normativity -->
 
