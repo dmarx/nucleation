@@ -33,6 +33,7 @@ summary: >-
   [QUESTION-095](../questions.d/QUESTION-095.md), whether storing a result and amortizing a computation are
   one trade, as a domain the question does not yet hold.
 ---
+<!-- inactive-ok-file: CLAIM-tmpnwq8a — Proposed; filed from the same exchange, cited in its note -->
 <!-- inactive-ok-file: THEORY-331 — Proposed; the reading of inference-aware scaling the case is set against -->
 <!-- inactive-ok-file: CLAIM-303 — Proposed; the break-even A tied the case to -->
 <!-- inactive-ok-file: LIT-tmp5b18b LIT-tmp3pjii LIT-tmpiyr8q LIT-tmptzx4q LIT-tmp8l2rx LIT-tmpp8vh8 LIT-tmp4meti — Deferred; registered with this case, not read -->
@@ -132,3 +133,7 @@ measured performance rankings."
   record's second-occurrence rule; the case shares only its break-even
   arithmetic. So it bears on [QUESTION-095](../questions.d/QUESTION-095.md), which asks whether such
   trades are one, and illustrates no claim.
+
+## Note of 2026-11-12: a staleness term
+
+CLAIM-tmpnwq8a, the assistant's, proposes a cost the thread's commenters, as A reported them, do not name: a character LoRA is tied to its base model, so a new base model ends its reuse. It is Proposed and rests, so far, on one sentence of the IP-Adapter abstract about a neighbouring kind of fine-tuning.

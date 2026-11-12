@@ -35,7 +35,7 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
-<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
+<!-- inactive-ok-file: CASE-tmp40vka CASE-tmp3isyl CLAIM-tmpnwq8a — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-095: Is leaving the result of a computation where it can be cheaply retrieved the same trade as amortizing the computation, and does one account of when it pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused inferences?
@@ -223,5 +223,7 @@ At U6 of the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83e
 - **It adds a domain with three strategies in view**: a LoRA, work moved into weights and cheap per use, which is the scaling readings' "cheaper computation, not a stored answer"; a reference sheet, made once and interpreted at every use; and raw references, nothing kept. A16 put it as "both are forms of memory, but they move different amounts of work into each generation."
 - **It adds a change in costs over time.** The scaling readings fix the technology and vary demand. The case asks how a change in per-use cost across model generations moves the break-even, which none of the readings above measures.
 - **It does not settle anything.** The thread could not be read here (it redirected to a login page on 2026-11-12), and A's report of it is unverified. A: "the thread doesn't establish a controlled cost-and-quality comparison."
+
+The assistant (Claude, in the filing session) added a staleness term the readings lack, filed as CLAIM-tmpnwq8a, Proposed: a specialization learned into weights goes stale when its base model is replaced, while what it encodes stays right, so the reader's turnover caps expected reuse. Its proposed test is a transfer arm in CASE-tmp3isyl's design. The reading of IP-Adapter, its one piece of evidence so far, is still owed.
 
 The question stays Open.
