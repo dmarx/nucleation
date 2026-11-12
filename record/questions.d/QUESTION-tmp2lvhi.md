@@ -65,3 +65,23 @@ those cases, and says whether the future adult's interest in deciding
 - [CASE-128](../cases.d/CASE-128.md) (a voluntary delegation against the same restriction imposed):
   authorization by the agent's own earlier act, the advance-directive side
   of the asymmetry.
+
+## Note of 2026-11-12: formation and maintenance provenance of an authorization, the assistant's, accepted by the owner
+
+The fifth of the ideas offered after filing the exchange, accepted by the
+owner on 2026-11-12. TERM-100's senses of provenance sort the cases this
+question names, if an authorization is treated as a capacity with a
+provenance. An advance directive has formation provenance in the patient's
+own earlier act and maintenance provenance in others, the proxies and
+institutions that keep it in force once the patient cannot. Parental
+permission for an infant is formed and maintained by another. An
+adolescent's assent beside parental permission is formed partly by the
+patient and maintained jointly. A9 §5's asymmetry is then a difference in
+formation provenance with maintenance held fixed, and the open-future
+argument asks whether formation by another can be legitimate when
+maintenance will pass to the patient. TERM-100 notes that only maintenance
+provenance can be read off a present organization. If so, a surrogate's
+authority cannot be checked from the present arrangement alone, which is
+CLAIM-518's point about histories. An interpretive mapping, not an answer,
+so it is filed as a note. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.
