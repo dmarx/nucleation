@@ -43,6 +43,8 @@ summary: >-
   transfer; [THEORY-1105](../theory.d/THEORY-1105.md) reports Bernabeu and colleagues' concession about
   their own donors. This claim is what the record draws from both.
 ---
+<!-- inactive-ok-file: CLAIM-661 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 # CLAIM-508: Gene ancestries alone cannot tell a symbiotic partner from a source of transferred genes: a partner whose genes were mostly lost, replaced or spread thin would leave the diffuse trace that Tobiasson and colleagues read as piecemeal transfer, and Bernabeu and colleagues concede that their donor signals say nothing of the kind of interaction
 
@@ -55,3 +57,21 @@ Known partnerships bear the premise out. In the nitroplast no gene transfer from
 ## What it does not say
 
 Not that there were further partners. Tobiasson and colleagues' reading may be right; the claim is only that the ancestries cannot show it, and that the same holds for Bernabeu and colleagues' donors.
+
+## Note of 2026-11-12: the same point at the level of cells, from "Medical Ethics and Media Enshitification"
+
+The tolerance result the owner's source reports ([THEORY-1658](../theory.d/THEORY-1658.md)) is this
+claim's point one level down: which lineage a cell descends from does not
+tell whether it does the host's work, since in mice one marked subset of
+maternal cells sustains the offspring's tolerance and the rest persist
+without it. Corroborates, from a reading the claim does not rest on;
+[THEORY-1658](../theory.d/THEORY-1658.md) now names this claim in `corroborates`.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in [NOTE-1728](../notes.d/NOTE-1728.md) ([LIT-2348](../literature.d/LIT-2348.md)), the reader's assessment as
+checked by the filer: and **[CLAIM-661](CLAIM-661.md)** (origin, governance and
+beneficiary of an influence are separate questions): the maternal cell is of
+foreign origin, governed in the host's immune regulation, and benefits (on
+the authors' account) the maternal lineage, a case of the three coming
+apart.

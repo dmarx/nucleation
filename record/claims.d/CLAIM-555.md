@@ -69,6 +69,7 @@ summary: >-
   has been checked. The wording of the construction is A's, sharpened by
   the reader; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-249 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 # CLAIM-555: In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible
 
@@ -158,3 +159,12 @@ owner's call: its promotion is listed for the owner's assent in that
 pass's pull request. This claim is interpretive and rests on it as its
 one worked instance, so it waits on that assent and is not promoted in
 the same change.
+
+## Note of 2026-11-12: a tolerance-indexed pass rate, from "Medical Ethics and Media Enshitification"
+
+A44 §2 of the exchange (2026-11-11) cites this claim correctly as Proposed
+and builds on its acceptance sets A_i(ε_i) a sampled pass rate for a set of
+demands at given tolerances, PASS^π_{S,ε}@(k,T), filed as A's construction
+[CASE-249](../cases.d/CASE-249.md). A44 §2 also warns, with [CLAIM-549](CLAIM-549.md) and [CLAIM-550](CLAIM-550.md), that a
+tolerance can be the threshold at which a perspective activates rather than
+the region that meets its requirement. No status change.

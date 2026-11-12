@@ -135,6 +135,7 @@ summary: >-
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
+<!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-610 CLAIM-611 CLAIM-615 — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-446 TERM-086 — Deferred, Proposed; cited with their standing -->
@@ -360,3 +361,15 @@ Under [ADR-075](../decisions.d/ADR-075.md)'s admission test, the integration mus
 The claim is admitted on the narrower title. Its non-reduction to the harm is [CLAIM-614](CLAIM-614.md)'s thesis and [CASE-229](../cases.d/CASE-229.md)'s construction, not this claim's integration.
 
 **Open: unavoidable reproduction.** The owner's formulation does not explicitly settle whether unavoidable reproduction can constitute a further wrong. The proposed feasibility-bounded answerability account excludes such cases; whether that limitation captures the owner's intended counter-normativity remains open. (A's second review of the pull request, which corrected an earlier version of this section that had attributed the opposite position to the owner. That attribution rested on a clause a filer had written into [CLAIM-614](CLAIM-614.md)'s `defeated_if`.)
+
+## Note of 2026-11-12: answerability as a demand, from "Medical Ethics and Media Enshitification"
+
+A37 §10 of the exchange (2026-11-11) states this claim's proposal as its
+"Proposition C" and keeps it apart from what supports it: "A metric's
+inadequacy is demonstrable once a relevant standard is fixed. That
+inadequacy becoming a wrong requires further justification." A39 §7
+represents the duty as a demand A_C, histories that maintain adequate
+answerability, and asks whether it is compatible with the organization's
+functional demands. The interesting case is the third: compatible once and
+made incompatible by the organization's own history (the note on [CLAIM-464](CLAIM-464.md)).
+A37's newsroom variant is [CASE-247](../cases.d/CASE-247.md). No status change.

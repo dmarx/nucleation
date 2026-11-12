@@ -85,6 +85,7 @@ summary: >-
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
 ---
+<!-- inactive-ok-file: CASE-247 CLAIM-655 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
@@ -269,3 +270,37 @@ Three readings bear on this claim directly.
 - **Singer** ([NOTE-1224](../notes.d/NOTE-1224.md)) checks his estimates against ground truth only
   in simulation. On real data the method's only check is its own
   consistency.
+
+## Note of 2026-11-12: a suppressing evaluator in a fire alarm, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-242 — filed from the same exchange, Proposed -->
+A8 §4 and A10 §3 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) apply this
+claim to the owner's smoke detector. In one arrangement the silent test
+is scored independently and starts a repair. In the other the evaluator
+suppresses the contradicting result: the mismatch is "Physically
+observable" and is not used ([CASE-242](../cases.d/CASE-242.md), step 3, stated rather than
+computed). A8's line that "Nucleation distinguishes the availability of
+evidence from whether governing processes grant that evidence practical
+influence" is [CLAIM-349](CLAIM-349.md)'s separation of access, authority and action,
+which A does not cite. Nothing changes.
+
+## Note of 2026-11-12: platforms that read the behaviour they induced as preference, from "Medical Ethics and Media Enshitification"
+
+A23 §3 and A29 §6 of the exchange (2026-11-11) are this claim's loop in a
+recommender and a game. A23: "The recommender can influence what satisfies
+the user while using satisfaction as evidence that its influence is
+appropriate", and A's "preference laundering", "Behavior induced by the
+interface becomes a signal for further personalization". A29: the risk of
+"confusing demand revealed under its own influence with demand that existed
+independently of that influence". The exchange adds a route by which
+evidence comes to pass through the interpretation: users the product serves
+worst leave the population it observes ([CLAIM-655](CLAIM-655.md)). And a newsroom that
+funds investigations by their measured demand sees no demand for those it no
+longer funds ([CASE-247](../cases.d/CASE-247.md)). Supports; no status change.
+
+## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
+
+From the reading in [NOTE-1742](../notes.d/NOTE-1742.md) ([LIT-2431](../literature.d/LIT-2431.md)), the reader's assessment as
+checked by the filer: bears as an empirical example of evidence selection
+persisting through user follows; supportive in spirit, without any test of
+lock-in.

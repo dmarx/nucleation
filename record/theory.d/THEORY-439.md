@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4sei8
 title: "Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -29,6 +29,12 @@ history:
     of CLAIM-118's corroborated_by because the update is discarded after
     the task; that bears on how the question reads the evidence, not on
     whether it bears. No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Bears on QUESTION-095, whose note of 2026-11-12 cites it as a held
+    analogue of the trade between learning a specialization into weights
+    and conditioning on references (ADR-093). No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -47,6 +53,7 @@ summary: >-
   gain is open.
 bears_on:
 - QUESTION-020
+- QUESTION-095
 ---
 
 # THEORY-439: Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable

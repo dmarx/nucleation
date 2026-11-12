@@ -96,3 +96,24 @@ not. She chose the disputes and reads them from one side.
 - The record's reading advises citing the entry firmly for "units of selection
   is four questions" and attributing its other rulings to Lloyd and the
   Evolutionary Change school ([NOTE-184](../notes.d/NOTE-184.md), Bearing).
+
+## Note of 2026-11-12: Boddy, Fortunato, Wilson Sayres and Aktipis, read
+
+From the reading in [NOTE-1781](../notes.d/NOTE-1781.md) ([LIT-2450](../literature.d/LIT-2450.md)), the reader's assessment as
+checked by the filer: bears as an application/illustration. Boddy et al.
+treat fetal cells as potential bearers of adaptations serving offspring
+fitness within the maternal body — a within-mother level at which
+cooperation/conflict (and thus selection-relevant interaction and
+beneficiary roles) operate. The review's cooperation/conflict framing
+presupposes exactly the kind of level/role analysis THEORY-413 maps;
+co-author Aktipis's cancer-across-the-tree-of-life work ([LIT-740](../literature.d/LIT-740.md), held) is
+the sibling multicellularity-cheating application. Supports keeping
+THEORY-413's role-separation in view; the review does not itself adjudicate
+units-of-selection disputes.
+
+## Note of 2026-11-12: Sullivan et al., read
+
+From the reading in [NOTE-1775](../notes.d/NOTE-1775.md) ([LIT-2345](../literature.d/LIT-2345.md)), the reader's assessment as
+checked by the filer: the authors' framing is that sickness states are host
+adaptations (host as beneficiary), with adaptiveness explicitly not yet
+tested.

@@ -179,3 +179,15 @@ The claim is unchanged and stays Proposed.
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Jules et al. ([NOTE-1617](../notes.d/NOTE-1617.md)), from the pasted synthesis on constraint architectures, give a structural analogue. A shift moves a defect in a stack of Kresling barrels to a stiffer module and enlarges the defect loop, irreversibly, so which states are reachable afterwards changes while the loading rules stay as they were. That echoes the claim: an operation alters what a later correction would take, the governing rules unchanged. It is mechanics, not intervention or review; nothing in it concerns control, access or enforcement, and the defects themselves were made by hand, outside the loading protocol. No status changes.
+
+## Note of 2026-11-12: from available to unattainable, from "Medical Ethics and Media Enshitification"
+
+A39 §5 of the exchange (2026-11-11) gives this claim a progression in
+compatibility terms: "Available but ignored" to "Neglected" to "No longer
+attainable". A newsroom that declines to investigate while it can, and after
+enough disinvestment cannot. A39 §7 reads the third of its answerability
+cases the same way: "answerability was initially compatible, but the
+organization changed itself so that it no longer is", so that "present
+infeasibility may be part of the object of normative evaluation rather than
+an excuse that ends it". That is this claim with [CLAIM-518](CLAIM-518.md)'s histories. No
+new claim filed; mapped here.

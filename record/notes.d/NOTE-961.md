@@ -202,3 +202,11 @@ progress. Laureys is senior author here too.
 - For the record: how does well-being compare between those still in
   classic LIS and those who recovered speech or limb movement? The paper
   reports speech as a predictor but no split by LIS form.
+
+## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
+
+From the reading in [NOTE-1731](NOTE-1731.md) ([LIT-2383](../literature.d/LIT-2383.md)), the reader's assessment as
+checked by the filer: not cited by Nix, but his Option 1 rests on the same
+disability-paradox phenomenon (he cites Albrecht and Devlieger 1999; Ubel et
+al. 2005; Smith et al. 2006 on colostomies). Bruno is held evidence of the
+same forecasting gap; the filer may cross-reference. Not a duplicate.

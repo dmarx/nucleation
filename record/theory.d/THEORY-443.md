@@ -119,3 +119,21 @@ contentious about, genes and hearts, have them coming apart.
   agent" label blurs.
 - **Reefs.** [THEORY-128](THEORY-128.md) and [THEORY-130](THEORY-130.md) use the coral reef and holobiont
   cases this entry leaves open.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in [NOTE-1728](../notes.d/NOTE-1728.md) ([LIT-2348](../literature.d/LIT-2348.md)), the reader's assessment as
+checked by the filer: **supports, as an instance**. Cells genetically of one
+lineage (the mother's) take part in the physiological (immune) regulation of
+another individual, and the authors' explanation is in evolutionary terms
+(the mother's genetic fitness through her daughter's pregnancies):
+physiological integration with a different evolutionary beneficiary. The
+paper itself does not use the individuality literature. Other held entries
+it bears on (found on recheck):
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in [NOTE-1753](../notes.d/NOTE-1753.md) ([LIT-2358](../literature.d/LIT-2358.md)), the reader's assessment as
+checked by the filer: Finn cites "organism-centered views" on which
+biological individuals have parts that are biological individuals, the
+premise that makes Maximality contestable.

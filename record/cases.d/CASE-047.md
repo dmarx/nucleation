@@ -29,6 +29,8 @@ reported_in:
 - NOTE-703
 - NOTE-706
 ---
+<!-- inactive-ok-file: NOTE-1767 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1773 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-166 — Proposed; the threshold criterion and the owner's claim this case serves, open -->
 
 # CASE-047: Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person
@@ -63,3 +65,34 @@ The details and grades are in [NOTE-706](../notes.d/NOTE-706.md) and [NOTE-703](
 As a documented case it shows only what the evidence does: routes, and
 causal effects in animals. That the owner's own hunger and mood are driven
 this way is the claim ([CLAIM-166](../claims.d/CLAIM-166.md)), not the case.
+
+## Note of 2026-11-12: the enteric level, from "Medical Ethics and Media Enshitification"
+
+A15 of the exchange (2026-11-11) cites this case accurately and adds a level
+the case does not name: the enteric nervous system, which regulates
+digestion locally and passes signals to the brain, between the microbes and
+the person. A15's point for [QUESTION-033](../questions.d/QUESTION-033.md) is that "which level drives" may
+depend on the intervention, microbial signals, enteric activity or central
+response. Boem and colleagues' "gut complex" ([LIT-2347](../literature.d/LIT-2347.md), unread) is the
+theoretical framing A recommends.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in [NOTE-1765](../notes.d/NOTE-1765.md) ([LIT-2347](../literature.d/LIT-2347.md)), the reader's assessment as
+checked by the filer: **supports the case's framing**. The "gut complex"
+names the intermediate level the case's 2026-11-12 note adds; the paper's
+insistence that the four systems work together supports the case's "drive
+from below that is not a single part". It adds no data. Other held entries
+it bears on (found on recheck):
+
+## Note of 2026-11-12: Almarzooqi et al., read
+
+From the reading in [NOTE-1773](../notes.d/NOTE-1773.md) ([LIT-2352](../literature.d/LIT-2352.md)), the reader's assessment as
+checked by the filer: the GF, FMT and probiotic-trial details agree with the
+case's bullets.
+
+## Note of 2026-11-12: Ahmed et al. (2022), Microbiota-derived metabolites as drivers of gut–brain communication, read
+
+From the reading in [NOTE-1767](../notes.d/NOTE-1767.md) ([LIT-2442](../literature.d/LIT-2442.md)), the reader's assessment as
+checked by the filer: **supports** the case's routes (metabolites, gut
+hormones, nerves).

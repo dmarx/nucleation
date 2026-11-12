@@ -122,3 +122,9 @@ well without them. Neither happened in these samples.
 - Overt markers have the same shape as a felt processing quality entering
   a judgement about its source ([THEORY-662](THEORY-662.md)), with a body state as the
   feeling.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in [NOTE-1765](../notes.d/NOTE-1765.md) ([LIT-2347](../literature.d/LIT-2347.md)), the reader's assessment as
+checked by the filer: and **[THEORY-045](THEORY-045.md)** (felt affect as the body's
+regulatory state): the paper's "background gut feeling" draws on both.

@@ -61,6 +61,7 @@ summary: >-
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
+<!-- inactive-ok-file: CASE-249 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
 
@@ -197,3 +198,15 @@ A60 §5 and A62 §1 of the second share of the exchange "Individuation, Possibil
 ## Note of 2026-11-07: surveyed, from the second share of "Individuation, Possibility, and Disposition"
 
 A58 §5 reads this claim rightly, including its "normative efficacy". It tells it as what "Nucleation calls", where it is the owner's synthesis of 2026-10-31. A58 §11's "Nucleation already has exact examples demonstrating several of the differences" is true of [CLAIM-455](CLAIM-455.md), [CLAIM-535](CLAIM-535.md) and [CLAIM-400](CLAIM-400.md), not of this claim, whose warrant is interpretive. No status changes.
+
+## Note of 2026-11-12: applied to consent, feeds, spending limits and newsrooms, from "Medical Ethics and Media Enshitification"
+
+The exchange (2026-11-11) applies this claim's three achievements four
+times, describing it accurately: to institutional consent (A9 §7: a refusal
+unrecognized, recognized but ineffective, or acknowledged but
+unimplementable), to recommender feeds (A23 §6), to a player's spending
+budget (A25 §6) and to investigative capacity (A33 §8). A44 §5 adds a step
+before legibility that the claim takes for granted: the organization must be
+able to recognize which candidate arrangement satisfies the demand,
+"Oracle-assessed availability" against "Operational success"
+([CASE-249](../cases.d/CASE-249.md)). No status change.

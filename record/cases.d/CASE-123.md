@@ -48,6 +48,7 @@ draws_on:
 - THEORY-850
 - THEORY-837
 ---
+<!-- inactive-ok-file: CLAIM-656 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
@@ -143,3 +144,12 @@ evidence.
   may also reflect genuine learning, merited expertise, and beneficial
   specialization. Only independent standards and causal evidence can
   distinguish those from inappropriate capture."
+
+## Note of 2026-11-12: the press variant and the attention market, from "Medical Ethics and Media Enshitification"
+
+A33 §8 of the exchange (2026-11-11) cites this case's press-as-evaluator
+variant accurately and adds a source of influence the case does not have:
+not the party the newsroom evaluates, but "the platform or advertising
+market through which the newsroom obtains resources". The newsroom "can
+remain formally independent while gradually adopting the platform's criteria
+of success" ([CLAIM-656](../claims.d/CLAIM-656.md)).

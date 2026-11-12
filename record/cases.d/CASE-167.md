@@ -40,6 +40,7 @@ bears_on:
 draws_on:
 - THEORY-1100
 ---
+<!-- inactive-ok-file: NOTE-1738 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: LIT-1562 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
@@ -88,3 +89,9 @@ proteins. They add three points:
 
 UCYN-A's genome is about 1.4 Mbp, and the partnership is about 91 million
 years old.
+
+## Note of 2026-11-12: Nakhal et al. (2026), read
+
+From the reading in [NOTE-1738](../notes.d/NOTE-1738.md) ([LIT-2365](../literature.d/LIT-2365.md)), the reader's assessment as
+checked by the filer: use "vertical transmission" for symbiont inheritance;
+result 3 is a measured analogue at the community level, a minor link.

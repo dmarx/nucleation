@@ -258,3 +258,37 @@ A12 §4.3 of the exchange (2026-11-06 to 07) names "**dynamical subordination**:
 ## Note of 2026-11-07: a relational wrong as domination, from the second share of "Individuation, Possibility, and Disposition"
 
 A60 §6 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cites this claim correctly, as Proposed, "on governance of governability". A62 §7's relational wrong, "a deprivation of normative standing within a relationship of governance", is a normative reading of this claim's domination clause, which A does not use. [CLAIM-624](CLAIM-624.md) complements this claim and names the clause. The standing meant is standing to place claims on an organization that governs one, not [TERM-083](../terms.d/TERM-083.md)'s moral standing. Unchanged.
+
+## Note of 2026-11-12: three restatements, from "Medical Ethics and Media Enshitification"
+
+The exchange (2026-11-11) restates this claim three times without citing it
+as such. A17's thesis: "Autonomy is not independence from the processes that
+constitute one's motivations. It is a historically situated capacity to
+regulate, integrate, and revise the conditions under which those processes
+acquire practical authority, without that capacity being usurped by another
+agent." A19 §7's revision after the parasite cases: "Autonomy requires not
+merely effective internal organization but appropriate control over the
+conditions by which external influences acquire and retain practical
+authority." And A23's, after the recommender cases: autonomy "also involves
+meaningful authority over the ongoing processes that shape which
+preferences, alternatives, and reasons become available for future
+revision." A23 and A25 do cite this claim. Audited in the curation entry of
+2026-11-12 as one thesis in three versions; each adds only its examples, so
+nothing was filed. No status change.
+
+## Note of 2026-11-12: Naudts, Helberger, Veale and Sax (2025), read
+
+From the reading in [NOTE-1798](../notes.d/NOTE-1798.md) ([LIT-2362](../literature.d/LIT-2362.md)), the reader's assessment as
+checked by the filer: *supports by analogy* the domination clause at the
+collective, political level: the paper's complaint is that the platform
+alone sets "the optimization goals" that fix what users see (result 3–4),
+and that users have no "control or contestation mechanisms", which is A's
+"another holds an unaccountable channel to those relations". Its remedies
+line up with the claim's components: publicity ≈ legibility, "actionable
+say" ≈ efficacy, contestation and motivated refusal ≈ correctability.
+*Qualifies*: the paper's subject is citizens' political agency over
+infrastructure, grounded in Young's democratic legitimacy, not an
+individual's will; it does not use non-domination or Pettit, and does not
+say that a non-profiled option (Art. 38) restores freedom; it calls Art. 38
+"the most promising agency-enhancing tool" but insufficient. Note: CLAIM-545
+on the branch does not itself cite [LIT-2362](../literature.d/LIT-2362.md); the link is the LIT's.

@@ -195,3 +195,31 @@ misclassifies in either direction.
 - It does not say that differentiation makes new individuals. A38: it "does
   **not** automatically mean that two new autonomous individuals have
   formed."
+
+## Note of 2026-11-12: semantic substitution, from "Medical Ethics and Media Enshitification"
+
+A42 §3 of the exchange (2026-11-11) names a way this claim's correspondence
+can fail while every label stays the same: "semantic substitution", in which
+an institution meets a value by changing its operational test, so that
+A_original ≠ A_operative. A's example is a newsroom whose "independence"
+narrows from independent discovery to freedom from advertisers'
+instructions. This is neither relief nor deletion, and only an explicit
+correspondence of acceptance sets, which this claim requires, detects it.
+The empirical source A cites is Moats, Ruckenstein and colleagues on value
+narrowing, tickboxing, pushing, mismatch and projection ([LIT-2361](../literature.d/LIT-2361.md),
+unread). Supports; no status change.
+
+## Note of 2026-11-12: Moats et al. (2026), read
+
+From the reading in [NOTE-1760](../notes.d/NOTE-1760.md) ([LIT-2361](../literature.d/LIT-2361.md)), the reader's assessment as
+checked by the filer: *supports* the claim's point that changing the test
+while keeping the name is not satisfaction ("presented as if it had been
+fulfilled", result 3), and tickboxing's entrenchment (result 5) is an
+empirical route by which D₀ drifts. It *qualifies* nothing in the claim's
+formal content; it gives no organization-level before/after data.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in [NOTE-1741](../notes.d/NOTE-1741.md) ([LIT-2344](../literature.d/LIT-2344.md)), the reader's assessment as
+checked by the filer: CBS's protected class and covariates are such a fixed
+reference set; the paper does not discuss how it is chosen.

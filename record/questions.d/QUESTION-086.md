@@ -38,6 +38,8 @@ summary: >-
   that separates the pair, or an argument that none can short of the
   removal.
 ---
+<!-- inactive-ok-file: LIT-2462 — Unfetched; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-1030 THEORY-071 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-086: Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?
@@ -208,3 +210,24 @@ self-constituting.
   alone.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-12: a proposed test from maternal microchimerism, the assistant's, accepted by the owner
+
+The fourth of the ideas offered after filing the exchange "Medical Ethics
+and Media Enshitification" (2026-11-11), accepted by the owner on
+2026-11-12. Peng, Way and colleagues report, in mice, that depleting LysM+
+CD11c+ maternal microchimeric cells removes the offspring's tolerance of
+non-inherited maternal antigens while most maternal cells persist
+([THEORY-1658](../theory.d/THEORY-1658.md), from a press post; the paper, [LIT-2462](../literature.d/LIT-2462.md), is Unfetched,
+so the reading is owed and nothing here is a finding). The cells are of
+another organism's lineage and sustain a capacity of the host. Proposed
+test: compare offspring whose tolerance is sustained by their own maternal
+cells with offspring given, later in life, matched tolerogenic cells from a
+donor, an outside supply of the same function. If depletion and stimulation
+affect the capacity identically in both, the interventions cannot tell an
+internal producer from an outside controller, as [CLAIM-530](../claims.d/CLAIM-530.md) predicts. What
+might separate them is whether the host's own processes keep and renew the
+cells (maintenance provenance, [TERM-100](../terms.d/TERM-100.md)) and whether the tolerance is
+renewed with them. That is this question asked of a single cell population.
+The wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

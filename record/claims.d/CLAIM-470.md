@@ -239,6 +239,22 @@ block of our formal argument". [TERM-095](../terms.d/TERM-095.md) defines it as 
 (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑) used above, and leaves this claim's thesis out of the
 definition. So the claim is stated in the term and not true by definition.
 
+## Note of 2026-11-12: the debugger's question, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-240 CASE-242 — filed from the same exchange, Proposed -->
+A8 §1 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) reads the owner's
+debugging case ([CASE-240](../cases.d/CASE-240.md)) through this claim: the debugger's
+question, "is this alarm mechanism operational?", fixes what would count
+as an answer, and the test smoke is the operation that makes the
+difference accessible. A's description of the claim (answer space,
+admissible interventions, observations, evaluation and resource bounds)
+matches the body's (A, 𝓘, 𝓞, 𝓚) and resource bounds. A10 §5's
+heat-sensitive relay ([CASE-242](../cases.d/CASE-242.md)) separates "a new answer to an
+existing diagnostic question" from "a new question it previously could
+not ask", which is this claim's last clause, that an inquiry can revise
+what an answer could be. A10 grants that the toy "does not yet implement
+an autonomous method for inventing it." No status changes.
+
 ## Note of 2026-11-12: Majumder et al. and Bao et al., read
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.

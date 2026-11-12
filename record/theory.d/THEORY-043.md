@@ -401,3 +401,9 @@ needed.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in [NOTE-1737](../notes.d/NOTE-1737.md) ([LIT-2354](../literature.d/LIT-2354.md)), the reader's assessment as
+checked by the filer: Hasler's test (iv) is IIT's anti-nesting principle and
+test (i) an architectural one, applied to a bodily subsystem.

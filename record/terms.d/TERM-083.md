@@ -45,6 +45,8 @@ draws_on:
 - THEORY-554
 - THEORY-699
 ---
+<!-- inactive-ok-file: NOTE-1799 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1733 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: ADR-095 THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
@@ -111,3 +113,33 @@ owe to possible future subjects of suffering. It is an argument from
 precaution, and [THEORY-677](../theory.d/THEORY-677.md)'s point applies: precaution alone does not fix
 which error is worse. Whether the paper answers that cannot be checked
 until it is read. No status, title or warrant changes.
+
+## Note of 2026-11-12: abortion, circumcision and surrogate authority, from "Medical Ethics and Media Enshitification"
+
+A9 §1 of the exchange (2026-11-11) cites this term accurately, with its four
+specifications of a standing claim and its split between moral agents and
+moral patients. It uses them to separate three questions in the abortion
+debate: when a distinct organism exists, when it has interests, and what
+grounds and follows from them. A9's "proposed bridge" is "An account of how
+a system becomes an individual can help identify candidate bearers of moral
+standing, but cannot by itself establish what those individuals are owed".
+That is this term's demand that standing be argued, and [CLAIM-075](../claims.d/CLAIM-075.md)'s. The
+question of who may act on a standing that the bearer cannot exercise is
+filed as [QUESTION-454](../questions.d/QUESTION-454.md).
+
+## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
+
+From the reading in [NOTE-1733](../notes.d/NOTE-1733.md) ([LIT-2399](../literature.d/LIT-2399.md)), the reader's assessment as
+checked by the filer: **Illustrates the separation**: LePage gave frozen
+embryos a legal status ("minor children") for one statute and one remedy,
+which Greely shows was neither a judgement of moral standing nor general
+legal personhood, and which the legislature then neutralized by immunity
+without touching the classification. A worked example of TERM-083's point
+that standing claims must name the claim and what follows; the legal
+analogue is "children for the purposes of the Wrongful Death Act".
+
+## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
+
+From the reading in [NOTE-1799](../notes.d/NOTE-1799.md) ([LIT-2355](../literature.d/LIT-2355.md)), the reader's assessment as
+checked by the filer: the paper takes the child's standing as given and
+argues what follows for others' authority.

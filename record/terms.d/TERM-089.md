@@ -131,3 +131,17 @@ The owner adopted the term at the review of the pull request, and split
 sense. [CLAIM-476](../claims.d/CLAIM-476.md) keeps Barad's constitutive sense and now rests on it. The
 criterion this term's last section set for adoption is met: a claim needs the
 operational sense and says so by citing it.
+
+## Note of 2026-11-12: relayed, and applied to an absence, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-243 CLAIM-651 — filed from the same exchange, Proposed -->
+A3 §1 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) relays this term as the
+foundation of the record's account of meaning with no sentient party,
+accurately: "None requires consciousness. The repository explicitly says
+so." The body says "No consciousness is presupposed". A4 §1 finds three
+of the four functions in the owner's smoke detector ([CASE-243](../cases.d/CASE-243.md)). A10
+§6 applies the term to a non-event: "The absence becomes an observable
+distinction because the apparatus organizes it as one." That is filed as
+[CLAIM-651](../claims.d/CLAIM-651.md), which uses this term. Its defeater names the objection
+that it only restates differentiation and retention. No change to the
+definition.

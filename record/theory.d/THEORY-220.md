@@ -22,7 +22,7 @@ promote_when: >-
   that etiological theories handle the swamp lion differently, which
   concern a rival account and not this one's adequacy.
 title: 'A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -49,6 +49,13 @@ history:
     self-maintaining. Whether the pattern feeds back into the flow that
     keeps it is the next rung of the ladder". First application of the
     bounds relation (ADR-094). No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    bears_on QUESTION-128: the question names this reading among its
+    candidate readings, and the note of 2026-11-12 cites it as the
+    record's route to an expected profile a system holds itself
+    (ADR-093). No other change.
 tags:
 - philosophy-of-biology
 - cognition
@@ -71,6 +78,7 @@ summary: >-
   malfunction) is deferred to another paper.
 bears_on:
 - QUESTION-087
+- QUESTION-128
 corroborates:
 - CLAIM-363
 - CLAIM-288
@@ -214,3 +222,19 @@ every component whose removal shortens persistence as positive, and it
 was applied to none of the flame, the protocell or the controller. Having
 a function, which malfunction needs, is deferred by the source to
 Christensen & Bickhard (2002), which the record does not hold.
+
+## Note of 2026-11-12: the system's own expected profile, from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CASE-240 CLAIM-649 — filed from the same exchange, Proposed -->
+The exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) ends each of its turns on whether a
+diagnostic standard can be the system's own. A5 §5: "whether the
+expected-response profile itself must originate in an intentional
+designer, or whether it can emerge from the system's own history of
+adaptation, self-maintenance, or learning." This account is the record's
+reading of the second option. A system that selects its next interaction
+anticipates its success, and the anticipation can be false by its own
+lights. Its failure is then the system's counterpart of the owner's
+debugger finding an alarm silent under test ([CASE-240](../cases.d/CASE-240.md);
+[CLAIM-649](../claims.d/CLAIM-649.md)), with the expected response set by the system and not a
+designer. A does not cite it. It bears on [QUESTION-128](../questions.d/QUESTION-128.md) as well, which
+names it among its candidate readings, and the relation is now written.

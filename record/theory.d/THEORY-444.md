@@ -15,7 +15,14 @@ promote_when: >-
   amendment keeping the core can sort. Further examples that fit the
   analysis cannot settle it, since it was built from such examples.
 title: "To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    The dated note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12: the
+    owner's "means" is factive only under a validated guarantee, and
+    evidential in general (CLAIM-649, version 2). No other change.
 tags:
 - pragmatics
 - philosophy-of-language
@@ -121,3 +128,18 @@ work could have counted as not meaning. Grice's cases sort the other way.
   social practice, "not intentional" vocabulary, which reverses Grice's
   hoped-for order of explanation. As the two accounts are stated here
   they do not exclude each other, so no `rivals` edge is declared.
+
+## Note of 2026-11-12: natural meaning in the debugger's "means", from "Meaning Transmission Explained"
+
+<!-- inactive-ok-block: CLAIM-649 CASE-243 — filed from the same exchange, Proposed -->
+A3 §5 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) relays this reading's
+split between natural meaning and the intended meaning of an utterance,
+accurately, as the boundary the record keeps. The owner's "that *means*
+the alarm mechanism is broken" (U3; [CLAIM-649](../claims.d/CLAIM-649.md)) is natural meaning in
+Grice's sense only in its limiting case: factive under a deterministic,
+independently validated guarantee. In general it is evidential and
+defeasible, as the claim was narrowed at the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner
+relayed on 2026-11-12. Either way no one means anything by the silence. A4 §3's "a false alarm is still an alarm" is
+true of the alarm state; that the steam alarm still "means fire" is the
+non-factive, designed sense nearer the bus bell ([CASE-243](../cases.d/CASE-243.md)). No
+status changes.

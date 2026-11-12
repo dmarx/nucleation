@@ -213,3 +213,10 @@ interests, with no endorsement, and Frankfurt is not cited. The comparison
 is filed as [CLAIM-539](CLAIM-539.md), resting on this claim.
 
 The claim is unchanged.
+
+## Note of 2026-11-12: Étienne Brown, read
+
+From the reading in [NOTE-1792](../notes.d/NOTE-1792.md) ([LIT-2425](../literature.d/LIT-2425.md)), the reader's assessment as
+checked by the filer: compatible. Brown's remedies (binding controls, cf.
+Allcott et al.'s self-imposed limits) change conditions of efficacy, not
+preferences.

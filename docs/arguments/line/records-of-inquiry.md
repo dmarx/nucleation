@@ -6,7 +6,7 @@
 
 **What a record of inquiry keeps** — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082).
 
-0 of 77 ARG documents. Back to the [full index](../README.md).
+0 of 95 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

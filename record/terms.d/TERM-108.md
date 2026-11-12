@@ -106,6 +106,19 @@ A claim of the record's own stated in it, or a reading of McLay and
 Mayorga's paper confirming its result against the abstract. Adopting it is
 the owner's call.
 
+## Note of 2026-11-12: Moats et al. (2026), read
+
+From the reading in [NOTE-1760](../notes.d/NOTE-1760.md) ([LIT-2361](../literature.d/LIT-2361.md)), the reader's assessment as
+checked by the filer: value narrowing is the discursive counterpart, where
+the proxy keeps the outcome's name. Not cited by the LIT.
+
+## Note of 2026-11-12: Yu, Kim and Kim (2026), read
+
+From the reading in [NOTE-1752](../notes.d/NOTE-1752.md) ([LIT-2371](../literature.d/LIT-2371.md)), the reader's assessment as
+checked by the filer: the paper's "deceptively healthy" state is accuracy as
+a proxy for evidential health diverging from provenance; the authors do not
+frame it so.
+
 ## Note of 2026-11-12: Jackson et al., read
 
 Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.

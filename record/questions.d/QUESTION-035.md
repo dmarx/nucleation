@@ -36,6 +36,7 @@ summary: >-
   constitutes one system, and makes the target explicit, as
   [CLAIM-152](../claims.d/CLAIM-152.md) requires.
 ---
+<!-- inactive-ok-file: CLAIM-659 THEORY-1654 THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-902 — Unavailable, unread; named as the source of the compensation test -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed; one of the candidate tests, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection an answer must avoid, not as standing -->
@@ -97,3 +98,43 @@ criterion that every pair of interacting things satisfies is not an answer ([CLA
 
 The proposed answer is [CLAIM-157](../claims.d/CLAIM-157.md). Its first objection, that one-way
 drive should not pass ([CLAIM-173](../claims.d/CLAIM-173.md)), was rejected by [CLAIM-167](../claims.d/CLAIM-167.md).
+
+## Note of 2026-11-12: microchimerism and the boundary of a combined form, from "Medical Ethics and Media Enshitification"
+
+The microchimerism readings filed from the exchange (2026-11-11) give this
+question a biological instance in which the answer visibly depends on the
+target. For genome, the offspring contains cells of the mother's lineage;
+for tissue, those cells sit in its organs and brain; for immune regulation,
+one marked subset does the offspring's tolerogenic work while the rest
+merely persist ([THEORY-1658](../theory.d/THEORY-1658.md), [THEORY-1654](../theory.d/THEORY-1654.md)). The owner's
+[CLAIM-659](../claims.d/CLAIM-659.md) bears on it. A11 §2's four boundaries, genetic, anatomical,
+functional and immunological, are the targets.
+
+## Note of 2026-11-12: Geddes (2022), read
+
+From the reading in [NOTE-1732](../notes.d/NOTE-1732.md) ([LIT-2456](../literature.d/LIT-2456.md)), the reader's assessment as
+checked by the filer: Geddes is directly on the boundary question and gives
+the condition that tests of "one system" (organismality) do not settle
+part–whole relations between the systems inside it. Leaves it open.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in [NOTE-1765](../notes.d/NOTE-1765.md) ([LIT-2347](../literature.d/LIT-2347.md)), the reader's assessment as
+checked by the filer: / **[LIT-709](../literature.d/LIT-709.md)** (holobiont membership): the microbiota
+as both part and environment.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in [NOTE-1728](../notes.d/NOTE-1728.md) ([LIT-2348](../literature.d/LIT-2348.md)), the reader's assessment as
+checked by the filer: the immune boundary (what is tolerated) is extended by
+the cells; the genetic boundary is not.
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in [NOTE-1753](../notes.d/NOTE-1753.md) ([LIT-2358](../literature.d/LIT-2358.md)), the reader's assessment as
+checked by the filer: **bears, leaves open**. Finn's independence thesis
+applies: counting systems and fixing their part–whole relation are separate
+questions, linked only by a Maximality-type principle; and her topological
+distinctions (contact, fiat vs bona fide boundary, shared parts) give a
+vocabulary for "where its boundary lies". She supplies no criterion. Other
+held entries it bears on (found on recheck):

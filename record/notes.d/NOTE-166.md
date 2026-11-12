@@ -133,3 +133,9 @@ It carries nothing for ML practice, and there is no Anthology document it should
 - The dossier's §§9–10 bullet reduces §10 to "metaphysical fact or normative ideal". §10, "Methodological Alternatives", also presents the view that the dependence "might, in fact, run from ethics to the relations that matter". Moral theories generate ideals of personal unity: utilitarianism fits persons as "containers", Kantianism needs strong diachronic unity (Scheffler; Darwall). Korsgaard's agency argument holds that we must view ourselves as unified whatever the psychological facts. Narrative accounts (Schechtman's "characterization question") are also placed here. This is where the §11 priority question comes from.
 - The dossier omits §5's positions beyond Parfit: McMahan's momentary-consciousness criterion for dementia (McMahan 2002: 495f), the uniqueness-matters view (Johnston, Wolf, Unger), and the discount-rate consequence of weighting connectedness.
 - metaphysics tag: justified — §§1–4 set out rival metaphysical accounts of persistence (psychological criterion, animalism) and §§10–11 pose the metaphysics–ethics priority question explicitly; but most of the entry is applied ethics, so the tag is rightly not primary.
+
+## Note of 2026-11-12: Millum (2025), read
+
+From the reading in [NOTE-1734](NOTE-1734.md) ([LIT-2378](../literature.d/LIT-2378.md)), the reader's assessment as
+checked by the filer: names advance directives (Dworkin, Jaworska, Dresser)
+as identity-adjacent; Millum adds nothing on them.

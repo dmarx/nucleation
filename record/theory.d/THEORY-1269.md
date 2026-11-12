@@ -75,3 +75,8 @@ preserved the teacher, giving no change.
 - **That a student which agrees with its teacher on its data agrees
   with it elsewhere.** It does not: exact agreement on n_t points fixes
   only an n_t-dimensional part of a p-dimensional estimate.
+
+## Note of 2026-11-12: Yu, Kim and Kim (2026), read
+
+From the reading in [NOTE-1752](../notes.d/NOTE-1752.md) ([LIT-2371](../literature.d/LIT-2371.md)), the reader's assessment as
+checked by the filer: same family; no direct bearing beyond the contrast.

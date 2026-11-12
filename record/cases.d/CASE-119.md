@@ -122,3 +122,14 @@ No status changes.
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Stern et al. ([NOTE-1571](../notes.d/NOTE-1571.md)), from the pasted synthesis on constraint architectures, support the case's use as the combinatorial twin of a frustrated loop of origami vertices: every open chain of 4-vertices has a zero-energy branch assignment and closing the loop removes it, as here every pair of demands is satisfiable and the triple is not. The minimal mechanical loop has four vertices, not three, and the designed branch is jointly realizable, so the parallel is with the distractor branches, not the target. The paper has nothing answering to the case's relief by a new composite policy. No status changes.
+
+## Note of 2026-11-12: a game's economy as the hollow triangle, from "Medical Ethics and Media Enshitification"
+
+A39 §2 of the exchange (2026-11-11) cites this case correctly ("Nucleation
+already constructs this exact abstract pattern") and dresses it as a mobile
+game: revenue, accessible progression and budget protection, with three
+stipulated designs each meeting two. A's three responses are choose a face,
+delete the third demand (not relief, [CLAIM-361](../claims.d/CLAIM-361.md)) and redesign so the triple
+becomes attainable. A39: "A genuine constraint can explain why every demand
+cannot be met; it does not by itself justify which demand is sacrificed." An
+illustration; no change.

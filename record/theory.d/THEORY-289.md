@@ -148,3 +148,10 @@ the E_i independent N(0, σ²I_T).
    σ²d/(T − d − 1) and larger at every round.
 3. *Replace.* ŵ_n = ŵ_{n−1} + AE_n = w* + AΣ_{i≤n} E_i, so the error is
    σ²d/(T − d − 1)·n.
+
+## Note of 2026-11-12: Yu, Kim and Kim (2026), read
+
+From the reading in [NOTE-1752](../notes.d/NOTE-1752.md) ([LIT-2371](../literature.d/LIT-2371.md)), the reader's assessment as
+checked by the filer: and **[CLAIM-267](../claims.d/CLAIM-267.md)** (per-step discrepancies in a chain
+of maps): as above; the paper's selection step is a new map in the chain
+that neither entry models.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -36,6 +36,14 @@ history:
     way": "a stabilized specification is past inquiry stored so that
     later questions become cheaper to ask", used without re-running
     the history that produced it. No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    After the owner's review of #485 on 2026-11-12, the dated note's account
+    of CLAIM-662 is corrected to its narrowed form: expanding the
+    recognized set cannot improve conjunctive compliance or lower the count
+    of recognized violations, not that every score against the recognized
+    set can only fall. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,6 +88,7 @@ summary: >-
 bears_on:
 - QUESTION-366
 ---
+<!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1056 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1643 LIT-1662 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
@@ -254,6 +263,19 @@ status, title or warrant changes.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability proposes 𝒬_b(s), the questions an agent in state s can formulate within budget b, as "a proposed extension, not a definition already present in the record". It is this claim's askable set ([TERM-092](../terms.d/TERM-092.md)), which A17 §2 defined for an agent with concepts, budget and deadline; A's state s adds representations, memory and procedures, which [TERM-092](../terms.d/TERM-092.md)'s concepts, records and tools already cover. A's next points are this claim's consequences restated: answering one question may change the cost of formulating later ones, which "makes inquiry an architecture-changing computational process". What A adds bears on universality ([TERM-111](../terms.d/TERM-111.md)): a classification should count the cost of generating the problem representation, or it risks "classifying the power of an idealized solver". No status changes.
+
+## Note of 2026-11-12: identification is costly and can be penalized, from "Medical Ethics and Media Enshitification"
+
+A44 §3 of the exchange (2026-11-11) cites this claim accurately and adds a
+consequence filed as [CLAIM-662](CLAIM-662.md): scored against the demands it
+recognizes, an organization cannot improve its conjunctive compliance or
+lower its count of recognized violations when its inquiry recognizes more,
+so governance that penalizes newly recognized violations without rewarding
+their discovery penalizes the inquiry (as narrowed after the owner's review
+of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12). A's example of a question an organization may never formulate:
+"Are high-spending players actually achieving what they want, or does our
+choice architecture systematically undermine commitments they continue to
+endorse?" No status change.
 
 ## Note of 2026-11-12: Fang, Jian, Li and Ma, read
 

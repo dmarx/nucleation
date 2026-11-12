@@ -1,0 +1,81 @@
+---
+number: 249
+status: Proposed
+formerly:
+- CASE-tmpz1l6r
+title: 'A tolerance-indexed pass rate for a set of demands, the probability that one of k sampled courses of action of at most T steps meets every demand in the set within its tolerance, with a simulated institution whose internal evaluator sees only the demands it has discovered and an independent evaluator sees them all'
+version: 1
+standing: stipulated
+kind: construction
+tags:
+- mathematics
+- society-and-governance
+- operations-research
+date: '2026-11-12'
+line:
+- realizability
+- organizational-normativity
+illustrates:
+- CLAIM-662
+- CLAIM-663
+bears_on:
+- QUESTION-279
+- QUESTION-456
+draws_on:
+- THEORY-1703
+reported_in:
+- LIT-2441
+summary: >-
+  A's (ChatGPT's), A44 §2 and §7 of the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11), on the owner's U21. A generalization of
+  PASS@(k,T) that A marks as "a proposed generalization, not a metric
+  defined in the PASS@(k,T) paper", joining it to [CLAIM-555](../claims.d/CLAIM-555.md)'s tolerance
+  regions, and a proposed simulation that uses it. Not run. The wording is
+  A's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-662 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-555 — Proposed; the tolerance-indexed acceptance sets the construction uses -->
+
+# CASE-249: A tolerance-indexed pass rate for a set of demands, the probability that one of k sampled courses of action of at most T steps meets every demand in the set within its tolerance, with a simulated institution whose internal evaluator sees only the demands it has discovered and an independent evaluator sees them all
+
+## The case
+
+**The quantity (A44 §2).** For a policy π, a set of demands S with losses
+L_i and tolerances ε_i ([CLAIM-555](../claims.d/CLAIM-555.md)'s A_i(ε_i) = {x : L_i(x) ≤ ε_i}), and
+budgets k and T:
+
+PASS^π_{S,ε}@(k,T) = Pr[∃ j ≤ k : ∀ i ∈ S, L_i(τ^(j)) ≤ ε_i],
+
+with τ^(1), …, τ^(k) independent trajectories of at most T steps. Its axes
+are breadth k, depth T and the tolerance vector ε. It is antitone in S, by
+[CLAIM-662](../claims.d/CLAIM-662.md)'s step 1, and monotone in each ε_i.
+
+**Two probabilities (A44 §5).** "Oracle-assessed availability", the chance
+that some sampled policy is acceptable, against "Operational success", the
+chance that an acceptable policy is selected and implemented. The paper's
+pass@k credits the first; an institution needs the second, and the two
+differ when its own evaluator cannot recognize the acceptable candidate.
+
+**The simulation (A44 §7).** An institution faces a known, independently
+specified set of stakeholder requirements, some visible at once and some
+discoverable only after a sequence of inquiries. Policies with the same
+total budget split it differently among repeated shallow attempts, deeper
+investigation, verification and implementation. An internal evaluator
+scores against the requirements found so far; an independent one scores
+against all. Then reward the institution for a low internal failure count,
+and see whether it learns "to avoid inquiries likely to uncover additional
+requirements".
+
+## What it can show
+
+Whether [CLAIM-662](../claims.d/CLAIM-662.md)'s incentive produces avoidance of inquiry in an
+adaptive system, and which designs prevent it. With the tolerance axis, it
+can tell an improved pass rate by accommodation from one by relaxed
+tolerances ([CLAIM-549](../claims.d/CLAIM-549.md)'s distinction).
+
+## What it cannot show
+
+That the stipulated requirements are justified: A44 says the experiment
+"would not derive the legitimacy of the underlying requirements". And a
+finite run of failures does not show a demand set unsatisfiable, the
+limitation A44 states and [QUESTION-279](../questions.d/QUESTION-279.md) asks about.
