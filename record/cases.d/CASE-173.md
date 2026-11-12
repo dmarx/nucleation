@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpoa9h4
 title: 'Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont''s genome reduced to a seventh of E. coli''s'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -14,6 +14,13 @@ history:
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (batch 2) added from the readings of LIT-1596 and LIT-1560: corrections to what the case took from abstracts.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1049 ("above THEORY-1049's 400 kb boundary for
+    complete envelope loss"); THEORY-1051 ("That turns the case into a
+    measurement"). First application of draws_on (ADR-tmpcd2gu). No other
+    change.
 standing: documented
 kind: specimen
 tags:
@@ -31,7 +38,11 @@ reported_in:
 - NOTE-114
 summary: >-
   Buchnera lives in aphid bacteriocytes and is passed from mother to egg. Its 641-kb genome keeps the pathways for the amino acids its host needs and has lost most else ([LIT-1596](../literature.d/LIT-1596.md)); its genes evolve fast and A+T-biased under Muller's ratchet ([LIT-1573](../literature.d/LIT-1573.md)). The record's reading of Wilson and Barker reports Godfrey-Smith placing the pair as both an organism and a Darwinian individual ([NOTE-114](../notes.d/NOTE-114.md)). Used as the case of high mutual dependence and high reproductive cohesion reached through reduction, with no gene transfer to the host reported in the works it rests on.
+draws_on:
+- THEORY-1049
+- THEORY-1051
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 
 # CASE-173: Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's

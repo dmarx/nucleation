@@ -4,7 +4,18 @@ status: Active
 formerly:
 - CASE-tmph0fxi
 title: 'A proposed study: direct and relay translations of one set of source utterances through three languages, to find whether agreement between the routes, the task-relative loss on each route, and the preservation of response to later framing come apart, and whether correspondences fitted between the communities'' response structures on some items predict receivers'' judgements on held-out items, translators and situations'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1133 ("identifies a correspondence only up to the two
+    structures' symmetries (THEORY-1133)"); THEORY-1155 ("can permute a
+    block of utterances together with its block of probes at no cost
+    (THEORY-1155)"); THEORY-1129 ("Anchors break only the symmetries that
+    move them (THEORY-1129)"); THEORY-1132 ("They compose along routes
+    only when the couplings are deterministic (THEORY-1132)"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -28,7 +39,13 @@ summary: >-
   controls, and an arm that fits correspondences between the
   communities' response matrices and scores them on held-out data. Not
   run; every margin is left to a preregistration.
+draws_on:
+- THEORY-1133
+- THEORY-1155
+- THEORY-1129
+- THEORY-1132
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the record's theses and measures this design would test, cited as open -->
 
 # CASE-185: A proposed study: direct and relay translations of one set of source utterances through three languages, to find whether agreement between the routes, the task-relative loss on each route, and the preservation of response to later framing come apart, and whether correspondences fitted between the communities' response structures on some items predict receivers' judgements on held-out items, translators and situations

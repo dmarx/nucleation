@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpl995z
 title: 'A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -34,6 +34,13 @@ history:
     regimes show one connection in different dynamics with identical
     holonomy, and "CASE-179 is the natural place to run it, as an
     added readout of its frustrated-maps regime". No other change.
+- version: 6
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1088 ("by consistency alone, as in discourse sheaves
+    (THEORY-1088)"); THEORY-1090 ("reduction can need higher-order
+    relations (THEORY-1090)"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -57,7 +64,11 @@ summary: >-
   the apparatus did not choose. Not run.
 bears_on:
 - QUESTION-319
+draws_on:
+- THEORY-1088
+- THEORY-1090
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-251 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp6z1ew
 title: 'Two friendships across a group line: in one, the friend becomes an exception and the person''s view of the friend''s group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -15,6 +15,12 @@ history:
     members of the category, citing this thought experiment, which
     holds the friendship fixed and varies "whether the friend's
     conduct is allowed to bear on the category". No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-044 ("relational frame theory (THEORY-044) gives a
+    mechanism for the second outcome"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -33,7 +39,10 @@ summary: >-
   the category.
 bears_on:
 - QUESTION-262
+draws_on:
+- THEORY-044
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-044 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 
 # CASE-146: Two friendships across a group line: in one, the friend becomes an exception and the person's view of the friend's group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns
 

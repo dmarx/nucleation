@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpn75cv
 title: 'Federal science and education in the United States, 2025–2026: grants cancelled, frozen and in part reinstated, staff departures, advisory committees ended and research programs suspended, so that funding, organization and scientific capacity could be restored, or not, separately'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,12 @@ history:
     Note of 2026-10-29 added: Jasanoff and Fiss read, and Herd and
     Moynihan's introduction (NOTE-1357, NOTE-1364,
     NOTE-1382). The case is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-136 ("which is THEORY-136's caution"); THEORY-151 ("On
+    Longino's account (THEORY-151)"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -34,7 +40,11 @@ summary: >-
   restored without the organization it supported, and of capacity lost
   without output falling. Not shown: the size of any loss. Every figure is
   the exchange's, from reports this filing has not read.
+draws_on:
+- THEORY-136
+- THEORY-151
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-151 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 
 # CASE-172: Federal science and education in the United States, 2025–2026: grants cancelled, frozen and in part reinstated, staff departures, advisory committees ended and research programs suspended, so that funding, organization and scientific capacity could be restored, or not, separately
