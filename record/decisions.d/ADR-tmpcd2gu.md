@@ -68,7 +68,23 @@ edge ([ADR-058](ADR-058.md)).
    both. A reading cited only as where a word or case was first named, or
    in passing, takes no edge ([ADR-058](ADR-058.md)). A case that is evidence for a
    claim reaches the claim (`illustrates`, `counterexample_to`), not the
-   reading.
+   reading. The first application settled the near cases:
+   - **A reading of a work the case already reports** is provenance where
+     the case cites it for what the work reports about this case, and
+     `draws_on` where the case uses the work's general result (a
+     classification, a threshold, a model).
+   - **A contrast draws on the reading when it does work**: it sets the
+     case's design ("the null to beat", a feedback the case's protocol
+     differs from) or corrects the case's reading of its result. A
+     contrast that does nothing in the case takes no edge.
+   - **A reading whose conditions limit what the case can infer** is a
+     threat to inference, `draws_on`. A reading whose stronger thesis the
+     case only says it cannot show takes no edge.
+   - **A check the case plans** counts as much as one it has run.
+   - **For a term, a "what it is not" line that sets the definition
+     against a reading's usage** draws on it; a homonym, a placement of
+     the reading on the term's scale, or an instance of what the term
+     names takes no edge unless the term's account is built from it.
 5. **The readings view counts it as use** ([ADR-090](ADR-090.md)): a reading a case or
    term draws on serves that entry's first line.
 6. **Syntheses are not covered.** An account that names a reading still
