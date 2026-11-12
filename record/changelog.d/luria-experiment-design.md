@@ -10,5 +10,5 @@
 
 ### Fixed
 
-- Seven reading THEORYs whose `promote_when` a filing script had emptied into the title get both back from the readers' drafts; [CLAIM-tmp8qsef](record/claims.d/CLAIM-tmp8qsef.md)'s heading matches its version-2 title; [THEORY-tmpr15xp](record/theory.d/THEORY-tmpr15xp.md) drops `software-engineering`, which joins the topics only with dmarx/nucleation#487.
+- Seven reading THEORYs whose `promote_when` a filing script had emptied into the title get both back from the readers' drafts; [CLAIM-tmp8qsef](record/claims.d/CLAIM-tmp8qsef.md)'s heading matches its version-2 title; [THEORY-tmpr15xp](record/theory.d/THEORY-tmpr15xp.md) keeps `software-engineering` and COPE (LIT-tmp5mdsg) takes it, now that the word has joined the topics (dmarx/nucleation#487).
 - At the owner's review of #484 (2026-11-12): CLAIM-tmppk8g6, version 2, holds only the governance-by-modifiability interaction on tasks whose categories are inadequate; its routine-task prediction is filed apart as CLAIM-tmpbszhs, secondary and not resting on it; CASE-tmppm4do, ARG-tmpyprz6 and SYNTHESIS-tmpohyzz follow the split. CASE-tmpiocs1, version 2, adds HiddenBench's Secretary arm and a schema-shaped Secretary to its main table, says how its shared-notes arm differs from Secretary, and says what result would show a record wins only by doing Secretary's job better.
