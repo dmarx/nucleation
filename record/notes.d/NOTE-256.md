@@ -42,6 +42,7 @@ summary: >-
   favours a short list of capabilities over the promotion of freedom
   across the board.
 ---
+<!-- inactive-ok-file: LIT-tmp2vf7t — Unavailable; registered 2026-11-12 -->
 
 <!-- inactive-ok-file: THEORY-025 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
@@ -235,3 +236,10 @@ What the paper argues, in order.
   - that pluralism is "not his concern" as a reason against a list (fn 17).
 
   These are her unrecorded reports of oral remarks, not Sen's text.
+
+## Note of 2026-11-12: Kittay's Love's Labor registered
+
+This note's "Adding care to the primary goods (Kittay)" is the section
+"Care as a Primary Good" of Kittay's Love's Labor, now registered as
+LIT-tmp2vf7t (Unavailable on 2026-11-12; her 2026 interview,
+LIT-tmpfs8rn, stands in partly).

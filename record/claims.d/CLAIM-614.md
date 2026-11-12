@@ -95,9 +95,10 @@ summary: >-
   answers are [CLAIM-624](CLAIM-624.md) and [CLAIM-619](CLAIM-619.md), which are A's and not
   the owner's.
 ---
+<!-- inactive-ok-file: LIT-tmph9tz9 — Unfetched; registered from the same exchange -->
+<!-- inactive-ok-file: THEORY-225 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: LIT-tmph9tz9 — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form, credited as on the record -->
 <!-- inactive-ok-file: CLAIM-620 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the synthesis this complements and A's answers -->
 
@@ -218,3 +219,15 @@ participants' claims concerning those contributions remain ineffective
 in governing or transforming the organization." It is audited in the
 curation entry of 2026-11-12; its open part is [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md). No
 status changes.
+
+## Note of 2026-11-12: held readings on gaslighting, found on recheck
+
+The gaslighting review A9 proposed as a boundary test (LIT-tmph9tz9) is
+Unfetched. The record already holds two readings on that boundary, which
+the first search missed. Fricker's 2017 retrospective (THEORY-327,
+NOTE-853) sets intentional gaslighting apart from testimonial injustice,
+which is non-deliberate; and the covert-influence analysis of manipulation
+(THEORY-225, NOTE-744) fits gaslighting among other cases, the question
+QUESTION-070 asks of an organized whole. Whether this claim's
+counter-normativity needs an intending actor is the boundary; neither
+reading is evidence for or against the claim, so no relation is written.

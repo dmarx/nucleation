@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'If being vulnerable to another''s choices grounds special responsibilities in the one who controls them, then a whole that comes to supply what its constituents once supplied for themselves, and so to control conditions they can no longer secure on their own, incurs responsibilities toward them that grow as that integration deepens; what grounds them is the constituents'' vulnerability to the whole, not their functional importance to it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -13,6 +13,16 @@ history:
     and parts with standing. A dated note records Fineman's reading
     and ARG-tmpmc9mt, which finds that it does not support the claim
     as titled. The claim is unchanged and stays Proposed.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    After the Goodin and Kittay sources reached on 2026-11-12: defeated_if
+    gains a route its defeaters did not list, a duty met by transferring
+    the parts' vulnerability to another protector (Carroll and
+    Crutchfield's restatement of Goodin). A dated note records what the
+    sources show: the supposition is Goodin's, the consequent is not shown
+    to be his, and two qualifications. Goodin's own text was not read; the
+    claim stays Proposed.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +34,10 @@ defeated_if: >-
   choices, because they keep a credible exit or an alternative supplier,
   so that integration deepens without their vulnerability growing; then
   responsibility does not track integration as such, only vulnerability.
+  Or the whole can meet its responsibility by transferring its parts'
+  vulnerability to another protector, as a parent may by adoption on the
+  restatement of Goodin by Carroll and Crutchfield, so that integration
+  can deepen while the whole's own responsibility does not grow.
   Not defeated by a part that is indispensable to the whole and owed
   nothing in particular, which the claim's last clause allows.
 tags:
@@ -52,12 +66,13 @@ summary: >-
   up a capability. A candidate answer to the owner's [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md),
   for one ground. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t — Unavailable; registered from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmpt62g0 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-tmpk4d9t — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: ARG-tmpmc9mt — filed from the exchange "About Plantation Paradise" (2026-11-12), Rejected -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the premise this rests on, open -->
 <!-- inactive-ok-file: CLAIM-096 QUESTION-007 — Deferred; the authenticity line's reciprocal agency and its question, cited for the note that interdependence does not entail obligation -->
 <!-- inactive-ok-file: TERM-083 CLAIM-428 — Proposed; cited with their standing -->
-<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmp2vf7t — Deferred; filed from the same exchange, unread -->
 
 # CLAIM-tmpwn3wr: If being vulnerable to another's choices grounds special responsibilities in the one who controls them, then a whole that comes to supply what its constituents once supplied for themselves, and so to control conditions they can no longer secure on their own, incurs responsibilities toward them that grow as that integration deepens; what grounds them is the constituents' vulnerability to the whole, not their functional importance to it
 
@@ -171,3 +186,41 @@ monitored by the state", p. 272). That supports the governance clause A12
 to integration-made vulnerability. The claim's defeat conditions are not
 met: she grounds a special responsibility, in the state's constitutive
 role. No status change.
+
+## Note of 2026-11-12: Goodin and Kittay, as far as reached
+
+Goodin's book (LIT-tmpgqxcj) and article (LIT-tmpkfwc3) are Unavailable;
+his own text was not read. The claim stays Proposed. What the sources
+reached show, all about sense-3 wholes and persons (TERM-074): families,
+clients, compatriots, the state.
+
+- **The supposition is Goodin's.** The APSR abstract: "it is the
+  beneficiary's vulnerability rather than any voluntary commitment as such
+  on the part of the benefactor that generates these special
+  responsibilities", and agents may be vulnerable to us "individually or
+  collectively".
+- **The consequent is not shown to be his.** His cases are families,
+  friends, clients, compatriots, the state, foreign aid and future
+  generations; none is a whole and its own parts. A restatement by Carroll
+  and Crutchfield (2022, CQHE 31(3)) reads the duty's strength as varying
+  "according to the degree of dependence", which fits the claim only
+  insofar as integration raises dependence, as the claim already says.
+- **A route the defeaters did not list**, now added: the same restatement
+  lets the duty be discharged "by transferring the child’s vulnerability to
+  another person". The contents' chapter "Invulnerability as an
+  Alternative" may hold a cognate route, reducing dependence instead of
+  protecting within it. Unread.
+- **A qualification from the abstract**: "the welfare state can satisfy
+  the criteria of a morally acceptable dependency relationship". Goodin
+  appraises dependencies themselves, not only the responsibilities they
+  generate, so a whole's response to growing dependence would be judged by
+  whether the dependence is acceptable. The criteria are in the unread
+  body.
+- **A qualification from Kittay** (THEORY-tmpt62g0, her 2026 interview):
+  the tension "between insisting on support and seeing to it that there is
+  non-domination on the part of those who give support", and "keeping the
+  state pretty far away from the actual dependency relationships
+  themselves". Growing responsibility is not warrant for growing control.
+  Love's Labor itself (LIT-tmp2vf7t) is Unavailable.
+
+No status change.

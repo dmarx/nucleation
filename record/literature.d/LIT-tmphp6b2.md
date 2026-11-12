@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "About Plantation Paradise" (2026-11-12), A9, as a work A cited; left for a reading pass. No copy was sought in this filing.
+  searched 2026-11-12 and found no lawful copy: Semantic Scholar marks it closed and gives no abstract; the publisher's page (journals.aom.org/doi/10.5465/AMPROC.2026.158bp) served a Cloudflare challenge, not retried; a web search found no preprint or program listing. Nothing was read.
 title: 'A Multilevel Framework for Understanding Racialized Exclusion in Organizations'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A9). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives Nurse, O'Toole and Darden, Academy of Management Proceedings 2026(1), issued July 2026 with no day, so `published` is the first of the month. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unavailable on 2026-11-12, at the reading pass the owner asked for ("read the works you can reach"): closed, no copy; nothing read, so A9's description stays unverified. Recorded as Unavailable rather than the reader's Unfetched: no lawful free copy was located (ADR-041, ADR-053).
 tags:
 - social-science
 - society-and-governance

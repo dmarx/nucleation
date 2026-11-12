@@ -82,7 +82,8 @@ summary: >-
   label and [CLAIM-464](CLAIM-464.md)'s pre-emptive intervention. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpjm1op — Deferred; filed from the exchange of 2026-11-12, unread -->
+<!-- inactive-ok-file: NOTE-tmpqarad — Skimmed; filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-tmpvkzx3 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-118 CLAIM-614 — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: LIT-1311 — Proposed or Unavailable; cited with their standing -->
@@ -192,3 +193,16 @@ claim's test, whether a credible challenge causally lowers the chance of
 effective future challenge against a control, is the intervention form
 of that method; Ahmed's accounts are where A expects the material. No
 status changes.
+
+## Note of 2026-11-12: Ahmed, skimmed
+
+Ahmed's Complaint! (THEORY-tmpvkzx3, skimmed in NOTE-tmpqarad from the
+Introduction), about universities, sense 3 (TERM-074), corroborates the
+phenomenon this claim describes, not its test. "the same complaints
+procedures used as tools to redress bullying and harassment can be used
+as tools to bully and to harass" (p. 24); those who complain become "more
+likely to be complained about" (p. 25); people decide not to complain
+because of past experience (pp. 20–21). The evidence is testimony without
+a control, so it cannot show that a credible challenge causally lowers the
+chance of effective future challenge. Filed as `corroborates`. Chapters 1
+and 2 are the next reading. No status change.

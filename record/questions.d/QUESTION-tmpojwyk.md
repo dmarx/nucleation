@@ -23,6 +23,7 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)) is its case.
 ---
+<!-- inactive-ok-file: THEORY-tmpt62g0 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-tmpp9650 THEORY-tmpf6iis — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-603 CLAIM-614 CLAIM-619 CLAIM-624 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: CASE-tmpwmg3h CLAIM-tmp16mkz — filed from the same exchange, Proposed -->
@@ -140,3 +141,14 @@ that kind of organization.
   Whether the theatre depended on her is not argued.
 
 Both carry `bears_on` this question. The question is unchanged.
+
+## Note of 2026-11-12: Kittay, as far as reached
+
+Kittay's 2026 interview (THEORY-tmpt62g0), standing in for Love's Labor,
+is about persons and society, sense 3 (TERM-074). Unpaid dependency work is
+the paradigm of an indispensable contribution kept from becoming a claim:
+"unless it's remunerated, we're really exploiting those who we put on the
+pedestal". Her answer is not the contributors' bargaining power but a
+public principle, doulia, support owed by the wider society. That is A's
+fourth candidate answer, change through institutions outside the
+relation. Filed as `bears_on`. The question is unchanged.

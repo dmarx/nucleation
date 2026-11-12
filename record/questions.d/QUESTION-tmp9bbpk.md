@@ -38,6 +38,8 @@ summary: >-
   of what the whole owes its parts. Refines [QUESTION-128](QUESTION-128.md), which asks what
   moral authority needs beyond an organization's own dynamics.
 ---
+<!-- inactive-ok-file: THEORY-tmpt62g0 — Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpo4ghu THEORY-tmp3vb9p THEORY-tmpk4d9t THEORY-tmpsj1yx THEORY-tmprbzkv — Proposed, filed 2026-11-12; the readings this note places -->
 <!-- inactive-ok-file: ARG-tmpmc9mt — filed 2026-11-12, Rejected -->
 <!-- inactive-ok-file: LIT-tmpy5p2r LIT-tmpzmede — Unfetched; registered from the same exchange -->
@@ -251,3 +253,25 @@ sense it is about. None answers the question in its default sense 1.
 Each reading carries `bears_on` this question. The prior part, whether a
 whole that is not an agent can owe anything beyond the functional, is
 untouched by all of them. The question stays Open.
+
+## Note of 2026-11-12: Kittay and Goodin, as far as reached
+
+Both are about sense-3 wholes (TERM-074): society, the state, and persons
+as carers, clients and citizens. Neither transfers to the question's
+default sense 1, where the whole need not be an agent and the parts need
+not be persons.
+
+- **Kittay** (THEORY-tmpt62g0, her 2026 interview, standing in for Love's
+  Labor, LIT-tmp2vf7t, Unavailable): doulia, support owed by the wider
+  society to carers, rests on "nesting relations of dependency" that are
+  "the basis of our society". For sense-3 wholes that supports a ground
+  in constitutive maintenance work, owed by the encompassing arrangement to
+  those whose work sustains it. Its bearer is society through persons, and
+  Kittay now keeps the state "pretty far away from the actual dependency
+  relationships themselves". Filed as `bears_on`.
+- **Goodin** (LIT-tmpgqxcj, LIT-tmpkfwc3, Unavailable): the abstract and
+  description confirm the vulnerability ground, held by agents
+  "individually or collectively". Not read; no relation written.
+
+The prior part, whether a whole that is not an agent can owe its parts
+anything beyond the functional, is untouched. The question stays Open.

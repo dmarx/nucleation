@@ -1,14 +1,16 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "About Plantation Paradise" (2026-11-12), A9, as a work A cited; left for a reading pass. No copy was sought in this filing.
+status: Active
 title: 'Complaint!'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A9). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives Sara Ahmed, Duke University Press, 2021-08-09. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12 at the reading pass the owner asked for ("read the works you can reach"), in NOTE-tmpqarad, from Duke University Press's open sample (front matter and Introduction); account THEORY-tmpvkzx3. Metadata confirmed; the contents name chapter 7 as by Leila Whitley, Tiffany Page and Alice Corble, with others. Status Active: worth reading in full for CLAIM-619 and CLAIM-523.
 tags:
 - social-science
 - society-and-governance
@@ -23,8 +25,10 @@ keywords:
 - 'harassment'
 implementations: []
 summary: >-
-  Sara Ahmed (2021). Complaint! Duke University Press. DOI-10.1215/9781478022336. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A9. A9 calls it almost a direct empirical interlocutor for [CLAIM-619](../claims.d/CLAIM-619.md) (the counter-corrective disposition) and a way to operationalize [CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements. It bears on [QUESTION-441](../questions.d/QUESTION-441.md).
+  Sara Ahmed (2021), Complaint!, Duke University Press, DOI-10.1215/9781478022336 (chapter 7 co-written with Whitley, Page and Corble and others). Skimmed on 2026-11-12 in NOTE-tmpqarad, from the publisher's sample (the Introduction); account THEORY-tmpvkzx3. Complaint as a phenomenology of the institution: procedures that reproduce what they address and can be turned against complainants; uptake by rank. Corroborates CLAIM-619's phenomenon without its test. Chapters 1–2 are the next reading.
 ---
+<!-- inactive-ok-file: THEORY-tmpvkzx3 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
+<!-- inactive-ok-file: NOTE-tmpqarad — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 <!-- inactive-ok-file: CLAIM-619 — Proposed; cited as on the record -->
 
 # LIT-tmpjm1op: Complaint!
@@ -33,7 +37,7 @@ Sara Ahmed (2021). *Complaint!* Duke University Press. DOI-10.1215/9781478022336
 
 ## Key takeaways
 
-*Not read; as A describes it.* A9 §3: from accounts of complaints about harassment, bullying and working conditions in universities, how organizations keep procedures for accountability while making complaints exhausting, ineffective or damaging to complainants. A proposes reading a complaint as a probe of the institution's capacity to recognize, transmit and act on challenge. Unverified until read.
+Skimmed in NOTE-tmpqarad, the Introduction only. Forty interviews and eighteen statements; complaint as "a phenomenology of the institution"; procedures that reproduce the problems they address and can be used "to bully and to harass"; complaints go further the higher their support.
 
 ## Standing in the record
 
