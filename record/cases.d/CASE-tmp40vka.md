@@ -136,4 +136,4 @@ measured performance rankings."
 
 ## Note of 2026-11-12: a staleness term
 
-CLAIM-tmpnwq8a, the assistant's, proposes a cost the thread's commenters, as A reported them, do not name: a character LoRA is tied to its base model, so a new base model ends its reuse. It is Proposed and rests, so far, on one sentence of the IP-Adapter abstract about a neighbouring kind of fine-tuning.
+[CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md), the assistant's, proposes a cost the thread's commenters, as A reported them, do not name: a character LoRA is tied to its base model, so a new base model ends its reuse. It is Proposed and rests, so far, on one sentence of the IP-Adapter abstract about a neighbouring kind of fine-tuning.

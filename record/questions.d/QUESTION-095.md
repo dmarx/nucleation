@@ -224,6 +224,6 @@ At U6 of the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83e
 - **It adds a change in costs over time.** The scaling readings fix the technology and vary demand. The case asks how a change in per-use cost across model generations moves the break-even, which none of the readings above measures.
 - **It does not settle anything.** The thread could not be read here (it redirected to a login page on 2026-11-12), and A's report of it is unverified. A: "the thread doesn't establish a controlled cost-and-quality comparison."
 
-The assistant (Claude, in the filing session) added a staleness term the readings lack, filed as CLAIM-tmpnwq8a, Proposed: a specialization learned into weights goes stale when its base model is replaced, while what it encodes stays right, so the reader's turnover caps expected reuse. Its proposed test is a transfer arm in CASE-tmp3isyl's design. The reading of IP-Adapter, its one piece of evidence so far, is still owed.
+The assistant (Claude, in the filing session) added a staleness term the readings lack, filed as [CLAIM-tmpnwq8a](../claims.d/CLAIM-tmpnwq8a.md), Proposed: a specialization learned into weights goes stale when its base model is replaced, while what it encodes stays right, so the reader's turnover caps expected reuse. Its proposed test is a transfer arm in [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md)'s design. The reading of IP-Adapter, its one piece of evidence so far, is still owed.
 
 The question stays Open.
