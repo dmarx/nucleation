@@ -1,0 +1,64 @@
+---
+status: Read
+paper: LIT-tmpda5as
+title: 'Basurto, Kingsley, McQueen, Smith and Weible — A Systematic Approach to Institutional Analysis: Applying Crawford and Ostrom''s Grammar'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from
+    https://dukespace.lib.duke.edu/server/api/core/bitstreams/d0cc84f8-8b66-4ea9-8c35-228da83d3d49/content.
+    **Read** (2026-11-12), in full. A delegated reader drafted the reading;
+    quotations were rechecked by script against the downloaded copy, and any
+    that did not match were kept as paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  The first empirical application of Crawford and Ostrom's grammatical
+  syntax: two pieces of US legislation (the metropolitan planning
+  organization section of TEA-21, and a Georgia abortion bill) are
+  partitioned into institutional statements, coded by the five components,
+  classified as strategies, norms or rules, and analysed in nested form
+  around a focal attribute. Intercoder reliability is reported and the
+  hardest coding decisions are listed as open problems for the syntax.
+  Coding guidelines that move the grammar "from theory development to
+  application", with reliability figures and a list of where the syntax is
+  ambiguous in practice.
+---
+
+# NOTE-tmprntmd: Basurto, Kingsley, McQueen, Smith and Weible — A Systematic Approach to Institutional Analysis: Applying Crawford and Ostrom's Grammar
+
+## Contribution
+
+Coding guidelines that move the grammar "from theory development to application", with reliability figures and a list of where the syntax is ambiguous in practice.
+
+## Key results
+
+- The grammar's components (Background): “attribute (A), deontic (D), aim (I), condition (C), and or else (O)”.
+- The three statement types (Background): “Strategies include only the attribute, aim, and a condition (AIC); norms include the attribute, deontic, aim, and condition (ADIC); and rules consist of the entire syntax”.
+- Crawford and Ostrom's definition, quoted (Introduction, citing 1995 p. 583): “Institutional statement refers to the shared linguistic constraint or opportunity that prescribes, permits, or advises actions or outcomes for actors (both individual and corporate).”
+- The authors relax the original's coding rules: they allow implicit deontics, where Crawford and Ostrom (2005, 144) require them explicit, and they do not require the or else “to be backed by another institutional statement for enforcement or the incentives of the monitors” (Background).
+- Reliability (Results, Part 1, Table 3): agreement reached 80% for the abortion bill but not always for the transportation bill (units of observation 90% vs 71%; attributes 94% vs 70%); “near-perfect reliability” for classifying strategies, norms and rules.
+- The hardest distinction (Conclusions): “The hardest part of the syntax to apply was distinguishing between aims and conditions.”
+- Nesting changes classification (Conclusions): viewed as part of a larger constitutional system, the coded statements “might all be viewed as rules—regardless of the presence or absence of an or else statement”, because sanctions can sit in separate legislation.
+
+## Assumptions
+
+Legislation can be partitioned into sentence-level units; the smallest unit is one institutional statement; prescriptive force is treated as equal across must/should.
+
+## Concepts
+
+Institutional statement; ADICO; strategy, norm, rule; deontic; or else; holons and nesting; units of observation vs analysis; intercoder reliability.
+
+## Bearing on the record
+
+It restates the syntax and Crawford and Ostrom's definitions, and reports which of their requirements it relaxes. It does not restate what the 1995 abstract says the paper also does: its methods for operationalizing the syntax beyond coding, its application to cooperation in collective dilemma situations, and its discussion of the grammar's pragmatics.
+
+- **[CLAIM-086](../claims.d/CLAIM-086.md)** (a constraint may govern conduct without governing the conditions under which it remains authoritative): **supports, as an instance from coding practice**. Whether a statement is a rule depends on an or else that may sit in another statement or another law; the prescription and what makes it binding are coded separately.
+- **[CLAIM-410](../claims.d/CLAIM-410.md)** (removing a constraint changes a profile of governing positions): **leaves open**; the paper codes who must do what, not positions of rule-making, monitoring and revision.
+- **[QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)**: **leaves open**. Relevant only as a reminder that a schema rule ("must carry a relation") and the authority to change it are different statements; the paper does not discuss changing rules.
+- **[CLAIM-419](../claims.d/CLAIM-419.md)** (the record's grammar amendable by decision): no bearing beyond analogy; not claimed.
+
+## Limitations
+
+Two bills; two coders on samples; US legislation only; coding conventions deliberately depart from the original.

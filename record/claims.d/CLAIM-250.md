@@ -38,6 +38,7 @@ summary: >-
   Proposed and not adopted.
 ---
 <!-- inactive-ok-file: CLAIM-189 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpe8wmn THEORY-tmpx4v17 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 # CLAIM-250: What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes
 
 ## The claim
@@ -93,3 +94,12 @@ defeat condition. [CASE-086](../cases.d/CASE-086.md) and [CASE-090](../cases.d/C
 an argument through revision. Neither is a revision that kept the
 structure and lost what its participants count as the argument, or the
 reverse.
+
+## Note of 2026-11-12: Hegde et al. and Lebo, Sahoo and McGuinness (eds.), read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Hegde et al.** ([THEORY-tmpe8wmn](../theory.d/THEORY-tmpe8wmn.md)): **leaves open**; KGCL records what changed, not why.
+- **Lebo, Sahoo and McGuinness (eds.)** ([THEORY-tmpx4v17](../theory.d/THEORY-tmpx4v17.md)): PROV-O provides the what was asserted, by whom, from what, revised from what part, not the "why" or "what justified" part. Qualifies: it shows which part of CLAIM-250's structure an existing standard covers.
+
+The claim is unchanged.

@@ -94,6 +94,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-854 THEORY-864 — Proposed; readings of 2026-10-21 cited as the loop's empirical shape and as an assertion of it, corroboration and context, not grounds -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; Pohlhaus and Dotson, named as works A24 drew on that no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-276 THEORY-317 THEORY-326 THEORY-145 THEORY-151 — Proposed; claims and readings this one cites where it bears, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp0t4ni — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-406: Structural, pre-emptive testimonial injustice has the form of the record's trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain
 
@@ -220,3 +221,11 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
   al. gloss Pohlhaus's term secondhand ("the continued misunderstanding or
   misinterpretation of marginalized experiences despite their
   articulation"), which is not a reading of Pohlhaus.
+
+## Note of 2026-11-12: Falbo, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Falbo** ([THEORY-tmp0t4ni](../theory.d/THEORY-tmp0t4ni.md)): Falbo's "preemption" is hermeneutical, not testimonial pre-emption in CLAIM-406's sense (not being asked); the shared word should not be read as the same mechanism. [CLAIM-619](CLAIM-619.md)'s reclassification of a challenge is close to her "defeat" by a distorting concept.
+
+The claim is unchanged.

@@ -84,6 +84,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-470 THEORY-429 — Proposed; open claims and a reading this claim complements or cites as the transfer case, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-841 — Proposed; Hayek's argument, cited as context for the transfer case, nothing here rests on it -->
+<!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-tmpqtonx THEORY-tmpymq8w — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-410: Removing a constraint on an organization's members does not move it along one scale of more or less governance: it changes a profile of who holds governing positions, among them rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members' first-order options and their share in revising the conditions of their action can move in opposite directions
 
@@ -211,3 +213,30 @@ not equivalent to having a viable path to remedy." Appeal is a position in
 the profile; whether a decision on appeal can be carried out is a relation
 among the positions, [TERM-085](../terms.d/TERM-085.md)'s correctability, and the question of
 what keeps it is [QUESTION-278](../questions.d/QUESTION-278.md).
+
+## Note of 2026-11-12: the profile as an experimental variable, from "luria experiment design"
+
+A34 §5 and A48 §6 of the exchange "luria experiment design" (2026-11-10,
+https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) take this
+claim into the design of agent studies: rather than compare a governed
+with an ungoverned record, "vary who has each authority", so that an agent
+"might be able to file evidence but not endorse it; approve a claim but not
+modify its scheme; or propose a schema amendment that requires another
+agent's review". A48 §6: "governance should not be treated as a single
+strictness parameter", and compares centralized, delegated and
+peer-reviewed authorization, leaving voting out of a first study. With
+[CLAIM-086](CLAIM-086.md) and [CLAIM-272](CLAIM-272.md), A34 separates "Content influence" from
+"Constitutive influence", which agents set the categories and procedures
+that govern the account. A50 §3 maps Polski and Ostrom's operational,
+collective-choice and constitutional rules ([LIT-tmp5rs7c](../literature.d/LIT-tmp5rs7c.md), unread) onto the
+same positions. [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) carry the design. The
+claim is unchanged.
+
+## Note of 2026-11-12: Basurto, Kingsley, McQueen, Smith and Weible and Polski and Ostrom, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Basurto, Kingsley, McQueen, Smith and Weible** ([THEORY-tmpqtonx](../theory.d/THEORY-tmpqtonx.md)): **leaves open**; the paper codes who must do what, not positions of rule-making, monitoring and revision.
+- **Polski and Ostrom** ([THEORY-tmpymq8w](../theory.d/THEORY-tmpymq8w.md)): **Supports in part.** The seven rule types, especially position, boundary and authority, together with the three levels, give a richer profile than "more or less governance". This is consistent with CLAIM-410's claim that authority can be eliminated, distributed or transferred. The chapter does not discuss deregulation as such.
+
+The claim is unchanged.

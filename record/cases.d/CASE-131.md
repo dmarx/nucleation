@@ -29,6 +29,7 @@ summary: >-
   grammar. Not shown: that such moves are always caught.
 ---
 <!-- inactive-ok-file: CLAIM-181 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: ARG-tmp8fx47 CASE-tmppm4do CLAIM-tmpefs1h — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
 # CASE-131: The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation
 
@@ -63,3 +64,21 @@ the grammar did force the move before it was amended.
 That forcing is always noticed. This one was noticed because the false
 converse was written somewhere visible. A move forced into a shape that
 produces nothing false would leave no trace.
+
+## Note of 2026-11-12: the case as the seed of a benchmark, and what a migration should keep, from "luria experiment design"
+
+Every evaluation of governed schema change in the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) starts from this case,
+and A's account of it is accurate: A27, A29 and A39 Study D (start before
+[ADR-044](../decisions.d/ADR-044.md), score the semantic property, not the field name); A31 and A39
+§5 D5 (three agents who meet the misfit from different sides); A36 E8 (an
+object, a representational and a governance failure); and A45 §4, which
+writes four versions of it: the relation exists and is misfiled; it is
+absent; it is proposed and the acceptance procedure rejects new relations;
+and the review procedure has been altered so it no longer catches false
+inferred dependencies. [CASE-tmppm4do](CASE-tmppm4do.md) gathers the design.
+
+A25 drew a further consequence: "Preserving the original graph exactly
+would preserve the false dependency in CASE-131." That is filed as
+[CLAIM-tmpefs1h](../claims.d/CLAIM-tmpefs1h.md), with [ARG-tmp8fx47](../arguments.d/ARG-tmp8fx47.md). This case's "What it does not show" is
+also A25's methodological point: a schema history "cannot tell us how many
+contributions were misclassified or abandoned because they did not fit".

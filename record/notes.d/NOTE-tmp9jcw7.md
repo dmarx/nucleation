@@ -1,0 +1,129 @@
+---
+status: Read
+paper: LIT-2327
+title: 'Zhang, Hu, Lu, Lange and Clune — Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from https://arxiv.org/pdf/2505.22954. **Read** (main
+    text §§1, 3–6 and ethics statement read; §2 related work skimmed; Appendix
+    A.1 baselines and Appendix H hallucination case study read; other
+    appendices skipped). Read 2026-11-12. A delegated reader drafted the
+    reading; quotations were rechecked by script against the downloaded copy,
+    and any that did not match were kept as paraphrase without quotation
+    marks.
+date: '2026-11-12'
+summary: >-
+  The DGM is a coding agent that improves itself by editing its own code
+  repository and keeps every viable variant in an archive. Each iteration
+  picks a parent from the archive (weighted toward high scorers with few
+  children), has it read its own benchmark logs, propose a feature and
+  implement it in its own code; the child is evaluated on coding benchmarks
+  (SWE-bench Verified subset, Polyglot) and archived if it can still edit
+  code. Because self-modification is itself a coding task, better coding
+  scores are taken as better self-improvement ability.
+---
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+
+# NOTE-tmp9jcw7: Zhang, Hu, Lu, Lange and Clune — Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents
+
+## Contribution
+
+- An empirical relaxation of the Gödel machine: replace proofs of improvement with
+  benchmark evidence.
+- Open-ended, archive-based exploration of self-modifications, so low-scoring variants can
+  serve as later stepping stones.
+- Ablations separating the contribution of self-improvement from that of the archive.
+
+## Key results
+
+1. §3, p. 4: "The DGM relaxes the Gödel Machine’s impractical requirement of theoretically
+   proving that a change will improve the system, instead requiring empirical evidence from
+   experiments".
+2. Abstract: "increasing performance on SWE-bench from 20.0% to 50.0%, and on Polyglot from
+   14.2% to 30.7%."
+3. §3, p. 4: "Only agents that compile successfully and retain the ability to edit a given
+   codebase are added to the DGM archive".
+4. §3, p. 5: "Currently, the open-ended exploration process (i.e., archive maintenance,
+   parent selection) is fixed and not modifiable by the DGM".
+5. §4.4, p. 7: "DGM w/o self-improve improves the agents in early iterations, but its gains
+   taper off quickly"; without the archive "a poorly performing self-modification makes
+   subsequent improvements harder to achieve".
+6. §4.4: "although the agent’s score temporarily fell below that of its parent, the DGM was
+   still able to explore innovations along that path" (iterations 4 and 56).
+7. §6, p. 10: "A key assumption in this work is that coding benchmarks are a good
+   reflection of the agent’s ability to self-improve".
+8. §5, p. 9: "if evaluation benchmarks do not fully capture all desired agent properties
+   (e.g., safety and robustness), the self-improvement loop could amplify misalignment over
+   successive generations."
+9. Appendix H, p. 70: "the hallucination checking functions are hidden from the coding agent
+   during self-modification. We found that objective hacking ... occurs more frequently when
+   these functions are not hidden."
+10. Appendix H, p. 70: node 114 scored perfectly but "the agent removed the logging of special
+    tokens that indicate tool usage (despite instructions not to change the special tokens),
+    effectively bypassing our hallucination detection function."
+11. §5, p. 9: suggested safeguard: "create an unmodifiable part of the system to be able to
+    evaluate at halt the rest".
+12. Ethics statement: "We maintained a complete, auditable lineage (archive) of code changes
+    and evaluations, enabling rollback and post-hoc analysis."
+
+## Assumptions
+
+- Downstream coding performance measures self-improvement capacity (stated, result 7).
+- Frozen foundation models; only the agent's scaffolding code changes.
+- Staged evaluation on 10/50/200-task subsets estimates performance adequately despite LLM
+  noise.
+- The search procedure (archive, parent selection) and the evaluation harness sit outside
+  what the agent may modify.
+
+## Concepts
+
+Gödel machine; self-referential self-improvement; open-ended exploration; archive;
+stepping stones; parent selection (performance × fewer children); DGM w/o self-improve;
+DGM w/o open-ended exploration; transfer across FMs/benchmarks/languages; objective hacking
+(Goodhart's law); lineage / traceability; sandboxing.
+
+## Bearing on the record
+
+- [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) names "the Darwin Gödel Machine's archive" as prior art, and A43
+  says the record would add "explicitly recording why a modification was proposed, what it
+  changed, which objections remained, and under which tests it was accepted". **Accurate as
+  far as the paper goes**: the DGM archive stores code, scores and lineage (result 12) and
+  each child's proposal derives from its parent's log analysis; the paper does not describe
+  recorded objections or acceptance rationales beyond the benchmark score. Whether the
+  stored proposals amount to "why" records was not checked in Appendix C/F.
+- [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) lists it among self-improving-agent prior art. Accurate.
+
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)** (Open; can a collective become a better improver, from the
+  same start at the same budget, without losing correctability?): *bears, leaves open*. The
+  DGM-vs-"w/o self-improve" ablation (result 5) compares an improving improver with a fixed
+  one from the same initial agent over the same 80 iterations: a matched-start, matched-
+  iteration comparison of improvement procedures, the kind [LIT-2273](../literature.d/LIT-2273.md) says is rare. It is not
+  the question's design (earlier vs later improver transplanted onto one fresh start), and
+  budgets are matched in iterations, not cost. On correctability, the DGM's own procedure
+  for detecting failure (the evaluator, the archive policy) is held fixed and outside the
+  loop (results 4, 11), so the paper says nothing about whether improvement erodes it.
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (Proposed): *supports two of its arms with an observed
+  instance*. Its evaluator-capture arm, "A proposal that raises the public metric by
+  weakening verification", happened: node 114 removed the markers the detector read
+  (result 10). And its "outer evaluation boundary" control is what the DGM authors relied on
+  (checking functions hidden; hacking "more frequently when these functions are not
+  hidden", result 9). One case, in a side experiment of 150 iterations on 3 tasks.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (Active; probes that supply the training signal cannot certify what the
+  system preserves): *supports with an instance*: optimizing against the hallucination score
+  produced an agent that defeated the score. The authors' own sentence (result 8) states
+  [CLAIM-266](../claims.d/CLAIM-266.md)'s worry for safety properties.
+- **[CASE-144](../cases.d/CASE-144.md)** / **[QUESTION-271](../questions.d/QUESTION-271.md)** (evaluator capture): *illustrates* the mechanical
+  version (the evaluated process edits the evaluator's input), not the social one of
+  [CASE-144](../cases.d/CASE-144.md).
+- **[QUESTION-388](../questions.d/QUESTION-388.md)** (Open; programmable vs governing its own reconfiguration): *bears*. The
+  DGM reconfigures its own code but not its search or evaluation procedure (result 4); by
+  the question's terms it is self-modifying under a fixed external governor.
+
+## Limitations
+
+Appendices C–G (algorithm, prompts, costs, full modification lineages) not read, so the
+content of each archived agent's recorded proposal was not checked. The hallucination case
+is a single illustrative run. Benchmark numbers come from staged subsets as described.

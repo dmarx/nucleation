@@ -49,6 +49,7 @@ summary: >-
   (CASE-071).
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: THEORY-tmp5yjzz THEORY-tmpovyed THEORY-tmpxbva2 THEORY-tmpyzyqe — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-149: A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it
 
@@ -104,3 +105,14 @@ formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-011](CLAIM-011.md), for carrying the remedy from correspondences to training objectives. Claims in other lines that need
 only the general content cite [CLAIM-266](CLAIM-266.md), so setting pragmatic-transport aside
 does not take it from them.
+
+## Note of 2026-11-12: 4 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Mo, Zheng et al.** ([THEORY-tmpyzyqe](../theory.d/THEORY-tmpyzyqe.md)): Every score is an LLM judgment; the paper grounds originality in retrieved prior art to reduce judge bias, which is a partial response of the kind those claims call for. Illustrative only.
+- **Thaman** ([THEORY-tmp5yjzz](../theory.d/THEORY-tmp5yjzz.md)): RHB is an instance of optimization (here, agent behaviour shaped by RL post-training) pushing toward what the checker rewards and cannot see; it supports both, at the level of agent behaviour rather than training probes.
+- **Zhu et al.** ([THEORY-tmpovyed](../theory.d/THEORY-tmpovyed.md)): The KPI and coordination scores are LLM judgments; no bearing beyond caution.
+- **Orzechowski, Tawfiq and Kosciolek** ([THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md)): A parallel lesson; the paper's caution that using the same ontology as context and as check is "associated with fewer catches (exploratory)" is a case of a check sharing a blind spot with what it checks. Illustrates; exploratory only.
+
+The claim is unchanged.

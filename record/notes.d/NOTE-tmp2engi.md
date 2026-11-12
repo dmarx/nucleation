@@ -1,0 +1,147 @@
+---
+status: Read
+paper: LIT-2271
+title: 'Reiter — A theory of diagnosis from first principles'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from
+    https://cse.sc.edu/~mgv/csce580sp17/reiter-diagnosis.pdf. **Read**
+    (2026-11-12). Whole article, pp. 57–95, from a scan of the published
+    journal pages posted on a University of South Carolina course page. A
+    delegated reader drafted the reading; quotations were rechecked by script
+    against the downloaded copy, and any that did not match were kept as
+    paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  Reiter gives a logical theory of diagnosis that needs only a description
+  of how a system behaves when its components work (SD), a set of
+  components, and an observation (OBS) inconsistent with SD under the
+  assumption that nothing is abnormal. A diagnosis is a minimal set of
+  components whose abnormality, together with the normality of all the
+  others, is consistent with SD and OBS. Diagnoses are characterized as the
+  minimal hitting sets of the collection of conflict sets (de Kleer's
+  concept), which yields an algorithm (DIAGNOSE, via a pruned HS-tree) for
+  computing all diagnoses given a sound and complete theorem prover for the
+  logic.
+---
+<!-- inactive-ok-file: CASE-tmpvq90k CLAIM-tmp8qsef — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-194 CLAIM-358 CLAIM-541 LIT-1643 LIT-2316 SYNTHESIS-037 THEORY-1239 — Deferred, Proposed, Unavailable; cited for what each holds, not as settled -->
+
+# NOTE-tmp2engi: Reiter — A theory of diagnosis from first principles
+
+## Contribution
+
+A formal, logic-independent definition of a diagnosis, including multiple-fault
+diagnoses, with an algorithm to compute all of them and theorems about how
+measurements discriminate among them.
+
+## Key results
+
+- §2, Definition 2.4 and the parsimony principle (p. 63): "A diagnosis is a
+  conjecture that some minimal set of components are faulty."
+- §1 (p. 58): "Diagnoses need not be unique; there may be several competing
+  explanations for the same faulty system." The full adder of Example 2.2 has
+  three diagnoses, {X1}, {X2, O1}, {X2, A2}.
+- §4, Theorem 4.4: a set is a diagnosis "iff A is a minimal hitting set for the
+  collection of conflict sets".
+- §4.4, Corollary 4.10 (p. 81): a single component is a single-fault diagnosis iff it
+  is "an element of every (minimal) conflict set".
+- §5, Theorem 5.7: when every diagnosis predicts Π or ¬Π, measuring Π keeps the
+  diagnoses predicting it and removes those predicting ¬Π, but any new
+  diagnosis resulting from the new measurement Π will be a strict superset of
+  some old diagnosis which predicted ¬Π (p. 84; Π and ¬Π restored, the
+  scan's OCR renders them "17" and "-717"). Hence (p. 85) "In general, Theorem 5.7
+  precludes a divide-and-conquer approach" to discriminating among competing
+  diagnoses; Corollary 5.9 licenses divide-and-conquer only among single-fault
+  diagnoses.
+- §6.2 (p. 87): "diagnostic reasoning is nonmonotonic in the sense that it can
+  happen that none of a system's diagnoses survive a new observation of that
+  system." Theorem 6.1: one-to-one correspondence between diagnoses and the
+  extensions of the default theory with defaults ":¬AB(c)/¬AB(c)".
+- §6.1 (p. 87): suggests that "violation of database integrity constraints
+  might profitably be viewed as a diagnostic reasoning problem".
+- §7 (pp. 89–90): de Kleer and Williams go beyond our theory of diagnosis by
+  providing a method for computing the probabilities of the different
+  diagnoses that arise in a given setting, and for using these probabilities to
+  identify appropriate system measurements to make next.
+- §7 (p. 90), a limit the author states: "our theory requires a fixed, a priori
+  enumeration of the system components which might fail."
+- §7.1: against Reggia et al.'s minimum-cardinality covers, Reiter argues for
+  minimal covers; minimum cardinality would "overlook the two intuitively
+  plausible double faults" of the full adder.
+
+## Assumptions
+
+- A correct system description (SD) is given; only components can be
+  abnormal, and they are enumerated in advance.
+- The logic is binary-valued with ∧, ∨, ¬; computing diagnoses needs a sound,
+  complete and (for an algorithm) decidable theorem prover.
+- No heuristic or probabilistic information about failures is used ("diagnosis
+  from first principles", as against the "experiential approach", MYCIN).
+- Parsimony: minimal sets, not minimum cardinality.
+
+## Concepts
+
+System description (SD), COMPONENTS, observation (OBS), the AB predicate,
+diagnosis (minimal), conflict set (minimal), hitting set, HS-tree, DIAGNOSE,
+single- and multiple-fault diagnoses, prediction by a diagnosis, measurement,
+nonmonotonic reasoning, default logic extensions, the GSC (generalized set
+covering) model, diagnosis from first principles vs. from experience.
+
+## Bearing on the record
+
+The LIT carries no characterization beyond "cited ... as a reading". The
+exchange (via [CASE-194](../cases.d/CASE-194.md)'s and [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)'s notes of 2026-11-12) has A50 say
+"Diagnosing different hidden failures through targeted probes is not a new
+experimental idea" and [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md) calls Reiter and de Kleer–Williams "the
+source of candidate-diagnosis sets and probe selection". Accurate for
+candidate-diagnosis sets (Theorem 4.4) and for what probes can establish
+(§5). Probe *selection* (which measurement to make next) is, by Reiter's own
+account in §7, de Kleer and Williams's contribution, not his; one should attribute it to [LIT-2316](../literature.d/LIT-2316.md), not to both.
+
+- **[CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)** (one surface failure, several hidden causes, probe
+  budget): **supports** the prior-art claim that candidate-cause sets and
+  measurement-based discrimination are established, and supplies the formal
+  baseline A50 asks for ("a conventional model-based diagnostic planner").
+  It also **qualifies** the design in two ways the case does not yet state:
+  (1) Theorem 5.7 says a probe can create new, larger diagnoses, so a scoring
+  rule that rewards narrowing a fixed candidate list would mis-score the
+  multiple-cause worlds; (2) Reiter's theory needs the failable parts
+  enumerated in advance (§7), which is exactly what fails when the cause is
+  a missing or distorting category (A50's added cause, [LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md)). That
+  marks where the case goes beyond model-based diagnosis.
+- **[CASE-194](../cases.d/CASE-194.md)** (one failure, three causes: observation, actuation, authority):
+  **leaves open / qualifies**. The case's three causes can be cast as
+  components in Reiter's sense, and the theory then says the observation
+  "50% on one task" has several diagnoses that only further measurement
+  separates, which matches the case. But the case's point that the
+  observational cause is "infeasible only relative to its observation-limited
+  policies" is not a component fault and has no place in SD/COMPONENTS
+  without remodeling. The construction is unaffected.
+
+- **[THEORY-462](../theory.d/THEORY-462.md)** (Active) and **[THEORY-1239](../theory.d/THEORY-1239.md)** (Proposed), on defaults that
+  later evidence displaces and monotonic logic: Reiter §6.2 is a worked
+  instance, diagnosis as default reasoning over ¬AB assumptions in which an
+  added observation removes every earlier conclusion. Supports both as an
+  example; it does not bear on Minsky's stronger claim in [THEORY-1239](../theory.d/THEORY-1239.md).
+- **[CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** (the record computes no withdrawals) and
+  **[CLAIM-293](../claims.d/CLAIM-293.md)** (topology does not fix revision): Reiter is a case where a
+  graph-free logical rule *does* compute which assumptions to withdraw, but
+  only given a complete SD and enumerated components; it is a contrast class
+  for those claims, not evidence against them.
+- No held entry uses "hitting set", "model-based diagnosis" or "multiple
+  fault"; "conflict set" hits ([CLAIM-358](../claims.d/CLAIM-358.md), [CLAIM-541](../claims.d/CLAIM-541.md), [SYNTHESIS-037](../syntheses.d/SYNTHESIS-037.md)) use the
+  words in an unrelated sense.
+- Duplicate check: DOI, title and first author not held under any other LIT.
+  [LIT-2316](../literature.d/LIT-2316.md) (de Kleer and Williams, "Diagnosing multiple faults", AIJ 32(1),
+  DOI ...90063-4) is its companion, registered separately; [LIT-1643](../literature.d/LIT-1643.md) shares the
+  AIJ prefix only.
+
+## Limitations
+
+Read from a scan with an imperfect OCR layer; the HS-tree algorithm's
+correctness proof was not checked. The theory is about devices with a correct
+model; the paper does not treat errors in SD itself.

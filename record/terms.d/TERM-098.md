@@ -48,10 +48,12 @@ summary: >-
   not adopted: [QUESTION-360](../questions.d/QUESTION-360.md) asks what would settle it.
 draws_on:
 - THEORY-965
+- THEORY-tmp9ispo
 ---
 <!-- inactive-ok-file: ADR-095 THEORY-965 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: CASE-230 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-tmp9ispo — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-098: concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies
 
@@ -118,3 +120,11 @@ A45 §IV says "we should regard concepts partly as **capacities**", which runs t
 ## Note of 2026-11-07: corrigibility kept apart, from the second share of "Individuation, Possibility, and Disposition"
 
 A54 and A55 §3 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25, read this term's corrigibility clause rightly. A54: this term "deliberately does not make corrigibility part of being a concept". A55 §3 rewrites A41 §11's four-part profile as (A, I, R), with U, the "revision organization", kept apart, and: "A concept can be rigid, corrigible, or transformable without ceasing to qualify as a concept." It proposes this as "a proposed operational clarification to TERM-098, leaving the definition and Proposed status intact". A55 calls it stronger than "our earlier suggestion that a difference in update procedure necessarily means a different concept"; no earlier turn says "necessarily", and A41 §11 declined to choose. The consequence, that a difference in conditions of revision alone is no evidence of several concepts, is now in [QUESTION-439](../questions.d/QUESTION-439.md), and the contested-label study is [CASE-230](../cases.d/CASE-230.md), both filed from the same exchange. Unchanged.
+
+## Note of 2026-11-12: Fang, Jian, Li and Ma, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **illustrates**. AI-Newton's concepts are explicit, carry their measurement procedures, and are reused across experiments; the mass-unification result is an instance of two routes to one concept. It does not address the question's graded/categorical issue.
+
+The term is unchanged.

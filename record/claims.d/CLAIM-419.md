@@ -53,6 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim that rests on this one, cited as open -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 — Proposed or Superseded; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmp4d13i THEORY-tmp706lw THEORY-tmp9ispo THEORY-tmpe8wmn THEORY-tmphxh86 THEORY-tmplwnpv THEORY-tmpm8l7x THEORY-tmpxbva2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
 
@@ -135,7 +136,7 @@ that exchange, rests on this one. Nothing here changes.
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
 CEGAR, read today ([NOTE-1231](../notes.d/NOTE-1231.md)), was offered by the exchange as luria's
-DP-016 in formal dress. The pattern matches: a failure under a fixed
+[LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16) in formal dress. The pattern matches: a failure under a fixed
 specification is located and repaired by refining the abstraction. Two
 disanalogies bear on this claim's limit.
 
@@ -186,3 +187,70 @@ claim's third outcome.
   being noticed leaves no decision behind.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-12: the caveat restated, and an audit proposed, from "luria experiment design"
+
+A25 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) restates this claim's caveat, that a misfit absorbed without
+being noticed leaves no decision behind: "Luria's history records
+successful schema revisions, but by itself cannot tell us how many
+contributions were misclassified or abandoned because they did not fit." It
+proposes the test: "Auditing original exchanges and source documents
+against their contemporary schemas would help expose that selection bias."
+The audit would be a count of moves in the source exchanges that the
+grammar of the day forced or lost, set against the decisions this claim
+counts. No such audit has been run. The claim is unchanged.
+
+## Note of 2026-11-12: the misfits the filings themselves report, counted, from "luria experiment design"
+
+The filer's own idea after filing the exchange "luria experiment design"
+(2026-11-10), accepted by the owner: count, in the record's recent filings,
+the moves each filing reports leaving because the grammar could not hold
+them, against the grammar amendments the same filing made. Run on
+2026-11-12 as follows. Each filing's "left" section in its curation entry
+was read item by item and each item's stated reason classed as a grammar
+reason (no scheme, relation, field or vocabulary word could hold it) or
+another reason. Grammar amendments are commits to `luria.yaml` made in the
+filing's own pull request, found with `git log -- luria.yaml` over the
+filing's dates. The curation journal was also searched for phrases a
+grammar misfit leaves ("nearest wrong", "lacks a word", "needs a topic",
+"topic decision", "fits no scheme", "no scheme fits", "grammar could not").
+
+| filing | items left | left for a grammar reason | amendments in the filing |
+|---|---:|---:|---:|
+| "Individuation, Possibility, and Disposition" (curation 2026/11/07/015133) | 10 | 0 | 0 |
+| works of "luria experiment design" (curation 2026/11/10/182452) | 3 | 0 | 0 |
+| "luria experiment design" (curation 2026/11/12/021453) | 9 | 1 (two works, no topic word) | 0, one proposed by ADR afterwards |
+
+The phrase search found one earlier instance: the filing of 2026-09-26
+(curation 2026/09/26/055820), where fourteen works had no topic or "the
+nearest wrong one", and [ADR-006](../decisions.d/ADR-006.md) added `epistemology` in the same filing.
+The changes to `luria.yaml` between 2026-11-05 and 2026-11-12 (the
+will-organization split, `bounds`, `draws_on`, `bears_on` on CASE) came
+from reviews and decisions, not from these filings.
+
+What it shows: the filings report almost no misfits, and the one reported
+on 2026-11-12 was listed and then sent to a decision, as this claim says
+noticed misfits are. What it cannot show is the thing this claim's caveat
+is about. A misfit absorbed by choosing the nearest category leaves no
+"left" item, so these counts are a floor, and they cannot tell a grammar
+that fits from one whose misfits go unnoticed. The 2026-11-12 filing
+itself chose tags under the closed vocabulary for 33 works, and whether
+any was a nearest-wrong choice was not checked. The audit A25 proposed,
+rereading the sources against the grammar of their day, remains the test;
+it was not run. The claim is unchanged. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-12: 8 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Chong, Zhang, Fan and Du** ([THEORY-tmp4d13i](../theory.d/THEORY-tmp4d13i.md)): **contrast case**. Here misfits found in trajectories are answered by schema patches accepted on measured gain, with no decision record beyond the log.
+- **Hegde et al.** ([THEORY-tmpe8wmn](../theory.d/THEORY-tmpe8wmn.md)): **contrast**. In the OBO workflow, content change is reviewed by PR and, as the paper describes it, the change language itself is extended by "community-driven use cases"; no decision record is described.
+- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **analogy only**, not claimed: AI-Newton extends a law's form when a case fails, but its DSL (the grammar) is fixed.
+- **Jackson et al.** ([THEORY-tmpm8l7x](../theory.d/THEORY-tmpm8l7x.md)): **corroborates by analogy**, not support: OBO's principles are revised when found imprecise, and the checks themselves were revised after false positives and negatives a standard and its checker both under amendment. It is about a different object (member ontologies' conformance, not a record's own grammar).
+- **Orzechowski, Tawfiq and Kosciolek** ([THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md)): CLAIM-419 and [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md): the finding that a curated schema "disagrees with its own data" is the schema-misfit situation CLAIM-419 describes from the record's side; the paper's remedy (validate the ontology against a data-derived summary before each release) is a governance step.
+- **Flouris et al.** ([THEORY-tmplwnpv](../theory.d/THEORY-tmplwnpv.md)): **corroborates by analogy**: the survey lists discovering "a design flaw in the original conceptualization" as a standard reason for changing an ontology and gives a process for it; it says nothing on how often misfits are caught.
+- **Halilaj, Grangel-González, Coskun and Auer** ([THEORY-tmp706lw](../theory.d/THEORY-tmp706lw.md)): Comparison class for "grammar amended by decision": Git4Voc has amendment by commit and discussion, not by decision record.
+- **Tudorache, Nyulas, Noy and Musen** ([THEORY-tmphxh86](../theory.d/THEORY-tmphxh86.md)): WebProtégé records schema changes but not decisions about them; the contrast is exactly CLAIM-419's "amendable by decision".
+
+The claim is unchanged.

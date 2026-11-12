@@ -46,6 +46,7 @@ integrates:
 - QUESTION-095
 ---
 <!-- inactive-ok-file: ADR-083 CLAIM-179 CLAIM-182 CLAIM-184 CLAIM-301 CLAIM-298 CLAIM-303 CLAIM-308 CLAIM-314 CLAIM-315 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: THEORY-tmp5rm74 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # SYNTHESIS-015: Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
 
@@ -136,3 +137,11 @@ tested.
   on the record.
 - That an early anchor has locked in a framing here.
 - Anything with standing of its own.
+
+## Note of 2026-11-12: Park et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Park et al.** ([THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md)): 7.2's "overly cooperative" agents whose interests are reshaped by others' suggestions is a converse failure (no anchoring at all), not evidence for either side.
+
+The account is unchanged.

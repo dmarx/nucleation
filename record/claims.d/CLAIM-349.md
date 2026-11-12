@@ -100,6 +100,7 @@ complements:
 
 <!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1830 LIT-1823 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmphhyai THEORY-tmprmh1c THEORY-tmpt5rqc — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-349: An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
@@ -349,3 +350,28 @@ carry over. [CLAIM-446](CLAIM-446.md)'s note of the same date has the term's (a)
 (c).
 
 No status changes.
+
+## Note of 2026-11-12: a proposed test of access, authority and action, from "luria experiment design"
+
+A36 E4 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) proposes to vary independently whether a warning about an
+accepted claim is visible, whether its finder may change the claim's
+standing, and whether an authorized correction can be carried out in time,
+each with genuine defects and misleading warnings "matched on salience, not
+on whether the warning deserves to prevail", scoring warranted and
+unwarranted interventions, missed corrections and deadline failures
+separately. A39 Study C adds that "The final outcome should depend on the
+evidence, not on the contributor's authority. Authority determines who can
+make an accepted change, not whether the scientific proposition is true."
+A36 also proposes the safety arm this claim's overcontrol bears on:
+restrictions stated only in text against approval gates enforced outside
+the agent's writable environment. Not run. The claim is unchanged.
+
+## Note of 2026-11-12: Buçinca, Malaya and Gajos, Zhao, Liu et al. and Bansal et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Buçinca, Malaya and Gajos** ([THEORY-tmphhyai](../theory.d/THEORY-tmphhyai.md)): **supports, as a human instance.** The *on demand* and *update* conditions keep access to the AI's signal while delaying or conditioning its authority, and they reduce acting on wrong signals; but the paper's no-AI arm still does best on wrong-AI items, so conditional authority here does not reach the performance of no access on those items.
+- **Zhao, Liu et al.** ([THEORY-tmpt5rqc](../theory.d/THEORY-tmpt5rqc.md)): **supports, as an LLM instance.** The paper's λ is explicitly "revision authority" over access the model already has, and the optimum is conditional on the internal evidence.
+- **Bansal et al.** ([THEORY-tmprmh1c](../theory.d/THEORY-tmprmh1c.md)): **Corroborates by analogy.** In the study, explanations changed the *authority* of the AI's signal (more agreement) without making that authority conditional on the signal's correctness; confidence display and adaptive explanations are attempts to make it conditional (Fig. 5: lower agreement on low-confidence items). That is CLAIM-349's separation observed in human-AI teams; the claim's own scope is organizational regulation.
+
+The claim is unchanged.

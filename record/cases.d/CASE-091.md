@@ -21,11 +21,19 @@ tags:
 date: '2026-10-15'
 line:
 - records-of-inquiry
+draws_on:
+- THEORY-tmpaxysg
+- THEORY-tmp5rm74
+- THEORY-tmp5vepa
+- THEORY-tmpo4vs4
 summary: >-
   A6's fifth case, refined from A3, A4 §4 and A5. The design [QUESTION-108](../questions.d/QUESTION-108.md) asks
   for. Not run.
 ---
 <!-- inactive-ok-file: CLAIM-184 CLAIM-190 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmpmvfl2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-2272 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmp5rm74 THEORY-tmp5vepa THEORY-tmpaxysg THEORY-tmpcfp6p THEORY-tmpo4vs4 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-091: A memory ablation for revision: synthetic inquiries with known ground truth, run under six kinds of persistent memory, with information and token budget controlled separately
 
@@ -63,3 +71,29 @@ that the same representations are sufficient for open-ended scientific
 inquiry, where the state space, relevant variables, available
 interventions, and even the appropriate questions can change over time."
 That is [QUESTION-112](../questions.d/QUESTION-112.md).
+
+## Note of 2026-11-12: the same two controls, proposed again for agent teams, from "luria experiment design"
+
+A36 E1 and A39 §10 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose this case's separation of
+information from budget for a study of agents equipped with the record:
+"In an information-equivalent experiment, each condition gets the same
+relevant facts, allowing us to compare access and operations. In a
+budget-equivalent experiment, each condition gets the same storage,
+retrieval, and processing budget". A cites this case for it. A36 adds a
+trial on [CLAIM-293](../claims.d/CLAIM-293.md)'s two worlds of equal topology, and a targeted
+dependency report as an arm. A39 adds a precedent from group research:
+transactive-memory experiments that separate knowing who knows what from
+communication itself ([LIT-tmpmvfl2](../literature.d/LIT-tmpmvfl2.md) and [LIT-2272](../literature.d/LIT-2272.md), unread). The design is
+unchanged; the study remains unrun.
+
+## Note of 2026-11-12: 5 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Hu, Wang and McAuley** ([THEORY-tmp5vepa](../theory.d/THEORY-tmp5vepa.md)): A candidate external task for its revision condition.
+- **Jung, Rubinstein, Uselis, Yun and Oh** ([THEORY-tmpo4vs4](../theory.d/THEORY-tmpo4vs4.md)): MEME is a candidate external task for its revision arm; information-equivalent conditions correspond to MEME's gold-facts ceiling.
+- **Wu et al.** ([THEORY-tmpaxysg](../theory.d/THEORY-tmpaxysg.md)): LongMemEval §5.2 compares value choices "in a budget-aware manner", the same control the case requires; a usable external task for the case's arms.
+- **Park et al.** ([THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md)): This paper's ablation is a believability ablation of the same kind of components, at the coarse grain CASE-091 is designed to refine.
+- **Blanchet and Michinov** ([THEORY-tmpcfp6p](../theory.d/THEORY-tmpcfp6p.md)): Leaves open; no memory-format manipulation.
+
+The case is unchanged.

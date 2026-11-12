@@ -15,6 +15,13 @@ line: will-organization
 illustrates:
 - CLAIM-344
 - CLAIM-184
+draws_on:
+- THEORY-tmpmgo6m
+- THEORY-tmphaoty
+- THEORY-tmpt5rqc
+- THEORY-tmphhyai
+- THEORY-tmprmh1c
+- THEORY-tmpcb95r
 summary: >-
   Proposed by the owner at review of the filing of the exchange "Analyze
   nucleation concepts" (2026-10-31), as a successor to [CASE-186](CASE-186.md) and
@@ -23,6 +30,7 @@ summary: >-
   counterfactual test. Not run; every parameter is left to a
   preregistration.
 ---
+<!-- inactive-ok-file: THEORY-tmpcb95r THEORY-tmphaoty THEORY-tmphhyai THEORY-tmpmgo6m THEORY-tmprmh1c THEORY-tmpt5rqc — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-188: A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score
 
@@ -93,3 +101,61 @@ told apart on these endpoints over the horizons studied.
 - It bears on [QUESTION-364](../questions.d/QUESTION-364.md). Revising a commitment the agent itself
   authorized is a continuation of its will only if the revision answers to
   the commitment's warrant.
+
+## Note of 2026-11-12: a team version, and the studies of revision that already exist, from "luria experiment design"
+
+A36 E7 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) extends this case to teams sharing a record, with five
+kinds of perturbation, irrelevant but salient information, weak contrary
+evidence, a strong defeater, a failed inference with another argument
+standing, and evidence that the original classification was wrong, scored
+on false retraction, failure to retract and time to justified revision:
+"A system can be impressively stable on both—and only the first is an
+advantage." A36 adds that the study can test "whether a centralized
+reviewer becomes an entrenchment mechanism".
+
+A39 Study C names prior work on revision, all unread: Belief-R
+([LIT-2326](../literature.d/LIT-2326.md)), in which "models that update readily may perform worse when no
+update is needed"; tool evidence that turns correct answers wrong
+([LIT-2284](../literature.d/LIT-2284.md)); cognitive forcing ([LIT-2283](../literature.d/LIT-2283.md)); and explanations that raise
+acceptance of AI advice whether or not it is right ([LIT-tmpyaj3n](../literature.d/LIT-tmpyaj3n.md)). A14
+reports from [LIT-2329](../literature.d/LIT-2329.md), unread, that "revising a theory more readily is not
+necessarily better scientific behavior". A50 §5 offers March's mutual
+learning between members and an organizational code ([LIT-729](../literature.d/LIT-729.md)) as the
+theory of the entrenching arm. The case is unchanged.
+
+## Note of 2026-11-12: six readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+**A correction.** The note of 2026-11-12 above reports from [LIT-2329](../literature.d/LIT-2329.md), as A14
+did, that "revising a theory more readily is not necessarily better
+scientific behavior". The paper, now read ([THEORY-tmpmgo6m](../theory.d/THEORY-tmpmgo6m.md)), does not say
+it; the sentence is A's gloss. What the paper shows is the distinction this
+case needs, measured: humans revised in proportion to their error, and LLMs
+revised more and without tracking error, separating how much a theorist
+revises from whether revision tracks error. One-shot revision, not a
+long-term commitment.
+
+- **Wilie et al.** ([THEORY-tmphaoty](../theory.d/THEORY-tmphaoty.md)): Belief-R's paired update and maintain
+  subsets with an equally weighted score are a working instance of scoring
+  when to revise without rewarding always or never revising; its finding
+  that readiness to revise and resistance to irrelevant change trade off is
+  evidence that they come apart. Single-step.
+- **Zhao, Liu et al.** ([THEORY-tmpt5rqc](../theory.d/THEORY-tmpt5rqc.md)): the split between gains and losses
+  from tool evidence is a model-level instance of false retraction against
+  justified revision, and its perturbations, the clue held fixed and its
+  framing varied, are a template for A36 E7's.
+- **Buçinca, Malaya and Gajos** ([THEORY-tmphhyai](../theory.d/THEORY-tmphhyai.md)): adopting a wrong external
+  signal maps onto false retraction; the cost of the check is borne in
+  acceptability, and the benefit depends on a trait of the reviser, a
+  moderator the case does not vary.
+- **Bansal et al.** ([THEORY-tmprmh1c](../theory.d/THEORY-tmprmh1c.md)): explanations raised acceptance of AI
+  advice whether or not it was right, the failure this case must not score
+  as success; splitting outcomes by whether the advice was correct is the
+  analogue of runs with and without a real defeater. Human reliance, so an
+  analogy.
+- **Si, Yang and Hashimoto** ([THEORY-tmpcb95r](../theory.d/THEORY-tmpcb95r.md)): LLM rankers overlapped
+  expert rerankers on 17 of 49, a warning against scoring revision quality
+  with an LLM judge.
+
+The case is unchanged.

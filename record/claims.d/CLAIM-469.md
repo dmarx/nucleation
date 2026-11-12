@@ -69,6 +69,7 @@ summary: >-
   ontology.
 ---
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim this was split from and the claim it complements -->
+<!-- inactive-ok-file: THEORY-tmpes8q7 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-469: Luria is an apparatus for a record's objects in the operational sense: through its schemes, vocabularies, validators and generated views it realizes a system of distinctions that fixes what counts as a referable and governable object within the record, so that a split scheme makes one object two and a promoted vocabulary makes a value an entity; it keeps, enforces and propagates those distinctions; and its distinctions are revised through the record's own use
 
@@ -145,3 +146,11 @@ its grammar from the configuration the amendment edits. The owner's review:
   is filed as an ARG or a CLAIM ([ADR-061](../decisions.d/ADR-061.md)), or a reading as grounds or as
   corroboration ([ADR-058](../decisions.d/ADR-058.md)), is the filer's judgement, guided by decisions no
   tool reads.
+
+## Note of 2026-11-12: Clark, Ciccarese and Goble, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Clark, Ciccarese and Goble** ([THEORY-tmpes8q7](../theory.d/THEORY-tmpes8q7.md)): **Verdict: qualifies.** Micropublications is an earlier system of distinctions over claims. It has Claim, Statement, Data and Method types, and supports and challenges relations. It also makes judgements objects: a challenge or a similarity call is itself a micropublication. It therefore shows that the "referable object" half of CLAIM-469 is not new. The model's distinctions are fixed in an OWL vocabulary, with no provision in the paper for revising them through use. That puts the weight of CLAIM-469's distinctiveness on its last clause.
+
+The claim is unchanged.

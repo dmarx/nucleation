@@ -28,6 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1716 THEORY-1637 NOTE-1718 THEORY-1636 — readings filed 2026-11-12, Skimmed and Proposed -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmp42g4m THEORY-tmp7gq1l THEORY-tmpeofqm THEORY-tmpmc61y THEORY-tmpsuvav THEORY-tmptc3ih — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # QUESTION-388: What distinguishes a programmable system from one that governs its own reconfiguration?
 
@@ -146,3 +147,35 @@ explicit restrictions on each", restrictions its designers wrote, and the
 authors call protocol specification "inherently about specifying leeway".
 Who fixes the leeway is an ingredient this question's criterion may need.
 Open.
+
+## Note of 2026-11-12: a research agenda for recursive improvement, and a test of causal uptake, from "luria experiment design"
+
+A41 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) takes this question's note of 2026-11-07 as "almost a
+research agenda for Luria-mediated RSI": "An agent that changes luria.yaml
+when told to do so has demonstrated configurability. An agent that
+recognizes a representational defect and proposes a repair has
+demonstrated adaptive use of that configurability. A team that discovers
+that its schema-review process is failing, then proposes and successfully
+evaluates a repair to that process, demonstrates something stronger", and
+"even that does not establish independent self-governance". The owner's
+U17 is filed as [QUESTION-tmp7a7l4](QUESTION-tmp7a7l4.md).
+
+A50 §12 adds a test this question needs: a governing rule's change must
+alter behaviour under controlled later tasks. "A repository that stores
+governance rules without influencing operations is not sufficient evidence
+of operational self-governance." A43: such a study "does not establish
+philosophically independent self-governance, because the experimenter
+still defines the ultimate comparison". Open.
+
+## Note of 2026-11-12: 6 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Zhang et al.** ([THEORY-tmp42g4m](../theory.d/THEORY-tmp42g4m.md)): **leaves open / qualifies**: DGM-H edits its improvement procedure but not its evaluation standard; in the record's terms it revises how it improves, not what counts as improvement.
+- **Yin et al.** ([THEORY-tmpsuvav](../theory.d/THEORY-tmpsuvav.md)): **leaves open**: the agent rewrites its procedures, not the objective or the evaluator, so it is evidence about reprogramming, not revision of governing standards.
+- **Kephart and Chess** ([THEORY-tmptc3ih](../theory.d/THEORY-tmptc3ih.md)): **bears directly, as a foil**. Autonomic systems reconfigure themselves under policies they do not revise; the paper's own division of labour (humans specify goals) places it on the "programmable" side of QUESTION-388's distinction.
+- **Zelikman, Lorch, Mackey and Kalai** ([THEORY-tmpeofqm](../theory.d/THEORY-tmpeofqm.md)): **illustrates the programmable side**: the improver rewrites itself, but the meta-utility, budgets and sandbox are fixed from outside.
+- **Zhang, Hu, Lu, Lange and Clune** ([THEORY-tmp7gq1l](../theory.d/THEORY-tmp7gq1l.md)): *bears*. The DGM reconfigures its own code but not its search or evaluation procedure (result 4); by the question's terms it is self-modifying under a fixed external governor.
+- **Georgiev, Gómez-Serrano, Tao and Wagner** ([THEORY-tmpmc61y](../theory.d/THEORY-tmpmc61y.md)): Result 3 (optimizing the search procedure) is reconfiguration of the improver within a fixed evaluation frame.
+
+The question is unchanged.

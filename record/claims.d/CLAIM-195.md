@@ -54,6 +54,7 @@ summary: >-
   its set; it does not show the choice is non-arbitrary.
 ---
 <!-- inactive-ok-file: CLAIM-181 CLAIM-184 CLAIM-185 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: THEORY-tmpbt97y — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-195: For an argument, the constraint set that persistence is relative to is fixed by an amendable decision, not discovered: the record stipulates what counts as the same claim persisting, which makes the choice explicit without making it non-arbitrary
 
@@ -98,3 +99,11 @@ the grammar and from entrenchment.
   state space given in advance; the record's K is partly constitutive,
   since it defines what the objects are. The mapping is partial.
 - It does not answer [ARG-007](../arguments.d/ARG-007.md)'s mapping premise for agents.
+
+## Note of 2026-11-12: Singh, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Singh** ([THEORY-tmpbt97y](../theory.d/THEORY-tmpbt97y.md)): Singh's metacommitments that "create a society" and can themselves be operated on are a formal analogue of amendable governing rules.
+
+The claim is unchanged.

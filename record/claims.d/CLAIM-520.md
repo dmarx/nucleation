@@ -40,6 +40,7 @@ summary: >-
   be kept, is [ARG-042](../arguments.d/ARG-042.md), which this claim undercuts.
 ---
 <!-- inactive-ok-file: ARG-053 ARG-042 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpxbva2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-520: The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker's expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration
 
@@ -104,3 +105,11 @@ Read at the owner's invitation to add readings to the DNA origami filing; the wo
 Left open: neither prices the capacity's cost against its benefit.
 
 No status changes.
+
+## Note of 2026-11-12: Orzechowski, Tawfiq and Kosciolek, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Orzechowski, Tawfiq and Kosciolek** ([THEORY-tmpxbva2](../theory.d/THEORY-tmpxbva2.md)): The paper measures exactly such an audit with a nonzero false-alarm rate, where acting on it sometimes corrupts more than it fixes (the LLM judge) and sometimes nets a small gain (the curated check). Corroborates the conditionality empirically, in one domain.
+
+The claim is unchanged.

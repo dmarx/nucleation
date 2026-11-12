@@ -1,0 +1,150 @@
+---
+status: Read
+paper: LIT-2273
+title: 'Chen, Zhu and Zheng — Auditing the Product, Not the Recursion: The Evaluation Evidence Behind Recursive Self-Improvement Claims'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from https://arxiv.org/pdf/2610.27610. **Read**
+    (2026-11-12): main text §§1–10 in full; appendices (proofs, codebook,
+    per-study table) skimmed for the rows cited below. A delegated reader
+    drafted the reading; quotations were rechecked by script against the
+    downloaded copy, and any that did not match were kept as paraphrase
+    without quotation marks.
+date: '2026-11-12'
+summary: >-
+  A meta-research census of 114 eligible arXiv studies (frozen October
+  2026), 90 of which call their own system recursive self-improvement (RSI),
+  coded from full text against a codebook that separates a *product* claim
+  (the final system is better) from four *process* claims: accumulation
+  across rounds, repeatability of the loop, improver gain, and compounding.
+  Evaluation of the product is common; evidence for the process is rare.
+  Three propositions explain why product evidence cannot stand in for
+  process evidence: selection among noisy scores inflates development gains;
+  an audit grader that shares the development judge's bias inherits it; and
+  when the improver changes with the system state, the improver's effect is
+  not identified from the trajectory.
+---
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-163 — Deferred, Proposed; cited for what each holds, not as settled -->
+
+# NOTE-tmp2br39: Chen, Zhu and Zheng — Auditing the Product, Not the Recursion: The Evaluation Evidence Behind Recursive Self-Improvement Claims
+
+## Contribution
+
+A measured gap between RSI claims and the evaluation designs that would test
+them, a codebook and dataset, three propositions on the limits of product
+evidence, and a reporting standard keyed to claims.
+
+## Key results
+
+- Abstract: "Of the 26 studies claiming a better improvement procedure, 23
+  report a related comparison, but only 4 compare earlier and later
+  procedures from identical starting artifacts at a matched budget."
+- Abstract / §6.1: "90% report product evaluation beyond development tasks
+  under a broad criterion", "60% report evaluation on tasks unused for
+  selection", and "Only 22% audit two or more reruns of the full loop."
+  Budget-matched comparators: 37% (Table 4).
+- §3: "The claims are distinct rather than nested." A swap test applies "the
+  earlier and later improvers to the same starting system" and audits the
+  successors; an evolving-versus-frozen comparison (the Darwin Gödel
+  Machine's frozen-improver control) "tests whether allowing the improver to
+  change helps over a full run", a different question.
+- §4.1, Proposition 1 (null loop): with no candidate better than the
+  incumbent, development scores rise and changes are accepted (expected 2.9
+  acceptances at N = 25) while the audited gain is zero; "The spurious gain
+  grows with the number of candidates scored, not with the number of rounds."
+- §4.2, Proposition 2 (coupled audits): the audited gain overstates the true
+  gain by λ E[b(S_final) − b(s0)]; "a held-out benchmark is not enough when
+  its grader shares the development judge's bias". Remark on criterion
+  drift: when the loop changes its own judge, "A rising development curve
+  can then come from the change in the criterion alone."
+- §4.3, Proposition 3 (diagonal non-identification): if the improver is a
+  deterministic function of the solver state, the improver contrast "is
+  therefore not identified"; identification "requires observations off the
+  diagonal", and "Additional trajectory data alone cannot."
+- §6.2: the four same-start, matched-budget studies are Zelikman et al. (STOP;
+  result "mixed"), Tan et al. (MetaRSI), Yuan et al., Lee et al. (Table 5).
+  Seven compare evolving with frozen improvers; Hyperagents' transfer
+  experiment fails the strict rule because it "moves the task agent together
+  with the meta agent".
+- §8.2: evaluator changes "should be documented alongside the system updates:
+  what changed, why, who authorized it, and the scores before and after on a
+  fixed reference."
+- §9: "The paper therefore does not establish that current loops fail to
+  improve systems."
+
+## Assumptions
+
+Propositions: a common affine score scale; i.i.d. development errors and
+conditionally unbiased audit errors (Prop. 1); a linear shared-bias model
+(Prop. 2); a separable improver that is a deterministic function of solver
+state (Prop. 3). Census: codes record what papers report; the search frame
+is phrase-based ("RSI" label), arXiv only; an LLM assistant did the first
+coding pass, adjudicated only on a sample.
+
+## Concepts
+
+Product vs. process claims (C1 product, C2 accumulation, C3 repeatability,
+C4 improver gain, C5 compounding); development signal vs. audit; held-out
+tasks; grader independence (λ); model judge; null-loop benchmark; coupled
+audit; criterion drift; diagonal non-identification; swap test (paired probe,
+ignition test); evolving-versus-frozen comparison; budget-matched comparator;
+estimand; scope gap; claim-indexed reporting standard.
+
+## Bearing on the record
+
+A's report, as filed in [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) ("Of 26 studies claiming an
+improved improvement procedure, only four compared earlier and later
+improvers from identical starting artifacts under matched budgets") and
+[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md) ("only four of 26 studies claiming an improved improver made
+this comparison"), is accurate. Two refinements: 23 of the 26
+did report *some* improver-related comparison, usually favourable; and A43's
+"fresh copy of the *same* starting system" test is the paper's swap test
+(§4.3), whose justification is Proposition 3, not just reporting practice.
+The LIT's tags (philosophy-of-science, agency) fit.
+
+- **[QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md)** (can a governed-record collective become a better
+  improver): **supports** the question's separation of a better product from
+  a better improver, and supplies its test: the swap test from identical
+  starting artifacts at matched budget, with successors audited (§4.3, Table
+  9 C4 row). Proposition 3 explains why the question cannot be answered
+  from one collective's improving trajectory. It also **qualifies** the
+  question's comparison "a later improver doing better than an earlier one
+  from the same starting state": the paper requires the matched quantity
+  named and the estimand stated (one state, or an average over declared
+  states).
+- **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (improver transplant and apparatus damage): **supports**
+  its 2×2 of artifact × improver as an off-diagonal design (§4.3) and its
+  outer evaluation boundary (Prop. 2: an audit graded by the loop's own judge
+  inherits its bias; §8.2 on documenting evaluator changes). Note: the paper's census rates bear on the case's prior-art bullet,
+  since it codes STOP ([LIT-2319](../literature.d/LIT-2319.md)) as same-start with a "mixed" result, the
+  Darwin Gödel Machine ([LIT-2327](../literature.d/LIT-2327.md)) as the evolving-vs-frozen design, and
+  Hyperagents ([LIT-2288](../literature.d/LIT-2288.md)) as failing the strict rule.
+
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** and **[CLAIM-149](../claims.d/CLAIM-149.md)** (Active: probes that supply a system's
+  training signal cannot certify what it preserves): Proposition 2 is a
+  formal version for audit graders, and adds that held-out *tasks* do not
+  suffice if the *grader* shares the development judge's bias. Supports.
+- **[CASE-071](../cases.d/CASE-071.md)** (Active: Kovacs et al.'s metric bias in MBR decoding): an
+  instance of Proposition 2 with λ > 0 (selected outputs rated better by the
+  metric and its neighbours, not by humans). Supports the case's reading.
+- **[CASE-144](../cases.d/CASE-144.md)** and **[QUESTION-271](../questions.d/QUESTION-271.md)** (evaluator capture; how an organization
+  evaluates its own processes without capture): the criterion-drift remark
+  and the requirement of "a fixed external reference that gates each change
+  of evaluator" bear directly; it gives no answer for open-ended tasks where
+  no reference grader exists, which is [QUESTION-271](../questions.d/QUESTION-271.md)'s hard case. Qualifies.
+- **[CASE-186](../cases.d/CASE-186.md)** (recursive correctability) and **[QUESTION-388](../questions.d/QUESTION-388.md)**: the paper
+  does not treat damage to the diagnostic machinery; leaves open.
+- No held entry uses "swap test" or "recursive self-improvement"; "same
+  starting" hits ([CASE-163](../cases.d/CASE-163.md), [QUESTION-273](../questions.d/QUESTION-273.md)) are unrelated.
+- Duplicate check: arXiv id and title not held elsewhere.
+
+## Limitations
+
+The authors' own: phrase-based frame (RSI label only); first-pass codes by an
+LLM assistant, most not human-checked; one adjudicator; small claimant
+populations (26 improver claimants); propositions under stylized
+assumptions. It describes reports, not experiments run.

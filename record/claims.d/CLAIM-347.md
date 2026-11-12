@@ -92,6 +92,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
+<!-- inactive-ok-file: THEORY-tmpglid0 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
@@ -462,3 +463,11 @@ down-weighted when the user is judged flexible. The paper offers no ordinal
 or complex-based account, and it does not measure whether the steered user
 is satisfied. It is an example of the practice the claim distinguishes from
 relief, not evidence for or against the claim.
+
+## Note of 2026-11-12: de Kleer and Williams, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **de Kleer and Williams** ([THEORY-tmpglid0](../theory.d/THEORY-tmpglid0.md)): **parallel construction**, not a citation: in both, a downward-closed family is determined by its minimal violating sets.
+
+The claim is unchanged.

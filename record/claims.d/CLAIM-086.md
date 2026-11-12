@@ -37,6 +37,7 @@ summary: >-
 complements:
 - CLAIM-272
 ---
+<!-- inactive-ok-file: THEORY-tmpqtonx THEORY-tmptc3ih THEORY-tmpymq8w — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 
 # CLAIM-086: A constraint may govern conduct without governing the conditions under which it remains authoritative
@@ -80,3 +81,13 @@ claim. [CLAIM-410](CLAIM-410.md), filed from A18, rests on it.
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-223](../theory.d/THEORY-223.md) from `grounds` to `corroborated_by`. Lahiri's case is an instance of the claim, which [ARG-001](../arguments.d/ARG-001.md) and [ARG-003](../arguments.d/ARG-003.md) conclude, and the claim does not rest on the case.
+
+## Note of 2026-11-12: Basurto, Kingsley, McQueen, Smith and Weible, Kephart and Chess and Polski and Ostrom, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Basurto, Kingsley, McQueen, Smith and Weible** ([THEORY-tmpqtonx](../theory.d/THEORY-tmpqtonx.md)): **supports, as an instance from coding practice**. Whether a statement is a rule depends on an or else that may sit in another statement or another law; the prescription and what makes it binding are coded separately.
+- **Kephart and Chess** ([THEORY-tmptc3ih](../theory.d/THEORY-tmptc3ih.md)): **supports, as an instance**. Policies govern element behaviour; what keeps a policy authoritative, and how a wrong one is traced and corrected, is named as an open problem.
+- **Polski and Ostrom** ([THEORY-tmpymq8w](../theory.d/THEORY-tmpymq8w.md)): **Supports.** The levels of rules are a standing institutional-analysis formulation of this point. Operating rules govern conduct. The conditions under which they may be changed, and who may change them, are fixed at the collective-choice and constitutional levels.
+
+The claim is unchanged.

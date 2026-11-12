@@ -26,6 +26,8 @@ illustrates:
 - CLAIM-266
 variant_of:
 - CASE-041
+draws_on:
+- THEORY-tmppljay
 summary: >-
   Minimum Bayes risk and quality-estimation decoding pick, from 128
   sampled translations, the one a neural metric scores best. That metric
@@ -37,6 +39,7 @@ summary: >-
   ты/вы variant states the design that would make it pragmatic.
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; cited for what the stipulated variant would test, not as settled -->
+<!-- inactive-ok-file: THEORY-tmppljay — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-071: Kovacs, Deutsch and Freitag's metric bias in MBR decoding: translations a metric selects, that the metric and its neighbours rate better and human raters do not
 
@@ -205,3 +208,11 @@ Every URL below was retrieved on 2026-10-10.
   directly; see [CASE-070](CASE-070.md).
 - **Unverified.** The page range in the WMT proceedings, and the
   qualifications of the MQM raters, were not checked.
+
+## Note of 2026-11-12: Chen, Zhu and Zheng, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Chen, Zhu and Zheng** ([THEORY-tmppljay](../theory.d/THEORY-tmppljay.md)): An instance of Proposition 2 with λ > 0 (selected outputs rated better by the metric and its neighbours, not by humans). Supports the case's reading.
+
+The case is unchanged.

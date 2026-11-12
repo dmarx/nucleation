@@ -1,0 +1,66 @@
+---
+status: Read
+paper: LIT-tmp6wovl
+title: 'de Kleer and Williams — Diagnosis with Behavioral Modes'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from https://ijcai.org/proceedings/1989/0212.pdf.
+    **Read**, 2026-11-12: §§1–4 in full (introduction; related work; diagnosis
+    with modes; framework, varieties of diagnostic tasks, algorithms common to
+    GDE and Sherlock). Skimmed: §5 onward (focusing heuristics, results on
+    circuits) only as far as the text extraction ran; the scanned PDF's OCR is
+    noisy in the equations. A delegated reader drafted the reading; quotations
+    were rechecked by script against the downloaded copy, and any that did not
+    match were kept as paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  Model-based diagnosis that uses only correct-behaviour models identifies
+  faulty components without knowing how they fail, but treats unlikely
+  faults as seriously as likely ones. Sherlock extends GDE so that each
+  component has a set of behavioural modes (good modes, known fault modes,
+  and an "unknown" mode that predicts nothing and so never conflicts with
+  evidence), with prior probabilities. Diagnosis becomes identifying the
+  most probable mode assignment.
+---
+<!-- inactive-ok-file: CASE-tmpvq90k — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-194 LIT-2316 — Proposed, Unfetched; cited for what each holds, not as settled -->
+
+# NOTE-tmpwxfjk: de Kleer and Williams — Diagnosis with Behavioral Modes
+
+## Contribution
+
+Behavioural modes and an unknown mode added to GDE, with most-probable-first focusing. Restated from GDE: multiple simultaneous faults; diagnosis from structure plus correct behaviour; conflicts and minimal conflicts; candidates and diagnoses; probe selection by expected entropy; the assumption that components fail independently.
+
+## Key results
+
+- GDE as restated (§1): GDE diagnoses “any number of simultaneous faults in a device given solely a description of its structure (e.g., electrical circuit schematic) and specifications of correct component behaviors”, constructs diagnoses, and “suggests points where additional measurements (called probes) should be made to localize the diagnosis with as few measurements as possible.”
+- Why fault models were dropped and what was lost (§1): correct-behaviour diagnosis means “Unforeseen failure modes pose no difficulty. However, what is lost is the additional diagnostic discrimination derived from knowing the likely ways a component fails”.
+- The unknown mode (§1): every component has one “which makes no predictions, and therefore can never conflict with the evidence”, so an unforeseen fault is pinpointed as a component behaving in an unknown mode.
+- Combinatorics (§1): “Diagnosing multiple faults is inherently a combinatoric process.”
+- Minimal conflicts (§4.2): “a candidate is a diagnosis iff it does not contain any minimal conflict. Thus, the complete set of diagnoses is computable from the minimal conflicts alone.”
+- Probing (§4.1): the next measurement is chosen by “a minimum entropy technique” (the OCR text layer reads "a· minimum entropy technique"), over d-partitions set by what the diagnostic objective needs to discriminate.
+- Assumptions stated (§4): components “fail independently (which is sometimes unfounded)”, and a faulty component stays in the same mode across test vectors.
+
+## Assumptions
+
+A system description (structure and per-mode behaviour) is available; failures are independent; priors per mode are given; the prediction facility is sound though possibly incomplete.
+
+## Concepts
+
+System description; behavioural mode; unknown mode; candidate; diagnosis; conflict / minimal conflict (ATMS nogood); probe; minimum expected entropy; d-partition (discrimination specification); test vector.
+
+## Bearing on the record
+
+For GDE's framework (minimal conflicts determine the diagnoses; probes chosen to discriminate candidates; multiple simultaneous faults), it restates the 1987 paper's ideas and cites it. It does not reproduce the 1987 paper's own algorithms, examples or analysis, and its central novelty (fault modes, unknown mode) is not in the 1987 paper. A THEORY on [LIT-2316](../literature.d/LIT-2316.md) should not be written from this report.
+
+- **[CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md)**: **supports the prior-art paragraph and sharpens the baseline**. The study's probe budget, "keep several hypotheses or ask for another measurement", and scoring of "probe efficiency" are GDE/Sherlock's minimum-entropy probing over candidate sets; A50's proposed baseline, "a conventional model-based diagnostic planner operating over the same explicitly defined failure model", is this kind of system. Sherlock's unknown mode is the formal counterpart of the case's siblings that "are underdetermined by every permitted probe": a cause outside the modelled modes is localized but not identified. Its independence assumption is one the case's causes (an authority rule shared by all, a schema inadequacy) may violate.
+- **[CASE-194](../cases.d/CASE-194.md)** (one symptom, three causes; supplying observation, enlarging actuation or revising authority each repairs one): **illustrates the formal setting**: three diagnoses consistent with one observation, separated only by further measurement. Sherlock assumes the component structure is given; [CASE-194](../cases.d/CASE-194.md)'s causes include the authority rule, which in GDE terms would have to be modelled as a component.
+- **[CLAIM-293](../claims.d/CLAIM-293.md)** (a support graph's topology does not fix how a conclusion should be revised): **consistent**. Sherlock's ranking of diagnoses needs mode probabilities beyond the conflict structure; two systems with the same conflicts can call for different probes.
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (minimal non-faces are the minimal conflicts): **parallel construction**, not a citation: in both, a downward-closed family is determined by its minimal violating sets.
+
+## Limitations
+
+Digital circuits only; OCR noise in the scanned PDF (quotes above were checked against the text layer, and some characters, e.g. in §4.1, are garbled); results sections only skimmed.

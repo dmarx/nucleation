@@ -93,6 +93,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1643 LIT-1662 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: TERM-111 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp9ispo — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-475: Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder
 
@@ -275,3 +276,11 @@ of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12). A's ex
 "Are high-spending players actually achieving what they want, or does our
 choice architecture systematically undermine commitments they continue to
 endorse?" No status change.
+
+## Note of 2026-11-12: Fang, Jian, Li and Ma, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Fang, Jian, Li and Ma** ([THEORY-tmp9ispo](../theory.d/THEORY-tmp9ispo.md)): **supports the first half, as an instance**. Concepts keep laws concise enough for symbolic regression to find them. The paper's redundancy control speaks to the cost side but does not test the second half.
+
+The claim is unchanged.

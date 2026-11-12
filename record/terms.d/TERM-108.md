@@ -35,6 +35,7 @@ draws_on:
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2090 — Unavailable; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1384 TERM-110 — Proposed; Erkut and colleagues' account and the ratchet term of the same filing, cited as filed -->
+<!-- inactive-ok-file: THEORY-tmpm8l7x — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # TERM-108: proxy objective, in an allocation model: an operational measure optimized in place of the outcome it stands for, whose optimum can differ from the outcome's with no reaction of the measured to the measure
 
@@ -117,3 +118,11 @@ From the reading in [NOTE-1752](../notes.d/NOTE-1752.md) ([LIT-2371](../literatu
 checked by the filer: the paper's "deceptively healthy" state is accuracy as
 a proxy for evidential health diverging from provenance; the authors do not
 frame it so.
+
+## Note of 2026-11-12: Jackson et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Jackson et al.** ([THEORY-tmpm8l7x](../theory.d/THEORY-tmpm8l7x.md)): The Maintenance check (date-format version IRI) is the authors' own example of a proxy check they say does not establish the principle. Illustrates it.
+
+The term is unchanged.

@@ -54,6 +54,9 @@ summary: >-
   acceptance conditions; that no remedy for one removes another is A36's
   further reading, argued in the body and not part of the claim.
 ---
+<!-- inactive-ok-file: CLAIM-tmpyp3u3 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmp1vsf5 THEORY-tmp5lktm THEORY-tmp9qlii THEORY-tmpovyed THEORY-tmpucfiy — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-346: Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
 
@@ -199,3 +202,31 @@ Their goal is mutual knowledge of delivery, with action only as motive,
 so the step from it to "no protocol guarantees that both act or neither
 does" is Halpern and Moses's ([LIT-1213](../literature.d/LIT-1213.md)), not theirs. The claim is
 unchanged.
+
+## Note of 2026-11-12: task families that isolate each obstruction, from "luria experiment design"
+
+A34 §2 and A36 E5 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) propose to build tasks that isolate each of
+this claim's three obstructions, each with a matched version in which it is
+absent, so that a study of agents using a shared record can say which ones
+the record could address. A34: "a team should not be penalized for
+recognizing that its constraints are jointly unsatisfiable and documenting
+the conflict. A system that silently invents a compromise to obtain a green
+status should score worse." A36 makes "appropriate non-action" an outcome.
+A48 §1 notes, correctly, that [CASE-194](../cases.d/CASE-194.md)'s construction "is not the same as
+Nucleation's separate feasibility/aggregation/coordination distinction",
+which [CASE-194](../cases.d/CASE-194.md)'s version 2 also says. A50 §10 adds failures that come from
+the control structure with every agent locally competent and honest, after
+STAMP ([LIT-tmp54rbu](../literature.d/LIT-tmp54rbu.md), unread). [CLAIM-tmpyp3u3](CLAIM-tmpyp3u3.md) rests on this claim's third
+obstruction. The claim is unchanged.
+
+## Note of 2026-11-12: 5 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Zhang et al.** ([THEORY-tmp1vsf5](../theory.d/THEORY-tmp1vsf5.md)): The paper's split of coding capability from collaboration capability is an empirical separation in the same spirit (individual competence present, coordination absent); it does not map onto the claim's three terms exactly. Illustrative.
+- **Zhu et al.** ([THEORY-tmpovyed](../theory.d/THEORY-tmpovyed.md)): §4.2's high-coordination, low-task-score case (Minecraft) is an illustration that coordination does not substitute for capability; illustrative only.
+- **Li, Naito and Shirado** ([THEORY-tmp9qlii](../theory.d/THEORY-tmp9qlii.md)): **supports** as an instance of epistemic coordination failing with aggregation intact.
+- **Khatua, Zhu et al.** ([THEORY-tmp5lktm](../theory.d/THEORY-tmp5lktm.md)): *illustrates*. Solo succeeds where Coop fails at equal workload, so the failure is coordination, not feasibility.
+- **Patriarca, Chatzimichailidou, Karanikas and Di Gravio** ([THEORY-tmpucfiy](../theory.d/THEORY-tmpucfiy.md)): STAMP's control-structure view loosely resembles CLAIM-346's feasibility arm and its coordination arm (inadequate feedback and process models), but the review does not separate them. **[CLAIM-523](CLAIM-523.md)** (legibility, volitional efficacy and correctability as separable achievements). **Leaves open, with a faint parallel.**.
+
+The claim is unchanged.

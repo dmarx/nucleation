@@ -132,3 +132,17 @@ corrected judgment need not be a corrected organization. In [CASE-124](../cases.
 model, resetting the interpretation's state while its residue r₀ ≠ 0
 remains regrows it at the next step (m₁ = ν·r₀), which then decays at the
 slow rate ([CLAIM-400](../claims.d/CLAIM-400.md)).
+
+## Note of 2026-11-12: the term adopted as an outcome measure, and read correctly, from "luria experiment design"
+
+A34, A36, A39 and A45 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) make this term the integrating outcome of
+the proposed evaluations of the record: whether a team achieves the
+justified objective within its deadline and resources. A36 reads
+the definition correctly and marks the gap between it and any study: the
+measured rate "estimates the success rate of the *tested policy*, not
+Nucleation's supremum over every possible policy", and "The outcome is
+meaningful only if the correction objective is specified independently of
+the system's own judgments." A36's funnel, detected, diagnosed, selected,
+authorized, executed, verified, follows the term's finds, authorizes,
+coordinates and carries out, with diagnosis and verification added as
+stages. The definition is unchanged.

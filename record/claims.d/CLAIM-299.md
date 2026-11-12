@@ -55,6 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: ARG-028 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-189 CLAIM-190 CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmpx4v17 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-299: Decision sufficiency, historical accountability and correctness are three properties of a record of inquiry, and each can hold while the other two fail
 
@@ -100,3 +101,11 @@ fell; it is Superseded by [ARG-028](../arguments.d/ARG-028.md), which carries th
 That any of the three is unimportant. A6 on [CASE-084](../cases.d/CASE-084.md): "An accountable record
 may help identify errors once the excluded possibility is made
 available."
+
+## Note of 2026-11-12: Lebo, Sahoo and McGuinness (eds.), read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Lebo, Sahoo and McGuinness (eds.)** ([THEORY-tmpx4v17](../theory.d/THEORY-tmpx4v17.md)): **supports by illustration**, not by argument. A complete PROV-O description of a record secures the historical-accountability property (who produced what from what, and revised it how) while saying nothing about the other two: the vocabulary has no term for whether a derived statement is supported or correct. That a mature standard for provenance carries no support or standing vocabulary is consistent with treating accountability as a separable predicate. It does not exhibit the separations itself.
+
+The claim is unchanged.

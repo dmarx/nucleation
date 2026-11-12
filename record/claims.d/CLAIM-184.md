@@ -64,6 +64,8 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-917 — Unavailable, unread; cited for what it is standardly cited for, and marked unread in the text -->
+<!-- inactive-ok-file: SYNTHESIS-012 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmp5rm74 THEORY-tmpkjz86 THEORY-tmprmh1c THEORY-tmpvuz7f — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-184: Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
@@ -240,3 +242,31 @@ No status changes.
 ## Note of 2026-11-06: what holds it back
 
 The count under "What would answer it" was run on 2026-11-06 by scratch/formal/claim184_185_counts.py, which has a control. It found 50 Superseded CLAIMs and TERMs. Of the citations of them in other entries, 897 are dated on or before retirement and 71 after it, in 27 codes. Of those 71, 54 carry an inactive-ok acknowledgement and 17 do not. All 17 unacknowledged ones read as history: a successor naming what it revises, chains of supersession, history notes recording a move, inline "Superseded" glosses, and one converse edge to the retired claim's own premise. A sample of the acknowledged ones reads the same way. So on this record superseded anchors stop attracting new structure. That answers the clause "retirement by status is the record's remedy only if superseded anchors stop attracting new structure" in favour of retirement by status. Three caveats. Citations are dated without git history: body text at the latest dated note above it, or else at the entry's filing date, so a later edit to older text is missed. 46 of the 50 retirement dates are the successor's filing date, used as a proxy. And an acknowledgement is not proof of a history use, which is why the unacknowledged ones were each read. What still holds the claim: its first half, that an early anchor locks in its framing so that alternatives become hard to reach, has no result here, and the loop [TERM-020](../terms.d/TERM-020.md) requires (note of 2026-10-12) is still not shown.
+
+## Note of 2026-11-12: maturing against entrenching, and how it might be tested, from "luria experiment design"
+
+A25 §6 of the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda) read [CASE-178](../cases.d/CASE-178.md)'s falling rate of grammar changes as open
+between maturing and entrenching, as [SYNTHESIS-012](../syntheses.d/SYNTHESIS-012.md) leaves it. A50 §5 adds
+March's model of mutual learning between members and an organizational
+code ([LIT-729](../literature.d/LIT-729.md)): "A shared schema is, in part, an organizational code", and
+"the same process may systematically disadvantage findings that require
+unfamiliar categories". Its proposed test, "controlled code rigidity",
+varies the cost of proposing a category and the frequency of novel tasks
+over generations of agent teams under fixed, free, governed and
+performance-gated schemas, with "the tradeoff between familiar-task
+performance and justified adaptation to new problems" as the outcome. A17
+proposes the same danger as a counter-hypothesis to test in any evaluation
+of the record, and A43 adds its forms across generations: "loss of source
+diversity, repeated citation of derivative claims as independent evidence,
+or progressively narrower categories". The claim is unchanged.
+
+## Note of 2026-11-12: 4 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Xue et al.** ([THEORY-tmpvuz7f](../theory.d/THEORY-tmpvuz7f.md)): The Update failure, old evidence "remains active after correction", is a small empirical instance of the claim's condition; E2's suppression of superseded entries at render time is the remedy the claim names. Supports, illustratively.
+- **Park et al.** ([THEORY-tmp5rm74](../theory.d/THEORY-tmp5rm74.md)): 7.2's "overly cooperative" agents whose interests are reshaped by others' suggestions is a converse failure (no anchoring at all), not evidence for either side.
+- **Xu et al.** ([THEORY-tmpkjz86](../theory.d/THEORY-tmpkjz86.md)): A-MEM is a contrast case. Its notes are addressable but rewritten in place, so nothing persists to entrench, and nothing persists to audit either. It neither supports nor tests these claims.
+- **Bansal et al.** ([THEORY-tmprmh1c](../theory.d/THEORY-tmprmh1c.md)): §6.3's anchoring point (AI answer shown first) is a human-side instance. Mention only.
+
+The claim is unchanged.

@@ -1,0 +1,71 @@
+---
+status: Read
+paper: LIT-tmpw8wtg
+title: 'Doyle — A Glimpse of Truth Maintenance'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from the copy named in the reading. A delegated reader
+    drafted the reading; quotations were rechecked by script against the
+    downloaded copy, and any that did not match were kept as paraphrase
+    without quotation marks.
+date: '2026-11-12'
+summary: >-
+  The TMS records, for each belief (node), the reasons (justifications) for
+  it, and keeps the set of current beliefs consistent with those reasons. A
+  node is believed (in) if at least one of its justifications is valid, out
+  otherwise. An SL-justification is valid when every node in its in-list is
+  in and every node in its out-list is out; a non-empty out-list makes the
+  node an assumption, believed because something else is not.
+---
+<!-- inactive-ok-file: CLAIM-tmp8qsef — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: LIT-2291 — Unfetched; cited for what each holds, not as settled -->
+
+# NOTE-tmpyvofd: Doyle — A Glimpse of Truth Maintenance
+
+## Key results
+
+1. Purpose (abstract): "The TMS records and maintains the reasons for program beliefs."
+2. In/out rule (§2): "The node is believed if at least one of these justifications is valid."
+3. In/out is not truth (§2): "The former classification denotes conditions of knowledge about reasons for belief"; Doyle contrasts in/out with true/false (that sentence's key words are garbled in the scan).
+4. SL validity (§2): an SL-justification is valid "if each node in its inlist is in".
+5. Fallible blame (§4): the new justification must record alternatives "Since the backtracker may be mistaken in its assignment of blame to that assumption".
+6. Culprit choice (§4, example): in the meeting-scheduling example the culprit assumption is chosen arbitrarily from the two maximal assumptions (garbled in the scan; paraphrased).
+7. Non-chronological (§4): "the support relationships rather than the temporal orderings determine the choices responsible for an error".
+8. Nogoods (§4): "This summarization keeps the system from making the same mistake in the future."
+9. Scope (§5): "The TMS solves part of the problems of belief revision and" limited information.
+
+## Assumptions
+
+Justifications are supplied by the problem solver and are taken as sufficient reasons; consistency
+is signalled externally by marking contradiction nodes ("there is no built-in notion of
+inconsistency"); no degrees of belief.
+
+## Concepts
+
+Node; justification (SL, CP); in/out; assumption; non-monotonic justification; well-founded
+support; default assumption; contradiction node; dependency-directed backtracking; maximal
+assumptions; nogood; culprit.
+
+## Bearing on the record
+
+Doyle wrote it as the conference summary of the memo: a footnote says his new paper [2], the
+memo (AIM-521), presents the TMS's foundations, mechanisms and applications in much greater depth
+(paraphrased; the footnote is garbled in the text layer). It **restates**: nodes and justifications; in/out labelling; support-list
+(SL) and conditional-proof (CP) justifications with in-lists and out-lists; non-monotonic
+justifications and assumptions; default assumptions over fixed and extensible sets of
+alternatives; dependency-directed backtracking with maximal assumptions, nogoods and culprit
+selection. It **does not restate**: the truth-maintenance algorithm itself (labelling procedure,
+handling of circular support, well-founded support computation in detail), the explanation
+facilities, and the problem-solver control uses, which it only mentions. Stands in for the
+system's design; not for its algorithms or proofs.
+
+See [LIT-2291](../literature.d/LIT-2291.md)'s report: it **supports [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md)** with a narrowing (TMS relabels from
+justifications that are sufficient by stipulation; contradiction blame is chosen, and may be
+wrong); **supports [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md)**'s comparison class; **consistent with [CLAIM-293](../claims.d/CLAIM-293.md)**.
+
+## Limitations
+
+Six-page summary; OCR text; no algorithm or complexity results.
