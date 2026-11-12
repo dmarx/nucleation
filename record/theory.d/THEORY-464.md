@@ -150,4 +150,4 @@ it to infant circumcision. The argument for deferring until adulthood
 protects the infant's body for a future decision-maker, and what links the
 two "might instead be the fact that the future adult's autonomy depends
 causally on what happens to the child's body now", not numerical identity.
-A's application, unread in any source; it bears on QUESTION-tmp2lvhi.
+A's application, unread in any source; it bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).

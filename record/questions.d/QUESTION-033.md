@@ -69,10 +69,10 @@ Nor is the bare assertion that every level contributes.
 
 The exchange (2026-11-11) gave this question three new kinds of driver. A
 parasite whose adaptations steer the host's behaviour through the host's own
-machinery (CASE-tmp10ykm, CLAIM-tmpoxhqq). The enteric level between
-microbes and person (note on CASE-047). And a firm's design procedure, where
+machinery ([CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md)). The enteric level between
+microbes and person (note on [CASE-047](../cases.d/CASE-047.md)). And a firm's design procedure, where
 A31 §10 answers "who drives" twice: the operative driver is "the firm's
 optimization procedure, while the distribution of players' marginal economic
-responses influences what that procedure selects" (CLAIM-tmpmz271). A21 §4
+responses influences what that procedure selects" ([CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)). A21 §4
 adds the caution that "observing where causal drive sits is not equivalent
 to identifying which organism's interests a regulatory change serves".

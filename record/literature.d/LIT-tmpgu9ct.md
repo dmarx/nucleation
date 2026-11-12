@@ -20,7 +20,7 @@ first_author: 'Hu'
 keywords: []
 implementations: []
 summary: >-
-  Hu et al. (2023), DOI-10.4230/lipics.forc.2026.15. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §3. It bears on CLAIM-tmpcv1pg. In A's account, which is unverified until read, it shows in a model that some online-learning recommender algorithms give producers incentives to lower quality over time, and proposes algorithms that sustain it.
+  Hu et al. (2023), DOI-10.4230/lipics.forc.2026.15. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §3. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md). In A's account, which is unverified until read, it shows in a model that some online-learning recommender algorithms give producers incentives to lower quality over time, and proposes algorithms that sustain it.
 ---
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
@@ -34,4 +34,4 @@ Xinyan Hu, Meena Jagadeesan, Michael I. Jordan and Jacob Steinhardt (2023). "Inc
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. It bears on CLAIM-tmpcv1pg.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).

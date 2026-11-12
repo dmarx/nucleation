@@ -155,10 +155,10 @@ unchanged and stays Open.
 
 ## Note of 2026-11-12: finite failures and a sampled boundary, from "Medical Ethics and Media Enshitification"
 
-Zhai and colleagues' capability boundary (LIT-tmpt7avk, read) is estimated
+Zhai and colleagues' capability boundary ([LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md), read) is estimated
 as the problems solved at least once in n rollouts; a problem outside it at n = 64 is
 not shown unsolvable. A44 draws the moral for this question: "an
 institutional claim that no acceptable remedy exists requires more than
 repeated unsuccessful searches", and adds that a solution sampled but not
 recognized by the institution's evaluator is not a remedy found
-(CASE-tmpz1l6r). THEORY-tmps74c5 bears on this question.
+([CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md)). [THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md) bears on this question.

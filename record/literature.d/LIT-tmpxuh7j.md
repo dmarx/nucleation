@@ -20,7 +20,7 @@ first_author: 'UNESCO'
 keywords: []
 implementations: []
 summary: >-
-  UNESCO (2025), UNESCO, adopted at the 43rd session of the General Conference, Samarkand. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §1. It bears on CLAIM-tmpu69tn. In A's account, which is unverified until read, it is a recommendation adopted by UNESCO's General Conference addressing mental privacy, identity, agency, consent and manipulation of neural information.
+  UNESCO (2025), UNESCO, adopted at the 43rd session of the General Conference, Samarkand. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §1. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md). In A's account, which is unverified until read, it is a recommendation adopted by UNESCO's General Conference addressing mental privacy, identity, agency, consent and manipulation of neural information.
 ---
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
@@ -34,4 +34,4 @@ UNESCO General Conference (2025). "Recommendation on the Ethics of Neurotechnolo
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. It bears on CLAIM-tmpu69tn.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).

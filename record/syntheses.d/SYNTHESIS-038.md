@@ -202,10 +202,10 @@ None is filed as a claim. [CLAIM-624](../claims.d/CLAIM-624.md)'s integration wa
 ## Note of 2026-11-12: A37's map of the line, from "Medical Ethics and Media Enshitification"
 
 A37 §1 of the exchange (2026-11-11) maps the organizational-normativity line
-through this account's components, QUESTION-128, QUESTION-129, CLAIM-518,
-QUESTION-441, QUESTION-449 and CLAIM-075, and states each accurately. It
+through this account's components, [QUESTION-128](../questions.d/QUESTION-128.md), [QUESTION-129](../questions.d/QUESTION-129.md), [CLAIM-518](../claims.d/CLAIM-518.md),
+[QUESTION-441](../questions.d/QUESTION-441.md), [QUESTION-449](../questions.d/QUESTION-449.md) and [CLAIM-075](../claims.d/CLAIM-075.md), and states each accurately. It
 adds no component the account lacks. Audited in the curation entry of
 2026-11-12 as descriptive; no revision. Entries filed from the exchange on
-this line, CLAIM-tmpvceet, CLAIM-tmpifp69, CASE-tmpd5eqf, QUESTION-tmpuftum
-and QUESTION-tmp2lvhi, are not yet integrated, which is the owner's call at
+this line, [CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md), [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)
+and [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md), are not yet integrated, which is the owner's call at
 the next synthesis review.

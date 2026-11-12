@@ -28,7 +28,7 @@ summary: >-
   lowering total microchimerism. What they do, why they persist, and what
   counts as microchimerism are open.
 ---
-<!-- inactive-ok-file: CLAIM-tmpn0ytb ARG-tmp51yxc THEORY-tmp4rc81 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpn0ytb ARG-tmp51yxc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-448 THEORY-413 — Proposed; the readings this one bears on -->
 
 # NOTE-tmpjgzqv: Chua et al. — Key questions and challenges in microchimerism biology
@@ -83,18 +83,18 @@ primary studies it cites, which were not read here.
 
 ## Bearing on the record
 
-- On the owner's CLAIM-tmpn0ytb: the review supports the empirical premise
+- On the owner's [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md): the review supports the empirical premise
   that separation of mother and offspring is incomplete at the level of
   cells, for decades, in both directions. It does not support gradedness
   of individuality as such, and its definitional dispute (§3.6) shows
   that whether two individuals are "mixed" depends on what is counted.
-  ARG-tmp51yxc.
-- On THEORY-448 (Meincke): the bidirectional, lifelong exchange extends the
+  [ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md).
+- On [THEORY-448](../theory.d/THEORY-448.md) (Meincke): the bidirectional, lifelong exchange extends the
   one-or-two question past birth at the level of cells.
-- On THEORY-413 (four roles in units of selection) and QUESTION-277: the
+- On [THEORY-413](../theory.d/THEORY-413.md) (four roles in units of selection) and [QUESTION-277](../questions.d/QUESTION-277.md): the
   cooperation-and-conflict framing makes the beneficiary of a
   microchimeric cell's activity a separate question from where it sits.
-- On QUESTION-035: where the boundary of a combined form lies depends on the
+- On [QUESTION-035](../questions.d/QUESTION-035.md): where the boundary of a combined form lies depends on the
   target. Here the answer differs for genome, tissue and immune
   regulation.
 

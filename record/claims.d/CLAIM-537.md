@@ -135,4 +135,4 @@ inclusions. A calls it "a proposed application of existing
 robust-feasibility machinery", rightly, since it is this claim's ∀∃ against
 ∃∀. Its use: an institution can act defensibly across reasonable
 interpretations without choosing among them exactly when the demand set is
-in K_uniform (QUESTION-tmpuftum). No new claim filed.
+in K_uniform ([QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)). No new claim filed.

@@ -19,7 +19,7 @@ first_author: 'Sullivan'
 keywords: []
 implementations: []
 summary: >-
-  Sullivan et al. (2025), DOI-10.64898/2025.12.06.692770. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §4. It bears on CLAIM-tmpoxhqq. In A's account, which is unverified until read, it is a preprint reporting that different inflammatory challenges elicit distinct behavioural, brain-activity and hypothalamic transcriptional sickness states in mice.
+  Sullivan et al. (2025), DOI-10.64898/2025.12.06.692770. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §4. It bears on [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md). In A's account, which is unverified until read, it is a preprint reporting that different inflammatory challenges elicit distinct behavioural, brain-activity and hypothalamic transcriptional sickness states in mice.
 ---
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Zuri A. Sullivan, Bertrand J. Wong, Vikrant Kapoor, Paula Kathleen Vincze, Harri
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §4. It bears on CLAIM-tmpoxhqq.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §4. It bears on [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md).

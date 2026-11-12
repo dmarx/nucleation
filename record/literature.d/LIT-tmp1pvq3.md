@@ -20,7 +20,7 @@ first_author: 'Kinder'
 keywords: []
 implementations: []
 summary: >-
-  Kinder et al. (2017), DOI-10.1038/nri.2017.38. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §3. It bears on CLAIM-tmpn0ytb, THEORY-443. In A's account, which is unverified until read, it proposes that persistent maternal and fetal cells form a biologically active "microchiome" and an immunological "extended self".
+  Kinder et al. (2017), DOI-10.1038/nri.2017.38. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §3. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [THEORY-443](../theory.d/THEORY-443.md). In A's account, which is unverified until read, it proposes that persistent maternal and fetal cells form a biologically active "microchiome" and an immunological "extended self".
 ---
 <!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-443 — Proposed; cited as on the record -->
@@ -35,4 +35,4 @@ Jeremy M. Kinder, Ina A. Stelzer, Petra C. Arck and Sing Sing Way (2017). "Immun
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §3. It bears on CLAIM-tmpn0ytb, THEORY-443.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §3. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [THEORY-443](../theory.d/THEORY-443.md).

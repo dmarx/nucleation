@@ -24,7 +24,7 @@ summary: >-
   patterns") and U12 ("there's probably a useful intersection here with
   mobile gaming and 'whaling'"). Two designs with one target: telling a
   design that serves users' endorsed commitments from one that profits by
-  making those commitments ineffective, which CLAIM-523 calls a failure of
+  making those commitments ineffective, which [CLAIM-523](../claims.d/CLAIM-523.md) calls a failure of
   volitional efficacy. Not run. The wording is A's; adopting it is the
   owner's call.
 ---
@@ -43,7 +43,7 @@ effective, what correction costs, whether users can say what the system
 optimizes, and whether changes persist after the recommender or friction
 is removed. The method extends Bogliacino and colleagues' transaction test,
 in which dark patterns raised inconsistency between choices and
-independently elicited preferences (LIT-tmpj7u27, unread), "from
+independently elicited preferences ([LIT-tmpj7u27](../literature.d/LIT-tmpj7u27.md), unread), "from
 individual transactions to trajectories of choice".
 
 **The game arm (A25 §9).** Players set a budget and say what they want from
@@ -62,7 +62,7 @@ continue to endorse". High spending or long sessions alone would not.
 
 Whether a design governs the practical efficacy of a user's preferences
 rather than their content: A25's "governance over the practical efficacy of
-preferences", CLAIM-404's outside governance and CLAIM-523's volitional
+preferences", [CLAIM-404](../claims.d/CLAIM-404.md)'s outside governance and [CLAIM-523](../claims.d/CLAIM-523.md)'s volitional
 efficacy, in a setting where both can be measured. A23 warns against
 assuming "that initial preferences are intrinsically more authentic than
 later ones"; the test is whether changes "remain open to informed
@@ -72,4 +72,4 @@ reflection, revision, and comparison with alternatives".
 
 Not run, and the arms are A's sketches. A31 §9's caution applies: no
 experiment may induce harmful spending. The method's source,
-LIT-tmpj7u27, is unread.
+[LIT-tmpj7u27](../literature.d/LIT-tmpj7u27.md), is unread.

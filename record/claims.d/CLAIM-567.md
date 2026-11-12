@@ -306,9 +306,9 @@ A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-12: PASS@(k,T), from "Medical Ethics and Media Enshitification"
 
 The owner's U21 of the exchange (2026-11-11) linked this claim's
-distinctions to Zhai and colleagues' PASS@(k,T) (LIT-tmpt7avk, read;
-THEORY-tmps74c5). Its capability boundary is reachability by a given
+distinctions to Zhai and colleagues' PASS@(k,T) ([LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md), read;
+[THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md)). Its capability boundary is reachability by a given
 stochastic process under a budget, and its efficiency is reliable
 attainment; the paper has no counterpart of feasibility apart from
-reachability. Filed as the owner's CLAIM-tmpyc5md, argued in ARG-tmpid47d.
+reachability. Filed as the owner's [CLAIM-tmpyc5md](CLAIM-tmpyc5md.md), argued in [ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md).
 A44 §1 cites this claim accurately. No status change.

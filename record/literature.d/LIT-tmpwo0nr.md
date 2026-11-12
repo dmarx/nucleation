@@ -19,7 +19,7 @@ first_author: 'Kumar'
 keywords: []
 implementations: []
 summary: >-
-  Kumar et al. (2026), DOI-10.1111/nmo.70475. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §3. It bears on CLAIM-166. In A's account, which is unverified until read, it reports that microbiota from infants fed by secretor mothers alter gut transit and enteric nervous development in germ-free mice, by sex.
+  Kumar et al. (2026), DOI-10.1111/nmo.70475. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md). In A's account, which is unverified until read, it reports that microbiota from infants fed by secretor mothers alter gut transit and enteric nervous development in germ-free mice, by sex.
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Bharath K. Kumar, Valentina Caputi, Kirandeep K. Gill, Bindu Nanduri, Tanya Lero
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §3. It bears on CLAIM-166.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md).

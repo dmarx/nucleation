@@ -29,17 +29,16 @@ grounds:
 summary: >-
   A's (ChatGPT's), A19 §§1, 3 and 8 of the exchange "Medical Ethics and
   Media Enshitification" (2026-11-11), answering the owner's U9
-  (QUESTION-tmpgciew). A19 distinguishes "evolutionary goal-directedness",
+  ([QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md)). A19 distinguishes "evolutionary goal-directedness",
   "causal behavioral control" and "intentional agency", grants the first
   two for several parasite-host systems and calls the third "generally
   unsupported". Its candidate claim: "endogenous behavioral execution and
   independence of behavioral governance are separable properties". It is
-  CLAIM-404's outside governance carried across an organism boundary.
-  ARG-tmp1jad4 weighs the evidence. The wording is A's; adopting it is the
+  [CLAIM-404](CLAIM-404.md)'s outside governance carried across an organism boundary.
+  [ARG-tmp1jad4](../arguments.d/ARG-tmp1jad4.md) weighs the evidence. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp10ykm ARG-tmp1jad4 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpfw2u8 LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: ARG-tmp1jad4 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-413 — Proposed; the four roles in units of selection, the beneficiary among them -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-167 — Proposed; the authenticity candidate and the one-system-not-one-agent claim A19 tests against -->
 
@@ -74,20 +73,20 @@ goal formation "Not established").
 
 ## Where it sits
 
-- CLAIM-404 holds that an organization can be governed from outside, with
+- [CLAIM-404](CLAIM-404.md) holds that an organization can be governed from outside, with
   none of its decisions made for it, through its evidence or its criteria.
   This claim carries that across an organism boundary and adds a third
   route, execution. A19 calls parasitic manipulation "a biological
   realization of precisely that structure". The case illustrates the claim;
   it is not a premise of it.
-- CLAIM-167 (coupled components can be one system relative to a target
+- [CLAIM-167](CLAIM-167.md) (coupled components can be one system relative to a target
   without being one self): parasite and host can be one causal system with
   conflicting interests.
-- CLAIM-362 (non-domination among constituents as a candidate part of
+- [CLAIM-362](CLAIM-362.md) (non-domination among constituents as a candidate part of
   authenticity): A19 §4 notes the hostile influence need not be a
   constituent at all, and separates internal integration from
   cross-organism capture.
-- THEORY-413 (interactor, reproducer, manifestor of adaptation,
+- [THEORY-413](../theory.d/THEORY-413.md) (interactor, reproducer, manifestor of adaptation,
   beneficiary): the beneficiary of a manipulated behaviour is the parasite
   while the host executes it, as A19 §6's extended-phenotype reading
   ("the boundary of an organism is not necessarily the boundary of the

@@ -20,7 +20,7 @@ first_author: 'Boem'
 keywords: []
 implementations: []
 summary: >-
-  Boem et al. (2024), DOI-10.3389/fnins.2023.1172783. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on CLAIM-166, CASE-047. In A's account, which is unverified until read, it proposes extending embodied cognition to a "gut complex" of enteric nervous system, immune and endocrine systems, tissue and microbes.
+  Boem et al. (2024), DOI-10.3389/fnins.2023.1172783. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md), [CASE-047](../cases.d/CASE-047.md). In A's account, which is unverified until read, it proposes extending embodied cognition to a "gut complex" of enteric nervous system, immune and endocrine systems, tissue and microbes.
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
@@ -34,4 +34,4 @@ Federico Boem, Gregor P. Greslehner, Jan Pieter Konsman and Lynn Chiu (2024). "M
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on CLAIM-166, CASE-047.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md), [CASE-047](../cases.d/CASE-047.md).

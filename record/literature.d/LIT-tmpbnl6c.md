@@ -19,7 +19,7 @@ first_author: 'Nix'
 keywords: []
 implementations: []
 summary: >-
-  Nix (2024), DOI-10.1017/s0963180124000264. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A5 §3. It bears on THEORY-464, QUESTION-364. In A's account, which is unverified until read, it is a work on operationalizing the intolerable-suffering criterion in advance requests for medical assistance in dying for people with dementia in Canada.
+  Nix (2024), DOI-10.1017/s0963180124000264. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A5 §3. It bears on [THEORY-464](../theory.d/THEORY-464.md), [QUESTION-364](../questions.d/QUESTION-364.md). In A's account, which is unverified until read, it is a work on operationalizing the intolerable-suffering criterion in advance requests for medical assistance in dying for people with dementia in Canada.
 ---
 <!-- inactive-ok-file: THEORY-464 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Hayden P. Nix (2024). "Operationalizing the Intolerable Suffering Criterion in A
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §3. It bears on THEORY-464, QUESTION-364.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §3. It bears on [THEORY-464](../theory.d/THEORY-464.md), [QUESTION-364](../questions.d/QUESTION-364.md).

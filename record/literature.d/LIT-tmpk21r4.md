@@ -19,7 +19,7 @@ first_author: 'Close'
 keywords: []
 implementations: []
 summary: >-
-  Close et al. (2021), DOI-10.1016/j.addbeh.2021.106851. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §1 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271. In A's account, which is unverified until read, it is a secondary analysis of about 7,767 loot-box buyers: the top 5% account for about half of reported spending, and spending tracks problem-gambling severity, not earnings.
+  Close et al. (2021), DOI-10.1016/j.addbeh.2021.106851. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §1 and A31 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md). In A's account, which is unverified until read, it is a secondary analysis of about 7,767 loot-box buyers: the top 5% account for about half of reported spending, and spending tracks problem-gambling severity, not earnings.
 ---
 <!-- inactive-ok-file: CASE-tmpmw3hc CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ James Close, Stuart Gordon Spicer, Laura Louise Nicklin, Maria Uther, Joanne Llo
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §1 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §1 and A31 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md).

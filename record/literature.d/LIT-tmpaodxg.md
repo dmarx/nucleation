@@ -19,7 +19,7 @@ first_author: 'Scalco'
 keywords: []
 implementations: []
 summary: >-
-  Scalco et al. (2026), DOI-10.1038/s41598-026-69786-8. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §7. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it develops methods for detecting information voids, mismatches between the supply of and demand for information, from longitudinal social-media and search data.
+  Scalco et al. (2026), DOI-10.1038/s41598-026-69786-8. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §7. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md). In A's account, which is unverified until read, it develops methods for detecting information voids, mismatches between the supply of and demand for information, from longitudinal social-media and search data.
 ---
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Irene Scalco, Francesco Gesualdo, Roy Cerqueti and Matteo Cinelli (2026). "How t
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §7. It bears on CLAIM-tmpifp69.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §7. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).

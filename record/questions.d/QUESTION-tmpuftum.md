@@ -19,9 +19,9 @@ summary: >-
   interpretation, and relative authority of those demands are themselves
   influenced by the organization's governing processes?" A separates
   "normative identification" from "normative accommodation". The
-  compatibility complex (CLAIM-347) serves the second and takes the first
+  compatibility complex ([CLAIM-347](../claims.d/CLAIM-347.md)) serves the second and takes the first
   as input. The owner's U21 answered with resource-bounded identification
-  (CLAIM-tmpyc5md, CLAIM-tmpvceet).
+  ([CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md), [CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpyc5md CLAIM-tmpvceet — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
@@ -31,8 +31,8 @@ summary: >-
 
 ## Why it is a question
 
-CLAIM-347's complex is defined for a given set of demands D, each with an
-acceptance set A_i. CLAIM-361 requires a fixed reference set and an explicit
+[CLAIM-347](../claims.d/CLAIM-347.md)'s complex is defined for a given set of demands D, each with an
+acceptance set A_i. [CLAIM-361](../claims.d/CLAIM-361.md) requires a fixed reference set and an explicit
 correspondence before and after change. Neither says how D is fixed. A42
 names three ways the fixing can fail, each with a literature registered
 unread:
@@ -40,16 +40,16 @@ unread:
 1. **Who is represented.** An aggregate can hide a small group's failure,
    the reverse of the whale case: "a small statistically underrepresented
    group can disappear inside it" (meta-metrics in intersectional
-   fairness, LIT-tmpv9xn3).
+   fairness, [LIT-tmpv9xn3](../literature.d/LIT-tmpv9xn3.md)).
 2. **How demands are inferred.** "behavioral observations are evidence
    about a demand, not automatically the demand itself": Â_i, the inferred
    acceptance set, is not A_i, and behaviour produced under selective
    exposure can make the second error hide the first (Caliari,
-   LIT-tmp6n74q; Freer and Nosratabadi, LIT-tmpq8pi2).
+   [LIT-tmp6n74q](../literature.d/LIT-tmp6n74q.md); Freer and Nosratabadi, [LIT-tmpq8pi2](../literature.d/LIT-tmpq8pi2.md)).
 3. **What demands mean.** "semantic substitution": an organization can
    meet a value by changing its operational test while keeping its name,
    A_original ≠ A_operative, which is neither relief nor deletion in
-   CLAIM-361's sense (Moats and colleagues, LIT-tmp6iql7).
+   [CLAIM-361](../claims.d/CLAIM-361.md)'s sense (Moats and colleagues, [LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)).
 
 What would count as an answer: conditions under which a demand set, its
 claimants and its acceptance sets can be fixed independently of the
@@ -59,13 +59,13 @@ checked against a reference set the organization did not choose.
 
 ## Bearing
 
-- QUESTION-129 asks whether relationally indexed judgments can be objective
+- [QUESTION-129](QUESTION-129.md) asks whether relationally indexed judgments can be objective
   about the standards themselves; this asks how the standards enter the
   analysis at all.
-- CLAIM-tmpvceet: identification is costly and can be penalized.
-- CLAIM-627 (jurisdiction over a concept's contexts partly settles whether
+- [CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md): identification is costly and can be penalized.
+- [CLAIM-627](../claims.d/CLAIM-627.md) (jurisdiction over a concept's contexts partly settles whether
   its uses are compatible): the third failure is a case of it.
-- CLAIM-537's adjustable and nonadjustable compatibility under
+- [CLAIM-537](../claims.d/CLAIM-537.md)'s adjustable and nonadjustable compatibility under
   disturbance: A42 §6 carries it to uncertainty about the demands'
   interpretation, with K_uniform ⊆ K_each ⊆ K_some, and asks whether an
   institution can act defensibly across interpretations without deciding

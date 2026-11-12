@@ -32,14 +32,14 @@ summary: >-
   hypotheses kept apart, and three levels of data. Not run. The cost
   figures were rechecked by the filer.
 ---
-<!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpftfht LIT-tmpk21r4 LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
 
 # CASE-tmpmw3hc: A proposed study: loot-box economies as a measurable test of whether a minority's spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game's releases against the economic weight of its high spenders, and the spread of designs across games
 
 ## The case
 
-**The owner's move (U14).** The pornography case (CLAIM-tmpcv1pg) cannot be
+**The owner's move (U14).** The pornography case ([CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md)) cannot be
 tested while "extreme" has no measure. An in-game economy has one, and a
 single mechanism is enough.
 
@@ -53,7 +53,7 @@ c(1 − (1 − q)^90)/q ≈ $83.8 and the tail stops at $180. "Two loot-box
 systems with similar expected costs can expose players to substantially
 different tail risks", so the distribution, not the mean, is tracked. Free
 draws, pity carry-over, bundles, currency rates and direct purchase must be
-recorded (Ivern and Carbonell count 136 design features, LIT-tmpuoy9g).
+recorded (Ivern and Carbonell count 136 design features, [LIT-tmpuoy9g](../literature.d/LIT-tmpuoy9g.md)).
 
 **The hypotheses (A29 §7), kept apart:**
 
@@ -70,7 +70,7 @@ recorded (Ivern and Carbonell count 136 design features, LIT-tmpuoy9g).
 
 **The data (A31 §9).** Player level: purchases, inventories, exposure,
 independently elicited budgets and preferences, with groups fixed before
-any design change (CLAIM-tmphgjbz). Game level: patch histories, prices,
+any design change ([CLAIM-tmphgjbz](../claims.d/CLAIM-tmphgjbz.md)). Game level: patch histories, prices,
 odds, pity rules and revenue by baseline group. Industry level: launches,
 revenue, longevity and imitation. Exogenous changes such as mandated odds
 disclosure serve as natural experiments.
@@ -92,8 +92,8 @@ not synonyms".
 ## Limits
 
 Not run. The evidence A cites for its premises (Amano and Simonov,
-LIT-tmpftfht; Close and colleagues, LIT-tmpk21r4; Pape and colleagues,
-LIT-tmpvev3t; Cordes and colleagues, LIT-tmp88875; Han, Ryan and Tong,
-LIT-tmpbl3eg) is registered unread. A31 rules out inducing harmful spending:
+[LIT-tmpftfht](../literature.d/LIT-tmpftfht.md); Close and colleagues, [LIT-tmpk21r4](../literature.d/LIT-tmpk21r4.md); Pape and colleagues,
+[LIT-tmpvev3t](../literature.d/LIT-tmpvev3t.md); Cordes and colleagues, [LIT-tmp88875](../literature.d/LIT-tmp88875.md); Han, Ryan and Tong,
+[LIT-tmpbl3eg](../literature.d/LIT-tmpbl3eg.md)) is registered unread. A31 rules out inducing harmful spending:
 "Experiments involving vulnerable users or harmful spending inducements
 would be inappropriate".

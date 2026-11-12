@@ -19,7 +19,7 @@ first_author: 'Davoudabadi'
 keywords: []
 implementations: []
 summary: >-
-  Davoudabadi et al. (2026), DOI-10.1038/s41598-026-37793-4. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §4. It bears on CLAIM-347. In A's account, which is unverified until read, it is a model in which users' changing expectations and organizations' operational requirements both enter recommender design.
+  Davoudabadi et al. (2026), DOI-10.1038/s41598-026-37793-4. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §4. It bears on [CLAIM-347](../claims.d/CLAIM-347.md). In A's account, which is unverified until read, it is a model in which users' changing expectations and organizations' operational requirements both enter recommender design.
 ---
 
 # LIT-tmporx78: Introducing a predictive-oriented multi-stakeholder recommender system model
@@ -32,4 +32,4 @@ Reza Davoudabadi, Ahmad Makui and Mohammad R. Rasouli (2026). "Introducing a pre
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §4. It bears on CLAIM-347.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §4. It bears on [CLAIM-347](../claims.d/CLAIM-347.md).

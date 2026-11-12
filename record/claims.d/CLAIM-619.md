@@ -172,5 +172,5 @@ complaints as improvement. A agrees with the claim's caution: "a declining
 complaint count alone is not enough", since complaints can fall because the
 problem was solved, and "The stronger test involves independent evidence of
 the original problem and interventions on the channels through which
-objections become effective." CLAIM-tmpvceet, filed from the same exchange,
+objections become effective." [CLAIM-tmpvceet](CLAIM-tmpvceet.md), filed from the same exchange,
 is a passive companion. No status change.

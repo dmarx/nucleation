@@ -19,7 +19,7 @@ promote_when: >-
   the account only reports them as open.
 summary: >-
   Chua and colleagues' consensus of 29 microchimerism researchers
-  (LIT-tmpjik3n, read in NOTE-tmpjgzqv). The established half is what the
+  ([LIT-tmpjik3n](../literature.d/LIT-tmpjik3n.md), read in [NOTE-tmpjgzqv](../notes.d/NOTE-tmpjgzqv.md)). The established half is what the
   owner's link to graded individuality needs as a premise; the open half
   is why it cannot yet carry more. Proposed because the established half
   rests on primary studies not read here.
@@ -43,7 +43,7 @@ open questions.
 ## Evidence
 
 The review's synthesis of its cited studies and its 29 experts' questions
-(NOTE-tmpjgzqv). No new data.
+([NOTE-tmpjgzqv](../notes.d/NOTE-tmpjgzqv.md)). No new data.
 
 ## What it does not say
 

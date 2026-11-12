@@ -39,10 +39,10 @@ summary: >-
   and investigative capacity is being "reorganized, not simply
   extinguished". The reasons investigations lose, findings that cannot
   show demand before they exist and value that falls outside the
-  newsroom, are A33 §§3 and 5. ARG-tmp7eevo weighs the transfer from
+  newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmz271 CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd LIT-tmpc2x78 — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpifp69: The selection that lets economically weighted demand set a product's design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them
@@ -61,7 +61,7 @@ Three steps, as A33 gives them:
 1. **Selection from packaging to capability (§2).** Optimization starts
    with headlines, then assignments, then "which reporting skills, beats,
    and investigative capabilities are retained". Robertson and colleagues'
-   headline tests (LIT-tmpox72u): each negative word raised clicks by about
+   headline tests ([LIT-tmpox72u](../literature.d/LIT-tmpox72u.md)): each negative word raised clicks by about
    2.3%, a causal result about clicking only.
 2. **Externality (§3).** A newsroom pays for an investigation and captures
    only part of its value; an investigation can be worth its cost to the
@@ -71,7 +71,7 @@ Three steps, as A33 gives them:
    investigations publishes fewer, sees little traffic for them, and cuts
    again: "The absence of discovered information becomes difficult to
    distinguish from the absence of demand for that information." This is
-   CASE-tmpd5eqf.
+   [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md).
 
 ## A's corrections, part of the claim's edge
 
@@ -82,7 +82,7 @@ Three steps, as A33 gives them:
   reflects the collapse of older advertising subsidies, with click-driven
   optimization functioning as an adaptation to that shock rather than its
   principal cause."
-- Christin's ethnography (LIT-tmpw11wj): newsrooms read metrics
+- Christin's ethnography ([LIT-tmpw11wj](../literature.d/LIT-tmpw11wj.md)): newsrooms read metrics
   differently and sometimes cross-subsidize investigations, so "Metrics
   don't mechanically determine editorial decisions."
 - A reversal (§7): a minority of values-driven subscribers can protect
@@ -91,23 +91,23 @@ Three steps, as A33 gives them:
 
 ## Evidence, as A reports it
 
-Bisiani and colleagues (LIT-tmp1bfvb), falling originality and local
+Bisiani and colleagues ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), falling originality and local
 relevance across 27 Reach newspapers from 2019 to 2025; Hayes
-(LIT-tmpk0xvf), scandal coverage down to about a quarter from 1990 to 2022
-as reporting resources shrank; Gao, Lee and Murphy (LIT-tmpn09dd), higher
+([LIT-tmpk0xvf](../literature.d/LIT-tmpk0xvf.md)), scandal coverage down to about a quarter from 1990 to 2022
+as reporting resources shrank; Gao, Lee and Murphy ([LIT-tmpn09dd](../literature.d/LIT-tmpn09dd.md)), higher
 municipal borrowing costs after closures. All unread; observational except
 the headline tests.
 
 ## Where it sits
 
-- CLAIM-404, with A33's newsroom governed through "resource dependencies"
-  and success criteria rather than instructions; CASE-123's press variant
+- [CLAIM-404](CLAIM-404.md), with A33's newsroom governed through "resource dependencies"
+  and success criteria rather than instructions; [CASE-123](../cases.d/CASE-123.md)'s press variant
   is the record's earlier case of a newsroom whose evidence depends on the
   party it evaluates.
-- CLAIM-463 (restoring the conditions a capacity was lost under need not
+- [CLAIM-463](CLAIM-463.md) (restoring the conditions a capacity was lost under need not
   restore it): A33 §9's "path-dependent loss of organizational
   possibility", and the formal hysteresis A35 reports from
-  Montero-Porras and colleagues' model (LIT-tmpc2x78, unread).
-- CLAIM-523 (legibility, volitional efficacy, correctability): losing
+  Montero-Porras and colleagues' model ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md), unread).
+- [CLAIM-523](CLAIM-523.md) (legibility, volitional efficacy, correctability): losing
   investigative capacity is losing legibility of the discrepancies the
   newsroom exists to find.

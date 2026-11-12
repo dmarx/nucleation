@@ -189,5 +189,5 @@ enough disinvestment cannot. A39 §7 reads the third of its answerability
 cases the same way: "answerability was initially compatible, but the
 organization changed itself so that it no longer is", so that "present
 infeasibility may be part of the object of normative evaluation rather than
-an excuse that ends it". That is this claim with CLAIM-518's histories. No
+an excuse that ends it". That is this claim with [CLAIM-518](CLAIM-518.md)'s histories. No
 new claim filed; mapped here.

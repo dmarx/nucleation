@@ -19,7 +19,7 @@ first_author: 'Brenninger'
 keywords: []
 implementations: []
 summary: >-
-  Brenninger et al. (2025), DOI-10.1111/brv.70024. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §5. It bears on CLAIM-tmpu69tn, CLAIM-354. In A's account, which is unverified until read, it unifies models of endosymbionts such as Wolbachia that manipulate arthropod reproduction.
+  Brenninger et al. (2025), DOI-10.1111/brv.70024. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §5. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [CLAIM-354](../claims.d/CLAIM-354.md). In A's account, which is unverified until read, it unifies models of endosymbionts such as Wolbachia that manipulate arthropod reproduction.
 ---
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Franziska A. Brenninger, Roman Zug and Hanna Kokko (2025). "Infection dynamics o
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §5. It bears on CLAIM-tmpu69tn, CLAIM-354.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §5. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [CLAIM-354](../claims.d/CLAIM-354.md).

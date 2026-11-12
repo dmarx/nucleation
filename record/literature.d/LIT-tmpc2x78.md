@@ -20,7 +20,7 @@ first_author: 'Montero-Porras'
 keywords: []
 implementations: []
 summary: >-
-  Montero-Porras et al. (2026), DOI-10.3233/faia260512. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §1. It bears on THEORY-150, THEORY-470, CLAIM-463. In A's account, which is unverified until read, it is an evolutionary game of platform and creators with two stable outcomes, quality and extraction, and tipping points with hysteresis.
+  Montero-Porras et al. (2026), DOI-10.3233/faia260512. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §1. It bears on [THEORY-150](../theory.d/THEORY-150.md), [THEORY-470](../theory.d/THEORY-470.md), [CLAIM-463](../claims.d/CLAIM-463.md). In A's account, which is unverified until read, it is an evolutionary game of platform and creators with two stable outcomes, quality and extraction, and tipping points with hysteresis.
 ---
 <!-- inactive-ok-file: THEORY-150 THEORY-470 — Proposed; cited as on the record -->
 
@@ -34,4 +34,4 @@ Eladio Montero-Porras, Annelien Smets and Tom Lenaerts (2026). "Enshittification
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §1. It bears on THEORY-150, THEORY-470, CLAIM-463.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §1. It bears on [THEORY-150](../theory.d/THEORY-150.md), [THEORY-470](../theory.d/THEORY-470.md), [CLAIM-463](../claims.d/CLAIM-463.md).

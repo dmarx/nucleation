@@ -34,21 +34,21 @@ summary: >-
 ## The inference
 
 1. Infected hosts behave in ways that favour the parasite's transmission
-   (CASE-tmp10ykm).
-2. As A reports the 2026 meta-analysis (LIT-tmpfw2u8), the effect on
+   ([CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md)).
+2. As A reports the 2026 meta-analysis ([LIT-tmpfw2u8](../literature.d/LIT-tmpfw2u8.md)), the effect on
    predation susceptibility depends on parasite stage, strongest when the
    parasite is ready to transmit, and is stronger when the right predator
    is present.
 3. An adaptation for transmission predicts exactly that timing and
    specificity; generic illness does not.
 4. So the behaviour is controlled by the parasite's selected adaptations,
-   the first two senses of CLAIM-tmpoxhqq.
+   the first two senses of [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md).
 
 ## Critical questions
 
 - **Would the evidence be expected if the hypothesis were false?** Step 1
   would: sick animals behave differently, and some infection-induced
-  changes serve the host's defence (A21 §4; LIT-tmpawef9 and LIT-tmpk1h9j
+  changes serve the host's defence (A21 §4; [LIT-tmpawef9](../literature.d/LIT-tmpawef9.md) and [LIT-tmpk1h9j](../literature.d/LIT-tmpk1h9j.md)
   as A reports them). Step 2 would not, if it holds: illness has no reason
   to peak at transmissibility or to track the next host.
 - **Does it tell the hypothesis apart from its rivals?** From nonspecific
@@ -56,7 +56,7 @@ summary: >-
   harms the host and helps the parasite. A21 §4's table makes that the
   discriminating column. From intentional agency, not at all: an evolved
   mechanism and a represented goal predict the same behaviour here, so the
-  cases say nothing about the third sense either way. CLAIM-tmpoxhqq's
+  cases say nothing about the third sense either way. [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md)'s
   "generally unsupported" is an absence of evidence.
 - **Does the measure measure what it is said to?** Unverified. Steps 1
   and 2 are A's reports of works registered unread, and A19 notes that

@@ -19,7 +19,7 @@ first_author: 'Pape'
 keywords: []
 implementations: []
 summary: >-
-  Pape et al. (2024), DOI-10.1016/j.ijindorg.2024.103128. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A25 §2 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271. In A's account, which is unverified until read, it is a structural model of about 137,000 players of a mobile puzzle game: observed difficulty is consistent with revenue maximization, and personalized difficulty would raise predicted revenue by 71%, mostly from larger spenders.
+  Pape et al. (2024), DOI-10.1016/j.ijindorg.2024.103128. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A25 §2 and A31 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md). In A's account, which is unverified until read, it is a structural model of about 137,000 players of a mobile puzzle game: observed difficulty is consistent with revenue maximization, and personalized difficulty would raise predicted revenue by 71%, mostly from larger spenders.
 ---
 <!-- inactive-ok-file: CASE-tmpmw3hc CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Louis-Daniel Pape, Christian Helmers, Alessandro Iaria, Stefan Wagner and Julian
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §2 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §2 and A31 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md).

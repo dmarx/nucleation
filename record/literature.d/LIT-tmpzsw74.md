@@ -19,7 +19,7 @@ first_author: 'Qian'
 keywords: []
 implementations: []
 summary: >-
-  Qian and Jain (2024), DOI-10.1287/mnsc.2022.03655. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §3. It bears on CLAIM-tmpcv1pg, CLAIM-tmpmz271. In A's account, which is unverified until read, it models how recommendation policies shape creators' incentives, effort and content.
+  Qian and Jain (2024), DOI-10.1287/mnsc.2022.03655. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §3. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md). In A's account, which is unverified until read, it models how recommendation policies shape creators' incentives, effort and content.
 ---
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Kun Qian and Sanjay Jain (2024). "Digital Content Creation: An Analysis of the I
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. It bears on CLAIM-tmpcv1pg, CLAIM-tmpmz271.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md).

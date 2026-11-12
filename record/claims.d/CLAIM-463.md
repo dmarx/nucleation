@@ -148,12 +148,12 @@ The reader reran A's schematic model (A36 §6), Ṁ = aLU − dM, L̇ = bM(1−L
 ## Note of 2026-11-12: stopping an influence is not undoing it, from "Medical Ethics and Media Enshitification"
 
 Three instances from the exchange (2026-11-11), all A's reports of unread
-work. The X feed experiment (A23 §2, LIT-tmpp1gq8): switching the algorithm
+work. The X feed experiment (A23 §2, [LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)): switching the algorithm
 off did not reverse the shifts that switching it on produced. Montero-Porras
-and colleagues' platform–creator model (A35 §1, LIT-tmpc2x78): tipping
+and colleagues' platform–creator model (A35 §1, [LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)): tipping
 points and hysteresis, so restoring the incentive policy does not restore
 quality. And the newsroom whose investigative capacity, once dispersed, does
-not return with the funding (A33 §9, CASE-tmpd5eqf). A23's wording:
+not return with the funding (A33 §9, [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)). A23's wording:
 "Stopping an influence is not necessarily reversing its effects, and neither
 is necessarily restoring the capacity for self-government." Corroborative
 instances, unverified; no status change.

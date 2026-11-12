@@ -144,13 +144,13 @@ argument shows neither does, given Kingma's own concessions.
 A9 §2 of the exchange (2026-11-11) describes this reading accurately:
 Proposed, with no formal measure of the intermediate individuality and no
 ethical conclusion. The owner's U5 linked it to microchimerism, filed as
-CLAIM-tmpn0ytb: cells of mother and offspring persist in each other for
+[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md): cells of mother and offspring persist in each other for
 decades, so the separation gestation begins is not completed at birth at the
-level of cells. The readings behind that (THEORY-tmp6t2l2, THEORY-tmp4rc81)
+level of cells. The readings behind that ([THEORY-tmp6t2l2](THEORY-tmp6t2l2.md), [THEORY-tmp4rc81](THEORY-tmp4rc81.md))
 concern the relation after birth, which Meincke does not reach; they extend
 her question and do not supply the measure she lacks. A13 named the rival
 mereologies of pregnancy, now registered unread: Devanesan's overlap view
-from immunology (LIT-tmptsxgp, LIT-tmph5uj8), Geddes on proper overlap
-(LIT-tmpw9l03), Hershenov against parthood (LIT-tmp63w88) and Finn's split
+from immunology ([LIT-tmptsxgp](../literature.d/LIT-tmptsxgp.md), [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md)), Geddes on proper overlap
+([LIT-tmpw9l03](../literature.d/LIT-tmpw9l03.md)), Hershenov against parthood ([LIT-tmp63w88](../literature.d/LIT-tmp63w88.md)) and Finn's split
 between when an organism begins and how it relates to the gestating one
-(LIT-tmp5fwhc). No status change.
+([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)). No status change.

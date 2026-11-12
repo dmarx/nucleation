@@ -70,7 +70,7 @@ this way is the claim ([CLAIM-166](../claims.d/CLAIM-166.md)), not the case.
 A15 of the exchange (2026-11-11) cites this case accurately and adds a level
 the case does not name: the enteric nervous system, which regulates
 digestion locally and passes signals to the brain, between the microbes and
-the person. A15's point for QUESTION-033 is that "which level drives" may
+the person. A15's point for [QUESTION-033](../questions.d/QUESTION-033.md) is that "which level drives" may
 depend on the intervention, microbial signals, enteric activity or central
-response. Boem and colleagues' "gut complex" (LIT-tmp1p2zd, unread) is the
+response. Boem and colleagues' "gut complex" ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md), unread) is the
 theoretical framing A recommends.

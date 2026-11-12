@@ -18,7 +18,7 @@ first_author: 'Radsch'
 keywords: []
 implementations: []
 summary: >-
-  Radsch (2026), Brookings Institution, commentary. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §2. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it is a commentary on bargaining power and revenue between publishers and AI intermediaries in content licensing.
+  Radsch (2026), Brookings Institution, commentary. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md). In A's account, which is unverified until read, it is a commentary on bargaining power and revenue between publishers and AI intermediaries in content licensing.
 ---
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
@@ -32,4 +32,4 @@ Courtney C. Radsch (2026). "Same gatekeepers, new tollbooths in the AI content l
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §2. It bears on CLAIM-tmpifp69.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).

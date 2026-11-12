@@ -20,7 +20,7 @@ first_author: 'Fanning'
 keywords: []
 implementations: []
 summary: >-
-  Fanning and Raworth (2025), DOI-10.1038/s41586-025-09385-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §5. It bears on CLAIM-347, QUESTION-tmpuftum. In A's account, which is unverified until read, it tracks 35 indicators of social shortfall and ecological overshoot from 2000 to 2022, finding inequalities hidden by global aggregates.
+  Fanning and Raworth (2025), DOI-10.1038/s41586-025-09385-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §5. It bears on [CLAIM-347](../claims.d/CLAIM-347.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it tracks 35 indicators of social shortfall and ecological overshoot from 2000 to 2022, finding inequalities hidden by global aggregates.
 ---
 
 # LIT-tmpvzqif: Doughnut of social and planetary boundaries monitors a world out of balance
@@ -33,4 +33,4 @@ Andrew L. Fanning and Kate Raworth (2025). "Doughnut of social and planetary bou
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. It bears on CLAIM-347, QUESTION-tmpuftum.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. It bears on [CLAIM-347](../claims.d/CLAIM-347.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).

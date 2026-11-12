@@ -2,15 +2,15 @@
 status: Unfetched
 status_note: >-
   filed 2026-11-12, not read. The paper the owner's fourth source at U5
-  (LIT-tmpokfxi) reports. Lawful copies located on 2026-11-12: PMC
+  ([LIT-tmpokfxi](LIT-tmpokfxi.md)) reports. Lawful copies located on 2026-11-12: PMC
   (https://pmc.ncbi.nlm.nih.gov/articles/PMC12412910/) answered with a
   reCAPTCHA "Checking your browser" page; Europe PMC's render
   (https://europepmc.org/articles/PMC12412910?pdf=render) with a
   Cloudflare "Just a moment" challenge; the Europe PMC full-text API with
   a server error (500); the publisher's PDF
   (https://www.cell.com/immunity/pdf/S1074-7613(25)00368-1.pdf) with a
-  403. Each attempt stopped at the first refusal (ADR-074). A lawful copy
-  is located and was not fetched (ADR-053).
+  403. Each attempt stopped at the first refusal ([ADR-074](../decisions.d/ADR-074.md)). A lawful copy
+  is located and was not fetched ([ADR-053](../decisions.d/ADR-053.md)).
 title: 'Tolerance to non-inherited maternal antigen is sustained by LysM+ CD11c+ maternal microchimeric cells'
 version: 1
 history:
@@ -44,7 +44,7 @@ summary: >-
   NIMA-specific tolerance in mice; stepwise depletion showed the tolerance
   sustained only by LysM+ CD11c+ Vav1+ maternal cells; and depleting those
   did not diminish overall maternal microchimerism. The paper behind the
-  owner's source LIT-tmpokfxi, whose account is THEORY-tmp6t2l2. Unfetched.
+  owner's source [LIT-tmpokfxi](LIT-tmpokfxi.md), whose account is [THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md). Unfetched.
 ---
 <!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
@@ -65,6 +65,6 @@ dissociated by depletion.
 
 ## Standing in the record
 
-The intervention evidence that THEORY-tmp6t2l2 and the owner's
-CLAIM-tmpn0ytb would lean on. Reading it is the first step toward promoting
+The intervention evidence that [THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md) and the owner's
+[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md) would lean on. Reading it is the first step toward promoting
 that THEORY.

@@ -20,7 +20,7 @@ first_author: 'Hasler'
 keywords: []
 implementations: []
 summary: >-
-  Hasler (2026), DOI-10.1093/nc/niag070. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A14 and A15 §1, §6. It bears on CLAIM-166, QUESTION-046. In A's account, which is unverified until read, it separates a contributory thesis (enteric activity helps constitute the whole animal's experience) from a partial-subject thesis (the enteric system has some experience of its own), and proposes tests.
+  Hasler (2026), DOI-10.1093/nc/niag070. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A14 and A15 §1, §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md), [QUESTION-046](../questions.d/QUESTION-046.md). In A's account, which is unverified until read, it separates a contributory thesis (enteric activity helps constitute the whole animal's experience) from a partial-subject thesis (the enteric system has some experience of its own), and proposes tests.
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
@@ -34,4 +34,4 @@ Gregor Hasler (2026). "Gut consciousness: a perspective on visceral phenomenal a
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A14 and A15 §1, §6. It bears on CLAIM-166, QUESTION-046.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A14 and A15 §1, §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md), [QUESTION-046](../questions.d/QUESTION-046.md).

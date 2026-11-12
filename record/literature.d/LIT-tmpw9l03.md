@@ -19,7 +19,7 @@ first_author: 'Geddes'
 keywords: []
 implementations: []
 summary: >-
-  Geddes (2022), DOI-10.1093/pq/pqac044. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on THEORY-448. In A's account, which is unverified until read, it argues against Kingma that pregnancy need not be containment or parthood: two organisms can properly overlap.
+  Geddes (2022), DOI-10.1093/pq/pqac044. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md). In A's account, which is unverified until read, it argues against Kingma that pregnancy need not be containment or parthood: two organisms can properly overlap.
 ---
 <!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Alexander Geddes (2022). "Pregnancy, Parthood and Proper Overlap: A Critique of 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on THEORY-448.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md).

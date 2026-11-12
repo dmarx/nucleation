@@ -139,5 +139,5 @@ become effective, fail, or are systematically excluded", and start from
 parasite and host, platform and user, newsroom and public. The parasite case
 shows the limit sharply: "A standard for successful biological functioning
 is not yet a standard for what is owed to another being." A also flags
-Leffler on constitutivism (LIT-tmpu0vef, unread) as the adversarial test.
+Leffler on constitutivism ([LIT-tmpu0vef](../literature.d/LIT-tmpu0vef.md), unread) as the adversarial test.
 The question stays Open.

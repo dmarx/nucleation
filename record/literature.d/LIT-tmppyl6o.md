@@ -19,7 +19,7 @@ first_author: 'Sikder'
 keywords: []
 implementations: []
 summary: >-
-  Sikder (2026), Proceedings of Machine Learning Research 350. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §6. It bears on CLAIM-537, QUESTION-tmpuftum. In A's account, which is unverified until read, it gives finite-sample certificates for error-rate differences across protected and intersectional groups.
+  Sikder (2026), Proceedings of Machine Learning Research 350. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §6. It bears on [CLAIM-537](../claims.d/CLAIM-537.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it gives finite-sample certificates for error-rate differences across protected and intersectional groups.
 ---
 
 # LIT-tmppyl6o: FairCert: Certifiable Error Rate Fairness for ML and LLM Decision Systems
@@ -32,4 +32,4 @@ Md Fahim Sikder and et al. (2026). "FairCert: Certifiable Error Rate Fairness fo
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §6. It bears on CLAIM-537, QUESTION-tmpuftum.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §6. It bears on [CLAIM-537](../claims.d/CLAIM-537.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).

@@ -165,6 +165,6 @@ the same change.
 A44 §2 of the exchange (2026-11-11) cites this claim correctly as Proposed
 and builds on its acceptance sets A_i(ε_i) a sampled pass rate for a set of
 demands at given tolerances, PASS^π_{S,ε}@(k,T), filed as A's construction
-CASE-tmpz1l6r. A44 §2 also warns, with CLAIM-549 and CLAIM-550, that a
+[CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md). A44 §2 also warns, with [CLAIM-549](CLAIM-549.md) and [CLAIM-550](CLAIM-550.md), that a
 tolerance can be the threshold at which a perspective activates rather than
 the region that meets its requirement. No status change.

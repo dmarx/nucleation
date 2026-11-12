@@ -20,7 +20,7 @@ first_author: 'van Roosmalen'
 keywords: []
 implementations: []
 summary: >-
-  van Roosmalen and Bekker (2024), DOI-10.1146/annurev-micro-041522-092522. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §8. It bears on CASE-tmp10ykm, QUESTION-tmpgciew. In A's account, which is unverified until read, it reviews the mechanisms of Ophiocordyceps infection and behavioural manipulation of ants.
+  van Roosmalen and Bekker (2024), DOI-10.1146/annurev-micro-041522-092522. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md). In A's account, which is unverified until read, it reviews the mechanisms of Ophiocordyceps infection and behavioural manipulation of ants.
 ---
 <!-- inactive-ok-file: CASE-tmp10ykm — Proposed; filed from the same exchange -->
 
@@ -34,4 +34,4 @@ Emmeline van Roosmalen and Charissa de Bekker (2024). "Mechanisms Underlying Oph
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §8. It bears on CASE-tmp10ykm, QUESTION-tmpgciew.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md).

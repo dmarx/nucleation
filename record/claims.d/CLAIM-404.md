@@ -353,10 +353,10 @@ The exchange (2026-11-11) cites this claim more than any other, in A19, A21,
 A23, A25, A27, A29, A31, A33 and A35, and describes it accurately each time.
 It extends it in three directions, each filed separately: across an organism
 boundary, with a third route, execution, beside evidence and criteria
-(CLAIM-tmpoxhqq, CASE-tmp10ykm); to platforms that shape the evidence a user
+([CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md), [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md)); to platforms that shape the evidence a user
 reads and then read the user's induced behaviour as preference (A23 §3, see
-the note on CLAIM-342); and to newsrooms governed through "resource
-dependencies" rather than instructions (CLAIM-tmpifp69). A23 §2 adds a
-temporal point from the X feed experiment (LIT-tmpp1gq8, unread): accounts
+the note on [CLAIM-342](CLAIM-342.md)); and to newsrooms governed through "resource
+dependencies" rather than instructions ([CLAIM-tmpifp69](CLAIM-tmpifp69.md)). A23 §2 adds a
+temporal point from the X feed experiment ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md), unread): accounts
 followed under the algorithm stayed followed after it was switched off, so
 the evidence channel outlives the steering. No status change.

@@ -19,7 +19,7 @@ first_author: 'de Roos'
 keywords: []
 implementations: []
 summary: >-
-  de Roos and Willkomm (2026), DOI-10.1177/08862605261462151. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §2. It bears on CLAIM-tmpcv1pg. In A's account, which is unverified until read, it is a cross-sectional study of 228 men finding heterogeneous clusters of reported content escalation.
+  de Roos and Willkomm (2026), DOI-10.1177/08862605261462151. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §2. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md). In A's account, which is unverified until read, it is a cross-sectional study of 228 men finding heterogeneous clusters of reported content escalation.
 ---
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Melissa S. de Roos and Laura Willkomm (2026). "Crossing the Line: Factors Associ
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §2. It bears on CLAIM-tmpcv1pg.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §2. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).

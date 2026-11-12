@@ -32,7 +32,7 @@ summary: >-
   head count or present spending share alone", with a quadratic example in
   which 5% of players move the optimum to 0.678 of the way toward their
   preferred design. Both computations rechecked by the filer. The owner's
-  mechanism, CLAIM-tmpcv1pg, rests on it. The wording is A's; adopting it
+  mechanism, [CLAIM-tmpcv1pg](CLAIM-tmpcv1pg.md), rests on it. The wording is A's; adopting it
   is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — filed from the same exchange, Proposed -->
@@ -81,7 +81,7 @@ r_L = −(d)² and r_H = −40(1 − d)², the first-order condition
 That anyone is worse off: A29 says the example "does not establish that 99%
 became worse off. Spending and welfare aren't equivalent." That heavy
 users' tastes change (that is the owner's further mechanism,
-CLAIM-tmpcv1pg). Or that any firm optimizes this way: Pape and colleagues'
-71% is a counterfactual from a model (LIT-tmpvev3t, unread), and Zendle and
+[CLAIM-tmpcv1pg](CLAIM-tmpcv1pg.md)). Or that any firm optimizes this way: Pape and colleagues'
+71% is a counterfactual from a model ([LIT-tmpvev3t](../literature.d/LIT-tmpvev3t.md), unread), and Zendle and
 colleagues' range from uniform to highly concentrated games (A31 §2) is
 cited without an identifier.

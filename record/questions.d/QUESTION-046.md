@@ -78,7 +78,7 @@ A15 of the exchange (2026-11-11) proposed a question this one already holds:
 an independent individual or subject, rather than a functionally autonomous
 component of a larger individual". Its instance is new to the record:
 Hasler's partial-subject thesis for the enteric nervous system
-(LIT-tmp4a5du, unread), with his proposed tests, information processed
+([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md), unread), with his proposed tests, information processed
 locally and not passed on, enteric circuits after disconnection, and
 dissociations between enteric and central responses. A15 keeps the record's
 caution: "a valuable research hypothesis, not evidence that humans contain

@@ -19,7 +19,7 @@ first_author: 'Millum'
 keywords: []
 implementations: []
 summary: >-
-  Millum (2025), DOI-10.1111/japp.12790. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §4 and its reading list. It bears on QUESTION-tmp2lvhi. In A's account, which is unverified until read, it argues that there is no separate right to an open future, the protections it is invoked for being grounded in children's existing rights and interests.
+  Millum (2025), DOI-10.1111/japp.12790. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §4 and its reading list. It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md). In A's account, which is unverified until read, it argues that there is no separate right to an open future, the protections it is invoked for being grounded in children's existing rights and interests.
 ---
 
 # LIT-tmpapwfu: No Right to an Open Future
@@ -32,4 +32,4 @@ Joseph Millum (2025). "No Right to an Open Future." *Journal of Applied Philosop
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §4 and its reading list. It bears on QUESTION-tmp2lvhi.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §4 and its reading list. It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).

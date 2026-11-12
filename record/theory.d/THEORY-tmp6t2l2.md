@@ -22,7 +22,7 @@ promote_when: >-
   lower total maternal microchimerism.
 summary: >-
   Peng, Way and colleagues' result as Cincinnati Children's reports it
-  (LIT-tmpokfxi, read in NOTE-tmph9lnd). The persistence of foreign-origin
+  ([LIT-tmpokfxi](../literature.d/LIT-tmpokfxi.md), read in [NOTE-tmph9lnd](../notes.d/NOTE-tmph9lnd.md)). The persistence of foreign-origin
   cells in a host and their part in the host's regulation come apart:
   one marked subset does the tolerogenic work, and the rest persist
   without it. Proposed because the source is a press post and the paper
@@ -45,10 +45,10 @@ intervention.
 
 ## Evidence
 
-The post's own statements (NOTE-tmph9lnd), and, as a check only, the
+The post's own statements ([NOTE-tmph9lnd](../notes.d/NOTE-tmph9lnd.md)), and, as a check only, the
 paper's abstract on the Europe PMC API, which says that conditional
 depletion "does not diminish overall MMc levels, dissociating NIMA-specific
-tolerance from MMc persistence". The paper (LIT-tmpxdjn3) is Unfetched.
+tolerance from MMc persistence". The paper ([LIT-tmpxdjn3](../literature.d/LIT-tmpxdjn3.md)) is Unfetched.
 
 ## What it does not say
 

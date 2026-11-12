@@ -18,7 +18,7 @@ first_author: 'Malinská'
 keywords: []
 implementations: []
 summary: >-
-  Malinská et al. (2026), DOI-10.1042/cs20250540. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §3. It bears on CLAIM-tmpn0ytb. In A's account, which is unverified until read, it reviews maternal microchimerism by pregnancy and breastfeeding, its tissue integration, tolerance and protective and pathological effects.
+  Malinská et al. (2026), DOI-10.1042/cs20250540. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §3. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md). In A's account, which is unverified until read, it reviews maternal microchimerism by pregnancy and breastfeeding, its tissue integration, tolerance and protective and pathological effects.
 ---
 <!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 
@@ -32,4 +32,4 @@ Nikola Malinská, Ilja Stříž and Jan Černý (2026). "Maternal microchimerism
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §3. It bears on CLAIM-tmpn0ytb.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §3. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).

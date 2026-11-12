@@ -19,7 +19,7 @@ first_author: 'Dorsch'
 keywords: []
 implementations: []
 summary: >-
-  Dorsch et al. (2026), DOI-10.1007/s11229-026-05820-6. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §8. It bears on QUESTION-441. In A's account, which is unverified until read, it argues that the deeper concern with engagement algorithms is interference with capacities for evaluating beliefs and reasons, not informational isolation.
+  Dorsch et al. (2026), DOI-10.1007/s11229-026-05820-6. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §8. It bears on [QUESTION-441](../questions.d/QUESTION-441.md). In A's account, which is unverified until read, it argues that the deeper concern with engagement algorithms is interference with capacities for evaluating beliefs and reasons, not informational isolation.
 ---
 
 # LIT-tmpafzp8: Does AI undermine democratic deliberation? How engagement algorithms hijack epistemic agency
@@ -32,4 +32,4 @@ John Dorsch, Mark Coeckelbergh and Tillmann Vierkant (2026). "Does AI undermine 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §8. It bears on QUESTION-441.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §8. It bears on [QUESTION-441](../questions.d/QUESTION-441.md).

@@ -18,7 +18,7 @@ first_author: 'Eyal'
 keywords: []
 implementations: []
 summary: >-
-  Eyal (2011), Stanford Encyclopedia of Philosophy. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §3. It bears on LIT-202. In A's account, which is unverified until read, it sets out competing justifications of informed consent, among them autonomy, bodily integrity and protection from domination.
+  Eyal (2011), Stanford Encyclopedia of Philosophy. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §3. It bears on [LIT-202](LIT-202.md). In A's account, which is unverified until read, it sets out competing justifications of informed consent, among them autonomy, bodily integrity and protection from domination.
 ---
 
 # LIT-tmpv2gd0: Informed Consent
@@ -31,4 +31,4 @@ Nir Eyal (2011). "Informed Consent." *Stanford Encyclopedia of Philosophy*.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §3. It bears on LIT-202.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §3. It bears on [LIT-202](LIT-202.md).

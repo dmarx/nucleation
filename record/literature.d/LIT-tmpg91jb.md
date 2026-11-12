@@ -20,7 +20,7 @@ first_author: 'Dierickx'
 keywords: []
 implementations: []
 summary: >-
-  Dierickx et al. (2026), DOI-10.1177/14648849261492006. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §5. It bears on QUESTION-441. In A's account, which is unverified until read, it examines how ethical obligations are carried out through data-journalism workflows rather than only affirmed in codes.
+  Dierickx et al. (2026), DOI-10.1177/14648849261492006. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §5. It bears on [QUESTION-441](../questions.d/QUESTION-441.md). In A's account, which is unverified until read, it examines how ethical obligations are carried out through data-journalism workflows rather than only affirmed in codes.
 ---
 
 # LIT-tmpg91jb: From normative principles to epistemic governance: A workflow-based analysis of European journalism ethics in datafied environments
@@ -33,4 +33,4 @@ Laurence Dierickx, Marilia Gehrke and Carl-Gustav Lindén (2026). "From normativ
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. It bears on QUESTION-441.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. It bears on [QUESTION-441](../questions.d/QUESTION-441.md).

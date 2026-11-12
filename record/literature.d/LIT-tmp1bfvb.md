@@ -18,7 +18,7 @@ first_author: 'Bisiani'
 keywords: []
 implementations: []
 summary: >-
-  Bisiani et al. (2026), DOI-10.1177/14648849261474910. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §4. It bears on CLAIM-tmpifp69, CASE-tmpd5eqf. In A's account, which is unverified until read, it follows 27 Reach newspapers in 2019, 2022 and 2025 and reports falling originality, local relevance and coverage of critical information needs, with homogenization.
+  Bisiani et al. (2026), DOI-10.1177/14648849261474910. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §4. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md), [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md). In A's account, which is unverified until read, it follows 27 Reach newspapers in 2019, 2022 and 2025 and reports falling originality, local relevance and coverage of critical information needs, with homogenization.
 ---
 <!-- inactive-ok-file: CASE-tmpd5eqf CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
@@ -32,4 +32,4 @@ Simona Bisiani, Agnes Gulyas, Martin Moore and Bahareh Heravi (2026). "The hollo
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §4. It bears on CLAIM-tmpifp69, CASE-tmpd5eqf.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §4. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md), [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md).

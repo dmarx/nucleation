@@ -258,7 +258,7 @@ The second paste of the pasted synthesis on resource-bounded realizability propo
 ## Note of 2026-11-12: identification is costly and can be penalized, from "Medical Ethics and Media Enshitification"
 
 A44 §3 of the exchange (2026-11-11) cites this claim accurately and adds a
-consequence filed as CLAIM-tmpvceet: scored against the demands it
+consequence filed as [CLAIM-tmpvceet](CLAIM-tmpvceet.md): scored against the demands it
 recognizes, an organization can only score the same or worse when its
 inquiry recognizes more, so a reward for few recognized failures penalizes
 the inquiry. A's example of a question an organization may never formulate:

@@ -19,7 +19,7 @@ first_author: 'Caliari'
 keywords: []
 implementations: []
 summary: >-
-  Caliari (2026), DOI-10.1007/s11238-026-10164-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §2. It bears on QUESTION-tmpuftum. In A's account, which is unverified until read, it studies recovering welfare-relevant preferences from inconsistent choices without knowing the behavioural model, with an informational-responsiveness criterion and experiments.
+  Caliari (2026), DOI-10.1007/s11238-026-10164-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §2. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it studies recovering welfare-relevant preferences from inconsistent choices without knowing the behavioural model, with an informational-responsiveness criterion and experiments.
 ---
 
 # LIT-tmp6n74q: Behavioural welfare analysis and revealed preference: theory and experimental evidence
@@ -32,4 +32,4 @@ Daniele Caliari (2026). "Behavioural welfare analysis and revealed preference: t
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §2. It bears on QUESTION-tmpuftum.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §2. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).

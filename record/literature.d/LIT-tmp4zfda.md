@@ -19,7 +19,7 @@ first_author: 'The Brussels Collaboration on Bodily Integrity'
 keywords: []
 implementations: []
 summary: >-
-  The Brussels Collaboration on Bodily Integrity (2024), DOI-10.1080/15265161.2024.2353823. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A2 and A3 §5. It bears on QUESTION-tmp2lvhi. In A's account, which is unverified until read, it argues that ethical protections against nonconsensual genital modification of prepubescent minors should apply consistently across male, female and intersex children, on grounds of bodily integrity and future autonomy.
+  The Brussels Collaboration on Bodily Integrity (2024), DOI-10.1080/15265161.2024.2353823. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A2 and A3 §5. It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md). In A's account, which is unverified until read, it argues that ethical protections against nonconsensual genital modification of prepubescent minors should apply consistently across male, female and intersex children, on grounds of bodily integrity and future autonomy.
 ---
 
 # LIT-tmp4zfda: Genital Modifications in Prepubescent Minors: When May Clinicians Ethically Proceed?
@@ -32,4 +32,4 @@ The Brussels Collaboration on Bodily Integrity (2024). "Genital Modifications in
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A2 and A3 §5. It bears on QUESTION-tmp2lvhi.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A2 and A3 §5. It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).

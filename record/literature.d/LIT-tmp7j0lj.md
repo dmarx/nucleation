@@ -19,7 +19,7 @@ first_author: 'Shapiro'
 keywords: []
 implementations: []
 summary: >-
-  Shapiro and Pannekoek (2024), DOI-10.1002/hast.1582. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §2 and its reading list. It bears on THEORY-448. In A's account, which is unverified until read, it argues from the consent requirements of living organ donation to the ethics of requiring gestation after Dobbs.
+  Shapiro and Pannekoek (2024), DOI-10.1002/hast.1582. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §2 and its reading list. It bears on [THEORY-448](../theory.d/THEORY-448.md). In A's account, which is unverified until read, it argues from the consent requirements of living organ donation to the ethics of requiring gestation after Dobbs.
 ---
 <!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Devora Shapiro and Jeffrey Pannekoek (2024). "Another Defense of Abortion: What 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §2 and its reading list. It bears on THEORY-448.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §2 and its reading list. It bears on [THEORY-448](../theory.d/THEORY-448.md).

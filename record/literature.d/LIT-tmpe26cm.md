@@ -19,7 +19,7 @@ first_author: 'Strand'
 keywords: []
 implementations: []
 summary: >-
-  Strand et al. (2026), DOI-10.1146/annurev-ento-121423-013425. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §3. It bears on CLAIM-tmpu69tn, QUESTION-277. In A's account, which is unverified until read, it reviews large DNA viruses, some domesticated into wasp genomes, that parasitoid wasps transmit to their hosts.
+  Strand et al. (2026), DOI-10.1146/annurev-ento-121423-013425. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §3. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [QUESTION-277](../questions.d/QUESTION-277.md). In A's account, which is unverified until read, it reviews large DNA viruses, some domesticated into wasp genomes, that parasitoid wasps transmit to their hosts.
 ---
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Michael R. Strand, Kelsey A. Coffman and Gaelen R. Burke (2026). "Large DNA Viru
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. It bears on CLAIM-tmpu69tn, QUESTION-277.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [QUESTION-277](../questions.d/QUESTION-277.md).

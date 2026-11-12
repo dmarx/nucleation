@@ -20,7 +20,7 @@ first_author: 'Lyu'
 keywords: []
 implementations: []
 summary: >-
-  Lyu and Chen (2026), DOI-10.1136/jme-2025-111436. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §1. It bears on CASE-128, CLAIM-tmpu69tn. In A's account, which is unverified until read, it analyses adaptive deep brain stimulation through control, separating the source of control from the patient's perception of it.
+  Lyu and Chen (2026), DOI-10.1136/jme-2025-111436. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §1. It bears on [CASE-128](../cases.d/CASE-128.md), [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md). In A's account, which is unverified until read, it analyses adaptive deep brain stimulation through control, separating the source of control from the patient's perception of it.
 ---
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
@@ -34,4 +34,4 @@ Yitong Lyu and Haidan Chen (2026). "Ethical challenges of adaptive deep brain st
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. It bears on CASE-128, CLAIM-tmpu69tn.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. It bears on [CASE-128](../cases.d/CASE-128.md), [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).

@@ -95,8 +95,8 @@ measured.
 
 A35 §1 of the exchange (2026-11-11) cites this reading correctly as Proposed
 and reports Montero-Porras, Smets and Lenaerts' evolutionary model of
-platform and creators (LIT-tmpc2x78, unread): two stable regimes, quality
+platform and creators ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md), unread): two stable regimes, quality
 and extraction, with tipping points and hysteresis. A calls it "a formal
 complement, but not independent proof of Doctorow's historical claims",
-which is right. The model would bear on THEORY-470's weakened constraints
-and on CLAIM-463. No status change.
+which is right. The model would bear on [THEORY-470](THEORY-470.md)'s weakened constraints
+and on [CLAIM-463](../claims.d/CLAIM-463.md). No status change.

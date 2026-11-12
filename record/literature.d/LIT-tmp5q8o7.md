@@ -6,9 +6,9 @@ status_note: >-
   https://www.biorxiv.org/content/10.64898/2026.03.26.714571v1. bioRxiv
   posts it under CC BY. The same host had answered this session with
   HTTP 429 (rate limit) on 2026-11-12, for the owner's other bioRxiv
-  source, so no request was sent for this one (ADR-074). The bioRxiv API
+  source, so no request was sent for this one ([ADR-074](../decisions.d/ADR-074.md)). The bioRxiv API
   (api.biorxiv.org) gave its metadata and abstract. A lawful copy is
-  located and was not fetched (ADR-053).
+  located and was not fetched ([ADR-053](../decisions.d/ADR-053.md)).
 title: 'Cellector: A tool to detect foreign genotype cells in scRNAseq data with applications in leukemia and microchimerism'
 version: 1
 history:
@@ -35,8 +35,8 @@ keywords:
 implementations: []
 summary: >-
   Heaton and colleagues (2026), DOI-10.64898/2026.03.26.714571, a bioRxiv
-  preprint. One of the owner's four sources at U5 (CLAIM-tmpn0ytb), and
-  the detector the brain preprint (LIT-tmp3n00g) uses. By its abstract,
+  preprint. One of the owner's four sources at U5 ([CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)), and
+  the detector the brain preprint ([LIT-tmp3n00g](LIT-tmp3n00g.md)) uses. By its abstract,
   Cellector finds rare cells of a foreign genotype in single-cell RNA-seq
   data, down to 0.05% or lower, with measurable residual disease after
   transplant in leukaemia as its lead application. A method, not a finding

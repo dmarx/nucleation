@@ -32,14 +32,14 @@ summary: >-
 
 ## The inference
 
-1. THEORY-tmp4rc81: microchimeric cells pass both ways, persist for decades
+1. [THEORY-tmp4rc81](../theory.d/THEORY-tmp4rc81.md): microchimeric cells pass both ways, persist for decades
    and colonize almost any tissue.
-2. THEORY-tmp6t2l2: in mice, one marked subset of maternal cells sustains
+2. [THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md): in mice, one marked subset of maternal cells sustains
    the offspring's tolerance of maternal antigens, and depleting it removes
    the tolerance while the rest persist.
 3. So after birth each organism holds living cells of the other's lineage,
    and some of them do work in its regulation.
-4. CLAIM-tmpn0ytb concludes that the separation gestation begins is not
+4. [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md) concludes that the separation gestation begins is not
    completed at birth at the level of cells, which bears on the view that
    individuality is graded or processual.
 
@@ -68,8 +68,8 @@ heterogeneous one.
   test, not the second.
 - **Does the measure measure what it is said to?** Partly. The tolerance
   result is a mouse result reported by a press post. The paper
-  (LIT-tmpxdjn3) is Unfetched, and only its abstract was seen. The human
-  brain result (LIT-tmp3n00g) is a transcriptomic identity in surgical
+  ([LIT-tmpxdjn3](../literature.d/LIT-tmpxdjn3.md)) is Unfetched, and only its abstract was seen. The human
+  brain result ([LIT-tmp3n00g](../literature.d/LIT-tmp3n00g.md)) is a transcriptomic identity in surgical
   epilepsy tissue, Unfetched, and identity is not function. Both readings
   call the field's definitions unsettled, and what counts as mixture
   depends on whether cell-free DNA and transient cells are counted.

@@ -106,6 +106,6 @@ question a biological instance in which the answer visibly depends on the
 target. For genome, the offspring contains cells of the mother's lineage;
 for tissue, those cells sit in its organs and brain; for immune regulation,
 one marked subset does the offspring's tolerogenic work while the rest
-merely persist (THEORY-tmp6t2l2, THEORY-tmp4rc81). The owner's
-CLAIM-tmpn0ytb bears on it. A11 §2's four boundaries, genetic, anatomical,
+merely persist ([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md), [THEORY-tmp4rc81](../theory.d/THEORY-tmp4rc81.md)). The owner's
+[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md) bears on it. A11 §2's four boundaries, genetic, anatomical,
 functional and immunological, are the targets.

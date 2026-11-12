@@ -19,7 +19,7 @@ first_author: 'Hafer‐Hahmann'
 keywords: []
 implementations: []
 summary: >-
-  Hafer‐Hahmann (2026), DOI-10.1111/ele.70340. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §2 and §8. It bears on CASE-tmp10ykm, CLAIM-tmpoxhqq. In A's account, which is unverified until read, it is a meta-analysis of 207 studies (82 helminth taxa, 80 host taxa) finding host manipulation stronger in mature parasite stages and in the presence of the right predator.
+  Hafer‐Hahmann (2026), DOI-10.1111/ele.70340. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §2 and §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md). In A's account, which is unverified until read, it is a meta-analysis of 207 studies (82 helminth taxa, 80 host taxa) finding host manipulation stronger in mature parasite stages and in the presence of the right predator.
 ---
 <!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Nina Hafer‐Hahmann (2026). "The Evolution and Ecology of Host Manipulation in 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §2 and §8. It bears on CASE-tmp10ykm, CLAIM-tmpoxhqq.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §2 and §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md).

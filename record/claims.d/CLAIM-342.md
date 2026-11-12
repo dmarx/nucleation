@@ -281,6 +281,6 @@ interface becomes a signal for further personalization". A29: the risk of
 "confusing demand revealed under its own influence with demand that existed
 independently of that influence". The exchange adds a route by which
 evidence comes to pass through the interpretation: users the product serves
-worst leave the population it observes (CLAIM-tmphgjbz). And a newsroom that
+worst leave the population it observes ([CLAIM-tmphgjbz](CLAIM-tmphgjbz.md)). And a newsroom that
 funds investigations by their measured demand sees no demand for those it no
-longer funds (CASE-tmpd5eqf). Supports; no status change.
+longer funds ([CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)). Supports; no status change.

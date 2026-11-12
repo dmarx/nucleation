@@ -122,9 +122,9 @@ A60 §12 of the second share of the exchange "Individuation, Possibility, and Di
 A37 §4 of the exchange (2026-11-11) offers a partial answer: an
 organization's preferred measure "cannot certify its own normative
 sufficiency", because the measure may not preserve the distinctions the
-claims against the organization need (CLAIM-348) and the organization may
+claims against the organization need ([CLAIM-348](../claims.d/CLAIM-348.md)) and the organization may
 have no independent test of it. A notes the premise this rests on,
 "something like an epistemic norm, a duty to affected parties, or an account
 of legitimate governance". A42 sharpens the question one step earlier, how
-the demands to be weighed are identified at all, filed as QUESTION-tmpuftum,
+the demands to be weighed are identified at all, filed as [QUESTION-tmpuftum](QUESTION-tmpuftum.md),
 which refines this one. The question stays Open.

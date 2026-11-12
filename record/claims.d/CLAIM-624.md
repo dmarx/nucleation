@@ -371,5 +371,5 @@ inadequacy becoming a wrong requires further justification." A39 §7
 represents the duty as a demand A_C, histories that maintain adequate
 answerability, and asks whether it is compatible with the organization's
 functional demands. The interesting case is the third: compatible once and
-made incompatible by the organization's own history (the note on CLAIM-464).
-A37's newsroom variant is CASE-tmpd5eqf. No status change.
+made incompatible by the organization's own history (the note on [CLAIM-464](CLAIM-464.md)).
+A37's newsroom variant is [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md). No status change.

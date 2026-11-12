@@ -19,7 +19,7 @@ first_author: 'Almarzooqi'
 keywords: []
 implementations: []
 summary: >-
-  Almarzooqi et al. (2026), DOI-10.1038/s41398-026-04305-x. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on CLAIM-166. In A's account, which is unverified until read, it is a review stressing that associations between the gut microbiome and psychiatric disorders still leave much of the causal picture in humans unresolved.
+  Almarzooqi et al. (2026), DOI-10.1038/s41398-026-04305-x. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md). In A's account, which is unverified until read, it is a review stressing that associations between the gut microbiome and psychiatric disorders still leave much of the causal picture in humans unresolved.
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Sultan Almarzooqi, Lidya K. Yassin, Fatima Alnuaimi, Salma Alketbi, Jurga Skrabu
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on CLAIM-166.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md).

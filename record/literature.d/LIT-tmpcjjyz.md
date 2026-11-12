@@ -19,7 +19,7 @@ first_author: 'Cox'
 keywords: []
 implementations: []
 summary: >-
-  Cox (2025), DOI-10.1111/bioe.13423. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §1. It bears on TERM-083. In A's account, which is unverified until read, it argues that a fetus's standing as an imminent person carries a moral significance stronger than abstract potential.
+  Cox (2025), DOI-10.1111/bioe.13423. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §1. It bears on [TERM-083](../terms.d/TERM-083.md). In A's account, which is unverified until read, it argues that a fetus's standing as an imminent person carries a moral significance stronger than abstract potential.
 ---
 <!-- inactive-ok-file: TERM-083 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Joel Cox (2025). "Abortion and Imminent Personhood." *Bioethics 39(7): 666-672*.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §1. It bears on TERM-083.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §1. It bears on [TERM-083](../terms.d/TERM-083.md).

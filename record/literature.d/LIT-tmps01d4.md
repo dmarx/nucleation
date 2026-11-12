@@ -20,7 +20,7 @@ first_author: 'Haber'
 keywords: []
 implementations: []
 summary: >-
-  Haber et al. (2026), DOI-10.1136/jme-2026-112326. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §4. It bears on TERM-088, QUESTION-035. In A's account, which is unverified until read, it argues that biological boundaries are multidimensional across levels, space and time, so which matters for individuation depends on the system and the question.
+  Haber et al. (2026), DOI-10.1136/jme-2026-112326. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §4. It bears on [TERM-088](../terms.d/TERM-088.md), [QUESTION-035](../questions.d/QUESTION-035.md). In A's account, which is unverified until read, it argues that biological boundaries are multidimensional across levels, space and time, so which matters for individuation depends on the system and the question.
 ---
 
 # LIT-tmps01d4: Lineage metaphysics and reproductive ethics
@@ -33,4 +33,4 @@ Matthew H Haber, Katherine Berensen and Jeffrey Langley (2026). "Lineage metaphy
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. It bears on TERM-088, QUESTION-035.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. It bears on [TERM-088](../terms.d/TERM-088.md), [QUESTION-035](../questions.d/QUESTION-035.md).

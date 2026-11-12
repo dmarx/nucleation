@@ -98,4 +98,4 @@ with identical player counts and revenue, in one of which a high spender's
 purchases are informed and within an authorized limit, while in the other
 the odds were misrepresented and the limit obstructed. In A's notation
 h(x_A) = h(x_B) and N(x_A) ≠ N(x_B). A says it is "largely an application"
-of this case and CLAIM-348, which is right; not filed as a separate case.
+of this case and [CLAIM-348](../claims.d/CLAIM-348.md), which is right; not filed as a separate case.

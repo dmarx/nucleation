@@ -207,5 +207,5 @@ narrows from independent discovery to freedom from advertisers'
 instructions. This is neither relief nor deletion, and only an explicit
 correspondence of acceptance sets, which this claim requires, detects it.
 The empirical source A cites is Moats, Ruckenstein and colleagues on value
-narrowing, tickboxing, pushing, mismatch and projection (LIT-tmp6iql7,
+narrowing, tickboxing, pushing, mismatch and projection ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md),
 unread). Supports; no status change.

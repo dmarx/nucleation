@@ -18,7 +18,7 @@ first_author: 'Liang'
 keywords: []
 implementations: []
 summary: >-
-  Liang et al. (2025), DOI-10.1177/09500170251325784. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §5. It bears on CLAIM-404. In A's account, which is unverified until read, it is a systematic review identifying algorithmic visibility as managerial power over content creators who have no conventional manager.
+  Liang et al. (2025), DOI-10.1177/09500170251325784. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §5. It bears on [CLAIM-404](../claims.d/CLAIM-404.md). In A's account, which is unverified until read, it is a systematic review identifying algorithmic visibility as managerial power over content creators who have no conventional manager.
 ---
 
 # LIT-tmpcfp9f: Content Creation within the Algorithmic Environment: A Systematic Review
@@ -31,4 +31,4 @@ Yin Liang, Jiaming Li, Jeremy Aroles and Edward Granter (2025). "Content Creatio
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §5. It bears on CLAIM-404.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §5. It bears on [CLAIM-404](../claims.d/CLAIM-404.md).

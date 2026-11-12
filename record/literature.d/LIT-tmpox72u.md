@@ -19,7 +19,7 @@ first_author: 'Robertson'
 keywords: []
 implementations: []
 summary: >-
-  Robertson et al. (2023), DOI-10.1038/s41562-023-01538-4. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §2. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it analyses 22,743 randomized Upworthy headline tests: each negative word raised click-through by about 2.3%.
+  Robertson et al. (2023), DOI-10.1038/s41562-023-01538-4. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md). In A's account, which is unverified until read, it analyses 22,743 randomized Upworthy headline tests: each negative word raised click-through by about 2.3%.
 ---
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Claire E. Robertson, Nicolas Pröllochs, Kaoru Schwarzenegger, Philip Pärnamets
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §2. It bears on CLAIM-tmpifp69.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).

@@ -149,9 +149,9 @@ held in [CLAIM-571](CLAIM-571.md). With one-way moves it is not ([CLAIM-591](CLA
 
 ## Note of 2026-11-12: interaction depth as a budget, and a policy that is not a move rule, from "Medical Ethics and Media Enshitification"
 
-PASS@(k,T)'s interaction depth T (LIT-tmpt7avk, read) is a resource index of
+PASS@(k,T)'s interaction depth T ([LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md), read) is a resource index of
 a reachable set, as A44 §1 says citing this claim. The reading qualifies the
 analogy: this claim's filtrations are monotone because the move rule is
 fixed, while the paper compares policies that may act differently with more
-budget, and its own per-depth estimates fall in places. ARG-tmpid47d. No
+budget, and its own per-depth estimates fall in places. [ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md). No
 status change.

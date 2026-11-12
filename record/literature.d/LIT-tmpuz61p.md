@@ -18,7 +18,7 @@ first_author: 'Salamon'
 keywords: []
 implementations: []
 summary: >-
-  Salamon et al. (2026), DOI-10.1177/14614448251407336. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §5. It bears on CLAIM-404. In A's account, which is unverified until read, it nineteen interviews on journalists becoming independent creators: autonomy alongside instability and dependence on platform algorithms.
+  Salamon et al. (2026), DOI-10.1177/14614448251407336. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §5. It bears on [CLAIM-404](../claims.d/CLAIM-404.md). In A's account, which is unverified until read, it nineteen interviews on journalists becoming independent creators: autonomy alongside instability and dependence on platform algorithms.
 ---
 
 # LIT-tmpuz61p: Journalism and social media in creator economies: Evolving structures and labor
@@ -31,4 +31,4 @@ Errol Salamon, Valérie Bélair-Gagnon and Monica Crawford (2026). "Journalism a
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §5. It bears on CLAIM-404.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §5. It bears on [CLAIM-404](../claims.d/CLAIM-404.md).

@@ -19,7 +19,7 @@ first_author: 'Sax'
 keywords: []
 implementations: []
 summary: >-
-  Sax (2026), DOI-10.1007/s10603-026-09636-2. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §5. It bears on LIT-1002. In A's account, which is unverified until read, it argues that work on dark patterns conflates what an interface does with why, if at all, that influence is wrongful.
+  Sax (2026), DOI-10.1007/s10603-026-09636-2. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §5. It bears on [LIT-1002](LIT-1002.md). In A's account, which is unverified until read, it argues that work on dark patterns conflates what an interface does with why, if at all, that influence is wrongful.
 ---
 
 # LIT-tmprzg97: The Double Darkness of Dark Patterns
@@ -32,4 +32,4 @@ Marijn Sax (2026). "The Double Darkness of Dark Patterns." *Journal of Consumer 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §5. It bears on LIT-1002.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §5. It bears on [LIT-1002](LIT-1002.md).

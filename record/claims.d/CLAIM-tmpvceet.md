@@ -35,7 +35,7 @@ summary: >-
   adds a justified obligation to honour players' spending limits makes it
   fail, "despite its audit becoming more capable". A: "An organization
   can acquire a practical incentive not to become better at discovering
-  its own obligations." The first half follows from CLAIM-347's downward
+  its own obligations." The first half follows from [CLAIM-347](CLAIM-347.md)'s downward
   closure; the second is conditional on the reward stated. Rechecked by
   the filer. The wording is A's; adopting it is the owner's call.
 ---
@@ -67,7 +67,7 @@ current arrangement.
    recognized set cannot rise when the set grows, for any x.
 2. The same holds of any score monotone in the set of met recognized
    demands, and of the compatibility complex itself: if D_0 is not a face,
-   no superset is (CLAIM-347's downward closure), and if D_1 is a face, so
+   no superset is ([CLAIM-347](CLAIM-347.md)'s downward closure), and if D_1 is a face, so
    is D_0.
 3. Suppose the organization's governance rewards a low count of recognized
    failures, and an audit improvement adds a demand that x fails. By 1,
@@ -80,13 +80,13 @@ conditional on the stated reward. Checked by the filer on 2026-11-12.
 
 ## Where it sits
 
-- CLAIM-475 holds that specifying is a resource-bounded realization, so
+- [CLAIM-475](CLAIM-475.md) holds that specifying is a resource-bounded realization, so
   some questions an agent cannot yet ask. This claim adds that asking them
   can be penalized.
-- CLAIM-619 (a disposition to answer challenge by reducing the capacity
+- [CLAIM-619](CLAIM-619.md) (a disposition to answer challenge by reducing the capacity
   for challenge) is the active form; this is the passive one, which
   needs no response to any challenge, only a reward for quiet.
-- CLAIM-549 (the quiescent complex is not the compatibility complex): A44
+- [CLAIM-549](CLAIM-549.md) (the quiescent complex is not the compatibility complex): A44
   §2 notes the twin route to a better score, relaxing tolerances ("it could
   relax the criteria used to decide whether a requirement has been
   satisfied"), which raises the pass rate without any accommodation.
@@ -95,5 +95,5 @@ conditional on the stated reward. Checked by the filer on 2026-11-12.
 
 That any organization behaves this way, or which demands are justified:
 A44 §7, the experiment "would not derive the legitimacy of the underlying
-requirements". CASE-tmpz1l6r gives a design that would test whether the
+requirements". [CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md) gives a design that would test whether the
 incentive produces avoidance of inquiry.

@@ -38,8 +38,8 @@ summary: >-
   known (bidirectional exchange, persistence for decades, colonization of
   almost any tissue, association with benefit and harm) and what it does
   not (function, the mechanism of persistence, even the definition).
-  Read in NOTE-tmpjgzqv, as the stand-in for the owner's unread sources
-  at U5; its account is THEORY-tmp4rc81.
+  Read in [NOTE-tmpjgzqv](../notes.d/NOTE-tmpjgzqv.md), as the stand-in for the owner's unread sources
+  at U5; its account is [THEORY-tmp4rc81](../theory.d/THEORY-tmp4rc81.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpjgzqv — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpyiplw LIT-tmp3n00g LIT-tmp5q8o7 LIT-tmpxdjn3 — Unfetched; the owner's sources this reading stands in for -->

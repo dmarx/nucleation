@@ -20,7 +20,7 @@ first_author: 'Leffler'
 keywords: []
 implementations: []
 summary: >-
-  Leffler (2024), DOI-10.1093/pq/pqae123. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §4. It bears on QUESTION-128, QUESTION-129. In A's account, which is unverified until read, it asks whether the inescapability of agency explains the force of norms constitutive of agency.
+  Leffler (2024), DOI-10.1093/pq/pqae123. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §4. It bears on [QUESTION-128](../questions.d/QUESTION-128.md), [QUESTION-129](../questions.d/QUESTION-129.md). In A's account, which is unverified until read, it asks whether the inescapability of agency explains the force of norms constitutive of agency.
 ---
 
 # LIT-tmpu0vef: Constitutivism's plight: inescapability, normativity, and relativism
@@ -33,4 +33,4 @@ Olof Leffler (2024). "Constitutivism's plight: inescapability, normativity, and 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §4. It bears on QUESTION-128, QUESTION-129.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §4. It bears on [QUESTION-128](../questions.d/QUESTION-128.md), [QUESTION-129](../questions.d/QUESTION-129.md).

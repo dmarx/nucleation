@@ -20,7 +20,7 @@ first_author: 'Rockström'
 keywords: []
 implementations: []
 summary: >-
-  Rockström et al. (2026), DOI-10.1029/2025ef006976. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §5. It bears on QUESTION-tmpuftum. In A's account, which is unverified until read, it is the Earth Commission's agenda for allocating environmental budgets and transformation pathways that account for justice.
+  Rockström et al. (2026), DOI-10.1029/2025ef006976. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §5. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it is the Earth Commission's agenda for allocating environmental budgets and transformation pathways that account for justice.
 ---
 
 # LIT-tmpmcbfb: Charting a Transformational Course Toward a Safe and Just Future: The Earth Commission's Contribution
@@ -33,4 +33,4 @@ Johan Rockström, Fatima Denton, Albert V. Norström, Jesse F. Abrams, Lubna Ala
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. It bears on QUESTION-tmpuftum.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).

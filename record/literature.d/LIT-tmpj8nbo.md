@@ -20,13 +20,13 @@ first_author: 'Zhu'
 keywords: []
 implementations: []
 summary: >-
-  Zhu et al. (2026), ARXIV-2611.06483. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A44 §1. It bears on CLAIM-tmpyc5md. In A's account, which is unverified until read, it finds that gains from multi-turn agentic reinforcement learning depend on sufficient turn budgets and concentrate in error recovery and long-horizon resilience, and proposes BudgetMix RL.
+  Zhu et al. (2026), [ARXIV-2611.06483](https://arxiv.org/abs/2611.06483). Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A44 §1. It bears on [CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md). In A's account, which is unverified until read, it finds that gains from multi-turn agentic reinforcement learning depend on sufficient turn budgets and concentrate in error recovery and long-horizon resilience, and proposes BudgetMix RL.
 ---
 <!-- inactive-ok-file: CLAIM-tmpyc5md — Proposed; filed from the same exchange -->
 
 # LIT-tmpj8nbo: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?
 
-Kejian Zhu, Zhuoran Jin, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li and others (2026). "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?" *arXiv preprint*. ARXIV-2611.06483.
+Kejian Zhu, Zhuoran Jin, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li and others (2026). "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?" *arXiv preprint*. [ARXIV-2611.06483](https://arxiv.org/abs/2611.06483).
 
 ## Key takeaways
 
@@ -34,4 +34,4 @@ Kejian Zhu, Zhuoran Jin, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li and othe
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A44 §1. It bears on CLAIM-tmpyc5md.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A44 §1. It bears on [CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md).

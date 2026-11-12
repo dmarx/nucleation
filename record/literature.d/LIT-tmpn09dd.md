@@ -19,7 +19,7 @@ first_author: 'Gao'
 keywords: []
 implementations: []
 summary: >-
-  Gao et al. (2020), DOI-10.1016/j.jfineco.2019.06.003. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §6. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it finds municipal borrowing costs rose 5–11 basis points after local newspaper closures, consistent with weakened monitoring.
+  Gao et al. (2020), DOI-10.1016/j.jfineco.2019.06.003. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §6. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md). In A's account, which is unverified until read, it finds municipal borrowing costs rose 5–11 basis points after local newspaper closures, consistent with weakened monitoring.
 ---
 <!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Pengjie Gao, Chang Lee and Dermot Murphy (2020). "Financing dies in darkness? Th
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §6. It bears on CLAIM-tmpifp69.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §6. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).

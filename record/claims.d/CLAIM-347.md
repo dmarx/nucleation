@@ -401,8 +401,8 @@ accurately and says what it is not: "the compatibility complex is not itself
 a moral theory". Its contribution is "to identify the structure of possible
 accommodation once the demands and the relevant organization have been
 specified". A39's game with three demands, revenue, accessibility and budget
-protection, every pair attainable and not the triple, is CASE-119's hollow
+protection, every pair attainable and not the triple, is [CASE-119](../cases.d/CASE-119.md)'s hollow
 triangle (note there). A42 §8 turns the specification into a question, filed
-as QUESTION-tmpuftum, and CLAIM-tmpvceet derives from this claim's downward
+as [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), and [CLAIM-tmpvceet](CLAIM-tmpvceet.md) derives from this claim's downward
 closure that recognizing more demands can only lower a score taken against
 the recognized set. No status change.

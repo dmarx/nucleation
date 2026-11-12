@@ -20,7 +20,7 @@ line:
 summary: >-
   From the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11): the owner's U13 and A27's evidence. Contested, so argued.
-  The structural half is demonstrated as a possibility (CLAIM-tmpmz271)
+  The structural half is demonstrated as a possibility ([CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md))
   and its occurrence untested; the escalation half has weak and partly
   contrary support, every item A's report of an unread work. Proposed,
   with the verdict that the evidence does not yet carry the explanatory
@@ -28,13 +28,12 @@ summary: >-
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpccpc6 LIT-tmpf67mb LIT-tmp2hne0 LIT-tmp9goww LIT-tmpdak05 — Deferred; registered from the same exchange, unread -->
 
 # ARG-tmpshmi5: The survey and audit evidence A reports supports the structural half of the heavy-user mechanism in pornography distribution only as possible, and does not support the escalation half: the associations are small, observational and self-reported, and the one longitudinal content study runs against it
 
 ## The inference
 
-From the reported findings (A27 §2, §4) to CLAIM-tmpcv1pg's explanation of
+From the reported findings (A27 §2, §4) to [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md)'s explanation of
 why mainstream channels carry formerly niche or extreme content.
 
 ## Critical questions
@@ -62,7 +61,7 @@ why mainstream channels carry formerly niche or extreme content.
 ## Verdict
 
 Proposed. The structural half stands as a demonstrated possibility,
-through CLAIM-tmpmz271, and is untested as fact. The escalation half is not
+through [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md), and is untested as fact. The escalation half is not
 supported by the evidence reported and is contradicted on one measure. The
 owner's own move at U14, to a measurable economy, is the right response,
-and CASE-tmpmw3hc carries it.
+and [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md) carries it.

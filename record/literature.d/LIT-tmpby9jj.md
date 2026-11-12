@@ -19,7 +19,7 @@ first_author: 'Ryan'
 keywords: []
 implementations: []
 summary: >-
-  Ryan and McMichael (2025), SMU Law Review 78(3): 789. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A5 §1. It bears on TERM-083. In A's account, which is unverified until read, it reviews the legal treatment of frozen embryos after the Alabama Supreme Court's LePage decision.
+  Ryan and McMichael (2025), SMU Law Review 78(3): 789. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A5 §1. It bears on [TERM-083](../terms.d/TERM-083.md). In A's account, which is unverified until read, it reviews the legal treatment of frozen embryos after the Alabama Supreme Court's LePage decision.
 ---
 <!-- inactive-ok-file: TERM-083 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Clare Ryan and Benjamin J. McMichael (2025). "The Future of Frozen Embryos." *SM
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §1. It bears on TERM-083.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A5 §1. It bears on [TERM-083](../terms.d/TERM-083.md).

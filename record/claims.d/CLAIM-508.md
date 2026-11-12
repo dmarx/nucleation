@@ -59,9 +59,9 @@ Not that there were further partners. Tobiasson and colleagues' reading may be r
 
 ## Note of 2026-11-12: the same point at the level of cells, from "Medical Ethics and Media Enshitification"
 
-The tolerance result the owner's source reports (THEORY-tmp6t2l2) is this
+The tolerance result the owner's source reports ([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md)) is this
 claim's point one level down: which lineage a cell descends from does not
 tell whether it does the host's work, since in mice one marked subset of
 maternal cells sustains the offspring's tolerance and the rest persist
 without it. Corroborates, from a reading the claim does not rest on;
-THEORY-tmp6t2l2 now names this claim in `corroborates`.
+[THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md) now names this claim in `corroborates`.

@@ -20,7 +20,7 @@ first_author: 'Żuradzki'
 keywords: []
 implementations: []
 summary: >-
-  Żuradzki (2026), DOI-10.1136/jme-2026-112360. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on QUESTION-128. In A's account, which is unverified until read, it argues that ethical judgments can serve as evidence for ontological commitments where biology underdetermines the ontology of pregnancy.
+  Żuradzki (2026), DOI-10.1136/jme-2026-112360. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on [QUESTION-128](../questions.d/QUESTION-128.md). In A's account, which is unverified until read, it argues that ethical judgments can serve as evidence for ontological commitments where biology underdetermines the ontology of pregnancy.
 ---
 
 # LIT-tmpblasa: Ethics-first metaphysics: normative considerations as evidence for ontological commitments
@@ -33,4 +33,4 @@ Tomasz Żuradzki (2026). "Ethics-first metaphysics: normative considerations as 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on QUESTION-128.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [QUESTION-128](../questions.d/QUESTION-128.md).

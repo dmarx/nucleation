@@ -19,7 +19,7 @@ first_author: 'Naudts'
 keywords: []
 implementations: []
 summary: >-
-  Naudts et al. (2025), DOI-10.1007/s10603-025-09586-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §8. It bears on CLAIM-545. In A's account, which is unverified until read, it argues for a public-interest right to constructive optimization: recommenders governed for users' self-development, with public scrutiny of their objectives.
+  Naudts et al. (2025), DOI-10.1007/s10603-025-09586-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §8. It bears on [CLAIM-545](../claims.d/CLAIM-545.md). In A's account, which is unverified until read, it argues for a public-interest right to constructive optimization: recommenders governed for users' self-development, with public scrutiny of their objectives.
 ---
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ L. Naudts, N. Helberger, M. Veale and M. Sax (2025). "A Right to Constructive Op
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §8. It bears on CLAIM-545.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §8. It bears on [CLAIM-545](../claims.d/CLAIM-545.md).

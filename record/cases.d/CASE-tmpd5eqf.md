@@ -52,24 +52,24 @@ capacity to discover, and so what its data can show.
 
 ## What it can show
 
-- CLAIM-342's lock-in in an allocation of effort: the evidence on whether
+- [CLAIM-342](../claims.d/CLAIM-342.md)'s lock-in in an allocation of effort: the evidence on whether
   investigations are valued passes through the decision to fund them, so
-  the loop confirms itself. THEORY-285's agent that withholds the
+  the loop confirms itself. [THEORY-285](../theory.d/THEORY-285.md)'s agent that withholds the
   observations that would correct it is the same shape in one mind.
-- CLAIM-463: restoring the funding later need not restore the capacity,
+- [CLAIM-463](../claims.d/CLAIM-463.md): restoring the funding later need not restore the capacity,
   since the sources and expertise were what made investigations
   productive.
 - A37's three stages separate it from a plain error: failing to see a
   problem; "mistaking that failure for evidence of success"; and
   reproducing the conditions that prevent correction. The third is
-  QUESTION-441's counter-normativity, and whether it is a wrong needs the
-  stipulated commitment (CLAIM-624's duty of answerability).
+  [QUESTION-441](../questions.d/QUESTION-441.md)'s counter-normativity, and whether it is a wrong needs the
+  stipulated commitment ([CLAIM-624](../claims.d/CLAIM-624.md)'s duty of answerability).
 
 ## What it cannot show
 
 That any real newsroom went this way, or that attention optimization
-rather than lost advertising revenue drove it (CLAIM-tmpifp69's rival). A
+rather than lost advertising revenue drove it ([CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)'s rival). A
 newsroom "cannot be presumed to have an unlimited obligation to investigate
-everything" (A37 §5). CASE-229 holds harm and remedy fixed while a challenge
+everything" (A37 §5). [CASE-229](CASE-229.md) holds harm and remedy fixed while a challenge
 procedure is kept or disabled; this case is the version in which the
 capacity decays by allocation, with no one deciding to disable it.

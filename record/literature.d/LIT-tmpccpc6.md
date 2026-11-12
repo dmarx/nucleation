@@ -19,7 +19,7 @@ first_author: 'Wright'
 keywords: []
 implementations: []
 summary: >-
-  Wright and Herbenick (2026), DOI-10.1080/0092623x.2026.2752366. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §§1–2. It bears on CLAIM-tmpcv1pg. In A's account, which is unverified until read, it nationally representative survey evidence that heavier pornography users more often report shifts toward more intense content; associations small to moderate and not causal.
+  Wright and Herbenick (2026), DOI-10.1080/0092623x.2026.2752366. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §§1–2. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md). In A's account, which is unverified until read, it nationally representative survey evidence that heavier pornography users more often report shifts toward more intense content; associations small to moderate and not causal.
 ---
 <!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Paul J. Wright and Debby Herbenick (2026). "Shifting Preferences in Pornography 
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §§1–2. It bears on CLAIM-tmpcv1pg.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §§1–2. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).

@@ -197,4 +197,4 @@ requirement complex does not. "The disappearance of a corrective response is
 not evidence that the condition motivating that response has been
 satisfied." A44 §2 adds the twin route through tolerances: relaxing the
 criterion that decides satisfaction raises a pass rate with no accommodation
-(CLAIM-tmpvceet). Supports; no status change.
+([CLAIM-tmpvceet](CLAIM-tmpvceet.md)). Supports; no status change.

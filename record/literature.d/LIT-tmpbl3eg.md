@@ -19,7 +19,7 @@ first_author: 'Han'
 keywords: []
 implementations: []
 summary: >-
-  Han et al. (2026), DOI-10.1287/opre.2023.0026. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §1. It bears on CASE-tmpmw3hc. In A's account, which is unverified until read, it treats loot-box price and drop probabilities as variables of a revenue-maximization problem and gives algorithms for it.
+  Han et al. (2026), DOI-10.1287/opre.2023.0026. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md). In A's account, which is unverified until read, it treats loot-box price and drop probabilities as variables of a revenue-maximization problem and gives algorithms for it.
 ---
 <!-- inactive-ok-file: CASE-tmpmw3hc — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Jiangze Han, Christopher Thomas Ryan and Xin T. Tong (2026). "Algorithms for Loo
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §1. It bears on CASE-tmpmw3hc.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md).

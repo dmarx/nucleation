@@ -19,7 +19,7 @@ first_author: 'Sbeih'
 keywords: []
 implementations: []
 summary: >-
-  Sbeih et al. (2022), DOI-10.1016/j.nbd.2022.105892. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on CLAIM-tmpn0ytb. In A's account, which is unverified until read, it reports that CCL2 recruits fetal microchimeric cells to injured maternal brain in postpartum mice, with less damage.
+  Sbeih et al. (2022), DOI-10.1016/j.nbd.2022.105892. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md). In A's account, which is unverified until read, it reports that CCL2 recruits fetal microchimeric cells to injured maternal brain in postpartum mice, with less damage.
 ---
 <!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Maria Sbeih, Bénédicte Oulès, Mansour Alkobtawi, Leslie Schwendimann, Qui Tru
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on CLAIM-tmpn0ytb.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).

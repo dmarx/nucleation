@@ -18,7 +18,7 @@ first_author: 'European Parliament and Council'
 keywords: []
 implementations: []
 summary: >-
-  European Parliament and Council (2022), Official Journal of the European Union. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §8. It bears on LIT-1002. In A's account, which is unverified until read, it is the EU regulation whose Article 25 bars some deceptive or manipulative interface designs, Article 27 sets recommender transparency and Article 38 requires a non-profiling option on very large platforms.
+  European Parliament and Council (2022), Official Journal of the European Union. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §8. It bears on [LIT-1002](LIT-1002.md). In A's account, which is unverified until read, it is the EU regulation whose Article 25 bars some deceptive or manipulative interface designs, Article 27 sets recommender transparency and Article 38 requires a non-profiling option on very large platforms.
 ---
 
 # LIT-tmpinc28: Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services (Digital Services Act)
@@ -31,4 +31,4 @@ European Parliament and Council of the European Union (2022). "Regulation (EU) 2
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §8. It bears on LIT-1002.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §8. It bears on [LIT-1002](LIT-1002.md).

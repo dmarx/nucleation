@@ -36,10 +36,10 @@ summary: >-
 ## The inference
 
 The loot-box case: a producer reading demand through revenue lets the most
-responsive spenders set a shared design (CLAIM-tmpmz271). By analogy, a
+responsive spenders set a shared design ([CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)). By analogy, a
 newsroom reading demand through attention lets the most attention-getting
 content set its allocation of reporting, and investigations lose
-(CLAIM-tmpifp69).
+([CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)).
 
 ## Critical questions
 
@@ -55,16 +55,16 @@ content set its allocation of reporting, and investigations lose
   case lacks. And demand for an undiscovered finding cannot be observed at
   all, so the newsroom's data are silent on it rather than biased.
 - **What transfers, and what does not?** The structure transfers.
-  CLAIM-tmpmz271's specific result, the marginal-response condition, does
+  [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)'s specific result, the marginal-response condition, does
   not: there is no design parameter whose revenue-optimal value a group
-  sets. What replaces it is the case CASE-tmpd5eqf, in which the
+  sets. What replaces it is the case [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md), in which the
   capability that would generate counter-evidence decays. That is a
-  different mechanism, CLAIM-342's lock-in, not CLAIM-tmpmz271's
+  different mechanism, [CLAIM-342](../claims.d/CLAIM-342.md)'s lock-in, not [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)'s
   weighting.
 
 The evidence that the mechanism operates in news is observational and
-unread (Bisiani and colleagues, LIT-tmp1bfvb; Hayes, LIT-tmpk0xvf), and
-Christin (LIT-tmpw11wj) reports newsrooms that resist it.
+unread (Bisiani and colleagues, [LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md); Hayes, [LIT-tmpk0xvf](../literature.d/LIT-tmpk0xvf.md)), and
+Christin ([LIT-tmpw11wj](../literature.d/LIT-tmpw11wj.md)) reports newsrooms that resist it.
 
 ## Verdict
 

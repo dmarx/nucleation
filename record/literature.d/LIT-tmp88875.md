@@ -19,7 +19,7 @@ first_author: 'Cordes'
 keywords: []
 implementations: []
 summary: >-
-  Cordes et al. (2024), DOI-10.1016/j.jebo.2024.106755. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A25 §4 and A29 §6. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271. In A's account, which is unverified until read, it is an experiment in which opaque odds and selectively positive feedback inflated beliefs about winning and roughly doubled willingness to pay for loot boxes.
+  Cordes et al. (2024), DOI-10.1016/j.jebo.2024.106755. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A25 §4 and A29 §6. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md). In A's account, which is unverified until read, it is an experiment in which opaque odds and selectively positive feedback inflated beliefs about winning and roughly doubled willingness to pay for loot boxes.
 ---
 <!-- inactive-ok-file: CASE-tmpmw3hc CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Simon Cordes, Markus Dertwinkel-Kalt and Tobias Werner (2024). "What drives dema
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §4 and A29 §6. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A25 §4 and A29 §6. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md).

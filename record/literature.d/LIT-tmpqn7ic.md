@@ -20,7 +20,7 @@ first_author: 'Schepanski'
 keywords: []
 implementations: []
 summary: >-
-  Schepanski et al. (2022), DOI-10.1038/s41467-022-32230-2. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on CLAIM-tmpn0ytb, CLAIM-tmpu69tn. In A's account, which is unverified until read, it reduces maternal microchimeric cells in developing mouse brains and reports altered microglia, excess synaptic pruning and changed behaviour, with rescue by restoring maternal immune cells.
+  Schepanski et al. (2022), DOI-10.1038/s41467-022-32230-2. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md). In A's account, which is unverified until read, it reduces maternal microchimeric cells in developing mouse brains and reports altered microglia, excess synaptic pruning and changed behaviour, with rescue by restoring maternal immune cells.
 ---
 <!-- inactive-ok-file: CLAIM-tmpn0ytb CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
@@ -34,4 +34,4 @@ Steven Schepanski, Mattia Chini, Veronika Sternemann, Christopher Urbschat, Kris
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on CLAIM-tmpn0ytb, CLAIM-tmpu69tn.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).

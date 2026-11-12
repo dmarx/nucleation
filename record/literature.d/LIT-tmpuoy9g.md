@@ -19,7 +19,7 @@ first_author: 'Ivern'
 keywords: []
 implementations: []
 summary: >-
-  Ivern and Carbonell (2026), DOI-10.1007/s40429-026-00768-6. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §4 and A31 §3. It bears on CASE-tmpmw3hc. In A's account, which is unverified until read, it is a scoping review identifying 136 loot-box design features across 72 studies, with little known of their separate and joint effects.
+  Ivern and Carbonell (2026), DOI-10.1007/s40429-026-00768-6. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §4 and A31 §3. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md). In A's account, which is unverified until read, it is a scoping review identifying 136 loot-box design features across 72 studies, with little known of their separate and joint effects.
 ---
 <!-- inactive-ok-file: CASE-tmpmw3hc — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Jan Ivern and Xavier Carbonell (2026). "Categorization of Loot Box Design: A Sco
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §4 and A31 §3. It bears on CASE-tmpmw3hc.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §4 and A31 §3. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md).

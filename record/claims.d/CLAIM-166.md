@@ -153,13 +153,13 @@ which is what its defeated_if turns on.
 At U7 of the exchange (2026-11-11) the owner asked whether research on a
 "gut brain" bears on the discussion. A15 answered with the enteric nervous
 system as an intermediate level between the microbial collective and the
-central nervous system, and with Hasler's distinction (LIT-tmp4a5du, unread)
+central nervous system, and with Hasler's distinction ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md), unread)
 between a contributory thesis, that enteric activity helps constitute the
 whole animal's experience, and a partial-subject thesis, that it has some
 experience of its own; most evidence supports the first. A15 states this
 claim's status correctly. A17's ladder rates "Gut microbes independently
 formulate goals that they impose on human hosts" not established, and the
-owner (U9) moved that question to parasites, QUESTION-tmpgciew, answered by
-A in CLAIM-tmpoxhqq. Nothing here changes the claim's evidence: the new
-gut-brain works are registered unread (LIT-tmp1p2zd, LIT-tmpddwp2,
-LIT-tmp7144o, LIT-tmpwo0nr, LIT-tmp42smw). No status change.
+owner (U9) moved that question to parasites, [QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md), answered by
+A in [CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md). Nothing here changes the claim's evidence: the new
+gut-brain works are registered unread ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md), [LIT-tmpddwp2](../literature.d/LIT-tmpddwp2.md),
+[LIT-tmp7144o](../literature.d/LIT-tmp7144o.md), [LIT-tmpwo0nr](../literature.d/LIT-tmpwo0nr.md), [LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)). No status change.

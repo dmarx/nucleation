@@ -19,7 +19,7 @@ first_author: 'Boxer'
 keywords: []
 implementations: []
 summary: >-
-  Boxer et al. (2026), Transactions on Machine Learning Research (01/2026). Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §1. It bears on QUESTION-tmpuftum. In A's account, which is unverified until read, it proposes Conditional Bias Scan for detecting intersectional subgroup biases that aggregate fairness checks miss.
+  Boxer et al. (2026), Transactions on Machine Learning Research (01/2026). Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it proposes Conditional Bias Scan for detecting intersectional subgroup biases that aggregate fairness checks miss.
 ---
 
 # LIT-tmp14en7: Auditing Predictive Models for Intersectional Biases
@@ -32,4 +32,4 @@ Kate S. Boxer, Edward McFowland III and Daniel B. Neill (2026). "Auditing Predic
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on QUESTION-tmpuftum.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).

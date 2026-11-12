@@ -142,6 +142,6 @@ to a player's self-set spending limit, "A person who voluntarily establishes
 a spending constraint may be exercising autonomy, not relinquishing it",
 where the question is whether the software supports the authorized
 constraint. A21 §1 applies it to adaptive deep brain stimulation, an
-external regulator the patient authorized (LIT-tmp6oofp, unread). A9 §5
+external regulator the patient authorized ([LIT-tmp6oofp](../literature.d/LIT-tmp6oofp.md), unread). A9 §5
 applies it to advance directives. In each the case's contrast between the
 delegated and the imposed restriction carries over. No change.

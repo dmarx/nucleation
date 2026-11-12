@@ -19,7 +19,7 @@ first_author: 'Harman'
 keywords: []
 implementations: []
 summary: >-
-  Harman (2025), Stanford Encyclopedia of Philosophy. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §6 and its reading list. It bears on THEORY-448, THEORY-464. In A's account, which is unverified until read, it separates personhood, the right to life, potentiality and bodily-support arguments, and whether abortion is wrong from whether it should be legally restricted.
+  Harman (2025), Stanford Encyclopedia of Philosophy. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §6 and its reading list. It bears on [THEORY-448](../theory.d/THEORY-448.md), [THEORY-464](../theory.d/THEORY-464.md). In A's account, which is unverified until read, it separates personhood, the right to life, potentiality and bodily-support arguments, and whether abortion is wrong from whether it should be legally restricted.
 ---
 <!-- inactive-ok-file: THEORY-448 THEORY-464 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Elizabeth Harman (2025). "The Ethics of Abortion." *Stanford Encyclopedia of Phi
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §6 and its reading list. It bears on THEORY-448, THEORY-464.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §6 and its reading list. It bears on [THEORY-448](../theory.d/THEORY-448.md), [THEORY-464](../theory.d/THEORY-464.md).

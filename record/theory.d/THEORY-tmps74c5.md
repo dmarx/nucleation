@@ -17,8 +17,8 @@ promote_when: >-
   replication with another base model or retrieval setting, or the
   released code reproduces Table 1.
 summary: >-
-  Zhai, Yan, Shao and Wang's PASS@(k,T) (LIT-tmpt7avk, read in
-  NOTE-tmpa5wyr). The distinction is definitional and holds whatever the
+  Zhai, Yan, Shao and Wang's PASS@(k,T) ([LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md), read in
+  [NOTE-tmpa5wyr](../notes.d/NOTE-tmpa5wyr.md)). The distinction is definitional and holds whatever the
   experiment shows; the experiment is one model, one tool and differences
   of a few problems. Its stated monotonicity in T holds of a policy that
   ignores unused budget, and its own per-depth estimates are not
@@ -43,7 +43,7 @@ base model already produced, not from longer chains.
 ## Evidence
 
 Table 1 and Figures 1–4 of the paper, on Qwen2.5-7B-Instruct with BM25
-retrieval over HotPotQA (NOTE-tmpa5wyr).
+retrieval over HotPotQA ([NOTE-tmpa5wyr](../notes.d/NOTE-tmpa5wyr.md)).
 
 ## What it does not say
 

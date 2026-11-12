@@ -19,7 +19,7 @@ first_author: 'Huang'
 keywords: []
 implementations: []
 summary: >-
-  Huang et al. (2026), DOI-10.1146/annurev-ento-121423-013603. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §3. It bears on CLAIM-tmpu69tn. In A's account, which is unverified until read, it reviews how parasitoid wasps use venom, virus-derived particles and teratocytes to alter host immunity, metabolism, development and behaviour.
+  Huang et al. (2026), DOI-10.1146/annurev-ento-121423-013603. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §3. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md). In A's account, which is unverified until read, it reviews how parasitoid wasps use venom, virus-derived particles and teratocytes to alter host immunity, metabolism, development and behaviour.
 ---
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Jianhua Huang, Xue-xin Chen and Shuai Zhan (2026). "Molecular Mechanisms Underly
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. It bears on CLAIM-tmpu69tn.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §3. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).

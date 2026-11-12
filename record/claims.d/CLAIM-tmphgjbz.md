@@ -57,15 +57,15 @@ differences.
 
 ## Where it sits
 
-- THEORY-770, the Price equation: the same split for a population's mean
+- [THEORY-770](../theory.d/THEORY-770.md), the Price equation: the same split for a population's mean
   character under selection. A31 §6 applies its between-design and
   within-lineage form to the spread of designs among games; this claim is
   the within-product, composition-only case.
-- CLAIM-342 (a judgement–observation loop confirms itself unless the
+- [CLAIM-342](CLAIM-342.md) (a judgement–observation loop confirms itself unless the
   evidence does not pass through the interpretation it tests): exit is a
   route by which the evidence comes to pass through it, because the
   product decides who remains to be observed.
-- CLAIM-348 (a coarse-graining adequate for an institution's performance
+- [CLAIM-348](CLAIM-348.md) (a coarse-graining adequate for an institution's performance
   can merge states its members' claims must distinguish): a measure taken
   over remaining users is such a coarse-graining for those who left.
 

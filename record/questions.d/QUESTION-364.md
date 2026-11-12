@@ -163,5 +163,5 @@ describe its distinctions accurately: endogenous governance, historically
 continuous authorization and legitimate authority. A9 carries it from one
 agent to two, a parent authorizing for an infant against an earlier self
 authorizing for a later one, and A17 to interventions that alter a person's
-motivational architecture after they consented. Filed as QUESTION-tmp2lvhi;
+motivational architecture after they consented. Filed as [QUESTION-tmp2lvhi](QUESTION-tmp2lvhi.md);
 this question is unchanged.

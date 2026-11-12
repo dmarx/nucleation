@@ -209,4 +209,4 @@ budget (A25 §6) and to investigative capacity (A33 §8). A44 §5 adds a step
 before legibility that the claim takes for granted: the organization must be
 able to recognize which candidate arrangement satisfies the demand,
 "Oracle-assessed availability" against "Operational success"
-(CASE-tmpz1l6r). No status change.
+([CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md)). No status change.

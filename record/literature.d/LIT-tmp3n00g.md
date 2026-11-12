@@ -7,10 +7,10 @@ status_note: >-
   posts it under CC BY-NC-ND. On 2026-11-12 the full-text page
   https://www.biorxiv.org/content/10.64898/2026.06.05.730225v2.full
   answered with HTTP 429 (rate limit); the attempt stopped there and the
-  host was not retried (ADR-074). Europe PMC (PPR1249764) holds no full
+  host was not retried ([ADR-074](../decisions.d/ADR-074.md)). Europe PMC (PPR1249764) holds no full
   text. The bioRxiv API (api.biorxiv.org) gave the metadata and abstract
   of both versions. A lawful copy is located and was not fetched
-  (ADR-053).
+  ([ADR-053](../decisions.d/ADR-053.md)).
 title: 'Microchimerism in the human brain, quantitative assessment and single nuclei profiling establish cell types and diversity'
 version: 1
 history:
@@ -40,7 +40,7 @@ keywords:
 implementations: []
 summary: >-
   Kanaan and colleagues (2026), DOI-10.64898/2026.06.05.730225, a bioRxiv
-  preprint. One of the owner's four sources at U5 (CLAIM-tmpn0ytb). By its
+  preprint. One of the owner's four sources at U5 ([CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)). By its
   abstract: maternal microchimerism in most surgically resected epilepsy
   brains, by polymorphism-specific qPCR across four regions, and in public
   single-nucleus datasets of healthy brains from gestation to old age,
@@ -70,5 +70,5 @@ localization and cell fusion or artefact open. That is unverified.
 ## Standing in the record
 
 The owner's source. A transcriptomic identity is not shown function: the
-record's use of it for CLAIM-tmpn0ytb is as evidence of incorporation, not
+record's use of it for [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md) is as evidence of incorporation, not
 of contribution.

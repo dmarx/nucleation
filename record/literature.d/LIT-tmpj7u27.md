@@ -19,7 +19,7 @@ first_author: 'Bogliacino'
 keywords: []
 implementations: []
 summary: >-
-  Bogliacino et al. (2026), DOI-10.1016/j.jebo.2026.107469. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §7. It bears on CLAIM-404. In A's account, which is unverified until read, it proposes testing an interface by whether it raises inconsistency between choices and independently elicited preferences; dark patterns did, and a transparency remedy did not remove the effect.
+  Bogliacino et al. (2026), DOI-10.1016/j.jebo.2026.107469. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §7. It bears on [CLAIM-404](../claims.d/CLAIM-404.md). In A's account, which is unverified until read, it proposes testing an interface by whether it raises inconsistency between choices and independently elicited preferences; dark patterns did, and a transparency remedy did not remove the effect.
 ---
 
 # LIT-tmpj7u27: The transaction test: An experimental method for assessing online interfaces
@@ -32,4 +32,4 @@ Francesco Bogliacino, Leonardo Pejsachowicz, Giovanni Liva and Francisco Lupiá�
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §7. It bears on CLAIM-404.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §7. It bears on [CLAIM-404](../claims.d/CLAIM-404.md).

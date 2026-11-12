@@ -99,9 +99,9 @@ cases could advance the record's normativity questions. A37 §5 separated
 three stages with constructed cases: an optimization error the organization
 corrects; "self-certifying blindness", in which it reads its selective data
 as success; and "counter-corrective governance", in which a challenge leads
-it to make later challenges less effective, which is CLAIM-619. Its newsroom
-variant is filed as CASE-tmpd5eqf. The exchange adds a passive route that
+it to make later challenges less effective, which is [CLAIM-619](../claims.d/CLAIM-619.md). Its newsroom
+variant is filed as [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md). The exchange adds a passive route that
 needs no response to any challenge: a reward for few recognized failures
-penalizes the inquiry that would recognize more (CLAIM-tmpvceet). A39 §7
+penalizes the inquiry that would recognize more ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md)). A39 §7
 recasts answerability as a demand A_C in the compatibility complex. The
 question stays Open.

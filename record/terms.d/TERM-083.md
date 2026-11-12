@@ -121,6 +121,6 @@ debate: when a distinct organism exists, when it has interests, and what
 grounds and follows from them. A9's "proposed bridge" is "An account of how
 a system becomes an individual can help identify candidate bearers of moral
 standing, but cannot by itself establish what those individuals are owed".
-That is this term's demand that standing be argued, and CLAIM-075's. The
+That is this term's demand that standing be argued, and [CLAIM-075](../claims.d/CLAIM-075.md)'s. The
 question of who may act on a standing that the bearer cannot exercise is
-filed as QUESTION-tmp2lvhi.
+filed as [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).

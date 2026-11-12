@@ -23,17 +23,17 @@ summary: >-
   nothing about evaluators that can be wrong. Proposed. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmps74c5 CLAIM-tmpyc5md — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-tmps74c5 — filed from the same exchange, Proposed -->
 
 # ARG-tmpid47d: PASS@(k,T)'s capability boundary, efficiency and interaction depth correspond to the record's reachability by a process, reliable attainment and resource index, with two differences: the paper's process is a stochastic policy that can change with its budget, and its success is judged by an oracle
 
 ## The inference
 
-THEORY-tmps74c5 defines, for a policy π and depth T, a boundary B_T(π) of
+[THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md) defines, for a policy π and depth T, a boundary B_T(π) of
 problems with nonzero limiting success, and efficiency as PASS@(1,T) inside
-it. CLAIM-567 defines, for a process and a target, feasible, reachable
+it. [CLAIM-567](../claims.d/CLAIM-567.md) defines, for a process and a target, feasible, reachable
 (some admissible path) and reliably reached (probability at least 1 − ε).
-CLAIM-560 indexes reachable sets by a budget. So: boundary ≈ reachable by
+[CLAIM-560](../claims.d/CLAIM-560.md) indexes reachable sets by a budget. So: boundary ≈ reachable by
 this process at this budget; efficiency ≈ reliability; T ≈ the budget.
 
 ## Critical questions
@@ -42,11 +42,11 @@ this process at this budget; efficiency ≈ reliability; T ≈ the budget.
   needs?** Both separate whether a process can ever produce a success from
   how often it does, under a resource bound. The paper's "efficiency
   improvement moves probability mass within the intersection of capability
-  sets, while capability expansion enlarges the union" is CLAIM-567's
+  sets, while capability expansion enlarges the union" is [CLAIM-567](../claims.d/CLAIM-567.md)'s
   reachable/reliably-reached split for two processes compared. That is the
   respect the owner's claim needs.
 - **What relevant difference is there?**
-  - *The process.* CLAIM-567 and CLAIM-560 fix a move rule; the paper
+  - *The process.* [CLAIM-567](../claims.d/CLAIM-567.md) and [CLAIM-560](../claims.d/CLAIM-560.md) fix a move rule; the paper
     compares policies, and a policy can act differently when given more
     rounds. The paper states monotonicity in T, "unused rounds are simply
     not exercised", but its own per-depth estimates fall in places (0.32 at
@@ -55,7 +55,7 @@ this process at this budget; efficiency ≈ reliability; T ≈ the budget.
     ignores budget it does not use.
   - *Feasibility.* The paper has no counterpart of feasibility apart from
     reachability: a problem outside every policy's boundary is not shown
-    infeasible. CLAIM-567's first property has no column in the table.
+    infeasible. [CLAIM-567](../claims.d/CLAIM-567.md)'s first property has no column in the table.
   - *The evaluator.* Success is exact match against a gold answer. In an
     organization the judge of success is fallible and itself governed;
     A44 §5's "Oracle-assessed availability" against "Operational success"

@@ -152,4 +152,4 @@ variant accurately and adds a source of influence the case does not have:
 not the party the newsroom evaluates, but "the platform or advertising
 market through which the newsroom obtains resources". The newsroom "can
 remain formally independent while gradually adopting the platform's criteria
-of success" (CLAIM-tmpifp69).
+of success" ([CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)).

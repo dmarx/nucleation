@@ -20,7 +20,7 @@ first_author: 'Levin'
 keywords: []
 implementations: []
 summary: >-
-  Levin (2024), DOI-10.1002/bies.202400196. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §7. It bears on THEORY-583. In A's account, which is unverified until read, it interprets development, regeneration and cancer suppression as collective problem-solving by cells, with bioelectric networks coordinating anatomical outcomes.
+  Levin (2024), DOI-10.1002/bies.202400196. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §7. It bears on [THEORY-583](../theory.d/THEORY-583.md). In A's account, which is unverified until read, it interprets development, regeneration and cancer suppression as collective problem-solving by cells, with bioelectric networks coordinating anatomical outcomes.
 ---
 <!-- inactive-ok-file: THEORY-583 — Proposed; cited as on the record -->
 
@@ -34,4 +34,4 @@ Michael Levin (2024). "The Multiscale Wisdom of the Body: Collective Intelligenc
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §7. It bears on THEORY-583.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §7. It bears on [THEORY-583](../theory.d/THEORY-583.md).

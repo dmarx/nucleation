@@ -20,7 +20,7 @@ first_author: 'Gauthier'
 keywords: []
 implementations: []
 summary: >-
-  Gauthier et al. (2026), DOI-10.1038/s41586-026-10098-2. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §2. It bears on CLAIM-404, CLAIM-463. In A's account, which is unverified until read, it is a seven-week field experiment with 4,965 US users of X: switching the algorithmic feed on shifted some political attitudes, switching it off did not reverse them, and accounts followed under the algorithm stayed followed.
+  Gauthier et al. (2026), DOI-10.1038/s41586-026-10098-2. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §2. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [CLAIM-463](../claims.d/CLAIM-463.md). In A's account, which is unverified until read, it is a seven-week field experiment with 4,965 US users of X: switching the algorithmic feed on shifted some political attitudes, switching it off did not reverse them, and accounts followed under the algorithm stayed followed.
 ---
 
 # LIT-tmpp1gq8: The political effects of X’s feed algorithm
@@ -33,4 +33,4 @@ Germain Gauthier, Roland Hodler, Philine Widmer and Ekaterina Zhuravskaya (2026)
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §2. It bears on CLAIM-404, CLAIM-463.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §2. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [CLAIM-463](../claims.d/CLAIM-463.md).

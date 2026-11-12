@@ -27,7 +27,7 @@ summary: >-
   Documented phenomena of parasitology; the details here are A's reports
   of works registered unread, and are to be checked on reading. Used as
   the test of whether one organism can set the ends another's machinery
-  pursues (QUESTION-tmpgciew).
+  pursues ([QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpwxxvn LIT-tmpfw2u8 LIT-tmpwasqi LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
@@ -53,7 +53,7 @@ A19 adds three further parasites: a liver fluke whose ants clamp to grass
 in cool weather and let go in warm, a hairworm that draws mantises to
 horizontally polarized light (and so to water, and to asphalt), and a
 trematode that makes killifish surface and dart. A's meta-analytic report
-(LIT-tmpfw2u8, 207 studies): manipulation is stronger in mature parasite
+([LIT-tmpfw2u8](../literature.d/LIT-tmpfw2u8.md), 207 studies): manipulation is stronger in mature parasite
 stages and in the presence of the right predator.
 
 What is held fixed: in every instance the action is executed by the host's
@@ -63,18 +63,18 @@ perceives, how it values what it perceives, or what it can execute.
 ## What it can show
 
 That behaviour executed by one organism's own machinery can be shaped, by
-selection, to serve another organism's transmission (CLAIM-tmpoxhqq), and so
+selection, to serve another organism's transmission ([CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md)), and so
 that the place an action is executed does not settle whose interests its
-production serves. It illustrates CLAIM-404's two routes, evidence and
+production serves. It illustrates [CLAIM-404](../claims.d/CLAIM-404.md)'s two routes, evidence and
 criteria, across an organism boundary, with a third, execution, that
-CLAIM-404 does not name.
+[CLAIM-404](../claims.d/CLAIM-404.md) does not name.
 
 ## What it cannot show
 
 That the parasite represents the host or pursues an end. The case is
 documented as biology. Its details here are A's reports of works registered
-unread (LIT-tmpwxxvn, LIT-tmpfw2u8, LIT-tmpwasqi), and A19 itself notes
+unread ([LIT-tmpwxxvn](../literature.d/LIT-tmpwxxvn.md), [LIT-tmpfw2u8](../literature.d/LIT-tmpfw2u8.md), [LIT-tmpwasqi](../literature.d/LIT-tmpwasqi.md)), and A19 itself notes
 that a 2026 Mendelian-randomization study found no causal link between
 susceptibility to Toxoplasma and human psychiatric outcomes or risk-taking.
 The rodent results do not carry over to people. The host-defence contrast
-is in LIT-tmpawef9.
+is in [LIT-tmpawef9](../literature.d/LIT-tmpawef9.md).

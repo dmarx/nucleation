@@ -19,7 +19,7 @@ first_author: 'Ohara'
 keywords: []
 implementations: []
 summary: >-
-  Ohara and Hsiao (2025), DOI-10.1038/s41579-024-01136-9. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on CASE-047, CLAIM-166. In A's account, which is unverified until read, it reviews the signalling interface between microbial products, intestinal sensory cells and neural pathways.
+  Ohara and Hsiao (2025), DOI-10.1038/s41579-024-01136-9. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on [CASE-047](../cases.d/CASE-047.md), [CLAIM-166](../claims.d/CLAIM-166.md). In A's account, which is unverified until read, it reviews the signalling interface between microbial products, intestinal sensory cells and neural pathways.
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Takahiro E. Ohara and Elaine Y. Hsiao (2025). "Microbiota–neuroepithelial sign
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on CASE-047, CLAIM-166.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on [CASE-047](../cases.d/CASE-047.md), [CLAIM-166](../claims.d/CLAIM-166.md).

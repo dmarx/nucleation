@@ -18,7 +18,7 @@ first_author: 'Yu'
 keywords: []
 implementations: []
 summary: >-
-  Yu et al. (2026), DOI-10.1145/3774904.3792955. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §3. It bears on LIT-971. In A's account, which is unverified until read, it simulates retrieval over a web increasingly polluted by AI-generated documents: contaminating 67% of the pool gave over 80% AI-generated exposure in results.
+  Yu et al. (2026), DOI-10.1145/3774904.3792955. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §3. It bears on [LIT-971](LIT-971.md). In A's account, which is unverified until read, it simulates retrieval over a web increasingly polluted by AI-generated documents: contaminating 67% of the pool gave over 80% AI-generated exposure in results.
 ---
 
 # LIT-tmp9a7jh: Retrieval Collapses When AI Pollutes the Web
@@ -31,4 +31,4 @@ Hongyeon Yu, Dongchan Kim and Young-Bum Kim (2026). "Retrieval Collapses When AI
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §3. It bears on LIT-971.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §3. It bears on [LIT-971](LIT-971.md).

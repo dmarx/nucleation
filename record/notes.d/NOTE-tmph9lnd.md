@@ -28,7 +28,7 @@ summary: >-
   remaining cells are not rejected.
 ---
 <!-- inactive-ok-file: LIT-tmpxdjn3 — Unfetched; the paper this post reports -->
-<!-- inactive-ok-file: CLAIM-tmpn0ytb ARG-tmp51yxc THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpn0ytb ARG-tmp51yxc — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-448 THEORY-443 — Proposed; the readings this one bears on -->
 
 # NOTE-tmph9lnd: Cincinnati Children's — Deeper microchimerism study
@@ -72,19 +72,19 @@ rather than by co-occurrence.
 
 ## Bearing on the record
 
-- On the owner's CLAIM-tmpn0ytb: the post is the strongest evidence among
+- On the owner's [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md): the post is the strongest evidence among
   the owner's four sources that some foreign-origin cells are not merely
   present but take part in the host's regulation, here its tolerance. It
-  does not show that individuality is graded; ARG-tmp51yxc says how far it
+  does not show that individuality is graded; [ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md) says how far it
   carries.
-- On THEORY-448 (Meincke): the post concerns the relation after birth, which
+- On [THEORY-448](../theory.d/THEORY-448.md) (Meincke): the post concerns the relation after birth, which
   Meincke's process view of gestation does not reach. It extends the
   question of one-or-two past birth at the level of cells, without
   answering it at the level of organisms.
-- On THEORY-443 (evolutionary against physiological individuality): a
+- On [THEORY-443](../theory.d/THEORY-443.md) (evolutionary against physiological individuality): a
   genetically foreign cell lineage serving the host's physiological
   regulation is an instance of the two coming apart.
-- On CLAIM-508 (gene ancestries alone cannot tell a partner from a source
+- On [CLAIM-508](../claims.d/CLAIM-508.md) (gene ancestries alone cannot tell a partner from a source
   of transferred genes): the same point at the level of cells. Genetic
   provenance does not tell which cells do the host's work.
 

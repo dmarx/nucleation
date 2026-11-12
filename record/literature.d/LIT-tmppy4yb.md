@@ -18,7 +18,7 @@ first_author: 'Kara'
 keywords: []
 implementations: []
 summary: >-
-  Kara et al. (2012), DOI-10.1161/circresaha.111.249037. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on CLAIM-tmpn0ytb. In A's account, which is unverified until read, it reports that fetal cells traffic to injured maternal myocardium in mice and take on cardiac cell phenotypes.
+  Kara et al. (2012), DOI-10.1161/circresaha.111.249037. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md). In A's account, which is unverified until read, it reports that fetal cells traffic to injured maternal myocardium in mice and take on cardiac cell phenotypes.
 ---
 <!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 
@@ -32,4 +32,4 @@ Rina J. Kara, Paola Bolli, Ioannis Karakikes, Iwao Matsunaga, Joseph Tripodi, Om
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on CLAIM-tmpn0ytb.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).

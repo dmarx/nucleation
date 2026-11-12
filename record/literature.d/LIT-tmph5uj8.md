@@ -20,7 +20,7 @@ first_author: 'Devanesan'
 keywords: []
 implementations: []
 summary: >-
-  Devanesan (2026), DOI-10.1136/jme-2025-111517. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on THEORY-448, TERM-083. In A's account, which is unverified until read, it argues that accounts of fetal parthood change which analogies (bodily invasion, Thomson's violinist) fit, without settling whether abortion is permissible.
+  Devanesan (2026), DOI-10.1136/jme-2025-111517. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md), [TERM-083](../terms.d/TERM-083.md). In A's account, which is unverified until read, it argues that accounts of fetal parthood change which analogies (bodily invasion, Thomson's violinist) fit, without settling whether abortion is permissible.
 ---
 <!-- inactive-ok-file: TERM-083 THEORY-448 — Proposed; cited as on the record -->
 
@@ -34,4 +34,4 @@ Arjun Devanesan (2026). "Ethical implications of the mereology of pregnancy." *J
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on THEORY-448, TERM-083.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md), [TERM-083](../terms.d/TERM-083.md).

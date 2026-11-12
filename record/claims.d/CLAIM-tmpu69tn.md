@@ -70,27 +70,27 @@ indistinguishable from authentic preference change by definition."
 The combinations, as A21 reports them:
 
 - outside, authorized, serving the person: adaptive deep brain stimulation
-  (LIT-tmp6oofp), where the device may act without the patient noticing;
-- outside, unauthorized, serving another: the parasite (CASE-tmp10ykm);
+  ([LIT-tmp6oofp](../literature.d/LIT-tmp6oofp.md)), where the device may act without the patient noticing;
+- outside, unauthorized, serving another: the parasite ([CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md));
 - inside by lineage, working against the organism: cancer that recruits and
-  remodels neural inputs (LIT-tmpj31gs);
+  remodels neural inputs ([LIT-tmpj31gs](../literature.d/LIT-tmpj31gs.md));
 - outside by lineage, serving the host: maternal cells that sustain the
-  offspring's tolerance (THEORY-tmp6t2l2).
+  offspring's tolerance ([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md)).
 
 A21 adds two that cut further: wasps whose domesticated viral genes, once a
-separate lineage, now let them alter a third organism (LIT-tmpe26cm), and
+separate lineage, now let them alter a third organism ([LIT-tmpe26cm](../literature.d/LIT-tmpe26cm.md)), and
 Wolbachia, which changes which reproductive futures an insect has rather
-than its choices (LIT-tmpzogx3).
+than its choices ([LIT-tmpzogx3](../literature.d/LIT-tmpzogx3.md)).
 
 ## Where it sits
 
-- TERM-100 already separates formation provenance from maintenance
+- [TERM-100](../terms.d/TERM-100.md) already separates formation provenance from maintenance
   provenance; this claim adds that neither fixes alignment.
-- CLAIM-060 (an organization's success does not establish its constituents'
+- [CLAIM-060](CLAIM-060.md) (an organization's success does not establish its constituents'
   well-being, and conversely) is the alignment question at one level.
-- CLAIM-404 is the control question for organizations; CLAIM-tmpoxhqq
+- [CLAIM-404](CLAIM-404.md) is the control question for organizations; [CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md)
   carries it to organisms.
-- CLAIM-530 (whether maintenance is realized inside depends on the parthood
+- [CLAIM-530](CLAIM-530.md) (whether maintenance is realized inside depends on the parthood
   clause) is the boundary of the individual; this claim says the boundary
   of governance is a different line.
 
@@ -99,4 +99,4 @@ than its choices (LIT-tmpzogx3).
 That authorization makes external regulation self-governance: A21 asks it
 as a question, "Under what conditions can externally implemented
 regulation be part of genuine self-government?" Or how interests are
-"independently specified", which is QUESTION-129's problem.
+"independently specified", which is [QUESTION-129](../questions.d/QUESTION-129.md)'s problem.

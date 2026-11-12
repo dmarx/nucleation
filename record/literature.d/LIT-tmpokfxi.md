@@ -30,14 +30,14 @@ keywords:
 implementations: []
 summary: >-
   A research-news post (Cincinnati Children's, 2025) on Peng, Way and
-  colleagues' Immunity paper (LIT-tmpxdjn3): in mice, only maternal
+  colleagues' Immunity paper ([LIT-tmpxdjn3](LIT-tmpxdjn3.md)): in mice, only maternal
   microchimeric cells marked by LysM and CD11c sustain offspring's
   tolerance of non-inherited maternal antigens, and removing them leaves
   most maternal microchimeric cells in place. Here because the owner
   supplied it at U5 of the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), as one of four sources for the link
   between microchimerism and graded or processual individuality
-  (CLAIM-tmpn0ytb). Read in NOTE-tmph9lnd; its account is THEORY-tmp6t2l2.
+  ([CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)). Read in [NOTE-tmph9lnd](../notes.d/NOTE-tmph9lnd.md); its account is [THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md).
 ---
 <!-- inactive-ok-file: LIT-tmpxdjn3 — Unfetched; the paper this post reports -->
 <!-- inactive-ok-file: CLAIM-tmpn0ytb — filed from the same exchange, Proposed -->
@@ -63,6 +63,6 @@ research by Yanyan Peng, Sing Sing Way and colleagues.
 ## Standing in the record
 
 A press summary, read because the owner supplied it. The paper it reports
-is LIT-tmpxdjn3, Unfetched: each lawful copy located refused this session
+is [LIT-tmpxdjn3](LIT-tmpxdjn3.md), Unfetched: each lawful copy located refused this session
 with a bot check or failed. What the post says of the experiments is the
 institution's own account of its paper, not a reading of the paper.

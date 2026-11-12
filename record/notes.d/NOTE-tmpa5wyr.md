@@ -23,7 +23,7 @@ summary: >-
   questions (net +4 of 100) and matched-data SFT contracts it (net −4);
   the gain comes from reweighting existing strategies.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyc5md ARG-tmpid47d CASE-tmpz1l6r CLAIM-tmpvceet — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpyc5md ARG-tmpid47d CASE-tmpz1l6r — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed; the record's tolerance-indexed complex the owner linked this paper to -->
 
 # NOTE-tmpa5wyr: Zhai, Yan, Shao & Wang — A PASS@(k,T) analysis
@@ -84,19 +84,19 @@ at finite n means solved at least once in 64 rollouts.
 
 ## Bearing on the record
 
-- On the owner's CLAIM-tmpyc5md: the paper's three notions map onto
-  CLAIM-567's three properties with one shift. Its boundary is
+- On the owner's [CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md): the paper's three notions map onto
+  [CLAIM-567](../claims.d/CLAIM-567.md)'s three properties with one shift. Its boundary is
   reachability by a given stochastic policy under a budget, not
-  feasibility; efficiency is reliable attainment. ARG-tmpid47d argues the
+  feasibility; efficiency is reliable attainment. [ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md) argues the
   mapping and where it stops.
-- On CLAIM-560 (resource-indexed compatibility and reachability grow with
+- On [CLAIM-560](../claims.d/CLAIM-560.md) (resource-indexed compatibility and reachability grow with
   the budget and neither fixes the other): T is a resource index of the
   reachable set. The non-monotone estimates qualify the analogy: a policy
   is not a fixed move rule, so more budget can change what it does.
-- On CLAIM-555 and CLAIM-537 (tolerance-indexed complexes): the paper has
+- On [CLAIM-555](../claims.d/CLAIM-555.md) and [CLAIM-537](../claims.d/CLAIM-537.md) (tolerance-indexed complexes): the paper has
   no tolerances. Success is exact match. A's tolerance-indexed
-  generalization is CASE-tmpz1l6r, not the paper's.
-- On QUESTION-279 (certifying that no remedy exists): the paper's boundary
+  generalization is [CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md), not the paper's.
+- On [QUESTION-279](../questions.d/QUESTION-279.md) (certifying that no remedy exists): the paper's boundary
   at finite n means solved at least once in 64 rollouts, and a problem
   outside it is not shown unsolvable. A44 makes the same point.
 

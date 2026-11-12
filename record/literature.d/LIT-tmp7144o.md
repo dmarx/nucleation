@@ -19,7 +19,7 @@ first_author: 'Nakhal'
 keywords: []
 implementations: []
 summary: >-
-  Nakhal et al. (2026), DOI-10.3389/fnana.2026.1801873. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §3. It bears on CLAIM-166. In A's account, which is unverified until read, it reports that maternal gut dysbiosis in mice is associated with altered enteric and cortical inhibitory circuit development in offspring.
+  Nakhal et al. (2026), DOI-10.3389/fnana.2026.1801873. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md). In A's account, which is unverified until read, it reports that maternal gut dysbiosis in mice is associated with altered enteric and cortical inhibitory circuit development in offspring.
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Mohammed M. Nakhal, Faheema Nafees, Ayishal B. Mydeen, Abdulaziz Al Ali, Sarah B
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §3. It bears on CLAIM-166.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §3. It bears on [CLAIM-166](../claims.d/CLAIM-166.md).

@@ -20,7 +20,7 @@ first_author: 'Devanesan'
 keywords: []
 implementations: []
 summary: >-
-  Devanesan (2026), DOI-10.1093/mind/fzaf066. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on THEORY-448, CLAIM-tmpn0ytb. In A's account, which is unverified until read, it argues from immunological evidence for an overlap view of pregnancy: gestator and fetus share parts without either being part of the other.
+  Devanesan (2026), DOI-10.1093/mind/fzaf066. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md), [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md). In A's account, which is unverified until read, it argues from immunological evidence for an overlap view of pregnancy: gestator and fetus share parts without either being part of the other.
 ---
 <!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
@@ -35,4 +35,4 @@ Arjun Devanesan (2026). "A Mereological Analysis of Pregnancy—According to the
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on THEORY-448, CLAIM-tmpn0ytb.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md), [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).

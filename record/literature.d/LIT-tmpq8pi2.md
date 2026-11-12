@@ -19,7 +19,7 @@ first_author: 'Freer'
 keywords: []
 implementations: []
 summary: >-
-  Freer and Nosratabadi (2026), DOI-10.1016/j.jebo.2026.107568. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §2. It bears on QUESTION-tmpuftum. In A's account, which is unverified until read, it tests whether limited-attention models help recover preferences from choices over restricted consideration sets.
+  Freer and Nosratabadi (2026), DOI-10.1016/j.jebo.2026.107568. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §2. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it tests whether limited-attention models help recover preferences from choices over restricted consideration sets.
 ---
 
 # LIT-tmpq8pi2: Revealed preference analysis under limited attention
@@ -32,4 +32,4 @@ Mikhail Freer and Hassan Nosratabadi (2026). "Revealed preference analysis under
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §2. It bears on QUESTION-tmpuftum.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §2. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).

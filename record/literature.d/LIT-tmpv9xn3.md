@@ -19,7 +19,7 @@ first_author: 'Monnier'
 keywords: []
 implementations: []
 summary: >-
-  Monnier et al. (2026), DOI-10.1145/3805689.3812417. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §1. It bears on QUESTION-tmpuftum, QUESTION-129. In A's account, which is unverified until read, it argues that aggregating fairness results across intersectional groups is a further choice (a meta-metric) whose rules can give conflicting verdicts.
+  Monnier et al. (2026), DOI-10.1145/3805689.3812417. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), [QUESTION-129](../questions.d/QUESTION-129.md). In A's account, which is unverified until read, it argues that aggregating fairness results across intersectional groups is a further choice (a meta-metric) whose rules can give conflicting verdicts.
 ---
 
 # LIT-tmpv9xn3: Beyond Base Metric: The Critical and Overlooked Role of Meta-Metrics in Intersectional Fairness
@@ -32,4 +32,4 @@ Jeanne Monnier, Thomas George, Frédéric Guyard, Christèle Tarnec and Marios K
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on QUESTION-tmpuftum, QUESTION-129.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), [QUESTION-129](../questions.d/QUESTION-129.md).

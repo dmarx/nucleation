@@ -129,7 +129,7 @@ A39 §2 of the exchange (2026-11-11) cites this case correctly ("Nucleation
 already constructs this exact abstract pattern") and dresses it as a mobile
 game: revenue, accessible progression and budget protection, with three
 stipulated designs each meeting two. A's three responses are choose a face,
-delete the third demand (not relief, CLAIM-361) and redesign so the triple
+delete the third demand (not relief, [CLAIM-361](../claims.d/CLAIM-361.md)) and redesign so the triple
 becomes attainable. A39: "A genuine constraint can explain why every demand
 cannot be met; it does not by itself justify which demand is sacrificed." An
 illustration; no change.

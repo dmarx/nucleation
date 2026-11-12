@@ -30,15 +30,15 @@ keywords:
 implementations:
 - https://github.com/zhiyuanZhai20/pass-kt-analysis
 summary: >-
-  Zhai, Yan, Shao and Wang (2026), ARXIV-2604.14877. PASS@(k,T), the
+  Zhai, Yan, Shao and Wang (2026), [ARXIV-2604.14877](https://arxiv.org/abs/2604.14877). PASS@(k,T), the
   chance that one of k sampled trajectories with at most T interaction
   rounds succeeds, separates capability expansion (problems newly solvable
   at some sampling budget) from efficiency improvement (problems already
   solvable, solved more reliably). On sequential retrieval, RL expands a
   7B agent's boundary while matched-data SFT contracts it. Here because the
   owner named it at U21 beside the record's work on resource-bounded
-  realization and tolerance regions (CLAIM-tmpyc5md). Read in NOTE-tmpa5wyr;
-  its account is THEORY-tmps74c5.
+  realization and tolerance regions ([CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md)). Read in [NOTE-tmpa5wyr](../notes.d/NOTE-tmpa5wyr.md);
+  its account is [THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpyc5md THEORY-tmps74c5 — filed from the same exchange, Proposed -->
 
@@ -46,7 +46,7 @@ summary: >-
 
 Zhiyuan Zhai, Wenjing Yan, Xiaodan Shao and Xin Wang (2026). "Does RL Expand
 the Capability Boundary of LLM Agents? A PASS@(k, T) Analysis." arXiv
-preprint. ARXIV-2604.14877.
+preprint. [ARXIV-2604.14877](https://arxiv.org/abs/2604.14877).
 
 ## Key takeaways
 
@@ -64,4 +64,4 @@ preprint. ARXIV-2604.14877.
 
 Filed for its distinctions, not its training advice. Its recommendation to
 prefer RL over expert-trajectory SFT on compositional tool use is ML
-practice and belongs to the anthology (ADR-048); hence the flag.
+practice and belongs to the anthology ([ADR-048](../decisions.d/ADR-048.md)); hence the flag.

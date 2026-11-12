@@ -19,7 +19,7 @@ first_author: 'Errando'
 keywords: []
 implementations: []
 summary: >-
-  Errando (2026), DOI-10.1177/14648849261485538. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §5. It bears on QUESTION-441. In A's account, which is unverified until read, it analyses how editorial, algorithmic and regulatory systems jointly shape journalistic authority.
+  Errando (2026), DOI-10.1177/14648849261485538. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §5. It bears on [QUESTION-441](../questions.d/QUESTION-441.md). In A's account, which is unverified until read, it analyses how editorial, algorithmic and regulatory systems jointly shape journalistic authority.
 ---
 
 # LIT-tmpp619t: Epistemic governance in journalism: Editorial, algorithmic, and regulatory logics in a contested epistemic space
@@ -32,4 +32,4 @@ Aina Errando (2026). "Epistemic governance in journalism: Editorial, algorithmic
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. It bears on QUESTION-441.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A37 §5. It bears on [QUESTION-441](../questions.d/QUESTION-441.md).

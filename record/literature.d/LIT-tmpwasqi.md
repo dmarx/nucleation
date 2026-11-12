@@ -19,7 +19,7 @@ first_author: 'Forti'
 keywords: []
 implementations: []
 summary: >-
-  Forti et al. (2023), DOI-10.1016/j.beproc.2023.104907. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §8. It bears on CASE-tmp10ykm. In A's account, which is unverified until read, it reads host manipulation by parasites through niche construction theory, complicating gene-centred explanations.
+  Forti et al. (2023), DOI-10.1016/j.beproc.2023.104907. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md). In A's account, which is unverified until read, it reads host manipulation by parasites through niche construction theory, complicating gene-centred explanations.
 ---
 <!-- inactive-ok-file: CASE-tmp10ykm — Proposed; filed from the same exchange -->
 
@@ -33,4 +33,4 @@ Lucas Rodriguez Forti, Judit K. Szabo and Hilton F. Japyassú (2023). "Host mani
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §8. It bears on CASE-tmp10ykm.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md).

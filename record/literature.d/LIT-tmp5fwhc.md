@@ -19,7 +19,7 @@ first_author: 'Finn'
 keywords: []
 implementations: []
 summary: >-
-  Finn (2023), DOI-10.1093/jmp/jhad017. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §4. It bears on THEORY-448, QUESTION-035. In A's account, which is unverified until read, it distinguishes when a new organism begins from what relation of parthood, containment or overlap it has to the gestating organism.
+  Finn (2023), DOI-10.1093/jmp/jhad017. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §4. It bears on [THEORY-448](../theory.d/THEORY-448.md), [QUESTION-035](../questions.d/QUESTION-035.md). In A's account, which is unverified until read, it distinguishes when a new organism begins from what relation of parthood, containment or overlap it has to the gestating organism.
 ---
 <!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 
@@ -33,4 +33,4 @@ Suki Finn (2023). "The Mereotopology of Pregnancy." *The Journal of Medicine and
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. It bears on THEORY-448, QUESTION-035.
+Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. It bears on [THEORY-448](../theory.d/THEORY-448.md), [QUESTION-035](../questions.d/QUESTION-035.md).
