@@ -48,7 +48,7 @@ Gagan Bansal et al. (2021), CHI 2021. DOI 10.1145/3411764.3445717.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for explanations raised acceptance of AI recommendations whether or not they were correct. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for explanations raised acceptance of AI recommendations whether or not they were correct.
 
 ## Standing in the record
 

@@ -44,7 +44,7 @@ Bernal Jiménez Gutiérrez et al. (2024). arXiv 2405.14831.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for graph-indexed long-term memory for retrieval. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for graph-indexed long-term memory for retrieval.
 
 ## Standing in the record
 

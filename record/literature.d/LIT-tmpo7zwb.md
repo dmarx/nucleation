@@ -52,7 +52,7 @@ Giorgos Flouris et al. (2008), The Knowledge Engineering Review. DOI 10.1017/S02
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for processes for capturing changes, assessing their semantics, propagating consequences and validating the result. A's companion citation, "Stojanovic", names no work and is not filed. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for processes for capturing changes, assessing their semantics, propagating consequences and validating the result. A's companion citation, "Stojanovic", names no work and is not filed.
 
 ## Standing in the record
 

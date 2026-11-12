@@ -48,7 +48,7 @@ W3C (2013), W3C Recommendation, ed. Timothy Lebo, Satya Sahoo and Deborah McGuin
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for a standard that distinguishes the origin of a statement from its evidential support or current standing, and a natural interoperability reference. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for a standard that distinguishes the origin of a statement from its evidential support or current standing, and a natural interoperability reference.
 
 ## Standing in the record
 

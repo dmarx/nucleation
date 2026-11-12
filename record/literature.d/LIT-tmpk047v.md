@@ -49,7 +49,7 @@ Rebecca Jackson et al. (2021), Database. DOI 10.1093/database/baab069.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for community principles refined over time, operationalized into validation checks, and used to evaluate ontology maintenance; A ranks it among the works "essential to a credible novelty claim". Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for community principles refined over time, operationalized into validation checks, and used to evaluate ontology maintenance; A ranks it among the works "essential to a credible novelty claim".
 
 ## Standing in the record
 

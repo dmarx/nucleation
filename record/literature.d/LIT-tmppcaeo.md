@@ -52,7 +52,7 @@ Darren Edge et al. (2024). arXiv 2404.16130.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for knowledge graphs and summaries generated to answer questions about large corpora. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for knowledge graphs and summaries generated to answer questions about large corpora.
 
 ## Standing in the record
 

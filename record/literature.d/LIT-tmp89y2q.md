@@ -44,7 +44,7 @@ Herbert H. Clark and Susan E. Brennan (1991), in Perspectives on Socially Shared
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for collaboration requires establishing and updating what participants mutually understand; A's gloss is that a record "makes candidate common ground durable, but reading and acknowledgement remain necessary". Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for collaboration requires establishing and updating what participants mutually understand; A's gloss is that a record "makes candidate common ground durable, but reading and acknowledgement remain necessary".
 
 ## Standing in the record
 

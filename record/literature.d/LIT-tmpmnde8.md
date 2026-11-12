@@ -52,7 +52,7 @@ Garold Stasser and William Titus (1985), Journal of Personality and Social Psych
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for the hidden-profile paradigm: groups with overlapping but incomplete information discuss what they share and miss the solution only pooled information shows. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for the hidden-profile paradigm: groups with overlapping but incomplete information discuss what they share and miss the solution only pooled information shows.
 
 ## Standing in the record
 

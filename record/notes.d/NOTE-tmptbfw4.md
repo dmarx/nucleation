@@ -52,7 +52,7 @@ Theory as a set of laws with scope and evidence; backtesting; predictive precisi
 
 ## Bearing on the record
 
-The exchange (A14) reports about 13,700 source papers, about 2,900 theories and about 4,600 later papers, and says "literature grounding improved both historical consistency and prediction of later research results". **Accurate**, with one qualification. In the accuracy-focused condition the precision gain is small (0.88 vs 0.90). The large gains are in the novelty-focused condition and in recall. Its line 706 framing, "Assess theories with predictions against withheld or subsequently published results", is a fair statement of the paper's evaluation design.
+The exchange (A14) reports about 13,700 source papers, about 2,900 theories and about 4,600 later papers, and says "literature grounding improved both historical consistency and prediction of later research results". **Accurate**, with one qualification. In the accuracy-focused condition the precision gain is small (0.88 vs 0.90). The large gains are in the novelty-focused condition and in recall. Its framing, "Assess theories with predictions against withheld or subsequently published results", is a fair statement of the paper's evaluation design.
 
 The LIT names no codes, and no entry filed from the exchange cites [LIT-2297](../literature.d/LIT-2297.md). The content curation left A14's survey to the works' readings.
 - **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) / [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)**: no direct bearing.

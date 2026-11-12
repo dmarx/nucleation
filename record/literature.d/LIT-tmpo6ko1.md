@@ -58,7 +58,7 @@ Leslie A. DeChurch and Jessica R. Mesmer-Magnus (2010), Group Dynamics. DOI 10.1
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for a synthesis of 23 studies finding that how mental-model structure is measured matters for its relation to team process. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for a synthesis of 23 studies finding that how mental-model structure is measured matters for its relation to team process.
 
 ## Standing in the record
 

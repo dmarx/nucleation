@@ -49,7 +49,7 @@ Michal Orzechowski et al. (2026). arXiv 2610.37809.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for ontology-based checkers of agent workflows that flag correct answers while missing important errors, A's reason not to score schema changes with one LLM judge. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for ontology-based checkers of agent workflows that flag correct answers while missing important errors, A's reason not to score schema changes with one LLM judge.
 
 ## Standing in the record
 

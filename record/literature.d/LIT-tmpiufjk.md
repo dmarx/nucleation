@@ -50,7 +50,7 @@ Joon Sung Park et al. (2023). arXiv 2304.03442.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for agent memory with retrieval and reflection; A sets "remembering information" against "maintaining an accountable body of claims". Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for agent memory with retrieval and reflection; A sets "remembering information" against "maintaining an accountable body of claims".
 
 ## Standing in the record
 

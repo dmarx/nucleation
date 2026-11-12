@@ -51,7 +51,7 @@ Mohamad Yaser Jaradeh et al. (2019), K-CAP 2019. DOI 10.1145/3360901.3364435.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for structured representations of research contributions compared across publications; A distinguishes a record of an evolving inquiry from a representation of published contributions. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for structured representations of research contributions compared across publications; A distinguishes a record of an evolving inquiry from a representation of published contributions.
 
 ## Standing in the record
 

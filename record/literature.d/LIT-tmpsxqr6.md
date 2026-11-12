@@ -48,7 +48,7 @@ Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024). arXiv 2409.04109.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for a controlled study with over 100 NLP researchers in which LLM-generated research proposals were rated more novel than human ones, somewhat less feasible, with weak LLM self-evaluation and little idea diversity. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for a controlled study with over 100 NLP researchers in which LLM-generated research proposals were rated more novel than human ones, somewhat less feasible, with weak LLM self-evaluation and little idea diversity.
 
 ## Standing in the record
 

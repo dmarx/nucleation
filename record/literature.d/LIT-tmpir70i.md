@@ -45,7 +45,7 @@ Munindar P. Singh (1999), Artificial Intelligence and Law. DOI 10.1023/A:1008319
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for socially recognized commitments, with debtor, creditor, conditions and discharge, distinct from private intentions; A warns against equating a record's Active status with such a commitment. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for socially recognized commitments, with debtor, creditor, conditions and discharge, distinct from private intentions; A warns against equating a record's Active status with such a commitment.
 
 ## Standing in the record
 

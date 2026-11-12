@@ -48,7 +48,7 @@ Carlos Chesñevar et al. (2006), The Knowledge Engineering Review. DOI 10.1017/S
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for explicit premises, conclusions, support, attack and argument schemes, "a particularly close match to Nucleation's ARG and CLAIM relations". Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for explicit premises, conclusions, support, attack and argument schemes, "a particularly close match to Nucleation's ARG and CLAIM relations".
 
 ## Standing in the record
 

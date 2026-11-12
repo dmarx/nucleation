@@ -46,7 +46,7 @@ Alireza Salemi et al. (2025). arXiv 2510.01285.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for a recent evaluation of blackboard coordination among language-model agents. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for a recent evaluation of blackboard coordination among language-model agents.
 
 ## Standing in the record
 

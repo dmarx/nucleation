@@ -48,7 +48,7 @@ Tania Tudorache et al. (2013), Semantic Web 4(1). DOI 10.3233/sw-2012-0057.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for collaborative ontology editing with change history and discussion. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for collaborative ontology editing with change history and discussion.
 
 ## Standing in the record
 

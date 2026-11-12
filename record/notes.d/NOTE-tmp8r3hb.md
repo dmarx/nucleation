@@ -46,7 +46,7 @@ Data-driven hypothesis; verification procedure; context, variables, relationship
 
 ## Bearing on the record
 
-The exchange (A14's chart, decoded exchange lines 650–652): "ICLR 2025 · best reported system on its 264 real-data tasks" at 25%. Accurate for arXiv v1 (the 25% figure is the best overall, as the abstract says; whether it is per DB-REAL only is not stated so precisely in v1). A later turn (decoded) notes only that AstaBench includes DiscoveryBench among its tasks.
+The exchange (A14's chart): "ICLR 2025 · best reported system on its 264 real-data tasks" at 25%. Accurate for arXiv v1 (the 25% figure is the best overall, as the abstract says; whether it is per DB-REAL only is not stated so precisely in v1). A later turn (decoded) notes only that AstaBench includes DiscoveryBench among its tasks.
 
 The LIT names no code. On recheck:
 

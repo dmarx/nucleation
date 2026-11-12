@@ -56,7 +56,7 @@ Markus Herrmannsdoerfer et al. (2009), ECOOP 2009, LNCS. DOI 10.1007/978-3-642-0
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for changes to a metamodel paired with migrations of its existing instances; A calls it "the strongest technical competitor". A named the tool, Edapt. The paper introduces COPE, which couples each metamodel change to a migration of existing models with a replayable history; it does not name Edapt, into which COPE later developed according to sources outside the paper, and does not claim to introduce coupled evolution. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for changes to a metamodel paired with migrations of its existing instances; A calls it "the strongest technical competitor". A named the tool, Edapt. The paper introduces COPE, which couples each metamodel change to a migration of existing models with a replayable history; it does not name Edapt, into which COPE later developed according to sources outside the paper, and does not claim to introduce coupled evolution.
 
 ## Standing in the record
 

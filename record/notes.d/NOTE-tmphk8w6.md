@@ -60,7 +60,7 @@ Data integrity vs analysis verification vs hypothesis generation; clean controls
 
 ## Bearing on the record
 
-The exchange (A14's table, decoded exchange line 636; also decoded lines 837 and 888, in later turns) says DISCERN tested "Evidence integrity, analysis verification and hypothesis revision under adversarial review" and that "Only 0.6% of the most demanding hypothesis-level evaluations received perfect scores, versus 60.8% at the basic data-integrity level", calling it "a stringent benchmark-specific result". Accurate. Its later gloss, "agents performed much better on simpler data-integrity checks than on difficult hypothesis-generation and revision tasks", is fair as to perfect-score rates, though mean L1 and L3 scores are closer than the perfect-score rates suggest (Astra 86.1 L1, 72.8 L3). The LIT says only that it was cited, which is correct.
+The exchange (A14's table, and in later turns) says DISCERN tested "Evidence integrity, analysis verification and hypothesis revision under adversarial review" and that "Only 0.6% of the most demanding hypothesis-level evaluations received perfect scores, versus 60.8% at the basic data-integrity level", calling it "a stringent benchmark-specific result". Accurate. Its later gloss, "agents performed much better on simpler data-integrity checks than on difficult hypothesis-generation and revision tasks", is fair as to perfect-score rates, though mean L1 and L3 scores are closer than the perfect-score rates suggest (Astra 86.1 L1, 72.8 L3). The LIT says only that it was cited, which is correct.
 
 The LIT names no code. Entries it bears on, found on recheck:
 

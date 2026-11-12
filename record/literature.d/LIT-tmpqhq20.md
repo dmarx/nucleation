@@ -45,7 +45,7 @@ Wujiang Xu et al. (2025). arXiv 2502.12110.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for Zettelkasten-inspired connected memories that update existing notes as new information arrives. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for Zettelkasten-inspired connected memories that update existing notes as new information arrives.
 
 ## Standing in the record
 

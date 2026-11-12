@@ -53,7 +53,7 @@ Ilia Shumailov et al. (2024), Nature. DOI 10.1038/s41586-024-07566-y.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for compounding errors when generations train on predecessors' outputs; A treats it as a caution, testable in a record as loss of source diversity, derivative claims cited as independent evidence, and narrowing categories, and says it does not show a record will collapse. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for compounding errors when generations train on predecessors' outputs; A treats it as a caution, testable in a record as loss of source diversity, derivative claims cited as independent evidence, and narrowing categories, and says it does not show a record will collapse.
 
 ## Standing in the record
 

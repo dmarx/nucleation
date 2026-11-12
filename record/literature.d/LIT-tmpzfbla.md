@@ -51,7 +51,7 @@ Song et al. (2022), Knowledge Organization 49(4). DOI 10.5771/0943-7444-2022-4-2
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for argument units and relations modelled across scientific articles, with knowledge-evolution uses, which "substantially narrows what could honestly be claimed as novel about Luria's graph structure". Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for argument units and relations modelled across scientific articles, with knowledge-evolution uses, which "substantially narrows what could honestly be claimed as novel about Luria's graph structure".
 
 ## Standing in the record
 

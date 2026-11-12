@@ -53,7 +53,7 @@ Riccardo Patriarca et al. (2022), Safety Science. DOI 10.1016/j.ssci.2021.105566
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for failures that arise from control structure, feedback and constraints among locally functioning components. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for failures that arise from control structure, feedback and constraints among locally functioning components.
 
 ## Standing in the record
 

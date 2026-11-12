@@ -54,7 +54,7 @@ Margaret M. Polski and Elinor Ostrom, in Elinor Ostrom and the Bloomington Schoo
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for the Institutional Analysis and Development framework's operational, collective-choice and constitutional levels of rules, which A maps onto changes to entries, to schemas and procedures, and to the authority over those. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for the Institutional Analysis and Development framework's operational, collective-choice and constitutional levels of rules, which A maps onto changes to entries, to schemas and procedures, and to the authority over those.
 
 ## Standing in the record
 

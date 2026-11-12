@@ -47,7 +47,7 @@ Arianna Falbo (2022), Hypatia. DOI 10.1017/hyp.2022.4.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for a shared interpretive failure can come from an existing but distorting concept, not only from a missing one; A applies it to a schema that systematically misclassifies contributions. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for a shared interpretive failure can come from an existing but distorting concept, not only from a missing one; A applies it to a schema that systematically misclassifies contributions.
 
 ## Standing in the record
 

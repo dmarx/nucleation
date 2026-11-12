@@ -46,7 +46,7 @@ Rong He (2026). arXiv 2610.14662.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for no detectable target-specific repair advantage across 145 modifications in public Darwin Gödel Machine logs, and target repair not implying held-out improvement. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for no detectable target-specific repair advantage across 145 modifications in public Darwin Gödel Machine logs, and target repair not implying held-out improvement.
 
 ## Standing in the record
 

@@ -53,7 +53,7 @@ Hasib et al. (2026), Patterns. DOI 10.1016/j.patter.2026.101660.
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for a review finding that retrieval and idea generation have progressed faster than executable testing and evidence-driven revision. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for a review finding that retrieval and idea generation have progressed faster than executable testing and evidence-driven revision.
 
 ## Standing in the record
 

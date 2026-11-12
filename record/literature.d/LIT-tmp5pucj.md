@@ -56,7 +56,7 @@ Tim Clark, Paolo Ciccarese and Carole Goble (2014), Journal of Biomedical Semant
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* A cites it for "probably the closest conceptual predecessor" of the record: claims, provenance, evidence, interpretation and challenges represented as scientific arguments. Unverified until read.
+*Seeded from the exchange; read on 2026-11-12, below.* A cites it for "probably the closest conceptual predecessor" of the record: claims, provenance, evidence, interpretation and challenges represented as scientific arguments.
 
 ## Standing in the record
 
