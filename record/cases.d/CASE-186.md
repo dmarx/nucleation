@@ -249,7 +249,7 @@ owner's smoke detector: a detector that still detects fires while its
 self-test has silently failed, "**Being operational now** and
 **maintaining the means of knowing whether one remains operational**".
 A10 §4 ran a two-failure version with three repair architectures
-(CASE-tmpl4kyp). It is far smaller than this design: no hidden regime,
+([CASE-tmpl4kyp](CASE-tmpl4kyp.md)). It is far smaller than this design: no hidden regime,
 no lesions of admission or scoring, no fuel budget, repairs
 instantaneous. Its one contrast, mutual maintenance against an outside
 service, is matched by the choice of rates and separated by withdrawing

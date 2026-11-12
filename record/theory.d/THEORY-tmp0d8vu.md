@@ -35,7 +35,7 @@ bears_on:
 
 # THEORY-tmp0d8vu: Kolchinsky and Wolpert define a system's semantic information as the part of its syntactic information about its environment that is causally necessary for it to keep existing, found by scrambling the environment until viability falls, with the viability function chosen by the analyst
 
-Kolchinsky and Wolpert (2018), LIT-1149, read in full in NOTE-1370.
+Kolchinsky and Wolpert (2018), [LIT-1149](../literature.d/LIT-1149.md), read in full in [NOTE-1370](../notes.d/NOTE-1370.md).
 
 ## The account
 
@@ -47,7 +47,7 @@ correlations between the system and its environment, while "maintaining
 existence" is defined in terms of the system's ability to keep itself in a
 low entropy state."
 
-As NOTE-1370 sets it out: the system X and environment Y are split and
+As [NOTE-1370](../notes.d/NOTE-1370.md) sets it out: the system X and environment Y are split and
 fixed over [0, τ]; viability is the negative Shannon entropy of X at τ;
 interventions coarse-grain the environment as the system sees it. Stored
 semantic information is the mutual information left under the most
@@ -62,18 +62,18 @@ in which about 1.37 of 2.32 bits are semantic.
   re-emphasize that, in our framework, the viability function is
   exogenously determined by the scientist analyzing the system, rather
   than being a purely endogenous characteristic of the system." So are the
-  system–environment split, τ and the initial distribution (NOTE-1370's
+  system–environment split, τ and the initial distribution ([NOTE-1370](../notes.d/NOTE-1370.md)'s
   claim C3, "weak"). The meaning it finds is meaning relative to the
   analyst's choice of what counts as staying in existence.
 - **That low entropy is staying the same system.** The paper concedes that
-  negative entropy does not track identity (NOTE-1370, Bearing on the
-  record, on CLAIM-152).
+  negative entropy does not track identity ([NOTE-1370](../notes.d/NOTE-1370.md), Bearing on the
+  record, on [CLAIM-152](../claims.d/CLAIM-152.md)).
 - **That agency is found by maximizing it.** §VI proposes this and does
   not try it.
 
 ## Bearing
 
-On QUESTION-285, it is a criterion for the rung of use that needs no
+On [QUESTION-285](../questions.d/QUESTION-285.md), it is a criterion for the rung of use that needs no
 investigator in the system, but needs one in the definition. A3 of the
 exchange "Meaning Transmission Explained" relayed it as showing that
 "which of those correlations actually matter" can be found by

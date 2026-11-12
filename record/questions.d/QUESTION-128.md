@@ -132,8 +132,8 @@ derivation." The relational form of the judgments at every rung is
 
 <!-- inactive-ok-block: CASE-tmpv6i22 CASE-tmpaky45 CLAIM-tmpkr3ti — filed from the same exchange, Proposed -->
 <!-- inactive-ok-block: THEORY-220 THEORY-628 THEORY-217 — Proposed; readings cited with their standing -->
-The owner's smoke detector (CASE-tmpv6i22) and debugging test
-(CASE-tmpaky45), from the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), are the
+The owner's smoke detector ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) and debugging test
+([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)), from the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), are the
 plainest cases on the record of a norm of function and failure that is
 not the system's own. A4 §3: the false alarm raises "whether that norm
 belongs intrinsically to the system or is supplied by the humans who
@@ -143,12 +143,12 @@ question in this question's terms: "whether the expected-response profile
 itself must originate in an intentional designer, or whether it can
 emerge from the system's own history of adaptation, self-maintenance, or
 learning." None of the four cites this question. Of the readings it
-names, Bickhard's (THEORY-220) is the one that answers A5 §5 directly: a
+names, Bickhard's ([THEORY-220](../theory.d/THEORY-220.md)) is the one that answers A5 §5 directly: a
 self-maintaining system that selects its next interaction anticipates
 its success, and the anticipation can be false by the system's own
 lights, so the expected profile is the system's. The detector has no
-viability of its own, so on Bickhard's, Di Paolo's (THEORY-628) and
-Barandiaran's (THEORY-217) accounts its norm is borrowed. The owner's
+viability of its own, so on Bickhard's, Di Paolo's ([THEORY-628](../theory.d/THEORY-628.md)) and
+Barandiaran's ([THEORY-217](../theory.d/THEORY-217.md)) accounts its norm is borrowed. The owner's
 claim that the debugger's silence means the mechanism is broken
-(CLAIM-tmpkr3ti) is true against the designer's profile and says
+([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)) is true against the designer's profile and says
 nothing on this question. The question stays Open.

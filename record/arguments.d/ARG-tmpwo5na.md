@@ -17,14 +17,14 @@ date: '2026-11-12'
 line:
 - record-as-apparatus
 summary: >-
-  The inference from the owner's debugging case (CASE-tmpaky45, U3 of
+  The inference from the owner's debugging case ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md), U3 of
   the exchange "Meaning Transmission Explained", 2026-11-07) to the
-  owner's claim (CLAIM-tmpkr3ti) that an absence under an intervention
+  owner's claim ([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)) that an absence under an intervention
   with an expected profile means the mechanism under test is broken.
   Proposed. It holds for the claim as narrowed, the test's own path
-  counted in the mechanism, because CASE-152 shows one silence does not
+  counted in the mechanism, because [CASE-152](../cases.d/CASE-152.md) shows one silence does not
   say which part failed; and it holds only where the silence is likelier
-  under a fault than without one, which CLAIM-414 supplies for
+  under a fault than without one, which [CLAIM-414](../claims.d/CLAIM-414.md) supplies for
   mechanisms matched in ordinary operation. The inference is the
   filer's; adopting it is the owner's call.
 ---
@@ -35,23 +35,23 @@ summary: >-
 
 ## The inference
 
-1. CASE-tmpaky45: a debugger puts test smoke to a detector whose expected
+1. [CASE-tmpaky45](../cases.d/CASE-tmpaky45.md): a debugger puts test smoke to a detector whose expected
    response is an alarm, and there is no alarm.
-2. CLAIM-414 (demonstrated, Active): systems that agree under ordinary
+2. [CLAIM-414](../claims.d/CLAIM-414.md) (demonstrated, Active): systems that agree under ordinary
    operation can differ under a specified intervention, which exposes
    what passive observation does not. A working and a broken detector
    are such a pair: both are silent in clean air, and only the working
    one sounds under the test.
 3. So the silence under the test is evidence that the tested arrangement
    is the broken member of the pair, and in clean air it is not.
-4. CASE-152: a missing response does not say whether nothing was
+4. [CASE-152](../cases.d/CASE-152.md): a missing response does not say whether nothing was
    attempted or nothing was taken up. So "the mechanism" in the
    conclusion must include the test's path (the injector, the smoke
    reaching the sensor), not only the detector.
 5. Generalized: under any intervention with an expected response profile,
    where the absence is likelier with the mechanism out of profile than
    in it, the absence means, in the evidential sense, that the mechanism
-   under test is broken (CLAIM-tmpkr3ti).
+   under test is broken ([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)).
 
 ## Critical questions
 
@@ -60,20 +60,20 @@ summary: >-
   is the textbook case of a functional test. The conclusion's condition,
   that the absence is likelier under a fault, is what makes it typical.
   Where the test is unreliable, the absence still bears on the mechanism,
-  by its likelihood ratio (49 at A's 2% error rate, CASE-tmpl4kyp), but
+  by its likelihood ratio (49 at A's 2% error rate, [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)), but
   "means" in the factive sense holds only of the cases in which the
   mechanism is in fact out of profile.
 - **Are there counterexamples?** One kind is excluded by step 4: the
-  test's own failure (the injector, in CASE-tmpl4kyp's chain) makes the
+  test's own failure (the injector, in [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)'s chain) makes the
   silence true of the arrangement and not of the detector. Another is a
-  test that breaks what it tests (A8 §6; CASE-202's control). There the
+  test that breaks what it tests (A8 §6; [CASE-202](../cases.d/CASE-202.md)'s control). There the
   mechanism is broken after the test, and the silence means what the
   claim says; how it came to be broken is a different question. The
   third is an absence no apparatus registers. Then there is no
-  distinction for the meaning to be carried by, which CLAIM-tmpz1xb5
+  distinction for the meaning to be carried by, which [CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md)
   states as a condition.
 - **Is the sample large enough?** One stipulated case carries the
-  semantic reading. The formal part rests on CLAIM-414, which is
+  semantic reading. The formal part rests on [CLAIM-414](../claims.d/CLAIM-414.md), which is
   demonstrated, and needs no sample.
 - **Is "means" used in one sense throughout?** It has to be. In the
   evidential sense the conclusion follows. If "means" is read as a
@@ -82,7 +82,7 @@ summary: >-
 
 ## What it does not show
 
-That the expected profile could be the system's own (QUESTION-128), or
+That the expected profile could be the system's own ([QUESTION-128](../questions.d/QUESTION-128.md)), or
 that the evidential sense of "mean" is all U1's question asked for.
 Grice's non-natural meaning needs an utterer's intention, which a
 debugging test does not supply.

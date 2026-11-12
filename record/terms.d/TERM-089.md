@@ -139,9 +139,9 @@ A3 §1 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/sha
 foundation of the record's account of meaning with no sentient party,
 accurately: "None requires consciousness. The repository explicitly says
 so." The body says "No consciousness is presupposed". A4 §1 finds three
-of the four functions in the owner's smoke detector (CASE-tmpv6i22). A10
+of the four functions in the owner's smoke detector ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)). A10
 §6 applies the term to a non-event: "The absence becomes an observable
 distinction because the apparatus organizes it as one." That is filed as
-CLAIM-tmpz1xb5, which uses this term. Its defeater names the objection
+[CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md), which uses this term. Its defeater names the objection
 that it only restates differentiation and retention. No change to the
 definition.

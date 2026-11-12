@@ -152,7 +152,7 @@ dmarx/PerspectiveLab@11c1495 and passed.
 A10 §4 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07) finds in its toy that
 "When both internal diagnostic channels are destroyed, the mutually
 maintained architecture fails. Two mutually repairing components do not
-establish unlimited recursive correctability" (CASE-tmpl4kyp). That is
+establish unlimited recursive correctability" ([CASE-tmpl4kyp](CASE-tmpl4kyp.md)). That is
 this case's executed finding, that reciprocal production repairs the
 loss of one rule and not of both. A does not cite this case. Nothing
 changes.

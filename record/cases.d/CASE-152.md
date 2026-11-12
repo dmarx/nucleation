@@ -95,10 +95,10 @@ already says ("What it cannot show").
 In the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), A8 §3 maps this case onto a
 silent alarm under test: "Did the test smoke reach the sensor? Did the
 sensor detect it? Did its relay fail?" A5 §1 had drawn the same limit on
-the owner's debugging case (CASE-tmpaky45): the silence "establishes a
+the owner's debugging case ([CASE-tmpaky45](CASE-tmpaky45.md)): the silence "establishes a
 violation of the expected response profile, not necessarily a broken
 detector." A10 §1 works it out in a four-component chain
-(CASE-tmpl4kyp). The injector test detects any single fault and locates
+([CASE-tmpl4kyp](CASE-tmpl4kyp.md)). The injector test detects any single fault and locates
 none, and only all four probes together separate the five states
 (rechecked). A's description of this case, Y ∼ N(ab, 1) with (0, 1) and
 (1, 0) giving the same distribution, is accurate.

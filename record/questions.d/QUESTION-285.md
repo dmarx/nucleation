@@ -238,9 +238,9 @@ The question is unchanged and stays Open.
 The owner asked, at U1 of the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), for the
 record's "account of how meaning can be transmitted independent of any
 sentient emitter or receiver". That is this question's scope, and A's
-relay at A3 never cites it. A3 assembles TERM-089, the Kolchinsky and
-Wolpert reading (NOTE-1370, now THEORY-tmp0d8vu), CLAIM-050 and
-TERM-034, THEORY-1276 and CLAIM-525, and Grice, the unheard tree and
+relay at A3 never cites it. A3 assembles [TERM-089](../terms.d/TERM-089.md), the Kolchinsky and
+Wolpert reading ([NOTE-1370](../notes.d/NOTE-1370.md), now [THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)), [CLAIM-050](../claims.d/CLAIM-050.md) and
+[TERM-034](../terms.d/TERM-034.md), [THEORY-1276](../theory.d/THEORY-1276.md) and [CLAIM-525](../claims.d/CLAIM-525.md), and Grice, the unheard tree and
 the unread message. Its descriptions of them are accurate. It leaves out
 two limits the record states: Kolchinsky and Wolpert's viability function
 is "exogenously determined by the scientist analyzing the system", and
@@ -249,15 +249,15 @@ nothing as a failure to inform.
 
 <!-- inactive-ok-block: CASE-tmpv6i22 CASE-tmpaky45 CLAIM-tmpkr3ti CLAIM-tmpz1xb5 CASE-tmpl4kyp — filed from the same exchange, Proposed -->
 The owner's two cases put the question's rungs to work. In the smoke
-detector that sets off sprinklers (CASE-tmpv6i22) a difference is
+detector that sets off sprinklers ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) a difference is
 differentiated, kept and enforced with no one present: the rung of use,
-reached by design. The debugger's test (CASE-tmpaky45) adds what the
+reached by design. The debugger's test ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)) adds what the
 rungs did not have, a meaning carried by an absence: under an
 intervention with an expected profile, silence means the mechanism is
-broken (CLAIM-tmpkr3ti, the owner's). A10 §6 adds the condition, that an
+broken ([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md), the owner's). A10 §6 adds the condition, that an
 absence registers only for an apparatus that opens an interval, keeps
-the expectation and times out (CLAIM-tmpz1xb5, A's). A non-sentient
-tester can be that apparatus. A's construction (CASE-tmpl4kyp) carries
+the expectation and times out ([CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md), A's). A non-sentient
+tester can be that apparatus. A's construction ([CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)) carries
 the detector into the record's probe and maintenance studies, and its
 out-of-model relay restates this question's distinction between
 rejecting a hypothesis and finding the family inadequate.
@@ -268,4 +268,4 @@ between its actual and counterfactually expected behavior—and when, if
 ever, do those distinctions constitute meaning for the system rather than
 merely meaning attributed by an external investigator?" Its first half is
 this question's top rung and second clause; its second half is
-QUESTION-128's. No new question is filed. The question stays Open.
+[QUESTION-128](QUESTION-128.md)'s. No new question is filed. The question stays Open.

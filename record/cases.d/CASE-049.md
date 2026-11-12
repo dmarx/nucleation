@@ -46,10 +46,10 @@ receiver, and takes away only the actual one.
 
 <!-- inactive-ok-block: CASE-tmpv6i22 — filed from the same exchange, Proposed -->
 The owner's smoke detector that sets off sprinklers in an empty building
-(CASE-tmpv6i22; U2 of the exchange "Meaning Transmission Explained", https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07, with A4 §4's
+([CASE-tmpv6i22](CASE-tmpv6i22.md); U2 of the exchange "Meaning Transmission Explained", https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07, with A4 §4's
 abandoned building) is filed as a variant of this case. The fire, like
 the fall, is sent by no one and heard by no one. What changes is that an
-apparatus in TERM-089's sense makes the difference consequential, so the
-case has the rungs of QUESTION-285 above the interaction that this one
-lacks. The storage variant (CASE-043) adds a sender; this one adds a
+apparatus in [TERM-089](../terms.d/TERM-089.md)'s sense makes the difference consequential, so the
+case has the rungs of [QUESTION-285](../questions.d/QUESTION-285.md) above the interaction that this one
+lacks. The storage variant ([CASE-043](CASE-043.md)) adds a sender; this one adds a
 receiver that is not sentient.

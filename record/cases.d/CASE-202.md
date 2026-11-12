@@ -134,4 +134,4 @@ conditions but is damaged by an unusually aggressive diagnostic test.
 ... The debugger discovers a failure, but the intervention caused it."
 A8 proposes this case's control for it, comparing "fresh, reset copies
 against systems subjected to repeated tests". Folded into the owner's
-debugging case (CASE-tmpaky45). Nothing changes.
+debugging case ([CASE-tmpaky45](CASE-tmpaky45.md)). Nothing changes.

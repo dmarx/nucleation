@@ -22,8 +22,8 @@ summary: >-
   to probe this. consider for example a smoke or fire detector that
   triggers an automated mitigation like deploying sprinklers". It probes
   the record's account of meaning with no sentient emitter or receiver.
-  It varies the unheard tree (CASE-049) in one respect: the fire, like the
-  fall, is sent by no one, but an apparatus in TERM-089's sense now
+  It varies the unheard tree ([CASE-049](CASE-049.md)) in one respect: the fire, like the
+  fall, is sent by no one, but an apparatus in [TERM-089](../terms.d/TERM-089.md)'s sense now
   makes the difference consequential. A4's variants are A's and are
   marked: the same alarm wired to a light or to nothing, a false alarm
   from steam, and the abandoned building. Proposed. The variants'
@@ -87,9 +87,9 @@ fire, and whether anyone is present.
 That the record's operational sense of meaning applies with no sentient
 party at either end. The detector differentiates, its state is retained
 for as long as the valve needs it, and the valve enforces it: three of
-TERM-089's four functions, with no observer presupposed. That is the rung
-of QUESTION-285 A19 called use: "the record changes what the system does
-next". The unheard tree (CASE-049) has no apparatus and so no rung above
+[TERM-089](../terms.d/TERM-089.md)'s four functions, with no observer presupposed. That is the rung
+of [QUESTION-285](../questions.d/QUESTION-285.md) A19 called use: "the record changes what the system does
+next". The unheard tree ([CASE-049](CASE-049.md)) has no apparatus and so no rung above
 the interaction. That is the respect this case changes.
 
 What it cannot show, being stipulated and designed:
@@ -97,26 +97,26 @@ What it cannot show, being stipulated and designed:
 - **That the norm is the system's own.** What counts as a false alarm is
   fixed by the designer's purpose, which is A4's own caveat. Whether
   norms of function and failure can come from an organization's own
-  dynamics is QUESTION-128's question. The readings the record holds on it
-  are THEORY-220 (Bickhard: functions relative to a self-maintaining
+  dynamics is [QUESTION-128](../questions.d/QUESTION-128.md)'s question. The readings the record holds on it
+  are [THEORY-220](../theory.d/THEORY-220.md) (Bickhard: functions relative to a self-maintaining
   system, with indications that can be false "by its own lights"),
-  THEORY-628 (Di Paolo: a graded norm needs adaptivity) and THEORY-217
+  [THEORY-628](../theory.d/THEORY-628.md) (Di Paolo: a graded norm needs adaptivity) and [THEORY-217](../theory.d/THEORY-217.md)
   (Barandiaran: malfunction against a normative field). The detector has
   no viability of its own, so on all three the norm is borrowed.
 - **Which sense of "mean" is in play.** Grice's natural meaning is
-  factive: "x means that p entails p" (NOTE-735; THEORY-444). In that
+  factive: "x means that p entails p" ([NOTE-735](../notes.d/NOTE-735.md); [THEORY-444](../theory.d/THEORY-444.md)). In that
   sense the steam alarm does not mean there is a fire, and A4's "a false
   alarm is still an alarm" holds of the alarm state, not of the fire.
   The sense in which a false alarm still "means fire" is a designed,
   non-factive one, nearer Grice's bus bell, whose timeless meaning
-  THEORY-444 grants is awkward for the analysis.
+  [THEORY-444](../theory.d/THEORY-444.md) grants is awkward for the analysis.
 - **That downstream wiring fixes meaning.** A4's System A and B show that
   what the alarm does depends on what receives it. That is the record's
-  receiver-relativity in another medium: TERM-034 makes fidelity
+  receiver-relativity in another medium: [TERM-034](../terms.d/TERM-034.md) makes fidelity
   relative to an interpreter, and in Bencherki and Iliadis's reading of
-  Simondon (LIT-1922, as QUESTION-285's note of 2026-10-31 quotes it;
-  THEORY-1276) "The difference that is made is the signification". The
+  Simondon ([LIT-1922](../literature.d/LIT-1922.md), as [QUESTION-285](../questions.d/QUESTION-285.md)'s note of 2026-10-31 quotes it;
+  [THEORY-1276](../theory.d/THEORY-1276.md)) "The difference that is made is the signification". The
   case is an instance of both, not further evidence for either.
 
-The owner's next case, the debugger's test (CASE-tmpaky45), varies this
+The owner's next case, the debugger's test ([CASE-tmpaky45](CASE-tmpaky45.md)), varies this
 one.

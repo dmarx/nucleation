@@ -277,8 +277,8 @@ A8 §4 and A10 §3 of the exchange "Meaning Transmission Explained" (https://cha
 claim to the owner's smoke detector. In one arrangement the silent test
 is scored independently and starts a repair. In the other the evaluator
 suppresses the contradicting result: the mismatch is "Physically
-observable" and is not used (CASE-tmpl4kyp, step 3, stated rather than
+observable" and is not used ([CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md), step 3, stated rather than
 computed). A8's line that "Nucleation distinguishes the availability of
 evidence from whether governing processes grant that evidence practical
-influence" is CLAIM-349's separation of access, authority and action,
+influence" is [CLAIM-349](CLAIM-349.md)'s separation of access, authority and action,
 which A does not cite. Nothing changes.

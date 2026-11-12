@@ -234,7 +234,7 @@ adaptation, self-maintenance, or learning." This account is the record's
 reading of the second option. A system that selects its next interaction
 anticipates its success, and the anticipation can be false by its own
 lights. Its failure is then the system's counterpart of the owner's
-debugger finding an alarm silent under test (CASE-tmpaky45;
-CLAIM-tmpkr3ti), with the expected response set by the system and not a
-designer. A does not cite it. It bears on QUESTION-128 as well, which
+debugger finding an alarm silent under test ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md);
+[CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)), with the expected response set by the system and not a
+designer. A does not cite it. It bears on [QUESTION-128](../questions.d/QUESTION-128.md) as well, which
 names it among its candidate readings, and the relation is now written.

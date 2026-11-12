@@ -53,7 +53,7 @@ summary: >-
 
 The owner, at U3 of the exchange "Meaning Transmission Explained"
 (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7), on the
-smoke detector of CASE-tmpv6i22: "consider someone debugging a
+smoke detector of [CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md): "consider someone debugging a
 malfunctioning system. if the alarm doesn't trigger when presented with
 appropriate conditions (i.e. the debugger interrogates the system by
 inserting an intervention with a particular expected response profile)
@@ -74,8 +74,8 @@ Three parts, and whose each is:
    particular expected response profile".
 2. **The absence means the mechanism is broken** (the owner's, with
    "*means*" stressed). The sense is evidential: what Grice called natural
-   meaning, as in his "Those spots mean (meant) measles" (LIT-1042,
-   read in NOTE-735; THEORY-444).
+   meaning, as in his "Those spots mean (meant) measles" ([LIT-1042](../literature.d/LIT-1042.md),
+   read in [NOTE-735](../notes.d/NOTE-735.md); [THEORY-444](../theory.d/THEORY-444.md)).
    Natural meaning is factive, so the claim is true of a case only where
    the mechanism under test is in fact out of profile. That is why the
    test's own path has to count as part of the mechanism: a failed
@@ -87,24 +87,24 @@ Three parts, and whose each is:
    silence can be evidence of a malfunction." A10 §2 puts a number on it.
    Under its assumed 2% readout error the silent test favours a fault by
    a likelihood ratio of 49, and the silence in clean air by 1
-   (recomputed in CASE-tmpl4kyp).
+   (recomputed in [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)).
 
 ## What the record already holds, and what this adds
 
-- **The formal core is held and demonstrated.** CLAIM-414 and CLAIM-407:
+- **The formal core is held and demonstrated.** [CLAIM-414](CLAIM-414.md) and [CLAIM-407](CLAIM-407.md):
   systems that agree under ordinary operation can differ in their response
   to an intervention, which only the intervention exposes. A healthy and a
-  broken detector are such a pair (CASE-tmpaky45).
-- **That one silence does not localize the fault is held.** CASE-152: a
+  broken detector are such a pair ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)).
+- **That one silence does not localize the fault is held.** [CASE-152](../cases.d/CASE-152.md): a
   missing response does not say whether nothing was attempted or nothing
-  was taken up. A5 §1 draws the same limit, and CASE-tmpl4kyp shows that
+  was taken up. A5 §1 draws the same limit, and [CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md) shows that
   in A's four-component chain only all four probes together separate
   every single fault.
-- **Inquiry fixing what would count as an answer is held** (CLAIM-470).
+- **Inquiry fixing what would count as an answer is held** ([CLAIM-470](CLAIM-470.md)).
 - **New here** is the semantic reading. The record's line on meaning with
   no sentient party, which the owner asked A to relay at U1, locates
   meaning in what an organization does with a difference that reaches it
-  (TERM-089, CLAIM-525, QUESTION-285). This claim locates it in a
+  ([TERM-089](../terms.d/TERM-089.md), [CLAIM-525](CLAIM-525.md), [QUESTION-285](../questions.d/QUESTION-285.md)). This claim locates it in a
   difference that does not arrive, read against a response the
   intervention made expected. The meaning is in the relation among the
   intervention, the profile and the outcome, not in any signal (A5 §2:
@@ -114,13 +114,13 @@ Three parts, and whose each is:
 
 - That the debugger must be sentient. The owner's debugger is a person;
   A5 §3 replaces it with an automated tester. What such a tester needs in
-  order to register silence is CLAIM-tmpz1xb5.
+  order to register silence is [CLAIM-tmpz1xb5](CLAIM-tmpz1xb5.md).
 - That the expected profile is the system's own. Here it is the
   designer's, so the norm against which the absence is a failure is
-  borrowed (QUESTION-128). Bickhard's account (THEORY-220), in which a
+  borrowed ([QUESTION-128](../questions.d/QUESTION-128.md)). Bickhard's account ([THEORY-220](../theory.d/THEORY-220.md)), in which a
   self-maintaining system's own anticipations can be false "by its own
   lights", is the record's reading of how a system could hold its own
   profile.
 - Which component failed, or how often such a test is misread.
 
-The inference from the case to the claim is ARG-tmpwo5na.
+The inference from the case to the claim is [ARG-tmpwo5na](../arguments.d/ARG-tmpwo5na.md).

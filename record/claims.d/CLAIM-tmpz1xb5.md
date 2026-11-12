@@ -29,15 +29,15 @@ bears_on:
 summary: >-
   A10 §6 of the exchange "Meaning Transmission Explained" (2026-11-07),
   with A5 §3's automated debugger, on the owner's debugging case
-  (CASE-tmpaky45) and claim (CLAIM-tmpkr3ti). A10: "**Silence is not
+  ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)) and claim ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)). A10: "**Silence is not
   literally an object transmitted from the broken detector to the
   debugger.**" Something "must establish an observation interval,
   maintain the expectation, and record the failure to respond before a
   deadline"; "The absence becomes an observable distinction because the
-  apparatus organizes it as one." In TERM-089's terms, a non-event is
+  apparatus organizes it as one." In [TERM-089](../terms.d/TERM-089.md)'s terms, a non-event is
   differentiated only by an apparatus that retains the test's start. The
   claim says what the owner's absence needs to carry meaning, and that
-  it needs no sentient party. CLAIM-312's deadline-bound search is the
+  it needs no sentient party. [CLAIM-312](CLAIM-312.md)'s deadline-bound search is the
   record's nearest held case. The wording is A's; adopting it is the
   owner's call.
 ---
@@ -64,7 +64,7 @@ apparatus."
 
 ## The argument
 
-TERM-089's apparatus "makes some physical differences produce distinct
+[TERM-089](../terms.d/TERM-089.md)'s apparatus "makes some physical differences produce distinct
 outcomes" (differentiation) and may keep them (retention). An occurrence
 can drive an outcome by itself: the alarm current opens a valve. A
 non-occurrence cannot, since nothing happens at any moment that could
@@ -82,23 +82,23 @@ sentient entity participates in that particular diagnostic event."
 ## Where it sits
 
 - **It conditions the owner's claim; it does not compete with it.**
-  CLAIM-tmpkr3ti says an absence under an intervention with an expected
+  [CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md) says an absence under an intervention with an expected
   profile means the mechanism is broken. This says what has to be there
   for the absence to be anything: the debugger, or a machine that does
   the debugger's holding and timing.
-- **CLAIM-312 is the held case nearest it.** A search that fails by the
+- **[CLAIM-312](CLAIM-312.md) is the held case nearest it.** A search that fails by the
   deadline "establishes unavailability outright"; absence needs a
   further certificate. The deadline does the same work here: what the
   timed-out test establishes is a failure to respond within τ, not that
   a response could never come.
-- **QUESTION-285's rungs.** The timer and the stored expectation are a
+- **[QUESTION-285](../questions.d/QUESTION-285.md)'s rungs.** The timer and the stored expectation are a
   record that something uses, so the claim places diagnosis by silence
   at the rung of use, with no conscious investigator.
 
 ## What it does not say
 
 - That the interval and the expectation must be designed. In A's tester
-  they are; whether a system could set its own is QUESTION-128's
+  they are; whether a system could set its own is [QUESTION-128](../questions.d/QUESTION-128.md)'s
   question, which A10 §6 leaves "unproved".
 - That every absence a person notices is registered this way in a brain.
   The claim is about what a non-sentient apparatus needs, and the
@@ -106,6 +106,6 @@ sentient entity participates in that particular diagnostic event."
 
 ## Admission
 
-Filed as a claim of A's with content of its own (ADR-072), not as the
+Filed as a claim of A's with content of its own ([ADR-072](../decisions.d/ADR-072.md)), not as the
 addition of a synthesis. The derivation above is short, and the
-defeater names the objection that it only restates TERM-089.
+defeater names the objection that it only restates [TERM-089](../terms.d/TERM-089.md).
