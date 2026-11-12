@@ -33,6 +33,7 @@ complements:
 - CLAIM-523
 - CLAIM-547
 ---
+<!-- inactive-ok-file: THEORY-tmpo4ghu THEORY-tmp3vb9p THEORY-tmpsj1yx — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-1915 — Unavailable; Letiche and Moriceau, cited from its abstract as a doubt in this claim's direction -->
 
 # CLAIM-075: Viability does not establish what ought to persist
@@ -103,3 +104,17 @@ control". The paper does not take up that warning, which points the
 same way as this claim.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-12: Lovett and Riedener, and Thompson, read
+
+Two readings of 2026-11-12 corroborate this claim for sense-3 wholes
+(TERM-074), on routes of their own. Lovett and Riedener (THEORY-tmpo4ghu,
+NOTE-tmp3ebkj): "organizations don’t themselves have an interest in their
+own continuation" (p. 230), so an organization's persistence carries no
+weight of its own. Thompson (THEORY-tmp3vb9p, NOTE-tmpdkxlk): "Groups are
+constructed and maintained by natural persons to serve their purposes"
+(p. 12), so a group's persistence must be justified by those purposes.
+Wardrope's reading of the Land Ethic (THEORY-tmpsj1yx) is a contrast, an
+ethic in which a community's integrity is itself a value, though not
+inferred from its viability. Filed as `corroborates` from the first two.
+No status change.

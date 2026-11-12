@@ -1,7 +1,19 @@
 ---
 status: Open
 title: 'What obligations, if any, does an organized whole have towards its own constituent parts, and on what ground: that they constitute it, that they contribute to it, that they are vulnerable to it, that it governs them, that it has undertaken commitments to them, or its history with them?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    The owner's correction of 2026-11-12, relayed during the reading pass:
+    "keep in mind, my use of 'organization' is more abstract than standin
+    for 'institution'. check the TERM." The body now says that "organized
+    whole" is TERM-074's sense 1, a relational arrangement, by default, and
+    states the question's prior part: whether, and in which sense of
+    obligation, a whole that is not an agent can bear obligations at all.
+    A dated note records the readings of 2026-11-12 and the TERM-074 sense
+    each is about. The title is unchanged.
 tags:
 - ethics
 - mereology
@@ -26,13 +38,17 @@ summary: >-
   of what the whole owes its parts. Refines [QUESTION-128](QUESTION-128.md), which asks what
   moral authority needs beyond an organization's own dynamics.
 ---
+<!-- inactive-ok-file: THEORY-tmpo4ghu THEORY-tmp3vb9p THEORY-tmpk4d9t THEORY-tmpsj1yx THEORY-tmprbzkv — Proposed, filed 2026-11-12; the readings this note places -->
+<!-- inactive-ok-file: ARG-tmpmc9mt — filed 2026-11-12, Rejected -->
+<!-- inactive-ok-file: LIT-tmpy5p2r LIT-tmpzmede — Unfetched; registered from the same exchange -->
+<!-- inactive-ok-file: NOTE-tmp4gf0a NOTE-tmpitkr7 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-104 QUESTION-007 — Deferred; the set-aside authenticity line, cited for the direction it named -->
 <!-- inactive-ok-file: SYNTHESIS-023 — Proposed; the authenticity line's account, cited for what it leaves open -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-511 CLAIM-624 TERM-083 — Proposed; cited as the record's nearest entries, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, Group Duties, cited by A12 -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, cited by A12 as registered and unread -->
-<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t LIT-tmp9kqwg LIT-tmpy5p2r LIT-tmpzmede LIT-tmpe74m4 LIT-tmpwqwv3 LIT-tmpmtbj6 LIT-tmp3korg — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t LIT-tmp9kqwg LIT-tmpy5p2r LIT-tmpzmede LIT-tmpmtbj6 — Deferred; filed from the same exchange, unread -->
 
 # QUESTION-tmp9bbpk: What obligations, if any, does an organized whole have towards its own constituent parts, and on what ground: that they constitute it, that they contribute to it, that they are vulnerable to it, that it governs them, that it has undertaken commitments to them, or its history with them?
 
@@ -48,6 +64,31 @@ after an hour on colonial theatre, dependency and exploitation:
 The question is the owner's. Its direction is what makes it distinct:
 not what members owe a collective, nor what a collective owes outsiders,
 but what a whole owes the parts it is made of.
+
+## Which sense of "organized whole"
+
+The owner, correcting the reading pass on 2026-11-12: "keep in mind, my
+use of 'organization' is more abstract than standin for 'institution'.
+check the TERM." The term is TERM-074. "Organized whole" here is its
+sense 1 by default: a relational arrangement of processes, components,
+roles or constraints, whose arrangement matters to some operation or
+outcome. A whole in that sense need not be an institution (sense 3) or an
+agent, and need not maintain itself (senses 2 and 4): an organism and its
+cells, an ecosystem and its populations, an arrangement of processes. Its
+parts need not be persons.
+
+The question therefore has a prior part: whether, and in which sense of
+obligation, a whole that is not an agent can bear obligations at all.
+A12's three senses (functional, constitutive and moral) are where it
+divides. A functional "obligation" of a non-agent whole, what it must
+maintain to go on functioning, is QUESTION-128's first half, norms of
+function and failure defined from an organization's own dynamics. A moral
+obligation needs a bearer that can owe; the record's only statement of the
+downward direction, CLAIM-104, is about "an encompassing agent", and
+TERM-083 defines standing on the side of the one owed, not the one who
+owes. No entry asks whether a whole that is not an agent can owe its
+parts anything in a sense beyond the functional, so that part stays here,
+inside the question, and is not filed apart.
 
 ## Why it is a question
 
@@ -165,3 +206,48 @@ Lovett and Riedener on what is owed to organizations ([LIT-tmpe74m4](../literatu
 Thompson on obligations across membership change ([LIT-tmp3korg](../literature.d/LIT-tmp3korg.md)) and
 Wardrope on the land ethic ([LIT-tmpmtbj6](../literature.d/LIT-tmpmtbj6.md)). Collins ([LIT-1426](../literature.d/LIT-1426.md),
 Unavailable) and Young ([LIT-2246](../literature.d/LIT-2246.md), Deferred) were already registered.
+
+## Note of 2026-11-12: Lovett and Riedener, Thompson, Fineman and Wardrope, read
+
+Readings of the reading pass of 2026-11-12, each placed by the TERM-074
+sense it is about. None answers the question in its default sense 1.
+
+- **Lovett and Riedener** (THEORY-tmpo4ghu, NOTE-tmp3ebkj): sense 3,
+  organizations as group agents with persons as members. They ask the
+  opposite direction, what is owed to organizations, and answer that
+  organizations have no moral status ("they themselves can make no claims
+  on us at all", p. 223), so what seems owed to them is owed to members.
+  For sense-3 wholes that gives a members'-side ground, members' interest
+  in willing participation in successful group agency, not a duty of the
+  whole to its parts. It does not transfer to sense 1.
+- **Thompson** (THEORY-tmp3vb9p, NOTE-tmpdkxlk): sense 3, states, tribes
+  and families as intergenerational group agents. Her §10 is a direct
+  ground A12 missed: such groups answer "to needs intrinsic to human
+  life", and members' children "acquire entitlements to its benefits",
+  resources, respect and protection (p. 18). The premise is persons'
+  needs, and the bearers are members through the group. It supports the
+  history and commitment grounds as well, for sense-3 wholes, and does not
+  transfer to sense 1, where the parts need not be persons with needs.
+- **Fineman** (THEORY-tmpk4d9t, NOTE-tmpnpbzl): sense 3, the state toward
+  persons. It supports the vulnerability, governance (constitution of
+  resource-conferring institutions) and contribution (benefit from care
+  work) grounds for that whole. It does not transfer to sense 1. On
+  CLAIM-tmpwn3wr, see ARG-tmpmc9mt.
+- **Wardrope 2019** (THEORY-tmpsj1yx, NOTE-tmpitkr7), the stand-in for
+  Wardrope 2020: the biotic community is closer to sense 1, a whole that is
+  not an agent, with members that need not be persons. It answers A12's
+  holism sub-question one way, community value "extending, not replacing,
+  values assigned to individuals". But the bearer of the obligation is the
+  members, as agents, not the whole: the Land Ethic asks "respect for his
+  [sic] fellow members, and also respect for the community as such." Nothing
+  is owed by the community to its parts.
+- **Van der Weele** (THEORY-tmprbzkv, NOTE-tmp4gf0a), the weak stand-in
+  for Kittay 1995: sense 3, carers and society; the dependency worker's
+  claim on the society that relies on the work.
+- **Not read**: Mellor (LIT-tmpy5p2r) and Pettit (LIT-tmpzmede) are
+  Unfetched; Kittay 1995 (LIT-tmp9kqwg) and Wardrope 2020 (LIT-tmpmtbj6)
+  are Unavailable.
+
+Each reading carries `bears_on` this question. The prior part, whether a
+whole that is not an agent can owe anything beyond the functional, is
+untouched by all of them. The question stays Open.

@@ -1,14 +1,16 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "About Plantation Paradise" (2026-11-12), A12, as a work A cited; left for a reading pass. No copy was sought in this filing.
+status: Active
 title: 'Groups as intergenerational agents: Responsibility through time and change'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A12). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives Janna Thompson, Journal of Social Philosophy 53(1), pp. 8–20, online 2022-02-27. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the works you can reach"), in NOTE-tmpdkxlk; account THEORY-tmp3vb9p. Copy: the published version (CC BY-NC-ND 4.0) in La Trobe University's figshare repository. Metadata confirmed from the PDF; no change. Status Active.
 tags:
 - ethics
 - social-ontology
@@ -22,8 +24,9 @@ keywords:
 - 'historical obligations'
 implementations: []
 summary: >-
-  Janna Thompson (2022). Groups as intergenerational agents: Responsibility through time and change. Journal of Social Philosophy 53(1), 8–20. DOI-10.1111/josp.12459. Unread here; cited by A in the exchange "About Plantation Paradise" (2026-11-12), A12. Bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) (history as a ground), on [CLAIM-518](../claims.d/CLAIM-518.md) (judgments of an organization's obligations can need histories) and on [QUESTION-118](../questions.d/QUESTION-118.md) (what makes a later collective the earlier one).
+  Janna Thompson (2022), Journal of Social Philosophy 53(1), 8–20, DOI-10.1111/josp.12459. Read on 2026-11-12 in NOTE-tmpdkxlk; account THEORY-tmp3vb9p. Intergenerational group obligations rest on the purposes temporally trustworthy group agents serve, not on diachronic identity; obligations persist and pass to successors; essentially intergenerational groups owe members' children entitlements grounded in needs intrinsic to human life. About collective institutions and agents (TERM-074 sense 3).
 ---
+<!-- inactive-ok-file: THEORY-tmp3vb9p — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # LIT-tmp3korg: Groups as intergenerational agents: Responsibility through time and change
 
@@ -31,7 +34,7 @@ Janna Thompson (2022). Groups as intergenerational agents: Responsibility throug
 
 ## Key takeaways
 
-*Not read; as A describes it.* A12 §6: states and corporations can bear obligations across changes of membership, and the question is why current members should bear burdens from earlier members' acts. A draws that a whole's obligations can outlast the arrangements that produced them. Unverified until read.
+Read in NOTE-tmpdkxlk. The natural person analogy fails for want of identity criteria; temporal trustworthiness is what intergenerational responsibility needs, and obligations persist and pass to successors. §10, which A12 missed: essentially intergenerational groups owe members' children entitlements to resources, respect and protection, grounded in needs intrinsic to human life.
 
 ## Standing in the record
 

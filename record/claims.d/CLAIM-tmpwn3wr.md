@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: 'If being vulnerable to another''s choices grounds special responsibilities in the one who controls them, then a whole that comes to supply what its constituents once supplied for themselves, and so to control conditions they can no longer secure on their own, incurs responsibilities toward them that grow as that integration deepens; what grounds them is the constituents'' vulnerability to the whole, not their functional importance to it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Declares its sense of "whole" under TERM-074, after the owner's
+    correction of 2026-11-12 that "organization" is more abstract than
+    "institution": the whole is a sense-1 arrangement, and the
+    supposition reaches only those wholes that can bear responsibility
+    and parts with standing. A dated note records Fineman's reading
+    and ARG-tmpmc9mt, which finds that it does not support the claim
+    as titled. The claim is unchanged and stays Proposed.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -41,10 +52,12 @@ summary: >-
   up a capability. A candidate answer to the owner's [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md),
   for one ground. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpk4d9t — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
+<!-- inactive-ok-file: ARG-tmpmc9mt — filed from the exchange "About Plantation Paradise" (2026-11-12), Rejected -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the premise this rests on, open -->
 <!-- inactive-ok-file: CLAIM-096 QUESTION-007 — Deferred; the authenticity line's reciprocal agency and its question, cited for the note that interdependence does not entail obligation -->
 <!-- inactive-ok-file: TERM-083 CLAIM-428 — Proposed; cited with their standing -->
-<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmp2vf7t LIT-tmpwqwv3 — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmp2vf7t — Deferred; filed from the same exchange, unread -->
 
 # CLAIM-tmpwn3wr: If being vulnerable to another's choices grounds special responsibilities in the one who controls them, then a whole that comes to supply what its constituents once supplied for themselves, and so to control conditions they can no longer secure on their own, incurs responsibilities toward them that grow as that integration deepens; what grounds them is the constituents' vulnerability to the whole, not their functional importance to it
 
@@ -71,6 +84,19 @@ preserve that particular part. And a part can be morally entitled to
 protection even when its contribution to the whole is negligible. Thus,
 **the measure of a constituent's functional importance cannot serve as
 the measure of its moral standing**."
+
+## Which sense of "whole"
+
+TERM-074. The integration the claim describes is sense 1: an arrangement
+that comes to supply what its parts once supplied, as in CLAIM-603's
+aphid and Buchnera or a state and its aid-dependent regions; it need not
+be an institution or maintain itself. The supposition, though, is about
+responsibility "in the one who controls" the choices, so the claim's
+consequent applies only to a whole that can bear responsibility, which in
+the cases its sources discuss is an agent, in practice a collective
+institution (sense 3), and only toward parts with standing (TERM-083).
+For a sense-1 whole that is not an agent, an organism toward its cells,
+the claim says nothing; that is the prior part of QUESTION-tmp9bbpk.
 
 ## Why it is filed as supposed
 
@@ -124,3 +150,24 @@ against it.
   their own ([TERM-083](../terms.d/TERM-083.md)) are candidates; A12 §5: "A human constituent can
   possess moral claims that a cell, enzyme, or organizational subprocess
   does not possess in the same sense."
+
+## Note of 2026-11-12: Fineman, read
+
+Fineman's "The Vulnerable Subject and the Responsive State"
+(THEORY-tmpk4d9t, read in NOTE-tmpnpbzl) is about one sense-3 whole, the
+state, toward persons. It does not support this claim as titled.
+Vulnerability on her account is universal and constant ("Vulnerability is
+posited as the characteristic that positions us in relation to each other
+as human beings and also suggests a relationship of responsibility between
+state and individual", p. 255); it is not produced by the whole's taking
+over its parts' functions, and the state's responsibility does not wait on
+integration. It follows the state's role in constituting the institutions
+that confer resilience ("To the extent that these legally constituted
+institutions distribute significant social goods, they should be
+monitored by the state", p. 272). That supports the governance clause A12
+§10 stated, not the growth with integration in the title. The judgement is
+ARG-tmpmc9mt, Rejected. Her derivative dependency, "neither inevitable, nor
+... universally experienced" (p. 264), is the nearest thing in her account
+to integration-made vulnerability. The claim's defeat conditions are not
+met: she grounds a special responsibility, in the state's constitutive
+role. No status change.

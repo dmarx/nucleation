@@ -1,0 +1,62 @@
+---
+status: Read
+paper: LIT-tmp3korg
+title: 'Thompson (2022) — Groups as intergenerational agents: Responsibility through time and change'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for, from a reader's draft the filer verified against the downloaded text. Copy: the published version (CC BY-NC-ND 4.0) in La Trobe University's figshare repository, https://ndownloader.figshare.com/files/35126905 (record DOI 10.26181/19770946), 13 pp., journal pages 8–20, text by pdftotext. Read: §§1–11 and notes 1–7; references scanned. The Wiley copy served a Cloudflare challenge and was not retried.
+date: '2026-11-12'
+summary: >-
+  Thompson defends the conventions that hold states and corporations to obligations across generations, not by the natural person analogy, which needs diachronic identity criteria that do not exist, but by the purposes such groups serve. A temporally trustworthy group agent can make lasting commitments and do justice for past wrongs, so members have reason to sustain it; what matters is the persistence of obligations, which can pass to successors. Essentially intergenerational groups (families, tribes, states) also meet needs intrinsic to human life, giving members' children entitlements to resources, respect and protection.
+---
+<!-- inactive-ok-file: LIT-1712 — Unavailable; cited as on the record -->
+<!-- inactive-ok-file: CLAIM-tmpwn3wr CLAIM-603 CLAIM-329 — Proposed; cited as on the record -->
+<!-- inactive-ok-file: CLAIM-104 — Deferred; cited as on the record -->
+<!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, cited as on the record -->
+<!-- inactive-ok-file: THEORY-139 — Proposed; cited as on the record -->
+
+# NOTE-tmpdkxlk: Thompson (2022) — Groups as intergenerational agents: Responsibility through time and change
+
+## Contribution
+
+A purpose-based justification of intergenerational group responsibility that sets aside the identity of the agent through time, with a new concept, temporal trustworthiness.
+
+## Key results
+
+1. Aim (§1, p. 9): to defend the conventional assumptions "by an appeal to the moral purposes that intergenerational agency serves".
+2. The identity problem (§3, p. 10): "there are no reliable criteria for determining whether an agent at one time is identical to an agent at a later time."
+3. Membership duties (§4, p. 11): "There is a fundamental tension between a moral philosophy that makes individuals responsible only for their own acts and the requirements of group agency."
+4. Groups need justification (§5, p. 12): "Groups are constructed and maintained by natural persons to serve their purposes". The town council that cannot bind its next meeting: "Its agency is temporally limited."
+5. Definition (§6, p. 13): "An intergenerational agent is a group whose temporal trustworthiness persists through generational changes of membership."
+6. Ground (§6, p. 14): "Since groups exist for the sake of natural persons, the answer must appeal to the interests of group members or those who are supposed to be served by the group."
+7. Identity set aside (§7, p. 16): "What matters is not sameness of identity over time and change, but the persistence of obligations".
+8. Shared obligation before the group (§8, p. 17): "the shared obligation of the users of the commons to bring into existence a group agent".
+9. Members' entitlements (§10, p. 18): essentially intergenerational agency "answers to needs intrinsic to human life"; "Through their birth or adoption into these group, the children of members acquire entitlements to its benefits" (sic), "resources, respect, and protection that are provided as a matter of course to members", and as adults acquire "the membership duty of ensuring that future members will also obtain their entitlements."
+10. Conclusion (§11, p. 19): "Intergenerational group agents serve important purposes, and if they did not exist, we would be obliged to construct them."
+
+## Assumptions
+
+- Some groups are moral agents (French; List and Pettit, THEORY-139; Goodin), p. 9.
+- Present people have duties to successors not yet born (n. 3, citing Meyer; the record holds Meyer's SEP entry, LIT-1756).
+- Individuals' concerns outlast their lives (§10, citing Scheffler, LIT-1712).
+- Collins's distinction between a group agent's duties and members' membership duties (§8; Collins's book is LIT-1426).
+
+## Concepts
+
+Natural person analogy; temporal trustworthiness; temporally limited agency; temporal scope; intergenerational and essentially intergenerational agents; membership duties; shared obligation to form a group agent; succession of obligations; reparation against welfare.
+
+## Bearing on the record
+
+- **QUESTION-tmp9bbpk**: about TERM-074's sense 3 (states, corporations, tribes and families as group agents with persons as members). For such wholes it supports two of A12's grounds and adds one A12 missed. History: a group's obligations persist through membership change and pass to successors (§7). Commitment: temporal trustworthiness is the capacity for binding commitments. And members' needs: an essentially intergenerational group owes its members' children entitlements to resources, respect and protection, grounded in "needs intrinsic to human life" (§10). That is a whole-to-member obligation, though its bearers are the members through the group, and its premise is persons' needs, not the group's dynamics. It does not transfer to sense 1, where the whole need not be an agent and the parts need not be persons with needs. Filed as `bears_on`, with a dated note on the question.
+- **CLAIM-518**: corroborated. German reparations, James Hardie's asbestos compensation after restructuring, and the Treaty of Waitangi are judgments of present obligation that turn on histories a present state does not show. Filed as `corroborates`.
+- **CLAIM-075**: corroborated. Groups, unlike persons, must be justified by the purposes they serve (p. 12), so persistence gives a group no standing. Filed as `corroborates`.
+- **QUESTION-118, CLAIM-329**: Thompson argues that for responsibility the identity question can be bypassed by a succession of agents that pass obligations on (pp. 16, 19). That does not answer QUESTION-118; it says normative persistence need not wait on its answer. Filed as `bears_on` QUESTION-118, with a dated note.
+- **A12's description** (obligations across membership change, and why present members should bear them) is accurate; it misses §10.
+- **CLAIM-tmpwn3wr, CLAIM-603, CLAIM-104**: not addressed.
+
+## Limitations
+
+A justification of conventions, not a derivation. Which group bears an obligation in contested successions is left open. The reply to the unfairness objection is brief (p. 15). §10's entitlements are asserted from needs, with little on what fixes their content.

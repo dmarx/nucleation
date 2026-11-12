@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "About Plantation Paradise" (2026-11-12), A12, as a work A cited; left for a reading pass. No copy was sought in this filing.
+  searched 2026-11-12 for a lawful full text. The publisher's open-access copy (CC BY, per Semantic Scholar) is at https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phpr.70031; it served a Cloudflare challenge (HTTP 403) on 2026-11-12 and was not retried. OpenAlex lists no repository copy. A neighbour, Mellor and Shea (2024), Philosophical Studies, DOI 10.1007/s11098-024-02222-7, has an author copy at philpapers.org/archive/MELWAW-3.pdf, not requested because philpapers.org served a challenge the same day; Springer's PDF served a client challenge. Not read; no NOTE.
 title: 'Doing your part: Joint obligation and individual-level transmission'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A12). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives Rowan Mellor, Philosophy and Phenomenological Research 111(2), pp. 386–406, online 2025-06-26. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Unfetched on 2026-11-12, at the reading pass the owner asked for: the publisher's open copy is located and its host served a Cloudflare challenge. Nothing was read; the characterization stays A's.
 tags:
 - ethics
 - social-ontology

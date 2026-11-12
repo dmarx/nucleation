@@ -93,7 +93,7 @@ summary: >-
   removed, that the diachronic relations add to CLAIM-363's relata, is
   CLAIM-608.
 ---
-<!-- inactive-ok-file: LIT-tmp3korg — Deferred; filed from the exchange of 2026-11-12, unread -->
+<!-- inactive-ok-file: THEORY-tmp3vb9p — Proposed, filed 2026-11-12 -->
 
 # CLAIM-518: Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment
 
@@ -210,3 +210,14 @@ disappeared". A12 §6, after Thompson ([LIT-tmp3korg](../literature.d/LIT-tmp3ko
 "organizational obligations can outlast the arrangements that originally
 generated them", and history is one of the grounds the owner's
 [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) asks about. No status changes.
+
+## Note of 2026-11-12: Thompson, read
+
+Thompson's "Groups as intergenerational agents" (THEORY-tmp3vb9p, read in
+NOTE-tmpdkxlk) corroborates this claim for sense-3 wholes (TERM-074).
+German reparations, James Hardie's asbestos compensation after its
+restructuring, and the Treaty of Waitangi are judgments of present
+obligation that turn on histories a present state does not show; "What
+matters is not sameness of identity over time and change, but the
+persistence of obligations" (p. 16). Filed as `corroborates`. No status
+change.
