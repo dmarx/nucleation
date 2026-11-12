@@ -33,7 +33,7 @@ summary: >-
   dissolution condition included. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmph9egz CLAIM-tmpkr3ti CLAIM-tmpqboxc — filed in this pull request, Proposed -->
+<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmpkr3ti — filed in this pull request, Proposed -->
 <!-- inactive-ok-file: THEORY-220 THEORY-628 THEORY-tmp0d8vu — Proposed; readings cited with their standing -->
 
 # CASE-tmpfobkh: A forager whose expected profile is set by its own upkeep against one whose profile is a designer's stored yield: they flag the same silent patch, and come apart when the yield falls but still pays and when the upkeep rises past an unchanged yield
@@ -67,7 +67,7 @@ Rerun on 2026-11-12 with exact fractions:
 
 - **S3 is the owner's debugging case, endogenous.** An interaction
   expected to answer gives nothing. Both profiles register the absence
-  as a failure (CASE-tmpaky45; CLAIM-tmpkr3ti).
+  as a failure ([CASE-tmpaky45](CASE-tmpaky45.md); [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)).
 - **S2: the designer's profile flags what is no failure by the forager's
   own lights.** A still pays. The designer's flag happens to send its
   forager to the richer patch, so the self-set profile is a norm of
@@ -82,7 +82,7 @@ Rerun on 2026-11-12 with exact fractions:
 That a profile set by a system's upkeep and one stored by a designer are
 different norms, telling apart cases that matter for the system's
 persistence (S4) and cases that do not (S2), while agreeing on the silent
-case (S3). That is the distinction Bickhard draws (THEORY-220): the
+case (S3). That is the distinction Bickhard draws ([THEORY-220](../theory.d/THEORY-220.md)): the
 anticipation of a self-maintaining system can be "false by its own
 lights", because what it anticipates is its own going on.
 
@@ -93,9 +93,9 @@ lights", because what it anticipates is its own going on.
   makes the self-set profile "own" is only that its failure condition is
   the same as the condition of the forager's persistence. The modeller
   wrote both, as Kolchinsky and Wolpert concede of their viability
-  function (THEORY-tmp0d8vu). A construction cannot remove this; a
+  function ([THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)). A construction cannot remove this; a
   physical self-maintaining system would.
 - **Learning or revision.** The self-set profile is fixed by the upkeep
   rule, and nothing here changes how the forager discriminates.
-- **Any graded norm.** Di Paolo's adaptivity (THEORY-628) would need the
+- **Any graded norm.** Di Paolo's adaptivity ([THEORY-628](../theory.d/THEORY-628.md)) would need the
   forager to sense a trend toward its boundary, not only a losing step.

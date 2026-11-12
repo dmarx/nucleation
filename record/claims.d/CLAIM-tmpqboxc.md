@@ -30,18 +30,18 @@ bears_on:
 - QUESTION-128
 summary: >-
   A reading across the filing of "Meaning Transmission Explained"
-  (2026-11-07). The owner's smoke detector (CASE-tmpv6i22) has a false
+  (2026-11-07). The owner's smoke detector ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) has a false
   alarm from steam, and A4 §3 asked whether the norm that makes it an
   error "belongs intrinsically to the system or is supplied by the humans
-  who designed and evaluate it." Grice's analysis (THEORY-444, read in
-  NOTE-735) answers part of that. Natural meaning is factive, and in
+  who designed and evaluate it." Grice's analysis ([THEORY-444](../theory.d/THEORY-444.md), read in
+  [NOTE-735](../notes.d/NOTE-735.md)) answers part of that. Natural meaning is factive, and in
   that sense the steam alarm means only that the detector crossed its
   threshold, which is true. That the alarm means fire is non-factive, and
   like Grice's red light it carries "some sort of reference to somebody's
   intentions". So an error needs the second meaning, and for a designed
   alarm that meaning, and with it the norm, is borrowed. It bears on
-  QUESTION-128 and leaves open whether a system can hold such a meaning
-  itself (CLAIM-tmph9egz). Proposed; the inference is ARG-tmpbyj2f. The
+  [QUESTION-128](../questions.d/QUESTION-128.md) and leaves open whether a system can hold such a meaning
+  itself ([CLAIM-tmph9egz](CLAIM-tmph9egz.md)). Proposed; the inference is [ARG-tmpbyj2f](../arguments.d/ARG-tmpbyj2f.md). The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -53,8 +53,8 @@ summary: >-
 ## The claim
 
 Grice's first test for natural meaning is that "x means that p entails p"
-(NOTE-735, pp. 377–378; THEORY-444). Applied to the owner's smoke detector
-(CASE-tmpv6i22):
+([NOTE-735](../notes.d/NOTE-735.md), pp. 377–378; [THEORY-444](../theory.d/THEORY-444.md)). Applied to the owner's smoke detector
+([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)):
 
 1. **Natural meaning.** The alarm's sounding means that the detector
    crossed its threshold. This entails its content, and no one means it.
@@ -67,31 +67,31 @@ Grice's first test for natural meaning is that "x means that p entails p"
    reduction of timeless meaning, the red light: "it would be very
    unnatural to say, 'Somebody (e.g., the Corporation) meantNN by the
    red-light change that the traffic was to stop.'" Still, "there seems
-   to be some sort of reference to somebody's intentions" (NOTE-735,
+   to be some sort of reference to somebody's intentions" ([NOTE-735](../notes.d/NOTE-735.md),
    p. 385).
 3. **Where the error is.** The steam alarm is in error only under
    meaning 2. Under meaning 1 it is true. So the norm by which it is a
    false alarm attaches to the non-factive meaning.
 4. **Whose the norm is.** In a designed alarm the intention meaning 2
    refers to is the designer's or the user's. The norm is therefore
-   borrowed, which is what A4 §3 suspected and QUESTION-128 asks about.
+   borrowed, which is what A4 §3 suspected and [QUESTION-128](../questions.d/QUESTION-128.md) asks about.
 
 A4 §3 said "**Meaningfulness is not the same as truthfulness.**" On this
 reading, that holds of meaning 2 only. Meaning 1 cannot be false.
 
 ## Where it sits
 
-- **It bears on QUESTION-128** by locating the borrowed norm: wherever a
+- **It bears on [QUESTION-128](../questions.d/QUESTION-128.md)** by locating the borrowed norm: wherever a
   false signal is an error, there is a non-factive meaning, and the
   question becomes whose that meaning is.
-- **It sharpens the owner's claim** (CLAIM-tmpkr3ti). The debugger's
+- **It sharpens the owner's claim** ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)). The debugger's
   "*means* the alarm mechanism is broken" is meaning 1, factive, about
   the mechanism. The sprinkler deploying for steam is an error of
   meaning 2.
 - **What it leaves open.** Whether a non-factive meaning, and with it a
   norm, can belong to a system that no one designed. Grice's analysis
-  does not say. Bickhard's account (THEORY-220) says it can, for a
-  self-maintaining system's anticipations; CLAIM-tmph9egz takes that up.
+  does not say. Bickhard's account ([THEORY-220](../theory.d/THEORY-220.md)) says it can, for a
+  self-maintaining system's anticipations; [CLAIM-tmph9egz](CLAIM-tmph9egz.md) takes that up.
   A teleosemantic account (Millikan's, unread here) would locate it in
   selection history. That reading is owed.
 

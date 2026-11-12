@@ -144,10 +144,10 @@ control ([CASE-202](CASE-202.md)) is not part of the run either.
 
 <!-- inactive-ok-block: CLAIM-632 CASE-210 — Proposed; the readiness claim and case, cited with their standing -->
 The chain's response to a fire, sensor and relay and actuator, is a
-conjunction of capacities in the readiness line's sense (CLAIM-587), and
+conjunction of capacities in the readiness line's sense ([CLAIM-587](../claims.d/CLAIM-587.md)), and
 per-component tests bound its readiness between the sum of their
-probabilities less two and the weakest of them (CLAIM-632; the note there
+probabilities less two and the weakest of them ([CLAIM-632](../claims.d/CLAIM-632.md); the note there
 works an example). The injector is a capacity of the test, not the
 response. The independent-smoke probe is the deadline-bound exercise
-that tests the whole conjunction. CASE-210's two departments are the
+that tests the whole conjunction. [CASE-210](CASE-210.md)'s two departments are the
 same pattern at the scale of an organization. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

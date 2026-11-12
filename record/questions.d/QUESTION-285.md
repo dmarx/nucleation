@@ -278,18 +278,18 @@ record's account of meaning with no sentient emitter or receiver, which
 the owner asked for at U1 of that exchange, has no single address. Its
 components sit in three lines, and each is already integrated by a part
 account of its own line:
-- SYNTHESIS-068 (CASE-049, CASE-043, CLAIM-160, CLAIM-171);
-- SYNTHESIS-064 (TERM-034, CLAIM-525);
-- SYNTHESIS-012 (TERM-089);
-- SYNTHESIS-050 (this question).
+- [SYNTHESIS-068](../syntheses.d/SYNTHESIS-068.md) ([CASE-049](../cases.d/CASE-049.md), [CASE-043](../cases.d/CASE-043.md), [CLAIM-160](../claims.d/CLAIM-160.md), [CLAIM-171](../claims.d/CLAIM-171.md));
+- [SYNTHESIS-064](../syntheses.d/SYNTHESIS-064.md) ([TERM-034](../terms.d/TERM-034.md), [CLAIM-525](../claims.d/CLAIM-525.md));
+- [SYNTHESIS-012](../syntheses.d/SYNTHESIS-012.md) ([TERM-089](../terms.d/TERM-089.md));
+- [SYNTHESIS-050](../syntheses.d/SYNTHESIS-050.md) (this question).
 
-ADR-083 and ADR-084 define a scope as "a line or a part of one" and allow
+[ADR-083](../decisions.d/ADR-083.md) and [ADR-084](../decisions.d/ADR-084.md) define a scope as "a line or a part of one" and allow
 one account per scope. So a SYNTHESIS for this topic cannot be filed
 under them as they stand, and none is filed. The proposal is an account
 whose scope is this question's components across the pragmatic-transport,
 record-as-apparatus and distributed-agency lines, adding nothing to
 them. It would need one of two rulings:
-- an amendment of ADR-083 admitting a scope defined by a question rather
+- an amendment of [ADR-083](../decisions.d/ADR-083.md) admitting a scope defined by a question rather
   than a line, with the guard that it never duplicates a part account's
   mapping; or
 - a decision to move this question's components into one line.

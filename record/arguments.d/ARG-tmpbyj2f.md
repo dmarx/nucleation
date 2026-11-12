@@ -15,9 +15,9 @@ line:
 - organizational-normativity
 - pragmatic-transport
 summary: >-
-  The inference from Grice's tests for natural meaning (THEORY-444, read
-  in NOTE-735) and the owner's smoke detector with its steam alarm
-  (CASE-tmpv6i22) to CLAIM-tmpqboxc. The tests apply to the alarm's
+  The inference from Grice's tests for natural meaning ([THEORY-444](../theory.d/THEORY-444.md), read
+  in [NOTE-735](../notes.d/NOTE-735.md)) and the owner's smoke detector with its steam alarm
+  ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md)) to [CLAIM-tmpqboxc](../claims.d/CLAIM-tmpqboxc.md). The tests apply to the alarm's
   sounding as to any sign. The factive meaning comes out true and the
   meaning "fire" fails the first test. The step that this meaning refers
   to a designer's intention rests on Grice's own remark about the red
@@ -32,9 +32,9 @@ summary: >-
 
 ## The inference
 
-1. THEORY-444 (NOTE-735, pp. 377–378): natural meaning is factive, "x
+1. [THEORY-444](../theory.d/THEORY-444.md) ([NOTE-735](../notes.d/NOTE-735.md), pp. 377–378): natural meaning is factive, "x
    means that p entails p", and no one means anything by it.
-2. CASE-tmpv6i22: steam sets the detector off, and the alarm sounds with
+2. [CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md): steam sets the detector off, and the alarm sounds with
    no fire.
 3. "The alarm means the detector crossed its threshold" entails its
    content, which is true. Natural meaning, and not in error.
@@ -42,9 +42,9 @@ summary: >-
    and is not natural meaning.
 5. The alarm is a false alarm only under 4. So its error is located in a
    non-factive meaning.
-6. Grice on the red light (NOTE-735, p. 385): such a sign carries "some
+6. Grice on the red light ([NOTE-735](../notes.d/NOTE-735.md), p. 385): such a sign carries "some
    sort of reference to somebody's intentions". In a designed alarm that
-   is the designer's. So the norm is borrowed (CLAIM-tmpqboxc).
+   is the designer's. So the norm is borrowed ([CLAIM-tmpqboxc](../claims.d/CLAIM-tmpqboxc.md)).
 
 ## Critical questions
 
@@ -57,9 +57,9 @@ summary: >-
   That is the weakest step, and the reason the ARG is Proposed.
 - **Are there exceptions?** A sign whose non-factive meaning belongs to
   the system itself, with no designer. Bickhard's self-maintaining system
-  (THEORY-220) would be one, and selection-based teleosemantics another.
+  ([THEORY-220](../theory.d/THEORY-220.md)) would be one, and selection-based teleosemantics another.
   Both are outside step 6's designed case, which is why the claim's last
-  clause is limited to designed alarms (CLAIM-tmph9egz takes up the
+  clause is limited to designed alarms ([CLAIM-tmph9egz](../claims.d/CLAIM-tmph9egz.md) takes up the
   other kind).
 
 ## What it does not show

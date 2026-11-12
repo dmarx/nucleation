@@ -36,16 +36,16 @@ summary: >-
   expected-response profile itself must originate in an intentional
   designer, or whether it can emerge from the system's own history of
   adaptation, self-maintenance, or learning." Bickhard's account
-  (THEORY-220, Proposed) is the record's reading of the second option. A
+  ([THEORY-220](../theory.d/THEORY-220.md), Proposed) is the record's reading of the second option. A
   self-maintaining system that selects an interaction anticipates that
   it will sustain it, and the anticipation can be false by its own
-  lights. That is the owner's debugger (CLAIM-tmpkr3ti) with the profile
-  set by the system's upkeep. CASE-tmpfobkh constructs both kinds of
+  lights. That is the owner's debugger ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)) with the profile
+  set by the system's upkeep. [CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md) constructs both kinds of
   profile: they agree on a silent patch and come apart when a falling
   yield still pays and when a rising upkeep outruns an unchanged yield.
   The construction is stipulated, so whether the self-set norm is more
   than a modeller's is the open point its defeater names. Proposed; the
-  inference is ARG-tmpcd9j9. The wording is the assistant's (Claude, in
+  inference is [ARG-tmpcd9j9](../arguments.d/ARG-tmpcd9j9.md). The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpkr3ti CASE-tmpfobkh ARG-tmpcd9j9 CLAIM-tmpqboxc CASE-tmpaky45 — filed in this pull request, Proposed -->
@@ -55,44 +55,44 @@ summary: >-
 
 ## The claim
 
-The owner's debugger (CASE-tmpaky45; CLAIM-tmpkr3ti) reads a silence
-against a profile the designer supplied. Bickhard's account (THEORY-220)
+The owner's debugger ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md); [CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)) reads a silence
+against a profile the designer supplied. Bickhard's account ([THEORY-220](../theory.d/THEORY-220.md))
 has the same structure inside a self-maintaining system:
 
 1. A far-from-equilibrium system that selects its next interaction by how
    it has differentiated its environment implicitly anticipates that the
    interaction will succeed, and "can find the predication false"
-   (THEORY-220).
+   ([THEORY-220](../theory.d/THEORY-220.md)).
 2. What it anticipates is fixed by what keeps it going. In
-   CASE-tmpfobkh's terms, the yield is at least the upkeep.
+   [CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md)'s terms, the yield is at least the upkeep.
 3. So the system holds an expected response profile that no designer
    wrote into it as a specification. A response that fails to come, or
    falls short, means by its own lights that the interaction failed. That
    is the owner's absence, read by the system that needs the response.
 4. That profile and a designer's diverge exactly where the system's
-   persistence and the designer's specification diverge. CASE-tmpfobkh
+   persistence and the designer's specification diverge. [CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md)
    gives one case each way: a flag where the system is not at risk (S2),
    and no flag where it dies (S4). On the silent patch (S3) they agree.
 
 ## Where it sits
 
 - **It answers A5 §5 on the record's own reading** and bears on
-  QUESTION-128: norms of function and failure defined from an
+  [QUESTION-128](../questions.d/QUESTION-128.md): norms of function and failure defined from an
   organization's own dynamics.
-- **It complements CLAIM-tmpqboxc.** That claim locates the false alarm's
+- **It complements [CLAIM-tmpqboxc](CLAIM-tmpqboxc.md).** That claim locates the false alarm's
   error in a non-factive meaning and, for a designed alarm, finds the
   norm the designer's. This claim offers the system's own anticipation
   as a non-factive meaning that no one designed.
-- **Di Paolo (THEORY-628) and Barandiaran (THEORY-217)** would ask more:
+- **Di Paolo ([THEORY-628](../theory.d/THEORY-628.md)) and Barandiaran ([THEORY-217](../theory.d/THEORY-217.md))** would ask more:
   a graded norm needs adaptivity, and malfunction is measured against a
   normative field. The construction meets neither. The claim needs only
   Bickhard's all-or-nothing anticipation.
 
 ## What it does not say
 
-- That any construction has a norm of its own. CASE-tmpfobkh's
+- That any construction has a norm of its own. [CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md)'s
   dissolution condition is written by its modeller, as Kolchinsky and
-  Wolpert concede of their viability function (THEORY-tmp0d8vu). The
+  Wolpert concede of their viability function ([THEORY-tmp0d8vu](../theory.d/THEORY-tmp0d8vu.md)). The
   claim is about self-maintaining systems. The construction shows only
   that the two kinds of profile are different norms, not that a
   simulated one is owned.
