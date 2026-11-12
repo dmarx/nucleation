@@ -110,7 +110,7 @@ biologically active 'microchiome' and an immunological 'extended self'") is
 individuality or selfhood in a wider sense; and the "purposefully retained"
 thesis rests mainly on one mouse study (ref. 14) with full MHC overlap.
 
-- **CLAIM-tmpn0ytb** (microchimerism bears on graded or processual
+- **[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)** (microchimerism bears on graded or processual
   individuality; separation is not completed at birth at the level of
   cells): **supports the premise, not the gradedness**. It documents
   bidirectional, decades-long persistence and an intervention showing
@@ -119,10 +119,10 @@ thesis rests mainly on one mouse study (ref. 14) with full MHC overlap.
   reconsideration of how we define immunological identity"). That is A11's
   "immunological boundary" coming apart from the genetic one, exactly; it
   says nothing about organismal individuality being graded. Consistent with
-  ARG-tmp51yxc's reading ("the premise, not the gradedness"). The instigators-not-beneficiaries
+  [ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)'s reading ("the premise, not the gradedness"). The instigators-not-beneficiaries
   line (result 5) is a function claim, in A11's third step (causal
   contribution to host function) for tolerance only.
-- **THEORY-443** (evolutionary and physiological individuality come apart):
+- **[THEORY-443](../theory.d/THEORY-443.md)** (evolutionary and physiological individuality come apart):
   **supports, as an instance**. Cells genetically of one lineage (the
   mother's) take part in the physiological (immune) regulation of another
   individual, and the authors' explanation is in evolutionary terms (the
@@ -131,33 +131,33 @@ thesis rests mainly on one mouse study (ref. 14) with full MHC overlap.
   not use the individuality literature.
 
 Other held entries it bears on (found on recheck):
-- **THEORY-tmp6t2l2** (on the branch, read): the later, finer result from
+- **[THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md)** (on the branch, read): the later, finer result from
   the same laboratory (Way, Cincinnati): only a LysM+CD11c+ subset sustains
   NIMA tolerance. Kinder et al. are the review context for it.
-- **THEORY-tmp4rc81** (Chua and colleagues' review, on the branch, read): a
+- **[THEORY-tmp4rc81](../theory.d/THEORY-tmp4rc81.md)** (Chua and colleagues' review, on the branch, read): a
   later review covering the same phenomena; Kinder's is the earlier source of
   the "microchiome" framing.
-- **CLAIM-508** (gene ancestry cannot tell partner from source) and
-  **CLAIM-tmpu69tn** (origin, governance and beneficiary of an influence are
+- **[CLAIM-508](../claims.d/CLAIM-508.md)** (gene ancestry cannot tell partner from source) and
+  **[CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md)** (origin, governance and beneficiary of an influence are
   separate questions): the maternal cell is of foreign origin, governed in the
   host's immune regulation, and benefits (on the authors' account) the
   maternal lineage, a case of the three coming apart.
-- **QUESTION-035** (boundary of a combined form): the immune boundary
+- **[QUESTION-035](../questions.d/QUESTION-035.md)** (boundary of a combined form): the immune boundary
   (what is tolerated) is extended by the cells; the genetic boundary is not.
-- Main's **CLAIM-165**, **CLAIM-172** and others use "extended self" in a
+- Main's **[CLAIM-165](../claims.d/CLAIM-165.md)**, **[CLAIM-172](../claims.d/CLAIM-172.md)** and others use "extended self" in a
   different (cognitive/agential) sense: a homonym the filer should not
   conflate.
 
-Searched origin/main `record/` for: microchimer* (only NOTE-100 on main),
+Searched origin/main `record/` for: microchimer* (only [NOTE-100](NOTE-100.md) on main),
 chimer* (LITs on unrelated chimeras), extended self (cognitive-extension
-claims: homonym), the DOI. On the branch: CLAIM-tmpn0ytb, CLAIM-tmpu69tn,
-THEORY-tmp6t2l2, THEORY-tmp4rc81 and LITs tmpc6o63, tmpjik3n, tmpokfxi,
+claims: homonym), the DOI. On the branch: [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md),
+[THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md), [THEORY-tmp4rc81](../theory.d/THEORY-tmp4rc81.md) and LITs tmpc6o63, tmpjik3n, tmpokfxi,
 tmpqn7ic (other microchimerism works from the same exchange, all different
 works). **Not already held** under another LIT.
 
 ## Limitations
 
-A 2017 review: later work (the branch's THEORY-tmp6t2l2, THEORY-tmp4rc81)
+A 2017 review: later work (the branch's [THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md), [THEORY-tmp4rc81](../theory.d/THEORY-tmp4rc81.md))
 refines it; adaptationist inference from conservation; the central fitness
 result is from inbred mice with full MHC overlap; human evidence is mostly
 correlational (partner-specific preeclampsia, transplant outcomes);

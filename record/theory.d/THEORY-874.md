@@ -137,6 +137,6 @@ theories of mind, and the account does not answer [QUESTION-254](../questions.d/
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
 checked by the filer: the paper is organicist-embodied in that map, against
 computational framings.

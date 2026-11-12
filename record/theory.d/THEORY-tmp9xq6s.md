@@ -15,8 +15,8 @@ promote_when: >-
   constitute evidence for an ontology where the biology underdetermines it.
 summary: >-
   Żuradzki (2026), Ethics-first metaphysics: normative considerations as
-  evidence for ontological commitments, read in NOTE-tmp88rw9 (Read). A
-  commentary on LIT-tmph5uj8. Żuradzki accepts Devanesan's thesis that no
+  evidence for ontological commitments, read in [NOTE-tmp88rw9](../notes.d/NOTE-tmp88rw9.md) (Read). A
+  commentary on [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md). Żuradzki accepts Devanesan's thesis that no
   ontology of pregnancy entails an ethical conclusion but that each
   constrains which analogies can support one, and argues that the relation
   is closer: where biological evidence underdetermines competing ontologies,
@@ -35,4 +35,4 @@ summary: >-
 
 ## Evidence
 
-The reading in NOTE-tmp88rw9; its key results are quoted there with locations.
+The reading in [NOTE-tmp88rw9](../notes.d/NOTE-tmp88rw9.md); its key results are quoted there with locations.

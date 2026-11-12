@@ -12,7 +12,7 @@ promote_when: >-
   objections to each justification and the conclusion that the requirement
   divides into a resilient core and a weaker rim.
 summary: >-
-  Eyal, read in NOTE-tmpzin27 (Read). A survey of informed consent in
+  Eyal, read in [NOTE-tmpzin27](../notes.d/NOTE-tmpzin27.md) (Read). A survey of informed consent in
   bioethics: why it is required, what it consists in, and its status. §2
   canvasses seven candidate justifications — protection (welfare), autonomy,
   prevention of abusive conduct, trust (forward- and backward-looking),
@@ -36,4 +36,4 @@ Eyal (2011/2025) surveys the justifications of informed consent — protection, 
 
 ## Evidence
 
-The reading in NOTE-tmpzin27; its key results are quoted there with locations.
+The reading in [NOTE-tmpzin27](../notes.d/NOTE-tmpzin27.md); its key results are quoted there with locations.

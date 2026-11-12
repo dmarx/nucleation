@@ -89,7 +89,7 @@ checked by the filer: context only; not read.
 
 ## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
 
-From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
 checked by the filer: **leaves open / weakly supports**. The paper shows the
 structural pre-condition (newsrooms moved away from communities, "distance
 decay", fewer original local stories) and a self-reinforcing direction, but

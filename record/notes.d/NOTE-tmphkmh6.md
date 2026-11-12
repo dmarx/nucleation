@@ -107,7 +107,7 @@ the gut's role is "causal, constitutive, or enabling", and that its second
 perspective (gut proto-cognition of its own) is broader than Hasler's
 partial-subject thesis (it concerns cognition, not experience).
 
-- **CLAIM-166** (microbiome can drive higher-level behaviour and
+- **[CLAIM-166](../claims.d/CLAIM-166.md)** (microbiome can drive higher-level behaviour and
   experience; human evidence modest): **qualifies; supports the framing, not
   the evidence**. It agrees the human microbiota–cognition evidence is
   inconclusive ("too early"), and suggests visceral perception as an
@@ -115,31 +115,31 @@ partial-subject thesis (it concerns cognition, not experience).
   affect, beside metabolites and the vagus. Its holobiont point (microbiota
   as both component and environment) bears on the claim's "membership is
   disputable".
-- **CASE-047** (gut microbes and the host's hunger and mood): **supports the
+- **[CASE-047](../cases.d/CASE-047.md)** (gut microbes and the host's hunger and mood): **supports the
   case's framing**. The "gut complex" names the intermediate level the case's
   2026-11-12 note adds; the paper's insistence that the four systems work
   together supports the case's "drive from below that is not a single part".
   It adds no data.
 
 Other held entries it bears on (found on recheck):
-- **QUESTION-033** ("who drives?" across levels): the paper's causal /
+- **[QUESTION-033](../questions.d/QUESTION-033.md)** ("who drives?" across levels): the paper's causal /
   constitutive / enabling distinction is a typology of answers the question
   asks for.
-- **THEORY-874** (organicist vs informationalist, cognitivist vs embodied):
+- **[THEORY-874](../theory.d/THEORY-874.md)** (organicist vs informationalist, cognitivist vs embodied):
   the paper is organicist-embodied in that map, against computational
   framings.
-- **THEORY-500** (Damasio's somatic markers) and **THEORY-045** (felt affect
+- **[THEORY-500](../theory.d/THEORY-500.md)** (Damasio's somatic markers) and **[THEORY-045](../theory.d/THEORY-045.md)** (felt affect
   as the body's regulatory state): the paper's "background gut feeling"
   draws on both.
-- **QUESTION-035** / **LIT-709** (holobiont membership): the microbiota as
+- **[QUESTION-035](../questions.d/QUESTION-035.md)** / **[LIT-709](../literature.d/LIT-709.md)** (holobiont membership): the microbiota as
   both part and environment.
-- **LIT-tmp4a5du** (Hasler, read in this batch): the same contributory /
+- **[LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)** (Hasler, read in this batch): the same contributory /
   own-locus split, Hasler for experience, Boem et al. for cognition.
 
-Searched origin/main `record/` for: basal / minimal cognition (THEORY-874),
+Searched origin/main `record/` for: basal / minimal cognition ([THEORY-874](../theory.d/THEORY-874.md)),
 proto-cognition and skin-brain (no hits), affordance (various claims, none on
-the gut), holobiont (CASE-024, CASE-047, CLAIM-166, LIT-709 and others),
-enactive (CLAIM-412, CLAIM-339), somatic marker (THEORY-500), the DOI and the
+the gut), holobiont ([CASE-024](../cases.d/CASE-024.md), [CASE-047](../cases.d/CASE-047.md), [CLAIM-166](../claims.d/CLAIM-166.md), [LIT-709](../literature.d/LIT-709.md) and others),
+enactive ([CLAIM-412](../claims.d/CLAIM-412.md), [CLAIM-339](../claims.d/CLAIM-339.md)), somatic marker ([THEORY-500](../theory.d/THEORY-500.md)), the DOI and the
 title. **Not already held** under another LIT.
 
 ## Limitations

@@ -16,7 +16,7 @@ promote_when: >-
   Maximality is dropped, or a critic shows a connection between the
   questions that does not run through Maximality.
 summary: >-
-  Finn, read in NOTE-tmpastp1 (Read). Finn separates two questions in the
+  Finn, read in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) (Read). Finn separates two questions in the
   Kingma / Smith–Brogaard debate on the metaphysics of pregnancy. The
   **Timing Question**: when does an organism of the relevant kind start to
   exist (During-Pregnancy models such as Smith and Brogaard's sixteen days;
@@ -31,4 +31,4 @@ Finn (2023) argues that when an organism of the gestating organism's kind begins
 
 ## Evidence
 
-The reading in NOTE-tmpastp1; its key results are quoted there with locations.
+The reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md); its key results are quoted there with locations.

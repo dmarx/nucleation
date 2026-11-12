@@ -13,7 +13,7 @@ promote_when: >-
   viewing with distinct correlates per cluster, or a longitudinal study
   shows the index tracks change in content consumed over time.
 summary: >-
-  de Roos and Willkomm, read in NOTE-tmpwj1ap (Read). A cross-sectional
+  de Roos and Willkomm, read in [NOTE-tmpwj1ap](../notes.d/NOTE-tmpwj1ap.md) (Read). A cross-sectional
   online survey of 228 men aged 18–35 (mostly students, recruited through a
   university participant pool and social media) asked about arousal to and
   viewing frequency of many pornography categories, and measured sexual
@@ -33,4 +33,4 @@ de Roos and Willkomm (2026) find, in a cross-sectional survey of 228 young men, 
 
 ## Evidence
 
-The reading in NOTE-tmpwj1ap; its key results are quoted there with locations.
+The reading in [NOTE-tmpwj1ap](../notes.d/NOTE-tmpwj1ap.md); its key results are quoted there with locations.

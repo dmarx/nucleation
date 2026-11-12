@@ -61,7 +61,7 @@ bears_on:
 <!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmp1p2zd LIT-tmp42smw LIT-tmp4a5du LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-560 — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
@@ -181,7 +181,7 @@ status change"; the reading supports keeping that.
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
 checked by the filer: **qualifies; supports the framing, not the evidence**.
 It agrees the human microbiota–cognition evidence is inconclusive ("too
 early"), and suggests visceral perception as an unstudied mediator: a route
@@ -191,7 +191,7 @@ environment) bears on the claim's "membership is disputable".
 
 ## Note of 2026-11-12: Almarzooqi et al., read
 
-From the reading in NOTE-tmpleweb (LIT-tmp42smw), the reader's assessment as
+From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
 checked by the filer: **supports the claim's grading as stated**. Routes
 (vagal, immune, HPA, metabolite) and rodent causal evidence (GF, FMT
 phenotype transfer, vagotomy-dependent probiotic effects) are reviewed as
@@ -207,13 +207,13 @@ hunger and mood. Other held entries it bears on (found on recheck):
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
 checked by the filer: **qualifies / adds a level, adds no evidence for the
 claim's empirical part**. Hasler places the ENS between the microbial
 collective and the person and frames its role as "valuation", signals that
 "bias the whole-organism decision without executing it": a route by which
 lower-level activity reaches hunger and affect, consistent with CLAIM-166's
-"reaches experience" via THEORY-045. It offers no new human evidence that a
+"reaches experience" via [THEORY-045](../theory.d/THEORY-045.md). It offers no new human evidence that a
 person's own microbiome changes hunger or affect, which is what the claim's
 defeat condition turns on. The paper is a perspective, not a review of
 microbiome effects.

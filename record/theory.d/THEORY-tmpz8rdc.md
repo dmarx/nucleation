@@ -15,7 +15,7 @@ promote_when: >-
   subgroup biases at the reported accuracy, or confirms the COMPAS subgroup
   findings with the same data.
 summary: >-
-  Boxer, McFowland and Neill, read in NOTE-tmp6nqkh (Read). Models can
+  Boxer, McFowland and Neill, read in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) (Read). Models can
   satisfy a group fairness criterion in aggregate for a protected class
   while being biased against a subgroup of it (e.g. Black women).
 ---
@@ -28,4 +28,4 @@ Boxer, McFowland and Neill (2026) show that a classifier can satisfy a group fai
 
 ## Evidence
 
-The reading in NOTE-tmp6nqkh; its key results are quoted there with locations.
+The reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md); its key results are quoted there with locations.

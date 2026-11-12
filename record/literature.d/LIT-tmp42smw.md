@@ -23,7 +23,7 @@ keywords: []
 implementations: []
 summary: >-
   Almarzooqi et al. (2026), DOI-10.1038/s41398-026-04305-x. Skimmed on
-  2026-11-12 in NOTE-tmpleweb: A narrative review of the
+  2026-11-12 in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md): A narrative review of the
   microbiota–gut–brain axis (MGBA) in psychiatry, organized around the move
   "from association to causality". It sets out a graded hierarchy of causal
   evidence (confounder-controlled association, temporal precedence,
@@ -31,7 +31,7 @@ summary: >-
   validation, cross-cohort replication), reviews mechanisms (immune, HPA,
   vagal/ENS, barrier), grades the evidence per disorder, and reviews
   translation (psychobiotics, diet, FMT, biomarkers). Its account is
-  THEORY-tmpbjhs5. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpbjhs5](../theory.d/THEORY-tmpbjhs5.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A15 §6.
 ---
 <!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
@@ -44,7 +44,7 @@ Sultan Almarzooqi, Lidya K. Yassin, Fatima Alnuaimi, Salma Alketbi, Jurga Skrabu
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpleweb). A synthesis organized by
+Skimmed on 2026-11-12 ([NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md)). A synthesis organized by
 causal-evidence grade rather than by taxon; explicit cautions on
 psychotropic confounding, compositional data, germ-free effect sizes and
 vagotomy's lack of specificity.
@@ -53,5 +53,5 @@ vagotomy's lack of specificity.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpleweb and its account
-THEORY-tmpbjhs5.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) and its account
+[THEORY-tmpbjhs5](../theory.d/THEORY-tmpbjhs5.md).

@@ -80,12 +80,12 @@ to identifying which organism's interests a regulatory change serves".
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
 checked by the filer: the paper's causal / constitutive / enabling
 distinction is a typology of answers the question asks for.
 
 ## Note of 2026-11-12: Almarzooqi et al., read
 
-From the reading in NOTE-tmpleweb (LIT-tmp42smw), the reader's assessment as
+From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
 checked by the filer: the review's "drivers, modifiers, or consequences" is
 a typology of answers for the microbiome level.

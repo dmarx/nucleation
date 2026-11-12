@@ -29,7 +29,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpmz271 CASE-tmpd5eqf CLAIM-tmpifp69 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpw11wj LIT-tmp1bfvb LIT-tmpk0xvf — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpw11wj LIT-tmpk0xvf — Deferred; registered from the same exchange, unread -->
 
 # ARG-tmp7eevo: The selection mechanism shown for loot-box economies transfers to news in its structure, demand read through an economic weight shapes supply, and does not transfer in what it weights or in what it predicts, since news is weighted by attention and an investigation's value is largely external and cannot be shown before it is found
 

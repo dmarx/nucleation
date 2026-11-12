@@ -17,7 +17,7 @@ promote_when: >-
   almost no loss of fit, are confirmed in the version of record or
   reproduced on a second data set.
 summary: >-
-  Freer and Nosratabadi, read in NOTE-tmpyt3ot (Read). An observer wants to
+  Freer and Nosratabadi, read in [NOTE-tmpyt3ot](../notes.d/NOTE-tmpyt3ot.md) (Read). An observer wants to
   recover a decision-maker's welfare from her choices under limited
   attention. The standard choice-under-limited-attention model (Masatlioglu
   et al. 2012, "generic CLA") recovers almost nothing.
@@ -31,4 +31,4 @@ Freer and Nosratabadi (2026) show that under the standard limited-attention mode
 
 ## Evidence
 
-The reading in NOTE-tmpyt3ot; its key results are quoted there with locations.
+The reading in [NOTE-tmpyt3ot](../notes.d/NOTE-tmpyt3ot.md); its key results are quoted there with locations.

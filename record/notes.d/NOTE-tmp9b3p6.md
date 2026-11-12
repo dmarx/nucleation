@@ -109,7 +109,7 @@ the paper favours is cost-driven replication across a consolidated owner (hub
 centralisation, Content Hub, AI rewriting), with pageview targets as one of
 three mechanisms, and the design "does not support strong causal attribution".
 
-- **CLAIM-tmpifp69** (attention-weighted demand selects against investigative
+- **[CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)** (attention-weighted demand selects against investigative
   journalism): **qualifies**. It documents the content-level outcome the
   claim predicts (loss of original local civic reporting, displacement by
   scalable non-local lifestyle content) and names metric regimes ("pageview
@@ -118,7 +118,7 @@ three mechanisms, and the design "does not support strong causal attribution".
   consolidation, which it treats as the principal logic; it is closer to A's
   own "strongest rival" (collapse of the older subsidy, with optimization as
   adaptation) than to a test between them. It does not measure investigations.
-- **CASE-tmpd5eqf** (the newsroom that reads low traffic on investigations it
+- **[CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)** (the newsroom that reads low traffic on investigations it
   no longer funds): **leaves open / weakly supports**. The paper shows the
   structural pre-condition (newsrooms moved away from communities, "distance
   decay", fewer original local stories) and a self-reinforcing direction, but
@@ -126,22 +126,22 @@ three mechanisms, and the design "does not support strong causal attribution".
   demand to further cuts.
 
 Other held entries it bears on (found on recheck):
-- **CLAIM-602** and **CLAIM-605** (capacity learned by doing and decaying with
+- **[CLAIM-602](../claims.d/CLAIM-602.md)** and **[CLAIM-605](../claims.d/CLAIM-605.md)** (capacity learned by doing and decaying with
   disuse; outside supply that does the work first lowers the capacity kept):
   centrally supplied duplicated content filling a shrinking edition while
   local origination halves is a field instance of the pattern; the paper does
   not measure capacity, only output.
-- **CLAIM-463** (restoring conditions need not restore capacity): the paper
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring conditions need not restore capacity): the paper
   bears only by its policy remark that funding indexed to outlet presence may
   miss hollowed titles; no hysteresis is shown.
-- **CLAIM-404** (governance through evidence and criteria): pageview targets
+- **[CLAIM-404](../claims.d/CLAIM-404.md)** (governance through evidence and criteria): pageview targets
   as criteria redirecting labour (§2.2) are an instance, theorised not measured.
 
 Searched `record/` on origin/main for: zombie, homogeni(s/z)ation, Reach plc,
 news desert, local news, crowding out, Napoli, Hollowing Out, the DOI and the
 OSF id. "zombie" hits are philosophical zombies (unrelated); "homogeni" hits
 are unrelated (cultural transmission, neuroscience). Found the related claims
-CLAIM-602, CLAIM-605, CLAIM-558, CLAIM-463 (capacity decay), not named by the
+[CLAIM-602](../claims.d/CLAIM-602.md), [CLAIM-605](../claims.d/CLAIM-605.md), [CLAIM-558](../claims.d/CLAIM-558.md), [CLAIM-463](../claims.d/CLAIM-463.md) (capacity decay), not named by the
 LIT. **Not already held**: no LIT on main or the branch carries this DOI, the
 OSF DOI, or the title.
 

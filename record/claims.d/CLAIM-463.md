@@ -169,12 +169,12 @@ rebuilding the activity directly; the paper says "may".
 
 ## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
 
-From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
 checked by the filer: the paper bears only by its policy remark that funding
 indexed to outlet presence may miss hollowed titles; no hysteresis is shown.
 
 ## Note of 2026-11-12: Radsch, read
 
-From the reading in NOTE-tmpylmyu (LIT-tmp5c2gi), the reader's assessment as
+From the reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) ([LIT-tmp5c2gi](../literature.d/LIT-tmp5c2gi.md)), the reader's assessment as
 checked by the filer: and the "lock-in" thesis (result 7): a policy-level
 assertion of path dependence, not a demonstration.

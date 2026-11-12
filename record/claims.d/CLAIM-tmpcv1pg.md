@@ -45,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CLAIM-tmphgjbz ARG-tmpshmi5 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpdak05 LIT-tmpccpc6 LIT-tmp9goww LIT-tmpf67mb LIT-tmp2hne0 LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpdak05 LIT-tmpccpc6 LIT-tmp9goww LIT-tmpf67mb LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpcv1pg: Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme
 
@@ -144,7 +144,7 @@ and not on its escalation half.
 
 ## Note of 2026-11-12: de Roos and Willkomm, read
 
-From the reading in NOTE-tmpwj1ap (LIT-tmp2hne0), the reader's assessment as
+From the reading in [NOTE-tmpwj1ap](../notes.d/NOTE-tmpwj1ap.md) ([LIT-tmp2hne0](../literature.d/LIT-tmp2hne0.md)), the reader's assessment as
 checked by the filer: **leaves the escalation step open; weakly qualifies
 it**. The paper does not measure heavy users, does not observe escalation
 over time, and finds escalation "low" and branching rather than a single

@@ -212,7 +212,7 @@ A9 §3 of the exchange (2026-11-06 to 07) cites this claim rightly: "Individuati
 
 ## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
 
-From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
-checked by the filer: - Main's **CLAIM-165**, **CLAIM-172** and others use
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
+checked by the filer: - Main's **[CLAIM-165](CLAIM-165.md)**, **CLAIM-172** and others use
 "extended self" in a different (cognitive/agential) sense: a homonym the
 filer should not conflate.

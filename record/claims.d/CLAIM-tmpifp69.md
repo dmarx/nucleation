@@ -42,10 +42,9 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdcebe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpifp69: The selection that lets economically weighted demand set a product's design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them
 
@@ -156,7 +155,7 @@ capability-displacement theme, not for the claim's selection mechanism.
 
 ## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
 
-From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
 checked by the filer: **qualifies**. It documents the content-level outcome
 the claim predicts (loss of original local civic reporting, displacement by
 scalable non-local lifestyle content) and names metric regimes ("pageview
@@ -168,7 +167,7 @@ adaptation) than to a test between them. It does not measure investigations.
 
 ## Note of 2026-11-12: Radsch, read
 
-From the reading in NOTE-tmpylmyu (LIT-tmp5c2gi), the reader's assessment as
+From the reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) ([LIT-tmp5c2gi](../literature.d/LIT-tmp5c2gi.md)), the reader's assessment as
 checked by the filer: **qualifies / adds a parallel mechanism**. Radsch's
 account of news economics runs through intermediary market power and
 referral dependence, not reader attention per se: what journalism is "worth"

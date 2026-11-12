@@ -58,10 +58,10 @@ Arjun Devanesan (2026). "A Mereological Analysis of Pregnancy—According to the
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md), [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpoeqhr. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpoeqhr](LIT-tmpoeqhr.md). The
 reader on how far it stands in: Two commentaries on Devanesan's companion
-paper (LIT-tmph5uj8), each read in full from the author's accepted
-manuscript: Dranseika (LIT-tmpoeqhr) and Żuradzki (LIT-tmpblasa). They
+paper ([LIT-tmph5uj8](LIT-tmph5uj8.md)), each read in full from the author's accepted
+manuscript: Dranseika ([LIT-tmpoeqhr](LIT-tmpoeqhr.md)) and Żuradzki ([LIT-tmpblasa](LIT-tmpblasa.md)). They
 restate the shared thesis, that a mereology of pregnancy constrains which
 analogies an ethical argument can use without fixing its conclusion, but not
 this paper's own argument from the immune system for an overlap view.

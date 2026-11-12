@@ -25,7 +25,7 @@ keywords: []
 implementations: []
 summary: >-
   Bisiani et al. (2026), DOI-10.1177/14648849261474910. Read on 2026-11-12
-  in NOTE-tmp9b3p6: A longitudinal content analysis of 27 Reach plc local
+  in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md): A longitudinal content analysis of 27 Reach plc local
   newspapers (seven regional hubs) sampled monthly in 2019, 2022 and 2025
   (55,332 articles), measuring Napoli et al.'s three dimensions of
   "journalistic performance": originality (no near-duplicate in the corpus,
@@ -36,7 +36,7 @@ summary: >-
   ("crowding out") by duplicated non-local content; an E-I index shows
   content sharing moving from hub-confined to group-wide, coinciding with
   Reach's 2024 Content Hub and AI rewriting tool "Guten". Its account is
-  THEORY-tmpulte1. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpulte1](../theory.d/THEORY-tmpulte1.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A33 §4.
 ---
 <!-- inactive-ok-file: THEORY-tmpulte1 — Proposed; filed from the same exchange -->
@@ -48,7 +48,7 @@ Simona Bisiani, Agnes Gulyas, Martin Moore and Bahareh Heravi (2026). "The hollo
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp9b3p6). First longitudinal content-level
+Read on 2026-11-12 ([NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md)). First longitudinal content-level
 evidence for the UK hub model; a crowding-out-versus-dilution decomposition;
 an organisational-boundary measure (E-I index) of where homogenisation is
 organised.
@@ -57,5 +57,5 @@ organised.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §4. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md), [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp9b3p6 and its account
-THEORY-tmpulte1.
+Read on 2026-11-12; the reading is [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) and its account
+[THEORY-tmpulte1](../theory.d/THEORY-tmpulte1.md).

@@ -26,9 +26,9 @@ keywords: []
 implementations: []
 summary: >-
   Boxer et al. (2026), Transactions on Machine Learning Research (01/2026).
-  Read on 2026-11-12 in NOTE-tmp6nqkh: Models can satisfy a group fairness
+  Read on 2026-11-12 in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md): Models can satisfy a group fairness
   criterion in aggregate for a protected class while being biased against a
-  subgroup of it (e.g. Black women). Its account is THEORY-tmpz8rdc.
+  subgroup of it (e.g. Black women). Its account is [THEORY-tmpz8rdc](../theory.d/THEORY-tmpz8rdc.md).
   Registered from the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11), where A cited it at A42 §1.
 ---
@@ -40,7 +40,7 @@ Kate S. Boxer, Edward McFowland III and Daniel B. Neill (2026). "Auditing Predic
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp6nqkh). A flexible, interpretable subgroup
+Read on 2026-11-12 ([NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md)). A flexible, interpretable subgroup
 auditor for separation and sufficiency criteria with a multiple-testing
 correction for the search itself.
 
@@ -48,5 +48,5 @@ correction for the search itself.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp6nqkh and its account
-THEORY-tmpz8rdc.
+Read on 2026-11-12; the reading is [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) and its account
+[THEORY-tmpz8rdc](../theory.d/THEORY-tmpz8rdc.md).

@@ -109,7 +109,7 @@ in humans unresolved") is **accurate**. A fuller statement: the review
 grades MDD as "moderate causal involvement" while holding that human
 mediation by the microbiome is unconfirmed.
 
-- **CLAIM-166** (the microbiome can drive higher-level behaviour and
+- **[CLAIM-166](../claims.d/CLAIM-166.md)** (the microbiome can drive higher-level behaviour and
   experience: routes exist, causal in rodents, modest in humans):
   **supports the claim's grading as stated**. Routes (vagal, immune, HPA,
   metabolite) and rodent causal evidence (GF, FMT phenotype transfer,
@@ -125,18 +125,18 @@ mediation by the microbiome is unconfirmed.
   not everyday hunger and mood.
 
 Other held entries it bears on (found on recheck):
-- **THEORY-560** (rodent gut–microbe effects; modest human evidence) and
-  **LIT-915** (the held review "One Giant Leap from Mouse to Man"):
+- **[THEORY-560](../theory.d/THEORY-560.md)** (rodent gut–microbe effects; modest human evidence) and
+  **[LIT-915](../literature.d/LIT-915.md)** (the held review "One Giant Leap from Mouse to Man"):
   this 2026 review is a later restatement of the same grading, adding MR and
   mediation as the missing tools; it does not overturn either.
-- **CASE-047**: the GF, FMT and probiotic-trial details agree with the case's
+- **[CASE-047](../cases.d/CASE-047.md)**: the GF, FMT and probiotic-trial details agree with the case's
   bullets.
-- **QUESTION-033** ("who drives?"): the review's "drivers, modifiers, or
+- **[QUESTION-033](../questions.d/QUESTION-033.md)** ("who drives?"): the review's "drivers, modifiers, or
   consequences" is a typology of answers for the microbiome level.
 
 Searched origin/main `record/` for: Mendelian randomization and Bradford Hill
-(no hits); psychobiotic, germ-free, faecal/fecal transplant (CASE-047,
-CLAIM-166, LIT-915, THEORY-560 only); the DOI and title. **Not already
+(no hits); psychobiotic, germ-free, faecal/fecal transplant ([CASE-047](../cases.d/CASE-047.md),
+[CLAIM-166](../claims.d/CLAIM-166.md), [LIT-915](../literature.d/LIT-915.md), [THEORY-560](../theory.d/THEORY-560.md) only); the DOI and title. **Not already
 held** under another LIT.
 
 ## Limitations

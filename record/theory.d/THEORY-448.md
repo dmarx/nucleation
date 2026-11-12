@@ -38,7 +38,7 @@ bears_on:
 <!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpn0ytb THEORY-tmp4rc81 THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmp5fwhc LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-443 THEORY-464 THEORY-476 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-072 THEORY-221 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; named as a parallel the reading draws, not leaned on -->
@@ -194,7 +194,7 @@ checked by the filer: no bearing; ex vivo embryos are outside gestation.
 
 ## Note of 2026-11-12: Żuradzki (2026), Ethics-first metaphysics: normative considerations as evidence for ontological commitments, read
 
-From the reading in NOTE-tmp88rw9 (LIT-tmpblasa), the reader's assessment as
+From the reading in [NOTE-tmp88rw9](../notes.d/NOTE-tmp88rw9.md) ([LIT-tmpblasa](../literature.d/LIT-tmpblasa.md)), the reader's assessment as
 checked by the filer: qualifies. That account takes the metaphysics to
 constrain the ethics. Żuradzki argues the direction can also run from ethics
 to metaphysics where the biology underdetermines, so the choice between
@@ -202,7 +202,7 @@ parthood and containment may itself be partly ethical.
 
 ## Note of 2026-11-12: Finn, read
 
-From the reading in NOTE-tmpastp1 (LIT-tmp5fwhc), the reader's assessment as
+From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
 checked by the filer: **qualifies**. Finn's analysis implies that Meincke's
 inconsistency charge holds only given a Maximality premise (an
 organism-substance cannot be a proper part of an organism of the same kind),

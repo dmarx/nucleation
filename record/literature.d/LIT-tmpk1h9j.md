@@ -52,7 +52,7 @@ Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitifica
 
 ## Note of 2026-11-12: Sullivan et al., read
 
-From the reading in NOTE-tmpm8u4z (LIT-tmp18mi5), the reader's assessment as
-checked by the filer: and **LIT-tmpawef9** (*C. elegans* sickness behaviour,
+From the reading in [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md) ([LIT-tmp18mi5](LIT-tmp18mi5.md)), the reader's assessment as
+checked by the filer: and **[LIT-tmpawef9](LIT-tmpawef9.md)** (*C. elegans* sickness behaviour,
 branch, unread): same line of work; the Trends commentary may restate this
 preprint's thesis.

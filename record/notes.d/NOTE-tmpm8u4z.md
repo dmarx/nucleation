@@ -89,7 +89,7 @@ circuits (isolation and reunion neurons).
 elicit distinct behavioural, brain-activity and hypothalamic transcriptional
 sickness states in mice") is **accurate**, including "preprint".
 
-- **CLAIM-tmpoxhqq** (manipulating parasites control host behaviour through
+- **[CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md)** (manipulating parasites control host behaviour through
   the host's own machinery; evolutionary goal-directedness and causal
   control come apart from intentional agency; host execution does not show
   the host's governance is independent): **qualifies, by supplying the
@@ -102,27 +102,27 @@ sickness states in mice") is **accurate**, including "preprint".
   (sense 2 of the claim): host sickness programmes produce it too, and the
   claim's step 2 needs evidence that the change serves the parasite and is
   caused by its adaptations rather than the host's. This supports the
-  claim's caution at its first step and complicates inferences in CASE-tmp10ykm.
+  claim's caution at its first step and complicates inferences in [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md).
   The paper itself does not discuss manipulation; the link is the record's
   inference.
 
 Other held entries it bears on (found on recheck):
-- **CASE-tmp10ykm** (on the branch: *Toxoplasma* and ant-manipulating
+- **[CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md)** (on the branch: *Toxoplasma* and ant-manipulating
   fungi): the STAg pro-social result is a host response to parasite antigen
   without live parasite; relevant to separating host defence from
   manipulation in the *Toxoplasma* case.
-- **LIT-tmpk1h9j** (Sparling, Florsheim and Sullivan 2026, "Scaling immunity:
+- **[LIT-tmpk1h9j](../literature.d/LIT-tmpk1h9j.md)** (Sparling, Florsheim and Sullivan 2026, "Scaling immunity:
   sickness as a host defense strategy", branch, unread) and
-  **LIT-tmpawef9** (*C. elegans* sickness behaviour, branch, unread): same
+  **[LIT-tmpawef9](../literature.d/LIT-tmpawef9.md)** (*C. elegans* sickness behaviour, branch, unread): same
   line of work; the Trends commentary may restate this preprint's thesis.
-- **THEORY-413** (beneficiary among the roles of a unit of selection): the
+- **[THEORY-413](../theory.d/THEORY-413.md)** (beneficiary among the roles of a unit of selection): the
   authors' framing is that sickness states are host adaptations (host as
   beneficiary), with adaptiveness explicitly not yet tested.
 
 Searched origin/main and the branch for: sickness behavio(u)r, Toxoplasma,
 Dulac, neuroimmune, the DOI. Main holds nothing on these; the branch holds
-CASE-tmp10ykm, LIT-tmpk1h9j and LIT-tmpawef9. **Not already held** under
-another LIT (LIT-tmpk1h9j is a different, related work by an overlapping
+[CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [LIT-tmpk1h9j](../literature.d/LIT-tmpk1h9j.md) and [LIT-tmpawef9](../literature.d/LIT-tmpawef9.md). **Not already held** under
+another LIT ([LIT-tmpk1h9j](../literature.d/LIT-tmpk1h9j.md) is a different, related work by an overlapping
 author).
 
 ## Limitations

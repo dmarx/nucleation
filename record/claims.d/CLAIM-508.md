@@ -69,8 +69,8 @@ without it. Corroborates, from a reading the claim does not rest on;
 
 ## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
 
-From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
-checked by the filer: and **CLAIM-tmpu69tn** (origin, governance and
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
+checked by the filer: and **[CLAIM-tmpu69tn](CLAIM-tmpu69tn.md)** (origin, governance and
 beneficiary of an influence are separate questions): the maternal cell is of
 foreign origin, governed in the host's immune regulation, and benefits (on
 the authors' account) the maternal lineage, a case of the three coming

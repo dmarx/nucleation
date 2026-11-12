@@ -25,7 +25,7 @@ keywords: []
 implementations: []
 summary: >-
   The Brussels Collaboration on Bodily Integrity (2024),
-  DOI-10.1080/15265161.2024.2353823. Skimmed on 2026-11-12 in NOTE-tmpzb2cf:
+  DOI-10.1080/15265161.2024.2353823. Skimmed on 2026-11-12 in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md):
   Restricting itself to nonvoluntary genital cutting or surgery by licensed
   clinicians on prepubescent children in Global North healthcare systems,
   and taking no position on criminal law or religious practice outside
@@ -41,7 +41,7 @@ summary: >-
   postponable alternative, preserving future choice). They reject the
   "mental health" defence of early surgery, hold that errors of commission
   and omission are not symmetric, and invoke Feinberg's "right in trust".
-  Its account is THEORY-tmpauuea. Registered from the exchange "Medical
+  Its account is [THEORY-tmpauuea](../theory.d/THEORY-tmpauuea.md). Registered from the exchange "Medical
   Ethics and Media Enshitification" (2026-11-11), where A cited it at A2 and
   A3 §5.
 ---
@@ -54,7 +54,7 @@ The Brussels Collaboration on Bodily Integrity (2024). "Genital Modifications in
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpzb2cf). A sex-neutral, medical-necessity
+Skimmed on 2026-11-12 ([NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md)). A sex-neutral, medical-necessity
 standard for nonvoluntary genital procedures, grounded in the special social
 meaning of "intimate" anatomy and a right held in trust, used to expose
 inconsistency in hospital policies that protect intersex children but
@@ -64,5 +64,5 @@ continue routine circumcision and cosmetic hypospadias surgery.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A2 and A3 §5. It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpzb2cf and its account
-THEORY-tmpauuea.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) and its account
+[THEORY-tmpauuea](../theory.d/THEORY-tmpauuea.md).

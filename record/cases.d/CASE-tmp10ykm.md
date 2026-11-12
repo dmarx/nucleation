@@ -91,7 +91,7 @@ further route the case does not name: timing (the host clock).
 
 ## Note of 2026-11-12: Sullivan et al., read
 
-From the reading in NOTE-tmpm8u4z (LIT-tmp18mi5), the reader's assessment as
+From the reading in [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md) ([LIT-tmp18mi5](../literature.d/LIT-tmp18mi5.md)), the reader's assessment as
 checked by the filer: the STAg pro-social result is a host response to
 parasite antigen without live parasite; relevant to separating host defence
 from manipulation in the *Toxoplasma* case.

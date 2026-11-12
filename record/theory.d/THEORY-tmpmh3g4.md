@@ -17,7 +17,7 @@ promote_when: >-
   segregated integration surviving disconnection is what would distinguish
   them.
 summary: >-
-  Hasler, read in NOTE-tmp5dqkd (Read). Hasler argues that the enteric
+  Hasler, read in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) (Read). Hasler argues that the enteric
   nervous system (ENS) is a candidate substrate of consciousness on several
   leading theories. He separates two "logically independent" theses: the
   **contributory thesis** (enteric processing makes a large contribution to
@@ -34,4 +34,4 @@ Hasler (2026) argues that the enteric nervous system's scale, autonomy and senso
 
 ## Evidence
 
-The reading in NOTE-tmp5dqkd; its key results are quoted there with locations.
+The reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md); its key results are quoted there with locations.

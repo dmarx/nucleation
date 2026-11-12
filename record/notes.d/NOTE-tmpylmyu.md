@@ -97,7 +97,7 @@ thin**. The piece's sharper points for the record are the exclusion of local
 media from licensing (third tier), the double bind, and the claim that
 platform capture needs no bad intent.
 
-- **CLAIM-tmpifp69** (attention-weighted demand selects against investigative
+- **[CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)** (attention-weighted demand selects against investigative
   journalism): **qualifies / adds a parallel mechanism**. Radsch's account of
   news economics runs through intermediary market power and referral
   dependence, not reader attention per se: what journalism is "worth" is set
@@ -109,21 +109,21 @@ platform capture needs no bad intent.
   by the price) parallels the claim's step 2.
 
 Other held entries it bears on (found on recheck):
-- **CLAIM-404** (governance from outside through the evidence or criteria an
+- **[CLAIM-404](../claims.d/CLAIM-404.md)** (governance from outside through the evidence or criteria an
   organization uses): Radsch's "referral traffic" as the governing valuation
   benchmark set by the platform is close to the criteria route.
-- **CLAIM-463** (restoring conditions need not restore capacity) and the
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring conditions need not restore capacity) and the
   "lock-in" thesis (result 7): a policy-level assertion of path dependence,
   not a demonstration.
-- **LIT-1293** (US Copyright Office, Generative AI Training, Part 3) is the
+- **[LIT-1293](../literature.d/LIT-1293.md)** (US Copyright Office, Generative AI Training, Part 3) is the
   record's nearest held source on AI training and licensing; Radsch argues
   the opposite emphasis (consent and statutory licensing as preconditions).
 
 Searched origin/main `record/` for: licensing, retrieval-augmented / RAG,
 referral traffic, double bind, Montoya, Open Markets, House of Lords,
 brookings.edu. Hits on "licensing" are open-source relicensing and copyright
-(LIT-1290, LIT-1293, LIT-1301, LIT-1302, LIT-2263, CASE-223, ARG-067); only
-LIT-1293 is close. **Not already held** (no LIT with this URL or title).
+([LIT-1290](../literature.d/LIT-1290.md), [LIT-1293](../literature.d/LIT-1293.md), [LIT-1301](../literature.d/LIT-1301.md), [LIT-1302](../literature.d/LIT-1302.md), [LIT-2263](../literature.d/LIT-2263.md), [CASE-223](../cases.d/CASE-223.md), [ARG-067](../arguments.d/ARG-067.md)); only
+[LIT-1293](../literature.d/LIT-1293.md) is close. **Not already held** (no LIT with this URL or title).
 
 ## Limitations
 

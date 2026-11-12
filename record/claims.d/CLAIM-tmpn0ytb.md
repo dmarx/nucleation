@@ -131,21 +131,21 @@ generations, which adds a lineage dimension the claim does not state. Its
 autoimmune associations show functional incorporation can be pathological,
 which bears on A's "functional boundary" step and on whether participation
 is integration. It **leaves the gradedness conclusion open**, like the read
-sources (ARG-tmp51yxc). Its account (THEORY-tmpxmmhb) is filed as corroborating this claim's premise, and nothing more.
+sources ([ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)). Its account ([THEORY-tmpxmmhb](../theory.d/THEORY-tmpxmmhb.md)) is filed as corroborating this claim's premise, and nothing more.
 
 ## Note of 2026-11-12: Schepanski et al., read
 
-From the reading in NOTE-tmpe8k6k (LIT-tmpqn7ic), the reader's assessment as
+From the reading in [NOTE-tmpe8k6k](../notes.d/NOTE-tmpe8k6k.md) ([LIT-tmpqn7ic](../literature.d/LIT-tmpqn7ic.md)), the reader's assessment as
 checked by the filer: strongly supports the "functional incorporation at the
 level of cells" premise. Maternal cells not only persist in offspring but
 regulate the host's brain development, and depleting them changes the host.
 It does not by itself establish that individuality is graded (the claim's
-own `defeated_if` and ARG-tmp51yxc already say heterogeneity/function alone
+own `defeated_if` and [ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md) already say heterogeneity/function alone
 do not).
 
 ## Note of 2026-11-12: Boddy, Fortunato, Wilson Sayres and Aktipis, read
 
-From the reading in NOTE-tmpqbilf (LIT-tmpv8dr2), the reader's assessment as
+From the reading in [NOTE-tmpqbilf](../notes.d/NOTE-tmpqbilf.md) ([LIT-tmpv8dr2](../literature.d/LIT-tmpv8dr2.md)), the reader's assessment as
 checked by the filer: supports the persistence-and-functional-involvement
 premise and adds the evolutionary gloss that persisting fetal cells may be
 agents of a distinct (offspring) fitness interest — which, if anything,
@@ -157,9 +157,9 @@ stresses causation is unproven).
 
 ## Note of 2026-11-12: Castela and others (2017), read
 
-From the reading in NOTE-tmpx8y0m (LIT-tmpyfxly), the reader's assessment as
+From the reading in [NOTE-tmpx8y0m](../notes.d/NOTE-tmpx8y0m.md) ([LIT-tmpyfxly](../literature.d/LIT-tmpyfxly.md)), the reader's assessment as
 checked by the filer: supports this claim's premise, and
-CLAIM-tmpu69tn's "foreign-origin cells serving the host" (noted there).
+[CLAIM-tmpu69tn](CLAIM-tmpu69tn.md)'s "foreign-origin cells serving the host" (noted there).
 Fetal cells persisting in the mother for her
 lifespan are recruited to repair her tissue, a foreign-lineage cell doing
 the host's maintenance work, with CCR2 dependence and a virgin-mouse
@@ -167,7 +167,7 @@ negative control establishing the fetal-cell mediation.
 
 ## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
 
-From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
 checked by the filer: **supports the premise, not the gradedness**. It
 documents bidirectional, decades-long persistence and an intervention
 showing maternal cells do work in the offspring's immune regulation, and its
@@ -175,6 +175,6 @@ authors draw an identity conclusion for the immune system ("forces
 reconsideration of how we define immunological identity"). That is A11's
 "immunological boundary" coming apart from the genetic one, exactly; it says
 nothing about organismal individuality being graded. Consistent with
-ARG-tmp51yxc's reading ("the premise, not the gradedness"). The
+[ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)'s reading ("the premise, not the gradedness"). The
 instigators-not-beneficiaries line (result 5) is a function claim, in A11's
 third step (causal contribution to host function) for tolerance only.

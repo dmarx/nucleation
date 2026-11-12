@@ -104,7 +104,7 @@ of parthood, containment or overlap it has to the gestating organism") is
 **accurate**. It omits the paper's two main theses: that Maximality is the
 only bridge between the questions, and the Underlap view.
 
-- **THEORY-448** (Meincke: under substance ontology, Substances-as-Parts has
+- **[THEORY-448](../theory.d/THEORY-448.md)** (Meincke: under substance ontology, Substances-as-Parts has
   "no consistent count"; the process view keeps parthood and identity at the
   price of a count between one and two): **qualifies**. Finn's analysis
   implies that Meincke's inconsistency charge holds only given a Maximality
@@ -115,7 +115,7 @@ only bridge between the questions, and the Underlap view.
   also adds options Meincke's dichotomy does not consider (Overlap, Underlap).
   This is the record's inference from Finn's text: Finn does not discuss
   Meincke.
-- **QUESTION-035** (when is a combined form one system, where is its
+- **[QUESTION-035](../questions.d/QUESTION-035.md)** (when is a combined form one system, where is its
   boundary): **bears, leaves open**. Finn's independence thesis applies:
   counting systems and fixing their part–whole relation are separate
   questions, linked only by a Maximality-type principle; and her topological
@@ -123,23 +123,23 @@ only bridge between the questions, and the Underlap view.
   vocabulary for "where its boundary lies". She supplies no criterion.
 
 Other held entries it bears on (found on recheck):
-- **THEORY-622** (Smith and Varzi, fiat vs bona fide boundaries): Finn's
+- **[THEORY-622](../theory.d/THEORY-622.md)** (Smith and Varzi, fiat vs bona fide boundaries): Finn's
   containment definition and her distinction of trivial from nontrivial
   part-containment depend on it.
-- **THEORY-493** and **LIT-124 / NOTE-163** (SEP Mereology): the mereological
-  background; NOTE-163 mentions underlap in the formal sense.
-- **THEORY-443** (Wilson and Barker): Finn cites "organism-centered views"
+- **[THEORY-493](../theory.d/THEORY-493.md)** and **[LIT-124](../literature.d/LIT-124.md) / [NOTE-163](NOTE-163.md)** (SEP Mereology): the mereological
+  background; [NOTE-163](NOTE-163.md) mentions underlap in the formal sense.
+- **[THEORY-443](../theory.d/THEORY-443.md)** (Wilson and Barker): Finn cites "organism-centered views"
   on which biological individuals have parts that are biological
   individuals, the premise that makes Maximality contestable.
-- **THEORY-464** (identity and ethics) and **CLAIM-tmpn0ytb**
+- **[THEORY-464](../theory.d/THEORY-464.md)** (identity and ethics) and **[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)**
   (microchimerism): Finn deliberately sets aside the post-birth relation (fn.
   14) and ethical conclusions.
 
 Searched origin/main `record/` for: maximality (hits are contextuality and
-ultrafilter papers, unrelated), mereotopology (LIT-1022, LIT-1024, NOTE-115,
-NOTE-163), fiat / bona fide (THEORY-622 and the Smith–Varzi LITs), underlap,
-Brogaard (NOTE-115 only), gravida, proper overlap, the DOI and title. Found
-THEORY-622 and THEORY-493 not named by the LIT. **Not already held** under
+ultrafilter papers, unrelated), mereotopology ([LIT-1022](../literature.d/LIT-1022.md), [LIT-1024](../literature.d/LIT-1024.md), [NOTE-115](NOTE-115.md),
+[NOTE-163](NOTE-163.md)), fiat / bona fide ([THEORY-622](../theory.d/THEORY-622.md) and the Smith–Varzi LITs), underlap,
+Brogaard ([NOTE-115](NOTE-115.md) only), gravida, proper overlap, the DOI and title. Found
+[THEORY-622](../theory.d/THEORY-622.md) and [THEORY-493](../theory.d/THEORY-493.md) not named by the LIT. **Not already held** under
 another LIT.
 
 ## Limitations

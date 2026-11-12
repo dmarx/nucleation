@@ -145,7 +145,7 @@ three-way separation.
 
 ## Note of 2026-11-12: Schepanski et al., read
 
-From the reading in NOTE-tmpe8k6k (LIT-tmpqn7ic), the reader's assessment as
+From the reading in [NOTE-tmpe8k6k](../notes.d/NOTE-tmpe8k6k.md) ([LIT-tmpqn7ic](../literature.d/LIT-tmpqn7ic.md)), the reader's assessment as
 checked by the filer: supports the foreign-origin-serving-host instance
 directly and with causal, rescue-controlled evidence. MMc are another
 organism's cells that sustain a capacity (healthy neurodevelopment) of the
@@ -154,8 +154,8 @@ matrix.
 
 ## Note of 2026-11-12: Castela and others (2017), read
 
-From the reading in NOTE-tmpx8y0m (LIT-tmpyfxly), read as a stand-in for
-LIT-tmps2df6: in mice, fetal cells that persist in the mother are recruited
+From the reading in [NOTE-tmpx8y0m](../notes.d/NOTE-tmpx8y0m.md) ([LIT-tmpyfxly](../literature.d/LIT-tmpyfxly.md)), read as a stand-in for
+[LIT-tmps2df6](../literature.d/LIT-tmps2df6.md): in mice, fetal cells that persist in the mother are recruited
 by CCL2 to injured maternal skin and repair it, and the effect needs both
 the fetal cells (none in virgin mice) and their CCR2 receptor. That is a
 controlled case of the combination this claim lists as "outside by lineage,

@@ -14,7 +14,7 @@ promote_when: >-
   account predicts, or the account's tissue-level predictions are confirmed
   in a later review.
 summary: >-
-  Boddy, Fortunato, Wilson Sayres and Aktipis, read in NOTE-tmpqbilf (Read).
+  Boddy, Fortunato, Wilson Sayres and Aktipis, read in [NOTE-tmpqbilf](../notes.d/NOTE-tmpqbilf.md) (Read).
   An evolutionary (cooperation-and-conflict) framework for fetal
   microchimerism. Fetal cells cross into the mother, persist for decades,
   and have paradoxical associations with maternal health (both protective
@@ -29,4 +29,4 @@ Boddy and colleagues (2015) argue that fetal microchimerism's paradoxical effect
 
 ## Evidence
 
-The reading in NOTE-tmpqbilf; its key results are quoted there with locations.
+The reading in [NOTE-tmpqbilf](../notes.d/NOTE-tmpqbilf.md); its key results are quoted there with locations.

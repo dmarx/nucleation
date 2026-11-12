@@ -22,7 +22,7 @@ keywords: []
 implementations: []
 summary: >-
   Radsch (2026), Brookings Institution, commentary. Read on 2026-11-12 in
-  NOTE-tmpylmyu: Radsch argues that AI is repeating, faster, the search
+  [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md): Radsch argues that AI is repeating, faster, the search
   era's capture of news economics: AI systems answer queries from journalism
   without returning traffic, and a licensing market is forming whose
   structure reproduces platform dominance. The market has three tiers:
@@ -31,7 +31,7 @@ summary: >-
   (TollBit, ProRata, Cloudflare's pay-per-crawl, Microsoft) exposed to
   acquisition by the platforms; and a long tail of local, regional and
   minority-language media effectively absent. Its account is
-  THEORY-tmpdzsxl. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpdzsxl](../theory.d/THEORY-tmpdzsxl.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A35 §2.
 ---
 <!-- inactive-ok-file: THEORY-tmpdzsxl — Proposed; filed from the same exchange -->
@@ -43,7 +43,7 @@ Courtney C. Radsch (2026). "Same gatekeepers, new tollbooths in the AI content l
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpylmyu). A policy synthesis: a three-tier map of
+Read on 2026-11-12 ([NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md)). A policy synthesis: a three-tier map of
 AI content licensing, the "publisher double bind" concept, and a list of
 interventions; cites convergent findings from the UK House of Lords and a
 European Parliament study.
@@ -52,5 +52,5 @@ European Parliament study.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpylmyu and its account
-THEORY-tmpdzsxl.
+Read on 2026-11-12; the reading is [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) and its account
+[THEORY-tmpdzsxl](../theory.d/THEORY-tmpdzsxl.md).

@@ -5,7 +5,7 @@ status_note: >-
   Southampton repository,
   https://eprints.soton.ac.uk/427045/1/Postprint_MIND_Part_of_your_Mother_.docx,
   returned HTTP 403 "Access Denied .. Protected by BotStopper"; not
-  retried. Sought as a neighbour for LIT-tmp63w88 (Hershenov 2026), which
+  retried. Sought as a neighbour for [LIT-tmp63w88](LIT-tmp63w88.md) (Hershenov 2026), which
   argues from Kingma's four criteria to the opposite conclusion.
 title: 'Were You a Part of Your Mother?'
 version: 1
@@ -46,8 +46,8 @@ Elselijn Kingma (2019). "Were You a Part of Your Mother?" *Mind 128(511):
 
 ## Key takeaways
 
-Not read. The source of the four criteria that LIT-tmp63w88 (Hershenov) and
-LIT-tmpw9l03 (Geddes) argue against, and that THEORY-448 reports Meincke
+Not read. The source of the four criteria that [LIT-tmp63w88](LIT-tmp63w88.md) (Hershenov) and
+[LIT-tmpw9l03](LIT-tmpw9l03.md) (Geddes) argue against, and that [THEORY-448](../theory.d/THEORY-448.md) reports Meincke
 adopting.
 
 ## Standing in the record

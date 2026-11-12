@@ -14,7 +14,7 @@ promote_when: >-
   Reach with a design that separates the organisational changes from secular
   trends.
 summary: >-
-  Bisiani, Gulyas, Moore and Heravi, read in NOTE-tmp9b3p6 (Read). A
+  Bisiani, Gulyas, Moore and Heravi, read in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) (Read). A
   longitudinal content analysis of 27 Reach plc local newspapers (seven
   regional hubs) sampled monthly in 2019, 2022 and 2025 (55,332 articles),
   measuring Napoli et al.'s three dimensions of "journalistic performance":
@@ -36,4 +36,4 @@ Bisiani, Gulyas, Moore and Heravi (2026) find that across 27 Reach plc local new
 
 ## Evidence
 
-The reading in NOTE-tmp9b3p6; its key results are quoted there with locations.
+The reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md); its key results are quoted there with locations.

@@ -31,12 +31,12 @@ summary: >-
   recruits a CCR2-high fetal microchimeric progenitor subset to injured
   maternal skin, where it becomes endothelium, drives angiogenesis and
   rescues delayed wound healing in pregnant and post-partum but not virgin
-  mice. A partial stand-in for LIT-tmps2df6. Read on 2026-11-12 in
-  NOTE-tmpx8y0m: Fetal microchimeric cells (FMCs) traffic into maternal
+  mice. A partial stand-in for [LIT-tmps2df6](LIT-tmps2df6.md). Read on 2026-11-12 in
+  [NOTE-tmpx8y0m](../notes.d/NOTE-tmpx8y0m.md): Fetal microchimeric cells (FMCs) traffic into maternal
   circulation and persist for decades; on maternal injury they migrate to
   the site and aid repair. Here, in mice, a reparative FMC subset is CD11b+
   CD34+ CD31+ (fetal "MPCs") and highly expresses CCR2. Its account is
-  THEORY-tmpjntfl.
+  [THEORY-tmpjntfl](../theory.d/THEORY-tmpjntfl.md).
 ---
 <!-- inactive-ok-file: LIT-tmps2df6 — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpjntfl — Proposed; filed from the same exchange -->
@@ -55,8 +55,8 @@ repair her tissue; the effect needs the fetal cells and CCR2.
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmps2df6. It carries the CCL2/CCR2
+Registered as a stand-in for [LIT-tmps2df6](LIT-tmps2df6.md). It carries the CCL2/CCR2
 recruitment mechanism, not that paper's results on maternal brain injury.
 
-Read on 2026-11-12; the reading is NOTE-tmpx8y0m and its account
-THEORY-tmpjntfl.
+Read on 2026-11-12; the reading is [NOTE-tmpx8y0m](../notes.d/NOTE-tmpx8y0m.md) and its account
+[THEORY-tmpjntfl](../theory.d/THEORY-tmpjntfl.md).

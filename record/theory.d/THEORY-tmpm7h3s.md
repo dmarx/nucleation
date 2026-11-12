@@ -18,7 +18,7 @@ promote_when: >-
   microchimeric cells removes the tolerance and the protection of later
   pregnancies, in a design with partial antigen overlap or in humans.
 summary: >-
-  Kinder, Stelzer, Arck and Way, read in NOTE-tmp1h3p0 (Read). A review
+  Kinder, Stelzer, Arck and Way, read in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) (Read). A review
   arguing that the bidirectional transfer of cells between mother and fetus
   during pregnancy, and their persistence for decades (fetal cells in
   mothers: fetal microchimerism, FMC; maternal cells in offspring: maternal
@@ -32,7 +32,6 @@ summary: >-
   injured tissue or be targets of alloimmunity resembling autoimmunity;
   causal roles in humans are mostly unestablished.
 ---
-<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 
 # THEORY-tmpm7h3s: Kinder, Stelzer, Arck and Way (2017) argue that the maternal and fetal cells that cross the placenta and persist for decades in offspring and mothers are retained because they sustain tolerance to each other's antigens, which in mice protects later pregnancies, and that immunological identity should therefore include a "microchiome" of familially related foreign cells whose antigens the immune system treats as an extended self.
 
@@ -42,4 +41,4 @@ Kinder, Stelzer, Arck and Way (2017) argue that the maternal and fetal cells tha
 
 ## Evidence
 
-The reading in NOTE-tmp1h3p0; its key results are quoted there with locations.
+The reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md); its key results are quoted there with locations.

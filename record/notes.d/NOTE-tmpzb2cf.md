@@ -124,7 +124,7 @@ autonomy") is **accurate**. Its scope limits matter and should be carried:
 clinicians in regulated healthcare only, prepubescent children only, no
 position on law or on religious rites performed outside healthcare.
 
-- **QUESTION-tmp2lvhi** (what makes one agent's authority over another's body
+- **[QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md)** (what makes one agent's authority over another's body
   legitimate when the other has standing but cannot decide: welfare, earlier
   wishes, projected future wishes, or the relation; and why parental consent
   and advance directives differ): **bears directly, gives one answer the
@@ -140,30 +140,30 @@ position on law or on religious rites performed outside healthcare.
   default to postponement when a later decision remains possible. It does
   not discuss advance directives, so the asymmetry the question names is not
   addressed, and it presupposes, rather than defends, that the open-future
-  interest is a ground of its own, which is what Millum (LIT-tmpapwfu)
+  interest is a ground of its own, which is what Millum ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md))
   disputes. Its restriction to genital anatomy rests on that anatomy's social
   meaning, so it does not offer a general account of surrogate authority.
 
 Other held entries it bears on (found on recheck):
-- **THEORY-464** (the relation that decides identity-involving ethics is not
+- **[THEORY-464](../theory.d/THEORY-464.md)** (the relation that decides identity-involving ethics is not
   identity): the paper's ground is what the child "will inevitably come to"
   feel about their body, a forward relation between infant and adult that
   does not rest on identity claims; consistent with A9 §3's suggestion
   reported in the question.
-- **TERM-100** provenance mapping in the question's 2026-11-12 note: the
+- **[TERM-100](../terms.d/TERM-100.md)** provenance mapping in the question's 2026-11-12 note: the
   paper's "right in trust" is maintenance by others of a right whose
   formation and exercise are reserved to the child.
-- **LIT-tmpmeavd** (scoping review on male circumcision ethics, branch,
-  unread) and **LIT-tmpapwfu** (Millum, "No Right to an Open Future",
+- **[LIT-tmpmeavd](../literature.d/LIT-tmpmeavd.md)** (scoping review on male circumcision ethics, branch,
+  unread) and **[LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)** (Millum, "No Right to an Open Future",
   branch, unread): the nearest neighbours on both sides.
-- **TERM-083** (moral standing): the paper takes the child's standing as
+- **[TERM-083](../terms.d/TERM-083.md)** (moral standing): the paper takes the child's standing as
   given and argues what follows for others' authority.
 
 Searched origin/main and the branch for: circumcision, intersex, right in
 trust, open future, Feinberg, bodily integrity, genital, the DOI. Main holds
-nothing directly on these (LIT-288 and THEORY-768 are unrelated uses). The
-branch holds QUESTION-tmp2lvhi, THEORY-464, LIT-tmpmeavd, LIT-tmpapwfu,
-LIT-tmpv2gd0. **Not already held** under another LIT.
+nothing directly on these ([LIT-288](../literature.d/LIT-288.md) and [THEORY-768](../theory.d/THEORY-768.md) are unrelated uses). The
+branch holds [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md), [THEORY-464](../theory.d/THEORY-464.md), [LIT-tmpmeavd](../literature.d/LIT-tmpmeavd.md), [LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md),
+[LIT-tmpv2gd0](../literature.d/LIT-tmpv2gd0.md). **Not already held** under another LIT.
 
 ## Limitations
 

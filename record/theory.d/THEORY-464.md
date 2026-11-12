@@ -197,7 +197,7 @@ theory's survey of the identity literature.
 
 ## Note of 2026-11-12: Żuradzki (2026), Ethics-first metaphysics: normative considerations as evidence for ontological commitments, read
 
-From the reading in NOTE-tmp88rw9 (LIT-tmpblasa), the reader's assessment as
+From the reading in [NOTE-tmp88rw9](../notes.d/NOTE-tmp88rw9.md) ([LIT-tmpblasa](../literature.d/LIT-tmpblasa.md)), the reader's assessment as
 checked by the filer: qualifies, in the same way. It holds that the
 metaphysics of persistence constrains ethical questions without settling
 them; Żuradzki, following Dasgupta, takes judgments of prudence and
@@ -205,7 +205,7 @@ responsibility to guide theorizing about persistence conditions.
 
 ## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
 
-From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](../literature.d/LIT-tmp4zfda.md)), the reader's assessment as
 checked by the filer: the paper's ground is what the child "will inevitably
 come to" feel about their body, a forward relation between infant and adult
 that does not rest on identity claims; consistent with A9 §3's suggestion
@@ -213,7 +213,7 @@ reported in the question.
 
 ## Note of 2026-11-12: Finn, read
 
-From the reading in NOTE-tmpastp1 (LIT-tmp5fwhc), the reader's assessment as
-checked by the filer: and **CLAIM-tmpn0ytb** (microchimerism): Finn
+From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
+checked by the filer: and **[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)** (microchimerism): Finn
 deliberately sets aside the post-birth relation (fn. 14) and ethical
 conclusions.

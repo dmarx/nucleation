@@ -213,5 +213,5 @@ above. It is not added to `source:`. The statement is unchanged.
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
 checked by the filer: the contributory thesis is an instance.

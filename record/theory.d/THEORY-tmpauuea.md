@@ -16,7 +16,7 @@ promote_when: >-
   relevant difference to intersex children and endosex boys, or a critic
   shows a relevant difference that the paper's argument does not answer.
 summary: >-
-  The Brussels Collaboration on Bodily Integrity, read in NOTE-tmpzb2cf
+  The Brussels Collaboration on Bodily Integrity, read in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md)
   (Skimmed). Restricting itself to nonvoluntary genital cutting or surgery
   by licensed clinicians on prepubescent children in Global North healthcare
   systems, and taking no position on criminal law or religious practice
@@ -43,4 +43,4 @@ The Brussels Collaboration on Bodily Integrity (2024) argues that clinicians may
 
 ## Evidence
 
-The reading in NOTE-tmpzb2cf; its key results are quoted there with locations.
+The reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md); its key results are quoted there with locations.

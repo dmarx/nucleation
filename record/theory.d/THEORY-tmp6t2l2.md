@@ -59,7 +59,7 @@ regulatory function.
 
 ## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
 
-From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
 checked by the filer: the later, finer result from the same laboratory (Way,
 Cincinnati): only a LysM+CD11c+ subset sustains NIMA tolerance. Kinder et
 al. are the review context for it.

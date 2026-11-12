@@ -100,7 +100,7 @@ beyond arousal, **not** change over time; and the paper's own headline is
 that escalation is non-linear and low in magnitude, with the extreme cluster
 not the one tied to CSAM.
 
-- **CLAIM-tmpcv1pg** (industries reading demand from heavy users drift toward
+- **[CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md)** (industries reading demand from heavy users drift toward
   more extreme content; heavy users habituate and seek more extreme material):
   **leaves the escalation step open; weakly qualifies it**. The paper does
   not measure heavy users, does not observe escalation over time, and finds
@@ -115,14 +115,14 @@ not the one tied to CSAM.
   different correlates.
 
 Other held entries it bears on (found on recheck):
-- **LIT-1465** (taxonomy of addictive design features, held, read): the
+- **[LIT-1465](../literature.d/LIT-1465.md)** (taxonomy of addictive design features, held, read): the
   paper's "tolerance" and "relapse" PPCS subscales are the individual-side
   constructs that taxonomy addresses; nothing in this paper concerns design.
 
 Searched origin/main `record/` for: desensiti(z/s)ation (no hits),
 habituation (hits are neuroscience and learning notes, unrelated),
 escalation (hits concern conflict escalation in cases and arguments,
-unrelated), pornography (LIT-1465, NOTE-1016 only). **Not already held**
+unrelated), pornography ([LIT-1465](../literature.d/LIT-1465.md), [NOTE-1016](NOTE-1016.md) only). **Not already held**
 under another LIT (DOI and title absent on main and on the branch, other
 than this LIT).
 

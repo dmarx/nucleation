@@ -24,7 +24,7 @@ keywords: []
 implementations: []
 summary: >-
   Eyal (2011), Stanford Encyclopedia of Philosophy. Read on 2026-11-12 in
-  NOTE-tmpzin27: A survey of informed consent in bioethics: why it is
+  [NOTE-tmpzin27](../notes.d/NOTE-tmpzin27.md): A survey of informed consent in bioethics: why it is
   required, what it consists in, and its status. §2 canvasses seven
   candidate justifications — protection (welfare), autonomy, prevention of
   abusive conduct, trust (forward- and backward-looking), self-ownership,
@@ -37,7 +37,7 @@ summary: >-
   and trust-based accounts of the requirement's status. §9 relates medical
   consent to sexual, contractual and political consent. §10 argues for a
   resilient "core" (risky, value-laden, invasive, refused interventions) and
-  a weaker, more overridable "rim". Its account is THEORY-tmp0xlx0.
+  a weaker, more overridable "rim". Its account is [THEORY-tmp0xlx0](../theory.d/THEORY-tmp0xlx0.md).
   Registered from the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11), where A cited it at A3 §3.
 ---
@@ -49,7 +49,7 @@ Nir Eyal (2011). "Informed Consent." *Stanford Encyclopedia of Philosophy*, subs
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpzin27). A structured map of the competing
+Read on 2026-11-12 ([NOTE-tmpzin27](../notes.d/NOTE-tmpzin27.md)). A structured map of the competing
 justifications of informed consent and their difficulties — the standard
 reference statement of the debate.
 
@@ -57,5 +57,5 @@ reference statement of the debate.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §3. It bears on [LIT-202](LIT-202.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpzin27 and its account
-THEORY-tmp0xlx0.
+Read on 2026-11-12; the reading is [NOTE-tmpzin27](../notes.d/NOTE-tmpzin27.md) and its account
+[THEORY-tmp0xlx0](../theory.d/THEORY-tmp0xlx0.md).

@@ -13,7 +13,7 @@ promote_when: >-
   are read and bear the characterization out, or an independent market study
   finds the same tier structure and exclusion.
 summary: >-
-  Radsch, read in NOTE-tmpylmyu (Read). Radsch argues that AI is repeating,
+  Radsch, read in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) (Read). Radsch argues that AI is repeating,
   faster, the search era's capture of news economics: AI systems answer
   queries from journalism without returning traffic, and a licensing market
   is forming whose structure reproduces platform dominance. The market has
@@ -32,4 +32,4 @@ Radsch (2026) argues that the emerging AI content licensing market reproduces th
 
 ## Evidence
 
-The reading in NOTE-tmpylmyu; its key results are quoted there with locations.
+The reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md); its key results are quoted there with locations.

@@ -24,7 +24,7 @@ keywords: []
 implementations: []
 summary: >-
   Kinder et al. (2017), DOI-10.1038/nri.2017.38. Read on 2026-11-12 in
-  NOTE-tmp1h3p0: A review arguing that the bidirectional transfer of cells
+  [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md): A review arguing that the bidirectional transfer of cells
   between mother and fetus during pregnancy, and their persistence for
   decades (fetal cells in mothers: fetal microchimerism, FMC; maternal cells
   in offspring: maternal microchimerism, MMC), is not accidental but serves
@@ -36,7 +36,7 @@ summary: >-
   by partner-specific protection against preeclampsia). Microchimeric cells
   may also replace injured tissue or be targets of alloimmunity resembling
   autoimmunity; causal roles in humans are mostly unestablished. Its account
-  is THEORY-tmpm7h3s. Registered from the exchange "Medical Ethics and Media
+  is [THEORY-tmpm7h3s](../theory.d/THEORY-tmpm7h3s.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A13 §3.
 ---
 <!-- inactive-ok-file: THEORY-tmpm7h3s — Proposed; filed from the same exchange -->
@@ -49,7 +49,7 @@ Jeremy M. Kinder, Ina A. Stelzer, Petra C. Arck and Sing Sing Way (2017). "Immun
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp1h3p0). A synthesis linking microchimerism to
+Read on 2026-11-12 ([NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md)). A synthesis linking microchimerism to
 tolerance and reproductive fitness; the "microchiome" and "extended-self"
 framing; a table of beneficial and harmful roles; an agenda (homing,
 differentiation cues, tools).
@@ -58,5 +58,5 @@ differentiation cues, tools).
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §3. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [THEORY-443](../theory.d/THEORY-443.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp1h3p0 and its account
-THEORY-tmpm7h3s.
+Read on 2026-11-12; the reading is [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) and its account
+[THEORY-tmpm7h3s](../theory.d/THEORY-tmpm7h3s.md).

@@ -26,7 +26,7 @@ keywords: []
 implementations: []
 summary: >-
   Sullivan et al. (2025), DOI-10.64898/2025.12.06.692770. Read on 2026-11-12
-  in NOTE-tmpm8u4z: In mice, five sterile immune challenges modelling
+  in [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md): In mice, five sterile immune challenges modelling
   bacterial infection (LPS), viral infection (poly I:C), parasite infection
   (soluble *Toxoplasma* antigen, STAg), allergy (bee-venom PLA2) and colitis
   (DSS) produce distinct "sickness states" at three scales: organismal
@@ -35,7 +35,7 @@ summary: >-
   classifier uses to predict the challenge) and molecular (a 940-gene
   MERFISH atlas of the preoptic and paraventricular hypothalamus). The
   states cluster: LPS with poly I:C; STAg with DSS; PLA2 apart. Its account
-  is THEORY-tmp82z5p. Registered from the exchange "Medical Ethics and Media
+  is [THEORY-tmp82z5p](../theory.d/THEORY-tmp82z5p.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A21 §4.
 ---
 <!-- inactive-ok-file: THEORY-tmp82z5p — Proposed; filed from the same exchange -->
@@ -47,7 +47,7 @@ Zuri A. Sullivan, Bertrand J. Wong, Vikrant Kapoor, Paula Kathleen Vincze, Harri
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpm8u4z). A multi-scale comparison across
+Read on 2026-11-12 ([NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md)). A multi-scale comparison across
 challenge types, against the field's reliance on LPS; evidence against a
 "generic" brain representation of infection; a hypothalamic immune-gene
 atlas as a resource.
@@ -56,5 +56,5 @@ atlas as a resource.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §4. It bears on [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpm8u4z and its account
-THEORY-tmp82z5p.
+Read on 2026-11-12; the reading is [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md) and its account
+[THEORY-tmp82z5p](../theory.d/THEORY-tmp82z5p.md).

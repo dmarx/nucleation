@@ -17,7 +17,7 @@ promote_when: >-
   the same way: plausible and modest, with microbiome mediation of symptom
   change in people not yet demonstrated.
 summary: >-
-  Almarzooqi et al., read in NOTE-tmpleweb (Skimmed). A narrative review of
+  Almarzooqi et al., read in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) (Skimmed). A narrative review of
   the microbiota–gut–brain axis (MGBA) in psychiatry, organized around the
   move "from association to causality". It sets out a graded hierarchy of
   causal evidence (confounder-controlled association, temporal precedence,
@@ -26,7 +26,6 @@ summary: >-
   vagal/ENS, barrier), grades the evidence per disorder, and reviews
   translation (psychobiotics, diet, FMT, biomarkers).
 ---
-<!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
 
 # THEORY-tmpbjhs5: Almarzooqi and colleagues (2026) conclude that the gut microbiome is a biologically plausible and modifiable contributor to psychiatric disorders rather than a primary cause: animal germ-free, transplant and vagotomy work shows that microbes can change stress- and mood-related behaviour, but human evidence is mostly cross-sectional and confounded, interventions show modest symptom effects without demonstrated microbiome mediation, and the causal support is moderate for depression and weaker elsewhere.
@@ -37,4 +36,4 @@ Almarzooqi and colleagues (2026) conclude that the gut microbiome is a biologica
 
 ## Evidence
 
-The reading in NOTE-tmpleweb; its key results are quoted there with locations.
+The reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md); its key results are quoted there with locations.

@@ -26,7 +26,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmp9g14f — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpyc5md CLAIM-tmpvceet — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
-<!-- inactive-ok-file: LIT-tmpv9xn3 LIT-tmp6n74q LIT-tmpq8pi2 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpv9xn3 LIT-tmp6n74q — Deferred; registered from the same exchange, unread -->
 
 # QUESTION-tmpuftum: How can the set of demands an organization's compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization's own governance?
 
@@ -112,7 +112,7 @@ indicators are taken from SDG data and planetary boundaries science.
 
 ## Note of 2026-11-12: Freer and Nosratabadi, read
 
-From the reading in NOTE-tmpyt3ot (LIT-tmpq8pi2), the reader's assessment as
+From the reading in [NOTE-tmpyt3ot](../notes.d/NOTE-tmpyt3ot.md) ([LIT-tmpq8pi2](../literature.d/LIT-tmpq8pi2.md)), the reader's assessment as
 checked by the filer: supports and sharpens it. What an observer can infer
 from behaviour depends on an assumption about attention that the behaviour
 cannot itself fix. Under the weakest assumption almost nothing is inferred,
@@ -123,7 +123,7 @@ selective exposure shaped by an organization is left open.
 
 ## Note of 2026-11-12: Boxer, McFowland and Neill, read
 
-From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](../literature.d/LIT-tmp14en7.md)), the reader's assessment as
 checked by the filer: **supports the question's first failure mode and
 offers a partial procedure**. The paper is a worked instance of "An
 aggregate can hide a small group's failure": aggregate calibration or

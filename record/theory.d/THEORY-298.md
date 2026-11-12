@@ -103,6 +103,6 @@ surveys the candidates and finds none accepted.
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
 checked by the filer: Hasler concedes the gut cannot report and relies on
 markers whose validation is the problem THEORY-298 names.

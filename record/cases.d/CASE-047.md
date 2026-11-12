@@ -77,7 +77,7 @@ theoretical framing A recommends.
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
 checked by the filer: **supports the case's framing**. The "gut complex"
 names the intermediate level the case's 2026-11-12 note adds; the paper's
 insistence that the four systems work together supports the case's "drive
@@ -86,6 +86,6 @@ it bears on (found on recheck):
 
 ## Note of 2026-11-12: Almarzooqi et al., read
 
-From the reading in NOTE-tmpleweb (LIT-tmp42smw), the reader's assessment as
+From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
 checked by the filer: the GF, FMT and probiotic-trial details agree with the
 case's bullets.

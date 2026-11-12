@@ -123,7 +123,7 @@ one legal framework.
 
 ## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
 
-From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](../literature.d/LIT-tmp4zfda.md)), the reader's assessment as
 checked by the filer: **bears directly, gives one answer the question lists,
 and supplies A9's test variables**. The paper rejects welfare (third-party
 benefit–risk judgment) as the ground for nonvoluntary intimate procedures
@@ -137,7 +137,7 @@ welfare, why surrogate authority should default to postponement when a later
 decision remains possible. It does not discuss advance directives, so the
 asymmetry the question names is not addressed, and it presupposes, rather
 than defends, that the open-future interest is a ground of its own, which is
-what Millum (LIT-tmpapwfu) disputes. Its restriction to genital anatomy
+what Millum ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)) disputes. Its restriction to genital anatomy
 rests on that anatomy's social meaning, so it does not offer a general
 account of surrogate authority. Other held entries it bears on (found on
 recheck):

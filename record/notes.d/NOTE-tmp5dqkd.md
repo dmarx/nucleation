@@ -109,51 +109,51 @@ thesis ..., and proposes tests") is **accurate**. A15's caution ("a valuable
 research hypothesis, not evidence that humans contain two conscious minds")
 matches the paper's own grading.
 
-- **CLAIM-166** (the microbiome can drive higher-level behaviour and
+- **[CLAIM-166](../claims.d/CLAIM-166.md)** (the microbiome can drive higher-level behaviour and
   experience; routes exist, rodent effects causal, human evidence modest):
   **qualifies / adds a level, adds no evidence for the claim's empirical
   part**. Hasler places the ENS between the microbial collective and the
   person and frames its role as "valuation", signals that "bias the
   whole-organism decision without executing it": a route by which lower-level
-  activity reaches hunger and affect, consistent with CLAIM-166's "reaches
-  experience" via THEORY-045. It offers no new human evidence that a person's
+  activity reaches hunger and affect, consistent with [CLAIM-166](../claims.d/CLAIM-166.md)'s "reaches
+  experience" via [THEORY-045](../theory.d/THEORY-045.md). It offers no new human evidence that a person's
   own microbiome changes hunger or affect, which is what the claim's
   defeat condition turns on. The paper is a perspective, not a review of
   microbiome effects.
-- **QUESTION-046** (criterion that says whether an organized whole is a
+- **[QUESTION-046](../questions.d/QUESTION-046.md)** (criterion that says whether an organized whole is a
   subject, applied the same way to a modular mind and an organized group):
   **bears directly, leaves open**. Hasler's §9 is a worked candidate for
   the subsystem case: a subsystem is a second subject only if its contents
   are integrated among themselves and not with the whole (tests iii, iv), and
   persist when coupling is cut (ii). This is an IIT-style anti-nesting
   (exclusion) principle plus an architectural criterion, motivated by the
-  gut, not by groups, as QUESTION-046's "What would answer it" asks; but it
+  gut, not by groups, as [QUESTION-046](../questions.d/QUESTION-046.md)'s "What would answer it" asks; but it
   is not applied to a group, and no measure is computed. His "jointly
   constituted" field is a third option between one and two subjects.
 
 Other held entries it bears on (found on recheck):
-- **THEORY-043** (what separates a society of mind from a group is "an
+- **[THEORY-043](../theory.d/THEORY-043.md)** (what separates a society of mind from a group is "an
   anti-nesting principle or an architectural criterion, neither yet
   principled"): Hasler's test (iv) is IIT's anti-nesting principle and test
   (i) an architectural one, applied to a bodily subsystem.
-- **THEORY-063** (unity as one cluster of maximal causal density): Hasler's
+- **[THEORY-063](../theory.d/THEORY-063.md)** (unity as one cluster of maximal causal density): Hasler's
   integration-maximum question is the same criterion applied to ENS vs CNS.
-- **THEORY-298** (report-based evidence cannot test sufficiency; no
+- **[THEORY-298](../theory.d/THEORY-298.md)** (report-based evidence cannot test sufficiency; no
   report-free marker independently validated): Hasler concedes the gut cannot
-  report and relies on markers whose validation is the problem THEORY-298
+  report and relies on markers whose validation is the problem [THEORY-298](../theory.d/THEORY-298.md)
   names.
-- **THEORY-045** (felt affect is the experience of the body's regulatory
+- **[THEORY-045](../theory.d/THEORY-045.md)** (felt affect is the experience of the body's regulatory
   state): the contributory thesis is an instance.
-- **THEORY-560** (rodent gut–microbe effects, modest human evidence): Hasler
+- **[THEORY-560](../theory.d/THEORY-560.md)** (rodent gut–microbe effects, modest human evidence): Hasler
   adds no microbiome evidence.
-- **THEORY-677** (precaution under sentience uncertainty, a critique of
+- **[THEORY-677](../theory.d/THEORY-677.md)** (precaution under sentience uncertainty, a critique of
   Birch): Hasler adopts Birch's precautionary candidacy logic.
 
 Searched origin/main `record/` for: enteric, second brain (no hits);
-interoception (CLAIM-412 and LITs on interoceptive inference); exclusion
-postulate (CLAIM-432 and IIT LITs); split-brain (THEORY-691, THEORY-875,
-THEORY-417); Bayne; octopus (THEORY-436, THEORY-606); Birch; the DOI and
-title. Found THEORY-043, THEORY-063, THEORY-298, THEORY-677 not named by the
+interoception ([CLAIM-412](../claims.d/CLAIM-412.md) and LITs on interoceptive inference); exclusion
+postulate ([CLAIM-432](../claims.d/CLAIM-432.md) and IIT LITs); split-brain ([THEORY-691](../theory.d/THEORY-691.md), [THEORY-875](../theory.d/THEORY-875.md),
+[THEORY-417](../theory.d/THEORY-417.md)); Bayne; octopus ([THEORY-436](../theory.d/THEORY-436.md), [THEORY-606](../theory.d/THEORY-606.md)); Birch; the DOI and
+title. Found [THEORY-043](../theory.d/THEORY-043.md), [THEORY-063](../theory.d/THEORY-063.md), [THEORY-298](../theory.d/THEORY-298.md), [THEORY-677](../theory.d/THEORY-677.md) not named by the
 LIT. **Not already held** under another LIT.
 
 ## Limitations

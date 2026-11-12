@@ -148,6 +148,6 @@ encompassing success does not establish its constituents') and of
 
 ## Note of 2026-11-12: Boxer, McFowland and Neill, read
 
-From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](../literature.d/LIT-tmp14en7.md)), the reader's assessment as
 checked by the filer: the same structure in fairness auditing: aggregate
 parity can hide offsetting subgroup violations.

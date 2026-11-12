@@ -24,10 +24,10 @@ keywords: []
 implementations: []
 summary: >-
   Boddy et al. (2015), DOI-10.1002/bies.201500059. Read on 2026-11-12 in
-  NOTE-tmpqbilf: An evolutionary (cooperation-and-conflict) framework for
+  [NOTE-tmpqbilf](../notes.d/NOTE-tmpqbilf.md): An evolutionary (cooperation-and-conflict) framework for
   fetal microchimerism. Fetal cells cross into the mother, persist for
   decades, and have paradoxical associations with maternal health (both
-  protective and harmful). Its account is THEORY-tmpskf4o. Registered from
+  protective and harmful). Its account is [THEORY-tmpskf4o](../theory.d/THEORY-tmpskf4o.md). Registered from
   the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
   where A cited it at A13 §3.
 ---
@@ -41,7 +41,7 @@ Amy M. Boddy, Angelo Fortunato, Melissa Wilson Sayres and Athena Aktipis (2015).
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpqbilf). A unifying evolutionary framework
+Read on 2026-11-12 ([NOTE-tmpqbilf](../notes.d/NOTE-tmpqbilf.md)). A unifying evolutionary framework
 (parent-offspring/maternal-fetal conflict applied to microchimerism) that
 reorganizes contradictory empirical findings and generates testable
 predictions.
@@ -50,5 +50,5 @@ predictions.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §3. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [THEORY-413](../theory.d/THEORY-413.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpqbilf and its account
-THEORY-tmpskf4o.
+Read on 2026-11-12; the reading is [NOTE-tmpqbilf](../notes.d/NOTE-tmpqbilf.md) and its account
+[THEORY-tmpskf4o](../theory.d/THEORY-tmpskf4o.md).

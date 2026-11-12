@@ -37,7 +37,7 @@ The reading in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md); its key results are
 
 ## Note of 2026-11-12: Żuradzki (2026), Ethics-first metaphysics: normative considerations as evidence for ontological commitments, read
 
-From the reading in NOTE-tmp88rw9 (LIT-tmpblasa), the reader's assessment as
+From the reading in [NOTE-tmp88rw9](../notes.d/NOTE-tmp88rw9.md) ([LIT-tmpblasa](../literature.d/LIT-tmpblasa.md)), the reader's assessment as
 checked by the filer: contrasts. Both commentaries let normative commitments
 shape the choice of mereology; they disagree on whether the fit then counts
 as evidence.

@@ -23,7 +23,7 @@ history:
     manuscript, 5 pp. with references), by the filer.
 date: '2026-11-12'
 summary: >-
-  A commentary on LIT-tmph5uj8. Żuradzki accepts Devanesan's thesis that no
+  A commentary on [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md). Żuradzki accepts Devanesan's thesis that no
   ontology of pregnancy entails an ethical conclusion but that each
   constrains which analogies can support one, and argues that the relation
   is closer: where biological evidence underdetermines competing ontologies,
@@ -67,11 +67,11 @@ A methodological claim for bioethics: ontological disputes about pregnancy and e
 
 ## Bearing on the record
 
-**On the LIT's and the exchange's characterization.** The LIT's title and its place in the commentary cluster on LIT-tmph5uj8 are right. Its stance differs from Dranseika's (LIT-tmpoeqhr): Dranseika allows a commitment to guide the choice of mereology but denies that the resulting fit is independent evidence for it, whereas Żuradzki counts normative judgments as evidence for the ontology, where the biology underdetermines it.
+**On the LIT's and the exchange's characterization.** The LIT's title and its place in the commentary cluster on [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md) are right. Its stance differs from Dranseika's ([LIT-tmpoeqhr](../literature.d/LIT-tmpoeqhr.md)): Dranseika allows a commitment to guide the choice of mereology but denies that the resulting fit is independent evidence for it, whereas Żuradzki counts normative judgments as evidence for the ontology, where the biology underdetermines it.
 
-- **THEORY-448**: qualifies. That account takes the metaphysics to constrain the ethics. Żuradzki argues the direction can also run from ethics to metaphysics where the biology underdetermines, so the choice between parthood and containment may itself be partly ethical.
-- **THEORY-464**: qualifies, in the same way. It holds that the metaphysics of persistence constrains ethical questions without settling them; Żuradzki, following Dasgupta, takes judgments of prudence and responsibility to guide theorizing about persistence conditions.
-- **THEORY-tmp1w39g** (Dranseika): contrasts. Both commentaries let normative commitments shape the choice of mereology; they disagree on whether the fit then counts as evidence.
+- **[THEORY-448](../theory.d/THEORY-448.md)**: qualifies. That account takes the metaphysics to constrain the ethics. Żuradzki argues the direction can also run from ethics to metaphysics where the biology underdetermines, so the choice between parthood and containment may itself be partly ethical.
+- **[THEORY-464](../theory.d/THEORY-464.md)**: qualifies, in the same way. It holds that the metaphysics of persistence constrains ethical questions without settling them; Żuradzki, following Dasgupta, takes judgments of prudence and responsibility to guide theorizing about persistence conditions.
+- **[THEORY-tmp1w39g](../theory.d/THEORY-tmp1w39g.md)** (Dranseika): contrasts. Both commentaries let normative commitments shape the choice of mereology; they disagree on whether the fit then counts as evidence.
 
 The record held this LIT as Deferred and then Unfetched. No other LIT holds DOI 10.1136/jme-2026-112360.
 

@@ -121,12 +121,12 @@ rescue arm.
 
 ## Note of 2026-11-12: Almarzooqi et al., read
 
-From the reading in NOTE-tmpleweb (LIT-tmp42smw), the reader's assessment as
-checked by the filer: and **LIT-915** (the held review "One Giant Leap from
+From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
+checked by the filer: and **[LIT-915](../literature.d/LIT-915.md)** (the held review "One Giant Leap from
 Mouse to Man"): this 2026 review is a later restatement of the same grading,
 adding MR and mediation as the missing tools; it does not overturn either.
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
 checked by the filer: Hasler adds no microbiome evidence.

@@ -37,6 +37,6 @@ Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitifica
 
 ## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
 
-From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
-checked by the filer: and **LIT-tmpapwfu** (Millum, "No Right to an Open
+From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](LIT-tmp4zfda.md)), the reader's assessment as
+checked by the filer: and **[LIT-tmpapwfu](LIT-tmpapwfu.md)** (Millum, "No Right to an Open
 Future", branch, unread): the nearest neighbours on both sides.

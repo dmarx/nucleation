@@ -106,7 +106,7 @@ MultiAccuracy Boost, Bias Scan; aggregate fairness hiding subgroup bias.
 subgroup biases that aggregate fairness checks miss") is **accurate**.
 Attribution to Neill alone is incomplete (Boxer is first author).
 
-- **QUESTION-tmpuftum** (how the demand set an organization is judged against
+- **[QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)** (how the demand set an organization is judged against
   can be fixed defensibly, when who counts as a claimant is shaped by the
   organization): **supports the question's first failure mode and offers a
   partial procedure**. The paper is a worked instance of "An aggregate can
@@ -122,26 +122,26 @@ Attribution to Neill alone is incomplete (Boxer is first author).
   the evidence is shaped by the governance being judged.
 
 Other held entries it bears on (found on recheck):
-- **CLAIM-351** (a zero aggregate gradient does not show the demands it
+- **[CLAIM-351](../claims.d/CLAIM-351.md)** (a zero aggregate gradient does not show the demands it
   aggregates are reconciled; nonzero gradients can cancel): the same
   structure in fairness auditing: aggregate parity can hide offsetting
   subgroup violations.
-- **CLAIM-361** (relief judged against a fixed reference set): CBS's
+- **[CLAIM-361](../claims.d/CLAIM-361.md)** (relief judged against a fixed reference set): CBS's
   protected class and covariates are such a fixed reference set; the paper
   does not discuss how it is chosen.
-- **CLAIM-404** (governance through the evidence an organization's
+- **[CLAIM-404](../claims.d/CLAIM-404.md)** (governance through the evidence an organization's
   procedures receive): result 8, re-arrest as outcome, is evidence shaped by
   the policing being evaluated.
-- **THEORY-575** (organized vs feature social groups): CBS subgroups are
+- **[THEORY-575](../theory.d/THEORY-575.md)** (organized vs feature social groups): CBS subgroups are
   feature groups defined by attribute values; the authors' §5.4 caution
   parallels the distinction.
-- **LIT-tmpv9xn3** (meta-metrics in intersectional fairness, branch, unread):
+- **[LIT-tmpv9xn3](../literature.d/LIT-tmpv9xn3.md)** (meta-metrics in intersectional fairness, branch, unread):
   the neighbour on the same question from the same exchange.
 
-Searched origin/main `record/` for: COMPAS (case-sensitive: only NOTE-723,
-in passing), intersectional (THEORY-575, THEORY-667, LIT-486, social
+Searched origin/main `record/` for: COMPAS (case-sensitive: only [NOTE-723](NOTE-723.md),
+in passing), intersectional ([THEORY-575](../theory.d/THEORY-575.md), [THEORY-667](../theory.d/THEORY-667.md), [LIT-486](../literature.d/LIT-486.md), social
 ontology), subset scan and Chouldechova (none), fairness (unrelated uses).
-Found CLAIM-351 as the closest structural analogue. **Not already held**:
+Found [CLAIM-351](../claims.d/CLAIM-351.md) as the closest structural analogue. **Not already held**:
 no LIT carries this title or URL; the record holds no algorithmic-fairness
 methods paper.
 

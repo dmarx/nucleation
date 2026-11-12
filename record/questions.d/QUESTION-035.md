@@ -119,19 +119,19 @@ part–whole relations between the systems inside it. Leaves it open.
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
-checked by the filer: / **LIT-709** (holobiont membership): the microbiota
+From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
+checked by the filer: / **[LIT-709](../literature.d/LIT-709.md)** (holobiont membership): the microbiota
 as both part and environment.
 
 ## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
 
-From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
 checked by the filer: the immune boundary (what is tolerated) is extended by
 the cells; the genetic boundary is not.
 
 ## Note of 2026-11-12: Finn, read
 
-From the reading in NOTE-tmpastp1 (LIT-tmp5fwhc), the reader's assessment as
+From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
 checked by the filer: **bears, leaves open**. Finn's independence thesis
 applies: counting systems and fixing their part–whole relation are separate
 questions, linked only by a Maximality-type principle; and her topological

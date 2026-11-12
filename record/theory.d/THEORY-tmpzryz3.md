@@ -13,7 +13,7 @@ promote_when: >-
   pattern, the trick and its wrong-making feature, and the role of EU law's
   influence types as the hinge between them.
 summary: >-
-  Sax, read in NOTE-tmpkxx6g (Read). Sax argues the dark-patterns literature
+  Sax, read in [NOTE-tmpkxx6g](../notes.d/NOTE-tmpkxx6g.md) (Read). Sax argues the dark-patterns literature
   conflates two distinct but entwined senses of "dark". Dark 1 is
   descriptive: taxonomies of interface tricks (Gray et al., Mathur et al.,
   Luguri & Strahilevitz, Bösch et al.).
@@ -27,4 +27,4 @@ Sax (2026) argues that a coherent concept of dark patterns must make explicit th
 
 ## Evidence
 
-The reading in NOTE-tmpkxx6g; its key results are quoted there with locations.
+The reading in [NOTE-tmpkxx6g](../notes.d/NOTE-tmpkxx6g.md); its key results are quoted there with locations.

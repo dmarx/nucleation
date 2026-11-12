@@ -53,6 +53,6 @@ between two genetically distinct individuals".
 
 ## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
 
-From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
 checked by the filer: a later review covering the same phenomena; Kinder's
 is the earlier source of the "microchiome" framing.

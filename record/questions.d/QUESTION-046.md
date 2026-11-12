@@ -85,7 +85,7 @@ two conscious minds". Not filed as a new question; mapped here.
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
 checked by the filer: **bears directly, leaves open**. Hasler's §9 is a
 worked candidate for the subsystem case: a subsystem is a second subject
 only if its contents are integrated among themselves and not with the whole

@@ -140,6 +140,6 @@ analogue is "children for the purposes of the Wrongful Death Act".
 
 ## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
 
-From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](../literature.d/LIT-tmp4zfda.md)), the reader's assessment as
 checked by the filer: the paper takes the child's standing as given and
 argues what follows for others' authority.

@@ -48,5 +48,5 @@ Maria Sbeih, Bénédicte Oulès, Mansour Alkobtawi, Leslie Schwendimann, Qui Tru
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpyfxly. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpyfxly](LIT-tmpyfxly.md). The
 reader on how far it stands in:

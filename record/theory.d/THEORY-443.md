@@ -122,7 +122,7 @@ contentious about, genes and hearts, have them coming apart.
 
 ## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
 
-From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+From the reading in [NOTE-tmp1h3p0](../notes.d/NOTE-tmp1h3p0.md) ([LIT-tmp1pvq3](../literature.d/LIT-tmp1pvq3.md)), the reader's assessment as
 checked by the filer: **supports, as an instance**. Cells genetically of one
 lineage (the mother's) take part in the physiological (immune) regulation of
 another individual, and the authors' explanation is in evolutionary terms
@@ -133,7 +133,7 @@ it bears on (found on recheck):
 
 ## Note of 2026-11-12: Finn, read
 
-From the reading in NOTE-tmpastp1 (LIT-tmp5fwhc), the reader's assessment as
+From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
 checked by the filer: Finn cites "organism-centered views" on which
 biological individuals have parts that are biological individuals, the
 premise that makes Maximality contestable.

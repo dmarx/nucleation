@@ -51,7 +51,7 @@ Fetal microchimeric cells; CCL2/CCR2 chemotaxis; fetal myeloid progenitor (CD11b
 
 ## Bearing on the record
 
-- **CLAIM-tmpn0ytb** and **CLAIM-tmpu69tn**: *supports "foreign-origin cells serving the host". Fetal cells persisting in the mother for her lifespan are recruited to repair her tissue, a foreign-lineage cell doing the host's maintenance work, with CCR2 dependence and a virgin-mouse negative control establishing the fetal-cell mediation.
+- **[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)** and **[CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md)**: *supports "foreign-origin cells serving the host". Fetal cells persisting in the mother for her lifespan are recruited to repair her tissue, a foreign-lineage cell doing the host's maintenance work, with CCR2 dependence and a virgin-mouse negative control establishing the fetal-cell mediation.
 
 - Not held in record/ (DOI/PMC absent). A strong, mechanistically controlled instance of fetal-origin functional incorporation.
 

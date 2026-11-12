@@ -13,7 +13,7 @@ promote_when: >-
   pathogens, showing distinct sickness states across challenge types at the
   behavioural and neural levels.
 summary: >-
-  Sullivan et al., read in NOTE-tmpm8u4z (Read). In mice, five sterile
+  Sullivan et al., read in [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md) (Read). In mice, five sterile
   immune challenges modelling bacterial infection (LPS), viral infection
   (poly I:C), parasite infection (soluble *Toxoplasma* antigen, STAg),
   allergy (bee-venom PLA2) and colitis (DSS) produce distinct "sickness
@@ -33,4 +33,4 @@ Sullivan, Dulac and colleagues (2025, preprint) report that in mice sterile immu
 
 ## Evidence
 
-The reading in NOTE-tmpm8u4z; its key results are quoted there with locations.
+The reading in [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md); its key results are quoted there with locations.

@@ -28,13 +28,13 @@ keywords: []
 implementations: []
 summary: >-
   Hasler (2026), DOI-10.1093/nc/niag070. Read on 2026-11-12 in
-  NOTE-tmp5dqkd: Hasler argues that the enteric nervous system (ENS) is a
+  [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md): Hasler argues that the enteric nervous system (ENS) is a
   candidate substrate of consciousness on several leading theories. He
   separates two "logically independent" theses: the **contributory thesis**
   (enteric processing makes a large contribution to the one consciousness of
   the whole animal) and the **partial-subject thesis** (the ENS is a second,
   far simpler locus of experience whose experiences are not the person's).
-  Its account is THEORY-tmpmh3g4. Registered from the exchange "Medical
+  Its account is [THEORY-tmpmh3g4](../theory.d/THEORY-tmpmh3g4.md). Registered from the exchange "Medical
   Ethics and Media Enshitification" (2026-11-11), where A cited it at A14
   and A15 §1, §6.
 ---
@@ -47,7 +47,7 @@ Gregor Hasler (2026). "Gut consciousness: a perspective on visceral phenomenal a
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp5dqkd). A clear separation of contribution from
+Read on 2026-11-12 ([NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md)). A clear separation of contribution from
 multiplication of subjects; a research programme of five discriminating
 tests; an explicit concession that "There is no existing tradition that
 supports the claim examined here".
@@ -58,9 +58,9 @@ Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitifica
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](LIT-tmp1p2zd.md)), the reader's assessment as
 checked by the filer: the same contributory / own-locus split, Hasler for
 experience, Boem et al. for cognition.
 
-Read on 2026-11-12; the reading is NOTE-tmp5dqkd and its account
-THEORY-tmpmh3g4.
+Read on 2026-11-12; the reading is [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) and its account
+[THEORY-tmpmh3g4](../theory.d/THEORY-tmpmh3g4.md).

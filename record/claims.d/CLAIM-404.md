@@ -393,18 +393,18 @@ platform-unspecified), so this is illustration, not a test.
 
 ## Note of 2026-11-12: Boxer, McFowland and Neill, read
 
-From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](../literature.d/LIT-tmp14en7.md)), the reader's assessment as
 checked by the filer: result 8, re-arrest as outcome, is evidence shaped by
 the policing being evaluated.
 
 ## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
 
-From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
 checked by the filer: pageview targets as criteria redirecting labour (§2.2)
 are an instance, theorised not measured.
 
 ## Note of 2026-11-12: Radsch, read
 
-From the reading in NOTE-tmpylmyu (LIT-tmp5c2gi), the reader's assessment as
+From the reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) ([LIT-tmp5c2gi](../literature.d/LIT-tmp5c2gi.md)), the reader's assessment as
 checked by the filer: Radsch's "referral traffic" as the governing valuation
 benchmark set by the platform is close to the criteria route.

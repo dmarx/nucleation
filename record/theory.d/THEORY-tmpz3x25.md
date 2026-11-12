@@ -14,7 +14,7 @@ promote_when: >-
   pruning, circuit maturation and early behaviour, and their rescue when the
   cells are restored, are reproduced by a group other than the authors'.
 summary: >-
-  Schepanski et al., read in NOTE-tmpe8k6k (Read). Maternal cells (maternal
+  Schepanski et al., read in [NOTE-tmpe8k6k](../notes.d/NOTE-tmpe8k6k.md) (Read). Maternal cells (maternal
   microchimeric cells, MMc) transfer to the fetus and seed the fetal brain,
   concentrating in prefrontal cortex and hippocampus. By scRNA-seq, brain
   MMc are mostly microglia, plus T, B, endothelial and neuron-like cells.
@@ -28,4 +28,4 @@ Schepanski and colleagues (2022) show, in mice, that maternal microchimeric cell
 
 ## Evidence
 
-The reading in NOTE-tmpe8k6k; its key results are quoted there with locations.
+The reading in [NOTE-tmpe8k6k](../notes.d/NOTE-tmpe8k6k.md); its key results are quoted there with locations.

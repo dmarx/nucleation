@@ -63,10 +63,10 @@ Attention filter; k-th order CLA; attention floor; revealed preference relation 
 
 **On the LIT's and the exchange's characterization.** A's summary ("tests whether limited-attention models help recover preferences from choices over restricted consideration sets") is broadly right but undersells the result. The paper's point is that the standard model does not help, and that a minimal comparison assumption restores much of the recovery.
 
-- **QUESTION-tmpuftum** (item 2, inferred demands): supports and sharpens it. What an observer can infer from behaviour depends on an assumption about attention that the behaviour cannot itself fix. Under the weakest assumption almost nothing is inferred, and the inferred relation is model-relative. This gives formal content to "behavioral observations are evidence about a demand, not automatically the demand itself". It does not address who fixes the attention set, so selective exposure shaped by an organization is left open.
+- **[QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)** (item 2, inferred demands): supports and sharpens it. What an observer can infer from behaviour depends on an assumption about attention that the behaviour cannot itself fix. Under the weakest assumption almost nothing is inferred, and the inferred relation is model-relative. This gives formal content to "behavioral observations are evidence about a demand, not automatically the demand itself". It does not address who fixes the attention set, so selective exposure shaped by an organization is left open.
 
 - "limited attention", "consideration set" and "attention filter": nothing held. Not a duplicate: arXiv 2208.07659 and the DOI are found nowhere in record/.
-- "revealed preference": CLAIM-482 (an organization's aggregate revealed preference exists when winning moves never cycle and is fitted to one regime of authority) is a parallel. The preference revealed is relative to the model of the choosing process. LIT-2096 ("Rational Inefficiencies") and NOTE-949 (Slovic, the construction of preference) are also neighbours worth linking.
+- "revealed preference": [CLAIM-482](../claims.d/CLAIM-482.md) (an organization's aggregate revealed preference exists when winning moves never cycle and is fitted to one regime of authority) is a parallel. The preference revealed is relative to the model of the choosing process. [LIT-2096](../literature.d/LIT-2096.md) ("Rational Inefficiencies") and [NOTE-949](NOTE-949.md) (Slovic, the construction of preference) are also neighbours worth linking.
 
 ## Limitations
 

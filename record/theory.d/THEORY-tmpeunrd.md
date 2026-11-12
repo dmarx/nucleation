@@ -18,7 +18,7 @@ promote_when: >-
   causally upstream of, a perceptual or cognitive process in the whole
   subject.
 summary: >-
-  Boem, Greslehner, Konsman and Chiu, read in NOTE-tmphkmh6 (Read). The
+  Boem, Greslehner, Konsman and Chiu, read in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) (Read). The
   authors argue that 4E (embodied, embedded, enactive, extended) accounts of
   cognition and perception have neglected the gut and should include the
   "gut complex": the enteric nervous, endocrine, mucosal immune and
@@ -37,4 +37,4 @@ Boem, Greslehner, Konsman and Chiu (2024) argue that embodied accounts of cognit
 
 ## Evidence
 
-The reading in NOTE-tmphkmh6; its key results are quoted there with locations.
+The reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md); its key results are quoted there with locations.

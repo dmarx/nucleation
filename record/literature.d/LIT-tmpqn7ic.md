@@ -24,11 +24,11 @@ keywords: []
 implementations: []
 summary: >-
   Schepanski et al. (2022), DOI-10.1038/s41467-022-32230-2. Read on
-  2026-11-12 in NOTE-tmpe8k6k: Maternal cells (maternal microchimeric cells,
+  2026-11-12 in [NOTE-tmpe8k6k](../notes.d/NOTE-tmpe8k6k.md): Maternal cells (maternal microchimeric cells,
   MMc) transfer to the fetus and seed the fetal brain, concentrating in
   prefrontal cortex and hippocampus. By scRNA-seq, brain MMc are mostly
   microglia, plus T, B, endothelial and neuron-like cells. Its account is
-  THEORY-tmpz3x25. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpz3x25](../theory.d/THEORY-tmpz3x25.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A13 §2.
 ---
 <!-- inactive-ok-file: THEORY-tmpz3x25 — Proposed; filed from the same exchange -->
@@ -40,7 +40,7 @@ Steven Schepanski, Mattia Chini, Veronika Sternemann, Christopher Urbschat, Kris
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpe8k6k). Causal evidence that maternal
+Read on 2026-11-12 ([NOTE-tmpe8k6k](../notes.d/NOTE-tmpe8k6k.md)). Causal evidence that maternal
 microchimeric cells perform a functional regulatory role in fetal brain
 development, rather than being an inert "placental leak out".
 
@@ -48,5 +48,5 @@ development, rather than being an inert "placental leak out".
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §2. It bears on [CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md), [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpe8k6k and its account
-THEORY-tmpz3x25.
+Read on 2026-11-12; the reading is [NOTE-tmpe8k6k](../notes.d/NOTE-tmpe8k6k.md) and its account
+[THEORY-tmpz3x25](../theory.d/THEORY-tmpz3x25.md).

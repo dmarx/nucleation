@@ -121,7 +121,7 @@ which is the dispute between [THEORY-040](../theory.d/THEORY-040.md) and [THEORY
 
 ## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
 
-From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](../literature.d/LIT-tmp4zfda.md)), the reader's assessment as
 checked by the filer: provenance mapping in the question's 2026-11-12 note:
 the paper's "right in trust" is maintenance by others of a right whose
 formation and exercise are reserved to the child.

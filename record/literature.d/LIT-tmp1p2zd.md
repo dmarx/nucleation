@@ -24,7 +24,7 @@ keywords: []
 implementations: []
 summary: >-
   Boem et al. (2024), DOI-10.3389/fnins.2023.1172783. Read on 2026-11-12 in
-  NOTE-tmphkmh6: The authors argue that 4E (embodied, embedded, enactive,
+  [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md): The authors argue that 4E (embodied, embedded, enactive,
   extended) accounts of cognition and perception have neglected the gut and
   should include the "gut complex": the enteric nervous, endocrine, mucosal
   immune and microbiota systems with gut tissue, a functional rather than
@@ -32,7 +32,7 @@ summary: >-
   environment". They defend two perspectives: (1) the gut complex plays an
   important role in the perception and cognition "of the subject as a
   whole"; (2) it has "its own forms of proto-cognition and perception". Its
-  account is THEORY-tmpeunrd. Registered from the exchange "Medical Ethics
+  account is [THEORY-tmpeunrd](../theory.d/THEORY-tmpeunrd.md). Registered from the exchange "Medical Ethics
   and Media Enshitification" (2026-11-11), where A cited it at A15 §6.
 ---
 <!-- inactive-ok-file: THEORY-tmpeunrd — Proposed; filed from the same exchange -->
@@ -44,7 +44,7 @@ Federico Boem, Gregor P. Greslehner, Jan Pieter Konsman and Lynn Chiu (2024). "M
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmphkmh6). The "gut complex" concept; the proposal
+Read on 2026-11-12 ([NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md)). The "gut complex" concept; the proposal
 that non-neural gut components are constitutive of cognition; a call for
 microbiota–cognition studies to consider visceral perception as a mediator.
 
@@ -52,5 +52,5 @@ microbiota–cognition studies to consider visceral perception as a mediator.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A15 §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md), [CASE-047](../cases.d/CASE-047.md).
 
-Read on 2026-11-12; the reading is NOTE-tmphkmh6 and its account
-THEORY-tmpeunrd.
+Read on 2026-11-12; the reading is [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) and its account
+[THEORY-tmpeunrd](../theory.d/THEORY-tmpeunrd.md).
