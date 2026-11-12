@@ -145,3 +145,11 @@ its grammar from the configuration the amendment edits. The owner's review:
   is filed as an ARG or a CLAIM ([ADR-061](../decisions.d/ADR-061.md)), or a reading as grounds or as
   corroboration ([ADR-058](../decisions.d/ADR-058.md)), is the filer's judgement, guided by decisions no
   tool reads.
+
+## Note of 2026-11-12: Clark, Ciccarese and Goble, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Clark, Ciccarese and Goble** (THEORY-tmpes8q7): **Verdict: qualifies.** Micropublications is an earlier system of distinctions over claims. It has Claim, Statement, Data and Method types, and supports and challenges relations. It also makes judgements objects: a challenge or a similarity call is itself a micropublication. It therefore shows that the "referable object" half of CLAIM-469 is not new. The model's distinctions are fixed in an OWL vocabulary, with no provision in the paper for revising them through use. That puts the weight of CLAIM-469's distinctiveness on its last clause.
+
+The claim is unchanged.

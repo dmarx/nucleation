@@ -59,7 +59,7 @@ Idea space; hivemind; null hypothesis as negation; self-similarity bias; probabi
 
 ## Bearing on the record
 
-The exchange (A14's table, decoded line 635): "6,749 scientists rated AI-generated follow-up hypotheses relating to their research"; "Models showed limited diversity, did not spontaneously offer null hypotheses in the study, and automated judges agreed weakly with experts." Accurate to the abstract. Two qualifications: "limited diversity" holds for non-reasoning models (reasoning models diverged more); and "did not spontaneously offer null hypotheses" follows the abstract, while the body reports a lower rate than humans, not zero. [LIT-tmpsxqr6](../literature.d/LIT-tmpsxqr6.md) on the branch pairs it with Si et al. as theory-building comparisons; fair.
+The exchange (A14's table, decoded): "6,749 scientists rated AI-generated follow-up hypotheses relating to their research"; "Models showed limited diversity, did not spontaneously offer null hypotheses in the study, and automated judges agreed weakly with experts." Accurate to the abstract. Two qualifications: "limited diversity" holds for non-reasoning models (reasoning models diverged more); and "did not spontaneously offer null hypotheses" follows the abstract, while the body reports a lower rate than humans, not zero. [LIT-tmpsxqr6](../literature.d/LIT-tmpsxqr6.md) on the branch pairs it with Si et al. as theory-building comparisons; fair.
 
 The LIT names no code. On recheck:
 

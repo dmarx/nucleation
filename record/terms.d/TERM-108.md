@@ -104,3 +104,11 @@ same day), where the measured party acts on the measure.
 A claim of the record's own stated in it, or a reading of McLay and
 Mayorga's paper confirming its result against the abstract. Adopting it is
 the owner's call.
+
+## Note of 2026-11-12: Jackson et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Jackson et al.** (THEORY-tmpm8l7x): The Maintenance check (date-format version IRI) is the authors' own example of a proxy check they say does not establish the principle. Illustrates it.
+
+The term is unchanged.

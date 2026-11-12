@@ -110,7 +110,7 @@ alone. One refinement the record should carry: the ATMS does not "withdraw" beli
 AGM sense either; it keeps all data and lets the problem solver choose the context, and it
 treats retraction of a justification as something to avoid (result 11).
 
-- **CLAIM-tmp8qsef** (Proposed, branch `claude/file-luria-experiment-design`): *qualifies*.
+- **CLAIM-tmp8qsef** (Proposed): *qualifies*.
   It supports the contrast the claim draws (a TMS computes which data hold; the record only
   reports dependants). But it also shows where the impossibility half needs its scope stated:
   for edges read as Horn justifications (deductive, all-or-nothing), a rule reading only the
@@ -126,11 +126,11 @@ treats retraction of a justification as something to avoid (result 11).
 - **CLAIM-293** (Active): *supports by contrast*: the ATMS's correctness rests on edges being
   Horn implications; where they are, topology does fix revision. This is the boundary
   condition of CLAIM-293, not a counterexample to it.
-- **QUESTION-tmps5iou** (Open, branch): *leaves open*. The paper concerns belief maintenance
+- **QUESTION-tmps5iou** (Open): *leaves open*. The paper concerns belief maintenance
   over a fixed vocabulary, not schema change; it names no governed change of the problem
   solver's categories. It is prior art for "truth maintenance", against which
   CLAIM-tmp8qsef says what the record does not do, as the question says.
-- **CASE-tmpvq90k** (Proposed, branch; one symptom, several hidden causes) and **CASE-194**
+- **CASE-tmpvq90k** (Proposed; one symptom, several hidden causes) and **CASE-194**
   (Proposed): *bears*. Assumption-based diagnosis (components assumed working; a
   contradiction localizes the fault set; next measurement chosen to discriminate among
   unverified assumptions, result 6) and keeping rival solutions side by side for

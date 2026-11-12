@@ -64,3 +64,11 @@ speaker–audience relation, and he offers no observables; [CLAIM-227](CLAIM-227
 validated measure of footing. A narrowing to procedures would concede
 [CLAIM-230](CLAIM-230.md) but frees nothing. The claim waits on its own test: eliciting
 performative updates with stable response distributions.
+
+## Note of 2026-11-12: Singh, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Singh** (THEORY-tmpbt97y): Singh's operations as performatives on commitments are a neighbouring model of standing changed by speech acts; bears on how a filing or an ADR changes standing.
+
+The claim is unchanged.

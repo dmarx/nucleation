@@ -1,7 +1,27 @@
 ---
 status: Proposed
-title: 'The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and no rule reading only the support graph and the entries'' statuses could make that judgment correctly'
-version: 1
+title: 'The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and, since its relations record support of unrecorded strength rather than justifications taken as sufficient, no rule reading only the support graph and the entries'' statuses could make that judgment correctly'
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: Filed from the exchange "luria experiment design", in A's words.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Narrowed after the readings of 2026-11-12 of de Kleer's ATMS
+    (THEORY-tmpn7ukf), Doyle's TMS (THEORY-tmpd3j5r, standing in for
+    LIT-2291) and Lesser and Erman's Hearsay-II retrospective
+    (THEORY-tmpyxqep). Version 1 said no graph-only rule could decide
+    withdrawals, without saying of which graphs. Where every edge is a
+    justification taken as sufficient, a rule reading only the graph and
+    which assumptions are retired does compute what still holds: that is
+    what a truth maintenance system does, and the ATMS's labels are
+    "consistent, sound, complete and minimal with respect to the
+    justifications". The impossibility is now stated for the record's
+    relations, which are not of that kind, and the two readings that mark
+    the limit carry `bounds` to this claim. The derivation from CLAIM-293
+    is unchanged. One decision, in place of three overlapping notes.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -14,7 +34,12 @@ defeated_if: >-
   reporting design is what CLAIM-293 requires of any record whose relations
   carry no weights, not a shortfall against a truth-maintenance system.
   Not defeated by a reasoner that reads more than the graph, likelihoods or
-  dependence models, deciding correctly; the claim is about the graph.
+  dependence models, deciding correctly; the claim is about the graph. Not
+  defeated by a truth maintenance system deciding correctly over
+  justifications taken as sufficient (de Kleer, Doyle): the claim excludes
+  that case. Defeated if the record's own relations are shown to be such
+  justifications, so that retiring every `rests_on` and `grounds` target of
+  a claim settles that it falls.
 tags:
 - epistemology
 - logic
@@ -41,7 +66,7 @@ summary: >-
   graph cannot tell apart. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: LIT-2291 LIT-2320 — Deferred; registered from the same exchange, not read -->
+<!-- inactive-ok-file: LIT-2291 THEORY-tmpn7ukf THEORY-tmpd3j5r THEORY-tmpyxqep — LIT-2291 Unfetched, Doyle's IJCAI-79 summary read in its place; the readings are Proposed, filed 2026-11-12 -->
 
 # CLAIM-tmp8qsef: The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and no rule reading only the support graph and the entries' statuses could make that judgment correctly
 
@@ -76,6 +101,37 @@ in one of them under any standard that keeps H at 20:1 and withdraws it at
 whose relations carry no weights cannot compute withdrawals correctly
 from them, and reporting the dependants for a judgment that reads the
 evidence is what such a record can soundly do.
+
+**Where a graph-only rule does suffice.** The argument needs the edges to
+carry evidence whose strength the graph does not record. Where every edge
+is a justification taken as sufficient, a graph-only rule exists and is
+the truth maintenance system. In Doyle's TMS a node "is believed if at
+least one of these justifications is valid", and a support-list
+justification is valid "if each node in its inlist is in"
+(THEORY-tmpd3j5r); de Kleer's ATMS keeps each datum's label "consistent,
+sound, complete and minimal with respect to the justifications"
+(THEORY-tmpn7ukf). Both are correct relative to justifications the
+problem solver supplies and stipulates sufficient; neither weighs them.
+Even there the choice of what to withdraw on a contradiction is a choice:
+Doyle's backtracker "may be mistaken in its assignment of blame to that
+assumption". The record's relations are not justifications of that kind.
+`rests_on` names a premise a claim "could not stand without", a necessary
+premise and not a sufficient one, and `corroborates` and `grounds` carry
+evidence of unrecorded strength, which is CASE-089's situation. So the
+impossibility holds for the record as configured, and would fail for a
+record whose relations were redefined as sufficient justifications; that
+redefinition, not a cleverer rule, is what a truth-maintenance reading of
+the record would need.
+
+Practice points the same way without testing the claim. Hearsay-II's
+designers built automatic re-evaluation of credibility through the
+support network and dropped it: in the later configuration "hypothesis
+credibility is never modified in an explicit sense; rather, new and
+different hypotheses are created", since the state held at a hypothesis
+"does not adequately characterize the state(s) of the hypothesis
+network(s) connected to it" (THEORY-tmpyxqep). That is an automatic
+propagation scheme over weighted support given up in use, not a proof
+that none is correct.
 
 ## What it does not say
 

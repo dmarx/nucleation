@@ -241,3 +241,13 @@ prototypical or not against the term's blurb as it stood when the
 document was filed, and see whether the terms whose blurbs were later
 revised, or whose vocabularies were split, had more nonprototypical
 filings. No status, title or warrant changes.
+
+## Note of 2026-11-12: Jackson et al., Halilaj, Grangel-González, Coskun and Auer and Tudorache, Nyulas, Noy and Musen, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Jackson et al.** (THEORY-tmpm8l7x): OBO is a comparison case for how often a standard's revision is decision-documented; OBO's are tracked in issues, not in decision records.
+- **Halilaj, Grangel-González, Coskun and Auer** (THEORY-tmp706lw): Comparison class for "grammar amended by decision": Git4Voc has amendment by commit and discussion, not by decision record.
+- **Tudorache, Nyulas, Noy and Musen** (THEORY-tmphxh86): WebProtégé records schema changes but not decisions about them; the contrast is exactly CLAIM-419's "amendable by decision".
+
+The case is unchanged.

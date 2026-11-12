@@ -12,6 +12,8 @@ promote_when: >-
   transactive memory after Liang et al. (1995), and the indirect effect of
   anticipated membership change on performance through specialization with
   no effect of unanticipated change.
+bears_on:
+- QUESTION-108
 summary: >-
   The central account of LIT-tmpqrlv6, read in NOTE-tmpc14no. Proposed until
   its promote_when is met.

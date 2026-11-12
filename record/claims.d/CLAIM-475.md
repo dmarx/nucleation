@@ -253,3 +253,11 @@ status, title or warrant changes.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability proposes 𝒬_b(s), the questions an agent in state s can formulate within budget b, as "a proposed extension, not a definition already present in the record". It is this claim's askable set ([TERM-092](../terms.d/TERM-092.md)), which A17 §2 defined for an agent with concepts, budget and deadline; A's state s adds representations, memory and procedures, which [TERM-092](../terms.d/TERM-092.md)'s concepts, records and tools already cover. A's next points are this claim's consequences restated: answering one question may change the cost of formulating later ones, which "makes inquiry an architecture-changing computational process". What A adds bears on universality ([TERM-111](../terms.d/TERM-111.md)): a classification should count the cost of generating the problem representation, or it risks "classifying the power of an idealized solver". No status changes.
+
+## Note of 2026-11-12: Fang, Jian, Li and Ma, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Fang, Jian, Li and Ma** (THEORY-tmp9ispo): **supports the first half, as an instance**. Concepts keep laws concise enough for symbolic regression to find them. The paper's redundancy control speaks to the cost side but does not test the second half.
+
+The claim is unchanged.

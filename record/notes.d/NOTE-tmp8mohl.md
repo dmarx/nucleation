@@ -86,7 +86,7 @@ not A, if the note is upgraded.
   diagnostic or the score"). Its trade-off finding (result 6) is evidence that readiness to
   revise and resistance to irrelevant change come apart in current models. It is
   single-step, so it does not reach CASE-188's long-term commitment.
-- **CLAIM-tmp8qsef** (Proposed, branch) and **CLAIM-293** (Active): *leaves open*. Belief-R's
+- **CLAIM-tmp8qsef** (Proposed) and **CLAIM-293** (Active): *leaves open*. Belief-R's
   items are logical (additional premise defeats a conditional), the setting where a
   structural rule would suffice; it does not bear on weighted evidence.
 - **THEORY-347** / **NOTE-866** (belief bases, Hansson): result 2 (retract conclusion, keep

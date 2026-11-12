@@ -87,3 +87,11 @@ Together they suggest the condition is whether dissent drives the handling
 of information, not whether positions are visible. The question's second
 half, about others building on what dissent opens and about authority
 moving to them, is untouched. A THEORY waits for a reading.
+
+## Note of 2026-11-12: Stasser and Titus, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Stasser and Titus** (THEORY-tmpy4vu1): QUESTION-089 and CASE-144 cite hidden profiles; CASE-144 (an evaluator that weights agreeing evidence) shares the preference-consistent sampling mechanism.
+
+The question is unchanged.

@@ -12,6 +12,8 @@ promote_when: >-
   the accuracies (38.78%, 18.47%, 83.5%) and the minimal-tool-chain
   comparison are checked against the abstract, §1 and §5 of
   arXiv:2510.10909v4.
+bears_on:
+- QUESTION-108
 summary: >-
   The central account of [LIT-2295](../literature.d/LIT-2295.md), read in [NOTE-tmpyz4se](../notes.d/NOTE-tmpyz4se.md). Proposed until its
   promote_when is met.

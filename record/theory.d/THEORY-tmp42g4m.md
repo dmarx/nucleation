@@ -14,6 +14,7 @@ promote_when: >-
   Appendix A.5 of v2.
 bears_on:
 - QUESTION-tmp7a7l4
+- QUESTION-388
 summary: >-
   The central account of [LIT-2288](../literature.d/LIT-2288.md), skimmed in [NOTE-tmpto8o6](../notes.d/NOTE-tmpto8o6.md). Proposed until
   its promote_when is met.

@@ -12,6 +12,8 @@ source:
 promote_when: >-
   the 512-cap in n = 8 and the stated scope conditions are checked
   against the main text and Discussion of the Nature article.
+bears_on:
+- QUESTION-108
 summary: >-
   The central account of [LIT-2285](../literature.d/LIT-2285.md), read in [NOTE-tmp7xmjz](../notes.d/NOTE-tmp7xmjz.md). Proposed until its
   promote_when is met.

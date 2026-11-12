@@ -116,3 +116,11 @@ the other side.
   that both turn on revision of standards, not that the two senses are
   one. Whether Kahl's condition is right is [THEORY-219](../theory.d/THEORY-219.md)'s question; this
   claim does not need it.
+
+## Note of 2026-11-12: Yin et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Yin et al.** (THEORY-tmpsuvav): **leaves open**: the agent rewrites its procedures, not the objective or the evaluator, so it is evidence about reprogramming, not revision of governing standards.
+
+The claim is unchanged.

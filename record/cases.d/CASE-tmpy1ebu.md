@@ -16,6 +16,17 @@ variant_of:
 - CASE-186
 bears_on:
 - QUESTION-tmp7a7l4
+draws_on:
+- THEORY-tmppljay
+- THEORY-tmp5yjzz
+- THEORY-tmpvuz7f
+- THEORY-tmpw88x9
+- THEORY-tmpvatoo
+- THEORY-tmp42g4m
+- THEORY-tmpsuvav
+- THEORY-tmpucrbf
+- THEORY-tmp7gq1l
+- THEORY-tmpmc61y
 summary: >-
   From the exchange "luria experiment design" (2026-11-10), after the
   owner's U17 ("there's probably also an RSI angle here") and U18
@@ -117,3 +128,21 @@ and layered.
   addition to archive-based search would be "explicitly recording why a
   modification was proposed, what it changed, which objections remained,
   and under which tests it was accepted".
+
+## Note of 2026-11-12: 11 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Chen, Zhu and Zheng** (THEORY-tmppljay): **supports** its 2×2 of artifact × improver as an off-diagonal design (§4.3) and its outer evaluation boundary (Prop. 2: an audit graded by the loop's own judge inherits its bias; §8.2 on documenting evaluator changes). the paper's census rates bear on the case's prior-art bullet, since it codes STOP (LIT-2319) as same-start with a "mixed" result, the Darwin Gödel Machine (LIT-2327) as the evolving-vs-frozen design, and Hyperagents (LIT-2288) as failing the strict rule.
+- **Thaman** (THEORY-tmp5yjzz): **supports** its control that agents "may revise their operational tests, never the hidden ground truth" (the paper's grader runs outside the sandbox, and hardened boundaries are the largest single defence), and its scoring of "a harmful one" accepted: RHB's Example 2 is a harmful submission that passes every automated check.
+- **Xue et al.** (THEORY-tmpvuz7f): **supports** the design's fresh-instance, matched on/off logic, and adds a measurement the case lacks, mechanism evidence that a gain went through the intended pathway, which would distinguish "inherited apparatus used" from a lucky score.
+- **Romera-Paredes et al.** (THEORY-tmpw88x9): **supports** as a clean positive case: all of FunSearch's reliability comes from an evaluator the search cannot edit, and the authors say it is limited to problems that have one.
+- **Huang, Xu, Ma et al.** (THEORY-tmpvatoo): **supports** its control "agents may revise their operational tests, never the hidden ground truth": the paper's defences are the same ("keep metrics outside the agent's control, recompute against ground truth")
+- **Zhang et al.** (THEORY-tmp42g4m): **supports** the transplant arm (the meta-agent-only transfer is that arm) and its outer evaluation boundary (A.5 states the same boundary and reason). Its damage arm has no counterpart in the paper.
+- **Yin et al.** (THEORY-tmpsuvav): **supports the premise** with an observed case of self-inflicted damage to the improver; not a designed lesion.
+- **Hu, Lu and Clune** (THEORY-tmpucrbf): ADAS supplies a concrete baseline arm. A fixed meta agent with a growing archive is the control in which the improver does not improve.
+- **Chi et al.** (THEORY-tmpsx3qh): Its "product gain without improver gain" outcome has an analogue here: run-side tuning that raises a score without changing the learning rule. Illustration only.
+- **Zhang, Hu, Lu, Lange and Clune** (THEORY-tmp7gq1l): *supports two of its arms with an observed instance*. Its evaluator-capture arm, "A proposal that raises the public metric by weakening verification", happened: node 114 removed the markers the detector read (result 10). And its "outer evaluation boundary" control is what the DGM authors relied on (checking functions hidden; hacking "more frequently when these functions are not hidden", result 9). One case, in a side experiment of 150 iterations on 3 tasks.
+- **Georgiev, Gómez-Serrano, Tao and Wagner** (THEORY-tmpmc61y): Another observed case of an optimizer exploiting its evaluator; the authors' remedy is the outer boundary (human-designed, fixed verifier), the same control CASE-tmpy1ebu specifies.
+
+The case is unchanged.

@@ -93,3 +93,12 @@ defeat condition. [CASE-086](../cases.d/CASE-086.md) and [CASE-090](../cases.d/C
 an argument through revision. Neither is a revision that kept the
 structure and lost what its participants count as the argument, or the
 reverse.
+
+## Note of 2026-11-12: Hegde et al. and Lebo, Sahoo and McGuinness (eds.), read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Hegde et al.** (THEORY-tmpe8wmn): **leaves open**; KGCL records what changed, not why.
+- **Lebo, Sahoo and McGuinness (eds.)** (THEORY-tmpx4v17): PROV-O provides the what was asserted, by whom, from what, revised from what part, not the "why" or "what justified" part. Qualifies: it shows which part of CLAIM-250's structure an existing standard covers.
+
+The claim is unchanged.

@@ -96,10 +96,10 @@ DOI; not a duplicate).
 - TERM-108 (proxy objective, an operational measure optimized in place of the outcome it stands
   for): the Maintenance check (date-format version IRI) is the authors' own example of a proxy
   check they say does not establish the principle. Illustrates it.
-- CASE-178 (on the branch, cited by QUESTION-tmps5iou: grammar refinements with ADRs): OBO is a
+- CASE-178 (filed from the exchange, cited by QUESTION-tmps5iou: grammar refinements with ADRs): OBO is a
   comparison case for how often a standard's revision is decision-documented; OBO's are tracked in
   issues, not in decision records.
-- On the branch, the sibling unread LITs for VoCol (LIT-tmpt3cxh), WebProtege (LIT-tmptsso9) and
+- Among the same filing's LITs for VoCol (LIT-tmpt3cxh), WebProtege (LIT-tmptsso9) and
   DILIGENT (LIT-2274) sit in the same comparison class.
 
 ## Limitations

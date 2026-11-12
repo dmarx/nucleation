@@ -14,6 +14,8 @@ promote_when: >-
   and the reported verifier-exploitation ("cheating") phenomenon.
 corroborates:
 - CLAIM-266
+bears_on:
+- QUESTION-388
 summary: >-
   The central account of LIT-tmp37u5c, skimmed in NOTE-tmp8vzhm. Proposed
   until its promote_when is met.

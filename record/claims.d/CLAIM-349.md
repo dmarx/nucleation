@@ -364,3 +364,13 @@ make an accepted change, not whether the scientific proposition is true."
 A36 also proposes the safety arm this claim's overcontrol bears on:
 restrictions stated only in text against approval gates enforced outside
 the agent's writable environment. Not run. The claim is unchanged.
+
+## Note of 2026-11-12: Buçinca, Malaya and Gajos, Zhao, Liu et al. and Bansal et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Buçinca, Malaya and Gajos** (THEORY-tmphhyai): **supports, as a human instance.** The *on demand* and *update* conditions keep access to the AI's signal while delaying or conditioning its authority, and they reduce acting on wrong signals; but the paper's no-AI arm still does best on wrong-AI items, so conditional authority here does not reach the performance of no access on those items.
+- **Zhao, Liu et al.** (THEORY-tmpt5rqc): **supports, as an LLM instance.** The paper's λ is explicitly "revision authority" over access the model already has, and the optimum is conditional on the internal evidence.
+- **Bansal et al.** (THEORY-tmprmh1c): **Corroborates by analogy.** In the study, explanations changed the *authority* of the AI's signal (more agreement) without making that authority conditional on the signal's correctness; confidence display and adaptive explanations are attempts to make it conditional (Fig. 5: lower agreement on low-confidence items). That is CLAIM-349's separation observed in human-AI teams; the claim's own scope is organizational regulation.
+
+The claim is unchanged.

@@ -273,3 +273,16 @@ A50 §8 adds a distinction from Falbo ([LIT-tmpjqgyi](../literature.d/LIT-tmpjqg
 recognition stage: a contribution can be lost to "a missing category" or to
 "an existing category that systematically misclassifies relevant
 contributions". The claim is unchanged.
+
+## Note of 2026-11-12: 6 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Zhang et al.** (THEORY-tmp1vsf5): The gap between an integrated artifact and a satisfied dependency is a case of output admitted without uptake; illustrative, no stage-level measurement.
+- **Ghareeb et al.** (THEORY-tmpwrxy3): An illustration: Robin supplies admission and ranking (credibility) and humans retain uptake.
+- **Li, Naito and Shirado** (THEORY-tmp9qlii): **supports** as an instance: Reveal-All shows admission is the binding stage in this setting.
+- **Huang et al.** (THEORY-tmpjt57l): **supports, as an instance**. The 29.6% of fully recognised L2 issues that were not carried into calibration is recognition without uptake, measured in a single agent rather than an organization.
+- **Falbo** (THEORY-tmp0t4ni): **supports the recognition-to-credibility rung.** Falbo's positive hermeneutical injustice is a case where the contribution is admitted and intelligible, but not recognized in apt terms, and loses credibility and uptake as a result; and her note that marginalization covers the "revision, reinforcement" of resources matches the claim's last stage. It is a case from outside organizations, so it corroborates rather than demonstrates.
+- **Stasser and Titus** (THEORY-tmpy4vu1): **corroborates the separability of admission from uptake**: even unshared information that is held by a group member, and which the member was told might be news, fails to be admitted to discussion, and the group decision follows initial preferences. The paper does not separate recognition from credibility.
+
+The claim is unchanged.

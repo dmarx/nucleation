@@ -95,7 +95,7 @@ NOTE-1429; no duplicate). Missed by the first search:
   Active) and QUESTION-289 (whether a closed belief set fixes future revisions, Answered): the survey
   reports AGM-based ontology evolution as a research line; the record's AGM holdings are the theory
   it borrows from.
-- On the branch, the sibling unread LITs DILIGENT (LIT-2274), COPE/Edapt (LIT-tmp5mdsg), KGCL
+- Among the same filing's LITs DILIGENT (LIT-2274), COPE/Edapt (LIT-tmp5mdsg), KGCL
   (LIT-2313), VoCol, WebProtege and OBO (LIT-tmpk047v) are in the same comparison class; the survey
   predates most of them.
 

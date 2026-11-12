@@ -13,6 +13,16 @@ line:
 - record-as-apparatus
 bears_on:
 - QUESTION-tmps5iou
+draws_on:
+- THEORY-tmprcmsd
+- THEORY-tmpdui86
+- THEORY-tmp1o5v5
+- THEORY-tmpru0yr
+- THEORY-tmpqb5z0
+- THEORY-tmp4d13i
+- THEORY-tmpe8wmn
+- THEORY-tmph4vkf
+- THEORY-tmpxbva2
 summary: >-
   From the exchange "luria experiment design" (2026-11-10). The owner asked
   at U10 for "evaluations or benchmarks", "e.g. equip an agent with luria
@@ -116,3 +126,21 @@ scheme narrowed, an extension partly undone).
   ([LIT-tmp5mdsg](../literature.d/LIT-tmp5mdsg.md)), and KGCL ([LIT-2313](../literature.d/LIT-2313.md)), against which A48 would ask whether
   a change can be restated as "a precise, independently intelligible
   change specification".
+
+## Note of 2026-11-12: 11 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **DARPA** (THEORY-tmphkpxr): SAIL-ON's "update its model of the world" after "characterize how the world changed" is the agent-level analogue of revising categories; its novelty hierarchy is a ready-made way to grade "inadequate categories". **Leaves open.**.
+- **Liu and Yadav** (THEORY-tmp37mxv): **leaves open**. STATE-Bench varies only the memory system on fixed tasks. Nothing in it requires revising a schema or a procedure's representation. It could serve only as the "transfer" or downstream-utility check the exchange proposed, not as a test of governed schema adaptation.
+- **Bragg et al.** (THEORY-tmprcmsd): On controls: AstaBench's principle 3 (cost and tool access as confounders) **supports** the cases' control "Matched evidence, tools, models and budgets across arms". It is independent support from a benchmark-design paper.
+- **Boult et al.** (THEORY-tmpdui86): On the failure kind "schema inadequacy: the grammar cannot express the distinction" versus "missing evidence": **qualifies**. Boult's distinction between rejection under ambiguity (Chow) and recognition of an unknown corresponds to the case's split between "record the uncertainty" and "amend the grammar". The paper warns that a detector built for the first does not serve the second.
+- **Thorne, Vlachos, Christodoulopoulos and Mittal** (THEORY-tmp1o5v5): Its failure kind "missing evidence: the ambiguity cannot be resolved", with the correct response "record the uncertainty or ask for more; change nothing", has a direct analogue in FEVER's NOTENOUGHINFO label. FEVER's guidance to annotators to keep world knowledge out of the verdict is a precedent for scoring an abstention as correct. Bears as a design precedent, nothing more.
+- **OAEI** (THEORY-tmpru0yr): The Interactive track's oracle design is a precedent for the case's "deterministic rule-based simulator" reviewer. That reviewer is the exchange's design, not the case's text. Weak bearing.
+- **Anonymous** (THEORY-tmpqb5z0): **supports a design element and supplies a ready instrument**. The case's table of failure kinds includes "missing evidence … change nothing", and its rule is that tasks must include "cases where the correct action is no schema change". TRACE-OU-Bench builds both in: INSUFFICIENT_EVIDENCE, REJECT as "unwarranted, redundant", and many NO_UPDATE proposals. Its sequential snapshots match the case's demand that a repair be checked by "later operations on the repaired record". The difference: TRACE-OU scores a decision about a proposal. The case asks an agent to recognize the misfit, and to propose and migrate the change itself.
+- **Chong, Zhang, Fan and Du** (THEORY-tmp4d13i): **supports the design choice** of a performance-gated arm; the paper's reciprocal two-fold protocol (build and gate on one fold, test frozen on the other) is a usable template for that arm.
+- **Hegde et al.** (THEORY-tmpe8wmn): **supports** using a KGCL-style restatement as a check on change legibility; note the restatement covers content edits, so a schema change in luria would need change types KGCL does not have.
+- **Herrmannsdoerfer, Benz and Juergens** (THEORY-tmph4vkf): **supplies a baseline and a task taxonomy.** COPE's classification of changes (metamodel-only, metamodel-independent coupled, metamodel-specific coupled) can stratify the study's "schema inadequacy" items. An operation-based history with generated migrators is a natural "explicit migration, informal governance" arm.
+- **Orzechowski, Tawfiq and Kosciolek** (THEORY-tmpxbva2): **supports the scoring design**. The paper shows a schema-derived checker missing exactly the class of error CASE-tmppm4do cares about (changes of meaning), and checks whose flags corrupt correct work when acted on, which argues for the case's hidden-assertion oracle with known ground truth and for counting regressions. It also supplies a design lesson the case can adopt: compare every checker with a trivial baseline and with a random flag at the same rate.
+
+The case is unchanged.

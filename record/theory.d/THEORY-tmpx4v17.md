@@ -14,6 +14,8 @@ promote_when: >-
   attribution, invalidation and bundles, and that none of its classes or
   properties expresses evidential support or the acceptance or standing of a
   statement.
+bears_on:
+- QUESTION-225
 summary: >-
   The central account of LIT-tmphmnau, skimmed in NOTE-tmpqtavm. Proposed
   until its promote_when is met.

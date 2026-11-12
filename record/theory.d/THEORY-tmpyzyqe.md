@@ -12,6 +12,8 @@ promote_when: >-
   the filing confirms the abstract's "twice as fast", "capability-gated"
   and "leaving measured originality unchanged" statements and the §1 slopes
   (+1.16 vs +0.54 per year).
+bears_on:
+- QUESTION-108
 summary: >-
   The central account of [LIT-2275](../literature.d/LIT-2275.md), skimmed in [NOTE-tmpr3qku](../notes.d/NOTE-tmpr3qku.md). Proposed until
   its promote_when is met.

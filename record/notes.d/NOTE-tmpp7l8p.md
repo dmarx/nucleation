@@ -85,7 +85,7 @@ QUESTION-tmpxq2sb says A31 named CooperBench "as external tests" and that it is
 "registered unread". Accurate: it is a cooperation benchmark usable as a transfer check.
 The record has no finding attributed to it, so nothing to correct.
 
-- **QUESTION-tmpxq2sb** (Open, branch): *supports the premise, leaves the question open*.
+- **QUESTION-tmpxq2sb** (Open): *supports the premise, leaves the question open*.
   CooperBench shows that a free-text channel between agents with private states can change
   behaviour (fewer conflicts) without improving integration of their work (results 4–5), and
   that failures are of commitment and expectation, not only of information exchange
@@ -94,14 +94,14 @@ The record has no finding attributed to it, so nothing to correct.
   (result 9), is close to what a typed record of who committed to what would supply. In
   CLAIM-403's stages, CooperBench's failures sit at uptake (commitments made, then not
   acted on) and at expectation, not at admission.
-- **CLAIM-tmpyp3u3** (Proposed, branch: a shared record shows contributions and standing,
+- **CLAIM-tmpyp3u3** (Proposed: a shared record shows contributions and standing,
   not that collaborators know the standing): *supports*. Agents "hold incorrect
   expectations about their partner’s plans" (§1) even with messages exchanged and read;
   access to a message is not evidence of a shared model of it.
 - **CLAIM-346** (Active; feasibility, aggregation and epistemic coordination are
   independent obstructions): *illustrates*. Solo succeeds where Coop fails at equal
   workload, so the failure is coordination, not feasibility.
-- **CASE-tmpiocs1** (Proposed, branch): a candidate transfer task, as A31 proposed.
+- **CASE-tmpiocs1** (Proposed): a candidate transfer task, as A31 proposed.
 
 ## Limitations
 

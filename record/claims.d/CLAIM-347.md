@@ -391,3 +391,11 @@ A9 §4 of the exchange (2026-11-06 to 07): "Silencing an oscillator is not the s
 ## Note of 2026-11-07: a product line's admissible feature combinations, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), defines the admissible feature combinations of a product version, K_v, and says: "When the feature constraints are purely permissive and downward-closed, this is a simplicial complex. With mandatory features and other nonmonotonic configuration requirements, the admissible configurations are better represented directly by a constraint system rather than assuming simplicial structure." That is this claim's complex of jointly satisfiable demands, for a product line. The reader checked it on {offline, e2e, collab} with offline and collab in conflict: the faces are the empty set, the three vertices, {e2e, offline} and {collab, e2e}, so the minimal non-face is the conflict. A's caution about mandatory features is right. A does not cite this claim. No status changes.
+
+## Note of 2026-11-12: de Kleer and Williams, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **de Kleer and Williams** (THEORY-tmpglid0): **parallel construction**, not a citation: in both, a downward-closed family is determined by its minimal violating sets.
+
+The claim is unchanged.

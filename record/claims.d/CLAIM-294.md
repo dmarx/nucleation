@@ -136,3 +136,11 @@ provenance" as an ablation that loses revision). This claim's own "What it
 does not say" is against that reading: "Keeping the joint over (H, C) is
 enough here, with no history at all." The misreading recurs. A1 of the
 same exchange did keep the warning.
+
+## Note of 2026-11-12: Park et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Park et al.** (THEORY-tmp5rm74): The memory stream keeps the history but no structure of dependence, so a reflection whose evidence later changes is not revisited; illustrates what the claim says a record must keep beyond conclusions, and that keeping observations is not enough.
+
+The claim is unchanged.

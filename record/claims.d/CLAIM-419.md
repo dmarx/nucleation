@@ -238,3 +238,18 @@ any was a nearest-wrong choice was not checked. The audit A25 proposed,
 rereading the sources against the grammar of their day, remains the test;
 it was not run. The claim is unchanged. The wording is the assistant's
 (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-12: 8 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Chong, Zhang, Fan and Du** (THEORY-tmp4d13i): **contrast case**. Here misfits found in trajectories are answered by schema patches accepted on measured gain, with no decision record beyond the log.
+- **Hegde et al.** (THEORY-tmpe8wmn): **contrast**. In the OBO workflow, content change is reviewed by PR and, as the paper describes it, the change language itself is extended by "community-driven use cases"; no decision record is described.
+- **Fang, Jian, Li and Ma** (THEORY-tmp9ispo): **analogy only**, not claimed: AI-Newton extends a law's form when a case fails, but its DSL (the grammar) is fixed.
+- **Jackson et al.** (THEORY-tmpm8l7x): **corroborates by analogy**, not support: OBO's principles are revised when found imprecise, and the checks themselves were revised after false positives and negatives a standard and its checker both under amendment. It is about a different object (member ontologies' conformance, not a record's own grammar).
+- **Orzechowski, Tawfiq and Kosciolek** (THEORY-tmpxbva2): CLAIM-419 and QUESTION-tmps5iou: the finding that a curated schema "disagrees with its own data" is the schema-misfit situation CLAIM-419 describes from the record's side; the paper's remedy (validate the ontology against a data-derived summary before each release) is a governance step.
+- **Flouris et al.** (THEORY-tmplwnpv): **corroborates by analogy**: the survey lists discovering "a design flaw in the original conceptualization" as a standard reason for changing an ontology and gives a process for it; it says nothing on how often misfits are caught.
+- **Halilaj, Grangel-González, Coskun and Auer** (THEORY-tmp706lw): Comparison class for "grammar amended by decision": Git4Voc has amendment by commit and discussion, not by decision record.
+- **Tudorache, Nyulas, Noy and Musen** (THEORY-tmphxh86): WebProtégé records schema changes but not decisions about them; the contrast is exactly CLAIM-419's "amendable by decision".
+
+The claim is unchanged.

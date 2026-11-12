@@ -189,3 +189,11 @@ show social injustice; A50 §8 says the same of Fricker ([LIT-1004](../literatur
 ([LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md)). A31 names a related risk: "Incorrect information given a
 stable identifier and a typed relationship may become more authoritative
 than the same mistake in a provisional message." Open.
+
+## Note of 2026-11-12: Falbo, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Falbo** (THEORY-tmp0t4ni): **qualifies**, by adding a second mechanism. The question is lacuna-shaped (a move without a code is lost); Falbo shows the other path: a move can have a scheme available and still be filed under a dominant scheme that preempts the apt one, with the credibility loss she describes ("the denial of Miller’s credibility and thus diminished her status as a knower"). Leaves the question open; widens what an answer must check (misfiling, not only non-filing)
+
+The question is unchanged.

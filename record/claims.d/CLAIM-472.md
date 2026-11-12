@@ -165,3 +165,11 @@ implications", "Remains intelligible to other collaborators", and
 feature is that these desiderata can conflict." A50 reads [ADR-061](../decisions.d/ADR-061.md) as such a
 change: "not simply a correction to a database schema". The claim is
 unchanged.
+
+## Note of 2026-11-12: Leitgeb and Carus, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Leitgeb and Carus** (THEORY-tmptmk90): *supports the first half, with a source*. Carnap's framework choice is "a normative or practical question" with "no right or wrong answers" (result 5), evaluated by how frameworks "worked better" for purposes: evaluation, not verification. Carnap's explication desiderata are a worked set of evaluation criteria held as matters of degree (results 7–8). Qualification: Carnap's "no right or wrong answers" is stronger than CLAIM-472's second half, which indexes exclusions to "a standard, a scale and those affected"; the entry's §1.8 reading (practical reason governs the choice) narrows the gap.
+
+The claim is unchanged.

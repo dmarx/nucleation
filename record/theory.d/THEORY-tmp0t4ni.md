@@ -14,6 +14,8 @@ promote_when: >-
   latter in a failure of application or conceptual aptness while the concept
   is available, ties it to diminished credibility as a giver of knowledge,
   and concludes that filling gaps is insufficient for hermeneutical justice.
+bears_on:
+- QUESTION-072
 summary: >-
   The central account of LIT-tmpjqgyi, read in NOTE-tmp3iwtu. Proposed until
   its promote_when is met.

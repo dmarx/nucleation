@@ -136,3 +136,11 @@ tested.
   on the record.
 - That an early anchor has locked in a framing here.
 - Anything with standing of its own.
+
+## Note of 2026-11-12: Park et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Park et al.** (THEORY-tmp5rm74): 7.2's "overly cooperative" agents whose interests are reshaped by others' suggestions is a converse failure (no anchoring at all), not evidence for either side.
+
+The account is unchanged.

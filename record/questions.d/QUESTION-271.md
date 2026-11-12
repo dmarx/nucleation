@@ -170,3 +170,14 @@ approval policy does not independently protect anything when the agent can
 also modify the branch protections, tests and approval credentials." "This
 is a boundary of the implementation, not something that can be solved by
 stronger instructions in the record." The test is in [CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md). Open.
+
+## Note of 2026-11-12: 4 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Liu and Yadav** (THEORY-tmp37mxv): The benchmark keeps the scorer (deterministic assertions) outside the agent for state tasks, but uses LLM judges for procedure and user experience. That is a mixed instance of separating evaluator from optimized system.
+- **Lu et al.** (THEORY-tmpl4czv): Bears as an example. The authors validate the judge against human decisions once, then rely on it.
+- **Srikanth et al.** (THEORY-tmpdjm1o): The improvers do not control the grade; leaves open.
+- **Bao et al.** (THEORY-tmpq26fh): **bears on, leaves open**. A reward model trained on expert judgements beats the human agreement floor; the paper itself warns it distils "current taste", not the practice by which criteria change.
+
+The question is unchanged.

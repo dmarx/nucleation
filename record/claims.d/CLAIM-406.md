@@ -220,3 +220,11 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
   al. gloss Pohlhaus's term secondhand ("the continued misunderstanding or
   misinterpretation of marginalized experiences despite their
   articulation"), which is not a reading of Pohlhaus.
+
+## Note of 2026-11-12: Falbo, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Falbo** (THEORY-tmp0t4ni): Falbo's "preemption" is hermeneutical, not testimonial pre-emption in CLAIM-406's sense (not being asked); the shared word should not be read as the same mechanism. CLAIM-619's reclassification of a challenge is close to her "defeat" by a distorting concept.
+
+The claim is unchanged.

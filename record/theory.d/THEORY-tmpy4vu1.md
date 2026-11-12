@@ -13,6 +13,8 @@ promote_when: >-
   candidate), the group-decision proportions (83% vs. 18% choosing the
   best-supported candidate), the plurality-wins pattern, the recall finding,
   and the biased sampling model as the authors' explanation.
+bears_on:
+- QUESTION-089
 summary: >-
   The central account of LIT-tmpmnde8, read in NOTE-tmp2jzmr. Proposed until
   its promote_when is met.

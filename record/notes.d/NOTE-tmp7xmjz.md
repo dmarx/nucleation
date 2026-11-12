@@ -56,7 +56,7 @@ skeleton; Kolmogorov-compressed inductive bias; interpretability of discovered p
 
 ## Bearing on the record
 
-No new entry on the branch cites [LIT-2285](../literature.d/LIT-2285.md); the exchange named it as reading (the registration
+No entry filed from the exchange cites [LIT-2285](../literature.d/LIT-2285.md); the exchange named it as reading (the registration
 curation lists it). The LIT's tags (mathematics, agency) fit. Nothing to correct beyond metadata.
 
 - **[CASE-tmpy1ebu](../cases.d/CASE-tmpy1ebu.md)** (outer evaluation boundary: agents may revise operational tests, never hidden

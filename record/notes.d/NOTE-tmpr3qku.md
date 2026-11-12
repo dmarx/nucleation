@@ -76,12 +76,12 @@ compute-matched baseline.
 ## Bearing on the record
 
 The LIT says nothing beyond "cited ... as a reading"; the registration lists
-it as work 43, and the exchange's content curation on the branch does not
+it as work 43, and the exchange's content curation does not
 cite it in any new entry. Its relevance to the luria program is indirect: it
 is an evaluation-design paper on who controls the evidence an agent reasons
 from. No characterization to correct.
 
-The LIT names none, and no entry or the exchange's branch
+The LIT names none, and no entry filed from the exchange
 cites it.
 
 - **[QUESTION-108](../questions.d/QUESTION-108.md)** (when a structured record does better than a summary,

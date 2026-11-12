@@ -15,6 +15,7 @@ promote_when: >-
   of recursively improved improvers over the seed.
 bears_on:
 - QUESTION-tmp7a7l4
+- QUESTION-388
 corroborates:
 - CLAIM-266
 summary: >-

@@ -222,3 +222,11 @@ more.
 - It does not say every persistent commitment is rigid. Persistence is
   sometimes the flexible response ([CLAIM-349](CLAIM-349.md)); rigidity is persistence
   when revision is warranted.
+
+## Note of 2026-11-12: Zhao, Liu et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Zhao, Liu et al.** (THEORY-tmpt5rqc): **supports** by analogy: the protection principle preserves strong priors against weaker external support while letting stronger support revise.
+
+The claim is unchanged.

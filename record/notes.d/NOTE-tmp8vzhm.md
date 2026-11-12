@@ -85,7 +85,7 @@ the preprint's.
   the system exploited its leaks (result 7); the authors' remedies are better-designed
   verifiers (one problem contrasts a fast floating-point "leaky" verifier with a slower
   rational-arithmetic one, §6, p. ~38) and, in rare cases, proof and formalization (result 4).
-- **CASE-tmpy1ebu** (Proposed, branch; outer evaluation boundary) and **LIT-2286 /
+- **CASE-tmpy1ebu** (Proposed; outer evaluation boundary) and **LIT-2286 /
   LIT-2276** (reward hacking, Deferred): another observed case of an optimizer exploiting
   its evaluator; the authors' remedy is the outer boundary (human-designed, fixed
   verifier), the same control CASE-tmpy1ebu specifies.

@@ -125,3 +125,11 @@ this term's sense. A48 §6 splits it into question formulation, question
 execution, and negative transfer, "Does the new representation make other
 legitimate questions harder to ask or answer?" [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) uses the
 three. The definition is unchanged.
+
+## Note of 2026-11-12: Majumder et al., read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Majumder et al.** (THEORY-tmpzmf41): **leaves open**; workflow length as a difficulty measure is a crude analogue, not a test.
+
+The term is unchanged.

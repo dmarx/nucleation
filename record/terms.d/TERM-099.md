@@ -27,6 +27,8 @@ refines:
 - TERM-023
 complements:
 - TERM-100
+draws_on:
+- THEORY-tmp9ispo
 summary: >-
   At the owner's review of 2026-11-03. "Self-formation" had appeared
   uncoded in [CLAIM-022](../claims.d/CLAIM-022.md)'s note of 2026-11-02, [CLAIM-540](../claims.d/CLAIM-540.md),
@@ -82,3 +84,11 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07)
 ## Note of 2026-11-07: the caution against always-disposed explanations, from "Individuation, Possibility, and Disposition"
 
 A52 §13: "We should not explain every novelty by claiming that the system was always disposed to produce exactly that novelty." "That would render the theory unfalsifiable." This supports the term's "Installation" exclusion and its requirement of formation provenance ([CASE-191](../cases.d/CASE-191.md)). A52 states the definition correctly. A45 §XIII and §XVI drift from it, dropping "on a discrepancy it cannot yet resolve" and the service to a class of later demands. Unchanged.
+
+## Note of 2026-11-12: Fang, Jian, Li and Ma, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Fang, Jian, Li and Ma** (THEORY-tmp9ispo): **an instance in a formal system**. A general law failing in a new experiment is the discrepancy; the added term (elastic potential energy) becomes a concept registered in the theory base and reused across later experiments.
+
+The term is unchanged.

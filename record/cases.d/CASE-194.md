@@ -42,6 +42,8 @@ illustrates:
 - CLAIM-535
 - CLAIM-357
 - CLAIM-523
+draws_on:
+- THEORY-tmpglid0
 summary: >-
   A8's Proposal E, from the exchange "Organizational Nucleation and SLT"
   (2026-11-04). Three organizations have identical task performance. Their
@@ -163,3 +165,14 @@ version 2 of this case says too. A50 names its prior art, model-based
 diagnosis from first principles and of multiple faults ([LIT-2271](../literature.d/LIT-2271.md),
 [LIT-2316](../literature.d/LIT-2316.md), unread): "Diagnosing different hidden failures through targeted
 probes is not a new experimental idea." The construction is unchanged.
+
+## Note of 2026-11-12: 4 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Reiter** (THEORY-tmp6koy4): **leaves open / qualifies**. The case's three causes can be cast as components in Reiter's sense, and the theory then says the observation "50% on one task" has several diagnoses that only further measurement separates, which matches the case. But the case's point that the observational cause is "infeasible only relative to its observation-limited policies" is not a component fault and has no place in SD/COMPONENTS without remodeling. The construction is unaffected.
+- **Kephart and Chess** (THEORY-tmptc3ih): Figure 1's problem determiner, which uses inter-element dependencies to pick the culprit among three suspect modules, is a model-based diagnosis step inside the loop. Illustration only.
+- **de Kleer and Williams** (THEORY-tmpglid0): **illustrates the formal setting**: three diagnoses consistent with one observation, separated only by further measurement. Sherlock assumes the component structure is given; CASE-194's causes include the authority rule, which in GDE terms would have to be modelled as a component.
+- **He** (THEORY-tmpr79u7): Equal score trajectories in DGM are "compatible" with selection over undirected variation. Only a randomized intervention on the evidence shown separates the explanations. That is the same methodological point CASE-194 makes, that equal performance does not identify the cause. The paper's editable vs unreachable causes (§6) parallel CASE-194's actuation vs observation limits. It does not instantiate CASE-194's three arms.
+
+The case is unchanged.

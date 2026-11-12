@@ -14,6 +14,7 @@ promote_when: >-
   arXiv:2410.04444v4.
 bears_on:
 - QUESTION-tmp7a7l4
+- QUESTION-388
 summary: >-
   The central account of [LIT-2290](../literature.d/LIT-2290.md), read in [NOTE-tmpxkc03](../notes.d/NOTE-tmpxkc03.md). Proposed until its
   promote_when is met.

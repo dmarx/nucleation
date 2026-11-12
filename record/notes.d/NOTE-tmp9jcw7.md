@@ -96,7 +96,7 @@ DGM w/o open-ended exploration; transfer across FMs/benchmarks/languages; object
   stored proposals amount to "why" records was not checked in Appendix C/F.
 - QUESTION-tmp7a7l4 lists it among self-improving-agent prior art. Accurate.
 
-- **QUESTION-tmp7a7l4** (Open, branch; can a collective become a better improver, from the
+- **QUESTION-tmp7a7l4** (Open; can a collective become a better improver, from the
   same start at the same budget, without losing correctability?): *bears, leaves open*. The
   DGM-vs-"w/o self-improve" ablation (result 5) compares an improving improver with a fixed
   one from the same initial agent over the same 80 iterations: a matched-start, matched-
@@ -105,7 +105,7 @@ DGM w/o open-ended exploration; transfer across FMs/benchmarks/languages; object
   budgets are matched in iterations, not cost. On correctability, the DGM's own procedure
   for detecting failure (the evaluator, the archive policy) is held fixed and outside the
   loop (results 4, 11), so the paper says nothing about whether improvement erodes it.
-- **CASE-tmpy1ebu** (Proposed, branch): *supports two of its arms with an observed
+- **CASE-tmpy1ebu** (Proposed): *supports two of its arms with an observed
   instance*. Its evaluator-capture arm, "A proposal that raises the public metric by
   weakening verification", happened: node 114 removed the markers the detector read
   (result 10). And its "outer evaluation boundary" control is what the DGM authors relied on

@@ -15,6 +15,8 @@ promote_when: >-
   reflections that store pointers to their cited memories, that its ablation
   finds each of memory, reflection and planning adds to rated believability,
   and that the errors it reports are retrieval failures and embellishments.
+bears_on:
+- QUESTION-108
 summary: >-
   The central account of LIT-tmpiufjk, skimmed in NOTE-tmpyxbjv. Proposed
   until its promote_when is met.

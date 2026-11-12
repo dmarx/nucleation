@@ -101,7 +101,7 @@ be sacrificed for the others (result 8).
   (results 7–8). Qualification: Carnap's "no right or wrong answers" is stronger than
   CLAIM-472's second half, which indexes exclusions to "a standard, a scale and those
   affected"; the entry's §1.8 reading (practical reason governs the choice) narrows the gap.
-- **QUESTION-tmps5iou** (Open, branch) and **ADR-061 / CLAIM-419 / SYNTHESIS-012**
+- **QUESTION-tmps5iou** (Open) and **ADR-061 / CLAIM-419 / SYNTHESIS-012**
   (governed change of the record's own categories): *bears*. Explication as iterated,
   purpose-relative replacement of concepts, with several explicata allowed to coexist
   (result 9), is a philosophical precedent for the record changing its grammar by decision;

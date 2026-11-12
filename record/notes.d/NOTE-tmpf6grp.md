@@ -49,7 +49,7 @@ Experiment base, theory base; physical DSL; dynamical concepts, intrinsic concep
 
 ## Bearing on the record
 
-The exchange (A14, decoded line 624), citing the PRR version (4 Nov 2026): "Instead of fitting an equation to one dataset, it proposes physical concepts and progressively generalizes across experiments. It recovered familiar physical laws from noisy mechanics data", "though the laws themselves were not new". Accurate to the arXiv letter. "Noisy mechanics data" is simulated data with added Gaussian errors, which the exchange does not say.
+The exchange (A14, decoded), citing the PRR version (4 Nov 2026): "Instead of fitting an equation to one dataset, it proposes physical concepts and progressively generalizes across experiments. It recovered familiar physical laws from noisy mechanics data", "though the laws themselves were not new". Accurate to the arXiv letter. "Noisy mechanics data" is simulated data with added Gaussian errors, which the exchange does not say.
 
 The LIT names no code. Found on recheck:
 

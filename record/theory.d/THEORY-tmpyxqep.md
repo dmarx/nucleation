@@ -15,8 +15,6 @@ promote_when: >-
   explicitly, creating new hypotheses instead and never deleting any.
 bears_on:
 - QUESTION-tmpxq2sb
-corroborates:
-- CLAIM-tmp8qsef
 summary: >-
   The central account of LIT-tmpsj7au, read in NOTE-tmp83mjv. Proposed until
   its promote_when is met.

@@ -230,3 +230,12 @@ that govern the account. A50 §3 maps Polski and Ostrom's operational,
 collective-choice and constitutional rules ([LIT-tmp5rs7c](../literature.d/LIT-tmp5rs7c.md), unread) onto the
 same positions. [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) carry the design. The
 claim is unchanged.
+
+## Note of 2026-11-12: Basurto, Kingsley, McQueen, Smith and Weible and Polski and Ostrom, read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Basurto, Kingsley, McQueen, Smith and Weible** (THEORY-tmpqtonx): **leaves open**; the paper codes who must do what, not positions of rule-making, monitoring and revision.
+- **Polski and Ostrom** (THEORY-tmpymq8w): **Supports in part.** The seven rule types, especially position, boundary and authority, together with the three levels, give a richer profile than "more or less governance". This is consistent with CLAIM-410's claim that authority can be eliminated, distributed or transferred. The chapter does not discuss deregulation as such.
+
+The claim is unchanged.

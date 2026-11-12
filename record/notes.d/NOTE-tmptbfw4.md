@@ -54,7 +54,7 @@ Theory as a set of laws with scope and evidence; backtesting; predictive precisi
 
 The exchange (A14) reports about 13,700 source papers, about 2,900 theories and about 4,600 later papers, and says "literature grounding improved both historical consistency and prediction of later research results". **Accurate**, with one qualification. In the accuracy-focused condition the precision gain is small (0.88 vs 0.90). The large gains are in the novelty-focused condition and in recall. Its line 706 framing, "Assess theories with predictions against withheld or subsequently published results", is a fair statement of the paper's evaluation design.
 
-The LIT names no codes, and no branch entry cites [LIT-2297](../literature.d/LIT-2297.md). The content curation left A14's survey to the works' readings.
+The LIT names no codes, and no entry filed from the exchange cites [LIT-2297](../literature.d/LIT-2297.md). The content curation left A14's survey to the works' readings.
 - **[QUESTION-tmpxq2sb](../questions.d/QUESTION-tmpxq2sb.md) / [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md)**: no direct bearing.
 - **[CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) / [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)**: no direct bearing.
 - The paper's THEORY format (law, scope, evidence) parallels this record's THEORY schema (claim, `source:`, `promote_when:`). Its backtesting is an instance of what the exchange's A17 proposed for step 12, a prospective result recorded before the evidence. The content curation lists that among "Proposals about this record's procedures", not filed. This paper is the empirical precedent for that proposal. It shows a prediction recorded before the evidence can be scored at scale, and that the scoring depends on a "strong test requirement".

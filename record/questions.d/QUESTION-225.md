@@ -61,3 +61,11 @@ proof that preservation needs traceability. For the revision question
 [QUESTION-105](QUESTION-105.md) asks, the rewrite results matter less than the invariance
 [THEORY-367](../theory.d/THEORY-367.md) now holds. They decide whether a stored witness basis survives
 query optimisation.
+
+## Note of 2026-11-12: Lebo, Sahoo and McGuinness (eds.), read
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Lebo, Sahoo and McGuinness (eds.)** (THEORY-tmpx4v17): A database-provenance line distinct from PROV's workflow provenance; PROV-O does not address query provenance.
+
+The question is unchanged.

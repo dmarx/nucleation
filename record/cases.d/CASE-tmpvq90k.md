@@ -16,6 +16,11 @@ variant_of:
 - CASE-194
 bears_on:
 - QUESTION-tmpxq2sb
+draws_on:
+- THEORY-tmp6koy4
+- THEORY-tmp0twjb
+- THEORY-tmpglid0
+- THEORY-tmpn7ukf
 summary: >-
   From the exchange "luria experiment design" (2026-11-10), A47 and A48,
   after the owner's U20 ("flesh this out further") on A's synthesis of the
@@ -98,3 +103,15 @@ structure is at fault. From [LIT-tmp5jugw](../literature.d/LIT-tmp5jugw.md): rep
 repair and held-out net improvement separately, since repairing a target
 did not reliably improve held-out problems. A distorting category, against
 a missing one ([LIT-tmpjqgyi](../literature.d/LIT-tmpjqgyi.md)), is a further cause A50 would add.
+
+## Note of 2026-11-12: 5 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Reiter** (THEORY-tmp6koy4): **supports** the prior-art claim that candidate-cause sets and measurement-based discrimination are established, and supplies the formal baseline A50 asks for ("a conventional model-based diagnostic planner"). It also **qualifies** the design in two ways the case does not yet state: (1) Theorem 5.7 says a probe can create new, larger diagnoses, so a scoring rule that rewards narrowing a fixed candidate list would mis-score the multiple-cause worlds; (2) Reiter's theory needs the failable parts enumerated in advance (§7), which is exactly what fails when the cause is a missing or distorting category (A50's added cause, LIT-tmpjqgyi).
+- **Xie et al.** (THEORY-tmp0twjb): **closely related precedent**. MechHypoBench likewise holds the observations fixed, varies the hidden mechanism, and scores by consequences under withheld conditions, not by wording. That is a scoring method the case could adopt.
+- **Kephart and Chess** (THEORY-tmptc3ih): Figure 1's problem determiner, which uses inter-element dependencies to pick the culprit among three suspect modules, is a model-based diagnosis step inside the loop. Illustration only.
+- **de Kleer and Williams** (THEORY-tmpglid0): **supports the prior-art paragraph and sharpens the baseline**. The study's probe budget, "keep several hypotheses or ask for another measurement", and scoring of "probe efficiency" are GDE/Sherlock's minimum-entropy probing over candidate sets; A50's proposed baseline, "a conventional model-based diagnostic planner operating over the same explicitly defined failure model", is this kind of system. Sherlock's unknown mode is the formal counterpart of the case's siblings that "are underdetermined by every permitted probe": a cause outside the modelled modes is localized but not identified.
+- **de Kleer** (THEORY-tmpn7ukf): *bears*. Assumption-based diagnosis (components assumed working; a contradiction localizes the fault set; next measurement chosen to discriminate among unverified assumptions, result 6) and keeping rival solutions side by side for "differential diagnosis" (result 7) are the classical machinery for the diagnose-before- repair task those cases propose. Its multi-fault successor is LIT-2316 (Deferred)
+
+The case is unchanged.

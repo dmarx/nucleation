@@ -12,6 +12,8 @@ promote_when: >-
   the in/out rule, the SL validity condition and the backtracking steps
   (maximal assumptions, nogood, culprit, possible misattribution) are
   checked against §2 and §4 of the IJCAI-79 paper.
+bounds:
+- CLAIM-tmp8qsef
 summary: >-
   The central account of [LIT-tmpw8wtg](../literature.d/LIT-tmpw8wtg.md), read in [NOTE-tmpyvofd](../notes.d/NOTE-tmpyvofd.md). Proposed until
   its promote_when is met.

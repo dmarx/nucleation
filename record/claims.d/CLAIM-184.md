@@ -258,3 +258,14 @@ proposes the same danger as a counter-hypothesis to test in any evaluation
 of the record, and A43 adds its forms across generations: "loss of source
 diversity, repeated citation of derivative claims as independent evidence,
 or progressively narrower categories". The claim is unchanged.
+
+## Note of 2026-11-12: 4 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Xue et al.** (THEORY-tmpvuz7f): The Update failure, old evidence "remains active after correction", is a small empirical instance of the claim's condition; E2's suppression of superseded entries at render time is the remedy the claim names. Supports, illustratively.
+- **Park et al.** (THEORY-tmp5rm74): 7.2's "overly cooperative" agents whose interests are reshaped by others' suggestions is a converse failure (no anchoring at all), not evidence for either side.
+- **Xu et al.** (THEORY-tmpkjz86): A-MEM is a contrast case. Its notes are addressable but rewritten in place, so nothing persists to entrench, and nothing persists to audit either. It neither supports nor tests these claims.
+- **Bansal et al.** (THEORY-tmprmh1c): §6.3's anchoring point (AI answer shown first) is a human-side instance. Mention only.
+
+The claim is unchanged.

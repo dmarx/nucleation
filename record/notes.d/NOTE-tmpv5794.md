@@ -91,7 +91,7 @@ The LIT names no code and no new entry cites LIT-2321. Bearings found:
 - **LIT-2307** (Deferred; "From Scientific Observations to Mechanisms: Benchmarking
   Hypothesis Generation"): a sibling benchmark from the same exchange; HypoBench's
   observation-to-explanation definition is the same framing. Leaves open.
-- **LIT-tmpsxqr6** (Si et al., Deferred, branch) and **LIT-2329** (Li et al.): HypoBench
+- **LIT-tmpsxqr6** (Si et al., Deferred) and **LIT-2329** (Li et al.): HypoBench
   explicitly separates its task from Si et al.'s ideation (result 3), which matters for how
   the record groups the "AI theory-building" works: Si et al. rate ideas, HypoBench and
   Li et al. score explanations against data.

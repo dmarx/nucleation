@@ -106,7 +106,7 @@ error-sensitive updating; scientific monoculture.
   states): *bears*. The authors' speculation that LLMs may "not maintain an explicit belief
   state at all" (result 6) is a reason a record, not the agents' context, would have to
   carry what was previously held for revision to be incremental.
-- **QUESTION-tmpxq2sb** (Open, branch) and **CLAIM-403** (Active): *bears on aggregation*.
+- **QUESTION-tmpxq2sb** (Open) and **CLAIM-403** (Active): *bears on aggregation*.
   Homogeneous LLM crowds gained less from aggregation (results 1, 9); in a team of agents
   from one model family, adding members adds little independent evidence.
 - **LIT-999 / NOTE-840** (Golub & Jackson, wisdom of crowds) and **LIT-046 / NOTE-055**

@@ -53,7 +53,7 @@ characterise, adapt, update.
 
 ## Bearing on the record
 
-No new entry on the branch cites [LIT-2292](../literature.d/LIT-2292.md); the registration lists it as a cited reading. It is a
+No entry filed from the exchange cites [LIT-2292](../literature.d/LIT-2292.md); the registration lists it as a cited reading. It is a
 programme description, so any claim the exchange attached to SAIL-ON about results would not be
 supported by this work; nothing in the filed entries makes such a claim.
 
@@ -61,7 +61,7 @@ supported by this work; nothing in the filed entries makes such a claim.
   regime leaving the hypothesis family is SAIL-ON's open-world novelty; the four-step list
   (detect, characterise, adapt, update model) is a **parallel decomposition** to the case's
   separation of evidence generation, admission and scoring. **Leaves open**; no data.
-- **[CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)** (governed schema adaptation, branch) and **[CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md)** (governance raises
+- **[CASE-tmppm4do](../cases.d/CASE-tmppm4do.md)** (governed schema adaptation) and **[CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md)** (governance raises
   the value of a modifiable schema where categories are inadequate): SAIL-ON's "update its model
   of the world" after "characterize how the world changed" is the agent-level analogue of revising
   categories; its novelty hierarchy is a ready-made way to grade "inadequate categories".

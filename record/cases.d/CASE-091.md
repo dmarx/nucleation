@@ -21,6 +21,11 @@ tags:
 date: '2026-10-15'
 line:
 - records-of-inquiry
+draws_on:
+- THEORY-tmpaxysg
+- THEORY-tmp5rm74
+- THEORY-tmp5vepa
+- THEORY-tmpo4vs4
 summary: >-
   A6's fifth case, refined from A3, A4 §4 and A5. The design [QUESTION-108](../questions.d/QUESTION-108.md) asks
   for. Not run.
@@ -79,3 +84,15 @@ dependency report as an arm. A39 adds a precedent from group research:
 transactive-memory experiments that separate knowing who knows what from
 communication itself ([LIT-tmpmvfl2](../literature.d/LIT-tmpmvfl2.md) and [LIT-2272](../literature.d/LIT-2272.md), unread). The design is
 unchanged; the study remains unrun.
+
+## Note of 2026-11-12: 5 readings of the works of "luria experiment design"
+
+Read on 2026-11-12 among the works of the exchange "luria experiment design"; each reading's NOTE and THEORY hold the detail.
+
+- **Hu, Wang and McAuley** (THEORY-tmp5vepa): A candidate external task for its revision condition.
+- **Jung, Rubinstein, Uselis, Yun and Oh** (THEORY-tmpo4vs4): MEME is a candidate external task for its revision arm; information-equivalent conditions correspond to MEME's gold-facts ceiling.
+- **Wu et al.** (THEORY-tmpaxysg): LongMemEval §5.2 compares value choices "in a budget-aware manner", the same control the case requires; a usable external task for the case's arms.
+- **Park et al.** (THEORY-tmp5rm74): This paper's ablation is a believability ablation of the same kind of components, at the coarse grain CASE-091 is designed to refine.
+- **Blanchet and Michinov** (THEORY-tmpcfp6p): Leaves open; no memory-format manipulation.
+
+The case is unchanged.
