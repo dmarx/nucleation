@@ -29,7 +29,7 @@ reported_in:
 - NOTE-703
 - NOTE-706
 ---
-<!-- inactive-ok-file: LIT-tmp1p2zd — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-166 — Proposed; the threshold criterion and the owner's claim this case serves, open -->
 
 # CASE-047: Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person
@@ -74,3 +74,18 @@ the person. A15's point for [QUESTION-033](../questions.d/QUESTION-033.md) is th
 depend on the intervention, microbial signals, enteric activity or central
 response. Boem and colleagues' "gut complex" ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md), unread) is the
 theoretical framing A recommends.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+checked by the filer: **supports the case's framing**. The "gut complex"
+names the intermediate level the case's 2026-11-12 note adds; the paper's
+insistence that the four systems work together supports the case's "drive
+from below that is not a single part". It adds no data. Other held entries
+it bears on (found on recheck):
+
+## Note of 2026-11-12: Almarzooqi et al., read
+
+From the reading in NOTE-tmpleweb (LIT-tmp42smw), the reader's assessment as
+checked by the filer: the GF, FMT and probiotic-trial details agree with the
+case's bullets.

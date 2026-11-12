@@ -40,7 +40,6 @@ summary: >-
   functional incorporation at the level of cells, and leaves gradedness
   of individuality open ([ARG-tmp51yxc](../arguments.d/ARG-tmp51yxc.md)).
 ---
-<!-- inactive-ok-file: LIT-tmps2df6 — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpsdg4x — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpxmmhb — Proposed; filed from the same exchange -->
@@ -165,3 +164,17 @@ Fetal cells persisting in the mother for her
 lifespan are recruited to repair her tissue, a foreign-lineage cell doing
 the host's maintenance work, with CCR2 dependence and a virgin-mouse
 negative control establishing the fetal-cell mediation.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+checked by the filer: **supports the premise, not the gradedness**. It
+documents bidirectional, decades-long persistence and an intervention
+showing maternal cells do work in the offspring's immune regulation, and its
+authors draw an identity conclusion for the immune system ("forces
+reconsideration of how we define immunological identity"). That is A11's
+"immunological boundary" coming apart from the genetic one, exactly; it says
+nothing about organismal individuality being graded. Consistent with
+ARG-tmp51yxc's reading ("the premise, not the gradedness"). The
+instigators-not-beneficiaries line (result 5) is a function claim, in A11's
+third step (causal contribution to host function) for tolerance only.

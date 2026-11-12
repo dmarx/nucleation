@@ -166,3 +166,15 @@ restoring A to its pre-shock value leaves the system collapsing to (0,0).
 The paper's conclusion that "recovery may require joint changes in both
 platform policy and creator participation" matches the claim's second route,
 rebuilding the activity directly; the paper says "may".
+
+## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
+
+From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+checked by the filer: the paper bears only by its policy remark that funding
+indexed to outlet presence may miss hollowed titles; no hysteresis is shown.
+
+## Note of 2026-11-12: Radsch, read
+
+From the reading in NOTE-tmpylmyu (LIT-tmp5c2gi), the reader's assessment as
+checked by the filer: and the "lock-in" thesis (result 7): a policy-level
+assertion of path dependence, not a demonstration.

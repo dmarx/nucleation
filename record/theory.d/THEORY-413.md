@@ -110,3 +110,10 @@ co-author Aktipis's cancer-across-the-tree-of-life work (LIT-740, held) is
 the sibling multicellularity-cheating application. Supports keeping
 THEORY-413's role-separation in view; the review does not itself adjudicate
 units-of-selection disputes.
+
+## Note of 2026-11-12: Sullivan et al., read
+
+From the reading in NOTE-tmpm8u4z (LIT-tmp18mi5), the reader's assessment as
+checked by the filer: the authors' framing is that sickness states are host
+adaptations (host as beneficiary), with adaptiveness explicitly not yet
+tested.

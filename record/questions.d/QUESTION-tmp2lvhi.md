@@ -22,6 +22,7 @@ summary: >-
   directives. The record held no question on surrogate authority. The
   wording is A's.
 ---
+<!-- inactive-ok-file: NOTE-tmpzb2cf — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-464 — Proposed; Dufner's reading that identity is not what decides -->
 <!-- inactive-ok-file: TERM-083 — Proposed; moral standing, which the question takes as given -->
@@ -119,3 +120,24 @@ provision (occurrent intolerable suffering) is necessary, and the earlier
 wish only selects among actions the duty of care already permits. It is an
 instance of the "welfare" answer gating the "earlier wishes" answer, within
 one legal framework.
+
+## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
+
+From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+checked by the filer: **bears directly, gives one answer the question lists,
+and supplies A9's test variables**. The paper rejects welfare (third-party
+benefit–risk judgment) as the ground for nonvoluntary intimate procedures
+and grounds the limit in the future person's interest in deciding, a right
+"held in trust" (results 5, 7): projected future agency, not earlier wishes.
+It sorts A9's comparison exactly by the variables A9 names: medically
+necessary, non-postponable surgery is permitted with parental permission;
+elective procedures are not, whatever the parents' reasons or expected
+welfare. Its asymmetry argument (result 6) is a reason, independent of
+welfare, why surrogate authority should default to postponement when a later
+decision remains possible. It does not discuss advance directives, so the
+asymmetry the question names is not addressed, and it presupposes, rather
+than defends, that the open-future interest is a ground of its own, which is
+what Millum (LIT-tmpapwfu) disputes. Its restriction to genital anatomy
+rests on that anatomy's social meaning, so it does not offer a general
+account of surrogate authority. Other held entries it bears on (found on
+recheck):

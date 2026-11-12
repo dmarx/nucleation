@@ -50,3 +50,9 @@ The review's synthesis of its cited studies and its 29 experts' questions
 That microchimerism makes mother and offspring partly one organism, or that
 it grades individuality. The review speaks of "a complex interaction
 between two genetically distinct individuals".
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+checked by the filer: a later review covering the same phenomena; Kinder's
+is the earlier source of the "microchiome" framing.

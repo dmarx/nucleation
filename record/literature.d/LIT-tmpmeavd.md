@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Pakpahan et al. (2026), DOI-10.1093/sxmrev/qeag075. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A2 ("Where I'd start reading"). It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md). In A's account, which is unverified until read, it is a scoping review of 31 studies finding that the ethics of circumcising minors differs across therapeutic, religious, traditional, public-health and family-preference contexts.
 ---
+<!-- inactive-ok-file: NOTE-tmpzb2cf — Skimmed; the reading filed from the same exchange -->
 
 # LIT-tmpmeavd: Ethics of male circumcision in minors: a scoping review of parental authority, adolescent involvement, and implications for sexual medicine practice and policy
 
@@ -33,3 +34,9 @@ Cennikon Pakpahan, Natasha Susanto Utomo, Markus Christian Hartanto, Andri Rezan
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A2 ("Where I'd start reading"). It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
+
+## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
+
+From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+checked by the filer: and **LIT-tmpapwfu** (Millum, "No Right to an Open
+Future", branch, unread): the nearest neighbours on both sides.

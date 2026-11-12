@@ -40,6 +40,7 @@ summary: >-
   entries that turn on formation provenance, so that they can cite it.
   [ADR-056](../decisions.d/ADR-056.md)'s proposed kinds would class it as a disambiguation.
 ---
+<!-- inactive-ok-file: NOTE-tmpzb2cf — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: TERM-066 CLAIM-544 CLAIM-545 THEORY-040 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 CLAIM-329 — Proposed, Open, Deferred or new; cited as open -->
 
 # TERM-100: provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (what it was made from, the sense the descent term holds)
@@ -117,3 +118,10 @@ What a record of formation provenance would have to contain, which is
 [QUESTION-071](../questions.d/QUESTION-071.md)'s part 2. And whether formation provenance matters in itself, or
 only as evidence about something present the record has not yet located,
 which is the dispute between [THEORY-040](../theory.d/THEORY-040.md) and [THEORY-328](../theory.d/THEORY-328.md).
+
+## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
+
+From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+checked by the filer: provenance mapping in the question's 2026-11-12 note:
+the paper's "right in trust" is maintenance by others of a right whose
+formation and exercise are reserved to the child.

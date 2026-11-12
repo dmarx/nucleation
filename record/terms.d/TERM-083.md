@@ -45,6 +45,7 @@ draws_on:
 - THEORY-554
 - THEORY-699
 ---
+<!-- inactive-ok-file: NOTE-tmpzb2cf — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: ADR-095 THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
@@ -136,3 +137,9 @@ legal personhood, and which the legislature then neutralized by immunity
 without touching the classification. A worked example of TERM-083's point
 that standing claims must name the claim and what follows; the legal
 analogue is "children for the purposes of the Wrongful Death Act".
+
+## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
+
+From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+checked by the filer: the paper takes the child's standing as given and
+argues what follows for others' authority.

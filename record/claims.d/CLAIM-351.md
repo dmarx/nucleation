@@ -145,3 +145,9 @@ encompassing success does not establish its constituents') and of
   demands may still be frustrated at second order or globally. In the
   construction the frustration is also global: L₁ + L₂ = 2θ² + 2 ≥ 2, so
   no θ makes both losses less than 1.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+checked by the filer: the same structure in fairness auditing: aggregate
+parity can hide offsetting subgroup violations.

@@ -47,6 +47,8 @@ summary: >-
 bears_on:
 - QUESTION-302
 ---
+<!-- inactive-ok-file: NOTE-tmpzb2cf — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-447 — Proposed; the presupposed account, filed in the same batch; if it falls this one needs another premise -->
 <!-- inactive-ok-file: THEORY-448 THEORY-546 THEORY-650 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
@@ -200,3 +202,18 @@ checked by the filer: qualifies, in the same way. It holds that the
 metaphysics of persistence constrains ethical questions without settling
 them; Żuradzki, following Dasgupta, takes judgments of prudence and
 responsibility to guide theorizing about persistence conditions.
+
+## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
+
+From the reading in NOTE-tmpzb2cf (LIT-tmp4zfda), the reader's assessment as
+checked by the filer: the paper's ground is what the child "will inevitably
+come to" feel about their body, a forward relation between infant and adult
+that does not rest on identity claims; consistent with A9 §3's suggestion
+reported in the question.
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in NOTE-tmpastp1 (LIT-tmp5fwhc), the reader's assessment as
+checked by the filer: and **CLAIM-tmpn0ytb** (microchimerism): Finn
+deliberately sets aside the post-birth relation (fn. 14) and ethical
+conclusions.

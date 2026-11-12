@@ -42,6 +42,7 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdcebe — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd — Deferred; registered from the same exchange, unread -->
@@ -152,3 +153,29 @@ cheap substitute (LLM text) entering a quality-assurance practice where
 effort is unpaid and time-pressed, with lower engagement and more uniform
 output. It says nothing of demand or attention; it is evidence for the
 capability-displacement theme, not for the claim's selection mechanism.
+
+## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
+
+From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+checked by the filer: **qualifies**. It documents the content-level outcome
+the claim predicts (loss of original local civic reporting, displacement by
+scalable non-local lifestyle content) and names metric regimes ("pageview
+targets and story-per-shift quotas") among its mechanisms. But it does not
+isolate attention optimization from cost-driven syndication under
+consolidation, which it treats as the principal logic; it is closer to A's
+own "strongest rival" (collapse of the older subsidy, with optimization as
+adaptation) than to a test between them. It does not measure investigations.
+
+## Note of 2026-11-12: Radsch, read
+
+From the reading in NOTE-tmpylmyu (LIT-tmp5c2gi), the reader's assessment as
+checked by the filer: **qualifies / adds a parallel mechanism**. Radsch's
+account of news economics runs through intermediary market power and
+referral dependence, not reader attention per se: what journalism is "worth"
+is set by the platform's benchmark (referral traffic), which is a criterion
+imposed from outside. It supports the claim's premise that revenue routes
+shape what news can be funded and that local, civically valuable outlets
+lose most, but it offers no evidence on clickbait or investigations
+specifically. Its externality point (journalism's civic and model-quality
+value not captured by the price) parallels the claim's step 2. Other held
+entries it bears on (found on recheck):

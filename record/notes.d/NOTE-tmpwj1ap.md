@@ -1,0 +1,134 @@
+---
+status: Read
+paper: LIT-tmp2hne0
+title: 'de Roos and Willkomm (2026) — Crossing the Line: Factors Associated With Escalating Pornography Use'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Europe PMC full-text XML of
+    PMC13447799 (the published version, open access), via
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13447799/fullTextXML,
+    fetched 2026-11-12, converted to text. Read: abstract, introduction,
+    methods, results, discussion, limitations, conclusion, footnotes. -
+    Skipped / not available in the text extraction: the contents of Tables
+    1–5 (only titles extracted), so per-category percentages, factor
+    loadings and regression coefficients were not read. The reference list
+    was not read. Outcome as the reader gave it: **Read** (full text, except
+    the tables' cell values).
+date: '2026-11-12'
+summary: >-
+  A cross-sectional online survey of 228 men aged 18–35 (mostly students,
+  recruited through a university participant pool and social media) asked
+  about arousal to and viewing frequency of many pornography categories, and
+  measured sexual sensation seeking (SSS), problematic pornography use (PPCS
+  subscales), child-sexual-abuse myth endorsement and peer acceptance of
+  CSAM. "Escalation" is operationalized per category as viewing frequency
+  multiplied by reverse-coded arousal: viewing a category more than one
+  finds it arousing. A principal-component analysis finds five escalation
+  clusters. The work is framed by CSAM prevention: whether escalation from
+  mainstream to extreme content, rather than prior sexual interest in
+  children, explains some CSAM use.
+---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
+
+# NOTE-tmpwj1ap: de Roos and Willkomm (2026) — Crossing the Line: Factors Associated With Escalating Pornography Use
+
+## Contribution
+
+An arousal-discounted, per-category escalation index; a five-factor structure
+of escalation; evidence that different clusters have different correlates; a
+finding that the "Non-Traditional Niche" cluster, not the Extreme/Harmful one,
+is the one associated with reported CSAM engagement.
+
+## Key results
+
+1. **Index (Analyses).** "multiplying the reported frequency of viewing the
+   category (0 = never, 4 = all the time) by a reverse-coded arousal score";
+   "we interpret as indicative of escalation."
+2. **Absolute vs relative (Results).** "Consistent with H1, absolute arousal
+   and viewing were highest for mainstream content. Relative content
+   escalation, however, was disproportionately observed in more extreme
+   categories such as S&M/bondage, fetish, teen, group sex, and violent sex."
+3. **Five clusters (Results).** "(1) Dominance/Degradation, (2)
+   Extreme/Harmful, (3) Non-Traditional Niche, (4) Normative and (5) Atypical
+   Escalation", explaining "50.27% of total variance".
+4. **Correlates (Results).** Dominance/Degradation model "explaining 27.3% of
+   variance"; "SSS and tolerance were significant, positive predictors";
+   Extreme/Harmful "explained only 10.7% of variance"; Normative and
+   Non-Traditional Niche models "were not significant".
+5. **Magnitude (Discussion).** "escalation was observed across all content
+   types, though its magnitude was low."
+6. **CSAM link (Discussion).** "only the Non-Traditional Niche content
+   escalation was reliably associated with engagement of CSAM"; "these
+   findings challenge linear models assuming progression toward extreme
+   content predicts CSAM use."
+7. **Not longitudinal (Present Study; Discussion).** "a definitive test of
+   escalation would require longitudinal data"; "these pathways remain
+   conceptual in the present cross-sectional data".
+8. **Situational drivers (Discussion).** Escalation in "the Normative and
+   Non-Traditional Niche clusters was largely independent of measured
+   psychosocial variables, highlighting the potential role of situational
+   factors, such as ease of access, repeated exposure".
+
+## Assumptions
+
+- Viewing a category more than its arousal warrants indexes desensitization
+  ("consistent with desensitisation processes"), though the authors concede it
+  "may also reflect individual differences in curiosity, openness, or
+  exploratory tendencies".
+- Self-report of sensitive behaviour is usable; 19% missing demographics.
+- PCA on N = 228 is stable (the authors call the sample "modest").
+
+## Concepts
+
+Content escalation; desensitization / tolerance; arousal–viewing decoupling
+(after Paul 2009); sexual sensation seeking; problematic pornography use
+(PPCS: salience, mood modification, conflict, tolerance, relapse,
+withdrawal); CSA myths; normophilic vs paraphilic content; non-linear,
+multidimensional escalation.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A27's account ("a cross-sectional study of 228 men finding heterogeneous
+clusters of reported content escalation") is **accurate**. Two cautions the
+record should carry: "escalation" here is a cross-sectional index of viewing
+beyond arousal, **not** change over time; and the paper's own headline is
+that escalation is non-linear and low in magnitude, with the extreme cluster
+not the one tied to CSAM.
+
+- **CLAIM-tmpcv1pg** (industries reading demand from heavy users drift toward
+  more extreme content; heavy users habituate and seek more extreme material):
+  **leaves the escalation step open; weakly qualifies it**. The paper does
+  not measure heavy users, does not observe escalation over time, and finds
+  escalation "low" and branching rather than a single drift toward
+  extremity. Its "relative escalation" in S&M, fetish, teen, group and
+  violent categories is consistent with habituation-driven exploration but
+  equally with curiosity. Nothing in it bears on the claim's structural part
+  (supply following heavy users); it agrees with A27 §3 that the loop does not
+  need escalation. It supports the claim's caveat that "niche, unconventional,
+  intense, aggressive, and harmful are not interchangeable categories": the
+  paper separates Non-Traditional Niche from Extreme/Harmful, with
+  different correlates.
+
+Other held entries it bears on (found on recheck):
+- **LIT-1465** (taxonomy of addictive design features, held, read): the
+  paper's "tolerance" and "relapse" PPCS subscales are the individual-side
+  constructs that taxonomy addresses; nothing in this paper concerns design.
+
+Searched origin/main `record/` for: desensiti(z/s)ation (no hits),
+habituation (hits are neuroscience and learning notes, unrelated),
+escalation (hits concern conflict escalation in cases and arguments,
+unrelated), pornography (LIT-1465, NOTE-1016 only). **Not already held**
+under another LIT (DOI and title absent on main and on the branch, other
+than this LIT).
+
+## Limitations
+
+Cross-sectional self-report; a convenience sample of young, mostly student,
+mostly heterosexual men, not heavy users; the escalation index is a proxy
+whose validity is assumed; low base rates for illegal-content items; PCA and
+nine-predictor regressions on 228 participants; tables not read here.

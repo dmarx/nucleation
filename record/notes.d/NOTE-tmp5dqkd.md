@@ -1,0 +1,164 @@
+---
+status: Read
+paper: LIT-tmp4a5du
+title: 'Hasler (2026) — Gut consciousness: a perspective on visceral phenomenal awareness'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 for the reading pass the owner asked for ("read the
+    works you can reach"), from a reader's draft the filer verified against
+    the downloaded text. Copy and extent: - Europe PMC full-text XML of
+    PMC13704771, via
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13704771/fullTextXML,
+    fetched 2026-11-12, converted to text. Read in full: abstract, §1–§11
+    (Introduction with §1.1, ENS, interoception, the four frameworks,
+    minimal phenomenality, self-modelling, embodiment, immune self/non-self,
+    comparative, clinical, §9 "Telling the two theses apart", §10
+    objections, conclusion). Not read: the cells of Table 1 (frameworks
+    applied to the ENS; only its title extracted) and the reference list.
+    Outcome as the reader gave it: **Read** (full text, open access,
+    published version).
+date: '2026-11-12'
+summary: >-
+  Hasler argues that the enteric nervous system (ENS) is a candidate
+  substrate of consciousness on several leading theories. He separates two
+  "logically independent" theses: the **contributory thesis** (enteric
+  processing makes a large contribution to the one consciousness of the
+  whole animal) and the **partial-subject thesis** (the ENS is a second, far
+  simpler locus of experience whose experiences are not the person's). He
+  holds the first well supported, the second "a live and testable
+  candidate". He reviews the ENS's scale (200–600 million neurons), autonomy
+  after denervation, sensory resolution and immune coupling; evaluates IIT
+  (promising, but its exclusion postulate makes the partial-subject question
+  the question of where the integration maximum lies), GWT (weakest fit:
+  "the ENS integrates but has not been shown to broadcast"), predictive
+  processing (permissive, so a fit shows little), and marker-based
+  approaches. He proposes five tests and answers four objections, raising a
+  "jointly constituted" phenomenal field as a third possibility.
+---
+<!-- inactive-ok-file: CLAIM-166 CLAIM-412 CLAIM-432 THEORY-043 THEORY-045 THEORY-063 THEORY-298 THEORY-436 THEORY-560 THEORY-606 THEORY-691 THEORY-875 — Proposed; cited as on the record -->
+
+# NOTE-tmp5dqkd: Hasler (2026) — Gut consciousness: a perspective on visceral phenomenal awareness
+
+## Contribution
+
+A clear separation of contribution from multiplication of subjects; a
+research programme of five discriminating tests; an explicit concession that
+"There is no existing tradition that supports the claim examined here".
+
+## Key results
+
+1. **Two theses (§1.1).** "The two theses are logically independent. The
+   contributory thesis can be true while the partial-subject thesis is false,
+   and that is the default reading of contemporary interoceptive and embodied
+   accounts".
+2. **Evidence bears on the first (§1.1).** The scale, autonomy and clinical
+   phenomena "all show that the gut computes a great deal ... none of it is
+   by itself evidence of a second subject."
+3. **IIT exclusion (§4.1).** "if the ENS and the CNS together form a single
+   complex, enteric elements contribute to the person's experience and
+   constitute none of their own"; the vagal bottleneck question "is the same
+   question as the partial-subject question".
+4. **Embodiment is silent (§5).** "distribution and multiplication are
+   different claims"; embodied theories "hold that the person thinks with the
+   gut, not that the gut thinks."
+5. **Self/non-self proves too much (§6).** "a bacterium discriminates self
+   from non-self ... without any temptation to call it conscious. Such
+   discrimination is at most a necessary condition".
+6. **Five tests (§9).** (i) informational segregation: "Discriminations the
+   gut makes that are not represented centrally cannot be contents of the
+   whole-organism subject"; (ii) persistence under disconnection; (iii)
+   structured dissociation: "evidence that the enteric evaluation is
+   integrated across enteric contents while remaining unintegrated with the
+   central one"; (iv) where the maxima of integration lie; (v)
+   pharmacological double dissociation.
+7. **Possible limit (§9).** "It is possible that no observation settles the
+   partial-subject question".
+8. **Eating (§4, section "Self-modelling, attention, and behavioural flexibility").** "The contribution of the gut is not decision but
+   valuation"; "Eating therefore does not decide between the theses".
+9. **Microbiome (Conclusion).** It names "the microbiome whose metabolic
+   voice participates in the very signals the gut integrates" but makes no
+   claim of microbial experience or agency.
+10. **Jointly constituted field (§10).** Changes the question "from 'one or
+    two?' to how much of the joint field each locus constitutes".
+
+## Assumptions
+
+Phenomenal consciousness in Nagel's sense, requiring intentionality and
+pre-reflective self-awareness (Zahavi); functional markers that "accompany
+minimal awareness in every case where we independently accept it" are
+evidence of candidacy (Birch's precautionary logic); IIT's formalism can in
+principle be applied to the ENS; several empirical claims rest on secondary
+citation (e.g. IV vs oral psychedelic nausea).
+
+## Concepts
+
+Contributory vs partial-subject thesis; phenomenal vs access consciousness;
+unity of subject vs phenomenal unity vs access unity; IIT exclusion postulate
+and integration maxima; global workspace ignition vs "clearing house";
+precision-weighting as the mark of inference; informational segregation;
+persistence under disconnection; structured dissociation (split-brain
+template); jointly constituted phenomenal field; somatocognitive disorders.
+
+## Bearing on the record
+
+**On the LIT's and the exchange's characterization.** A14/A15's account ("separates a contributory thesis ... from a partial-subject
+thesis ..., and proposes tests") is **accurate**. A15's caution ("a valuable
+research hypothesis, not evidence that humans contain two conscious minds")
+matches the paper's own grading.
+
+- **CLAIM-166** (the microbiome can drive higher-level behaviour and
+  experience; routes exist, rodent effects causal, human evidence modest):
+  **qualifies / adds a level, adds no evidence for the claim's empirical
+  part**. Hasler places the ENS between the microbial collective and the
+  person and frames its role as "valuation", signals that "bias the
+  whole-organism decision without executing it": a route by which lower-level
+  activity reaches hunger and affect, consistent with CLAIM-166's "reaches
+  experience" via THEORY-045. It offers no new human evidence that a person's
+  own microbiome changes hunger or affect, which is what the claim's
+  defeat condition turns on. The paper is a perspective, not a review of
+  microbiome effects.
+- **QUESTION-046** (criterion that says whether an organized whole is a
+  subject, applied the same way to a modular mind and an organized group):
+  **bears directly, leaves open**. Hasler's §9 is a worked candidate for
+  the subsystem case: a subsystem is a second subject only if its contents
+  are integrated among themselves and not with the whole (tests iii, iv), and
+  persist when coupling is cut (ii). This is an IIT-style anti-nesting
+  (exclusion) principle plus an architectural criterion, motivated by the
+  gut, not by groups, as QUESTION-046's "What would answer it" asks; but it
+  is not applied to a group, and no measure is computed. His "jointly
+  constituted" field is a third option between one and two subjects.
+
+Other held entries it bears on (found on recheck):
+- **THEORY-043** (what separates a society of mind from a group is "an
+  anti-nesting principle or an architectural criterion, neither yet
+  principled"): Hasler's test (iv) is IIT's anti-nesting principle and test
+  (i) an architectural one, applied to a bodily subsystem.
+- **THEORY-063** (unity as one cluster of maximal causal density): Hasler's
+  integration-maximum question is the same criterion applied to ENS vs CNS.
+- **THEORY-298** (report-based evidence cannot test sufficiency; no
+  report-free marker independently validated): Hasler concedes the gut cannot
+  report and relies on markers whose validation is the problem THEORY-298
+  names.
+- **THEORY-045** (felt affect is the experience of the body's regulatory
+  state): the contributory thesis is an instance.
+- **THEORY-560** (rodent gut–microbe effects, modest human evidence): Hasler
+  adds no microbiome evidence.
+- **THEORY-677** (precaution under sentience uncertainty, a critique of
+  Birch): Hasler adopts Birch's precautionary candidacy logic.
+
+Searched origin/main `record/` for: enteric, second brain (no hits);
+interoception (CLAIM-412 and LITs on interoceptive inference); exclusion
+postulate (CLAIM-432 and IIT LITs); split-brain (THEORY-691, THEORY-875,
+THEORY-417); Bayne; octopus (THEORY-436, THEORY-606); Birch; the DOI and
+title. Found THEORY-043, THEORY-063, THEORY-298, THEORY-677 not named by the
+LIT. **Not already held** under another LIT.
+
+## Limitations
+
+A perspective with no new data; neurobiological figures are cited, not
+reviewed systematically; the author grants that no tradition supports the
+partial-subject thesis and that it may be undecidable; the Cambrian accounts
+of the origin of experience are acknowledged as the strongest objection.

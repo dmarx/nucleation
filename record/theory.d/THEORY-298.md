@@ -100,3 +100,9 @@ surveys the candidates and finds none accepted.
 - COGITATE ([THEORY-245](THEORY-245.md)) is the adversarial collaboration the review
   points to; its own concession that it may track stimulus processing is
   an instance of the validation problem.
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+checked by the filer: Hasler concedes the gut cannot report and relies on
+markers whose validation is the problem THEORY-298 names.

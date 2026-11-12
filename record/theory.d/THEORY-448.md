@@ -199,3 +199,15 @@ checked by the filer: qualifies. That account takes the metaphysics to
 constrain the ethics. Żuradzki argues the direction can also run from ethics
 to metaphysics where the biology underdetermines, so the choice between
 parthood and containment may itself be partly ethical.
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in NOTE-tmpastp1 (LIT-tmp5fwhc), the reader's assessment as
+checked by the filer: **qualifies**. Finn's analysis implies that Meincke's
+inconsistency charge holds only given a Maximality premise (an
+organism-substance cannot be a proper part of an organism of the same kind),
+which Finn argues needs independent justification and may be refuted by
+pregnancy itself. Rejecting Maximality, Substances-as-Parts counts two
+organisms one of which is part of the other, consistently. Finn also adds
+options Meincke's dichotomy does not consider (Overlap, Underlap). This is
+the record's inference from Finn's text: Finn does not discuss Meincke.

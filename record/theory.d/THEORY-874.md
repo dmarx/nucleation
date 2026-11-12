@@ -134,3 +134,9 @@ theories of mind, and the account does not answer [QUESTION-254](../questions.d/
   bars applying it by fiat.
 - **[THEORY-767](THEORY-767.md)** and the Seth readings ([LIT-1263](../literature.d/LIT-1263.md), [LIT-135](../literature.d/LIT-135.md)) sit, on this
   account, on the embodied informationalist side.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+checked by the filer: the paper is organicist-embodied in that map, against
+computational framings.

@@ -1,10 +1,13 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. No reading was attempted.
+status: Active
 title: 'The Mereotopology of Pregnancy'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmpastp1; account THEORY-tmpvj9k2. Status
+    Active.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +22,16 @@ first_author: 'Finn'
 keywords: []
 implementations: []
 summary: >-
-  Finn (2023), DOI-10.1093/jmp/jhad017. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §4. It bears on [THEORY-448](../theory.d/THEORY-448.md), [QUESTION-035](../questions.d/QUESTION-035.md). In A's account, which is unverified until read, it distinguishes when a new organism begins from what relation of parthood, containment or overlap it has to the gestating organism.
+  Finn (2023), DOI-10.1093/jmp/jhad017. Read on 2026-11-12 in NOTE-tmpastp1:
+  Finn separates two questions in the Kingma / Smith–Brogaard debate on the
+  metaphysics of pregnancy. The **Timing Question**: when does an organism
+  of the relevant kind start to exist (During-Pregnancy models such as Smith
+  and Brogaard's sixteen days; After-Pregnancy models such as Kingma's "Nine
+  Months")? Its account is THEORY-tmpvj9k2. Registered from the exchange
+  "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it
+  at A13 §4.
 ---
+<!-- inactive-ok-file: THEORY-tmpvj9k2 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 
 # LIT-tmp5fwhc: The Mereotopology of Pregnancy
@@ -29,8 +40,14 @@ Suki Finn (2023). "The Mereotopology of Pregnancy." *The Journal of Medicine and
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it distinguishes when a new organism begins from what relation of parthood, containment or overlap it has to the gestating organism.
+Read on 2026-11-12 (NOTE-tmpastp1). A taxonomy of positions, the
+independence thesis, Maximality as the explicit bridge principle, the
+Underlap view as a new hybrid, and the case for adding topology (contact,
+fiat vs bona fide boundaries) and dependence to the debate.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §4. It bears on [THEORY-448](../theory.d/THEORY-448.md), [QUESTION-035](../questions.d/QUESTION-035.md).
+
+Read on 2026-11-12; the reading is NOTE-tmpastp1 and its account
+THEORY-tmpvj9k2.

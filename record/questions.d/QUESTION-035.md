@@ -116,3 +116,25 @@ From the reading in [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md) ([LIT-tmpw9l03]
 checked by the filer: Geddes is directly on the boundary question and gives
 the condition that tests of "one system" (organismality) do not settle
 part–whole relations between the systems inside it. Leaves it open.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+checked by the filer: / **LIT-709** (holobiont membership): the microbiota
+as both part and environment.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+checked by the filer: the immune boundary (what is tolerated) is extended by
+the cells; the genetic boundary is not.
+
+## Note of 2026-11-12: Finn, read
+
+From the reading in NOTE-tmpastp1 (LIT-tmp5fwhc), the reader's assessment as
+checked by the filer: **bears, leaves open**. Finn's independence thesis
+applies: counting systems and fixing their part–whole relation are separate
+questions, linked only by a Maximality-type principle; and her topological
+distinctions (contact, fiat vs bona fide boundary, shared parts) give a
+vocabulary for "where its boundary lies". She supplies no criterion. Other
+held entries it bears on (found on recheck):

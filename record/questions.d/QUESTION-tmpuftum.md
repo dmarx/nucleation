@@ -120,3 +120,20 @@ and the inferred relation is model-relative. This gives formal content to
 "behavioral observations are evidence about a demand, not automatically the
 demand itself". It does not address who fixes the attention set, so
 selective exposure shaped by an organization is left open.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+checked by the filer: **supports the question's first failure mode and
+offers a partial procedure**. The paper is a worked instance of "An
+aggregate can hide a small group's failure": aggregate calibration or
+error-rate parity can coexist with a significant subgroup violation (results
+5, 6). CBS is a procedure that searches all attribute-defined subgroups
+rather than fixing them in advance, with a correction for that search, which
+partly answers "who is represented" without the auditor choosing the
+subgroups. It does not answer the question: the protected attribute, the
+covariates that define subgroups and the fairness definition (separation or
+sufficiency) are still chosen by the auditor, and the outcome label may
+itself be biased by the institution (result 8), which is the question's
+worry that the evidence is shaped by the governance being judged. Other held
+entries it bears on (found on recheck):

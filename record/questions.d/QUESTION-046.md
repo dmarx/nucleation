@@ -25,7 +25,6 @@ summary: >-
   and [QUESTION-032](QUESTION-032.md). [THEORY-043](../theory.d/THEORY-043.md) and [THEORY-063](../theory.d/THEORY-063.md) answer it in part; the body
   gives each one's limit.
 ---
-<!-- inactive-ok-file: LIT-tmp4a5du — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; cited as the looser earlier version of this question -->
 
@@ -83,3 +82,16 @@ locally and not passed on, enteric circuits after disconnection, and
 dissociations between enteric and central responses. A15 keeps the record's
 caution: "a valuable research hypothesis, not evidence that humans contain
 two conscious minds". Not filed as a new question; mapped here.
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+checked by the filer: **bears directly, leaves open**. Hasler's §9 is a
+worked candidate for the subsystem case: a subsystem is a second subject
+only if its contents are integrated among themselves and not with the whole
+(tests iii, iv), and persist when coupling is cut (ii). This is an IIT-style
+anti-nesting (exclusion) principle plus an architectural criterion,
+motivated by the gut, not by groups, as QUESTION-046's "What would answer
+it" asks; but it is not applied to a group, and no measure is computed. His
+"jointly constituted" field is a third option between one and two subjects.
+Other held entries it bears on (found on recheck):

@@ -1,10 +1,17 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A14 and A15 §1, §6. No reading was attempted.
+status: Active
 title: 'Gut consciousness: a perspective on visceral phenomenal awareness'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp5dqkd; account THEORY-tmpmh3g4. Status
+    Active. `published:` moves from 2026-01-17, Crossref's nominal date for
+    the 2026 issue, to 2026-10-26, the article's online date (Crossref
+    published-online and the journal's epub date; received 2026-05-02,
+    accepted 2026-10-06). The journal labels it a Review Article; the paper
+    calls itself a perspective.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -14,14 +21,24 @@ tags:
 - neuroscience
 - embodied-cognition
 date: '2026-11-12'
-published: '2026-01-17'
+published: '2026-10-26'
 doi: '10.1093/nc/niag070'
 first_author: 'Hasler'
 keywords: []
 implementations: []
 summary: >-
-  Hasler (2026), DOI-10.1093/nc/niag070. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A14 and A15 §1, §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md), [QUESTION-046](../questions.d/QUESTION-046.md). In A's account, which is unverified until read, it separates a contributory thesis (enteric activity helps constitute the whole animal's experience) from a partial-subject thesis (the enteric system has some experience of its own), and proposes tests.
+  Hasler (2026), DOI-10.1093/nc/niag070. Read on 2026-11-12 in
+  NOTE-tmp5dqkd: Hasler argues that the enteric nervous system (ENS) is a
+  candidate substrate of consciousness on several leading theories. He
+  separates two "logically independent" theses: the **contributory thesis**
+  (enteric processing makes a large contribution to the one consciousness of
+  the whole animal) and the **partial-subject thesis** (the ENS is a second,
+  far simpler locus of experience whose experiences are not the person's).
+  Its account is THEORY-tmpmh3g4. Registered from the exchange "Medical
+  Ethics and Media Enshitification" (2026-11-11), where A cited it at A14
+  and A15 §1, §6.
 ---
+<!-- inactive-ok-file: THEORY-tmpmh3g4 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # LIT-tmp4a5du: Gut consciousness: a perspective on visceral phenomenal awareness
@@ -30,8 +47,20 @@ Gregor Hasler (2026). "Gut consciousness: a perspective on visceral phenomenal a
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it separates a contributory thesis (enteric activity helps constitute the whole animal's experience) from a partial-subject thesis (the enteric system has some experience of its own), and proposes tests.
+Read on 2026-11-12 (NOTE-tmp5dqkd). A clear separation of contribution from
+multiplication of subjects; a research programme of five discriminating
+tests; an explicit concession that "There is no existing tradition that
+supports the claim examined here".
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A14 and A15 §1, §6. It bears on [CLAIM-166](../claims.d/CLAIM-166.md), [QUESTION-046](../questions.d/QUESTION-046.md).
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+checked by the filer: the same contributory / own-locus split, Hasler for
+experience, Boem et al. for cognition.
+
+Read on 2026-11-12; the reading is NOTE-tmp5dqkd and its account
+THEORY-tmpmh3g4.

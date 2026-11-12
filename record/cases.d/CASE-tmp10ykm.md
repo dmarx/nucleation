@@ -88,3 +88,10 @@ degrades, and adds that the fungus may protect the brain; the route is
 effectors and clock disruption acting on the host's own machinery. It also
 supports the case's "what is held fixed" (execution by the host) and adds a
 further route the case does not name: timing (the host clock).
+
+## Note of 2026-11-12: Sullivan et al., read
+
+From the reading in NOTE-tmpm8u4z (LIT-tmp18mi5), the reader's assessment as
+checked by the filer: the STAg pro-social result is a host response to
+parasite antigen without live parasite; relevant to separating host defence
+from manipulation in the *Toxoplasma* case.

@@ -390,3 +390,21 @@ interpreter of the algorithm" whose statement dissolves creators'
 independently built theory of how they are being evaluated. The review's
 evidence is qualitative and second-hand (47 articles, mostly
 platform-unspecified), so this is illustration, not a test.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+checked by the filer: result 8, re-arrest as outcome, is evidence shaped by
+the policing being evaluated.
+
+## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
+
+From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+checked by the filer: pageview targets as criteria redirecting labour (§2.2)
+are an instance, theorised not measured.
+
+## Note of 2026-11-12: Radsch, read
+
+From the reading in NOTE-tmpylmyu (LIT-tmp5c2gi), the reader's assessment as
+checked by the filer: Radsch's "referral traffic" as the governing valuation
+benchmark set by the platform is close to the criteria route.

@@ -34,6 +34,7 @@ summary: >-
   because the source is a narrative industry review; the gap it describes
   runs against its authors' interest.
 ---
+<!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's claim this account grounds -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading named as the bridge, untested -->
@@ -117,3 +118,15 @@ checked by the filer: and **[CASE-047](../cases.d/CASE-047.md)** (gut microbes a
 and mood): same evidential tier; this study is weaker than the germ-free and
 transplant work THEORY-560 summarizes, since it has no colonization or
 rescue arm.
+
+## Note of 2026-11-12: Almarzooqi et al., read
+
+From the reading in NOTE-tmpleweb (LIT-tmp42smw), the reader's assessment as
+checked by the filer: and **LIT-915** (the held review "One Giant Leap from
+Mouse to Man"): this 2026 review is a later restatement of the same grading,
+adding MR and mediation as the missing tools; it does not overturn either.
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+checked by the filer: Hasler adds no microbiome evidence.

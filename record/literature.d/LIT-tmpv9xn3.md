@@ -52,3 +52,9 @@ reader on how far it stands in: MIFair (arXiv:2604.28030; same five authors)
 stands in only slightly: one experiment shows two aggregate criteria ranking
 methods differently, and it cites this paper for the general point. It does
 not carry the taxonomy or the guidelines.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+checked by the filer: the neighbour on the same question from the same
+exchange.

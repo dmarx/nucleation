@@ -58,6 +58,7 @@ summary: >-
 bears_on:
 - QUESTION-033
 ---
+<!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmp1p2zd LIT-tmp42smw LIT-tmp4a5du LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
@@ -177,3 +178,42 @@ microbial communities may shape neural substrates, which is consistent with
 the claim's "routes exist" but not evidence for "drive". CLAIM-166's note of
 2026-11-12 (branch) already lists it among unread gut-brain works with "No
 status change"; the reading supports keeping that.
+
+## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
+
+From the reading in NOTE-tmphkmh6 (LIT-tmp1p2zd), the reader's assessment as
+checked by the filer: **qualifies; supports the framing, not the evidence**.
+It agrees the human microbiota–cognition evidence is inconclusive ("too
+early"), and suggests visceral perception as an unstudied mediator: a route
+through which microbial changes might reach affect, beside metabolites and
+the vagus. Its holobiont point (microbiota as both component and
+environment) bears on the claim's "membership is disputable".
+
+## Note of 2026-11-12: Almarzooqi et al., read
+
+From the reading in NOTE-tmpleweb (LIT-tmp42smw), the reader's assessment as
+checked by the filer: **supports the claim's grading as stated**. Routes
+(vagal, immune, HPA, metabolite) and rodent causal evidence (GF, FMT
+phenotype transfer, vagotomy-dependent probiotic effects) are reviewed as
+real; in humans, interventions show modest symptom effects but "direct
+mediation by microbiome changes remains unclear". This matches the claim's
+"can drive" established in animals and "does drive" in a person unshown, and
+its 2026-10-29 note that no study shows a person's own microbiome change
+originating a change in hunger or affect. It also supplies two cautions the
+claim could carry: GF effect sizes overstate natural variation, and reverse
+causation (illness and medication altering the microbiome) is a live rival
+in every human association. It concerns psychiatric disorders, not everyday
+hunger and mood. Other held entries it bears on (found on recheck):
+
+## Note of 2026-11-12: Hasler, read
+
+From the reading in NOTE-tmp5dqkd (LIT-tmp4a5du), the reader's assessment as
+checked by the filer: **qualifies / adds a level, adds no evidence for the
+claim's empirical part**. Hasler places the ENS between the microbial
+collective and the person and frames its role as "valuation", signals that
+"bias the whole-organism decision without executing it": a route by which
+lower-level activity reaches hunger and affect, consistent with CLAIM-166's
+"reaches experience" via THEORY-045. It offers no new human evidence that a
+person's own microbiome changes hunger or affect, which is what the claim's
+defeat condition turns on. The paper is a perspective, not a review of
+microbiome effects.

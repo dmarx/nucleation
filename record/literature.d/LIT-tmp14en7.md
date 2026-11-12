@@ -1,10 +1,16 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. No reading was attempted.
+status: Active
 title: 'Auditing Predictive Models for Intersectional Biases'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12, in NOTE-tmp6nqkh; account THEORY-tmpz8rdc. Status
+    Active. `published: 2026-01-01` is a placeholder: the paper gives only
+    the month, 01/2026, and the OpenReview forum that would carry an exact
+    date (1JTnlHMSmO) returned HTTP 403. It is not an exact date in the
+    sense of ADR-002 and should be replaced when one is found.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -19,8 +25,14 @@ first_author: 'Boxer'
 keywords: []
 implementations: []
 summary: >-
-  Boxer et al. (2026), Transactions on Machine Learning Research (01/2026). Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md). In A's account, which is unverified until read, it proposes Conditional Bias Scan for detecting intersectional subgroup biases that aggregate fairness checks miss.
+  Boxer et al. (2026), Transactions on Machine Learning Research (01/2026).
+  Read on 2026-11-12 in NOTE-tmp6nqkh: Models can satisfy a group fairness
+  criterion in aggregate for a protected class while being biased against a
+  subgroup of it (e.g. Black women). Its account is THEORY-tmpz8rdc.
+  Registered from the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11), where A cited it at A42 §1.
 ---
+<!-- inactive-ok-file: THEORY-tmpz8rdc — Proposed; filed from the same exchange -->
 
 # LIT-tmp14en7: Auditing Predictive Models for Intersectional Biases
 
@@ -28,8 +40,13 @@ Kate S. Boxer, Edward McFowland III and Daniel B. Neill (2026). "Auditing Predic
 
 ## Key takeaways
 
-*Seeded from the exchange, not read.* In A's account, unverified until read, it proposes Conditional Bias Scan for detecting intersectional subgroup biases that aggregate fairness checks miss.
+Read on 2026-11-12 (NOTE-tmp6nqkh). A flexible, interpretable subgroup
+auditor for separation and sufficiency criteria with a multiple-testing
+correction for the search itself.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).
+
+Read on 2026-11-12; the reading is NOTE-tmp6nqkh and its account
+THEORY-tmpz8rdc.

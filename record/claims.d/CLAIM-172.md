@@ -209,3 +209,10 @@ mechanism.
 ## Note of 2026-11-07: selective synchronization, from "Individuation, Possibility, and Disposition"
 
 A9 §3 of the exchange (2026-11-06 to 07) cites this claim rightly: "Individuation may sometimes be associated with selective synchronization, rather than maximal synchronization." That restates version 5's sharpening, that synchrony matched to the strong couplings, not shared timing alone, is the mark ([THEORY-265](../theory.d/THEORY-265.md)). The owner's U4 proposes oscillators as a laboratory for this and related distinctions ([CLAIM-616](CLAIM-616.md)). Supports; no status change.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+checked by the filer: - Main's **CLAIM-165**, **CLAIM-172** and others use
+"extended self" in a different (cognitive/agential) sense: a homonym the
+filer should not conflate.

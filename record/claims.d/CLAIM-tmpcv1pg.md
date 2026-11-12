@@ -141,3 +141,19 @@ users" is confirmed to exist, not that they set the product.
 From the reading in [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md) ([LIT-tmpzbm28](../literature.d/LIT-tmpzbm28.md)), the reader's assessment as
 checked by the filer: - Bears on **CLAIM-tmpcv1pg** only through the case,
 and not on its escalation half.
+
+## Note of 2026-11-12: de Roos and Willkomm, read
+
+From the reading in NOTE-tmpwj1ap (LIT-tmp2hne0), the reader's assessment as
+checked by the filer: **leaves the escalation step open; weakly qualifies
+it**. The paper does not measure heavy users, does not observe escalation
+over time, and finds escalation "low" and branching rather than a single
+drift toward extremity. Its "relative escalation" in S&M, fetish, teen,
+group and violent categories is consistent with habituation-driven
+exploration but equally with curiosity. Nothing in it bears on the claim's
+structural part (supply following heavy users); it agrees with A27 §3 that
+the loop does not need escalation. It supports the claim's caveat that
+"niche, unconventional, intense, aggressive, and harmful are not
+interchangeable categories": the paper separates Non-Traditional Niche from
+Extreme/Harmful, with different correlates. Other held entries it bears on
+(found on recheck):

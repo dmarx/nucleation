@@ -43,6 +43,7 @@ summary: >-
   transfer; [THEORY-1105](../theory.d/THEORY-1105.md) reports Bernabeu and colleagues' concession about
   their own donors. This claim is what the record draws from both.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 # CLAIM-508: Gene ancestries alone cannot tell a symbiotic partner from a source of transferred genes: a partner whose genes were mostly lost, replaced or spread thin would leave the diffuse trace that Tobiasson and colleagues read as piecemeal transfer, and Bernabeu and colleagues concede that their donor signals say nothing of the kind of interaction
@@ -65,3 +66,12 @@ tell whether it does the host's work, since in mice one marked subset of
 maternal cells sustains the offspring's tolerance and the rest persist
 without it. Corroborates, from a reading the claim does not rest on;
 [THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md) now names this claim in `corroborates`.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+checked by the filer: and **CLAIM-tmpu69tn** (origin, governance and
+beneficiary of an influence are separate questions): the maternal cell is of
+foreign origin, governed in the host's immune regulation, and benefits (on
+the authors' account) the maternal lineage, a case of the three coming
+apart.

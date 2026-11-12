@@ -86,3 +86,12 @@ demand nor supply registers.
 
 From the reading in [NOTE-tmppj4sz](../notes.d/NOTE-tmppj4sz.md) ([LIT-tmpaptli](../literature.d/LIT-tmpaptli.md)), the reader's assessment as
 checked by the filer: context only; not read.
+
+## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
+
+From the reading in NOTE-tmp9b3p6 (LIT-tmp1bfvb), the reader's assessment as
+checked by the filer: **leaves open / weakly supports**. The paper shows the
+structural pre-condition (newsrooms moved away from communities, "distance
+decay", fewer original local stories) and a self-reinforcing direction, but
+it has no traffic data and does not observe the feedback loop from measured
+demand to further cuts. Other held entries it bears on (found on recheck):

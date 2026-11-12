@@ -35,6 +35,7 @@ implementations: []
 summary: >-
   Sparling et al. (2026), DOI-10.1016/j.it.2026.03.015. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §4. It bears on [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md). In A's account, which is unverified until read, it frames sickness behaviour as an organism-level host defence whose adaptive status must be tested.
 ---
+<!-- inactive-ok-file: LIT-tmpawef9 — Deferred; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 
 # LIT-tmpk1h9j: Scaling immunity: sickness as a host defense strategy
@@ -48,3 +49,10 @@ A. Clare Sparling, Esther B. Florsheim and Zuri A. Sullivan (2026). "Scaling imm
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §4. It bears on [CLAIM-tmpoxhqq](../claims.d/CLAIM-tmpoxhqq.md).
+
+## Note of 2026-11-12: Sullivan et al., read
+
+From the reading in NOTE-tmpm8u4z (LIT-tmp18mi5), the reader's assessment as
+checked by the filer: and **LIT-tmpawef9** (*C. elegans* sickness behaviour,
+branch, unread): same line of work; the Trends commentary may restate this
+preprint's thesis.

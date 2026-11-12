@@ -56,3 +56,10 @@ tolerance from MMc persistence". The paper ([LIT-tmpxdjn3](../literature.d/LIT-t
 That the result holds in humans; what the persisting cells do; or anything
 about organismal individuality. It is a result about which cells serve one
 regulatory function.
+
+## Note of 2026-11-12: Kinder, Stelzer, Arck and Way, read
+
+From the reading in NOTE-tmp1h3p0 (LIT-tmp1pvq3), the reader's assessment as
+checked by the filer: the later, finer result from the same laboratory (Way,
+Cincinnati): only a LysM+CD11c+ subset sustains NIMA tolerance. Kinder et
+al. are the review context for it.

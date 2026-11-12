@@ -217,3 +217,9 @@ while keeping the name is not satisfaction ("presented as if it had been
 fulfilled", result 3), and tickboxing's entrenchment (result 5) is an
 empirical route by which D₀ drifts. It *qualifies* nothing in the claim's
 formal content; it gives no organization-level before/after data.
+
+## Note of 2026-11-12: Boxer, McFowland and Neill, read
+
+From the reading in NOTE-tmp6nqkh (LIT-tmp14en7), the reader's assessment as
+checked by the filer: CBS's protected class and covariates are such a fixed
+reference set; the paper does not discuss how it is chosen.
