@@ -1015,6 +1015,15 @@ schemes:
         required: false
         many: true
         converse: bounded_by
+      drawn_on_by:
+        label: Drawn on by
+        blurb: the cases and terms that use this account other than as provenance; the converse of their
+          `draws_on`, written by `luria link --fix` (ADR-tmpcd2gu)
+        scheme: [CASE, TERM]
+        required: false
+        many: true
+        converse: draws_on
+        derived: true
       reports:
         label: Reports
         blurb: the cases the record took from this account, written by `luria link --fix` from their `reported_in`
@@ -1504,6 +1513,15 @@ schemes:
         required: false
         many: true
         converse: reports
+      draws_on:
+        label: Draws on
+        blurb: readings this case uses other than where it comes from, as a proposed study's method, measure
+          or design constraint, a check its result is set against, or a component of a construction; its
+          kind says how. Not provenance, which is `reported_in`, and not support for a claim (ADR-tmpcd2gu)
+        scheme: THEORY
+        required: false
+        many: true
+        converse: drawn_on_by
       superseded_by:
         scheme: CASE
         many: true
@@ -1615,6 +1633,14 @@ schemes:
         many: true
         converse: refines
         derived: true
+      draws_on:
+        label: Draws on
+        blurb: readings this term takes its sense from, or whose usage its definition is fixed against.
+          Not attribution of the word alone, which takes no edge (ADR-tmpcd2gu)
+        scheme: THEORY
+        required: false
+        many: true
+        converse: drawn_on_by
     fields:
       status:
         vocabulary: statuses

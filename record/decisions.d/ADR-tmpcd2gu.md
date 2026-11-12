@@ -1,0 +1,103 @@
+---
+status: Proposed
+title: 'A case or a term that uses a reading other than as its source carries `draws_on` to it, and the reading''s `drawn_on_by` is derived; how a case uses it is its kind''s to say, and a term draws on the readings its sense is fixed by'
+version: 1
+tags:
+- record
+date: '2026-11-12'
+summary: >-
+  A case reached a reading only by `reported_in`, which is provenance, and a
+  term by nothing, so a proposed study that takes its measures and design
+  constraints from readings, a construction built from a reading's result,
+  and a term defined after a reading's usage recorded none of it. ADR-093
+  had the reading reviews hold such readings as used in fact, and the owner
+  deferred the relation to a decision of its own. On 2026-11-12, 156
+  citations of a reading in force by a case, and 153 by a term, carried no
+  relation. CASE and TERM now carry `draws_on` to THEORY, with the
+  converse `drawn_on_by` derived on THEORY; the readings view counts it as
+  use. One relation serves both, as `bears_on` serves every scheme that
+  bears on a question (ADR-092): a case's kind says how it uses the
+  reading, and for a term it is the reading its sense is fixed by. The
+  demonstration writes it where the case's or term's own text uses the
+  reading. Rejected: a relation per use (method, constraint, check,
+  component); stretching `reported_in`; leaving it to the reviews'
+  accounts; extending it now to syntheses.
+---
+<!-- inactive-ok-file: ADR-093 ADR-094 ADR-090 ADR-091 — Proposed; the decisions this one completes and the view it changes -->
+
+# ADR-tmpcd2gu: A case or a term that uses a reading other than as its source carries `draws_on` to it, and the reading's `drawn_on_by` is derived; how a case uses it is its kind's to say, and a term draws on the readings its sense is fixed by
+
+## Context
+
+A case's relations reach claims (`illustrates`, `counterexample_to`),
+questions (`bears_on`, ADR-092), other cases, and its source
+(`reported_in`, provenance, ADR-051). A term's reach other terms
+(`refines`, `rivals`, `complements`) and the claims that use it. Neither
+reaches a reading for any use but provenance.
+
+The reading reviews of 2026-11-11 met the gap. CASE-165 checks itself
+against nine readings; CASE-185 takes the symmetry results of three as
+the threat to its identification arm; CASE-189 uses several
+thermodynamic readings in its reading of its result; TERM-057 and
+TERM-058 fix their senses against five information-theory readings.
+ADR-093 (point 5) had a review hold such readings as used in fact and list
+them by name, and said `reported_in` is not to be stretched to cover the
+use. On 2026-11-11 ADR-094 added `bounds` for a claim's limits; the
+owner asked for cases and terms to follow as a decision of their own.
+
+A count on 2026-11-12 found 309 citations of a reading in force in the
+body of a case (156) or a term (153), not its `reported_in`, across 119
+cases and terms and 227 readings, 21 of them among the readings the view
+counted unused. Some are attributions or passing mentions, which take no
+edge (ADR-058).
+
+## Decision
+
+1. **CASE carries `draws_on`, to THEORY.** A case draws on a reading it
+   uses other than as where it comes from: a proposed study's method,
+   measure, design constraint or threat to inference; a check its result
+   is set against; a result a construction is built from or applies. The
+   case's `kind` (ADR-042) says which, so one relation serves, as one
+   `bears_on` serves every kind of case (ADR-092).
+2. **TERM carries `draws_on`, to THEORY.** A term draws on a reading its
+   sense is fixed by: the reading's usage it adopts, or the usage its
+   definition is set against.
+3. **`drawn_on_by` on THEORY is derived** from both, never stored.
+4. **Not provenance, not support, not attribution.** `reported_in` stays
+   provenance, and a case may carry both to one reading only where it does
+   both. A reading cited only as where a word or case was first named, or
+   in passing, takes no edge (ADR-058). A case that is evidence for a
+   claim reaches the claim (`illustrates`, `counterexample_to`), not the
+   reading.
+5. **The readings view counts it as use** (ADR-090): a reading a case or
+   term draws on serves that entry's first line.
+6. **Syntheses are not covered.** An account that names a reading still
+   has no relation to it; that waits until a case for one recurs.
+
+The reading-review and read-and-file skills carry 1 to 4 as instructions.
+
+## Alternatives considered
+
+- **A relation per use** (`measures_with`, `constrained_by`,
+  `checked_against`, `built_from`). Each restates a kind, a case whose
+  kind and standing cross would need two relations for one fact, and the
+  view and reviews would have to merge them back. ADR-092 rejected the
+  same split for a case's bearing on a question.
+- **Stretching `reported_in`.** ADR-051 and ADR-093 keep it provenance: a
+  proposed study is reported in no reading it takes a constraint from.
+- **Leaving it to the reviews' accounts**, as ADR-093 did. The use stays
+  invisible on the case, the term and the reading, and each review
+  re-finds it.
+- **Covering syntheses now.** An account maps the record's own argument
+  (ADR-084); the readings it names reach it through the claims it maps.
+  No synthesis was found that uses a reading no claim it maps uses.
+
+## Consequences
+
+- A reading's page lists the cases and terms that draw on it; a case's and
+  a term's pages list what they use.
+- The view's unused list loses the readings used only by cases and terms.
+- ADR-093's point 5 now holds only for syntheses; the reading-review skill
+  says so.
+- The demonstration (ADR-071) writes `draws_on` where a case's or term's
+  own text uses a reading, each with the entry's words quoted.
