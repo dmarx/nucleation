@@ -56,9 +56,9 @@ closed-loop / adaptive DBS; automaticity; patient override; clinician vs patient
 
 **How far it stands in.** It restates, empirically, that automatic adjustment can occur without the patient's awareness (result 1–2, Lyu and Chen's "automatic unperceived operation") and that control is shared between patient, device and clinician with disputed allocation (results 4–5). It does not restate their source × perception grid, their claim that system-originated control can be "conflated with patients' internal control", or their dependence/addiction argument.
 
-- **CASE-128** (delegation vs imposed restriction): result 4 (an always-available patient override) and result 5 (too much patient control can undermine autonomy) are the clinical form of the case's harder variant, that "Immediate revocability cannot simply be required in every context". Supports the case's point that the authorization and revisability of the arrangement, not present control, carry the difference.
-- **CLAIM-tmpu69tn**: supports the use of aDBS as an "outside, authorized" influence whose operation may be unperceived; it says nothing on alignment beyond safety concerns.
-- Recheck: "deep brain stimulation", "aDBS", "closed-loop" on origin/main match no DBS work (hits are unrelated: LIT-1176, LIT-2020, LIT-743). Not held.
+- **[CASE-128](../cases.d/CASE-128.md)** (delegation vs imposed restriction): result 4 (an always-available patient override) and result 5 (too much patient control can undermine autonomy) are the clinical form of the case's harder variant, that "Immediate revocability cannot simply be required in every context". Supports the case's point that the authorization and revisability of the arrangement, not present control, carry the difference.
+- **[CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md)**: supports the use of aDBS as an "outside, authorized" influence whose operation may be unperceived; it says nothing on alignment beyond safety concerns.
+- Recheck: "deep brain stimulation", "aDBS", "closed-loop" on origin/main match no DBS work (hits are unrelated: [LIT-1176](../literature.d/LIT-1176.md), [LIT-2020](../literature.d/LIT-2020.md), [LIT-743](../literature.d/LIT-743.md)). Not held.
 
 ## Limitations
 

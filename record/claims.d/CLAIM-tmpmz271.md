@@ -89,21 +89,21 @@ cited without an identifier.
 
 ## Note of 2026-11-12: Naudts, Helberger, Veale and Sax (2025), read
 
-From the reading in NOTE-tmpytbn0 (LIT-tmp6lewl), the reader's assessment as
+From the reading in [NOTE-tmpytbn0](../notes.d/NOTE-tmpytbn0.md) ([LIT-tmp6lewl](../literature.d/LIT-tmp6lewl.md)), the reader's assessment as
 checked by the filer: the paper's "self-serving optimization" is the general
 case of the revenue-weighted objective that claim models; the paper gives no
 model of whose demand moves the objective.
 
 ## Note of 2026-11-12: Caliari and Petri, read
 
-From the reading in NOTE-tmp9g14f (LIT-tmpwc3j6), the reader's assessment as
+From the reading in [NOTE-tmp9g14f](../notes.d/NOTE-tmp9g14f.md) ([LIT-tmpwc3j6](../literature.d/LIT-tmpwc3j6.md)), the reader's assessment as
 checked by the filer: a cousin: both say aggregate observables can mislead
 about individual preference; this one about rationality, that one about
 weighting. No direct support.
 
 ## Note of 2026-11-12: Nickl, Moussaïd and Lorenz-Spreen (2025), read
 
-From the reading in NOTE-tmppj4sz (LIT-tmpaptli), the reader's assessment as
+From the reading in [NOTE-tmppj4sz](../notes.d/NOTE-tmppj4sz.md) ([LIT-tmpaptli](../literature.d/LIT-tmpaptli.md)), the reader's assessment as
 checked by the filer: Nickl's "production follows demand" with selection
 needing no insight on the producers' side is the same structure stated for
 culture; corroborative only.

@@ -42,7 +42,6 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd LIT-tmpc2x78 — Deferred; registered from the same exchange, unread -->
 
@@ -115,7 +114,7 @@ the headline tests.
 
 ## Note of 2026-11-12: Scalco, Gesualdo, Cerqueti and Cinelli (2026), read
 
-From the reading in NOTE-tmp9yggi (LIT-tmpaodxg), the reader's assessment as
+From the reading in [NOTE-tmp9yggi](../notes.d/NOTE-tmp9yggi.md) ([LIT-tmpaodxg](../literature.d/LIT-tmpaodxg.md)), the reader's assessment as
 checked by the filer: *qualifies*, in a useful way. The paper's method can
 detect a void only where demand is **visible**, as searches or page views;
 the claim's third step ("The public cannot demonstrate demand for an
@@ -131,7 +130,7 @@ quality link is correlational (result 5).
 
 ## Note of 2026-11-12: Nickl, Moussaïd and Lorenz-Spreen (2025), read
 
-From the reading in NOTE-tmppj4sz (LIT-tmpaptli), the reader's assessment as
+From the reading in [NOTE-tmppj4sz](../notes.d/NOTE-tmppj4sz.md) ([LIT-tmpaptli](../literature.d/LIT-tmpaptli.md)), the reader's assessment as
 checked by the filer: **supports the first clause weakly, leaves the second
 open.** It shows the product (headline style) moved toward click-associated
 features across outlet quality tiers, which fits selection for attention,

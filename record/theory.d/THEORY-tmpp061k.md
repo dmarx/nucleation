@@ -13,7 +13,7 @@ promote_when: >-
   periods associated with a lower share of high-credibility sources than
   non-anomalous periods.
 summary: >-
-  Scalco, Gesualdo, Cerqueti and Cinelli (2026), read in NOTE-tmp9yggi
+  Scalco, Gesualdo, Cerqueti and Cinelli (2026), read in [NOTE-tmp9yggi](../notes.d/NOTE-tmp9yggi.md)
   (Read). Treating the online information ecosystem as a market with
   information **demand** (Wikipedia page views, Google Trends) and
   **supply** (Facebook posts via CrowdTangle, Twitter full-archive, GDELT
@@ -32,4 +32,4 @@ Scalco, Gesualdo, Cerqueti and Cinelli (2026) propose detecting information void
 
 ## Evidence
 
-The reading in NOTE-tmp9yggi; its key results are quoted there with locations.
+The reading in [NOTE-tmp9yggi](../notes.d/NOTE-tmp9yggi.md); its key results are quoted there with locations.

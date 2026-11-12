@@ -15,7 +15,7 @@ promote_when: >-
   arm, reports reduced dendritic complexity of cortical inhibitory
   interneurons in offspring after gestational maternal dysbiosis.
 summary: >-
-  Nakhal et al. (2026), read in NOTE-tmp5kj27 (Skimmed). Pregnant GAD67-GFP
+  Nakhal et al. (2026), read in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) (Skimmed). Pregnant GAD67-GFP
   mice (6 control, 6 treated dams) received oral vancomycin (20 mg/kg/day,
   GD8–GD17) to induce gut dysbiosis. Dams' microbiota lost diversity (Chao1,
   Shannon; PERMANOVA R² = 0.77).
@@ -30,4 +30,4 @@ Nakhal and colleagues (2026) report that in mice, vancomycin-induced gut dysbios
 
 ## Evidence
 
-The reading in NOTE-tmp5kj27; its key results are quoted there with locations.
+The reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md); its key results are quoted there with locations.

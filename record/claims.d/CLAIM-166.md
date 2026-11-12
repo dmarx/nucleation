@@ -60,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmp1p2zd LIT-tmp42smw LIT-tmp4a5du LIT-tmp7144o LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmp1p2zd LIT-tmp42smw LIT-tmp4a5du LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-560 — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
@@ -167,7 +167,7 @@ gut-brain works are registered unread ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2
 
 ## Note of 2026-11-12: Nakhal et al. (2026), read
 
-From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
+From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
 checked by the filer: *leaves open*. The work concerns development of the
 offspring's tissues under the *mother's* microbiota, not a person's own
 microbiome driving its present behaviour or experience; it measures

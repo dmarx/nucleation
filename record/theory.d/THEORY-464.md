@@ -154,7 +154,7 @@ A's application, unread in any source; it bears on [QUESTION-tmp2lvhi](../questi
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
 checked by the filer: consistent; Millum's argument never turns on whether
 child and adult are the same person, only on present capacity and interests.
 Leaves the theory's claim untouched; a mild illustration.

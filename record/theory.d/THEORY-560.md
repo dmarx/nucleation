@@ -112,8 +112,8 @@ nothing: [CLAIM-166](../claims.d/CLAIM-166.md) uses both halves.
 
 ## Note of 2026-11-12: Nakhal et al. (2026), read
 
-From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
-checked by the filer: and **CASE-047** (gut microbes and the host's hunger
+From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
+checked by the filer: and **[CASE-047](../cases.d/CASE-047.md)** (gut microbes and the host's hunger
 and mood): same evidential tier; this study is weaker than the germ-free and
 transplant work THEORY-560 summarizes, since it has no colonization or
 rescue arm.

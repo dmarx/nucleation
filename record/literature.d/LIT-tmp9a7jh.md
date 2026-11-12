@@ -26,7 +26,7 @@ keywords: []
 implementations: []
 summary: >-
   Yu et al. (2026), DOI-10.1145/3774904.3792955. Read on 2026-11-12 in
-  NOTE-tmpaeun2: The authors name "Retrieval Collapse", a two-stage failure
+  [NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md): The authors name "Retrieval Collapse", a two-stage failure
   in which (1) AI-generated content comes to dominate search results,
   eroding source diversity, and (2) low-quality or adversarial synthetic
   content enters the retrieval pipeline. On 1,000 MS MARCO queries, each
@@ -35,7 +35,7 @@ summary: >-
   66.7%), in two scenarios: an "SEO" pool (LLM rewrites of original
   documents with high-IDF keywords) and an "Abuse" pool (clickbait drafts
   with named entities and numbers falsified). Its account is
-  THEORY-tmp5zp11. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmp5zp11](../theory.d/THEORY-tmp5zp11.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A35 §3.
 ---
 <!-- inactive-ok-file: THEORY-tmp5zp11 — Proposed; filed from the same exchange -->
@@ -46,7 +46,7 @@ Hongyeon Yu, Dongchan Kim and Young-Bum Kim (2026). "Retrieval Collapses When AI
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpaeun2). A named failure mode for retrieval (as
+Read on 2026-11-12 ([NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md)). A named failure mode for retrieval (as
 distinct from training-time model collapse), with descriptive metrics PCR /
 ECR / CCR, and a small controlled simulation showing exposure amplification
 of synthetic content and the decoupling of answer accuracy from source
@@ -56,5 +56,5 @@ diversity.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §3. It bears on [LIT-971](LIT-971.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpaeun2 and its account
-THEORY-tmp5zp11.
+Read on 2026-11-12; the reading is [NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md) and its account
+[THEORY-tmp5zp11](../theory.d/THEORY-tmp5zp11.md).

@@ -25,7 +25,7 @@ keywords: []
 implementations: []
 summary: >-
   Nickl et al. (2025), DOI-10.1057/s41599-025-04514-7. Read on 2026-11-12 in
-  NOTE-tmppj4sz: The authors track some 40 million English-language
+  [NOTE-tmppj4sz](../notes.d/NOTE-tmppj4sz.md): The authors track some 40 million English-language
   headlines (BIG4: New York Times, Guardian, Times of India, ABC News
   Australia from 2000; the News on the Web corpus from 2010) for lexical,
   syntactic and sentiment features that earlier work linked to clickbait
@@ -33,7 +33,7 @@ summary: >-
   benchmark) and arXiv titles (contrast) as fixed reference points.
   Headlines grew longer, more negative, more often contained verbs, pronouns
   and wh-words, and moved away from the noun-phrase format, i.e. moved
-  toward the Upworthy profile. Its account is THEORY-tmp0mlhk. Registered
+  toward the Upworthy profile. Its account is [THEORY-tmp0mlhk](../theory.d/THEORY-tmp0mlhk.md). Registered
   from the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
   where A cited it at A33 §2.
 ---
@@ -46,7 +46,7 @@ Pietro Nickl, Mehdi Moussaïd and Philipp Lorenz-Spreen (2025). "The evolution o
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmppj4sz). A large, long-run, multi-outlet
+Read on 2026-11-12 ([NOTE-tmppj4sz](../notes.d/NOTE-tmppj4sz.md)). A large, long-run, multi-outlet
 measurement that the style of news headlines has shifted toward features
 associated with clickbait and click success, and that the shift is not
 confined to low-quality or partisan outlets.
@@ -55,5 +55,5 @@ confined to low-quality or partisan outlets.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A33 §2. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 
-Read on 2026-11-12; the reading is NOTE-tmppj4sz and its account
-THEORY-tmp0mlhk.
+Read on 2026-11-12; the reading is [NOTE-tmppj4sz](../notes.d/NOTE-tmppj4sz.md) and its account
+[THEORY-tmp0mlhk](../theory.d/THEORY-tmp0mlhk.md).

@@ -149,7 +149,7 @@ delegated and the imposed restriction carries over. No change.
 
 ## Note of 2026-11-12: Muñoz et al. (2020), read
 
-From the reading in NOTE-tmpc3zs5 (LIT-tmplfdsz), the reader's assessment as
+From the reading in [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md) ([LIT-tmplfdsz](../literature.d/LIT-tmplfdsz.md)), the reader's assessment as
 checked by the filer: result 4 (an always-available patient override) and
 result 5 (too much patient control can undermine autonomy) are the clinical
 form of the case's harder variant, that "Immediate revocability cannot
@@ -159,7 +159,7 @@ carry the difference.
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
 checked by the filer: tension worth noting for the filer: Millum's
 principle, taken strictly, would deny the earlier self's delegation
 authority over the later competent self, which is what CASE-128 turns on.

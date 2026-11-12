@@ -82,7 +82,7 @@ attention": **fair but stronger than the paper**. The paper documents the change
 and frames it as adaptation to attention competition; it explicitly does not
 establish the link causally, and offers cheaper production (length) as a rival.
 
-- **CLAIM-tmpifp69** (attention optimization favours clickbait, works against
+- **[CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)** (attention optimization favours clickbait, works against
   investigative journalism): **supports the first clause weakly, leaves the second
   open.** It shows the product (headline style) moved toward click-associated
   features across outlet quality tiers, which fits selection for attention, but
@@ -96,14 +96,14 @@ establish the link causally, and offers cheaper production (length) as a rival.
 Searched origin/claude/friendly-clarke-5o0t59 `record/` for clickbait, headline,
 attention economy, cultural evolution, cultural selection, A/B test, Upworthy,
 success metric.
-- **CASE-tmpd5eqf** (grounds of CLAIM-tmpifp69; same exchange): context only; not read.
-- **LIT-771 / NOTE-596** (cumulative cultural evolution in the lab) and
-  **LIT-1932** (units of inheritance): the paper's cultural-selection framing is
+- **[CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)** (grounds of [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md); same exchange): context only; not read.
+- **[LIT-771](../literature.d/LIT-771.md) / [NOTE-596](NOTE-596.md)** (cumulative cultural evolution in the lab) and
+  **[LIT-1932](../literature.d/LIT-1932.md)** (units of inheritance): the paper's cultural-selection framing is
   the same family; no specific bearing.
-- **CLAIM-tmpmz271** (demand-weighted selection; CLAIM-tmpifp69 rests on it):
+- **[CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)** (demand-weighted selection; [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md) rests on it):
   Nickl's "production follows demand" with selection needing no insight on the
   producers' side is the same structure stated for culture; corroborative only.
-- No held entry on headlines or clickbait beyond CLAIM-tmpifp69.
+- No held entry on headlines or clickbait beyond [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 - **Duplicate check:** no other LIT holds DOI 10.1057/s41599-025-04514-7, the
   SocArXiv DOI 10.31235/osf.io/58kbf or this title.
 

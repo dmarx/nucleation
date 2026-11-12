@@ -151,7 +151,7 @@ the E_i independent N(0, σ²I_T).
 
 ## Note of 2026-11-12: Yu, Kim and Kim (2026), read
 
-From the reading in NOTE-tmpaeun2 (LIT-tmp9a7jh), the reader's assessment as
-checked by the filer: and **CLAIM-267** (per-step discrepancies in a chain
+From the reading in [NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md) ([LIT-tmp9a7jh](../literature.d/LIT-tmp9a7jh.md)), the reader's assessment as
+checked by the filer: and **[CLAIM-267](../claims.d/CLAIM-267.md)** (per-step discrepancies in a chain
 of maps): as above; the paper's selection step is a new map in the chain
 that neither entry models.

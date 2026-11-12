@@ -12,7 +12,7 @@ promote_when: >-
   corpus, finds that retrievers expose LLM-generated documents at a rate
   exceeding their share of the candidate pool.
 summary: >-
-  Yu, Kim and Kim (2026), read in NOTE-tmpaeun2 (Read). The authors name
+  Yu, Kim and Kim (2026), read in [NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md) (Read). The authors name
   "Retrieval Collapse", a two-stage failure in which (1) AI-generated
   content comes to dominate search results, eroding source diversity, and
   (2) low-quality or adversarial synthetic content enters the retrieval
@@ -31,4 +31,4 @@ Yu, Kim and Kim (2026) report that when LLM-written, search-optimized documents 
 
 ## Evidence
 
-The reading in NOTE-tmpaeun2; its key results are quoted there with locations.
+The reading in [NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md); its key results are quoted there with locations.

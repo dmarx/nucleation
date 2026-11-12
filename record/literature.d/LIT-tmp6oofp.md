@@ -50,7 +50,7 @@ Yitong Lyu and Haidan Chen (2026). "Ethical challenges of adaptive deep brain st
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. It bears on [CASE-128](../cases.d/CASE-128.md), [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).
 
-Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmplfdsz. The
+Unavailable on 2026-11-12. Neighbour read in its place: [LIT-tmplfdsz](LIT-tmplfdsz.md). The
 reader on how far it stands in: One neighbour read: Muñoz et al. (2020),
 "Researcher Perspectives on Ethical Considerations in Adaptive Deep Brain
 Stimulation Trials", *Frontiers in Human Neuroscience* 14:578695, DOI

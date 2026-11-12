@@ -106,8 +106,8 @@ side.
 ## Note of 2026-11-12: Shor and Seida unavailable, and a later study by the same author
 
 The reading pass of 2026-11-12 could not read Shor and Seida 2018
-(LIT-tmp9goww): it is closed, and is now Unavailable. Its reader found a
-later study by the same first author, Shor and Liu 2025 (LIT-tmpagy32,
+([LIT-tmp9goww](../literature.d/LIT-tmp9goww.md)): it is closed, and is now Unavailable. Its reader found a
+later study by the same first author, Shor and Liu 2025 ([LIT-tmpagy32](../literature.d/LIT-tmpagy32.md),
 registered Deferred and unread; only its abstract was seen), which follows
 popular videos from 2000 to 2024 and reports, by its abstract, a rise in
 mostly consensual aggression. So this claim's use of the 2018 study as

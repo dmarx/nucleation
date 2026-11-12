@@ -14,7 +14,7 @@ promote_when: >-
   goal, is taken up or independently defended in a further legal or policy
   analysis of the DSA.
 summary: >-
-  Naudts, Helberger, Veale and Sax (2025), read in NOTE-tmpytbn0 (Read). The
+  Naudts, Helberger, Veale and Sax (2025), read in [NOTE-tmpytbn0](../notes.d/NOTE-tmpytbn0.md) (Read). The
   authors argue that recommender systems on very large online platforms
   (VLOPs) perform a public function, not only a proprietary one, because
   they "determine who sees what and whose content is not seen". Drawing on
@@ -31,4 +31,4 @@ Naudts, Helberger, Veale and Sax (2025) argue that because recommender systems o
 
 ## Evidence
 
-The reading in NOTE-tmpytbn0; its key results are quoted there with locations.
+The reading in [NOTE-tmpytbn0](../notes.d/NOTE-tmpytbn0.md); its key results are quoted there with locations.

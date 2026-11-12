@@ -78,5 +78,5 @@ preserved the teacher, giving no change.
 
 ## Note of 2026-11-12: Yu, Kim and Kim (2026), read
 
-From the reading in NOTE-tmpaeun2 (LIT-tmp9a7jh), the reader's assessment as
+From the reading in [NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md) ([LIT-tmp9a7jh](../literature.d/LIT-tmp9a7jh.md)), the reader's assessment as
 checked by the filer: same family; no direct bearing beyond the contrast.

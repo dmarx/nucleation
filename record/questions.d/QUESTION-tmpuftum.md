@@ -26,7 +26,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmp9g14f — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpyc5md CLAIM-tmpvceet — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
-<!-- inactive-ok-file: LIT-tmpv9xn3 LIT-tmp6n74q LIT-tmpq8pi2 LIT-tmp6iql7 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpv9xn3 LIT-tmp6n74q LIT-tmpq8pi2 — Deferred; registered from the same exchange, unread -->
 
 # QUESTION-tmpuftum: How can the set of demands an organization's compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization's own governance?
 
@@ -75,7 +75,7 @@ checked against a reference set the organization did not choose.
 
 ## Note of 2026-11-12: Moats et al. (2026), read
 
-From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+From the reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)), the reader's assessment as
 checked by the filer: *supports* its third failure mode ("what demands
 mean") with ethnographic instances, and adds two the question does not name:
 **pushing** (a demand presumed held by the claimants but imposed on them, a
@@ -90,7 +90,7 @@ itself narrowing.
 
 ## Note of 2026-11-12: Caliari and Petri, read
 
-From the reading in NOTE-tmp9g14f (LIT-tmpwc3j6), the reader's assessment as
+From the reading in [NOTE-tmp9g14f](../notes.d/NOTE-tmp9g14f.md) ([LIT-tmpwc3j6](../literature.d/LIT-tmpwc3j6.md)), the reader's assessment as
 checked by the filer: , failure mode 2 ("behavioral observations are
 evidence about a demand, not automatically the demand itself"): *supports*,
 formally. Identical aggregate behaviour is consistent with populations whose

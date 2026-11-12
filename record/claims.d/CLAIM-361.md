@@ -211,7 +211,7 @@ unread). Supports; no status change.
 
 ## Note of 2026-11-12: Moats et al. (2026), read
 
-From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+From the reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)), the reader's assessment as
 checked by the filer: *supports* the claim's point that changing the test
 while keeping the name is not satisfaction ("presented as if it had been
 fulfilled", result 3), and tickboxing's entrenchment (result 5) is an

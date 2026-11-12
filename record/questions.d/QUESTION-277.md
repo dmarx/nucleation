@@ -363,6 +363,6 @@ Mauss ([NOTE-1658](../notes.d/NOTE-1658.md)) gives a social route to dependence 
 
 ## Note of 2026-11-12: Nakhal et al. (2026), read
 
-From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
+From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
 checked by the filer: use "vertical transmission" for symbiont inheritance;
 result 3 is a measured analogue at the community level, a minor link.

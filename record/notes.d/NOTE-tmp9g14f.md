@@ -56,9 +56,9 @@ random utility model (RUM); random non-utility model (RNUM); irrational RUM (I-R
 
 **How far it stands in.** Same author, same concern (choice data underdetermine welfare-relevant preferences), different level (aggregate, theoretical). It restates none of the target's specific results.
 
-- **QUESTION-tmpuftum**, failure mode 2 ("behavioral observations are evidence about a demand, not automatically the demand itself"): *supports*, formally. Identical aggregate behaviour is consistent with populations whose individual "demands" differ in kind (result 1), so an inferred acceptance set Â_i fixed from aggregate behaviour is underdetermined unless the analyst brings prior knowledge (result 4), which is the governance-shaped input the question worries about.
-- **CLAIM-tmpmz271** (activity- or revenue-weighted demand diverges from person-weighted preference): a cousin: both say aggregate observables can mislead about individual preference; this one about rationality, that one about weighting. No direct support.
-- Recheck on origin/main for "random utility", the arXiv ID and title: only LIT-1326 ("Algorithmic monoculture and social welfare") mentions random utility, in another context. Not held.
+- **[QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)**, failure mode 2 ("behavioral observations are evidence about a demand, not automatically the demand itself"): *supports*, formally. Identical aggregate behaviour is consistent with populations whose individual "demands" differ in kind (result 1), so an inferred acceptance set Â_i fixed from aggregate behaviour is underdetermined unless the analyst brings prior knowledge (result 4), which is the governance-shaped input the question worries about.
+- **[CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)** (activity- or revenue-weighted demand diverges from person-weighted preference): a cousin: both say aggregate observables can mislead about individual preference; this one about rationality, that one about weighting. No direct support.
+- Recheck on origin/main for "random utility", the arXiv ID and title: only [LIT-1326](../literature.d/LIT-1326.md) ("Algorithmic monoculture and social welfare") mentions random utility, in another context. Not held.
 
 ## Limitations
 

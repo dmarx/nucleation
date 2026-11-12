@@ -14,7 +14,7 @@ promote_when: >-
   finds autonomy and control over automatic stimulation among the concerns
   raised by a majority of respondents.
 summary: >-
-  Muñoz et al. (2020), read in NOTE-tmpc3zs5 (Skimmed). Semi-structured
+  Muñoz et al. (2020), read in [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md) (Skimmed). Semi-structured
   interviews with 23 researchers in aDBS trials, thematic analysis. Eight
   themes, by frequency: data privacy and security (91%), risks and safety
   (83%), informed consent (74%), automaticity and device programming (65%),
@@ -31,4 +31,4 @@ Muñoz and colleagues (2020) report that researchers running adaptive deep brain
 
 ## Evidence
 
-The reading in NOTE-tmpc3zs5; its key results are quoted there with locations.
+The reading in [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md); its key results are quoted there with locations.

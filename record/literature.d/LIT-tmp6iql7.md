@@ -25,7 +25,7 @@ keywords: []
 implementations: []
 summary: >-
   Moats et al. (2026), DOI-10.1177/29768640261457507. Read on 2026-11-12 in
-  NOTE-tmpefsvl: Drawing on ethnographic studies across six European
+  [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md): Drawing on ethnographic studies across six European
   countries (Finland, Sweden, Denmark, Belgium, Slovenia, UK; the abstract
   says five), the authors argue that invoking "public values" against big
   tech without specifying them produces practical problems "even to the
@@ -38,7 +38,7 @@ summary: >-
   mismatch (border-control face-match threshold vs airport "flow"; smart
   thermostats vs home comfort; Epic/Apotti efficiency vs physicians'
   "fluency"), and value projection ("human-centric" Aurora AI; "green
-  transition"; holism in digital twins). Its account is THEORY-tmp84bs2.
+  transition"; holism in digital twins). Its account is [THEORY-tmp84bs2](../theory.d/THEORY-tmp84bs2.md).
   Registered from the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11), where A cited it at A42 §3.
 ---
@@ -50,7 +50,7 @@ David Moats, Minna Ruckenstein, Dorthe Brogård Kristensen, Maria Eidenskog, Eli
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpefsvl). A typology of five ways a stated value
+Read on 2026-11-12 ([NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md)). A typology of five ways a stated value
 comes apart from practice, framed as an extension of Selbst et al.'s "traps"
 beyond formalisation, from a pragmatist/valuation-studies view of values as
 malleable resources.
@@ -59,5 +59,5 @@ malleable resources.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §3. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), [CLAIM-361](../claims.d/CLAIM-361.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpefsvl and its account
-THEORY-tmp84bs2.
+Read on 2026-11-12; the reading is [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) and its account
+[THEORY-tmp84bs2](../theory.d/THEORY-tmp84bs2.md).

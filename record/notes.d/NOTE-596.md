@@ -204,6 +204,6 @@ to the appearance of design without a designer".
 
 ## Note of 2026-11-12: Nickl, Moussaïd and Lorenz-Spreen (2025), read
 
-From the reading in NOTE-tmppj4sz (LIT-tmpaptli), the reader's assessment as
-checked by the filer: and **LIT-1932** (units of inheritance): the paper's
+From the reading in [NOTE-tmppj4sz](NOTE-tmppj4sz.md) ([LIT-tmpaptli](../literature.d/LIT-tmpaptli.md)), the reader's assessment as
+checked by the filer: and **[LIT-1932](../literature.d/LIT-1932.md)** (units of inheritance): the paper's
 cultural-selection framing is the same family; no specific bearing.

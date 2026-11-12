@@ -51,7 +51,7 @@ Daniele Caliari (2026). "Behavioural welfare analysis and revealed preference: t
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §2. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpwc3j6. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpwc3j6](LIT-tmpwc3j6.md). The
 reader on how far it stands in: Read: Caliari and Petri, "Irrational Random
 Utility Models", arXiv:2403.10208v2 (28 May 2025). Report:
 `LIT-tmp6n74q__neighbour-caliari-petri-irrational-rum.md`. It stands in only

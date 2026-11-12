@@ -247,7 +247,7 @@ The owner's choice between the fidelity-relative and the institutional sense is 
 
 ## Note of 2026-11-12: Moats et al. (2026), read
 
-From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
-checked by the filer: and **THEORY-859** (regulatory capture through the
+From the reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)), the reader's assessment as
+checked by the filer: and **[THEORY-859](../theory.d/THEORY-859.md)** (regulatory capture through the
 evaluative framework): tickboxing's "benchmark that ... changes the actual
 meaning" is a mild, non-captured cousin; the paper does not claim capture.

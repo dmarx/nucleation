@@ -136,6 +136,6 @@ It carries nothing for ML practice, and there is no Anthology document it should
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+From the reading in [NOTE-tmp4k6g1](NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
 checked by the filer: names advance directives (Dworkin, Jaworska, Dresser)
 as identity-adjacent; Millum adds nothing on them.

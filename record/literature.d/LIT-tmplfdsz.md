@@ -32,13 +32,13 @@ summary: >-
   with 23 researchers in adaptive deep brain stimulation trials: data
   privacy, safety and consent are raised most, and over half raise patient
   autonomy and control, since stimulation changes automatically and may go
-  unnoticed. A partial stand-in for LIT-tmp6oofp. Skimmed on 2026-11-12 in
-  NOTE-tmpc3zs5: Semi-structured interviews with 23 researchers in aDBS
+  unnoticed. A partial stand-in for [LIT-tmp6oofp](LIT-tmp6oofp.md). Skimmed on 2026-11-12 in
+  [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md): Semi-structured interviews with 23 researchers in aDBS
   trials, thematic analysis. Eight themes, by frequency: data privacy and
   security (91%), risks and safety (83%), informed consent (74%),
   automaticity and device programming (65%), patient autonomy and control
   over stimulation (57%), patient selection (39%), post-trial access (39%),
-  personality and identity (30%). Its account is THEORY-tmpzgklq.
+  personality and identity (30%). Its account is [THEORY-tmpzgklq](../theory.d/THEORY-tmpzgklq.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmp6oofp — Unavailable; filed from the same exchange -->
@@ -62,9 +62,9 @@ control undermines autonomy.
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmp6oofp. It carries the empirical side of
+Registered as a stand-in for [LIT-tmp6oofp](LIT-tmp6oofp.md). It carries the empirical side of
 two of Lyu and Chen's themes (unperceived automatic operation; shared
 control) and not their source-by-perception framework.
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpc3zs5 and its account
-THEORY-tmpzgklq.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md) and its account
+[THEORY-tmpzgklq](../theory.d/THEORY-tmpzgklq.md).

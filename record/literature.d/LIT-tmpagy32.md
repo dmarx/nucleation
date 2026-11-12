@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-12, not read. Found as a lead by the reader of LIT-tmp9goww
+  filed 2026-11-12, not read. Found as a lead by the reader of [LIT-tmp9goww](LIT-tmp9goww.md)
   (Shor and Seida 2018) in the reading pass after the exchange "Medical
   Ethics and Media Enshitification" (2026-11-11). OpenAlex, Crossref and
   Europe PMC (PMID 41065650) show no open-access copy; only the abstract was
@@ -29,9 +29,9 @@ implementations: []
 summary: >-
   Shor and Liu (2025), DOI-10.1080/00224499.2025.2565660. By its abstract
   only, a longitudinal study of popular Pornhub videos from 2000 to 2024 by
-  the first author of LIT-tmp9goww, reporting a rise in aggression over the
+  the first author of [LIT-tmp9goww](LIT-tmp9goww.md), reporting a rise in aggression over the
   period, mostly consensual. Unverified until read. It bears on
-  CLAIM-tmpcv1pg, which cites the 2018 study as evidence against a strong
+  [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md), which cites the 2018 study as evidence against a strong
   industry-wide version of its explanation.
 ---
 <!-- inactive-ok-file: LIT-tmp9goww — Unavailable; filed from the same exchange -->
@@ -50,5 +50,5 @@ over 2000-2024, chiefly spanking, with nonconsensual aggression rare.
 
 ## Standing in the record
 
-A lead, registered so that the 2018 result (LIT-tmp9goww) is not cited
+A lead, registered so that the 2018 result ([LIT-tmp9goww](LIT-tmp9goww.md)) is not cited
 alone. Its finding is not stated as read anywhere in the record.

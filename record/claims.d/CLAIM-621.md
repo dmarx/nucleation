@@ -110,6 +110,6 @@ against rival users is what does the reproducing.
 
 ## Note of 2026-11-12: Moats et al. (2026), read
 
-From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+From the reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)), the reader's assessment as
 checked by the filer: value projection is a direct instance ("boundary
 objects", result 8; "green transition" persists because vague).

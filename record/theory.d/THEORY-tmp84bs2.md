@@ -17,7 +17,7 @@ promote_when: >-
   reports at least narrowing and projection, in the paper's sense, in cases
   the authors did not themselves study.
 summary: >-
-  Moats et al. (2026), read in NOTE-tmpefsvl (Read). Drawing on ethnographic
+  Moats et al. (2026), read in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) (Read). Drawing on ethnographic
   studies across six European countries (Finland, Sweden, Denmark, Belgium,
   Slovenia, UK; the abstract says five), the authors argue that invoking
   "public values" against big tech without specifying them produces
@@ -41,4 +41,4 @@ Moats and colleagues (2026) argue, from ethnographic cases across European algor
 
 ## Evidence
 
-The reading in NOTE-tmpefsvl; its key results are quoted there with locations.
+The reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md); its key results are quoted there with locations.

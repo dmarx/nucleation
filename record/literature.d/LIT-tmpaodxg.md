@@ -27,7 +27,7 @@ keywords: []
 implementations: []
 summary: >-
   Scalco et al. (2026), DOI-10.1038/s41598-026-69786-8. Read on 2026-11-12
-  in NOTE-tmp9yggi: Treating the online information ecosystem as a market
+  in [NOTE-tmp9yggi](../notes.d/NOTE-tmp9yggi.md): Treating the online information ecosystem as a market
   with information **demand** (Wikipedia page views, Google Trends) and
   **supply** (Facebook posts via CrowdTangle, Twitter full-archive, GDELT
   news volume), the authors rescale each series by its mean, define an
@@ -35,7 +35,7 @@ summary: >-
   outliers by an IQR rule. Anomalies with δ < 0 are **voids** (demand far
   exceeds supply), δ > 0 **overabundance**; a five-regime scale runs Void /
   Lack / Balance / Abundance / Overabundance. Its account is
-  THEORY-tmpp061k. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmpp061k](../theory.d/THEORY-tmpp061k.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A35 §7.
 ---
 <!-- inactive-ok-file: THEORY-tmpp061k — Proposed; filed from the same exchange -->
@@ -47,7 +47,7 @@ Irene Scalco, Francesco Gesualdo, Roy Cerqueti and Matteo Cinelli (2026). "How t
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp9yggi). An operational, replicable definition
+Read on 2026-11-12 ([NOTE-tmp9yggi](../notes.d/NOTE-tmp9yggi.md)). An operational, replicable definition
 and detector for "information voids" as anomalous demand–supply imbalances,
 plus an associational link between voids and lower average source
 credibility.
@@ -56,5 +56,5 @@ credibility.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A35 §7. It bears on [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp9yggi and its account
-THEORY-tmpp061k.
+Read on 2026-11-12; the reading is [NOTE-tmp9yggi](../notes.d/NOTE-tmp9yggi.md) and its account
+[THEORY-tmpp061k](../theory.d/THEORY-tmpp061k.md).

@@ -74,7 +74,7 @@ discretion; weighing of children's interests; incidental findings.
 **On the LIT's and the exchange's characterization.** "There is no separate right to an open future, the protections it is invoked for
 being grounded in children's existing rights and interests": **accurate.**
 
-- **QUESTION-tmp2lvhi** (what legitimates authority over another's body when they
+- **[QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md)** (what legitimates authority over another's body when they
   have standing but cannot decide): **answers one sub-question and sharpens the
   asymmetry.** The question asks whether "the future adult's interest in deciding"
   is a ground of its own; Millum argues it is not: what it protects is bodily
@@ -89,20 +89,20 @@ being grounded in children's existing rights and interests": **accurate.**
 
 Searched for open future, Feinberg, rights-in-trust, Darwall, autonomy as demand,
 parental discretion, advance directive.
-- **THEORY-464** (in identity-involving ethics the deciding relation is usually
+- **[THEORY-464](../theory.d/THEORY-464.md)** (in identity-involving ethics the deciding relation is usually
   not numerical identity): consistent; Millum's argument never turns on whether
   child and adult are the same person, only on present capacity and interests.
   Leaves the theory's claim untouched; a mild illustration.
-- **QUESTION-364** (continuation of a will under revision of its standards):
+- **[QUESTION-364](../questions.d/QUESTION-364.md)** (continuation of a will under revision of its standards):
   Millum's "Last week’s autonomous decision is no longer authoritative" is a
   position on the question's authorization-by-history: for a competent agent, the
   present decision governs. Bears on it as one answer for the competent case.
-- **CASE-128** (voluntary delegation against imposed restriction): tension worth
+- **[CASE-128](../cases.d/CASE-128.md)** (voluntary delegation against imposed restriction): tension worth
   noting for the filer: Millum's principle, taken strictly, would deny the earlier
-  self's delegation authority over the later competent self, which is what CASE-128
+  self's delegation authority over the later competent self, which is what [CASE-128](../cases.d/CASE-128.md)
   turns on. Millum does not discuss precommitment, so this is a question for the
   record, not his claim.
-- **NOTE-166 / THEORY-464 (Dufner SEP)** names advance directives (Dworkin,
+- **[NOTE-166](NOTE-166.md) / [THEORY-464](../theory.d/THEORY-464.md) (Dufner SEP)** names advance directives (Dworkin,
   Jaworska, Dresser) as identity-adjacent; Millum adds nothing on them.
 - **Duplicate check:** no other LIT holds DOI 10.1111/japp.12790 or this title. His
   earlier "Foundation" article (cited n. 14, 24) is not held.

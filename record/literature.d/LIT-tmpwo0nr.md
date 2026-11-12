@@ -38,5 +38,5 @@ Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitifica
 
 ## Note of 2026-11-12: Nakhal et al. (2026), read
 
-From the reading in NOTE-tmp5kj27 (LIT-tmp7144o), the reader's assessment as
+From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](LIT-tmp7144o.md)), the reader's assessment as
 checked by the filer: closest neighbour on enteric development.

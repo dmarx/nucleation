@@ -23,10 +23,10 @@ keywords: []
 implementations: []
 summary: >-
   Millum (2025), DOI-10.1111/japp.12790. Read on 2026-11-12 in
-  NOTE-tmp4k6g1: Millum argues that there is no distinctive "right to an
+  [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md): Millum argues that there is no distinctive "right to an
   open future" (Feinberg's rights-in-trust). As a negative right it would
   rest either on future autonomy or on analogy. Its account is
-  THEORY-tmp65ljh. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmp65ljh](../theory.d/THEORY-tmp65ljh.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A3 §4 and its reading
   list.
 ---
@@ -38,7 +38,7 @@ Joseph Millum (2025). "No Right to an Open Future." *Journal of Applied Philosop
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp4k6g1). A reduction: everything the open-future
+Read on 2026-11-12 ([NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md)). A reduction: everything the open-future
 right is invoked for is either an existing right of the child (bodily
 integrity) or an interest to be weighed; the right adds no ground and no
 priority.
@@ -47,5 +47,5 @@ priority.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §4 and its reading list. It bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp4k6g1 and its account
-THEORY-tmp65ljh.
+Read on 2026-11-12; the reading is [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) and its account
+[THEORY-tmp65ljh](../theory.d/THEORY-tmp65ljh.md).

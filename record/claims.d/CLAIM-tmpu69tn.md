@@ -104,7 +104,7 @@ regulation be part of genuine self-government?" Or how interests are
 
 ## Note of 2026-11-12: Muñoz et al. (2020), read
 
-From the reading in NOTE-tmpc3zs5 (LIT-tmplfdsz), the reader's assessment as
+From the reading in [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md) ([LIT-tmplfdsz](../literature.d/LIT-tmplfdsz.md)), the reader's assessment as
 checked by the filer: supports the use of aDBS as an "outside, authorized"
 influence whose operation may be unperceived; it says nothing on alignment
 beyond safety concerns.

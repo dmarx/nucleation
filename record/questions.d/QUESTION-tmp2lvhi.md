@@ -87,7 +87,7 @@ session); adopting it is the owner's call.
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in NOTE-tmp4k6g1 (LIT-tmpapwfu), the reader's assessment as
+From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
 checked by the filer: **answers one sub-question and sharpens the
 asymmetry.** The question asks whether "the future adult's interest in
 deciding" is a ground of its own; Millum argues it is not: what it protects

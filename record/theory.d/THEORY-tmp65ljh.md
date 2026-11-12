@@ -21,7 +21,7 @@ promote_when: >-
   priority of future options that is neither present autonomy nor a weighed
   interest.
 summary: >-
-  Millum (2025), read in NOTE-tmp4k6g1 (Read). Millum argues that there is
+  Millum (2025), read in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) (Read). Millum argues that there is
   no distinctive "right to an open future" (Feinberg's rights-in-trust). As
   a negative right it would rest either on future autonomy or on analogy.
 ---
@@ -34,4 +34,4 @@ Millum argues that there is no distinctive right to an open future: the argument
 
 ## Evidence
 
-The reading in NOTE-tmp4k6g1; its key results are quoted there with locations.
+The reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md); its key results are quoted there with locations.

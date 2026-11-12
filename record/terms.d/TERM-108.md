@@ -107,13 +107,13 @@ the owner's call.
 
 ## Note of 2026-11-12: Moats et al. (2026), read
 
-From the reading in NOTE-tmpefsvl (LIT-tmp6iql7), the reader's assessment as
+From the reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)), the reader's assessment as
 checked by the filer: value narrowing is the discursive counterpart, where
 the proxy keeps the outcome's name. Not cited by the LIT.
 
 ## Note of 2026-11-12: Yu, Kim and Kim (2026), read
 
-From the reading in NOTE-tmpaeun2 (LIT-tmp9a7jh), the reader's assessment as
+From the reading in [NOTE-tmpaeun2](../notes.d/NOTE-tmpaeun2.md) ([LIT-tmp9a7jh](../literature.d/LIT-tmp9a7jh.md)), the reader's assessment as
 checked by the filer: the paper's "deceptively healthy" state is accuracy as
 a proxy for evidential health diverging from provenance; the authors do not
 frame it so.
