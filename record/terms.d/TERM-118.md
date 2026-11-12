@@ -32,7 +32,7 @@ history:
     Now draws on THEORY-670, Vetter's 'breakable', "plain possibility",
     for the ability sense, and 'fragile', "manifestation in a sufficient
     proportion of cases", for the tendency sense. First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - metaphysics
 - agency
@@ -59,7 +59,7 @@ summary: >-
 draws_on:
 - THEORY-670
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-619 — filed from the same exchange, Proposed; the case the finking row names -->
 <!-- inactive-ok-file: TERM-086 TERM-104 CLAIM-553 CLAIM-417 THEORY-670 CLAIM-445 TERM-098 — Proposed; the entries whose uses of the word this term sorts, cited as open -->
 

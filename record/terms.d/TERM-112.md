@@ -22,7 +22,7 @@ history:
   note: >-
     Now draws on THEORY-1394, Larson and Odoni's units that "would not
     ordinarily be used in the routine assignment". First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - operations-research
 - agency
@@ -42,7 +42,7 @@ summary: >-
 draws_on:
 - THEORY-1394
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the paper the book stands in for, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-107 — Proposed; a term of the same filing, cited as filed -->
 

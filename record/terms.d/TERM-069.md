@@ -26,7 +26,7 @@ history:
   note: >-
     Draws on THEORY-032 ("The hom-functor with its action
     identifies an object"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - mathematics
 - epistemology
@@ -44,7 +44,7 @@ summary: >-
 draws_on:
 - THEORY-032
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the evidential reading of probe agreement, cited as open -->
 

@@ -18,7 +18,7 @@ history:
     Now draws on THEORY-1401 ("The definition is Bogetoft and
     Hougaard's"), THEORY-1421 ("Slack held idle for an uncertain need")
     and THEORY-1416 ("Headroom that is busy"). First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - society-and-governance
 - operations-research
@@ -43,7 +43,7 @@ draws_on:
 - THEORY-1421
 - THEORY-1416
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2076 — Unfetched; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-2085 — Unavailable; Halfin and Whitt, cited through the neighbour that stands in for it -->
 <!-- inactive-ok-file: TERM-113 — Proposed; terms of the same filing, cited as filed -->

@@ -19,7 +19,7 @@ history:
     Draws on THEORY-756 ("a process's own pasts for its own
     future") and THEORY-820 ("the micro pasts for a
     coarse-graining's future"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - information-theory
 - complex-systems
@@ -40,7 +40,7 @@ draws_on:
 - THEORY-756
 - THEORY-820
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-062: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target
 

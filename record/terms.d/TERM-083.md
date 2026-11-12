@@ -23,7 +23,7 @@ history:
     sentience", grounds that "would let insects or near-future AI outweigh
     humanity", and "adaptive self-maintenance as enough, without
     sentience, for a good of one's own". First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - ethics
 - personhood
@@ -45,7 +45,7 @@ draws_on:
 - THEORY-554
 - THEORY-699
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
+<!-- inactive-ok-file: ADR-095 THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
 # TERM-083: moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others

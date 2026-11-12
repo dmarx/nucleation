@@ -16,7 +16,7 @@ history:
   date: '2026-11-12'
   note: >-
     Now draws on THEORY-1378: "It can stop learning altogether". First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 tags:
 - game-theory
 - society-and-governance
@@ -39,7 +39,7 @@ summary: >-
 draws_on:
 - THEORY-1378
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2062 LIT-1573 — Unfetched; works cited for their published abstract or as the source of a sense, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-1371 CASE-173 — Proposed; an account and a case cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->

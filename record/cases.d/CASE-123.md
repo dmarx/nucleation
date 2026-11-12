@@ -20,7 +20,7 @@ history:
     (THEORY-851)"); THEORY-850 ("two-way favors at five events, with
     private advertisers as control (THEORY-850)"); and THEORY-837 ("it
     has the press variant's dependence and not its loop
-    (THEORY-837)"). First application of draws_on (ADR-tmpcd2gu). No
+    (THEORY-837)"). First application of draws_on (ADR-095). No
     other change.
 standing: stipulated
 kind: thought-experiment
@@ -48,7 +48,7 @@ draws_on:
 - THEORY-850
 - THEORY-837
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
 # CASE-123: The regulator and two accounts: a formally independent regulator weighs two parties' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight

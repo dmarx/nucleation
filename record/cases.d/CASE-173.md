@@ -19,7 +19,7 @@ history:
   note: >-
     Draws on THEORY-1049 ("above THEORY-1049's 400 kb boundary for
     complete envelope loss"); THEORY-1051 ("That turns the case into a
-    measurement"). First application of draws_on (ADR-tmpcd2gu). No other
+    measurement"). First application of draws_on (ADR-095). No other
     change.
 standing: documented
 kind: specimen
@@ -42,7 +42,7 @@ draws_on:
 - THEORY-1049
 - THEORY-1051
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 
 # CASE-173: Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's

@@ -32,7 +32,7 @@ history:
     competing units to a network"); THEORY-321 ("THEORY-321's condition
     (Golub and Jackson) in variance form"); THEORY-960 ("That ℓ is
     DeGroot's consensus weight is his Theorem 3 (THEORY-960)"). First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -61,7 +61,7 @@ draws_on:
 - THEORY-321
 - THEORY-960
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; the reflected-appraisal reading named as where endogenous influence enters, nothing here rests on it -->
 
 # CASE-160: Interacting accumulators on an influence network: if each perspective's continuous support for one of two interpretations follows dxᵢ = [dᵢ − λxᵢ + κ Σⱼ Wᵢⱼxⱼ]dτ + noise, with W irreducible and row-stochastic and ℓ its left eigenvector, then ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, so the ℓ-weighted support L = ℓ·x is exactly an Ornstein–Uhlenbeck process with drift ℓ·d, rate κ − λ and variance ℓᵀΣℓ, and a drift-diffusion process at κ = λ; with tanh coupling and member noise the transition is at κ_c = λ/E[sech² ε], not at κ = λ

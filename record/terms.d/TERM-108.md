@@ -11,7 +11,7 @@ history:
   note: >-
     Now draws on THEORY-1384, coverage as "a proxy for the real objective"
     of survival: "Misalignment can be large". First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - operations-research
 - society-and-governance
@@ -32,7 +32,7 @@ summary: >-
 draws_on:
 - THEORY-1384
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2090 — Unavailable; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1384 TERM-110 — Proposed; Erkut and colleagues' account and the ratchet term of the same filing, cited as filed -->
 

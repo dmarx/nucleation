@@ -13,7 +13,7 @@ history:
     THEORY-328 ("the warning that a historical condition may not separate
     the installed agent from an ordinarily caused one"); THEORY-047 and
     THEORY-054 ("The construction locates where to look"). First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -46,7 +46,7 @@ draws_on:
 - THEORY-047
 - THEORY-054
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: THEORY-040 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 TERM-066 CLAIM-329 CLAIM-545 — Proposed, Open or Deferred; the entries on which provenance matters, cited as open -->
 
 # CASE-191: A construction of self-formation: an agent's own frustration at two demands one shared output cannot meet drives production of a sensor and a differentiating channel that then maintain each other; past a threshold of discrepancy (D ≈ 0.645 at unit drive) the capacity forms, outlasts the conflict, meets later conflicts of the same class up to D ≈ 1.047 with no frustration, and is lost at damage 0.5; a capacity upheld from outside is told apart by knockouts afterwards, but one installed by an outside pulse and then self-maintained is told apart only by a knockout during formation

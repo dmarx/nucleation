@@ -11,7 +11,7 @@ history:
   note: >-
     Now draws on THEORY-055, whose concept of action readiness the term
     takes while "Using the term commits a claim to neither half of" the
-    account. First application of draws_on (ADR-tmpcd2gu). No other
+    account. First application of draws_on (ADR-095). No other
     change.
 tags:
 - emotion-and-affect
@@ -36,7 +36,7 @@ summary: >-
 draws_on:
 - THEORY-055
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-055 THEORY-057 — Proposed; the account this term is separated from, its neighbour and its rival, and the term that builds on its marks -->
 
 # TERM-094: action readiness, with control precedence, in Frijda's sense: a state of preparation for action, not a representation of a desirable state, that claims control over behaviour by persisting until an end state, resuming after interruption, capturing attention and taking priority over other actions

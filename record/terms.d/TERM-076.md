@@ -40,7 +40,7 @@ history:
     'wanting', not 'liking'"), THEORY-894 ("kept as a measure of
     cardinal inconsistency") and THEORY-896 ("exactly that no
     chain of winning moves cycles"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - emotion-and-affect
 - motivation
@@ -71,7 +71,7 @@ draws_on:
 - THEORY-894
 - THEORY-896
 ---
-<!-- inactive-ok-file: THEORY-045 THEORY-055 THEORY-101 THEORY-628 THEORY-893 ADR-tmpcd2gu — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: THEORY-045 THEORY-055 THEORY-101 THEORY-628 THEORY-893 ADR-095 — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1462 — Unavailable or Proposed; Monderer and Shapley, read second-hand, and its reading -->
 <!-- inactive-ok-file: LIT-1437 — Unavailable, abstract only; Fontaine et al. 2007, cited for the dimension it names -->

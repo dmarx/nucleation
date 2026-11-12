@@ -20,7 +20,7 @@ history:
     exact transformation and a τ-abstraction, and its
     approximate-abstraction distance is 0"); and THEORY-820
     ("THEORY-820 needs stationarity only"). First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -49,7 +49,7 @@ draws_on:
 - THEORY-843
 - THEORY-820
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-336 — Proposed; named as the test this case cannot be, open -->
 
 # CASE-125: A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h

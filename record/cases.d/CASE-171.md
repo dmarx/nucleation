@@ -27,7 +27,7 @@ history:
     Draws on THEORY-1049 ("below the 200 kb at which translation genes
     begin to go (THEORY-1049)"); THEORY-418 ("THEORY-418's test of whether
     complementation alone gives closure"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -48,7 +48,7 @@ draws_on:
 - THEORY-1049
 - THEORY-418
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
 

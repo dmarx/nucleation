@@ -21,7 +21,7 @@ history:
     Draws on THEORY-071 ("THEORY-071, from Barandiaran, Di Paolo
     and Rohde"), THEORY-583 ("Not a homeostat") and THEORY-801
     ("Not TERM-044's third test"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - agency
 - philosophy-of-biology
@@ -43,7 +43,7 @@ draws_on:
 - THEORY-583
 - THEORY-801
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-155 CLAIM-157 CLAIM-167 CLAIM-168 CLAIM-170 THEORY-801 — Proposed; the claims stated in TERM-044 and the wider reading of its third test, named as unchanged -->
 <!-- inactive-ok-file: THEORY-071 THEORY-583 — Proposed; the reading this definition is taken from and a rival account of the self, cited as open -->
 <!-- inactive-ok-file: CLAIM-174 CLAIM-367 — Proposed; the test TERM-044 is defined by and the claims behind the differing verdicts, open -->

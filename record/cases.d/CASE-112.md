@@ -26,7 +26,7 @@ history:
   note: >-
     Draws on THEORY-029 ("The model says what an input does, not what
     makes it authoritative (THEORY-029)"). First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -48,7 +48,7 @@ summary: >-
 draws_on:
 - THEORY-029
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-029 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: ADR-095 THEORY-029 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

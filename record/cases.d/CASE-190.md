@@ -21,7 +21,7 @@ history:
     Draws on THEORY-134 ("viability in THEORY-134's sense"); THEORY-1267
     ("the weaker, graded guarantee that would apply beyond that margin");
     THEORY-1290 ("Both models are de novo in Bechtel and Abrahamsen's
-    sense (THEORY-1290)"). First application of draws_on (ADR-tmpcd2gu).
+    sense (THEORY-1290)"). First application of draws_on (ADR-095).
     No other change.
 standing: fictional
 kind: construction
@@ -54,7 +54,7 @@ draws_on:
 - THEORY-1267
 - THEORY-1290
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-190: A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance
 

@@ -28,7 +28,7 @@ history:
   note: >-
     Draws on THEORY-1421 ("Expiry forecloses it"); THEORY-1410 ("In this
     case that commitment is what keeps the transition possible"). First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -59,7 +59,7 @@ draws_on:
 - THEORY-1421
 - THEORY-1410
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
 # CASE-200: A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it

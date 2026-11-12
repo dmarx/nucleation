@@ -12,7 +12,7 @@ history:
     Draws on THEORY-062 ("reliability arbitration"), THEORY-067
     ("The paradigm is hyperbolic preference reversal") and
     THEORY-070 ("a costly override"). First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - behavioral-integration
 - motivation
@@ -31,7 +31,7 @@ draws_on:
 - THEORY-067
 - THEORY-070
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection to the term's name -->
 <!-- inactive-ok-file: THEORY-062 THEORY-067 THEORY-070 — Proposed; the readings the term is distinguished from -->
 

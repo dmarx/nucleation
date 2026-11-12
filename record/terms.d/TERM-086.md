@@ -12,7 +12,7 @@ history:
     Now draws on THEORY-1280, the definition of agency as "an augmented
     ability to act" that the note of 2026-10-31 reads as "a dispositional
     achievement with its first element, the target, left blank". First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 tags:
 - social-ontology
 - agency
@@ -33,7 +33,7 @@ summary: >-
 draws_on:
 - THEORY-1280
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-086: organizational achievement, of a specified target: its attainment or maintenance, under declared conditions, where an identifiable arrangement of relations among components makes an explanatory difference that a comparison with admissible alternatives can show, as an episode, a maintained capacity or the reproduction of what sustains that capacity
 

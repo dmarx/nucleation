@@ -20,7 +20,7 @@ history:
   note: >-
     Draws on THEORY-044 ("relational frame theory (THEORY-044) gives a
     mechanism for the second outcome"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -42,7 +42,7 @@ bears_on:
 draws_on:
 - THEORY-044
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-044 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
+<!-- inactive-ok-file: ADR-095 THEORY-044 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 
 # CASE-146: Two friendships across a group line: in one, the friend becomes an exception and the person's view of the friend's group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns
 

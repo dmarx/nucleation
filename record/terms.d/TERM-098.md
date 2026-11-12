@@ -32,7 +32,7 @@ history:
   note: >-
     Now draws on THEORY-965: "A feature, in the sense of THEORY-965, is a
     unit a model computes with", which a concept is not. First application
-    of draws_on (ADR-tmpcd2gu). No other change.
+    of draws_on (ADR-095). No other change.
 tags:
 - cognition
 - representation-learning
@@ -49,7 +49,7 @@ summary: >-
 draws_on:
 - THEORY-965
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-965 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
+<!-- inactive-ok-file: ADR-095 THEORY-965 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: CASE-230 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 

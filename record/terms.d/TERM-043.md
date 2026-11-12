@@ -21,7 +21,7 @@ history:
     Draws on THEORY-843 ("the worked graded relation in that
     literature") and THEORY-848 ("for the hidden governance bit
     D_causal is zero, since marginalising the hidden bit is
-    exact"). First application of draws_on (ADR-tmpcd2gu). No
+    exact"). First application of draws_on (ADR-095). No
     other change.
 tags:
 - philosophy-of-language
@@ -40,7 +40,7 @@ draws_on:
 - THEORY-843
 - THEORY-848
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the restatements of the components, cited as open -->
 

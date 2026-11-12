@@ -33,7 +33,7 @@ history:
     Draws on THEORY-424 ("Â depends on an intervention
     distribution"), THEORY-717 ("Blackwell's order") and
     THEORY-847 ("enlarging the declared interventions breaks
-    exactness"). First application of draws_on (ADR-tmpcd2gu). No
+    exactness"). First application of draws_on (ADR-095). No
     other change.
 tags:
 - complex-systems
@@ -61,7 +61,7 @@ draws_on:
 - THEORY-717
 - THEORY-847
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-065: effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description's adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated
 

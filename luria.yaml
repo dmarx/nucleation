@@ -1018,7 +1018,7 @@ schemes:
       drawn_on_by:
         label: Drawn on by
         blurb: the cases and terms that use this account other than as provenance; the converse of their
-          `draws_on`, written by `luria link --fix` (ADR-tmpcd2gu)
+          `draws_on`, written by `luria link --fix` (ADR-095)
         scheme: [CASE, TERM]
         required: false
         many: true
@@ -1517,7 +1517,7 @@ schemes:
         label: Draws on
         blurb: readings this case uses other than where it comes from, as a proposed study's method, measure
           or design constraint, a check its result is set against, or a component of a construction; its
-          kind says how. Not provenance, which is `reported_in`, and not support for a claim (ADR-tmpcd2gu)
+          kind says how. Not provenance, which is `reported_in`, and not support for a claim (ADR-095)
         scheme: THEORY
         required: false
         many: true
@@ -1636,7 +1636,7 @@ schemes:
       draws_on:
         label: Draws on
         blurb: readings this term takes its sense from, or whose usage its definition is fixed against.
-          Not attribution of the word alone, which takes no edge (ADR-tmpcd2gu)
+          Not attribution of the word alone, which takes no edge (ADR-095)
         scheme: THEORY
         required: false
         many: true

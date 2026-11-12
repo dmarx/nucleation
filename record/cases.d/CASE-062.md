@@ -11,7 +11,7 @@ history:
   note: >-
     Draws on THEORY-156 ("Neither contradicts Blackwell's order
     (THEORY-156)"); and THEORY-176 ("THEORY-176's move for restricted
-    rules"). First application of draws_on (ADR-tmpcd2gu). No other
+    rules"). First application of draws_on (ADR-095). No other
     change.
 standing: stipulated
 kind: proposed-study
@@ -37,7 +37,7 @@ draws_on:
 - THEORY-156
 - THEORY-176
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the improvement claim and the Blackwell thesis, cited as open -->
 
 # CASE-062: Simplified texts for restricted and for full readers: a gain and a loss documented on different texts, documented nulls and a reversal, and a design that tests both on the same renderings

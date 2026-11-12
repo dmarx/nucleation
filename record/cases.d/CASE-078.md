@@ -18,7 +18,7 @@ history:
     Silva do (THEORY-216)"); THEORY-214 ("Falmagne et al. could not
     tell an attack from an adopted 'innovation' (THEORY-214)"); and
     THEORY-218 ("Forum records (THEORY-218) would be needed to
-    separate them"). First application of draws_on (ADR-tmpcd2gu). No
+    separate them"). First application of draws_on (ADR-095). No
     other change.
 standing: stipulated
 kind: proposed-study
@@ -41,7 +41,7 @@ draws_on:
 - THEORY-214
 - THEORY-218
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-274 — Proposed or Open; claims, questions and readings the study would test, cited as open -->
 
 # CASE-078: Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools

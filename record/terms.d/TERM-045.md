@@ -56,7 +56,7 @@ history:
     Draws on THEORY-064 ("Metzinger's transparent self-model"),
     THEORY-691 ("Dennett's centre of narrative gravity") and
     THEORY-1299 ("non-egoic self-modelling"). First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - self
 date: '2026-10-11'
@@ -74,7 +74,7 @@ draws_on:
 - THEORY-691
 - THEORY-1299
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->

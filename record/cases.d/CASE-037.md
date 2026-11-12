@@ -10,7 +10,7 @@ history:
   date: '2026-11-12'
   note: >-
     Draws on THEORY-165 ("the jump is consistent with THEORY-165's
-    Lipschitz bound"). First application of draws_on (ADR-tmpcd2gu).
+    Lipschitz bound"). First application of draws_on (ADR-095).
     No other change.
 standing: stipulated
 kind: construction
@@ -34,7 +34,7 @@ summary: >-
 draws_on:
 - THEORY-165
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-037 CLAIM-105 CLAIM-009 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CASE-037: The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues

@@ -15,7 +15,7 @@ history:
     under Eichler and Didelez's conditions"), THEORY-710
     ("Interventional information flow") and THEORY-711 ("Granger
     causality corresponds to its lagged part"). First application
-    of draws_on (ADR-tmpcd2gu). No other change.
+    of draws_on (ADR-095). No other change.
 tags:
 - causality
 - mathematical-statistics
@@ -35,7 +35,7 @@ draws_on:
 - THEORY-710
 - THEORY-711
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-058: Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention
 

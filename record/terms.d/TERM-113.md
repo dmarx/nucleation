@@ -17,7 +17,7 @@ history:
   note: >-
     Now draws on THEORY-1396 for sense 1: "Resources at a facility are
     considered to be always available". First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -39,7 +39,7 @@ summary: >-
 draws_on:
 - THEORY-1396
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2098 LIT-2075 — Unavailable; cited for their published abstracts, nothing here rests on them -->
 <!-- inactive-ok-file: TERM-108 — Proposed; a term of the same filing, cited as filed -->
 

@@ -29,7 +29,7 @@ history:
   date: '2026-11-12'
   note: >-
     Draws on THEORY-055 ("Frijda's three marks of control
-    precedence"). First application of draws_on (ADR-tmpcd2gu). No
+    precedence"). First application of draws_on (ADR-095). No
     other change.
 tags:
 - emotion-and-affect
@@ -50,7 +50,7 @@ complements:
 draws_on:
 - THEORY-055
 ---
-<!-- inactive-ok-file: THEORY-055 ADR-tmpcd2gu — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: THEORY-055 ADR-095 — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
 
 # TERM-078: persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions
 

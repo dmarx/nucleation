@@ -13,7 +13,7 @@ history:
     'synchronous convergence in affective responding'"); and
     THEORY-043 ("The record's group-agency readings (THEORY-043,
     LIT-401) keep agency and phenomenal selfhood apart"). First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -37,7 +37,7 @@ draws_on:
 - THEORY-126
 - THEORY-043
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-160 CLAIM-162 — Proposed; the claims this case illustrates or is set beside, open -->

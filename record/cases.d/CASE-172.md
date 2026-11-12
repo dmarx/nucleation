@@ -17,7 +17,7 @@ history:
   note: >-
     Draws on THEORY-136 ("which is THEORY-136's caution"); THEORY-151 ("On
     Longino's account (THEORY-151)"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -44,7 +44,7 @@ draws_on:
 - THEORY-136
 - THEORY-151
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-151 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
+<!-- inactive-ok-file: ADR-095 THEORY-151 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 
 # CASE-172: Federal science and education in the United States, 2025–2026: grants cancelled, frozen and in part reinstated, staff departures, advisory committees ended and research programs suspended, so that funding, organization and scientific capacity could be restored, or not, separately

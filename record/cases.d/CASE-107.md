@@ -21,7 +21,7 @@ history:
     markers still have to be validated through report or executive
     control (THEORY-298)"); and THEORY-500 ("an 'as if body loop' ...
     (THEORY-500; asserted, not shown)"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -58,7 +58,7 @@ draws_on:
 - THEORY-298
 - THEORY-500
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-090 THEORY-298 THEORY-500 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: ADR-095 THEORY-090 THEORY-298 THEORY-500 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 # CASE-107: Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains
 

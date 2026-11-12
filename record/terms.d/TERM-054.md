@@ -10,7 +10,7 @@ history:
   date: '2026-11-12'
   note: >-
     Draws on THEORY-214 ("So T is defined against a stated set of
-    plans"). First application of draws_on (ADR-tmpcd2gu). No
+    plans"). First application of draws_on (ADR-095). No
     other change.
 tags:
 - complex-systems
@@ -27,7 +27,7 @@ summary: >-
 draws_on:
 - THEORY-214
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-274 — Proposed; claims and readings cited as open -->
 
 # TERM-054: canvas temperature: the rate and spatial spread of placements that follow no coalition's plan, modelled as a stochastic field on the canvas rather than as agents

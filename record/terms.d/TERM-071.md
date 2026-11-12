@@ -25,7 +25,7 @@ history:
     Draws on THEORY-134 ("a question about a constraint set fixed
     independently of the dynamics"), THEORY-418 ("is *not*
     continuation") and THEORY-465 ("being reproduced as against
-    reproducing"). First application of draws_on (ADR-tmpcd2gu).
+    reproducing"). First application of draws_on (ADR-095).
     No other change.
 tags:
 - individuation
@@ -54,7 +54,7 @@ draws_on:
 - THEORY-418
 - THEORY-465
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->
 

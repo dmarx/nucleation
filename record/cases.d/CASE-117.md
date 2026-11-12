@@ -40,7 +40,7 @@ history:
     ("Context-conditioned representations (THEORY-239) give a way to
     tell a functional niche from the mere frequency of its contexts");
     and THEORY-132 ("resilience is not speed of return (THEORY-132)").
-    First application of draws_on (ADR-tmpcd2gu). No other change.
+    First application of draws_on (ADR-095). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -71,7 +71,7 @@ draws_on:
 - THEORY-239
 - THEORY-132
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 

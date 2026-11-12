@@ -26,7 +26,7 @@ history:
   note: >-
     Draws on THEORY-224 ("THEORY-224 (Adams, Fernandez and Witkowski,
     LIT-1034) holds the two kinds"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -53,7 +53,7 @@ reported_in:
 draws_on:
 - THEORY-224
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-224 — Proposed; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->

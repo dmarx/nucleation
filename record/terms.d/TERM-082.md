@@ -19,7 +19,7 @@ history:
     Now draws on THEORY-091 and THEORY-103, Block's distinction of access
     from phenomenal consciousness: "access is lost too" and "phenomenal
     consciousness may overflow access". First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - consciousness
 - cognition
@@ -39,7 +39,7 @@ draws_on:
 - THEORY-091
 - THEORY-103
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-091 THEORY-103 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
+<!-- inactive-ok-file: ADR-095 THEORY-091 THEORY-103 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 
 # TERM-082: consciousness, and which sense: phenomenal, access, self-consciousness or wakefulness
 

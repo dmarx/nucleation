@@ -18,7 +18,7 @@ history:
     information flow"), THEORY-711 ("Full-history transfer entropy
     is its lagged part") and THEORY-712 ("it counts redundancy and
     misses synergy"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 tags:
 - information-theory
 - causality
@@ -43,7 +43,7 @@ draws_on:
 - THEORY-711
 - THEORY-712
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-057: transfer entropy: how much the last l values of a source reduce uncertainty about a target's next value beyond the target's own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect
 

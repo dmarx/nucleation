@@ -17,7 +17,7 @@ history:
   note: >-
     Draws on THEORY-176 and THEORY-156 ("which THEORY-176 shows is not
     Blackwell's order (THEORY-156)"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -40,7 +40,7 @@ draws_on:
 - THEORY-176
 - THEORY-156
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as claims this case bears on, not as settled -->
 <!-- inactive-ok-file: LIT-677 THEORY-182 — Proposed; cited as readings the record already held that bear on the case -->
 

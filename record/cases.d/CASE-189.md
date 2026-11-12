@@ -25,7 +25,7 @@ history:
     THEORY-1266)"); THEORY-1290 ("both constructions are de novo dynamical
     models"); THEORY-1289 ("a clamp in a model (THEORY-1289)"); THEORY-134
     ("not the viability kernel THEORY-134 defines"). First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -58,7 +58,7 @@ draws_on:
 - THEORY-1289
 - THEORY-134
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: NOTE-1562 — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 
 # CASE-189: Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling's gap is still ≈ 0.989

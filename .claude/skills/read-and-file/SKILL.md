@@ -6,7 +6,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-084 ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
-<!-- inactive-ok-file: ADR-093 ADR-094 ADR-tmpcd2gu — Proposed; readings named as evidence, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-093 ADR-094 ADR-095 — Proposed; readings named as evidence, until the owner adopts it -->
 
 # Reading and filing
 
@@ -207,7 +207,7 @@ not a finding.
 - **A reading that marks a limit is `bounds`** (ADR-094), on the
   THEORY, when a claim's own text cites it as a limit of its scope. A
   rival account or an unanswered counterexample is an objection instead.
-- **A case or term that uses a reading is `draws_on`** (ADR-tmpcd2gu),
+- **A case or term that uses a reading is `draws_on`** (ADR-095),
   on the case or term: a case's method, measure, design constraint, check
   or component, a term's sense. `reported_in` stays provenance.
 - **A note that names a reading as evidence writes the relation.** When a

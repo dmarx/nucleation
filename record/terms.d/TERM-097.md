@@ -23,7 +23,7 @@ history:
     expressed"), THEORY-1158 ("a synchronization benchmark built flat")
     and THEORY-1278, whose "incoherence that is not failure" the note of
     2026-10-31 finds "not yet incoherence at all". First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - epistemology
 - mathematics
@@ -47,7 +47,7 @@ draws_on:
 - THEORY-1158
 - THEORY-1278
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-097: coherence, of a family of descriptions, transports or judgements: their agreement with one another under a stated correspondence structure (on overlaps, around cycles, between routes), distinct from fidelity to a source, from integration by dynamics, and from knowledge of the world
 

@@ -28,7 +28,7 @@ history:
   note: >-
     Draws on THEORY-142 ("March's members, organizational code and
     turnover (LIT-729, THEORY-142)"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -57,7 +57,7 @@ summary: >-
 draws_on:
 - THEORY-142
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-327 — Proposed; the claims and terms this design restates or bears on, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-427 — Superseded by ARG-025; its note of 2026-10-26 is cited for the runs, which stay there -->
 <!-- inactive-ok-file: THEORY-142 — Proposed; March's model read as the comparator, nothing here rests on it -->

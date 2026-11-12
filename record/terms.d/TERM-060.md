@@ -19,7 +19,7 @@ history:
     Draws on THEORY-052 ("need frustration, the active thwarting
     of a need, as distinct from a mere lack of its satisfaction")
     and THEORY-232 ("Not Watson's total frustration"). First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 tags:
 - self-governance
 - agency
@@ -42,7 +42,7 @@ draws_on:
 - THEORY-052
 - THEORY-232
 ---
-<!-- inactive-ok-file: THEORY-052 THEORY-232 ADR-tmpcd2gu — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: THEORY-052 THEORY-232 ADR-095 — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->
 

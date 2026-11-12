@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [TERM-096](../../../record/terms.d/TERM-096.md) | group entity, as distinct from a category of members | A group entity is a collection taken as one bounded whole, by configural relations among its members, typically shared mental states; a category of members is a set whose members share a property and are, with respect to it, interchangeable. Membership in a category does not make someone part of a group entity, and the members of a group entity need not be alike. | Proposed |
+| [TERM-096](../../../record/terms.d/TERM-096.md) v2 | group entity, as distinct from a category of members | A group entity is a collection taken as one bounded whole, by configural relations among its members, typically shared mental states; a category of members is a set whose members share a property and are, with respect to it, interchangeable. Membership in a category does not make someone part of a group entity, and the members of a group entity need not be alike. | Proposed |

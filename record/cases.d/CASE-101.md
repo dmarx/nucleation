@@ -23,7 +23,7 @@ history:
     Draws on THEORY-257 ("dynamical independence (THEORY-257)");
     THEORY-222 ("effective information (THEORY-222)"); and THEORY-424
     ("arm A, common input, is where A* fails, as Bourrat argued and
-    THEORY-424 holds"). First application of draws_on (ADR-tmpcd2gu).
+    THEORY-424 holds"). First application of draws_on (ADR-095).
     No other change.
 standing: fictional
 kind: proposed-study
@@ -45,7 +45,7 @@ draws_on:
 - THEORY-222
 - THEORY-424
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-257 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: ADR-095 THEORY-257 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 # CASE-101: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members
 

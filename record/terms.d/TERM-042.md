@@ -22,7 +22,7 @@ history:
     Draws on THEORY-012 ("the family is an empirical model in
     Abramsky and Brandenburger's sense") and THEORY-168 ("there
     the two can give different verdicts"). First application of
-    draws_on (ADR-tmpcd2gu). No other change.
+    draws_on (ADR-095). No other change.
 tags:
 - contextuality
 - philosophy-of-language
@@ -39,7 +39,7 @@ draws_on:
 - THEORY-012
 - THEORY-168
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed; cited for its note on which version of Contextuality-by-Default to cite -->
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
 

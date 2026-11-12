@@ -17,7 +17,7 @@ history:
     Draws on THEORY-072 ("Organizational closure of constraints"),
     THEORY-733 ("for the linear Gaussian form"), THEORY-820 ("What
     the record holds of it") and THEORY-822 ("Strong
-    lumpability"). First application of draws_on (ADR-tmpcd2gu).
+    lumpability"). First application of draws_on (ADR-095).
     No other change.
 tags:
 - complex-systems
@@ -42,7 +42,7 @@ draws_on:
 - THEORY-820
 - THEORY-822
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and agency readings that use organizational closure, cited as open -->
 

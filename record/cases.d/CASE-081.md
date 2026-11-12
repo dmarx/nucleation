@@ -11,7 +11,7 @@ history:
   note: >-
     Draws on THEORY-071 ("C5 (THEORY-071, NOTE-458) says systems
     optimizing an externally fixed function are not models of
-    agency"). First application of draws_on (ADR-tmpcd2gu). No other
+    agency"). First application of draws_on (ADR-095). No other
     change.
 standing: stipulated
 kind: thought-experiment
@@ -30,7 +30,7 @@ summary: >-
 draws_on:
 - THEORY-071
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-081: Self-maintenance learned for a designer's reward: a system that maintains itself because it was trained to, and later revises the policy and keeps maintaining itself without further instruction

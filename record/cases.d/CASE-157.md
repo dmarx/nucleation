@@ -18,7 +18,7 @@ history:
     plain Q-learning (THEORY-932) get bandit feedback"); THEORY-142
     ("turnover, of the kind March found useful (THEORY-142)"); THEORY-938
     ("lock-in by reinforcement alone (THEORY-938) is the null to beat").
-    First application of draws_on (ADR-tmpcd2gu). No other change.
+    First application of draws_on (ADR-095). No other change.
 standing: stipulated
 kind: executed-study
 tags:
@@ -45,7 +45,7 @@ draws_on:
 - THEORY-142
 - THEORY-938
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-142 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
+<!-- inactive-ok-file: ADR-095 THEORY-142 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-938 CLAIM-446 — Proposed or new; the construction, claim and question this bears on -->
 
 # CASE-157: Boosting the vote: in the owner's 2014 model, voters of fixed accuracy drawn from Beta(2, 2) vote in a weight-averaged election, and every voter's weight is multiplied by 1 + f when their own vote was right and 1 − f when not, with a fraction replaced each round at weight 1; with full-information feedback the weighted result rises from 0.50 toward 0.98 as f grows, and churn only costs in a world that never changes; the model escapes the hive mind's absorbing states because every voter is scored, heeded or not, and it assumes away the capture its author predicted

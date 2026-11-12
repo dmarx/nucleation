@@ -32,7 +32,7 @@ history:
   note: >-
     Now draws on THEORY-1090, the reduced constraint that "is not
     expressible in the pairwise vocabulary of sheaves on the boundary
-    graph". First application of draws_on (ADR-tmpcd2gu). No other change.
+    graph". First application of draws_on (ADR-095). No other change.
 tags:
 - compositionality
 - mathematics
@@ -52,7 +52,7 @@ summary: >-
 draws_on:
 - THEORY-1090
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-091: relational vocabulary, of a class of descriptions: the arities and kinds of relation it can state (pairwise or higher-order, among states or among histories, of which declared types), and so which constraints are expressible in it at all
 

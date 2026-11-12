@@ -62,7 +62,7 @@ history:
     THEORY-851 ("the weakest form of such a standard"), THEORY-859
     ("diversion from the public interest through an adopted
     criterion") and THEORY-860 ("show why an outside reference is
-    needed"). First application of draws_on (ADR-tmpcd2gu). No
+    needed"). First application of draws_on (ADR-095). No
     other change.
 tags:
 - self-governance
@@ -84,7 +84,7 @@ draws_on:
 - THEORY-859
 - THEORY-860
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-859 — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->

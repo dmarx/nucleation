@@ -75,7 +75,7 @@ history:
     THEORY-1046 ("availability is told from activation by the data as
     well, weakly"); THEORY-1037 ("a whole-chain sampler of the beam
     type"); THEORY-1044 ("its claim of faster mixing is THEORY-1044").
-    First application of draws_on (ADR-tmpcd2gu). No other change.
+    First application of draws_on (ADR-095). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -114,7 +114,7 @@ draws_on:
 - THEORY-1037
 - THEORY-1044
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the quotient test cited as one way to tell a birth from a split, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1004 — Proposed; a reading of the same day, cited for its measure of presence against use -->
 <!-- inactive-ok-file: THEORY-1044 — Proposed; the beam sampler's mixing claim, cited as open -->

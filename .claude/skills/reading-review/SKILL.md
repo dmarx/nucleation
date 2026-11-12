@@ -3,7 +3,7 @@ name: reading-review
 description: 'A review of the readings (THEORY) the record holds and its argument does not use - which readings in force no line builds on, and what to do about each: tie it to a claim or question that should use it, raise a question or claim it calls for, or record that the argument does not need it. Three modes, by line, by topic and by question. Use it when the owner asks for a reading review or to see what the record has read and not built on, after a run of readings in one topic, or beside a synthesis review of a line. ADR-091 holds the invariants; ADR-090 how a reading''s lines are derived.'
 ---
 <!-- .claude/skills/reading-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 ADR-094 ADR-tmpcd2gu — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 ADR-094 ADR-095 — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Reading review
 
@@ -162,7 +162,7 @@ More recurring cases (ADR-093):
 - **Cases and terms draw on readings.** Where a case's own text uses a
   reading other than as its source (a method, measure, design constraint,
   check or component), or a term's sense is fixed by a reading, tie it as
-  `draws_on`, from the case or term (ADR-tmpcd2gu). Do not write
+  `draws_on`, from the case or term (ADR-095). Do not write
   `reported_in` for it. A reading named only as where a word or case was
   first named, or in passing, takes nothing.
 - **Used only by a synthesis.** Hold it, name the synthesis, and list it in

@@ -40,7 +40,7 @@ history:
     Draws on THEORY-1088 ("by consistency alone, as in discourse sheaves
     (THEORY-1088)"); THEORY-1090 ("reduction can need higher-order
     relations (THEORY-1090)"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -68,7 +68,7 @@ draws_on:
 - THEORY-1088
 - THEORY-1090
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-251 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->

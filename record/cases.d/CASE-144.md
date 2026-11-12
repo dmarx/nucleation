@@ -32,7 +32,7 @@ history:
   date: '2026-11-12'
   note: >-
     Draws on THEORY-142 ("the comparator for this study is March's
-    model"). First application of draws_on (ADR-tmpcd2gu). No other
+    model"). First application of draws_on (ADR-095). No other
     change.
 standing: stipulated
 kind: proposed-study
@@ -59,7 +59,7 @@ bears_on:
 draws_on:
 - THEORY-142
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-142 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
+<!-- inactive-ok-file: ADR-095 THEORY-142 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 
 # CASE-144: The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent

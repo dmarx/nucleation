@@ -29,7 +29,7 @@ history:
     are the existing accounts it would be tested against"); and
     THEORY-1285 ("So an arrangement can be authorized and its result
     still misattributed"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -57,7 +57,7 @@ draws_on:
 - THEORY-067
 - THEORY-1285
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

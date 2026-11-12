@@ -17,7 +17,7 @@ history:
   note: >-
     Draws on THEORY-253 ("The optimizer arm has a documented instance
     in a solvable model"). First application of draws_on
-    (ADR-tmpcd2gu). No other change.
+    (ADR-095). No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -38,7 +38,7 @@ summary: >-
 draws_on:
 - THEORY-253
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-367 CLAIM-157 — Proposed; the claim this case grounds and the claims and reading it uses, cited as open -->
 
 # CASE-113: A deep network under conventional training: competing losses, an external optimizer and a scheduler, with three architectures that move governance inward and crossed interventions that locate it

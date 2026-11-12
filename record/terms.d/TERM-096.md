@@ -12,7 +12,7 @@ history:
     Now draws on THEORY-1112, Skorich's distinction ("requires cues that
     they share mental states"), and THEORY-1115, León's "we", "a group
     entity whose members are the opposite of interchangeable". First
-    application of draws_on (ADR-tmpcd2gu). No other change.
+    application of draws_on (ADR-095). No other change.
 tags:
 - social-identity
 - social-ontology
@@ -29,7 +29,7 @@ draws_on:
 - THEORY-1112
 - THEORY-1115
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1112 THEORY-1115 CLAIM-490 CLAIM-493 — Proposed or Open; the accounts, claims and question the term would let the record state precisely -->
 
 # TERM-096: group entity, as distinct from a category of members
