@@ -31,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-614 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: THEORY-225 — Proposed; cited as on the record -->
-<!-- inactive-ok-file: CLAIM-614 CLAIM-657 — Proposed; cited as on the record -->
+<!-- inactive-ok-file: CLAIM-657 — Proposed; cited as on the record -->
 
 # LIT-tmph9tz9: An Interdisciplinary Review of the Gaslighting Literature and Future Research Agenda
 
@@ -47,4 +47,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. A9 pr
 
 ## Note of 2026-11-12: unfetched; held readings the first search missed
 
-The review was not read. Two held readings bear on the boundary A9 proposed for CLAIM-614, whether counter-normativity needs an intending actor. Fricker's 2017 retrospective (THEORY-327, NOTE-853) sets intentional gaslighting apart from testimonial injustice, which is non-deliberate. The covert-influence analysis of manipulation (THEORY-225, NOTE-744) fits gaslighting among other cases. Whether the review's definition requires intent is what a reading must settle.
+The review was not read. Two held readings bear on the boundary A9 proposed for [CLAIM-614](../claims.d/CLAIM-614.md), whether counter-normativity needs an intending actor. Fricker's 2017 retrospective ([THEORY-327](../theory.d/THEORY-327.md), [NOTE-853](../notes.d/NOTE-853.md)) sets intentional gaslighting apart from testimonial injustice, which is non-deliberate. The covert-influence analysis of manipulation ([THEORY-225](../theory.d/THEORY-225.md), [NOTE-744](../notes.d/NOTE-744.md)) fits gaslighting among other cases. Whether the review's definition requires intent is what a reading must settle.

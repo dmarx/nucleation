@@ -25,7 +25,7 @@ keywords:
 - 'harassment'
 implementations: []
 summary: >-
-  Sara Ahmed (2021), Complaint!, Duke University Press, DOI-10.1215/9781478022336 (chapter 7 co-written with Whitley, Page and Corble and others). Skimmed on 2026-11-12 in NOTE-tmpqarad, from the publisher's sample (the Introduction); account THEORY-tmpvkzx3. Complaint as a phenomenology of the institution: procedures that reproduce what they address and can be turned against complainants; uptake by rank. Corroborates CLAIM-619's phenomenon without its test. Chapters 1–2 are the next reading.
+  Sara Ahmed (2021), Complaint!, Duke University Press, DOI-10.1215/9781478022336 (chapter 7 co-written with Whitley, Page and Corble and others). Skimmed on 2026-11-12 in [NOTE-tmpqarad](../notes.d/NOTE-tmpqarad.md), from the publisher's sample (the Introduction); account [THEORY-tmpvkzx3](../theory.d/THEORY-tmpvkzx3.md). Complaint as a phenomenology of the institution: procedures that reproduce what they address and can be turned against complainants; uptake by rank. Corroborates [CLAIM-619](../claims.d/CLAIM-619.md)'s phenomenon without its test. Chapters 1–2 are the next reading.
 ---
 <!-- inactive-ok-file: THEORY-tmpvkzx3 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: NOTE-tmpqarad — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
@@ -37,7 +37,7 @@ Sara Ahmed (2021). *Complaint!* Duke University Press. DOI-10.1215/9781478022336
 
 ## Key takeaways
 
-Skimmed in NOTE-tmpqarad, the Introduction only. Forty interviews and eighteen statements; complaint as "a phenomenology of the institution"; procedures that reproduce the problems they address and can be used "to bully and to harass"; complaints go further the higher their support.
+Skimmed in [NOTE-tmpqarad](../notes.d/NOTE-tmpqarad.md), the Introduction only. Forty interviews and eighteen statements; complaint as "a phenomenology of the institution"; procedures that reproduce the problems they address and can be used "to bully and to harass"; complaints go further the higher their support.
 
 ## Standing in the record
 

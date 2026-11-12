@@ -22,7 +22,7 @@ keywords:
 - 'interview'
 implementations: []
 summary: >-
-  Kittay interviewed (Careful Thinking, episode 31, 2026). Read on 2026-11-12 in NOTE-tmpp276p, the part on Love's Labor, as a partial stand-in for LIT-tmp2vf7t: dependency work, unpaid, is exploited; doulia, support owed to carers, rests on "nesting relations of dependency" that are "the basis of our society"; Kittay now doubts the state as its ultimate form, given the risk of domination by supporters.
+  Kittay interviewed (Careful Thinking, episode 31, 2026). Read on 2026-11-12 in [NOTE-tmpp276p](../notes.d/NOTE-tmpp276p.md), the part on Love's Labor, as a partial stand-in for [LIT-tmp2vf7t](LIT-tmp2vf7t.md): dependency work, unpaid, is exploited; doulia, support owed to carers, rests on "nesting relations of dependency" that are "the basis of our society"; Kittay now doubts the state as its ultimate form, given the risk of domination by supporters.
 ---
 <!-- inactive-ok-file: LIT-tmp2vf7t — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — Proposed; cited as on the record -->
@@ -33,8 +33,8 @@ Eva Feder Kittay, interviewed by Martin Robb (2026). Disability, dependency, and
 
 ## Key takeaways
 
-Kittay's own words, 2026, on the book's central notions: dependency work, doulia, nested dependency, and her changed view of the state's role (NOTE-tmpp276p).
+Kittay's own words, 2026, on the book's central notions: dependency work, doulia, nested dependency, and her changed view of the state's role ([NOTE-tmpp276p](../notes.d/NOTE-tmpp276p.md)).
 
 ## Standing in the record
 
-A partial stand-in for Love's Labor (LIT-tmp2vf7t): it confirms the book's notions in her words, not its arguments. It bears on QUESTION-tmp9bbpk, QUESTION-tmpojwyk and CLAIM-tmpwn3wr.
+A partial stand-in for Love's Labor ([LIT-tmp2vf7t](LIT-tmp2vf7t.md)): it confirms the book's notions in her words, not its arguments. It bears on [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md), [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md) and [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md).

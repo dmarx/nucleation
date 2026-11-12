@@ -43,12 +43,12 @@ Feminist ear; complaint biography; complaint as testimony; institutional mechani
 
 ## Bearing on the record
 
-- **CLAIM-619** (the counter-corrective disposition): corroborates the phenomenon. Procedures used to bully, complainants complained about, people deterred by past experience from complaining (pp. 20–21) are instances of answering a challenge by restricting the challenger. The evidence is testimonial without a control, so it cannot meet the claim's test. Filed as `corroborates`, with a dated note.
-- **CLAIM-523**: legibility worked for on the institution's terms, and complaints made legible that still do not move action, or are "resolved in ways that reproduce the problems" (p. 22). The operationalization A9 proposed needs the chapters.
-- **CLAIM-403**: uptake by rank (result 3) is credibility varying with position while admission is open.
-- **QUESTION-441**: procedures that reproduce what they address, spread over persons and procedures; Ahmed counts "the people employed by institutions" within the institution (p. 10), so whose the reproduction is stays unseparated. Filed as `bears_on`.
-- **CLAIM-657**: complainants pushed out are a counter-corrective mechanism producing selective disappearance, the two routes that claim asks not to conflate.
-- **TERM-074**: universities, sense 3.
+- **[CLAIM-619](../claims.d/CLAIM-619.md)** (the counter-corrective disposition): corroborates the phenomenon. Procedures used to bully, complainants complained about, people deterred by past experience from complaining (pp. 20–21) are instances of answering a challenge by restricting the challenger. The evidence is testimonial without a control, so it cannot meet the claim's test. Filed as `corroborates`, with a dated note.
+- **[CLAIM-523](../claims.d/CLAIM-523.md)**: legibility worked for on the institution's terms, and complaints made legible that still do not move action, or are "resolved in ways that reproduce the problems" (p. 22). The operationalization A9 proposed needs the chapters.
+- **[CLAIM-403](../claims.d/CLAIM-403.md)**: uptake by rank (result 3) is credibility varying with position while admission is open.
+- **[QUESTION-441](../questions.d/QUESTION-441.md)**: procedures that reproduce what they address, spread over persons and procedures; Ahmed counts "the people employed by institutions" within the institution (p. 10), so whose the reproduction is stays unseparated. Filed as `bears_on`.
+- **[CLAIM-657](../claims.d/CLAIM-657.md)**: complainants pushed out are a counter-corrective mechanism producing selective disappearance, the two routes that claim asks not to conflate.
+- **[TERM-074](../terms.d/TERM-074.md)**: universities, sense 3.
 - **A9's description** is accurate as far as the Introduction goes; the probe reading of complaint is A's.
 
 ## Limitations

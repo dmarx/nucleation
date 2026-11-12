@@ -1,7 +1,7 @@
 ---
 status: Unavailable
 status_note: >-
-  searched 2026-11-12 for a lawful full text and found none. The Taylor & Francis ebook (taylorfrancis.com/books/mono/10.4324/9781315108926) served a Cloudflare challenge; the Routledge page's preview is a widget, not fetched as text; Kittay's own site answered HTTP 406; two University of Wisconsin course PDFs of other Kittay works were removed (404). The publisher's description and table of contents were read. Neighbour read: Kittay's 2026 interview, LIT-tmpfs8rn, in NOTE-tmpp276p, standing in for the book's notions, not its arguments.
+  searched 2026-11-12 for a lawful full text and found none. The Taylor & Francis ebook (taylorfrancis.com/books/mono/10.4324/9781315108926) served a Cloudflare challenge; the Routledge page's preview is a widget, not fetched as text; Kittay's own site answered HTTP 406; two University of Wisconsin course PDFs of other Kittay works were removed (404). The publisher's description and table of contents were read. Neighbour read: Kittay's 2026 interview, [LIT-tmpfs8rn](LIT-tmpfs8rn.md), in [NOTE-tmpp276p](../notes.d/NOTE-tmpp276p.md), standing in for the book's notions, not its arguments.
 title: 'Love''s Labor: Essays on Women, Equality and Dependency'
 version: 2
 history:
@@ -27,7 +27,7 @@ keywords:
 - 'equality'
 implementations: []
 summary: >-
-  Eva Feder Kittay, Love's Labor: Essays on Women, Equality and Dependency, Routledge, 2nd edition (2019; © 2020), DOI-10.4324/9781315108926; first edition 1999. Unavailable on 2026-11-12. The table of contents shows dependency work, the dependency worker's secondary dependency, a chapter "Vulnerability and the Moral Nature of Dependency Relations", and the principle of doulia. Kittay's 2026 interview (LIT-tmpfs8rn) stands in partly. NOTE-256 cites its "care as a primary good". About persons, carers and the state, TERM-074 sense 3.
+  Eva Feder Kittay, Love's Labor: Essays on Women, Equality and Dependency, Routledge, 2nd edition (2019; © 2020), DOI-10.4324/9781315108926; first edition 1999. Unavailable on 2026-11-12. The table of contents shows dependency work, the dependency worker's secondary dependency, a chapter "Vulnerability and the Moral Nature of Dependency Relations", and the principle of doulia. Kittay's 2026 interview ([LIT-tmpfs8rn](LIT-tmpfs8rn.md)) stands in partly. [NOTE-256](../notes.d/NOTE-256.md) cites its "care as a primary good". About persons, carers and the state, [TERM-074](../terms.d/TERM-074.md) sense 3.
 ---
 <!-- inactive-ok-file: LIT-tmp0dw2u — filed from the exchange "About Plantation Paradise" (2026-11-12), Deferred -->
 
@@ -45,4 +45,4 @@ Registered from the exchange "About Plantation Paradise" (2026-11-12), A11, A12.
 
 ## Note of 2026-11-12: unavailable, the edition, and a neighbour
 
-No lawful copy was found. The LIT now records the 2nd edition its DOI names (2019-12-06); the first edition is 1999. The table of contents shows the book's themes: "Dependency Work, the Dependency Worker, and the Charge", "Vulnerability and the Moral Nature of Dependency Relations", "Reciprocity and Doulia", "The Principle of Doulia as a Justification for Welfare". Kittay's 2026 interview (LIT-tmpfs8rn, NOTE-tmpp276p) stands in for those notions in her words, not for the arguments. NOTE-256's "Adding care to the primary goods (Kittay)" is this book's section "Care as a Primary Good".
+No lawful copy was found. The LIT now records the 2nd edition its DOI names (2019-12-06); the first edition is 1999. The table of contents shows the book's themes: "Dependency Work, the Dependency Worker, and the Charge", "Vulnerability and the Moral Nature of Dependency Relations", "Reciprocity and Doulia", "The Principle of Doulia as a Justification for Welfare". Kittay's 2026 interview ([LIT-tmpfs8rn](LIT-tmpfs8rn.md), [NOTE-tmpp276p](../notes.d/NOTE-tmpp276p.md)) stands in for those notions in her words, not for the arguments. [NOTE-256](../notes.d/NOTE-256.md)'s "Adding care to the primary goods (Kittay)" is this book's section "Care as a Primary Good".

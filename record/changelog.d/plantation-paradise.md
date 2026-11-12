@@ -28,10 +28,10 @@
   - five works read and two skimmed, each with a NOTE and a THEORY;
   - five neighbours registered and read or skimmed;
   - three works Unfetched and fifteen Unavailable;
-  - CASE-tmpwmg3h corrected;
-  - CLAIM-tmp16mkz narrowed (ARG-tmpou39l);
-  - CLAIM-tmpwn3wr given its TERM-074 sense, with ARG-tmpmc9mt
+  - [CASE-tmpwmg3h](record/cases.d/CASE-tmpwmg3h.md) corrected;
+  - [CLAIM-tmp16mkz](record/claims.d/CLAIM-tmp16mkz.md) narrowed ([ARG-tmpou39l](record/arguments.d/ARG-tmpou39l.md));
+  - [CLAIM-tmpwn3wr](record/claims.d/CLAIM-tmpwn3wr.md) given its [TERM-074](record/terms.d/TERM-074.md) sense, with [ARG-tmpmc9mt](record/arguments.d/ARG-tmpmc9mt.md)
     (Rejected) and a new defeat route.
-  After the owner's correction that "organization" is TERM-074 sense 1 by
+  After the owner's correction that "organization" is [TERM-074](record/terms.d/TERM-074.md) sense 1 by
   default, the owner's question states its sense and its prior part, and
   every reading's bearing names the sense it is about.

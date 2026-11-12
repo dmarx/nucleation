@@ -222,12 +222,12 @@ status changes.
 
 ## Note of 2026-11-12: held readings on gaslighting, found on recheck
 
-The gaslighting review A9 proposed as a boundary test (LIT-tmph9tz9) is
+The gaslighting review A9 proposed as a boundary test ([LIT-tmph9tz9](../literature.d/LIT-tmph9tz9.md)) is
 Unfetched. The record already holds two readings on that boundary, which
-the first search missed. Fricker's 2017 retrospective (THEORY-327,
-NOTE-853) sets intentional gaslighting apart from testimonial injustice,
+the first search missed. Fricker's 2017 retrospective ([THEORY-327](../theory.d/THEORY-327.md),
+[NOTE-853](../notes.d/NOTE-853.md)) sets intentional gaslighting apart from testimonial injustice,
 which is non-deliberate; and the covert-influence analysis of manipulation
-(THEORY-225, NOTE-744) fits gaslighting among other cases, the question
-QUESTION-070 asks of an organized whole. Whether this claim's
+([THEORY-225](../theory.d/THEORY-225.md), [NOTE-744](../notes.d/NOTE-744.md)) fits gaslighting among other cases, the question
+[QUESTION-070](../questions.d/QUESTION-070.md) asks of an organized whole. Whether this claim's
 counter-normativity needs an intending actor is the boundary; neither
 reading is evidence for or against the claim, so no relation is written.

@@ -241,5 +241,5 @@ What the paper argues, in order.
 
 This note's "Adding care to the primary goods (Kittay)" is the section
 "Care as a Primary Good" of Kittay's Love's Labor, now registered as
-LIT-tmp2vf7t (Unavailable on 2026-11-12; her 2026 interview,
-LIT-tmpfs8rn, stands in partly).
+[LIT-tmp2vf7t](../literature.d/LIT-tmp2vf7t.md) (Unavailable on 2026-11-12; her 2026 interview,
+[LIT-tmpfs8rn](../literature.d/LIT-tmpfs8rn.md), stands in partly).

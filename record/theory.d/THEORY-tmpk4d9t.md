@@ -17,7 +17,6 @@ promote_when: >-
 summary: >-
   Fineman (2010), read in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md) (Read). The vulnerable subject replaces the liberal subject; institutions confer resilience; the state that constitutes them must monitor them and justify the privilege it confers or tolerates.
 ---
-<!-- inactive-ok-file: CLAIM-624 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — Proposed; cited as on the record -->
 <!-- inactive-ok-file: ARG-tmpmc9mt — filed with this reading, Rejected -->
 

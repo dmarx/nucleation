@@ -85,7 +85,7 @@ complements:
 <!-- inactive-ok-file: THEORY-tmp2zfsi — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: LIT-tmp9nkyo LIT-tmpz9o31 — Deferred; filed from the exchange of 2026-11-12, unread -->
+<!-- inactive-ok-file: LIT-tmpz9o31 — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CLAIM-658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-228 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
@@ -264,7 +264,7 @@ No status changes.
 
 ## Note of 2026-11-12: Fuentes, skimmed
 
-Fuentes's Dispossessed Lives (THEORY-tmp2zfsi, skimmed in NOTE-tmp62vov from
+Fuentes's Dispossessed Lives ([THEORY-tmp2zfsi](../theory.d/THEORY-tmp2zfsi.md), skimmed in [NOTE-tmp62vov](../notes.d/NOTE-tmp62vov.md) from
 a publisher-permitted excerpt and an interview) corroborates this claim and
 the earlier note of 2026-11-12 on evidence generated under the
 institution's terms. The archive recorded "victims of an impossible legal
@@ -272,4 +272,4 @@ structure" as criminals, a merger of states a member's claim must
 distinguish; where it is the only evidence, the merged states cannot be
 recovered from it, and Fuentes's remedy is method ("to write a history
 about what an archive does not offer"), not a finer description. A
-sense-3 case (TERM-074). Filed as `corroborates`. No status change.
+sense-3 case ([TERM-074](../terms.d/TERM-074.md)). Filed as `corroborates`. No status change.

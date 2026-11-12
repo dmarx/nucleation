@@ -100,11 +100,11 @@ expected findings would have raised recognized violations.
 
 ## Note of 2026-11-12: Fuentes, skimmed
 
-Fuentes (THEORY-tmp2zfsi, NOTE-tmp62vov) corroborates this claim's first
+Fuentes ([THEORY-tmp2zfsi](../theory.d/THEORY-tmp2zfsi.md), [NOTE-tmp62vov](../notes.d/NOTE-tmp62vov.md)) corroborates this claim's first
 route, historically: enslaved women survive in the colonial record only as
 "alleged criminals, enslaved prostitutes, tortured runaways, and victims of
 such violence that they were obscured from historical view", selective
 disappearance produced by the institution's own recording, with no censor.
 She also describes the second route in the historian's discipline, a
 demand for "a vast empirical base" that deters the question. A sense-3
-case (TERM-074). Filed as `corroborates`. No status change.
+case ([TERM-074](../terms.d/TERM-074.md)). Filed as `corroborates`. No status change.

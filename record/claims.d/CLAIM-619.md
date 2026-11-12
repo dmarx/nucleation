@@ -196,8 +196,8 @@ status changes.
 
 ## Note of 2026-11-12: Ahmed, skimmed
 
-Ahmed's Complaint! (THEORY-tmpvkzx3, skimmed in NOTE-tmpqarad from the
-Introduction), about universities, sense 3 (TERM-074), corroborates the
+Ahmed's Complaint! ([THEORY-tmpvkzx3](../theory.d/THEORY-tmpvkzx3.md), skimmed in [NOTE-tmpqarad](../notes.d/NOTE-tmpqarad.md) from the
+Introduction), about universities, sense 3 ([TERM-074](../terms.d/TERM-074.md)), corroborates the
 phenomenon this claim describes, not its test. "the same complaints
 procedures used as tools to redress bullying and harassment can be used
 as tools to bully and to harass" (p. 24); those who complain become "more

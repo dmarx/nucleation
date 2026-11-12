@@ -50,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, Group Duties, cited by A12 -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, cited by A12 as registered and unread -->
-<!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t LIT-tmp9kqwg LIT-tmpmtbj6 — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmp9kqwg LIT-tmpmtbj6 — Deferred; filed from the same exchange, unread -->
 
 # QUESTION-tmp9bbpk: What obligations, if any, does an organized whole have towards its own constituent parts, and on what ground: that they constitute it, that they contribute to it, that they are vulnerable to it, that it governs them, that it has undertaken commitments to them, or its history with them?
 
@@ -256,20 +256,20 @@ untouched by all of them. The question stays Open.
 
 ## Note of 2026-11-12: Kittay and Goodin, as far as reached
 
-Both are about sense-3 wholes (TERM-074): society, the state, and persons
+Both are about sense-3 wholes ([TERM-074](../terms.d/TERM-074.md)): society, the state, and persons
 as carers, clients and citizens. Neither transfers to the question's
 default sense 1, where the whole need not be an agent and the parts need
 not be persons.
 
-- **Kittay** (THEORY-tmpt62g0, her 2026 interview, standing in for Love's
-  Labor, LIT-tmp2vf7t, Unavailable): doulia, support owed by the wider
+- **Kittay** ([THEORY-tmpt62g0](../theory.d/THEORY-tmpt62g0.md), her 2026 interview, standing in for Love's
+  Labor, [LIT-tmp2vf7t](../literature.d/LIT-tmp2vf7t.md), Unavailable): doulia, support owed by the wider
   society to carers, rests on "nesting relations of dependency" that are
   "the basis of our society". For sense-3 wholes that supports a ground
   in constitutive maintenance work, owed by the encompassing arrangement to
   those whose work sustains it. Its bearer is society through persons, and
   Kittay now keeps the state "pretty far away from the actual dependency
   relationships themselves". Filed as `bears_on`.
-- **Goodin** (LIT-tmpgqxcj, LIT-tmpkfwc3, Unavailable): the abstract and
+- **Goodin** ([LIT-tmpgqxcj](../literature.d/LIT-tmpgqxcj.md), [LIT-tmpkfwc3](../literature.d/LIT-tmpkfwc3.md), Unavailable): the abstract and
   description confirm the vulnerability ground, held by agents
   "individually or collectively". Not read; no relation written.
 

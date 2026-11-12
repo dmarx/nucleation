@@ -154,10 +154,10 @@ owner's [CLAIM-657](../claims.d/CLAIM-657.md), interpretive. The question stays 
 
 ## Note of 2026-11-12: Ahmed, skimmed
 
-Ahmed (THEORY-tmpvkzx3, NOTE-tmpqarad) reports complaint procedures that
+Ahmed ([THEORY-tmpvkzx3](../theory.d/THEORY-tmpvkzx3.md), [NOTE-tmpqarad](../notes.d/NOTE-tmpqarad.md)) reports complaint procedures that
 reproduce what they address: "when offered as solutions to problems, they
 are problems given new forms" (p. 22). She counts the people employed by
 institutions within the institution, so the reproduction is not separated
 into the organization's and its members', which is this question's third
-part. A sense-3 case (TERM-074). Filed as `bears_on`. The question is
+part. A sense-3 case ([TERM-074](../terms.d/TERM-074.md)). Filed as `bears_on`. The question is
 unchanged.

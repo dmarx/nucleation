@@ -144,8 +144,8 @@ Both carry `bears_on` this question. The question is unchanged.
 
 ## Note of 2026-11-12: Kittay, as far as reached
 
-Kittay's 2026 interview (THEORY-tmpt62g0), standing in for Love's Labor,
-is about persons and society, sense 3 (TERM-074). Unpaid dependency work is
+Kittay's 2026 interview ([THEORY-tmpt62g0](../theory.d/THEORY-tmpt62g0.md)), standing in for Love's Labor,
+is about persons and society, sense 3 ([TERM-074](../terms.d/TERM-074.md)). Unpaid dependency work is
 the paradigm of an indispensable contribution kept from becoming a claim:
 "unless it's remunerated, we're really exploiting those who we put on the
 pedestal". Her answer is not the contributors' bargaining power but a

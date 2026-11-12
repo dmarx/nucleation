@@ -189,9 +189,9 @@ role. No status change.
 
 ## Note of 2026-11-12: Goodin and Kittay, as far as reached
 
-Goodin's book (LIT-tmpgqxcj) and article (LIT-tmpkfwc3) are Unavailable;
+Goodin's book ([LIT-tmpgqxcj](../literature.d/LIT-tmpgqxcj.md)) and article ([LIT-tmpkfwc3](../literature.d/LIT-tmpkfwc3.md)) are Unavailable;
 his own text was not read. The claim stays Proposed. What the sources
-reached show, all about sense-3 wholes and persons (TERM-074): families,
+reached show, all about sense-3 wholes and persons ([TERM-074](../terms.d/TERM-074.md)): families,
 clients, compatriots, the state.
 
 - **The supposition is Goodin's.** The APSR abstract: "it is the
@@ -216,11 +216,11 @@ clients, compatriots, the state.
   generate, so a whole's response to growing dependence would be judged by
   whether the dependence is acceptable. The criteria are in the unread
   body.
-- **A qualification from Kittay** (THEORY-tmpt62g0, her 2026 interview):
+- **A qualification from Kittay** ([THEORY-tmpt62g0](../theory.d/THEORY-tmpt62g0.md), her 2026 interview):
   the tension "between insisting on support and seeing to it that there is
   non-domination on the part of those who give support", and "keeping the
   state pretty far away from the actual dependency relationships
   themselves". Growing responsibility is not warrant for growing control.
-  Love's Labor itself (LIT-tmp2vf7t) is Unavailable.
+  Love's Labor itself ([LIT-tmp2vf7t](../literature.d/LIT-tmp2vf7t.md)) is Unavailable.
 
 No status change.
