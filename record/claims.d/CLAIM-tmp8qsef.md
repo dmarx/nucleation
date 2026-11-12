@@ -69,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2291 THEORY-tmpn7ukf THEORY-tmpd3j5r THEORY-tmpyxqep — LIT-2291 Unfetched, Doyle's IJCAI-79 summary read in its place; the readings are Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-tmp5vepa THEORY-tmp6koy4 THEORY-tmphaoty THEORY-tmpkjz86 THEORY-tmpo4vs4 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-tmp8qsef: The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and no rule reading only the support graph and the entries' statuses could make that judgment correctly
+# CLAIM-tmp8qsef: The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and, since its relations record support of unrecorded strength rather than justifications taken as sufficient, no rule reading only the support graph and the entries' statuses could make that judgment correctly
 
 ## The claim
 

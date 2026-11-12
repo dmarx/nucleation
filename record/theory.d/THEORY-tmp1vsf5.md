@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Zhang and colleagues (2026) report that when coding tasks are split among specialist LLM agents, task-level test pass rates can be high while the cross-agent dependencies stay unresolved (32 of 190 outcomes passed at least 80% of tests while resolving fewer than half their dependencies, none the reverse), that stronger coding models do not reliably collaborate better, and that no coordination protocol improves dependency resolution for every model. 2''s 32-of-190 sentence and the abstract''s and §5.4''s statements against the text'
+title: 'Zhang and colleagues (2026) report that when coding tasks are split among specialist LLM agents, task-level test pass rates can be high while the cross-agent dependencies stay unresolved (32 of 190 outcomes passed at least 80% of tests while resolving fewer than half their dependencies, none the reverse), that stronger coding models do not reliably collaborate better, and that no coordination protocol improves dependency resolution for every model.'
 version: 1
 tags:
 - agency
@@ -9,7 +9,8 @@ date: '2026-11-12'
 source:
 - LIT-2277
 promote_when: >-
-
+  the filing confirms §5.2's 32-of-190 sentence and the abstract's and
+  §5.4's statements against the text.
 bears_on:
 - QUESTION-tmpxq2sb
 summary: >-
@@ -17,7 +18,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-tmp1vsf5: Zhang and colleagues (2026) report that when coding tasks are split among specialist LLM agents, task-level test pass rates can be high while the cross-agent dependencies stay unresolved (32 of 190 outcomes passed at least 80% of tests while resolving fewer than half their dependencies, none the reverse), that stronger coding models do not reliably collaborate better, and that no coordination protocol improves dependency resolution for every model. 2's 32-of-190 sentence and the abstract's and §5.4's statements against the text
+# THEORY-tmp1vsf5: Zhang and colleagues (2026) report that when coding tasks are split among specialist LLM agents, task-level test pass rates can be high while the cross-agent dependencies stay unresolved (32 of 190 outcomes passed at least 80% of tests while resolving fewer than half their dependencies, none the reverse), that stronger coding models do not reliably collaborate better, and that no coordination protocol improves dependency resolution for every model.
 
 ## The account
 

@@ -7,3 +7,7 @@
 ### Changed
 
 - [CLAIM-tmp8qsef](record/claims.d/CLAIM-tmp8qsef.md), version 2: its impossibility half is stated for relations that record support of unrecorded strength, not for the sufficient justifications of a truth maintenance system, on the readings of de Kleer, Doyle and the Hearsay-II retrospective. [ARG-tmpyprz6](record/arguments.d/ARG-tmpyprz6.md) (Rejected): EvoOntology's gate ablation does not corroborate [CLAIM-tmppk8g6](record/claims.d/CLAIM-tmppk8g6.md). [CASE-186](record/cases.d/CASE-186.md) and [CASE-188](record/cases.d/CASE-188.md) correct two attributions of A's words to the works A cited.
+
+### Fixed
+
+- Seven reading THEORYs whose `promote_when` a filing script had emptied into the title get both back from the readers' drafts; CLAIM-tmp8qsef's heading matches its version-2 title; THEORY-tmpr15xp drops `software-engineering`, which joins the topics only with dmarx/nucleation#487.
