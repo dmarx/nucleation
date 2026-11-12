@@ -49,7 +49,6 @@ summary: >-
 draws_on:
 - THEORY-1435
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CASE-198 CASE-207 CLAIM-573 TERM-111 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-314 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 

@@ -56,7 +56,6 @@ summary: >-
 draws_on:
 - THEORY-1088
 ---
-<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-093: correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted
 
