@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmplcm41
 title: 'A dynamic beta–Bernoulli latent-feature model of an organization''s members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and its outputs cannot tell a feature one member holds at constant activation from that member''s private map, or features whose holdings and activations always coincide from their sum'
-version: 5
+version: 6
 history:
 - version: 1
   date: '2026-10-26'
@@ -56,6 +56,26 @@ history:
     member's private map, and coinciding features identified only in
     sum. Both were re-checked as identities from the body's u. The
     blocker note of 2026-10-30 asked for this narrowing and nothing else.
+- version: 6
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1015 ("The established form of a team layer at t = 0
+    is the hierarchical beta process (THEORY-1015)"); THEORY-985 ("The
+    beta process gives the same count a second way"); THEORY-999 ("tends
+    to αH_N, from below for every finite K (THEORY-999)"); THEORY-1006
+    ("each feature's prevalence stays fixed and its persistence is set
+    separately (THEORY-1006)"); THEORY-1012 ("it separates co-occurring
+    features only where they sometimes occur apart (THEORY-1012");
+    THEORY-1003 ("The author–topic model has the absorption of the second
+    in published form"); THEORY-1004 ("a feature can be present and idle
+    (NOTE-1186, THEORY-1004)"); THEORY-981 ("both identifiability worries
+    are removed by construction"); THEORY-1034 ("the Markov IBP fixes the
+    coupling of persistence to rarity"); THEORY-1019 ("What it does not
+    fix (THEORY-1019)"); THEORY-1041 ("in closed form (THEORY-1041)");
+    THEORY-1046 ("availability is told from activation by the data as
+    well, weakly"); THEORY-1037 ("a whole-chain sampler of the beam
+    type"); THEORY-1044 ("its claim of faster mixing is THEORY-1044").
+    First application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -78,7 +98,23 @@ summary: >-
   before its features could count for anything.
 illustrates:
 - CLAIM-454
+draws_on:
+- THEORY-1015
+- THEORY-985
+- THEORY-999
+- THEORY-1006
+- THEORY-1012
+- THEORY-1003
+- THEORY-1004
+- THEORY-981
+- THEORY-1034
+- THEORY-1019
+- THEORY-1041
+- THEORY-1046
+- THEORY-1037
+- THEORY-1044
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the quotient test cited as one way to tell a birth from a split, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1004 — Proposed; a reading of the same day, cited for its measure of presence against use -->
 <!-- inactive-ok-file: THEORY-1044 — Proposed; the beam sampler's mixing claim, cited as open -->

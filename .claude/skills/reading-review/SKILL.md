@@ -3,7 +3,7 @@ name: reading-review
 description: 'A review of the readings (THEORY) the record holds and its argument does not use - which readings in force no line builds on, and what to do about each: tie it to a claim or question that should use it, raise a question or claim it calls for, or record that the argument does not need it. Three modes, by line, by topic and by question. Use it when the owner asks for a reading review or to see what the record has read and not built on, after a run of readings in one topic, or beside a synthesis review of a line. ADR-091 holds the invariants; ADR-090 how a reading''s lines are derived.'
 ---
 <!-- .claude/skills/reading-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 ADR-094 — Proposed; the decisions this skill carries out, until the owner adopts them -->
+<!-- inactive-ok-file: ADR-091 ADR-090 ADR-085 ADR-075 ADR-093 ADR-094 ADR-tmpcd2gu — Proposed; the decisions this skill carries out, until the owner adopts them -->
 
 # Reading review
 
@@ -159,11 +159,15 @@ More recurring cases (ADR-093):
   Answered question without answering it alone.
 - **One verdict per reading.** Count a reading tied to several entries as
   one tie; list every relation in the table.
-- **Used by an entry that cannot carry the relation.** Where the only
-  entries using a reading are cases, terms or syntheses, hold it, name the
-  entry, and list it in the curation entry apart from the unused. Do not
-  write `reported_in` for it. Raise a claim where several such readings
-  jointly state a result no claim holds.
+- **Cases and terms draw on readings.** Where a case's own text uses a
+  reading other than as its source (a method, measure, design constraint,
+  check or component), or a term's sense is fixed by a reading, tie it as
+  `draws_on`, from the case or term (ADR-tmpcd2gu). Do not write
+  `reported_in` for it. A reading named only as where a word or case was
+  first named, or in passing, takes nothing.
+- **Used only by a synthesis.** Hold it, name the synthesis, and list it in
+  the curation entry apart from the unused. Raise a claim where several
+  such readings jointly state a result no claim holds.
 - **A claim that grounds on the work.** Where a claim grounds on a LIT and
   the work's reading is in force, tie the reading as `corroborates` if the
   claim does its own work with the result, or as `grounds` if the claim

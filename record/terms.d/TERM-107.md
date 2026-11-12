@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp46hcg
 title: 'organizational slack: resources an organization holds beyond what its current output requires, some useful and some wasteful, which the output alone does not tell apart'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -12,6 +12,13 @@ history:
     Provenance only: NOTE-1576, NOTE-1577 went to Read in the
     twenty-ninth status review, so "skimmed in" becomes "read in" (2
     places). The sense is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1401 ("The definition is Bogetoft and
+    Hougaard's"), THEORY-1421 ("Slack held idle for an uncertain need")
+    and THEORY-1416 ("Headroom that is busy"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - society-and-governance
 - operations-research
@@ -31,7 +38,12 @@ summary: >-
   needs; and van Leeuwaarden and colleagues ([LIT-2059](../literature.d/LIT-2059.md)), standing in
   for Halfin and Whitt, whose headroom is spare capacity that is busy, not
   held idle. The wording is the filer's; adopting it is the owner's call.
+draws_on:
+- THEORY-1401
+- THEORY-1421
+- THEORY-1416
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2076 — Unfetched; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-2085 — Unavailable; Halfin and Whitt, cited through the neighbour that stands in for it -->
 <!-- inactive-ok-file: TERM-113 — Proposed; terms of the same filing, cited as filed -->

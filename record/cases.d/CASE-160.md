@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpvmjgd
 title: 'Interacting accumulators on an influence network: if each perspective''s continuous support for one of two interpretations follows dxᵢ = [dᵢ − λxᵢ + κ Σⱼ Wᵢⱼxⱼ]dτ + noise, with W irreducible and row-stochastic and ℓ its left eigenvector, then ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, so the ℓ-weighted support L = ℓ·x is exactly an Ornstein–Uhlenbeck process with drift ℓ·d, rate κ − λ and variance ℓᵀΣℓ, and a drift-diffusion process at κ = λ; with tanh coupling and member noise the transition is at κ_c = λ/E[sech² ε], not at κ = λ'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-25'
@@ -24,6 +24,15 @@ history:
     and zero off the class, and the closure and the decay of the other
     modes still hold (checked), so W irreducible is sufficient, not
     necessary. The title is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-733 ("It is THEORY-733's condition for exact dynamical
+    independence"); THEORY-068 ("THEORY-068's net leak, carried from two
+    competing units to a network"); THEORY-321 ("THEORY-321's condition
+    (Golub and Jackson) in variance form"); THEORY-960 ("That ℓ is
+    DeGroot's consensus weight is his Theorem 3 (THEORY-960)"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -46,7 +55,13 @@ summary: >-
   concentration and the balance [THEORY-068](../theory.d/THEORY-068.md)'s, a combination no source
   makes. Checked when filed, and the reply's nonlinear transition
   corrected.
+draws_on:
+- THEORY-733
+- THEORY-068
+- THEORY-321
+- THEORY-960
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; the reflected-appraisal reading named as where endogenous influence enters, nothing here rests on it -->
 
 # CASE-160: Interacting accumulators on an influence network: if each perspective's continuous support for one of two interpretations follows dxᵢ = [dᵢ − λxᵢ + κ Σⱼ Wᵢⱼxⱼ]dτ + noise, with W irreducible and row-stochastic and ℓ its left eigenvector, then ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, so the ℓ-weighted support L = ℓ·x is exactly an Ornstein–Uhlenbeck process with drift ℓ·d, rate κ − λ and variance ℓᵀΣℓ, and a drift-diffusion process at κ = λ; with tanh coupling and member noise the transition is at κ_c = λ/E[sech² ε], not at κ = λ

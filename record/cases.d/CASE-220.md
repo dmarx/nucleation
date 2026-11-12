@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CASE-tmpvdu02
 title: 'A proposed factorial assembly study: two scaffold routings of one target crossed with uniform or targeted early stabilization, at fixed geometry and component stock, measured by the committor of partial structures, so that a productive nucleus is one whose formation raises the chance of completion before failure and a trap one that lowers it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1398 ("is the simulated instance"). First application
+    of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -30,7 +36,10 @@ summary: >-
   trap one that lowers it, rather than any early or stable structure. Dunn
   et al. and DeLuca et al. ran the routing half in experiment and
   simulation. The wording is A's; adopting it is the owner's call.
+draws_on:
+- THEORY-1398
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CASE-219 CLAIM-185 CLAIM-184 — Proposed; the study it varies and the entries it would test -->
 
 # CASE-220: A proposed factorial assembly study: two scaffold routings of one target crossed with uniform or targeted early stabilization, at fixed geometry and component stock, measured by the committor of partial structures, so that a productive nucleus is one whose formation raises the chance of completion before failure and a trap one that lowers it

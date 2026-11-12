@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpd83bj
 title: 'r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities built, defended and overwrote images, coordinating through the canvas itself as well as off it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-04'
@@ -21,6 +21,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-224 ("THEORY-224 (Adams, Fernandez and Witkowski,
+    LIT-1034) holds the two kinds"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -44,7 +50,10 @@ reported_in:
 - LIT-1025
 - LIT-1032
 - LIT-1037
+draws_on:
+- THEORY-224
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-224 — Proposed; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->

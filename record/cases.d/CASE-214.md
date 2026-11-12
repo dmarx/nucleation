@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CASE-tmpzms3l
 title: 'A one-degree-of-freedom precision stage: five independent constraints leave one usable motion, and two designs with the same freedom space, one with every constraint doubled, differ in disturbance error and in drive force'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1406 ("the system's kinematics do not"); THEORY-1390
+    ("without changing the system DOFs"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -31,7 +38,11 @@ summary: >-
   by a dated note rather than a new claim. The construction is the
   filer's, from A's one-degree-of-freedom stage; adopting it is the
   owner's call.
+draws_on:
+- THEORY-1406
+- THEORY-1390
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-214: A one-degree-of-freedom precision stage: five independent constraints leave one usable motion, and two designs with the same freedom space, one with every constraint doubled, differ in disturbance error and in drive force
 

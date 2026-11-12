@@ -4,13 +4,19 @@ status: Active
 formerly:
 - TERM-tmpnjo1t
 title: 'organizational closure, as closure of constraints: a set of constraints each of which depends directly on another in the set and has another depending on it (Montévil and Mossio 2015), distinct from informational closure and from a flame''s maintenance of the conditions of its own combustion'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
   note: >-
     Adopted by the owner at the second review of nucleation#305, 2026-10-21:
     status Proposed → Active. The definition is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-071 ("Not agency") and THEORY-072 ("Not "being
+    a living individual""). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - philosophy-of-biology
 - complex-systems
@@ -28,7 +34,11 @@ summary: >-
   of [TERM-068](TERM-068.md). Adopted by the owner on 2026-10-21.
 complements:
 - TERM-088
+draws_on:
+- THEORY-071
+- THEORY-072
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and the agency reading that use this sense, cited as open -->
 
 # TERM-070: organizational closure, as closure of constraints: a set of constraints each of which depends directly on another in the set and has another depending on it (Montévil and Mossio 2015), distinct from informational closure and from a flame's maintenance of the conditions of its own combustion

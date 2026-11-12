@@ -4,7 +4,15 @@ status: Active
 formerly:
 - TERM-tmp3mqer
 title: 'action readiness, with control precedence, in Frijda''s sense: a state of preparation for action, not a representation of a desirable state, that claims control over behaviour by persisting until an end state, resuming after interruption, capturing attention and taking priority over other actions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-055, whose concept of action readiness the term
+    takes while "Using the term commits a claim to neither half of" the
+    account. First application of draws_on (ADR-tmpcd2gu). No other
+    change.
 tags:
 - emotion-and-affect
 - agency
@@ -25,7 +33,10 @@ summary: >-
   [THEORY-057](../theory.d/THEORY-057.md)'s constructionism denies. A constructionist can use this term.
   Adopted on filing, because the record already relies on it in nine
   places and its definition is quoted from a source read in full.
+draws_on:
+- THEORY-055
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-055 THEORY-057 — Proposed; the account this term is separated from, its neighbour and its rival, and the term that builds on its marks -->
 
 # TERM-094: action readiness, with control precedence, in Frijda's sense: a state of preparation for action, not a representation of a desirable state, that claims control over behaviour by persisting until an end state, resuming after interruption, capturing attention and taking priority over other actions

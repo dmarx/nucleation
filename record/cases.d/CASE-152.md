@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpj2xb7
 title: 'Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength of an attempted influence and b the receiver''s responsiveness, the settings (a, b) = (0, 1) and (1, 0) give the same response distribution; K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at the origin, and the real log canonical threshold is ½ with multiplicity 2, not the regular d/2 = 1, while changing b with a held fixed separates the two'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-082 ("The regular asymptotics, which need G invertible
+    (THEORY-082), fail on the axes"); THEORY-087 ("not as the regular
+    (d/2) log n = log n (THEORY-087)"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -23,7 +31,11 @@ summary: >-
   which the observation depends on a product, the smallest singular model
   with a communicative reading. It shows a missing response failing to say
   whether nothing was attempted or nothing was taken up.
+draws_on:
+- THEORY-082
+- THEORY-087
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-152: Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength of an attempted influence and b the receiver's responsiveness, the settings (a, b) = (0, 1) and (1, 0) give the same response distribution; K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at the origin, and the real log canonical threshold is ½ with multiplicity 2, not the regular d/2 = 1, while changing b with a held fixed separates the two
 

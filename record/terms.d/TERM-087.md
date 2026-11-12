@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp0est4
 title: 'cut, and which sense: a Cartesian cut, Pattee''s epistemic cut, or Barad''s agential cut, enacted by an apparatus'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,12 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1076, Bohr's separation, "fixed and epistemic",
+    which "is not the third sense, which is movable and ontological".
+    First application of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - philosophy-of-science
 - metaphysics
@@ -47,7 +53,10 @@ summary: >-
   in [CLAIM-476](../claims.d/CLAIM-476.md).
 complements:
 - TERM-089
+draws_on:
+- THEORY-1076
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1653 LIT-1657 — Unavailable or Deferred; Barad's texts, unread; the agential sense is the exchange's account of her and the readings' quotations -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim stated in the agential sense -->
 

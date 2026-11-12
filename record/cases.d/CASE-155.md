@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpw4r7u
 title: 'Authority as a replicator population: for a distribution π of control over processes with mean qualities q, the expected Maynard-Cross update is π_a q_a / v, Bayes'' rule when q is each process''s likelihood; the Maynard dynamic is the Taylor dynamic slowed by 1/v, so the two share their orbits; mean quality climbs at the rate Var_π(q); and when a process''s score rises with its own share, ℓ′ = ℓ + h + c(2π − 1) has an unstable threshold π* = (1 − h/c)/2, above which a process the evidence disfavours captures the organization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -21,6 +21,18 @@ history:
     fixed bounds; the drift-diffusion limit is not stated by Wald, though
     his overshoot-free formulas are exactly the diffusion's
     (THEORY-951). The case is unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-899 ("a revision protocol of the kind THEORY-899
+    treats"); THEORY-938 ("Cross learning follows the replicator dynamic
+    in expectation"); THEORY-932 ("the expected change carries an extra
+    factor x_i (THEORY-932)"); THEORY-928 ("the forgetting rate becomes an
+    entropy term"); THEORY-952 ("Wald's sequential probability ratio walk
+    (Wald's Z_m, THEORY-952"); THEORY-068 ("its continuum limit is
+    THEORY-068's drift-diffusion model"); THEORY-951 ("his overshoot-free
+    formulas are exactly the diffusion's, THEORY-951"). First application
+    of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -42,7 +54,16 @@ summary: >-
   replicator dynamic. Evidence-tracking authority is then Bayesian, and
   authority-dependent scoring gives lock-in with an explicit correction
   threshold.
+draws_on:
+- THEORY-899
+- THEORY-938
+- THEORY-932
+- THEORY-928
+- THEORY-952
+- THEORY-068
+- THEORY-951
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-938 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed, filed in this pull request -->
 
 # CASE-155: Authority as a replicator population: for a distribution π of control over processes with mean qualities q, the expected Maynard-Cross update is π_a q_a / v, Bayes' rule when q is each process's likelihood; the Maynard dynamic is the Taylor dynamic slowed by 1/v, so the two share their orbits; mean quality climbs at the rate Var_π(q); and when a process's score rises with its own share, ℓ′ = ℓ + h + c(2π − 1) has an unstable threshold π* = (1 − h/c)/2, above which a process the evidence disfavours captures the organization

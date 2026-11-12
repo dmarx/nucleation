@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmpckwjg
 title: 'universality, of resource-bounded constraint systems, and which sense: expressive, that a restricted family implements every member of a class; computational, that one family resource-simulates another with bounded overhead, an equivalence only when the simulation runs both ways; or scaling, that families share asymptotic laws'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,16 @@ history:
     P_n of the computational sense. The placement is the reviewer's
     reading of A's fourth paste. Status stays Proposed for one pass while
     the edited definition settles.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1407 ("Where the primitives are restricted the
+    sense has content"), THEORY-1372 (families "already reducible to one
+    another in polynomial time by completeness"), THEORY-1054 (a
+    universality class "must say whether it classifies constraints,
+    operations, dynamics or a combination") and THEORY-391 and THEORY-812
+    ("For the scaling sense A takes ... as the template"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - mathematics
 - complex-systems
@@ -40,7 +50,14 @@ summary: >-
   arbitrary transition graphs may be declared, expressive universality is
   trivial, so the sense informs only relative to restricted primitives. The
   wording is A's; adopting it is the owner's call.
+draws_on:
+- THEORY-1407
+- THEORY-1372
+- THEORY-1054
+- THEORY-391
+- THEORY-812
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-034 CLAIM-573 QUESTION-008 — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 THEORY-812 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 

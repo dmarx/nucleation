@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpzdpdt
 title: 'persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,14 @@ history:
     persistence, so sense 3's "without the others" overstates it.
     The definition is unchanged. Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-134 ("a question about a constraint set fixed
+    independently of the dynamics"), THEORY-418 ("is *not*
+    continuation") and THEORY-465 ("being reproduced as against
+    reproducing"). First application of draws_on (ADR-tmpcd2gu).
+    No other change.
 tags:
 - individuation
 - complex-systems
@@ -41,7 +49,12 @@ complements:
 - TERM-084
 - TERM-088
 - TERM-100
+draws_on:
+- THEORY-134
+- THEORY-418
+- THEORY-465
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->
 

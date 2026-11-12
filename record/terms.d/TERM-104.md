@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - TERM-tmpszrpp
 title: 'motivating perspective: an organizational perspective whose interpretations give circumstances a significance relative to concerns it maintains, and whose significance conditions action readiness, a claim to control that the will-organization may or may not grant; motivating as a disposition, whether or not it is activated, granted or operative'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-055: concern-relative significance is "Frijda's
+    concern pertinence ... read as one perspective's". First application
+    of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - motivation
 - emotion-and-affect
@@ -28,7 +35,10 @@ summary: >-
   the reader; adopting it is the owner's call.
 complements:
 - TERM-118
+draws_on:
+- THEORY-055
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: ADR-056 CLAIM-430 CLAIM-437 CLAIM-440 CLAIM-442 CLAIM-447 THEORY-055 THEORY-056 THEORY-680 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # TERM-104: motivating perspective: an organizational perspective whose interpretations give circumstances a significance relative to concerns it maintains, and whose significance conditions action readiness, a claim to control that the will-organization may or may not grant; motivating as a disposition, whether or not it is activated, granted or operative

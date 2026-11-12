@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmplg5jg
 title: 'Authority geometry and response geometry: when an organization''s response is the authority-weighted mixture p_π(y | c) = Σ πᵢ pᵢ(y | c), the Fisher metric of its responses is the pullback JᵀD⁻¹J of the categorical (Shahshahani) metric on the shares π and never exceeds it; it vanishes along any redistribution between processes that respond alike under the probes used, so two specialists who both answer yes with probability 0.8 in routine contexts carry no information about their shares there, while a rare context in which they answer 0.9 and 0.1 carries 0.64/(p(1 − p)) per observation, p = 0.1 + 0.8π'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -14,6 +14,14 @@ history:
     nonlinear design problem, and a three-process D-optimal design is
     worked and certified. The inaccessible-probe caveat cites
     THEORY-962.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-954 ("local optimality is the point-mass case
+    (THEORY-954)"); THEORY-956 ("as it does not in the normal linear model
+    (THEORY-956)"); THEORY-962 ("an action outside the set D of
+    THEORY-962"). First application of draws_on (ADR-tmpcd2gu). No other
+    change.
 standing: stipulated
 kind: construction
 tags:
@@ -37,7 +45,12 @@ summary: >-
   profiles. Redistribution between processes that agree on the probes is
   invisible to them, and a probe on which they disagree restores it. The
   mixture counterpart of [CASE-152](CASE-152.md)'s product model.
+draws_on:
+- THEORY-954
+- THEORY-956
+- THEORY-962
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-159: Authority geometry and response geometry: when an organization's response is the authority-weighted mixture p_π(y | c) = Σ πᵢ pᵢ(y | c), the Fisher metric of its responses is the pullback JᵀD⁻¹J of the categorical (Shahshahani) metric on the shares π and never exceeds it; it vanishes along any redistribution between processes that respond alike under the probes used, so two specialists who both answer yes with probability 0.8 in routine contexts carry no information about their shares there, while a rare context in which they answer 0.9 and 0.1 carries 0.64/(p(1 − p)) per observation, p = 0.1 + 0.8π
 

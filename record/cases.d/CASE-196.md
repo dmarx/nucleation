@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CASE-tmpqzzui
 title: 'Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-598 ("It is the nonlinear case THEORY-598 marks").
+    First application of draws_on (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -30,7 +36,10 @@ summary: >-
   not mention, 0.96 < b < 1.76. In that band the complex depends on which
   notion of compatibility is declared. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
+draws_on:
+- THEORY-598
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-196: Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium
 

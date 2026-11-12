@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - TERM-tmpvb0eg
 title: 'relational profiles of a configuration, and which: incoming, the cost of producing it from each other configuration; outgoing, the cost of turning it into each; observational, what the tests affordable at a budget can tell it from, with the minimum distinguishing budget at a threshold; and maintenance, what preserves or regenerates its enabling constraints, which Yoneda does not supply'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-032: a profile "characterizes a configuration;
+    whether relations constitute it is another question". First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - mathematics
 - individuation
@@ -29,7 +36,10 @@ summary: >-
   budget sorts systems into classes that only split as the budget grows,
   while at a positive threshold the relation is intransitive, as A says.
   The wording is A's; adopting it is the owner's call.
+draws_on:
+- THEORY-032
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-116: relational profiles of a configuration, and which: incoming, the cost of producing it from each other configuration; outgoing, the cost of turning it into each; observational, what the tests affordable at a budget can tell it from, with the minimum distinguishing budget at a threshold; and maintenance, what preserves or regenerates its enabling constraints, which Yoneda does not supply
 

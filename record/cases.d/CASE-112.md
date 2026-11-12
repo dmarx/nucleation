@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpiyvbk
 title: 'Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -21,6 +21,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-029 ("The model says what an input does, not what
+    makes it authoritative (THEORY-029)"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -39,7 +45,10 @@ summary: >-
   record's [TERM-053](../terms.d/TERM-053.md) sense, so h is called a higher-order volition. It
   models authority between regimes; it does not revive will as an
   attractor ([TERM-003](../terms.d/TERM-003.md), Superseded). Fictional by construction.
+draws_on:
+- THEORY-029
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-029 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

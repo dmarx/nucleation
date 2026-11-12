@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpuuf3p
 title: 'Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,12 @@ history:
     "By CLAIM-347 this is relief of structural frustration." No line
     changes (ADR-085). Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-598 ("THEORY-598 is the caution in the other
+    direction"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 standing: fictional
 kind: construction
 tags:
@@ -33,7 +39,10 @@ summary: >-
   [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, by changing what is attainable, not by weakening a
   demand. The construction says such relief is possible; whether
   specialization produces it is [QUESTION-133](../questions.d/QUESTION-133.md).
+draws_on:
+- THEORY-598
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-119: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed

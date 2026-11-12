@@ -4,13 +4,21 @@ status: Active
 formerly:
 - CASE-tmpffs67
 title: 'Boosting the vote: in the owner''s 2014 model, voters of fixed accuracy drawn from Beta(2, 2) vote in a weight-averaged election, and every voter''s weight is multiplied by 1 + f when their own vote was right and 1 − f when not, with a fraction replaced each round at weight 1; with full-information feedback the weighted result rises from 0.50 toward 0.98 as f grows, and churn only costs in a world that never changes; the model escapes the hive mind''s absorbing states because every voter is scored, heeded or not, and it assumes away the capture its author predicted'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: A47 found two of the extension's outcomes
     independently (CASE-158). The case is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-899 and THEORY-932 ("the hive mind (THEORY-899) and
+    plain Q-learning (THEORY-932) get bandit feedback"); THEORY-142
+    ("turnover, of the kind March found useful (THEORY-142)"); THEORY-938
+    ("lock-in by reinforcement alone (THEORY-938) is the null to beat").
+    First application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: executed-study
 tags:
@@ -31,7 +39,13 @@ summary: >-
   It is the full-information counterpart of the replicator construction.
   What it shows, what it assumes, and the three-axis extension it suggests
   are recorded, and the extension was run on 2026-10-25.
+draws_on:
+- THEORY-899
+- THEORY-932
+- THEORY-142
+- THEORY-938
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-142 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-938 CLAIM-446 — Proposed or new; the construction, claim and question this bears on -->
 
 # CASE-157: Boosting the vote: in the owner's 2014 model, voters of fixed accuracy drawn from Beta(2, 2) vote in a weight-averaged election, and every voter's weight is multiplied by 1 + f when their own vote was right and 1 − f when not, with a fraction replaced each round at weight 1; with full-information feedback the weighted result rises from 0.50 toward 0.98 as f grows, and churn only costs in a world that never changes; the model escapes the hive mind's absorbing states because every voter is scored, heeded or not, and it assumes away the capture its author predicted

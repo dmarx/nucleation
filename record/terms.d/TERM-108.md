@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - TERM-tmp4gc9h
 title: 'proxy objective, in an allocation model: an operational measure optimized in place of the outcome it stands for, whose optimum can differ from the outcome''s with no reaction of the measured to the measure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1384, coverage as "a proxy for the real objective"
+    of survival: "Misalignment can be large". First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - operations-research
 - society-and-governance
@@ -22,7 +29,10 @@ summary: >-
   Unavailable; abstract only) and Erkut, Ingolfsson and Erdoğan
   ([LIT-2089](../literature.d/LIT-2089.md)), on response-time coverage standing in for survival. The
   wording is the filer's; adopting it is the owner's call.
+draws_on:
+- THEORY-1384
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2090 — Unavailable; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1384 TERM-110 — Proposed; Erkut and colleagues' account and the ratchet term of the same filing, cited as filed -->
 

@@ -9,14 +9,17 @@
 {%- set vocab = vocabulary("lines") -%}
 {%- set acc = namespace(rows=[], unused=[]) -%}
 {#- Who grounds on a reading, or takes a case from it, is held on the user's
-    side (`grounds`, `reported_in`); the converse fields are not stored, so
+    side (`grounds`, `reported_in`, `draws_on`); the converse fields are not stored, so
     the users are gathered once from the users' own fields. -#}
 {%- set via = {} -%}
 {%- for d in docs("CLAIM") + docs("ARG") -%}
   {%- for x in d.grounds -%}{%- set k = x.code if x.code is defined else x -%}{%- if k.startswith("THEORY-") -%}{%- set _ = via.setdefault(k, []).append(d) -%}{%- endif -%}{%- endfor -%}
 {%- endfor -%}
 {%- for d in docs("CASE") -%}
-  {%- for x in d.reported_in -%}{%- set k = x.code if x.code is defined else x -%}{%- if k.startswith("THEORY-") -%}{%- set _ = via.setdefault(k, []).append(d) -%}{%- endif -%}{%- endfor -%}
+  {%- for x in d.reported_in + d.draws_on -%}{%- set k = x.code if x.code is defined else x -%}{%- if k.startswith("THEORY-") -%}{%- set _ = via.setdefault(k, []).append(d) -%}{%- endif -%}{%- endfor -%}
+{%- endfor -%}
+{%- for d in docs("TERM") -%}
+  {%- for x in d.draws_on -%}{%- set k = x.code if x.code is defined else x -%}{%- if k.startswith("THEORY-") -%}{%- set _ = via.setdefault(k, []).append(d) -%}{%- endif -%}{%- endfor -%}
 {%- endfor -%}
 {%- for t in docs("THEORY", in_force=True) -%}
   {%- set r = namespace(lines=[], users=[]) -%}
@@ -44,7 +47,8 @@ A reading (THEORY) is the record's account of what a work holds. It
 carries no `line` of its own. A reading serves a line when an entry of that
 line uses it: a claim or argument grounds on it, it corroborates a claim
 or marks the limit of one's scope,
-it answers or bears on a question, or it reports a case. Its lines are the
+it answers or bears on a question, it reports a case, or a case or term
+draws on it. Its lines are the
 first lines of those entries, as ADR-085 reads a relation, and entries
 that are Superseded or Rejected do not count. They are read off the
 relations when this page is built, so a reading gains or loses a line as
@@ -76,8 +80,8 @@ serve none.
 ## Readings no line uses
 
 Readings in force that no entry of the record's argument grounds on, is
-corroborated or bounded by, asks about or takes a case from, by primary
-topic. They are
+corroborated or bounded by, asks about, takes a case from or draws on, by
+primary topic. They are
 where the argument has not yet built on what the record has read.
 {%- set tp = namespace(names=[]) %}{% for t in acc.unused %}{% set k = t.primary_topic or "no primary topic" %}{% if k not in tp.names %}{% set tp.names = tp.names + [k] %}{% endif %}{% endfor %}
 {%- for topic in tp.names | sort %}

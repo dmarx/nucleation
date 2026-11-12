@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpz8i47
 title: 'fidelity, as a profile of directed distortions compared component by component'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,14 @@ history:
     so the governance-response profile filed the same day is not this
     component with the identity correspondence. The definition is
     unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-843 ("the worked graded relation in that
+    literature") and THEORY-848 ("for the hidden governance bit
+    D_causal is zero, since marginalising the hidden bit is
+    exact"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 tags:
 - philosophy-of-language
 - information-theory
@@ -28,7 +36,11 @@ summary: >-
   once a task fixes weights. Supersedes [TERM-010](TERM-010.md)'s weighted scalar as the
   foundation; [TERM-015](TERM-015.md) and [TERM-021](TERM-021.md) stay in force as what the components
   measure.
+draws_on:
+- THEORY-843
+- THEORY-848
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the restatements of the components, cited as open -->
 

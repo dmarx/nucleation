@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpwxags
 title: 'Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling''s gap is still ≈ 0.989'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,18 @@ history:
     "interruption of the work that produces it"; it has no outside
     reset, so it does not illustrate the comparison. Reported by the
     synthesis review of 2026-11-11 (seventh round). No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1250 ("A chemostat is itself a finite-lived structure
+    of a larger closed network"); THEORY-1273 and THEORY-1264 ("set by a
+    barrier in a quasi-potential computed from the dynamics, not by a free
+    energy (THEORY-1273, THEORY-1264)"); THEORY-1266 ("sustained currents
+    need an emergent cycle with nonzero affinity (LIT-1889,
+    THEORY-1266)"); THEORY-1290 ("both constructions are de novo dynamical
+    models"); THEORY-1289 ("a clamp in a model (THEORY-1289)"); THEORY-134
+    ("not the viability kernel THEORY-134 defines"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -37,7 +49,16 @@ summary: >-
   mathematical account of organizational birth, commitment, and death
   within Nucleation's framework"; [CASE-111](CASE-111.md) is the earlier one, and this is
   its variant with a coupling attached.
+draws_on:
+- THEORY-1250
+- THEORY-1273
+- THEORY-1264
+- THEORY-1266
+- THEORY-1290
+- THEORY-1289
+- THEORY-134
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: NOTE-1562 — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 
 # CASE-189: Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling's gap is still ≈ 0.989

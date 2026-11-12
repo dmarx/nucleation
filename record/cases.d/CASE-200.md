@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmp0g3pa
 title: 'A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -23,6 +23,12 @@ history:
     the principal's revision rule alone, where it read "the incentive
     ratchet of TERM-110"; the agent's distortion that completes the effect
     is not modelled. The construction is unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1421 ("Expiry forecloses it"); THEORY-1410 ("In this
+    case that commitment is what keeps the transition possible"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -49,7 +55,11 @@ summary: >-
   to the ratchet and to the question of allocation by observed activity.
   The construction is the filer's, from A's budget recursion; adopting
   it is the owner's call.
+draws_on:
+- THEORY-1421
+- THEORY-1410
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
 # CASE-200: A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpxgcq2
 title: 'Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -13,6 +13,15 @@ history:
     marker, marks access, not experience", under QUESTION-048's standing
     point. Reading review of 2026-11-11, by question. Under ADR-085 it
     takes evidence-for-experience. No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-090 ("Command-following, the usual marker, marks
+    access, not experience (THEORY-090)"); THEORY-298 ("No-report
+    markers still have to be validated through report or executive
+    control (THEORY-298)"); and THEORY-500 ("an 'as if body loop' ...
+    (THEORY-500; asserted, not shown)"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -31,7 +40,7 @@ summary: >-
   movements it spares are that theory's model action. The completely
   locked-in state is the real test, and there any evidence of lucidity has
   to come through a channel that is itself an action. Visceromotor
-  regulation and Damasio's internal "as if body loop" survive paralysis,
+  regulation and Damasio's internal 'as if body loop' survive paralysis,
   so the case never removes every contingency between intention and
   outcome.
 reported_in:
@@ -44,7 +53,12 @@ reported_in:
 - NOTE-961
 bears_on:
 - QUESTION-048
+draws_on:
+- THEORY-090
+- THEORY-298
+- THEORY-500
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-090 THEORY-298 THEORY-500 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 # CASE-107: Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains
 

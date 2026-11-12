@@ -7,7 +7,7 @@ complements:
 - TERM-093
 - TERM-091
 title: 'effective boundary constraint, of a composite: the relation its interconnected parts impose on the variables an outside system can reach, once the interior is eliminated; approximately instantaneous or history-dependent, and, independently, possibly of a kind the parts'' relations could not state'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,13 @@ history:
     for its distinctions. The defined object, the projection of the
     joint behaviour onto the reachable variables, is unchanged;
     CLAIM-480 and CLAIM-474 cite it in that sense.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1090, Hansen and Ghrist's star, which fixes the
+    "by kind" axis: "v₁ = v₂ + v₃, which no pairwise sheaf on the boundary
+    expresses". First application of draws_on (ADR-tmpcd2gu). No other
+    change.
 tags:
 - compositionality
 - complex-systems
@@ -43,7 +50,10 @@ summary: >-
   instantaneous or history-dependent; it is effective, not a new
   fundamental law; and it can exceed the parts' relational vocabulary.
   Adopted 2026-10-29.
+draws_on:
+- THEORY-1090
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1660 — Unavailable; the work whose term the definition borrows, unread -->
 
 # TERM-090: effective boundary constraint, of a composite: the relation its interconnected parts impose on the variables an outside system can reach, once the interior is eliminated; approximately instantaneous or history-dependent, and, independently, possibly of a kind the parts' relations could not state

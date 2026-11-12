@@ -4,7 +4,18 @@ status: Active
 formerly:
 - TERM-tmpq0ms2
 title: 'Granger causality: the past of one series improving the prediction of another''s next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-641 ("the likelihood-ratio limit of a
+    well-specified model"), THEORY-700 ("the same quantity,
+    halved, for jointly Gaussian processes"), THEORY-704 ("only
+    under Eichler and Didelez's conditions"), THEORY-710
+    ("Interventional information flow") and THEORY-711 ("Granger
+    causality corresponds to its lagged part"). First application
+    of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - causality
 - mathematical-statistics
@@ -17,7 +28,14 @@ summary: >-
   to an information set, predictive, and interventional only under the
   conditions of [THEORY-704](../theory.d/THEORY-704.md). Defined from Barnett, Barrett and Seth,
   Seth, and Eichler and Didelez; Granger (1969) itself is Unavailable.
+draws_on:
+- THEORY-641
+- THEORY-700
+- THEORY-704
+- THEORY-710
+- THEORY-711
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-058: Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention
 

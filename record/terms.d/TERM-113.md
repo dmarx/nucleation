@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmplh56l
 title: 'coverage, and which sense: deterministic coverage that treats a covering unit as always available, expected coverage that discounts it by its chance of being busy, and reliable coverage that requires a free unit with a stated probability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -12,6 +12,12 @@ history:
     Provenance only: NOTE-1583 went to Read in the twenty-ninth status
     review, so "skimmed in" becomes "read in" (1 place). The sense is
     unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1396 for sense 1: "Resources at a facility are
+    considered to be always available". First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -30,7 +36,10 @@ summary: >-
   ([LIT-2075](../literature.d/LIT-2075.md), Unavailable) for reliable coverage, both from their
   abstracts and neighbours. The wording is the filer's; adopting it is the
   owner's call.
+draws_on:
+- THEORY-1396
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2098 LIT-2075 — Unavailable; cited for their published abstracts, nothing here rests on them -->
 <!-- inactive-ok-file: TERM-108 — Proposed; a term of the same filing, cited as filed -->
 

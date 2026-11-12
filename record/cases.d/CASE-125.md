@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpdc0tl
 title: 'A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,14 @@ history:
     the case also separates governance-response sufficiency from exact
     transformation and τ-abstraction (CLAIM-399). The case is
     unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-848, THEORY-849 and THEORY-843 ("dropping K is an
+    exact transformation and a τ-abstraction, and its
+    approximate-abstraction distance is 0"); and THEORY-820
+    ("THEORY-820 needs stationarity only"). First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -35,7 +43,13 @@ summary: >-
   parameters of [CLAIM-122](../claims.d/CLAIM-122.md)'s supervisory test, which the exchange of
   2026-10-17 gave only in words. Fictional by construction; K is a
   mechanism parameter, not an agent's governance.
+draws_on:
+- THEORY-848
+- THEORY-849
+- THEORY-843
+- THEORY-820
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-336 — Proposed; named as the test this case cannot be, open -->
 
 # CASE-125: A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h

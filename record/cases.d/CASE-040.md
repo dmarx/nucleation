@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpmv9pi
 title: 'Topic and act crossed: a factorial design that decorrelates what a text is about from what it does'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-175 ("Comparing them needs paired anchors
+    (THEORY-175)"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -24,7 +31,10 @@ summary: >-
   with lexical, judgement, uptake and intervention data, several
   factorizations, and four outcomes reported separately. A210 §5 gives a
   cross-corpus version. Proposed by the assistant; not run.
+draws_on:
+- THEORY-175
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-129 CLAIM-127 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
 
 # CASE-040: Topic and act crossed: a factorial design that decorrelates what a text is about from what it does

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpsp3d4
 title: 'Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -12,6 +12,11 @@ history:
     Note of 2026-10-22 added: both Wilson papers are Unavailable, and
     their abstracts were read. The case's sourcing of preserved musical
     skill to the 1995 paper is unchecked. The case is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-060 ("Against THEORY-060's life-story identity").
+    First application of draws_on (ADR-tmpcd2gu). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -34,7 +39,10 @@ summary: >-
 reported_in:
 - LIT-1368
 - LIT-1369
+draws_on:
+- THEORY-060
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1368 LIT-1369 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-417 THEORY-060 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

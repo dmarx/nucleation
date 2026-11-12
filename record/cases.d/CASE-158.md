@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpjmerx
 title: 'Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-25'
@@ -20,6 +20,16 @@ history:
     the same information and authority tie in the Northstar study
     reported at T20 of the exchange "Experimental Infrastructure Review"
     (CASE-166), not reproduced. The case is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-937 ("a mixture of experts whose experts earn
+    responsibility by fitting better (THEORY-937)"); THEORY-927
+    ("THEORY-927's self-reinforcing gate"); THEORY-958 ("MultiDiffusion's
+    fusion with LoRA-modified models as the views"); THEORY-955 ("That
+    merging LoRAs degrades as their number grows (THEORY-955) motivates
+    combining per step"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -39,7 +49,13 @@ summary: >-
   Its results come from a sandbox the share does not carry, and the record
   has not run it. What would make it informative is one arm per failure of
   [QUESTION-271](../questions.d/QUESTION-271.md).
+draws_on:
+- THEORY-937
+- THEORY-927
+- THEORY-958
+- THEORY-955
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-278 TERM-066 — Proposed; the objection this design is built to meet and the claim and term it bears on, nothing here rests on their being settled -->
 
 # CASE-158: Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot

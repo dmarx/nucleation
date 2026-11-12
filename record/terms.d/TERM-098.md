@@ -7,7 +7,7 @@ complements:
 - TERM-088
 - TERM-040
 title: 'concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-31'
@@ -27,6 +27,12 @@ history:
     changed inferential commitments. Conceptual corrigibility is now a
     named further achievement, which need not come with the concept. That
     fits CLAIM-474: achievements are not nested.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-965: "A feature, in the sense of THEORY-965, is a
+    unit a model computes with", which a concept is not. First application
+    of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - cognition
 - representation-learning
@@ -40,7 +46,10 @@ summary: >-
   conceptual organization, which the term names, from conceptual
   corrigibility, a further achievement it does not require. A candidate,
   not adopted: [QUESTION-360](../questions.d/QUESTION-360.md) asks what would settle it.
+draws_on:
+- THEORY-965
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-965 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: CASE-230 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 

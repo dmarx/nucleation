@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmptwfjg
 title: 'Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,6 +14,12 @@ history:
     difference, and the coexistence bound is ρ < f₂/f₁ < 1/ρ;
     Chesson 1990 registered, Unfetched. The construction is
     unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-004 ("measured from feature geometry (ρ, the Gram
+    spectrum; THEORY-004, CLAIM-193)"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -31,7 +37,10 @@ summary: >-
   n* = (1/(1 + ρ) ± δ/(1 − ρ)), feasible only when |δ| < (1 − ρ)/(1 + ρ).
   The same representation geometry supports coexistence under one supply
   and exclusion under another.
+draws_on:
+- THEORY-004
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched since 2026-10-29; Chesson 1990, cited in the note of that date as not read, nothing here rests on it -->
 

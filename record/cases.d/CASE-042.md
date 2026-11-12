@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmptm6yt
 title: 'Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,12 @@ history:
     Corrected: Zhang and Blei (LIT-677) claim flat paths between LDA's
     optima but report no results (NOTE-522), so "find" is now "claim,
     without reported results". Found in the THEORY backfill.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-176 and THEORY-156 ("which THEORY-176 shows is not
+    Blackwell's order (THEORY-156)"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -30,7 +36,11 @@ summary: >-
   nonnegativity plus separability or anchor-word conditions. It shows that
   recovery is possible and limited, not that a recovered component is a
   communicative kind.
+draws_on:
+- THEORY-176
+- THEORY-156
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as claims this case bears on, not as settled -->
 <!-- inactive-ok-file: LIT-677 THEORY-182 — Proposed; cited as readings the record already held that bear on the case -->
 

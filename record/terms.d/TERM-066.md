@@ -7,7 +7,7 @@ complements:
 - TERM-020
 - TERM-100
 title: 'interpretive capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,17 @@ history:
     owner delegated these rulings): CLAIM-404 leaves used_by. It is not
     stated in this term and now says it uses the institutional sense. The
     definition is unchanged.
+- version: 8
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-833 ("judged against measured public values"),
+    THEORY-836 ("their measure gives the outside standard
+    operationally"), THEORY-837 ("the decision bought outright"),
+    THEORY-851 ("the weakest form of such a standard"), THEORY-859
+    ("diversion from the public interest through an adopted
+    criterion") and THEORY-860 ("show why an outside reference is
+    needed"). First application of draws_on (ADR-tmpcd2gu). No
+    other change.
 tags:
 - self-governance
 - society-and-governance
@@ -65,7 +76,15 @@ summary: >-
   senses: a loop's outcome, and an institution's diversion from its
   purpose. Proposed: the first, with the second's requirement of an
   outside standard. Not adopted; not concentration, and not merited trust.
+draws_on:
+- THEORY-833
+- THEORY-836
+- THEORY-837
+- THEORY-851
+- THEORY-859
+- THEORY-860
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-859 — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->

@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-090
 title: 'relational vocabulary, of a class of descriptions: the arities and kinds of relation it can state (pairwise or higher-order, among states or among histories, of which declared types), and so which constraints are expressible in it at all'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,12 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1090, the reduced constraint that "is not
+    expressible in the pairwise vocabulary of sheaves on the boundary
+    graph". First application of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - compositionality
 - mathematics
@@ -43,7 +49,10 @@ summary: >-
   that add one ([ADR-043](../decisions.d/ADR-043.md), [ADR-044](../decisions.d/ADR-044.md)) enlarge it. The term lets the record say
   that a constraint is inexpressible in a vocabulary, which is different
   from saying that it is false or unknown. Adopted 2026-10-29.
+draws_on:
+- THEORY-1090
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-091: relational vocabulary, of a class of descriptions: the arities and kinds of relation it can state (pairwise or higher-order, among states or among histories, of which declared types), and so which constraints are expressible in it at all
 

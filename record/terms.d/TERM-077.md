@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpu0tg2
 title: 'ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, which is ordinal extendibility, that some complete ordering agrees with every win, and not observed comparability, since pairs never contested are not compared; and it is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-24'
@@ -16,6 +16,13 @@ history:
     utility can exist with many pairs never observed. They are now stated
     as an evidential pair and a representational pair. The definition is
     unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-894 ("the Hodge decomposition's least-squares
+    potential measure what it says") and THEORY-896 ("Not a
+    potential game"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - mathematics
 - game-theory
@@ -28,7 +35,11 @@ summary: >-
   measures cardinal inconsistency and can reverse an ordinal comparison
   ([CLAIM-434](../claims.d/CLAIM-434.md), part 4), and from a real-valued currency
   ([CLAIM-436](../claims.d/CLAIM-436.md)).
+draws_on:
+- THEORY-894
+- THEORY-896
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-076 — Proposed; the terms built on this one, the second-hand reading of Monderer and Shapley, and the currency result it is distinguished from, cited as open -->
 
 # TERM-077: ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, which is ordinal extendibility, that some complete ordering agrees with every win, and not observed comparability, since pairs never contested are not compared; and it is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be

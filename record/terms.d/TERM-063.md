@@ -6,7 +6,7 @@ formerly:
 rivals:
 - TERM-044
 title: 'agent, as an individual that is the active source of modulations of its coupling with its environment and regulates them against norms its own organization sets (Barandiaran, Di Paolo and Rohde)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,6 +15,13 @@ history:
     CLAIM-418 is stated in TERM-044 and TERM-072 and only checks that it
     also holds under this term, so its uses edge to this term was
     dropped. The definition and status are unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-071 ("THEORY-071, from Barandiaran, Di Paolo
+    and Rohde"), THEORY-583 ("Not a homeostat") and THEORY-801
+    ("Not TERM-044's third test"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - agency
 - philosophy-of-biology
@@ -31,7 +38,12 @@ summary: >-
   with its designers and a trained policy's training process pass [TERM-044](TERM-044.md)
   and fail here. Proposed: recorded, not adopted. [THEORY-071](../theory.d/THEORY-071.md)'s own
   promotion test would settle it.
+draws_on:
+- THEORY-071
+- THEORY-583
+- THEORY-801
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-155 CLAIM-157 CLAIM-167 CLAIM-168 CLAIM-170 THEORY-801 — Proposed; the claims stated in TERM-044 and the wider reading of its third test, named as unchanged -->
 <!-- inactive-ok-file: THEORY-071 THEORY-583 — Proposed; the reading this definition is taken from and a rival account of the self, cited as open -->
 <!-- inactive-ok-file: CLAIM-174 CLAIM-367 — Proposed; the test TERM-044 is defined by and the claims behind the differing verdicts, open -->

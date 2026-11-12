@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpir76a
 title: 'Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -21,6 +21,13 @@ history:
     (ADR-092); added as that decision's demonstration. Its text
     names the question: "moving the reduced symbiont's genes to the host
     (QUESTION-277". No line changes (ADR-085). No other change.
+- version: 5
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-1049 ("below the 200 kb at which translation genes
+    begin to go (THEORY-1049)"); THEORY-418 ("THEORY-418's test of whether
+    complementation alone gives closure"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: documented
 kind: specimen
 tags:
@@ -37,7 +44,11 @@ summary: >-
   In the mealybug Planococcus citri, Moranella lives inside Tremblaya. Essential amino-acid pathways need gene products from both bacteria and the insect ([LIT-1565](../literature.d/LIT-1565.md)). At least 22 genes the insect acquired from other bacteria, none from Tremblaya, fill symbiont gaps ([LIT-1569](../literature.d/LIT-1569.md)), and the inner symbiont has been replaced several times across mealybugs while those genes persisted ([LIT-1572](../literature.d/LIT-1572.md)). Used as the case where function is distributed across nested boundaries and constituent lineages turn over.
 bears_on:
 - QUESTION-277
+draws_on:
+- THEORY-1049
+- THEORY-418
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
 

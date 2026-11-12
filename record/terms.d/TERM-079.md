@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - TERM-tmp8gcbf
 title: 'belief, of a process: a maintained, truth-directed inferential commitment, held to the degree that the process uses a proposition as a premise in interpreting observations, generating expectations and evaluating counterfactuals across the contexts it bears on, together with the profile by which that commitment is revised; distinct from entertaining an interpretation, from asserting it, and from granting it authority over action'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-127 and THEORY-536, the organization's effective
+    belief "need not be any aggregate of the local credences", and on
+    THEORY-538, Dennett's intentional stance, against which the candidate
+    "adds a process-level hypothesis about what organization sustains the
+    pattern". First application of draws_on (ADR-tmpcd2gu). No other
+    change.
 tags:
 - epistemology
 - cognition
@@ -19,7 +29,12 @@ summary: >-
   The candidate puts belief on the same footing, tested by its role in
   anticipation, inference and revision, not by report or by which motive
   wins. Not adopted.
+draws_on:
+- THEORY-127
+- THEORY-536
+- THEORY-538
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-536 THEORY-538 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 
 # TERM-079: belief, of a process: a maintained, truth-directed inferential commitment, held to the degree that the process uses a proposition as a premise in interpreting observations, generating expectations and evaluating counterfactuals across the contexts it bears on, together with the profile by which that commitment is revised; distinct from entertaining an interpretation, from asserting it, and from granting it authority over action
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprbebk
 title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-23'
@@ -32,6 +32,15 @@ history:
     (ADR-092); added as that decision's demonstration. Its text
     names the question: "QUESTION-083 and the questions filed with it".
     No line changes (ADR-085). No other change.
+- version: 6
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-134 ("viability under specialist removal |
+    robustness and capacity to reorganize (THEORY-134)"); THEORY-239
+    ("Context-conditioned representations (THEORY-239) give a way to
+    tell a functional niche from the mere frequency of its contexts");
+    and THEORY-132 ("resilience is not speed of return (THEORY-132)").
+    First application of draws_on (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -57,7 +66,12 @@ bears_on:
 - QUESTION-133
 - QUESTION-134
 - QUESTION-135
+draws_on:
+- THEORY-134
+- THEORY-239
+- THEORY-132
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 

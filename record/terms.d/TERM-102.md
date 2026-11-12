@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmp0evbm
 title: 'higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt''s second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -18,6 +18,12 @@ history:
     TERM-103. Whose attitude it is, a person's or a process's, stays the
     ownership question its Bearer paragraph leaves open; the term takes
     no side. The wording is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-120: "Frankfurt's 1971 paper is the source", a
+    second-order volition being wanting a desire "to be his will". First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - free-will
 - agency
@@ -36,7 +42,10 @@ summary: >-
   of 2026-10-18, [CLAIM-354](../claims.d/CLAIM-354.md) and [CLAIM-122](../claims.d/CLAIM-122.md)'s note of 2026-10-18. This term
   codes it. [ADR-056](../decisions.d/ADR-056.md)'s kinds would class it as a disambiguation. The
   wording is the reader's, from A14; adopting it is the owner's call.
+draws_on:
+- THEORY-120
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 <!-- inactive-ok-file: ADR-056 THEORY-029 THEORY-120 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

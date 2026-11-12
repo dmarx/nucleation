@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpvt6wb
 title: 'Six units with uniform coupling, A = αI + β(11ᵀ − I): their sum is exactly dynamically independent at every coupling tried, while a single unit and the sum of three are not, and no grouping of the units is a weakly coupled block'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -12,6 +12,12 @@ history:
     bears_on QUESTION-218: its text says it is "the system QUESTION-218
     would test". Reading review of 2026-11-11, by question. No other
     change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-733 ("in the record's setting for dynamical
+    independence, a linear Gaussian VAR(1) (THEORY-733)"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 standing: fictional
 kind: construction
 tags:
@@ -29,7 +35,10 @@ summary: >-
   for compensation and entrainment. Fictional by construction.
 bears_on:
 - QUESTION-218
+draws_on:
+- THEORY-733
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # CASE-120: Six units with uniform coupling, A = αI + β(11ᵀ − I): their sum is exactly dynamically independent at every coupling tried, while a single unit and the sum of three are not, and no grouping of the units is a weakly coupled block
 

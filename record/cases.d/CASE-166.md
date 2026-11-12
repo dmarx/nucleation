@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmprl1px
 title: 'Northstar as a multilevel simulation: twelve employees with fixed frames in four departments form overlapping working groups that keep records and can receive delegated authority; as reported, a working group with delegated authority ties a conventional router given the same information and authority, nearly all of its advantage over departmental silos comes from fast authorization, and keeping the incident team''s records through a commander handoff improves the company''s estimate of its own state about eightfold while barely changing what it does'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -23,6 +23,12 @@ history:
     CLAIM-427's note of 2026-10-26, where the runs are given, stays.
     Reported by the synthesis review of 2026-11-11 (seventh round).
     No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-142 ("March's members, organizational code and
+    turnover (LIT-729, THEORY-142)"). First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -48,7 +54,10 @@ summary: >-
   carries no files and the lab holds no v2.10 or v2.11, so every number
   is reported, not reproduced. Not shown: that any organizational
   perspective emerged, which T20 itself denies.
+draws_on:
+- THEORY-142
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-327 — Proposed; the claims and terms this design restates or bears on, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-427 — Superseded by ARG-025; its note of 2026-10-26 is cited for the runs, which stay there -->
 <!-- inactive-ok-file: THEORY-142 — Proposed; March's model read as the comparator, nothing here rests on it -->

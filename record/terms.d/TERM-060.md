@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmp9lmlt
 title: 'frustration, of an organization''s demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,13 @@ history:
     description, agency and legibility: A13 and A14 proposed an "admissible
     transformation class" in the invariance sense, which is not this term's
     admissible transformations. The definition is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Draws on THEORY-052 ("need frustration, the active thwarting
+    of a need, as distinct from a mere lack of its satisfaction")
+    and THEORY-232 ("Not Watson's total frustration"). First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - self-governance
 - agency
@@ -31,7 +38,11 @@ summary: >-
   sense, though it shares that sense's three-demand minimal obstruction.
 complements:
 - TERM-076
+draws_on:
+- THEORY-052
+- THEORY-232
 ---
+<!-- inactive-ok-file: THEORY-052 THEORY-232 ADR-tmpcd2gu — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->
 

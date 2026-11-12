@@ -8,7 +8,7 @@ complements:
 - TERM-090
 - TERM-097
 title: 'correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -30,6 +30,12 @@ history:
     twenty-fourth status review, at the status review's ruling (the owner
     delegated these rulings). It read: 'measurement establishes a
     correspondence that already held'. The term is otherwise unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1088: "Adaptation can succeed at agreement by
+    changing what is compared". First application of draws_on (ADR-
+    tmpcd2gu). No other change.
 tags:
 - complex-systems
 - mathematics
@@ -47,6 +53,8 @@ summary: >-
   say which. Adopted at the thirteenth status review, once the formed
   sense was stated as the maps that wiring sets and not the joint
   behaviour they admit.
+draws_on:
+- THEORY-1088
 ---
 
 # TERM-093: correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted
