@@ -1,7 +1,20 @@
 ---
 status: Proposed
 title: 'How the record as an apparatus would be put to the test: whether governing schema change does work, whether a shared record moves distributed evidence into judgement, and whether a collective keeping one can improve its improver without losing correctability'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: Filed with the exchange "luria experiment design".
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    At the owner's review of #484 on 2026-11-12, which split
+    CLAIM-tmppk8g6: it now holds the interaction alone, and its routine-task
+    prediction is CLAIM-tmpbszhs, secondary, added as a component. The
+    clauses that cite them, and the closing note on claims about outcomes,
+    follow the split; HiddenBench's Secretary arm is named in
+    CASE-tmpiocs1's clause.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the line, an entry on evaluating the record's own machinery,
@@ -20,6 +33,7 @@ integrates:
 - QUESTION-tmpxq2sb
 - QUESTION-tmp7a7l4
 - CLAIM-tmppk8g6
+- CLAIM-tmpbszhs
 - CLAIM-tmp8qsef
 - CLAIM-tmpyp3u3
 - CLAIM-tmpefs1h
@@ -56,7 +70,7 @@ summary: >-
   interaction between governance and modifiability, is [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md).
   Proposed until the owner reviews the mapping.
 ---
-<!-- inactive-ok-file: CLAIM-tmppk8g6 CLAIM-tmp8qsef CLAIM-tmpyp3u3 CLAIM-tmpefs1h TERM-tmp8deza CASE-tmppm4do CASE-tmpiocs1 CASE-tmpy1ebu CASE-tmpvq90k — filed from the exchange "luria experiment design", Proposed; components with their standing -->
+<!-- inactive-ok-file: CLAIM-tmppk8g6 CLAIM-tmpbszhs CLAIM-tmp8qsef CLAIM-tmpyp3u3 CLAIM-tmpefs1h TERM-tmp8deza CASE-tmppm4do CASE-tmpiocs1 CASE-tmpy1ebu CASE-tmpvq90k — filed from the exchange "luria experiment design", Proposed; components with their standing -->
 <!-- inactive-ok-file: CASE-194 — Proposed; a component with its standing -->
 
 # SYNTHESIS-tmpohyzz: How the record as an apparatus would be put to the test: whether governing schema change does work, whether a shared record moves distributed evidence into judgement, and whether a collective keeping one can improve its improver without losing correctability
@@ -74,7 +88,9 @@ from ontology and metamodel evolution, and does it do work that
 argumentation-governed or performance-gated evolution does not?
 [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) (A) proposes the answer to the second half, that
 governance raises the value of modifiability on tasks whose categories
-are inadequate, and [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) (A) is the study that would measure it,
+are inadequate; CLAIM-tmpbszhs (A) is a secondary prediction, separate
+and not following from it, that on routine tasks governance adds cost and
+no benefit. [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md) (A) is the study that would measure both,
 seeded with [CASE-131](../cases.d/CASE-131.md). [CLAIM-tmpefs1h](../claims.d/CLAIM-tmpefs1h.md) (A) says what a migration in such a
 study must preserve; [CLAIM-tmp8qsef](../claims.d/CLAIM-tmp8qsef.md) (A) says what the record leaves to
 judgement when an entry is retired.
@@ -85,7 +101,9 @@ than a structured protocol, and at which of [CLAIM-403](../claims.d/CLAIM-403.md
 stated in [TERM-tmp8deza](../terms.d/TERM-tmp8deza.md) (A, at the owner's request), and [CLAIM-tmpyp3u3](../claims.d/CLAIM-tmpyp3u3.md)
 (A) bounds what such a record can represent of its collaborators, resting
 on [CLAIM-346](../claims.d/CLAIM-346.md)'s third obstruction. [CASE-tmpiocs1](../cases.d/CASE-tmpiocs1.md) (A) is the study,
-adapting an existing benchmark; [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md) (A), from [CASE-194](../cases.d/CASE-194.md), tests
+adapting an existing benchmark, with the benchmark's Secretary arm, a
+shared summary of what has been disclosed, as the baseline a record must
+beat; [CASE-tmpvq90k](../cases.d/CASE-tmpvq90k.md) (A), from [CASE-194](../cases.d/CASE-194.md), tests
 whether a team can find which stage or level failed before it repairs.
 
 **Recursive improvement.** [QUESTION-tmp7a7l4](../questions.d/QUESTION-tmp7a7l4.md) (U17): can a collective
@@ -105,5 +123,6 @@ decisions, or by an evaluator its subjects can edit, certifies nothing.
 ## What is left open
 
 Each question is Open and every design unrun. No component says the
-record would do better than its comparators; [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) is the only
-claim about outcomes, and it is a prediction with no result behind it.
+record would do better than its comparators; [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md), the central
+prediction, and CLAIM-tmpbszhs, a secondary one, are the only claims about
+outcomes, and neither has a result behind it.

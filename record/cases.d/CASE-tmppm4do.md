@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: 'A proposed study of governed schema adaptation: agents given a record whose grammar may or may not be adequate, under fixed or modifiable schemas crossed with informal or explicit change governance, scored on semantic correction without regressions'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: Filed from the exchange "luria experiment design", A45 Study 2 and A48 §6.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    At the owner's review of #484 on 2026-11-12, which split the routine-task
+    prediction from CLAIM-tmppk8g6: the study now names a secondary estimand
+    for it, CLAIM-tmpbszhs, on the tasks where no schema change is warranted,
+    reported apart from the interaction. The arms are unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -34,7 +45,7 @@ summary: >-
   design is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-082 ADR-084 — Proposed; historical episodes the study would draw on, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmppk8g6 — filed from the same exchange, Proposed; the claim the study's interaction would test -->
+<!-- inactive-ok-file: CLAIM-tmppk8g6 CLAIM-tmpbszhs — filed from the same exchange, Proposed; the claims its interaction and its secondary estimand would test -->
 <!-- inactive-ok-file: THEORY-tmp1o5v5 THEORY-tmp37mxv THEORY-tmp4d13i THEORY-tmpdui86 THEORY-tmpe8wmn THEORY-tmph4vkf THEORY-tmphkpxr THEORY-tmpqb5z0 THEORY-tmprcmsd THEORY-tmpru0yr THEORY-tmpxbva2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-tmppm4do: A proposed study of governed schema adaptation: agents given a record whose grammar may or may not be adequate, under fixed or modifiable schemas crossed with informal or explicit change governance, scored on semantic correction without regressions
@@ -71,7 +82,13 @@ alone, after EvoOntology ([LIT-2311](../literature.d/LIT-2311.md)), "a serious c
 weak static-ontology baseline" (A45); and a governed plain-Markdown
 baseline, to separate the review process from the record's machinery.
 The primary estimand is the interaction, which [CLAIM-tmppk8g6](../claims.d/CLAIM-tmppk8g6.md) predicts
-positive on misfit tasks.
+positive on misfit tasks. A secondary estimand, set apart at the owner's
+review of #484, compares the governed with the ungoverned arms on the tasks
+where no schema change is warranted: justified correction, source
+verification, provenance and review quality, against cost. It tests
+CLAIM-tmpbszhs, which predicts no benefit there. The two are reported
+separately and neither is read from the other: a benefit of governance on
+routine tasks leaves the interaction as it was.
 
 **The seed.** [CASE-131](CASE-131.md), started at the repository state before [ADR-044](../decisions.d/ADR-044.md):
 two claims, a `supports` whose converse asserts a dependency nobody made,

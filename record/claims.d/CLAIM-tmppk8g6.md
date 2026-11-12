@@ -1,7 +1,23 @@
 ---
 status: Proposed
-title: 'Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them, while on routine tasks governance adds cost and no correction'
-version: 1
+title: 'Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them'
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: Filed from the exchange "luria experiment design", A45 §3, with a second prediction about routine tasks.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Narrowed at the owner's review of #484 on 2026-11-12 to the interaction
+    alone. Version 1 also predicted that on routine tasks governance adds
+    cost and no correction, and was defeated if governance improved
+    correction as much on routine tasks as on misfit ones. The owner: that
+    prediction "does not necessarily follow from A. Governance could
+    improve source verification, provenance, or review quality even when no
+    schema change is needed. Such an improvement would not invalidate the
+    hypothesized interaction". It is now CLAIM-tmpbszhs, secondary and
+    tested on its own; neither claim rests on the other.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -12,11 +28,12 @@ defeated_if: >-
   governance than without, measured as justified correction completed
   without material regression; or a performance-gated arm, changes
   accepted on held-out tests alone, matches the governed arm at no greater
-  cost. Also defeated if governance improves correction as much on routine
-  tasks as on misfit tasks, which would make it a general benefit of
-  review, not an interaction with modifiability. Not defeated by the
-  governed arm scoring better on compliance or traceability alone: those
-  are reported separately and are not the outcome.
+  cost. Not defeated by a benefit of governance that does not depend on
+  modifiability, in correction, source verification, provenance or review
+  quality: it adds to the fixed and the modifiable arms alike and cancels
+  in the interaction. Not defeated by the governed arm scoring
+  better on compliance or traceability alone: those are reported
+  separately and are not the outcome.
 tags:
 - design-rationale
 - databases
@@ -41,11 +58,11 @@ summary: >-
   Proposed with an empirical warrant that no result yet supplies. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmppm4do — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-tmppm4do CLAIM-tmpbszhs — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit under which this claim was admitted -->
 <!-- inactive-ok-file: ARG-tmpyprz6 THEORY-tmp4d13i — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-tmppk8g6: Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them, while on routine tasks governance adds cost and no correction
+# CLAIM-tmppk8g6: Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them
 
 ## The claim
 
@@ -59,9 +76,7 @@ a justified correction without material regressions within budget:
 Δ = (Y_flexible,governed − Y_fixed,governed) − (Y_flexible,ungoverned − Y_fixed,ungoverned)
 
 The claim is that Δ is positive on tasks where the inherited categories
-cannot express a needed distinction, and that on routine tasks, where no
-schema change is warranted, governance adds review cost without adding
-correction. A45: "A positive interaction would indicate that flexibility
+cannot express a needed distinction. A45: "A positive interaction would indicate that flexibility
 becomes more useful in the governed condition, within the tested tasks. It
 would not automatically identify which governance mechanism caused the
 difference." A48 §6: "The central test is the interaction, not merely
@@ -94,6 +109,12 @@ would measure it is [CASE-tmppm4do](../cases.d/CASE-tmppm4do.md).
 - Not that formal governance is better than performance gating. A48 makes
   performance-gated evolution, as in EvoOntology ([LIT-2311](../literature.d/LIT-2311.md)), "a serious
   comparator"; the claim is defeated if it does as well.
+- Not what governance does on routine tasks, where no schema change is
+  warranted. A45 also predicted that there it adds cost and no
+  correction; that is CLAIM-tmpbszhs, secondary and tested on its own.
+  The interaction does not imply it: governance could improve source
+  verification, provenance or review quality whether or not the schema
+  can change, and such a benefit leaves Δ where it was.
 - Not which governance mechanism does the work. The claim is about the
   combination of review, rationale and migration as one treatment; A48 §6
   varies who holds authority as a secondary design.

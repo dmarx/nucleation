@@ -1,7 +1,20 @@
 ---
 status: Rejected
 title: 'EvoOntology''s gate ablation shows that governance raises the value of a modifiable schema'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: Filed Rejected with the readings of 2026-11-12.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Aligned with the owner's review of #484 on 2026-11-12, which narrowed
+    CLAIM-tmppk8g6 to the interaction and filed its routine-task
+    prediction as CLAIM-tmpbszhs. The verdict is unchanged; the critical
+    questions now name the missing misfit tasks rather than a missing
+    split between misfit and routine tasks, and say that the paper does
+    not bear on CLAIM-tmpbszhs either.
 form: evidence
 grounds:
 - THEORY-tmp4d13i
@@ -25,7 +38,7 @@ summary: >-
   held once and can be overturned in one place.
 ---
 <!-- inactive-ok-file: CLAIM-tmppk8g6 THEORY-tmp4d13i — Proposed, filed 2026-11-12; the claim and the reading this argument joins -->
-<!-- inactive-ok-file: CASE-tmppm4do — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: CASE-tmppm4do CLAIM-tmpbszhs — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # ARG-tmpyprz6: EvoOntology's gate ablation shows that governance raises the value of a modifiable schema
 
@@ -58,10 +71,12 @@ summary: >-
   justified correction without material regression. The paper has no
   governed arm (no review, no recorded decision, no migration of existing
   content: schema edits extend capacity "without changing its instantiated
-  content"), no split between misfit and routine tasks, and no held-out
-  regression of what the old schema could express. Its rejected patches
-  are logged with a stated expected effect, a thin form of rationale, but
-  no arm varies it.
+  content"), no tasks set apart as ones whose categories are inadequate,
+  and no held-out regression of what the old schema could express. Its
+  rejected patches are logged with a stated expected effect, a thin form
+  of rationale, but no arm varies it. Nor does it bear on CLAIM-tmpbszhs,
+  the secondary prediction split from this claim, since it has no
+  ungoverned arm on tasks that need no schema change.
 - **Is the −8.7 for schema-only evolution the claim's premise?** Only in
   part. It shows that schema change unaccompanied can harm, which is
   compatible with the premise that modifiability needs something around
