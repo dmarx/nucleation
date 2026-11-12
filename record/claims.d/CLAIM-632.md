@@ -84,6 +84,7 @@ summary: >-
   The integration's wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpmjn9t — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; the inference from use counts this replaces -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that filed this entry -->
@@ -181,3 +182,7 @@ age. They answer the half of [QUESTION-395](../questions.d/QUESTION-395.md) that
   mobilizes as the policy would.
 - **Anything about readiness in [CLAIM-572](CLAIM-572.md)'s sense**, the observing and
   response budget, which is a different notion.
+
+## Note of 2026-11-12: A's comparative form, from "Identify Synthesis Opportunities"
+
+In the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44, A8), A proposed as a new claim that "Improving the success probability of every required capacity can decrease overall readiness if the dependencies between capacities change", with two capacities going from 0.8 each, failing together, to 0.85 each, failing apart, while R falls from 0.8 to 0.7. A said it "extends CLAIM-632's static bounds to a comparative result". The filing judged it held here: item 3's certification rule, applied with the earlier record's upper bound min Pᵢ as the floor, says that later records certify a rise only when ΣP′ᵢ − (n − 1) exceeds it, and 0.7 does not exceed 0.8. The construction is filed as CASE-tmpmjn9t, illustrating this claim; A's claim is not filed. No status change.

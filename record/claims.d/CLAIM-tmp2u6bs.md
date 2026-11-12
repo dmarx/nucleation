@@ -13,7 +13,10 @@ defeated_if: >-
   costs undetermined; CLAIM-571 says only that a cumulative path costs its
   integral and not its peak, and CLAIM-581 that additive costs give no
   equivalence, neither that agreement in every peak threshold leaves the
-  cumulative costs free.
+  cumulative costs free. CLAIM-581's note of 2026-11-05 on replicating
+  tiles observes that "a threshold on peak alone does not price the
+  transition", from two protocols at similar peaks; that is an
+  observation in a note, without a construction, and corroborates this.
 tags:
 - mathematics
 - operations-research
@@ -66,6 +69,14 @@ every budget can differ without bound in what moving between kinds
 costs. TERM-105 keeps peak capacity and cumulative expenditure apart as
 types; this shows that knowing every threshold of the first does not
 bound the second.
+
+The record had met the point empirically. CLAIM-581's note of 2026-11-05
+on the replication readings compares Zhou et al.'s cycle of about 2 h
+with He et al.'s 24 cycles of about 730 h "at similar peaks", and
+concludes that "a threshold on peak alone does not price the
+transition". This claim is the formal version: not only do the costs
+differ in those systems, the whole threshold structure can agree while
+they differ without bound.
 
 ## What it does not say
 
