@@ -12,7 +12,7 @@ promote_when: >-
   promote once the filer has checked the quoted provisions against the
   Official Journal.
 summary: >-
-  Regulation (EU) 2022/2065 (Digital Services Act), read in NOTE-tmpay01i
+  Regulation (EU) 2022/2065 (Digital Services Act), read in [NOTE-tmpay01i](../notes.d/NOTE-tmpay01i.md)
   (Skimmed). Article 25(1) forbids online platforms to "design, organise or
   operate their online interfaces in a way that deceives or manipulates the
   recipients of their service or in a way that otherwise materially distorts
@@ -32,4 +32,4 @@ The Digital Services Act forbids online platforms to design or operate interface
 
 ## Evidence
 
-The reading in NOTE-tmpay01i; its key results are quoted there with locations.
+The reading in [NOTE-tmpay01i](../notes.d/NOTE-tmpay01i.md); its key results are quoted there with locations.

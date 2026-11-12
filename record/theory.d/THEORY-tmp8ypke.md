@@ -15,7 +15,7 @@ promote_when: >-
 summary: >-
   The transaction test: An experimental method for assessing online
   interfaces (Bogliacino, Pejsachowicz, Liva, Lupiáñez-Villanueva 2026),
-  read in NOTE-tmprz4xm (Read). The paper proposes the *transaction test*:
+  read in [NOTE-tmprz4xm](../notes.d/NOTE-tmprz4xm.md) (Read). The paper proposes the *transaction test*:
   elicit (or assign) a person's monetary valuation M_f of a product feature,
   then have them choose between two versions of the good that differ only by
   that feature and a price p_f; choosing against one's valuation is an
@@ -32,4 +32,4 @@ Bogliacino, Pejsachowicz, Liva and Lupiáñez-Villanueva propose judging an inte
 
 ## Evidence
 
-The reading in NOTE-tmprz4xm; its key results are quoted there with locations.
+The reading in [NOTE-tmprz4xm](../notes.d/NOTE-tmprz4xm.md); its key results are quoted there with locations.

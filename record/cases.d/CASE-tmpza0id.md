@@ -28,7 +28,6 @@ summary: >-
   volitional efficacy. Not run. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpj7u27 — Deferred; registered from the same exchange, unread -->
 
 # CASE-tmpza0id: A proposed study: whether a recommender's objective with interface friction, or a game's monetization design, raises engagement or revenue by lowering the efficacy of commitments its users keep endorsing, measured against goals and budgets elicited apart from any choice
 

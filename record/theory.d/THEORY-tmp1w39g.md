@@ -16,7 +16,7 @@ promote_when: >-
   independent support.
 summary: >-
   Mereological implications of the ethics of pregnancy (Dranseika, J Med
-  Ethics 2026), read in NOTE-tmpaeoh4 (Read), standing in for LIT-tmph5uj8.
+  Ethics 2026), read in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md) (Read), standing in for [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md).
   Dranseika accepts Devanesan's thesis that a mereology of pregnancy changes
   the route to an ethical conclusion without entailing it, and adds the
   converse: normative commitments can legitimately shape which mereology one
@@ -33,4 +33,4 @@ Dranseika, granting Devanesan that a mereology of pregnancy shapes which analogi
 
 ## Evidence
 
-The reading in NOTE-tmpaeoh4; its key results are quoted there with locations.
+The reading in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md); its key results are quoted there with locations.

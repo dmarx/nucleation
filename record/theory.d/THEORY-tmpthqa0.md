@@ -15,7 +15,7 @@ promote_when: >-
   sequences).
 summary: >-
   Incentivizing High-Quality Content in Online Recommender Systems (Hu,
-  Jagadeesan, Jordan, Steinhardt), read in NOTE-tmplv2tx (Read). A
+  Jagadeesan, Jordan, Steinhardt), read in [NOTE-tmplv2tx](../notes.d/NOTE-tmplv2tx.md) (Read). A
   game-theoretic model of a recommender platform that runs an
   online-learning (adversarial linear contextual bandit) algorithm,
   recommending one producer per arriving user, while P non-myopic,
@@ -32,4 +32,4 @@ Hu, Jagadeesan, Jordan and Steinhardt prove that, in a model where non-myopic, d
 
 ## Evidence
 
-The reading in NOTE-tmplv2tx; its key results are quoted there with locations.
+The reading in [NOTE-tmplv2tx](../notes.d/NOTE-tmplv2tx.md); its key results are quoted there with locations.

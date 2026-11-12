@@ -73,8 +73,8 @@ An organizing frame, "tumor neuron hijack", for the nervous system's part in can
 
 **On the LIT's and the exchange's characterization.** A said the review covers neuron–tumour crosstalk in which tumours recruit and remodel neural inputs. This matches the abstract, the overview and the conclusion. Clinical figures the review cites (for example a 47% reduction in lymph-node metastasis with propranolol) are secondary and should not be quoted on its authority.
 
-- **CLAIM-tmpu69tn**: supports as an illustration. The claim's example "inside by lineage, working against the organism" cites this LIT, and the review's frame fits it: cells of the host's own lineage co-opt the host's nervous system against the host. It is a review, not a test of the claim's three-way separation.
-- **THEORY-135**: leaves open. The review does not use the cheater framing; its "hijack" is of the organism's regulatory systems, which that theory's five foundations do not name.
+- **[CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md)**: supports as an illustration. The claim's example "inside by lineage, working against the organism" cites this LIT, and the review's frame fits it: cells of the host's own lineage co-opt the host's nervous system against the host. It is a review, not a test of the claim's three-way separation.
+- **[THEORY-135](../theory.d/THEORY-135.md)**: leaves open. The review does not use the cheater framing; its "hijack" is of the organism's regulatory systems, which that theory's five foundations do not name.
 
 Searched the record for the DOI, perineural, "cancer neuroscience", "tumor microenvironment", hijack, β-blocker and glioma. Not held; the "hijack" hits elsewhere in the record are unrelated.
 

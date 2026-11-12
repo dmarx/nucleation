@@ -137,7 +137,7 @@ left pattern and tumour outcomes unchanged. In the cited experiments it did not.
 
 ## Note of 2026-11-12: The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine (Levin 2024/2025), read
 
-From the reading in NOTE-tmphgki6 (LIT-tmpgku8o), the reader's assessment as
+From the reading in [NOTE-tmphgki6](../notes.d/NOTE-tmphgki6.md) ([LIT-tmpgku8o](../literature.d/LIT-tmpgku8o.md)), the reader's assessment as
 checked by the filer: **supports and restates**, five years on, in a
 biomedical frame; adds the persuadability spectrum and cites three cancer
 results (early bioelectric detection, induction without genetic damage,

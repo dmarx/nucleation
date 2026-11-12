@@ -117,7 +117,7 @@ propose, keeping the wide form as a Proposed THEORY under [ADR-047](../decisions
 
 ## Note of 2026-11-12: Neuron–tumor crosstalk in cancer: molecular mechanisms and translational advances (Jia, Zhao, Tang, Xie, Huang, Liang, Yang, Wu, Sun, Kwan, Sun, Xu 2026), read
 
-From the reading in NOTE-tmpdrocb (LIT-tmpj31gs), the reader's assessment as
+From the reading in [NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md) ([LIT-tmpj31gs](../literature.d/LIT-tmpj31gs.md)), the reader's assessment as
 checked by the filer: leaves open. The review does not use the cheater
 framing; its "hijack" is of the organism's regulatory systems, which that
 theory's five foundations do not name.

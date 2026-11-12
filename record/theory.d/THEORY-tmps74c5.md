@@ -53,7 +53,7 @@ success is exact match against a gold answer.
 
 ## Note of 2026-11-12: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? (Zhu, Jin, Tu, Men, Hao, Li, Liu, Zhao 2026), read
 
-From the reading in NOTE-tmpjmhp7 (LIT-tmpj8nbo), the reader's assessment as
+From the reading in [NOTE-tmpjmhp7](../notes.d/NOTE-tmpjmhp7.md) ([LIT-tmpj8nbo](../literature.d/LIT-tmpj8nbo.md)), the reader's assessment as
 checked by the filer: **extends**: an independent group confirms boundary
 expansion along K for multi-turn RL and adds that the depth axis decides
 whether the gain appears.

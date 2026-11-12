@@ -67,10 +67,10 @@ Online interface design; dark patterns; recommender-system main parameters; prof
 
 **On the LIT's and the exchange's characterization.** Accurate. Two precisions: Article 25's bar is residual, since it does not apply where the UCPD or GDPR already covers the practice; and Article 27 requires disclosure of parameters and of options if any exist, not that options be offered. Only Article 38 requires an option, and only of very large platforms.
 
-- **LIT-1002** (Susser, Roessler and Nissenbaum; manipulation as covert influence exploiting vulnerabilities): **qualifies**. The DSA's test in recital 67 is "on purpose or in effect" and turns on impaired "autonomous and informed choices", which is an effect criterion. Covertness is not required. Law and the paper's account of manipulation draw the line in different places.
-- Other held entries: **LIT-tmpj7u27** (transaction test) is built on the UCPD, which Art. 25(2) leaves in charge of the practices it covers; **CLAIM-tmpcv1pg / LIT-tmpgu9ct**: Art. 38's non-profiling option is a regulatory lever on the recommender side of those claims.
+- **[LIT-1002](../literature.d/LIT-1002.md)** (Susser, Roessler and Nissenbaum; manipulation as covert influence exploiting vulnerabilities): **qualifies**. The DSA's test in recital 67 is "on purpose or in effect" and turns on impaired "autonomous and informed choices", which is an effect criterion. Covertness is not required. Law and the paper's account of manipulation draw the line in different places.
+- Other held entries: **[LIT-tmpj7u27](../literature.d/LIT-tmpj7u27.md)** (transaction test) is built on the UCPD, which Art. 25(2) leaves in charge of the practices it covers; **[CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md) / [LIT-tmpgu9ct](../literature.d/LIT-tmpgu9ct.md)**: Art. 38's non-profiling option is a regulatory lever on the recommender side of those claims.
 
-Searched origin/main record/ for "Digital Services Act", "2022/2065", "dark pattern", "Unfair Commercial". No LIT holds the regulation; only LIT-1002 and NOTE-745 mention dark patterns. Not a duplicate.
+Searched origin/main record/ for "Digital Services Act", "2022/2065", "dark pattern", "Unfair Commercial". No LIT holds the regulation; only [LIT-1002](../literature.d/LIT-1002.md) and [NOTE-745](NOTE-745.md) mention dark patterns. Not a duplicate.
 
 ## Limitations
 

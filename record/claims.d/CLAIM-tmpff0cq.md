@@ -85,7 +85,7 @@ premise.
 
 ## Note of 2026-11-12: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? (Zhu, Jin, Tu, Men, Hao, Li, Liu, Zhao 2026), read
 
-From the reading in NOTE-tmpjmhp7 (LIT-tmpj8nbo), the reader's assessment as
+From the reading in [NOTE-tmpjmhp7](../notes.d/NOTE-tmpjmhp7.md) ([LIT-tmpj8nbo](../literature.d/LIT-tmpj8nbo.md)), the reader's assessment as
 checked by the filer: **supports** its premise case. In Zhu et al. the
 policy is told "the total and remaining budget" in the prompt, so its
 choices depend on the remaining budget; Pass@T for such a policy need not be

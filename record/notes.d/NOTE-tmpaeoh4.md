@@ -33,7 +33,7 @@ summary: >-
 
 Dranseika accepts Devanesan's claim that a mereology of pregnancy changes the route to a conclusion without entailing it. On the Containment View the fetus can be likened to an uninvited occupant; on the Parthood View Thomson's violinist fits less well (Hershenov), and Devanesan replies that some parts may be removed (invasive growths, cosmetic surgery). Dranseika then adds the converse claim: normative commitments can shape which mereology one adopts. He finds this legitimate within reflective equilibrium (citing Mikkola and Haslanger), with one limit: the fit between a mereology chosen for a prior commitment and that commitment "is then not independent evidence for that commitment". He proposes an empirical study of whether people's normative commitments predict the mereology they favour.
 
-As a stand-in for LIT-tmph5uj8 it restates that paper's thesis, its Containment and Parthood views, and the violinist analogy with the reply from removable parts; it does not restate the rest of Devanesan's argument.
+As a stand-in for [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md) it restates that paper's thesis, its Containment and Parthood views, and the violinist analogy with the reply from removable parts; it does not restate the rest of Devanesan's argument.
 
 ## Key results
 
@@ -54,9 +54,9 @@ Reflective equilibrium as the method for weighing metaphysical and normative con
 
 ## Bearing on the record
 
-- **THEORY-448** and **THEORY-464**: these hold that metaphysics constrains but does not settle the ethics. The commentary adds that the dependence can run the other way, from normative commitment to choice of metaphysics, and warns against double-counting when it does.
+- **[THEORY-448](../theory.d/THEORY-448.md)** and **[THEORY-464](../theory.d/THEORY-464.md)**: these hold that metaphysics constrains but does not settle the ethics. The commentary adds that the dependence can run the other way, from normative commitment to choice of metaphysics, and warns against double-counting when it does.
 - This bears on how the record treats any claim that takes its ontology from the conclusion it wants.
 
 ## Limitations
 
-A four-page commentary, read in the accepted manuscript rather than the version of record. It stands in for LIT-tmph5uj8 only as far as it restates it.
+A four-page commentary, read in the accepted manuscript rather than the version of record. It stands in for [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md) only as far as it restates it.

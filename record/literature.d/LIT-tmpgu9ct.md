@@ -24,13 +24,13 @@ keywords: []
 implementations: []
 summary: >-
   Hu et al. (2023), DOI-10.4230/lipics.forc.2026.15. Read on 2026-11-12 in
-  NOTE-tmplv2tx: A game-theoretic model of a recommender platform that runs
+  [NOTE-tmplv2tx](../notes.d/NOTE-tmplv2tx.md): A game-theoretic model of a recommender platform that runs
   an online-learning (adversarial linear contextual bandit) algorithm,
   recommending one producer per arriving user, while P non-myopic,
   discounting producers choose a D-dimensional content vector at every step,
   paying cost ||p||^c and earning 1 when recommended. Content quality is
   measured as producer effort ||p|| and as user welfare E[<u, p>]. Its
-  account is THEORY-tmpthqa0. Registered from the exchange "Medical Ethics
+  account is [THEORY-tmpthqa0](../theory.d/THEORY-tmpthqa0.md). Registered from the exchange "Medical Ethics
   and Media Enshitification" (2026-11-11), where A cited it at A27 §3.
 ---
 <!-- inactive-ok-file: THEORY-tmpthqa0 — Proposed; filed from the same exchange -->
@@ -42,7 +42,7 @@ Xinyan Hu, Meena Jagadeesan, Michael I. Jordan and Jacob Steinhardt (2023). "Inc
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmplv2tx). A formal result that a platform's
+Read on 2026-11-12 ([NOTE-tmplv2tx](../notes.d/NOTE-tmplv2tx.md)). A formal result that a platform's
 learning dynamics, not users' tastes, can by themselves drive equilibrium
 content quality toward zero, and a design principle that an incentive-aware
 platform must react "more quickly and directly" to producer actions;
@@ -53,5 +53,5 @@ when rewards change.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A27 §3. It bears on [CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md).
 
-Read on 2026-11-12; the reading is NOTE-tmplv2tx and its account
-THEORY-tmpthqa0.
+Read on 2026-11-12; the reading is [NOTE-tmplv2tx](../notes.d/NOTE-tmplv2tx.md) and its account
+[THEORY-tmpthqa0](../theory.d/THEORY-tmpthqa0.md).

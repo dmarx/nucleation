@@ -30,12 +30,12 @@ keywords: []
 implementations: []
 summary: >-
   Dranseika (2026), DOI-10.1136/jme-2026-112352. A commentary on
-  LIT-tmph5uj8 that accepts its thesis, that a mereology of pregnancy
+  [LIT-tmph5uj8](LIT-tmph5uj8.md) that accepts its thesis, that a mereology of pregnancy
   changes the route to an ethical conclusion without entailing it, and adds
   the converse: normative commitments can shape which mereology one adopts,
   but a fit chosen that way is not independent evidence for the commitment.
-  A stand-in for LIT-tmph5uj8's thesis and main example only. Read on
-  2026-11-12 in NOTE-tmpaeoh4; its account is THEORY-tmp1w39g.
+  A stand-in for [LIT-tmph5uj8](LIT-tmph5uj8.md)'s thesis and main example only. Read on
+  2026-11-12 in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md); its account is [THEORY-tmp1w39g](../theory.d/THEORY-tmp1w39g.md).
 ---
 <!-- inactive-ok-file: LIT-tmph5uj8 — Unavailable; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp1w39g — Proposed; filed from the same exchange -->
@@ -54,9 +54,9 @@ commitment is legitimate but does not then count as evidence for it.
 
 ## Standing in the record
 
-Registered as a stand-in for LIT-tmph5uj8, which could not be read. It
+Registered as a stand-in for [LIT-tmph5uj8](LIT-tmph5uj8.md), which could not be read. It
 carries that paper's thesis and its violinist example, not the rest of its
 argument.
 
-Read on 2026-11-12; the reading is NOTE-tmpaeoh4 and its account
-THEORY-tmp1w39g.
+Read on 2026-11-12; the reading is [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md) and its account
+[THEORY-tmp1w39g](../theory.d/THEORY-tmp1w39g.md).

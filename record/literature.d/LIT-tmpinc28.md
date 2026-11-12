@@ -22,7 +22,7 @@ keywords: []
 implementations: []
 summary: >-
   European Parliament and Council (2022), Official Journal of the European
-  Union. Skimmed on 2026-11-12 in NOTE-tmpay01i: Article 25(1) forbids
+  Union. Skimmed on 2026-11-12 in [NOTE-tmpay01i](../notes.d/NOTE-tmpay01i.md): Article 25(1) forbids
   online platforms to "design, organise or operate their online interfaces
   in a way that deceives or manipulates the recipients of their service or
   in a way that otherwise materially distorts or impairs the ability of the
@@ -30,7 +30,7 @@ summary: >-
   25(2) excludes practices already covered by the Unfair Commercial
   Practices Directive (2005/29/EC) or the GDPR, and 25(3) lets the
   Commission issue guidance on prominence of choices, repeated prompts and
-  cancellation harder than sign-up. Its account is THEORY-tmpdxfxs.
+  cancellation harder than sign-up. Its account is [THEORY-tmpdxfxs](../theory.d/THEORY-tmpdxfxs.md).
   Registered from the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11), where A cited it at A23 §8.
 ---
@@ -43,7 +43,7 @@ European Parliament and Council of the European Union (2022). "Regulation (EU) 2
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpay01i). Article 25(1) forbids online
+Skimmed on 2026-11-12 ([NOTE-tmpay01i](../notes.d/NOTE-tmpay01i.md)). Article 25(1) forbids online
 platforms to "design, organise or operate their online interfaces in a way
 that deceives or manipulates the recipients of their service or in a way
 that otherwise materially distorts or impairs the ability of the recipients
@@ -64,5 +64,5 @@ distort or impair, either on purpose or in effect", the ability to make
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §8. It bears on [LIT-1002](LIT-1002.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpay01i and its account
-THEORY-tmpdxfxs.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpay01i](../notes.d/NOTE-tmpay01i.md) and its account
+[THEORY-tmpdxfxs](../theory.d/THEORY-tmpdxfxs.md).

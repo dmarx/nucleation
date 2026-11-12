@@ -94,7 +94,7 @@ more than repeated unsuccessful searches", which is [QUESTION-279](../questions.
 
 ## Note of 2026-11-12: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? (Zhu, Jin, Tu, Men, Hao, Li, Liu, Zhao 2026), read
 
-From the reading in NOTE-tmpjmhp7 (LIT-tmpj8nbo), the reader's assessment as
+From the reading in [NOTE-tmpjmhp7](../notes.d/NOTE-tmpjmhp7.md) ([LIT-tmpj8nbo](../literature.d/LIT-tmpj8nbo.md)), the reader's assessment as
 checked by the filer: **supports, with the claim's qualification
 sharpened**. Zhu et al. use the same metric and find (a) boundary expansion
 along K and (b) that the ordering of two policies' success is not stable

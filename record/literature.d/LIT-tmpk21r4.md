@@ -28,13 +28,13 @@ keywords: []
 implementations: []
 summary: >-
   Close et al. (2021), DOI-10.1016/j.addbeh.2021.106851. Read on 2026-11-12
-  in NOTE-tmps8gyk: A secondary analysis pooling six open-access survey
+  in [NOTE-tmps8gyk](../notes.d/NOTE-tmps8gyk.md): A secondary analysis pooling six open-access survey
   datasets (found through structured literature searches before 28 March
   2020) with self-reported monthly loot-box spend and Problem Gambling
   Severity Index (PGSI) scores, three of them also with self-reported
   earnings. After removing outliers (> $1000/month spend, > $250,000
   earnings), 7,771 loot-box purchasers remain (5,933 with earnings). Its
-  account is THEORY-tmpciv40. Registered from the exchange "Medical Ethics
+  account is [THEORY-tmpciv40](../theory.d/THEORY-tmpciv40.md). Registered from the exchange "Medical Ethics
   and Media Enshitification" (2026-11-11), where A cited it at A29 §1 and
   A31 §1.
 ---
@@ -47,7 +47,7 @@ James Close, Stuart Gordon Spicer, Laura Louise Nicklin, Maria Uther, Joanne Llo
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmps8gyk). The first pooling of loot-box survey
+Read on 2026-11-12 ([NOTE-tmps8gyk](../notes.d/NOTE-tmps8gyk.md)). The first pooling of loot-box survey
 data to set spending concentration against both problem-gambling scores and
 earnings, testing the industry framing of "whales" as affluent players.
 
@@ -55,5 +55,5 @@ earnings, testing the industry framing of "whales" as affluent players.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A29 §1 and A31 §1. It bears on [CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md), [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md).
 
-Read on 2026-11-12; the reading is NOTE-tmps8gyk and its account
-THEORY-tmpciv40.
+Read on 2026-11-12; the reading is [NOTE-tmps8gyk](../notes.d/NOTE-tmps8gyk.md) and its account
+[THEORY-tmpciv40](../theory.d/THEORY-tmpciv40.md).

@@ -14,7 +14,7 @@ promote_when: >-
   entry's own framing rather than one author's view among several.
 summary: >-
   The Ethics of Abortion (Harman, Stanford Encyclopedia of Philosophy,
-  2025), read in NOTE-tmpuunni (Skimmed). The entry asks one question: "is
+  2025), read in [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md) (Skimmed). The entry asks one question: "is
   abortion morally wrong?" It sets aside whether abortion should be legally
   restricted as "an open and further question". It is organised as six
   arguments against abortion (from a right to life, from loss, from the
@@ -31,4 +31,4 @@ Harman's survey treats the moral question whether abortion is wrong apart from w
 
 ## Evidence
 
-The reading in NOTE-tmpuunni; its key results are quoted there with locations.
+The reading in [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md); its key results are quoted there with locations.

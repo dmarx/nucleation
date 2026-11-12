@@ -32,9 +32,8 @@ summary: >-
   hypotheses kept apart, and three levels of data. Not run. The cost
   figures were rechecked by the filer.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmphgjbz — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpftfht LIT-tmpk21r4 LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpftfht LIT-tmpvev3t LIT-tmpuoy9g LIT-tmp88875 LIT-tmpbl3eg — Deferred; registered from the same exchange, unread -->
 
 # CASE-tmpmw3hc: A proposed study: loot-box economies as a measurable test of whether a minority's spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game's releases against the economic weight of its high spenders, and the spread of designs across games
 
@@ -101,7 +100,7 @@ would be inappropriate".
 
 ## Note of 2026-11-12: Secondary analysis of loot box data: Are high-spending "whales" wealthy gamers or problem gamblers? (Close, Spicer, Nicklin, Uther, J. Lloyd, H. Lloyd 2021), read
 
-From the reading in NOTE-tmps8gyk (LIT-tmpk21r4), the reader's assessment as
+From the reading in [NOTE-tmps8gyk](../notes.d/NOTE-tmps8gyk.md) ([LIT-tmpk21r4](../literature.d/LIT-tmpk21r4.md)), the reader's assessment as
 checked by the filer: **supports its motivating premise** (the high-spender
 group exists and carries economic weight) and characterises that group
 (problem-gambling severity, not wealth), which bears on H3 (endogenous

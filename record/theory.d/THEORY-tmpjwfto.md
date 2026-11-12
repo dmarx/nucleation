@@ -16,7 +16,7 @@ promote_when: >-
 summary: >-
   Neuron–tumor crosstalk in cancer: molecular mechanisms and translational
   advances (Jia, Zhao, Tang, Xie, Huang, Liang, Yang, Wu, Sun, Kwan, Sun, Xu
-  2026), read in NOTE-tmpdrocb (Skimmed). A narrative review of cancer
+  2026), read in [NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md) (Skimmed). A narrative review of cancer
   neuroscience. Tumours recruit nerves (neurotrophins such as NGF and BDNF,
   axon-guidance cues, perineural invasion) or, in the brain, integrate into
   existing circuits through tumour–neuron synapses; nerve signalling,
@@ -36,4 +36,4 @@ Jia and colleagues, reviewing cancer neuroscience, describe tumours as actively 
 
 ## Evidence
 
-The reading in NOTE-tmpdrocb; its key results are quoted there with locations.
+The reading in [NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md); its key results are quoted there with locations.

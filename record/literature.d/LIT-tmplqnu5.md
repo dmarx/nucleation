@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-12, not read. The author's reply to the commentaries on
-  LIT-tmph5uj8, found by its reader in the reading pass after the exchange
+  [LIT-tmph5uj8](LIT-tmph5uj8.md), found by its reader in the reading pass after the exchange
   "Medical Ethics and Media Enshitification" (2026-11-11). Closed access; no
   copy was sought.
 title: 'Ethical implications of the mereology of pregnancy: a response to commentaries'
@@ -27,7 +27,7 @@ keywords: []
 implementations: []
 summary: >-
   Devanesan (2026), DOI-10.1136/jme-2026-112573. The author's reply to the
-  commentaries on LIT-tmph5uj8. Not read.
+  commentaries on [LIT-tmph5uj8](LIT-tmph5uj8.md). Not read.
 ---
 <!-- inactive-ok-file: LIT-tmph5uj8 — Unavailable; filed from the same exchange -->
 
@@ -43,5 +43,5 @@ Not read.
 
 ## Standing in the record
 
-Closes the commentary cluster on LIT-tmph5uj8. Nothing in the record rests
+Closes the commentary cluster on [LIT-tmph5uj8](LIT-tmph5uj8.md). Nothing in the record rests
 on it.

@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpmz271 CLAIM-tmphgjbz ARG-tmpshmi5 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpdak05 LIT-tmpccpc6 LIT-tmp9goww LIT-tmpf67mb LIT-tmp2hne0 LIT-tmpgu9ct LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpdak05 LIT-tmpccpc6 LIT-tmp9goww LIT-tmpf67mb LIT-tmp2hne0 LIT-tmpzsw74 — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpcv1pg: Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme
 
@@ -118,19 +118,19 @@ parenthesis citing Shor and Seida is kept, marked unread. No status change.
 
 ## Note of 2026-11-12: Incentivizing High-Quality Content in Online Recommender Systems (Hu, Jagadeesan, Jordan, Steinhardt), read
 
-From the reading in NOTE-tmplv2tx (LIT-tmpgu9ct), the reader's assessment as
+From the reading in [NOTE-tmplv2tx](../notes.d/NOTE-tmplv2tx.md) ([LIT-tmpgu9ct](../literature.d/LIT-tmpgu9ct.md)), the reader's assessment as
 checked by the filer: **qualifies / leaves open**. It supplies a
 demonstrated (formal) supply-side link: platform algorithms change what
 producers make, and quality can degrade with no change in anyone's taste,
 which matches A27 §3's point that escalation is unnecessary. It does not
 model activity-weighted demand, heavy users or extremity, so it gives
-nothing to the claim's structural premise (that belongs to CLAIM-tmpmz271)
+nothing to the claim's structural premise (that belongs to [CLAIM-tmpmz271](CLAIM-tmpmz271.md))
 or to its escalation half. The CLAIM's citation should describe it as a
 supply-side mechanism of quality decline, not as evidence of minority
 capture.
 
 ## Note of 2026-11-12: Secondary analysis of loot box data: Are high-spending "whales" wealthy gamers or problem gamblers? (Close, Spicer, Nicklin, Uther, J. Lloyd, H. Lloyd 2021), read
 
-From the reading in NOTE-tmps8gyk (LIT-tmpk21r4), the reader's assessment as
+From the reading in [NOTE-tmps8gyk](../notes.d/NOTE-tmps8gyk.md) ([LIT-tmpk21r4](../literature.d/LIT-tmpk21r4.md)), the reader's assessment as
 checked by the filer: leaves open; the analogue for loot boxes of "heaviest
 users" is confirmed to exist, not that they set the product.

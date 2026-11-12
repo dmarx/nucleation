@@ -57,7 +57,7 @@ Arjun Devanesan (2026). "Ethical implications of the mereology of pregnancy." *J
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md), [TERM-083](../terms.d/TERM-083.md).
 
-Unavailable on 2026-11-12. Neighbour read in its place: LIT-tmpoeqhr. The
+Unavailable on 2026-11-12. Neighbour read in its place: [LIT-tmpoeqhr](LIT-tmpoeqhr.md). The
 reader on how far it stands in: **Dranseika (2026)**, reported in
 `LIT-tmph5uj8__neighbour-dranseika.md`. It stands in for the thesis and the
 main example only: - It states Devanesan's thesis in Devanesan's own quoted

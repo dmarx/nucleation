@@ -23,12 +23,12 @@ keywords: []
 implementations: []
 summary: >-
   Harman (2025), Stanford Encyclopedia of Philosophy. Skimmed on 2026-11-12
-  in NOTE-tmpuunni: The entry asks one question: "is abortion morally
+  in [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md): The entry asks one question: "is abortion morally
   wrong?" It sets aside whether abortion should be legally restricted as "an
   open and further question". It is organised as six arguments against
   abortion (from a right to life, from loss, from the Golden Rule, from
   intrinsic value, from moral risk, and the expressive argument against
-  selective abortion). Its account is THEORY-tmppsy9d. Registered from the
+  selective abortion). Its account is [THEORY-tmppsy9d](../theory.d/THEORY-tmppsy9d.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A3 §6 and its reading list.
 ---
@@ -42,12 +42,12 @@ Elizabeth Harman (2025). "The Ethics of Abortion." *Stanford Encyclopedia of Phi
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpuunni). An organising survey. It does not
+Skimmed on 2026-11-12 ([NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md)). An organising survey. It does not
 defend a view of its own in the parts read.
 
 ## Standing in the record
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A3 §6 and its reading list. It bears on [THEORY-448](../theory.d/THEORY-448.md), [THEORY-464](../theory.d/THEORY-464.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpuunni and its account
-THEORY-tmppsy9d.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md) and its account
+[THEORY-tmppsy9d](../theory.d/THEORY-tmppsy9d.md).

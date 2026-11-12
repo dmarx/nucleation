@@ -23,13 +23,13 @@ keywords: []
 implementations: []
 summary: >-
   Bogliacino et al. (2026), DOI-10.1016/j.jebo.2026.107469. Read on
-  2026-11-12 in NOTE-tmprz4xm: The paper proposes the *transaction test*:
+  2026-11-12 in [NOTE-tmprz4xm](../notes.d/NOTE-tmprz4xm.md): The paper proposes the *transaction test*:
   elicit (or assign) a person's monetary valuation M_f of a product feature,
   then have them choose between two versions of the good that differ only by
   that feature and a price p_f; choosing against one's valuation is an
   inconsistent choice. An interface fails the test if it raises the rate of
   inconsistent choices relative to a transparent design (H0: E[I | d] ≤ E[I
-  | transparent]). Its account is THEORY-tmp8ypke. Registered from the
+  | transparent]). Its account is [THEORY-tmp8ypke](../theory.d/THEORY-tmp8ypke.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A23 §7.
 ---
@@ -41,7 +41,7 @@ Francesco Bogliacino, Leonardo Pejsachowicz, Giovanni Liva and Francisco Lupiá�
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmprz4xm). A preference-relative, outcome-based
+Read on 2026-11-12 ([NOTE-tmprz4xm](../notes.d/NOTE-tmprz4xm.md)). A preference-relative, outcome-based
 criterion of manipulative design that distinguishes harmful from beneficial
 steering even when the technique is the same, with large-sample evidence
 that common dark patterns raise preference-inconsistent choice and that a
@@ -51,5 +51,5 @@ confirmation-prompt remedy does not reliably undo it.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §7. It bears on [CLAIM-404](../claims.d/CLAIM-404.md).
 
-Read on 2026-11-12; the reading is NOTE-tmprz4xm and its account
-THEORY-tmp8ypke.
+Read on 2026-11-12; the reading is [NOTE-tmprz4xm](../notes.d/NOTE-tmprz4xm.md) and its account
+[THEORY-tmp8ypke](../theory.d/THEORY-tmp8ypke.md).

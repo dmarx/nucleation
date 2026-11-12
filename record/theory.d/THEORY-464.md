@@ -165,7 +165,7 @@ Millum adds nothing on them.
 
 ## Note of 2026-11-12: The Ethics of Abortion (Harman, Stanford Encyclopedia of Philosophy, 2025), read
 
-From the reading in NOTE-tmpuunni (LIT-tmph9slz), the reader's assessment as
+From the reading in [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md) ([LIT-tmph9slz](../literature.d/LIT-tmph9slz.md)), the reader's assessment as
 checked by the filer: **supports** it, from the parts read. §2.2's objection
 turns on psychological connectedness and time-relative interests (McMahan),
 not on whether the fetus is numerically the later person. This is the
@@ -173,8 +173,8 @@ pattern THEORY-464 describes.
 
 ## Note of 2026-11-12: Dranseika (J Med Ethics 2026), read
 
-From the reading in NOTE-tmpaeoh4 (LIT-tmpoeqhr), the reader's assessment as
-checked by the filer: **qualifies**. This theory holds, as THEORY-448 does,
+From the reading in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md) ([LIT-tmpoeqhr](../literature.d/LIT-tmpoeqhr.md)), the reader's assessment as
+checked by the filer: **qualifies**. This theory holds, as [THEORY-448](THEORY-448.md) does,
 that the metaphysics constrains the ethics without settling it. Dranseika's
 commentary on Devanesan adds that the dependence can run the other way, from
 a normative commitment to the choice of mereology, and that when it does,

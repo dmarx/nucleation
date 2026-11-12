@@ -170,16 +170,16 @@ sharpens it.
 
 ## Note of 2026-11-12: The Ethics of Abortion (Harman, Stanford Encyclopedia of Philosophy, 2025), read
 
-From the reading in NOTE-tmpuunni (LIT-tmph9slz), the reader's assessment as
+From the reading in [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md) ([LIT-tmph9slz](../literature.d/LIT-tmph9slz.md)), the reader's assessment as
 checked by the filer: **leaves open**. In the parts read the entry does not
 discuss whether the fetus is part of the pregnant person, though the
 violinist framing assumes two distinct parties. This is the assumption
-LIT-tmph5uj8 (Devanesan) is said to question.
+[LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md) (Devanesan) is said to question.
 
 ## Note of 2026-11-12: Mereological implications of the ethics of pregnancy (Dranseika, J Med Ethics 2026), read
 
-From the reading in NOTE-tmpaeoh4 (LIT-tmpoeqhr), the reader's assessment as
-checked by the filer: **qualifies**. This theory holds, as THEORY-464 does,
+From the reading in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md) ([LIT-tmpoeqhr](../literature.d/LIT-tmpoeqhr.md)), the reader's assessment as
+checked by the filer: **qualifies**. This theory holds, as [THEORY-464](THEORY-464.md) does,
 that the metaphysics constrains the ethics without settling it. Dranseika's
 commentary on Devanesan adds that the dependence can run the other way, from
 a normative commitment to the choice of mereology, and that when it does,

@@ -46,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmp6oofp LIT-tmpj31gs LIT-tmpe26cm — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmp6oofp LIT-tmpe26cm — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpu69tn: Where an influence on an organism came from, what governs its practical efficacy, and whose interests its effects serve are three separate questions, so neither an origin outside the organism nor one inside it settles whether the influence belongs to the organism's self-governance: authorized external regulation, parasitic capture, cancer arising from the host's own cells and foreign-origin cells serving the host realize the combinations
 
@@ -135,7 +135,7 @@ host machinery and mixed alignment come apart, which fits the claim.
 
 ## Note of 2026-11-12: Neuron–tumor crosstalk in cancer: molecular mechanisms and translational advances (Jia, Zhao, Tang, Xie, Huang, Liang, Yang, Wu, Sun, Kwan, Sun, Xu 2026), read
 
-From the reading in NOTE-tmpdrocb (LIT-tmpj31gs), the reader's assessment as
+From the reading in [NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md) ([LIT-tmpj31gs](../literature.d/LIT-tmpj31gs.md)), the reader's assessment as
 checked by the filer: supports as an illustration. The claim's example
 "inside by lineage, working against the organism" cites this LIT, and the
 review's frame fits it: cells of the host's own lineage co-opt the host's

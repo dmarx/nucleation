@@ -26,7 +26,7 @@ summary: >-
   GiGPO, on Qwen3-4B/8B) improves over its base model, on four interactive
   benchmarks (DeepCoder-MT, BFCL v3, InterCode-SQL, FrozenLake), using the
   two-dimensional metric Pass@(K, T) of Zhai et al. (2026; arXiv 2604.14877,
-  held as LIT-tmpt7avk). Across sampling breadth K, the RL model beats the
+  held as [LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md)). Across sampling breadth K, the RL model beats the
   base model at every k, so in multi-turn settings RL pushes success beyond
   the base model's empirical Pass@K boundary (unlike single-turn results).
   Across interaction depth T (k fixed at 8), the RL advantage needs a
@@ -79,14 +79,14 @@ Pass@(K, T); sampling breadth vs interaction depth; empirical capability boundar
 
 **On the LIT's and the exchange's characterization.** A's account (gains depend on sufficient turn budgets, concentrate in error recovery and long-horizon resilience; proposes BudgetMix RL) is accurate and nearly verbatim from the abstract. It omits that the paper also confirms RL expands the empirical Pass@K boundary in multi-turn settings, and that per-step quality can decline during training.
 
-- **CLAIM-tmpyc5md** (Pass@(k,T)'s capability boundary = reachability by a process under a budget; efficiency = reliable attainment; T = resource index): **supports, with the claim's qualification sharpened**. Zhu et al. use the same metric and find (a) boundary expansion along K and (b) that the ordering of two policies' success is not stable across T: an advantage at large T can vanish or reverse at small T. That is the record's distinction in action (what is reachable under a resource vs reached), and it shows the resource index matters to which process "can do more". Its finding that RL improves composition of locally plausible steps, not per-step choice, is a third distinction the CLAIM does not draw: reliability of a long path vs quality of each move.
-- **CLAIM-tmpff0cq** (not named in the LIT; same exchange): **supports** its premise case. In Zhu et al. the policy is told "the total and remaining budget" in the prompt, so its choices depend on the remaining budget; Pass@T for such a policy need not be monotone in T, and BudgetMix deliberately trains that dependence.
-- **ARG-tmpid47d** (qualification 1: the boundary is relative to a stochastic policy, not a move rule; estimates can fall with T): **supports**: a second paper's evidence that budget-conditional behaviour is real and trainable.
-- **THEORY-tmps74c5** (Zhai et al.'s account): **extends**: an independent group confirms boundary expansion along K for multi-turn RL and adds that the depth axis decides whether the gain appears.
+- **[CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md)** (Pass@(k,T)'s capability boundary = reachability by a process under a budget; efficiency = reliable attainment; T = resource index): **supports, with the claim's qualification sharpened**. Zhu et al. use the same metric and find (a) boundary expansion along K and (b) that the ordering of two policies' success is not stable across T: an advantage at large T can vanish or reverse at small T. That is the record's distinction in action (what is reachable under a resource vs reached), and it shows the resource index matters to which process "can do more". Its finding that RL improves composition of locally plausible steps, not per-step choice, is a third distinction the CLAIM does not draw: reliability of a long path vs quality of each move.
+- **[CLAIM-tmpff0cq](../claims.d/CLAIM-tmpff0cq.md)** (not named in the LIT; same exchange): **supports** its premise case. In Zhu et al. the policy is told "the total and remaining budget" in the prompt, so its choices depend on the remaining budget; Pass@T for such a policy need not be monotone in T, and BudgetMix deliberately trains that dependence.
+- **[ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md)** (qualification 1: the boundary is relative to a stochastic policy, not a move rule; estimates can fall with T): **supports**: a second paper's evidence that budget-conditional behaviour is real and trainable.
+- **[THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md)** (Zhai et al.'s account): **extends**: an independent group confirms boundary expansion along K for multi-turn RL and adds that the depth axis decides whether the gain appears.
 
 Searched origin/main and the batch ref for: arXiv id, BudgetMix, "agentic RL", "error recovery", Pass@/PASS@, 2604.14877.
 - **Duplicate check**: not held under another LIT.
-- Missed by the first search: **CLAIM-tmpff0cq** (budget-dependent processes, above), **THEORY-tmps74c5**, **ARG-tmpid47d**, **CLAIM-560/CLAIM-567** (resource-indexed reachability; reached via CLAIM-tmpyc5md). Pass@ also appears in NOTE-637 and NOTE-869 (test-time compute), unrelated to this result.
+- Missed by the first search: **[CLAIM-tmpff0cq](../claims.d/CLAIM-tmpff0cq.md)** (budget-dependent processes, above), **[THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md)**, **[ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md)**, **[CLAIM-560](../claims.d/CLAIM-560.md)/[CLAIM-567](../claims.d/CLAIM-567.md)** (resource-indexed reachability; reached via [CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md)). Pass@ also appears in [NOTE-637](NOTE-637.md) and [NOTE-869](NOTE-869.md) (test-time compute), unrelated to this result.
 - Note per CLAIM.md boundary: BudgetMix as a training recipe is an instruction for ML practice and belongs to the anthology; the record's use is the conceptual finding. A candidate for the `anthology-candidate` flag.
 
 ## Limitations

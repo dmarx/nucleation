@@ -18,7 +18,7 @@ promote_when: >-
 summary: >-
   The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable
   Interface for Next-Generation Biomedicine (Levin 2024/2025), read in
-  NOTE-tmphgki6 (Read). Levin argues that biomedicine's bottom-up, molecular
+  [NOTE-tmphgki6](../notes.d/NOTE-tmphgki6.md) (Read). Levin argues that biomedicine's bottom-up, molecular
   ("hardware") paradigm cannot achieve anatomical control (birth defects,
   regeneration, cancer, aging) and should be complemented by a top-down
   program that treats cells and tissues as an "agential material" with
@@ -37,4 +37,4 @@ Levin argues that cells and tissues are an agential material whose collective pr
 
 ## Evidence
 
-The reading in NOTE-tmphgki6; its key results are quoted there with locations.
+The reading in [NOTE-tmphgki6](../notes.d/NOTE-tmphgki6.md); its key results are quoted there with locations.

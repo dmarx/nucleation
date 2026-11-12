@@ -24,7 +24,7 @@ keywords: []
 implementations: []
 summary: >-
   Levin (2024), DOI-10.1002/bies.202400196. Read on 2026-11-12 in
-  NOTE-tmphgki6: Levin argues that biomedicine's bottom-up, molecular
+  [NOTE-tmphgki6](../notes.d/NOTE-tmphgki6.md): Levin argues that biomedicine's bottom-up, molecular
   ("hardware") paradigm cannot achieve anatomical control (birth defects,
   regeneration, cancer, aging) and should be complemented by a top-down
   program that treats cells and tissues as an "agential material" with
@@ -33,7 +33,7 @@ summary: >-
   spaces. Systems sit on a "spectrum of persuadability" (hardware rewiring →
   setpoint rewriting → training → reasoning with), and where a system sits
   is "not a philosophical question but an empirical one". Its account is
-  THEORY-tmptueyh. Registered from the exchange "Medical Ethics and Media
+  [THEORY-tmptueyh](../theory.d/THEORY-tmptueyh.md). Registered from the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), where A cited it at A21 §7.
 ---
 <!-- inactive-ok-file: THEORY-tmptueyh — Proposed; filed from the same exchange -->
@@ -45,7 +45,7 @@ Michael Levin (2024). "The Multiscale Wisdom of the Body: Collective Intelligenc
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmphgki6). A programmatic synthesis of Levin's
+Read on 2026-11-12 ([NOTE-tmphgki6](../notes.d/NOTE-tmphgki6.md)). A programmatic synthesis of Levin's
 lab's framework (basal cognition, bioelectric control, cognitive light cone)
 for a biomedical audience, with a classification of interventions by the
 agency they presuppose. It is a position paper: claims rest on cited
@@ -55,5 +55,5 @@ experiments, mostly from the author's lab; no new data.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §7. It bears on [THEORY-583](../theory.d/THEORY-583.md).
 
-Read on 2026-11-12; the reading is NOTE-tmphgki6 and its account
-THEORY-tmptueyh.
+Read on 2026-11-12; the reading is [NOTE-tmphgki6](../notes.d/NOTE-tmphgki6.md) and its account
+[THEORY-tmptueyh](../theory.d/THEORY-tmptueyh.md).

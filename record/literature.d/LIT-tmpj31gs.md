@@ -26,7 +26,7 @@ keywords: []
 implementations: []
 summary: >-
   Jia et al. (2026), DOI-10.1186/s12943-026-02715-5. Skimmed on 2026-11-12
-  in NOTE-tmpdrocb: A narrative review of cancer neuroscience. Tumours
+  in [NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md): A narrative review of cancer neuroscience. Tumours
   recruit nerves (neurotrophins such as NGF and BDNF, axon-guidance cues,
   perineural invasion) or, in the brain, integrate into existing circuits
   through tumour–neuron synapses; nerve signalling, chiefly sympathetic
@@ -34,7 +34,7 @@ summary: >-
   immunosuppressive microenvironment; nerves also reach the tumour through
   endocrine and metabolic routes, including the transfer of mitochondria
   from neurons to cancer cells; and cancer pain feeds a loop that raises
-  sympathetic tone. Its account is THEORY-tmpjwfto. Registered from the
+  sympathetic tone. Its account is [THEORY-tmpjwfto](../theory.d/THEORY-tmpjwfto.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A21 §6.
 ---
@@ -49,7 +49,7 @@ Boqun Jia, Lingyun Zhao, Muhan Tang, Nanbin Xie, Yunqian Huang, Xiaoxia Liang, G
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpdrocb). An organizing frame, "tumor neuron
+Skimmed on 2026-11-12 ([NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md)). An organizing frame, "tumor neuron
 hijack", for the nervous system's part in cancer, with a three-way crosstalk
 of nerves, immune cells and tumour cells at its centre, and a map of
 therapeutic and translational directions.
@@ -58,5 +58,5 @@ therapeutic and translational directions.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §6. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [THEORY-135](../theory.d/THEORY-135.md), [CLAIM-060](../claims.d/CLAIM-060.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpdrocb and its account
-THEORY-tmpjwfto.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md) and its account
+[THEORY-tmpjwfto](../theory.d/THEORY-tmpjwfto.md).

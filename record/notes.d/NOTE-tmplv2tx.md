@@ -75,15 +75,15 @@ Producer effort; user welfare; intertemporal producer incentives; non-myopic fol
 
 **On the LIT's and the exchange's characterization.** A's account ("some online-learning recommender algorithms give producers incentives to lower quality over time, and proposes algorithms that sustain it") is accurate. A27 §3's use of it, that the recommender is part of "the production environment, not merely the consumption environment", is fair as to producers responding to the algorithm. But the paper's mechanism is not the heavy-user one: quality falls because the learner is slow and producers discount, with homogeneous one-user-per-round demand. It supports "the algorithm shapes supply", not "the heaviest users shape supply".
 
-- **CLAIM-tmpcv1pg** (heaviest users set the content distribution): **qualifies / leaves open**. It supplies a demonstrated (formal) supply-side link: platform algorithms change what producers make, and quality can degrade with no change in anyone's taste, which matches A27 §3's point that escalation is unnecessary. It does not model activity-weighted demand, heavy users or extremity, so it gives nothing to the claim's structural premise (that belongs to CLAIM-tmpmz271) or to its escalation half. The CLAIM's citation should describe it as a supply-side mechanism of quality decline, not as evidence of minority capture.
-- **CLAIM-tmpmz271** (not named in the LIT): leaves open; no heterogeneous weighting in the model.
+- **[CLAIM-tmpcv1pg](../claims.d/CLAIM-tmpcv1pg.md)** (heaviest users set the content distribution): **qualifies / leaves open**. It supplies a demonstrated (formal) supply-side link: platform algorithms change what producers make, and quality can degrade with no change in anyone's taste, which matches A27 §3's point that escalation is unnecessary. It does not model activity-weighted demand, heavy users or extremity, so it gives nothing to the claim's structural premise (that belongs to [CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)) or to its escalation half. The CLAIM's citation should describe it as a supply-side mechanism of quality decline, not as evidence of minority capture.
+- **[CLAIM-tmpmz271](../claims.d/CLAIM-tmpmz271.md)** (not named in the LIT): leaves open; no heterogeneous weighting in the model.
 
 Searched origin/main record/ for: recommender, "creator economy", "producer incentives", Stackelberg, Jagadeesan, Steinhardt, "content quality", "online learning", bandit, "supply-side", the arXiv id.
 - **Duplicate check**: no LIT on origin/main carries arXiv 2306.07479, the DOI, or Jagadeesan; not already held.
 - Held entries the first search missed:
-  - THEORY-839 and THEORY-861 (performative prediction: a deployed model shifts the distribution it is scored on). Hu et al. is a strategic, game-theoretic cousin: the platform's learner shifts what producers create. Neighbouring, not the same result; worth a `bears_on` or a Connections line.
-  - LIT-2097 ("A Perspective on Incentive Design: Challenges and Opportunities"; Stackelberg leader–follower incentive design): the same leader-learns, followers-respond framing.
-  - LIT-1331 (epistemic welfare and algorithmic recommender systems): the record's recommender reading on the user side; Hu et al. is the producer side.
+  - [THEORY-839](../theory.d/THEORY-839.md) and [THEORY-861](../theory.d/THEORY-861.md) (performative prediction: a deployed model shifts the distribution it is scored on). Hu et al. is a strategic, game-theoretic cousin: the platform's learner shifts what producers create. Neighbouring, not the same result; worth a `bears_on` or a Connections line.
+  - [LIT-2097](../literature.d/LIT-2097.md) ("A Perspective on Incentive Design: Challenges and Opportunities"; Stackelberg leader–follower incentive design): the same leader-learns, followers-respond framing.
+  - [LIT-1331](../literature.d/LIT-1331.md) (epistemic welfare and algorithmic recommender systems): the record's recommender reading on the user side; Hu et al. is the producer side.
 - No held entry on producer/creator incentives under recommendation was found.
 
 ## Limitations

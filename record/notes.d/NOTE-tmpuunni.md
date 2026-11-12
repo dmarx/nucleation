@@ -78,12 +78,12 @@ Right to life; equivocation on "person"; violinist case (bodily support); respon
 - The entry is organised as six arguments against abortion with replies, not as a taxonomy of considerations.
 - It does not merely separate the legal question: it declares it out of scope.
 
-- **THEORY-464** (Dufner, LIT-130: in identity-laden ethical questions, abortion among them, the deciding relation is usually not numerical identity): **supports** it, from the parts read. §2.2's objection turns on psychological connectedness and time-relative interests (McMahan), not on whether the fetus is numerically the later person. This is the pattern THEORY-464 describes.
-- **THEORY-448** (Meincke, LIT-142: the mereology of pregnancy on substance and process ontologies): **leaves open**. In the parts read the entry does not discuss whether the fetus is part of the pregnant person, though the violinist framing assumes two distinct parties. This is the assumption LIT-tmph5uj8 (Devanesan) is said to question.
+- **[THEORY-464](../theory.d/THEORY-464.md)** (Dufner, [LIT-130](../literature.d/LIT-130.md): in identity-laden ethical questions, abortion among them, the deciding relation is usually not numerical identity): **supports** it, from the parts read. §2.2's objection turns on psychological connectedness and time-relative interests (McMahan), not on whether the fetus is numerically the later person. This is the pattern [THEORY-464](../theory.d/THEORY-464.md) describes.
+- **[THEORY-448](../theory.d/THEORY-448.md)** (Meincke, [LIT-142](../literature.d/LIT-142.md): the mereology of pregnancy on substance and process ontologies): **leaves open**. In the parts read the entry does not discuss whether the fetus is part of the pregnant person, though the violinist framing assumes two distinct parties. This is the assumption [LIT-tmph5uj8](../literature.d/LIT-tmph5uj8.md) (Devanesan) is said to question.
 
 Searched origin/main for: violinist, Marquis, McMahan, "time-relative interest", "future like ours", and the URL.
 - **Duplicate check**: the SEP entry is not held.
-- Missed by the first search: **NOTE-166** (Dufner's reading), which already discusses future-like-ours. **THEORY-449** and the McMahan notes (e.g. NOTE-107, NOTE-120) concern graded moral status and may bear on §1.4. They were not opened.
+- Missed by the first search: **[NOTE-166](NOTE-166.md)** (Dufner's reading), which already discusses future-like-ours. **[THEORY-449](../theory.d/THEORY-449.md)** and the McMahan notes (e.g. [NOTE-107](NOTE-107.md), [NOTE-120](NOTE-120.md)) concern graded moral status and may bear on §1.4. They were not opened.
 - There is no held entry on Thomson's violinist case.
 
 ## Limitations

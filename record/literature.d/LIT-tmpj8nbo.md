@@ -44,7 +44,7 @@ Kejian Zhu, Zhuoran Jin, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li and othe
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmpjmhp7). An evaluation showing that
+Read on 2026-11-12 ([NOTE-tmpjmhp7](../notes.d/NOTE-tmpjmhp7.md)). An evaluation showing that
 trajectory-level gains from multi-turn agentic RL are budget-conditional and
 come from error recovery and long-horizon composition rather than better
 per-step decisions, with a simple budget-randomized training remedy.
@@ -53,5 +53,5 @@ per-step decisions, with a simple budget-randomized training remedy.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A44 §1. It bears on [CLAIM-tmpyc5md](../claims.d/CLAIM-tmpyc5md.md).
 
-Read on 2026-11-12; the reading is NOTE-tmpjmhp7 and its account
-THEORY-tmpb7699.
+Read on 2026-11-12; the reading is [NOTE-tmpjmhp7](../notes.d/NOTE-tmpjmhp7.md) and its account
+[THEORY-tmpb7699](../theory.d/THEORY-tmpb7699.md).
