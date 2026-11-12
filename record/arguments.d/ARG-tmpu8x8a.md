@@ -1,7 +1,14 @@
 ---
 status: Rejected
-title: 'IP-Adapter''s statement that fine-tuned image-prompt models are "not compatible with other base models" does not show that a trained specialization goes stale when its base model is replaced'
-version: 1
+title: 'IP-Adapter''s statement that fine-tuned image-prompt models are "not compatible with other base models" shows that a trained specialization goes stale when its base model is replaced'
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Retitled at the owner's review of dmarx/nucleation#482 as the positive
+    inference it rejects, so that Rejected reads correctly: the inference
+    from the sentence to the claim fails, for the reasons the body gives.
 form: evidence
 grounds:
 - THEORY-tmp3jjfo
@@ -23,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp3jjfo CLAIM-tmpnwq8a — Proposed; the reading and the claim this inference joins, filed on the same branch -->
 
-# ARG-tmpu8x8a: IP-Adapter's statement that fine-tuned image-prompt models are "not compatible with other base models" does not show that a trained specialization goes stale when its base model is replaced
+# ARG-tmpu8x8a: IP-Adapter's statement that fine-tuned image-prompt models are "not compatible with other base models" shows that a trained specialization goes stale when its base model is replaced
 
 ## The inference
 

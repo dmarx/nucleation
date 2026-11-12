@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'A proposed study: for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references, at matched identity fidelity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    At the owner's review of dmarx/nucleation#482: the crossover allows an
+    up-front cost on the reference route too, and costs are counted per
+    acceptable output, retries included.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -43,16 +50,21 @@ table, one trained route (a character LoRA, or DreamBooth or Textual
 Inversion where that was the practice) and one reference route (an
 adapter, an in-context editor or a reference-conditioned model):
 
-- **up-front cost** F of the trained route: preparing the training
-  images and fitting, in compute and in hours of work;
-- **per-generation cost** of each route, c_train and c_ref, in compute
-  and wall-clock;
+- **up-front cost** of each route, F_train (preparing the training
+  images and fitting) and F_ref (preparing the reference sheet or set),
+  in compute and in hours of work;
+- **cost per acceptable output** of each route, c_train and c_ref, in
+  compute and wall-clock, counting the retries needed to get an output
+  that meets the fidelity target, not only the time of one generation;
 - **identity fidelity** of each route's outputs, by a fixed identity
   measure and by raters blind to the route, with the routes tuned to a
   common fidelity target;
-- from these, the **crossover** n* = F / (c_ref − c_train), the number of
-  generations of one character past which the trained route is cheaper at
-  that fidelity, and how n* moves across generations.
+- from these, the **crossover** n* = (F_train − F_ref) / (c_ref − c_train),
+  the number of acceptable outputs of one character past which the
+  trained route is cheaper at that fidelity, and how n* moves across
+  generations. It is a positive crossover in that direction only when
+  training costs more up front and less per acceptable output; otherwise
+  one route dominates and there is no crossover.
 
 The objective is [THEORY-331](../theory.d/THEORY-331.md)'s: total cost of reaching a fixed quality,
 counting the uses as well as the preparation. [THEORY-342](../theory.d/THEORY-342.md)'s measurement,
@@ -65,7 +77,7 @@ Matching fidelity across models that differ in everything else. A18:
 "H3 is primarily a video-generation model, for example, so comparing its
 one-frame workflow with older native image models requires careful
 controls." An identity measure tuned to one generation's failure modes
-can favour it. The hours of human work in F are also hard to measure
+can favour it. The hours of human work in F_train and F_ref are also hard to measure
 and can dominate it.
 
 ## What each outcome would show

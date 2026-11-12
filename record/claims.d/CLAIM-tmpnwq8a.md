@@ -1,8 +1,17 @@
 ---
 status: Proposed
-title: 'A specialization learned into a model''s weights goes stale when the base model it was trained against is replaced, though nothing it encodes has become false: its reuse ends at the next base-model change, so in the trade between learning once and computing on demand the reader''s turnover is a staleness term of its own, beside the world''s changing, and faster turnover of base models favours computing on demand'
-version: 2
+title: 'Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization''s useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader''s turnover is a staleness term of its own, beside the world''s changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical'
+version: 3
 history:
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Narrowed at the owner's review of dmarx/nucleation#482: that a module
+    is trained relative to W0 does not show it must be retrained when W0
+    changes; transfer may degrade, survive or work well enough. The claim
+    now says a replacement can impose a compatibility or transfer cost that
+    shortens useful life, and leaves its frequency and its effect on the
+    trade to evidence. ARG-tmp4icc1 is weakened to match.
 - version: 2
   date: '2026-11-12'
   note: >-
@@ -16,11 +25,11 @@ history:
 role: thesis
 warrant: empirical
 defeated_if: >-
-  Character LoRAs, or other fine-tuned specializations, shown to carry over
-  to a replacement base model at fidelity and cost near retraining's, so
-  that a base-model change does not end their reuse; or practitioners'
-  choices shown not to respond to the pace of base-model releases once
-  per-use costs are held fixed. Also defeated as a claim of its own if it
+  Fine-tuned specializations such as character LoRAs shown to carry over
+  to replacement base models generally with no loss of fidelity and no
+  added cost, so that a base-model change imposes no transfer cost at all.
+  The claim is not defeated by transfer that sometimes works well enough:
+  it says a replacement can impose the cost, not that it always does. Also defeated as a claim of its own if it
   only restates a held entry: CLAIM-303's upkeep term (checking a filing
   is still current) and Dasgupta and Gershman's staleness, a store "not yet
   updated" after the world changes (QUESTION-095's note of 2026-10-15),
@@ -63,17 +72,19 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmp3jjfo THEORY-tmp6v6q8 ARG-tmpu8x8a ARG-tmp4icc1 — Proposed; the readings and ARGs filed with this claim's second version -->
 <!-- inactive-ok-file: CLAIM-303 — Proposed; the break-even this adds a term to -->
 
-# CLAIM-tmpnwq8a: A specialization learned into a model's weights goes stale when the base model it was trained against is replaced, though nothing it encodes has become false: its reuse ends at the next base-model change, so in the trade between learning once and computing on demand the reader's turnover is a staleness term of its own, beside the world's changing, and faster turnover of base models favours computing on demand
+# CLAIM-tmpnwq8a: Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization's useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader's turnover is a staleness term of its own, beside the world's changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical
 
 ## The claim
 
 In [CLAIM-303](CLAIM-303.md)'s arithmetic, learning pays when the uses n exceed the
 up-front cost over the per-use saving, n > F/(c_r − c_a − u). For a
-specialization learned into weights, n is bounded by the uses that fall
-before its base model is replaced, since a replacement ends its reuse and
-F must be paid again. If replacements come every T and uses at rate λ,
-learning pays only when λT exceeds the break-even. Shorter T raises the
-bar for learning and favours conditioning on references at each use.
+specialization learned into weights, a replacement of its base model can
+cut n off: if the specialization does not carry over, F, or some part of it
+spent on transfer, must be paid again. In the limiting case where nothing
+carries over, with replacements every T and uses at rate λ, learning pays
+only when λT exceeds the break-even, and shorter T favours conditioning on
+references at each use. How much carries over to a given successor is the
+empirical part.
 The references themselves carry over to the new base model; a reference
 adapter may need retraining too, but by its maker, once for every user,
 not by each user for each character.
@@ -97,8 +108,8 @@ this way if the airspeed indicator were replaced by one with no bugs.
   not a successor base: see the note below.
 - **The test.** [CASE-tmp3isyl](../cases.d/CASE-tmp3isyl.md)'s design can take one more arm: a LoRA
   trained on one base model, applied to its successor, scored at the same
-  fidelity target. A transfer near retraining's fidelity defeats the
-  claim for that pair.
+  fidelity target. The arm measures the transfer cost for that pair: none
+  at all, across pairs, would defeat the claim.
 - **What would support it**: practitioner records of LoRAs retrained
   across base-model releases, or of reference workflows adopted at a
   release.
