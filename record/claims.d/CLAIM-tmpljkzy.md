@@ -29,14 +29,14 @@ complements:
 bears_on:
 - QUESTION-441
 summary: >-
-  The owner's, from the review of #485 on 2026-11-12, refining
-  QUESTION-441. Route A, selective disappearance (CLAIM-tmpavez3): the
+  The owner's, from the review of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12, refining
+  [QUESTION-441](../questions.d/QUESTION-441.md). Route A, selective disappearance ([CLAIM-tmpavez3](CLAIM-tmpavez3.md)): the
   harmed exit, so complaints are counted accurately from a shrinking
   population; selection of the observed population. Route B, costly
-  discovery (CLAIM-tmpvceet, as narrowed): an audit that would reveal unmet
+  discovery ([CLAIM-tmpvceet](CLAIM-tmpvceet.md), as narrowed): an audit that would reveal unmet
   obligations worsens measured performance, so it is not done; selection
   of the questions investigated. Neither needs deliberate suppression, and
-  both differ from the counter-corrective model (CLAIM-619). The owner:
+  both differ from the counter-corrective model ([CLAIM-619](CLAIM-619.md)). The owner:
   they should not be conflated, "particularly when attributing
   responsibility". Interpretive. Filed by the assistant (Claude, in this
   session) in the owner's terms; the claim is the owner's.
@@ -48,18 +48,18 @@ summary: >-
 
 ## The claim
 
-The owner's review of #485 sets out two routes by which an organization
+The owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) sets out two routes by which an organization
 becomes normatively less informed without censoring anyone.
 
-- **Route A, selective disappearance** (CLAIM-tmpavez3). The harmed exit,
+- **Route A, selective disappearance** ([CLAIM-tmpavez3](CLAIM-tmpavez3.md)). The harmed exit,
   so complaints are counted accurately, but from a shrinking population.
   What is selected is the observed population.
-- **Route B, costly discovery** (CLAIM-tmpvceet). An audit that would reveal
+- **Route B, costly discovery** ([CLAIM-tmpvceet](CLAIM-tmpvceet.md)). An audit that would reveal
   unmet obligations worsens measured performance, so it is not done. What
   is selected is the set of questions investigated.
 
 Neither needs deliberate suppression. Both differ from the stronger
-counter-corrective model (CLAIM-619), in which an organization responds to
+counter-corrective model ([CLAIM-619](CLAIM-619.md)), in which an organization responds to
 challenge by weakening the channels through which future challenges can
 succeed. The owner: they should not be conflated, "particularly when
 attributing responsibility".
@@ -78,7 +78,7 @@ attributing responsibility".
   Under the counter-corrective model there is an act against challenge.
   Each grounds a different kind of responsibility, and treating all three
   as suppression would overstate the first two.
-- **Relation to occlusion.** CLAIM-624 separates occlusion,
+- **Relation to occlusion.** [CLAIM-624](CLAIM-624.md) separates occlusion,
   self-certification and reproduction. Routes A and B are two ways an
   occluding projection can arise or deepen with no act of exclusion: one
   shrinks the population that the projection is taken over, the other

@@ -414,7 +414,7 @@ protection, every pair attainable and not the triple, is [CASE-119](../cases.d/C
 triangle (note there). A42 §8 turns the specification into a question, filed
 as [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), and [CLAIM-tmpvceet](CLAIM-tmpvceet.md) derives from this claim's downward closure that, for a fixed arrangement,
 recognizing more demands cannot improve conjunctive compliance or lower the
-count of recognized violations (as narrowed after the owner's review of #485
+count of recognized violations (as narrowed after the owner's review of [#485](https://github.com/dmarx/nucleation/issues/485)
 on 2026-11-12; not every score against the recognized set falls). No status change.
 
 ## Note of 2026-11-12: Fanning & Raworth (2025), read

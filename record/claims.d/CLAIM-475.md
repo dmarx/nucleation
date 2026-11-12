@@ -271,7 +271,7 @@ recognizes, an organization cannot improve its conjunctive compliance or
 lower its count of recognized violations when its inquiry recognizes more,
 so governance that penalizes newly recognized violations without rewarding
 their discovery penalizes the inquiry (as narrowed after the owner's review
-of #485 on 2026-11-12). A's example of a question an organization may never formulate:
+of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12). A's example of a question an organization may never formulate:
 "Are high-spending players actually achieving what they want, or does our
 choice architecture systematically undermine commitments they continue to
 endorse?" No status change.

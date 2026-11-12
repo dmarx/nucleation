@@ -47,7 +47,7 @@ bears_on:
 summary: >-
   A's (ChatGPT's), A44 §3 of the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11), on the owner's U21, narrowed by the
-  owner's review of #485 on 2026-11-12. A's example: a game developer
+  owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12. A's example: a game developer
   scored only on commercial viability passes; an audit that adds a
   justified obligation to honour players' spending limits makes it fail,
   "despite its audit becoming more capable". The owner's statement: "For
@@ -78,7 +78,7 @@ A44 §3 separates two kinds of progress:
 and observes that "A better identification procedure can reveal worse
 substantive performance without causing a deterioration in performance."
 
-The owner's review of #485 narrowed what follows from this: "For a fixed
+The owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) narrowed what follows from this: "For a fixed
 arrangement, expanding the recognized demand set cannot improve
 conjunctive compliance and cannot decrease the count of recognized
 violations. Where governance penalizes newly recognized violations without
@@ -96,7 +96,7 @@ current arrangement, held fixed.
    ⋂_{i∈D_1} A_i ⊆ ⋂_{i∈D_0} A_i. So the indicator "x passes every
    recognized demand" cannot rise when the set grows. The same holds of
    the compatibility complex itself: if D_0 is not a face, no superset is
-   (CLAIM-347's downward closure), and if D_1 is a face, so is D_0.
+   ([CLAIM-347](CLAIM-347.md)'s downward closure), and if D_1 is a face, so is D_0.
 2. **Recognized violations cannot decrease (demonstrated).** The demands in
    D_0 that x fails are among those in D_1 that it fails, so their count
    cannot fall as the set grows.
@@ -141,16 +141,16 @@ Each row of the table holds, and each "may" is realized.
 
 ## Where it sits
 
-- CLAIM-475 holds that specifying is a resource-bounded realization, so
+- [CLAIM-475](CLAIM-475.md) holds that specifying is a resource-bounded realization, so
   some questions an agent cannot yet ask. This claim adds that asking them
   can be penalized, under the governance stated.
-- CLAIM-619 (a disposition to answer challenge by reducing the capacity
+- [CLAIM-619](CLAIM-619.md) (a disposition to answer challenge by reducing the capacity
   for challenge) is the active form. This is a passive one: it needs no
   response to any challenge, only a penalty on newly recognized violations.
   The owner's review distinguishes it, as selection of the questions
-  investigated, from selection of the observed population (CLAIM-tmpavez3)
-  and from the counter-corrective model; see CLAIM-tmpljkzy.
-- CLAIM-549 (the quiescent complex is not the compatibility complex): A44
+  investigated, from selection of the observed population ([CLAIM-tmpavez3](CLAIM-tmpavez3.md))
+  and from the counter-corrective model; see [CLAIM-tmpljkzy](CLAIM-tmpljkzy.md).
+- [CLAIM-549](CLAIM-549.md) (the quiescent complex is not the compatibility complex): A44
   §2 notes the twin route to a better score, relaxing tolerances ("it could
   relax the criteria used to decide whether a requirement has been
   satisfied"), which raises the pass rate without any accommodation.
@@ -159,5 +159,5 @@ Each row of the table holds, and each "may" is realized.
 
 That any organization behaves this way, or which demands are justified:
 A44 §7, the experiment "would not derive the legitimacy of the underlying
-requirements". CASE-tmpz1l6r gives a design that would test whether the
+requirements". [CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md) gives a design that would test whether the
 incentive produces avoidance of inquiry.

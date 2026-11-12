@@ -112,8 +112,8 @@ it to make later challenges less effective, which is [CLAIM-619](../claims.d/CLA
 variant is filed as [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md). The exchange adds a passive route that
 needs no response to any challenge: governance that penalizes newly
 recognized violations without rewarding their discovery penalizes the
-inquiry that would recognize more (CLAIM-tmpvceet, as narrowed after the
-owner's review of #485 on 2026-11-12). A39 §7
+inquiry that would recognize more ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), as narrowed after the
+owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12). A39 §7
 recasts answerability as a demand A_C in the compatibility complex. The
 question stays Open.
 
@@ -138,14 +138,14 @@ counter-normativity.
 
 ## Note of 2026-11-12: the owner's two routes to becoming less informed
 
-The owner's review of #485 refines this question with two routes by which an
+The owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) refines this question with two routes by which an
 organization becomes normatively less informed without censoring anyone.
-Selective disappearance (CLAIM-tmpavez3): the harmed exit, so complaints are
+Selective disappearance ([CLAIM-tmpavez3](../claims.d/CLAIM-tmpavez3.md)): the harmed exit, so complaints are
 counted accurately from a shrinking population, a selection of the observed
-population. Costly discovery (CLAIM-tmpvceet, as narrowed): an audit that
+population. Costly discovery ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), as narrowed): an audit that
 would reveal unmet obligations worsens measured performance and is not done,
 a selection of the questions investigated. Neither needs deliberate
-suppression, and both differ from the counter-corrective model (CLAIM-619).
+suppression, and both differ from the counter-corrective model ([CLAIM-619](../claims.d/CLAIM-619.md)).
 The owner asks that they not be conflated, "particularly when attributing
 responsibility". The record did not hold the distinction; it is filed as the
-owner's CLAIM-tmpljkzy, interpretive. The question stays Open.
+owner's [CLAIM-tmpljkzy](../claims.d/CLAIM-tmpljkzy.md), interpretive. The question stays Open.

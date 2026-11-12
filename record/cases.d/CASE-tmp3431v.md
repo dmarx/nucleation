@@ -58,14 +58,14 @@ from true at b to false at b + 1. For a stochastic stationary process that moves
 s → t otherwise, the probability of reaching g within b steps is 0 at b = 0
 and p at every b ≥ 1: constant, so monotone, and never above p, because the
 process has one chance at s. Version 1 gave 1 − (1 − p)^b here, which is
-wrong for this architecture (corrected after the owner's review of #485 on
+wrong for this architecture (corrected after the owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) on
 2026-11-12).
 
 **Variant with a retry.** Add a self-loop s → s. A stationary process that
 moves s → g with probability p and stays at s otherwise reaches g within b
 steps with probability 1 − (1 − p)^b. With probability p to g, r to s and 1
 − p − r to the trap, the probability is p(1 − r^b)/(1 − r). Both rise with
-b, as the monotone case of CLAIM-tmpff0cq requires.
+b, as the monotone case of [CLAIM-tmpff0cq](../claims.d/CLAIM-tmpff0cq.md) requires.
 
 Computed exactly with python3 -I on 2026-11-12, as fractions, for p = 1/3
 and 1/2 and b from 0 to 5 (r = 1/4 in the three-way variant). Without the

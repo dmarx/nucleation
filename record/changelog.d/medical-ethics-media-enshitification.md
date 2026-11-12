@@ -8,4 +8,4 @@
 ### Fixed
 
 - Two stand-in NOTEs no longer carry a code in their titles; six acknowledgements of Unavailable or Unfetched grounds now carry an `until` date, so whether the entries still hold is asked again.
-- The owner's review of #485 (2026-11-12): CLAIM-tmpvceet narrowed to conjunctive compliance and recognized violations, with the owner's table checked by enumeration; CASE-tmp3431v's stochastic formula corrected, with a retry variant; and the owner's distinction between selective disappearance and costly discovery filed as CLAIM-tmpljkzy, bearing on QUESTION-441.
+- The owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) (2026-11-12): [CLAIM-tmpvceet](record/claims.d/CLAIM-tmpvceet.md) narrowed to conjunctive compliance and recognized violations, with the owner's table checked by enumeration; [CASE-tmp3431v](record/cases.d/CASE-tmp3431v.md)'s stochastic formula corrected, with a retry variant; and the owner's distinction between selective disappearance and costly discovery filed as [CLAIM-tmpljkzy](record/claims.d/CLAIM-tmpljkzy.md), bearing on [QUESTION-441](record/questions.d/QUESTION-441.md).
