@@ -14,8 +14,8 @@ promote_when: >-
   criterion and the KDE baseline lower on DDP on the same Adult
   configuration.
 summary: >-
-  Neighbour of LIT-tmpv9xn3 — Monnier, George, Guyard, Tarnec & Kountouris,
-  read in NOTE-tmp5y69g (Skimmed). A mutual-information-based template for
+  Neighbour of [LIT-tmpv9xn3](../literature.d/LIT-tmpv9xn3.md) — Monnier, George, Guyard, Tarnec & Kountouris,
+  read in [NOTE-tmp5y69g](../notes.d/NOTE-tmp5y69g.md) (Skimmed). A mutual-information-based template for
   fairness metrics and an in-processing mitigation (a regularizer inspired
   by the Prejudice Remover), covering independence- and separation-based
   notions, intersectional sensitive attributes and multiclass outputs,
@@ -32,4 +32,4 @@ Monnier and colleagues (2026) propose mutual information between predictions and
 
 ## Evidence
 
-The reading in NOTE-tmp5y69g; its key results are quoted there with locations.
+The reading in [NOTE-tmp5y69g](../notes.d/NOTE-tmp5y69g.md); its key results are quoted there with locations.

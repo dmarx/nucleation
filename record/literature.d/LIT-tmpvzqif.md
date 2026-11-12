@@ -24,14 +24,14 @@ keywords: []
 implementations: []
 summary: >-
   Fanning and Raworth (2025), DOI-10.1038/s41586-025-09385-1. Read on
-  2026-11-12 in NOTE-tmproi9j: A third iteration of the Doughnut: 21
+  2026-11-12 in [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md): A third iteration of the Doughnut: 21
   dimensions measured by 35 indicators (social foundation and ecological
   ceiling), with time series 2000–2022 for 30 of them, plus a 2017
   disaggregation of 27 comparable indicators into three country clusters by
   income (poorest 40%, middle 40%, richest 20% of countries). Globally,
   deprivation fell modestly while ecological overshoot rose; disaggregated,
   the richest cluster contributes a disproportionate share of overshoot and
-  the poorest holds most shortfall. Its account is THEORY-tmp74oc5.
+  the poorest holds most shortfall. Its account is [THEORY-tmp74oc5](../theory.d/THEORY-tmp74oc5.md).
   Registered from the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11), where A cited it at A42 §5.
 ---
@@ -43,7 +43,7 @@ Andrew L. Fanning and Kate Raworth (2025). "Doughnut of social and planetary bou
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmproi9j). An updated, time-series dashboard of
+Read on 2026-11-12 ([NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md)). An updated, time-series dashboard of
 social shortfall and ecological overshoot, each indicator judged against its
 own threshold, with a cross-scale comparable disaggregation by country
 cluster.
@@ -52,5 +52,5 @@ cluster.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §5. It bears on [CLAIM-347](../claims.d/CLAIM-347.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md).
 
-Read on 2026-11-12; the reading is NOTE-tmproi9j and its account
-THEORY-tmp74oc5.
+Read on 2026-11-12; the reading is [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md) and its account
+[THEORY-tmp74oc5](../theory.d/THEORY-tmp74oc5.md).

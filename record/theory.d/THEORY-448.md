@@ -36,7 +36,7 @@ bears_on:
 - QUESTION-035
 ---
 <!-- inactive-ok-file: CLAIM-tmpn0ytb THEORY-tmp4rc81 THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmp5fwhc LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp LIT-tmpw9l03 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmp5fwhc LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-443 THEORY-464 THEORY-476 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-072 THEORY-221 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; named as a parallel the reading draws, not leaned on -->
@@ -157,7 +157,7 @@ between when an organism begins and how it relates to the gestating one
 
 ## Note of 2026-11-12: Geddes (2022), read
 
-From the reading in NOTE-tmp3x5kl (LIT-tmpw9l03), the reader's assessment as
+From the reading in [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md) ([LIT-tmpw9l03](../literature.d/LIT-tmpw9l03.md)), the reader's assessment as
 checked by the filer: **qualifies**. Meincke adopts Kingma's four criteria
 and keeps parthood; Geddes argues those criteria do not support parthood
 over proper overlap, which removes a premise Meincke treats as conceded. It

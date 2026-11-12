@@ -312,7 +312,7 @@ A lists four spaces, the instantaneously admissible directions, the states reach
 
 ## Note of 2026-11-12: Brenninger, Zug & Kokko (2025), read
 
-From the reading in NOTE-tmptfr59 (LIT-tmpzogx3), the reader's assessment as
+From the reading in [NOTE-tmptfr59](../notes.d/NOTE-tmptfr59.md) ([LIT-tmpzogx3](../literature.d/LIT-tmpzogx3.md)), the reader's assessment as
 checked by the filer: **leaves open**. One could read reproductive
 manipulation as narrowing the host's reachable reproductive outcomes, but
 the review uses no such framing, and the claim concerns agents' will.

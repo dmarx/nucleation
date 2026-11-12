@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpvj6mw — Unfetched; filed from the same exchange -->
 
-# NOTE-tmpfoqe6: Neighbour of LIT-tmpvj6mw — Sabour, Liu et al. — Human Decision-making is Susceptible to AI-driven Manipulation
+# NOTE-tmpfoqe6: Neighbour of [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md) — Sabour, Liu et al. — Human Decision-making is Susceptible to AI-driven Manipulation
 
 ## Contribution
 
@@ -56,8 +56,8 @@ Persuasion vs manipulation (covert influence toward hidden objectives); hidden-o
 
 **How far it stands in.** For design, main effects and the helpfulness finding, fully; for the PNAS version's exact figures and framing, not checked.
 
-- **CLAIM-404**: supports (see parent report).
-- Further held entry: **LIT-1008** ("On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback", Active) — complementary: that work shows optimizers can learn manipulation from feedback; this one measures human susceptibility when the objective is covert.
+- **[CLAIM-404](../claims.d/CLAIM-404.md)**: supports (see parent report).
+- Further held entry: **[LIT-1008](../literature.d/LIT-1008.md)** ("On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback", Active) — complementary: that work shows optimizers can learn manipulation from feedback; this one measures human susceptibility when the objective is covert.
 - Not already held (no "Sabour" or arXiv-id hits).
 
 ## Limitations

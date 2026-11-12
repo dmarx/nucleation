@@ -17,7 +17,7 @@ promote_when: >-
   gravida; it would be refuted by a criterion in Kingma (2019) that holds
   under parthood and fails under proper overlap.
 summary: >-
-  Geddes (2022), read in NOTE-tmp3x5kl (Read). Kingma argued that the foster
+  Geddes (2022), read in [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md) (Read). Kingma argued that the foster
   is part of the gravida, defending this against a "containment" view.
   Geddes shows that she treats rejection of parthood as acceptance of
   disjointness, so overlooking proper overlap (sharing some but not all
@@ -32,4 +32,4 @@ Geddes (2022) argues that Kingma's case that the foster is part of the gravida f
 
 ## Evidence
 
-The reading in NOTE-tmp3x5kl; its key results are quoted there with locations.
+The reading in [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md); its key results are quoted there with locations.

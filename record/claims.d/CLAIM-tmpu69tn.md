@@ -45,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmp6oofp LIT-tmpj31gs LIT-tmpzogx3 LIT-tmpe26cm — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmp6oofp LIT-tmpj31gs LIT-tmpe26cm — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-tmpu69tn: Where an influence on an organism came from, what governs its practical efficacy, and whose interests its effects serve are three separate questions, so neither an origin outside the organism nor one inside it settles whether the influence belongs to the organism's self-governance: authorized external regulation, parasitic capture, cancer arising from the host's own cells and foreign-origin cells serving the host realize the combinations
 
@@ -112,7 +112,7 @@ beyond safety concerns.
 
 ## Note of 2026-11-12: UNESCO General Conference (2025), read
 
-From the reading in NOTE-tmpwjlut (LIT-tmpxuh7j), the reader's assessment as
+From the reading in [NOTE-tmpwjlut](../notes.d/NOTE-tmpwjlut.md) ([LIT-tmpxuh7j](../literature.d/LIT-tmpxuh7j.md)), the reader's assessment as
 checked by the filer: **bears on it, partly supports**. The Recommendation
 does not treat external origin as disqualifying (it endorses medical
 closed-loop stimulation) and makes legitimacy turn on consent and on "undue
@@ -123,7 +123,7 @@ separate alignment from authorization.
 
 ## Note of 2026-11-12: Brenninger, Zug & Kokko (2025), read
 
-From the reading in NOTE-tmptfr59 (LIT-tmpzogx3), the reader's assessment as
+From the reading in [NOTE-tmptfr59](../notes.d/NOTE-tmptfr59.md) ([LIT-tmpzogx3](../literature.d/LIT-tmpzogx3.md)), the reader's assessment as
 checked by the filer: **supports A21's use** of Wolbachia: the manipulation
 acts on which offspring are produced or survive, not on the host's choices.
 It also supplies two cases the claim's table lacks, from the review's §IX:

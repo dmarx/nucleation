@@ -17,7 +17,7 @@ promote_when: >-
   is required for summiting or biting in ants, and one independent study
   confirms nervous tissue remains intact during manipulation.
 summary: >-
-  van Roosmalen & de Bekker (2024), read in NOTE-tmphvgm2 (Read). Review of
+  van Roosmalen & de Bekker (2024), read in [NOTE-tmphvgm2](../notes.d/NOTE-tmphvgm2.md) (Read). Review of
   what is proposed about how Ophiocordyceps unilateralis s.l. infects
   carpenter ants and changes their behaviour (loss of daily rhythm, reduced
   communication with nestmates, hyperactivity, staggering, summiting, biting
@@ -38,4 +38,4 @@ van Roosmalen and de Bekker (2024) review evidence that Ophiocordyceps changes c
 
 ## Evidence
 
-The reading in NOTE-tmphvgm2; its key results are quoted there with locations.
+The reading in [NOTE-tmphvgm2](../notes.d/NOTE-tmphvgm2.md); its key results are quoted there with locations.

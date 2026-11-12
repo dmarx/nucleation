@@ -30,7 +30,7 @@ summary: >-
   pursues ([QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: LIT-tmpwxxvn LIT-tmpfw2u8 LIT-tmpwasqi LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpfw2u8 LIT-tmpwasqi LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
 
 # CASE-tmp10ykm: Toxoplasma gondii and the ant-manipulating fungi: parasites whose hosts behave in ways that favour the parasite's transmission, through the host's own nervous system or muscles, the rat less averse to cat odour and the ant climbing and clamping before it dies
 
@@ -81,7 +81,7 @@ is in [LIT-tmpawef9](../literature.d/LIT-tmpawef9.md).
 
 ## Note of 2026-11-12: van Roosmalen & de Bekker (2024), read
 
-From the reading in NOTE-tmphvgm2 (LIT-tmpwxxvn), the reader's assessment as
+From the reading in [NOTE-tmphvgm2](../notes.d/NOTE-tmphvgm2.md) ([LIT-tmpwxxvn](../literature.d/LIT-tmpwxxvn.md)), the reader's assessment as
 checked by the filer: **supports and refines** A19's report. The review
 confirms that the ant's nervous tissue stays intact while head muscle
 degrades, and adds that the fungus may protect the brain; the route is

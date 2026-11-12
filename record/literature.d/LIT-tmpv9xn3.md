@@ -47,7 +47,7 @@ Jeanne Monnier, Thomas George, Frédéric Guyard, Christèle Tarnec and Marios K
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A42 §1. It bears on [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), [QUESTION-129](../questions.d/QUESTION-129.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpx81t4. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpx81t4](LIT-tmpx81t4.md). The
 reader on how far it stands in: MIFair (arXiv:2604.28030; same five authors)
 stands in only slightly: one experiment shows two aggregate criteria ranking
 methods differently, and it cites this paper for the general point. It does

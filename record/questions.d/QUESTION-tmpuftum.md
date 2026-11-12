@@ -101,7 +101,7 @@ question worries about.
 
 ## Note of 2026-11-12: Fanning & Raworth (2025), read
 
-From the reading in NOTE-tmproi9j (LIT-tmpvzqif), the reader's assessment as
+From the reading in [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md) ([LIT-tmpvzqif](../literature.d/LIT-tmpvzqif.md)), the reader's assessment as
 checked by the filer: **bears on it, leaves it open**. Disaggregation
 changes the verdict: the global aggregate hides that the clusters causing
 overshoot and those bearing shortfall are different. The paper also shows

@@ -19,7 +19,7 @@ promote_when: >-
   both global trends and the reported cluster shares within their stated
   ranges.
 summary: >-
-  Fanning & Raworth (2025), read in NOTE-tmproi9j (Read). A third iteration
+  Fanning & Raworth (2025), read in [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md) (Read). A third iteration
   of the Doughnut: 21 dimensions measured by 35 indicators (social
   foundation and ecological ceiling), with time series 2000–2022 for 30 of
   them, plus a 2017 disaggregation of 27 comparable indicators into three
@@ -37,4 +37,4 @@ Fanning and Raworth (2025) find that, measured as 35 indicators each against its
 
 ## Evidence
 
-The reading in NOTE-tmproi9j; its key results are quoted there with locations.
+The reading in [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md); its key results are quoted there with locations.

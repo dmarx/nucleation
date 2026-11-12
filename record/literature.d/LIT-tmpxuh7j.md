@@ -24,7 +24,7 @@ keywords: []
 implementations: []
 summary: >-
   UNESCO (2025), UNESCO, adopted at the 43rd session of the General
-  Conference, Samarkand. Skimmed on 2026-11-12 in NOTE-tmpwjlut: A
+  Conference, Samarkand. Skimmed on 2026-11-12 in [NOTE-tmpwjlut](../notes.d/NOTE-tmpwjlut.md): A
   human-rights-based instrument covering neurotechnology's whole life cycle,
   medical and non-medical, and extending to "indirect neural data and
   non-neural data allowing mental states inferences". Core principles
@@ -32,7 +32,7 @@ summary: >-
   protection against manipulation, mental privacy, prior free and informed
   consent, and specific policy measures for data, employment, consumer
   products, recommender systems, nudging, sleep marketing, neuromarketing
-  and closed-loop environments. Its account is THEORY-tmpv6d66. Registered
+  and closed-loop environments. Its account is [THEORY-tmpv6d66](../theory.d/THEORY-tmpv6d66.md). Registered
   from the exchange "Medical Ethics and Media Enshitification" (2026-11-11),
   where A cited it at A21 §1.
 ---
@@ -46,7 +46,7 @@ UNESCO General Conference (2025). "Recommendation on the Ethics of Neurotechnolo
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmpwjlut). The first global standard-setting
+Skimmed on 2026-11-12 ([NOTE-tmpwjlut](../notes.d/NOTE-tmpwjlut.md)). The first global standard-setting
 instrument on neurotechnology ethics; widens scope from neural data to any
 data used to infer mental states.
 
@@ -54,5 +54,5 @@ data used to infer mental states.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §1. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmpwjlut and its account
-THEORY-tmpv6d66.
+Skimmed on 2026-11-12; the reading is [NOTE-tmpwjlut](../notes.d/NOTE-tmpwjlut.md) and its account
+[THEORY-tmpv6d66](../theory.d/THEORY-tmpv6d66.md).

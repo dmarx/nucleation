@@ -15,7 +15,7 @@ promote_when: >-
   (para 6, 17) and the consent and prohibition provisions in paras 49 and
   140(a) and (e).
 summary: >-
-  UNESCO General Conference (2025), read in NOTE-tmpwjlut (Skimmed). A
+  UNESCO General Conference (2025), read in [NOTE-tmpwjlut](../notes.d/NOTE-tmpwjlut.md) (Skimmed). A
   human-rights-based instrument covering neurotechnology's whole life cycle,
   medical and non-medical, and extending to "indirect neural data and
   non-neural data allowing mental states inferences". Core principles
@@ -35,4 +35,4 @@ UNESCO's Recommendation on the Ethics of Neurotechnology (2025) extends protecti
 
 ## Evidence
 
-The reading in NOTE-tmpwjlut; its key results are quoted there with locations.
+The reading in [NOTE-tmpwjlut](../notes.d/NOTE-tmpwjlut.md); its key results are quoted there with locations.

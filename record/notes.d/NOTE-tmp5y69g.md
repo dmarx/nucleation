@@ -24,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpv9xn3 — Unfetched; filed from the same exchange -->
 
-# NOTE-tmp5y69g: Neighbour of LIT-tmpv9xn3 — Monnier, George, Guyard, Tarnec & Kountouris — MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness
+# NOTE-tmp5y69g: Neighbour of [LIT-tmpv9xn3](../literature.d/LIT-tmpv9xn3.md) — Monnier, George, Guyard, Tarnec & Kountouris — MIFair: A Mutual-Information Framework for Intersectionality and Multiclass Fairness
 
 ## Contribution
 
@@ -46,7 +46,7 @@ None stated beyond the above.
 
 **How far it stands in.** Only for the bare point that aggregate criteria can rank methods differently, shown once. It does not carry the parent's taxonomy, its normative argument or its guidelines. Not held on the record.
 
-Weakly corroborates the parent's abstract on **QUESTION-tmpuftum** and illustrates **CLAIM-371**.
+Weakly corroborates the parent's abstract on **[QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)** and illustrates **[CLAIM-371](../claims.d/CLAIM-371.md)**.
 
 ## Limitations
 

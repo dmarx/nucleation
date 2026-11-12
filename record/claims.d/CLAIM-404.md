@@ -362,7 +362,7 @@ temporal point from the X feed experiment ([LIT-tmpp1gq8](../literature.d/LIT-tm
 followed under the algorithm stayed followed after it was switched off, so
 the evidence channel outlives the steering. No status change.
 
-## Note of 2026-11-12: Neighbour of LIT-tmpvj6mw — Sabour, Liu et al., read
+## Note of 2026-11-12: Neighbour of [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md) — Sabour, Liu et al., read
 
-From the reading in NOTE-tmpfoqe6 (LIT-tmpbye08), the reader's assessment as
+From the reading in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md) ([LIT-tmpbye08](../literature.d/LIT-tmpbye08.md)), the reader's assessment as
 checked by the filer: supports (see parent report).

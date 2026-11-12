@@ -23,10 +23,10 @@ keywords: []
 implementations: []
 summary: >-
   Geddes (2022), DOI-10.1093/pq/pqac044. Read on 2026-11-12 in
-  NOTE-tmp3x5kl: Kingma argued that the foster is part of the gravida,
+  [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md): Kingma argued that the foster is part of the gravida,
   defending this against a "containment" view. Geddes shows that she treats
   rejection of parthood as acceptance of disjointness, so overlooking proper
-  overlap (sharing some but not all parts). Its account is THEORY-tmpc1lto.
+  overlap (sharing some but not all parts). Its account is [THEORY-tmpc1lto](../theory.d/THEORY-tmpc1lto.md).
   Registered from the exchange "Medical Ethics and Media Enshitification"
   (2026-11-11), where A cited it at A13 §1.
 ---
@@ -39,7 +39,7 @@ Alexander Geddes (2022). "Pregnancy, Parthood and Proper Overlap: A Critique of 
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmp3x5kl). A mereological correction: four
+Read on 2026-11-12 ([NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md)). A mereological correction: four
 possibilities (parthood either way, proper overlap, disjointness) must all
 be addressed; criteria for organismality or co-parthood are not criteria for
 one organism's being part of another.
@@ -48,5 +48,5 @@ one organism's being part of another.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md).
 
-Read on 2026-11-12; the reading is NOTE-tmp3x5kl and its account
-THEORY-tmpc1lto.
+Read on 2026-11-12; the reading is [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md) and its account
+[THEORY-tmpc1lto](../theory.d/THEORY-tmpc1lto.md).

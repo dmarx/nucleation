@@ -112,7 +112,7 @@ functional and immunological, are the targets.
 
 ## Note of 2026-11-12: Geddes (2022), read
 
-From the reading in NOTE-tmp3x5kl (LIT-tmpw9l03), the reader's assessment as
+From the reading in [NOTE-tmp3x5kl](../notes.d/NOTE-tmp3x5kl.md) ([LIT-tmpw9l03](../literature.d/LIT-tmpw9l03.md)), the reader's assessment as
 checked by the filer: Geddes is directly on the boundary question and gives
 the condition that tests of "one system" (organismality) do not settle
 part–whole relations between the systems inside it. Leaves it open.

@@ -13,7 +13,7 @@ promote_when: >-
   approximate size of the manipulative-agent effects and the helpfulness
   ratings given in the preprint.
 summary: >-
-  Neighbour of LIT-tmpvj6mw — Sabour, Liu et al., read in NOTE-tmpfoqe6
+  Neighbour of [LIT-tmpvj6mw](../literature.d/LIT-tmpvj6mw.md) — Sabour, Liu et al., read in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md)
   (Read). Between-subjects randomized experiment, 233 participants (Prolific
   and WeChat), financial (purchase) and emotional (conflict) decision
   scenarios, each with one optimal option and hidden-incentive options.
@@ -31,4 +31,4 @@ Sabour, Liu and colleagues (2025) find, in a randomized experiment with 233 part
 
 ## Evidence
 
-The reading in NOTE-tmpfoqe6; its key results are quoted there with locations.
+The reading in [NOTE-tmpfoqe6](../notes.d/NOTE-tmpfoqe6.md); its key results are quoted there with locations.

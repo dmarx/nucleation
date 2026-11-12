@@ -27,7 +27,7 @@ keywords: []
 implementations: []
 summary: >-
   van Roosmalen and Bekker (2024), DOI-10.1146/annurev-micro-041522-092522.
-  Read on 2026-11-12 in NOTE-tmphvgm2: Review of what is proposed about how
+  Read on 2026-11-12 in [NOTE-tmphvgm2](../notes.d/NOTE-tmphvgm2.md): Review of what is proposed about how
   Ophiocordyceps unilateralis s.l. infects carpenter ants and changes their
   behaviour (loss of daily rhythm, reduced communication with nestmates,
   hyperactivity, staggering, summiting, biting at about solar noon, death),
@@ -37,7 +37,7 @@ summary: >-
   aflatrem-like alkaloid cluster, protein tyrosine phosphatases,
   juvenile-hormone modulation, small secreted proteins predicted to bind ant
   GPCRs), and disruption and resetting of the host's biological clock. Its
-  account is THEORY-tmpyje36. Registered from the exchange "Medical Ethics
+  account is [THEORY-tmpyje36](../theory.d/THEORY-tmpyje36.md). Registered from the exchange "Medical Ethics
   and Media Enshitification" (2026-11-11), where A cited it at A19 §8.
 ---
 <!-- inactive-ok-file: THEORY-tmpyje36 — Proposed; filed from the same exchange -->
@@ -49,7 +49,7 @@ Emmeline van Roosmalen and Charissa de Bekker (2024). "Mechanisms Underlying Oph
 
 ## Key takeaways
 
-Read on 2026-11-12 (NOTE-tmphvgm2). An integrative map of candidate
+Read on 2026-11-12 ([NOTE-tmphvgm2](../notes.d/NOTE-tmphvgm2.md)). An integrative map of candidate
 mechanisms for one of the best-studied behavioural-manipulation systems,
 with the question of convergence posed across taxa.
 
@@ -57,5 +57,5 @@ with the question of convergence posed across taxa.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A19 §8. It bears on [CASE-tmp10ykm](../cases.d/CASE-tmp10ykm.md), [QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md).
 
-Read on 2026-11-12; the reading is NOTE-tmphvgm2 and its account
-THEORY-tmpyje36.
+Read on 2026-11-12; the reading is [NOTE-tmphvgm2](../notes.d/NOTE-tmphvgm2.md) and its account
+[THEORY-tmpyje36](../theory.d/THEORY-tmpyje36.md).

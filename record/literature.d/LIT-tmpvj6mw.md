@@ -50,7 +50,7 @@ Sahand Sabour, June M. Liu, Siyang Liu, Chris Z. Yao, Shiyao Cui, Wen Zhang and 
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A23 §4. It bears on [CLAIM-404](../claims.d/CLAIM-404.md).
 
-Unfetched on 2026-11-12. Neighbour read in its place: LIT-tmpbye08. The
+Unfetched on 2026-11-12. Neighbour read in its place: [LIT-tmpbye08](LIT-tmpbye08.md). The
 reader on how far it stands in: arXiv:2502.07663v3, "Human Decision-making
 is Susceptible to AI-driven Manipulation", the same team (same 16 authors)
 and the same randomized experiment with 233 participants. It stands in for

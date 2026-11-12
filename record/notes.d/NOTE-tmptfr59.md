@@ -64,11 +64,11 @@ Reproductive parasites; maternal vs paternal-origin manipulation; positive frequ
 
 **On the LIT's and the exchange's characterization.** Accurate. It could add the priority-effect explanation for CI's prevalence and that the review is about population dynamics, not mechanism.
 
-- **CLAIM-tmpu69tn** (provenance, control and alignment separate): **supports A21's use** of Wolbachia: the manipulation acts on which offspring are produced or survive, not on the host's choices. It also supplies two cases the claim's table lacks, from the review's §IX: foreign-origin material that has become part of the host's own sex determination (Armadillidium), and a host that now depends on the symbiont for female development (Eurema). In these, origin outside, integration as host machinery and mixed alignment come apart, which fits the claim.
-- **CLAIM-354** (autonomy in degrees, incl. viable reachability): **leaves open**. One could read reproductive manipulation as narrowing the host's reachable reproductive outcomes, but the review uses no such framing, and the claim concerns agents' will.
+- **[CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md)** (provenance, control and alignment separate): **supports A21's use** of Wolbachia: the manipulation acts on which offspring are produced or survive, not on the host's choices. It also supplies two cases the claim's table lacks, from the review's §IX: foreign-origin material that has become part of the host's own sex determination (Armadillidium), and a host that now depends on the symbiont for female development (Eurema). In these, origin outside, integration as host machinery and mixed alignment come apart, which fits the claim.
+- **[CLAIM-354](../claims.d/CLAIM-354.md)** (autonomy in degrees, incl. viable reachability): **leaves open**. One could read reproductive manipulation as narrowing the host's reachable reproductive outcomes, but the review uses no such framing, and the claim concerns agents' will.
 
-- Not held under another LIT (no DOI or "Kokko"/"cytoplasmic incompat" hits; "Wolbachia" appears only in NOTE-159, SEP philosophy of microbiology).
-- Further held entries: **CASE-174** (Paulinella) and **CASE-177** (Hodgkinia) — endosymbiosis cases on the record; Brenninger's Eurema and Armadillidium examples are reproductive-manipulator parallels on host dependence and integration of symbiont material.
+- Not held under another LIT (no DOI or "Kokko"/"cytoplasmic incompat" hits; "Wolbachia" appears only in [NOTE-159](NOTE-159.md), SEP philosophy of microbiology).
+- Further held entries: **[CASE-174](../cases.d/CASE-174.md)** (Paulinella) and **[CASE-177](../cases.d/CASE-177.md)** (Hodgkinia) — endosymbiosis cases on the record; Brenninger's Eurema and Armadillidium examples are reproductive-manipulator parallels on host dependence and integration of symbiont material.
 
 ## Limitations
 

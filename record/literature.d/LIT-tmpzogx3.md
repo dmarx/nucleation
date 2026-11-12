@@ -23,13 +23,13 @@ keywords: []
 implementations: []
 summary: >-
   Brenninger et al. (2025), DOI-10.1111/brv.70024. Skimmed on 2026-11-12 in
-  NOTE-tmptfr59: A unified minimal model of the infection dynamics of
+  [NOTE-tmptfr59](../notes.d/NOTE-tmptfr59.md): A unified minimal model of the infection dynamics of
   maternally transmitted endosymbionts (Wolbachia, Rickettsia, Cardinium,
   Spiroplasma and others) that manipulate arthropod reproduction:
   male-killing, feminization, parthenogenesis induction, sex-allocation
   distortion and cytoplasmic incompatibility (CI), in diplodiploid and
   haplodiploid hosts. It gives invasion criteria for single strains and for
-  pairs of manipulators. Its account is THEORY-tmpah8td. Registered from the
+  pairs of manipulators. Its account is [THEORY-tmpah8td](../theory.d/THEORY-tmpah8td.md). Registered from the
   exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A
   cited it at A21 §5.
 ---
@@ -43,7 +43,7 @@ Franziska A. Brenninger, Roman Zug and Hanna Kokko (2025). "Infection dynamics o
 
 ## Key takeaways
 
-Skimmed on 2026-11-12 (NOTE-tmptfr59). One framework (relative fecundity F,
+Skimmed on 2026-11-12 ([NOTE-tmptfr59](../notes.d/NOTE-tmptfr59.md)). One framework (relative fecundity F,
 vertical transmission T, manipulation efficiency β) for all known
 reproductive manipulations, closing gaps where dynamics had not been
 modelled, and contrasting ease of spread with observed incidence.
@@ -52,5 +52,5 @@ modelled, and contrasting ease of spread with observed incidence.
 
 Registered on 2026-11-12 from the exchange "Medical Ethics and Media Enshitification" (2026-11-11), where A cited it at A21 §5. It bears on [CLAIM-tmpu69tn](../claims.d/CLAIM-tmpu69tn.md), [CLAIM-354](../claims.d/CLAIM-354.md).
 
-Skimmed on 2026-11-12; the reading is NOTE-tmptfr59 and its account
-THEORY-tmpah8td.
+Skimmed on 2026-11-12; the reading is [NOTE-tmptfr59](../notes.d/NOTE-tmptfr59.md) and its account
+[THEORY-tmpah8td](../theory.d/THEORY-tmpah8td.md).

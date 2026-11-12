@@ -409,7 +409,7 @@ the recognized set. No status change.
 
 ## Note of 2026-11-12: Fanning & Raworth (2025), read
 
-From the reading in NOTE-tmproi9j (LIT-tmpvzqif), the reader's assessment as
+From the reading in [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md) ([LIT-tmpvzqif](../literature.d/LIT-tmpvzqif.md)), the reader's assessment as
 checked by the filer: **supports, as an illustration from outside**. The
 Doughnut judges each demand against its own acceptance threshold and
 declines a common scale between the social and ecological domains ("no

@@ -54,7 +54,7 @@ the host's own defences and through mere illness (A21 §4).
 
 ## Note of 2026-11-12: van Roosmalen & de Bekker (2024), read
 
-From the reading in NOTE-tmphvgm2 (LIT-tmpwxxvn), the reader's assessment as
+From the reading in [NOTE-tmphvgm2](../notes.d/NOTE-tmphvgm2.md) ([LIT-tmpwxxvn](../literature.d/LIT-tmpwxxvn.md)), the reader's assessment as
 checked by the filer: **bears on it, leaves it open**. The review's sense of
 "manipulation" is the selected-for sense (adaptive to the parasite),
 separated from sickness behaviour, which matches the question's own
