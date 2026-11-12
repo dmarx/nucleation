@@ -4,6 +4,8 @@ title: 'Adler argues that pornography''s move since 2007 to ad-supported, algori
 version: 1
 source:
 - LIT-tmpdak05
+corroborates:
+- CLAIM-tmpcv1pg
 tags:
 - society-and-governance
 - information-retrieval
@@ -22,6 +24,7 @@ summary: >-
   constrain what users see, shape their preferences, and shape what
   producers make.
 ---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
 # THEORY-tmpvmddc: Adler argues that pornography's move since 2007 to ad-supported, algorithm-driven tube sites controlled by one near-monopoly firm makes it a Big Tech speech-platform problem: recommendation, rigid categorization, search-term optimization and data-driven commissioning shape both what users come to want and what producers make, conforming content to the platform's categories and mainstream viewing habits.
 

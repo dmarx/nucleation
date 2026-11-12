@@ -1,7 +1,19 @@
 ---
 status: Proposed
 title: 'The selection that lets economically weighted demand set a product''s design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    The readings of 2026-11-12 weighed in ARG-tmp22y73. Three grounds
+    carried less than the claim cited them for and leave the grounds:
+    Robertson (LIT-tmpox72u) supports selection in headline wording only and
+    its account, THEORY-tmp593fy, corroborates; Bisiani (LIT-tmp1bfvb)
+    documents the outcome but favours cost-driven syndication, and its
+    account, THEORY-tmpulte1, corroborates; Hayes (LIT-tmpk0xvf) is
+    Unavailable and stays cited in the text only. CASE-tmpd5eqf remains a
+    ground. Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,9 +36,6 @@ rests_on:
 - CLAIM-tmpmz271
 grounds:
 - CASE-tmpd5eqf
-- LIT-tmp1bfvb
-- LIT-tmpk0xvf
-- LIT-tmpox72u
 bears_on:
 - QUESTION-441
 summary: >-
@@ -42,6 +51,7 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-tmp7eevo](../arguments.d/ARG-tmp7eevo.md) weighs the transfer from
   games to news.
 ---
+<!-- inactive-ok-file: ARG-tmp22y73 CLAIM-tmpmz271 THEORY-tmp593fy THEORY-tmpulte1 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpf5h7u — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpaa0uz — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpdcebe — Skimmed; the reading filed from the same exchange -->
@@ -252,3 +262,17 @@ politics) invisible, and that AI is adopted partly for audience retention
 and revenue. It also fits the claim's own correction that metrics do not
 mechanically decide: some outlets refuse personalization and public-service
 media design recommenders for diversity. Nothing on investigative capacity.
+
+## Note of 2026-11-12: the readings weighed together
+
+ARG-tmp22y73 weighs the readings of this pass against the claim's three
+steps. Step 2, that investigative and local news benefits people who do not
+pay, is supported by Gao, Lee and Murphy and by Næss. Step 1 is supported at
+the level of headline wording by Robertson and colleagues, a small relative
+effect (2.3% per negative word on a click rate of about 1.4%). Step 3 is
+marked, not tested, by Scalco and colleagues: a demand detector cannot see
+latent demand. The central step, that attention optimization rather than the
+loss of the advertising subsidy costs investigative capacity, is not shown,
+and Gao (whose instrument is the subsidy collapse itself), Bisiani and Næss
+lean to the rival. Robertson, Bisiani and Hayes leave the grounds (version
+2). No status change.

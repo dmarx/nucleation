@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    The readings of 2026-11-12 weighed in ARG-tmp44r8r. Adler (LIT-tmpdak05)
+    moves from grounds to corroboration: its account, THEORY-tmpvmddc,
+    supports the premise that platforms reading demand shape production but
+    not the heavy-user mechanism. Status unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -26,7 +34,6 @@ rests_on:
 complements:
 - CLAIM-tmphgjbz
 grounds:
-- LIT-tmpdak05
 - LIT-tmpccpc6
 bears_on:
 - QUESTION-129
@@ -42,6 +49,7 @@ summary: >-
   what A reported for each. The owner then moved the test to loot boxes
   ([CASE-tmpmw3hc](../cases.d/CASE-tmpmw3hc.md)).
 ---
+<!-- inactive-ok-file: ARG-tmp44r8r THEORY-tmpvmddc — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmp9papc NOTE-tmpxhqv2 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpnvqsr — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
@@ -140,8 +148,8 @@ users" is confirmed to exist, not that they set the product.
 ## Note of 2026-11-12: Gan, Gacha Game: When Prospect Theory Meets Optimal Pricing, read
 
 From the reading in [NOTE-tmpnvqsr](../notes.d/NOTE-tmpnvqsr.md) ([LIT-tmpzbm28](../literature.d/LIT-tmpzbm28.md)), the reader's assessment as
-checked by the filer: - Bears on **CLAIM-tmpcv1pg** only through the case,
-and not on its escalation half.
+checked by the filer: it bears on this claim only through CASE-tmpmw3hc,
+as a control that case needs, and not on its escalation half.
 
 ## Note of 2026-11-12: de Roos and Willkomm, read
 
@@ -218,3 +226,15 @@ From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8]
 checked by the filer: the feed demotes news-organization posts by 58% and
 raises engagement, consistent with the claims' selection picture at the
 distribution layer; no bearing on investigative capacity.
+
+## Note of 2026-11-12: the readings weighed together
+
+ARG-tmp44r8r weighs the readings of this pass against both halves of the
+claim: Adler, Amano and Simonov, Close, Gan, Ince, de Roos and Willkomm, and
+Hu and colleagues, with Shor and Liu 2025 noted as unread. Its verdict: the
+premise that activity-read demand shapes production stands on one reading;
+the structural half is not shown, and the one study able to test it (Amano
+and Simonov) finds a firm balancing its heaviest spenders against everyone
+else rather than following them; the escalation half is unsupported, since
+what was measured is self-reported, cross-sectional and low. Adler moves
+from this claim's grounds to corroboration (version 2). No status change.

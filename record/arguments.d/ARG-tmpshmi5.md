@@ -27,6 +27,8 @@ summary: >-
   part of the owner's claim. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmp44r8r — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmpccpc6 — Unavailable; filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmp9goww — Unavailable; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-tmpagy32 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-tmpcv1pg CLAIM-tmpmz271 CASE-tmpmw3hc — filed from the same exchange, Proposed -->
@@ -91,3 +93,12 @@ From the reading in [NOTE-tmp0g2i6](../notes.d/NOTE-tmp0g2i6.md) ([LIT-tmpf67mb]
 checked by the filer: **supports** its verdict that the escalation evidence
 is "small, observational and self-reported": this study is cross-sectional,
 single-item for genre escalation, and self-report.
+
+## Note of 2026-11-12: the works read
+
+This argument weighed A's reports of the works. Most of them have now been
+read, and ARG-tmp44r8r weighs the readings. It reaches the same verdict on
+the escalation half and a firmer one on the structural half: Amano and
+Simonov's transaction data show a firm not following its heaviest spenders.
+The evidence here that was A's report is superseded by those readings for
+anything they cover.

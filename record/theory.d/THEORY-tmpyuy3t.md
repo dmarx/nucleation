@@ -5,7 +5,6 @@ version: 1
 source:
 - LIT-tmpfw2u8
 corroborates:
-- CLAIM-tmpoxhqq
 - CLAIM-tmpu69tn
 tags:
 - ecology
@@ -23,6 +22,7 @@ summary: >-
   Effect size is Cohen's d for infected vs uninfected hosts, signed by
   assumed effect on predation susceptibility.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # THEORY-tmpyuy3t: Hafer-Hahmann's phylogenetic meta-analysis of 1,635 observations on trophically transmitted helminths finds that mature parasites consistently make hosts more susceptible to predation while immature stages have little or inconsistent effect, that mature parasites dominate mixed infections, that manipulation is stronger when the correct predator is present, and that phylogeny and the ecological drivers theory proposes explain little of the variation.
 

@@ -1,11 +1,18 @@
 ---
 status: Proposed
 title: 'The parasite cases, with manipulation stronger in mature parasite stages and in the presence of the right predator, are evidence that the hosts'' behaviour is controlled by the parasites'' selected adaptations; they are no evidence for or against the parasites'' representing goals'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Hafer-Hahmann is now read: the ground LIT-tmpfw2u8 is replaced by its
+    account, THEORY-tmpyuy3t. Its premise that illness does not predict
+    stage- or predator-dependence is qualified by ARG-tmpj1cce.
 form: evidence
 grounds:
 - CASE-tmp10ykm
-- LIT-tmpfw2u8
+- THEORY-tmpyuy3t
 - LIT-tmpawef9
 concludes:
 - CLAIM-tmpoxhqq
@@ -26,6 +33,7 @@ summary: >-
   evidence of absence. Proposed. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmpj1cce THEORY-tmp82z5p THEORY-tmpyuy3t — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpoxhqq — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpawef9 LIT-tmpk1h9j — Deferred; registered from the same exchange, unread -->
 
@@ -79,3 +87,13 @@ predator-dependence premise is now read and confirmed; but the predator
 effect is weaker than A's gloss (for immature parasites "their manipulation
 never clearly differed from zero"), drivers predicted by theory were not
 found, and publication bias inflates mature-stage effects.
+
+## Note of 2026-11-12: Sullivan, read, and the premise about illness
+
+This argument's premise was that stage- and predator-dependence is what an
+adaptation predicts and illness does not. Sullivan, Dulac and colleagues
+(THEORY-tmp82z5p, a preprint) show that illness does predict specificity:
+sterile challenges produce pathogen-specific sickness states, social
+behaviour included. The premise survives in its narrower form, dependence on
+the parasite's stage, which a host response to a pathogen's presence does
+not predict; ARG-tmpj1cce sets out the contrast.

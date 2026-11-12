@@ -22,7 +22,7 @@ history:
     (ADR-041); an abstract, where seen, is not a reading. Its commentary
     cluster in the Journal of Medical Ethics is registered: Dranseika
     (LIT-tmpoeqhr, read as the neighbour), Blackshaw (LIT-tmp2wjr6),
-    Emmerich (LIT-tmpgy7qr), Faulconer (LIT-tmp47zld) and Devanesan's reply
+    Emmerich (LIT-tmpahwrq, already held), Faulconer (LIT-tmp47zld) and Devanesan's reply
     (LIT-tmplqnu5), each checked on Crossref. 2026-04-15, the online-first
     date Dranseika's reference gives, stands.
 - version: 1
@@ -42,7 +42,8 @@ implementations: []
 summary: >-
   Devanesan (2026), DOI-10.1136/jme-2025-111517. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on [THEORY-448](../theory.d/THEORY-448.md), [TERM-083](../terms.d/TERM-083.md). In A's account, which is unverified until read, it argues that accounts of fetal parthood change which analogies (bodily invasion, Thomson's violinist) fit, without settling whether abortion is permissible.
 ---
-<!-- inactive-ok-file: LIT-tmp2wjr6 LIT-tmp47zld LIT-tmpgy7qr LIT-tmplqnu5 — Deferred; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmpahwrq — Unfetched; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmp2wjr6 LIT-tmp47zld LIT-tmplqnu5 — Deferred; filed from the same exchange -->
 <!-- inactive-ok-file: TERM-083 THEORY-448 — Proposed; cited as on the record -->
 
 # LIT-tmph5uj8: Ethical implications of the mereology of pregnancy

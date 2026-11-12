@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Behaviour-manipulating parasites show one organism''s selected adaptations controlling another''s behaviour through the host''s own machinery, not goals the parasite represents and imposes: evolutionary goal-directedness and causal control come apart from intentional agency, and that an action is executed by the host''s own mechanisms does not show that the host''s governance of it is independent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Hafer-Hahmann is now read: the ground LIT-tmpfw2u8 is replaced by its
+    account, THEORY-tmpyuy3t. Sullivan, Dulac and colleagues' reading
+    qualifies the evidence the claim can use; ARG-tmpj1cce weighs the two.
+    Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,7 +33,7 @@ answers:
 - QUESTION-tmpgciew
 grounds:
 - CASE-tmp10ykm
-- LIT-tmpfw2u8
+- THEORY-tmpyuy3t
 summary: >-
   A's (ChatGPT's), A19 §§1, 3 and 8 of the exchange "Medical Ethics and
   Media Enshitification" (2026-11-11), answering the owner's U9
@@ -38,6 +46,7 @@ summary: >-
   [ARG-tmp1jad4](../arguments.d/ARG-tmp1jad4.md) weighs the evidence. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmpj1cce THEORY-tmpyuy3t — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-tmpcqa6k — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-tmp10ykm — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: ARG-tmp1jad4 — filed from the same exchange, Proposed -->
@@ -134,3 +143,16 @@ From the reading in [NOTE-tmpcqa6k](../notes.d/NOTE-tmpcqa6k.md) ([LIT-tmpxupl8]
 checked by the filer: **supports by extension**: control by selected
 adaptations through the host's own machinery (its hormones), with plasticity
 in direction that is what adaptation, not pathology, predicts.
+
+## Note of 2026-11-12: Sullivan and Hafer-Hahmann weighed together
+
+ARG-tmpj1cce weighs the two readings. Sullivan, Dulac and colleagues show
+that a pathogen-specific behaviour change, a pro-social one after a
+Toxoplasma antigen included, is produced by the host's own sickness
+programmes with no pathogen acting, so behaviour alone is no evidence of
+manipulation. Hafer-Hahmann shows the evidence that does discriminate,
+mature helminths altering their hosts and immature ones not, but for
+trophically transmitted helminths only. The causal-control half is supported
+for that group; for hosts whose change could be their own response,
+Toxoplasma first, it is not yet. Hafer-Hahmann's reading replaces its LIT in
+the grounds (version 2). No status change.

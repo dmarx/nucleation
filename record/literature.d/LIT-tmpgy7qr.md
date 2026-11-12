@@ -1,12 +1,16 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-12, not read. A commentary on [LIT-tmph5uj8](LIT-tmph5uj8.md), found by its
-  reader in the reading pass after the exchange "Medical Ethics and Media
-  Enshitification" (2026-11-11). Closed access; no copy was sought.
+status: Superseded
+superseded_by: LIT-tmpahwrq
 title: 'Mereology''s significance: pregnancy, abortion and contragestion'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Superseded by LIT-tmpahwrq, which already held this work under the same
+    DOI; the duplicate was registered in error when the commentary cluster
+    on LIT-tmph5uj8 was filed, because the filer's duplicate check missed
+    it. Retired by status, not deleted.
 - version: 1
   date: '2026-11-12'
   note: >-
@@ -29,6 +33,7 @@ summary: >-
   [LIT-tmph5uj8](LIT-tmph5uj8.md), by its title on what mereology changes for pregnancy,
   abortion and contragestion. Not read.
 ---
+<!-- inactive-ok-file: LIT-tmpahwrq — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmph5uj8 — Unavailable; filed from the same exchange -->
 
 # LIT-tmpgy7qr: Mereology's significance: pregnancy, abortion and contragestion

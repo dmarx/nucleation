@@ -29,6 +29,7 @@ summary: >-
   the test of whether one organism can set the ends another's machinery
   pursues ([QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md)).
 ---
+<!-- inactive-ok-file: ARG-tmpj1cce — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpwasqi LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
 
@@ -102,3 +103,14 @@ From the reading in [NOTE-tmp1p0ry](../notes.d/NOTE-tmp1p0ry.md) ([LIT-tmpfw2u8]
 checked by the filer: **leaves open.** The meta-analysis covers helminths,
 not these taxa; it supports the general phenomenon, not the case's
 particulars.
+
+## Note of 2026-11-12: what would separate manipulation from host response
+
+ARG-tmpj1cce, from the readings of Sullivan, Dulac and colleagues and of
+Hafer-Hahmann: a behaviour change specific to the parasite does not show
+manipulation, since the host's own sickness programmes produce such changes
+with no parasite acting, and Sullivan's Toxoplasma antigen raised social
+interaction in sterile mice. What would separate them is dependence on the
+parasite's stage, which Hafer-Hahmann finds in trophically transmitted
+helminths but which no reading here shows for this case's taxa. The case
+stays open on that point.
