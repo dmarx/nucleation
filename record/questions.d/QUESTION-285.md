@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpubsi9
 title: 'What organization turns an interaction into a measurement, a measurement into a record that something uses, and observation into inquiry, without a conscious investigator; and what keeps an apparatus that revises its own discriminations answerable to what it did not produce?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    The first note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12:
+    CLAIM-tmpkr3ti's absence is evidence in general and entailment only
+    under a validated guarantee. A second note of the same day records the
+    review's research problem. The question is unchanged.
 tags:
 - epistemology
 - philosophy-of-science
@@ -254,8 +262,10 @@ detector that sets off sprinklers ([CASE-tmpv6i22](../cases.d/CASE-tmpv6i22.md))
 differentiated, kept and enforced with no one present: the rung of use,
 reached by design. The debugger's test ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)) adds what the
 rungs did not have, a meaning carried by an absence: under an
-intervention with an expected profile, silence means the mechanism is
-broken ([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md), the owner's). A10 §6 adds the condition, that an
+intervention with an expected profile, silence is evidence that the
+mechanism is broken, and entails it only under a validated guarantee
+(CLAIM-tmpkr3ti, the owner's, as narrowed at the review of #483 the owner
+relayed on 2026-11-12). A10 §6 adds the condition, that an
 absence registers only for an apparatus that opens an interval, keeps
 the expectation and times out ([CLAIM-tmpz1xb5](../claims.d/CLAIM-tmpz1xb5.md), A's). A non-sentient
 tester can be that apparatus. A's construction ([CASE-tmpl4kyp](../cases.d/CASE-tmpl4kyp.md)) carries
@@ -296,3 +306,24 @@ them. It would need one of two rulings:
 
 The map such an account would carry is in the curation entry of
 2026-11-12 (020028) and in this question's note above. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-12: the review's research problem, held here
+
+<!-- inactive-ok-block: CASE-tmpaky45 CLAIM-tmpz1xb5 CASE-tmpl4kyp CASE-tmp5ijqy CASE-163 — filed in this pull request or Proposed, cited with their standing -->
+The review of #483 the owner relayed on 2026-11-12 names "the next research problem": "Can a
+system make its own unexpected non-responses informative, use them to
+discover failures in its organization, and revise the criteria by which
+future non-responses become informative?" It names three accomplishments
+not to be conflated: detecting a discrepancy; diagnosing its cause;
+changing the apparatus that determines what counts as a discrepancy.
+This question already holds the problem, applied to non-responses.
+Detecting is the rung of use (the debugger's test, CASE-tmpaky45, with
+CLAIM-tmpz1xb5 for what registering a bounded non-response takes).
+Diagnosing is identification among candidate mechanisms (CASE-152,
+CASE-163; CASE-tmpl4kyp). Changing the apparatus that defines a
+discrepancy is the top rung, where G "can change which distinctions A
+makes", and the second clause asks what keeps that revision answerable.
+The review's further question, whether the third gives meaning for the
+system itself as opposed to externally specified functionality, is
+QUESTION-128's. No new question is filed. The proposed study that would
+test the third accomplishment is CASE-tmp5ijqy. The question stays Open.

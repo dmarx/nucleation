@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpowurn
 title: 'Does the record''s organizational account give a path to normativity from first principles: can norms of function and failure be defined from an organization''s own dynamics, and what more do practical and moral authority need?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,13 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    The note of 2026-11-12 is corrected at the review of #483 the owner relayed on 2026-11-12:
+    CLAIM-tmpkr3ti now reads the debugger's silence as evidence, not as
+    entailment. A second note of the same day records the review's forager
+    study. The question is unchanged.
 tags:
 - ethics
 - philosophy-of-biology
@@ -149,6 +156,22 @@ its success, and the anticipation can be false by the system's own
 lights, so the expected profile is the system's. The detector has no
 viability of its own, so on Bickhard's, Di Paolo's ([THEORY-628](../theory.d/THEORY-628.md)) and
 Barandiaran's ([THEORY-217](../theory.d/THEORY-217.md)) accounts its norm is borrowed. The owner's
-claim that the debugger's silence means the mechanism is broken
-([CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md)) is true against the designer's profile and says
+claim that the debugger's silence is evidence of a broken mechanism
+(CLAIM-tmpkr3ti, narrowed at the review of #483 the owner relayed on
+2026-11-12) holds against the designer's response model and says
 nothing on this question. The question stays Open.
+
+## Note of 2026-11-12: a study of endogenous revision, at the review of #483
+
+<!-- inactive-ok-block: CASE-tmpfobkh CASE-tmp5ijqy THEORY-tmp0d8vu — filed in this pull request, Proposed -->
+The review of #483 the owner relayed on 2026-11-12 found that the two-profile forager (CASE-tmpfobkh)
+"compares two criteria, not endogenous norm formation", and asked for a
+forager whose criterion of failure is revisable. The proposed study is
+CASE-tmp5ijqy. A learner predicts its own loss of viability from
+environmental features and revises its probes and profile. It is set
+against fixed, designer, oracle and frozen-criterion arms, under changes
+it was not trained on. It would bear on this question if the learner
+revises its criteria and not only its estimates. Its main threat is the
+one this question presses: the designer still chose the learning rule
+and the viability variable (THEORY-tmp0d8vu). Not run. The question
+stays Open.

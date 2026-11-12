@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: "Bickhard's account and the two-profile forager show that a profile set by a system's own upkeep is a norm different from a designer's, with the same silent case and different verdicts where persistence is at stake"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Step 2 restates CLAIM-tmpkr3ti as revised at the review of #483 the owner relayed on 2026-11-12
+    (evidence in general, entailment under a deterministic guarantee). The
+    inference is unchanged.
 form: existence
 grounds:
 - THEORY-220
@@ -36,8 +43,10 @@ summary: >-
 1. [THEORY-220](../theory.d/THEORY-220.md): a self-maintaining system's selection of an interaction
    anticipates its success, and the anticipation can be false by the
    system's own lights.
-2. [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md): an absence under an expected response profile means
-   that what was tested failed.
+2. CLAIM-tmpkr3ti: an absence under an expected response profile is
+   evidence that what was tested failed, and entails it under a
+   deterministic guarantee. The forager's profile is deterministic, so
+   in CASE-tmpfobkh its registered failures are of the second kind.
 3. [CASE-tmpfobkh](../cases.d/CASE-tmpfobkh.md): there is a construction in which a profile fixed by the
    system's upkeep and a stored designer's profile agree on a silent patch
    (S3) and give opposite verdicts in S2 and S4. Recomputed exactly:

@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: "The debugger's test: a detector that stays silent when test smoke is put to it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Revised at the review of #483 the owner relayed on 2026-11-12: "What it can show" now
+    gives CLAIM-tmpkr3ti's two readings (defeasible evidence, and entailment
+    only under a validated guarantee) in place of the claim's old wording,
+    that the silence means the mechanism is broken. No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -92,7 +100,10 @@ detector does too.
 - **That an absence can carry the meaning (the owner's point).** The
   detector emits nothing. What the debugger reads is a non-event, and it
   reads it as evidence only because the debugger put an intervention
-  with an expected response to the system. [CLAIM-tmpkr3ti](../claims.d/CLAIM-tmpkr3ti.md) states it.
+  with an expected response to the system. CLAIM-tmpkr3ti states it in
+  two readings: under a probabilistic response model the silence shifts
+  support toward a fault, and only under a deterministic, independently
+  validated guarantee does it entail that the guarantee was violated.
 - **[CLAIM-414](../claims.d/CLAIM-414.md) in its simplest instance.** A healthy and a broken detector
   "agree under ordinary operation", both silent in clean air, and "a
   specified intervention exposes the difference that passive observation

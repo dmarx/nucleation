@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'A fire-alarm chain probed at four points: one silent test detects a fault without locating it, four probes locate any single fault, and matched recovery rates hide different repair organizations until the outside service is withdrawn'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Result 2 now says that its numbers are CLAIM-tmpkr3ti's defeasible
+    reading, evidence and not entailment, as the claim was narrowed at
+    the review of #483 the owner relayed on 2026-11-12. The review asked
+    that the single-fault calculations and the matched-recovery example
+    stay as illustrations; they do. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -35,7 +44,7 @@ summary: >-
   case is their smallest common substrate. The construction's wording is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpv6i22 CASE-tmpaky45 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-tmpv6i22 CASE-tmpaky45 CLAIM-tmpkr3ti — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-163 CASE-202 THEORY-1092 — Proposed; the held cases and reading the construction restates, with their standing -->
 
 # CASE-tmpl4kyp: A fire-alarm chain probed at four points: one silent test detects a fault without locating it, four probes locate any single fault, and matched recovery rates hide different repair organizations until the outside service is withdrawn
@@ -84,6 +93,9 @@ Rechecked on 2026-11-12 with a short script from A's stated assumptions
    99.49%. That prior already gives a fault 0.8 before any test; A10
    calls it "an illustrative uniform prior". After all four probes return the sensor
    pattern, P(sensor failed) = 0.9604/1.0004 ≈ 96.00%.
+   These are the defeasible reading of CLAIM-tmpkr3ti at work. The silence
+   shifts support by its likelihood ratio and entails nothing: with a 2%
+   error rate, a healthy chain is silent under test one time in fifty.
 3. **Detecting against using (A10 §3).** With a faulty sensor, an
    independent evaluator acts on the silent test; an evaluator that
    suppresses contradicting results does not, though the mismatch is

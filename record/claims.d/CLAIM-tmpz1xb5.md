@@ -1,19 +1,41 @@
 ---
 status: Proposed
-title: 'An absence of response is a distinction only for an apparatus that opens an interval, keeps the expected response through it and registers its non-occurrence at a deadline; such an apparatus need not be sentient, but without one nothing is there to carry the meaning'
-version: 1
+title: 'To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient'
+version: 2
+history:
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Narrowed at the review of #483 the owner relayed on 2026-11-12. The
+    review found the unrestricted version too strong. A deadline "may be
+    sufficient but not necessary" for a meaningful absence: a fail-safe
+    relay that must stay energized to hold a valve closed opens it when
+    the current stops, an absence with an immediate consequence and no
+    separately initiated test, stored expectation or timeout
+    (CASE-tmp4gw3m). The claim is now about registering a bounded
+    non-response, in the review's sentence. The fail-safe relay marks the
+    claim's scope; it is not a counterexample to the narrowed claim. The
+    review also called this claim's point "a central result of the
+    inquiry". Old title: An absence of response is a distinction only
+    for an apparatus that opens an interval, keeps the expected response
+    through it and registers its non-occurrence at a deadline; such an
+    apparatus need not be sentient, but without one nothing is there to
+    carry the meaning.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A system whose later behaviour depends on whether a response failed to
-  occur, with no state of any part of it, or of anything coupled to it,
-  that marks the start of the interval and persists until the response
-  would have been due: for example a non-occurrence that changes what
-  happens next by itself, with nothing having been set to wait for it.
-  Also defeated as a thesis of its own if it only restates TERM-089's
-  differentiation and retention, applied to non-events; then it belongs
-  in a note on the term. Not defeated by an apparatus that is a person:
-  the claim says sentience is not required, not that it is excluded.
+  A system that classifies a trial as "expected event did not occur
+  within the interval" correctly and reliably, while no part of it, or of
+  anything coupled to it, physically marks which interval was the tested
+  one or keeps a state that tells the tested interval's outcome from its
+  alternatives at classification time. Also defeated, as a claim with
+  content of its own, if it only restates TERM-089's differentiation and
+  retention applied to non-events; then it belongs in a note on the term.
+  Not defeated by a consequential absence that is not registered as the
+  failure of an expected event, such as the fail-safe relay
+  (CASE-tmp4gw3m): that is outside the claim's scope. Not defeated by an
+  apparatus that is a person: the claim says sentience is not required,
+  not that it is excluded.
 tags:
 - epistemology
 - philosophy-of-language
@@ -27,30 +49,35 @@ grounds:
 bears_on:
 - QUESTION-285
 summary: >-
-  A10 §6 of the exchange "Meaning Transmission Explained" (2026-11-07),
-  with A5 §3's automated debugger, on the owner's debugging case
-  ([CASE-tmpaky45](../cases.d/CASE-tmpaky45.md)) and claim ([CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md)). A10: "**Silence is not
+  From A10 §6 of the exchange "Meaning Transmission Explained"
+  (2026-11-07), with A5 §3's automated debugger, on the owner's debugging
+  case (CASE-tmpaky45) and claim (CLAIM-tmpkr3ti). A10: "**Silence is not
   literally an object transmitted from the broken detector to the
-  debugger.**" Something "must establish an observation interval,
-  maintain the expectation, and record the failure to respond before a
-  deadline"; "The absence becomes an observable distinction because the
-  apparatus organizes it as one." In [TERM-089](../terms.d/TERM-089.md)'s terms, a non-event is
-  differentiated only by an apparatus that retains the test's start. The
-  claim says what the owner's absence needs to carry meaning, and that
-  it needs no sentient party. [CLAIM-312](CLAIM-312.md)'s deadline-bound search is the
-  record's nearest held case. The wording is A's; adopting it is the
-  owner's call.
+  debugger.**" Narrowed at the review of #483 the owner relayed on
+  2026-11-12 to diagnosis by bounded non-response, in the review's
+  sentence: "To register that an expected event failed to occur within a
+  specified interval, an apparatus must physically distinguish the tested
+  interval from its alternatives and retain enough state to classify the
+  outcome." The fail-safe relay (CASE-tmp4gw3m) shows that an absence can
+  matter without any of this, and marks the claim's scope. CLAIM-312's
+  deadline-bound search is the record's nearest held case. The wording is
+  A's and the review's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmpkr3ti — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CASE-tmpaky45 CLAIM-tmpkr3ti CASE-tmp4gw3m — filed from the same exchange, Proposed -->
 
-# CLAIM-tmpz1xb5: An absence of response is a distinction only for an apparatus that opens an interval, keeps the expected response through it and registers its non-occurrence at a deadline; such an apparatus need not be sentient, but without one nothing is there to carry the meaning
+# CLAIM-tmpz1xb5: To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient
 
 ## The claim
 
-A10 §6 of the exchange "Meaning Transmission Explained"
-(https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7), called
-there "one refinement to our earlier formulation that I think is
-essential":
+The sentence is the review's (the review of #483 the owner relayed on
+2026-11-12):
+
+> To register that an expected event failed to occur within a specified
+> interval, an apparatus must physically distinguish the tested interval
+> from its alternatives and retain enough state to classify the outcome.
+
+It narrows A10 §6 of the exchange "Meaning Transmission Explained"
+(https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7):
 
 > **Silence is not literally an object transmitted from the broken
 > detector to the debugger.** For an automated system to register the
@@ -58,54 +85,57 @@ essential":
 > observation interval, maintain the expectation, and record the failure
 > to respond before a deadline.
 
-A10 writes the rule as: test initiated ∧ no alarm before τ ⇒ diagnostic
-discrepancy. "The timeout is an event implemented by the diagnostic
-apparatus."
+A10's start, stored expectation and timeout are one way to meet the
+review's condition, not the condition itself.
 
 ## The argument
 
-[TERM-089](../terms.d/TERM-089.md)'s apparatus "makes some physical differences produce distinct
-outcomes" (differentiation) and may keep them (retention). An occurrence
-can drive an outcome by itself: the alarm current opens a valve. A
-non-occurrence cannot, since nothing happens at any moment that could
-drive the outcome. For the outcome to depend on whether the alarm failed
-to sound in [t₀, τ], some state has to carry the fact that the test began
-at t₀ until τ, and something has to change at τ according to whether the
-alarm came. That is retention, an interval and a deadline. Without them
-the detector's silence under test and its silence in clean air leave the
-same trace, so there is nothing for the owner's "means" to be true of.
+TERM-089's apparatus "makes some physical differences produce distinct
+outcomes" (differentiation) and may keep them (retention). To classify a
+trial as "the expected event did not occur in [t₀, τ]", the apparatus's
+state at classification has to differ according to that outcome. It has
+to differ from the case where the event occurred in the interval, and
+from the case where no trial was run. A non-occurrence drives nothing at
+any moment. So the difference has to be carried by a state that marks
+the tested interval and persists until the outcome is classified. That
+is the review's "physically distinguish the tested interval from its
+alternatives and retain enough state". Without it, the detector's silence
+under test and its silence in clean air leave the same trace. There is
+then nothing for the owner's absence to be evidence of
+(CLAIM-tmpkr3ti).
 
 Nothing in this needs a sentient party. A5 §3's automated tester holds
 the stored profile, a timer and a switch to the backup detector: "No
 sentient entity participates in that particular diagnostic event."
 
-## Where it sits
+## Scope
 
-- **It conditions the owner's claim; it does not compete with it.**
-  [CLAIM-tmpkr3ti](CLAIM-tmpkr3ti.md) says an absence under an intervention with an expected
-  profile means the mechanism is broken. This says what has to be there
-  for the absence to be anything: the debugger, or a machine that does
-  the debugger's holding and timing.
-- **[CLAIM-312](CLAIM-312.md) is the held case nearest it.** A search that fails by the
+- **Registering, not mattering.** An absence can have consequences
+  without being registered as the failure of an expected event. In the
+  fail-safe relay (CASE-tmp4gw3m) a valve opens because current stops,
+  with no test, stored expectation or timeout. The review: "physical
+  organization (relay state, spring, coupling) is still required, but
+  that is a more general condition." The relay marks the edge of this
+  claim's scope, and the claim does not cover it.
+- **CLAIM-312 is the held case nearest it.** A search that fails by the
   deadline "establishes unavailability outright"; absence needs a
-  further certificate. The deadline does the same work here: what the
-  timed-out test establishes is a failure to respond within τ, not that
-  a response could never come.
-- **[QUESTION-285](../questions.d/QUESTION-285.md)'s rungs.** The timer and the stored expectation are a
-  record that something uses, so the claim places diagnosis by silence
+  further certificate. A bounded test establishes a failure to respond
+  within the interval, not that a response could never come.
+- **QUESTION-285's rungs.** The marked interval and the retained state are
+  a record that something uses, so diagnosis by bounded non-response sits
   at the rung of use, with no conscious investigator.
 
 ## What it does not say
 
+- That every consequential absence needs a test or a deadline. The
+  version before the review said this, and the fail-safe relay shows it
+  too strong.
 - That the interval and the expectation must be designed. In A's tester
-  they are; whether a system could set its own is [QUESTION-128](../questions.d/QUESTION-128.md)'s
-  question, which A10 §6 leaves "unproved".
-- That every absence a person notices is registered this way in a brain.
-  The claim is about what a non-sentient apparatus needs, and the
-  owner's debugger is a person.
+  they are. Whether a system could set its own is QUESTION-128's
+  question.
 
 ## Admission
 
-Filed as a claim of A's with content of its own ([ADR-072](../decisions.d/ADR-072.md)), not as the
-addition of a synthesis. The derivation above is short, and the
-defeater names the objection that it only restates [TERM-089](../terms.d/TERM-089.md).
+Filed as a claim of A's with content of its own (ADR-072), narrowed by the
+review. The derivation above is short. The defeater names the objection
+that it only restates TERM-089.
