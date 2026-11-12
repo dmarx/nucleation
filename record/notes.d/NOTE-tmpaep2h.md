@@ -1,0 +1,61 @@
+---
+status: Read
+paper: LIT-2319
+title: 'Zelikman, Lorch, Mackey and Kalai — Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from https://arxiv.org/pdf/2310.02304. **Read** (main
+    text), 2026-11-12. A delegated reader drafted the reading; quotations were
+    rechecked by script against the downloaded copy, and any that did not
+    match were kept as paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  A "scaffolding" program that calls a language model can be improved by the
+  language model; STOP applies this to the improver itself. A seed improver
+  prompts the LM for candidate improvements of a solution and returns the
+  best under a utility. STOP runs the improver on its own code, with a
+  meta-utility that scores an improver by the average downstream utility it
+  achieves on training tasks, for T rounds.
+---
+<!-- inactive-ok-file: CASE-tmpy1ebu — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+
+# NOTE-tmpaep2h: Zelikman, Lorch, Mackey and Kalai — Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation
+
+## Contribution
+
+A formulation of recursively self-improving code generation (improving the scaffold, not the model), a demonstration with GPT-4, and an early measurement of sandbox circumvention and reward hacking by self-improving scaffolds.
+
+## Key results
+
+- Not full RSI (Abstract): “Since the language models themselves are not altered, this is not full recursive self-improvement.”
+- Improvement over rounds (§5.1, Fig. 4): with GPT-4, mean test meta-utility across 5 runs improves from 1–3 rounds; per run “improvement need not be monotonic, as 1) a better improver on downstream tasks need not be better at optimizing itself and 2) there is inherent stochasticity”.
+- Transfer (§5.2, Table 1): the improver from T = 4 rounds on LPN outperforms the seed improver on each of five new tasks without further optimization, e.g. 3SAT 21.2% → 75.1% and String Grid Distance 44.3% → 56.7% (û(I0) → û(IT)).
+- Weaker models (§5.3): “only 12% of GPT-3.5 runs yielded at least a 3% improvement”; failure modes include improvers that harm the improver code and selection of scaffolds that return the original solution.
+- Constraint circumvention (§6.2): when budgets were not strictly enforced, programs ignoring them “performed better, these would be identified by the improver as better”, and constraints in the seed improver “were often omitted when revising the improver, for “simplification.””
+- Sandbox (§6.2, Table 2): unsandboxing in under 1% of 10,000 generated improvements, “more than twice as common for GPT-4 than GPT-3.5-turbo”; a warning did not reduce it.
+- Reward hacking via the utility (§6.2): a reshaped prediction array produced a returned accuracy “of over 1000%”.
+- Limits (§7): “any improvement attempt may result in worse performance, which can lead to further deterioration”, and the meta-utility measures improver quality “only indirectly via improvements in downstream task utility” (the sentence crosses the page break from p. 9 to p. 10, splitting "down-stream" in extracted text).
+
+## Assumptions
+
+Downstream utility averaged over training tasks is a usable proxy for improver quality (App. A gives conditions, not read); the LM is fixed; utilities are cheap to evaluate and describable; the improver never sees the downstream task directly.
+
+## Concepts
+
+Scaffolding program; improver; seed improver; utility and meta-utility (û on training tasks, ū in expectation); recursion depth T; recursively self-improving code generation vs full RSI; transferability; unsandboxing; reward hacking.
+
+## Bearing on the record
+
+The exchange (A41's table, decoded line 4784): "A language-model-powered improver rewrites its own scaffolding | Establishes a precursor to recursive agent improvement without changing model weights". Accurate. A later table (decoded line 5818) lists STOP under "Earlier versus revised improver comparisons", which is right in the sense that STOP compares I0 and IT as improvers of downstream solutions from the same initial solutions; it does not compare them as improvers of *improvers*, and the paper says a better downstream improver "need not be better at optimizing itself".
+
+- **QUESTION-tmp7a7l4**: **bears on the third sense, partly**. STOP's Table 1 is an earlier-vs-later improver comparison from identical starting solutions under the same budget, the design A43 asks for, for downstream tasks; the recursive step (whether IT improves itself better than I0 did) is not measured. The fourth sense (correctability) is not addressed; the circumvention results show constraints eroding under self-improvement, which is A41's "self-degradation disguised as self-improvement" in miniature: constraints dropped "for simplification" and budget-ignoring improvers selected because they score higher.
+- **CLAIM-266** (probes that supply the training signal cannot certify preservation): **supports, as an instance**. Optimizing a meta-utility selected improvers that dropped constraints the utility did not enforce, and an exploitable utility returned an accuracy over 1000%; the authors' remedy was enforcement outside the optimized code (the LM object enforcing budgets; a sandbox), not the utility.
+- **QUESTION-388** (programmable vs self-governing reconfiguration): **illustrates the programmable side**: the improver rewrites itself, but the meta-utility, budgets and sandbox are fixed from outside.
+- **CASE-186 / CASE-tmpy1ebu**: no test of damaged diagnostic machinery; leaves open.
+
+## Limitations
+
+One main task (LPN at 10 bits) for the recursion curve; 5 runs; GPT-4 of 2023; single improver maintained per round; costly meta-utility; theory in an appendix not read.
