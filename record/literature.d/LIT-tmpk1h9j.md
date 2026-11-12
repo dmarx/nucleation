@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Sparling et al. (2026), DOI-10.1016/j.it.2026.03.015. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §4. It bears on CLAIM-tmpoxhqq. In A's account, which is unverified until read, it frames sickness behaviour as an organism-level host defence whose adaptive status must be tested.
 ---
+<!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 
 # LIT-tmpk1h9j: Scaling immunity: sickness as a host defense strategy
 

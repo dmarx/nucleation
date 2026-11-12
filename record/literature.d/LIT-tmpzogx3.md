@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Brenninger et al. (2025), DOI-10.1111/brv.70024. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §5. It bears on CLAIM-tmpu69tn, CLAIM-354. In A's account, which is unverified until read, it unifies models of endosymbionts such as Wolbachia that manipulate arthropod reproduction.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # LIT-tmpzogx3: Infection dynamics of endosymbionts that manipulate arthropod reproduction
 

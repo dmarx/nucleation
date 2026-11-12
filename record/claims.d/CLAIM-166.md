@@ -58,6 +58,8 @@ summary: >-
 bears_on:
 - QUESTION-033
 ---
+<!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmp1p2zd LIT-tmp42smw LIT-tmp4a5du LIT-tmp7144o LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-560 — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
@@ -145,3 +147,19 @@ because everyday drive in a person is not shown. No study in the record
 shows a change in a person's own microbiome, rather than an added strain
 or a delivered metabolite, originating a change in human hunger or affect,
 which is what its defeated_if turns on.
+
+## Note of 2026-11-12: the owner's gut-brain question, from "Medical Ethics and Media Enshitification"
+
+At U7 of the exchange (2026-11-11) the owner asked whether research on a
+"gut brain" bears on the discussion. A15 answered with the enteric nervous
+system as an intermediate level between the microbial collective and the
+central nervous system, and with Hasler's distinction (LIT-tmp4a5du, unread)
+between a contributory thesis, that enteric activity helps constitute the
+whole animal's experience, and a partial-subject thesis, that it has some
+experience of its own; most evidence supports the first. A15 states this
+claim's status correctly. A17's ladder rates "Gut microbes independently
+formulate goals that they impose on human hosts" not established, and the
+owner (U9) moved that question to parasites, QUESTION-tmpgciew, answered by
+A in CLAIM-tmpoxhqq. Nothing here changes the claim's evidence: the new
+gut-brain works are registered unread (LIT-tmp1p2zd, LIT-tmpddwp2,
+LIT-tmp7144o, LIT-tmpwo0nr, LIT-tmp42smw). No status change.

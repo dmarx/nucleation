@@ -22,6 +22,8 @@ implementations: []
 summary: >-
   Kinder et al. (2017), DOI-10.1038/nri.2017.38. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §3. It bears on CLAIM-tmpn0ytb, THEORY-443. In A's account, which is unverified until read, it proposes that persistent maternal and fetal cells form a biologically active "microchiome" and an immunological "extended self".
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-443 — Proposed; cited as on the record -->
 
 # LIT-tmp1pvq3: Immunological implications of pregnancy-induced microchimerism
 

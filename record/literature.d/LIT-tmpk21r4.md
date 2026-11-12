@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Close et al. (2021), DOI-10.1016/j.addbeh.2021.106851. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §1 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271. In A's account, which is unverified until read, it is a secondary analysis of about 7,767 loot-box buyers: the top 5% account for about half of reported spending, and spending tracks problem-gambling severity, not earnings.
 ---
+<!-- inactive-ok-file: CASE-tmpmw3hc CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 
 # LIT-tmpk21r4: Secondary analysis of loot box data: Are high-spending “whales” wealthy gamers or problem gamblers?
 

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Ohara and Hsiao (2025), DOI-10.1038/s41579-024-01136-9. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on CASE-047, CLAIM-166. In A's account, which is unverified until read, it reviews the signalling interface between microbial products, intestinal sensory cells and neural pathways.
 ---
+<!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # LIT-tmpddwp2: Microbiota–neuroepithelial signalling across the gut–brain axis
 

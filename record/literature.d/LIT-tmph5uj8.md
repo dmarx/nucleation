@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Devanesan (2026), DOI-10.1136/jme-2025-111517. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on THEORY-448, TERM-083. In A's account, which is unverified until read, it argues that accounts of fetal parthood change which analogies (bodily invasion, Thomson's violinist) fit, without settling whether abortion is permissible.
 ---
+<!-- inactive-ok-file: TERM-083 THEORY-448 — Proposed; cited as on the record -->
 
 # LIT-tmph5uj8: Ethical implications of the mereology of pregnancy
 

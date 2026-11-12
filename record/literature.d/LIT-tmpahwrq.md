@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Emmerich (2026), DOI-10.1136/jme-2026-112309. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on THEORY-448. In A's account, which is unverified until read, it is a work on how ontologies of pregnancy affect the analogies used in reproductive ethics, including contragestion.
 ---
+<!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 
 # LIT-tmpahwrq: Mereology’s significance: pregnancy, abortion and contragestion
 

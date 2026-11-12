@@ -116,3 +116,15 @@ we hoped to explain."
 ## Note of 2026-11-07: narrowed by a gloss, from the second share of "Individuation, Possibility, and Disposition"
 
 A60 §12 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cites this question as the open problem, but glosses it as which standards deserve authority "when the organization's own criteria of success conflict with justified claims made by those affected". That presupposes what the question asks: whether such judgments can be objective about the standards themselves. A's [CLAIM-624](../claims.d/CLAIM-624.md) rests on an independently justified standard the record does not have ([TERM-059](../terms.d/TERM-059.md)). The owner's [QUESTION-441](QUESTION-441.md) refines this question for a wrong that consists in keeping a standard from taking hold. Still open.
+
+## Note of 2026-11-12: a measure that cannot certify itself, from "Medical Ethics and Media Enshitification"
+
+A37 §4 of the exchange (2026-11-11) offers a partial answer: an
+organization's preferred measure "cannot certify its own normative
+sufficiency", because the measure may not preserve the distinctions the
+claims against the organization need (CLAIM-348) and the organization may
+have no independent test of it. A notes the premise this rests on,
+"something like an epistemic norm, a duty to affected parties, or an account
+of legitimate governance". A42 sharpens the question one step earlier, how
+the demands to be weighed are identified at all, filed as QUESTION-tmpuftum,
+which refines this one. The question stays Open.

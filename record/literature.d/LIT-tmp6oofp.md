@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Lyu and Chen (2026), DOI-10.1136/jme-2025-111436. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §1. It bears on CASE-128, CLAIM-tmpu69tn. In A's account, which is unverified until read, it analyses adaptive deep brain stimulation through control, separating the source of control from the patient's perception of it.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # LIT-tmp6oofp: Ethical challenges of adaptive deep brain stimulation: a multidimensional analysis through the lens of control
 

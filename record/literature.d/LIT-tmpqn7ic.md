@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Schepanski et al. (2022), DOI-10.1038/s41467-022-32230-2. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on CLAIM-tmpn0ytb, CLAIM-tmpu69tn. In A's account, which is unverified until read, it reduces maternal microchimeric cells in developing mouse brains and reports altered microglia, excess synaptic pruning and changed behaviour, with rescue by restoring maternal immune cells.
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # LIT-tmpqn7ic: Pregnancy-induced maternal microchimerism shapes neurodevelopment and behavior in mice
 

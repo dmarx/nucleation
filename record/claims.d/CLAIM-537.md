@@ -122,3 +122,17 @@ changes.
 ## Note of 2026-11-07: drifting offsets, in time, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A25 §7 proposes that an organization under drifting preferred relations may be "a **viable history of adjustments**, with persistent frustration but a maintained capacity to manage it". A uses "frustration" for the residual mismatch, not [TERM-060](../terms.d/TERM-060.md)'s joint unrealizability; with the tolerances as the demands, deviations within tolerance are no frustration. Read so, A's case is this claim's condition I without condition II, put in time: a compatible configuration at each time by re-adjustment, though no fixed configuration serves all times. What it adds is a question this claim lacks: whether the adjustment rate can keep up with the drift. Unchecked. No status changes.
+
+## Note of 2026-11-12: uncertainty about the demands themselves, from "Medical Ethics and Media Enshitification"
+
+A42 §6 of the exchange (2026-11-11) carries this claim's adjustable and
+nonadjustable compatibility from uncertainty about disturbances to
+uncertainty about how the demands are to be interpreted. Over
+interpretations θ: K_some (some θ, some solution), K_each (each θ has a
+solution) and K_uniform (one solution for every θ), with K_uniform ⊆ K_each
+⊆ K_some given a nonempty set of interpretations; the filer checked the
+inclusions. A calls it "a proposed application of existing
+robust-feasibility machinery", rightly, since it is this claim's ∀∃ against
+∃∀. Its use: an institution can act defensibly across reasonable
+interpretations without choosing among them exactly when the demand set is
+in K_uniform (QUESTION-tmpuftum). No new claim filed.

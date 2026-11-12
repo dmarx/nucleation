@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Shapiro and Pannekoek (2024), DOI-10.1002/hast.1582. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §2 and its reading list. It bears on THEORY-448. In A's account, which is unverified until read, it argues from the consent requirements of living organ donation to the ethics of requiring gestation after Dobbs.
 ---
+<!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
 
 # LIT-tmp7j0lj: Another Defense of Abortion: What Transplant Ethics Tells Us about the Ethics of Abortion after Dobbs
 

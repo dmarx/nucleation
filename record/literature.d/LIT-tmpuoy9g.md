@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Ivern and Carbonell (2026), DOI-10.1007/s40429-026-00768-6. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A29 §4 and A31 §3. It bears on CASE-tmpmw3hc. In A's account, which is unverified until read, it is a scoping review identifying 136 loot-box design features across 72 studies, with little known of their separate and joint effects.
 ---
+<!-- inactive-ok-file: CASE-tmpmw3hc — Proposed; filed from the same exchange -->
 
 # LIT-tmpuoy9g: Categorization of Loot Box Design: A Scoping Review of Problematic Features
 

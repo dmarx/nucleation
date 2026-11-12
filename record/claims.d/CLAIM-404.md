@@ -122,6 +122,8 @@ bears_on:
 - QUESTION-100
 - QUESTION-071
 ---
+<!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpifp69 CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmpp1gq8 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1324 LIT-1332 — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->
@@ -344,3 +346,17 @@ by the evaluation), and
   A21 §6: "Such external dependence is not necessarily a failure of
   autonomy. It may be one of the organizational conditions that makes
   meaningful accountability possible."
+
+## Note of 2026-11-12: outside governance across organisms, platforms and newsrooms, from "Medical Ethics and Media Enshitification"
+
+The exchange (2026-11-11) cites this claim more than any other, in A19, A21,
+A23, A25, A27, A29, A31, A33 and A35, and describes it accurately each time.
+It extends it in three directions, each filed separately: across an organism
+boundary, with a third route, execution, beside evidence and criteria
+(CLAIM-tmpoxhqq, CASE-tmp10ykm); to platforms that shape the evidence a user
+reads and then read the user's induced behaviour as preference (A23 §3, see
+the note on CLAIM-342); and to newsrooms governed through "resource
+dependencies" rather than instructions (CLAIM-tmpifp69). A23 §2 adds a
+temporal point from the X feed experiment (LIT-tmpp1gq8, unread): accounts
+followed under the algorithm stayed followed after it was switched off, so
+the evidence channel outlives the steering. No status change.

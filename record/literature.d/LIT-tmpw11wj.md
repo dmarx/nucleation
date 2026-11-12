@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Christin (2020), DOI-10.23943/princeton/9780691175232.001.0001. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §10. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it is an ethnography finding that newsrooms interpret audience analytics differently and sometimes cross-subsidize investigative work with popular stories.
 ---
+<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpw11wj: Metrics at Work
 

@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   BROWN (2025), DOI-10.1017/apa.2025.10009. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §2. It bears on CLAIM-404, SYNTHESIS-023. In A's account, which is unverified until read, it asks whether recommender systems only satisfy preferences or shape the people users become, tying authenticity to self-understanding.
 ---
+<!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited as on the record -->
 
 # LIT-tmpnk945: Recommended Selves: Authenticity and Algorithmic Filtering
 

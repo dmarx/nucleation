@@ -7,6 +7,8 @@ source:
 bears_on:
 - QUESTION-035
 - QUESTION-284
+corroborates:
+- CLAIM-508
 tags:
 - natural-sciences
 - individuation

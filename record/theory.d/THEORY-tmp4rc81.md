@@ -24,6 +24,7 @@ summary: >-
   is why it cannot yet carry more. Proposed because the established half
   rests on primary studies not read here.
 ---
+<!-- inactive-ok-file: NOTE-tmpjgzqv — Skimmed; the reading filed from the same exchange -->
 
 # THEORY-tmp4rc81: Microchimeric cells pass in both directions between mother and offspring, are rare, can persist for decades and colonize almost any tissue, the brain among them, while their function, the mechanism of their persistence and what counts as microchimerism remain open
 

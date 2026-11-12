@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Boem et al. (2024), DOI-10.3389/fnins.2023.1172783. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on CLAIM-166, CASE-047. In A's account, which is unverified until read, it proposes extending embodied cognition to a "gut complex" of enteric nervous system, immune and endocrine systems, tissue and microbes.
 ---
+<!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # LIT-tmp1p2zd: Minding the gut: extending embodied cognition and perception to the gut complex
 

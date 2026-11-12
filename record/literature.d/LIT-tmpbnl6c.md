@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Nix (2024), DOI-10.1017/s0963180124000264. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A5 §3. It bears on THEORY-464, QUESTION-364. In A's account, which is unverified until read, it is a work on operationalizing the intolerable-suffering criterion in advance requests for medical assistance in dying for people with dementia in Canada.
 ---
+<!-- inactive-ok-file: THEORY-464 — Proposed; cited as on the record -->
 
 # LIT-tmpbnl6c: Operationalizing the Intolerable Suffering Criterion in Advance Requests for Medical Assistance in Dying for People Living with Dementia in Canada
 

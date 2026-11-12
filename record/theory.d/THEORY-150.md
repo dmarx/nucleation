@@ -31,6 +31,8 @@ summary: >-
 corroborates:
 - CLAIM-060
 ---
+<!-- inactive-ok-file: LIT-tmpc2x78 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-470 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-753 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
 # THEORY-150: A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy
@@ -88,3 +90,13 @@ measured.
   from above. Doctorow's lock-in, built so that abuse can follow, is a
   deliberate cousin of §5.4's protective lock-in, which reproduces its own
   justification.
+
+## Note of 2026-11-12: a formal model of platform decay, from "Medical Ethics and Media Enshitification"
+
+A35 §1 of the exchange (2026-11-11) cites this reading correctly as Proposed
+and reports Montero-Porras, Smets and Lenaerts' evolutionary model of
+platform and creators (LIT-tmpc2x78, unread): two stable regimes, quality
+and extraction, with tipping points and hysteresis. A calls it "a formal
+complement, but not independent proof of Doctorow's historical claims",
+which is right. The model would bear on THEORY-470's weakened constraints
+and on CLAIM-463. No status change.

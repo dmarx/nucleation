@@ -21,6 +21,8 @@ implementations: []
 summary: >-
   Boddy et al. (2015), DOI-10.1002/bies.201500059. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §3. It bears on CLAIM-tmpn0ytb, THEORY-413. In A's account, which is unverified until read, it is an evolutionary analysis of fetal microchimerism as cooperation and conflict between mother and offspring beyond the womb.
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-413 — Proposed; cited as on the record -->
 
 # LIT-tmpv8dr2: Fetal microchimerism and maternal health: A review and evolutionary analysis of cooperation and conflict beyond the womb
 

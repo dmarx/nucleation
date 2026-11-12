@@ -1,0 +1,80 @@
+---
+status: Proposed
+title: 'Toxoplasma gondii and the ant-manipulating fungi: parasites whose hosts behave in ways that favour the parasite''s transmission, through the host''s own nervous system or muscles, the rat less averse to cat odour and the ant climbing and clamping before it dies'
+version: 1
+standing: documented
+kind: specimen
+tags:
+- ecology
+- agency
+- natural-sciences
+date: '2026-11-12'
+line:
+- distributed-agency
+- will-organization
+illustrates:
+- CLAIM-404
+bears_on:
+- QUESTION-tmpgciew
+- QUESTION-033
+reported_in:
+- LIT-tmpwxxvn
+- LIT-tmpfw2u8
+- LIT-tmpwasqi
+summary: >-
+  The owner's examples, U9 of the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11), with A19's account of the evidence.
+  Documented phenomena of parasitology; the details here are A's reports
+  of works registered unread, and are to be checked on reading. Used as
+  the test of whether one organism can set the ends another's machinery
+  pursues (QUESTION-tmpgciew).
+---
+<!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: LIT-tmpwxxvn LIT-tmpfw2u8 LIT-tmpwasqi LIT-tmpawef9 — Deferred; registered from the same exchange, unread -->
+
+# CASE-tmp10ykm: Toxoplasma gondii and the ant-manipulating fungi: parasites whose hosts behave in ways that favour the parasite's transmission, through the host's own nervous system or muscles, the rat less averse to cat odour and the ant climbing and clamping before it dies
+
+## The case
+
+The owner's two examples (U9), as A19 reports them:
+
+- **Toxoplasma gondii** reproduces sexually only in cats. Infected rats can
+  show reduced avoidance of, or attraction to, cat odour. A19 cites a 2025
+  study in which varying parasite tyrosine-hydroxylase-related genes
+  changed the response in a dose-related way, without dopamine alone
+  explaining it. The parasite alters "how an environmental situation is
+  evaluated".
+- **Ophiocordyceps** (popularly "Cordyceps") makes infected carpenter ants
+  leave the nest, climb and clamp to vegetation before dying, which places
+  the fungus for spore release. A19 reports fungal networks around the
+  ant's muscle fibres with the brain "physically uninvaded".
+
+A19 adds three further parasites: a liver fluke whose ants clamp to grass
+in cool weather and let go in warm, a hairworm that draws mantises to
+horizontally polarized light (and so to water, and to asphalt), and a
+trematode that makes killifish surface and dart. A's meta-analytic report
+(LIT-tmpfw2u8, 207 studies): manipulation is stronger in mature parasite
+stages and in the presence of the right predator.
+
+What is held fixed: in every instance the action is executed by the host's
+own nervous system or muscles. What varies is the route: what the host
+perceives, how it values what it perceives, or what it can execute.
+
+## What it can show
+
+That behaviour executed by one organism's own machinery can be shaped, by
+selection, to serve another organism's transmission (CLAIM-tmpoxhqq), and so
+that the place an action is executed does not settle whose interests its
+production serves. It illustrates CLAIM-404's two routes, evidence and
+criteria, across an organism boundary, with a third, execution, that
+CLAIM-404 does not name.
+
+## What it cannot show
+
+That the parasite represents the host or pursues an end. The case is
+documented as biology. Its details here are A's reports of works registered
+unread (LIT-tmpwxxvn, LIT-tmpfw2u8, LIT-tmpwasqi), and A19 itself notes
+that a 2026 Mendelian-randomization study found no causal link between
+susceptibility to Toxoplasma and human psychiatric outcomes or risk-taking.
+The rodent results do not carry over to people. The host-defence contrast
+is in LIT-tmpawef9.

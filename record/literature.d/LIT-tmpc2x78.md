@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Montero-Porras et al. (2026), DOI-10.3233/faia260512. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §1. It bears on THEORY-150, THEORY-470, CLAIM-463. In A's account, which is unverified until read, it is an evolutionary game of platform and creators with two stable outcomes, quality and extraction, and tipping points with hysteresis.
 ---
+<!-- inactive-ok-file: THEORY-150 THEORY-470 — Proposed; cited as on the record -->
 
 # LIT-tmpc2x78: Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics
 

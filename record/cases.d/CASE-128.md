@@ -57,6 +57,7 @@ draws_on:
 - THEORY-067
 - THEORY-1285
 ---
+<!-- inactive-ok-file: LIT-tmp6oofp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
@@ -133,3 +134,14 @@ attribution intact.
 It is a second-hand reading of a documentary (p. 785), and it shows the
 distinction, not where either line falls. No status, title or warrant
 changes.
+
+## Note of 2026-11-12: spending limits, stimulators and advance consent, from "Medical Ethics and Media Enshitification"
+
+The exchange (2026-11-11) applies this case three times. A25 §6 applies it
+to a player's self-set spending limit, "A person who voluntarily establishes
+a spending constraint may be exercising autonomy, not relinquishing it",
+where the question is whether the software supports the authorized
+constraint. A21 §1 applies it to adaptive deep brain stimulation, an
+external regulator the patient authorized (LIT-tmp6oofp, unread). A9 §5
+applies it to advance directives. In each the case's contrast between the
+delegated and the imposed restriction carries over. No change.

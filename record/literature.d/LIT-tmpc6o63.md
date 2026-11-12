@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Malinská et al. (2026), DOI-10.1042/cs20250540. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §3. It bears on CLAIM-tmpn0ytb. In A's account, which is unverified until read, it reviews maternal microchimerism by pregnancy and breastfeeding, its tissue integration, tolerance and protective and pathological effects.
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 
 # LIT-tmpc6o63: Maternal microchimerism: foreign friend, hidden enemy
 

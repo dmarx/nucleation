@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Radsch (2026), Brookings Institution, commentary. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §2. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it is a commentary on bargaining power and revenue between publishers and AI intermediaries in content licensing.
 ---
+<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmp5c2gi: Same gatekeepers, new tollbooths in the AI content licensing market
 

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Adler (2024), Cornell Law Review. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §§1, 3, 7. It bears on CLAIM-tmpcv1pg. In A's account, which is unverified until read, it argues that pornography platforms' recommendations, categories and producer incentives shape both what audiences encounter and what gets produced.
 ---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
 # LIT-tmpdak05: Arousal by Algorithm
 

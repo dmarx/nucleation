@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Pradhan et al. (2025), DOI-10.1038/s41467-025-58478-y. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §4. It bears on CLAIM-tmpoxhqq, QUESTION-tmpgciew. In A's account, which is unverified until read, it finds that infection recruits stress and satiety neuromodulators to produce sickness behaviour in C. elegans.
 ---
+<!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; filed from the same exchange -->
 
 # LIT-tmpawef9: Pathogen infection induces sickness behaviors through neuromodulators linked to stress and satiety in C. elegans
 

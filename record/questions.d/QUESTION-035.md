@@ -36,6 +36,7 @@ summary: >-
   constitutes one system, and makes the target explicit, as
   [CLAIM-152](../claims.d/CLAIM-152.md) requires.
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb THEORY-tmp4rc81 THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-902 — Unavailable, unread; named as the source of the compensation test -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed; one of the candidate tests, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection an answer must avoid, not as standing -->
@@ -97,3 +98,14 @@ criterion that every pair of interacting things satisfies is not an answer ([CLA
 
 The proposed answer is [CLAIM-157](../claims.d/CLAIM-157.md). Its first objection, that one-way
 drive should not pass ([CLAIM-173](../claims.d/CLAIM-173.md)), was rejected by [CLAIM-167](../claims.d/CLAIM-167.md).
+
+## Note of 2026-11-12: microchimerism and the boundary of a combined form, from "Medical Ethics and Media Enshitification"
+
+The microchimerism readings filed from the exchange (2026-11-11) give this
+question a biological instance in which the answer visibly depends on the
+target. For genome, the offspring contains cells of the mother's lineage;
+for tissue, those cells sit in its organs and brain; for immune regulation,
+one marked subset does the offspring's tolerogenic work while the rest
+merely persist (THEORY-tmp6t2l2, THEORY-tmp4rc81). The owner's
+CLAIM-tmpn0ytb bears on it. A11 §2's four boundaries, genetic, anatomical,
+functional and immunological, are the targets.

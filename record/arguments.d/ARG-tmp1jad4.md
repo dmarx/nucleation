@@ -1,0 +1,72 @@
+---
+status: Proposed
+title: 'The parasite cases, with manipulation stronger in mature parasite stages and in the presence of the right predator, are evidence that the hosts'' behaviour is controlled by the parasites'' selected adaptations; they are no evidence for or against the parasites'' representing goals'
+version: 1
+form: evidence
+grounds:
+- CASE-tmp10ykm
+- LIT-tmpfw2u8
+- LIT-tmpawef9
+concludes:
+- CLAIM-tmpoxhqq
+tags:
+- agency
+- ecology
+- philosophy-of-biology
+date: '2026-11-12'
+line:
+- distributed-agency
+summary: >-
+  From the exchange "Medical Ethics and Media Enshitification"
+  (2026-11-11): the owner's cases at U9 and A19's and A21's evidence. The
+  inference to causal control by selected adaptations is the right kind,
+  because stage- and predator-dependence is what an adaptation predicts
+  and illness does not, but every fact it uses is A's report of an unread
+  work. The denial of intentional agency is an absence of evidence, not
+  evidence of absence. Proposed. The wording is the assistant's (Claude,
+  in this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpoxhqq — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-tmpfw2u8 LIT-tmpawef9 LIT-tmpk1h9j — Deferred; registered from the same exchange, unread -->
+
+# ARG-tmp1jad4: The parasite cases, with manipulation stronger in mature parasite stages and in the presence of the right predator, are evidence that the hosts' behaviour is controlled by the parasites' selected adaptations; they are no evidence for or against the parasites' representing goals
+
+## The inference
+
+1. Infected hosts behave in ways that favour the parasite's transmission
+   (CASE-tmp10ykm).
+2. As A reports the 2026 meta-analysis (LIT-tmpfw2u8), the effect on
+   predation susceptibility depends on parasite stage, strongest when the
+   parasite is ready to transmit, and is stronger when the right predator
+   is present.
+3. An adaptation for transmission predicts exactly that timing and
+   specificity; generic illness does not.
+4. So the behaviour is controlled by the parasite's selected adaptations,
+   the first two senses of CLAIM-tmpoxhqq.
+
+## Critical questions
+
+- **Would the evidence be expected if the hypothesis were false?** Step 1
+  would: sick animals behave differently, and some infection-induced
+  changes serve the host's defence (A21 §4; LIT-tmpawef9 and LIT-tmpk1h9j
+  as A reports them). Step 2 would not, if it holds: illness has no reason
+  to peak at transmissibility or to track the next host.
+- **Does it tell the hypothesis apart from its rivals?** From nonspecific
+  pathology, yes, by step 2. From host defence, only where the change
+  harms the host and helps the parasite. A21 §4's table makes that the
+  discriminating column. From intentional agency, not at all: an evolved
+  mechanism and a represented goal predict the same behaviour here, so the
+  cases say nothing about the third sense either way. CLAIM-tmpoxhqq's
+  "generally unsupported" is an absence of evidence.
+- **Does the measure measure what it is said to?** Unverified. Steps 1
+  and 2 are A's reports of works registered unread, and A19 notes that
+  its central Toxoplasma study does not establish that dopamine alone
+  explains the effect. The meta-analysis's measure is predation
+  susceptibility, not behaviour in general.
+
+## Verdict
+
+Proposed: the inference has the right form for the first two senses and
+stands or falls with the meta-analysis on reading. It gives no support to
+the claim's denial of the third sense beyond the absence of a positive
+case.

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Gartenberg et al. (2026), DOI-10.1287/orsc.2026.ed.v37.n3. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §4. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it is an editorial reporting a 42% rise in submissions to Organization Science since late 2022, with declining writing quality and signs of AI-written reviews.
 ---
+<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpc9y8c: More Versus Better: Artificial Intelligence, Incentives, and the Emerging Crisis in Peer Review
 

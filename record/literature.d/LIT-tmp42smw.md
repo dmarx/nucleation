@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Almarzooqi et al. (2026), DOI-10.1038/s41398-026-04305-x. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §6. It bears on CLAIM-166. In A's account, which is unverified until read, it is a review stressing that associations between the gut microbiome and psychiatric disorders still leave much of the causal picture in humans unresolved.
 ---
+<!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # LIT-tmp42smw: From association to causality: mechanistic pathways linking the gut microbiome to psychiatric disorders
 

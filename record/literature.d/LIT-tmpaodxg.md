@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Scalco et al. (2026), DOI-10.1038/s41598-026-69786-8. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A35 §7. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it develops methods for detecting information voids, mismatches between the supply of and demand for information, from longitudinal social-media and search data.
 ---
+<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpaodxg: How to detect information voids using longitudinal data from social media and web searches
 

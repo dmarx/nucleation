@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Nunes and Barriga (2025), DOI-10.1146/annurev-cellbio-101323-032747. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §7. It bears on THEORY-583. In A's account, which is unverified until read, it reviews bioelectric signalling in development, repair and disease, stressing gaps in mechanism.
 ---
+<!-- inactive-ok-file: THEORY-583 — Proposed; cited as on the record -->
 
 # LIT-tmpem6qw: Bioelectricity in Morphogenesis
 

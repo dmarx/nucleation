@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Amano and Simonov (2023), DOI-10.2139/ssrn.4355019. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A25 §3, A29 §1–2 and A31 §1. It bears on CASE-tmpmw3hc, CLAIM-tmpmz271. In A's account, which is unverified until read, it is a structural demand model of one mobile game's transactions: ordinary buyers value loot boxes for gameplay, high spenders mostly for the lottery itself; 1.5% of players give 90% of revenue and 31.5% give 90% of play.
 ---
+<!-- inactive-ok-file: CASE-tmpmw3hc CLAIM-tmpmz271 — Proposed; filed from the same exchange -->
 
 # LIT-tmpftfht: What Makes Players Pay? An Empirical Investigation of In-Game Lotteries
 

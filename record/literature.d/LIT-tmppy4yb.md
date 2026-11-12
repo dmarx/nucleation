@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Kara et al. (2012), DOI-10.1161/circresaha.111.249037. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §2. It bears on CLAIM-tmpn0ytb. In A's account, which is unverified until read, it reports that fetal cells traffic to injured maternal myocardium in mice and take on cardiac cell phenotypes.
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 
 # LIT-tmppy4yb: Fetal Cells Traffic to Injured Maternal Myocardium and Undergo Cardiac Differentiation
 

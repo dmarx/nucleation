@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Huang et al. (2026), DOI-10.1146/annurev-ento-121423-013603. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §3. It bears on CLAIM-tmpu69tn. In A's account, which is unverified until read, it reviews how parasitoid wasps use venom, virus-derived particles and teratocytes to alter host immunity, metabolism, development and behaviour.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # LIT-tmpfefbb: Molecular Mechanisms Underlying Parasitoid-Derived Host Manipulation Strategies
 

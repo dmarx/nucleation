@@ -60,6 +60,7 @@ complements:
 - CLAIM-538
 - CLAIM-550
 ---
+<!-- inactive-ok-file: LIT-tmp6iql7 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 <!-- inactive-ok-file: THEORY-232 — Proposed; Watson's comparison, cited as the half of the principle that is his and as corroboration, not leaned on -->
 
@@ -195,3 +196,16 @@ misclassifies in either direction.
 - It does not say that differentiation makes new individuals. A38: it "does
   **not** automatically mean that two new autonomous individuals have
   formed."
+
+## Note of 2026-11-12: semantic substitution, from "Medical Ethics and Media Enshitification"
+
+A42 §3 of the exchange (2026-11-11) names a way this claim's correspondence
+can fail while every label stays the same: "semantic substitution", in which
+an institution meets a value by changing its operational test, so that
+A_original ≠ A_operative. A's example is a newsroom whose "independence"
+narrows from independent discovery to freedom from advertisers'
+instructions. This is neither relief nor deletion, and only an explicit
+correspondence of acceptance sets, which this claim requires, detects it.
+The empirical source A cites is Moats, Ruckenstein and colleagues on value
+narrowing, tickboxing, pushing, mismatch and projection (LIT-tmp6iql7,
+unread). Supports; no status change.

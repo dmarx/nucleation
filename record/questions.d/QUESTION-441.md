@@ -48,6 +48,7 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md), A's, and the owner has endorsed
   neither.
 ---
+<!-- inactive-ok-file: CASE-tmpd5eqf CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the owner's thesis and A's answers -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form -->
 
@@ -90,3 +91,17 @@ harm's continuation, and gives a test, such as an intervention on the
 production mechanism ([CLAIM-522](../claims.d/CLAIM-522.md)), that separates an organization
 maintaining its own blindness from one whose blindness is maintained from
 outside.
+
+## Note of 2026-11-12: three stages and a passive route, from "Medical Ethics and Media Enshitification"
+
+The owner's U18 of the exchange (2026-11-11) asked how the discussion's
+cases could advance the record's normativity questions. A37 §5 separated
+three stages with constructed cases: an optimization error the organization
+corrects; "self-certifying blindness", in which it reads its selective data
+as success; and "counter-corrective governance", in which a challenge leads
+it to make later challenges less effective, which is CLAIM-619. Its newsroom
+variant is filed as CASE-tmpd5eqf. The exchange adds a passive route that
+needs no response to any challenge: a reward for few recognized failures
+penalizes the inquiry that would recognize more (CLAIM-tmpvceet). A39 §7
+recasts answerability as a demand A_C in the compatibility complex. The
+question stays Open.

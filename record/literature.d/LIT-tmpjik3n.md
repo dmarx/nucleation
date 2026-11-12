@@ -41,6 +41,7 @@ summary: >-
   Read in NOTE-tmpjgzqv, as the stand-in for the owner's unread sources
   at U5; its account is THEORY-tmp4rc81.
 ---
+<!-- inactive-ok-file: NOTE-tmpjgzqv — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpyiplw LIT-tmp3n00g LIT-tmp5q8o7 LIT-tmpxdjn3 — Unfetched; the owner's sources this reading stands in for -->
 <!-- inactive-ok-file: THEORY-tmp4rc81 — filed from the same exchange, Proposed -->
 

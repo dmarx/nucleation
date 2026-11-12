@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Zhu et al. (2026), ARXIV-2611.06483. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A44 §1. It bears on CLAIM-tmpyc5md. In A's account, which is unverified until read, it finds that gains from multi-turn agentic reinforcement learning depend on sufficient turn budgets and concentrate in error recovery and long-horizon resilience, and proposes BudgetMix RL.
 ---
+<!-- inactive-ok-file: CLAIM-tmpyc5md — Proposed; filed from the same exchange -->
 
 # LIT-tmpj8nbo: What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?
 

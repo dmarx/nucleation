@@ -28,6 +28,7 @@ summary: >-
   answer changes over time. It sharpens [QUESTION-009](QUESTION-009.md) by asking about
   drive before asking about agency.
 ---
+<!-- inactive-ok-file: CASE-tmp10ykm CLAIM-tmpmz271 CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-158 CLAIM-167 — Proposed; the owner's claims and the reply this question follows from, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question this sharpens -->
 
@@ -63,3 +64,15 @@ proposed vocabulary is [TERM-051](../terms.d/TERM-051.md).
 
 A demonstration that higher levels "matter" in some system is not an answer.
 Nor is the bare assertion that every level contributes.
+
+## Note of 2026-11-12: a driver whose ends differ from the driven, from "Medical Ethics and Media Enshitification"
+
+The exchange (2026-11-11) gave this question three new kinds of driver. A
+parasite whose adaptations steer the host's behaviour through the host's own
+machinery (CASE-tmp10ykm, CLAIM-tmpoxhqq). The enteric level between
+microbes and person (note on CASE-047). And a firm's design procedure, where
+A31 §10 answers "who drives" twice: the operative driver is "the firm's
+optimization procedure, while the distribution of players' marginal economic
+responses influences what that procedure selects" (CLAIM-tmpmz271). A21 §4
+adds the caution that "observing where causal drive sits is not equivalent
+to identifying which organism's interests a regulatory change serves".

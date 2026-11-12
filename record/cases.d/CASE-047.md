@@ -29,6 +29,7 @@ reported_in:
 - NOTE-703
 - NOTE-706
 ---
+<!-- inactive-ok-file: LIT-tmp1p2zd — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-166 — Proposed; the threshold criterion and the owner's claim this case serves, open -->
 
 # CASE-047: Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person
@@ -63,3 +64,13 @@ The details and grades are in [NOTE-706](../notes.d/NOTE-706.md) and [NOTE-703](
 As a documented case it shows only what the evidence does: routes, and
 causal effects in animals. That the owner's own hunger and mood are driven
 this way is the claim ([CLAIM-166](../claims.d/CLAIM-166.md)), not the case.
+
+## Note of 2026-11-12: the enteric level, from "Medical Ethics and Media Enshitification"
+
+A15 of the exchange (2026-11-11) cites this case accurately and adds a level
+the case does not name: the enteric nervous system, which regulates
+digestion locally and passes signals to the brain, between the microbes and
+the person. A15's point for QUESTION-033 is that "which level drives" may
+depend on the intervention, microbial signals, enteric activity or central
+response. Boem and colleagues' "gut complex" (LIT-tmp1p2zd, unread) is the
+theoretical framing A recommends.

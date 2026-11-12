@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Ryan and McMichael (2025), SMU Law Review 78(3): 789. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A5 §1. It bears on TERM-083. In A's account, which is unverified until read, it reviews the legal treatment of frozen embryos after the Alabama Supreme Court's LePage decision.
 ---
+<!-- inactive-ok-file: TERM-083 — Proposed; cited as on the record -->
 
 # LIT-tmpby9jj: The Future of Frozen Embryos
 

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Cox (2025), DOI-10.1111/bioe.13423. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A3 §1. It bears on TERM-083. In A's account, which is unverified until read, it argues that a fetus's standing as an imminent person carries a moral significance stronger than abstract potential.
 ---
+<!-- inactive-ok-file: TERM-083 — Proposed; cited as on the record -->
 
 # LIT-tmpcjjyz: Abortion and Imminent Personhood
 

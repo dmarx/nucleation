@@ -22,6 +22,7 @@ implementations: []
 summary: >-
   Levin (2024), DOI-10.1002/bies.202400196. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §7. It bears on THEORY-583. In A's account, which is unverified until read, it interprets development, regeneration and cancer suppression as collective problem-solving by cells, with bioelectric networks coordinating anatomical outcomes.
 ---
+<!-- inactive-ok-file: THEORY-583 — Proposed; cited as on the record -->
 
 # LIT-tmpgku8o: The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next‐Generation Biomedicine
 

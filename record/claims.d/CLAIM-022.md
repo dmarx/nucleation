@@ -131,3 +131,14 @@ the historical condition this disclaimer leaves open, in the formation sense of
 [TERM-100](../terms.d/TERM-100.md).
 
 The claim is unchanged.
+
+## Note of 2026-11-12: causal ownership and normative authorship, from "Medical Ethics and Media Enshitification"
+
+A17 §6 of the exchange (2026-11-11), on the owner's U8, distinguishes
+"Causal ownership", in which a process belongs to the causal organization
+from which a person's motivations arise, from "Normative authorship", in
+which a decision is attributable through an appropriate exercise of
+self-government. A17: "The organizational account can explain how a person
+governs themselves. The further normative account must explain when that
+governance is genuinely theirs." That is this claim, with the gut and
+microbiome as its examples. Not filed separately.

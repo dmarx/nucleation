@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Ince et al. (2024), DOI-10.1016/j.addbeh.2024.108048. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §2. It bears on CLAIM-tmpcv1pg. In A's account, which is unverified until read, it two samples of male users (1,356 and 944) linking increasing volume, genre seeking, rapid switching and binge use to problematic use, cross-sectionally.
 ---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
 # LIT-tmpf67mb: Problematic pornography use and novel patterns of escalating use: A cross-sectional network analysis with two independent samples
 

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Næss (2024), DOI-10.1016/j.jebo.2024.106870. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A37 §4. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it treats investigative journalism as a public good, with survey evidence from the US, UK and Norway on underprovision and public broadcasters.
 ---
+<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpdq493: Investigative journalism: Market failures and government intervention through public broadcasters
 

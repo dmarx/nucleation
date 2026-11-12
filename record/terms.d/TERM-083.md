@@ -111,3 +111,16 @@ owe to possible future subjects of suffering. It is an argument from
 precaution, and [THEORY-677](../theory.d/THEORY-677.md)'s point applies: precaution alone does not fix
 which error is worse. Whether the paper answers that cannot be checked
 until it is read. No status, title or warrant changes.
+
+## Note of 2026-11-12: abortion, circumcision and surrogate authority, from "Medical Ethics and Media Enshitification"
+
+A9 §1 of the exchange (2026-11-11) cites this term accurately, with its four
+specifications of a standing claim and its split between moral agents and
+moral patients. It uses them to separate three questions in the abortion
+debate: when a distinct organism exists, when it has interests, and what
+grounds and follows from them. A9's "proposed bridge" is "An account of how
+a system becomes an individual can help identify candidate bearers of moral
+standing, but cannot by itself establish what those individuals are owed".
+That is this term's demand that standing be argued, and CLAIM-075's. The
+question of who may act on a standing that the bearer cannot exercise is
+filed as QUESTION-tmp2lvhi.

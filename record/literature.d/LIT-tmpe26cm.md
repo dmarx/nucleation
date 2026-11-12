@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Strand et al. (2026), DOI-10.1146/annurev-ento-121423-013425. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §3. It bears on CLAIM-tmpu69tn, QUESTION-277. In A's account, which is unverified until read, it reviews large DNA viruses, some domesticated into wasp genomes, that parasitoid wasps transmit to their hosts.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
 
 # LIT-tmpe26cm: Large DNA Viruses That Parasitoid Wasps Transmit to Hosts
 

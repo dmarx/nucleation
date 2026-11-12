@@ -72,7 +72,7 @@ pass@k) cannot see what interaction depth adds.
 
 A gold answer and exact-match scoring decide success, so the evaluator is
 an oracle. Rollouts are i.i.d. at temperature 0.7. The capability boundary
-at finite n is "solved at least once in 64".
+at finite n means solved at least once in 64 rollouts.
 
 ## Concepts
 
@@ -97,8 +97,8 @@ at finite n is "solved at least once in 64".
   no tolerances. Success is exact match. A's tolerance-indexed
   generalization is CASE-tmpz1l6r, not the paper's.
 - On QUESTION-279 (certifying that no remedy exists): the paper's boundary
-  at finite n is "solved at least once in 64", and a problem outside it is
-  not shown unsolvable. A44 makes the same point.
+  at finite n means solved at least once in 64 rollouts, and a problem
+  outside it is not shown unsolvable. A44 makes the same point.
 
 ## Limitations
 

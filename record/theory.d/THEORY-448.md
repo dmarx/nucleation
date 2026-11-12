@@ -35,6 +35,8 @@ summary: >-
 bears_on:
 - QUESTION-035
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb THEORY-tmp4rc81 THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-tmp5fwhc LIT-tmp63w88 LIT-tmph5uj8 LIT-tmptsxgp LIT-tmpw9l03 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-443 THEORY-464 THEORY-476 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-072 THEORY-221 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; named as a parallel the reading draws, not leaned on -->
@@ -136,3 +138,19 @@ argument shows neither does, given Kingma's own concessions.
   parthood, de re or de dicto. Meincke claims an indeterminate count and
   leans de re, "flows naturally from the processual constitution", without
   using that machinery.
+
+## Note of 2026-11-12: the owner's microchimerism link, from "Medical Ethics and Media Enshitification"
+
+A9 §2 of the exchange (2026-11-11) describes this reading accurately:
+Proposed, with no formal measure of the intermediate individuality and no
+ethical conclusion. The owner's U5 linked it to microchimerism, filed as
+CLAIM-tmpn0ytb: cells of mother and offspring persist in each other for
+decades, so the separation gestation begins is not completed at birth at the
+level of cells. The readings behind that (THEORY-tmp6t2l2, THEORY-tmp4rc81)
+concern the relation after birth, which Meincke does not reach; they extend
+her question and do not supply the measure she lacks. A13 named the rival
+mereologies of pregnancy, now registered unread: Devanesan's overlap view
+from immunology (LIT-tmptsxgp, LIT-tmph5uj8), Geddes on proper overlap
+(LIT-tmpw9l03), Hershenov against parthood (LIT-tmp63w88) and Finn's split
+between when an organism begins and how it relates to the gestating one
+(LIT-tmp5fwhc). No status change.

@@ -80,6 +80,7 @@ summary: >-
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 ---
+<!-- inactive-ok-file: CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
@@ -391,3 +392,17 @@ A9 §4 of the exchange (2026-11-06 to 07): "Silencing an oscillator is not the s
 ## Note of 2026-11-07: a product line's admissible feature combinations, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), defines the admissible feature combinations of a product version, K_v, and says: "When the feature constraints are purely permissive and downward-closed, this is a simplicial complex. With mandatory features and other nonmonotonic configuration requirements, the admissible configurations are better represented directly by a constraint system rather than assuming simplicial structure." That is this claim's complex of jointly satisfiable demands, for a product line. The reader checked it on {offline, e2e, collab} with offline and collab in conflict: the faces are the empty set, the three vertices, {e2e, offline} and {collab, e2e}, so the minimal non-face is the conflict. A's caution about mandatory features is right. A does not cite this claim. No status changes.
+
+## Note of 2026-11-12: the complex and normativity, from "Medical Ethics and Media Enshitification"
+
+The owner asked at U19 of the exchange (2026-11-11) how the discussion
+interacts with the compatibility complex. A39 §1 states the definition
+accurately and says what it is not: "the compatibility complex is not itself
+a moral theory". Its contribution is "to identify the structure of possible
+accommodation once the demands and the relevant organization have been
+specified". A39's game with three demands, revenue, accessibility and budget
+protection, every pair attainable and not the triple, is CASE-119's hollow
+triangle (note there). A42 §8 turns the specification into a question, filed
+as QUESTION-tmpuftum, and CLAIM-tmpvceet derives from this claim's downward
+closure that recognizing more demands can only lower a score taken against
+the recognized set. No status change.

@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Nickl et al. (2025), DOI-10.1057/s41599-025-04514-7. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A33 §2. It bears on CLAIM-tmpifp69. In A's account, which is unverified until read, it links the changing characteristics of online news headlines to competition for attention.
 ---
+<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; filed from the same exchange -->
 
 # LIT-tmpaptli: The evolution of online news headlines
 

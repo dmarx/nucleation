@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Naudts et al. (2025), DOI-10.1007/s10603-025-09586-1. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A23 §8. It bears on CLAIM-545. In A's account, which is unverified until read, it argues for a public-interest right to constructive optimization: recommenders governed for users' self-development, with public scrutiny of their objectives.
 ---
+<!-- inactive-ok-file: CLAIM-545 — Proposed; cited as on the record -->
 
 # LIT-tmp6lewl: A Right to Constructive Optimization: A Public Interest Approach to Recommender Systems in the Digital Services Act
 

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Nakhal et al. (2026), DOI-10.3389/fnana.2026.1801873. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A15 §3. It bears on CLAIM-166. In A's account, which is unverified until read, it reports that maternal gut dysbiosis in mice is associated with altered enteric and cortical inhibitory circuit development in offspring.
 ---
+<!-- inactive-ok-file: CLAIM-166 — Proposed; cited as on the record -->
 
 # LIT-tmp7144o: Maternal gut dysbiosis is associated with altered enteric and cortical inhibitory circuit development
 

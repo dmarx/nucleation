@@ -43,6 +43,7 @@ summary: >-
   transfer; [THEORY-1105](../theory.d/THEORY-1105.md) reports Bernabeu and colleagues' concession about
   their own donors. This claim is what the record draws from both.
 ---
+<!-- inactive-ok-file: THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 # CLAIM-508: Gene ancestries alone cannot tell a symbiotic partner from a source of transferred genes: a partner whose genes were mostly lost, replaced or spread thin would leave the diffuse trace that Tobiasson and colleagues read as piecemeal transfer, and Bernabeu and colleagues concede that their donor signals say nothing of the kind of interaction
 
@@ -55,3 +56,12 @@ Known partnerships bear the premise out. In the nitroplast no gene transfer from
 ## What it does not say
 
 Not that there were further partners. Tobiasson and colleagues' reading may be right; the claim is only that the ancestries cannot show it, and that the same holds for Bernabeu and colleagues' donors.
+
+## Note of 2026-11-12: the same point at the level of cells, from "Medical Ethics and Media Enshitification"
+
+The tolerance result the owner's source reports (THEORY-tmp6t2l2) is this
+claim's point one level down: which lineage a cell descends from does not
+tell whether it does the host's work, since in mice one marked subset of
+maternal cells sustains the offspring's tolerance and the rest persist
+without it. Corroborates, from a reading the claim does not rest on;
+THEORY-tmp6t2l2 now names this claim in `corroborates`.

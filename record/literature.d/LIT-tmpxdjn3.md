@@ -46,6 +46,7 @@ summary: >-
   did not diminish overall maternal microchimerism. The paper behind the
   owner's source LIT-tmpokfxi, whose account is THEORY-tmp6t2l2. Unfetched.
 ---
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp6t2l2 — filed from the same exchange, Proposed -->
 
 # LIT-tmpxdjn3: Tolerance to non-inherited maternal antigen is sustained by LysM+ CD11c+ maternal microchimeric cells

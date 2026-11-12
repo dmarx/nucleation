@@ -131,3 +131,13 @@ it asks about. The reading is the assistant's.
 A case cannot carry `bears_on`, so the tie is held by the two readings'
 `bears_on` and this note. (Since [ADR-092](../decisions.d/ADR-092.md), later the same day, the case carries
 `bears_on` itself.)
+
+## Note of 2026-11-12: caused, maintains, could alter, from "Medical Ethics and Media Enshitification"
+
+A37 §7 of the exchange (2026-11-11) gives this question three publishers
+running the same engagement-optimizing software: one that designed it and
+can revise it, one on which a platform imposed it and which can now revise
+it, and one that cannot. It separates "Who caused the original arrangement?
+Who maintains it now? Who could reasonably alter it?" and warns from the
+parasite cases that "causal capture is not sufficient for culpable capture".
+A's construction; the question stays Open.

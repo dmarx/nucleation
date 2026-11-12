@@ -25,6 +25,7 @@ summary: >-
   and [QUESTION-032](QUESTION-032.md). [THEORY-043](../theory.d/THEORY-043.md) and [THEORY-063](../theory.d/THEORY-063.md) answer it in part; the body
   gives each one's limit.
 ---
+<!-- inactive-ok-file: LIT-tmp4a5du — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; cited as the looser earlier version of this question -->
 
@@ -69,3 +70,16 @@ the record's distinction between an organization's state and its
 members', not shown same mechanism. It does not answer the question. It
 narrows what an answer would have to classify. No status, title or warrant
 changes.
+
+## Note of 2026-11-12: the enteric nervous system as a candidate subsystem subject, from "Medical Ethics and Media Enshitification"
+
+A15 of the exchange (2026-11-11) proposed a question this one already holds:
+"Under what conditions does a locally self-regulating subsystem constitute
+an independent individual or subject, rather than a functionally autonomous
+component of a larger individual". Its instance is new to the record:
+Hasler's partial-subject thesis for the enteric nervous system
+(LIT-tmp4a5du, unread), with his proposed tests, information processed
+locally and not passed on, enteric circuits after disconnection, and
+dissociations between enteric and central responses. A15 keeps the record's
+caution: "a valuable research hypothesis, not evidence that humans contain
+two conscious minds". Not filed as a new question; mapped here.

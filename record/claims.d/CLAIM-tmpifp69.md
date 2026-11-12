@@ -1,0 +1,113 @@
+---
+status: Proposed
+title: 'The selection that lets economically weighted demand set a product''s design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them'
+version: 1
+role: thesis
+warrant: interpretive
+defeated_if: >-
+  News organizations' dependence on attention-based revenue, measured
+  apart from the collapse of their older advertising subsidy, ownership
+  change and consolidation, fails to predict later reductions in original
+  reporting capacity (A33 §10's test and its strongest rival). Also
+  defeated in its strong form, though not in the selection mechanism, by
+  investigative capacity that is redistributed rather than lost, which
+  A33 §7 reports from the nonprofit sector's growth.
+tags:
+- social-science
+- society-and-governance
+- epistemology
+date: '2026-11-12'
+line:
+- distributed-agency
+- organizational-normativity
+rests_on:
+- CLAIM-tmpmz271
+grounds:
+- CASE-tmpd5eqf
+- LIT-tmp1bfvb
+- LIT-tmpk0xvf
+- LIT-tmpox72u
+bears_on:
+- QUESTION-441
+summary: >-
+  The owner's, U16 of the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11): "connect this to discourse regarding the
+  attention economy and the clickbait-ification of news media and the
+  demise of investigative journalism". The request presupposes the
+  hypothesis, filed here as the owner's. A33 worked it out and corrected
+  it: in news the weight falls on attention, not on a spending minority,
+  and investigative capacity is being "reorganized, not simply
+  extinguished". The reasons investigations lose, findings that cannot
+  show demand before they exist and value that falls outside the
+  newsroom, are A33 §§3 and 5. ARG-tmp7eevo weighs the transfer from
+  games to news.
+---
+<!-- inactive-ok-file: CLAIM-tmpmz271 CASE-tmpd5eqf ARG-tmp7eevo — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-tmp1bfvb LIT-tmpk0xvf LIT-tmpox72u LIT-tmpw11wj LIT-tmpn09dd LIT-tmpc2x78 — Deferred; registered from the same exchange, unread -->
+
+# CLAIM-tmpifp69: The selection that lets economically weighted demand set a product's design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them
+
+## The claim
+
+The owner asked (U16) for the loot-box mechanism to be connected to the
+attention economy, clickbait and the demise of investigative journalism.
+A33's thesis, on that request: "In mobile gaming, a high-spending minority
+can disproportionately determine what gets designed. In attention-driven
+news, the equivalent economic power can accrue to the stories, audiences,
+and behaviors that generate the most monetizable attention."
+
+Three steps, as A33 gives them:
+
+1. **Selection from packaging to capability (§2).** Optimization starts
+   with headlines, then assignments, then "which reporting skills, beats,
+   and investigative capabilities are retained". Robertson and colleagues'
+   headline tests (LIT-tmpox72u): each negative word raised clicks by about
+   2.3%, a causal result about clicking only.
+2. **Externality (§3).** A newsroom pays for an investigation and captures
+   only part of its value; an investigation can be worth its cost to the
+   public and not to the newsroom.
+3. **Missing demand (§5).** "The public cannot demonstrate demand for an
+   investigation whose findings are not yet known." An outlet that cuts
+   investigations publishes fewer, sees little traffic for them, and cuts
+   again: "The absence of discovered information becomes difficult to
+   distinguish from the absence of demand for that information." This is
+   CASE-tmpd5eqf.
+
+## A's corrections, part of the claim's edge
+
+- "Investigative journalism is being reorganized, not simply
+  extinguished" (§7): nonprofit newsrooms grew while local papers closed.
+  The loss is of local, continuous monitoring.
+- The strongest rival (§10): "the loss of investigative capacity primarily
+  reflects the collapse of older advertising subsidies, with click-driven
+  optimization functioning as an adaptation to that shock rather than its
+  principal cause."
+- Christin's ethnography (LIT-tmpw11wj): newsrooms read metrics
+  differently and sometimes cross-subsidize investigations, so "Metrics
+  don't mechanically determine editorial decisions."
+- A reversal (§7): a minority of values-driven subscribers can protect
+  investigations by the same mechanism. "The concentration mechanism itself
+  does not establish the quality of the outcome."
+
+## Evidence, as A reports it
+
+Bisiani and colleagues (LIT-tmp1bfvb), falling originality and local
+relevance across 27 Reach newspapers from 2019 to 2025; Hayes
+(LIT-tmpk0xvf), scandal coverage down to about a quarter from 1990 to 2022
+as reporting resources shrank; Gao, Lee and Murphy (LIT-tmpn09dd), higher
+municipal borrowing costs after closures. All unread; observational except
+the headline tests.
+
+## Where it sits
+
+- CLAIM-404, with A33's newsroom governed through "resource dependencies"
+  and success criteria rather than instructions; CASE-123's press variant
+  is the record's earlier case of a newsroom whose evidence depends on the
+  party it evaluates.
+- CLAIM-463 (restoring the conditions a capacity was lost under need not
+  restore it): A33 §9's "path-dependent loss of organizational
+  possibility", and the formal hysteresis A35 reports from
+  Montero-Porras and colleagues' model (LIT-tmpc2x78, unread).
+- CLAIM-523 (legibility, volitional efficacy, correctability): losing
+  investigative capacity is losing legibility of the discrepancies the
+  newsroom exists to find.

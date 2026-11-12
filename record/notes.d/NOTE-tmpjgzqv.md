@@ -28,7 +28,6 @@ summary: >-
   lowering total microchimerism. What they do, why they persist, and what
   counts as microchimerism are open.
 ---
-<!-- inactive-ok-file: LIT-tmpyiplw LIT-tmp3n00g LIT-tmp5q8o7 LIT-tmpxdjn3 — Unfetched; the owner's sources this reading stands in for -->
 <!-- inactive-ok-file: CLAIM-tmpn0ytb ARG-tmp51yxc THEORY-tmp4rc81 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-448 THEORY-413 — Proposed; the readings this one bears on -->
 

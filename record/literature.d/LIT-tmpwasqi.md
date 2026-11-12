@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Forti et al. (2023), DOI-10.1016/j.beproc.2023.104907. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A19 §8. It bears on CASE-tmp10ykm. In A's account, which is unverified until read, it reads host manipulation by parasites through niche construction theory, complicating gene-centred explanations.
 ---
+<!-- inactive-ok-file: CASE-tmp10ykm — Proposed; filed from the same exchange -->
 
 # LIT-tmpwasqi: Host manipulation by parasites through the lens of Niche Construction Theory
 

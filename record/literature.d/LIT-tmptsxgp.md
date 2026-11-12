@@ -22,6 +22,8 @@ implementations: []
 summary: >-
   Devanesan (2026), DOI-10.1093/mind/fzaf066. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A13 §1. It bears on THEORY-448, CLAIM-tmpn0ytb. In A's account, which is unverified until read, it argues from immunological evidence for an overlap view of pregnancy: gestator and fetus share parts without either being part of the other.
 ---
+<!-- inactive-ok-file: THEORY-448 — Proposed; cited as on the record -->
+<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
 
 # LIT-tmptsxgp: A Mereological Analysis of Pregnancy—According to the Immune System
 

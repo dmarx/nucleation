@@ -142,3 +142,12 @@ identity does not.
   uses the same distinction for dementia.
 - **Abortion's premise.** "Each of us was once a fetus" is what Meincke's
   process view of pregnancy ([THEORY-448](THEORY-448.md)) bears on.
+
+## Note of 2026-11-12: the future adult and the infant, from "Medical Ethics and Media Enshitification"
+
+A9 §3 of the exchange (2026-11-11) cites this reading accurately and applies
+it to infant circumcision. The argument for deferring until adulthood
+protects the infant's body for a future decision-maker, and what links the
+two "might instead be the fact that the future adult's autonomy depends
+causally on what happens to the child's body now", not numerical identity.
+A's application, unread in any source; it bears on QUESTION-tmp2lvhi.

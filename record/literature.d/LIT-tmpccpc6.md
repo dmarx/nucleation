@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Wright and Herbenick (2026), DOI-10.1080/0092623x.2026.2752366. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §§1–2. It bears on CLAIM-tmpcv1pg. In A's account, which is unverified until read, it nationally representative survey evidence that heavier pornography users more often report shifts toward more intense content; associations small to moderate and not causal.
 ---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
 # LIT-tmpccpc6: Shifting Preferences in Pornography Consumption, Revisited
 

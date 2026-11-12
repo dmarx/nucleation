@@ -20,6 +20,7 @@ implementations: []
 summary: >-
   Shor and Seida (2018), DOI-10.1080/00224499.2018.1451476. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A27 §2. It bears on CLAIM-tmpcv1pg. In A's account, which is unverified until read, it codes 269 popular Pornhub videos from 2008 to 2016 and finds no consistent rise in aggression, and that aggressive videos drew fewer views and lower ratings.
 ---
+<!-- inactive-ok-file: CLAIM-tmpcv1pg — Proposed; filed from the same exchange -->
 
 # LIT-tmp9goww: “Harder and Harder”? Is Mainstream Pornography Becoming Increasingly Violent and Do Viewers Prefer Violent Content?
 

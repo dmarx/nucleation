@@ -21,6 +21,8 @@ implementations: []
 summary: >-
   Jia et al. (2026), DOI-10.1186/s12943-026-02715-5. Here because A cited it in the exchange "Medical Ethics and Media Enshitification" (2026-11-11) at A21 §6. It bears on CLAIM-tmpu69tn, THEORY-135, CLAIM-060. In A's account, which is unverified until read, it reviews neuron-tumour crosstalk, in which tumours recruit and remodel neural inputs.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu69tn — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: THEORY-135 — Proposed; cited as on the record -->
 
 # LIT-tmpj31gs: Neuron–tumor crosstalk in cancer: molecular mechanisms and translational advances
 
