@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1275 document(s) awaiting a decision.**
+**1278 document(s) awaiting a decision.**
 
 ## LITs
 
-141 of the 1275.
+141 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -157,7 +157,7 @@
 
 ## THEORYs
 
-700 of the 1275.
+700 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -864,7 +864,7 @@
 
 ## ADRs
 
-20 of the 1275.
+21 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -888,10 +888,11 @@
 | 2026-11-11 | Proposed | [ADR-088](../../record/decisions.d/ADR-088.md) | 0 | 31 | 27 | The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness |
 | 2026-11-11 | Proposed | [ADR-090](../../record/decisions.d/ADR-090.md) | 0 | 11 | 6 | A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses |
 | 2026-11-12 | Proposed | [ADR-095](../../record/decisions.d/ADR-095.md) | 0 | 102 | 0 | A case or a term that uses a reading other than as its source carries `draws_on` to it, and the reading's `drawn_on_by` is derived; how a case uses it is its kind's to say, and a term draws on the readings its sense is fixed by |
+| 2026-11-12 | Proposed | [ADR-096](../../record/decisions.d/ADR-096.md) | 0 | 5 | 0 | A demonstrated claim whose argument rests on an explicit construction carries it as a construction case: `grounds` when the construction is what demonstrates the claim, `illustrates` when it is a worked instance of a general proof |
 
 ## QUESTIONs
 
-6 of the 1275.
+6 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -904,7 +905,7 @@
 
 ## CLAIMs
 
-226 of the 1275.
+226 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1137,10 +1138,11 @@
 
 ## CASEs
 
-43 of the 1275.
+44 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
+| 2026-11-12 | Proposed | [CASE-233](../../record/cases.d/CASE-233.md) | 20 | 5 | 0 | A transition with a barrier: on configurations [0, 1] with a holding requirement r(q) = 0.7 + 2.4q(1 − q), both ends cost 0.7, every path between them passes 1.3 at q = 1/2, and at a budget of 1.0 the feasible set falls into two components, each end feasible and neither reachable from the other |
 | 2026-11-07 | Proposed | [CASE-231](../../record/cases.d/CASE-231.md) | 6 | 35 | 0 | Two viable regimes exchanging at rate 1, one of which fails at rate 0.02 into an absorbing state: conditioned on survival the chain settles within a few time units to (0.5025, 0.4975) and stays there, while survival decays as e^(−0.00995t), a mean lifetime of 100.5 |
 | 2026-10-26 | Proposed | [CASE-163](../../record/cases.d/CASE-163.md) | 2 | 41 | 3 | Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset |
 | 2026-11-07 | Proposed | [CASE-223](../../record/cases.d/CASE-223.md) | 2 | 37 | 4 | A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community's own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure |
@@ -1166,8 +1168,8 @@
 | 2026-11-04 | Proposed | [CASE-195](../../record/cases.d/CASE-195.md) | 0 | 6 | 2 | Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility |
 | 2026-11-04 | Proposed | [CASE-192](../../record/cases.d/CASE-192.md) | 0 | 3 | 0 | Two organizations equally impaired during an emotional episode, one dysregulated in DBT's sense, its threat perspective's baseline raised by the episode and decaying slowly, the other in the attentional sense, its task sharing a fixed budget with a competing demand: only the first stays impaired after the episode ends, and lowering activation repairs only the first while removing the competing demand repairs only the second |
 | 2026-11-04 | Proposed | [CASE-196](../../record/cases.d/CASE-196.md) | 0 | 3 | 0 | Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium |
-| 2026-11-05 | Proposed | [CASE-200](../../record/cases.d/CASE-200.md) | 0 | 24 | 1 | A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it |
-| 2026-11-05 | Proposed | [CASE-198](../../record/cases.d/CASE-198.md) | 0 | 19 | 0 | An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0 |
+| 2026-11-05 | Proposed | [CASE-200](../../record/cases.d/CASE-200.md) | 0 | 29 | 1 | A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it |
+| 2026-11-05 | Proposed | [CASE-198](../../record/cases.d/CASE-198.md) | 0 | 23 | 0 | An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0 |
 | 2026-11-05 | Proposed | [CASE-219](../../record/cases.d/CASE-219.md) | 0 | 18 | 0 | A proposed stochastic assembly study: hold a target organization fixed, vary the relative availability and the strength or arrangement of components at fixed total expenditure, and measure feasibility, the probability and time of assembly, kinetic traps, early intermediates and persistence |
 | 2026-11-05 | Proposed | [CASE-207](../../record/cases.d/CASE-207.md) | 0 | 15 | 0 | The square twist: a crease pattern with no rigid folding motion folds once facet bending is paid for, so which configurations are connected depends on the energy available |
 | 2026-11-05 | Proposed | [CASE-215](../../record/cases.d/CASE-215.md) | 0 | 14 | 0 | In A's branching assembly model, one unit of supply placed on the nucleating step or on the completing step gives yields 71.1 and 62.7 %, and the same integrated exposure delivered early, evenly or late gives 70.6, 58.8 and 24.8 % when nucleation uses it, but 45.4, 58.8 and 65.3 % when it traps the unnucleated scaffold and completes the nucleated one |
@@ -1187,7 +1189,7 @@
 
 ## TERMs
 
-23 of the 1275.
+23 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1217,7 +1219,7 @@
 
 ## ARGs
 
-38 of the 1275.
+39 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1259,10 +1261,11 @@
 | 2026-11-07 | Deferred | [ARG-070](../../record/arguments.d/ARG-070.md) | 0 | 3 | 0 | Pohlhaus's willful hermeneutical ignorance, unread here, is offered as what normative inversion resembles, and the record cannot yet check the resemblance |
 | 2026-11-07 | Proposed | [ARG-069](../../record/arguments.d/ARG-069.md) | 0 | 2 | 0 | Hirschman's exit and voice, in which members denied effective voice can still exit, carries over to a fork as the construction of a new organization through which a disposition the parent kept ineffective gains efficacy |
 | 2026-11-11 | Proposed | [ARG-076](../../record/arguments.d/ARG-076.md) | 0 | 0 | 0 | Eyerman's cultural trauma and Volkan's chosen trauma are evidence for the owner's thesis only for chosen trauma, where an ancestral injury is taken up as an injury to a present group identity and felt as grievance when that identity is threatened; they do not tell an enlarged self from a switched one, and they leave mourning for particular dead open |
+| 2026-11-12 | Proposed | [ARG-077](../../record/arguments.d/ARG-077.md) | 0 | 2 | 0 | The barrier at 1.3 between two configurations that each cost 0.7 shows that the threshold for reaching a configuration need not equal its requirement |
 
 ## SYNTHESISs
 
-78 of the 1275.
+78 of the 1278.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

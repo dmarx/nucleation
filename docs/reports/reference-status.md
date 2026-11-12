@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**914 documents cited without acknowledgement.** Not listed: 24090 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**914 documents cited without acknowledgement.** Not listed: 24111 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -10836,7 +10836,7 @@ The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine
 
 A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it
 
-1 citation in 1 file awaits a look; 23 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 28 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-087.md:109`](../../record/decisions.d/ADR-087.md)
 
