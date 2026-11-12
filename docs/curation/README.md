@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [12 Nov 02:26 — The exchange "Medical Ethics and Media Enshitification" filed: none of it was held, and most of its argument maps onto entries the record already has; the owner's microchimerism link, parasite question, heavy-user drift, loot-box test, news extension and PASS@(k,T) link; ten of A's claims, questions and cases; five ARGs; forty dated notes; three works read, four Unfetched and ninety-six registered unread](2026-11.md#the-exchange-medical-ethics-and-media-enshitification-filed-none-of-it-was-held-and-most-of-its-argument-maps-onto-entries-the-record-already-has-the-owners-microchimerism-link-parasite-question-heavy-user-drift-loot-box-test-news-extension-and-passkt-link-ten-of-as-claims-questions-and-cases-five-args-forty-dated-notes-three-works-read-four-unfetched-and-ninety-six-registered-unread)
 - [12 Nov 02:00 — The exchange "Meaning Transmission Explained" filed: A's relay of the record's account checked and found accurate but for two limits and one question it never cites; the owner's smoke-detector and debugging cases and the claim that an absence under an intervention means the mechanism is broken; A's claim on what registers an absence and its fire-alarm construction; one ARG, fifteen dated notes, and a THEORY for a reading that had none](2026-11.md#the-exchange-meaning-transmission-explained-filed-as-relay-of-the-records-account-checked-and-found-accurate-but-for-two-limits-and-one-question-it-never-cites-the-owners-smoke-detector-and-debugging-cases-and-the-claim-that-an-absence-under-an-intervention-means-the-mechanism-is-broken-as-claim-on-what-registers-an-absence-and-its-fire-alarm-construction-one-arg-fifteen-dated-notes-and-a-theory-for-a-reading-that-had-none)
 - [12 Nov 01:56 — The exchange "Identify Synthesis Opportunities" filed: A's plan and draft accounts overtaken by the record's own synthesis reviews, which reached nearly the same partitions; the owner's case of character LoRAs against reference conditioning, with its history and a proposed study; A's two constructions as cases, one claim and its ARG; seven cited works registered unread](2026-11.md#the-exchange-identify-synthesis-opportunities-filed-as-plan-and-draft-accounts-overtaken-by-the-records-own-synthesis-reviews-which-reached-nearly-the-same-partitions-the-owners-case-of-character-loras-against-reference-conditioning-with-its-history-and-a-proposed-study-as-two-constructions-as-cases-one-claim-and-its-arg-seven-cited-works-registered-unread)
 - [12 Nov 01:18 — First application of draws_on: 308 citations of readings by cases and terms; 242 draws_on, 61 none, one missing reported_in, seven flags](2026-11.md#first-application-of-draws_on-308-citations-of-readings-by-cases-and-terms-242-draws_on-61-none-one-missing-reported_in-seven-flags)
@@ -58,10 +59,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-246 entries across 3 books, newest first.
+247 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 49 | 2026-11-01 | 2026-11-12 |
+| [2026-11](2026-11.md) | 50 | 2026-11-01 | 2026-11-12 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

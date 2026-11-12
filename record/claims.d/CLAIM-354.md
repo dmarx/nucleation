@@ -86,7 +86,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
-<!-- inactive-ok-file: NOTE-tmptfr59 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1786 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 TERM-006 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -312,7 +312,7 @@ A lists four spaces, the instantaneously admissible directions, the states reach
 
 ## Note of 2026-11-12: Brenninger, Zug & Kokko (2025), read
 
-From the reading in [NOTE-tmptfr59](../notes.d/NOTE-tmptfr59.md) ([LIT-tmpzogx3](../literature.d/LIT-tmpzogx3.md)), the reader's assessment as
+From the reading in [NOTE-1786](../notes.d/NOTE-1786.md) ([LIT-2468](../literature.d/LIT-2468.md)), the reader's assessment as
 checked by the filer: **leaves open**. One could read reproductive
 manipulation as narrowing the host's reachable reproductive outcomes, but
 the review uses no such framing, and the claim concerns agents' will.

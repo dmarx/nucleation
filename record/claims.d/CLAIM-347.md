@@ -36,7 +36,7 @@ history:
   date: '2026-11-12'
   note: >-
     After the owner's review of #485 on 2026-11-12, the dated note's account
-    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
+    of CLAIM-662 is corrected to its narrowed form: expanding the
     recognized set cannot improve conjunctive compliance or lower the count
     of recognized violations, not that every score against the recognized
     set can only fall. No status change.
@@ -88,8 +88,8 @@ summary: >-
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 ---
-<!-- inactive-ok-file: NOTE-tmpxhqv2 — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: NOTE-1793 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
@@ -412,14 +412,14 @@ accommodation once the demands and the relevant organization have been
 specified". A39's game with three demands, revenue, accessibility and budget
 protection, every pair attainable and not the triple, is [CASE-119](../cases.d/CASE-119.md)'s hollow
 triangle (note there). A42 §8 turns the specification into a question, filed
-as [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md), and [CLAIM-tmpvceet](CLAIM-tmpvceet.md) derives from this claim's downward closure that, for a fixed arrangement,
+as [QUESTION-456](../questions.d/QUESTION-456.md), and [CLAIM-662](CLAIM-662.md) derives from this claim's downward closure that, for a fixed arrangement,
 recognizing more demands cannot improve conjunctive compliance or lower the
 count of recognized violations (as narrowed after the owner's review of [#485](https://github.com/dmarx/nucleation/issues/485)
 on 2026-11-12; not every score against the recognized set falls). No status change.
 
 ## Note of 2026-11-12: Fanning & Raworth (2025), read
 
-From the reading in [NOTE-tmproi9j](../notes.d/NOTE-tmproi9j.md) ([LIT-tmpvzqif](../literature.d/LIT-tmpvzqif.md)), the reader's assessment as
+From the reading in [NOTE-1782](../notes.d/NOTE-1782.md) ([LIT-2454](../literature.d/LIT-2454.md)), the reader's assessment as
 checked by the filer: **supports, as an illustration from outside**. The
 Doughnut judges each demand against its own acceptance threshold and
 declines a common scale between the social and ecological domains ("no
@@ -430,7 +430,7 @@ as a declared measure, not as frustration itself.
 
 ## Note of 2026-11-12: Burke et al. (2025), De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems, read
 
-From the reading in [NOTE-tmpxhqv2](../notes.d/NOTE-tmpxhqv2.md) ([LIT-tmpfkveo](../literature.d/LIT-tmpfkveo.md)), the reader's assessment as
+From the reading in [NOTE-1793](../notes.d/NOTE-1793.md) ([LIT-2400](../literature.d/LIT-2400.md)), the reader's assessment as
 checked by the filer: **supports by analogy, independently.** Burke et al.
 keep the multi-metric vector as a legitimate end state and allow expert
 orderings with incomparable pairs, which is CLAIM-347's point that relief
@@ -442,7 +442,7 @@ relief").
 
 ## Note of 2026-11-12: Rockström, Denton, Norström et al., read
 
-From the reading in [NOTE-tmpyn25j](../notes.d/NOTE-tmpyn25j.md) ([LIT-tmpmcbfb](../literature.d/LIT-tmpmcbfb.md)), the reader's assessment as
+From the reading in [NOTE-1796](../notes.d/NOTE-1796.md) ([LIT-2422](../literature.d/LIT-2422.md)), the reader's assessment as
 checked by the filer: the recapped result that meeting minimum access for
 the poorest "would cause further transgressions" under current inequality is
 a case of jointly unsatisfiable demands (floor vs ceiling) for given
@@ -452,7 +452,7 @@ Illustrative only; no ordinal analysis.
 
 ## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
 
-From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
+From the reading in [NOTE-1740](../notes.d/NOTE-1740.md) ([LIT-2429](../literature.d/LIT-2429.md)), the reader's assessment as
 checked by the filer: **leaves open; serves at most as a contrast case.**
 The model resolves user–organization conflict by a weighted sum whose
 weights are set by "flexibility", i.e. by discounting whichever party can

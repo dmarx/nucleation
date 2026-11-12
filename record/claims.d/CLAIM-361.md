@@ -206,12 +206,12 @@ narrows from independent discovery to freedom from advertisers'
 instructions. This is neither relief nor deletion, and only an explicit
 correspondence of acceptance sets, which this claim requires, detects it.
 The empirical source A cites is Moats, Ruckenstein and colleagues on value
-narrowing, tickboxing, pushing, mismatch and projection ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md),
+narrowing, tickboxing, pushing, mismatch and projection ([LIT-2361](../literature.d/LIT-2361.md),
 unread). Supports; no status change.
 
 ## Note of 2026-11-12: Moats et al. (2026), read
 
-From the reading in [NOTE-tmpefsvl](../notes.d/NOTE-tmpefsvl.md) ([LIT-tmp6iql7](../literature.d/LIT-tmp6iql7.md)), the reader's assessment as
+From the reading in [NOTE-1760](../notes.d/NOTE-1760.md) ([LIT-2361](../literature.d/LIT-2361.md)), the reader's assessment as
 checked by the filer: *supports* the claim's point that changing the test
 while keeping the name is not satisfaction ("presented as if it had been
 fulfilled", result 3), and tickboxing's entrenchment (result 5) is an
@@ -220,6 +220,6 @@ formal content; it gives no organization-level before/after data.
 
 ## Note of 2026-11-12: Boxer, McFowland and Neill, read
 
-From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](../literature.d/LIT-tmp14en7.md)), the reader's assessment as
+From the reading in [NOTE-1741](../notes.d/NOTE-1741.md) ([LIT-2344](../literature.d/LIT-2344.md)), the reader's assessment as
 checked by the filer: CBS's protected class and covariates are such a fixed
 reference set; the paper does not discuss how it is chosen.

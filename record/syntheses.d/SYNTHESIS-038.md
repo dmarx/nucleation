@@ -77,7 +77,7 @@ summary: >-
   answerability, and [CLAIM-619](../claims.d/CLAIM-619.md) a counter-corrective disposition. The
   account adds nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: CASE-tmpd5eqf CLAIM-tmpifp69 CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-247 CLAIM-656 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ARG-043 ARG-055 ARG-058 ARG-059 ARG-062 ARG-064 CASE-229 CLAIM-445 CLAIM-511 CLAIM-608 CLAIM-614 CLAIM-619 CLAIM-624 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-063 CASE-228 — Proposed; an argument concluding CLAIM-624 from outside the line, and its construction -->
 <!-- inactive-ok-file: ARG-070 — Deferred; components and citations, set aside -->
@@ -206,6 +206,6 @@ through this account's components, [QUESTION-128](../questions.d/QUESTION-128.md
 [QUESTION-441](../questions.d/QUESTION-441.md), [QUESTION-449](../questions.d/QUESTION-449.md) and [CLAIM-075](../claims.d/CLAIM-075.md), and states each accurately. It
 adds no component the account lacks. Audited in the curation entry of
 2026-11-12 as descriptive; no revision. Entries filed from the exchange on
-this line, [CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), [CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md), [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md), [QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)
-and [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md), are not yet integrated, which is the owner's call at
+this line, [CLAIM-662](../claims.d/CLAIM-662.md), [CLAIM-656](../claims.d/CLAIM-656.md), [CASE-247](../cases.d/CASE-247.md), [QUESTION-456](../questions.d/QUESTION-456.md)
+and [QUESTION-454](../questions.d/QUESTION-454.md), are not yet integrated, which is the owner's call at
 the next synthesis review.

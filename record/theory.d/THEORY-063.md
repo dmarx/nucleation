@@ -182,6 +182,6 @@ changes.
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+From the reading in [NOTE-1737](../notes.d/NOTE-1737.md) ([LIT-2354](../literature.d/LIT-2354.md)), the reader's assessment as
 checked by the filer: Hasler's integration-maximum question is the same
 criterion applied to ENS vs CNS.

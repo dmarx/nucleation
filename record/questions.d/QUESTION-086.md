@@ -38,8 +38,8 @@ summary: >-
   that separates the pair, or an argument that none can short of the
   removal.
 ---
-<!-- inactive-ok-file: LIT-tmpxdjn3 — Unfetched; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: THEORY-tmp6t2l2 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-2462 — Unfetched; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-1030 THEORY-071 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-086: Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?
@@ -218,7 +218,7 @@ and Media Enshitification" (2026-11-11), accepted by the owner on
 2026-11-12. Peng, Way and colleagues report, in mice, that depleting LysM+
 CD11c+ maternal microchimeric cells removes the offspring's tolerance of
 non-inherited maternal antigens while most maternal cells persist
-([THEORY-tmp6t2l2](../theory.d/THEORY-tmp6t2l2.md), from a press post; the paper, [LIT-tmpxdjn3](../literature.d/LIT-tmpxdjn3.md), is Unfetched,
+([THEORY-1658](../theory.d/THEORY-1658.md), from a press post; the paper, [LIT-2462](../literature.d/LIT-2462.md), is Unfetched,
 so the reading is owed and nothing here is a finding). The cells are of
 another organism's lineage and sustain a capacity of the host. Proposed
 test: compare offspring whose tolerance is sustained by their own maternal

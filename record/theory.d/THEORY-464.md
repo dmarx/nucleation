@@ -47,9 +47,9 @@ summary: >-
 bears_on:
 - QUESTION-302
 ---
-<!-- inactive-ok-file: NOTE-tmpzb2cf — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpn0ytb — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: NOTE-tmpuunni — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1799 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-659 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1788 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-447 — Proposed; the presupposed account, filed in the same batch; if it falls this one needs another premise -->
 <!-- inactive-ok-file: THEORY-448 THEORY-546 THEORY-650 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-147 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
@@ -153,12 +153,12 @@ it to infant circumcision. The argument for deferring until adulthood
 protects the infant's body for a future decision-maker, and what links the
 two "might instead be the fact that the future adult's autonomy depends
 causally on what happens to the child's body now", not numerical identity.
-A's application, unread in any source; it bears on [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
+A's application, unread in any source; it bears on [QUESTION-454](../questions.d/QUESTION-454.md).
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md)
-([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment
+From the reading in [NOTE-1734](../notes.d/NOTE-1734.md)
+([LIT-2378](../literature.d/LIT-2378.md)), the reader's assessment
 as checked by the filer: consistent; Millum's argument never turns on
 whether child and adult are the same person, only on present capacity and
 interests. Leaves the theory's claim untouched; a mild illustration.
@@ -168,7 +168,7 @@ Millum adds nothing on them.
 
 ## Note of 2026-11-12: The Ethics of Abortion (Harman, Stanford Encyclopedia of Philosophy, 2025), read
 
-From the reading in [NOTE-tmpuunni](../notes.d/NOTE-tmpuunni.md) ([LIT-tmph9slz](../literature.d/LIT-tmph9slz.md)), the reader's assessment as
+From the reading in [NOTE-1788](../notes.d/NOTE-1788.md) ([LIT-2410](../literature.d/LIT-2410.md)), the reader's assessment as
 checked by the filer: **supports** it, from the parts read. §2.2's objection
 turns on psychological connectedness and time-relative interests (McMahan),
 not on whether the fetus is numerically the later person. This is the
@@ -176,7 +176,7 @@ pattern THEORY-464 describes.
 
 ## Note of 2026-11-12: Dranseika (J Med Ethics 2026), read
 
-From the reading in [NOTE-tmpaeoh4](../notes.d/NOTE-tmpaeoh4.md) ([LIT-tmpoeqhr](../literature.d/LIT-tmpoeqhr.md)), the reader's assessment as
+From the reading in [NOTE-1751](../notes.d/NOTE-1751.md) ([LIT-2427](../literature.d/LIT-2427.md)), the reader's assessment as
 checked by the filer: **qualifies**. This theory holds, as [THEORY-448](THEORY-448.md) does,
 that the metaphysics constrains the ethics without settling it. Dranseika's
 commentary on Devanesan adds that the dependence can run the other way, from
@@ -186,7 +186,7 @@ it. No status change.
 
 ## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
 
-From the reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) ([LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)), the reader's assessment as
+From the reading in [NOTE-1731](../notes.d/NOTE-1731.md) ([LIT-2383](../literature.d/LIT-2383.md)), the reader's assessment as
 checked by the filer: **Supports, from outside the identity debate**: Nix
 never asks whether the PLWD is the same person as the author of the AR; the
 AR's authority fails for him because of the duty-of-care requirement of
@@ -197,7 +197,7 @@ theory's survey of the identity literature.
 
 ## Note of 2026-11-12: Żuradzki (2026), Ethics-first metaphysics: normative considerations as evidence for ontological commitments, read
 
-From the reading in [NOTE-tmp88rw9](../notes.d/NOTE-tmp88rw9.md) ([LIT-tmpblasa](../literature.d/LIT-tmpblasa.md)), the reader's assessment as
+From the reading in [NOTE-1744](../notes.d/NOTE-1744.md) ([LIT-2382](../literature.d/LIT-2382.md)), the reader's assessment as
 checked by the filer: qualifies, in the same way. It holds that the
 metaphysics of persistence constrains ethical questions without settling
 them; Żuradzki, following Dasgupta, takes judgments of prudence and
@@ -205,7 +205,7 @@ responsibility to guide theorizing about persistence conditions.
 
 ## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
 
-From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](../literature.d/LIT-tmp4zfda.md)), the reader's assessment as
+From the reading in [NOTE-1799](../notes.d/NOTE-1799.md) ([LIT-2355](../literature.d/LIT-2355.md)), the reader's assessment as
 checked by the filer: the paper's ground is what the child "will inevitably
 come to" feel about their body, a forward relation between infant and adult
 that does not rest on identity claims; consistent with A9 §3's suggestion
@@ -213,7 +213,7 @@ reported in the question.
 
 ## Note of 2026-11-12: Finn, read
 
-From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
-checked by the filer: and **[CLAIM-tmpn0ytb](../claims.d/CLAIM-tmpn0ytb.md)** (microchimerism): Finn
+From the reading in [NOTE-1753](../notes.d/NOTE-1753.md) ([LIT-2358](../literature.d/LIT-2358.md)), the reader's assessment as
+checked by the filer: and **[CLAIM-659](../claims.d/CLAIM-659.md)** (microchimerism): Finn
 deliberately sets aside the post-birth relation (fn. 14) and ethical
 conclusions.

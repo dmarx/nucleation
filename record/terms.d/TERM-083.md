@@ -45,8 +45,8 @@ draws_on:
 - THEORY-554
 - THEORY-699
 ---
-<!-- inactive-ok-file: NOTE-tmpzb2cf — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: NOTE-tmp4g0oe — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1799 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1733 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: ADR-095 THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
@@ -125,11 +125,11 @@ a system becomes an individual can help identify candidate bearers of moral
 standing, but cannot by itself establish what those individuals are owed".
 That is this term's demand that standing be argued, and [CLAIM-075](../claims.d/CLAIM-075.md)'s. The
 question of who may act on a standing that the bearer cannot exercise is
-filed as [QUESTION-tmp2lvhi](../questions.d/QUESTION-tmp2lvhi.md).
+filed as [QUESTION-454](../questions.d/QUESTION-454.md).
 
 ## Note of 2026-11-12: Greely (2026), Alabama's LePage decision, the future of ex vivo embryos, and more, read
 
-From the reading in [NOTE-tmp4g0oe](../notes.d/NOTE-tmp4g0oe.md) ([LIT-tmpfjc6u](../literature.d/LIT-tmpfjc6u.md)), the reader's assessment as
+From the reading in [NOTE-1733](../notes.d/NOTE-1733.md) ([LIT-2399](../literature.d/LIT-2399.md)), the reader's assessment as
 checked by the filer: **Illustrates the separation**: LePage gave frozen
 embryos a legal status ("minor children") for one statute and one remedy,
 which Greely shows was neither a judgement of moral standing nor general
@@ -140,6 +140,6 @@ analogue is "children for the purposes of the Wrongful Death Act".
 
 ## Note of 2026-11-12: The Brussels Collaboration on Bodily Integrity, read
 
-From the reading in [NOTE-tmpzb2cf](../notes.d/NOTE-tmpzb2cf.md) ([LIT-tmp4zfda](../literature.d/LIT-tmp4zfda.md)), the reader's assessment as
+From the reading in [NOTE-1799](../notes.d/NOTE-1799.md) ([LIT-2355](../literature.d/LIT-2355.md)), the reader's assessment as
 checked by the filer: the paper takes the child's standing as given and
 argues what follows for others' authority.

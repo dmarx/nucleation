@@ -31,9 +31,9 @@ history:
   date: '2026-11-12'
   note: >-
     After the owner's review of #485 on 2026-11-12: the account of
-    CLAIM-tmpvceet in the note is corrected to its narrowed form, and a
+    CLAIM-662 in the note is corrected to its narrowed form, and a
     dated note points to the owner's distinction between selective
-    disappearance and costly discovery, filed as CLAIM-tmpljkzy. Stays Open.
+    disappearance and costly discovery, filed as CLAIM-657. Stays Open.
 tags:
 - ethics
 - self-governance
@@ -55,9 +55,9 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md), A's, and the owner has endorsed
   neither.
 ---
-<!-- inactive-ok-file: CLAIM-tmpavez3 CLAIM-tmpljkzy — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: NOTE-tmp5dpvo — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CASE-tmpd5eqf CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1736 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CASE-247 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the owner's thesis and A's answers -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form -->
 
@@ -109,29 +109,29 @@ three stages with constructed cases: an optimization error the organization
 corrects; "self-certifying blindness", in which it reads its selective data
 as success; and "counter-corrective governance", in which a challenge leads
 it to make later challenges less effective, which is [CLAIM-619](../claims.d/CLAIM-619.md). Its newsroom
-variant is filed as [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md). The exchange adds a passive route that
+variant is filed as [CASE-247](../cases.d/CASE-247.md). The exchange adds a passive route that
 needs no response to any challenge: governance that penalizes newly
 recognized violations without rewarding their discovery penalizes the
-inquiry that would recognize more ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), as narrowed after the
+inquiry that would recognize more ([CLAIM-662](../claims.d/CLAIM-662.md), as narrowed after the
 owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) on 2026-11-12). A39 §7
 recasts answerability as a demand A_C in the compatibility complex. The
 question stays Open.
 
 ## Note of 2026-11-12: Dierickx et al. (2024), A data-centric approach for ethical and trustworthy AI in journalism, read
 
-From the reading in [NOTE-tmp5dpvo](../notes.d/NOTE-tmp5dpvo.md) ([LIT-tmp7cw8s](../literature.d/LIT-tmp7cw8s.md)), the reader's assessment as
+From the reading in [NOTE-1736](../notes.d/NOTE-1736.md) ([LIT-2367](../literature.d/LIT-2367.md)), the reader's assessment as
 checked by the filer: **leaves open**; it shows principles operationalized
 as practice-level checks, not an organization's counter-normativity.
 
 ## Note of 2026-11-12: Robertson et al., read
 
-From the reading in [NOTE-tmpyh8fv](../notes.d/NOTE-tmpyh8fv.md) ([LIT-tmpox72u](../literature.d/LIT-tmpox72u.md)), the reader's assessment as
+From the reading in [NOTE-1794](../notes.d/NOTE-1794.md) ([LIT-2430](../literature.d/LIT-2430.md)), the reader's assessment as
 checked by the filer: only via the claim; the paper is about reader
 behaviour, not organizational counter-normativity.
 
 ## Note of 2026-11-12: Lefèvre, Errando, Afilipoaie, Ranaivoson and Wiart, read
 
-From the reading in [NOTE-tmpn7tu4](../notes.d/NOTE-tmpn7tu4.md) ([LIT-tmpu8oxs](../literature.d/LIT-tmpu8oxs.md)), the reader's assessment as
+From the reading in [NOTE-1777](../notes.d/NOTE-1777.md) ([LIT-2445](../literature.d/LIT-2445.md)), the reader's assessment as
 checked by the filer: weak bearing; the paper describes where visibility
 criteria come from (platforms, marketing, editors) but not
 counter-normativity.
@@ -140,12 +140,12 @@ counter-normativity.
 
 The owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) refines this question with two routes by which an
 organization becomes normatively less informed without censoring anyone.
-Selective disappearance ([CLAIM-tmpavez3](../claims.d/CLAIM-tmpavez3.md)): the harmed exit, so complaints are
+Selective disappearance ([CLAIM-652](../claims.d/CLAIM-652.md)): the harmed exit, so complaints are
 counted accurately from a shrinking population, a selection of the observed
-population. Costly discovery ([CLAIM-tmpvceet](../claims.d/CLAIM-tmpvceet.md), as narrowed): an audit that
+population. Costly discovery ([CLAIM-662](../claims.d/CLAIM-662.md), as narrowed): an audit that
 would reveal unmet obligations worsens measured performance and is not done,
 a selection of the questions investigated. Neither needs deliberate
 suppression, and both differ from the counter-corrective model ([CLAIM-619](../claims.d/CLAIM-619.md)).
 The owner asks that they not be conflated, "particularly when attributing
 responsibility". The record did not hold the distinction; it is filed as the
-owner's [CLAIM-tmpljkzy](../claims.d/CLAIM-tmpljkzy.md), interpretive. The question stays Open.
+owner's [CLAIM-657](../claims.d/CLAIM-657.md), interpretive. The question stays Open.

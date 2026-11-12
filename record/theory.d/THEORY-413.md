@@ -99,7 +99,7 @@ not. She chose the disputes and reads them from one side.
 
 ## Note of 2026-11-12: Boddy, Fortunato, Wilson Sayres and Aktipis, read
 
-From the reading in [NOTE-tmpqbilf](../notes.d/NOTE-tmpqbilf.md) ([LIT-tmpv8dr2](../literature.d/LIT-tmpv8dr2.md)), the reader's assessment as
+From the reading in [NOTE-1781](../notes.d/NOTE-1781.md) ([LIT-2450](../literature.d/LIT-2450.md)), the reader's assessment as
 checked by the filer: bears as an application/illustration. Boddy et al.
 treat fetal cells as potential bearers of adaptations serving offspring
 fitness within the maternal body — a within-mother level at which
@@ -113,7 +113,7 @@ units-of-selection disputes.
 
 ## Note of 2026-11-12: Sullivan et al., read
 
-From the reading in [NOTE-tmpm8u4z](../notes.d/NOTE-tmpm8u4z.md) ([LIT-tmp18mi5](../literature.d/LIT-tmp18mi5.md)), the reader's assessment as
+From the reading in [NOTE-1775](../notes.d/NOTE-1775.md) ([LIT-2345](../literature.d/LIT-2345.md)), the reader's assessment as
 checked by the filer: the authors' framing is that sickness states are host
 adaptations (host as beneficiary), with adaptiveness explicitly not yet
 tested.

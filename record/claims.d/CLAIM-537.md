@@ -135,11 +135,11 @@ inclusions. A calls it "a proposed application of existing
 robust-feasibility machinery", rightly, since it is this claim's ∀∃ against
 ∃∀. Its use: an institution can act defensibly across reasonable
 interpretations without choosing among them exactly when the demand set is
-in K_uniform ([QUESTION-tmpuftum](../questions.d/QUESTION-tmpuftum.md)). No new claim filed.
+in K_uniform ([QUESTION-456](../questions.d/QUESTION-456.md)). No new claim filed.
 
 ## Note of 2026-11-12: Md Fahim Sikder, read
 
-From the reading in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md) ([LIT-tmppyl6o](../literature.d/LIT-tmppyl6o.md)), the reader's assessment as
+From the reading in [NOTE-1779](../notes.d/NOTE-1779.md) ([LIT-2434](../literature.d/LIT-2434.md)), the reader's assessment as
 checked by the filer: **leaves open; a statistical analogue only.** FairCert
 certifies a tolerance (|gap| ≤ ε) under sampling uncertainty, and whether a
 classifier can be *certified* depends on what the auditor can observe

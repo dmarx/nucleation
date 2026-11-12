@@ -270,7 +270,7 @@ The question stays open.
 
 ## Note of 2026-11-12: Étienne Brown, read
 
-From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
+From the reading in [NOTE-1792](../notes.d/NOTE-1792.md) ([LIT-2425](../literature.d/LIT-2425.md)), the reader's assessment as
 checked by the filer: Brown's explainability requirement is a partial,
 practical answer for one channel: record why each recommendation was made
 (which similarity relation), so that a self-attribution's origin can be

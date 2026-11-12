@@ -61,7 +61,7 @@ summary: >-
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
-<!-- inactive-ok-file: CASE-tmpz1l6r — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-249 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
 
@@ -209,4 +209,4 @@ budget (A25 §6) and to investigative capacity (A33 §8). A44 §5 adds a step
 before legibility that the claim takes for granted: the organization must be
 able to recognize which candidate arrangement satisfies the demand,
 "Oracle-assessed availability" against "Operational success"
-([CASE-tmpz1l6r](../cases.d/CASE-tmpz1l6r.md)). No status change.
+([CASE-249](../cases.d/CASE-249.md)). No status change.

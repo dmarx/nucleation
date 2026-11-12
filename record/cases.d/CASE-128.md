@@ -57,8 +57,8 @@ draws_on:
 - THEORY-067
 - THEORY-1285
 ---
-<!-- inactive-ok-file: NOTE-tmpc3zs5 — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: LIT-tmp6oofp — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: NOTE-1755 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: LIT-2364 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
@@ -143,13 +143,13 @@ to a player's self-set spending limit, "A person who voluntarily establishes
 a spending constraint may be exercising autonomy, not relinquishing it",
 where the question is whether the software supports the authorized
 constraint. A21 §1 applies it to adaptive deep brain stimulation, an
-external regulator the patient authorized ([LIT-tmp6oofp](../literature.d/LIT-tmp6oofp.md), unread). A9 §5
+external regulator the patient authorized ([LIT-2364](../literature.d/LIT-2364.md), unread). A9 §5
 applies it to advance directives. In each the case's contrast between the
 delegated and the imposed restriction carries over. No change.
 
 ## Note of 2026-11-12: Muñoz et al. (2020), read
 
-From the reading in [NOTE-tmpc3zs5](../notes.d/NOTE-tmpc3zs5.md) ([LIT-tmplfdsz](../literature.d/LIT-tmplfdsz.md)), the reader's assessment as
+From the reading in [NOTE-1755](../notes.d/NOTE-1755.md) ([LIT-2419](../literature.d/LIT-2419.md)), the reader's assessment as
 checked by the filer: result 4 (an always-available patient override) and
 result 5 (too much patient control can undermine autonomy) are the clinical
 form of the case's harder variant, that "Immediate revocability cannot
@@ -159,7 +159,7 @@ carry the difference.
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md) ([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment as
+From the reading in [NOTE-1734](../notes.d/NOTE-1734.md) ([LIT-2378](../literature.d/LIT-2378.md)), the reader's assessment as
 checked by the filer: tension worth noting for the filer: Millum's
 principle, taken strictly, would deny the earlier self's delegation
 authority over the later competent self, which is what CASE-128 turns on.

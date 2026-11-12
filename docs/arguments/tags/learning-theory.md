@@ -6,8 +6,8 @@
 
 **Learning theory** — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
-0 of 85 ARG documents. Back to the [full index](../README.md).
+1 of 95 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-093](../../../record/arguments.d/ARG-093.md) | PASS@(k,T)'s capability boundary, efficiency and interaction depth correspond to the record's reachability by a process, reliable attainment and resource index, with two differences: the paper's process is a stochastic policy that can change with its budget, and its success is judged by an oracle | From the exchange "Medical Ethics and Media Enshitification" (2026-11-11): the owner's U21 and A44 §§1 and 5, with the paper read. The analogy holds for the respects the owner's claim needs: a limiting-success set relative to a process and a budget, against single-attempt reliability inside it. It fails to carry monotonicity in the budget, because a policy is not a fixed move rule, and it carries nothing about evaluators that can be wrong. Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

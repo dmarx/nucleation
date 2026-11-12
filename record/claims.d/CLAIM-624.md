@@ -135,7 +135,7 @@ summary: >-
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
-<!-- inactive-ok-file: CASE-tmpd5eqf — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-610 CLAIM-611 CLAIM-615 — filed from the same exchange, Proposed or Deferred; cited as filed -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-446 TERM-086 — Deferred, Proposed; cited with their standing -->
@@ -372,4 +372,4 @@ represents the duty as a demand A_C, histories that maintain adequate
 answerability, and asks whether it is compatible with the organization's
 functional demands. The interesting case is the third: compatible once and
 made incompatible by the organization's own history (the note on [CLAIM-464](CLAIM-464.md)).
-A37's newsroom variant is [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md). No status change.
+A37's newsroom variant is [CASE-247](../cases.d/CASE-247.md). No status change.

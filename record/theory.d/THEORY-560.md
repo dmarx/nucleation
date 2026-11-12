@@ -34,8 +34,8 @@ summary: >-
   because the source is a narrative industry review; the gap it describes
   runs against its authors' interest.
 ---
-<!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1773 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1738 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's claim this account grounds -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading named as the bridge, untested -->
 
@@ -113,7 +113,7 @@ nothing: [CLAIM-166](../claims.d/CLAIM-166.md) uses both halves.
 
 ## Note of 2026-11-12: Nakhal et al. (2026), read
 
-From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
+From the reading in [NOTE-1738](../notes.d/NOTE-1738.md) ([LIT-2365](../literature.d/LIT-2365.md)), the reader's assessment as
 checked by the filer: and **[CASE-047](../cases.d/CASE-047.md)** (gut microbes and the host's hunger
 and mood): same evidential tier; this study is weaker than the germ-free and
 transplant work THEORY-560 summarizes, since it has no colonization or
@@ -121,12 +121,12 @@ rescue arm.
 
 ## Note of 2026-11-12: Almarzooqi et al., read
 
-From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
+From the reading in [NOTE-1773](../notes.d/NOTE-1773.md) ([LIT-2352](../literature.d/LIT-2352.md)), the reader's assessment as
 checked by the filer: and **[LIT-915](../literature.d/LIT-915.md)** (the held review "One Giant Leap from
 Mouse to Man"): this 2026 review is a later restatement of the same grading,
 adding MR and mediation as the missing tools; it does not overturn either.
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+From the reading in [NOTE-1737](../notes.d/NOTE-1737.md) ([LIT-2354](../literature.d/LIT-2354.md)), the reader's assessment as
 checked by the filer: Hasler adds no microbiome evidence.

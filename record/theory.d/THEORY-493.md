@@ -103,6 +103,6 @@ single countermodel shows it does not.
 
 ## Note of 2026-11-12: Finn, read
 
-From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
+From the reading in [NOTE-1753](../notes.d/NOTE-1753.md) ([LIT-2358](../literature.d/LIT-2358.md)), the reader's assessment as
 checked by the filer: and **[LIT-124](../literature.d/LIT-124.md) / [NOTE-163](../notes.d/NOTE-163.md)** (SEP Mereology): the
 mereological background; [NOTE-163](../notes.d/NOTE-163.md) mentions underlap in the formal sense.

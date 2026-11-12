@@ -58,11 +58,11 @@ summary: >-
 bears_on:
 - QUESTION-033
 ---
-<!-- inactive-ok-file: NOTE-tmpi4x1w — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: NOTE-tmpleweb — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpoxhqq — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: LIT-tmpddwp2 LIT-tmpwo0nr — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: NOTE-1767 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1773 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1738 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-660 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-2393 LIT-2459 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-560 — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
@@ -156,20 +156,20 @@ which is what its defeated_if turns on.
 At U7 of the exchange (2026-11-11) the owner asked whether research on a
 "gut brain" bears on the discussion. A15 answered with the enteric nervous
 system as an intermediate level between the microbial collective and the
-central nervous system, and with Hasler's distinction ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md), unread)
+central nervous system, and with Hasler's distinction ([LIT-2354](../literature.d/LIT-2354.md), unread)
 between a contributory thesis, that enteric activity helps constitute the
 whole animal's experience, and a partial-subject thesis, that it has some
 experience of its own; most evidence supports the first. A15 states this
 claim's status correctly. A17's ladder rates "Gut microbes independently
 formulate goals that they impose on human hosts" not established, and the
-owner (U9) moved that question to parasites, [QUESTION-tmpgciew](../questions.d/QUESTION-tmpgciew.md), answered by
-A in [CLAIM-tmpoxhqq](CLAIM-tmpoxhqq.md). Nothing here changes the claim's evidence: the new
-gut-brain works are registered unread ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md), [LIT-tmpddwp2](../literature.d/LIT-tmpddwp2.md),
-[LIT-tmp7144o](../literature.d/LIT-tmp7144o.md), [LIT-tmpwo0nr](../literature.d/LIT-tmpwo0nr.md), [LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)). No status change.
+owner (U9) moved that question to parasites, [QUESTION-455](../questions.d/QUESTION-455.md), answered by
+A in [CLAIM-660](CLAIM-660.md). Nothing here changes the claim's evidence: the new
+gut-brain works are registered unread ([LIT-2347](../literature.d/LIT-2347.md), [LIT-2393](../literature.d/LIT-2393.md),
+[LIT-2365](../literature.d/LIT-2365.md), [LIT-2459](../literature.d/LIT-2459.md), [LIT-2352](../literature.d/LIT-2352.md)). No status change.
 
 ## Note of 2026-11-12: Nakhal et al. (2026), read
 
-From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
+From the reading in [NOTE-1738](../notes.d/NOTE-1738.md) ([LIT-2365](../literature.d/LIT-2365.md)), the reader's assessment as
 checked by the filer: *leaves open*. The work concerns development of the
 offspring's tissues under the *mother's* microbiota, not a person's own
 microbiome driving its present behaviour or experience; it measures
@@ -182,7 +182,7 @@ status change"; the reading supports keeping that.
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
+From the reading in [NOTE-1765](../notes.d/NOTE-1765.md) ([LIT-2347](../literature.d/LIT-2347.md)), the reader's assessment as
 checked by the filer: **qualifies; supports the framing, not the evidence**.
 It agrees the human microbiota–cognition evidence is inconclusive ("too
 early"), and suggests visceral perception as an unstudied mediator: a route
@@ -192,7 +192,7 @@ environment) bears on the claim's "membership is disputable".
 
 ## Note of 2026-11-12: Almarzooqi et al., read
 
-From the reading in [NOTE-tmpleweb](../notes.d/NOTE-tmpleweb.md) ([LIT-tmp42smw](../literature.d/LIT-tmp42smw.md)), the reader's assessment as
+From the reading in [NOTE-1773](../notes.d/NOTE-1773.md) ([LIT-2352](../literature.d/LIT-2352.md)), the reader's assessment as
 checked by the filer: **supports the claim's grading as stated**. Routes
 (vagal, immune, HPA, metabolite) and rodent causal evidence (GF, FMT
 phenotype transfer, vagotomy-dependent probiotic effects) are reviewed as
@@ -208,7 +208,7 @@ hunger and mood. Other held entries it bears on (found on recheck):
 
 ## Note of 2026-11-12: Hasler, read
 
-From the reading in [NOTE-tmp5dqkd](../notes.d/NOTE-tmp5dqkd.md) ([LIT-tmp4a5du](../literature.d/LIT-tmp4a5du.md)), the reader's assessment as
+From the reading in [NOTE-1737](../notes.d/NOTE-1737.md) ([LIT-2354](../literature.d/LIT-2354.md)), the reader's assessment as
 checked by the filer: **qualifies / adds a level, adds no evidence for the
 claim's empirical part**. Hasler places the ENS between the microbial
 collective and the person and frames its role as "valuation", signals that
@@ -221,7 +221,7 @@ microbiome effects.
 
 ## Note of 2026-11-12: Ahmed et al. (2022), Microbiota-derived metabolites as drivers of gut–brain communication, read
 
-From the reading in [NOTE-tmpi4x1w](../notes.d/NOTE-tmpi4x1w.md) ([LIT-tmpth8gj](../literature.d/LIT-tmpth8gj.md)), the reader's assessment as
+From the reading in [NOTE-1767](../notes.d/NOTE-1767.md) ([LIT-2442](../literature.d/LIT-2442.md)), the reader's assessment as
 checked by the filer: **supports its grading** that routes exist and are
 causal in animals while human evidence is modest; this review is explicit
 that human evidence is "scarce and contradictory" for SCFAs and "limited"

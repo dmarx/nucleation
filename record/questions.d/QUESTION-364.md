@@ -163,13 +163,13 @@ describe its distinctions accurately: endogenous governance, historically
 continuous authorization and legitimate authority. A9 carries it from one
 agent to two, a parent authorizing for an infant against an earlier self
 authorizing for a later one, and A17 to interventions that alter a person's
-motivational architecture after they consented. Filed as [QUESTION-tmp2lvhi](QUESTION-tmp2lvhi.md);
+motivational architecture after they consented. Filed as [QUESTION-454](QUESTION-454.md);
 this question is unchanged.
 
 ## Note of 2026-11-12: Millum (2025), read
 
-From the reading in [NOTE-tmp4k6g1](../notes.d/NOTE-tmp4k6g1.md)
-([LIT-tmpapwfu](../literature.d/LIT-tmpapwfu.md)), the reader's assessment
+From the reading in [NOTE-1734](../notes.d/NOTE-1734.md)
+([LIT-2378](../literature.d/LIT-2378.md)), the reader's assessment
 as checked by the filer: Millum's "Last week’s autonomous decision is no
 longer authoritative" is a position on the question's
 authorization-by-history: for a competent agent, the present decision
@@ -177,7 +177,7 @@ governs. Bears on it as one answer for the competent case.
 
 ## Note of 2026-11-12: Nix (2024), Operationalizing the Intolerable Suffering Criterion in Advance Requests for MAID for People Living with Dementia in Canada, read
 
-From the reading in [NOTE-tmp3t5qf](../notes.d/NOTE-tmp3t5qf.md) ([LIT-tmpbnl6c](../literature.d/LIT-tmpbnl6c.md)), the reader's assessment as
+From the reading in [NOTE-1731](../notes.d/NOTE-1731.md) ([LIT-2383](../literature.d/LIT-2383.md)), the reader's assessment as
 checked by the filer: **Qualifies / leaves open**: Nix's Option 1 argument
 (forecasting failure; Walsh's "cognitive transformative experience", i.e.
 changed preferences, values and beliefs) is a concrete case where the

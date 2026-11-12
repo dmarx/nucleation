@@ -57,7 +57,7 @@ summary: >-
   were filed unread; LIT-1568 and LIT-1570 are read since (NOTE-1212,
   NOTE-1211), and the others are Unfetched or Unavailable.
 ---
-<!-- inactive-ok-file: NOTE-tmp5kj27 — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1738 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-603 NOTE-1658 THEORY-1351 — new or Proposed; the assistant's claim on specialization and dependency and a reading it cites, cited as open -->
 <!-- inactive-ok-file: LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 
@@ -363,13 +363,13 @@ Mauss ([NOTE-1658](../notes.d/NOTE-1658.md)) gives a social route to dependence 
 
 ## Note of 2026-11-12: Nakhal et al. (2026), read
 
-From the reading in [NOTE-tmp5kj27](../notes.d/NOTE-tmp5kj27.md) ([LIT-tmp7144o](../literature.d/LIT-tmp7144o.md)), the reader's assessment as
+From the reading in [NOTE-1738](../notes.d/NOTE-1738.md) ([LIT-2365](../literature.d/LIT-2365.md)), the reader's assessment as
 checked by the filer: use "vertical transmission" for symbiont inheritance;
 result 3 is a measured analogue at the community level, a minor link.
 
 ## Note of 2026-11-12: Strand and Burke (2012), Polydnaviruses as Symbionts and Gene Delivery Systems, read
 
-From the reading in [NOTE-tmpkdoms](../notes.d/NOTE-tmpkdoms.md) ([LIT-tmpaus56](../literature.d/LIT-tmpaus56.md)), the reader's assessment as
+From the reading in [NOTE-1770](../notes.d/NOTE-1770.md) ([LIT-2379](../literature.d/LIT-2379.md)), the reader's assessment as
 checked by the filer: **bears directly**: a route to dependence through gene
 transfer into the host genome with control of replication handed to host
 machinery, plus vertical transmission, giving full reproductive cohesion

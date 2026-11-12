@@ -6,7 +6,7 @@
 
 **Supposed** — assumed for the sake of the argument, so everything resting on it is conditional on it. May scope a whole work, as an independently warranted agent scopes the will paper.
 
-4 of 651 CLAIM documents. Back to the [full index](../README.md).
+4 of 663 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

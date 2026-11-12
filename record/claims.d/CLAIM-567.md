@@ -67,7 +67,7 @@ summary: >-
   separates. The construction is the filer's, from A's two separations;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-tmpid47d CLAIM-tmpyc5md THEORY-tmps74c5 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: ARG-093 CLAIM-663 THEORY-1703 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1409 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-207 CASE-209 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1572 NOTE-1555 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
@@ -306,9 +306,9 @@ A, at A32 §3 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-12: PASS@(k,T), from "Medical Ethics and Media Enshitification"
 
 The owner's U21 of the exchange (2026-11-11) linked this claim's
-distinctions to Zhai and colleagues' PASS@(k,T) ([LIT-tmpt7avk](../literature.d/LIT-tmpt7avk.md), read;
-[THEORY-tmps74c5](../theory.d/THEORY-tmps74c5.md)). Its capability boundary is reachability by a given
+distinctions to Zhai and colleagues' PASS@(k,T) ([LIT-2441](../literature.d/LIT-2441.md), read;
+[THEORY-1703](../theory.d/THEORY-1703.md)). Its capability boundary is reachability by a given
 stochastic process under a budget, and its efficiency is reliable
 attainment; the paper has no counterpart of feasibility apart from
-reachability. Filed as the owner's [CLAIM-tmpyc5md](CLAIM-tmpyc5md.md), argued in [ARG-tmpid47d](../arguments.d/ARG-tmpid47d.md).
+reachability. Filed as the owner's [CLAIM-663](CLAIM-663.md), argued in [ARG-093](../arguments.d/ARG-093.md).
 A44 §1 cites this claim accurately. No status change.

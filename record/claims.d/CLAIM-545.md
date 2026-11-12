@@ -278,7 +278,7 @@ nothing was filed. No status change.
 
 ## Note of 2026-11-12: Naudts, Helberger, Veale and Sax (2025), read
 
-From the reading in [NOTE-tmpytbn0](../notes.d/NOTE-tmpytbn0.md) ([LIT-tmp6lewl](../literature.d/LIT-tmp6lewl.md)), the reader's assessment as
+From the reading in [NOTE-1798](../notes.d/NOTE-1798.md) ([LIT-2362](../literature.d/LIT-2362.md)), the reader's assessment as
 checked by the filer: *supports by analogy* the domination clause at the
 collective, political level: the paper's complaint is that the platform
 alone sets "the optimization goals" that fix what users see (result 3–4),
@@ -291,4 +291,4 @@ infrastructure, grounded in Young's democratic legitimacy, not an
 individual's will; it does not use non-domination or Pettit, and does not
 say that a non-profiled option (Art. 38) restores freedom; it calls Art. 38
 "the most promising agency-enhancing tool" but insufficient. Note: CLAIM-545
-on the branch does not itself cite [LIT-tmp6lewl](../literature.d/LIT-tmp6lewl.md); the link is the LIT's.
+on the branch does not itself cite [LIT-2362](../literature.d/LIT-2362.md); the link is the LIT's.

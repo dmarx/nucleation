@@ -263,7 +263,7 @@ Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), sup
 
 ## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
 
-From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
+From the reading in [NOTE-1745](../notes.d/NOTE-1745.md) ([LIT-2346](../literature.d/LIT-2346.md)), the reader's assessment as
 checked by the filer: and **[CLAIM-605](CLAIM-605.md)** (capacity learned by doing and
 decaying with disuse; outside supply that does the work first lowers the
 capacity kept): centrally supplied duplicated content filling a shrinking

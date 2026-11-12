@@ -126,5 +126,5 @@ claims against the organization need ([CLAIM-348](../claims.d/CLAIM-348.md)) and
 have no independent test of it. A notes the premise this rests on,
 "something like an epistemic norm, a duty to affected parties, or an account
 of legitimate governance". A42 sharpens the question one step earlier, how
-the demands to be weighed are identified at all, filed as [QUESTION-tmpuftum](QUESTION-tmpuftum.md),
+the demands to be weighed are identified at all, filed as [QUESTION-456](QUESTION-456.md),
 which refines this one. The question stays Open.

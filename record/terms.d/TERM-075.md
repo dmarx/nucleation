@@ -134,7 +134,7 @@ own.
 
 ## Note of 2026-11-12: Étienne Brown, read
 
-From the reading in [NOTE-tmpxfciy](../notes.d/NOTE-tmpxfciy.md) ([LIT-tmpnk945](../literature.d/LIT-tmpnk945.md)), the reader's assessment as
+From the reading in [NOTE-1792](../notes.d/NOTE-1792.md) ([LIT-2425](../literature.d/LIT-2425.md)), the reader's assessment as
 checked by the filer: Brown's Hao/House/Farah cases are cases of an
 appropriated self-attribution prompted by an algorithmic attribution; a
 possible example for the term.

@@ -94,7 +94,7 @@ measured.
 
 A35 §1 of the exchange (2026-11-11) cites this reading correctly as Proposed
 and reports Montero-Porras, Smets and Lenaerts' evolutionary model of
-platform and creators ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md), unread): two stable regimes, quality
+platform and creators ([LIT-2386](../literature.d/LIT-2386.md), unread): two stable regimes, quality
 and extraction, with tipping points and hysteresis. A calls it "a formal
 complement, but not independent proof of Doctorow's historical claims",
 which is right. The model would bear on [THEORY-470](THEORY-470.md)'s weakened constraints
@@ -102,7 +102,7 @@ and on [CLAIM-463](../claims.d/CLAIM-463.md). No status change.
 
 ## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
 
-From the reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)), the reader's assessment as
+From the reading in [NOTE-1787](../notes.d/NOTE-1787.md) ([LIT-2386](../literature.d/LIT-2386.md)), the reader's assessment as
 checked by the filer: **Qualifies / leaves open**: the paper cites Doctorow
 as its frame and models one mechanism (recommender incentives and creator
 investment). It does not model users, lock-in or exit costs; it explicitly

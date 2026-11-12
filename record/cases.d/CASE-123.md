@@ -48,7 +48,7 @@ draws_on:
 - THEORY-850
 - THEORY-837
 ---
-<!-- inactive-ok-file: CLAIM-tmpifp69 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CLAIM-656 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
@@ -152,4 +152,4 @@ variant accurately and adds a source of influence the case does not have:
 not the party the newsroom evaluates, but "the platform or advertising
 market through which the newsroom obtains resources". The newsroom "can
 remain formally independent while gradually adopting the platform's criteria
-of success" ([CLAIM-tmpifp69](../claims.d/CLAIM-tmpifp69.md)).
+of success" ([CLAIM-656](../claims.d/CLAIM-656.md)).

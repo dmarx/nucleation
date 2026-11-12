@@ -276,5 +276,5 @@ aid dependency" (Appendix B, p. 326).
 
 ## Note of 2026-11-12: Strand and Burke (2012), Polydnaviruses as Symbionts and Gene Delivery Systems, read
 
-From the reading in [NOTE-tmpkdoms](../notes.d/NOTE-tmpkdoms.md) ([LIT-tmpaus56](../literature.d/LIT-tmpaus56.md)), the reader's assessment as
+From the reading in [NOTE-1770](../notes.d/NOTE-1770.md) ([LIT-2379](../literature.d/LIT-2379.md)), the reader's assessment as
 checked by the filer: not checked in detail.

@@ -125,6 +125,6 @@ well without them. Neither happened in these samples.
 
 ## Note of 2026-11-12: Boem, Greslehner, Konsman and Chiu, read
 
-From the reading in [NOTE-tmphkmh6](../notes.d/NOTE-tmphkmh6.md) ([LIT-tmp1p2zd](../literature.d/LIT-tmp1p2zd.md)), the reader's assessment as
+From the reading in [NOTE-1765](../notes.d/NOTE-1765.md) ([LIT-2347](../literature.d/LIT-2347.md)), the reader's assessment as
 checked by the filer: and **[THEORY-045](THEORY-045.md)** (felt affect as the body's
 regulatory state): the paper's "background gut feeling" draws on both.

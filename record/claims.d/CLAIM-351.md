@@ -148,19 +148,19 @@ encompassing success does not establish its constituents') and of
 
 ## Note of 2026-11-12: Boxer, McFowland and Neill, read
 
-From the reading in [NOTE-tmp6nqkh](../notes.d/NOTE-tmp6nqkh.md) ([LIT-tmp14en7](../literature.d/LIT-tmp14en7.md)), the reader's assessment as
+From the reading in [NOTE-1741](../notes.d/NOTE-1741.md) ([LIT-2344](../literature.d/LIT-2344.md)), the reader's assessment as
 checked by the filer: the same structure in fairness auditing: aggregate
 parity can hide offsetting subgroup violations.
 
 ## Note of 2026-11-12: Davoudabadi, Makui and Rasouli, read
 
-From the reading in [NOTE-tmp64zjh](../notes.d/NOTE-tmp64zjh.md) ([LIT-tmporx78](../literature.d/LIT-tmporx78.md)), the reader's assessment as
+From the reading in [NOTE-1740](../notes.d/NOTE-1740.md) ([LIT-2429](../literature.d/LIT-2429.md)), the reader's assessment as
 checked by the filer: bears in the same way: a single combined score that
 ranks items cannot show that user and organization are reconciled rather
 than traded.
 
 ## Note of 2026-11-12: Md Fahim Sikder, read
 
-From the reading in [NOTE-tmppe0ip](../notes.d/NOTE-tmppe0ip.md) ([LIT-tmppyl6o](../literature.d/LIT-tmppyl6o.md)), the reader's assessment as
+From the reading in [NOTE-1779](../notes.d/NOTE-1779.md) ([LIT-2434](../literature.d/LIT-2434.md)), the reader's assessment as
 checked by the filer: the single-attribute-pass, intersectional-fail result
 is a measured case of an aggregate hiding a failing part.

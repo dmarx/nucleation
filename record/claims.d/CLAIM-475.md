@@ -40,7 +40,7 @@ history:
   date: '2026-11-12'
   note: >-
     After the owner's review of #485 on 2026-11-12, the dated note's account
-    of CLAIM-tmpvceet is corrected to its narrowed form: expanding the
+    of CLAIM-662 is corrected to its narrowed form: expanding the
     recognized set cannot improve conjunctive compliance or lower the count
     of recognized violations, not that every score against the recognized
     set can only fall. No status change.
@@ -88,7 +88,7 @@ summary: >-
 bears_on:
 - QUESTION-366
 ---
-<!-- inactive-ok-file: CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1056 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1643 LIT-1662 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
@@ -266,7 +266,7 @@ The second paste of the pasted synthesis on resource-bounded realizability propo
 ## Note of 2026-11-12: identification is costly and can be penalized, from "Medical Ethics and Media Enshitification"
 
 A44 §3 of the exchange (2026-11-11) cites this claim accurately and adds a
-consequence filed as [CLAIM-tmpvceet](CLAIM-tmpvceet.md): scored against the demands it
+consequence filed as [CLAIM-662](CLAIM-662.md): scored against the demands it
 recognizes, an organization cannot improve its conjunctive compliance or
 lower its count of recognized violations when its inquiry recognizes more,
 so governance that penalizes newly recognized violations without rewarding

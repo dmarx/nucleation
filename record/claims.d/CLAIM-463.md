@@ -41,7 +41,7 @@ summary: >-
   not a finding about any grant program, people or institute, and a slow
   recovery is not evidence of the threshold.
 ---
-<!-- inactive-ok-file: CASE-tmpd5eqf — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 
 # CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
@@ -147,19 +147,19 @@ The reader reran A's schematic model (A36 §6), Ṁ = aLU − dM, L̇ = bM(1−L
 ## Note of 2026-11-12: stopping an influence is not undoing it, from "Medical Ethics and Media Enshitification"
 
 Three instances from the exchange (2026-11-11), all A's reports of unread
-work. The X feed experiment (A23 §2, [LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)): switching the algorithm
+work. The X feed experiment (A23 §2, [LIT-2431](../literature.d/LIT-2431.md)): switching the algorithm
 off did not reverse the shifts that switching it on produced. Montero-Porras
-and colleagues' platform–creator model (A35 §1, [LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)): tipping
+and colleagues' platform–creator model (A35 §1, [LIT-2386](../literature.d/LIT-2386.md)): tipping
 points and hysteresis, so restoring the incentive policy does not restore
 quality. And the newsroom whose investigative capacity, once dispersed, does
-not return with the funding (A33 §9, [CASE-tmpd5eqf](../cases.d/CASE-tmpd5eqf.md)). A23's wording:
+not return with the funding (A33 §9, [CASE-247](../cases.d/CASE-247.md)). A23's wording:
 "Stopping an influence is not necessarily reversing its effects, and neither
 is necessarily restoring the capacity for self-government." Corroborative
 instances, unverified; no status change.
 
 ## Note of 2026-11-12: Montero-Porras, Smets and Lenaerts (2026), Enshittification of Algorithmic Recommendation: An Evolutionary Model of Platform-Creator Dynamics, read
 
-From the reading in [NOTE-tmpu69dy](../notes.d/NOTE-tmpu69dy.md) ([LIT-tmpc2x78](../literature.d/LIT-tmpc2x78.md)), the reader's assessment as
+From the reading in [NOTE-1787](../notes.d/NOTE-1787.md) ([LIT-2386](../literature.d/LIT-2386.md)), the reader's assessment as
 checked by the filer: **supports**, as an independent model instance:
 restoring A to its pre-shock value leaves the system collapsing to (0,0).
 The paper's conclusion that "recovery may require joint changes in both
@@ -168,19 +168,19 @@ rebuilding the activity directly; the paper says "may".
 
 ## Note of 2026-11-12: Bisiani, Gulyas, Moore and Heravi, read
 
-From the reading in [NOTE-tmp9b3p6](../notes.d/NOTE-tmp9b3p6.md) ([LIT-tmp1bfvb](../literature.d/LIT-tmp1bfvb.md)), the reader's assessment as
+From the reading in [NOTE-1745](../notes.d/NOTE-1745.md) ([LIT-2346](../literature.d/LIT-2346.md)), the reader's assessment as
 checked by the filer: the paper bears only by its policy remark that funding
 indexed to outlet presence may miss hollowed titles; no hysteresis is shown.
 
 ## Note of 2026-11-12: Radsch, read
 
-From the reading in [NOTE-tmpylmyu](../notes.d/NOTE-tmpylmyu.md) ([LIT-tmp5c2gi](../literature.d/LIT-tmp5c2gi.md)), the reader's assessment as
+From the reading in [NOTE-1795](../notes.d/NOTE-1795.md) ([LIT-2357](../literature.d/LIT-2357.md)), the reader's assessment as
 checked by the filer: and the "lock-in" thesis (result 7): a policy-level
 assertion of path dependence, not a demonstration.
 
 ## Note of 2026-11-12: Gauthier, Hodler, Widmer and Zhuravskaya, read
 
-From the reading in [NOTE-tmp76oz9](../notes.d/NOTE-tmp76oz9.md) ([LIT-tmpp1gq8](../literature.d/LIT-tmpp1gq8.md)), the reader's assessment as
+From the reading in [NOTE-1742](../notes.d/NOTE-1742.md) ([LIT-2431](../literature.d/LIT-2431.md)), the reader's assessment as
 checked by the filer: **qualifies / leaves open.** The asymmetry is
 suggestive of the claim's pattern (removing the algorithm does not undo its
 effect, because follows formed under it keep supplying the same content),

@@ -44,7 +44,7 @@ summary: >-
   function from the dynamics and tells it from mere contribution to
   persistence, and an account of what a standard needs beyond it.
 ---
-<!-- inactive-ok-file: LIT-tmpu0vef — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: LIT-2444 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 <!-- inactive-ok-file: QUESTION-007 — Deferred; set aside with the authenticity line, and cited to say where the cross-agent half went -->
 
@@ -187,5 +187,5 @@ become effective, fail, or are systematically excluded", and start from
 parasite and host, platform and user, newsroom and public. The parasite case
 shows the limit sharply: "A standard for successful biological functioning
 is not yet a standard for what is owed to another being." A also flags
-Leffler on constitutivism ([LIT-tmpu0vef](../literature.d/LIT-tmpu0vef.md), unread) as the adversarial test.
+Leffler on constitutivism ([LIT-2444](../literature.d/LIT-2444.md), unread) as the adversarial test.
 The question stays Open.

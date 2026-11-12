@@ -45,7 +45,7 @@ corroborates:
 - CLAIM-060
 - CLAIM-359
 ---
-<!-- inactive-ok-file: NOTE-tmpdrocb — Skimmed; the reading filed from the same exchange -->
+<!-- inactive-ok-file: NOTE-1758 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-141 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
 # THEORY-135: Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters
@@ -117,7 +117,7 @@ propose, keeping the wide form as a Proposed THEORY under [ADR-047](../decisions
 
 ## Note of 2026-11-12: Neuron–tumor crosstalk in cancer: molecular mechanisms and translational advances (Jia, Zhao, Tang, Xie, Huang, Liang, Yang, Wu, Sun, Kwan, Sun, Xu 2026), read
 
-From the reading in [NOTE-tmpdrocb](../notes.d/NOTE-tmpdrocb.md) ([LIT-tmpj31gs](../literature.d/LIT-tmpj31gs.md)), the reader's assessment as
+From the reading in [NOTE-1758](../notes.d/NOTE-1758.md) ([LIT-2412](../literature.d/LIT-2412.md)), the reader's assessment as
 checked by the filer: leaves open. The review does not use the cheater
 framing; its "hijack" is of the organism's regulatory systems, which that
 theory's five foundations do not name.

@@ -130,6 +130,6 @@ Mason–Dixon line).
 
 ## Note of 2026-11-12: Finn, read
 
-From the reading in [NOTE-tmpastp1](../notes.d/NOTE-tmpastp1.md) ([LIT-tmp5fwhc](../literature.d/LIT-tmp5fwhc.md)), the reader's assessment as
+From the reading in [NOTE-1753](../notes.d/NOTE-1753.md) ([LIT-2358](../literature.d/LIT-2358.md)), the reader's assessment as
 checked by the filer: Finn's containment definition and her distinction of
 trivial from nontrivial part-containment depend on it.

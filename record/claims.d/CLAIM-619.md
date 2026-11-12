@@ -82,7 +82,7 @@ summary: >-
   label and [CLAIM-464](CLAIM-464.md)'s pre-emptive intervention. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpvceet — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-118 CLAIM-614 — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: LIT-1311 — Proposed or Unavailable; cited with their standing -->
 
@@ -172,5 +172,5 @@ complaints as improvement. A agrees with the claim's caution: "a declining
 complaint count alone is not enough", since complaints can fall because the
 problem was solved, and "The stronger test involves independent evidence of
 the original problem and interventions on the channels through which
-objections become effective." [CLAIM-tmpvceet](CLAIM-tmpvceet.md), filed from the same exchange,
+objections become effective." [CLAIM-662](CLAIM-662.md), filed from the same exchange,
 is a passive companion. No status change.
