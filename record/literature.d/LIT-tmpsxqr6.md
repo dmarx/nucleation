@@ -1,14 +1,19 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where A cited it at A14 (§1, and its filing table as Si et al. 2025). The earlier registration of this exchange's works (record/curation.d/2026/11/10/182452.md) did not include it. No reading was attempted; a lawful copy has not been sought.
+  Read on 2026-11-12 (NOTE-tmp1q2l4) from https://arxiv.org/pdf/2409.04109.
 title: 'Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read. Identifier checked on 2026-11-12 with arXiv API, and confirmed not held by DOI or arXiv id, exact title and first author in record/literature.d. `published:`: arXiv v1 date; A dates it by its ICLR 2025 venue. No email address was sent to any service.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 (NOTE-tmp1q2l4; THEORY-tmpcb95r). No venue on arXiv v1;
+    A's ICLR 2025 dating was not verified.
 tags:
 - philosophy-of-science
 - social-science
@@ -20,9 +25,22 @@ first_author: 'Si'
 keywords: []
 implementations: []
 summary: >-
-  Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024), arXiv 2409.04109. Here because A cited it in the exchange "luria experiment design" at A14 (§1, and its filing table as Si et al. 2025), for a controlled study with over 100 NLP researchers in which LLM-generated research proposals were rated more novel than human ones, somewhat less feasible, with weak LLM self-evaluation and little idea diversity. It bears on [LIT-2329](LIT-2329.md) and [LIT-2318](LIT-2318.md), the theory-building comparisons registered from the same exchange. What A says of it is unverified until read.
+  Si, Yang and Hashimoto (2024), Can LLMs Generate Novel Research Ideas? A
+  Large-Scale Human Study with 100+ NLP Researchers. A controlled comparison
+  of research ideas written by 49 expert NLP researchers with ideas from a
+  Claude-3.5-Sonnet ideation agent (retrieve papers, generate 4,000 seed
+  ideas per topic, deduplicate, rank by a pairwise Swiss-tournament ranker),
+  on seven prompting-research topics, with ideas normalized to one template
+  and style. 79 experts wrote 298 blind reviews. AI ideas were rated
+  significantly more novel than human ideas in three statistical treatments
+  (per review, per idea, per reviewer), excitement sometimes higher,
+  feasibility slightly lower but not significantly. The agent's ideas became
+  repetitive at scale (about 200 unique of 4,000), and LLM judges agreed
+  with human reviewers less than humans agree with each other. Read for the
+  exchange "luria experiment design".
 ---
 <!-- inactive-ok-file: LIT-2329 — Deferred; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpcb95r — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpsxqr6: Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers
 
@@ -34,4 +52,8 @@ Chenglei Si, Diyi Yang and Tatsunori Hashimoto (2024). arXiv 2409.04109.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 (§1, and its filing table as Si et al. 2025). It bears on [LIT-2329](LIT-2329.md) and [LIT-2318](LIT-2318.md), the theory-building comparisons registered from the same exchange.
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A14 (§1, and its filing table as Si et al. 2025). It bears on LIT-2329 and LIT-2318, the theory-building comparisons registered from the same exchange.
+
+## Reading of 2026-11-12
+
+Read in NOTE-tmp1q2l4, from https://arxiv.org/pdf/2409.04109; its account is THEORY-tmpcb95r.

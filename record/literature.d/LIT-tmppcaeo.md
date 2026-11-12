@@ -1,14 +1,22 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where A cited it at A20 (§3, as "GraphRAG"). The earlier registration of this exchange's works (record/curation.d/2026/11/10/182452.md) did not include it. No reading was attempted; a lawful copy has not been sought.
-title: 'From Local to Global: A Graph RAG Approach to Query-Focused Summarization'
-version: 1
+  Read on 2026-11-12 (NOTE-tmpu7bj7) from https://arxiv.org/pdf/2404.16130.
+title: 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization'
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read. Identifier checked on 2026-11-12 with arXiv API, and confirmed not held by DOI or arXiv id, exact title and first author in record/literature.d. `published:`: arXiv v1 date. No email address was sent to any service.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 (NOTE-tmpu7bj7; THEORY-tmpol9my). Title changed to the
+    one the v2 PDF carries, "A GraphRAG Approach"; the v1 title and the arXiv
+    metadata of both versions read "A Graph RAG Approach" (arXiv API,
+    2026-11-12). Ten authors led by Darren Edge and Ha Trinh (Microsoft); a
+    preprint under review.
 tags:
 - information-retrieval
 - anthology-candidate
@@ -19,10 +27,26 @@ first_author: 'Edge'
 keywords: []
 implementations: []
 summary: >-
-  Darren Edge et al. (2024), arXiv 2404.16130. Here because A cited it in the exchange "luria experiment design" at A20 (§3, as "GraphRAG"), for knowledge graphs and summaries generated to answer questions about large corpora. It bears on [QUESTION-108](../questions.d/QUESTION-108.md). What A says of it is unverified until read.
+  Edge et al. (2024), From Local to Global: A Graph RAG Approach to
+  Query-Focused Summarization. GraphRAG answers "global" questions about a
+  whole corpus ("What are the main themes in the dataset?"), which ordinary
+  vector RAG cannot, because retrieving the top-k similar chunks samples the
+  corpus instead of summarizing it. At index time an LLM extracts entities,
+  relationships and "claims" from text chunks, merges them into a knowledge
+  graph (exact string matching for entity names), partitions the graph
+  hierarchically with Leiden community detection, and pre-generates a
+  report-like summary for every community at every level. At query time each
+  community summary yields a partial answer with a 0–100 helpfulness score
+  (map), and the best partial answers are summarized into a global answer
+  (reduce). On two ~1M-token corpora (podcast transcripts, news articles),
+  with 125 LLM-generated "sensemaking" questions each, an LLM judge
+  preferred GraphRAG answers over vector RAG on comprehensiveness and
+  diversity; a claim-count re-measure (Experiment 2) agreed in direction.
+  Read for the exchange "luria experiment design".
 ---
+<!-- inactive-ok-file: THEORY-tmpol9my — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# LIT-tmppcaeo: From Local to Global: A Graph RAG Approach to Query-Focused Summarization
+# LIT-tmppcaeo: From Local to Global: A GraphRAG Approach to Query-Focused Summarization
 
 Darren Edge et al. (2024). arXiv 2404.16130.
 
@@ -32,4 +56,8 @@ Darren Edge et al. (2024). arXiv 2404.16130.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3, as "GraphRAG"). It bears on [QUESTION-108](../questions.d/QUESTION-108.md).
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§3, as "GraphRAG"). It bears on QUESTION-108.
+
+## Reading of 2026-11-12
+
+Read in NOTE-tmpu7bj7, from https://arxiv.org/pdf/2404.16130; its account is THEORY-tmpol9my.

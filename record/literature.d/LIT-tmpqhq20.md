@@ -1,14 +1,21 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where A cited it at A20 (§1 and §3). The earlier registration of this exchange's works (record/curation.d/2026/11/10/182452.md) did not include it. No reading was attempted; a lawful copy has not been sought.
+  Read on 2026-11-12 (NOTE-tmpq7w3k) from https://arxiv.org/pdf/2502.12110.
 title: 'A-MEM: Agentic Memory for LLM Agents'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read. Identifier checked on 2026-11-12 with arXiv API, and confirmed not held by DOI or arXiv id, exact title and first author in record/literature.d. `published:`: arXiv v1 date; A dates it by its NeurIPS 2025 venue. No email address was sent to any service.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 (NOTE-tmpq7w3k; THEORY-tmpkjz86). Venue NeurIPS 2025,
+    per the arXiv comment; the version read is v11. A-MEM updates existing
+    notes in place as new memories arrive and keeps no history of the earlier
+    versions.
 tags:
 - information-retrieval
 - anthology-candidate
@@ -19,8 +26,18 @@ first_author: 'Xu'
 keywords: []
 implementations: []
 summary: >-
-  Wujiang Xu et al. (2025), arXiv 2502.12110. Here because A cited it in the exchange "luria experiment design" at A20 (§1 and §3), for Zettelkasten-inspired connected memories that update existing notes as new information arrives. It bears on [QUESTION-108](../questions.d/QUESTION-108.md). What A says of it is unverified until read.
+  Xu et al. (2025), A-MEM: Agentic Memory for LLM Agents. A-MEM is a memory
+  store for LLM agents built on Zettelkasten ideas. Each new interaction
+  becomes a "note" with the raw content, a timestamp, LLM-generated
+  keywords, tags and a contextual description, and an embedding. On
+  insertion the system retrieves the top-k most similar notes and asks an
+  LLM which to link to (link generation), then asks an LLM whether to
+  rewrite those neighbours' context, keywords and tags in light of the new
+  note (memory evolution); the evolved note **replaces** the old one.
+  Retrieval is plain top-k cosine similarity, plus notes linked in the same
+  "box". Read for the exchange "luria experiment design".
 ---
+<!-- inactive-ok-file: THEORY-tmpkjz86 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpqhq20: A-MEM: Agentic Memory for LLM Agents
 
@@ -32,4 +49,8 @@ Wujiang Xu et al. (2025). arXiv 2502.12110.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1 and §3). It bears on [QUESTION-108](../questions.d/QUESTION-108.md).
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A20 (§1 and §3). It bears on QUESTION-108.
+
+## Reading of 2026-11-12
+
+Read in NOTE-tmpq7w3k, from https://arxiv.org/pdf/2502.12110; its account is THEORY-tmpkjz86.
