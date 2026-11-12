@@ -1,11 +1,10 @@
 ---
 status: Active
 status_note: >-
-  Skimmed on 2026-11-12 (NOTE-tmp0o5hp) from
-  https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf
-  (the first author's research-group site; the published article).
+  Read on 2026-11-12 (NOTE-tmp1cqjq) from
+  https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf.
 title: 'Measuring shared team mental models: A meta-analysis'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-12'
@@ -18,6 +17,13 @@ history:
     the stand-in for LIT-2330, Mathieu et al. 2000, which it includes in its
     meta-analysis; it stands in for that study's general finding, not its
     specific results.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 (NOTE-tmp1cqjq; THEORY-tmpv6qhj). Read in full by a
+    second reader on 2026-11-12, after the skim filed earlier the same day as
+    the stand-in for LIT-2330 (NOTE-tmp0o5hp, THEORY-tmp0usde); that NOTE and
+    THEORY are Superseded by this reading.
 tags:
 - social-science
 - psychometrics
@@ -28,19 +34,23 @@ first_author: 'DeChurch'
 keywords: []
 implementations: []
 summary: >-
-  Leslie A. DeChurch and Jessica R. Mesmer-Magnus (2010), Measuring shared
-  team mental models: A meta-analysis, Group Dynamics 14(1). Meta-analysis
-  of 23 independent studies relating shared (similar) team mental models to
-  team process and performance, testing three measurement features as
-  moderators: elicitation method, structure representation, and the index of
-  sharedness. Sharedness predicts team process only when the measure
-  captures the *structure* of knowledge (similarity ratings with Pathfinder
-  networks strongest); questionnaire/rating measures show no relation to
-  process. Sharedness predicts performance under every measurement approach.
-  Read for the exchange "luria experiment design".
+  DeChurch and Mesmer-Magnus (2010), Measuring shared team mental models: A
+  meta-analysis. The authors meta-analyse 23 independent studies (1,511
+  groups, about 5,668 people) relating the similarity of team members'
+  mental models (shared mental models, SMMs) to team process and team
+  performance, testing three aspects of measurement as moderators:
+  elicitation method (similarity ratings, concept maps or card sorts, rating
+  scales), structure representation (Pathfinder networks,
+  concept-map/card-sort scoring, none) and representation of emergence
+  (Pathfinder C, Euclidean distance or consistency, within-group agreement).
+  SMMs predict team process only when the measurement captures the structure
+  of knowledge; with rating scales or agreement indices the SMM-process
+  relation is near zero. SMMs predict performance positively under every
+  measurement. Read for the exchange "luria experiment design".
 ---
 <!-- inactive-ok-file: LIT-2330 — Deferred; cited for what each holds, not as settled -->
 <!-- inactive-ok-file: NOTE-tmp0o5hp THEORY-tmp0usde — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-tmpv6qhj — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpo6ko1: Measuring shared team mental models: A meta-analysis
 
@@ -57,3 +67,7 @@ Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10
 ## Reading of 2026-11-12
 
 Skimmed in NOTE-tmp0o5hp, from https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf (the first author's research-group site; the published article); its account is THEORY-tmp0usde.
+
+## Reading of 2026-11-12
+
+Read in NOTE-tmp1cqjq, from https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf; its account is THEORY-tmpv6qhj.

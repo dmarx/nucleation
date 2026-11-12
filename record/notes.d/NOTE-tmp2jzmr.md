@@ -1,0 +1,114 @@
+---
+status: Read
+paper: LIT-tmpmnde8
+title: 'Stasser and Titus — Pooling of unshared information in group decision making: Biased information sampling during discussion'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from
+    https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf.
+    **Read** (full text of a scan; figures and tables read only through the
+    text and OCR). A delegated reader drafted the reading; quotations were
+    rechecked by script against the downloaded copy, and any that did not
+    match were kept as paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  Stasser and Titus propose a biased sampling model of unstructured group
+  discussion: members do not exhaust their information but sample from it,
+  and the sample favours (a) information held by many members, because more
+  holders make mention more likely, and (b) information that supports
+  members' current preferences (salience in recall plus a norm of advocacy).
+  They test it in a political caucus simulation: 4-person groups of students
+  chose among three candidates for student body president, where Candidate A
+  had the best profile overall. In the shared condition everyone read
+  complete profiles; in two unshared conditions, positive information about
+  A (and negative information about B, or about B and C) was split among
+  members so that each saw a profile biased against A, although the group
+  collectively held everything.
+---
+<!-- inactive-ok-file: LIT-1399 LIT-1403 LIT-1409 LIT-2293 THEORY-402 — Proposed, Superseded, Unavailable, Unfetched; cited for what each holds, not as settled -->
+
+# NOTE-tmp2jzmr: Stasser and Titus — Pooling of unshared information in group decision making: Biased information sampling during discussion
+
+## Contribution
+
+The shared/unshared information distinction as a design, the "severely biased" distribution in
+which pooling is needed to find the best alternative, and the biased sampling account of why
+discussion fails to pool. This is the founding study of what later literature calls hidden
+profiles.
+
+## Key results
+
+- Abstract: discussion "tends to be dominated by (a) information that members hold in common before discussion and (b) information that supports members' existent preferences."
+- Abstract: groups "decided in favor of the candidate initially preferred by a plurality rather than the most favorable candidate."
+- Abstract: recall "indicated that discussion tended to perpetuate, not to correct, members' distorted pictures of the candidates."
+- Model (p. 1470): "An item of information is more likely to enter discussion if it is shared rather than unshared."
+- Footnote 1 (p. 1469): "best" means supported by the preponderance of the information that is collectively available to the group. We do not mean that this alternative is correct.
+- Results, group decisions (p. 1474): In the shared condition, 83% of the 18 groups chose Candidate A whereas only 18% of the 38 groups in the unshared conditions chose A (OCR interleaves this sentence with Table 4; check the page).
+- Results: the conflict condition's expected advantage "was not supported"; postgroup support for A did not differ between the two unshared conditions.
+- Results: a "plurality-supported wins" rule accounts for most group decisions.
+- Discussion (p. 1476): "discussion did not increase the recall of unshared information."
+- Discussion (p. 1477): "unstructured discussion in the face of a consensus requirement may often fail as a means of combining unique informational resources."
+- Discussion (p. 1477): the failure "is most likely when the unique information counters the prevailing sentiment in the group and could change its final decision."
+
+## Assumptions
+
+- A judgmental (not intellective) task: no demonstrably correct answer; "best" is relative to the
+  pooled information.
+- Unstructured, face-to-face discussion with a consensus requirement.
+- Participants were told their information might be incomplete, so the failure occurs despite a
+  warning.
+- Discussion content is not observed; the mechanism is inferred.
+
+## Concepts
+
+Shared vs. unshared information; informational bias, preferential bias; mildly vs. severely biased
+pregroup distribution; biased sampling model; norm of advocacy; unique vs. redundant resources
+(Shiflett); plurality-supported-wins; process loss.
+
+## Bearing on the record
+
+A cited it for the hidden-profile paradigm: groups with overlapping but incomplete information
+discuss what they share and miss the solution only pooled information shows. **Accurate in
+substance, with two qualifications**: the paper does not use the term "hidden profile", and it does
+not observe discussion; it shows that groups choose the initially favoured alternative and that
+members' recall after discussion favours shared, preference-consistent information, from which the
+sampling bias in discussion is inferred. Also, the "solution" is the alternative best supported by
+the pooled information, explicitly not a correct answer.
+
+- QUESTION-tmpxq2sb (does a shared, typed, governed record help agents who hold different parts of
+  the evidence integrate it, beyond a structured protocol, and at which stage?): **supplies the
+  baseline phenomenon and a stage answer for unstructured discussion.** The failure Stasser and
+  Titus report occurs before credibility: unshared items mostly do not enter (are not admitted to)
+  the discussion, and those that do are outweighed by recall of shared, preference-consistent items.
+  A record in which every member's items are filed would act at admission; whether it acts at
+  uptake is not addressed. The paper also gives the design (shared vs. unshared conditions,
+  plurality analysis) a test of the question would reuse. Leaves the question open.
+- CLAIM-403 (admission, recognition, credibility, uptake and revision of standards are separable):
+  **corroborates the separability of admission from uptake**: even unshared information that is
+  held by a group member, and which the member was told might be news, fails to be admitted to
+  discussion, and the group decision follows initial preferences. The paper does not separate
+  recognition from credibility.
+- LIT-1399 (the hidden-profile meta-analysis, Unavailable) and LIT-2294 (HiddenBench, Deferred):
+  this is the original study both build on; it does not stand in for either.
+
+Searched the record for Stasser, the DOI, hidden profile, HiddenBench, unshared,
+information pooling, shared-information bias, common knowledge effect, plurality, social decision
+scheme. Not held (no duplicate). Missed by the first search:
+- LIT-1409 (dissent as a facilitator in hidden profiles, Unfetched) and LIT-1403 ("Knowing others'
+  preferences degrades the quality of group decisions", Unavailable): both continue Stasser and
+  Titus; LIT-1409 tests the conflict idea that this paper's unshared/conflict condition failed to
+  support.
+- LIT-2293 (Superseded duplicate of the meta-analysis).
+- QUESTION-089 and CASE-144 cite hidden profiles; CASE-144 (an evaluator that weights agreeing
+  evidence) shares the preference-consistent sampling mechanism.
+- THEORY-402 (Pilgrim et al.'s decomposition, cited by QUESTION-tmpxq2sb) and NOTE-055: "a collective
+  can hold more resources than any member and still lose them in integration" is the result this
+  paper first reported.
+
+## Limitations
+
+Student participants, one task, 56 groups; discussion not recorded; scan with OCR text; the
+"conflict" manipulation did not work as intended.

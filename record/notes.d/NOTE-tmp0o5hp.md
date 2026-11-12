@@ -1,8 +1,8 @@
 ---
-status: Skimmed
+status: Superseded
 paper: LIT-tmpo6ko1
 title: 'DeChurch and Mesmer-Magnus — Measuring shared team mental models: A meta-analysis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
@@ -16,6 +16,12 @@ history:
     references not read closely. A delegated reader drafted the reading;
     quotations were rechecked by script against the downloaded copy, and any
     that did not match were kept as paraphrase without quotation marks.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Superseded by NOTE-tmp1cqjq, a full reading of the same article by a second
+    reader the same day; this entry came from a skim made when the article
+    was read as a stand-in for LIT-2330.
 date: '2026-11-12'
 summary: >-
   Meta-analysis of 23 independent studies relating shared (similar) team
@@ -26,8 +32,11 @@ summary: >-
   Pathfinder networks strongest); questionnaire/rating measures show no
   relation to process. Sharedness predicts performance under every
   measurement approach.
+superseded_by:
+- NOTE-tmp1cqjq
 ---
 <!-- inactive-ok-file: CLAIM-tmpyp3u3 TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: LIT-2330 — Unavailable; cited for what each holds, not as settled -->
 
 # NOTE-tmp0o5hp: DeChurch and Mesmer-Magnus — Measuring shared team mental models: A meta-analysis
 

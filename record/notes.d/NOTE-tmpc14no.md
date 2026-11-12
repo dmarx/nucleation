@@ -1,0 +1,67 @@
+---
+status: Read
+paper: LIT-tmpqrlv6
+title: 'Blanchet and Michinov — Impact of the anticipation of membership change on transactive memory and group performance'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from the copy named in the reading. **Read** (full
+    text, 8 pages plus references). A delegated reader drafted the reading;
+    quotations were rechecked by script against the downloaded copy, and any
+    that did not match were kept as paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  Thirty-two groups (91 French undergraduates, mostly triads, same-sex) were
+  trained together to assemble a Meccano robot's arms, then recalled the
+  procedure and reassembled it. In one condition the group was warned that a
+  member would be replaced by someone trained elsewhere; in another the
+  replacement happened without warning; a control had no change. Following
+  Liang et al. (1995), the training phase was videotaped and coded for
+  transactive memory (expertise specialization, credibility, coordination),
+  and performance was an assembly error ratio.
+---
+
+# NOTE-tmpc14no: Blanchet and Michinov — Impact of the anticipation of membership change on transactive memory and group performance
+
+## Key results
+
+- Measures: "As in previous transactive memory studies using an "Assembly-Task paradigm" (Liang et al., 1995), we used an operational group performance measure, namely assembly error."
+- Measures: "We recorded each group during the training phase and coded the transactive memory system using Liang et al. 's coding scheme (1995)." Judges rated "expertise specialization, credibility and coordination".
+- Introduction: "TMS is developed through collective training and interactions between team members (Liang et al., 1995)."
+- Results: "the anticipated membership change hindered development of transactive memory and indirectly impaired group performance".
+- Results: "This mediating effect only appeared with the specialization component of transactive memory, and not with the credibility and coordination components."
+- Discussion: "Group members first find out "who knows what" (i.e., the collective awareness of the distribution of expertise) before developing effective coordination (i.e., who does what)."
+- Limitations: undergraduates working briefly; "only six groups of men".
+
+## Assumptions
+
+Group-level analysis (N = 32); bootstrapped mediation (Hayes and Preacher); a small control group
+(7 groups); six groups ended with two members.
+
+## Concepts
+
+Transactive memory system (TMS); specialization, credibility, coordination; assembly-task paradigm;
+anticipated vs. unanticipated membership change; encoding vs. retrieval phase.
+
+## Bearing on the record
+
+- **Restates:** that Liang et al. (1995) introduced the assembly-task paradigm and a video coding
+  scheme for transactive memory with three components; and, as a citation, that TMS develops through
+  collective training.
+- **Does not restate:** Liang et al.'s own design (group vs. individual training, radios), their
+  results, or how they separated transactive memory from other mediators. It tests a different
+  manipulation (anticipated membership change). Its finding that a group which expects to lose a
+  member does not specialize is evidence for transactive memory as a mediator in the same paradigm,
+  not a replication of the 1995 result.
+
+- QUESTION-108: **bears weakly.** Transactive memory here is specialization of who encodes what,
+  i.e. a division of retention plus knowledge of where it sits; groups that expect turnover keep
+  redundant knowledge instead. A record that makes "who holds what" durable regardless of membership
+  would remove the reason to avoid specializing; this is an inference, not tested.
+- CASE-091: leaves open; no memory-format manipulation.
+
+## Limitations
+
+Small sample, especially the control; students; short tasks; mediation on 30-32 groups.

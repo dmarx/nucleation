@@ -1,0 +1,97 @@
+---
+status: Read
+paper: LIT-tmpo6ko1
+title: 'DeChurch and Mesmer-Magnus — Measuring shared team mental models: A meta-analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 from
+    https://atlas.northwestern.edu/wp-content/uploads/2017/03/DeChurch-_-Mesmer-Magnus-2010-Measuring-SMMs-META.pdf.
+    **Read** (body in full; meta-analytic tables read through the text, not
+    cell by cell). A delegated reader drafted the reading; quotations were
+    rechecked by script against the downloaded copy, and any that did not
+    match were kept as paraphrase without quotation marks.
+date: '2026-11-12'
+summary: >-
+  The authors meta-analyse 23 independent studies (1,511 groups, about 5,668
+  people) relating the similarity of team members' mental models (shared
+  mental models, SMMs) to team process and team performance, testing three
+  aspects of measurement as moderators: elicitation method (similarity
+  ratings, concept maps or card sorts, rating scales), structure
+  representation (Pathfinder networks, concept-map/card-sort scoring, none)
+  and representation of emergence (Pathfinder C, Euclidean distance or
+  consistency, within-group agreement). SMMs predict team process only when
+  the measurement captures the structure of knowledge; with rating scales or
+  agreement indices the SMM-process relation is near zero. SMMs predict
+  performance positively under every measurement.
+---
+<!-- inactive-ok-file: LIT-tmpmvfl2 TERM-tmp8deza — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: LIT-2272 LIT-2330 — Unavailable; cited for what each holds, not as settled -->
+
+# NOTE-tmp1cqjq: DeChurch and Mesmer-Magnus — Measuring shared team mental models: A meta-analysis
+
+## Contribution
+
+Shows empirically that how team cognition is operationalized changes what it predicts: knowledge
+structure predicts process and performance, knowledge content predicts performance only.
+
+## Key results
+
+- Abstract: "We use meta-analysis to cumulate 23 independent studies".
+- Abstract: "only methods that model the structure or organization of knowledge are predictive of process."
+- Abstract: "SMMs were positively related to team performance regardless of the manner of operationalization."
+- Results, process: with rating scales the SMM-process relation "was small and negative", and where structure was not represented "there was essentially no observed effect between SMMs and team process".
+- Results, process: "studies using an index of within-group agreement showed no relation between SMMs and team process".
+- Discussion: "SMMs only predict team process when the measurement technique enables the structure of individuals’ mental models to be revealed."
+- Discussion: "knowledge content is predictive of team performance but not of team process. Knowledge structure is predictive of both team process and team performance."
+- Limitations: many comparisons rest on small k; "we urge against drawing more fine-grained conclusions about particular comparisons across methods until additional research is available."
+- Limitations: all included studies measured similarity of models, not accuracy or complementarity.
+
+## Assumptions
+
+- SMMs are a dispersion construct (degree of sharedness, like climate strength), not content.
+- The correlation between process and performance is moderate (they cite rho = .31), so measures can
+  be differentially valid.
+- Hunter-Schmidt psychometric meta-analysis; many cells with k = 1 or small k.
+
+## Concepts
+
+Shared team mental model; elicitation method; structure representation; representation of
+emergence; knowledge content vs. knowledge structure; similarity/convergence vs. accuracy and
+complementarity; team process vs. team performance; dispersion construct.
+
+## Bearing on the record
+
+A cites it for a synthesis of 23 studies finding that how mental-model structure is measured
+matters for its relation to team process. **Accurate.** One precision: the finding is that
+measures which represent structure at all predict process, while measures of content only do not;
+and for performance, measurement mattered for magnitude but not for sign.
+
+- CASE-145 (perspective without collective agency: populations given the same norms or training,
+  interacting or not, with and without collective decision, measured on shared interpretation,
+  reciprocal influence, coordination and joint response): **supports a measurement constraint on the
+  design and qualifies "shared interpretation" as an outcome.** The case's own risk is that a
+  shared perspective "will simply mean correlated responses". DeChurch and Mesmer-Magnus show that
+  agreement-style and rating-scale measures of sharedness (closest to "correlated responses") do
+  not predict team process, while structural similarity does. So a test of CASE-145 should measure
+  the structure of agents' interpretations (relations among categories), not only agreement on
+  responses, if it wants a sharedness measure that tracks interaction. It does not bear on the
+  collective-agency half of the case.
+- LIT-2330 (Mathieu et al. 2000, Deferred): included in this meta-analysis's domain (the authors
+  cite Mathieu et al. 2000); this paper does not stand in for it.
+
+Searched the record for DeChurch, the DOI, shared mental model, team cognition,
+Cannon-Bowers, Pathfinder, transactive memory. Not held (no duplicate). Missed by the first search:
+- LIT-2272 (Moreland and Myaskovsky 2000, Deferred) and LIT-tmpmvfl2 (Liang et al. 1995, same batch):
+  transactive memory is the complementary-knowledge counterpart to the similarity construct here;
+  the authors list complementarity as a criterion their data could not test.
+- TERM-tmp8deza (shared epistemic state; not shared beliefs): the meta-analysis is about shared
+  beliefs in the heads of members, the thing the term says it is not; useful as the contrast class.
+- CLAIM-418 (a shared perspective is not a collective agent): the meta-analysis shows sharedness
+  predicting performance without saying anything about agency; neutral.
+
+## Limitations
+
+Small k in many cells; similarity only; heterogeneous tasks; correlational primary studies.

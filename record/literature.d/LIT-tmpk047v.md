@@ -1,14 +1,22 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-12, not read. Registered from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), where A cited it at A22 (as "OBO Foundry governance"). The earlier registration of this exchange's works (record/curation.d/2026/11/10/182452.md) did not include it. No reading was attempted; a lawful copy has not been sought.
+  Read on 2026-11-12 (NOTE-tmpsm319) from
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC8546234/.
 title: 'OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-12'
   note: >-
     Filed, not read. Identifier checked on 2026-11-12 with Crossref, and confirmed not held by DOI or arXiv id, exact title and first author in record/literature.d. `published:`: Crossref's print and online date. No email address was sent to any service.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Read on 2026-11-12 (NOTE-tmpsm319; THEORY-tmpm8l7x). Twenty-five authors
+    led by Rebecca Jackson. A bioRxiv preprint (DOI 10.1101/2021.06.01.446587)
+    dates from 2021-06; `published:` is left at the journal date, the preprint
+    not having been compared.
 tags:
 - databases
 - society-and-governance
@@ -19,8 +27,21 @@ first_author: 'Jackson'
 keywords: []
 implementations: []
 summary: >-
-  Rebecca Jackson et al. (2021), Database, DOI 10.1093/database/baab069. Here because A cited it in the exchange "luria experiment design" at A22 (as "OBO Foundry governance"), for community principles refined over time, operationalized into validation checks, and used to evaluate ontology maintenance; A ranks it among the works "essential to a credible novelty claim". It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md). What A says of it is unverified until read.
+  Jackson et al. (2021), OBO Foundry in 2021: operationalizing open data
+  principles to evaluate ontologies. The OBO Foundry's operations committee
+  reports how it turned the Foundry's founding principles (open, common
+  format, URI space, versioning, scope, textual definitions, relations,
+  documentation, plurality of users, collaboration, locus of authority,
+  naming, maintenance, responsiveness) into operational rules stated in
+  MUST/SHOULD language, each with an automated check, run across all member
+  ontologies and shown on a public dashboard. It first re-curated the
+  registry metadata of every ontology (moving it into a GitHub repository
+  changed by pull request), then refined each principle into a checkable
+  procedure, then built the dashboard on ROBOT. Errors fell after the
+  dashboard was announced; some principles cannot be automated. Read for the
+  exchange "luria experiment design".
 ---
+<!-- inactive-ok-file: THEORY-tmpm8l7x — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # LIT-tmpk047v: OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies
 
@@ -32,4 +53,8 @@ Rebecca Jackson et al. (2021), Database. DOI 10.1093/database/baab069.
 
 ## Standing in the record
 
-Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "OBO Foundry governance"). It bears on [QUESTION-tmps5iou](../questions.d/QUESTION-tmps5iou.md) and [CLAIM-419](../claims.d/CLAIM-419.md).
+Registered on 2026-11-12 from the exchange "luria experiment design" (2026-11-10, https://chatgpt.com/share/6af35bfc-35f8-83e9-a63d-d594703eabda), at A22 (as "OBO Foundry governance"). It bears on QUESTION-tmps5iou and CLAIM-419.
+
+## Reading of 2026-11-12
+
+Read in NOTE-tmpsm319, from https://pmc.ncbi.nlm.nih.gov/articles/PMC8546234/; its account is THEORY-tmpm8l7x.

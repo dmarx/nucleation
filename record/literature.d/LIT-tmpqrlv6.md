@@ -1,0 +1,50 @@
+---
+status: Active
+status_note: >-
+  Read on 2026-11-12 from the open journal. Registered as a partial stand-in
+  for LIT-tmpmvfl2, Liang, Moreland and Argote 1995, which no lawful copy
+  reached.
+title: 'Impact of the anticipation of membership change on transactive memory and group performance'
+version: 1
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Registered on 2026-11-12 as a stand-in for LIT-tmpmvfl2 (Unavailable). No
+    DOI or arXiv id found; `published:` year precision, the PDF giving
+    acceptance on 2017-08-21 and no publication date. Not held. No email
+    address was sent to any service.
+tags:
+- social-science
+date: '2026-11-12'
+published: '2017-01-01'
+url: 'https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2020-04/crisp_vol_25_4_1.pdf'
+first_author: 'Blanchet'
+keywords: []
+implementations: []
+summary: >-
+  Célia Blanchet and Estelle Michinov (2017), Current Research in Social
+  Psychology 25. Thirty-two groups (91 French undergraduates, mostly triads,
+  same-sex) were trained together to assemble a Meccano robot's arms, then
+  recalled the procedure and reassembled it. In one condition the group was
+  warned that a member would be replaced by someone trained elsewhere; in
+  another the replacement happened without warning; a control had no change.
+  Following Liang et al. (1995), the training phase was videotaped and coded
+  for transactive memory (expertise specialization, credibility,
+  coordination), and performance was an assembly error ratio. Anticipated
+  change lowered transactive memory, specifically specialization, which in
+  turn raised errors (a significant indirect effect, no direct effect);
+  unanticipated change had no effect. Registered on 2026-11-12 as a stand-in
+  for LIT-tmpmvfl2; it uses Liang et al.'s assembly-task paradigm and coding
+  of transactive memory and restates that training together builds it; it
+  does not restate their design or results.
+---
+<!-- inactive-ok-file: LIT-tmpmvfl2 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+
+# LIT-tmpqrlv6: Impact of the anticipation of membership change on transactive memory and group performance
+
+Célia Blanchet and Estelle Michinov (2017), Current Research in Social Psychology 25.
+
+## Standing in the record
+
+Registered on 2026-11-12 as a stand-in for LIT-tmpmvfl2, which the reading of the works cited in the exchange "luria experiment design" could not reach. it uses Liang et al.'s assembly-task paradigm and coding of transactive memory and restates that training together builds it; it does not restate their design or results.
