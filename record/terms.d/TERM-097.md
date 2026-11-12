@@ -7,13 +7,23 @@ complements:
 - TERM-093
 - TERM-034
 title: 'coherence, of a family of descriptions, transports or judgements: their agreement with one another under a stated correspondence structure (on overlaps, around cycles, between routes), distinct from fidelity to a source, from integration by dynamics, and from knowledge of the world'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
   note: >-
     Adopted by the owner on 2026-10-29 ("adopt the coherence TERM").
     Proposed → Active; the definition is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-012 ("on overlaps, as local sections that glue"),
+    THEORY-1082 and THEORY-1140 ("around cycles, as trivial holonomy"),
+    THEORY-1088 ("can become coherent by changing how its members are
+    expressed"), THEORY-1158 ("a synchronization benchmark built flat")
+    and THEORY-1278, whose "incoherence that is not failure" the note of
+    2026-10-31 finds "not yet incoherence at all". First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - epistemology
 - mathematics
@@ -29,7 +39,15 @@ summary: >-
   on the owner's question of 2026-10-29 whether the record had TERMs for
   fidelity and coherence: fidelity has several, coherence none, though
   the word is in some 145 entries. Adopted the same day.
+draws_on:
+- THEORY-012
+- THEORY-1082
+- THEORY-1140
+- THEORY-1088
+- THEORY-1158
+- THEORY-1278
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-097: coherence, of a family of descriptions, transports or judgements: their agreement with one another under a stated correspondence structure (on overlaps, around cycles, between routes), distinct from fidelity to a source, from integration by dynamics, and from knowledge of the world
 

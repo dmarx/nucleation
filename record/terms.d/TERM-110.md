@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmpbxjmx
 title: "ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -12,6 +12,11 @@ history:
     Provenance only: NOTE-1599 went to Read in the twenty-ninth status
     review, so "skimmed in" becomes "read in" (1 place). The sense is
     unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1378: "It can stop learning altogether". First
+    application of draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - game-theory
 - society-and-governance
@@ -31,7 +36,10 @@ summary: >-
   set it aside in their models; Ratliff and colleagues ([LIT-2097](../literature.d/LIT-2097.md))
   raise its logic as an open problem without the name. The wording is the
   filer's; adopting it is the owner's call.
+draws_on:
+- THEORY-1378
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2062 LIT-1573 — Unfetched; works cited for their published abstract or as the source of a sense, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-1371 CASE-173 — Proposed; an account and a case cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->

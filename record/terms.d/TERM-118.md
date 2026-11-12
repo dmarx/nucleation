@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp6ersv
 title: 'disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -26,6 +26,13 @@ history:
     third route is named, a change in access and incentives with the
     declared bearer's disposition intact. A fall in observed challenges
     does not tell them apart. The definition is unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-670, Vetter's 'breakable', "plain possibility",
+    for the ability sense, and 'fragile', "manifestation in a sufficient
+    proportion of cases", for the tendency sense. First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - metaphysics
 - agency
@@ -49,7 +56,10 @@ summary: >-
   reader's qualification, made so that the word cannot slide again between
   person and institution, the reason [TERM-019](TERM-019.md) retired it. The wording is
   A's; adopting it is the owner's call.
+draws_on:
+- THEORY-670
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-619 — filed from the same exchange, Proposed; the case the finking row names -->
 <!-- inactive-ok-file: TERM-086 TERM-104 CLAIM-553 CLAIM-417 THEORY-670 CLAIM-445 TERM-098 — Proposed; the entries whose uses of the word this term sorts, cited as open -->
 

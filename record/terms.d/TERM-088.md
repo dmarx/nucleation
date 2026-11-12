@@ -9,7 +9,7 @@ complements:
 - TERM-074
 - TERM-098
 title: 'individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,14 @@ history:
     definition excludes. Its settle condition was "adoption if claims
     cite the sense they mean". The four senses, the exclusion and the
     title are unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1276, the genetic sense the definition excludes,
+    which "names the process that would produce such a candidate", and on
+    THEORY-1288, why the constitutive sense "cannot be shown by any finite
+    set of interventions". First application of draws_on (ADR-tmpcd2gu).
+    No other change.
 tags:
 - individuation
 - complex-systems
@@ -54,7 +62,11 @@ summary: >-
   senses so that a claim saying "individual" says which. Organizational
   autonomy is [TERM-070](TERM-070.md)'s closure, named here as the sense it is not.
   Adopted 2026-11-06 at the status review's ruling.
+draws_on:
+- THEORY-1276
+- THEORY-1288
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: TERM-098 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->

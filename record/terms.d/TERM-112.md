@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmpexd3x
 title: 'unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,12 @@ history:
     Provenance only: NOTE-1620 went to Read in the twenty-ninth and
     thirtieth status reviews, so "read Skimmed in" or "skimmed in"
     becomes "read in" (1 place). What the entry says is unchanged.
+- version: 4
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-1394, Larson and Odoni's units that "would not
+    ordinarily be used in the routine assignment". First application of
+    draws_on (ADR-tmpcd2gu). No other change.
 tags:
 - operations-research
 - agency
@@ -33,7 +39,10 @@ summary: >-
   claim about its value; that its use measures congestion and not its
   worth is the filer's reading of the construction. The wording is the
   filer's; adopting it is the owner's call.
+draws_on:
+- THEORY-1394
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the paper the book stands in for, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-107 — Proposed; a term of the same filing, cited as filed -->
 

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmpiiy3n
 title: 'moral standing: being owed moral consideration directly, for one''s own sake, and not only for one''s effects on others'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-01'
@@ -15,6 +15,15 @@ history:
     suffer, and his minimal experience separates phenomenal
     consciousness from valenced sentience as grounds. The definition
     is unchanged.
+- version: 3
+  date: '2026-11-12'
+  note: >-
+    Now draws on THEORY-449, THEORY-554 and THEORY-699, the readings that
+    "show why the ground must be named": "standing graded by degree of
+    sentience", grounds that "would let insects or near-future AI outweigh
+    humanity", and "adaptive self-maintenance as enough, without
+    sentience, for a good of one's own". First application of draws_on
+    (ADR-tmpcd2gu). No other change.
 tags:
 - ethics
 - personhood
@@ -31,7 +40,12 @@ summary: >-
   moral patients apart from moral agents. Used at once by the Chagos case:
   the displaced are owed consideration whether or not they form one agent.
   Proposed.
+draws_on:
+- THEORY-449
+- THEORY-554
+- THEORY-699
 ---
+<!-- inactive-ok-file: ADR-tmpcd2gu THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
 # TERM-083: moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
