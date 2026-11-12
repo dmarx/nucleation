@@ -24,7 +24,6 @@ summary: >-
   with a narrower language. A weak stand-in for Part I of The Art of the Metaobject
   Protocol.
 ---
-<!-- inactive-ok-file: LIT-tmpiyp1o — Unavailable; the book this reading stands in for -->
 
 # NOTE-tmpds3ww: Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin — Aspect-oriented programming
 

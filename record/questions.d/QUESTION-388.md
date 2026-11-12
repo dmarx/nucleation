@@ -44,17 +44,17 @@ and, still open, self-maintaining organization.
 The readings fill the first three steps and show that internal feedback
 alone does not reach the fourth.
 
-- **Reconfigurable, set from outside.** Hu et al. (NOTE-1608), in the
+- **Reconfigurable, set from outside.** Hu et al. ([NOTE-1608](../notes.d/NOTE-1608.md)), in the
   reading's words: "The arrangement is the program, and the mechanism that changes it is
   separate from both the program and the computation." Chen, Tan and Yan
-  (NOTE-1559): a robot programs the array, and in the reading's words
+  ([NOTE-1559](../notes.d/NOTE-1559.md)): a robot programs the array, and in the reading's words
   "Programming is external: the function is set by a magnet layout
   designed outside the device, which the robot only executes."
-- **A fixed map, learning elsewhere.** Liu et al. (NOTE-1600): the
+- **A fixed map, learning elsewhere.** Liu et al. ([NOTE-1600](../notes.d/NOTE-1600.md)): the
   multistable structure under a fixed actuation rule is a fixed map, and a
   linear readout, in the reading's words "trained in software, does the
   learning".
-- **Trainable, gated from outside.** Stern et al. (NOTE-1615): "if the
+- **Trainable, gated from outside.** Stern et al. ([NOTE-1615](../notes.d/NOTE-1615.md)): "if the
   response is the desired one, as determined by a ‘supervisor’, folded
   creases are allowed to soften in proportion to their folding strain." The
   sheet's own material carries g, so z_{t+1} depends on z_t and on the
@@ -63,15 +63,15 @@ alone does not reach the fourth.
   signal".
 
 So z_{t+1} = g(z_t, x_t, y_t) can hold while the criterion g applies is
-another's. The record says as much about the readings: in CLAIM-025's
+another's. The record says as much about the readings: in [CLAIM-025](../claims.d/CLAIM-025.md)'s
 note of 2026-11-05, "In all of them the capacity to transform comes from
 outside, a robot, rig or supervisor".
 
-The record has the target without the criterion. CLAIM-545 identifies
+The record has the target without the criterion. [CLAIM-545](../claims.d/CLAIM-545.md) identifies
 freedom of will, operationally, with an agent's governance of its own
 governability. [QUESTION-090](QUESTION-090.md) asks when a population develops a
 self-maintaining governance structure. [QUESTION-396](QUESTION-396.md) asks when stored
-history helps control. CLAIM-566 separates persisting from
+history helps control. [CLAIM-566](../claims.d/CLAIM-566.md) separates persisting from
 regenerating. None says what, in a reconfigurable system, makes the
 reconfiguring its own.
 
@@ -82,7 +82,7 @@ classes the four readings correctly and says what a fifth step would need:
 for instance, that the criterion g applies be computed from the system's
 own states and not delivered from outside; that g itself be revisable by
 the system; that the constraints realizing g be produced by the system, in
-TERM-070's sense. Then an organizational case on each side of the line:
+[TERM-070](../terms.d/TERM-070.md)'s sense. Then an organizational case on each side of the line:
 one reorganized by a consultant's verdict through its own procedures, one
 whose procedures produce the verdict.
 
@@ -94,13 +94,13 @@ for its reconfiguration comes from.
 
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
-The pasted synthesis on resource-bounded realizability first asks whether constraints are constitutive of the object or can themselves be reconfigured by computation, which would point to "computation that constructs, modifies, and navigates spaces of constraints"; A then finds the filing already answers yes. TERM-114 gives a frame in which this question can be put: changes of architecture are costed moves of their own, beside moves within one architecture. In that frame a merely programmable system is one whose architectural moves are chosen from outside, and the question is what makes the choosing the system's own. The frame states the moves and does not answer that. The reading is the filer's. No status changes.
+The pasted synthesis on resource-bounded realizability first asks whether constraints are constitutive of the object or can themselves be reconfigured by computation, which would point to "computation that constructs, modifies, and navigates spaces of constraints"; A then finds the filing already answers yes. [TERM-114](../terms.d/TERM-114.md) gives a frame in which this question can be put: changes of architecture are costed moves of their own, beside moves within one architecture. In that frame a merely programmable system is one whose architectural moves are chosen from outside, and the question is what makes the choosing the system's own. The frame states the moves and does not answer that. The reading is the filer's. No status changes.
 
 ## Note of 2026-11-05: A's synthesis on DNA origami
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-Douglas, Bachelet and Church's barrel (NOTE-1634) is a clean case of the programmable side. Its rule, which antigens open it, is set at folding by the aptamer sequences installed; six lock versions were built. Nothing in it feeds back on that rule. A's synthesis draws the same line: "That response does not automatically grant the structure the ability to revise the rules governing its own behavior." So DNA origami, as read here, offers programmable systems and no self-governing one.
+Douglas, Bachelet and Church's barrel ([NOTE-1634](../notes.d/NOTE-1634.md)) is a clean case of the programmable side. Its rule, which antigens open it, is set at folding by the aptamer sequences installed; six lock versions were built. Nothing in it feeds back on that rule. A's synthesis draws the same line: "That response does not automatically grant the structure the ability to revise the rules governing its own behavior." So DNA origami, as read here, offers programmable systems and no self-governing one.
 
 No status changes.
 
@@ -108,7 +108,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), LIT-2136, give a clean "merely
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-2136](../literature.d/LIT-2136.md), give a clean "merely
 programmable" case for the question. The lock pair (and hence the response
 function) is set from outside; there is no internal process updating it
 from the device's own states; opening is a one-shot, input-triggered
@@ -124,8 +124,8 @@ A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-12: Kiczales et al., read
 
 Kiczales, Lamping, Mendhekar, Maeda, Lopes, Loingtier and Irwin's
-"Aspect-oriented programming" (LIT-tmpeg56k, skimmed in NOTE-tmpds3ww;
-THEORY-tmpk9bmo), read as a stand-in for Part I of The Art of the Metaobject
+"Aspect-oriented programming" ([LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), skimmed in [NOTE-tmpds3ww](../notes.d/NOTE-tmpds3ww.md);
+[THEORY-tmpk9bmo](../theory.d/THEORY-tmpk9bmo.md)), read as a stand-in for Part I of The Art of the Metaobject
 Protocol. It bears on this question by
 analogy at one point. A reflective system gives "a base language and (one
 or more) meta-languages that provide control over the base language's
@@ -137,8 +137,8 @@ change is fixed by designers outside it, the split this question finds in
 Stern et al.'s sheet. The paper does not ask who should govern
 reconfiguration. Open.
 
-Chapter 5 of the book itself, skimmed the same day (NOTE-tmpyvjjb;
-THEORY-tmph775l) once the owner ruled the copy usable, says the same thing
+Chapter 5 of the book itself, skimmed the same day ([NOTE-tmpyvjjb](../notes.d/NOTE-tmpyvjjb.md);
+[THEORY-tmph775l](../theory.d/THEORY-tmph775l.md)) once the owner ruled the copy usable, says the same thing
 more exactly. Users change CLOS by specializing its metaobjects, and the
 change propagates to dependents inside the system; but "This balance
 between user extensibility and implementor freedom is mediated by placing

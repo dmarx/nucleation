@@ -16,8 +16,8 @@ promote_when: >-
   explicit restrictions on implementations and on portable programs.
   Nothing from Part I, which was not read, is asked.
 summary: >-
-  The account of chapter 5 of LIT-tmpiyp1o, skimmed in NOTE-tmpyvjjb from
-  a community hypertext the owner ruled usable. It bears on QUESTION-388:
+  The account of chapter 5 of [LIT-tmpiyp1o](../literature.d/LIT-tmpiyp1o.md), skimmed in [NOTE-tmpyvjjb](../notes.d/NOTE-tmpyvjjb.md) from
+  a community hypertext the owner ruled usable. It bears on [QUESTION-388](../questions.d/QUESTION-388.md):
   the machinery of change is inside the system, the space of permitted
   changes fixed by its designers.
 ---

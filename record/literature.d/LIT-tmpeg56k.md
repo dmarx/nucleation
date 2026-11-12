@@ -23,7 +23,6 @@ implementations: []
 summary: >-
   Gregor Kiczales, John Lamping, Anurag Mendhekar, Chris Maeda, Cristina Videira Lopes, Jean-Marc Loingtier and John Irwin (1997), ECOOP'97, LNCS 1241, DOI 10.1007/BFb0053381. Argues that some design decisions, which it calls aspects, cross-cut a system's functional decomposition and tangle procedural or object-oriented code, and that they are best written in separate aspect languages combined with the components by a weaver. Its §8.2 places reflection and metaobject protocols as one powerful tool for that goal, and §6.2 replaces raw reflective access, "so powerful that it can be dangerous or difficult to use", with a narrower aspect language. Here as a weak stand-in for Part I of The Art of the Metaobject Protocol (LIT-tmpiyp1o), which it cites.
 ---
-<!-- inactive-ok-file: LIT-tmpiyp1o — Unavailable; the book this work stands in for -->
 <!-- inactive-ok-file: NOTE-tmpds3ww — Skimmed; the reading of this work -->
 
 # LIT-tmpeg56k: Aspect-oriented programming

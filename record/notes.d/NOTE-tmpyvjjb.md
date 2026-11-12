@@ -100,7 +100,7 @@ system and that a changed rule counts only if it changes later behaviour,
 are A's, though the protocol builds the second in mechanically
 (recomputation, dependent updates).
 
-- **QUESTION-388** (what distinguishes a programmable system from one that
+- **[QUESTION-388](../questions.d/QUESTION-388.md)** (what distinguishes a programmable system from one that
   governs its own reconfiguration). The protocol sits on the programmable
   side. The machinery of change is inside the system, metaobjects and the
   propagation of their changes to dependents, but the choice of the next
@@ -109,7 +109,7 @@ are A's, though the protocol builds the second in mechanically
   inherently about specifying leeway" names an ingredient the question's
   criterion may need: who fixes the space of permitted reconfigurations.
   Evidence on the question, not an answer; bears_on written.
-- **CLAIM-469** (luria realizes, retains, enforces and revises the record's
+- **[CLAIM-469](../claims.d/CLAIM-469.md)** (luria realizes, retains, enforces and revises the record's
   distinctions). An analogue: a system whose kinds of object are
   themselves objects of a protocol, with changes propagated to dependents,
   as the record's declared converses are written and their removal
@@ -117,7 +117,7 @@ are A's, though the protocol builds the second in mechanically
   users' programs, not through use, and its restrictions are fixed by its
   designers, as luria.yaml is changed only by decision. It does not bear
   on the claim's defeat condition, so no relation is written.
-- **The aspect-oriented stand-in** (LIT-tmpeg56k, NOTE-tmpds3ww) is kept
+- **The aspect-oriented stand-in** ([LIT-tmpeg56k](../literature.d/LIT-tmpeg56k.md), [NOTE-tmpds3ww](NOTE-tmpds3ww.md)) is kept
   for Part I, which was not reached.
 
 ## Limitations

@@ -21,7 +21,6 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: LIT-tmpiyp1o — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: LIT-2305 LIT-2311 LIT-2312 LIT-2313 — Deferred; cited for what each holds, not as settled -->
 
 # ADR-tmppzz2h: software-engineering joins the topics
