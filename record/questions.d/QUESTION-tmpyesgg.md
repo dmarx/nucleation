@@ -13,19 +13,19 @@ refines:
 - QUESTION-129
 summary: >-
   The assistant's, offered at step 12 of the filing of "About Plantation
-  Paradise" (#488) and accepted by the owner on 2026-11-13. The owner's U3
+  Paradise" ([#488](https://github.com/dmarx/nucleation/issues/488)) and accepted by the owner on 2026-11-13. The owner's U3
   of that exchange named "exploitation identification" among the record's
-  investigations; the filing found it barely begun: CLAIM-546 (coexistence
-  is not cooperation), CLAIM-428 (one dependence, three organizations),
-  A's predatory-inclusion claims (CLAIM-669, CLAIM-670) and an unread
-  Berenstain (LIT-2264), with no question of how exploitation is told from
+  investigations; the filing found it barely begun: [CLAIM-546](../claims.d/CLAIM-546.md) (coexistence
+  is not cooperation), [CLAIM-428](../claims.d/CLAIM-428.md) (one dependence, three organizations),
+  A's predatory-inclusion claims ([CLAIM-669](../claims.d/CLAIM-669.md), [CLAIM-670](../claims.d/CLAIM-670.md)) and an unread
+  Berenstain ([LIT-2264](../literature.d/LIT-2264.md)), with no question of how exploitation is told from
   dependence or from domination, or by which standard. Refines
-  QUESTION-129, which asks whether the standards themselves can be
+  [QUESTION-129](QUESTION-129.md), which asks whether the standards themselves can be
   objective; this asks which one an exploitation verdict is relative to,
-  and how it is applied. It keeps apart what the owner's review of #488
+  and how it is applied. It keeps apart what the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488)
   asked to keep apart: the ground of a wrong from its bearer, and
   vulnerability and control from integration. The terms it is asked in
-  are TERM-tmp169d8 and TERM-tmpc9uv8. The wording is the assistant's
+  are [TERM-tmp169d8](../terms.d/TERM-tmp169d8.md) and [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-tmp169d8 TERM-tmpc9uv8 CASE-tmpzh595 CLAIM-tmp6p3ki — filed with this question, Proposed -->
@@ -43,31 +43,31 @@ Three parts, which an answer has to keep apart.
    A6 §2 of the exchange "About Plantation Paradise" listed five
    predicates, contribution, dependency, cooperation, exploitation and
    domination, and said "These are distinct predicates" (kept in the note
-   on CLAIM-546). The record has no way to tell, in a case, which of them
+   on [CLAIM-546](../claims.d/CLAIM-546.md)). The record has no way to tell, in a case, which of them
    hold. An indispensable contribution does not show exploitation, and
    "compensation or public acclaim" does not show its absence (A6 §2).
 2. **Which standard supplies the verdict.** An exploitation verdict is
-   relative to a standard declared with it (TERM-tmp169d8; CLAIM-363). The
+   relative to a standard declared with it ([TERM-tmp169d8](../terms.d/TERM-tmp169d8.md); [CLAIM-363](../claims.d/CLAIM-363.md)). The
    record supplies none, and A6 §6 put the investigation's aim as
    "Separating causal dependence from violations of an independently
    justified labor or freedom standard". Which standards are admissible,
    and whether conflicts between them have better resolutions, is
-   QUESTION-129. This part asks the narrower thing: for the record's own
+   [QUESTION-129](QUESTION-129.md). This part asks the narrower thing: for the record's own
    cases, which standard the record uses, and whether one is enough.
-3. **Who, if anyone, answers for it.** The owner's review of #488: "A
+3. **Who, if anyone, answers for it.** The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488): "A
    whole can be the ground or object of a normative judgment without
    necessarily being the bearer of the corresponding obligation." The
    beneficiary of exploitative terms, the agent that controls the terms
    and the bearer of a duty to remedy can be three different parties. In
-   a sense-1 arrangement (TERM-074) that no agent designed, the benefit
+   a sense-1 arrangement ([TERM-074](../terms.d/TERM-074.md)) that no agent designed, the benefit
    can accrue to parties who neither set nor control the terms.
-   QUESTION-070 asks the same of manipulation, when no member intends it.
+   [QUESTION-070](QUESTION-070.md) asks the same of manipulation, when no member intends it.
 
 ## Which sense of "organization"
 
-TERM-074 sense 1 by default: a relational arrangement, which need not be
+[TERM-074](../terms.d/TERM-074.md) sense 1 by default: a relational arrangement, which need not be
 an institution or an agent. The party exploited must have standing
-(TERM-083); the predicates apply to persons and to collectives with
+([TERM-083](../terms.d/TERM-083.md)); the predicates apply to persons and to collectives with
 standing, not to cells or subprocesses, which can be used but not, in
 this sense, exploited. Each entry that answers a part of the question
 should say which sense of "organization" it means.
@@ -78,21 +78,21 @@ What the record holds bounds it without answering it.
 
 - **Stability is not fairness.** Stable coexistence does not imply
   cooperation, and Hawks keep taking the resource at equilibrium
-  (CLAIM-546). Viability does not say what ought to persist (CLAIM-075).
+  ([CLAIM-546](../claims.d/CLAIM-546.md)). Viability does not say what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)).
 - **One dependence, several organizations.** The same dependence can be
-  organized as opportunity, vulnerability or leverage (CLAIM-428).
-  CLAIM-tmp6p3ki adds that control over the terms, not magnitude, sorts it
-  in both directions of a whole-part relation, and CASE-tmpzh595 builds the
+  organized as opportunity, vulnerability or leverage ([CLAIM-428](../claims.d/CLAIM-428.md)).
+  [CLAIM-tmp6p3ki](../claims.d/CLAIM-tmp6p3ki.md) adds that control over the terms, not magnitude, sorts it
+  in both directions of a whole-part relation, and [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md) builds the
   contrast. That separates dependence from domination. It does not
   separate either from exploitation.
 - **Routes into exploitation.** Through access whose terms leave an
-  encumbrance that narrows exit (CLAIM-669); through supply that produces
-  the reliance it then uses (CLAIM-670). Both say how, given a standard;
+  encumbrance that narrows exit ([CLAIM-669](../claims.d/CLAIM-669.md)); through supply that produces
+  the reliance it then uses ([CLAIM-670](../claims.d/CLAIM-670.md)). Both say how, given a standard;
   neither says which standard.
-- **Domination has a clause, not a criterion.** CLAIM-545's "another's
+- **Domination has a clause, not a criterion.** [CLAIM-545](../claims.d/CLAIM-545.md)'s "another's
   capacity to govern those same relations, used or not", now proposed as
-  TERM-tmpc9uv8 with a declared standard of answerability.
-- **Answerability.** CLAIM-624's second-order duty is to keep violations
+  [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md) with a declared standard of answerability.
+- **Answerability.** [CLAIM-624](../claims.d/CLAIM-624.md)'s second-order duty is to keep violations
   knowable, contestable and correctable, a verdict given only an
   independently justified standard. It is a candidate for the standard of
   answerability in domination; it does not say what exploitation is.
@@ -103,18 +103,18 @@ exploited rather than only dependent or only dominated.
 ## Kept apart
 
 - **Ground and bearer.** Part 2 is about the ground: by what standard the
-  terms are wrong. Part 3 is about the bearer: who owes a remedy. CLAIM-671
-  and CASE-256 bear on the second for vulnerability and membership.
-- **Control and integration.** The owner's review of #488: "deeper
+  terms are wrong. Part 3 is about the bearer: who owes a remedy. [CLAIM-671](../claims.d/CLAIM-671.md)
+  and [CASE-256](../cases.d/CASE-256.md) bear on the second for vulnerability and membership.
+- **Control and integration.** The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488): "deeper
   integration need not monotonically increase vulnerability". A part that
-  gave up a capability to a supplier (CLAIM-603) is dependent; whether it
+  gave up a capability to a supplier ([CLAIM-603](../claims.d/CLAIM-603.md)) is dependent; whether it
   is dominated depends on who controls the terms, and whether it is
   exploited on the standard declared.
 
 ## What would count as an answer
 
 - For part 1, a test that, in a matched pair, tells exploitation from
-  dependence and from domination, as CASE-tmpzh595 tells dependence from
+  dependence and from domination, as [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md) tells dependence from
   domination. A6 §6's proposed comparison is one: "two theatrical
   organizations with similar artistic outputs but different labor
   arrangements could help isolate exploitation from performance."
@@ -127,6 +127,6 @@ exploited rather than only dependent or only dominated.
 
 ## Works that bear on it
 
-Berenstain's "Epistemic Exploitation" (LIT-2264), unread; Seamster and
-Charron-Chénier (LIT-2525), read, for predatory inclusion; Alicea
-(LIT-2522), Unavailable, for its organizational case.
+Berenstain's "Epistemic Exploitation" ([LIT-2264](../literature.d/LIT-2264.md)), unread; Seamster and
+Charron-Chénier ([LIT-2525](../literature.d/LIT-2525.md)), read, for predatory inclusion; Alicea
+([LIT-2522](../literature.d/LIT-2522.md)), Unavailable, for its organizational case.

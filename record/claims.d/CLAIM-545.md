@@ -297,11 +297,11 @@ on the branch does not itself cite [LIT-2362](../literature.d/LIT-2362.md); the 
 ## Note of 2026-11-13: the domination clause proposed as a term
 
 The body says the domination clause "has no coded component". At the
-owner's acceptance on 2026-11-13 of the step-12 ideas of #488, it is
-proposed as a term, TERM-tmpc9uv8: an agent's or role's capacity, used or
+owner's acceptance on 2026-11-13 of the step-12 ideas of [#488](https://github.com/dmarx/nucleation/issues/488), it is
+proposed as a term, [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md): an agent's or role's capacity, used or
 not, to set or change the terms on which a party can act, exit, contest
 or renegotiate, where the capacity is not answerable to the party under a
 standard declared with the judgment. It keeps this claim's "used or not",
-makes "unaccountable" relative to a declared standard (CLAIM-363), and
-requires the holder to be an agent or role. CLAIM-tmp6p3ki uses it. The
+makes "unaccountable" relative to a declared standard ([CLAIM-363](CLAIM-363.md)), and
+requires the holder to be an agent or role. [CLAIM-tmp6p3ki](CLAIM-tmp6p3ki.md) uses it. The
 term is the assistant's wording and Proposed. This claim is unchanged.

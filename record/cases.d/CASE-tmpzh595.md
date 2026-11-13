@@ -17,10 +17,10 @@ bears_on:
 - QUESTION-460
 - QUESTION-tmpyesgg
 summary: >-
-  The assistant's, the discriminating case for CLAIM-tmp6p3ki, offered at
-  step 12 of the filing of "About Plantation Paradise" (#488) and accepted
+  The assistant's, the discriminating case for [CLAIM-tmp6p3ki](../claims.d/CLAIM-tmp6p3ki.md), offered at
+  step 12 of the filing of "About Plantation Paradise" ([#488](https://github.com/dmarx/nucleation/issues/488)) and accepted
   by the owner on 2026-11-13. Two workshops, sense-1 arrangements
-  (TERM-074) run by a controlling agent R, each with a constituent P. The
+  ([TERM-074](../terms.d/TERM-074.md)) run by a controlling agent R, each with a constituent P. The
   whole needs P as much in both, P needs the whole as much in both, P gave
   up the same capability to join in both, and P is a constituent in both.
   Only control over the terms differs: in A, P can withdraw and
@@ -38,10 +38,10 @@ summary: >-
 
 ## Which sense of "organization"
 
-TERM-074 sense 1: each workshop is an arrangement of roles and terms. It
+[TERM-074](../terms.d/TERM-074.md) sense 1: each workshop is an arrangement of roles and terms. It
 has a controlling agent, R, an agent or a role that can set terms, because
 the case is about who controls them. P is a person, so P has standing
-(TERM-083). Neither workshop is assumed to be an agent itself.
+([TERM-083](../terms.d/TERM-083.md)). Neither workshop is assumed to be an agent itself.
 
 ## The case
 
@@ -57,9 +57,9 @@ Held fixed in both:
 - **P's dependence on the whole.** Alone, P can make a_P = 0.
 - **The integration that produced that dependence.** In both, P gave up
   the same stand-alone capability on joining, because the workshop
-  supplies it. That is CLAIM-603's route to dependence, run the same way
+  supplies it. That is [CLAIM-603](../claims.d/CLAIM-603.md)'s route to dependence, run the same way
   in both.
-- **Membership.** P is a constituent of the workshop in both. CASE-256
+- **Membership.** P is a constituent of the workshop in both. [CASE-256](CASE-256.md)
   varies membership with vulnerability held fixed; this case holds
   membership fixed and varies control.
 
@@ -90,13 +90,13 @@ Checked with exact fractions (`python3 -I`, in the session's scratchpad):
   anyone's choice. In B it is wherever R chooses to put it, within a
   range of 7 on a surplus of 10. P's dependence on the workshop is, in B
   and not in A, vulnerability to R's discretion. That is the antecedent of
-  CLAIM-671, which says that under a principle grounding special
+  [CLAIM-671](../claims.d/CLAIM-671.md), which says that under a principle grounding special
   obligations in such vulnerability, R's responsibilities toward P are
   strengthened. B meets it and A does not, at the same magnitude of
   dependence and the same integration.
 - **Magnitude.** Raising the workshop's need of P from 8 to 10 raises P's
   share in A and leaves B unchanged. Magnitude sets how much rides on the
-  relation; control sets which way it runs. CLAIM-428's "the same
+  relation; control sets which way it runs. [CLAIM-428](../claims.d/CLAIM-428.md)'s "the same
   dependence can be organized as mutual opportunity, as competitive
   vulnerability or as coercive leverage" is A against B.
 
@@ -107,15 +107,15 @@ Checked with exact fractions (`python3 -I`, in the session's scratchpad):
   offer. It shows that the outcomes can come apart at equal dependence,
   not how often or by how much they do.
 - **That B is exploitation.** Whether R's 9 against P's 1 is exploitation
-  needs a standard declared with the judgment (TERM-tmp169d8, CLAIM-363).
-  B is domination in TERM-tmpc9uv8's sense only once a standard of
+  needs a standard declared with the judgment ([TERM-tmp169d8](../terms.d/TERM-tmp169d8.md), [CLAIM-363](../claims.d/CLAIM-363.md)).
+  B is domination in [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md)'s sense only once a standard of
   answerability is declared and R's capacity fails it.
-- **That control is the only ground of obligation.** CASE-256's first
+- **That control is the only ground of obligation.** [CASE-256](CASE-256.md)'s first
   result, that membership grounds obligations of its own, is not tested
   here: membership is held fixed.
 - **Who bears anything where no agent controls the terms.** Without an R,
   for an organism and its cells, the case has nothing to vary.
-  QUESTION-460 keeps that open.
+  [QUESTION-460](../questions.d/QUESTION-460.md) keeps that open.
 - **That "dependence" here is everyone's measure.** It is measured as
   what each side would lose by withdrawal, apart from whether it can
   withdraw. A measure that counts the availability of exit inside
@@ -124,7 +124,7 @@ Checked with exact fractions (`python3 -I`, in the session's scratchpad):
 
 ## Where the real cases fall
 
-CASE-257, the Saint-Domingue theatre, is near B for its enslaved
+[CASE-257](CASE-257.md), the Saint-Domingue theatre, is near B for its enslaved
 contributors: dependence of the institution on their labour with no
 authority, as its readings report. But it differs from any A in more than
 control, so it cannot be the contrast. That is why this case is

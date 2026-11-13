@@ -143,10 +143,10 @@ changes.
 
 ## Note of 2026-11-13: two of A's predicates proposed as terms
 
-At the owner's acceptance on 2026-11-13 of the step-12 ideas of #488, the
+At the owner's acceptance on 2026-11-13 of the step-12 ideas of [#488](https://github.com/dmarx/nucleation/issues/488), the
 two predicates the note above kept here are proposed as terms, with the
 standard made a relatum declared with each judgment rather than one the
-record must supply first: exploitation (TERM-tmp169d8) and domination
-(TERM-tmpc9uv8). How the record tells them apart in a case is
-QUESTION-tmpyesgg. The terms are the assistant's wording, after A's, and
+record must supply first: exploitation ([TERM-tmp169d8](../terms.d/TERM-tmp169d8.md)) and domination
+([TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md)). How the record tells them apart in a case is
+[QUESTION-tmpyesgg](../questions.d/QUESTION-tmpyesgg.md). The terms are the assistant's wording, after A's, and
 Proposed. This claim is unchanged.
