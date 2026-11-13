@@ -120,4 +120,4 @@ A23 §6 of the exchange "Analyze technological civilization trap"
 (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) used this case, accurately, for cross-scale concordance: "Silence
 can result from justified accommodation, successful cooperation,
 resignation, exclusion, or the suppression of objections." It is cited in
-TERM-tmpt8p9e. Unchanged.
+[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md). Unchanged.

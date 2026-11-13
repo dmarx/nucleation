@@ -43,10 +43,10 @@ accurate: a graded relational property, not a Pareto improvement, split
 into internal, dependency and affected-party concordance, and Deferred,
 not rejected, because "Evaluative standards remain underspecified".
 
-A23 §7 wrote a second definition, filed as TERM-tmpt8p9e, which rivals
+A23 §7 wrote a second definition, filed as [TERM-tmpt8p9e](TERM-tmpt8p9e.md), which rivals
 this one. It does not supply the evaluative standards. It makes them
 relata, concordance being assessed "relative to declared parties, claims,
-circumstances, and temporal horizons", as CLAIM-363 holds of any normative
+circumstances, and temporal horizons", as [CLAIM-363](../claims.d/CLAIM-363.md) holds of any normative
 judgment, and it adds the arrangement's answerability to those claims.
 Whether that removes the reason this term was set aside, or only states
 it, is the owner's call. This term stays Deferred.

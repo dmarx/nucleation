@@ -34,12 +34,12 @@ summary: >-
   civilization trap" (2026-11-13), the one part of the exchange's
   "reflexive conviviality" (A17 §XII, A20 §XVII) that passes the synthesis
   audit's admission test, by the route of a discriminating prediction. It
-  carries CLAIM-667's prediction for an inquiry record (governance raises
+  carries [CLAIM-667](CLAIM-667.md)'s prediction for an inquiry record (governance raises
   the value of a modifiable schema where inherited categories are
-  inadequate) to institutions generally (TERM-074 sense 3), and keeps CLAIM-665's limit on
+  inadequate) to institutions generally ([TERM-074](../terms.d/TERM-074.md) sense 3), and keeps [CLAIM-665](CLAIM-665.md)'s limit on
   routine work, as A20 did. The record holds the three achievements a
-  correction needs (CLAIM-523), a duty to keep violations correctable
-  (CLAIM-624) and that corrigibility's value is conditional (CLAIM-520);
+  correction needs ([CLAIM-523](CLAIM-523.md)), a duty to keep violations correctable
+  ([CLAIM-624](CLAIM-624.md)) and that corrigibility's value is conditional ([CLAIM-520](CLAIM-520.md));
   it holds no comparative prediction for institutions. Empirical and
   untested. The wording is A's; adopting it is the owner's call.
 ---
@@ -57,17 +57,17 @@ A20 §XV, Proposition D, "the reflexive accountability hypothesis":
 > institutions possessing only conventional outcome-monitoring
 > procedures.
 
-A20 qualified it at once with CLAIM-665, that change governance on routine
+A20 qualified it at once with [CLAIM-665](CLAIM-665.md), that change governance on routine
 tasks "imposes costs without corresponding benefits": "The relevant
 empirical question is not whether more governance is always better. It is
 **when particular forms of governance improve justified correction enough
 to outweigh their costs and possible unintended consequences**." The claim
-states the scope that qualification implies, CLAIM-667's: tasks whose
+states the scope that qualification implies, [CLAIM-667](CLAIM-667.md)'s: tasks whose
 inherited standards are inadequate.
 
 ## Which sense of "organization"
 
-TERM-074's sense 3, collective institutions: A20 states the proposition of
+[TERM-074](../terms.d/TERM-074.md)'s sense 3, collective institutions: A20 states the proposition of
 "Institutions", and governing standards that can be authorized and revised
 belong to an institution with roles that can do it. The claim says nothing
 of an organization in sense 1, a relational arrangement with no one to
@@ -79,21 +79,21 @@ It is what survives the audit of the exchange's "reflexive conviviality"
 (A17 §XII, A20 §XVII): that a civilization is free only if it keeps the
 processes by which it can re-examine and transform its purposes. As a
 thesis about what freedom is, that asks the record to hold corrigibility
-as a condition of legitimacy, which CLAIM-511 disclaims and CLAIM-520
+as a condition of legitimacy, which [CLAIM-511](CLAIM-511.md) disclaims and [CLAIM-520](CLAIM-520.md)
 makes conditional, and A23 §10 withdrew it to "an important possible means of
 legitimacy, not an independently sufficient definition of goodness". The
 narrower sentence that passes is this prediction, which the components
-(CLAIM-523's three achievements, CLAIM-624's duty, CLAIM-667's result for a
+([CLAIM-523](CLAIM-523.md)'s three achievements, [CLAIM-624](CLAIM-624.md)'s duty, [CLAIM-667](CLAIM-667.md)'s result for a
 record) leave open and which a comparison could tell against.
 
 ## What it does not say
 
-- Not that standard revision is a duty. That is CLAIM-624, with its
+- Not that standard revision is a duty. That is [CLAIM-624](CLAIM-624.md), with its
   conditions.
 - Not which standards are justified. A20 §XVI: "Nucleation can describe
   how a demand acquires organizational efficacy. It cannot establish that
   the demand ought to acquire that efficacy merely by describing the
-  mechanism." That is QUESTION-128 and QUESTION-129.
+  mechanism." That is [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md).
 - How "normatively significant" failures are picked out without assuming
   the standards under test is left to the study's design; a failure
   defined by the inherited standards would beg the question.

@@ -119,7 +119,7 @@ A23 §10 of the exchange "Analyze technological civilization trap"
 took from it that "organizational dynamics alone do not establish that
 every self-maintaining system ought to preserve every corrective
 capacity". That is the disclaimer, rightly read. A did not cite
-CLAIM-520, the demonstrated reason the value of corrigibility is
+[CLAIM-520](CLAIM-520.md), the demonstrated reason the value of corrigibility is
 conditional. A withdrew its own earlier duty of correction to "an
 important possible means of legitimacy, not an independently sufficient
 definition of goodness". No change.

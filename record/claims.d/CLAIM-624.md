@@ -393,12 +393,12 @@ claim requires. Filed as `corroborates` on the reading. No status change.
 ## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
 
 A16, A17 §IV and A23 §9 of the exchange "Analyze technological
-civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim, with CLAIM-614 and CLAIM-523, as
+civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim, with [CLAIM-614](CLAIM-614.md) and [CLAIM-523](CLAIM-523.md), as
 "a powerful conception of technological constitutionalism", and reported
 its conditions: "it depends on independently justified standards and
 feasible alternatives." A17's own principle, "Institutions have
 responsibilities not only concerning their decisions, but also concerning
 the continued viability of the processes through which their decisions
 can be challenged and corrected", drops those conditions; A23 §10 restored
-them after CLAIM-511. The comparative prediction A20 drew from the line
-is CLAIM-tmpu2cwc. No change.
+them after [CLAIM-511](CLAIM-511.md). The comparative prediction A20 drew from the line
+is [CLAIM-tmpu2cwc](CLAIM-tmpu2cwc.md). No change.

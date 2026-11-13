@@ -38,11 +38,11 @@ summary: >-
   might be practically indispensable without creating severe arbitrary
   domination", against a private digital identity system that "can
   exclude individuals from essential services without meaningful appeal".
-  The record defines domination for an agent's own relations (CLAIM-545,
+  The record defines domination for an agent's own relations ([CLAIM-545](CLAIM-545.md),
   another's capacity to govern them, used or not) and holds that a
-  dependence does not fix how it is organized (CLAIM-428); it holds no
+  dependence does not fix how it is organized ([CLAIM-428](CLAIM-428.md)); it holds no
   threshold at which a dependence becomes domination. The republican
-  account A draws on is Pettit's (LIT-1614, Unavailable). Interpretive.
+  account A draws on is Pettit's ([LIT-1614](../literature.d/LIT-1614.md), Unavailable). Interpretive.
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the duty of answerability A23 tied accountability to, cited with its standing -->
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-A13 §II, after the mechanism filed as CLAIM-tmpbypt7:
+A13 §II, after the mechanism filed as [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md):
 
 > I'd propose that a technological dependency becomes presumptively
 > dominating when three conditions coincide:
@@ -81,28 +81,28 @@ meaningful agency". A13 is the first to state a test.
 
 ## Which sense of "arrangement"
 
-TERM-074's sense 1 by default: the arrangement a party depends on is a
+[TERM-074](../terms.d/TERM-074.md)'s sense 1 by default: the arrangement a party depends on is a
 relational arrangement of processes, roles and infrastructures, which need
 not be an institution or an agent. The second condition names who holds
 discretion over it, "those controlling the system", and they are agents;
 the arrangement itself is not assumed to owe or to dominate anything, as
-QUESTION-460 keeps the bearer apart from the ground.
+[QUESTION-460](../questions.d/QUESTION-460.md) keeps the bearer apart from the ground.
 
 ## How it sits with what the record holds
 
-- **CLAIM-545** defines domination as another's capacity to govern the
+- **[CLAIM-545](CLAIM-545.md)** defines domination as another's capacity to govern the
   relations by which an agent governs itself, "used or not". The second
   and third conditions here are that capacity, unchecked. The first,
   essentiality, is new: it says which dependences raise the political
   question, so a dependence on an inessential service can carry
-  CLAIM-545's domination without meeting this threshold.
-- **CLAIM-428**: the same material dependence can be organized as mutual
+  [CLAIM-545](CLAIM-545.md)'s domination without meeting this threshold.
+- **[CLAIM-428](CLAIM-428.md)**: the same material dependence can be organized as mutual
   opportunity, competitive vulnerability or coercive leverage. This claim
   says which organization of an essential dependence is objectionable.
-- **CLAIM-669 and CLAIM-670**: an arrangement can exploit through the
+- **[CLAIM-669](CLAIM-669.md) and [CLAIM-670](CLAIM-670.md)**: an arrangement can exploit through the
   access it grants, or produce the dependence it exploits. Those are
   routes into the condition this claim tests for.
-- **QUESTION-461** asks when an organization's dependence on its
+- **[QUESTION-461](../questions.d/QUESTION-461.md)** asks when an organization's dependence on its
   subordinated parts gives them authority. This claim runs the dependence
   the other way, the party depending on the arrangement, and bears on the
   question's second branch: what keeps a dependence from turning into a
@@ -115,4 +115,4 @@ QUESTION-460 keeps the bearer apart from the ground.
   of one that is not.
 - Not how much accountability suffices. "Sufficiently effective" is a
   parameter the claim leaves open; A23 later tied it to answerability
-  (CLAIM-624).
+  ([CLAIM-624](CLAIM-624.md)).

@@ -30,11 +30,11 @@ summary: >-
   North-Holland. Unread here; registered from the exchange "Analyze
   technological civilization trap" (2026-11-13). The owner asked for Sen
   to be brought in (U8). The record reads Sen's capability approach
-  through "Equality of What?" (LIT-289), the Stanford and IEP surveys
-  (LIT-283, LIT-284) and THEORY-025, and CLAIM-352 divides his two
+  through "Equality of What?" ([LIT-289](LIT-289.md)), the Stanford and IEP surveys
+  ([LIT-283](LIT-283.md), [LIT-284](LIT-284.md)) and [THEORY-025](../theory.d/THEORY-025.md), and [CLAIM-352](../claims.d/CLAIM-352.md) divides his two
   aspects of freedom along its own line; it did not hold this book. A10
   cites it for the distinction between functionings and capabilities,
-  which CLAIM-tmp6wuql takes over time. What the exchange says of it is
+  which [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) takes over time. What the exchange says of it is
   unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-025 — Proposed; the record's reading of Sen, cited with its standing -->
@@ -50,4 +50,4 @@ Amartya Sen (1985). *Commodities and Capabilities*. Amsterdam: North-Holland.
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The owner asked for Sen to be brought in (U8). The record reads Sen's capability approach through "Equality of What?" (LIT-289), the Stanford and IEP surveys (LIT-283, LIT-284) and THEORY-025, and CLAIM-352 divides his two aspects of freedom along its own line; it did not hold this book. A10 cites it for the distinction between functionings and capabilities, which CLAIM-tmp6wuql takes over time.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The owner asked for Sen to be brought in (U8). The record reads Sen's capability approach through "Equality of What?" ([LIT-289](LIT-289.md)), the Stanford and IEP surveys ([LIT-283](LIT-283.md), [LIT-284](LIT-284.md)) and [THEORY-025](../theory.d/THEORY-025.md), and [CLAIM-352](../claims.d/CLAIM-352.md) divides his two aspects of freedom along its own line; it did not hold this book. A10 cites it for the distinction between functionings and capabilities, which [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) takes over time.

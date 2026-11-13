@@ -36,8 +36,8 @@ summary: >-
   (2026-11-13). The owner asked for Wolf to be woven in (U7), and A9
   made her account of meaning the synthesis's normative centre. The
   record held her hybrid view only through Hiekel's paper on it
-  (LIT-183, Unavailable) and her work on responsibility (LIT-685,
-  LIT-688, LIT-690, LIT-747), not this book. What the exchange says of
+  ([LIT-183](LIT-183.md), Unavailable) and her work on responsibility ([LIT-685](LIT-685.md),
+  [LIT-688](LIT-688.md), [LIT-690](LIT-690.md), [LIT-747](LIT-747.md)), not this book. What the exchange says of
   it is unverified until read.
 ---
 <!-- inactive-ok-file: LIT-685 LIT-688 LIT-690 — Unavailable; Wolf's works on responsibility, cited with their standing -->
@@ -53,4 +53,4 @@ Susan Wolf (2010). *Meaning in Life and Why It Matters*, with commentaries by Ko
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The owner asked for Wolf to be woven in (U7), and A9 made her account of meaning the synthesis's normative centre. The record held her hybrid view only through Hiekel's paper on it (LIT-183, Unavailable) and her work on responsibility (LIT-685, LIT-688, LIT-690, LIT-747), not this book.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The owner asked for Wolf to be woven in (U7), and A9 made her account of meaning the synthesis's normative centre. The record held her hybrid view only through Hiekel's paper on it ([LIT-183](LIT-183.md), Unavailable) and her work on responsibility ([LIT-685](LIT-685.md), [LIT-688](LIT-688.md), [LIT-690](LIT-690.md), [LIT-747](LIT-747.md)), not this book.

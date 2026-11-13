@@ -32,9 +32,9 @@ summary: >-
   "Analyze technological civilization trap" (2026-11-13). The exchange's
   source for the distinction between democratic and authoritarian
   technics, which A uses for the concentration of power in technological
-  systems (A11 §5) and A20 §VI proposes to sharpen with SYNTHESIS-053's
+  systems (A11 §5) and A20 §VI proposes to sharpen with [SYNTHESIS-053](../syntheses.d/SYNTHESIS-053.md)'s
   separation of dependence, integration, coordination and authority. It
-  bears on CLAIM-tmpkjv7u. What the exchange says of it is unverified
+  bears on [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md). What the exchange says of it is unverified
   until read.
 ---
 <!-- inactive-ok-file: SYNTHESIS-053 — Proposed; the account A20 sets beside Mumford, cited with its standing -->
@@ -50,4 +50,4 @@ Lewis Mumford (1967, 1970). *The Myth of the Machine*, 2 vols. (*Technics and Hu
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the distinction between democratic and authoritarian technics, which A uses for the concentration of power in technological systems (A11 §5) and A20 §VI proposes to sharpen with SYNTHESIS-053's separation of dependence, integration, coordination and authority. It bears on CLAIM-tmpkjv7u.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the distinction between democratic and authoritarian technics, which A uses for the concentration of power in technological systems (A11 §5) and A20 §VI proposes to sharpen with [SYNTHESIS-053](../syntheses.d/SYNTHESIS-053.md)'s separation of dependence, integration, coordination and authority. It bears on [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).

@@ -307,7 +307,7 @@ change.
 ## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
 
 A20 §X of the exchange "Analyze technological civilization trap"
-(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) drew on SYNTHESIS-058 to say that an institution can keep a
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) drew on [SYNTHESIS-058](../syntheses.d/SYNTHESIS-058.md) to say that an institution can keep a
 citizen's objection word for word and reclassify it, "An objection can
 become feedback. A demand can become a preference", so that its force is
 lost. That is this claim's recognition in apt terms, failing while

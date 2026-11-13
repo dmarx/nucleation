@@ -33,7 +33,7 @@ summary: >-
   trap" (2026-11-13). A10 §VIII uses its comparative approach, reducing
   identifiable injustice without a blueprint of the just society, for
   the synthesis's theory of change (A11 §28, A13 §VIII). The record
-  holds Zwolinski's review (LIT-286) and a critique (LIT-290), not the
+  holds Zwolinski's review ([LIT-286](LIT-286.md)) and a critique ([LIT-290](LIT-290.md)), not the
   book. What the exchange says of it is unverified until read.
 ---
 
@@ -47,4 +47,4 @@ Amartya Sen (2009). *The Idea of Justice*. Cambridge, Mass.: Belknap Press of Ha
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. A10 §VIII uses its comparative approach, reducing identifiable injustice without a blueprint of the just society, for the synthesis's theory of change (A11 §28, A13 §VIII). The record holds Zwolinski's review (LIT-286) and a critique (LIT-290), not the book.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. A10 §VIII uses its comparative approach, reducing identifiable injustice without a blueprint of the just society, for the synthesis's theory of change (A11 §28, A13 §VIII). The record holds Zwolinski's review ([LIT-286](LIT-286.md)) and a critique ([LIT-290](LIT-290.md)), not the book.

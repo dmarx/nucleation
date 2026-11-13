@@ -111,9 +111,9 @@ set this in.
 
 A20 §II of the exchange "Analyze technological civilization trap"
 (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) reported this claim accurately, as shown "within a particular
-linearized model", and drew from it and SYNTHESIS-050: "No institution
+linearized model", and drew from it and [SYNTHESIS-050](../syntheses.d/SYNTHESIS-050.md): "No institution
 should be presumed legitimate merely because its authorities are
 successful according to standards those same authorities substantially
-control." That is the self-scoring lock-in of CLAIM-466 and the
-independence of evidence of CLAIM-342, stated as a presumption. Not
+control." That is the self-scoring lock-in of [CLAIM-466](CLAIM-466.md) and the
+independence of evidence of [CLAIM-342](CLAIM-342.md), stated as a presumption. Not
 filed. No change.

@@ -36,7 +36,7 @@ summary: >-
   through the subject's pursuit of achievement. A9 §VI and A13 §IV turn
   it against the exchange's own synthesis: a demand to live meaningfully
   can become another compulsory self-optimization. It bears on
-  QUESTION-071, whether a will can be shaped without its present
+  [QUESTION-071](../questions.d/QUESTION-071.md), whether a will can be shaped without its present
   structure showing it. What the exchange says of it is unverified until
   read.
 ---
@@ -51,4 +51,4 @@ Byung-Chul Han (2015). *The Burnout Society*, trans. Erik Butler. Stanford: Stan
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for self-exploitation, domination that works through the subject's pursuit of achievement. A9 §VI and A13 §IV turn it against the exchange's own synthesis: a demand to live meaningfully can become another compulsory self-optimization. It bears on QUESTION-071, whether a will can be shaped without its present structure showing it.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for self-exploitation, domination that works through the subject's pursuit of achievement. A9 §VI and A13 §IV turn it against the exchange's own synthesis: a demand to live meaningfully can become another compulsory self-optimization. It bears on [QUESTION-071](../questions.d/QUESTION-071.md), whether a will can be shaped without its present structure showing it.

@@ -36,8 +36,8 @@ summary: >-
   monopoly", the case where one institutionalized way of meeting a need
   displaces the others so that a technology becomes compulsory without
   any rule requiring it (A13 §II). That is the mechanism and the measure
-  of CLAIM-tmpbypt7, and the dependence-without-domination question of
-  CLAIM-tmpkjv7u. What the exchange says of it is unverified until read.
+  of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md), and the dependence-without-domination question of
+  [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
 
@@ -51,4 +51,4 @@ Ivan Illich (1973). *Tools for Conviviality*. London: Calder & Boyars (Marion Bo
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "convivial tools" and "radical monopoly", the case where one institutionalized way of meeting a need displaces the others so that a technology becomes compulsory without any rule requiring it (A13 §II). That is the mechanism and the measure of CLAIM-tmpbypt7, and the dependence-without-domination question of CLAIM-tmpkjv7u.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "convivial tools" and "radical monopoly", the case where one institutionalized way of meeting a need displaces the others so that a technology becomes compulsory without any rule requiring it (A13 §II). That is the mechanism and the measure of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md), and the dependence-without-domination question of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).

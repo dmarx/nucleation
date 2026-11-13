@@ -23,7 +23,7 @@ summary: >-
   augmentation) are the institutional version. A said the model behind it
   "can generate testable predictions" and did not state the test. The
   arms are A's two designs; the filer wrote them out with the measures
-  CLAIM-605's three predictions name, so that CLAIM-tmp6wuql's
+  [CLAIM-605](../claims.d/CLAIM-605.md)'s three predictions name, so that [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s
   application to people can be checked, and added nothing else. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -51,7 +51,7 @@ skill (a class of proof, a programming task, a language) for a fixed
 period under one of:
 
 - **substitutive assistance**: the assistant does the hard step whenever
-  asked, as CLAIM-605's support P = min(τC, 1 − A);
+  asked, as [CLAIM-605](../claims.d/CLAIM-605.md)'s support P = min(τC, 1 − A);
 - **capacity-first assistance**: the assistant gives only the part the
   learner cannot yet do, after the learner has tried, as P = min(τC, 1);
 - **no assistance**, for the unassisted trajectory.
@@ -64,13 +64,13 @@ assisted output during the period; time on task.
 
 ## What it can show
 
-CLAIM-605's model makes three predictions that a study of this design can
+[CLAIM-605](../claims.d/CLAIM-605.md)'s model makes three predictions that a study of this design can
 check against people: substitutive assistance keeps assisted output whole
 while unassisted performance falls; beyond some duration, withdrawal no
 longer restores unassisted performance (a threshold); capacity-first
 assistance leaves unassisted performance at least where it was. The first
 without the second would show substitution without a trap, and
-CLAIM-tmp6wuql's point about evaluation would still stand for the period
+[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s point about evaluation would still stand for the period
 of support. Neither result would show anything about AI in general, or
 about skills that are not learned by doing.
 

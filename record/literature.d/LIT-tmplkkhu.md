@@ -31,7 +31,7 @@ summary: >-
   exchange "Analyze technological civilization trap" (2026-11-13). The
   exchange's source for the claim that technologies change the standards
   of truth, knowledge and value a culture judges by. A20 §X extends it
-  with SYNTHESIS-058 (keeping the proposition does not keep the act) to
+  with [SYNTHESIS-058](../syntheses.d/SYNTHESIS-058.md) (keeping the proposition does not keep the act) to
   an institution that records an objection faithfully and reclassifies
   it as feedback. What the exchange says of it is unverified until read.
 ---
@@ -47,4 +47,4 @@ Neil Postman (1992). *Technopoly: The Surrender of Culture to Technology*. New Y
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the claim that technologies change the standards of truth, knowledge and value a culture judges by. A20 §X extends it with SYNTHESIS-058 (keeping the proposition does not keep the act) to an institution that records an objection faithfully and reclassifies it as feedback.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the claim that technologies change the standards of truth, knowledge and value a culture judges by. A20 §X extends it with [SYNTHESIS-058](../syntheses.d/SYNTHESIS-058.md) (keeping the proposition does not keep the act) to an institution that records an objection faithfully and reclassifies it as feedback.

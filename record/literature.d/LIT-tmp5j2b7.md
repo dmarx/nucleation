@@ -30,7 +30,7 @@ summary: >-
   trap" (2026-11-13). Named by A5 as the sharpest counterpoint:
   technological development as an evolving, self-organizing system, with
   systemic tendencies Ellul also saw and opposite implications. It bears
-  on CLAIM-030, an organized whole whose direction is not its members'
+  on [CLAIM-030](../claims.d/CLAIM-030.md), an organized whole whose direction is not its members'
   intentions. What the exchange says of it is unverified until read.
 ---
 
@@ -44,4 +44,4 @@ Kevin Kelly (2010). *What Technology Wants*. New York: Viking.
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 as the sharpest counterpoint: technological development as an evolving, self-organizing system, with systemic tendencies Ellul also saw and opposite implications. It bears on CLAIM-030, an organized whole whose direction is not its members' intentions.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 as the sharpest counterpoint: technological development as an evolving, self-organizing system, with systemic tendencies Ellul also saw and opposite implications. It bears on [CLAIM-030](../claims.d/CLAIM-030.md), an organized whole whose direction is not its members' intentions.

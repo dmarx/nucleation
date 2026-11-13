@@ -35,8 +35,8 @@ summary: >-
   "Analyze technological civilization trap" (2026-11-13). The exchange's
   main source for the claim that a technological system can reproduce
   and extend itself through individually rational decisions with nobody
-  in charge, which A develops into the ratchet filed as CLAIM-tmpbypt7
-  and connects to CLAIM-030 (an organized whole's operative intention is
+  in charge, which A develops into the ratchet filed as [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)
+  and connects to [CLAIM-030](../claims.d/CLAIM-030.md) (an organized whole's operative intention is
   not its members'). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
@@ -51,4 +51,4 @@ Jacques Ellul (1964). *The Technological Society*, trans. John Wilkinson. New Yo
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's main source for the claim that a technological system can reproduce and extend itself through individually rational decisions with nobody in charge, which A develops into the ratchet filed as CLAIM-tmpbypt7 and connects to CLAIM-030 (an organized whole's operative intention is not its members').
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's main source for the claim that a technological system can reproduce and extend itself through individually rational decisions with nobody in charge, which A develops into the ratchet filed as [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md) and connects to [CLAIM-030](../claims.d/CLAIM-030.md) (an organized whole's operative intention is not its members').

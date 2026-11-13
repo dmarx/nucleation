@@ -34,8 +34,8 @@ summary: >-
   (2026-11-13). The exchange's source for "false needs": that advanced
   industrial societies maintain control by shaping what people want. A
   pairs it with Sen's adaptive preferences (A10 §IV; the record's
-  reading of Sen is THEORY-025) and with the historical manipulation
-  problem of QUESTION-071 (A17 §I, A20 §VIII). What the exchange says of
+  reading of Sen is [THEORY-025](../theory.d/THEORY-025.md)) and with the historical manipulation
+  problem of [QUESTION-071](../questions.d/QUESTION-071.md) (A17 §I, A20 §VIII). What the exchange says of
   it is unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-025 — Proposed; the record's reading of Sen, cited with its standing -->
@@ -50,4 +50,4 @@ Herbert Marcuse (1964). *One-Dimensional Man*. Boston: Beacon Press. Routledge e
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "false needs": that advanced industrial societies maintain control by shaping what people want. A pairs it with Sen's adaptive preferences (A10 §IV; the record's reading of Sen is THEORY-025) and with the historical manipulation problem of QUESTION-071 (A17 §I, A20 §VIII).
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "false needs": that advanced industrial societies maintain control by shaping what people want. A pairs it with Sen's adaptive preferences (A10 §IV; the record's reading of Sen is [THEORY-025](../theory.d/THEORY-025.md)) and with the historical manipulation problem of [QUESTION-071](../questions.d/QUESTION-071.md) (A17 §I, A20 §VIII).

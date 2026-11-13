@@ -33,7 +33,7 @@ summary: >-
   trap" (2026-11-13). The exchange's source for "dynamic stabilization",
   that modern institutions must grow and accelerate merely to keep their
   position, which A uses for the competitive-pressure part of the
-  ratchet (CLAIM-tmpbypt7) and for the competitive necessity problem it
+  ratchet ([CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)) and for the competitive necessity problem it
   calls the strongest objection to its own synthesis. What the exchange
   says of it is unverified until read.
 ---
@@ -49,4 +49,4 @@ Hartmut Rosa (2013). *Social Acceleration: A New Theory of Modernity*, trans. Jo
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "dynamic stabilization", that modern institutions must grow and accelerate merely to keep their position, which A uses for the competitive-pressure part of the ratchet (CLAIM-tmpbypt7) and for the competitive necessity problem it calls the strongest objection to its own synthesis.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "dynamic stabilization", that modern institutions must grow and accelerate merely to keep their position, which A uses for the competitive-pressure part of the ratchet ([CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)) and for the competitive necessity problem it calls the strongest objection to its own synthesis.

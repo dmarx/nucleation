@@ -181,7 +181,7 @@ difficult reasoning and supplies the answer" and one that "helps the
 person reason through the problem", and kept the claim's limits: "The
 model is illustrative, not empirical evidence that a particular
 technology produces such decline." Two entries were filed from it:
-CLAIM-tmp6wuql, which derives from this model that two supports with the
+[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md), which derives from this model that two supports with the
 same present capabilities can leave different capabilities later, and
-CASE-tmpf71w4, a proposed study of whether the trap holds for a human
+[CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md), a proposed study of whether the trap holds for a human
 skill. No change.

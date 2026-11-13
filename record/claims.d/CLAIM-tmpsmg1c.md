@@ -29,12 +29,12 @@ summary: >-
   formulation of restraint": "When a technological choice could
   substantially and durably narrow future human possibilities, the burden
   of justification should rise with the magnitude and irreversibility of
-  the change." It answers the ratchet A described (CLAIM-tmpbypt7) with a
+  the change." It answers the ratchet A described ([CLAIM-tmpbypt7](CLAIM-tmpbypt7.md)) with a
   rule for deciding before lock-in, and A pairs it with pilots,
   independent evaluation and appeals. The record holds that provisional
   activation and later cancellation can both be optimal under informative
-  reassessment (CLAIM-559), which is one reason irreversibility matters,
-  and that anchors entrench (CLAIM-184); it holds no principle for the
+  reassessment ([CLAIM-559](CLAIM-559.md)), which is one reason irreversibility matters,
+  and that anchors entrench ([CLAIM-184](CLAIM-184.md)); it holds no principle for the
   burden of justification. Interpretive. The wording is A's; adopting it
   is the owner's call.
 ---
@@ -64,13 +64,13 @@ political participation) already include.
 
 ## Why irreversibility, and where the reason runs out
 
-The reason the claim needs is uncertainty with learning. CLAIM-559 shows
+The reason the claim needs is uncertainty with learning. [CLAIM-559](CLAIM-559.md) shows
 that where reassessment is informative, activating a capability
 provisionally and cancelling it later can both be optimal under one
 objective; an irreversible choice forecloses the second step. Where nothing
 will be learned, irreversibility adds no reason of its own, and the
 defeater says so. The claim is therefore a rule for choices made before
-the evidence is in, which is the situation of CLAIM-tmpbypt7's ratchet,
+the evidence is in, which is the situation of [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md)'s ratchet,
 whose point of no return is where restoring the alternatives costs more
 than any participant can bear.
 

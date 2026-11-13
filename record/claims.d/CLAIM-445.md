@@ -208,11 +208,11 @@ The owner's U27 of the second share of the exchange "Individuation, Possibility,
 ## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
 
 A20 §V of the exchange "Analyze technological civilization trap"
-(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim and CASE-036 accurately, keeping CASE-036's caveat
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim and [CASE-036](../cases.d/CASE-036.md) accurately, keeping [CASE-036](../cases.d/CASE-036.md)'s caveat
 that it "does not establish that every subsequent anomaly is caused by
 the restrictions". A's addition, that "a sunset clause is insufficient
 when the evidence used to justify renewal remains controlled by the same
 arrangement it is supposed to constrain", is this claim's shift in "the
 evidence used to judge its necessity" applied to a design remedy. Not
 filed. The exchange's broader ratchet, a technology made compulsory for
-those who decline it, is CLAIM-tmpbypt7, a different mechanism. No change.
+those who decline it, is [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md), a different mechanism. No change.

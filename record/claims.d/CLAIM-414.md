@@ -261,6 +261,6 @@ with the same good working conditions, one where employees can
 effectively challenge decisions and one where management "voluntarily
 maintains good conditions but can revoke them", told apart only by how
 each responds to a challenge. That is an instance of this claim and of
-SYNTHESIS-023's point that non-domination can be read only under
+[SYNTHESIS-023](../syntheses.d/SYNTHESIS-023.md)'s point that non-domination can be read only under
 intervention or dissent. A23 §8's "collective feasibility" against
 "constituent accessibility" is the same distinction. Not filed. No change.

@@ -33,7 +33,7 @@ summary: >-
   The exchange's source for the contestability of technical design, that
   the dominant design reflects social choices and can be redirected (A6
   §V, A11 §5, A11 §14). A uses it against the pessimism it draws from
-  Ellul. It bears on the empirical prediction CLAIM-tmpu2cwc. What the
+  Ellul. It bears on the empirical prediction [CLAIM-tmpu2cwc](../claims.d/CLAIM-tmpu2cwc.md). What the
   exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpu2cwc — filed from the same exchange, Proposed -->
@@ -48,4 +48,4 @@ Andrew Feenberg (2002). *Transforming Technology: A Critical Theory Revisited*. 
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the contestability of technical design, that the dominant design reflects social choices and can be redirected (A6 §V, A11 §5, A11 §14). A uses it against the pessimism it draws from Ellul. It bears on the empirical prediction CLAIM-tmpu2cwc.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the contestability of technical design, that the dominant design reflects social choices and can be redirected (A6 §V, A11 §5, A11 §14). A uses it against the pessimism it draws from Ellul. It bears on the empirical prediction [CLAIM-tmpu2cwc](../claims.d/CLAIM-tmpu2cwc.md).

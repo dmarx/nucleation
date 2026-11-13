@@ -188,6 +188,6 @@ valuable human capabilities". It added a third question beside the
 organizational and capability ones, a meaning question after Susan Wolf
 (registered unread from the exchange), which is beyond this claim. A17 §V
 and A23 §6 also took the capability set over time, which is
-CLAIM-tmp6wuql: under support that substitutes, the reachable set itself
+[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md): under support that substitutes, the reachable set itself
 moves, so the opportunity aspect has to be read along a trajectory. That
 claim rests on this one. No change.

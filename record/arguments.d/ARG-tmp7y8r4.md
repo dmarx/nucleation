@@ -14,8 +14,8 @@ date: '2026-11-13'
 line:
 - distributed-agency
 summary: >-
-  Arthur's model (THEORY-863), the record's reading of technological
-  lock-in, as support for CLAIM-tmpbypt7, the ratchet A described in the
+  Arthur's model ([THEORY-863](../theory.d/THEORY-863.md)), the record's reading of technological
+  lock-in, as support for [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md), the ratchet A described in the
   exchange "Analyze technological civilization trap" (2026-11-13). The
   support is contested and partial. Arthur's agents choose between two
   technologies and the loser loses the market; the claim is about an
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-1. THEORY-863: in Arthur's model, two types of agent arrive at random and
+1. [THEORY-863](../theory.d/THEORY-863.md): in Arthur's model, two types of agent arrive at random and
    each adopts whichever of two technologies pays it more; returns rise
    linearly with previous adoptions; the adoption difference is a random
    walk with absorbing barriers, one technology takes the whole market,
@@ -42,7 +42,7 @@ summary: >-
 2. Infrastructure that reorganizes around a technology is one source of
    such increasing returns: the roads, fuel and parking A13 §II lists for
    the automobile raise the return to the next adopter.
-3. So the infrastructural part of CLAIM-tmpbypt7's ratchet is an instance
+3. So the infrastructural part of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s ratchet is an instance
    of increasing-returns lock-in, and its irreversibility is the model's
    absorption.
 
@@ -63,12 +63,12 @@ summary: >-
   (adoption "formally voluntary but strategically compelled") is a
   strategic game among rivals, not a sequence of arrivals; cultural
   normalization changes the agents' valuations, which Arthur's model holds
-  fixed. Pierson (THEORY-885) argues politics is more prone to such
+  fixed. Pierson ([THEORY-885](../theory.d/THEORY-885.md)) argues politics is more prone to such
   feedback than markets, which is nearer the cultural part, and is
-  Proposed; nothing here rests on it. Protective lock-in (CLAIM-445) is a
+  Proposed; nothing here rests on it. Protective lock-in ([CLAIM-445](../claims.d/CLAIM-445.md)) is a
   different mechanism, the regime shifting the evidence for its own
   necessity.
-- **Is the source reliable?** For its model, yes: THEORY-863 is Active, a
+- **Is the source reliable?** For its model, yes: [THEORY-863](../theory.d/THEORY-863.md) is Active, a
   checked re-derivation. It says itself that it "does not show that any
   historical technology won by small events".
 - **Verdict.** Proposed, as partial support for one of the claim's three

@@ -483,5 +483,5 @@ number of recognized demands is not equivalent to increasing the capacity
 to satisfy them", and "An institution does not become more concordant
 merely by ceasing to recognize a claim that was previously in conflict
 with its governing priorities." Both are this claim's relief against
-dropping a demand (with CLAIM-556), against a fixed reference set. A23's
-adaptation is used in TERM-tmpt8p9e. No change.
+dropping a demand (with [CLAIM-556](CLAIM-556.md)), against a fixed reference set. A23's
+adaptation is used in [TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md). No change.

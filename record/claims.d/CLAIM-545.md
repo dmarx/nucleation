@@ -307,5 +307,5 @@ A13 §I's three kinds of power (instrumental, discretionary and
 constitutive) are the same division seen from power: what an agent can
 reach, who directs it, and who revises the relations that govern it.
 They are mapped here and not filed. A13 §II's threshold for when a
-dependence becomes domination (CLAIM-tmpkjv7u) differs from this claim's
+dependence becomes domination ([CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)) differs from this claim's
 notion of domination by adding essentiality. No change.

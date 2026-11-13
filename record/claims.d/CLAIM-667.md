@@ -140,8 +140,8 @@ that varies modifiability. The claim is unchanged.
 
 A17 §VIII and A20 §XV of the exchange "Analyze technological
 civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read the record as a case of its own subject,
-with CLAIM-419, CLAIM-469 and CASE-253, and reported this claim correctly
+with [CLAIM-419](CLAIM-419.md), [CLAIM-469](CLAIM-469.md) and [CASE-253](../cases.d/CASE-253.md), and reported this claim correctly
 as "still a hypothesis". A20's Proposition D carries this claim's
 prediction from a record's schema to institutions' governing standards,
-with CLAIM-665's limit on routine work; it is filed as CLAIM-tmpu2cwc,
+with [CLAIM-665](CLAIM-665.md)'s limit on routine work; it is filed as [CLAIM-tmpu2cwc](CLAIM-tmpu2cwc.md),
 which complements this claim. No change.

@@ -39,9 +39,9 @@ summary: >-
   adoption "formally voluntary but strategically compelled", and
   expectations come to treat it as normal. A11 §4 gives the measure: "what
   possibilities remain available when they choose not to use it". The
-  record holds lock-in among competing technologies (THEORY-863), in
-  politics (THEORY-885) and of protective regimes (CLAIM-445, TERM-020),
-  and an arrangement that produces the dependence it exploits (CLAIM-670),
+  record holds lock-in among competing technologies ([THEORY-863](../theory.d/THEORY-863.md)), in
+  politics ([THEORY-885](../theory.d/THEORY-885.md)) and of protective regimes ([CLAIM-445](CLAIM-445.md), [TERM-020](../terms.d/TERM-020.md)),
+  and an arrangement that produces the dependence it exploits ([CLAIM-670](CLAIM-670.md)),
   but not the shrinking of the non-adopter's options or the measure.
   Illich's "radical monopoly", which A cites for it, is registered unread
   with Tools for Conviviality. The wording is A's; adopting it is the
@@ -86,24 +86,24 @@ A11 §4 gave the measure the claim keeps:
 ## Which sense of "organization"
 
 Where A speaks of society or institutions "reorganizing" around a
-technology, the sense is TERM-074's sense 1, a change in a relational
+technology, the sense is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a change in a relational
 arrangement of infrastructures, practices and expectations, not an act of
 a collective institution (sense 3). No one need decide it; that is the
 claim's point.
 
 ## What the record held
 
-- **Lock-in between competing technologies.** Arthur's model (THEORY-863):
+- **Lock-in between competing technologies.** Arthur's model ([THEORY-863](../theory.d/THEORY-863.md)):
   increasing returns make one technology take the market, not necessarily
   the better one, and no small reversal undoes it. That is a choice
   between two technologies, not between adopting and abstaining; what it
-  carries to this claim is ARG-tmp7y8r4.
-- **Path dependence in politics** (THEORY-885), and protective lock-in, a
-  regime that shifts the evidence for its own necessity (CLAIM-445,
-  TERM-020).
-- **An arrangement that produces the dependence it exploits** (CLAIM-670),
+  carries to this claim is [ARG-tmp7y8r4](../arguments.d/ARG-tmp7y8r4.md).
+- **Path dependence in politics** ([THEORY-885](../theory.d/THEORY-885.md)), and protective lock-in, a
+  regime that shifts the evidence for its own necessity ([CLAIM-445](CLAIM-445.md),
+  [TERM-020](../terms.d/TERM-020.md)).
+- **An arrangement that produces the dependence it exploits** ([CLAIM-670](CLAIM-670.md)),
   and dependence organized as opportunity, vulnerability or leverage
-  (CLAIM-428). Those are about a party that relies on a provider. This
+  ([CLAIM-428](CLAIM-428.md)). Those are about a party that relies on a provider. This
   claim is about the party who declines: what the adopters' reorganization
   leaves to someone who does not take part.
 
@@ -117,11 +117,11 @@ claim's point.
   technological lock-in, not a universal law of innovation."
 - Not when compulsory dependence is objectionable. A11 §4: "compulsory
   dependence requires justification"; the threshold A proposed for that is
-  CLAIM-tmpkjv7u.
+  [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md).
 
 ## Sources A named
 
-Illich's radical monopoly (Tools for Conviviality, LIT-tmp2tehj), Ellul's
-autonomy of technique (LIT-tmpdprtt) and Rosa's dynamic stabilization
-(Social Acceleration, LIT-tmp6zjsx), all registered unread from this
+Illich's radical monopoly (Tools for Conviviality, [LIT-tmp2tehj](../literature.d/LIT-tmp2tehj.md)), Ellul's
+autonomy of technique ([LIT-tmpdprtt](../literature.d/LIT-tmpdprtt.md)) and Rosa's dynamic stabilization
+(Social Acceleration, [LIT-tmp6zjsx](../literature.d/LIT-tmp6zjsx.md)), all registered unread from this
 exchange. A's descriptions of them are unverified until read.

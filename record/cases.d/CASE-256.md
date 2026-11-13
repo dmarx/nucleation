@@ -87,5 +87,5 @@ third answers the bearer." A's table fills the four cells with examples
 (special duties to members; duties to affected outsiders; officeholders;
 controllers or beneficiaries) and adds no result. Its three "views"
 (membership, vulnerability and control, institutional role) are the
-three results. The case is the owner's, from the review of #488, which
+three results. The case is the owner's, from the review of [#488](https://github.com/dmarx/nucleation/issues/488), which
 A23 credits to "Nucleation". Unchanged.

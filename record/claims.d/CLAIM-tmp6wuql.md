@@ -36,13 +36,13 @@ summary: >-
   accomplishing tomorrow"; "We should investigate how particular forms of
   assistance change the person's future capability trajectory") and A23
   §6 ("We therefore need to evaluate capability trajectories, not merely
-  present capability sets"), joining CLAIM-605's capability trap to Sen's
-  capability approach as CLAIM-352 reads it. The record holds the
-  dynamics (CLAIM-605) and the reading of Sen (CLAIM-352), not the
+  present capability sets"), joining [CLAIM-605](CLAIM-605.md)'s capability trap to Sen's
+  capability approach as [CLAIM-352](CLAIM-352.md) reads it. The record holds the
+  dynamics ([CLAIM-605](CLAIM-605.md)) and the reading of Sen ([CLAIM-352](CLAIM-352.md)), not the
   consequence for evaluating support. The derivation is checked here in
-  CLAIM-605's own model. The model is illustrative; A17 itself says it is
+  [CLAIM-605](CLAIM-605.md)'s own model. The model is illustrative; A17 itself says it is
   "not empirical evidence that a particular technology produces such
-  decline", and the proposed study is CASE-tmpf71w4. The wording is A's;
+  decline", and the proposed study is [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md). The wording is A's;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's claim on division of labour, cited with its standing -->
@@ -52,7 +52,7 @@ summary: >-
 
 ## The claim
 
-A17 §V, reading CLAIM-605 against A's earlier use of Sen:
+A17 §V, reading [CLAIM-605](CLAIM-605.md) against A's earlier use of Sen:
 
 > **A technology can increase what someone accomplishes today while
 > reducing what they will be capable of accomplishing tomorrow.**
@@ -66,7 +66,7 @@ A23 §6 put it as a rule of evaluation: "We therefore need to evaluate
 
 ## The derivation
 
-Take CLAIM-605's model as it stands: demand 1, the party's output τC,
+Take [CLAIM-605](CLAIM-605.md)'s model as it stands: demand 1, the party's output τC,
 dC/dt = λPC(1 − C) − μC, with λ = 1, μ = 0.3, τ = 1.5. Start a party at
 its kept state, C = 0.7, where its unaided output is min(1.05, 1) = 1.
 
@@ -78,7 +78,7 @@ its kept state, C = 0.7, where its unaided output is min(1.05, 1) = 1.
 At t = 0 the two are the same in every respect a capability set records:
 the same functioning delivered (the demand met), and the same set of
 functionings the party could reach unaided (C = 0.7). By t = 5 they are
-not. Under substitution C = 0.7e^(−1.5) = 0.156, below CLAIM-605's
+not. Under substitution C = 0.7e^(−1.5) = 0.156, below [CLAIM-605](CLAIM-605.md)'s
 threshold of 0.276, with unaided output 0.23; under capacity-first support
 C stays 0.7. Withdraw both supports at t = 5 and let sixty units pass:
 the first party's capacity goes to 0, the second's stays at 0.7
@@ -87,20 +87,20 @@ the first party's capacity goes to 0, the second's stays at 0.7
 So an evaluation that compares the two supports by the capability sets
 they leave at the moment of comparison cannot tell them apart at t = 0,
 though one of them removes a capability the party has and the other
-keeps it. CLAIM-352 reads Sen's opportunity aspect as viable reachability
+keeps it. [CLAIM-352](CLAIM-352.md) reads Sen's opportunity aspect as viable reachability
 mapped to valued functionings; the reachable set itself moves under the
 support, so the opportunity aspect has to be read along the trajectory.
 
 ## What it does not say
 
 - Not that any actual technology deskills its users. The model is
-  CLAIM-605's toy, and A17 §IX says so: "the fact that assistance can
+  [CLAIM-605](CLAIM-605.md)'s toy, and A17 §IX says so: "the fact that assistance can
   diminish capacity in a particular dynamical model does not establish
   that AI assistance generally diminishes human competence." Whether
   capacity in a real skill is learned by doing, decays with disuse and
-  needs capacity present to grow is the question CASE-tmpf71w4 would test.
+  needs capacity present to grow is the question [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md) would test.
 - Not that substitution is wrong. A17: "Automating dangerous or exhausting
-  work may be overwhelmingly beneficial", and CLAIM-603 holds that a
+  work may be overwhelmingly beneficial", and [CLAIM-603](CLAIM-603.md) holds that a
   capability given up for reliable supply can be a division of labour.
   The claim is about what an evaluation must look at, not its verdict.
 - Not that Sen ignores time. Whether his framework already evaluates

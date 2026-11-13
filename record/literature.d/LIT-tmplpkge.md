@@ -33,7 +33,7 @@ summary: >-
   the exchange "Analyze technological civilization trap" (2026-11-13).
   Named by A5 for how technologies shape character and practical wisdom;
   A5 sets it against Crawford on which capabilities to preserve under
-  automation, the question CLAIM-tmp6wuql bears on. Flagged for the
+  automation, the question [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) bears on. Flagged for the
   anthology, which may want it as a work on AI. What the exchange says
   of it is unverified until read.
 ---
@@ -49,4 +49,4 @@ Shannon Vallor (2024). *The AI Mirror: How to Reclaim Our Humanity in an Age of 
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 for how technologies shape character and practical wisdom; A5 sets it against Crawford on which capabilities to preserve under automation, the question CLAIM-tmp6wuql bears on. Flagged for the anthology, which may want it as a work on AI.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 for how technologies shape character and practical wisdom; A5 sets it against Crawford on which capabilities to preserve under automation, the question [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) bears on. Flagged for the anthology, which may want it as a work on AI.

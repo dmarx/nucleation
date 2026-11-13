@@ -277,10 +277,10 @@ sense-3 case ([TERM-074](../terms.d/TERM-074.md)). Filed as `corroborates`. No s
 ## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
 
 A17 §III of the exchange "Analyze technological civilization trap"
-(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) used CASE-110 and this claim, with CLAIM-060, against efficiency as
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) used [CASE-110](../cases.d/CASE-110.md) and this claim, with [CLAIM-060](CLAIM-060.md), against efficiency as
 a standard: "The problem is not that optimization fails to achieve its
 objectives. It is that the objectives and representations being
 optimized may fail to preserve distinctions necessary for evaluating the
 lives of those affected." That is this claim restated for an institution's
-targets. A's account of CASE-110 is accurate: policies (6, 6) and (10, 2),
+targets. A's account of [CASE-110](../cases.d/CASE-110.md) is accurate: policies (6, 6) and (10, 2),
 one total, a cap of eight hours that tells them apart. No change.

@@ -31,8 +31,8 @@ summary: >-
   (2026-11-13). The exchange's source for the value of practical
   competence, which A9 §V qualifies with Wolf (skill must be connected
   to something worth doing). Its bearing on the record is through the
-  capability trap: competence maintained by practice (CLAIM-605;
-  CLAIM-tmp6wuql). What the exchange says of it is unverified until
+  capability trap: competence maintained by practice ([CLAIM-605](../claims.d/CLAIM-605.md);
+  [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)). What the exchange says of it is unverified until
   read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
@@ -47,4 +47,4 @@ Matthew B. Crawford (2009). *Shop Class as Soulcraft: An Inquiry into the Value 
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the value of practical competence, which A9 §V qualifies with Wolf (skill must be connected to something worth doing). Its bearing on the record is through the capability trap: competence maintained by practice (CLAIM-605; CLAIM-tmp6wuql).
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the value of practical competence, which A9 §V qualifies with Wolf (skill must be connected to something worth doing). Its bearing on the record is through the capability trap: competence maintained by practice ([CLAIM-605](../claims.d/CLAIM-605.md); [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)).

@@ -241,12 +241,12 @@ No status change.
 ## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
 
 A23 §5 of the exchange "Analyze technological civilization trap"
-(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) reported this claim and ARG-099 accurately, and presented "Greater
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) reported this claim and [ARG-099](../arguments.d/ARG-099.md) accurately, and presented "Greater
 integration does not necessarily produce greater vulnerability" as "the
-repository's" distinction. It is the owner's, from the review of #488:
+repository's" distinction. It is the owner's, from the review of [#488](https://github.com/dmarx/nucleation/issues/488):
 "deeper integration need not monotonically increase vulnerability". A's
 principle, that integration "becomes morally concerning when it increases
 exposure to unaccountable discretionary power, destroys capabilities
 people have reason to retain, or removes appropriate means of protection
-and redress", joins this claim's mechanism to CLAIM-428 and
-CLAIM-tmp6wuql. Not filed. No change.
+and redress", joins this claim's mechanism to [CLAIM-428](CLAIM-428.md) and
+[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md). Not filed. No change.

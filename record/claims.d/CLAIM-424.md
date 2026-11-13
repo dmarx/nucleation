@@ -160,10 +160,10 @@ is to interrupt the arrangement it sits in.
 ## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
 
 A20 §III of the exchange "Analyze technological civilization trap"
-(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim and CLAIM-418 accurately and proposed "cultural
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim and [CLAIM-418](CLAIM-418.md) accurately and proposed "cultural
 reflexivity", "the collective capacity to recognize, contest, and revise
 the shared interpretive frameworks through which social purposes are
 understood", distributed across education, criticism and associations
 with no single governor. That is this claim's capacity applied to a
-perspective shared across many organizations, which CLAIM-418 allows. Not
+perspective shared across many organizations, which [CLAIM-418](CLAIM-418.md) allows. Not
 filed. No change.

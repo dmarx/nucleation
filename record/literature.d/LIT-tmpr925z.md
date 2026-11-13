@@ -33,7 +33,7 @@ summary: >-
   from the exchange "Analyze technological civilization trap"
   (2026-11-13). The exchange's source for epistemic power, asymmetries
   of knowledge between platforms and the people they observe (A11 §5),
-  one of the asymmetries CLAIM-tmpkjv7u's second condition counts. Not
+  one of the asymmetries [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s second condition counts. Not
   to be confused with Arnold Zuboff, whose "The Story of a Brain" the
   record names elsewhere. What the exchange says of it is unverified
   until read.
@@ -50,4 +50,4 @@ Shoshana Zuboff (2019). *The Age of Surveillance Capitalism*. New York: PublicAf
 
 ## Standing in the record
 
-Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for epistemic power, asymmetries of knowledge between platforms and the people they observe (A11 §5), one of the asymmetries CLAIM-tmpkjv7u's second condition counts. Not to be confused with Arnold Zuboff, whose "The Story of a Brain" the record names elsewhere.
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for epistemic power, asymmetries of knowledge between platforms and the people they observe (A11 §5), one of the asymmetries [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s second condition counts. Not to be confused with Arnold Zuboff, whose "The Story of a Brain" the record names elsewhere.

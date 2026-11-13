@@ -254,13 +254,13 @@ Lawvere 1973 is now read in full ([NOTE-1585](../notes.d/NOTE-1585.md)). "Using 
 ## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
 
 A20 §IV of the exchange "Analyze technological civilization trap"
-(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) used this claim and TERM-106 for institutional reform, with a
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) used this claim and [TERM-106](../terms.d/TERM-106.md) for institutional reform, with a
 hypothetical of two arrangements each costing seven units and a
-transition peak of thirteen, and CLAIM-579 for where reserves can be
+transition peak of thirteen, and [CLAIM-579](CLAIM-579.md) for where reserves can be
 deployed. A's description is accurate and its own numbers are labelled
 hypothetical. Its general sentence, "A society can become more efficient
 at reproducing its current organization while becoming less capable of
 transforming that organization", is this claim with the observation that
 efficiency removes the slack a transition needs; the readiness line
-already argues against treating seldom-used capacity as waste (CLAIM-584,
-disclaimed; CLAIM-587). It is recorded here and not filed. No change.
+already argues against treating seldom-used capacity as waste ([CLAIM-584](CLAIM-584.md),
+disclaimed; [CLAIM-587](CLAIM-587.md)). It is recorded here and not filed. No change.
