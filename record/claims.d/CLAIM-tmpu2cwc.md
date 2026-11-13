@@ -43,6 +43,7 @@ summary: >-
   it holds no comparative prediction for institutions. Empirical and
   untested. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpa59p3 THEORY-tmpo6ipc THEORY-tmps3a0q — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-624 CLAIM-511 — Proposed; the record's nearest claims, cited with their standing -->
 
 # CLAIM-tmpu2cwc: Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit
@@ -97,3 +98,9 @@ record) leave open and which a comparison could tell against.
 - How "normatively significant" failures are picked out without assuming
   the standards under test is left to the study's design; a failure
   defined by the inherited standards would beg the question.
+
+## Note of 2026-11-13: the readings of 2026-11-13
+
+- **Feenberg** (THEORY-tmpa59p3): governing standards (the technical code) are contingent and revisable through social struggle, and inherited codes undervalue some goods. That supports the premise; it is not evidence for the comparative prediction. No relation.
+- **Morozov** (THEORY-tmps3a0q): optimizing behaviour within a system against reforming "the system itself" parallels this claim's contrast between outcome monitoring and revising standards; no comparative evidence. No relation.
+- **Benjamin** (THEORY-tmpo6ipc): inherited defaults causing persistent failure is consistent with the premise that inadequate standards cause persistent failure.

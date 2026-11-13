@@ -1,22 +1,38 @@
 ---
 status: Proposed
-title: 'A dependence becomes presumptively dominating when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; dependence lacking the second or third is not domination, however complete'
-version: 1
+title: 'A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement''s controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Narrowed after the readings of 2026-11-13, filed under ARG
+    ARG-tmpsh7he. Version 1 ended "dependence lacking the second or
+    third is not domination, however complete". Marcuse through Farr's
+    SEP entry (THEORY-tmpnydju: domination "no longer requires force or
+    the presence of an authority figure"), Han (THEORY-tmp5hgen,
+    THEORY-tmpclnon: dependence with "no person opposite") and Benjamin
+    (THEORY-tmpo6ipc: default discrimination) describe complete
+    constraint with no one holding discretion, which on their accounts
+    is domination or unfreedom. The honest choice was to narrow, not to
+    defend the clause: the claim is now a test for domination by an
+    arrangement's controllers, and says impersonal constraint is outside
+    it; those readings bound it. defeated_if and summary restated to
+    match. Zuboff 2022 (THEORY-tmpbgf6v) corroborates it as a worked
+    case. Still Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A dependence meeting all three conditions that is not domination on any
-  reading the record can accept, for instance because the controllers'
-  discretion is fully bound by an obligation the dependent can enforce
-  only outside the arrangement, so that the third condition is met and
-  the second is not in fact; or a dependence lacking the second or the
-  third (no consequential discretion, or effective means of challenge and
-  withdrawal) that is nonetheless domination. Not defeated by CLAIM-545's
-  broader notion, on which another's capacity to govern an agent's
-  relations is domination whether or not the relation is essential: this
-  claim states when a dependence becomes a political objection, and it
-  is defeated only if the essentiality condition turns out to carry no
-  weight in such judgments.
+  A dependence meeting all three conditions that is not domination by
+  its controllers on any reading the record can accept; or a dependence
+  on an arrangement whose controllers hold consequential discretion and
+  are effectively answerable, which is nonetheless domination by them.
+  Not defeated by impersonal constraint with no discretion-holder
+  (Marcuse's administration, Han's auto-exploitation, Benjamin's default
+  discrimination): since version 2 the claim does not test it, and the
+  readings that describe it bound the claim (ARG-tmpsh7he). Not defeated
+  by CLAIM-545's broader notion of domination, which does not require
+  essentiality.
 tags:
 - society-and-governance
 - ethics
@@ -31,23 +47,23 @@ complements:
 - CLAIM-669
 summary: >-
   A's, from A13 §II of the exchange "Analyze technological civilization
-  trap" (2026-11-13), the threshold the exchange's recurring question
-  ("when does dependence become domination?", A2, A3 §V, A6 §III, A8 §III,
-  A11 §12) arrived at: essentiality, asymmetrical authority and inadequate
-  accountability. A's contrast: "A publicly accountable water system
-  might be practically indispensable without creating severe arbitrary
-  domination", against a private digital identity system that "can
-  exclude individuals from essential services without meaningful appeal".
-  The record defines domination for an agent's own relations ([CLAIM-545](CLAIM-545.md),
-  another's capacity to govern them, used or not) and holds that a
-  dependence does not fix how it is organized ([CLAIM-428](CLAIM-428.md)); it holds no
-  threshold at which a dependence becomes domination. The republican
-  account A draws on is Pettit's ([LIT-1614](../literature.d/LIT-1614.md), Unavailable). Interpretive.
+  trap" (2026-11-13): a dependence is presumptively dominating by those
+  who control it when essentiality, asymmetrical authority and
+  inadequate accountability coincide. Narrowed at version 2, after the
+  readings of 2026-11-13: version 1 said a dependence lacking a
+  discretion-holder "is not domination, however complete"; Marcuse
+  (through Farr), Han and Benjamin describe complete constraint with no
+  one holding discretion, which some accounts call domination
+  (ARG-tmpsh7he). The claim is now a test for domination by an
+  arrangement's controllers, not for every unfreedom. Zuboff 2022 is a
+  worked case of all three conditions (THEORY-tmpbgf6v). Interpretive.
   The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmpsh7he THEORY-tmp5hgen THEORY-tmpbgf6v THEORY-tmpclnon THEORY-tmpnydju THEORY-tmpo6ipc THEORY-tmpq29mb THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: NOTE-tmph5wwv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the duty of answerability A23 tied accountability to, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-545 CLAIM-428 CLAIM-669 CLAIM-670 — Proposed; the record's nearest claims, cited with their standing -->
-<!-- inactive-ok-file: LIT-1614 — Unavailable; Pettit, the republican account A draws on, cited with its standing -->
+
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
 # CLAIM-tmpkjv7u: A dependence becomes presumptively dominating when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; dependence lacking the second or third is not domination, however complete
@@ -116,3 +132,10 @@ the arrangement itself is not assumed to owe or to dominate anything, as
 - Not how much accountability suffices. "Sufficiently effective" is a
   parameter the claim leaves open; A23 later tied it to answerability
   ([CLAIM-624](CLAIM-624.md)).
+
+## Note of 2026-11-13: the readings of 2026-11-13
+
+- **Narrowed** (version 2): see the history and ARG-tmpsh7he. The readings of Marcuse (THEORY-tmpnydju), Han (THEORY-tmp5hgen, THEORY-tmpclnon) and Benjamin (THEORY-tmpo6ipc) mark its limit; each now carries `bounds` to it.
+- **Zuboff 2022** (THEORY-tmpbgf6v, Skimmed in NOTE-tmph5wwv) is a worked case of all three conditions: "nearly all roads to economic, political, and social participation lead through its institutional terrain"; controllers who "were never elected to govern"; conditions of "no exit". Corroborates.
+- **Crawford and Joler** (THEORY-tmpq29mb): transparency without real choice and accountability leaves the asymmetry, which supports the weight of the third condition; not written as a relation.
+- **Illich through Cayley** (THEORY-tmpxwo9k): radical monopoly paralyses autonomous action with no discretion-holder, another case outside the narrowed test.

@@ -29,6 +29,7 @@ summary: >-
   who are owed, and the bearers of what is owed, are kept apart as
   [QUESTION-460](../questions.d/QUESTION-460.md) keeps them.
 ---
+<!-- inactive-ok-file: THEORY-tmp0dvpy THEORY-tmp8mi75 THEORY-tmpnydju THEORY-tmpypzp0 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: TERM-012 TERM-006 — Deferred; the term this one rivals and the term that absorbed it, set aside with the authenticity line -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-511 SYNTHESIS-023 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
@@ -107,3 +108,10 @@ declared claims is well defined ([CLAIM-363](../claims.d/CLAIM-363.md)); which c
 is [QUESTION-129](../questions.d/QUESTION-129.md)'s, and who owes what to whom is [QUESTION-460](../questions.d/QUESTION-460.md)'s. A
 "degree" of concordance is at most a partial order ([CLAIM-354](../claims.d/CLAIM-354.md)'s treatment
 of freedom; A23 §8).
+
+## Note of 2026-11-13: the readings of 2026-11-13
+
+- **Ellul 1983** (THEORY-tmpypzp0): technique "is not yet able to control its errors and dysfunctions", a highly integrated whole without the answerability this term asks for.
+- **Marcuse through Farr** (THEORY-tmpnydju): democratic unfreedom is alignment without concordance in a non-totalitarian society, the term's first exclusion.
+- **Rosa** (THEORY-tmp0dvpy): desynchronization overloads the time democratic correction needs, a threat to the answerability component.
+- **Postman** (THEORY-tmp8mi75): winners and losers of a technology are declared parties whose claims diverge.

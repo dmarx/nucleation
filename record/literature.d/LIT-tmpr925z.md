@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'registered 2026-11-13 from the exchange "Analyze technological civilization trap" (2026-11-13), not read. No copy was sought; it is left for a reading pass.'
+status: Unavailable
+status_note: 'no lawful copy found on 2026-11-13: whole-book uploads (archive.org, an epub forum) not fetched; the FAZ essay behind a registration wall; "Big Other" (2015) behind Cloudflare at SAGE and AIS, not retried. Zuboff''s 2022 Organization Theory article (LIT-tmpfz7zh) stands in.'
 title: 'The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -15,6 +15,12 @@ history:
     Crossref was rate-limited for this query (HTTP 429), not retried; no
     DOI is known for the book. `published:` is the first of January
     2019. No email address was sent to any service.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Unavailable on 2026-11-13 (ADR-041), at the reading pass. Zuboff's
+    2022 open article is registered and Skimmed as a stand-in
+    (LIT-tmpfz7zh, NOTE-tmph5wwv).
 tags:
 - society-and-governance
 - social-science
@@ -28,16 +34,15 @@ keywords:
 - 'prediction'
 implementations: []
 summary: >-
-  Shoshana Zuboff (2019). *The Age of Surveillance Capitalism*. New
-  York: PublicAffairs; London: Profile Books. Unread here; registered
-  from the exchange "Analyze technological civilization trap"
-  (2026-11-13). The exchange's source for epistemic power, asymmetries
-  of knowledge between platforms and the people they observe (A11 §5),
-  one of the asymmetries [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s second condition counts. Not
-  to be confused with Arnold Zuboff, whose "The Story of a Brain" the
-  record names elsewhere. What the exchange says of it is unverified
-  until read.
+  Shoshana Zuboff (2019). The Age of Surveillance Capitalism.
+  PublicAffairs. Unavailable. Through Zuboff 2022 (LIT-tmpfz7zh,
+  NOTE-tmph5wwv): commodified behaviour concentrates knowledge in a few
+  firms, producing epistemic inequality, instrumentarian power and
+  conditions of "no exit". A worked case of CLAIM-tmpkjv7u's three
+  conditions. Account: THEORY-tmpbgf6v.
 ---
+<!-- inactive-ok-file: NOTE-tmph5wwv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
+<!-- inactive-ok-file: THEORY-tmpbgf6v — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
 
 # LIT-tmpr925z: The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
@@ -51,3 +56,7 @@ Shoshana Zuboff (2019). *The Age of Surveillance Capitalism*. New York: PublicAf
 ## Standing in the record
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for epistemic power, asymmetries of knowledge between platforms and the people they observe (A11 §5), one of the asymmetries [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s second condition counts. Not to be confused with Arnold Zuboff, whose "The Story of a Brain" the record names elsewhere.
+
+## Reading of 2026-11-13
+
+Unavailable. Stand-in: LIT-tmpfz7zh, Skimmed in NOTE-tmph5wwv; account THEORY-tmpbgf6v.

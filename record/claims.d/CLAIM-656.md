@@ -54,6 +54,7 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-091](../arguments.d/ARG-091.md) weighs the transfer from
   games to news.
 ---
+<!-- inactive-ok-file: LIT-tmpchx6j — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: ARG-088 THEORY-1655 THEORY-1709 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1761 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1750 — Skimmed; the reading filed from the same exchange -->
@@ -279,3 +280,7 @@ loss of the advertising subsidy costs investigative capacity, is not shown,
 and Gao (whose instrument is the subsidy collapse itself), Bisiani and Næss
 lean to the rival. Robertson, Bisiani and Hayes leave the grounds (version
 2). No status change.
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+Crawford's The World Beyond Your Head (LIT-tmpchx6j) was not reached; his NYT op-ed, read to its paywall, proposes treating attention as a resource held in common, which advertising appropriates. The nearest held entry to that is this claim (attention as revenue). Nothing is registered and no relation written.

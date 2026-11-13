@@ -49,6 +49,7 @@ summary: >-
   Unavailable. Interpretive. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpclnon THEORY-tmpiihve — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-603 CLAIM-428 — Proposed; the claims this one sets beside, cited with their standing -->
 
@@ -100,3 +101,9 @@ added an encumbrance.
   does yet.
 - **That the colonial theatre is an instance.** Slavery's dependence
   predated it ([CASE-257](../cases.d/CASE-257.md)).
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+- **Han 2014** (THEORY-tmpclnon): neoliberal power "tries to make them dependent", this claim's mechanism, asserted, not shown.
+- **Crawford 2006** (THEORY-tmpiihve): "What ordinary people once made, they buy", dependence produced by provision, as illustration.
+No relation written.

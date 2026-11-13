@@ -1,4 +1,4 @@
-<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpu2cwc CLAIM-tmpsmg1c TERM-tmpt8p9e CASE-tmpf71w4 ARG-tmp7y8r4 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpu2cwc CLAIM-tmpsmg1c TERM-tmpt8p9e CASE-tmpf71w4 ARG-tmp7y8r4 ARG-tmpar7tl ARG-tmpsh7he — filed from the exchange "Analyze technological civilization trap" (2026-11-13) or its readings, Proposed -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the term the new definition rivals -->
 ### Added
 
@@ -30,3 +30,11 @@
     them Ellul, Illich, Mumford, Marcuse, Postman, Han, Rosa, Feenberg,
     Wolf's Meaning in Life and Why It Matters and three books by Sen.
   - The filer's own suggestions went to the owner and were not filed.
+- The readings of 2026-11-13 for the same exchange: of the 27 registered
+  works, 8 read in part (Skimmed), 18 Unavailable (one, Kaczynski, not
+  sought by design) and read where possible through stand-ins, and 1
+  Unfetched; 21 stand-ins registered; NOTEs and THEORYs for each
+  reading; two ARGs (ARG-tmpar7tl, ARG-tmpsh7he). The domination threshold
+  (CLAIM-tmpkjv7u) is narrowed to domination by an arrangement's
+  controllers; the claims on compulsion and capability trajectories are
+  corroborated; corrections in the curation entry.

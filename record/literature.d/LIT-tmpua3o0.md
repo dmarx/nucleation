@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'registered 2026-11-13 from the exchange "Analyze technological civilization trap" (2026-11-13), not read. No copy was sought; it is left for a reading pass.'
+status: Active
+status_note: 'read 2026-11-13 in part: the Introduction, as a ProQuest export on a course reading page (gofilipa.github.io) (NOTE-tmpqutzv, Skimmed). An IAS excerpt page served a Cloudflare challenge.'
 title: 'Race After Technology: Abolitionist Tools for the New Jim Code'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -14,6 +14,11 @@ history:
     reader chapter of the same title (10.4324/9781003320609-52), not the
     book. `published:` is the first of January 2019. No email address
     was sent to any service.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Active on 2026-11-13, at the reading pass. Skimmed: the Introduction
+    (NOTE-tmpqutzv), a course-page copy of a chapter. Summary rewritten.
 tags:
 - society-and-governance
 - social-science
@@ -27,14 +32,15 @@ keywords:
 - 'discriminatory design'
 implementations: []
 summary: >-
-  Ruha Benjamin (2019). *Race After Technology: Abolitionist Tools for
-  the New Jim Code*. Cambridge: Polity. Unread here; registered from the
-  exchange "Analyze technological civilization trap" (2026-11-13). Named
-  by A5 among thinkers asking whether another technological civilization
-  is possible: technological systems can reproduce existing hierarchies.
-  No idea of the exchange rests on it. What the exchange says of it is
-  unverified until read.
+  Ruha Benjamin (2019). Race After Technology. Polity. Skimmed
+  (NOTE-tmpqutzv): the New Jim Code, technologies that reproduce racial
+  hierarchies while promoted as objective, because designers encode
+  judgments, including by default, and treat the results as external.
+  "Default discrimination" marks a limit of CLAIM-tmpkjv7u's threshold.
+  Account: THEORY-tmpo6ipc.
 ---
+<!-- inactive-ok-file: CLAIM-tmpkjv7u THEORY-tmpo6ipc — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: NOTE-tmpqutzv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
 # LIT-tmpua3o0: Race After Technology: Abolitionist Tools for the New Jim Code
 
@@ -47,3 +53,7 @@ Ruha Benjamin (2019). *Race After Technology: Abolitionist Tools for the New Jim
 ## Standing in the record
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 among thinkers asking whether another technological civilization is possible: technological systems can reproduce existing hierarchies. No idea of the exchange rests on it.
+
+## Reading of 2026-11-13
+
+Skimmed: Introduction (NOTE-tmpqutzv); account THEORY-tmpo6ipc.

@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'registered 2026-11-13 from the exchange "Analyze technological civilization trap" (2026-11-13), not read. No copy was sought; it is left for a reading pass.'
+status: Unavailable
+status_note: 'no lawful copy or sample of the book found on 2026-11-13. Crawford''s 2006 essay of the same title (LIT-tmphoqwi), the book''s seed, stands in for its argument.'
 title: 'Shop Class as Soulcraft: An Inquiry into the Value of Work'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -12,6 +12,12 @@ history:
     record/literature.d by identifier, title or first author. Open
     Library (works/OL13759269W). No DOI found. `published:` is the first
     of January 2009. No email address was sent to any service.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Unavailable on 2026-11-13 (ADR-041), at the reading pass. The 2006
+    essay is registered and read as a stand-in (LIT-tmphoqwi,
+    NOTE-tmpjk31w).
 tags:
 - ethics
 - well-being
@@ -25,16 +31,14 @@ keywords:
 - 'agency'
 implementations: []
 summary: >-
-  Matthew B. Crawford (2009). *Shop Class as Soulcraft: An Inquiry into
-  the Value of Work*. New York: Penguin Press. Unread here; registered
-  from the exchange "Analyze technological civilization trap"
-  (2026-11-13). The exchange's source for the value of practical
-  competence, which A9 §V qualifies with Wolf (skill must be connected
-  to something worth doing). Its bearing on the record is through the
-  capability trap: competence maintained by practice ([CLAIM-605](../claims.d/CLAIM-605.md);
-  [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)). What the exchange says of it is unverified until
-  read.
+  Matthew B. Crawford (2009). Shop Class as Soulcraft. Penguin Press.
+  Unavailable. Through the 2006 essay (LIT-tmphoqwi, NOTE-tmpjk31w):
+  skilled manual work is cognitively rich; work is degraded by moving
+  judgment out of the job, a method competition spreads and now applied
+  to office work. Corroborates CLAIM-tmp6wuql and CLAIM-tmpbypt7.
+  Account: THEORY-tmpiihve.
 ---
+<!-- inactive-ok-file: CLAIM-tmpbypt7 THEORY-tmpiihve — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
 
 # LIT-tmpy2xkm: Shop Class as Soulcraft: An Inquiry into the Value of Work
@@ -48,3 +52,7 @@ Matthew B. Crawford (2009). *Shop Class as Soulcraft: An Inquiry into the Value 
 ## Standing in the record
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for the value of practical competence, which A9 §V qualifies with Wolf (skill must be connected to something worth doing). Its bearing on the record is through the capability trap: competence maintained by practice ([CLAIM-605](../claims.d/CLAIM-605.md); [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)).
+
+## Reading of 2026-11-13
+
+Unavailable. Stand-in: LIT-tmphoqwi, read in NOTE-tmpjk31w; account THEORY-tmpiihve.

@@ -51,6 +51,7 @@ summary: >-
 complements:
 - CLAIM-332
 ---
+<!-- inactive-ok-file: THEORY-tmp5l4e4 THEORY-tmpvajjd THEORY-tmpypzp0 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
 
@@ -115,3 +116,9 @@ misaligned with the purposes its constituents would endorse under an
 appropriate procedure of informed evaluation", is this claim with an
 evaluative standard left as a parameter ("an appropriate procedure"). Not
 filed. No change.
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+- **Kelly** (THEORY-tmp5l4e4): the technium has tendencies "outside of our wants" from self-reinforcing feedback, this claim's thesis applied to technology by analogy and assertion. A point of contact, not evidence; no relation.
+- **Lanier** (THEORY-tmpvajjd): treats that attribution to technology as part of a dogma; an objection to the application, not to the claim.
+- **Ellul 1983** (THEORY-tmpypzp0): the technical system's autonomy, and "particular choices no longer have much significance"; consistent with the claim, asserted.

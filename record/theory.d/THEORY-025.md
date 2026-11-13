@@ -52,6 +52,7 @@ corroborates:
 - CLAIM-060
 - CLAIM-352
 ---
+<!-- inactive-ok-file: THEORY-tmpj32pb THEORY-tmpnydju — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-411 — Proposed; named in Connections as the positive structure, nothing here rests on it -->
 
 # THEORY-025: Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation
@@ -108,3 +109,7 @@ income and achieved functionings coming apart at the individual level
 has been read. It could be narrowed to Sen's argument, which is held
 first-hand in [NOTE-258](../notes.d/NOTE-258.md), keeping the wide form as a Proposed THEORY under
 [ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim comes to need only that.
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+Sen's 1985 Tanner Lectures (THEORY-tmpj32pb) give a first-hand statement of this reading's negative thesis: opulence fails as the standard because commodities convert into living conditions differently with metabolism, illness, climate and custom (the richer but parasite-ridden person more undernourished than the poorer one). They do not give the resourcist reply this entry's promote_when asks for. Marcuse's false needs, through Farr (THEORY-tmpnydju), are kin to adaptive preferences, produced by social interests, not deprivation. No status change.

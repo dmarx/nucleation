@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwcxn9
 title: 'Ahn reads Bainbridge''s ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator''s manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -33,6 +33,15 @@ history:
     least favourable to the party (Ahn's reading of Bainbridge,
     NOTE-1713). A's measure D assumes withdrawal at chosen states." No
     other change.
+- version: 4
+  date: '2026-11-13'
+  note: >-
+    corroborates CLAIM-tmp6wuql, filed from the exchange "Analyze
+    technological civilization trap" (2026-11-13): the claim's premise,
+    that support doing the work shrinks a capacity kept by practice, is
+    what Ahn reports Bainbridge as holding ("degraded from disuse"); the
+    claim does not rest on it. Found at the recheck of 2026-11-13; the
+    note on the claim says so (ADR-093). No other change.
 tags:
 - cognition
 - learning-and-conditioning
@@ -48,7 +57,10 @@ summary: >-
   no data.
 bears_on:
 - QUESTION-398
+corroborates:
+- CLAIM-tmp6wuql
 ---
+<!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1551 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
 

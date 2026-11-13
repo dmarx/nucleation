@@ -38,6 +38,7 @@ summary: >-
   burden of justification. Interpretive. The wording is A's; adopting it
   is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp0dvpy THEORY-tmp8mi75 THEORY-tmpzuniv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-184 — Proposed; the record's nearest claim, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
@@ -81,3 +82,9 @@ than any participant can bear.
 - Not who bears the burden or who judges it. A pairs the principle with
   "pilot programs, independent evaluation, meaningful appeals, and
   opportunities for revision"; which institutions those are is left open.
+
+## Note of 2026-11-13: the readings of 2026-11-13
+
+- **Postman** (THEORY-tmp8mi75): the consequences of technological change are "always vast, often unpredictable and largely irreversible", and he counsels caution. Corroborates the premise; he states no burden rule.
+- **Moen** (THEORY-tmpzuniv): control of technological progress faces "both an epistemic problem and a coordination problem", the uncertainty with later learning this claim's reason needs. Corroborates the premise.
+- **Rosa** (THEORY-tmp0dvpy): a modern society can be slowed "but only at the cost of its institutions getting in crises", the cost of reversing a structural ratchet at the scale of the whole. A point of contact, no relation.

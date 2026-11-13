@@ -73,6 +73,7 @@ summary: >-
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
+<!-- inactive-ok-file: THEORY-tmpj32pb THEORY-tmpockqy — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
@@ -191,3 +192,7 @@ and A23 §6 also took the capability set over time, which is
 [CLAIM-tmp6wuql](CLAIM-tmp6wuql.md): under support that substitutes, the reachable set itself
 moves, so the opportunity aspect has to be read along a trajectory. That
 claim rests on this one. No change.
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+Sen read first-hand for the first time on the record: the Tanner Lectures, The Standard of Living (1985; THEORY-tmpj32pb), where capabilities are "what real opportunities you have regarding the life you may lead", and Development as Freedom, Introduction and chapter 1 (THEORY-tmpockqy), which names "the process aspect and the opportunity aspect of freedom" [OCR-normalized]. Both corroborate this claim's reading of the two aspects. Neither gives the map from trajectories to valued functionings that the claim says control theory lacks.

@@ -45,6 +45,8 @@ summary: >-
   decline", and the proposed study is [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md). The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ARG-tmpar7tl THEORY-tmpa59p3 THEORY-tmpiihve THEORY-tmpj32pb THEORY-tmpo67z2 THEORY-tmpockqy THEORY-tmpt6mee THEORY-tmpwsjea THEORY-tmpzibpi — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: LIT-2225 — Unfetched; cited with its standing -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's claim on division of labour, cited with its standing -->
 <!-- inactive-ok-file: CASE-tmpf71w4 — filed from the same exchange, Proposed -->
 
@@ -106,3 +108,16 @@ support, so the opportunity aspect has to be read along the trajectory.
 - Not that Sen ignores time. Whether his framework already evaluates
   capability over a life is a question for a reading of Sen's own works
   (registered unread from this exchange), not settled here.
+
+## Note of 2026-11-13: the readings of 2026-11-13
+
+Readings of 2026-11-13 and a recheck.
+
+- **Gardner** (THEORY-tmpo67z2): finds Sen's preference for capability over achievement unargued. That is contested support for this claim's framing in Sen's terms; ARG-tmpar7tl argues the derivation stands, since the two supports diverge in achieved functionings too. The claim keeps its conclusion; "capability trajectory" should be read as the trajectory of what the party can reach and achieve.
+- **Sen**, Development as Freedom (THEORY-tmpockqy): unemployment has "far-reaching debilitating effects on individual freedom, initiative, and skills" [OCR-normalized] that income support does not make up: support that replaces an outcome, not the activity. Corroborates the premise. The Tanner Lectures (THEORY-tmpj32pb) evaluate the capability set at a time; nothing read argues the set includes later sets, the claim's named defeater.
+- **Vallor through Adewuyi** (THEORY-tmpt6mee): moral deskilling under reliance on algorithmic decision; second-hand. Corroborates the premise.
+- **Crawford 2006** (THEORY-tmpiihve): "the degradation of work is ultimately a cognitive matter", judgment moved out of the job; corroborates the premise at the level of occupations.
+- **Feenberg** (THEORY-tmpa59p3): the economic code "rewards deskilling"; corroborates the premise at the level of economic codes.
+- **Rosa through Susen** (THEORY-tmpzibpi): qualifies the evaluative measure from outside. "access to resources is a necessary but not sufficient condition for human fulfilment"; a capability set, even as a trajectory, measures options, not the quality of a person's relation to what they do. The derivation is untouched.
+- **Benjamin**, Imagination (THEORY-tmpwsjea): a capacity widespread in children declining under arrangements that do not exercise it; weak and second-hand, no relation.
+- **Recheck: readings the first search missed.** The record already held the premise's best evidence: Ahn's reading of Bainbridge's ironies of automation (THEORY-1522, read in NOTE-1713 from LIT-2222), that automation leaves the operator's skills "degraded from disuse"; Bainbridge's paper itself (LIT-2225) is Unfetched. THEORY-1522 now corroborates this claim. NOTE-1612 (Oskar et al., procedural skill decay in emergency medicine; THEORY-1404) is the clinical evidence for decay with disuse that CLAIM-558 holds; it bears on whether CLAIM-605's model applies to people, the question CASE-tmpf71w4 asks.

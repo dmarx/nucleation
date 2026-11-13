@@ -47,6 +47,7 @@ summary: >-
   with Tools for Conviviality. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp0dvpy THEORY-tmp5l4e4 THEORY-tmp8mi75 THEORY-tmpa59p3 THEORY-tmpiihve THEORY-tmps3a0q THEORY-tmpvajjd THEORY-tmpxwo9k THEORY-tmpypzp0 THEORY-tmpyuoss THEORY-tmpzuniv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-670 CLAIM-428 CLAIM-445 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: THEORY-885 — Proposed; a reading named for comparison, nothing here rests on it -->
 <!-- inactive-ok-file: ARG-tmp7y8r4 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
@@ -125,3 +126,18 @@ Illich's radical monopoly (Tools for Conviviality, [LIT-tmp2tehj](../literature.
 autonomy of technique ([LIT-tmpdprtt](../literature.d/LIT-tmpdprtt.md)) and Rosa's dynamic stabilization
 (Social Acceleration, [LIT-tmp6zjsx](../literature.d/LIT-tmp6zjsx.md)), all registered unread from this
 exchange. A's descriptions of them are unverified until read.
+
+## Note of 2026-11-13: the readings of 2026-11-13
+
+Readings registered from the exchange and read, or read through stand-ins, on 2026-11-13. Each that gives evidence carries `corroborates` to this claim.
+
+- **Illich through Cayley** (THEORY-tmpxwo9k): the test of radical monopoly, "whether one can still find an alternative or decently do without", is this claim's measure; the car environment its infrastructural mechanism; alternatives made "unimaginable" its cultural one. **It qualifies the title.** Illich's burial example ends in law: "Now legislation is being passed to make the mortician's ministrations compulsory." A de facto monopoly can later be codified, so "without any rule requiring it" describes how the compulsion can arise, not that it stays unwritten. The title is kept; this note records the qualification.
+- **Ellul 1983** (THEORY-tmpypzp0): outside the technical city "the only choices left" are two. Ellul goes further than the claim: particular choices "no longer have much significance".
+- **Rosa** (THEORY-tmp0dvpy): people keep pace "para evitar la pérdida de opciones y conexiones", the non-adopter's loss of options, and standing still means falling behind.
+- **Moen** (THEORY-tmpzuniv): the car city and the arms race, the infrastructural and competitive mechanisms, from a source independent of the exchange.
+- **Morozov** (THEORY-tmps3a0q): once most people self-track, declining is "no longer an autonomous decision"; mechanism and measure, by example.
+- **Crawford 2006** (THEORY-tmpiihve): Ford "destroyed the possibility of an alternative way of working"; competitive mechanism.
+- **Postman** (THEORY-tmp8mi75): curricula reorganized around tests; technologies become mythic.
+- **Kelly** (THEORY-tmp5l4e4): a foil, not evidence. His "More ways, more choices" measures the options technology gives its adopters, the measure this claim sets aside; it neither meets the claim's defeater nor answers it.
+- **Lanier** (THEORY-tmpvajjd) and **Hui** (THEORY-tmpyuoss): Lanier names lock-in in software without the claim's mechanism; Hui's bifurcated technological futures say lock-in to one path is not necessary, without a mechanism that keeps a non-adopter's options open. Points of contact, no relation.
+- **Feenberg** (THEORY-tmpa59p3): lock-in depends on the prevailing technical code, which shifts the emphasis to contestability; consistent with the claim.
