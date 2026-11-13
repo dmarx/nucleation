@@ -101,6 +101,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that moved this entry -->
 <!-- inactive-ok-file: CLAIM-624 CASE-225 CLAIM-616 TERM-083 — Proposed or Superseded; cited in dated notes carried over from CLAIM-545 -->
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->
+<!-- inactive-ok-file: TERM-tmpc9uv8 CLAIM-tmp6p3ki — Proposed; filed 2026-11-13, the term proposed from this claim's domination clause and the claim that uses it -->
 
 # CLAIM-545: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
@@ -292,3 +293,15 @@ individual's will; it does not use non-domination or Pettit, and does not
 say that a non-profiled option (Art. 38) restores freedom; it calls Art. 38
 "the most promising agency-enhancing tool" but insufficient. Note: CLAIM-545
 on the branch does not itself cite [LIT-2362](../literature.d/LIT-2362.md); the link is the LIT's.
+
+## Note of 2026-11-13: the domination clause proposed as a term
+
+The body says the domination clause "has no coded component". At the
+owner's acceptance on 2026-11-13 of the step-12 ideas of [#488](https://github.com/dmarx/nucleation/issues/488), it is
+proposed as a term, [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md): an agent's or role's capacity, used or
+not, to set or change the terms on which a party can act, exit, contest
+or renegotiate, where the capacity is not answerable to the party under a
+standard declared with the judgment. It keeps this claim's "used or not",
+makes "unaccountable" relative to a declared standard ([CLAIM-363](CLAIM-363.md)), and
+requires the holder to be an agent or role. [CLAIM-tmp6p3ki](CLAIM-tmp6p3ki.md) uses it. The
+term is the assistant's wording and Proposed. This claim is unchanged.
