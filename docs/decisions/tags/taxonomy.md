@@ -6,7 +6,7 @@
 
 **Taxonomy** — the topic vocabulary and what enforces it.
 
-2 of 98 decisions. Back to the [full index](../README.md).
+2 of 99 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

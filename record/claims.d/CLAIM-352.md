@@ -38,7 +38,7 @@ history:
   date: '2026-11-13'
   note: >-
     flourishing-and-meaning added after will-organization, by
-    ADR-tmp6wnv0, the line's first application: that viable reachability
+    ADR-099, the line's first application: that viable reachability
     stands for Sen's opportunity aspect only through a map to valued
     functionings is a claim about what capability needs, the line's
     subject. will-organization stays first. No other change.

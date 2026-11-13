@@ -38,6 +38,7 @@ serve none.
 | Readiness and slack | 14 |
 | Withdrawing transient support | 55 |
 | Resource-bounded realizability and individuation | 52 |
+| Flourishing and meaning in life | 0 |
 
 ## Distributed agency
 

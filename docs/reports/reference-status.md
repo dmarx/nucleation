@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**918 documents cited without acknowledgement.** Not listed: 26848 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**919 documents cited without acknowledgement.** Not listed: 26873 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1398,7 +1398,7 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-186 citations in 163 files await a look; 20 other citations of it are acknowledged.
+186 citations in 163 files await a look; 24 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:16`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:28`](../../record/arguments.d/ARG-055.md)
@@ -1982,7 +1982,7 @@ A reading that marks the limit of a claim's scope, cited as such in the claim's 
 
 The nucleating-argument line is split in three: nucleating-argument keeps how an argument drifts, anchors and pays for anchoring; what a record of inquiry keeps and the record as its own apparatus become lines of their own, because their parts barely relate to the rest
 
-47 citations in 46 files await a look; 13 other citations of it are acknowledged.
+47 citations in 46 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-082.md:15`](../../record/cases.d/CASE-082.md)
 - [`record/cases.d/CASE-084.md:14`](../../record/cases.d/CASE-084.md)
@@ -2089,7 +2089,7 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 
 The readiness line is split in two: readiness keeps keeping a rare capability and reaching and paying for configurations under budgets; when transient support can be withdrawn becomes the line transient-support, because that part barely relates to the other two
 
-45 citations in 36 files await a look.
+45 citations in 36 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/cases.d/CASE-225.md:13`](../../record/cases.d/CASE-225.md)
 - [`record/claims.d/CLAIM-597.md:38`](../../record/claims.d/CLAIM-597.md)
@@ -2507,7 +2507,7 @@ Beyond what it does operationally, luria is an apparatus in Barad's constitutive
 
 Normative judgment about organizations becomes a line of its own, organizational-normativity, split from will-organization: whether an organization's own dynamics ground norms, and what judging one needs, is a question of its own, while acting as one stays, because its root question refines the line's own
 
-35 citations in 26 files await a look.
+35 citations in 26 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:13`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:25`](../../record/arguments.d/ARG-055.md)
@@ -5810,7 +5810,7 @@ In fear conditioning, extinction does not erase the original threat association 
 
 A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses
 
-6 citations in 3 files await a look; 5 other citations of it are acknowledged.
+6 citations in 3 files await a look; 6 other citations of it are acknowledged.
 
 - [`docs/README.md:9`](../README.md)
 - [`record/decisions.d/ADR-091.md:12`](../../record/decisions.d/ADR-091.md)
@@ -6382,12 +6382,12 @@ Dynamical independence, zero information flow from the microscopic history into 
 
 In Sen's capability approach the weighting of functionings is left to public reasoning, and evaluation can still guide action without agreement on weights: where every weighting in an agreed range, or every view by its own argument, ranks one option above another, that ranking holds, so the approach is deliberately incomplete and yields a partial ordering
 
-6 citations in 2 files await a look; 3 other citations of it are acknowledged.
+6 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-352.md:29`](../../record/claims.d/CLAIM-352.md)
-- [`record/claims.d/CLAIM-352.md:91`](../../record/claims.d/CLAIM-352.md)
-- [`record/claims.d/CLAIM-352.md:123`](../../record/claims.d/CLAIM-352.md)
-- [`record/claims.d/CLAIM-352.md:158`](../../record/claims.d/CLAIM-352.md)
+- [`record/claims.d/CLAIM-352.md:100`](../../record/claims.d/CLAIM-352.md)
+- [`record/claims.d/CLAIM-352.md:132`](../../record/claims.d/CLAIM-352.md)
+- [`record/claims.d/CLAIM-352.md:167`](../../record/claims.d/CLAIM-352.md)
 - [`record/claims.d/CLAIM-354.md:26`](../../record/claims.d/CLAIM-354.md)
 - [`record/claims.d/CLAIM-354.md:163`](../../record/claims.d/CLAIM-354.md)
 
@@ -6869,12 +6869,12 @@ ratchet effect, in the incentive sense: a principal that cannot commit to future
 
 Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation
 
-5 citations in 2 files await a look; 9 other citations of it are acknowledged.
+5 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-352.md:19`](../../record/claims.d/CLAIM-352.md)
 - [`record/claims.d/CLAIM-352.md:23`](../../record/claims.d/CLAIM-352.md)
-- [`record/claims.d/CLAIM-352.md:90`](../../record/claims.d/CLAIM-352.md)
-- [`record/claims.d/CLAIM-352.md:112`](../../record/claims.d/CLAIM-352.md)
+- [`record/claims.d/CLAIM-352.md:99`](../../record/claims.d/CLAIM-352.md)
+- [`record/claims.d/CLAIM-352.md:121`](../../record/claims.d/CLAIM-352.md)
 - [`record/theory.d/THEORY-027.md:73`](../../record/theory.d/THEORY-027.md)
 
 ### [THEORY-044](../../record/theory.d/THEORY-044.md) — Proposed
@@ -7752,7 +7752,7 @@ Perceiving people as a group entity, rather than as members of a common category
 
 Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons
 
-4 citations in 2 files await a look; 18 other citations of it are acknowledged.
+4 citations in 2 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-068.md:29`](../../record/questions.d/QUESTION-068.md)
 - [`record/questions.d/QUESTION-068.md:51`](../../record/questions.d/QUESTION-068.md)
@@ -9109,10 +9109,19 @@ In two-agent rock–scissors–paper played by softmax reinforcement learners, n
 
 An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split
 
-2 citations in 1 file await a look; 50 other citations of it are acknowledged.
+2 citations in 1 file await a look; 51 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
+
+### [ADR-099](../../record/decisions.d/ADR-099.md) — Proposed
+
+A line of its own for flourishing and meaning in life, flourishing-and-meaning: what makes a life go well and be meaningful, and how arrangements and technologies widen or narrow the lives open to people
+
+2 citations in 2 files await a look.
+
+- [`record/claims.d/CLAIM-352.md:41`](../../record/claims.d/CLAIM-352.md)
+- [`record/questions.d/QUESTION-369.md:13`](../../record/questions.d/QUESTION-369.md)
 
 ### [ARG-013](../../record/arguments.d/ARG-013.md) — Rejected
 
@@ -10414,7 +10423,7 @@ Ill structured problems can be handled by an alternation between a solver workin
 
 Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
 
-2 citations in 1 file await a look; 20 other citations of it are acknowledged.
+2 citations in 1 file await a look; 21 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-068.md:29`](../../record/questions.d/QUESTION-068.md)
 - [`record/questions.d/QUESTION-068.md:49`](../../record/questions.d/QUESTION-068.md)
@@ -10504,7 +10513,7 @@ When a group learns only about the options its members pursue and good evidence 
 
 Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do
 
-2 citations in 1 file await a look; 12 other citations of it are acknowledged.
+2 citations in 1 file await a look; 13 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-068.md:29`](../../record/questions.d/QUESTION-068.md)
 - [`record/questions.d/QUESTION-068.md:50`](../../record/questions.d/QUESTION-068.md)

@@ -10,7 +10,7 @@ history:
   date: '2026-11-13'
   note: >-
     flourishing-and-meaning added after distributed-agency, by
-    ADR-tmp6wnv0, the line's first application: whether an experience is
+    ADR-099, the line's first application: whether an experience is
     a need a life requires or only raises reported well-being is a
     question of what makes a life go well. distributed-agency stays
     first. No other change.
