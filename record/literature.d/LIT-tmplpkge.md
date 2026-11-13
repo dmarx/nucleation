@@ -1,8 +1,8 @@
 ---
 status: Unavailable
-status_note: 'searched 2026-11-13 for a lawful copy and found none: OUP via doi.org paywalled; OpenAlex closed; the SSIR review page paywalled; no publisher sample found. Adewuyi''s open review in JEET (2026, [LIT-tmpe83ys](LIT-tmpe83ys.md)) was read as a thin stand-in; Vallor''s own paper on moral deskilling ([LIT-tmpru6bh](LIT-tmpru6bh.md)) was located at scholarcommons.scu.edu/phi/7/ and is Unfetched (Cloudflare challenge, 2026-11-13).'
+status_note: 'searched 2026-11-13 for a lawful copy and found none: OUP via doi.org paywalled; OpenAlex closed; the SSIR review page paywalled; no publisher sample found. Stand-ins: Adewuyi''s open review in JEET (2026, LIT-tmpe83ys), read, thin; Vallor''s own paper on moral deskilling (LIT-tmpru6bh), Unfetched (Cloudflare challenge at scholarcommons.scu.edu/phi/7/, 2026-11-13); and, registered and read on 2026-11-13, Vallor''s CyCon 2013 paper (LIT-tmpcm4m7), first-hand for the deskilling thesis, and her Noema essay of 2024-05-23 (LIT-tmpqx6sc), thin to partial for the book''s stance. Her New Humanist speech (newhumanist.org.uk/2024/07/31/how-ai-prevents-progress/) served HTTP 403 with a challenge marker on 2026-11-13, not retried.'
 title: 'The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -24,6 +24,19 @@ history:
     from 2024-06-03 (Crossref's chapter dates) to 2024-04-29, the
     earliest exact date the sources give, from OpenAlex (fetched
     2026-11-13), under ADR-002.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Two further stand-ins registered and read on 2026-11-13, at the
+    owner's request to "look for adjacent stand ins for
+    unreachable/unfetched work": Vallor's CyCon 2013 paper (LIT-tmpcm4m7,
+    NOTE-tmpgn1lo), first-hand for the deskilling thesis the review
+    reported; and her Noema essay "The Danger Of Superhuman AI Is Not What
+    You Think" (LIT-tmpqx6sc, NOTE-tmpl6ia5), thin to partial for the
+    book's stance (AI as a mirror lacking the substance of minds, the
+    devaluation of agency, reclamation), not its backward-looking mirror
+    or practical wisdom. The status stays Unavailable. The summary is
+    rewritten.
 tags:
 - ethics
 - anthology-candidate
@@ -39,13 +52,16 @@ implementations: []
 summary: >-
   Shannon Vallor (2024). The AI Mirror. Oxford UP.
   DOI-10.1093/oso/9780197759066.001.0001. Unavailable. Through Adewuyi's
-  review ([LIT-tmpe83ys](LIT-tmpe83ys.md), [NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md)): AI mirrors past human data; it
+  review (LIT-tmpe83ys, NOTE-tmphyftd): AI mirrors past human data; it
   can change human character; reliance on algorithmic decision produces
   moral deskilling; the remedy is self-renewal guided by practical
-  wisdom. Moral deskilling corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise,
-  second-hand ([THEORY-tmpt6mee](../theory.d/THEORY-tmpt6mee.md)). Vallor's first-hand statement of it
-  ([LIT-tmpru6bh](LIT-tmpru6bh.md)) is Unfetched.
+  wisdom. First-hand stand-ins: the CyCon 2013 paper (LIT-tmpcm4m7,
+  THEORY-tmpm76rc) for moral deskilling, which corroborates
+  CLAIM-tmp6wuql's premise; the 2024 Noema essay (LIT-tmpqx6sc,
+  THEORY-tmpt34ma) for the stance, "superhuman" AI as an ideology that
+  devalues human agency. The 2015 paper (LIT-tmpru6bh) is Unfetched.
 ---
+<!-- inactive-ok-file: THEORY-tmpm76rc THEORY-tmpt34ma — Proposed; cited with its standing -->
 <!-- inactive-ok-file: LIT-tmpru6bh — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unfetched -->
 <!-- inactive-ok-file: THEORY-tmpt6mee — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
@@ -62,6 +78,12 @@ Shannon Vallor (2024). *The AI Mirror: How to Reclaim Our Humanity in an Age of 
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 for how technologies shape character and practical wisdom; A5 sets it against Crawford on which capabilities to preserve under automation, the question [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) bears on. Flagged for the anthology, which may want it as a work on AI.
 
+Stand-ins of 2026-11-13: LIT-tmpcm4m7, first-hand for the deskilling thesis, eleven years before the book; LIT-tmpqx6sc, thin to partial for the book's stance. Neither carries the mirror's backward orientation, practical wisdom or self-renewal in detail.
+
 ## Reading of 2026-11-13
 
 Unavailable. Stand-ins: [LIT-tmpe83ys](LIT-tmpe83ys.md) (read, [NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md); account [THEORY-tmpt6mee](../theory.d/THEORY-tmpt6mee.md)) and [LIT-tmpru6bh](LIT-tmpru6bh.md) (Unfetched). `published:` corrected to 2024-04-29 (OpenAlex).
+
+## Stand-ins of 2026-11-13
+
+Read: Vallor (2013), "The Future of Military Virtue" (LIT-tmpcm4m7, NOTE-tmpgn1lo, Read; THEORY-tmpm76rc), and Vallor (2024), "The Danger Of Superhuman AI Is Not What You Think" (LIT-tmpqx6sc, NOTE-tmpl6ia5, Read; THEORY-tmpt34ma). Still Unavailable.

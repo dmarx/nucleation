@@ -38,6 +38,7 @@ summary: >-
   burden of justification. Interpretive. The wording is A's; adopting it
   is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpvlt2n THEORY-tmpyot08 THEORY-tmpm76rc THEORY-tmpt34ma THEORY-tmpl7lm5 ARG-tmp5juxo — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-tmp0dvpy THEORY-tmp8mi75 THEORY-tmpzuniv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-184 — Proposed; the record's nearest claim, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
@@ -106,3 +107,10 @@ than any participant can bear.
   open: controls over tools should be "governed by political process
   rather than by decisions by experts", which bears on who carries the
   burden, not on how it scales. Nothing on irreversibility. No relation.
+
+## Note of 2026-11-13: stand-ins, read
+
+- **Winner, "Do Artifacts Have Politics?"** (THEORY-tmpvlt2n, NOTE-tmpskck7), read in full as a partial stand-in for Mumford. Corroborates the premise and the occasion, more strongly than Postman or Moen; argued in ARG-tmp5juxo. "By far the greatest latitude of choice exists the very first time a particular instrument, system, or technique is introduced", and "the original flexibility vanishes for all practical purposes once the initial commitments are made"; so innovations "are similar to legislative acts or political foundings that establish a framework for public order that will endure over many generations" and deserve the attention given to politics. Winner states no rule that the burden scales with the size and irreversibility of the narrowing; that remains the claim's own. Status unchanged.
+- **Illich, Energy and Equity** (THEORY-tmpyot08): qualifies it from the side of who decides. Limits come through "juridical and, above all, to political process", by "provisional" measures, and the threshold "can be pinpointed by social analysis", which favours deciding before lock-in. No burden rule. No relation.
+- **Vallor, CyCon 2013** (THEORY-tmpm76rc): support in spirit; moral skill lost when practice stops is hard to restore, a reason for restraint before deployment. No relation.
+- **Vallor's Noema essay** (THEORY-tmpt34ma) and **Lanier's excerpt** (THEORY-tmpl7lm5): leave it open. "I don’t think it is too late" assumes reversibility; "I hope will not be locked in" presupposes the irreversibility the claim prices.

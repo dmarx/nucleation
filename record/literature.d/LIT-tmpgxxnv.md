@@ -38,7 +38,6 @@ summary: >-
   digital technology. A stand-in for the stance of [LIT-tmpj5wpm](LIT-tmpj5wpm.md), not its
   content.
 ---
-<!-- inactive-ok-file: LIT-tmpj5wpm — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpvajjd — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # LIT-tmpgxxnv: One Half a Manifesto

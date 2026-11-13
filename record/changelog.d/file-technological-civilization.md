@@ -1,6 +1,8 @@
 <!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpu2cwc CLAIM-tmpsmg1c TERM-tmpt8p9e CASE-tmpf71w4 ARG-tmp7y8r4 ARG-tmpar7tl ARG-tmpsh7he ARG-tmpqo6eu THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" (2026-11-13) or its readings, Proposed -->
 <!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the term the new definition rivals -->
+<!-- inactive-ok-file: NOTE-tmpzc2v0 — Skimmed; Lanier, the publisher's excerpt -->
+<!-- inactive-ok-file: ARG-tmp5juxo ARG-tmpn3me8 THEORY-tmpa59p3 THEORY-tmpl7lm5 CLAIM-656 — filed from the stand-ins of 2026-11-13 or the readings before them, Proposed -->
 ### Added
 
 - The exchange "Analyze technological civilization trap" (2026-11-13)
@@ -49,3 +51,19 @@
   his mixed support for the compulsion claim is argued in [ARG-tmpqo6eu](record/arguments.d/ARG-tmpqo6eu.md);
   three of the Farr stand-in's attributions are corrected; dated notes on
   the claims and questions the books bear on.
+- Stand-ins of 2026-11-13, at the owner's request to "look for adjacent
+  stand ins for unreachable/unfetched work": six neighbours registered
+  and read, each with a NOTE and a THEORY: Crawford's 2017 interview and
+  Dijkema's review for The World Beyond Your Head (LIT-tmp0gt3l,
+  LIT-tmpnno4c), Winner's "Do Artifacts Have Politics?" for The Myth of
+  the Machine (LIT-tmpko07b), Vallor's CyCon 2013 paper and her Noema
+  essay for her deskilling paper and The AI Mirror (LIT-tmpcm4m7,
+  LIT-tmpqx6sc), and Illich's Energy and Equity for what the excerpt of
+  Tools for Conviviality does not reach (LIT-tmpb6b92). You Are Not a
+  Gadget read in its publisher's excerpt and made Active (NOTE-tmpzc2v0,
+  THEORY-tmpl7lm5). Two ARGs: Winner supports the irreversibility
+  burden's premise, not its rule (ARG-tmp5juxo); Energy and Equity
+  qualifies "without any rule" in the compulsion claim, the exclusion
+  being enforced by gatekeepers and law (ARG-tmpn3me8). Dated notes on
+  the four claims, CLAIM-656, Feenberg's THEORY-tmpa59p3 and THEORY-1522.
+  Mitcham's paper on Tools for Conviviality located and Unfetched.

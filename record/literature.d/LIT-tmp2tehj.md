@@ -1,8 +1,8 @@
 ---
 status: Active
-status_note: 'a two-page excerpt read on 2026-11-13 ([NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md), Skimmed) from https://iso.mor.phis.me/teaching/2023-2024/IA/textes/conviviality.pdf, a teaching page''s PDF headed "Extrait du livre Tools for conviviality paru en 1973": an excerpt, not the whole-book copy this note called it before. The whole book at https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf is Unfetched on 2026-11-13: TLS verification failed (the server''s certificate chains to a root this session does not trust), and it was not worked around. Both copies are covered by the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). Cayley''s reading ([LIT-tmpc1xee](LIT-tmpc1xee.md)) still stands in for what the excerpt does not reach.'
+status_note: 'a two-page excerpt read on 2026-11-13 (NOTE-tmp8ceuj, Skimmed) from https://iso.mor.phis.me/teaching/2023-2024/IA/textes/conviviality.pdf, a teaching page''s PDF headed "Extrait du livre Tools for conviviality paru en 1973": an excerpt, not the whole-book copy this note called it before. The whole book at https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf is Unfetched on 2026-11-13: TLS verification failed (the server''s certificate chains to a root this session does not trust), and it was not worked around. Both copies are covered by the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). Cayley''s reading (LIT-tmpc1xee) still stands in for the burial case and "unimaginable". Energy and Equity (1974; LIT-tmpb6b92), read in full on 2026-11-13 from a course page at ecourses.uprm.edu, stands in for what the excerpt does not reach on radical monopoly and the threshold, not for the burial case or "unimaginable". Located and Unfetched, not registered: Carl Mitcham, "Tools for Conviviality: Argument, Insight, Influence", https://thinkingafterivanillich.net/wp-content/uploads/2022/10/Tools-for-Conviviality-Argument-Insight-Influence.pdf, a scholarly paper on a research-group site; on 2026-11-13 the session''s proxy answered "CONNECT tunnel failed, response 502", not retried.'
 title: 'Tools for Conviviality'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-13'
@@ -41,6 +41,19 @@ history:
     nothing in it bears on the publisher or the DOI. The A13
     characterization of radical monopoly is corrected to Illich's own
     definition, and the summary is rewritten from the excerpt.
+- version: 4
+  date: '2026-11-13'
+  note: >-
+    A stand-in registered and read on 2026-11-13, at the owner's request
+    to "look for adjacent stand ins for unreachable/unfetched work":
+    Illich's Energy and Equity (LIT-tmpb6b92, NOTE-tmp0cqdl,
+    THEORY-tmpyot08). It carries radical monopoly in full, with the shoe
+    and school cases, and the threshold beyond which a tool reverses its
+    effect, the transport form of the second watershed in substance though
+    not by name. It does not reach the burial case or "unimaginable",
+    which still rest on Cayley. Mitcham's paper on Tools for Conviviality
+    was located and is Unfetched (proxy 502, 2026-11-13); it is recorded
+    in the status note and not registered. The status stays Active.
 tags:
 - society-and-governance
 - ethics
@@ -70,6 +83,7 @@ summary: >-
   ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)) still carries the burial case and "unimaginable",
   which the excerpt does not reach.
 ---
+<!-- inactive-ok-file: THEORY-tmpyot08 ARG-tmpn3me8 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: THEORY-tmpww16o THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
@@ -104,6 +118,8 @@ From the two-page excerpt read on 2026-11-13 ([NOTE-tmp8ceuj](../notes.d/NOTE-tm
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "convivial tools" and "radical monopoly", the case where one institutionalized way of meeting a need displaces the others so that a technology becomes compulsory without any rule requiring it (A13 §II). That is the mechanism and the measure of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md), and the dependence-without-domination question of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).
 
+Stand-in of 2026-11-13: Energy and Equity (LIT-tmpb6b92), for what the excerpt does not reach on radical monopoly (with more cases than the excerpt) and on the threshold of reversal. Not for the burial case or "inaccessible or unimaginable", which rest on Cayley (THEORY-tmpxwo9k). Mitcham's paper on the book is located and Unfetched; see the status note.
+
 ## Reading of 2026-11-13
 
 Before the owner's ruling: Unavailable. Copies located, not fetched pending the ruling. Stand-in: [LIT-tmpc1xee](LIT-tmpc1xee.md), read in [NOTE-tmpc4m2u](../notes.d/NOTE-tmpc4m2u.md); account [THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md).
@@ -118,3 +134,7 @@ unimaginable", the watersheds or counterproductivity, so the
 qualification of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s title still rests on Cayley
 ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)). The reading should be completed from the whole book
 when it can be fetched.
+
+## Stand-in of 2026-11-13: Energy and Equity
+
+Read in full (LIT-tmpb6b92, NOTE-tmp0cqdl, Read; THEORY-tmpyot08). It corroborates CLAIM-tmpbypt7 and qualifies "without any rule": in Illich's shoe and school cases teachers, officials and compulsory-schooling laws enforce the exclusion of the non-adopter (ARG-tmpn3me8). It bounds CLAIM-tmpkjv7u, a radical monopoly being "hidden, entrenched, and structuring", with no one holding it. Burial and "unimaginable" are still not reached.

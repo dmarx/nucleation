@@ -59,6 +59,7 @@ summary: >-
   worked case of all three conditions ([THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md)). Interpretive.
   The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp8m1e4 THEORY-tmpyot08 THEORY-tmpvlt2n THEORY-tmpnm1gx THEORY-tmpt34ma — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: ARG-tmpsh7he THEORY-tmp5hgen THEORY-tmpbgf6v THEORY-tmpclnon THEORY-tmpnydju THEORY-tmpo6ipc THEORY-tmpq29mb THEORY-tmpxwo9k THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmph5wwv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the duty of answerability A23 tied accountability to, cited with its standing -->
@@ -173,3 +174,10 @@ the arrangement itself is not assumed to owe or to dominate anything, as
   escape the dominion of constantly expanding industrial tools." It places
   the constraint in the tools, whoever controls them, another limit of the
   narrowed test; it carries `bounds` to this claim.
+
+## Note of 2026-11-13: stand-ins, read
+
+- **Crawford, the 2017 interview** (THEORY-tmp8m1e4, NOTE-tmpp5kql). Corroborates, as a reported case of all three conditions in Crawford's diagnosis, not argued: smart cities "controlled by what could be seen as a cartel of ICT companies" (discretion), where "citizens have become more and more captive and dependent in their everyday life" (essentiality), and his call for public scrutiny of "the intention and effects of all that programming" (accountability lacking). "This power belongs to those who design our environment."
+- **Illich, Energy and Equity** (THEORY-tmpyot08, NOTE-tmp0cqdl). Bounds it, beside the excerpt of Tools for Conviviality (THEORY-tmpww16o): radical monopoly is "hidden, entrenched, and structuring", a dependence no one holds, outside the claim's test since version 2 (ARG-tmpsh7he). Illich's shoe case straddles the boundary: the industry holds no discretion, but "Teachers or party officials" who deny access to the barefoot do.
+- **Winner** (THEORY-tmpvlt2n): consistent with the narrowing, no relation. The bomb's "centralized, rigidly hierarchical chain of command" is authority inside a system, not discretion over dependents outside it; practical necessity ("Fine, but that’s no way to run a railroad") is how accountability erodes, which bears on the third condition; the tomato harvester's concentration, which no one intended, is the impersonal constraint the claim puts outside its test.
+- **Dijkema's review** (THEORY-tmpnm1gx) and **Vallor's Noema essay** (THEORY-tmpt34ma): leave it open; "monopolized attention" is market power over attention, and the ideology Vallor names is impersonal.

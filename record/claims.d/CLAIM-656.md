@@ -54,6 +54,7 @@ summary: >-
   newsroom, are A33 §§3 and 5. [ARG-091](../arguments.d/ARG-091.md) weighs the transfer from
   games to news.
 ---
+<!-- inactive-ok-file: THEORY-tmp8m1e4 — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpchx6j — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: ARG-088 THEORY-1655 THEORY-1709 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1761 — Skimmed; the reading filed from the same exchange -->
@@ -284,3 +285,7 @@ lean to the rival. Robertson, Bisiani and Hayes leave the grounds (version
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
 Crawford's The World Beyond Your Head ([LIT-tmpchx6j](../literature.d/LIT-tmpchx6j.md)) was not reached; his NYT op-ed, read to its paywall, proposes treating attention as a resource held in common, which advertising appropriates. The nearest held entry to that is this claim (attention as revenue). Nothing is registered and no relation written.
+
+## Note of 2026-11-13: Crawford's interview, read
+
+Crawford's 2017 interview (THEORY-tmp8m1e4), a stand-in for The World Beyond Your Head, shares this claim's premise, that attention is the resource monetized: "people are a captive audience and that their mental space could be monetized". It says nothing of optimization or clickbait, and puts the problem in "political economy", not technology. No relation; no change.

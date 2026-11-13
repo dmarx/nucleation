@@ -60,6 +60,7 @@ bears_on:
 corroborates:
 - CLAIM-tmp6wuql
 ---
+<!-- inactive-ok-file: THEORY-tmpm76rc — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1551 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
@@ -95,3 +96,7 @@ remedies.
 - That Bainbridge proposed these remedies. Ahn does not say she did.
 - That the remedies work, or that the ironies of industrial control hold in
   medicine. Both are assumed.
+
+## Note of 2026-11-13: Vallor, the same structure in ethics
+
+Vallor's CyCon 2013 paper (THEORY-tmpm76rc, NOTE-tmpgn1lo), read on 2026-11-13, states the hand-back problem for moral skill: "An expert supervisor of another’s decision, in order to be worthy of the authority to override it, must have acquired expertise in making decisions of the very same or a similar kind", and the skill set for supervising autonomous systems "will be much narrower" than for making the decisions. That is this account's operator recalled at failure with skills "degraded from disuse", from an independent source in another domain. Both corroborate CLAIM-tmp6wuql. No change here.

@@ -18,7 +18,6 @@ summary: >-
   toward digital technology. A stand-in for You Are Not a Gadget
   ([LIT-tmpj5wpm](../literature.d/LIT-tmpj5wpm.md)).
 ---
-<!-- inactive-ok-file: LIT-tmpj5wpm — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
 # THEORY-tmpvajjd: Lanier argues that cybernetic totalism, the cluster of beliefs that people are information patterns, that subjective experience does not matter, that Darwinian algorithms describe all creativity and that computing power will soon bring a cataclysm, is a dogma, that real software resists improvement through legacy and lock-in, and that criticizing the dogma is not rejecting digital technology
 

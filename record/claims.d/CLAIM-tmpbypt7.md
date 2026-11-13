@@ -47,6 +47,7 @@ summary: >-
   with Tools for Conviviality. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpyot08 THEORY-tmpvlt2n THEORY-tmp8m1e4 THEORY-tmpm76rc THEORY-tmpl7lm5 ARG-tmpn3me8 — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-tmp0dvpy THEORY-tmp5l4e4 THEORY-tmp8mi75 THEORY-tmpa59p3 THEORY-tmpiihve THEORY-tmps3a0q THEORY-tmpvajjd THEORY-tmpxwo9k THEORY-tmpypzp0 THEORY-tmpyuoss THEORY-tmpzuniv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-670 CLAIM-428 CLAIM-445 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: THEORY-885 — Proposed; a reading named for comparison, nothing here rests on it -->
@@ -182,3 +183,13 @@ Readings registered from the exchange and read, or read through stand-ins, on 20
   travel". The excerpt does not reach the burial case or "unimaginable";
   the qualification of the title in the note above still rests on Cayley
   ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)).
+
+## Note of 2026-11-13: stand-ins, read
+
+At the owner's request to "look for adjacent stand ins for unreachable/unfetched work", neighbours of works the readings could not reach were read.
+
+- **Illich, Energy and Equity** (THEORY-tmpyot08, NOTE-tmp0cqdl), read in full. Corroborates the mechanism and the measure, and qualifies the title; argued in ARG-tmpn3me8. "Industry dominates traffic as soon as daily life comes to depend on motorized trips"; radical monopoly arises "by virtue of its acquired ability to create and shape the need which it alone can satisfy". The shoe case is the claim's non-adopter: "Without any intentional conspiracy between the promoters of national development and the shoe industry, the barefoot in these countries are now barred from any office." But in the same passage "access to schools, jobs, and public services was denied to the barefoot" by "Teachers or party officials", and for schooling a law came first: "Only when laws were enacted to make schools both compulsory and free did the educator assume the power to deny learning opportunities on the job". So "without any rule requiring it" holds of the technology's adoption, not of the exclusion of those who decline it, which gatekeepers and law can enforce. With the burial case above, that is a second qualification; the title is kept, and the owner may narrow it. Burial and "unimaginable" are still not reached in Illich's own words.
+- **Winner, "Do Artifacts Have Politics?"** (THEORY-tmpvlt2n, NOTE-tmpskck7), read in full. Corroborates the mechanism, from outside the exchange: Moses's overpasses narrowed the options of those without cars by arrangement, not rule, and the arrangement "becomes just another part of the landscape", the cultural mechanism; the tomato harvester cut growers from about four thousand to about six hundred with no one intending it.
+- **Crawford, the 2017 interview** (THEORY-tmp8m1e4): weak. The "captive audience" cannot decline a shared space, the claim's non-adopter applied to attention; no mechanism of adoption. No relation.
+- **Vallor, CyCon 2013** (THEORY-tmpm76rc): weak. Once a practice stops, the expertise to resume or override the machine is gone, which removes the option of returning to unaided practice; not framed as an option set. No relation.
+- **Lanier, You Are Not a Gadget, the publisher's excerpt** (THEORY-tmpl7lm5): lock-in named, not argued; leaves it open.

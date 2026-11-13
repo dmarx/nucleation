@@ -45,6 +45,7 @@ summary: >-
   decline", and the proposed study is [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md). The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpm76rc THEORY-tmp8m1e4 THEORY-tmpnm1gx THEORY-tmpyot08 THEORY-tmpt34ma THEORY-343 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-tmpar7tl THEORY-tmpa59p3 THEORY-tmpiihve THEORY-tmpj32pb THEORY-tmpo67z2 THEORY-tmpockqy THEORY-tmpt6mee THEORY-tmpwsjea THEORY-tmpzibpi — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2225 until 2027-05-13 — Unfetched; Bainbridge's paper, cited with its standing as unread; asked again by that date whether a lawful copy is reached -->
 <!-- inactive-ok-file: THEORY-tmpoxssh THEORY-tmpww16o — filed from the readings of 2026-11-13, Proposed -->
@@ -142,3 +143,11 @@ Readings of 2026-11-13 and a recheck.
   powerless over his own apparatus than he ever was before" (ch. 9), and
   the worker's lost "professional autonomy" (ch. 2). No model and no
   dynamics; nothing bears on the derivation. No relation.
+
+## Note of 2026-11-13: stand-ins, read
+
+- **Vallor, CyCon 2013** (THEORY-tmpm76rc, NOTE-tmpgn1lo), read in full as a stand-in for her 2015 paper and for The AI Mirror. Corroborates the premise first-hand, where Adewuyi (THEORY-tmpt6mee) gave it second-hand. Virtue "presupposes repeated practice and development of skills of moral analysis, deliberation and action", which automation can make redundant "with a resulting devaluation and/or loss of these skills". She draws the claim's consequence in her own terms: the loss "would not be rendered insignificant by the emergence of machines that produce equivalent, or arguably even better outcomes", so equal present outcomes do not settle the evaluation. "Whether any automated technology produces deskilling, then, is an empirical question that depends upon the particular context of use" matches the claim's own scope (not defeated by a technology that does not deskill). Her remedy, automation only where human judgment is "consistently and gravely inadequate" and machines used for upskilling, is capacity-first support in practice. Her supervisor's paradox ("An expert supervisor of another’s decision, in order to be worthy of the authority to override it, must have acquired expertise in making decisions of the very same or a similar kind") is the hand-back in THEORY-1522, Ahn on Bainbridge, in ethics: two independent statements of one structure.
+- **The recheck the reader flagged.** THEORY-1522 already corroborates this claim. NOTE-1612 (procedural skill decay in emergency medicine) is the empirical side of the decay premise; Vallor's "empirical question" is why CASE-tmpf71w4 is needed, and NOTE-1612 is the kind of evidence it would add to. THEORY-343 (laboratory offloading lowers memory for what was offloaded) is about memory, not a skill kept by practice; it bears on the premise only by analogy. No relation from either.
+- **Crawford, the 2017 interview** (THEORY-tmp8m1e4) and **Dijkema's review** (THEORY-tmpnm1gx): support in spirit. "as we do not need our skills and brains to move in our environment, companies have more of our brain to exploit" names skill made unnecessary, as a premise about attention; Dijkema's "competence rests on an apprehension of real features of the world" is what substitution removes. No dynamics; no relation.
+- **Illich, Energy and Equity** (THEORY-tmpyot08): at a level of compulsory instruction "learning by seeing and doing declines", the capacity-by-doing premise in schooling. No dynamics; no relation.
+- **Vallor's Noema essay** (THEORY-tmpt34ma): AI for "the most meaningless tasks in our lives" is a rule for which tasks to hand over, not a trajectory. No relation.
