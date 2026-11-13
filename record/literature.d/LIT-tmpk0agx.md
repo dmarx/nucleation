@@ -1,0 +1,53 @@
+---
+status: Deferred
+status_note: 'registered 2026-11-13 from the exchange "Analyze technological civilization trap" (2026-11-13), not read. No copy was sought; it is left for a reading pass.'
+title: 'Commodities and Capabilities'
+version: 1
+history:
+- version: 1
+  date: '2026-11-13'
+  note: >-
+    Filed, not read, from the exchange "Analyze technological
+    civilization trap" (2026-11-13). Checked on 2026-11-13: not held in
+    record/literature.d by identifier, title or first author. Open
+    Library (works/OL8006981W: North-Holland, 1985; OUP India reprint
+    1999). Crossref has reviews only (10.2307/2232999). `published:` is
+    the first of January 1985. No email address was sent to any service.
+tags:
+- society-and-governance
+- well-being
+date: '2026-11-13'
+published: '1985-01-01'
+url: 'https://openlibrary.org/works/OL8006981W'
+first_author: 'Sen'
+keywords:
+- 'capability approach'
+- 'functionings'
+- 'commodities'
+implementations: []
+summary: >-
+  Amartya Sen (1985). *Commodities and Capabilities*. Amsterdam:
+  North-Holland. Unread here; registered from the exchange "Analyze
+  technological civilization trap" (2026-11-13). The owner asked for Sen
+  to be brought in (U8). The record reads Sen's capability approach
+  through "Equality of What?" (LIT-289), the Stanford and IEP surveys
+  (LIT-283, LIT-284) and THEORY-025, and CLAIM-352 divides his two
+  aspects of freedom along its own line; it did not hold this book. A10
+  cites it for the distinction between functionings and capabilities,
+  which CLAIM-tmp6wuql takes over time. What the exchange says of it is
+  unverified until read.
+---
+<!-- inactive-ok-file: THEORY-025 — Proposed; the record's reading of Sen, cited with its standing -->
+<!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
+
+# Commodities and Capabilities
+
+Amartya Sen (1985). *Commodities and Capabilities*. Amsterdam: North-Holland.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.* A10 §I: "Functionings are the things a person actually manages to be or do ... Capabilities are the genuine opportunities available to that person to achieve different combinations of functionings." Unverified until read.
+
+## Standing in the record
+
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The owner asked for Sen to be brought in (U8). The record reads Sen's capability approach through "Equality of What?" (LIT-289), the Stanford and IEP surveys (LIT-283, LIT-284) and THEORY-025, and CLAIM-352 divides his two aspects of freedom along its own line; it did not hold this book. A10 cites it for the distinction between functionings and capabilities, which CLAIM-tmp6wuql takes over time.

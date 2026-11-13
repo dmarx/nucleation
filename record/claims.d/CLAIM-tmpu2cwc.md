@@ -1,0 +1,91 @@
+---
+status: Proposed
+title: 'Organizations able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than organizations that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit'
+version: 1
+role: thesis
+warrant: empirical
+defeated_if: >-
+  A comparison of organizations matched on resources and on the
+  independence of the evidence they receive (CLAIM-342), some with
+  effective means to revise their governing standards and some with
+  outcome monitoring only, facing problems their inherited standards
+  cannot represent, that finds no difference in how long normatively
+  significant failures persist; or one that finds the difference only
+  because the revising organizations also had better evidence, so that
+  standard revision adds nothing once evidence is matched. Not defeated
+  by a finding that revision adds cost on routine work, which the claim
+  states (CLAIM-665), nor by a revising organization that revises badly,
+  since CLAIM-424 holds that capacity to revise standards is not capacity
+  to revise them well; the claim is about the average effect where the
+  standards are inadequate.
+tags:
+- society-and-governance
+- social-science
+- self-governance
+date: '2026-11-13'
+line:
+- organizational-normativity
+complements:
+- CLAIM-667
+bears_on:
+- QUESTION-128
+summary: >-
+  A's, Proposition D of A20 §XV in the exchange "Analyze technological
+  civilization trap" (2026-11-13), the one part of the exchange's
+  "reflexive conviviality" (A17 §XII, A20 §XVII) that passes the synthesis
+  audit's admission test, by the route of a discriminating prediction. It
+  carries CLAIM-667's prediction for an inquiry record (governance raises
+  the value of a modifiable schema where inherited categories are
+  inadequate) to organizations generally, and keeps CLAIM-665's limit on
+  routine work, as A20 did. The record holds the three achievements a
+  correction needs (CLAIM-523), a duty to keep violations correctable
+  (CLAIM-624) and that corrigibility's value is conditional (CLAIM-520);
+  it holds no comparative prediction for organizations. Empirical and
+  untested. The wording is A's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-624 CLAIM-511 — Proposed; the record's nearest claims, cited with their standing -->
+
+# Organizations able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than organizations that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit
+
+## The claim
+
+A20 §XV, Proposition D, "the reflexive accountability hypothesis":
+
+> **Claim:** Institutions with effective capacities to recognize,
+> authorize, and execute corrections to their own governing standards are
+> better able to avoid persistent normatively significant failures than
+> institutions possessing only conventional outcome-monitoring
+> procedures.
+
+A20 qualified it at once with CLAIM-665, that change governance on routine
+tasks "imposes costs without corresponding benefits": "The relevant
+empirical question is not whether more governance is always better. It is
+**when particular forms of governance improve justified correction enough
+to outweigh their costs and possible unintended consequences**." The claim
+states the scope that qualification implies, CLAIM-667's: tasks whose
+inherited standards are inadequate.
+
+## Why it is filed, and why this form
+
+It is what survives the audit of the exchange's "reflexive conviviality"
+(A17 §XII, A20 §XVII): that a civilization is free only if it keeps the
+processes by which it can re-examine and transform its purposes. As a
+thesis about what freedom is, that asks the record to hold corrigibility
+as a condition of legitimacy, which CLAIM-511 disclaims and CLAIM-520
+makes conditional, and A23 §10 withdrew it to "a possible means of
+legitimacy, not an independently sufficient definition of goodness". The
+narrower sentence that passes is this prediction, which the components
+(CLAIM-523's three achievements, CLAIM-624's duty, CLAIM-667's result for a
+record) leave open and which a comparison could tell against.
+
+## What it does not say
+
+- Not that standard revision is a duty. That is CLAIM-624, with its
+  conditions.
+- Not which standards are justified. A20 §XVI: "Nucleation can describe
+  how a demand acquires organizational efficacy. It cannot establish that
+  the demand ought to acquire that efficacy merely by describing the
+  mechanism." That is QUESTION-128 and QUESTION-129.
+- How "normatively significant" failures are picked out without assuming
+  the standards under test is left to the study's design; a failure
+  defined by the inherited standards would beg the question.

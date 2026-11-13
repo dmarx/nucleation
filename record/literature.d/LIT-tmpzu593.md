@@ -1,0 +1,56 @@
+---
+status: Deferred
+status_note: 'registered 2026-11-13 from the exchange "Analyze technological civilization trap" (2026-11-13), not read. No copy was sought; it is left for a reading pass.'
+title: 'Meaning in Life and Why It Matters'
+version: 1
+history:
+- version: 1
+  date: '2026-11-13'
+  note: >-
+    Filed, not read, from the exchange "Analyze technological
+    civilization trap" (2026-11-13). Checked on 2026-11-13: not held in
+    record/literature.d by identifier, title or first author. Crossref
+    (10.1515/9781400834594, Princeton University Press; JSTOR's record
+    10.2307/j.ctt7t3cm is dated 2010-03-01). `published:` is 2010-03-01,
+    the earliest exact date Crossref gives. No email address was sent to
+    any service.
+tags:
+- well-being
+- ethics
+- motivation
+date: '2026-11-13'
+published: '2010-03-01'
+doi: '10.1515/9781400834594'
+first_author: 'Wolf'
+keywords:
+- 'meaning in life'
+- 'fitting fulfillment'
+- 'subjective attraction'
+- 'objective attractiveness'
+implementations: []
+summary: >-
+  Susan Wolf (2010). *Meaning in Life and Why It Matters*, with
+  commentaries by Koethe, Adams, Arpaly and Haidt. Princeton: Princeton
+  University Press. DOI-10.1515/9781400834594. Unread here; registered
+  from the exchange "Analyze technological civilization trap"
+  (2026-11-13). The owner asked for Wolf to be woven in (U7), and A9
+  made her account of meaning the synthesis's normative centre. The
+  record held her hybrid view only through Hiekel's paper on it
+  (LIT-183, Unavailable) and her work on responsibility (LIT-685,
+  LIT-688, LIT-690, LIT-747), not this book. What the exchange says of
+  it is unverified until read.
+---
+<!-- inactive-ok-file: LIT-685 LIT-688 LIT-690 — Unavailable; Wolf's works on responsibility, cited with their standing -->
+<!-- inactive-ok-file: LIT-183 — Unavailable; Hiekel on Wolf, cited with its standing -->
+
+# Meaning in Life and Why It Matters
+
+Susan Wolf (2010). *Meaning in Life and Why It Matters*, with commentaries by Koethe, Adams, Arpaly and Haidt. Princeton: Princeton University Press. DOI-10.1515/9781400834594.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.* A9 §II: meaning arises "when subjective attraction meets objective attractiveness", with active engagement; A9: "meaningfulness is a distinct dimension of a good life, irreducible to happiness, morality, or the satisfaction of personal preferences". Unverified until read.
+
+## Standing in the record
+
+Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The owner asked for Wolf to be woven in (U7), and A9 made her account of meaning the synthesis's normative centre. The record held her hybrid view only through Hiekel's paper on it (LIT-183, Unavailable) and her work on responsibility (LIT-685, LIT-688, LIT-690, LIT-747), not this book.
