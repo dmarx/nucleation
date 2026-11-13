@@ -115,3 +115,32 @@ than any participant can bear.
 - **Illich, Energy and Equity** ([THEORY-tmpyot08](../theory.d/THEORY-tmpyot08.md)): qualifies it from the side of who decides. Limits come through "juridical and, above all, to political process", by "provisional" measures, and the threshold "can be pinpointed by social analysis", which favours deciding before lock-in. No burden rule. No relation.
 - **Vallor, CyCon 2013** ([THEORY-tmpm76rc](../theory.d/THEORY-tmpm76rc.md)): support in spirit; moral skill lost when practice stops is hard to restore, a reason for restraint before deployment. No relation.
 - **Vallor's Noema essay** ([THEORY-tmpt34ma](../theory.d/THEORY-tmpt34ma.md)) and **Lanier's excerpt** ([THEORY-tmpl7lm5](../theory.d/THEORY-tmpl7lm5.md)): leave it open. "I don’t think it is too late" assumes reversibility; "I hope will not be locked in" presupposes the irreversibility the claim prices.
+
+## Note of 2026-11-13: CLAIM-605's model and the reading "go gradually" (the assistant's)
+
+A filer's idea, accepted by the owner on 2026-11-13, was that CLAIM-605
+(Active, demonstrated) cuts against reading this claim as "go gradually".
+Checked in CLAIM-605's model (its note of this date gives the numbers and
+scratch/formal/capability_trap_reversibility.py asserts them), for support
+that does work through which a capacity is kept:
+
+- **Exit.** A slow taper of substitutive support is the irreversible path;
+  an abrupt cut leaves a recoverable shortfall. This claim, which prices
+  irreversibility and not speed, therefore favours the abrupt cut there.
+  The tension is with the gloss, not with the claim.
+- **Entry.** A gradual phase-in stays reversible much longer (8.52 time
+  units against 3.10 in the model), so gradualism is right on adoption.
+- **Pilots.** A13 §VIII pairs this claim with "pilot programs, independent
+  evaluation, meaningful appeals". In the model a pilot of substitutive
+  support is reversible only until a deadline, and the room for a gentle
+  exit shrinks as it runs. A pilot needs a clock as well as an evaluation:
+  one evaluated after its deadline has tested a choice already
+  irreversible.
+- **Size and irreversibility.** Below a share of the work of about 0.585,
+  substitution in the model has no deadline at all; above it, any duration
+  long enough is irreversible. The two factors this claim scales by need
+  not be independent.
+
+This bears on the claim's application, not its truth; the claim's
+`defeated_if` is not met. Status unchanged. The note is the assistant's
+(Claude, in this session); adopting it is the owner's call.

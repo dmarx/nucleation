@@ -85,6 +85,7 @@ summary: >-
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpsmg1c — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
 <!-- inactive-ok-file: CASE-tmpf71w4 CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 
@@ -185,3 +186,43 @@ technology produces such decline." Two entries were filed from it:
 same present capabilities can leave different capabilities later, and
 [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md), a proposed study of whether the trap holds for a human
 skill. No change.
+
+## Note of 2026-11-13: what this model says about a reversibility principle read as "go gradually" (the assistant's)
+
+One of the filer's own ideas from the exchange "Analyze technological
+civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), accepted by the owner on 2026-11-13, was that this
+claim's second result cuts against reading CLAIM-tmpsmg1c's reversibility
+principle, that the burden of justification rises with the size and
+irreversibility of a narrowing, as "go gradually". It was checked in this
+claim's model, with its parameters, by
+scratch/formal/capability_trap_reversibility.py, which asserts every number
+below (run with `python3 -I`).
+
+- **On exit, the tension holds, and the principle survives it.** A slow
+  taper of substitutive support is the irreversible path (result 2 above).
+  But the principle prices irreversibility, not speed: on its own terms it
+  favours the abrupt cut, whose cost is a recoverable service shortfall.
+  What fails is the gloss "go gradually", not the principle.
+- **On entry, gradualism helps.** Support phased in linearly from none to
+  full stays reversible by an abrupt cut at the end of the ramp for any
+  ramp up to 8.52 time units, against 3.10 for full support from the start.
+  In this model gradual is right on adoption and wrong on exit.
+- **Reversibility runs down while a pilot runs.** A pilot of full
+  substitution is reversible by an abrupt cut until 3.10. The longest exit
+  taper that still recovers shrinks as the pilot runs: 13.92 after no
+  pilot, 9.67 after 1 unit, 5.17 after 2, 2.84 after 2.5, 0.46 after 3. A
+  pilot evaluated after its deadline has evaluated a choice that is no
+  longer reversible, and a long pilot wound down gently can trap a party
+  that an abrupt end would not.
+- **Size can set irreversibility, not only add to it.** Substitution at a
+  constant share a below a* = 1 − μ/(1 − C_LOW) = 0.585 has no deadline:
+  capacity settles lower and recovers on withdrawal however long it ran.
+  Above a*, there is a deadline, as for full substitution, and support
+  kept long enough is irreversible.
+
+The numbers are demonstrated in the model; the parameters are invented,
+and the bearing on CLAIM-tmpsmg1c holds only for support of a capacity
+learned by doing that decays with disuse. Nothing here changes this
+claim, which already states the taper result; the other three are new. The
+note is the assistant's (Claude, in this session); adopting it is the
+owner's call.

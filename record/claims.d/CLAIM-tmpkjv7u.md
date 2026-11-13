@@ -66,6 +66,7 @@ summary: >-
   worked case of all three conditions ([THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md)). Interpretive.
   The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpub743 CLAIM-tmpwgiwq — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: THEORY-tmp8m1e4 THEORY-tmpyot08 THEORY-tmpvlt2n THEORY-tmpnm1gx THEORY-tmpt34ma — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: ARG-tmpsh7he THEORY-tmp5hgen THEORY-tmpbgf6v THEORY-tmpclnon THEORY-tmpnydju THEORY-tmpo6ipc THEORY-tmpq29mb THEORY-tmpxwo9k THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmph5wwv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -188,3 +189,21 @@ the arrangement itself is not assumed to owe or to dominate anything, as
 - **Illich, Energy and Equity** ([THEORY-tmpyot08](../theory.d/THEORY-tmpyot08.md), [NOTE-tmp0cqdl](../notes.d/NOTE-tmp0cqdl.md)). Bounds it, beside the excerpt of Tools for Conviviality ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md)): radical monopoly is "hidden, entrenched, and structuring", a dependence no one holds, outside the claim's test since version 2 ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md)). Illich's shoe case straddles the boundary: the industry holds no discretion, but "Teachers or party officials" who deny access to the barefoot do.
 - **Winner** ([THEORY-tmpvlt2n](../theory.d/THEORY-tmpvlt2n.md)): consistent with the narrowing, no relation. The bomb's "centralized, rigidly hierarchical chain of command" is authority inside a system, not discretion over dependents outside it; practical necessity ("Fine, but that’s no way to run a railroad") is how accountability erodes, which bears on the third condition; the tomato harvester's concentration, which no one intended, is the impersonal constraint the claim puts outside its test.
 - **Dijkema's review** ([THEORY-tmpnm1gx](../theory.d/THEORY-tmpnm1gx.md)) and **Vallor's Noema essay** ([THEORY-tmpt34ma](../theory.d/THEORY-tmpt34ma.md)): leave it open; "monopolized attention" is market power over attention, and the ideology Vallor names is impersonal.
+
+## Note of 2026-11-13: the third condition in the record's terms, and a scaling rule
+
+- **CLAIM-tmpub743** (the assistant's) checks whether the third condition
+  is the failure of CLAIM-523's legibility, volitional efficacy or
+  correctability for the dependent's claims. In part: such a failure at the
+  controllers leaves the dependent without effective influence and
+  challenge, and at every party able to constrain them without
+  protection, but CLAIM-523 states necessity only, so the converse is not
+  derived, and justified withdrawal is exit, which none of the three
+  covers. On the natural reading of "lacks effective means of protection,
+  influence, challenge or justified withdrawal", as lacking all four, the
+  condition also needs exit to fail.
+- **CLAIM-tmpwgiwq** (A's, from A13 §VI.3) puts a slope beside this
+  threshold: the accountability owed rises with how indispensable the
+  arrangement has become, the first condition.
+
+Status, title and version unchanged.
