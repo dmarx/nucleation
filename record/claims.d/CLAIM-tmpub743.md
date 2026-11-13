@@ -37,11 +37,11 @@ summary: >-
   "Analyze technological civilization trap" (2026-11-13), offered as "the
   threshold in the record's own terms" and accepted by the owner on
   2026-11-13 ("file the still unfiled stuff"). The idea was that
-  CLAIM-tmpkjv7u's third condition, inadequate accountability, could be
-  restated as the failure of CLAIM-523's legibility, volitional efficacy or
+  [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)'s third condition, inadequate accountability, could be
+  restated as the failure of [CLAIM-523](CLAIM-523.md)'s legibility, volitional efficacy or
   correctability for the dependent party's claims, and that this held
   nearly by definition. Checked against both entries, it holds only in
-  part. CLAIM-523 states the three as needed, not as sufficient, so a
+  part. [CLAIM-523](CLAIM-523.md) states the three as needed, not as sufficient, so a
   failure of any one, for the dependent's claims, entails that the
   dependent lacks effective influence and challenge; the converse does not
   follow. Protection is the same failure at a third party able to
@@ -60,18 +60,18 @@ summary: >-
 ## The idea, and what was checked
 
 The filer of the exchange "Analyze technological civilization trap"
-(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) offered, among its own ideas: "CLAIM-tmpkjv7u's
-third condition could be restated as the failure of CLAIM-523's
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) offered, among its own ideas: "[CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)'s
+third condition could be restated as the failure of [CLAIM-523](CLAIM-523.md)'s
 legibility, efficacy or correctability for the dependent party's claims.
 That ties the threshold to the existing line. It is close to demonstrated
 by definition." This entry is the check.
 
-**CLAIM-tmpkjv7u** (version 3), third condition: "the dependent lacks
+**[CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)** (version 3), third condition: "the dependent lacks
 effective means of protection, influence, challenge or justified
-withdrawal". **CLAIM-523** (Active): "For a normatively relevant
+withdrawal". **[CLAIM-523](CLAIM-523.md)** (Active): "For a normatively relevant
 discrepancy to change what an organization does, three distinct
-achievements are needed": legibility (TERM-064), volitional efficacy
-(TERM-023) and correctability (TERM-085). Its defeater is a discrepancy that
+achievements are needed": legibility ([TERM-064](../terms.d/TERM-064.md)), volitional efficacy
+([TERM-023](../terms.d/TERM-023.md)) and correctability ([TERM-085](../terms.d/TERM-085.md)). Its defeater is a discrepancy that
 changes the organization's behaviour without one of the three. It states
 necessity only.
 
@@ -84,24 +84,24 @@ discrepancy for O.
 
 1. **Influence and challenge.** A means of influence or challenge is
    effective when the dependent's claim can change what O does. By
-   CLAIM-523, that needs the claim to be legible to O, to gain volitional
+   [CLAIM-523](CLAIM-523.md), that needs the claim to be legible to O, to gain volitional
    efficacy in O and to be correctable in O. So if any of the three fails
    for the dependent's claims, those claims cannot change what O does, and
    the dependent lacks effective influence and challenge through them.
-   The converse does not follow: CLAIM-523 does not say the three suffice,
+   The converse does not follow: [CLAIM-523](CLAIM-523.md) does not say the three suffice,
    so the record cannot derive a failure of one of them from a lack of
    effective influence.
 2. **Protection.** Protection runs through a third party P able to
    constrain O: a court, a regulator, a union. It is effective when the
    dependent's claim can change what P does and P's action can change what
-   O does. Each step is a discrepancy for an organization, so by CLAIM-523 a
+   O does. Each step is a discrepancy for an organization, so by [CLAIM-523](CLAIM-523.md) a
    failure of any of the three, at P for the dependent's claim or at O for
    P's demand, makes that route ineffective; failure on every such P leaves
    no effective protection. The same one-way caveat holds.
 3. **Justified withdrawal.** Withdrawal is exit. It needs no organization
    to recognize, authorize or carry out a revision; it needs an
-   alternative the dependent can take, which is what CLAIM-tmpbypt7 measures
-   (what remains open to a non-adopter). None of CLAIM-523's achievements
+   alternative the dependent can take, which is what [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md) measures
+   (what remains open to a non-adopter). None of [CLAIM-523](CLAIM-523.md)'s achievements
    bears on it.
 
 **So.** On the natural reading of the third condition, that the dependent
@@ -116,23 +116,23 @@ Either way the restatement covers voice, and only in one direction.
 ## What the idea gets right, and what it adds
 
 The threshold is tied to the existing line on the side of voice: the
-inadequate accountability of CLAIM-tmpkjv7u, so far as it is a matter of
+inadequate accountability of [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md), so far as it is a matter of
 influence, challenge and protection, is a failure somewhere of what
-CLAIM-523 says a demand needs, and so can be diagnosed path by path, which
-CASE-tmpbjaiq's clinicians' objection illustrates. What it adds to both
+[CLAIM-523](CLAIM-523.md) says a demand needs, and so can be diagnosed path by path, which
+[CASE-tmpbjaiq](../cases.d/CASE-tmpbjaiq.md)'s clinicians' objection illustrates. What it adds to both
 entries is the split: voice through O, voice through P, and exit, of which
 the record's account of normative efficacy covers the first two.
 
-CLAIM-624's duty of answerability, to keep violations "knowable,
+[CLAIM-624](CLAIM-624.md)'s duty of answerability, to keep violations "knowable,
 contestable and correctable", is the duty whose breach produces failures
 1 and 2. A23 of the exchange tied the third condition's "sufficiently
-effective" to it, as CLAIM-tmpkjv7u notes. It does not mention exit either.
-CLAIM-tmpwgiwq's protections divide the same way: contestability and
+effective" to it, as [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md) notes. It does not mention exit either.
+[CLAIM-tmpwgiwq](CLAIM-tmpwgiwq.md)'s protections divide the same way: contestability and
 accountability are voice, portability and interoperability are exit.
 
 ## What it does not say
 
-- Not that CLAIM-tmpkjv7u is wrong. It is a claim about which part of its
+- Not that [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md) is wrong. It is a claim about which part of its
   third condition the record's three achievements reach.
 - Not that exit is a substitute for voice. A dependence with good exit and
   no voice is outside the threshold as A stated it; whether it should be is

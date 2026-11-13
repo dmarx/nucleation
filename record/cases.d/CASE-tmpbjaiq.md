@@ -23,12 +23,12 @@ summary: >-
   system". The first filing left it as a worked example that illustrates.
   It carries a test, so it is filed as a case: aggregate success ("By
   conventional measures, the organization has improved substantially")
-  settles none of six relationships, which is CLAIM-060; and the deeper
+  settles none of six relationships, which is [CLAIM-060](../claims.d/CLAIM-060.md); and the deeper
   test asks of one justified objection, raised by clinicians and then by
   patients or low-status workers, whether it becomes legible, gains
-  authority and is corrected, which is CLAIM-523 applied party by party,
-  and the voice half of CLAIM-tmpub743. It is A's illustration of
-  cross-scale concordance relative to declared parties (TERM-tmpt8p9e).
+  authority and is corrected, which is [CLAIM-523](../claims.d/CLAIM-523.md) applied party by party,
+  and the voice half of [CLAIM-tmpub743](../claims.d/CLAIM-tmpub743.md). It is A's illustration of
+  cross-scale concordance relative to declared parties ([TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md)).
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpub743 TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -73,7 +73,7 @@ system. A's questions:
 > Would its procedures preserve the same capacity if the objection came
 > from patients or low-status workers?
 
-The first three are CLAIM-523's legibility, volitional efficacy and
+The first three are [CLAIM-523](../claims.d/CLAIM-523.md)'s legibility, volitional efficacy and
 correctability, asked of one objection. The fourth asks them again with the
 party changed, which is what makes it a test of the organization and not of
 the objection: an organization can pass for clinicians and fail for
@@ -81,15 +81,15 @@ contractors.
 
 ## What it shows, and what it does not
 
-- **Illustrates CLAIM-060**: "aggregate success cannot settle any one of
+- **Illustrates [CLAIM-060](../claims.d/CLAIM-060.md)**: "aggregate success cannot settle any one of
   these relationships". The case stipulates success and leaves each
   relationship open.
-- **Illustrates CLAIM-523** and **CLAIM-tmpub743**: the objection's route to
+- **Illustrates [CLAIM-523](../claims.d/CLAIM-523.md)** and **[CLAIM-tmpub743](../claims.d/CLAIM-tmpub743.md)**: the objection's route to
   effect can fail at each of three points, and a failure at any of them,
   for a party's claims, leaves that party without effective voice. Exit
   (for patients, another hospital; for clinicians, another employer) is
-  outside the test, as CLAIM-tmpub743 says it is outside the three.
-- **Bears on QUESTION-461**: the contractors are indispensable contributors
+  outside the test, as [CLAIM-tmpub743](../claims.d/CLAIM-tmpub743.md) says it is outside the three.
+- **Bears on [QUESTION-461](../questions.d/QUESTION-461.md)**: the contractors are indispensable contributors
   whose contributions do not become claims; whether that is unjust is
-  QUESTION-tmpkefdg.
+  [QUESTION-tmpkefdg](../questions.d/QUESTION-tmpkefdg.md).
 - It is stipulated and settles no fact about any hospital.

@@ -17,10 +17,10 @@ summary: >-
   credible opportunities for refusal and participation, then stronger
   capabilities, then more accountable and adaptable institutions, and
   round again, the reverse of the ratchet by which adoption narrows
-  alternatives (CLAIM-tmpbypt7). A offers it as "A proposed reinforcing
+  alternatives ([CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)). A offers it as "A proposed reinforcing
   process" that "would depend on supportive economic and political
   conditions rather than occurring automatically", and states no
-  condition. CLAIM-600 says what such a loop would need if it is to keep
+  condition. [CLAIM-600](../claims.d/CLAIM-600.md) says what such a loop would need if it is to keep
   going once the support that started it is withdrawn: a process that
   keeps itself going on an available flux, started past its threshold. So
   it is filed as a question, not a claim. The loop is A's; adopting it is
@@ -50,17 +50,17 @@ conditions rather than occurring automatically."
 The loop is a hypothesis with each link asserted and no condition stated.
 The record has the machinery to ask the right thing of it:
 
-- **CLAIM-600** (Active): transient support can be withdrawn safely only if
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (Active): transient support can be withdrawn safely only if
   it started a process that keeps itself going on a flux that will stay
   available, carried the party past any threshold that process has,
   outlasted the threat, and left the work to the party throughout. A
   positive loop of capabilities is such a process, or it is not
   self-reinforcing.
-- **CLAIM-605** (Active): where capacity needs capacity to grow there is a
+- **[CLAIM-605](../claims.d/CLAIM-605.md)** (Active): where capacity needs capacity to grow there is a
   threshold below which no support that only covers the shortfall can lift
   it. The loop's first link, security, is the support; whether it lifts or
   only covers is the question.
-- **CLAIM-tmp09pjt**: the capacity to govern an arrangement can be eroded by
+- **[CLAIM-tmp09pjt](../claims.d/CLAIM-tmp09pjt.md)**: the capacity to govern an arrangement can be eroded by
   the arrangement. The loop's last link runs the opposite way, and the two
   cannot both dominate in the same place.
 
@@ -75,6 +75,6 @@ The record has the machinery to ask the right thing of it:
 
 ## Bears on
 
-CLAIM-tmph4j5r (time, A's third link), CLAIM-tmpwgiwq (accountability,
+[CLAIM-tmph4j5r](../claims.d/CLAIM-tmph4j5r.md) (time, A's third link), [CLAIM-tmpwgiwq](../claims.d/CLAIM-tmpwgiwq.md) (accountability,
 the fourth), and the transient-support line's question of when support can
 end.

@@ -192,17 +192,17 @@ the arrangement itself is not assumed to owe or to dominate anything, as
 
 ## Note of 2026-11-13: the third condition in the record's terms, and a scaling rule
 
-- **CLAIM-tmpub743** (the assistant's) checks whether the third condition
-  is the failure of CLAIM-523's legibility, volitional efficacy or
+- **[CLAIM-tmpub743](CLAIM-tmpub743.md)** (the assistant's) checks whether the third condition
+  is the failure of [CLAIM-523](CLAIM-523.md)'s legibility, volitional efficacy or
   correctability for the dependent's claims. In part: such a failure at the
   controllers leaves the dependent without effective influence and
   challenge, and at every party able to constrain them without
-  protection, but CLAIM-523 states necessity only, so the converse is not
+  protection, but [CLAIM-523](CLAIM-523.md) states necessity only, so the converse is not
   derived, and justified withdrawal is exit, which none of the three
   covers. On the natural reading of "lacks effective means of protection,
   influence, challenge or justified withdrawal", as lacking all four, the
   condition also needs exit to fail.
-- **CLAIM-tmpwgiwq** (A's, from A13 §VI.3) puts a slope beside this
+- **[CLAIM-tmpwgiwq](CLAIM-tmpwgiwq.md)** (A's, from A13 §VI.3) puts a slope beside this
   threshold: the accountability owed rises with how indispensable the
   arrangement has become, the first condition.
 

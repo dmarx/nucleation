@@ -22,14 +22,14 @@ summary: >-
   decisively progress and the second as "a tremendous advance in human
   freedom", because it "judges technology by the forms of life and
   distributions of power it makes possible—not simply by its
-  complexity". QUESTION-tmpvpq3r asks for a statement of the standard
+  complexity". [QUESTION-tmpvpq3r](../questions.d/QUESTION-tmpvpq3r.md) asks for a statement of the standard
   against which some outcome would count; this pair is a test any such
   statement must pass, and it separates the standard from growth and
   from anti-dependence. It does not show how the standard weighs a case
   where its own parts conflict. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmph4j5r — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpkjv7u CLAIM-tmph4j5r — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # CASE-tmpkqwn1: Regressive progress, a stipulated pair: an innovation that raises national output by fifteen per cent while raising economic insecurity, concentrating institutional power and reducing workers' room for independent judgment, and a medical advance that needs complex infrastructure and adds dependence while greatly reducing suffering; a standard of progress is tested by whether it ranks the first below and the second above
 
@@ -61,7 +61,7 @@ Three standards, and how each ranks the pair:
 |---|---|---|
 | growth of output | progress | progress, if output rises |
 | less dependence | neutral or progress | regress |
-| A's standard (QUESTION-tmpvpq3r) | not decisively progress | progress |
+| A's standard ([QUESTION-tmpvpq3r](../questions.d/QUESTION-tmpvpq3r.md)) | not decisively progress | progress |
 
 A statement of A's standard passes the test if it ranks the pair as A
 does, for reasons it states. The pair separates that standard from growth
@@ -74,9 +74,9 @@ anti-industrialism, localism, or nostalgia".
 - How the standard weighs its own parts against one another. In both
   innovations its parts agree; a case where substantive freedom rises and
   non-domination falls would be needed for that, which is
-  QUESTION-tmpvpq3r's second half.
+  [QUESTION-tmpvpq3r](../questions.d/QUESTION-tmpvpq3r.md)'s second half.
 - Whether the first innovation's dependence is domination. That is
-  CLAIM-tmpkjv7u's test, and the case stipulates concentration, not
+  [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s test, and the case stipulates concentration, not
   discretion over dependents.
 
 ## A's progress dashboard
@@ -87,5 +87,5 @@ competence, sovereign time, social relationships, ecological
 sustainability, democratic agency) and refuses "a single master index":
 "The purpose of evaluation is to make tradeoffs visible, not pretend they
 have disappeared." The dashboard is a candidate answer to how the parts are
-weighed; it is recorded in a dated note on QUESTION-tmpvpq3r, and its
-"sovereign time" is CLAIM-tmph4j5r.
+weighed; it is recorded in a dated note on [QUESTION-tmpvpq3r](../questions.d/QUESTION-tmpvpq3r.md), and its
+"sovereign time" is [CLAIM-tmph4j5r](../claims.d/CLAIM-tmph4j5r.md).

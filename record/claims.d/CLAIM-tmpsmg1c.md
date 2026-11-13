@@ -116,11 +116,11 @@ than any participant can bear.
 - **Vallor, CyCon 2013** ([THEORY-tmpm76rc](../theory.d/THEORY-tmpm76rc.md)): support in spirit; moral skill lost when practice stops is hard to restore, a reason for restraint before deployment. No relation.
 - **Vallor's Noema essay** ([THEORY-tmpt34ma](../theory.d/THEORY-tmpt34ma.md)) and **Lanier's excerpt** ([THEORY-tmpl7lm5](../theory.d/THEORY-tmpl7lm5.md)): leave it open. "I don’t think it is too late" assumes reversibility; "I hope will not be locked in" presupposes the irreversibility the claim prices.
 
-## Note of 2026-11-13: CLAIM-605's model and the reading "go gradually" (the assistant's)
+## Note of 2026-11-13: [CLAIM-605](CLAIM-605.md)'s model and the reading "go gradually" (the assistant's)
 
-A filer's idea, accepted by the owner on 2026-11-13, was that CLAIM-605
+A filer's idea, accepted by the owner on 2026-11-13, was that [CLAIM-605](CLAIM-605.md)
 (Active, demonstrated) cuts against reading this claim as "go gradually".
-Checked in CLAIM-605's model (its note of this date gives the numbers and
+Checked in [CLAIM-605](CLAIM-605.md)'s model (its note of this date gives the numbers and
 scratch/formal/capability_trap_reversibility.py asserts them), for support
 that does work through which a capacity is kept:
 

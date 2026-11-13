@@ -71,38 +71,38 @@ components, so none is filed on its own.
   index": "The purpose of evaluation is to make tradeoffs visible, not
   pretend they have disappeared." It is a candidate for this question's
   second half that declines to answer it. Sen's partial ordering
-  (THEORY-411) goes further, ranking where every admissible weighting
+  ([THEORY-411](../theory.d/THEORY-411.md)) goes further, ranking where every admissible weighting
   agrees; the dashboard does not say whether it would. A13 §VIII's
   "Convivial Assessment" (seven dimensions, "We should not combine these
   into a single universal score") and A11 §35 ("not the replacement of
   philosophy with a dashboard") take the same position. Its "regressive
-  progress" pair is filed as CASE-tmpkqwn1, a test any statement of the
-  standard must pass; its "sovereign time" as CLAIM-tmph4j5r.
+  progress" pair is filed as [CASE-tmpkqwn1](../cases.d/CASE-tmpkqwn1.md), a test any statement of the
+  standard must pass; its "sovereign time" as [CLAIM-tmph4j5r](../claims.d/CLAIM-tmph4j5r.md).
 - **A9 §X, the three ideals**: agency, meaningful engagement and
   non-domination, which "complement one another, but none can substitute
   for the others": "Agency without meaningful engagement risks becoming
   mere optionality. Meaningful engagement without agency risks becoming
   imposed purpose." These are the standard's three parts as this
-  question's title names them, with CLAIM-tmp58u4k and CLAIM-tmpfyxes for
+  question's title names them, with [CLAIM-tmp58u4k](../claims.d/CLAIM-tmp58u4k.md) and [CLAIM-tmpfyxes](../claims.d/CLAIM-tmpfyxes.md) for
   the two failures.
 - **A11 Part XIV, the ten theses**: (1) the primacy of human ends, this
-  question's standard; (2) substantive freedom, CLAIM-352 and Sen's reading
-  THEORY-tmpockqy; (3) meaningful engagement, THEORY-tmp4ajaz and
-  CLAIM-tmp58u4k; (4) relational human nature, CLAIM-603's reciprocity
-  and Fineman's reading THEORY-1818; (5) non-domination, CLAIM-tmpkjv7u;
-  (6) technological contestability, CLAIM-tmpwgiwq; (7) the value of human
-  participation, CLAIM-tmp6yhlh; (8) pluralism and humility, CLAIM-tmpfyxes;
-  (9) restraint, CLAIM-tmpwvg2o and TERM-tmpexetd; (10) progress as
+  question's standard; (2) substantive freedom, [CLAIM-352](../claims.d/CLAIM-352.md) and Sen's reading
+  [THEORY-tmpockqy](../theory.d/THEORY-tmpockqy.md); (3) meaningful engagement, [THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md) and
+  [CLAIM-tmp58u4k](../claims.d/CLAIM-tmp58u4k.md); (4) relational human nature, [CLAIM-603](../claims.d/CLAIM-603.md)'s reciprocity
+  and Fineman's reading [THEORY-1818](../theory.d/THEORY-1818.md); (5) non-domination, [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md);
+  (6) technological contestability, [CLAIM-tmpwgiwq](../claims.d/CLAIM-tmpwgiwq.md); (7) the value of human
+  participation, [CLAIM-tmp6yhlh](../claims.d/CLAIM-tmp6yhlh.md); (8) pluralism and humility, [CLAIM-tmpfyxes](../claims.d/CLAIM-tmpfyxes.md);
+  (9) restraint, [CLAIM-tmpwvg2o](../claims.d/CLAIM-tmpwvg2o.md) and [TERM-tmpexetd](../terms.d/TERM-tmpexetd.md); (10) progress as
   expanded possibility, this question's standard again. A11 Part XV's
   "statement of first principles" restates the ten theses as prose.
 - **A8 §I, the anthropology**: human beings as agents and not consumers of
-  experiences (CLAIM-tmp58u4k), constitutively social (CLAIM-603,
-  THEORY-1818), shaped by their environments (Marcuse, THEORY-tmpoxssh),
+  experiences ([CLAIM-tmp58u4k](../claims.d/CLAIM-tmp58u4k.md)), constitutively social ([CLAIM-603](../claims.d/CLAIM-603.md),
+  [THEORY-1818](../theory.d/THEORY-1818.md)), shaped by their environments (Marcuse, [THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md)),
   embodied and finite (no entry; a premise, not a claim), and with
-  irreducibly plural flourishing (CLAIM-tmpfyxes).
+  irreducibly plural flourishing ([CLAIM-tmpfyxes](../claims.d/CLAIM-tmpfyxes.md)).
 - **A9 §VIII, the institutional table**: for education, work, technology,
   culture, economy and community, an agency-centred concern and "Wolf's
-  additional concern". Its conclusion is CLAIM-tmpfyxes: "Institutions can
+  additional concern". Its conclusion is [CLAIM-tmpfyxes](../claims.d/CLAIM-tmpfyxes.md): "Institutions can
   cultivate the conditions for meaningful engagement, but they cannot
   legitimately guarantee meaning by imposing particular commitments."
 - **A10 §VII, the four questions of progress** (capability, meaning,
@@ -110,11 +110,11 @@ components, so none is filed on its own.
 - **A20 §XII, the six layers** (realizability, governance, reflexivity,
   legitimacy, substantive freedom, flourishing): "distinct questions, not a
   claim that each necessarily causes the next". Its non-inferences are held:
-  ability does not establish authority (CLAIM-349's access, authority and
-  action), authority does not establish legitimacy (CLAIM-523: none of its
+  ability does not establish authority ([CLAIM-349](../claims.d/CLAIM-349.md)'s access, authority and
+  action), authority does not establish legitimacy ([CLAIM-523](../claims.d/CLAIM-523.md): none of its
   achievements "establishes that the demand or the revision is
-  justified"), opportunities do not guarantee engagement (CLAIM-tmp58u4k),
+  justified"), opportunities do not guarantee engagement ([CLAIM-tmp58u4k](../claims.d/CLAIM-tmp58u4k.md)),
   and an organization's success does not establish its constituents'
-  well-being (CLAIM-060).
+  well-being ([CLAIM-060](../claims.d/CLAIM-060.md)).
 
 The question is unchanged.

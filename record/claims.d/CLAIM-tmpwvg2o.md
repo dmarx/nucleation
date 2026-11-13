@@ -37,9 +37,9 @@ summary: >-
   §XI then give "the competitive necessity problem": a society that
   restrains itself "could become increasingly dependent" on societies
   that do not. Put together, the claim places the capacity to decline in
-  the competition, not in the collective. CLAIM-tmpbypt7's competitive
+  the competition, not in the collective. [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md)'s competitive
   mechanism is the same thing one scale down, for a person among firms
-  or peers; CLAIM-457 says coordinated parties can do what none can alone,
+  or peers; [CLAIM-457](CLAIM-457.md) says coordinated parties can do what none can alone,
   which is A's first response. Interpretive. Filed on 2026-11-13 from the
   items the first filing left. The wording is A's; adopting it is the
   owner's call.
@@ -61,7 +61,7 @@ important goods. This makes restraint a form of agency rather than its
 negation." A collective that cannot decline any feasible development
 "because competition or institutional inertia makes adoption unavoidable
 possesses enormous instrumental power but limited collective
-self-direction". In the record's terms that is CLAIM-545: control of
+self-direction". In the record's terms that is [CLAIM-545](CLAIM-545.md): control of
 outcomes falls short of governance of one's own governability, and
 directing one's transitions includes not taking one.
 
@@ -83,7 +83,7 @@ therefore cannot rely on unilateral restraint alone."
 take away each competitor's ability to decline, then a collective's
 self-direction over a technology is not settled by its own organization.
 It depends on the competition, and where it exists it is a property of the
-competitors together: of their coordination, which CLAIM-457 says can
+competitors together: of their coordination, which [CLAIM-457](CLAIM-457.md) says can
 achieve what none can achieve alone, and which may fail.
 
 ## A's three responses, and where they sit
@@ -92,13 +92,13 @@ A8 §IX offers three responses:
 
 - **Coordinated restraint**: "common standards that reduce incentives to
   pursue destructive strategies". This is the coordination the claim
-  locates the capacity in; CLAIM-457 is the record's general form.
+  locates the capacity in; [CLAIM-457](CLAIM-457.md) is the record's general form.
 - **Selective technological ambition**: investing in some technologies
   while "constraining technologies primarily designed for intrusive
   surveillance or manipulation". This narrows which declinings are needed;
   it does not remove the problem for those.
 - **Institutional adaptability**: institutions that "continually assess,
-  contest, and redirect" competition's effects. This is CLAIM-tmpu2cwc's
+  contest, and redirect" competition's effects. This is [CLAIM-tmpu2cwc](CLAIM-tmpu2cwc.md)'s
   reflexive institutions applied to the competition.
 
 A concedes the remainder in each version: "there may be cases where
@@ -108,16 +108,16 @@ security or essential services" (A8 §IX), "Even these may not be enough"
 
 ## How it sits with the record
 
-- **CLAIM-tmpbypt7**: adoption becomes practically compulsory for a person
+- **[CLAIM-tmpbypt7](CLAIM-tmpbypt7.md)**: adoption becomes practically compulsory for a person
   through infrastructure, competition and culture. This claim is the
   competitive mechanism at the scale of collectives, and is about their
-  self-direction, not about the options of a non-adopter. ARG-tmp7y8r4
+  self-direction, not about the options of a non-adopter. [ARG-tmp7y8r4](../arguments.d/ARG-tmp7y8r4.md)
   found that Arthur's lock-in model does not support the competitive
   mechanism; nothing here leans on that model.
-- **CLAIM-tmpsmg1c** raises the burden of justification with
+- **[CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md)** raises the burden of justification with
   irreversibility. Under competition the burden may fall on the competitors
   jointly, since none of them can carry the alternative alone.
-- **TERM-tmpexetd**: what restraint protects, on A's account, includes
+- **[TERM-tmpexetd](../terms.d/TERM-tmpexetd.md)**: what restraint protects, on A's account, includes
   value-constituting limits.
 
 ## What it does not say

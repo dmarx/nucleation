@@ -17,7 +17,7 @@ summary: >-
   reproduced by its governing mechanisms is persistently misaligned with
   the purposes its constituents would endorse under an appropriate
   procedure of informed evaluation." The first filing recorded it on
-  CLAIM-030 as that claim with its evaluative standard left as a
+  [CLAIM-030](../claims.d/CLAIM-030.md) as that claim with its evaluative standard left as a
   parameter, "an appropriate procedure". The exchange does not fix the
   parameter, so it is filed as the question of what fixes it. The term is
   A's; adopting it is the owner's call.
@@ -36,7 +36,7 @@ A20 §I of the exchange (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb
 > misaligned with the purposes its constituents would endorse under an
 > appropriate procedure of informed evaluation.
 
-The descriptive half is held: CLAIM-030 (Active) says an organized whole's
+The descriptive half is held: [CLAIM-030](../claims.d/CLAIM-030.md) (Active) says an organized whole's
 operative intention "is produced by systemic mechanisms that can evolve
 apart from what the members intend". What A adds is a comparison with what
 the members "would endorse under an appropriate procedure", and A does not
@@ -56,15 +56,15 @@ trajectory diverges from some idealized endorsement.
   which it finds a divergence that a weaker or stronger procedure would
   not, so the choice matters and is made.
 - **Relativization.** An argument that the procedure is a declared
-  parameter, as TERM-tmpt8p9e makes the parties, claims and horizon of
+  parameter, as [TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md) makes the parties, claims and horizon of
   concordance, with what then counts as finding a divergence.
 - **Or a dissolution.** An argument that "would endorse" adds nothing to
-  CLAIM-030 that a declared evaluative standard does not, so that the
-  question is QUESTION-tmpvpq3r's in another form.
+  [CLAIM-030](../claims.d/CLAIM-030.md) that a declared evaluative standard does not, so that the
+  question is [QUESTION-tmpvpq3r](QUESTION-tmpvpq3r.md)'s in another form.
 
 ## Bears on
 
-CLAIM-030, which it would extend from intention to evaluation; CLAIM-424 and
-TERM-tmplqaer, since the procedure may be the reflexive capacity those
+[CLAIM-030](../claims.d/CLAIM-030.md), which it would extend from intention to evaluation; [CLAIM-424](../claims.d/CLAIM-424.md) and
+[TERM-tmplqaer](../terms.d/TERM-tmplqaer.md), since the procedure may be the reflexive capacity those
 describe; and A's use of it to give "Ellul's account of autonomous
 technique a more precise foundation".

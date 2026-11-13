@@ -173,7 +173,7 @@ filed. No change.
 
 The note above recorded A20 §III's "cultural reflexivity" as this claim's
 capacity applied to a perspective shared across many organizations. At the
-owner's word of 2026-11-13 it is filed as TERM-tmplqaer, with its bearer
+owner's word of 2026-11-13 it is filed as [TERM-tmplqaer](../terms.d/TERM-tmplqaer.md), with its bearer
 fixed from A's text (the organizations sharing the perspective, none
 governing it) and this claim's rider kept: the capacity to revise is not
 the capacity to revise well. No change to this claim.

@@ -214,12 +214,12 @@ able to recognize which candidate arrangement satisfies the demand,
 
 ## Note of 2026-11-13: used to restate part of a domination threshold
 
-CLAIM-tmpub743 (the assistant's, filed from the exchange "Analyze
+[CLAIM-tmpub743](CLAIM-tmpub743.md) (the assistant's, filed from the exchange "Analyze
 technological civilization trap", https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) applies this claim to a dependent
 party's claims on the controllers of an arrangement it depends on, to
-check which part of CLAIM-tmpkjv7u's third condition its three
+check which part of [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)'s third condition its three
 achievements cover. It uses only this claim's necessity, as its defeater
 states it, and finds that it covers influence, challenge and protection
-in one direction and not justified withdrawal. CASE-tmpbjaiq, A23 §9's
+in one direction and not justified withdrawal. [CASE-tmpbjaiq](../cases.d/CASE-tmpbjaiq.md), A23 §9's
 hospital network, asks this claim's three questions of one objection
 raised by different parties. No change.

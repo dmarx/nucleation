@@ -31,8 +31,8 @@ summary: >-
   needed to understand, evaluate, and challenge it?"). "A society may
   democratize one dimension without democratizing the others." The first
   filing left it as a taxonomy with no claim; its claim is the
-  separability, with A's three examples. Near CLAIM-403 (admission,
-  recognition and credibility are separable) and CLAIM-523 (legibility,
+  separability, with A's three examples. Near [CLAIM-403](CLAIM-403.md) (admission,
+  recognition and credibility are separable) and [CLAIM-523](CLAIM-523.md) (legibility,
   efficacy and correctability); neither separates ownership from
   operation. Interpretive. Filed on 2026-11-13 from the items the first
   filing left. The wording is A's; adopting it is the owner's call.
@@ -74,19 +74,19 @@ warrant: interpretive, by cases, not by a model.
 
 ## How it sits with the record
 
-- **CLAIM-403**: a contribution's admission, recognition, credibility and
+- **[CLAIM-403](CLAIM-403.md)**: a contribution's admission, recognition, credibility and
   uptake are separable. Epistemic power, in this claim, is the capacity to
-  make a challenge credible and taken up, which CLAIM-403 already splits.
-- **CLAIM-523**: legibility, volitional efficacy and correctability are
+  make a challenge credible and taken up, which [CLAIM-403](CLAIM-403.md) already splits.
+- **[CLAIM-523](CLAIM-523.md)**: legibility, volitional efficacy and correctability are
   separable achievements of an organization. Epistemic power over an
   arrangement is what makes its failures legible to outsiders; operational
   power is what correctability needs. Ownership has no counterpart there.
-- **CLAIM-tmpwgiwq**: the accountability owed for an indispensable
+- **[CLAIM-tmpwgiwq](CLAIM-tmpwgiwq.md)**: the accountability owed for an indispensable
   arrangement. This claim says accountability can be owed along three
   dimensions and met along one.
 - A attributes the three dimensions to Mumford, Feenberg and Zuboff
-  together. The record's readings of them (THEORY-tmpvlt2n, Winner as
-  Mumford's stand-in; THEORY-tmpa59p3; THEORY-tmpbgf6v) were not checked for
+  together. The record's readings of them ([THEORY-tmpvlt2n](../theory.d/THEORY-tmpvlt2n.md), Winner as
+  Mumford's stand-in; [THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md); [THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md)) were not checked for
   the separation, and no relation is written.
 
 ## What it does not say

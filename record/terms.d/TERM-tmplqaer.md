@@ -15,12 +15,12 @@ summary: >-
   recognize, contest, and revise the shared interpretive frameworks
   through which social purposes are understood", distributed "across
   education, criticism, political debate, art, research, and autonomous
-  associations". The first filing recorded it on CLAIM-424 as that
+  associations". The first filing recorded it on [CLAIM-424](../claims.d/CLAIM-424.md) as that
   claim's capacity applied to a shared perspective and left it as a label
   with its bearer open. The bearer is fixed here from A's own text: the
   organizations that share the perspective, none of which governs it,
-  which CLAIM-418 allows. It specializes CLAIM-424's reflexive governance
-  of perspective to a perspective no one governs, and keeps CLAIM-424's
+  which [CLAIM-418](../claims.d/CLAIM-418.md) allows. It specializes [CLAIM-424](../claims.d/CLAIM-424.md)'s reflexive governance
+  of perspective to a perspective no one governs, and keeps [CLAIM-424](../claims.d/CLAIM-424.md)'s
   rider that the capacity to revise is not the capacity to revise well.
   The wording is A's; adopting it is the owner's call.
 ---
@@ -50,26 +50,26 @@ should dominate the organization of adult life."
 
 ## The parameter fixed
 
-The first filing of the exchange recorded "cultural reflexivity" on CLAIM-424
+The first filing of the exchange recorded "cultural reflexivity" on [CLAIM-424](../claims.d/CLAIM-424.md)
 as a label for that claim's capacity applied to a shared perspective. What
 was open was whose capacity it is. A20 §III answers: "It is not the same as
 collective agency. Nor does it require a single overarching cultural
 authority." So the bearer is the set of organizations that share the
-perspective, and the term holds only where CLAIM-418's case obtains, a
+perspective, and the term holds only where [CLAIM-418](../claims.d/CLAIM-418.md)'s case obtains, a
 perspective "reproduced with no agent governing it" and shared by several.
 
 ## How it sits with the record
 
-- **CLAIM-424**: reflexive governance of an organization's perspectival
+- **[CLAIM-424](../claims.d/CLAIM-424.md)**: reflexive governance of an organization's perspectival
   arrangements is a capacity some organizations have and others lack. This
   term is that capacity where there is no one organization to have it.
-  CLAIM-424's rider carries over: the capacity to revise a framework is not
+  [CLAIM-424](../claims.d/CLAIM-424.md)'s rider carries over: the capacity to revise a framework is not
   the capacity to revise it well.
-- **CLAIM-418**: a perspective can be shared by several agents and
+- **[CLAIM-418](../claims.d/CLAIM-418.md)**: a perspective can be shared by several agents and
   reproduced with no agent governing it. That is the case this term needs.
-- **CLAIM-523**: correction of a violation needs legibility, efficacy and
+- **[CLAIM-523](../claims.d/CLAIM-523.md)**: correction of a violation needs legibility, efficacy and
   correctability. Cultural reflexivity concerns the standard the violation
-  is measured against, which CLAIM-523 says it can also change ("behaviour
+  is measured against, which [CLAIM-523](../claims.d/CLAIM-523.md) says it can also change ("behaviour
   or governing standards").
 
 ## What it does not say

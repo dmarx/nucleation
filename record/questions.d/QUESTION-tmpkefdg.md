@@ -17,12 +17,12 @@ summary: >-
   in which the activities through which participants sustain an
   organization are organized under unjust terms that systematically
   deprive those participants of appropriate benefits, protections, or
-  influence". The first filing recorded it on QUESTION-461 as a name
+  influence". The first filing recorded it on [QUESTION-461](QUESTION-461.md) as a name
   for that question's second branch with the standard of injustice left
   open, which A concedes: "The concept would require an independent
   account of what makes those terms unjust." The exchange does not supply
   the account, so it is filed as the question of what does. It refines
-  QUESTION-461, which asks when an organization keeps indispensable
+  [QUESTION-461](QUESTION-461.md), which asks when an organization keeps indispensable
   contributions from becoming claims on it; this asks when doing so is a
   wrong of the kind A names. The term is A's; adopting it is the owner's
   call.
@@ -44,7 +44,7 @@ effective authority and moral standing, proposed "A new concept":
 > influence.
 
 and conceded that it "would require an independent account of what makes
-those terms unjust". Without that account the term names QUESTION-461's
+those terms unjust". Without that account the term names [QUESTION-461](QUESTION-461.md)'s
 second branch, an organization that reproduces "the arrangements that keep
 their indispensable contributions from becoming effective claims on it",
 and adds a verdict it cannot yet reach.
@@ -53,13 +53,13 @@ The record holds several candidates for the missing standard, and none is
 yet stated as one:
 
 - an arrangement that exploits through the access it grants, or produces
-  the dependence it exploits (CLAIM-669, CLAIM-670);
+  the dependence it exploits ([CLAIM-669](../claims.d/CLAIM-669.md), [CLAIM-670](../claims.d/CLAIM-670.md));
 - a dependence organized as coercive leverage rather than mutual
-  opportunity (CLAIM-428);
-- the participants' moral standing (TERM-083) together with a duty of
+  opportunity ([CLAIM-428](../claims.d/CLAIM-428.md));
+- the participants' moral standing ([TERM-083](../terms.d/TERM-083.md)) together with a duty of
   answerability whose breach keeps a justified standard from constraining
-  the organization (CLAIM-624);
-- domination by the arrangement's controllers (CLAIM-tmpkjv7u), which is a
+  the organization ([CLAIM-624](../claims.d/CLAIM-624.md));
+- domination by the arrangement's controllers ([CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)), which is a
   threshold for domination, not for unjust terms.
 
 ## What would answer it
@@ -73,6 +73,6 @@ yet stated as one:
 
 ## Cases
 
-CASE-257, on which QUESTION-461 was raised, and CASE-tmpbjaiq's contractors
+[CASE-257](../cases.d/CASE-257.md), on which [QUESTION-461](QUESTION-461.md) was raised, and [CASE-tmpbjaiq](../cases.d/CASE-tmpbjaiq.md)'s contractors
 ("Essential contributors receive little protection or influence") are the
 record's nearest instances.

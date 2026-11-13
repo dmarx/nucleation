@@ -32,10 +32,10 @@ summary: >-
   A13 §VI.3–4): "The more indispensable a system becomes, the stronger its
   obligations of accountability should ordinarily be", with "Public
   justification" owed "When a technological arrangement becomes
-  effectively compulsory". CLAIM-tmpkjv7u's threshold says when essential
+  effectively compulsory". [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)'s threshold says when essential
   dependence with too little accountability is domination by its
   controllers; this is a scaling rule for what is owed before that point,
-  of the same shape as CLAIM-tmpsmg1c's burden that rises with
+  of the same shape as [CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md)'s burden that rises with
   irreversibility. A's protections (refusal, contestability, portability,
   interoperability, human competence, accountability, resilience) and its
   formula "Specialized competence in operation, public accountability in
@@ -70,26 +70,26 @@ and enforceable rights for those affected."
 
 The claim generalizes "technological system" to any arrangement, which A's
 examples (a public utility, a hospital, an AI system) already range over.
-"Arrangement" is TERM-074's sense 1; who owes is "those who control" it,
-the agents CLAIM-tmpkjv7u's second condition names.
+"Arrangement" is [TERM-074](../terms.d/TERM-074.md)'s sense 1; who owes is "those who control" it,
+the agents [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)'s second condition names.
 
 ## How it sits with the record
 
-- **CLAIM-tmpkjv7u** is a threshold: essential dependence, controllers'
+- **[CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)** is a threshold: essential dependence, controllers'
   discretion and too little accountability together make domination by the
   controllers. This claim is a slope below and above that threshold: the
   accountability owed grows with the first condition, essentiality. It
   does not say that a dependence meeting the threshold is wrong for that
   reason alone, only what it owes.
-- **CLAIM-tmpsmg1c** raises the burden of justifying a choice with the size
+- **[CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md)** raises the burden of justifying a choice with the size
   and irreversibility of the narrowing it brings. This raises the
   accountability owed for an arrangement with the dependence it has
   brought. The two meet at an arrangement that became indispensable by a
   choice no one justified.
-- **CLAIM-624**: a second-order duty to keep violations knowable,
+- **[CLAIM-624](CLAIM-624.md)**: a second-order duty to keep violations knowable,
   contestable and correctable. Contestability and accountability in A's
   list are that duty; this claim says its strength scales.
-- **CLAIM-tmpub743** says which part of CLAIM-tmpkjv7u's third condition the
+- **[CLAIM-tmpub743](CLAIM-tmpub743.md)** says which part of [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)'s third condition the
   record's three achievements of normative efficacy cover. The protections
   A lists here fall on both sides of that line: contestability and
   accountability are voice, portability and interoperability are exit.
@@ -104,8 +104,8 @@ the agents CLAIM-tmpkjv7u's second condition names.
   caution on where the accountability is owed, not a further claim.
 - **"A right not to be optimized"** (A8 §VII): "The problem arises when
   measurable characteristics become substitutes for the persons they
-  describe." That is TERM-108's proxy objective with persons as the
-  outcome measured, and CLAIM-tmpplibk's mechanism outside meaning; it is
+  describe." That is [TERM-108](../terms.d/TERM-108.md)'s proxy objective with persons as the
+  outcome measured, and [CLAIM-tmpplibk](CLAIM-tmpplibk.md)'s mechanism outside meaning; it is
   noted here, not filed.
 
 ## What it does not say
@@ -116,5 +116,5 @@ the agents CLAIM-tmpkjv7u's second condition names.
   requirements without exceptions."
 - Not how indispensability is measured. A uses "essential",
   "indispensable" and "effectively compulsory" without a measure; the
-  claim inherits that looseness, and CLAIM-tmpbypt7's measure, what remains
+  claim inherits that looseness, and [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md)'s measure, what remains
   open to a non-adopter, is the nearest the record has.

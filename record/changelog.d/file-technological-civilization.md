@@ -97,25 +97,25 @@
   The curation entry's "What was left" now says what is filed.
 - The rest of the exchange's unfiled items, at the owner's word ("file
   the still unfiled stuff"), all A's and Proposed: two terms
-  (value-constituting limit, TERM-tmpexetd; cultural reflexivity,
-  TERM-tmplqaer); six claims (restraint bounded by competition,
-  CLAIM-tmpwvg2o; accountability rising with indispensability,
-  CLAIM-tmpwgiwq; time as a limit on substantive freedom, CLAIM-tmph4j5r;
-  an arrangement eroding the capacity to govern it, CLAIM-tmp09pjt; three
-  separable dimensions of power over a technology, CLAIM-tmpdp56s;
-  efficiency against reconfiguration, demonstrated from CLAIM-571,
-  CLAIM-tmpfrjqq); three questions (what fixes "emergent purpose
-  divergence", QUESTION-tmpuby8o; what makes "constitutive exploitation"
-  unjust, QUESTION-tmpkefdg; whether capability gains can be made
-  self-reinforcing, QUESTION-tmp8ifit); and two cases (regressive progress,
-  CASE-tmpkqwn1; the hospital network, CASE-tmpbjaiq). The exchange's
-  recaps of its standard are mapped in a note on QUESTION-tmpvpq3r; the
+  (value-constituting limit, [TERM-tmpexetd](record/terms.d/TERM-tmpexetd.md); cultural reflexivity,
+  [TERM-tmplqaer](record/terms.d/TERM-tmplqaer.md)); six claims (restraint bounded by competition,
+  [CLAIM-tmpwvg2o](record/claims.d/CLAIM-tmpwvg2o.md); accountability rising with indispensability,
+  [CLAIM-tmpwgiwq](record/claims.d/CLAIM-tmpwgiwq.md); time as a limit on substantive freedom, [CLAIM-tmph4j5r](record/claims.d/CLAIM-tmph4j5r.md);
+  an arrangement eroding the capacity to govern it, [CLAIM-tmp09pjt](record/claims.d/CLAIM-tmp09pjt.md); three
+  separable dimensions of power over a technology, [CLAIM-tmpdp56s](record/claims.d/CLAIM-tmpdp56s.md);
+  efficiency against reconfiguration, demonstrated from [CLAIM-571](record/claims.d/CLAIM-571.md),
+  [CLAIM-tmpfrjqq](record/claims.d/CLAIM-tmpfrjqq.md)); three questions (what fixes "emergent purpose
+  divergence", [QUESTION-tmpuby8o](record/questions.d/QUESTION-tmpuby8o.md); what makes "constitutive exploitation"
+  unjust, [QUESTION-tmpkefdg](record/questions.d/QUESTION-tmpkefdg.md); whether capability gains can be made
+  self-reinforcing, [QUESTION-tmp8ifit](record/questions.d/QUESTION-tmp8ifit.md)); and two cases (regressive progress,
+  [CASE-tmpkqwn1](record/cases.d/CASE-tmpkqwn1.md); the hospital network, [CASE-tmpbjaiq](record/cases.d/CASE-tmpbjaiq.md)). The exchange's
+  recaps of its standard are mapped in a note on [QUESTION-tmpvpq3r](record/questions.d/QUESTION-tmpvpq3r.md); the
   curation entry's "What was left" says what each item became. U1 and the
   thinkers named without a work stay unfiled.
 - The filer's own ideas 2–4, the assistant's and Proposed: the domination
-  threshold's third condition checked against CLAIM-523, which covers its
-  voice and not its exit (CLAIM-tmpub743, demonstrated); CLAIM-605's model
+  threshold's third condition checked against [CLAIM-523](record/claims.d/CLAIM-523.md), which covers its
+  voice and not its exit ([CLAIM-tmpub743](record/claims.d/CLAIM-tmpub743.md), demonstrated); [CLAIM-605](record/claims.d/CLAIM-605.md)'s model
   run against the reversibility principle, gradual on entry and abrupt on
   exit, with a new script, scratch/formal/capability_trap_reversibility.py
-  (notes on CLAIM-605 and CLAIM-tmpsmg1c); and a proposed test of CLAIM-603
-  by the capability trajectory under withdrawal (note on CLAIM-603).
+  (notes on [CLAIM-605](record/claims.d/CLAIM-605.md) and [CLAIM-tmpsmg1c](record/claims.d/CLAIM-tmpsmg1c.md)); and a proposed test of [CLAIM-603](record/claims.d/CLAIM-603.md)
+  by the capability trajectory under withdrawal (note on [CLAIM-603](record/claims.d/CLAIM-603.md)).

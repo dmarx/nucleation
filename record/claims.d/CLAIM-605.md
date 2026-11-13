@@ -191,7 +191,7 @@ skill. No change.
 
 One of the filer's own ideas from the exchange "Analyze technological
 civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), accepted by the owner on 2026-11-13, was that this
-claim's second result cuts against reading CLAIM-tmpsmg1c's reversibility
+claim's second result cuts against reading [CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md)'s reversibility
 principle, that the burden of justification rises with the size and
 irreversibility of a narrowing, as "go gradually". It was checked in this
 claim's model, with its parameters, by
@@ -221,7 +221,7 @@ below (run with `python3 -I`).
   kept long enough is irreversible.
 
 The numbers are demonstrated in the model; the parameters are invented,
-and the bearing on CLAIM-tmpsmg1c holds only for support of a capacity
+and the bearing on [CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md) holds only for support of a capacity
 learned by doing that decays with disuse. Nothing here changes this
 claim, which already states the taper result; the other three are new. The
 note is the assistant's (Claude, in this session); adopting it is the

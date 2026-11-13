@@ -20,8 +20,8 @@ summary: >-
   recognized, since "overcoming them may destroy or diminish something
   worthwhile". The term names the third kind so that a claim can say which
   limits an arrangement removes. Its sense comes from Wolf's worth beyond
-  satisfaction (THEORY-tmp4ajaz) and Rosa's resonance, which "cannot be
-  produced at will" (THEORY-tmpzibpi), as A combined them in A9 §IV. Filed
+  satisfaction ([THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md)) and Rosa's resonance, which "cannot be
+  produced at will" ([THEORY-tmpzibpi](../theory.d/THEORY-tmpzibpi.md)), as A combined them in A9 §IV. Filed
   on 2026-11-13 from the items the first filing left. The wording is A's;
   adopting it is the owner's call.
 ---
@@ -64,10 +64,10 @@ are the same idea from the side of the activity.
 
 ## Where its sense comes from
 
-- **Wolf** (THEORY-tmp4ajaz): meaning is engagement with something of
+- **Wolf** ([THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md)): meaning is engagement with something of
   worth beyond the agent's own satisfaction, so a good can depend on the
   independence of its object.
-- **Rosa, through Susen** (THEORY-tmpzibpi): resonance is a responsive
+- **Rosa, through Susen** ([THEORY-tmpzibpi](../theory.d/THEORY-tmpzibpi.md)): resonance is a responsive
   relation that "cannot be produced at will".
 
 A9 §IV's step from these to a limit on control is A's, and A says so ("the
@@ -75,19 +75,19 @@ resulting position goes beyond either thinker's own theory").
 
 ## How it is used
 
-- CLAIM-tmp6yhlh's displacing assistance is, in this term, assistance that
+- [CLAIM-tmp6yhlh](../claims.d/CLAIM-tmp6yhlh.md)'s displacing assistance is, in this term, assistance that
   removes a value-constituting limit: the drudgery a liberating
   assistance removes is a deprivation-producing limit, the difficulty of
   a practice can be a value-constituting one.
 - A13 §X's "virtue of restraint", the capacity to decline a capability
   "when doing so would undermine more important goods", is filed with the
-  competition that bounds it as CLAIM-tmpwvg2o.
+  competition that bounds it as [CLAIM-tmpwvg2o](../claims.d/CLAIM-tmpwvg2o.md).
 
 ## What it does not say
 
 - Not that struggle is good. A: "The point isn't that struggle is always
   good."
 - Not which limits are of which kind. That is a judgment about worth, and
-  who may make it for others is CLAIM-tmpfyxes's question; A adds that
+  who may make it for others is [CLAIM-tmpfyxes](../claims.d/CLAIM-tmpfyxes.md)'s question; A adds that
   "Restrictions justified as preserving meaning can become instruments of
   coercion".

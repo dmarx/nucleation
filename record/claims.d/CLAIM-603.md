@@ -327,7 +327,7 @@ same size:
   spreads (the Black Queen's leaky good).
 
 Measure the recipient's C during the supply, and after the supply is
-withdrawn at several durations, as CLAIM-605's model and CASE-tmpf71w4 do;
+withdrawn at several durations, as [CLAIM-605](CLAIM-605.md)'s model and [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md) do;
 in the reciprocal arm, also measure the partner's own trajectory when the
 recipient's return is withdrawn.
 
@@ -337,7 +337,7 @@ recipient's return is withdrawn.
    recipient to do, with no stop of its own (the claim's point 1). From
    within: C stops falling while helpers remain enough to supply.
 2. After withdrawal, one-way: the cost of recovering C grows with the
-   duration of the supply, and where CLAIM-605's conditions hold there is a
+   duration of the supply, and where [CLAIM-605](CLAIM-605.md)'s conditions hold there is a
    duration after which C does not recover (point 2).
 3. Reciprocal: the recipient's C after a withdrawal of the same size and
    duration is no better than in the one-way arm (the claim's "What it does

@@ -128,6 +128,6 @@ filed. No change.
 The note above recorded A20 §I's "emergent purpose divergence" as this
 claim with an evaluative standard left open. At the owner's word of
 2026-11-13 ("file the still unfiled stuff") it is filed as
-QUESTION-tmpuby8o, which asks which procedure of evaluation fixes the
+[QUESTION-tmpuby8o](../questions.d/QUESTION-tmpuby8o.md), which asks which procedure of evaluation fixes the
 purposes a whole's trajectory is said to diverge from; the exchange does
 not say. No change to this claim.

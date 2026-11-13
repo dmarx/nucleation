@@ -34,7 +34,7 @@ summary: >-
   and adequate income while lacking sufficient time to exercise their
   capacities meaningfully") and A13 §VII.1, "The distribution of time is a
   distribution of freedom". It applies the opportunity aspect of Sen's
-  freedom, as CLAIM-352 maps it onto what an agent can viably reach, to a
+  freedom, as [CLAIM-352](CLAIM-352.md) maps it onto what an agent can viably reach, to a
   limit A adds and Sen's readings on the record do not name. Its contrast
   is A's: "the freedom to commit oneself to demanding activity and the
   necessity of surrendering most of one's time to activities one cannot
@@ -69,13 +69,13 @@ simply by whether it increases output."
 
 ## Why it holds, and what is A's
 
-CLAIM-352 maps the opportunity aspect of Sen's freedom onto what an agent
+[CLAIM-352](CLAIM-352.md) maps the opportunity aspect of Sen's freedom onto what an agent
 can viably reach. Time under necessity is a constraint on that set that
 income and rights do not state: the same resources reach less when most
 hours are already committed to what cannot be refused, and unpredictable
 hours remove the activities that need a schedule (A's relationships,
 education and community involvement). Sen's own readings on the record
-(THEORY-tmpj32pb) make resources an insufficient measure through
+([THEORY-tmpj32pb](../theory.d/THEORY-tmpj32pb.md)) make resources an insufficient measure through
 conversion factors of body, climate and society; that time is one more
 such factor is A's step, not Sen's, and is not checked against his texts.
 
@@ -89,7 +89,7 @@ one and an "agency-centered" one, and observes that the difference
 > leaves people without time to learn may accomplish little.
 
 That is this claim's point applied to assistance: what assistance can add
-to a person's capability (CLAIM-tmp6yhlh) depends on the time they have to
+to a person's capability ([CLAIM-tmp6yhlh](CLAIM-tmp6yhlh.md)) depends on the time they have to
 use it. The two futures illustrate; they do not argue.
 
 ## What it does not say
@@ -99,7 +99,7 @@ use it. The two futures illustrate; they do not argue.
   can be meaningful."
 - Not that every job should be meaningful. A13 §VII.3 asks for "a right to
   meaningful opportunity, not a guarantee of meaningful employment", which
-  is CLAIM-tmpfyxes's line between cultivating conditions and imposing
+  is [CLAIM-tmpfyxes](CLAIM-tmpfyxes.md)'s line between cultivating conditions and imposing
   commitments, and A13 §VII.2's principle, that "People's economic
   indispensability should not determine their entitlement to dignity", is
   noted here and not filed.
