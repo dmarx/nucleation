@@ -66,7 +66,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
-# CLAIM-tmpkjv7u: A dependence becomes presumptively dominating when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; dependence lacking the second or third is not domination, however complete
+# CLAIM-tmpkjv7u: A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement's controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it
 
 ## The claim
 

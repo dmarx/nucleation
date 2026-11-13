@@ -25,7 +25,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql THEORY-tmpo67z2 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpl0haz — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
-<!-- inactive-ok-file: {TRAJ} {RAT} — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 
 # ARG-tmpar7tl: Gardner's objection that Sen gives no argument for preferring capability to achievement qualifies the framing of the claim that support must be assessed by the capability trajectory it produces, and leaves its derivation standing, which holds for achieved functionings as well
 

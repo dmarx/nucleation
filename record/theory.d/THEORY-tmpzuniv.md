@@ -2,6 +2,15 @@
 status: Proposed
 title: 'Moen argues that Kaczynski''s case against industrial technology reaches its conclusion from defensible empirical worries, that technological progress is hard to predict and as an arms race hard to restrain, only through unargued evaluative premises that count technology''s harms and not its benefits, so that counted even-handedly the case fails'
 version: 1
+tags:
+- ethics
+- society-and-governance
+promote_when: >-
+  a full reading of Moen's paper confirms that it grants the empirical
+  premises (unpredictability, the arms race) as defensible, locates the
+  argument's failure in unargued evaluative premises that discount
+  technology's benefits, and concludes that the case fails when the
+  benefits are counted
 source:
 - LIT-tmpbu0d1
 corroborates:

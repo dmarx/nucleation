@@ -2,6 +2,14 @@
 status: Proposed
 title: 'Postman holds that technological change is a trade-off whose costs and benefits fall unevenly, that each technology carries an ideological bias that reshapes a culture''s terms, that its effects are ecological, vast, often unpredictable and largely irreversible, and that technologies become mythic, accepted as natural and hard to control'
 version: 1
+tags:
+- society-and-governance
+- epistemology
+promote_when: >-
+  a full reading of Postman's 1998 talk and chapter 1 of Technopoly confirms
+  each of the four theses as stated: the uneven trade-off, the ideological
+  bias, ecological and largely irreversible effects, and the mythic
+  status that makes a technology hard to control
 source:
 - LIT-tmptlpr8
 - LIT-tmplkkhu
