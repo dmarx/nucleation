@@ -128,11 +128,11 @@ the readings of 2026-11-12. Powers ([LIT-tmpepraj](../literature.d/LIT-tmpepraj.
 
 ## Observation and interpretation
 
-The owner's review of #488 on 2026-11-13: the earlier title "combines
+The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13: the earlier title "combines
 documented exclusion with a claim about the causal relationship between
 contribution and authority. I would distinguish the observed allocation
 of standing from the mechanism that maintained it. The latter is
-precisely what the new QUESTION-tmpojwyk asks us to investigate."
+precisely what the new [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md) asks us to investigate."
 
 - **Observed**, as reported above: enslaved people and a few free people
   of colour contributed to the theatre's productions and buildings; free
@@ -144,10 +144,10 @@ precisely what the new QUESTION-tmpojwyk asks us to investigate."
   and colonial law are what kept the contributions from giving their
   makers standing in it. Other mechanisms fit the same allocation, among
   them slavery's legal order acting outside the theatre altogether (A6 §5;
-  QUESTION-449), and the theatre's financial need widening access without
+  [QUESTION-449](../questions.d/QUESTION-449.md)), and the theatre's financial need widening access without
   standing (the H-France Forum on 1775). Which mechanism maintained the
   allocation, and whether the theatre's dependence on the contributors
-  ever moved it, is QUESTION-tmpojwyk.
+  ever moved it, is [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md).
 
 ## What it shows, if the reports hold
 

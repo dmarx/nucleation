@@ -91,7 +91,7 @@ but what a whole owes the parts it is made of.
 
 ## Ground and bearer: two inquiries
 
-The owner's review of #488 on 2026-11-13: "A whole can be the ground or
+The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13: "A whole can be the ground or
 object of a normative judgment without necessarily being the bearer of
 the corresponding obligation."
 
@@ -108,13 +108,13 @@ The review found two inquiries in the question, to be kept apart:
   anything. Obligations might instead fall upon the agents who maintain,
   control, or benefit from the arrangement."
 
-So the candidate bearers are the whole, where it is an agent (TERM-074
+So the candidate bearers are the whole, where it is an agent ([TERM-074](../terms.d/TERM-074.md)
 sense 3, often), and the agents or roles that maintain, control or
-benefit from the arrangement. The nearest held distinction is TERM-083's
+benefit from the arrangement. The nearest held distinction is [TERM-083](../terms.d/TERM-083.md)'s
 split between moral agents, who can be responsible, and moral patients,
 who are owed; it is about who is owed, not about whether what grounds an
-obligation must also bear it. QUESTION-128 asks what moral authority needs
-beyond an organization's own dynamics, and CLAIM-104 names a downward
+obligation must also bear it. [QUESTION-128](QUESTION-128.md) asks what moral authority needs
+beyond an organization's own dynamics, and [CLAIM-104](../claims.d/CLAIM-104.md) names a downward
 direction from "an encompassing agent"; neither separates ground from
 bearer. The review's verdict on where the work lies: "not in establishing
 that institutions have obligations toward members, but in explaining how
@@ -141,7 +141,7 @@ affected by precisely the same arrangement but is not a constituent.
 
 The review: "The third possibility is especially relevant to Nucleation's
 broad ontology of organizations." The test is filed as a thought
-experiment, CASE-tmpo7zlu, bearing on this question.
+experiment, [CASE-tmpo7zlu](../cases.d/CASE-tmpo7zlu.md), bearing on this question.
 
 ## Which sense of "organized whole"
 
@@ -274,7 +274,7 @@ governance, commitment or history) grounds a norm concerning the part,
 with the further normative premise that ground needs; who bears the
 obligation the norm establishes, the whole where it can owe or the agents
 and roles that maintain, control or benefit from it; and that separates
-that obligation from what the whole must do to persist. CASE-tmpo7zlu's
+that obligation from what the whole must do to persist. [CASE-tmpo7zlu](../cases.d/CASE-tmpo7zlu.md)'s
 three results are the shapes such an answer can take. A
 demonstration that no relation of part to whole grounds anything the
 part is not already owed by any agent with the same power over it would

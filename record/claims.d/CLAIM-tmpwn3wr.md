@@ -71,7 +71,7 @@ line:
 bears_on:
 - QUESTION-tmp9bbpk
 summary: >-
-  The proposition stated in the owner's review of #488 on 2026-11-13,
+  The proposition stated in the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13,
   replacing A's (A12 §1 and §10 of the exchange "About Plantation
   Paradise", 2026-11-12: "The whole's responsibilities could therefore
   grow as its integration deepens"). The mechanism is increased
@@ -81,8 +81,8 @@ summary: >-
   shared governance, guarantees or a distribution of responsibility.
   Supposed: it holds only under an independently justified principle that
   such vulnerability grounds special obligations, Goodin's in the sources
-  reached (LIT-tmpgqxcj, LIT-tmpkfwc3, both Unavailable). Fineman does not
-  support it (ARG-tmpmc9mt). It bears on the owner's QUESTION-tmp9bbpk,
+  reached ([LIT-tmpgqxcj](../literature.d/LIT-tmpgqxcj.md), [LIT-tmpkfwc3](../literature.d/LIT-tmpkfwc3.md), both Unavailable). Fineman does not
+  support it ([ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md)). It bears on the owner's [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md),
   for the vulnerability ground and for the bearer question.
 ---
 <!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t — Unavailable; registered from the same exchange -->
@@ -95,7 +95,7 @@ summary: >-
 
 ## The claim
 
-The owner's review of #488 on 2026-11-13 stated it:
+The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13 stated it:
 
 > Where an organizational transformation increases a constituent's
 > vulnerability to the discretionary choices of a responsible agent, and
@@ -121,31 +121,31 @@ integration need not monotonically increase vulnerability. Integration
 could create credible alternatives, shared governance, enforceable
 guarantees, or mechanisms for distributing responsibility." So
 integration is one route by which a transformation can increase
-vulnerability, not the mechanism. CLAIM-603 gives that route: a capability
+vulnerability, not the mechanism. [CLAIM-603](CLAIM-603.md) gives that route: a capability
 lost because another reliably supplies it is favoured to the one who
 loses it, and one-way supply leaves a dependence that nothing in the
 dependent's dynamics limits. Its reciprocal form, each partner supplying
 what the other gave up, is integration that need not increase one side's
-exposure, though CLAIM-428 warns that mutual dependence can still be
+exposure, though [CLAIM-428](CLAIM-428.md) warns that mutual dependence can still be
 organized as coercive leverage.
 
 ## Who bears the responsibility
 
 A "responsible agent", the review's phrase. The claim no longer says the
-whole bears it. Under TERM-074 the arrangement transformed can be any
+whole bears it. Under [TERM-074](../terms.d/TERM-074.md) the arrangement transformed can be any
 sense; the bearer must be something that can owe, an agent or a role, and
-the constituent owed must have standing (TERM-083). For an organism and
+the constituent owed must have standing ([TERM-083](../terms.d/TERM-083.md)). For an organism and
 its cells, or an ecosystem and its populations, the claim names no bearer;
 whether the arrangement grounds a norm there, and who would bear it, is
-the owner's QUESTION-tmp9bbpk.
+the owner's [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md).
 
 ## Why it is filed as supposed
 
 The inference from dependence to obligation is one the record has refused
-before. The authenticity line's reciprocal agency (CLAIM-096) was deferred
+before. The authenticity line's reciprocal agency ([CLAIM-096](CLAIM-096.md)) was deferred
 as needing "independent moral argument", and an earlier exchange put the
-refusal as "interdependence ⇏ obligation" (CLAIM-096's note of 2026-10-18;
-QUESTION-007). The claim does not derive obligation from organizational
+refusal as "interdependence ⇏ obligation" ([CLAIM-096](CLAIM-096.md)'s note of 2026-10-18;
+[QUESTION-007](../questions.d/QUESTION-007.md)). The claim does not derive obligation from organizational
 dynamics. It holds only under "an independently justified principle", one
 the record does not hold. Goodin's is the principle in the sources reached
 (the note of 2026-11-12 below). With the principle granted, the claim says
@@ -171,7 +171,7 @@ predicts it.
 - **What the strengthened responsibilities require.** Kittay's caution
   against domination by supporters (note below) bears on it.
 - **That every constituent is owed it.** Only parts with standing
-  (TERM-083); A12 §5: "A human constituent can possess moral claims that a
+  ([TERM-083](../terms.d/TERM-083.md)); A12 §5: "A human constituent can possess moral claims that a
   cell, enzyme, or organizational subprocess does not possess in the same
   sense."
 

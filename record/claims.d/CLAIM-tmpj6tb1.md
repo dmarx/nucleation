@@ -36,10 +36,10 @@ summary: >-
   initially expands access or opportunity but, through its terms and
   repeated operation, creates new vulnerabilities or undermines the
   participant's ability to negotiate or exit." Filed on 2026-11-13 at the
-  owner's review of #488, which asked that the distinction between
+  owner's review of [#488](https://github.com/dmarx/nucleation/issues/488), which asked that the distinction between
   producing a dependency and producing a new encumbrance within an
-  existing dependency not be lost when CLAIM-tmp16mkz was narrowed to the
-  second. This is the first. It rests on CLAIM-603, which holds how
+  existing dependency not be lost when [CLAIM-tmp16mkz](CLAIM-tmp16mkz.md) was narrowed to the
+  second. This is the first. It rests on [CLAIM-603](CLAIM-603.md), which holds how
   reliable supply produces a reliance, and adds that the provider can use
   it to set terms. No reading supports it yet: Seamster and
   Charron-Chénier show the second mechanism, not this one, and Alicea is
@@ -62,9 +62,9 @@ vulnerabilities or undermines the participant's ability to negotiate or
 exit." And: "The second mechanism deserves independent investigation. It
 is not automatically implied by the first."
 
-CLAIM-tmp16mkz first stated the second mechanism, and was narrowed on
+[CLAIM-tmp16mkz](CLAIM-tmp16mkz.md) first stated the second mechanism, and was narrowed on
 2026-11-12, after its one readable source, to a new encumbrance within a
-need that predates the access. The owner's review of #488 on 2026-11-13:
+need that predates the access. The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13:
 "I would preserve the distinction between producing a dependency and
 producing a new encumbrance within an existing dependency. These may be
 different causal mechanisms, and the record should not lose that
@@ -75,25 +75,25 @@ second." This claim keeps the first.
 
 Two steps, the first held, the second not.
 
-1. **The dependence is produced.** CLAIM-603: a capability lost because
+1. **The dependence is produced.** [CLAIM-603](CLAIM-603.md): a capability lost because
    another reliably supplies it is favoured to the one who loses it, and
    one-way supply leaves a dependence that nothing in the dependent's
    dynamics limits and that withdrawal punishes. So the party comes to
    rely on the provider for something it once did for itself.
 2. **The dependence is used.** Once the party cannot cheaply resume
    supplying itself or switch provider, the provider can worsen the terms
-   of supply. That is CLAIM-428's coercive leverage, reached by a route
+   of supply. That is [CLAIM-428](CLAIM-428.md)'s coercive leverage, reached by a route
    that began as an offer the party had reason to accept.
 
-The difference from CLAIM-tmp16mkz is where the dependence comes from: here
+The difference from [CLAIM-tmp16mkz](CLAIM-tmp16mkz.md) is where the dependence comes from: here
 the arrangement makes it; there the need came first and the arrangement
 added an encumbrance.
 
 ## What it does not say
 
 - **What makes the terms exploitative.** That needs a standard the record
-  does not supply (CLAIM-363, QUESTION-129).
+  does not supply ([CLAIM-363](CLAIM-363.md), [QUESTION-129](../questions.d/QUESTION-129.md)).
 - **That the mechanism is common, or that any case read shows it.** None
   does yet.
 - **That the colonial theatre is an instance.** Slavery's dependence
-  predated it (CASE-tmpwmg3h).
+  predated it ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)).

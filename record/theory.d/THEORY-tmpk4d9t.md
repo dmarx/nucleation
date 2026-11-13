@@ -22,7 +22,6 @@ promote_when: >-
 summary: >-
   Fineman (2010), read in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md) (Read). The vulnerable subject replaces the liberal subject; institutions confer resilience; the state that constitutes them must monitor them and justify the privilege it confers or tolerates.
 ---
-<!-- inactive-ok-file: CLAIM-624 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — Proposed; cited as on the record -->
 <!-- inactive-ok-file: ARG-tmpmc9mt — filed with this reading, Rejected -->
 
@@ -34,7 +33,7 @@ Fineman argues that because vulnerability is universal and constant and individu
 
 ## Evidence
 
-The reading in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md); its key results are quoted there with pages. [ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md) says why it is not support for [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), under its first title (growth with integration) or under the title it took at the owner's review of #488 on 2026-11-13 (vulnerability to a responsible agent's discretion).
+The reading in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md); its key results are quoted there with pages. [ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md) says why it is not support for [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), under its first title (growth with integration) or under the title it took at the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13 (vulnerability to a responsible agent's discretion).
 
 ## What it does not say
 

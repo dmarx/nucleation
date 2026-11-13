@@ -14,9 +14,9 @@ line:
 bears_on:
 - QUESTION-tmp9bbpk
 summary: >-
-  The owner's, from the owner's review of #488 on 2026-11-13: a matched
+  The owner's, from the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13: a matched
   pair that varies only membership or constitution, to discriminate among
-  three answers to QUESTION-tmp9bbpk. If the organization owes the member
+  three answers to [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md). If the organization owes the member
   something more, constitution or membership has normative significance of
   its own; if not, vulnerability or control explains the obligation across
   boundaries; or the arrangement constrains without being a duty-bearer,
@@ -28,7 +28,7 @@ summary: >-
 
 ## The case
 
-The owner's review of #488 on 2026-11-13 asked: "Does being a constituent
+The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13 asked: "Does being a constituent
 of a particular whole generate obligations beyond those already arising
 from the constituent's vulnerability, interests, rights, and exposure to
 another's power?" Its construction:
@@ -55,10 +55,10 @@ broad ontology of organizations."
 
 ## What it is for
 
-It separates the two inquiries QUESTION-tmp9bbpk keeps apart since
+It separates the two inquiries [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) keeps apart since
 2026-11-13, the ground and the bearer. The first two results answer the
 ground; the third answers the bearer, for an arrangement that is not an
-agent (TERM-074 sense 1). CLAIM-tmpwn3wr, as retitled the same day, is a
+agent ([TERM-074](../terms.d/TERM-074.md) sense 1). [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), as retitled the same day, is a
 version of the second result for one ground: vulnerability to a
 responsible agent's discretion strengthens that agent's responsibilities,
 whatever the constituent's membership.

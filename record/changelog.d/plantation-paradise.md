@@ -38,15 +38,15 @@
   After the owner's correction that "organization" is [TERM-074](record/terms.d/TERM-074.md) sense 1 by
   default, the owner's question states its sense and its prior part, and
   every reading's bearing names the sense it is about.
-- The owner's review of #488 on 2026-11-13 applied:
-  - QUESTION-tmp9bbpk makes the ground of an obligation and its bearer
+- The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13 applied:
+  - [QUESTION-tmp9bbpk](record/questions.d/QUESTION-tmp9bbpk.md) makes the ground of an obligation and its bearer
     first-class, in its title and body, with the owner's discriminating
-    test filed as the thought experiment CASE-tmpo7zlu;
-  - CLAIM-tmpwn3wr retitled to the review's proposition, with
-    ARG-tmpmc9mt rechecked (still Rejected);
-  - CLAIM-tmp16mkz's summary aligned with its narrowing, and A's original
+    test filed as the thought experiment [CASE-tmpo7zlu](record/cases.d/CASE-tmpo7zlu.md);
+  - [CLAIM-tmpwn3wr](record/claims.d/CLAIM-tmpwn3wr.md) retitled to the review's proposition, with
+    [ARG-tmpmc9mt](record/arguments.d/ARG-tmpmc9mt.md) rechecked (still Rejected);
+  - [CLAIM-tmp16mkz](record/claims.d/CLAIM-tmp16mkz.md)'s summary aligned with its narrowing, and A's original
     sense, an arrangement that produces the dependence it exploits, kept as
-    CLAIM-tmpj6tb1;
-  - CASE-tmpwmg3h's title states the documented allocation of standing,
+    [CLAIM-tmpj6tb1](record/claims.d/CLAIM-tmpj6tb1.md);
+  - [CASE-tmpwmg3h](record/cases.d/CASE-tmpwmg3h.md)'s title states the documented allocation of standing,
     with the causal reading moved to the body as an interpretation for
-    QUESTION-tmpojwyk.
+    [QUESTION-tmpojwyk](record/questions.d/QUESTION-tmpojwyk.md).

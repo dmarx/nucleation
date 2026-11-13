@@ -55,8 +55,8 @@ complements:
 summary: >-
   A's, from A9 §2 of the exchange "About Plantation Paradise"
   (2026-11-12), narrowed to its version 2 after Seamster and
-  Charron-Chénier's "predatory inclusion" was read (NOTE-tmpvf8za;
-  ARG-tmpou39l). An arrangement can exploit through the access it grants:
+  Charron-Chénier's "predatory inclusion" was read ([NOTE-tmpvf8za](../notes.d/NOTE-tmpvf8za.md);
+  [ARG-tmpou39l](../arguments.d/ARG-tmpou39l.md)). An arrangement can exploit through the access it grants:
   access to a needed good on terms that leave a lasting encumbrance, a
   reliance on the provider or an obligation hard to escape, that narrows
   later exit; so exploitation can come through inclusion that succeeds,
@@ -64,7 +64,7 @@ summary: >-
   predates the access, the encumbrance is debt, and exit is closed by
   bankruptcy law. A's first sense, an arrangement that produces the
   dependence itself, is a different mechanism and is kept as
-  CLAIM-tmpj6tb1. Alicea (LIT-tmp63z5g) is Unavailable. Interpretive. The
+  [CLAIM-tmpj6tb1](CLAIM-tmpj6tb1.md). Alicea ([LIT-tmp63z5g](../literature.d/LIT-tmp63z5g.md)) is Unavailable. Interpretive. The
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
