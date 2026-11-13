@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'registered 2026-11-13 from the exchange "Analyze technological civilization trap" (2026-11-13), not read. No copy was sought; it is left for a reading pass.'
+status: Unavailable
+status_note: 'searched 2026-11-13 for a lawful copy or publisher excerpt and found none. An Edge page on the book said to link an excerpt (edge.org/node/23222) was located and not checked: a lead for a later pass. Lanier''s 2000 essay "One Half a Manifesto" (LIT-tmpgxxnv) stands in for the book''s stance.'
 title: 'You Are Not a Gadget: A Manifesto'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -13,6 +13,15 @@ history:
     Library (works/OL18755648W: Knopf, 2010). No DOI found. `published:`
     is the first of January 2010. No email address was sent to any
     service.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Unavailable on 2026-11-13 (ADR-041), at the reading pass: where
+    looked is in the status note. Lanier's Edge essay "One Half a
+    Manifesto" (2000), the book's predecessor, is registered and read as
+    a stand-in for its stance (LIT-tmpgxxnv, NOTE-tmpufafo). The earlier
+    summary's "criticism of particular digital business models" is not
+    in the essay and is unverified for the book.
 tags:
 - society-and-governance
 - ethics
@@ -25,13 +34,14 @@ keywords:
 - 'human dignity'
 implementations: []
 summary: >-
-  Jaron Lanier (2010). *You Are Not a Gadget: A Manifesto*. New York:
-  Alfred A. Knopf. Unread here; registered from the exchange "Analyze
-  technological civilization trap" (2026-11-13). Named by A5 as a
-  counterpoint: criticism of particular digital business models from
-  inside technology. No idea of the exchange rests on it. What the
-  exchange says of it is unverified until read.
+  Jaron Lanier (2010). You Are Not a Gadget. Knopf. Unavailable.
+  Stand-in for its stance: "One Half a Manifesto" (LIT-tmpgxxnv,
+  NOTE-tmpufafo), an attack on "cybernetic totalism" by a technologist
+  who disclaims "glum rejection of digital technology". Whether the book
+  criticizes digital business models, as the exchange said, is
+  unverified. Account: THEORY-tmpvajjd.
 ---
+<!-- inactive-ok-file: THEORY-tmpvajjd — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # LIT-tmpj5wpm: You Are Not a Gadget: A Manifesto
 
@@ -44,3 +54,7 @@ Jaron Lanier (2010). *You Are Not a Gadget: A Manifesto*. New York: Alfred A. Kn
 ## Standing in the record
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 as a counterpoint: criticism of particular digital business models from inside technology. No idea of the exchange rests on it.
+
+## Reading of 2026-11-13
+
+Unavailable. Stand-in: LIT-tmpgxxnv, read in NOTE-tmpufafo; account THEORY-tmpvajjd.
