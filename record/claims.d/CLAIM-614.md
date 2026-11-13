@@ -95,6 +95,10 @@ summary: >-
   answers are [CLAIM-624](CLAIM-624.md) and [CLAIM-619](CLAIM-619.md), which are A's and not
   the owner's.
 ---
+<!-- inactive-ok-file: LIT-tmph9tz9 — Unfetched; registered from the same exchange -->
+<!-- inactive-ok-file: THEORY-225 — Proposed; cited as on the record -->
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
+<!-- inactive-ok-file: CLAIM-657 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form, credited as on the record -->
 <!-- inactive-ok-file: CLAIM-620 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the synthesis this complements and A's answers -->
 
@@ -186,3 +190,44 @@ owner's call.
   admissible.
 - That the organization is an agent, or that each member is culpable
   ([CLAIM-418](CLAIM-418.md)).
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim and [CLAIM-624](CLAIM-624.md) accurately, quoting
+[CLAIM-624](CLAIM-624.md)'s five conditions, and read the colonial theatre against them
+([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)): proving the stronger claim "would require more than
+documenting segregated seating or racist dramatic representation", and
+the mechanisms may have been kept "principally by colonial law and state
+authorities, rather than by theatrical organizations themselves", which
+is [QUESTION-449](../questions.d/QUESTION-449.md)'s question.
+
+A9 §7, after Kincaid and Stalion's review of the gaslighting literature
+([LIT-tmph9tz9](../literature.d/LIT-tmph9tz9.md), unread), proposed a boundary test: "whether
+organizational counter-normativity identifies a genuinely different
+mechanism: the reproduction of conditions that obstruct justified
+normative constraints, potentially without strategic manipulation or any
+single actor intending the obstruction." The record already asks the
+same of manipulation by an organized whole ([QUESTION-070](../questions.d/QUESTION-070.md)), and [CLAIM-657](CLAIM-657.md)
+says its two routes need no deliberate suppression. Not filed
+separately.
+
+A9 §9's candidate thesis applies this claim to parties an organization
+depends on: "An organization can reproduce an asymmetric dependency by
+maintaining relationships in which subordinated participants'
+contributions remain necessary to its functioning, while the
+participants' claims concerning those contributions remain ineffective
+in governing or transforming the organization." It is audited in the
+curation entry of 2026-11-12; its open part is [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md). No
+status changes.
+
+## Note of 2026-11-12: held readings on gaslighting, found on recheck
+
+The gaslighting review A9 proposed as a boundary test ([LIT-tmph9tz9](../literature.d/LIT-tmph9tz9.md)) is
+Unfetched. The record already holds two readings on that boundary, which
+the first search missed. Fricker's 2017 retrospective ([THEORY-327](../theory.d/THEORY-327.md),
+[NOTE-853](../notes.d/NOTE-853.md)) sets intentional gaslighting apart from testimonial injustice,
+which is non-deliberate; and the covert-influence analysis of manipulation
+([THEORY-225](../theory.d/THEORY-225.md), [NOTE-744](../notes.d/NOTE-744.md)) fits gaslighting among other cases, the question
+[QUESTION-070](../questions.d/QUESTION-070.md) asks of an organized whole. Whether this claim's
+counter-normativity needs an intending actor is the boundary; neither
+reading is evidence for or against the claim, so no relation is written.

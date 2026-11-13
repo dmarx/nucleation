@@ -43,6 +43,7 @@ summary: >-
   institutional systems whose standards are "authored elsewhere". This
   asks which way the organizational case goes.
 ---
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; A's answer to the question this refines, cited for the standard its verdict needs -->
 <!-- inactive-ok-file: THEORY-040 THEORY-328 — Proposed; the two sides of TERM-100's open dispute, cited as such -->
 <!-- inactive-ok-file: THEORY-1560 THEORY-1561 — Proposed; the readings filed with this entry, cited with their standing -->
@@ -141,3 +142,13 @@ it, and one that cannot. It separates "Who caused the original arrangement?
 Who maintains it now? Who could reasonably alter it?" and warns from the
 parasite cases that "causal capture is not sufficient for culpable capture".
 A's construction; the question stays Open.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §5 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this question accurately and offered the colonial
+theatre of Saint-Domingue ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)) as a case for it: the racial
+classifications that kept Black contributors' claims from standing may
+have been maintained "principally by colonial law and state authorities,
+rather than by theatrical organizations themselves. That would change
+the attribution of organizational responsibility." The case is A's
+report of unread works. The question is unchanged.

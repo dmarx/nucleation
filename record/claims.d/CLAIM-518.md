@@ -93,6 +93,7 @@ summary: >-
   removed, that the diachronic relations add to CLAIM-363's relata, is
   CLAIM-608.
 ---
+<!-- inactive-ok-file: THEORY-tmp3vb9p — Proposed, filed 2026-11-12 -->
 
 # CLAIM-518: Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment
 
@@ -196,3 +197,27 @@ duty to foster each being-in-becoming". That is 𝒜_N, offered as the
 content of a judgment and not as a further question. [CLAIM-512](CLAIM-512.md) meets it.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §4 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately, including its limit: it
+"does not establish that history constitutes an additional fundamental
+normative relatum", which is the narrow horn conceded to [CLAIM-512](CLAIM-512.md). A6's
+example: two theatres reach equally inclusive casting, one by voluntary
+reform and one "only under external pressure, while preserving
+mechanisms designed to restore exclusion whenever that pressure
+disappeared". A12 §6, after Thompson ([LIT-tmp3korg](../literature.d/LIT-tmp3korg.md), unread), adds that
+"organizational obligations can outlast the arrangements that originally
+generated them", and history is one of the grounds the owner's
+[QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md) asks about. No status changes.
+
+## Note of 2026-11-12: Thompson, read
+
+Thompson's "Groups as intergenerational agents" ([THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md), read in
+[NOTE-tmpdkxlk](../notes.d/NOTE-tmpdkxlk.md)) corroborates this claim for sense-3 wholes ([TERM-074](../terms.d/TERM-074.md)).
+German reparations, James Hardie's asbestos compensation after its
+restructuring, and the Treaty of Waitangi are judgments of present
+obligation that turn on histories a present state does not show; "What
+matters is not sameness of identity over time and change, but the
+persistence of obligations" (p. 16). Filed as `corroborates`. No status
+change.

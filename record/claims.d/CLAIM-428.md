@@ -38,6 +38,7 @@ summary: >-
   state of a relationship, and the question is when it changes the
   coupling.
 ---
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 
 # CLAIM-428: Material interdependence couples parties' outcomes without fixing the perspective that organizes the coupling: the same dependence can be organized as mutual opportunity, as competitive vulnerability or as coercive leverage, so interdependence makes for peace to the extent that cooperation also changes which interests the parties' institutions recognize and who holds influence over them, and payoff coupling alone does not settle which
 
@@ -123,3 +124,21 @@ institutional reciprocity, concentration of leverage or domestic
 constituencies, is not in the record, and the works the body cites
 for the perspectival organizations (Copeland, Farrell and Newman,
 McDonald) are Unavailable or Unfetched.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §2 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately ("material interdependence
+may be organized as mutual opportunity, competitive vulnerability, or
+coercive leverage") and offered, as "my proposed formulation, extending
+the record's analysis": "The transition from dependency to domination
+occurs not simply when one party needs another, but when one party
+acquires disproportionate authority over the conditions under which that
+need can be satisfied." That is this claim's coercive leverage with the
+holder of influence named, and is not filed separately.
+
+A6 turned the claim round, to an organization that depends on parties it
+subordinates: "a theatre director may depend on a talented Black singer
+for a production, while the singer's opportunity to perform depends on
+the director's permission" ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)). When such a dependence
+becomes the dependent-upon party's authority is [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md), A's.
+No status changes.

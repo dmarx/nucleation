@@ -71,6 +71,7 @@ summary: >-
 complements:
 - CLAIM-448
 ---
+<!-- inactive-ok-file: THEORY-tmpp9650 THEORY-tmpf6iis — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, a reading that corroborates this claim, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-362 THEORY-151 — Proposed; a claim this one cites and a reading that corroborates it, nothing here rests on them -->
@@ -287,3 +288,17 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Stasser and Titus** ([THEORY-1808](../theory.d/THEORY-1808.md)): **corroborates the separability of admission from uptake**: even unshared information that is held by a group member, and which the member was told might be news, fails to be admitted to discussion, and the group decision follows initial preferences. The paper does not separate recognition from credibility.
 
 The claim is unchanged.
+
+## Note of 2026-11-12: Prest, "Performing the Racial Scale", and the H-France Forum on Prest, read
+
+Two readings of 2026-11-12 corroborate this claim with an institutional
+instance ([TERM-074](../terms.d/TERM-074.md) sense 3), the public theatre of colonial
+Saint-Domingue. Prest ([THEORY-tmpf6iis](../theory.d/THEORY-tmpf6iis.md), [NOTE-tmpe0dw6](../notes.d/NOTE-tmpe0dw6.md)): the admission of
+people of colour to the audience was "systematic, although restricted",
+in segregated boxes, and the theatre offered "a modest degree of
+movement" within a racial scale the admitted could not revise. The
+H-France Forum ([THEORY-tmpp9650](../theory.d/THEORY-tmpp9650.md), [NOTE-tmpee3r7](../notes.d/NOTE-tmpee3r7.md)): free Black women
+admitted from 1775, during a financial crisis, first to the corridor and
+later to boxes, a "fuller form of spectatorship" that remained
+spectatorship. Filed as `corroborates` from both readings. No status
+change.

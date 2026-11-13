@@ -48,6 +48,7 @@ summary: >-
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
 ---
+<!-- inactive-ok-file: THEORY-tmp3vb9p THEORY-tmpo4ghu — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
@@ -242,3 +243,16 @@ A36 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-0
 ## Note of 2026-11-07: forks and stewardship transfers as tests of the criterion, from the second share of "Individuation, Possibility, and Disposition"
 
 A54 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c), answering the owner's U25: "QUESTION-118 already contains branching succession, so the open-source cases should test its missing identity criterion rather than create a duplicate branching thesis." The conclusion is right. Since version 4 the plural-successor part is [QUESTION-290](QUESTION-290.md), Answered by [CLAIM-328](../claims.d/CLAIM-328.md), and this question keeps the criterion. A55 §2 says the Senators example "distinguishes franchise, city, name, and supporters"; the body has franchise, city and supporters, and "name" is A's. The open-source cases, Freenode and Libera, Redis and Valkey, RethinkDB and GIMP's Windows installers, are gathered as a proposed study in [CASE-223](../cases.d/CASE-223.md), all A's reports and unverified. Open.
+
+## Note of 2026-11-12: Thompson, and Lovett and Riedener, read
+
+Two readings bear on this question for sense-3 collectives ([TERM-074](../terms.d/TERM-074.md)).
+Thompson ([THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md)) argues that for responsibility the identity
+question can be bypassed: "there are no reliable criteria for determining
+whether an agent at one time is identical to an agent at a later time"
+(p. 10), and a succession of group agents that pass obligations on does
+the work. That does not answer the question; it says normative
+persistence need not wait on its answer. Lovett and Riedener
+([THEORY-tmpo4ghu](../theory.d/THEORY-tmpo4ghu.md)) take claims that stay with an organization through
+complete turnover as a datum (p. 224), explained by the new members'
+interests. Filed as `bears_on`. The question is unchanged.

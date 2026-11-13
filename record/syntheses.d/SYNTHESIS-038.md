@@ -77,6 +77,7 @@ summary: >-
   answerability, and [CLAIM-619](../claims.d/CLAIM-619.md) a counter-corrective disposition. The
   account adds nothing of its own; its standing is its components'.
 ---
+<!-- inactive-ok-file: CLAIM-tmp16mkz CLAIM-tmpwn3wr CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CASE-247 CLAIM-656 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ARG-043 ARG-055 ARG-058 ARG-059 ARG-062 ARG-064 CASE-229 CLAIM-445 CLAIM-511 CLAIM-608 CLAIM-614 CLAIM-619 CLAIM-624 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-063 CASE-228 — Proposed; an argument concluding CLAIM-624 from outside the line, and its construction -->
@@ -209,3 +210,14 @@ adds no component the account lacks. Audited in the curation entry of
 this line, [CLAIM-662](../claims.d/CLAIM-662.md), [CLAIM-656](../claims.d/CLAIM-656.md), [CASE-247](../cases.d/CASE-247.md), [QUESTION-456](../questions.d/QUESTION-456.md)
 and [QUESTION-454](../questions.d/QUESTION-454.md), are not yet integrated, which is the owner's call at
 the next synthesis review.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+Filed on the organizational-normativity line from the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) and not
+integrated here: the owner's question what a whole owes its parts
+([QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md), refining [QUESTION-128](../questions.d/QUESTION-128.md)), A's question when an
+organization's dependence on subordinated participants becomes their
+authority ([QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md)), A's claims [CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md) and
+[CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), and the case [CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md). Whether and where they enter
+this account is for the synthesis review of the line. The account is
+otherwise unchanged.

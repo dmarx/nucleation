@@ -62,6 +62,7 @@ summary: >-
   it exact. The wording is the reader's; the twenty-fifth status review
   adopted it on 2026-11-06.
 ---
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable; Chesson's criterion, cited for the definition, not read here -->
 
 # CLAIM-546: Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community's need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first
@@ -117,3 +118,24 @@ whether they cooperate. It settles whether either can exclude the other.
   The synthesis's §2 says positive interactions can stabilize coexistence.
   The record holds no work on that, and the work the synthesis cites
   there could not be identified (curation entry of 2026-11-04).
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §2 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately ("Stable coexistence does not
+imply cooperation") and applied it to the public theatres of colonial
+Saint-Domingue, which now illustrate it ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)): "The resulting
+system might be artistically productive and organizationally stable. But
+none of that establishes that the terms of participation were fair."
+
+A6 separated five predicates the claim's lesson keeps apart:
+contribution ("A participant's activity causally enables the
+production"), dependency ("Withdrawing the contribution disrupts or
+diminishes the production"), cooperation ("Participants coordinate toward
+some shared activity or outcome"), exploitation ("One party benefits
+through arrangements that violate a justified standard governing
+another's labor, resources, or standing") and domination ("One party
+holds power over the conditions under which another can act, contest, or
+renegotiate the relationship"). The table is A's and is kept here, not
+filed as terms: exploitation and domination, so defined, need a standard
+the record does not supply ([CLAIM-363](CLAIM-363.md), [QUESTION-129](../questions.d/QUESTION-129.md)). No status
+changes.

@@ -189,3 +189,15 @@ shows the limit sharply: "A standard for successful biological functioning
 is not yet a standard for what is owed to another being." A also flags
 Leffler on constitutivism ([LIT-2444](../literature.d/LIT-2444.md), unread) as the adversarial test.
 The question stays Open.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A12 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this question and [CLAIM-075](../claims.d/CLAIM-075.md) accurately, for the
+point that what a whole morally owes its constituents "cannot
+straightforwardly be derived from" what it must maintain to keep
+functioning. The owner's U5 asked the whole-to-part part of this
+question; it is filed as [QUESTION-tmp9bbpk](QUESTION-tmp9bbpk.md), which refines this one, with
+A12's sharpening. A12's expectation is a relational account "in which
+organizational facts determine who owes what to whom, under which
+circumstances, while further normative principles determine why those
+relationships have moral authority". The question is unchanged.

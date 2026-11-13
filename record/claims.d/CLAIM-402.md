@@ -74,6 +74,8 @@ complements:
 bears_on:
 - QUESTION-028
 ---
+<!-- inactive-ok-file: CLAIM-619 — Proposed; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-tmphp6b2 — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study as corroboration, not as a ground -->
@@ -191,3 +193,18 @@ pass should rule on it.
 ## Note of 2026-11-07: the loop as an equation, and a third reading, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A41 §4 and §9 set Hacking's loop into the meaning–authority model as a fourth equation, z_{t+1} = Q(…), in which the classified population responds, and cited survey and qualitative evidence for parts of the loop (named in [CASE-222](../cases.d/CASE-222.md), not registered). A41 §9 added a third reading of later evidence beside prediction and causation: "the label is applied retrospectively to behavior that had independent causes." This supports the claim's warning; it does not test it, since no study cited separates the readings, and A says "The full causal loop therefore remains a research hypothesis." A did not cite this claim. No status changes.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A9 §4 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12), after Nurse, O'Toole and Darden's "Paradox of
+Inclusivity" ([LIT-tmphp6b2](../literature.d/LIT-tmphp6b2.md), unread), cited this claim accurately as one
+on "self-confirming classifications" and asked: "When does an
+organization's interpretation of a participant's response alter the
+conditions under which that participant's future behavior will be
+evaluated?" In A's report of the paper, staff read disengagement as
+individual deficiency, and the reading legitimates allocations that
+confirm the assumptions behind it. The record holds the loop: this claim
+(a category that institutions act on can produce the regularities that
+confirm it), [CASE-142](../cases.d/CASE-142.md) (a label confirmed by the response of someone who
+rejects it) and [CLAIM-619](CLAIM-619.md) (a challenge classified as the problem). The
+question is not filed separately. No status changes.

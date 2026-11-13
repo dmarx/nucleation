@@ -81,6 +81,7 @@ summary: >-
 complements:
 - CLAIM-405
 ---
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: THEORY-1279 THEORY-1277 — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
 
 # CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
@@ -214,3 +215,18 @@ claim's two parts.
   relativism.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §4 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately and illustrated it with four
+evaluations of one colonial production, from the colonial
+administration, the theatre's management, a Black performer and "A
+standard of freedom from enslavement": "There is no necessary logical
+inconsistency among these judgments. They evaluate different properties,
+at different scales, according to different standards." Its corollaries
+("Cultural sophistication does not establish justice. Institutional
+stability does not establish legitimacy. Artistic recognition does not
+establish freedom. Participation does not establish consent.") restate
+[CLAIM-075](CLAIM-075.md) for the case ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)). A6 cited [QUESTION-129](../questions.d/QUESTION-129.md) for the
+open part, which standard has authority when standards conflict. No
+status changes.

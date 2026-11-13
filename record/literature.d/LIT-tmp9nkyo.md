@@ -1,0 +1,44 @@
+---
+status: Active
+title: 'Dispossessed Lives: Enslaved Women, Violence, and the Archive'
+version: 2
+history:
+- version: 1
+  date: '2026-11-12'
+  note: >-
+    Filed, not read, from the exchange "About Plantation Paradise" (2026-11-12) (A9). Checked on 2026-11-12: not held in record/literature.d by identifier, title or first author. Crossref gives Marisa J. Fuentes, University of Pennsylvania Press, online 2016-06-03. No email address was sent to any service. The summary is how A describes the work; a reading should check it first.
+- version: 2
+  date: '2026-11-12'
+  note: >-
+    Skimmed on 2026-11-12 at the reading pass the owner asked for ("read the works you can reach"), in NOTE-tmp62vov, from an excerpt published by Full Stop "with permission of the University of Pennsylvania Press" (stated on the page) and the author's interview; account THEORY-tmp2zfsi. Dates: Semantic Scholar gives 2016-05-26, earlier than Crossref's online date; `published` keeps Crossref's 2016-06-03, since ADR-002 and the LIT template take the earliest full date Crossref gives. Status Active.
+tags:
+- social-science
+- epistemology
+date: '2026-11-12'
+published: '2016-06-03'
+doi: '10.9783/9780812293005'
+first_author: 'Fuentes'
+keywords:
+- 'archive'
+- 'enslaved women'
+- 'Barbados'
+- 'archival violence'
+implementations: []
+summary: >-
+  Marisa J. Fuentes (2016), Dispossessed Lives, University of Pennsylvania Press, DOI-10.9783/9780812293005. Skimmed on 2026-11-12 in [NOTE-tmp62vov](../notes.d/NOTE-tmp62vov.md) from a publisher-permitted excerpt and an author interview; account [THEORY-tmp2zfsi](../theory.d/THEORY-tmp2zfsi.md). The colonial archive is produced by the violence it records; a method requiring a sufficient base reproduces enslaved women's erasure. Corroborates [CLAIM-348](../claims.d/CLAIM-348.md) and [CLAIM-657](../claims.d/CLAIM-657.md). The Introduction and chapter 5 are the next reading.
+---
+<!-- inactive-ok-file: THEORY-tmp2zfsi — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
+<!-- inactive-ok-file: NOTE-tmp62vov — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
+<!-- inactive-ok-file: CLAIM-657 — Proposed; cited as on the record -->
+
+# LIT-tmp9nkyo: Dispossessed Lives: Enslaved Women, Violence, and the Archive
+
+Marisa J. Fuentes (2016). *Dispossessed Lives: Enslaved Women, Violence, and the Archive*. University of Pennsylvania Press. DOI-10.9783/9780812293005.
+
+## Key takeaways
+
+Skimmed in [NOTE-tmp62vov](../notes.d/NOTE-tmp62vov.md) (excerpt and interview). "History is produced from what the archive offers"; the archive recorded "victims of an impossible legal structure" as criminals; the book writes "about what an archive does not offer".
+
+## Standing in the record
+
+Registered from the exchange "About Plantation Paradise" (2026-11-12), A9. Bears on the note of 2026-11-12 on [CLAIM-348](../claims.d/CLAIM-348.md): a description the record would call inadequate may be the only evidence there is, generated under the institution's own terms ([CLAIM-350](../claims.d/CLAIM-350.md); [CLAIM-657](../claims.d/CLAIM-657.md)'s selective disappearance is the organization's own form).

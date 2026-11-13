@@ -101,6 +101,8 @@ summary: >-
 corroborates:
 - CLAIM-600
 ---
+<!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: CLAIM-tmp16mkz CLAIM-tmpwn3wr — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
 
 # CLAIM-603: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
@@ -278,3 +280,27 @@ aid dependency" (Appendix B, p. 326).
 
 From the reading in [NOTE-1770](../notes.d/NOTE-1770.md) ([LIT-2379](../literature.d/LIT-2379.md)), the reader's assessment as
 checked by the filer: not checked in detail.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §2 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately and objected to its
+reciprocal aim: "Reciprocity can reduce one-sided vulnerability. But
+reciprocal dependence is neither sufficient for freedom nor sufficient
+for justice. An enslaver might depend on an enslaved worker's labor,
+while the worker's circumstances depend on resources controlled by the
+enslaver." The test A proposed is "whether the participants can exercise
+effective control over the relationship's constitutive terms."
+
+The claim does not say reciprocity suffices for either. Its "What it does
+not say" already has that reciprocity "changes who bears a withdrawal and
+whether the supply is bargained over. It does not remove the risk." A's
+point is [CLAIM-428](CLAIM-428.md)'s, that one dependence can be organized as coercive
+leverage, applied to the reciprocal form: mutual dependence of outcomes
+is not mutual control of terms. It bounds what "reciprocity" in the
+title can be read to promise, and is not filed as a counter.
+
+The exchange put this claim's mechanism to two new uses, both A's and
+Proposed: [CLAIM-tmp16mkz](CLAIM-tmp16mkz.md), an arrangement that produces the dependence
+through which it exploits, and [CLAIM-tmpwn3wr](CLAIM-tmpwn3wr.md), a whole whose
+responsibilities grow as it takes over what its parts supplied, which
+rests on this claim. No status changes.

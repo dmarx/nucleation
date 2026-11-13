@@ -81,6 +81,11 @@ summary: >-
 complements:
 - CLAIM-518
 ---
+<!-- inactive-ok-file: NOTE-tmp62vov — Skimmed; filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-tmp2zfsi — Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
+<!-- inactive-ok-file: CLAIM-657 — Proposed; cited in the note of 2026-11-12 -->
+<!-- inactive-ok-file: LIT-tmpz9o31 — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CLAIM-658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-228 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
@@ -230,3 +235,41 @@ revenue cannot tell them apart, and a claim on behalf of the majority must.
 Filed as a note because it restates this claim for one coarse-graining. The
 wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §3 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim and [CASE-110](../cases.d/CASE-110.md) accurately, with [CASE-110](../cases.d/CASE-110.md)'s
+numbers (six and six hours against ten and two, an eight-hour cap), and
+applied them to the records of the colonial theatre ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)): a
+production notice "might preserve the title of an opera, the identity of
+a celebrated performer, or the date of a performance, but provide little
+information about the enslaved people whose work supported the event."
+A6: "every description is adequate relative to some target, and
+different targets require the preservation of different distinctions."
+
+A9 §6, after Fuentes ([LIT-tmp9nkyo](../literature.d/LIT-tmp9nkyo.md)), made a second-level point:
+"Inadequate representation ≠ Inadequate evidence generation". "The
+problem is not merely choosing a better coarse-graining of existing
+data. The problem is that the observations themselves were generated
+under unequal relations of authority." In this claim's terms: where the
+only evidence that survives is the institution's own description, no
+judgement made from it can separate states that description merges
+([CLAIM-350](CLAIM-350.md), as [CASE-110](../cases.d/CASE-110.md) applies it), so a historian's better description
+of the same records cannot recover a member's claim. It needs evidence
+generated outside the institution's representation, as A6 says Prest's
+runaway advertisements are ([LIT-tmpz9o31](../literature.d/LIT-tmpz9o31.md)). That is [CLAIM-350](CLAIM-350.md) applied to
+the historian's evidence, and it is not filed separately. [CLAIM-657](CLAIM-657.md)'s
+selective disappearance is the organization's own form of the same loss.
+No status changes.
+
+## Note of 2026-11-12: Fuentes, skimmed
+
+Fuentes's Dispossessed Lives ([THEORY-tmp2zfsi](../theory.d/THEORY-tmp2zfsi.md), skimmed in [NOTE-tmp62vov](../notes.d/NOTE-tmp62vov.md) from
+a publisher-permitted excerpt and an interview) corroborates this claim and
+the earlier note of 2026-11-12 on evidence generated under the
+institution's terms. The archive recorded "victims of an impossible legal
+structure" as criminals, a merger of states a member's claim must
+distinguish; where it is the only evidence, the merged states cannot be
+recovered from it, and Fuentes's remedy is method ("to write a history
+about what an archive does not offer"), not a finer description. A
+sense-3 case ([TERM-074](../terms.d/TERM-074.md)). Filed as `corroborates`. No status change.

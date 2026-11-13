@@ -37,6 +37,7 @@ summary: >-
   governance emerges from heterogeneous processes; this asks when a nucleus
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
 
 # QUESTION-399: Under what conditions does a productive partial organization become a self-maintaining nucleus, one whose continued operation contributes to regenerating the very constraints that make its productive influence possible?
 
@@ -100,3 +101,14 @@ Read at the owner's suggestion to look to reintroduction and ecological recovery
 
 No status changes.
 
+
+## Note of 2026-11-12: the exchange "About Plantation Paradise"
+
+A6 §1 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this question and [CLAIM-597](../claims.d/CLAIM-597.md) accurately, and asked
+whether the colonial theatre of Saint-Domingue ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)) closed
+such a loop: theatrical prestige reinforcing the hierarchy that supplied
+its labour. "The difficult question is whether this loop actually
+closes. ... To establish organizational closure, we would need to show
+how theatrical activity contributed to regenerating its own enabling
+conditions. That is an empirical question." The case does not show it.
+The question is unchanged.
