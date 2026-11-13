@@ -48,7 +48,7 @@ summary: >-
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
 ---
-<!-- inactive-ok-file: THEORY-tmp3vb9p THEORY-tmpo4ghu — Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1814 THEORY-1819 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
@@ -247,12 +247,12 @@ A54 of the second share of the exchange "Individuation, Possibility, and Disposi
 ## Note of 2026-11-12: Thompson, and Lovett and Riedener, read
 
 Two readings bear on this question for sense-3 collectives ([TERM-074](../terms.d/TERM-074.md)).
-Thompson ([THEORY-tmp3vb9p](../theory.d/THEORY-tmp3vb9p.md)) argues that for responsibility the identity
+Thompson ([THEORY-1814](../theory.d/THEORY-1814.md)) argues that for responsibility the identity
 question can be bypassed: "there are no reliable criteria for determining
 whether an agent at one time is identical to an agent at a later time"
 (p. 10), and a succession of group agents that pass obligations on does
 the work. That does not answer the question; it says normative
 persistence need not wait on its answer. Lovett and Riedener
-([THEORY-tmpo4ghu](../theory.d/THEORY-tmpo4ghu.md)) take claims that stay with an organization through
+([THEORY-1819](../theory.d/THEORY-1819.md)) take claims that stay with an organization through
 complete turnover as a datum (p. 224), explained by the new members'
 interests. Filed as `bears_on`. The question is unchanged.

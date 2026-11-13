@@ -6,8 +6,8 @@
 
 **Mereology** — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-0 of 255 CASE documents. Back to the [full index](../README.md).
+1 of 257 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-256](../../../record/cases.d/CASE-256.md) | Member and non-member under one arrangement: a person's vulnerability, the controlling actors' capacities and the institutional consequences held fixed, with the person a constituent of the organization in one case and affected by the same arrangement without being a constituent in the other, to test whether membership adds an obligation | The owner's, from the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13: a matched pair that varies only membership or constitution, to discriminate among three answers to [QUESTION-460](../../../record/questions.d/QUESTION-460.md). If the organization owes the member something more, constitution or membership has normative significance of its own; if not, vulnerability or control explains the obligation across boundaries; or the arrangement constrains without being a duty-bearer, and the obligation falls on the agents or roles that maintain it. | Proposed |

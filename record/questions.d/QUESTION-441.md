@@ -55,8 +55,8 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md), A's, and the owner has endorsed
   neither.
 ---
-<!-- inactive-ok-file: NOTE-tmpqarad — Skimmed; filed 2026-11-12 -->
-<!-- inactive-ok-file: THEORY-tmpvkzx3 — Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: NOTE-1901 — Skimmed; filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1824 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1736 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CASE-247 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
@@ -154,7 +154,7 @@ owner's [CLAIM-657](../claims.d/CLAIM-657.md), interpretive. The question stays 
 
 ## Note of 2026-11-12: Ahmed, skimmed
 
-Ahmed ([THEORY-tmpvkzx3](../theory.d/THEORY-tmpvkzx3.md), [NOTE-tmpqarad](../notes.d/NOTE-tmpqarad.md)) reports complaint procedures that
+Ahmed ([THEORY-1824](../theory.d/THEORY-1824.md), [NOTE-1901](../notes.d/NOTE-1901.md)) reports complaint procedures that
 reproduce what they address: "when offered as solutions to problems, they
 are problems given new forms" (p. 22). She counts the people employed by
 institutions within the institution, so the reproduction is not separated

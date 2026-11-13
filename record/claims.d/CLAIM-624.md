@@ -135,7 +135,7 @@ summary: >-
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
-<!-- inactive-ok-file: THEORY-tmpk4d9t — Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1818 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-610 CLAIM-611 CLAIM-615 — filed from the same exchange, Proposed or Deferred; cited as filed -->
@@ -378,7 +378,7 @@ A37's newsroom variant is [CASE-247](../cases.d/CASE-247.md). No status change.
 ## Note of 2026-11-12: Fineman, read
 
 Fineman's "The Vulnerable Subject and the Responsive State"
-([THEORY-tmpk4d9t](../theory.d/THEORY-tmpk4d9t.md), read in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md)), which the first search missed,
+([THEORY-1818](../theory.d/THEORY-1818.md), read in [NOTE-1899](../notes.d/NOTE-1899.md)), which the first search missed,
 corroborates this claim for a sense-3 whole ([TERM-074](../terms.d/TERM-074.md)), the state and its
 institutions. Recognizing institutional vulnerability calls for monitoring
 "in processes that are both transparent and inclusive" (p. 256), and

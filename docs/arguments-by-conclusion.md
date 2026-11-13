@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 103 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 105 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -219,3 +219,7 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-098](../record/arguments.d/ARG-098.md) — EvoOntology's gate ablation shows that governance raises the value of a modifiable schema *(Rejected, evidence)*
 - [CLAIM-668](../record/claims.d/CLAIM-668.md) — A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have *(Proposed, thesis)*
   - [ARG-097](../record/arguments.d/ARG-097.md) — Halpern and Moses's result on unreliable channels applies to a record read asynchronously: publishing a standing does not make it common knowledge *(Proposed, formal-application)*
+- [CLAIM-669](../record/claims.d/CLAIM-669.md) — An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it *(Proposed, thesis)*
+  - [ARG-100](../record/arguments.d/ARG-100.md) — Seamster and Charron-Chénier's predatory inclusion in education debt shows that an arrangement can exploit through the access it grants, and that widening access need not reduce it *(Proposed, evidence)*
+- [CLAIM-671](../record/claims.d/CLAIM-671.md) — Where an organizational transformation increases a constituent's vulnerability to the discretionary choices of a responsible agent, and that vulnerability grounds special obligations under an independently justified principle, the transformation can strengthen that agent's responsibilities toward the constituent *(Proposed, supposed)*
+  - [ARG-099](../record/arguments.d/ARG-099.md) — Fineman's vulnerability account shows that an organizational transformation that increases constituents' vulnerability to a responsible agent's discretion strengthens that agent's responsibilities toward them *(Rejected, evidence)*

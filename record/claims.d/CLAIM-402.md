@@ -75,7 +75,7 @@ bears_on:
 - QUESTION-028
 ---
 <!-- inactive-ok-file: CLAIM-619 — Proposed; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: LIT-tmphp6b2 — Deferred; filed from the exchange of 2026-11-12, unread -->
+<!-- inactive-ok-file: LIT-2533 — Deferred; filed from the exchange of 2026-11-12, unread -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study as corroboration, not as a ground -->
@@ -197,7 +197,7 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07)
 ## Note of 2026-11-12: the exchange "About Plantation Paradise"
 
 A9 §4 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12), after Nurse, O'Toole and Darden's "Paradox of
-Inclusivity" ([LIT-tmphp6b2](../literature.d/LIT-tmphp6b2.md), unread), cited this claim accurately as one
+Inclusivity" ([LIT-2533](../literature.d/LIT-2533.md), unread), cited this claim accurately as one
 on "self-confirming classifications" and asked: "When does an
 organization's interpretation of a participant's response alter the
 conditions under which that participant's future behavior will be

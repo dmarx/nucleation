@@ -62,7 +62,7 @@ summary: >-
   it exact. The wording is the reader's; the twenty-fifth status review
   adopted it on 2026-11-06.
 ---
-<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
+<!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable; Chesson's criterion, cited for the definition, not read here -->
 
 # CLAIM-546: Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community's need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first
@@ -123,7 +123,7 @@ whether they cooperate. It settles whether either can exclude the other.
 
 A6 §2 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) cited this claim accurately ("Stable coexistence does not
 imply cooperation") and applied it to the public theatres of colonial
-Saint-Domingue, which now illustrate it ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)): "The resulting
+Saint-Domingue, which now illustrate it ([CASE-257](../cases.d/CASE-257.md)): "The resulting
 system might be artistically productive and organizationally stable. But
 none of that establishes that the terms of participation were fair."
 

@@ -102,7 +102,7 @@ corroborates:
 - CLAIM-600
 ---
 <!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
-<!-- inactive-ok-file: CLAIM-tmp16mkz CLAIM-tmpwn3wr — filed from the exchange of 2026-11-12, Proposed -->
+<!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
 
 # CLAIM-603: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
@@ -300,7 +300,7 @@ is not mutual control of terms. It bounds what "reciprocity" in the
 title can be read to promise, and is not filed as a counter.
 
 The exchange put this claim's mechanism to two new uses, both A's and
-Proposed: [CLAIM-tmp16mkz](CLAIM-tmp16mkz.md), an arrangement that produces the dependence
-through which it exploits, and [CLAIM-tmpwn3wr](CLAIM-tmpwn3wr.md), a whole whose
+Proposed: [CLAIM-669](CLAIM-669.md), an arrangement that produces the dependence
+through which it exploits, and [CLAIM-671](CLAIM-671.md), a whole whose
 responsibilities grow as it takes over what its parts supplied, which
 rests on this claim. No status changes.

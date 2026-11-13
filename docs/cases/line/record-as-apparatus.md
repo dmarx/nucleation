@@ -6,7 +6,7 @@
 
 **The record as its own apparatus** — what an apparatus of record-keeping makes determinate, how its grammar is fixed and revised through use, and inquiry as specification — the record itself as the case; split from nucleating-argument (ADR-082).
 
-14 of 255 CASE documents. Back to the [full index](../README.md).
+14 of 257 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

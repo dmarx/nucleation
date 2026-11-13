@@ -64,7 +64,7 @@ The owner's U5 of the exchange "About Plantation Paradise" (https://chatgpt.com/
 whole might have towards its constituent parts". That is this claim's
 downward direction, asked about for any whole and without the
 authenticity line's ownership criteria. It is filed as the owner's
-question [QUESTION-tmp9bbpk](../questions.d/QUESTION-tmp9bbpk.md), on the organizational-normativity line,
+question [QUESTION-460](../questions.d/QUESTION-460.md), on the organizational-normativity line,
 whose body cites this claim and [SYNTHESIS-023](../syntheses.d/SYNTHESIS-023.md)'s finding that the content
 of the downward norm is unstated. Filing it does not reopen the
 authenticity line. No status changes.

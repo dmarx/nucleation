@@ -82,8 +82,8 @@ summary: >-
   label and [CLAIM-464](CLAIM-464.md)'s pre-emptive intervention. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpqarad — Skimmed; filed 2026-11-12 -->
-<!-- inactive-ok-file: THEORY-tmpvkzx3 — Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: NOTE-1901 — Skimmed; filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1824 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-118 CLAIM-614 — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: LIT-1311 — Proposed or Unavailable; cited with their standing -->
@@ -182,7 +182,7 @@ is a passive companion. No status change.
 A9 §3 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af620a9-b0f8-83e8-8d25-b42434630c81, 2026-11-12) restated this claim's sequence accurately (a challenge
 recategorized as disruption, the capacity for future challenge reduced,
 fewer complaints read as successful governance) and proposed Ahmed's
-*Complaint!* ([LIT-tmpjm1op](../literature.d/LIT-tmpjm1op.md), unread) as its empirical interlocutor. A's
+*Complaint!* ([LIT-2534](../literature.d/LIT-2534.md), unread) as its empirical interlocutor. A's
 methodological point: a complaint is "also a **probe of the institution's
 capacity to recognize, transmit, and act upon challenges to its
 conduct**", and the outcomes to tell apart are "complaints that are
@@ -196,7 +196,7 @@ status changes.
 
 ## Note of 2026-11-12: Ahmed, skimmed
 
-Ahmed's Complaint! ([THEORY-tmpvkzx3](../theory.d/THEORY-tmpvkzx3.md), skimmed in [NOTE-tmpqarad](../notes.d/NOTE-tmpqarad.md) from the
+Ahmed's Complaint! ([THEORY-1824](../theory.d/THEORY-1824.md), skimmed in [NOTE-1901](../notes.d/NOTE-1901.md) from the
 Introduction), about universities, sense 3 ([TERM-074](../terms.d/TERM-074.md)), corroborates the
 phenomenon this claim describes, not its test. "the same complaints
 procedures used as tools to redress bullying and harassment can be used

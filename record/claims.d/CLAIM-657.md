@@ -44,8 +44,8 @@ summary: >-
   responsibility". Interpretive. Filed by the assistant (Claude, in this
   session) in the owner's terms; the claim is the owner's.
 ---
-<!-- inactive-ok-file: NOTE-tmp62vov — Skimmed; filed 2026-11-12 -->
-<!-- inactive-ok-file: THEORY-tmp2zfsi — Proposed, filed 2026-11-12 -->
+<!-- inactive-ok-file: NOTE-1893 — Skimmed; filed 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-1813 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-652 CLAIM-662 — Proposed; the two routes, filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-624 — Proposed; the counter-corrective model and occlusion, from which the routes are distinguished -->
 
@@ -100,7 +100,7 @@ expected findings would have raised recognized violations.
 
 ## Note of 2026-11-12: Fuentes, skimmed
 
-Fuentes ([THEORY-tmp2zfsi](../theory.d/THEORY-tmp2zfsi.md), [NOTE-tmp62vov](../notes.d/NOTE-tmp62vov.md)) corroborates this claim's first
+Fuentes ([THEORY-1813](../theory.d/THEORY-1813.md), [NOTE-1893](../notes.d/NOTE-1893.md)) corroborates this claim's first
 route, historically: enslaved women survive in the colonial record only as
 "alleged criminals, enslaved prostitutes, tortured runaways, and victims of
 such violence that they were obscured from historical view", selective

@@ -196,7 +196,7 @@ A12 of the exchange "About Plantation Paradise" (https://chatgpt.com/share/6af62
 point that what a whole morally owes its constituents "cannot
 straightforwardly be derived from" what it must maintain to keep
 functioning. The owner's U5 asked the whole-to-part part of this
-question; it is filed as [QUESTION-tmp9bbpk](QUESTION-tmp9bbpk.md), which refines this one, with
+question; it is filed as [QUESTION-460](QUESTION-460.md), which refines this one, with
 A12's sharpening. A12's expectation is a relational account "in which
 organizational facts determine who owes what to whom, under which
 circumstances, while further normative principles determine why those

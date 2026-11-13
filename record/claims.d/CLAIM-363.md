@@ -81,7 +81,7 @@ summary: >-
 complements:
 - CLAIM-405
 ---
-<!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange of 2026-11-12, Proposed -->
+<!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: THEORY-1279 THEORY-1277 — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
 
 # CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
@@ -227,6 +227,6 @@ at different scales, according to different standards." Its corollaries
 ("Cultural sophistication does not establish justice. Institutional
 stability does not establish legitimacy. Artistic recognition does not
 establish freedom. Participation does not establish consent.") restate
-[CLAIM-075](CLAIM-075.md) for the case ([CASE-tmpwmg3h](../cases.d/CASE-tmpwmg3h.md)). A6 cited [QUESTION-129](../questions.d/QUESTION-129.md) for the
+[CLAIM-075](CLAIM-075.md) for the case ([CASE-257](../cases.d/CASE-257.md)). A6 cited [QUESTION-129](../questions.d/QUESTION-129.md) for the
 open part, which standard has authority when standards conflict. No
 status changes.

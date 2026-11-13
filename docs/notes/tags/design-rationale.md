@@ -4,7 +4,7 @@
 
 **design-rationale**.
 
-12 of 1890 NOTE documents. Back to the [full index](../README.md).
+12 of 1902 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

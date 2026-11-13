@@ -4,7 +4,7 @@
 
 **epistemology**.
 
-78 of 1890 NOTE documents. Back to the [full index](../README.md).
+79 of 1902 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -86,3 +86,4 @@
 | [NOTE-1834](../../../record/notes.d/NOTE-1834.md) | Boult et al. — Learning and the Unknown: Surveying Steps toward Open World Recognition | The paper reviews the authors' formalization of open set recognition (OSR) and open world recognition. It argues that classic tools for unknown inputs (reject options, background or garbage classes, uncertainty thresholds, Bayesian posteriors) do not solve the problem. A classifier that labels unbounded "open space" far from its training data has unbounded open space risk. | Read |
 | [NOTE-1878](../../../record/notes.d/NOTE-1878.md) | de Kleer and Williams — Diagnosis with Behavioral Modes | Model-based diagnosis that uses only correct-behaviour models identifies faulty components without knowing how they fail, but treats unlikely faults as seriously as likely ones. Sherlock extends GDE so that each component has a set of behavioural modes (good modes, known fault modes, and an "unknown" mode that predicts nothing and so never conflicts with evidence), with prior probabilities. Diagnosis becomes identifying the most probable mode assignment. | Read |
 | [NOTE-1886](../../../record/notes.d/NOTE-1886.md) | Doyle — A Glimpse of Truth Maintenance | The TMS records, for each belief (node), the reasons (justifications) for it, and keeps the set of current beliefs consistent with those reasons. A node is believed (in) if at least one of its justifications is valid, out otherwise. An SL-justification is valid when every node in its in-list is in and every node in its out-list is out; a non-empty out-list makes the node an assumption, believed because something else is not. | Read |
+| [NOTE-1893](../../../record/notes.d/NOTE-1893.md) | Fuentes (2016) — Dispossessed Lives: Enslaved Women, Violence, and the Archive | Fuentes set out to write about enslaved women's lives in colonial Bridgetown, Barbados, and found only records made by owners, courts, executioners and newspapers, in which the women appear as fragments. The book turns the absence into its subject: the archive's violence and the discipline's demand for sources together produce erasure, and the historian must write "about what an archive does not offer". | Skimmed |
