@@ -64,6 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable; Chesson's criterion, cited for the definition, not read here -->
+<!-- inactive-ok-file: TERM-tmp169d8 TERM-tmpc9uv8 — Proposed; filed 2026-11-13 from A's predicates kept in the note of 2026-11-12 -->
 
 # CLAIM-546: Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community's need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first
 
@@ -139,3 +140,13 @@ renegotiate the relationship"). The table is A's and is kept here, not
 filed as terms: exploitation and domination, so defined, need a standard
 the record does not supply ([CLAIM-363](CLAIM-363.md), [QUESTION-129](../questions.d/QUESTION-129.md)). No status
 changes.
+
+## Note of 2026-11-13: two of A's predicates proposed as terms
+
+At the owner's acceptance on 2026-11-13 of the step-12 ideas of #488, the
+two predicates the note above kept here are proposed as terms, with the
+standard made a relatum declared with each judgment rather than one the
+record must supply first: exploitation (TERM-tmp169d8) and domination
+(TERM-tmpc9uv8). How the record tells them apart in a case is
+QUESTION-tmpyesgg. The terms are the assistant's wording, after A's, and
+Proposed. This claim is unchanged.
