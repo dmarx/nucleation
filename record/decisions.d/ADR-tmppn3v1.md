@@ -12,7 +12,7 @@ summary: >-
   compulsion, automation and deskilling, technical codes and the politics
   of artifacts, design that steers or captures its users, critical theory
   of technology and convivial tools. It enters because the filing of the
-  exchange "Analyze technological civilization trap" (pull request #489)
+  exchange "Analyze technological civilization trap" (pull request [#489](https://github.com/dmarx/nucleation/issues/489))
   registered 27 works on these subjects under the nearest words, and the
   owner asked for the word. First applied beside the existing tags of 18
   held works whose subject it is; the 27 take it once both pull requests
@@ -31,7 +31,7 @@ summary: >-
 
 The filing of the exchange "Analyze technological civilization trap"
 (2026-11-13, https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597;
-pull request #489) registered 27 works A cited, unread and Deferred: Ellul,
+pull request [#489](https://github.com/dmarx/nucleation/issues/489)) registered 27 works A cited, unread and Deferred: Ellul,
 Illich, Mumford, Marcuse, Postman, Winner, Feenberg, Hui, Han, Rosa,
 Crawford, Zuboff and others. Most of them are about one subject: what
 technology is, and what it does to the people who live with it. The
@@ -55,16 +55,16 @@ wrong in its own way:
   descriptive and critical question of what a technology does, which
   comes before any verdict on it.
 
-The owner asked for the word ("add the phil tech topic"). ADR-062
+The owner asked for the word ("add the phil tech topic"). [ADR-062](ADR-062.md)
 records the owner's word that the vocabulary may be expanded where
-merited, and ADR-097 is the latest decision of this form.
+merited, and [ADR-097](ADR-097.md) is the latest decision of this form.
 
 The record already held works of this kind without a word: Arthur on
-increasing returns and the lock-in of technologies (LIT-1314, the
-source of THEORY-863), Bainbridge's "Ironies of automation" (LIT-2225)
-and the readings of it on AI and deskilling (LIT-2222, LIT-2224),
+increasing returns and the lock-in of technologies ([LIT-1314](../literature.d/LIT-1314.md), the
+source of [THEORY-863](../theory.d/THEORY-863.md)), Bainbridge's "Ironies of automation" ([LIT-2225](../literature.d/LIT-2225.md))
+and the readings of it on AI and deskilling ([LIT-2222](../literature.d/LIT-2222.md), [LIT-2224](../literature.d/LIT-2224.md)),
 Susser, Roessler and Nissenbaum on technology and manipulation
-(LIT-1002), and Doctorow on platform lock-in (LIT-731).
+([LIT-1002](../literature.d/LIT-1002.md)), and Doctorow on platform lock-in ([LIT-731](../literature.d/LIT-731.md)).
 
 ## Decision
 
@@ -94,47 +94,47 @@ boundary:
   takes this word as well when it argues about technology as such.
 - How software is built, tested and changed is `software-engineering`.
 - Instruction for machine-learning practice belongs to the anthology
-  (ADR-048).
+  ([ADR-048](ADR-048.md)).
 
 How it is applied:
 
 - **Beside the existing tags** of 18 held works on the default branch
   whose subject it is. Primary topics are unchanged, and the word goes
   after the topics and before the `anthology-candidate` flag
-  (ADR-005). Nothing is removed. Each work takes a version bump with a
+  ([ADR-005](ADR-005.md)). Nothing is removed. Each work takes a version bump with a
   history note citing this decision.
-  - Lock-in: LIT-1314 (Arthur, competing technologies and lock-in);
-    LIT-731, LIT-033 and LIT-753 (Doctorow, platform decay sustained
+  - Lock-in: [LIT-1314](../literature.d/LIT-1314.md) (Arthur, competing technologies and lock-in);
+    [LIT-731](../literature.d/LIT-731.md), [LIT-033](../literature.d/LIT-033.md) and [LIT-753](../literature.d/LIT-753.md) (Doctorow, platform decay sustained
     by lock-in and blocked interoperability).
-  - Automation and deskilling: LIT-2225 (Bainbridge); LIT-2222 (Ahn,
-    Bainbridge applied to AI in medical education); LIT-2224
+  - Automation and deskilling: [LIT-2225](../literature.d/LIT-2225.md) (Bainbridge); [LIT-2222](../literature.d/LIT-2222.md) (Ahn,
+    Bainbridge applied to AI in medical education); [LIT-2224](../literature.d/LIT-2224.md)
     (Macnamara et al., skill decay under AI assistance).
-  - Technology and autonomy, design that steers its users: LIT-1002
-    (Susser, Roessler and Nissenbaum); LIT-1465 (Flayelle et al., design
-    features that promote addictive use); LIT-2425 (Brown, recommender
-    systems and authenticity); LIT-2373 (Dorsch et al., engagement
-    algorithms and epistemic agency); LIT-197 (Sharman, AI and free
+  - Technology and autonomy, design that steers its users: [LIT-1002](../literature.d/LIT-1002.md)
+    (Susser, Roessler and Nissenbaum); [LIT-1465](../literature.d/LIT-1465.md) (Flayelle et al., design
+    features that promote addictive use); [LIT-2425](../literature.d/LIT-2425.md) (Brown, recommender
+    systems and authenticity); [LIT-2373](../literature.d/LIT-2373.md) (Dorsch et al., engagement
+    algorithms and epistemic agency); [LIT-197](../literature.d/LIT-197.md) (Sharman, AI and free
     will).
-  - Technical codes: LIT-1297 (Perzanowski and Schultz, licences and DRM
-    that remake ownership); LIT-1328 (Lan, verification interfaces that
-    shift the cost of legibility onto users); LIT-1618 (Nissenbaum,
+  - Technical codes: [LIT-1297](../literature.d/LIT-1297.md) (Perzanowski and Schultz, licences and DRM
+    that remake ownership); [LIT-1328](../literature.d/LIT-1328.md) (Lan, verification interfaces that
+    shift the cost of legibility onto users); [LIT-1618](../literature.d/LIT-1618.md) (Nissenbaum,
     barriers to accountability built into computerized systems).
-  - What a technology is: LIT-848 (Farrell, Gopnik, Shalizi and Evans,
-    large models as cultural and social technologies); LIT-896 and
-    LIT-897 (Floridi, AI as agency without intelligence).
+  - What a technology is: [LIT-848](../literature.d/LIT-848.md) (Farrell, Gopnik, Shalizi and Evans,
+    large models as cultural and social technologies); [LIT-896](../literature.d/LIT-896.md) and
+    [LIT-897](../literature.d/LIT-897.md) (Floridi, AI as agency without intelligence).
 - **Not** to works whose subject is the governance or measurement of a
   platform rather than technology as such: the media and recommender
-  works filed on 2026-11-11 and 12 (for example LIT-1331, LIT-2362,
-  LIT-2361, LIT-1342, LIT-2386), algorithmic monoculture
-  (LIT-1326), oversight of algorithmic nudging (LIT-179), and the
-  safety-science works (LIT-743, LIT-2477). Nor to Pierson's increasing
-  returns in politics (LIT-1372), technology adoption under trade
-  protection (LIT-1489), cognitive offloading as a cognitive strategy
-  (LIT-1059), or Jasanoff's "technologies of humility" (LIT-1594),
+  works filed on 2026-11-11 and 12 (for example [LIT-1331](../literature.d/LIT-1331.md), [LIT-2362](../literature.d/LIT-2362.md),
+  [LIT-2361](../literature.d/LIT-2361.md), [LIT-1342](../literature.d/LIT-1342.md), [LIT-2386](../literature.d/LIT-2386.md)), algorithmic monoculture
+  ([LIT-1326](../literature.d/LIT-1326.md)), oversight of algorithmic nudging ([LIT-179](../literature.d/LIT-179.md)), and the
+  safety-science works ([LIT-743](../literature.d/LIT-743.md), [LIT-2477](../literature.d/LIT-2477.md)). Nor to Pierson's increasing
+  returns in politics ([LIT-1372](../literature.d/LIT-1372.md)), technology adoption under trade
+  protection ([LIT-1489](../literature.d/LIT-1489.md)), cognitive offloading as a cognitive strategy
+  ([LIT-1059](../literature.d/LIT-1059.md)), or Jasanoff's "technologies of humility" ([LIT-1594](../literature.d/LIT-1594.md)),
   where "technology" names habits of thought in governing science. Nor to
   the software-engineering works, which are about building software, not
   what it does to its users.
-- **The 27 works of pull request #489** are not on the default branch.
+- **The 27 works of pull request [#489](https://github.com/dmarx/nucleation/issues/489)** are not on the default branch.
   They take the word once both pull requests are merged, beside the tags
   they were filed with, and as primary where technology is the work's
   whole subject (Ellul, Winner, Feenberg, Illich's *Tools for
