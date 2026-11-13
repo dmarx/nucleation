@@ -24,6 +24,9 @@ summary: >-
   could fail, and how its parts are weighed. The standard is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpkqwn1 CLAIM-tmph4j5r CLAIM-tmpwgiwq CLAIM-tmpwvg2o TERM-tmpexetd — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
+<!-- inactive-ok-file: CLAIM-603 THEORY-1818 — Proposed; held entries the recaps map to, cited with their standing -->
+<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse -->
 <!-- inactive-ok-file: CLAIM-tmp58u4k CLAIM-tmpfyxes CLAIM-tmpplibk CLAIM-tmp6yhlh CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-tmpockqy THEORY-tmp4ajaz THEORY-411 — Proposed; the readings the standard combines, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the line and the admission routes -->
@@ -52,3 +55,66 @@ Its parts are on the record: Sen's substantive freedom ([THEORY-tmpockqy](../the
 ## Bears on
 
 The claims of this line that take part in it: [CLAIM-tmp58u4k](../claims.d/CLAIM-tmp58u4k.md) (preference satisfaction), [CLAIM-tmpfyxes](../claims.d/CLAIM-tmpfyxes.md) (who may judge worth), [CLAIM-tmpplibk](../claims.d/CLAIM-tmpplibk.md) (meaning measured), [CLAIM-tmp6yhlh](../claims.d/CLAIM-tmp6yhlh.md) (assistance and participation), and [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) (capability as a trajectory).
+
+## Note of 2026-11-13: the exchange's recaps of the standard, mapped
+
+The exchange (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) restates the standard this question asks about several
+times, as lists, tables and a declaration. When the exchange was filed
+they were left as recaps; at the owner's word of 2026-11-13 ("file the
+still unfiled stuff") each is mapped here. None states a claim beyond its
+components, so none is filed on its own.
+
+- **A8 §XII, the progress dashboard (the first filing's name for it)**: eight dimensions (material
+  conditions, effective autonomy, institutional accountability, human
+  competence, sovereign time, social relationships, ecological
+  sustainability, democratic agency) and a refusal of "a single master
+  index": "The purpose of evaluation is to make tradeoffs visible, not
+  pretend they have disappeared." It is a candidate for this question's
+  second half that declines to answer it. Sen's partial ordering
+  (THEORY-411) goes further, ranking where every admissible weighting
+  agrees; the dashboard does not say whether it would. A13 §VIII's
+  "Convivial Assessment" (seven dimensions, "We should not combine these
+  into a single universal score") and A11 §35 ("not the replacement of
+  philosophy with a dashboard") take the same position. Its "regressive
+  progress" pair is filed as CASE-tmpkqwn1, a test any statement of the
+  standard must pass; its "sovereign time" as CLAIM-tmph4j5r.
+- **A9 §X, the three ideals**: agency, meaningful engagement and
+  non-domination, which "complement one another, but none can substitute
+  for the others": "Agency without meaningful engagement risks becoming
+  mere optionality. Meaningful engagement without agency risks becoming
+  imposed purpose." These are the standard's three parts as this
+  question's title names them, with CLAIM-tmp58u4k and CLAIM-tmpfyxes for
+  the two failures.
+- **A11 Part XIV, the ten theses**: (1) the primacy of human ends, this
+  question's standard; (2) substantive freedom, CLAIM-352 and Sen's reading
+  THEORY-tmpockqy; (3) meaningful engagement, THEORY-tmp4ajaz and
+  CLAIM-tmp58u4k; (4) relational human nature, CLAIM-603's reciprocity
+  and Fineman's reading THEORY-1818; (5) non-domination, CLAIM-tmpkjv7u;
+  (6) technological contestability, CLAIM-tmpwgiwq; (7) the value of human
+  participation, CLAIM-tmp6yhlh; (8) pluralism and humility, CLAIM-tmpfyxes;
+  (9) restraint, CLAIM-tmpwvg2o and TERM-tmpexetd; (10) progress as
+  expanded possibility, this question's standard again. A11 Part XV's
+  "statement of first principles" restates the ten theses as prose.
+- **A8 §I, the anthropology**: human beings as agents and not consumers of
+  experiences (CLAIM-tmp58u4k), constitutively social (CLAIM-603,
+  THEORY-1818), shaped by their environments (Marcuse, THEORY-tmpoxssh),
+  embodied and finite (no entry; a premise, not a claim), and with
+  irreducibly plural flourishing (CLAIM-tmpfyxes).
+- **A9 §VIII, the institutional table**: for education, work, technology,
+  culture, economy and community, an agency-centred concern and "Wolf's
+  additional concern". Its conclusion is CLAIM-tmpfyxes: "Institutions can
+  cultivate the conditions for meaningful engagement, but they cannot
+  legitimately guarantee meaning by imposing particular commitments."
+- **A10 §VII, the four questions of progress** (capability, meaning,
+  agency, non-domination): already this question's summary.
+- **A20 §XII, the six layers** (realizability, governance, reflexivity,
+  legitimacy, substantive freedom, flourishing): "distinct questions, not a
+  claim that each necessarily causes the next". Its non-inferences are held:
+  ability does not establish authority (CLAIM-349's access, authority and
+  action), authority does not establish legitimacy (CLAIM-523: none of its
+  achievements "establishes that the demand or the revision is
+  justified"), opportunities do not guarantee engagement (CLAIM-tmp58u4k),
+  and an organization's success does not establish its constituents'
+  well-being (CLAIM-060).
+
+The question is unchanged.

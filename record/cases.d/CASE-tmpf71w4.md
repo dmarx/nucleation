@@ -80,3 +80,19 @@ about skills that are not learned by doing.
 It is stipulated and unrun. Whether a skill decays with disuse at the rate
 the model needs, and whether there is a threshold below which practice no
 longer rebuilds it, are what it would find out; nothing here assumes them.
+
+## Note of 2026-11-13: A13 §VIII's three tutoring models, mapped
+
+A13 §VIII of the exchange (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), "A worked example: AI in education", which the
+first filing left as a worked example that illustrates, sets three models
+for a school system: "Comprehensive automation", "Technological
+restriction" and "Capability-centered augmentation". They are this case's
+three arms at the scale of an institution: substitutive assistance, no
+assistance, capacity-first assistance. What the models add is institutional:
+whether "teachers retain substantial professional discretion", and A's
+reason to fear the restriction arm, that it "risks withholding powerful
+educational assistance from students who would benefit from it", which a
+study of one skill does not measure. A favours Model C "provisionally" and
+says the preference "must remain empirically revisable"; this case is the
+kind of evidence that would revise it, for the skill learned and not for
+the school. Nothing is filed from the example; the case is unchanged.

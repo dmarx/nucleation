@@ -26,6 +26,7 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
+<!-- inactive-ok-file: CLAIM-tmpub743 CASE-tmpbjaiq — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
@@ -192,3 +193,25 @@ circumstances becomes "a treatable and tractable incident", "subsumed
 under another genus-that of personal hardship cases". The mechanism is
 satisfaction and the translation of claims into personal cases, not
 exclusion. Evidence for the second branch; the question is unchanged.
+
+## Note of 2026-11-13: constitutive exploitation, the threshold's third condition, and a case
+
+At the owner's word of 2026-11-13 ("file the still unfiled stuff"), three
+entries were filed that bear on this question.
+
+- **QUESTION-tmpkefdg** refines it: what makes the terms on which an
+  organization's sustaining activities are organized unjust, A23 §4's
+  "constitutive exploitation" with its standard left open. The four-way
+  separation of contribution, dependence, effective authority and moral
+  standing stays as the note above maps it: held, adding examples, not a
+  result.
+- **CLAIM-tmpub743** (the assistant's) says which part of CLAIM-tmpkjv7u's
+  third condition the record's three achievements of normative efficacy
+  cover: voice, at the controllers and at any party able to constrain them,
+  and not exit.
+- **CASE-tmpbjaiq**, A23 §9's hospital network: the contractors are
+  indispensable contributors whose contributions do not become claims, and
+  the test asks whether a justified objection would be as effective from a
+  low-status party as from clinicians.
+
+The question is unchanged.
