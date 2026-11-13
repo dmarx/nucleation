@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from a UC Davis course page (ECS 188) ([NOTE-tmpu15jn](../notes.d/NOTE-tmpu15jn.md)).'
 title: 'Five Things We Need to Know About Technological Change'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -15,7 +15,13 @@ history:
     author. No email address was sent to any service. A talk, no DOI;
     `published:` is the date the copy gives for its delivery. The copy
     opens with an ellipsis, so an opening may be missing.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - epistemology
 date: '2026-11-13'

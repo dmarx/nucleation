@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from the Carnegie Council''s own PDF of the event page ([NOTE-tmp6ywh9](../notes.d/NOTE-tmp6ywh9.md)).'
 title: 'To Save Everything, Click Here: The Folly of Technological Solutionism (Carnegie Council talk)'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -15,7 +15,13 @@ history:
     by identifier, title or author. No email address was sent to any
     service. A talk transcript; the PDF holds the introduction and
     Morozov's remarks, not the Q&A.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 date: '2026-11-13'
 published: '2013-04-12'

@@ -5,6 +5,7 @@ version: 1
 source:
 - LIT-tmpt7q8j
 tags:
+- philosophy-of-technology
 - society-and-governance
 - anthology-candidate
 date: '2026-11-13'

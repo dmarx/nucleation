@@ -6,6 +6,7 @@ source:
 - LIT-tmpve5jy
 - LIT-tmp5j2b7
 tags:
+- philosophy-of-technology
 - society-and-governance
 - complex-systems
 date: '2026-11-13'

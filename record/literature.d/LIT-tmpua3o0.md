@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 in part: the Introduction, as a ProQuest export on a course reading page (gofilipa.github.io) ([NOTE-tmpqutzv](../notes.d/NOTE-tmpqutzv.md), Skimmed). An IAS excerpt page served a Cloudflare challenge.'
 title: 'Race After Technology: Abolitionist Tools for the New Jim Code'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -19,9 +19,16 @@ history:
   note: >-
     Active on 2026-11-13, at the reading pass. Skimmed: the Introduction
     (NOTE-tmpqutzv), a course-page copy of a chapter. Summary rewritten.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2019-01-01'
 url: 'https://openlibrary.org/works/OL20794423W'

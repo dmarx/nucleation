@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'searched 2026-11-13 for a lawful copy and found none: OUP via doi.org paywalled; OpenAlex closed; the SSIR review page paywalled; no publisher sample found. Stand-ins: Adewuyi''s open review in JEET (2026, LIT-tmpe83ys), read, thin; Vallor''s own paper on moral deskilling (LIT-tmpru6bh), Unfetched (Cloudflare challenge at scholarcommons.scu.edu/phi/7/, 2026-11-13); and, registered and read on 2026-11-13, Vallor''s CyCon 2013 paper (LIT-tmpcm4m7), first-hand for the deskilling thesis, and her Noema essay of 2024-05-23 (LIT-tmpqx6sc), thin to partial for the book''s stance. Her New Humanist speech (newhumanist.org.uk/2024/07/31/how-ai-prevents-progress/) served HTTP 403 with a challenge marker on 2026-11-13, not retried.'
 title: 'The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-13'
@@ -37,7 +37,13 @@ history:
     devaluation of agency, reclamation), not its backward-looking mirror
     or practical wisdom. The status stays Unavailable. The summary is
     rewritten.
+- version: 4
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - ethics
 - anthology-candidate
 date: '2026-11-13'

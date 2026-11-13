@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Han''s seductive power and auto-exploitation, Benjamin''s default discrimination and Marcuse''s administration, which runs through the choice of a society''s project and is veiled, show that a complete dependence can be domination or unfreedom on serious accounts without anyone holding present discretion over the dependent, so the domination threshold holds only as a test for domination by an arrangement''s controllers'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-13'
@@ -16,6 +16,12 @@ history:
     and the critical question on controllers are revised, and
     THEORY-tmpoxssh is added to the grounds. The conclusion and the
     status are unchanged.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of the subject but not the whole. No tag
+    dropped; no other change.
 form: evidence
 grounds:
 - THEORY-tmpoxssh
@@ -28,6 +34,7 @@ concludes:
 tags:
 - society-and-governance
 - ethics
+- philosophy-of-technology
 date: '2026-11-13'
 line:
 - organizational-normativity

@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 in full from the journal''s open PDF, jeet.ieet.org/index.php/home/article/download/225/179/1059 ([NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md)). The PDF carries the author''s contact address; it was not reproduced or used.'
 title: 'Humans are the Danger, Not AI: A Review of Shannon Vallor''s The AI Mirror'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -14,7 +14,13 @@ history:
     2026-11-13: not held in record/literature.d by identifier, title or
     author. No email address was sent to any service. Crossref:
     2026-03-24, book review.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - ethics
 date: '2026-11-13'
 published: '2026-03-24'

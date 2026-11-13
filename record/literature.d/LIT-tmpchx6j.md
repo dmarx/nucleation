@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy or sample found on 2026-11-13. Crawford''s NYT op-ed "The Cost of Paying Attention" (2015-03-08) was read only to the paywall (six paragraphs: attention as a resource held in common); a reprint at speakers.ca was refused by this session''s permission system and not pursued; Hedgehog Review (HTTP 403) and LA Review of Books (Cloudflare) stopped. Two stand-ins registered and read on 2026-11-13: Crawford''s interview in Field Actions Science Reports (LIT-tmp0gt3l), first-hand, for the book''s diagnosis (attention as a commons, the captive audience, distraction as political economy, environments that remove contingency); and Dijkema''s review in Comment (LIT-tmpnno4c), second-hand, for its positive account (the ecology of attention, communities of skilled practice). Neither carries jigs, affordances or the casino chapter.'
 title: 'The World Beyond Your Head: On Becoming an Individual in an Age of Distraction'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-13'
@@ -34,7 +34,13 @@ history:
     affordances or the casino chapter. The status stays Unavailable: no
     copy of the book was found. The summary is rewritten from the
     stand-ins.
+- version: 4
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - cognition
 - ethics
 - embodied-cognition

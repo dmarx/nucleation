@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy or excerpt of the book found on 2026-11-13. Han''s 2014 essay ([LIT-tmpc4h2j](LIT-tmpc4h2j.md)) stands in for its central thesis; an openDemocracy translation was behind a registration wall, not passed.'
 title: 'Psychopolitics: Neoliberalism and New Technologies of Power'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -19,9 +19,16 @@ history:
     Unavailable on 2026-11-13 (ADR-041), at the reading pass. Han's 2014
     essay, read in a licensed reprint, is registered as a stand-in
     (LIT-tmpc4h2j, NOTE-tmphjyfw).
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2017-01-01'
 url: 'https://openlibrary.org/works/OL20812815W'

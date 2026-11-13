@@ -7,6 +7,7 @@ source:
 corroborates:
 - CLAIM-tmp6wuql
 tags:
+- philosophy-of-technology
 - ethics
 - learning-and-conditioning
 date: '2026-11-13'

@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement''s controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-13'
@@ -20,6 +20,12 @@ history:
     it; those readings bound it. defeated_if and summary restated to
     match. Zuboff 2022 (THEORY-tmpbgf6v) corroborates it as a worked
     case. Still Proposed.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of the subject but not the whole. No tag
+    dropped; no other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +43,7 @@ tags:
 - society-and-governance
 - ethics
 - self-governance
+- philosophy-of-technology
 date: '2026-11-13'
 line:
 - organizational-normativity

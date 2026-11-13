@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'searched 2026-11-13 for a lawful copy and found none: whole-book uploads at archive.org and anarchist-library mirrors were not fetched, not being lawful copies; "The Technological Order" (1962) was not found at the address a search gave (ellul.org/?p=18, HTTP 404); PhilPapers'' API returned HTTP 403 for a related analysis and was not retried. Ellul''s 1983 restatement, as posted by the International Jacques Ellul Society ([LIT-tmplagrk](LIT-tmplagrk.md)), stands in for the definition and thesis.'
 title: 'The Technological Society'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -24,7 +24,13 @@ history:
     preface, is registered and read as a stand-in (LIT-tmplagrk,
     NOTE-tmp8721q). U1's definition of technique is a fair paraphrase,
     not Ellul's wording.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - social-science
 date: '2026-11-13'

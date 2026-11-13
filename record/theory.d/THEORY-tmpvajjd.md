@@ -5,6 +5,7 @@ version: 1
 source:
 - LIT-tmpgxxnv
 tags:
+- philosophy-of-technology
 - society-and-governance
 - software-engineering
 date: '2026-11-13'

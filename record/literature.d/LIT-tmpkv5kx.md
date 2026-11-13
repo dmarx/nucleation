@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy of either volume found on 2026-11-13. Mumford''s "Authoritarian and Democratic Technics" (Technology and Culture 5(1), 1964) was located only at the anarchist library and its mirror and on Scribd, not lawful kinds, and was not fetched; two search results (core.ac.uk, PhilArchive) served Cloudflare challenges, not retried. Casey Nelson Blake''s encyclopedia entry on Mumford on Verso''s site was read; it is thin and is not registered. A partial stand-in registered and read on 2026-11-13: Winner''s "Do Artifacts Have Politics?" (1980; LIT-tmpko07b), which quotes the 1964 essay''s sentence on the two technics and sharpens the distinction; it does not carry the megamachine.'
 title: 'The Myth of the Machine'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-13'
@@ -35,7 +35,13 @@ history:
     megamachine, the history of technics or The Pentagon of Power. The
     status stays Unavailable. U1's glosses are close to Mumford's sentence
     and drop its instability and durability. The summary is rewritten.
+- version: 4
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - social-science
 date: '2026-11-13'

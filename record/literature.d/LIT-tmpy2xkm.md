@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy or sample of the book found on 2026-11-13. Crawford''s 2006 essay of the same title ([LIT-tmphoqwi](LIT-tmphoqwi.md)), the book''s seed, stands in for its argument.'
 title: 'Shop Class as Soulcraft: An Inquiry into the Value of Work'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -18,9 +18,16 @@ history:
     Unavailable on 2026-11-13 (ADR-041), at the reading pass. The 2006
     essay is registered and read as a stand-in (LIT-tmphoqwi,
     NOTE-tmpjk31w).
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - ethics
 - well-being
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2009-01-01'
 url: 'https://openlibrary.org/works/OL13759269W'

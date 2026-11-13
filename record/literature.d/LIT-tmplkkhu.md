@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 in part: chapter 1 from a University of Athens course page ([NOTE-tmplo9b2](../notes.d/NOTE-tmplo9b2.md), Skimmed); the 1998 talk ([LIT-tmptlpr8](LIT-tmptlpr8.md)) as a stand-in for the principles. A whole-book copy on a personal site was not fetched.'
 title: 'Technopoly: The Surrender of Culture to Technology'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -22,7 +22,13 @@ history:
     U1's sentence about treating the unmeasurable as unimportant is not
     in chapter 1 or the talk and is not to be quoted as Postman's.
     Summary rewritten.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - epistemology
 date: '2026-11-13'

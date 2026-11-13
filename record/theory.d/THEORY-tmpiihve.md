@@ -10,6 +10,7 @@ corroborates:
 tags:
 - ethics
 - well-being
+- philosophy-of-technology
 date: '2026-11-13'
 promote_when: >-
   a reading of the essay confirms the cognitive richness of manual work,

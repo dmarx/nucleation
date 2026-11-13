@@ -2,7 +2,7 @@
 status: Active
 status_note: 'a two-page excerpt read on 2026-11-13 (NOTE-tmp8ceuj, Skimmed) from https://iso.mor.phis.me/teaching/2023-2024/IA/textes/conviviality.pdf, a teaching page''s PDF headed "Extrait du livre Tools for conviviality paru en 1973": an excerpt, not the whole-book copy this note called it before. The whole book at https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf is Unfetched on 2026-11-13: TLS verification failed (the server''s certificate chains to a root this session does not trust), and it was not worked around. Both copies are covered by the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). Cayley''s reading (LIT-tmpc1xee) still stands in for the burial case and "unimaginable". Energy and Equity (1974; LIT-tmpb6b92), read in full on 2026-11-13 from a course page at ecourses.uprm.edu, stands in for what the excerpt does not reach on radical monopoly and the threshold, not for the burial case or "unimaginable". Located and Unfetched, not registered: Carl Mitcham, "Tools for Conviviality: Argument, Insight, Influence", https://thinkingafterivanillich.net/wp-content/uploads/2022/10/Tools-for-Conviviality-Argument-Insight-Influence.pdf, a scholarly paper on a research-group site; on 2026-11-13 the session''s proxy answered "CONNECT tunnel failed, response 502", not retried.'
 title: 'Tools for Conviviality'
-version: 4
+version: 5
 history:
 - version: 1
   date: '2026-11-13'
@@ -54,7 +54,13 @@ history:
     which still rest on Cayley. Mitcham's paper on Tools for Conviviality
     was located and is Unfetched (proxy 502, 2026-11-13); it is recorded
     in the status note and not registered. The status stays Active.
+- version: 5
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - ethics
 date: '2026-11-13'

@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from the authors'' own site, anatomyof.ai ([NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md)).'
 title: 'Anatomy of an AI System: The Amazon Echo as an anatomical map of human labor, data and planetary resources'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -17,7 +17,13 @@ history:
     all the page gives. A review of Atlas of AI by Cugurullo
     (Tecnoscienza 13(1), pp. 157–160, open) was also read and is cited
     in the NOTE, not registered.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - anthology-candidate
 date: '2026-11-13'

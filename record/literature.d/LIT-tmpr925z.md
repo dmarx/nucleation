@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy found on 2026-11-13: whole-book uploads (archive.org, an epub forum) not fetched; the FAZ essay behind a registration wall; "Big Other" (2015) behind Cloudflare at SAGE and AIS, not retried. Zuboff''s 2022 Organization Theory article ([LIT-tmpfz7zh](LIT-tmpfz7zh.md)) stands in.'
 title: 'The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -21,9 +21,16 @@ history:
     Unavailable on 2026-11-13 (ADR-041), at the reading pass. Zuboff's
     2022 open article is registered and Skimmed as a stand-in
     (LIT-tmpfz7zh, NOTE-tmph5wwv).
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2019-01-01'
 url: 'https://openlibrary.org/works/OL18201749W'

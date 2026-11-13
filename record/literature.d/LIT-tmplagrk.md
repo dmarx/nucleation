@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from the International Jacques Ellul Society''s page, ellul.org/themes/ellul-and-technique/ ([NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md)).'
 title: 'The Search for Ethics in a Technicist Society (introductory paragraphs, as posted by the International Jacques Ellul Society)'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -16,7 +16,13 @@ history:
     service. `published:` is the first of January 1983, the year of the
     French original; the English printing (reportedly 1989) was not
     checked. Only the posted introductory paragraphs were read.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - social-science
 date: '2026-11-13'

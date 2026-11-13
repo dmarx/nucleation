@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 in full from the journal''s open page ([NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md)).'
 title: 'Cosmotechnics as Cosmopolitics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -14,7 +14,13 @@ history:
     (2026-11-13). Checked on 2026-11-13: not held in record/literature.d
     by identifier, title or author. No email address was sent to any
     service. The date is the page's datePublished.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - metaphysics
 date: '2026-11-13'

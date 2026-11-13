@@ -67,3 +67,15 @@
   being enforced by gatekeepers and law (ARG-tmpn3me8). Dated notes on
   the four claims, CLAIM-656, Feenberg's THEORY-tmpa59p3 and THEORY-1522.
   Mitcham's paper on Tools for Conviviality located and Unfetched.
+- The branch's entries tagged `philosophy-of-technology` (ADR-098, its
+  second application): first where technology is the whole subject (35:
+  Ellul, Illich, Mumford, Postman, Morozov, Kate Crawford, Feenberg,
+  Vallor's deskilling paper and The AI Mirror with its review, Hui,
+  Lanier, Kelly, Kaczynski, Crawford on attention, their readings, the
+  compulsion claim and the Arthur ARG), after the existing topics where
+  it is a major part (28: Marcuse, Han's psychopolitics, Rosa's
+  acceleration, Shop Class, Zuboff, Benjamin's Race After Technology,
+  Moen, Cayley, their readings, three claims, the proposed study and two
+  ARGs). Sen, Wolf, Gardner, Susen, Han's Burnout Society and Benjamin's
+  Imagination are not tagged. No tag dropped; entries with a history take
+  a version note.

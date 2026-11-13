@@ -17,6 +17,7 @@ defeated_if: >-
   by Arthur's model being about a choice between two technologies, which
   ARG-tmp7y8r4 takes up.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - social-science
 - self-governance

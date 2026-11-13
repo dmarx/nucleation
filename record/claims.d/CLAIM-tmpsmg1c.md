@@ -18,6 +18,7 @@ tags:
 - society-and-governance
 - ethics
 - self-governance
+- philosophy-of-technology
 date: '2026-11-13'
 line:
 - organizational-normativity

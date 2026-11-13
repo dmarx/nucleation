@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy or sample found on 2026-11-13; the LSE Review of Books gave an empty bot-mitigation response and LA Review of Books a Cloudflare challenge, not retried. Morozov''s Carnegie Council talk ([LIT-tmpx2vqb](LIT-tmpx2vqb.md)) stands in.'
 title: 'To Save Everything, Click Here: The Folly of Technological Solutionism'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -20,7 +20,13 @@ history:
     (LIT-tmpx2vqb, NOTE-tmp6ywh9). Correction: version 1 said no idea of
     the exchange rests on the book; the talk's self-tracking argument
     supports CLAIM-tmpbypt7 directly.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 date: '2026-11-13'
 published: '2013-01-01'

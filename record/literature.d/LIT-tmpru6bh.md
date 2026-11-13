@@ -2,7 +2,7 @@
 status: Unfetched
 status_note: 'a lawful copy was located at the author''s institutional repository, https://scholarcommons.scu.edu/phi/7/ (Santa Clara University Scholar Commons); on 2026-11-13 that host served a Cloudflare challenge and the fetch stopped there, not retried. Publisher copy paywalled. Stand-in registered and read on 2026-11-13: Vallor''s CyCon 2013 paper "The Future of Military Virtue" (LIT-tmpcm4m7), from the publisher''s PDF at ccdcoe.org, a strong stand-in for this paper''s thesis and mechanism of moral deskilling and a partial one for its scope (not new media or social robotics).'
 title: 'Moral Deskilling and Upskilling in a New Machine Age: Reflections on the Ambiguous Future of Character'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -26,7 +26,13 @@ history:
     whether it does is an empirical question. Strong for the thesis,
     partial for the paper's scope. The status stays Unfetched; this paper
     itself is still unread. The summary is rewritten.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - ethics
 - learning-and-conditioning
 date: '2026-11-13'

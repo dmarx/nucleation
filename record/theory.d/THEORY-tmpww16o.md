@@ -10,6 +10,7 @@ corroborates:
 bounds:
 - CLAIM-tmpkjv7u
 tags:
+- philosophy-of-technology
 - society-and-governance
 - ethics
 date: '2026-11-13'

@@ -8,6 +8,7 @@ grounds:
 concludes:
 - CLAIM-tmpbypt7
 tags:
+- philosophy-of-technology
 - social-science
 - society-and-governance
 date: '2026-11-13'

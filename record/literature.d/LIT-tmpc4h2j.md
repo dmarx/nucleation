@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from the Schirn Kunsthalle''s magazine (a licensed reprint) ([NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md)).'
 title: 'Why revolution is no longer possible'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -16,9 +16,16 @@ history:
     the date the reprint gives for the original. An openDemocracy
     translation (2015) is behind a registration wall, which was not
     passed.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2014-09-03'
 url: 'https://www.schirn.de/en/schirnmag/why-revolution-is-no-longer-possible-today-context-en/'

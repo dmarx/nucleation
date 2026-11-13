@@ -5,6 +5,7 @@ version: 1
 tags:
 - ethics
 - society-and-governance
+- philosophy-of-technology
 promote_when: >-
   a full reading of Moen's paper confirms that it grants the empirical
   premises (unpredictability, the arms race) as defensible, locates the

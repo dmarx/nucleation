@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read in full on 2026-11-13 from the whole book posted chapter by chapter on the Marcuse family''s site, https://www.marcuse.org/herbert/pubs/64onedim/ (contents, Introduction, chapters 1 to 10), on the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). An OCR transcription; quotations follow it. Read in [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md); account [THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md). Farr''s SEP entry ([LIT-tmpldtwo](LIT-tmpldtwo.md)) stood in before.'
 title: 'One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-13'
@@ -36,9 +36,16 @@ history:
     the reading. The stand-in's three misattributions are recorded on
     NOTE-tmpi8t8i and THEORY-tmpnydju, and Marcuse's place in
     CLAIM-tmpkjv7u and ARG-tmpsh7he is restated.
+- version: 4
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 published: '1964-01-01'
 doi: '10.4324/9780203995211'

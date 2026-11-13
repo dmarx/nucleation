@@ -7,6 +7,7 @@ source:
 corroborates:
 - CLAIM-tmpbypt7
 tags:
+- philosophy-of-technology
 - society-and-governance
 - social-science
 date: '2026-11-13'

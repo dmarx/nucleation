@@ -16,6 +16,7 @@ bears_on:
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 promote_when: >-
   a second reading of the book, or of a print edition, confirms that its

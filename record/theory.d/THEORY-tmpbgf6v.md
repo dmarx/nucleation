@@ -9,6 +9,7 @@ corroborates:
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 promote_when: >-
   a reading of the article confirms the commodification of behavioural

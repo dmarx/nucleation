@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 in part: the publisher-authorized prologue excerpt on NPR (npr.org/130240333, "Reprinted by arrangement with Viking"), [NOTE-tmptihtb](../notes.d/NOTE-tmptihtb.md), Skimmed; the thesis read in Kelly''s 2009 post ([LIT-tmpve5jy](LIT-tmpve5jy.md)). A course-page scan said to be the whole book (edisciplinas.usp.br) was not fetched, a whole in-copyright book not being lawful.'
 title: 'What Technology Wants'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -21,7 +21,13 @@ history:
     2009 post of the same title is registered as a stand-in for the
     thesis (LIT-tmpve5jy, read in NOTE-tmpwvb8c). Summary rewritten from
     the readings.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - complex-systems
 date: '2026-11-13'

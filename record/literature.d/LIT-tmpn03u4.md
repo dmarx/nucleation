@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy or publisher sample found on 2026-11-13. Crawford and Joler''s "Anatomy of an AI System" ([LIT-tmpt7q8j](LIT-tmpt7q8j.md)) stands in; Cugurullo''s open review (Tecnoscienza 13(1)) was also read.'
 title: 'Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -20,7 +20,13 @@ history:
     Unavailable on 2026-11-13 (ADR-041), at the reading pass. "Anatomy
     of an AI System" is registered and read as a stand-in for the
     extraction thesis (LIT-tmpt7q8j, NOTE-tmp60nf7).
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - anthology-candidate
 date: '2026-11-13'

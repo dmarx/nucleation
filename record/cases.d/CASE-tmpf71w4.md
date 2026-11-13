@@ -8,6 +8,7 @@ tags:
 - learning-and-conditioning
 - society-and-governance
 - cognition
+- philosophy-of-technology
 date: '2026-11-13'
 line:
 - transient-support

@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'no lawful copy or excerpt of the book reached on 2026-11-13; a Columbia UP preview on issuu was not tried. Rosa, Dörre and Lessenich (2017), the best English source for "dynamic stabilization", is Unfetched at https://epub.ub.uni-muenchen.de/42046/ (connection reset, 2026-11-13, not retried); it is not registered. Two stand-ins read: Rosa 2003 ([LIT-tmp1sv2g](LIT-tmp1sv2g.md)) and the 2021 interview ([LIT-tmprw9lr](LIT-tmprw9lr.md)).'
 title: 'Social Acceleration: A New Theory of Modernity'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -23,9 +23,16 @@ history:
     NOTE-tmp1ip5i). Keyword qualified: Rosa says "dynamic stabilization"
     is the name his books after Social Acceleration use, not this
     book's.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - social-science
 - society-and-governance
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2013-01-01'
 doi: '10.7312/rosa14834'

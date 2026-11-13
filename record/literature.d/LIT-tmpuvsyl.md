@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 in part: the Preface and Chapter 6 from the author''s faculty site (sfu.ca/~andrewf) ([NOTE-tmpgnw4a](../notes.d/NOTE-tmpgnw4a.md), Skimmed).'
 title: 'Transforming Technology: A Critical Theory Revisited'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -21,7 +21,13 @@ history:
     volume "is a revised edition of Critical Theory of Technology"
     (Oxford UP, 1991), its second, revised edition. "Democratic
     rationalization" is not in the pages read. Summary rewritten.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - ethics
 date: '2026-11-13'

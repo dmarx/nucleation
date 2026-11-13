@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from the SEP entry, with Kellner''s faculty-page essay ([NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md)).'
 title: 'Herbert Marcuse'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -15,9 +15,16 @@ history:
     identifier, title or author. No email address was sent to any
     service. `published:` is the entry's first publication date,
     2013-12-18 (revised 2025-01-10).
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2013-12-18'
 url: 'https://plato.stanford.edu/entries/marcuse/'

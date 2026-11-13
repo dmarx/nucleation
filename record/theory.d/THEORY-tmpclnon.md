@@ -9,6 +9,7 @@ bounds:
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 promote_when: >-
   a reading of the essay confirms these statements.

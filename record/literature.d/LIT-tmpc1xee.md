@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from Ill Will''s page, an excerpt published at the book''s release ([NOTE-tmpc4m2u](../notes.d/NOTE-tmpc4m2u.md)).'
 title: 'Illich as Revolutionary'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -14,9 +14,16 @@ history:
     2026-11-13: not held in record/literature.d by identifier, title or
     author. No email address was sent to any service. The book's ISBN
     and DOI were not checked. `published:` is the excerpt's date.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - ethics
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2021-03-07'
 url: 'https://illwill.com/illich-as-revolutionary'

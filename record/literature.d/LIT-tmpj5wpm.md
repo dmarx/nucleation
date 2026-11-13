@@ -2,7 +2,7 @@
 status: Active
 status_note: 'chapter 2, book pp. 24–28, read on 2026-11-13 (NOTE-tmpzc2v0, Skimmed) in the publisher-permitted excerpt hosted by the New York Times, graphics8.nytimes.com/packages/pdf/books/You-Are-Not-a-Gadget_excerpt.pdf, reached through the Edge page the earlier status note named as a lead (edge.org/node/23222). No lawful copy of the whole book was found on 2026-11-13. Lanier''s 2000 essay "One Half a Manifesto" (LIT-tmpgxxnv) still stands in for the stance where the excerpt is silent.'
 title: 'You Are Not a Gadget: A Manifesto'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-13'
@@ -36,7 +36,13 @@ history:
     exchange's "digital business models" is not in the excerpt and stays
     unverified. Moved from Unavailable because a lawful copy of part of
     the work was read; the summary is rewritten from it.
+- version: 4
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - ethics
 date: '2026-11-13'

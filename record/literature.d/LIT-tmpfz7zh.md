@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from a University of Athens course page (eclass, LAW382), the publisher''s open PDF ([NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md)).'
 title: 'Surveillance Capitalism or Democracy? The Death Match of Institutional Orders and the Politics of Knowledge in Our Information Civilization'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -15,9 +15,16 @@ history:
     by identifier, title or author. No email address was sent to any
     service. `published:` is 2022-11-21, the online date Crossref gives
     (issue dated July 2022, month only).
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - society-and-governance
 - social-science
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2022-11-21'
 doi: '10.1177/26317877221129290'

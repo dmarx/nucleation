@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from the accepted manuscript in the Norwegian national research archive (NVA, via urn.nb.no/URN:NBN:no-79840) ([NOTE-tmp1h9te](../notes.d/NOTE-tmp1h9te.md)).'
 title: 'The Unabomber''s Ethics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -16,9 +16,16 @@ history:
     service. `published:` is 2018-08-23, the online date Crossref gives;
     the issue is 2019. Read from the accepted manuscript; its wording
     may differ from the published version.
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - ethics
 - society-and-governance
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2018-08-23'
 doi: '10.1111/bioe.12494'

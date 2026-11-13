@@ -5,6 +5,7 @@ version: 1
 source:
 - LIT-tmp3dp5o
 tags:
+- philosophy-of-technology
 - society-and-governance
 - metaphysics
 date: '2026-11-13'

@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-11-13 from the publisher''s page, The New Atlantis ([NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md)).'
 title: 'Shop Class as Soulcraft: The case for the manual trades'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-13'
@@ -16,9 +16,16 @@ history:
     service. The page says the essay "has been adapted into a
     bestselling book". `published:` is the first of June 2006, a
     placeholder for "Summer 2006".
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), after its topics, since
+    technology is a major part of its subject but not the whole. No tag
+    dropped; no other change.
 tags:
 - ethics
 - well-being
+- philosophy-of-technology
 date: '2026-11-13'
 published: '2006-06-01'
 url: 'https://www.thenewatlantis.com/publications/shop-class-as-soulcraft'

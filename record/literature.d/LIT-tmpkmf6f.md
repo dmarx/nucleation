@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'searched 2026-11-13 for a lawful copy and found none: no Urbanomic sample or open chapter; PhilArchive holds a record of Hui''s "On Cosmotechnics" (Techné 2017), not checked. Hui''s e-flux essay "Cosmotechnics as Cosmopolitics" ([LIT-tmp3dp5o](LIT-tmp3dp5o.md)) stands in for the book''s thesis.'
 title: 'The Question Concerning Technology in China: An Essay in Cosmotechnics'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -22,7 +22,13 @@ history:
     the book its demonstration, is registered and read as a stand-in for
     the thesis (LIT-tmp3dp5o, NOTE-tmp2ky8f), not the book's history of
     Chinese thought.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 date: '2026-11-13'
 published: '2016-01-01'

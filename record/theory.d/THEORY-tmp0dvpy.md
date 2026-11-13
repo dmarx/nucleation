@@ -10,6 +10,7 @@ corroborates:
 tags:
 - social-science
 - society-and-governance
+- philosophy-of-technology
 date: '2026-11-13'
 promote_when: >-
   a reading of the 2003 article (or the book) confirms the three

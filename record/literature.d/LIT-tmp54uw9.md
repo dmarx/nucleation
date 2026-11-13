@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'not sought, by design: the filing reads Kaczynski only through neutral scholarly work, and no copy of the book or of the 1995 manifesto was fetched; uploads of the whole book on third-party sites would not be lawful copies in any case. Moen (2019, [LIT-tmpbu0d1](LIT-tmpbu0d1.md)) stands in for the reconstruction of its argument, not its text.'
 title: 'Technological Slavery'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -26,7 +26,13 @@ history:
     reports that the book's foreword expresses its author's
     dissatisfaction with it and his limited control over its making: a
     collection its author partly disowned.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Tagged philosophy-of-technology (ADR-098), first, since technology is
+    the work's whole subject. No tag dropped; no other change.
 tags:
+- philosophy-of-technology
 - society-and-governance
 - ethics
 date: '2026-11-13'
