@@ -98,6 +98,7 @@ summary: >-
   CLAIM-545 at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)),
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
+<!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that moved this entry -->
 <!-- inactive-ok-file: CLAIM-624 CASE-225 CLAIM-616 TERM-083 — Proposed or Superseded; cited in dated notes carried over from CLAIM-545 -->
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->
@@ -292,3 +293,19 @@ individual's will; it does not use non-domination or Pettit, and does not
 say that a non-profiled option (Art. 38) restores freedom; it calls Art. 38
 "the most promising agency-enhancing tool" but insufficient. Note: CLAIM-545
 on the branch does not itself cite [LIT-2362](../literature.d/LIT-2362.md); the link is the LIT's.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A16 and A17 §I of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) took this claim as the closest point of contact between the record
+and A's synthesis, "freedom within a system versus freedom over the
+system", and reported it as Proposed, which it is. A17's worker using an
+AI system separates four achievements that match the claim's parts:
+responding, influencing outcomes, determining which considerations guide
+action, and revising the organization through which they gain influence.
+A13 §I's three kinds of power (instrumental, discretionary and
+constitutive) are the same division seen from power: what an agent can
+reach, who directs it, and who revises the relations that govern it.
+They are mapped here and not filed. A13 §II's threshold for when a
+dependence becomes domination ([CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)) differs from this claim's
+notion of domination by adding essentiality. No change.

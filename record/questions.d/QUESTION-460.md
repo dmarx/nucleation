@@ -63,6 +63,7 @@ summary: >-
   corresponding obligation". The owner's discriminating test is
   CASE-256.
 ---
+<!-- inactive-ok-file: TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-1819 THEORY-1814 THEORY-1818 THEORY-1822 THEORY-1821 — Proposed, filed 2026-11-12; the readings this note places -->
@@ -76,6 +77,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, Group Duties, cited by A12 -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, cited by A12 as registered and unread -->
 <!-- inactive-ok-file: LIT-2523 LIT-2538 — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-460: Does an organized whole ground norms concerning its own constituent parts, and if it does, who bears the obligations those norms establish: the whole, where it is the kind of thing that can owe, or the agents and roles that maintain, control or benefit from the arrangement; and on what ground: that the parts constitute it, contribute to it, are vulnerable to it or are governed by it, its commitments to them, or its history with them?
 
@@ -360,3 +362,41 @@ not be persons.
 
 The prior part, whether a whole that is not an agent can owe its parts
 anything beyond the functional, is untouched. The question stays Open.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A22 and A23 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), at the owner's U13, read this question and [CASE-256](../cases.d/CASE-256.md) as the way to
+rescue cross-scale concordance. A23 §2 restates the question's two
+inquiries, ground and bearer, and §3 its discriminating test, both
+accurately, and credits them to "Nucleation". They are the owner's: the
+question is U5 of the exchange "About Plantation Paradise", and the
+ground/bearer split and the test are the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488).
+
+What A23 adds is held or is a label. Its "two-axis formulation", which it
+calls "my extension of [CASE-256](../cases.d/CASE-256.md)" (ground by membership or not, bearer the
+whole or responsible agents), is [CASE-256](../cases.d/CASE-256.md)'s own "What it is for": "The
+first two results answer the ground; the third answers the bearer." Its
+four questions (what grounds a claim, who holds it, who bears it, what
+must be done) add the holder, which is [TERM-083](../terms.d/TERM-083.md)'s moral standing, and the
+content. Its conclusion, "Organizational boundaries determine many
+practical relationships. They do not automatically determine the
+boundaries of moral consideration", is the second result's. A23 keeps the
+default sense right: under [TERM-074](../terms.d/TERM-074.md), "an organization can simply be a
+relational arrangement among processes, components, roles, or
+constraints". The relation the question asks about is named by
+[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md), a rival definition of cross-scale concordance. The
+question is unchanged.
+
+## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
+
+Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) answers the bearer half for
+hypostatized wholes such as the Nation and the Corporation: "Their
+independence, although real, is a spurious one inasmuch as it is that of
+particular powers which have organized the whole I of society" [stray
+"I" as in the copy], and he quotes "One believes to die for the
+Fatherland, one dies for the Industrialists" (ch. 8). On his account the
+obligations a whole seems to ground fall on those who organize, control
+or benefit from it, not on the whole. He gives no account of the ground.
+A position on the question, not an answer to it; the question is
+unchanged.

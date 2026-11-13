@@ -68,6 +68,7 @@ summary: >-
   not equivalent to the capacity to revise them well", which keeps
   [CLAIM-288](CLAIM-288.md)'s objection standing.
 ---
+<!-- inactive-ok-file: TERM-tmplqaer — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-424: Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective; and the capacity to revise those standards is not the capacity to revise them well
@@ -156,3 +157,23 @@ personnel" (Appendix A, p. 83). Authority is differentiated by function,
 not dispersed. The bounded veto is a standing, designed instance of what
 this claim calls reflexive governance of an arrangement: a role whose job
 is to interrupt the arrangement it sits in.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §III of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim and [CLAIM-418](CLAIM-418.md) accurately and proposed "cultural
+reflexivity", "the collective capacity to recognize, contest, and revise
+the shared interpretive frameworks through which social purposes are
+understood", distributed across education, criticism and associations
+with no single governor. That is this claim's capacity applied to a
+perspective shared across many organizations, which [CLAIM-418](CLAIM-418.md) allows. Not
+filed. No change.
+
+## Note of 2026-11-13: cultural reflexivity, filed as a term
+
+The note above recorded A20 §III's "cultural reflexivity" as this claim's
+capacity applied to a perspective shared across many organizations. At the
+owner's word of 2026-11-13 it is filed as [TERM-tmplqaer](../terms.d/TERM-tmplqaer.md), with its bearer
+fixed from A's text (the organizations sharing the perspective, none
+governing it) and this claim's rider kept: the capacity to revise is not
+the capacity to revise well. No change to this claim.

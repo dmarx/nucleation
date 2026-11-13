@@ -88,6 +88,7 @@ summary: >-
   support it ([ARG-099](../arguments.d/ARG-099.md)). It bears on the owner's [QUESTION-460](../questions.d/QUESTION-460.md),
   for the vulnerability ground and for the bearer question.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-1823 THEORY-1818 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: ARG-099 — filed from the same exchange, Rejected -->
@@ -236,3 +237,16 @@ clients, compatriots, the state.
   Love's Labor itself ([LIT-2519](../literature.d/LIT-2519.md)) is Unavailable.
 
 No status change.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A23 §5 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) reported this claim and [ARG-099](../arguments.d/ARG-099.md) accurately, and presented "Greater
+integration does not necessarily produce greater vulnerability" as "the
+repository's" distinction. It is the owner's, from the review of [#488](https://github.com/dmarx/nucleation/issues/488):
+"deeper integration need not monotonically increase vulnerability". A's
+principle, that integration "becomes morally concerning when it increases
+exposure to unaccountable discretionary power, destroys capabilities
+people have reason to retain, or removes appropriate means of protection
+and redress", joins this claim's mechanism to [CLAIM-428](CLAIM-428.md) and
+[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md). Not filed. No change.

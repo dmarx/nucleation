@@ -135,6 +135,7 @@ summary: >-
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
+<!-- inactive-ok-file: CLAIM-tmpu2cwc — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1818 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
@@ -388,3 +389,16 @@ duty of justification and contestability, close to this claim's duty to
 keep violations knowable and contestable. Her standard is equality of
 opportunity, asserted, which is the independently justified standard this
 claim requires. Filed as `corroborates` on the reading. No status change.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A16, A17 §IV and A23 §9 of the exchange "Analyze technological
+civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim, with [CLAIM-614](CLAIM-614.md) and [CLAIM-523](CLAIM-523.md), as
+"a powerful conception of technological constitutionalism", and reported
+its conditions: "it depends on independently justified standards and
+feasible alternatives." A17's own principle, "Institutions have
+responsibilities not only concerning their decisions, but also concerning
+the continued viability of the processes through which their decisions
+can be challenged and corrected", drops those conditions; A23 §10 restored
+them after [CLAIM-511](CLAIM-511.md). The comparative prediction A20 drew from the line
+is [CLAIM-tmpu2cwc](CLAIM-tmpu2cwc.md). No change.

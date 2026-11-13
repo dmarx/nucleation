@@ -61,6 +61,7 @@ summary: >-
   Proposed with an empirical warrant that no result yet supplies. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu2cwc — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-253 CLAIM-665 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit under which this claim was admitted -->
 <!-- inactive-ok-file: ARG-098 THEORY-1733 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -134,3 +135,13 @@ the claim is about, with no misfit tasks, no regression of what the old
 schema could express, and no migration. It is the comparator [CASE-253](../cases.d/CASE-253.md)
 draws on. Jansen et al., Xie et al. and the TRACE-OU benchmark have no arm
 that varies modifiability. The claim is unchanged.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A17 §VIII and A20 §XV of the exchange "Analyze technological
+civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read the record as a case of its own subject,
+with [CLAIM-419](CLAIM-419.md), [CLAIM-469](CLAIM-469.md) and [CASE-253](../cases.d/CASE-253.md), and reported this claim correctly
+as "still a hypothesis". A20's Proposition D carries this claim's
+prediction from a record's schema to institutions' governing standards,
+with [CLAIM-665](CLAIM-665.md)'s limit on routine work; it is filed as [CLAIM-tmpu2cwc](CLAIM-tmpu2cwc.md),
+which complements this claim. No change.

@@ -87,6 +87,7 @@ summary: >-
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
 ---
+<!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: ARG-064 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
@@ -203,3 +204,15 @@ mechanism as a hypothesis and do not test it.
 ## Note of 2026-11-07: a reproductive structure called new, from the second share of "Individuation, Possibility, and Disposition"
 
 The owner's U27 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) asks what wrong is committed by a self-maintaining organization that reproduces the projections hiding its harm ([CLAIM-614](CLAIM-614.md)). A60 §3's dynamics have this claim's form: the regime's evidence and authority are moved by its own outputs. A did not cite this claim, and A60 §12 called "putting these mechanisms into one reproductive causal structure" the new contribution. It is held here, with [TERM-020](../terms.d/TERM-020.md). What A adds is a normative predicate in place of the evidence of continued need, and a second-order duty ([CLAIM-624](CLAIM-624.md)); the analogy is [ARG-064](../arguments.d/ARG-064.md). Unchanged.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §V of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim and [CASE-036](../cases.d/CASE-036.md) accurately, keeping [CASE-036](../cases.d/CASE-036.md)'s caveat
+that it "does not establish that every subsequent anomaly is caused by
+the restrictions". A's addition, that "a sunset clause is insufficient
+when the evidence used to justify renewal remains controlled by the same
+arrangement it is supposed to constrain", is this claim's shift in "the
+evidence used to judge its necessity" applied to a design remedy. Not
+filed. The exchange's broader ratchet, a technology made compulsory for
+those who decline it, is [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md), a different mechanism. No change.

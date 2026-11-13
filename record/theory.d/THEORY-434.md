@@ -33,6 +33,7 @@ summary: >-
   moderate. The claims about *The Idea of Justice* are second-hand, and
   Sen's own reply is unread.
 ---
+<!-- inactive-ok-file: THEORY-tmpo67z2 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-025 THEORY-411 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
 # THEORY-434: Rawls's theory of justice is transcendental only in the formal sense that its principles state when a society is perfectly just; it already yields comparative judgements, prescribes no single set of institutions and sits inside a revisable reflective equilibrium, so Sen's case against 'transcendental institutionalism' misses Rawls, and what it shows is that the theory is incomplete, not that a new paradigm is needed
@@ -125,3 +126,7 @@ neither.
   a partial categorical standard within capability theory. That points the
   same way as Valentini's defence of categorical principles. Neither cites
   the other; the link is [NOTE-262](../notes.d/NOTE-262.md)'s.
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+Gardner's critical notice of The Idea of Justice ([THEORY-tmpo67z2](THEORY-tmpo67z2.md)) makes Valentini's objection independently: the contrast of transcendental and comparative theories "seem[s] more temperamental than strictly philosophical", and ranking injustices needs a standard of justice. A second reviewer, not the book; this entry's promote_when is not met by it. No status change.

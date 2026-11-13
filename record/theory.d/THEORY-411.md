@@ -55,6 +55,7 @@ corroborates:
 - CLAIM-352
 - CLAIM-354
 ---
+<!-- inactive-ok-file: THEORY-tmpj32pb THEORY-tmpockqy — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-025 THEORY-434 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
 # THEORY-411: In Sen's capability approach the weighting of functionings is left to public reasoning, and evaluation can still guide action without agreement on weights: where every weighting in an agreed range, or every view by its own argument, ranks one option above another, that ranking holds, so the approach is deliberately incomplete and yields a partial ordering
@@ -150,3 +151,7 @@ whose other readings ([THEORY-025](THEORY-025.md), [THEORY-054](THEORY-054.md)) 
 ## Note of 2026-11-06: what holds it back
 
 [CLAIM-354](../claims.d/CLAIM-354.md) was revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)). The intersection and ranges-of-weights devices are still attributed to Sen only by the IEP entry; no Sen text that states them is filed, and no applied case is held.
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+Sen's 1985 Tanner Lectures ([THEORY-tmpj32pb](THEORY-tmpj32pb.md)) state the partial-ordering method first-hand: "There is no great failure in the inability to babble", ranges of weights extending a dominance ordering; Development as Freedom's concluding remarks disclaim a "complete ordering" [OCR-normalized] ([THEORY-tmpockqy](THEORY-tmpockqy.md)). No status change.

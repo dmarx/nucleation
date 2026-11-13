@@ -26,11 +26,15 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
+<!-- inactive-ok-file: CLAIM-tmpub743 CASE-tmpbjaiq — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1820 THEORY-1816 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-603 CLAIM-614 CLAIM-619 CLAIM-624 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: CASE-257 CLAIM-669 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-2528 LIT-2516 LIT-2536 LIT-2522 — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-461: When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?
 
@@ -155,3 +159,59 @@ pedestal". Her answer is not the contributors' bargaining power but a
 public principle, doulia, support owed by the wider society. That is A's
 fourth candidate answer, change through institutions outside the
 relation. Filed as `bears_on`. The question is unchanged.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A23 §4 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this question with [CASE-257](../cases.d/CASE-257.md) and called it "the most important
+missing link between cross-scale concordance and our theory of
+technological domination". Its description is accurate, including that
+[CASE-257](../cases.d/CASE-257.md) is careful about which details are secondhand.
+
+Two of its additions are recorded here and not filed. Four concepts,
+contribution, dependence, effective authority and moral standing, "can
+vary independently"; the record holds the separations that matter
+([CLAIM-403](../claims.d/CLAIM-403.md)'s admission against authority, [TERM-083](../terms.d/TERM-083.md)'s standing, [CLAIM-428](../claims.d/CLAIM-428.md)'s
+organization of a dependence), and the four-way statement adds examples,
+not a result. "Constitutive exploitation", an arrangement in which "the
+activities through which participants sustain an organization are
+organized under unjust terms", is a name for the question's second branch
+with the standard of injustice left open, which A23 concedes ("The
+concept would require an independent account of what makes those terms
+unjust"). A13 §II's threshold, filed as [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), bears on the
+second branch from the dependent's side. The question is unchanged.
+
+## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
+
+Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) gives worked cases of the
+second branch, an organization keeping indispensable contributions from
+becoming claims on it. Chapter 2's integration of labour: the union
+"almost indistinguishable in its own eyes from the corporation", workers
+with a "vested interest in the establishment". Chapter 4's Hawthorne
+study: a general grievance about wages translated into one worker's
+circumstances becomes "a treatable and tractable incident", "subsumed
+under another genus-that of personal hardship cases". The mechanism is
+satisfaction and the translation of claims into personal cases, not
+exclusion. Evidence for the second branch; the question is unchanged.
+
+## Note of 2026-11-13: constitutive exploitation, the threshold's third condition, and a case
+
+At the owner's word of 2026-11-13 ("file the still unfiled stuff"), three
+entries were filed that bear on this question.
+
+- **[QUESTION-tmpkefdg](QUESTION-tmpkefdg.md)** refines it: what makes the terms on which an
+  organization's sustaining activities are organized unjust, A23 §4's
+  "constitutive exploitation" with its standard left open. The four-way
+  separation of contribution, dependence, effective authority and moral
+  standing stays as the note above maps it: held, adding examples, not a
+  result.
+- **[CLAIM-tmpub743](../claims.d/CLAIM-tmpub743.md)** (the assistant's) says which part of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s
+  third condition the record's three achievements of normative efficacy
+  cover: voice, at the controllers and at any party able to constrain them,
+  and not exit.
+- **[CASE-tmpbjaiq](../cases.d/CASE-tmpbjaiq.md)**, A23 §9's hospital network: the contractors are
+  indispensable contributors whose contributions do not become claims, and
+  the test asks whether a justified objection would be as effective from a
+  low-status party as from clinicians.
+
+The question is unchanged.

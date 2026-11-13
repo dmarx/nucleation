@@ -88,6 +88,7 @@ summary: >-
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 ---
+<!-- inactive-ok-file: TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
@@ -471,3 +472,16 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **de Kleer and Williams** ([THEORY-1761](../theory.d/THEORY-1761.md)): **parallel construction**, not a citation: in both, a downward-closed family is determined by its minimal violating sets.
 
 The claim is unchanged.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §VII and A23 §8 of the exchange "Analyze technological civilization
+trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) adapted this claim from an organization's demands to the
+independently justified claims of affected parties, writing the family
+of jointly satisfiable sets of claims, and drew from it: "Reducing the
+number of recognized demands is not equivalent to increasing the capacity
+to satisfy them", and "An institution does not become more concordant
+merely by ceasing to recognize a claim that was previously in conflict
+with its governing priorities." Both are this claim's relief against
+dropping a demand (with [CLAIM-556](CLAIM-556.md)), against a fixed reference set. A23's
+adaptation is used in [TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md). No change.
