@@ -4,6 +4,8 @@ title: 'Vallor holds that calling AI superhuman is an ideology that, by redefini
 version: 1
 source:
 - LIT-tmpqx6sc
+corroborates:
+- CLAIM-tmp6yhlh
 tags:
 - philosophy-of-technology
 - ethics

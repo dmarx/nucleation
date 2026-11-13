@@ -6,6 +6,7 @@ source:
 - LIT-tmpcm4m7
 corroborates:
 - CLAIM-tmp6wuql
+- CLAIM-tmp6yhlh
 tags:
 - philosophy-of-technology
 - ethics

@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: 'A technology can become practically compulsory without any rule requiring it: as infrastructures, competitors and expectations adapt to its adoption, the alternatives left to those who decline it shrink, so the freedom an arrangement leaves is measured by what remains open to a non-adopter, not by what it lets adopters do'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Takes the line flourishing-and-meaning (ADR-099) after its own, at the
+    filing of the exchange's Convivial Modernity programme on 2026-11-13:
+    its measure, the freedom an arrangement leaves judged by what remains
+    open to a non-adopter, is a claim about how an arrangement widens or
+    narrows the lives open to people, the line's last clause. Its
+    mechanisms stay with distributed-agency. CLAIM-tmp58u4k complements
+    its measure. Its own lines are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +35,7 @@ tags:
 date: '2026-11-13'
 line:
 - distributed-agency
+- flourishing-and-meaning
 grounds:
 - THEORY-863
 complements:
@@ -48,6 +60,8 @@ summary: >-
   with Tools for Conviviality. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp58u4k CLAIM-tmpx60mo — filed from the exchange's Convivial Modernity programme, Proposed -->
+<!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-tmpyot08 THEORY-tmpvlt2n THEORY-tmp8m1e4 THEORY-tmpm76rc THEORY-tmpl7lm5 ARG-tmpn3me8 — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-tmp0dvpy THEORY-tmp5l4e4 THEORY-tmp8mi75 THEORY-tmpa59p3 THEORY-tmpiihve THEORY-tmps3a0q THEORY-tmpvajjd THEORY-tmpxwo9k THEORY-tmpypzp0 THEORY-tmpyuoss THEORY-tmpzuniv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-670 CLAIM-428 CLAIM-445 — Proposed; the record's nearest claims, cited with their standing -->
@@ -194,3 +208,7 @@ At the owner's request to "look for adjacent stand ins for unreachable/unfetched
 - **Crawford, the 2017 interview** ([THEORY-tmp8m1e4](../theory.d/THEORY-tmp8m1e4.md)): weak. The "captive audience" cannot decline a shared space, the claim's non-adopter applied to attention; no mechanism of adoption. No relation.
 - **Vallor, CyCon 2013** ([THEORY-tmpm76rc](../theory.d/THEORY-tmpm76rc.md)): weak. Once a practice stops, the expertise to resume or override the machine is gone, which removes the option of returning to unaided practice; not framed as an option set. No relation.
 - **Lanier, You Are Not a Gadget, the publisher's excerpt** ([THEORY-tmpl7lm5](../theory.d/THEORY-tmpl7lm5.md)): lock-in named, not argued; leaves it open.
+
+## Note of 2026-11-13: on the flourishing-and-meaning line
+
+The claim takes the line flourishing-and-meaning (ADR-099) for its measure: the freedom an arrangement leaves, judged by what remains open to a non-adopter, is a claim about the lives an arrangement leaves open. CLAIM-tmp58u4k complements the measure from the other side: how fully an arrangement satisfies the preferences of those who adopt it does not show that their lives go better. Marcuse's objection to the measure (ARG-tmpqo6eu), that what is chosen is shaped as well as what can be chosen, now has a claim on this line to press against: CLAIM-tmpx60mo, that a want's social origin does not by itself decide its worth. No change to the claim.

@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'Gardner''s objection that Sen gives no argument for preferring capability to achievement qualifies the framing of the claim that support must be assessed by the capability trajectory it produces, and leaves its derivation standing, which holds for achieved functionings as well'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Takes the line flourishing-and-meaning (ADR-099) after its own, at the
+    filing of the exchange's Convivial Modernity programme on 2026-11-13:
+    it argues whether the capability-trajectory claim, now on this line,
+    holds in Sen's terms of capability and achievement, the line's
+    subject. Its own lines are unchanged.
 form: evidence
 grounds:
 - THEORY-tmpo67z2
@@ -13,6 +22,7 @@ tags:
 date: '2026-11-13'
 line:
 - transient-support
+- flourishing-and-meaning
 summary: >-
   Gardner's critique of Sen ([THEORY-tmpo67z2](../theory.d/THEORY-tmpo67z2.md), read 2026-11-13) as
   bearing on [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md). Contested support: the claim is framed in

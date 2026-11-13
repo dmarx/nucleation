@@ -22,6 +22,7 @@ summary: >-
   objective attractiveness, with active engagement; no theory of the
   objective standard.
 ---
+<!-- inactive-ok-file: CLAIM-tmp58u4k CLAIM-tmpfyxes CLAIM-tmpplibk CLAIM-tmpx60mo ARG-tmpl8zwp — filed from the exchange's Convivial Modernity programme, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpjrlcd — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
 # THEORY-tmp4ajaz: Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory
@@ -37,3 +38,7 @@ The reading in [NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md), key results 1–6, 
 ## What it does not say
 
 Nothing about technology or society; Wolf disclaims practical use. The exchange's use of her for a critique of technological civilization is the exchange's.
+
+## Note of 2026-11-13: the readings the line's claims rest on
+
+On the filing of the exchange's Convivial Modernity programme on the flourishing-and-meaning line, this reading grounds three of A's claims: CLAIM-tmp58u4k (fulfilment and meaning come apart, applied to arrangements), CLAIM-tmpfyxes (no one in particular holds authority over worth, applied to institutions) and CLAIM-tmpplibk (the paradox of meaningfulness, applied to institutions that measure meaning). ARG-tmpl8zwp argues that the lectures carry each premise and not the application, which Wolf disclaims. Also cited as the worth side of CLAIM-tmpx60mo. No change to the account.

@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: 'Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Takes the line flourishing-and-meaning (ADR-099) after its own, at the
+    filing of the exchange's Convivial Modernity programme on 2026-11-13:
+    its subject is what a form of support leaves a person able to do and
+    be over time, the capability side of how lives go, which the line's
+    blurb names (Sen's capability against functionings achieved). ADR-099
+    named it the first candidate. CLAIM-tmp6yhlh complements it on the
+    side of participation. Its own lines are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,6 +36,7 @@ date: '2026-11-13'
 line:
 - transient-support
 - will-organization
+- flourishing-and-meaning
 rests_on:
 - CLAIM-605
 - CLAIM-352
@@ -46,6 +58,8 @@ summary: >-
   decline", and the proposed study is [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md). The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6yhlh — filed from the exchange's Convivial Modernity programme, Proposed -->
+<!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-tmpm76rc THEORY-tmp8m1e4 THEORY-tmpnm1gx THEORY-tmpyot08 THEORY-tmpt34ma THEORY-343 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-tmpar7tl THEORY-tmpa59p3 THEORY-tmpiihve THEORY-tmpj32pb THEORY-tmpo67z2 THEORY-tmpockqy THEORY-tmpt6mee THEORY-tmpwsjea THEORY-tmpzibpi — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2225 until 2027-05-13 — Unfetched; Bainbridge's paper, cited with its standing as unread; asked again by that date whether a lawful copy is reached -->
@@ -152,3 +166,7 @@ Readings of 2026-11-13 and a recheck.
 - **Crawford, the 2017 interview** ([THEORY-tmp8m1e4](../theory.d/THEORY-tmp8m1e4.md)) and **Dijkema's review** ([THEORY-tmpnm1gx](../theory.d/THEORY-tmpnm1gx.md)): support in spirit. "as we do not need our skills and brains to move in our environment, companies have more of our brain to exploit" names skill made unnecessary, as a premise about attention; Dijkema's "competence rests on an apprehension of real features of the world" is what substitution removes. No dynamics; no relation.
 - **Illich, Energy and Equity** ([THEORY-tmpyot08](../theory.d/THEORY-tmpyot08.md)): at a level of compulsory instruction "learning by seeing and doing declines", the capacity-by-doing premise in schooling. No dynamics; no relation.
 - **Vallor's Noema essay** ([THEORY-tmpt34ma](../theory.d/THEORY-tmpt34ma.md)): AI for "the most meaningless tasks in our lives" is a rule for which tasks to hand over, not a trajectory. No relation.
+
+## Note of 2026-11-13: on the flourishing-and-meaning line
+
+The claim takes the line flourishing-and-meaning (ADR-099), as that decision proposed. The filing of the exchange's Convivial Modernity programme added a claim beside it: CLAIM-tmp6yhlh holds that assistance delivering the same outcome can differ in the participation in worthwhile activity it leaves the person, liberating, enabling or displacing. That claim complements this one: this one needs capacity that decays with disuse and compares supports over time; that one needs no dynamics and compares them now, by participation rather than capability. No change to the claim.

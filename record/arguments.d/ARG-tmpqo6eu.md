@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'One-Dimensional Man corroborates the mechanism of practical compulsion, a project that once operative tends to become exclusive and makes compliance rational, but argues against measuring freedom by the options left open, since what can be chosen and what is chosen are shaped as well, an argument of the kind the compulsion claim''s second defeater describes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Takes the line flourishing-and-meaning (ADR-099) after its own, at the
+    filing of the exchange's Convivial Modernity programme on 2026-11-13:
+    it argues, with Marcuse, against measuring freedom by the options left
+    open, since what is chosen is shaped too, which is this line's
+    question of what makes a life go well beside its options. Its own
+    lines are unchanged.
 form: source
 grounds:
 - THEORY-tmpoxssh
@@ -14,6 +24,7 @@ tags:
 date: '2026-11-13'
 line:
 - distributed-agency
+- flourishing-and-meaning
 summary: >-
   Marcuse's book, read in full on 2026-11-13 ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)),
   against [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md). Mixed support: the book corroborates the

@@ -1,8 +1,9 @@
 <!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpu2cwc CLAIM-tmpsmg1c TERM-tmpt8p9e CASE-tmpf71w4 ARG-tmp7y8r4 ARG-tmpar7tl ARG-tmpsh7he ARG-tmpqo6eu THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" (2026-11-13) or its readings, Proposed -->
 <!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the term the new definition rivals -->
+<!-- inactive-ok-file: ADR-098 ADR-099 — Proposed; the decisions that add the topic and the line -->
 <!-- inactive-ok-file: NOTE-tmpzc2v0 — Skimmed; Lanier, the publisher's excerpt -->
-<!-- inactive-ok-file: ARG-tmp5juxo ARG-tmpn3me8 THEORY-tmpa59p3 THEORY-tmpl7lm5 CLAIM-656 — filed from the stand-ins of 2026-11-13 or the readings before them, Proposed -->
+<!-- inactive-ok-file: ARG-tmp5juxo ARG-tmpn3me8 THEORY-tmpa59p3 THEORY-tmpl7lm5 CLAIM-656 CLAIM-tmp58u4k CLAIM-tmpx60mo CLAIM-tmpfyxes CLAIM-tmpplibk CLAIM-tmp6yhlh QUESTION-tmpvpq3r ARG-tmpl8zwp ARG-tmp2tzv3 — filed from the stand-ins of 2026-11-13 or the readings before them, Proposed -->
 ### Added
 
 - The exchange "Analyze technological civilization trap" (2026-11-13)
@@ -79,3 +80,16 @@
   ARGs). Sen, Wolf, Gardner, Susen, Han's Burnout Society and Benjamin's
   Imagination are not tagged. No tag dropped; entries with a history take
   a version note.
+- A's "Convivial Modernity" programme filed on the new line
+  flourishing-and-meaning (ADR-099), at the owner's request: five of A's
+  claims, all Proposed (satisfying preferences need not leave lives going
+  better, CLAIM-tmp58u4k; a want's origin is not its worth,
+  CLAIM-tmpx60mo; worth judged fallibly licenses cultivation, not
+  imposition, CLAIM-tmpfyxes; the industrialization of meaning,
+  CLAIM-tmpplibk; assistance judged by the participation it leaves,
+  CLAIM-tmp6yhlh), A's integrating standard as a question
+  (QUESTION-tmpvpq3r), and two ARGs on how far Wolf, Marcuse and Illich
+  carry them (ARG-tmpl8zwp, ARG-tmp2tzv3). CLAIM-tmp6wuql, CLAIM-tmpbypt7,
+  ARG-tmpar7tl and ARG-tmpqo6eu take the line beside their own. Wolf's
+  meaning and Sen's agency freedom are held as readings and mapped.
+  The curation entry's "What was left" now says what is filed.
