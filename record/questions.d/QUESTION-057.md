@@ -20,6 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the ownership claim on the set-aside authenticity line -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; the ownership question on the set-aside authenticity line -->
+<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-057: Can the integration that marks a will-organization as the agent's own be detected apart from the agent's own avowal that her commitments are hers?
 
@@ -38,3 +39,16 @@ The audit deferred [CLAIM-016](../claims.d/CLAIM-016.md) because its "ownership 
 ## What would answer it
 
 A non-self-report measure of integration, such as the overlap of everyday and true self-concepts or a behavioural index, that predicts something avowal does not and survives a multitrait-multimethod design. It would also need to resist manipulation in the way [THEORY-040](../theory.d/THEORY-040.md) requires. More correlations among self-report scales would not answer it.
+
+## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
+
+Marcuse (THEORY-tmpoxssh, NOTE-tmpf1tpw) bears on the question's premise
+that avowal may not settle it. True and false needs must be told apart
+by the individuals themselves, "but only in the last analysis; that is,
+if and when they are free to give their own answer"; and "No matter how
+much such needs may have become the individual's own", they remain
+"products of a society whose dominant interest demands repression" (ch.
+1). So avowal does not mark a need as the agent's own while the agent's
+wants are themselves produced; Marcuse's test is the need's origin, not
+a present measure. He offers no detector of integration apart from
+avowal, so the question is unchanged.

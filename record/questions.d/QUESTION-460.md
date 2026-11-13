@@ -77,6 +77,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, Group Duties, cited by A12 -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, cited by A12 as registered and unread -->
 <!-- inactive-ok-file: LIT-2523 LIT-2538 — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-460: Does an organized whole ground norms concerning its own constituent parts, and if it does, who bears the obligations those norms establish: the whole, where it is the kind of thing that can owe, or the agents and roles that maintain, control or benefit from the arrangement; and on what ground: that the parts constitute it, contribute to it, are vulnerable to it or are governed by it, its commitments to them, or its history with them?
 
@@ -386,3 +387,16 @@ relational arrangement among processes, components, roles, or
 constraints". The relation the question asks about is named by
 [TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md), a rival definition of cross-scale concordance. The
 question is unchanged.
+
+## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
+
+Marcuse (THEORY-tmpoxssh, NOTE-tmpf1tpw) answers the bearer half for
+hypostatized wholes such as the Nation and the Corporation: "Their
+independence, although real, is a spurious one inasmuch as it is that of
+particular powers which have organized the whole I of society" [stray
+"I" as in the copy], and he quotes "One believes to die for the
+Fatherland, one dies for the Industrialists" (ch. 8). On his account the
+obligations a whole seems to ground fall on those who organize, control
+or benefit from it, not on the whole. He gives no account of the ground.
+A position on the question, not an answer to it; the question is
+unchanged.

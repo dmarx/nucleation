@@ -1,4 +1,5 @@
-<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpu2cwc CLAIM-tmpsmg1c TERM-tmpt8p9e CASE-tmpf71w4 ARG-tmp7y8r4 ARG-tmpar7tl ARG-tmpsh7he — filed from the exchange "Analyze technological civilization trap" (2026-11-13) or its readings, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpu2cwc CLAIM-tmpsmg1c TERM-tmpt8p9e CASE-tmpf71w4 ARG-tmp7y8r4 ARG-tmpar7tl ARG-tmpsh7he ARG-tmpqo6eu THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" (2026-11-13) or its readings, Proposed -->
+<!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the term the new definition rivals -->
 ### Added
 
@@ -38,3 +39,13 @@
   ([CLAIM-tmpkjv7u](record/claims.d/CLAIM-tmpkjv7u.md)) is narrowed to domination by an arrangement's
   controllers; the claims on compulsion and capability trajectories are
   corroborated; corrections in the curation entry.
+- The readings of 2026-11-13 after the owner's ruling on the whole-book
+  copies ("the copies are fine"): Marcuse's One-Dimensional Man read in
+  full (NOTE-tmpf1tpw, THEORY-tmpoxssh) and Illich's Tools for
+  Conviviality read as a two-page excerpt, the whole book Unfetched
+  (NOTE-tmp8ceuj, THEORY-tmpww16o); both LITs Active. Marcuse's place in
+  the domination threshold is restated, controllers who choose a veiled
+  project rather than constraint no one holds (ARG-tmpsh7he, version 2);
+  his mixed support for the compulsion claim is argued in ARG-tmpqo6eu;
+  three of the Farr stand-in's attributions are corrected; dated notes on
+  the claims and questions the books bear on.

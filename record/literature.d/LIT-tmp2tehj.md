@@ -1,8 +1,8 @@
 ---
-status: Unavailable
-status_note: 'no lawful copy reached on 2026-11-13. Whole-book copies at https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf and https://iso.mor.phis.me/teaching/2023-2024/IA/textes/conviviality.pdf: whole-book copy, not fetched pending the owner''s ruling. An archive.org upload was not fetched, not being lawful. A related paper on OpenEdition served a bot check. Cayley''s excerpted reading of Illich ([LIT-tmpc1xee](LIT-tmpc1xee.md)) stands in for the account of radical monopoly.'
+status: Active
+status_note: 'a two-page excerpt read on 2026-11-13 (NOTE-tmp8ceuj, Skimmed) from https://iso.mor.phis.me/teaching/2023-2024/IA/textes/conviviality.pdf, a teaching page''s PDF headed "Extrait du livre Tools for conviviality paru en 1973": an excerpt, not the whole-book copy this note called it before. The whole book at https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf is Unfetched on 2026-11-13: TLS verification failed (the server''s certificate chains to a root this session does not trust), and it was not worked around. Both copies are covered by the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). Cayley''s reading (LIT-tmpc1xee) still stands in for what the excerpt does not reach.'
 title: 'Tools for Conviviality'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -24,6 +24,23 @@ history:
     whether they are lawful; their addresses are in the status note.
     Cayley's excerpt of his intellectual biography is registered and
     read as a stand-in (LIT-tmpc1xee, NOTE-tmpc4m2u).
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Active, after the owner ruled on 2026-11-13 that the whole-book
+    copies named in the status note are fine to read ("the copies are
+    fine"). The iso.mor.phis.me file, called a whole-book copy at
+    version 2, is a two-page excerpt ("Extrait du livre Tools for
+    conviviality paru en 1973"), with the passages "Convivial
+    reconstruction" and the opening of "Radical monopoly"; it was read
+    in full (NOTE-tmp8ceuj, Skimmed; THEORY-tmpww16o). The Cornell
+    whole-book copy is Unfetched on 2026-11-13: curl reported "SSL
+    certificate problem: unable to get local issuer certificate"; one
+    retry with the session's CA bundle failed the same way, and it was
+    not worked around. The excerpt confirms only "1973" for the date;
+    nothing in it bears on the publisher or the DOI. The A13
+    characterization of radical monopoly is corrected to Illich's own
+    definition, and the summary is rewritten from the excerpt.
 tags:
 - society-and-governance
 - ethics
@@ -39,17 +56,23 @@ keywords:
 implementations: []
 summary: >-
   Ivan Illich (1973). Tools for Conviviality. Calder & Boyars.
-  DOI-10.1558/isbn.9780714521602. Unavailable. Through Cayley
-  ([LIT-tmpc1xee](LIT-tmpc1xee.md), [NOTE-tmpc4m2u](../notes.d/NOTE-tmpc4m2u.md)): tools past a second watershed become
-  counterproductive and tend to "radical monopoly", where alternatives
-  are "inaccessible or unimaginable"; the test is whether one can still
-  find an alternative or do without. That is [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s measure,
-  which it corroborates; Illich's burial case, a de facto monopoly later
-  made compulsory by law, qualifies that claim's "without any rule".
-  Account: [THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md).
+  DOI-10.1558/isbn.9780714521602. A two-page excerpt read
+  (NOTE-tmp8ceuj); the whole book is Unfetched. "People need new tools
+  to work with rather than tools that “work” for them"; conviviality is
+  "individual freedom realized in personal interdependence"; radical
+  monopoly is "the dominance of one type of product rather than the
+  dominance of one brand", where one industrial process takes exclusive
+  control of a pressing need and "excludes nonindustrial activities from
+  competition", as motor traffic "curtails the right to walk". It
+  corroborates CLAIM-tmpbypt7's measure and road mechanism, and adds one,
+  "Cars create distance"; it corroborates CLAIM-tmp6wuql's distinction
+  and bounds CLAIM-tmpkjv7u. Account: THEORY-tmpww16o. Cayley's reading
+  (THEORY-tmpxwo9k) still carries the burial case and "unimaginable",
+  which the excerpt does not reach.
 ---
-<!-- inactive-ok-file: THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
-<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpww16o THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
 # LIT-tmp2tehj: Tools for Conviviality
 
@@ -57,7 +80,25 @@ Ivan Illich (1973). *Tools for Conviviality*. London: Calder & Boyars (Marion Bo
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* U1 (pasted): "Does a technology increase what people can do for themselves, or does it make them increasingly dependent on systems that do things for them?" A13 §II: radical monopoly, "in which an institutionalized way of satisfying a need displaces other ways of meeting it". Unverified until read.
+From the two-page excerpt read on 2026-11-13 (NOTE-tmp8ceuj).
+
+- "People need new tools to work with rather than tools that “work” for
+  them." U1's question ("Does a technology increase what people can do
+  for themselves, or does it make them increasingly dependent on systems
+  that do things for them?") is a fair paraphrase, not Illich's words.
+- "I consider conviviality to be individual freedom realized in personal
+  interdependence and, as such, an intrinsic ethical value."
+- **Radical monopoly, in Illich's own definition**: "I speak about radical
+  monopoly when one industrial production process exercises an exclusive
+  control over the satisfaction of a pressing need, and excludes
+  nonindustrial activities from competition." A13 §II's characterization,
+  "in which an institutionalized way of satisfying a need displaces
+  other ways of meeting it", is close in substance but not his, and it
+  loses the point: the alternative displaced is the non-industrial one,
+  walking, not a rival product. "That motor traffic curtails the right to
+  walk, not that more people drive Chevies than Fords, constitutes
+  radical monopoly."
+- "Cars create distance": the monopoly enlarges the need it serves.
 
 ## Standing in the record
 
@@ -65,4 +106,15 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Whole-book copies located, not fetched pending the owner's ruling. Stand-in: [LIT-tmpc1xee](LIT-tmpc1xee.md), read in [NOTE-tmpc4m2u](../notes.d/NOTE-tmpc4m2u.md); account [THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md).
+Before the owner's ruling: Unavailable. Copies located, not fetched pending the ruling. Stand-in: [LIT-tmpc1xee](LIT-tmpc1xee.md), read in [NOTE-tmpc4m2u](../notes.d/NOTE-tmpc4m2u.md); account [THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md).
+
+## Reading of 2026-11-13: the excerpt
+
+After the owner's ruling of 2026-11-13: the teaching page's file turned
+out to be a two-page excerpt, read in full (NOTE-tmp8ceuj, Skimmed;
+account THEORY-tmpww16o); the Cornell whole-book copy is Unfetched (TLS
+failure). The excerpt does not reach the burial case, "inaccessible or
+unimaginable", the watersheds or counterproductivity, so the
+qualification of CLAIM-tmpbypt7's title still rests on Cayley
+(THEORY-tmpxwo9k). The reading should be completed from the whole book
+when it can be fetched.

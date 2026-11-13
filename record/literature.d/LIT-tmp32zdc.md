@@ -1,8 +1,8 @@
 ---
-status: Unavailable
-status_note: 'no lawful copy reached on 2026-11-13. The whole book is posted chapter by chapter at https://www.marcuse.org/herbert/pubs/64onedim/odm1.html (the Marcuse family''s site): whole-book copy, not fetched pending the owner''s ruling. A full-book PDF on a professor''s site was not fetched. Farr''s SEP entry ([LIT-tmpldtwo](LIT-tmpldtwo.md)) stands in.'
+status: Active
+status_note: 'read in full on 2026-11-13 from the whole book posted chapter by chapter on the Marcuse family''s site, https://www.marcuse.org/herbert/pubs/64onedim/ (contents, Introduction, chapters 1 to 10), on the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). An OCR transcription; quotations follow it. Read in NOTE-tmpf1tpw; account THEORY-tmpoxssh. Farr''s SEP entry (LIT-tmpldtwo) stood in before.'
 title: 'One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-13'
@@ -24,6 +24,18 @@ history:
     nothing is quoted from it. Farr's SEP entry, with Kellner's essay,
     is registered and Skimmed as a stand-in (LIT-tmpldtwo,
     NOTE-tmpi8t8i).
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    Active. Read in full on 2026-11-13 from the marcuse.org copy, after
+    the owner ruled the same day that the whole-book copies named in
+    the status note are fine to read ("the copies are fine"). NOTE
+    NOTE-tmpf1tpw (Read) and THEORY THEORY-tmpoxssh. The copy's contents
+    page gives "(Boston: Beacon, 1964)", matching `published:`; no
+    correction to author, type or date. The summary is rewritten from
+    the reading. The stand-in's three misattributions are recorded on
+    NOTE-tmpi8t8i and THEORY-tmpnydju, and Marcuse's place in
+    CLAIM-tmpkjv7u and ARG-tmpsh7he is restated.
 tags:
 - society-and-governance
 - social-science
@@ -37,17 +49,24 @@ keywords:
 - 'social control'
 implementations: []
 summary: >-
-  Herbert Marcuse (1964). One-Dimensional Man. Beacon Press.
-  Unavailable. Through Farr's SEP entry and Kellner ([LIT-tmpldtwo](LIT-tmpldtwo.md),
-  [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md)): a "democratic unfreedom" in which domination takes the
-  form of administration and needs neither force nor an authority
-  figure, integrating people through false needs. This marks the limit
-  of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold, which since its version 2 says it does
-  not test such impersonal domination. Account: [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md).
+  Herbert Marcuse (1964). One-Dimensional Man. Beacon Press. Read in
+  full (NOTE-tmpf1tpw). Advanced industrial society contains qualitative
+  change by satisfying needs it has itself produced, "false" needs
+  "superimposed upon the individual by particular social interests in
+  his repression": a "comfortable, smooth, reasonable, democratic
+  unfreedom" secured by "Technology rather than Terror", in which
+  "Domination is transfigured into administration". The apparatus's
+  impersonality veils the interests that choose a society's project, and
+  its administrators are enclosed by it too. It bounds CLAIM-tmpkjv7u,
+  because control through a veiled project is not discretion over the
+  dependent, not because no one holds it (ARG-tmpsh7he); it corroborates
+  CLAIM-tmpbypt7's mechanism and argues against its measure, "what can
+  be chosen and what is chosen" (ARG-tmpqo6eu). Account: THEORY-tmpoxssh.
 ---
-<!-- inactive-ok-file: CLAIM-tmpkjv7u THEORY-tmpnydju — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: ARG-tmpqo6eu ARG-tmpsh7he CLAIM-tmpbypt7 CLAIM-tmpkjv7u THEORY-tmpnydju THEORY-tmpoxssh — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpi8t8i — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-025 — Proposed; the record's reading of Sen, cited with its standing -->
+<!-- inactive-ok-file: QUESTION-057 — Deferred; the set-aside authenticity line, cited for the bearing the reading gives it -->
 
 # LIT-tmp32zdc: One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society
 
@@ -55,7 +74,26 @@ Herbert Marcuse (1964). *One-Dimensional Man*. Boston: Beacon Press. Routledge e
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* U1 (pasted): "What if the most effective form of social control is not preventing people from getting what they want, but influencing what they want in the first place?" Unverified until read.
+Read in full on 2026-11-13 (NOTE-tmpf1tpw); quotations as the OCR copy
+prints them.
+
+- "A comfortable, smooth, reasonable, democratic unfreedom prevails in
+  advanced industrial civilization, a token of technical progress" (ch.
+  1, the first sentence).
+- False needs are "superimposed upon the individual by particular social
+  interests in his repression"; "social control is anchored in the new
+  needs which it has produced" (ch. 1). This confirms the exchange's
+  U1, control by "influencing what they want in the first place".
+- "Domination is transfigured into administration"; "the organizers and
+  administrators themselves become increasingly dependent on the
+  machinery which they organize and administer" (ch. 2).
+- The choice of a society's project is "primarily (but only primarily!)
+  the privilege of those groups which have attained control over the
+  productive process"; it "precludes alternative possibilities
+  incompatible with it" (ch. 8).
+- "The range of choice open to the individual is not the decisive factor
+  in determining the degree of human freedom, but what can be chosen and
+  what is chosen by the individual" (ch. 1).
 
 ## Standing in the record
 
@@ -63,4 +101,16 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: [LIT-tmpldtwo](LIT-tmpldtwo.md), Skimmed in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md); account [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md), which bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).
+Before the owner's ruling: Unavailable. Stand-in: [LIT-tmpldtwo](LIT-tmpldtwo.md), Skimmed in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md); account [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md), which bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).
+
+## Reading of 2026-11-13: the book
+
+Read in full from the marcuse.org copy, on the owner's ruling of
+2026-11-13 ("the copies are fine"): NOTE-tmpf1tpw, Read; account
+THEORY-tmpoxssh, which bounds CLAIM-tmpkjv7u, corroborates CLAIM-tmpbypt7
+and bears on QUESTION-071, QUESTION-057, QUESTION-460 and QUESTION-461.
+The book corrects the stand-in on three attributions (dated notes on
+NOTE-tmpi8t8i and THEORY-tmpnydju) and on Marcuse's place in the
+domination threshold (ARG-tmpsh7he, version 2). Marcuse cites Simondon's
+Du mode d'existence des objets techniques repeatedly; the record does not
+hold it.

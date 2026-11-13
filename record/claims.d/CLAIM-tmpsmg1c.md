@@ -41,6 +41,8 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmp0dvpy THEORY-tmp8mi75 THEORY-tmpzuniv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-184 — Proposed; the record's nearest claim, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpoxssh THEORY-tmpww16o — filed from the readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
 # CLAIM-tmpsmg1c: When a choice about a technology or an institution could substantially and durably narrow the possibilities later open to those it affects, the burden of justifying it should rise with the size and the irreversibility of the narrowing
 
@@ -88,3 +90,19 @@ than any participant can bear.
 - **Postman** ([THEORY-tmp8mi75](../theory.d/THEORY-tmp8mi75.md)): the consequences of technological change are "always vast, often unpredictable and largely irreversible", and he counsels caution. Corroborates the premise; he states no burden rule.
 - **Moen** ([THEORY-tmpzuniv](../theory.d/THEORY-tmpzuniv.md)): control of technological progress faces "both an epistemic problem and a coordination problem", the uncertainty with later learning this claim's reason needs. Corroborates the premise.
 - **Rosa** ([THEORY-tmp0dvpy](../theory.d/THEORY-tmp0dvpy.md)): a modern society can be slowed "but only at the cost of its institutions getting in crises", the cost of reversing a structural ratchet at the scale of the whole. A point of contact, no relation.
+
+## Note of 2026-11-13: Marcuse and Illich, read
+
+- **Marcuse, One-Dimensional Man** (THEORY-tmpoxssh, NOTE-tmpf1tpw).
+  Complements the premise in part: it gives a reason irreversibility
+  matters, since a project once operative "tends to become exclusive" and
+  its initial choice "precludes alternative possibilities incompatible
+  with it", and chapter 3 speaks of "the degree of its irreversibility"
+  of change brought by technical progress. But Marcuse states no burden
+  of justification; his remedy is "planning for the whole against these
+  interests" (ch. 10), which "presupposes the repression of much that is
+  now free". A point of contact, no relation.
+- **Illich, a two-page excerpt** (THEORY-tmpww16o, NOTE-tmp8ceuj). Leaves it
+  open: controls over tools should be "governed by political process
+  rather than by decisions by experts", which bears on who carries the
+  burden, not on how it scales. Nothing on irreversibility. No relation.

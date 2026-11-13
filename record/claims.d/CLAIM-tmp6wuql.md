@@ -46,9 +46,11 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmpar7tl THEORY-tmpa59p3 THEORY-tmpiihve THEORY-tmpj32pb THEORY-tmpo67z2 THEORY-tmpockqy THEORY-tmpt6mee THEORY-tmpwsjea THEORY-tmpzibpi — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
-<!-- inactive-ok-file: LIT-2225 — Unfetched; cited with its standing -->
+<!-- inactive-ok-file: LIT-2225 until 2027-05-13 — Unfetched; Bainbridge's paper, cited with its standing as unread; asked again by that date whether a lawful copy is reached -->
+<!-- inactive-ok-file: THEORY-tmpoxssh THEORY-tmpww16o — filed from the readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's claim on division of labour, cited with its standing -->
 <!-- inactive-ok-file: CASE-tmpf71w4 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
 # CLAIM-tmp6wuql: Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces
 
@@ -121,3 +123,22 @@ Readings of 2026-11-13 and a recheck.
 - **Rosa through Susen** ([THEORY-tmpzibpi](../theory.d/THEORY-tmpzibpi.md)): qualifies the evaluative measure from outside. "access to resources is a necessary but not sufficient condition for human fulfilment"; a capability set, even as a trajectory, measures options, not the quality of a person's relation to what they do. The derivation is untouched.
 - **Benjamin**, Imagination ([THEORY-tmpwsjea](../theory.d/THEORY-tmpwsjea.md)): a capacity widespread in children declining under arrangements that do not exercise it; weak and second-hand, no relation.
 - **Recheck: readings the first search missed.** The record already held the premise's best evidence: Ahn's reading of Bainbridge's ironies of automation ([THEORY-1522](../theory.d/THEORY-1522.md), read in [NOTE-1713](../notes.d/NOTE-1713.md) from [LIT-2222](../literature.d/LIT-2222.md)), that automation leaves the operator's skills "degraded from disuse"; Bainbridge's paper itself ([LIT-2225](../literature.d/LIT-2225.md)) is Unfetched. [THEORY-1522](../theory.d/THEORY-1522.md) now corroborates this claim. [NOTE-1612](../notes.d/NOTE-1612.md) (Oskar et al., procedural skill decay in emergency medicine; [THEORY-1404](../theory.d/THEORY-1404.md)) is the clinical evidence for decay with disuse that [CLAIM-558](CLAIM-558.md) holds; it bears on whether [CLAIM-605](CLAIM-605.md)'s model applies to people, the question [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md) asks.
+
+## Note of 2026-11-13: Marcuse and Illich, read
+
+- **Illich, Tools for Conviviality, a two-page excerpt** (THEORY-tmpww16o,
+  NOTE-tmp8ceuj). Corroborates the distinction the claim turns on, not its
+  derivation: "People need new tools to work with rather than tools that
+  “work” for them" is capacity-first against substitutive support, and
+  Illich says what substitution costs: "As the power of machines
+  increases, the role of persons more and more decreases to that of mere
+  consumers"; people need "the freedom to make things among which they
+  can live". The excerpt says nothing of capacity decaying with disuse,
+  so it gives no dynamics; THEORY-tmpww16o carries `corroborates` for the
+  distinction only.
+- **Marcuse, One-Dimensional Man** (THEORY-tmpoxssh, NOTE-tmpf1tpw). Leaves
+  it open, with weak support for the motivation: needs that include
+  "enjoying freedom from using the brain" (ch. 9), man "perhaps more
+  powerless over his own apparatus than he ever was before" (ch. 9), and
+  the worker's lost "professional autonomy" (ch. 2). No model and no
+  dynamics; nothing bears on the derivation. No relation.

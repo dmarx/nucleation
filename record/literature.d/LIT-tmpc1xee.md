@@ -35,7 +35,6 @@ summary: >-
   do without. A stand-in for the account of radical monopoly in
   [LIT-tmp2tehj](LIT-tmp2tehj.md).
 ---
-<!-- inactive-ok-file: LIT-tmp2tehj — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # LIT-tmpc1xee: Illich as Revolutionary

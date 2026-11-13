@@ -51,7 +51,9 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-670 CLAIM-428 CLAIM-445 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: THEORY-885 — Proposed; a reading named for comparison, nothing here rests on it -->
 <!-- inactive-ok-file: ARG-tmp7y8r4 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpdprtt LIT-tmp2tehj LIT-tmp6zjsx — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpdprtt LIT-tmp6zjsx — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: ARG-tmpqo6eu THEORY-tmpoxssh THEORY-tmpww16o — filed from the readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
 # CLAIM-tmpbypt7: A technology can become practically compulsory without any rule requiring it: as infrastructures, competitors and expectations adapt to its adoption, the alternatives left to those who decline it shrink, so the freedom an arrangement leaves is measured by what remains open to a non-adopter, not by what it lets adopters do
 
@@ -141,3 +143,42 @@ Readings registered from the exchange and read, or read through stand-ins, on 20
 - **Kelly** ([THEORY-tmp5l4e4](../theory.d/THEORY-tmp5l4e4.md)): a foil, not evidence. His "More ways, more choices" measures the options technology gives its adopters, the measure this claim sets aside; it neither meets the claim's defeater nor answers it.
 - **Lanier** ([THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md)) and **Hui** ([THEORY-tmpyuoss](../theory.d/THEORY-tmpyuoss.md)): Lanier names lock-in in software without the claim's mechanism; Hui's bifurcated technological futures say lock-in to one path is not necessary, without a mechanism that keeps a non-adopter's options open. Points of contact, no relation.
 - **Feenberg** ([THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md)): lock-in depends on the prevailing technical code, which shifts the emphasis to contestability; consistent with the claim.
+
+## Note of 2026-11-13: Marcuse and Illich, read
+
+- **Marcuse, One-Dimensional Man, read in full** (THEORY-tmpoxssh,
+  NOTE-tmpf1tpw). Mixed support, argued in ARG-tmpqo6eu. The book
+  corroborates the mechanism: once a project is operative "it tends to
+  become exclusive"; "The initial choice defines the range of
+  possibilities open on this way, and precludes alternative possibilities
+  incompatible with it"; compliance becomes "a rational technological
+  attitude"; the ways out become "unimaginable", the cultural mechanism.
+  It argues against the measure: "The range of choice open to the
+  individual is not the decisive factor in determining the degree of
+  human freedom, but what can be chosen and what is chosen by the
+  individual." If the arrangement shapes the wants by which a non-adopter
+  chooses as well as the options left to her, two arrangements leaving
+  her the same options can differ in freedom. That is the kind of
+  argument the claim's second defeater describes. It does not meet the
+  defeater as stated, since Marcuse gives no such pair and his criterion
+  of true and false needs is contested; it presses the measure toward a
+  necessary condition rather than the whole of freedom. Status
+  unchanged. Marcuse's mechanism is needs and satisfaction, not
+  infrastructure.
+- **Illich, Tools for Conviviality, a two-page excerpt** (THEORY-tmpww16o,
+  NOTE-tmp8ceuj). Corroborates, in Illich's own words, the measure and the
+  road mechanism. Ordinary monopolies "restrict the choices open to the
+  consumer"; radical monopoly is "the dominance of one type of product
+  rather than the dominance of one brand", where "one industrial
+  production process exercises an exclusive control over the satisfaction
+  of a pressing need, and excludes nonindustrial activities from
+  competition": the harm falls on the non-adopter's alternative, not on
+  adopters' choice. "That motor traffic curtails the right to walk, not
+  that more people drive Chevies than Fords, constitutes radical
+  monopoly"; cars shape the city, "practically ruling out locomotion on
+  foot or by bicycle in Los Angeles". "Cars create distance" is a further
+  mechanism the claim does not list: adoption enlarges the very need the
+  technology serves, so that people "spend more time for the sake of
+  travel". The excerpt does not reach the burial case or "unimaginable";
+  the qualification of the title in the note above still rests on Cayley
+  (THEORY-tmpxwo9k).

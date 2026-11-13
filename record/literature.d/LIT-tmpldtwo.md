@@ -36,7 +36,6 @@ summary: >-
   nor an authority figure. A stand-in for the central account of
   [LIT-tmp32zdc](LIT-tmp32zdc.md).
 ---
-<!-- inactive-ok-file: LIT-tmp32zdc — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-tmpi8t8i — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmpnydju — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 

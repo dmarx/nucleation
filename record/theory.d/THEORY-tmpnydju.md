@@ -19,8 +19,7 @@ summary: >-
 bears_on:
 - QUESTION-071
 ---
-<!-- inactive-ok-file: ARG-tmpsh7he CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
-<!-- inactive-ok-file: LIT-tmp32zdc — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
+<!-- inactive-ok-file: ARG-tmpsh7he CLAIM-tmpkjv7u THEORY-tmpoxssh — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpi8t8i — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
 # THEORY-tmpnydju: Farr reads Marcuse as holding that advanced industrial society sustains a democratic unfreedom in which domination takes the form of administration and needs neither force nor an authority figure, because the society makes people think themselves freer than they are and integrates them through needs it creates
@@ -36,3 +35,30 @@ The reading in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md), results 1–5. It b
 ## What it does not say
 
 A test for when such domination exists.
+
+## Note of 2026-11-13: the book read, and three attributions corrected
+
+One-Dimensional Man was read in full on 2026-11-13, after the owner's
+ruling on the whole-book copy (NOTE-tmpf1tpw, THEORY-tmpoxssh). Checked
+against the book, this stand-in is confirmed on result 1, the book's first
+sentence verbatim, and on result 5, Kellner's false needs. Three
+attributions are corrected:
+
+- **Result 2**, "all domination assumes the form of administration", is
+  from Eros and Civilization, as Farr says; it is not in One-Dimensional
+  Man. The book's own forms are "Domination is transfigured into
+  administration" (ch. 2) and "At its most advanced stage, domination
+  functions as administration" (ch. 10).
+- **Result 4**, "The system must make the citizens think that they are
+  freer than they really are", is Farr's paraphrase; no such sentence is
+  in the book.
+- **Result 3**, "domination no longer requires force or the presence of an
+  authority figure", is Farr's wording. The book speaks of the absence of
+  terror ("Technology rather than Terror"; "non-terroristic
+  economic-technical coordination which operates through the manipulation
+  of needs by vested interests"), not of an authority figure, and it
+  names those who choose the society's project.
+
+The bearing given above on CLAIM-tmpkjv7u, that on Marcuse's account
+domination needs no authority figure, therefore rests on Farr's wording,
+not the book's. The book's bearing is restated in ARG-tmpsh7he, version 2.

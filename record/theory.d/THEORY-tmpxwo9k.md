@@ -19,7 +19,6 @@ summary: >-
   [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md) and qualifies its title.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
-<!-- inactive-ok-file: LIT-tmp2tehj — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
 # THEORY-tmpxwo9k: Cayley reads Illich as holding that tools, institutions included, become counterproductive past a second watershed and tend toward radical monopoly, the dominance of one kind of product that renders alternatives inaccessible or unimaginable, so that the test is whether one can still find an alternative or decently do without
 

@@ -59,12 +59,13 @@ summary: >-
   worked case of all three conditions ([THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md)). Interpretive.
   The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-tmpsh7he THEORY-tmp5hgen THEORY-tmpbgf6v THEORY-tmpclnon THEORY-tmpnydju THEORY-tmpo6ipc THEORY-tmpq29mb THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: ARG-tmpsh7he THEORY-tmp5hgen THEORY-tmpbgf6v THEORY-tmpclnon THEORY-tmpnydju THEORY-tmpo6ipc THEORY-tmpq29mb THEORY-tmpxwo9k THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmph5wwv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the duty of answerability A23 tied accountability to, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-545 CLAIM-428 CLAIM-669 CLAIM-670 — Proposed; the record's nearest claims, cited with their standing -->
 
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
 # CLAIM-tmpkjv7u: A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement's controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it
 
@@ -139,3 +140,36 @@ the arrangement itself is not assumed to owe or to dominate anything, as
 - **Zuboff 2022** ([THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md), Skimmed in [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md)) is a worked case of all three conditions: "nearly all roads to economic, political, and social participation lead through its institutional terrain"; controllers who "were never elected to govern"; conditions of "no exit". Corroborates.
 - **Crawford and Joler** ([THEORY-tmpq29mb](../theory.d/THEORY-tmpq29mb.md)): transparency without real choice and accountability leaves the asymmetry, which supports the weight of the third condition; not written as a relation.
 - **Illich through Cayley** ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)): radical monopoly paralyses autonomous action with no discretion-holder, another case outside the narrowed test.
+
+## Note of 2026-11-13: Marcuse and Illich, read
+
+- **Marcuse, One-Dimensional Man, read in full** (THEORY-tmpoxssh,
+  NOTE-tmpf1tpw; ARG-tmpsh7he, version 2). The book does not support
+  reading Marcuse as describing constraint that no one holds, which is how
+  version 2's history, its `defeated_if` ("Marcuse's administration") and
+  its title's last clause place him. The "objective order of things" is
+  "itself the result of domination"; the project for the whole is chosen
+  "primarily" by "those groups which have attained control over the
+  productive process". What Marcuse adds is different: control exercised
+  through the choice of a society's project, not over particular
+  dependents; veiled ("the technological veil conceals the reproduction of
+  inequality and enslavement"); and by controllers who are themselves
+  caught in it ("a vicious circle which encloses both the Master and the
+  Servant"). His place is restated: he marks the claim's limit because
+  discretion over a project, out of sight, is not the discretion over the
+  dependent that the second condition names, and leaves nothing visible
+  for the third condition's means of challenge to reach. The relation
+  stays `bounds` for that reason (ARG-tmpsh7he gives the argument). On the
+  third condition, the book both supports and qualifies: plural
+  institutions make "possibilities of escape and redress" calculable (ch.
+  2), but "Free election of masters does not abolish the masters or the
+  slaves" (ch. 1), and a channel for complaint can integrate by turning a
+  general grievance into "a treatable and tractable incident" (ch. 4).
+  What "effective" means in the third condition is pressed, not settled.
+  Status unchanged; whether the title's last clause should be restated at
+  a later version is the owner's call.
+- **Illich, Tools for Conviviality, a two-page excerpt** (THEORY-tmpww16o,
+  NOTE-tmp8ceuj): "Neither a dictatorial proletariat nor a leisure mass can
+  escape the dominion of constantly expanding industrial tools." It places
+  the constraint in the tools, whoever controls them, another limit of the
+  narrowed test; it carries `bounds` to this claim.

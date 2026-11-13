@@ -33,6 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-428 CLAIM-603 CLAIM-614 CLAIM-619 CLAIM-624 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: CASE-257 CLAIM-669 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-2528 LIT-2516 LIT-2536 LIT-2522 — Deferred; filed from the same exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-461: When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?
 
@@ -178,3 +179,16 @@ with the standard of injustice left open, which A23 concedes ("The
 concept would require an independent account of what makes those terms
 unjust"). A13 §II's threshold, filed as [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), bears on the
 second branch from the dependent's side. The question is unchanged.
+
+## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
+
+Marcuse (THEORY-tmpoxssh, NOTE-tmpf1tpw) gives worked cases of the
+second branch, an organization keeping indispensable contributions from
+becoming claims on it. Chapter 2's integration of labour: the union
+"almost indistinguishable in its own eyes from the corporation", workers
+with a "vested interest in the establishment". Chapter 4's Hawthorne
+study: a general grievance about wages translated into one worker's
+circumstances becomes "a treatable and tractable incident", "subsumed
+under another genus-that of personal hardship cases". The mechanism is
+satisfaction and the translation of claims into personal cases, not
+exclusion. Evidence for the second branch; the question is unchanged.
