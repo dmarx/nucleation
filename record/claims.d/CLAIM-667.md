@@ -142,6 +142,6 @@ A17 §VIII and A20 §XV of the exchange "Analyze technological
 civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read the record as a case of its own subject,
 with CLAIM-419, CLAIM-469 and CASE-253, and reported this claim correctly
 as "still a hypothesis". A20's Proposition D carries this claim's
-prediction from a record's schema to organizations' governing standards,
+prediction from a record's schema to institutions' governing standards,
 with CLAIM-665's limit on routine work; it is filed as CLAIM-tmpu2cwc,
 which complements this claim. No change.

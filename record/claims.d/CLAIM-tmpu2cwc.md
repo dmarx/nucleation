@@ -1,17 +1,17 @@
 ---
 status: Proposed
-title: 'Organizations able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than organizations that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit'
+title: 'Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit'
 version: 1
 role: thesis
 warrant: empirical
 defeated_if: >-
-  A comparison of organizations matched on resources and on the
+  A comparison of institutions matched on resources and on the
   independence of the evidence they receive (CLAIM-342), some with
   effective means to revise their governing standards and some with
   outcome monitoring only, facing problems their inherited standards
   cannot represent, that finds no difference in how long normatively
   significant failures persist; or one that finds the difference only
-  because the revising organizations also had better evidence, so that
+  because the revising institutions also had better evidence, so that
   standard revision adds nothing once evidence is matched. Not defeated
   by a finding that revision adds cost on routine work, which the claim
   states (CLAIM-665), nor by a revising organization that revises badly,
@@ -36,16 +36,16 @@ summary: >-
   audit's admission test, by the route of a discriminating prediction. It
   carries CLAIM-667's prediction for an inquiry record (governance raises
   the value of a modifiable schema where inherited categories are
-  inadequate) to organizations generally, and keeps CLAIM-665's limit on
+  inadequate) to institutions generally (TERM-074 sense 3), and keeps CLAIM-665's limit on
   routine work, as A20 did. The record holds the three achievements a
   correction needs (CLAIM-523), a duty to keep violations correctable
   (CLAIM-624) and that corrigibility's value is conditional (CLAIM-520);
-  it holds no comparative prediction for organizations. Empirical and
+  it holds no comparative prediction for institutions. Empirical and
   untested. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-624 CLAIM-511 — Proposed; the record's nearest claims, cited with their standing -->
 
-# Organizations able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than organizations that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit
+# Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit
 
 ## The claim
 
@@ -64,6 +64,14 @@ empirical question is not whether more governance is always better. It is
 to outweigh their costs and possible unintended consequences**." The claim
 states the scope that qualification implies, CLAIM-667's: tasks whose
 inherited standards are inadequate.
+
+## Which sense of "organization"
+
+TERM-074's sense 3, collective institutions: A20 states the proposition of
+"Institutions", and governing standards that can be authorized and revised
+belong to an institution with roles that can do it. The claim says nothing
+of an organization in sense 1, a relational arrangement with no one to
+revise its standards.
 
 ## Why it is filed, and why this form
 

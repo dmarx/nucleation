@@ -83,6 +83,14 @@ A11 §4 gave the measure the claim keeps:
 > technology allows someone to do, but what possibilities remain available
 > when they choose not to use it.
 
+## Which sense of "organization"
+
+Where A speaks of society or institutions "reorganizing" around a
+technology, the sense is TERM-074's sense 1, a change in a relational
+arrangement of infrastructures, practices and expectations, not an act of
+a collective institution (sense 3). No one need decide it; that is the
+claim's point.
+
 ## What the record held
 
 - **Lock-in between competing technologies.** Arthur's model (THEORY-863):

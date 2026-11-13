@@ -79,6 +79,15 @@ prevents it; A6 §III and A8 §III defined freedom as non-domination; A11
 §12 asked that dependence be "justified, accountable, and compatible with
 meaningful agency". A13 is the first to state a test.
 
+## Which sense of "arrangement"
+
+TERM-074's sense 1 by default: the arrangement a party depends on is a
+relational arrangement of processes, roles and infrastructures, which need
+not be an institution or an agent. The second condition names who holds
+discretion over it, "those controlling the system", and they are agents;
+the arrangement itself is not assumed to owe or to dominate anything, as
+QUESTION-460 keeps the bearer apart from the ground.
+
 ## How it sits with what the record holds
 
 - **CLAIM-545** defines domination as another's capacity to govern the

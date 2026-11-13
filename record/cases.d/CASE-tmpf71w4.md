@@ -20,8 +20,8 @@ summary: >-
   reasoning and supplies the answer. Another helps the person reason
   through the problem, offering assistance when necessary." A13 §VIII's
   three models of AI tutoring (automation, restriction, capability-centred
-  augmentation) are the institutional version. A said the design
-  "could generate testable predictions" and did not state the test. The
+  augmentation) are the institutional version. A said the model behind it
+  "can generate testable predictions" and did not state the test. The
   arms are A's two designs; the filer wrote them out with the measures
   CLAIM-605's three predictions name, so that CLAIM-tmp6wuql's
   application to people can be checked, and added nothing else. The
