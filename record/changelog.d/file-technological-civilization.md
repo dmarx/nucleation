@@ -81,15 +81,15 @@
   Imagination are not tagged. No tag dropped; entries with a history take
   a version note.
 - A's "Convivial Modernity" programme filed on the new line
-  flourishing-and-meaning (ADR-099), at the owner's request: five of A's
+  flourishing-and-meaning ([ADR-099](record/decisions.d/ADR-099.md)), at the owner's request: five of A's
   claims, all Proposed (satisfying preferences need not leave lives going
-  better, CLAIM-tmp58u4k; a want's origin is not its worth,
-  CLAIM-tmpx60mo; worth judged fallibly licenses cultivation, not
-  imposition, CLAIM-tmpfyxes; the industrialization of meaning,
-  CLAIM-tmpplibk; assistance judged by the participation it leaves,
-  CLAIM-tmp6yhlh), A's integrating standard as a question
-  (QUESTION-tmpvpq3r), and two ARGs on how far Wolf, Marcuse and Illich
-  carry them (ARG-tmpl8zwp, ARG-tmp2tzv3). CLAIM-tmp6wuql, CLAIM-tmpbypt7,
-  ARG-tmpar7tl and ARG-tmpqo6eu take the line beside their own. Wolf's
+  better, [CLAIM-tmp58u4k](record/claims.d/CLAIM-tmp58u4k.md); a want's origin is not its worth,
+  [CLAIM-tmpx60mo](record/claims.d/CLAIM-tmpx60mo.md); worth judged fallibly licenses cultivation, not
+  imposition, [CLAIM-tmpfyxes](record/claims.d/CLAIM-tmpfyxes.md); the industrialization of meaning,
+  [CLAIM-tmpplibk](record/claims.d/CLAIM-tmpplibk.md); assistance judged by the participation it leaves,
+  [CLAIM-tmp6yhlh](record/claims.d/CLAIM-tmp6yhlh.md)), A's integrating standard as a question
+  ([QUESTION-tmpvpq3r](record/questions.d/QUESTION-tmpvpq3r.md)), and two ARGs on how far Wolf, Marcuse and Illich
+  carry them ([ARG-tmpl8zwp](record/arguments.d/ARG-tmpl8zwp.md), [ARG-tmp2tzv3](record/arguments.d/ARG-tmp2tzv3.md)). [CLAIM-tmp6wuql](record/claims.d/CLAIM-tmp6wuql.md), [CLAIM-tmpbypt7](record/claims.d/CLAIM-tmpbypt7.md),
+  [ARG-tmpar7tl](record/arguments.d/ARG-tmpar7tl.md) and [ARG-tmpqo6eu](record/arguments.d/ARG-tmpqo6eu.md) take the line beside their own. Wolf's
   meaning and Sen's agency freedom are held as readings and mapped.
   The curation entry's "What was left" now says what is filed.

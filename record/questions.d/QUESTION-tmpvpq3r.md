@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp58u4k CLAIM-tmpfyxes CLAIM-tmpplibk CLAIM-tmp6yhlh CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-tmpockqy THEORY-tmp4ajaz THEORY-411 — Proposed; the readings the standard combines, cited with their standing -->
-<!-- inactive-ok-file: ADR-099 ADR-075 — Proposed; the line and the admission routes -->
+<!-- inactive-ok-file: ADR-075 — Proposed; the line and the admission routes -->
 
 # QUESTION-tmpvpq3r: Can the standard that an arrangement, a technology among them, succeeds insofar as it widens people's substantive freedom to pursue worthwhile lives without domination be stated so that some outcome would count against it, and how are its parts weighed when capability, worth and non-domination conflict?
 
@@ -41,14 +41,14 @@ A's synthesis in the exchange "Analyze technological civilization trap" (https:/
 
 A10, with Sen: "Progress occurs when people acquire greater substantive freedom to pursue lives they have reason to value", judged by four questions, capability, meaning, agency and non-domination. A11's principle 10: civilization "advances when it expands the substantive freedom to pursue worthwhile forms of life without unnecessarily concentrating domination or destroying the conditions of future flourishing."
 
-Its parts are on the record: Sen's substantive freedom (THEORY-tmpockqy), Wolf's worth (THEORY-tmp4ajaz), non-domination as a threshold for dependence (CLAIM-tmpkjv7u). The integration was audited on 2026-11-13 and admitted by no route of ADR-075: no derivation from the parts, no stipulated case that separates it, since its own pluralism absorbs every counterexample, and no discriminating prediction. A13 §XII's list of what would count against it concerns sub-claims, not the standard. That is why it is filed as a question and not a claim.
+Its parts are on the record: Sen's substantive freedom ([THEORY-tmpockqy](../theory.d/THEORY-tmpockqy.md)), Wolf's worth ([THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md)), non-domination as a threshold for dependence ([CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)). The integration was audited on 2026-11-13 and admitted by no route of [ADR-075](../decisions.d/ADR-075.md): no derivation from the parts, no stipulated case that separates it, since its own pluralism absorbs every counterexample, and no discriminating prediction. A13 §XII's list of what would count against it concerns sub-claims, not the standard. That is why it is filed as a question and not a claim.
 
 ## What would answer it
 
-- **A statement that could fail.** A version of the standard, perhaps narrower, together with an arrangement it would judge a failure that some rival standard (growth, preference satisfaction, the options left to a non-adopter) would judge a success, or the reverse. CLAIM-tmp58u4k is one such narrower sentence on the negative side: preference satisfaction does not measure success. CLAIM-tmpbypt7's measure is another.
-- **A rule for conflicts.** A10 refuses "a single numerical score" and expects trade-offs (a medical breakthrough that increases dependence; automation that removes dangerous work and meaningful work together). Sen's partial ordering, which ranks where every admissible weighting agrees (THEORY-411), is one candidate; an answer would say whether it leaves the standard able to rank the cases that matter.
+- **A statement that could fail.** A version of the standard, perhaps narrower, together with an arrangement it would judge a failure that some rival standard (growth, preference satisfaction, the options left to a non-adopter) would judge a success, or the reverse. [CLAIM-tmp58u4k](../claims.d/CLAIM-tmp58u4k.md) is one such narrower sentence on the negative side: preference satisfaction does not measure success. [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s measure is another.
+- **A rule for conflicts.** A10 refuses "a single numerical score" and expects trade-offs (a medical breakthrough that increases dependence; automation that removes dangerous work and meaningful work together). Sen's partial ordering, which ranks where every admissible weighting agrees ([THEORY-411](../theory.d/THEORY-411.md)), is one candidate; an answer would say whether it leaves the standard able to rank the cases that matter.
 - **Or a dissolution.** An argument that a standard of this kind is a frame for judgments, not a claim, so that the question asks the wrong thing of it.
 
 ## Bears on
 
-The claims of this line that take part in it: CLAIM-tmp58u4k (preference satisfaction), CLAIM-tmpfyxes (who may judge worth), CLAIM-tmpplibk (meaning measured), CLAIM-tmp6yhlh (assistance and participation), and CLAIM-tmp6wuql (capability as a trajectory).
+The claims of this line that take part in it: [CLAIM-tmp58u4k](../claims.d/CLAIM-tmp58u4k.md) (preference satisfaction), [CLAIM-tmpfyxes](../claims.d/CLAIM-tmpfyxes.md) (who may judge worth), [CLAIM-tmpplibk](../claims.d/CLAIM-tmpplibk.md) (meaning measured), [CLAIM-tmp6yhlh](../claims.d/CLAIM-tmp6yhlh.md) (assistance and participation), and [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) (capability as a trajectory).

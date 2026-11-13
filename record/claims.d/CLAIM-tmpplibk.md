@@ -33,16 +33,16 @@ summary: >-
   we transform meaning into an institutional output to be maximized, we
   risk destroying precisely the kind of free and genuine engagement that
   makes meaning possible." Two mechanisms: the measure is a proxy
-  objective optimized in place of what it stands for (TERM-108's form,
-  though TERM-108 assumes the measured do not react), and the measured
+  objective optimized in place of what it stands for ([TERM-108](../terms.d/TERM-108.md)'s form,
+  though [TERM-108](../terms.d/TERM-108.md) assumes the measured do not react), and the measured
   do react, since meaning pursued for its own sake is self-undermining,
-  Wolf's paradox of meaningfulness (THEORY-tmp4ajaz; ARG-tmpl8zwp).
+  Wolf's paradox of meaningfulness ([THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md); [ARG-tmpl8zwp](../arguments.d/ARG-tmpl8zwp.md)).
   Illich's institutions that hallow productivity and leave
-  "amorphousness and meaninglessness" (THEORY-tmpww16o) are a neighbour,
+  "amorphousness and meaninglessness" ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md)) are a neighbour,
   not support. Interpretive, with a discriminating prediction in its
   defeater. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp4ajaz THEORY-tmpww16o THEORY-tmp5hgen THEORY-tmpypzp0 QUESTION-tmpvpq3r ARG-tmpl8zwp CLAIM-tmpfyxes — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-tmp4ajaz THEORY-tmpww16o THEORY-tmp5hgen THEORY-tmpypzp0 ARG-tmpl8zwp CLAIM-tmpfyxes — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: TERM-108 — Proposed; the proxy objective, used with its standing -->
 <!-- inactive-ok-file: NOTE-tmp8ceuj — Skimmed; the excerpt of Tools for Conviviality -->
 
@@ -60,17 +60,17 @@ A9 §XII, "The industrialization of meaning", introduced as "a possibility worth
 
 ## Two mechanisms
 
-1. **A proxy objective.** A measure of meaningful engagement, optimized, is "an operational measure optimized in place of the outcome it stands for" (TERM-108), and its optimum can differ from engagement's. TERM-108 is defined for an allocation model in which the measured do not react; here they do, which is the second mechanism.
-2. **The measured react.** Wolf's "paradox of meaningfulness, similar to but deeper than the paradox of hedonism" (THEORY-tmp4ajaz, NOTE-tmpzth5f result 7): a person who pursues meaning for its own sake, rather than the projects of worth that give it, undermines it. An institution that asks its members to raise their measured meaning asks them to do just that.
+1. **A proxy objective.** A measure of meaningful engagement, optimized, is "an operational measure optimized in place of the outcome it stands for" ([TERM-108](../terms.d/TERM-108.md)), and its optimum can differ from engagement's. [TERM-108](../terms.d/TERM-108.md) is defined for an allocation model in which the measured do not react; here they do, which is the second mechanism.
+2. **The measured react.** Wolf's "paradox of meaningfulness, similar to but deeper than the paradox of hedonism" ([THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md), [NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md) result 7): a person who pursues meaning for its own sake, rather than the projects of worth that give it, undermines it. An institution that asks its members to raise their measured meaning asks them to do just that.
 
-The claim adds to Wolf what she does not say, that institutions which measure meaning recruit people into the paradox; ARG-tmpl8zwp argues how far her lectures carry it.
+The claim adds to Wolf what she does not say, that institutions which measure meaning recruit people into the paradox; [ARG-tmpl8zwp](../arguments.d/ARG-tmpl8zwp.md) argues how far her lectures carry it.
 
 ## Neighbours
 
-- Illich's excerpt (THEORY-tmpww16o, NOTE-tmp8ceuj): "Present institutional purposes, which hallow industrial productivity at the expense of convivial effectiveness, are a major factor in the amorphousness and meaninglessness that plague contemporary society." That is meaning lost to productivity, not meaning made a product. A point of contact, no relation.
-- Han's achievement subject (THEORY-tmp5hgen), who exploits himself in a freedom that coincides with constraint, and Ellul's technique that turns every value into efficiency (THEORY-tmpypzp0), which A names as the pathologies the industrialization would reproduce. Not read for this claim; no relation.
+- Illich's excerpt ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md), [NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md)): "Present institutional purposes, which hallow industrial productivity at the expense of convivial effectiveness, are a major factor in the amorphousness and meaninglessness that plague contemporary society." That is meaning lost to productivity, not meaning made a product. A point of contact, no relation.
+- Han's achievement subject ([THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md)), who exploits himself in a freedom that coincides with constraint, and Ellul's technique that turns every value into efficiency ([THEORY-tmpypzp0](../theory.d/THEORY-tmpypzp0.md)), which A names as the pathologies the industrialization would reproduce. Not read for this claim; no relation.
 
 ## What it does not say
 
-- Not that meaning cannot be supported. Protecting time, access and education is the cultivation CLAIM-tmpfyxes allows.
+- Not that meaning cannot be supported. Protecting time, access and education is the cultivation [CLAIM-tmpfyxes](CLAIM-tmpfyxes.md) allows.
 - Not that every measurement harms. The claim concerns measures made outputs to be maximized.

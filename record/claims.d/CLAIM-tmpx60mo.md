@@ -32,12 +32,12 @@ summary: >-
   establish that it is undesirable." It separates the question of this
   line, the worth of what a life is given to, from the authenticity
   line's question of whose a desire is, and it presses Marcuse's
-  criterion of false needs (THEORY-tmpoxssh), which runs on origin and
+  criterion of false needs ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md)), which runs on origin and
   function together. Interpretive. The wording is A's; adopting it is
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpfyxes — Proposed; cited with its standing -->
-<!-- inactive-ok-file: THEORY-tmp4ajaz THEORY-tmpoxssh THEORY-tmpclnon CLAIM-tmp58u4k ARG-tmpqo6eu ARG-tmp2tzv3 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-tmp4ajaz THEORY-tmpoxssh THEORY-tmpclnon ARG-tmpqo6eu — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; the authenticity line's question of avowal, cited for the boundary -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 
@@ -54,13 +54,13 @@ A's reason: "virtually every human preference is socially influenced", so "The f
 
 ## Against Marcuse's criterion
 
-Marcuse (THEORY-tmpoxssh, NOTE-tmpf1tpw) defines false needs by origin and function at once: "'False' are those which are superimposed upon the individual by particular social interests in his repression: the needs which perpetuate toil, aggressiveness, misery, and injustice." He adds that however much such needs become the individual's own, "they continue to be what they were from the beginning", products of a society, and that who decides is "the individuals themselves, but only in the last analysis; that is, if and when they are free to give their own answer". The claim keeps the second half of his definition, a need's effects, as a question of worth, and denies that the first half, origin in social interests, settles anything alone. Han's internalized demands (THEORY-tmpclnon) are open to the same separation. ARG-tmpqo6eu, on Marcuse against the compulsion claim's measure, notes that his criterion of true and false needs is contested; this claim says where.
+Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) defines false needs by origin and function at once: "'False' are those which are superimposed upon the individual by particular social interests in his repression: the needs which perpetuate toil, aggressiveness, misery, and injustice." He adds that however much such needs become the individual's own, "they continue to be what they were from the beginning", products of a society, and that who decides is "the individuals themselves, but only in the last analysis; that is, if and when they are free to give their own answer". The claim keeps the second half of his definition, a need's effects, as a question of worth, and denies that the first half, origin in social interests, settles anything alone. Han's internalized demands ([THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md)) are open to the same separation. [ARG-tmpqo6eu](../arguments.d/ARG-tmpqo6eu.md), on Marcuse against the compulsion claim's measure, notes that his criterion of true and false needs is contested; this claim says where.
 
 ## Where it sits
 
-At the boundary ADR-099 draws. Whose a desire is, and whether it is integrated into a will the agent avows, is the authenticity line's question (QUESTION-057). Whether what the desire aims at is worth a life's engagement is this line's, after Wolf (THEORY-tmp4ajaz). The claim says the second can be asked without first settling the first.
+At the boundary [ADR-099](../decisions.d/ADR-099.md) draws. Whose a desire is, and whether it is integrated into a will the agent avows, is the authenticity line's question ([QUESTION-057](../questions.d/QUESTION-057.md)). Whether what the desire aims at is worth a life's engagement is this line's, after Wolf ([THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md)). The claim says the second can be asked without first settling the first.
 
 ## What it does not say
 
 - Not that origin never matters. Manipulation can wrong a person whatever its object; the claim is about what a critique of the wants themselves needs.
-- Not which objects are worthwhile; CLAIM-tmpfyxes holds that no institution may settle it by imposition.
+- Not which objects are worthwhile; [CLAIM-tmpfyxes](CLAIM-tmpfyxes.md) holds that no institution may settle it by imposition.
