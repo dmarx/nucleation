@@ -128,3 +128,15 @@ have no independent test of it. A notes the premise this rests on,
 of legitimate governance". A42 sharpens the question one step earlier, how
 the demands to be weighed are identified at all, filed as [QUESTION-456](QUESTION-456.md),
 which refines this one. The question stays Open.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A17 §VII and A20 §XVI of the exchange "Analyze technological
+civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) found in this question "the same philosophical
+gap" in A's synthesis and the record: "a theory of how an organization
+works is not yet a theory of why its purposes are justified." A proposed
+Susan Wolf's objective value, Sen's capabilities and republican
+non-domination as resources, and conceded that "the resulting normative
+position still requires philosophical defense". Wolf's Meaning in Life
+and Why It Matters and Sen's books are registered unread from the
+exchange. The question is unchanged.

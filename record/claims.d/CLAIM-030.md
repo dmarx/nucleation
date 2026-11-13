@@ -103,3 +103,15 @@ depends on it.
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-140](../theory.d/THEORY-140.md) and [THEORY-144](../theory.d/THEORY-144.md) from `grounds` to `corroborated_by`. Both are cited for an organization's course moving through mechanisms no member intended, not for their general causal theses. [CASE-138](../cases.d/CASE-138.md) (Active, documented) now grounds the claim with the Columbia board's finding. [THEORY-139](../theory.d/THEORY-139.md) is removed, because [THEORY-725](../theory.d/THEORY-725.md) and [THEORY-127](../theory.d/THEORY-127.md), both Active and already grounds, carry what it was cited for. [THEORY-127](../theory.d/THEORY-127.md) is Active, and earlier notes here that call it Proposed predate that.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §I of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this claim as the mechanism behind Ellul's autonomy of
+technique (registered unread from the exchange), and reported correctly
+that it is Active and does not settle whether the whole is an agent. A's
+proposed "emergent purpose divergence", a trajectory "persistently
+misaligned with the purposes its constituents would endorse under an
+appropriate procedure of informed evaluation", is this claim with an
+evaluative standard left as a parameter ("an appropriate procedure"). Not
+filed. No change.

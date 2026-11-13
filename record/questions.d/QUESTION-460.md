@@ -63,6 +63,7 @@ summary: >-
   corresponding obligation". The owner's discriminating test is
   CASE-256.
 ---
+<!-- inactive-ok-file: TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-1819 THEORY-1814 THEORY-1818 THEORY-1822 THEORY-1821 — Proposed, filed 2026-11-12; the readings this note places -->
@@ -360,3 +361,28 @@ not be persons.
 
 The prior part, whether a whole that is not an agent can owe its parts
 anything beyond the functional, is untouched. The question stays Open.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A22 and A23 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), at the owner's U13, read this question and CASE-256 as the way to
+rescue cross-scale concordance. A23 §2 restates the question's two
+inquiries, ground and bearer, and §3 its discriminating test, both
+accurately, and credits them to "Nucleation". They are the owner's: the
+question is U5 of the exchange "About Plantation Paradise", and the
+ground/bearer split and the test are the owner's review of #488.
+
+What A23 adds is held or is a label. Its "two-axis formulation", which it
+calls "my extension of CASE-256" (ground by membership or not, bearer the
+whole or responsible agents), is CASE-256's own "What it is for": "The
+first two results answer the ground; the third answers the bearer." Its
+four questions (what grounds a claim, who holds it, who bears it, what
+must be done) add the holder, which is TERM-083's moral standing, and the
+content. Its conclusion, "Organizational boundaries determine many
+practical relationships. They do not automatically determine the
+boundaries of moral consideration", is the second result's. A23 keeps the
+default sense right: under TERM-074, "an organization can simply be a
+relational arrangement among processes, components, roles, or
+constraints". The relation the question asks about is named by
+TERM-tmpt8p9e, a rival definition of cross-scale concordance. The
+question is unchanged.

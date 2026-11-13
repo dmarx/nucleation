@@ -43,6 +43,7 @@ summary: >-
   evidence sets γ = 0 but also stops authority from tracking who predicts
   well. Linear, at the symmetric state, for squared-error scoring.
 ---
+<!-- inactive-ok-file: SYNTHESIS-050 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-340: Scoring operators on predictions committed before the evidence is not by itself Regime B: in the linearized operator model the coupling of interpretation to conferral has the sign of κ′ − κ̄, so commitment removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, and it keeps the learning that revising after the evidence would lose
@@ -105,3 +106,14 @@ claim's result, a second appearance: a commitment secures the order in
 time, which keeps learning, and removes capture only when κ′ ≤ κ̄, which
 no protocol guarantees. [CLAIM-346](CLAIM-346.md) holds the three obstructions A36
 set this in.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §II of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) reported this claim accurately, as shown "within a particular
+linearized model", and drew from it and SYNTHESIS-050: "No institution
+should be presumed legitimate merely because its authorities are
+successful according to standards those same authorities substantially
+control." That is the self-scoring lock-in of CLAIM-466 and the
+independence of evidence of CLAIM-342, stated as a presumption. Not
+filed. No change.

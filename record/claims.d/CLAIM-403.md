@@ -71,6 +71,7 @@ summary: >-
 complements:
 - CLAIM-448
 ---
+<!-- inactive-ok-file: SYNTHESIS-058 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1820 THEORY-1816 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, a reading that corroborates this claim, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->
@@ -302,3 +303,15 @@ admitted from 1775, during a financial crisis, first to the corridor and
 later to boxes, a "fuller form of spectatorship" that remained
 spectatorship. Filed as `corroborates` from both readings. No status
 change.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §X of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) drew on SYNTHESIS-058 to say that an institution can keep a
+citizen's objection word for word and reclassify it, "An objection can
+become feedback. A demand can become a preference", so that its force is
+lost. That is this claim's recognition in apt terms, failing while
+admission succeeds. A's condition for an accountable consultation, that it
+preserve "the relevant distinctions between information, preference,
+objection, justification, and claims of right", is recorded here and not
+filed. No change.

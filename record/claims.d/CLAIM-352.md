@@ -73,6 +73,7 @@ summary: >-
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
 # CLAIM-352: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy
@@ -176,3 +177,17 @@ reachability: it never says which abilities count, so it has no map from
 quantities apart.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A17 §II of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) called this claim "perhaps the most striking discovery in the
+repository" and reported it, correctly, as Active and as saying that "a
+set of dynamically reachable states is not automatically a set of
+valuable human capabilities". It added a third question beside the
+organizational and capability ones, a meaning question after Susan Wolf
+(registered unread from the exchange), which is beyond this claim. A17 §V
+and A23 §6 also took the capability set over time, which is
+CLAIM-tmp6wuql: under support that substitutes, the reachable set itself
+moves, so the opportunity aspect has to be read along a trajectory. That
+claim rests on this one. No change.

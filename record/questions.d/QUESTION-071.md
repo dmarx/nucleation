@@ -275,3 +275,15 @@ checked by the filer: Brown's explainability requirement is a partial,
 practical answer for one channel: record why each recommendation was made
 (which similarity relation), so that a self-attribution's origin can be
 checked.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A17 §I and A20 §VIII of the exchange "Analyze technological civilization
+trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) connected this question to Marcuse's false needs and Han's
+self-exploitation (both registered unread from the exchange), and A20
+named its two parts "synchronic autonomy" and "diachronic autonomy". The
+distinction is this question's own, present structure against history.
+A20's principle, "A society cannot establish the autonomy of its citizens
+merely by observing that they sincerely endorse the values it has
+cultivated", restates part 1 for a society. Not filed. The question is
+unchanged.

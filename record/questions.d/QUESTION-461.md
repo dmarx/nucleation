@@ -26,6 +26,8 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
+<!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1820 THEORY-1816 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-603 CLAIM-614 CLAIM-619 CLAIM-624 — Proposed; the record's nearest claims, cited with their standing -->
@@ -155,3 +157,24 @@ pedestal". Her answer is not the contributors' bargaining power but a
 public principle, doulia, support owed by the wider society. That is A's
 fourth candidate answer, change through institutions outside the
 relation. Filed as `bears_on`. The question is unchanged.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A23 §4 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this question with CASE-257 and called it "the most important
+missing link between cross-scale concordance and our theory of
+technological domination". Its description is accurate, including that
+CASE-257 is careful about which details are secondhand.
+
+Two of its additions are recorded here and not filed. Four concepts,
+contribution, dependence, effective authority and moral standing, "can
+vary independently"; the record holds the separations that matter
+(CLAIM-403's admission against authority, TERM-083's standing, CLAIM-428's
+organization of a dependence), and the four-way statement adds examples,
+not a result. "Constitutive exploitation", an arrangement in which "the
+activities through which participants sustain an organization are
+organized under unjust terms", is a name for the question's second branch
+with the standard of injustice left open, which A23 concedes ("The
+concept would require an independent account of what makes those terms
+unjust"). A13 §II's threshold, filed as CLAIM-tmpkjv7u, bears on the
+second branch from the dependent's side. The question is unchanged.

@@ -111,3 +111,15 @@ supply it ([CLAIM-075](CLAIM-075.md)).
 ## Note of 2026-11-07: kept to, and bounded, from the second share of "Individuation, Possibility, and Disposition"
 
 A60 §8 and A62 §12 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cite this claim correctly and keep to it. A's second-order duty of answerability ([CLAIM-624](CLAIM-624.md)) is conditional, "not an unconditional command to maximize transparency or investigate every conceivable harm" (A60 §6), bounded by its condition 5, so it does not reintroduce this proposition. [ARG-058](../arguments.d/ARG-058.md) is the reductio from the unconditional form to this claim. Unchanged.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A23 §10 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) read this entry as "The limits of obligatory corrigibility" and
+took from it that "organizational dynamics alone do not establish that
+every self-maintaining system ought to preserve every corrective
+capacity". That is the disclaimer, rightly read. A did not cite
+CLAIM-520, the demonstrated reason the value of corrigibility is
+conditional. A withdrew its own earlier duty of correction to "an
+important possible means of legitimacy, not an independently sufficient
+definition of goodness". No change.

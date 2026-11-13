@@ -71,6 +71,7 @@ summary: >-
   outside. These are [CLAIM-407](CLAIM-407.md)'s lesson about governance and [CLAIM-194](CLAIM-194.md)'s
   about boundaries, applied to interpretation.
 ---
+<!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: CASE-210 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 
 # CLAIM-414: Matched ordinary trajectories can conceal differences in an interpretation's efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not
@@ -251,3 +252,15 @@ with probability 0.91 and come apart when the service is withdrawn
 ([CASE-242](../cases.d/CASE-242.md)). The match is set by the chosen rates (an availability
 of 0.7 against a channel survival of 1 − 0.3), so it illustrates and
 adds no evidence. The claim is demonstrated already. No status changes.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §XI of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) made this claim a method for political theory: two organizations
+with the same good working conditions, one where employees can
+effectively challenge decisions and one where management "voluntarily
+maintains good conditions but can revoke them", told apart only by how
+each responds to a challenge. That is an instance of this claim and of
+SYNTHESIS-023's point that non-domination can be read only under
+intervention or dissent. A23 §8's "collective feasibility" against
+"constituent accessibility" is the same distinction. Not filed. No change.

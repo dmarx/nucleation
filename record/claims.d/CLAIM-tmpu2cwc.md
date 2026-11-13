@@ -72,7 +72,7 @@ It is what survives the audit of the exchange's "reflexive conviviality"
 processes by which it can re-examine and transform its purposes. As a
 thesis about what freedom is, that asks the record to hold corrigibility
 as a condition of legitimacy, which CLAIM-511 disclaims and CLAIM-520
-makes conditional, and A23 §10 withdrew it to "a possible means of
+makes conditional, and A23 §10 withdrew it to "an important possible means of
 legitimacy, not an independently sufficient definition of goodness". The
 narrower sentence that passes is this prediction, which the components
 (CLAIM-523's three achievements, CLAIM-624's duty, CLAIM-667's result for a
