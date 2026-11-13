@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1487 document(s) awaiting a decision.**
+**1488 document(s) awaiting a decision.**
 
 ## LITs
 
-90 of the 1487.
+90 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-888 of the 1487.
+888 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1001,7 +1001,7 @@
 
 ## ADRs
 
-22 of the 1487.
+23 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1025,12 +1025,13 @@
 | 2026-11-11 | Proposed | [ADR-088](../../record/decisions.d/ADR-088.md) | 0 | 31 | 27 | The withdrawal inquiry takes transient-support as its first line: its two root questions and the entries that argue them lead with transient-support, and carry realizability only where they bear on a realizability-first entry, which completes the split of readiness |
 | 2026-11-11 | Proposed | [ADR-090](../../record/decisions.d/ADR-090.md) | 0 | 11 | 6 | A reading takes the lines of the entries that use it, derived when the record is built and never stored, and a view lists each line's readings and the readings no line uses |
 | 2026-11-12 | Proposed | [ADR-095](../../record/decisions.d/ADR-095.md) | 0 | 102 | 0 | A case or a term that uses a reading other than as its source carries `draws_on` to it, and the reading's `drawn_on_by` is derived; how a case uses it is its kind's to say, and a term draws on the readings its sense is fixed by |
-| 2026-11-12 | Proposed | [ADR-097](../../record/decisions.d/ADR-097.md) | 0 | 8 | 0 | software-engineering joins the topics |
+| 2026-11-12 | Proposed | [ADR-097](../../record/decisions.d/ADR-097.md) | 0 | 9 | 0 | software-engineering joins the topics |
 | 2026-11-12 | Proposed | [ADR-096](../../record/decisions.d/ADR-096.md) | 0 | 5 | 0 | A demonstrated claim whose argument rests on an explicit construction carries it as a construction case: `grounds` when the construction is what demonstrates the claim, `illustrates` when it is a worked instance of a general proof |
+| 2026-11-13 | Proposed | [ADR-098](../../record/decisions.d/ADR-098.md) | 0 | 18 | 18 | philosophy-of-technology joins the topics |
 
 ## QUESTIONs
 
-6 of the 1487.
+6 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1043,7 +1044,7 @@
 
 ## CLAIMs
 
-252 of the 1487.
+252 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1302,7 +1303,7 @@
 
 ## CASEs
 
-68 of the 1487.
+68 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1377,7 +1378,7 @@
 
 ## TERMs
 
-24 of the 1487.
+24 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1408,7 +1409,7 @@
 
 ## ARGs
 
-58 of the 1487.
+58 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1473,7 +1474,7 @@
 
 ## SYNTHESISs
 
-79 of the 1487.
+79 of the 1488.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

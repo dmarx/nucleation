@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**917 documents cited without acknowledgement.** Not listed: 26840 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**918 documents cited without acknowledgement.** Not listed: 26848 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3207,6 +3207,31 @@ No action is selfless in the sense of aiming at a good that is no self's: what i
 - [`record/literature.d/LIT-1782.md:55`](../../record/literature.d/LIT-1782.md)
 - [`record/theory.d/THEORY-1114.md:31`](../../record/theory.d/THEORY-1114.md)
 - [`record/theory.d/THEORY-655.md:26`](../../record/theory.d/THEORY-655.md)
+
+### [ADR-098](../../record/decisions.d/ADR-098.md) — Proposed
+
+philosophy-of-technology joins the topics
+
+18 citations in 18 files await a look.
+
+- [`record/literature.d/LIT-033.md:33`](../../record/literature.d/LIT-033.md)
+- [`record/literature.d/LIT-1002.md:35`](../../record/literature.d/LIT-1002.md)
+- [`record/literature.d/LIT-1297.md:42`](../../record/literature.d/LIT-1297.md)
+- [`record/literature.d/LIT-1314.md:23`](../../record/literature.d/LIT-1314.md)
+- [`record/literature.d/LIT-1328.md:23`](../../record/literature.d/LIT-1328.md)
+- [`record/literature.d/LIT-1465.md:33`](../../record/literature.d/LIT-1465.md)
+- [`record/literature.d/LIT-1618.md:42`](../../record/literature.d/LIT-1618.md)
+- [`record/literature.d/LIT-197.md:24`](../../record/literature.d/LIT-197.md)
+- [`record/literature.d/LIT-2222.md:34`](../../record/literature.d/LIT-2222.md)
+- [`record/literature.d/LIT-2224.md:38`](../../record/literature.d/LIT-2224.md)
+- [`record/literature.d/LIT-2225.md:78`](../../record/literature.d/LIT-2225.md)
+- [`record/literature.d/LIT-2373.md:31`](../../record/literature.d/LIT-2373.md)
+- [`record/literature.d/LIT-2425.md:25`](../../record/literature.d/LIT-2425.md)
+- [`record/literature.d/LIT-731.md:29`](../../record/literature.d/LIT-731.md)
+- [`record/literature.d/LIT-753.md:37`](../../record/literature.d/LIT-753.md)
+- [`record/literature.d/LIT-848.md:36`](../../record/literature.d/LIT-848.md)
+- [`record/literature.d/LIT-896.md:27`](../../record/literature.d/LIT-896.md)
+- [`record/literature.d/LIT-897.md:42`](../../record/literature.d/LIT-897.md)
 
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
@@ -7419,7 +7444,7 @@ Slaving principle revisited
 
 The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
 
-4 citations in 2 files await a look; 1 other citation of it is acknowledged.
+4 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
 - [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
@@ -9750,7 +9775,7 @@ Foreign Aid, Institutions, and Governance in Sub-Saharan Africa
 
 Ironies of automation
 
-2 citations in 2 files await a look; 13 other citations of it are acknowledged.
+2 citations in 2 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-600.md:551`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:433`](../../record/syntheses.d/SYNTHESIS-010.md)
