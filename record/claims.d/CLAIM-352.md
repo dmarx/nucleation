@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmph678z
 title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -34,6 +34,14 @@ history:
     parallel. Its premises CLAIM-079 and CLAIM-027 are Active, no
     objection is on file, and nothing held meets the defeat condition.
     The claim is unchanged.
+- version: 5
+  date: '2026-11-13'
+  note: >-
+    flourishing-and-meaning added after will-organization, by
+    ADR-099, the line's first application: that viable reachability
+    stands for Sen's opportunity aspect only through a map to valued
+    functionings is a claim about what capability needs, the line's
+    subject. will-organization stays first. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +61,7 @@ tags:
 date: '2026-10-18'
 line:
 - will-organization
+- flourishing-and-meaning
 rests_on:
 - CLAIM-079
 - CLAIM-027

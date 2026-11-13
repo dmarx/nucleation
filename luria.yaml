@@ -216,6 +216,9 @@ vocabularies:
       philosophy-of-science:
         label: Philosophy of science
         blurb: 'what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy)'
+      philosophy-of-technology:
+        label: Philosophy of technology
+        blurb: 'what technology is and what it does to those who live with it — the autonomy of technique, technological determinism and the social shaping of technology, lock-in and practical compulsion, automation and deskilling, technical codes and the politics of artifacts, design that steers or captures its users, critical theory of technology and convivial tools. A technology''s regulation stays with society-and-governance, a measured effect of one product with social-science and a verdict on what is owed with ethics, unless the work argues about technology as such; how software is built is software-engineering (group: philosophy; ADR-098)'
       epistemology:
         label: Epistemology
         blurb: 'knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy)'
@@ -622,6 +625,16 @@ vocabularies:
           physical bounds — compatibility against reachability, budgeted composition of processes, finding
           against navigating, restricted and enriched Yoneda profiles, isomorphism against persistence, with
           origami as the laboratory (ADR-073)
+      flourishing-and-meaning:
+        label: Flourishing and meaning in life
+        blurb: what makes a life go well for the one living it and what makes it meaningful — meaning in life
+          as subjective attraction to what is objectively worthwhile (Wolf), capability and agency freedom
+          against functionings achieved and well-being freedom (Sen), basic needs against what only raises
+          reported well-being, self-realization and its distortions when a life is organized around a proxy
+          for its good, and how arrangements and technologies widen or narrow the lives open to people. Whose
+          a will is stays with authenticity, what organizes efficacy with will-organization, judging an
+          organization with organizational-normativity, and a whole's success against its members' good with
+          distributed-agency (ADR-099)
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
@@ -820,9 +833,9 @@ schemes:
         groups:
           philosophy:
             label: Philosophy
-            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion and affect, self, personhood, phenomenal unity, narrative unity, self-governance, philosophy of biology, embodied cognition, free will, phenomenology, social ontology, moral psychology, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion and affect, self, personhood, phenomenal unity, narrative unity, self-governance, philosophy of biology, embodied cognition, free will, phenomenology, social ontology, moral psychology, philosophy of science, philosophy of technology, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
             require: any
-            tags: [metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion-and-affect, self, personhood, phenomenal-unity, narrative-unity, self-governance, philosophy-of-biology, embodied-cognition, free-will, phenomenology, social-ontology, moral-psychology, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
+            tags: [metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion-and-affect, self, personhood, phenomenal-unity, narrative-unity, self-governance, philosophy-of-biology, embodied-cognition, free-will, phenomenology, social-ontology, moral-psychology, philosophy-of-science, philosophy-of-technology, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
           flags:
             label: Curation flags
             blurb: tags that mark a work for a curation decision rather than say what it is about. Carried after the topics, never first (ADR-005).

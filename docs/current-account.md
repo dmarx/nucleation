@@ -2664,3 +2664,8 @@ The account of the realizability line, over the accounts of its four parts: reac
 | [CASE-225](../record/cases.d/CASE-225.md) | CASE | Proposed | A forced Stuart–Landau oscillator: a self-sustained and a damped one give the same drive-locked output; an inhibitory control above μ holds the self-sustained one at rest while it still answers the drive with amplitude about F/√((u − μ)² + (Ω − ω)²); withdrawing the drive alone lets the output die, withdrawing drive and control restores the limit cycle of radius √μ, so dependence for timing, dependence for performance and suppression of a latent capacity are three things |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the persisting-individuals part of the realizability line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
+
+
+## Lines with no account yet
+
+- Flourishing and meaning in life

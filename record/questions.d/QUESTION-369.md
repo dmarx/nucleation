@@ -4,13 +4,24 @@ status: Open
 formerly:
 - QUESTION-tmpee04a
 title: 'What would show that an experience is a basic psychological need, something an organism''s functioning requires, rather than something that reliably raises reported well-being, when self-determination theory identifies needs by their effects on well-being and treats well-being as the presence of need satisfaction?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    flourishing-and-meaning added after distributed-agency, by
+    ADR-099, the line's first application: whether an experience is
+    a need a life requires or only raises reported well-being is a
+    question of what makes a life go well. distributed-agency stays
+    first. No other change.
 tags:
 - motivation
 - well-being
 - psychometrics
 date: '2026-11-02'
-line: distributed-agency
+line:
+- distributed-agency
+- flourishing-and-meaning
 summary: >-
   A3's closing question in the exchange "Assess SDT Coverage"
   (2026-11-02), at the owner's U3 ("how about the basic psychological
