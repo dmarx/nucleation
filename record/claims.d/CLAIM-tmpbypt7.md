@@ -146,8 +146,8 @@ Readings registered from the exchange and read, or read through stand-ins, on 20
 
 ## Note of 2026-11-13: Marcuse and Illich, read
 
-- **Marcuse, One-Dimensional Man, read in full** (THEORY-tmpoxssh,
-  NOTE-tmpf1tpw). Mixed support, argued in ARG-tmpqo6eu. The book
+- **Marcuse, One-Dimensional Man, read in full** ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md),
+  [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)). Mixed support, argued in [ARG-tmpqo6eu](../arguments.d/ARG-tmpqo6eu.md). The book
   corroborates the mechanism: once a project is operative "it tends to
   become exclusive"; "The initial choice defines the range of
   possibilities open on this way, and precludes alternative possibilities
@@ -165,8 +165,8 @@ Readings registered from the exchange and read, or read through stand-ins, on 20
   necessary condition rather than the whole of freedom. Status
   unchanged. Marcuse's mechanism is needs and satisfaction, not
   infrastructure.
-- **Illich, Tools for Conviviality, a two-page excerpt** (THEORY-tmpww16o,
-  NOTE-tmp8ceuj). Corroborates, in Illich's own words, the measure and the
+- **Illich, Tools for Conviviality, a two-page excerpt** ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md),
+  [NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md)). Corroborates, in Illich's own words, the measure and the
   road mechanism. Ordinary monopolies "restrict the choices open to the
   consumer"; radical monopoly is "the dominance of one type of product
   rather than the dominance of one brand", where "one industrial
@@ -181,4 +181,4 @@ Readings registered from the exchange and read, or read through stand-ins, on 20
   technology serves, so that people "spend more time for the sake of
   travel". The excerpt does not reach the burial case or "unimaginable";
   the qualification of the title in the note above still rests on Cayley
-  (THEORY-tmpxwo9k).
+  ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)).

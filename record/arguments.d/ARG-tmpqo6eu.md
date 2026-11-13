@@ -14,8 +14,8 @@ date: '2026-11-13'
 line:
 - distributed-agency
 summary: >-
-  Marcuse's book, read in full on 2026-11-13 (THEORY-tmpoxssh, NOTE-tmpf1tpw),
-  against CLAIM-tmpbypt7. Mixed support: the book corroborates the
+  Marcuse's book, read in full on 2026-11-13 ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)),
+  against [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md). Mixed support: the book corroborates the
   claim's mechanism and argues against its measure, with an argument of
   the form the claim's second defeater names. It does not meet that
   defeater as stated, so the claim stands, Proposed, with the measure
@@ -35,7 +35,7 @@ summary: >-
    and precludes alternative possibilities incompatible with it" (ch. 8).
    The growing output of goods makes "compliance a rational technological
    attitude" (ch. 2); the apparatus "blocks all escape" (ch. 3); the ways
-   out become "unimaginable" (ch. 1). These are CLAIM-tmpbypt7's three
+   out become "unimaginable" (ch. 1). These are [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s three
    mechanisms in Marcuse's terms: alternatives precluded as the
    arrangement settles, compliance made rational, and cultural
    normalization. So far the book corroborates.
@@ -59,7 +59,7 @@ summary: >-
   part. Marcuse's mechanism is needs and satisfaction, not
   infrastructure; his automobile appears as a need ("Between the
   automobile as nuisance and as convenience?", ch. 1), not as a road
-  system. Illich's excerpt carries the road mechanism (THEORY-tmpww16o).
+  system. Illich's excerpt carries the road mechanism ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md)).
   The measure: Marcuse argues against range of choice as such, for
   adopters and non-adopters alike, not specifically against comparing
   arrangements by a non-adopter's remaining options.
@@ -78,7 +78,7 @@ summary: >-
 
 ## Verdict
 
-Proposed. The book corroborates CLAIM-tmpbypt7's mechanism and argues
+Proposed. The book corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s mechanism and argues
 against its measure. The claim keeps its status; a note on it records the
 pressure. Whether the measure should be narrowed, to a necessary condition
 of freedom, is the owner's call.

@@ -390,7 +390,7 @@ question is unchanged.
 
 ## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
 
-Marcuse (THEORY-tmpoxssh, NOTE-tmpf1tpw) answers the bearer half for
+Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) answers the bearer half for
 hypostatized wholes such as the Nation and the Corporation: "Their
 independence, although real, is a spurious one inasmuch as it is that of
 particular powers which have organized the whole I of society" [stray

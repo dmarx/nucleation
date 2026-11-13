@@ -93,7 +93,7 @@ than any participant can bear.
 
 ## Note of 2026-11-13: Marcuse and Illich, read
 
-- **Marcuse, One-Dimensional Man** (THEORY-tmpoxssh, NOTE-tmpf1tpw).
+- **Marcuse, One-Dimensional Man** ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)).
   Complements the premise in part: it gives a reason irreversibility
   matters, since a project once operative "tends to become exclusive" and
   its initial choice "precludes alternative possibilities incompatible
@@ -102,7 +102,7 @@ than any participant can bear.
   of justification; his remedy is "planning for the whole against these
   interests" (ch. 10), which "presupposes the repression of much that is
   now free". A point of contact, no relation.
-- **Illich, a two-page excerpt** (THEORY-tmpww16o, NOTE-tmp8ceuj). Leaves it
+- **Illich, a two-page excerpt** ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md), [NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md)). Leaves it
   open: controls over tools should be "governed by political process
   rather than by decisions by experts", which bears on who carries the
   burden, not on how it scales. Nothing on irreversibility. No relation.

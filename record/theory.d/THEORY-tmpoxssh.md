@@ -25,15 +25,15 @@ promote_when: >-
   over the interests that organize the apparatus, and the
   administrators' own dependence on it.
 summary: >-
-  Marcuse (1964), read in full in NOTE-tmpf1tpw from the copy on the
+  Marcuse (1964), read in full in [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md) from the copy on the
   Marcuse family's site. Domination through satisfaction; control
   exercised through the choice of a society's project, veiled, by
-  controllers enclosed in what they control. It bounds CLAIM-tmpkjv7u,
-  for a different reason than the stand-in gave (ARG-tmpsh7he, version
-  2), and corroborates CLAIM-tmpbypt7's mechanism while arguing against
-  its measure (ARG-tmpqo6eu).
+  controllers enclosed in what they control. It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md),
+  for a different reason than the stand-in gave ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md), version
+  2), and corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s mechanism while arguing against
+  its measure ([ARG-tmpqo6eu](../arguments.d/ARG-tmpqo6eu.md)).
 ---
-<!-- inactive-ok-file: ARG-tmpqo6eu ARG-tmpsh7he CLAIM-tmpbypt7 CLAIM-tmpkjv7u THEORY-tmpnydju — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: ARG-tmpqo6eu ARG-tmpsh7he CLAIM-tmpbypt7 CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; the set-aside authenticity line, cited for the bearing this reading gives it -->
 
 # THEORY-tmpoxssh: Marcuse holds that advanced industrial society contains qualitative change by satisfying needs it has itself produced, false needs superimposed by particular social interests, so that domination takes the form of a comfortable administration in which technology rather than terror integrates people, the apparatus's apparent impersonality veils the interests that organize it, and its administrators are enclosed by it too
@@ -58,21 +58,21 @@ alternative possibilities incompatible with it" (ch. 8).
 
 ## Evidence
 
-The reading in NOTE-tmpf1tpw, results 1–19, from the whole book.
+The reading in [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md), results 1–19, from the whole book.
 
-- **It bounds CLAIM-tmpkjv7u.** The relation stays `bounds`, for a
+- **It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).** The relation stays `bounds`, for a
   different reason than the stand-in gave. The claim tests domination by
   controllers who hold consequential discretion over the dependent.
   Marcuse's controllers exist, but their discretion is exercised through
   the choice of a society's project, not over particular dependents, it
   is veiled, and they are themselves caught in what they control. That
   regime is outside the test as the claim states it; it is not
-  constraint that no one holds (ARG-tmpsh7he, version 2).
-- **It corroborates CLAIM-tmpbypt7's mechanism**, an operative project that
+  constraint that no one holds ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md), version 2).
+- **It corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s mechanism**, an operative project that
   "tends to become exclusive" and makes compliance rational, and argues
   against its measure: "what can be chosen and what is chosen" decides
-  how free a person is, not the range of choice (ARG-tmpqo6eu).
-- **It bears on QUESTION-071, QUESTION-057, QUESTION-460 and QUESTION-461**:
+  how free a person is, not the range of choice ([ARG-tmpqo6eu](../arguments.d/ARG-tmpqo6eu.md)).
+- **It bears on [QUESTION-071](../questions.d/QUESTION-071.md), [QUESTION-057](../questions.d/QUESTION-057.md), [QUESTION-460](../questions.d/QUESTION-460.md) and [QUESTION-461](../questions.d/QUESTION-461.md)**:
   the historical test of a need's origin, avowal under manipulation, the
   bearer behind a hypostatized whole, and labour's integration.
 

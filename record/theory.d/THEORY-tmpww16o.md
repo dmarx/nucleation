@@ -18,12 +18,12 @@ promote_when: >-
   radical monopoly, beyond the two-page excerpt, confirms these four
   points as stated.
 summary: >-
-  Illich (1973), a two-page excerpt Skimmed in NOTE-tmp8ceuj; the whole
+  Illich (1973), a two-page excerpt Skimmed in [NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md); the whole
   book is Unfetched. Tools to work with against tools that "work" for
   people; conviviality; radical monopoly in Illich's own definition.
-  Corroborates CLAIM-tmpbypt7's measure and road mechanism and
-  CLAIM-tmp6wuql's distinction; bounds CLAIM-tmpkjv7u. It does not
-  replace Cayley's reading (THEORY-tmpxwo9k), on which the burial case
+  Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s measure and road mechanism and
+  [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s distinction; bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md). It does not
+  replace Cayley's reading ([THEORY-tmpxwo9k](THEORY-tmpxwo9k.md)), on which the burial case
   still rests.
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpkjv7u THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -45,17 +45,17 @@ than Fords, constitutes radical monopoly."
 
 ## Evidence
 
-The excerpt read in NOTE-tmp8ceuj, results 1–11.
+The excerpt read in [NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md), results 1–11.
 
-- **Corroborates CLAIM-tmpbypt7**: radical monopoly harms the
+- **Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: radical monopoly harms the
   non-industrial alternative, not adopters' choice among brands, which is
   the claim's measure; the city shaped around cars is its infrastructural
   mechanism. "Cars create distance" is a further mechanism the claim
   does not list: adoption enlarges the need it serves.
-- **Corroborates CLAIM-tmp6wuql**, the distinction only: tools to work with
+- **Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**, the distinction only: tools to work with
   against tools that "work" for people, at the cost of persons reduced to
   "mere consumers". No dynamics.
-- **Bounds CLAIM-tmpkjv7u**: "Neither a dictatorial proletariat nor a
+- **Bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: "Neither a dictatorial proletariat nor a
   leisure mass can escape the dominion of constantly expanding
   industrial tools" places the constraint in the tools, whoever controls
   them, outside a test for domination by controllers.
@@ -64,6 +64,6 @@ The excerpt read in NOTE-tmp8ceuj, results 1–11.
 
 - That alternatives become "unimaginable", the second watershed, or the
   burial case: none is in the excerpt. They rest on Cayley's reading
-  (THEORY-tmpxwo9k).
+  ([THEORY-tmpxwo9k](THEORY-tmpxwo9k.md)).
 - How much political control of tools suffices, or who carries the burden
   of a change in them.

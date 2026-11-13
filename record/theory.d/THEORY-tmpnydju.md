@@ -39,7 +39,7 @@ A test for when such domination exists.
 ## Note of 2026-11-13: the book read, and three attributions corrected
 
 One-Dimensional Man was read in full on 2026-11-13, after the owner's
-ruling on the whole-book copy (NOTE-tmpf1tpw, THEORY-tmpoxssh). Checked
+ruling on the whole-book copy ([NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md), [THEORY-tmpoxssh](THEORY-tmpoxssh.md)). Checked
 against the book, this stand-in is confirmed on result 1, the book's first
 sentence verbatim, and on result 5, Kellner's false needs. Three
 attributions are corrected:
@@ -59,6 +59,6 @@ attributions are corrected:
   of needs by vested interests"), not of an authority figure, and it
   names those who choose the society's project.
 
-The bearing given above on CLAIM-tmpkjv7u, that on Marcuse's account
+The bearing given above on [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), that on Marcuse's account
 domination needs no authority figure, therefore rests on Farr's wording,
-not the book's. The book's bearing is restated in ARG-tmpsh7he, version 2.
+not the book's. The book's bearing is restated in [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md), version 2.

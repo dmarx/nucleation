@@ -143,8 +143,8 @@ the arrangement itself is not assumed to owe or to dominate anything, as
 
 ## Note of 2026-11-13: Marcuse and Illich, read
 
-- **Marcuse, One-Dimensional Man, read in full** (THEORY-tmpoxssh,
-  NOTE-tmpf1tpw; ARG-tmpsh7he, version 2). The book does not support
+- **Marcuse, One-Dimensional Man, read in full** ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md),
+  [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md); [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md), version 2). The book does not support
   reading Marcuse as describing constraint that no one holds, which is how
   version 2's history, its `defeated_if` ("Marcuse's administration") and
   its title's last clause place him. The "objective order of things" is
@@ -159,7 +159,7 @@ the arrangement itself is not assumed to owe or to dominate anything, as
   discretion over a project, out of sight, is not the discretion over the
   dependent that the second condition names, and leaves nothing visible
   for the third condition's means of challenge to reach. The relation
-  stays `bounds` for that reason (ARG-tmpsh7he gives the argument). On the
+  stays `bounds` for that reason ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md) gives the argument). On the
   third condition, the book both supports and qualifies: plural
   institutions make "possibilities of escape and redress" calculable (ch.
   2), but "Free election of masters does not abolish the masters or the
@@ -168,8 +168,8 @@ the arrangement itself is not assumed to owe or to dominate anything, as
   What "effective" means in the third condition is pressed, not settled.
   Status unchanged; whether the title's last clause should be restated at
   a later version is the owner's call.
-- **Illich, Tools for Conviviality, a two-page excerpt** (THEORY-tmpww16o,
-  NOTE-tmp8ceuj): "Neither a dictatorial proletariat nor a leisure mass can
+- **Illich, Tools for Conviviality, a two-page excerpt** ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md),
+  [NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md)): "Neither a dictatorial proletariat nor a leisure mass can
   escape the dominion of constantly expanding industrial tools." It places
   the constraint in the tools, whoever controls them, another limit of the
   narrowed test; it carries `bounds` to this claim.

@@ -32,7 +32,7 @@ date: '2026-11-13'
 line:
 - organizational-normativity
 summary: >-
-  The readings of 2026-11-13 against version 1 of CLAIM-tmpkjv7u, which said that
+  The readings of 2026-11-13 against version 1 of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), which said that
   a dependence lacking a discretion-holder "is not domination, however
   complete". Contested support: Han and Benjamin describe complete
   constraint with no one holding present discretion, which Benjamin
@@ -52,7 +52,7 @@ summary: >-
 
 ## The inference
 
-1. THEORY-tmpoxssh, Marcuse read in full: "Domination is transfigured into administration" (ch. 2); the choice of a society's project is "primarily (but only primarily!) the privilege of those groups which have attained control over the productive process" (ch. 8); "the technological veil conceals the reproduction of inequality and enslavement", and "the organizers and administrators themselves become increasingly dependent on the machinery which they organize and administer" (ch. 2). Version 1 read Marcuse through Farr ([THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)), and two of the sentences it quoted here are not the book's (see the revision below).
+1. [THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), Marcuse read in full: "Domination is transfigured into administration" (ch. 2); the choice of a society's project is "primarily (but only primarily!) the privilege of those groups which have attained control over the productive process" (ch. 8); "the technological veil conceals the reproduction of inequality and enslavement", and "the organizers and administrators themselves become increasingly dependent on the machinery which they organize and administer" (ch. 2). Version 1 read Marcuse through Farr ([THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)), and two of the sentences it quoted here are not the book's (see the revision below).
 2. [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md): neoliberal power "tries to make them dependent", and "There is no person opposite"; [THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md): freedom and constraint coincide in auto-exploitation, though Han calls this "the disappearance of domination".
 3. [THEORY-tmpo6ipc](../theory.d/THEORY-tmpo6ipc.md): "default discrimination", subordination by defaults and inherited data with no discretionary act now.
 4. So a complete dependence can lack anyone holding present discretion over the dependent and still be domination (Marcuse, Benjamin) or unfreedom (Han): for Han and Benjamin because no one's present discretion is exercised, for Marcuse because the controllers' discretion runs through the choice of a project for the whole, is veiled, and binds them too. Version 1's clause "is not domination, however complete" is false on those accounts.
@@ -66,9 +66,9 @@ summary: >-
 
 ## Revision of 2026-11-13: Marcuse read in full
 
-Version 1 grounded step 1 in Farr's reading (THEORY-tmpnydju) and listed
+Version 1 grounded step 1 in Farr's reading ([THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)) and listed
 Marcuse among accounts of constraint that no one holds. The book, read
-in full after the owner's ruling of 2026-11-13 (NOTE-tmpf1tpw), corrects
+in full after the owner's ruling of 2026-11-13 ([NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)), corrects
 that in three ways.
 
 - **Attribution.** "all domination assumes the form of administration" is
@@ -89,7 +89,7 @@ that in three ways.
   veiled ("the technological veil"); and the controllers are caught in it
   ("a vicious circle which encloses both the Master and the Servant").
 
-Marcuse still bounds CLAIM-tmpkjv7u, and the relation stays `bounds`. The
+Marcuse still bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), and the relation stays `bounds`. The
 claim's second condition is discretion over the dependent, and its third
 is the dependent's means of protection or challenge. Discretion exercised
 through a project, veiled, by controllers enclosed in it, meets neither

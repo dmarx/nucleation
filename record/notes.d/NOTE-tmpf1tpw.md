@@ -29,7 +29,7 @@ summary: >-
   the interests that organize it, and those who administer it are
   enclosed by it too.
 ---
-<!-- inactive-ok-file: ARG-tmpqo6eu ARG-tmpsh7he CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmpsmg1c THEORY-tmpa59p3 THEORY-tmpnydju THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: ARG-tmpqo6eu ARG-tmpsh7he CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmpsmg1c THEORY-tmpa59p3 THEORY-tmpnydju THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpi8t8i — filed from the readings of 2026-11-13, Skimmed; the stand-in this reading corrects -->
 <!-- inactive-ok-file: THEORY-025 — Proposed; the record's reading of Sen, cited with its standing -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; the set-aside authenticity line, cited for the bearing this reading gives it -->
@@ -94,7 +94,7 @@ Refusal.
 
 ## Bearing on the record
 
-- **The stand-in, corrected.** Farr's entry (NOTE-tmpi8t8i, THEORY-tmpnydju)
+- **The stand-in, corrected.** Farr's entry ([NOTE-tmpi8t8i](NOTE-tmpi8t8i.md), [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md))
   is confirmed on the first sentence (result 1) and, through Kellner, on
   false needs (results 2, 3). Three of its points are not the book's:
   "all domination assumes the form of administration" is from Eros and
@@ -106,7 +106,7 @@ Refusal.
   1's "non-terroristic economic-technical coordination which operates
   through the manipulation of needs by vested interests") are about the
   absence of terror, not of an authority figure.
-- **CLAIM-tmpkjv7u and ARG-tmpsh7he.** The book does not support reading
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md) and [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md).** The book does not support reading
   Marcuse as describing constraint that no one holds. The apparent
   impersonality is in part a veil over particular interests (results 7,
   12, 14, 15, 16), and those who control the apparatus are themselves
@@ -116,47 +116,47 @@ Refusal.
   the dependent cannot see whom to challenge. On the third condition,
   result 9 supports the value of plural means of redress, and results 5
   and 11 qualify it: a channel for complaint can itself integrate.
-- **CLAIM-tmpbypt7** (ARG-tmpqo6eu). The book corroborates the mechanism: a
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)** ([ARG-tmpqo6eu](../arguments.d/ARG-tmpqo6eu.md)). The book corroborates the mechanism: a
   project "tends to become exclusive" (result 6), the initial choice
   "precludes alternative possibilities" (16), compliance becomes rational
   (9), the apparatus "blocks all escape", and the ways out become
   "unimaginable" (10). It argues against the measure: "what can be chosen
   and what is chosen" (result 5), not the range of choice, decides how
   free a person is.
-- **CLAIM-tmp6wuql.** Results 13 and 17, and ch. 2's loss of the worker's
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md).** Results 13 and 17, and ch. 2's loss of the worker's
   "professional autonomy", point the same way as the claim's premise,
   without dynamics or a model. Weak; no relation.
-- **CLAIM-tmpsmg1c.** Results 6 and 16 give a reason irreversibility
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md).** Results 6 and 16 give a reason irreversibility
   matters, and ch. 3 speaks of "the degree of its irreversibility". But
   Marcuse's remedy is "planning for the whole against these interests"
   (ch. 10), not a burden of justification. No relation.
-- **QUESTION-071.** Result 3, and ch. 1: "No matter how much such needs
+- **[QUESTION-071](../questions.d/QUESTION-071.md).** Result 3, and ch. 1: "No matter how much such needs
   may have become the individual's own", they remain "products of a
   society whose dominant interest demands repression". Marcuse's test is
   historical, whose interest produced the need, which is the question's
   premise and its "what in its history would have to be recorded".
-- **QUESTION-057.** Result 4 and the same ch. 1 passage: avowal does not
+- **[QUESTION-057](../questions.d/QUESTION-057.md).** Result 4 and the same ch. 1 passage: avowal does not
   settle whether a need is the agent's own while the agent is not free
   to give her own answer.
-- **QUESTION-461.** Ch. 2's integration of labour (the union "almost
+- **[QUESTION-461](../questions.d/QUESTION-461.md).** Ch. 2's integration of labour (the union "almost
   indistinguishable in its own eyes from the corporation"; workers with a
   "vested interest in the establishment") and result 11 are worked cases
   of an organization keeping indispensable contributions from becoming
   claims on it.
-- **QUESTION-460.** Result 15 says the whole's independence is "spurious",
+- **[QUESTION-460](../questions.d/QUESTION-460.md).** Result 15 says the whole's independence is "spurious",
   that of the "particular powers" that organized it; ch. 8 quotes "One
   believes to die for the Fatherland, one dies for the Industrialists".
   Marcuse places the bearer in those who control or benefit, not in the
   whole.
-- **THEORY-025** (Sen's adaptive preferences): kin, with a difference the
+- **[THEORY-025](../theory.d/THEORY-025.md)** (Sen's adaptive preferences): kin, with a difference the
   book makes plain. False needs arise from affluence and satisfaction,
   not from deprivation.
-- **Illich** (THEORY-tmpww16o): both hold that industrial production
+- **Illich** ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md)): both hold that industrial production
   creates the needs it satisfies; they part on the remedy. Marcuse would
   plan necessities centrally (result 19) and refuses a return to
   "healthy and robust poverty" (18); Illich would give people tools to
   meet needs with their own energy.
-- **Feenberg** (THEORY-tmpa59p3): his critical theory of technology
+- **Feenberg** ([THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md)): his critical theory of technology
   descends from this book; result 13's "political a priori" is the
   ancestor of the technical code.
 

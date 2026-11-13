@@ -30,7 +30,7 @@ summary: >-
   exclusive control of a pressing need and excludes non-industrial
   activity, as motor traffic curtails the right to walk.
 ---
-<!-- inactive-ok-file: ARG-tmpsh7he CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmpsmg1c CLAIM-tmpu2cwc THEORY-tmpoxssh THEORY-tmpww16o THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmpsmg1c CLAIM-tmpu2cwc THEORY-tmpoxssh THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # NOTE-tmp8ceuj: Illich (1973) — Tools for Conviviality, a two-page excerpt
 
@@ -71,7 +71,7 @@ tools.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7.** Corroborates, in Illich's words, the measure and the
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).** Corroborates, in Illich's words, the measure and the
   infrastructural mechanism. Result 9 sets ordinary monopoly, which
   restricts consumers' choices, against radical monopoly, which excludes
   the non-industrial activity: the claim's distinction between what a
@@ -80,27 +80,27 @@ tools.
   and the city shaped around cars is infrastructural adaptation. Result
   11 adds a mechanism the claim does not list: adoption enlarges the need
   itself ("Cars create distance").
-- **CLAIM-tmp6wuql.** Corroborates the distinction the claim turns on, not
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md).** Corroborates the distinction the claim turns on, not
   its derivation: tools to work with against tools that "work" for
   people (result 2) is capacity-first against substitutive support, and
   results 3 and 4 say what substitution costs. The excerpt has nothing on
   capacity decaying with disuse.
-- **CLAIM-tmpkjv7u.** Bounds it, briefly: result 1 places the harm in the
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).** Bounds it, briefly: result 1 places the harm in the
   tools whoever controls them, a dictatorial proletariat or a leisure
   mass. Result 8 is a remedy of the third condition's kind, but by
   political control over tools, not protection against particular
   controllers.
-- **CLAIM-tmpsmg1c.** Leaves it open: result 8 says who should decide about
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md).** Leaves it open: result 8 says who should decide about
   tools, not how heavy the burden is. Nothing on irreversibility.
-- **CLAIM-tmpu2cwc.** Result 8, control of tools by political process
+- **[CLAIM-tmpu2cwc](../claims.d/CLAIM-tmpu2cwc.md).** Result 8, control of tools by political process
   rather than by experts, bears on who revises the standards; a point of
   contact, no relation.
-- **The stand-in, Cayley** (THEORY-tmpxwo9k): confirmed in Illich's words on
+- **The stand-in, Cayley** ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)): confirmed in Illich's words on
   conviviality (result 5) and on the car as the standard case (result
   10). Not reached here: "inaccessible or unimaginable", the "second
   watershed", "counterproductivity" as a term, and the burial case. The
-  qualification of CLAIM-tmpbypt7's title still rests on Cayley alone.
-- **Marcuse** (THEORY-tmpoxssh): both hold that industrial production
+  qualification of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s title still rests on Cayley alone.
+- **Marcuse** ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md)): both hold that industrial production
   creates the needs it serves (result 6); Illich would meet them with
   convivial tools, Marcuse by central planning of necessities.
 

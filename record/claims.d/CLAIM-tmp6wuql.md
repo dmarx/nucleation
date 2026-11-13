@@ -126,17 +126,17 @@ Readings of 2026-11-13 and a recheck.
 
 ## Note of 2026-11-13: Marcuse and Illich, read
 
-- **Illich, Tools for Conviviality, a two-page excerpt** (THEORY-tmpww16o,
-  NOTE-tmp8ceuj). Corroborates the distinction the claim turns on, not its
+- **Illich, Tools for Conviviality, a two-page excerpt** ([THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md),
+  [NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md)). Corroborates the distinction the claim turns on, not its
   derivation: "People need new tools to work with rather than tools that
   “work” for them" is capacity-first against substitutive support, and
   Illich says what substitution costs: "As the power of machines
   increases, the role of persons more and more decreases to that of mere
   consumers"; people need "the freedom to make things among which they
   can live". The excerpt says nothing of capacity decaying with disuse,
-  so it gives no dynamics; THEORY-tmpww16o carries `corroborates` for the
+  so it gives no dynamics; [THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md) carries `corroborates` for the
   distinction only.
-- **Marcuse, One-Dimensional Man** (THEORY-tmpoxssh, NOTE-tmpf1tpw). Leaves
+- **Marcuse, One-Dimensional Man** ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)). Leaves
   it open, with weak support for the motivation: needs that include
   "enjoying freedom from using the brain" (ch. 9), man "perhaps more
   powerless over his own apparatus than he ever was before" (ch. 9), and

@@ -41,11 +41,11 @@
   corroborated; corrections in the curation entry.
 - The readings of 2026-11-13 after the owner's ruling on the whole-book
   copies ("the copies are fine"): Marcuse's One-Dimensional Man read in
-  full (NOTE-tmpf1tpw, THEORY-tmpoxssh) and Illich's Tools for
+  full ([NOTE-tmpf1tpw](record/notes.d/NOTE-tmpf1tpw.md), [THEORY-tmpoxssh](record/theory.d/THEORY-tmpoxssh.md)) and Illich's Tools for
   Conviviality read as a two-page excerpt, the whole book Unfetched
-  (NOTE-tmp8ceuj, THEORY-tmpww16o); both LITs Active. Marcuse's place in
+  ([NOTE-tmp8ceuj](record/notes.d/NOTE-tmp8ceuj.md), [THEORY-tmpww16o](record/theory.d/THEORY-tmpww16o.md)); both LITs Active. Marcuse's place in
   the domination threshold is restated, controllers who choose a veiled
-  project rather than constraint no one holds (ARG-tmpsh7he, version 2);
-  his mixed support for the compulsion claim is argued in ARG-tmpqo6eu;
+  project rather than constraint no one holds ([ARG-tmpsh7he](record/arguments.d/ARG-tmpsh7he.md), version 2);
+  his mixed support for the compulsion claim is argued in [ARG-tmpqo6eu](record/arguments.d/ARG-tmpqo6eu.md);
   three of the Farr stand-in's attributions are corrected; dated notes on
   the claims and questions the books bear on.

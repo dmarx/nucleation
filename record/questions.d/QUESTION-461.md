@@ -182,7 +182,7 @@ second branch from the dependent's side. The question is unchanged.
 
 ## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
 
-Marcuse (THEORY-tmpoxssh, NOTE-tmpf1tpw) gives worked cases of the
+Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) gives worked cases of the
 second branch, an organization keeping indispensable contributions from
 becoming claims on it. Chapter 2's integration of labour: the union
 "almost indistinguishable in its own eyes from the corporation", workers

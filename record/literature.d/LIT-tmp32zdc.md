@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full on 2026-11-13 from the whole book posted chapter by chapter on the Marcuse family''s site, https://www.marcuse.org/herbert/pubs/64onedim/ (contents, Introduction, chapters 1 to 10), on the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). An OCR transcription; quotations follow it. Read in NOTE-tmpf1tpw; account THEORY-tmpoxssh. Farr''s SEP entry (LIT-tmpldtwo) stood in before.'
+status_note: 'read in full on 2026-11-13 from the whole book posted chapter by chapter on the Marcuse family''s site, https://www.marcuse.org/herbert/pubs/64onedim/ (contents, Introduction, chapters 1 to 10), on the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). An OCR transcription; quotations follow it. Read in [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md); account [THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md). Farr''s SEP entry ([LIT-tmpldtwo](LIT-tmpldtwo.md)) stood in before.'
 title: 'One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society'
 version: 3
 history:
@@ -50,18 +50,18 @@ keywords:
 implementations: []
 summary: >-
   Herbert Marcuse (1964). One-Dimensional Man. Beacon Press. Read in
-  full (NOTE-tmpf1tpw). Advanced industrial society contains qualitative
+  full ([NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)). Advanced industrial society contains qualitative
   change by satisfying needs it has itself produced, "false" needs
   "superimposed upon the individual by particular social interests in
   his repression": a "comfortable, smooth, reasonable, democratic
   unfreedom" secured by "Technology rather than Terror", in which
   "Domination is transfigured into administration". The apparatus's
   impersonality veils the interests that choose a society's project, and
-  its administrators are enclosed by it too. It bounds CLAIM-tmpkjv7u,
+  its administrators are enclosed by it too. It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md),
   because control through a veiled project is not discretion over the
-  dependent, not because no one holds it (ARG-tmpsh7he); it corroborates
-  CLAIM-tmpbypt7's mechanism and argues against its measure, "what can
-  be chosen and what is chosen" (ARG-tmpqo6eu). Account: THEORY-tmpoxssh.
+  dependent, not because no one holds it ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md)); it corroborates
+  [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s mechanism and argues against its measure, "what can
+  be chosen and what is chosen" ([ARG-tmpqo6eu](../arguments.d/ARG-tmpqo6eu.md)). Account: [THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md).
 ---
 <!-- inactive-ok-file: ARG-tmpqo6eu ARG-tmpsh7he CLAIM-tmpbypt7 CLAIM-tmpkjv7u THEORY-tmpnydju THEORY-tmpoxssh — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpi8t8i — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -74,7 +74,7 @@ Herbert Marcuse (1964). *One-Dimensional Man*. Boston: Beacon Press. Routledge e
 
 ## Key takeaways
 
-Read in full on 2026-11-13 (NOTE-tmpf1tpw); quotations as the OCR copy
+Read in full on 2026-11-13 ([NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)); quotations as the OCR copy
 prints them.
 
 - "A comfortable, smooth, reasonable, democratic unfreedom prevails in
@@ -106,11 +106,11 @@ Before the owner's ruling: Unavailable. Stand-in: [LIT-tmpldtwo](LIT-tmpldtwo.md
 ## Reading of 2026-11-13: the book
 
 Read in full from the marcuse.org copy, on the owner's ruling of
-2026-11-13 ("the copies are fine"): NOTE-tmpf1tpw, Read; account
-THEORY-tmpoxssh, which bounds CLAIM-tmpkjv7u, corroborates CLAIM-tmpbypt7
-and bears on QUESTION-071, QUESTION-057, QUESTION-460 and QUESTION-461.
+2026-11-13 ("the copies are fine"): [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md), Read; account
+[THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), which bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)
+and bears on [QUESTION-071](../questions.d/QUESTION-071.md), [QUESTION-057](../questions.d/QUESTION-057.md), [QUESTION-460](../questions.d/QUESTION-460.md) and [QUESTION-461](../questions.d/QUESTION-461.md).
 The book corrects the stand-in on three attributions (dated notes on
-NOTE-tmpi8t8i and THEORY-tmpnydju) and on Marcuse's place in the
-domination threshold (ARG-tmpsh7he, version 2). Marcuse cites Simondon's
+[NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md) and [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)) and on Marcuse's place in the
+domination threshold ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md), version 2). Marcuse cites Simondon's
 Du mode d'existence des objets techniques repeatedly; the record does not
 hold it.

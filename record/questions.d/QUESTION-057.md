@@ -42,7 +42,7 @@ A non-self-report measure of integration, such as the overlap of everyday and tr
 
 ## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
 
-Marcuse (THEORY-tmpoxssh, NOTE-tmpf1tpw) bears on the question's premise
+Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) bears on the question's premise
 that avowal may not settle it. True and false needs must be told apart
 by the individuals themselves, "but only in the last analysis; that is,
 if and when they are free to give their own answer"; and "No matter how

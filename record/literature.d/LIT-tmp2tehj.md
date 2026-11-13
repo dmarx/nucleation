@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'a two-page excerpt read on 2026-11-13 (NOTE-tmp8ceuj, Skimmed) from https://iso.mor.phis.me/teaching/2023-2024/IA/textes/conviviality.pdf, a teaching page''s PDF headed "Extrait du livre Tools for conviviality paru en 1973": an excerpt, not the whole-book copy this note called it before. The whole book at https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf is Unfetched on 2026-11-13: TLS verification failed (the server''s certificate chains to a root this session does not trust), and it was not worked around. Both copies are covered by the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). Cayley''s reading (LIT-tmpc1xee) still stands in for what the excerpt does not reach.'
+status_note: 'a two-page excerpt read on 2026-11-13 ([NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md), Skimmed) from https://iso.mor.phis.me/teaching/2023-2024/IA/textes/conviviality.pdf, a teaching page''s PDF headed "Extrait du livre Tools for conviviality paru en 1973": an excerpt, not the whole-book copy this note called it before. The whole book at https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf is Unfetched on 2026-11-13: TLS verification failed (the server''s certificate chains to a root this session does not trust), and it was not worked around. Both copies are covered by the owner''s ruling of 2026-11-13 that the whole-book copies named here are fine to read ("the copies are fine"). Cayley''s reading ([LIT-tmpc1xee](LIT-tmpc1xee.md)) still stands in for what the excerpt does not reach.'
 title: 'Tools for Conviviality'
 version: 3
 history:
@@ -57,17 +57,17 @@ implementations: []
 summary: >-
   Ivan Illich (1973). Tools for Conviviality. Calder & Boyars.
   DOI-10.1558/isbn.9780714521602. A two-page excerpt read
-  (NOTE-tmp8ceuj); the whole book is Unfetched. "People need new tools
+  ([NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md)); the whole book is Unfetched. "People need new tools
   to work with rather than tools that “work” for them"; conviviality is
   "individual freedom realized in personal interdependence"; radical
   monopoly is "the dominance of one type of product rather than the
   dominance of one brand", where one industrial process takes exclusive
   control of a pressing need and "excludes nonindustrial activities from
   competition", as motor traffic "curtails the right to walk". It
-  corroborates CLAIM-tmpbypt7's measure and road mechanism, and adds one,
-  "Cars create distance"; it corroborates CLAIM-tmp6wuql's distinction
-  and bounds CLAIM-tmpkjv7u. Account: THEORY-tmpww16o. Cayley's reading
-  (THEORY-tmpxwo9k) still carries the burial case and "unimaginable",
+  corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s measure and road mechanism, and adds one,
+  "Cars create distance"; it corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s distinction
+  and bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md). Account: [THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md). Cayley's reading
+  ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)) still carries the burial case and "unimaginable",
   which the excerpt does not reach.
 ---
 <!-- inactive-ok-file: THEORY-tmpww16o THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -80,7 +80,7 @@ Ivan Illich (1973). *Tools for Conviviality*. London: Calder & Boyars (Marion Bo
 
 ## Key takeaways
 
-From the two-page excerpt read on 2026-11-13 (NOTE-tmp8ceuj).
+From the two-page excerpt read on 2026-11-13 ([NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md)).
 
 - "People need new tools to work with rather than tools that “work” for
   them." U1's question ("Does a technology increase what people can do
@@ -111,10 +111,10 @@ Before the owner's ruling: Unavailable. Copies located, not fetched pending the 
 ## Reading of 2026-11-13: the excerpt
 
 After the owner's ruling of 2026-11-13: the teaching page's file turned
-out to be a two-page excerpt, read in full (NOTE-tmp8ceuj, Skimmed;
-account THEORY-tmpww16o); the Cornell whole-book copy is Unfetched (TLS
+out to be a two-page excerpt, read in full ([NOTE-tmp8ceuj](../notes.d/NOTE-tmp8ceuj.md), Skimmed;
+account [THEORY-tmpww16o](../theory.d/THEORY-tmpww16o.md)); the Cornell whole-book copy is Unfetched (TLS
 failure). The excerpt does not reach the burial case, "inaccessible or
 unimaginable", the watersheds or counterproductivity, so the
-qualification of CLAIM-tmpbypt7's title still rests on Cayley
-(THEORY-tmpxwo9k). The reading should be completed from the whole book
+qualification of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s title still rests on Cayley
+([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)). The reading should be completed from the whole book
 when it can be fetched.
