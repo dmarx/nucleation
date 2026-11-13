@@ -1,3 +1,5 @@
+<!-- inactive-ok-file: CLAIM-603 — Proposed; the claim the proposed test would decide -->
+<!-- inactive-ok-file: TERM-tmpexetd TERM-tmplqaer CLAIM-tmpwvg2o CLAIM-tmpwgiwq CLAIM-tmph4j5r CLAIM-tmp09pjt CLAIM-tmpdp56s CLAIM-tmpfrjqq CLAIM-tmpub743 CASE-tmpkqwn1 CASE-tmpbjaiq — filed on 2026-11-13 from the remaining items of the exchange and the filer's ideas, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpu2cwc CLAIM-tmpsmg1c TERM-tmpt8p9e CASE-tmpf71w4 ARG-tmp7y8r4 ARG-tmpar7tl ARG-tmpsh7he ARG-tmpqo6eu THEORY-tmpoxssh THEORY-tmpww16o — filed from the exchange "Analyze technological civilization trap" (2026-11-13) or its readings, Proposed -->
 <!-- inactive-ok-file: NOTE-tmp8ceuj — filed from the readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the term the new definition rivals -->
@@ -93,3 +95,27 @@
   [ARG-tmpar7tl](record/arguments.d/ARG-tmpar7tl.md) and [ARG-tmpqo6eu](record/arguments.d/ARG-tmpqo6eu.md) take the line beside their own. Wolf's
   meaning and Sen's agency freedom are held as readings and mapped.
   The curation entry's "What was left" now says what is filed.
+- The rest of the exchange's unfiled items, at the owner's word ("file
+  the still unfiled stuff"), all A's and Proposed: two terms
+  (value-constituting limit, TERM-tmpexetd; cultural reflexivity,
+  TERM-tmplqaer); six claims (restraint bounded by competition,
+  CLAIM-tmpwvg2o; accountability rising with indispensability,
+  CLAIM-tmpwgiwq; time as a limit on substantive freedom, CLAIM-tmph4j5r;
+  an arrangement eroding the capacity to govern it, CLAIM-tmp09pjt; three
+  separable dimensions of power over a technology, CLAIM-tmpdp56s;
+  efficiency against reconfiguration, demonstrated from CLAIM-571,
+  CLAIM-tmpfrjqq); three questions (what fixes "emergent purpose
+  divergence", QUESTION-tmpuby8o; what makes "constitutive exploitation"
+  unjust, QUESTION-tmpkefdg; whether capability gains can be made
+  self-reinforcing, QUESTION-tmp8ifit); and two cases (regressive progress,
+  CASE-tmpkqwn1; the hospital network, CASE-tmpbjaiq). The exchange's
+  recaps of its standard are mapped in a note on QUESTION-tmpvpq3r; the
+  curation entry's "What was left" says what each item became. U1 and the
+  thinkers named without a work stay unfiled.
+- The filer's own ideas 2–4, the assistant's and Proposed: the domination
+  threshold's third condition checked against CLAIM-523, which covers its
+  voice and not its exit (CLAIM-tmpub743, demonstrated); CLAIM-605's model
+  run against the reversibility principle, gradual on entry and abrupt on
+  exit, with a new script, scratch/formal/capability_trap_reversibility.py
+  (notes on CLAIM-605 and CLAIM-tmpsmg1c); and a proposed test of CLAIM-603
+  by the capability trajectory under withdrawal (note on CLAIM-603).
