@@ -622,6 +622,16 @@ vocabularies:
           physical bounds — compatibility against reachability, budgeted composition of processes, finding
           against navigating, restricted and enriched Yoneda profiles, isomorphism against persistence, with
           origami as the laboratory (ADR-073)
+      flourishing-and-meaning:
+        label: Flourishing and meaning in life
+        blurb: what makes a life go well for the one living it and what makes it meaningful — meaning in life
+          as subjective attraction to what is objectively worthwhile (Wolf), capability and agency freedom
+          against functionings achieved and well-being freedom (Sen), basic needs against what only raises
+          reported well-being, self-realization and its distortions when a life is organized around a proxy
+          for its good, and how arrangements and technologies widen or narrow the lives open to people. Whose
+          a will is stays with authenticity, what organizes efficacy with will-organization, judging an
+          organization with organizational-normativity, and a whole's success against its members' good with
+          distributed-agency (ADR-tmp6wnv0)
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
