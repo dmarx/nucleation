@@ -45,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-624 CLAIM-511 — Proposed; the record's nearest claims, cited with their standing -->
 
-# Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit
+# CLAIM-tmpu2cwc: Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit
 
 ## The claim
 

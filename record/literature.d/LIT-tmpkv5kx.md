@@ -40,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-053 — Proposed; the account A20 sets beside Mumford, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
 
-# The Myth of the Machine
+# LIT-tmpkv5kx: The Myth of the Machine
 
 Lewis Mumford (1967, 1970). *The Myth of the Machine*, 2 vols. (*Technics and Human Development*; *The Pentagon of Power*). New York: Harcourt, Brace Jovanovich.
 

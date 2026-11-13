@@ -37,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
 
-# Shop Class as Soulcraft: An Inquiry into the Value of Work
+# LIT-tmpy2xkm: Shop Class as Soulcraft: An Inquiry into the Value of Work
 
 Matthew B. Crawford (2009). *Shop Class as Soulcraft: An Inquiry into the Value of Work*. New York: Penguin Press.
 

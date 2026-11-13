@@ -47,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
-# Technological Slavery
+# LIT-tmp54uw9: Technological Slavery
 
 Theodore J. Kaczynski (2010). *Technological Slavery*. Port Townsend: Feral House. Collected writings, including the 1995 manifesto "Industrial Society and Its Future". Its author was convicted of the bombing campaign that killed three people and injured many others.
 

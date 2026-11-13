@@ -38,7 +38,7 @@ summary: >-
   unverified until read.
 ---
 
-# Moral Saints
+# LIT-tmphwzap: Moral Saints
 
 Susan Wolf (1982). Moral Saints. *The Journal of Philosophy* 79(8), 419–439. DOI-10.2307/2026228.
 

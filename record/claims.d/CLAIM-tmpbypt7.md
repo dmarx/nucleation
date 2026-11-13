@@ -52,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-tmp7y8r4 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpdprtt LIT-tmp2tehj LIT-tmp6zjsx — Deferred; registered from the same exchange, unread -->
 
-# A technology can become practically compulsory without any rule requiring it: as infrastructures, competitors and expectations adapt to its adoption, the alternatives left to those who decline it shrink, so the freedom an arrangement leaves is measured by what remains open to a non-adopter, not by what it lets adopters do
+# CLAIM-tmpbypt7: A technology can become practically compulsory without any rule requiring it: as infrastructures, competitors and expectations adapt to its adoption, the alternatives left to those who decline it shrink, so the freedom an arrangement leaves is measured by what remains open to a non-adopter, not by what it lets adopters do
 
 ## The claim
 

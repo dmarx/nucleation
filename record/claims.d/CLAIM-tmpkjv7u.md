@@ -50,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1614 — Unavailable; Pettit, the republican account A draws on, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
-# A dependence becomes presumptively dominating when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; dependence lacking the second or third is not domination, however complete
+# CLAIM-tmpkjv7u: A dependence becomes presumptively dominating when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; dependence lacking the second or third is not domination, however complete
 
 ## The claim
 

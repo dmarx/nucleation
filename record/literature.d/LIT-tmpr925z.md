@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
 
-# The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
+# LIT-tmpr925z: The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
 
 Shoshana Zuboff (2019). *The Age of Surveillance Capitalism*. New York: PublicAffairs; London: Profile Books.
 

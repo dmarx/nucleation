@@ -31,7 +31,7 @@ summary: >-
   exchange says of it is unverified until read.
 ---
 
-# Imagination: A Manifesto
+# LIT-tmp5we9z: Imagination: A Manifesto
 
 Ruha Benjamin (2024). *Imagination: A Manifesto*. New York: W. W. Norton.
 

@@ -37,7 +37,7 @@ summary: >-
   unverified until read.
 ---
 
-# Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence
+# LIT-tmpn03u4: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence
 
 Kate Crawford (2021). *Atlas of AI*. New Haven: Yale University Press. DOI-10.12987/9780300252392.
 

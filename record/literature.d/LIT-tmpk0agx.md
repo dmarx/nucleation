@@ -40,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-025 — Proposed; the record's reading of Sen, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
 
-# Commodities and Capabilities
+# LIT-tmpk0agx: Commodities and Capabilities
 
 Amartya Sen (1985). *Commodities and Capabilities*. Amsterdam: North-Holland.
 

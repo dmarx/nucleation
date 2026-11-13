@@ -37,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: SYNTHESIS-058 — Proposed; the account A20 sets beside Postman, cited with its standing -->
 
-# Technopoly: The Surrender of Culture to Technology
+# LIT-tmplkkhu: Technopoly: The Surrender of Culture to Technology
 
 Neil Postman (1992). *Technopoly: The Surrender of Culture to Technology*. New York: Knopf.
 

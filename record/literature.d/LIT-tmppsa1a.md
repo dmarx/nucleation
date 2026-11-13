@@ -41,7 +41,7 @@ summary: >-
   read.
 ---
 
-# The Burnout Society
+# LIT-tmppsa1a: The Burnout Society
 
 Byung-Chul Han (2015). *The Burnout Society*, trans. Erik Butler. Stanford: Stanford University Press. DOI-10.1515/9780804797504. German original *Müdigkeitsgesellschaft* (2010).
 

@@ -38,7 +38,7 @@ summary: >-
   What the exchange says of it is unverified until read.
 ---
 
-# Resonance: A Sociology of Our Relationship to the World
+# LIT-tmpmhvv4: Resonance: A Sociology of Our Relationship to the World
 
 Hartmut Rosa (2019). *Resonance: A Sociology of Our Relationship to the World*, trans. James C. Wagner. Cambridge: Polity. German original *Resonanz* (2016).
 

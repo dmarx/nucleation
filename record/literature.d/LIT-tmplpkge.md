@@ -39,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
 
-# The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking
+# LIT-tmplpkge: The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking
 
 Shannon Vallor (2024). *The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking*. New York: Oxford University Press. DOI-10.1093/oso/9780197759066.001.0001.
 

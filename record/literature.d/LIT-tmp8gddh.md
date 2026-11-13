@@ -36,7 +36,7 @@ summary: >-
   exchange says of it is unverified until read.
 ---
 
-# Psychopolitics: Neoliberalism and New Technologies of Power
+# LIT-tmp8gddh: Psychopolitics: Neoliberalism and New Technologies of Power
 
 Byung-Chul Han (2017). *Psychopolitics: Neoliberalism and New Technologies of Power*, trans. Erik Butler. London: Verso. German original *Psychopolitik* (2014).
 

@@ -36,7 +36,7 @@ summary: >-
   exchange). What the exchange says of it is unverified until read.
 ---
 
-# Development as Freedom
+# LIT-tmpawaw5: Development as Freedom
 
 Amartya Sen (1999). *Development as Freedom*. New York: Knopf; Oxford: Oxford University Press.
 

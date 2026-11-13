@@ -35,7 +35,7 @@ summary: >-
   exchange says of it is unverified until read.
 ---
 
-# The Question Concerning Technology in China: An Essay in Cosmotechnics
+# LIT-tmpkmf6f: The Question Concerning Technology in China: An Essay in Cosmotechnics
 
 Yuk Hui (2016). *The Question Concerning Technology in China: An Essay in Cosmotechnics*. Falmouth: Urbanomic.
 

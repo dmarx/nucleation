@@ -38,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpu2cwc — filed from the same exchange, Proposed -->
 
-# Transforming Technology: A Critical Theory Revisited
+# LIT-tmpuvsyl: Transforming Technology: A Critical Theory Revisited
 
 Andrew Feenberg (2002). *Transforming Technology: A Critical Theory Revisited*. New York: Oxford University Press. DOI-10.1093/oso/9780195146158.001.0001.
 

@@ -34,7 +34,7 @@ summary: >-
   intentions. What the exchange says of it is unverified until read.
 ---
 
-# What Technology Wants
+# LIT-tmp5j2b7: What Technology Wants
 
 Kevin Kelly (2010). *What Technology Wants*. New York: Viking.
 

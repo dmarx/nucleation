@@ -39,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
-# Social Acceleration: A New Theory of Modernity
+# LIT-tmp6zjsx: Social Acceleration: A New Theory of Modernity
 
 Hartmut Rosa (2013). *Social Acceleration: A New Theory of Modernity*, trans. Jonathan Trejo-Mathys. New York: Columbia University Press. DOI-10.7312/rosa14834. German original *Beschleunigung* (2005).
 

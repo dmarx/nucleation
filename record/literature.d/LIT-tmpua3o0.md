@@ -36,7 +36,7 @@ summary: >-
   unverified until read.
 ---
 
-# Race After Technology: Abolitionist Tools for the New Jim Code
+# LIT-tmpua3o0: Race After Technology: Abolitionist Tools for the New Jim Code
 
 Ruha Benjamin (2019). *Race After Technology: Abolitionist Tools for the New Jim Code*. Cambridge: Polity.
 

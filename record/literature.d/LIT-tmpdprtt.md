@@ -41,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
-# The Technological Society
+# LIT-tmpdprtt: The Technological Society
 
 Jacques Ellul (1964). *The Technological Society*, trans. John Wilkinson. New York: Knopf. First published as *La Technique ou l'enjeu du siècle* (1954).
 

@@ -41,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->
 
-# Tools for Conviviality
+# LIT-tmp2tehj: Tools for Conviviality
 
 Ivan Illich (1973). *Tools for Conviviality*. London: Calder & Boyars (Marion Boyars). DOI-10.1558/isbn.9780714521602.
 

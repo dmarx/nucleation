@@ -41,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-184 — Proposed; the record's nearest claim, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 
-# When a choice about a technology or an institution could substantially and durably narrow the possibilities later open to those it affects, the burden of justifying it should rise with the size and the irreversibility of the narrowing
+# CLAIM-tmpsmg1c: When a choice about a technology or an institution could substantially and durably narrow the possibilities later open to those it affects, the burden of justifying it should rise with the size and the irreversibility of the narrowing
 
 ## The claim
 

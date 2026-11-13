@@ -33,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 CLAIM-511 SYNTHESIS-023 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
 
-# cross-scale concordance, relative to declared parties, claims and horizon: of an encompassing organization's operation and development with the independently justified claims of those who constitute, sustain, depend on or are affected by it, together with the effective answerability of its governing arrangements to those claims; not alignment, harmony or Pareto improvement
+# TERM-tmpt8p9e: cross-scale concordance, relative to declared parties, claims and horizon: of an encompassing organization's operation and development with the independently justified claims of those who constitute, sustain, depend on or are affected by it, together with the effective answerability of its governing arrangements to those claims; not alignment, harmony or Pareto improvement
 
 ## Definition
 

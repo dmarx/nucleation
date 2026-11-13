@@ -33,7 +33,7 @@ summary: >-
   exchange says of it is unverified until read.
 ---
 
-# You Are Not a Gadget: A Manifesto
+# LIT-tmpj5wpm: You Are Not a Gadget: A Manifesto
 
 Jaron Lanier (2010). *You Are Not a Gadget: A Manifesto*. New York: Alfred A. Knopf.
 

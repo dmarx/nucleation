@@ -43,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-685 LIT-688 LIT-690 — Unavailable; Wolf's works on responsibility, cited with their standing -->
 <!-- inactive-ok-file: LIT-183 — Unavailable; Hiekel on Wolf, cited with its standing -->
 
-# Meaning in Life and Why It Matters
+# LIT-tmpzu593: Meaning in Life and Why It Matters
 
 Susan Wolf (2010). *Meaning in Life and Why It Matters*, with commentaries by Koethe, Adams, Arpaly and Haidt. Princeton: Princeton University Press. DOI-10.1515/9781400834594.
 

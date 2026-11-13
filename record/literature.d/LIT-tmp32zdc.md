@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-025 — Proposed; the record's reading of Sen, cited with its standing -->
 
-# One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society
+# LIT-tmp32zdc: One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society
 
 Herbert Marcuse (1964). *One-Dimensional Man*. Boston: Beacon Press. Routledge edition DOI-10.4324/9780203995211.
 

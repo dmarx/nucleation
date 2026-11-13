@@ -37,7 +37,7 @@ summary: >-
   book. What the exchange says of it is unverified until read.
 ---
 
-# The Idea of Justice
+# LIT-tmpl0haz: The Idea of Justice
 
 Amartya Sen (2009). *The Idea of Justice*. Cambridge, Mass.: Belknap Press of Harvard University Press. DOI-10.4159/9780674054578.
 

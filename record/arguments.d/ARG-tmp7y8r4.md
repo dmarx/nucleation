@@ -29,7 +29,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-885 CLAIM-445 — Proposed; readings and claims named for comparison, nothing here rests on them -->
 
-# Arthur's increasing-returns lock-in carries to the claim that a technology can become practically compulsory for those who decline it only for the infrastructural mechanism, and only where non-adoption is a third option whose returns fall as adoptions accumulate
+# ARG-tmp7y8r4: Arthur's increasing-returns lock-in carries to the claim that a technology can become practically compulsory for those who decline it only for the infrastructural mechanism, and only where non-adoption is a third option whose returns fall as adoptions accumulate
 
 ## The inference
 
